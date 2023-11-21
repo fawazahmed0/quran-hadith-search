@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Angels come to you in succes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah telah menceritakan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Para Malaikat malam dan Malaikat siang silih berganti mendatangi kalian. Dan mereka berkumpul saat shalat Fajar (Subuh) dan 'Ashar. Kemudian Malaikat yang menjaga kalian naik ke atas hingga Allah Ta'ala bertanya kepada mereka, dan Allah lebih mengetahui keadaan mereka (para hamba-Nya), 'Dalam keadaan bagaimana kalian tinggalkan hamba-hambaKu? ' Para Malaikat menjawab, 'Kami tinggalkan mereka dalam keadaan sedang mendirikan shalat. Begitu juga saat kami mendatangi mereka, mereka sedang mendirikan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Ангелы, пребывающие среди вас ночью, сменяют тех, кто находится среди вас днём, а встречаются они друг с другом во время утренней и послеполуденной молитв. После этого те (ангелы), которые провели среди вас ночь, возносятся (к небесам), и (Аллах) спрашивает их: “В каком (положении) оставили вы рабов Моих?” — хотя Он и знает (всё о вас) лучше (ангелов), а они отвечают: “Мы покинули их, когда они молились, и когда мы пришли к ним, они (тоже) молились”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
 

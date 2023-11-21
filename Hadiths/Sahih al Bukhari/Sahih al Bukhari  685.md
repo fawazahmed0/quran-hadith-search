@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik bin Huwairith:We went to the Prophet (ﷺ) and we were all young 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qilabah] dari [Malik bin Al Huwairits] berkata, "Kami pernah mendatangi Nabi shallallahu 'alaihi wasallam, saat itu kami adalah para pemuda dan kami tinggal bersama beliau selama dua puluh malam. Kami dapati Nabi shallallahu 'alaihi wasallam adalah orang yang sangat penyayang. Beliau bersabda kepada kami: "Jika kalian kembali kepada ke negeri kalian, maka jarilah mereka, dan perintahkanlah mereka shalat ini pada waktu begini, shalat ini pada waktu begini. Dan apabila telah datang waktu shalat, maka hendaklah seseorang dari kalian adzan dan hendaklah yang mengimami shalat adalah yang paling tua di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>685</td></tr><tr><td>Arabic No</td><td>685</td></tr><tr><td>Reference</td><td>Book 10 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Малик ибн аль-Хувайрис, да будет доволен им Аллах, сказал: «(В своё время) будучи молодыми людьми, мы пришли к Пророку ﷺ и прожили у него около двадцати дней. Пророк ﷺ был добр с нами, и он сказал: “Если бы вы вернулись в свои земли и научили их (религии)! Велите им творить (благое) и пусть они совершают намаз так-то и в такое-то время. И намаз совершается так-то и в такое-то время. А когда настанет время намаза, пусть один из вас призовёт вас к намазу, и пусть старший из вас руководит вашим намазом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>685</td></tr><tr><td>Arabic No</td><td>685</td></tr><tr><td>Reference</td><td>Book 10 Hadith 79</td></tr></tbody></table></div>
 

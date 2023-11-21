@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:Once I went to him (the Prophet (ﷺ) ) and he said, "By Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] dari [Al Ma'rur bin Suwaid] dari [Abu Dzar radliallahu 'anhu] berkata,: "Aku sampai didekat Nabi Shallallahu'alaihiwasallam ketika Beliau sedang bersumpah: "Demi Dzat yang jiwaku berada di tanganNya atau demi Dzat yang tidakada ilah selain Dia, atau sebagaimana Beliau bersumpah, tidak ada seorangpun yang memiliki unta atau sapi atau kambing lalu dia tidak mengeluarkan haqnya (zakat) melainkanhewan-hewan itu akan diatangkan kepadanya pada hari qiyamat dalam rupa yang paling besar dan paling gemuk lalu hewan itu akan menginjak-injaknya dengan kakinya dan menyeruduknya dengan tanduknya. Setiap kali hewan lain itu selesai maka hewan yang pertama akan kembali melakukan seperti itu hingga datang keputusan untuk manusia". Dan diriwayatkan pula oleh [Bukair] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1460</td></tr><tr><td>Arabic No</td><td>1460</td></tr><tr><td>Reference</td><td>Book 24 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «Однажды я пришел к Пророку ﷺ и он сказал: “Клянусь Тем, в Чьей Длани моя душа”, — или: “Клянусь Тем, кроме которого нет божества достойного поклонения, тот, кто имеет верблюдов, коров и овец, и не отдает с них должного (закят), в День воскресения их обязательно приведут (этих животных), они будут наиболее большими и полными, (какими были в мире этом), и начнут топтать его своими копытами и бодать своими рогами. И всякий раз, как пройдут по нему первые из них, станут возвращать к нему последних. Это будет происходить, пока не завершится суд среди людей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1460</td></tr><tr><td>Arabic No</td><td>1460</td></tr><tr><td>Reference</td><td>Book 24 Hadith 62</td></tr></tbody></table></div>
 

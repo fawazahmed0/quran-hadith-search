@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Malik:The Prophet (ﷺ) set out on Thursday for the Ghazwa of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Abdur Rahman bin Ka'ab bin Malik] dari [bapaknya radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam keluar pada hari Kamis saat perang Tabuk dan adalah Beliau suka apabila keluar (bepergian) pada hari Kamis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2950</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 56 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн Малик, да будет доволен им Аллах сказал: «Пророк ﷺ отправился в поход на Табук в четверг, и он любил выходить в путь по четвергам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2950</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 56 Hadith 162</td></tr></tbody></table></div>
 

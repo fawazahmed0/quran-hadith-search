@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The word 'Ar-Rahm (womb) derives i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepada kami [Sulaiman] telah menceritakan kepada kami [Abdullah bin Dinar] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya penamaan rahim itu diambil dari (nama Allah) Ar Rahman, lalu Allah berfirman: Barangsiapa menyambungmu maka Akupun menyambungnya dan barangsiapa memutuskanmu maka Akupun akan memutuskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5988</td></tr><tr><td>Arabic No</td><td>5988</td></tr><tr><td>Reference</td><td>Book 78 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, (слово) “рахим” берёт своё происхождение от слова “Рахман”, а Аллах сказал: “Я буду поддерживать связь с тем, кто станет поддерживать вас, и порву с тем, кто станет порывать вас!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5988</td></tr><tr><td>Arabic No</td><td>5988</td></tr><tr><td>Reference</td><td>Book 78 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:The Prophet (ﷺ) said, "After me I have not left any tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] dari [Sualaiman At Taimi] ia berkata; Aku mendengar [Abu Utsman An Nahdi] dari [Usamah bin Zaid] radliallahu 'anhuma berkata; dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidaklah aku meninggalkan suatu fitnah setelahku yang lebih dahsyat bagi kaum laki-laki melebihi fitnah wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5096</td></tr><tr><td>Arabic No</td><td>5096</td></tr><tr><td>Reference</td><td>Book 67 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Усамы бин Зейда, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Не оставлю я после себя искушения, более вредоносного для мужчин, чем женщины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5096</td></tr><tr><td>Arabic No</td><td>5096</td></tr><tr><td>Reference</td><td>Book 67 Hadith 34</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:Sulaik Ghatafani came on Friday when the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khasyram] keduanya dari [Isa bin Yunus] - [Ibnu Khasyram] berkata- telah mengabarkan kepada kami [Isa] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir bin Abdullah] ia berkata; Sulaik Al Ghathafani datang pada hari Jum'at, sementara Rasulullah shallallahu 'alaihi wasallam sedang berkhutbah, ia pun duduk, maka beliau pun bertanya padanya: "Wahai Sulaik, bangun dan shalatlah dua raka'at, kerjakanlah dengan ringan." Kemudian beliau bersabda: "Jika salah seorang dari kalian datang pada hari Jum'at, sedangkan Imam sedang berkhutbah, maka hendaklah ia shalat dua raka'at dengan ringan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2024</td></tr><tr><td>Arabic No</td><td>875.07</td></tr><tr><td>Reference</td><td>Book 7 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Как-то раз) в пятницу Сулейк аль-Гатафани явился (в мечеть) в то время, когда Посланник Аллаха ﷺ произносил проповедь, и сел, (не помолившись). (Пророк ﷺ) сказал ему: “О Сулейк, встань и соверши молитву в два рак‘ата, совершив их кратко!” Затем он сказал: “Если кто-то из вас придёт (в мечеть) в пятницу, в то время, когда имам произносит проповедь, пусть совершит молитву в два рак‘ата и (совершит) их кратко”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2024</td></tr><tr><td>Arabic No</td><td>875.07</td></tr><tr><td>Reference</td><td>Book 7 Hadith 74</td></tr></tbody></table></div>
 

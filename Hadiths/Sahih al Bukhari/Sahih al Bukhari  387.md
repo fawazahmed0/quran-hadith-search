@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim:Hammam bin Al-Harith said, "I saw Jarir bin 'Abdullah urinating
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] berkata, aku mendengar [Ibrahim] menceritakan dari [Hammam bin Al Harits] berkata, "Aku pernah melihat [Jarir bin 'Abdullah] kencing, lalu ia berwudlu dan mengusap dua sepatunya lalu berdiri shalat. Maka hal itu ditanyakan kepadanya, ia lantas menjawab, "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam berbuat seperti ini." Ibrahim berkata, "Yang jadi mengherankan mereka adalah karena Jarir adalah termasuk di antara orang yang masuk Islam belakangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>387</td></tr><tr><td>Arabic No</td><td>387</td></tr><tr><td>Reference</td><td>Book 8 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаммам ибн аль-Харис сказал: «Я видел, как однажды Джарир ибн ‘Абдуллах, да будет доволен им Аллах, помочился, потом совершил омовение и протёр (влажными руками) свои кожаные носки, а потом встал и совершил молитву. Его спросили (об этом), и он ответил: “Я видел, что Пророк ﷺ поступал так же”».\n(Один из передатчиков этого хадиса) Ибрахим (ан-Наха‘и) сказал: «Это понравилось (его товарищам), так как Джарир был одним из тех, кто принял Ислам поздно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>387</td></tr><tr><td>Arabic No</td><td>387</td></tr><tr><td>Reference</td><td>Book 8 Hadith 39</td></tr></tbody></table></div>
 

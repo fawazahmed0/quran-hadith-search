@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) saw some sputum on the wall facing the Qibl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwasanya Nabi shallallahu 'alaihi wasallam melihat ludah pada arah qiblat masjid. Spontan Beliau menampakkan kemarahannya kepada jama'ah masjid seraya bersabda: "Sesungguhnya Allah berada dihadapan setiap orang dari kalian (saat shalat). Maka bila sedang shalat janganlah seseorang meludah" atau sabdanya: "janganlah dia membuang dahak". Kemudian Beliau turun lalu menggosok ludah tersebut dengan tangannya. Dan berkata, Ibnu'Umar radliallahu 'anhuma: "Jika seorang dari kalian meludah, maka meludahlah kearah kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1213</td></tr><tr><td>Arabic No</td><td>1213</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что (однажды) Пророк ﷺ увидел плевок на стене мечети, направленной в сторону киблы. Он разгневался на тех, кто был в мечети, сказав: «Поистине, Аллах (находится) перед каждым из вас, поэтому не плюйте перед собой, когда совершаете молитву!» Затем он спустился (с минбара) и протер ее своей рукой. Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Если кто-то из вас будет плевать, то пусть плюет влево»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1213</td></tr><tr><td>Arabic No</td><td>1213</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
 

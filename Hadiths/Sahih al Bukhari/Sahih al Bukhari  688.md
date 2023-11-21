@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:the mother of the believers: Allah's Messenger (ﷺ) during his i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] Ummul Mukminin, bahwa ia berkata, "Saat sakit Rasulullah shallallahu 'alaihi wasallam pernah shalat di rumahnya sambil duduk. Dan segolongan kaum shalat di belakang beliau dengan berdiri. Maka beliau memberi isyarat kepada mereka agar duduk. Ketika shalat sudah selesai beliau bersabda: "Sesungguhnya imam dijadikan untuk diikuti, apabila dia rukuk maka rukuklah kalian, bila dia mengangkat kepalanya maka angkatlah kepala kalian. Dan bila dia shalat dengan duduk, maka shalatlah kalian dengan duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>688</td></tr><tr><td>Reference</td><td>Book 10 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша — мать правоверных, да будет доволен ею Аллах, сказала: «Однажды Посланник Аллаха ﷺ который страдал от боли, начал совершать у себя дома намаз сидя, в то время как люди, находившиеся позади него, молились стоя. Он сделал им знак сесть, а закончив (молиться), сказал: “Имам назначается для того, чтобы (во время намаза) другие следовали его примеру, и если он совершит поясной поклон, то поклонитесь и вы, если он поднимет (голову), поднимайте и вы, а если он молится сидя, то молитесь сидя и вы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>688</td></tr><tr><td>Reference</td><td>Book 10 Hadith 82</td></tr></tbody></table></div>
 

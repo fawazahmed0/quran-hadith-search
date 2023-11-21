@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abida narrated from 'Ali that he made a mention of the Khawarij (and in this con
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] telah menceritakan kepada kami [Ibnu Ulayyah] dan [Hammad bin Ziyad] -dalam jalur lain- Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad bin Zaid] -dalam jalur lain dan Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] -lafazh dari mereka berdua- keduanya berkata, Telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Ayyub] dari [Muhammad] dari [Abidah] dari [Ali] ia berkata; Bahwa Ali pernah menyebut tentang kaum Khawarij dan berkata; "Di antara mereka ada seorang laki-laki yang pendek tangannya. Dan kalaulah kalian tidak akan sombong, niscaya aku akan menceritakan kepada kalian tentahg janji apa yang akan diberrikan Allah bagi siapa yang membunuhnya, yakni berdasarkan hadits dari lisan Nabi Muhammad shallallahu 'alaihi wasallam." Aku bertanya, "Apakah Anda mendengarnya darii Muhammad shallallahu 'alaihi wasallam?" Ali menjawab, "Ya, demi Rabb-nya Ka'bah. Ya, demi Rabb-nya Ka'bah. Ya, demi Rabb-nya Ka'bah." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Ibnu Aun] dari [Muhammad] dari [Abidah] ia berkata; "Aku tidak akan menceritakan kepada kalian, kecuali apa yang telah aku dengar darinya." Lalu ia pun menyebutkan hadits dari [Ali], sebagaimana haditsnya Ayyub secara Marfu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2465</td></tr><tr><td>Arabic No</td><td>1066.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абида (ас-Сальмани) передал о том, что (однажды) ‘Али (ибн Аби Талиб) упомянул хариджитов и сказал: «Среди них есть человек с дефектом руки (или: с маленькой рукой), и если бы не стали вы проявлять жестокость, то я рассказал бы вам о том, что обещал Аллах языком Мухаммада ﷺ тем, кто станет убивать их».(‘Абида) сказал: «Я спросил: “И ты слышал это от (самого) Мухаммада ﷺ!?” Он ответил: “Да, клянусь Господом Каабы! Да, клянусь Господом Каабы! Да, клянусь Господом Каабы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2465</td></tr><tr><td>Arabic No</td><td>1066.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 202</td></tr></tbody></table></div>
 

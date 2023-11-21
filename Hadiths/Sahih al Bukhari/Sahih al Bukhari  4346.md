@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:Allah's Messenger (ﷺ) sent me (as a governor) to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abbas bin Al Walid, alias An Narsi] Telah menceritakan kepada kami [Abdul Wahid] dari [Ayyub bin 'Aidz] Telah menceritakan kepada kami [Qais bin Muslim] katanya, aku mendengar [Thariq bin Syihab] mengatakan, Telah menceritakan kepadaku [Abu Musa Al Asy'ary] radliallahu 'anhu, katanya, Rasulullah shallallahu 'alaihi wasallam mengutusku ke perkampungan kaumku, selanjutnya aku singgah di Abtah. Rasulullah bertanya: "Apa telah engkau lakukan haji wahai Abdullah bin Qais (sebutan Abu Musa)?"Ya Rasulullah" jawabku. Tanya Nabi: "Dan bagaimana engkau ucapkan niyat ihram-mu? Kata Abu Musa; aku ucapkan; "LABBAIKA IHLAALAN KA IHLAALIKA." (Aku penuhi panggilan-Mu, aku berniyat ihram sebagaimana ihrammu (Rasul, maksudnya). Nabi bertanya: "Apa engkau juga membawa binatang kurban?"Saya belum membawa, " jawabku. Kata Nabi: "Kalau begitu, lakukanlah thawaf di Baitullah dan lakukanlah sa'i antara Shafa dan Marwa, kemudian lakukanlah tahallul!" dan aku pun mengerjakannya hingga seorang wanita bani Qais menyisiriku dan kami terus melakukan yang demikian hingga Umar diangkat menjadi khalifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4346</td></tr><tr><td>Arabic No</td><td>4346</td></tr><tr><td>Reference</td><td>Book 64 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «(В своё время) Посланник Аллаха ﷺ послал меня на землю моего народа (Йемен), а после возвращения я нашёл его в Батхе (близ Мекки), и его верблюдица была опущена на колени. Он спросил: “Ты совершил хадж, о ’Абдуллах ибн Кайс?” Я ответил: “Да, о Посланник Аллаха”. Он спросил: “Что ты сказал (с каким намерением ты входил в состояние ихрама, какую тальбию произнёс)?” Я ответил: “То же, что и ты”. Он спросил: “Пригнал ли ты с собой жертвенный скот?” Я ответил: “Нет, не пригнал”. Он сказал: “Тогда соверши обход вокруг Каабы, ритуальный бег между (холмами) ас-Сафа и аль-Марва, и выйди из ихрама”. Я так и сделал, а затем одна женщина из племени бану кайс расчесала мне волосы. Мы поступали так? пока не настало время правления ’Умара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4346</td></tr><tr><td>Arabic No</td><td>4346</td></tr><tr><td>Reference</td><td>Book 64 Hadith 373</td></tr></tbody></table></div>
 

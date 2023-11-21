@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "When anyone of you d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepa da kami [Ahmad bin Yunus] telah bercerita kepada kami [Al Laits] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang dari kalian meninggal dunia maka akan ditampakkan kepadanya tempat tinggalnya setiap pagi dan petang hari. Jika dia termasuk penduduk surga, maka akan melihat tinggalnya sebagai penduduk surga dan jika dia termasuk penduduk neraka, maka akan melihat tempat tinggalnya sebagai penduduk neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3240</td></tr><tr><td>Arabic No</td><td>3240</td></tr><tr><td>Reference</td><td>Book 59 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «После того как любой из вас умрёт, станут показывать ему его место по утрам и вечерам, и если будет он одним из обитателей Рая, (показывать ему станут одно из мест) обитателей Рая, если же будет он одним из обитателей Огня, (показывать ему станут одно из мест) обитателей Огня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3240</td></tr><tr><td>Arabic No</td><td>3240</td></tr><tr><td>Reference</td><td>Book 59 Hadith 51</td></tr></tbody></table></div>
 

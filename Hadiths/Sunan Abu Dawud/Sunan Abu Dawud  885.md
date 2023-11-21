@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’d reported that he heard his father or his uncle say ; I witnessed the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid bin Abdullah] telah menceritakan kepada kami [Sa'id Al Jurairi] dari [As Sa'di] dari [ayahnya] atau dari [pamannya] dia berkata; "Aku memperhatikan Nabi shallallahu 'alaihi wasallam pada waktu shalat, maka beliau tenang dalam ruku' dan sujudnya sebatas membaca; 'Subhanallah wa bihamdihi (Maha suci Allah dengan segala puji-pujian-Nya)." sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>885</td></tr><tr><td>Arabic No</td><td>885</td></tr><tr><td>Reference</td><td>Book 2 Hadith 495</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ас-Са‘ди передаёт от своего отца или дяди по отцу: «Я наблюдал за Пророком ﷺ когда он совершал молитву. Он совершал поясные и земные поклоны и оставался в таком положении достаточно для того, чтобы успеть сказать: “Пречист Аллах и хвала Ему” трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>885</td></tr><tr><td>Arabic No</td><td>885</td></tr><tr><td>Reference</td><td>Book 2 Hadith 495</td></tr></tbody></table></div>
 

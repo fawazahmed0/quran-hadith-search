@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] semuanya dari [Isma'il bin Ja'far] telah mengabarkan kepadaku [Al Ala'] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Al Masih Dajjal akan datang dari arah Timur menuju Madinah dan berhenti di belakang bukit Uhud. Kemudian Malaikat memalingkan mukanya ke arah Syam dan di sana dia binasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3351</td></tr><tr><td>Arabic No</td><td>1380</td></tr><tr><td>Reference</td><td>Book 15 Hadith 555</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3351</td></tr><tr><td>Arabic No</td><td>1380</td></tr><tr><td>Reference</td><td>Book 15 Hadith 555</td></tr></tbody></table></div>
 

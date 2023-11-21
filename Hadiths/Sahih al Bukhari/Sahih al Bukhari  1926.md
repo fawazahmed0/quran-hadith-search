@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha and Um Salama:At times Allah's Messenger (ﷺ) used to get up in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Sumayya] maulanya Abu Bakar bin 'Abdurrahman bin Al Harits bin Hisyam bin Al Mughirah bahwa dia mendengar [Abu Bakar bin 'Abdurrahman] berkata: "Aku dan bapakku ketika menemui ['Aisyah radliallahu 'anha] dan [Ummu Salamah]...Dan diriwayatkan pula, telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Abu Bakar bin 'Abdurrahman bin Al Harits bin Hisyam] bahwa bapaknya, yaitu ['Abdurrahman] mengabarkan kepada Marwan bahwa ['Aisyah radliallahu 'anha] dan [Ummu Salamah] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam pernah mendapatkan waktu Fajar saat Beliau sedang junub di rumah keluarga Beliau. Maka kemudian Beliau mandi dan shaum. Dan berkata, Marwan kepada 'Abdurrahman bin Al Harits: "Aku bersumpah dengan nama Allah. aku pasti menyampaikan hal ini kepada Abu Hurairah radliallahu 'anhu. Saat itu Marwan adalah pemimpin di Madinah. Maka Abu Bakar berkata: "Kejadian itu membawa 'Abdurrahman merasa tidak senang". Kemudian kami ditakdirkan berkumpul di Dzul Hulaifah yang ketika itu Abu Hurairah radliallahu 'anhu termasuk yang hadir disana, maka 'Abdurrahman berkata, kepada [Abu Hurairah radliallahu 'anhu]: "Aku akan menyampaikan satu hal kepadamu yang seandainya Marwan tidak bersumpah tentangnya kepadaku maka aku tidak akan menyampaikannya kepadamu". Maka dia menyebutkan apa yang disampaikan 'Aisyah radliallahu 'anha dan Ummu Salamah diatas. Maka Abu Hurairah radliallahu 'anhu berkata: "Persoalan tadi pernah pula diceritakan kepadaku oleh [Al Fadhal bin 'Abbas] sedangkan mereka ('Aisyah radliallahu 'anha dan Ummu Salamah) lebih mengetahui perkara ini". Dan berkata, [Hammam] dan [Ibnu 'Abdullah bin 'Umar] dari [Abu Hurairah radliallahu 'anhu]: "Adalah Nabi shallallahu 'alaihi wasallam memerintahkan untuk berbuka (dalam kasus junub setelah masuk waktu Fajar). Namun hadits pertama diatas lebih kuat sanadnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1926</td></tr><tr><td>Arabic No</td><td>1926</td></tr><tr><td>Reference</td><td>Book 30 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши и Умм Саламы, да будет доволен Аллах ими обоими, что, когда Посланник Аллаха ﷺ встречал рассвет в состоянии осквернения после близости со своей женой, он совершал большое омовение и (продолжал) поститься (дальше)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1926</td></tr><tr><td>Arabic No</td><td>1926</td></tr><tr><td>Reference</td><td>Book 30 Hadith 34</td></tr></tbody></table></div>
 

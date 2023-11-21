@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:After offering the two rak'at (Sunna) the Prophet (p.b.u.h) used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata, [Abu An-Nadhir] telah menceritakan kepada saya [Abu Salamah] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam mengerjakan shalat dua raka'at. Jika aku sudah terbangun Beliau mengajak aku berbincang-bincang dan jika tidak, Beliau akan berbaring". Aku ('Ali bin 'Abdullah) bertanya kepada Sufyan: "Sebagaian orang meriwayatkan bahwa shalat yang dimaksud itu adalah dua raka'at Fajar?" Sufyan berkata: "Ya benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1162</td></tr><tr><td>Arabic No</td><td>1162</td></tr><tr><td>Reference</td><td>Book 19 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ учил нас, как следует испрашивать блага в делах, подобно тому, как он учил нас (той или иной) суре Корана, и он говорил нам: «Когда кто-нибудь из вас захочет сделать что-либо, пусть совершит дополнительную молитву в два рак‘ата, а потом скажет: “О Аллах, поистине, я прошу Тебя помочь мне Твоим знанием и укрепить меня Твоим могуществом, и я прошу Тебя о Твоей великой милости, ибо, поистине, Ты можешь, а я не могу, Ты знаешь, а я не знаю, и Тебе известно всё о сокрытом! О Аллах, если Ты знаешь, что это дело станет благом для моей религии, для моей жизни и для исхода моих дел, то предопредели его мне и облегчи его для меня, а потом ниспошли мне Твоё благословение в этом; о Аллах, если же Ты знаешь, что это дело станет злом для моей религии, для моей жизни и для исхода моих дел, то отврати его от меня, и отврати меня от него, и предопредели мне благо, где бы оно ни было, а потом приведи меня к удовлетворённости им (или же он сказал: для этой жизни и жизни будущей) /Аллахумма, инни астахырука би-‘ильмика, ва астакъдирука би-къудратика, ва ас-алюка мин фадлика-ль-‘азыми, фа-иннакя такъдиру ва ля акъдиру, ва та‘ляму ва ля а‘ляму, ва Анта ‘Алляму-ль-гъуййуб! Аллахумма, ин кунта та‘ляму анна хазаль-амра хайрун ли фи дини, ва ма‘аши, ва ‘акъыбати амри, факъдурху ли; Аллахумма, ва ин кунта та‘лямху анна хазаль-амра шаррун ли фи дини, ва ма‘аши, ва ‘акъыбати амри, фасрифху ‘анни, васрифни ‘анху вакъдур лиль-хайра хайсу кана сумма раддыни бихи (или: фи ‘аджили амри ва аджилихи/” Пророк ﷺ добавил: “Затем человек должен назвать свою нужду”»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1162</td></tr><tr><td>Arabic No</td><td>1162</td></tr><tr><td>Reference</td><td>Book 19 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That she asked the Prophet (ﷺ) , 'Have you encountered a day h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3231</td></tr><tr><td>Arabic No</td><td>3231</td></tr><tr><td>Reference</td><td>Book 59 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что (однажды) она спросила Пророка ﷺ: «Был ли какой-нибудь день для тебя более тяжким, чем день (битвы при) Ухуде?» (В ответ ей Пророк ﷺ) сказал: «Мне пришлось (претерпеть от) твоих соплеменников (многое), но самым тяжким из всех был день ‘Акабы, когда я предложил Ибн ‘Абд Йаляйлю ибн ‘Абд Кулялю (последовать за мной), но он не дал мне того ответа, которого я от него ожидал. Тогда я ушёл, испытывая огорчение, и пришёл в себя, только когда добрался до Карн ас-Са‘алиб. Там я поднял голову, и оказалось, что я стою в тени облака, взглянув на которое, я увидел в нём Джибриля. Он обратился (ко мне) и сказал: “Поистине, Аллах слышал, что сказали тебе твои соплеменники и какой ответ они тебе дали, и Аллах направил к тебе ангела гор, чтобы ты приказал ему сделать с ними, что пожелаешь”. А потом ко мне обратился ангел гор, который поприветствовал меня и сказал: “О Мухаммад, (приказывай,) что пожелаешь! Если хочешь, я обрушу на них две горы!”» (На это) Пророк ﷺ сказал: «Нет, я прошу лишь о том, чтобы Аллах произвёл от них тех, кто станет поклоняться одному лишь Аллаху и ничему более наряду с Ним!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3231</td></tr><tr><td>Arabic No</td><td>3231</td></tr><tr><td>Reference</td><td>Book 59 Hadith 42</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) was asked about the offspring of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab] mengatakan telah menceritakan kepadaku ['Atho' bin Yazid] bahwasanya ia mendengar [Abu Hurairah] radliyallahu'anhu menuturkan; Rasulullah Shallallahu'alaihiwasallam pernah ditanya tentang anak-anak musyrikin, beliau menjawab; "Allah lebih tahu apa yang mereka kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6598</td></tr><tr><td>Arabic No</td><td>6598</td></tr><tr><td>Reference</td><td>Book 82 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что ‘Ата ибн Язид слышал, как Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды Посланника Аллаха ﷺ спросили о потомках многобожников, и он сказал: “Аллах лучше знает о том, что бы они совершили”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6598</td></tr><tr><td>Arabic No</td><td>6598</td></tr><tr><td>Reference</td><td>Book 82 Hadith 5</td></tr></tbody></table></div>
 

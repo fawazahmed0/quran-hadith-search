@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qabisah al-Hilali: There was an eclipse of the sun in the time of the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Qabishah Al Hilali] dia berkata; "Telah terjadi gerhana Matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka beliau bergegas keluar sambil menyingsingkan lengan bajunya, ketika itu aku bersama beliau di Madinah. Lalu beliau shalat dua raka'at dengan memanjangkan berdiri, seusainya beliau melaksanakan shalat, matahari sudah cerah lagi, lalu beliau bersabda: "Sesungguhnya ini merupakan tanda dari tanda-tanda kebesaran Allah, dan dengannya Allah membuat hamba-Nya takut, apabila kalian melihat peristiwa itu, hendaklah kalian shalat seperti kalian melaksanakan shalat wajib." Telah menceritakan kepada kami [Ahmad bin Ibrahim], telah menceritakan kepada kami [Raihan bin Sa'id] telah menceritakan kepada kami ['Abbad bin Manshur] dari [Ayyub] dari [Abu Qilabah] dari [Hilal bin 'Amir] bahwa [Qabishah Al Hilali] bercerita kepadanya, bahwa telah terjadi gerhana matahari..,. seperti makna hadits Musa, katanya "… hingga bintang terlihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1185</td></tr><tr><td>Arabic No</td><td>1185</td></tr><tr><td>Reference</td><td>Book 3 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Кабисы аль-Хиляли, да будет доволен им Аллах: «Однажды при жизни Посланника Аллаха ﷺ произошло солнечное затмение, и Посланник Аллаха ﷺ поспешно вышел из дому, волоча за собой свою одежду. А я тогда был с ним в Медине. Он совершил молитву в два рак‘ата, причём стояние его было долгим. Потом он завершил молитву и показалось солнце. Тогда он сказал: “Поистине, посредством этих знамений Аллах устрашает, и когда увидите их, совершайте молитву так, как совершали последнюю обязательную молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1185</td></tr><tr><td>Arabic No</td><td>1185</td></tr><tr><td>Reference</td><td>Book 3 Hadith 25</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Ahnaf bin Qais: While I was going to help this man ('Ali Ibn Abi Tal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Al Mubarak] Telah menceritakan kepada kami [Hammad bin Zaid] Telah menceritakan kepada kami [Ayyub] dan [Yunus] dari [Al Hasan] dari [Al Ahnaf bin Qais] berkata; aku datang untuk menolong seseorang kemudian bertemu [Abu Bakrah], maka dia bertanya: "Kamu mau kemana?" Aku jawab: "hendak menolong seseorang" dia berkata: "Kembalilah, karena aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika dua orang muslim saling bertemu (untuk berkelahi) dengan menghunus pedang masing-masing, maka yang terbunuh dan membunuh masuk neraka". aku pun bertanya: "Wahai Rasulullah, ini bagi yang membunuh, tapi bagaimana dengan yang terbunuh?" Maka Nabi shallallahu 'alaihi wasallam menjawab: "Dia juga sebelumnya sangat ingin untuk membunuh temannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>31</td></tr><tr><td>Arabic No</td><td>31</td></tr><tr><td>Reference</td><td>Book 2 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Ахнаф ибн Къайс сказал: «Однажды, я отправился помочь этому человеку и меня (по дороге) встретил Абу Бакра, который сказал: “Ты куда идешь?” Я сказал: “Хочу помочь этому человеку”. Он сказал: “Вернись, ибо поистине, я слышал, как однажды Посланник Аллаха ﷺ говорил: “Если два мусульманина сойдутся (в бою, скрестив) свои мечи, то и убивший, и убитый окажутся в Аду“. Я спросил: “О Посланник Аллаха, (будет справедливо, если туда попадёт) убивший, но почему же и убитый?!“ Он ответил: “Ведь и он хотел убить своего товарища!“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>31</td></tr><tr><td>Arabic No</td><td>31</td></tr><tr><td>Reference</td><td>Book 2 Hadith 24</td></tr></tbody></table></div>
 

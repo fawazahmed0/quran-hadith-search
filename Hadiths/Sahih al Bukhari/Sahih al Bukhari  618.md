@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hafsa:When the Mu'adh-dhin pronounced the Adhan for Fajr prayer and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar] berkata, [Hafshah] mengabarkan kepadaku, bahwa Rasulullah shallallahu 'alaihi wasallam jika mu'adzin telah selesai mengumandangkan adzan Shubuh, beliau melaksanakan shalat dua rakaat ringan sebelum mendirikan shalat Shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>618</td></tr><tr><td>Arabic No</td><td>618</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «Хафса, да будет доволен ею Аллах, поведала мне о том, что обычно, когда муаззин заканчивал (призывать людей) к утренней молитве и начинало светать, Посланник Аллаха ﷺ совершал молитву в два лёгких рак‘ата до объявления о начале молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>618</td></tr><tr><td>Arabic No</td><td>618</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
 

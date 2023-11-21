@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asim reported:I asked Anas whether Qunut was observed (by the Holy prophet) befo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib], keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari ['Ashim] dari [Anas], kata 'Ashim; Aku pernah bertanya kepada Anas tentang doa qunut, apakah sebelum ataukah setelah ruku'?, Anas menjawab; "Sebelum ruku'." Ashim mengatakan; Aku berkata; "Namun orang-orang beranggapan bahwa Rasulullah shallallahu 'alaihi wasallam melakukan qunut setelah ruku'." Anas menjawab; "Hanyasanya Rasulullah shallallahu 'alaihi wasallam melakukan qunut selama sebulan, beliau mendo'akan kebinasaan untuk orang-orang yang membantai sahabatnya yang dijuluki Al Qurra' (Para Ahlul Qur'an)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1549</td></tr><tr><td>Arabic No</td><td>677.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 382</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Асым сказал: «(Однажды) я спросил Анаса ибн Малика об обращении (к Аллаху) с мольбами /кунут/, совершается ли оно до поясного поклона или после поясного поклона? Он ответил: “До поясного поклона”. Я сказал: “Некоторые люди утверждают, что Посланник Аллаха ﷺ обращался (к Аллаху) с мольбами после поясного поклона”. На что он ответил: “Посланник Аллаха ﷺ обращался (к Аллаху) с мольбами лишь в течении месяца. Он призывал (Аллаха) против людей убивших некоторых его сподвижников, которых называли “чтецами” /аль-курраъ/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1549</td></tr><tr><td>Arabic No</td><td>677.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 382</td></tr></tbody></table></div>
 

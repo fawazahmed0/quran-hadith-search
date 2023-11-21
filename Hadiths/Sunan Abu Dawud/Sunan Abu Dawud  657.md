@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik reported:A man from the Ansar said: I am a corpulent man-and he wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Anas bin Sirin] dari [Anas bin Malik] dia berkata; Ada seorang laki laki dari golongan Anshar berkata; Wahai Rasulullah, saya seorang laki laki yang sangat gemuk dia memang sangat gemuk, saya tidak mampu shalat bersamamu. Laki laki itu membuat makanan untuk beliau, lalu mengundang beliau ke rumahnya. Laki-laki itu berkata; Maka Shalatlah, sehingga saya dapat melihat bagaimana cara engkau mengerjakan shalat, dan saya mengikuti gerakanmu. Mereka kemudian memerciki ujung tikar mereka dengan air untuk beliau, lalu beliau berdiri mengerjakan shalat dua rakaat. Berkata Fulan bin Al-Jarud kepada Anas bin Malik; Apakah beliau itu shalat Dhuha? Kata Anas, "Saya belum pernah melihat beliau shalat kecuali pada hari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>657</td></tr><tr><td>Arabic No</td><td>657</td></tr><tr><td>Reference</td><td>Book 2 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) один человек из числа ансаров сказал: “О Посланник Аллаха, поистине, я человек тучный” а он (действительно) был тучным “и не могу совершать молитву вместе с тобой”, - и он приготовил для (Пророка ﷺ), еду и пригласил его к себе домой и сказал:) “Так помолись, чтобы я видел, как ты совершаешь молитву, а я последую твоему примеру”. И они (расстелили) для него циновку, которая у них была, побрызгав её край водой, и (Пророк ﷺ) встал и совершил (на этой циновке) молитву в два рак‘ата”».Фулян ибн аль-Джаруд спросил Анаса ибн Малика: «А совершал ли он (Пророк ﷺ), дополнительные молитвы по утрам (духа)?». Он ответил: «Если не считать того дня, я не видел, чтобы он молился в это время»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>657</td></tr><tr><td>Arabic No</td><td>657</td></tr><tr><td>Reference</td><td>Book 2 Hadith 267</td></tr></tbody></table></div>
 

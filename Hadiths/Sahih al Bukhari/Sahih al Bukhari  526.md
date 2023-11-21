@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:A man kissed a woman (unlawfully) and then went to the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] dari [Sulaiman At Taimi] dari [Abu 'Utsman An Nahdi] dari [Ibnu Mas'ud], bahwa ada seorang laki-laki mencium seorang wanita, ia lalu mendatangi Nabi shallallahu 'alaihi wasallam dan mengabarkan kepada beliau. Maka turunlah firman Allah: '(Dan dirikanlah shalat pada kedua tepi siang (pagi dan petang) dan pada bahagian permulaan daripada malam. Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk).' (Qs. Huud: 114). Laki-laki itu lalu bertanya, "Wahai Rasulullah, apakah ini khusus buatku?" beliau menjawab: "Untuk semua umatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>526</td></tr><tr><td>Arabic No</td><td>526</td></tr><tr><td>Reference</td><td>Book 9 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Мас‘уда, да будет доволен им Аллах, что (в своё время) один человек поцеловал (постороннюю) женщину, а потом явился к Пророку ﷺ и обо всём рассказал ему, после чего Аллах ниспослал аят(, в котором было сказано): «Совершай молитву в начале и конце дня и в некоторые часы ночи. Поистине, добрые дела устраняют дурные». Этот человек спросил: «О Посланник Аллаха, это (касается только) меня?» Он ответил: «Это — для всех (членов) моей общины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>526</td></tr><tr><td>Arabic No</td><td>526</td></tr><tr><td>Reference</td><td>Book 9 Hadith 5</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:that the Prophet (ﷺ) entered upon her when she had her menses 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Qasim] dari [Ayahnya] dari [Aisyah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam pernah menemuinya ketika berada di Sarif sebelum masuk ke Makkah, beliau mendapatinya sedang menangis karena datang bulan, lalu beliau bertanya: "Kenapa, apakah kamu sedang haidh?" Aisyah menjawab; "Ya." Beliau bersabda: "Sesungguhnya hal ini telah di tetapkan Allah atas wanita-wanita anak Adam, lakukanlah apa yang biasa di kerjakan dalam berhaji, namun kamu jangan thawaf di Ka'bah." Ketika kami sampai di Mina, aku di beri daging sapi, lantas tanyaku; "Daging apakah ini?" para sahabat menjawab; "Rasulullah shallallahu 'alaihi wasallam menyembelih binatang kurban berupa sapi untuk para isterinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5548</td></tr><tr><td>Arabic No</td><td>5548</td></tr><tr><td>Reference</td><td>Book 73 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала, что до того, как войти в Мекку, Пророк ﷺ зашёл к ней, когда у неё начались месячные в Сарифе, а она плакала. Он спросил её: «Что с тобой? У тебя начались месячные?» Она ответила: «Да». Он сказал: «Поистине, это то, что предписал Аллах (всем) дочерям Адама, посему делай всё, что совершают паломники, но не совершай обхода вокруг Дома (до тех пор, пока не очистишься)». ’Аиша сказала: «Когда мы находились в Мине, мне принесли коровье мясо. Я спросила: “Что это?” И мне ответили: “Посланник Аллаха ﷺ принёс в жертву корову за своих жён”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5548</td></tr><tr><td>Arabic No</td><td>5548</td></tr><tr><td>Reference</td><td>Book 73 Hadith 4</td></tr></tbody></table></div>
 

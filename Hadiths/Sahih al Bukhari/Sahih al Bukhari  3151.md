@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma bint Abu Bakr:I used to carry the date stones on my head from the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Mahmud bin Ghaylan] telah bercerita kepada kami [Abu Usamah] telah bercerita kepada kami [Hisyam] berkata telah mengabarkan kepadaku [bapakku] dari [Asma' binti Abu Bakr radliallahu 'anhuma] berkata; "Aku pernah membawa benih kurma dari kebun milik Az Zubair yang diberikan oleh Rasulullah Shallallahu'alaihiwasallam di atas kepalaku. Kebun itu jaraknya dari (rumah) ku dua pertiga farsakh". Dan berkata [Abu Dlamrah] dari [Hisyam] dari [bapaknya] bahwa Nabi Shallallahu'alaihiwasallam membagi Az Zubair sebidang kebun dari harta (fa'iy) Bani an-Nadlir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3151</td></tr><tr><td>Arabic No</td><td>3151</td></tr><tr><td>Reference</td><td>Book 57 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр, да будет доволен Аллах ею и её отцом, сказала: «Я носила на голове финиковые косточки с земли, которую Посланник Аллаха ﷺ выделил аз-Зубайру и которая находилась на расстоянии двух третей фарсаха от моего (дома)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3151</td></tr><tr><td>Arabic No</td><td>3151</td></tr><tr><td>Reference</td><td>Book 57 Hadith 59</td></tr></tbody></table></div>
 

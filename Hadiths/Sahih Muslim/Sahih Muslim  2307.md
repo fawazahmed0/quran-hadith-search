@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ahnaf b. Qais reported:While I was in the company of the (elites) of Quraiah, Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Syaiban bin Farrukh] Telah menceritakan kepada kami [Abul Asyhab] Telah menceritakan kepada kami [Khulaid Al 'Ashari] dari [Al Ahnaf bin Qais] ia berkata; Saya pernah berada dalam sebuah rombongan orang-orang Quraisy, lalu [Abu Dzar] lewat sambil mengatakan, "Berilah kabar gembira kepada orang-orang yang menumpuk harta (dan tidak membayar zakatnya), bahwa mereka akan disiksa dengan setrika di punggung mereka yang keluar dari lambung dari tengkuk mereka." Setelah itu, ia menyingkir dan duduk. Kemudian saya bertanya, "Siapa ini?" orang-orang pun menjawab, "Ini adalah Abu Dzar." Maka aku pun mendekatinya dan bertanya, "Apa ucapanmu yang baru saja aku dengar tadi?" Abu Dzar menjawab, "Tidaklah aku mengatakan sesuatu tadi, kecuali aku telah mendengarnya dari Nabi shallallahu 'alaihi wasallam." Kemudian aku tanyakan, "Bagaimana pendapatmu tentang pemberian ini?" Abu Dzar menjawab, "Ambillah karena pemberian itu sekarang sebagai pertolongan, namun jika pemberian itu untuk membayar agamamu, maka tinggalkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2307</td></tr><tr><td>Arabic No</td><td>992.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Ахнаф ибн Кайс сказал: «(Однажды, когда) я находился в обществе нескольких курайшитов, мимо (нас) прошёл Абу Зарр, (и я услышал, как) он говорил: “Порадуй тех, кто копит богатства, вестью о клейме, которым их спины (заклеймят так, что) оно выйдет из их боков, и о клейме, которым их затылки (заклеймят так, что) оно выйдет из их лбов”, а потом он удалился (от нас) и сел. Я спросил курайшитов: “Кто это?” Они сказали: “Это Абу Зарр”. Тогда я подошёл к нему и спросил: “Что это я слышал от тебя сейчас?” Он сказал: “Я говорил лишь то, что слышал их от Пророка ﷺ”. Я спросил: “А что ты скажешь об этом подарке?” Он сказал: “Возьми его, ибо сегодня это является помощью, если же это плата за твою религию, откажись от него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2307</td></tr><tr><td>Arabic No</td><td>992.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 44</td></tr></tbody></table></div>
 

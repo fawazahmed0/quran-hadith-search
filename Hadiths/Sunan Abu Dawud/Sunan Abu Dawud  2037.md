@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sulayman ibn AbuAbdullah: Sulayman ibn AbuAbdullah said: I saw Sa'd ibn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Usamah], telah menceritakan kepada kami [Jarir bin Hazim], telah menceritakan kepadaku [Ya'la bin Hakim] dari [Sulaiman bin Abu Abdullah], ia berkata; aku melihat [Sa'd bin Abu Waqqash] menangkap seorang laki-laki yang berburu di tanah haram Madinah yang telah diharamkan Rasulullah shallallahu 'alaihi wasallam. Kemudian ia melucuti pakaiannya, kemudian para walinya datang kepadanya dan berbicara dengannya mengenai orang tersebut. Lalu Sa'd berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah mengharamkan tanah haram ini, dan berkata: "Barangsiapa yang menangkap seseorang yang berburu padanya (di tanah Haram), maka hendaknya ia melucuti pakaiannya." Maka aku tidak akan mengembalikan kepada kalian apa yang telah diberikan Rasulullah shallallahu 'alaihi wasallam kepadaku. Akan tetapi, apabila kalian mau, maka aku akan serahkan uang seharga barang tersebut kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2037</td></tr><tr><td>Arabic No</td><td>2037</td></tr><tr><td>Reference</td><td>Book 11 Hadith 317</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сулейман ибн Абу ‘Абдуллах передаёт: Я видел, как Са‘д ибн Абу Ваккас схватил человека, который охотился в Медине, которую Посланник Аллаха ﷺ сделал заповедной, и отобрал у него одежду. Потом пришли его хозяева, чтобы поговорить о нём, и он сказал: «Поистине, Посланник Аллаха ﷺ объявил эту территорию заповедной и сказал: “Кто поймает человека, который охотится там, пусть заберёт у него его одежду”. И я не верну то, на что мне дал право Посланник Аллаха ﷺ, однако, если хотите, могу отдать вам цену этой одежды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2037</td></tr><tr><td>Arabic No</td><td>2037</td></tr><tr><td>Reference</td><td>Book 11 Hadith 317</td></tr></tbody></table></div>
 

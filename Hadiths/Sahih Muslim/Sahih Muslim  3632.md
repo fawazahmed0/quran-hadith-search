@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham reported on the authority of his father that 'A'isha (Allah be pleased wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Abdah bin Sulaiman] dari [Hisyam] dari [ayahnya] dari ['Aisyah] bahwa dia berkata; Tidakkah seorang perempuan malu jika dia menawarkan dirinya kepada laki-laki? Hingga Allah Azza Wa Jalla menurunkan ayat: "Kamu boleh menangguhkan (menggauli) siapa yang kamu kehendaki di antara mereka (isteri-isterimu) dan (boleh pula) menggauli siapa yang kamu kehendaki…."(Al Ahzab: 51). Saya (Aisyah) berkata; Demi Allah, sesungguhnya Rabbmu sangat cepat memenuhi keinganan anda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3632</td></tr><tr><td>Arabic No</td><td>1464.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3632</td></tr><tr><td>Arabic No</td><td>1464.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 65</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:(the brother of Bani Sa'ida) A man from the Ansar came to the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Syihab] dari [Sahal saudara Bani Sa'idah], seorang laki-laki anshar menemui Nabi shallallahu 'alaihi wasallam dan berujar; "bagaimana pendapat anda sekiranya seseorang menemukan laki-laki lain bersama isterinya? Bolehkah ia membunuhnya?" Suami-isteri itu kemudian sama-sama meli'an dan aku menyaksikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7166</td></tr><tr><td>Arabic No</td><td>7166</td></tr><tr><td>Reference</td><td>Book 93 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ибн Шихаба от Сахля — моего брата из племени Са‘ида — о том, что (однажды) некий мужчина из числа ансаров пришёл к Пророку ﷺ и сказал: «Что ты скажешь о мужчине, который находит со своей женой (постороннего) мужчину, следует ли ему убить его?» И они призвали друг на друга проклятие в мечети, а я был свидетелем (этого)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7166</td></tr><tr><td>Arabic No</td><td>7166</td></tr><tr><td>Reference</td><td>Book 93 Hadith 30</td></tr></tbody></table></div>
 

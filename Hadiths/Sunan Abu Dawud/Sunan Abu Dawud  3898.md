@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSalih Zakwan as-Samman: A man from Aslam tribe said: I was sitting w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>3898</td></tr><tr><td>Reference</td><td>Book 29 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сухайль ибн Абу Салих передаёт от своего отца: «Я слышал, как один человек из племени аслям рассказывал: “Я сидел у Посланника Аллаха ﷺ и пришёл один из его сподвижников и сказал: “О Посланник Аллаха, вечером я был ужален и из-за этого всю ночь не мог спать”. Он спросил: “Что это было?” Тот ответил: “Скорпион”. (Посланник Аллаха ﷺ) сказал: “Если бы ты сказал вечером: “Ищу у совершенных слов Аллаха защиты от зла того, что Он сотворил”, тебе бы ничего не смогло повредить с позволения Аллаха””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>3898</td></tr><tr><td>Reference</td><td>Book 29 Hadith 44</td></tr></tbody></table></div>
 

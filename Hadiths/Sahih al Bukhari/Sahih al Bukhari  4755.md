@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:'Aisha said that Hassan bin Thabit came and asked permission to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Adl Dluha] dari [Masruq] dari ['Aisyah radliallahu 'anha] dia berkata; Suatu ketika Hassan bin Tsabit datang meminta izin menemui Aisyah. Lalu Aku berkata; Wahai Aisyah, apakah kamu mengizinkan orang ini? Aisyah menjawab; Bukankah ia telah ditimpa adzab yang besar. Sufyan berkata; yaitu hilang penglihatannya. Lalu Hassan melantunkan syair: Engkaulah wanita yang suci, Hidup tenang tanpa adanya keraguan. Pagi-pagi engkau merasa lapar dengan tidak pernah membicarakan keburukan orang lain.' Kemudian Aisyah menjawab, tapi, bukankah dahulu kamu tidak demikian hai Hassan?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4755</td></tr><tr><td>Arabic No</td><td>4755</td></tr><tr><td>Reference</td><td>Book 65 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал: «Когда Хассан ибн Сабит попросил разрешения войти к ‘Аише, да будет доволен им Аллах, я сказал: “Ты разрешишь ему войти?!” Она ответила: “А разве не постигло его великое наказание?!” Суфьян (передатчик хадиса) сказал: “Она имела ввиду потерю зрения”. Хассан сказал: “Целомудренная, мудрая, в которой нет сомнений, просыпается с желудком, в котором нет мяса целомудренных женщин (то есть она не злословит о них)”. ‘Аиша сказала: “Однако ты не такой (имея ввиду, что он злословил о ней, когда её оклеветали)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4755</td></tr><tr><td>Arabic No</td><td>4755</td></tr><tr><td>Reference</td><td>Book 65 Hadith 277</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu'l-Hayyaj al-Asadi told that 'Ali (b. Abu Talib) said to him:Should I not sen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain- berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Abu Wa'il] dari [Abul Hayyaj Al Asadi] ia berkata, [Ali bin Abu Thalib] berkata; "Maukah kamu aku utus sebagaimana Rasulullah shallallahu 'alaihi wasallam telah mengutusku? Hendaklah kamu jangan meninggalkan patug-patung kecuali kamu hancurkan, dan jangan pula kamu meninggalkan kuburan kecuali kamu ratakan." Dan telah menceritakan kepadaku [Abu Bakar bin Khallad Al Bahili] Telah menceritakan kepada kami [Yahya Al Qaththan] Telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Habib] dengan isnad ini, dan ia mengatan, "Dan jangan pula kamu tinggalkan gambar kecuali kamu menghapusnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Абуль-Хаййадж аль-Асади сказал: «(Однажды) ‘Али бин Абу Талиб, да будет доволен им Аллах, сказал мне: “Не отправить ли мне тебя с тем же (заданием), с которым меня отправил в своё время Пророк ﷺ? Не оставляй ни одного изваяния, не уничтожив его, и ни одной возвышающейся (над землёй) могилы, не сровняв её (с землёй)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah b. al-Hakam al-Sulami:I said: Messenger of Allah! among us th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Al Hajjaj Ash Shawwaf] telah menceritakan kepadaku [Yahya bin Abu Katsir] dari [Hilal bin Abu Maimunah] dari ['Atha bin Yasar] dari [Mu'awiyah bin Al Hakam As Sulami] ia berkata, "Aku katakan, "Wahai Rasulullah, di antara kami ada orang-orang yang menggambar garis?" Beliau bersabda: "Di antara para Nabi ada yang membuat garis, maka barangsiapa yang garisnya sama dengan garis nabi tersebut maka hal itu adalah diperbolehkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (537)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3909</td></tr><tr><td>Arabic No</td><td>3909</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘авии ибн аль-Хакама ас-Сулями, да будет доволен им Аллах: «Я сказал: “О Посланник Аллаха! И среди нас есть люди, которые гадают по линиям”. Он сказал: “Один из пророков тоже чертил линии, и можно делать это лишь тому, кто чертит точно так же, как он”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (537)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3909</td></tr><tr><td>Arabic No</td><td>3909</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
 

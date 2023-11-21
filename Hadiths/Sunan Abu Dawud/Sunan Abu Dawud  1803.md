@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Abbas said that Mu'awiyah told him:do you not know that I clipped the hair o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Hasan bin Ali] serta [Makhlad bin Khalid] dan [Muhammad bin Yahya] secara makna. Mereka mengatakan; telah menceritakan kepada Kami [Abdurrazzaq], telah mengabarkan kepada Kami [Ma'mar] dari [Ibnu Thawus] dari [ayahnya], dari [Ibnu Abbas] bahwa [Mu'awiyah] berkata kepadanya; tidakkah engkau tahu bahwa aku yang memendekkan rambut Rasulullah shallAllahu wa'alaihi wa sallam menggunakan bagian anak panah yang tajam milik seorang badui di atas Bukit Marwa? Al Hasan menambahkan dalam haditsnya kata; untuk haji beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>1803</td></tr><tr><td>Reference</td><td>Book 11 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Му‘авия сказал ему: «Разве не знаешь ты, что я укорачивал волосы Посланнику Аллаха ﷺ бедуинским лезвием на холме Марва?» Аль-Хасан добавлял в своей версии: «В его хадже»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>1803</td></tr><tr><td>Reference</td><td>Book 11 Hadith 83</td></tr></tbody></table></div>
 

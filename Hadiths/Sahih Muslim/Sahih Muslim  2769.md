@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Sa'îd Al-Khoudri (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Bakr bin Mudlar] dari [Ibnul Hadi] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, ia berkata; Dulu Rasulullah shallallahu 'alaihi wasallam melakukan I'tikaf pada sepuluh hari pertengahan bulan Ramadlan, dan ketika dua puluh hari dari bulan Ramadlan telah berlalu dan hari ke dua puluh satu akan segera masuk, beliau kembali ke tempat tinggalnya dan orang-orang yang ikut beri'tikaf bersamanya pun ikut pulang. Namun pada malam ke dua puluh satu Ramadlan, beliau kembali beri'tikaf dan menyuruh orang-orang agar ikut beri'tikaf bersamanya: "Barangsiapa yang ingin beri'tikaf bersamaku, hendaklah ia bermalam di tempat I'tikafnya. Dan sesungguhnya, aku telah melihat (bahwa) malam ini (adalah malam lalaitul Qadar), namun aku dilupakan kembali. Karena itu, carilah (Lailatul Qadar itu) pada sepuluh hari terakhir bulan Ramadlan. Yakni pada setiap malam ganjil. Dan aku juga telah bermimpi sujud di tanah yang basah." Abu Sa'id berkata, "Hujan pun turun pada malam ke dua puluh satu hingga air hujan itu merambat ke tempat shalat Rasulullah shallallahu 'alaihi wasallam. Aku melihat ke tempat itu, ternyata beliau telah beranjak usai menunaikan shalat Shubuh, sementara di wajah beliau basah dengan tanah bercampur air." Dan Telah mennceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Abdul Aziz] yakni Ad Darawardi, dari [Yazid] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, bahwa ia berkata; "Dulu Rasulullah shallallahu 'alaihi wasallam melakukan I'tikaf pada sepuluh hari pertengahan bulan Ramadlan." Maka ia pun menyebutkan hadits yang semisalnya, hanya saja ia menyebutkan; "FALYUTSBIT FI MU'TAKAFIHI (Hendaklah ia menetap di tempat I'tikafnya)." Dan ia juga menyebutkan; "WA JABIINUHU MUMTALI'AN THIINAN WA MAA'AN (Dan pada keningnya terdapat tanah dan air)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>1167.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>1167.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 275</td></tr></tbody></table></div>
 

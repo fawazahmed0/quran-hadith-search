@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:We were on the night of Friday staying in the mosque when a pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Utsman bin Abi Syaibah] serta [Ishaq bin Ibrahim] sedangkan lafazhnya dari Zuhair. Ishaq mengatakan; Telah mengabarkan kepada kami, sedangkan yang dua mengatakan; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dia berkata; Pada malam Jum'at kami berada di Masjid, tiba-tiba datang seorang laki-laki dari Anshar sambil berkata; "Bagaimana jika seorang suami mendapati istrinya sedang berkencan dengan laki-laki lain, apakah sang suami boleh menceritakannya kemudian kalian menderanya, ataukah sang suami membunuh laki-laki tersebut kemudian kalian mengqishahnya, atau haruskah suami diam saja, namun jika dia diam, demi Allah, dia diam dalam kemarahan! Sungguh saya akan menanyakan permasalahan ini kepada Nabi shallallahu 'alaihi wasallam." Di esok harinya, dia datang kepada Rasulullah shallallahu 'alaihi wasallam, lalu dia bertanya, dia berkata; "Bagaimana jika seorang suami mendapati istrinya sedang berkencan dengan laki-laki lain, apakah sang suami boleh bercerita kemudian kalian menderanya, ataukah sang suami membunuh laki-laki tersebut lalu kalian mengqishashnya, atau haruskah dia diam saja, namun jika suami diam berarti diam dalam kemarahan yang sangat!" Lalu beliau mengucapkan: "Ya Allah, bukakanlah (jelaskanlah hukum ini kepada kami)." Dan beliau pun berdo'a, lalu turunlah ayat li'an: "Dan orang-orang yang menuduh istrinya (berzina) padahal mereka tidak mempunyai saksi-saksi selain diri mereka sendiri." Laki-laki tersebut telah diuji dengan perkara ini di antara manusia. Maka dia dan istrinya datang menemui Nabi shallallahu 'alaihi wasallam dan melakukan li'an, lelaki tersebut mengucapkan empat kali sumpah dengan nama Allah bahwa dia termasuk dari golongan yang benar, dan yang kelima kali dia melaknat dirinya bahwa laknat Allah siap ditimpakan kepadanya jika dia termasuk pendusta. Setelah itu ganti istrinya yang mengucapkan li'an, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Tahanlah (jangan kamu lakukan)." Namun dia enggan dan mengucapkan li'an, setelah keduanya pergi, beliau bersabda: "Barangkali dia akan melahirkan anak yang berkulit hitam dan berambut keriting." Tidak lama kemudian dia melahirkan anak berkulit hitam dan berambut keriting. Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami ['Abdah bin Sulaiman] semuanya dari [A'masy] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3755</td></tr><tr><td>Arabic No</td><td>1495.01</td></tr><tr><td>Reference</td><td>Book 19 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3755</td></tr><tr><td>Arabic No</td><td>1495.01</td></tr><tr><td>Reference</td><td>Book 19 Hadith 13</td></tr></tbody></table></div>
 

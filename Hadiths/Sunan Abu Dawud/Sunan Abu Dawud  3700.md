@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ja'far bin Ziyad] telah menceritakan kepada kami [Syarik] dari [Ziyad bin Fayyadl] dari [Abu 'Ayyadl] dari [Abdullah bin 'Amru] ia berkata, "Rasulullah shallallahu 'alaihi wasallam telah menyebutkan beberapa tempat minum; Ad dubba, Al hantam, Al muzaffat dan An naqir. Kemudian orang-orang badui berkata, "Kami tidak memiliki selain itu!" Beliau pun bersabda: "Minumlah apa yang halal!" Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Syarik] dengan sanadnya, beliau bersabda: "Jauhilah apa yang memabukkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5593) Sahih Muslim (2000)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3700</td></tr><tr><td>Arabic No</td><td>3700</td></tr><tr><td>Reference</td><td>Book 27 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что, когда Посланник Аллаха ﷺ упомянул (о запрете использования) сосудов дубба, хантам, музаффат и накыр, один бедуин сказал: «Но у нас нет кожаных сосудов». (Посланник Аллаха ﷺ) сказал: «Пейте дозволенное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5593) Sahih Muslim (2000)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3700</td></tr><tr><td>Arabic No</td><td>3700</td></tr><tr><td>Reference</td><td>Book 27 Hadith 32</td></tr></tbody></table></div>
 

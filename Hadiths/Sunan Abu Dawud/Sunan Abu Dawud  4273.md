@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa'id bin Jubair said:I asked Ibn 'Abbas (about the verse relating to intentiona
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Sa'id bin Jubair] atau ia mengatakan; telah menceritakan kepadaku [Al hakam] dari [Sa'id bin Jubair] ia berkata; Aku bertanya [Ibnu Abbas] berkata, "Ketika ayat dalam surat Al furqan ini turun: (Dan orang-orang yang tidak menyembah tuhan yang lain beserta Allah dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar..) -Al Furqan: 68-, orang-orang musyrik Makkah berkata, "Kami telah membunuh jiwa yang telah diharamkan oleh Allah dan berbuat syirik kepada-Nya serta melakukan perbuatan keji!" Allah pun menurunkan ayat: (Kecuali orang-orang yang bertaubat dan, beriman dan beramal shalih; maka kejahatan mereka akan diganti Allah dengan kebajikan..) -Qs. Al Furqan: 70-, maka ayat ini untuk orang-orang musyrik Quraisy tersebut. Ibnu Abbas melanjutkan, "Sedangkan ayat yang ada dalam surat An Nisa: (Dan barangsiapa yang membunuh seorang mu'min dengan sengaja maka balasannya ialah Jahannam…) -An Nisa: 93- ia mengatakan, "Seorang laki-laki yang mengetahui hukum-hukum Islam, kemudian ia membunuh seorang mukmin dengan sengaja, maka balasannya adalah neraka jahannam dan tidak ada lagi taubat untuknya." Perkataan ini lalu aku sebutkan kepada Mujahid, ia berkomentar, "Kecuali jika ia (pembunuh) merasa menyesal." Telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] berkata, telah menceritakan kepadaku [Ya'la] dari [Sa'id bin Jubair] dari [Ibnu Abbas] -sebagaimana kisah dalam hadits tersebut- tentang firman Allah: (dan orang-orang yang tidak menyembah tuhan yang lain berserta Allah..) -Qs. Al Furqan: 53- yakni orang-orang musyrik. Ibnu Abbas berkata, "Lalu turun ayat: (Katakanlah, 'Hai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri, janganlah kamu berputus asa dari rahmat Allah') -Qs. Az Zumar:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3855) Sahih Muslim (3023)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4273</td></tr><tr><td>Arabic No</td><td>4273</td></tr><tr><td>Reference</td><td>Book 37 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн Джубайр передаёт: Я задал Ибн ‘Аббасу вопрос, и он сказал: «Когда был ниспослан аят, что в суре “аль-Фуркан”: “Они не взывают помимо Аллаха к другим богам, не убивают душу вопреки запрету Аллаха, а только по праву, и не прелюбодействуют. А тот, кто поступает так, получит наказание. Его мучения будут приумножены в день воскресения, и он останется среди них униженным навечно” (сура “аль-Фуркан”, аяты)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3855) Sahih Muslim (3023)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4273</td></tr><tr><td>Arabic No</td><td>4273</td></tr><tr><td>Reference</td><td>Book 37 Hadith 34</td></tr></tbody></table></div>
 

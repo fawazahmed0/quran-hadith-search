@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:Grant permission to women for going to the mosque in the nigh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] dan [Ibnu Rafi'] keduanya berkata, telah menceritakan kepada kami [Syababah] telah menceritakan kepadaku [Warqa'] dari [Amru] dari [Mujahid] dari [Ibnu Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, 'Berikanlah izin kepada wanita pada malam hari ke masjid.' Putranya, Waqid berkata kepadanya, 'Kalau dibolehkan, siapa tahu dijadikan kesempatan melakukan kejahatan'." Perawi berkata, "Lalu Ibn Umar memukul dada puteranya atas pembangkangannya. Dan dia berkata, 'Aku menceritakan kepadamu hadits dari Rasulullah Shallallahu'alaihiwasallam, namun kamu malahan mengatakan tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>442.07</td></tr><tr><td>Reference</td><td>Book 4 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Муджахида, что (однажды) Ибн ‘Умар сказал: «Посланник Аллаха ﷺ говорил: “Позволяйте женщинам посещать мечети ночью”». (Услышав это) его сын по имени Уакыд сказал: «Тогда они будут пользоваться этим во зло». Тогда Ибн ‘Умар ударил его в грудь и сказал: «Я рассказываю тебе от Посланника Аллаха ﷺ, а ты говоришь: “Нет (не позволим)”?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>442.07</td></tr><tr><td>Reference</td><td>Book 4 Hadith 156</td></tr></tbody></table></div>
 

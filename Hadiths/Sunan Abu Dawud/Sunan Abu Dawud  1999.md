@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The night which the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Yahya bin Ma'in] dengan makna yang sama, mereka berkata; telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Muhammad bin Ishaq], telah menceritakan kepada kami [Abu 'Ubaidah bin Abdullah bin Zam'ah] dari [ayahnya] dari [ibunya yaitu Zainab binti Abu Salamah] dari [Ummu Salamah], mereka semua menceritakan kepadanya hal tersebut dari Ummu Salamah, ia berkata; pada malam bagianku yang seharusnya Rasulullah shallallahu 'alaihi wasallam datang kepadaku adalah sore hari nahr. Wahb bin Zam'ah serta seseorang dari keluarga Umayyah dengan memakai jubah datang dan menemuiku. Lalu Rasulullah shallallahu 'alaihi wasallam berkata kepada Wahb: "Apakah engkau telah melakukan thawaf ifadhah wahai Abu Abdullah?" Ia berkata; demi Allah, belum wahai Rasulullah! Beliau berkata: "Lepaskan jubah darimu!" Abu Salamah berkata; kemudian ia melepas jubah tersebut dari kepalanya dan temannya pun melepas jubahnya. Kemudian Wahb bin Zam'ah berkata; kenapa wahai Rasulullah? Beliau berkata: "Sesungguhnya ini adalah hari diberinya kalian keringanan apabila kalian melempar jumrah dari setiap apa yang haram bagi kalian kecuali bercampur dengan wanita. Apabila kalian berada di sore hari sebelum melakukan thawaf di Ka'bah, maka kalian dalam keadaan sedang berihram seperti keadaan kalian sebelum melempar jumrah, hingga kalian melakukan thawaf di Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1999</td></tr><tr><td>Arabic No</td><td>1999</td></tr><tr><td>Reference</td><td>Book 11 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Саляма, да будет доволен ею Аллах, передаёт: «Посланник Аллаха ﷺ должен был провести у меня ночь, которая следовала за вечером дня жертвоприношения. Он пришёл ко мне, а ко мне зашёл Вахб ибн Зам‘а и с ним был ещё один человек из рода Абу Умаййи. Оба они были одеты в рубахи. Посланник Аллаха ﷺ сказал Вахбу: “Ты уже совершил завершающий обход, о Абу ‘Абдуллах?” Он ответил: “Нет, клянусь Аллахом, о Посланник Аллаха”. Посланник Аллаха ﷺ сказал: “Сними с себя рубаху”. И он снял её через голову, и его товарищ также снял свою рубаху через голову. Затем он спросил: “Почему, о Посланник Аллаха?” Посланник Аллаха ﷺ сказал: “В этот день вам разрешено выйти из состояния ихрама после того, как вы бросите камешки”. То есть для вас становится в этом случае дозволенным всё, кроме женщин. [И он добавил]: “А если вечер настанет прежде, чем вы совершите обход вокруг Каабы, то вы считаетесь пребывающими в состоянии ихрама, как и до бросания камешков, пока не совершите этот обход вокруг Каабы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1999</td></tr><tr><td>Arabic No</td><td>1999</td></tr><tr><td>Reference</td><td>Book 11 Hadith 279</td></tr></tbody></table></div>
 

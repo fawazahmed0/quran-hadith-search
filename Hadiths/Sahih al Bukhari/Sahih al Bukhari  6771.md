@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once Allah's Messenger (ﷺ) entered upon me and he was in a ver
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Urwah] dari [Aisyah] mengatakan; Rasulullah Shallallahu'alaihi wa sallam suatu hari menemui kami dengan ceria, lantas beliau berujar: "Wahai Aisyah, tidakkah engkau lihat Mujazzaz Al Madlaji menemuiku lantas ia memandang Usamah bin Zaid dan Zaid yang sedang berselimut, tertutup kedua kepalanya, dan terlihat telapak kaki keduanya?" Lantas beliau bersabda: "sesungguhnya telapak kaki-telapak kaki merupakan bagian satu dengan yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6771</td></tr><tr><td>Arabic No</td><td>6771</td></tr><tr><td>Reference</td><td>Book 85 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Однажды Посланник Аллаха ﷺ зашёл ко мне радостный и сказал: “О ‘Аиша! Знаешь ли ты, что Муджаззиз аль-Мудлиджи зашёл ко мне и увидел Усаму ибн Зейда и Зейда спящими — головы их были накрыты тканью, а ступни торчали — и сказал: “Это ступни людей, один из которых происходит от другого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6771</td></tr><tr><td>Arabic No</td><td>6771</td></tr><tr><td>Reference</td><td>Book 85 Hadith 47</td></tr></tbody></table></div>
 

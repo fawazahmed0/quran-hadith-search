@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When the Prophet (ﷺ) died, none had collected the Qur'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] Telah menceritakan kepada kami [Abdullah bin Al Mutsanna] ia berkata; Telah menceritakan kepadaku [Tsabit Al Bunani] dan [Tsumamah] dari [Anas bin Malik] ia berkata; Nabi shallallahu 'alaihi wasallam wafat, sementara beliau belum mengumpulkan Al Qur'an kecuali oleh empat orang, yaitu Abu Darda', Mu'adz bin Jabal, Zaid bin Tsabit dan Abu Zaid. Ia berkata; Dan kami akan mewarisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5004</td></tr><tr><td>Arabic No</td><td>5004</td></tr><tr><td>Reference</td><td>Book 66 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, рассказывал: «Когда умер Пророк ﷺ, собравшими Коран (то есть выучившими наизусть полностью) были только четверо: Абу Дарда, Му‘аз ибн Джабаль, Зейд ибн Сабит и Абу Зейд, а мы унаследовали от него (Абу Зейда)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5004</td></tr><tr><td>Arabic No</td><td>5004</td></tr><tr><td>Reference</td><td>Book 66 Hadith 26</td></tr></tbody></table></div>
 

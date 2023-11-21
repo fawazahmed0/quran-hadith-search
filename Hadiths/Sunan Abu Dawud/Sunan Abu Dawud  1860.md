@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka’b bin ‘Ujrah said I had lice in my head when I accompanied the Apostle of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Manshur], telah menceritakan kepada Kami [Ya'qub], telah menceritakan kepadaku [ayahku], dari [Ibnu Ishaq], telah menceritakan kepadaku [Aban yaitu Ibnu Shalih] dari [Al Hakam bin 'Utaibah] dari [Abdurrahman bin Abu Laila], dari [Ka'b 'Ujrah], ia berkata; aku terserang kutu kepala, sementara aku bersama Rasulullah shallAllahu wa'alaihi wa sallam pada tahun terjadinya perjanjian Hudaibiyah hingga aku mengkhawatirkan mataku. Kemudian Allah subhanahu wa ta'ala menurunkan wahyu mengenaiku: "Jika ada di antaramu yang sakit atau ada gangguan di kepalanya (lalu ia bercukur), maka wajiblah atasnya berfid-yah, yaitu: berpuasa atau bersedekah atau berkorban." Kemudian Rasulullah shallAllahu wa'alaihi wa sallam memanggilku dan berkata kepadaku: "Gundullah rambutmu, dan berpuasalah tiga hari atau berilah makan enam orang miskin, satu faraq kismis, atau sembelihlah seekor kambing!" kemudian aku menggundul rambutku dan menyembelih kurban. Telah menceritakan kepada Kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Abdul Karim bin Malik Al Jazari] dari [Abdurrahman bin Abu Laila] dari [Ka'b bin 'Ujrah] dalam kisah ini, ia menambahkan kata: "Apapun yang engkau lakukan dari hal tersebut maka telah sah darimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 11 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ка‘б ибн ‘Уджра, да будет доволен им Аллах, передаёт: «Меня беспокоили вши, когда я был с Посланником Аллаха ﷺ в год Худайбии, так что я испугался за своё зрение, и тогда Всевышний Аллах ниспослал аят: “А если кто-то из вас болен или из-за головы своей испытывает страдания, то он должен в качестве искупления поститься, или раздать милостыню, или принести жертву”(сура “аль-Бакара», аят 196). И Посланник Аллаха ﷺ позвал меня и сказал мне: “Обрей голову, а потом постись три дня, или накорми шесть бедняков фараком изюма, или зарежь овцу в искупление”. И я обрил голову и зарезал овцу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 11 Hadith 140</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir that Nu'man b. Qaufal came to the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan lafazhnya milik Abu Kuraib, keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata, "An-Nu'man bin Qauqal mendatangi Nabi shallallahu 'alaihi wasallam seraya bertanya, 'Wahai Rasulullah, apa pendapatmu apabila aku mengerjakan shalat wajib, mengharamkan sesuatu yang haram dan menghalalkan sesuatu yang halal, apakah aku akan masuk surga? ' Nabi shallallahu 'alaihi wasallam menjawab: 'Ya'." Dan telah menceritakan kepadaku [Hajjaj bin asy-Sya'ir] dan [al-Qasim bin Zakariya'] keduanya berkata, telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [al-A'masy] dari [Abu Shalih] dan [Abu Sufyan] dari [Jabir] dia berkata, 'An-Nu'man bin Qauqal berkata, 'Wahai Rasulullah', dengan semisal riwayat tersebut, hanya saja dia menambahkan, 'Dan aku tidak akan menambahkan sedikit pun atas hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>108</td></tr><tr><td>Arabic No</td><td>15.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «(Однажды) к Пророку ﷺ пришел ан-Ну‘ман ибн Къаукъаль и спросил: “О Посланник Аллаха, как ты думаешь, если я совершаю предписанные молитвы, считаю запретным запретное /харам/ и дозволенное /халяль/ считаю дозволенным, войду ли я в Рай?” И Пророк ﷺ ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>108</td></tr><tr><td>Arabic No</td><td>15.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 16</td></tr></tbody></table></div>
 

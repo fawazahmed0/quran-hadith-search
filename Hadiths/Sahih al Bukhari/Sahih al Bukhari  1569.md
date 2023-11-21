@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:'Ali and 'Uthman differed regarding Hajj-at-Tamat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hajjaj bin Muhammad Al A'war] dari [Syu'bah] dari ['Amru bin Murrah] dari [Sa'id bin Al Musayab] berkata: 'Ali dan 'Utsman radliallahu 'anhuma berbeda pendapat tentang pelaksanaan hajji dengan tamattu' ketika keduanya berada di 'Usfan. ['Ali] berkata: "Apa yang kamu inginkan sehingga kamu melarang sesuatu yang telah dikerjakan oleh Nabi Shallallahu'alaihiwasallam?". Ketika 'Ali menyampaikan pendapatnya itu, maka dia memulai ihram dengan menggabungkan keduanya (hajji dan 'umrah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1569</td></tr><tr><td>Arabic No</td><td>1569</td></tr><tr><td>Reference</td><td>Book 25 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн аль-Мусеййиб рассказал: «Когда ‘Али и ‘Усман, да будет доволен Аллах ими обоими, были в ‘Усфане, они разошлись во мнениях относительно “хаджж ат-таматту‘”. ‘Али сказал: “Ты хочешь запретить людям делать то, что сделал Пророк ﷺ”. И поскольку ‘Али считал это правильным, он входил в ихрам с намерением совершения и хаджа, и умры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1569</td></tr><tr><td>Arabic No</td><td>1569</td></tr><tr><td>Reference</td><td>Book 25 Hadith 55</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id al-Khudri reported the Messenger of Allah (ﷺ) as saying:Taking bath 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dari [Malik] dari [Shafwan bin Sulaim] dari ['Atha' bin Yasar] dari [Abu Sa'id Al-Kudhri] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Mandi pada hari Jum'at adalah wajib atas setiap orang yang telah baligh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (895) Sahih Muslim (846)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 1 Hadith 341</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что Посланник Аллаха ﷺ сказал: «Пятничное купание является обязанностью /ваджиб/ каждого совершеннолетнего»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (895) Sahih Muslim (846)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 1 Hadith 341</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Abî 'Awfâ (que Dieu l'agrée), Ach-Chaybânî a dit 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Sulaiman Asy Syaibani] dia berkata; aku bertanya kepada [Abdullah bin Abu Aufa]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] sedangkan lafadznya dari dia, telah menceritakan kepada kami [Ali bin Mushir] dari [Abu Ishaq Asy Syaibani] dia berkata; aku pernah bertanya kepada [Abdullah bin Abu Aufa], "Apakah Rasulullah shallallahu 'alaihi wasallam pernah melaksanakan hukuman rajam?" dia menjawab, "Ya, benar." Aku bertanya, "Apakah beliau melakukan hal itu setelah turunnya surat An Nuur atau sebelumnya?" dia menjawab, "Aku tidak tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4444</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 29 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4444</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 29 Hadith 47</td></tr></tbody></table></div>
 

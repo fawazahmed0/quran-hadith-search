@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I heard Allah's Messenger (ﷺ) saying, "If the son of Adam 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Makhlad] telah mengabarkan kepada kami [Ibnu Juraij] dia berkata; saya mendengar ['Atha'] berkata; saya mendengar [Ibnu Abbas] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya anak Adam memiliki harta kekayaan sebanyak satu bukit, niscaya ia akan mengharapkan satu bukit lagi yang seperti itu, dan tidaklah mata anak Adam itu dipenuhi melainkan dengan tanah, dan Allah akan menerima taubat siapa saja yang bertaubat." Ibnu Abbas mengatakan; 'Aku tidak tahu, apakah perkataan beliau (menafsirkan) dari Al Qur'an ataukah tidak.' Perawi berkata; 'Dan aku mendengar [Ibnu Zubair] mengatakannya ketika dia berada di atas mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6437</td></tr><tr><td>Arabic No</td><td>6437</td></tr><tr><td>Reference</td><td>Book 81 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха (ﷺ) сказал: “Если бы у сына Адама была полная долина имущества, то он непременно пожелал бы, чтобы к ней была (добавлена) подобная (полная долина имущества), и ничто не наполнит глаз сына Адама, кроме как земли (т.е. смерти). И Аллах принимает покаяние того, кто раскалился”».\nИбн ‘Аббас сказал: «Я не знаю, было ли это изречение приведено из Корана или нет».\n‘Ата сказал: «Я слышал, как Ибн аз-Зубайр произносил это изречение, находясь на минбаре [следующий хадис поясняет эти слова]»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6437</td></tr><tr><td>Arabic No</td><td>6437</td></tr><tr><td>Reference</td><td>Book 81 Hadith 26</td></tr></tbody></table></div>
 

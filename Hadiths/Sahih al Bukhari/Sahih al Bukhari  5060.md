@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Recite (and study) the Qur'an as lon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Hammad] dari [Abu Imran Al Jauni] dari [Jundub bin Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Bacalah Al Qur'an ketika hati-hati kalian memang menyatu, namun jika kalian berselisih, maka beranjaklah darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5060</td></tr><tr><td>Arabic No</td><td>5060</td></tr><tr><td>Reference</td><td>Book 66 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джундуба ибн ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «Читайте Коран, пока сердца ваши пребывают в согласии относительно него, а когда (между вами) будут возникать разногласия, оставляйте его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5060</td></tr><tr><td>Arabic No</td><td>5060</td></tr><tr><td>Reference</td><td>Book 66 Hadith 85</td></tr></tbody></table></div>
 

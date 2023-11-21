@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A woman of the Banu AbdulAshhal: She reported: I said Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] dan [Ahmad bin Yunus] mereka berdua berkata; Telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abdullah bin Isa] dari [Abdullah bin Yazid] dari [Seorang perempuan dari Bani Abdil Asyhal] dia berkata; Saya pernah bertanya; Wahai Rasulullah! Sesungguhnya jalan kami menuju ke masjid kotor, maka bagaimanakah yang kami lakukan apabila turun hujan? Beliau bersabda: "Bukankah sesudah jalan (yang kotor itu) adalah jalan yang lebih bagus (suci)?" Saya menjawab; Ya. Beliau bersabda: "Maka jalan kotor tadi disucikan oleh tanah jalanan yang suci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 1 Hadith 384</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мусы ибн ‘Абдуллаха ибн Йазида о том, что одна женщина из племени Бану ‘Абд аль-Ашхаль сказала: «(Однажды) я сказала: “О Посланник Аллаха, дорога, которая у нас ведет в мечеть имеет неприятный запах, так что же делать нам во время дождя?” Он ответил: “А разве после нее нет больше дороги, которая чище нее?” Я сказала: “Конечно есть”. Тогда он сказал: “Эта (чистая дорога) заменит другую (дорогу)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 1 Hadith 384</td></tr></tbody></table></div>
 

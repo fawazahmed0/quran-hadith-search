@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once 'Umar was informed that a certain man sold alcohol. 'Um
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [AL Humaidiy] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru bin DInar] berkata, telah mengabarkan kepada saya [Thawus] bahwa dia mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata; sampai kabar kepada ['Umar bin Al Khaththob] bahwa fulan menjual khamar (minuman keras) lalu dia berkata; semoga Allah membinasakan si fulan, tidakkah dia mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Semoga Allah melaknat Yahudi, karena telah diharamkan atas mereka lemak hewan (sapi dan kambing) namun mereka mencairkannya lalu memperjual belikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2223</td></tr><tr><td>Arabic No</td><td>2223</td></tr><tr><td>Reference</td><td>Book 34 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды ‘Умару ибн аль-Хаттабу сообщили, что некий человек продал алкоголь. ‘Умар сказал: “Да погубит его Аллах! Разве он не знает, что Посланник Аллаха ﷺ сказал: “Да погубит Аллах иудеев! Им было запрещено (употреблять в пищу) жир (животных), а они растопили его и стали продавать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2223</td></tr><tr><td>Arabic No</td><td>2223</td></tr><tr><td>Reference</td><td>Book 34 Hadith 170</td></tr></tbody></table></div>
 

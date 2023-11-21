@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) said, "If the Iqama for ('Isha') prayer is proc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusus] berkata, telah menceritakan kepada kami [Sufyan] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika iqamah telah dikumandangkan, sementara makan malam telah tersaji, maka hendaklah kalian mulai dengan makan malam." [Wuhaib] dan [Yahya bin Sa'id] dari [Hisyam] menyebutkan, "Jika makan malam telah terhidang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5465</td></tr><tr><td>Arabic No</td><td>5465</td></tr><tr><td>Reference</td><td>Book 70 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Пророк ﷺ сказал: «Если будет подан ужин, и в это время будет объявлено о начале молитвы, то начинайте с ужина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5465</td></tr><tr><td>Arabic No</td><td>5465</td></tr><tr><td>Reference</td><td>Book 70 Hadith 94</td></tr></tbody></table></div>
 

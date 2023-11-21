@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:When Allah's Apostle (ﷺ) decided t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] -lafazh darinya- Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] ia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam hendak pulang (ke Madinah), tiba-tiba Shafiyyah berdiri di depan pintu kemahnya dengan raut muka yang sedih, maka beliau pun bersabda: "Kenapa memang?." Kemudian beliau bertanya padanya: "Apakah kamu telah melakukan thawaf ifadlah pada hari Nahar?" Shafiyyah menjawab, "Ya." Beliau bersabda: "Berangkatlah bersama-sama dengan kami." Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan [Abu Mu'awiyah] dari [Al A'masy] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Zuhair bin Harb] Telah menceritakan kepada kami [Jarir] dari [Manshur] semuanya dari [Al Aswad] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam sebagaimana haditsnya Al Hakam, hanya saja keduanya tidak menyebutkan, "KA'IBATAN HAZIINATAN
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3228</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3228</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

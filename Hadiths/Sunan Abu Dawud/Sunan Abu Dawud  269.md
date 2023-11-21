@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Khallas al-Hujari reported: Aisha said: I and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Jabir bin Shubh] Saya mendengar [Khilas Al-Hajari] berkata; Saya mendengar [Aisyah] berkata; Saya dan Rasulullah Shallallahu alaihi wasallam tidur dalam satu selimut sementara aku sedang haidl, apabila badannya terkena sesuatu dariku, maka beliau membasuh bagian yang terkena tersebut dan tidak membasuh bagian lainnya, kemudian beliau shalat dengan pakaian tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>269</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хилас аль-Хаджари сказал: «Я слышал, как ‘Аиша, да будет доволен ею Аллах, говорила: “Я проводила ночь с посланником Аллаха ﷺ в одной рубахе (в то время, когда) у меня были менструации. И если на неё попадало что-нибудь от меня, то он отмывал именно то место, которое было поражено, и затем совершал молитву в ней, а если попадало что-то на его одежду, то он стирал то место, куда оно попадало, не преступая предел в этом, а затем молился в ней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>269</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
 

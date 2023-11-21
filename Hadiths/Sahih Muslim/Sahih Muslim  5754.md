@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Abdullah bin Al Hakam]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Harun bin 'Abdillah] dan lafazh ini miliknya; Telah menceritakan kepada kami [Rauh]; Telah menceritakan kepada kami [Syu'bah] dari ['Umar bin Muhammad bin Zaid] dari [Bapaknya] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Penyakit demam panas itu berasal dari panas neraka jahanam. Karena itu matikanlah (kompreslah) dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5754</td></tr><tr><td>Arabic No</td><td>2209.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5754</td></tr><tr><td>Arabic No</td><td>2209.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 108</td></tr></tbody></table></div>
 

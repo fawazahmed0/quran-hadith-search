@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that Allah's Messenger (ﷺ) said that the inmates of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan bin Ali Al Hulwani] dan [Hajjaj bin Asy Sya'ir] keduanya dari [Abu Ashim] berkata [Hasan]: telah menceritakan kepada kami [Abu Ashim] dari [Ibnu Juraij] telah mengkhabarkan kepadaku [Abu Az Zubair] ia mendengar [Jabir bin Abdullah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Penghuni surga makan dan minum didalamnya, mereka berak, tidak ingusan dan tidak kencing, tapi makanan mereka itu (menjadi) sendawa, keringat seperti keringat minyak kesturi, mereka diilami tasbih dan tahmid seperti kalian diilhami nafas." Ia berkata: Disebutkan dalam hadits Hajjaj: Makanan mereka itu. Telah menceritakan kepadaku [Sa'id bin Yahya Al Umawi] telah menceritakan kepadaku [ayahku] telah menceritakan kepada kami [Ibnu Juraij] telah mengkhabarkan kepadaku [Abu Az Zubair] dari [Jabir] dari nabi Shallallahu 'alaihi wa Salam sepertinya, hanya saja ia menyebutkan: Mereka diilami tasbih dan takbir seperti kalian diilhami nafas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7154</td></tr><tr><td>Arabic No</td><td>2835.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7154</td></tr><tr><td>Arabic No</td><td>2835.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 23</td></tr></tbody></table></div>
 

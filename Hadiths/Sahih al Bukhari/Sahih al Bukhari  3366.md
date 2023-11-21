@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:I said, "O Allah's Messenger (ﷺ)! Which mosque was first bui
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 60 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) я спросил: “О Посланник Аллаха, какая мечеть была построена на земле первой?” Он ответил: “Запретная мечеть /Аль-масджид aль-харам/”. Я спросил: “А после неё?” Он ответил: “Отдалённейшая мечеть /Аль-масджид aль-акса/”. Я спросил: “А сколько (лет прошло) между (построением) одной и другой?” Он ответил: “Сорок лет”, (после чего добавил): “Где бы ни застало тебя (время) молитвы, совершай её, ибо в этом благо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 60 Hadith 40</td></tr></tbody></table></div>
 

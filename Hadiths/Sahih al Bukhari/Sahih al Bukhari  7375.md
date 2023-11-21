@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) sent (an army unit) under the command of a man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibn Wahb] telah menceritakan kepada kami [Amru] dari [Ibnu Abu Hilal] bahwa [Abu Rijal Muhammad bin Abdurrahman] menceritakan kepadanya dari Ibunya [Amrah binti Abdurrahman] yang dahulu dalam asuhan Aisyah isteri Nabi shallallahu 'alaihi wasallam, dari ['Aisyah], bahwa Nabi shallallahu 'alaihi wasallam pernah mengutus seorang laki-laki dalam sebuah eskpedisi militer, lantas laki-laki tersebut membaca untuk sahabatnya dalam shalatnya dengan QULHUWALLAHU AHAD (Surat al Ikhlash) dan menutupnya juga dengan surat itu. Dikala mereka pulang, mereka menceritakan hal ini kepada Nabi shallallahu 'alaihi wasallam, lantas Nabi shallallahu 'alaihi wasallam bersabda: 'Tolong tanyailah dia, mengapa dia berbuat sedemikian? ' Mereka pun menanyainya, dan sahabat tadi menjawab, 'Sebab surat itu adalah menggambarkan sifat Arrahman, dan aku sedemikian menyukai membacanya.' Spontan Nabi shallallahu 'alaihi wasallam bersabda: 'Beritahukanlah kepadanya bahwa Allah menyukainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7375</td></tr><tr><td>Arabic No</td><td>7375</td></tr><tr><td>Reference</td><td>Book 97 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши (да будет доволен ею Аллах) о том, что (в своё время) Пророк ﷺ отправил (в поход) боевой отряд под командованием одного человека, который во время молитв был имамом для своих товарищей и всегда завершал чтение (словами): «Скажи: “Он, Аллах, Один…”». Когда они вернулись, об этом рассказали Пророку ﷺ который велел: «Спросите его, почему он делает это?» Ему задали этот вопрос, и он сказал: «В ней (упоминается о) качествах Милостивого, и (поэтому) я люблю читать её». (Узнав о том, что он сказал,) Пророк ﷺ велел (им): «Сообщите ему, что Аллах любит его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7375</td></tr><tr><td>Arabic No</td><td>7375</td></tr><tr><td>Reference</td><td>Book 97 Hadith 5</td></tr></tbody></table></div>
 

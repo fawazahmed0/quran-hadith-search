@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "You people will be keen to have th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Sa'id Al Maqburi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "kalian akan rakus terhadap jabatan, padahal jabatan itu akan menjadi penyesalan dihari kiamat, ia adalah seenak-enak penyusuan dan segetir-getir penyapihan." [Muhamad bin Basyar] berkata; telah menceritakan kepada kami [Abdullah bin Humran] telah menceritakan kepada kami [Abdul Hamid bin Ja'far] dari [Sa'id Al Maqburi] dari [Umar bin Al Hakam] dari [Abu Hurairah] seperti diatas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7148</td></tr><tr><td>Arabic No</td><td>7148</td></tr><tr><td>Reference</td><td>Book 93 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, будете вы стремиться к власти, а в День воскресения (станете об этом) сожалеть! Как прекрасно, когда кормят грудью, и как плохо, когда от груди отнимают!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7148</td></tr><tr><td>Arabic No</td><td>7148</td></tr><tr><td>Reference</td><td>Book 93 Hadith 12</td></tr></tbody></table></div>
 

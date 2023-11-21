@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umayyah bin Bistham Al 'Aisi] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Rauh bin Al Qasim] dari [Abdullah bin Thawus] dari [Ayahnya] dari [Ibnu Abbas] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Berikanlah harta warisan kepada yang berhak menerimanya, sedangkan sisanya untuk keluarga laki-laki yang terdekat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4142</td></tr><tr><td>Arabic No</td><td>1615.02</td></tr><tr><td>Reference</td><td>Book 23 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4142</td></tr><tr><td>Arabic No</td><td>1615.02</td></tr><tr><td>Reference</td><td>Book 23 Hadith 3</td></tr></tbody></table></div>
 

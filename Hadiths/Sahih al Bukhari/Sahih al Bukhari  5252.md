@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Seereen:Ibn 'Umar said: "I divorced my wife while she was mens
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Anas bin Sirin] ia berkata; Aku mendengar [Ibnu Umar] berkata; Ibnu Umar menceraikan isterinya dalam keadaan haidl. Maka Umar pun menuturkan hal itu pada Nabi shallallahu 'alaihi wasallam. Akhirnya beliau bersabda: "Hendaklah ia merujuknya kembali." Aku bertanya, "Apakah talak itu dihitung?" ia menjawab, "Kenapa tidak?" Dan dari [Qatadah] dari [Yunus bin Jubair] dari [Ibnu Umar] bahwa beliau bersabda: "Perintahkan padanya, hendaklah ia meruju'nya kembali." Aku bertanya, "Apakah talak itu juga dihitung?" Ibnu Umar menjawab, "Bagaimana bila ia tak mampu dan juga pandir?" Telah menceritakan kepada kami [Abu Ma'mar] Telah menceritakan kepada kami [Abdul Warits] Telah menceritakan kepada kami [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu Umar] ia berkata; Ia pun menghitung masah iddahnya atasku dengan talak satu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5252</td></tr><tr><td>Arabic No</td><td>5252</td></tr><tr><td>Reference</td><td>Book 68 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Сирина, что Ибн ‘Умар рассказывал, что он развёлся со своей женой, когда у неё началась менструация. ‘Умар рассказал об этом Пророку ﷺ, и он сказал: «Пусть он вернёт её!» Я (Анас ибн Сирин) спросил: «А засчитывается ли (этот развод)?» Ибн ‘Умар ответил: «А как же иначе!?»\nЮнус ибн Джубайр передал, что Ибн Умар сказал: «Пророк ﷺ сказал ‘Умару: “Вели ему вернуть её!”». Я (Юнус ибн Джубайр) спросил: «А засчитывается ли (этот развод)?» Ибн ‘Умар ответил: «А как думаешь, (засчитывается ли развод, если человек даст его) проявив слабость или из-за глупости…?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5252</td></tr><tr><td>Arabic No</td><td>5252</td></tr><tr><td>Reference</td><td>Book 68 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:The Prophet (ﷺ) took out a quiver (of arrows) for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Marwan bin Mu'awiyah] telah menceritakan kepada kami [Hasyim bin Hasyim As Sa'di] dia berkata, aku mendengar [Sa'id bin Musayyab] berkata, aku mendengar [Sa'd bin Abu Waqash] berkata, "Pada saat perang Uhud, Nabi shallallahu 'alaihi wasallam mengambilkan anak panah dari wadahnya untukku, lalu beliau bersabda: "Lemparlah, demi ayah dan ibuku sebagai tebusanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 64 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас, да будет доволен им Аллах, сказал: «В день (битвы при) Ухуде Пророк ﷺ (отдал мне все стрелы из) своего колчана и сказал: “Стреляй, да станут отец мой и мать выкупом за тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 64 Hadith 101</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tha'laba bin Abi Malik Al-Qurazi:When Qais bin Sa'd Al-Ansari, who used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Abi Maryam] berkata telah bercerita kepadaku [Al Laits] berkata telah bercerita kepadaku ['Uqail] dari [Ibnu Sihab] berkata telah bercerita kapadaku [Tsa'labah bi Abi Malik Al Qurathiy] bahwa [Qais bin Sa'ad Al Anshariy] radliallahu 'anhu adalah pembawa bendera Rasulullah shallallahu 'alaihi wasallam, ketika ia hendak melaksanakan haji lalu ia menyisir rambutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2974</td></tr><tr><td>Arabic No</td><td>2974</td></tr><tr><td>Reference</td><td>Book 56 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ляба Ибн Аби Малик аль-Куразый сказал: «Когда Кайс ибн Са‘д аль-Ансари, который раньше нёс знамя Посланника Аллаха ﷺ хотел совершить хадж, он причесался»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2974</td></tr><tr><td>Arabic No</td><td>2974</td></tr><tr><td>Reference</td><td>Book 56 Hadith 183</td></tr></tbody></table></div>
 

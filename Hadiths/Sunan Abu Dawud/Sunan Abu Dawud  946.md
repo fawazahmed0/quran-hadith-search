@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu’aiqib reported the Prophet (ﷺ) as saying ; Do not remove pebbles while yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] dari [Mu'aiqib] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kamu mengusap (kerikil) sementara kamu sedang shalat, namun apabila kamu terpaksa melakukan hal itu, maka cukuplah kamu meratakannya sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1207) Sahih Muslim (546)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>946</td></tr><tr><td>Arabic No</td><td>946</td></tr><tr><td>Reference</td><td>Book 2 Hadith 557</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘айкыба, что Пророк ﷺ сказал: «Не разравнивай (землю перед собой), когда совершаешь молитву, а если уж без этого не обойтись, то сделай это один раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1207) Sahih Muslim (546)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>946</td></tr><tr><td>Arabic No</td><td>946</td></tr><tr><td>Reference</td><td>Book 2 Hadith 557</td></tr></tbody></table></div>
 

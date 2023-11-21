@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported that the polytheists also prono
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abbas bin Abdul 'Azhim Al Anbari] telah menceritakan kepada kami [An Nadlr bin Muhammad Al Yamami] telah menceritakan kepada kami [Ikrimah bin Ammar] telah menceritakan kepada kami [Abu Zumail] dari [Ibnu Abbas] ia berkata; Dulu orang-orang musyrik mengatakan; "LABBAIKA LAA SYARIIKA LAKA (Aku memenuhi panggilanMu wahai Dzat yang tiada sekutu bagiMu). Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Celakalah kalian, cukuplah ucapan itu dan jangan diteruskan." Tapi mereka meneruskan ucapan mereka; ILLAA SYARIIKAN HUWA LAKA TAMLIKUHU WAMAA MALAKA (kecuali sekutu bagi-Mu yang memang Kau kuasai dan ia tidak menguasai)." Mereka mengatakan ini sedang mereka berthawaf di Baitullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2815</td></tr><tr><td>Arabic No</td><td>1185</td></tr><tr><td>Reference</td><td>Book 15 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2815</td></tr><tr><td>Arabic No</td><td>1185</td></tr><tr><td>Reference</td><td>Book 15 Hadith 25</td></tr></tbody></table></div>
 

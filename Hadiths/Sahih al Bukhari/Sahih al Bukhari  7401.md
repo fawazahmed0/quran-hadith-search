@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Do not swear by your fathers; and wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Warqa'] dari ['Abdullah bin Dinar] dari [Ibn Umar] radliyallahu'anhuma mengatakan, "Nabi shallallahu 'alaihi wasallam bersabda: "Jangan kalian bersumpah dengan nama bapak-bapak kalian, dan barangsiapa bersumpah, hendaklah bersumpah dengan nama Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7401</td></tr><tr><td>Arabic No</td><td>7401</td></tr><tr><td>Reference</td><td>Book 97 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн ‘Умар), да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Не клянитесь своими отцами, а кто хочет поклясться, пусть клянётся Аллахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7401</td></tr><tr><td>Arabic No</td><td>7401</td></tr><tr><td>Reference</td><td>Book 97 Hadith 30</td></tr></tbody></table></div>
 

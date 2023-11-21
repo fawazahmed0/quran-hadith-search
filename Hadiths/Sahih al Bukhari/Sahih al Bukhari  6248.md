@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:Sahl said, "We used to feel happy on Fridays." I asked Sahl, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Ibnu Abu Hazim] dari [Ayahnya] dari [Sahl] dia berkata; "(Dahulu) Kami merasa gembira ketika tiba hari Jum'at, aku (Abu Hazm) bertanya; "Kenapa?" Sahl menjawab; "Kami memiliki seorang nenek yang telah tua. Biasanya ia pergi ke Budla'ah -Ibnu Maslamah berkata; yaitu sebuah kebun kurma di Madinah- lalu ia mengambil ubi lalu meletakkannya di dalam periuk miliknya dan menumbuk biji-bijian dari gandum. Setelah shalat Jum'at kami pergi menemuinya, kami memberi salam kepadanya, lalu sang nenek pun menyuguhkannya kepada kami. Karena itu, hari Jum'at adalah hari yang sangat menyenangkan bagi kami. Kami tidak pernah menyantap makan siang dan tidak pula qailulah (tidur siang sebelum dluhur), kecuali setelah Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6248</td></tr><tr><td>Arabic No</td><td>6248</td></tr><tr><td>Reference</td><td>Book 79 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хазим сказал: «Однажды Сахль сказал: “Раньше мы радовались пятничному дню”. Я спросил: “Почему?” Он сказал: “Среди нас была одна пожилая женщина, которая отправляла кого-нибудь в Буда’ (Ибн Масляма сказал: «Это финиковый сад в Медине»), откуда она брала корневища свеклы, клала их в котёл и молола (немного) ячменных зёрен (после чего добавляла их туда и таким образом варила похлёбку). Когда же мы расходились после совершения пятничной молитвы, то приветствовали её, а она предлагала нам это блюдо, по причине чего мы и радовались. И мы совершали кайлюлю (дневной сон) и обедали только после пятничной молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6248</td></tr><tr><td>Arabic No</td><td>6248</td></tr><tr><td>Reference</td><td>Book 79 Hadith 22</td></tr></tbody></table></div>
 

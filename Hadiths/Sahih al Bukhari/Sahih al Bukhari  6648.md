@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Do not swear by your
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul 'Aziz bin Muslim] telah menceritakan kepada kami ['Abdullah bin Dinar] menuturkan; aku mendengar ['Abdullah bin Umar] radliallahu 'anhuma menuturkan; Rasulullah Shallallahu'alaihi wa sallam bersabda: "Janganlah kalian bersumpah dengan nama bapak-bapak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6648</td></tr><tr><td>Arabic No</td><td>6648</td></tr><tr><td>Reference</td><td>Book 83 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллах ибн ‘Умара, да будет Аллах доволен им и его отцом, что Посланник Аллаха, ﷺ сказал: «Не клянитесь своими отцами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6648</td></tr><tr><td>Arabic No</td><td>6648</td></tr><tr><td>Reference</td><td>Book 83 Hadith 27</td></tr></tbody></table></div>
 

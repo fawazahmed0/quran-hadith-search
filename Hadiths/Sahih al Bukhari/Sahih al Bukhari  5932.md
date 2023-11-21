@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid bin 'Abdur-Rahman bin 'Auf:that in the year he performed Hajj. h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman bin 'Auf] bahwa dia mendengar [Mu'awiyah bin Abu Sufyan] berkhutbah di atas mimbar ketika musim haji, sambil memeggang seikat rambut (sambungan rambut) dari tangan pengawalnya, katanya; "Dimanakah ulama kalian! Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam melarang dari yang seperti ini, beliau bersabda: "Bani Isra'il celaka ketika wanita-wanita mereka mengambil (memakai) yang seperti ini." Ibnu Abu Syaibah mengatakan; telah menceritakan kepada kami Yunus bin Muhammad telah menceritakan kepada kami Fulaih dari Zaid bin Aslam dari 'Atha' bin Yasar dari Abu Hurairah radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Allah melaknat orang yang menyambung rambutnya dan yang minta disambung rambutnya dan melaknat orang yang mentato dan yang minta ditato
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5932</td></tr><tr><td>Arabic No</td><td>5932</td></tr><tr><td>Reference</td><td>Book 77 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумайд ибн ‘Абдуррахман ибн ‘Ауф сказал, что он слышал, как в год своего хаджа Му‘авия ибн Аби Суфьян поднялся на минбар, взял локон волос, который держал его стражник, и сказал: «О жители Медины! Где ваши учёные? Я слышал, как Посланник Аллаха ﷺ запретил подобное, сказав: “Поистине, бану исраиль погибли только после того, как их женщины стали использовать это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5932</td></tr><tr><td>Arabic No</td><td>5932</td></tr><tr><td>Reference</td><td>Book 77 Hadith 147</td></tr></tbody></table></div>
 

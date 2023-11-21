@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Amir Abdullah bin Barrad Al Asy'ari] dan [Abu Kuraib Muhammad bin Al 'Allaa] lafazh keduanya tidak jauh berbeda. Keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] -kakeknya- dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Aku bermimpi dalam tidurku bahwa aku berhijrah dari mekkah ke suatu negri yang yang banyak pohon kurmanya. Aku menduga bahwa negri itu adalah Yamamah atau Hajar, tetapi ternyata itu adalah kota Madinah (Yatsrib). Dalam mimpi itu, aku juga terlihat menghunus pedang. Tiba-tiba bagian tengah pedang itu patah dan ternyata itu adalah musibah yang menimpa orang-orang mukmin pada perang uhud. Setelah itu aku aku pun terlihat menghunus pedang lagi dan ternyata pedang itu lebih baik dari yang pertama. Itulah kemenangan yang diberikan Allah dan bersatunya orang-orang Mukmin. Selain itu dalam mimpi itu pula, aku melihat sapi -dan Allah Maha Baik-. Ternyata tafsiran mimpi itu adalah bahwa orang-orang mukmin yang mati syahid dalam perang Uhud dan pahala yang diberikan Allah sesudah itu, serta pahala kejujuran pada perang Badar yang diberikan Allah setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5934</td></tr><tr><td>Arabic No</td><td>2272</td></tr><tr><td>Reference</td><td>Book 42 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5934</td></tr><tr><td>Arabic No</td><td>2272</td></tr><tr><td>Reference</td><td>Book 42 Hadith 38</td></tr></tbody></table></div>
 

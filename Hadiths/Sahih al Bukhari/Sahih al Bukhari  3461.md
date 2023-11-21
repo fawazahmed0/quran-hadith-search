@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "Convey (my teachings) to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu 'Ashim adl-Dlahhak bin Makhlad] telah mengabarkan kepada kami [Al Awza'iy] telah bercerita kepada kami [Hassan bin 'Athiyyah] dari [Abi Kabsyah] dari ['Abdullah bin 'Amru] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sampaikan dariku sekalipun satu ayat dan ceritakanlah (apa yang kalian dengar) dari Bani Isra'il dan itu tidak apa (dosa). Dan siapa yang berdusta atasku dengan sengaja maka bersiap-siaplah menempati tempat duduknya di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3461</td></tr><tr><td>Arabic No</td><td>3461</td></tr><tr><td>Reference</td><td>Book 60 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Амра, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Передавайте (людям то, что вы услышите) от меня, даже если (дело будет касаться всего лишь одного) аята, и передавайте то, что говорили израильтяне, (ибо) нет в этом греха, а тот, кто намеренно возведёт на меня ложь, пусть (приготовится) занять своё место в огне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3461</td></tr><tr><td>Arabic No</td><td>3461</td></tr><tr><td>Reference</td><td>Book 60 Hadith 128</td></tr></tbody></table></div>
 

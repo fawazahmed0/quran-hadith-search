@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abdulldh b. Umar that one day the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ishaq al-Musayyabi] telah menceritakan kepada kami [Anas] -yaitu Ibnu Iyadl- dari [Musa] -yaitu Ibnu Uqbah- dari [Nafi'] dia berkata, " [Abdullah bin Umar] berkata, "Suatu hari Rasulullah shallallahu 'alaihi wasallam menyebutkan tetang al-Masih ad-Dajjal di hadapan orang banyak, beliau bersabda: "Sesungguhnya Allah tidak buta sebelah. Ketahuilah, sesungguhnya al-Masih ad-Dajjal buta sebelah mata kanan, seakan-akan matanya adalah anggur yang sudah masak." Perawi berkata, "Lalu Rasulullah bersabda: "Aku bermimpi pada suatu malam di sisi Ka'bah, tiba-tiba ada seorang laki-laki berkulit sawo matang sebagaimana seorang laki-laki sawo matang yang paling ganteng yang pernah kalian lihat, rambut ikalnya mengepak di antara bahunya, rambutnya terurai, dan kepalanya meneteskan air, dia meletakkan kedua tangannya pada bahu dua orang laki-laki. Dia berthawaf di Baitullah di antara keduanya, maka aku bertanya, 'Siapakah orang ini? ' Mereka menjawab, 'Al-Masih bin Maryam. Dan aku melihat di belakangnya seorang laki-laki keriting buta sebelah kanan mirip orang yang pernah aku lihat, Ibnu Qathan, dalam keadaan meletakkan kedua tangannya pada pundak dua orang laki-laki. Dia thawaf di Baitullah, maka aku bertanya, 'Siapakah ini? ' Mereka menjawab, 'Ini al-Masih ad-Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>169.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 331</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар (да будет доволен Аллах ими обоими) сказал: «Однажды Посланник Аллаха ﷺ в присутствии людей упомянул о Лжемессии /аль-Масих ад-Даджжаль/ и сказал: “Поистине, Благой и Всевышний Аллах не является кривым, что же касается Лжемессии, то он крив на правый глаз, который похож на выпуклую виноградину”. Посланник Аллаха ﷺ также сказал: “Этой ночью во сне, я увидел у Каабы смуглого человека, красивейшего из смуглых людей, каких ты только видел. Его локоны ниспадали до мочек ушей, а волосы были волнистыми. С головы его капала вода, и он совершал обход Дома, положив руки на плечи двух человек и находился между ними. Я спросил: “Кто это?” (Мне) сказали: “Мессия, сын Марьям” а позади него я увидел человека с сильно вьющимися волосами, кривого на правый глаз и похожего на Ибн Къатана больше (любого из) людей, кого мне приходилось видеть. Он (также) обходил Дом, положив руки на плечи двух человек. Я спросил: “Кто это?” и (мне) ответили: “Лжемессия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>169.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 331</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) had the sublimest character 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Sulaiman bin Dawud Al 'Ataki]; Telah menceritakan kepada kami ['Abdul Warits]; Telah menceritakan kepada kami [Abu At Tayah]; Telah menceritakan kepada kami [Anas bin Malik]; Demikian juga telah menceritakan dari jalur yang lain; Dan telah menceritakan kepada kami [Syaiban bin Farrukh]; Dan lafazh ini miliknya; Telah menceritakan kepada kami ['Abdul Warits] dari [Abu At Tayah] dari [Anas bin Malik] ia berkata; "Rasulullah shallallahu 'alaihi wasallam adalah manusia yang paling baik akhlaknya. Aku mempunyai saudara laki-laki yang bernama Abu Umair. Perawi mengatakan; aku mengira Anas juga berkata; 'Kala itu ia masih disapih." Biasanya, apabila Rasulullah shallallahu 'alaihi wasallam datang dan melihatnya, maka beliau akan menyapa: 'Hai Abu Umair, bagaimana kabar si nughair (burung pipit). Abu Umair memang senang bermain dengan burung tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5622</td></tr><tr><td>Arabic No</td><td>2150</td></tr><tr><td>Reference</td><td>Book 38 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5622</td></tr><tr><td>Arabic No</td><td>2150</td></tr><tr><td>Reference</td><td>Book 38 Hadith 37</td></tr></tbody></table></div>
 

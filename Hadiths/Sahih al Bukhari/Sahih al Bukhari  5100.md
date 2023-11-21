@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:It was said to the Prophet, "Won't you marry the daughter of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Qatadah] dari [Jabir bin Zaid] dari [Ibnu Abbas] ia berkata; Pernah ditanyakan kepada Nabi shallallahu 'alaihi wasallam, "Apakah Anda akan menikahi anak perempuan Hamzah?" beliau bersabda: "Sesungguhnya perempuan itu adalah anak saudara sesusuan saya." [Bisyr bin Umar] berkata; Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Qatadah] Aku mendengar [Jabir bin Zaid] semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5100</td></tr><tr><td>Arabic No</td><td>5100</td></tr><tr><td>Reference</td><td>Book 67 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Когда) Пророка ﷺ спросили: “Не женишься ли ты на дочери Хамзы?” — он сказал: “Она ведь является дочерью моего молочного брата!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5100</td></tr><tr><td>Arabic No</td><td>5100</td></tr><tr><td>Reference</td><td>Book 67 Hadith 38</td></tr></tbody></table></div>
 

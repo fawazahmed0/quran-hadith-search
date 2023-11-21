@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shu'ba:Abu Jamra Nasr bin 'Imran Ad-Duba'i said, "I intended to perform
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada kami [Abu Jamrah Nashr bin 'Imran Adh Dhuba'iy] berkata: "Aku mengerjakan haji dengan tamattu' namun orang-orang melarangku maka aku tanyakan hal itu kepada [Ibnu 'Abbas radliallahu 'anhuma]. Maka dia memerintahkan aku (melanjutkan tamattu'). Kemudian aku bermimpi yang dalam mimpiku aku melihat ada seseorang berkata kepadaku; "hajji yang mabrur dan 'umrah yang diterima". Lalu hal ini aku kabarkan kepada Ibnu 'Abbas radliallahu 'anhu. Maka dia berkata: "Sebagai suatu sunnah Nabi Shallallahu'alaihiwasallam ". Lalu dia berkata, kepadaku: "Berdirilah di hadapanku, karena aku akan memberimu bagian dari hartaku". Syu'bah berkata: Maka aku tanyakan: "Mengapa?". Dia (Abu Hamzah) berkata: "Karena mimpi yang aku alami itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1567</td></tr><tr><td>Arabic No</td><td>1567</td></tr><tr><td>Reference</td><td>Book 25 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Шу‘бы, да помилует его Аллах Всевышний, что Абу Джамра Наср бин ‘Имран ад-Дуб‘и сказал: «Я (решил) совершить “хаджж ат-таматту‘”, но люди стали рекомендовать мне не делать этого. Тогда я спросил об этом Ибн ‘Аббаса, да будет доволен Аллах ими обоими, и он велел мне (поступить именно так). А потом я увидел во сне, что какой-то человек сказал мне: “Безупречный хадж и принятая умра!” Я сообщил об этом Ибн ‘Аббасу, который сказал: “(Это же) сунна Пророка ﷺ!” — а потом он сказал мне: “Живи у меня, и я выделю тебе часть из того, чем владею”».\nШу‘ба сказал: «Я спросил (Абу Джамру): “За что?” Он ответил: “За то, что я увидел во сне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1567</td></tr><tr><td>Arabic No</td><td>1567</td></tr><tr><td>Reference</td><td>Book 25 Hadith 53</td></tr></tbody></table></div>
 

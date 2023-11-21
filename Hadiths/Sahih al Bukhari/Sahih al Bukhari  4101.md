@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:We were digging (the trench) on the day of (Al-Khandaq ( i.e. Tre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Abdul Wahid bin Aiman] dari [Ayahnya] dia berkata, aku pernah menemui [Jabir] radliallahu 'anhu, "Ketika kami menggali parit pada peristiwa khandaq, sebongkah batu yang sangat keras menghalangi kami, lalu para sahabat menemui Nabi shallallahu 'alaihi wasallam, mereka berkata, "Batu yang sangat keras ini telah menghalangi kami dalam menggali parit, lalu beliau bersabda: "Aku sendiri yang akan turun." Kemudian beliau berdiri (di dalam parit), semntara perut beliau tengah diganjal dengan batu (karena lapar). Semenjak tiga hari kami lalu tanpa ada makanan yang dapat kami rasakan, lalu Nabi shallallahu 'alaihi wasallam mengambil kampak dan memukulkan pada batu tersebut hingga ia menjadi pecah berantakan -atau hancur-. Aku lalu berkata, "Wahai Rasulullah, izinkanlah aku untuk ke rumah." Setelah itu kukatakan kepada isteriku, "Aku melihat pada diri Nabi shallallahu 'alaihi wasallam sesuatu yang aku sendiri tidak tega melihatnya, apakah kamu memiliki sesuatu (makanan)?" isteriku menjawab, "Aku memiliki gandum dan anak kambing." Kemudian ia meyembelih anak kambing tersebut dan membuat adonan gandum hngga menjadi makanan dalam tungku, setelah itu aku menemui Nabi shallallahu 'alaihi wasallam, sementara adonan mulai matang, dan periuk berada diantara dua tungku api dan hampir masak, maka aku berkata, "Aku memiliki sedikit makanan, " maka berdirilah wahai Rasulullah shallallahu 'alaihi wasallam bersama dengan satu atau dua orang saja. Beliau bersabda: "Untuk berapa orang?" Lalu aku memberitahukan kepada beliau, beliau bersabda: "Tidak mengapa orang banyak untuk datang." Beliau bersabda lagi: "Katakan kepada isterimu, jangan ia angkat periuknya dan adonan roti dari tungku api hingga aku datang." Setelah itu beliau bersabda: "Bangunlah kalian semua." Bergegas kaum Muhajirin dan Anshar berdiri berangkat, ketika Jabir menemui Isterinya, dia berkata, "Waduh, Nabi shallallahu 'alaihi wasallam telah datang bersama kaum Muhajirin dan Anshar serta orang-orang yang bersama mereka." Isteri Jabir berkata, "Memang beliau (Rasulullah) memintamu yang demikian?" Jabir menjawab, "Ya, begitu." Lalu Rasulullah berkata: "Masuklah dan jangan berdesak-desakan." Kemudian Rasulullah mencuil-cuil roti dan ia tambahkan dengan daging, dan ia tutup periuk dan tungku api. Selanjutnya beliau ambil dan beliau dekatkan kepada para sahabatnya. Lantas beliau ambil kembali periuk itu dan terus menerus beliau lakukan antara mencuili roti dan menciduknya hingga semua sahabat kenyang dan masih menyisakan sisa. Setelah itu beliau bersabda: "Sekarang makanlah engkau (maksudnya isteri Jabir) dan kalau bisa, hadiahkanlah kepada yang lain, sebab orang-orang, banyak yang masih kelaparan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4101</td></tr><tr><td>Arabic No</td><td>4101</td></tr><tr><td>Reference</td><td>Book 64 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Когда во время битвы у) рва мы копали (этот ров, нам попалась такая) твердая земля (, что мотыги не брали ее), и тогда (люди) пришли к Пророку ﷺ и сказали: “Во рву (нам) попалась (такая-то) земля”. (Пророк ﷺ) сказал: “Я сам спущусь (туда)”, а (когда он) поднялся на ноги, (оказалось, что) к животу его был привязан камень, (так как к этому времени) мы уже три дня ничего не ели. (Спустившись вниз,) Пророк ﷺ взял мотыгу, нанес удар по этой земле, и она обратилась в кучу песка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4101</td></tr><tr><td>Arabic No</td><td>4101</td></tr><tr><td>Reference</td><td>Book 64 Hadith 145</td></tr></tbody></table></div>
 

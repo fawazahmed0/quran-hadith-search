@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr: A man asked the Prophet (ﷺ) , "What sort of deeds
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid] berkata, Telah menceritakan kepada kami [Al Laits] dari [Yazid] dari [Abu Al Khair] dari [Abdullah bin 'Amru]; Ada seseorang yang bertanya kepada Nabi shallallahu 'alaihi wasallam; "Islam manakah yang paling baik?" Nabi shallallahu 'alaihi wasallam menjawab: "Kamu memberi makan, mengucapkan salam kepada orang yang kamu kenal dan yang tidak kamu kenal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал ‘Амр ибн Халид, сказавший: Нам рассказал Аль-Лейс, от Язида, от Абу аль-Хайра от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах ими обоими, о том что: «Один человек спросил Пророка ﷺ: “Какое проявление Ислама является наилучшим?” Он ответил: “(Лучшее состоит в том, чтобы) ты кормил (людей) и приветствовал тех, кого знаешь и кого не знаешь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
 

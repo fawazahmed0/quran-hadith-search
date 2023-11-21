@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that the garment most liked by Allah's Messenger (ﷺ) was the man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Mu'adz bin Hisyam]; Telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Anas] ia berkata; "Pakaian yang paling di sukai Rasulullah shallallahu 'alaihi wasallam adalah Hibarah (Pakaian yang terbuat dari kapas atau katun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5441</td></tr><tr><td>Arabic No</td><td>2079.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5441</td></tr><tr><td>Arabic No</td><td>2079.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 56</td></tr></tbody></table></div>
 

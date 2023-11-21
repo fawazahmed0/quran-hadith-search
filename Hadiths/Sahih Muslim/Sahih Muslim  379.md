@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et bénédiction de Die
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>379</td></tr><tr><td>Arabic No</td><td>150.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 286</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Амир ибн Са‘д передал, что его отец сказал: «Однажды Посланник Аллаха ﷺ оделил подарками группу людей, среди которых сидел и я. При этом Посланник Аллаха ﷺ ничего не дал одному человеку, который нравился мне больше всех из них. Я спросил: “О Посланник Аллаха, почему ты так отнёсся к такому-то? Клянусь Аллахом, я считаю, что он верующий!” Посланник Аллаха ﷺ сказал: “Или мусульманин”. Я помолчал немного, но мне не давало покоя то, что я знал об этом человеке, и я снова спросил: “О, Посланник Аллаха! Почему ты так отнёсся к такому-то? Клянусь Аллахом, я считаю, что он верующий!” Он сказал: “Или мусульманин”. Я снова немного помолчал, но мне не давало покоя то, что я знал об этом человеке, и я снова спросил: “О, Посланник Аллаха! Почему ты так отнёсся к такому-то? Клянусь Аллахом, я считаю, что он верующий!” Он сказал: “Или мусульманин. Поистине, (иногда) я даю человеку в то время, как другой любимей для меня чем он, из страха, что он может быть ввергнут лицом в Огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>379</td></tr><tr><td>Arabic No</td><td>150.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 286</td></tr></tbody></table></div>
 

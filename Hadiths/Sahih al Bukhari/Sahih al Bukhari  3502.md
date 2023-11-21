@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:'Uthman bin 'Affan went (to the Prophet) and said, "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Ibnu Al Musayyab] dari [Jubair binMuth'im] berkata, Aku dan 'Utsman bin 'Affan berjalan laludia berkata; "Wahai Rasulullah, baginda telah memberi Bani Al Muthallib tapi tidak memberi kami padahal kami dan mereka di hadapan baginda kedudukannya sama". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Bani Hasyim dan Bani Al Muthallib adalah kedudukannya sama (satu) ". Dan berkata Al Laits telah bercerita kepadaku Abu Al Aswad Muhammad dari 'Urwah bin Az Zubair berkata; 'Abdullah bin Az Zubair pergi bersama beberapa orang dari Bani Zuhrah menemui 'Aisyah radliallahu 'anhu yang merupakan orang yang paling lembut kepada mereka karena hubungan kekerabatan mereka dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3502</td></tr><tr><td>Arabic No</td><td>3502</td></tr><tr><td>Reference</td><td>Book 61 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Мут‘им сказал: «Я пришёл вместе с ‘Усманом ибн ‘Аффаном к Посланнику Аллаха ﷺ, и он сказал: “О Посланник Аллаха! Ты наделил людям из бану аль-мутталиб, но ничего не дал нам, а ведь мы состоим с тобой в родстве такой же степени, как и они”. Пророк ﷺ сказал: “Бану хашим и бану аль-мутталиб — это одно целое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3502</td></tr><tr><td>Arabic No</td><td>3502</td></tr><tr><td>Reference</td><td>Book 61 Hadith 12</td></tr></tbody></table></div>
 

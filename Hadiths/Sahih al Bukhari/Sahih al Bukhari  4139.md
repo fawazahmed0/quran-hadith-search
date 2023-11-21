@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:We took part in the Ghazwa of Najd along with Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir bin Abdullah] ia berkata; "Kami pernah ikut perang bersama Rasulullah shallallahu 'alaihi wasallam di wilayah Najed. Ketika waktu isirahat siang tiba, di saat beliau berada dekat lembah yang banyak pepohonan berduri, beliau singgah di bawah pohon untuk berteduh di bawahnya sambil menggantungkan pedangnya di pohon tersebut. Sedangkan orang-orang berpencar mencari pohon untuk berteduh. Tatkala kami sedang beristirahat, tiba-tiba Rasulullah shallallahu 'alaihi wasallam menyeru kami, kami langsung bergegas mendatangi beliau. Ternyata seorang Arab badui tengah terduduk lemah dihadapan beliau. Beliau bersabda: "Orang ini mendatangiku saat aku tertidur lalu mengambil pedangku. Ketika aku terjaga, dia sudah berada di kepalaku dengan menghunuskan pedang seraya berkata; "Siapa yang dapat melindungimu dariku?". Aku menjawab: "Allah." Kemudian dia memasukkan pedang itu ke sarungnya sambil tertududuk lemas seperti ini." Jabir berkata; "Dan Rasulullah Shallallhu 'alaihi wa salam tidak menghukum orang itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4139</td></tr><tr><td>Arabic No</td><td>4139</td></tr><tr><td>Reference</td><td>Book 64 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и отцом, сказал: «(В своё время) мы вместе с Посланником Аллаха ﷺ участвовали в военном походе на Неджд. Время полуденного отдыха застало его в какой-то долине, густо поросшем терновником, и Посланник Аллаха ﷺ спешился, расположился в тени акации, повесив на неё свой меч, а люди разошлись среди этого терновника в разные стороны, желая укрыться в тени деревьев. Немного поспав, мы вдруг (услышали, что) Посланник Аллаха ﷺ зовёт нас, явились к нему и обнаружили, что перед ним сидит какой-то бедуин. Посланник Аллаха ﷺ сказал: “Этот (человек) вытащил из ножен мой меч (и поднял его) на меня, когда я спал, а когда я проснулся, он держал обнажённый меч в своей руке. Он сказал мне: “Кто защитит тебя от меня?” — а я ответил (ему): “Аллах!” Тогда он положил меч обратно в ножны, и вот он сидит здесь”. И после этого Посланник Аллаха ﷺ не стал наказывать его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4139</td></tr><tr><td>Arabic No</td><td>4139</td></tr><tr><td>Reference</td><td>Book 64 Hadith 183</td></tr></tbody></table></div>
 

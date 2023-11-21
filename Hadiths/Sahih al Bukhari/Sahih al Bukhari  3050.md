@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair:(who was among the captives of the Battle of Badr) I heard the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Mahmud] telah bercerita kepadaku ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari [Muhammad bin Jubair] dari [bapaknya], dia pernah datang menemui para tawanan perang Badar (dalam Rangka mencari tebusan). Dia juga berkata; "Aku pernah mendengar Nabi Shallallahu'alaihiwasallam dalam sholat Maghrib membaca surat ath-Thur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 56 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада ибн Джубайра ибн Мут‘има о том, что его отец (Джубайр ибн Мут‘им), который приезжал по поводу пленных (попавших в плен в битве при) Бадре, сказал: «Я слышал, как во время закатной молитвы Пророк ﷺ читал (суру) “ат-Тур”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 56 Hadith 256</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) happened to pass by a person who was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru An Naqid] dan [Suraij bin Yunus] keduanya berkata, Telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Humaid] dari [Tsabit] dari [Anas] ia berkata; Aku menduga kuat, bahwa aku telah mendengarnya dari Anas -dalam riwayat lain- Dan Telah menceritakan kepada kami [Yahya bin Yahya] -lafazh juga miliknya- telah mengabarkan kepada kami [Husyaim] dari [Humaid] dari [Tsabit Al Bunani] dari [Anas] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah melewati seorang laki-laki yang menuntun hewan kurbannya (berupa sapi atau unta), lalu beliau pun bersabda: "Kendarailah." Laki-laki itu berkata, "Ini adalah hewan kurban ya Rasulullah." Beliau bersabda lagi: "Kendarai saja." Beliau mengucapkannya dua atau tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3211</td></tr><tr><td>Arabic No</td><td>1323.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 415</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3211</td></tr><tr><td>Arabic No</td><td>1323.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 415</td></tr></tbody></table></div>
 

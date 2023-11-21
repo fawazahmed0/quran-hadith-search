@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) remained behind us on a journey. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyir] dari [Yusuf bin Mahak] dari [Abdullah bin 'Amru] berkata, "Nabi shallallahu 'alaihi wasallam pernah tertinggal dari kami dalam suatu perjalanan yang kami lakukan, beliau lalu dapat menyusul saat kami hampir kehabisan waktu shalat 'Ashar sehingga kami berwudlu dengan hanya mengusap kaki kami. Maka Nabi shallallahu 'alaihi wasallam berseru dengan suara yang keras: "Tumit-tumit yang tidak terkena air wudlu akan masuk ke dalam neraka." Beliau ucapkan itu hingga tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен им Аллах, сказал: «Как-то раз, Пророк ﷺ отставший от нас в пути, присоединился к нам уже после того, как настало время послеполуденной молитвы /‘аср/, а мы совершали омовение и (некоторые из нас) начали протирать свои ноги, и тогда (Пророк ﷺ) изо всех сил закричал: “Горе пяткам от (мук) огня!” — дважды или трижды (повторив эти слова)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuAyyub al-Ansari: When the Messenger of Allah (ﷺ) ate or drank, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Sa'id bin Abu Ayyub] dari [Abu 'Aqil Al Qurasyi] dari [Abu Abdurrahman Al Hubuli] dari [Abu Ayyub Al Anshari] ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam selesai dari makan atau minum, beliau mengucapkan: 'Al HAMDULILLAAHILLADZII ATH'AMA WA SAQAA WA SAWWAGHAHU WA JA'ALA LAHU MAKHRAJAN (Segala puji bagi Allah Yang telah memberi makan dan minum, memudahkan saat menelan dan menjadikan baginya tempat keluar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3851</td></tr><tr><td>Arabic No</td><td>3851</td></tr><tr><td>Reference</td><td>Book 28 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Айюба аль-Ансари, да будет доволен им Аллах, что Посланник Аллаха ﷺ говорил после еды или питья: «Хвала Аллаху, Который накормил, напоил, облегчил её вход в горло и сделал выход для неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3851</td></tr><tr><td>Arabic No</td><td>3851</td></tr><tr><td>Reference</td><td>Book 28 Hadith 116</td></tr></tbody></table></div>
 

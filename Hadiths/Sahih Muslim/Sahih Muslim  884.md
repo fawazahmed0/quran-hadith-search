@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ata' reported it on the authority of Abu Huraira who said:Recitation (of Surat a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid yaitu Ibnu Zurai'] dari [Habib al-Mu'allim] dari ['Atha'] dia berkata, [Abu Hurairah] berkata, "Dalam setiap shalat terdapat suatu bacaan, maka sesuatu yang diperdengarkan oleh Nabi Shallallahu'alaihiwasallam, niscaya kami memperdengarkannya kepada kalian. Dan sesuatu yang disembunyikan oleh beliau, niscaya kami menyembunyikannya dari kalian, dan barangsiapa yang membaca Umm al-Kitab, maka sungguh telah cukup baginya, dan barangsiapa menambahkan, maka itu adalah lebih baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>884</td></tr><tr><td>Arabic No</td><td>396.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аты, что Абу Хурайра сказал: «(Коран следует) читать во время каждой молитвы. Мы читаем (его) для вас вслух тогда же, когда читал (его) вслух нам Пророк ﷺ, а в тех случаях, когда он при нас читал (его) про себя, и мы читаем его про себя при вас. И тот, кто читал Мать Писания, тому этого будет достаточно, а если добавит, будет лучше».Глава: «Прочти из Корана то, что сможешь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>884</td></tr><tr><td>Arabic No</td><td>396.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 46</td></tr></tbody></table></div>
 

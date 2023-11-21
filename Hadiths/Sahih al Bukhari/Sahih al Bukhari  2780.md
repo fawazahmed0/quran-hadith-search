@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn 'Abbas (ra) said, "A man from the tribe of Bani Sahm went out in the company
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan berkata krpadaku ['Ali bin 'Abdullah] telah bercerita kepada kami [Yahya bin Adam] telah bercerita kepada kami [Ibnu Abi Za'idah] dari [Muhammad bin Abi Al Qosim] dari ['Abdul Malik bin Sa'id bin Jubair] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Ada seorang dari Bani Sahmi pergi keluar bersama Tamim ad-Dariy dan 'Addi bin Badda'. Kemudian lelaki suku Bani Sahmi itu meninggal dunia di daerah yang penduduknya tidak ada seorang Muslim pun. Ketika keduanya tiba kembali dengan membawa harta peninggalannya, keluarganya merasa kehilangan bejana perak yang bergaris emas, lalu Rasulullah Shallallhu 'Alaihi Wasallam menyumpah keduanya. Pada kemudian hari bejana itu ditemukan di Makkah. Mereka berkata: "Kami telah membelinya dari Tamim dan Adi". Lalu berdirilah dua orang dari wali Bani Sahmi dan bersumpah: "Persaksian kami lebih benar dari pada persaksian mereka berdua, dan bejana itu adalah milik sahabat mereka". Ia (Ibnu 'Abbas) berkata: "Dan tentang mereka itulah ayat QS Al Ma'idah 106 turun, yang artinya: ("Wahai orang-orang beriman bersaksilah kalian ketika salah seorang dari kalian meninggal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2780</td></tr><tr><td>Arabic No</td><td>2780</td></tr><tr><td>Reference</td><td>Book 55 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал:\n — (Как-то раз) один человек из (племени) бану сахм, спутниками которого были Тамим ад-Дари и ‘Ади бин Бадда, отправился в путь(, а когда они достигли) земли, где не было ни одного мусульманина, этот сахмит, да будет доволен им Аллах, умер. Вернувшись с оставшимся после его смерти имуществом, (Тамим и ‘Ади заявили, что) потеряли серебряную чашу с золотыми (узорами), и Посланник Аллаха ﷺ потребовал от них поклясться (в этом). А потом эта чаша обнаружилась в Мекке(, а люди, у которых она была,) сказали: «Мы купили её у Тамима и ‘Ади». Тогда двое мужчин из числа родственников (покойного) поднялись (со своих мест) и поклялись в том, что их свидетельство правдивее свидетельства тех двоих и что эта чаша принадлежала их (умершему родственнику, после чего) о них были ниспосланы (нижеследующие) аяты: «О те, которые уверовали! Если к кому-нибудь из вас явится смерть, и он оставит завещание, то его свидетельствуют двое справедливых мужей из вас или двое других не из вас...»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2780</td></tr><tr><td>Arabic No</td><td>2780</td></tr><tr><td>Reference</td><td>Book 55 Hadith 43</td></tr></tbody></table></div>
 

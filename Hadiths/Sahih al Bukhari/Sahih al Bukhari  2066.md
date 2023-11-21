@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If a woman gives something (i.e. i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Yahya bin Ja'far] telah menceritakan kepada kami ['Abdur Razzaq] dari [Ma'mar] dari [Hammam] berkata, aku mendengar [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang isteri menginfaqkan (bershadaqah) harta hasil usaha suaminya tanpa perintah suaminya maka bagi suaminya separuh pahalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>2066</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если женщина подаст что-нибудь из добытого её мужем без его веления, то ей достанется половина его награды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>2066</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
 

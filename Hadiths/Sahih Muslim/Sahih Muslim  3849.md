@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be please with him) is reported to have said to Marwan:Have y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdullah bin Al Harits Al Makhzumi] telah menceritakan kepada kami [Ad Dhahhak bin Utsman] dari [Bukair bin Abdullah bin Asyaj] dari [Sulaiman bin Yasar] dari [Abu Hurairah] bahwa dia berkata kepada Marwan; "Apakah kamu menghalalakan jual beli riba?" Marwan menjawab; Saya tidak menghalalkannya. Abu Hurairah melanjutkan; "Kamu menghalalkan jual beli shikak (surat (kertas) yang dikelaurkan oleh penguasa, bertuliskan sejumlah makanan atau selainnya yang diberikan kepada orang yang berhak). Sungguh Rasulullah Shallallu 'alaihi wa sallam melarang menjual bahan makanan sampai ia ditimbang terlebih dahulu." Sulaiman berkata; "Lantas Marwan mengumumkan kepada orang-orang dan melarang jual beli seperti itu." Sulaiman berkata; "Saya dan para pengawal mengambilnya dari tangan orang-orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>1528.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>1528.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 48</td></tr></tbody></table></div>
 

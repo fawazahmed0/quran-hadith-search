@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] keduanya berkata: Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] berkata: Aku mendengar [Anas bin Malik] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidaklah seorang nabi pun melainkan telah mengingatkan umatnya dari si buta sebelah mata si pendusta. Ingat, sesungguhnya ia buta sebelah mata, sedangkan Rabb kalian tidak buta sebelah mata. Diantara kedua matanya tertulis K A F I R
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7363</td></tr><tr><td>Arabic No</td><td>2933.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Къатада сказал: Я слышал, как Анас сказал: Посланник Аллаха ﷺ сказал: «Не было такого пророка, который не предостерегал бы свою общину от (этого) кривого лжеца. Поистине, он будет кривым на один глаз, тогда как ваш Господь, поистине, кривым не является, (и ещё будут) начертаны меж глаз (Антихриста буквы) “каф”, “фа” и “ра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7363</td></tr><tr><td>Arabic No</td><td>2933.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 125</td></tr></tbody></table></div>
 

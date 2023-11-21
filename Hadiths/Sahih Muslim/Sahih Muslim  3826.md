@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Zubair] dari [Jabir]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Janganlah orang kota memborong barang dagangan orang dusun, biarkanlah Allah memberikan rizki kepada sebagian mereka dari sebagian yang lain." Namun dalam riwayatnya Yahya dikatakan; "Diberi rizki". Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan ['Amru An Naqid] keduanya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Az Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3826</td></tr><tr><td>Arabic No</td><td>1522.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3826</td></tr><tr><td>Arabic No</td><td>1522.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
 

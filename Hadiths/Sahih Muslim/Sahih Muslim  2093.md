@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Messenger of Allah (ﷺ) recited loudly in the eclipse 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran] telah menceritakan kepada kami [Al Walid bin Muslim] telah mengabarkan kepada kami [Abdurrahman bin Namr] bahwa ia mendengar [Ibnu Syihab] mengabarkan dari [Urwah] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam mengeraskan suara bacaannya dalam shalat Khusuf (gerhana bulan). Dan beliau pun shalat, dalam dua raka'at beliau mengerjakan empat kali ruku' dan empat kali sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2093</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что совершая молитву во время затмения, Пророк ﷺ читал (аяты Корана) вслух и совершил четыре поясных поклона в двух рак‘атах и четыре земных поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2093</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

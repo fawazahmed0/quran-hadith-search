@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'adh b. Jabal reported:The Messenger of Allah (ﷺ) combined in the expedition
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] telah menceritakan kepada kami [Qurrah bin Khalid] telah menceritakan kepada kami [Abu Zubair] telah menceritakan kepada kami ['Amir bin Watsilah Abu Thufail] telah menceritakan kepada kami [Muadz bin Jabal] katanya; "Ketika perang Tabuk, Rasulullah shallallahu 'alaihi wasallam pernah menjamak antara zhuhur dan ashar, antara maghrib dan isya'." 'Amir berkata; lalu aku bertanya kepadanya; "Apa yang mendorong beliau melakukan hal itu? Mu'adz menjawab; "Beliau ingin supaya tidak memberatkan umatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1632</td></tr><tr><td>Arabic No</td><td>706.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Му‘аз ибн Джабаль сказал: «Во время похода на Табук, Посланник Аллаха ﷺ объединял полуденную молитву /зухр/ с послеполуденной /‘аср/, а закатную молитву /магриб/ с вечерней /‘иша/».Абу Туфайль сказал: «Я спросил (Му’аза): “Почему он поступал таким образом?”, а он ответил: “Он хотел, чтобы его община не испытывала затруднений”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1632</td></tr><tr><td>Arabic No</td><td>706.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 63</td></tr></tbody></table></div>
 

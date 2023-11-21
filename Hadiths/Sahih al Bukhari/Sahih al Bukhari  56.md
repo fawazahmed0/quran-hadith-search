@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas: Allah's Messenger (ﷺ) said, "You will be rewarde
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Nafi'] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah menceritakan kepadaku ['Amir bin Sa'd] dari [Sa'd bin Abu Waqash] bahwasanya dia mengabarkan, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya, tidaklah kamu menafkahkan suatu nafkah yang dimaksudkan mengharap wajah Allah kecuali kamu akan diberi pahala termasuk sesuatu yang kamu suapkan ke mulut istrimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘да ибн Абу Ваккъаса о том, что Посланник Аллаха ﷺ сказал: «Поистине, ты обязательно получишь награду за всё то, что потратишь ради лика Аллаха, и даже за то, что положишь в рот своей жене»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
 

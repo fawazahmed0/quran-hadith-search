@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi', the freed slave of Ibn 'Umar:If pollinated date-palms are sold a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah berkata, Abu 'Abdullah; Dan berkata, kepadaku [Ibrahim] telah mengabarkan kepada kami [Hisyam] telah mengabarkan kepada kami [Ibnu Juraij] berkata; Aku mendengar [Ibnu Abi Mulaikah] yang mengabarkan dari [Nafi'], maula [Ibnu'Umar radliallahu 'anhuma] bahwa dia berkata: "Pohon kurma mana saja yang telah dikawinkan lalu dijual namun tidak disebutkan sebagai buah (yang dijual) maka buahnya nanti menjadi hak orang yang mengawinkannya. Begitu juga budak dan kebun". Nafi' menamakannya sebagai tiga hal yang sama ketentuannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2203</td></tr><tr><td>Arabic No</td><td>2203</td></tr><tr><td>Reference</td><td>Book 34 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘, освобожденный раб Ибн 'Умара, сказал: «Если продаются опылённые финиковые пальмы, и (в договоре) ничего не сказано об их плодах, то плоды достаются тому, кто их опылил. И подобно этому раб и урожай с земли». Нафи‘ упомянул эти три вещи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2203</td></tr><tr><td>Arabic No</td><td>2203</td></tr><tr><td>Reference</td><td>Book 34 Hadith 149</td></tr></tbody></table></div>
 

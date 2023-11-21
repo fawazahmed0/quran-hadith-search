@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umar b. 'Ata' b. Abu al-Khuwar said that Nafi' b. Jubair sent him to al-Sa'ib b.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Umar bin 'Atha' bin Abu Al Khuwwar] bahwa Nafi' bin Jubair mengutusnya untuk menemui [As Sa'ib bin Yazid Ibnu Ukhti Namir], dan menanyakan sesuatu yang pernah di lihat Mu'awiyah dalam shalat, dia menjawab; "Aku pernah mengerjakan shalat Jum'at bersama dia di dalam kamar (dalam masjid), seusai salam, aku langsung berdiri di tempat (shalat Jum'at), lalu aku shalat, sewaktu Mu'awiyah masuk menemuiku, dia berkata; "jangan kamu ulangi lagi apa yang kamu lakukan itu, apabila kamu selesai shalat jum'at, maka janganlah kamu menyambung shalatmu dengan shalat lain hingga kamu berbicara atau keluar, sesungguhnya Nabi Allah shallallahu 'alaihi wasallam memerintahkan yang demikian itu, yaitu; janganlah kamu menyambung (shalat Jum'at) dengan shalat yang lain sehingga ia (selingi) dengan bicara atau keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (883)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1129</td></tr><tr><td>Arabic No</td><td>1129</td></tr><tr><td>Reference</td><td>Book 2 Hadith 740</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (883)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1129</td></tr><tr><td>Arabic No</td><td>1129</td></tr><tr><td>Reference</td><td>Book 2 Hadith 740</td></tr></tbody></table></div>
 

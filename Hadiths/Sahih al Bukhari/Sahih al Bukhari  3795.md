@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "There is no life except t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] telah bercerita kepada kami [Abu Iyas Mu'awiyah bin Qurrah] dari [Anas bin Malik radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "(Ya Allah), tidak ada kehidupan hakiki melainkan kehidupan akhirat. Perbaikilah hubungan kaum Anshar dan Muhajirin". Dan dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam seperti redaksi hadits ini dan beliau bersabda: "(Ya Allah), ampunilah kaum Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3795</td></tr><tr><td>Arabic No</td><td>3795</td></tr><tr><td>Reference</td><td>Book 63 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Благо — это благо мира вечного, улучши же (положение) ансаров и мухаджиров!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3795</td></tr><tr><td>Arabic No</td><td>3795</td></tr><tr><td>Reference</td><td>Book 63 Hadith 20</td></tr></tbody></table></div>
 

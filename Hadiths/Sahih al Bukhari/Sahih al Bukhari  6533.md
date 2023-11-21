@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "The cases which will be decided firs
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepadaku [Syaqiq], aku mendengar [Abdullah] radhilayyahu'anhu mengatakan; Nabi shallallahu 'alaihi wasallam bersabda: "Yang pertama-tama diputuskan diantara manusia (dihari kiamat) adalah masalah darah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6533</td></tr><tr><td>Arabic No</td><td>6533</td></tr><tr><td>Reference</td><td>Book 81 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «(В День воскресения) первыми рассудят тех людей, между которыми была кровь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6533</td></tr><tr><td>Arabic No</td><td>6533</td></tr><tr><td>Reference</td><td>Book 81 Hadith 122</td></tr></tbody></table></div>
 

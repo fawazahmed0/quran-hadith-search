@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Ibn 'Umar through another chai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami ['Abdullah bin Numair]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Yahya] yaitu Al Qaththan; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ibnu Al Mutsanna]; Telah menceritakan kepada kami ['Abdul Wahhab] yaitu Ats Tsaqafi seluruhnya dari ['Ubaidillah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan lafazh ini miliknya; Telah menceritakan kepada kami [Muhammad bin Bisyr] dan [Abu Usamah] serta [Ibnu Numair] mereka berkata; Telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah kamu menyuruh saudaramu berdiri dari tempat duduknya lalu kamu duduk di tempatnya, tetapi katakanlah kepadanya; 'Marilah kita lapangkan tempat duduk kita! ' Dan telah menceritakan kepada kami [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata; Telah menceritakan kepada kami [Hammad]; Telah menceritakan kepada kami [Ayyub]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Yahya bin Habib]; Telah menceritakan kepadaku [Rauh]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razaq] keduanya dari [Ibnu Juraij]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami [Ibnu Abu Fudhaik]; Telah mengabarkan kepadaku [Adh Dhahak] yaitu Ibnu 'Utsman seluruhnya dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam sebagimana Hadits Laits. Akan tetapi dia tidak menyebutkan; 'Marilah berlapang-lapang.' Dan di dalam Hadits Juraij ada tambahan; 'Aku berkata; Apakah hal itu di lakukan pada hari Jum'at? Beliau menjawab: 'Pada hari Jum'at maupun bukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5685</td></tr><tr><td>Arabic No</td><td>2177.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5685</td></tr><tr><td>Arabic No</td><td>2177.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 39</td></tr></tbody></table></div>
 

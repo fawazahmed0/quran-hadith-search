@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:There was a woman amongst us who had a farm and she used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah menceritakan kepada kami [Abu Ghassan] berkata, telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] berkata, "Di tempat kami ada seorang wanita yang menanam ubi di sela-sela selokan kebunnya. Jika hari Jum'at tiba, dia mencabut pohon ubinya lalu direbusnya dalam periuk yang dicampur dengan segenggam gandum. Rebusan ubi dijadikan sebagai makanan pengganti sepotong daging. Setelah kami selesai melaksanakan shalat Jum'at, kami datang ke rumah wanita itu. Kami masuk mengucapkan salam lalu dia menyuguhkan makanan ubinya itu kepada kami, maka kami pun memakannya. Kami selalu mengharapkan kehadiran hari Jum'at karena ada makanan yang disuguhkannya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль бин Са‘д сказал: «Среди нас была одна женщина, которая растила в своем огороде, свеклу. В пятницу она брала корневища свеклы и клала их в котёл, затем добавляла пригоршню молотых ячменных зёрен (и варила похлёбку), и свекла была вместо мяса. Когда мы расходились после пятничной молитвы, то приветствовали её, а она предлагала нам это блюдо, и мы ели его, и по пятницам мы ждали это ее блюдо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 62</td></tr></tbody></table></div>
 

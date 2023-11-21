@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Abi Laila said:Whan Hudhaifah was in al-Mada’in, he asked for water. A pea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibnu Abu Laila] ia berkata, "Saat [Hudzaifah] berada di Madain, ia pernah minta untuk diambnilkan minum, kemudian seorang pemimpin kaum datang membawa sebuah bejana yang terbuat dari perak, maka Hudzaifah pun melemparnya dengan bejana tersebut. kemudian ia berkata, "Aku tidak melempar dia dengan bejana tersebut melainkan karena aku telah melarangnya namun ia tidak berhenti, dan sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang dari menggunakan kain sutera, dibaj (pakaian yang bersulam sutera), dan minum dari bejana emas serta perak. Beliau bersabda: "Bejana tersebut untuk mereka di dunia dan untuk kalian di akhirat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5632) Sahih Muslim (2067)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3723</td></tr><tr><td>Arabic No</td><td>3723</td></tr><tr><td>Reference</td><td>Book 27 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ибн Абу Лейли, что, когда Хузайфа был в Мадаине и попросил воды, деревенский староста /дехкан/ принёс ему серебряную чашу и Хузайфа бросил её в него со словами: «Поистине, я бросил её в него только потому, что я запретил ему, а он не прекратил… Поистине, Посланник Аллаха ﷺ запретил шёлк и парчу и запретил пользоваться золотой и серебряной посудой, сказав: “Это предназначено для них в этом мире и для вас в мире вечном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5632) Sahih Muslim (2067)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3723</td></tr><tr><td>Arabic No</td><td>3723</td></tr><tr><td>Reference</td><td>Book 27 Hadith 55</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) said on the day of the conquest of M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda pada hari Pembebasan Makkah: "Tidak ada lagi hijrah akan tetapi yang tetap ada adalah jihad dan niat. Maka jika kalian diperintahkan untuk berangkat berperang, berangkatlah". Dan Beliau juga bersabda pada hari Pembebasan Makkah: "Sesungguhnya negeri ini telah Allah haramkan (sucikan) sejak hari penciptaan langit dan bumi, maka dia akan tetap suci dengan pensucian dari Allah itu hingga hari qiyamat, dan sesungguhnya tidaklah dihalalkan untuk berperang di dalamnya bagi seorangpun sebelumku, dan juga tidak dihalalkan bagiku kecuali sesaat saja dalam suatu hari, maka dia suci dengan pensucian Allah itu hingga hari qiyamat, tidak boleh ditebang pepohonannya, tidak boleh diburu hewan buruannya dan tidak ditemukan satupun barang temuan kecuali harus dikembalikan kepada yang mengenalnya (pemiliknya) dan tidak boleh ditebang pepohonnya". Maka Al 'Abbas radliallahu 'anhu berkata: "Wahai Rasulullah, kecuali pohon idzkhir yang berguna untuk wewangian tukang besi mereka (penduduk Makkah) dan rumah-rumah mereka". Beliau bersabda: "Ya, kecuali pohon idzkhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3189</td></tr><tr><td>Arabic No</td><td>3189</td></tr><tr><td>Reference</td><td>Book 58 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал в день завоевания Мекки: «Нет хиджры (после завоевания Мекки), но остался джихад и благое намерение, и если вас призовут, то выступайте!» Так же он сказал в этот день: «Аллах сделал Мекку запретной в тот день, когда Он создал небеса и землю, она является запретной по велению Аллаха до Судного дня. И никому до меня нельзя было сражаться в ней, и для меня она стала дозволенной лишь на определённое время в течение дня. Она является запретной по велению Аллаха до Судного дня. В Мекке нельзя срезать кустарники, вспугивать дичь, поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям), и вырубать деревья». В это время аль-‘Аббас, сказал: «О Посланник Аллаха! Кроме “изхира” (душистый тростник), который используют ювелиры, и мы используем его для наших домов?» Посланник Аллаха ﷺ сказал: «Кроме “изхира”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3189</td></tr><tr><td>Arabic No</td><td>3189</td></tr><tr><td>Reference</td><td>Book 58 Hadith 30</td></tr></tbody></table></div>
 

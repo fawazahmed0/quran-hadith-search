@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burda reported on the authority of his father:Allah's Messenger (ﷺ) sent m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Ahmad bin Abu Khalaf] sedangkan lafadznya dari Ibnu Abu Khalaf, keduanya berkata; telah menceritakan kepada kami [Zakaria bin Adi] telah menceritakan kepada kami [Ubaidullah] dia adalah Ibnu Amru, dari [Zaid bin Abu Unaisah] dari [Sa'id bin Abu Burdah] telah menceritakan kepada kami [Abu Burdah] dari [ayahnya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam mengutusku bersama Mu'adz ke negeri Yaman, beliau bersabda: "Serulah manusia dan berilah kabar gembira, jangan kamu buat mereka lari, mudahkan semua urusan dan jangan kamu persulit." Ayahku berkata, "Lalu saya berkata, "Wahai Rasulullah, berilah fatwa kepada kami mengenai minuman yang biasa kami buat di negeri Yaman, yaitu Al Bit'u, yang terbuat dari madu dengan merendamnya hingga mengental, dan minuman keras yaitu dari perasan gandum dan tepung." Ayahku berkata, "Saat itu Rasulullah shallallahu 'alaihi wasallam baru selesai mendapatkan ayat Al Qur'an, maka beliau bersabda: "Saya melarang dari setiap sesuatu yang memabukkan dan dapat menghalangi dari shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>1733.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>1733.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 90</td></tr></tbody></table></div>
 

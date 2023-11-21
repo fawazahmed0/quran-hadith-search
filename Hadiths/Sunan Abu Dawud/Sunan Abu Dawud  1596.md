@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated ‘Abdallah bin Umar :The Messenger of Allah(ﷺ) as saying A tenth is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Harun bin Sa'id bin Al Haitsam Al Aili], telah menceritakan kepada Kami [Abdullah bin Wahb], telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [ayahnya], ia berkata; Rasulullah shallla Allahu 'alaihi wa sallam bersabda: "Pertanian yang diairi hujan, sungai dan mata air atau dibiarkan begitu saja maka zakatnya adalah sepersepuluh, dan pertanian yang diairi dengan menggunakan alat pengairan atau dengan ember maka zakatnya seperdua puluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1483)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 9 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим ибн ‘Абдуллах передаёт от своего отца (‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом,), что Посланник Аллаха ﷺ сказал: «С того, что орошается дождями, реками и ручьями, и с того, что не нуждается в орошении, взимается одна десятая часть, а с того, что орошается с помощью верблюдов или вручную, взимается половина десятой части»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1483)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 9 Hadith 41</td></tr></tbody></table></div>
 

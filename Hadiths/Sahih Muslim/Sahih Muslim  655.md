@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:The Messenger of Allah (ﷺ) forbade to urinate in stagnant water
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata, telah mengabarkan kepada kami [al-Laits]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [al-Laits] dari [Abu az-Zubair] dari [Jabir] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau melarang kencing pada air yang menggenang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>281</td></tr><tr><td>Reference</td><td>Book 2 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Посланник Аллаха ﷺ запрещал мочиться в стоячую воду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>281</td></tr><tr><td>Reference</td><td>Book 2 Hadith 121</td></tr></tbody></table></div>
 

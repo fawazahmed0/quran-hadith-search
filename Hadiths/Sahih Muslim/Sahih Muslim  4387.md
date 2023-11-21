@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alqama b. Wa'il reported on the authority of his-father:While I was sitting in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Abu Yunus] dari [Simak bin Harb] bahwa ['Alqamah bin Wa'il] telah menceritakan kepadanya, bahwa [Ayahnya] pernah menceritakan kepadanya, dia berkata, "Ketika aku duduk bersama Nabi shallallahu 'alaihi wasallam, tiba-tiba datanglah seorang lelaki dengan menarik orang lain dengan seutas tali seraya berkata, "Wahai Rasulullah, orang ini telah membunuh saudaraku!" Rasulullah shallallahu 'alaihi wasallam bertanya kepadanya: "Benarkah kau telah membunuhnya?" laki-laki yang membawanya berkata, "Sungguh jika dia tidak mengaku, maka aku akan mendatangkan bukti-bukti atas perbuatannya." Orang yang telah membunuhnya menjawab, "Ya, aku telah membunuhnya." Beliau bertanya lagi: "Mengapa kamu membunuhnya?" Dia menjawab, "Ketika aku dan dia sedang memetik dedaunan dari pohon, dia memakiku dan membuatku marah hingga aku memukulkan kapakku ke lehernya hingga tewas." Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Apakah kamu mempunyai sesuatu untuk menebus dirimu?" dia menjawab: "Aku tidak mempunyai harta kecuali hanya kapak dan baju yang melekat di tubuhku ini." Beliau bersabda: "Coba pikir lagi, mungkin kaummu mau membelimu?" dia menjawab, "Aku adalah orang yang paling hina di mata kaumku." Lalu beliaupun melemparkan tali (yang dipakai untuk mengikatnya) seraya bersabda: "Kalau begitu, terserah pada temanmu ini." Lalu lelaki yang telah melaporkannya pergi dengan membawa orang yang membunuh saudaranya. Ketika dia telah pergi, Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika dia membunuhnya, berarti dia sama seperti si pembunuh." Lalu laki-laki itu kembali dan berkata: "Wahai Rasulullah, sungguh telah sampai kepadaku bahwa anda telah mengatakan: 'Jika ia membunuhnya berarti ia sama seperti dia (si pembunuh)? padahal aku membawanya juga atas perintahmu." Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidakkah kamu menginginkan dia menanggung dosamu dan dosanya saudaramu?" Dia menjawab, "Wahai Nabi Allah -sepertinya ia menjawab-, tentu." Dia berkata, "Perbuatan itu sama dengan perbuatan itu." Ayah 'Alqamah berkata, "Akhirnya lelaki itu melempar tali (yang dipakai untuk mengikat si pembunuh) dan membiarkannya pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4387</td></tr><tr><td>Arabic No</td><td>1680.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4387</td></tr><tr><td>Arabic No</td><td>1680.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 46</td></tr></tbody></table></div>
 

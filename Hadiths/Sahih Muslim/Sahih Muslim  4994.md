@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Allah's Messenger (ﷺ) prohibited the eating of all fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Maimun bin Mihran] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang memakan setiap binatang buas yang bertaring, dan setiap jenis burung yang mempunyai kuku untuk mencengkeram." Dan telah menceritakan kepadaku [Hajjaj bin As Sya'ir] telah menceritakan kepada kami [Sahl bin Hammad] telah menceritakan kepada kami [Syu'bah] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4994</td></tr><tr><td>Arabic No</td><td>1934.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4994</td></tr><tr><td>Arabic No</td><td>1934.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 23</td></tr></tbody></table></div>
 

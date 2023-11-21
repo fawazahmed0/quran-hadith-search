@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:The Prophet (ﷺ) went out and offered the funeral pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits bin Sa'd] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] bahwa suatu hari Rasulullah shallallahu 'alaihi wasallam keluar dan menyalatkan terhadap para sahabat yang tewas di perang Uhud, lantas beliau menuju mimbar dan bersabda: "Aku lebih dahulu wafat daripada kalian, dan aku menjadi saksi atas kalian, dan aku demi Allah, sungguh telah melihat telagaku sekarang, dan aku diberi kunci-kunci perbendaharaan bumi atau kunci-kunci bumi. Demi Allah, saya tidak mengkhawatirkan kalian akan berbuat syirik sepeninggalku, namun yang justru aku khawatirkan atas kalian adalah kalian bersaing terhadap kekayaan-kekayaan bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6426</td></tr><tr><td>Arabic No</td><td>6426</td></tr><tr><td>Reference</td><td>Book 81 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал ‘Укба ибн ‘Амир о том, что в один из дней Пророк ﷺ вышел и совершил (заупокойную) молитву джаназа по умершим при битве Ухуд, а затем взошёл на минбар и сказал: «Поистине, я опережу вас, и я свидетель относительно вас. Поистине, клянусь Аллахом, я сейчас вижу свой водоём (аль-Каусар). Поистине, мне даны ключи от сокровищниц земли (или: ключи земли), и, поистине, клянусь Аллахом, я не боюсь, что после меня вы станете поклоняться другим, помимо Аллаха, но я боюсь, что вы начнёте соревноваться за [удовольствия] этого мира
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6426</td></tr><tr><td>Arabic No</td><td>6426</td></tr><tr><td>Reference</td><td>Book 81 Hadith 15</td></tr></tbody></table></div>
 

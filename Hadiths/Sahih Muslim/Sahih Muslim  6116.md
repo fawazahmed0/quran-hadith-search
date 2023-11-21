@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd reported on the authority of his father that Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari ['Amir bin Sa'd] dari [Bapaknya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang muslim yang paling besar dosanya terhadap kaum muslimin lainnya adalah orang yang bertanya tentang sesuatu yang sebelumnya tidak diharamkan bagi kaum muslimin, tetapi akhirnya sesuatu tersebut diharamkan bagi mereka karena pertanyaannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6116</td></tr><tr><td>Arabic No</td><td>2358.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6116</td></tr><tr><td>Arabic No</td><td>2358.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 174</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:"Once Mu'adh was along with Allah's Messenger (ﷺ) as a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari [Qatadah] berkata, telah menceritakan kepada kami [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam menunggang kendaraan sementara Mu'adz membonceng di belakangnya. Beliau lalu bersabda: "Wahai Mu'adz bin Jabal!" Mu'adz menjawab, "Wahai Rasulullah, aku penuhi panggilanmu." Beliau memanggil kembali: "Wahai Mu'adz!" Mu'adz menjawab, "Wahai Rasulullah, aku penuhi panggilanmu." Hal itu hingga terulang tiga kali, beliau lantas bersabda: "Tidaklah seseorang bersaksi bahwa tidak ada Tuhan yang berhak disembah selain Allah, dan Muhammad adalah Rasulullah, tulus dari dalam hatinya, kecuali Allah akan mengharamkan baginya neraka." Mu'adz lalu bertanya, "Apakah boleh aku memberitahukan hal itu kepada orang, sehingga mereka bergembira dengannya?" Beliau menjawab: "Nanti mereka jadi malas (untuk beramal)." Mu'adz lalu menyampaikan hadits itu ketika dirinya akan meninggal karena takut dari dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>128</td></tr><tr><td>Arabic No</td><td>128</td></tr><tr><td>Reference</td><td>Book 3 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Къатада, да помилует его Аллах, сказал:\n– Анас ибн Малик, да будет доволен им Аллах, рассказывал нам о том, что (однажды, когда) Пророк ﷺ (ехал верхом), а позади него в седле сидел Му‘аз, (Пророк ﷺ) сказал: «О Му‘аз!» (Му‘аз) сказал: «Я перед тобой, о Посланник Аллаха, и счастлив служить тебе!» (Пророк ﷺ снова) сказал: «О Му‘аз!», – (и Му‘аз снова) сказал: «Я перед тобой, о Посланник Аллаха, и счастлив служить тебе!», – (и это повторилось) трижды. (Тогда Пророк ﷺ) сказал: «Какой бы раб (Аллаха) ни засвидетельствовал, что нет бога достойного поклонения, кроме Аллаха, и что Мухаммад – Его раб и Его посланник, искренне (веруя в это) сердцем своим, Аллах обязательно сделает его запретным для огня». (Му‘аз) спросил: «О Посланник Аллаха, так не сообщить ли мне об этом людям, чтобы они порадовались?» Он сказал: «Тогда они (только на это) и будут надеяться», – и Му‘аз сообщил (людям) об (этих словах Пророка ﷺ) лишь незадолго до своей смерти, считая (дальнейшее молчание) греховным
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>128</td></tr><tr><td>Arabic No</td><td>128</td></tr><tr><td>Reference</td><td>Book 3 Hadith 70</td></tr></tbody></table></div>
 

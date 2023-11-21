@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Tayyah reported on the authority of a shaykh (an old man):When Abdullah i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Abu At Tayyah] dia berkata; Telah menceritakan kepada kami [Seorang Syaikh] dia berkata; Tatkala Abdullah bin Abbas datang ke Bashrah, ketika itu dia menceritakan hadits dari [Abu Musa], Abdullah menulis surat kepada Abu Musa dalam rangka menanyakan kepadanya tentang beberapa hal. Maka Abu Musa menulis surat kepadanya (sebagai jawaban), sesungguhnya saya pernah bersama Rasulullah shallallahu 'alaihi wasallam pada suatu hari, lalu beliau ingin buang air kecil, maka beliau mendatangi tempat yang bertanah lunak di bagian bawah dinding, kemudian beliau shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian hendak buang air kecil, maka hendaklah dia mencari tempat yang bertanah lunak untuk kencingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3</td></tr><tr><td>Arabic No</td><td>3</td></tr><tr><td>Reference</td><td>Book 1 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Абу ат-Таййах сообщил нам от одного шейха, который сказал: «Когда ‘Абдуллах ибн ‘Аббас прибыл в Басру, он услышал о том какие вещи рассказывают про Абу Мусу, и поэтому ‘Абдуллах написал ему (письмо), где он спрашивал его о некоторых вещах. В ответ Абу Муса написал ему: “Однажды я был в обществе Посланника Аллаха ﷺ и когда он захотел справить малую нужду, то вышел на мягкое место у основания стены и помочился, а затем сказал: “Если один из вас захочет справить малую нужду, то пусть выбирает для этого (подходящее) место (чтобы на него не попадали брызги мочи)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3</td></tr><tr><td>Arabic No</td><td>3</td></tr><tr><td>Reference</td><td>Book 1 Hadith 3</td></tr></tbody></table></div>
 

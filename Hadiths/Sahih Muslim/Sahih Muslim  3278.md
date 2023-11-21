@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (Que Dieu soit satisfait de lui) a dit : Chaque fois que l'Envoyé de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ubaidullah bin Sa'id] -lafazh juga miliknya- Telah menceritakan kepada kami [Yahya Al Qaththan] dari [Ubaidullah] dari [Nafi'] dari [Abdullah bin Umar] ia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam kembali dari peperangan besar maupun kecil, atau kembali dari haji dan umrah, atau bila beliau berada di puncak bukit atau tempat yang tinggi, beliau bertakbir tiga kali, sesudah itu beliau baca: "LAA ILAAHA ILLALLAHU WAHDAHU LAA SYARIIKA LAHU LAHUL MULKU WALAHUL HAMDU WA HUWA 'ALAA KULLI SYAI'IN QADIIR AAYIBUUNA TAA'IBNUUNA 'AABIDUUNA LIRABBINAA HAAMIDUUNA, SHADAQALLAHU WA'DAH WA NASHARA 'ABDAH WAHAZAMAL AHZAABA WAHDAH (Tidak ada Tuhan yang berhak disembah selain Allah, tidak ada sekutu bagi-Nya, kepunyaan-Nyalah segala kekuasaan dan pujian. Dan Dia Maha Kuasa atas segala sesuatu. Kami kembali dengan bertaubat, tetap beribadah dan selalu memuji Rabb kami. Allah Maha menepati janji-Nya, menolong para hamba-Nya dan Dialah yang mengalahkan pasukan Ahzab)." Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Ayyub] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Abu Umar] Telah menceritakan kepada kami [Ma'n] dari [Malik] -dalam riwayat lain- [Ibnu Rafi'] Telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepadaku [Adl Dlahak] semuanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam semisalnya, hanya saja hadits Ayyub, bacaan takbir hanya dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>1344.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 482</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>1344.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 482</td></tr></tbody></table></div>
 

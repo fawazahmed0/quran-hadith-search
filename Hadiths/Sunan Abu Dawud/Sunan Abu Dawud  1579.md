@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Suwayd ibn Ghaflah said:I went myself or someone who accompanied the collector o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abu 'Awanah] dari [Hilal bin Khabba] dari [Maisarah Abu Shalih] dari [Suwaid bin Ghafalah], ia berkata; aku berjalan -atau ia berkata; telah mengabarkan kepadaku [orang yang berjalan] bersama petugas pengambil zakat Nabi shallallahu 'alaihi wasallam, ternyata pada zaman Rasulullah shallAllahu wa'alaihi wa sallam dikata; janganlah engkau mengambil zakat dari anak yang sedang menetek susu, dan janganlah engkau menggabungkan antara hewan yang dipisahkandan jangan memisahkan antara hewan yang telah dijadikan satu. Dan sesungguhnya air datang ketika kambing datang, kemudian petugas pengambil zakat berkata; Tunaikan zakat harta kalian. Maisarah berkata; kemudian salah seorang diantara mereka mendatangi unta kauma'. Kemudian aku katakan; wahai Abu Shalih, apakah kauma' itu? Ia berkata; yang besar punuknya. Maisarah berkata; kemudian ia enggan menerimanya. Orang tersebut berkata; sesungguhnya aku ingin anda mengambil unta terbaikku. Maisarah berkata; kemudian ia enggan untuk menerimanya. Maisarah berkata; kemudian orang tersebut menuntun untanya yang lain, lalu petugas zakat tersebut enggan untuk menerimanya, kemudian orang tersebut menuntun untanya yang lain selain unta tersebut, lalu petugas zakat tersebut menerimanya dan berkata; sesungguhnya aku mengambilnya dan aku merasa khawatir Rasulullah shallallahu 'alaihi wasallam marah kepadaku dan berkata: "Engkau mendatangi seseorang dan memilih unta terbaiknya." Abu Daud berkata; dan [Husyaim] telah meriwayatkannya dari [Hilal bin Khabbab] seperti itu, hanya saja ia berkata; tidak dipisahkan…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сувайд ибн Гафаля сказал: «Однажды я сопровождал сборщика закята (или: рассказал мне сопровождавший сборщика закята), отправленного Пророком ﷺ а во времена Посланника Аллаха ﷺ было запрещено брать животное, дающее молоко, объединять разъединённые стада или разъединять объединённые. Сборщик закята подходил к источникам воды, когда к ним пригоняли овец на водопой, и говорил: “Отдавайте закят со своего имущества”. Один человек, услышав это, направился к верблюдице с большими горбами, однако сборщик закята отказался принять её. Тот сказал: “Но я желаю, чтобы ты взял лучшего из моих верблюдов”. Однако он отказался брать эту верблюдицу. Тогда он привёл ему за недоуздок верблюдицу похуже, однако он отказался брать эту верблюдицу. Тогда он привёл ему за недоуздок верблюдицу похуже, и он принял её, сказав: “Поистине, я возьму её, но я боюсь, что Посланник Аллаха ﷺ разгневается на меня и скажет мне: ты пришёл к человеку и выбрал лучшего из его верблюдов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said A man invoked curses on his wife (charging her of adultery) dur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik], dari [Nafi'] dari [Ibnu Umar] bahwa seorang laki-laki telah meli'an isterinya pada zaman Rasulullah shallallahu 'alaihi wasallam dan ia mengingkari anak isterinya tersebut sebagai anaknya, kemudian Rasulullah shallallahu 'alaihi wasallam memisahkan antara keduanya dan menisbatkan anak tersebut kepada isterinya. Abu Daud berkata; yang hanya diriwayatkan oleh Malik adalah ucapannya; dan menisbatkan anak tersebut kepada isterinya. [Yunus] berkata, dari [Az Zuhri], dari [Sahl bin Sa'd] dalam hadits li'an; dan ia mengingkari anak yang dikandungnya, dan anak wanita tersebut dinisbatkan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5315) Sahih Muslim (1494)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2259</td></tr><tr><td>Arabic No</td><td>2259</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что при жизни Посланника Аллаха ﷺ один человек обвинил жену в прелюбодеянии и они обменялись необходимыми клятвами /ли‘ан/, после чего по велению Посланника Аллаха ﷺ супруги расстались, а происхождение ребёнка относили только к его матери
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5315) Sahih Muslim (1494)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2259</td></tr><tr><td>Arabic No</td><td>2259</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
 

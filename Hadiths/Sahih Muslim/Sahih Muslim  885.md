@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) entered the mosque and a perso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] dia berkata, telah menceritakan kepadaku [Sa'id bin Abi Sa'id] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam memasuki sebuah masjid, lalu seorang laki-laki masuk, lalu shalat, kemudian dia datang, lalu mengucapkan salam kepada Rasulullah Shallallahu'alaihiwasallam, maka Rasulullah shallallahu 'alaihi wasallam membalas salamnya seraya berkata, 'Kembalilah, lalu shalatlah, karena kamu belum shalat. Lalu laki-laki tersebut kembali, lalu shalat sebagaimana sebelumnya dia shalat, kemudian mendatangi Nabi shallallahu 'alaihi wasallam seraya mengucapkan salam kepada beliau. Maka Rasulullah shallallahu 'alaihi wasallam menjawab, 'Semoga keselamatan terlimpahkan kepadamu' kemudian beliau bersabda lagi, 'Kembalilah dan shalatlah lagi, karena kamu belum shalat', hingga dia melakukan hal tersebut tiga kali. Lalu laki-laki tersebut berkata, 'Demi Dzat yang mengutusmu dengan kebenaran, aku tidak dapat melakukan yang lebih baik selain daripada ini, ajarkanlah kepadaku.' Beliau bersabda, 'Apabila kamu mendirikan shalat, maka bertakbirlah, kemudian bacalah sesuatu yang mudah dari al-Qur'an, kemudian ruku'lah hingga bertuma'ninah dalam keadaan ruku'. Kemudian angkatlah (kepalamu dari ruku') hingga lurus berdiri, kemudian sujudlah hingga bertuma'ninah dalam keadaan sujud, kemudian angkatlah hingga bertuma'ninah dalam duduk, kemudian lakukan hal tersebut dalam shalatmu semuanya'." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Usamah] dan [Abdullah bin Numair] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] dia berkata, telah menceritakan kepada kami [Ubaidullah] dari [Sa'id bin Abi Sa'id] dari [Abu Hurairah] 'bahwa seorang laki-laki masuk masjid, lalu mendirikan shalat sedangkan Rasulullah shallallahu 'alaihi wasallam di suatu sudut masjid, ' lalu dia membawakan hadits seperti kisah ini, dan dia menambahkan, 'Apabila kamu mendirikan shalat, maka sempurnakanlah wudhu, kemudian menghadaplah kiblat, lalu bertakbirlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>885</td></tr><tr><td>Arabic No</td><td>397.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды, когда) Посланник Аллаха ﷺ вошёл в мечеть, (туда же) вошёл один человек, который совершил молитву, а потом обратился с приветствием к Пророку ﷺ. Ответив (на приветствие), он сказал: «Вернись и соверши молитву, ибо, поистине, ты не помолился!» Тот совершил молитву так же, как и прежде, а потом (опять) подошёл к Пророку ﷺ и приветствовал его, (и он снова) велел ему: «Вернись и соверши молитву, ибо, поистине, ты не помолился!» (и это повторилось) трижды. Тогда (этот человек) сказал: «Клянусь Тем, Кто послал тебя с истиной, я не могу совершить его лучше, научи же меня(, как это нужно делать)!» (В ответ на это Пророк ﷺ) сказал: «Когда встанешь на молитву, скажи: “Аллах велик”, потом прочти, что сможешь, из Корана, потом соверши поясной поклон должным образом, потом выпрямись полностью, потом соверши земной поклон должным образом, потом выпрямись сидя и поступай так же во время каждого своей молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>885</td></tr><tr><td>Arabic No</td><td>397.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
 

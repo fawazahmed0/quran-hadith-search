@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported that Allah's Messenger (ﷺ) got
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Affan bin Muslim]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Mahzumi] keduanya dari [Wuhaib] telah menceritakan kepada kami [Ibnu Thawus] dari [Ayahnya] dari [Ibnu Abbas], bahwa Rasulullah shallallahu 'alaihi wasallam meminta untuk dibekam, lalu beliau memberi upah kepada tukang bekam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4041</td></tr><tr><td>Arabic No</td><td>1202.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4041</td></tr><tr><td>Arabic No</td><td>1202.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 80</td></tr></tbody></table></div>
 

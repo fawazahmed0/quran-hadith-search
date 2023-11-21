@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man from among the people, came to Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] mengatakan, telah menceritakan kepadaku [Al Laits] telah menceritakan kepadaku [Abdurrahman bin Khalid] dari [Ibnu Syihab] dari [Ibnu Al Musayyab] dan [Abi Salamah], bahwasanya [Abu Hurairah] mengatakan, Rasulullah Shallallahu'alaihiwasallam didatangi oleh seseorang yang ketika itu beliau tengah berada di masjid. Orang itu memanggil-manggil; 'Ya Rasulullah, aku telah berzina' -maksudnya dirinya sendiri--. Nabi shallallahu 'alaihi wasallam memalingkan mukanya, namun orang itu mendatangi dari arah mukanya yang lain dan berujar; 'Ya Rasulullah, aku telah berzina! ' Nabi tetap berpaling, namun orang itu datang lagi dari sebelah muka beliau yang sebelumnya dipalingkan. Dikala ia sudah bersaksi empat kali, Nabi shallallahu 'alaihi wasallam memanggilnya dan bertanya; "Mungkin kau terkena penyakit gila?" 'Tidak, ya Rasulullah' Jawabnya. Nabi bertanya: "Kamu sudah menikah?" 'Iya, ya Rasulullah' Jawabnya. Maka Nabi shallallahu 'alaihi wasallam bersabda: "bawalah orang ini dan rajamilah!" [Ibnu Syihab] mengatakan; Telah mengabarkan kepadaku [orang] yang mendengar [Jabir], ia mengatakan; 'Aku diantara orang-orang yang merajamnya, dan kami merajamnya di tanah lapang. Dikala ia merasa kesakitan karena lemparan batu, ia kabur hingga kami menangkapnya di Harrah, dan kami meneruskan merajamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6825</td></tr><tr><td>Arabic No</td><td>6825</td></tr><tr><td>Reference</td><td>Book 86 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Однажды один мужчина пришёл к Посланнику Аллаха ﷺ, который находился в мечети, и обратился к нему, сказав: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние”. Однако Пророк ﷺ отвернулся от него, после чего человек двинулся в ту сторону, к которой Пророк ﷺ повернул своё лицо, и сказал: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние”. Однако Пророк ﷺ снова отвернулся от него, после чего человек двинулся в ту сторону, к которой Пророк ﷺ повернул своё лицо. Это повторилось четыре раза, и после того, как он засвидетельствовал против себя четырежды, Пророк ﷺ подозвал его и спросил: “Ты сумасшедший?” Он ответил: “Нет, о Посланник Аллаха”. Пророк ﷺ спросил: “Ты вступал в половую связь в браке?” Он ответил: “Да, о Посланник Аллаха”. Тогда Пророк ﷺ сказал: “Уведите его и забейте камнями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6825</td></tr><tr><td>Arabic No</td><td>6825</td></tr><tr><td>Reference</td><td>Book 86 Hadith 53</td></tr></tbody></table></div>
 

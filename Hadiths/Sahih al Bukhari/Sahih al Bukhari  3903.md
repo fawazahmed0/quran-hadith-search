@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) stayed in Mecca for thirteen years (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mathar bin Al Fadlal] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Zakaria bin Ishaq] telah menceritakan kepada kami ['Amru bin Dinar] dari [Ibnu 'Abbas] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam tinggal di Makkah selama tiga belas tahun (sejak menerima wahyu) dan beliau wafat ketika berusia enam puluh tiga tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>3903</td></tr><tr><td>Reference</td><td>Book 63 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ оставался в Мекке в течение тринадцати лет, (получая откровения), а затем скончался в возрасте шестидесяти трёх лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>3903</td></tr><tr><td>Reference</td><td>Book 63 Hadith 128</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Harith b. Naufal reported:I had been asking about, as I was desirous
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] dan [Muhammad bin Salamah Al Muradi] keduanya berkata; telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] katanya; telah menceritakan kepadaku [Ibnu Abdullah bin Al Harits] bahwa ayahnya yatiu [Abdullah bin Al Harits bin Naufal] mengatakan; "Aku bertanya dan memang aku sangat berkehendak agar seseorang mengabariku, katanya Rasulullah shallallahu 'alaihi wasallam pernah melakukan shalat sunnah dhuha, ternyata aku tidak mendapatkan seorang pun mengabarkan hal itu, selain [Ummu Hani' binti Abu Thalib]. Dia mengabariku bahwa Rasulullah shallallahu 'alaihi wasallam pernah datang ketika siang agak meninggi, yaitu ketika penaklukan kota Makkah, beliau diberi kain dan beliau pun ditutupi, kemudian beliau mandi. Setelah itu beliau berdiri dan ruku' sebanyak delapan rakaat, saya tidak tahu apakah berdirinya lebih lama ataukah ruku'nya, ataukah sujudnya, semua sepertinya hampir sama." Kata Ummu Hani selanjutnya; "Padahal sebelum dan sesudah itu, aku belum pernah melihat beliau melakukan shalat sunnah dhuha." Al Muradi mengatakan dari Yunus, namun Yunus tidak mengatakan; "Telah mengabariku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1668</td></tr><tr><td>Arabic No</td><td>336.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн аль-Харис ибн Науфаль сказал: «(В своё время) я задавал вопросы (многим) людям, желая найти кого-нибудь, кто рассказал бы мне, как совершал добровольную утреннюю молитву “ад-духа” Посланник Аллаха ﷺ, но никак не мог найти (такого человека). Однако (я всё же сумел сделать это, и) Умм Хани бинт Аби Талиб сообщила мне, что, когда в день завоевания Мекки солнце поднялось уже достаточно высоко, Посланнику Аллаха ﷺ принесли (кусок) ткани, которую он использовал, чтобы укрыться (от чужих взоров), после чего совершил полное омовение. (Умм Хани сказала): “Затем он приступил к молитве, состоявшей из восьми рак‘атов, и я не знаю, какой (из столпов его молитвы) занимал больше времени, ибо (продолжительность) его стояния была примерно равна (продолжительности) поясных и земных поклонов”. (Она также) сказала: “И я не видела, чтобы он совершал (такую молитву) ни до, ни после этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1668</td></tr><tr><td>Arabic No</td><td>336.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 98</td></tr></tbody></table></div>
 

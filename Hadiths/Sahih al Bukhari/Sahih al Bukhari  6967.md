@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:The Prophet (ﷺ) said, "I am only a human being, and you peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Sufyan] dari [Hisyam] dari [Urwah] dari [Zainab binti Ummi Salamah] dari [Ummu Salamah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Saya hanyalah manusia biasa, dan kalian mengadukan sengketa kepadaku, siapa tahu sebagian diantara kalian lebih pandai bersilat lidah dengan alasannya dari sebagian lain, sehingga aku memutuskan sebatas yang aku dengar, maka barangsiapa kuputuskan menang dengan mendzalimi hak saudaranya, janganlah ia mengambilnya, sebab aku akan mengambil sulutan api neraka baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6967</td></tr><tr><td>Arabic No</td><td>6967</td></tr><tr><td>Reference</td><td>Book 90 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Умм Салямы, что однажды Пророк ﷺ сказал: «Поистине, я — только человек, и вы приходите ко мне (со своими) спорами. И может оказаться так, что кто-нибудь из вас будет более красноречив, чем другой, и я вынесу решение в его пользу на основании услышанного. Однако если я (по ошибке) решу отдать ему то, что по праву принадлежит его брату, то пусть он не берёт, ибо это будет не чем иным, как частью (пламени) ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6967</td></tr><tr><td>Arabic No</td><td>6967</td></tr><tr><td>Reference</td><td>Book 90 Hadith 14</td></tr></tbody></table></div>
 

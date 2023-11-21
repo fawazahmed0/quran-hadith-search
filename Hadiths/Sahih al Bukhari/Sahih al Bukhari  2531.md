@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:On my way to the Prophet (ﷺ) I was reciting:-- 'What a lo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'id] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Isma'il] dari [Qais] dari [Abu Hurairah radliallahu 'anhu] berkata; "Ketika datang menemui Nabi shallallahu 'alaihi wasallam aku bersyair di sepanjang perjalanan: Wahai malam dengan kelamaan dan kepayahannya. Dan menyelamatkan dari negeri kekufuran. Dia berkata: "Gulamku lalu melarikan diri dariku di jalan". Dia berkata: "Ketika aku menemui Nabi shallallahu 'alaihi wasallam, aku berbai'at Beliau. Ketika aku masih bersama Beliau tiba-tiba datang gulamku kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Wahai Abu Hurairah, ini gulammu datang menemuimu". Aku katakan: "Dia sekarang bebas demi mencari ridha Allah". Maka dia aku bebaskan". Berkata, Abu 'Abdullah Al Bukhariy: [Abu Kuraib] tidak mengatakan dari [Abu Usamah] ada kalimat bebas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2531</td></tr><tr><td>Arabic No</td><td>2531</td></tr><tr><td>Reference</td><td>Book 49 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда я шёл к Пророку ﷺ по дороге я читал (такие стихи):\nКакая долгая и тяжкая ночь! \nОднако она вызволила (нас) из земли неверия!\nИ по дороге от меня сбежал мой раб. Прибыв к Пророку ﷺ, я присягнул ему, и пока я находился у него, (мой) раб вернулся. Тогда Посланник Аллаха ﷺ сказал мне: “О Абу Хурайра, твой раб (явился к тебе)”. Я сказал: “Я освобождаю его, желая Лик Аллаха”. Таким образом я освободил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2531</td></tr><tr><td>Arabic No</td><td>2531</td></tr><tr><td>Reference</td><td>Book 49 Hadith 15</td></tr></tbody></table></div>
 

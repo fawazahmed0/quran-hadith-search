@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id al-Maqburi reported:I heard Abu Shuraih al-Khuzill saying: My ears heard a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Abdul Hamid bin Ja'far] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Abu Syuraih Al Khuza'i] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Bertamu itu selama tiga hari, dan pelayanannya selama siang atau malam hari. Tidak halal bagi seorang muslim bermukim di rumah saudaranya sampai saudaranya berdosa karenanya." Para sahabat bertanya, "Wahai Rasulullah, bagaimana dia bisa berdosa?" beliau menjawab: "Dia bermukim di rumah saudaranya hingga saudaranya tidak punya apa-apa lagi untuk menjamunya." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu Bakar] -yaitu Al Hanafi- telah menceritakan kepada kami [Abdul Hamid bin Ja'far] telah menceritakan kepada kami [Sa'id Al Maqbury] bahwa dia mendengar [Abu Syuraih Al Khuza'i] berkata, "Aku mendengar sendiri dengan kedua telingaku, melihat dengan kedua mataku dan hatiku ketika Rasulullah shallallahu 'alaihi wasallam mengucapkan sabdanya…kemudian dia menyebutkan seperti haditsnya Laits, dan dalam hadits tersebut ia menyebutkan, "Dan tidak dihalalkan salah seorang dari kalian bermukim di tempat saudaranya hingga saudaranya berdosa karenanya…seperti hadits riwayat Waki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4515</td></tr><tr><td>Arabic No</td><td>48.04</td></tr><tr><td>Reference</td><td>Book 31 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4515</td></tr><tr><td>Arabic No</td><td>48.04</td></tr><tr><td>Reference</td><td>Book 31 Hadith 17</td></tr></tbody></table></div>
 

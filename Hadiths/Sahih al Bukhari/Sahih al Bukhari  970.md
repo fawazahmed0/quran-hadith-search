@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Abi Bakr Al-Thaqafi:While we were going from Mina to 'Araf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Malik bin Anas] berkata, telah menceritakan kepadaku [Muhammad bin Abu Bakar Ats Tsaqafi] berkata, "Aku bertanya kepada [Anas bin Malik] -saat itu kami berdua sedang berangkat dari Mina menuju 'Arafah- tentang talbiyyah, 'Bagaimana kalian melaksanakannya bersama Nabi shallallahu 'alaihi wasallam? ' Dia menjawab, "Di antara kami ada seorang yang membaca talbiyyah, namun hal itu tidak diingkari, dan ada yang bertakbir namun hal itu juga tidak diingkari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>970</td></tr><tr><td>Arabic No</td><td>970</td></tr><tr><td>Reference</td><td>Book 13 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Анаса, да будет доволен им Аллах, спросили о тальбийи: «Как вы поступали, когда находились вместе с Пророком ﷺ?» Он ответил: «Порицание не высказывалось ни человеку, произносившему тальбийу, ни тому, кто произносил слова “Аллаху акбар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>970</td></tr><tr><td>Arabic No</td><td>970</td></tr><tr><td>Reference</td><td>Book 13 Hadith 19</td></tr></tbody></table></div>
 

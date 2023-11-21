@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Utbah ibn AbdusSulami: Utbah heard the Messenger of Allah (ﷺ) say: Do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah] dari [Al Haitsam bin Humaid], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Husyaisy bin Ashram], telah menceritakan kepada kami [Abu 'Ashim], seluruhnya berasal dari [Tsaur bin Yazid] dari [Nashir Al Kinani], dari [seorang laki-laki], [Abu Taubah] berkata; dari [Tsaur bin Yazid], dari [seorang syekh] dari Bani Sulaim, dari ['Utbah bin Abdussalami], dan ini adalah lafazhnya, bahwa ia telah mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Janganlah kalian cukur jambul kuda, dan rambut leher, serta ekornya, karena sesungguhnya ekornya adalah yang akan membelanya, rambut lehernya adalah pakaian yang akan menghangatkannya, dan pada jambulnya terikat seluruh kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2542</td></tr><tr><td>Arabic No</td><td>2542</td></tr><tr><td>Reference</td><td>Book 15 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2542</td></tr><tr><td>Arabic No</td><td>2542</td></tr><tr><td>Reference</td><td>Book 15 Hadith 66</td></tr></tbody></table></div>
 

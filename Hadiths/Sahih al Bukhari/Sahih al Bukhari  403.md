@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:While the people were offering the Fajr prayer at Q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik bin Anas] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar] berkata, "Ketika orang-orang shalat subuh di Quba', tiba-tiba datang seorang laki-laki dan berkata, "Sungguh, tadi malam telah turun ayat kepada Rasulullah shallallahu 'alaihi wasallam, beliau diperintahkan untuk menghadap ke arah Ka'bah. Maka orang-orang yang sedang shalat berputar menghadap Ka'bah, padahal pada saat itu wajah-wajah mereka sedang menghadap negeri Syam. Mereka kemudian berputar ke arah Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>403</td></tr><tr><td>Arabic No</td><td>403</td></tr><tr><td>Reference</td><td>Book 8 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет Аллах доволен ими обоими, сказал: «(Однажды), когда люди совершали утреннюю молитву в мечети Къуба, к ним пришёл какой-то человек и сказал: “Поистине, этой ночью (Аллах) ниспослал Посланнику Аллаха ﷺ Куръан, и велел обратиться (лицом) в сторону Каабы, так повернитесь же к ней”. Они стояли лицом к Шаму и повернулись к Каабе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>403</td></tr><tr><td>Arabic No</td><td>403</td></tr><tr><td>Reference</td><td>Book 8 Hadith 55</td></tr></tbody></table></div>
 

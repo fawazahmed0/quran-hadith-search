@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: I will narrate to you a narration which nobody will narrate to yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah memberitakan kepada kami [Dawud bin Syabib] telah menceritakan kepada kami [Hammam] dari [Qatadah] Telah mengabarkan kepada kami [Anas] mengatakan; Saya ceritakan kepada kalian sebuah hadits yang tak seorangpun sesudahku menceritakan kepada kalian, aku mendengarnya dari Nabi shallallahu 'alaihi wasallam, aku mendengar Nabi Shallallahu'alaihiwasallam bersabda: "Hari kiamat tidak terjadi -atau ia mengatakan dengan redaksi; diantara tanda kiamat adalah- sehingga ilmu diangkat, kebodohan merajalela, khamer ditenggak, zina mewabah, (jumlah) laki-laki menyusut dan (jumlah) wanita melimpah ruah, hingga jika ada lima puluh wanita itu berbanding dengan seorang laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6808</td></tr><tr><td>Arabic No</td><td>6808</td></tr><tr><td>Reference</td><td>Book 86 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анас сказал: «Я передам вам такой хадис, который после меня не передаст уже никто. Я слышал, как Пророк ﷺ сказал: “Предзнаменованием близости Часа этого станет то, что (количество) знания уменьшится, а невежество получит (широкое) распространение; (люди) будут пить (много) вина, и (широкое) распространение получат прелюбодеяния; и количество мужчин сократится, а количество женщин возрастёт (до такой степени), что на пятьдесят женщин будет приходиться (только) один мужчина, опекающий их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6808</td></tr><tr><td>Arabic No</td><td>6808</td></tr><tr><td>Reference</td><td>Book 86 Hadith 37</td></tr></tbody></table></div>
 

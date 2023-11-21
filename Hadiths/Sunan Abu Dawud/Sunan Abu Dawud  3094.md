@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usamah b. Zaid:The Messenger of Allah (ﷺ) went out to visit 'Abd Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Yahya], telah menceritakan kepada kami [Muhammad bin Salamah], dari [Muhammad bin Ishaq], dari [Az Zuhri] dari ['Urwah] dari [Usamah bin Zaid], ia berkata; Rasulullah shallallahu 'alaihi wasallam keluar mengunjungi Abdullah bin Ubai ketika ia sedang sakit, yang karenanya ia meninggal. Kemudian tatkala beliau menemuinya maka beliau mengetahui kematian padanya, beliau bersabda: "Sungguh aku telah melarangmu dari mencintai orang-orang yahudi." Ia berkata; Sa'd bin Zurarah telah membenci mereka. Maka apa yang terjadi baginya dengan membenci mereka? Kemudian tatkala ia meninggal anaknya, kemudian berkata; wahai Rasulullah, sesungguhnya Abdullah bin Ubai telah meninggal, maka berikanlah jubahmu agar aku mengkafaninya dalam jubah tersebut. Kemudian Rasulullah shallallahu 'alaihi wasallam melepas jubahnya dan memberikan jubah tersebut kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3094</td></tr><tr><td>Arabic No</td><td>3094</td></tr><tr><td>Reference</td><td>Book 21 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Усама ибн Зейд, да будет доволен Аллах им и его отцом, передаёт: «Когда ‘Абдуллах ибн Убайй заболел той болезнью, от которой впоследствии умер, Посланник Аллаха ﷺ отправился навестить его. Войдя к нему, Посланник Аллаха ﷺ понял, что он умирает, и сказал ему: “Я ведь запретил тебе любить иудеев”. Он сказал: “Ас‘ад ибн Зурара возненавидел их, и что [из этого вышло]?” А когда он умер, к нему пришёл его сын и сказал: “О Посланник Аллаха, ‘Абдуллах ибн Убайй умер. Дай же мне твою рубаху, чтобы она послужила ему саваном”. И Посланник Аллаха ﷺ снял с себя рубаху и отдал ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3094</td></tr><tr><td>Arabic No</td><td>3094</td></tr><tr><td>Reference</td><td>Book 21 Hadith 6</td></tr></tbody></table></div>
 

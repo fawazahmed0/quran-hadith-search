@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Magic was worked on the Prophet (ﷺ) so that he began to fancy 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['Isa] dari [Hisyam] dari [bapaknya] dari ['Aisyah Radliallahu 'anha] berkata; "Nabi shallallahu 'alaihi wasallam tekah disihir". Dan berkata [Al Laits]; " [Hisyam] menulis surat kepadaku bahwa dia mendengarnya, dia anggap dari [bapaknya] dari ['Aisyah radliallahu 'anhuma] berkata; "Nabi shallallahu 'alaihi wasallam telah disihir hingga terbayang oleh beliau seolah-olah berbuat sesuatu padahal tidak. Hingga pada suatu hari Beliau memanggil-manggil kemudian berkata: "Apakah kamu menyadari bahwa Allah telah memutuskan tentang kesembuhanku?. Telah datang kepadaku dua orang, satu diantaranya duduk dekat kepalaku dan yang satu lagi duduk di dekat kakiku. Yang satu bertanya kepada yang lainnya; "Sakit apa orang ini?". Yang lain menjawab; "Kena sihir". Yang satu bertanya lagi; "Siapa yang menyihirnya?". Yang lain menjawab; "Labid bin Al A'sham". Yang satu bertanya lagi; "Dengan cara apa?". DIjawab; "Dengan cara melalui sisir, rambut yang rontok saat disisir dan putik kembang kurma jantan". Yang satu bertanya lagi; "Sekarang sihir itu diletakkan dimana?". Yang lain menjawab; "Di sumur Dzarwan". Maka Nabi shallallahu 'alaihi wasallam pergi mendatangi tempat tersebut kemudian kembali dan berkata kepada 'Aisyah setelah kembali; "Putik kurmanya bagaikan kepala-kepala syetan". Aku bertanya; "Apakah telah baginda keluarkan?". Beliau berkata: "Tidak, karena Allah telah menyembuhkan aku. Namun aku khawatir bekasnya itu dapat mempengaruhi manusia maka sumur itu aku urug (timbun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3268</td></tr><tr><td>Arabic No</td><td>3268</td></tr><tr><td>Reference</td><td>Book 59 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:\n— (В своё время) Пророк ﷺ был околдован до такой степени, что ему стало казаться, будто он делал то, чего (на самом деле) не делал. Однажды он ﷺ в течение долгого времени обращался с мольбами к Аллаху, а потом сказал: «А знаешь ли ты, что Аллах указал мне(, как избавиться от этого? Во сне) ко мне явились два человека, один из которых сел у моего изголовья, а другой — у меня в ногах, после чего один (из них) спросил другого: “Чем болен этот человек?” (Тот) ответил: “Он околдован”. Он спросил: “Кто же околдовал его?” (Тот) ответил: “Лябид ибн аль-А‘сам”. Он спросил: “И что он для этого использовал?” (Тот) ответил: “Гребень, очёски волос и сухую пыльцу пальмы мужского рода”. Он спросил: “Где же (всё это) находится?” (Тот) ответил: “В колодце Зарван”». И Пророк ﷺ отправился к (этому колодцу), а потом вернулся и сказал мне: «Его пальмы похожи на головы шайтанов». Я спросила: «Достал ли ты это оттуда?» Он ответил: «Нет, ибо меня исцелил Аллах, и я побоялся, что это причинит людям зло», после чего этот колодец был засыпан
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3268</td></tr><tr><td>Arabic No</td><td>3268</td></tr><tr><td>Reference</td><td>Book 59 Hadith 78</td></tr></tbody></table></div>
 

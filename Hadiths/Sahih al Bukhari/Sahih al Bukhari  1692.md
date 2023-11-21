@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:" 'Aishah informed me about the Hajj and 'Umra (together) of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1692</td></tr><tr><td>Arabic No</td><td>1692</td></tr><tr><td>Reference</td><td>Book 25 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Урвы, что ‘Аиша, да будет доволен ею Аллах, рассказала ему о том, что Пророк ﷺ совершил «хаджж ат-таматту‘» и что люди тоже совершили «ат-таматту‘» вместе с ним подобно тому, как рассказал Салим от Ибн ‘Умара, да будет доволен Аллах им и его отцом, от Посланника Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1692</td></tr><tr><td>Arabic No</td><td>1692</td></tr><tr><td>Reference</td><td>Book 25 Hadith 171</td></tr></tbody></table></div>
 

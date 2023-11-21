@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Abu Bakr admonished me and poked me with his hands in the flank,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abdurrahman bin Al Qasim] dari [bapaknya] dari [Aisyah] ia berkata; Abu Bakar pernah menegurku secara langsung dengan menggunakan tangannya dan menekan lambungku. Dan tidak ada yang menghalangiku untuk bergerak kecuali tempat Rasulullah shallallahu 'alaihi wasallam dimana kepalanya berada di atas pahaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5250</td></tr><tr><td>Arabic No</td><td>5250</td></tr><tr><td>Reference</td><td>Book 67 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «И Абу Бакр принялся упрекать меня, а потом стал тыкать меня рукой в бок, мне же мешало двинуться с места лишь то, что голова Посланника Аллаха ﷺ покоилась у меня на ноге»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5250</td></tr><tr><td>Arabic No</td><td>5250</td></tr><tr><td>Reference</td><td>Book 67 Hadith 183</td></tr></tbody></table></div>
 

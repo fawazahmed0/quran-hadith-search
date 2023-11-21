@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri from Malik bin Aus:That the latter said, "Who has change?" Tal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Ali] telah menceritakan kepada kami [Sufyan] bahwa ['Amru bin Dinar] menceritakan kepadanya dari [Az Zuhriy] dari [Malik bin Aus] bahwa dia berkata: "Siapa yang memiliki barang dagangan?" Tholhah berkata: "Saya, hingga tukang gudang kami datang dari hutan" Sufyan berkata: "Begitulah yang kami ingat dari Az Zuhriy tanpa ada tambahan sedikitpun didalamnya". Maka dia berkata, telah mengabarkan kepada saya Malik bin Aus bin Al Hadatsan dia mendengar ['Umar bin Al Khaththob radliallahu 'anhu] mengabarkan dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Jual beli emas dengan emas adalah riba' kecuali begini-begini (maksudnya secara kontan), beras dengan beras adalah riba' kecuali begini-begini (maksudnya secara kontan), kurma dengan kurma adalah riba' kecuali begini-begini (maksudnya secara kontan), gandum dengan gandum adalah riba' kecuali begini-begini (maksudnya secara kontan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2134</td></tr><tr><td>Arabic No</td><td>2134</td></tr><tr><td>Reference</td><td>Book 34 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара бин аль-Хаттаба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Обмен) золота на золото является ростовщичеством, если только (золото не передаётся из рук в руки в равных количествах), и (обмен) пшеницы на пшеницу является ростовщичеством, если только (пшеница не передаётся из рук в руки в равных количествах), и (обмен) фиников на финики является ростовщичеством, если только (финики не передаются из рук в руки в равных количествах), и (обмен) ячменя на ячмень является ростовщичеством, если только (ячмень не передаётся из рук в руки в равных количествах)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2134</td></tr><tr><td>Arabic No</td><td>2134</td></tr><tr><td>Reference</td><td>Book 34 Hadith 86</td></tr></tbody></table></div>
 

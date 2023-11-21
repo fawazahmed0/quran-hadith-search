@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:Aisha said, "Allah's Messenger (ﷺ) used to kiss some 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, telah mengabarkan kepada saya [bapakku] dari ['Aisyah radliallahu 'anha]. Dan telah diriwayatkan pula, telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam mencium isteri-isteri Beliau". 'Aisyah radliallahu 'anha kemudian tertawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1928</td></tr><tr><td>Arabic No</td><td>1928</td></tr><tr><td>Reference</td><td>Book 30 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время поста Посланник Аллаха ﷺ целовал своих жён». После этого она засмеялась
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1928</td></tr><tr><td>Arabic No</td><td>1928</td></tr><tr><td>Reference</td><td>Book 30 Hadith 36</td></tr></tbody></table></div>
 

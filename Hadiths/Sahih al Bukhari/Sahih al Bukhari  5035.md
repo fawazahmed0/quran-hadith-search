@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:Those Suras which you people call the Mufassal, are th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Musa bin Isma'il] Telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] ia berkata; "Sesungguhnya, surat-surat yang kalian anggap Al Mufashshal itulah Al Muhkam." [Ibnu Abbas] juga berkata, "Rasulullah shallallahu 'alaihi wasallam wafat, sementara aku baru menginjak usia sepuluh tahun. Dan sungguh, aku telah membaca Al Muhkam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>5035</td></tr><tr><td>Reference</td><td>Book 66 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид бин Джубайр сказал: «Поистине, то, что вы называете “аль-муфассаль” (общее название всех сур Корана, начиная с 50-й суры “Каф” и до конца Корана) является “аль-мухкям” (то есть в них нет отменённых аятов). И сказал Ибн ‘Аббас: “Когда умер Посланник Аллаха ﷺ, мне было десять лет, и в то время я уже знал наизусть (суры) “аль-мухкям” (то есть суры “аль-муфассаль”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>5035</td></tr><tr><td>Reference</td><td>Book 66 Hadith 58</td></tr></tbody></table></div>
 

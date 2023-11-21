@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:that she had gone to the Prophet (ﷺ) and he said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij]. Dan diriwayatkanpula telah menceritakan kepada saya [Muhammad bin 'Abdur Rahim] dari [Hajjaj bin Muhammad] dari [Ibnu Juraij] berkata, telah mengabarkan kepada saya [Ibnu Abu Mulaikah] dari ['Abbad bin 'Abdullah bin Az Zubair] bahwa dia mengabarkannya dari [Asma' binti Abu Bakar radliallahu 'anhuma] bahwa dia menemui Nabi Shallallahu'alaihiwasallam lalu Beliau bersabda: "Janganlah kamu berkarung-karung (kamu kumpulkan harta dalam karung lalu kamu kikir untuk menginfaqkannya) sebab Allah akan menyempitkan reziki bagimu dan berinfaqlah dengan ringan sebatas kemampuanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1434</td></tr><tr><td>Arabic No</td><td>1434</td></tr><tr><td>Reference</td><td>Book 24 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Передают со слов Асмы бинт Абу Бакр, да будет доволен Аллах ими обоими, что Пророк ﷺ) сказал: «Не припрятывай, ибо тогда и Аллах спрячет (то, что Он может тебе даровать), а щедро трать (на пути Аллаха) по мере своих возможностей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1434</td></tr><tr><td>Arabic No</td><td>1434</td></tr><tr><td>Reference</td><td>Book 24 Hadith 37</td></tr></tbody></table></div>
 

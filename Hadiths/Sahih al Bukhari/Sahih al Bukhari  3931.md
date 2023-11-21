@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:That once Abu Bakr came to her on the day of 'Id-ul-Fitr or 'Id u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsannaa] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Hisyam] dari [bapaknya] dari ['Aisyah] radliallahu 'anha bahwa Abu Bakr datang menemui 'Aisyah dimana Nabi shallallahu 'alaihi wasallam sedang berada disampingnya pada hari raya 'Iedul Fithri atau Adlha. Saat itu di hadapan 'Aisyah radliallahu 'anha terdapat dua budak perempuan hasil tawanan kaum Anshar dalam perang Bu'ats sedang bernyanyi. Maka Abu Bakr berkata; "Seruling-seruling syetan." Dia mengucapkannya dua kali. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Biarkanlah wahai Abu Bakr. Sesungguhnya setiap kaum memiliki hari raya dan hari raya kita adalah hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3931</td></tr><tr><td>Arabic No</td><td>3931</td></tr><tr><td>Reference</td><td>Book 63 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что Абу Бакр зашёл к ней в день (праздника) Фитра или Адха, в то время как Пророк ﷺ находился у неё дома, и у неё находились две девушки, певшие песню о том, что говорили ансары друг другу в день «Бу‘ас». Абу Бакр воскликнул дважды: «Свирель шайтана?!» Тогда Пророк ﷺ сказал: «Оставь их, о Абу Бакр, у каждого народа есть свой праздник, а это наш праздник»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3931</td></tr><tr><td>Arabic No</td><td>3931</td></tr><tr><td>Reference</td><td>Book 63 Hadith 156</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) was asked, "What deeds are loved most by Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Ar'arah] telah menceritakan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dari [Abu Salamah] dari [Aisyah] radliallahu 'anha bahwa dia berkata; Nabi shallallahu 'alaihi wasallam pernah ditanya; "Amalan apakah yang paling dicintai Allah?" Dia menjawab; 'Yang dikerjakan terus menerus walaupun sedikit, lalu beliau bersabda: 'Beramallah sesuai dengan kemampuan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6465</td></tr><tr><td>Arabic No</td><td>6465</td></tr><tr><td>Reference</td><td>Book 81 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Пророка ﷺ спросили: “Какие деяния Аллах любит больше всего?” Он ответил: “Самые регулярные постоянные деяния, даже если их немного”. Он добавил: “Берите на себя только те дела, которые вам по силам
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6465</td></tr><tr><td>Arabic No</td><td>6465</td></tr><tr><td>Reference</td><td>Book 81 Hadith 54</td></tr></tbody></table></div>
 

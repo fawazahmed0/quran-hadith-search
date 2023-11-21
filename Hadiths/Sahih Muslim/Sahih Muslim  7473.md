@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:While a person was in the wilderness he heard a voice from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb], teks milik Abu Bakr, keduanya berkata: Telah menceritakan kepada kami [Yazid bin Harun] telah menceritakan kepada kami [Abdulaziz bin Abu Salamah] dari [Wahb bin Kaisan] dari [Ubaidullah bin Umair Al Laitsi] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Saat seseorang berada di suatu padang pasir, ia mendengar suara di awan: 'Siramilah kebun si fulan' lalu awan itu menjauh dan menuangkan air. Ternyata dikebun itu ada seseorang yang tengah mengurus air dengan sekopnya. Ia bertanya padanya: 'Wahai hamba Allah, siapa namamu? ' Ia menjawab: 'Fulan.' Sama seperti nama yang ia dengar dari awan. Ia bertanya: 'Hai hamba Allah, kenapa kau tanya namaku? ' ia menjawab: 'Aku mendengar suara di awan dimana inilah airnya. Awan itu berkata: 'Siramilah kebun si fulan, namamu. Apa yang kau lakukan dalam kebunmu? ' ia menjawab: 'Karena kau mengatakan seperti itu, aku melihat (hasil) yang keluar darinya, lalu aku sedekahkan sepertiganya, aku makan sepertiganya bersama keluargaku dan aku kembalikan sepertiganya ke kebun'." Telah menceritakannya kepada kami [Ahmad bin Abdah Adh Dhabbi] telah mengkhabarkan kepada kami [Abu Dawud] telah menceritakan kepada kami [Abdulaziz bin Abu Salamah] telah menceritakan kepada kami [Wahab bin Kaisan] dengan sanad ini, hanya saja ia berkata: "Dan aku berikan sepertiganya untuk orang-orang miskin, peminta-minta dan Ibnu sabil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7473</td></tr><tr><td>Arabic No</td><td>2984.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7473</td></tr><tr><td>Arabic No</td><td>2984.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 56</td></tr></tbody></table></div>
 

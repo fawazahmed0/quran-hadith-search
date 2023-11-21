@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah reported on the authority of his father that the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah memberikan bagian zakat kepada Umar bin Al Khaththab, maka Umar pun berkata, "Wahai Rasulullah, berikanlah kepada orang yang lebih fakir dariku." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda kepadanya: "Ambil dan pergunakanlah untuk keperluanmu, atau sedekahkan! Apabila kamu diberi orang sesuatu pemberian tanpa kamu idam-idamkan dan tanpa meminta-minta, terimalah pemberian itu. Tetapi ingat, sekali-kali jangan meminta." Salim berkata; "Oleh karena itu, Ibnu Umar tidak pernah meminta apa saja kepada seseorang, dan tidak pula menolak apa yang diberikan orang kepadanya." Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] - [Amru] berkata- Dan telah menceritakan kepadaku [Ibnu Syihab] sebagaimana hadits itu, dari [As Sa'ib bin Yazid] dari [Abdullah bin As Sa'di] dari [Umar bin Al Khaththab] radliallahu 'anhu dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2406</td></tr><tr><td>Arabic No</td><td>1045.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ (не раз) делал подарки ‘Умару ибн аль-Хаттабу, да будет доволен им Аллах, ‘Умар же говорил ему: «О Посланник Аллаха, отдай это тем, кто нуждается в этом больше меня», (но однажды) Посланник Аллаха ﷺ сказал ему: «Возьми это и владей этим или раздай в качестве милостыни. Бери то, что достаётся тебе из этого имущества, если ты не стремишься (получить его) и (ничего) не просишь, (в противном же случае) не (стремись) к этому!»Салим сказал: «И поэтому Ибн ‘Умар (тоже) никого ни о чём не просил, но и не отвергал ничего (из того), что ему дарили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2406</td></tr><tr><td>Arabic No</td><td>1045.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 143</td></tr></tbody></table></div>
 

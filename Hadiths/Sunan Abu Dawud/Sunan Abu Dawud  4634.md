@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakrah: One day the Prophet (ﷺ) said: Which of you had dream? A ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4634</td></tr><tr><td>Arabic No</td><td>4634</td></tr><tr><td>Reference</td><td>Book 42 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Бакры, что однажды Пророк ﷺ спросил: «Кто из вас видел сон?» Один человек сказал: «Я. Мне приснилось, что с неба спустились весы и вы с Абу Бакром были взвешены и ты перевесил, затем были взвешены Абу Бакр и ‘Умар и Абу Бакр перевесил. Затем были взвешены ‘Умар и ‘Усман и ‘Умар перевесил, а потом весы были подняты обратно». И по лицу Посланника Аллаха ﷺ сподвижники увидели, что ему неприятно слышать это
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4634</td></tr><tr><td>Arabic No</td><td>4634</td></tr><tr><td>Reference</td><td>Book 42 Hadith 39</td></tr></tbody></table></div>
 

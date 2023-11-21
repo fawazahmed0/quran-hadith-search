@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever anyone of us got her menses, she, on becoming clean, us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh] berkata, telah mengabarkan kepadaku [Ibnu Wahb] berkata, telah mengabarkan kepadaku ['Amru bin Al Harits] dari ['Abdurrahman bin Al Qasim] bahwa ia menceritakan kepadanya dari [Bapaknya] dari ['Aisyah] berkata, "Salah seorang dari kami mengalami haid, kemudian saat telah suci darah tersebut ia bersihkan, kemudian kain tersebut ia cuci dan bersihkan, kemudian ia shalat dengan menggunakan kain tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 6 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Когда) у одной из нас бывали месячные, и затем после того, как она очищалась, она соскабливала со своей одежды кровь кончиками пальцев, смывала её и брызгала водой на остальное место, после чего совершала молитву в ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 6 Hadith 13</td></tr></tbody></table></div>
 

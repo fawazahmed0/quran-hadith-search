@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:As he was being brought to Allah's Apostle (ﷺ) I saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil Fudlail bin Hushain Al Jahdari] telah menceritakan kepada kami [Abu 'Awanah] dari [Simak bin Harb] dari [Jabir bin Samurah] dia berkata, "Aku melihat Ma'iz bin Malik ketika dia datang kepada Nabi shallallahu 'alaihi wasallam, kelihatan olehku bahwa dia adalah orang yang pendek betisnya dan tidak memakai mantel, lalu dia mengaku sampai empat kali bahwa dirinya telah berzina. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Barangkali kamu hanya sekedar mencium." Namun dia memperkuat pengakuannya dengan diserati sumpah, bahwa dia memang telah berzina." Jabir melanjutkan, "Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan supaya merajamnya. Setelah itu beliau berkhutbah: "Ketika kami akan berangkat perang di jalan Allah, ternyata salah seorang dari kalian ada yang tidak ikut serta, lalu dia mempunyai desahan seperti kambing jantan mendesah (saat kawin), lalu dia memberikan sedikit sesuatu (kepada wanita tersebut). Demi Allah, sekiranya aku diberikan kesempatan, niscaya aku akan memberikan hukuman kepadanya sebagai suatu pelajaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4424</td></tr><tr><td>Arabic No</td><td>1692.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4424</td></tr><tr><td>Arabic No</td><td>1692.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 27</td></tr></tbody></table></div>
 

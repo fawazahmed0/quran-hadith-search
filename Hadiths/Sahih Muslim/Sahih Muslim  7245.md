@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usâma (que Dieu l'agrée) a dit : Le Prophète (paix et bénédiction de Dieu s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], [Amru bin An Naqid], [Ishaq bin Ibrahim] dan [Ibnu Abi Umar], teks milik Ibnu Abi Syaibah. Berkata Ishaq: telah mengkhabarkan kepada kami, sedangkan yang lain berkata: telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Urwah] dar [Usamah] nabi Shallallahu 'alaihi wa Salam naik ke salah satu benteng Madinah lalu beliau bertanya: "Apa kalian melihat yang aku lihat? Sesungguhnya aku melihat tempat-tempat terjadinya fitnah disela-sela rumah kalian seperti tempat jatuhnya hujan." Telah menceritakan kepada kami [Abdu bin Humaid] telah mengkhabarkan kepada kami [Abdurrazzaq] telah mengkhabarkan kepada kami [Ma'mar] dari [Az Zuhri] dengan sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7245</td></tr><tr><td>Arabic No</td><td>2885.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Шихаб передал со слов Ибн Мусаййиба ибн ‘Абду-р-Рахмана о том, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Настанет время таких испытаний, когда сидящий окажется лучше стоящего, стоящий окажется лучше идущего, а идущий окажется лучше бегущего, и того, кто устремится к (этим испытаниям), они погубят, так пусть же тот, кто сможет найти убежище от них, воспользуется им”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7245</td></tr><tr><td>Arabic No</td><td>2885.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 11</td></tr></tbody></table></div>
 

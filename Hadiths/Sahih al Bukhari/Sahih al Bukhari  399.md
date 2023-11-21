@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Bara' bin 'Azib:Allah's Messenger (ﷺ) prayed facing Baitul-Maqdis for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Raja'] berkata, telah menceritakan kepada kami [Israil] dari [Abu Ishaq] dari [Al Bara' bin 'Azib? radliallahu 'anhuma] berkata, "Rasulullah shallallahu 'alaihi wasallam shalat mengahdap Baitul Maqdis selama enam belas atau tujuh belas bulan, dan Rasulullah shallallahu 'alaihi wasallam menginginkan kiblat tersebut dialihkan ke arah Ka'bah. Maka Allah menurunkan ayat: ("Sungguh Kami (sering) melihat mukamu menengadah ke langit) ' (Qs. Al Baqarah: 144). Maka kemudian Nabi shallallahu 'alaihi wasallam menghadap ke Ka'bah. Lalu berkatalah orang-orang yang kurang akal, yaitu orang-orang Yahudi: '(Apakah yang memalingkan mereka (umat Islam) dari kiblatnya (Baitul Maqdis) yang dahulu mereka telah berkiblat kepadanya?" Katakanlah: "Kepunyaan Allah-lah timur dan barat. Dia memberi petunjuk kepada siapa yang dikehendaki-Nya ke jalan yang lurus) ' (As. Al Baqarah: 144). Kemudian ada seseorang yang ikut shalat bersama Nabi shallallahu 'alaihi wasallam, orang itu kemudian keluar setelah menyelesikan shalatnya. Kemudian orang itu melewati Kaum Anshar yang sedang melaksanakan shalat 'Ashar dengan menghadap Baitul Maqdis. Lalu orang itu bersaksi bahwa dia telah shalat bersama Rasulullah shallallahu 'alaihi wasallam dengan menghadap Ka'bah. Maka orang-orang itu pun berputar dan menghadap Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>399</td></tr><tr><td>Arabic No</td><td>399</td></tr><tr><td>Reference</td><td>Book 8 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб, да будет доволен Аллах ими обоими, сказал:\n— (Сначала) Посланник Аллаха ﷺ в течение шестнадцати или семнадцати месяцев молился, обращаясь лицом в сторону Иерусалима, однако ему хотелось обращаться во время молитвы в сторону Каабы, и Аллах ниспослал (такой аят): «Мы видели, как лицо твоё обращается к небу, и Мы обратим тебя к кибле, которой ты будешь доволен. Так повернись же лицом к Запретной мечети, и где бы вы ни были, поворачивайтесь к ней лицами», после чего он повернулся в сторону Каабы, неразумные же из людей, а именно — иудеи, сказали: «Что заставило их отвернуться от киблы, к которой они обращались прежде?» (И Аллах Всевышний сказал): «Скажи: “Аллаху принадлежат и восток, и запад. Ведёт Он, кого пожелает, к прямому пути”». Вместе с Пророком ﷺ молился один человек, который после молитвы вышел из (мечети) и, проходя мимо собравшихся на послеполуденную молитву ансаров, которые обратились в сторону Иерусалима, сказал, что свидетельствует о том, что он молился вместе с посланником Аллаха ﷺ и что он обращался в сторону Каабы. И(, услышав это,) люди тоже повернулись в сторону Каабы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>399</td></tr><tr><td>Arabic No</td><td>399</td></tr><tr><td>Reference</td><td>Book 8 Hadith 50</td></tr></tbody></table></div>
 

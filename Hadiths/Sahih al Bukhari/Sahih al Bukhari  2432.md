@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Sometimes when I return home and f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam berkata: "Ketika aku pulang kepada keluargaku aku menemukan buah-buah kurma berserakan di tempat tidurku maka aku ambil untuk aku makan kemudian aku takut kalau kurma itu sebagai zakat hingga akhirnya aku biarkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 45 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, (бывает так, что) я прихожу к себе домой, нахожу на своей постели упавший финик и поднимаю его, чтобы съесть, а потом (начинаю) опасаться, что он (может) оказаться (частью) садаки, и бросаю его (обратно)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 45 Hadith 7</td></tr></tbody></table></div>
 

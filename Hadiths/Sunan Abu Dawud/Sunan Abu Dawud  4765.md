@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri ; Anas ibn Malik: The Prophet (ﷺ) said: Soon there
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ashim Al Anthaki] berkata, telah menceritakan kepada kami [Al Walid] dan [Mubasysyir] -maksudnya Mubassyir bin Isma'il Al Halabi- dari [Abu Amru]. Ia (Al Walid) berkata; telah menceritakan kepada kami [Abu Amru] berkata; telah menceritakan kepadaku [Qatadah] dari [Abu Sa'id Al Khudri] dan [Anas bin Malik] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Akan terjadi perbedaan dan perpecahan di antara umatku, sebagian kelompok pandai dalam berbicara namun akhlak mereka buruk. Mereka membaca Al-Qur'an namun tidak sampai melewati kerongkongan. Mereka keluar dari agama sebagaimana anak panah lepas dari busurnya, dan mereka tidak akan kembali lagi hingga anak panah kembali ke busurnya. Mereka adalah seburuk-buruk manusia. Maka beruntunglah orang yang membunuhnya dan mereka membunuhnya. Mereka mengajak kepada Al-Qur'an, tetapi mereka sendiri tidak mengamalkannya sama sekali. Siapa memerangi mereka, maka yang demikian lebih mulia di sisi Allah." Para sahabat bertanya, "Wahai Rasulullah, bagaimana ciri-ciri mereka?" Beliau menjawab: "Rambutnya dicukur gundul." Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Qatadah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ciri mereka adalah rambutnya dicukur gundul dan dicabut, jika kalian mendapati mereka maka bunuhlah." Abu Dawud berkata, "At tasbid adalah mencabut rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4765</td></tr><tr><td>Arabic No</td><td>4765</td></tr><tr><td>Reference</td><td>Book 42 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида иль-Худри и Анаса ибн Малика, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Возникнут в моей общине разногласия и раскол и появятся люди, которые хорошо говорят, но плохо поступают. Они будут читать Коран, но (это чтение) не проникнет дальше их ключиц. Они выйдут из религии подобно тому, как выходит стрела из дичи, которую пронзила, и не вернутся к ней, пока стрела не вернётся к своей тетиве. Они худшие из творений (Аллаха). Блажен тот, кто убьёт их и кого убьют они. Они будут призывать к Книге Аллаха, но сами не имеют к ней никакого отношения. Тот, кто убьёт их, будет ближе к Аллаху, чем они». Люди спросили: «О Посланник Аллаха, а каковы их признаки?» Он сказал: «Обривание (головы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4765</td></tr><tr><td>Arabic No</td><td>4765</td></tr><tr><td>Reference</td><td>Book 42 Hadith 170</td></tr></tbody></table></div>
 

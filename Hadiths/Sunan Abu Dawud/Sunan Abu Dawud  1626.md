@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: He who begs (from people) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Hasan bin Ali], telah menceritakan kepada Kami [Yahya bin Adam], telah menceritakan kepada Kami [Sufyan] dari [Hakim bin Jubair] dari [Muhammad bin Abdurrahman bin Yazid] dari [ayahnya] dari [Abdullah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang meminta-minta sementara ia memiliki sesuatu yang mencukupinya maka pada Hari Kiamat terdapat luka pada wajahnya." Abdullah berkata; wahai Rasulullah, apa yang kecukupan itu? Beliau berkata: "Lima puluh dirham, atau senilai dengannya dari emas." Yahya berkata; kemudian Abdullah bin Utsman berkata kepada Sufyan; aku hafal bahwa Syu'bah tidak meriwayatkan dari Hakim bin Jubair. Sufyan berkata; telah menceritakan kepadanya Zubaid dari Muhammad bin Abdurrahman bin Yazid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1626</td></tr><tr><td>Arabic No</td><td>1626</td></tr><tr><td>Reference</td><td>Book 9 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха (ибн Мас‘уда), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто просит у людей, имея достаточно, тот придёт в День воскресения с исцарапанным лицом». Люди спросили: «О Посланник Аллаха! А что значит иметь достаточно?» Он ответил: «Это значит иметь пятьдесят дирхемов или их стоимость золотом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1626</td></tr><tr><td>Arabic No</td><td>1626</td></tr><tr><td>Reference</td><td>Book 9 Hadith 71</td></tr></tbody></table></div>
 

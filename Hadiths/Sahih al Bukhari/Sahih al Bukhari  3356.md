@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Abraham did his circumcision
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Mughirah bin 'Abdur Rahman Al Qurasiy] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Nabi Ibrahim 'Alaihissalam dikhitan saat Beliau berusia delapan puluh tahun dengan menggunakan kapak". Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah bercerita kepada kami [Abu Az Zanad]. Dan dia berkata: "Dengan kapak yang ringan". Hadits ini juga diikuti oleh ['Abdur Rahman bin Ishaq] dari [Abu Az Zanad] dan diikuti oleh ['Ajlan] dari [Abu Hurairah radliallahu 'anhu]. Dan diriwayatkan pula oleh [Muhammad bin 'Amru] dari [Abu Salamah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3356</td></tr><tr><td>Arabic No</td><td>3356</td></tr><tr><td>Reference</td><td>Book 60 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Ибрахим, мир ему, совершил обрезание в возрасте восьмидесяти лет с помощью тесла».\nВ другой версии этого хадиса слово “каддум” приводится с одним “д”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3356</td></tr><tr><td>Arabic No</td><td>3356</td></tr><tr><td>Reference</td><td>Book 60 Hadith 31</td></tr></tbody></table></div>
 

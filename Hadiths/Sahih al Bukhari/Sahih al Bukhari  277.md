@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Whenever any one of us was Junub, she poured water over her head 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan kepada kami [Ibrahim bin Nafi'] dari [Al Hasan bin Muslim] dari [Shafiyah binti Syaibah] dari ['Aisyah] berkata, "Jika salah seorang dari kami mengalami haid, maka ia mengambil air dengan kedua tangannya dan disiramkan ke atas kepala, lalu mengambil air dengan tangannya dan disiramkan ke bagian badan sebelah kanan, lalu kembali mengambil air dengan tangannya yang lain dan menyiramkannya ke bagian badan sebelah kiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>277</td></tr><tr><td>Arabic No</td><td>277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда одну из нас постигало половое осквернение /джанаба/, то она набирала (воду) руками (и наливала) на голову три раза. Затем набрав одной рукой, она наливала на правую сторону (головы), а другой рукой — на левую сторону»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>277</td></tr><tr><td>Arabic No</td><td>277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 29</td></tr></tbody></table></div>
 

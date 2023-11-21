@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by Ibn Shihab with the same chain of transmitters 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] hingga sampai kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah tidak menaruh perhatian terhadap sesuatu, seperti perhatiannya terhadap Nabi yang melagukan Al Qur'an dengan suara yang indah." Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] -dalam jalur lain- Dan telah menceritakan kepadaku [Yunus bin Abdul A'la] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] keduanya dari [Ibnu Syihab] dengan isnad ini. Ia mengatakan; "Sebagaimana perhatianNya terhadap Nabi saat melagukan Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1846</td></tr><tr><td>Arabic No</td><td>792.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1846</td></tr><tr><td>Arabic No</td><td>792.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 274</td></tr></tbody></table></div>
 

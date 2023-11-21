@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Waqid:Nafi' b. Jubair saw me and we were stan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Rumh Al Muhajir] -dan lafazh juga darinya- telah menceritakan kepada kami [Laits] dari [Yahya bin Sa'id] dari [Waqid bin Amru bin Sa'd bin Mu'adz] bahwa ia berkata; Nafi' bin Jubair melihatku masih berdiri sementara kami sedang melayat jenazah. Sedangkan ia telah duduk duluan menunggu jenazah diletakkan. Maka ia bertanya kepadaku, "Apa yang menyebabkanmu berdiri?" saya menjawab, "Saya menunggu jenazah diletakkan sebagaimana yang telah diceritakan oleh [Abu Sa'id Al Khudri]." Maka [Nafi'] berkata; Sesungguhnya [Ibnu Mas'ud bin Al Hakam] telah menceritakan kepadaku dari [Ali bin Abu Thalib] bahwa ia berkata; "Rasulullah shallallahu 'alaihi wasallam berdiri (ketika di hadapannya lewat jenazah) kemudian beliau duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>962.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Аби Талиб сказал: «Сначала Пророк ﷺ вставал, (видя) похоронную процессию, но потом (перестал это делать и оставался) сидеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>962.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
 

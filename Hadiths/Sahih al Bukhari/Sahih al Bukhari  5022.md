@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Talha:I asked 'Abdullah bin Abi 'Aufa, "Did the Prophet (ﷺ) make a wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Malik bin Mighwal] Telah menceritakan kepada kami [Thalhah] ia berkata; Aku bertanya kepada [Abdullah bin Abu Aufa], "Apakah Nabi shallallahu 'alaihi wasallam pernah berwasiat?" Ia menjawab, "Tidak." Aku berkata, "Lalu bagaimana wasiat itu diwajibkan atas orang-orang untuk menunaikannya sementara beliau tidaklah berwasiat?" Ia menjawab, "Beliau telah berwasiat dengan Kitabullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5022</td></tr><tr><td>Arabic No</td><td>5022</td></tr><tr><td>Reference</td><td>Book 66 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тальха сказал: «(Однажды) я спросил ‘Абдуллаха ибн Аби Ауфа: “Оставил ли Пророк ﷺ завещание?” Он ответил: “Нет”. Я спросил: “Как же тогда людям было предписано составлять завещания и было приказано делать это, а он его не составил?” Он сказал: “(Пророк ﷺ) сделал своим завещанием Книгу Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5022</td></tr><tr><td>Arabic No</td><td>5022</td></tr><tr><td>Reference</td><td>Book 66 Hadith 44</td></tr></tbody></table></div>
 

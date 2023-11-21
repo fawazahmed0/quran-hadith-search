@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jubair b. Mut'im reported:I heard the Messenger of Allah (ﷺ) reciting Surat al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>463.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Мухаммада ибн Джубайра ибн Мут‘има о том, что его отец сказал: «Я слышал, как во время закатной молитвы /магриб/ Посланник Аллаха ﷺ читал (суру) “ат-Тур”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>463.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 197</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) was asked about donkeys and he replied, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] ia berkata, Telah menceritakan kepadaku [Ibnu Wahb] ia berkata; Telah mengabarkan kepadaku [Malik] dari [Zaid bin Aslam] dari [Abu Shalih As Samman] dari [Abu Hurairah] radliallahu 'anhu, bahwasanya; Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai himar(keledai), maka beliau pun menjawab: "Belum pernah ada wahyu yang diturunkan padaku yang berbicara tentangnya kecuali ayat yang pendek lagi mencakup ini, 'FAMAN YA'MAL MITSQAALA DZARRAH KHAIRAN YARAH, WA MAN YA'MAL MITSQAALA DZARRATIN SYARRAN YARAH (Barangsiapa yang melakukan kebaikan sekecil biji Dzarrah, maka ia akan melihat pahalanya, dan siapa yang melakukan keburukan sekecil biji Dzarrah, niscaya juga akan melihat dampak buruknya). (QS. Azzalzalah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4963</td></tr><tr><td>Arabic No</td><td>4963</td></tr><tr><td>Reference</td><td>Book 65 Hadith 485</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророку ﷺ задали вопрос об ослах, на что он ответил: «Мне не было ниспослано о них ничего (особого), если не считать этого всеобъемлющего и исключительного аята, (в котором сказано): “Тот, кто сделал добро весом в мельчайшую частицу, увидит его. И тот, кто сделал зло весом в мельчайшую частицу, увидит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4963</td></tr><tr><td>Arabic No</td><td>4963</td></tr><tr><td>Reference</td><td>Book 65 Hadith 485</td></tr></tbody></table></div>
 

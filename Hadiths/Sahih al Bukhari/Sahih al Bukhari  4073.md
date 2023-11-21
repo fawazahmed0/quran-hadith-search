@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) (pointing to his broken canine toot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Hammam] dia mendengar [Abu Hurairah] radliallahu 'anhu, dia berkata, "Rasulullah Shallallahu 'alahi wasallam bersabda: "Allah sangat murka kepada suatu kaum yang telah memperlakukan Nabi-Nya seperti ini -seraya menunjuk ke gigi serinya-, Allah sangat murka kepada seseorang yang telah diperangi oleh Rasulullah dijalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4073</td></tr><tr><td>Arabic No</td><td>4073</td></tr><tr><td>Reference</td><td>Book 64 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ говорил: «Силен гнев Аллаха на людей, сделавших это со своим пророком!» — указывая при этом на свой зуб, — «Силен гнев Аллаха на человека, которого Посланник Аллаха убьет на пути Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4073</td></tr><tr><td>Arabic No</td><td>4073</td></tr><tr><td>Reference</td><td>Book 64 Hadith 118</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama:Once a daughter of Allah's Messenger (ﷺ) sent a message to Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] Telah mengabarkan kepada kami ['Ashim Al Ahwal] aku mendengar [Abu 'Utsman] menceritakan dari [Usamah], bahwa puteri Rasulullah Shallallahu'alaihiwasallam (Zaenab) mengutus utusan untuk menemui Rasulullah, yang ketika itu Rasulullah Shallallahu'alaihiwasallam bersama Usamah bin Zaid, Sa'd, dan Ubai. Sang utusan menyampaikan pesan yang isinya; 'Anak laki-lakiku telah menghadapi saat-saat kematian, maka kunjungilah kami'. Nabi kemudian mengutus seseorang, menyampaikan salam dan mengatakan; "Milik Allah sematalah segala yang diambil-Nya dan yang diberikan-Nya, dan segala sesuatu disisi-Nya ada ketentuan ajal tersendiri, maka suruhlah dia untuk bersabar dan mengharap pahala." Lantas puteri Nabi mengutus utusan untuk kedua kalinya, dan puteri beliau menyertakan sumpah. Maka beliau berdiri dan kami pun berdiri bersamanya. Tatkala beliau sampai (dan beliau) telah duduk, anak laki-laki dari puteri beliau (cucunya) diangkat kepada beliau, dan beliau mendudukkan di pangkuannya, ketika itu cucu beliau nafasnya sudah tersengal-sengal. Kedua mata Rasulullah pun bercucuran. Maka Sa'd bertanya: 'Mengapa mata anda sampai bercucuran?" Nabi menjawab; "ini adalah tanda kasih sayang yang Allah letakkan di hati hamba-Nya yang dikehendaki-Nya, hanyasanya Allah menyayangi hamba-Nya yang berhati penyayang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6655</td></tr><tr><td>Arabic No</td><td>6655</td></tr><tr><td>Reference</td><td>Book 83 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама (ибн Зайд), да будет доволен Аллах им и его отцом, сказал: «В своё время (Зейнаб) дочь Посланника Аллаха ﷺ послала к нему (человека): мол, мой сын находится при смерти, так приди же к нам. А вместе с Посланником Аллаха ﷺ был Усама ибн Зайд, Са‘д и Убайй. Однако (Посланник Аллаха ﷺ) отослал (этого человека обратно, велев ему) приветствовать их и сказать: “Поистине, Аллаху принадлежит то, что Он забрал, и то, что Он даровал, и для всего определил Он свой срок, так пусть же она проявляет терпение и надеется на награду Аллаха”. Однако через некоторое время она снова послала за ним, заклиная его прийти к ней, и тогда (Пророк ﷺ) встал (со своего места) и вместе с ним поднялись мы. И когда (Пророк ﷺ) сел (в доме своей дочери, ему передали (мальчика) и он положил его себе на колени. Ребёнок очень тяжело дышал и глаза Посланника Аллаха ﷺ наполнились слезами. (Увидев это,) Са‘д (ибн ‘Убада) сказал: “О посланник Аллаха, что это?” Он ответил: “Это милосердие, которое Аллах вкладывает в сердца, кого пожелает из числа рабов Своих. Поистине, Аллах милует милосердных из Своих рабов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6655</td></tr><tr><td>Arabic No</td><td>6655</td></tr><tr><td>Reference</td><td>Book 83 Hadith 34</td></tr></tbody></table></div>
 

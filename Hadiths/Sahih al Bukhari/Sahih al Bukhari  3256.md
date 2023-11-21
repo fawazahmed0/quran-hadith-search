@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "The people of Paradise wil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3256</td></tr><tr><td>Arabic No</td><td>3256</td></tr><tr><td>Reference</td><td>Book 59 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Поистине, из-за превосходства (одних над другими) обитатели Рая станут смотреть на живущих в покоях над ними подобно тому, как вы смотрите на сверкающую вдалеке планету, которая удаляется к востоку или западу». (Люди) спросили: «О Посланник Аллаха, будут ли (эти покои) жилищами пророков, которых не сможет достичь никто, кроме них?» (Пророк ﷺ) ответил: «Нет! Клянусь Тем, в Чьей длани душа моя, (они предназначены для) людей, которые уверовали в Аллаха и поверили посланникам!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3256</td></tr><tr><td>Arabic No</td><td>3256</td></tr><tr><td>Reference</td><td>Book 59 Hadith 66</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn as-Sa'ib: I heard the Messenger of Allah (ﷺ) say between
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Isa bin Yunus], telah menceritakan kepada Kami [Ibnu Juraij], dari [Yahya bin Ubaid] dari [ayahnya] dari [Abdullah bin As Saib], ia berkata; saya mendengar Rasulullah shallAllahu wa'alaihi wa sallam mengucapkan diantara dua rukun: "RABBANAA AATINAA FID DUNYAA HASANAH, WA FIL AAKHIRATI HASANAH, WA QINAA 'ADZAABANNAAR" (Wahai Tuhan Kami, berikanlah kepada Kami di dunia kebaikan dan di Akhirat kebaikan dan lindungilah Kami dari adzab Neraka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1892</td></tr><tr><td>Arabic No</td><td>1892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ас-Саиб, да будет доволен им Аллах, передаёт: «Я слышал, как Посланник Аллаха ﷺ говорил, находясь между двумя углами Каабы: “Господь наш, даруй нам в этом мире благо и в мире вечном благо и избавь нас от мучений в Огне /Раббанна ати-на фи-д-дунйа хасанатан ва фи-ль-ахырати хасанатан ва кына ‘азаба-н-нар/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1892</td></tr><tr><td>Arabic No</td><td>1892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 172</td></tr></tbody></table></div>
 

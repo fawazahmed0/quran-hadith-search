@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Sa'd bin Ubada consulted Allah's Messenger (ﷺ) saying, "My
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Sa'ad bin 'Ubadah radliallahu 'anhu meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam, katanya: "Sesunguhnya ibuku meninggal dunia sedangkan dia punya nadzar (yang belum ditunaikan) ". Maka Beliau bersabda: "Tunaikanlah nadzarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2761</td></tr><tr><td>Arabic No</td><td>2761</td></tr><tr><td>Reference</td><td>Book 55 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Са‘д ибн ‘Убада, да будет доволен им Аллах, спросил Посланника Аллаха ﷺ: «Поистине, моя мать умерла, а она давала обет, который не успела выполнить. (Выполнить ли мне его вместо неё)?» Посланник Аллаха ﷺ сказал: «Выполни этот обет за неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2761</td></tr><tr><td>Arabic No</td><td>2761</td></tr><tr><td>Reference</td><td>Book 55 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A similar tradition (to the No. 3513) has been transmitted by AbuHurayrah from t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Abu Bakr bin Abdurrahman bin Al Harits bin Hisyam] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Lelaki mana saja yang menjual suatu barang kemudian orang yang membelinya bangkrut, dan orang yang menjualnya belum mengambil uang penjualannya sedikitpun kemudian mendapatkan barangnya, maka ia lebih berhak terhadapnya. Dan apabila orang yang membeli meninggal, maka pemilik barang sama dengan para pemilik piutang." Telah menceritakan kepada kami [Sulaiman bin Daud] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata; telah mengabarkan kepadaku [Abu Bakr bin Abdurrahman bin Al Harits bin Hisyam] bahwa Rasulullah shallallahu 'alaihi wasallam …kemudian ia menyebutkan makna hadits Malik. Ia menambahkan, "Apabila ia telah mengambil sebagian uang hasil penjualannya, maka ia sama dengan para pemilik piutang." Telah menceritakan kepada kami [Muhammad bin 'Auf Ath Thai] telah menceritakan kepada kami [Abdullah bin Abdul Jabbar Al Khabaryiri] telah menceritakan kepada kami [Isma'il bin 'Ayyasy] dan [Az Zubaidi]. Abu Daud berkata, "Ia adalah Muhammad bin Al Walid Abu Al Hudzail Al Himshi, dari [Az Zuhri] dari [Abu Bakr bin Abdurrahman] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti itu. Ia menyebutkan, "Apabila ia telah membayar sebagian harganya, maka sisanya pemilik barang tersebut adalah sama dengan para pemilik piutang. Dan siapapun orang yang meninggal dan padanya terdapat barang seseorang yang telah ia bayar sebagiannya, atau belum ia bayar, maka pemilik barang tersebut seperti para pemilik piutang." Abu Daud berkata, "Hadits Malik lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3522</td></tr><tr><td>Arabic No</td><td>3522</td></tr><tr><td>Reference</td><td>Book 24 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакр ибн ‘Абдуррахман ибн аль-Харис ибн Хишам передаёт, что Посланник Аллаха ﷺ сказал… И он привёл хадис, подобный предыдущему, только с добавлением: «Если он выплатил продавцу какую-то часть стоимости товара, то он равен остальным кредиторам в том, что касается этого товара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3522</td></tr><tr><td>Arabic No</td><td>3522</td></tr><tr><td>Reference</td><td>Book 24 Hadith 107</td></tr></tbody></table></div>
 

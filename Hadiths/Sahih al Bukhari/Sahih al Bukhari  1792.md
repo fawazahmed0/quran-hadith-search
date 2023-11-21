@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Isma'il:'Abdullah bin Abu 'Aufa said: "Allah's Messenger (ﷺ) performe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dari [Jarir] dari [Isma'il] dari ['Abdullah bin Abu Awfa] berkata: "Rasulullah shallallahu 'alaihi wasallam menunaikan 'umrah begitu juga kami bersama Beliau. Ketika Beliau memasuki Makkah Beliau melaksanakan thawaf, begitu juga kami melaksanakannya kemudian Beliau mendatangi bukit Ash-Shafaa dan Al Marwah begitu juga kami (untuk melaksanakan sa'iy). Saat itu kami melindungi Beliau dari penduduk Makkah bila ada seseorang yang akan melempari Beliau. Ada di antara sahabatku yang bertanya kepadanya ('Abdullah bin Abu Awfa): "Apakah pada saat itu Beliau masuk ke dalam Ka'bah?". Dia menjawab: "Tidak". Sahabatku itu berkata: "Ceritakanlah kepada kami apa yang dikatakan Beliau tentang Khadijah radliallahu 'anha". Beliau bersabda: "Berikanlah kabar genbira kepada Khadijah (bahwa ia akan memperoleh) rumah di surga yang terbuat dari mutiara yang didalamnya tidak ada hiruk pikuk dan kepayahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1792</td></tr><tr><td>Arabic No</td><td>1792</td></tr><tr><td>Reference</td><td>Book 26 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Затем он (вышеупомянутый друг) сказал: «Расскажи нам, что что он (Пророк ﷺ) сказал о Хадидже?» Он (‘Абдуллах ибн Ауфа) ответил: «(Он сказал) обрадуйте Хадиджу домом из жемчужины в раю, где не будет ни шума, ни усталости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1792</td></tr><tr><td>Arabic No</td><td>1792</td></tr><tr><td>Reference</td><td>Book 26 Hadith 18</td></tr></tbody></table></div>
 

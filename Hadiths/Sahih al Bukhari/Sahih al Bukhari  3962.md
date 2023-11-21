@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Who will go and see what has happened to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Sulaiman at-Taymiy] bahwa [Anas] bercerita kepada mereka, katanya; "Nabi shallallahu 'alaihi wasallam besabda, Dan telah diriwayatkan dari riwayat lain, telah menceritakan kepadaku ['Amru bin Khalid] telah menceritakan kepada kami [Zuhair] dari [Sulaiman at-Taymiy] bahwa [Anas] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang mau melihat apa yang dilakukan Abu Jahal, maka berangkatlah". Maka 'Abdullah bin Mas'ud berangkat lalu dia medapatkannya dalam keadaan telah ditebas oleh dua putra 'Afra' hingga tubuhnya terkapar. Dia ('Abdullah bin Mas'ud) bertanya; "Kamukah Abu Jahal?". Lalu dia menarik jenggot Abu Jahal dan berkata; "Apakah kamu berada di atas orang-orang yang membunuhmu atau seorang yang dibunuh oleh kaumnya?. Ahmad bin Yunus meriwayatkan; "Kamu ini Abu Jahal?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3962</td></tr><tr><td>Arabic No</td><td>3962</td></tr><tr><td>Reference</td><td>Book 64 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(После завершения битвы при Бадре) Пророк ﷺ спросил: “Кто (пойдёт и) посмотрит, что постигло Абу Джахля?” И (посмотреть на него) отправился Ибн Мас‘уд, увидевший, что его поразили два сына ‘Афра, и он (находится уже при последнем издыхании. ‘Абдуллах ибн Мас‘уд) спросил: “Ты Абу Джахль?” — и схватил его за бороду, а (Абу Джахль) сказал: “Здесь только человек, которого вы убили (или: человек, которого убили его соплеменники)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3962</td></tr><tr><td>Arabic No</td><td>3962</td></tr><tr><td>Reference</td><td>Book 64 Hadith 14</td></tr></tbody></table></div>
 

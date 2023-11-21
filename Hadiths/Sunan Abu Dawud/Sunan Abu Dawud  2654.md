@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salamh (bin Al Akwa’) said “I went on an expedition with the Apostle of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], bahwa [Hasyim bin Al Qasim], dan [Hisyam] telah menceritakan kepada mereka; telah menceritakan kepada kami [Ikrimah], telah menceritakan kepada kami [Iyas bin Salamah], ia berkata; telah menceritakan kepadaku [ayahku], ia berkata; aku pernah memerangi Hawazin bersama Rasulullah shallallahu 'alaihi wasallam, kemudian tatkala kami sedang makan pada waktu dhuha dan kebanyakan kami berjalan kaki, serta diantara kami terdapat orang yang lemah tiba-tiba seseorang datang dengan mengendarai unta. Lalu ia melepas tali dari pinggang unta, lalu ia gunakan untuk mengikat untanya. Kemudian ia datang dan makan siang bersama orang-orang. Kemudian tatkala ia melihat orang-orang lemah mereka dan punggung mereka yang lemas, maka ia keluar menuju kepada untanya lalu melepaskannya kemudian menderumkannya. Orang tersebut duduk di atas unta tersebut kemudian keluar dan memukul unta dengan kakinya. Ia diikuti seseorang dari Aslam yang mengendarai unta Abu-Abu yang sama dengan punggung orang-orang tersebut. Ia berkata; kemudian aku keluar mengejarnya, lalu aku mendapatkannya, sementara kepala untaku ada di sisi pantat untanya, kemudian aku maju hingga dapat memegang tali kendali untanya. Lalu aku menderumkannya. Tatkala ia telahmeletakkan lututnya di tanah aku mencabut pedangku lalu menebas kepalanya hingga ia terjatuh. Kemudian aku datang dengan membawa kendaraannya dan apa yang ada di atasnya. Aku menuntunnya, kemudian Rasulullah shallallahu 'alaihi wasallam menyambutku diantara orang-orang. Kemudian ia berkata; siapakah yang membunuh orang tersebut? Mereka berkata; Salamah bin Al Akwa'. Lalu beliau berkata: "Baginya salabnya semua." Harun berkata; ini adalah lafazh Hasyim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The last statement of Abraham when he was thrown into the fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Ismail] Telah menceritakan kepada kami [Israil] dari [Abu Hashin] dari [Abu Adl Dluha] dari [Ibnu 'Abbas] berkata; "Perkataan terakhir yang diucapkan Ibrahim ketika dia dilemparkan ke api adalah: "Cukuplah Allah bagiku sebagai sebaik-baik pelindung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4564</td></tr><tr><td>Arabic No</td><td>4564</td></tr><tr><td>Reference</td><td>Book 65 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Последними словами Ибрахима, когда его бросили в огонь были слова: “Достаточно мне Аллаха, прекрасный Он Покровитель!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4564</td></tr><tr><td>Arabic No</td><td>4564</td></tr><tr><td>Reference</td><td>Book 65 Hadith 86</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':I did not see anybody in a red cloak looking more handsome tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Isra'il] dari [Abu Ishaq] saya mendengar [Al Barra'] berkata; saya belum pernah melihat seseorang yang paling bagus dari Nabi shallallahu 'alaihi wasallam ketika mengenakan baju berwarna merah, Sebagian sahabatku mengatakan; dari Malik bahwa rambut beliau menjuntai hingga mendekati kedua bahunya." Abu Ishaq mengatakan; bahwa saya mendengar ia menceritakan hadits ini tidak hanya sekali, dan tidaklah ia menceritakan hal ini kecuali ia tersenyum." [Syu'bah] mengatakan; "Bahwa rambut beliau hingga melebihi kedua telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5901</td></tr><tr><td>Arabic No</td><td>5901</td></tr><tr><td>Reference</td><td>Book 77 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара сказал: «Я не видел никого в красном плаще более прекрасного, чем Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5901</td></tr><tr><td>Arabic No</td><td>5901</td></tr><tr><td>Reference</td><td>Book 77 Hadith 118</td></tr></tbody></table></div>
 

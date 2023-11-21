@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh (رضي الله عنهما) a dit : Nous étions avec le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan lafazh ini milik Abu Kuraib, keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Jabir bin Abdullah] dia berkata; ketika kami bersama Nabi shallallahu 'alaihi wasallam tiba-tiba beliau meminta air. Lalu ada seorang laki-laki berkata; 'Maukah aku beri nabidz (minuman yang biasa terbuat dari kurma atau anggur)? Beliau menjawab: "Ya." (Jabir bin Abdullah) berkata; maka laki-laki itu mencari keluar, lalu dia datang dengan membawa bejana yang berisi nabidz. Nabi shallallahu 'alaihi wasallam bersabda: "Tidakkah engkau menutupinya? Walaupun hanya dengan membentangkan sepotong kayu." (Jabir bin Abdullah) berkata; kemudian (Rasulullah shallallahu 'alaihi wasallam) minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>2011.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>2011.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 118</td></tr></tbody></table></div>
 

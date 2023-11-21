@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Ali bin Abi Talib:The Messenger of Allah (ﷺ) forbade us to wear a Qa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Ibrahim bin Abdullah bin Hunain] dari [Bapaknya] dari [Ali bin Abu Thalib] radliallahu 'anhu, ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang memakai kain yang bersulam sutera, kain yang dicelup dengan warna kuning, memakai cincin emas dan membaca Al-Qur'an saat rukuk." Telah menceritakan kepada kami [Ahmad bin Muhammad] -yaitu Al Marwazi- berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibrahim bin Abdullah bin Hunain] dari [Bapaknya] dari [Ali bin Abu Thalib] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam dengan redaksi hadits seperti ini. Ali berkata: ".. (beliau melarang) membaca Al-Qur'an saat rukuk dan sujud", Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Muhammad bin Amru] dari [Ibrahim bin Abdullah] dengan lafadz seperti ini dengan menambahkan, "Dan aku tidak mengatakan 'beliau melarang kalian' (maksudnya; Muhammad bin Amru menambahkan dalam riwayatnya bahwa Ali berkata; Rasulullah Shallahu 'Alaihi Wasallam melarangku dan aku tidak berkata beliau melarang kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2078)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4044</td></tr><tr><td>Arabic No</td><td>4044</td></tr><tr><td>Reference</td><td>Book 34 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али ибн Абу Талиба, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил надевать кассийю, одежду, окрашенную шафраном, а также носить золотые перстни и читать Коран во время поясного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2078)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4044</td></tr><tr><td>Arabic No</td><td>4044</td></tr><tr><td>Reference</td><td>Book 34 Hadith 25</td></tr></tbody></table></div>
 

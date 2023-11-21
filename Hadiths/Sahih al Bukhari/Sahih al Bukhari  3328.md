@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Abi Salama:Um Salama said, "Um Sulaim said, 'O Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] bahwa Ummu Sulaim berkata; Wahai Rasulullah, sesungguhnya Allah tidak pernah malu (dalam menerangkan) kebenaran. Apakah seorang wanita wajib mandi bila bermimpi?". Beliau menjawab: "Ya, jika dia melihat air". Ummu Salamah tertawa lalu berkata; "Apakah wanita bermimpi?". Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Ya, lantas karena alasan apa seorang anak bisa mirip orangtuanya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3328</td></tr><tr><td>Arabic No</td><td>3328</td></tr><tr><td>Reference</td><td>Book 60 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «(Однажды) Умм Сулейм пришла к Посланнику Аллаха ﷺ сказала: “О Посланник Аллаха, поистине, Аллах не стыдится (говорить) истину, ( так скажи мне,) следует ли женщине совершить полное омовение /гъусль/, если у неё случится поллюция?” Пророк ﷺ ответил: “Да, если (после пробуждения) она увидит (свои) выделения”. (Услышав это,) Умм Саляма улыбнулась и спросила: “А разве у женщин бывают поллюции?” (В ответ ей) Посланник Аллаха ﷺ сказал: “А почему же ещё сын становится похожим на мать?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3328</td></tr><tr><td>Arabic No</td><td>3328</td></tr><tr><td>Reference</td><td>Book 60 Hadith 3</td></tr></tbody></table></div>
 

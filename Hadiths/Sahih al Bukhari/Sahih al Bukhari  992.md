@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once I passed the night in the house of Maimuna (his aunt). 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik bin Anas] dari [Makhramah bin Sulaiman] dari [Kuraib] bahwa [Ibnu 'Abbas] mengabarkan kepadanya, bahwa dia pernah bermalam di rumah Maimunah, bibinya dari pihak ibu. Ia mengatakan, "Aku tidur pada sisi tikar sedangkan Rasulullah shallallahu 'alaihi wasallam dan isterinya berbaring pada bagian tengahnya. Beliau tidur hingga pertengahan malam atau kurang sedikit, kemudian beliau bangun dan mengusap sisa tidur pada wajahnya, membaca sepuluh ayat dari surah Ali 'Imran. Kemudian beliau berdiri mengambil geriba berisi air yang digantung, beliau berwudlu dengan wudlu yang sempurna lalu mendirikan shalat. Aku kemudian mengerjakan seperti apa yang beliau kerjakan, aku lantas berdiri disampingnya. Beliau kemudian meletakkan tangan kanannya di atas kepalaku, meraih telingaku dan menariknya (menggeser). Kemudian beliau shalat dua rakaat, lalu dua rakaat, lalu dua rakaat, lalu dua rakaat, lalu dua rakaat, lalu dua rakaat, lalu shalat witir. Kemudian Beliau berbaring hingga seorang mu'adzin mendatanginya, kemudian beliau melaksanakan shalat dua rakaat lalu keluar melaksanakan shalat subuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>992</td></tr><tr><td>Arabic No</td><td>992</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>992</td></tr><tr><td>Arabic No</td><td>992</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
 

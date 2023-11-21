@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tradition relevée par Anas Ibn Mâlik (que Dieu l'agrée) : Anas Ibn Sîrîn a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Affan bin Muslim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Anas bin Sirin] katanya; "Kami pernah bertemu [Anas bin Malik] ketika tiba di Syam, dan kami menemuinya di lokasi yang bernama 'Ain Tamr, aku melihat beliau shalat diatas keledai, sedangkan wajahnya menghadap ke arah tempat tersebut. Lalu Hammam mengisyaratkan ke arah kiri kiblat. Maka aku tanyakan kepadanya; "Kenapa aku melihatmu shalat ke bukan arah kiblat? Dia menjawab; "Sekiranya aku tidak melihat Rasulullah shallallahu 'alaihi wasallam melakukannya, tentu aku tidak akan melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>702</td></tr><tr><td>Reference</td><td>Book 6 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Сирин сказал: «Мы встретили Анаса ибн Малика, когда он приехал в Шам. Мы встретили его в (месте под названием) ‘Айн ат-тамр, и увидев, как он совершал молитву сидя верхом на осле и повернувшись лицом налево от киблы, я сказал ему: “Я видел, как ты совершаешь молитву, не обращаясь лицом к кибле”. (На что) он ответил: “Я бы не сделал этого, если бы не видел, что так поступал Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>702</td></tr><tr><td>Reference</td><td>Book 6 Hadith 51</td></tr></tbody></table></div>
 

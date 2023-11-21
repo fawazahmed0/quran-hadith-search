@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:I heard As-Saib bin Yazid, saying, "In the lifetime of Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] berkata, Aku mendengar [As Sa'ib bin Yazid] berkata, "Pada mulanya adzan pada hari Jum'at dikumandangkan ketika Imam sudah duduk di atas mimbar. Yaitu apa yang biasa dipraktekkan sejak zaman Nabi shallallahu 'alaihi wasallam, Abu Bakar dan 'Umar? radliallahu 'anhu. Pada masa Khilafah 'Utsman bin 'Affan? radliallahu 'anhu ketika manusia sudah semakin banyak, maka pada hari Jum'at dia mememerintahkan adzan yang ketiga. Sehingga dikumandangkanlah adzan (ketiga) tersebut di Az Zaura'. Kemudian berlakulah urusan tersebut menjadi ketetapan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ас-Саъиба ибн Язида, что во времена Посланника Аллаха ﷺ Абу Бакра и ‘Умара, да будет доволен ими Аллах, первый пятничный азан раздавался, когда имам усаживался на минбар в пятницу. А во времена правления ‘Усмана, да будет доволен им Аллах, когда людей стало много, ‘Усман велел произносить третий азан, который произносили в Аз-Зауре, и так оно и продолжалось в будущем
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 40</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Verse:-- "If there are twenty steadfast amongst you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Ibnu 'Abbas radliallahu 'anhuma] tatkala turun ayat: Jika ada dua puluh orang yang sabar diantaramu, niscaya mereka akan dapat mengalahkan dua ratus orang musuh. Dan jika ada seratus orang yang sabar diantaramu, niscaya mereka akan dapat mengalahkan seribu dari pada orang kafir… (Al Anfal: 65). Maka diwajibkan kepada mereka tidak ada seorang pun yang lari dari sepuluh orang. Abu Sufyan berkali-kali mengatakan: 'Jangan sampai ada yang lari dua puluh orang dari dua ratus orang.' Kemudian turunlah ayat: Sekarang Allah telah meringankan kepadamu. (Al Anfal: 66). Maka diwajibkan jangan sampai ada yang lari sebanyak seratus orang dari dua ratus orang. Sufyan menambahkan juga; telah turun ayat; Hai Nabi, kobarkanlah semangat para mukmin untuk berperang. Jika ada dua puluh orang yang sabar diantaramu... (Al Anfal: 65). Sufyan berkata; dan Ibnu Syubrumah berkata; 'Aku melihat seperti inilah menyuruh kebaikan dan mencegah kemungkaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4652</td></tr><tr><td>Arabic No</td><td>4652</td></tr><tr><td>Reference</td><td>Book 65 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас, да будет доволен Аллах им и его отцом, сказал: «“…Если будет среди вас двадцать терпеливых, то они одолеют две сотни; если же их среди вас будет сотня…” — (в этом аяте) мусульманам было предписано, чтобы один (мусульманин) не убегал от десяти (врагов во время битвы)». \nСуфьян (один из передатчиков хадиса) говорил: «Двадцать (мусульман) не должны убегать от двухсот (врагов)». \n(Ибн ’Аббас): «Затем было ниспослано: “Теперь Аллах облегчил вам…” — и было предписано, чтобы сто (мусульман) не убегало от двухсот (врагов)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4652</td></tr><tr><td>Arabic No</td><td>4652</td></tr><tr><td>Reference</td><td>Book 65 Hadith 174</td></tr></tbody></table></div>
 

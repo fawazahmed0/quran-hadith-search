@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to offer the 'Asr prayers at a time
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah], bahwa Rasulullah shallallahu 'alaihi wasallam shalat 'Ashar sementara matahari yang ada dikamarnya belum menampakkan bayang-bayang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>545</td></tr><tr><td>Reference</td><td>Book 9 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>545</td></tr><tr><td>Reference</td><td>Book 9 Hadith 22</td></tr></tbody></table></div>
 

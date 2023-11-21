@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has also been narrated by 'Aishah through a different chain of tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sinan Al-Qaththan Al-Wasithi] telah menceritakan kepada kami [Yazid] dari [Ayyub bin Abi Miskin] dari [Al-Hajjaj] dar [Ummu Kultsum] dari [Aisyah] tentang wanita yang menderita darah penyakit; Dia mandi, yakni sekali, kemudian cukup berwudhu sampai hari haidhnya datang. Telah menceritakan kepada kami [Ahmad bin Sinan Al-Qaththan Al-Wasithi] telah menceritakan kepada kami [Yazid] dari [Ayyub, Abu Al-'Ala'] dari [Ibnu Syubrumah] dari [Istri Masruq] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam, dengan lafazh semisal. Abu Dawud berkata; Dan hadits Adi bin Tsabit dan Al-A'masy dari Habib dan Ayyub, Abu Al-'Ala' semuanya dha'if, tidak shahih. Dan yang menunjukkan kedha'ifan hadits Al-A'masy dari Habib, hadits ini dimauqufkan oleh Hafsh bin Ghiyats dari Al-A'masy dan Hafsh bin Ghiyats mengingkari kemarfu'an hadits Habib. Dan dimauqufkan juga oleh Asbath dari Al-A'masy, mauquf dari Aisyah. Abu Dawud berkata; Dan diriwayatkan oleh Ibnu Dawud dari Al-A'masy secara marfu' awalnya, dan dia mengingkari padanya perihal wudhu pada setiap kali shalat. Dan yang menunjukkan kedha'ifan hadits Habib ini adalah bahwasanya riwayat Az-Zuhri dari Urwah dari Aisyah, dia berkata; Dia mandi untuk setiap kali shalat, di dalam hadits mustahadlah. Dan diriwayatkan oleh [Abu Al-Yaqzhan] dari [Adi bin Tsabit] dari [Ayahnya] dari [Ali radliallahu 'anhu], dan [Ammar, mantan budak Bani Hasyim] dari [Ibnu Abbas]. Dan diriwayatkan oleh [Abdul Malik bin Maisarah] dan [Bayan] dan [Al-Mughirah] dan [Firas] dan [Mujalid] dari [Asy-Sya'bi] dari hadits [Qamir] dari [Aisyah]; Berwudhulah untuk setiap kali shalat. Dan riwayat [Dawud] dan [Ashim] dari [Asy-Sya'bi] dari [Qamir] dari [Aisyah]; Dia mandi setiap hari satu kali. Dan diriwayatkan oleh Hisyam bin Urwah dari Ayahnya; Mustahadlah (wanita yang mengeluarkan darah penyakit) berwudhu untuk setiap kali shalat. Semua hadits ini dha'if, kecuali hadits Qamir dan hadits Ammar, mantan sahaya Bani Hasyim dan hadits Hisyam bin Urwah dari Ayahnya. Dan yang ma'ruf dari Ibnu Abbas adalah mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>300</td></tr><tr><td>Arabic No</td><td>300</td></tr><tr><td>Reference</td><td>Book 1 Hadith 300</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Такой же хадис передают со слов ‘Аиши, которая передала его от Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>300</td></tr><tr><td>Arabic No</td><td>300</td></tr><tr><td>Reference</td><td>Book 1 Hadith 300</td></tr></tbody></table></div>
 

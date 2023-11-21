@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through another chain of transmitters and the one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Jarir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] seluruhnya dari [Al A'masy]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin 'Abdillah bin Numair] dan [Abu Sa'id Al Asyaj] dan lafazh ini milik mereka berkata; Telah menceritakan kepada kami [Waki']; Telah menceritakan kepada kami [Al A'masy] dari ['Abdillah bin Murrah] dari [Abu Al Ahwash] dari ['Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketahuilah, sungguh aku berlepas diri dari setiap yang mencintai kekasihnya. Sekiranya aku dibolehkan mengambil seorang kekasih, niscaya aku akan menjadikan Abu Bakar sebagai kekasih. Sesungguhnya sahabat kalian ini adalah kekasih Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6176</td></tr><tr><td>Arabic No</td><td>2383.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6176</td></tr><tr><td>Arabic No</td><td>2383.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 8</td></tr></tbody></table></div>
 

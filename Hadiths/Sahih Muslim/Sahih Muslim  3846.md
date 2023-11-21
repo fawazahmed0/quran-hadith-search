@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dari [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] bahwa mereka pernah dipukul ketika mereka memborong bahan makanan secara taksiran, kemudian menjualnya di tempat pembelian sebelum dipindahkan ke tempat lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>1527.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>1527.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 42</td></tr></tbody></table></div>
 

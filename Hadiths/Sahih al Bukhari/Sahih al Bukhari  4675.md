@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Musaiyab:When Abu Talib's death approached, the Prophet (ﷺ) went t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] Telah menceritakan kepada kami ['Abdur Razzaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Bapaknya] dia berkata; "Ketika Abu Thalib mendekati ajalnya, Rasulullah shallallahu 'alaihi wasallam masuk menemuinya dan di dekatnya ada Abu Jahal dan Abdullah bin Abu Umayyah. Lalu beliau bersabda: "Wahai pamanku, ucapkanlah 'Laa Ilaaha Illallah (tidak ada sesembahan yang berhak di sembah selain Allah) ' yang dengannya aku akan berhujah untuk membelamu di sisi Allah -Azza wa Jalla-." Maka Abu Jahal dan Abdullah bin Umayyah berkata kepadanya; "Wahai Abu Thalib, Apakah kamu benci dengan agama Abdul Muthalib?" Maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Sungguh akan aku akan mintakan ampunan untukmu selama aku tidak dilarang." Lalu turunlah ayat, "Tidak sepatutnya bagi Nabi dan orang-orang yang beriman memintakan ampun (kepada Allah) bagi orang-orang musyrik walaupun orang-orang musyrik itu adalah kaum kerabat (nya), sesudah jelas bagi mereka, bahwasanya orang-orang musyrik itu adalah penghuni neraka jahanam." (Qs. At Taubah;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4675</td></tr><tr><td>Arabic No</td><td>4675</td></tr><tr><td>Reference</td><td>Book 65 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн аль-Мусаййиба, что его отец сказал: «Когда Абу Талиб был уже близок к смерти, к нему пришёл Пророк ﷺ, а в это время у него находился Абу Джахль и ‘Абдуллах ибн Аби Умайя. Пророк ﷺ сказал (Абу Талибу): “О дядя, произнеси слова “Ля иляха илля Ллах” (Нет бога, достойного поклонения, кроме Аллаха), благодаря чему я смогу свидетельствовать за тебя пред Аллахом!” (Услышав это,) Абу Джахль и ‘Абдуллах ибн Умаййа воскликнули: “О Абу Талиб, неужели же ты отступишься от религии ‘Абдульмутталиба?!” И после этого Пророк ﷺ воскликнул: “Я обязательно стану просить прощения для тебя, пока мне не будет запрещено делать это!” Тогда был ниспослан аят: “Пророку и верующим не подобает просить прощения для многобожников, даже если они являются родственниками, после того, как им стало ясно, что они будут обитателями Ада”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4675</td></tr><tr><td>Arabic No</td><td>4675</td></tr><tr><td>Reference</td><td>Book 65 Hadith 197</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) forbade a townsman to sell for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Muhammad bin Tsaur] dari [Ma'mar] dari [Ibnu Thawus] dari [ayahnya] dari [Ibnu Abbas] ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang orang yang bermukim (orang kota) menjualkan barang orang yang datang dari desa. Aku katakan apa maksud tidak boleh orang yang bermukim (orang kota) menjualkan barang orang yang datang dari desa? Ia berkata; tidak boleh ia menjadi calo
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2158) Sahih Muslim (1521)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3439</td></tr><tr><td>Arabic No</td><td>3439</td></tr><tr><td>Reference</td><td>Book 24 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Посланник Аллаха ﷺ запретил оседлому продавать за бедуина. Я спросил: “А что означает продажа оседлого за бедуина?” (Посланник Аллаха ﷺ) сказал: “Он не должен становиться посредником (между ним и покупателями)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2158) Sahih Muslim (1521)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3439</td></tr><tr><td>Arabic No</td><td>3439</td></tr><tr><td>Reference</td><td>Book 24 Hadith 24</td></tr></tbody></table></div>
 

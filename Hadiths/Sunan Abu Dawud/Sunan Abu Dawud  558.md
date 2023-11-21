@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah: The Messenger of Allah (ﷺ) said: If anyone goes out from h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah] telah menceritakan kepada kami [Al-Haitsam bin Humaid] dari [Yahya bin Al-Harits] dari [Al-Qasim, Abu Abdurrahman] dari [Abu Umamah] bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda: "Barangsiapa yang keluar dari rumahnya dalam keadaan suci untuk melaksanakan shalat wajib, maka pahalanya seperti pahala orang yang haji yang sedang ihram, dan barangsiapa yang keluar dari rumahnya untuk melaksanakan shalat Dluha, dia tidak mempunyai niat kecuali itu, maka pahalanya seperti orang yang sedang umrah. Dan menunggu shalat hingga datang waktu shalat yang lain yang tidak ada main-main di antara keduanya, maka pahalanya ditulis di 'Iliyyin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>558</td></tr><tr><td>Arabic No</td><td>558</td></tr><tr><td>Reference</td><td>Book 2 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Умамы о том, что Посланник Аллаха ﷺ сказал: «Того, кто очистившись вышел из дома для совершения предписанной молитвы, ожидает награда, подобная награде совершающего хадж, облачившегося в ихрам. И того, кто вышел для совершения восхваления-духа, причём только это и заставило его выйти, ожидает награда, подобная награде совершающего ‘умру. Того же, кто совершает молитву за молитвой, не пустословя в промежутках между ними, ожидает запись в ‘Иллийуне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>558</td></tr><tr><td>Arabic No</td><td>558</td></tr><tr><td>Reference</td><td>Book 2 Hadith 168</td></tr></tbody></table></div>
 

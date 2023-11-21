@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: The testimony of a nomad Arab agai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yahya bin Ayyub] serta [Nafi' bin Yazid] dari [Ibnu Al Had] dari [Muhammad bin 'Amru bin 'Atha] dari ['Atha bin Yasar] dari [Abu Hurairah] bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Persaksian orang pelosok tidak berlaku untuk penduduk kota
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3602</td></tr><tr><td>Arabic No</td><td>3602</td></tr><tr><td>Reference</td><td>Book 25 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Не может бедуин свидетельствовать против живущего оседло»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3602</td></tr><tr><td>Arabic No</td><td>3602</td></tr><tr><td>Reference</td><td>Book 25 Hadith 32</td></tr></tbody></table></div>
 

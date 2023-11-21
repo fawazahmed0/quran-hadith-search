@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "When (Allah's) slave is p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bion Al Walid] telah menceritakan kepada kami ['Abdul A'laa] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas bin Malik radliallahu 'anhu] bahwasanya dia menceritakan kepada mereka bahwa Rasulullah Shallallahu'alaihiwasallam bersabda: "Jika seorang hamba (jenazahnya) sudah diletakkan didalam kuburnya dan teman-temannya sudah berpaling dan pergi meninggalkannya dan dia dapat mendengar gerak langkah sandal sandal mereka, maka akan datang kepadanya dua malaikat yang keduanya akan mendudukkannya seraya keduanya berkata, kepadanya: "Apa yang kamu ketahui tentang laki-laki ini, Muhammad Shallallahu'alaihiwasallam?". bila seorang mu'min dia akan menjawab: "Aku bersaksi bahwa dia adalah hamba Allah dan utusanNya". Maka dikatakan kepadanya: "Lihatlah tempat dudukmu di neraka yang Allah telah menggantinya dengan tempat duduk di surga. Maka dia dapat melihat keduanya".". Qatadah berkata,: "Dan diceritakan kepada kami bahwa dia (hamba mu'min itu) akan dilapangkan dalam kuburnya". Kemudian dia kembali melanjutkan hadits Anas radliallahu 'anhu.: " Dan adapun (jenazah) orang kafir atau munafiq akan dikatakan kepadanya apa yang kamu ketahui tentang laki-laki ini?". Maka dia akan menjawab: "Aku tidak tahu, aku hanya berkata, mengikuti apa yang dikatakan kebanyakan orang". Maka dikatakan kepadanya: "Kamu tidak mengetahuinya dan tidak mengikuti orang yang mengerti". Kemudian dia dipukul dengan palu godam besar terbuat dari besi sehingga mengeluarkan suara teriakan yang dapat didengar oleh yang ada di sekitarnya kecuali oleh dua makhluq (jin dan manusia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1374</td></tr><tr><td>Arabic No</td><td>1374</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «После того, как раба Аллаха положат в его могилу, а его товарищи повернутся и уйдут, и он услышит стук их сандалий, к нему явятся два ангела, усадят его и спросят его: “Что ты говорил об этом человеке, Мухаммаде ﷺ?” Что касается верующего, то он скажет: “Я свидетельствую, что он — раб Аллаха и Его посланник”. Ему будет сказано: “Посмотри на свое место в огне: Аллах заменил его для тебя местом в раю”. И так он увидит оба своих места». \nКатада сказал: «Нам сообщили, что его могила будет расширена». Затем он (Катада) вернулся к повествованию Анаса, который сказал: «Что же касается лицемера и неверующего, то его спросят: “Что ты говорил об этом человеке?” Он ответит: “Не знаю, я говорил лишь то, что говорили люди”. Тогда они скажут ему: “Ты не знал и не читал!” — а потом ему нанесут удар железными молотами, и он издаст такой крик, который услышат все те, кто окажется поблизости от него, кроме людей и джиннов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1374</td></tr><tr><td>Arabic No</td><td>1374</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
 

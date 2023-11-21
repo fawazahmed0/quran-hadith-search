@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Khalid al-Juhani: A man from the Companions of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] bahwa [Yahya bin Sa'id], dan [Bisyr bin Al Mufadhdhal] telah menceritakan kepada mereka dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Hibban] dari [Abu Amrah] dari [Zaid bin Khalid Al Juhani] bahwa seorang sahabat Nabi shallallahu 'alaihi wasallam meninggal pada saat perang Khaibar. Kemudian para sahabat menceritakan hal tersebut kepada Rasulullah shallallahu 'alaihi wasallam. Lalu beliau berkata: "Shalatkan sahabat kalian!" kemudian roman wajah orang-orang berubah karena hal tersebut. Lalu beliau berkata: "Sesungguhnya sahabat kalian telah berbuat berkhianat di jalan Allah." Kemudian kami memeriksa barangnya, dan kami dapati butiran mutiara Yahudi yang tidak sampai senilai dua dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2710</td></tr><tr><td>Arabic No</td><td>2710</td></tr><tr><td>Reference</td><td>Book 15 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн аль-Халид аль-Джухани, да будет доволен им Аллах, рассказал, что один человек из числа сподвижников Пророка ﷺ умер в день битвы при Хайбаре. Люди рассказали об этом Посланнику Аллаха ﷺ, и Посланник Аллаха ﷺ сказал: «Совершите [погребальную] молитву по вашему товарищу». Лица людей изменились из-за этих слов, и тогда он сказал: «Поистине, ваш товарищ присвоил [что-то из трофеев] на пути Аллаха». [Зейд ибн Халид аль-Джухани сказал]: «Мы осмотрели его поклажу и нашли иудейские бусы, не стоившие и двух дирхемов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2710</td></tr><tr><td>Arabic No</td><td>2710</td></tr><tr><td>Reference</td><td>Book 15 Hadith 234</td></tr></tbody></table></div>
 

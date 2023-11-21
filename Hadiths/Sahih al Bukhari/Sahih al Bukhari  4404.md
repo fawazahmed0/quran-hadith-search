@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Arqam:The Prophet (ﷺ) fought nineteen Ghazwas and performed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid] Telah menceritakan kepada kami [Zuhair] Telah menceritakan kepada kami [Abu Ishaq] dia berkata; Telah menceritakan kepadaku [Zaid bin Arqam] bahwa Nabi shallallahu 'alaihi wasallam telah berperang sebanyak sembilan belas peperangan. Dan beliau melaksanakan haji setelah hijrah sebanyak satu kali, beliau tidak melaksanakan haji wada' setelah itu. Abu Ishaq berkata; dan beliau juga pernah melaksanakan haji ketika beliau berada di makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4404</td></tr><tr><td>Arabic No</td><td>4404</td></tr><tr><td>Reference</td><td>Book 64 Hadith 426</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аркам, да будет доволен им Аллах, сказал: «Пророк ﷺ совершил девятнадцать военных походов; после переселения (в Медину) он совершил только один хадж, не совершив после этого (никакого другого) хаджа, и это было Прощальное паломничество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4404</td></tr><tr><td>Arabic No</td><td>4404</td></tr><tr><td>Reference</td><td>Book 64 Hadith 426</td></tr></tbody></table></div>
 

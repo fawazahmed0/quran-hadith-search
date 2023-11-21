@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported on the authority of his father that Allah's Apostle (ﷺ) fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Ats Tsaqafi] dari [Ayyub] dari [Yahya bin Abu Katsir] dari ['Abdillah bin Abu Qatadah] dari [Bapaknya]; Bahwa Nabi shallallahu 'alaihi wasallam melarang menghembuskan nafas di dalam bejana (ketika minum)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5285</td></tr><tr><td>Arabic No</td><td>267.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– ‘Абдуллах ибн Абу Къатада передал со слов своего отца: «Пророк ﷺ запрещал дышать в сосуд (во время питья)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5285</td></tr><tr><td>Arabic No</td><td>267.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 159</td></tr></tbody></table></div>
 

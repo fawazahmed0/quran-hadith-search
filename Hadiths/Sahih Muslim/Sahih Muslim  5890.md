@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest verse recited 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari [Zaidah] dari ['Abdul Malik bin 'Umair] dari [Abu Salamah bin 'Abdur Rahman] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sya'ir paling benar yang pernah di ucapkan oleh penyair adalah syair: "Alaa, kullu syaiin maa khalallaha bathil (Ketahuilah, segala sesuatu selain Allah itu pasti binasa)." Hingga hampir saja Umayyah bin Abu Shalt masuk Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5890</td></tr><tr><td>Arabic No</td><td>2256.03</td></tr><tr><td>Reference</td><td>Book 41 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5890</td></tr><tr><td>Arabic No</td><td>2256.03</td></tr><tr><td>Reference</td><td>Book 41 Hadith 5</td></tr></tbody></table></div>
 

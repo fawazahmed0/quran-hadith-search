@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) forbade (1) the meeting of the cara
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Ar'arah] telah bercerita kepada kami [Syu'bah] dari ['Adiy binTsabit] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam melarang mencegat pedagang (sebelum sampai di pasar) dan melarang pula orang kota membeli untuk orang desa dan melarang seorang istri meminta persyaratan agar suaminya menceraikan istrinya yang lain dan melarang seseorang melebihkan penawaran barang yang sedang ditawar saudaranya dan melarang pula dari najasy serta tashriyah. Hadits ini ditelusuri pula oleh [Mu'adz] dan ['Abdush Shomad] dari [Syu'bah]. Dan berkata [Ghundar] dan ['Abdur Rahman]: "Dilarang". Dan berkata [Adam]: "Kami dilarang", sedangkan [An Nadhar] dan [Hajjaj bin Minhal] berkata: "Beliau melarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2727</td></tr><tr><td>Arabic No</td><td>2727</td></tr><tr><td>Reference</td><td>Book 54 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал, что Посланник Аллаха ﷺ запрещал встречать (караваны, и запрещал) оседлому жителю продавать (что-либо) за бедуина, (и запрещал) женщине выдвигать в качестве условия развод своей сестры, (и запрещал) человеку перебивать торговлю своему брату, и запрещал взвинчивать цену на товар, (который человек не собирается покупать) и оставлять животных надоенными, (чтобы покупатель думал, что животное даёт много молока, и по причине этого поднять цену)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2727</td></tr><tr><td>Arabic No</td><td>2727</td></tr><tr><td>Reference</td><td>Book 54 Hadith 15</td></tr></tbody></table></div>
 

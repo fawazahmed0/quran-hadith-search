@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (que Dieu l'agrée) a dit : "Les gens de La Mecque ayant demandé à l'Envo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abdu bin Humaid] keduanya berkata: Telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban] telah menceritakan kepada kami [Qatadah] dari [Anas], penduduk Makkah meminta Rasulullah Shallallahu 'alaihi wa Salam untuk memperlihatkan tanda-tanda kebesaran pada mereka lalu beliau memperlihatkan terbelahnya bulan pada mereka dua kali. Telah menceritakannya kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengkhabarkan kepada kami [Ma'mar] dari [Qatadah] dari [Anas] dengan makna hadits Syaiban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7077</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7077</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

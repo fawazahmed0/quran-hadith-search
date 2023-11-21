@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that some people from amongst the Jews said to Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin 'Abdullah] dan [Hajjaj bin Asy Sya'ir] keduanya berkata; Telah menceritakan kepada kami [Hajjaj bin Muhammad] ia berkata; Berkata [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwasanya ia mendengar [Jabir bin 'Abdullah] berkata; Sekelompok orang Yahudi mengucapkan salam kepada Rasulullah shallallahu 'alaihi wasallam dengan ucapan 'As Saamu 'Alaika (Kematian bagimu) wahai Abu Al Qasim. Maka beliau shallallahu 'alaihi wasallam menjawab; 'Wa Alaikum (juga bagi kalian).' Kemudian Aisyah berkata dengan nada marah; 'Apakah anda tidak mendengar apa yang mereka ucapkan? ' Nabi shallallahu 'alaihi wasallam menjawab; 'Ya, aku telah mendengarnya dan telah aku jawab ucapan mereka. karena sesungguhnya perkataan kita yang dikabulkan sedang perkataan mereka atas kita tidak dikabulkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5660</td></tr><tr><td>Arabic No</td><td>2166</td></tr><tr><td>Reference</td><td>Book 39 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5660</td></tr><tr><td>Arabic No</td><td>2166</td></tr><tr><td>Reference</td><td>Book 39 Hadith 15</td></tr></tbody></table></div>
 

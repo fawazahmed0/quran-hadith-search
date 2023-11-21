@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Alqamah said:'Aishah was asked about the actions of the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dia berkata; aku bertanya kepada [Aisyah]; "Bagaimanakah amal perbuatan Rasulullah shallallahu 'alaihi wasallam? Apakah beliau pernah mengkhususkan suatu hari yang tertentu?" Aisyah menjawab; "Tidak, setiap amalan beliau selalu di kerjakan secara rutin, dan siapakan di antara kalian yang mampu mengerjakan amalan yang di kerjakan oleh Rasulullah shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6466) Sahih Muslim (783)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>1370</td></tr><tr><td>Reference</td><td>Book 5 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Алькама (ибн Кайс) сказал: «Однажды я спросил ‘Аишу, да будет доволен ею Аллах: “Какими были дела Посланника Аллаха ﷺ? Выделял ли он для них какие-то дни?” Она сказала: “Нет, он занимался поклонением постоянно, а кто из вас может делать то, что мог делать Посланник Аллаха ﷺ?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6466) Sahih Muslim (783)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>1370</td></tr><tr><td>Reference</td><td>Book 5 Hadith 121</td></tr></tbody></table></div>
 

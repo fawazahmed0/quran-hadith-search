@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: whoever performs ablution, and per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Muhammad bin Thahla'] dari [Muhshin bin Ali] dari [Auf bin Al-Harits] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berwudlu, lalu memperbagus wudlunya, kemudian pergi ke masjid, sementara dia mendapati jama'ah telah selesai mengerjakan shalat, maka Allah Azza wa Jalla akan memberinya pahala, seperti pahala orang yang telah mengerjakan (shalat jama'ah) dan menghadirinya, tidak kurang sedikit pun dari pahala mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>564</td></tr><tr><td>Arabic No</td><td>564</td></tr><tr><td>Reference</td><td>Book 2 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Кто совершит омовение и сделает это должным образом, а затем отправится (в мечеть), и застанет людей уже совершившими эту молитву, то Великий и Всемогущий Аллах дарует ему такую же награду, как награду тех, кто уже совершил эту молитву и присутствовал на ней, что ничуть не уменьшит их собственной награды!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>564</td></tr><tr><td>Arabic No</td><td>564</td></tr><tr><td>Reference</td><td>Book 2 Hadith 174</td></tr></tbody></table></div>
 

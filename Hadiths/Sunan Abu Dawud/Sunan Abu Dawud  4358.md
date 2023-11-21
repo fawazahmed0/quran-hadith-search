@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Abdullah ibn AbuSarh used to write (the revelation)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] berkata, telah menceritakan kepada kami [Ali bin Al Husain bin Waqid] dari [Bapaknya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Abdullah bin Sa'd bin Abu Sarh pernah menulis surat perjanjian dengan Rasulullah shallallahu 'alaihi wasallam, namun setan menggelincirkannya hingga ia bergabung dengan orang-orang kafir. Rasulullah shallallahu 'alaihi wasallam pun memerintahkan untuk membunuhnya saat pembukaan (penaklukan) kota Makkah. Namun Utsman bin Affan memberikan jaminan perlindungan kepadanya, dan Rasulullah shallallahu 'alaihi wasallam menjamin keamanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4358</td></tr><tr><td>Arabic No</td><td>4358</td></tr><tr><td>Reference</td><td>Book 40 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что ‘Абдуллах ибн Са‘д ибн Абу ас-Сарх был писцом Посланника Аллаха ﷺ, а потом шайтан увёл его от прямого пути и он присоединился к неверующим. Посланник Аллаха ﷺ велел казнить его в день покорения Мекки, однако ‘Усман ибн ‘Аффан попросил гарантировать ему безопасность, и Посланник Аллаха ﷺ гарантировал ему безопасность
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4358</td></tr><tr><td>Arabic No</td><td>4358</td></tr><tr><td>Reference</td><td>Book 40 Hadith 8</td></tr></tbody></table></div>
 

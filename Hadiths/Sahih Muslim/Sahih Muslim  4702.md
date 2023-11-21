@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Hammam b. Munabbih who said:This is one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; ini seperti yang pernah diceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, kemudian dia menyebutkan beberap hadits yang di antaranya adalah, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia itu mengikuti Quraisy dalam permasalahan ini (kepemimpinan), Muslim mereka mengikuti Muslim (Quraisy), dan kafir mereka mengikuti kafir mereka (Quraisy)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>1818.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>1818.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 2</td></tr></tbody></table></div>
 

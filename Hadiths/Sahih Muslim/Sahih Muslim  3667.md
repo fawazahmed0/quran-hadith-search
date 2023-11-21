@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Sirin reported that he had heard Ibn 'Umar (Allah be pleased with them) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar]. Ibnu Al Mutsanna mengatakan; Telah menceritakan kepada kami [Muhamamd bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Anas bin Sirin] bahwa dia pernah mendengar [Ibnu Umar] berkata; Saya pernah menceraikan istriku yang sedang haidl, lantas Umar mendatangi Nabi shallallahu 'alaihi wasallam dan melaporkan kepada beliau, maka beliau bersabda: "Suruhlah dia rujuk, jika istrinya telah kembali suci, maka ia boleh menceraikannya." Maka saya bertanya kepada Ibnu Umar; Apakah engkau memperhitungkan talak tersebut? Dia menjawab; Memangnya kenapa? Dan telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Khalid bin Al Harits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Abdurrahman bin Bisyr] telah menceritakan kepada kami [Bahz] dia berkata; Telah menceritakan kepada kami [Syu'bah] dengan isnad seperti ini, namun dalam hadits mereka berdua disebutkan; "Supaya dia (Ibnu Umar) merujuknya." Dan dalam hadits mereka berdua juga disebutkan bahwa Yunus berkata; Saya bertanya kepada Ibnu Umar; Apakah engkau memperhitungkan talak tersebut? Dia menjawab; Memangnya kenapa?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3667</td></tr><tr><td>Arabic No</td><td>1471.16</td></tr><tr><td>Reference</td><td>Book 18 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3667</td></tr><tr><td>Arabic No</td><td>1471.16</td></tr><tr><td>Reference</td><td>Book 18 Hadith 16</td></tr></tbody></table></div>
 

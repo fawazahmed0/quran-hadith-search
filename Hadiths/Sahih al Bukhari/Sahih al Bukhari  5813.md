@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The most beloved garment to the Prophet (ﷺ) to wear wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abu Al Aswad] telah menceritakan kepada kami [Mu'adz] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Anas bin Malik] radliallahu 'anhu dia berkata; "Pakaian yang paling disukai oleh Nabi shallallahu 'alaihi wasallam adalah memakai hibarah (kain yang direnda atau bergaris)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5813</td></tr><tr><td>Arabic No</td><td>5813</td></tr><tr><td>Reference</td><td>Book 77 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Больше всего Пророк ﷺ любил носить йеменские плащи /хибара/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5813</td></tr><tr><td>Arabic No</td><td>5813</td></tr><tr><td>Reference</td><td>Book 77 Hadith 31</td></tr></tbody></table></div>
 

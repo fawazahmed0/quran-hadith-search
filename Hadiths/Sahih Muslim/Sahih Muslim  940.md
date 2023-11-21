@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:When the Messenger of Allah (ﷺ) came to my house, he said: Ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] dan ['Abd bin Humaid] dan lafazh tersebut milik Ibnu Rafi', Abd berkata, telah mengabarkan kepada kami sedangkan Ibnu Rafi' berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar], [az-Zuhri] berkata, dan telah mengabarkan kepadaku [Hamzah bin Abdullah bin Umar] dari [Aisyah] dia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam masuk rumahku, maka beliau bersabda, 'Suruhlah Abu Bakar agar mengimami shalat untuk manusia'." Aisyah berkata, "Maka aku berkata, 'Wahai Rasulullah, sesungguhnya Abu Bakar adalah laki-laki yang lemah, apabila dia membaca al-Qur'an maka dia tidak bisa menahan air matanya, seandainya kamu memerintahkan selain Abu Bakar (maka itu lebih baik) '." Dia berkata lagi, "Demi Allah, aku hanyalah menghawatirkan orang-orang merasa bosan dengan pemimpin pertama yang menggantikan kedudukan Rasulullah Shallallahu'alaihiwasallam." Dia berkata lagi, "Lalu aku mengulanginya dua atau tiga kali. Maka beliau bersabda, 'Hendaklah orang-orang shalat dengan diimami Abu Bakar, karena kalian adalah sahabat Yusuf (dalam menampakkan kebalikan dari sesuatu yang ada di dalam batin)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>940</td></tr><tr><td>Arabic No</td><td>418.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Войдя в мой дом, Посланник Аллаха ﷺ сказал: “Велите Абу Бакру, чтобы он проводил молитвы с людьми”. Я сказала: “О Посланник Аллаха, поистине Абу Бакр человек мягкосердечный, и он не в силах сдерживать слёзы, когда читает Коран, может быть велишь это кому-нибудь другому вместо Абу Бакра”. Клянусь Аллахом, я (настаивала на этом) только из опасения, что люди увидят дурное предзнаменование в первом (человеке), который займёт место Посланника Аллаха ﷺ. Я просила его (Посланника Аллаха ﷺ) пересмотреть его решение два или три раза, но он сказал: “Пусть Абу Бакр проводит молитву с людьми, поистине, вы (подобны) женщинам (из истории про) Юсуфа!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>940</td></tr><tr><td>Arabic No</td><td>418.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 102</td></tr></tbody></table></div>
 

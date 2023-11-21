@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Buraida narrated on the authority of his father that the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Abdullah Al Asadi] dari [Sufyan] dari [Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam mengajarkan kepada mereka apa yang mesti mereka kerjakan apabila mereka hendak keluar ziarah kubur. Maka salah seorang dari mereka membaca do'a sebagaimana yang tertera dalam riwayat Abu Bakar; "AS SALAAMU 'ALA AHLID DIYAAR -sementara dalam riwayat Zuhair- AS SALAAMU 'ALAIKUM AHLAD DIYAARI MINAL MUKMINIIN WAL MUSLIMIIN WA INNAA INSYAA'ALLAHU BIKUM LAAHIQUUN ASALULLAHA LANAA WALAKUMUL 'AAFIYAH (Semoga keselamatan tercurah bagi penghuni (kubur) dari kalangan orang-orang mukmin dan muslim dan kami insya Allah akan menyulul kalian semua. Saya memohon kepada Allah bagi kami dan bagi kalian Al 'Afiyah (keselamatan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2257</td></tr><tr><td>Arabic No</td><td>975</td></tr><tr><td>Reference</td><td>Book 11 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сулеймана ибн Бурайды, что его отец сказал: «Посланник Аллаха ﷺ учил их, (что им следует говорить,) когда они будут приходить на могилы, и тот из них, (кто) произносил (эту мольбу,) говорил по версии Абу Бакра (ибн Аби Шейбы): “Мир тем, кто лежит здесь!” /Ас-саляму ‘аля ахли-д-дияр/. А по версии Зухайра (ибн Харба): “Мир вам, о лежащие здесь верующие и мусульмане! Поистине, если будет угодно Аллаху, мы присоединимся (к вам), прошу Аллаха об избавлении для нас и для вас!” /Ас-саляму ‘алейкум, ахля-д-дияри мина-ль-муъминина ва-ль-муслимина! Ва инна ин шаа-Ллаху ля-ляхыкъуна, асъалю-Ллаха ляна ва лякум аль-‘афията!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2257</td></tr><tr><td>Arabic No</td><td>975</td></tr><tr><td>Reference</td><td>Book 11 Hadith 133</td></tr></tbody></table></div>
 

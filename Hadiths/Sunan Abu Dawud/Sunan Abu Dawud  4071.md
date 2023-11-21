@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hurayth ibn al-Abajj as-Sulayhi: That a woman of Banu Asad: One day I w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Auf Ath Tha'i] berkata, telah menceritakan kepada kami [Muhammad bin Isma'il] berkata, telah menceritakan kepadaku [Bapakku]. [Ibnu Auf Ath Tha'I] berkata, "Aku membaca dalam buku [Isma'il] berkata; telah menceritakan kepadaku [Dhamdham] -maksudnya Dhamdham bin Zur'ah- dari [Syuraih bin Ubaid] dari [Habib bin Ubaid] dari [Huraits bin Al Abah As Salihi] berkata, " [Seorang wanita] bani Asad berkata, "Suatu hari aku berada di sisi Zainab isteri Rasulullah shallallahu 'alaihi wasallam sedang kami mewarnai baju miliknya dengan lumpur merah. Maka ketika kami sedang melakukan hal itu, Rasulullah shallallahu 'alaihi wasallam muncul di hadapan kami. Dan ketika Zainab melihat hal itu, ia mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam tidak menyukai perbuatannya. Maka ia pun mengambil kain bajunya untuk dicuci dan menghilangkan semua warna merah yang ada. Setelah itu Rasulullah shallallahu 'alaihi wasallam datang kembali, ketika beliau tidak melihat (warna merah itu lagi), beliau masuk ke dalam rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4071</td></tr><tr><td>Arabic No</td><td>4071</td></tr><tr><td>Reference</td><td>Book 34 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хурайса ибн аль-Абахха ас-Салихи, что одна женщина из племени бану асад сказала: «Однажды я была у Зейнаб, жены Посланника Аллаха ﷺ и мы вместе окрашивали её одежду красной глиной. Посланник Аллаха ﷺ заглянул к нам и увидел красную краску из глины. Тогда он молча вышел. Зейнаб сразу поняла, что ему не понравилось то, что она сделала. Тогда она выстирала свою одежду и убрала всю красную краску. Потом Посланник Аллаха ﷺ вернулся и снова заглянул к нам. Не увидев ничего, он вошёл»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4071</td></tr><tr><td>Arabic No</td><td>4071</td></tr><tr><td>Reference</td><td>Book 34 Hadith 52</td></tr></tbody></table></div>
 

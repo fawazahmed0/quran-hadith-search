@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada:My father said, "The Prophet (ﷺ) used to pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Hisyam] dari [Yahya bin Abu Katsir] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya], bahwa Nabi shallallahu 'alaihi wasallam dalam shalat Zhuhur memanjangkan bacaan pada rakaat pertama dan memendekkannya pada rakaat kedua. Beliau lakukan pula seperti itu pada shalat Shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Къатада передал, что его отец (Абу Къатада), да будет доволен им Аллах, сказал: «При совершении полуденного /зухр/ и послеполуденного /‘аср/ намазов Пророк ﷺ удлинял чтение во время совершения первого рак‘ата, сокращая его во время второго. Таким же образом он поступал при утреннем /субх/ намазе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 174</td></tr></tbody></table></div>
 

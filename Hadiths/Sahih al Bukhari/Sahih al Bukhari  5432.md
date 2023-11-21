@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I used to accompany Allah's Messenger (ﷺ) to fill my stom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Syaibah] ia berkata; telah mengabarkan kepadaku [Ibnu Abu Al Fudaik] dari [Ibnu Dzi'b] dari [Al Maqburi] dari [Abu Hurairah] ia berkata; "Aku selalu menemani Nabi shallallahu 'alaihi wasallam dalam keadaan perut kenyang (merasa kenyang meskipun lapar, pent), sehingga aku tidak dapat makan roti, tidak bisa mengenakan kain sutera dan tidak memiliki pelayan yang bisa membantuku. Bahkan aku mengganjal perutku dengan kerikil, dan aku minta orang lain agar aku bisa membacakan ayat kepadanya sehingga ia bisa memberiku sesuatu yang aku makan. Dan sebaik-baik manusia bagi orang miskin adalah Ja'far bin Abu Thalib, ia pulang ke rumah dengan mengajak kami lalu memberi kami makan dengan apa yang ada di dalam rumahnya. Sampai-sampai ia mengeluarkan 'Ukkah (tempat air terbuat dari kulit) yang sudah tidak ada isinya lagi, kami lalu membelah dan menjilati apa yang ada di dalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5432</td></tr><tr><td>Arabic No</td><td>5432</td></tr><tr><td>Reference</td><td>Book 70 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, рассказывал: «Я был неразлучен с Пророком ﷺ и (думал лишь о том, как немного) поесть, (после чего меня ничего не отвлекало от Пророка ﷺ). Я не ел хлеб, не носил шёлковых (одеяний), и мне не прислуживали ни мужчины, ни женщины. Бывало такое, что я припадал животом к камням из-за (сильного) голода. И бывало так, что я просил человека прочесть какой-нибудь аят, который я итак знал, (однако я делал это), для того чтобы он пригласил меня (к себе) и накормил. Лучше всего к беднякам относился Джа‘фар ибн Аби Талиб, который приглашал нас к себе и кормил тем, что имелось в его доме. И бывало так, что он выносил нам кожаный бурдюк, в котором уже не было ничего, но мы разрезали его и облизывали то, что (осталось)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5432</td></tr><tr><td>Arabic No</td><td>5432</td></tr><tr><td>Reference</td><td>Book 70 Hadith 60</td></tr></tbody></table></div>
 

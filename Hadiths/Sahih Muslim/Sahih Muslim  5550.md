@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Allah's Messenger (ﷺ) forbade (the animals to be beaten) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Ali bin Mushir] dari [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir] dia berkata "Rasulullah shallallahu 'alaihi wasallam melarang memukul dan membuat cap (menggambari dengan besi panas atau dengan tato) pada bagian wajah." Dan telah menceritakan kepadaku [Harun bin 'Abdullah]; Telah menceritakan kepada kami [Hajjaj bin Muhammad]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami [Muhammad bin Bakr] keduanya dari [Ibnu Juraij] ia berkata; Telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin 'Abdillah] berkata; Rasulullah shallallahu 'alaihi wasallam melarang hal yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5550</td></tr><tr><td>Arabic No</td><td>2116.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5550</td></tr><tr><td>Arabic No</td><td>2116.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 161</td></tr></tbody></table></div>
 

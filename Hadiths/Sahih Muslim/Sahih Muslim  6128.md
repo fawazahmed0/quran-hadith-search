@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) happened to pass by the people who ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] seluruhnya dari [Al Aswad bin 'Amir]; [Abu Bakr] berkata; Telah menceritakan kepada kami [Aswad bin 'Amir]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dan dari [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah melewati suatu kaum yang sedang mengawinkan pohon kurma lalu beliau bersabda: "Sekiranya mereka tidak melakukannya, kurma itu akan (tetap) baik." Tapi setelah itu, ternyata kurma tersebut tumbuh dalam keadaan rusak. Hingga suatu saat Nabi shallallahu 'alaihi wasallam melewati mereka lagi dan melihat hal itu beliau bertanya: 'Ada apa dengan pohon kurma kalian? Mereka menjawab; Bukankah anda telah mengatakan hal ini dan hal itu? Beliau lalu bersabda: 'Kalian lebih mengetahui urusan dunia kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6128</td></tr><tr><td>Arabic No</td><td>2363</td></tr><tr><td>Reference</td><td>Book 43 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6128</td></tr><tr><td>Arabic No</td><td>2363</td></tr><tr><td>Reference</td><td>Book 43 Hadith 186</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubadah ibn as-Samit: We came to Jabir ibn Abdullah who was sitting in h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Al-Fadll As-Sijistani] dan [Hisyam bin Ammar Ad-Dimasyqi] dan [Sulaiman bin Abdirrahman Ad-Dimasyqi] dengan hadits ini, dan ini adalah lafazh Yahya bin al-Fadll As-Sijistani, mereka berkata; Telah menceritakan kepada kami [Hatim bin Isma'il] telah menceritakan kepada kami [Ya'qub bin Mujahid, Abu Harzah] dari [Ubadah bin Al-Walid bin Ubadah bin Ash-Shamit]; Kami pernah datang kepada [Jabir bin Abdullah] sewaktu beliau berada di dalam masjidnya. Maka Jabir berkata; Rasulullah shallallahu 'alaihi wasallam pernah menemui kami di masjid kami ini, sedangkan beliau memegang tandan kurma Ibnu Thab. Kemudian beliau melihat dan mendapat dahak di arah kiblat Masjid. Maka beliau mendatanginya dan menggosoknya dengan tandan kurma itu, kemudian bersabda: "Siapa di antara kalian yang suka kalau Allah memalingkan wajah-Nya daripadanya?." Lalu beliau bersabda: "Sesungguhnya salah di antara kalian apabila mengerjakan shalat, maka Allah di depannya, sebab itu janganlah sekali-kali meludah ke arah depannya dan jangan pula ke arah kanannya. Akan tetapi meludahlah ke sebelah kirinya di bawah telapak kaki kirinya. Jika ada sesuatu yang membuatnya harus segera meludah, maka meludahlah ke kainnya seperti ini." Lalu beliau meletakkan kain ke mulutnya, kemudian menggosok-gosokkannya, lalu bersabda: "Bawakanlah kepadaku minyak wangi." Maka berdirilah seorang pemuda dari suatu kampung dengan segera pergi menuju keluarganya, lalu datang membawa minyak wangi di telapak tangannya. Maka Rasulullah shallallahu 'alaihi wasallam mengambil minyak wangi itu dan menaruhnya di ujung tandan kurma kemudian dioleskannya pada bekas dahak itu. Jabir berkata; Dari situlah kalian membuat wewangian itu di Masjid-Masjid kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>485</td></tr><tr><td>Arabic No</td><td>485</td></tr><tr><td>Reference</td><td>Book 2 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид сказал: «(Однажды) я видел, как в мечети Дамаска Василя ибн аль-Аскъа‘ плюнул на циновку, а затем вытер его ногой. У него спросили: “А зачем ты так делаешь?” Он ответил: “Потому что я видел, как это делал Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>485</td></tr><tr><td>Arabic No</td><td>485</td></tr><tr><td>Reference</td><td>Book 2 Hadith 95</td></tr></tbody></table></div>
 

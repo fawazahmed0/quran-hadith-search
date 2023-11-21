@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The delegates of the tribe of 'Abdul-Qais came and said, "O 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu an-Nu'man] telah bercerita kepada kami [Hammad] dari [Abu Hamzah adl-Dluba'iiy] berkata aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata; Telah datang utusan 'Abdul Qois lalu berkata; "Wahai Rasulullah, dalam kehidupan kami ini, antara kami dan Baginda ada orang-orang kafir suku Mudlar, yang kami tidak dapat melakukan kontak hubungan bersama Baginda kecuali pada saat bulan-bulan Haram. Maka berilah kami suatu perintah yang kami ambil sebagai pegangan, yang dengannya kami mengajak orang-orang di belakang kami". Maka Beliau bersabda: "Aku perintahkan kalian dengan empat hal dan aku larang kalian dari empat hal pula. (Yang pertama) aku perintahkan kalian untuk beriman kepada Allah dengan bersyahadat laa ilaaha illallah. Beliau mengepalkan tangan Beliau,. mendirikan shalat, menunaikan zakat, shaum di bulan Ramadlan dan agar kalian menerapkan ketentuan seperlima untuk Allah dari harta ghanimah yang kalian dapat. Dan aku larang kalian dari duba', hantam, naqir, dan muzaffat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3095</td></tr><tr><td>Arabic No</td><td>3095</td></tr><tr><td>Reference</td><td>Book 57 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда к Пророку ﷺ прибыла делегация (племени) ‘абд аль-къайс, они сказали: “О Посланник Аллаха, мы можем приезжать к тебе только в священный месяц, ведь нас отделяют от тебя неверные из племени мудар, так дай же нам решающее веление, чтобы мы передали его оставшимся за нами и призывали их к нему!” Тогда он сказал: “... Это — свидетельство о том, что нет бога достойного поклонения, кроме одного лишь Аллаха, совершение намаза, выплата закята, соблюдение поста в рамадане и выделение вами пятой части военной добычи...”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3095</td></tr><tr><td>Arabic No</td><td>3095</td></tr><tr><td>Reference</td><td>Book 57 Hadith 4</td></tr></tbody></table></div>
 

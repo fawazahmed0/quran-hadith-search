@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Ali said on the pulpit in the mosque of Kufah: When F
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Isa] telah menceritakan kepada kami [Abdurrahman bin Yazid bin Jabir] dia berkata; telah menceritakan kepadaku ['Atha' Al Khurasani] dari [bekas budak isterinya Ummu Ustman] dia berkata; aku mendengar [Ali radliallahu 'anhu] berkata ketika di atas mimbar di Kufah: "Apabila datang hari jum'at, maka setan akan berpagi-pagi dengan membawa benderanya menuju pasar-pasar sambil menaburkan rintangan atau penghalang-penghalang sehingga mereka mengakhirkan shalat jum'at, sementara para Malaikat berpagi-pagi dan duduk di pintu-pintu masjid mencacat manusia berdasarkan tingkatan mereka yang lebih awal dan orang yang berikutnya sampai Imam keluar, maka apabila seseorang duduk diam untuk mendengar dan memperhatikan serta tidak lalai, maka baginya dua bagian pahala, dan barangsiapa yang menjauh (dari imam), tidak mendengar dan diam serta tidak lalai maka baginya satu bagian dari pahala, dan barangsiapa duduk mendekat (kepada imam) kemudian duduk untuk mendengarkan dan memperhatikan, namun dirinya lalai dan tidak biasa diam, maka baginya satu bagian dari dosa, dan barangsiapa berkata kepada temannya "diamlah" pada waktu (khutbah) jum'at, maka ia telah lalai (bebuat sia-sia), dan barangsiapa lalai, maka ia tidak mendapatkan bagian dari Jum'atnya." Di akhir dari hadits tersebut, Ali berkata; "saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda seperti itu." Abu Daud mengatakan; "di riwayatkan pula oleh [Al Walid bin Muslim] dari [Ibnu Jabir] dia berkata dengan redaksi lafadz "bir rabaa'is (rintangan)." Dan berkata pula bekas budak istrinya yaitu Ummu Utsman bin 'Atha' seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ата аль-Хорасани передаёт со слов вольноотпущенника своей жены Умм ‘Усман: «Я слышал, как ‘Али, да будет доволен им Аллах, сказал на минбаре Куфы: “Когда наступает пятница, шайтаны отправляются со своими знамёнами на рынок и стараются задержать людей и помешать им пойти на пятничную молитву. А ангелы приходят и садятся у дверей мечети и записывают приходящих раньше и приходящих позже до тех пор, пока не появится имам, и, если человек сел так, чтобы ему было хорошо слышно и видно, молча слушал и не пустословил, ему запишется два кифля награды. Если он сел далеко, где ему плохо слышно, но прислушивался и не пустословил, ему записывается один кифль награды. Если человек сел так, чтобы ему было хорошо видно и слышно, но не слушал и пустословил, ему записывается один кифль греха. Кто во время пятничной молитвы скажет своему товарищу: “Тсс!” тот уже пустословит, а кто пустословил, тот не получит никакой пользы от этой пятничной молитвы”. И в конце он сказал: “Я слышал, как Посланник Аллаха ﷺ говорил это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id:I asked Ibn 'Abbas about Surat Al-Hashr. He replied, "Say Surat A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Mudrik] Telah menceritakan kepada kami [Yahya bin Hammad] Telah mengabarkan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id] ia berkta; Aku pernah bertanya kepada [Ibnu Abbas] mengenai surat Al Hasyr, maka ia pun menjawab, "Surat itu adalah surat An Nadlir (surat yang turun berkenaan dengan Bani Nadlir)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4883</td></tr><tr><td>Arabic No</td><td>4883</td></tr><tr><td>Reference</td><td>Book 65 Hadith 403</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид сказал: «Однажды я спросил Ибн ‘Аббаса о суре “аль-Хашр”. И он ответил: “Скажи: сура ан-Надыр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4883</td></tr><tr><td>Arabic No</td><td>4883</td></tr><tr><td>Reference</td><td>Book 65 Hadith 403</td></tr></tbody></table></div>
 

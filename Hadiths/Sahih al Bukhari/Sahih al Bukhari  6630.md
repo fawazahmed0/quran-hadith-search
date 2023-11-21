@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If Khosrau is ruined, there 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepada kami [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] menuturkan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika Kaisar telah meninggal, tak akan ada kaisar lagi sepeninggalnya, dan jika Kisra meninggal, maka tak akan ada lagi Kisra sepeninggalnya. Demi Dzat yang jiwa Muhammad berada di Tangan-Nya, perbendaharaan kekayaan keduanya akan terbelanjakan fi sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6630</td></tr><tr><td>Arabic No</td><td>6630</td></tr><tr><td>Reference</td><td>Book 83 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда погибнет хосрой, то не будет хосроя после него, и когда погибнет император, то не будет другого императора после него. И клянусь Тем, в Чьих Руках душа Мухаммада, вы непременно будете расходовать их сокровища на пути Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6630</td></tr><tr><td>Arabic No</td><td>6630</td></tr><tr><td>Reference</td><td>Book 83 Hadith 10</td></tr></tbody></table></div>
 

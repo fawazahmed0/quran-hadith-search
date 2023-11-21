@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:I still seem to see the glistening o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Sa'id bin Manshur] dan [Abu Rabi'] dan [Khalaf bin Hisyam] dan [Qutaibah bin Sa'id] -Yahya berkata- telah mengabarkan kepada kami -sementara yang lain berkata- Telah menceritakan kepada kami [Hammad bin Zaid] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] radliallahu 'anha, ia berkata; "Aku seolah-olah masih melihat kemilau harum-haruman di garis sisiran kepala Rasulullah shallallahu 'alaihi wasallam saat beliau sedang melakukan Ihram." Namun Khalaf tidak menyebutkan; Saat beliau sedang melakukan Ihram. Tetapi ia menyebutkan; "Dan itu adalah wewangian Ihramnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2832</td></tr><tr><td>Arabic No</td><td>1190.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2832</td></tr><tr><td>Arabic No</td><td>1190.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 42</td></tr></tbody></table></div>
 

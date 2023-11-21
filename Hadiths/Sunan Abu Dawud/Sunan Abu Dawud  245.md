@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Maimunah reported:I placed (the vessel of) water for the Prophet (May peace be u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Abdullah bin Dawud] dari [Al-A'masy] dari [Salim] dari [Kuraib] telah menceritakan kepada kami [Ibnu Abbas] dari [bibinya, Maimunah] dia berkata; Saya pernah meletakkan air mandi Nabi shallallahu 'alaihi wasallam untuk mandi junub. Beliau menuangkan bejana air itu ke tangan kanan beliau, lalu membasuhnya dua atau tiga kali, kemudian beliau menuangkannya ke kemaluannya dan membasuhnya dengan tangan kiri, lalu beliau menggosokkan tangannya ke tanah, terus mencucinya. Sesudah itu beliau berkumur-kumur, beristinsyaq dan beristintsar. Lalu membasuh muka dan kedua tangannya, setelah itu menuangkan air ke atas kepala dan tubuhnya. Kemudian beliau pindah tempat, lalu membasuh kedua kakinva. Sesudah itu, saya ambilkan handuk untuknya, namun beliau tidak mengambilnya dan mengibaskan air dari tubuhnya. Saya beritahukan hal tersebut kepada Ibrahim, maka dia berkata; Mereka menganggap boleh-boleh saja memakai handuk, akan tetapi mereka tidak menyukai jika hal tersebut dijadikan sebagai kebiasaan. Abu Dawud berkata; Musaddad berkata; Saya katakan kepada Abdullah bin Dawud; Mereka tidak menyukai (memakruhkan) memakai handuk sebagai suatu kebiasaan saja (yakni bukan memakruhkan asal perbuatan tersebut). Dia berkata; Beginilah Hadits Maimunah itu. Akan tetapi demikianlah saya mendapatkannya di dalam kitabku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (249) Sahih Muslim (317)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>245</td></tr><tr><td>Arabic No</td><td>245</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Курайба: «Сообщил нам Ибн ‘Аббас о том, что его тетя Маймуна сказала: “Я поставила воды для омовения для Пророка ﷺ которой он мылся от осквенения, и он налил (воду) из сосуда на правую руку и помыл ее два или три раза. Затем, он налил воду на половые органы и помыл их левой рукой, после чего ударил рукой о землю и помыл ее. Затем он прополоснул рот и нос, и помыл лицо и руки, затем налил воду на голову и тело, после чего отошел в сторону и помыл свои ноги. Я протянула ему полотенце, но он не взял его и начал стряхивать с себя воду”».(Сулейман аль-А‘маш сказал:) «Я упомянул об этом Ибрахиму (ан-Наха‘и) и он сказал: “Они не видели в использовании полотенца ничего (неправильного), однако, им не нравилась эта привычка”».Абу Дауд сказал: «Мусаддад сказал: “Я сказал ‘Абдулле ибн Дауду: “Они не одобряли это в качестве привычки?” Он ответил: “Да, это так, но я нашел его таким в своей книге”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (249) Sahih Muslim (317)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>245</td></tr><tr><td>Arabic No</td><td>245</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
 

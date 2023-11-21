@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Do not deny your fathers (i.e. cla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh bin Al Faraj] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Ja'far bin Rabi'ah] dari [Irak] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi Shallallahu'alaihiwasallam bersabda; "Janganlah kalian membenci ayah-ayah kalian, sebab siapa saja yang membenci ayahnya adalah kekufuran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6768</td></tr><tr><td>Arabic No</td><td>6768</td></tr><tr><td>Reference</td><td>Book 85 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не отказывайтесь от своих отцов, ибо тот, кто отказывается от собственного отца(, впал в) неверие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6768</td></tr><tr><td>Arabic No</td><td>6768</td></tr><tr><td>Reference</td><td>Book 85 Hadith 44</td></tr></tbody></table></div>
 

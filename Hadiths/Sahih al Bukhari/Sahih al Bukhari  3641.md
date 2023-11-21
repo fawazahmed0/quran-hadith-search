@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muawiya:I heard the Prophet (ﷺ) saying, "A group of people amongst my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Al Walid] berkata, telah bercerita kepadaku [Ibnu Jabir] berkata, telah bercerita kepadaku ['Umair bin Hani'] bahwa dia mendengar [Mu'awiyah] berkata, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Senantiasa akan ada dari ummatku, (sekelompok) ummat yang tegak di atas urusan agama Allah, tidak dapat membahayakan mereka orang yang menghina mereka dan tidak pula orang yang menyelisih mereka hingga datang ketetapan Allah atas mereka dan mereka dalam keadaan seperti itu (tetap tegak dalam urusan agama Allah) ". ['Umair] berkata; "Maka [Malik bin Yukhamir] berkata; ' [Muadz] berkata; "Mereka berada di negeri Syam". Lalu Mu'awiyah berkata; Ini Malik, yang mengaku bahwa dia mendengar bahwa Mu'adz menyatakan bahwa sekelompok ummat itu berada di negeri Syam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3641</td></tr><tr><td>Arabic No</td><td>3641</td></tr><tr><td>Reference</td><td>Book 61 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умайр ибн Хани слышал, как Му‘авия (ибн Абу Суфьян) сказал: «Я слышал, как Пророк ﷺ сказал: “Не перестанет группа из моей общины исполнять веление Аллаха, не причинят им вреда те, кто оставит их без поддержки и кто будет противостоять им. И так будет до тех пор, пока не придёт повеление Аллаха, а они всё равно будут стоять на этом”». \nМалик Ибн Йухамир сказал: «Я слышал как Му‘аз (ибн Джабаль) сказал: “Они будут в Шаме”». Му‘авия сказал: «Этот Малик утверждает, что слышал от Му‘аза, как он сказал: “Они будут в Шаме”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3641</td></tr><tr><td>Arabic No</td><td>3641</td></tr><tr><td>Reference</td><td>Book 61 Hadith 145</td></tr></tbody></table></div>
 

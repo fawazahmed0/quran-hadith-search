@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Dinar:My father said, "I heard Ibn 'Umar reciting the poe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepada kami [Abu Qutaibah] berkata, telah menceritakan kepada kami ['Abdurrahman bin 'Abdullah bin Dinar] dari [Bapaknya] berkata, "Aku mendengar [Ibnu 'Umar] menirukan sya'irnya Abu Thalib, "#Wajahnya yang putih mengharap turunnya awan (hujan), #sumber kehidupan anak-anak yatim dan pelindung para janda." Dan [Umar bin Hamzah] berkata, telah menceritakan kepada kami [Salim] dari [Bapaknya], barangkali aku sebutkan kepadanya perkataan syair -sementara aku lihat wajah Nabi shallallahu 'alaihi wasallam meminta turunnya hujan. Maka beliau belum selesai, setiap aliran air telah penuh dengan air- Wajahnya yang putih mengharap turunnya awan (hujan), #sumber kehidupan anak-anak yatim dan pelindung para janda." Itulah perkataan Abu Thalib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1009</td></tr><tr><td>Arabic No</td><td>1009</td></tr><tr><td>Reference</td><td>Book 15 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Иной раз я вспоминал слова поэта, когда смотрел на лицо Пророка ﷺ обращавшегося к Аллаху с мольбой о ниспослании дождя и не спускавшегося (с минбара) до тех пор, пока вода не начинала бурлить в каждом водостоке. Это — слова Абу Талиба(, который сказал):\n И чистый, ради лика которого облака просят о дожде,\n кормилец сирот, защита вдов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1009</td></tr><tr><td>Arabic No</td><td>1009</td></tr><tr><td>Reference</td><td>Book 15 Hadith 4</td></tr></tbody></table></div>
 

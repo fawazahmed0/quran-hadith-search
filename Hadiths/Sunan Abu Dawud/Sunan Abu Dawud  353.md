@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Abi 'Amr and 'Ikrimah reported:Some people of Iraq came and said: Ibn 'Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Amru bin Abi Amru] dari [Ikrimah] bahwasanya beberapa orang dari Iraq datang dan berkata; Wahai [Ibnu Abbas], apakah engkau berpendapat bahwa mandi hari Jum'at itu wajib? Dia menjawab; Tidak, akan tetapi lebih suci dan lebih baik bagi orang yang mandi, dan barangsiapa yang tidak mandi, maka tidak ada kewajiban apa-apa atasnya. Saya akan memberitahukan kepada kalian, bagaimana asal mula diperintahkannya mandi. Pernah kehidupan orang-orang dalam keadaan sulit, mereka memakai kain wol, bekerja berat mengangkat barang, sementara masjid mereka sempit, ketika itu atapnya rendah, karena hanya terbuat dari pelepah kurma. Maka Rasulullah shallallahu 'alaihi wasallam datang pada hari yang bercuaca panas, sedangkan orang-orang berkeringat membasahi pakaiannya yang terbuat dari wol, sehingga angin yang bertiup membawa bau kurang enak meraka, yang menyebabkan mereka satu sama lain merasa terganggu. Setelah Rasulullah shallallahu 'alaihi wasallam mencium bau yang kurang enak itu, beliau bersabda: "Wahai jama'ah sekalian, apabila datang hari (Jum'at), maka mandilah, dan pakailah minyak dan wangi-wangian yang paling baik sedapatnya." Ibnu Abbas berkata; Kemudian Allah memberi kelapangan, mereka memakai pakaian bukan dari wol lagi, juga diberi kecukupan pekerjaan, masjid mereka diperluas, dan bau keringat kurang enak, yang menyebabkan mereka satu sama lain merasa terganggu pun telah hilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>353</td></tr><tr><td>Arabic No</td><td>353</td></tr><tr><td>Reference</td><td>Book 1 Hadith 353</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Икримы о том, что однажды (к Ибн ‘Аббасу) пришли люди из числа жителей Ирака и сказали: «О Ибн ‘Аббас, считаешь ли ты, что купание /гъусль/ в пятницу является обязательным?» Он сказал: «Нет. Однако это чище (для тела) и лучше (по вознаграждению) для того, кто искупается. А тот, кто не искупается, то он не обязан (делать это), И я расскажу вам, как это возникло. (В то время) люди трудились, одевались в одежду из шерсти и работали в поте лица. Их мечеть была тесной и с низким потолком наподобие навеса. И (однажды) днем, когда стояла жара, Посланник Аллаха ﷺ вышел а люди так вспотели в этой шерстяной (одежде), что от них исходил запах, которым они мешали друг другу. Когда Посланник Аллаха ﷺ почувствовал этот запах, он сказал: “О люди! Каждый раз, когда наступает этот день – искупайтесь, и будет лучше, если вы используете масла или благовония, которые найдете”.Ибн ‘Аббас сказал: “После этого Аллах дал им благо и люди поменяли свою шерстяную одежду, перестали работать, их мечети стали шире, и исчезло то, что вызывало потение и причиняло страдания одним от других”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>353</td></tr><tr><td>Arabic No</td><td>353</td></tr><tr><td>Reference</td><td>Book 1 Hadith 353</td></tr></tbody></table></div>
 

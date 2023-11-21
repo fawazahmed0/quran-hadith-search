@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Bakr (que Dieu l'agrée) a dit : "Quand nous nous mîmes en route de La Mec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Barra'] dia berkata, " [Abu Bakar As Shidiq] berkata, "Ketika kami keluar bersama-sama dengan Nabi shallallahu 'alaihi wasallam dari Makkah menuju Madinah, kami melewati seorang penggembala, ketika itu Rasulullah shallallahu 'alaihi wasallam sangat kehausan." Abu Bakar berkata, "Lalu saya memeraskan untuk beliau sedikit dari air susu (kambing milik pengembala), kemudian saya membawanya ke hadapan beliau lalu beliau meminumnya sampai saya merasa puas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>2009.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>2009.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 112</td></tr></tbody></table></div>
 

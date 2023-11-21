@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A man of Banu Taghlib: Harb ibn Ubaydullah ibn Umayr ath-Thaqafi told o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ibrahim Al Bazzaz], telah menceritakan kepada kami [Abu Nu'aim], telah menceritakan kepada kami [Abdussalam] dari ['Atho' bin As Saib] dari [Harb bin 'Ubaidullah bin 'Umair Ats Tsaqafi], dari [kakeknya], yaitu seorang laki-laki dari Bani Taghlib. Ia berkata; aku datang kepada Nabi shallallahu 'alaihi wasallam kemudian aku masuk Islam dan beliau mengajariku Islam, dan mengajariku bagaimana aku mengambil zakat dari kaumku diantara orang-orang yang masuk Islam. Kemudian aku kembali kepadanya dan aku katakan; wahai Rasulullah, seluruh apa yang anda ajarkan telah aku hafal, kecuali zakat. Apakah aku mengambil sepersepuluh dari mereka? Ia berkata; tidak, sesungguhnya sepersepuluh adalah kewajiban atas orang-orang nashrani dan yahudi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3049</td></tr><tr><td>Arabic No</td><td>3049</td></tr><tr><td>Reference</td><td>Book 20 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Харб ибн ‘Убайдуллах ибн ‘Умайр ас-Сакафи передаёт от своего деда, человека из бану таглиб: «Я пришёл к Пророку ﷺ и стал мусульманином. Он научил меня исламу и научил меня, как мне собирать закят со своих принявших ислам соплеменников. Потом я снова пришёл к нему и сказал: “О Посланник Аллаха! Я запомнил всё, что ты сказал мне, за исключением предписания о закяте. Брать ли мне с них десятину?” (Посланник Аллаха ﷺ) сказал: “Десятина взимается с христиан и иудеев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3049</td></tr><tr><td>Arabic No</td><td>3049</td></tr><tr><td>Reference</td><td>Book 20 Hadith 122</td></tr></tbody></table></div>
 

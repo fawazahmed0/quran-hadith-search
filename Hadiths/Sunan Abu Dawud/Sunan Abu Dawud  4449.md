@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Umar: A group of Jews came and invited the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah menceritakan kepadaku [Hisyam bin Sa'd] bahwa [Zaid bin Aslam] ia menceritakan kepadanya dari [Ibnu Umar] ia berkata, "Beberapa orang yahudi datang dan mengundang Rasulullah shallallahu 'alaihi wasallam untuk hadir ke Quff (tempat dekat Madinah), lalu beliau mendatangi mereka di tempat yang biasa mereka gunakan untuk mengaji. Mereka berkata, "Wahai Abul Qasim, seorang laki-laki di antara kami berzina dengan seorang wanita, maka tetapkanlah hukum bagi mereka." Mereka lantas memberi bantal Rasulullah shallallahu 'alaihi wasallam untuk digunakan duduk, beliau pun duduk. Kemudian beliau minta diambilkan Taurat, naskah Taurat itu lalu diberikan kepada beliau. Beliau menarik bantal yang didudukinya dan meletakkan Taurat tersebut di atasnya seranya bersabda: "Aku beriman kepadamu dan kepada Dzat Yang menurunkanmu." Setelah itu beliau bersabda: "Hadirkanlah kepadaku orang yang paling paham di antara kalian." Lalu dihadirkanlah seorang pemuda, lalu ia menyebutkan kisah rajam sebagaimana hadits Malik dari Nafi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4449</td></tr><tr><td>Arabic No</td><td>4449</td></tr><tr><td>Reference</td><td>Book 40 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что группа иудеев пришла к Посланнику Аллаха ﷺ и позвала его в аль-Куфф (долина в Медине) в свой мидрас (место, в котором читали и изучали Тору). Когда он пришёл, они сказали: «О Абу аль-Касим, поистине, один мужчина из нашего числа совершил прелюбодеяние с женщиной. Вынеси же решение по их делу». Они подали Посланнику Аллаха ﷺ подушку, и он сел на неё, после чего сказал: «Принесите мне Тору». И он вытащил из-под себя подушку, положил на неё Тору и сказал: «Уверовал я в тебя и в Того, Кто ниспослал тебя!» Затем он сказал: «Позовите ко мне самого знающего из вас». Они привели к нему молодого человека… Далее он рассказал историю побивания камнями, подобную приведённой выше
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4449</td></tr><tr><td>Arabic No</td><td>4449</td></tr><tr><td>Reference</td><td>Book 40 Hadith 99</td></tr></tbody></table></div>
 

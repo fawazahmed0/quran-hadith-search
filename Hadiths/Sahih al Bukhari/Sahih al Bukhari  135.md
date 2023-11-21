@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The prayer of a person who d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] berkata, telah mengabarkan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] bahwa ia mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan diterima shalat seseorang yang berhadats hingga dia berwudlu." Seorang laki-laki dari Hadlramaut berkata, "Apa yang dimaksud dengan hadats wahai Abu Hurairah?" Abu Hurairah menjawab, "Kentut baik dengan suara atau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>135</td></tr><tr><td>Arabic No</td><td>135</td></tr><tr><td>Reference</td><td>Book 4 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хаммама ибн Мунаббиха о том, что он слышал, как Абу Хурайра, да будет доволен им Аллах, говорил: «Посланник Аллаха ﷺ сказал: “Не будет принята молитва от осквернившегося, пока он не совершит омовение”. Один человек из Хадрамаута спросил: “А что такое осквернение /хадас/, о Абу Хурайра?” Он ответил: “Тихое или громкое испускание ветров”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>135</td></tr><tr><td>Arabic No</td><td>135</td></tr><tr><td>Reference</td><td>Book 4 Hadith 1</td></tr></tbody></table></div>
 

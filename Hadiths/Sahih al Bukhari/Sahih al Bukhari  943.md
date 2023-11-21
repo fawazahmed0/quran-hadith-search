@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said something similar to Mujahid's saying: Whenever (M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Yahya bin Sa'id Al Qurasyi] berkata, telah menceritakan kepadaku [Bapakku] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar] seperti ucapan Mujahid, "Bila mereka dalam keadaan genting, mereka shalat dengan berdiri." Ibnu 'Umar menambahkan dari Nabi shallallahu 'alaihi wasallam, "Apabila musuh lebih banyak dari mereka (pasukan kaum Muslimin), maka mereka shalat dengan berdiri dan di atas kendaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>943</td></tr><tr><td>Arabic No</td><td>943</td></tr><tr><td>Reference</td><td>Book 12 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии этого хадиса сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ сказал: “А если (врагов) будет больше, (чем мусульман,) пусть (мусульмане) совершают молитву (самостоятельно) как стоя, так и сидя верхом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>943</td></tr><tr><td>Arabic No</td><td>943</td></tr><tr><td>Reference</td><td>Book 12 Hadith 2</td></tr></tbody></table></div>
 

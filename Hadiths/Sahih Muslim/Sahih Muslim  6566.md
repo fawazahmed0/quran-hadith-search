@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha said:No trouble comes to a believer even if it is the pricking of a thorn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ath Thahir]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Malik bin Anas] dari [Yazid bin Khushaifah] dari ['Urwah bin Az Zubair] dari ['Aisyah] istri Nabi shallallahu 'alaihi wasallam bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada satupun musibah (cobaan) yang menimpa seorang muslim walaupun berupa duri, melainkan dengannya Allah akan memotong atau menghapus kesalahannya." Yazid tidak tahu mana diantara keduanya yang dikatakan Urwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6566</td></tr><tr><td>Arabic No</td><td>2572.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6566</td></tr><tr><td>Arabic No</td><td>2572.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 64</td></tr></tbody></table></div>
 

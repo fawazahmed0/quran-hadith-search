@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:None of you should drink 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdul Jabbar bin Al 'Alaa']; Telah menceritakan kepada kami [Marwan] yaitu Al Fazari; Telah menceritakan kepada kami ['Umar bin Hamzah]; Telah mengabarkan kepadaku [Abu Ghathafan Al Murri] bahwa dia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah sekali-kali salah seorang diantara kalian minum sambil berdiri, apabila dia lupa maka muntahkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5279</td></tr><tr><td>Arabic No</td><td>2026</td></tr><tr><td>Reference</td><td>Book 36 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5279</td></tr><tr><td>Arabic No</td><td>2026</td></tr><tr><td>Reference</td><td>Book 36 Hadith 153</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported that Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handlali] telah mengabarkan kepada kami [Makhlad bin Yazid Al Jazari] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku ['Atha'] dari [Jabir bin Abdullah] bahwa Rasulullah Shallallu 'alaihi wa sallam melarang jual beli mukhabarah, muhaqalah, muzabanah, melarang menjual buah hingga layak untuk dimakan, dan melarang membeli melainkan dengan dinar atau dirham kecuali jual beli 'araya. 'Atha' berkata; "Jabir menjelaskan kepada kami, bahwa Mukhabarah adalah menyewakan tanah gersang dengan hasil tanaman dari tanah tersebut, Muzabanah ialah jual beli kurma basah dengan kurma kering dengan takaran yang sama, Muhaqalah ialah jual beli tanaman yang masih di pohon dengan biji-bijian yang ditakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3910</td></tr><tr><td>Arabic No</td><td>1536.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3910</td></tr><tr><td>Arabic No</td><td>1536.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 109</td></tr></tbody></table></div>
 

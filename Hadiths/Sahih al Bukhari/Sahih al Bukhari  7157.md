@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:A man embraced Islam and then reverted back to Judaism. Mu'adh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Shabah] telah menceritakan kepada kami [Mahbub bin Al Hasan] telah menceritakan kepada kami [Khalid] dari [Humaid bin Hilal] dari [Abu Burdah] dari [Abu Musa], ada seorang laki-laki masuk Islam kemudian masuk agama yahudi, lantas ia mendatangi Mu'adz bin Jabal yang ketika itu ia berada di dekat Abu Musa, maka Abu Musa bertanya: 'Memangnya kenapa orang ini? ' Mu'adz bin Jabal menjawab: 'orang ini masuk Islam, namun kemudian masuk agama yahudi." Spontan Abu Musa mengatakan; "saya tidak sudi duduk hingga aku membunuhnya sebagai ketetapan Allah dan rasul-Nya Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7157</td></tr><tr><td>Arabic No</td><td>7157</td></tr><tr><td>Reference</td><td>Book 93 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда передаёт от Абу Мусы (аль-Аш‘ари), да будет доволен им Аллах, что однажды один человек принял Ислам, а затем принял иудейство. Когда Му‘аз приехал к (Абу Мусе), этот человек находился у Абу Мусы, и спросил: «Что с ним?» Абу Муса сказал: «Этот человек принял Ислам, а потом принял иудейство». (Му‘аз) сказал: «Я не сяду, пока не казню его, ибо таково решение Аллаха и Его Посланника ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7157</td></tr><tr><td>Arabic No</td><td>7157</td></tr><tr><td>Reference</td><td>Book 93 Hadith 21</td></tr></tbody></table></div>
 

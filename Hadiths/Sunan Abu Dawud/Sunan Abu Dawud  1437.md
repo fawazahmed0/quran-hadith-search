@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. Abu Qais said:I asked 'Aishah about the witr observes by the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id?], telah menceritakan kepada Kami [Al Laits bin Sa'd] dari [Mu'awiyah bin Shalih] dari [Abdullah bin Abu Qais], ia berkata; saya bertanya kepada [Aisyah] mengenai witir Rasulullah shallAllahu wa'alaihi wa sallam, ia berkata; terkadang beliau melakukan witir pada awal malam, dan terkadang melakukan witir di akhirnya. Saya katakan; bagaimana bacaan beliau, apakah beliau menyamarkan bacaan atau mengeraskannya? Aisyah berkata; semua itu pernah beliau lakukan. Beliau terkadang menyamarkan dan terkadang mengeraskan, terkadang beliau mandi kemudian tidur terkadang beliau berwudhu kemudian tidur. Abu Daud berkata; selain Qutaibah berkata; yang dimaksudkan Aisyah adalah ketika dalam keadaan junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1437</td></tr><tr><td>Arabic No</td><td>1437</td></tr><tr><td>Reference</td><td>Book 8 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Абу Кайса: «Я спросил ‘Аишу, да будет доволен ею Аллах о том, как Посланник Аллаха ﷺ совершал молитву-витр, и она ответила: “Иногда он совершал витр в начале ночи, иногда в конце”. Я спросил: “Как Посланник Аллаха ﷺ читал Коран: вслух или шёпотом?” Она ответила: “Он поступал и так, и так. Иногда он читал вслух, иногда шёпотом. И иногда он совершал полное омовение, а потом засыпал, а иногда совершал малое омовение и засыпал”». Абу Дауд сказал: «Другие передатчики, кроме Кутайбы, сказали, что она имела в виду большое осквернение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1437</td></tr><tr><td>Arabic No</td><td>1437</td></tr><tr><td>Reference</td><td>Book 8 Hadith 22</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:When the (following) Verse was revealed to Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], ['Amru] berkata, "Aku mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata, "Ketika diturunkan kepada Rasulullah shallallahu 'alaihi wasallam ayat: '(Katakanlah, Dialah Allah yang mampu mengutus siksa kepada kalian dari atas kamu) ' (Qs. Al an'aam: 65), maka Rasulullah berdoa: 'Aku berlindung dengan wajah-Mu, '(Atau dari bawah kakimu) ', Nabi berdoa: "Aku berlindung dengan wajah-Mu, " maka dikala diturunkan: '(atau menjadikan kalian berkelompok-kelompok dan menjadikan sebagian di antara kalian merasakan keganasan sebagian yang lain) ', maka Rasulullah bersabda: "Perpecahan dan keganasan konflik ini lebih ringan, atau beliau katakan 'lebih remeh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7313</td></tr><tr><td>Arabic No</td><td>7313</td></tr><tr><td>Reference</td><td>Book 96 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен Аллах им и его отцом, сказал: «Когда был ниспослан Посланнику Аллаха аят: “Скажи: “Он может наслать на вас наказание сверху…”, Посланник Аллаха ﷺ сказал: “Прибегаю к защите лика Твоего! /А‘узу би-ваджхи-Кя!/” Когда (Аллах) сказал: “…и из-под ног ваших…”, — он сказал: “Прибегаю к защите лика Твоего!” А когда же было ниспослано: “…или разделить вас на группы и дать одним из вас вкусить силу других”, Посланник Аллаха ﷺ сказал: “Последнее легче”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7313</td></tr><tr><td>Arabic No</td><td>7313</td></tr><tr><td>Reference</td><td>Book 96 Hadith 44</td></tr></tbody></table></div>
 

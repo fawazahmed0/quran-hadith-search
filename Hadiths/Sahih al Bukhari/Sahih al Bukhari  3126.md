@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:A bedouin asked the Prophet, "A man may fight for t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari ['Amru] berkata aku mendengar [Abu Wa'il] berkata telah bercerita kepadaku [Abu Musa Al Asy'ariy radliallahu 'anhu] berkata; "Ada seorang Arab Baduy berkata kepada Nabi Shallallahu'alaihiwasallam: " Ada seseorang berperang untuk mendapatkan ghanimah, seseorang yang lain agar menjadi terkenal dan seseorang yang lain lagi untuk dilihat kedudukannya, manakah yang disebut fii sabilillah?". Maka Beliau bersabda: "Siapa yang berperang untuk meninggikan kalimat Allah dialah yang disebut fii sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3126</td></tr><tr><td>Arabic No</td><td>3126</td></tr><tr><td>Reference</td><td>Book 57 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Однажды какой-то бедуин спросил Пророка ﷺ: “Один человек сражается ради трофеев, (другой) сражается ради славы, а (третий) сражается напоказ, так кто же [из них находится] на пути Аллаха?” Он сказал: “Кто сражался, чтобы слово Аллаха было превыше всего, тот на пути Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3126</td></tr><tr><td>Arabic No</td><td>3126</td></tr><tr><td>Reference</td><td>Book 57 Hadith 35</td></tr></tbody></table></div>
 

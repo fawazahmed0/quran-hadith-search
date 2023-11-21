@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: I was on an expedition along with the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dan [Isma'il] dari [Burd bin Sinan] dari ['Atha] dari [Jabir] ia berkata, "Dahulu kami pernah berperang bersama Rasulullah shallallahu 'alaihi wasallam, lalu kami mendapatkan bejana orang-orang musyrik dan tempat minum mereka. Lalu kami menggunakannya dan beliau tidak mencela mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3838</td></tr><tr><td>Arabic No</td><td>3838</td></tr><tr><td>Reference</td><td>Book 28 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен Аллах им и его отцом, передаёт: «Мы участвовали в военных походах вместе с Посланником Аллаха ﷺ и нам доставалась посуда многобожников и их сосуды для питья, и мы пользовались ими, и Посланник Аллаха ﷺ не упрекал нас за это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3838</td></tr><tr><td>Arabic No</td><td>3838</td></tr><tr><td>Reference</td><td>Book 28 Hadith 103</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira that the Messenger of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan lafazh tersebut milik Yahya, keduanya berkata, telah menceritakan kepada kami [Ismail bin Ja'far] dia berkata, telah mengabarkan kepada kami [Abu Suhail Nafi' bin Malik bin Abu Amir] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tanda-tanda orang munafik ada tiga: apabila dia berbicara niscaya dia berbohong, apabila dia berjanji niscaya mengingkari, dan apabila dia dipercaya niscaya dia berkhianat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>211</td></tr><tr><td>Arabic No</td><td>59.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Лицемера отличают три признака: рассказывая (о чём-либо), он лжёт, обещая (что-либо), он нарушает (своё обещание), а когда ему доверяются, он предаёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>211</td></tr><tr><td>Arabic No</td><td>59.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
 

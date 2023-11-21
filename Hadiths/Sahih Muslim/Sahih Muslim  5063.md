@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that Allah's Messenger (ﷺ) forbade that any beast 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; [Ibnu Juraij] berkata; telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam melarang menjadikan binatang bernyawa sebagai sasaran (menembak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5063</td></tr><tr><td>Arabic No</td><td>1959</td></tr><tr><td>Reference</td><td>Book 34 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5063</td></tr><tr><td>Arabic No</td><td>1959</td></tr><tr><td>Reference</td><td>Book 34 Hadith 92</td></tr></tbody></table></div>
 

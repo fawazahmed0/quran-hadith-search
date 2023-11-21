@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali reported:The Messenger of Allah (ﷺ) said: On the day (of the Battle) of Ah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar], [Ibnul Mutsanna] mengatakan; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah], katanya; Aku mendengar [Qatadah] menceritakan dari [Abu Hissan] dari [Abidah] dari [Ali] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda ketika perang Ahzab: "Mereka telah menyibukkan kami dari shalat wustha hingga matahari terbenam, semoga Allah memenuhi kuburan mereka dengan api." -atau dengan redaksi lain- "Rumah mereka atau lembah mereka", -Syu'bah ragu tentang redaksi rumah atau lembah.- Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Said] dari [Qatadah] dengan sanad ini, ia mengatakan; "Rumah dan kuburan mereka." Ia tidak meragukan redaksi haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>627.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Али, что Посланник Аллаха ﷺ сказал в День (нашествия союзных) племён: «Они отвлекли нас от совершения средней молитвы (так, что уже) скрылось солнце! Да наполнит Аллах их могилы, дома и утробы огнём!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>627.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 256</td></tr></tbody></table></div>
 

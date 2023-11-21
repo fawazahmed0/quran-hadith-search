@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:I asked Anas about the fasting of the Prophet. He said "Whenever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Muhammad]. Dia adalah Ibnu Salam telah mengabarkan kepada kami [Abu Khalid Al Ahmar] telah mengabarkan kepada kami dari [Humaid] berkata; Aku bertanya kepada [Anas radliallahu 'anhu] tentang shaum Nabi shallallahu 'alaihi wasallam. Dia berkata: "Tidaklah aku ingin melihat Beliau berpuasa dalam suatu bulan kecuali aku pasti melihatnya, begitu juga tidaklah aku ingin melihat beliau tidak berpuasa, pasti aku juga bisa melihatnya. Dan saat Beliau berdiri shalat malam melainkan aku melihatnya begitu juga bila Beliau tidur melainkan aku juga pernah melihatnya. Dan belum pernah aku menyentuh sutera campuran ataupun sutera halus yang melebihi halusnya telapak tangan Rasulullah shallallahu 'alaihi wasallam dan belum pernah pula aku mencium bau wewangian minyak kasturi dan wewangian lain yang lebih harum dari keharuman (badan) Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1973</td></tr><tr><td>Arabic No</td><td>1973</td></tr><tr><td>Reference</td><td>Book 30 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда Анаса, да будет доволен им Аллах, спросили о посте Пророка ﷺ, он сказал: «В какой бы месяц ни хотелось мне видеть его постящимся, я непременно видел его (постящимся), и то же самое случалось, когда я хотел видеть, что он не постится; и когда я хотел видеть, что он совершает молитву ночью, я видел, что он совершает его, и когда я хотел видеть его спящим, я видел его спящим. И я никогда не касался шелков, которые были бы мягче руки Посланника Аллаха ﷺ, и никогда не вдыхал аромата мускуса или иных благовоний, который был бы приятнее запаха, исходившего от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1973</td></tr><tr><td>Arabic No</td><td>1973</td></tr><tr><td>Reference</td><td>Book 30 Hadith 80</td></tr></tbody></table></div>
 

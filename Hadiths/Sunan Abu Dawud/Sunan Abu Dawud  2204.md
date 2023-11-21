@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hammad ibn Zayd said:I asked Ayyub: Do you know anyone who narrates the traditio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Sulaiman bin Harb] dari [Hammad bin Zaid], ia berkata; aku katakan kepada [Ayyub]; apakah engkau mengetahui seseorang yang berpendapat dengan pendapat Al Hasan menganai ucapan "Urusanmu ada di tanganmu"? Ayyub berkata; tidak, kecuali sesuatu yang telah diceritakan [Qatadah] kepada kami, dari [Katsir] mantan budak Ibnu Samurah dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan hadits seperti hadits tersebut. Ayyub berkata; kemudian Katsir datang kepada kami dan aku tanyakan kepadanya; ia berkata; aku tidak menceritakan demikian ini sama sekali. Kemudian hal tersebut aku ceritakan kepada Qatadah, maka Qatadah berkata; betul, akan tetapi ia lupa. Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Hisyam], dari [Qatadah] dari [Al Hasan] mengenai kata "Urusanmu ada di tanganmu", ia berkata; hal tersebut adalah tiga kali talak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2204</td></tr><tr><td>Arabic No</td><td>2204</td></tr><tr><td>Reference</td><td>Book 13 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хаммада ибн Зейда: «Я спросил Айюба: “Знаешь ли ты кого-нибудь, кто разделял бы мнение аль-Хасана относительно слов: “Твоя судьба в твоих руках”?” Он ответил: “Нет, если не считать того, что Катада передавал нам от Касира, вольноотпущенника Ибн Самуры, от Абу Салямы от Абу Хурайры, а тот от Пророка ﷺ нечто подобное”. Айюб сказал: “К нам приходил Касир, и я спросил его об этом. Он же сказал: “Я никогда не говорил ничего подобного”. И я рассказал об этом Катаде, и он сказал: “Нет, он говорил, просто забыл””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2204</td></tr><tr><td>Arabic No</td><td>2204</td></tr><tr><td>Reference</td><td>Book 13 Hadith 30</td></tr></tbody></table></div>
 

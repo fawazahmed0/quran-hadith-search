@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) prescribed the sadaqah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Mahmud bin Khalid Ad Dimasyqi] dan [Abdullah bin Abdurrahman As Samarqandi] berkata; telah menceritakan kepada Kami [Marwan], Abdullah berkata; telah menceritakan kepada Kami [Abu Yazid Al Khaulani] ia adalah syekh yang jujur, dan Ibnu Wahb telah meriwayatkan darinya, telah menceritakan kepada Kami [Sayyar bin Abdurrahman], Mahmud Ash Shadafi berkata; dari [Ikrimah] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam mewajibkan zakat fitrah untuk mensucikan orang yang berpuasa dari bersenda gurau dan kata-kata keji, dan juga untuk memberi makan miskin. Barangsiapa yang menunaikannya sebelum shalat maka zakatnya diterima dan barangsiapa yang menunaikannya setelah shalat maka itu hanya sedekah diantara berbagai sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1609</td></tr><tr><td>Arabic No</td><td>1609</td></tr><tr><td>Reference</td><td>Book 9 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ вменил в обязанность (мусульманам) закят аль-фитр как очищение для постящегося от скверны пустословия и непристойности, а также как питание бедным. И кто выплатил его до праздничной молитвы, его закят принимается, а кто сделал это уже после праздничной молитвы, то это будет обычная милостыня, из числа милостыней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1609</td></tr><tr><td>Arabic No</td><td>1609</td></tr><tr><td>Reference</td><td>Book 9 Hadith 54</td></tr></tbody></table></div>
 

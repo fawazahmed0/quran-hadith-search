@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dharr reported the Messenger of Allah (May peace be upon him) as saying :How
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Mutharrif bin Tharif] dari [Abul Jahm] dari [Khalid bin Wahban] dari [Abu Dzar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang kalian lakukan jika para pemimpin setelahku saling berebut (mempertahankan) harta fai'?" Aku menjawab, "Jika begitu, maka demi Dzat yang mengutusmu dengan Al Haq, aku akan meletakkan pedangku dipundak, aku akan berperang dengannya hingga aku berjumpa denganmu, atau perawi menyebutkan, "hingga aku menyusulmu." Beliau bersabda: "Maukah aku tunjukkan dengan yang lebih baik dari itu? Bersabarlah hingga engkau berjumpa denganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4759</td></tr><tr><td>Arabic No</td><td>4759</td></tr><tr><td>Reference</td><td>Book 42 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Зарра: «Посланник Аллаха ﷺ сказал: “Как вы будете себя вести, когда правители после меня будут присваивать это имущество /файъ/?” Я сказал: “О Посланник Аллаха, я положу меч на плечо и буду рубить им, пока не встречу тебя”. Он сказал: “Я укажу тебе на нечто лучшее. Терпи, пока не встретишься со мной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4759</td></tr><tr><td>Arabic No</td><td>4759</td></tr><tr><td>Reference</td><td>Book 42 Hadith 164</td></tr></tbody></table></div>
 

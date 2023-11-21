@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Maryam said:This man with the crippled hand was on that day with us in the m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Khalid] berkata, telah menceritakan kepada kami [Syababah bin Sawwar] dari [Nu'aim bin Hakim] dari [Abu Maryam] ia berkata, "Ada seseorang yang pendek bersama kami dalam masjid, kami selalu duduk bersamanya baik di waktu siang maupun malam. Dia seorang yang fakir, aku juga melihatnya bergabung dengan orang-orang miskin menghadiri jamuan Ali radliallahu 'anhu bersama orang banyak. Aku memberinya burnus (sejenis mantel yang bertudung)." Abu Maryam melanjutkan, "Laki-laki pendek itu biasa dipanggil dengan nama Nafi', pemilik dua buah dada, tangannya seperti dada perempuan, dan pada panggal lengannya seperti puting susu yang ditumbuhi bulu seperti bulu kucing." Abu Dawud berkata, "Bagi orang-orang ia biasa dipanggil dengan nama Harqus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4770</td></tr><tr><td>Arabic No</td><td>4770</td></tr><tr><td>Reference</td><td>Book 42 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Марьям: «Этот человек с изуродованной рукой был вместе с нами в мечети, и мы просиживали вместе дни и ночи. Он был бедняком, и я видел, как он вместе с другими бедняками приходил на угощение, которое устраивал ‘Али. Я отдал ему свой плащ». Абу Марьям сказал: «Этого человека с изуродованной рукой звали Нафи‘, но у него было прозвище “обладатель груди”, потому что на одной руке у него было подобие женской груди с соском, покрытое волосками, похожими на кошачьи усы». Абу Дауд сказал: «Утверждали также, что его звали Харкус»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4770</td></tr><tr><td>Arabic No</td><td>4770</td></tr><tr><td>Reference</td><td>Book 42 Hadith 175</td></tr></tbody></table></div>
 

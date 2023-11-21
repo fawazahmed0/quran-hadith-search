@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) forbade the selling of foodstuff before re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata: "Yang kami ingat dari ['Amru bin Dinar] bahwa dia mendengar [Thawus] berkata; Aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Yang dilarang oleh Nabi shallallahu 'alaihi wasallam adalah makanan yang dijual kembali kecuali telah dipegangnya (berada ditangannya secara sah) ". Ibnu 'Abbas radliallahu 'anhuma: "Aku memandang segala sesuatu tidak lain kecuali seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2135</td></tr><tr><td>Arabic No</td><td>2135</td></tr><tr><td>Reference</td><td>Book 34 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Что касается того, что запретил Пророк ﷺ, то это продавать продукты питания, пока они не будут у него (полностью) на руках». Ибн ‘Аббас так же сказал: «Я считаю, что всё подобно продуктам питания (в этом вопросе)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2135</td></tr><tr><td>Arabic No</td><td>2135</td></tr><tr><td>Reference</td><td>Book 34 Hadith 87</td></tr></tbody></table></div>
 

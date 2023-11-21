@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yazid b. Habib:The Prophet (ﷺ) prayed over the martyrs of Uhud after 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Al Laits] dari [Yazid? bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] bahwa Rasulullah shallallahu 'alaihi wasallam keluar pada suatu hari, kemudian ia menshalatkan para korban perang Uhud sebagaimana beliau menshalatkan orang yang meninggal, kemudian beliau pergi. Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Yahya bin Adam], telah menceritakan kepada kami [Ibnu Al Mubarak] dari [Yahwah bin Syuraih] dari [Yazid? bin Abu Habib] dengan hadits ini. Ia berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam menshalatkan orang-orang yang terbunuh pada perang Uhud setelah delapan tahun seperti orang yang hendak meninggalkan orang yang hidup dan mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+А в версии Язида ибн Абу Хабиба говорится, что Пророк ﷺ совершил молитву по убитым в битве при Ухуде спустя восемь лет, прощаясь с живыми и мёртвыми
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
 

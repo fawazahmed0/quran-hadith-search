@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet (ﷺ) said, "Do you think if the tribes of Aslam,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Wahab] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Abi Ya'qub] dari [Abdurrahman bin Abi Bakrah] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam, bersabda: "Bagaimana pendapat kalian jika Aslam, Ghifar, Muzainah, dan Juhainah lebih baik dari Bani tamim, Amir bin Sho'sho'ah, Ghathafan, dan Asad yang mereka celaka dan rugi?" Mereka menjawab; 'Baik." Nabi lantas bersabda: "Demi Dzat yang jiwaku di Tangan-Nya, sesungguhnya mereka lebih baik daripada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6635</td></tr><tr><td>Arabic No</td><td>6635</td></tr><tr><td>Reference</td><td>Book 83 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Бакры, что Пророк ﷺ сказал: «Как вы думаете, что если (племена) аслям, гифар, музайна и джухайна лучше (племён) тамим, ‘амир ибн са‘са‘а, гатафан и асад, то они оказались в убытке и понесли ущерб?» Они сказал: «Да». Тогда (Пророк ﷺ) сказал: «Клянусь Тем, в Чьей Руке душа моя, они (и в самом деле) лучше их!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6635</td></tr><tr><td>Arabic No</td><td>6635</td></tr><tr><td>Reference</td><td>Book 83 Hadith 14</td></tr></tbody></table></div>
 

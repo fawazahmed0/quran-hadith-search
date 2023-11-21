@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), "Al-'Abbâs' Ibn 'Abd Al-Muttal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ibnu Numair] dan [Abu Usamah] keduanya berkata, Telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Numair] -lafazh juga miliknya- Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Al Abbas bin Abdul Muthalib meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk bermalam di Makkah pada malam-malam di Mina, dengan tujuan agar ia dapat memberi minum jama'ah haji, maka beliau pun mengizinkannya. Dan Telah menceritakannya kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] -dalam riwayat lain- Dan telah menceritakannya kepadaku [Muhammad bin Hatim] dan [Abdu bin Humaid] semuanya dari [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] keduanya dari [Ubaidullah bin Umar] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3177</td></tr><tr><td>Arabic No</td><td>1315.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 381</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3177</td></tr><tr><td>Arabic No</td><td>1315.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 381</td></tr></tbody></table></div>
 

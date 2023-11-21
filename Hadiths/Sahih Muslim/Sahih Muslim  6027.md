@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : Des bédouins vinrent trouver le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Numair] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; 'Sekelompok orang dari bangsa Arab dusun datang menemui Rasulullah shallallahu 'alaihi wasallam, lalu mereka bertanya kepada; 'Apakah kalian biasa mencium bayi-bayi kalian? Para sahabat menjawab; 'Ya.' Lalu mereka berkata; 'Demi Allah, kami tidak pernah menciumnya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: Saya tidak kuasa bila Allah 'azza wajalla mencabut rasa kasih sayang darimu." Ibnu Numair berkata dengan redaksi; 'rasa kasih sayang dari hatimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6027</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6027</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
 

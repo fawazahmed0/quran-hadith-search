@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Sa'd reported Allah's Messenger (ﷺ) as saying:The inmates of Paradise 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman Al Qari'] dari [Abu Hazim] dari [Sahl bin Sa'ad] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya penghuni surga saling melihat kamar-kamar di surga seperti melihat bintang di langit." Ia berkata: Lalu aku menceritakannya pada [An Nu'man bin Abu Ayyasy], ia berkata: Aku mendengar [Abu Sa'id Al Khudri] berkata: Seperti kalian melihat binatang terang diufuk timur atau barat. Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Al Makhzumi] telah menceritakan kepada kami [Wuhaib] dari [Abu Hazim] dengan kedua sanad sekaligus seperti hadits Ya'qub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7142</td></tr><tr><td>Arabic No</td><td>2831.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7142</td></tr><tr><td>Arabic No</td><td>2831.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 11</td></tr></tbody></table></div>
 

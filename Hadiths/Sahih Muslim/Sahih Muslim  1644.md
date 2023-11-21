@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported the Messenger of Allah (ﷺ) as saying:When the prayer comm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Warqa'] dari ['Amru bin Dinar] dari ['Atha' bin Yasar] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika iqamat telah dikumandangkan, maka tak ada shalat selain shalat wajib." Telah menceritakan kepada kami [Muhammad bin Hatim] dan [Ibnu Rafi'] keduanya berkata; telah menceritakan kepada kami [Syababah] telah menceritakan kepadaku [Warqa'] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1644</td></tr><tr><td>Arabic No</td><td>710.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда объявляют о начале молитвы, не следует совершать никакой молитвы, кроме обязательной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1644</td></tr><tr><td>Arabic No</td><td>710.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 75</td></tr></tbody></table></div>
 

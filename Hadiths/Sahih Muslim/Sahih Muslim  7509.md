@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), 'Urwa a dit : Un jour, comme 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakannya kepada kami [Sufyan bin Uyainah] dari [Hisyam] dari [ayahnya] berkata: Abu Hurairah menceritakan, ia berkata: Dengarkanlah wahai penghuni kamar, dengarlah wahai penghuni kamar. Sementara [Aisyah] tengah shalat. Setelah shalat, Aisyah berkata kepada Urwah: Apa kau tidak mendengarnya dan perkataannya itu baru saja. Nabi Shallallahu 'alaihi wa Salam hanya menyampaikan suatu hadits, bila seseorang menghitungnya pasti bisa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7509</td></tr><tr><td>Arabic No</td><td>2493.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7509</td></tr><tr><td>Arabic No</td><td>2493.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 91</td></tr></tbody></table></div>
 

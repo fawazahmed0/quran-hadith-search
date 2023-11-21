@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When the Mu'adhdhin call
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Hamid bin Bayan al-Wasithi] telah menceritakan kepada kami [Khalid, yaitu Ibnu Abdullah] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila seorang muadzdzin mengumandangkan adzan, maka setan berpaling, dan dia memiliki kentut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>389.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда муаззин призывает к молитве, шайтан убегает, испуская кишечные газы (или: быстрым бегом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>389.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
 

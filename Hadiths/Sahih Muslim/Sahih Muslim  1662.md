@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa reported 'A'isha to be sayidg:I have never seen the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], katanya; aku pernah menyetorkan hapalan kepada [Malik] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah], katanya; "Sama sekali belum pernah aku melihat Rasulullah shallallahu 'alaihi wasallam melakukan shalat sunnah dhuha, namun aku melakukan shalat sunnah dhuha. Rasulullah shallallahu 'alaihi wasallam meninggalkan amalan yang sebenarnya beliau suka melakukannya, karena beliau khawatir jangan-jangan para sahabat menirunya sehingga amalan itu diwajibkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1662</td></tr><tr><td>Arabic No</td><td>718</td></tr><tr><td>Reference</td><td>Book 6 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Я никогда не видела, чтобы Посланник Аллаха ﷺ совершал добровольную утреннюю /ад-духа/ молитву, тогда как я всегда совершаю её. Хотя Посланник Аллаха ﷺ любил заниматься делами (поклонения), он часто отказывался от совершения (таких дел), опасаясь, что если ими станут заниматься и другие люди, то это будет вменено им в обязанность». Глава: количество рак‘атов молитвы “ад-духа”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1662</td></tr><tr><td>Arabic No</td><td>718</td></tr><tr><td>Reference</td><td>Book 6 Hadith 92</td></tr></tbody></table></div>
 

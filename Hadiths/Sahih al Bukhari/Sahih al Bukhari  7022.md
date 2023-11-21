@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While I was sleeping, I saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibarhim] telah menceritakan kepada kami ['Abdurrazaq] dari [Ma'mar] dari [Hammam] bahwasanya ia mendengar [Abu Hurairah] radliallahu 'anhu mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, aku melihat diriku diatas telaga memberi minum kepada orang-orang, Abu Bakar mendatangiku dan mengambil ember dariku dengan tujuan agar aku bisa istirahat, ia menarik dua tarikan, dan dalam tarikannya ada kelemahan, Allah pun mengampuninya, lantas Umar bin Khattab datang dan mengambilnya, ia tiada henti menarik ember hingga manusia pulang dan telaga terus memancar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7022</td></tr><tr><td>Arabic No</td><td>7022</td></tr><tr><td>Reference</td><td>Book 91 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «(Однажды) во сне я увидел себя у водоёма, где поил людей. Тут ко мне подошёл Абу Бакр и взял с моих рук ведро, желая дать мне отдохнуть. Он вытащил (из источника) два полных ведра, и он делал это со слабостью, да простит его Аллах! Затем пришёл Ибн аль-Хаттаб, взял ведро и не переставал черпать (воду), пока не ушли люди, а водоём продолжал течь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7022</td></tr><tr><td>Arabic No</td><td>7022</td></tr><tr><td>Reference</td><td>Book 91 Hadith 39</td></tr></tbody></table></div>
 

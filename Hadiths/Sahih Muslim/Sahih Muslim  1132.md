@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Juhaym (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, "Saya membaca di hadapan [Malik] dari [Abu an-Nadhar] dari [Busr bin Sa'id] bahwa Zaid bin Khalid al-Juhani mengutusnya kepada Abu Juhaim untuk menanyakan kepadanya apa yang dia dengar dari Rasulullah Shallallahu'alaihiwasallam tentang lewat di hadapan orang yang sedang shalat. [Abu Juhaim] berkata, "Rasulullah Shallallahu'alaihiwasallam bersabda, 'Kalau orang yang lewat di hadapan orang yang sedang shalat mengetahui dosa yang ditanggungnya, niscaya dia akan berhenti empat puluh, adalah lebih baik baginya daripada melewati orang yang sedang shalat." Abu an-Nadhar berkata, "Saya tidak tahu dia berkata empat puluh hari atau bulan atau tahun." Telah menceritakan kepada kami [Abdullah bin Hasyim bin Hayyan al-'Abdi] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Salim Abi an-Nadhar] dari [Busr bin Sa'id] bahwa Zaid bin Khalid al-Juhani mengirimkan utusan kepada [Abu Juhaim] al-Anshar sesuatu yang aku dengar dari Nabi Shallallahu'alaihiwasallam yang beliau katakan, lalu dia menyebutkan semakna dengan hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1132</td></tr><tr><td>Arabic No</td><td>507.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Бусра ибн Са‘ида, что (однажды) Зейд ибн Халид аль-Джухани послал его к Абу Джухайму, чтобы спросить, что тот слышал от Посланника Аллаха ﷺ о человеке, который проходит перед молящимся. Абу Джухайм передал (ему), что Посланник Аллаха ﷺ сказал: «Если бы проходящий перед молящимся человек знал, какой (грех он берёт) на себя, он (понял бы), что ему лучше простоять на месте сорок, чем пройти перед (тем, кто совершает молитву)!»Абу ан-Надр сказал: «И я не знаю, что именно он сказал сорок дней, месяцев или лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1132</td></tr><tr><td>Arabic No</td><td>507.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 294</td></tr></tbody></table></div>
 

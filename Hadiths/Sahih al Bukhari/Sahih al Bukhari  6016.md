@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Shuraih:The Prophet (ﷺ) said, "By Allah, he does not believe! By 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashim bin Ali] telah menceritakan kepada kami [Ibnu Abu Dzi'ib] dari [Sa'id] dari [Abu Syuraih] bahwasanya Nabi shallallahu 'alaihi wasallam bersabda: "Demi Allah, tidak beriman, demi Allah tidak beriman, demi Allah tidak beriman." Ditanyakan kepada beliau; "Siapa yang tidak beriman wahai Rasulullah?" beliau bersabda: "Yaitu orang yang tetangganya tidak merasa aman dengan gangguannya." Riwayat ini dikuatkan pula oleh [Syababah] dan [Asad bin Musa]. Dan berkata [Humaid bin Al Aswad], [Utsman bin Umar], [Abu Bakr bin 'Ayyasy] dan [Syu'aib bin Ishaq] dari [Ibnu Abu Dzi'b] dari [Al Maqburi] dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6016</td></tr><tr><td>Arabic No</td><td>6016</td></tr><tr><td>Reference</td><td>Book 78 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Шурайха, да будет доволен им Аллах, что (однажды) Пророк ﷺ воскликнул: «Клянусь Аллахом, не уверует, клянусь Аллахом, не уверует, клянусь Аллахом, не уверует!» (Его) спросили: «Кто, о Посланник Аллаха?» Он сказал: «Тот (человек), сосед которого не находится в безопасности от его зла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6016</td></tr><tr><td>Arabic No</td><td>6016</td></tr><tr><td>Reference</td><td>Book 78 Hadith 47</td></tr></tbody></table></div>
 

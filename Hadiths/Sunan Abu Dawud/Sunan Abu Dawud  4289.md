@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm salamah reported the Prophet (ﷺ) as saying about the swallowing up an army
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Abdul Aziz bin rufai'] dari [Ubaidullah bin Al Qibthiyyah] dari [Ummu Salamah] dari Nabi shallallahu 'alaihi wasallam berkenaan dengan kisah pasukan yang ditenggelamkan. Aku bertanya, "Wahai Rasulullah shallallahu 'alaihi wasallam, bagaimana dengan orang yang terpaksa (bersama tentara yang ditenggelamkan)?" beliau menjawab: "Ia juga akan ditenggelamkan, hanyasaja pada hari kiamat ia akan dibangkitkan sesuai dengan niatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2882)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4289</td></tr><tr><td>Arabic No</td><td>4289</td></tr><tr><td>Reference</td><td>Book 38 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Саляма (да будет доволен ею Аллах) передаёт от Пророка ﷺ историю о войске, которое провалится под землю: «Я сказала: “О Посланник Аллаха, а как же тот, кто оказался с этим войском против своей воли?” Он ответил: “Они тоже провалятся под землю, однако, когда они воскреснут в Судный день, каждому воздастся по намерению”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2882)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4289</td></tr><tr><td>Arabic No</td><td>4289</td></tr><tr><td>Reference</td><td>Book 38 Hadith 11</td></tr></tbody></table></div>
 

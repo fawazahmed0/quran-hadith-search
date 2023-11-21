@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Ma'mar (and the words are):
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Muhammad bin Jubair bin Muth'im] dari [bapaknya] radliallahu 'anhu katanya, Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku mempunyai beberapa nama: (1) Aku bernama Muhammad. (2) Aku bernama Ahmad. (3) Aku bernama Al Mahi (penumpas), yang artinya Allah menumpas kekufuran denganku. (4) Aku bernama Al-Hasyir (pengumpul) yang artinya Allah mengumpulkan manusia mengikuti langkahku. (5) Aku bernama Al 'Aqib (penutup), yang artinya tidak ada seorang Nabi pun sesudahku. Dan sesungguhnya, aku juga oleh Allah diberi nama Ra'uf (penyantun) dan Rahim (penyayang)." Dan telah menceritakan kepadaku ['Abdul Malik bin Syu'aib bin Al Laits] dia berkata; Telah menceritakan kepada kami [Bapakku] dari [Kakekku]; Telah menceritakan kepadaku ['Uqail]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abul Yaman]; Telah mengabarkan kepada kami [Syu'aib] seluruhnya dari [Az Zuhri] melalui jalur ini. Dan di dalam Hadits Syu'aib dan Ma'mar di sebutkan dengan lafazh; Aku mendengar Rasulullah shallallahu 'alaihi wasallam. Di dalam Hadits Uqail dia berkata; 'Aku bertanya kepada Az Zuhri, Apa artinya Al 'Aqib? Dia menjawab; Yaitu yang tidak ada nabi setelahnya. Juga di dalam Hadits Ma'mar dan Uqail menggunakan lafazh 'Al kafarah' (kekafiran), sedangkan di dalam Hadits Syu'aib menggunakan lafazh 'Al Kufru
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6107</td></tr><tr><td>Arabic No</td><td>2354.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6107</td></tr><tr><td>Arabic No</td><td>2354.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 165</td></tr></tbody></table></div>
 

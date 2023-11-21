@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) said:When the words of Iq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibn Hujr] dari [Ismail bin Ja'far]. [Ibnu Ayyub] mengatakan; telah menceritakan kepada kami [Ismail] telah mengabarkan kepadaku [Al 'Ala'] dari [Ayahnya] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika iqamat shalat telah dikumandangkan, maka janganlah kalian datang sambil berlari, namun datanglah dengan tenang, apa yang kalian dapatkan dari shalat maka ikutilah, dan apa yang kalian tertinggal maka sempurnakanlah, sebab bila salah seorang diantara kalian pergi untuk mendirikan shalat, maka hal itu telah dihitung dalam shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1360</td></tr><tr><td>Arabic No</td><td>602.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «После того, как будет объявлено о начале молитвы, не являйтесь на неё в спешке, но приходите на неё (обычным шагом), сохраняя спокойствие. Молитесь(, начиная с того рак‘ата, который) вы застанете, а то, что пропустите, восполняйте (самостоятельно), ибо, поистине, когда любой из вас отправляется на молитву, он уже находится в молитве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1360</td></tr><tr><td>Arabic No</td><td>602.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 195</td></tr></tbody></table></div>
 

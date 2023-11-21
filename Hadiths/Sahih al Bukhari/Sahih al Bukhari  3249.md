@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib:Allah's Messenger (ﷺ) was given a silken garment, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya bin Sa'id] dari [Sufyan] berkata telah bercerita kepadaku [Abu Ishaq] berkata aku mendengar [Al Bara'bin 'Azib radliallahu 'anhuma] berkata; "Rasulullah shallallahu 'alaihi wasallam diberi hadiah berupa pakaian terbuat dari sutera lalu orang-orang terkagum-kagum dengan kebagusan dan kehalusan pakaian itu maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh sapu tangan Sa'ad bin Mu'adz di surga lebih baik dari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3249</td></tr><tr><td>Arabic No</td><td>3249</td></tr><tr><td>Reference</td><td>Book 59 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Пророку ﷺ подарили шёлковую одежду, и люди стали восхищаться её красотой и мягкостью. Тогда Посланник Аллаха ﷺ сказал: “Поистине носовые платки Са‘да ибн Му‘аза в Раю лучше этого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3249</td></tr><tr><td>Arabic No</td><td>3249</td></tr><tr><td>Reference</td><td>Book 59 Hadith 60</td></tr></tbody></table></div>
 

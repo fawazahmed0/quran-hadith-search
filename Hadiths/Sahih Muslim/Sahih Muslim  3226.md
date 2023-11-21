@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) said to the Messenger of Allah (ﷺ):Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abdullah bin Abu Bakr] dari [bapaknya] dari [Amrah binti Abdurrahman] dari [Aisyah] bahwa ia pernah berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, sesungguhnya Shafiyyah binti Huyay mengalami haid." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Sepertinya, ia kan menangguhkan perjalanan kita. Bukankah ia telah melakukan thawaf bersama kalian di Baitullah?" mereka menjawab, "Ya, benar." Beliau bersabda: "Kalau begitu, hendaklah ia ikut berangkat sama-sama dengan kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3226</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3226</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

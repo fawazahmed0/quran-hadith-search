@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Apostle of Allah (ﷺ) said: When a man has sexual inte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Abu Ghassan al-Misma'i] --lewat jalur periwayatan lain-- dan telah menceritakannya kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] mereka berkata, telah menceritakan kepada kami [Muadz bin Hisyam] dia berkata, telah menceritakan kepadaku [bapakku] dari [Qatadah] dan [Mathar] dari [al-Hasan] dari [Abu Rafi'] dari [Abu Hurairah Radhiyallahu'anhu] bahwa Nabi Shallallahu'alaihiwasallam bersabda, "Apabila seorang lelaki duduk di antara empat cabang milik perempuan (maksudnya kedua paha dan kedua tangan), kemudian menekannya maka sungguh dia wajib mandi." Dan dalam hadits Mathar, "Walaupun dia belum keluar mani." Zuhair berkata, "Duduk di antara mereka dan empat cabang wanita." Telah menceritakan kepada kami [Muhammad bin Amr bin 'Abbad bin Jabalah] telah menceritakan kepada kami [Muhammad bin Abi 'Adi] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepadaku [Wahb bin Jarir] keduanya meriwayatkan dari [Syu'bah] dari [Qatadah] dengan isnad ini hadits semisalnya, hanya saja dalam hadits Syu'bah "Kemudian melakukan adegan yang serius", dan tidak mengatakan "Walaupun tidak keluar air mani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>783</td></tr><tr><td>Arabic No</td><td>348.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры о том, что Пророк Аллаха ﷺ сказал: «Если (мужчина) усядется меж четырёх частей (тела женщины) и совершит с ней половое сношение, то полное омовение становится обязательным».А в другой версии этого хадиса добавлено: «…даже если у него не было семяизвержения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>783</td></tr><tr><td>Arabic No</td><td>348.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 105</td></tr></tbody></table></div>
 

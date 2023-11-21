@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah says, 'If My slave int
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7501</td></tr><tr><td>Arabic No</td><td>7501</td></tr><tr><td>Reference</td><td>Book 97 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Аллах говорит: “Если решит раб Мой совершить дурной поступок, то не записывайте его за ним, пока он не совершит его. Если он совершит дурной поступок, то запишите ему это как оно есть, а если он откажется от (совершения этого) ради Меня, то запишите ему одно доброе дело. Если же он решит совершить добрый поступок, но не совершит его, запишите ему одно благодеяние, а если он совершит его, то запишите ему от десяти до семисот и многим более добрых дел”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7501</td></tr><tr><td>Arabic No</td><td>7501</td></tr><tr><td>Reference</td><td>Book 97 Hadith 126</td></tr></tbody></table></div>
 

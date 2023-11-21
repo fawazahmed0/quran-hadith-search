@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said: None is more patient than Allah agains
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] dia berkata; telah menceritakan kepadaku [Al A'masy] dari [Sa'id bin Jubair] dari [Abu Abdurrahman As Sulami] dari [Abu Musa] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak ada siapa pun atau tidak ada sesuatu pun yang lebih bersabar atas gangguan yang ia dengar melebihi Allah, Sesungguhnya mereka menganggap Dia punya anak namun Dia memaafkan dan memberi mereka rizki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6099</td></tr><tr><td>Arabic No</td><td>6099</td></tr><tr><td>Reference</td><td>Book 78 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Нет никого, кто, слыша обидное, проявлял бы больше терпения, чем Аллах: (люди) утверждают, что у Него есть ребёнок, а Он исцеляет их и дарует им их удел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6099</td></tr><tr><td>Arabic No</td><td>6099</td></tr><tr><td>Reference</td><td>Book 78 Hadith 126</td></tr></tbody></table></div>
 

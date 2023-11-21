@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn AbuLayla: The Companions of the Prophet (ﷺ) told us t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] berkata, telah menceritakan kepada kami [Ibnu Numair] dari [Al A'masy] dari [Abdullah bin Yasar] dari ['Abdurrahman bin Abu Laila] ia berkata, " [Para sahabat Muhammad] shallallahu 'alaihi wasallam menceritakan kepadaku bahwa saat mereka sedang berjalan bersama Nabi shallallahu 'alaihi wasallam, salah seorang dari mereka tertidur. Lalu ada sebagian sahabat mengambil dan menarik tali yang ada bersamanya hingga orang yang tertidur itu kaget. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang muslim membuat kaget sesama saudaranya yang muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5004</td></tr><tr><td>Arabic No</td><td>5004</td></tr><tr><td>Reference</td><td>Book 43 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5004</td></tr><tr><td>Arabic No</td><td>5004</td></tr><tr><td>Reference</td><td>Book 43 Hadith 232</td></tr></tbody></table></div>
 

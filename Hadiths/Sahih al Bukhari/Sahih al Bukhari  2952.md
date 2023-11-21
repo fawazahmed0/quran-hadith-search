@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We set out in the company of Allah's Messenger (ﷺ) five days b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdur Rahman] bahwa dia mendengar ['Aisyah radliallahu 'anha] berkata: "Kami berangkat bersama Rasulullah shallallahu 'alaihi wasallam pada lima malam terakhir dari bulan Dzul Qo'dah dimana tidak lain keberangkatan kami melainkan untuk menunaikan hajji. Ketika kami hampir sampai di Makkah, Rasulullah shallallahu 'alaihi wasallam memerintahkan kepada siapa yang tidak membawa hadyu (hewan qurban) apabila nanti telah selesai dari thawaf di Baitullah dan sa'i antara bukit Shofa dan Marwah agar mereka bertahallul. 'Aisyah radliallahu 'anha berkata; Kemudian pada hari Nahar dikirimkan kepada kami daging sapi, lalu aku bertanya: "Apa in? i". Maka si pengirim berkata: "Ini (daging) sembilahan Rasulullah shallallahu 'alaihi wasallam atas nama istri-istri Beliau". Berkata [Yahya]; Maka aku ceritakan hadits ini kepada [Qosim bin Muhammad] maka dia berkata: "Demi Allah, sungguh dia telah datang kepadamu dengan membawakan hadits yang sesungguhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2952</td></tr><tr><td>Arabic No</td><td>2952</td></tr><tr><td>Reference</td><td>Book 56 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мы выехали (из Медины) вместе с Посланником Аллаха ﷺ за пять дней до конца (месяца) зуль-ка‘да с единственной целью совершить хадж, а когда мы приблизились к Мекке, Посланник Аллаха ﷺ велел тем, у кого не было с собой жертвенного скота, выйти из состояния ихрама после обхода Каабы и бега между (холмами) ас-Сафа и аль-Марва».(‘Аиша) сказала: «А в день жертвоприношения нам принесли мясо коровы. Я спросила: “Что это?” (Мне) ответили: “Посланник Аллаха ﷺ принёс жертву за своих жён”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2952</td></tr><tr><td>Arabic No</td><td>2952</td></tr><tr><td>Reference</td><td>Book 56 Hadith 164</td></tr></tbody></table></div>
 

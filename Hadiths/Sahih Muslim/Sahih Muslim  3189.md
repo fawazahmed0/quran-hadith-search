@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them), describing the Hajj of Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepada kami [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] menceritakan tentang haji Nabi shallallahu 'alaihi wasallam. ia berkata; "Beliau memerintahkan kami ketika bertahallul untuk menyembelih hewan kurban. Dan di antara kami ada sekelompok orang yang berkumpul/berserikat untuk satu hewan kurban, tepatnya, saat beliau memerintahkan mereka bertahallul dari ibadah haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3189</td></tr><tr><td>Arabic No</td><td>1318.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 393</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3189</td></tr><tr><td>Arabic No</td><td>1318.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 393</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abbad b. Tamim Mazini heard his uncle, who was one of the Companions of the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata, telah mengabarkan kepadaku [Abbad bin Tamim Al Mazini] bahwa ia mendengar [pamannya] yang termasuk salah seorang dari sahabat Rasulullah shallallahu 'alaihi wasallam berkata; "Suatu ketika Rasulullah shallallahu 'alaihi wasallam keluar untuk menunaikan shalat Istisqa', lalu beliau membelakangi para jama'ah seraya berdo'a kepada Allah dengan menghadap kiblat. Kemudian beliau membalik pakaiannya lalu shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2073</td></tr><tr><td>Arabic No</td><td>894.04</td></tr><tr><td>Reference</td><td>Book 9 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Зейд, да будет доволен им Аллах, сказал: «Однажды днём Посланник Аллаха ﷺ вышел, чтобы обратиться к Аллаху с мольбой о ниспослании дождя. При этом он повернулся спиной к людям, а к къибле лицом, и стал обращаться с мольбой. И он надел свой плащ по-другому, а потом совершил молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2073</td></tr><tr><td>Arabic No</td><td>894.04</td></tr><tr><td>Reference</td><td>Book 9 Hadith 4</td></tr></tbody></table></div>
 

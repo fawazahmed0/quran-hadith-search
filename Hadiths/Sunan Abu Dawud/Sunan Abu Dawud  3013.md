@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bashir bin Yasar said “When Allaah bestowed Khaibar on His Prophet (ﷺ) as fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi], telah menceritakan kepada kami [Abu Khalid yaitu Sulaiman] dari [Yahya bin Sa'id] dari [Busyair bin Yasar], ia berkata; tatkala Allah telah memberikan fai' kepada NabiNya shallallahu 'alaihi wasallam yang berupa Khaibar, maka beliau membaginya menjadi tiga puluh enam saham, setiap saham menghimpun seratus saham. Dan beliau memisahkan setengahnya untuk musibah yang kemungkinan menimpa apa yang terjadi padanya. Setengah bagian tersebut adalah Benteng Wathihah, serta Desa Kutaibah, dan yang tergabung bersama keduanya. Dan beliau memisahkan setengahnya yang lain, beliau membaginya diantara orang-orang muslimin daerah Syiqq dan Nathah dan yang tergabung bersama keduanya. Dan saham Rasulullah shallallahu 'alaihi wasallam adalah pada bagian yang tergabung bersama keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3013</td></tr><tr><td>Arabic No</td><td>3013</td></tr><tr><td>Reference</td><td>Book 20 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Бушайр ибн Ясар, да будет доволен им Аллах, вольноотпущенник ансаров, передаёт от нескольких сподвижников Пророка ﷺ что, когда Посланник Аллаха ﷺ завладел Хайбаром, он разделил земли Хайбара на тридцать шесть долей, в каждой доле сто частей. Посланнику Аллаха ﷺ и мусульманам принадлежала половина этого. А другую половину он оставил для обеспечения прибывающих к нему делегаций и на случай непредвиденных происшествий и бед, постигающих людей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3013</td></tr><tr><td>Arabic No</td><td>3013</td></tr><tr><td>Reference</td><td>Book 20 Hadith 86</td></tr></tbody></table></div>
 

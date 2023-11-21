@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Hasan:'Amr bin Taghlib said, "Some property was given to the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Jarir bin Hazim] dari [Al Hasan] telah menceritakan kepada kami ['Amru bin Taghlib] berkata, "Nabi shallallahu 'alaihi wasallam diberi sebuah harta, lantas beliau berikan kepada sebagian sahabatnya dan tidak beliau berikan kepada sahabat yang lain. Kemudian sampailah berita kepada beliau bahwa orang-orang mencela sikap beliau, maka antas beliau pun bersabda: "Sungguh, ada orang yang kuberi dan ada yang tidak kuberi, namun yang tidak aku beri lebih aku sukai daripada yang aku beri, beberapa orang aku beri karena hati mereka masih ada keluh kesah dan ketakutan, dan beberapa orang aku percayakan kepada kecukupan dan kebaikan yang telah Allah jadikan pada hati mereka, diantara mereka ialah Amru bin Taghlib." Lantas 'Amru berkata, 'Aku tak ingin lagi unta-unta merah setelah mengetahui kalimat Rasulullah shallallahu 'alaihi wasallam itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7535</td></tr><tr><td>Arabic No</td><td>7535</td></tr><tr><td>Reference</td><td>Book 97 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от аль-Хасана, что ‘Амр ибн Тагълиб сказал: «(Однажды) Пророк ﷺ получил кое-какое количество имущества (в казну мусульман), поэтому он наделил (этим имуществом) одних людей, и удержал (его) от других. Затем до него дошло, что (последние) начали проявлять недовольство. Тогда он сказал: “Воистину, я наделяю одного человека и оставляю другого, однако тот, кого я оставил — любимее для меня, чем тот, кого я наделил. Я наделяю некоторых людей из-за нетерпеливости и беспокойства, которые содержатся в их сердцах, и оставляю некоторых людей на попечение богатства и блага, которые Аллах поместил в их сердца. И среди таких людей — ‘Амр ибн Тагълиб!”. Сказал ‘Амр ибн Тагълиб: «Слова, которые Посланника Аллаха ﷺ произнес в мой адрес любимее для меня, чем красные верблюды!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7535</td></tr><tr><td>Arabic No</td><td>7535</td></tr><tr><td>Reference</td><td>Book 97 Hadith 160</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same hadith of the Prophet (may peace and blessings be upon him) has been re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>178</td></tr><tr><td>Arabic No</td><td>49.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Абу Са‘ида аль-Худри, да будет доволен им Аллах, передавшего от Пророка ﷺ приводится похожий хадис про историю с Марваном
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>178</td></tr><tr><td>Arabic No</td><td>49.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 85</td></tr></tbody></table></div>
 

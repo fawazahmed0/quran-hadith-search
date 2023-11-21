@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : "La lune s'est fendue en deux a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Quraisy At Taimi] telah menceritakan kepada kami [Ishaq bin Bukair bin Mudlar] telah menceritakan kepadaku [ayahku] telah menceritakan kepada kami [Ja'far bin Rabi'ah] dari [Irak bin Malik] dari [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] dari [Ibnu Abbas] berkata: Di masa Rasulullah Shallallahu 'alaihi wa Salam bulan pernah terbelah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7079</td></tr><tr><td>Arabic No</td><td>2803</td></tr><tr><td>Reference</td><td>Book 52 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аббас, да будет доволен ими обоими Аллах, сказал: «Поистине, во времена Посланника Аллаха ﷺ луна раскололась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7079</td></tr><tr><td>Arabic No</td><td>2803</td></tr><tr><td>Reference</td><td>Book 52 Hadith 34</td></tr></tbody></table></div>
 

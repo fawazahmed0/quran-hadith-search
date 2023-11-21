@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man was in the company of the Prophet (ﷺ) and his she-ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa ada seorang laki-laki ketika sedang bersama Nabi shallallahu 'alaihi wasallam dijatuhkan oleh untanya dalam keadaan sedang berihram hingga meninggal dunia. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Mandikanlah dia dengan air dan air yang dicampur daun bidara dan kafanilah dengan dua helai kain dan janganlah diberi wewangian dan jangan pula diberi tutup kepala (serban) karena dia nanti dibangkitkan pada hari qiyamat dalam keadaan bertalbiyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 28 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что один человек, находившийся с Пророком ﷺ упал со своей верблюдицы, сломал шею и умер, будучи в состоянии ихрама. Тогда Посланник Аллаха ﷺ сказал: «Обмойте его водой с сидром и заверните (тело) в два куска ткани, но не умащайте его благовониями и не покрывайте ему голову, ибо, поистине, в День воскресения он будет воскрешён произносящим тальбийю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 28 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas bin Malik:The Messenger of Allah (ﷺ) as saying: A child was born
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh], Telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit Al Bunani] dari [Anas bin Malik] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya tadi malam anakku lahir, kemudian aku menamainya dengan nama ayahku yaitu Ibrahim…" kemudian ia menyebutkan hadits tersebut. Anas berkata; sungguh aku melihat anak tersebut mengalami sakarat di hadapan Rasulullah shallallahu 'alaihi wasallam kemudian kedua mata beliau mencucurkan air mata. Kemudian beliau berkata: "Mata menangis dan hati bersedih, dan kami tidak mengucapkan kecuali apa yang membuat Tuhan kami ridha. Sesungguhnya kami sangat bersedih terhadapmu wahai Ibrahim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2315)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3126</td></tr><tr><td>Arabic No</td><td>3126</td></tr><tr><td>Reference</td><td>Book 21 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2315)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3126</td></tr><tr><td>Arabic No</td><td>3126</td></tr><tr><td>Reference</td><td>Book 21 Hadith 38</td></tr></tbody></table></div>
 

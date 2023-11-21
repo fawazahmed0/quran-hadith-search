@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When the Verse:-- 'Those who believe and mix not their belief
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] berkata; "Ketika turun firman Allah Ta'ala yang artinya: ("Orang-orang yang beriman dan tidak mencampur adukkan iman mereka dengan kezhaliman ….") (QS al-An'am ayat 82), para sahabat Nabi shallallahu 'alaihi wasallam berkata; "Siapa diantara kita yang tidak mencampur adukkan imannya dengan kezhaliman?". Maka kemudian Allah Ta'ala menurunkan firman-Nya: ("Janganlah kamu berbuat syirik (menyekutukan Allah), karena sesungguhnya syirik itu benar-benar kezhaliman yang besar"). (QS Luqman ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3428</td></tr><tr><td>Arabic No</td><td>3428</td></tr><tr><td>Reference</td><td>Book 60 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, сказал: «Когда был ниспослан (аят, в котором сказано): “Те, которые уверовали и не облекли свою веру в несправедливость…“ (сура “аль-Анам”, аят 82), сподвижники Пророка ﷺ сказали: “А кто же из нас не облекал свою веру в несправедливость?“ Тогда было ниспослано: “Не приобщай к Аллаху сотоварищей, ибо многобожие является великой несправедливостью” (Сура “Лукман”, 13)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3428</td></tr><tr><td>Arabic No</td><td>3428</td></tr><tr><td>Reference</td><td>Book 60 Hadith 99</td></tr></tbody></table></div>
 

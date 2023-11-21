@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad b. Muslim b. al-Sa’ib said:one day I prayed by the side of Anas b. Ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Hatim bin Isma'il] dari [Mush'ab bin Tsabit bin Abdullah bin Az-Zubair] dari [Muhammad bin Muslim bin As-Sa'ib] dia berkata; Pada suatu hari saya pernah shalat di samping [Anas bin Malik], lalu dia berkata; Tahukah kamu apa yang dilakukan dengan kayu ini? Saya katakan; Tidak tahu, demi Allah. Dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa memegangnya dan bersabda: "Luruskan dan tegakkan shaf-shaf kalian." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Humaid bin Al-Aswad] telah menceritakan kepada kami [Mush'ab bin Tsabit] dari [Muhammad bin Muslim] dari [Anas] dengan hadits ini, dia berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam apabila bangkit untuk shalat, beliau mengambilnya dengan tangan kanannya, kemudian menoleh dan bersabda: "Tegaklah, luruskanlah shaf-shaf kalian." Lalu beliau mengambilnya dengan tangan kirinya dan bersabda: "Luruskanlah shaf-shaf kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 2 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Муслим ибн ас-Саиб сказал: "(Однажды) днём я молился рядом с Анасом ибн Маликом и он сказал: «Знаешь ли ты для чего был поставлена эта палка (аль-‘уд)?». Я ответил: «Нет, клянусь Аллахом!». (Анас) сказал: «Обычно, Посланник Аллаха ﷺ ставил на неё свою руку и говорил: “Становитесь прямо и выравнивайте свои ряды”».Также этот хадис передал Ахмад
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 2 Hadith 279</td></tr></tbody></table></div>
 

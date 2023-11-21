@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If somebody fights (or beats someb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaidullah] telah menceritakan kepada kami [Ibnu Wahb] berkata, telah menceritakan kepadaku [Malik bin Anas] berkata, telah menceritakan kepadaku Ibnu Fulan dari [Sa'id Al Maqburiy] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan pula, telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami ['Abdur RAzzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang dari kalian berperang (membunuh) hendaklah dia menghindari wajah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 49 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если кто-нибудь из вас будет бить (кого-либо), пусть не касается лица (этого человека)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 49 Hadith 41</td></tr></tbody></table></div>
 

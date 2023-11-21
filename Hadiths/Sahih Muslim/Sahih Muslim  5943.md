@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Apostle (ﷺ) and his Companions were at a p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'i]; Telah menceritakan kepada kami [Mu'adz] yaitu Ibnu Hisyam; Telah menceritakan kepadaku [Bapakku] dari [Qatadah]; Telah menceritakan kepada kami [Anas bin Malik] bahwa Nabiyullah shallallahu 'alaihi wasallam dan para sahabatnya berada di Zaura (Anas berkata; 'Zaura' terletak di Madinah dekat pasar dan di dekatnya ada masjid), beliau meminta semangkuk air. Setelah itu, beliau letakkan telapak tangannya di dalam mangkuk itu. Tak lama kemudian, air mengucur dari sela-sela jari tangan beliau, hingga semua sahabat dapat berwudlu. Anas berkata; 'Saya pernah bertanya; 'Sebenarnya berapa jumlah mereka saat itu hai Abu Hamzah? ' Abu Hamzah menjawab; 'Sekitar tiga ratus orang.' Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah berada di Zaura, kemudian beliau dibawakan kepada beliau sebuah bejana yang airnya hanya sekedar bisa menutupi untuk jari-jari beliau saja, -kemudian dia menyebutkan Hadits yang serupa dengan Hadits Hisyam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5943</td></tr><tr><td>Arabic No</td><td>2279.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5943</td></tr><tr><td>Arabic No</td><td>2279.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
 

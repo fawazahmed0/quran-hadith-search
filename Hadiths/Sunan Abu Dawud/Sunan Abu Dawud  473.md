@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported:I heard the Messenger of Allah (May peace be upon him) as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar Al Jusyami] telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Haiwah bin Syuraih] dia berkata; Saya telah mendengar [Abu Al Asawd, yakni Muhammad bin Abdurrahman bin Naufal] berkata; telah mengabarkan kepadaku [Abu Abdullah, mantan sahaya Syaddad] bahwasanya dia telah mendengar [Abu Hurairah] berkata; Saya telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mendengar ada seseorang yang mengumumkan barang hilang di Masjid, maka katakanlah, 'Semoga Allah tidak mengembalikan barang itu kepadamu', karena sesungguhnya Masjid itu tidak dibangun untuk ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (568)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>473</td></tr><tr><td>Arabic No</td><td>473</td></tr><tr><td>Reference</td><td>Book 2 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу ‘Абдуллаха, вольноотпущенника Шаддада о том, что он слышал, как Абу Хурайра говорил: «Я слышал, как Посланник Аллаха ﷺ говорил: “Пусть тот, кто услышит, как (какой-нибудь) человек, разыскивает в мечети пропажу, скажет: “Да не вернёт тебе ее Аллах!”, - ибо, поистине, мечети были построены не для этого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (568)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>473</td></tr><tr><td>Arabic No</td><td>473</td></tr><tr><td>Reference</td><td>Book 2 Hadith 83</td></tr></tbody></table></div>
 

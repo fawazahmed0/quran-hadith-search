@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Magic was worked on Allah's Messenger (ﷺ) so that he began to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Ayahnya] dari [Aisyah] dia berkata; Nabi shallallahu 'alaihi wasallam disihir hingga seakan-akan beliau mengangan-angan telah berbuat sesuatu, padahal beliau tidak melakukannya, hingga ketika beliau berada di sampingku, beliau berdo'a kepada Allah dan selalu berdo'a, kemudian beliau bersabda: "Wahai Aisyah, apakah kamu telah merasakan bahwa Allah telah memberikan fatwa (menghukumi) dengan apa yang telah aku fatwakan (hukumi)? Jawabku; "Apa itu wahai Rasulullah?" Beliau bersabda: "Dua orang laki-laki telah datang kepadaku, lalu salah seorang dari keduanya duduk di atas kepalaku dan satunya lagi di kakiku. Kemudian salah seorang berkata kepada yang satunya; "Menderita sakit apakah laki-laki ini?" temannya menjawab; "Terkena sihir.' salah seorang darinya bertanya; "Siapakah yang menyihirnya?" temannya menjawab; "Lubid bin Al A'sham seorang Yahudi dari Bani Zuraiq." Salah satunya bertanya; "Dengan benda apakah dia menyihir?" temannya menjawab; "Dengan rambut yang terjatuh ketika disisir dan seludang mayang kurma." Salah seorang darinya bertanya; "Di manakah benda itu di letakkan?" temannya menjawab; "Di dalam sumur Dzi Arwan." Kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi sumur tersebut bersama beberapa orang sahabatnya, beliau pun melihat ke dalam ternyata di dalamnya terdapat pohon kurma, lalu beliau kembali menemui 'Aisyah bersabda: "Wahai Aisyah! seakan-akan airnya berubah bagaikan rendaman pohon inai atau seakan-akan pohon kurmanya bagaikan kepala syetan." Aku bertanya; "Wahai Rasulullah, tidakkah anda mengeluarkannya?" beliau menjawab: "Tidak, sesungguhnya Allah telah menyembuhkanku dan aku hanya tidak suka memberikan kesan buruk kepada orang lain dari peristiwa itu." Kemudian beliau memerintahkan seseorang membawanya (barang yang dipakai untuk menyihir) lalu menguburnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5766</td></tr><tr><td>Arabic No</td><td>5766</td></tr><tr><td>Reference</td><td>Book 76 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(В своё время) Пророк ﷺ был околдован до такой степени, что ему стало казаться, будто он делал то, чего (на самом деле) не делал. (Это продолжалось), пока в один день, находясь у меня, он не обратился с мольбами к Аллаху, потом он (снова) обратился к Нему, а потом сказал: “О ‘Аиша, знаешь ли ты, что Аллах дал мне совет относительно того, о чём я просил у Него совета?” Я спросила: “Что же это?” Он сказал: “(Во сне) ко мне явились два человека, один из которых сел у моего изголовья, а другой — у меня в ногах, после чего один из них сказал другому: “Чем болен этот человек?” Тот ответил: “Он околдован”. Он спросил: “Кто же околдовал его?” Тот ответил: “Лябид ибн аль-А‘сам, иудей из (племени) бану зурайк”. Он спросил: “Что (он для этого использовал)?” Тот ответил: “Гребень, очёски волос и сухую пыльцу пальмы мужского рода”. Он спросил: “И где же (всё это находится)?” Тот ответил: “В колодце Зу-аруан””. После этого Пророк ﷺ пришёл (к этому колодцу) вместе с людьми из числа его сподвижников, посмотрел на него, а рядом с ним росли финиковые пальмы, потом (вернулся и) сказал (мне): “Клянусь Аллахом, (по цвету) его вода подобна настою хны, а пальмы, (растущие около) него, подобны головам шайтанов”. Я спросила: “О Посланник Аллаха, достал ли ты это оттуда?” — (и Пророк ﷺ) сказал: “Нет. Что касается меня, то Аллаха избавил и исцелил меня, а (эти вещи) я (не стал доставать, ибо) побоялся, что это причинит людям зло”. После этого, по его велению колодец был засыпан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5766</td></tr><tr><td>Arabic No</td><td>5766</td></tr><tr><td>Reference</td><td>Book 76 Hadith 80</td></tr></tbody></table></div>
 

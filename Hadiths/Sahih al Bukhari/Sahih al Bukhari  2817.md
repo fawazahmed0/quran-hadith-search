@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik: The Prophet (ﷺ) said, "Nobody who enters Paradise lik
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] berkata aku mendengar [Qatadah] berkata aku mendengar [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak seorangpun yang masuk surga namun dia suka untuk kembali ke dunia, karena menurutnya di dunia tidak ada yang bernilai sedikit pun, kecuali orang yang mati syahid dimana dia berkeinginan untuk kembali ke dunia kemudian berperang lalu terbunuh hingga sepuluh kali karena dia melihat keistimewaan karamah (mati syahid)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2817</td></tr><tr><td>Arabic No</td><td>2817</td></tr><tr><td>Reference</td><td>Book 56 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Никто из тех, кто умирает, не пожелал бы вернуться в этот мир, даже если бы ему было бы дано всё, что на этой земле, кроме павшего за веру, который, увидев приготовленное для него воздаяние, хотел бы вернуться в этот мир и быть убитым (на пути Аллаха) ещё десять раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2817</td></tr><tr><td>Arabic No</td><td>2817</td></tr><tr><td>Reference</td><td>Book 56 Hadith 33</td></tr></tbody></table></div>
 

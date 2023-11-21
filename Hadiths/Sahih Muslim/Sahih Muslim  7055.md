@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Sa'd (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; telah menceritakan kepada kami [Khalid bin Makhlad] dari [Muhammad bin Ja'far bin Abu Katsir] telah menceritakan kepadaku [Abu Hazim bin Dinar] dari [Sahl bin Sa'd] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Pada hari kiamat kelak manusia akan dikumpulkan di bumi yang sangat putih berbentuk bulat pipih dan datar tanpa ada tanda bagi siapapun di atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7055</td></tr><tr><td>Arabic No</td><td>2790</td></tr><tr><td>Reference</td><td>Book 52 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7055</td></tr><tr><td>Arabic No</td><td>2790</td></tr><tr><td>Reference</td><td>Book 52 Hadith 11</td></tr></tbody></table></div>
 

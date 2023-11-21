@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Yasar reported that he asked Umm Salama whether a person (who gets u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Utsman An Naufali] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Muhammad bin Yusuf] dari [Sulaiman bin Yasar] bahwa ia bertanya kepada [Ummu Salamah] radliallahu 'anha mengenai seorang laki-laki yang mendapati waktu Subuh dalam keadaan junub, apakah ia boleh berpuasa. Maka Ummu Salamah menjawab; "Rasulullah shallallahu 'alaihi wasallam pernah mendapati waktu Subuh dalam keadaan junub -bukan karena mimpi- kemudian beliau tetap berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>1109.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>1109.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 100</td></tr></tbody></table></div>
 

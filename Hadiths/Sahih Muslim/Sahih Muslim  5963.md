@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:The similitude of mine and that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami ['Affan] Telah menceritakan kepada kami [Salim bin Hayyan] Telah menceritakan kepada kami [Sa'id bin Mina] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Perumpamaanku dengan Nabi-nabi sebelumku adalah seperti orang membangun rumah, lalu disempurnakannya buatannya, kecuali sebuah sudut (belum terpasang) dengan sebuah bata. Maka masuklah orang banyak ke rumah itu. Mereka mulai kagum akan keindahannya. Lalu mereka berkata; 'seandainya batu disini sudah dipasang tentu bangunan ini menjadi lebih sempurna.' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Maka akulah yang meletakkan atau memasang bata itu, aku datang sebagai Nabi terakhir." Dan telah menceritakannya kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Ibnu Mahdi] Telah menceritakan kepada kami [Salim] melalui jalur ini dengan Hadits yang serupa. Salim berkata; 'disempurnakannya' sebagai ganti dari lafazh 'diperindahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5963</td></tr><tr><td>Arabic No</td><td>2287.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5963</td></tr><tr><td>Arabic No</td><td>2287.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:The people of Kufa differed as regards the killing of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Al Mughirah bin An Nu'man] dari [Sa'id bin Jubair] dia berkata; Penduduk Kufah berselisih pendapat di dalam masalah membunuh orang mukmin. Maka aku pergi menemui Ibnu Abbas untuk menanyakan hal itu. Lalu [Ibnu Abbas] berkata; ayat itu turun terakhir kali, tidak ada yang menasakhnya (menghapusnya) sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4763</td></tr><tr><td>Arabic No</td><td>4763</td></tr><tr><td>Reference</td><td>Book 65 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубейр сказал: «Когда жители Куфы стали разногласить относительно убийства верующего, я приехал к Ибн ’Аббасу, чтобы узнать его мнение по этому вопросу, и он сказал: “Это было ниспослано последним (аят из суры “ан-Ниса”), и ни что его не отменяло”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4763</td></tr><tr><td>Arabic No</td><td>4763</td></tr><tr><td>Reference</td><td>Book 65 Hadith 285</td></tr></tbody></table></div>
 

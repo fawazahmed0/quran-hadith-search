@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Al-Muntathir:on the authority of his father that he had as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ibnu Abu 'Ady] dan [Yahya bin Sa'id] dari [Syu'bah] dari [Ibrahim bin Muhammad bin Al Muntasyir] dari [bapaknya] berkata,: "Aku menceritakan tentang (perkataan Ibnu 'Abbas) kepada ['Aisyah], maka jawabnya: "Semoga Allah merahmati Abu 'Abdurrahman. Sungguh aku pernah memakaikan wewangian kepada Rasulullah shallallahu 'alaihi wasallam kemudian Beliau mendatangi isteri-isterinya. Dan pada pagi harinya Beliau mengenakan pakain ihram dalam keadaan wangi semerbak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>267</td></tr><tr><td>Arabic No</td><td>267</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим ибн Мухаммад ибн аль-Мунташир передал со слов своего отца, который сказал: «(Однажды я упомянул об этом ‘Аише, да будет доволен ею Аллах, и она сказала: “Да помилует Аллах Абу ‘Абду-р-Рахмана! Я не раз умащала благовониями Посланника Аллаха ﷺ после чего он обходил своих жён, а наутро надевал ихрам, и аромат благовоний все ещё ощущался”»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>267</td></tr><tr><td>Arabic No</td><td>267</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:When the Prophet (p.b.u.h) got up at night (for the night pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Manshur] dan [Hushain] dari [Abu Wa'il] dari [Hudzifah] ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam bangun untuk shalat malam, beliau menggosok mulutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>889</td></tr><tr><td>Reference</td><td>Book 11 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа сказал: «Когда Пророк ﷺ просыпался ночью, он чистил свой рот»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>889</td></tr><tr><td>Reference</td><td>Book 11 Hadith 14</td></tr></tbody></table></div>
 

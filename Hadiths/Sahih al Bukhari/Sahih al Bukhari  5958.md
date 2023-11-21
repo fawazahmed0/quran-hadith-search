@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Talha:Allah's Messenger (ﷺ) said, "Angels (of mercy) do not enter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Bukair] dari [Busr bin Sa'id] dari [Zaid bin Khalid] dari [Abu Thalhah] seorang sahabat Rasulullah shallallahu 'alaihi wasallam dia berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Sesungguhnya Malaikat tidak akan masuk ke rumah yang di dalamnya ada gambar." [Busr] berkata; kemudian [Zaid] menderita sakit, maka kami pun menjenguknya, ternyata di pintunya terdapat tirai yang bergambar, lantas kataku kepada Ubaidullah anak tiri Maimunah isteri nabi shallallahu 'alaihi wasallam; "Tidakkah Zaid pernah mengabarkan kepada kami tentang gambar di hari pertama?" [Ubaidullah] menjawab; "Apakah kamu tidak mendengarnya waktu dia mengatakan; "Kecuali nomer di pakaian?" [Ibnu Wahb] berkata; telah mengabarkan kepada kami ['Amru yaitu Ibnu Al Harits] telah menceritakan kepadanya [Bukair] telah menceritakan kepadanya [Busr] telah menceritakan kepadanya [Zaid] telah menceritakan kepadanya [Abu Thalhah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5958</td></tr><tr><td>Arabic No</td><td>5958</td></tr><tr><td>Reference</td><td>Book 77 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Тальхи, что Посланник Аллаха ﷺ сказал: «Ангелы не входят в дом, в котором есть изображения (живых существ)».\n(Передатчик этого хадиса) Буср сказал: «А потом Зейд (от которого он передал этот хадис и который передал его от Абу Тальхи) заболел, и мы пришли навестить его. И вдруг на его двери мы увидели занавеску с изображениями. Я сказал ‘Убайдуллаху, воспитаннику (вольноотпущенник) Маймуны, жены Пророка ﷺ: “Разве Зейд не рассказывал нам (хадис) о изображениях?” ‘Убайдуллах сказал в ответ: “А разве ты не слышал, как он сказал, что украшения (вышивки) на ткани считаются исключением?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5958</td></tr><tr><td>Arabic No</td><td>5958</td></tr><tr><td>Reference</td><td>Book 77 Hadith 174</td></tr></tbody></table></div>
 

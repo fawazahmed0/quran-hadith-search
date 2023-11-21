@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:(the slave of Asma') During the night of Jam', Asma' got down
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Ibnu Juraij] berkata, telah menceritakan kepada saya ['Abdullah, maula Asma'] dari [Asma'] bahwasanya dia berhenti di daerah Jama' pada malam hari di Muzdalifah lalu dia mendirikan shalat sejenak lalu berkata; "Wahai anakku, apakah bulan sudah menghilang?". Aku jawab: "Belum". Maka dia kembali shalat sejenak lalu berkata; "Wahai anakku, apakah bulan sudah menghilang?". Aku jawab: "Ya sudah". Lalu dia berkata: "Bersiap-siaplah untuk berangkat". Kami pun berangkat dan berjalan (bersamanya meninggalkan Muzdalifah) hingga (sampai di tempat) melempar jumrah. Kemudian dia kembali lalu melaksanakan shalat Shubuh di tempat tinggalnya. Aku bertanya: "Wahai gerangan, tidaklah aku melihat kecuali hari masih gelap (malam) ". Dia berkata: "Wahai anakku, Rasulullah Shallallahu'alaihiwasallam telah mengizinkan bagi wanita yang sedang bepergian (untuk berada dalam sekedup/tandu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 25 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Асмы бинт Абу Бакр, да будет доволен Аллах ими обоими, что в ночь на десятое зуль-хиджжа /ляйлят джам‘/ она, да будет доволен ею Аллах, остановилась в Муздалифе, встала на молитву, совершала её некоторое время, а потом спросила: «О сынок, скрылась ли уже луна?»\n(‘Абдуллах сказал): «Я сказал: “Нет”. Тогда она снова стала совершать молитву, а потом спросила: “Скрылась ли уже луна?” Я сказал: “Да”. Тогда она велела: “Отправляйтесь”, (после чего) мы двинулись в путь и продолжали (идти), пока (не прибыли в Мину, где) она бросила камешки в “джамарат”, после чего вернулась на своё прежнее место и совершила там утреннюю молитву. После этого я сказал ей: “О госпожа, я думаю, что мы приехали (в Мину) слишком рано”. (В ответ) она сказала: “О сынок, поистине, Посланник Аллаха ﷺ разрешил женщинам (делать это)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 25 Hadith 159</td></tr></tbody></table></div>
 

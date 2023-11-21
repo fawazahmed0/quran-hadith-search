@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I served the Prophet (ﷺ) for ten years, and he never said to me,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dia mendengar [Sallam bin Miskin] dia berkata; saya mendengar [Tsabit] berkata; telah menceritakan kepada kami [Anas] radliallahu 'anhu dia berkata; "Aku menjadi pelayan Nabi shallallahu 'alaihi wasallam selama sepuluh tahun, dan beliau sama sekali tidak pernah mengatakan "ah", apa yang kamu perbuat? Dan kenapa kamu tidak melakukannya? (maksudnya menghardik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6038</td></tr><tr><td>Arabic No</td><td>6038</td></tr><tr><td>Reference</td><td>Book 78 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Я служил Пророку ﷺ десять лет, и он (ни разу) не сказал мне: “Уф!” — и (ни разу) не (сказал мне): “Почему ты сделал это?” — или: “Почему ты этого не сделал?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6038</td></tr><tr><td>Arabic No</td><td>6038</td></tr><tr><td>Reference</td><td>Book 78 Hadith 68</td></tr></tbody></table></div>
 

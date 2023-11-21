@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) said: One sho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] dan [Ahmad bin Abdah] secara makna, keduanya berkata; telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Amir Al Ahwal] dari [Amru bin Syu'aib]. [Ibnu Abdah] berkata; dari [Bapaknya] dari [Kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh duduk di antara dua orang kecuali dengan seizinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра бин Шу‘айба, что его отец передал, что его дед, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Садиться между двумя (людьми) можно только с их позволения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Bakkar:The narration of Anas abridged, saying, "The Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahal bin Bakar] telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Abu Qalabah] dari [Anas] lalu menyebutkan hadits, katanya: "Nabi Shallallahu'alaihiwasallam menyembelih tujuh ekor unta dengan tangannya sendiri dalam keadaan berdiri dan di Madinah Beliau berqurban dua ekor kambing yang gemuk dan bertanduk pendek
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1712</td></tr><tr><td>Arabic No</td><td>1712</td></tr><tr><td>Reference</td><td>Book 25 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Пророк ﷺ заколол семь верблюдов в стоячем положении, и принёс в Медине в жертву двух рогатых баранов с чёрно-белой шерстью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1712</td></tr><tr><td>Arabic No</td><td>1712</td></tr><tr><td>Reference</td><td>Book 25 Hadith 190</td></tr></tbody></table></div>
 

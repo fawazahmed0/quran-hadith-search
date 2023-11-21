@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abu Bakra:that his father said, "The Prophet (ﷺ) fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Imran bin Maisarah] telah menceritakan kepada kami ['Abbad bin Al 'Awwam] telah mengabarkan kepada kami [Yahya bin Abu Ishaq] telah menceritakan kepada kami ['Abdurrahman bin Abu Bakrah] dari [Bapaknya radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam melarang jual beli perak dengan perak dan emas dengan emas kecuali dengan jumlah yang sama, dan memerintahkan kami untuk berjual beli emas dengan perak terserah bagaimana keinginan kami dan perak dengan emas terserah bagaimana keinginan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2182</td></tr><tr><td>Arabic No</td><td>2182</td></tr><tr><td>Reference</td><td>Book 34 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Абу Бакра передал от своего отца, да будет доволен им Аллах, что Пророк ﷺ запретил продавать серебро за серебро и золото за золото, если только равное (количество не обменивается) на равное. И он приказал нам продавать золото за серебро так, как мы этого сами хотим, и серебро за золото так, как мы этого сами хотим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2182</td></tr><tr><td>Arabic No</td><td>2182</td></tr><tr><td>Reference</td><td>Book 34 Hadith 130</td></tr></tbody></table></div>
 

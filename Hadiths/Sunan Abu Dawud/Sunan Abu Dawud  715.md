@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: I came riding a donkey. Another version has: Ibn Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dia berkata; "Aku datang dengan mengendarai seekor keledai…" dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Ibnu Abbas] dia berkata; "Aku datang sambil menaiki seekor keledai, pada saat itu aku sudah hampir usia baligh, dan Rasulullah shallallahu 'alaihi wasallam sedang melaksanakan shalat bersama orang-orang di Mina, lalu aku lewat di depan sebagian shaf, lalu aku turun. Setelah itu aku melepas keledaiku untuk merumput, lalu aku masuk kedalam shaf, tapi tidak ada satupun orang yang menegur perbuatanku." Abu Daud berkata; "Ini redaksi dari Al Qa'nabi dan lebih lengkap, Malik mengatakan; "Dan aku melihat hal itu merupakan kemudahan apabila shalat telah di tegakkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (493) Sahih Muslim (504)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>715</td></tr><tr><td>Arabic No</td><td>715</td></tr><tr><td>Reference</td><td>Book 2 Hadith 325</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Однажды, я приехал верхом на осле».(Абу Дауд сказал): "Нам рассказал аль-Ка‘наби, сообщивший со слов Малика, сообщившего от Ибн Шихаба, передавшего от ‘Убайдуллаха ибн ‘Абдуллаха ибн ‘Утбы, сообщившего, что Ибн ‘Аббас сказал: «Однажды, незадолго до своего совершеннолетия я приехал верхом на ослице, где Посланник Аллаха ﷺ в это время совершал молитву с людьми в Мине. И я прошёл перед частью ряда (молившихся), слез с ослицы и отпустил её пастись, а потом стал в ряд, и никто не высказал мне за это порицания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (493) Sahih Muslim (504)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>715</td></tr><tr><td>Arabic No</td><td>715</td></tr><tr><td>Reference</td><td>Book 2 Hadith 325</td></tr></tbody></table></div>
 

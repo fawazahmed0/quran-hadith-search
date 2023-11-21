@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Aisha and 'Abdullah bin 'Abbas said, "When Allah's Messenger (ﷺ) became ill se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>4443</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши и ‘Абдуллаха ибн ‘Аббаса, да будет доволен ими Аллах, что перед самой своей смертью Посланник Аллаха ﷺ стал накидывать на лицо покрывало, а когда ему стало (трудно дышать), он убрал его с лица и сказал: «Да проклянёт Аллах (тех) иудеев и христиан, которые превратили могилы своих пророков в места для совершения молитв!» — предостерегая (мусульман) от повторения того, что делали (эти люди)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>4443</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

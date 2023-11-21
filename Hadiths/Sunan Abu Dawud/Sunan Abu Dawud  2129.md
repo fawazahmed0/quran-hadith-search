@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Shu'aib on his father's authority said that his grandfather reported The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ma'mar], telah menceritakan kepada kami [Muhammad bin Bakr Al Bursani], telah mengabarkan kepada kami [Ibnu Juraij] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap wanita yang dinikahkan dengan suatu mahar, pemberian, atau janji sebelum akad nikah, maka hal itu adalah miliknya. Adapun yang diberikan setelah akad nikah, maka hal itu adalah milik orang yang diberinya. Dan orang yang paling berhak terhadap penghormatan yang diberikan kepada seseorang adalah anak atau saudara wanita wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2129</td></tr><tr><td>Arabic No</td><td>2129</td></tr><tr><td>Reference</td><td>Book 12 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Посланник Аллаха ﷺ сказал: «Какая бы женщина ни вышла замуж на основе определённого брачного дара или подарка, сделанного до заключения брака, всё это ей, а всё, что было дано после заключения брака, принадлежит тому, кому оно было даровано. А больше всего мужчина заслуживает того, чтобы его почтили за его дочь или сестру»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2129</td></tr><tr><td>Arabic No</td><td>2129</td></tr><tr><td>Reference</td><td>Book 12 Hadith 84</td></tr></tbody></table></div>
 

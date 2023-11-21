@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Fudalah bin 'Ubaid:At the battle of Khaibar I bought a necklace in whic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Quaibah bin Sa'id], telah menceritakan kepada kami [Al Laits] dari [Abu Syuja' Sa'id bin Yazid?] dari [Khalid bin Abu Imran], dari [Hanasy Ash Shan'ani], dari [Fadhalah bin 'Ubaid], ia berkata; pada saat perang Khaibar, aku membeli kalung dengan harga dua belas dinar, padanya terdapat emas dan manik-manik. Kemudian aku memisahkannya dan aku dapatkan padanya lebih dari dua belas dinar. Kemudian aku sebutkan hal tersebut kepada Nabi shallallahu 'alaihi wasallam, lalu beliau berkata: "Tidak boleh dijual hingga dipisahkan (antara emas dan manik-manik tersebut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1591)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3352</td></tr><tr><td>Arabic No</td><td>3352</td></tr><tr><td>Reference</td><td>Book 23 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Фадаля ибн ‘Убайд, да будет доволен им Аллах, передаёт: «После взятия Хайбара я купил ожерелье за двенадцать динаров, состоящее из бус и золота. Я снял их с нити и обнаружил, что стоимость того, что я снял с нити, превышает двенадцать динаров. Я рассказал об этом Пророку ﷺ и он сказал: “Не следует продавать ожерелье, не разделив его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1591)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3352</td></tr><tr><td>Arabic No</td><td>3352</td></tr><tr><td>Reference</td><td>Book 23 Hadith 27</td></tr></tbody></table></div>
 

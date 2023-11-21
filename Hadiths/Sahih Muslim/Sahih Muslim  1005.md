@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported with regard to the words:" Do not move thy tongue there with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Musa bin Abi Aisyah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] mengenai firman Allah, "Janganlah kamu gerakkan lidahmu untuk (membaca) al-Qur'an karena hendak cepat-cepat (menguasai) nya." Dia berkata, "Nabi shallallahu 'alaihi wasallam membebani diri dengan at-Tanzil (al-Qur'an) sangat keras. Beliau menggerakkan kedua bibirnya (untuk melafadzkan)." Lalu Ibnu Abbas berkata kepada, "Saya menggerakkan keduanya sebagaimana dahulu Rasulullah shallallahu 'alaihi wasallam menggerakkan keduanya." Sa'id berkata, "Saya menggerakkan keduanya sebagaimana dahulu Ibnu Abbas menggerakkan keduanya." Lalu beliau menggerakkan keduanya, maka Allah menurunkan ayat, "Janganlah kamu gerakkan lidahmu untuk (membaca) al-Qur'an karena hendak cepat-cepat (menguasai) nya. kewajiban Kamilah untuk mengumpulkannya (di dadamu) dan (membuatmu pandai) membacanya." Dia berkata, "Maksudnya mengumpulkannya di dadamu, kemudian kamu membacanya." FirmanNya, "Apabila Kami selesai membacakannya maka ikutilah bacaan itu.' Dia berkata, '(Maksudnya apabila Kami telah menurunkannya) maka dengarkanlah kepadanya dan diamlah. Kemudian kewajiban Kamilah untuk membuatmu pandai membacanya'." Perawi berkata lagi, "Dahulu Rasulullah shallallahu 'alaihi wasallam apabila didatangi Jibril, maka beliau mendengarkan, lalu apabila Jibril beranjak pergi maka Nabi shallallahu 'alaihi wasallam membacanya sebagaimana aku membacanya sekarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1005</td></tr><tr><td>Arabic No</td><td>448.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Са‘ида ибн Джубайра, что, (толкуя) слова (Аллаха) «Не шевели языком своим, (повторяя слова Корана), чтобы (запомнить его) быстрее» (сура “аль-Кыяма”, аят 16), Ибн ‘Аббас сказал: «Во время ниспослания (откровений) Пророк ﷺ всегда испытывал напряжение и шевелил губами». Ибн ‘Аббас сказал: «И я пошевелю ими для тебя так же, как (делал это) Посланник Аллаха ﷺ», после чего пошевелил губами. Са‘ид (ибн Джубайр) сказал: «И я пошевелю ими так же, как (делал это) Ибн ‘Аббас», после чего пошевелил губами. (Ибн ‘Аббас сказал): «Тогда Всевышний Аллах ниспослал (аяты, в которых говорилось): “Не шевели языком своим, (повторяя слова Корана), чтобы (запомнить его) быстрее. Поистине, это Нам надлежит собрать и прочесть его” (сура “аль-Кыяма”, аят 16-17)». Ибн ‘Аббас сказал: «(Это значит): собрать его для тебя в твоём сердце, (чтобы ты смог) читать его». (Кроме того, о словах Аллаха) «Когда же Мы прочтём его, следуй его чтению» (сура “аль-Кыяма”, аят 18) (Ибн ‘Аббас) сказал: «(Это значит): слушай его внимательно, а потом Нам надлежит сделать так, чтобы ты (правильно) читал его». (Ибн ‘Аббас) сказал: «И (после этого)Посланник Аллаха ﷺ всегда выслушивал Джибриля, когда тот являлся к нему, а когда Джибриль уходил, Пророк ﷺ читал (аяты Корана) так же, как читал их ему он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1005</td></tr><tr><td>Arabic No</td><td>448.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 167</td></tr></tbody></table></div>
 

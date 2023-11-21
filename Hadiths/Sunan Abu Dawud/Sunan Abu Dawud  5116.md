@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: Allah, Most High, has removed from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Marwan Ar Raqqi] berkata, telah menceritakan kepada kami [Al Mu'afa]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] berkata, telah mengabarkan kepada kami [Ibnu Wahb] -dan ini adalah hadits riwayatnya- dari [Hisyam bin Sa'd] dari [Sa'id bin Abu Sa'id] dari [Bapaknya] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah telah menghilangkan dari kalian kesombongan ala Jahilliyah dan kebanggaan kalian dengan nenek moyang. (Yang ada adalah) orang beriman yang bertakwa dan orang yang jahat yang sengsara. Kalian adalah anak cucu Adam, dan Adam tercipta dari tanah. Maka, hendaklah orang-orang meninggalkan kebanggaan mereka terhadap kaumnya; sebab mereka hanya (akan) menjadi arang jahannam, atau di sisi Allah mereka akan menjadi lebih hina dari serangga yang mendorong kotoran dengan hidungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5116</td></tr><tr><td>Arabic No</td><td>5116</td></tr><tr><td>Reference</td><td>Book 43 Hadith 344</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Поистине, Всемогущий и Великий Аллах удалил от вас надменность джахилиййи и свойственный ей (обычай) кичиться своими предками. (Есть только) богобоязненный верующий и несчастный грешник, все вы дети Адама, а Адам создан из земли. Либо люди прекратят кичиться своими предками, (которые умерли) и не являются ничем иным, кроме как углем Геенны, либо они станут более презренными перед Аллахом, чем навозный жук, который скатывает испражнения своим носом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5116</td></tr><tr><td>Arabic No</td><td>5116</td></tr><tr><td>Reference</td><td>Book 43 Hadith 344</td></tr></tbody></table></div>
 

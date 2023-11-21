@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) cut off the hand of a lady, and that lady used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] mengatakan; Telah menceritakan kepadaku [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] dari [Urwah] dari ['Aisyah], bahwasanya Nabi shallallahu 'alaihi wasallam pernah memotong tangan seorang wanita. 'Aisyah menuturkan; wanita tersebut di kemudian hari datang sehingga kulaporkan keperluannya kepada Nabi shallallahu 'alaihi wasallam, maka ia bertobat dan melakukan taubatnya dengan baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6800</td></tr><tr><td>Arabic No</td><td>6800</td></tr><tr><td>Reference</td><td>Book 86 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что по приказу Пророка ﷺ женщине (которая украла) отрубили руку: «После этого она приходила ко мне, и я рассказывала о её нуждах Пророку ﷺ. Затем она принесла прекрасное покаяние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6800</td></tr><tr><td>Arabic No</td><td>6800</td></tr><tr><td>Reference</td><td>Book 86 Hadith 29</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), 'Urwa Ibn Az-Zubayr transmet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin Amru bin Sarh] dan [Harmalah bin Yahya At Tujibi] berkata Abu Ath Thahir: Telah menceritakan kepada kami, sedangkan Harmalah berkata: Telah mengkhabarkan kepada kami [Ibnu Wahab] telah mengkhabarkan kepadaku [Yunus] dari [Ibnu syihab] telah mengkhabarkan kepadaku [Urwah bin Zubair] bahwa ia bertanya kepada [Aisyah] tentang firman Allah: "Dan jika kalian khawatir tidak berlaku adil dalam masalah anak-anak yatim maka nikahilah (wanita-wanita) yang baik bagi kalian dua, atau tiga, atau empat." (An Nisaa': 3) Aisyah berkata: Wahai keponakanku, itu maksudnya adalah seorang anak wanita yatim yang berada di bawah pengawasan walinya (dan) ia ikut (dalam tanggungan) hartanya lalu ia sang wali terkagum dengan harta dan kecantikan anak yatim itu kemudian sang wali ingin menikahinya dengan (niatan) tidak adil di dalam maharnya agar ia memberikannya sesuatu yang semisal dengan apa yang diberikan kepada selain dia, lalu mereka dilarang untuk menikahi mereka kecuali untuk berlaku adil bagi mereka dan agar mereka menyampaikan mahar yang lebih tinggi dan mereka diperintahkan untuk menikahi wanita-wanita yang baik bagi mereka selain anak-anak yatim. Urwah berkata: Aisyah berkata: Kemudian orang-orang meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam setelah ayat ini tentang mereka (anak-anak yatim perempuan) lalu Allah 'azza wajalla menurunkan ayat: "Dan mereka meminta fatwa kepadamu tentang wanita-wanita katakanlah: 'Allah yang berfatwa kepada kalian tentang mereka dan apa yang dibacakan atas kalian dalam Al Kitab tentang wanita-wanita yatim yang kalian tidak memberikan kepada mereka apa yang telah ditetapkan bagi mereka sedang kalian ingin menikahi mereka." (An Nisaa': 127) Aisyah berkata: Dan yang disebutkan oleh Allah Ta'ala bahwasanya itu adalah yang dibacakan atas kalian dalam al-Qur'an pada ayat sebelumnya yang menyebutkan firman Allah: "Dan jika kalian khawatir untuk tidak berbuat adil dalam masalah anak-anak yatim maka nikahilah wanita-wanita yang baik bagi kalian." (An Nisaa': 3) Aisyah berkata: Dan firman Allah dalam ayat yang lain: "Sedang kalian ingin menikahi mereka, " (An Nisaa': 127) adalah ketidaksukaan salah seorang di antara kalian terhadap wanita yatim yang berada di bawah pengawasan kalian sedang ia sedikit hartanya dan kurang cantik. Karena itu, mereka dilarang menikahi karena apa yang mereka sukai dari harta dan kecantikan wanita-wanita yatim kecuali dengan keadilan karena ketidaksukaan mereka pada wanita-wanita yatim. Telah menceritakan kepada kami [Al Hasan Al Hulwani] dan [Abdu bin Humaid] semuanya dari [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Syihab] telah mengkhabarkan kepadaku [Urwah] bahwa ia bertanya kepada [Aisyah] tentang firman Allah: "Dan jika kalian khawatir untuk tidak berbuat adil terhadap wanita-wanita yatim, " (An Nisaa': 3) ia menyebutkan hadits tersebut seperti hadits Yunus dari Az Zuhri dan ia menambahkan di akhirnya: Karena ketidaksukaan mereka terhadap wanita-wanita yatim jika sedikit hartanya dan kurang cantik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7528</td></tr><tr><td>Arabic No</td><td>3018.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7528</td></tr><tr><td>Arabic No</td><td>3018.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 6</td></tr></tbody></table></div>
 

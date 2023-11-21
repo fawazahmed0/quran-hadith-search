@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:A negress (or a youth) used to sweep the mosque. The Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], dan [Musaddad] mereka berkata; telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah] bahwa seorang wanita hitam atau seorang laki-laki yang menyapu dan membersihkan masjid, kemudian Nabi shallallahu 'alaihi wasallam kehilangan dirinya, lalu beliau menanyakannya. Kemudian dikatakan; ia telah meninggal. Maka beliau berkata: "Tidakkah kalian memberitahukan kepadaku?" Beliau berkata: "Tunjukkan kepadaku kuburannya!" kemudian mereka menunjukkannya kepada beliau dan beliau menshalatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (458) Sahih Muslim (956)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3203</td></tr><tr><td>Arabic No</td><td>3203</td></tr><tr><td>Reference</td><td>Book 21 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что в своё время темнокожая женщина или мужчина, подметавший в мечети, умер. Пророк ﷺ долго не видя его, спросил о нём, и ему сказали: «Он умер». Услышав об этом, он воскликнул: «И вы ничего не сказали мне?! Покажите мне его (или: её) могилу!» и ему показали могилу и он совершил возле неё погребальную молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (458) Sahih Muslim (956)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3203</td></tr><tr><td>Arabic No</td><td>3203</td></tr><tr><td>Reference</td><td>Book 21 Hadith 115</td></tr></tbody></table></div>
 

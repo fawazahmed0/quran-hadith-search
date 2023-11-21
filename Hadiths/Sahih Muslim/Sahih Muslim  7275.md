@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The Euphrates would soon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Utsman] telah menceritakan kepada kami [Uqbah bin Khalid] dari [Ubaidullah] dari [Abu Az Zinad] dari [Abdurrahman Al A'raj] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Hampir saja Furat mengumpulkan harta simpanan dari emas, barangsiapa menghadirinya, jangan mengambil apa pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7275</td></tr><tr><td>Arabic No</td><td>2894.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7275</td></tr><tr><td>Arabic No</td><td>2894.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 41</td></tr></tbody></table></div>
 

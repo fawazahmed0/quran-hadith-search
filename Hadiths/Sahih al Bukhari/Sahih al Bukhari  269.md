@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I used to get emotional urethral discharge frequently. Being the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Za'idah] dari [Abi Hushain] dari [Abu 'Abdurrahman] dari ['Ali] berkata,: "Dulu aku adalah seorang yang sering mengeluarkan madzi. Maka aku minta seseorang untuk bertanya kepada Nabi shallallahu 'alaihi wasallam. karena kedudukan putri Beliau shallallahu 'alaihi wasallam. Maka orang itu bertanya, lalu Jawab Nabi shallallahu 'alaihi wasallam.: "Baginya wudlu' dan mencuci kemaluannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>269</td></tr><tr><td>Reference</td><td>Book 5 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Обычно у меня выделялась жидкость, и поэтому (однажды) я велел одному человеку спросить об этом Пророка ﷺ из-за положения, которое занимала его дочь при мне. И когда он спросил (об этом Пророка ﷺ) он сказал: “Соверши омовение и помой свой половой орган”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>269</td></tr><tr><td>Reference</td><td>Book 5 Hadith 22</td></tr></tbody></table></div>
 

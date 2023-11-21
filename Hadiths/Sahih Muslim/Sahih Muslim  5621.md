@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl Ibn Sa'd (que Dieu l'agrée) a dit : Au moment de sa naissance, on apporta 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Sahl At Tamimi] dan [Abu Bakr bin Ishaq] keduanya berkata; Telah menceritakan kepada kami [Ibnu Abu Maryam]; Telah menceritakan kepada kami [Muhammad]; yaitu Ibnu Mutharrif Abu Ghassan; Telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] ia berkata; "Ketika baru dilahirkan, Al Mundzir bin Abu Usaid pernah di bawa ke hadapan Rasulullah shallallahu 'alaihi wasallam. Lalu beliau meletakkannya di pangkuan beliau, sedangkan Abu Usaid duduk di samping beliau. Tampaknya perhatian Rasulullah shallallahu 'alaihi wasallam tercurah penuh kepada sesuatu yang berada di hadapannya. Kemudian Abu Usaid menyuruh seorang sahabat untuk mengangkat anaknya dari atas paha Rasulullah shallallahu 'alaihi wasallam dan memindahkannya. Ketika Rasulullah shallallahu 'alaihi wasallam bertanya: 'Mana bayi itu? ' Abu Usaid menjawab; 'Kami telah memindahkannya dari atas paha engkau, ya Rasulullah? ' Rasulullah shallallahu 'alaihi wasallam bertanya: 'Siapa nama bayi itu? ' Abu Usaid menjawab; 'Fulan ya Rasulullah.' Rasulullah shallallahu 'alaihi wasallam berkata: 'Janganlah beri nama itu. Tetapi berilah nama Al Mundzir! ' Dengan demikian, Rasulullah telah memberinya nama Al Mundzir pada hari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5621</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 38 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5621</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 38 Hadith 36</td></tr></tbody></table></div>
 

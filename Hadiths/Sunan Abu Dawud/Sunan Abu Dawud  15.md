@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: I heard the Messenger of Allah (ﷺ) say: When two 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] telah menceritakan kepada kami [Ibnu Mahdi] telah menceritakan kepada kami [Ikrimah bin Ammar] dari [Yahya bin Abu Katsir] dari [Hilal bin 'Iyadh] dia berkata; Telah menceritakan kepada saya [Abu Sa'id] dia berkata; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah dua orang laki-laki pergi ke tempat buang hajat dalam keadaan membuka aurat keduanya, lalu bercakap-cakap, karena sesungguhnya Allah 'azza wajalla membenci demikian." Abu Dawud berkata; kalimat ini tidak diisnadkan kecuali oleh Ikrimah bin Ammar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Arabic No</td><td>15</td></tr><tr><td>Reference</td><td>Book 1 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хилял ибн ‘Ияд сказал: Рассказал мне Абу Са‘ид (аль-Худри), который сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Пусть не уединяются двое из вас (для справления нужды), обнажив свой аурат, и разговаривая друг с другом. Поистине, Аллаху Великому и Всемогущему ненавистно это”».Абу Дауд сказал: «Не передавал этот хадис никто, кроме ‘Икримы ибн ‘Аммара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Arabic No</td><td>15</td></tr><tr><td>Reference</td><td>Book 1 Hadith 15</td></tr></tbody></table></div>
 

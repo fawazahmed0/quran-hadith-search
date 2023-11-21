@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka’b b. ‘Ujrah said:We said or the people said: Messenger of Allah, you have
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>976</td></tr><tr><td>Arabic No</td><td>976</td></tr><tr><td>Reference</td><td>Book 2 Hadith 587</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ка‘б ибн ‘Уджра, да будет доволен им Аллах, сказал: «Мы сказали (или: люди сказали): “О Посланник Аллаха, ты велел нам приветствовать тебя и обращаться к Аллаху с мольбами за тебя. Мы уже знаем, как приветствовать тебя, но как нам обращаться к Аллаху с мольбами за тебя?” Он сказал: “Говорите: “О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты Ибрахима, поистине, Ты Достойный хвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их семейству Ибрахима, поистине, Ты Достойный хвалы, Славный! /Аллахумма, салли ‘аля Мухаммадин ва ‘аля али Мухаммадин ка-ма салляйта ‘аля Ибрахима, инна-кя Хамидун, Маджид! Аллахумма, барик ‘аля Мухаммадин ва ‘аля али Мухаммадин ка-ма баракта ‘аля али Ибрахима, инна-ка Хамидун, Маджид/””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>976</td></tr><tr><td>Arabic No</td><td>976</td></tr><tr><td>Reference</td><td>Book 2 Hadith 587</td></tr></tbody></table></div>
 

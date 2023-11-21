@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:'Utba (bin Abi Waqqas) said to his brother Sa'd, "The son of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] radliallahu 'anha mengatakan; 'Utbah berpesan kepada saudaranya Sa'd, bahwa 'putra dari hamba sahaya Zam'ah adalah dariku, maka ambilah dia.' Di hari penaklukan Makkah, Sa'd mengambilnya dengan mengatakan; 'Ini adalah putra saudaraku, ia berpesan kepadaku tentangnya.' Maka berdirilah Abd bin Zam'ah seraya mengatakan; '(dia) saudaraku, dan putra dari hamba sahaya ayahku, dilahirkan diatas ranjangnya.' Maka Nabi shallallahu 'alaihi wasallam bersabda: "Dia bagimu wahai Abd bin Zam'ah, anak bagi pemilik ranjang dan bagi pezinah adalah batu (rajam)." Kemudian Nabi bersabda kepada Saudah binti Zam'ah: "hendaklah engkau berhijab darinya, " beliau melihat kemiripannya dengan 'Utbah, sehingga anak laki-laki itu tak pernah lagi melihat Saudah hingga ia meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6749</td></tr><tr><td>Arabic No</td><td>6749</td></tr><tr><td>Reference</td><td>Book 85 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время) ‘Утба (ибн Абу Ваккас) дал своему брату, Са‘ду (ибн Абу Ваккасу), поручение, (сказав:) “Сын невольницы(, хозяином которой является) Зам‘а, (рождён) от меня, возьми же его под свою (опеку)”. И в год завоевания Мекки Са‘д (ибн Абу Ваккас), взял его и сказал: “Он сын моего брата, поручившего мне (взять) его”. Тогда ‘Абд ибн Зам‘а встал и сказал: “Он мой брат и сын невольницы моего отца, рождённый на его постели”, после чего оба они отправились к Пророку ﷺ. Са‘д сказал: “О Посланник Аллаха, он сын моего брата, который поручил мне забрать его”, а ‘Абд бин Зам‘а сказал: “Он мой брат и сын невольницы моего отца, рождённый на его постели”. (Выслушав их,) Посланник Аллаха ﷺ сказал: “Он твой, о ‘Абд бин Зам‘а. Ребёнок принадлежит постели, а прелюбодею — позор и лишения (прав на ребёнка)”. И потом Пророк ﷺ сказал Сауде бинт Зам‘а: “Закрывайся от него”, так как он увидел, что (юноша действительно) похож на ‘Утбу, и тот до самой своей смерти больше не увидел её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6749</td></tr><tr><td>Arabic No</td><td>6749</td></tr><tr><td>Reference</td><td>Book 85 Hadith 26</td></tr></tbody></table></div>
 

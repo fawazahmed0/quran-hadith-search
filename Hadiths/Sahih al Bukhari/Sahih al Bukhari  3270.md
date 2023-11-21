@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:It was mentioned before the Prophet (ﷺ) that there was a ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Utsman bin Abu Syaibah] telah bercerita kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari ['Abdullah radliallahu 'anhu] berkata; "Dilaporkan kepada Nabi shallallahu 'alaihi wasallam seseorang yang tertidur melewati malamnya hingga pagi, maka Beliau bersabda: "Itulah orang yang dikencingi syaitan pada kedua telinganya", atau dia berkata: "pada telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3270</td></tr><tr><td>Arabic No</td><td>3270</td></tr><tr><td>Reference</td><td>Book 59 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «(Однажды) в присутствии Пророка ﷺ кто-то упомянул об одном человеке, который продолжал спать, пока не проснулся утром, (не встав на молитву)”. (В ответ на это Пророк ﷺ) сказал: “Шайтан помочился ему в уши (или в ухо)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3270</td></tr><tr><td>Arabic No</td><td>3270</td></tr><tr><td>Reference</td><td>Book 59 Hadith 80</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "Shall I tell you of the b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Laits] dari [Yahya bin Sa'id Al Anshari] bahwa ia mendengar [Anas bin Malik] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Maukah aku beritahukan pada kalian akan sebaik-baik rumah kaum Anshar?" mereka pun menjawab, "Mau wahai Rasulullah." Beliau bersabda: "Yaitu Banu An Najjar, setelah mereka Banu Abdul Asyhal, setelah mereka Banul Harits bin Al Khazraj, setelah mereka Banu Sa'idah." Kemudian beliau bersabda dengan menggenggam jari-jemarinya dan merenggangkannya kembali sebagaimana seorang yang melempar, beliau bersabda: "Dan pada setiap rumah kaum Anshar terdapat kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5300</td></tr><tr><td>Arabic No</td><td>5300</td></tr><tr><td>Reference</td><td>Book 68 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Не сообщить ли мне вам о лучших из семей ансаров?» Люди ответили: «Конечно, о Посланник Аллаха». Он сказал: «(Лучшие из семей ансаров —) это бану ан-наджжар, за ними следуют — бану ’абд аль-ашхаль, затем — бану аль-харис ибн аль-хазрадж, а затем — род бану са‘ида». После этого Пророк ﷺ сомкнул пальцы и разжал их, как будто что-то бросает, а затем сказал: «И в каждом из родов ансаров (есть благо)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5300</td></tr><tr><td>Arabic No</td><td>5300</td></tr><tr><td>Reference</td><td>Book 68 Hadith 49</td></tr></tbody></table></div>
 

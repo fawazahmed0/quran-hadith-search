@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the the outhority of Anas b. Malik that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Hasyim al-Abdi] telah menceritakan kepada kami [Bahz bin Asad] telah menceritakan kepada kami [Sulaiman bin al-Mughirah] telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Saya didatangi (malaikat) lalu mereka membawaku ke sumur Zamzam, lalu dadaku dibelah dan dicuci dengan air Zamzam, kemudian aku ditinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>412</td></tr><tr><td>Arabic No</td><td>162.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 317</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Ко мне пришли (ангелы) и отвели меня к Замзаму, после этого моя грудь была раскрыта и омыта водой Замзама, затем я был оставлен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>412</td></tr><tr><td>Arabic No</td><td>162.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 317</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah created Adam in His picture,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ja'far] telah menceritakan kepada kami [Abdurrazzaq] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Telah Allah cipta Adam dengan semua ciri fisiknya, tingginya enam puluh hasta. Selesai Allah menciptanya, Allah berfirman "Sana pergi, dan ucapkanlah salam kepada malaikat yang duduk itu, dan dengarkan baik-baik bacaan salam mereka kepadamu, sebab itu sebagai salam penghormatanmu dan juga anak cucu keturunanmu." Adam mengucapkan "Assalamu'alaikum". Para malaikat menjawab "Assalamu'alaika warohmatullah." Dan mereka menambahnya lagi dengan "Wabarokaatuh." Maka siapapun yang masuk surga, ciri fisiknya seperti Adam (tingginya enam puluh hasta), namun manusia semenjak jaman Adam, tingginya semakin berkurang hingga sekarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6227</td></tr><tr><td>Arabic No</td><td>6227</td></tr><tr><td>Reference</td><td>Book 79 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Аллах создал Адама по образу Своему. Его рост составил шестьдесят локтей. Создав его, Он сказал: “Ступай и пожелай мира вот той группе сидящих ангелов. Послушай, как они поприветствуют тебя, и это будет приветствием твоим и твоих потомков”. И (Адам) сказал: “Мир вам /Ас-саляму ‘аляй-кум/”, они же ответили (ему): “Мир тебе и милость Аллаха /Ас-саляму ‘аляй-кя ва рахмату-Ллах/”, добавив (к его приветствию слова) “и милость Аллаха”. И каждый из тех, кто войдёт в Рай, будет напоминать (своим обличьем) Адама, что же касается людей, то (со времени сотворения Адама) и до сих пор они продолжают уменьшаться (в размерах)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6227</td></tr><tr><td>Arabic No</td><td>6227</td></tr><tr><td>Reference</td><td>Book 79 Hadith 1</td></tr></tbody></table></div>
 

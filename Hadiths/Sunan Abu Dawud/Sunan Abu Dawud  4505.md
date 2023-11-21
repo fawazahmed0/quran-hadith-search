@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:When Mecca was conquered, the Messenger of Allah (ﷺ) got
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas Ibnul Walid bin Mazyad] berkata, telah mengabarkan kepadaku [Bapakku] berkata, telah menceritakan kepada kami [Al Auza'i] berkata, telah menceritakan kepadaku [Yahya]. (dalam jalur lain disebutkan) telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepadaku [Abu Dawud] berkata, telah menceritakan kepada kami [Harb bin Syaddad] berkata, telah menceritakan kepada kami [Yahya bin Abu Katsir] berkata, telah menceritakan kepadaku [Abu Salamah bin 'Abdurrahman] berkata, telah menceritakan kepada kami [Abu Hurairah] ia berkata, "Saat pembukaan kota Makkah Rasulullah shallallahu 'alaihi wasallam berdiri dan berkhutbah, beliau bersabda: "Barang siapa di antara kalian ada yang (keluarganya) terbunuh, maka ia mempunyai dua pilihan terbaik; minta tebusan atau balas bunuh." Lalu seorang laki-laki dari penduduk Yaman yang bernama Abu Syah berdiri dan berkata, "Wahai Rasulullah, tuliskanlah untukku." Al Abbas berkata, "Kalian menulislah untukku." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Buatlah tulisan untuk Abu Syah." Dan ini adalah lafadz hadits dari Ahmad. Abu Dawud berkata, "kalian menulislah untukku' maksudnya adalah khutbah yang disampaikan oleh Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2434، 6880) Sahih Muslim (1355)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4505</td></tr><tr><td>Arabic No</td><td>4505</td></tr><tr><td>Reference</td><td>Book 41 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах: «После покорения Мекки Посланник Аллаха ﷺ сказал: “У кого убили кого-то, тот имеет право выбрать одно из двух: либо компенсация /дийа/, либо казнь убийцы”. Услышав эти слова, человек из числа жителей Йемена по имени Абу Шах поднялся и попросил: “О Посланник Аллаха, запиши (или: запишите) это для меня”. Посланник Аллаха ﷺ сказал: “Запишите это для Абу Шаха”». Абу Дауд сказал: «Говоря: “Запишите это для меня”, Абу Шах имел в виду проповедь Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2434، 6880) Sahih Muslim (1355)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4505</td></tr><tr><td>Arabic No</td><td>4505</td></tr><tr><td>Reference</td><td>Book 41 Hadith 12</td></tr></tbody></table></div>
 

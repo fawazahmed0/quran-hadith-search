@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:The Apostle of Allah (ﷺ) said in Mina the prayer of a trave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Muadz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin Abdurrahman] ia mendengar [Hafs bin 'Ashim] dari [Ibnu Umar] katanya; Nabi shallallahu 'alaihi wasallam pernah shalat di Mina dengan shalatnya musafir, begitu juga Abu Bakr, Umar dan Usman selama delapan tahun." -Atau mengatakan; enam tahun- [Hafs] mengatakan; [Ibnu Umar] shalat di Mina dua rakaat, kemudian ia mendatangi tempat tidurnya. Lalu aku berkata kepadanya; "Wahai paman, alangkah baiknya sekiranya engkau lakukan setelahnya dua rakaat." Dia menjawab; "Kalaulah aku lakukan dua shalat sunnah itu, niscaya kusempurnakan shalatku." Telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Al Mutsanna] katanya; telah menceritakan kepadaku [Abdusshamad] keduanya berkata; telah menceritakan kepada kami [Syu'bah] dengan sanad seperti ini, namun dalam hadisnya, ia tidak mengatakan "Di Mina, " namun ia mengatakan; "Shalat dalam perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1594</td></tr><tr><td>Arabic No</td><td>694.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «(Находясь в) Мине (во время хаджа), Пророк ﷺ, Абу Бакр и ‘Умар (всегда) совершали молитвы путника, (что же касается) ‘Усмана, то (он поступал так же) в течение восьми (или, шести) лет (своего правления)».Хафс сказал: «Ибн ‘Умар всегда совершал в Мине молитвы в два рак‘ата, а потом ложился на свою постель. (Однажды) я сказал ему: “О дядя, (было бы хорошо), если бы после этого ты совершил (дополнительную молитву) в два рак‘ата”, на что он сказал: “Если бы я сделал это, то непременно совершил бы (обязательную) молитву полностью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1594</td></tr><tr><td>Arabic No</td><td>694.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
 

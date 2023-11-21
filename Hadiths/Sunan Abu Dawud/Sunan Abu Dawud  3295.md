@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man came to Prophet (ﷺ) and said: Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Abu Ya'qub] telah menceritakan kepada kami [Abu An Nadhr], telah menceritakan kepada kami [Syarik], dari [Muhammad bin Abdurrahman] mantan budak keluarga Thalhah, dari [Kuraib] dari [Ibnu abbas] ia berkata; telah datang seorang laki-laki kepada Nabi shallallahu 'alaihi wasallam dan berkata; sesungguhnya saudara wanitaku telah bernadzar untuk berhaji dengan berjalan kaki. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah tidak membuat sesuatupun dengan penderitaan saudarimu, hendaknya ia berhaji dengan berkendaraan dan membayar kafarah sumpahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3295</td></tr><tr><td>Arabic No</td><td>3295</td></tr><tr><td>Reference</td><td>Book 22 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ увидел какого-то старца, который шёл, поддерживаемый двумя своими сыновьями, и спросил: «Что с ним?» Его сыновья сказали: «Он дал обет идти пешком (до Аль-Харама)». (Пророк ﷺ) сказал: «Поистине, Аллах не нуждается в том, чтобы этот человек подвергал себя мучениям», и велел ему ехать верхом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3295</td></tr><tr><td>Arabic No</td><td>3295</td></tr><tr><td>Reference</td><td>Book 22 Hadith 54</td></tr></tbody></table></div>
 

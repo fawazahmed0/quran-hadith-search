@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Ayyub that a man came to the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan kepada kami [Abu al-Ahwash]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu al-Ahwash] dari [Abu Ishaq] dari [Musa bin Thalhah] dari [Abu Ayyub] dia berkata, "Seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam, seraya bertanya, 'Tunjukkanlah kepadaku suatu amalan yang mendekatkanku dari surga dan menjauhkanku dari neraka? ' Beliau menjawab: 'Kamu menyembah Allah, tidak mensyirikkan-Nya dengan sesuatu apa pun, mendirikan shalat, menunaikan zakat, menyambung silaturrahim dengan keluarga." Ketika dia pamit maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika dia berpegang teguh pada sesuatu yang diperintahkan kepadanya niscaya dia masuk surga'." Dan dalam suatu riwayat [Ibnu Abu Syaibah], "Jika dia berpegang teguh dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>106</td></tr><tr><td>Arabic No</td><td>14.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Аййуб (аль-Ансари), да будет доволен им Аллах, сказал: «(Как-то раз) к Пророку ﷺ пришел один человек и сказал: “Укажи мне на такое дело, которое приблизит меня к раю и удалит от огня, если я буду его совершать”, (на что) Пророк ﷺ сказал: “Поклоняйся Аллаху и не придавай ему ничего в сотоварищи, совершай молитву, выплачивай закят и поддерживай свои родственные связи”. Когда же он развернулся чтобы уйти, Посланник Аллаха ﷺ сказал: “Если он будет придерживаться того, что велено, он зайдет в Рай”».В версии Ибн Абу Шейбы сказано: «Если он будет придерживаться этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>106</td></tr><tr><td>Arabic No</td><td>14.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 14</td></tr></tbody></table></div>
 

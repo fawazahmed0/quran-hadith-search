@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Auza'i said:I always concealed it, but I found that it became known widely, t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib], telah menceritakan kepada kami [Ibnu Wahb], ia berkata; saya mendengar [Al Laits] menceritakan dari [Ibnu Syihab] bahwa ia apabila menyebutkan kepadanya bahwa beliau melarang dari berpuasa pada Hari Sabtu Ibnu Syihab berkata; ini adalah hadits orang Himshi. Telah menceritakan kepada kami [Muhammad bin Ash Shabah bin Sufyan], telah menceritakan kepada kami [Al Walid] dari [Al Auza'i], ia berkata; aku masih menyembunyikannya hingga aku melihatnya telah menyebar. Yang ia maksud adalah hadits Abdullah bin Busr ini yang berbicara mengenai puasa pada Hari Sabtu. Abu Daud berkata; Malik berkata; ini adalah dusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Авза‘и сказал: «Я скрывал этот хадис, пока не увидел, что он распространился». Он имел в виду хадис ‘Абдуллаха ибн Бусра о посте в субботу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
 

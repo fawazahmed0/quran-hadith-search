@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet; said, "Allah has a sense of Ghira, and Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan dari [Yahya] bahwa [Abu Salamah] Telah meceritakan kepadanya bahwa [Abu Hurairah] Telah menceritakan kepadanya, bahwa ia mendengar Nabi shallallahu 'alaihi wasallam bersabda. -Dalam riwayat lain- Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] bahwa ia mendengar [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Sesungguhnya Allah itu cemburu. Dan kecemburuan Allah datang, bilamana seorang mukmin melakukan hal yang diharamkan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5223</td></tr><tr><td>Arabic No</td><td>5223</td></tr><tr><td>Reference</td><td>Book 67 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, Аллах ревнив, а проявляется ревность Аллаха в том случае, когда верующий совершает то, что Аллах запретил ему (делать)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5223</td></tr><tr><td>Arabic No</td><td>5223</td></tr><tr><td>Reference</td><td>Book 67 Hadith 156</td></tr></tbody></table></div>
 

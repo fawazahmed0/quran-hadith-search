@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:'Aisha said, "If anyone tells you that Muhammad has seen his Lor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Ismail] dari [Asy Sya'bi] dari [Masruq] dari ['Aisyah] radliyallahu'anhuma, ia berkata, "Barangsiapa menceritakan kepadamu bahwa Muhammad Shallallahu'alaihiwasallam melihat Tuhannya berarti ia telah dusta, karena Allah berfirman: '(Ia tidak bisa dimengetahui oleh pandangan) ' (Qs. Al An'am: 103), dan barangsiapa menceritakan kepadamu bahwa ia tahu yang ghaib, berarti ia telah dusta, sebab Muhammad bersabda: 'Tidak ada yang tahu yang ghaib selain Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7380</td></tr><tr><td>Arabic No</td><td>7380</td></tr><tr><td>Reference</td><td>Book 97 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Масрукъа (да помилует его Аллах), что ‘Аиша, да будет доволен ею Аллах, сказала: «Кто скажет тебе, что Мухаммад ﷺ видел своего Господа, солгал, а Он (Аллах) говорит: “Взоры не могут постичь Его” (сура «аль-Ан‘ам», аят 103). И кто скажет тебе, что он (Мухаммад) знает сокровенное, солгал, а Он говорит: “Не ведает сокровенное никто, кроме Аллаха” (сура «ан-Намль», аят 65)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7380</td></tr><tr><td>Arabic No</td><td>7380</td></tr><tr><td>Reference</td><td>Book 97 Hadith 10</td></tr></tbody></table></div>
 

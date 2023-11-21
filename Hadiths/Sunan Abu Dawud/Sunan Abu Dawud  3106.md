@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If anyone visits a sick who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Yahya], telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Yazid? Abu Khalid] dari [Al Minhal bin 'Amr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau berkata: "Barangsiapa yang mengunjungi orang sakit yang belum datang ajalnya kemudian ia mengucapkan (doa) di sebelahnya sebanyak tujuh kali: AS ALULLAAHAL 'AZHIIM RABBAL 'ARSYIL 'AZHIIM AN YASYFIYAKA (aku mohon kepada Allah yang Maha Agung, Tuhan Arsy yang Agung semoga Dia menyembuhkanmu), maka Allah akan menyembuhkannya dari penyakit tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3106</td></tr><tr><td>Arabic No</td><td>3106</td></tr><tr><td>Reference</td><td>Book 21 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если кто-нибудь навестит больного, срок жизни которого ещё не истёк, и, находясь у него, семь раз скажет: “Прошу Великого Аллаха, Господа великого Трона, исцелить тебя!” Аллах обязательно исцелит его от этого недуга /Ас‘алю-Ллаха-ль-‘Азыма, Рабба-ль-‘арши-ль-‘азыми ан йашфийака/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3106</td></tr><tr><td>Arabic No</td><td>3106</td></tr><tr><td>Reference</td><td>Book 21 Hadith 18</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A version of the tradition narrated on the authority of 'Urwat al-Bariqi does no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Fudlail] dan [Ibnu Idris] dari [Hushain] dari [As Sya'bi] dari ['Urwah Al Bariqi] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Keberkahan itu tertulis pada ubun-ubun kuda." Beliau ditanya, "Wahai Rasulullah, kebaikan yang bagaimana itu?" beliau menjawab: "Berupa pahala dan ghanimah hingga hari Kiamat." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Hushain] dengan isnad ini, namun 'Urwah bin Ja'd berkata; telah menceritakan kepada kami [Yahya bin Yahya] dan [Khalaf bin Hisyam] serta [Abu Bakar bin Abu Syaibah] semuanya dari [Abu Al Ahwash]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] keduanya dari [Sufyan] semuanya dari [Syabib bin Ghurqadah] dari ['Urwah Al Bariqi] dari Nabi shallallahu 'alaihi wasallam, dan dia tidak menyebutkan, "Berupa pahala dan ghanimah." Dan dalam hadits Sufyan dia mendengar Urwah Al Bariqi, bahwa dia mendengar Nabi shallallahu 'alaihi wasallam." Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] keduanya dari [Syu'bah] dari [Abu Ishaq] dari [Al 'Aizar bin Huraits] dari ['Urwah bin Al Ja'd] dari Nabi shallallahu 'alaihi wasallam, dengan tidak menyebutkan, "Berupa pahala dan ghanimah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4852</td></tr><tr><td>Arabic No</td><td>1873.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4852</td></tr><tr><td>Arabic No</td><td>1873.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 148</td></tr></tbody></table></div>
 

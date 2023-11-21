@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Qais daughter of Mihsan reported that she came to the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] dari [Ummu Qais binti Mihshan] bahwasanya dia pernah membawa anaknya yang masih kecil yang belum makan (selain ASI) kepada Rasulullah shallallahu 'alaihi wasallam, kemudian Rasulullah shallallahu 'alaihi wasallam mendudukkannya di pangkuan beliau, tiba-tiba anak kecil itu kencing di pakaian beliau. Maka beliau meminta air, lalu memercikkannya dan tidak mencucinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (223) Sahih Muslim (287)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>374</td></tr><tr><td>Arabic No</td><td>374</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Къайс бинт Михсан: «Однажды она пришла к Посланнику Аллаха ﷺ со своим маленьким сыном, который ещё не ел пищу. Посланник Аллаха ﷺ посадил его себе на колени, а (через некоторое время) он помочился на его одежду, и тогда (Пророк ﷺ) велел принести воды и обрызгал ею это место, не став застирывать его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (223) Sahih Muslim (287)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>374</td></tr><tr><td>Arabic No</td><td>374</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
 

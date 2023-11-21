@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:A man came to the Prophet (ﷺ) and asked, "O Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Abu Musa] berkata, "Seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam dan bertanya, "Wahai Rasulullah, apakah yang disebut dengan perang fi sabilillah (di jalan Allah)? Sebab di antara kami ada yang berperang karena marah dan ada yang karena semangat?" Beliau lalu mengangkat kepalanya ke arah orang yang bertanya, dan tidaklah beliau angkat kepalanya kecuali karena orang yang bertanya itu berdiri. Beliau lalu menjawab: "Barangsiapa berperang untuk meninggikan kalimat Allah, maka dia perperang di jalan Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>123</td></tr><tr><td>Reference</td><td>Book 3 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ пришёл какой-то человек, который спросил его: “О Посланник Аллаха, что такое сражение на пути Аллаха? Ведь некоторые из нас сражаются под воздействием гнева, а иные − (под воздействием) ярости”. И (Пророк ﷺ) поднял свою голову и сделал это только из-за того, что тот стоял, а (потом) сказал: “На пути Аллаха Всемогущего и Великого находится сражающийся ради того, чтобы превыше всего было слово Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>123</td></tr><tr><td>Reference</td><td>Book 3 Hadith 65</td></tr></tbody></table></div>
 

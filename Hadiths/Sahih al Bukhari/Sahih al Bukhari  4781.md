@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There is no believer but I, of all
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] Telah menceritakan kepada kami [Muhammad bin Fulaih] Telah menceritakan kepada kami [Bapakku] dari [Hilal bin Ali] dari [Abdurrahman bin Abu 'Amrah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam dia berkata; "Tidaklah ada seorang mukmin kecuali aku lebih utama atas dirinya baik di dunia maupun di akhirat, bacalah jika engkau mau: "Nabi itu (hendaknya) lebih utama bagi orang-orang mukmin dari diri mereka sendiri.. (Al Ahzab: 6), " maka seorang mukmin manapun yang meninggal dan meninggalkan harta maka hendaklah ahli warisnya mewarisinya, dan barangsiapa meninggalkan hutang atau keluarga maka hendaklah ia datang kepadaku karena aku adalah walinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4781</td></tr><tr><td>Arabic No</td><td>4781</td></tr><tr><td>Reference</td><td>Book 65 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Нет такого верующего, к которому не был бы я наиболее близок в этом мире и в мире вечном: прочтите, если хотите, (аят, в котором сказано): “Пророк ближе к верующим, чем сами они (к себе)…”. И (поэтому,) если кто-либо из верующих умрёт, оставив какое-нибудь имущество, пусть оно перейдёт к его наследникам по отцовской линии, а если он (умрёт), оставив (неоплаченный) долг или нуждающихся детей, пусть они придут ко мне, ибо я — покровитель (для таких)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4781</td></tr><tr><td>Arabic No</td><td>4781</td></tr><tr><td>Reference</td><td>Book 65 Hadith 303</td></tr></tbody></table></div>
 

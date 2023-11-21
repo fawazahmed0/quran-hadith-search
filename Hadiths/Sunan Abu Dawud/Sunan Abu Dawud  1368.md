@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Messenger of Allah (ﷺ) as saying: Choose such actions as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu 'Ajlan] dari [Sa'id Al Maqburi] dari [Abu Salamah] dari [Aisyah] radliallahu 'anha bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kerjakanlah suatu amalan itu sesuai dengan kemampuan kalian, karena Allah tidak akan bosan sehingga diri kalianlah yang bosan, sesungguhnya amalan yang paling di cintai Allah adalah yang di kerjakan secara terus menerus walaupun sedikit." apabila beliau mengerjakan suatu amalan, beliau akan mengerjakannya secara rutin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5861) Sahih Muslim (782)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1368</td></tr><tr><td>Arabic No</td><td>1368</td></tr><tr><td>Reference</td><td>Book 5 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Выбирайте из (богоугодных) дел то, что вам по силам (совершать регулярно), ибо, поистине, Аллах не перестанет (вознаграждать вас), пока вы не перестанете (совершать благие дела), и самое любимое дело для Аллаха совершаемое регулярно, пусть даже оно и небольшое». А сам Посланник Аллаха ﷺ начав делать что-то (из проявлений покорности Аллаху), делал это регулярно
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5861) Sahih Muslim (782)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1368</td></tr><tr><td>Arabic No</td><td>1368</td></tr><tr><td>Reference</td><td>Book 5 Hadith 119</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuAyyub: The Prophet (ﷺ) said: The gates of heaven are opened for fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; saya mendengar ['Ubaidah] pernah bercerita dari [Ibrahim] dari [Ibnu Minjab] dari [Qartsa'] dari [Abu Ayyub] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Empat raka'at sebelum Dluhur yang tidak di pisahkan oleh salam, maka akan di bukakan untuknya pintu-pintu langit." Abu Daud berkata; telah sampai kepadaku dari Yahya bin Sa'id Al Qatthan dia berkata; "sekiranya aku menyampaikan suatu hadits dari 'Ubaidah, tentu aku akan menyampaikan hadits ini darinya. Abu Daud berkata; 'Ubaidah adalah Perawi yang lemah. Abu Daud berkata; Ibnu Minjab adalah Sahm
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Айюба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Для совершаемых перед полуденной молитвой четырёх рак‘атов без таслима (после первых двух) открываются небесные врата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) , sent an army and appointed some man their comm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7257</td></tr><tr><td>Arabic No</td><td>7257</td></tr><tr><td>Reference</td><td>Book 95 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, сказал: «(Как-то раз) Пророк ﷺ послал войско, поставив во главе его одного человека, и он (повелел) разжечь огонь, а затем сказал: “Войдите в огонь!” (Сначала) они хотели войти в огонь, а другие стали говорить: “Поистине мы убегаем от огня (последовав в этом за Пророком ﷺ)”. Затем они рассказали о случившимся Пророку ﷺ и он сказал относительно тех, которые хотели войти в огонь: “Если бы они вошли в (этот огонь), то уже не вышли бы из него до самого Дня воскресения”. А другим сказал: “Нет послушания (творению) в ослушании (Всевышнего Аллаха), поистине, подчинение только в одобряемом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7257</td></tr><tr><td>Arabic No</td><td>7257</td></tr><tr><td>Reference</td><td>Book 95 Hadith 12</td></tr></tbody></table></div>
 

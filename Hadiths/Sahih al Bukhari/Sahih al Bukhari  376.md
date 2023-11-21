@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:I saw Allah's Messenger (ﷺ) in a red leather tent and I s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] berkata, telah menceritakan kepadaku ['Umar bin Abu Za'idah] dari ['Aun bin Abu Juhaifah] dari [Bapaknya] berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam berada dalam kemah merah yang terbuat dari kulit yang disamak. Dan aku lihat Bilal mengambilkan air wudlu untuk Rasulullah shallallahu 'alaihi wasallam, dan aku lihat orang-orang saling berebut air tersebut. Orang yang mendapatkanya maka ia langsung mengusapkannya, dan bagi yang tidak maka ia mengambilnya dari dari tangan temannya yang basah. Kemudian aku lihat Bilal mengambil tombak kecil dan menancapkannya di tanah, lalu Nabi shallallahu 'alaihi wasallam keluar dengan mengenakan pakaian merah menghadap ke arah tombak kecil dan memimpin orang-orang shalat sebanyak dua raka'at. Dan aku lihat orang-orang dan hewan berlalu melewati depan tombak tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>376</td></tr><tr><td>Reference</td><td>Book 8 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа, да будет доволен им Аллах, сказал: «Я видел Посланника Аллаха ﷺ находившегося в красной кожаной палатке, и я видел, как Билял брал воду (, остававшуюся после совершения омовения) посланником Аллаха ﷺ. И я видел, как люди бросились к этой воде, опережая друг друга, и те, кому досталось что-нибудь, растирали её (по своим телам), те же, кому ничего не досталось, прикасались к влажным рукам своих товарищей. А потом я увидел, как Билял взял палку с наконечником и воткнул её в землю(, после чего из палатки) вышел Пророк ﷺ в одежде красного цвета, подобранной (до середины голеней), и совершил с людьми молитву в два рак‘ата (, обратившись лицом в сторону) этой палки. И я видел, как люди и животные проходили перед этой палкой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>376</td></tr><tr><td>Reference</td><td>Book 8 Hadith 28</td></tr></tbody></table></div>
 

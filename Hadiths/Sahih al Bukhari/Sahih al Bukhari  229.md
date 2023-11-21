@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I used to wash the traces of Janaba (semen) from the clothes of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah bin Al Mubarak] berkata, telah mengabarkan kepada kami ['Amru bin Maimun Al Jazari] dari [Sulaiman bin Yasar] dari ['Aisyah] ia berkata, "Aku mencuci kain Nabi shallallahu 'alaihi wasallam sisa dari janabat, kemudian beliau keluar untuk shalat, sementara kainnya masih nampak basahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>229</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 4 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Обычно) я смывала (следы) осквернения /джанаба/ с одежды Пророка ﷺ после чего он выходил на молитву, (даже если) его одежда не просыхала полностью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>229</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 4 Hadith 95</td></tr></tbody></table></div>
 

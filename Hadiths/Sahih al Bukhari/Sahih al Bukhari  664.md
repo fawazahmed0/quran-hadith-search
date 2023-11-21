@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:"We were with 'Aisha discussing the regularity of offering the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] berkata, telah menceritakan kepadaku [Bapakku] berkata, telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Al Aswad] berkata, "Kami pernah bersama ['Aisyah] ketika kami menceritakan tentang masalah menekuni shalat berjama'ah dan mengutamakannya. Maka Aisyah pun berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam sedang sakit yang membawa pada ajalnya, waktu shalat tiba dan dikumandangkanlah adzan. Beliau lalu bersabda (kepada para isterinya): "Suruhlah Abu Bakar untuk memimpin shalat bersama orang-orang." Lalu dikatakan kepada beliau, "Sesungguhnya Abu Bakr adalah orang yang lemah dan mudah menangis (saat membaca Al Qur'an). Dia tidak akan mampu menggantikan posisi Tuan untuk memimpin orang-orang shalat." Beliau kembali mengulangi ucapannya, dan mereka juga memberi jawaban yang sama. Hal itu terus berulang hingga tiga kali, akhirnya beliau pun bersabda: "Kalian ini seperti isteri-isteri Yusuf! Perintahkanlah Abu Bakr agar memimpin shalat." Maka keluarlah Abu Bakr memimpin shalat jama'ah. Beliau kemudian merasa agak segar badannya, sehingga beliau keluar ke masjid dengan diapit oleh dua orang, seolah aku kedua kaki beliau menyentuh tanah karena sakit. Melihat kehadiran beliau, Abu Bakar berniat untuk mundur namun Nabi shallallahu 'alaihi wasallam mencegahnya dengan isyarat agar ia tetap pada posisinya. Kemudian beliau di dudukkan di sisi Abu Bakar." Dikatakan kepada Al A'masy, "Apakah beliau shalat kemudian Abu Bakar shalat mengikuti shalatnya beliau, dan orang-orang shalat dengan mengikuti shalatnya Abu Bakar?" Lalu Al A'masy menjawab 'Ya' dengan anggukkan kepalanya." [Abu Daud] juga meriwayatkannya dari [Syu'bah] dari [Al A'masy] sebagiannya, dan [Abu Mu'awiyah] menambahkan, "Beliau shalat dengan duduk di sebelah kiri Abu Bakar, sementara Abu Bakr shalat dengan berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>664</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 10 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Сулейман ибн Михран) аль-А‘маш сообщил о том, что Ибрахим (ан-Наха‘и) передал, что аль-Асвад (ибн Зейд ибн Къайс ан-Наха‘и) сказал:\n— (Однажды), когда мы находились возле ‘Аиши, да будет доволен ею Аллах, мы упомянули при ней о постоянстве (присутствия) на намазе и его важности, и она сказала: «(Однажды) после наступления времени намаза и возглашения азана, когда Посланника Аллаха ﷺ уже поразил тот недуг, от которого он умер, он велел: “Скажите Абу Бакру, чтобы он молился с людьми”. Ему сказали: “Абу Бакр испытывает сильную печаль и плачет, и если он займёт твоё место, то не сможет проводить намаз с людьми”. Он повторил (своё веление), а когда (ему снова сказали в ответ то же самое), он в третий раз (велел сделать это) и воскликнул: “Поистине, вы подобны увидевшим Юсуфа! Велите же Абу Бакру проводить намазы с людьми!” Тогда Абу Бакр вышел (к людям) и стал совершать (с ними) намаз. Тем временем Пророку ﷺ стало немного лучше, и он вышел (из дома), передвигаясь с помощью двух человек(, которые поддерживали его справа и слева), и я будто и сейчас вижу, как он задевает ногами землю, будучи не в силах поднимать их (выше) из-за своей болезни. (Увидев его,) Абу Бакр хотел отойти назад, однако Пророк ﷺ знаком показал ему, чтобы он оставался на своём месте, после чего его подвели (поближе) и он сел рядом с (Абу Бакром)».\nАль-А‘машу сказали: «И Пророк ﷺ стал молиться, Абу Бакр следовал за ним, а люди следовали за намазом Абу Бакра, да будет доволен им Аллах?» И он (сделав кивок) головой сказал: «Да».\nТакже его передал Абу Дауд от Шу‘бы передавшего от аль-А‘маша его часть.\nАбу Му‘авия привёл дополнение: «(Пророк, да благословит его Аллах и приветствует,) сел слева от Абу Бакра, который молился стоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>664</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 10 Hadith 58</td></tr></tbody></table></div>
 

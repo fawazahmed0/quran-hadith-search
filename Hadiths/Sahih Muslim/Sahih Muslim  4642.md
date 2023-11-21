@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Sa'd (que Dieu l'agrée), comme on l'interrogea sur la blessur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [ayahnya] bahwa dia mendengar [Sahl bin Sa'id] ditanya seseorang mengenai luka yang pernah diderita Rasulullah shallallahu 'alaihi wasallam dalam pertempuran Uhud, maka dia menjawab, "Rasulullah shallallahu 'alaihi wasallam terluka, gigi taringnya patah, dan topi baja yang bliau kenakan juga pecah. Lalu Fatimah binti Rasulullah shallallahu 'alaihi wasallam membersihkan darah beliau, sedangkan Ali menyiramkan air dari perisai. Ketika Fatimah melihat darah semakin bertambah banyak keluar, dia mengambil potongan pelepah kurma lalu dia bakar hingga menjadi abu, kemudian abu tersebut diletakkan di atas luka beliau hingga darahnya berhenti keluar." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub] -yaitu Ibnu Abdurrahman Al Qari- dari [Abu Hazim] bahwa dia mendengar [Sahl bin Sa'id] ditanya mengenai luka Rasulullah shallallahu 'alaihi wasallam, maka dia menjawab, "Demi Allah, sungguh aku telah melihat sendiri orang yang mencuci luka Rasulullah shallallahu 'alaihi wasallam dan yang menuangkan air, serta dengan apa dia mengobati luka beliau...kemudian dia menyebutkan seperti haditsnya Abdul Aziz, namun dia menambahkan, 'dan wajahnya terluka' dia juga menyebtkan, 'giginya pecah'." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim] serta [Ibnu Abu Umar] semuanya dari [Ibnu Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami ['Amru bin Sawad Al 'Amiri] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Sa'id bin Abu Hilal]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Sahl At Tamimi] telah menceritakan kepadaku [Ibnu Abu Maryam] telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Mutharrif- semuanya dari [Abu Hazim] dari [Sahl bin Sa'id] dengan hadits ini dari Nabi shallallahu 'alaihi wasallam. Dalam hadits Ibnu Abu Hilal disebutkan, 'wajah beliau terkena', sedangkan dalam hadits Ibnu Mutharif disebutkan, 'wajah beliau terluka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4642</td></tr><tr><td>Arabic No</td><td>1790.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4642</td></tr><tr><td>Arabic No</td><td>1790.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 124</td></tr></tbody></table></div>
 

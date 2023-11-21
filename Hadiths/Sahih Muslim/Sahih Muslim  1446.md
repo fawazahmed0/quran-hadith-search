@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : Une nuit, nous nous me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Ishaq bin Ibrahim]. [Ishaq] mengatakan; telah mengabarkan kepada kami, sedangkan Zuhair mengatakan; telah menceritakan kepada kami Jarir dari [Manshur] dari [Al Hakam] dari [Nafi'] dari [Abdullah bin Umar] katanya; "Suatu malam, kami menunggu Rasulullah shallallahu 'alaihi wasallam untuk shalat isya', yaitu shalat fardhu terakhir. Lalu Rasulullah shallallahu 'alaihi wasallam menemui kami ketika sepertiga malam telah berlalu atau sesudahnya, kami tidak tahu apakah keluarganya menyibukkan beliau atau ada urusan lainnya. Ketika beliau datang, beliau bersabda: "Sungguh kalian tengah menunggu-nunggu shalat yang tak ada penganut agama lain menunggunya selain kalian, kalaulah tidak memberatkan umatku, niscaya aku mengimami mereka pada waktu-waktu seperti ini." Kemudian beliau memerintahkan mu'adzinnya untuk mengiqamati shalat, lalu beliau mendirikan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>639.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «Однажды ночью, мы ждали Посланника Аллаха ﷺ на вечернюю молитву /‘иша/. Он вышел к нам после того, как прошла треть ночи или чуть позже, и мы не знали что его задержало, какое-то дело или что-то иное. И когда он вышел, то сказал: “Вы ожидаете молитву, которую никто из (других) религий не дожидается, кроме вас. Если бы это не было тяжело для членов моей общи­ны, то я (всегда) молился бы с ними в этот час”. Затем он велел муаззину объявить о начале молитвы и совершил её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>639.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 279</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with both of them) reported Allah's Messenger (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Jabalah] ia berkata, saya mendengar [Ibnu Umar] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jumlah hari dalam satu bulan itu adalah begini, begini dan begini (beliau mengangkat kedua tangannya berserta semua jari jemarinya, kemudian beliau menguranginya pada kali yang ketiga, yaitu ibu jarinya yang sebelah kanan atau kiri)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>1080.12</td></tr><tr><td>Reference</td><td>Book 13 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>1080.12</td></tr><tr><td>Reference</td><td>Book 13 Hadith 15</td></tr></tbody></table></div>
 

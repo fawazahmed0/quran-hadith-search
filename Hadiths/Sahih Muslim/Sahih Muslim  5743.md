@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asim b. 'Umar b. Qatada reported:There came to our house 'Abdullah and another p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepadaku [Bapakku]; Telah menceritakan kepada kami ['Abdurrahman bin Sulaiman] dari ['Ashim bin 'Umar bin Qatadah] dia berkata; " [Jabir bin Abdullah] pernah datang pada keluarga kami. Kebetulan, ketika itu ada seseorang yang menderita sakit bengkak bernanah atau luka. Lalu Jabir berkata; 'Kamu sakit apa? ' Ia menjawab; 'Bengkak saya sakit sekali.' Jabir berkata; 'Hai pelayan, panggil tukang bekam kemari! ' Orang yang sakit itu bertanya; 'Ya Abdullah, apa yang akan kamu perintahkan pada tukang bekam itu? ' Jabir menjawab; 'Saya akan menyuruhnya untuk membekam bengkakmu.' Orang sakit itu berkata; 'Demi Allah, dihinggapi lalat atau tersentuh kainnya saja sakit sekali. Apalagi jika dibekam.' Ketika Jabir mengetahui bahwa orang yang sakit tersebut enggan untuk dibekam, maka ia pun berkata; 'Sesungguhnya saya pernah mendengar Rasulullah bersabda: 'Di antara penyembuhan yang ampuh adalah berbekam, minum madu, atau sudutan dengan panas api.' Sabda beliau selanjutnya: 'Tetapi aku tidak suka dengan penyembuhan besi yang dipanasi.' Ashim berkata; 'Lalu pelayan tersebut datang dengan membawa tukang bekam. Kemudian tukang bekam itu membekam begian tubuh orang yang sakit itu, sehingga hilanglah sakit yang dideritanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5743</td></tr><tr><td>Arabic No</td><td>2205.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5743</td></tr><tr><td>Arabic No</td><td>2205.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 97</td></tr></tbody></table></div>
 

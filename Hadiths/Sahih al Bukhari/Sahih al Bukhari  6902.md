@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Abul Qasim said, "If any person peeps at you without your p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah] mengatakan, Abul Qashim Shallallahu'alaihiwasallam bersabda; "Jika seseorang mengintipmu tanpa seijinmu, lantas engkau tusuk dengan tongkat sehingga matanya buta, maka tak ada diyat atasmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6902</td></tr><tr><td>Arabic No</td><td>6902</td></tr><tr><td>Reference</td><td>Book 87 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Абу аль-Касим ﷺ сказал: “Если кто-нибудь станет заглядывать (в твой дом), не имея на то твоего разрешения, а ты (за это) бросишь в него палкой и выбьешь ему глаз, не будет на тебе греха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6902</td></tr><tr><td>Arabic No</td><td>6902</td></tr><tr><td>Reference</td><td>Book 87 Hadith 41</td></tr></tbody></table></div>
 

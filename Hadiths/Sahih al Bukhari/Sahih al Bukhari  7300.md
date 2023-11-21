@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim At Taimi's father:'Ali addressed us while he was standing on a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafs bin Ghiyats] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepadaku [Ibrahim At Taimi] Telah menceritakan kepadaku [Ayahku] mengatakan, " [Ali] radliallahu 'anhu berpidato kepada kami di atas mimbar dari batu bata yang dipanggang yang di atasnya tergeletak pedang berisikan lembaran catatan yang menggantung. Lantas Ali berkata, "Demi Allah, kami tidak mempunyai kitab suci yang dibaca selain Kitabullah dan apa yang terdapat dalam lembaran catatan ini." Lantas Ali membukanya, ternyata isinya gigi-gigi unta dan ternyata isinya ada pernyataan, "Kota Madinah adalah haram semenjak 'Air (gunung di Madinah) hingga sini, maka barangsiapa melakukan keonaran (pelanggaran) di sana, maka baginya laknat Allah, laknat malikat dam manusia secara keseluruhan, Allah tidak menerima amalannya, baik yang wajib maupun yang sunnah, dan dalam lembaran catatan itu ada pernyataan 'Barangsiapa bersekutu kepada suatu kaum tanpa seijin sekutu sebelumnya, maka baginya laknat Allah, malaikat dan seluruh manusia, Allah tidak menerima amalannya, baik yang wajib maupun yang sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7300</td></tr><tr><td>Arabic No</td><td>7300</td></tr><tr><td>Reference</td><td>Book 96 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим ат-Тайми сказал: «Рассказал мне мойотец, что однажды ‘Али, да будет доволен им Аллах, обратился к нам спроповедью (стоя) на минбаре из обожженного кирпича, с ним был меч, ак нему был привязан свиток, и он сказал: «Клянусь Аллахом, нет у наскниги, которую можно читать, кроме Книги Аллаха и того, что написано вэтом свитке». И затем он развернул свиток, и в нём было упомянуто овозрасте верблюдов, а также было написано: «Медина является заповеднойтерриторией от (горы) ‘Айр до такого-то (места), и всякого, ктосовершит здесь какое-нибудь преступление, постигнет проклятие Аллаха,ангелов и всех людей, и не будет принято от него ни дополнительное, ниобязательное». А также было написано: «Защита мусульман одна, идействительна она и тогда, когда её предоставляет нижайший из них,того же, кто нарушит защиту, предоставленную мусульманином, постигнетпроклятие Аллаха, ангелов и всех людей, и не будет принято от него нидополнительное, ни обязательное». А также было написано: «И (еслилюбой вольноотпущенник) перейдёт под покровительство кого бы то нибыло без разрешения тех, кто дал ему свободу, он будет проклятАллахом, ангелами и всеми людьми, и не будет принято от него нидополнительное, ни обязательное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7300</td></tr><tr><td>Arabic No</td><td>7300</td></tr><tr><td>Reference</td><td>Book 96 Hadith 31</td></tr></tbody></table></div>
 

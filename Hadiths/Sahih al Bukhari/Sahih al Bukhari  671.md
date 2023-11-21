@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "If supper is served, and Iqama is prono
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, telah menceritakan [bapakku] kepadaku, katanya: "Aku mendengar ['Aisyah radliallahu 'anhu] berkata,, dari Nabi shallallahu 'alaihi wasallam bersabda: "Apabila makan malam sudah dihidangkan sedangkan shalat jama'ah sudah dibacakan iqamatnya, maka dahulukanlah makan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>671</td></tr><tr><td>Arabic No</td><td>671</td></tr><tr><td>Reference</td><td>Book 10 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, Пророк ﷺ сказал:«Если будет подан ужин и в это время будет объявлено о начале намаза, то начинайте ужинать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>671</td></tr><tr><td>Arabic No</td><td>671</td></tr><tr><td>Reference</td><td>Book 10 Hadith 65</td></tr></tbody></table></div>
 

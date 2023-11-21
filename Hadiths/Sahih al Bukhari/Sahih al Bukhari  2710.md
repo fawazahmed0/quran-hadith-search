@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b:That Ka'b bin Malik told him that in the lifetime of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami ['Utsman bin 'Umar] telah mengabarkan kepada kami [Yunus], dan berkata [Al Laits] telah bercerita kepadaku [Yunus] dari [Ibnu Syihab] telah bercerita kepadaku ['Abdullah bin Ka'ab] bahwa [Ka'ab bin Malik] mengabarkan kepadanya bahwa dia pernah menagih hutang Ibnu Abi Hadrad kepadanya di dalam masjid di masa Rasulullah shallallahu 'alaihi wasallam lalu suara keduanya meninggi hingga terdengar oleh Rasulullah shallallahu 'alaihi wasallam yang sedang berada di rumah. Maka Rasulullah shallallahu 'alaihi wasallam keluar menemui keduanya dengan menyingkap tabir kamar Beliau dan memanggil Ka'ab bin Malik seraya berkata: "Wahai Ka'ab". Maka Ka'ab menjawab: "Ya, wahai Rasulullah". Maka Beliau memberi isyarat dengan tangan, agar Ka'ab merelakan setengahnya. Maka Ka'ab berkata: "Aku sudah menawarkannya wahai Rasulullah". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Bangkit dan laksanakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2710</td></tr><tr><td>Arabic No</td><td>2710</td></tr><tr><td>Reference</td><td>Book 53 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн Ка‘ба ибн Малика, что Ка‘б ибн Малик, да будет доволен им Аллах, сообщил ему о том, что (однажды) при жизни Посланника Аллаха ﷺ, находясь в мечети, он принялся требовать у Ибн Абу Хадрада вернуть ему то, что тот был ему должен, и голоса их стали звучать так громко, что их услышал Посланник Аллаха ﷺ, который находился у себя дома и вышел к ним (столь поспешно), что (даже) не задёрнул занавеску своей комнаты. Он обратился к Ка‘бу ибн Малику: «О Ка‘б!» Он сказал: «Я перед тобой, о Посланник Аллаха!» (Тогда) он сделал рукой знак, означавший: «Уменьши свой долг наполовину». (Ка‘б) сказал: «Я уже сделал это, о Посланник Аллаха!» — (после чего) Посланник Аллаха ﷺ сказал (Ибн Абу Хадраду): «А ты встань и уплати ему (остальное)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2710</td></tr><tr><td>Arabic No</td><td>2710</td></tr><tr><td>Reference</td><td>Book 53 Hadith 20</td></tr></tbody></table></div>
 

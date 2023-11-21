@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah: The Prophet (ﷺ) said: If anyone intercedes for his brother
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amru bin As Sarh] telah menceritakan kepada kami [Ibnu Wahb] dari [Umar bin Malik] dari ['Ubaidullah bin Abu Ja'far] dari [Khalid bin Abu Imran] dari [Al Qasim] dari [Abu Umamah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa memohonkan untuk saudaranya dengan sebuah permohonan, kemudian saudaranya tersebut memberikan hadiah kepadanya lantaran permohonan tersebut lalu ia menerimanya, maka sungguh ia telah mendatangi salah satu pintu besar di antara pintu-pintu riba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3541</td></tr><tr><td>Arabic No</td><td>3541</td></tr><tr><td>Reference</td><td>Book 24 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умамы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если кто-то походатайствовал за брата своего и тот подарил ему за это нечто, а он принял подарок, то он вошёл в величайшую из дверей ростовщичества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3541</td></tr><tr><td>Arabic No</td><td>3541</td></tr><tr><td>Reference</td><td>Book 24 Hadith 126</td></tr></tbody></table></div>
 

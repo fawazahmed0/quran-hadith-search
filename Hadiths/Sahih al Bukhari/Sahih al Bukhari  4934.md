@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:While we were with the Prophet (ﷺ) in a cave, Surat wal-Mur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepadaku [Ibrahim] dari [Al Aswad] dari [Abdullah] ia berkata; Ketika kami berada di dalam gua bersama Rasulullah shallallahu 'alaihi wasallam, turunlah wahyu pada beliau yakni surat Al Mursalaat. Beliau benar-benar membacanya dan kami pun menerimanya langsung dari lisan beliau yang saat itu basah lembab. Dan tiba-tiba seekor ular keluar ke tempat kami, maka Nabi shallallahu 'alaihi wasallam bersabda: "Bunuhlah ular itu!" Maka kami pun segera mengejarnya, namun ular telah lebih dahulu kabur, maka Nabi shallallahu 'alaihi wasallam bersabda: "Ia telah terbebas dari keburukan kalian, sementara kalian pun telah diselamatkan dari keburukannya." Umar berkata; Aku menghafalnya dari bapakku di dalam gua yang berlokasi di Mina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4934</td></tr><tr><td>Arabic No</td><td>4934</td></tr><tr><td>Reference</td><td>Book 65 Hadith 455</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Когда мы находились с Пророком ﷺ в пещере, ему начали ниспосылаться (аяты, в которых говорилось): “Клянусь посылаемыми…”, и, поистине, он произносил (эти аяты), а мы слышали их (непосредственно) из его уст. Внезапно на нас бросилась змея, и Пророк ﷺ велел: “Убейте её!” Мы кинулись к ней, но она уползла, и тогда Пророк ﷺ сказал: “Её защитили от вашего зла, как и вас защитили от её зла”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4934</td></tr><tr><td>Arabic No</td><td>4934</td></tr><tr><td>Reference</td><td>Book 65 Hadith 455</td></tr></tbody></table></div>
 

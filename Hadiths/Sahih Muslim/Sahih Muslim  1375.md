@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated by Abu Huraira with another chain of transmitters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Rabi'] telah menceritakan kepada kami [Abdullah bin Mubarak] dari [Yunus bin Yazid] dari [Az Zuhri] dia berkata; telah menceritakan kepada kami ['Urwah] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda, (Dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Abu Thahir] dan [Harmalah], keduanya dari [Ibnu Wahb] sementara alur cerita hadis dari Harmalah, dia berkata; telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] bahwa ['Urwah bin Zubair] menceritakan kepadanya, bahwa ['Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mendapatkan sujud dalam shalat ashar sebelum matahari terbenam atau sujud dalam shalat subuh sebelum matahari terbit, berarti ia telah mendapatkan shalat." Dan sujud maksudnya adalah ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1375</td></tr><tr><td>Arabic No</td><td>608.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ сказал: “Тот, кто успел совершить земной поклон послеполуденной молитвы /‘аср/ до заката солнца или утренней молитвы /фаджр/ до восхода солнца, тот успел совершить молитву”». (Затем один из передатчиков хадиса сказал): «Под земным поклоном подразумевается рак’ат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1375</td></tr><tr><td>Arabic No</td><td>608.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 209</td></tr></tbody></table></div>
 

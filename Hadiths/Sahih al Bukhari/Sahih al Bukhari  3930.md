@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The day of Bu'ath was a day (i.e. battle) which Allah caused to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'id] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah] radliallahu 'anha berkata; "Hari peperangan Bu'ats adalah peperangan yang ditunjukkan oleh Allah dalam kehidupan Rasulullah shallallahu 'alaihi wasallam. Kemudian Rasulullah shallallahu 'alaihi wasallam tiba di Madinah dalam keadaan mereka saling bertengkar dan telah terbunuh para pembesar yang mereka muliakan. Dan Allah juga telah menunjukkan kepada Rasulullah shallallahu 'alaihi wasallam tentang masuk Islamnya mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3930</td></tr><tr><td>Arabic No</td><td>3930</td></tr><tr><td>Reference</td><td>Book 63 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «День (битвы при) Бу‘асе Аллах (обратил во благо) Своему посланнику ﷺ, ибо, когда Посланник Аллаха ﷺ прибыл в Медину, населяющие её племена разделились, а их вожди были убиты. Таким образом, (Аллах обратил этот день во благо Своему посланнику ﷺ в том смысле, что) всё это способствовало тому, что они приняли ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3930</td></tr><tr><td>Arabic No</td><td>3930</td></tr><tr><td>Reference</td><td>Book 63 Hadith 155</td></tr></tbody></table></div>
 

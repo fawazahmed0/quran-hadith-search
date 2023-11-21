@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu ath-Thahir] dan [Harmalah] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam mendapati kambing mati yang telah diberikan sebagai sedekah kepada maula Maimunah, maka Rasulullah shallallahu 'alaihi wasallam bersabda, "Mengapa kalian tidak memanfaatkannya dengan menyamaknya?" Mereka berkata, "Ia sudah menjadi bangkai." Maka beliau bersabda, "Yang diharamkan hanyalah memakannya." Telah menceritakan kepada kami [Hasan al-Hulwani] dan ['Abd bin Humaid] semuanya meriwayatkan dari [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepadaku [bapakku] dari [Shalih] dari [Ibnu Syihab] dengan isnad ini dengan riwayat semisal Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>807</td></tr><tr><td>Arabic No</td><td>363.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «(Однажды) Посланник Аллаха ﷺ увидевший издохшую овцу, которая досталась вольноотпущеннице (его жены) Маймуны в качестве милостыни, спросил: “Почему бы вам не использовать её шкуру?” (Люди) сказали: “Она же подохла!” (Тогда) он сказал: “Запрещается только есть её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>807</td></tr><tr><td>Arabic No</td><td>363.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 128</td></tr></tbody></table></div>
 

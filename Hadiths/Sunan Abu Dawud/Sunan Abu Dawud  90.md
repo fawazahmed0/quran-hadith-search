@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: The Messenger of Allah (ﷺ) said: Three things one is not all
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 1 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Мухаммад ибн ‘Иса: Рассказал нам Ибн ‘Аййаш от Хабиба ибн Салиха, передавшего от Язида ибн Шурайха аль-Хадрами, передавшего от Абу Хаййа аль-Муаззина, сообщившего, что Саубан сказал: «Посланник Аллаха ﷺ сказал: “Существует три (вида вещей), совершать которые непозволительно никому: коллективную молитву людей не возглавит тот человек, который взывая к Аллаху выделяет себя, исключая остальных, а если он так поступил, значит он предал их; никто не посмотрит вглубь дома до того, как попросит позволение, а если он сделает это, то считается, что он уже вошел в него; никто не совершит молитву удерживая нужду, пока не освободит себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 1 Hadith 90</td></tr></tbody></table></div>
 

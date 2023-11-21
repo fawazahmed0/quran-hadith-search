@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim:'Aisha said, "We set out with the sole intention of performing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] berkata, Aku mendengar ['Abdurrahman bin Al Qasim] berkata, Aku mendengar [Al Qasim bin Muhammad] berkata, Aku mendengar ['Aisyah] berkata, "Kami keluar dan tidak ada tujuan selain untuk ibadah haji. Ketika tiba di Sarif aku mengalami haid, kemudian Rasulullah shallallahu 'alaihi wasallam masuk menemuiku sementara aku sedang menangis. Beliau bertanya: "Apa yang terjadi denganmu? Apakah kamu datang haid?" Aku jawab, "Ya." Beliau lalu bersabda: "Sesungguhnya ini adalah perkara yang telah Allah tetapkan bagi kaum wanita dari anak cucu Adam. Lakukanlah apa yang dilakukan oleh orang-orang yang haji, kecuali thawaf di Ka'bah." 'Aisyah berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam berkurban dengan menyembelih seekor sapi yang diniatkan untuk semua isterinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>294</td></tr><tr><td>Arabic No</td><td>294</td></tr><tr><td>Reference</td><td>Book 6 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мы покинули (Медину) с единственной целью совершить хаджж, а в Сарифе, у меня начались месячные. Зайдя ко мне, Посланник Аллаха ﷺ (увидел, что) я плачу, и спросил: “Что с тобой? У тебя начались месячные?” Я ответила: “Да”. Тогда он сказал: “Поистине, это предопределено Аллахом дочерям Адама. Совершай же всё, что совершает паломник, но только не обходи Дом (Каабу)!”»\n(‘Аиша) сказала: «И Посланник Аллаха ﷺ принёс в жертву коров за своих жён»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>294</td></tr><tr><td>Arabic No</td><td>294</td></tr><tr><td>Reference</td><td>Book 6 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man seized his debtor who owed ten dinars to him.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari ['Amr bin Abu 'Amr] dari [Ikrimah] dari [Ibnu Abbas] bahwa seorang laki-laki tidak meninggalkan orang yang yang berhutang kepadanya sepuluh dinar, ia berkata; demi Allah, aku tidak akan meninggalkanmu hingga engkau membayar atau engkau datang kepadaku membawa orang yang akan bertanggung jawab. Kemudian Nabi shallallahu 'alaihi wasallam menanggungnya, kemudian ia datang dengan membawa uang sebesar yang telah ia janjikan. Kemudian Nabi shallallahu 'alaihi wasallam berkata kepadanya: "Dari mana engkau mendapatkan emas ini?" Ia berkata; dari barang tambang. Beliau bersabda: "Kami tidak butuh kepadanya, tidak ada kebaikan padanya." Kemudian Rasulullah shallallahu 'alaihi wasallam membayarkan hutang tersebut untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3328</td></tr><tr><td>Arabic No</td><td>3328</td></tr><tr><td>Reference</td><td>Book 23 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что один человек не отставал от своего должника, который задолжал ему десять динаров. Он сказал ему: «Клянусь Аллахом, я не оставлю тебя в покое, пока ты не возвратишь мне долг или не найдёшь человека, который поручится за тебя!» Пророк ﷺ поручился за него, а потом этот человек принёс ему (золото на) нужную сумму. Пророк ﷺ спросил его: «Где ты раздобыл это золото?» Он ответил: «На руднике». (Посланник Аллаха ﷺ) сказал: «Нам оно не нужно. В нём нет блага». И Посланник Аллаха ﷺ уплатил за него долг (безвозмездно)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3328</td></tr><tr><td>Arabic No</td><td>3328</td></tr><tr><td>Reference</td><td>Book 23 Hadith 3</td></tr></tbody></table></div>
 

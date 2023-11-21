@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever Allah's Messenger (ﷺ) took a bath of Janaba, he washe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] berkata, "Jika Nabi shallallahu 'alaihi wasallam mandi janabat beliau membasuh tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>262</td></tr><tr><td>Arabic No</td><td>262</td></tr><tr><td>Reference</td><td>Book 5 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ купался из-за полового осквернения, он мыл свою руку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>262</td></tr><tr><td>Arabic No</td><td>262</td></tr><tr><td>Reference</td><td>Book 5 Hadith 15</td></tr></tbody></table></div>
 

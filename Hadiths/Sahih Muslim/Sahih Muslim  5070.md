@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported that his maternal'uncle Abu Burda b. Niyar sacrificed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Daud] dari [Asy Sya'bi] dari [Al Barra' bin 'Azib], bahwa pamannya, Abu Burdah bin Niyar, telah menyembelih hewan kurban sebelum Nabi shallallahu 'alaihi wasallam berkurban, maka dia berkata, "Wahai Rasulullah, sesungguhnya hari ini adalah hari dibagikannya daging (kurban), dan hari makan-makan. Oleh karena itu, saya berkeinginan untuk berkurban lebih dahulu supaya saya dapat memberi makan keluarga dan para tetanggaku." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ulangilah kurbanmu." Dia berkata, "Wahai Rasulullah, sesungguhnya saya memiliki kambing yang belum cukup umur, dan dia lebih baik daripada dua ekor kambing." Beliau menjawab: "Itu adalah sebaik-baik kurban yang kamu lakukan, dan jangan sampai ada lagi orang yang berkurban dengan Jad'ah setelah kamu." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibn Abu 'Adi] dari [Daud] dari [As Sya'bi] dari [Al Barra' bin 'Azib] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah berkhutbah pada hari raya Qurban, lalu beliau bersabda: "Janganlah salah seorang dari kalian berkurban hingga selesai shalat." Barra' berkata, "Lantas pamanku berkata, "Wahai Rasulullah, sesungguhnya hari ini adalah hari dibagikannya daging kurban, dan hari makan-makan…, kemudian dia menyebutkan hadits yang serupa dengan hadits Husyaim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>1961.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>1961.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 7</td></tr></tbody></table></div>
 

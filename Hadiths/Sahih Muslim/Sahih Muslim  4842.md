@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The above hadith has been narrated through several other chains with slight diff
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Ar Rabi' Al Ataki] dan [Abu Kamil] keduanya berkata; telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian bepergian dengan membawa Mushaf Al Qur'an saat safar (ke negeri musuh), sebab saya merasa khawatir diambil musuh." Ayyub berkata, "Mereka akan mengambilnya lalu memusuhi kalian dengannya." Dan telah menceritakan kepadaku [Zuhair bin harb] telah menceritakan kepada kami [Isma'il] -yaitu Ibnu 'Ulaiyah-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dan [Ats Tsaqafi] semuanya dari [Ayyub]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Rafi'] telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahak] -yaitu Ibnu Utsman- semuanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dalam hadits Ibnu 'Ulayyah dan Ats Tsaqafi disebutkan, "Sesungguhnya saya khawatir." Sedangkan dalam hadits Sufyan dan hadits Dlahak bin Utsman disebutkan, "Khawatir akan diambil oleh musuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>1869.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>1869.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 138</td></tr></tbody></table></div>
 

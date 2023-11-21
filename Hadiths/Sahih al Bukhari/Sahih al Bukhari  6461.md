@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:I asked 'Aisha "What deed was the most beloved to the Prophet?" 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Ayahku] dari [Syu'bah] dari [Asy'ats] dia berkata; saya mendengar [ayahku], dia berkata; saya mendengar [Masruq] berkata; saya bertanya kepada [Aisyah] radliallahu 'anha; "Amalan apakah yang paling dicintai oleh Nabi shallallahu 'alaihi wasallam?" Dia menjawab; 'Yaitu amalan yang dikerjakan secara terus menerus.' Masruq berkata; 'Tanyaku lagi; 'Lalu kapankah beliau biasa bangun (pagi)? ' Dia menjawab; 'Beliau bangun (pagi) apabila mendengar ayam berkokok
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6461</td></tr><tr><td>Arabic No</td><td>6461</td></tr><tr><td>Reference</td><td>Book 81 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал Масрук, да будет доволен им Аллах: «Я спросил ‘Аишу: “Какое деяние было самым любимым для Пророка ﷺ?” Она ответила: “Постоянное”. Я спросил: “В какое время он вставал [на ночную молитву — тахаджуд]?” Она ответила: “Он вставал, услышав (крик) петуха (в последнюю треть ночи)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6461</td></tr><tr><td>Arabic No</td><td>6461</td></tr><tr><td>Reference</td><td>Book 81 Hadith 50</td></tr></tbody></table></div>
 

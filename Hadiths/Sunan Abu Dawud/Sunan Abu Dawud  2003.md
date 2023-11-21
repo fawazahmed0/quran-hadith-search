@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Messenger of Allah (ﷺ) mentioned about Safiyyah, daughter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Hisyam bin 'Urwah], dari [ayahnya] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam menyebut-nyebut Shafiyah bintu Huyai, kemudian dikatakan kepada beliau; sesungguhnya ia mengalami haid. Lalu beliau berkata: "Kemungkinan ia akan menahan kita (keluar dari Mekkah)." Para sahabat berkata; wahai Rasulullah, sesungguhnya ia telah melakukan thawaf ifadhah. Kemudian beliau berkata: "Jika demikian, ia tidak akan menahan kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2003</td></tr><tr><td>Arabic No</td><td>2003</td></tr><tr><td>Reference</td><td>Book 11 Hadith 283</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ упомянул о Сафии бинт Хуяйй, и ему сказали, что у неё началась менструация. Посланник Аллаха ﷺ сказал: “Думаю, она нас задержит”. Ему сказали: “Она совершила предпрощальный обход вокруг Каабы /таваф аль-ифада/”. (Посланник Аллаха ﷺ) сказал: “Тогда нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2003</td></tr><tr><td>Arabic No</td><td>2003</td></tr><tr><td>Reference</td><td>Book 11 Hadith 283</td></tr></tbody></table></div>
 

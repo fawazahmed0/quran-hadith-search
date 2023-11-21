@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) Said: The children of a man co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah] dan [Utsman bin Abu Syaibah] secara makna, mereka berkata; telah menceritakan kepada kami [Muhammad Ja'far] dari [Syu'bah] dari [Al Hakam] dari ['Umarah bin 'Umair] dari [Ibunya] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Anak seseorang merupakan hasil dari usahanya, dan sebaik-baik hasil usahanya. Maka makanlah sebagian dari harta mereka!" Abu Daud berkata; Hammad bin Abu Sulaiman menambahkan pada hadits tersebut, 'Apabila kalian membutuhkan'. dan perkataan tersebut adalah munkar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3529</td></tr><tr><td>Arabic No</td><td>3529</td></tr><tr><td>Reference</td><td>Book 24 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Дети человека относятся к тому, что он приобрёл своим трудом, к лучшему из этого, а потому питайтесь из их имущества». Абу Дауд сказал: «Хаммад ибн Абу Сулейман передаёт хадис с добавлением: “Если вы нуждаетесь (в имуществе своих детей)”. Это добавление отвергаемо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3529</td></tr><tr><td>Arabic No</td><td>3529</td></tr><tr><td>Reference</td><td>Book 24 Hadith 114</td></tr></tbody></table></div>
 

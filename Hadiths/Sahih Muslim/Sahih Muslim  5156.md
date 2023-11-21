@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported Allah's Messenger (ﷺ) as saying:Do not prepare Nabidh by m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Utsman bin Umar] telah mengabarkan kepada kami [Ali yaitu Ibnu Mubarak] dari [Yahya] dari [Abu Salamah] dari [Abu Qatadah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian membuat perasan kurma muda dengan kurma segar (sudah masak) menjadi satu, atau kurma segar dengan anggur, akan tetapi sendirikanlah setiap perasannya sesuai dengan takarannya masing-masing." [Yahya] menyakini bahwa ia pernah bertemu dengan [Abdullah bin Abu Qatadah] kemudian dia menceritakan kepadanya dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini." Dan telah menceritakan kepadaku [Abu Bakar bin Ishaq] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Husain Al Mu'allim] telah menceritakan kepada kami [Yahya bin Abu Katsir] dengan kedua isnad ini, namun dia menyebutkan, "Antara kurma segar dengan kurma muda, atau kurma masak dengan anggur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5156</td></tr><tr><td>Arabic No</td><td>1988.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5156</td></tr><tr><td>Arabic No</td><td>1988.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 30</td></tr></tbody></table></div>
 

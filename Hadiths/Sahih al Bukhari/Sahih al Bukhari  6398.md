@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) used to invoke Allah with the following invo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abdul Malik bin Shabah] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Ibnu Abu Musa] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam bahwa beliau biasa berdo'a dengan do'a sebagai berikut; "Ya Allah, ampunilah kesalahan, kebodohan, dan perbuatanku yang terlalu berlebihan dalam urusanku, serta ampunilah kesalahanku yang Engkau lebih mengetahui daripadaku. Ya Allah, ampunilah kesalahanku, kemalasanku, kesengajaanku, kebodohanku, gelak tawaku yang semua itu ada pada diriku. Ya Allah, ampunilah aku atas dosa yang telah berlalu, dosa yang mendatang, dosa yang aku samarkan, dosa yang aku perbuat dengan terang-terangan dan dosa yang Engkau lebih mengetahuinya daripada aku, Engkaulah yang mengajukan dan Engkaulah yang mengakhirkan, serta Engkau Maha Kuasa atas segala sesuatu." ['Ubaidullah bin Mu'adz] mengatakan; telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Abu Burdah bin Abu Musa] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6398</td></tr><tr><td>Arabic No</td><td>6398</td></tr><tr><td>Reference</td><td>Book 80 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, о том, что Пророк ﷺ часто обращался к Аллаху с такой мольбой: «Господь мой, прости мне мой грех и моё невежество, неумеренность во всех моих делах и то, о чём Ты знаешь лучше меня! О Аллах, прости мне (сделанное) мной по ошибке, (сделанное) мной намеренно, моё невежество, (сделанное) мной в шутку, ибо всё это мне присуще! О Аллах, прости мне совершённое мной прежде и то, что ещё не совершено, то, что я совершил тайно, и что совершил явно! Ты — Выдвигающий вперёд, и Ты — Отодвигающий, и Ты всё можешь!»\n/Рабби-гъфир ли хатыати ва джахли, ва исрафи фи амри куллихи, ва ма Анта а‘ляму бихи минни! Аллахумма-гъфир ли хатайайа, ва ‘амди, ва джахли, ва хазли, ва куллю залика ‘инди! Аллахумма-гъфир ли ма къаддамту ва ма аххарту, ва ма асрарту ва ма а‘лянту! Анта-ль-мукъаддиму, ва Анта-ль-муаххыру, ва Анта ‘аля кулли шайъин къадир!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6398</td></tr><tr><td>Arabic No</td><td>6398</td></tr><tr><td>Reference</td><td>Book 80 Hadith 93</td></tr></tbody></table></div>
 

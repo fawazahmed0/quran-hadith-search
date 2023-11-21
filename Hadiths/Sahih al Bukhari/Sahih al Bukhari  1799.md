@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Whenever Allah's Messenger (ﷺ) left for Mecca, he used to p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Al Hajjaj] telah menceritakan kepada kami [Anas bin 'Iyadh] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam pergi menuju Makkah, Beliau shalat di masjid Asy-Syajarah dan jika kembali Beliau shalat di Dzul Hulaifah di dasar lembah dan bermalam disana hingga shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1799</td></tr><tr><td>Arabic No</td><td>1799</td></tr><tr><td>Reference</td><td>Book 26 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах им и его отцом, что, когда Посланник Аллаха ﷺ выезжал в Мекку, он совершал молитву в мечети аш-Шаджары, когда же возвращался назад, совершал молитву в Зуль-Хулейфе, (а именно — в сухом русле) долины, где и ночевал до утра
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1799</td></tr><tr><td>Arabic No</td><td>1799</td></tr><tr><td>Reference</td><td>Book 26 Hadith 24</td></tr></tbody></table></div>
 

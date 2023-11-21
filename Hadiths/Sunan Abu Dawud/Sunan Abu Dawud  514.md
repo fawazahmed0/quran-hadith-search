@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ziyad ibn al-Harith as-Suda'i: When the adhan for the dawn prayer was i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdullah bin Umar bin Ghanim] dari [Abdurrahman bin Ziyad Al-Afriqi] bahwasanya dia telah mendengar [Ziyad bin Nu'aim Al-Hadlrami] bahwasanya dia telah mendengar [Ziyad bin Al-Harits Ash-Shuda'iy] dia berkata; Tatkala pertama kali dikumandangkan adzan Shubuh, Nabi shallallahu 'alaihi wasallam menyuruhku untuk adzan, maka saya pun mengumandangkannya. Kemudian saya berkata; Apakah saya kumandangkan iqamat sekarang wahai Rasulullah? Maka beliau melihat ke ujung timur ke arah terbitnya fajar, lalu beliau berkata: "Belum." Hingga tatkala fajar telah terbit, beliau turun dan berwudhu kemudian mendekatiku, dan para sahabat juga berwudhu. Lalu Bilal hendak mengumandangkan iqamat, maka Nabi shallallahu 'alaihi wasallam bersabda: "Saudara kita dari Shuda' telah adzan, dan barangsiapa yang adzan maka dialah yang iqamat. Dia berkata; Maka saya pun mengumandangkan iqamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>514</td></tr><tr><td>Arabic No</td><td>514</td></tr><tr><td>Reference</td><td>Book 2 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абду-р-Рахмана ибн Зийада аль-Ифрикъи о том, что он слышал Зийада ибн Нуайма аль-Хадрами, (который рассказывал о том,) что он слышал, как Зийад ибн Харис ас-Судаи сказал: «Когда подошло время азана к утренней молитве, он велел мне – имея в виду Пророка ﷺ (возвестить азан) и я возвестил азан. (Затем) я начал спрашивать: “Следует ли мне возвестить икаму, о Посланника Аллаха?” Однако он стал смотреть в сторону востока, ожидая появления зари, и говорил: “Нет”. Когда появилась заря, он сошел со своего верхового животного и совершив омовение, он подошёл ко мне. Тем временем к нему присоединились и его сподвижники. И когда Билял захотел возвестить икаму, Пророк Аллаха ﷺ сказал ему: “Поистине, (наш) брат Судаъ возвестил азан, а тот, кто возвещает азан, тот возвещает и икаму”.(Судаъ) сказал: “И я возвестил икаму”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>514</td></tr><tr><td>Arabic No</td><td>514</td></tr><tr><td>Reference</td><td>Book 2 Hadith 124</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'idi:(a companion of Allah's Messenger (ﷺ)) Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah berkata [Abu Hazim] Aku mendengarnya dari [Sa'hl bin Sa'd As Sa'idi] salah seorang dari sahabat Rasulullah shallallahu 'alaihi wasallam, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diutus sementara kedatangan hari kiamat adalah seperti ini dari ini." beliau memberi isyarat dengan kedua jarinya, jari telunjuk dan jari tengah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5301</td></tr><tr><td>Arabic No</td><td>5301</td></tr><tr><td>Reference</td><td>Book 68 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам ‘Али ибн ‘Абдуллах:\n— Рассказал нам Суфйан:\n— Абу Хазим сказал:\n— Я слышал, как сподвижник Посланника Аллаха ﷺ Сахль ибн Са‘д ас-Са‘иди, да будет доволен им Аллах, говорил: «(Однажды) Посланник Аллаха ﷺ сказал: “Я был направлен (к людям), когда Час этот (стал) столь же (близок к ним, как близок) этот (палец) к этому (пальцу) — или (он сказал): два этих (пальца)”, — после чего он соединил друг с другом указательный и средний пальцы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5301</td></tr><tr><td>Arabic No</td><td>5301</td></tr><tr><td>Reference</td><td>Book 68 Hadith 50</td></tr></tbody></table></div>
 

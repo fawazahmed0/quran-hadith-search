@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata; [Urwah] berkata dari [Aisyah] bahwasanya Ummu Sulaim Al Anshariyah -ibu Anas bin Malik- berkata; Wahai Rasulullah, sesungguhnya Allah Azza wa Jalla tidak malu dari kebenaran. Apa pendapat anda apabila seorang wanita bermimpi sebagaimana pria, apakah dia juga wajib mandi atau tidak? Aisyah berkata; Maka Nabi shallallahu 'alaihi wasallam bersabda: "Ya, hendaklah dia mandi apabila mendapatkan air (mani) ". Aisyah berkata; Maka aku berpaling kepadanya, lalu berkata, Ah, apakah wanita juga seperti itu? Maka Rasulullah shallallahu 'alaihi wasallam berpaling kepadaku seraya bersabda: "Wahai Aisyah, Lalu dari mana kemiripan anak itu didapatkan?" Abu Dawud berkata; Demikian pula diriwayatkan oleh [Uqail] dan [Az-Zubaidi] dan [Yunus] dan [Ibnu Akhi Az-Zuhri] dari [Az-Zuhri], dan [Ibrahim bin Abu Al-Wazir] dari [Malik] dari [Az-Zuhri]. Az-Zuhri bersesuaian dengan [Musafi' Al-Hazami] dia berkata dari [Urwah] dari [Aisyah]. Adapun [Hisyam bin Urwah] maka dia berkata dari [Urwah] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] bahwasanya Ummu Salamah datang kepada Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (314)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 1 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши о том, что Умм Сулайм, которая являлась матерью Анаса ибн Малика, сказала: «О Посланник Аллаха, поистине Великий и Всемогущий Аллах не стесняется истины. Если женщина увидит во сне то, что видит мужчина, должна ли она купаться или нет?» ‘Аиша сказала: «И Пророк ﷺ сказал: “Да, пусть искупается, если увидит жидкость”. ‘Аиша сказала: “Я повернулась к ней и сказала: “Фу, что ты говоришь! Разве женщина видит такое?” И Посланник Аллаха ﷺ повернулся ко мне и сказал: “Да покроется пылью твоя правая рука о ‘Аиша! Откуда (ты думаешь) появляется сходство (ребенка и матери)?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (314)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 1 Hadith 237</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:Sometimes the Messenger of Allah (ﷺ) recited the Qur'an, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami ['Ubaidullah bin Umar] dari [Nafi'] dari [Ibn Umar] katanya, adakalanya Rasulullah shallallahu 'alaihi wasallam sujud ketika membaca alquran melewati ayat sajdah, lalu beliau sujud bersama kami hingga kami merasa sesak ketika bersama beliau, sampai salah seorang kami tidak menemukan tempat sujud, dan itu diluar waktu shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1296</td></tr><tr><td>Arabic No</td><td>575.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Иногда, читая Коран, Посланник Аллаха ﷺ доходил до места, где следует совершить земной поклон, и совершал земной поклон вместе с нами. Нас было так много, что некоторым из нас не удавалось найти (на полу) места, которого можно было бы коснуться лбом, (и это происходило) не во время совершения молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1296</td></tr><tr><td>Arabic No</td><td>575.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 134</td></tr></tbody></table></div>
 

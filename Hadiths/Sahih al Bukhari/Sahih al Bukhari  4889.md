@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) and said, "O Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim bin Katsir] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Fudlail bin Ghazwan] Telah menceritakan kepada kami [Abu Hazim Al Asyja'i] dari [Abu Hurairah radliallahu 'anhu] ia berkata; Seorang laki-laki mendatangi Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sungguh, aku mengalami kesulitan (tidak mendapatkan makanan)." Maka beliau pun mengutus seseorang kepada isteri-isterinya, namun ternyata utusan itu tidak mendapatkan (sesuatu makanan pun). Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidakkah ada seorang pun yang mau menjamunya untuk malam hari ini, semoga Allah merahmatinya." Kemudian berdirilah seorang laki-laki dari kalangan Anshar seraya berkata, "Aku wahai Rasulullah." Lalu laki-laki itu pun pergi menemui keluarganya dan berkata kepada isterinya, "Ini adalah tamu Rasulullah shallallahu 'alaihi wasallam, janganlah kamu mengecewakannya barang sedikit pun." Sang isteri pun berkata, "Demi Allah, aku tidak lagi memiliki apa-apa kecuali makanan untuk anak kita yang kecil." Laki-laki itu berkata, "Jika anak-anak ingin makan malam, maka tidurkanlah mereka. Lalu kemarilah dan matikanlah lampu, kemudian kita berpura-pura menyantap makanan." Akhirnya sang isteri pun melakukannya. Pada keesokan harinya, laki-laki itu pun menemui Rasulullah shallallahu 'alaihi wasallam, dan beliau pun bersabda: "Sungguh, Allah merasa ta'ajjub atau tertawa lantaran apa yang dilakukan si Fulan dan si Fulanah." Sehinngga Allah 'azza wajalla pun menurunkan ayat, "Dan mereka lebih mementingkan yang lain, meskipun mereka sendiri sangat kesusahan." (QS. Alhasyr)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 65 Hadith 409</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды к Посланнику Аллаха ﷺ пришёл какой-то человек и сказал: “О Посланник Аллаха! Поистине, я изнурён (от усталости и голода)!” (Услышав это, Посланник Аллаха ﷺ) послал (кого-то) к своим жёнам, но у них ничего не оказалось. Тогда Посланник Аллаха ﷺ спросил: “Кто приютит у себя этого (человека) сегодня ночью, да помилует его Аллах?” Тогда со своего места поднялся один из ансаров и сказал: “Я, о Посланник Аллаха”. Он привёл (этого человека) к себе домой, и сказал жене: “Это гость Посланника Аллаха ﷺ, ничего не утаивай от него”. Она сказала: “Клянусь Аллахом, у меня нет (ничего), кроме еды для детей”. Он сказал: “Когда дети захотят поужинать, уложи их спать, а потом приди и потуши светильник. Этой ночью мы поспим голодные”. Женщина так и сделала. Утром (хозяин дома) пришёл к Посланнику Аллаха ﷺ, и тот сказал: “Могучий и Великий Аллах засмеялся или подивился тому, что сделали такой-то и такая-то”. Тогда Могучий и Великий Аллах ниспослал аят: “Они отдают им предпочтение перед собой, даже если они сами нуждаются”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 65 Hadith 409</td></tr></tbody></table></div>
 

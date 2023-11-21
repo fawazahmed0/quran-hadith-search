@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu bin Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] -dalam riwayat lain- dan telah menceritakan kepada kami [Ubaidullah bin Muadz] lafad ini darinya, telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Ibnu Abbas radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Umrah ini kita kerjakan sebelum haji. Siapa yang membawa hadya, dia boleh tahallul seluruhnya, namun umrah itu termasuk ibadah haji sampai hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3014</td></tr><tr><td>Arabic No</td><td>1241</td></tr><tr><td>Reference</td><td>Book 15 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3014</td></tr><tr><td>Arabic No</td><td>1241</td></tr><tr><td>Reference</td><td>Book 15 Hadith 222</td></tr></tbody></table></div>
 

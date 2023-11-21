@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jubair b. Mutlim reported that his father narrated to him that Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Muhammad bin Asma' Adh Dhaba'i]; Telah menceritakan kepada kami [Juwariyah] dari [Malik] dari [Az Zuhri] bahwa [Muhammad bin Jubair bin Muth'im]; Telah mengabarkan kepadanya bahwa [Bapaknya] mengabarkan kepadanya, sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak masuk surga orang yang memutuskan silaturrahmi." Telah menceritakan kepada kami [Muhammad bin Rafi'] dan [Abad bin Humaid] dari [Abdurrazak] dari [Ma'mar] dari [Az Zuhri] melalui jalur ini dengan Hadits yang serupa. Dia berkata dengan lafazh; Aku mendengar Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6521</td></tr><tr><td>Arabic No</td><td>2556.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6521</td></tr><tr><td>Arabic No</td><td>2556.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 21</td></tr></tbody></table></div>
 

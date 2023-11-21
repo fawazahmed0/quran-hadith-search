@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id said:When the Prophet (May peace e upon him) commanded to stone Ma�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1694)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4431</td></tr><tr><td>Arabic No</td><td>4431</td></tr><tr><td>Reference</td><td>Book 40 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида: «Когда Пророк ﷺ велел побить камнями Ма‘иза ибн Малика, мы отвели его к Аль-Бакы‘. И, клянусь Аллахом, мы не привязывали его и не рыли для него яму. Он сам встал перед нами, и мы стали бросать в него кости, куски засохшей глины и обломки глиняной посуды (при побивании прелюбодея могут быть использованы не только камни), и он не выдержал и побежал. Мы побежали за ним. Добежав до лавового поля, он снова встал, и мы бросали в него камни, которые подбирали там же, до тех пор, пока он не затих, и (Посланник Аллаха ﷺ) не просил для него прощения у Аллаха, но и не ругал его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1694)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4431</td></tr><tr><td>Arabic No</td><td>4431</td></tr><tr><td>Reference</td><td>Book 40 Hadith 81</td></tr></tbody></table></div>
 

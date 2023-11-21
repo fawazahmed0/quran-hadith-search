@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (b. Malik) was asked about the old age of Allah's Apostle (ﷺ). He said:Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan [Ahmad bin Ibrahim Ad Dauraqi] dan [Harun bin 'Abdillah] seluruhnya dari [Abu Dawud], [Al Mutsanna] berkata; Telah menceritakan kepada kami [Sulaiman bin Dawud]; Telah menceritakan kepada kami [Syu'bah] dari [Khulaid bin Ja'far] bahwa dia mendengar [Abu Iyas] dari [Anas] dia ditanya tentang Uban Nabi shallallahu 'alaihi wasallam. Maka dia menjawab; Allah tidak mencemari rambut beliau dengan warna putih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6079</td></tr><tr><td>Arabic No</td><td>2341.07</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6079</td></tr><tr><td>Arabic No</td><td>2341.07</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
 

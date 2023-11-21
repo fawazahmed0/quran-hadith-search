@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Yahya b. Abu Kathir with the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami ['Abdullah bin Yahya bin Abu Katsir] dia berkata; Aku mendengar [Bapakku] berkata; Telah menceritakan kepada kami [Abu Salamah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Mimpinya seorang lelaki shalih adalah bagian dari empat puluh enam kenabian." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami ['Utsman bin 'Umar]; Telah menceritakan kepada kami ['Ali] yaitu Ibnu Al Mubarak; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ahmad bin Al Mundzir]; Telah menceritakan kepada kami ['Abdush Shamad]; Telah menceritakan kepada kami [Harb] yaitu Ibnu Syaddad keduanya dari [Yahya bin Abu Katsir] melalui jalur ini; Dan telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam serupa dengan Hadits 'Abdullah bin Abu Katsir dari Bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5914</td></tr><tr><td>Arabic No</td><td>2263.08</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5914</td></tr><tr><td>Arabic No</td><td>2263.08</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Bani An-Nadir and Bani Quraiza fought (against the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nahsr] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, dia berkata, "Bani Nadlir dan Bani Quraidzah pernah hendak menyerang (Nabi). Maka Bani Nadlir diusir, dan Bani Quraidzah tetap (berada di Madinah-pent) sampai akhirnya bani Quraidlah memerangi beliau setelah itu. Maka pun beliau membunuh kaum laki-laki mereka, membagi-bagikan para wanita dan anak-anak, serta harta benda mereka kepada kaum muslimin. Namun sebagian mereka ada yang menemui Nabi shallallahu 'alaihi wasallam untuk meminta jaminan keamanan dan masuk Islam. Dan beliau juga mengeluarkan seluruh kaum Yahudi yang ada di Madinah, baik itu Bani Qainuqa' para pengikut Abdullah bin Salam, Bani Haritsah, dan semua kaum Yahudi yang ada di Madinah tanpa terkecuali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4028</td></tr><tr><td>Arabic No</td><td>4028</td></tr><tr><td>Reference</td><td>Book 64 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Племена) ан-надир и курайза сражались (с Пророком ﷺ), который выселил (племя) бану ан-надир, а (людям из племени) курайза позволил остаться (в Медине), оказав им милость, (и они жили там), пока (снова) не выступили (против Пророка ﷺ) с оружием в руках. Тогда он (велел) истребить их мужчин и разделил их женщин, детей и имущество между мусульманами. (Так) было со всеми, кроме тех из них, которые пришли к Пророку ﷺ, гарантировавшему им безопасность, после чего они приняли ислам. И (Пророк ﷺ) выселил из Медины всех иудеев (, а именно: племя) бану кайнука, (племя) ‘Абдуллаха ибн Саляма, иудеев (племени) бану хариса и всех остальных иудеев Медины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4028</td></tr><tr><td>Arabic No</td><td>4028</td></tr><tr><td>Reference</td><td>Book 64 Hadith 77</td></tr></tbody></table></div>
 

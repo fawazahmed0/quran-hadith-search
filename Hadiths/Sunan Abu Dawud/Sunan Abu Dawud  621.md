@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Bara b.‘Azib said ; we used to pray along with the prophet (ﷺ); none of u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Harun bin Ma'ruf] secara makna, mereka berdua berkata; Telah menceritakan kepada kami [Sufyan] dari [Aban bin Taghlab], berkata [Zuhair]; Telah menceritakan kepada kami Al-Kufiyyun [Aban dan selainnya], dari [Al-Hakam] dari [Abdurrahman bin Abi Laila] dari [Al-Bara'] dia berkata; Kami shalat bersama Nabi shallallahu 'alaihi wasallam, maka tidak ada seorang pun dari kami yang ruku' sampai melihat Nabi shallallahu 'alaihi wasallam ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (474)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>621</td></tr><tr><td>Arabic No</td><td>621</td></tr><tr><td>Reference</td><td>Book 2 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ (ибн ‘Азиб) сказал: «Когда мы совершали молитву с Пророком ﷺ никто из нас не сгибал спину, пока он не видел, что Пророк ﷺ упёрся (лбом о землю, совершая земной поклон)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (474)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>621</td></tr><tr><td>Arabic No</td><td>621</td></tr><tr><td>Reference</td><td>Book 2 Hadith 231</td></tr></tbody></table></div>
 

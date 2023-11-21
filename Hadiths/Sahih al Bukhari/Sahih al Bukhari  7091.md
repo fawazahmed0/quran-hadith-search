@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The above hadith is narrated on the authority of Anas thorugh anot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7091</td></tr><tr><td>Arabic No</td><td>7091</td></tr><tr><td>Reference</td><td>Book 92 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Катада (ибн Ди‘ама) передал, что Анас рассказал им от Пророка ﷺ этот же хадис, в котором сказано: «Прибегаю к Аллаху за защитой от зла смут!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7091</td></tr><tr><td>Arabic No</td><td>7091</td></tr><tr><td>Reference</td><td>Book 92 Hadith 42</td></tr></tbody></table></div>
 

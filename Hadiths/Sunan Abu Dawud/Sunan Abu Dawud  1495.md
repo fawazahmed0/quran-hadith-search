@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: I was sitting with the Messenger of Allah (ﷺ) and a m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdurrahman bin 'Ubaidullah Al Halabi], telah menceritakan kepada Kami [Khalaf bin Khalifah] dari [Hafsh yaitu anak saudara Anas] dari [Anas] bahwa ia duduk bersama Rasulullah shallAllahu wa'alaihi wa sallam dan terdapat seorang laki-laki yang melakukan shalat, kemudian ia berdoa; ALLAAHUMMA INNII AS-ALUKA BIANNA LAKAL HAMDU LAA ILAAHA ILLAA ANTA, Al MANNAANU, BADII'US SAMAAWAATI WAL ARDHI, YAA DZAL JALAALI WAL IKRAAM, YAA HAYYU YAA QAYYUUM (ya Allah, aku memohon kepadaMu bahwa bagiMu segala pujian, tidak ada tuhan yang berhak disembah kecuali Engkau, Maha Pemberi, Pencipta langit dan bumi. Wahai Dzat yang memiliki keagungan, serta kemuliaan, wahai Dzat yang Maha Hidup, lagi terus menerus mengurus (makhluk-Nya)). Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh ia telah berdoa kepada Allah dengan namaNya yang agung, yang apabila dipanjatkan doa kepadaNya dengan nama tersebut maka Dia akan mengabulkannya, dan apabila Dia diminta dengan nama tersebut maka Dia akan memberinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 8 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что однажды он сидел вместе с посланником Аллаха ﷺ и рядом один человек совершил молитву, а потом обратился к Аллаху с такой мольбой: «О Аллах, поистине, я прошу Тебя посредством того, что Тебе хвала, нет божества, кроме Тебя, Благодетеля, Первосоздателя небес и земли, о Обладатель величия и щедрости, о Живой, о Вседержитель! /Аллахумма, инни асалю-ка би-анна ля-ка-ль-хамд, ля иляха илля Анта, Бади‘у-с-самавати ва-ль-арды, йа За-ль-джаляли ва-ль-икрами, йа Хаййу, йа Каййум/». Пророк ﷺ сказал: «Он обратился к Аллаху посредством Его великого имени: если к Нему взывают посредством этого имени, Он непременно отвечает, а если Его просят о чём-то посредством этого имени, Он непременно дарует просящему то, о чём тот просит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 8 Hadith 80</td></tr></tbody></table></div>
 

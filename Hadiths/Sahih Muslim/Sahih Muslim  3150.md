@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yahya b. al-Husain reported on the authority of his grandfather that Allah's Apo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Waki'] dan [Abu Dawud Ath Thiyalisi] dari [Syu'bah] dari [Yahya bin Hushain] dari [kakeknya] bahwa ia pernah mendengar Nabi shallallahu 'alaihi wasallam pada saat haji wada'. Di tempat itu beliau mendo'akan bagi mereka yang mencukur rambutnya sebanyak tiga kali, dan sekali bagi mereka yang menggunting rambutnya. Namun Waki' tidak menyebutkan; "Pada saat haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3150</td></tr><tr><td>Arabic No</td><td>1303</td></tr><tr><td>Reference</td><td>Book 15 Hadith 354</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3150</td></tr><tr><td>Arabic No</td><td>1303</td></tr><tr><td>Reference</td><td>Book 15 Hadith 354</td></tr></tbody></table></div>
 

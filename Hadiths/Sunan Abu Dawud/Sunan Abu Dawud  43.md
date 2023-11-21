@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas b. Malik :The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid, yakni Al Wasithi] dari [Khalid, yakni Al Hadzdza'] dari ['Atha' bin Abu Maimunah] dari [Anas bin Malik] bahwasanya Rasulullah shallallahu 'alaihi wasallam memasuki sebuah kebun bersama seorang anak kecil yang membawa tempat air wudhu, ia adalah orang yang paling kecil di kalangan kami, lalu dia meletakkan tempat air wudhu tersebut di sisi pohon bidara, kemudian beliau membuang hajatnya, lalu keluar menemui kami sementara beliau telah beristinja dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (152) Sahih Muslim (270)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>43</td></tr><tr><td>Arabic No</td><td>43</td></tr><tr><td>Reference</td><td>Book 1 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ вышел за ограду (или за стену) и с ним был мальчик несший воду для омовения, который был моложе всех нас. Он поставил её (сосуд с водой) возле (дерева) ююб. Справив свою нужду, он вышел к нам, а подмывался он водой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (152) Sahih Muslim (270)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>43</td></tr><tr><td>Arabic No</td><td>43</td></tr><tr><td>Reference</td><td>Book 1 Hadith 43</td></tr></tbody></table></div>
 

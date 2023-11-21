@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ayyub :'Umar b. 'Abd al-'Aziz wrote (a letter) to the people of Basrah:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>2321</td></tr><tr><td>Reference</td><td>Book 14 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Айюб передаёт, что ‘Умар ибн Абду-ль-Азиз написал жителям Басры: «Нам передали от Посланника Аллаха ﷺ…» И он привёл нечто подобное хадису Ибн Умара от Пророка ﷺ с добавлением: «И если подсчёт вёлся должным образом, то, если народившийся месяц появляется тогда-то, то пост, если будет на то воля Аллаха, будет продолжаться до такого-то времени, если только вы не увидите народившийся месяц раньше этого срока»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>2321</td></tr><tr><td>Reference</td><td>Book 14 Hadith 9</td></tr></tbody></table></div>
 

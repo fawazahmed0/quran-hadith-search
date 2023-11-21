@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin 'Auf Al-Ansari:(who was an ally of Bam 'Amr bin Lu'ai and one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku ['Urwah bin Az Zubair] dari [Al Miswar bin Makhramah], dia mengabarkan kepadanya bahwa ['Amru bin 'Auf Al Anshariy], dia adalah cucu dari Bani 'Amir bin Lu'ay yang turut serta dalam perang Badar, mengabarkan kepadanya bahwa Rasulullah Shallallahu'alaihiwasallam mengutus Abu 'Ubaidah bin Al Jarrah ke negeri Bahrain untuk mengambil jizyah. Sebelumnya Rasulullah Shallallahu'alaihiwasallam telah membuat perjanjian dengan penduduk Bahrain dan menjadikan Al 'Alaa' bin Al Hadlramiy sebagai pemimpin mereka. Maka Abu 'Ubaidah datang dengan membawa harta dari negeri Bahrain. Kedatangan Abu 'Ubaidah ini didengar oleh Kaum Anshar bertepatan dengan saat shalat Shubuh bersama Rasulullah Shallallahu'alaihiwasallam. Setelah shalat selesai, Beliau segera pergi namun mereka berkerumun menghampiri Beliau. Maka Rasulullah Shallallahu'alaihiwasallam tersenyum ketika melihat mereka seraya berkata: "Aku kira kalian telah mendengar bahwa Abu 'Ubaidah telah tiba dengan membawa sesuatu". Mereka berkata; "Benar sekali wahai Rasulullah". Maka Beliau bersabda: "Bergenbiralah dan bercita-citalah dengan apa yang dapat membuat kalian berbahagia. Sungguh demi Allah, bukanlah kefakiran yang aku khawatirkan dari kalian. Akan tetapi yang aku khawatirkan atas kalian adalah bila kalian telah dibukakan (harta) dunia sebagaimana telah dibukakan kepada orang-orang sebelum kalian lalu kalian berlomba-loba untuk memperebutkannya sebagaimana mereka berlomba-lomba memperebutkannya sehingga harta dunia itu membinasakan kalian sebagaimana telah membinasakan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3158</td></tr><tr><td>Arabic No</td><td>3158</td></tr><tr><td>Reference</td><td>Book 58 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр бин ‘Ауф аль-Ансари, да будет доволен им Аллах, являвшийся союзником (племени) бану ‘амир бин лу‘айй и принимавший участие в битве при Бадре, сказал: «(В своё время) Посланник Аллаха ﷺ отправил Абу ‘Убайду бин аль-Джарраха в Бахрейн, чтобы он привёз подушную подать, (собранную с жителей этой области,) и Посланник Аллаха ﷺ заключил мир с жителями Бахрейна, назначив управлять ими аль-‘Аля бин аль-Хадрами. (Когда) Абу ‘Убайда привёз деньги из Бахрейна, ансары узнали о его приезде и явились на утренний намаз вместе с Пророком ﷺ. После того как Посланник Аллаха ﷺ провёл этот намаз с (ансарами), они подошли к нему, (всем своим видом показывая, что хотят о чём-то спросить). Увидев их, он улыбнулся и сказал: “Я думаю, вы услышали, что Абу ‘Убайда что-то привёз”. Они подтвердили: “Да, о Посланник Аллаха”, и (Пророк ﷺ) сказал: “Тогда радуйтесь и надейтесь на то, что порадует вас! (Однако,) клянусь Аллахом, я боюсь для вас не бедности, а того, что достанутся вам все блага мира этого, как доставались они жившим до вас, и станете вы соперничать друг с другом из-за этого, как соперничали (жившие до вас), и это погубит вас, как погубило их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3158</td></tr><tr><td>Arabic No</td><td>3158</td></tr><tr><td>Reference</td><td>Book 58 Hadith 2</td></tr></tbody></table></div>
 

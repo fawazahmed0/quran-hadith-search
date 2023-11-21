@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) sent AbuJahm ibn Hudhayfah as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Dawud bin Sufyan] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Urwah] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam mengutus Abu Jahm bin Hudzaifah sebagai penengah dalam persengketaan. Namun ada seorang laki-laki laki-laki yang memutar balikkan fakta hingga Abu jahm memukulnya hingga cidera. Mereka pun mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, kami minta qishsash! ' Rasulullah shallallahu 'alaihi wasallam kemudian berkata, "Bagi kalian begini dan begini, " namun mereka tidak rela. Beliau bersabda lagi: "Bagi kalian begini dan begini, " namun mereka tidak rela. Beliau bersabda lagi: "Bagi kalian begini dan begini, ' mereka akhirnya rela. Setelah itu Nabi shallallahu 'alaihi wasallam bersabda: "Aku akan berpidato di hadapan orang-orang petang nanti dan mengabarkan kepada mereka bahwa kalian telah rela." Mereka menjawab, "Ya." Rasulullah shallallahu 'alaihi wasallam lalu berpidato: "Orang-orang bani Laits telah mendatangiku menginginkan qishsas, lalu aku tawarkan kepada mereka begini dan begini hingga mereka rela, maka apakah kalian juga rela?" Mereka menjawab, "Tidak." Orang-orang Muhajirin ingin menghajar mereka, namun Rasulullah shallallahu 'alaihi wasallam melarang mereka melakukan hal itu, sehingga mereka pun menahan diri. Kemudian beliau memanggil mereka semua dan berpidato lagi: "Apakah kalian ridha?" Mereka menjawab, "Ya." Beliau bersabda: "Aku akan berpidato di hadapan orang-orang untuk mengabarkan kepada mereka bahwa kalian telah ridha." Para sahabat menjawab, "Ya." maka Nabi shallallahu 'alaihi wasallam berpidato seraya berkata: "Apakah kalian ridha?" Mereka menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что однажды Пророк ﷺ послал Абу Джахма ибн Хузайфу собирать закят, один человек начал спорить с ним из-за закята и Абу Джахм ударил его, из-за чего на голове у него осталась рана. (Его соплеменники) пришли к Пророку ﷺ и сказали: «Мы требуем воздаяния равным, о Посланник Аллаха!» Пророк ﷺ сказал: «Вам то-то и то-то». Но они не согласились. Он сказал: «Вам то-то и то-то!» Но они не согласились. Он сказал: «Вам то-то и то-то!» И они согласились. Тогда Пророк ﷺ сказал: «Во второй половине дня я обращусь к людям с речью и сообщу им о том, что вы довольны». Они сказали: «Хорошо». И Посланник Аллаха ﷺ обратился к людям с речью, сказав: «Поистине, эти лейситы пришли ко мне и требуют воздаяния равным /кысас/. Я предложил им то-то и то-то, и они согласились. Вы согласны?» Они ответили: «Нет». И мухаджиры заволновались. Но Посланник Аллаха ﷺ велел им не трогать лейситов, и они не стали трогать их. Потом он позвал их и добавил им, спросив: «Вы довольны?» Они сказали: «Да». (Посланник Аллаха ﷺ) сказал: «Я обращусь к людям с речью и сообщу им о том, что вы довольны». Они сказали: «Хорошо». И Пророк ﷺ обратился к людям с речью, сказав: «Вы согласны?» Они ответили: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salman al-Farsi: It was said to Salman: Your Prophet teaches you everyt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [al A'masy] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Salman] dia berkata; dikatakan kepadanya; "Sungguh Nabi kalian telah mengajarkan kepada kalian segala sesuatu hingga urusan buang hajat?" Salman menjawab; "Benar, beliau shallallahu 'alaihi wasallam telah melarang kami menghadap kiblat pada saat buang air besar atau buang air kecil, agar kami tidak beristinja dengan tangan kanan, agar salah seorang dari kami tidak beristinja dengan kurang dari tiga batu, atau beristinja dengan kotoran binatang atau tulang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (262)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7</td></tr><tr><td>Arabic No</td><td>7</td></tr><tr><td>Reference</td><td>Book 1 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салман (аль-Фариси) сказал, что (однажды) у него спросили: «Правда ли что ваш Пророк обучил вас всему, и даже тому, как справлять нужду?» (Салман) сказал: «Да. Он запретил нам поворачиваться в сторону къиблы при справлении большой или малой нужды, подмываться правой рукой, использовать для очищения (после справления нужды) меньше трёх камней, и очищаться навозом и костями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (262)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7</td></tr><tr><td>Arabic No</td><td>7</td></tr><tr><td>Reference</td><td>Book 1 Hadith 7</td></tr></tbody></table></div>
 

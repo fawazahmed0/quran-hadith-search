@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) passed by a woman who was weeping besi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik radliallahu 'anhu] berkata,: Nabi Shallallahu'alaihiwasallam pernah berjalan melewati seorang wanita yang sedang menangis di sisi kubur. Maka Beliau berkata,: "Bertakwalah kepada Allah dan bersabarlah". Wanita itu berkata,: "Kamu tidak mengerti keadaan saya, karena kamu tidak mengalami mushibah seperti yang aku alami". Wanita itu tidak mengetahui jika yang menasehati itu Nabi Shallallahu'alaihiwasallam. Lalu diberi tahu: "Sesungguhnya orang tadi adalah Nabi Shallallahu'alaihiwasallam. Spontan wanita tersebut mendatangi rumah Nabi Shallallahu'alaihiwasallam namun dia tidak menemukannya. Setelah bertemu dia berkata; "Maaf, tadi aku tidak mengetahui anda". Maka Beliau bersabda: "Sesungguhnya sabar itu pada kesempatan pertama (saat datang mushibah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1283</td></tr><tr><td>Arabic No</td><td>1283</td></tr><tr><td>Reference</td><td>Book 23 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ проходивший мимо какой-то женщины, которая плакала у могилы, (остановился) и сказал (ей): “Бойся Аллаха и храни терпение”. Женщина, не знавшая его (в лицо), воскликнула: “Оставь меня, ведь тебя не постигло такое горе!” Потом ей сказали: “Это же был Пророк ﷺ !” — и тогда она пришла к дверям (дома) Пророка ﷺ, однако не обнаружила там привратников. Она сказала ему: “Я не знала, что это ты!” — он же сказал ей: “Поистине, терпение (больше всего необходимо) проявлять при первом потрясении”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1283</td></tr><tr><td>Arabic No</td><td>1283</td></tr><tr><td>Reference</td><td>Book 23 Hadith 43</td></tr></tbody></table></div>
 

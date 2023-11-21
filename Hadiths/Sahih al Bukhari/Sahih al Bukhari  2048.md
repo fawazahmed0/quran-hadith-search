@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim bin Sa'd from his father from his grandfather:'Abdur Rahman bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [bapaknya] dari [kakeknya] berkata; ['Abdurrahman bin 'Auf] radliallahu 'anhu berkata, ketika kami sampai di Madinah; Rasulullah shallallahu 'alaihi wasallam mempersaudarakan antara aku dengan Saad bin ar-Rabi', lalu Saad bin ar-Rabi' berkata; "Aku adalah orang Anshar yang paling banyak hartanya, maka aku beri separuh hartaku untukmu, kemudian lihatlah diantara kedua isteriku siapa yang engkau suka nanti akan aku ceraikan untukmu, jika ia telah halal maka nikahilah". Perawi berkata; "Maka 'Abdurrahman berkata kepadanya; "Aku tidak membutuhkan itu. Begini saja, apakah ada pasar yang sedang berlangsung transaksi jual beli saat ini?" Sa'ad menjawab: "Pasar Qainuqa'". Perawi berkata; "Lalu Abdur Rahman pergi kesana, ia membawa keju dan minyak samin. Perawi berkata lagi; "Dia melakukan hal itu pada hari-hari berikutnya. 'Abdurrahman tetap berdagang disana hingga akhirnya ia datang dengan mengenakan pakaian yang bagus dan penuh aroma wewangian. Maka Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah engkau sudah menikah?" Dia menjawab; "Ya, sudah". Lalu beliau bertanya lagi: "Dengan siapa?" Dia menjawab; "Dengan seorang wanita Anshar". Beliau bertanya lagi: "Dengan mahar apa engkau melakukan akad nikah?" Dia menjawab; "Dengan perhiasan sebiji emas, atau sebiji emas". Lalu Nabi shallallahu 'alaihi wasallam berkata, kepadanya: "Adakanlah walimah (resepsi) walau hanya dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2048</td></tr><tr><td>Arabic No</td><td>2048</td></tr><tr><td>Reference</td><td>Book 34 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Ауф, да будет доволен им Аллах, сказал: «Когда мы приехали в Медину, Посланник Аллаха ﷺ побратал меня с Са‘дом ибн ар-Раби‘, и Са‘д ибн ар-Раби‘ сказал (мне): “Поистине, я — самый богатый из ансаров, и я отдам тебе половину того, что имею. И посмотри, какая из двух моих жён понравится тебе, и я уступлю её тебе, а когда закончится её срок, ты женишься на ней”».\n(Передатчик этого хадиса) сказал: «‘Абдуррахман сказал: “Я не нуждаюсь в этом”, (и спросил): “Есть ли здесь рынок, где (люди занимаются) торговлей?” (Са‘д) ответил: “(Есть) рынок кайнука”. И ‘Абдуррахман понёс туда сушёный творог и масло, после чего стал ходить туда постоянно, а уже через короткое время ‘Абдуррахман явился с жёлтыми следами (от благовоний на теле), и Посланник Аллаха ﷺ спросил его: “Ты женился?” Он сказал: “Да”. (Пророк ﷺ) спросил: “На ком?” Он ответил: “На одной женщине из ансаров”. (Пророк ﷺ) спросил: “И сколько же ты отдал?” Он сказал: “Золото, равное по весу косточке”. Тогда Пророк ﷺ сказал ему: “Тебе следует устроить угощение хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2048</td></tr><tr><td>Arabic No</td><td>2048</td></tr><tr><td>Reference</td><td>Book 34 Hadith 2</td></tr></tbody></table></div>
 

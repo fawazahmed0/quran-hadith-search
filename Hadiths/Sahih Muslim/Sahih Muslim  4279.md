@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tamim b. Tarafa reported that he heard 'Adi b. Hatim say that a person came to h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dari [Tamim bin Tharfah] dia berkata; aku pernah mendengar ['Adi bin Hatim] dan saat itu dia didatangi seorang laki-laki yang meminta uang seratus dirham, maka dia berkata, "Apakah kamu meminta kepadaku seratus dirham, padahal aku adalah Ibnu Hatim?!, Demi Allah, aku tidak akan memberikan kepadamu." Kemudian dia berkata, "Sekiranya aku tidak pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengucapkan sumpah, kemudian dia melihat ada sesuatu yang lebih baik dari sumpahnya, maka hendaknya dia melakukan sesuatu yang lebih baik itu." Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Simak bin Harb] dia berkata; aku pernah mendengar [Tamim bin Tharafah] berkata; aku pernah mendengar ['Adi bin Hatim] bahwa suatu ketika ada seorang laki-laki yang meminta kepadanya …", kemudian dia menyebutkan hadits seperti itu dengan menambahkan, "Dan dari pemberianku untukmu adalah empat ratus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4279</td></tr><tr><td>Arabic No</td><td>1651.05</td></tr><tr><td>Reference</td><td>Book 27 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4279</td></tr><tr><td>Arabic No</td><td>1651.05</td></tr><tr><td>Reference</td><td>Book 27 Hadith 26</td></tr></tbody></table></div>
 

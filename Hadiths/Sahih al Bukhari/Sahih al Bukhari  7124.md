@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Ad-Dajjal will come and encamp 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'ad bin Hafsh] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Ishaq bin Abdullah bin Abi Thalhah] dari [Anas bin Malik] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda; "Dajjal datang hingga singgah di pinggiran Madinah kemudian Madinah guncang tiga kali, sehingga setiap kafir dan munafik menemuinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7124</td></tr><tr><td>Arabic No</td><td>7124</td></tr><tr><td>Reference</td><td>Book 92 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Явится Даджаль, и остановится в окрестностях Медины, после чего Медина сотрясётся трижды, и выйдут к нему (из неё) все неверующие и лицемеры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7124</td></tr><tr><td>Arabic No</td><td>7124</td></tr><tr><td>Reference</td><td>Book 92 Hadith 71</td></tr></tbody></table></div>
 

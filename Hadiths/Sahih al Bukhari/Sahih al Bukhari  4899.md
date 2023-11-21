@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:A caravan of merchandise arrived at Medina on a Fri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hafsh bin Umar] Telah menceritakan kepada kami [Khalid bin Abdullah] Telah menceritakan kepada kami [Hushain] dari [Salim bin Abul Ja'dari] dan dari [Abu Sufyan] dari [Jabir bin Abdullah radliallahu 'anhuma] ia berkata; Pada hari Jum'at, datanglah barang dagangan sementara kami saat itu sedang bersama Nabi shallallahu 'alaihi wasallam. Maka orang-orang pun pergi kecuali dua belas orang yang tersisa, maka Allah menurunkan ayat: "Dan ketika mereka melihat perdagangan atau kesenangan mereka bergegas padanya dan meninggalkanmu dalam keadaan berdiri (menyampaikan khuthbah)." (QS. Aljumu'ah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4899</td></tr><tr><td>Arabic No</td><td>4899</td></tr><tr><td>Reference</td><td>Book 65 Hadith 419</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдиллах, да будет доволен им Аллах, сказал: «(Однажды,) когда в пятницу мы совершали молитву вместе с Пророком ﷺ, прибыл караван верблюдов. (Почти все люди) бросились к нему, а с Пророком ﷺ осталось только двенадцать человек, и тогда был ниспослан этот аят: “Когда же они увидели торговлю или забаву, они разошлись, бросившись к ней и оставили тебя стоять (во время пятничной проповеди)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4899</td></tr><tr><td>Arabic No</td><td>4899</td></tr><tr><td>Reference</td><td>Book 65 Hadith 419</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn Abasah: The Messenger of Allah (ﷺ) led us in prayer facing a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Walid bin 'Utbah], ia berkata; telah menceritakan kepada kami [Al Walid], telah menceritakan kepada kami [Abdullah bin Al 'Ala'] bahwa ia mendengar [Abu Sallam Al Aswad], berkata; aku mendengar ['Amr bin 'Abasah], ia berkata; Rasulullah shallallahu 'alaihi wasallam melakukan shalat bersama kami menghadap ke unta yang merupakan sebagian dari rampasan perang, kemudian beliau mengucapkan salam dan mengambil satu helai rambut dari sisi unta tersebut, kemudian beliau berkata: "Dan tidak halal bagiku dari rampasan perang kalian seperti ini kecuali seperlima dan seperlima dikembalikan kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2755</td></tr><tr><td>Arabic No</td><td>2755</td></tr><tr><td>Reference</td><td>Book 15 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2755</td></tr><tr><td>Arabic No</td><td>2755</td></tr><tr><td>Reference</td><td>Book 15 Hadith 279</td></tr></tbody></table></div>
 

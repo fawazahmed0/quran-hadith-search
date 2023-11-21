@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), 'Omar Ibn Al-Khattâb fit une a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya membacakannya di hadapan [Malik]; dari [Nafi'] dari [Ibnu Umar] bahwa Umar bin Khaththab pernah memberi kepada seseorang seekor kuda untuk berjuang di jalan Allah, tiba-tiba dia mendapatinya telah dijual. Oleh karena itu dia ingin membelinya kembali, maka ia pun menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah kamu membelinya kembali, dan jangan kamu ambil barang sedekahmu." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ibnu Rumh] semuanya dari [Laits bin Sa'd]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Al Muqaddami] dan [Muhammad bin Mutsanna] keduanya berkata; telah menceritakan kepada kami [Yahya] -yaitu Al Qatthan-. (dalam jalur lain disebutkan) Telah meriwayatkan kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] semuanya dari ['Ubaidullah], kedua-duanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4167</td></tr><tr><td>Arabic No</td><td>1621.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4167</td></tr><tr><td>Arabic No</td><td>1621.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 5</td></tr></tbody></table></div>
 

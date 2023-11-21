@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:We took 'Abdullah b. Zubair to Allah's Apostle (ﷺ) so that he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] ia berkata; 'Aku bersama Abdullah bin Jubair menemui Nabi shallallahu 'alaihi wasallam untuk mentahniknya (mengunyahkan makanan untuk bayi), lalu beliau meminta kepada kami sebuah kurma. Pada waktu itu permintaan beliau tersebut sangat sulit didapatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5620</td></tr><tr><td>Arabic No</td><td>2148</td></tr><tr><td>Reference</td><td>Book 38 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5620</td></tr><tr><td>Arabic No</td><td>2148</td></tr><tr><td>Reference</td><td>Book 38 Hadith 35</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported that Allah's Messenger (ﷺ) obs
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] dari [Abul Aliyah] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; "Rasulullah shallallahu 'alaihi wasallam shalat Shubuh di Dzuthuwa, dan beliau sampai di Makkah pada tanggal empat Dzulhijjah. Kemudian beliau memerintahkan para sahabatnya agar menjadikan ihram mereka untuk umrah, kecuali bagi yang membawa hadya (hewan kurban)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3013</td></tr><tr><td>Arabic No</td><td>1240.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3013</td></tr><tr><td>Arabic No</td><td>1240.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
 

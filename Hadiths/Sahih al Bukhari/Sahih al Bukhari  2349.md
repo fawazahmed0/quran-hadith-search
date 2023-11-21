@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:We used to be very happy on Friday as an old lady used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin 'Abdurrahman] dari [Abi Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] bahwa dia berkata: "Kami selalu bergembira bila datang hari Jum'at karena ada seorang wanita tua yang mencabut ubi milik kami yang kami tanam di selokan kebun lalu dia memasaknya dengan mencampurnya dengan biji gandum". Ya'qub berkata: "Aku tidak tahu kecuali dia mengatakan bahwa tidak ada lemak dan minyak."Apabila kami telah selesai shalat Jum'at maka kami datang ke rumah wanita itu lalu dia menyuguhkan masakannya itu kepada kami. Itulah mengapa kami bergembira dengan kehadiran hari Jum'at karena adanya makanan yang disuguhkannya itu. Dan kami tidaklah makan siang dan tidak pula tidur siang (qailulah) melainkan setelah selesai shalat Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2349</td></tr><tr><td>Arabic No</td><td>2349</td></tr><tr><td>Reference</td><td>Book 41 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «Поистине, мы радовались пятничному дню. Среди нас была одна пожилая женщина, она брала корневища свеклы, которую мы сажали на берегу ручьёв, и клала их в котёл, затем добавляла пригоршню ячменных зёрен (и варила похлёбку), — один из передатчиков хадиса сказал: “По-моему, он сказал: “В ней не было ни мяса, ни жира”. Совершив пятничную молитву, мы навещали её, а она подавала нам это блюдо, поэтому мы радовались пятничному дню. Мы обедали и совершали кайлюлю (дневной сон) только после пятничной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2349</td></tr><tr><td>Arabic No</td><td>2349</td></tr><tr><td>Reference</td><td>Book 41 Hadith 27</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "I saw in a dream that I was migrating
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al 'Ala'] Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [kakeknya, Abu Burdah] dari [Abu Musa], setahuku ia dari Nabi shallallahu 'alaihi wasallam, beliau bersabda; "Aku bermimpi bahwa aku hijrah dari Makkah ke suatu kawasan yang banyak pohon kurmanya. Awal perkiraanku, kawasan itu adalah Yamamah atau Hajar, ternyata itu adalah Madinah atau Yatsrib. Dan aku melihat disana ada sapi, demi Allah, yang bagus sekali. Dan ternyata mereka adalah orang-orang mukmin di hari Uhud. Dan kebaikan yang Allah datangkan serta pahala kejujuran adalah yang Allah berikan kepada kita setelah peperangan badar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7035</td></tr><tr><td>Arabic No</td><td>7035</td></tr><tr><td>Reference</td><td>Book 91 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «[Однажды] мне приснилось, что я переселяюсь из Мекки на землю, где (растут) финиковые пальмы, и я подумал, что [этой землёй будет] Йемама или Хаджар, но оказалось, что это — Медина, [то есть] Ясриб. И я увидел во [сне] коров, [которых приносили в жертву], — благом же [является то, что делает] Аллах, — и оказалось, [что этот сон был указанием на] тех верующих, [которые погибли в битве при] Ухуде. Благом стало то, что Аллах даровал потом, и это послужило наградой за искренность, дарованную нам Аллахом после дня Бадра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7035</td></tr><tr><td>Arabic No</td><td>7035</td></tr><tr><td>Reference</td><td>Book 91 Hadith 50</td></tr></tbody></table></div>
 

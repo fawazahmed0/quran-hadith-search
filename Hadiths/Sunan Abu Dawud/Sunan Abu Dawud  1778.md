@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ai’shah said :We went out along with The Messenger of Allah (SWAS) when the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1778</td></tr><tr><td>Arabic No</td><td>1778</td></tr><tr><td>Reference</td><td>Book 11 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Мы отправились в путь вместе с посланником Аллаха ﷺ перед самым началом месяца зуль-хиджжа. Когда мы находились в Зуль-Хулейфе, Посланник Аллаха ﷺ сказал: “Кто желает совершить хадж, пусть произносит тальбию для хаджа, а кто желает совершить ‘умру, пусть произносит тальбию для ‘умры. Если бы я не гнал жертвенный скот, я бы произнёс тальбию для ‘умры (или: Что же касается меня, то я объявил о намерении совершить хадж, ибо со мной жертвенный скот)”. Я была среди тех, кто произнёс тальбию для ‘умры, однако по дороге у меня началась менструация, и, когда ко мне зашёл Посланник Аллаха ﷺ я плакала. Он спросил: “Почему ты плачешь?” Я ответила: “Ах, если бы я вообще не выезжала в этом году!” Посланник Аллаха ﷺ сказал: “Отложи свою ‘умру, приведи в порядок голову, расчеши волосы и произнеси тальбию для хаджа, и делай то, что делают мусульмане в своём хадже”». А в ночь перед отбытием Посланник Аллаха ﷺ велел ‘Абдуррахману проводить ‘Аишу в Тан‘им, где она произнесла тальбию для ‘умры вместо той своей умры и совершила обход вокруг Каабы, и так Аллах дал ей возможность совершить и умру, и хадж. Хишам сказал: «И при этом с ней вообще не было жертвенного скота». Абу Дауд сказал, что Муса добавил в хадисе Хаммада ибн Салямы: «А когда настала ночь пребывания в аль-Батхе (место между Меккой и долиной Мина), ‘Аиша, да будет доволен ею Аллах, очистилась [от менструации]»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1778</td></tr><tr><td>Arabic No</td><td>1778</td></tr><tr><td>Reference</td><td>Book 11 Hadith 58</td></tr></tbody></table></div>
 

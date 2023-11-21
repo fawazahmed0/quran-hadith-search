@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] mereka berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Al 'Ala] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah sekali-kali seseorang di antara kamu berkata; 'Abdi (hai budakku) atau Amati (hai budak perempuanku/sahayaku), karena kamu semua adalah 'Abiidullah (budak atau hamba Allah) dan kaum wanita adalah Imaaullah (hamba sahaya Allah). Tetapi katakanlah; Ghulaami (pelayanku) dan Jariyati (pelayan perempuanku) atau Faataya (pemudaku) dan Fataati (pemudiku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5874</td></tr><tr><td>Arabic No</td><td>2249.01</td></tr><tr><td>Reference</td><td>Book 40 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5874</td></tr><tr><td>Arabic No</td><td>2249.01</td></tr><tr><td>Reference</td><td>Book 40 Hadith 13</td></tr></tbody></table></div>
 

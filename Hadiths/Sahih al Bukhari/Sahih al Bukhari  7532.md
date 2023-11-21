@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A man said, "O Allah's Messenger (ﷺ)! Which sin is the bigg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wail] dari ['Amru bin Syurahbil] berkata, [Abdullah] berkata, "Seorang laki-laki berkata, 'Wahai Rasulullah, dosa apakah yang terbesar di sisi Allah? ' Nabi menjawab: 'Engkau menjadikan tandingan bagi Allah, padahal Dialah yang menciptamu.' Laki-laki tersebut bertanya lagi, 'Lantas apa lagi? ' Nabi menjawab: 'Engkau bunuh anakmu karena khawatir makan bersamamu.' Laki-laki itu bertanya lagi, 'Lantas apa? ' Nabi menjawab: 'Engkau berzina dengan wanita tetanggamu.' Lantas Allah menurunkan ayat yang membenarkannya: '(Dan orang-orang yang tidak menyeru Tuhan lain disamping menyeru Allah, dan tidak membunuh jiwa yang Allah haramkan selain dengan alasan yang benar, dan tidak berzina, dan barangsiapa melakukan yang demikian ia akan memperoleh dosa dan akan dilipat gandakan siksa baginya) '. (Qs. Al Furqan:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7532</td></tr><tr><td>Arabic No</td><td>7532</td></tr><tr><td>Reference</td><td>Book 97 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шурахбиль передаёт от ‘Абдуллах (ибн Мас‘уда), да будет доволен им Аллах, который сказал: «(Однажды) один человек спросил: “О Посланник Аллаха, какой грех перед Аллахом является самым тяжким?” Он ответил: “Придавать Аллаху равного, в то время как Он тебя создал”. Он спросил: “А потом?” (Пророк ﷺ) сказал: “Потом убийство собственного ребёнка из опасения того, что он будет есть вместе с тобой”. Он спросил: “А потом?” (Пророк ﷺ) сказал: “Прелюбодеяние с женой твоего соседа”. И в подтверждение их слов, Аллах ниспослал аят: “И которые не молятся другим божествам наряду с Аллахом, не убивают людей, которых Аллах запретил убивать без права на то, и не прелюбодействуют, — а кто поступает так, тот будет наказан. Его мучения будут приумножены” (Сура «аль-Фуркан», аят 68-69)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7532</td></tr><tr><td>Arabic No</td><td>7532</td></tr><tr><td>Reference</td><td>Book 97 Hadith 157</td></tr></tbody></table></div>
 

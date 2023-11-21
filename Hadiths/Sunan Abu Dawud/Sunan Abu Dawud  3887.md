@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ash-Shifa', daughter of Abdullah,: The Messenger of Allah (ﷺ) entered
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Mahdi Al Mishshi] telah menceritakan kepada kami [Ali bin Mushir] dan [Abdul Aziz bin Umar bin Abdul Aziz] dari [Shalih bin Kaisan] dari [Abu Bakr bin Sulaiman bin Abu Hatsmah] dari [Asy Syifa' binti Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah menemuiku, sementara aku sedang berada di rumah Hafshah. Lalu beliau berkata kepadaku: "Tidakkah engkau ajari dia jampi namlah sebagaimana engkau mengajarinya menulis?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3887</td></tr><tr><td>Arabic No</td><td>3887</td></tr><tr><td>Reference</td><td>Book 29 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аш-Шифа бинт ‘Абдуллах: «Посланник Аллаха ﷺ зашёл к нам, когда я была у Хафсы, и сказал: “Не могла бы ты научить её заклинанию /рукъя/ от язв подобно тому, как ты научила её письму?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3887</td></tr><tr><td>Arabic No</td><td>3887</td></tr><tr><td>Reference</td><td>Book 29 Hadith 33</td></tr></tbody></table></div>
 

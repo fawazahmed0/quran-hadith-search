@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:Allah's Messenger (ﷺ) did not screen himself from me since my e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin 'Abdullah bin Numair] telah bercerita kepada kami [Ibnu Idris] dari [Isma'il] dari [Qois] dari [Jarir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam tidak pernah melarangku untuk bertemu beliau semenjak aku masuk Islam dan tidaklah beliau melihat aku melainkan beliau tersenyum ke wajahku. Dan sungguh aku pernah mengadu kepada beliau bahwa aku tidak pandai dalam menunggang kuda lalu beliau memukul dadaku dengan tangan beliau lalu mendo'akan aku: "ALLOOHUMMA TSABBIT-HU WAJ'ALHU HAADIYAN MURSYIDAN, Ya Allah, teguhkanlah dia, dan jadikanlah dia pemberi petunjuk yang lurus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>3035</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир (ибн ‘Абдуллах аль-Баджали), да будет доволен им Аллах, сказал: «С тех пор, как я принял ислам, я ни разу не получил от Пророка ﷺ отказа (на то, чтобы войти к нему в дом). И не было такого, чтобы встречая меня, он не улыбался мне в лицо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>3035</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

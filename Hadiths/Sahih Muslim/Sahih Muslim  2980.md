@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain said:There was revealed the verse of Tamattu' in Hajj in the Boo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin Umar Al Bakrawi] dan [Muhammad bin Abu Bakr Al Muqaddami] keduanya berkata, Telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] Telah menceritakan kepada kami [Imran bin Muslim] dari [Abu Raja'] ia berkata, [Imran bin Hushain] berkata; "Telah turun ayat Mut'ah di dalam kitabullah, yakni Mut'atul Hajji (haji tamattu'), dan Rasulullah shallallahu 'alaihi wasallam juga memerintahkan untuk mengerjakannya. Sesudah itu, belum ada ayat yang turun dan menghapuskannya, demikan juga Rasulullah shallallahu 'alaihi wasallam, beliau tidak pernah melarangnya kembali hingga beliau meninggal. Namun seseorang telah berkata sesuai dengan selera akalnya sendiri." Dan telah menceritakannya kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Imran Al Qashir] Telah menceritakan kepada kami [Abu Raja'] dari [Imran bin Hushain] semisalnya. Hanya saja ia menyebutkan; "Dan kami mengerjakannya bersama Rasulullah shallallahu 'alaihi wasallam." yakni, ia tidak menyebutkan; "Beliau memerintahkan kami (untuk mengerjakannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>1226.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>1226.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 188</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) returned from the Ghazwa of Tabu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Humaid Ath Thawil] dari [Anas bin Malik radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam tatkala kembali dari perang Tabuk dan sudah mendekati Madinah, beliau bersabda: "Sesungguhnya di dalam Madinah itu ada sekelompok kaum, yang tidaklah kalian menempuh perjalanan dan tidaklah kalian menyebrangi lembah kecuali mereka diikutsertakan bersama kalian dalam ganjaran." Mereka bertanya; "Wahai Rasulullah, apakah mereka berada di dalam Madinah? ' Beliau menjawab: "Mereka di Madinah karena mereka terhalangi oleh udzur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4423</td></tr><tr><td>Arabic No</td><td>4423</td></tr><tr><td>Reference</td><td>Book 64 Hadith 445</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что, возвращаясь с похода на Табук, и приблизившись к Медине, Посланник Аллаха ﷺ сказал: «Поистине, есть в Медине люди, которые неизменно были с вами, каким бы путём вы ни шли и какую бы долину ни пересекали». Люди спросили: «О Посланник Аллаха (как же так, ведь) они находились в Медине?» На что он ответил: «(Несмотря на то, что) они находились в Медине, ведь они остались по уважительной причине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4423</td></tr><tr><td>Arabic No</td><td>4423</td></tr><tr><td>Reference</td><td>Book 64 Hadith 445</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Whoever manumits his share o a joint
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Juwairiyah bin Asma'] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barang siapa yang membebaskan hak kepemilikan seorang budak, maka ia berkewajiban untuk membebaskan seluruhnya. Seandainya dia memiliki harta sebanyak harga budaknya, maka budaknya ditaksir dengan harga normal dan teman yang memiliki hak berserikat itu diberikan hak bagiannya dan budak dibebaskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2503</td></tr><tr><td>Arabic No</td><td>2503</td></tr><tr><td>Reference</td><td>Book 47 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Кто освободил свою долю раба, тот должен освободить его полностью, если у него достаточно средств для этого. Он должен оценить его и выплатить совладельцам их доли остатка его стоимости, и тогда раб становится свободным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2503</td></tr><tr><td>Arabic No</td><td>2503</td></tr><tr><td>Reference</td><td>Book 47 Hadith 19</td></tr></tbody></table></div>
 

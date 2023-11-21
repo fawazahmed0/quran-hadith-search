@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Nous partîmes à la chasse d'un li
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] dari [Anas bin Malik] dia berkata, "Pada suatu ketika kami lewat di Marru Zhahran (nama tempat), tiba-tiba kami dikagetkan oleh seekor kelinci, lalu kami kejar kelinci tersebut sampai mereka kelelahan." Anas melanjutkan, "Saya juga turut mengejarnya sampai dapat, lantas saya membawanya kepada Abu Thalhah, kemudian dia menyembelihnya dan mengirimkan kedua pahanya kepada Rasulullah shallallahu 'alaihi wasallam. Aku lalu membawanya ke hadapan Rasulullah shallallahu 'alaihi wasallam dan beliau pun menerimanya." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Khalid] -yaitu Ibnu Al Harits- keduanya dari [Syu'bah] dengan isnad ini. Dan dalam hadits Yahya disebutkan, "Dengan kedua pahanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5048</td></tr><tr><td>Arabic No</td><td>1953.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5048</td></tr><tr><td>Arabic No</td><td>1953.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 77</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sariy] telah menceritakan kepada kami [Abu Al Ahwash] dari [Asy'ats bin Abu Asy Sya'tsa'] dari [ayahnya] dari [Masruq] dia berkata; [Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam menemui kami sedangkan seorang laki-laki duduk di dekatku, ternyata hal itu membuat diri beliau keberatan, dan kelihatannya dari raut mukanya beliau sedang marah, Aisyah berkata; Maka saya berkata; Wahai Rasulullah, sesungguhnya dia adalah saudara sesusuanku. (Aisyah) melanjutkan; Kemudian beliau bersabda: "Perhatikanlah siapa saudara sesusuanmu itu, sesungguhnya menyusu (yang menjadikan mahram) itu hanyalah karena lapar." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] dia berkata; Semuanya dari [Syu'bah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki']. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman bin Mahdi] semuanya dari [Sufyan]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Husain Al Ju'fi] dari [Za'idah], semuanya dari [Asy'ats bin Abu Asy Sya'tsa'] dengan isnad Abu Al Ahwash seperti makna haditsnya, namun mereka menyebutkan; "Minal maja'ah (karena rasa lapar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3606</td></tr><tr><td>Arabic No</td><td>1455.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3606</td></tr><tr><td>Arabic No</td><td>1455.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 39</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Barâ Ibn 'Azib (que Dieu l'agrée) a dit : "En considérant la prière de Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Muadz al-Anbari] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Syu'bah] dari [al-Hakam] dia berkata, "Seorang laki-laki (Mathar bin Najiyah) telah mengalahkan (penduduk) Kufah yang telah dia sebutkan namanya pada zaman Ibnu al-Asyats. Lalu dia memerintahkan Abu Ubaidullah bin Abdullah untuk shalat mengimami orang-orang. Dia pernah shalat, apabila dia mengangkat kepalanya dari rukuk maka dia berdiri selama waktu yang dibutuhkan olehku untuk membaca, 'AALLOOHUMMA ROBBANAA LAKAL HAMDU MIL"US SAMAAWAATI WAL ARDHI, WAMIL"U MAA SYI"TA MIN SYAI"IN BA"DU, AHLATS TSANAA"I WAL MAJDI, LAA MAANI'A LIMAA A'THOITA WALAA MU'THIYA LIMAA MANA'TA WALAA YANFA'U DZAL JADDI MINKAL JADDI, Ya Allah, Rabb kami, segala puji bagimu sepenuh langit dan bumi serta sepenuh sesuatu yang Engkau kehendaki setelah itu wahai Dzat yang berhak dipuji dan diagungkan. Tidak ada penghalang untuk sesuatu yang Engkau beri, dan tidak ada pemberi untuk sesuatu yang Engkau halangi. Tidaklah bermanfaat harta orang yang kaya dari adzabmu.' Al-Hakam berkata, 'Lalu aku menyebutkan hal tersebut kepada [Abdurrahman bin Abi Laila] seraya dia berkata, aku mendengar [al-Bara' bin Azib] berkata, 'Dahulu shalat Rasulullah Shallallahu'alaihiwasallam, dan rukuknya, dan apabila mengangkat kepalanya dari rukuk, sujudnya serta duduk antara dua sujud hampir memakan waktu yang sama.' Syu'bah berkata, 'Lalu aku menyebutkannya untuk Amru bin Murrah maka dia berkata, 'Aku telah melihat Ibnu Abi Laila, namun shalatnya tidak demikian'." Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [al-Hakam] bahwa Mathar bin Najiyah ketika menguasai Kufah maka dia memerintahkan Abu Ubaidah untuk mengimami manusia. Dan dia membawakan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1058</td></tr><tr><td>Arabic No</td><td>471.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Хакам сказал: «Во времена ибн аль-Аш‘аса человек(, имя которого он назвал,) взял власть над Куфой и приказал Абу ‘Убайде ибн ‘Абдуллаху проводить молитву с людьми. И так, совершая молитву, когда он поднимал голову после поясного поклона, он стоял столько времени, что я (успевал) говорить: “О Аллах, Господь наш, хвала Тебе, и пусть (эта хвала) наполнит собой небеса, землю и всё, что ещё Тебе будет угодно. Ты более всех достоин восхваления и прославления. Никто не лишит того, что Ты даровал, и никто не дарует того, чего Ты лишил, и бесполезным пред Тобой окажется богатство обладающего. /Аллахумма, Рабба-на, ля-кя-ль-хамду мильъа-с-самавати, ва мильъа-ль-арды, ва мильъа ма шиъта мин шайъин ба‘ду. Ахля-с-санаъи ва-ль-маджди. Ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-кя-ль-джадд/”».Аль-Хакам сказал: «Я рассказал это ‘Абдуррахману ибн Аби Ляйля, и он сказал: «Я слышал как аль-Бара ибн ‘Азиб говорил: “Молитва Посланника Аллаха ﷺ, его поясной поклон, то, когда он поднимал голову с поясного поклона, его земной поклон, и то, что было между двумя земными поклонами, были примерно одинаковыми (по времени)”».Шу‘ба сказал: «Я рассказал это ‘Амру ибн Мурра, и он сказал: “Я видел ‘Абдуррахмана ибн Аби Ляйля (молящимся), и его молитва не была такой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1058</td></tr><tr><td>Arabic No</td><td>471.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 220</td></tr></tbody></table></div>
 

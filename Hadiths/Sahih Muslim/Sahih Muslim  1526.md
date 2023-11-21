@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Simak narrated on the authority of Jabir b. Samura that when the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan]. [Abu Bakr] mengatakan; telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Zakariya], keduanya dari [Simak] dari [Jabir bin Samurah], bahwa apabila Nabi shallallahu 'alaihi wasallam shalat fajar (subuh), beliau akan tetap duduk di tempat shalatnya hingga matahari terbit secara sempurna." Dan telah menceritakan kepada kami [Qutaibah] dan [Abu Bakr bin Abu Syaibah], keduanya berkata; telah menceritakan kepada kami [Abu Al Ahwash] katanya; (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnul Al Mutsanna] dan [Ibnu Basyar], keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] keduanya dari [Simak] dengan sanad ini, namun keduanya tidak mengatakan; "secara sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1526</td></tr><tr><td>Arabic No</td><td>670.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 359</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джабира ибн Самуры, что совершив утреннюю молитву, Пророк ﷺ (продолжал) сидеть на месте её совершения до полного восхода солнца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1526</td></tr><tr><td>Arabic No</td><td>670.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 359</td></tr></tbody></table></div>
 

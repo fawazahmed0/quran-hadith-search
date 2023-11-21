@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:When 'Abdullah (my father) died, he left behind children and debt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abu 'Awanah] dari [Mughirah] dari ['Amir] dari [Jabir radliallahu 'anhu] berkata; 'Abdullah meninggal dunia dan meninggalkan keluarga yang perlu ditanggung dan hutang. Maka aku meminta kepada para pemilik piutang agar membebaskan sebagian dari hutangnya namun mereka menolaknya. Lalu aku menemui Nabi shallallahu 'alaihi wasallam untuk meminta bantuan Beliau untuk meminta keringanan kepada mereka namun mereka tetap menolaknya. Maka Beliau berkata: "Pisahkanlah buah kurma kamu dari segala sesuatunya dari pohonnya, kurma jenis Ibnu Zaid dari pohonnya, kurma jenis Al Lain dari pohonnya, serta kurma jenis al-Ajwa' dari pohonnya kemudian bawalah kepada mereka hingga aku datang kepadamu". Maka aku kerjakan semua perintah Beliau itu kemudian Beliau shallallahu 'alaihi wasallam datang lalu duduk dan membayar bagi setiap piutang hingga lunas dan buah kurmanya masih tersisa sebagaimana semula seolah belum pernah disentuh sedikitpun. Lalu aku berperang bersama Nabi shallallahu 'alaihi wasallam pada suatu peperangan dan unta tungganganku telah memperlambat aku hingga akhirnya unta itu dipukul oleh Nabi shallallahu 'alaihi wasallam dari belakangnya lalu Beliau berkata; "Juallah kepadaku unta ini dan kamu boleh menungganginya sampai Madinah". Ketika sudah sampai aku meminta izin dan setelah itu aku katakan kepada Beliau: "Wahai Rasulullah, aku baru saja menikah". Beliau bertanya: "Kamu menikah dengan seorang gadis atau janda?" Aku jawab: "Dengan janda, karena 'Abdullah (bapakku) telah wafat dan meninggalkan anak-anak yag masih kecil maka aku menikahi seorang janda agar ia dapat mengajarkan dan mendidik mereka". Kemudian Beliau berkata: "Bawalah keluargamu kepadaku ". Maka aku datang dan mengabarkan pamanku tentang penjualan unta dan perdamaianku (tentang hutang) dan aku kabarkan pula tentang lambannya untaku dan peristiwa yang terjadi dengan Nabi shallallahu 'alaihi wasallam tentang pemukulan unta yang dilakukan Beliau. Ketika Nabi shallallahu 'alaihi wasallam datang, aku pagi-pagi segera menemui Beliau dengan membawa unta maka Beliau memberikan uang pembayaran unta tersebut serta memberikan unta itu kepadaku sementara sahamku tetap untuk orang-orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2406</td></tr><tr><td>Arabic No</td><td>2406</td></tr><tr><td>Reference</td><td>Book 43 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+«Когда я был вместе с Пророком ﷺ в одном из военных походов, верблюд, на котором я ехал, устал и отстал от остальных. Пророк ﷺ ударил его по спине и сказал мне: «Продай мне его, а ты можешь доехать на нём до Медины». Когда мы приблизились (к Медине), я попросил разрешения отправиться домой, сказав: «О Посланник Аллаха, я недавно женился». Пророк ﷺ спросил: «На ком ты женился: на девственнице или побывавшей замужем?» Я ответил: «На побывавшей замужем. ‘Абдуллах (отец Джабира) погиб, оставив маленьких дочерей, поэтому я женился на женщине, побывавшей замужем, чтобы она обучала и воспитывала их». Затем Пророк ﷺ сказал мне: «Иди к своей семье!» Когда я прибыл (домой), я рассказал дяде о продаже верблюда, и он осудил меня за это, тогда я рассказал ему о его слабости и о том, что Пророк ﷺ ударил его. Когда Пророк ﷺ прибыл (в Медину), утром я отправился к нему с верблюдом, и он заплатил мне стоимость верблюда и вернул самого верблюда и мою долю от военной добычи, как он дал другим людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2406</td></tr><tr><td>Arabic No</td><td>2406</td></tr><tr><td>Reference</td><td>Book 43 Hadith 21</td></tr></tbody></table></div>
 

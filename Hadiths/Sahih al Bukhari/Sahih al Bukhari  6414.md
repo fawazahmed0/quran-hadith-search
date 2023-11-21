@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'idi:We were in the company of Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Al Miqdam] telah menceritakan kepada kami [Al Fudlail bin Sulaiman] telah menceritakan kepada kami [Abu Hazim] telah menceritakan kepada kami [Sahl bin Sa'd As Sa'idi] kami pernah bersama Rasulullah shallallahu 'alaihi wasallam ketika di (perang) Khandaq, ketika beliau menggali sementara kami mengangkut tanah, lalu beliau melewati kami dan bersabda: "Ya Allah, tidak ada (hakekat) kehidupan, kecuali kehidupan Akhirat, maka ampunilah orang-orang Anshar dan Muhajirin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6414</td></tr><tr><td>Arabic No</td><td>6414</td></tr><tr><td>Reference</td><td>Book 81 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да ас-Са‘иди, да будет доволен им Аллах: «Мы были с Посланником Аллаха ﷺ у Рва, он копал, а мы переносили землю, и он, проходя мимо нас, сказал [или как в другом риваяте: он посмотрел на нас и сказал]: «О Аллах, нет жизни, кроме жизни в мире ином, прости же ансаров и мухаджиров!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6414</td></tr><tr><td>Arabic No</td><td>6414</td></tr><tr><td>Reference</td><td>Book 81 Hadith 3</td></tr></tbody></table></div>
 

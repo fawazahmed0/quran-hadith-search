@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman:Abu Sa'id Al-Khudri told my father, "I see you liking she
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abdurrahman bin Abdullah bin 'Abdurrahman bin Abu Sha'sha'ah Al Anshari Al Mazini] dari [Bapaknya] bahwa ia mengabarkan kepadanya, bahwa [Abu Sa'id Al Khudri] berkata kepadanya, "Aku lihat kamu suka kambing dan lembah (pengenmbalaan). Jika kamu sedang mengembala kambingmu atau berada di lembah, lalu kamu mengumandangkan adzan shalat, maka keraskanlah suaramu. Karena tidak ada yang mendengar suara mu'adzin, baik manusia, jin atau apapun dia, kecuali akan menjadi saksi pada hari kiamat." Abu Sa'id berkata, "Aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн ‘Абдуллах ибн ‘Абдуррахман ибн Абу Ca‘ca‘a аль-Ансари аль-Мазини передал о том, что его отец сообщил ему, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал ему: «Поистине, я вижу, что ты любишь овец и пустыню, и когда будешь ты со своими овцами (или: …в своей пустыне) и станешь произносить призыв к молитве, повышай свой голос при его возвещении, ибо, поистине, кто бы ни услышал (голос) муаззина, будь то джинн, человек или любое иное (создание), они обязательно будут свидетельствовать об этом в День воскрешения». Абу Са‘ид сказал: «Я слышал это от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
 

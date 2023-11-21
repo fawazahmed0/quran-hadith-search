@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Adam and Moses met, and Mose
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ash Shalt bin Muhammad] Telah menceritakan kepada kami [Mahdi bin Maimun] Telah menceritakan kepada kami [Muhammad bin Sirin] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Adam dan Musa bertemu, Musa berkata kepada Adam; 'Wahai Adam, engkaulah orang yang telah mencelakakan manusia dan mengeluarkan mereka dari surga.' Lalu Adam ganti berkata kepada Musa; 'Wahai Musa, Bukankah Allah telah memilihmu dengan risalah dan kalam-Nya (diajak bicara secara langsung), dan Allah juga telah menurunkan kepadamu Taurat? Musa menjawab; 'Ya.' Adam berkata lagi; Bukankah kamu mendapatkan di dalamnya bahwa hal itu telah ditetapkan kepadaku sebelum aku diciptakan? Musa menjawab: 'Ya.' Beliau bersabda: "Maka Adam dapat mengalahkan Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4736</td></tr><tr><td>Arabic No</td><td>4736</td></tr><tr><td>Reference</td><td>Book 65 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда встретились Адам и Муса, Муса сказал Адаму: “Ты — тот, кто сделал людей несчастными и вывел их из Рая”. Адам сказал ему: “Ты — Муса, которого Аллах избрал со Своим посланием и избрал тебя для Себя, и ниспослал тебе Таурат?” Он ответил: “Да”. Адам сказал: “Ты нашёл, что это было предопределено для меня до того, как я был создан?” Муса ответил: “Да”. Так Адам переспорил Мусу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4736</td></tr><tr><td>Arabic No</td><td>4736</td></tr><tr><td>Reference</td><td>Book 65 Hadith 258</td></tr></tbody></table></div>
 

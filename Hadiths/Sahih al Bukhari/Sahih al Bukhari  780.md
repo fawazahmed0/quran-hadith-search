@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Say Amin" when the Imam says it an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdurrahman] bahwa keduanya mengabarkan kepadanya dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika Imam membaca 'Amiin', maka bacalah 'Amiin', karena barangsiapa bacaan 'Amiin' nya bersamaan dengan bacaan Malaikat, maka dosanya yang telah lalu akan diampuni." Ibnu Syihab berkata, "Rasulullah shallallahu 'alaihi wasallam juga membaca amin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 10 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Пророк ﷺ сказал: «Когда имам говорит: “Амин”, — то и вы говорите: “Амин”. Ведь, поистине, тому, кто скажет: “Амин”, — одновременно с ангелами, простятся его предыдущие прегрешения».\nИбн Шихаб сказал: «И Посланник Аллаха ﷺ говорил: “Амин”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 10 Hadith 175</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik reported :A man entered the mosque on camel and made it kneel down
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Hammad] telah menceritakan kepada kami [Al-Laits] dari [Sa'id Al-Maqburi] dari [Syarik bin Abdullah bin Abi Namr] bahwasanya dia telah mendengar [Anas bin Malik] berkata; Ada seorang laki-laki (musyrik) menunggang onta masuk ke Masjid, kemudian dia menderumkan untanya dan mengikatnya, lalu berkata; Siapakah di antara kalian yang bernama Muhammad? Sementara Rasulullah shallallahu 'alaihi wasallam sedang bersandar di antara para sahabat. Maka kami katakana; Ini, orang putih yang sedang bersandar. Lalu laki-laki tersebut berkata kepada beliau; Wahai Ibnu Abdil Muththalib! Maka Rasulullah shallallahu 'alaihi wasallam menyahut kepadanya: "Ya, saya mendengarmu." Laki-laki itu lantas berkata kepada beliau; Sesungguhnya saya bertanya kepadamu, lalu dia pun menyebutkan hadits itu. Telah menceritakan kepada kami [Muhammad bin Amru] telah menceritakan kepada kami [Salamah] telah menceritakan kepadaku [Muhammad bin Ishaq] telah menceritakan kepadaku [Salamah bin Kuhail] dan [Muhammad bin Al-Walid bin Nuwaifi'] dari [Kuraib] dari [Ibnu Abbas] dia berkata; Bani Sa'd bin Bakr mengutus Dlimam bin Tsa'labah untuk menemui Rasulullah shallallahu 'alaihi wasallam, lalu dia menemui beliau dan menderumkan untanya di depan pintu Masjid dan mengikatnya, kemudian dia masuk. Lalu perawi menyebutkan lafazh semisal dengan di atas. Perawi berkata; Laki-laki itu bertanya; Siapakah di antara kalian yang bernama Ibnu Abdil Muththalib? Maka Rasulullah shallallahu 'alaihi wasallam menyahut: "Sayalah Ibnu Abdil Muththalib." Laki-laki itu berkata; Wahai Ibnu Abdil Muththalib. Kemudian dia menyebutkan hadits itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (63)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>486</td></tr><tr><td>Arabic No</td><td>486</td></tr><tr><td>Reference</td><td>Book 2 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Шарийка ибн ‘Абдуллах ибн Абу Намира о том, что он слышал, как Анас ибн Малик говорил: «Однажды какой-то человек заехал в мечеть верхом на верблюде, которого он заставил опуститься на колени, затем стреножил его, и потом спросил: “Кто из вас Мухаммад?” В это время Посланник Аллаха ﷺ сидел среди людей, опираясь на руку, и мы сказали ему: “Этот белолицый человек, который полулежит, опираясь на руку”. Тогда этот человек сказал: “О Ибн ‘Абдуль-Мутталиб!” Пророк ﷺ сказал ему: “Тебе уже сказали”. Этот человек сказал ему: “О Мухаммад, я буду расспрашивать тебя”». И он привел этот хадис до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (63)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>486</td></tr><tr><td>Arabic No</td><td>486</td></tr><tr><td>Reference</td><td>Book 2 Hadith 96</td></tr></tbody></table></div>
 

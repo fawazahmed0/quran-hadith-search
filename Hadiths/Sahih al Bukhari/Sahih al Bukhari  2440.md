@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "When the believers p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Qatadah] dari [Abu Al Mutawakkil An-Naajiy] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika orang-orang beriman telah melewati neraka, mereka akan ditahan di suatu jembatan yang disebut Qanthorah yang terletak antara surga dan neraka, lalu disana mereka akan diqishas (dibalas) atas kezhalimin yang terjadi sesama mereka di dunia, sehingga apabila telah tidak ada lagi dosa barulah mereka diizinkan untuk memasuki surga. Dan demi Dzat yang jiwaku berada di tangaNya, sungguh seorang dari mereka berada di tempat tinggalnya di surga lebih aku kenal dari pada rumah mereka di dunia". Dan berkata, [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban] dari [Qatadah] telah menceritakan kepada kami [Abu Al Mutawakkil]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2440</td></tr><tr><td>Arabic No</td><td>2440</td></tr><tr><td>Reference</td><td>Book 46 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда верующие спасутся от огня, они будут остановлены на мосту между раем и адом, где (люди) взыщут друг с друга за те несправедливости, которым (они подвергались) в этом мире; когда же они будут очищены и избавлены (от грехов), им позволят войти в рай, и клянусь Тем, в Чьей длани душа Мухаммада, каждый из них найдёт своё жилище в раю легче, чем он находил свой дом в мире этом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2440</td></tr><tr><td>Arabic No</td><td>2440</td></tr><tr><td>Reference</td><td>Book 46 Hadith 1</td></tr></tbody></table></div>
 

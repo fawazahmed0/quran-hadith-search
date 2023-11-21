@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) used to invoke (Allah): "Allahumma 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Yahya] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah Shallallahu'alaihiwasallam berdo'a: "Allahumma innii 'A'uudzu bika min 'adzaabil qabri wa min 'adzaabin naar wa min fitnatil mahyaa wal mamaati wa min fitmatil masiihid dajjaal" (artinya): ("Ya Allah aku berlindung kepadaMu dari suksa kubur dan dari siksa api neraka dan dari fitnah kehidupan dan kematian dan dari fitnah Al Masihid Dajjal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 23 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ обычно обращался к Аллаху с такой мольбой: «О Аллах, поистине, я прибегаю к Тебе от мучений могилы, от мук огня, от испытаний жизни и смерти и от испытания Антихриста! /Аллахумма, инни а‘узу би-кя мин ‘азаби-ль-кабр, ва мин ‘азаби-н-нар, ва мин фитнати-ль-махйа ва-ль-мамат ва мин фитнати-ль-масихи-д-даджжаль!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 23 Hadith 129</td></tr></tbody></table></div>
 

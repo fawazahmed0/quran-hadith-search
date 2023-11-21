@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit rapporté d'après Jâbir Ibn 'Abdoullâh (رضي الله عنهما) : 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Yazid bin Abu Habib] dari ['Atha bin Abu Rabah] dari [Jabir bin Abdullah], bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda ketika penaklukan kota Makkah: "Sesnungguhnya Allah dan Rasul-Nya telah melarang jual beli khamer, bangkai, daging babi serta jual beli arca." Ada seseorang yang bertanya, "Wahai Rasulullah, bagaimana pendapat anda dengan minyak (lemak) yang terdapat dalam bangkai? Sebab lemak tersebut bisa digunakan untuk melumasi perahu, untuk meminyaki kulit dan menyalakan lampu?" Lalu beliau bersabda: "Tidak boleh, hal itu tetaplah haram." Kemudian Rasulullah shallallahu 'alaihi wasallam melanjutkan sabdanya: "Semoga Allah melaknat orang-orang Yahudi, ketika Allah 'azza wajalla mengharamkan lemak bangkai, ternyata mereka tetap mengolahnya juga, kemudian mereka menjualnya dan hasil penjualannya mereka makan." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata; telah menceritakan kepada kami [Abu Usamah] dari [Abdul Hamid bin Ja'far] dari [Yazid bin Abi Habib] dari ['Atha] dari [Jabir] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam pada hari penaklukan kota Makkah…." (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Ad Dlahak] -yaitu Abu 'Ashim- dari [Abdul Hamid] telah menceritakan kepadaku [Yazid bin Abu Habib] dia berkata, " ['Atha] pernah menulis sesuatu kepadaku bahwa dia pernah mendengar [Jabir bin Abdullah] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam pada waktu penaklukan kota Makkah …", seperti haditsnya Laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4048</td></tr><tr><td>Arabic No</td><td>1581.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4048</td></tr><tr><td>Arabic No</td><td>1581.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Ju'aid bin 'Abdur-Rahman:I heard 'Umar bin 'Abdul 'Aziz telling abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami [Al Qasim bin Malik] dari [Al Ju'di bin 'Abdurrahman] berkata; Aku mendengar 'Umar bin 'Abdul 'Aziz berkata tentang [As-Saib bin Yazid] yang pernah menunaikan haji bersama rambongan dan perbekalan haji Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1859</td></tr><tr><td>Arabic No</td><td>1859</td></tr><tr><td>Reference</td><td>Book 28 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Джу‘ейд ибн ‘Абдуррахман сказал: «Я слышал, как 'Умар ибн 'Абдуль‘азиз сказал ас-Саибу ибн Язиду, который совершил хадж (когда его несли) с багажем Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1859</td></tr><tr><td>Arabic No</td><td>1859</td></tr><tr><td>Reference</td><td>Book 28 Hadith 39</td></tr></tbody></table></div>
 

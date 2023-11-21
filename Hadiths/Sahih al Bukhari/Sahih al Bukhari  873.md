@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah:My father said, "The Prophet (ﷺ) said, 'If the wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Ma'mar] dari [Az Zuhri] dari [Salim bin 'Abdullah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika isteri salah seorang dari kalian minta izin (untuk ke Masjid), hendaklah ia larang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Салима ибн Абдиллаха, передавшего от своего отца, что Пророк ﷺ сказал: «Если супруга одного из вас попросит разрешения (отправиться в мечеть), то не препятствуйте ей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
 

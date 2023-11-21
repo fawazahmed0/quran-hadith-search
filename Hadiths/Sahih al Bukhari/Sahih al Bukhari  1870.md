@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:We have nothing except the Book of Allah and this written paper fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami ['Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim at-Taymiy] dari [bapaknya] dari ['Ali radliallahu 'anhu] berkata: "Tidak ada sesuatu yang kami miliki kecuali Kitabulloh dan ash-shahifah (lembaran-lembaran hadits) ini, dari Nabi shallallahu 'alaihi wasallam bersabda: "Madinah adalah tanah suci yang wilayahnya antara gurun sahara hingga ini. Maka barangsiapa yang berbuat kemungkaran (bid'ah) yang dilarang agama didalamnya atau membantu orang berbuat bid'ah maka orang itu akan mendapat laknat dari Allah, para malaikat dan seluruh manusia dan tidak akan diterima darinya amalan 'ibadah wajib dan sunnahnya" (atau taubat dan tebusannya). Dan Beliau bersabda: "Perlindungan Kaum Muslimin adalah satu, maka barangsiapa melepas ikatan perjanjian dengan seorang muslim maka orang itu akan mendapat laknat dari Allah, para malaikat dan seluruh manusia dan tidak akan diterima darinya amalan 'ibadah wajib dan sunnahnya baginya dan barangsiapa yang mengambil perwalian suatu kaum tanpa seizin walinya maka orang itu akan mendapat laknat dari Allah, para malaikat dan seluruh manusia dan tidak akan diterima darinya amalan 'ibadah wajib dan sunnahnya". Berkata, Abu 'Abdullah Al Bukhariy: istilah al'adh artinya: "Tebusan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1870</td></tr><tr><td>Arabic No</td><td>1870</td></tr><tr><td>Reference</td><td>Book 29 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Нет у нас ничего, кроме Книги Аллаха и этого листка от Пророка ﷺ (где написано): “Медина является харамом от (горы) ‘Аир до такого-то (места), и тот, кто совершит в ней грех или предоставит убежище совершившему грех, будет проклят Аллахом, ангелами и всеми людьми, и не будет принято от него ни обязательное, ни дополнительное. Защита(, предоставляемая) мусульманами, едина, а тот, кто подведёт мусульманина (в этом), будет проклят Аллахом, ангелами и всеми людьми, и не будет принято от него ни обязательное, ни дополнительное. И (если любой вольноотпущенник) перейдёт под покровительство кого бы то ни было без разрешения тех, кто дал ему свободу, он будет проклят Аллахом, ангелами и всеми людьми, и не будет принято от него ни обязательное, ни дополнительное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1870</td></tr><tr><td>Arabic No</td><td>1870</td></tr><tr><td>Reference</td><td>Book 29 Hadith 4</td></tr></tbody></table></div>
 

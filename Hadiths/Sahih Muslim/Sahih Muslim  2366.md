@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:When a woman spends (something
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari [Masruq] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang isteri bersedekah dari harta suaminya, tanpa menimbulkan kerusakan, maka baginya pahala atas apa yang ia infakkan, dan bagi suaminya adalah pahala atas jerih payahnya (mencari nafkah), serta bagi bendaharanya pahala seperti pahala tersebut, tanpa mengurangi pahala satu sama lainnya sedikit pun." Dan telah menceritakannya kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] dan [Abu Mu'awiyah] dari [Al A'masy] dengan isnad ini, hadits yang semisal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>1024.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ сказал: «Если женщина подаст в качестве милостыни что-то из того, что имеется в доме её мужа, не нанося никому ущерба, она получит награду за то, что отдаст, её муж получит награду за то, что он заработал, и такую же награду получит кладовщик. И награда любого из них никак не уменьшит награды других»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>1024.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 103</td></tr></tbody></table></div>
 

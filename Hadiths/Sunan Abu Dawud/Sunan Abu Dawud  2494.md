@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Umamat Al Bahili reported the Apostle of Allaah(ﷺ) as saying “There are 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdussalam bin 'Atiq], telah menceritakan kepada kami [Abu Mushir], telah menceritakan kepada kami [Isma'il bin Abdullah bin Sama'ah], telah menceritakan kepada kami [Al Auza'i], telah menceritakan kepadaku [Sulaiman bin Habib], dari [Abu Umamah Al Bahili], dari Rasulullah shallallahu 'alaihi wasallam, beliau berkata: "Tiga golongan, seluruhnya mendapat jaminan dari Allah 'azza wajalla, yaitu: orang yang keluar untuk berperang di jalan Allah, maka ia mendapat jaminan dari Allah hingga Allah mematikannya dan memasukkannya ke dalam Surga, atau memberikan kepadanya apa yang ia peroleh berupa pahala atau rampasan perang. Dan seorang laki-laki yang pergi ke masjid, maka ia mendapat jaminan dari Allah hingga Dia mematikannya dan memasukkannya ke dalam surga atau memberikan kepadanya apa yang ia peroleh berupa pahala dan ghanimah, serta seorang laki-laki yang memasuki rumahnya dengan mengucapkan salam maka ia mendapat jaminan dari Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2494</td></tr><tr><td>Arabic No</td><td>2494</td></tr><tr><td>Reference</td><td>Book 15 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Умамы, что Посланник Аллаха ﷺ сказал: «Всемогущий и Великий Аллах гарантировал (Своё покровительство) трём (группам людей). (Во-первых), человеку, отправившемуся в поход на пути Аллаха. Аллах гарантировал ему (Своё покровительство), пока не упокоит его и введёт в Рай, или пока не вернёт его (домой) с тем, что тот обрёл из награды и трофеев. (Во-вторых), человек, отправившемуся в мечеть. Аллах гарантировал ему (Своё покровительство), пока не упокоит его и введёт в Рай, или пока на вернёт его (домой) с тем, что тот обрёл из награды и трофеев. (В-третьих), человеку, вошедшему в свой дом, произнеся слова приветствия миром (салям). Всемогущий и Великий Аллах гарантировал ему (Своё покровительство)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2494</td></tr><tr><td>Arabic No</td><td>2494</td></tr><tr><td>Reference</td><td>Book 15 Hadith 18</td></tr></tbody></table></div>
 

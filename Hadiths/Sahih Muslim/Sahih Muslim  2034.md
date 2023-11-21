@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) used to recite in the daw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Sa'd bin Ibrahim] dari [Abdurrahman bin Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bahwa biasanya Nabi shallallahu 'alaihi wasallam dalam shalat Shubuh pada hari Jum'at, beliau membaca: "ALIF LAAM MIIM TANZIIL" (surat As Sajadah) dan, "HAL ATAA" (surat Al Insan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2034</td></tr><tr><td>Arabic No</td><td>880.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что во время утренней молитвы в пятницу Пророк ﷺ обычно читал “Алиф. Лям. Мим. Ниспослание…” и “Разве не прошло для человека…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2034</td></tr><tr><td>Arabic No</td><td>880.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 84</td></tr></tbody></table></div>
 

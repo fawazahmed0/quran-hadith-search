@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Juwairiya bin Qudama at-Tamimi:We said to 'Umar bin Al-Khattab, Jo Chie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam bin Abu Iyas] telah bercerita kepada kami [Syu'bah] telah bercerita kepada kami [Abu Jamrah] berkata aku mendengar [Juwairiyah bin Qudamah at-Tamimiy] berkata aku mendengar ['Umar bin Al Khoththob radliallahu 'anhu] ketika kami berkata kepadanya; "Berilah kami washiat wahai Amirul Mu'minin", dia berkata: "Aku washiatkan kepada kalian tentang perlindungan Allah (terhadap ahlu dzimmah, orangkafir yang dilindungi) karena dia merupakan perlindungan Nabi kalian sekaligus sebagai sumber rezeki bagi orang-orang miskin kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3162</td></tr><tr><td>Arabic No</td><td>3162</td></tr><tr><td>Reference</td><td>Book 58 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джувайрия ибн Кудама ат-Тамими сказал: «Однажды мы сказали ‘Умару ибн аль-Хаттабу, да будет доволен им Аллах: “Дай нам наставление, о повелитель правоверных!” Он сказал: “Я завещаю вам выполнить соглашение Аллаха (заключенное с зиммиями), поскольку это соглашение вашего Пророка и источник пропитания ваших семей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3162</td></tr><tr><td>Arabic No</td><td>3162</td></tr><tr><td>Reference</td><td>Book 58 Hadith 5</td></tr></tbody></table></div>
 

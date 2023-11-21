@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) gave us licence to use
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Sulaiman bin Abdurrahman Ad Damasyqi], telah menceritakan kepada Kami [Muhammad bin Syu'aib] dari [Al Mughirah bin Ziyad] dari [Abu Az Zubair Al Makki] bahwa ia menceritakan kepadanya, dari [Jabir bin Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam memberikan keringanan kepada Kami untuk menggunakan tongkat, pecut, tali dan yang semisalnya yang Kami temukan. Abu Daud berkata; hadits ini diriwayatkan [An Nu'man bin Abdussalam] dari [Al Mughirah Abu Salamah] dengan sanadnya. Dan diriwayatkan oleh [Syababah] dari [Al Mughirah bin Muslim] dari [Abu Az Zubair] dari [Jabir], ia berkata; mereka tidak menyebutkan Nabi Shalla Allahu 'alaihi wa sallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>1717</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что он сказал: «Посланник Аллаха ﷺ разрешил нам подбирать потерянные кем-то палки, плети, верёвки и другие подобные вещи и использовать их (, не объявляя о находке в течение года)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>1717</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
 

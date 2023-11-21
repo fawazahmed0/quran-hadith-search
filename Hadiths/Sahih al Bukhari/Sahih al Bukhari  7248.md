@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "Bilal pronounces the Adhan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami ['Abdul Aziz bin Muslim] telah menceritakan kepada kami [Abdullah bin Dinar], aku mendengar [Abdullah bin Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Bilal mengumandangkan adzan di waktu malam, silahkan makan dan minumlah kalian hingga Ibnu Ummi Maktum mengumandangkan adzan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7248</td></tr><tr><td>Arabic No</td><td>7248</td></tr><tr><td>Reference</td><td>Book 95 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передал, что Пророк ﷺ сказал: «Поистине, Билял возглашает призыв ночью, поэтому (продолжайте) есть и пить, пока призыв не начнёт возглашать Ибн Умм Мактум»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7248</td></tr><tr><td>Arabic No</td><td>7248</td></tr><tr><td>Reference</td><td>Book 95 Hadith 3</td></tr></tbody></table></div>
 

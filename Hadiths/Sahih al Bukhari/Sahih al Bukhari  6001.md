@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I said 'O Allah's Messenger (ﷺ)! Which sin is the greatest?
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Manshur] dari [Abu Wa'il] dari ['Amru bin Syurahbil] dari [Abdullah] dia berkata; saya bertanya; Wahai Rasulullah, dosa apakah yang paling besar? Beliau menjawab: "Kamu menjadikan tandingan bagi Allah, padahal Dia adalah yang menciptakanmu." Kemudian apalagi?" beliau bersabda: "Kamu membunuh anakmu karena takut dia makan bersamamu." Dia berkata; "Kemudian apalagi?" beliau bersabda: "Kamu mencinahi isteri tetanggamu sendiri." Dan Allah telah menurunkan kebenaran sabda Nabi-Nya shallallahu 'alaihi wasallam Dan orang-orang yang tidak menyeru Allah dengan tuhan-tuhan yang lain. QS Al Furqan;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6001</td></tr><tr><td>Arabic No</td><td>6001</td></tr><tr><td>Reference</td><td>Book 78 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд) сказал: «(Однажды) я спросил (Пророка ﷺ): “О Посланник Аллаха, что является величайшим грехом пред Аллахом?” Он ответил: “Приравнивание кого бы то ни было к Аллаху, Который создал тебя”. Я спросил: “А затем?” (Пророк ﷺ) сказал: “Убийство собственного ребёнка из страха перед тем, что он будет есть вместе с тобой”. Я спросил: “А затем?” (Пророк ﷺ) сказал: “Совершение прелюбодеяния с женой твоего соседа”». И этот аят был ниспослан, подтверждая слова Пророка ﷺ: “И они не взывают помимо Аллаха к другим богам, не убивают людей вопреки запрету Аллаха, если только они не имеют права на это, и не прелюбодействуют” (сура “аль-Фуркан”, аят 68)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6001</td></tr><tr><td>Arabic No</td><td>6001</td></tr><tr><td>Reference</td><td>Book 78 Hadith 32</td></tr></tbody></table></div>
 

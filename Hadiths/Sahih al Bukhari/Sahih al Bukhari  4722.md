@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(regarding): 'Neither say your, prayer aloud, nor say it in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Husyaim] Telah menceritakan kepada kami [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: "dan janganlah kamu mengeraskan suaramu dalam shalatmu dan janganlah pula merendahkannya…, " (Al Israa: 110). Ibnu Abbas berkata; ayat ini turun ketika Rasulullah shallallahu 'alaihi wasallam sembunyi-sembunyi di Makkah. Beliau shallallahu 'alaihi wasallam bila mengimami shalat para sahabatnya, beliau mengeraskannya saat membaca al Qur'an. Tatkala orang-orang musyrik mendengarkan hal itu, mereka mencela al Qur'an, mencela yang menurunkannya dan yang membawakannya. Maka Allah Azza Wa Jalla berfirman kepada NabiNya: (Dan janganlah kamu mengeraskan suaramu dalam shalatmu) maksudnya adalah dalam bacaanmu sehingga orang-orang musyrik mendengarnya dan mereka mencela al Qu'ran dan: Dan janganlah pula merendahkannya dari para sahabatmu sehingga mereka tidak dapat mendengarkan dan mengambil Al Qu'ran darimu dan: Maka carilah jalan tengah di antara kedua itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4722</td></tr><tr><td>Arabic No</td><td>4722</td></tr><tr><td>Reference</td><td>Book 65 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что о словах Всевышнего «Не совершай свою молитву громко и не совершай её шепотом» Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал (следующее): «Когда был ниспослан (этот аят), Посланник Аллаха ﷺ скрывался в Мекке. Совершая молитвы вместе со своими сподвижниками, он громко читал Коран, что же касается многобожников, то, услышав его (голос), они начинали поносить и Коран, и Того, Кто его ниспослал, и того, кто его принёс; и тогда Аллах Всевышний сказал Своему Пророку ﷺ: “Не совершай свою молитву громко...”, то есть (не делай этого), читая (Коран), ибо тогда (это чтение) услышат многобожники и станут поносить Коран. (Далее) Он сказал: “…и не совершай её шепотом…”, — (то есть пусть чтение будет не слишком тихим) для твоих сподвижников, ибо тогда они не услышат тебя, — “…а выбери среднее между этим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4722</td></tr><tr><td>Arabic No</td><td>4722</td></tr><tr><td>Reference</td><td>Book 65 Hadith 244</td></tr></tbody></table></div>
 

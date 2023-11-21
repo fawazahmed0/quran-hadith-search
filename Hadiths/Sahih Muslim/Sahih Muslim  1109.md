@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdallâh Ibn Mâlik Ibn Buhayna (que Dieu l'agrée), lorsque l'Envoy�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah], [Amru an-Naqid], [Zuhair bin Harb], dan [Ishaq bin Ibrahim] dan lafazh tersebut milik Amru, Ishaq berkata, telah mengabarkan kepada kami, sedangkan yang lainnya berkata, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Ja'far bin Burqan] dari [Yazid bin al-Ashamm] dari [Maimunah binti al-Harits] dia berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam apabila bersujud maka beliau menjauhkan (kedua tangannya) hingga orang yang di belakangnya melihat putihnya ketiaknya." Waki' berkata, "Putih keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1109</td></tr><tr><td>Arabic No</td><td>497.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Маймуна бинт аль-Харис сказала: «Совершая земной поклон, Посланник Аллаха ﷺ расставлял (руки так широко), что тот, кто находился позади него мог увидеть белизну его подмышек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1109</td></tr><tr><td>Arabic No</td><td>497.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 271</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn Shayban: We came upon the Messenger of Allah (ﷺ) in Medina. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahman Al Anbari] telah menceritakan kepada kami [Ibrahim bin Abu Al Wazir] telah menceritakan kepada kami [Muhammad bin Yazid Al Yamami] telah menceritakan kepadaku [Yazid bin Abdurrahman bin Ali bin Syaiban] dari [bapaknya] dari kakeknya, yaitu [Ali bin Syaiban] dia berkata; Kami datang menemui Rasulullah Shallallahu alaihi wasallam di Madinah, dan ketika itu beliau mengakhirkan pelaksanaan shalat ashar selama matahari masih cerah terang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>408</td></tr><tr><td>Arabic No</td><td>408</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада ибн Йазида аль-Йамами о том, что Йазид ибн ‘Абдуррахман ибн ‘Али ибн Шайбан рассказывал ему со слов своего отца, а тот от его деда ‘Али ибн Шайбана, который сказал: «Когда мы прибыли к Посланнику Аллаха ﷺ в Медину, он откладывал послеполуденную молитву /‘аср/, пока солнце оставалось белым и ярким»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>408</td></tr><tr><td>Arabic No</td><td>408</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
 

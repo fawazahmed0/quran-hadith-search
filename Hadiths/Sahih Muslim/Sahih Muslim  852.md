@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Abdah] dari [Thalhah bin Yahya] dari [pamannya] dia berkata, "Saya berada di samping [Mu'awiyah bin Abi Sufyan], lalu datanglah muadzdzin yang menyerukan shalat, maka Mu'awiyah berkata, 'Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda, 'Para mu'adzdzin adalah orang yang paling panjang lehernya (ungkapan bahwa mereka mulia di akhirat pent) pada hari kiamat'." Dan telah menceritakan kepadaku tentangnya [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu Amir] telah menceritakan kepada kami [Sufyan] dari [Thalhah bin Yahya] dari [Isa bin Thalhah] dia berkata, saya mendengar [Mu'awiyah] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda dengan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тальха ибн Яхйа передал, что его дядя со стороны отца сказал: (Однажды) я находился возле Муа‘вийи ибн Абу Суфйана, да будет доволен им Аллах, когда к нему пришел муаззин, который позвал его на молитву. И тогда Му‘авия сказал: “Я слышал, как Посланник Аллаха ﷺ сказал: “В День воскресения самые длинные шеи из всех людей будут у муаззинов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

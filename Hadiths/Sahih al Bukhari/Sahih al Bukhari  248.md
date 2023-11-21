@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever the Prophet (ﷺ) took a bath after Janaba he started b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa jika Nabi shallallahu 'alaihi wasallam mandi karena janabat, beliau memulainya dengan mencuci kedua telapak tangannya, kemudian berwudlu sebagaimana wudlu untuk shalat, kemudian memasukkan jari-jarinya ke dalam air lalu menggosokkannya ke kulit kepalanya, kemudian menyiramkan air ke atas kepalanya dengan cidukan kedua telapak tangannya sebanyak tiga kali, kemudian beliau mengalirkan air ke seluruh kulitnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 5 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, о том, что, совершая большое омовение после осквернения, (Пророк ﷺ) начинал с омовения кистей рук, затем совершал такое же омовение, как и перед молитвой, затем погружал пальцы в воду и прочёсывал ими корни волос, затем выливал на голову три пригоршни воды, а затем обливал водой всё тело
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 5 Hadith 1</td></tr></tbody></table></div>
 

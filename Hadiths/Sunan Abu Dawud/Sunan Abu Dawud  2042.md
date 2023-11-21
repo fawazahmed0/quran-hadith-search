@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: Do not make your houses graves, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], aku membacakan kepada [Abdullah bin Nafi'], telah mengabarkan kepadaku [Ibnu Abu Dzi'bin] dari [Sa'id Al Maqburi], dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian jadikan rumah-rumah kalian sebagai kuburan (tidak pernah dilaksanakan di dalamnya shalat dan juga tidak pernah dikumandangkan ayat-ayat Al Quran, sehingga seperti kuburan), dan jangan kalian jadikan kuburanku sebagai 'id (hari raya, yakni tempat yang selalu dikunjungi dan didatangi pada setiap waktu dan saat), bershalawatlah kepadaku, sesungguhnya shalawat kalian akan sampai kepadaku di manapun kalian berada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2042</td></tr><tr><td>Arabic No</td><td>2042</td></tr><tr><td>Reference</td><td>Book 11 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не превращайте свои дома в могилы и не делайте мою могилу местом регулярных собраний. И призывайте на меня благословение Всевышнего, ибо, поистине, ваши благословения достигают меня, где бы вы ни были»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2042</td></tr><tr><td>Arabic No</td><td>2042</td></tr><tr><td>Reference</td><td>Book 11 Hadith 322</td></tr></tbody></table></div>
 

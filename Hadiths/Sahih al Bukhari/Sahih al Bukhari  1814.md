@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abu Layla:Ka'b bin 'Ujra said that Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Humaid bin Qais] dari [Mujahid] dari ['Abdurrahman bin Abu Laila] dari [Ka'ab bin 'Ujrah radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bahwa Beliau berkata: "Barangkali kamu terkena serangga (kutu di kepala)?". Dia menjawab: "Benar, wahai Rasulullah". Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Cukurlah rambutmu, lalu shaum tiga hari atau berilah makan enam orang miskin atau berqurban dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1814</td></tr><tr><td>Arabic No</td><td>1814</td></tr><tr><td>Reference</td><td>Book 27 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ка‘ба ибн ‘Уджры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Наверно, вши мучают тебя?» Я ответил: «Да, о Посланник Аллаха». Тогда Посланник Аллаха ﷺ сказал: «Обрей голову и постись три дня, или накорми шесть бедняков, или зарежь овцу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1814</td></tr><tr><td>Arabic No</td><td>1814</td></tr><tr><td>Reference</td><td>Book 27 Hadith 9</td></tr></tbody></table></div>
 

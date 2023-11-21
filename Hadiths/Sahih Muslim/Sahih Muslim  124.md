@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : A la mort de l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits bin Sa'ad] dari [Uqail] dari [az-Zuhri] dia berkata, telah mengabarkan kepada kami [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] dari [Abu Hurairah] dia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam meninggal dunia, dan Abu Bakar diangkat sebagai khalifah setelahnya, serta orang-orang kafir dari kalangan Arab melakukan kekufuran, maka [Umar bin al-Khaththab] berkata kepada Abu Bakar, 'Bagaimana mungkin kamu akan memerangi manusia, sementara Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka mengucapkan, 'Tidak ada tuhan (yang berhak disembah) melainkan Allah', maka barangsiapa yang mengucapkan, 'Tidak ada tuhan (yang berhak disembah) melainkan Allah', maka sungguh dia telah menjaga harta dan jiwanya dari (seranganku) kecuali dengan hak Islam, dan hisabnya diserahkan kepada Allah.' Maka [Abu Bakar] berkata, 'Demi Allah, sungguh aku akan memerangi orang yang membedakan antara shalat dan zakat, karena zakat adalah (tuntuan) hak terhadap harta. Demi Allah, kalau mereka menghalangiku karena keengganan mereka sedangkan mereka pernah membayarnya kepada Rasulullah shallallahu 'alaihi wasallam, aku tetap akan memerangi mereka karena keengganan mereka.' Maka [Umar bin al-Khaththab] berkata, 'Demi Allah tidaklah dia melainkan bahwa aku melihat Allah telah melapangkan dada Abu Bakar untuk memerangi (mereka) lalu aku mengetahui bahwa ia adalah kebenaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>124</td></tr><tr><td>Arabic No</td><td>20</td></tr><tr><td>Reference</td><td>Book 1 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ умер, Абу Бакр, да будет доволен им Аллах, стал халифом после него, а некоторые из арабов вернулись к неверию, ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, спросил Абу Бакра: “Как же ты можешь сражаться с этими людьми?
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>124</td></tr><tr><td>Arabic No</td><td>20</td></tr><tr><td>Reference</td><td>Book 1 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Allah s Apostle said, "When you intend going to bed at night, put
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Abu 'Abbad] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami ['Atha'] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Matikanlah lampu-lampu kalian pada malam hari jika kalian tidur dan tutuplah tempat air kalian serta wadah makanan dan minuman kalian." Hammam mengatakan; dan aku kira Atha' juga mengatakan; "Walaupun hanya dengan sesuatu yang dapat menutupinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6296</td></tr><tr><td>Arabic No</td><td>6296</td></tr><tr><td>Reference</td><td>Book 79 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Посланник Аллаха ﷺ сказал: «Гасите светильники перед сном, запирайте двери, завязывайте бурдюки и прикрывайте (сосуды с) едой и питьём, положив поперёк хотя бы палочку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6296</td></tr><tr><td>Arabic No</td><td>6296</td></tr><tr><td>Reference</td><td>Book 79 Hadith 68</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bahz b. Hakim on his father's authority said that his grandfather said:I said: M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Bahz bin hakim] dari [Bapaknya] dari [Kakeknya] ia berkata, "Aku bertanya, "Wahai Rasulullah, siapa yang paling aku perlakukan dengan baik?" beliau menjawab: "Ibumu, kemudian ibumu, kemudian ibumu, kemudian bapakmu, kemudian yang terdekat, kemudian yang terdekat." Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang minta seatu kelebihan (nikmat) kepada tuannya, namun ia menolak meskipun yang diminta ada, maka pada hari kiamat kelak nikmat yang ia tahan tadi akan dipanggilkan untuknya dalam wujud seekor ular Aqra' (ganas)." Abu Dawud berkata, "Kata Al Aqra' adalah yang botak kepalanya disebabkan oleh racun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5139</td></tr><tr><td>Arabic No</td><td>5139</td></tr><tr><td>Reference</td><td>Book 43 Hadith 367</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5139</td></tr><tr><td>Arabic No</td><td>5139</td></tr><tr><td>Reference</td><td>Book 43 Hadith 367</td></tr></tbody></table></div>
 

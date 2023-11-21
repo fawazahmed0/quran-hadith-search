@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifah:When the Prophet (ﷺ) went to bed, he used to say, "Allahumm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik] dari [Rib'i] dari [Hudzaifah] berkata, "Nabi shallallahu 'alaihi wasallam jika mendatangi kasurnya, beliau memanjatkan doa: ALLAAHUMMA BISMIKA AHYAA WA AMUUTU (Ya Allah, dengan nama-Mu aku hidup dan dengan nama-Mu aku meningga) ', sebaliknya jika beliau bangun di pagi hari, beliau membaca: ALHAMDU LILLAHIL LADZII AHYAANAA BA'DA MAA AMAATANAA WAILAIHIN NUSYUUR (Segala puji bagi Allah Yang telah menghidupkan kami setelah mematikan kami dan kepada-Nya kita kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7394</td></tr><tr><td>Arabic No</td><td>7394</td></tr><tr><td>Reference</td><td>Book 97 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа, да будет доволен им Аллах, передаёт, что Пророк ﷺ когда хотел лечь в постель, он говорил: «О Аллах, с именем Твоим, я умираю и оживаю /Аллахумма, би-смикя, амуту ва ахйа/». А проснувшись, он говорил: «Вся хвала Аллаху, Который оживил нас после того, как умертвил нас, и к Нему возвращение /Аль-хамду ли-Лляхи аллязи ахйана ба‘да ма амата-на, ва иляйхи-н-нушур!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7394</td></tr><tr><td>Arabic No</td><td>7394</td></tr><tr><td>Reference</td><td>Book 97 Hadith 23</td></tr></tbody></table></div>
 

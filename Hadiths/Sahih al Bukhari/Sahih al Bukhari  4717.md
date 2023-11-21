@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Al-Musaiyab:Abu Huraira said, "The Prophet (ﷺ) said, 'A prayer pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Muhammad] Telah menceritakan kepada kami ['Abdur Razzaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dan [Ibnu Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Keutamaan shalat berjama'ah dari shalat sendirian adalah dua puluh lima derajat, dan malaikat malam dan malaikat siang berkumpul ketika shalat subuh." lalu Abu Hurairah berkata: "jika kalian mau bacalah: "dan (dirikanlah pula shalat) subuh. Sesungguhnya shalat subuh itu disaksikan (oleh malaikat)." (Al Isra:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4717</td></tr><tr><td>Arabic No</td><td>4717</td></tr><tr><td>Reference</td><td>Book 65 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ говорил: «Коллективная молитва превосходит молитву, совершаемую в одиночестве, на двадцать пять ступеней, и ангелы ночи встречаются с ангелами дня во время утренней молитвы».\nЗатем Абу Хурайра сказал: «Читайте, если пожелаете (, тот аят, где сказано): “…и читай Коран на рассвете. Воистину, на рассвете Коран читают при свидетелях”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4717</td></tr><tr><td>Arabic No</td><td>4717</td></tr><tr><td>Reference</td><td>Book 65 Hadith 239</td></tr></tbody></table></div>
 

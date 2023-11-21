@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ narration about the chain of narrators
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4204</td></tr><tr><td>Arabic No</td><td>4204</td></tr><tr><td>Reference</td><td>Book 64 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Мы были в Хайбаре вместе с Посланником Аллаха ﷺ, и он сказал о человеке, который утверждал, что он мусульманин: “Этот (человек) из числа обитателей Огня”. Когда началось сражение, этот человек яростно сражался, пока не был многочисленно ранен. Тогда некоторые люди чуть не засомневались (в словах Посланника Аллаха ﷺ), но тот человек не смог выдержать боль от ран, сунул руку в колчан, достал из него несколько стрел и убил ими себя. Тогда несколько человек из числа мусульман примчались к Пророку ﷺ и сказали: “О Посланник Аллаха! Аллах подтвердил твои слова, такой-то покончил жизнь самоубийством”. Пророк ﷺ сказал: “О такой-то, встань и провозгласи, что в Рай войдёт только верующий! И поистине, Аллах поддерживает эту религию даже с помощью грешного человека!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4204</td></tr><tr><td>Arabic No</td><td>4204</td></tr><tr><td>Reference</td><td>Book 64 Hadith 244</td></tr></tbody></table></div>
 

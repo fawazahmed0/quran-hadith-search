@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Aba Sa'id al-Khudri that the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Wahb bin Baqiyah Al Wasithi] telah menceritakan kepada kami [Khalid bin Abdullah] dari [Al Jurairi] dari [Abu Nadlrah] dari [Abu Sa'id Al Khudri] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila ada dua khalifah yang dibaiat, maka bunuhlah yang paling terakhir dari keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4799</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 33 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4799</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 33 Hadith 96</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Abu Hani with the same chain o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ibnu Numair] keduanya dari [Al Muqri]. [Zuhair] berkata; Telah menceritakan kepada kami ['Abdullah bin Yazid Al Muqri] dia berkata; Telah menceritakan kepada kami [Haiwah]; Telah mengabarkan kepadaku [Abu Hani] bahwa dia mendengar [Abu 'Abdur Rahman Al Hubuli] dia mendengar ['Abdullah bin 'Amru bin Al 'Ash] berkata; bahwasanya ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya hati semua manusia itu berada di antara dua jari dari sekian jari Allah Yang Maha Pemurah. Allah Subhanahhu wa Ta'ala akan memalingkan hati manusia menurut kehendak-Nya." Setelah itu, Rasulullah shallallahu 'alaihi wasallam berdoa; 'Ya Allah, Dzat yang memalingkan hati, palingkanlah hati kami kepada ketaatan beribadah kepada-Mu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6750</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 46 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6750</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 46 Hadith 28</td></tr></tbody></table></div>
 

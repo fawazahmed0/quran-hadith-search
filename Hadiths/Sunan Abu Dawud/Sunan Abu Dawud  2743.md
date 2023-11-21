@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) sent a detachment to Na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad], telah menceritakan kepada kami ['Abdah bin Sulaiman Al Kilabi] dari [Muhammad bin Ishaq] dari [Nafi'] dari [Ibnu Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam mengutus satu kesatuan militer ke Najd, kemudian aku keluar bersama kesatuan militer tersebut dan kami mendapatkan banyak binatang ternak. Kemudian pemimpin kami memberikan tambahan satu unta, satu unta untuk setiap orang. Kemudian kami datang kepada Rasulullah shallallahu 'alaihi wasallam dan beliau membagikan rampasan perang kepada kami. Sehingga setiap kami mendapatkan dua belas unta setelah diambil seperlima. Dan Rasulullah shallallahu 'alaihi wasallam tidak menghitung apa yang telah diberikan pemimpin kami kepada kami, dan beliau tidak mencelanya setelah ia melakukan hal tersebut. Sehingga setiap kami memiliki tiga belas unta dengan tambahan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2743</td></tr><tr><td>Arabic No</td><td>2743</td></tr><tr><td>Reference</td><td>Book 15 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2743</td></tr><tr><td>Arabic No</td><td>2743</td></tr><tr><td>Reference</td><td>Book 15 Hadith 267</td></tr></tbody></table></div>
 

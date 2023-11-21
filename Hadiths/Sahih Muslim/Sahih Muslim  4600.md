@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'A'isha that Sa'd's wound became dry an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Numair] dari [Hisyam] telah menceritakan kepadaku [ayahku] dari ['Aisyah] bahwa Sa'd berkata -ketika penyakit yang dideritanya semakin parah-, dia katakan, "Ya Allah, sesungguhnya Engkau tahu bahwa tidak ada sesuatupun yang paling saya cintai melainkan berjihad di jalan-Mu untuk memerangi orang-orang yang mendustakan Rasul-Mu shallallahu 'alaihi wasallam dan mengusir beliau. Ya Allah, jika masih tersisa peperang dengan orang-orang Quraisy, maka tetapkanlah saya hidup supaya dapat memerangi mereka di jalan-Mu. Sungguh, saya yakin bahwa Engkau telah menetapkan peperangan antara kami dan mereka, maka jika Engkau telah menetapkan peperangan antara kami dengan mereka, jadikanlah matiku di dalam peperang tersebut." Darah pun semakin deras mengucur dari luka Sa'd, namun para sahabat tidak menyadarinya. Sedangkan dalam Masjid terdapat tenda dari Bani Ghifar, sehingga darah tersebut terus mengalir sampai kepada mereka yang ada di tenda, maka mereka berkata, "Wahai penghuni tenda, darah apa yang mengalir dari arah kalian?" Ternyata luka Sa'd lah yang mengalirkan darah, hingga dia wafat karenanya." Dan telah menceritakan kepada kami [Ali bin Al Husain bin Sulaiman Al Kufi] dan telah menceritakan kepada kami ['Abdah] dari [Hisyam] dengan sanad ini, seperti hadits tersebut. Hanya saja ia menyebutkan, "Malam itu lukanya terus mengeluarkan darah hingga ia pun meninggal, dan dalam hadits ditambahkan, ia berkata "Yang demikian itu, ketika seorang penyair bersenandung, "Ketahuilah wahai Sa'd, Quraizhah dan Nadlir tidak berbuat sesuatu terhadap Sa'd bani Mu'adz. #Demi umurmu, bahwa Sa'd bani Mu'adz berpagi-pagi menanggung kepedihan sedang dia tetap bersabar. #Kalian tinggalkan periuk kalian yang tidak terisi, sedang periuk orang lain mendidih di atas tungku. #Al karim Abu Hubab telah berkata; tinggallah wahai bani Qainuqa' jangan bergerak. #Di negri sendiri mereka merasa penat, sebagiamana mereka penat di Mithan ash Shukhur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4600</td></tr><tr><td>Arabic No</td><td>1769.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4600</td></tr><tr><td>Arabic No</td><td>1769.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 81</td></tr></tbody></table></div>
 

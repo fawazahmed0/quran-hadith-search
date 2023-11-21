@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I never saw the Prophet (ﷺ) seeking to fast on a day that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Ibnu 'Uyainah] dari ['Ubaidullah bin Abu YAzid] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Tidak pernah aku melihat Nabi shallallahu 'alaihi wasallam sengaja berpuasa pada suatu hari yang Beliau istimewakan dibanding hari-hari lainnya kecuali hari 'Asyura' dan bulan ini, yaitu bulan Ramadhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2006</td></tr><tr><td>Arabic No</td><td>2006</td></tr><tr><td>Reference</td><td>Book 30 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я не видел, чтобы Пророк ﷺ стремился поститься в какой-либо день, которому он отдавал предпочтение больше, чем другому дню, за исключением этого дня, дня ‘Ашура, и этого месяца, то есть месяца рамадан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2006</td></tr><tr><td>Arabic No</td><td>2006</td></tr><tr><td>Reference</td><td>Book 30 Hadith 111</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ja'far bin 'Amr bin Umaiya Ad-Damri:My father said, "I saw the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Ja'far bin 'Amru bin Umayyah Al Dlamri], bahwa [Bapaknya] mengabarkan kepadanya, bahwa ia pernah melihat Nabi shallallahu 'alaihi wasallam mengusap sepasang sepatunya." Hadits ini diperkuat oleh [Harb bin Syaddad] dan [Aban] dari [Yahya]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>204</td></tr><tr><td>Arabic No</td><td>204</td></tr><tr><td>Reference</td><td>Book 4 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джа‘фара ибн ‘Амра ибн Умаййа ад-Дамри о том, что его отец, да будет доволен им Аллах, рассказывал ему, что он видел, как Пророк ﷺ протирал (влажными руками) кожаные носки(, завершая своё омовение)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>204</td></tr><tr><td>Arabic No</td><td>204</td></tr><tr><td>Reference</td><td>Book 4 Hadith 70</td></tr></tbody></table></div>
 

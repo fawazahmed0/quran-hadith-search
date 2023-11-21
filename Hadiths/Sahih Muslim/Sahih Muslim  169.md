@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Anas b. Malik that the Messenger of Allah sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, saya mendengar [Qatadah] menceritakan hadits dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah salah seorang dari kalian beriman hingga aku lebih dia cintai daripada anaknya, orang tuanya dan manusia semuanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>169</td></tr><tr><td>Arabic No</td><td>44.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что Посланник Аллаха ﷺ сказал: «Не уверует никто из вас, пока не станет любить меня больше, чем своих детей, родителей и всех людей вообще»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>169</td></tr><tr><td>Arabic No</td><td>44.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 76</td></tr></tbody></table></div>
 

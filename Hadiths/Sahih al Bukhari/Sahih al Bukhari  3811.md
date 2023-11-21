@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:On the day of the battle of Uhud, the people ran away, leaving the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] telah bercerita kepada kami ['Abdul 'Aziz] dari [Anas radliallahu 'anhu] berkata; Ketika perangUhud orang-orang kabur dari Nabi shallallahu 'alaihi wasallam sedangkan Abu Thalhah tetap bertahan di dekat Nabi shallallahu 'alaihi wasallam untuk melindungi beliau dengan perisainya. Abu Thalhah adalah seorang yang ahli memanah yang apabila mengenai target langsung menembus kulit. Pada perang itu dia telah mematahkan dua atau tiga anak panah karena sangat kerasnya bidikannya. Ada seorang laki-laki lewat di hadapannya dengan membawa sarung anak panah dan berkata; "Berikan ini kepada Abu Thalhah". Maka Nabi shallallahu 'alaihi wasallam mendongakkan kepala beliau melihat keberadaan musuh, maka Abu Thalhah berkata; "Wahai Nabi Allah, demi ayah ibuku sebagai tebusannya, janganlah baginda mendongakkan kepala sebab bisa jadi ada panah musuh yang mengenai baginda. Cukup aku saja sebagai taruhannya. Sungguh aku melihat 'Aisyah binti Abu Bakr dan Ummu Sulaim, keduanya mengangkat pakaiannya setinggi mata kakinya sehingga terlihat perhiasan yang ada pada betisnya. Keduanya membawa kendi-kendi air untuk memberi minum kepada mulut-mulut dari orang yang terluka. Sementara itu pedang musuh telah mengenai badan Abu Thalhah dua atau tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3811</td></tr><tr><td>Arabic No</td><td>3811</td></tr><tr><td>Reference</td><td>Book 63 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В день (битвы при) Ухуде люди обратились в бегство (, покинув) Пророка ﷺ и только Абу Тальха стоял перед ним, прикрывая его своим щитом. Абу Тальха хорошо стрелял из лука и всегда держал его туго натянутым. В тот день он сломал два или три своих лука, и, когда какой-нибудь человек, у которого был колчан стрел, проходил рядом, (Пророк ﷺ) говорил (ему): “Рассыпь их перед Абу Тальхой!” — когда же Пророк ﷺ смотрел на (врагов, вытягивая шею), Абу Тальха говорил ему: “О пророк Аллаха, да станут отец мой и мать выкупом за тебя! Не смотри (на них), иначе тебя поразит стрела, (и пусть) лучше меня поразят вместо тебя!” (В тот день) я видел, как одежды ‘Аиши бинт Абу Бакр и Умм Суляйм поднимались так высоко, что можно было разглядеть украшения на их ногах: они носили бурдюки с водой на своих спинах и выливали воду в рот (каждого из страдавших от жажды) людей, потом возвращались и снова наполняли их, а потом возвращались и (снова поили раненых). Что же касается Абу Тальхи, то (в тот день) меч дважды или трижды падал из его рук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3811</td></tr><tr><td>Arabic No</td><td>3811</td></tr><tr><td>Reference</td><td>Book 63 Hadith 36</td></tr></tbody></table></div>
 

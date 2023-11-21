@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl Ibn Sa'd As-Sâ'idî (que Dieu l'agrée) a dit : On apporta au Prophète (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] yang dibacakan kepadanya, dari [Abu Hazim] dari [Sahl bin Sa'd As Sa'idi]; Bahwa Rasulullah shallallahu 'alaihi wasallam diberi air minum, lalu beliau meminumnya. Di sebelah kanan beliau ada seorang anak kecil sedangkan di sebelah kiri beliau ada beberapa orang tua. Maka beliau bertanya kepada anak kecil tersebut: "Apakah kamu mengizinkan aku untuk memberikan air minum ini kepada mereka (orang tua) terlebih dahulu?" Anak kecil tersebut menjawab; 'Tidak, demi Allah aku tidak akan mendahulukan seorangpun dariku untuk mendapatkan bagianku.' Lalu Rasulullah shallallahu 'alaihi wasallam memberikan kepadanya. Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami ['Abdul 'Aziz bin Abu Hazim]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu 'Abdurrahman Al Qari, keduanya dari [Abu Hazim] dari [Sahl bin Sa'd] dari Nabi shallallahu 'alaihi wasallam, dengan Hadits yang serupa, namun keduanya tidak mengatakan dengan kalimat 'Fatallahu', akan tetapi sebagaimana riwayat Ya'qub dia berkata dengan lafazh; 'Fa a'thaahu Iyyahu' (lalu beliau memberikan air minum itu kepada anak kecil)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5292</td></tr><tr><td>Arabic No</td><td>2030.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5292</td></tr><tr><td>Arabic No</td><td>2030.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 166</td></tr></tbody></table></div>
 

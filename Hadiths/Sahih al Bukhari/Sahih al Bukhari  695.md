@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaid-Ullah bin Adi bin Khiyar:I went to 'Uthman bin Affan while he wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Abdullah berkata; [Muhammad bin Yusuf] berkata kepada kami, telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepada kami [Az Zuhri] dari [Humaid bin 'Abdurrahman] dari ['Ubaidullah bin 'Adi bin Khiyar], bahwa dia masuk menemui ['Utsman bin 'Affan] saat ia terkepung seraya berkata, "Engkau adalah pemimpin Kaum Muslimin namun tuan tengah mengalami kejadian seperti yang kita saksikan. Sedangkan shalat akan dipimpin oleh imam yang terkena fitnah dan kami jadi khawatir terkena dosa." Maka 'Utsman bin 'Affan pun berkata, "Shalat adalah amal terbaik yang dilakukan manusia. Oleh karena itu apabila orang-orang melakukan kebaikan (dengan mendirikan shalat), maka berbuat baiklah (shalat) bersama mereka. Dan jika mereka berbuat keburukan (kesalahan), maka jauhilah keburukan mereka." Az Zubaidi berkata, Az Zuhri berkata, "Kami tidak membenarkan shalat bermakmum di belakang seorang banci kecuali dalam keadaan sangat terpaksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>695</td></tr><tr><td>Arabic No</td><td>695</td></tr><tr><td>Reference</td><td>Book 10 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убайдуллы ибн ‘Ади ибн Хияра о том, что он вошёл к ‘Усману ибн ‘Аффану, да будет доволен им Аллах, когда тот находился в осаде и сказал: «Ты являешься имамом людей и с тобой произошло, то что ты видишь, а нами в молитве руководят возглавляющие смуту и мы боимся совершить грех».\n(‘Усман) сказал: «Молитва — это лучшее дело, которое совершают люди. Если люди совершают благо, то совершайте его с ними, а если они грешат, то избегайте их греха».\nАз-Зубайди сказал: «Аз-Зухри сказал: “Мы считаем, что не следует молиться за женоподобным мужчиной, если только не из-за вреда, который он действительно может причинить”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>695</td></tr><tr><td>Arabic No</td><td>695</td></tr><tr><td>Reference</td><td>Book 10 Hadith 90</td></tr></tbody></table></div>
 

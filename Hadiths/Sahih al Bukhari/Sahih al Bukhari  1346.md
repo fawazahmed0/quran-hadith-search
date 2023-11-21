@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) said, "Bury them (i.e. martyrs) with their bloo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari ['Abdurrahman bin Ka'ab bin Malik] dari [Jabir] berkata; Nabi Shallallahu'alaihiwasallam bersabda: "Kuburkanlah mereka bersama dengan darah-darah mereka". Yaitu mereka yang gugur pada perang Uhud: "Dan janganlah mereka dimandikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1346</td></tr><tr><td>Arabic No</td><td>1346</td></tr><tr><td>Reference</td><td>Book 23 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Джабира, что Пророк ﷺ сказал: «Похороните их, не смывая с них кровь!» — то есть в день Ухуда — и не дал их омыть
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1346</td></tr><tr><td>Arabic No</td><td>1346</td></tr><tr><td>Reference</td><td>Book 23 Hadith 101</td></tr></tbody></table></div>
 

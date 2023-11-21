@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abal Minhal:Abu Barza said, "(O people!) Allah makes you self-sufficien
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Sabah] telah menceritakan kepada kami [Mu'tamir] berkata, aku mendengar [Auf], bahwa [Abul Minhal] menceritakan kepadanya, ia mendengar [Abu Barzah] berkata, "Sesungguhnya Allah telah mengkayakan atau meninggikan derajat kalian dengan Islam dan dengan Muhammad shallallahu 'alaihi wasallam." Abu Abdullah berkata, "Di sini tertulis 'Allah mengkayakan kalian', padahal dengan redaksi 'Hanyasanya ketinggian derajat kalian', ini bisa dilihat dalam asli kitab yang berjudul al-I'tisham (karangan Imam Bukhari lainnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7271</td></tr><tr><td>Arabic No</td><td>7271</td></tr><tr><td>Reference</td><td>Book 96 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Ауфа о том, что Абу аль-Минхаль рассказал ему, что он слышал, как Абу Барза сказал: «Аллах обогатил вас — или возвеличил вас — с помощью ислама и Мухаммада ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7271</td></tr><tr><td>Arabic No</td><td>7271</td></tr><tr><td>Reference</td><td>Book 96 Hadith 4</td></tr></tbody></table></div>
 

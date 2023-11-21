@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Ibn Abbas explained the following Qur'anic verse: "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Syabbuwaih], telah menceritakan kepadaku [Ali bin Husain bin Waqid] dari [ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas]: "Hai orang-orang yang beriman, diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang-orang sebelum kamu." Dahulu orang-orang pada zaman Nabi shallallahu 'alaihi wasallam apabila mereka melakukan Shalat Isya' haram atas mereka untuk makan dan minum serta bercampur dengan isteri, dan mereka berpuasa hingga besok. Kemudian terdapat seseorang tidak dapat menahan hawa nafsunya kemudian ia mencampuri isterinya setelah melakukan Shalat 'Isya' dan belum berbuka. Kemudian Allah 'azza wajalla hendak menjadikan hal tersebut sebagai kemudahan bagi waktu yang selanjutnya serta sebagai keringanan dan manfaat. Allah Yang Maha Suci berfirman: "Allah mengetahui bahwasanya kamu tidak dapat menahan nafsumu." Dan hal ini termasuk diantara manfaat yang Allah berikan kepada manusia dan Allah beri keringanan serta kemudahan bagi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2313</td></tr><tr><td>Arabic No</td><td>2313</td></tr><tr><td>Reference</td><td>Book 14 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «О те, которые уверовали! Вам предписан пост, подобно тому как он был предписан вашим предшественникам» (сура 2 «аль-Бакара», аят 183): «Во времена Пророка ﷺ когда люди совершали вечернюю молитву /‘иша/, еда, питьё и близость с женщинами снова становились запретными для них и они постились до того же времени на следующий день. И один мужчина предал самого себя не совершив разговения, вступил в близость с женой (в запретное время), после вечерней молитвы. Всемогущий и Великий Аллах пожелал сделать этот случай поводом для облегчения остальным, разрешения и получения пользы, и ниспослал следующее: “Аллах знает, что вы предаёте самих себя” (сура 2 «аль-Бакара», аят 187). Это польза, разрешение и облегчение, которые Аллах даровал людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2313</td></tr><tr><td>Arabic No</td><td>2313</td></tr><tr><td>Reference</td><td>Book 14 Hadith 1</td></tr></tbody></table></div>
 

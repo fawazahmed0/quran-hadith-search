@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:We were with the Prophet (ﷺ) when a funeral passed hi and he st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Al Fadhl Al Harrani], telah menceritakan kepada kami [Al Walid], telah menceritakan kepada kami [Abu 'Amr], dari [Yahya bin Abu Katsir] dari ['Ubaidullah bin Miqsam], telah menceritakan kepadaku [Jabir], ia berkata; kami pernah bersama Nabi shallallahu 'alaihi wasallam, tiba-tiba terdapat jenazah yang meleawati kami. Kemudian beliau berdiri untuknya, kemudian tatkala kami pergi untuk membawanya ternyata jenazah tersebut adalah jenazah orang yahudi. Kemudian kami katakan; wahai Rasulullah, sesungguhnya jenazah tersebut adalah jenazah orang yahudi. Kemudian beliau berkata: "Sesungguhnya kematian adalah sesuatu yang menakutkan, apabila kalian melihat jenazah maka berdirilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1311) Sahih Muslim (960)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3174</td></tr><tr><td>Arabic No</td><td>3174</td></tr><tr><td>Reference</td><td>Book 21 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен Аллах им и его отцом, передаёт: «Однажды, когда мы были с Пророком ﷺ мимо проходила похоронная процессия и (Посланник Аллаха ﷺ) встал. Мы пошли, чтобы помочь, но увидели, что хоронят иудея. Мы сказали: “О Посланник Аллаха, это похороны иудея!” (Посланник Аллаха ﷺ) сказал: “Поистине, смерть внушает страх, и если увидите похоронную процессию, то вставайте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1311) Sahih Muslim (960)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3174</td></tr><tr><td>Arabic No</td><td>3174</td></tr><tr><td>Reference</td><td>Book 21 Hadith 86</td></tr></tbody></table></div>
 

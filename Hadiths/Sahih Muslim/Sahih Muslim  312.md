@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdah adl-Dlabbi] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dan [Abu Alqamah al-Farwi] keduanya berkata, telah menceritakan kepada kami [Shafwan bin Sulaim] dari [Abdullah bin Salman] dari [bapaknya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah kelak akan menghembuskan angin yang sangat lembut, selembut sutera dari arah Yaman, ia tidak akan melewatkan seorang pun yang di dalam hatinya terdapat -Abu Alqamah berkata- seberat biji-bijian, -sedangkan Abdul Aziz berkata; seberat biji sawi sekali pun- dari keimanan kecuali Allah akan mewafatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах пошлёт из Йемена ветер, который будет мягче шёлка. Он не оставит (на земле) никого, в чьём сердце есть вера, (Абу ‘Алькама (один из передатчиков хадиса) сказал: «весом с зерно»; ‘Абдуь‘азиз (другой передатчик хадиса) сказал: «весом с пылинку»), не схватив его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 219</td></tr></tbody></table></div>
 

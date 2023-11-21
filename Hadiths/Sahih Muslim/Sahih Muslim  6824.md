@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:He who loves to meet Allah, Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami ['Ali bin Mushir] dari [Zakariya] dari [Asy Sya'bi] dari [Syuraih bin Hani'] dari ['Aisyah] dia berkata; 'Rasulullah shallaallahu'alaihi wa sallam bersabda: "Barang siapa yang mencintai untuk bertemu dengan Allah maka Allah senang bertemu dengannya, dan barang siapa yang benci untuk bertemu dengan Allah maka Allah pun benci bertemu dengannya. Dan kematian itu sebelum bertemu dengan Allah." Telah menceritakan kepada kami tentang hadits tersebut [Ishaq bin Ibrahim] telah mengabarkan kepada kami ['Isa bin Yunus] telah menceritakan kepada kami [Zakaria] dari ['Amir] telah menceritakan kepadaku [Syuraih bin Hani'] bahwasanya ['Aisyah] mengabarkan kepadanya bahwasanya Rasulullah shallallahu 'alaihi wasallam berkata dengan perkataan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6824</td></tr><tr><td>Arabic No</td><td>2684.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6824</td></tr><tr><td>Arabic No</td><td>2684.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 20</td></tr></tbody></table></div>
 

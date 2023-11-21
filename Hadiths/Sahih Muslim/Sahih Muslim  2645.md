@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with both of them) reported that he heard th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Katsir] telah menceritakan kepadaku [Nafi'] bahwa [Abdullah bin Umar] radliallahu 'anhuma telah menceritakan kepadanya bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda di hari 'Asyura': "Sesungguhnya orang-orang Jahiliyah berpuasa di hari ini. Maka siapa yang suka berpuasa silahkan, dan siapa yang lebih suka meninggalkannya maka tidaklah mengapa." Maka Abdullah radliallahu 'anhu tidak pernah berpuasa di hari itu, kecuali memang bertepatan dengan hari puasanya. Dan telah menceritakan kepadaku [Muhammad bin Ahmad bin Abu Khalaf] telah menceritakan kepada kami [Rauh] -dalam riwayat lain- Telah menceritakan kepada kami [Abu Malik Ubaidullah bin Al Akhnas] telah mengabarkan kepadaku [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma, ia berkata; Suatu ketika, disebutkanlah puasa hari 'Asyura' di sisi Rasulullah shallallahu 'alaihi wasallam. Maka ia pun menyebutkan hadits sebagaimana hadits Laits bin Sa'd
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>1126.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>1126.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 151</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar said that the Messenger of Allah (ﷺ) prescribed the Sadaqa of Ramada
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] ia berkata; Nabi shallallahu 'alaihi wasallam mewajibkan sedekah ramadlan (zakat fithrah) atas setiap orang yang merdeka dan hamba sahaya, baik laki-laki atau pun perempuan, yaitu berupa satu sha' kurma atau gandum. Maka orang-orang pun menyamainya dengan setengah sha' gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2280</td></tr><tr><td>Arabic No</td><td>984.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Пророк ﷺ вменил в обязанность раздавать закят рамадана в размере одного са‘ фиников или ячменя свободному (человеку) и рабу, мужчине и женщине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2280</td></tr><tr><td>Arabic No</td><td>984.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 18</td></tr></tbody></table></div>
 

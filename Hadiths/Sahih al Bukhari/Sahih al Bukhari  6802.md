@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Some people from the tribe of 'Ukl came to the Prophet (ﷺ) and e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepadaku [Yahya bin Abu Katsir] mengatakan, telah menceritakan kepadaku [Abu Qilabah Al Jarmi] dari [Anas] radliallahu 'anhu mengatakan, beberapa orang dari kabilah 'Ukli menemui Nabi shallallahu 'alaihi wasallam menyatakan keIslamannya, tetapi mereka tidak cocok dengan iklim Madinah sehingga Nabi memerintahkan mereka untuk mendatangi unta-unta sedekah untuk meminum air kencingnya dan susunya. Mereka melakukan perintah tersebut dan mereka pun sembuh. Namun mereka murtad dan membunuh penggembalanya, merampok unta-untanya. Maka Nabi mengutus (pasukan) untuk meyusuri jejak mereka sehingga mereka bisa ditangkap. Kemudian Nabi memotong tangan dan kaki mereka serta mencongkel mata mereka, dan Nabi tidak menghentikan penghukuman terhadap mereka hingga mereka tewas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6802</td></tr><tr><td>Arabic No</td><td>6802</td></tr><tr><td>Reference</td><td>Book 86 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, рассказывал: «Однажды к Пророку ﷺ приехали люди из племени ‘укль. Они приняли ислам, а затем почувствовали недомогание из-за климата Медины, и Посланник Аллаха ﷺ приказал им пойти к верблюдам, которые были даны в качестве милостыни, и пить их мочу и молоко. Они так и поступили, но, выздоровев, отреклись от ислама, убили пастуха и угнали верблюдов. Посланник Аллаха ﷺ послал за ними погоню, и когда их привели, он велел отрубить им кисти рук и ступни и выжечь им глаза, и после этого им не прижгли кровоточащие раны, пока они не умерли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6802</td></tr><tr><td>Arabic No</td><td>6802</td></tr><tr><td>Reference</td><td>Book 86 Hadith 31</td></tr></tbody></table></div>
 

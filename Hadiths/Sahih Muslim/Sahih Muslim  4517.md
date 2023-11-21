@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:While we were with the Messenger of Allah (ﷺ) on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Abu Al Asyhab] dari [Abu Nashrah] dari [Sa'id Al Khudri] dia berkata, "Ketika kami dalam perjalanan bersama-sama dengan Nabi shallallahu 'alaihi wasallam, tiba-tiba ada seorang laki-laki datang dengan mengendarai kendaraannya sambil menoleh ke kanan dan ke kiri, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang memiliki kelebihan tempat pada kendaraannya, hendaklah dia memberikannya kepada orang yang tidak memiliki tempat, dan siapa yang memiliki kelebihan perbekalan hendaklah dia memberikannya kepada orang yang tidak memiliki perbekalan." Abu Sa'id berkata, "Lalu beliau menyebutkan golongan yang berhak mendapatkan harta sehingga kami melihat bahwa tidak ada lagi dari kami yang berhak mendapatkan kelebihan harta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4517</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 31 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4517</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 31 Hadith 19</td></tr></tbody></table></div>
 

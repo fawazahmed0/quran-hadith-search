@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:When the last verses of Surat al-Baqarah were revealed, the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari [Abu Adl Dluha] dari [Masruq] dari [Aisyah] ia berkata, "Tatkala beberapa ayat terakhir Surat Al Baqarah turun Rasulullah shallallahu 'alaihi wasallam keluar dan membacakannya kepada kami. Beliau bersabda: "Perdagangan arak telah diharamkan." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dengan sanad dan maknanya, ia berkata, "Yaitu ayat-ayat terakhir mengenai riba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2226) Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3490</td></tr><tr><td>Arabic No</td><td>3490</td></tr><tr><td>Reference</td><td>Book 24 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Когда были ниспосланы последние аяты из суры “аль-Бакара”, Посланник Аллаха ﷺ вышел и прочитал нам эти аяты, после чего сказал: “Торговать вином запрещается”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2226) Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3490</td></tr><tr><td>Arabic No</td><td>3490</td></tr><tr><td>Reference</td><td>Book 24 Hadith 75</td></tr></tbody></table></div>
 

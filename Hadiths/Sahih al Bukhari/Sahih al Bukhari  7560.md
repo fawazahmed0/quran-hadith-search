@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, 'The example of a believer who recites
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas] dari [Abu Musa] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Perumpamaan orang mukmin yang membaca Al Qur'an seperti utrujah, rasanya enak dan baunya wangi, dan perumpamaan orang mukmin yang tidak membaca Al Qur'an seperti kurma, rasanya enak namun tidak berbau, dan perumpaman orang durhaka yang membaca Al Qur'an seperti buah raihana, baunya wangi namun rasanya pahit, dan perumpamaan orang durhaka yang tidak membaca Al Qur'an seperti buah hanzhalah, rasanya pahit dan tidak berbau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7560</td></tr><tr><td>Arabic No</td><td>7560</td></tr><tr><td>Reference</td><td>Book 97 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы, что Посланник Аллаха ﷺ сказал: «Верующий, который читает Коран, подобен сладкому лимону, обладающему приятным запахом и вкусом, а верующий, который не читает Коран, подобен финику, не обладающему запахом, но сладкому на вкус. Грешник, который читает Коран, подобен базилику, обладающему приятным запахом, но горькому на вкус, а грешник, который Коран не читает, подобен колоквинту, горькому на вкус и не обладающему запахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7560</td></tr><tr><td>Arabic No</td><td>7560</td></tr><tr><td>Reference</td><td>Book 97 Hadith 185</td></tr></tbody></table></div>
 

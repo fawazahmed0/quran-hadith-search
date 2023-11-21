@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: A believer who recites the Qur'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Aban] dari [Qatadah] dari [Anas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Permisalan seorang mukmin yang membaca Al-Qur'an adalah seperti buah Utrujah, baunya harum dan rasanya enak. Permisalan seorang mukmin yang tidak suka membaca Al-Qur'an adalah seperti buah kurma, rasanya enak namun tidak berbau. Permisalah orang jahat yang membaca Al-Qur'an adalah seperti buah raihanah, baunya harum namun rasanya pahit. Permisalan orang jahat yang tidak suka membaca Al-Qur'an adalah seperti buah Hanzhalah, rasanya pahit dan tidak berbau. Dan permisalan kawan yang baik adalah seperti pemakai minyak wangi, jika kamu tidak mendapatkannya maka kamu mendapatkan bau harumnya, Dan permisalan kawan yang buruk adalah seperti tukang besi, jika kamu tidak mendapatkan hitamnya, maka paling tidak kamu akan mendapatkan asapnya." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Mu'adz] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam…seperti hadits yang pertama, hingga pada sabdanya: "…rasanya pahit." Ibnu Mu'adz menambahkan, "Anas berkata, "Kami memperbincangkan bahwa permisalan seorang kawan yang baik adalah…. hingga akhir hadits." Telah menceritakan kepada kami [Abdullah bin Ash Shabbah Al Aththar] berkata, telah menceritakan kepada kami [Sa'id bin Amir] dari [Syubail bin Azrah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Permisalah seorang kawan yang baik …. lalu ia menyebutkan hadits yang semisal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4829</td></tr><tr><td>Arabic No</td><td>4829</td></tr><tr><td>Reference</td><td>Book 43 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Верующий, который читает Коран, подобен сладкому лимону, обладающему приятным запахом и вкусом, а верующий, который не читает Коран, подобен финику, не обладающему запахом, но сладкому на вкус. Лицемер, который читает Коран, подобен базилику, обладающему приятным запахом, но горькому на вкус, а лицемер, который Коран не читает, подобен колоквинту, не обладающему запахом и горькому на вкус. Праведный товарищ подобен продавцу мускуса, даже если ты ничего не приобретешь у него, то ощутишь (исходящий) от него аромат. Дурной товарищ же подобен (человеку,) раздувающему кузнечные меха, если и не запачкаешься его сажей, то ощутишь (исходящее) от него зловоние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4829</td></tr><tr><td>Arabic No</td><td>4829</td></tr><tr><td>Reference</td><td>Book 43 Hadith 57</td></tr></tbody></table></div>
 

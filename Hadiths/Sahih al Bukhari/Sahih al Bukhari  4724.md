@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:That one night Allah's Messenger (ﷺ) came to him and Fatima and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad] Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] dia berkata; Telah mengabarkan kepadaku ['Ali bin Husain] bahwa [Hushain bin 'Ali] mengabarkan kepadanya dari ['Ali radliallahu 'anhu] bahwa suatu ketika Rasulullah shallallahu 'alaihi wasallam pernah mendatangi dia dan Fatimah lalu beliau bertanya: "Tidakkah kalian shalat (malam)?" makna RAJMAN BIL GHAIB, (Al Kahfi: 22) yaitu; belum nampak. FURUTHAA, artinya; Nadaman (penyesalan). SURADIQUHA, artinya; seperti tenda dan kamar yang di kelilingi paviliyun.' YUHAWIRU, berasal dari kata Muhawarah. LAKINNA HUWALLAH, maksudnya; Tetapi aku (percaya bahwa): Dialah Allah, Tuhanku. -dengan membuang alif dan menggabungkan dua nun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4724</td></tr><tr><td>Arabic No</td><td>4724</td></tr><tr><td>Reference</td><td>Book 65 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал, что однажды ночью Посланник Аллаха ﷺ пришёл к нему и Фатыме и спросил: «Разве вы не совершаете молитву?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4724</td></tr><tr><td>Arabic No</td><td>4724</td></tr><tr><td>Reference</td><td>Book 65 Hadith 246</td></tr></tbody></table></div>
 

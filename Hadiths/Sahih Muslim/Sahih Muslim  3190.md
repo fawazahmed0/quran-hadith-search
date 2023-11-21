@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jaibir b. 'Abdullah (Allah be pleased with them) reported:We performed Hajj Tama
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Abdul Malik] dari [Atha'] dari [Jabir bin Abdullah] ia berkata; "Kami pernah melaksanakan haji Tamattu' bersama Rasulullah shallallahu 'alaihi wasallam. Saat itu, kami menyembelih sapi hasil serikat dari tujuh orang dari kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3190</td></tr><tr><td>Arabic No</td><td>1318.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 394</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3190</td></tr><tr><td>Arabic No</td><td>1318.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 394</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama b. Zaid reported that Allah's Messenger (way peace be upon him) said:I sto
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid] telah menceritakan kepada kami [Hammad bin Salamah] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Mu'adz bin Mu'adz Al 'Anbari] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Muhammad bin 'Abdul A'la] telah menceritakan kepada kami [Mu'tamir] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] semuanya dari [Sulaiman At Taimi] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Abu Kamil Fudhail bin Husain] -dan lafadh ini miliknya-; telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [At Taimi] dari [Abu 'Utsman] dari [Usamah bin Zaid] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Aku berdiri di pintu surga, maka kulihat orang-orang yang masuk ke dalamnya kebanyakan dari orang-orang miskin. Sedangkan orang-orang yang bernasib baik di dunia mereka tertahan di luar. Kecuali penduduk neraka mereka langsung diperintahkan masuk ke neraka. Dan aku berdiri pula di pintu neraka, kulihat orang yang masuk kebanyakannya ialah kaum wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6937</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 49 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6937</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 49 Hadith 1</td></tr></tbody></table></div>
 

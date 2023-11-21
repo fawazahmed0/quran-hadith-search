@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Urwah ibn Mudarris at-Ta'i: I came to the Messenger of Allah (ﷺ) at t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Yahya] dari [Isma'il], telah menceritakan kepada Kami ['Amir], telah mengabarkan kepadaku ['Urwah bin Mudharris Ath Thai], ia berkata; aku pernah datang kepada Rasulullah shallAllahu wa'alaihi wa sallam di tempat wukuf yaitu di Muzdalifah. Aku katakan; wahai rasul, aku datang dari Gunung Thayyi', aku telah membuat kendaraanku letih dan melelahkan diriku. Demi Allah tidaklah aku meninggalkan pasir yang memanjang melainkan aku berhenti padanya. Apakah aku mendapatkan haji? Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang mendapati Shalat ini bersama Kami, dan telah datang ke Arafah sebelum itu pada malam hari atau siang hari maka sungguh telah sempurna hajinya dan menghilangkan kotoran yang ada pada badannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1950</td></tr><tr><td>Arabic No</td><td>1950</td></tr><tr><td>Reference</td><td>Book 11 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва ибн Мударрис ат-Таи, да будет доволен им Аллах, передаёт: «Я пришёл к Посланнику Аллаха ﷺ когда он был на ‘Арафате, и сказал: “О Посланник Аллаха! Я приехал с моей горы Тай, изнурив своё верховое животное и утомившись. Клянусь Аллахом, я останавливался на каждой горе, которая попадалась мне по пути. Застал ли я хадж?” Посланник Аллаха ﷺ сказал: “Кто присутствовал на этой нашей молитве, а ещё раньше простоял на ‘Арафате днём или ночью, тот совершил хадж и выполнил его обряды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1950</td></tr><tr><td>Arabic No</td><td>1950</td></tr><tr><td>Reference</td><td>Book 11 Hadith 230</td></tr></tbody></table></div>
 

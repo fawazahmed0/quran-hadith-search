@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar asked the Prophet (ﷺ) "I vowed in the Pre-Islamic per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] telah mengabarkan kepada saya [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa 'Umar bertanya kepada Nabi shallallahu 'alaihi wasallam, katanya: "Aku pernah bernadzar di zaman Jahiliyyah untuk beri'tikaf dalam satu malam di Al Masjidil Haram". Maka Beliau berkata: "Tunaikanlah nadzarmu itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>2032</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что однажды ‘Умар, задавший Пророку ﷺ вопрос, (среди прочего) сказал: «Ещё во времена джахилийи я дал обет провести ночь в Священной Мечети», (на что Пророк ﷺ) сказал: «Так выполни свой обет!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>2032</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 

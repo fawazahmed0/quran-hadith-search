@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu l'agrée) a dit : "Je n'ai jamais trouvé une femme qui m'aime 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Hisyam bin Urwah] dari [ayahnya] dari [Aisyah] dia berkata; Tidak ada seorang wanita yang lebih saya sukai sebagai contoh teladan selain Saudah binti Zam'ah, yaitu seorang yang berpikiran tajam. Dia (Aisyah) berkata; Tatkala Saudah sudah agak tua, dia memberikan hari gilirannya di samping Rasulullah shallallahu 'alaihi wasallam kepada Aisyah, dia berkata; Wahai Rasulullah, hari giliranku saya berikan kepada Aisyah. Karena itu giliran Aisyah bersama beliau menjadi dua hari yaitu harinya dia dan harinya Saudah. Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Uqbah bin Khalid]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Al Aswad bin 'Amir] telah menceritakan kepada kami [Zuhair]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Mujahid bin Musa] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syarik] semuanya dari [Hisyam] dengan isnad ini, yaitu; Bahwa tatkala Saudah telah beranjak tua, dengan makna hadits Jarir, dan dalam hadits Syarik ditambahkan, dia (Aisyah) berkata; Dialah wanita yang pertama kali menikah setelahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3629</td></tr><tr><td>Arabic No</td><td>1463.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3629</td></tr><tr><td>Arabic No</td><td>1463.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 62</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:Allah has prescribed the prayer by the tongue of your Apostl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bukair bin Abu Syaibah] dan ['Amru An Naqid] semuanya dari [Al Qasim bin Malik]. ['Amru] mengatakan; telah menceritakan kepada kami [Qasim bin Malik Al Muzani] telah menceritakan kepada kami [Ayyub bin 'Aidz Ath Tha'i] dari [Bukair bin Al Akhnas] dari [Mujahid] dari [Ibnu Abbas], katanya; "Allah mewajibkan shalat melalui perantaran lisan Nabi kalian bagi seorang musafir sebanyak dua raka'at, sedang untuk orang yang bermukim sebanyak empat raka'at, dan ketika kondisi ketakutan (takut) sebanyak satu raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1576</td></tr><tr><td>Arabic No</td><td>687.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «Поистине, Аллах предписал через вашего Пророка ﷺ совершать молитву в два рак‘ата (тем, кто находится) в пути, в четыре (рак‘ата тем, кто живёт) на одном месте, и молитву в один рак‘ат (тем, кто испытывает) страх». Глава: Когда тот, кто находится в пути совершает молитву за тем, кто (живёт) на одном месте
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1576</td></tr><tr><td>Arabic No</td><td>687.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
 

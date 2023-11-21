@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Mughirah b. Shu'bah reported:"Mu'awiyah wrote to al-Mughirah b. Shu'bah: 'Wha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], ia berkata; telah menceritakan kepada Kami [Abu Mu'awiyah] dari [Al A'masy] dari [Al Musayyab bin Rafi'] dari [Warrad] mantan budak Al Mughirah bin Syu'bah, dari [Al Mughirah bin Syu'bah], Mu'awiyah menulis surat kepada Al Mughirah bin Syu'bah; apakah yang diucapkan Rasulullah apabila telah mengucapkan salam dari shalatnya? Kemudian Al Mughirah mendektekannya kepadanya dan menulis kepada Mu'awiyah, ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam mengucapkan: "LAA ILAAHA ILLALLAAHU WAHDAU LAA SYARIIKALAHU, LAHUL MULKU WA LAHUL HAMDU WA HUWA 'ALAA KULLI SYAI-IN QADIIR, ALLAAHUMMA LAA MAANI'A LIMAA A'THAITA WA LAA MU'THIYA LIMAA MANA'TA WA LAA YANFA'U DZAL JADDI MINKAL JADDU" (tidak ada tuhan yang berhak disembah kecuali Allah semata, tidak ada sekutu bagiNya, milikNya seluruh kerajaan, dan bagi-Nya segala puji dan Dia Maha Mampu melakukan segala sesuatu. Ya Allah, tidak ada yang dapat menahan apa yang Engkau berikan, dan tidak ada yang dapat memberikan apa yang Engkau tahan, serta tidaklah bermanfaat kekayaan bagi orang yang kaya dari adzabMu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (844) Sahih Muslim (593)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1505</td></tr><tr><td>Arabic No</td><td>1505</td></tr><tr><td>Reference</td><td>Book 8 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Варрада, вольноотпущенника аль-Мугиры ибн Шу‘бы, что Му‘авия написал аль-Мугире ибн Шу‘бе, спрашивая, что говорил Посланник Аллаха ﷺ после таслима, завершив молитву. И он продиктовал ему письмо Му‘авии с ответом на его вопрос, в котором сообщалось: «Посланник Аллаха ﷺ обычно говорил: “Нет божества, кроме одного лишь Аллаха, у Которого нет сотоварища. Ему принадлежит владычество и Ему хвала, и Он всё может! О Аллах, никто не лишит того, что Ты даровал, и никто не дарует того, чего Ты лишил, и бесполезным перед Тобой окажется богатство обладающего богатством /Ля иляха илля-Ллаху вахда-ху ля шарика ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хува ‘аля кулли шай‘ин кадир! Аллахумма, ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-ка-ль-джадд/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (844) Sahih Muslim (593)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1505</td></tr><tr><td>Arabic No</td><td>1505</td></tr><tr><td>Reference</td><td>Book 8 Hadith 90</td></tr></tbody></table></div>
 

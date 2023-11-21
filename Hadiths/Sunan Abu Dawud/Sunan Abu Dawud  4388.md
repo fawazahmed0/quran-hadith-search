@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' ibn Khadij: Muhammad ibn Yahya ibn Hibban said: A slave stole a p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik bin Anas] dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] berkata, "Seorang budak mencuri pohon kurma kecil dari kebun seseorang, lalu ia menanamnya di kebun milik tuannya. Pemilik pohon itu lalu keluar mencari pohonnya yang telah hilang. Kemudian ia mendapatkannya tengah berada (bersama budak tersebut). Lantas ia membawa budak itu kepada Marwan Ibnul Hakam, gubernur Madinah saat itu. Marwan kemudian memenjarakan budak itu dan ingin memotong tangannya. Maka, majikan budak tersebut berangkat menemui [Rafi' bin Khadij]. Ia bertanya kepadanya tentang hukum dari kasus tersebut. Rafi' kemudian mengabarkan kepadanya, bahwa ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada hukuman potong tangan karena sebiji kurma atau mayang kurma." Laki-laki (majikan budak) itu berkata, "Marwan telah menahan budak milikku, dan ia ingin memotong tangannya. Maka aku berharap engkau bersedia bersamaku menemui Marwan hingga engkau dapat mengabarkan apa yang engkau dengar dari Rasulullah shallallahu 'alaihi wasallam." Rafi' bin Khadij kemudian berangkat menemui Marwan bersama majikan budak tersebut, ketika telah tiba Rafi' berkata kepada Marwan, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada hukuman potong tangan karena sebiji kurma atau mayang kurma." Setelah mendengar Rafi', Marwan kemudian membebaskan budak tersebut." Abu Dawud berkata, "Yang dimaksud dengan Al Katsar (mayang kurma) adalah bagian pada pohon kurma yang dapat dimakan." Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Yahya] dari [Muhammad bin Yahya bin Habban] dengan hadits yang sama. Ia berkata, "Marwan kemudian mencambuknya dengan beberapa kali cambukan, setelah itu melepasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4388</td></tr><tr><td>Arabic No</td><td>4388</td></tr><tr><td>Reference</td><td>Book 40 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Мухаммада ибн Яхьи ибн Хаббана, что однажды раб украл из сада одного человека пальмовый саженец и посадил в саду своего господина. Утром хозяин саженца вышел искать свой саженец и обнаружил его. Тогда он отправился к Марвану ибн аль-Хакаму и подал иск против того раба. Марван велел посадить раба под стражу и собрался отрубить ему руку за кражу. Владелец раба пришёл к Рафи‘ ибн Хадиджу и спросил его об этом, и тот сказал ему, что он слышал, как Посланник Аллаха ﷺ сказал: «Не отрубают руку за украденные плоды и сердцевину пальмы». Владелец раба сказал: «Поистине, Марван взял моего раба и собирается отрубить ему руку, и мне бы хотелось, чтобы ты пошёл со мной и пересказал (Марвану) то, что слышал от Посланника Аллаха ﷺ». Рафи‘ ибн Хадидж пошёл с ним, пока не пришёл к Марвану ибн аль-Хакаму. Рафи‘ сказал ему: «Поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Не отрубают руку за украденные плоды и сердцевину пальмы”». После этого Марван велел отпустить раба
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4388</td></tr><tr><td>Arabic No</td><td>4388</td></tr><tr><td>Reference</td><td>Book 40 Hadith 38</td></tr></tbody></table></div>
 

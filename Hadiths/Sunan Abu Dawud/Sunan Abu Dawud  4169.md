@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah (b. Mas'us) said:Allah has cursed the woman who tattoo and the women w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] dan [Utsman bin Abu Syaibah] secara makna, keduanya berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Alqamah] dari [Abdullah] ia berkata, "Allah melaknat wanita yang mentato dan wanita yang minta untuk ditato." Muhammad menyebutkan, "dan wanita yang meyambung rambut." Utsman menyebutkan, "dan wanita yang mencukur bulu alis." Dan keduanya sepakat dengan penyebutan, "dan mengikir gigi untuk kecantikan dengan merubah ciptaan Allah Azza Wa Jalla. Hadits ini kemudian di dengar oleh seorang wanita dari bani Asad yang biasa di panggil dengan nama Ummu Ya'qub, Utsman menambahkan, "yang sedang membaca Al-Qur'an. Ia lalu mendatangi Abdullah dan berkata, "Telah sampai kabar kepadaku bahwa engkau melaknat Wanita yang mentato dan wanita yang minta untuk ditato?" Muhammad menyebutkan, "dan wanita yang menyambung rambut." Utsman menyebutkan, "dan wanita yang mencukur alis. Kemudian keduanya sepakat dengan penyebutan, "wanita yang mengikir gigi, Utsman menyebutkan, "untuk kecantikan dengan merubah ciptaan Allah Ta'ala." Ummu Ya'qub berkata, "Aku telah membaca lembaran-lembaran Al-Qur'an tetapi aku tidak mendapatkannya." Abdullah berkata, "Demi Allah, jika engkau membacanya, sungguh engkau pasti mendapatkannya." Kemudian Abdullah membaca: (Apa yang diberikan Rasul kepadamu maka terimalah dia, dan apa yang dilarangnya bagimu maka tinggalkanlah.. (Qs. Al Hasyr: 7)." Ummu Ya'qub berkata, "Aku melihat hal ini ada pada isterimu!" Abdullah berkata, "Masuk dan lihatlah." Ummu Ya'qub kemudian masuk dan keluar lagi. Abdullah berkata, "Apa yang engkau lihat?" Utsman berkata (dalam riwayatnya) maka Ummu Ya'qub berkata; "Aku tidak melihatnya", Ibnu Mas'ud berkata; "Jikalau hal itu ada pada istriku niscaya dia tidak akan ada bersama kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5931) Sahih Muslim (2125)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4169</td></tr><tr><td>Arabic No</td><td>4169</td></tr><tr><td>Reference</td><td>Book 35 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Аллах проклял наносящую татуировку и ту, что просит сделать ей это, а также подвязывающую (к волосам другие) волосы, (или: выщипывающую брови) и подпиливающую зубы ради красоты и изменяющую тем самым творение Всемогущего и Великого Аллаха». Об этом узнала одна женщина из бану асад. Её называли Умм Я‘куб, и она читала Коран. Она пришла к ‘Абдуллаху и сказала: «Дошло до меня, что ты проклял наносящую татуировку и ту, что просит сделать ей это, а также подвязывающую (к волосам другие) волосы, выщипывающую брови и подпиливающую зубы ради красоты и изменяющую тем самым творение Всевышнего Аллаха!» Он сказал: «А почему бы мне не проклинать их, если их проклял Посланник Аллаха ﷺ и об этом упоминается в Книге Всевышнего Аллаха?» Она возразила: «Я прочитала Коран от обложки до обложки, но не нашла упоминаний об этом!» Он сказал: «Клянусь Аллахом, если бы ты действительно читала, ты бы нашла!» Потом он прочитал: «Что принёс вам Посланник, то принимайте, а что он запретил вам, того избегайте» (сура «аль-Хашр», аят 7). Она сказала: «Но кое-что из этого я видела на твоей жене». Он сказал: «Зейди и посмотри». Она зашла, а потом вышла. Он спросил: «Что ты увидела?» Она ответила: «Я ничего такого не увидела». Он сказал: «Если бы что-то из этого было на ней, её бы не было среди нас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5931) Sahih Muslim (2125)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4169</td></tr><tr><td>Arabic No</td><td>4169</td></tr><tr><td>Reference</td><td>Book 35 Hadith 11</td></tr></tbody></table></div>
 

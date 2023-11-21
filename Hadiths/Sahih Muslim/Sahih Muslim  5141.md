@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Wa'il al-Hadrami reported that Tariq b. Suwaid a-Ju'fi asked Allah's Apostle (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] dan ini adalah lafadz Ibnu Al Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dari ['Alqamah bin Wa'il] dari ayahnya [Wa'il Al Hadlrami] bahwa Thariq bin Suwaid Al Ju'fi pernah bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai khamer, maka beliau pun melarangnya atau benci membuatnya." Lalu dia berkata, "Saya membuatnya hanya untuk obat." Maka beliau bersabda: "Khamer itu bukanlah obat, akan tetapi ia adalah penyakit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5141</td></tr><tr><td>Arabic No</td><td>1984</td></tr><tr><td>Reference</td><td>Book 36 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5141</td></tr><tr><td>Arabic No</td><td>1984</td></tr><tr><td>Reference</td><td>Book 36 Hadith 15</td></tr></tbody></table></div>
 

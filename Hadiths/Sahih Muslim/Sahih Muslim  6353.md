@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) took hold of his sword on the Day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Affan]; Telah menceritakan kepada kami [Hammad bin Salamah]; Telah menceritakan kepada kami [Tsabit] dari [Anas] bahwa Pada waktu perang Uhud, Rasulullah shallallahu 'alaihi wasallam mengambil sebilah pedang dan bertanya: "Siapakah di antara kalian yang ingin mengambil pedang ini dariku?" Para sahabat berlomba-lomba mengulurkan tangan sambil berkata; "Saya, Saya." Kemudian Rasulullah bertanya lagi: "Siapakah yang akan mengambil pedang ini dengan haknya?" Para sahabat mundur teratur, hingga datang Simak bin Kharasyah Abu Dujana, seraya berkata; "Saya akan mengambilnya dengan haknya." Anas berkata; "Simak bin Kharasyah mengambil pedang itu dan mempergunakannya untuk menyerang pasukan kaum musyrikin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6353</td></tr><tr><td>Arabic No</td><td>2470</td></tr><tr><td>Reference</td><td>Book 44 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6353</td></tr><tr><td>Arabic No</td><td>2470</td></tr><tr><td>Reference</td><td>Book 44 Hadith 183</td></tr></tbody></table></div>
 

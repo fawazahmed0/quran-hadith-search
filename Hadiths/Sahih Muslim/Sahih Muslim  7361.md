@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Messenger (ﷺ). made a mention of Dajjal in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dan [Muhammad bin Bisyr] keduanya berkata: Telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar]. Telah menceritakan kepada kami [Ibnu Numair], teks miliknya, telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] Rasulullah Shallallahu 'alaihi wa Salam menyebut Dajjal dihadapan orang-orang, beliau bersabda: "Sesungguhnya Allah Ta'ala tidak buta sebelah mata dan sesungguhnya Al Masih Dajjal buta matanya yang kanan, matanya seperti anggur mencuat." Telah menceritakan kepadaku [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata: Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub]. Telah menceritakan kepada kami [Muhammad bin Abbad] telah menceritakan kepada kami [Hatim bin Isma'il] dari [Musa bin Uqbah], keduanya dari [Nafi'] dari [Ibnu Umar] dari nabi Shallallahu 'alaihi wa Salam sepertinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7361</td></tr><tr><td>Arabic No</td><td>169.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что однажды Посланник Аллаха ﷺ в присутствии людей упомянул об Антихристе (ад-даджжаль) и сказал: «Поистине, Всевышний Аллах не является кривым, что же касается Лжемессии, то он крив на правый глаз, который похож на выпуклую виноградину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7361</td></tr><tr><td>Arabic No</td><td>169.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 123</td></tr></tbody></table></div>
 

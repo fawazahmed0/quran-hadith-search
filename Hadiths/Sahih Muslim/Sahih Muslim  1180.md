@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Messenger of Allah (ﷺ) used to pray towards Bait-ul-Maqdis, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] "Bahwa Rasulullah shallallahu'alaihiwasallam dahulu shalat menghadap Baitul Maqdis, lalu turunlah ayat, 'Sungguh kami telah melihat wajahmu menengadah ke langit, maka sungguh kami palingkan wajahmu ke kiblat yang kamu ridhai, maka palingkanlah wajahmu ke arah masjid al-Haram.' (QS. Albaqarah 144), Lalu seorang laki-laki dari Bani Salimah berjalan, sedangkan mereka dalam keadaan rukuk dalam shalat shubuh, dan mereka telah melakukan shalat satu raka'at, lalu dia memanggil, 'Ketahuilah, sesungguhnya kiblat telah diganti, maka mereka berpaling sebagaimana mereka menghadap kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1180</td></tr><tr><td>Arabic No</td><td>527</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что (раньше) Посланник Аллаха ﷺ со своими сподвижниками совершал молитву, обратившись в сторону Храма (в Иерусалиме( /байт аль-макдис/. А когда был ниспослан аят «Мы видели, как ты обращал своё лицо к небу, и Мы обратим тебя к кибле, которой ты останешься доволен. Обрати же своё лицо в сторону Заповедной мечети» (Сура «аль-Бакара», аят 144), один человек из бану салима проходил мимо молящихся, которые в это время совершали поясной поклон утренней молитвы и уже совершили один рак‘ат, и сказал: «Поистине, кибла изменилась!» Тогда они, всё ещё в поясном поклоне, развернулись в сторону Каабы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1180</td></tr><tr><td>Arabic No</td><td>527</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
 

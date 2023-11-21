@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Mujashi' b. Mas'ud who said:I brought m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Suwaid bin Sa'id] telah menceritakan kepada kami ['Ali bin Mushir] dari ['Ashim] dari [Abu Utsman] dia berkata; telah mengabarkan kepadaku [Mujasyi' bin Masy'ud As Sulami] dia berkata, "Aku datang bersama saudaraku, Abu Ma'bad, kepada Rasulullah shallallahu 'alaihi wasallam setelah penaklukan Makkah. Aku berkata kepada beliau, "Ya Rasulullah! Bai'atlah dia untuk hijrah." Beliau lalu menjawab: "Hijrah telah selesai bagi penduduknya." Aku lalu bertanya, "Lalu atas apa ia harus berbai'at?" Beliau menjawab: "Untuk Islam, Jihad, dan Kebajikan." [Abu Utsman] berkata, "Kemudian aku menemui [Abu Ma'bad] dan memberitahukan kepadanya apa yang dikatakan Mujasyi'. Maka ia pun berkata, "Dia benar." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Fudlail] dari ['Ashim] dengan isnad, dia menyebutkan, 'Kemudian saya menemui saudaranya, saudaranya pun menjawab, 'Majasyi' benar.' Namun ia tidak menyebutkan Abu Ma'bad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827</td></tr><tr><td>Arabic No</td><td>1863.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827</td></tr><tr><td>Arabic No</td><td>1863.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 123</td></tr></tbody></table></div>
 

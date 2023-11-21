@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha, la femme du Prophète (raa) a dit : "On amenait souvent les nouveau-nés
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abdullah bin Numair] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa Rasulullah pernah diserahi beberapa bayi supaya Rasulullah mendoakan mereka dengan keberkatan serta mentahnik (memberi asupan pertama) mereka. Beliau lalu diserahi seorang bayi yang kemudian tersebut mengencinginya, beliau lalu meminta sedikit air kemudian mencipratkan air pada bekas air kencing tersebut tanpa membasuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>662</td></tr><tr><td>Arabic No</td><td>286.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Посланнику Аллаха ﷺ часто приносили детей, и он обращался к Аллаху с мольбой за них и делал им “тахник” (разжёвывание финика и протирание образовавшейся кашицей нёба новорожденного). Так однажды к (Пророку ﷺ) принесли мальчика, который помочился (на его одежду). Тогда он попросил принести воды и полил на (следы этой) мочи, не став стирать её
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>662</td></tr><tr><td>Arabic No</td><td>286.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 128</td></tr></tbody></table></div>
 

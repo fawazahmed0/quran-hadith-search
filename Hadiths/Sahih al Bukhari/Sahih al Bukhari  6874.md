@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Whoever carries arms against us, is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam bersabda; "Barangsiapa yang menghunuskan kepada kami, maka bukan golongan kami." Abu Musa meriwayatkannya dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6874</td></tr><tr><td>Arabic No</td><td>6874</td></tr><tr><td>Reference</td><td>Book 87 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Не относится к нам тот, кто поднял на нас оружие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6874</td></tr><tr><td>Arabic No</td><td>6874</td></tr><tr><td>Reference</td><td>Book 87 Hadith 13</td></tr></tbody></table></div>
 

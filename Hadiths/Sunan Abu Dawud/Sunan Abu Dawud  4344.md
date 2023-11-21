@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: The best fighting (jihad) i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubadah Al Wasithi] berkata, telah menceritakan kepada kami [Yazid] -makasudnya Yazid bin Harun- berkata, telah mengabarkan kepada kami [Isra'il] berkata, telah menceritakan kepada kami [Muhammad bin Juhadah] dari [Athiyah Al 'Aufi] dari [Abu Sa'id Al Khudri] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jihad yang paling utama adalah menyampaikan kebenaran kepada penguasa yang dhalim, atau pemimpin yang dhalim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4344</td></tr><tr><td>Arabic No</td><td>4344</td></tr><tr><td>Reference</td><td>Book 39 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Лучший джихад справедливое слово, сказанное при несправедливом правителе (или: несправедливом предводителе)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4344</td></tr><tr><td>Arabic No</td><td>4344</td></tr><tr><td>Reference</td><td>Book 39 Hadith 54</td></tr></tbody></table></div>
 

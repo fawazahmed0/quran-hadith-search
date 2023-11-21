@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: When we came out from Mecca, Hamzah's daughter pursue
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2280</td></tr><tr><td>Arabic No</td><td>2280</td></tr><tr><td>Reference</td><td>Book 13 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал ‘Али, да будет доволен им Аллах: «Когда мы покидали Мекку, за нами побежала дочь Хамзы, крича: “Дядя! Дядя!”» ‘Али принял её, взял за руку, и сказал (Фатиме): “Возьми дочь дяди твоего”. И она взяла её. И он пересказал эту историю и упомянул о том, что Джа‘фар сказал: «Она дочь и моего дяди, и я женат на её тётке по матери». И Пророк ﷺ отдал её тётке со стороны матери, сказав: «Тётя по матери подобна матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2280</td></tr><tr><td>Arabic No</td><td>2280</td></tr><tr><td>Reference</td><td>Book 13 Hadith 106</td></tr></tbody></table></div>
 

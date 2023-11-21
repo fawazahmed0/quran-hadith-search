@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), le Prophète (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata; telah mengabarkan kepada kami [Al Laits] dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Nafi'] dari [Abdullah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah membakar dan menebang kebun kurma milik (Yahudi) Bani Nadlir di Buwairah, lalu Allah Azza Wa Jalla menurunkan ayat: '(Apa saja yang kamu tebang dari pohon kurma (milik orang-orang kafir) atau yang kamu biarkan (tumbuh) berdiri di atas pokoknya, maka (semua itu) adalah dengan izin Allah; dan Karena dia hendak memberikan kehinaan kepada orang-orang fasik) ' (Qs. Al Hasyr:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>1746.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>1746.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 33</td></tr></tbody></table></div>
 

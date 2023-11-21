@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa reported it from 'A'isha that she observed:The Messenger of Allah (ﷺ) inc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Hisyam] telah mengabarkan kepada kami [Urwah] dari [Aisyah] bahwa dia berkata, "Rasulullah shallallahu 'alaihi wasallam mendekatkan kepalanya kepadaku yang saat itu aku berada di kamarku, lalu aku menyisir rambutnya mekipun dalam keadaan haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>687</td></tr><tr><td>Arabic No</td><td>297.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ’Аиша сказала: «Посланник Аллаха ﷺ просовывал свою голову, когда я находилась в своей комнате, и я причёсывала его, хотя у меня были месячные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>687</td></tr><tr><td>Arabic No</td><td>297.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 9</td></tr></tbody></table></div>
 

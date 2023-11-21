@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yusayr Ibn 'Amr a demandé à Sahl Ibn Hunayf s'il avait entendu le Prophète (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Asy Syaibani] dari [Yusair bin Amru] ia berkata, saya bertanya kepada [Sah bin Hunaif], "Apakah Anda pernah mendengar Nabi shallallahu 'alaihi wasallam menyebutkan tentang Khawarij?" ia pun menjawab; Saya telah mendengar beliau -Ia sambil memberi isyarat ke arah Timur- bersabda: "Mereka adalah suatu kaum yang pandai membaca Al Qur'an dengan lisan-lisan mereka, namun bacaan mereka tidak sampai melampaui kerongkongan mereka. mereka keluar dari Islam, sebagai meluncurnya anak panah dari busurnya." Dan telah menceritakannya kepada kami [Abu Kamil] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Sulaiman Asy Syaibani] dengan isnad ini, dan ia mengatakan; "Akan keluar darinya beberapa kaum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2470</td></tr><tr><td>Arabic No</td><td>1068.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Юсейр ибн ‘Амр рассказывал: «(Однажды) я спросил Сахля ибн Хунайфа: “Слышал ли ты, как Пророк ﷺ говорил что-нибудь о хариджитах?” Он ответил: “Я слышал, как он говорил, указав рукой в сторону востока: “(Там появятся) люди, которые станут читать Коран, однако он не выйдет за пределы их ключиц, они вылетят из ислама подобно тому, как стрела вылетает через дичь (пробив её насквозь)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2470</td></tr><tr><td>Arabic No</td><td>1068.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 207</td></tr></tbody></table></div>
 

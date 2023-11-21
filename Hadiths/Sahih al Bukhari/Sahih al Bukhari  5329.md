@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When Allah's Messenger (ﷺ) decided to leave Mecca after the Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam hendak nafar (kembali dari Muzdalifah ke Madinah), dan tiba-tiba Shafiyya berdiri di depan pintu tendanya dengan penuh kesedihan. Maka beliau pun bersabda padanya: "Uhh,,, sesungguhnya kamu benar-benar telah menahan kami. Apakah kamu telah melakukan thawaf di hari kurban?" Ia menjawab, "Ya." Beliau bersabda: "Kalau begitu, maka berangkatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5329</td></tr><tr><td>Arabic No</td><td>5329</td></tr><tr><td>Reference</td><td>Book 68 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «Когда Посланник Аллаха ﷺ решил отправиться в путь (из Мекки в Медину, совершив хадж), он увидел Сафию, которая была грустна и стояла у входа в палатку. Он сказал ей: “Да сделает тебя Аллах безродной (или: “Да сделает Аллах твой народ без потомства”)!” Или: “Да лишит Аллах тебя волос (или: “Да погубит Аллах твой народ”)! Ты задержишь нас! Совершила ли ты обход вокруг Каабы /таваф аль-ифада/ в День жертвоприношения?” Она ответила: “Да”. Он сказал: “Тогда отправляйся!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5329</td></tr><tr><td>Arabic No</td><td>5329</td></tr><tr><td>Reference</td><td>Book 68 Hadith 74</td></tr></tbody></table></div>
 

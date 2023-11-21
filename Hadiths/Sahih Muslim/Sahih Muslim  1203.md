@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazîd Ibn Al-'Arqam (que Dieu l'agrée) a dit : Pendant la prière, nous parlio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Ismail bin Abi Khalid] dari [al-Harits bin Syubail] dari [Abu Amru asy-Syaibani] dari [Zaid bin Arqam] dia berkata, "Dahulu kami bercakap-cakap dalam shalat. Seorang laki-laki bercakap-cakap dengan teman di sampingnya dalam keadaan shalat, hingga turun ayat, '...Shalatlah kamu karena Allah dengan khusyu'. (Al-Baqarah: 238). Lalu kami disuruh diam, dan dilarang bercakap-cakap'." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Waki'] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] mereka meriwayatkan dari [Ismail bin Abi Khalid] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1203</td></tr><tr><td>Arabic No</td><td>539.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зайд ибн Аркам сказал: «(Сначала) мы обычно разговаривали во время молитвы, и (каждый мог) разговаривать со своим товарищем, который находился рядом. (Так продолжалось до тех пор), пока не был ниспослан (аят, где сказано): “…И стойте пред Аллахом смиренно” (Сура «аль-Бакъара», аят 238), после чего нам было велено хранить молчание и запрещено вести разговоры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1203</td></tr><tr><td>Arabic No</td><td>539.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 43</td></tr></tbody></table></div>
 

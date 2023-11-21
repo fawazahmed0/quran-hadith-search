@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah: The Prophet (ﷺ) said: Do not ride on silk stuff and panthe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] dari [Waki'] dari [Abu Al Mu'tamir] dari [Ibnu Sirin] dari [Mu'awiyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mengendarai dengan pelana dari sutera dan kulit harimau." Ia berkata, "Mu'awiyah bukan termasuk orang-orang yang dituduh sebagai orang yang membuat-buat hadits dari Rasulullah shallallahu 'alaihi wasallam." Abu Sa'id berkata kepada kami, "Abu Dawud berkata kepada kami, "Abu Al Mu'tamir nama aslinya adalah Yazid bin Thahman, ia pernah singgah di daerah Al Hiyarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4129</td></tr><tr><td>Arabic No</td><td>4129</td></tr><tr><td>Reference</td><td>Book 34 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘авии, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Не ездите на шёлке и леопардовых шкурах». (Передатчик) сказал: «А Му‘авия был вне подозрений в том, что касалось передачи хадисов Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4129</td></tr><tr><td>Arabic No</td><td>4129</td></tr><tr><td>Reference</td><td>Book 34 Hadith 110</td></tr></tbody></table></div>
 

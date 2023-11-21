@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Haraira reported Allah's Messenger (ﷺ) as saying:Your oath should be about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan ['Amru An Naqid], [Yahya] berkata; telah mengabarkan kepada kami [Husyaim bin Basyir] dari [Abdullah bin Abu Shalih] dari [Ayahnya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sumpahmu adalah sesuatu yang dapat meyakinkan sahabatmu." Dan 'Amru mengatakan, "Yaitu yang dapat meyakinkan sahabatmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4283</td></tr><tr><td>Arabic No</td><td>1653.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4283</td></tr><tr><td>Arabic No</td><td>1653.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 30</td></tr></tbody></table></div>
 

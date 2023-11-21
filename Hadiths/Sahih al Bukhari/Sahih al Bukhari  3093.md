@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(mother of the believers) After the death of Allah 's Apostle Fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] berkata telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah, Ummul Mu'minin radliallahu 'anha] mengabarkan kepadanya bahwa Fathimah Alaihimassalam, putri Rasulullah Shallallahu'alaiwasallam meminta kepada [Abu Bakr ash-Shiddiq] setelah wafatnya Rasulullah Shallallahu'alaiwasallam agar membagi untuknya bagian harta warisan yang ditinggalkan Rasulullah Shallallahu'alaiwasallam dari harta fa'i yang Allah karuniakan kepada Beliau. Abu Bakr katakan; " Rasulullah Shallallahu'alaiwasallam telah bersabda: "Kami tidak mewariskan dan apa yang kami tinggalkan semuanya sebagai shadaqah". Maka Fathimah binti Rasulullah Shallallahu'alaiwasallam marah dan tidak menegur Abu Bakr setelah itu hingga dia wafat. Fathimah hidup setelah kepergian Rasulullah Shallallahu'alaiwasallam selama enam bulan". 'Aisyah radliallahu 'anha berkata; "Fathimah pernah meminta Abu Bakr bagian dari harta yang ditinggalkan Rasulullah Shallallahu'alaiwasallam berupa tanah di Khaibar dan di Fadak (nama tempat, dekat Madinah) dan shadaqah Beliau di Madinah namun Abu Bakr mengabaikannya dan berkata; "Aku bukanlah orang yang meninggalkan apapun yang pernah dikerjakan Rasulullah Shallallahu'alaiwasallam melainkan aku akan selalu mengerjakannya. Sungguh aku takut menjadi sesat jika meninggalkan apa yang diperintahkan Beliau. Adapun shadaqah Beliau di Madinah telah diberikan oleh 'Umar kepada 'Ali dan 'Abbas sementara tanah di Khaibar dan Fadak telah dipertahankan oleh 'Umar dan mengatakannya bahwa keduanya adalah shadaqah Rasulullah Shallallahu'alaiwasallam yang hak-haknya akan diberikan kepada yang mengurus dan mendiaminya sedangkan urusannya berada dibawah keputusan pemimpin". Abu Bakar berkata; "Dan keadaannya tetap seperti itu hingga hari ini". Berkata Abu 'Abdullah Al Bukhariy; Kata ta'ruu diatas seperti dalam firman Allah QS Yunus ayat 54 yang berbunyi I'tarooka diambil sebagai pola "ifta'alta" berasal dari kata 'Aroutuhu yang ashobtuhu (aku mendapatkannya). Seperti juga pola kata ya'ruuhu dan I'tarooniii
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3093</td></tr><tr><td>Arabic No</td><td>3093</td></tr><tr><td>Reference</td><td>Book 57 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Однако Абу Бакр сказал ей: «Поистине, Посланник Аллаха ﷺ сказал: “Мы не оставляем наследства. Всё, что мы оставляем, является милостыней”». Тогда Фатыма, дочь Посланника Аллаха ﷺ рассердилась, оставила Абу Бакра и не разговаривала с ним до самой смерти. Она жила после смерти Посланника Аллаха ﷺ шесть месяцев.\n‘Аиша сказала: «Фатыма просила Абу Бакра отдать ей её долю из того, что оставил Посланник Аллаха ﷺ из имущества Хайбара, Фадака и его милостыню в Медине. Однако Абу Бакр отказал ей в этом, сказав: “Не стану я оставлять ничего из того, что делал Посланник Аллаха ﷺ. Поистине, я боюсь, что если оставлю что-то из его дела, то собьюсь с прямого пути”. Что же касается имущества в Медине, которое считалось милостыней, то ‘Умар отдал его в распоряжение ‘Али и аль-‘Аббасу. Что же касается Хайбара и Фадака, то ‘Умар удержал их, сказав: “Это милостыня Посланника Аллаха ﷺ, которая доставалась ему по праву и помогала ему преодолевать трудности, и этим имуществом должен распоряжаться правитель”». \nАз-Зухри сказал: «И в таком положении они (Хайбар и Фадак) остались и по сей день (в распоряжении правителя)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3093</td></tr><tr><td>Arabic No</td><td>3093</td></tr><tr><td>Reference</td><td>Book 57 Hadith 2</td></tr></tbody></table></div>
 

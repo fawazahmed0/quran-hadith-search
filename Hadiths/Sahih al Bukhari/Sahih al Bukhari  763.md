@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(My mother) Umu-l-Fadl heard me reciting "Wal Mursalati 'Urf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] dari [Ibnu 'Abbas? radliallahu 'anhu] dia mengatakan bahwa [Ummu Al Fadll] pernah mendengarnya membaca Wal mursalaati 'urfa. Maka Ummu Al Fadll pun berkata, "Wahai ananda, bacaan surahmu ini telah mengingatkan aku. Sungguh itu adalah surah terakhir yang aku dengar dibaca oleh Rasulullah shallallahu 'alaihi wasallam ketika beliau membacanya pada shalat Maghrib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>763</td></tr><tr><td>Reference</td><td>Book 10 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убайдуллаха ибн ‘Абдуллаха ибн ‘Утбы о том, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал, что когда (его мать) Умм аль-Фадль услышала, как он читает «Клянусь посылаемыми поочерёдно…», она сказала: «О сынок, клянусь Аллахом, чтением этой суры ты напомнил мне, что она была последним, что я слышала от Посланника Аллаха ﷺ, читавшего её во время закатной молитвы /магъриб/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>763</td></tr><tr><td>Reference</td><td>Book 10 Hadith 157</td></tr></tbody></table></div>
 

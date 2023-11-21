@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Umar: (Later on) Allah's Messenger (ﷺ) (once again) went along wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Masih dari jalur periwayatan yang sama dengan hadits sebelumnya), [Ibnu 'Umar] radliallahu 'anhuma berkata; Rasulullah Shallallahu'alaiwasallam dan Ubay bin Ka'ab berangkat mendatangi pohon kurma tempat Ibnu Shayyad berada disana hingga ketika beliau memasuki kebun kurma itu, Nabi Shallallahu'alaihiwasallam mulai mendekati batang pohon kurma dengan sembunyi-sembunyi karena Beliau ingin mendengar sesuatu dari Ibnu Shayyad sebelum dia melihat Beliau. Saat itu Ibnu Shayyad sedang berbaring di atas tikarnya dengan mengenakan baju yang lebar dan terdengar suara yang tidak dapat dipahami. Ternyata ibu Ibnu Shayyad melihat Nabi Shallallahu'alaihiwasallam sedang bersembunyi di balik pohon, lalu dia (ibu Ibn Shayyad) memanggil Ibnu Shayyad; "Hai Shaf", ini adalah nama asli dari Ibnu Shayyad. Ibn Shoyyad pun beranjak. Spontan Nabi Shallallahu'alaihiwasallam berkata: "Seandainya dia membiarkannya pasti akan jelas terbukti". (maksudnya membiarkan Ibn Shayyad dalam tidurnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3056</td></tr><tr><td>Arabic No</td><td>3056</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, (также) сказал: «(Однажды) Пророк ﷺ в сопровождении Убаййа ибн Ка‘ба пошёл в пальмовую рощу, где находился Ибн Саййад. Зайдя к нему, Посланник Аллаха ﷺ начал прятаться за стволами пальм, чтобы услышать что-нибудь, сказанное Ибн Саййадом, прежде чем тот заметит его, (и он увидел, что) Ибн Саййад лежит на кровати, укрывшись куском ткани, из-под которой доносились его бормотания. Мать Ибн Саййада увидела Пророка ﷺ, прятавшегося за стволами пальм, и окликнула Ибн Саййада: “О Саф (Такое у него было имя)!”, после чего Ибн Саййад вскочил со своего места, а Пророк ﷺ сказал: “Если бы она не побеспокоила его, он проявил бы себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3056</td></tr><tr><td>Arabic No</td><td>3056</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

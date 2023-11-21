@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma' reported:I performed the household duties of Zubair and he had a horse; I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Ghurbari]; Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Ibnu Abu Mulaikah] bahwa [Asma'] berkata; Aku membantu suamiku Zubair dalam urusan pekerjaan di rumah. Dia memiliki sesekor kuda, dan akulah yang merawatnya. Tidak ada yang lebih berat bagiku untuk membantunya selain merawat seekor kuda. Akulah yang mencarikan rumputnya dan membersihkannya. (perawi) berkata; kemudian pada suatu ketika dia mendapatkan seorang pembantu -dia adalah tawanan yang datang kepada Nabi shallallahu 'alaihi wasallam.- lalu nabi memberikannya kepada Asma' sebagai pembantu. Asma' berkata; dia telah membantuku merawat seekor kuda hingga akhirnya telah meringankanku. Pada suatu ketika seorang laki-laki datang kepadaku seraya berkata; wahai Ummu Abdullah! Aku ini seorang yang fakir, bolehkah aku berjualan di bawah naungan atap rumahmu? Asma' menjawab; jika suamiku, Zubair mengizinkanmu Maka datanglah kembali, ketika Zubair sudah ada di rumah. pada saat yang lain orang itu datang kembali seraya berkata; 'Wahai Ummu Abdullah, aku ini seorang yang fakir, aku ingin berjualan di bawah naungan rumahmu maka izinkanlah! Asma' menjawab; 'Ada apa denganmu, apakah di Madinah ini tidak ada rumah lagi selain rumahku? Mendengar hal itu Zubair berkata kepada Asma'; kenapa kamu melarang seorang yang fakir berjualan? Akhirnya orang tersebut berjualan hingga mendapatkan hasilnya. Akupun bisa menjual kepadanya seorang budak. Hingga pada suatu ketika Zubair berkata kepadaku menanyakan uang hasil penjualannya yang pernah aku simpan. Zubair berkata; berikanlah uang itu padaku. Lalu Asma' menjawab; 'Aku telah menginfakkan uang tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5693</td></tr><tr><td>Arabic No</td><td>2182.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5693</td></tr><tr><td>Arabic No</td><td>2182.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 47</td></tr></tbody></table></div>
 

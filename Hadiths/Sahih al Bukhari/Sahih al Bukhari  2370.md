@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sab bin Jath-thama:Allah's Messenger (ﷺ) said, No Hima except for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa [Ash Sha'ba bin Jutsamah] berkata; Bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Tidak ada himaa kecuali kepada Allah dan RasulNya". Yahya berkata; Telah sampai kepada kami bahwa Nabi shallallahu 'alaihi wasallam pernah menetapkan himaa di Naqi' sedang 'Umar pernah menetapkan hima di As-Saraf dan Ar-Rabdzah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2370</td></tr><tr><td>Arabic No</td><td>2370</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ас-Са‘ба бин Джассама, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Заповедным может являться лишь то, что принадлежит Аллаху и Его посланнику»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2370</td></tr><tr><td>Arabic No</td><td>2370</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 

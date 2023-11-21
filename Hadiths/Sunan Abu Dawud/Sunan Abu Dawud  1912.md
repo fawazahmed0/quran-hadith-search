@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Ibrahim], telah menceritakan kepada Kami [Ishaq Al Azraq] dari [Sufyan] dari [Abdul Aziz bin Rafi'], ia berkata; saya bertanya kepada [Anas bin Malik], aku katakan; beritahukan kepadaku sesuatu yang engkau ketahui dari Rasulullah shallAllahu wa'alaihi wa sallam, dimana beliau melakukan Shalat Zhuhur pada Hari Tarwiyah?! Ia berkata; di Mina. Aku katakan; dimanakah beliau melakukan Shalat 'Ashar pada Hari Nafar? Ia berkata; Di Abthah. Kemudian ia berkata; lakukan seperti yang dilakukan para pemimpin kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1763) Sahih Muslim (1309)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1912</td></tr><tr><td>Arabic No</td><td>1912</td></tr><tr><td>Reference</td><td>Book 11 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуль‘азиз ибн Руфаййи‘ передаёт: «Я спросил Анаса ибн Малика: “Скажи мне кое-что из того, что должно быть известно тебе о Посланнике Аллаха ﷺ: где он совершал полуденную молитву (зухр) в восьмой день месяца зуль-хиджжа (йаум ат-тарвийа)?” Он ответил: “В Мине”. Я спросил: “А где он совершал послеполуденную молитву (‘аср) в день возвращения?” Он ответил: “Абтах”, и добавил: “Поступай, как поступают твои предводители”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1763) Sahih Muslim (1309)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1912</td></tr><tr><td>Arabic No</td><td>1912</td></tr><tr><td>Reference</td><td>Book 11 Hadith 192</td></tr></tbody></table></div>
 

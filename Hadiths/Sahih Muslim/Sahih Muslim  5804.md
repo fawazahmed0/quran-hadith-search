@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), le Prophète (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Malik bin Anas]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca atas [Malik] dari [Ibnu Syihab] dari [Hamzah] dan [Salim Ibnu 'Abdullah bin 'Umar] dari ['Abdullah bin 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: Terkadang pengaruh jahat (kecelakaan atau kesialan) itu terdapat pada tiga perkara: "Di dalam rumah tangga, dalam diri wanita, dan pada kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5804</td></tr><tr><td>Arabic No</td><td>2225.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5804</td></tr><tr><td>Arabic No</td><td>2225.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 156</td></tr></tbody></table></div>
 

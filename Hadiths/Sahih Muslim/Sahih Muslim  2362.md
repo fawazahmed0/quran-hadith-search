@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:A man expressed his intenti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suwaid bin Sa'id] telah menceritakan kepadaku [Hafsh bin Maisarah] dari dari [Musa bin Uqbah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada seorang laki-laki berkata, 'Malam ini, aku benar-benar akan bersedekah.' Maka laki-laki itu pun keluar membawa sedekahnya, dan disedekahkannya kepada wanita pelacur. Esok harinya, orang-orang pun mengatakan bahwa tadi malam ada pelacur yang diberi sedekah. Maka laki-laki itu berdoa, 'Ya Allah, segala puji bagi-Mu yang telah mentakdirkan sedekahku jatuh di tangan pelacur. Aku akan bersedekah lagi.' Ia pun pergi dengan membawa sedekahnya, lalu diberikannya kepada orang kaya. Esok harinya, orang-orang pun membicarakannya bahwa tadi malam ada orang yang memberi sedekah kepada orang kaya. Maka laki-laki itu pun berkata, 'Ya Allah, Untuk-Mulah segala puji, karena Engkau telah menjadikan sedekahku jatuh di tangan orang yang kaya, aku akan bersedekah lagi.' Kemudian ia pergi lagi dengan membawa sedekahnya dan diberikannya kepada pencuri. Esok harinya, orang-orang pun membicarakannya, bahwa tadi malam ada orang yang bersedekah kepada pencuri. Laki-laki yang bersedekah itu pun berujar, 'Segala puji bagi Allah yang telah mentakdirkan sedekahku jatuh pada pelacur, kepada orang kaya, dan kepada pencuri.' Kemudian laki-laki itu didatangi malaikat seraya berkata, 'Sedekahmu telah diterima oleh Allah. Adapun shadaqahmu yang jatuh ke tangan perempuan pelacur, semoga ia berhenti dari perbuatan melacur, yang jatuh kepada orang kaya semoga dia menyadari dirinya dan bersedekah pula, sedangkan yang jatuh kepada si pencuri, semoga ia berhenti mencuri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>1022</td></tr><tr><td>Reference</td><td>Book 12 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «(Однажды) некий человек сказал: “Этой ночью я непременно раздам милостыню”, после чего вышел со своей милостыней и вложил её в руку блуднице. Утром люди стали говорить: “Этой ночью милостыня была подана блуднице”. Этот человек сказал: “О Аллах! Хвала Тебе, (я подал милостыню) блуднице. Я непременно раздам милостыню (ещё раз)”. (После этого) он вышел со своей милостыней и вложил её в руку богачу. Утром люди стали говорить: “Этой ночью милостыня была подана богачу”. Этот человек сказал: “О Аллах! Хвала Тебе, (я подал милостыню) богачу. Я непременно раздам милостыню (ещё раз)”.(После этого) он вышел со своей милостыней и вложил её в руку вору. Утром люди стали говорить: “Этой ночью милостыня была подана вору”. Этот человек сказал: “О Аллах! Хвала Тебе, (я подал милостыню) блуднице, богачу и вору”.Тогда некто пришёл к нему и сказал: “Что касается твоей милостыни, то она принята. Что касается блудницы, то, может быть, посредством этого она воздержится от прелюбодеяния. И может богач извлечёт урок и начнёт расходовать из того, что даровал ему Аллах. И может быть вор, посредством этого воздержится от воровства”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>1022</td></tr><tr><td>Reference</td><td>Book 12 Hadith 99</td></tr></tbody></table></div>
 

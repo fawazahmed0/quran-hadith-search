@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:The men used to pray with the Prophet (ﷺ) with their Izars tied 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] berkata, telah menceritakan kepadaku [Abu Hazim] dari [Sahal bin Sa'd] berkata, "Kaum laki-laki shalat bersama Nabi shallallahu 'alaihi wasallam dengan mengikatkan kain pada leher-leher mereka seperti bayi. Lalu dikatakan kepada kaum wanita: "Janganlah kalian mengangkat kepala kalian hingga para laki-laki telah duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>362</td></tr><tr><td>Reference</td><td>Book 8 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль, да будет доволен им Аллах, сказал: «Обычно (некоторые) мужчины молились вместе с Пророком ﷺ завязывая (края) своих изаров на шеях подобно тому, как это делают мальчики, и поэтому (Пророк ﷺ) говорил женщинам: “Не поднимайте голов до тех пор, пока мужчины не усядутся и не выпрямятся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>362</td></tr><tr><td>Reference</td><td>Book 8 Hadith 14</td></tr></tbody></table></div>
 

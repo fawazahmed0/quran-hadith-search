@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah, or one of the Companion of the Prophet: Bilal began the Iqam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud Al-Ataki] telah menceritakan kepada kami [Muhammad bin Tsabit] telah menceritakan kepadaku [seorang lelaki dari ahli Syam] dari [Syahr bin Hausyab] dari [Abu Umamah] atau dari sebagian sahabat Rasulullah Shallallahu alaihi wasallam, bahwasanya Bilal mengumandangkan iqamat, maka ketika sampai pada kalimat qad qamatishshalah, Nabi shallallahu 'alaihi wasallam bersabda: "Aqamahallahu waadamaha (mudah-mudahan Allah menegakkannya dan mengekalkannya) ", dan beliau jawab dalam keseluruhan iqamatnya sebagaimana hadits Umar Radhiyallahu'anhu dalam masalah adzan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>528</td></tr><tr><td>Arabic No</td><td>528</td></tr><tr><td>Reference</td><td>Book 2 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Умамы или от некоторых из сподвижников Пророка ﷺ о том, что (однажды) Билял начал произносить икаму, и когда он дошел до слов «къад къамати-с-саляту», Пророк ﷺ сказал: «Да утвердит её Аллах и увековечит!»/Акъамахал-Лах ва адамаха/.И далее во время (произношения) остальной части икъамы он сказал то, о чём говорится в хадисе Умара, да будет доволен им Аллах, об азане
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>528</td></tr><tr><td>Arabic No</td><td>528</td></tr><tr><td>Reference</td><td>Book 2 Hadith 138</td></tr></tbody></table></div>
 

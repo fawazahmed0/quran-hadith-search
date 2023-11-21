@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Two men left the Prophet (ﷺ) on a very dark night. Suddenly a li
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin Muslim] telah bercerita kepada kami [Habban bin Hilal] telah bercerita kepada kami [Hammam] telah mengabarkan kepada kami [Qatadah] dari [Anas radliallahu 'anhu] bahwa ada dua orang laki-laki keluar dari (rumah) Nabi shallallahu 'alaihi wasallam di tengah malam yang gelap gulita dan (ajaibnya) pada kedua tangan keduanya memancar cahaya yang menyertai keduanya hingga ketika keduanya berpisah cahaya tersebut menjadi dua, mengikuti masing-masing kedua orang tersebut. Dan berkata [Ma'mar] dari [Tsabit] dari [Anas] bahwa Usaid bin Hudlair berserta dua orang dari kaum Anshar. Dan berkata [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Anas] bahwa Usaid bin Hudlair dan 'Abbad bin Bisyir bersama Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3805</td></tr><tr><td>Arabic No</td><td>3805</td></tr><tr><td>Reference</td><td>Book 63 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах, что (однажды, когда) два человека (из числа сподвижников Пророка ﷺ) вышли от него тёмной ночью, внезапно перед ними появился свет, а когда они расстались, свет остался с каждым из них. \nСообщается со слов Анаса, что этими двумя людьми были Усайд ибн Худайр и ‘Аббад ибн Бишр
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3805</td></tr><tr><td>Arabic No</td><td>3805</td></tr><tr><td>Reference</td><td>Book 63 Hadith 30</td></tr></tbody></table></div>
 

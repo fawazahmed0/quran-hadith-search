@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The following Holy Verse:-- "These two opponents (believers and di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Ash Shawwaf] telah menceritakan kepada kami [Yusuf bin Ya'qub, dia pernah menetap tinggal di Bani Dlubai'ah, dia adalah maula Bani Sudus] telah menceritakan kepada kami [Sulaiman at-Taymiy] dari [Abu Mijlaz] dari [Qais bin 'Ubad] berkata, ['Ali] radliallahu 'anhu berkata; "Ayat ini turun tentang kami, yaitu QS al-Hajj ayat 19. yang artinya; "Inilah dua golongan (Mu'min dan kafir) yang bertengkar, mereka saling bertengkar mengenai Rabb mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>3967</td></tr><tr><td>Reference</td><td>Book 64 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Кайса ибн ‘Убада, что ‘Али, да будет доволен им Аллах, сказал: «Этот аят был ниспослан относительно нас: “Вот две тяжущиеся группы, которые препирались относительно своего Господа” (сура “аль-Хадж”, аят 19)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>3967</td></tr><tr><td>Reference</td><td>Book 64 Hadith 20</td></tr></tbody></table></div>
 

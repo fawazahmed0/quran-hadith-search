@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Ahnaf bin Qais:While I was sitting with some people from Quraish, a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy] telah menceritakan kepada kami ['Abdul A'laa] telah menceritakan kepada kami [Al Jurairiy] dari [Abu Al 'Alaa'] dari [Al Ahnaf bin Qais] berkata; Aku duduk bermajelis. Dan juga diriwayatkan, telah menceritakan kepada saya [Ishaq bin Manshur] telah mengabarkan kepada kami ['Abdush Shamad] berkata, telah menceritakan kepadaku [bapakku] telah menceritakan kepada kami [Al Jurairiy] telah menceritakan kepada kami [Abu Al 'Alaa' bin Asy-Syikhkhir] bahwa [Al Ahnaf bin Qais] menceritakan kepada mereka, katanya: Aku duduk bersama para pembesar orang-orang Quraisy kemudian datanglah [seseorang] yang rambut pakaian dan penampilannya berantakan hingga ia berdiri diantara mereka lalu ia mengucapkan salam dan berkata,: "Berilah kabar gembira kepada orang-orang yang menimbun hartanya dengan batu yang diseterikakan kepadanya di neraka Jahannam, lalu diletakkan pada daerah (susu) nya diantara mereka hingga ia keluar dari ujung tulang pundaknya, lalu diletakkan pada ujung tulang pundaknya hingga ia keluar pada bagian (susu) nya hingga ia berguncang. Kemudian orang itu pergi lalu duduk bersandar pada tiang. Aku mengikutinya lalu duduk disampingnya, sedangkan aku tidak mengenali siapa dia. Kemudian aku berkata, kepadanya: "Aku tidak melihat orang-orang itu kecuali mereka membenci apa yang engkau katakan". Dia menjawab: "Sesungguhnya mereka itu tidak berakal sama sekali, perkataanku tadi itu seperti yang dikatakan kekasihku". Dia (Al Ahnaf bin Qais) berkata; Aku bertanya: "Siapa kekasihmu itu?". Dia menjawab: "Nabi Shallallahu'alaihiwasallam, yang Beliau pernah berkata kepadaku: "Wahai Abu Dzar, apakah engkau melihat Uhud?". Dia (Al Ahnaf bin Qais) berkata,: "Maka aku memandang matahari yang ternyata masih siang hari, dan aku melihat bahwa Rasulullah Shallallahu'alaihiwasallam berkehendak mengutusku untuk memenuhi keperluannya. Maka aku menjawab: "Ya, siap". Lalu Beliau bersabda: "Aku tidak menyukai bila aku memiliki emas sebesar gunung Uhud lalu aku membelanjakannya semua kecuali tiga dinar saja (yang aku suka memilikinya) ". Dan sungguh mereka tidak berakal sama sekali, yang mereka hanya mengumpulkan dunia. Tidak, demi Allah aku tidak akan meminta dunia kepada mereka, dan aku tidak akan memberikan fatwa agama ini untuk mereka hingga aku menemui Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1408</td></tr><tr><td>Arabic No</td><td>1408</td></tr><tr><td>Reference</td><td>Book 24 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+хотя мой друг сказал мне…”. Я спросил: “Кто твой друг?” Он ответил: “Пророк ﷺ сказал (мне): “О Абу Зарр! Видишь гору Ухуд?” Тогда я (Абу Зарр) начал смотреть на солнце, чтобы рассчитать, сколько осталось до конца дня, так как я думал, что Посланник Аллаха ﷺ хочет послать меня сделать что-то для него, и я сказал: “Да!” Он сказал: “Я не хотел бы иметь золото, равное горе Ухуд, если я не потрачу его полностью (на пути Аллаха), кроме трех динаров”. Эти люди не понимают, и лишь собирают мирские богатства. Нет, клянусь Аллахом, я не прошу у них мирских благ и не спрашиваю их религиозные решения, пока не встречусь с Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1408</td></tr><tr><td>Arabic No</td><td>1408</td></tr><tr><td>Reference</td><td>Book 24 Hadith 12</td></tr></tbody></table></div>
 

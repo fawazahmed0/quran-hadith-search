@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin 'Amr bin Sa'id bin Al-'Aas:Al-Hajjaj went to Ibn 'Umar while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ya'qub] berkata, telah menceritakan kepadaku [Ishaq bin Sa'id bin Al 'Ash] dari [Bapaknya] berkata, "Al Hajjaj datang menemui Ibnu 'Umar, dan saat itu aku sedang bersamanya. Al Hajjaj lalu bertanya, "Bagaimana keadaannya?" Ibnu 'Umar menjawab, "Baik." Al Hajjaj bertanya lagi, "Siapa yang melukaimu?" [Ibnu 'Umar] menjawab, 'Yang melukai aku adalah orang yang memerintahkan membawa senjata pada suatu hari yang mana pada hari itu dilarang membawanya.' Yaitu Al Hajjaj
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>967</td></tr><tr><td>Reference</td><td>Book 13 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Исхака бин Са‘ид бин ‘Амр бин Са‘ид бин Аль-‘Ас, что его отец рассказал, что аль-Хаджадж зашел к Ибн ‘Умару, когда я находился у него. Аль-Хаджадж спросил: «Как он?» Ибн ‘Умар ответил: «Я в порядке». Аль-Хаджадж спросил: «Кто тебя ранил?» Ибн ‘Умар ответил: «Меня ранил тот, кто разрешил носить оружие в тот день, когда было запрещено его носить», — имея в виду аль-Хаджаджа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>967</td></tr><tr><td>Reference</td><td>Book 13 Hadith 16</td></tr></tbody></table></div>
 

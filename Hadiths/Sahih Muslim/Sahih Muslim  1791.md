@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I slept (one night) in the house of Maimuna, the wife of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] Telah menceritakan kepada kami [Amru] dari [Abdu Rabbih bin Sa'id] dari [Makhramah bin Sulaiman] dari [Kuraib] Maula Ibnu Abbas, dari [Ibnu Abbas] bahwa ia berkata; "Saya pernah menginap di rumah Maimunah, isteri Nabi shallallahu 'alaihi wasallam, sementara pada malam itu Rasulullah shallallahu 'alaihi wasallam bermalam di rumahnya. Kemudian Rasulullah shallallahu 'alaihi wasallam berwudlu lalu berdiri dan shalat. Maka saya pun berdiri (shalat) di samping kirinya, lalu beliau memegangku dan meletakkanku di sebelah kanannya. Pada malam itu, beliau shalat sebanyak tiga belas raka'at. Sesudah itu, Rasulullah shallallahu 'alaihi wasallam tidur hingga beliau mendengkur. Memang, jika tidur beliau mendengkur. Kemudian seorang muadzin pun mendatangi beliau (untuk mengumandangkan adzan), hingga beliau keluar dan menunaikan shalat dengan tidak berwudlu lagi." [Amru] berkata; Saya menceritakannya kepada [Bukair bin Al Asyaj], ia berkata, telah menceritakan kepadaku [Kuraib] dengan hadits itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>763.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «(Однажды) я заночевал у (своей тётки) Маймуны, жены Пророка ﷺ, когда у неё находился и он. Совершив омовение, Посланник Аллаха ﷺ встал для совершения молитвы, а я встал слева от него, но он поставил меня справа, после чего совершил молитву в тринадцать рак‘атов. Заснув, Посланник Аллаха ﷺ стал храпеть, ибо во сне он обычно храпел, а потом к нему пришёл муаззин, и он вышел (из дома) и помолился, не совершив омовения (повторно)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>763.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 219</td></tr></tbody></table></div>
 

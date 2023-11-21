@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If somebody keeps a horse in Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin Hafsh] telah bercerita kepada kami [Ibnu Al Mubarak] telah mengabarkan kepada kami [Thalhah bin Abi Sa'id] berkata aku mendengar [Sa'id Al Maqburiy] bercerita bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Barang siapa yang memelihara seekor kuda untuk fii sabilillah karena iman kepada Allah dan membenarkan janji-Nya maka sesungguhnya setiap makanan kuda itu, minumannya, kotorannya dan kencingnya akan menjadi timbangan (kebaikan) baginya pada hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2853</td></tr><tr><td>Arabic No</td><td>2853</td></tr><tr><td>Reference</td><td>Book 56 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “В День воскрешения на весы того, кто держал лошадей на пути Аллаха, веруя в Аллаха и полагаясь на обещанное Им, (будет положено всё то, что) они съедят и выпьют, (а также) их навоз и моча”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2853</td></tr><tr><td>Arabic No</td><td>2853</td></tr><tr><td>Reference</td><td>Book 56 Hadith 69</td></tr></tbody></table></div>
 

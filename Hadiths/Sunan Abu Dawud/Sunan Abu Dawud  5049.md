@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hudhaifah said :when the prophet (May peace be upon him) lay down on his bed (at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abdul Malik bin Umair] dari [Rib'i] dari [Hudzaifah] ia berkata, "Jika Nabi shallallahu 'alaihi wasallam ingin tidur, beliau membaca: "ALLAHUMMA BISMIKA AHYAA WA AMUUT (Ya Allah, dengan nama-Mu aku hidup dan mati)." Dan jika bangun beliau membaca: "Al HAMDULILLAHILADZII AHYAA NAA BA'DAMAA AMAATANAA WA ILAIHIN NUSYUUR (Segala puji bagi Allah yang telah menghidupkan kami setelah kami mati, dan kepadan-Nya kami akan kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6312)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 43 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен Аллах ими обоими, говорил: Когда Посланник Аллаха ﷺ хотел отправиться спать, он обычно говорил: «С именем Твоим, о Аллах, я умру (и с ним) оживу» /Би-сми-кя, Аллахумма, амуту ва ахйа/, а когда просыпался, то говорил: «Хвала Аллаху, воскресившему нас после того, как Он умертвил нас, и к Нему (возвращение после) воскресения!» /Аль-хамду ли-Лляхи аллязи ахйа-на ба‘да ма амата-на ва иляй-хи-н-нушуру
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6312)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 43 Hadith 277</td></tr></tbody></table></div>
 

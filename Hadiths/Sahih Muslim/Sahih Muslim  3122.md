@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh, l'affranchi de Asma, Asma me demanda alors qu'elle était 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] Telah menceritakan kepada kami [Yahya Al Qaththan] dari [Ibnu Juraij] telah menceritakan kepadaku [Abdullah] Maula Asma', ia berkata; [Asma'] bertanya kepadaku ketika dia bermalam di Muzdalifah, "Apakah bulan telah hilang?" Aku menjawab, "Belum." Asma' kemudian shalat sejenak, lalu bertanya kembali, "Hai anakku, apakah bulan telah hilang?" aku menjawab, "Sudah." Asma' berkata, "Mari berangkat bersamaku." Maka kami pun berangkat hingga Asma' melempar Jumrah. Kemudian Asma' shalat di tempatnya, lalu aku bertanya kepadanya, "Aduh! Kita terlalu awal, masih belum pagi." Asma' menjawab, "Anakku jangan begitu! Sesungguhnya Nabi shallallahu 'alaihi wasallam mengizinkan para wanita untuk berangkat lebih awal." Dan telah menceritakannya kepadaku [Ali bin Khasyram] telah mengabarkan kepada kami [Isa bin Yunus] dari [Ibnu Juraij] dengan isnad ini. Dan di dalam riwayatnya ia menyebutkan; Asma' berkata; "Tidak, wahai anakku, sesungguhnya Nabi shallallahu 'alaihi wasallam telah mengizinkan para isteri-isterinya (untuk berangkat lebih awal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3122</td></tr><tr><td>Arabic No</td><td>1291.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 326</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3122</td></tr><tr><td>Arabic No</td><td>1291.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 326</td></tr></tbody></table></div>
 

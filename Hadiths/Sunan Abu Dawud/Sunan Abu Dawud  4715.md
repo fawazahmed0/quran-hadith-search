@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said :Malik was asked : The heretics argue from this tradition against
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Dawud berkata, "Dibacakan dihadapan [Al Harits bin Miskin] -dan aku mendengar- berkata; [Yusuf bin Amru] mengabarkan kepadamu, ia berkata; telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; Aku mendengar [Malik] ditanya, "Sesungguhnya orang-orang yang mengikuti hawa nafsu menjadikan hadits ini sebagai hujah atas kami?" Malik berkata, "Bantahlah hujah mereka dengan kalimat terakhir dalam hadits tersebut." Mereka bertanya lagi, "Apa pendapatmu dengan orang yang meninggal saat masih kecil?" Malik menjawab, "Allah lebih tahu dengan apa yang ia lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4715</td></tr><tr><td>Arabic No</td><td>4715</td></tr><tr><td>Reference</td><td>Book 42 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн Вахба: «Однажды Малику сказали: “Поистине, люди, следующие своим страстям, используют этот хадис в качестве довода против нас!” Малик сказал: “Используйте конец хадиса в качестве довода против них: “Они сказали: “А что ты скажешь о тех, кто умер в детском возрасте?” (Посланник Аллаха ﷺ) ответил: “Аллах знает о том, что они делали бы”””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4715</td></tr><tr><td>Arabic No</td><td>4715</td></tr><tr><td>Reference</td><td>Book 42 Hadith 120</td></tr></tbody></table></div>
 

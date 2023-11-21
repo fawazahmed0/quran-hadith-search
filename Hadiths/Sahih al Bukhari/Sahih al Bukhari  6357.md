@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abi Laila:Ka'b bin 'Ujra met me and said, "Shall I gi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al Hakam] dia berkata; saya mendengar [Abdurrahman bin Abu Laila] dia berkata; [Ka'b bin 'Ujrah] pernah menemuiku, lalu dia berkata; "Maukah kamu aku beri petunjuk? Sesungguhnya Nabi Shallallahu 'alahi wasallam pernah keluar menemui kami, lalu kami bertanya; "Wahai Rasulullah, kami telah mengetahui salam kepadamu, lalu bagaimanakah caranya bershalawat kepadamu? Beliau menjawab: "Ucapkanlah; ALLAHUMMA SHALLI 'ALAA MUHAMMAD WA 'ALAA AALI MUHAMMAD KAMAA SHALLAITA 'ALAA AALII IBRAAHIM INNAKA HAMIIDUM MAJIID. ALLAAHUMMA BAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAARAKTA 'ALAA 'AALI IBRAHIIMA INNAKA HAMIIDUM MAJIID (Ya Allah berilah shalawat kepada Muhammad dan kepada keluarga Muhammad sebagaimana Engkau telah memberi shalawat kepada Ibrahiim, sesungguhnya Engkah Maha Terpuji dan Maha Mulia. Ya Allah berilah barakah kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberi barakah kepada Ibrahim, sesungguhnya Engkah Maha Terpuji dan Maha Mulia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6357</td></tr><tr><td>Arabic No</td><td>6357</td></tr><tr><td>Reference</td><td>Book 80 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Абу Ляйля сказал: «Повстречался мне Ка‘б ибн ‘Уджра и сказал: “Не подарить ли тебе подарок? (Однажды) Пророк ﷺ вышел к нам, и мы сказали: “О посланник Аллаха, мы уже знаем, как приветствовать тебя, но как нам обращаться к Аллаху с мольбами за тебя?” (На это Пророк ﷺ) сказал: “Говорите: “О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты семейство Ибрахима, поистине, Ты — Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их семейству Ибрахима, поистине, Ты — Достойный похвалы, Славный!”».\n/Аллахумма, салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма салляйта ‘аля али Ибрахима, инна-кя Хамидун, Маджидун! Аллахумма, барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля али Ибрахима, инна-кя Хамидун, Маджидун
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6357</td></tr><tr><td>Arabic No</td><td>6357</td></tr><tr><td>Reference</td><td>Book 80 Hadith 54</td></tr></tbody></table></div>
 

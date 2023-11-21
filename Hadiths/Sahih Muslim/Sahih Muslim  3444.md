@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported that Allah's Messenger (ﷺ) fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna], [Ibnu Basyar] dan [Abu Bakar bin Nafi'] sedangkan lafazhnya dari Ibnu Mutsanna dan Ibnu Nafi' mereka berkata; Telah mengabarkan kepada kami [Ibnu Abi 'Adi] dari [Syu'bah] dari ['Amru bin Dinar] dari [Abu Salamah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang seorang wanita dipoligami dengan bibinya sekaligus (baik bibi dari saudara ayah atau ibu). Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Warqa'] dari [Amru bin Dinar] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>1408.09</td></tr><tr><td>Reference</td><td>Book 16 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>1408.09</td></tr><tr><td>Reference</td><td>Book 16 Hadith 47</td></tr></tbody></table></div>
 

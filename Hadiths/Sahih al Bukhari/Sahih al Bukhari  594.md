@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Malih [??]:I was with Buraida on a cloudy day and he said, "Off
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] -yaitu Ibnu Abu Katsir- dari [Abu Qilabah] bahwa [Abu Al Malih] menceritakan kepadanya, ia berkata, "Kami pernah bersama [Buraidah] pada suatu hari yang mendung, ia lalu berkata, "Segeralah laksanakan shalat, karena Nabi shallallahu 'alaihi wasallam pernah bersabda: "Barangsiapa meninggalkan shalat 'Ashar, sungguh telah hapuslah amalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>594</td></tr><tr><td>Reference</td><td>Book 9 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Къилябы о том, что Абуль-Малих рассказывал ему:\n— Как-то в пасмурный день мы были с Бурайдой и он сказал: «Совершайте молитву пораньше, ибо, поистине, Пророк ﷺ сказал: “Тщетными окажутся дела того, кто не совершает послеполуденную молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>594</td></tr><tr><td>Reference</td><td>Book 9 Hadith 69</td></tr></tbody></table></div>
 

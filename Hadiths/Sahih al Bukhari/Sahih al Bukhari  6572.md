@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbas:that he said to the Prophet (ﷺ) "Did you benefit Abu Talib wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6572</td></tr><tr><td>Arabic No</td><td>6572</td></tr><tr><td>Reference</td><td>Book 81 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн аль-Хариса ибн Науфаля, что (однажды) аль-‘Аббас, да будет доволен им Аллах, сказал Пророку ﷺ: «Помог ли ты чем-нибудь Абу Талибу?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6572</td></tr><tr><td>Arabic No</td><td>6572</td></tr><tr><td>Reference</td><td>Book 81 Hadith 160</td></tr></tbody></table></div>
 

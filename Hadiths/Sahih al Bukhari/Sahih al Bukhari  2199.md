@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab:If somebody bought fruits before their benefit is evident an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Humaid] dari [Anas bin Malik radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang menjual buah-buahan hingga sempurna. Ada yang bertanya apa; "Apa tanda sempurnanya?" Beliau menjawab: "Ia menjadi merah ". Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Coba kau renungkan, bagaimana sekiranya Allah mencegah kurma menjadi masak hanya karena salah seorang diantara kalian mengambil harta saudaranya!" [Al Laits] berkata; telah menceritakan kepada saya [Yunus] dari [Ibnu Syihab] berkata: "Seandainya seseorang menjual buah sebelum nampak kebaikannya kemudian terserang hama (penyakit) maka tanggung jawabnya pada pemiliknya". Telah mengabarkan kepada saya [Salim bin 'Abdullah] dari [Ibnu'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian saling berjual beli buah-buahan hingga tampak kebaikannya dab jangan pula menjual kurma matang dengan kurma mentah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2199</td></tr><tr><td>Arabic No</td><td>2199</td></tr><tr><td>Reference</td><td>Book 34 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шихаб сказал: «Если человек купил фрукты до того, как станет ясно, что они годны к употреблению, а затем их поразит болезнь, то ответственность несёт продавец. Мне передал Салим ибн ‘Абдуллах от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Не продавайте друг другу плоды до того, как станет ясно, что они годны к употреблению. И не продавайте свежие финики за сушёные!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2199</td></tr><tr><td>Arabic No</td><td>2199</td></tr><tr><td>Reference</td><td>Book 34 Hadith 146</td></tr></tbody></table></div>
 

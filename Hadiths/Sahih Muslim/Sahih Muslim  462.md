@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abdullah b. Mas'ud that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan lafzhnya milik Abu Kuraib keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Ibrahim] dari ['Abidah] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku mengetahui penduduk neraka yang paling akhir keluar dari nereka, yaitu seorang laki-laki yang keluar darinya dengan cara merangkak. Lalu dikatakan kepadanya, 'Pergilah, lalu masuklah surga." Beliau bersabda lagi, "Lalu dia pergi, lalu masuk surga, hingga mendapatkan manusia telah mengambil tempat-tempatnya. Lalu ditanyakan kepadanya, 'Apakah kamu ingat zaman yang mana dahulu kamu pernah di dalamnya? ' Dia menjawab, 'Ya.' Lalu dikatakan kepadanya, 'Berangan-anganlah! ' Maka dia berangan-angan. Lalu dikatakanlah kepadanya, 'Kamu mendapatkan sesuatu yang kamu khayalkan dan sepuluh kali lipat dunia.' Beliau berkata, 'Lalu dia berkata, 'Apakah Engkau mengolok-olokku, sedangkan Engkau adalah Raja.' Perawi berkata, 'Sungguh aku melihat Rasulullah shallallahu 'alaihi wasallam tersenyum hingga gigi gerahamnya terlihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>186.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 367</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Поистине, я знаю, кто из оказавшихся в Огне выйдет из него последним. (Этот) человек выберется из Огня ползком, и ему будет сказано: “Ступай и войди в Рай!” Он пойдёт и, войдя в Рай, обнаружит, что люди уже заняли там свои места. Ему буде сказано: “Помнишь ли ты своё прошлое?” Он ответит: “Да”. Ему скажут: “Желай!” Он перечислит свои желания, а потом ему скажут: “Ты получишь всё, что пожелал, и в десять раз больше, чем земной мир, в придачу”. Он скажет: “Неужели Ты насмехаешься надо мной? Ведь Ты же Царь!”».‘Абдуллах сказал: «Я видел, как в тот момент Посланник Аллаха ﷺ рассмеялся так, что были видны его задние зубы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>186.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 367</td></tr></tbody></table></div>
 

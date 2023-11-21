@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah narrated that the Prophet (ﷺ) would supplicate with the following words
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibrahim bin Musa Ar Razi], telah memberitakan kepadaku [Isa] telah menceritakan kepada Kami [Hisyam] dari [ayahnya] dari [Aisyah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam pernah berdoa dengan kalimat-kalimat ini, yaitu: "ALLAAHUMMA INNII A'UUDZU BIKA MIN FITNATIN NAARI WA 'ADZAABIN NAARI, WA MIN SYARRIL GHINAA WAL FAQRI" (Ya Allah, aku berlindung kepadaMu dari fitnah Neraka dan adzab Neraka, dari keburukan kekayaan dan kefakiran)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6368) Sahih Muslim (589 After 2705)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1543</td></tr><tr><td>Arabic No</td><td>1543</td></tr><tr><td>Reference</td><td>Book 8 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ часто обращался с мольбами к Аллаху (, произнося) такие слова: «О Аллах, поистине, я прибегаю к Твоей защите от испытаний огня, и мук огня и зла богатства и бедности!» /Аллахумма, а‘узу бика мин фитнати-н-нари, ва ‘азаби-н-нари ва мин шарри-ль-гъына валь-факъри
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6368) Sahih Muslim (589 After 2705)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1543</td></tr><tr><td>Arabic No</td><td>1543</td></tr><tr><td>Reference</td><td>Book 8 Hadith 128</td></tr></tbody></table></div>
 

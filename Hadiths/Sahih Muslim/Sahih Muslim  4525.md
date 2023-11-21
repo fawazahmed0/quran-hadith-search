@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] sedangkan lafadznya dari Abu Bakar, keduanya berkata; telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] dia berkata, "Apabila Rasulullah shallallahu 'alaihi wasallam mengangkat seseorang dari sahabatnya untuk melaksanakan perintahnya, beliau bersabda: "Berilah mereka kabar gembira dan janganlah menakut-nakuti, mudahkan urusan mereka jangan kamu persulit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4525</td></tr><tr><td>Arabic No</td><td>1732</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, сказал: «Посылая кого-либо из своих сподвижников с каким-либо поручением, Посланник Аллаха ﷺ говорил: “Приносите радость, а не отпугивайте. Облегчайте, а не обременяйте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4525</td></tr><tr><td>Arabic No</td><td>1732</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
 

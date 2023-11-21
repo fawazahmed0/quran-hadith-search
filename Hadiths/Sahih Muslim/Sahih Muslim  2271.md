@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:No Sadaqa is payab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Harun bin Sa'id Al Aili] ia berkata, Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Iyadl bin Abdullah] dari [Abu Zubair] dari [Jabir bin Abdullah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Tidak wajib dizakati perak yang kurang dari lima Uqiyah, tidak pula unta yang kurang dari lima ekor, dan tidak pula kurma yang kurang dari lima wasq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2271</td></tr><tr><td>Arabic No</td><td>980</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Не выплачивается закят с менее чем пяти “окый” серебра; и не выплачивается закят со стада, состоящего менее чем из пяти верблюдов; и не выплачивается закят (с урожая) фиников менее чем в пять “васков”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2271</td></tr><tr><td>Arabic No</td><td>980</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
 

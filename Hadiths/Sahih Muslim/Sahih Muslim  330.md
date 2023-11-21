@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn 'Abbas:When this verse:" Whether you disc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] serta [Ishaq bin Ibrahim] dan lafazh tersebut milik Abu Bakar, berkata [Ishaq] telah mengabarkan kepada kami, sedangkan dua orang lainnya berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Adam bin Sulaiman] mantan budak Khalid, dia berkata, saya mendengar [Sa'id bin Jubair] menceritakan dari [Ibnu Abbas] dia berkata, "Ketika turun ayat: '(Dan jika kamu melahirkan sesuatu yang ada di dalam hatimu atau kamu menyembunyikannya, niscaya Allah akan membuat perhitungan dengan kamu tentang perbuatanmu itu) ' (Qs. Albaqarah: 284). Ibnu Abbas berkata, "Maka masuklah suatu kesedihan darinya ke dalam hati mereka yang mana tidak pernah masuk ke dalam hati mereka sedikit pun." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Katakanlah, 'Saya mendengar dan saya menaati serta saya menyerahkan diri'." Ibnu Abbas berkata, "Lalu Allah meletakkan iman pada hati mereka, yang kemudian menurunkan ayat: '(Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. Ia mendapat pahala (dari kebajikan) yang diusahakannya dan mendapat siksa (dari kejahatan) yang dikerjakannya. (Mereka berdoa), 'Ya Rabb kami, janganlah Engkau hukum kami jika kami lupa atau kami bersalah) ' (Qs. Al Baqarah: 286), Allah berfirman: "Sungguh aku telah melakukannya." '(Wahai Rabb kami, dan janganlah Engkau bebankan kepada kami beban yang berat sebagaimana Engkau bebankan kepada orang-orang yang sebelum kami) ' (Qs. Al baqarah: 286), Allah berfirman: "Aku telah melakukanya." '(Wahai Rabb kami, Beri maaflah kami; ampunilah kami; dan rahmatilah kami. Engkaulah Penolong kami) ' Allah berfiraman: "Aku telah lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>330</td></tr><tr><td>Arabic No</td><td>126</td></tr><tr><td>Reference</td><td>Book 1 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Когда был ниспослан этот аят, (в котором говорится): “Обнаружите ли вы то, что в ваших душах, или утаите, Аллах предъявит вам счет за это” (сура «аль-Бакара», аят 284), в сердцах сподвижников появилось что-то (из страха), чего не было раньше. И Пророк ﷺ сказал: “Говорите: «Слушаем, повинуемся и предаёмся!»”. Тогда Аллах вселил в их сердца веру, и Всевышний Аллах ниспослал: “Аллах не возлагает на человека сверх его возможностей. Ему достанется то, что он приобрел, и против него будет то, что он приобрел. Господь наш! Не наказывай нас, если мы позабыли или ошиблись” (сура «аль-Бакара», аят 286). Он сказал: “Я так и сделал”. “Господь наш! Не возлагай на нас бремя, которое Ты возложил на наших предшественников” (сура «аль-Бакара», аят 286). Он сказал: “Я так и сделал”. “Прости нас и помилуй! Ты наш Покровитель” (сура «аль-Бакара», аят 286). Он сказал: “Я так и сделал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>330</td></tr><tr><td>Arabic No</td><td>126</td></tr><tr><td>Reference</td><td>Book 1 Hadith 237</td></tr></tbody></table></div>
 

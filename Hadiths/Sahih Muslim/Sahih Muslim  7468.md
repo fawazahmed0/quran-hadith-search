@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) said:One who makes efforts (fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Malik] dari [Tsaur bin Zaid] dari [Abu Al Ghaits] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Orang yang membantu para janda dan orang-orang miskin seperti orang yang berjihad dijalan Allah -aku mengira beliau bersabda: Dan seperti orang yang shalat malam tidak lelah- dan seperti orang puasa tidak berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7468</td></tr><tr><td>Arabic No</td><td>2982</td></tr><tr><td>Reference</td><td>Book 55 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7468</td></tr><tr><td>Arabic No</td><td>2982</td></tr><tr><td>Reference</td><td>Book 55 Hadith 51</td></tr></tbody></table></div>
 

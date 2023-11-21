@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safwan b. Muhriz reported that a person said to Ibn 'Umar:How did you hear Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Hisyam Ad Dastawa'i] dari [Qatadah] dari [Shafwan bin Muhriz] dia berkata; "Seorang laki-laki bertanya kepada Ibnu Umar; 'Bagaimana kamu mendengar Rasulullah shallallahu 'alaihi wasallam bersabda tentang pernyataan Allah dengan berbisik? ' [Ibnu Umar] menjawab; 'Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Pada hari kiamat orang mukmin akan dihadapkan kepada Allah Azza Wa Jalla dengan sangat dekat sekali hingga tubuhnya menyentuh Allah. Setelah itu, Allah akan memberikan pengukuhan atas dosa-dosanya. Kemudian Allah akan bertanya: 'Apakah kamu tahu dosamu? ' Orang mukmin itu menjawab; 'Ya Tuhanku. Saya tahu dosa saya. Allah berfirman: Sesungguhnya Aku telah menyembunyikannya untukmu ketika di dunia dan pada hari ini Aku telah mengampunimu. Lalu orang mukmin itu diberi catatan amal baiknya. Sementara orang-orang kafir dan munafik akan di panggil dengan suara yang keras di hadapan semua makhluk: 'Mereka inilah orang-orang yang telah mendustakan Allah Azza Wa Jalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7015</td></tr><tr><td>Arabic No</td><td>2768</td></tr><tr><td>Reference</td><td>Book 50 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7015</td></tr><tr><td>Arabic No</td><td>2768</td></tr><tr><td>Reference</td><td>Book 50 Hadith 61</td></tr></tbody></table></div>
 

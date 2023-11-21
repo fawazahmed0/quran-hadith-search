@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Messenger of Allah (ﷺ) before his death recited often
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, "Telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Muslim] dari [Masruq] dari [Aisyah] dia berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam sebelum meninggal memperbanyak membaca doa, 'SUBHAANAKA WABIHAMDIKA ASTAGHFIRUKA WA ATUUBU ILAIKA Mahasuci Engkau, dan dengan memujiMu, aku meminta ampun dan bertaubat kepadaMu'." Aisyah berkata, "Aku berkata, 'Wahai Rasulullah, kalimat inikah yang aku melihatmu barusan membacanya? ' Beliau menjawab, 'Telah dijadikan suatu tanda untukku dalam umatku, apabila aku melihatnya niscaya aku mengucapkannya, 'Idza Ja'a Nashrullah wa al-Fath…hingga akhir surat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>484.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Перед смертью Посланник Аллаха ﷺ часто говорил: “Слава Тебе, и хвала Тебе, прошу у Тебя прощения и каюсь перед Тобой /Субхана-кя, ва би-хамди-кя, астагфиру-кя ва атубу иляй-кя/”». ‘Аиша сказала: «Я спросила: “О Посланник Аллаха, что это за новые слова, которые я от тебя слышу?” Он сказал: “Для меня был определён знак, увидев который, я и стал произносить их. (Этим знаком являются слова Всевышнего): “Когда придёт помощь Аллаха и победа…” (Сура «ан-Наср», аят 1), и далее до конца этой суры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>484.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 248</td></tr></tbody></table></div>
 

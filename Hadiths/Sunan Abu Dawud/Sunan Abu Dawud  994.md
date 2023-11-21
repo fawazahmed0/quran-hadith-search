@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi said:Ibn ‘Umar saw a man resting on his left hand while he was sitting du
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zarqa'] telah menceritakan kepada kami [ayahku], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Salamah] telah menceritakan kepada kami [Ibnu Wahb], sedangkan lafadznya dari [Hisyam bin Sa'd] dari [Nafi'] dari [Ibnu Umar] bahwa dia melihat seseorang bersandar dengan tangan kirinya ketika duduk dalam shalat- Harun bin Yazid berkata: "condong kearah kirinya, " kemudian keduanya sepakat pada lafadz- Maka Ibnu Umar berkata kepadanya; "Janganlah kamu duduk seperti itu, karena itu seperti duduknya orang yang di adzab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 2 Hadith 605</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, однажды увидел человека, который сидел во время молитвы, опираясь на левую руку (и склонившись на левую сторону), и сказал ему: «Не сиди так, ибо так сидят те, кто подвергается наказанию!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 2 Hadith 605</td></tr></tbody></table></div>
 

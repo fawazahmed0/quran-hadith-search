@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bunanah, female client of 'Abd al-Rahman b. Hayyan al-Ansari told that when she 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] berkata, telah menceritakan kepada kami [Rauh] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Bunanah] -mantan budak (yang dimerdekakan oleh) 'Abdurrahman bin Hassan Al Anshari- dari ['Aisyah radliallahu 'anha], ia mengatakan bahwa ketika ia sedang bersama Bunanah, ada seorang budak wanita datang kepadanya dengan mengenakan gelang kaki yang berbunyi keras. 'Aisyah lalu berkata, "Jangan kalian masukkan ia untuk menemuiku hingga kalian memotong gelangnya. Setelah itu ia berkata lagi, "Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Malaikat tidak akan masuk ke dalam rumah yang di dalamnya terdapat lonceng
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4231</td></tr><tr><td>Arabic No</td><td>4231</td></tr><tr><td>Reference</td><td>Book 36 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Бунана, вольноотпущенница ‘Абдуррахмана ибн Хассана аль-Ансари, передаёт, что однажды, когда она находилась у ‘Аиши (да будет доволен ею Аллах), к ней хотел зайти кто-то вместе с девочкой, на ногах которой были звенящие браслеты, и она велела не впускать её, пока браслеты не срежут, сказав: «Поистине, я слышала, как Посланник Аллаха ﷺ сказал: “Ангелы не входят в дом, в котором есть бубенчики”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4231</td></tr><tr><td>Arabic No</td><td>4231</td></tr><tr><td>Reference</td><td>Book 36 Hadith 18</td></tr></tbody></table></div>
 

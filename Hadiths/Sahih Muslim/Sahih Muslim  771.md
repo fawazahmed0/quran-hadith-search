@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:When the Ka'ba was constructed the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim al-Hanzhali] dan [Muhammad bin Hatim bin Maimun] semuanya meriwayatkan dari [Muhammad bin Bakr] dia berkata, telah mengabarkan kepada kami [Ibnu Juraij] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Manshur] dan [Muhammad bin Rafi'] dan lafazh tersebut milik keduanya. Ishaq berkata, telah mengabarkan kepada kami sedangkan Ibnu Rafi' berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Amr bin Dinar] bahwa dia mendengar [Jabir bin Abdullah] dia berkata, "Ketika Ka'bah dibangun, Nabi Shallallahu'alaihiwasallam. bersama Abbas pergi untuk mengangkat batu. Maka Abbas berkata kepada Nabi Shallallahu'alaihiwasallam, 'Angkatkan kainmu ke bahumu untuk alas batu. Maka beliau melakukannya, lalu beliau jatuh tersungkur lalu beliau mendongakkan kedua matanya ke langit, kemudian berdiri sambil berkata, 'Kainku, kainku'. Kemudian Beliau memakai kain tersebut." Ibnu Rafi' berkata dalam riwayatnya, "Angkatlah di atas lehermu" dan bukan berkata, "Di atas pundakmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>771</td></tr><tr><td>Arabic No</td><td>340.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Динар сказал: «Я слышал, как Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, рассказывал о том, что (когда) Посланник Аллаха ﷺ, одетый в свой изар, переносил вместе с ними камни для Каабы, его дядя аль-‘Аббас сказал ему: “Подложи свой изар под камни на плечи”».(Джабир) сказал: «Tак он и сделал, однако (сразу же) упал на землю, устремив глаза к небу. Затем он встал и сказал: “Мой изар! Мой изар!” и крепко подвязал изар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>771</td></tr><tr><td>Arabic No</td><td>340.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 93</td></tr></tbody></table></div>
 

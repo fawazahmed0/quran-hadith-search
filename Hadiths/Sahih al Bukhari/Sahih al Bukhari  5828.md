@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aba 'Uthman An-Nahdi:While we were with 'Utba bin Farqad at Adharbijan,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Qatadah] dia berkata; saya mendengar [Abu Utsman An Nahdi] telah datang dengan membawa kitabnya [Umar] sementara kami waktu itu tengah bersama Utbah bin Farqad di Adrabijan bahwa Rasulullah shallallahu 'alaihi wasallam melarang mengenakan kain sutera kecuali hanya sebatas ini dan ini, dan beliau mengisyaratkan dengan kedua jarinya yaitu jari telunjuk dan jari tengah, Abu Utsman mengatakan; "Sebagaimana yang kami ketahui yang di maksud itu adalah coraknya atau garis-garis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5828</td></tr><tr><td>Arabic No</td><td>5828</td></tr><tr><td>Reference</td><td>Book 77 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил носить шёлковую (одежду), если не считать этого», и(, сказав это,) он сделал знак указательным и средним пальцами, имея в виду(, насколько нам известно,) узоры
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5828</td></tr><tr><td>Arabic No</td><td>5828</td></tr><tr><td>Reference</td><td>Book 77 Hadith 45</td></tr></tbody></table></div>
 

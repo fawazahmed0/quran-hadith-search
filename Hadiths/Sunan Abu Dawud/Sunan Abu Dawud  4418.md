@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] berkata, telah menceritakan kepada kami [Husyaim] berkata, telah menceritakan kepada kami [Az Zuhri] dari [Ubaidullah bin Abdullah bin Utbah] dari [Abdullah bin Abbas] berkata, " [Umar Ibnul Khaththab] berpidato, ia mengatakan, "Sesungguhnya Allah telah mengutus Muhammad shallallahu 'alaihi wasallam dengan kebenaran dan menurunkan kepadanya Al Kitab (Al-Qur'an). Termasuk yang diturunkan kepada beliau adalah ayat rajam. Kami membaca dan memahaminya, Rasulullah shallallahu 'alaihi wasallam melaksanakan (ayat) rajam dan kami juga memberlakukannya setelah beliau. Aku kawatir ketika zaman terus berlalu, lalu ada seseorang mengatakan, 'Kami tidak mendapati ayat rajam dalam Kitabullah'. Maka mereka akan sesat dengan meninggalkan kewajiban yang telah Allah turunkan. Rajam adalah hukum yang pas bagi laki-laki dan perempuan yang berzina dan telah menikah; jika bukti telah ada, atau adanya kehamilan, atau pengakuan. Demi Allah, sekiranya manusia tidak akan mengatakan 'Umar telah menambahi Kitabullah', sungguh aku akan menuliskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6829) Sahih Muslim (1691)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4418</td></tr><tr><td>Arabic No</td><td>4418</td></tr><tr><td>Reference</td><td>Book 40 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды ‘Умар ибн аль-Хаттаб обратился к людям с речью и сказал: «Поистине, Аллах направил Мухаммада ﷺ к людям с истиной и ниспослал ему Писание, и среди того, что Он ниспослал ему, был аят о побивании камнями, который мы читали и усвоили. Посланник Аллаха ﷺ подвергал прелюбодеев побиванию камнями, а после его кончины мы также подвергали их побиванию камнями. Но я боюсь, что по прошествии долгого времени люди начнут говорить: “Мы не находим упоминания о побивании камнями в Книге Аллаха”. И они впадут в заблуждение из-за отказа исполнять обязанность, о которой говорилось в ниспосланном Всевышним Аллахом. Поистине, согласно Книге Аллаха, побиванию камнями подлежит всякий, кто состоял в браке и совершил прелюбодеяние, будь то мужчина или женщина, при наличии доказательства (показания четырёх свидетелей прелюбодеяния), или беременности, или признания. И клянусь Аллахом, если бы люди не стали потом утверждать, что ‘Умар добавил что-то в Книгу Всемогущего и Великого Аллаха, я бы вписал туда этот аят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6829) Sahih Muslim (1691)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4418</td></tr><tr><td>Arabic No</td><td>4418</td></tr><tr><td>Reference</td><td>Book 40 Hadith 68</td></tr></tbody></table></div>
 

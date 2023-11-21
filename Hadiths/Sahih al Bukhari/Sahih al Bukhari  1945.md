@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ad-Darda:We set out with Allah's Messenger (ﷺ) on one of his jour
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Yahya bin Hamzah] dari ['Abdurrahman bin YAzid bin Jabir] bahwa [Isma'il bin 'Ubaidullah] menceritakan kepada kami dari [Ummu Ad-Darda'] dari [Abu Ad-Darda' radliallahu 'anhu] berkata; Kami pernah bepergian bersama Nabi shallallahu 'alaihi wasallam pada sebagian perjalanan Beliau pada hari yang sangat panas sehingga ada seseorang yang meletakkan tangannya diatas kepalanya karena amat panasnya dan tidak ada diantara kami yang berpuasa kecuali Nabi shallallahu 'alaihi wasallam dan Ibnu Ruwahah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1945</td></tr><tr><td>Arabic No</td><td>1945</td></tr><tr><td>Reference</td><td>Book 30 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу-д-Дарда, да будет доволен им Аллах, сказал: «Однажды (во время рамадана) мы двинулись в путь вместе с Пророком ﷺ в такой жаркий день, что человек из-за сильной жары вынужден был прикрывать голову рукой, и среди нас не было постящихся, если не считать пророка, да благословит его Аллах и приветствует, и Ибн Равахи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1945</td></tr><tr><td>Arabic No</td><td>1945</td></tr><tr><td>Reference</td><td>Book 30 Hadith 52</td></tr></tbody></table></div>
 

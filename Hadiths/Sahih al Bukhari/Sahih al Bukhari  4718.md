@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:On the Day of Resurrection the people will fall on their knee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Isma'il bin Aban] Telah menceritakan kepada kami [Abu Al Ahwash] dari [Adam bin 'Ali] dia berkata; Aku mendengar [Ibnu 'Umar radliallahu 'anhuma] berkata; Sesungguhnya pada hari kiamat kelak manusia akan menjadi bangkai. Setiap umat akan mengikuti nabinya hingga mereka saling berkata; 'Ya Fulan, berilah aku syafa'at. ya fulan, berilah aku syafa'at.' Sampai akhirnya mereka mendatangi Nabi shallallahu 'alaihi wasallam. Itulah hari ketika Allah membangkitkan Nabi shallallahu 'alaihi wasallam pada kedudukan yang terpuji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4718</td></tr><tr><td>Arabic No</td><td>4718</td></tr><tr><td>Reference</td><td>Book 65 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Поистине, в День воскресения люди будут стоять на коленях, и (члены) каждой общины будут следовать за своим пророком со словами “О такой-то, заступись, о такой-то, заступись!”, (и так будет продолжаться) до тех пор, пока право заступничества не будет предоставлено Пророку ﷺ и в этот День Аллах приведёт его к месту достохвальному /аль-макам aль-махмуд/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4718</td></tr><tr><td>Arabic No</td><td>4718</td></tr><tr><td>Reference</td><td>Book 65 Hadith 240</td></tr></tbody></table></div>
 

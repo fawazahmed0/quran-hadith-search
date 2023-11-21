@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:During the Pre-lslamic Period of ignorance the Quraish used to ob
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Hisyam] dia berkata; Telah mengabarkan kepadaku [Bapakku] dari [Aisyah radliallahu 'anha] dia berkata; Dahulu hari 'Asyura adalah hari yang orang-orang Quraisy pergunakan pada masa Jahiliyah untuk berpuasa. Rasulullah shallallahu 'alaihi wasallam pernah melakukan puasa itu. Tatkala sampai di Madinah beliau berpuasa pada hari itu dan pernah memerintahkan untuk berpuasa (pada hari itu), namun ketika perintah puasa ramadlan turun dan diwajibkan, maka puasa 'Asyura ditinggalkan. Akhirnya barang siapa yang ingin berpuasa 'Asyura hendaklah berpuasa, dan barangsiapa yang tidak ingin, maka tinggalkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4504</td></tr><tr><td>Arabic No</td><td>4504</td></tr><tr><td>Reference</td><td>Book 65 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во времена джахилиййи курайшиты постились в день ‘Ашуры, и Посланник Аллаха ﷺ также постился в этот день. Когда он прибыл в Медину, то (не перестал) поститься в этот день и велел другим соблюдать этот пост. Когда же в обязанность был вменён пост в рамадане, он перестал (поститься) в день ‘Ашуры, и (с тех пор) кто хотел, соблюдал этот пост, а кто не хотел, не делал этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4504</td></tr><tr><td>Arabic No</td><td>4504</td></tr><tr><td>Reference</td><td>Book 65 Hadith 31</td></tr></tbody></table></div>
 

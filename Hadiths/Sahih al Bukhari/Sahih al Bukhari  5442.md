@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Aishah (ra) said, "When Allah's Messenger (ﷺ) died, we had been satisfied by t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah] berkata, telah menceritakan kepada kami [Ismail bin Zakaria] dari [Ashim] dari [Abu Utsman] dari [Abu Hurairah] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam membagi-bagikan kurma kepada kami, lalu aku mendapat bagian lima biji, empat masih dalam keadaan bagus dan satu telah rusak. Maka, satu biji itulah yang membuat gigiku susah untuk mengunyahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5442</td></tr><tr><td>Arabic No</td><td>5442</td></tr><tr><td>Reference</td><td>Book 70 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ умер в то время, когда мы могли полностью насыщаться финиками и водой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5442</td></tr><tr><td>Arabic No</td><td>5442</td></tr><tr><td>Reference</td><td>Book 70 Hadith 71</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that when Allah's Messenger (ﷺ) was in the company of one of his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit Al Bunani] dari [Anas] bahwa pada suatu ketika Nabi shallallahu 'alaihi wasallam sedang berdua dengan salah seorang isteri beliau. Kebetulan lewat ke dekat beliau seorang laki-laki. Orang itu dipanggil oleh Nabi shallallahu 'alaihi wasallam, maka dia datang menemui beliau. Lalu Nabi shallallahu 'alaihi wasallam berkata kepadanya; 'Hai, Fulan! Ini isteriku, si Fulanah.' orang itu menjawab; 'Ya, Rasulullah! Aku tidak menduga-duga dengan Anda.' Beliau bersabda: 'Sesungguhnya setan berjalan dalam tubuh manusia melalui aliran darah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5678</td></tr><tr><td>Arabic No</td><td>2174</td></tr><tr><td>Reference</td><td>Book 39 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5678</td></tr><tr><td>Arabic No</td><td>2174</td></tr><tr><td>Reference</td><td>Book 39 Hadith 32</td></tr></tbody></table></div>
 

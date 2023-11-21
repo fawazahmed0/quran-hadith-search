@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "The biggest of Al-Ka'ba'ir (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami ['Abdushshamad] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Ubaidullah bin Abi Bakr] ia mendengar [Anas bin Malik] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam bersabda: "dosa-dosa besar yaitu" -lewat jalur periwayatan lain-Telah menceritakan kepada kami ['Amru] tepatnya Amru bin Marzuq, telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Ibnu Abi Bakar], dari [Anas bin Malik] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam bersabda; "Dosa paling besar diantara dosa besar ialah menyekutukan Allah, membunuh, durhaka kepada orang tua, ucapan dusta, " atau beliau mengatakan; "persaksian dusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6871</td></tr><tr><td>Arabic No</td><td>6871</td></tr><tr><td>Reference</td><td>Book 87 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Наиболее тяжкими грехами являются: придавание Аллаху сотоварищей, убийство (невинной) души, непочтительное отношение к родителям и лживое слово (или: лживое свидетельство)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6871</td></tr><tr><td>Arabic No</td><td>6871</td></tr><tr><td>Reference</td><td>Book 87 Hadith 10</td></tr></tbody></table></div>
 

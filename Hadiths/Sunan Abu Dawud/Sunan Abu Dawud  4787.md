@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Explaining the Qur’anic verse “Hold to forgiveness”, 'Abd Allah b. Al-Zuba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan kepada kami [Muhammad bin 'Abdurrahman Ath Thufawi] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Abdullah] -maksudnya Abdullah bin Az Zubair- tentang firman Allah: '(dan berikanlah maaf) ' -Qs. Al A'raf: 177-, ia berkata, "Nabi shallallahu 'alaihi wasallam diperintahkan untuk selalu memberi maaf kepada manusia dengan berbagai macam akhlaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4644)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4787</td></tr><tr><td>Arabic No</td><td>4787</td></tr><tr><td>Reference</td><td>Book 43 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4644)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4787</td></tr><tr><td>Arabic No</td><td>4787</td></tr><tr><td>Reference</td><td>Book 43 Hadith 15</td></tr></tbody></table></div>
 

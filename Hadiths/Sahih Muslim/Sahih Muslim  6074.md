@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Sirin reported:I asked Anas b. Malik whether Allah's Messenger (ﷺ) dyed hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Bakkar bin Ar Rayyan] Telah menceritakan kepada kami [Ismail bin Zakaria] dari ['Ashim Al Ahwal] dari [Ibnu Sirin] dia berkata; "Aku bertanya kepada [Anas bin Malik], "pernahkah Rasulullah shallallahu 'alaihi wasallam mencelup rambut beliau?" Jawab Anas; "Beliau tidak kelihatan beruban, kecuali di jenggotnya tampak beberapa helai rambut putih." Ibnu Sirin bertanya lagi; Apakah Abu Bakar mencelup rambutnya?" Jawab Anas; "Ya, dengan inai dan yang sejenisnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6074</td></tr><tr><td>Arabic No</td><td>2341.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6074</td></tr><tr><td>Arabic No</td><td>2341.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 132</td></tr></tbody></table></div>
 

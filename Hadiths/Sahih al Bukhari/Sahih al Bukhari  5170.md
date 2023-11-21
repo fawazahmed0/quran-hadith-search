@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) consummated his marriage with a woman (Zainab), 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] Telah menceritakan kepada kami [Zuhair] dari [Bayan] ia berkata; Aku mendengar [Anas] berkata; "Nabi shallallahu 'alaihi wasallam menikahi seorang wanita, lalu beliau mengutusku hingga aku pun mengundang beberapa orang untuk makan-makan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5170</td></tr><tr><td>Arabic No</td><td>5170</td></tr><tr><td>Reference</td><td>Book 67 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Женившись на одной из женщин, Пророк ﷺ послал меня пригласить людей на свадебное угощение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5170</td></tr><tr><td>Arabic No</td><td>5170</td></tr><tr><td>Reference</td><td>Book 67 Hadith 105</td></tr></tbody></table></div>
 

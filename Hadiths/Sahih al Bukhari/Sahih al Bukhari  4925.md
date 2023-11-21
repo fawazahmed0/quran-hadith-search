@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I heard the Prophet (ﷺ) describing the period of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Abdurrazzaq] Telah mengabarkan kepada kami [Ma'mar] bahwa [Az Zuhri] berkata; Telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dari [Jabir bin Abdullah radliallahu 'anhuma] ia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda menceritakan peristiwa Fatratul Wahyu (Masa-masa kevakuman wahyu): "Ketika aku tengah berjalan, tiba-tiba aku mendengar suara yang berasal dari langit, maka aku pun mengangkat pandanganku ke arah langit, ternyata di atas terdapat Malaikat yang sebelumnya mendatangiku di gua Hira' tengah duduk di atas kursi antara langit dan bumi. Aku merasa ketakutan hingga aku jatuh tersungkur ke tanah. Lalu aku pun segera menemui keluargaku seraya berkata, 'Selimutilah aku, selimutilah aku.' Maka keluargaku pun segera menyelimutiku. Akhirnya Allah Ta'ala menurunkan ayat: 'YAA AYYUHAL MUDDATSTSIR QUM FA'ANDZIR (Wahai orang yang berselimut, bangkitlah, dan berilah peringatan).'" Hingga firman-Nya: "WAR RIJZA FAHJUR (Dan berhala-berhala itu, maka tinggalkanlah)." Yakni sebelum perintah shalat diwajibkan. Ar Rijz adalah berhala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4925</td></tr><tr><td>Arabic No</td><td>4925</td></tr><tr><td>Reference</td><td>Book 65 Hadith 445</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Я слышал, как рассказывая о периоде (временного) прекращения откровений, Пророк ﷺ сказал: “И (как-то раз) я шёл (по дороге) и вдруг услышал голос с неба. Я поднял голову и увидел ангела, явившегося ко мне (в пещере на горе) Хира, который (на этот раз) сидел на троне между небом и землёй. Я испугался его, затем вернулся (домой) и сказал: “Укройте меня, укройте меня!” Меня укрыли, и Всевышний Аллах ниспослал: “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай, и одежды свои очищай, и идолов сторонись”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4925</td></tr><tr><td>Arabic No</td><td>4925</td></tr><tr><td>Reference</td><td>Book 65 Hadith 445</td></tr></tbody></table></div>
 

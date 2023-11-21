@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar said:The Apostle of Allah (ﷺ) used to place his camel (towards the K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] "Bahwa Nabi Shallallahu'alaihiwasallam dahulu menjadikan unta kendaraannya sebagai penghalang (sutrah), dan beliau shalat menghadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Пророк ﷺ нередко (опускал на землю) перед собой свою верблюдицу и молился, обратившись к ней лицом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
 

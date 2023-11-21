@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:We were sitting with 'Abdullah bin 'Amr who was narrating to us 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] dia berkata; telah menceritakan kepadaku [Syaqiq] dari [Masruq] dia berkata; "Kami pernah duduk-duduk sambil berbincang-bincang bersama [Abdullah bin 'Amru], tiba-tiba dia berkata; "Rasulullah shallallahu 'alaihi wasallam tidak pernah berbuat keji dan tidak pula menyuruh berbuat keji, bahwa beliau bersabda: "Sesungguhnya sebaik-baik kalian adalah yang paling mulia akhlaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6035</td></tr><tr><td>Arabic No</td><td>6035</td></tr><tr><td>Reference</td><td>Book 78 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «Посланник Аллаха ﷺ не совершал мерзостей и не стремился к ним, и он часто повторял: “Поистине, наилучший из вас обладающий наилучшими нравственными качествами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6035</td></tr><tr><td>Arabic No</td><td>6035</td></tr><tr><td>Reference</td><td>Book 78 Hadith 65</td></tr></tbody></table></div>
 

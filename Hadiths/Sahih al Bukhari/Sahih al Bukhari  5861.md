@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to construct a loom with a Hasir at night
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abu Bakr] telah menceritakan kepada kami [Mu'tamir] dari ['Ubaidullah] dari [Sa'id bin Abu Sa'id] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] radliallahu 'anha bahwa pada suatu malam Nabi shallallahu 'alaihi wasallam pernah membuat sekat (di dalam masjid) dengan tikar lalu shalat di dalamnya, dan menghamparkannya di siang hari untuk duduk, ternyata orang-orang berkumpul di sekeliling Nabi shallallahu 'alaihi wasallam untuk mengerjakan shalat sebagaimana beliau shalat, hingga orang-orang semakin banyak, lalu beliau menghadap (kepada mereka) dan bersabda: "Wahai sekalian manusia, beramalah menurut yang kalian sanggupi, sesungguhnya Allah tidak akan bosan sehingga kalian merasa bosan, sesungguhnya amalan yang paling dicintai Allah adalah yang dikerjakan secara kontinyu walaupun sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5861</td></tr><tr><td>Arabic No</td><td>5861</td></tr><tr><td>Reference</td><td>Book 77 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала о том, что у Пророка ﷺ была циновка, которую он подготавливал для себя ночью и совершал на ней молитву, а днём он расстилал её для сидения на ней. (Через некоторое время) люди стали собираться возле Пророка ﷺ и совершать такую же молитву, как он, что привело к тому, что их количество увеличилось. (Пророк ﷺ) повернулся к ним и сказал: “О люди! Совершайте из деяний те, что вы способны осилить, ибо Аллаху не наскучит, пока не наскучит вам! И поистине, наиболее любимым для Аллаха являются те деяния, что совершаются постоянно, даже если их мало!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5861</td></tr><tr><td>Arabic No</td><td>5861</td></tr><tr><td>Reference</td><td>Book 77 Hadith 78</td></tr></tbody></table></div>
 

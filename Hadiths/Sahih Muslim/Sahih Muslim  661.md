@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), un bédouin se mit à uriner dans la mosquée
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Umar bin Yunus Al Hanafi] telah menceritakan kepada kami [Ikrimah bin Ammar] telah menceritakan kepada kami [Ishaq bin Abu Thalhah] telah menceritakan kepada kami [Anas bin Malik] -yaitu pamannya Ishaq- dia berkata, "Ketika kami berada di masjid bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba datanglah seorang Badui yang kemudian berdiri dan kencing di masjid. Maka para sahabat Rasulullah shallallahu 'alaihi wasallam berkata, 'Cukup, cukup'." Anas berkata, "Rasulullah shallallahu 'alaihi wasallam lantas bersabda: "Janganlah kalian menghentikan kencingnya, biarkanlah dia hingga dia selesai kencing." Kemudian Rasulullah memanggilnya seraya berkata kepadanya: "Sesungguhnya masjid ini tidak layak dari kencing ini dan tidak pula kotoran tersebut. Ia hanya untuk berdzikir kepada Allah, shalat, dan membaca al-Qur'an, " atau sebagaimana yang dikatakan Rasulullah shallallahu 'alaihi wasallam. Anas melanjutkan ucapannya, "Lalu beliau memerintahkan seorang laki-laki dari para sahabat (mengambil air), lalu dia membawa air satu ember dan mengguyurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>661</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 2 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды), когда мы вместе с Посланником Аллаха ﷺ находились в мечети, (туда) явился какой-то бедуин и принялся мочиться. Сподвижники Посланника Аллаха ﷺ стали кричать: “Прекрати, прекрати!” однако Посланник Аллаха ﷺ велел: “Не прерывайте его, оставьте его”, и они дали тому закончить. Потом Посланник Аллаха ﷺ подозвал (этого бедуина) и сказал ему: “Поистине, эти мечети не подходят ни (для того, чтобы в них) мочиться, ни (для того, чтобы) загрязнять (их как-нибудь иначе)! Они предназначены только для поминания Всемогущего и Великого Аллаха, совершения молитв и чтения Корана”, или же Посланник Аллаха ﷺ сказал нечто подобное. А потом по его велению кто-то из людей принёс ведро воды и вылил её на ( осквернённое место)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>661</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 2 Hadith 127</td></tr></tbody></table></div>
 

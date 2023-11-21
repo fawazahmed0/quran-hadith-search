@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said about Hamza's daughter, "I am not leg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Jabir bin Zaid] dari [Ibnu 'Abbas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata tentang putri Hamzah: "Dia tidak halal bagiku karena apa yang diharamkan karena sepersusuan sama diharamkan karena keturunan sedangkan dia adalah putri dari saudaraku sepersusuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>2645</td></tr><tr><td>Reference</td><td>Book 52 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ сказал о дочери Хамзы: “Мне нельзя женится на ней, ведь молочное родство делает запретным то же, что и кровное, а она является дочерью моего молочного брата!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>2645</td></tr><tr><td>Reference</td><td>Book 52 Hadith 9</td></tr></tbody></table></div>
 

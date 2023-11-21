@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "On every Friday the angels take th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Ibrahim bin Sa'ad] telah bercerita kepada kami [Ibnu Syihab] dari [Abu Salamah] dan [Al Agharr] dari [Abu Hurairah radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Pada hari jum'at, pada setiap pintu dari pintu-pintu masjid terdapat para malaikat yang mencatat orang yang datang lebih awal dan seterusnya hingga apabila imam sudah duduk (di atas mimbar) lembaran catatan itu ditutup lalu mereka mendengarkan dzikir (khathbah tersebut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3211</td></tr><tr><td>Arabic No</td><td>3211</td></tr><tr><td>Reference</td><td>Book 59 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «С наступлением пятницы на всех дверях мечети располагаются ангелы, которые (по порядку) записывают (людей, приходящих на молитву,) одного за другим, а когда имам усаживается (на минбаре), они сворачивают (свои свитки) и приходят слушать (слова) поминания (Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3211</td></tr><tr><td>Arabic No</td><td>3211</td></tr><tr><td>Reference</td><td>Book 59 Hadith 22</td></tr></tbody></table></div>
 

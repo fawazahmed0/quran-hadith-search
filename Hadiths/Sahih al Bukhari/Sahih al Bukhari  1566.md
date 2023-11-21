@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Hafsa the wife of the Prophet (ﷺ) said, "O Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik]. Dan diriwaatkan pula. Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari [Hafshah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam bahwa dia berkata: "Wahai Rasulullah, bagaimana orang-orang telah bertahallul untuk 'umrah mereka sedang anda malah tidak bertahallul dari 'umrah anda?". Beliau menjawab: "Sungguh aku sudah mengikat rambutku dan telah menandai hewan qurbanku dan aku tidak akan bertahallul kecuali setelah menyembelih hewan qurban (pada hari nahar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1566</td></tr><tr><td>Arabic No</td><td>1566</td></tr><tr><td>Reference</td><td>Book 25 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, что Хафса, да будет доволен ими Аллах, жена Пророка ﷺ спросила: «О Посланник Аллаха, почему люди вышли из состояния ихрама, совершив умру, а ты не сделал этого после своей умры?» Он сказал: «Я ведь склеил себе волосы и пометил свой скот, и теперь я не выйду из состояния ихрама, пока не принесу этот скот в жертву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1566</td></tr><tr><td>Arabic No</td><td>1566</td></tr><tr><td>Reference</td><td>Book 25 Hadith 52</td></tr></tbody></table></div>
 

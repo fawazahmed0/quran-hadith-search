@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Darda' reported on the authority of Abu Darda' as saying:I heard Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Mu'awiyah bin Hisyam] dari [Hisyam bin Sa'ad] dari [Zaid bin Aslam] dan [Abu Hazim] dari [Ummu Darda] dari [Abu Darda] "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya para pelaknat itu tidak akan dapat menjadi syuhada' (orang-orang yang menjadi saksi) dan tidak pula dapat memberi syafa'at pada hari kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6612</td></tr><tr><td>Arabic No</td><td>2598.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6612</td></tr><tr><td>Arabic No</td><td>2598.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 110</td></tr></tbody></table></div>
 

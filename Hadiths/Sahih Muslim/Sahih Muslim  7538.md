@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha said in connection with these words of Allah, the Exalted and Glorious:" 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hisyam] dari [ayahnya] dari [Aisyah] tentang firman Allah 'azza wajalla: "Dan jika seorang wanita khawatir akan nusyuz atau sikap tidak acuh dari suaminya." (An Nisaa': 128) Ia berkata: (ayat ini) turun berkenaan tentang wanita yang hidup bersama suaminya, mungkin ia tidak mau memperbanyak anak darinya, lalu ia (sang suami) ingin mencerainya, ia telah lama menemaninya dan telah punya anak, ia tidak ingin suaminya mencerainya lalu berkata: Engkau terbebas dari urusanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7538</td></tr><tr><td>Arabic No</td><td>3021.02</td></tr><tr><td>Reference</td><td>Book 56 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7538</td></tr><tr><td>Arabic No</td><td>3021.02</td></tr><tr><td>Reference</td><td>Book 56 Hadith 16</td></tr></tbody></table></div>
 

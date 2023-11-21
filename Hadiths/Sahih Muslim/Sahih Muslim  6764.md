@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Shu'aib and Ma'qil with a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu 'Umar] telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dia berkata; bahwa Rasulullah Shallallahu 'alaihi wa Salam pernah ditanya mengenai anak-anak orang-orang musyrik yang meninggal ketika mereka masih kecil, lalu beliau menjawab: "Allah lebih mengetahui apa yang mereka kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6764</td></tr><tr><td>Arabic No</td><td>2659.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6764</td></tr><tr><td>Arabic No</td><td>2659.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 42</td></tr></tbody></table></div>
 

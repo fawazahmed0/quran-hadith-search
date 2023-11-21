@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id al-Khudri said:Marwan brought out the pulpit on 'Id. He began preachin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Isma'il bin Raja'] dari [ayahnya] dari [Abu Sa'id Al Khudri]. Dan telah di riwayatkan dari jalur lain, dan dari [Qais bin Muslim] dari [Thariq bin Syihab] dari [Abu Sa'id Al Khudri] dia berkata; "Marwan pernah mengeluarkan mimbar pada waktu hari raya, lalu dia mulai khutbah sebelum shalat, maka seorang laki-laki berdiri dan berkata; "Wahai Marwan, kamu telah menyelisihi sunnah, kamu telah mengeluarkan mimbar pada hari raya, padahal mimbar belum pernah sama sekali di keluarkan, dan kamu juga memulai khutbah sebelum shalat." Abu Sa'id Al Khudri berkata; "Siapakah laki-laki ini?" mereka menjawab; "Fulan bin fulan." Abu Sa'id berkata; "Orang ini telah melaksanakan kewajibannya ('Amar ma'ruf dan nahi munkar), aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa melihat kemungkaran, hendaklah semampunya ia merubah dengan tangannya, jika tidak mampu, maka dengan lisannya, dan jika tidak mampu, maka dengan hatinya, dan yang demikian itu adalah selemah-lemah iman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (49)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1140</td></tr><tr><td>Arabic No</td><td>1140</td></tr><tr><td>Reference</td><td>Book 2 Hadith 751</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Марван ибн аль-Хакам велел поставить минбар в день праздника и произнёс проповедь перед молитвой. К нему подошёл какой-то человек и сказал: «О Марван! Ты поступил вразрез с Сунной! Ты велел поставить минбар в день праздника. А его никогда не ставили в это время, и ты начал с проповеди, а не с молитвы!» Абу Са‘ид аль-Худри спросил: «Кто это?» Ему ответили: «Этот такой-то». (Абу Са‘ид) сказал: «Что касается этого человека, то он выполнил свой долг, ибо я слышал, как Посланник Аллаха ﷺ говорил: “Пусть тот, кто увидит нечто порицаемое, будучи способным изменить это, изменит это собственноручно. Если он не сможет, то (пусть изменит это) своим языком, а если не сможет, то своим сердцем, что будет наиболее слабым проявлением веры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (49)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1140</td></tr><tr><td>Arabic No</td><td>1140</td></tr><tr><td>Reference</td><td>Book 2 Hadith 751</td></tr></tbody></table></div>
 

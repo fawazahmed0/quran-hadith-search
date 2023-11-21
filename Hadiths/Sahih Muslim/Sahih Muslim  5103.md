@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Wâqid, le Prophète (paix et bénédiction de Dieu sur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Rauh] telah menceritakan kepada kami [Malik] dari [Abdullah bin Abu Bakar] dari [Abdullah bin Waqid] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang makan daging binatang kurban setelah tiga hari." [Abdullah bin Abu Bakar] berkata, "kemudian saya memberitahukan hal itu kepada ['Amrah], lantas 'Amrah berkata, "Dia benar, saya juga pernah mendengar ['Aisyah] berkata, "Para penduduk kampung mempercepat langkahnya dan bersegera menghadiri iedul Adlha di zaman Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Simpanlah (daging kurban tersebut) hingga tiga hari, setelah itu sedekahkanlah yang masih tersisa." Setelah hal itu berlalu, orang-orang berkata, "Wahai Rasulullah, sesungguhnya orang-orang memanfaatkan dari kurban, mereka mencairkan lemaknya dan darinya mereka membuat geriba." Beliau bersabda: "Ada apa dengan hal itu?" Mereka berkata, "Engkau telah melarang memakan daging kurban setelah lewat tiga hari." Beliau bersabda: "Sesungguhnya saya melarang sekelompok orang yang datang terburu-buru, oleh karena itu makan, simpan dan bersedekahlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5103</td></tr><tr><td>Arabic No</td><td>1971</td></tr><tr><td>Reference</td><td>Book 35 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5103</td></tr><tr><td>Arabic No</td><td>1971</td></tr><tr><td>Reference</td><td>Book 35 Hadith 40</td></tr></tbody></table></div>
 

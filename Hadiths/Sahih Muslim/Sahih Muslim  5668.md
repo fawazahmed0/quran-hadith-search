@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) : Sawda sortit, après la prescription d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] berkata; "Pada suatu malam Saudah bin Zam'ah, istri Rasulullah shallallahu 'alaihi wasallam, keluar untuk buang hajat di tanah lapang. Saudah adalah seorang wanita besar yang tingginya melebihi rata-rata wanita Arab, hingga orang-orang yang melihatnya tidak akan sulit untuk mengenalinya. Kebetulan 'Umar bin Khaththab melihatnya dan berkata; 'Hai Saudah, demi Allah saya bisa mengenalimu. Oleh karena itu, janganlah kamu keluar rumah.' 'Aisyah berkata; 'Setelah itu ia berbalik pulang ke rumah. Pada saat itu Rasulullah shallallahu 'alaihi wasallam sedang makan malam dengan sepotong daging di tangannya. Lalu Saudah masuk ke dalam rumah untuk buang hajat. Tetapi 'Umar berkata begini dan begitu.' 'Aisyah berkata; 'Tak lama kemudian Rasulullah pun menerima wahyu. Setelah menerima wahyu -sementara sepotong daging masih beliau pegang- beliau pun bersabda: 'Sesungguhnya kalian (para istriku) diperbolehkan keluar rumah untuk buang hajat.' Dan di dalam riwayat Abu Bakr di sebutkan dengan lafazh Yafra'u (tubuhnya tinggi). Abu Bakr di dalam Hadits menambahkan, Hisyam berkata; yaitu Al Barraz. Dan telah menceritakannya kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Hisyam] melalui jalur ini, dan dia berkata; 'Dia adalah seorang wanita yang tinggi tubuhnya di antara yang lainnya. Dia juga berkata; 'Pada saat itu Rasulullah shallallahu 'alaihi wasallam sedang makan malam.' Dan telah menceritakannya kepadaku [Suwaid bin Sa'id]; Telah menceritakan kepada kami ['Ali bin Mushir] dari [Hisyam] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5668</td></tr><tr><td>Arabic No</td><td>2170.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5668</td></tr><tr><td>Arabic No</td><td>2170.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
 

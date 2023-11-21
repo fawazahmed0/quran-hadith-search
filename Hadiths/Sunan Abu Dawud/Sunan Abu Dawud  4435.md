@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Lajlaj al-Amiri: I was working in the market. A woman passed carryin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 40 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Ляджляха: «Я сидел на рынке, занимаясь своим ремеслом, и мимо меня прошла женщина с ребёнком, и люди окружили её, и я пошёл с ними. Когда я дошёл до Пророка ﷺ он говорил ей: “Кто отец ребёнка, который с тобой?” Она молчала. Тогда юноша, стоявший напротив неё, сказал: “Я его отец, о Посланник Аллаха”. (Посланник Аллаха ﷺ) снова повернулся к ней и спросил: “Кто отец ребёнка, который с тобой?” Она молчала. Юноша повторил: “Я его отец, о Посланник Аллаха”. Тогда Посланник Аллаха ﷺ посмотрел на окружавших его людей и спросил о нём. Они ответили: “Мы не знаем ничего, кроме благого”. Пророк ﷺ спросил его: “Ты вступал в половую связь в браке?” Он ответил: “Да”. Тогда (Посланник Аллаха ﷺ) велел побить его камнями. Мы вывели его, вырыли для него яму, поставили его туда и побивали его камнями, пока он не затих. Потом пришёл один человек, чтобы спросить об убитом. Мы отвели его к Пророку ﷺ и сказали: “Вот этот пришёл спросить о нечестивце”. Посланник Аллаха ﷺ сказал: “Пред Аллахом он лучше аромата мускуса!” А этот человек оказался отцом прелюбодея, и мы помогли ему омыть тело, завернуть в саван и похоронить». Передатчик хадиса сказал: «И я не знаю, что он сказал насчёт молитвы джаназа: совершали они её над ним или нет?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 40 Hadith 85</td></tr></tbody></table></div>
 

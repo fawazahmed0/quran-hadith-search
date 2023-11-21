@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Musa bin 'Uqba:(From the daughter of Khalid bin Sa id bin Al-'Asi) who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'allaa] telah menceritakan kepada kami [Wuhaib] dari [Musa bin 'Uqbah] berkata, telah menceritakan kepada saya dari [Khalid bin Sa'id bin Al 'Ash] bahwa dia mendengar Nabi Shallallahu'alaihiwasallam ketika Beliau berlindung dari siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1376</td></tr><tr><td>Arabic No</td><td>1376</td></tr><tr><td>Reference</td><td>Book 23 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что дочь Халида ибн Са‘ид ибн аль-‘Ас, слышала, как Пророк ﷺ просил прибежища у Аллаха от наказания в могиле
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1376</td></tr><tr><td>Arabic No</td><td>1376</td></tr><tr><td>Reference</td><td>Book 23 Hadith 128</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bahz b. Hakim said that his father told on the authority of his grandfather:I sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Bapakku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Basysyar] berkata, telah menceritakan kepada kami [Yahya] sebagaimana dalam riwayatnya, dari [Bahz bin Hakim] dari [Bapaknya] dari [Kakeknya] ia berkata, "Aku bertanya, "Wahai Rasulullah, tentang aurat kami, siapakah yang boleh kami perlihatkan dan siapa yang tidak boleh?" beliau menjawab: "Jagalah auratmu kecuali kepada isteri atau budak yang kamu miliki." Ia berkata, "Aku bertanya, "Wahai Rasulullah, bagaimana dengan suatu kaum saling bercampur dalam satu tempat (yang mereka saling melihat aurat antara satu dengan yang lain)?" beliau menjawab: "Jika kamu mampu, maka jangan sampai ada seorang pun yang melihatnya." Ia berkata, "Aku bertanya, "Wahai Rasulullah, bagaimana jika salah seorang dari kami sedang sendiri?" beliau menjawab: "Allah lebih berhak untuk kamu malu darinya dari pada manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4017</td></tr><tr><td>Arabic No</td><td>4017</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Бахз ибн Хаким передаёт от своего отца рассказ своего деда: «Я спросил: “О Посланник Аллаха, что из наших срамных мест мы можем обнажать, а что нет?” ([Посланник Аллаха ﷺ) ответил: “Оберегай свой аурат ото всех, кроме своих жён и наложниц”. Я спросил: “О Посланник Аллаха, а если мужчины сидят вместе?” ([Посланник Аллаха ﷺ) сказал: “Если сможешь сделать так, чтобы твой аурат никто не видел, то так и сделай”. Я спросил: “О Посланник Аллаха, а если один из нас пребывает в одиночестве?” (Посланник Аллаха ﷺ) сказал: “Аллах больше людей заслуживает того, чтобы проявлять стыдливость по отношению к Нему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4017</td></tr><tr><td>Arabic No</td><td>4017</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
 

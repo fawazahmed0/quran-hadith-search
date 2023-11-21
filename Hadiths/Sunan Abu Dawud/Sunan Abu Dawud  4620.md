@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Explaining the Quranic verse; “And between them and their desire is placed a b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] ia berkata; telah mengabarkan kepada kami [Sufyan] dari [seorang laki-laki] yang banyak disebut namanya kecuali Ibnu Katsir, dari [Sufyan] dari [Ubaid Ash Shaid] dari [Al hasan] tentang firman Allah Azza Wa Jalla: '(Dan dihalangi antara mereka dengan apa yang mereka ingini….) ' -Qs. Saba: 54- ia berkata, "Yaitu antara mereka dengan keimanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хасан сказал о словах Всемогущего и Великого Аллаха «…между ними и тем, что они пожелают, воздвигнута преграда»: «(Имеется в виду) между ними и верой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
 

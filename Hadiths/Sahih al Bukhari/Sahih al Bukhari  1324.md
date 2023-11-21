@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar was told that Abu Huraira said, "Whoever accompanies th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Jarir bin Hazim] berkata; Aku mendengar [Nafi'] berkata; disampaikan kepada [Ibnu 'Umar] bahwa [Abu Hurairah radliallahu 'anhu] berkata,: "Barangsiapa yang mengantar jenazah baginya pahala satu qirath. Maka dia (Ibnu 'Umar radliallahu 'anhu ma) berkata,: Abu Hurairah berlebihan terhadap kita". Namun kemudian pernyataan Abu Hurairah radliallahu 'anhu dibenarkan, yakni oleh ['Aisyah radliallahu 'anha] dan [Abu Hurairah] berkata; aku mendengar Rasulullah Shallallahu'alaihiwasallam mengatakannya. Maka [Ibnu 'Umar radliallahu 'anhu] berkata: "Kami telah banyak meremehkan masalah dan aku telah meremehkan dan melalaikan urusan (agama) Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1324</td></tr><tr><td>Arabic No</td><td>1324</td></tr><tr><td>Reference</td><td>Book 23 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Однако ‘Аиша, да будет доволен ею Аллах, подтвердила правоту Абу Хурайры и сказала: “Я слышала, как то же самое говорил Посланник Аллаха ﷺ ”. Тогда Ибн ‘Умар, да будет доволен Аллах ими обоими, воскликнул: “(Значит,) упустили мы множество каратов (награды)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1324</td></tr><tr><td>Arabic No</td><td>1324</td></tr><tr><td>Reference</td><td>Book 23 Hadith 80</td></tr></tbody></table></div>
 

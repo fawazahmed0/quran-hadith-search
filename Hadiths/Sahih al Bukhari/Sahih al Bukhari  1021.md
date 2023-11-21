@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) I was delivering the Khutba (sermon) on a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar] telah menceritakan kepada kami [Mu'tamir] dari ['Ubaidullah] dari [Tsabit] dari [Anas bin Malik] berkata, "Ketika Nabi shallallahu 'alaihi wasallam berkhutbah pada hari Jum'at, lalu orang-orang berdiri dan berseru, "Wahai Rasulullah, hujan sudah tidak turun hingga pepohonan memerah dan hewan-hewan banyak yang mati. Maka mintalah kepada Allah agar menurunkan hujan buat kami!" Beliau lalu berdoa: "Ya Allah, berilah kami air hujan." dua kali. Demi Allah, sebelumnya kami tidak melihat ada awan yang tipis sekalipun hingga muncul awan tebal, kemudian hujan pun turun. Setelah itu beliau turun dari mimbar dan melaksanakan shalat. Setelah selesai, hujan masih terus turun bahkan hingga Jum'at berikutnya. Maka ketika Nabi shallallahu 'alaihi wasallam berdiri menyampaikan khutbah, orang-orang kembali berseru kepada beliau: "Rumah-rumah telah hancur, jalan-jalan terputus, berdo'alah kepada Allah agar menahan hujan dari kami!" Nabi shallallahu 'alaihi wasallam lalu tersenyum seraya berdoa: "Ya Allah turunkanlah hujan di sekitar kami saja dan jangan membahayakan kami." Maka Madinah menjadi terang kembali dan hujan hanya turun di sekitarnya, bahkan tidak ada hujan setetespun di Madinah. Kemudian aku melihat langit Madinah, dan nampak hujan hanya turun disekitarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1021</td></tr><tr><td>Arabic No</td><td>1021</td></tr><tr><td>Reference</td><td>Book 15 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) в пятницу, когда Пророк ﷺ произносил хутбу, люди закричали, говоря: “О Посланник Аллаха, дождя нет, деревья высохли и скот погиб, так попроси же Аллаха, чтобы Он ниспослал нам дождь”. Тогда он сказал: “О, Аллах, ниспошли нам дождь!”, — два раза. Клянусь Аллахом, (в это время) на небе не было ни одной тучи или облачка, и (вдруг) появилась туча, и полил дождь. Пророк ﷺ спустился с минбара и совершил молитву. Когда он вернулся с молитвы (в свой дом), шел дождь, и он шел непрерывно до следующей пятницы. Когда Пророк ﷺ начал произносить пятничную хутбу, люди начали кричать, говоря: “Дома рухнули, а дороги испортились, так попроси же Аллаха, чтобы Он остановил (дождь)!” Тогда Пророк ﷺ улыбнулся и сказал: “О Аллах, вокруг нас, а не на нас!” Итак, небо над Мединой прояснилось, но дождь продолжал идти над ее окраинами, и ни одна капля дождя не падала на Медину. Я посмотрел на Медину и увидел, как тучи образовали вокруг нее подобие венца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1021</td></tr><tr><td>Arabic No</td><td>1021</td></tr><tr><td>Reference</td><td>Book 15 Hadith 16</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Malik: One should not exceed al-Mu'arras when one returns to Medina unt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], ia berkata; [Malik] berkata; tidak selayaknya seseorang melampaui Al Mu'arras apabila ia kembali ke Madinah hingga ia melakukan shalat padanya sesuai keinginannya, karena telah sampai kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam singgah di akhir malam untuk istirahat padanya. Abu Daud berkata; aku mendengar Muhammad bin Ishak Al Madani berkata; Al Mu'arras jaraknya enam mil dari Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2045</td></tr><tr><td>Arabic No</td><td>2045</td></tr><tr><td>Reference</td><td>Book 11 Hadith 325</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Малик сказал: «Никто не должен проходить дальше Му‘арраса, когда возвращается в Медину, пока не совершит там хоть какую-нибудь молитву, потому что мне передали, что Посланник Аллаха ﷺ останавливался здесь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2045</td></tr><tr><td>Arabic No</td><td>2045</td></tr><tr><td>Reference</td><td>Book 11 Hadith 325</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hamza b. 'Abdullah b. Umar heard his father say that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Laits] dari [Ubaidullah bin Abu Ja'far] dari [Hamzah bin Abdullah bin Umar] bahwa ia mendengar [bapaknya] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang terus meminta-minta hingga kelak pada hari kiamat ia menjumpai Allah sementara di wajahnya tidak ada sekerat daging pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>1040.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Человек будет обращаться с просьбами к людям до тех пор, пока не явится он в День воскресения без единого кусочка плоти на своём лице»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>1040.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 135</td></tr></tbody></table></div>
 

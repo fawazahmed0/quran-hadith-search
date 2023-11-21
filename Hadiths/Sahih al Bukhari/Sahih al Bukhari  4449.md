@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:It was one of the favors of Allah towards me that Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4449</td></tr><tr><td>Arabic No</td><td>4449</td></tr><tr><td>Reference</td><td>Book 64 Hadith 469</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, часто говорила: «К числу благодеяний, (оказанных) мне Аллахом, (относится то, что) Посланник Аллаха ﷺ скончался в моем доме и в мой день, покоясь у меня на груди, и то, что (по воле) Аллаха моя слюна смешалась с его слюной, когда он умирал. (Дело в том, что, когда) ко мне зашел ‘Абдуррахман, державший в руке зубочистку, я поддерживала Посланника Аллаха ﷺ. Увидев, что (Пророк ﷺ) смотрит (на эту зубочистку), я поняла, что он хочет (воспользоваться) ею, и спросила: “Взять ее для тебя?” — и он кивнул головой (в знак согласия). Тогда я взяла ее, но оказалось (, что пользоваться) ею для него трудно, и я спросила: “Размягчить ее для тебя?” — и он (снова) кивнул головой. Тогда я разжевала ее, а (Пророк ﷺ) стал водить ею (по зубам). Перед ним находился сосуд (или: чаша) с водой, куда он опускал руки, после чего проводил ими по своему лицу и говорил: “Нет истинного бога, кроме Аллаха, поистине, смерти (предшествует) агония! /Ля иляха илля-Ллах, инна ли-ль-маути сакарат!/” — а потом он поднял свою руку и продолжал произносить слова “О Аллах, (позволь мне оказаться) в высшем обществе! /Аллахумма, фир-р-рафики-ль-а‘ля!/”, пока не умер и рука его не упала»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4449</td></tr><tr><td>Arabic No</td><td>4449</td></tr><tr><td>Reference</td><td>Book 64 Hadith 469</td></tr></tbody></table></div>
 

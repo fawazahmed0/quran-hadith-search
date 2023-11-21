@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : Comme on posait au Prophète (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Barrad Al Asy'ari] dan [Muhammad bin Al A'laa Al Hamdani] dia berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraidah] dari [Abu Burdah] dari [Abu Musa] dia berkata; Nabi shallallahu 'alaihi wasallam pernah ditanyai mengenai beberapa hal yang sebenarnya beliau membencinya. Dan ketika hal itu selalu ditanyakan kepada beliau, maka beliaupun marah lantas berdiri dan berkata kepada orang-orang: 'Tanyakanlah kepadaku semau kalian? Maka ada seorang lelaki berkata: Siapakah bapakku? Beliau menjawab: 'bapakmu adalah Hudzafah.' Lalu ada lagi seorang lelaki yang berdiri dan berkata: Wahai Rasulullah, siapakah bapakku? Beliau menjawab: 'bapakmu adalah Salim budak dari Syaibah.' Dan ketika Umar melihat kemarahan pada wajah Rasulullah, ia berkata: Wahai Rasulullah, sesungguhnya kami bertaubat kepada Allah. Dan dalam riwayat Abu Kuraib disebutkan: siapakah bapakku wahai Rasulullah? Lantas beliau menjawab: 'bapakmu adalah Salim budak dari Syaibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6125</td></tr><tr><td>Arabic No</td><td>2360</td></tr><tr><td>Reference</td><td>Book 43 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6125</td></tr><tr><td>Arabic No</td><td>2360</td></tr><tr><td>Reference</td><td>Book 43 Hadith 183</td></tr></tbody></table></div>
 

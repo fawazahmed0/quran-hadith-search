@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A man divorced his wife thrice (by expressing his decision to di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Yahya] dari [Ubaidullah] ia berkata; Telah menceritakan kepadaku [Al Qasim bin Muhammad] dari [Aisyah] bahwa ada seorang laki-laki menceraikan isterinya dengan talak tiga. Lalu wanita itu menikah dan diceraikan lagi. Maka Nabi shallallahu 'alaihi wasallam pun ditanya, apakah wanita itu telah halal untuk suaminya yang pertama. Maka beliau menjawab: "Tidak, hingga laki-laki kedua itu merasakan madunya sebagaimana laki-laki pertama telah merasakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>5261</td></tr><tr><td>Reference</td><td>Book 68 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Пророка ﷺ спросили о человеке, который трижды дал своей жене развод, после чего она вышла замуж за другого, который затем тоже дал ей развод: дозволяется ли первому мужу посвататься к ней вновь? Пророк ﷺ ответил: «Нет, пока он (тот, за которого она выходила замуж) не познает её сладость, подобно тому, как познал её первый»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>5261</td></tr><tr><td>Reference</td><td>Book 68 Hadith 11</td></tr></tbody></table></div>
 

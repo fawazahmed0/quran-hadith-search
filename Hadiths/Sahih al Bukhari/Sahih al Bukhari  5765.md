@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Magic was worked on Allah's Messenger (ﷺ) so that he used to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] dia berkata; saya mendengar [Ibnu 'Uyainah] berkata; orang yang pertama kali menceritakan kepada kami adalah [Ibnu Juraij], dia berkata; telah menceritakan kepadaku [keluarga 'Urwah] dari ['Urwah], lalu aku bertanya kepada [Hisyam] tentang haditsnya, maka dia menceritakannya kepada kami dari [Ayahnya] dari ['Aisyah] radliallahu 'anha dia berkata; bahwa Rasulullah shallallahu 'alaihi wasallam pernah disihir hingga seakan-akan beliau telah mendatangi para isterinya, padahal beliau tidak mendatanginya, -Sufyan mengatakan; "Bahwa keadaan seperti ini termasuk sihir yang paling berat- kemudian beliau bersabda: "Wahai Aisyah, apakah kamu mengetahui bahwa Allah telah memberikan fatwa (menghukumi) dengan apa yang telah aku fatwakan (hukumi)? Dua orang laki-laki telah datang kepadaku, lalu salah seorang dari keduanya duduk di atas kepalaku dan satunya lagi di kakiku. Kemudian seorang yang berada di kepalaku berkata kepada yang satunya; "Kenapa laki-laki ini?" temannya menjawab; "Terkena sihir.' salah seorang darinya bertanya; "Siapakah yang menyihirnya?" temannya menjawab; "Lubid bin Al A'sham, laki-laki dari Bani Zuraiq, seorang munafik dan menjadi sekutu orang-orang Yahudi." Salah seorang darinya bertanya; "Dengan benda apakah dia menyihir?" temannya menjawab; "Dengan rambut yang terjatuh ketika disisir." Salah seorang darinya bertanya; "Di manakah benda itu diletakkan?" temannya menjawab; "Di mayang kurma yang diletakkan di bawah batu dalam sumur Dzarwan." Aisyah berkata; "Kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi sumur tersebut hingga beliau dapat mengeluarkan barang tersebut, lalu beliau bersabda: "Ini adalah sumur yang diperlihatkan padaku, seakan-akan airnya berubah bagaikan rendaman pohon inai dan seakan-akan pohon kurmanya bagaikan kepala syetan." Abu Hisyam berkata; "apakah beliau meminta barangnya dikeluarkan?" Aisyah berkata; Lalu aku bertanya; "Apakah anda tidak meruqyahnya?" beliau bersabda: "Tidak, sesungguhnya Allah telah menyembuhkanku dan aku hanya tidak suka memberikan kesan buruk kepada orang lain dari peristiwa itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5765</td></tr><tr><td>Arabic No</td><td>5765</td></tr><tr><td>Reference</td><td>Book 76 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время) Посланник Аллаха ﷺ был околдован до такой степени, что ему стало казаться, будто он вступал в половую близость со своими жёнами, хотя (на самом деле) он этого не делал. Пророк ﷺ сказал: “О ‘Аиша, знаешь ли ты, что Аллах дал мне совет относительно того, о чём я просил у Него совета? (Во сне) ко мне явились два человека, один из которых сел у моего изголовья, а другой — у меня в ногах, после чего тот, кто сидел у изголовья, спросил другого: “Что с этим человеком?” Тот ответил: “Он околдован”. Он спросил: “Кто же околдовал его?” Тот ответил: “Лябид ибн аль-А‘сам — человек из (племени) бану зурайк, который был союзником иудеев и лицемером”. Он спросил: “Что (он для этого использовал)?” Тот ответил: “Гребень и очёски волос”. Он спросил: “Где это (находится)?” Тот ответил: “В кожуре пыльцы пальмы мужского рода, под камнем в колодце Заруан””. И Пророк ﷺ пришёл к колодцу, извлёк его оттуда и сказал: “Это колодец, который был показан мне (во сне), (по цвету) его вода подобна настою хны, а пальмы, (растущие около) него, подобны головам шайтанов”. Пророк ﷺ добавил: “Затем это было извлечено”. Я сказала: “Разве ты не развязал его (сняв колдовство)?” Он сказал: “Аллах исцелил меня, и я не хочу, чтобы зло распространялось на кого-то из людей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5765</td></tr><tr><td>Arabic No</td><td>5765</td></tr><tr><td>Reference</td><td>Book 76 Hadith 79</td></tr></tbody></table></div>
 

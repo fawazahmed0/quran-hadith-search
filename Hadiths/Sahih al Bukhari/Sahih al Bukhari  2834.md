@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) went towards the Khandaq (i.e. Trench) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah bin 'Amru] telah bercerita kepada kami [Abu Ishaq] dari [Humaid] berkata aku mendengar [Anas radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam berangkat menuju Khandaq (parit) yang sedang digali oleh orang-orang Muhajirin dan Anshar di waktu pagi yang sangat dingin, sementara tidak ada hamba sahaya yang bekerja seperti itu untuk mereka. Ketika Beliau melihat apa yang dialami oleh mereka berupa kelelahan dan kelaparan, Beliau bersya'ir: "Allahumma ya Allah, sesungguhnya kehidupan (yang sebenarnya) adalah kehidupan di akhirat. Maka itu ampunilah Kaum Anshor dan Muhajirin". Maka para sahabat membalasnya dengan bersya'ir pula: "Kami adalah orang-orang yang telah berbai'at kepada Muhammad. Untuk terus berjihad selagi kami hidup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2834</td></tr><tr><td>Arabic No</td><td>2834</td></tr><tr><td>Reference</td><td>Book 56 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: (Однажды) холодным утром Посланник Аллаха ﷺ направился ко рву и увидел, что мухаджиры и ансары сами копают землю, (так как) у них не было рабов, которые сделали бы это за них. Заметив, что они страдают от усталости и голода, (Пророк ﷺ) воскликнул: «О Аллах, поистине, жизнью (истинной будет) жизнь в мире вечном, прости же ансаров и мухаджиров!» Они же ответили ему так: «Мы те, кто поклялся Мухаммаду, что будем вести джихад, пока живы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2834</td></tr><tr><td>Arabic No</td><td>2834</td></tr><tr><td>Reference</td><td>Book 56 Hadith 50</td></tr></tbody></table></div>
 

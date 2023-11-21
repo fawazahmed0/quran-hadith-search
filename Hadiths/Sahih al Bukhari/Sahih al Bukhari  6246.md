@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I entered (the house) along with Allah's Messenger (ﷺ) . 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami ['Umar bin Dzar], dan telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Umar bin Dzar] telah mengabarkan kepada kami [Mujahid] dari [Abu Hurairah] radliallahu 'anhu dia berkata; "Aku pernah masuk bersama Rasulullah shallallahu 'alaihi wasallam, lalu kami mendapatkan semangkok susu, beliau bersabda: "Wahai Abu Hurairah, temuilah ahli Shuffah dan panggilah mereka kemari." Abu Hurairah berkata; "Lantas aku menemui mereka dan memanggilnya, setelah itu mereka memenuhi panggilan beliau dan meminta izin masuk, setelah mereka di izinkan masuk, barulah mereka masuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6246</td></tr><tr><td>Arabic No</td><td>6246</td></tr><tr><td>Reference</td><td>Book 79 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я вошёл вместе с Посланником Аллаха ﷺ и, увидя чашу с молоком, он сказал: “Абу Хирр! Отправляйся к живущим под навесом и позови их ко мне”. Я пришёл и позвал их. Они пришли, попросили разрешения войти и, когда им было разрешено, вошли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6246</td></tr><tr><td>Arabic No</td><td>6246</td></tr><tr><td>Reference</td><td>Book 79 Hadith 20</td></tr></tbody></table></div>
 

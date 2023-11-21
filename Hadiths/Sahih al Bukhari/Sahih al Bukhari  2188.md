@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:Allah's Messenger (ﷺ) al lowed the owner of 'Araya to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari [Nafi'] dari [Ibnu 'Umar] dari [Zaid bin Tsabit radliallahu 'anhum] bahwa Rasulullah shallallahu 'alaihi wasallam memberi kelonggaran bagi pemilik 'Ariyyah untuk menjualnya dengan taksiran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2188</td></tr><tr><td>Arabic No</td><td>2188</td></tr><tr><td>Reference</td><td>Book 34 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Зейда ибн Сабита, да будет доволен им Аллах, что Посланник Аллаха ﷺ разрешил обменивать несобранный урожай свежих фиников на сухие в количестве, соответствующем урожаю сухих фиников (‘арайа)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2188</td></tr><tr><td>Arabic No</td><td>2188</td></tr><tr><td>Reference</td><td>Book 34 Hadith 135</td></tr></tbody></table></div>
 

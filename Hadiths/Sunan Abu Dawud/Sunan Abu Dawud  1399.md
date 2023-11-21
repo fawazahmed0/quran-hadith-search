@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr: A man came to the Messenger of Allah (ﷺ) and said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa Al Balhi] dan [Harun bin Abdullah] keduanya berkata; telah mengabarkan kepada kami [Abdullah bin Yazid] telah mengabarkan kepada kami [Sa'id bin Abu Ayyub] telah menceritakan kepadaku ['Ayyasy bin Abbas Al Qitbani] dari [Isa bin Hilal Ash Shadafi] dari [Abdullah bin 'Amru] dia berkata; seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam sambil berkata; "Wahai Rasulullah, koreksilah bacaanku!" Maka beliau pun berkata kepadanya: "Bacalah tiga surat yang di dahului Alif Laam Ra'." Lelaki itu berkata; "Umurku sudah tua, dan hatiku sudah mengeras, serta lidahku juga sudah kelu." Beliau berkata: "Kalau begitu bacalah surat yang di dahului Haa' Mim." Maka lelaki itupun mengatakan seperti perkataannya yang tadi. Beliau berkata: "Bacalah tiga surat yang diawali dengan sabbaha." Dan lelaki itupun mengatakan seperti perkataannya yang pertama, lalu dia mengatakan, "Wahai Rasulullah, yang aku mau anda membacakan kepadaku satu surat yang mencakup keseluruhan." Maka beliau menyuruhnya membaca surat Idzaa zulzilatil ardlu, hingga selesai. Laki-laki itu berkata; "Demi Dzat Yang telah mengutusmu dengan kebenaran, aku tidak akan menambahinya untuk selamanya." Lalu orang itupun berpaling dan pergi meninggalkan beliau, lalu Rasulullah pun bersabda: "Sungguh beruntung orang itu, sungguh beruntung orang itu" Beliau mengucapkannya hingga dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1399</td></tr><tr><td>Arabic No</td><td>1399</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что один человек пришёл к Посланнику Аллаха ﷺ и сказал: «Научи меня читать Коран, о Посланник Аллаха». Он ответил: «Читай три суры из числа тех, в начале которых есть “Ра”». Тот человек сказал в ответ: «Я уже стар, сердце моё очерствело, а язык стал неповоротливым!» (Посланник Аллаха ﷺ) сказал: «Читай три суры из числа начинающихся с “Ха. Мим”». Тот человек сказал то же, что и до этого. Тогда (Посланник Аллаха ﷺ) сказал: «Читай три суры из числа начинающихся с восхваления Аллаха». Тот человек сказал то же, что говорил до этого, и добавил: «О Посланник Аллаха, научи меня какой-нибудь не очень большой суре, в которую вложено много смысла». Тогда Пророк ﷺ научил его суре «аз-Зальзаля». Тогда этот человек сказал: «Клянусь Аллахом, я никогда ничего не добавлю к ней!» Сказав это, он повернулся и ушёл, а Пророк ﷺ сказал: «Этот человек преуспел», повторив свои слова дважды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1399</td></tr><tr><td>Arabic No</td><td>1399</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
 

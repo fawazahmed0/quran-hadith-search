@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Abi Hathma:'Abdullah bin Sahl and Muhaiyisa bin Mas'ud bin Zai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Bisyir, dia adalah anak Al Mufadlal] telah bercerita kepada kami [Yahya] dari [Busyair bin Yasar] dari [Sahal binAbi Hatsmah] berkata; "'Abdullah bin Sahal dan Muhayyishah bin Mas'ud bin Zaid berangkat menuju Khaibar yang saat itu Khaibar terikat dengan perjanjian damai lalu keduanya terpisah. Kemudian Muhayyishah mendapatkan 'Abdullah bin Sahal dalam keadaan gugur bersimbah darah lalu dia menguburkannya. Kemudian dia kembali ke Madinah. Lalu 'Abdur Rahman bin Sahal, Muhayyishah dan Huwayyishah, keduanya anak Mas'ud, menemui Nabi shallallahu 'alaihi wasallam. 'Abdur Rahman bin Sahal memulai berbicara Namun Beliau Shallallahu'alaihiwasallam berkata; "Tolong yang bicara yang lebih tua, tolong yang bicara yang lebih tua". Dia ('Abdur Rahman) memang yang paling muda usia diantara kaum yang hadir, lalu dia pun diam. Maka keduanya (anak Mas'ud) berbicara". Beliau Shallallahu'alaihiwasallam bertanya; "Hendaknya kalian bersumpah sehingga bisa menuntut pembunuhnya atau kalian tuntut darah saudara kalian". Mereka berkata; "Bagaimana kami dapat bersumpah padahal kami tidak menyaksikan dan tidak melihat kejadiannya". Beliau berkata: "Kalau begitu kaum Yahudi bisa menyatakan ketidakterlibatannya dengan lima puluh sumpah". Mereka bertanya; "Bagaimana mungkin kami terima sumpah kaum kafir?". Akhirnya Nabi shallallahu 'alaihi wasallam membayar diyatnya dari harta Beliau sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 58 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль бин Абу Хасма, да будет доволен им Аллах, сказал: «(В своё время) ‘Абдуллах бин Сахль и Мухаййиса бин Мас‘уд бин Зейд, да будет доволен Аллах ими обоими, отправились в Хайбар(, и это было после заключения) перемирия (между его жителями и мусульманами. Там) они расстались друг с другом, а когда позднее Мухаййиса вернулся к ‘Абдуллаху бин Сахлю, он нашёл его убитым и лежащим в луже собственной крови. Тогда он похоронил его и вернулся в Медину, а после этого ‘Абд ар-Рахман бин Сахль, Мухаййиса бин Мас‘уд и Хуваййиса бин Мас‘уд отправились к Пророку ﷺ и ‘Абд ар-Рахман хотел заговорить (с ним), но он сказал: “Пусть говорит старший, пусть говорит старший!” Тогда (‘Абд ар-Рахмана), который был самым молодым из них, замолчал, а двое других стали говорить. (Выслушав их, Пророк ﷺ) сказал: “Можете ли вы принести клятвенное (свидетельство против убийцы, чтобы) по праву взыскать с него за кровь вашего убитого (или: вашего товарища)?” Они сказали: “Как можем мы поклясться, если мы не присутствовали (при этом и ничего) не видели?” (Пророк ﷺ) сказал: “(Тогда) пусть иудеи оправдаются перед вами с помощью клятвы, которую принесут пятьдесят человек”. (На это) они сказали: “Как же мы можем поверить клятвам неверных?” — и тогда Пророк ﷺ выплатил виру за кровь убитого из своих средств»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 58 Hadith 15</td></tr></tbody></table></div>
 

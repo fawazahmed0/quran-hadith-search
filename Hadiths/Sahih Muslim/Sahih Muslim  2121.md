@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) transmet ces paroles d'après 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Amru bin Al Harits] bahwa [Abdurrahman bin Qasim] telah menceritakan kepadanya dari bapaknya [Al Qasim bin Muhammad bin Abu Bakar Ash Shiddiq], dari [Abdullah bin Umar] bahwa ia telah mengabarkan dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Sesungguhnya tidaklah terjadi gerhana matahari dan bulan karena kematian seseorang atau pun kelahirannya, akan tetapi keduanya adalah ayat-ayat Allah. Karena itu, bila kalian melihat (gerhana), maka shalatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2121</td></tr><tr><td>Arabic No</td><td>914</td></tr><tr><td>Reference</td><td>Book 10 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Поистине, солнечные и лунные затмения происходят не по причине смерти или жизни кого-то (из людей), однако они являются знамениями из знамений Аллаха. Поэтому, когда вы увидите (подобное), совершайте молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2121</td></tr><tr><td>Arabic No</td><td>914</td></tr><tr><td>Reference</td><td>Book 10 Hadith 30</td></tr></tbody></table></div>
 

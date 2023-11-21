@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The verse: "And say to the believing women that they should 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] berkata, telah menceritakan kepada kami [Ali Ibnul Husain bin Waqid] dari [Bapaknya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] berkata, "Tentang ayat: (Katakanlah kepada wanita yang beriman, 'Hendaklah mereka menahan pandangannya..) ' telah dihapus, namun ada yang dikecualikan: '(dan wanita-wanita tua yang telah terhenti (dari haid dan mengandung), yang tidak ingin kawin (lagi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 34 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн ‘Аббас, да будет доволен Аллах им и его отцом, что исключением из слов Всевышнего «Скажи верующим женщинам, чтобы они опускали взоры свои…» стали слова Всевышнего «Нет греха на престарелых женщинах, которые не надеются на замужество…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 34 Hadith 92</td></tr></tbody></table></div>
 

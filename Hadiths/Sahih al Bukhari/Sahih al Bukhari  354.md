@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Abi Salama:The Prophet (ﷺ) prayed in one garment and crosse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] berkata, telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Umar bin Abu Salamah], bahwa Nabi shallallahu 'alaihi wasallam shalat dengan mengenakan satu kain yang diikatkan pada kedua sisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>354</td></tr><tr><td>Reference</td><td>Book 8 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара ибн Абу Салямы, да будет доволен им Аллах, о том, что (иногда) Пророк ﷺ молился в одной одежде, краями которой он покрывал себе плечи, накидывая их друг на друга
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>354</td></tr><tr><td>Reference</td><td>Book 8 Hadith 6</td></tr></tbody></table></div>
 

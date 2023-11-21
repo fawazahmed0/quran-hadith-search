@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that he heard the Messenger of Allah (ﷺ) say:When 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Rafi'] berkata Ibnu Rafi' telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu az-Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian beristijmar (bersuci dengan batu), maka hendaklah dia mengganjilkan bilangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>565</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 2 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас будет очищаться с помощью камней, пусть делает это нечётное число раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>565</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 2 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan, [Said bin Al Musayyab] mengatakan, telah mengabarkan kepadaku [Abu Hurairah] radliallahu 'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari kiamat tidak akan tiba sehingga pantat-pantat wanita daus berjoget pada Dzul khulashah, dan Dzul khulashah ialah thaghut suku Daus yang mereka sembah di masa jahiliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7116</td></tr><tr><td>Arabic No</td><td>7116</td></tr><tr><td>Reference</td><td>Book 92 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Не наступит (Судный) Час, пока не станут женщины племени даус трясти ягодицами, (кружась) вокруг Зуль-Халяса».\nЗуль-Халяса — это идол, которому поклонялось (племя) даус, в доисламские времена»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7116</td></tr><tr><td>Arabic No</td><td>7116</td></tr><tr><td>Reference</td><td>Book 92 Hadith 63</td></tr></tbody></table></div>
 

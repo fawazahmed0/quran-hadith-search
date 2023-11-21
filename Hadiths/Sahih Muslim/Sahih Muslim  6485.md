@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id reported that when Allah's Apostle (ﷺ) came back from Tabuk they (hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Abu Khalid] dari [Dawud] dan lafazh ini miliknya; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Sulaiman bin Hayyan] dari [Dawud] dari [Abu Nadhrah] dari [Abu Sa'id] dia berkata; dia berkata; Tatkala Nabi shallallahu 'alaihi wasallam kembali dari perang Tabuk, para sahabat bertanya kepada beliau tentang hari kiamat. Lalu beliau bersabda: "Tidak akan ada lagi orang-orang yang hidup pada hari ini, setelah seratus tahun yang akan datang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6485</td></tr><tr><td>Arabic No</td><td>2539</td></tr><tr><td>Reference</td><td>Book 44 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6485</td></tr><tr><td>Arabic No</td><td>2539</td></tr><tr><td>Reference</td><td>Book 44 Hadith 314</td></tr></tbody></table></div>
 

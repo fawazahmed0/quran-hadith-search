@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "But for the Israelis, meat would n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Busyr bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam seperti hadit di atas, yakni; "Seandainya bukan karena perbuatan Bani Isra'il maka daging tidak akan membusuk dan seandainya bukan karena Hawa' (istri Nabi Adam alaihissalam) tentu wanita tidak akan mengkhiyanati suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 60 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если бы не израильтяне, мясо бы не портилось, а если бы не Хавва, то женщины не обманывали бы своих мужей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 60 Hadith 5</td></tr></tbody></table></div>
 

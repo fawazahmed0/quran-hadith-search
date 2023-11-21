@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "O Bani 'Abd Munaf! Buy yourselves 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah mengabarkan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Bani 'Abdu Manaf, belilah jiwa-jiwa kalian (peliharalah) dari siksa Allah, wahai Bani 'Abdul Muthallib, belilah jiwa-jiwa kalian (peliharalah) dari siksa Allah. Wahai ibunda Az Zubair bin Al 'Awwam, bibi Rasulullah shallallahu 'alaihi wasallam, wahai Fathimah binti Muhammad belilah jiwa-jiwa kalian berdua (peliharalah) dari siksa Allah. Aku tidak berkuasa melindungi kalian berdua di hadapan Allah sedikitpun dan mintalah hartaku mana yang kalian suka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3527</td></tr><tr><td>Arabic No</td><td>3527</td></tr><tr><td>Reference</td><td>Book 61 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «О бану ‘абд манаф, выкупайте свои души у Аллаха! О бану ‘абд аль-мутталиб, выкупайте свои души к Аллаха! О Умм аз-Зубейр ибн аль-‘Авам, тётя Посланника Аллаха! О Фатыма, дочь Мухаммада, выкупайте свои души у Аллаха, я никак не смогу избавить вас от (наказания) Аллаха! Просите у меня чего хотите из моего имущества!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3527</td></tr><tr><td>Arabic No</td><td>3527</td></tr><tr><td>Reference</td><td>Book 61 Hadith 37</td></tr></tbody></table></div>
 

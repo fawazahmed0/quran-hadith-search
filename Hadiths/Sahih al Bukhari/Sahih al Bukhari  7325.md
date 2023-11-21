@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin 'Abis:Ibn 'Abbas was asked, "Did you offer the Id pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abdurrahman bin Abbas] berkata, " [Ibn Abbas] pernah ditanya 'Apakah engkau pernah menghadiri shalat 'ied bersama Rasulullah shallallahu 'alaihi wasallam? ' ia menjawab, 'Benar, kalaulah bukan karena kedudukanku di sisi beliau, sungguh aku tak mungkin bisa menghadirinya semenjak kecil. Beliau mendatangi 'alam (tanda batas shalat) di perkampungan Katsir bin Shalt, kemudian beliau shalat, lalu berkhutbah." -Ibnu Abbas tidak menyebut-nyebut adzan dan tidak pula iqamat- Kemudian beliau perintahkan untuk bersedekah, sehingga para wanita melepaskan anting-anting yang berada di telinga mereka dan kalung yang berada di leher mereka, sementara Bilal mendatangi mereka untuk mengambil barang-barang itu, kemudian ia kembali menemui nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7325</td></tr><tr><td>Arabic No</td><td>7325</td></tr><tr><td>Reference</td><td>Book 96 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн ‘Абис передаёт, что один человек спросил Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Совершал ли ты праздничную молитву с Пророком ﷺ?» Он ответил: «Да, и если бы не моё положение при нём, я бы не смог принимать участие в этих молитвах, поскольку был слишком мал. Посланник Аллаха ﷺ пришёл к знамени, стоявшему у дома Касира ибн ас-Сальта, и совершил молитву, а потом произносил проповедь, не предваряя молитву ни азаном, ни икаматом. Затем он стал побуждать людей подавать милостыню, и женщины потянулись к своим серьгам и кольцам. Тогда Биляль подошёл к ним по велению Пророка ﷺ, а затем вернулся к Пророку ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7325</td></tr><tr><td>Arabic No</td><td>7325</td></tr><tr><td>Reference</td><td>Book 96 Hadith 55</td></tr></tbody></table></div>
 

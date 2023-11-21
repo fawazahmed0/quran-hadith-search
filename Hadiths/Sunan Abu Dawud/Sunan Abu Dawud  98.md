@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I and the Messenger of Allah (ﷺ) used to take 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritkan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada saya [Seorang sahabat saya] dari [Hisyam bin Urwah] bahwa [Aisyah] berkata; "Saya pernah mandi bersama Rasulullah shallallahu 'alaihi wasallam pada bejana dari kuningan." Telah menceritakan kepada kami [Muhammad bin Al 'Ala]; bahwa [Ishaq bin Manshur] telah menceritakan kepada mereka dari [Hammad bin Salamah] dari [seorang laki-laki] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah radliallahu 'anha] dari Nabi shallallahu 'alaihi wasallam, dengan lafazh yang serupa dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>98</td></tr><tr><td>Arabic No</td><td>98</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хишама ибн ‘Урвы о том, что ‘Аиша сказала: «Мы с Посланником Аллаха ﷺ купались (набирая воды) из медного сосуда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>98</td></tr><tr><td>Arabic No</td><td>98</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: When, a boy from the Ansar and I were shooting (arr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Al Aswad bin Qais] telah menceritakan kepadaku [Tsa'labah bin 'Ibad Al 'Abdi] -dari penduduk Bashrah- bahwa suatu hari, dia pernah mendengarkan khutbahnya [Samurah bin Jundub]. Kata Samurah; "Ketika aku dan seorang pemuda dari Anshar sedang memanah pada dua target kami, tiba-tiba matahari -yang terlihat berada seukuran dua tombak atau tiga tombak- diatas kami, berubah menjadi hitam seperti pohon tanumah (pohon hitam dan buahnya juga hitam). Salah seorang dari kami berkata: mari kita pergi ke masjid! Demi Allah, Rasulullah shallallahu 'alaihi wasallam pasti akan memberitahukan peristiwa ini kepada umatnya!" Maka kami pun berangkat, (sesampainya di masjid) ternyata beliau sudah bersiap-siap dan maju, lalu beliau shalat. Beliau berdiri tersebut lama sekali dalam shalat tersebut, sepertinya shalat ini yang paling panjang beliau lakukan bersama kami, hingga kami tidak mendengar suara dari beliau. kemudian beliau ruku' dengan ruku' yang panjang juga dan kami tidak mendengar suara dari beliau, kemudian beliau sujud dengan sujud yang panjang juga dan kami tidak mendengar suara dari beliau. Dan beliau melakukan hal yang sama pada raka'at kedua. Samurah berkata; 'Duduk beliau pada raka'at kedua bersamaan dengan terangnya matahari. ' Kemudian beliau mengucapkan salam dan memuji Allah, bersaksi bahwa tiada ilah yang berhak disembah selainNya dan bersaksi bahwa beliau adalah hamba dan utusan-Nya."kemudian Ahmad bin Yunus melanjutkan khutbah Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184</td></tr><tr><td>Arabic No</td><td>1184</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Самура ибн Джундуб, да будет доволен им Аллах, однажды сказал: «Когда мы с другим мальчиком из числа ансаров стреляли в мишень и солнце было на высоте двух или трёх копий над горизонтом для взора смотрящего, оно вдруг почернело, словно таннум, и один из нас сказал товарищу: “Пойдём к мечети, ибо, клянусь Аллахом, это солнце что-то предвещает общине Посланника Аллаха ﷺ”. И мы поспешили в мечеть, и увидели, что Посланник Аллаха ﷺ уже вышел и встал впереди. Он стоял с нами так долго, как при самом долгом его стоянии в молитве, и всё это время мы не слышали его голоса». Он сказал: «Потом он совершал с нами поясной поклон так долго, как при самом долгом его поясном поклоне в молитве, и всё это время мы не слышали его голоса. Потом он совершал с нами земной поклон так долго, как при самом долгом его земном поклоне в молитве, и всё это время мы не слышали его голоса. Потом он проделал то же самое в следующем рак‘ате». Он сказал: «И появление солнца совпало с его сидением во втором рак‘ате». Он сказал: «Потом он произнёс таслим, после чего поднялся, воздал хвалу Аллаху и восславил Его и засвидетельствовал, что нет бога [заслуживающего поклонение], кроме Аллаха, и засвидетельствовал, что он Его раб и Посланник». Затем передатчик Ахмад ибн Юнус привёл проповедь Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184</td></tr><tr><td>Arabic No</td><td>1184</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
 

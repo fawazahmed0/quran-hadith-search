@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya:Humaid said, "A man peeped into the house of the Prophet (ﷺ) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Humaid], ada seorang laki-laki mengintip rumah Nabi shallallahu 'alaihi wasallam, maka beliau memperlihatkan anak panahnya kepadanya. Saya (Yahya Al Qaththan) bertanya; 'Siapa yang menceritakan hadits ini kepadamu? ' Humaid menjawab; [Anas bin Malik]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6889</td></tr><tr><td>Arabic No</td><td>6889</td></tr><tr><td>Reference</td><td>Book 87 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Яхья сказал: «Хумайд рассказал о том, что однажды некий человек заглянул в дом Пророка ﷺ, и (увидев это,) Пророк ﷺ направил на него наконечник стрелы. Я спросил его: “Кто рассказал тебе это?” Он ответил: “Анас ибн Малик”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6889</td></tr><tr><td>Arabic No</td><td>6889</td></tr><tr><td>Reference</td><td>Book 87 Hadith 27</td></tr></tbody></table></div>
 

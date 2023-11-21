@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "For every nation there is an Amin (honest
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Khalid] dari [Abu Qilabah] dari [Anas] radliallahu 'anhu, Nabi shallallahu 'alaihi wasallam bersabda: "Setiap umat mempunyai orang kepercayaan, dan kepercayaan umat ini ialah Abu 'Ubaidah bin Al Jarrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7255</td></tr><tr><td>Arabic No</td><td>7255</td></tr><tr><td>Reference</td><td>Book 95 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, в каждой общине есть тот, кто заслуживает доверия /амин/, а заслуживающим доверия этой общины является Абу ‘Убайда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7255</td></tr><tr><td>Arabic No</td><td>7255</td></tr><tr><td>Reference</td><td>Book 95 Hadith 10</td></tr></tbody></table></div>
 

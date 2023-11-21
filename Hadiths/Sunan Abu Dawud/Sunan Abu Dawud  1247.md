@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:Allah, the Exalted, prescribed prayer for you, through the t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Sa'id bin Manshur] keduanya berkata; telah menceritakan kepada kami [Abu 'Awanah] dari [Bukair bin Al Ahnas] dari [Mujahid] dari [Ibnu Abbas] dia berkata; "Allah Ta'ala telah mewajibkan shalat lewat lisan Nabi kalian ketika menetap (tidak bepergian) sebanyak empat raka'at, di waktu bepergian dua raka'at dan dalam kondisi takut (dalam Perang) satu raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (687)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1247</td></tr><tr><td>Arabic No</td><td>1247</td></tr><tr><td>Reference</td><td>Book 4 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Всевышний Аллах устами вашего Пророка ﷺ вменил вам в обязанность совершение молитвы в четыре рак‘ата в покое, в два рак‘ата в пути и в один рак‘ат когда вам грозит опасность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (687)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1247</td></tr><tr><td>Arabic No</td><td>1247</td></tr><tr><td>Reference</td><td>Book 4 Hadith 50</td></tr></tbody></table></div>
 

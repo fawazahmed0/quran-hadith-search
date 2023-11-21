@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa (the son of Az- Zubair): Az-Zubair had three scars caused by the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3973</td></tr><tr><td>Arabic No</td><td>3973</td></tr><tr><td>Reference</td><td>Book 64 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «У аз-Зубайра было три шрама от ударов, нанесённых мечом, один из которых был у него на плече. Обычно я вставлял пальцы в эти шрамы. Два из них он получил в день битвы при Бадре, а один в день битвы при аль-Ярмуке. Когда ‘Абдуллах ибн Зубайр был убит, ‘Абдульмалик ибн Марван сказал мне: “О ‘Урва, ты узнаёшь меч аз-Зубайра?” Я сказал: “Да”. Он спросил: “Какие на нём отметки?” Я ответил: “На его острие есть зазубрина, которая появилась на нём в день битвы при Бадре”. ‘Абдульмалик сказал: “Ты сказал правду! На них зазубрины от сражения с воинами”. Затем он вернул меч ‘Урве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3973</td></tr><tr><td>Arabic No</td><td>3973</td></tr><tr><td>Reference</td><td>Book 64 Hadith 26</td></tr></tbody></table></div>
 

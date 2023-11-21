@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim from his uncle who said:"The Prophet (ﷺ) went out to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Sufyan] dari ['Abdullah bin Abu Bakar] bahwa dia mendengar ['Abbad bin Tamim] dari [Pamannya] ia berkata, "Nabi shallallahu 'alaihi wasallam pernah keluar untuk melaksanakan shalat istisqa' (meminta hujan). Beliau lalu menghadap kiblat dan melakanakan shalat dua rakaat sambil membalik selendangnya." [Sufyan] berkata; telah mengabarkan kepadaku [Al Mas'udi] dari [Abu Bakar] berkata, "Maksudnya selendangnya dipindah dari posisi pundak kanan ke pundak kiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1027</td></tr><tr><td>Arabic No</td><td>1027</td></tr><tr><td>Reference</td><td>Book 15 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббад ибн Тамим передал от своего дяди, который сказал: «Однажды Пророк ﷺ отправился к месту совершения молитвы, чтобы обратиться к Аллаху с мольбой о ниспослании дождя, он обратился в сторону киблы, совершил молитву в два рак‘ата, и надел свою накидку наоборот». Суфьян сказал: «Мне сообщил аль-Мас‘уди, что Абу Бакр сказал: «Надел правую сторону на левую»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1027</td></tr><tr><td>Arabic No</td><td>1027</td></tr><tr><td>Reference</td><td>Book 15 Hadith 22</td></tr></tbody></table></div>
 

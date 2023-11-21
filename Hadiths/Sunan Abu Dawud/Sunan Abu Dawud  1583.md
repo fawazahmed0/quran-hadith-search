@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayy ibn Ka'b: The Messenger of Allah (ﷺ) commissioned me as a colle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Manshur], telah menceritakan kepada Kami [Ya'qub bin Ibrahim] Telah menceritakan kepada Kami [ayahku] dari [Ibnu Ishaq], ia berkata; telah menceritakan kepadaku [Abdullah bin Abu Bakr] dari [Yahya bin Abdullah bin Abdurrahman bin Sa'd bin Zurarah] dari ['Umarah bin 'Amr bin Hazm] dari [Ubai bin Ka'b], ia berkata; Nabi shallallahu 'alaihi wasallam telah mengutusku sebagai petugas pengambil zakat, kemudian aku melewati seseorang, tatkala ia telah mengumpulkan hartanya maka aku tidak mendapatkan ia memiliki kewajiban padanya, kecuali satu ekor bintu makhadh (yang berumur satu tahun), kemudian aku katakan kepadanya; berikan bintu makhadh, sesungguhnya itulah zakatmu. Ia berkata; itu tidak memiliki susu, dan tidak dapat ditunggangi. Akan tetapi ini, ini adalah unta muda yang besar dan gemuk. Ambillah unta tersebut. Kemudian aku katakan kepadanya; aku tidak akan mengambilnya, selama aku tidak diperintahkan untuk mengambilnya. Ini, Rasulullah shallAllahu wa'alaihi wa sallam dekat, apabila engkau ingin datang kepada beliau dan menawarkan kepada beliau apa yang telah engkau tawarkan kepadaku maka lakukanlah. Apabila beliau menerimanya maka aku menerimanya dan apabila beliau menolaknya maka aku menolaknya. Ia berkata; aku akan lakukan. Kemudian ia keluar bersamaku, ia keluar dengan membawa unta yang telah ditawarkan kepadaku hingga Kami sampai kepada Rasulullah shallAllahu wa'alaihi wa sallam. Kemudian ia berkata; wahai Nabi Allah, utusanmu telah datang kepadaku untuk mengambil zakat harta dariku. Demi Allah, Rasulullah dan utusannya tidak mengambil hartaku sama sekali sebelumnya, kemudian saya kumpulkan hartaku untuknya, dan ia mengaku bahwa yang harus saya berikan adalah bintu makhadh, dan itu tidak memiliki susu dan tidak dapat dinaiki. Saya menawarkan kepadanya unta muda yang besar agar ia mengambilnya. Kemudian ia menolak. Dan inilah unta tersebut, saya telah membawanya kepada anda wahai Rasulullah, ambillah. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam berkata kepadanya: "Itu adalah yang menjadi kewajibanmu, kemudian apabila engkau merelakan untuk memberikan yang terbaik maka Allah akan memberimu pahala karenanya, dan Kami menerimanya darimu." Ia berkata; ini unta tersebut wahai Rasulullah, aku telah membawanya kepada anda, ambillah. Ubai berkata; kemudian Rasulullah shallAllahu wa'alaihi wa sallam memerintahkan untuk menerimanya dan mendoakan untuknya agar hartanya berkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Му‘авия аль-Гадыри из Гадырат Кайс передаёт, что Пророк ﷺ сказал: «Тот, кто совершает три действия, познал истинный вкус веры. Это тот, кто поклоняется одному лишь Аллаху, верит, что нет бога [заслуживающего поклонение], кроме Аллаха, и каждый год выплачивает закят со своего имущества по доброй воле, так что душа его побуждает его к этому, и не отдаёт при этом ни старых, ни паршивых, ни больных, ни самых плохих животных, но отдаёт среднее из того, чем владеет, ибо, поистине, Аллах не просит у вас лучшее из вашего имущества, но и не велит вам отдавать худшее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
 

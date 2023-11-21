@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) said:I heard Allah's Messenger (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahak] dari [Qathn Al Khuza'i] dari [Yuhannas] Maula Mush'ab, dari [Abdullah bin Umar] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang sabar menahan kesusahan dan kesulitan yang dideritanya di kota ini, maka aku akan menjadi saksi atau pembelanya kelak pada hari kiamat." Maksudnya adalah kota Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3346</td></tr><tr><td>Arabic No</td><td>1377.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 550</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3346</td></tr><tr><td>Arabic No</td><td>1377.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 550</td></tr></tbody></table></div>
 

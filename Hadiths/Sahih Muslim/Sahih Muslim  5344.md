@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Zaid reported:I heard Allah's Messenger (ﷺ) as saying: Truffles are a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], Telah menceritakan kepada kami [Muhammad bin Ja'far], Telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik bin 'Umair] dia berkata; 'Aku mendengar [Amru bin Huraits] berkata; 'Aku mendengar [Sa'id bin Zaid] dia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Al Kam-at (cendawan) sejenis manna (sejenis makanan yang diturunkan Allah Ta'ala kepada Bani Israil), airnya mengandung obat bagi penyakit mata." Dan Telah menceritakan pula kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepadaku [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dia berkata; Telah mengabarkan kepadaku [Al Hakam bin 'Utaibah] dari [Al Hasan Al 'Urani] dari ['Amru bin Huraits] dari [Sa'id bin Zaid] dari Nabi shallallahu 'alaihi wasallam. [Syu'bah] berkata; 'Tatkala Al Hakam menceritakannya kepadaku, aku tidak mengingkarinya kalau itu adalah Hadits yang diriwayatkan oleh Abdul Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5344</td></tr><tr><td>Arabic No</td><td>2049.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5344</td></tr><tr><td>Arabic No</td><td>2049.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 218</td></tr></tbody></table></div>
 

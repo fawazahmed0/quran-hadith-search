@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) ordered me to supervise the (slaughtering) of Bu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] berkata, telah mengabarkan kepada saya [Al Hasan bin Muslim] dan ['Abdul Karim Al Jazariy] bahwa [Mujahid] telah mengabarkan kepada keduanya bahwa ['Abdurrahman bin Abu Laila] mengabarkan kepadanya bahwa ['Ali radliallahu 'anhu] mengabarkan kepadanya bahwa; "Nabi shallallahu 'alaihi wasallam memerintahkan kepadanya agar dia berada (menyaksikan hewan qurbannya) dan membagi-bagikan qurban semuanya dari dagingnya, kulitnya dan pelananya dan agar tidak memberikan apapun dari hewan qurban itu kepada tukang jagalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>1717</td></tr><tr><td>Reference</td><td>Book 25 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, рассказал, что Пророк ﷺ приказал ему заниматься его жертвенными животными, и приказал ему раздавать животных полностью: их мясо, шкуры и попоны, и чтобы он не давал ничего из этого мяснику
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>1717</td></tr><tr><td>Reference</td><td>Book 25 Hadith 195</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b b. Malik reported:The Messenger of Allah (ﷺ) did not come back from the j
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Adl Dlahak yaitu Abu 'Ashim] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Mahmud bin Ghailan] telah menceritakan kepada kami [Abdurrazak] keduanya berkata; telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Syihab] bahwa [Abdurrahman bin Abdullah bin Ka'b] mengabarkan kepadanya, dari ayahnya yaitu [Abdullah bin Ka'b] dan dari pamannya yaitu ['Ubaidullah bin Ka'b] dari [Ka'b bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam tidak pernah tiba dari bepergian, melainkan pada siang hari ketika waktu dluha. Jika beliau tiba, maka beliau terlebih dahulu singgah di masjid dan melakukan shalat dua rakaat, kemudian beliau duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 6 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ка‘ба ибн Малика, что Пророк ﷺ возвращался из своих поездок только днём, а именно утром /духа/. Вернувшись же, прежде всего он приходил в мечеть, совершал молитву в два рак‘ата, а потом (некоторое время) сидел там
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 6 Hadith 89</td></tr></tbody></table></div>
 

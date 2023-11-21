@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "No Muslim whose three children die
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali] telah menceritakan kepada kami [Sufyan] berkata; aku mendengar [Az Zuhriy] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Seorang muslim yang ditinggal wafat oleh tiga orang anaknya, tidak bakalan masuki neraka selain sebatas melakukan sumpah Allah". Berkata, Abu 'Abdullah: Maksudnya melakukan sumpah Allah yang tersebut dalam Firman-Nya yang artinya; "Tidaklah dari kalian melainkan pasti akan melewatinya (neraka) (QS. Maryam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1251</td></tr><tr><td>Arabic No</td><td>1251</td></tr><tr><td>Reference</td><td>Book 23 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, сообщается, что Пророк ﷺ сказал: «Если у кого-то из мусульман скончаются трое детей, то огонь коснется его только во исполнение клятвы». Абу ‘Абдуллах сказал: «И каждый из вас войдет туда (в ад)» (сура «Марьям», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1251</td></tr><tr><td>Arabic No</td><td>1251</td></tr><tr><td>Reference</td><td>Book 23 Hadith 13</td></tr></tbody></table></div>
 

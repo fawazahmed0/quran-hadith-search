@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:Abu Huraira said, "I heard Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Sa'id bin Al Musayyab] berkata; [Abu Hurairah radliallahu 'anhu] berkata; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada seorang pun dari anak keturunan Adam yang dilahirkan kecuali dia disentuh oleh setan saat dilahirkan, maka dia akan berteriak (menangis dengan keras) karena sentuhan setan tersebut kecuali Maryam dan anaknya". Kemudian Abu Hurairah radliallahu 'anhu membaca firman Allah Ta'ala: ("…dan aku memohon perlindungan kepada-Mu, ya Allah untuknya (Maryam) dan untuk anak keturunannya dari setan yang terketuk"). (QS Ali 'Imran ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 60 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Каждого человека в момент его рождения касается шайтан, и от его прикосновения ребёнок начинает кричать, кроме Марьям, и её сына (‘Исы)». Затем Абу Хурайра прочитал: «И прошу Тебя защитить её и её потомство от изгнанного шайтана» (сура «Али ‘Имран», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 60 Hadith 102</td></tr></tbody></table></div>
 

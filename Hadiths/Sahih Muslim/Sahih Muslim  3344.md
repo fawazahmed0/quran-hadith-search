@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Utsman bin Umar] telah mengabarkan kepada kami [Isa bin Hafsh bin Ashim] telah menceritakan kepada kami [Nafi'] dari [Ibnu Umar] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang sabar menahan kesusahan dan kesulitan yang dideritanya di kota ini (Madinah), maka aku akan menjadi saksi atau pembelanya kelak pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3344</td></tr><tr><td>Arabic No</td><td>1377.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 548</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3344</td></tr><tr><td>Arabic No</td><td>1377.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 548</td></tr></tbody></table></div>
 

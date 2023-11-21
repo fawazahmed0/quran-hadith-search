@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mas'ud al-Ansari reported:The Messenger of Allah (ﷺ) said to us: The one w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] kata [Ibnul Mutsanna]; telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Ismail bin Raja'] katanya; aku mendengar [Aus bin Dham'aj] mengatakan; Aku mendengar [Abu Mas'ud] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami: "Hendaknya yang berhak menjadi imam suatu kaum adalah yang paling banyak dan paling baik bacaan kitabullah (alquran), jika dalam bacaan sama, maka yang paling dahulu hijrah, jika mereka dalam hijrah sama, maka yang lebih dewasa, dan jangan sampai seseorang menjadi imam dalam keluarga orang lain dan jangan pula dalam wilayah kekuasaan (wewenang) nya dan jangan duduk di tempat duduk di rumah orang lain selain telah mendapat izin, atau seizinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>673.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 367</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Мас‘уд сказал: «Посланник Аллаха ﷺ сказал нам: “(Во время молитвы) имамом для людей должен быть тот из них, кто лучше всех читает Книгу Аллаха, и раньше из них (научился её) читать. Если они равны (между собой) в этом, пусть их возглавляет тот, кто раньше всех из них совершил переселение, если же они равны между собой и в этом, то пусть имамом для них будет старший из них по возрасту. И не следует человеку становиться имамом для хозяина (в его) доме, и для того, кому принадлежит власть над чем-либо, как не следует ему и садиться (в его доме) на его почётное место, иначе как с его (хозяина) позволения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>673.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 367</td></tr></tbody></table></div>
 

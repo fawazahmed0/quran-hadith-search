@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said :The Messenger of Allah(ﷺ) commanded us that the end of Ramad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada Kami [Zuhair] telah menceritakan kepada Kami [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam telah memerintahkan Kami untuk menunaikan zakat fitrah sebelum orang-orang keluar untuk melakukan shalat. Ia berkata; Ibnu Umar menunaikannya sehai atau dua hari sebelum itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1509) Sahih Muslim (986)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1610</td></tr><tr><td>Arabic No</td><td>1610</td></tr><tr><td>Reference</td><td>Book 9 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ велел нам раздавать закят аль-фитр до выхода людей на (праздничную) молитву». (Нафи‘) сказал: «И бывало так, что Ибн ‘Умар выплачивал его за день-два до этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1509) Sahih Muslim (986)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1610</td></tr><tr><td>Arabic No</td><td>1610</td></tr><tr><td>Reference</td><td>Book 9 Hadith 55</td></tr></tbody></table></div>
 

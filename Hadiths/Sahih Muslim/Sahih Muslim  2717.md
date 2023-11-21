@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported:I said to'A'isha (Allah be pleased with her): Did th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Sa'id Al Jurairi] dari [Abdullah bin Syaqiq] ia berkata, saya bertanya kepada [Aisyah], "Apakah Nabi shallallahu 'alaihi wasallam pernah berpuasa selama satu bulan penuh secara terang-terangan selain di bulan Ramadlan?" Aisyah menjawab, "Demi Allah, beliau belum pernah berpuasa sebulan penuh secara terang-terangan selain bulan Ramadlan hingga diangkatnya beliau ke Ar Rafi' Al A'la (kedudukan yang tinggi), dan beliau juga belum pernah berbuka terus menerus (maksudnya tidak puasa) sebulan penuh diluar Ramadhan, hingga ada diantaranya yang beliau isi dengan puasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2717</td></tr><tr><td>Arabic No</td><td>1156.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2717</td></tr><tr><td>Arabic No</td><td>1156.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 223</td></tr></tbody></table></div>
 

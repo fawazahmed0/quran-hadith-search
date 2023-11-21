@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ma'n reported.. I heard it from my father who said:I asked Masruq who informed t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Muhammad al-Jarmi] dan [Ubaidullah bin Sa'id] keduanya berkata, telah menceritakan kepada kami [Abu Usamah] dari [Mis'ar] dari [Ma'n] dia berkata, Saya mendengar [bapakku] berkata, "Saya bertanya kepada [Masruq], 'Siapakah yang memberitahu (bahwa) Nabi shallallahu 'alaihi wasallam bersama jin pada malam mereka mendengarkan al-Qur'an? ' Maka dia menjawab, 'Bapakmu, yaitu [Ibnu Mas'ud] menceritakan kepadaku bahwa yang memberitahukan bahwa Nabi bersama mereka adalah sebuah pohon (ini dalil bahwa pohon juga bertasbih, pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1011</td></tr><tr><td>Arabic No</td><td>450.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ма‘н сказал: «Я слышал, как мой отец сказал: “Я спросил Масрука: “Кто сообщил Пророку о джиннах в ту ночь, когда они слушали (чтение) Корана?” Он сказал: “Твой отец, имея в виду Ибн Мас‘уда сказал мне, что о них ему сообщило дерево”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1011</td></tr><tr><td>Arabic No</td><td>450.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 173</td></tr></tbody></table></div>
 

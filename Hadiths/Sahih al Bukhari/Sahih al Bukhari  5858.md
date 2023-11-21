@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Isaa bin Tahman:Anas bin Malik brought out for us, two sandals having t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Isa bin Thuhman] dia berkata; [Anas bin Malik] keluar menemui kami dengan mengenakan sandal yang memiliki dua utas tali, lantas Tsabit Al Bunani mengatakan; "Ini adalah sandal Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5858</td></tr><tr><td>Arabic No</td><td>5858</td></tr><tr><td>Reference</td><td>Book 77 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Иса ибн Тахман сказал: «(Однажды) Анас ибн Малик вынес нам сандалии с двумя ремешками, и Сабит аль-Бунани сказал: “Это сандалии Пророка, ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5858</td></tr><tr><td>Arabic No</td><td>5858</td></tr><tr><td>Reference</td><td>Book 77 Hadith 75</td></tr></tbody></table></div>
 

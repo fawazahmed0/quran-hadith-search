@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman:Allah's Messenger (ﷺ) sent 'Amr bin Al As as the commande
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah mengabarkan kepada kami [Khalid bin 'Abdullah] dari [Khalid Al Hadzdza'] dari [Abu 'Utsman] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengutusnya [Amru bin Ash] untuk memimpin pasukan kaum muslimin dalam perang Dzatus Salasil. Amru bin Al Ash berkata; Aku menemui Rasulullah seraya bertanya; Ya Rasulullah, siapakah orang yang engkau cintai? Rasulullah menjawab; 'Aisyah.' Lalu saya tanyakan lagi; Kalau dari kaum laki-laki, siapakah orang yang paling engkau cintai? Rasulullah shallallahu 'alaihi wasallam menjawab: 'Ayah Aisyah (Abu Bakr).' saya bertanya lagi; lalu siapa? Rasulullah menjawab: 'Umar bin Khaththab.' Kemudian beliau menyebutkan beberapa orang sahabat lainnya. Setelah itu aku pun diam karena aku takut termasuk orang yang paling terakhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4358</td></tr><tr><td>Arabic No</td><td>4358</td></tr><tr><td>Reference</td><td>Book 64 Hadith 384</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амра ибн аль-‘Аса, да будет доволен им Аллах, что (в своё время) Посланник Аллаха ﷺ поставил его во главе отряда, который должен был двинуться на Зат ас-Сулясиль. (‘Амр ибн аль-‘Ас сказал): «И я пришёл к нему и спросил: “Кого из людей ты любишь больше всех?” Пророк ﷺ ответил: “‘Аишу”. Я спросил: “А из мужчин?” Он ответил: “Её отца”. Я спросил: “А кого потом?” Он ответил: “‘Умара”, и назвал ещё несколько человек, и я замолчал, опасаясь, что он назовёт меня последним из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4358</td></tr><tr><td>Arabic No</td><td>4358</td></tr><tr><td>Reference</td><td>Book 64 Hadith 384</td></tr></tbody></table></div>
 

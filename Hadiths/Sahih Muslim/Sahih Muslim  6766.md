@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that Allah's Messenger (ﷺ) was asked about the children of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Mu'tamar bin Sulaiman] dari [bapaknya] dari [Raqabah bin Masqalah] dari [Abu Ishaq] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dari [Ubay bin Ka'b] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Sesungguhnya anak laki-laki yang dibunuh oleh Nabi Khidhir alaihi salam itu telah ditakdirkan menjadi orang kafir. Seandainya anak laki-laki tersebut terus hidup, maka ia akan menyesatkan kedua orang tuanya untuk menjadi durhaka dan kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6766</td></tr><tr><td>Arabic No</td><td>2661</td></tr><tr><td>Reference</td><td>Book 46 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6766</td></tr><tr><td>Arabic No</td><td>2661</td></tr><tr><td>Reference</td><td>Book 46 Hadith 44</td></tr></tbody></table></div>
 

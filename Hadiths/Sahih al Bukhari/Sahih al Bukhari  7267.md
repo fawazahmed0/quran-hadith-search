@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tauba Al-'Anbari:Ash-'Shu'bi asked me, "Did you notice how Al-Hasan use
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Walid] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Taubah Al 'Anbari] berkata, [Asy Sya'bi] berkata kepadaku, "Tahukah engkau hadits Al Hasan dari nabi shallallahu 'alaihi wasallam? Dan aku sering duduk bersama [Ibnu Umar] kurang lebih dua tahun atau setahun setengah, namun aku tidak mendengarnya dari Nabi shallallahu 'alaihi wasallam selain ini, ia katakan "Beberapa orang sahabat nabi shallallahu 'alaihi wasallam yang di antaranya adalah Sa'd makan daging. Lantas seorang isteri Nabi shallallahu 'alaihi wasallam memanggil mereka "Hai.. itu daging biawak!" Maka mereka menghentikan santapannya. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Makanlah, " atau dengan redaksi "santaplah, ia adalah halal." Atau dengan redaksi "Tidak masalah, " perawi ragu, namun biawak bukan makananku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7267</td></tr><tr><td>Arabic No</td><td>7267</td></tr><tr><td>Reference</td><td>Book 95 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тауба аль-‘Анбари сказал:\n— Как-то аш-Ша‘бий сказал мне: «Видел ли ты хадис, который передал Хасан (аль-Басри) от Пророка ﷺ? Я же сидел с Ибн ‘Умаром, да будет доволен им Аллах, примерно полтора или два года, и не слышал от него, чтобы он рассказывал (что-либо) от Пророка ﷺ кроме этого (хадиса): “(Группа) людей из числа сподвижников Пророка ﷺ среди которых находился Са‘д (ибн Абу Ваккас) отправилась отведать мясо. Тогда одна из жён Пророка ﷺ сообщила им, что это мясо ящерицы, и сподвижники перестали (его кушать). И Посланник Аллаха ﷺ сказал: ‹Кушайте или ешьте, ибо оно является дозволенным› — (или он сказал: ‹в этом нет ничего греховного›. (Шу‘ба передал, что Тауба аль-‘Анбари) засомневался в том, что именно сказал Пророк ﷺ) — ‹однако ящерица не является моей (привычной) пищей›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7267</td></tr><tr><td>Arabic No</td><td>7267</td></tr><tr><td>Reference</td><td>Book 95 Hadith 21</td></tr></tbody></table></div>
 

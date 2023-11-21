@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: Do not cover the walls. He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah], telah menceritakan kepada Kami [Abdul Malik bin Muhammad bin Aiman] dari [Abdullah bin Ya'qub bin Ishaq] dari [orang yang telah bercerita kepadanya] dari [Muhammad bin Ka'b Al Qurazhi], telah menceritakan kepadaku [Abdullah bin Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Janganlah kalian menutupi tembok-tembok dengan kain kalian, barang siapa yang melihat tulisan saudaranya tanpa seizinnya maka sesungguhnya ia telah melihat kepada Neraka, mintalah kepada Allah dengan menengadahkan telapak tanganmu dan jangan meminta dengan belakang telapak tangan dan apabila kalian telah selesai maka usaplah muka kalian dengan keduanya. Abu Daud berkata: hadits ini diriwayatkan bukan hanya dari satu sisi dari Muhammad bin Ka'bin, semuanya lemah dan jalur ini yang paling bagus, namun hadits tersebut lemah juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1485</td></tr><tr><td>Arabic No</td><td>1485</td></tr><tr><td>Reference</td><td>Book 8 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада ибн Ка‘ба аль-Къурази о том, что ‘Абдуллах ибн ‘Аббас рассказывал ему, что Посланник Аллаха ﷺ сказал: «Не покрывайте стены! Тот, кто заглядывает в письмо своего брата без его разрешения, поистине, заглядывает в Огонь! Взывайте к Аллаху ладонями своих рук и не взывайте к Нему тыльной стороной (ладоней), а когда вы заканчиваете (мольбу), проводите ими по лицу!»Абу Дауд сказал: «Этот хадис передаётся и по другой цепочке от Мухаммада ибн Ка‘ба, каждая из которых является слабой, а этот путь передачи лучший из них, но также является слабым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1485</td></tr><tr><td>Arabic No</td><td>1485</td></tr><tr><td>Reference</td><td>Book 8 Hadith 70</td></tr></tbody></table></div>
 

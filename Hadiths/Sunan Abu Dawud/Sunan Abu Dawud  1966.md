@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sulaiman b. 'Amr b. al-Ahwas:On the authority of his mother: I saw the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibrahim bin Mahdi], telah menceritakan kepadaku [Ali bin Mushir] dari [Yazid bin Abu Ziyad], telah mengabarkan kepada Kami [Sulaiman bin 'Amr bin Al Ahwash] dari [ibunya], ia berkata; saya melihat Rasulullah shallAllahu wa'alaihi wa sallam melempar jumrah dari tengah bukit, dalam keadaan berkendaraan. Beliau bertakbir bersama setiap lemparan kerikil. Dan orang yang ada dibelakang menutupi beliau. Kemudian aku tanyakan mengenai orang tersebut, lalu mereka mengatakan; Al Fadhl bin Al Abbas. Orang-orang dalam keadaan berdesak-desakan, kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Wahai para manusia, janganlah sebagian kalian membunuh sebagian yang lain, apabila kalian melempar jumrah maka lemparlah dengan kerikil sebesar kerikil khadzaf (kerikil untuk ketapel)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1966</td></tr><tr><td>Arabic No</td><td>1966</td></tr><tr><td>Reference</td><td>Book 11 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сулейман ибн ‘Амр ибн аль-Ахвас передаёт от своей матери: «Я видела Посланника Аллаха ﷺ когда он бросал камешки, находясь в долине. При этом он сидел верхом и произносил такбир при бросании каждого камешка. А какой-то человек закрывал его сзади. Я спросила про этого человека, и мне сказали, что это аль-Фадль ибн аль-‘Аббас. Началась давка, и Пророк ﷺ сказал: “О люди! Не убивайте друг друга! А когда будете бросать камешки, бросайте обычную гальку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1966</td></tr><tr><td>Arabic No</td><td>1966</td></tr><tr><td>Reference</td><td>Book 11 Hadith 246</td></tr></tbody></table></div>
 

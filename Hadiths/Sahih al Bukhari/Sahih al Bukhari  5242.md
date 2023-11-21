@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:(The Prophet) Solomon son of (the Prophet) David said, "Ton
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mahmud] Telah menceritakan kepada kami [Abdurrazzaq] Telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [bapaknya] dari [Abu Hurairah] ia berkata; Sulaiman bin Dawud 'Alaihimas Salam berkata, "Pada malam ini, aku benar-benar akan menggilir seratus orang isteri, sehingga setiap wanita akan melahirkan seroang anak yang berjihad di jalan Allah." Lalu Malaikat pun berkata padanya, "Katakanlah Insya Allah." Namun ternyata ia tidak mengatakannya dan lupa. Kemudian ia pun menggilir pada malam itu, namun tak seorang pun dari mereka yang melahirkan, kecuali seorang wanita yang berbentuk setengah manusia. Nabi shallallahu 'alaihi wasallam bersabda: "Sekiranya ia mengatakan Insya Allah niscaya ia tidak akan membatalkan sumpahnya, dan juga hajatnya akan terkabulkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5242</td></tr><tr><td>Arabic No</td><td>5242</td></tr><tr><td>Reference</td><td>Book 67 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра рассказывал: «Однажды Сулейман ибн Дауд, мир им обоим, сказал: “Этой ночью я обязательно обойду сто (своих) жён, и каждая из них родит мне сына, который будет сражаться на пути Аллаха”. Тогда ангел сказал ему: “(Скажи:) Ин шааъа-Ллах (Если пожелает Аллах)”, но он запамятовал и не произнёс этого. Он обошёл своих женщин, но только одна из них родила ему половину человека. Пророк ﷺ сказал: “Если бы он сказал: “Если так будет угодно Аллаху”, — то не нарушил бы клятвы, и шансов на исполнение его желания было бы больше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5242</td></tr><tr><td>Arabic No</td><td>5242</td></tr><tr><td>Reference</td><td>Book 67 Hadith 175</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) then said: Re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], ia berkata; telah menceritakan kepada kami [Hammad] dari [Muhammad bin Ishaq], dari ['Amr bin Syu'aib] dari [ayahnya], dari [kakeknya], dalam kisah ini ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kembalikan kepada mereka para wanita dan anak-anak mereka! Barangsiapa yang menahan sebagian dari fai' ini, maka baginya enam unta dari pertama kali Allah memberikan fai' kepada kita." Kemudian Nabi shallallahu 'alaihi wasallam mendekat kepada unta dan mengambil sehelai bulu dari punuknya kemudian berkata: "Wahai manusia, sesungguhnya aku tidak mendapatkan sesuatupun dari fai' ini, tidak pula ini, -beliau mengangkat kedua jarinya- kecuali seperlima, dan seperlima dikembalikan kepada kalian, maka tunaikanlah benang dan jarum!" kemudian terdapat seorang laki-laki yang berdiri, di tangannya terdapat segulung rambut, ia berkata; aku mengambil ini untuk memperbaiki alas pelanaku. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Adapun bagianku dan bagian Bani Abdul Muththalib adalah untukmu, adapun apabila telah mencapai apa yang aku lihat, maka aku tidak membutuhkannya." Dan beliau membuang bulu tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2694</td></tr><tr><td>Arabic No</td><td>2694</td></tr><tr><td>Reference</td><td>Book 15 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2694</td></tr><tr><td>Arabic No</td><td>2694</td></tr><tr><td>Reference</td><td>Book 15 Hadith 218</td></tr></tbody></table></div>
 

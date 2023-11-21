@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ai’shah said :I twisted the garlands of the sacrificial animals of the Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah Al Qa'nabi], Telah menceritakan kepada Kami [Aflah bin Humaid] dari [Al Qasim] dari [Aisyah], ia berkata; aku menjalin kalung-kalung unta Rasulullah shallAllahu wa'alaihi wa sallam menggunakan tanganku, kemudian beliau melukainya sebagai tanda dan mengalunginya kemudian mengirimnya ke Ka'bah. Dan beliau bermukim di Madinah dan tidak ada sesuatupun yang haram baginya yang dahulunya adalah halal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1699) Sahih Muslim (1321)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1757</td></tr><tr><td>Arabic No</td><td>1757</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что она сказала: «Я своими руками плела повязки для жертвенного скота Посланника Аллаха ﷺ и он пометил его кровью и этими повязками, после чего послал животных к Каабе, а сам остался в Медине и не запрещал себе ничего из того, что было дозволенным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1699) Sahih Muslim (1321)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1757</td></tr><tr><td>Arabic No</td><td>1757</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
 

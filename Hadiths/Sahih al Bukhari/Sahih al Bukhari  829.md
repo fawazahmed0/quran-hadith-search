@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Buhaina:(he was from the tribe of Uzd Shanu'a [??] and wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah menceritakan kepadaku ['Abdurrahman bin Hurmuz] mantan budak Bani 'Abdul Muthalib -sekali waktu ia menyebutkan- mantan budak Rabi'ah bin Al Harits, bahwa ['Abdullah Ibnu Buhainah] dia berasal dari suku Azdi Sya'unah, sekutunya Bani 'Abdu Manaf, dan dia adalah seorang sahabat Nabi shallallahu 'alaihi wasallam, bahwa Nabi shallallahu 'alaihi wasallam pernah shalat Zhuhur bersama mereka, lalu beliau berdiri pada dua rakaat yang pertama dan tidak duduk (untuk tasyahud), dan orang-orang ikut berdiri. Sehingga ketika shalat akan selesai, dan orang-orang menanti salamnya, beliau bertakbir dalam posisi duduk, lalu sujud dua kali sebelum salam, setelahitu baru beliau salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 10 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Малика Ибн Бухайны, да будет доволен им Аллах, который происходил из племени азд шану‘а, был союзником племени бану ‘абд манаф и являлся одним из сподвижников Пророка ﷺ что однажды Пророк ﷺ совершавший с ними полуденный намаз, не стал сидеть после совершения первых двух рак‘атов, а поднялся, и люди поднялись (со своих мест) вместе с ним. Когда намаз закончился, люди стали ждать, что он произнесёт слова таслима, но он сказал: «Аллах велик», продолжая сидеть, совершил два земных поклона, прежде чем произнести слова таслима, и уже потом произнёс их
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 10 Hadith 223</td></tr></tbody></table></div>
 

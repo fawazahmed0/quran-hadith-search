@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: The Messenger of Allah (ﷺ) said: Every intoxicant
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi' An Naisaburi] telah menceritakan kepada kami [Ibrahim bin Umar Ash Shan'ani] ia berkata; aku mendengar [An Nu'man bin Abu Syaibah] berkata dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Segala sesuatu yang memabukkan adalah khamer, dan segala sesuatu yang memabukkan adalah haram. Barangsiapa minum sesuatu yang memabukkan maka shalatnya selama empat puluh pagi tidak diterima, apabila ia bertaubat maka Allah akan memberinya taubat. Dan jika pada kali keempatnya ia kembali minum, maka menjadi hak atas Allah untuk memberinya minum dari thinah al khabal." Beliau ditanya, "Wahai Rasulullah, apakah thinah al khabal itu?" Beliau Menjawab: "Nanah penghuni Neraka. Dan barangsiapa memberi minum khamer anak kecil, sementara anak kecil tidaklah mengetahui halal dan haramnya, maka Allah akan memberinya minum dari thinah al khabal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3680</td></tr><tr><td>Arabic No</td><td>3680</td></tr><tr><td>Reference</td><td>Book 27 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса (да будет доволен Аллах им и его отцом), что Пророк ﷺ сказал: «Всё опьяняющее хамр, и всё опьяняющее запретно, и если кто-то пил опьяняющее, его молитва будет неполноценной в течение сорока дней, и если он раскается, Аллах простит его, а если он вернётся к этому и в четвёртый раз, Аллах непременно напоит его “тынат аль-хабаль”». Люди спросили: «А что такое “тынат аль-хабаль, о Посланник Аллаха?» Он ответил: «Это гной из тел обитателей Огня… Кто напоит вином малолетнего, который не отличает запретное от дозволенного, того напоит Аллах “тынат аль-хабаль”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3680</td></tr><tr><td>Arabic No</td><td>3680</td></tr><tr><td>Reference</td><td>Book 27 Hadith 12</td></tr></tbody></table></div>
 

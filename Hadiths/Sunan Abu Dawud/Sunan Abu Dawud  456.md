@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Samurah reported that he wrote (a letter) to his sons:After (praising Allah and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Dawud bin Sufyan] telah menceritakan kepada kami [Yahya bin Hassan] telah menceritakan kepada kami [Sulaiman bin Musa] telah menceritakan kepada kami [Ja'far bin Sa'd bin Samurah] telah menceritakan kepadaku [Khubaib bin Sulaiman] dari [Ayahnya, Sulaiman bin Samurah] dari [Ayahnya, Samurah] bahwasanya dia pernah menulis surat kepada anaknya (yang berisi); Amma ba'du, sesungguhnya Rasulullah shallallahu 'alaihi wasallam menyuruh kami untuk mendirikan masjid-masjid di rumah-rumah kami, memperbaiki bangunannya dan membersihkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>456</td></tr><tr><td>Arabic No</td><td>456</td></tr><tr><td>Reference</td><td>Book 2 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Самура написал своему сыну письмо (в котором было сказано): «А затем: Поистине, Посланник Аллаха ﷺ повелевал нам устраивать мечети в местах нашего проживания, делать это хорошо и содержать их в чистоте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>456</td></tr><tr><td>Arabic No</td><td>456</td></tr><tr><td>Reference</td><td>Book 2 Hadith 66</td></tr></tbody></table></div>
 

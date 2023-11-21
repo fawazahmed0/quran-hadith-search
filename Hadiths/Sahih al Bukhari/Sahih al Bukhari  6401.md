@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:'Aisha said, "The Jews came to the Prophet (ﷺ) and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Wahhab] telah menceritakan kepada kami [Ayyub] dari [Ibnu Abu Mulaikah] dari [Aisyah] radliallahu 'anha bahwa sekelompok orang Yahudi datang menemui Nabi shallallahu 'alaihi wasallam, lalu mereka mengucapkan; "As Saamu 'alaika Kebinasaan atasmu." Beliau menjawab: 'Wa 'alaikum Dan atas kalian juga.' Kemudian Aisyah berkata; 'As Saamu 'alaikum wala'anakumullah wa ghadziba 'alaikum Semoga kebinasaan atas kalian, dan laknat Allah serta murka Allah menimpa kalian.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda: 'Pelan-pelan wahai Aisyah, hendaklah kamu berlemah lembut dan janganlah kamu kasar atau berkata keji.' Aku berkata; 'Apakah anda tidak mendengar apa yang diucapkan mereka? ' Beliau bersabda: 'Apakah kamu tidak mendengar ucapanku, sebenarnya aku tadi telah menjawabnya, maka do'aku atas mereka telah dikabulkan, sementara do'a mereka atasku tidak akan terkabulkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6401</td></tr><tr><td>Arabic No</td><td>6401</td></tr><tr><td>Reference</td><td>Book 80 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Однажды иудеи пришли к Пророку ﷺ и сказали: “Ас-саму ‘алейка (Смерть тебе!)” (В ответ им Пророк ﷺ) сказал: “И вам”. А ‘Аиша сказала: “(Это) вам смерть, проклятие Аллаха и (Его) гнев”. Но Посланник Аллаха ﷺ сказал (мне): “Постой, о ‘Аиша, тебе надлежит придерживаться мягкости и остерегаться жёсткости и мерзости”. ('Аиша) воскликнула: “Разве ты не слышал, что они сказали?!” (В ответ на это Пророк ﷺ) сказал: “А разве ты не слышала, что я сказал им в ответ, но мне отвечают на мольбу относительно них, но им не отвечают в мольбах относительно меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6401</td></tr><tr><td>Arabic No</td><td>6401</td></tr><tr><td>Reference</td><td>Book 80 Hadith 96</td></tr></tbody></table></div>
 

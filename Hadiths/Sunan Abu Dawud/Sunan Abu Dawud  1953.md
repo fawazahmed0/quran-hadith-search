@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sarra' daughter of Nabhan: She was mistress of a temple in pre-Islamic 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Basysyar] telah menceritakan kepada Kami [Abu 'Ashim], telah menceritakan kepada Kami [Rabi'ah bin Abdurrahman bin Hushain], telah menceritakan kepada Kami [nenekku yaitu Sarra' binti Nabhan], ia adalah seorang wanita yang mengurusi Ka'bah pada masa jahiliyah, ia berkata; Rasulullah shallla Allahu 'alaihi wa sallam berkhutbah kepada Kami pada hari Ru-us (hari kedua dari Hari Tasyriq). Beliau bertanya: "Hari apakah ini?" Kami menjawab; Allah dan Rasul-Nya yang lebih mengetahui. Beliau berkata: "Bukankah ini adalah pertengahan hari Tasyriq?" Abu Daud berkata; begitu pula yang dikatakan paman Abu Hurrah Ar Raqasyi; sesungguhnya beliau berkhutbah dipertengahan hari Tasyriq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1953</td></tr><tr><td>Arabic No</td><td>1953</td></tr><tr><td>Reference</td><td>Book 11 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сарра бинт Набхан, которая была во времена невежества владелицей дома, в котором стояли идолы, передаёт: «Посланник Аллаха ﷺ обратился к нам с проповедью в день голов и спросил: “Что это за день?” Люди ответили: “Аллах и Его Посланник знают об этом лучше”. Посланник Аллаха ﷺ спросил: “Разве это не средний из дней ташрика?”» Абу Дауд сказал: «Дядя по отцу Абу Хурры ар-Ракаши также сказал, что Посланник Аллаха ﷺ произносил проповедь в средний из дней ташрика»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1953</td></tr><tr><td>Arabic No</td><td>1953</td></tr><tr><td>Reference</td><td>Book 11 Hadith 233</td></tr></tbody></table></div>
 

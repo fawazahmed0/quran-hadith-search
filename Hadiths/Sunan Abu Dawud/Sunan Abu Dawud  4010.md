@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: AbulMalih said: Some women of Syria came to Aish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Qudamah] telah menceritakan kepada kami [Jarir]. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] semuanya berasal dari [Manshur] dari [Salim bin Abu Al Ja'dan], [Ibnu Al Mutsanna] menyebutkan dari [Abu Al Malih] ia berkata, "Beberapa wanita Syam menemui [Aisyah] radliallahu 'anhuma, Aisyah kemudian bertanya, "Dari manakah kalian?" Mereka menjawab, "Dari penduduk Syam." Aisyah berkata, "Kemungkinan kalian berasal dari Al Kurah yang para wanitanya biasa memasuki pemandian umum?" Mereka menjawab, Ya. Aisyah lalu berkata, "Ketahuilah, aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang wanita yang melepas pakaiannya di luar rumah kecuali ia telah melepaskan tabir antara dirinya dengan Allah Ta'ala." Abu Daud berkata, "Ini adalah hadits Jarir, dan hadits ini lebih sempurna. Namun ia tidak menyebutkan nama Abu Al Malih. Ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4010</td></tr><tr><td>Arabic No</td><td>4010</td></tr><tr><td>Reference</td><td>Book 33 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу аль-Малиха, что однажды к ‘Аише, да будет доволен ею Аллах, зашли женщины из числа жителей Шама. Она спросила: «Откуда вы?» Они ответили: «Из числа жителей Шама». ‘Аиша спросила: «Наверное, вы из тех мест, где женщины ходят в (общественные) бани». Они сказали: «Да, это так». (‘Аиша) сказала: «Поистине, я слышала, как Посланник Аллаха ﷺ сказал: “Любая женщина, снимающая одежды свои не в своём доме, порывает то, что между ней и Всевышним Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4010</td></tr><tr><td>Arabic No</td><td>4010</td></tr><tr><td>Reference</td><td>Book 33 Hadith 2</td></tr></tbody></table></div>
 

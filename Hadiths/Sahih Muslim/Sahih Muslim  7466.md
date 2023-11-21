@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported that the people encamped along with Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hakam bin Musa Abu Shalih] telah menceritakan kepada kami [Syu'aib bin Ishaq] telah mengkhabarkan kepada kami [Ubaidullah] dari [Nafi'] bahwa [Abdullah bin Umar] telah mengkhabarkan kepadanya bahwa orang-orang singgah di hijr -kawasan Tsamud- bersama Rasulullah Shallallahu 'alaihi wa Salam, mereka minum dari sumur-sumurnya dan membuat adonan (dengan airnya) lalu Rasulullah Shallallahu 'alaihi wa Salam memerintahkan mereka agar menumpahkan yang mereka minum dan adonan yang mereka buat (dengan air itu) serta memerintahkan mereka agar minum dari sumur yang didatangi unta. telah menceritakan kepada kami [Ishaq bin Musa Al Anshari] telah menceritakan kepada kami [Anas bin Iyadh] telah menceritakan kepadaku [Ubaidullah] dengan sanad ini dengan matan serupa hanya saja ia berkata dalam haditsnya: "Minumlah dari sumurnya dan buatlah adonan dengan (air) nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7466</td></tr><tr><td>Arabic No</td><td>2981.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7466</td></tr><tr><td>Arabic No</td><td>2981.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 49</td></tr></tbody></table></div>
 

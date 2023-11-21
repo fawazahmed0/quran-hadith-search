@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:While the Prophet (ﷺ) was on a journey, he said (regarding t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Muhajir Abu Al Hasan] berkata aku mendengar [Zaid bin Wahb] berkata aku mendengar [Abu Dzarr radliallahu 'anhu] berkata; "Pernah dalam suatu perjalanan Nabi shallallahu 'alaihi wasallam berkata: "Tundalah (shalat) ". Kemudian Beliau berkata lagi: "Tundalah, hingga kita melihat bayang-bayang bukit". Kemudian Beliau bersabda: "Tundalah shalat, karena panas yang sangat menyengat itu berasal dari hembusan api jahanam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 59 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен им Аллах, рассказал: «Однажды Пророк ﷺ во время поездки сказал (муаззину, когда тот хотел призвать к молитве): “Подожди(, пока не спадёт жара)”. Затем он сказал: “Сильная жара от дыхания Ада, и если она становится слишком сильной, то задержите молитву, пока она не спадёт”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 59 Hadith 68</td></tr></tbody></table></div>
 

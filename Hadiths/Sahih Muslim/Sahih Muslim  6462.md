@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) established fraternity between Abu Ub
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir]; Telah menceritakan kepada kami ['Abdush Shamad]; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Salamah dari [Tsabit] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mempersaudarakan antara Abu Ubaidah bin Jarrah dengan Abu Thalhah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6462</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 44 Hadith 291</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6462</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 44 Hadith 291</td></tr></tbody></table></div>
 

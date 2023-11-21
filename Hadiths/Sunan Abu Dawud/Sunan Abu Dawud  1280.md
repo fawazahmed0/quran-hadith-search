@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Dhakwan, the client of Aisha, reported on the au
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'd] telah menceritakan kepada kami [pamanku] telah menceritakan kepada kami [ayahku] dari [Ibnu Ishaq] dari [Muhammad bin 'Amru bin 'Atha'] dari [Dzakwan] bekas budak Aisyah bahwa [Aisyah] pernah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat (sunnah) setelah Ashar, lalu beliau melarangnya, dan pernah (puasa) wishal (puasa terus), kemudian beliau melarangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1280</td></tr><tr><td>Arabic No</td><td>1280</td></tr><tr><td>Reference</td><td>Book 5 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ совершал дополнительную молитву после послеполуденной молитвы, но запрещал другим делать это и что он постился несколько дней без разговения, но запрещал другим делать это
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1280</td></tr><tr><td>Arabic No</td><td>1280</td></tr><tr><td>Reference</td><td>Book 5 Hadith 31</td></tr></tbody></table></div>
 

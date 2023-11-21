@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Al-Qasim:Al-Qasim used to walk in front of the funera
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepadaku [Ibnu Wahb] berkata, telah mengabarkan kepadaku ['Amru] bahwa ['Abdurrahman bin Al Qasim] bercerita kepadanya; bahwa [Al Qasim] pernah jenazah lewat di depannya tetapi dia bangun, dan dia mengabarkan dari ['Aisyah] radliallahu 'anha, bahwa dia menuturkan; "Dahulu orang-orang Jahiliyyah berdiri bila jenazah lewat dihapadan mereka, dan mereka berkata jika melihatnya; "Kamu dahulu bersama keluargamu namun kini tidak". Mereka mengucapkannya dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3837</td></tr><tr><td>Arabic No</td><td>3837</td></tr><tr><td>Reference</td><td>Book 63 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн аль-Касим сказал, что аль-Касим обычно шёл перед похоронной процессией и не вставал, когда она проходила мимо него. И он рассказывал, что ‘Аиша сказала: «Люди доисламского периода невежества обычно вставали, увидев похоронную процессию и говорили дважды: “Ты (душа) стала такой же, какой была в своей семье. (Или: ты была почтенной в своей семье, а кто же ты теперь?)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3837</td></tr><tr><td>Arabic No</td><td>3837</td></tr><tr><td>Reference</td><td>Book 63 Hadith 62</td></tr></tbody></table></div>
 

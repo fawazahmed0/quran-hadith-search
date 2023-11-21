@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir Ahmad bin 'Amru bin Sarh] telah mengabarkan kepada kami [Ibnu Wahb] dari [Ibnu Juraij] dari [Ibnu Mulaikah] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Seandainya setiap orang diberi kebebasan untuk menuduh (tuduhannya diterima), maka akan banyak manusia membuat tuduhan (atas) darah dan harta orang lain, akan tetapi sumpah itu atas tertuduh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4470</td></tr><tr><td>Arabic No</td><td>1711.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4470</td></tr><tr><td>Arabic No</td><td>1711.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 1</td></tr></tbody></table></div>
 

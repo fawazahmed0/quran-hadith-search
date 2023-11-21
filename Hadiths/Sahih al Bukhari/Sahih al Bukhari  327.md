@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Um Habiba got bleeding in between the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [M'an] berkata, telah menceritakan kepadaku [Ibnu Abu Dzi'b] dari [Ibnu Syihab] dari ['Urwah] dan dari ['Amrah] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, "Ummu Habibah mengeluarkan darah istihadlah (darah penyakit) selama tujuh tahun. Lalu ia bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang masalah itu. Beliau lalu memerintahkan kepadanya untuk mandi, beliau bersabda: "Ini seperti keringat (darah penyakit)." Maka Ummu Habibah selalu mandi untuk setiap kali shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>327</td></tr><tr><td>Reference</td><td>Book 6 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, жены Пророка ﷺ о том, что у Умм Хабибы (бинт Джахш), были хронические кровотечения в течение семи лет и она спросила об этом Посланника Аллаха ﷺ и он велел ей искупаться и сказал: «Это венозная кровь». И она купалась для каждой молитвы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>327</td></tr><tr><td>Reference</td><td>Book 6 Hadith 32</td></tr></tbody></table></div>
 

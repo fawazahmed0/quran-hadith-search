@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masroûq a dit : Nous étions assis chez 'Abdoullâh alors qu'il était couché 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Jarir] dari [Manshur] dari [Abu Adh Dhuha] dari [Masruq] berkata: Kami duduk didekat [Abdullah] dan ia tengah berbaring. Seseorang mendatanginya lalu berkata: Hai Abu Abdurrahman, seseorang bercerita didekat pintu gerbang Kindah, ia mengira bahwa tanda-tanda (kebesaran berupa) kabut datang lalu merenggut nyawa orang-orang kafir, kabut itu mencabut nyawa orang-orang mu'min seperti kondisi selesma. Abdullah duduk kemudian berkata dengan marah: Wahai sekalian manusia, bertakwalah kepada Allah, barangsiapa diantara kalian yang mengetahui sesuatu, hendaklah mengatakan seperti yang ia ketahui dan barangsiapa diantara kalian tidak mengetahui, hendaklah mengucapkan: Allahu a'lam, karena orang yang paling tahu diantara kalian adalah yang mengatakan untuk sesuatu yang tidak ia ketahui: Allahu a'lam, karena Allah Azza wa Jalla berfirman kepada nabiNya: "Katakanlah (hai Muhammad): "Aku tidak meminta upah sedikitpun padamu atas da'wahku dan bukanlah Aku termasuk orang-orang yang mengada-adakan." (Shaad: 86) Saat Rasulullah Shallallahu 'alaihi wa Salam melihat orang-orang berpaling, beliau berdoa: "Ya Allah, (turunkanlah) kelaparan seperti kelaparannya Yusuf." Masruq berkata: Mereka pun tertimpa kelaparan yang menyerang segala sesuatu hingga mereka makan kulit dan bangkai karena lapar. Seseorang dari mereka melihat ke langit seperti wujud kabut lalu mereka mendatangi Abu Sufyan, ia berkata: Hai Muhammad, kau datang memerintahkan untuk menaati Allah dan menyambung silaturrahim, kaummu telah binasa, berdoalah kepada Allah 'azza wajalla untuk mereka."Maka tunggulah hari ketika langit membawa kabut yang nyata, yang meliputi manusia. inilah azab yang pedih" hingga fimranNya "Sesungguhnya kamu akan kembali (ingkar)." (Ad Dukhaan: 10-15) ia berkata: Apakah siksaan akhirat akan dihilangkan?"(Ingatlah) hari (ketika) kami menghantam mereka dengan hantaman yang keras. Sesungguhnya kami adalah pemberi balasan." (Ad Dukhaan: 16) hantaman keras adalah perang Badar. Tanda-tanda asap, hantaman keras, kematian dan ayat tentang (kemenangan) Romawi telah berlalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7066</td></tr><tr><td>Arabic No</td><td>2798.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7066</td></tr><tr><td>Arabic No</td><td>2798.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 22</td></tr></tbody></table></div>
 

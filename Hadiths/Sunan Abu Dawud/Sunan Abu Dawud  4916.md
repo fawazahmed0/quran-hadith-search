@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying:T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Pintu-pintu surga dibuka setiap hari senin dan kamis, lalu pada kedua hari itu akan diampuni setiap orang yang tidak mensekutukan Allah dengan sesuatu, kecuali bagi seseorang yang mempunyai permusuhan dengan saudaranya. Lalu akan dikatakan (kepada malaikat), "Tunggulah dua orang ini hingga mereka berbaikan." Abu Dawud menyebutkan, "Nabi shallallahu 'alaihi wasallam pernah mendiamkan sebagian isteri-isterinya selama empat puluh hari, Ibnu Umar juga pernah mendiamkan anaknya hingga ia meninggal." Abu Dawud berkata, "Jika mendiamkan itu karena Allah, maka (ancaman) hadits ini tidak berlaku. Umar bin Abdul Aziz pernah menutupi wajahnya dari seseorang (mendiamkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2565)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 43 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2565)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 43 Hadith 144</td></tr></tbody></table></div>
 

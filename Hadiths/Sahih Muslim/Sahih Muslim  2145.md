@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:When 'Umar was wounded he fainted, and there was a loud lamen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Ali bin Mushir] dari [Al A'masy] dari [Abu Shalih] dari [Ibnu Umar] ia berkata; Ketika khalifah [Umar] ditikam orang, beliau jatuh pingsan dan orang-orang pun meratapinya. Setelah siuman, Umar berkata, "Tidakkah kalian tahu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya mayit itu benar-benar akan disiksa lantara tangisan mereka yang hidup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2145</td></tr><tr><td>Arabic No</td><td>927.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Когда ‘Умар был ранен и потерял сознание, над ним стали причитать. Очнувшись, он сказал: “Разве вы не знали, что Посланник Аллаха ﷺ сказал: ‹Поистине, покойный подвергается мучениям по причине (чрезмерного) плача живого›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2145</td></tr><tr><td>Arabic No</td><td>927.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 23</td></tr></tbody></table></div>
 

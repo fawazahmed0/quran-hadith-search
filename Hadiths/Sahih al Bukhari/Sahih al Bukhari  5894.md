@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Seereen:I asked Anas, "Did the Prophet (ﷺ) dye his hair?
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Muhammad bin Sirin] dia berkata; saya bertanya kepada [Anas] "Apakah Nabi shallallahu 'alaihi wasallam pernah menyemir rambutnya?" dia menjawab; "Beliau tidak menyemir rambut karena ubannya kecuali hanya sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5894</td></tr><tr><td>Arabic No</td><td>5894</td></tr><tr><td>Reference</td><td>Book 77 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Сирин сказал: «(Однажды) я спросил Анаса: “Красил ли Пророк ﷺ (свои волосы)?” Он ответил: “ (Нет, поскольку) у него было лишь несколько седых волос”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5894</td></tr><tr><td>Arabic No</td><td>5894</td></tr><tr><td>Reference</td><td>Book 77 Hadith 111</td></tr></tbody></table></div>
 

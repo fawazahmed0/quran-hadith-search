@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:I was in the company of Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] dari [Yazid bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah] dia berkata; "Saya pernah berada di samping Nabi shallallahu 'alaihi wasallam, tiba-tiba seorang laki-laki datang kepada beliau seraya mengabarkan bahwa dirinya akan menikahi seorang wanita dari Anshar." Lantas Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Apakah kamu telah melihatnya? Dia menjawab; Tidak. Beliau melanjutkan: "Pergi dan lihatlah kepadanya, sesungguhnya di mata orang-orang Anshar ada sesuatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3485</td></tr><tr><td>Arabic No</td><td>1424.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «(Однажды), когда я находился у Пророка ﷺ к нему пришёл какой-то мужчина и сказал, что он женился на женщине из числа ансаров. Посланник Аллаха ﷺ спросил: “А ты посмотрел на неё?” Он ответил: “Нет”. (Пророк ﷺ) сказал: “Пойди и посмотри на неё, ибо в глазах у ансаров есть что-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3485</td></tr><tr><td>Arabic No</td><td>1424.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 87</td></tr></tbody></table></div>
 

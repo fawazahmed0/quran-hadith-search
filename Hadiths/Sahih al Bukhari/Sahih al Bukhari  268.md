@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:Anas bin Malik said, "The Prophet (ﷺ) used to visit all his wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] berkata, telah menceritakan kepada saya [bapakku] dari [Qatadah] berkata, telah menceritakan kepada kami [Anas bin Malik radliallahu 'anhu] berkata,: "Adalah Nabi shallallahu 'alaihi wasallam. mendatangi isterinya pada waktu yang sama di malam hari atau siang hari, saat itu jumlah isteri-isteri Beliau sebelas orang". Aku bertanya kepada Anas bin Malik radliallahu 'anhu: "Apakah Beliau mampu?". Jawabnya: "Beliau diberikan kekuatan setara tiga puluh lelaki". Berkata, [Sa'id] dari [Qatadah] bahwa [Anas radliallahu 'anhu] menerangkan kepada mereka bahwa jumlah isteri-isteri Beliau shallallahu 'alaihi wasallam. saat itu sembilan orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>268</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Къатада передал, что (однажды) Анас, да будет доволен им Аллах, рассказывал им: «В течение дня и ночи Пророк ﷺ обходил (всех) своих жён, а их было одиннадцать».\n(Къатада) сказал: «Я спросил Анаса: “Неужели такое было ему под силу?” (Анас) ответил: “Мы часто говорили (друг другу), что он был наделён силой тридцати (мужчин)”».\nСа‘ид передал от Къатады о том, что Анас рассказывал им (, что их было) девять жён
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>268</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
 

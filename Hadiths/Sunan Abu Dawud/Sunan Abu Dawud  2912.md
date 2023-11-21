@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: I heard the Messenger of Allah (ﷺ) say: Islam incre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari ['Amr bin Abu Hakim Al Wasithi], telah menceritakan kepada kami [Abdullah bin Buraidah] bahwa dua orang yang bersaudara seorang yahudi dan muslim saling memperkarakan kepada Yahya bin Ya'mar kemudian ia memberikan warisan kepada orang muslim. Dan [Yahya] berkata; telah menceritakan kepadaku [Abu Al Aswad bin Amir] bahwa [seorang laki-laki] telah menceritakan kepadanya bahwa [Mu'adz] telah menceritakan kepadanya ia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Islam bertambah dan tidak berkurang." Kemudian beliau memberikan warisan kepada seorang muslim. Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] dari [Amru bin Abi Hakim] dari [Abdullah bin Buraidah] dari [Yahya bin Ya'mar] dari [Abu Al Aswad Ad Dili] bahwa [Mu'adz] diberi warisan seorang yahudi sementara pewarisnya adalah seorang muslim. Ia menyebutkan hadits tersebut dengan maknanya dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2912</td></tr><tr><td>Arabic No</td><td>2912</td></tr><tr><td>Reference</td><td>Book 19 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Бурайды, что к Яхйе ибн Я‘мару обратились на суд два брата, один из которых был иудеем, а второй мусульманином, и он постановил отдать наследство мусульманину. При этом он сказал: «Абу аль-Асвад рассказывал мне, что один человек передал ему со слов Му‘аза, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: “Ислам увеличивается, но не уменьшается” и постановил, что мусульманин наследует немусульманину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2912</td></tr><tr><td>Arabic No</td><td>2912</td></tr><tr><td>Reference</td><td>Book 19 Hadith 28</td></tr></tbody></table></div>
 

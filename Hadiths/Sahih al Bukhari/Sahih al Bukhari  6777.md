@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:Abu Huraira said, "A man who drank wine was brought to the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abu Dhamrah Anas] dari [Yazid bin Al Had] dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu; Nabi shallallahu 'alaihi wasallam diserahi seseorang yang minum khamar. Lantas beliau berujar: "pukullah dia". Abu Hurairah berkata; maka diantara kami ada yang memukulnya dengan dengan tangannya, ada yang memukul dengan sandalnya dan ada yang memukul dengan pakaiannya. Tatkala selesai, sebagian orang ada yang berkata; 'Kiranya Allah menghinakanmu! ' maka Nabi bersabda: "Janganlah kalian mengatakan yang demikian, janganlah kalian membantu setan memperdayakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6777</td></tr><tr><td>Arabic No</td><td>6777</td></tr><tr><td>Reference</td><td>Book 86 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ привели человека, выпившего (вина, и) он сказал: “Побейте его!”».\nАбу Хурайра сказал: «И некоторые из нас стали бить его своими руками, некоторые — своими сандалиями, а некоторые — своей одеждой, а когда (этот человек) ушёл, кто-то из людей воскликнул: “Да посрамит тебя Аллах!” — (и тогда Пророк ﷺ) сказал: “Не говорите так и не помогайте шайтану одолеть его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6777</td></tr><tr><td>Arabic No</td><td>6777</td></tr><tr><td>Reference</td><td>Book 86 Hadith 6</td></tr></tbody></table></div>
 

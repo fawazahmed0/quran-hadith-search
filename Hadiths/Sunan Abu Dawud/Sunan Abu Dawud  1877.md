@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said The Apostle of Allaah(ﷺ) performed the circumambulation at t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Shalih], telah menceritakan kepada Kami [Ibnu Wahb], telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah yaitu Ibnu Abdullah bin 'Utbah] dari [Ibnu Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melakukan thawaf pada saat haji wada' di atas unta, dan mengusap rukun menggunakan tongkat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1607) Sahih Muslim (1272)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1877</td></tr><tr><td>Arabic No</td><td>1877</td></tr><tr><td>Reference</td><td>Book 11 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что в прощальном хадже Посланник Аллаха ﷺ совершал таваф на верблюде, коснувшись йеменского угла Каабы изогнутой палкой [, которым погоняют верблюдов]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1607) Sahih Muslim (1272)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1877</td></tr><tr><td>Arabic No</td><td>1877</td></tr><tr><td>Reference</td><td>Book 11 Hadith 157</td></tr></tbody></table></div>
 

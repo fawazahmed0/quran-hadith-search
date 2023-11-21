@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported that he divorced his wife while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dia berkata; Saya membaca di hadapan [Malik bin Anas] dari [Nafi'] dari [Ibnu Umar] bahwa di masa Rasulullah shallallahu 'alaihi wasallam, dia pernah menceraikan istrinya, padahal istrinya sedang haidllh, lantas Umar bin Khatthab menanyakan kepada Rasulullah shallallahu 'alaihi wasallam mengenai hal itu, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Perintahkanlah dia (Ibnu Umar) untuk kembali (meruju') kepadanya, kemudian tunggulah sampai dia suci, lalu dia haidl kemudian suci kembali, setelah itu jika dia masih ingin bersamanya, (dia boleh bersamanya) atau jika dia berkehendak, dia boleh menceraikannya sebelum dia menggaulinya, itulah maksud iddah yang di perintahkan Allah Azza Wa Jalla dalam menceraikan wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>1471.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>1471.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Sa'd reported his father as saying:Allah's Apostle (ﷺ) visited me during m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Al Qasim bin Zakaria] telah menceritakan kepada kami [Hunain bin Ali] dari [Zaidah] dari [Abdul Malik bin 'Umair] dari [Mush'ab bin Sa'd] dari [Ayahnya] dia berkata, "Nabi shallallahu 'alaihi wasallam datang menjengukku, maka saya pun berkata, "Saya telah mewasiatkan hartaku semuanya." Beliau bersabda: "Jangan." Saya berkata lagi, "Bagaimana jika setengahnya?" beliau bersabda: "Jangan." Saya berkata lagi, "Bagaimana jika sepertiganya?" beliau menjawab: "Ya, tidak mengapa. Sepertiga itu sudah banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4214</td></tr><tr><td>Arabic No</td><td>1628.06</td></tr><tr><td>Reference</td><td>Book 25 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4214</td></tr><tr><td>Arabic No</td><td>1628.06</td></tr><tr><td>Reference</td><td>Book 25 Hadith 11</td></tr></tbody></table></div>
 

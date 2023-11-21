@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Doesn't it astonish you how 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bib 'Abdullah] telah bercerita kepada kami [Sufyan] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidakkah kalian takjub (kagum) bagaimana Allah menyelamatkan aku dari caci maki Quraisy dan laknat mereka?. Mereka biasa mencaci maki orang yang tercela dan melaknat orang yang tercela sedangkan aku adalah Muhammad (orang yang dipuji)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3533</td></tr><tr><td>Arabic No</td><td>3533</td></tr><tr><td>Reference</td><td>Book 61 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал (своим сподвижникам): «Разве не удивляет вас то, как Аллах отводит от меня поношения и проклятия курайшитов? Они подвергают поношению “музаммама” (порицаемый) и проклинают “музаммама”, а я — Мухаммад»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3533</td></tr><tr><td>Arabic No</td><td>3533</td></tr><tr><td>Reference</td><td>Book 61 Hadith 42</td></tr></tbody></table></div>
 

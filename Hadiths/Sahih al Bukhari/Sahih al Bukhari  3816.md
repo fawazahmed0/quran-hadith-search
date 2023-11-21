@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I did not feel jealous of any of the wives of the Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin 'Ufair] telah bercerita kepada kami [Al Laits] berkata; [Hisyam] menuis surat kepadaku yang katanya isinya dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; "Tidaklah aku cemburu kepada salah seorang istri-istri Nabi shallallahu 'alaihi wasallam sebagaimana kecemburuanku terhadap Khadijah. Padahal ia meninggal dunia sebelum beliau menikahi aku. Dan disebabkan aku sering mendengar beliau menyebut-nyebutnya (memuji dan menyanjungnya) dan Allah memerintahkan beliau untuk memberi kabar gembira kepadanya bahwa dia akan mendapatkan rumah terbuat dari mutiara (di surga kelak). Dan apabila beliau menyembelih kambing, beliau selalu menghadiahkan bagian kambing itu untuk teman-temannya Khadijah apa yang dapat mencukupi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3816</td></tr><tr><td>Arabic No</td><td>3816</td></tr><tr><td>Reference</td><td>Book 63 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Ни к кому из жён Пророка ﷺ я не ревновала его столь сильно как к Хадидже, которая скончалась до того, как он женился на мне, потому что я часто слышала, как он вспоминал о ней. И Аллах приказал ему обрадовать вестью о доме из полого жемчуга (, который ждёт её в Раю). А когда он резал овец, то посылал в подарок её подругам достаточное количество (мяса)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3816</td></tr><tr><td>Arabic No</td><td>3816</td></tr><tr><td>Reference</td><td>Book 63 Hadith 41</td></tr></tbody></table></div>
 

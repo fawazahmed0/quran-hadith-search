@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: I knew that the Messenger of Allah (ﷺ) used to keep fast
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Shadaqah bin Khalid] telah menceritakan kepada kami [Zaid bin Waqid] dari [Khalid bin Abdullah bin Husain] dari [Abu Hurairah] ia berkata, "Aku mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam berpuasa, maka aku menunggu waktu berbukanya beliau dengan menyiapkan perasan nabidz yang aku buat dalam Ad dubba (bejana yang terbuat dari labu kering), ternyata minuman tersebut telah mendidih. Beliau pun bersabda: "Buanglah ke belakang dinding ini. Sebab ini adalah minuman orang yang tidak beriman kepada Allah dan Hari Akhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3716</td></tr><tr><td>Arabic No</td><td>3716</td></tr><tr><td>Reference</td><td>Book 27 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах: «Зная, что Посланник Аллаха ﷺ постится, я приготовил для него набиз в сосуде дубба. Я принёс ему его, и оказалось, что он уже начал бродить. (Посланник Аллаха ﷺ) сказал: “Вылей это в саду, ибо это напиток тех, кто не верует в Аллаха и в Последний день!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3716</td></tr><tr><td>Arabic No</td><td>3716</td></tr><tr><td>Reference</td><td>Book 27 Hadith 48</td></tr></tbody></table></div>
 

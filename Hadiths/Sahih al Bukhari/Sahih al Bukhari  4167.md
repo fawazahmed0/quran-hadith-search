@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbas bin Tamim:When it was the day (of the battle) of Al-Harra the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4167</td></tr><tr><td>Arabic No</td><td>4167</td></tr><tr><td>Reference</td><td>Book 64 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Аббад ибн Тамим сказал: «Когда в день битвы при аль-Харре, люди давали присягу ’Абдуллаху ибн Ханзале, Ибн Зейд спросил: “В чём люди клянутся Ибн Ханзале?” Ему ответили: “В (том, что они будут сражаться) насмерть”. На это Ибн Зейд сказал: “После (смерти) Посланника Аллаха ﷺ я уже никому не стану клясться в этом”. Ибн Зейд был тем, кто был с Пророком ﷺ в аль-Худайбиййи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4167</td></tr><tr><td>Arabic No</td><td>4167</td></tr><tr><td>Reference</td><td>Book 64 Hadith 209</td></tr></tbody></table></div>
 

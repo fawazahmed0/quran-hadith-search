@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) besieged the people of Ta'if, but
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7480</td></tr><tr><td>Arabic No</td><td>7480</td></tr><tr><td>Reference</td><td>Book 97 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ взял в осаду жителей Таифа, однако не смог завоевать город, и сказал: “Поистине, завтра мы уйдём, если пожелает Аллах”. И мусульмане сказали: “Неужели мы уйдем, так и не взяв его?” (Тогда Пророк ﷺ) сказал: “(Тогда) идите в бой!” И они бросились в бой, но (многие) были ранены, и Пророк ﷺ сказал: “Поистине, завтра мы уйдём, если пожелает Аллах”, и как-будто бы это порадовало их, а Посланник Аллаха ﷺ улыбнулся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7480</td></tr><tr><td>Arabic No</td><td>7480</td></tr><tr><td>Reference</td><td>Book 97 Hadith 106</td></tr></tbody></table></div>
 

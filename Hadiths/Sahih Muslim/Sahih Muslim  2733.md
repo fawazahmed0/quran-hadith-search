@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr b. al-'As (Allah be pleased with them) reported that the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Yusuf Al Azdi] telah menceritakan kepada kami [Amru bin Abu Salamah] dari [Al Auza'i] -secara qira'ah- ia berkata, telah menceritakan kepadaku [Yahya bin Abu Katsir] dari [Ibnul Hakam bin Tsauban] telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] dari [Abdullah bin Amru bin Ash] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Abdullah, janganlah kamu seperti si Fulan, sebelumnya ia rajin Qiyamullail (shalat malam), namun ia kemudian hari meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>1159.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>1159.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 239</td></tr></tbody></table></div>
 

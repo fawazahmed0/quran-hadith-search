@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asma' daughter of Yazid: The Prophet (ﷺ) as saying: Any woman who wea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Aban bin Yazid Al 'Aththar] berkata, telah menceritakan kepada kami [Yahya] bahwa [Mahmud bin Amru Al Anshari] menceritakan kepadanya, bahwa [Asma binti Yazid] menceritakan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Wanita mana saja memakai kalung emas, maka pada hari kiamat kelak ia akan diberi kalung yang semisal dari api. Dan wanita mana saja yang di telinganya terdapat anting emas, maka pada hari kiamat kelak ia akan diberi anting yang semisal dari api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Асма бинт Язид (да будет доволен ею Аллах) передаёт, что Посланник Аллаха ﷺ сказал: «На шею любой женщины, надевшей золотое ожерелье, будет надето такое же ожерелье из Огня в Судный день, и на уши любой женщины, носящей золотые серьги, будут надеты такие же серьги из Огня в Судный день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
 

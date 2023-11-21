@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Qur'an is recited in every prayer and in those prayers 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il bin Ibrahim] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku ['Atha] bahwa dia mendengar [Abu Hurairah] berkata, "Pada setiap rakaat ada bacaannya. Apa yang Rasulullah shallallahu 'alaihi wasallam perdengarkan (keraskan) bacaannya kepada kami maka kamipun akan perdengarkan kepada kalian, dan apa yang Beliau sembunyikan (tidak mengeraskan bacaan) kepada kami, maka kamipun tidak mengeraskannya kepada kalian. Jika kalian tidak tambah selain Al Fatihah, maka itu sudah cukup. Namun bila kalian tambah setelahnya itu lebih baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>772</td></tr><tr><td>Arabic No</td><td>772</td></tr><tr><td>Reference</td><td>Book 10 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Коран следует) читать во время каждого намаза. Мы читаем (его) для вас вслух тогда же, когда читал (его) вслух нам Посланник Аллаха ﷺ, а в тех случаях, когда он при нас читал (его) про себя, и мы читаем его про себя при вас. Если ты ничего не добавишь к “аль-Фатихе”, (при совершении того или иного рак‘ата намаза,) этого будет достаточно, а если добавишь, будет лучше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>772</td></tr><tr><td>Arabic No</td><td>772</td></tr><tr><td>Reference</td><td>Book 10 Hadith 166</td></tr></tbody></table></div>
 

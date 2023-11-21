@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I as among those whom the Prophet (ﷺ) sent on the night of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami ['Ali] telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada saya ['Ubaidullah bin Abu Yazid] bahewa dia mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Aku termasuk orang yang didahulukan berangkat menuju Muzdalifah diantara keluarga Beliau yang lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1678</td></tr><tr><td>Arabic No</td><td>1678</td></tr><tr><td>Reference</td><td>Book 25 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я был одним из тех, кого Посланник Аллаха ﷺ отправил в ночь Муздалифы вместе со слабыми из числа своих родных»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1678</td></tr><tr><td>Arabic No</td><td>1678</td></tr><tr><td>Reference</td><td>Book 25 Hadith 158</td></tr></tbody></table></div>
 

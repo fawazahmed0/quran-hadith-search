@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yazid ibn al-Aswad: Yazid prayed along with the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Ya'la bin 'Atha'] dari [Jabir bin Yazid bin Al-Aswad] dari [Ayahnya] bahwasanya dia pernah shalat bersama Rasulullah Shallallahu alaihi wasallam sementara ketika itu dia masih muda. Tatkala shalat telah selesai dilaksanakan, ada dua orang laki-laki yang berada di salah satu sudut masjid tidak melaksanakan shalat, maka beliau memanggil keduanya dan keduanya pun didatangkan dalam kondisi merinding bulu kuduknya, lalu beliau bersabda: "Apakah yang menghalangi kalian berdua untuk melaksanakan shalat bersama kami?" Mereka menjawab; Kami sudah melaksanakannya di rumah kami. Beliau bersabda: "Janganlah kalian melakukannya lagi, apabila seseorang di antara kalian sudah melaksanakan shalat di rumahnya, lalu mendapatkan imam sedang shalat, maka shalatlah bersamanya, karena yang ini baginya adalah nafilah (sholat sunnah)."Telah menceritakan kepada kami [Ibnu Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Ya'la bin 'Atha'] dari [Jabir bin Yazid] dari [Ayahnya] dia berkata; Saya pernah shalat Shubuh bersama Nabi Shallallahu alaihi wasallam di Mina, lalu dia melanjutkan hadits semakan dengan di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 2 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн Язида ибн аль-Асуада о том, что его отец рассказывал, что он совершал молитву с посланником Аллаха ﷺ когда он ещё был юношей. И однажды, когда он совершил молитву, на стороне в мечети (сидели) двое мужчин, которые не молились (с Пророком ﷺ). Он подозвал их, и их привели к нему дрожащими от страха и он сказал: «Что помешало вам помолиться с нами?». Они ответили: «Мы уже помолились у себя дома». (Посланник Аллаха ﷺ) сказал: “Не делайте так. Если кто-нибудь из вас помолится у себя дома, а затем застанет имама ещё не совершившего молитву, пусть помолится с ним, и, поистине, эта (молитва) станет для него дополнительной”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 2 Hadith 185</td></tr></tbody></table></div>
 

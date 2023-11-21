@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported:I heard the Messenger of Allah (ﷺ) reciting in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Mis'ar] dari ['Adi bin Tsabit] dia berkata, "Saya mendengar [al-Bara' bin 'Azib] berkata, "Saya mendengar Nabi Shallallahu'alaihiwasallam dalam shalat Isya membaca Surat at-Tin wa az-Zaitun dan tidaklah saya mendengar suara yang lebih bagus daripadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>464.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «(Однажды) я слышал, как Пророк ﷺ читал в вечерней молитве /‘иша/: “Клянусь смоковницей и оливой!”, и не приходилось мне слушать человека с более приятным голосом, чем у него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>464.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 201</td></tr></tbody></table></div>
 

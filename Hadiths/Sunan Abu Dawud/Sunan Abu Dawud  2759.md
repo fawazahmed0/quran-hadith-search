@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn Abasah: Sulaym ibn Amir, a man of Himyar, said: There was a cov
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namiri], ia berkata; telah menceritakan kepada kami [Syu'bah] dari [Abu Al Faidh] dari [Sulaim bin 'Amir] seorang laki-laki dari Himyar, ia berkata; dahulu antara Mu'awiyah dan Romawi terdapat perjanjian. Ia berjalan ke arah negeri mereka, kemudian setelah habis masa perjanjian ia memerangi orang-orang Romawi tersebut. Kemudian terdapat seorang laki-laki yang datang dengan menaiki kuda, ia berkata; Allahu akbar, Allahu akbar. Pemenuhan janji bukan pengkhianatan. Kemudian orang-orang melihat kepadanya dan ternyata ia adalah ['Amr bin 'Abasah], kemudian Mu'awiyah mengirimkan utusan kepadanya dan bertanya kepadanya. Kemudian ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa antara dirinya dan suatu kaum terdapat suatu perjanjian, maka janganlah ia mengencangkan ikatan dan janganlah ia melepasnya hingga habis waktunya atau ia mengembalikan perjanjian itu kepada mereka dengan cara yang jujur." Kemudian Mu'awiyah kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2759</td></tr><tr><td>Arabic No</td><td>2759</td></tr><tr><td>Reference</td><td>Book 15 Hadith 283</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2759</td></tr><tr><td>Arabic No</td><td>2759</td></tr><tr><td>Reference</td><td>Book 15 Hadith 283</td></tr></tbody></table></div>
 

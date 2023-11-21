@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If somebody keeps a dog, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Hammam] dari [Yahya] berkata telah bercerita kepadaku [Abu Salamah] bahwa [Abu Hurairah radliallahu 'anhu] bercerita kepadanya, dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang menyentuh anjing berarti sepanjang hari itu dia telah menghapus amalnya sebanyak satu qirath kecuali menyentuh anjing ladang atau anjing ternak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 59 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Награда за праведные) дела того, кто держит собаку, ежедневно уменьшается на карат, если только собаку (держат) не для (охраны) посевов или скота»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 59 Hadith 130</td></tr></tbody></table></div>
 

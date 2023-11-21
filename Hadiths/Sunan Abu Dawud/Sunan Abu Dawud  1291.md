@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Abi Laila:No one told us that the Prophet (ﷺ) had offered Duha pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Ibnu Abu Laila] dia berkata; Tidak ada seorang pun yang menyampaikan kepada kami bahwa dirinya pernah melihat Nabi shallallahu 'alaihi wasallam mengerjakan shalat Dluha selain [Ummu Hani'], bahwa dirinya menyebutkan bahwa pada hari penaklukan kota Makkah, Nabi shallallahu 'alaihi wasallam pernah mandi di rumahnya kemudian beliau mengerjakan shalat delapan raka'at, dan tidak ada seorang pun yang melihat beliau mengerjakannya setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1103) Sahih Muslim (336 After 719)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1291</td></tr><tr><td>Arabic No</td><td>1291</td></tr><tr><td>Reference</td><td>Book 5 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн Абу Лейля: «Никто не передавал нам, что видел, как Пророк ﷺ совершал молитву-духа, кроме Умм Хани, которая рассказывала, что в день покорения Мекки Пророк ﷺ совершил полное омовение в её доме и молитву в восемь рак‘атов, однако после этого никто никогда не видел его совершающим такую молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1103) Sahih Muslim (336 After 719)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1291</td></tr><tr><td>Arabic No</td><td>1291</td></tr><tr><td>Reference</td><td>Book 5 Hadith 42</td></tr></tbody></table></div>
 

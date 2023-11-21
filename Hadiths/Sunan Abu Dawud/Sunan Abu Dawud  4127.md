@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Ukaym: The letter of the Messenger of Allah (ﷺ) was read
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari ['Abdurrahman bin Abu Laila] dari [Abdullah bin Ukaim] ia berkata, "Ketika kami sedang berada di Juhainah, buku Rasulullah shallallahu 'alaihi wasallam dibacakan kepada kami, dan waktu itu aku masih seorang bocah, yaitu: “Tidakkah kalian memanfaatkannya dengan menyamak kulitnya.”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4127</td></tr><tr><td>Arabic No</td><td>4127</td></tr><tr><td>Reference</td><td>Book 34 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Укайма: «Когда мы были в землях (племени) Джухайна, нам зачитали письмо Посланника Аллаха ﷺ. А я тогда был юношей. В письме говорилось: “Не используйте шкуру и жилы мертвечины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4127</td></tr><tr><td>Arabic No</td><td>4127</td></tr><tr><td>Reference</td><td>Book 34 Hadith 108</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When a person says that p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca Hadits [Malik] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila ada seseorang yang berkata; 'Celakalah manusia', maka sebenarnya ia sendiri yang lebih celaka dari mereka." Abu Ishaq berkata; 'Saya tidak tahu apakah dibaca nashab (dengan harakat fathah) yaitu ahlakahum ataukah dibaca rafa' (dengan harakat dhammah) yaitu ahlakuhum.' Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Rauh bin Al Qasim]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Ahmad bin 'Utsman bin Hakim]; Telah menceritakan kepada kami [Khalid bin Makhlad] dari [Sulaiman bin Bilal] seluruhnya dari [Suhail] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6683</td></tr><tr><td>Arabic No</td><td>2623.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6683</td></tr><tr><td>Arabic No</td><td>2623.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 180</td></tr></tbody></table></div>
 

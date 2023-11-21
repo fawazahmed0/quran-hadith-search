@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd: We used to lease land for what grew by the streamlets and for wha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Yazid? bin Harun] telah mengabarkan kepada kami [Ibrahim bin Sa'd] dari [Muhammad bin Ikrimah bin Abdurrahman bin Al Harits bin Hisyam] dari [Muhammad bin Abdurrahman bin Abu Labibah] dari [Sa'id bin Al Musayyab], dari [Sa'd] ia berkata; dahulu kami menyewakan tanah dengan upah tanaman yang tumbuh di atas sungai-sungai kecil serta sungai-sungai yang mengalir airnya tersebut. Kemudian Rasulullah shallallahu 'alaihi wasallam melarang kami dari hal tersebut dan beliau memerintahkan kami untuk menyewakannya dengan upah emas atau perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3391</td></tr><tr><td>Arabic No</td><td>3391</td></tr><tr><td>Reference</td><td>Book 23 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘д, да будет доволен им Аллах, передаёт: «Мы отдавали землю для возделывания её в обмен на то, что росло у воды, но Посланник Аллаха ﷺ запретил нам поступать так и велел нам отдавать землю для возделывания за золото или серебро»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3391</td></tr><tr><td>Arabic No</td><td>3391</td></tr><tr><td>Reference</td><td>Book 23 Hadith 66</td></tr></tbody></table></div>
 

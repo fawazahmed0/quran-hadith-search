@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I said: "O Allah's Messenger (ﷺ)! Who will be the luckies
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul 'Aziz bin Abdullah] berkata, telah menceritakan kepadaku [Sulaiman] dari ['Amru bin Abu 'Amru] dari [Sa'id Al Maqburi] dari [Abu Hurairah], bahwa dia berkata: ditanyakan (kepada Rasulullah shallallahu 'alaihi wasallam: "Wahai Rasulullah siapakah orang yang paling berbahagia dengan syafa'atmu pada hari kiamat?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Aku telah menduga wahai Abu Hurairah, bahwa tidak ada orang yang mendahuluimu dalam menanyakan masalah ini, karena aku lihat betapa perhatian dirimu terhadap hadits. Orang yang paling berbahagia dengan syafa'atku pada hari kiamat adalah orang yang mengucapkan Laa ilaaha illallah dengan ikhlas dari hatinya atau jiwanya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 3 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) я спросил: “О Посланник Аллаха, кто (из людей) обретёт наивысшее счастье благодаря твоему заступничеству в День воскрешения?” (В ответ) Посланник Аллаха ﷺ сказал (мне): “О Абу Хурайра, я так и думал, что никто не спросит об этом раньше тебя, поскольку я видел, как ты стремишься слушать (мои) слова! В День воскрешения счастливейшим из людей благодаря моему заступничеству станет тот, кто скажет: “Нет бога, достойного поклонения, кроме Аллаха”, будучи искренним в сердце своём (или: в душе своей)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 3 Hadith 41</td></tr></tbody></table></div>
 

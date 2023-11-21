@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A man from the people of the scripture came to the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafs bin Ghiyats] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] aku mendengar [Ibrahim] berkata, Aku mendengar [Alqamah] berkata, [Abdullah] berkata, "Seorang laki-laki ahli kitab menemui nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Abul qasim, Allah memegang langit hanya dengan satu jari, semua pohon hanya dengan satu jari, semua bintang hanya dengan satu jari, seluruh makhluk hanya dengan satu jari, lalu Allah berfirman: 'Akulah sang raja, akulah sang raja'. Dan kulihat Nabi shallallahu 'alaihi wasallam tertawa hingga kelihatan gigi serinya, lantas beliau membaca ayat: '(Dan mereka tidak menghormati Allah dengan penghormatan yang semestinya) ' (QS.Azzumar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7415</td></tr><tr><td>Arabic No</td><td>7415</td></tr><tr><td>Reference</td><td>Book 97 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что однажды к Пророку ﷺ пришёл один человек из числа обладателей Писания и сказал: «О Абу аль-Касим! Поистине, Аллах удерживает на одном пальце небеса, на другом — земли, на третьем — деревья и богатство, на пятом — всё прочее, (что было Им) создано, а потом скажет: “Я — Царь! Я — Царь!”» (‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал:) «Я увидел, как Пророк ﷺ рассмеялся так широко, что показались его коренные зубы, а потом прочёл: “Не ценили они Аллаха должным образом” (сура “аль-Ан‘ам”, аят 91)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7415</td></tr><tr><td>Arabic No</td><td>7415</td></tr><tr><td>Reference</td><td>Book 97 Hadith 43</td></tr></tbody></table></div>
 

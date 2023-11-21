@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:'Utba bin Abu Waqqas took a firm promise from his brother Sa'd bi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kami [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] berkata; 'Utbah bin Abu Waqash berpesan kepada saudaranya Sa'ad bin Abu Waqash yang isinya 'Anak laki-laki dari hamba sahaya Zam'ah adalah anakku maka ambillah. 'Aisyah radliallahu 'anha berkata; Ketika tahun Pembebasan Makkah, Sa'ad bin Abu Waqash mengambilnya, seraya berkata; Itu anak laki-laki saudaraku, yang ia berpesan kepadaku untuk mengambil anak ini. Maka 'Abd bin Zam'ah berdiri lalu berkata: Oh tidak, karena saudaraku dan anak laki-laki hamba sahaya ayahku dilahirkan di tempat tidurnya. Lalu keduanya mengadukan masalah ini kepada Nabi shallallahu 'alaihi wasallam. Sa'ad berkata: "Wahai Rasulullah, ini adalah anak saudaraku, yang saudaraku telah berpesan kepadaku untuk mengambilnya. Lalu 'Abd bin Zam'ah berkata: "Saudaraku dan anak laki-laki dari hamba sahaya ayahku dilahirkan pada tempat tidurnya". Lantas Rasulullah shallallahu 'alaihi wasallam berkata: "Dia itu milikmu wahai 'Abd bin Zam'ah. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Anak itu milik pemilik kasur (suami) sedangkan lelaki pezina baginya adalah batu (dirajam). Kemudian Beliau berkata kepada Saudah binti Zam'ah isteri Nabi shallallahu 'alaihi wasallam: "Berhijablah engkau daripadanya wahai Saudah, yang demikian karena ada kemiripannya dengan 'Utbah". Maka anak laki-laki dari hamba sahaya Zam'ah itu tidak pernah melihat Saudah selama-lamanya hingga Saudah berjumpa dengan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2053</td></tr><tr><td>Arabic No</td><td>2053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время) ‘Утба бин Абу Ваккас дал своему брату Са‘ду бин Абу Ваккасу, да будет доволен им Аллах, поручение, сказав: “Сын рабыни(, хозяином которой является) Зам‘а, (рождён) от меня, возьми же его (под свою опеку)”. И в год завоевания Мекки Са‘д бин Абу Ваккас, да будет доволен им Аллах, взял его и сказал: “(Это — ) сын моего брата, поручившего мне (взять его)”. Тогда ‘Абд бин Зам‘а встал и сказал: “(Это — ) мой брат и сын рабыни моего отца, рождённый на его постели”, после чего оба они отправились к Пророку ﷺ. Са‘д сказал: “О Посланник Аллаха, (это — ) сын моего брата, который поручил мне забрать его”, а ‘Абд бин Зам‘а сказал: “(Это — ) мой брат и сын рабыни моего отца, рождённый на его постели”. (Выслушав их,) Посланник Аллаха ﷺ сказал: “Он твой, о ‘Абд бин Зам‘а”, после чего Пророк ﷺ сказал: “Ребёнок принадлежит постели, а прелюбодею — позор и лишения [прав на ребёнка]!” И потом Пророк ﷺ сказал своей жене, Сауде бинт Зам‘а: “Закрывайся от него”, так как он увидел, что (юноша действительно) похож на ‘Утбу, и тот до самой своей смерти больше не увидел её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2053</td></tr><tr><td>Arabic No</td><td>2053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 7</td></tr></tbody></table></div>
 

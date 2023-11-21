@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib:That they were in the company of Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Fadlal bin Ya'qub] telah menceritakan kepada kami [Al Hasan bin Muhammad bin A'yun Abu 'Ali Al Harrani] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] ia berkata; telah memberitakan kepada kami [Al Bara' bin 'Azib radliallahu 'anhuma] bahwa mereka pernah bersama Rasulullah shallallahu 'alaihi wasallam pada peristiwa Hudaibiyyah berjumlah seribu empat ratus orang atau lebih. Kami lalu singgah dan mengambil airnya (hingga tak bersisa setetespun) ". Setelah orang-orang menemui Rasulullah shallallahu 'alaihi wasallam, beliau segera mendatangi sumur itu dan duduk di tepinya, beliau bersabda; "Bawakan aku bejana berisi air." Setelah bejana diberikan kepada beliau, beliau meludahinya kemudian berdo'a. Selanjutnya beliau bersabda: "Biarkanlah sejenak". Setelah itu mereka dapat memuaskan diri mereka (meminumnya) begitu pula hewan-hewan tungangan mereka hingga mereka berangkat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4151</td></tr><tr><td>Arabic No</td><td>4151</td></tr><tr><td>Reference</td><td>Book 64 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) аль-Бара ибн ’Азиб, да будет доволен Аллах им и его отцом, сказал, что в день Худайбиййи их было с Посланником Аллаха ﷺ тысяча четыреста человек или больше. Они остановились около колодца и черпали из него воду пока не осушили его. Когда они рассказали об этом Посланнику Аллаха ﷺ, он пришёл к этому колодцу, сел на его край, и сказал: «Принесите мне ведро с водой (из этого колодца)». Когда ему принесли ведро, он плюнул в него и обратился с мольбой к Аллаху, а затем сказал: «Оставьте его на некоторое время». После того как прошло немного времени, они пили из этого колодца сами и поили своих верховых животных, пока не отправились в путь
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4151</td></tr><tr><td>Arabic No</td><td>4151</td></tr><tr><td>Reference</td><td>Book 64 Hadith 195</td></tr></tbody></table></div>
 

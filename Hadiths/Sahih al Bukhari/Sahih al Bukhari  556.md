@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If anyone of you can get one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seeorang dari kalian mendapatkan sujud shalat 'Ashar sebelum terbenam matahari maka sempurnakanlah, dan jika mendapatkan sujud shalat Subuh sebelum terbit matahari maka sempurnakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>556</td></tr><tr><td>Arabic No</td><td>556</td></tr><tr><td>Reference</td><td>Book 9 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас успеет совершить (хотя бы) один рак‘ат послеполуденной молитвы до захода солнца, пусть доведёт свою молитву до конца, и если успеет он совершить (хотя бы) один рак‘ат утренней молитвы до восхода солнца, пусть доведёт свою молитву до конца”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>556</td></tr><tr><td>Arabic No</td><td>556</td></tr><tr><td>Reference</td><td>Book 9 Hadith 33</td></tr></tbody></table></div>
 

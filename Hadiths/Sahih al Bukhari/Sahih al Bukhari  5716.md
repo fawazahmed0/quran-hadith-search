@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:A man came to the prophet and said, 'My brother has got loose
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Al Mutawakkil] dari [Abu Sa'id] dia berkata; seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam sambil berkata; "Sesungguhnya saudaraku menderita diare." Beliau bersabda: "Minumilah madu." Lalu laki-laki itu meminuminya madu, kemudian dia berkata lagi; "Sesungguhnya aku telah meminuminya madu, ternyata sakitnya tambah parah." Maka beliau bersabda: "Maha benar Allah, dan perut saudaramulah yang berdusta." Hadits ini juga diperkuat oleh riwayat [Nadlr] dari [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5716</td></tr><tr><td>Arabic No</td><td>5716</td></tr><tr><td>Reference</td><td>Book 76 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид сказал: «(Как-то раз) к Пророку ﷺ пришёл один человек и сказал: “У моего брата диарея”. (Пророк ﷺ) сказал: “Пои его мёдом”. Этот человек напоил его мёдом, после чего (снова пришёл) и сказал: “Я напоил его мёдом, но его диарея лишь усилилась”. (Тогда Пророк ﷺ) сказал: “Истину говорит Аллах, и лжёт живот брата твоего!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5716</td></tr><tr><td>Arabic No</td><td>5716</td></tr><tr><td>Reference</td><td>Book 76 Hadith 33</td></tr></tbody></table></div>
 

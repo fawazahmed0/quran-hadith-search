@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ja'far b. 'Amr b. Umayya al-Damari reported on the authority of his father who s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Isa] telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Amru bin al-Harits] dari [Ibnu Syihab] dari [Ja'far bin Amru bin Umayyah adh-Dhamri] dari [bapaknya] dia berkata, "Saya melihat Rasulullah shallallahu 'alaihi wasallam memotong sebagian pundak kambing, lalu beliau makan sebagiannya, lalu shalat diserukan, maka beliau berdiri dan membuang pisau, dan shalat tanpa berwudhu. [Ibnu Syihab] berkata, dan telah menceritakan kepadaku [Ali bin Abdullah bin Abbas] dari [bapaknya] dari Rasulullah shallallahu 'alaihi wasallam dengan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>355.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джа‘фара ибн ‘Амра ибн Умаййи ад-Дамри о том, что его отец сказал: «(Однажды) я видел, как Посланник Аллаха ﷺ отрезал себе кусок мяса от бараньей лопатки и ел его. И когда прозвучал призыв к молитве, он встал, бросил нож и совершил молитву, не совершив омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>355.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 115</td></tr></tbody></table></div>
 

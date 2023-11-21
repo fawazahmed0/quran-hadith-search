@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:We came with the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Khalaf bin Hisyam] dan [Abu Rabi'] dan [Qutaibah] semuanya dari [Hammad] - [Khalaf] berkata- Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] ia berkata, saya mendengar [Mujahid] menceritakan dari [Jabir bin Abdullah] radliallahu 'anhuma, ia berkata; Kami datang bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam. Dan saat itu, kami melakukan ihram untuk haji, kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk menjadikannya umrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2949</td></tr><tr><td>Arabic No</td><td>1216.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2949</td></tr><tr><td>Arabic No</td><td>1216.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 158</td></tr></tbody></table></div>
 

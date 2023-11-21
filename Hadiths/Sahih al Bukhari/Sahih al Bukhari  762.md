@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada:My father said, "The Prophet (ﷺ) used to rec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] dari [Hisyam] dari [Yahya bin Abu Katsir] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pada dua rakaat pertama dalam shalat Zhuhur dan 'Ashar membaca Al Fatihah dan surah masing-masing, dan terkadang Beliau memperdengarkannya kepada kami ayat yang dibacanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 10 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Къатада передал, что его отец (Абу Къатада), да будет доволен им Аллах, сказал: «При совершении (первых) двух рак‘атов полуденного /зухр/ и послеполуденного /‘аср/ намазов, Пророк ﷺ обычно читал (суру) “Открывающая Писание” и ещё по одной суре (во время каждого рак‘ата), иногда (читая) аяты так, что его слова были слышны нам (стоящим поблизости от него)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 10 Hadith 156</td></tr></tbody></table></div>
 

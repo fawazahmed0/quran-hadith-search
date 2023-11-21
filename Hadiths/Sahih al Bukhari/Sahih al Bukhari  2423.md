@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) sent some horsemen to Najd and they arres
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepadaku [Sa'id bin Abu Sa'id] bahwasanya dia mendengar [Abu Hurairah radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam pernah mengirim pasukan berkuda mendatangi Nejed, lalu pasukan itu kembali dengan membawa seseorang dari suku Banu Hanifah yang namanya Tsumamah bin Utsal, lalu orang ini diikat di salah satu tiang masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 44 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(в своё время) Пророк ﷺ отправил в сторону Неджда (отряд) всадников, которые привезли с собой человека по имени Сумама ибн Усаль из (племени) бану ханифа и привязали его к одному из столбов мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 44 Hadith 13</td></tr></tbody></table></div>
 

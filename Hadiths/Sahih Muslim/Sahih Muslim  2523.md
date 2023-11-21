@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama (Allah be pleased with him) reported that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan Kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] ia berkata, [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Yahya bin Abdullah bin Muhammad Shaifi] bahwa [Ikrimah bin Abdurrahman bin Harits] telah mengabarkan kepadanya bahwa [Ummu Salamah] radliallahu 'anha telah mengabarkan kepadanya; Bahwa Nabi shallallahu 'alaihi wasallam pernah bersumpah untuk tidak memasuki kamar isteri-isterinya selama satu bulan. Setelah berlalu dua puluh sembilan hari, beliau pun pergi menemui mereka di pagi atau sore harinya. Kemudian dikatakanlah pada beliau, "Wahai Nabiyullah, Anda telah bersumpah untuk tidak memasuji kami selama satu bulan penuh." Maka beliau pun bersabda: "Sesungguhnya jumlah hari dalam satu bulan itu adalah dua puluh sembilan hari." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Rauh] -dalam jalur lain- Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Adl Dlahak] yakni Abu Ashim, semuanya dari [Ibnu Juraij] dengan isnad ini, hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>1085.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>1085.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 29</td></tr></tbody></table></div>
 

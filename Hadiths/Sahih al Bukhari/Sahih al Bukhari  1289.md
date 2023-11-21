@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Once Allah's Messenger (ﷺ) passed by
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Abu Bakar] dari [bapaknya] dari ['Amrah binti 'Abdurrahman] ia mengabarkannya bahwasanya ia mendengar ['Aisyah radliallahu 'anha] isteri Nabi Shallallahu'alaihiwasallam berkata, Rasulullah Shallallahu'alaihiwasallam pernah melewati (kubur) seorang wanita yahudi yang suaminya menangisinya, lalu Beliau bersabda: "Mereka sungguh menangisinya padahal ia sedang diadzab dikuburnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1289</td></tr><tr><td>Arabic No</td><td>1289</td></tr><tr><td>Reference</td><td>Book 23 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ проходивший мимо (могилы) одной иудейки, которую оплакивали её родные, сказал: “Поистине, они громко оплакивают её, а ведь она (и так) подвергается мучениям в своей могиле!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1289</td></tr><tr><td>Arabic No</td><td>1289</td></tr><tr><td>Reference</td><td>Book 23 Hadith 47</td></tr></tbody></table></div>
 

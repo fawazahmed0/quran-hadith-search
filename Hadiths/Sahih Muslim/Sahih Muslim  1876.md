@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ An-Nawwas b. Sam'an said he heard the Apostle (ﷺ) say:On the Day of Resurrecti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Yazid bin Abdu Rabbih] telah menceritakan kepada kami [Al Walid bin Muslim] dari [Muhammad bin Muhajir] dari [Al Walid bin Abdurrahman Al Jurasyi] dari [Jubair bin Nufair] ia berkata, saya mendengar [An Nawwas bin Sam'an Al Kilabi] berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Al Qur'an akan didatangkan pada hari kiamat bersama Ahlinya yang telah beramal dengannya, dan yang pertama kali adalah surat Al Baqarah dan Ali Imran." Kemudian Rasulullah shallallahu 'alaihi wasallam memberikan tiga permisalan terkait dengan keduanya, aku tidak akan melupakannya setelah itu. yakni: "Seperti dua tumpuk awan hitam yang diantara keduanya terdapat cahaya, atau seperti dua kelompok burung yang sedang terbang dalam formasi hendak membela pembacanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1876</td></tr><tr><td>Arabic No</td><td>805</td></tr><tr><td>Reference</td><td>Book 6 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Наввас ибн Сам’ан аль-Киляби слышал, как Пророк ﷺ говорил: «В День воскресения приведут Коран и тех, кто в мире этом поступал согласно его (установлениям), а впереди него будут идти суры “аль-Бакара” и “Али ‘Имран”».(Ан-Наввас сказал): «После этого Посланник Аллаха ﷺ привёл три примера, (связанных) с этими (сурами), и я помню их до сих пор. Он сказал: “(Две эти суры явятся), словно два облака, или две густые тени, между которыми будет свет, или словно две стаи птиц, выстроившихся рядами. Они будут заступаться за тех, кто их читал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1876</td></tr><tr><td>Arabic No</td><td>805</td></tr><tr><td>Reference</td><td>Book 6 Hadith 304</td></tr></tbody></table></div>
 

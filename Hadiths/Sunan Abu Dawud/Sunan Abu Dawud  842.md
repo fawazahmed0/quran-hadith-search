@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qilabah said:Abu sulaiman malik b. al-Huwairith came to our mosque and said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il yaitu Ibnu Ibrahim] dari [Ayyub] dari [Abu Qilabah] dia berkata; [Abu Sulaiman Malik bin Al Huraits] datang menemui kami di masjid, dia berkata; "Demi Allah, sungguh aku akan mengerjakan shalat bersama kalian, sebenarnya aku tidak bermaksud untuk shalat (bersama kalian), namun aku hendak memperlihatkan kepada kalian bagaimana Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat." Abu Ayyub berkata; "Kataku kepada Abu Qilabah; 'Bagaimana dia (Malik) mengerjakan shalat?" jawabnya; "Seperti cara shalatnya syaikh kita yaitu 'Amru bin Salamah, imam mereka. Abu Qilabah menyebutkan; apabila Malik bin Huwairits bangkit dari sujud terakhir pada raka'at pertama, dia duduk sesaat kemudian berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (677)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>842</td></tr><tr><td>Arabic No</td><td>842</td></tr><tr><td>Reference</td><td>Book 2 Hadith 452</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Кыляба: «К нам в нашу мечеть пришёл Малик ибн аль-Хувайрис, да будет доволен им Аллах, и сказал: “Клянусь Аллахом, иногда я совершаю с вами молитву не потому, что хочу совершать её, а для того, чтобы показать вам, как на моих глазах совершал молитву Посланник Аллаха ﷺ”». Айюб сказал: «Я сказал Абу Кылябе: “Как он совершал молитву?” Он ответил: “Так, как молился этот наш шейх”. Он имел в виду ‘Амра ибн Саляму, да будет доволен им Аллах, их имама. Он упомянул, что он сидел некоторое время после того, как поднимал голову после последнего земного поклона в первом рак‘ате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (677)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>842</td></tr><tr><td>Arabic No</td><td>842</td></tr><tr><td>Reference</td><td>Book 2 Hadith 452</td></tr></tbody></table></div>
 

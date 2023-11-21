@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Barzah reported:The Messenger of Allah (ﷺ) would offer the Zuhr prayer whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafzh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Abu Al Minhal] dari [Abu Barzah] dia berkata; Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat Zhuhur apabila matahari tergelincir, dan shalat Ashar sementara salah seorang dari kami pergi ke tempat di Madinah paling jauh dan kembali sedangkan matahari masih bercahaya jernih, dan saya lupa waktu beliau shalat Maghrib. Beliau tidak mempedulikan untuk mengakhirkan shalat Isya hingga sepertiga malam. Dia berkata; kemudian Abu Minhal berkata; hingga pertengahan malam. perawi berkata; Dan beliau tidak suka tidur sebelumnya dan berbincang-bincang setelahnya, dan beliau shalat Shubuh sementara salah seorang dari kami tidak tahu siapa yang duduk bersamanya yang pada awalnya dia mengetahuinya, dan beliau membaca enam puluh hingga seratus ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (541) Sahih Muslim (647)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>398</td></tr><tr><td>Reference</td><td>Book 2 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Барза сказал: «Посланник Аллаха ﷺ совершал полуденную молитву, как только солнце начинало клониться в сторону заката. Послеполуденную (по прошествии такого времени, которое требовалось) кому-нибудь из нас, чтобы успеть дойти до окраины Медины и вернуться обратно, когда солнце ещё было ярким».(Абу-ль-Минхаль сказал): «И я забыл, (что Абу Барза сказал относительно) закатной молитвы».(Абу Барза сказал): «И мы могли откладывать вечернюю молитву до истечения трети ночи», а потом добавил: «И (даже) до середины ночи».(Абу Барза также) сказал: «Он неодобрял сон до этой молитвы и беседу после нее. А когда он совершал утреннюю молитву, молящийся не мог узнать сидящего рядом, которого знал (по причине темноты), и во время этой молитвы он обычно читал от шестидесяти до ста аятов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (541) Sahih Muslim (647)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>398</td></tr><tr><td>Reference</td><td>Book 2 Hadith 8</td></tr></tbody></table></div>
 

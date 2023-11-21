@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated by Muhammad b. 'Amr b. Ata' with these words:I was with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>801</td></tr><tr><td>Arabic No</td><td>359.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса Мухаммад ибн ‘Амр ибн ‘Ата сказал: «Я был вместе с Ибн ‘Аббасом…» Далее подобно предыдущему хадису, но в этой версии он сказал, что Ибн ‘Аббас был свидетелем того, как Посланник Аллаха делал это. И он сказал: «Совершил молитву…», и не сказал: «…с людьми»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>801</td></tr><tr><td>Arabic No</td><td>359.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 122</td></tr></tbody></table></div>
 

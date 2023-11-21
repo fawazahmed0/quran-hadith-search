@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) used to perform the 'Asr prayer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ayyub bin Sulaiman] telah menceritakan kepada kami [Abu Bakar bin Abu Uwais] dari [Sulaiman bin Bilal] dari [Shalih bin Kisan], [Ibn Syihab] berkata, [Anas bin Malik] mengabarkan kepadaku, bahwasanya Rasulullah shallallahu 'alaihi wasallam shalat 'ashar, (selesai shalat) beliau mendatangi 'Awali sementara matahari masih meninggi." Dan [Al Laits] menambahkan dari [Yunus] 'dan jarak 'Awali empat atau tiga mil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7329</td></tr><tr><td>Arabic No</td><td>7329</td></tr><tr><td>Reference</td><td>Book 96 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ совершал послеполуденную молитву, и после этого успевал дойти до аль-‘Авали, а солнце всё ещё было высоко. Аль-Лейс (ибн Саад) передаёт от Йунуса, что место аль-‘Авали находилось (от Медины) на расстоянии четырёх или трёх милях
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7329</td></tr><tr><td>Arabic No</td><td>7329</td></tr><tr><td>Reference</td><td>Book 96 Hadith 58</td></tr></tbody></table></div>
 

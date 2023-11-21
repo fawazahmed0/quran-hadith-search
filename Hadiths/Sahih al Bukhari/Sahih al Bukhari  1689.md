@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira':Allah's Messenger (ﷺ) (p.b.u.h) saw a man driving his Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaihiwasallam melihat seseorang sedang menggiring untanya, maka Beliau berkata: "Kendarailah unta itu". Orang itu menjawab: "Unta ini untuk qurban". Maka Beliau Shallallahu'alaihiwasallam mengulangi perintahnya: "Kendarailah unta itu". Orang itu kembali menjawab: "Unta ini untuk qurban". Lalu Beliau berkata: "Kendarailah unta itu, celakalah kau!" Kalimat ini Beliau ucapkan pada ucapan Beliau yang ketiga atau kedua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 25 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ увидел человека, который вёл жертвенного верблюда, и сказал ему: «Поезжай на нём». Тот человек сказал: «Но ведь это жертвенный верблюд». Посланник Аллаха ﷺ сказал: «Поезжай на нём». Тот человек сказал: «Но ведь это жертвенный верблюд». Тогда Посланник Аллаха ﷺ сказал во второй или в третий раз: «Садись на него, горе тебе!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 25 Hadith 168</td></tr></tbody></table></div>
 

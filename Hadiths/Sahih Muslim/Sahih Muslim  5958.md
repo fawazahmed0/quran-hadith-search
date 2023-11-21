@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported Allah's Messenger (ﷺ) as saying. My example and you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Ibnu Mahdi] Telah menceritakan kepada kami [Salim] dari [Sa'id bin Mina] dari [Jabir radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaanku dengan kamu sekalian ialah bagaikan seorang yang menyalakan api. Maka serangga-serangga beterbangan menjatuhkan diri ke dalam api itu. Orang tersebut berusaha menarik mereka dengan api dan mereka berusaha mengalahkannya. Dan aku, telah mencegah kamu semua agar tidak jatuh ke api, tetapi kamu meloloskan diri dari tanganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5958</td></tr><tr><td>Arabic No</td><td>2285</td></tr><tr><td>Reference</td><td>Book 43 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5958</td></tr><tr><td>Arabic No</td><td>2285</td></tr><tr><td>Reference</td><td>Book 43 Hadith 21</td></tr></tbody></table></div>
 

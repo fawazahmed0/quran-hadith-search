@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Umar bin Al-Khattab:The Messenger of Allah (ﷺ) as saying: He who mis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu Shafwan Abdullah bin Sa'id bin Abdul Malik bin Marwan]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Sulaiman bin Daud] dan [Muhammad bin Salamah Al Muradi] keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] sedangkan maknanya dari [Yunus] dari [Ibnu Syihab] bahwa [As Sa'ib bin Yazid] dan ['Ubaidullah] telah mengabarkan keduanya, bahwa [Abdurrahman bin 'Abd] dia berkata; dari [Ibnu Wahb bin Abdul Qari] dia berkata; saya mendengar [Umar bin Khattab] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa tertidur dari bacaan wiridnya atau sesuatu yang di biasakannya di waktu malam, kemudian dia membaca antara shalat fajar (subuh) dan shalat Dluhur, maka akan di catat (pahala) baginya seakan-akan dia membaca di malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (747)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1313</td></tr><tr><td>Arabic No</td><td>1313</td></tr><tr><td>Reference</td><td>Book 5 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тому, кто проспал своё обычное чтение или часть его, а потом прочитал его в период между утренней и полуденной молитвой, запишется, как будто он прочитал его ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (747)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1313</td></tr><tr><td>Arabic No</td><td>1313</td></tr><tr><td>Reference</td><td>Book 5 Hadith 64</td></tr></tbody></table></div>
 

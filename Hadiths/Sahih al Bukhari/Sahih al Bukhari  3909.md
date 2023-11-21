@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:That she conceived 'Abdullah bin Az-Zubair. She added, "I migrated
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3909</td></tr><tr><td>Arabic No</td><td>3909</td></tr><tr><td>Reference</td><td>Book 63 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Со слов Асмы, да будет доволен ею Аллах, передают (рассказ о том, как в своё время) она была беременнa ‘Абдуллахом ибн аз-Зубайром, да будет доволен Аллах ими обоими. (Асма, да будет доволен ею Аллах,) сказала: «Когда я уезжала (в Медину), срок беременности уже почти закончился. Приехав в Медину, я остановилась в Куба и родила его там, а потом принесла (новорождённого) Пророку ﷺ и положила его ему на колени. После этого он велел принести себе финик, разжевал его и положил образовавшуюся кашицу из своего рта в рот (ребёнка). Таким образом, первым, что попало в его желудок, была слюна Посланника Аллаха ﷺ. А после этого (Пророк ﷺ) помазал этой кашицей его нёбо, обратился к Аллаху с мольбой за него и призвал на него благословение, и был он первым из родившихся в исламе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3909</td></tr><tr><td>Arabic No</td><td>3909</td></tr><tr><td>Reference</td><td>Book 63 Hadith 134</td></tr></tbody></table></div>
 

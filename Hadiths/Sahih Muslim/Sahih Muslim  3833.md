@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah] dia berkata, Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa yang membeli kambing yang diikat puting susunya, maka ia berhak menetapkan di antara dua pilihan, jika ia berkenan maka ia boleh menahannya, dan jika ia berkenan maka boleh mengembalikannya dengan menyertakan satu sha' kurma bukan gandum." Dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Abdul Wahhab] dari [Ayyub] dengan isnad seperti ini, namun ia menyebutkan; "Barangsiapa yang membeli kambing maka ia berhak untuk melakukan khiyar (memilih)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3833</td></tr><tr><td>Arabic No</td><td>1524.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3833</td></tr><tr><td>Arabic No</td><td>1524.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 33</td></tr></tbody></table></div>
 

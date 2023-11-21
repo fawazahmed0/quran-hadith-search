@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman:While we were at Adharbijan, 'Umar wrote to us: 'Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami ['Ashim] dari [Abu Utsman] dia berkata; [Umar] pernah mengirim surat kepada kami ketika kami berada di Adribijan bahwa Nabi shallallahu 'alaihi wasallam melarang mengenakan kain sutera kecuali hanya sebatas ini, dan Nabi shallallahu 'alaihi wasallam mengisyarakan dengan kedua jarinya, lalu Zuhair mengangkat jari telunjuk dan jari tengahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5829</td></tr><tr><td>Arabic No</td><td>5829</td></tr><tr><td>Reference</td><td>Book 77 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ’Усман сказал: «Когда мы были в Азербайджане ’Умар написал нам, что Пророк ﷺ запретил носить шёлковую (одежду) больше этого, и(, сказав это,) он сделал знак указательным и средним пальцами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5829</td></tr><tr><td>Arabic No</td><td>5829</td></tr><tr><td>Reference</td><td>Book 77 Hadith 46</td></tr></tbody></table></div>
 

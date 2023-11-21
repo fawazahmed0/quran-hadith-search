@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I was present with my two maternal uncles at Al-'Aq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata; ['Amru] pernah berkata, aku mendengar [Jabir bin 'Abdullah] radliallahu 'anhu berkata; "Kedua pamanku (dari pihak ibu) bersaksi kepadaku, bahwa dia termasuk orang yang ikut bai'at al 'Aqabah". Abu 'Abdullah berkata, Ibnu 'Uyainah berkata; "Salah satu dari mereka berdua adalah al Bara' bin Ma'rur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3890</td></tr><tr><td>Arabic No</td><td>3890</td></tr><tr><td>Reference</td><td>Book 63 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Я присутствовал со своими двумя дядями по материнской линии в аль-‘Акабе (где была дана присяга на верность исламу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3890</td></tr><tr><td>Arabic No</td><td>3890</td></tr><tr><td>Reference</td><td>Book 63 Hadith 115</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) recited the Verse:-- "It is He who has s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] Telah menceritakan kepada kami [Yazid bin Ibrahim At Tustari] dari [Ibnu Abu Mulaikah] dari [Al Qasim bin Muhammad] dari [Aisyah radliallahu 'anha] dia berkata; Rasulullah shallallahu 'alaihi wasallam membaca ayat ini; "Dia-lah yang menurunkan Al Kitab (Al Quran) kepada kamu. di antara (isi) nya ada ayat-ayat yang muhkamaat, Itulah pokok-pokok isi Al Qur'an dan yang lain (ayat-ayat) mutasyaabihaat. adapun orang-orang yang dalam hatinya condong kepada kesesatan, maka mereka mengikuti sebahagian ayat-ayat yang mutasyaabihaat darinya untuk menimbulkan fitnah untuk mencari-cari ta'wilnya, padahal tidak ada yang mengetahui ta'wilnya melainkan Allah. Dan orang-orang yang mendalam ilmunya berkata; Kami beriman kepada Al Qur'an seluruhnya dari Rabb kami. Dan tidak ada yang dapat mengambil pelajaran kecuali orang-orang yang memiliki akal pikiran. (Ali Imran: 7). Aisyah berkata; kemudian Rasulullah shallaallahu 'alaihi wa sallam bersabda: "Apabila kalian melihat orang-orang yang mengikuti sebahagian ayat-ayat yang mutasyaabihaat, maka mereka itulah adalah orang-orang yang disebutkan oleh Allah, Maka Waspadalah kalian terhadap mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4547</td></tr><tr><td>Arabic No</td><td>4547</td></tr><tr><td>Reference</td><td>Book 65 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:\n— (Однажды) Посланник Аллаха ﷺ прочитал аят(, в котором говорится): «Он — Тот, кто ниспослал тебе Книгу. Есть в ней ясные аяты, составляющие собой основу (этой) Книги, другие же (вполне) ясными не являются. Что касается тех (людей), в сердцах которых есть отклонение (от истины), то они следуют тому, что (вполне) ясным не является, стремясь ввергнуть (других) в соблазн и желая дать этому (своё) толкование, тогда как (истинное) толкование этого известно лишь Аллаху. Что же касается утвердившихся в знании, то они говорят: “Мы уверовали в это(, ибо) всё это — от нашего Господа”, а внимают увещаниям только обладающие разумом», а потом Посланник Аллаха ﷺ сказал: «Если увидишь тех, которые следуют из (Корана) тому, что (вполне) ясным не является, (знай, что) это и есть те, которых назвал Аллах, так остерегайтесь же их!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4547</td></tr><tr><td>Arabic No</td><td>4547</td></tr><tr><td>Reference</td><td>Book 65 Hadith 70</td></tr></tbody></table></div>
 

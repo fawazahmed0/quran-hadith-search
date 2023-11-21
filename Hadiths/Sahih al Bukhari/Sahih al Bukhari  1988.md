@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Al-Fadl bint Al-Harith:"While the people were with me on the day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Malik] berkata, telah menceritakan kepada saya [Salim] berkata, telah menceritakan kepada saya ['Umair, maula Ummu Al Fadhal] bahwa [Ummu Al Fadhal] menceritakan kepadanya. Dan telah diriwayatkan pula, telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu An-Nadhir, maula 'Umar bin 'Ubaidullah] dari ['Umair maula 'Abdullah bin 'Abbas radliallahu 'anhu] dari [Ummu Al Fadhal binti Al Harits] bahwa orang-orang ragu pada hari 'Arafah tentang puasa Nabi shallallahu 'alaihi wasallam. Sebagian dari mereka ada yang mengatakan Beliau berpuasa sebagian yang lain mengatakan tidak, Lalu dia mengutus seseorang membawakan segelas susu ketika Beliau sedang wuquf diatas hewan unggangan Beliau, maka Beliau meminumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1988</td></tr><tr><td>Arabic No</td><td>1988</td></tr><tr><td>Reference</td><td>Book 30 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Умм аль-Фадль бинт аль-Харис, да будет доволен ею Аллах, что однажды люди поспорили в её присутствии в день ‘Арафата о посте Пророка ﷺ. Некоторые из них сказали: «Он постится». Другие же сказали: «Нет, он не постится». Тогда она послала ему кувшин молока, а он в это время находился на ‘Арафате, сидя на своём верблюде, и он попил его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1988</td></tr><tr><td>Arabic No</td><td>1988</td></tr><tr><td>Reference</td><td>Book 30 Hadith 95</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:We conquered Mecca and then we went on an expedition to H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2442</td></tr><tr><td>Arabic No</td><td>1059.07</td></tr><tr><td>Reference</td><td>Book 12 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «Покорив Мекку, мы отправились в военный поход на Хунайн. Многобожники выстроились в лучшие ряды, которые я когда-либо видел. (В первых рядах) выстроились всадники, (позади них) выстроились (пешие) войны, позади них выстроились женщины, затем они выстроили мелкий рогатый скот, затем верблюдов. Нас было так много, (что наше количество) достигло шести тысяч человек. Кавалерией с флангов (командовал) Халид ибн Валид. Наши всадники стали обходить нас с тыла, но вскоре они остались без защиты, и бедуины и люди, которыхмы знали обратились в бегство. (Увидев это) Посланник Аллаха ﷺ воззвал: “О мухаджиры! О мухаджиры!”, затем он сказал: “О ансары! О ансары!” Мы сказали: “Мы здесь, о Посланник Аллаха!” Тогда Посланник Аллаха ﷺ направился (в сторону врагов). Клянусь Аллахом, не успели мы дойти до них, как Аллах (уже) победил их. И мы завладели их имуществом, а затем отправились в Таиф и мы осаждали их сорок дней, а затем вернулись в Мекку, остановились (в одном месте), и Посланник Аллаха ﷺ стал раздавать некоторым людям по сто верблюдов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2442</td></tr><tr><td>Arabic No</td><td>1059.07</td></tr><tr><td>Reference</td><td>Book 12 Hadith 179</td></tr></tbody></table></div>
 

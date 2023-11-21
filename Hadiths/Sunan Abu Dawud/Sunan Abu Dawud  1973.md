@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Messenger of Allah (ﷺ) performed the obligatory circumamb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ali bin Bahr] dan [Abdullah bin Sa'id] secara makna, mereka berkata; telah menceritakan kepada Kami [Abu Khalid Al Ahmar] dari [Muhammad bin Ishaq] dari [Abdurrahman bin Al Qasim] dari [ayahnya] dari [Aisyah] ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam melakukan thawaf ifadhah pada hari terakhirnya ketika telah melakukan Shalat Zhuhur, kemudian beliau kembali ke Mina dan tinggal di sana beberapa malam, pada Hari-hari Tasyriq. Beliau melempar jumrah apabila matahari telah tergelincir. Setiap jumrah dengan tujuh kerikil, beliau bertakbir bersama setiap lemparan kerikil, beliau berdiri pada jumrah pertama dan kedua kemudian berdiri lama dan merendah diri, serta melempar ketiga dan tidak berdiri pada jumrah ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1973</td></tr><tr><td>Arabic No</td><td>1973</td></tr><tr><td>Reference</td><td>Book 11 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Посланник Аллаха ﷺ уехал в последний день после того, как совершил полуденную молитву /зухр/, и вернулся в Мину. Там он провёл ночи дней ташрика. Он бросал камешки, когда солнце отклонялось от точки зенита. В каждый столб он бросал семь камешков, произнося такбир с каждым броском. Он останавливался у первого и второго столбов, причём стоял он долго и в это время обращался к Аллаху с мольбами, а в третий столб он бросал камешки, но не останавливался около него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1973</td></tr><tr><td>Arabic No</td><td>1973</td></tr><tr><td>Reference</td><td>Book 11 Hadith 253</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:The Prophet (ﷺ) said, "I looked at Paradise and fou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Salm bin Zarir] telah bercerita kepada kami [Abu Raja'] dari ['Imran bin Husain] dari Nabi shallallahu 'alaihi wasallam: "Aku mendatangi, surga maka kulihat kebanyakan penduduknya adalah para faqir dan aku mendatangi neraka maka aku lihat kebanyakan penduduknya para wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3241</td></tr><tr><td>Arabic No</td><td>3241</td></tr><tr><td>Reference</td><td>Book 59 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Имрана ибн аль-Хусайна, да будет доволен им Аллах, что Пророк ﷺ сказал: «Я заглянул в Рай и увидел, что большинство из оказавшихся там — бедняки, и я заглянул в Ад и увидел, что большинство из оказавшихся там — женщины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3241</td></tr><tr><td>Arabic No</td><td>3241</td></tr><tr><td>Reference</td><td>Book 59 Hadith 52</td></tr></tbody></table></div>
 

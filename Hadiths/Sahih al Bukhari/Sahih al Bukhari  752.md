@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once the Prophet (ﷺ) prayed on a Khamisa with marks on it and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah], bahwa Nabi shallallahu 'alaihi wasallam shalat dengan mengenakan baju yang ada gambarnya, beliau lalu bersabda: "Gambar-gambar pada pakaian ini menggangguku. Kembalikanlah kepada Abu Jahm, agar dia mengganti dengan pakaian yang terbuat dari bulu kasar yang tidak bergambar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>752</td></tr><tr><td>Arabic No</td><td>752</td></tr><tr><td>Reference</td><td>Book 10 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды, Пророк ﷺ совершил молитву в одежде (украшенной) узорами, после чего сказал: «Эти узоры отвлекли меня (от моей молитвы). Отнесите её Абу Джахму и принесите мне его одежду /анбиджанийа/!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>752</td></tr><tr><td>Arabic No</td><td>752</td></tr><tr><td>Reference</td><td>Book 10 Hadith 146</td></tr></tbody></table></div>
 

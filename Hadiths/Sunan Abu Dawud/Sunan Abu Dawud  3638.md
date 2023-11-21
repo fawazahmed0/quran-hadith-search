@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Tha'labah ibn AbuMalik: Tha'labah heard his elders say that a man from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala] telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Katsir] dari [Abu Malik bin Tsa'labah] dari [Tsa'labah bin Malik] bahwa ia mendengar [para pembesar] mereka menyebutkan bahwa seorang laki-laki Quraisy memiliki saham pada Bani Quraizhah, kemudian ia memperkarakan kepada Rasulullah shallallahu 'alaihi wasallam mengenai aliran yang mereka berbagi dengan airnya. Kemudian Rasulullah shallallahu 'alaihi wasallam memberi putusan untuk mereka, bahwa batas genangan air adalah sebatas mata kaki, orang yang lahannya di atas tidak boleh menahan dari yang di bawah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3638</td></tr><tr><td>Arabic No</td><td>3638</td></tr><tr><td>Reference</td><td>Book 25 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Салябы ибн Абу Малика, что он слышал, как их старейшины упоминали о том, что один человек из Курайша имел долю в источнике воды в бану курайза и пришёл к Посланнику Аллаха ﷺ чтобы отстоять своё право пользоваться потоком, из которого они брали воду, и Посланник Аллаха ﷺ постановил, что, когда уровень воды дойдёт до щиколоток, живущий выше уже не имеет права удерживать её от живущего ниже
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3638</td></tr><tr><td>Arabic No</td><td>3638</td></tr><tr><td>Reference</td><td>Book 25 Hadith 68</td></tr></tbody></table></div>
 

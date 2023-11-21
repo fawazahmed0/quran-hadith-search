@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) met 'Umar bin Al-Khattab while the la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] radliyallahu'anhuma, bahwa Rasulullah Shallallahu'alaihiwasallam menjumpai Umar bin Khattab yang sedang berjalan diatas hewan tunggangannya, dan ia bersumpah dengan nama ayahnya. Maka Rasulullah menegur; "jangan, tahukah kamu bahwa Allah melarang kalian bersumpah dengan nama ayah-ayah kalian? Barangsiapa yang bersumpah, hendaklah bersumpah dengan nama Allah, atau lebih baik diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6646</td></tr><tr><td>Arabic No</td><td>6646</td></tr><tr><td>Reference</td><td>Book 83 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет Аллах доволен им и его отцом, что Посланник Аллаха ﷺ нагнал ‘Умара ибн аль-Хаттаба в тот момент, когда он ехал с группой всадников. (В это время он) клялся своим отцом. Тогда (Посланник Аллаха ﷺ) сказал: «Послушайте! Поистине, Аллах запретил вам клясться вашими отцами, и кто желает поклясться, пусть клянётся Аллахом или молчит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6646</td></tr><tr><td>Arabic No</td><td>6646</td></tr><tr><td>Reference</td><td>Book 83 Hadith 25</td></tr></tbody></table></div>
 

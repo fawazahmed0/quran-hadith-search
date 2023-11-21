@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:That the Meccan people requested Allah's Messenger (ﷺ) to show t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Abdullah bin Muhammad] telah bercerita kepada kami [Yunus] telah bercerita kepada kami [Syaiban] dari [Qatadah] dari [Anas bin Malik]. Danb diriwayatkan pula; Dan [Khalifah] berkata kepadaku, telah bercerita kepada kami [Yazid bin Zurai'] telah bercerita kepada kami [Sa'id] dari [Qatadah] dari [Anas bin Malik radliallahu 'anhu] dia bercerita kepada mereka bahwa penduduk Makkah meminta kepada Rasulullah shallallahu 'alaihi wasallam agar beliau menunjukkan ayat (mu'jizat, bukti kenabian). Maka beliau menunjukkan kepada mereka terbelahnya bulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3637</td></tr><tr><td>Arabic No</td><td>3637</td></tr><tr><td>Reference</td><td>Book 61 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что (однажды) жители Мекки попросили Посланника Аллаха ﷺ показать им знамение, и он показал им раскол луны
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3637</td></tr><tr><td>Arabic No</td><td>3637</td></tr><tr><td>Reference</td><td>Book 61 Hadith 141</td></tr></tbody></table></div>
 

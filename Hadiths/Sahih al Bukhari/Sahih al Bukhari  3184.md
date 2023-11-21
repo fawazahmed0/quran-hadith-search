@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:When the Prophet (ﷺ) intended to perform the 'Umra he sent a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin 'Utsman bin Hakim] telah bercerita kepada kami [Syuraih bin Malsmah] telah bercerita kepada kami [Ibrahim bin Yusuf bin Abu Ishaq] berkata telah bercerita kepadaku [bapakku] dari [Abu Ishaq] berkata telah bercerita kepadaku [Al Bara' radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam ketika hendak menunaikan 'umrah Beliau mengutus utusan kepada penduduk Makkah untuk meminta mereka mengijinkan Beliau memasuki Makkah. Maka mereka mengajukan syarat kepada Beliau yaitu, Beliau tidak boleh tinggal di Makkah kecuali hanya tiga malam, Beliau tidak boleh masuk kota Makkah kecuali dalam keadaan senjata disarungkan dan Beliau tidak diperkenankan menda'wahi seorangpun. Lalu 'Ali bin Abu Thalib menuliskan syarat yang mereka ajukan. Dia menulis; "Inilah ketetapan yang dibuat oleh Muhammad Rasulullah". Maka mereka spontan berkata; "Kalau kami ketahui bahwa kamu Rasulullah, tentu kami tidak akan menghalangi kamu dan pasti kami sudah berbai'at kepadamu. Akan tetapi tulislah; "Inilah ketetapan yang dibuat oleh Muhammad bin 'Abdullah". Maka Beliau berkata: "Demi Alah, aku ini Muhammad bin 'Abdullah dan demi Allah aku ini benar Rasulullah". Perawi (Al Bara') berkata; "Saat itu 'Ali tidak mau menulisnya". Perawi berkata; "Maka Beliau berkata kepada 'Ali: "Hapuslah kalimat Rasulullah". 'Ali berkata: "Demi Allah, sekali-kali aku tidak akan menghapusnya". Beliau berkata: "Tunjukkan kepadaku tulisan kalimat itu". Perawi berkata; "Maka 'Ali menunjukkannya lalu Nabi shallallahu 'alaihi wasallam menghapusnya dengan tangan Beliau. Ketika akhirnya Beliau masuk Makkah dan telah berlalu masa yang disyaratkan, mereka mendatangi 'Ali dan berkata; "Perintahkan temanmu itu agar segera meninggalkan (Makkah) ". Kemudian 'Ali menceritakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam maka Beliau berkata: "Ya". Lalu Beliau berangkat meninggalkan (Makkah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3184</td></tr><tr><td>Arabic No</td><td>3184</td></tr><tr><td>Reference</td><td>Book 58 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «(Когда) Пророк ﷺ (решил) совершить ‘умру, он послал человека к жителям Мекки с просьбой разрешить ему войти в Мекку. Они разрешили ему при условии, что он проведёт там (только) три дня, и войдёт в неё только с оружием в ножнах, и что он не будет призывать (к исламу) никого из них. ‘Али ибн Абу Талиб начал писать соглашение между ними. Он написал: “Это (условия), на которые согласился Мухаммад, Посланник Аллаха ﷺ”. Жители (Мекки) сказали: “Если бы мы знали, что ты Посланник Аллаха, то мы не препятствовали бы и присягнули бы тебе. Однако напиши: “Это (условия), на которые согласился Мухаммад ибн ‘Абдуллах””. На это Посланник Аллаха ﷺ сказал: “Клянусь Аллахом, я Мухаммад ибн ‘Абдуллах, и, клянусь Аллахом, я — Посланник Аллаха”. Посланник Аллаха ﷺ не умел писать, поэтому он сказал ‘Али: “Сотри слова “Посланник Аллаха””. На это ‘Али сказал: “Клянусь Аллахом, я никогда не сотру это”. Посланник Аллаха ﷺ сказал (‘Али): “Покажи мне эту бумагу”. Когда ‘Али показал ему (место, где было написано эти слова), Пророк ﷺ стёр его своей собственной рукой. Когда Посланник Аллаха ﷺ вошёл в Мекку и прошло три дня, жители Мекки пришли к ‘Али и сказали: “Скажи своему другу, чтобы он покинул (Мекку)!” ‘Али, да будет доволен им Аллах, сообщил об этом Посланнику Аллаха ﷺ, и Посланник Аллаха ﷺ сказал: “Хорошо”, а затем покинул (Мекку)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3184</td></tr><tr><td>Arabic No</td><td>3184</td></tr><tr><td>Reference</td><td>Book 58 Hadith 26</td></tr></tbody></table></div>
 

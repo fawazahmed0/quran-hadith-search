@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr:While I was on my way, all of a sudden I saw a shepherd drivin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [An-Nadhar] telah mengabarkan kepada kami [Isra'il] dari [Abu Ishaq] berkata, telah menceritakan kepadaku [Al Bara'] dari [Abu Bakar radliallahu 'anhuma]. Dan diriwayatkan pula, telah menceritakan kepada kami ['Abdullah bin Raja'] telah menceritakan kepada kami [Isra'il] dari [Abu Ishaq] dari [Al Bara'] dari [Abu Bakar] radliallahu 'anhuma berkata: "Pada suatu hari aku pergi kemudian mendapatkan seorang pengembala kambing sedang mengembalakan ternaknya lalu aku berkata: "Kamu milik siapa? '. Dia menjawab: "Milik seorang dari suku Quraisy". Lalu dia menyebutkan namanya yang ternyata aku mengenalnya. Lalu aku katakan: "Apakah kambingmu ini memiliki air susu?" Dia menjawab: "Ya ada". Aku katakan: "Apakah kamu mau memeraskan susunya untukku?" Dia menjawab: "Ya mau". Maka aku memerintahkannya untuk mengambil seekor dari kambingnya yang ada, lalu aku suruh dia agar memoleskan sedikit tanah pada putting susu kambingya lalu aku suruh dia untuk menadahkan dengan kedua telapak tangannya. Dia berkata: "Begini caranya". Dia merapatkan kedua telapak tangannya satu sama lain lalu diperaslah sedikit dari susunya. Dan aku sudah menyiapkan cawan gelas yang diujungnya ada kain lalu aku usapkan pada susu hingga bawah gelas itu terasa dingin lalu aku menghampiri Nabi shallallahu 'alaihi wasallam lalu aku katakan: "Minumlah wahai Rasulullah". Maka Beliau meminumnya sehingga aku menjadi ridha karenanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2439</td></tr><tr><td>Arabic No</td><td>2439</td></tr><tr><td>Reference</td><td>Book 45 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр, да будет доволен Аллах им и его отцом, сказал: «Я отправился и по дороге увидел пастуха, который гнал своих овец. Я спросил его: “Кому ты принадлежишь?” Он ответил: “Одному человеку из курайшитов”. Он назвал его имя, и я узнал его. Я спросил: “У твоих овец есть молоко?” Он сказал: “Да”. Я спросил: “Ты подоишь их для меня?” Он ответил: “Да”. Я приказал ему, и он связал ноги одной из овец. Затем я велел ему очистить вымя (соски) от пыли, затем я велел ему стряхнуть пыль с ладоней. Он стряхнул пыль с ладоней, ударив одну о другую, и надоил немного молока. У меня был с собой бурдюк, в котором была вода для Посланника Аллаха ﷺ, я прикрыл его горлышко куском ткани. И я налил воду из этого бурдюка в молоко, чтобы оно остыло. Придя к Пророку ﷺ, я сказал: “Пей, о Посланник Аллаха!” И он пил его до тех пор, пока я не был доволен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2439</td></tr><tr><td>Arabic No</td><td>2439</td></tr><tr><td>Reference</td><td>Book 45 Hadith 15</td></tr></tbody></table></div>
 

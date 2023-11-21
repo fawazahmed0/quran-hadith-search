@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), le Prophète (paix et bénédiction de Dieu s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] keduanya berkata: Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] berkata: Aku mendengar [Qatadah] telah menceritakan kepada kami [Anas bin Malik] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Aku diutus dan kiamat seperti dua (jari) ini." Syu'bah berkata: Aku mendengar Qatadah berkata dalam kisahnya: Seperti keutamaan salah satunya atas yang lain. Aku tidak tahu apakah ia menyebutkannya dari Anas ataukah Qatadah yang mengatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7404</td></tr><tr><td>Arabic No</td><td>2951.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7404</td></tr><tr><td>Arabic No</td><td>2951.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 165</td></tr></tbody></table></div>
 

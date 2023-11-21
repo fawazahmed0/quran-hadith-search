@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:A man said to the Messenger of Allah (May peace be upon him): O best o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Ayyub] berkata, telah menceritakan kepada kami [Abdullah bin Idris] dari [Mukhtar bin Fulful] ia menyebutkan dari [Anas] ia berkata, "Seorang laki-laki berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai sebaik-baik manusia!" Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Itu adalah Ibrahim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2369)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4672</td></tr><tr><td>Arabic No</td><td>4672</td></tr><tr><td>Reference</td><td>Book 42 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Джа‘фара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Не пристало пророку говорить: “Я лучше, чем Йунус ибн Матта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2369)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4672</td></tr><tr><td>Arabic No</td><td>4672</td></tr><tr><td>Reference</td><td>Book 42 Hadith 77</td></tr></tbody></table></div>
 

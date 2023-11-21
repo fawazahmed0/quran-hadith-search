@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "There is none amongst the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah]. Dan diriwayatkan pula telah menceritakan kepada saya ['Abdurrahman bin Al Mubarak] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang muslimpun yang bercocok tanam atau menanam satu tanaman lalu tanaman itu dimakan oleh burung atau menusia atau hewan melainkan itu menjadi shadaqah baginya". Dan berkata, kewpada kami [Muslim] telah menceritakan kepada saya [Aban] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2320</td></tr><tr><td>Arabic No</td><td>2320</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Если) какой-нибудь мусульманин посадит дерево или посеет что-нибудь, а затем птица, человек или животное съест (что-то из посеянного или посаженного им), это непременно (зачтётся) ему как садака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2320</td></tr><tr><td>Arabic No</td><td>2320</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
 

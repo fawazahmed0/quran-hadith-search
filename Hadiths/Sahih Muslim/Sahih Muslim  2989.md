@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Nâfi', 'Abdoullâh Ibn 'Omar (رضي الله عنهما), s'étant re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] bahwa [Abdullah bin Umar] radliallahu 'anhuma keluar untuk menunaikan Umrah pada saat terjadinya fitnah. Dan ia pun berkata, "Jika aku dihalangi dari Baitullah, maka kami akan berbuat sebagaimana yang kami perbuat bersama Rasulullah shallallahu 'alaihi wasallam." Lalu ia pun berangkat, dan memulai Ihram untuk Umrah dan berjalan terus. Ketika mendekati Baida', Abdullah bin Umar menoleh ke arah para sahabatnya seraya berkata, "Tidaklah keduanya (umrah dan haji) kecuali merupakan satu perkara. Saya saksikan kepada kalian, bahwa aku telah mewajibkan haji bersama umrahku." Lalu Ibnu Umar pun keluar, dan ketika ia sampai di Baitullah, ia pun melakukan thawaf dan Sa'i antara Shafa dan Marwa sebanyak tujuh kali. Dan ia tidak lagi menambahkannya. Menurutnya, haji telah cukup, dan ia pun menyembelih hewan kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2989</td></tr><tr><td>Arabic No</td><td>1230.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2989</td></tr><tr><td>Arabic No</td><td>1230.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 197</td></tr></tbody></table></div>
 

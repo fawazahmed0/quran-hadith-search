@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man from Bani Aslam came to Allah's Messenger (ﷺ) while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dan [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] berkata; Seorang laki-laki dari Bani Aslam mendatangi Rasulullah shallallahu 'alaihi wasallam yang saat itu sedang berada di Masjid. Laki-laki itu pun memanggil beliau dan berkata, "Wahai Rasulullah, sesungguhnya Al Akhira (maksudnya adalah dirinya sendiri) telah berzina." Lalu beliau berpaling darinya. Laki-laki itu kembali menghadap ke wajah beliau seraya berkata, "Wahai Rasulullah, sesungguhnya Al Akhir telah berzina." Beliau berpaling lagi, dan laki-laki itu pun kembali menghadap ke wajah belia dan berkata seperti itu lagi, namun beliau tetap berpaling. Maka pada keempat kalinya, ia kembali menghadap ke wajah beliau dan bersaksi atas diri dengan empat orang saksi, akhirnya beliau memanggilnya dan bertanya: "Apakah kamu memiliki penyakit jiwa?" laki-laki itu menjawab, "Tidak." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Bawalah laki-laki itu pergi dan rajamlah ia." Dan memang laki-laki itu telah menikah. Dan dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [seorang] yang telah mendengar [Jabir bin Abdullah Al Anshari] berkata; Aku termasuk diantara orang yang merajamnya. Kami merajamnya di lapangan luas di Madinah. Ketika laki-laki itu terkena lemparan batu, ia pun lari dan kami mengejar dan menangkapnya lalu merajamnya kembali hingga meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5272</td></tr><tr><td>Arabic No</td><td>5272</td></tr><tr><td>Reference</td><td>Book 68 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ’Абдуллах аль-Ансари сказал: «Я был одним из тех, кто побивал его камнями. Мы побивали его камнями в месте, где обычно совершалась молитва /мусолля/, в Медине, но, когда камень попал в него острым краем, он убежал, и мы настигли его в аль-харре и уже там забили (камнями) до смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5272</td></tr><tr><td>Arabic No</td><td>5272</td></tr><tr><td>Reference</td><td>Book 68 Hadith 21</td></tr></tbody></table></div>
 

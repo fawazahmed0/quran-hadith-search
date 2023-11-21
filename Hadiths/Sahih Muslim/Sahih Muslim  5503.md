@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jalbir b. Abdullah reported Allah's Messenger (ﷺ) as saying:None of you should
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Manshur]; Telah mengabarkan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepadaku ['Ubaidullah] yaitu Ibnu Abu Al Akhnas dari [Abu Az Zubair] dari [Jabir bin 'Abdillah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang di antara kalian tidur telentang dengan meletakkan kaki yang satu ke atas yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5503</td></tr><tr><td>Arabic No</td><td>2099.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5503</td></tr><tr><td>Arabic No</td><td>2099.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 118</td></tr></tbody></table></div>
 

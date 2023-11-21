@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with both of them) reported that the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam mempunyai dua orang mudzin, yaitu Bilal dan Ibnu Ummi Maktum yang buta. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Sesungguhnya Bilal itu adzan di malam hari, maka makan dan minumlah kalian sampai Ibnu Ummi Maktum mengumandangkan adzan." Dan tidaklah jarak antara keduanya, kecuali waktu Bilal turun (dari sini) dan Ibnu Ummi Maktum naik dari sini. Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah] telah menceritakan kepada kami [Al Qasim] dari [Aisyah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam yakni dengan hadits semisalnya. Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] -dalam jalur lain- Dan telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Abdah] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Hammad bin Mas'adah] semuanya dari [Ubaidullah] dengan kedua isnad itu, dan keduanya serupa dengan haditsnya Ibnu Numair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2538</td></tr><tr><td>Arabic No</td><td>1092.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2538</td></tr><tr><td>Arabic No</td><td>1092.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 44</td></tr></tbody></table></div>
 

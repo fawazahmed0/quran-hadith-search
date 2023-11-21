@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) offered the Fajr Prayer near Khaibar when it was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas bin Malik radliallahu 'anhu] berkata; bahwa Nabi shallallahu 'alaihi wasallam pernah melaksanakan shalat Shubuh dekat Khaibar ketika hari masih gelap, kemudian bersabda: "Allahu Akbar, hancurlah Khoibar. Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, (maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut)." QS Ash Shaffat; 177. Ketika penduduk Khaibar keluar dan berjalan dalam kegelapan. Maka Nabi shallallahu 'alaihi wasallam membunuh para pasukan mereka dan menawan anak-anak mereka. Dan diantara tawanan tersebut terdapat seorang wanita bernama Shafiyah, semula ia tawanan milik Dihyah Al Kalbi lalu diberikan kepada Nabi shallallahu 'alaihi wasallam, kemudian beliau menikahinya dan menjadikan pembebasannya sebagai mahar pernikahannya." Abdul 'Aziz berkata kepada Tsabit: "Wahai Abu Muhammad, apakah kamu pernah bertanya kepada Anas, "Apa yang beliau jadikan maharnya?". Maka Tsabit menganggukkan kepalanya tanda membenarkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4200</td></tr><tr><td>Arabic No</td><td>4200</td></tr><tr><td>Reference</td><td>Book 64 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ совершил с нами утреннюю молитву в предрассветном сумраке недалеко от Хайбара, после чего сказал: «Аллах велик! Хайбар разрушен. Поистине, когда мы появляемся у селений (враждующих с нами), “Плохим становится утро для тех, кого предупреждали!” (сура «ас-Саффат», аят 177)». Люди стали выходить в спешке на улицу. Пророк ﷺ убил их воинов, а женщин и детей взял в плен, среди которых была Сафия, которая досталась Дихье аль-Кяльби, затем Пророк ﷺ взял её себе (и женился на ней), а её махром (брачным подарком) было её освобождение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4200</td></tr><tr><td>Arabic No</td><td>4200</td></tr><tr><td>Reference</td><td>Book 64 Hadith 240</td></tr></tbody></table></div>
 

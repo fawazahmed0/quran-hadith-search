@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Waqid al-Laithi:While Allah's Messenger (ﷺ) was sitting in the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] bahwa [Abu Murrah] mantan budak 'Uqail bin Abu Thalib mengabarkan kepadanya dari [Abu Waqid Al Laitsi] berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam berada di masjid, maka datanglah tiga orang laki-laki. Dua orang menghadap Nabi shallallahu 'alaihi wasallam dan seorang lagi pergi. Satu di antara dua orang ini nampak berbahagia bermajelis bersama Nabi shallallahu 'alaihi wasallam sedang yang satu lagi duduk di belakang mereka. Setelah Rasulullah shallallahu 'alaihi wasallam selesai (menyampaikan pengajaran) beliau bersabda: "Maukah kalian aku beritahu tentang ketiga orang tadi? Adapun seorang di antara mereka, dia meminta perlindungan kepada Allah maka Allah lindungi dia. Yang kedua, dia malu kepada Allah maka Allah pun malu kepadanya. Sedangkan yang ketiga berpaling dari Allah maka Allah pun berpaling darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>474</td></tr><tr><td>Arabic No</td><td>474</td></tr><tr><td>Reference</td><td>Book 8 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Вакъид аль-Лейси, да будет доволен им Аллах, сказал: «(Однажды) когда Посланник Аллаха ﷺ находился в мечети (вместе с людьми, туда) пришли три человека. Двое из них подошли к Посланнику Аллаха ﷺ, а один удалился. Что касается одного из них, то он увидел свободное место (в кругу сидевших людей) и сел (там), а что касается другой сел позади них. И когда Посланник Аллаха ﷺ закончил (говорить с этими людьми), он сказал: “Не сообщить ли вам (нечто) об этих троих? Что касается одного из них, то он искал приюта у Аллаха, и Аллах предоставил ему приют, что касается другого, то он устыдился и Аллах устыдился его, что же касается третьего, то он отвернулся, и Аллах (тоже) отвернулся от него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>474</td></tr><tr><td>Arabic No</td><td>474</td></tr><tr><td>Reference</td><td>Book 8 Hadith 122</td></tr></tbody></table></div>
 

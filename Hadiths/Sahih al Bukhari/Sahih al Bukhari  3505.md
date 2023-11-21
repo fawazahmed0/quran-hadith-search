@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:'Abdullah bin Az-Zubair was the most beloved person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah bercerita kepada kami [Al Laits] berkata telah bercerita kepadaku [Abu Al Aswad] dari ['Urwah bin Az Zubair] berkata; 'Abdullah bin Az Zubair adalah orang yang paling disayangi oleh ['Aisyah radliallahu 'anhu] setelah Nabi Shallalluhu 'alahi wa salam dan Abu Bakr dan juga orang yang paling banyak berbuat kebajikan kepadanya. 'Aisyah radliallahu 'anha tidak pernah menahan sekalipun rejeki Allah yang diberikan oleh 'Abdullah, melainkan dia pasti menshadaqahkannya. Maka suatu kali Ibnu-Zubair berkata; "Sebaiknya hartanya (dijadwalkan) untuk diambil." Maka 'Aisyah radliallahu 'anha berkata; "Apakah hartaku dijadwalkan diambil? Jika aku terus terang mengucapkan, itu berarti nadzar. Maka Adullah mencoba untuk meminta pertolongan kepada beberapa orang dari kalangan Quraisy terutama paman-paman (dari pihak ibu) Nabi Shallalluhu 'alahi wa salam untuk menekan 'Aisyah. Namun 'Aisyah radliallahu 'anha tetap menahan hartanya. Kaum bani Zuhrah, yaitu paman-paman Nabi Shallalluhu 'alahi wa salam (dari pihak ibu), yang diantaranya adalah 'Abdur Rahman bin Al Aswad bin 'Abdu Yaghuts dan al-Miswar bin Makhramah mengatakan kepada Abdulah bin Zubair "Jika keduanya (Abdurrahman dan Miswar) minta izin menemui Aisyah, suruhlah untuk mengenakan hijab. Selanjutnya Abdurrahman mengirim sepuluh tawanan untuk 'Aisyah radliallahu 'anha lalu 'Aisyah radliallahu 'anha membebaskan kesemuanya. Aisyah terus saja membebaskan mereka hingga jumlahnya mencapai empat puluh orang. lalu 'Aisyah radliallahu 'anha berkata; "Aku senang sekali bila telah mengucapkan sumpah (nadzar) untuk terus menerus mengerjakannya sehingga menyelesaikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3505</td></tr><tr><td>Arabic No</td><td>3505</td></tr><tr><td>Reference</td><td>Book 61 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва ибн аз-Зубайр сказал: «’Абдуллах ибн аз-Зубайр был самым любимым человеком для ‘Аиши после Пророка ﷺ и Абу Бакра, и он был самым преданным ей. ‘Аиша обычно не удерживала деньги, данные ей Аллахом, а раздавала милостыню. (Однажды) Ибн аз-Зубайр сказал: “’Аишу следует остановить (от этого)”. (Когда ‘Аиша услышала это), она сказала: “Меня нужно остановить!? Я даю обет, что никогда не буду разговаривать с ним”. Узнав об этом Ибн аз-Зубайр попросил некоторых людей из курайшитов, а особенно двух дядей Посланника Аллаха ﷺ заступиться за него, но она всё равно отказалась (поговорить с ним). Тогда дяди Пророка ﷺ ‘Абдуррахман ибн аль-Асвад ибн ‘Абдуягус и аль-Мисвар ибн Махрама, которые были из племени бану зухра, сказали ему: “Когда мы попросим разрешения войти к ней, войди в её дом вместе с нами (не прося разрешения)”. Он так и сделал (и она приняла их заступничество). Затем он послал ей десять рабов, которых она освободила в качестве искупления за (невыполнение) своего обета. Затем она продолжала освобождать рабов, пока их количество не достигло сорока. Она сказала: “Лучше бы я уточнила, что должна сделать в случае исполнения обета”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3505</td></tr><tr><td>Arabic No</td><td>3505</td></tr><tr><td>Reference</td><td>Book 61 Hadith 15</td></tr></tbody></table></div>
 

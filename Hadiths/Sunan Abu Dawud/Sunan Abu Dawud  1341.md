@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Salamah b. 'Abd al-Rahman asked 'Aishah, the wife of the Prophet (ﷺ):How d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Abu Salamah bin Abdurrahman] bahwa dia mengabarkan kepadanya bahwa dirinya pernah bertanya kepada [Aisyah isteri Nabi] shallallahu 'alaihi wasallam; "Bagaimanakah shalatnya Rasulullah shallallahu 'alaihi wasallam di bulan Ramadhan?" Aisyah menjawab; "Shalat Rasulullah shallallahu 'alaihi wasallam tidak pernah lebih dari sebelas raka'at, baik pada bulan Ramadhan atau di selain bulan Ramadhan, yaitu beliau mengerjakan empat raka'at, jangan di tanya bagaimana bagus dan panjangnya, setelah itu beliau shalat empat raka'at, dan jangan di tanya bagaimana kwalitas bagus dan panjangnya, kemudian beliau shalat tiga raka'at." Aisyah radliallahu 'anha melanjutkan; aku bertanya; "Wahai Rasulullah, apakah anda tidur sebelum berwitir?" beliau menjawab: "Wahai Aisyah, sesungguhnya kedua mataku tertidur, namun hatiku tetap terjaga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1147) Sahih Muslim (737)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1341</td></tr><tr><td>Arabic No</td><td>1341</td></tr><tr><td>Reference</td><td>Book 5 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Салямы ибн ‘Абдуррахмана, что он спросил ‘Аишу, да будет доволен ею Аллах, жену Пророка ﷺ: «Как Посланник Аллаха ﷺ молился во время рамадана?» Она ответила: «Ни во время рамадана, ни в другие месяцы Посланник Аллаха ﷺ не совершал по ночам больше одиннадцати рак‘атов. Сначала он совершал четыре рак‘ата, и не спрашивай меня о том, сколь прекрасны и продолжительны они были, потом ещё четыре рак‘ата, и не спрашивай меня о том, сколь прекрасны и продолжительны они были, после чего совершал ещё три». Далее ‘Аиша сказала: «Однажды я спросила: “О Посланник Аллаха, ты спишь перед совершением витра?” Он ответил: “О ‘Аиша, поистине, глаза мои спят, но сердце моё не спит!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1147) Sahih Muslim (737)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1341</td></tr><tr><td>Arabic No</td><td>1341</td></tr><tr><td>Reference</td><td>Book 5 Hadith 92</td></tr></tbody></table></div>
 

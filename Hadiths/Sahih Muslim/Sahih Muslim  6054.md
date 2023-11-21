@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) had a very fair complexion and (the d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Sa'id bin Shakhr Ad Darimi]; Telah menceritakan kepada kami [Habban]; Telah menceritakan kepada kami [Hammad]; Telah menceritakan kepada kami [Tsabit] dari [Anas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam senantiasa ceria dan keringatnya bagai kilau mutiara. Apabila beliau berjalan, maka langkahnya terayun tegap. Sutera yang pernah saya sentuh tidak ada yang lebih halus dari pada telapak tangan beliau. Minyak misik dan minyak ambar yang pernah saya cium, tidak ada yang melebihi semerbak wanginya badan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6054</td></tr><tr><td>Arabic No</td><td>2330.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6054</td></tr><tr><td>Arabic No</td><td>2330.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 112</td></tr></tbody></table></div>
 

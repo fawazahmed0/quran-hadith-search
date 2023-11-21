@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Sulaiman b. Bilal from Yahy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'ats] telah menceritakan kepada kami [Hatim bin Isma'il] dari [Muhammad bin 'Ajlan] dari [Muhammad bin 'Amru bin 'Atha] dari [Sa'id bin Musayyab] dari [Ma'mar bin Abdullah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Tidaklah orang yang menimbun barang, melainkan ia berdosa karenanya." Ibrahim berkata; Muslim berkata; dan telah menceritakan kepadaku [sebagian sahabat kami] dari [Amru bin Aun] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Amru bin Yahya] dari [Muhammad bin Amru] dari [Sa'id bin Musayyab] dari [Ma'mar bin Abu Ma'mar] salah seorang Bani Adi bin Ka'ab, dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda….kemudian dia menyebutkan hadits seperti hadits Sulaiman bin Bilal, dari Yahya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4124</td></tr><tr><td>Arabic No</td><td>1605.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4124</td></tr><tr><td>Arabic No</td><td>1605.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 163</td></tr></tbody></table></div>
 

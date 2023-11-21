@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar reported that Allah's Messenger (ﷺ) said in connection with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub], [Qutaibah bin Sa'id] dan [Ali bin Hujr], semuanya dari [Isma'il], berkata [Ibnu Ayyub]: telah menceritakan kepada kami [Isma'il bin Ja'far] telah mengkhabarkan kepadaku [Abdullah bin Dinar] ia mendengar [Abdullah bin Umar] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda kepada para sahabat beliau yang tengah melintasi hijr (tempat kaum Tsamud, pent.): "Jangan memasuki mereka kaum yang disiksa kecuali kalian menangis, bila kalian tidak menangis, jangan memasuki mereka karena kalian akan tertimpa seperti yang menimpa mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7464</td></tr><tr><td>Arabic No</td><td>2980.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7464</td></tr><tr><td>Arabic No</td><td>2980.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 47</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir (que Dieu l'agrée) a dit : "Nous pratiquions le coït interrompu, alors 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah]. Dan dari jalur lain, telah menceritakan kepadaku [Abu Ma'mar Isma'il bin Ibrahim Al Hudzali] telah menceritakan kepada kami ['Ali bin Hasyim bin Al Barid] semuanya dari [Hisyam bin Urwah] dari [Abdullah bin Abu Bakar] dari ['Amrah] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Saudara sesusuan menjadi mahram sebagaimana mahramnya saudara dari kelahiran." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abdullah bin Abu Bakar] dengan isnad ini seperti hadits Hisyam bin 'Urwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3569</td></tr><tr><td>Arabic No</td><td>1444.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3569</td></tr><tr><td>Arabic No</td><td>1444.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 2</td></tr></tbody></table></div>
 

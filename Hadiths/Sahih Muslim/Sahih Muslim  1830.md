@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:The acts most pleasing to Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Sa'd bin Sa'id] telah mengabarkan kepadaku [Al Qasim bin Muhammad] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Amalan yang paling dicintai Allah adalah yang terus-menerus (dilakukan) meskipun sedikit." Al Qasim berkata; Dan Aisyah, bila ia mengerjakan suatu amalan, maka ia kan menekuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>783.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ сказал: «Наиболее любимыми деяниями для Всевышнего Аллаха являются те, что совершается с постоянством, даже если их мало». И если ‘Аиша начинала совершать какое-то дело, то (в будущем) держалась его совершения (постоянно)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>783.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 258</td></tr></tbody></table></div>
 

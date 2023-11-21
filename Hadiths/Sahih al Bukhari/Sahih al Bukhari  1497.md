@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Aufa : Whenever a person came to the Prophet (ﷺ) wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Syu'bah] dari ['Amru] dari ['Abdullah bin Abu Awfaa] berkata; Adalah Nabi shallallahu 'alaihi wasallam bila suatu kaum datang kepadanya dengan membawa shadaqah mereka, Beliau mendo'akannya: "Allahumma shalli 'alaa aali fulan" (Ya Allah berilah shalawat kepada keluarga fulan"). Maka bapakku mendatangi Beliau dengan membawa zakatnya., maka Beliau mendo'akanya: "Allahumma shalli 'alaa aalii abu awfaa". (Ya Allah, berilah shalawat kepada keluarga Abu Awfaa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1497</td></tr><tr><td>Arabic No</td><td>1497</td></tr><tr><td>Reference</td><td>Book 24 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Абу Ауфа, да будет доволен Аллах ими обоими, сказал: «Когда кто-нибудь из людей доставлял Пророку ﷺ свою садаку, он всегда говорил: “О Аллах, благослови семью такого-то!” И когда свою садаку ему доставил мой отец, он (тоже) сказал: “О Аллах, благослови семью Абу Ауфы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1497</td></tr><tr><td>Arabic No</td><td>1497</td></tr><tr><td>Reference</td><td>Book 24 Hadith 97</td></tr></tbody></table></div>
 

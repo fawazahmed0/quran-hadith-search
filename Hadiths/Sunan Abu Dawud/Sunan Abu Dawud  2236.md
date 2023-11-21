@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Barirah was emancipated, and she was the wife of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Yahya Al Harrani], telah menceritakan kepadaku [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Abu Ja'far] dari [Aban bin Shalih] dari [Mujahid] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] bahwa Barirah telah dibebaskan sementara ia adalah isteri Mughits, seorang budak keluarga Abu Ahmad. Kemudian Rasulullah shallallahu 'alaihi wasallam diberikan pilihan kepada Barirah, dan beliau berkata kepadanya: "Apabila ia mendekatimu, maka engkau tidak memiliki hak untuk memilih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2236</td></tr><tr><td>Arabic No</td><td>2236</td></tr><tr><td>Reference</td><td>Book 13 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Барира была отпущена на волю в то время, когда она была замужем за Мугисом, рабом семейства Абу Ахмада, и Посланник Аллаха ﷺ предоставил ей выбор, предупредив: «Если он приблизится к тебе, то после этого выбора у тебя уже не будет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2236</td></tr><tr><td>Arabic No</td><td>2236</td></tr><tr><td>Reference</td><td>Book 13 Hadith 62</td></tr></tbody></table></div>
 

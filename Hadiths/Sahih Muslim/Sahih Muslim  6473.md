@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (may, peace be upon him) as saying:The be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Husyaim] dari [Abu Bisyr]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Isma'il bin Salim]; Telah mengabarkan kepada kami [Husyaim]; Telah mengabarkan kepada kami [Abu Bisyr] dari ['Abdullah bin Syaqiq] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik umatku adalah masa ketika aku diutus kepada mereka, kemudian generasi setelah mereka. -aku tidak tahu apakah beliau menyebutkan generasi setelah beliau tiga kali atau empat kali.- lalu beliau bersabda lagi: 'Lalu akan datang suatu kaum (yang mereka berlebih-lebihan makan dan minumnya) hingga menyebabkan mereka gemuk, mereka bersaksi sebelum diminta untuk bersaksi.' Telah menceritakan kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Abu Bakr bin Nafi']; Telah menceritakan kepada kami [Ghundar] dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir]; Telah menceritakan kepada kami [Abu Al Walid]; Telah menceritakan kepada kami [Abu 'Awanah] seluruhnya dari [Abu Bisyr] melalui jalur ini dengan Hadits yang serupa. Namun di dalam Hadits Syu'bah di sebutkan, [Abu Hurairah] berkata; 'Aku tidak tahu beliau menyebutkan generasi setelah beliau dua kali atau tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6473</td></tr><tr><td>Arabic No</td><td>2534.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6473</td></tr><tr><td>Arabic No</td><td>2534.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 302</td></tr></tbody></table></div>
 

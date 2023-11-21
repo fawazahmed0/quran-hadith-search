@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When the mountain of Uhud appeared before Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Amru] mantan budak Al Mutthalib, dari [Anas bin Malik] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam menengol kea radliallahu 'anha bukit Uhud, lalu beliau bersabda: "Ini adalah gunung yang mencintai kami, dan kami pun mencintainya, ya Allah sesungguhnya Ibrahim telah mensucikan kota Makkah, dan akupun mensucikan kota yang berada diantara dua batu hitam (yaitu Madinah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 64 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ увидел гору Ухуд и сказал: «Это гора, которая любит нас и которую любим мы. О Аллах, поистине, Ибрахим сделал Мекку заповедной территорией, а я же сделал заповедными пределы Медины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 64 Hadith 128</td></tr></tbody></table></div>
 

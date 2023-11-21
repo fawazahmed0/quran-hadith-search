@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I offered with the Prophet (ﷺ) two rak'at before the Zuhr a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] berkata, telah mengabarkan kepada kami [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Aku pernah shalat bersama Nabi shallallahu 'alaihi wasallam dua sujud (raka'at) sebelum shalat Zhuhur dan dua raka'at sesudah shalat Zhuhur, dua raka'at sesudah shalat Maghrib, dua raka'at sesudah shalat 'Isya', dan dua raka'at sesudah shalat Jum'at. Adapun untuk Maghrib dan 'Isya' Beliau melaksanaannya di rumah Beliau". Dan telah menceritakan kepadaku saudara perempuanku [Hafshah] bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat dua raka'at dengan ringan setelah terbitnya fajar dan ketika itu aku tidak menemui Nabi shallallahu 'alaihi wasallam ". Dan berkata, [Ibnu Abu Az Zanad] dari [Musa bin 'Uqbah] dari [Nafi']: "Beliau shallallahu 'alaihi wasallam mengerjakan shalat sunnat setelah 'Isya di rumah keluarganya". Hadits ini diperkuat pula oleh [Katsir bin Farqad] dan [Ayyub] dari [Nafi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1172</td></tr><tr><td>Arabic No</td><td>1172</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я совершил молитву с Пророком ﷺ два рак‘ата до полуденной молитвы /зухр/, два рак‘ата после молитвы зухр, два рак‘ата после закатной молитвы /магъриб/, два рак‘ата после вечерней молитвы /‘иша/ и два рак‘ата после пятничной молитвы /джуму‘а/. Что касается закатной и вечерней молитв, то он совершал их дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1172</td></tr><tr><td>Arabic No</td><td>1172</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

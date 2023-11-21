@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' reported:When we were (in prayer) with the Messenger of Allah Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu Numair] keduanya berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] telah menceritakan kepada kami [Abban] dan yang lainnya dari [al-Hakam] dari [Abdurrahman bin Abi Laila] dari [al-Bara'] dia berkata, "Kami bersama Nabi Shallallahu'alaihiwasallam, tidak seorang pun dari kami membengkokkan punggungnya, hingga kami melihat beliau telah bersujud." Dan Zuhair berkata, telah menceritakan kepada kami Sufyan dia berkata, telah menceritakan kepada kami orang-orang Kufah, Aban dan yang lainnya, dia berkata, "Sampai kami melihatnya sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1065</td></tr><tr><td>Arabic No</td><td>474.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Бараъ сказал: «Когда мы (совершали молитву) вместе с Пророком ﷺ, никто из нас не сгибал спины, пока не видел, что он совершил земной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1065</td></tr><tr><td>Arabic No</td><td>474.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 227</td></tr></tbody></table></div>
 

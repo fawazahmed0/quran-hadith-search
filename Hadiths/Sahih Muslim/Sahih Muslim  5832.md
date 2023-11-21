@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that Abu Lubaba b. 'Abd al-Mundhir al-Ansari (first) lived in Qub
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdul Wahhab] yaitu Ats Tsaqafi dia berkata; Aku mendengar; [Yahya bin Sa'id] berkata; Telah mengabarkan kepadaku [Nafi'] bahwa [Abu Lubabah bin 'Abdul Mundzir Al Anshari] yang dulu tinggal di Quba. Kemudian dia pindah ke Madinah. Pada suatu hari tatkala Ibnu Umar duduk bersamanya, Lalu Ibnu Umar hendak membuka pintu kecil di rumahnya, tiba-tiba ada seekor ular di rumah tersebut. Kemudian para sahabat berupaya untuk membunuhnya. Maka Abu Lubabah berkata; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang membunuh ular-ular yang tinggal di rumah. Dan beliau menyuruh membunuh ular yang buntung ekornya dan ular yang memiliki dua garis putih di punggungnya, karena di katakan kedua ular tersebut dapat membutakan mata dan membunuh bayi-bayi wanita yang hamil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5832</td></tr><tr><td>Arabic No</td><td>2233.08</td></tr><tr><td>Reference</td><td>Book 39 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5832</td></tr><tr><td>Arabic No</td><td>2233.08</td></tr><tr><td>Reference</td><td>Book 39 Hadith 183</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha said, "The Prophet (ﷺ) in his fatal illness said, 'Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Syaiban] dari [Hilal] dia adalah Al Wazzan dari ['Urwah] dari ['Aisyah radliallahu 'anha] dari Nabi shallallahu 'alaihi wasallam bersabda ketika Beliau sakit yang membawa kepada kematiannya: "Allah melaknat orang-orang Yahudi dan Nashrani disebabkan mereka menjadikan kuburan para nabi mereka sebagai masjid". 'Aisyah radliallahu 'anha berkata; "Kalau bukan karena sabda Beliau tersebut tentu sudah mereka pindahkan kubur beliau (dari dalam rumahnya), namun aku tetap khawatir nantinya akan dijadikan masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ уже болевший той болезнью, от которой он умер, сказал: «Аллах проклял иудеев и христиан за то, что они избрали могилы своих пророков местами для поклонения».\n(‘Аиша также) сказала: «И если бы не это, то могилу его обязательно сделали бы заметной, однако я боюсь, что и её могут сделать местом поклонения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 85</td></tr></tbody></table></div>
 

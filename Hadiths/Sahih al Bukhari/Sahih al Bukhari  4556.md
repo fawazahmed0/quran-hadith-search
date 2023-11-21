@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Jews brought to the Prophet (ﷺ) a man and a w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] Telah menceritakan kepada kami [Abu Dlamrah]; Telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa orang-orang Yahudi menemui Nabi shallallahu 'alaihi wasallam dengan membawa seorang laki-laki dan seorang perempuan yang telah berzina. Lalu Nabi shallallahu 'alaihi wasallam bertanya kepada mereka: 'Apa yang kalian lakukan kepada orang yang berzina? ' Mereka menjawab; 'Kami mencoret-coret wajah keduanya dengan warna hitam dan memukulnya. Nabi shallallahu 'alaihi wasallam bersabda: 'Apakah kalian tidak menemukan hukuman rajam di dalam Taurat? Mereka menjawab; 'Kami tidak mendapatkannya sedikit pun. Maka Abdullah bin Salam berkata kepada mereka; 'Kalian telah berdusta, datangkanlah Taurat kalian dan bacalah jika kalian orang-orang yang jujur.' Maka mereka pun meletakan kitab yang mereka pelajari dan di antara mereka ada yang menutupinya dengan tangan pada ayat rajam, dengan cepat dia membaca apa yang ada disamping kanan kirinya tanpa membaca ayat rajam. Abdullah Salam pun segera menyingkirkan tangannya, seraya berkata; 'Apa ini? ' Tatkala mereka melihat hal itu, mereka menjawab; 'ini adalah ayat rajam.' Maka Rasulullah shallallahu 'alaihi wasallam menyuruh untuk merajam keduanya di dekat kuburan samping masjid. Kata Abdullah; 'Aku melihat lelakinya melindungi dan menutupi wanitanya dari lemparan batu dengan cara membungkukkan badannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 65 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды иудеи привели к Пророку ﷺ мужчину и женщину из их числа, совершивших прелюбодеяние. Посланник Аллаха ﷺ спросил их: “Что вы (обычно) делаете с теми из вас, кто совершил прелюбодеяние?” Они ответили: “Мы очерняем их лица и подвергаем бичеванию”. Он спросил: “Разве вы не находите в Торе приказ побивать их камнями?” Они ответили: “Мы не находим в ней ничего такого”. Тогда ‘Абдуллах ибн Салям воскликнул: “Вы лжёте! Принесите Тору и прочтите её, если вы говорите правду”. Тогда человек из их числа, который обучал их Торе положил руку на аят, в котором говорилось о побивании камнями, и начал читать то, что было написано выше и ниже места, скрытого его рукой, но он не читал аят, в котором говорилось о побивании камнями. Тогда ‘Абдуллах ибн Салям поднял его руку от аята о побивании камнями, и сказал: “Что это?” Увидев это, они сказали: “Это аят, в котором говорится о побивании камнями”. После этого по велению Посланника Аллаха ﷺ совершившие прелюбодеяние были побиты камнями, рядом с местом совершения погребальной молитвы возле мечети. И я видел, как мужчина наклонялся, закрывая собой женщину от камней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 65 Hadith 78</td></tr></tbody></table></div>
 

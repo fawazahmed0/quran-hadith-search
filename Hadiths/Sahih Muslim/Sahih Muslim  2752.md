@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain (Allah be pleased with them) reported that Allah's Apostle (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] dari [Al Jurairi] dari [Abul Ala'] dari [Mutharrif] dari [Imran bin Hushain] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam bertanya kepada seseorang: "Apakah kamu berpuasa di hari-hari terakhir bulan (Sya'ban) ini?" laki-laki itu menjawab, "Tidak." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kamu telah menunaikan puasa Ramadlan, maka berpuasalah dua hari untuk menggantikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2752</td></tr><tr><td>Arabic No</td><td>1161.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2752</td></tr><tr><td>Arabic No</td><td>1161.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 258</td></tr></tbody></table></div>
 

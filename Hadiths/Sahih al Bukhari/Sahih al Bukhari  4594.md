@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:When the Verse:--"Not equal are those of the believers who sit 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Israil] dari [Abu Ishaq] dari [Al Bara'] dia berkata; LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FII SABIILILLAAH' 'Tidaklah sama antara orang mukmin yang tidak ikut berperang dan mereka yang berjihad fii sabilillah.' (An Nisa: 95), Nabi shallallahu 'alaihi wasallam bersabda: "Panggilkan si fulan, maka ia datang seraya membawa tempat tinta dan lembaran dari kayu atau tulang. Lalu Nabi shallallahu 'alaihi wasallam bersabda: Tulislah: "LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FII SABIILILLAAH" 'Tidaklah sama antara orang mukmin yang tidak ikut berperang dan mereka yang berjihad fii sabilillah.' (An Nisa: 95) sedangkan di belakang Nabi shallallahu 'alaihi wasallam ada Ummi Maktum, lalu dia berkata; Ya Rasulullah, aku ini buta, maka turunlah dalam ayat itu: GHAIRU ULIDLDLARAR' 'Kecuali orang-orang yang mempunyai halangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 65 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара сказал: «Когда был ниспослан аят: “Не равны те из верующих, которые отсиживаются…”, Пророк ﷺ сказал: “Позовите такого-то”. Затем тот пришёл и принёс чернильницу и доску или лопатку, и Пророк ﷺ сказал ему: “Пиши: “Не равны (друг другу) те из верующих, которые отсиживаются (дома), и те, что сражаются на пути Аллаха…”. Тут Ибн Умм Мактум, который сидел позади Пророка ﷺ сказал: “О Посланник Аллаха, я слепой”, тогда вместо того аята было ниспослано: “Те из верующих, которые отсиживаются, не равны тем, которые сражаются на пути Аллаха своим имуществом и своими душами, кроме тех, кто испытывает тяготы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 65 Hadith 116</td></tr></tbody></table></div>
 

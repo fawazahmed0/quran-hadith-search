@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Qatadah ibn Rib'iyy: Allah , the Exalted said: I made five times' p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih Al Mishri] telah menceritakan kepada kami [Baqiyyah] dari [Dlubarah bin Abdullah bin Sulaik Al Alhani] telah mengabarkan kepadaku [Ibnu Nafi'] dari [Ibnu Syihab Az Zuhri] dia berkata; [Sa'id bin Al Musayyib] berkata bahwa [Abu Qatadah bin Rib'iy] mengabarkan kepadanya bahwa Rasulullah Shallallahu alaihi wasallam bersabda: "Allah Ta'ala berfirman: " 'Sesungguhnya Aku mewajibkan umatmu shalat lima waktu, dan Aku berjanji bahwa barangsiapa yang menjaga waktu-waktunya pasti Aku akan memasukkannya ke dalam surga, dan barangsiapa yang tidak menjaganya maka dia tidak mendapatkan apa yang aku janjikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб аз-Зухри сказал: «Са‘ид ибн Мусаййиб сказал, что Абу Къатада ибн Риб‘ий рассказывал ему о том, что Посланник Аллаха ﷺ сказал: “Аллах Всевышний сказал: “Поистине, Я вменил в обязанность (членам) твоей общины совершение пяти молитв, и взял на Себя обязательство ввести в рай каждого, кто станет неуклонно и своевременно совершать их. Что же касается того, кто не будет неуклонно совершать (эти молитвы), то Я не даю ему никаких обещаний”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>430</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Al-Hanafiya:I asked my father ('Ali bin Abi Talib), "Who a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3671</td></tr><tr><td>Arabic No</td><td>3671</td></tr><tr><td>Reference</td><td>Book 62 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн аль-Ханафийя сказал: «Я спросил отца: “Кто является лучшим из людей после Посланника Аллаха ﷺ?” Он ответил: “Абу Бакр”. Я спросил: “А после него кто?” Он ответил: “‘Умар”. И я испугался, что, если спрошу: “А после него кто?”, он скажет: “‘Усман”. Поэтому я спросил: “А потом ты?” Он сказал в ответ: “Я всего лишь один из мусульман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3671</td></tr><tr><td>Arabic No</td><td>3671</td></tr><tr><td>Reference</td><td>Book 62 Hadith 21</td></tr></tbody></table></div>
 

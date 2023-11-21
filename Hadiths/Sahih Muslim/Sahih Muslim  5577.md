@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that Allah's Apostle (ﷺ) reprimanded that a woman s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Al Hasan bin 'Ali Al Hulwani] dan [Muhammad bin Rafi'] ia berkata; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata; Nabi shallallahu 'alaihi wasallam melarang keras menyambung rambut kepala wanita dengan sesuatu yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5577</td></tr><tr><td>Arabic No</td><td>2126</td></tr><tr><td>Reference</td><td>Book 37 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5577</td></tr><tr><td>Arabic No</td><td>2126</td></tr><tr><td>Reference</td><td>Book 37 Hadith 185</td></tr></tbody></table></div>
 

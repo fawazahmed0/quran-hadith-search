@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The strong-man is not one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan ['Abdul A'laa bin Hammad] keduanya berkata; keduanya telah aku bacakan di hadapan [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang paling kuat bukanlah orang yang tidak dapat dikalahkan oleh orang lain. Tetapi orang yang paling kuat adalah orang yang dapat menguasai dirinya ketika ia sedang marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6643</td></tr><tr><td>Arabic No</td><td>2609.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6643</td></tr><tr><td>Arabic No</td><td>2609.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 140</td></tr></tbody></table></div>
 

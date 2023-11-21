@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Aswad b. Yazid:Mu'adh b. Jabal gave shares of inheritance to a siste
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Aban], telah menceritakan kepada kami [Qatadah], telah menceritakan kepadaku [Abu Hassan] dari [Al Aswad bin Yazid?] bahwa [Mu'adz bin Jabarl], telah memberikan warisan kepada seorang saudara wanita dan anak wanita. Ia memberikan setiap mereka setengah bagian, pada saat ia berada di Yaman, sedang Nabi shallallahu 'alaihi wasallam pada saat itu masih hidup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6734)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 19 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Асвада ибн Язида, что Му‘аз ибн Джабаль после смерти одного мужчины велел отдать наследство его сестре и дочери и каждая из них получила половину оставленного им имущества. Он тогда был в Йемене, а пророк Аллаха ﷺ был жив
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6734)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 19 Hadith 9</td></tr></tbody></table></div>
 

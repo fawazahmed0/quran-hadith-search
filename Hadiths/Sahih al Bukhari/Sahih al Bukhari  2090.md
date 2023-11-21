@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) said, "Allah made Mecca a sanctuary 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Khalid bin 'Abdullah] dari [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah telah mengharamkan kota Makkah, maka tidak dihalalkan buat seorangpun sebelum dan tidak dihalalkan pula buat seorangpun susudahku. Sesungguhnya pernah dihalalkan buatku sesaat dalam suatu hari. Bumi Makkah tidak boleh disingkirkan durinya dan tidak boleh ditebang pohonnya dan tidak boleh diburu hewan buruannya dan tidak ditemukan satupun barang temuan kecuali harus dikembalikan kepada yng mengenalnya (pemiliknya) ". Berkata, 'Abbas bin 'Abdul Muththolib: "Kecuali pohon idzkhir (pohon yang harum baunya) yang berguna untuk proses pembutan emas dan wewangian di atap-atap rumah kami. Maka Beliau bersabda: "Ya, kecuali pohon idzkhir". Lalu ['Ikrimah]: "Apakah kamu mengerti yang dimaksud dengan dilarang memburu binatang buruan? Yaitu mengusirnya dari tempat tinggalnya dan kamu jadikan untuk persinggahan". Berkata, ['Abdul Wahhab] dari [Khalid]: "Idkhir, Untuk wewangain pengerjaan pembuatan emas kami dan Kubur-Kubur kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2090</td></tr><tr><td>Arabic No</td><td>2090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Поистине, Аллах сделал Мекку запретной, и она не была разрешённой никому до меня и не будет разрешенной никому после меня. И для меня она стала дозволенной лишь на определённое время в течение дня. В Мекке нельзя срезать кустарники, вырубать деревья, вспугивать дичь и поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям)». В это время аль-‘Аббас, да будет доволен им Аллах, сказал: «Кроме “изхира” (душистый тростник), который используют ювелиры, и мы используем его для крыш наших домов?» Посланник Аллаха ﷺ сказал: «Кроме “изхира”». ‘Икрима сказал: «Ты знаешь, что значит “нельзя вспугивать дичь”? Это означает прогнать её из тени, чтобы занять её место»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2090</td></tr><tr><td>Arabic No</td><td>2090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
 

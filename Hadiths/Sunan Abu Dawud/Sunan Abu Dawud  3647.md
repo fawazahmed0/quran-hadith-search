@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Muttalib bin 'Abd Allah bin Hantab: Al-Muttalib ibn Abdullah ibn Han
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepada kami [Abu Ahmad] telah menceritakan kepada kami [Katsir bin Zaid] dari [Al Muththalib bin Abdullah bin Hanthab] ia berkata, " [Zaid bin Tsabit] datang menemui Mu'awiyah dan bertanya kepadanya tentang suatu hadits, dan ia memerintahkan seseorang agar menulisnya. Zaid lalu berkata kepadanya, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam memerintahkan kami agar tidak menulis apapun dari hadits beliau." Maka Mu'awiyah pun menghapusnya kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3647</td></tr><tr><td>Arabic No</td><td>3647</td></tr><tr><td>Reference</td><td>Book 26 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Мутталиба ибн ‘Абдуллаха ибн Хантаба, что однажды Зейд ибн Сабит зашёл к Му‘авии и тот спросил его о хадисе и велел одному человеку записать для него этот хадис. Тогда Зейд сказал: «Посланник Аллаха ﷺ велел нам не записывать ничего из его слов». Тогда он стёр это
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3647</td></tr><tr><td>Arabic No</td><td>3647</td></tr><tr><td>Reference</td><td>Book 26 Hadith 7</td></tr></tbody></table></div>
 

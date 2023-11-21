@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I wove the garlands for the sacrificial animals of Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] Telah menceritakan kepada kami [Aflah] dari [Al Qasim] dari [Aisyah] ia berkata; "Aku mengalungkan tanda pada Unta (hewan kurban) milik Rasulullah shallallahu 'alaihi wasallam dengan tanganku sendiri, lalu aku menyisirinya. Sesudah itu, beliau membawa dan mengirimkannya ke Baitullah. Lalu beliau bermukim di Madinah, sehingga tidak lagi sesuatu yang haram, apa yang sebelumnya halal bagi beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3198</td></tr><tr><td>Arabic No</td><td>1321.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 402</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3198</td></tr><tr><td>Arabic No</td><td>1321.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 402</td></tr></tbody></table></div>
 

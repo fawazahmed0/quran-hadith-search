@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated An-Nu'man ibn Bashir: When AbuBakr asked the permission of the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in] berkata, telah menceritakan kepada kami [Hajjaj bin Muhammad] berkata, telah menceritakan kepada kami [Yunus bin Abu Ishaq] dari [Abu Ishaq] dari [Al 'Aizar bin Huraits] dari [An Nu'man bin Basyir] ia berkata, "Abu Bakar -semoga Allah merahmatinya- mimohon izin untuk menemui Nabi shallallahu 'alaihi wasallam, tetapi ketika akan masuk ia mendengar suara 'Aisyah meninggi (seperti orang marah). Maka ketika Abu Bakar telah masuk ia memegang 'Aisyah untuk memukulnya seraya berkata, "Kenapa aku melihat kamu mengeraskan suara di hadapan Rasulullah shallallahu 'alaihi wasallam!" lalu Nabi shallallahu 'alaihi wasallam menghalanginya hingga Abu Bakar keluar dengan membawa marah. Saat Abu Bakar keluar, Nabi shallallahu 'alaihi wasallam bersabda: "Bagaimana pendapatmu ketika aku selamatkan kamu dari seorang laki-laki (murka Abu Bakar)?" Nu'man berkata, "Abu Bakar lalu berdiam diri di dalam rumah selama beberapa hari, setelah itu ia memohon izin lagi untuk menemui Rasulullah shallallahu 'alaihi wasallam, dan ia mendapati keduanya telah berbaikan. Lantas ia berkata kepada keduanya, "Sertakanlah aku dalam kedamaian kalian sebagaimana kalian telah menyertakanku dalam kemarahan kalian." Nabi shallallahu 'alaihi wasallam menimpali: "Kami telah lakukan, kami telah lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 43 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 43 Hadith 227</td></tr></tbody></table></div>
 

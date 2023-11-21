@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:I heard Allah's Apostle (ﷺ) as saying. Every servant would be r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Utsman bin Abu Syaibah] keduanya berkata: telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] berkata: Aku mendengar nabi Shallallahu 'alaihi wa Salam bersabda: "Setiap hamba dibangkitkan di atas kondisi saat ia meninggal." Telah menceritakan kepada kami [Abu Bakr bin Nafi'] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] dari [Al A'masy] dengan sanad ini dengan matan serupa. Ia berkata: Dari nabi Shallallahu 'alaihi wa Salam dan tidak menyebut: Aku mendengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7232</td></tr><tr><td>Arabic No</td><td>2878.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ говорил: “Каждый раб (Аллаха) будет воскрешён в том (состоянии), в котором встретит смерть”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7232</td></tr><tr><td>Arabic No</td><td>2878.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 101</td></tr></tbody></table></div>
 

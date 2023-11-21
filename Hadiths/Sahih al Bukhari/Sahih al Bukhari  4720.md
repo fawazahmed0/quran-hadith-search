@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Masud:Allah's Messenger (ﷺ) entered Mecca (in the year 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] dari [Abu Najih] dari [Mujahid] dari [Abu Ma'mar] dari ['Abdullah bin Mas'ud radliallahu 'anhu] dia berkata; Ketika Nabi shallallaahu 'alaihi wasallam masuk Makkah, di sekeliling ka'bah terdapat tiga ratus enam puluh berhala, lalu Nabi memecahkannya dengan tongkat yang berada di tangannya seraya mengucapkan firman Allah: "Yang benar telah datang dan yang batil telah lenyap. Sesungguhnya yang batil itu adalah sesuatu yang pasti lenyap. (Al Isra: 81). Kebenaran telah datang dan yang batil itu tidak akan memulai dan tidak (pula) akan mengulangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4720</td></tr><tr><td>Arabic No</td><td>4720</td></tr><tr><td>Reference</td><td>Book 65 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ вступил в Мекку (в день её завоевания), вокруг Каабы находилось триста шестьдесят идолов, он начал тыкать их палкой, которую держал в руке, говоря: “Явилась истина, и сгинула ложь. Воистину, ложь обречена на погибель”. И он (говорил также): “Пришла истина, а ложное больше не появится и не вернётся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4720</td></tr><tr><td>Arabic No</td><td>4720</td></tr><tr><td>Reference</td><td>Book 65 Hadith 242</td></tr></tbody></table></div>
 

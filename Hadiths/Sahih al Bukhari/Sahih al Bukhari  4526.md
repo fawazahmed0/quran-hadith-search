@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Whenever Ibn 'Umar recited the Qur'an, he would not speak to anyo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah mengabarkan kepada kami [An Nadlr bin Syumail] Telah mengabarkan kepada kami [Ibnu Aun] dari [Nafi'] dia berkata; [Ibnu Umar radliallahu 'anhuma] apabila membaca Al Qur'an, beliau tidak berbicara hingga selesai membacanya. Pada suatu hari aku mengambil mushaf-nya, maka membaca surat Al Baqarah hingga selesai dengan hafalannya. Lalu dia berkata; tahukah kamu tentang apa surat ini turun? Aku menjawab; 'Tidak.' Dia berkata; surat ini turun tentang ini dan itu kemudian dia pergi.' Dan dari [Abdus Shamad] Telah menceritakan kepadaku [ayahku] telah menceritakan kepadaku [Ayyub] dari [Nafi] dari [Ibnu Umar] mengenai ayat; "istri-istrimu adalah ladang bagimu maka datangilah ladang-ladangmu kapan saja sesuai yang kamu sukai".(QS. Albaqarah 223), Ibnu Umar berkata; yaitu mendatanginya dari kemaluannya. Diriwayatkan oleh [Muhammad bin Yahyan bin Sa'id] dari [Bapaknya] dari [Ubaidullah] dari [Nafi] dari [Ibnu Umar]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4526</td></tr><tr><td>Arabic No</td><td>4526</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «Когда Ибн ’Умар читал Коран, он ни с кем не разговаривал, пока не заканчивал свое чтение. Однажды я держал в руках Коран, а он прочитал (наизусть) суру “аль-Бакара”, а затем остановился в одном месте, и сказал: “Знаешь ли ты, в отношении чего это было ниспослано?” Я ответил: “Нет”. Он сказал: “Это было ниспослано в отношении того-то и того-то”. Затем Ибн ‘Умар продолжил чтение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4526</td></tr><tr><td>Arabic No</td><td>4526</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

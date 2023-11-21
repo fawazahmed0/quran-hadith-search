@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Suwayd ibn Qays: I and Makhrafah al-Abdi imported some garments from Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada kami [ayahku], telah menceritakan kepada kami [Sufyan] dari [Simak bin Harb], telah menceritakan kepadaku [Suwaid bin Qais], ia berkata; aku dan Makhramah menyambut jenis pakaian dari sutera yang datang dari Hajar menuju Mekkah, kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi kami dengan berjalan kaki kemudian beliau menawar beberapa celana panjang dari kami kemudian kami menjualnya kepada beliau, dan disana terdapat tukang penimbang yang melakukan penimbangan dengan diberi diupah. Kemudian beliau berkata kepada tukang penimbang tersebut: "Timbanglah dan penuhilah (sempurnakanlah) timbangan.." telah menceritakan kepada kami [Hafshah bin Umar] dan [Muslim bin Ibrahim] secara makna hampir sama. Mereka berdua berkata; telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dari [Abu Shafwan bin 'Umairah], ia berkata; aku datang kepada Rasulullah shallallahu 'alaihi wasallam di Mekkah sebelum beliau berhijrah, -ia menceritakan dengan hadits ini dan tidak menyebutkan; menimbang dengan diberi upah. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Qais], sebagaimana yang dikatakan Sufyan. Dan perkataan yang benar adalah perkataan Sufyan. Telah menceritakan kepada kami Ibnu Abu Rizmah; aku mendengar ayahku berkata; seorang laki-laki berkata kepada Syu'bah, Sufyan telah menyelisihimu. Engkau telah melukaiku, telah sampai kepadaku khabar dari Yahya bin Ma'in, ia berkata; seluruh orang yang menyelisihi Sufyan, maka perkataan yang benar adalah perkataan Sufyan. Telah menceritakan kepada kami Ahmad bin Hanbal, telah menceritakan kepada kami Waki' dari Syu'bah ia berkata; Sufyan lebih hafal dariku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сувайд ибн Къайс, да будет доволен им Аллах, сказал: «(Однажды) мы с Махрамой аль-‘Абди привезли из Хаджара одежду и прибыли с ней в Мекку, после чего к нам пешком пришёл Посланник Аллаха ﷺ договорившийся с нами о цене за шаровары (, которые он пожелал купить), и мы продали их ему. Там был один человек (с весами), который взвешивал за плату, и Посланник Аллаха ﷺ сказал ему: “Взвесь и (добавь ему чуть) больше положенного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 

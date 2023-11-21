@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama b. 'Abd al-Rahman reported that Jabir told him that he had observed t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Yahya] -yaitu putranya Hassan- telah menceritakan kepada kami [Mu'awiyah] -yaitu putranya Sallam- telah mengabarkan kepadaku [Yahya] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Jabir] telah mengabarkan kepadanya, bahwasanya; Dia pernah shalat Khauf bersama Rasulullah shallallahu 'alaihi wasallam. Mula-mula beliau shalat dua rakaat bersama dengan salah satu dari dua pasukan. Kemudian beliau shalat dua raka'at pula dengan pasukan yang lain. Sehingga beliau shallallahu 'alaihi wasallam mengerjakan shalat empat raka'at, dimana beliau mengerjakan shalat bersama masing-masing pasukan sebanyak dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1950</td></tr><tr><td>Arabic No</td><td>843.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 378</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир рассказал о том, что он совершал с Посланником Аллаха ﷺ молитву, (совершаемую под воздействием) страха /салят аль-хауф/, и Посланник Аллаха ﷺ совершил два рак‘ата с первой группой (людей), а затем совершил два рак‘ата со второй группой. Таким образом Посланник Аллаха ﷺ совершил четыре рак‘ата молитвы, совершив с каждой группой по два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1950</td></tr><tr><td>Arabic No</td><td>843.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 378</td></tr></tbody></table></div>
 

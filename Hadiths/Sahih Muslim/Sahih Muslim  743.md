@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:When the Messenger of Allah (ﷺ) took a bath becaus
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdul Wahhab, yaitu ats-Tsaqafi] telah menceritakan kepada kami [Ja'far] dari [bapaknya] dari [Jabir bin Abdullah] dia berkata, "Rasulullah dahulu apabila mandi karena junub maka beliau menyiramkan air pada kepalanya tiga kali telapak tangan, maka al-Hasan bin Muhammad berkata kepadanya, ' rambutku lebat'." Maka Jabir berkata, "Aku berkata kepadanya, 'Wahai anak saudaraku, rambut Rasulullah adalah lebih banyak dan lebih bagus daripada rambutmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>329</td></tr><tr><td>Reference</td><td>Book 3 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джа‘фар передал от своего отца, что Джабир ибн ‘Абдуллах сказал: «Совершая полное омовение после полового осквернения, Посланник Аллаха ﷺ обливал голову тремя пригоршнями воды». (Услышав это) аль-Хасан ибн Мухаммад сказал: «У меня густые волосы». Тогда Джабир сказал ему: «О сын моего брата, волосы Посланника Аллаха ﷺ были гуще и лучше твоих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>329</td></tr><tr><td>Reference</td><td>Book 3 Hadith 65</td></tr></tbody></table></div>
 

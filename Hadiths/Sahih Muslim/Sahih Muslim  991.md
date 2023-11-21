@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ lbn Umar reported:I heard the Messeinger of Allah (ﷺ) say: When your women see
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Hanzhalah] dia berkata, "Saya mendengar [Salim] berkata, Saya mendengar [Ibnu Umar] berkata, Saya mendengarRasulullah shallallahu 'alaihi wasallam bersabda, "Apabila wanita-wanita kalian meminta izin kepada kalian untuk pergi ke masjid, maka berikanlah izin kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>442.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Если ваши женщины просят у вас разрешения пойти в мечеть, то разрешайте им это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>442.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 153</td></tr></tbody></table></div>
 

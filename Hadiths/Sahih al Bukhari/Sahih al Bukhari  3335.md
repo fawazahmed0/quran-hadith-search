@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "Whenever a person is murdered 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Umar bin Hafsh bin Ghiyats] telah bercerita kepada kami [bapakku] telah bercerita kepada kami [Al A'masy] berkata telah bercerita kepadaku ['Abdullah bin Murrah] dari [Masruq] dari ['Abdullah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak satupun jiwa yang terbunuh secara zhalim melainkan anak Adam yang pertama ikut menanggung dosa pertumpahan darah itu karena dialah orang pertama yang mencontahkan pembunuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3335</td></tr><tr><td>Arabic No</td><td>3335</td></tr><tr><td>Reference</td><td>Book 60 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха (ибн Мас‘уда), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кого бы ни убили несправедливо, на первого сына Адама обязательно ляжет часть (бремени греха за пролитую) кровь, ибо начало убийствам положил он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3335</td></tr><tr><td>Arabic No</td><td>3335</td></tr><tr><td>Reference</td><td>Book 60 Hadith 10</td></tr></tbody></table></div>
 

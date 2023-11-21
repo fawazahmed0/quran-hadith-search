@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said to Ma'iz ibn Malik: Perhaps 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Jarir] berkata, telah menceritakan kepadaku [Ya'la] dari [Ikrimah] bahwa Nabi shallallahu 'alaihi wasallam. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Zuhair bin Harb] dan [Uqbah bin Mukram] keduanya berkata; telah menceritakan kepada kami [Wahb bin Jarir] berkata, telah menceritakan kepada kami [Bapakku] ia berkata; aku mendengar [Ya'la] -maksudnya Ya'la bin Hakim- menceritakan dari [Ikrimah] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam bertanya kepada Ma'iz bin Malik: "Mungkin kamu hanya mencium, melirik atau meraba saja?" Ma'iz menjawab, "Tidak." Beliau bertanya: "Apa kamu telah menggaulinya?" Ma'iz berkata, "Ya." Ibnu Abbas berkata, "Maka saat itulah beliau memerintahkan untuk merajamnya." Namun Musa tidak menyebutkan dari Ibnu Abbas. Dan ini adalah lafadz Wahb
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan Sahih Bukhari (6824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4427</td></tr><tr><td>Arabic No</td><td>4427</td></tr><tr><td>Reference</td><td>Book 40 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал Ма‘изу ибн Малику: «Может быть, ты поцеловал её, или прикасался к ней, или смотрел на неё?» Он ответил: «Нет». (Посланник Аллаха ﷺ) спросил: «Ты овладел ею?» Ма‘из сказал: «Да». Тогда (Посланник Аллаха ﷺ) велел побить его камнями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan Sahih Bukhari (6824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4427</td></tr><tr><td>Arabic No</td><td>4427</td></tr><tr><td>Reference</td><td>Book 40 Hadith 77</td></tr></tbody></table></div>
 

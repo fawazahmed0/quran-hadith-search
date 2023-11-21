@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Messenger of Allah (ﷺ) sent me to the Yemen as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Aun] ia berkata; telah mengabarkan kepada kami [Syarik] dari [Simak] dari [Hanasy] dari [Ali] ia berkata, "Rasulullah shallallahu 'alaihi wasallam mengutusku ke Yaman sebagai hakim, lalu kami katakan, "Wahai Rasulullah, apakah anda akan mengutusku sementara saya masih muda dan tidak memiliki ilmu mengenai peradilan?" Kemudian beliau bersabda: "Sesungguhnya Allah akan memberi petunjuk kepada hatimu, dan meneguhkan lisanmu. Apabila ada dua orang yang berseteru duduk di hadapanmu maka janganlah engkau memberikan keputusan hingga engkau mendengar dari orang yang lain, sebagaimana engkau mendengar dari orang yang pertama, karena sesungguhnya keputusan akan lebih jelas bagimu." Ali berkata, "Setelah itu aku tetap menjadi hakim atau aku tidak merasa ragu dalam memberikan keputusan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3582</td></tr><tr><td>Arabic No</td><td>3582</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах: «Посланник Аллаха ﷺ отправил меня в Йемен в качестве судьи и я сказал: “О Посланник Аллаха! Ты посылаешь меня, а ведь я очень молод и нет у меня знания о судопроизводстве”. Он сказал в ответ: “Поистине, Аллах укажет сердцу твоему истинный путь и утвердит язык твой. Когда сядут пред тобой два участника тяжбы, не суди, пока не выслушаешь второго так же, как выслушал первого, тогда ты поймёшь, какое решение следует вынести”. И я действительно потом всегда вершил суд таким образом (или: и я никогда не испытывал сомнений, вынося судебные решения)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3582</td></tr><tr><td>Arabic No</td><td>3582</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 

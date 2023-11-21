@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: Qurayzah and Nadir (were two Jewish tribes). An-Nad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Ubaidullah] -maksudnya Ubaidullah bin Musa- dari [Ali bin Shalih] dari [Simak bin Harb] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Antara bani Quraidhah dan bani Nadhir yang lebih mulia adalah bani Nadhir. Jika seorang laki-laki bani Quraidhah membunuh laki-laki dari bani Nadhir maka harus diqishah, sementara jika seorang laki-laki dari bani Nadhir membunuh laki-laki dari bani Quraidhah, cukup dengan memberikan tebusan seratus gantang kurma. Ketika Nabi shallallahu 'alaihi wasallam diutus, lalu ada seorang laki-laki dari bani Nadhir membunuh laki-laki dari bani Quraidhah, maka orang-orang dari bani Quraidhah berkata, "Berikan pembunuh itu kepada kami sehingga kami dapat membunuhnya." Orang-orang bani Nadhir kemudian berkata, "Antara kami dengan kalian ada Nabi Muhammad shallallahu 'alaihi wasallam!" mereka lalu mendatangi beliau. Kemudian Allah menurunkan ayat: '(dan jika kamu memutuskan perkara mereka, maka putuskanlah perkara itu di antara mereka dengan adil..) ' -Al Maidah: 42-. Al Qisth (adil) itu adalah jiwa dibalas dengan jiwa." Kemudian setelah itu turun ayat: '(Apakah hukum Jahilliyah yang mereka kehendaki) ' -Al Maidah: 50-. Abu Dawud berkata, "Bani Quraidhah dan bani Nadhir keduanya dari keturunan Nabi Harun Alaihis Salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4494</td></tr><tr><td>Arabic No</td><td>4494</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что племя бану ан-надыр считалось более знатным, чем бану курайза, и если человек из бану курайза убивал человека из бану ан-надыр, его казнили, а если человек из бану ан-надыр убивал человека из бану курайза, за него выплачивали компенсацию /дийа/ сто васков фиников. После начала пророческой миссии Пророка ﷺ один человек из бану ан-надыр убил человека из бану курайза и они сказали: «Выдайте нам его, чтобы мы его казнили!» Те ответили: «Пусть нас с вами рассудит Пророк ﷺ». Тогда был ниспослан аят: «И если будешь судить, то рассуди их по справедливости» (сура “аль-Маида”, аят 42), а справедливость предполагает, что «душа за душу» (то есть убийца подлежит казни). А затем было ниспослано: «Неужели они желают суда времён невежества?» (сура “аль-Маида”, аят 50). Абу Дауд сказал, что и курайза, и ан-надыр были потомками пророка Харуна, мир ему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4494</td></tr><tr><td>Arabic No</td><td>4494</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
 

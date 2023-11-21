@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The tradition mentioned above (No. 3771) has also 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Abu Daud] dari [Zuhair] dari [Abu Ishaq] dari [Sa'd bin 'Iyadl] dari [Abdullah bin Mas'ud] ia berkata, "Kuah yang paling disukai Rasulullah shallallahu 'alaihi wasallam adalah kuah daging kambing." Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Daud] dengan sanad ini. Ia berkata, "Nabi shallallahu 'alaihi wasallam menyukai paha kambing." Ia berkata, "Pernah paha kambing diberi racun, dan beliau melihat bahwa yang orang-orang Yahudi yang telah meracuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3781</td></tr><tr><td>Arabic No</td><td>3781</td></tr><tr><td>Reference</td><td>Book 28 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Дауд передаёт с тем же иснадом, что Пророк ﷺ больше всего любил баранью лопатку и его пытались отравить, положив яд именно в лопатку (жареной овцы). Он считал, что это иудеи отравили его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3781</td></tr><tr><td>Arabic No</td><td>3781</td></tr><tr><td>Reference</td><td>Book 28 Hadith 46</td></tr></tbody></table></div>
 

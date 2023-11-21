@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Jamra:I heard Ibn 'Abbas (giving a verdict) when he was asked about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Jamrah] ia berkata; Aku mendengar [Ibnu Abbas] ketika ia ditanya mengenai nikah Mut'ah, lalu ia memberi rukhshah. Maka bekas budaknya pun berkata, "Sesungguhnya yang demikiannya itu hanya boleh pada saat seseorang memang berada dalam keadaan yang sangat memperihatinkan dan ketika wanita sangat sedikit." Maka Ibnu Abbas berkata, "Ya, benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5116</td></tr><tr><td>Arabic No</td><td>5116</td></tr><tr><td>Reference</td><td>Book 67 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джамра сказал: «Я слышал, как Ибн ‘Аббаса спросили о временном браке /мут‘а/, и он разрешил это. На это его освобожденный раб сказал ему: “Это (дозволяется) только тогда, когда положение тяжёлое, а женщин мало?” Ибн ‘Аббас ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5116</td></tr><tr><td>Arabic No</td><td>5116</td></tr><tr><td>Reference</td><td>Book 67 Hadith 53</td></tr></tbody></table></div>
 

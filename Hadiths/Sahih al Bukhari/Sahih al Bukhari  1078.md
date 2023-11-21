@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Rafi':I offered the 'Isha' prayer behind Abu Huraira and he recited
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Mu'tamir] berkata; aku mendengar [bapakku] berkata, telah menceritakan kepada saya [Bakar] dari [Abu Rafi'] berkata: "Aku pernah shalat 'Atmah ('Isya di penghujung malam) bersama [Abu Hurairah radliallahu 'anhu]. Dia membaca idzas samaa-unsyaqqat (QS Al Insyiqaq) lalu dia sujud tilawah. Kemudian aku bertanya kepadanya: "Mengapa anda melakukan ini?" Maka dia menjawab: "Aku pernah sujud di belakang Abul Qasim shallallahu 'alaihi wasallam. Dan senantiasa aku melakukan sujud ketika membacanya sampai akhir hayatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1078</td></tr><tr><td>Arabic No</td><td>1078</td></tr><tr><td>Reference</td><td>Book 17 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Рафи‘ сказал: «Однажды я совершал с Абу Хурайрой вечернюю молитву /‘иша/ и он прочитал суру “Когда небеса расколются…” и совершил земной поклон. Я спросил: “Что это (за земной поклон)?” Он ответил: “Я совершал его, молясь за Абу аль-Касимом ﷺ и буду совершать его до тех пор, пока не встречу его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1078</td></tr><tr><td>Arabic No</td><td>1078</td></tr><tr><td>Reference</td><td>Book 17 Hadith 12</td></tr></tbody></table></div>
 

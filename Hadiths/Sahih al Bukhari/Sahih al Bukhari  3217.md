@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:'Aisha said that the Prophet (ﷺ) said to her "O 'Aisha' Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3217</td></tr><tr><td>Arabic No</td><td>3217</td></tr><tr><td>Reference</td><td>Book 59 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Пророк ﷺ сказал ей: «О ‘Аиша! Вот Джибриль приветствует тебя», (на что) она сказала: «И ему мир, милость Аллаха и Его благословения. Ты видишь то, чего не вижу я!» — и(, говоря это,) она имела в виду Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3217</td></tr><tr><td>Arabic No</td><td>3217</td></tr><tr><td>Reference</td><td>Book 59 Hadith 28</td></tr></tbody></table></div>
 

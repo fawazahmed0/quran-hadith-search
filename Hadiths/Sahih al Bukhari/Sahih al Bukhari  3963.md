@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepadaku [Muhammad bin Al Mutsannaa] telah menceritakan kepad
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963.2</td></tr><tr><td>Arabic No</td><td>3963.2</td></tr><tr><td>Reference</td><td>Book 64 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(После завершения битвы при Бадре) Пророк ﷺ спросил: “Кто (пойдёт и) посмотрит, что постигло Абу Джахля?” И (посмотреть на него) отправился Ибн Мас‘уд, увидевший, что его поразили два сына ‘Афра, и он находится уже при последнем издыхании. (‘Абдуллах ибн Мас‘уд) схватил его за бороду и спросил: “Ты Абу Джахль?”, а (Абу Джахль) сказал: “Здесь только человек, которого вы убили (или: человек, которого убили его соплеменники)”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963</td></tr><tr><td>Arabic No</td><td>3963</td></tr><tr><td>Reference</td><td>Book 64 Hadith 15</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963.2</td></tr><tr><td>Arabic No</td><td>3963.2</td></tr><tr><td>Reference</td><td>Book 64 Hadith 16</td></tr></tbody></table></div>

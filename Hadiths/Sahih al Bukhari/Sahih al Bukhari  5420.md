@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I went along with the Prophet (ﷺ) to the house of a young tailor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Munir] Ia mendengar [Abu Hatim Al Asyhal bin Hatim] Telah menceritakan kepada kami [Ibnu 'Aun] dari [Tsumamah bin Anas] dari [Anas] Radliayallahu 'Anhu, ia berkata; Suatu ketika aku bersama Rasulullah shallallahu 'alaihi wasallam menemui seorang anak kecil yang memiliki penjahit. Kemudian sang penjahit itu menyuguhkan pada beliau hidangan yang berisikan bubur, lalu kembali meneruskan pekerjaannya. Kemudian Nabi shallallahu 'alaihi wasallam mencari-cari labunya dan mengunyahnya, maka aku pun ikut mengambil dan meletakkannya di depan beliau. Sejak itulah, aku menyukai labu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5420</td></tr><tr><td>Arabic No</td><td>5420</td></tr><tr><td>Reference</td><td>Book 70 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) я пришёл вместе с Пророком ﷺ к его молодому портному, который подал ему блюдо, в котором был сарид, а сам принялся за свою работу. И Пророк ﷺ стал выискивать (и брать ломтики) тыквы (с краёв блюда). И я стал искать их, и класть перед ним». (Анас) сказал: «И с того дня я полюбил тыкву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5420</td></tr><tr><td>Arabic No</td><td>5420</td></tr><tr><td>Reference</td><td>Book 70 Hadith 48</td></tr></tbody></table></div>
 

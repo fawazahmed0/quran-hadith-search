@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There is a Sadaqa to be give
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami ['Abdur Rozaq] telah mengabarkan kepada kami [Ma'amr] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap ruas tulang pada manusia wajib atasnya shadaqah dan setiap hari terbitnya matahari di mana seseorang mendamaikan antara manusia maka terhitung sebagai shadaqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2707</td></tr><tr><td>Arabic No</td><td>2707</td></tr><tr><td>Reference</td><td>Book 53 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «На каждом суставе человека лежит обязанность раздавать милостыню каждый день, в который восходит солнце. Если человек справедливо рассудит между людьми, это будет милостыней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2707</td></tr><tr><td>Arabic No</td><td>2707</td></tr><tr><td>Reference</td><td>Book 53 Hadith 17</td></tr></tbody></table></div>
 

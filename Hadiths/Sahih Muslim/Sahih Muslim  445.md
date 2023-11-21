@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : Un jour, le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] telah menceritakan kepada kami [al-A'masy] dari [Amru bin Murrah] dari [Abu Ubaidah] dari [Abu Musa] dia berkata, "Rasulullah shallallahu 'alaihi wasallam berdiri menerangkan kepada kami lima perkara dengan bersabda: "Sesungguhnya Allah tidak pernah tidur dan tidak seharusnya Dia tidur. Dia berkuasa menurunkan timbangan amal dan mengangkatnya. Kemudian akan diangkat kepada-Nya (maksudnya dilaporkan) segala amalan pada waktu malam sebelum (dimulai) amalan pada waktu siang, dan begitu juga amalan pada waktu siang akan diangkat kepadaNya sebelum (dimulai) amalan pada waktu malam. Hijab-Nya adalah Cahaya. -Menurut riwayat Abu Bakar, 'Api'. Andaikata Dia menyingkapkannya, pasti keagungan Wajah-Nya akan membakar makhluk yang dipandang oleh-Nya." Dan dalam riwayat Abu Bakar dari al-A'masy, dia tidak mengucapkan, 'Telah menceritakan kepada kami'." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [al-A'masy] dengan sanad ini. Dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersedia menerangkan kepada kami tentang empat perkara." Kemudian dia menerangkan seperti hadits Abu Muawiyah, dan dia tidak menyebutkan, 'makhluknya'. Dan dia berkata, 'Hijba-Nya adalah Cahaya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>445</td></tr><tr><td>Arabic No</td><td>179.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 350</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «(Однажды) Посланник Аллаха ﷺ, находившийся среди нас, встал и (поведал нам о) пяти (вещах). Он сказал: “Поистине, Аллах не спит, и не подобает Ему спать; Он уменьшает и увеличивает удел /кыст/ (Своих рабов); дела ночи представляют Ему раньше, чем дела дня, а дела дня раньше, чем дела ночи; завесой для Него служит свет, если же Он уберёт (эту завесу), то сияние лика (Аллаха) непременно сожжёт любое из Его творений, на которое упадёт Его взор”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>445</td></tr><tr><td>Arabic No</td><td>179.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 350</td></tr></tbody></table></div>
 

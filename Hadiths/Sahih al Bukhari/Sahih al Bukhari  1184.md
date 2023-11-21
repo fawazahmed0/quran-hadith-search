@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Marthad bin 'Abdullah Al-Yazani:I went to 'Uqba bin 'Amir Al-Juhani and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yazid] -dia adalah Al Muqriy- berkata, telah menceritakan kepada kami [Sa'id bin Abu Ayyub] berkata, telah menceritakan kepada saya [Yazid bin Abu Habib] berkata; Aku mendengar [Martsad bin 'Abdullah Al Yazaniy] berkata; "Aku menemui ['Uqbah bin 'Amir Al Juhaniy] lalu aku berkata kepadanya: "Apakah kamu tidak heran terhadap Abu Tamim yang dia shalat dua raka'at sebelum shalat Maghrib? Maka ('Uqbah) menjawab: "Kami dulu juga melakukannya pada masa hidup Rasulullah shallallahu 'alaihi wasallam ". Aku berkata: "Lalu apa yang menghalangimu dari mengerjakannya sekarang?" Dia menjawab: "Kesibukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184</td></tr><tr><td>Arabic No</td><td>1184</td></tr><tr><td>Reference</td><td>Book 19 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Марсад ибн Абдулла Аль-Язани сказал: «Я пришел к ‘Укба ибн ‘Амиру аль-Джухани и сказал: “Не удивляет ли тебя, что Абу Тамим совершает два рак‘ата перед молитвой Магриб?” ‘Укба сказал: “Мы делали это при жизни Посланника Аллаха ﷺ”. Я спросил его: “Что же мешает тебе (совершать их) сейчас?”,— Он ответил: “Дела”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184</td></tr><tr><td>Arabic No</td><td>1184</td></tr><tr><td>Reference</td><td>Book 19 Hadith 61</td></tr></tbody></table></div>
 

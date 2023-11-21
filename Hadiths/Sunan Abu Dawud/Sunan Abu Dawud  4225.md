@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali:The Messenger of Allah (ﷺ) said to me: Say: O Allah, guide me, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Ibnul Mufadhdhal] berkata, telah menceritakan kepada kami [Ashim bin Kulaib] dari [Abu Burdah] dari [Ali radliallahu 'anhu] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Ucapkanlah; ALLAHUMMAHDINII WA SADDIDNII WADZKUR BILHIDAAYAH HIDAAYATATH THARIIQI WADZKUR BIS SADDAADI TASDIIDAKA AS SAHMI (Ya Allah, tunjukkanlah kami, luruskanlah kami, tunjukkan kami kepada jalan yang benar, dan tunjukkan kepada kami kebenaran sebagaimana Engkau tancapkan anak panah kepada sasarannya)." Ali berkata, "Beliau juga melarangku untuk meletakkan cincin pada ini dan ini; jari telunjuk dan jari tengah -Ashim masih merasa ragu-. Beliau juga melarangku dari Al Qasiyah dan Al Mitsarah." Abu Burdah berkata, "Kami bertanya kepada Ali, "Apa itu Al Qasiyah?" Ia menjawab, "Kain yang berasal dari Syam atau Mesir yang bergaris-garis bengkok. Sementara Al Mitsarah adalah sesuatu yang dibuat oleh kaum wanita untuk suami-suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2078 After 2095)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 36 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурайда передаёт, что ‘Али (ибн Абу Талиб), да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал мне: “Говори: ‹О Аллах, веди меня прямым путём и направляй меня›. И при этом думай о том, как идут по пути, стараясь не отклоняться от него из страха заблудиться, и нацеливают стрелу, стараясь пустить её точно в цель”. И он запретил мне носить перстень на указательном (или: на среднем пальце) (передатчик хадиса сомневался). И он запретил мне кассиййу и мисару». Абу Бурда сказал: «Мы спросили у ‘Али: “Что такое кассиййа?” Он ответил: “Одежда (с включениями шёлка), которую привозили к нам из Шама или Египта, с полосами наподобие цитронов. А мисара нечто (вроде подушки, обычно из шёлковой ткани и красного цвета), изготавливаемое женщинами для (сёдел) своих мужей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2078 After 2095)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 36 Hadith 12</td></tr></tbody></table></div>
 

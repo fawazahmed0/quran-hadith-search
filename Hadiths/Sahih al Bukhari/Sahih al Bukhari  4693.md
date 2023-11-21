@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah (bin Mas'ud):When the Prophet (ﷺ) realized that the Quraish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Abdullah radliallahu 'anhu] bahwa ketika orang-orang Quraisy menangguhkan untuk memeluk Islam, maka Nabi shallallahu 'alaihi wasallam mendo'akan kebinasaan bagi mereka: "Ya Allah, tolonglah kami dalam menghadapi mereka dengan mengirimkan tujuh tahun (kelaparan) sebagaimana yang telah menimpa Yusuf. Maka kemudian mereka tertimpa tahun paceklik yang menghabiskan segala sesuatu hingga diantara mereka memakan tulang. Dan seseorang dari mereka ketika melihat ke langit, ia melihat antara dia dan langit seakan-akan terhalangi oleh asap (karena rasa lapar). Allah berfirman: Maka tunggulah hari ketika langit membawa kabut yang nyata. (QS.Ad Dukhan: 10). Allah juga berfirman: Sesungguhnya (kalau) Kami akan melenyapkan siksaan itu agak sedikit sesungguhnya kamu akan kembali ingkar, (QS.Ad Dukhan: 15). Maka bagaimana adzab akan dihentikan pada hari kiamat, padahal telah berlalu bagi mereka kabut dan hantaman keras?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 65 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ увидел, что эти люди отказываются (принимать ислам), он сказал: “О Аллах, (пошли им) семь (лет засухи), подобных семи (годам её во времена) Йусуфа!” И после этого у них выдался такой (засушливый) год, что все (растения) пропали (и дело дошло до того), что люди стали есть кости, а когда кто-нибудь из них поднимал глаза к небу, то (от голода) ему казалось, что он видит там дым. Аллах сказал: “Так жди же того дня, когда небо принесёт очевидный дым” (сура «Духан», аят 10). И Аллах сказал: “Мы избавим вас от страданий ненадолго, но ведь вы вернетесь к неверию” (сура «Духан», аят 15)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 65 Hadith 215</td></tr></tbody></table></div>
 

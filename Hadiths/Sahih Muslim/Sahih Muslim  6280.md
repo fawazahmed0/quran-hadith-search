@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Never did I feel jealous of any wife amongst the wives of Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata; Saya tidak pernah merasa cemburu kepada para istri Rasulullah shallallahu 'alaihi wasallam yang lain kecuali kepada Khadijah, dikarenakan beliau sering menyebut-nyebutkan kelebihannya. Padahal aku tidak pernah melihatnya sama sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6280</td></tr><tr><td>Arabic No</td><td>2435.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6280</td></tr><tr><td>Arabic No</td><td>2435.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 110</td></tr></tbody></table></div>
 

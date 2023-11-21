@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Five prayers and from on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta [Ali bin Hujr] semuanya dari [Ismail], [Ibnu Ayyub] berkata, telah menceritakan kepada kami [Ismail bin Ja'far] telah mengabarkanku [al-Ala' bin Abdurrahman bin Ya'qub] mantan budak al-Huraqah, dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat lima waktu dan shalat Jum'at ke Jum'at berikutnya adalah penghapus untuk dosa antara keduanya selama tidak melakukan dosa besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>550</td></tr><tr><td>Arabic No</td><td>233.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Совершение) пяти (ежедневных обязательных) молитв, (участие в каждой следующей) пятничной молитве (после предыдущей), служат искуплением прегрешений, совершённых между ними, если только не было (среди этих прегрешений) больших грехов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>550</td></tr><tr><td>Arabic No</td><td>233.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 17</td></tr></tbody></table></div>
 

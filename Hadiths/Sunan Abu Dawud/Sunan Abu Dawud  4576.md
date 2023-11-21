@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:Two women of Hudhail fought together and one of them threw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Bayan] dan [Ibnu As Sarh] keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Sa'id Ibnul Musayyab] dan [Abu Salamah] dari [Abu Hurairah] ia berkata, "Dua orang wanita dari Hudzail saling bunuh, kemudian salah seorang dari mereka memlempar yang lainnya dengan batu hingga tewas. Maka orang-orang mengadukan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam memberi keputusan bahwa diyat bagi janin tersebut adalah budak laki-laki atau perempuan, dan menetapkan bahwa diyat bagi wanita itu harus dibayar oleh para ahli waris atau anak berserta orang-orang yang bergabung dengan mereka." Haml bin Malik bin An Nabighah Al Hudzli berkata, "Wahai Rasulullah, bagaimana aku harus membayar diyat seseorang yang belum minum, belum makan, belum berbicara dan belum menangis? Apa semacam itu tidak memberatkan?" Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Orang ini termasuk kawan-kawan dukun. Hal itu karena ungkapan yang ia katakan." Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Ibnul Musayyab] dari [Abu Hurairah] berkenaan dengan kisah dalam hadits tersebut, ia berkata, "Kemudian wanita yang diberi putusan untuk membayar dengan seorang budak meninggal, maka Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa harta warisannya diberikan kepada anak-anaknya, sedangkan denda itu kepada ashabahnya (ahli waritsnya yang terdekat yang mendapatkan sisa warisan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6910) Sahih Muslim (1681)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4576</td></tr><tr><td>Arabic No</td><td>4576</td></tr><tr><td>Reference</td><td>Book 41 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что две женщины из племени Хузайль подрались и одна убила другую, бросив в неё камнем. Люди обратились к Посланнику Аллаха ﷺ и Посланник Аллаха ﷺ постановил выплатить компенсацию за плод раба или рабыню, а также обязал родственников убившей по отцу выплатить компенсацию за убитую, а наследство (убитой) отдать её детям и другим наследникам. Тогда Хамаль ибн Малик ибн ан-Набига аль-Хузали сказал: «О Посланник Аллаха! Как же я буду платить компенсацию за того, кто не пил, не ел, не разговаривал и не издал ни звука при рождении?!» Тогда Посланник Аллаха ﷺ сказал: «Этот человек брат прорицателей!» Он сказал это потому, что тот говорил рифмованной прозой, (подобно прорицателям)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6910) Sahih Muslim (1681)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4576</td></tr><tr><td>Arabic No</td><td>4576</td></tr><tr><td>Reference</td><td>Book 41 Hadith 83</td></tr></tbody></table></div>
 

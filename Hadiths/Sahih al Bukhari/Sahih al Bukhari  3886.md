@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:That he heard Allah's Messenger (ﷺ) saying, "When
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah menceritakan kepadaku [Abu Salamah bin 'Abdurrahman]; aku mendengar [Jabir bin Abdullah] radliallahu 'anhuma bahwa, dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika kaum Quraisy mendustakan aku (tentang Isra' dan Mi'raj), aku berdiri di al Hijir, lalu Allah menampakkan kepadaku Baitul Maqdis, maka aku mulai menceritakan kepada mereka tentang tanda-tandanya. sedang aku terus melihatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3886</td></tr><tr><td>Arabic No</td><td>3886</td></tr><tr><td>Reference</td><td>Book 63 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира бин ‘Абдуллаха, что он слышал, как Посланник Аллаха ﷺ сказал: «После того как курайшиты объявили мои слова ложью, я встал в аль-Хиджре и Аллах показал мне Иерусалим, а я начал описывать им приметы (города), рассматривая его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3886</td></tr><tr><td>Arabic No</td><td>3886</td></tr><tr><td>Reference</td><td>Book 63 Hadith 111</td></tr></tbody></table></div>
 

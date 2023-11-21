@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:The last hour will 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani] berkata, telah menceritakan kepada kami [Muhammad Fudhail] dari [Umarah] dari [Abu Zur'ah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan tegak hari kiamat hingga matahari terbit dari arah terbenamnya, jika manusia melihat hal itu maka mereka akan beriman semuanya. Dan waktu itu adalah saat 'Tidak bermanfaat lagi iman seseorang bagi dirinya sendiri yang belum beriman sebelum itu, atau dia (belum) mengusahakan kebaikan dalam masa imannya) '-Al An'am
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4635) Sahih Muslim (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4312</td></tr><tr><td>Arabic No</td><td>4312</td></tr><tr><td>Reference</td><td>Book 39 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не наступит Час, пока не взойдёт солнце на западе, а когда оно взойдёт на западе и люди увидят это, все они уверуют, однако это будет то самое время, в которое “не принесёт душе пользы вера её, если не уверовала она прежде или не приобрела блага, будучи верующей” (сура «аль-Ан‘ам», аят 158)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4635) Sahih Muslim (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4312</td></tr><tr><td>Arabic No</td><td>4312</td></tr><tr><td>Reference</td><td>Book 39 Hadith 22</td></tr></tbody></table></div>
 

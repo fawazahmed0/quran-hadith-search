@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported Allah's Messenger (ﷺ) as saying:Whenever you visit the sic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari [Ummu Salamah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kamu menjenguk orang sakit atau orang yang meninggal, maka ucapkanlah (do'a) yang baik, karena malaikat mengaminkan ucapan kalian." Abu Salamah mengkisahkan; Ketika Abu Salamah meninggal, saya mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya Abu Salamah telah meninggal." Maka beliau pun bersabda: "Ucapkanlah, 'ALLAHUMMAGHFIR LII WA LAHU WA'A'QIBNII MINHU UQBAA HASANAH (Ya Allah, ampunilah aku dan ampunilah dia. Dan berilah ganti kematiannya itu bagiku dengan ganti yang lebih baik).'" maka saya pun membacanya, sehingga Allah menggantikan dengan yang lebih baik darinya, yaitu Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2129</td></tr><tr><td>Arabic No</td><td>919</td></tr><tr><td>Reference</td><td>Book 11 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала:– (Однажды) Посланник Аллаха ﷺ сказал: «Когда будете находиться у (постели) больного или покойного, говорите (только) благие (слова), ибо, поистине, что бы вы ни сказали, ангелы станут говорить “Амин”». (Умм Саляма) сказала: «Когда умер (мой муж) Абу Саляма, я пришла к Пророку ﷺ и сказала: «О Посланник Аллаха, Абу Саляма умер». (Выслушав меня, Пророк ﷺ) сказал: «Говори: “О Аллах, прости меня и его и даруй мне хорошую замену ему”/Аллахумма-гъфир ли ва ляху, ва а‘къибни минху ‘укъба хасанатан/». (Умм Саляма) сказала: «И я произнесла (эти слова), а потом Аллах дал мне взамен того, кто был для меня лучше (Абу Салямы), Мухаммада ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2129</td></tr><tr><td>Arabic No</td><td>919</td></tr><tr><td>Reference</td><td>Book 11 Hadith 7</td></tr></tbody></table></div>
 

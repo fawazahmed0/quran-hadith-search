@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd reported Allah's Apostle (ﷺ) as saying to 'Ali:Aren't you satisfied with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ghundar] dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] Aku mendengar [Ibrahim bin Sa'ad] dari [Sa'ad] dari Nabi shallallahu 'alaihi wasallam beliau bersabda kepada Ali; Tidakkah kamu rela bahwa kedudukanmu denganku seperti kedudukan Harun dengan Musa?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6221</td></tr><tr><td>Arabic No</td><td>2404.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6221</td></tr><tr><td>Arabic No</td><td>2404.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 51</td></tr></tbody></table></div>
 

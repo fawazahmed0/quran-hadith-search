@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard the Prophet (ﷺ) saying, "Allah said, 'Who are mos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Ibn Fudlail] dari ['Umarah] dari [Abu Zur'ah] ia mendengar [Abu Hurairah] radliyallahu'anhu berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Allah 'azza wajalla berfirman, 'Siapa yang lebih zhalim daripada orang yang mencipta seperti ciptaan-Ku, hendaklah ia cipta biji sawi, atau biji tepung, atau biji gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7559</td></tr><tr><td>Arabic No</td><td>7559</td></tr><tr><td>Reference</td><td>Book 97 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Сказал Аллах, Всемогущ Он и Велик: “Кто же более несправедлив, чем тот, кто пытался создать нечто подобное Моему творению? Пусть они создадут (хотя бы) маленького муравья, или создадут пшеничное зерно, или ячменное зерно!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7559</td></tr><tr><td>Arabic No</td><td>7559</td></tr><tr><td>Reference</td><td>Book 97 Hadith 184</td></tr></tbody></table></div>
 

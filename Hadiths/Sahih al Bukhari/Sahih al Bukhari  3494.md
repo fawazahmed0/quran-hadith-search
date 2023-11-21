@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "You see that the people are 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] dari Rasulullah Shallallhu 'alaihi wa salam bersabda: "Kalian akan temui manusia beragam asal-usulnya (dan kwalitas perilakunya) maka orang-orang yang baik pada zaman jahiliyyah akan menjadi baik pula pada zaman Islam bila mereka memahami (Islam), dan akan kalian temui pula manusia yang paling baik dalam urusan (khilafah/pemerintahan) ini, yaitu mereka yang tidak selera terhadap jabatan dan akan kalian temui orang yang paling buruk dalam urusan ini adalah mereka yang bermuka dua (Oportunis), dia datang kepada satu golongan dengan wajah (pendapat) tertentu dan datang kepada kelompok lain dengan wajah (pendapat lain) lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3494</td></tr><tr><td>Arabic No</td><td>3494</td></tr><tr><td>Reference</td><td>Book 61 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+«И вы увидите, что худшим из людей является двуличный, который приходит к одним с одним лицом, а к другим — с другим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3494</td></tr><tr><td>Arabic No</td><td>3494</td></tr><tr><td>Reference</td><td>Book 61 Hadith 5</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Salama bin Al-Akwa' said:Allah's Messenger (ﷺ)'s said, "If a man and a woman a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] Telah menceritakan kepada kami [Sufyan] Telah berkata [Amru] dari [Al Hasan bin Muhammad] dari [Jabir bin Abdullah] dan [Salamah bin Al Akwa'] keduanya berkata; Ketika kami berada dalam suatu pasukan perang, Rasulullah shallallahu 'alaihi wasallam mendatangi kami dan bersabda: "Sesungguhnya telah dizinkan bagi kalian untuk melakukan nikah Mut'ah, karena itu lakukanlah." [Ibnu Abu Dzi'b] berkata; Telah menceritakan kepadaku [Iyas bin Salamah bin Al Akwa'] dari [bapaknya] dari Rasulullah shallallahu 'alaihi wasallam, "Bilamana seorang laki-laki dan perempuan telah bersepakat, maka batas maksimal antara mereka berdua adalah tiga malam. Jika keduanya suka, maka keduanya boleh menambah, atau pun berpisah." Aku tidak tahu, apakah perkara itu adalah khusus bagi kami, ataukah juga orang lain secara umum. Abu Abdullah berkata; Dan Ali menjelaskan dari Nabi shallallahu 'alaihi wasallam, bahwa perkara tersebut telah Mansukh (dihapus)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5119</td></tr><tr><td>Arabic No</td><td>5119</td></tr><tr><td>Reference</td><td>Book 67 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘ передал, что Посланник Аллаха ﷺ сказал: «Если мужчина и женщина договорились (заключить временный брак), то он должен длиться три ночи, и если (после этого) они захотят продолжить, (они могут это сделать), если же они захотят расстаться, то пусть расстаются». Саляма ибн аль-Аква‘ добавил: «И я не знаю, было ли это веление только для нас или для всех людей». Абу ’Абдиллях (аль-Бухари) сказал: «’Али разъяснил положение подобного брака, передав от Пророка ﷺ, что он является отменённым /мансух/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5119</td></tr><tr><td>Arabic No</td><td>5119</td></tr><tr><td>Reference</td><td>Book 67 Hadith 55</td></tr></tbody></table></div>
 

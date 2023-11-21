@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmayyah al-Makhzumi: A thief who had accepted (having committed thef
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Ishaq bin Abdullah bin Abu thalhah] dari [Abu Al Mundzir] -mantan budak (yang telah dimerdekakan oleh) Abu Dzar- dari [Abu Umayyah Al Makhzumi] berkata, "Pernah dihadapkan kepada Rasulullah shallallahu 'alaihi wasallam seorang pencuri yang telah mengakui kesalahannya, namun barang yang dicurinya tidak lagi bersamanya. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Benarkah kamu telah mencuri?" Ia menjawab, "Benar." Beliau ulangi pertanyaan itu dua atau tiga kali. Beliau lalu memerintahkan untuk memotong tangannya, setelah itu ia dihadapkan lagi kepada beliau. Beliau bersabda: "Mintalah ampun kepada Allah, bertaubatlah kepada-Nya." Laki-laki itu lalu berkata, "Aku minta ampun kepada Allah dan bertaubat kepada-Nya." Beliau lalu berdoa: "Ya Allah, ampunilah dia." Doa itu beliau ucapkan hingga tiga kali. Abu Dawud berkata, " [Amru bin Ashim] meriwayatkannya dari [Hammam], dari [Ishaq bin Abdullah], ia berkata; dari [Abu Umayyah] -lelaki dari Anshar-, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4380</td></tr><tr><td>Arabic No</td><td>4380</td></tr><tr><td>Reference</td><td>Book 40 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умайи аль-Махзуми, что однажды к Пророку ﷺ привели признавшегося вора, однако при нём не было найдено украденных вещей. Посланник Аллаха ﷺ спросил: «Не думаю, что ты украл». Тот ответил: «Нет, (я это сделал)». (Посланник Аллаха ﷺ) повторил свои слова два или три раза, (но укравший стоял на своём). Тогда он велел отрубить ему руку. Потом этого человека привели, и Посланник Аллаха ﷺ сказал: «Проси прощения у Аллаха и кайся перед Ним». Он сказал: «Прошу у Аллаха прощения и раскаиваюсь перед Ним». Тогда (Посланник Аллаха ﷺ) трижды сказал: «О Аллах, прими его покаяние!», повторив это трижды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4380</td></tr><tr><td>Arabic No</td><td>4380</td></tr><tr><td>Reference</td><td>Book 40 Hadith 30</td></tr></tbody></table></div>
 

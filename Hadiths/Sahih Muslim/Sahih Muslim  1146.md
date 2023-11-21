@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Maimuna, the wife of the Apostle (ﷺ), reported:The Messenger of Allah (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Khalid bin Abdullah] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami ['Abbad bin al-'Awwam] semuanya meriwayatkan dari [asy-Syaibani] dari [Abdullah bin Syaddad bin al-Had] dia berkata, telah menceritakan kepadaku [Maimunah, istri Nabi Shallallahu'alaihiwasallam] dia berkata, "Dahulu Rasulullah shallallahu'alaihiwasallam sedang shalat, aku biasa berada di bagian kaki beliau, padahal aku sedang haid. Apabila beliau sujud, bajunya seringkali mengenaiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1146</td></tr><tr><td>Arabic No</td><td>513</td></tr><tr><td>Reference</td><td>Book 4 Hadith 308</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Шаддада, что Маймуна, жена Пророка ﷺ сказала: «Посланник Аллаха ﷺ часто молился, а я находилась у его ног, когда у меня была менструация. И иногда его одежда касалась меня, когда он совершал земной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1146</td></tr><tr><td>Arabic No</td><td>513</td></tr><tr><td>Reference</td><td>Book 4 Hadith 308</td></tr></tbody></table></div>
 

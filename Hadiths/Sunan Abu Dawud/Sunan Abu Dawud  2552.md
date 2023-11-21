@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Bashir Al Ansari said that he was with the Apostle of Allaah(ﷺ) on one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik], dari [Abdullah bin Abu Bakr bin Muhammad bin 'Amr bin Hazm], dari ['Abbad bin Tamim], bahwa [Abu Basyir Al Anshari] telah mengabarkan kepadanya bahwa ia pernah bersama Rasulullah shallallahu wa'alaihi wa sallam dalam sebagian perjalanannya. Kemudian Rasulullah shallallahu wa'alaihi wa sallam mengirim sebuah utusan. Abdullah bin Abu Bakr berkata; aku mengira ia berkata; dan orang-orang sedang berada di tempat mereka bermalam. Utusan tersebut mengumumkan; tidak boleh ada tali busur dan kalung tertinggal di leher unta kecuali diputus. Malik berkata; aku melihat bahwa hal tersebut dengan tujuan untuk menangkal 'ain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3005) Sahih Muslim (2115)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2552</td></tr><tr><td>Arabic No</td><td>2552</td></tr><tr><td>Reference</td><td>Book 15 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3005) Sahih Muslim (2115)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2552</td></tr><tr><td>Arabic No</td><td>2552</td></tr><tr><td>Reference</td><td>Book 15 Hadith 76</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Bakr ibn Mubashshir al-Ansari: I used to go to the place of prayer on t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamzah bin Nushair] telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Ibrahim bin Suwaid] telah mengabarkan kepadaku [Unais bin Abu Yahya] telah mengabarkan kepadaku [Ishaq bin Salim bekas budak Naufal bin 'Adi] telah mengabarkan kepadaku [Bakr bin Mubasyir Al Anshari] dia berkata; "Aku berangkat untuk melaksanakan shalat Iedul Fithri dan Iedul Adha bersama sahabat-sahabat Rasulullah shallallahu 'alaihi wasallam. Ketika pergi, kami melewati lembah Bathhan hingga sampai di tempat shalat, lalu kami shalat bersama Rasulullah shallallahu 'alaihi wasallam, ketika kami pulang ke rumah masing-masing, kami juga lewat lembah Bathhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1158</td></tr><tr><td>Arabic No</td><td>1158</td></tr><tr><td>Reference</td><td>Book 2 Hadith 769</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Бакра ибн Мубашшира аль-Ансари, да будет доволен им Аллах: «Я шёл вместе со сподвижниками Посланника Аллаха ﷺ к месту совершения молитвы в дни праздника разговения и праздника жертвоприношения, и туда мы шли через (мединскую) долину Батхан, а помолившись в месте совершения молитвы, возвращались вместе с посланником Аллаха ﷺ в наши дома также через долину Батхан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1158</td></tr><tr><td>Arabic No</td><td>1158</td></tr><tr><td>Reference</td><td>Book 2 Hadith 769</td></tr></tbody></table></div>
 

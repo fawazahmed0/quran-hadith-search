@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:During the Prophet's fatal illness, he used to recite the Mu'auw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam meniupkan kepada diri beliau sendiri dengan Mu'awwidzat (surat An nas dan Al falaq) ketika beliau sakit menjelang wafatnya, dan tatkala sakit beliau semakin parah, sayalah yang meniup dengan kedua surat tersebut dan saya megusapnya dengan tangan beliau sendiri karena berharap untuk mendapat berkahnya." Aku bertanya kepada Az Zuhri; "Bagaimana cara meniupnya?" dia menjawab; "Beliau meniup kedua tangannya, kemudian beliau mengusapkan ke wajah dengan kedua tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5735</td></tr><tr><td>Arabic No</td><td>5735</td></tr><tr><td>Reference</td><td>Book 76 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ болел той болезнью, от которой умер, он читал для себя защищающие суры (“аль-Ихляс”, “аль-Фаляк” и “ан-Нас”), поплёвывая, когда же ему стало совсем плохо, я читала для него эти суры и протирала его тело его же рукой, надеясь на её благодать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5735</td></tr><tr><td>Arabic No</td><td>5735</td></tr><tr><td>Reference</td><td>Book 76 Hadith 50</td></tr></tbody></table></div>
 

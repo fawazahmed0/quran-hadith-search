@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) (p.b.u.h) said, "Any person who tak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Sumayya] mantan budak Abu Bakar bin 'Abdurrahman, dari [Abu Shalih As Saman] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mandi pada hari Jum'at sebagaimana mandi janabah, lalu berangkat menuju Masjid, maka dia seolah berkurban seekor unta. Dan barangiapa datang pada kesempatan (saat) kedua maka dia seolah berkurban seekor sapi. Dan barangiapa datang pada kesempatan (saat) ketiga maka dia seolah berkurban seekor kambing yang bertanduk. Dan barangiapa datang pada kesempatan (saat) keempat maka dia seolah berkurban seekor ayam. Dan barangiapa datang pada kesempatan (saat) kelima maka dia seolah berkurban sebutir telur. Dan apabila imam sudah keluar (untuk memberi khuthbah), maka para Malaikat hadir mendengarkan dzikir (khuthbah tersebut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>881</td></tr><tr><td>Arabic No</td><td>881</td></tr><tr><td>Reference</td><td>Book 11 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, кто в пятницу совершит такое же большое омовение /гусль/, какое совершают после большого осквернения /джанаба/, а затем (пораньше) отправится (на намаз в мечеть), уподобится принесшему в жертву (Аллаху) верблюда; отправившийся (на намаз) во второй час уподобится принесшему в жертву корову; отправившийся в третий час уподобится принесшему в жертву рогатого барана; отправившийся в четвертый час уподобится принесшему в жертву курицу, а отправившийся в пятый час — принесшему в жертву яйцо, когда же выйдет имам, ангелы явятся, чтобы послушать (слова) поминания (Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>881</td></tr><tr><td>Arabic No</td><td>881</td></tr><tr><td>Reference</td><td>Book 11 Hadith 6</td></tr></tbody></table></div>
 

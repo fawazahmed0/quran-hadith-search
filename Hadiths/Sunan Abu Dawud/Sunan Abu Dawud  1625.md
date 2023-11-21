@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibrahim ibn Ata, the client of Imran ibn Husayn, reported on the authority of hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Nashr bin Ali], telah mengabarkan kepada Kami [ayahku], telah mengabarkan kepada Kami [Ibrahim bin 'Atha'] mantan budak Imran bin Hushain dari [ayahnya] bahwa Ziyad atau sebagian pemimpin telah mengutus [Imran bin Hushain] untuk mengambil, kemudian tatkala ia kembali maka Ziyad bertanya kepadanya; dimanakah hartanya? Dia menjawab; apakah untuk harta engkau mengutusku? Kami telah mengambilnya dari tempat yang dahulu Kami pada masa Rasulullah shallla Allahu 'alaihi wa sallam mengambilnya dan Kami telah menempatkannya di tempat yang dahulu Kami tempatkan pada masa Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1625</td></tr><tr><td>Arabic No</td><td>1625</td></tr><tr><td>Reference</td><td>Book 9 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибрахим ибн ‘Ата, вольноотпущенник ‘Имрана ибн Хусайна, передаёт от своего отца, что Зияд или другой наместник послал ‘Имрана ибн Хусайна в качестве сборщика закята. Когда ‘Имран вернулся, тот спросил: «Где имущество?» ‘Имран спросил вместо ответа: «А ты за имуществом меня посылал? Мы взяли его оттуда, откуда брали во времена Посланника Аллаха ﷺ и отдали его туда, куда отдавали во времена Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1625</td></tr><tr><td>Arabic No</td><td>1625</td></tr><tr><td>Reference</td><td>Book 9 Hadith 70</td></tr></tbody></table></div>
 

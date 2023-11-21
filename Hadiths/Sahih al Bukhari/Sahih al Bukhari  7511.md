@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "The person who will be the las
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Khalid] telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Israil] dari [Manshur] dari [Ibrahim] dari ['Abidah] dari ['Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia yang terakhir kali masuk surga dan terakhir kali keluar dari neraka adalah seseorang yang keluar dengan merangkak, lantas tuhannya berkata, 'Masuklah kamu dalam surga.' Orang tersebut kemudian berkata, 'Wahai Tuhanku, surga sudah sesak! ' Allah mengulangi firman-Nya hingga tiga kali, namun si hamba terus menjawabnya dengan mengatakan 'Surga sudah penuh'. Maka Allah berfirman: 'Sesungguhnya surga bagimu seperti dunia dikalikan sepuluhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7511</td></tr><tr><td>Arabic No</td><td>7511</td></tr><tr><td>Reference</td><td>Book 97 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Мас‘уда, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Поистине, последним из обитателей Рая, вошедшим в Рай, и последним из обитателей Ада, вышедшим из Ада, станет человек, который выползет на четвереньках. И скажет ему его Господь: “Войди в Рай”, но он ответит: “Господи, Рай уже наполнен”. Аллах повторит ему это трижды, и каждый раз человек будет отвечать: “Рай уже наполнен”. Тогда скажет Аллах: “Поистине, тебе достанется подобие всего прежнего мира в десятикратном размере”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7511</td></tr><tr><td>Arabic No</td><td>7511</td></tr><tr><td>Reference</td><td>Book 97 Hadith 136</td></tr></tbody></table></div>
 

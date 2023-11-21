@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] -sesuai yang telah dibacakan kepadanya- dari [Sumayy] Maula Abu Bakar, dari [Abu Shalih As Samman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mandi seperti mandi janabah pada hari jum'at, kemudian ia pergi ke masjid pada waktu yang pertama, maka pahalanya seperti pahala berkurban seekor unta. Siapa yang pergi ke masjid pada waktu kedua, maka pahalanya seperti berkorban seekor sapi. Dan siapa yang pergi ke masjid pada waktu yang ketiga, maka pahalanya seperti berkurban seekor kambing. Dan siapa yang pergi ke masjid pada waktu yang keempat, maka pahalanya seperti pahala berkorban dengan seekor ayam. Dan siapa yang tiba di masjid pada waktu yang kelima, maka pahalanya seperti berkurban sebutir telur. Apabila imam telah keluar, para malaikat hadir untuk mendengarkan khutbah (dan tidak ada lagi yang mencatat setelah itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1964</td></tr><tr><td>Arabic No</td><td>850.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если человек искупается в пятницу (подобно тому, как он) купается после полового осквернения, а затем отправится (в мечеть) в первый час (дня), то он словно принёс в жертву верблюда. А кто отправится (в мечеть) во второй час (дня), то он словно принёс в жертву корову. А кто отправится (в мечеть) в третий час (дня), то он словно принёс в жертву рогатого барана. А кто отправится (в мечеть) в четвёртый час (дня), то он словно принёс в жертву курицу. А кто отправится (в мечеть) в пятый час (дня), то он словно принёс в жертву яйцо. Когда же имам выходит (к людям), приходят ангелы, чтобы послушать напоминание»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1964</td></tr><tr><td>Arabic No</td><td>850.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 14</td></tr></tbody></table></div>
 

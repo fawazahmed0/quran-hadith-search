@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Abbas said:The Quranic verse :”O ye who believe ,approach not prayer with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] telah menceritakan kepada kami [Ali bin Husain] dari [Ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] ia membaca: '(Hai orang-orang yang beriman, janganlah kamu shalat, sedang kamu dalam keadaan mabuk…) ' (Qs. An Nisaa': 41). Dan ayat: '(Mereka bertanya kepadamu tentang khamer dan judi. Katakanlah: "Pada keduanya terdapat dosa yang besar dan beberapa manfaat bagi manusia.....) ' (Qs. Al Baqarah: 219), ia berkata, "Kedua ayat tersebut dihapus dan digantikan oleh ayat yang terdapat dalam Surat Al Maaidah: 91: '(Sesungguhnya (meminum) khamar, berjudi, (berkorban untuk) berhala…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3672</td></tr><tr><td>Arabic No</td><td>3672</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что аяты «О те, которые уверовали! Не приближайтесь к молитве, будучи пьяными» (сура “ан-Ниса”, аят 43) и «Они спрашивают тебя о вине и азартных играх. Скажи: “В них есть большой грех, но есть и польза для людей”» (сура “аль-Бакара”, аят 219) были отменены аятом из суры «аль-Маида»: «Воистину, опьяняющие напитки, азартные игры, каменные жертвенники (или идолы) и гадальные стрелы являются скверной из деяний шайтана. Сторонитесь же её быть может, вы преуспеете. Воистину, шайтан при помощи опьяняющих напитков и азартных игр хочет посеять между вами вражду и ненависть и отвратить вас от поминания Аллаха и молитвы. Неужели вы не прекратите?» (сура “аль-Маида”, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3672</td></tr><tr><td>Arabic No</td><td>3672</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
 

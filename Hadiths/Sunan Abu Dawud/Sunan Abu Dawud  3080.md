@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zaynab: She was picking lice from the head of the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahid bin Ghiyats], telah menceritakan kepada kami [Abdul Wahid bin Ziyad], telah menceritakan kepada kami [Al A'masy] dari [Jami' bin Syaddad] dari [Kultsum] dari [Zainab], bahwa ia mencari kutu dari kepala Rasulullah shallallahu 'alaihi wasallam sementara bersama beliau terdapat isteri Utsman bin Affan dan para wanita muhajirin, mereka mengadukan tempat tinggal mereka yang terasa sempit bagi mereka, dan mereka dikeluarkan darinya. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan agar rumah-rumah orang-orang muhajirin diwariskan kepada para isteri. Kemudian Abdullah bin Mas'ud meninggal dan isterinya mendapat warisan rumahnya yang berada di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3080</td></tr><tr><td>Arabic No</td><td>3080</td></tr><tr><td>Reference</td><td>Book 20 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейнаб, да будет доволен ею Аллах, что она осматривала голову Посланника Аллаха ﷺ, а в это время у него сидели жена ‘Усмана ибн ‘Аффана и женщины мухаджиров. Они жаловались, что им слишком тесно в их домах и к тому же их выселяют оттуда. Тогда Посланник Аллаха ﷺ велел, чтобы женщины наследовали дома мухаджиров. И когда ‘Абдуллах ибн Мас‘уд умер, его жена унаследовала дом в Медине
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3080</td></tr><tr><td>Arabic No</td><td>3080</td></tr><tr><td>Reference</td><td>Book 20 Hadith 153</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Isma'il bin Muslim Al 'Abdi] telah menceritakan kepada kami [Abu Al Mutawakil An Naji] dari [Abu Sa'id Al Khudri] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Emas ditukar dengan emas, perak ditukar dengan perak, gandum ditukar dengan gandum, jewawut ditukar dengan jewawut, kurma ditukar dengan kurma, garam ditukar dengan garam, (tidak mengapa) jika sama takarannya dan langsung serah terima (tunai). Barangsiapa melebihkan atau lebih, maka ia telah melakukan praktek riba, baik yang mengambil atau yang memberi." Telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Sulaiman Ar Raba'i] telah menceritakan kepada kami [Abu Al Mutawakil An Naji] dari [Abu Sa'id Al Khudri] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Emas ditukar dengan emas (tidak mengapa) jika sama takarannya …", kemudian dia menyebutkan hadits seperti di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4064</td></tr><tr><td>Arabic No</td><td>1584.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4064</td></tr><tr><td>Arabic No</td><td>1584.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 103</td></tr></tbody></table></div>
 

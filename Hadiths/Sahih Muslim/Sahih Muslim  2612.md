@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with both of them) reported that in the cou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] semuanya dari [Muhammad bin Ja'far] - [Abu Bakar] berkata- Telah menceritakan kepada kami [Ghundar] dari [Syu'bah] dari [Muhammad bin Abdurrahman bin Sa'd] dari [Muhammad bin Amru bin Al Hasan] dari [Jabir bin Abdullah] radliallahu 'anhuma, ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam berada dalam suatu perjalanan, lalu beliau melihat seorang laki-laki dikerumuni oleh orang banyak dan dibawa ke tempat yang teduh. Beliau bertanya, "Mengapa dia?" mereka menjawab, "Ia sedang berpuasa." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Bukanlah termasuk kebaikan, jika kalian berpuasa saat dalam perjalanan." Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Abdurrahman] ia berkata, saya mendengar [Muhamamd bin Amru bin Al Hasan] menceritakan dari [Jabir bin Abdullah] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam melihat seorang laki-laki.., yakni serupa dengan hadits di atas. Dan telah menceritakannya kepada kami [Ahmad bin Utsman An Naufali] telah menceritakan kepada kami [Abu Dawud] telah menceritakan kepada kami [Syu'bah] dengan isnad ini, semisalnya. Dan ia menambahkan; Syu'bah berkata; Telah sampai kepadaku dari Yahya bin Abu Katsir bahwa ia menambahkan di dalam hadits dan isnad ini, ia berkata; "Hendaklah kalian menerima rukhshah (keringanan) dari Allah, yang Dia karuniakan kepada kalian." Ia berkata; Ketika aku tanyakan kepadanya, ia tidak menghafalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2612</td></tr><tr><td>Arabic No</td><td>1115.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2612</td></tr><tr><td>Arabic No</td><td>1115.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 118</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If someone leaves some property, i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari ['Adiy bin Tsabit] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang (mati) meninggalkan harta maka hartanya itu untuk ahli warisnya dan siapa yang meninggalkan keluarga yang miskin maka menjadi tangungan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 43 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если кто-то оставил имущество, оно достаётся наследникам, а если кто-то оставил тех, кто был на его содержании, то по этому поводу обращайтесь к нам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 43 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid? bin Khalid bin Mauhib Ar Ramli], dan [Hisyam bin 'Ammar], mereka berkata; telah menceritakan kepada kami [Yahya], Abu Daud berkata; ia adalah Ibnu Hamzah, dari [Abdul Aziz bin Umar], ia berkata; saya mendengar [Abdullah bin Mauhib] menceritakan kepada Umar bin Abdul Aziz, dari [Qabishah bin Dzuaib], Hisyam berkata; dari [Tamim Ad Dari], bahwa ia berkata; wahai Rasulullah, -sedangkan Yazid? berkata; sesungguhnya Tamim berkata; wahai Rasulullah, apakah sunnah bagi seorang laki-laki yang masuk Islam di hadapan seorang muslim? Beliau bersabda: "Ia adalah yang lebih layak untuk membela muslim tersebut dikala hidup dan matinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2918</td></tr><tr><td>Arabic No</td><td>2918</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Тамима ад-Дари, да будет доволен им Аллах, что он сказал: «О Посланник Аллаха, что если какой-нибудь человек принимает ислам от какого-то мусульманина?» (Посланник Аллаха ﷺ) сказал: «И при жизни, и после смерти он ближе к нему, чем кто бы то ни было из людей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2918</td></tr><tr><td>Arabic No</td><td>2918</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
 

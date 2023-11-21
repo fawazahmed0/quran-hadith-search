@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to offer his prayer (while standing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Adl Dluha] dari [Masruq] dari [Aisyah] radliallahu 'anha dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat di atas kasur, sementara aku terlentang antara beliau dan Kiblat, ketika itu aku hendak buang hajat, dan aku tidak suka jika berdiri, hingga akhirnya aku menghadap beliau dan mundur secara pelan-pelan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6276</td></tr><tr><td>Arabic No</td><td>6276</td></tr><tr><td>Reference</td><td>Book 79 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллах ﷺ совершал молитву (стоя) у середины кровати, а я в это момент лежала (на кровати) между ним и киблой. Если же у меня возникала нужда, и я не хотела находиться перед ним, то я проскальзывала (из-под одеяла)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6276</td></tr><tr><td>Arabic No</td><td>6276</td></tr><tr><td>Reference</td><td>Book 79 Hadith 50</td></tr></tbody></table></div>
 

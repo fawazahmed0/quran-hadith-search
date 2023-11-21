@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:While performing the Tawaf around the Ka'ba, the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] bahwasanya [Ibnu Juraij] mengabari mereka dengan mengatakan, telah mengabarkan kepadaku [Sulaiman bin Al Ahwal], bahwa [Thawus] mengabarkan kepadanya dari [Ibnu 'Abbas] radliallahu 'anhuma, Nabi shallallahu 'alaihi wasallam ketika thawaf di ka'bah melewati seseorang yang menuntun seseorang dengan tali di hidungnya, Nabi shallallahu 'alaihi wasallam memotongnya dengan tangannya kemudian menyuruhnya untuk menuntunnya dengan menggandeng tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6703</td></tr><tr><td>Arabic No</td><td>6703</td></tr><tr><td>Reference</td><td>Book 83 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передал, что когда во время совершения обхода Каабы Пророк ﷺ прошёл мимо какого-то человека, которого вели за волосяное кольцо в носу (, так как дал такой обет), он собственноручно разрезал это кольцо, а потом повелел вести его за руку
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6703</td></tr><tr><td>Arabic No</td><td>6703</td></tr><tr><td>Reference</td><td>Book 83 Hadith 80</td></tr></tbody></table></div>
 

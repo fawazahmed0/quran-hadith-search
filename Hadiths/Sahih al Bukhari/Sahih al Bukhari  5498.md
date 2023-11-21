@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:We were with the Prophet (ﷺ) in Dhul-Hulaifa and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Said bin Masruq] dari [Abayah bin Rifa'ah bin Rafi'] dari kakeknya [Rafi' bin Khadij] ia berkata, "Saat kami berada di Dzul Hulaifah bersama Nabi shallallahu 'alaihi wasallam, orang-orang merasakan lapar. Kemudian kami mendapatkan unta dan kambing, sementara saat itu Nabi shallallahu 'alaihi wasallam masih bersama rombongan yang ada di belakang (terakhir). Orang-orang pun segera membuat tungku dan memasang periuk, ketika Nabi shallallahu 'alaihi wasallam sampai di tempat mereka, maka beliau pun memerintahkan agar periuk tersebut ditumpahkan isinya, lalu ditumpahkanlah periuk tersebut. Beliau kemudian membagi-bagikan harta ghanimah dan menyamakan sepuluh kambing dengan seekor unta. Lalu lepaslah seekor unta dari mereka, padahal mereka hanya memiliki kuda yang lemah. Mereka kemudian mengejar unta tersebut hingga merasa kelelahan, lalu salah seorang dari mereka memanahnya dengan panah hingga Allah pun menjadikan unta tersebut tertahan (tertangkap). Nabi shallallahu 'alaihi wasallam lalu bersabda: "Sesungguhnya di antara binatang ini (unta) ada yang beringas, maka jika kalian mengalami yang seperti ini, hendaklah kalian lakukan seperti tadi." Abayah berkata, "Kakekku berkata, "Kami sangat khawatir ketika esok hari bertemu dengan musuh, kami tidak lagi memiliki pisau tajam, maka apakah boleh jika kami menyembelihnya dengan kayu yang tajam?" Beliau menjawab: "Apa saja yang dapat mengalirkan darah dan disebut nama Allah atasnya, maka makanlah. Kecuali As-Sin dan kuku. Aku jelaskan kepada kalian; As-Sin adalah tulang, sedangkan kuku karena itu adalah alat penyembelihan orang-orang Habasyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5498</td></tr><tr><td>Arabic No</td><td>5498</td></tr><tr><td>Reference</td><td>Book 72 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ сказал: «(Однажды, когда) мы вместе с Пророком ﷺ находились в Зуль-Хулейфе, люди, которые начали страдать от голода, захватили верблюдов и овец. Пророк ﷺ находился позади людей, (которые поспешили, стали закалывать животных) и ставить котлы (на огонь, а через некоторое время он подошёл к ним), велел опрокинуть котлы и стал делить (добычу), приравняв десять овец к одному верблюду. При этом один верблюд убежал, и люди гонялись за ним, пока не лишились сил, (так как в то время) лошадей у них было мало, (но в конце концов) один из них пустил (в этого верблюда) стрелу, и так Аллах остановил его. Потом (Пророк ﷺ) сказал: “Поистине, некоторые из этих животных одичали и стали подобны диким зверям, и если какое-нибудь из них не подчинится вам, поступайте с ним так же”. Затем мой дед сказал: “Поистине, мы думаем (или: мы опасаемся), что завтра здесь будет враг, а у нас нет ножей, так можно ли нам резать (животных) тростником?” (Пророк ﷺ) сказал: “(Пользуйтесь) всем, с помощью чего можно выпустить кровь, и ешьте всё то, над чем было произнесено имя Аллаха, но не (закалывайте животных) клыками и когтями, и я скажу вам (почему): что касается зубов, то это — кости, что же касается когтей, то они используются как ножи эфиопами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5498</td></tr><tr><td>Arabic No</td><td>5498</td></tr><tr><td>Reference</td><td>Book 72 Hadith 24</td></tr></tbody></table></div>
 

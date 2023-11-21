@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ One of the wives of the Prophet (ﷺ) narrated:The Prophet (ﷺ) said, "A Muhrim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1827</td></tr><tr><td>Arabic No</td><td>1827</td></tr><tr><td>Reference</td><td>Book 28 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Одна из жён Пророка ﷺ рассказала мне, что Пророк ﷺ сказал: “В состоянии ихрама человек может убить (пять видов животных)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1827</td></tr><tr><td>Arabic No</td><td>1827</td></tr><tr><td>Reference</td><td>Book 28 Hadith 7</td></tr></tbody></table></div>
 

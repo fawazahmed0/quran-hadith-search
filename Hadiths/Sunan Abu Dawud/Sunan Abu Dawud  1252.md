@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abd Allah b. 'Umar:The Messenger of Allah (ﷺ) would pray two rak'ahs 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam biasa mengerjakan shalat (sunnah) dua raka'at sebelum dan setelah Dluhur, dua raka'at di rumahnya setelah Maghrib, dua raka'at setelah Isya', dan beliau tidak mengerjakan shalat sunnah setelah Jum'at, sehingga beliau pergi (ke rumah) kemudian shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (937) Sahih Muslim (882)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1252</td></tr><tr><td>Arabic No</td><td>1252</td></tr><tr><td>Reference</td><td>Book 5 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ совершал два рак‘ата перед полуденной молитвой и два рак‘ата после неё, два рак‘ата после закатной молитвы у себя дома и два рак‘ата после вечерней молитвы. И после пятничной молитвы он не молился, пока не уходил (домой), и только потом совершал дополнительную молитву в два рак‘ата
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (937) Sahih Muslim (882)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1252</td></tr><tr><td>Arabic No</td><td>1252</td></tr><tr><td>Reference</td><td>Book 5 Hadith 3</td></tr></tbody></table></div>
 

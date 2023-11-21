@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), Le fait de déclarer que sa f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Hisyam yaitu Ad Dastawa'i] dia berkata; [Yahya bin Abu Katsir] menulis sesuatu kepdaku, bahwa dia bercerita dari [Ya'la bin Hakim] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata: Di tanah haram (suci) itu terdapat satu janji yang telah ditunaikan kaffarahnya. Lalu Ibnu Abbas membaca Firman Allah Ta'ala: "Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3676</td></tr><tr><td>Arabic No</td><td>1473.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3676</td></tr><tr><td>Arabic No</td><td>1473.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 25</td></tr></tbody></table></div>
 

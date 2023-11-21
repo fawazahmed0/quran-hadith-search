@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Blood-wit for ever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Fudhail bin Husain] bahwa [Khalid Ibnul Harits] menceritakan kepada mereka, ia berkata; telah mengabarkan kepada kami [Husain] -maksudnya Husain Al Mu'allim- dari [Amru bin Syu'aib] bahwa [Bapaknya] mengabarkan kepadanya dari [Abdullah bin Amru] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Diyat untuk tiap gigi yang nampak saat tertawa adalah lima (ekor unta)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4566</td></tr><tr><td>Arabic No</td><td>4566</td></tr><tr><td>Reference</td><td>Book 41 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, о том, что Посланник Аллаха ﷺ сказал: «За рану до кости следует отдавать пять верблюдов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4566</td></tr><tr><td>Arabic No</td><td>4566</td></tr><tr><td>Reference</td><td>Book 41 Hadith 73</td></tr></tbody></table></div>
 

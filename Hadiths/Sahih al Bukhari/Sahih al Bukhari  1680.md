@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Sauda asked the permission of the Prophet (ﷺ) to leave earlier
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] telah menceritakan kepada kami ['Abdurrahman] dia adalah Ibnu Al Qasim dari [Al Qasim] dari ['Aisyah radliallahu 'anha] berkata: "Saudah radliallahu 'anha meminta izin kepada Nabi Shallallahu'alaihiwasallam pada malam ketika berada di Jama' (Muzdalifah) untuk berangkat terlebih dahulu, karena dia termasuk wanita yang lambat, maka Beliau mengizinkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1680</td></tr><tr><td>Arabic No</td><td>1680</td></tr><tr><td>Reference</td><td>Book 25 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «В ночь Муздалифы Сауда, которая была тучной и медлительной женщиной, попросила у Пророка ﷺ разрешения покинуть (это место пораньше), и он разрешил ей это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1680</td></tr><tr><td>Arabic No</td><td>1680</td></tr><tr><td>Reference</td><td>Book 25 Hadith 160</td></tr></tbody></table></div>
 

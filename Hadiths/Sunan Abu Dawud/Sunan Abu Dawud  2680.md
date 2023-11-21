@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sawdah daughter of Zam'ah: Yahya ibn Abdullah said: When the captives (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Amr Ar Razi], ia berkata; telah menceritakan kepada kami [Salamah bin Al Fadhl] dari [Ibnu Ishaq], ia berkata; telah menceritakan kepadaku [Abdullah bin Abu Bakr] dari [Yahya bin Abdullah bin Abdurrahman bin Sa'd bin Zurarah], ia berkata; telah di hadapkan beberapa tawanan kepada 'Auf dan 'Mu'awwidz kedua anak 'Afra' ketika [Saudah binti Zam'ah] berada di rumah keluarga 'Afra' di tempat penambatan unta mereka, dan hal tersebut sebelum diwajibkannya berhijab. Yahya berkata; Saudah berkata; demi Allah, aku berada di rumah mereka tatkala aku datang. Kemudian dikatakan; para tawanan ini telah dibawa. Kemudian aku kembali ke rumahku dan Rasulullah shallallahu 'alaihi wasallam berada di dalamnya. Dan ternyata Abu Yazid Suhail bin 'Amr berada di pojok ruangan tangannya terikat di lehernya dengan sebuah tali. Kemudian Yahya menyebutkan hadits tersebut. Abu Daud berkata; dan keduanya telah membunuh Abu Jahl bin Hisyam, dan keduanya telah menyambutnya dan tidak mengenalnya, dan mereka berdua terbunuh pada saat perang Badr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2680</td></tr><tr><td>Arabic No</td><td>2680</td></tr><tr><td>Reference</td><td>Book 15 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2680</td></tr><tr><td>Arabic No</td><td>2680</td></tr><tr><td>Reference</td><td>Book 15 Hadith 204</td></tr></tbody></table></div>
 

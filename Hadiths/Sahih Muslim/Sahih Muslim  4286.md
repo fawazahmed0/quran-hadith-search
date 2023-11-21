@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Prophet (ﷺ) as saying that Sulaiman b. Dawud, the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abbad] dan [Ibnu Abu Umar] dan ini adalah lafadz Ibnu Abu Umar, keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Hisyam bin Hujair] dari [Thawus] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Nabi Allah Sulaiman bin Daud pernah berkata, 'Sungguh aku akan menggilir tujuh puluh isteriku dalam satu malam, yang nantinya masing-masing mereka akan melahirkan seorang anak laki-laki yang akan berjuang di jalan Allah', lantas sahabatnya -atau Malaikat- memberi saran, 'Ucapkanlah 'Insya Allah'.' Namun dia lupa mengucapkannya. Ternyata tidak seorang pun dari isterinya yang melahirkan kecuali hanya seorang isteri yang melahirkan seorang anak yang cacat." Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya dia mengucapkan 'Insya Allah', tentu dia tidak akan melanggar sumpahnya, dan apa yang dihajatkannya akan terkabul." Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abu Az Zannad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4286</td></tr><tr><td>Arabic No</td><td>1654.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4286</td></tr><tr><td>Arabic No</td><td>1654.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
 

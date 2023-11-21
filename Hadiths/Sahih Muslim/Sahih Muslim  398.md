@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakannya kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ishaq bin Yusuf al-Azraq] semuanya dari [Fudlail bin Ghazwan]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-Ala'] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Ibnu Fudlail] dari [bapaknya] dari [Abu Hazim] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga perkara yang apabila keluar niscaya tidak akan bermanfaat iman seseorang yang sebelumnya beriman atau sebelumnya berusaha berbuat baik pada imannya, yaitu: terbitnya matahair dari barat, keluarnya Dajjal, dan makhluk melata di bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>158</td></tr><tr><td>Reference</td><td>Book 1 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Не принесёт человеку пользы вера его, если не уверует он раньше и не обретёт блага в вере своей, когда будут явлены три (знамения): восход солнца оттуда, где оно заходит, (появление) Даджаля и (появление из) земли животного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>158</td></tr><tr><td>Reference</td><td>Book 1 Hadith 303</td></tr></tbody></table></div>
 

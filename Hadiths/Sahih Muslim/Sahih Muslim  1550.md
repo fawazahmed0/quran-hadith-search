@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asim reported - I heard Anas saying:Never did I ace the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari ['Ashim] katanya; aku mendengar [Anas] mengtaakan; "Belum pernah aku melihat Rasulullah shallallahu 'alaihi wasallam sedemikian murkanya karena kehilangan pasukannya, sebagaimana kemurkaan beliau ketika kehilangan tujuh puluh sahabatnya yang terbantai pada peristiwa Bi'ru Ma'unah, ketujuh puluh sahabat tersebut digelari Qurra' (para Ahlul Qur'an), oleh karena itu selama sebulan penuh beliau mendoakan kecelakaan kepada kaum yang telah membunuhnya." Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Hafs] dan [Ibnu Fudlail] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibn Abu Umar] telah menceritakan kepada kami [Marwan] semuanya dari ['Ashim] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan hadis seperti ini, dan satu sama lain saling menambah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1550</td></tr><tr><td>Arabic No</td><td>677.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 383</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас сказал: «Я не видел, чтобы Посланник Аллаха ﷺ скорбел по военному отряду так же, как он скорбел по тем, кто был убит у Биър Ма‘уна, которых называли “чтецами”. В течении месяца он призывал (Аллаха) против тех, кто их убил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1550</td></tr><tr><td>Arabic No</td><td>677.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 383</td></tr></tbody></table></div>
 

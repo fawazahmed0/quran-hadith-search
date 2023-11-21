@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr bin Shu'aib, on his father's authority, said that his grandfather reported:H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Abu Syu'aib Al Harrani], telah menceritakan kepada Kami [Musa bin A'yan] dari ['Amr bin Al Harits Al Mishri] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya], ia berkata: Hilal salah seorang dari Bani Mut'an datang kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa sepersepuluh dari hasil madunya, ia pernah meminta Rasulullah shallla Allahu 'alaihi wa sallam agar melindungi bukitnya yang bernama Salabah, dan Rasulullah shallla Allahu 'alaihi wa sallam pun melindunginya. Dan ketika Umar ditunjuk menjadi khalifah, Sufyan bin Wahb bertanya mengenai hal itu, kemudian Umar radliallahu 'anhu menulis surat kepadanya; jika dia menunaikan zakatnya kepada kalian sebagaimana yang telah dia berikan kepada Rasulullah shallla Allahu 'alaihi wa sallam, maka lindungilah bukit Salabahnya, jika tidak, maka sesungguhnya madu itu adalah terambil dari lebah hujan yang dapat dimakan oleh siapapun yang menghendakinya. Telah menceritakan kepada Kami [Ahmad bin Abdah Adh Dhabbi], telah menceritakan kepada Kami [Al Mughirah] dan ia menisbatkannya kepada Abdurrahman bin Al Harits Al Makhzumi, ia berkata; telah menceritakan kepada Kami [ayahku] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa Syababah pertengahan daerah Fahm ….. kemudian ia menyebutkan seperti itu. Ia berkata; dari setiap sepuluh griba terdapat zakat satu geriba. Sufyan bin Abdullah Ats Tsaqafi berkata; "Umar melindungi dua bukit mereka. Ia menambahkan; dan mereka memberikan kepadanya apa yang dahulu mereka berikan kepada Rasulullah shallallahu 'alaihi wasallam, dan ia melindungi melindungi dua bukit mereka. Telah menceritakan kepada Kami [Ar Rabi' bin Sulaiman Al Muadzin], telah menceritakan kepada Kami [Ibnu Wahb], telah menceritakan kepada Kami [Usamah bin Zaid] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa suatu daerah di tengah kota …. Fahm dengan makna yang dikatakan Mughirah yaitu "dari setiap sepuluh geriba terdapat zakat satu geriba. Dan ia berkata; mereka memiliki dua bukit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>1600</td></tr><tr><td>Reference</td><td>Book 9 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда (‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом,): «Один человек из бану мут‘ан по имени Хиляль пришёл к Посланнику Аллаха ﷺ отдал ему десятину со своих пчёл и попросил его сделать для него заповедной долину Са‘ляба, и Посланник Аллаха ﷺ удовлетворил его просьбу. А когда правителем стал ‘Умар ибн аль-Хаттаб, Суфьян ибн Вахб (, который был наместником ‘Умара в Таифе,) написал ему, спрашивая, что делать с этой долиной, и ‘Умар написал ему: “Если он отдаёт тебе десятину со своих пчёл, как отдавал Посланнику Аллаха ﷺ то пусть Саляба будет его заповедной территорией. В противном случае эти пчёлы принадлежат дождю, так что их мёд может есть любой, кто пожелает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>1600</td></tr><tr><td>Reference</td><td>Book 9 Hadith 45</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar (ra):We were in the company of the Prophet (ﷺ) on a journey
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2611</td></tr><tr><td>Arabic No</td><td>2611</td></tr><tr><td>Reference</td><td>Book 51 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(Однажды, когда) мы находился в пути вместе с Пророком ﷺ, я ехал на молодом пугливом верблюде. Пророк ﷺ сказал ‘Умару: “Продай мне его”. Купив его, он сказал: “Он твой, о ‘Абдуллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2611</td></tr><tr><td>Arabic No</td><td>2611</td></tr><tr><td>Reference</td><td>Book 51 Hadith 44</td></tr></tbody></table></div>
 

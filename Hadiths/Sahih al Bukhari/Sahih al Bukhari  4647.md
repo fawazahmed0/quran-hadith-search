@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id bin Al-Mu'alla:While I was praying, Allah's Messenger (ﷺ) p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] Telah mengabarkan kepada kami [Rauh] Telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin 'Abdur Rahman]; Aku mendengar [Hafsh bin 'Ashim] bercerita dari [Abu Sa'id bin Al Mu'alla radliallahu 'anhu] dia berkata; Suatu saat saya sedang melaksanakan shalat, tiba-tiba Rasulullah shallallahu 'alaihi wasallam lewat dan memanggilku namun saya tidak menjawab panggilannya hingga shalatku selesai. Setelah itu, saya menemui beliau, maka beliau pun bertanya: "Apa yang menghalangimu untuk mendatangiku? Bukankah Allah 'azza wajalla telah berfirman; 'Hai orang-orang yang beriman, penuhilah seruan Allah dan seruan Rasul apabila Rasul menyeru kamu.' Beliau bersabda lagi: "Sungguh, saya akan mengajarimu tentang surat yang paling agung yang terdapat di dalam Al Qur'an sebelum kamu keluar dari Masjid." Kemudian tatkala beliau hendak keluar aku mengingatkan janji Rasulullah tersebut. Dan [Mu'adz] berkata; Telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin 'Abdur Rahman] dia mendengar [Hafsh] dia mendengar [Abu Sa'id] seorang sahabat Nabi shallallahu 'alaihi wasallam -sebagaimana kisah di atas.- dan dia berkata; yaitu surat; AL HAMDU LILLAHI RABBIL 'AALAMIIN (Segala puji bagi Allah, Rabb semesta Alam), ia adalah As Sab'u Al Matsani (tujuh ayat yang diulang-ulang, surat alfatihah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4647</td></tr><tr><td>Arabic No</td><td>4647</td></tr><tr><td>Reference</td><td>Book 65 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Му‘алля, да будет доволен им Аллах: «(Однажды) пока я молился, Посланник Аллаха ﷺ, проходя мимо, позвал меня, но я не подошёл к нему, пока не закончил молитву. Потом (завершив её) я подошёл к нему, и он спросил: “Что помешало тебе прийти ко мне? Разве Аллах не сказал: “О вы, которые уверовали! Отвечайте на призыв Аллаха (повинуясь Ему) и Его Посланника, когда Он призывает вас?” Затем он сказал: “Я научу тебя величайшей суре в Коране, прежде чем уйду (из мечети)”. Когда Посланник Аллаха ﷺ собрался уходить (из мечети), я напомнил ему. Он сказал: “Это — “Вся хвала Аллаху, Господу миров” (т.е. сура “аль-Фатиха”), ас-саб‘у аль-масани (т.е. семь часто повторяющихся аятов)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4647</td></tr><tr><td>Arabic No</td><td>4647</td></tr><tr><td>Reference</td><td>Book 65 Hadith 169</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Abu Dharr that the Messenger of of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] keduanya dari [Al Muqri'i], [Zuhair] berkata; telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] dari [Ubaidullah bin Abi Ja'far Al Qurasyi] dari [Salim bin Abu Salim Al Jaisyani] dari [ayahnya] dari [Abu Dzar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Abu Dzar, sungguh saya melihatmu sangat lemah, dan saya menginginkan untukmu seperti yang saya inginkan untuk kamu. Jangan kamu menjadi pemimpin di antara dua orang dan jangan kami menguasai harta anak yatim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4720</td></tr><tr><td>Arabic No</td><td>1826</td></tr><tr><td>Reference</td><td>Book 33 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4720</td></tr><tr><td>Arabic No</td><td>1826</td></tr><tr><td>Reference</td><td>Book 33 Hadith 20</td></tr></tbody></table></div>
 

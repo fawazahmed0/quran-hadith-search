@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: A man came to the Prophet (ﷺ) and asked 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Musa bin Abu Aisyah] dari ['Amru bin Syu'aib] dan [Ayahnya] dari [Kakeknya] bahwasanya ada seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Ya Rasulullah, bagaimanakah cara bersuci? Maka beliau memerintahkan untuk didatangkan air di dalam bejana, lalu beliau membasuh telapak tangannya tiga kali, kemudian membasuh wajahnya tiga kali, kemudian membasuh kedua lengannya tiga kali, kemudian mengusap kepalanya lalu memasukkan kedua jari telunjuknya pada kedua telinganya, dan mengusap bagian luar kedua telinga dengan kedua ibu jari dan bagian dalam kedua telinga dengan kedua jari telunjuknya, kemudian membasuh kedua kakinya tiga kali tiga kali, kemudian beliau bersabda: "Beginilah cara berwudhu, barangsiapa yang menambah atau mengurangi dari keterangan ini, maka dia telah berbuat kejelekan dan kezhaliman atau kezhaliman dan kejelekan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>135</td></tr><tr><td>Arabic No</td><td>135</td></tr><tr><td>Reference</td><td>Book 1 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Шу‘айб рассказывал со слов своего отца и деда: «Однажды какой-то человек явился к Пророку ﷺ и спросил его: “О Посланник Аллаха, как следует совершать омовение?” И (Пророк ﷺ) попросил принести сосуд с водой и помыл руки (включая запястья) три раза. Затем он помыл свое лицо три раза, и помыл три раза локти, после чего обтер свою голову и вставил указательные пальцы в отверстия ушей и вытер заднюю часть ушей большими пальцами, а внутреннюю часть ушей (вытер) указательными пальцами, после чего помыл свои ноги по три раза каждую, а затем сказал: “Так следует совершать омовение. А если кто-то сделает сверх или менее этого, то поступил неправильно и несправедливо”, или (он сказал) “поступил несправедливо и неправильно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>135</td></tr><tr><td>Arabic No</td><td>135</td></tr><tr><td>Reference</td><td>Book 1 Hadith 135</td></tr></tbody></table></div>
 

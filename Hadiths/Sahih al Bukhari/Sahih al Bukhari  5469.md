@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:I conceived 'Abdullah bin AzZubair at Mecca and wen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kepada kami [Abu Usamah] berkata, telah menceritakan kepada kami [Hisyam bin Urwah] dari [Bapaknya] dari [Asma binti Abu Bakar] radliallahu 'anhuma, Bahwasanya di Makkah ia hamil karena hubungannya dengan Abdullah bin Zubair (suaminya). Ia berkata, "Aku lalu keluar menuju Madinah, ketika sampai di Quba, aku singgah dan melahirkan di sana. Aku lalu membawa bayiku menemui Rasulullah shallallahu 'alaihi wasallam dan aku letakkan di pangkuannya. Kemudian Beliau minta diambilkan buah kurma, lalu mengunyahnya untuk kemudian meludahkannya ke dalam bayiku. Maka pertama kali yang masuk ke dalam perutnya adalah ludah Rasulullah shallallahu 'alaihi wasallam. Beliau memberi kunyahan kurma dan mendoakan keberkahan kepadanya. Dia adalah bayi pertama yang lahir dalam Islam. Orang-orang pun bangga, sebab telah dikatakan kepada mereka 'sesungguhnya orang-orang Yahudi telah menyihir kalian, sehingga kalian tidak akan memiliki anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5469</td></tr><tr><td>Arabic No</td><td>5469</td></tr><tr><td>Reference</td><td>Book 71 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Асмы бинт Аби Бакр, да будет доволен Аллах ими обоими, что в Мекке она забеременела ‘Абдуллахом ибн аз-Зубайром, да будет доволен Аллах ими обоими. (Асма, да будет доволен ею Аллах,) сказала: «Когда я уезжала (в Медину), срок беременности уже почти закончился. Приехав в Медину, я остановилась в Куба и родила его там, а потом принесла (новорожденного) Пророку ﷺ и положила его ему на колени. После этого он велел принести себе финик, разжевал его и положил образовавшуюся кашицу из своего рта в рот (ребёнку). Таким образом, первым, что попало в его желудок, была слюна Посланника Аллаха ﷺ. А после этого (Пророк ﷺ) помазал этой кашицей его нёбо, обратился к Аллаху с мольбой за него и призвал на него благословение, и был он первым из родившихся в исламе. И (мусульмане) очень обрадовались этому, так как им сказали: “Поистине, иудеи заколдовали вас, и (в Медине) у вас потомства не будет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5469</td></tr><tr><td>Arabic No</td><td>5469</td></tr><tr><td>Reference</td><td>Book 71 Hadith 3</td></tr></tbody></table></div>
 

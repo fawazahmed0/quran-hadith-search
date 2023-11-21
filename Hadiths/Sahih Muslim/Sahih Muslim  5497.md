@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Razin reported:Abu Huraira came to us and he struck his forehead with his ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan lafazh ini miliknya Abu Kuraib keduanya berkata; Telah menceritakan kepada kami [Ibnu Idris] dari [Al A'masy] dari [Abu Razin] ia berkata; [Abu Hurairah] suatu hari keluar menemui kami, lalu dia memukul keningnya seraya berkata; 'Ketahuilah! Apakah kalian mengatakan bahwa aku berdusta atas nama Rasulullah shallallahu 'alaihi wasallam agar kalian mendapat petunjuk sedangkan aku tersesat? Ketahuilah! sesungguhnya aku bersaksi bahwa aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila tali sandal salah seorang di antara kalian terputus, maka janganlah kalian berjalan dengan sebelah sandal hingga kalian memperbaikinya terlebih dahulu. Dan telah menceritakannya kepada kami [Ali bin Hujr As Sa'di] Telah mengabarkan kepada kami [Ali bin Mushir] Telah mengabarkan kepada kami [Al A'masy] dari [Abu Razin] dan [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadist yang semakna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5497</td></tr><tr><td>Arabic No</td><td>2098.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5497</td></tr><tr><td>Arabic No</td><td>2098.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 112</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the (words of Allah):" And c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Abdul Malik] dari [Atha'] dari [Abu Hurairah] tentang firman Allah: (Sungguh dia telah melihat ayat-ayat Rabbnya yang agung) ' (Qs. An Najm: 13). Abu Hurairah berkata, "Beliau melihat malaikat Jibril
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>435</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 1 Hadith 340</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал (об аяте) «Он уже видел его другое нисхождение» (сура «ан-Наджм», аят 13): «Он (Пророк ﷺ) видел Джибриля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>435</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 1 Hadith 340</td></tr></tbody></table></div>
 

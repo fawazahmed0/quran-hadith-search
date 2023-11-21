@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Some people were asking Allah's Messenger (ﷺ) questions mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Fadll bin Sahl] Telah menceritakan kepada kami [Abu An Nadlr] Telah menceritakan kepada kami [Abu Khaitsamah] Telah menceritakan kepada kami [Abu Juwairiyah] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; Suatu kaum pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam sebagai bentuk pengejekan. Seseorang dari mereka berkata; 'Siapa bapakku? ' Seseorang lagi berkata ketika untanya hilang; 'di mana untaku? ' maka Allah menurunkan kepada mereka ayat; Hai orang-orang yang beriman, janganlah kamu bertanya tentang segala sesuatu yang apabila dijelaskan kepadamu, maka hal itu akan memberatkanmu. (QS. Al Maa'idah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 65 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Некоторые люди задавали Посланнику Аллаха ﷺ вопросы (только для того), чтобы посмеяться над ним. Один (мог) спросить: “Кто мой отец?” — другой, у которого заблудилась верблюдица, (мог) спросить: “Где моя верблюдица?” — и о таких Аллах ниспослал аят(, в котором сказано): “О те, кто уверовал! Не спрашивайте о (таких) вещах, которые огорчат вас, когда станут известны вам, если же вы спросите о них, когда будет ниспосылаться Коран, это откроется вам. Аллах умолчал о них, (ибо) Аллах — Прощающий, Кроткий”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 65 Hadith 144</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:On the day of Uhud the Prophet (ﷺ) appointed 'Abdu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Khalid] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] berkata, aku mendengar [Al Bara' bin "Azib RAa] berkata; "Nabi shallallahu 'alaihi wasallam menjadikan Abdullah bin Jubair sebagai komandan pasukan pemanah pada perang Uhud. Kemudian sebanyak tujuh puluh orang dari kami terbunuh. Sedangkan pada perang Badar Nabi shallallahu 'alaihi wasallam dan para shahabat beliau menewaskan kaum Musyrikin sebanyak seratus empat puluh orang, tujuh puluh orang sebagai tawanan dan tujuh puluhnya lagi tewas. Lalu Abu Sufyan berkata; "Hari ini sebagai balasan perang Badar, peperangan itu silih berganti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3986</td></tr><tr><td>Arabic No</td><td>3986</td></tr><tr><td>Reference</td><td>Book 64 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «В день битвы при Ухуде Пророк ﷺ назначил ‘Абдуллаха ибн Джубейра во главе лучников, и семьдесят человек из нас были убиты. В день (битвы) при Бадре Пророк ﷺ и его сподвижники поразили сто сорок многобожников: семьдесят человек были взяты в плен и семьдесят были убиты. Абу Суфьян сказал: “(Этот) день — за день Бадра, а война переменчива!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3986</td></tr><tr><td>Arabic No</td><td>3986</td></tr><tr><td>Reference</td><td>Book 64 Hadith 37</td></tr></tbody></table></div>
 

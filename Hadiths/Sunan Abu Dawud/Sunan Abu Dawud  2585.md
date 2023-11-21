@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been narrated by Anas bin Malik through a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Mu'adz bin Hisyam], telah menceritakan kepadaku [ayahku], dari [Qatadah], dari [Sa'id bin Abu Al Hasan], ia berkata; gagang pedang Rasulullah shallallahu 'alaihi wasallam adalah perak. Qatadah berkata; aku tidak mengetahui seorangpun yang mengoreksinya dalam hal tersebut. Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepadaku [Yahya bin Katsir Abu Ghassan Al 'Anbari], dari [Utsman bin Sa'd] dari [Anas bin Malik], ia berkata; …… kemudian ia menyebutkan seperti itu. Abu Daud berkata; hadits yang terkuat diantara hadits tersebut adalah hadits Sa'id bin Abu Al Hasan. Dan hadits yang lain adalah lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>2585</td></tr><tr><td>Reference</td><td>Book 15 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>2585</td></tr><tr><td>Reference</td><td>Book 15 Hadith 109</td></tr></tbody></table></div>
 

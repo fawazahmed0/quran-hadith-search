@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id reported The Apostel of Allah (SWAS) as saying:A woman who believes 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah] dan [Hannad] bahwa [Abu Mu'awiyah] dan [Waki'] telah menceritakan kepada mereka dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tidak halal bagi seorang wanita yang beriman kepada Allah dan Hari Akhir untuk bersafar lebih dari tiga hari, keculai bersama ayahnya atau saudaranya atau suaminya atau anaknya atau orang yang mahram dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1340)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>1726</td></tr><tr><td>Reference</td><td>Book 11 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не дозволено женщине, верующей в Аллаха и в Последний день, отправляться в путь, занимающий более трёх дней, без сопровождения отца, брата, мужа, сына или другого близкого родственника /махрам/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1340)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>1726</td></tr><tr><td>Reference</td><td>Book 11 Hadith 6</td></tr></tbody></table></div>
 

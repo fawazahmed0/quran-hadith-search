@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), comme on évoqua un jour de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu al-Had] dari [Abdullah bin Khabbab] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam pernah disebutkan di sisinya tentang pamannya, Abu Thalib. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga syafaatku dapat menolongnya pada Hari Kiamat sehingga dia diletakkan di dalam Neraka yang paling landai, apinya mencapai mata kakinya yang membuat otaknya mendidih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>513</td></tr><tr><td>Arabic No</td><td>210</td></tr><tr><td>Reference</td><td>Book 1 Hadith 419</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри (да будет доволен им Аллах), что однажды возле Посланника Аллаха ﷺ упомянули его дядю Абу Талиба, и он сказал: «Может быть, моё заступничество принесёт ему пользу в День воскрешения, и его поместят в неглубоком месте (адского) Огня, который будет достигать его щиколоток, и от этого вскипит его головной мозг»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>513</td></tr><tr><td>Arabic No</td><td>210</td></tr><tr><td>Reference</td><td>Book 1 Hadith 419</td></tr></tbody></table></div>
 

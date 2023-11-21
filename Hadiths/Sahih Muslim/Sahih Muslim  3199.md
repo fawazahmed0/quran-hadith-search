@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Allah's Messenger (ﷺ) sent the sac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ali bin Hujr As Sa'di] dan [Ya'qub bin Ibrahim Ad Dauraqi] - [Ibnu Hajr] berkata- Telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] dari [Al Qasim] dan [Abu Qilabah] dari [Aisyah] ia berkata; "Rasulullah shallallahu 'alaihi wasallam mengutus hewan kurban dan akulah yang mengalungkan tanda padanya dengan tanganku sendiri. Sesudah itu, beliau tidak lagi menahan diri dari sesuatu yang telah diperbolehkan bagi seseorang yang telah bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3199</td></tr><tr><td>Arabic No</td><td>1321.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 403</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3199</td></tr><tr><td>Arabic No</td><td>1321.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 403</td></tr></tbody></table></div>
 

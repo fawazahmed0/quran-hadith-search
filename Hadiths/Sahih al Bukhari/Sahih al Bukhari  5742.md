@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul 'Aziz:Thabit and I went to Anas bin Malik. Thabit said, "O Abu H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz] dia berkata; "Aku dan Tsabit pernah mengunjungi Anas bin Malik, lalu Tsabit berkata; "Wahai Abu Hamzah, aku sedang menderita suatu penyakit." Maka [Anas] berkata; "Maukah kamu aku ruqyah dengan ruqyah Rasulullah shallallahu 'alaihi wasallam?" dia menjawab; "Tentu." Anas berkata; "ALLAHUMMA RABBAN NAASI MUDZHIBIL BA'SA ISYFII ANTA SYAAFI LAA SYAAFIYA ILLA ANTA SYIFAA'AN LAA YUGHAADIRU SAQAMA (Ya Allah Rabb manusia, dzat yang menghilangkan rasa sakit, sembuhkanlah sesungguhnya Engkau Maha Penyembuh, tidak ada yang dapat menyembuhkan melainkan Engkau, yaitu kesembuhan yang tidak menyisakan rasa sakit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 76 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуль’азиз рассказал: «Однажды мы с Сабитом вошли к Анасу ибн Малику, и Сабит сказал: “О Абу Хамза, я заболел”. Анас спросил (Сабита): “Не прочитать ли над тобой рукъю Посланника Аллаха ﷺ?” Он сказал: “Конечно, (прочитай)!” Тогда Анас сказал: “О Аллах, Господь людей, удаляющий болезнь, исцели, Ты — Целитель, и нет исцеляющего, кроме Тебя, исцели же так, чтобы после этого не осталось болезни!”».\n/Аллахумма, Рабба-н-наси, музхиба-ль-баъси, ишфи, Анта-ш-Шафи, ля шафийа илля Анта ишфи-хи шифаъан ля йугадиру сакаман
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 76 Hadith 57</td></tr></tbody></table></div>
 

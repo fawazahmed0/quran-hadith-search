@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated al-Qasim:Aisha said that whenever the Prophet (ﷺ) intended to go on a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Abdul Wahid bin Aiman] ia berkata; Telah menceritakan kepadaku [Ibnu Abu Mulaikah] dari [Al Qasim] dari [Aisyah] bahwasanya; Apabila Nabi shallallahu 'alaihi wasallam hendak keluar mengadakan perjalanan, beliau mengadakan undian antara isteri-isterinya, lalu undian itu pun jatuh pada Aisyah dan Hafshah. Dan pada malam hari, biasanya Nabi shallallahu 'alaihi wasallam berjalan bersama Aisyah dan berbincang-bincang dengannya. Maka Hafshah berkata, "Maukah malam kamu menaiki kendaraanku dan aku menaiki kendaraanmu kemudian kamu melihat dan pun juga dapat melihat?" Aisyah menjawab, "Ya." Akhirnya ia pun menaikinya. Kemudian datanglah Nabi shallallahu 'alaihi wasallam pada kendaraan Aisyah, sementara yang berada di atasnya adalah Hafshah. Beliau pun mengucapkan salam kepadanya, lalu beliau berjalan hingga mereka singgah disuatu tempat, dan ternyata ia kelihangan Aisyah. Saat singgah, Aisyah meletakkan kedua kakinya di antara semak-semak tumbuhan, lalu ia pun berkata, "Wahai Rabbi, binasakanlah kalajengking dan ular yang menyengatku." Maka aku tidak bisa berkata apa-apa pada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5211</td></tr><tr><td>Arabic No</td><td>5211</td></tr><tr><td>Reference</td><td>Book 67 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что, (желая) отправиться куда-либо, Пророк ﷺ бросал жребий между своими жёнами, и однажды жребий выпал на ‘Аишу и Хафсу. Когда наступала ночь, Пророк ﷺ ехал вместе с ‘Аишей и разговаривал с ней, и однажды Хафса сказала ‘Аише: «Не сядешь ли ты сегодня ночью на моего верблюда, а я сяду на твоего, и мы посмотрим(, что из этого выйдет)». (‘Аиша) сказала: «Хорошо», и села (на верблюда Хафсы, а через некоторое время) Пророк ﷺ подъехал к верблюду ‘Аиши, на котором сидела Хафса, поприветствовал её и ехал рядом, пока они не остановились на отдых. Что же касается ‘Аиши, то она потеряла (Пророка ﷺ) когда же они остановились, (‘Аиша) сунула ноги в душистый тростник и воскликнула: «О Господь мой, пусть ужалит меня скорпион или змея, ведь я ничего не могу сказать ему!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5211</td></tr><tr><td>Arabic No</td><td>5211</td></tr><tr><td>Reference</td><td>Book 67 Hadith 144</td></tr></tbody></table></div>
 

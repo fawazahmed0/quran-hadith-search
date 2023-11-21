@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by Shu'ba with the same chain of transmitters. And
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Qatadah] dari [Anas] dia berkata, Rasulullah shallallahu'alaihiwasallam bersabda, "Luruslah dalam sujud, dan janganlah salah seorang di antara kalian menghamparkan kedua sikunya sebagaimana anjing menghampar." Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakannya kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Khalid, yaitu Ibnu al-Harits] dia berkata, telah menceritakan kepada kami [Syu'bah] dengan isnad ini. Dan dalam hadits Ibnu Ja'far, "Janganlah salah seorang dari kalian menghamparkan kedua sikunya sebagaimana anjing menghampar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1103</td></tr><tr><td>Arabic No</td><td>493.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В этой версии хадиса с другим иснадом говорится: «…и пусть никто из вас не вытягивает руки подобно тому, как собака вытягивает лапы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1103</td></tr><tr><td>Arabic No</td><td>493.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 265</td></tr></tbody></table></div>
 

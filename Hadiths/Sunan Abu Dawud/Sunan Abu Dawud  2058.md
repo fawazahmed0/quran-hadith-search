@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said the Apostle of Allaah(ﷺ) visited her when a man was with her. T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Syu'bah], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Asy'ats bin Sulaim] dari [ayahnya] dari [Masruq] dari [Aisyah] dengan makna yang sama bahwa Rasulullah shallallahu 'alaihi wasallam menemuinya dan terdapat seorang laki-laki yang bersamanya -Hafsh berkata; hal tersebut terasa berat bagi beliau dan raut wajah beliau berubah. Kemudian Syu'bah dan Muhammad bin Katsir sama bersepakat mengatakan; Aisyah berkata; wahai Rasulallah, dia adalah saudaraku sepersusuan. Beliau berkata: "Lihatlah siapa saudara-saudara sepersusuan kalian, sesungguhnya persusuan itu adalah karena lapar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2647) Sahih Muslim (1455)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2058</td></tr><tr><td>Arabic No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 12 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ зашёл к ней, когда у неё сидел один мужчина. Посланнику Аллаха ﷺ стало тяжко от этого, и лицо его изменилось. Тогда она сказала: «О Посланник Аллаха! Это мой молочный брат». Он сказал: «Смотрите внимательно, кто приходится вам братьями. Вскармливание считается, только если оно утоляет голод»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2647) Sahih Muslim (1455)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2058</td></tr><tr><td>Arabic No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 12 Hadith 13</td></tr></tbody></table></div>
 

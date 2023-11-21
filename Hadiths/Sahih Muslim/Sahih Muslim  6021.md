@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas 'b. Malik reported that a person requested Allah's Apostle (ﷺ) to give hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Yazid bin Harun] dari [Hammad bin Salamah] dari [Tsabit] dari [Anas radliallahu 'anhu] katanya: "Ada seorang laki-laki meminta seekor kambing kepada Nabi shallallahu 'alaihi wasallam di antara dua bukit. Kemudian tanpa ragu-ragu, Rasulullah pun memberikan kambingnya kepada orang itu. Lalu orang itu datang kepada kaumnya seraya berkata; "Hai, kaumku! Masuklah kalian semua ke dalam agama Islam kalian! Demi Allah, sesungguhnya Muhammad telah memberiku suatu pemberian tanpa takut miskin." Maka Anas berkata; "Jika ada seseorang yang dahulu masuk Islam karena niyat menginginkan harta dunia, tidaklah ia masuk Islam sehingga Islam itu sendiri lebih dicintainya dari pada dunia dan segala isinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6021</td></tr><tr><td>Arabic No</td><td>2312.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что (однажды) один человек попросил у Пророка ﷺ так много овец, что казалось, будто они заполняют собой всё пространство между двумя горами, и он дал ему их. Затем этот человек вернулся к своим соплеменникам и сказал: «О люди, принимайте ислам, ибо, поистине, Мухаммад преподносит дары как тот, кто не боится бедности!» Анас сказал: «Если даже человек принимал ислам только ради мирских благ, то проходило совсем немного времени, и ислам становился для него милее мира этого и всего того, что в нём есть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6021</td></tr><tr><td>Arabic No</td><td>2312.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 79</td></tr></tbody></table></div>
 

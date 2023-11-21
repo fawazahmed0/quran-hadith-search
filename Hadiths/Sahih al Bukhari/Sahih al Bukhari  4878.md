@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Qais:Allah's Messenger (ﷺ) said, "Two gardens, the uten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Al Aswad] Telah menceritakan kepada kami [Abdul 'Aziz bin Abdus Shamad Al 'Ammi] Telah menceritakan kepada kami [Abu 'Imran Al Jauni] dari [Abu Bakr bin Abdullah bin Qais] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam berkata; "Dua bagian dari surga yang perabotnya dan segala isi di dalamnya terbuat dari perak. Dan dua bagian dari surga yang perabotnya serta segala isi di dalamnya terbuat dari emas. Tidak ada yang menghalangi suatu kaum untuk melihat Rabb mereka selain selendang keagungan yang ada di wajah-Nya di surga 'Adn
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4878</td></tr><tr><td>Arabic No</td><td>4878</td></tr><tr><td>Reference</td><td>Book 65 Hadith 399</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Кайс, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал:«Два сада, посуда и всё прочее в которых (сделано) из серебра, и два сада, посуда и всё прочее в которых (сделано) из золота, и ничто не помешает людям смотреть на их Господа, кроме накидки величия на Его Лике в садах Эдема»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4878</td></tr><tr><td>Arabic No</td><td>4878</td></tr><tr><td>Reference</td><td>Book 65 Hadith 399</td></tr></tbody></table></div>
 

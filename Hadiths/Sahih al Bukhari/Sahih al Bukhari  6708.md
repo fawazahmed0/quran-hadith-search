@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin 'Ujra:I came to the Prophet (ﷺ) and he said to me, "Come nea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Syihab] dari [Ibnu 'Aun] dari [Mujahid] dari [Abdurrahman bin Abu Laila] dari [Ka'b bin Ujrah] mengatakan, aku mendatangi Nabi shallallahu 'alaihi wasallam dan beliau berkata: "Mendekatlah kesini!" Aku pun mendekat. Nabi bertanya: "Apa kamu merasa terganggu oleh kutumu?" "Iya" jawabku. Nabi bersabda: "Kalau begitu kamu bayar fidyahmu berupa puasa, sedekah atau binatang kurban." Dan telah mengabarkan kepadaku Ibnu 'Aun dari Ayyub dengan redaksi; "Puasa tiga hari, binatang kurban berupa kambing, atau memberi makan enam orang miskin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6708</td></tr><tr><td>Arabic No</td><td>6708</td></tr><tr><td>Reference</td><td>Book 84 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн ‘Уджра сказал: «Я пришёл к Пророку ﷺ, и он сказал: “Подойди поближе”, я подошёл, и он сказал: “Тебя мучают вши?” Я ответил: “Да”. Тогда он сказал: “(Обрей голову и) соверши искупление в виде поста, или милостыни, или жертвоприношения”».\nАюб (один из передатчиков) сказал: «Пост (должен быть) в течение трёх дней, в жертву нужно принести овцу, а накормить шесть бедняков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6708</td></tr><tr><td>Arabic No</td><td>6708</td></tr><tr><td>Reference</td><td>Book 84 Hadith 1</td></tr></tbody></table></div>
 

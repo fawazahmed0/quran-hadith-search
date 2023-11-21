@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuzZinad: When the Messenger of Allah (ﷺ) cut off (the hands and fee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] berkata, telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Al laits bin Sa'd] dari [Muhammad bin 'Ajlan] dari [Abu Az Zinad] berkata, "Ketika Rasulullah memotong (tangan dan kaki) serta mencongkel mata orang-orang yang mencuri unta miliknya dengan api, Allah Ta'ala mencela perbuatan tersebut. Allah kemudian menurunkan ayat: '(Sesungguhnya pembalasan terhadap orang-orang yang memerangi Allah dan rasul-Nya serta membuat kerusakan di muka bumi, hanyalah mereka dibunuh atau disalib..) '." Telah menceritakan kepada kami Muhammad bin Katsir ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami Musa bin Isma'il berkata, telah menceritakan kepada kami Hammam dari Qatadah dari Muhammad bin Sirin ia berkata, "Ini adalah ketika belum turun syariat hudud, yaitu sebagaimana tersebut dalam hadits Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу аз-Зинада, что, когда эти разбойники украли верблюдиц Посланника Аллаха ﷺ и он велел отрубить им кисти и ступни и выжечь глаза, Всевышний Аллах упрекнул его за это и ниспослал: «Воистину, те, которые воюют против Аллаха и Его посланника и стремятся сотворить на земле нечестие, в воздаяние должны быть убиты или распяты, или у них должны быть отсечены накрест руки и ноги, или они должны быть изгнаны из страны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
 

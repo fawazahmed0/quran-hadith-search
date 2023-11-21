@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that Allah's Messenger (ﷺ) sent on in expedition a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Malik bin Anas] dari [Abu Nu'aim Wahb bin Kaisan] bahwa [Jabir bin Abdullah] telah mengabarkan kepadanya, dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengirim kami beserta tiga ratus prajurit yang dipimpin oleh Abu 'Ubaidah bin Jarrah. Ketika kehabisan bekal, maka Abu 'Ubaidah mengumpulkan perbekalan mereka dalam satu wadah, kemudian ia memberi makan kami dengan satu biji kurma setiap harinya." Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Al Walid] -yaitu Ibnu Katsir- dia berkata; saya mendengar [Wahb bin Kaisan] berkata; saya mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengirim pasukan untuk suatu ekspedisi, sedangkan kami termasuk dari tentara tersebut, hingga kami tiba di pantai… kemudian mereka melanjutkan hadits tersebut sebagaimana hadits 'Amru bin Dinar dan Abu Az Zubair, namun dalam hadits Wahb bin Kaisan disebutkan, 'Kemudian tentara tersebut makan (dari daging binatang itu) selama delapan belas hari." Dan telah menceritakan kepadaku [Hajjaj bin As Sya'ir] telah menceritakan kepada kami [Utsman bin 'Umar]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Al Mundzir Al Qazzaz] keduanya dari [Daud bin Qais] dari ['Ubaidullah bin Miqsam] dari [Jabir bin Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengirim (pasukan) menuju negeri Juhainah dengan dipimpin oleh seorang laki-laki…kemudian dia melanjutkan hadits tersebut sebagaimana hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5002</td></tr><tr><td>Arabic No</td><td>1935.05</td></tr><tr><td>Reference</td><td>Book 34 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5002</td></tr><tr><td>Arabic No</td><td>1935.05</td></tr><tr><td>Reference</td><td>Book 34 Hadith 31</td></tr></tbody></table></div>
 

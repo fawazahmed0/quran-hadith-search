@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been narrated through another chain of transmitters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashru bin Ali Al Jahdlami] dan [Ishaq bin Ibrahim] keduanya dari [Isa bin Yunus] dari [Abu Hamzah Al Himshi] -dalam jalur lain- Dan telah menceritakan kepadaku [Abu Thahir] dan [Harun bin Sa'id Al Aili] -dan lafazhnya milik Abu Thahir- keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Abu Hamzah bin Sulaim] dari [Abdurrahman bin Jubair bin Nufair] dari [bapaknya] dari ['Auf bin Malik Al Asyja'i] ia berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam membaca do'a dalam shalat jenazah: "ALLAHUMMAGHFIR LAHU WARHAMHU WA'FU 'ANHU WA 'AAFIHI WA AKRIM NUZULAHU WA WASSI' MUDKHALAHU WAGHSILHU BILMAA'I WATS TSALJI WAL BARADI WA NAQQIHI MINAL KHATHAAYAA KAMAA YUNAQQOTS TSAUBUL ABYADLU MINAD DANASI WA ABDILHU DAARAN KHAIRAN MIN DAARIHI WA AHLAN KHAIRAN MIN AHLIHI WA ZAUJAN KHAIRAN MIN ZAUJIHI WA QIHI 'ADZABAL QOBRI WA 'ADZABAN NAARI." ("Ya Allah, Ampunilah dia (mayat) berilah rahmat kepadanya, maafkanlah dia dan selamatkanlah dia (dari beberapa hal yang tidak disukai), dan tempatkanlah di tempat yang mulia (Surga), luaskan kuburannya, mandikan dia dengan air salju dan air es. Bersihkan dia dari segala kesalahan, sebagaimana Engkau membersihkan baju yang putih dari kotoran, berilah rumah yang lebih baik dari rumahnya (di dunia), berilah keluarga (atau istri di Surga) yang lebih baik daripada keluarganya (di dunia), istri (atau suami) yang lebih baik daripada istrinya (atau suaminya), dan masukkan dia ke Surga, jagalah dia dari siksa kubur dan Neraka lindungilah ia dari siksa kubur atau siksa api neraka"). Auf berkata; "Hingga saya berangan seandainya saya saja yang menjadi mayit itu, karena do'a Rasulullah shallallahu 'alaihi wasallam kepada mayit tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2234</td></tr><tr><td>Arabic No</td><td>963.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Ауф ибн Малик аль-Ашджа’и сказал: «Я слышал, как, совершая заупокойную молитву, Пророк ﷺ говорил: “О Аллах, прости его и помилуй его, и окажи ему милость, и избавь его, и окажи ему хороший приём, и сделай место его входа просторным, и омой его водой, снегом и градом, и очисть его от прегрешений подобно тому, как очистил Ты от грязи белую одежду, и дай ему взамен дом лучше его дома и семью лучше его семьи, и жену лучше его жены, и защити его от искушения могилы и мучений Огня”./Аллахумма-гфир ля-ху, ва-рхам-ху, ва-‘фу ‘ан-ху, ва ‘афи-хи, ва акрим нузуля-ху, ва васси‘ мудхаля-ху, ва-гсиль-ху би-ль-маъи, ва-с-сальджи ва-ль-баради, ва наккы-хи мин аль-хатайа кя-ма наккайта-с-сауба-ль-абйада мин ад-данаси, ва абдиль-ху даран хайран мин дари-хи, ва ахлян хайран мин ахли-хи, ва зауджан хайран мин зауджи-хи, ва кы-хи фитната-ль-кабри ва ‘азаба-н-нар/». ‘Ауф сказал: «И я даже сам захотел оказаться на месте умершего, чтобы (получить такие) мольбы Посланника Аллаха ﷺ, (как) за этого умершего»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2234</td></tr><tr><td>Arabic No</td><td>963.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 110</td></tr></tbody></table></div>
 

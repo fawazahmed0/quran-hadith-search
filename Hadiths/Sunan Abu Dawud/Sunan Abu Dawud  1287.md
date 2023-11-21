@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Anas al-Juhani: The Prophet (ﷺ) said: If anyone sits in hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Ibnu Wahb] dari [Yahya bin Ayyub] dari [Zabban bin Fa'id] dari [Sahl bin Mu'adz bin Anas Al Juhani] dari [ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa tetap duduk di tempat shalatnya ketika selesai dari shalat shubuh sampai dia mengerjakan dua raka'at dluha dan tidak mengucapkan kata-kata kecuali yang baik, melainkan dosa-dosanya akan terampuni meskipun lebih banyak dari buih di lautan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1287</td></tr><tr><td>Arabic No</td><td>1287</td></tr><tr><td>Reference</td><td>Book 5 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Му‘аза ибн Анаса аль-Джухани, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тому, кто остался сидеть на том месте, где совершал утреннюю молитву, до самого совершения молитвы-духа в два рак‘ата и при этом не говорил ничего, кроме благого, простятся его грехи, даже если их будет больше, чем пены морской»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1287</td></tr><tr><td>Arabic No</td><td>1287</td></tr><tr><td>Reference</td><td>Book 5 Hadith 38</td></tr></tbody></table></div>
 

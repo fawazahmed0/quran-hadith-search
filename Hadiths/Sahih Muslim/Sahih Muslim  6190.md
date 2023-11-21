@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hamza b. Abdullah b. 'Umar b. Khattab reported on the authority of his father th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] bahwa [Ibn Syihab] Telah menceritakan kepadanya [Hamzah bin 'Abdullah bin 'Umar bin Al Khaththab] dari [Bapaknya] dari Rasulullah shallallahu 'alaihi wasallam Beliau bersabda: "Ketika tidur, aku bermimpi bahwasanya aku diberi segeIas susu. Setelah itu akupun langsung meminum sebagian susu tersebut hingga aku merasakan kesegaran hingga sampai ke ujung kuku. Kemudian aku berikan sisa susunya tersebut kepada Umar bin Khaththab." Para sahabat bertanya, Ya Rasulullah, apa ta'wiI mimpi tersebut?" Rasulullah menjawab: "Itu tentang ilmu." Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits] dari ['Uqail]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Al Hulwani] dan ['Abad bin Humaid] keduanya dari [Ya'qub bin Ibrahim bin Sa'd]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] melalui jalur Yunus dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6190</td></tr><tr><td>Arabic No</td><td>2391.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6190</td></tr><tr><td>Arabic No</td><td>2391.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 21</td></tr></tbody></table></div>
 

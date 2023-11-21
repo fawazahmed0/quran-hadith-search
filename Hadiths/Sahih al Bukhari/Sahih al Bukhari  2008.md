@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying regarding Ramadan, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Abu Salamah] bahwa [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam berkata tentang bulan Ramadhan: "Barangsiapa yang menegakkannya karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 31 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как относительно Рамадана, Посланник Аллаха ﷺ сказал: “Тому, кто проведёт его в молитве с верой и надеждой на награду Аллаха, простятся его прежние грехи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 31 Hadith 1</td></tr></tbody></table></div>
 

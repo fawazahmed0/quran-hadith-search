@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib: Allah's Messenger (ﷺ) ordered us to do seven (thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Asy Syaibani] dari [Asy'ats bin Abu Asy Sya'tsa'] dari [Mu'awiyah bin Suwaid bin Muqarrin] dari [Al Barra' bin 'Azib] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami tujuh perkara yaitu; menjenguk orang yang sakit, mengiringi jenazah, mendo'akan orang yang bersin, menolong yang lemah, menolong orang yang terzhalimi, menebarkan salam dan menunaikan sumpah, dan beliau juga melarang minum dari bejana yang terbuat dari perak, mengenakan cincin emas, menaiki sekedup yang ditutupi dengan kain sutera, mengenakan kain sutera, dibaj, Qasiy dan Istabraq (sejenis kain sutera)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6235</td></tr><tr><td>Arabic No</td><td>6235</td></tr><tr><td>Reference</td><td>Book 79 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ велел нам делать семь (вещей): (он велел) навещать больного, провожать погребальные носилки, произносить благопожелание чихнувшему, помогать слабому и притесняемому, распространять приветствия, способствовать выполнению клятвы того, кто её даёт. И он запретил пить из серебряной посуды и запретил нам носить золотые кольца, сидеть на подушках из шёлка /маясир/, носить шёлк, дибадж (один из видов шёлка), кассию (льняная одежда, содержащая шёлк) и парчу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6235</td></tr><tr><td>Arabic No</td><td>6235</td></tr><tr><td>Reference</td><td>Book 79 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wa'il:A man came to Ibn Mas'ud and said, "I recited the Mufassal (S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] berkata, aku mendengar [Abu Wa'il] berkata, "Seorang laki-laki datang kepada [Ibnu Mas'ud] lalu berkata, "Tadi malam aku membaca surat-surat Al Musfashal dalam satu rakaat." Ibnu Mas'ud berkata, "Hah! (cepat sekali kamu dalam membaca), ini seperti membaca syair! Sungguh aku mengetahui surah-surah sepadan (panjangnya) yang Nabi shallallahu 'alaihi wasallam gabungkan saat membaca." Ibnu Mas'ud kemudian menyebutkan dua puluh surah dari Al Mufashshal (yang dibaca oleh Nabi shallallahu 'alaihi wasallam), yakni dua surah untuk setiap rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>775</td></tr><tr><td>Arabic No</td><td>775</td></tr><tr><td>Reference</td><td>Book 10 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Уаиля, что он сказал: «Один человек пришел к Ибн Мас‘уду и сказал ему: “Сегодня ночью я прочитал все суры “муфассаль” (т.е. короткие суры, начиная с суры “Каф” и до конца Корана)”. Ибн Мас‘уду ответил: “С быстротой подобной тому, как читают стихи…?! Я знаю суры похожие друг на друга, между которыми Пророк ﷺ объединял (в молитве)”. Затем он упомянул двадцать сур из “муфассаль”: по две суры в каждом рак‘ате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>775</td></tr><tr><td>Arabic No</td><td>775</td></tr><tr><td>Reference</td><td>Book 10 Hadith 170</td></tr></tbody></table></div>
 

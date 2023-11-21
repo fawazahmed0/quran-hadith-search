@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "If anyone of you, when having sexua
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Hammam] dari [Manshur] dari [Salim bin Abi Al Ja'di] dari [Kuraib] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Seseorang dari kalian apabila mendatangi istrinya (untuk berjima') kemudian membaca do'a; Allahumma jannibnasy syaithaana wa jannibisy syaithaana maa razaqtanaa" (Ya Allah, jauhkanlah kami dari setan dan jauhkanlah pula dari anak yang kelak Engkau karuniakan kepada kami), kemudian bila keduanya dikaruniai anak maka setan tidak akan dapat mencelakakan anak itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 59 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если бы кто-нибудь из вас, пожелав вступить в половую близость со своей женой скажет: “С именем Аллаха, о Аллах, удали нас от шайтана, и удали шайтана от того, кем Ты наделишь нас!” /БисмиЛляхи, Аллахумма, джаннибна-ш-шайтана, ва джанниби-ш-шайтана ма разакътана!/, — и после этого (эти супруги) будут наделены ребёнком, то шайтан никогда не сможет причинить ему вред»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 59 Hadith 81</td></tr></tbody></table></div>
 

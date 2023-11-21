@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:Asma daughther of 'Umais gave birth to Muhammad bin Abi Bakr at Shaj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami ['Abdah] dari ['Ubaidullah] dari [Abdurrahman bin Al Qasim] dari [ayahnya] dari [Aisyah], ia berkata; Asma' binti 'Umais mengalami nifas karena melahirkan Muhammad bin Abu Bakr di bawah pohon. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam memerintahkan Abu Bakr agar Asma' mandi dan bertalbiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1209)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1743</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 11 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Асма бинт ‘Умайс родила Мухаммада ибн Абу Бакра в Аш-Шаджаре (место близ Зу-ль-Хуляйфы), и Посланник Аллаха ﷺ велел Абу Бакру передать ей, что она должна совершить большое омовение /гъусль/ и объявить о своём намерении совершить хадж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1209)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1743</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 11 Hadith 23</td></tr></tbody></table></div>
 

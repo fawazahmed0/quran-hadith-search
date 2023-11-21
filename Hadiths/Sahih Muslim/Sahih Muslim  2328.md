@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa and Abu Shaiba reported Allah's Messenger (ﷺ) as saying:Every act of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Abu Awanah] -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] Telah menceritakan kepada kami [Abbad bin Al Awwam] keduanya dari [Abu Malik Al Asyja'i] dari [Rabi bin Hirasy] dari [Hudzaifah] -dalam hadits Qutaibah, ia berkta- Nabi kalian shallallahu 'alaihi wasallam telah bersabda. -Sementara Ibnu Abu Syaibah berkata; Dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Setiap kebaikan itu adalah sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2328</td></tr><tr><td>Arabic No</td><td>1005</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хузейфы, что Посланник Аллаха ﷺ сказал: «(Совершение) всего одобряемого (шариатом) есть милостыня /садака/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2328</td></tr><tr><td>Arabic No</td><td>1005</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
 

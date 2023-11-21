@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "There is none having a greater sense
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafs bin Ghiyats] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tak ada seorangpun yang lebih cemburu daripada Allah, yang karena sifat cemburu-Nya Allah mengharamkan segala bentuk kejahatan, dan tak seorang pun yang lebih senang dipuji daripada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7403</td></tr><tr><td>Arabic No</td><td>7403</td></tr><tr><td>Reference</td><td>Book 97 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Масуд), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Нет никого ревнивее, чем Аллах. Именно поэтому Он запретил совершать мерзкие поступки. И никто не любит прославления больше, чем Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7403</td></tr><tr><td>Arabic No</td><td>7403</td></tr><tr><td>Reference</td><td>Book 97 Hadith 32</td></tr></tbody></table></div>
 

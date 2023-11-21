@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "(The Prophet) Moses was a sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq bin Ibrahim] telah bercerita kepada kami [Rauh bin 'Ubadah] telah bercerita kepada kami ['Auf] dari [Al Hasan], [Muhammad] dan [Khilas] dari [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Nabi Musa 'Alaihissalam adalah seorang pemuda yang sangat pemalu dan senantiasa badannya tertutup sehingga tidak ada satu pun dari bagian badannya yang terbuka karena sangat pemalunya. Pada suatu hari ada orang-orang dari Bani Isra'il yang mengolok-oloknya. Mereka berkata; "Sesungguhnya tidaklah dia ini menutupi tubuhnya melainkan karena kulit tubuhnya sangat jelek, bisa jadi karena menderita sakit kusta, bisul atau penyakit-penyakit lainnya". Sungguh Allah ingin membebaskan Nabi Musa dari apa yang mereka katakan terhadap Musa, sehingga pada suatu hari dia mandi sendirian dengan talanjang dan meletakkan pakaiannya di atas batu. Maka mandilah dia dan ketika telah selesai dia beranjak untuk mengambil pakaiannya namun batu itu telah melarikan pakaiannya. Maka Musa mengambil tongkatnya dan mengejar batu tersebut sambil memanggil-manggil; "Pakaianku, wahai batu. Pakaianku, wahai batu". Hingga akhirnya dia sampai ke tempat kerumunan para pembesar Bani Isra'il dan mereka melihat Musa dalam keadaan telanjang yang merupakan sebaik-baiknya ciptaan Allah. Dengan kejadian itu Allah membebaskan Musa dari apa yang mereka katakan selama ini. Akhirnya batu itu berhenti lalu Musa mengambil pakaiannya dan memakainya. Kemudian Musa memukuli batu tersebut dengan tongkatnya. Sungguh demi Allah, batu tersebut masih tampak bekas pukulan Musa, tiga, empat atau lima pukulan. Inilah di antara kisah Nabi Musa 'Alaihissalam seperti difirmankan Allah Ta'ala: ("Wahai orang-orang beriman janganlah kalian menjadi seperti orang-orang yang mengolok-olok (menyakiti) Musa lalu Allah membersihkannya dari tuduhan-tuduhan yang mereka katakan") (QS al-Ahzab ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3404</td></tr><tr><td>Arabic No</td><td>3404</td></tr><tr><td>Reference</td><td>Book 60 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Муса был очень стыдливым человеком, и никто не видел его кожи, поскольку он стыдился обнажаться перед кем-то. И (однажды) один из сынов Исраиля обидел его, сказав о нём: “Поистине, он так закрывается от всех потому, что страдает кожной болезнью — проказой, или же у него грыжа на срамных местах или другой порок!” И Аллах пожелал показать им, что их предположения в отношении Мусы неверны. Как-то раз Муса, оставшись один, положил свою одежду на камень и искупался. Когда же он закончил купание и подошёл к тому месту, где оставил свою одежду, чтобы взять её, он увидел, что тот камень укатился вместе с его одеждой. Тогда Муса, взял палку и устремился за камнем приговаривая: “(Отдай) мою одежду, о камень! (Отдай) мою одежду, о камень!” Так он добежал до группы сынов Исраиля, и они увидели его нагим, в лучшем (виде) созданным Аллахом. И так Аллах опроверг то, что они говорили о нём. Затем камень остановился, и он взял свою одежду и надел её, а потом несколько раз ударил по камню, так что, клянусь Аллахом, на камне остались следы — три, четыре или пять. Об этом — слова Всевышнего: “О те, которые уверовали! Не будьте подобны тем, которые обидели Мусу. Аллах оправдал его и опроверг то, что они говорили. Он был почитаем перед Аллахом” (сура “аль-Ахзаб”, аят 69)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3404</td></tr><tr><td>Arabic No</td><td>3404</td></tr><tr><td>Reference</td><td>Book 60 Hadith 77</td></tr></tbody></table></div>
 

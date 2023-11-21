@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "The best people are those living in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari ['Abidah] dari [Abdullah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: ""Sebaik-baik manusia adalah orang-orang yang hidup pada zamanku (generasiku) kemudian orang-orang yang datang setelah mereka kemudian orang-orang yang datang setelah mereka. Kemudian akan datang suatu kaum yang persaksian salah seorang dari mereka mendahului sumpahnya dan sumpahnya mendahului persaksiannya". [Ibrahim] berkata; "Dahulu, mereka (para shahabat) mengajarkan kami tentang bersaksi dan memegang janji ketika kami masih kecil". (Mereka memukul kami bila melanggar perjanjian dan persaksian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3651</td></tr><tr><td>Arabic No</td><td>3651</td></tr><tr><td>Reference</td><td>Book 62 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «Лучшими людьми являются мои современники, после них — (те, что придут вслед за ними), после них — (те, что придут вслед за ними), а потом (появятся) люди, свидетельство каждого из которых будет опережать их клятву, а их клятва (будет опережать) их свидетельство».\nИбрахим ан-Наха‘и сказал: «Когда мы были маленькими, били (тех из) нас, кто свидетельствовал или давал обещание»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3651</td></tr><tr><td>Arabic No</td><td>3651</td></tr><tr><td>Reference</td><td>Book 62 Hadith 3</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported that when the Messenger of Allah (ﷺ) was in a journey he g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Salamah] dari [Humaid] dari [Bakar bin Abdullah] dari [Abdullah bin Rabah] dari [Abu Qatadah] katanya; Jika Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan lalu singgah di waktu malamnya, maka beliau berbaring dengan bertumpu lambung kanannya, apabila beliau singgah di saat-saat sebelum subuh, maka beliau tegakkan hastanya searah badannya, kemudian beliau letakkan kepalanya diatas telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1565</td></tr><tr><td>Arabic No</td><td>683</td></tr><tr><td>Reference</td><td>Book 5 Hadith 398</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада сказал: «Когда Посланник Аллаха ﷺ располагался на ночлег, находясь в пути, он укладывался на правый бок, если же это происходило незадолго до наступления утра, то он поднимал руку и клал голову на ладонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1565</td></tr><tr><td>Arabic No</td><td>683</td></tr><tr><td>Reference</td><td>Book 5 Hadith 398</td></tr></tbody></table></div>
 

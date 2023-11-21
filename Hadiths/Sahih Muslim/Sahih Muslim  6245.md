@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Az-Zubayr (رضي الله عنهما) a dit : Le jour du Fossé,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Al Khalil] dan [Suwaid bin Sa'id] keduanya dari [Ibnu Mushir] dia berkata; [Isma'il] Telah mengabarkan kepada kami ['Ali bin Mushir] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Abdullah bin Az Zubair] dia berkata; "Pada saat terjadi perang Khandak, saya dan Umar bin Abu Salamah berada di benteng Hassan bersama kaum wanita. Suatu ketika ia merundukkan kepalanya kepada saya dan saya memperhatikannya. Lalu saya pun merundukkan kepala saya kepadanya dan ia pun memperhatikannya. Saya mengenali ayah saya dengan baik ketika ia lewat dengan mengendarai kuda sambil menyandang senjata menuju Bani Quraizhah. Perawi hadits berkata, "Saya diberitahu oleh [Abdullah bin Urwah] dari [Abdullah bin Zubair] dia berkata, lalu saya tuturkan hal itu kepada [ayahku] dan ia pun berkata, Apakah kamu melihatku hai anakku?" Saya menjawab; "Ya, hai ayah!" Ayah saya berkata; "Demi Allah, pada hari itu Rasulullah mengumpulkan kedua orang tuanya untukku seraya berkata: 'Tebusanmu adalah bapak dan ibuku! Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Abdillah bin Az Zubair] dia berkata; "Pada saat terjadi perang Khandak, saya dan Umar bin Abu Salamah berada di sebuah benteng yang disana ada beberapa istri Rasulullah. (dan seterusnya sebagaimana yang semakna dengan Hadits Ibnu Mushir melalui jalur ini. Tetapi di dalamnya tidak menyebutkan Abdullah bin Urwah, dia menyisipkannya di dalam Hadits Hisyam dari Bapaknya dari Ibnu Zubair)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6245</td></tr><tr><td>Arabic No</td><td>2416.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6245</td></tr><tr><td>Arabic No</td><td>2416.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 75</td></tr></tbody></table></div>
 

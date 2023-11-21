@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying – will be accordi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4654</td></tr><tr><td>Arabic No</td><td>4654</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Мисвара ибн Махрамы, что в (год заключения мирного договора в) Худайбии Пророк ﷺ вышел… И он привёл хадис, в котором говорится: «Он, то есть ‘Урва ибн Мас‘уд ас-Сакафи, пришёл для переговоров и каждый раз, когда ‘Урва говорил что-нибудь, он дотрагивался до бороды Пророка ﷺ рядом с которым стоял аль-Мугира ибн Шу‘ба. При нём был меч, а на голове шлем. Аль-Мугирa ударил его по руке ножнами и сказал: «Убери свою руку от его бороды!» ‘Урва поднял голову и спросил: «Кто это?» Люди сказали: «Аль-Мугира ибн Шу‘ба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4654</td></tr><tr><td>Arabic No</td><td>4654</td></tr><tr><td>Reference</td><td>Book 42 Hadith 59</td></tr></tbody></table></div>
 

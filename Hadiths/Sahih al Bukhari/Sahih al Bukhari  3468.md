@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid bin 'Abdur-Rahman:That he heard Muawiya bin Abi Sufyan (talking)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Humaid bin 'AbdurRahman] bahwa dia mendengar [Mu'awiyah bin Abu Sufyan] pada tahun hajji (akhir masa pemerintahannya) berdiri di atas mimbar sambil memegang jambul rambutnya sedangkan di sampingna ada pengawalnya lalu berkata; "Wahai penduduk Madinah, mana 'ulama kalian. Aku mendengar Nabi shallallahu 'alaihi wasallam melarang hal semacam ini dan beliau bersabda: "Sesungguhnya Bani Isra'il binasa karena para wanita mereka melakukan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3468</td></tr><tr><td>Arabic No</td><td>3468</td></tr><tr><td>Reference</td><td>Book 60 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хумайда ибн ‘Абдуррахмана, что в год совершения им хаджа он слышал, как Му‘ауия ибн Аби Суфьян, поднявшись на минбар и взяв из рук охранника прядь волос, сказал: «О жители Медины, где же ваши учёные?! Я слышал, как Пророк ﷺ запрещал подобное и говорил: “Поистине, погибли сына Исраиля только тогда, когда их женщины стали использовать это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3468</td></tr><tr><td>Arabic No</td><td>3468</td></tr><tr><td>Reference</td><td>Book 60 Hadith 135</td></tr></tbody></table></div>
 

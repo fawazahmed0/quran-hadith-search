@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shuba:Solar eclipse occurred on the day of Ibrahim's dea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al walid] telah menceritakan kepada kami [Za'idah] telah menceritakan kepada kami [Ziyad bin 'Ilaqah] saya mendengar [Al Mughirah bin Syu'bah] berkata; "Terjadi gerhana pada hari meninggalnya Ibrahim." Di riwayatkan oleh Abu Bakrah dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6199</td></tr><tr><td>Arabic No</td><td>6199</td></tr><tr><td>Reference</td><td>Book 78 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугыйра ибн Шу’ба сказал: «В день смерти Ибрахима произошло солнечное затмение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6199</td></tr><tr><td>Arabic No</td><td>6199</td></tr><tr><td>Reference</td><td>Book 78 Hadith 223</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar: Allah's Messenger (ﷺ) said: Islam is based on (the followi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Musa] dia berkata, telah mengabarkan kepada kami [Hanzhalah bin Abu Sufyan] dari ['Ikrimah bin Khalid] dari [Ibnu Umar] berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: "Islam dibangun diatas lima (landasan); persaksian tidak ada ilah selain Allah dan sesungguhnya Muhammad utusan Allah, mendirikan shalat, menunaikan zakat, haji dan puasa Ramadlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 2 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал ‘Убейдулла ибн Муса, сказавший: Нам сообщил Ханзала ибн Абу Суфйан, от ‘Икримы ибн Халида от Ибн ‘Умара, да будет доволен Аллах ими обоими, сказавшего: сказал: «Посланник Аллаха ﷺ сказал: “Ислам основывается на пяти (столпах): свидетельстве о том, что нет божества, достойного поклонения, кроме Аллаха, и что Мухаммад — Посланник Аллаха, совершении молитвы, выплате закята, совершении хаджа и соблюдении поста в рамадане”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 2 Hadith 1</td></tr></tbody></table></div>
 

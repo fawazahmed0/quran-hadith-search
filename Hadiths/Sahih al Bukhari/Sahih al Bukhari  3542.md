@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:(Once) Abu Bakr offered the 'Asr prayer and then we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu 'Ashim] dari ['Umar bin Sa'id bin Abu Husain] dari [Ibnu Abu Mulaikah] dari ['Uqbah bin Al Harits] berkata; [Abu Bakar] mengerjakan shalat 'Ashar kemudian keluar berjalan kaki lalu dia melihat Al Hasan (cucu Nabi shallallahu 'alaihi wasallam) sedang bermain dengan anak-anak kecil lainnya lalu Abu Bakr menggendongnya di atas pundaknya dan berkata; "Demi bapakku, kamu mirip sekali dengan Nabi dan tidak mirip dengan 'Ali". Maka 'Ali pun tertawa karenanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 61 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн аль-Харис сказал: «(Однажды) Абу Бакр, да будет доволен им Аллах, совершил послеполуденную /‘аср/ молитву, а потом вышел наружу. Увидев игравшего с (другими) мальчиками аль-Хасана, он посадил его себе на плечи и сказал: “Да станет мой отец выкупом за тебя! Ты похож на Пророка ﷺ, а не на ‘Али!” — и ‘Али (, слышавший его слова,) рассмеялся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 61 Hadith 51</td></tr></tbody></table></div>
 

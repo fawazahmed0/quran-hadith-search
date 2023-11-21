@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Never did I feel jealous of the wives of Allah's Apostle (ﷺ) b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin 'Utsman]; Telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dia berkata; Saya tidak pernah merasa cemburu kepada para istri Rasulullah shallallahu 'alaihi wasallam yang lain kecuali kepada Khadijah, meskipun ia tidak hidup semasa dengan saya. Pernah, pada suatu hari, ketika Rasulullah shallallahu 'alaihi wasallam menyembelih seekor kambing, beliau berkata: 'Berikanlah sebagian daging kambing kepada teman-teman Khadijah! ' maka saya marah kepada Rasulullah sambil berkata; Khadijah?" Lalu beliau menjawab: "Sesungguhnya aku benar-benar telah dianugerahi cinta Khadijah." Telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kuraib] seluruhnya dari [Abu Mu'awiyah]; Telah menceritakan kepada kami [Hisyam] melalui jalur ini dengan Hadits yang serupa dengan Abu Usamah. Namun hanya sampai kisah seekor kambing, tidak ada tambahan setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6278</td></tr><tr><td>Arabic No</td><td>2435.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6278</td></tr><tr><td>Arabic No</td><td>2435.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 108</td></tr></tbody></table></div>
 

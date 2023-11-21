@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar reported:The pillars of the mosque of the Prophet (ﷺ) during the lif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Firas] dari ['Athiyyah] dari [Ibnu Umar] Bahwasanya Masjid Nabi shallallahu 'alaihi wasallam, tiang-tiang penyangganya adalah dari batang pohon kurma, bagian atasnya dibuat naungan dengan pelepah pohon kurma. Kemudian ia menjadi usang pada masa khilafah Abu Bakar, maka beliau merenovasinya dengan batang pohon dan pelepah kurma. Kemudian ia usang kembali pada masa khilafah Utsman, maka beliau merenovasinya dengan batu bata, maka ia masih tetap kokoh hingga sekarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>452</td></tr><tr><td>Reference</td><td>Book 2 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара о том, что столбы в мечети Пророка ﷺ при жизни Посланника Аллаха ﷺ были из пальмовых стволов, а верх был затенен голыми пальмовыми ветвями. Затем, когда они сгнили во время правления Абу Бакра, он (заново) отстроил ее со стволами и голыми пальмовыми ветвями. Затем они (опять) сгнили во время правления ‘Усмана, и он отстроил ее из обожженного кирпича и до сих пор не разрушилась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>452</td></tr><tr><td>Reference</td><td>Book 2 Hadith 62</td></tr></tbody></table></div>
 

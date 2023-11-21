@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jubayr Ibn Mut'im (que Dieu l'agrée) a dit : L'un de mes chameaux s'égara; j'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] semuanya dari [Ibnu Uyainah] - [Amru] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] ia mendengar [Muhammad bin Jubair bin Muth'im] menceritakan dari [bapaknya] Jubair bin Muth'im, ia berkata; Unta milikku hilang, maka aku pun pergi untuk mencarinya pada hari Arafah. Kemudian aku melihat Rasulullah shallallahu 'alaihi wasallam sedang wukuf di Arafah bersama orang-orang, maka saya pun berkata, "Demi Allah, mereka ini benar-benar dari kalangan Al Hums. Kenapa mereka ada di sini, padahal orang-orang Quraisy termasuk golongan Al Hums
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2956</td></tr><tr><td>Arabic No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 15 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2956</td></tr><tr><td>Arabic No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 15 Hadith 165</td></tr></tbody></table></div>
 

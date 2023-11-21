@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman bin Surd:When the clans were driven away, I heard the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 64 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сулеймана ибн Сурада, что в день (битвы с союзными) племенами Пророк, да благословит его Аллах и приветствует, сказал: «Отныне мы будем нападать на них, а они на нас — нет, мы отправимся к ним!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 64 Hadith 154</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ), while going out for the battle of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin Abdullah] berkata, telah menceritakan kepadaku [Ibrahim bin Sa'ad] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu berkata; Rasulullah shallallahu 'alaihi wasallam bersabda ketika hendak berangkat menuju perang Hunain: "Tempat singgah kita besok insya Allah di tempat peristirahatan Bani Kinanah tempat dimana mereka saling bersumpah setia diatas kekafiran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3882</td></tr><tr><td>Arabic No</td><td>3882</td></tr><tr><td>Reference</td><td>Book 63 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ когда хотел направиться в военный поход в Хунейн, он сказал: «Мы остановимся завтра в долине бану кинана, где (курайшиты) поклялись друг другу в неверии, если на то будет воля Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3882</td></tr><tr><td>Arabic No</td><td>3882</td></tr><tr><td>Reference</td><td>Book 63 Hadith 107</td></tr></tbody></table></div>
 

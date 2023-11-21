@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uthman ibn Abul'As: When the deputation of Thaqif came to the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ali bin Suwaid bin Ibnu Manjuf], Telah menceritakan kepada kami [Abu Daud] dari [Hammad bin Salamah], dari [Humaid] dari [Al Hasan] dari [Utsmat bin Abu Al 'Ash], bahwa utusan Tsaqif tatkala datang kepada Rasulullah shallallahu 'alaihi wasallam beliau menempatkannya di Masjid agar menjadi lebih lembut bagi hati mereka, dan mereka mensyaratkan kepada beliau agar tidak diseru untuk berperang, dan tidak diambil sepersepuluh dari harta mereka, dan tidak melakukan shalat. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagi kalian untuk tidak diseru melakukan perang, tidak diambil sepersepuluh dari harta kalian, dan tidak ada kebaikan dalam agama yang tidak ada ruku'nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3026</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 20 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Усмана ибн Абу аль-‘Аса, да будет доволен им Аллах, что, когда к Посланнику Аллаха ﷺ прибыла делегация сакыфитов, он поселил их в мечети, дабы смягчить их сердца. Они же поставили условия, что их не обяжут участвовать в сражениях, не будут брать с них налоги и десятину и не вменят им в обязанность молитву. Посланник Аллаха ﷺ сказал: «Хорошо, вас не обяжут участвовать в сражениях и не будут брать с вас десятину, однако нет блага в религии, в которой нет поклонов (Господу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3026</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 20 Hadith 99</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:'Abdullah the slave of Asma bint Abu Bakr, told me that he use
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Isa] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami ['Amru] dari [Abu Al Aswad] bahwa ['Abdullah, maula Asma' binti Abu Bakar] menceritakan kepadanya bahwa dia mendengar [Asma'] berkata: "Setiap kali ia melewati Al Hajun ia bersalawat untuk Rasulullah Muhammad, dan berkata; "Sungguh kami pernah singgah bersama Beliau disini, dan ketika itu kami amat kekurangan, bekal kami menipis. Lalu aku ber'umrah dengan saudara perempuanku 'Aisyah, Az Zubair, fulan dan fulan. Ketika kami telah selesai dari thawaf di Ka'bah, kami bertahallul kemudian kami berniat haji dari Al 'Asyiy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 26 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что каждый раз, как Асма бинт Абу Бакр, да будет доволен Аллах ими обоими, проходила мимо Хаджуна, она говорила: «Да благословит Аллах Мухаммада! Мы остановились здесь вместе с ним и в тот день мы были налегке: с нами было мало верховых животных и мало дорожных припасов. Я, и моя сестра ‘Аиша, и аз-Зубайр, и такой-то, и такой-то совершили умру, а после прикосновения Каабе мы вышли из состояния ихрама, после чего (тем же) вечером снова надели ихрамы для хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 26 Hadith 21</td></tr></tbody></table></div>
 

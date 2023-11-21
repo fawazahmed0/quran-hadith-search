@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:The Prophet (ﷺ) said, "Do not keep the fire burning in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhri] dari [Salim] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah kalian meninggalkan api (dalam keadaan menyala) di rumah kalian ketika kalian tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Пророк ﷺ сказал: «Не оставляйте огонь в домах своих, когда будете спать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
 

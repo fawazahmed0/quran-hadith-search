@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah (b. Mas'ud): The Messenger of Allah (ﷺ) as saying: He who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Abu Bakr] -maksudnya Abu Bakr Ibnu Ayyasy- dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan masuk surga orang yang dalam hatinya terdapat kesombongan sebesar biji sawi, dan tidak akan masuk ke dalam neraka orang yang dalam hatinya terdapat keimanan sebesar biji sawi." Abu Dawud berkata, " [Al Qaslami] meriwayatkannya dari [Al A'masy] seperti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (91)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4091</td></tr><tr><td>Arabic No</td><td>4091</td></tr><tr><td>Reference</td><td>Book 34 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не войдёт в Рай тот, в чьём сердце есть высокомерие хотя бы на вес горчичного зерна, и не войдёт в Огонь (навсегда) тот, в чьём сердце была вера хотя бы на вес горчичного зерна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (91)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4091</td></tr><tr><td>Arabic No</td><td>4091</td></tr><tr><td>Reference</td><td>Book 34 Hadith 72</td></tr></tbody></table></div>
 

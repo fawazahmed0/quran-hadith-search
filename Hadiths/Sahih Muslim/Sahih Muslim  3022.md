@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbis (Allah be pleased with him) reported that Mu'awiya b. Abu Safyin had t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah meceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] telah menceritakan kepadaku [Al Hasan bin Muslim] dari [Thawus] dari [Ibnu Abbas] bahwa [Mu'awiyah bin Abu Sufyan] telah mengabarkan kepadanya, ia berkata; "Aku pernah menggunting rambut Rasulullah shallallahu 'alaihi wasallam ketika beliau berada di Marwa." Atau aku melihatnya menggunting rambut beliau dan saat itu beliau berada di Marwa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>1246.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>1246.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 230</td></tr></tbody></table></div>
 

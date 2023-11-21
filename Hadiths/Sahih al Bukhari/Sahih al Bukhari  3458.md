@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That she used to hate that one should keep his hands on his flan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Abu adl-Dluha] dari [Masruq] dari ['Aisyah radliallahu 'anha] bahwa dia membenci seseorang (ketika shalat) bertolak pinggang dan berkata bahwa orang-orang Yahudi melakukannya. Hadits ini diikuti pula oleh [Syu'bah] dari [Al A'masy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>3458</td></tr><tr><td>Reference</td><td>Book 60 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Масрука о том, что ‘Аиша, да будет доволен ею Аллах, порицала, чтобы молящийся ставил руку на талию и говорила: «Так поступают иудеи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>3458</td></tr><tr><td>Reference</td><td>Book 60 Hadith 125</td></tr></tbody></table></div>
 

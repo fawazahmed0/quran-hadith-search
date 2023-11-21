@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Messenger of Allah (ﷺ) used to aske our permission on the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in], serta [Muhammad bin Isa] secara makna, mereka berkata; telah menceritakan kepada kami ['Abbad bin 'Abbad] dari ['Ashim] dari [Mu'adzah] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam meminta izin kepada kami apabila berada pada hari (giliran) seorang isteri dari kami setelah turunnya ayat: "Kamu boleh menangguhkan menggauli siapa yang kamu kehendaki di antara mereka (isteri-isterimu) dan (boleh pula) menggauli siapa yang kamu kehendaki." Mu'adzah berkata; kemudian aku katakan kepada Aisyah; apa yang engkau katakan kepada Rasulullah shallallahu 'alaihi wasallam? Ia berkata; aku katakan; apabila hal itu diserahkan kepadaku, maka aku tidak akan mendahulukan seorangpun atas diriku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘азы, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ спрашивал у нас разрешения после того, как было ниспослано: “Ты можешь по своему желанию отложить посещение любой из них (жён Пророка) и удержать возле себя ту, которую пожелаешь”» (сура 33 «аль-Ахзаб», аят 51). Му‘аза спросила: «И что ты говорила Посланнику Аллаха ﷺ в таких случаях?» Она ответила: «Я говорила, что, будь на то моя воля, я никому не уступила бы его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
 

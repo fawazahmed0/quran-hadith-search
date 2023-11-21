@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:A person entered the mosque while the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru bin Dinar] dari [Jabir bin 'Abdullah] berkata, "Seorang laki-laki datang saat Nabi shallallahu 'alaihi wasallam sedang memberikan khutbah di hadapan orang banyak pada hari Jum'at. Beliau lalu bertanya: "Wahai fulan, apakah kamu sudah shalat?" Orang itu menjawab, "Belum." Maka beliau bersabda: "Bangun dan shalatlah dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>930</td></tr><tr><td>Arabic No</td><td>930</td></tr><tr><td>Reference</td><td>Book 11 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Как-то раз) во время произнесения Пророком ﷺ хутбы в пятницу (в мечеть) пришел один человек. (Пророк ﷺ) спросил (этого человека): “Совершил ли ты намаз, о такой-то?” (Тот) ответил: “Нет”. (Пророк ﷺ) сказал: “Тогда) встань и соверши два рак‘ата намаза”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>930</td></tr><tr><td>Arabic No</td><td>930</td></tr><tr><td>Reference</td><td>Book 11 Hadith 54</td></tr></tbody></table></div>
 

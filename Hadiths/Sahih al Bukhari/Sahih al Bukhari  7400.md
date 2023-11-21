@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundab:That he witnessed the Prophet (ﷺ) on the Day of Nahr. The Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafs bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Al Aswad bin Qais] dari [Jundab] ia pernah menyaksikan Nabi shallallahu 'alaihi wasallam di hari raya kurban (idul adla) mendirikan shalat, kemudian berkhutbah dan bersabda: "Barangsiapa menyembelih sebelum shalat, hendaklah ia menyembelih kembali dengan sembelihan lain sebagai gantinya, dan barangsiapa belum menyembelih, hendaklah menyembelih dengan menyebut nama Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7400</td></tr><tr><td>Arabic No</td><td>7400</td></tr><tr><td>Reference</td><td>Book 97 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джундуб, да будет доволен им Аллах, передаёт, что он видел как Пророк ﷺ в День жертвоприношения совершил молитву, а затем обратился с проповедью и сказал: «Кто совершил жертвоприношение до молитвы, пусть зарежет вместо него другого. А кто ещё не совершил жертвоприношения, пусть сделает это с именем Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7400</td></tr><tr><td>Arabic No</td><td>7400</td></tr><tr><td>Reference</td><td>Book 97 Hadith 29</td></tr></tbody></table></div>
 

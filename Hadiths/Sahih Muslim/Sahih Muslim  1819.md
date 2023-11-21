@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] dan [Zuhair bin Harb] -Amru- berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] sampai pada Nabi shallallahu 'alaihi wasallam (bahwa beliau bersabda): "Syetan akan mengikat tengkuk salah seorang dari kalian saat ia tidur dengan tiga ikatan. Dengan setiap ikatan ia akan membisikkan padamu bahwa malam masih panjang. Jika ia terbangun lalu berdzikir kepada Allah, lepaslah satu ikatan, jika ia berwudlu maka lepaslah dua ikatan. Dan jika ia melanjutkan dengan shalat, maka lepaslah seluruh ikatan itu, sehingga pada pagi harinya ia mulai dengan penuh kesemangatan dan jiwanya pun sehat. Namun jika tidak, maka dia akan memasuki waktu pagi dengan jiwa yang keji dan penuh kemalasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1819</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 6 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Когда любой из вас засыпает, шайтан завязывает у него на затылке три узла, ударяя по каждому из них (и говоря): “Ночь твоя будет долгой, (спи же)!” Если (человек) проснётся и помянет Аллаха, развяжется один узел; если он совершит омовение, развяжутся два узла, а если совершит молитву, то развяжутся (все) узлы, и человек проснётся утром бодрым и довольным, иначе же он встанет ото сна в дурном расположении духа и будет вялым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1819</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 6 Hadith 247</td></tr></tbody></table></div>
 

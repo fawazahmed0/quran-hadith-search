@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakra reported Allah's Messenger (ﷺ) as saying:There would soon be turmoil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil Al Jahdari Fudhail bin Husain] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Utsman Asy Syahham] berkata: Aku pergi bersama Farqad As Sabakhi untuk menemui [Muslim bin Abu Bakrah] di kawasannya. Kami memasuki kediamannya lalu kami bertanya: Apakah kau mendengar ayahmu menceritakan suatu hadits tentang tentang fitnah? Ia menjawab: Ya, aku pernah mendengar [Abu Bakrah] menceritakan, ia berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya akan terjadi fitnah-fitnah, ingat, setelah itu terjadi fitnah, orang duduk saat itu lebih baik dari pada yang berjalan dan yang berjalan saat itu lebih baik dari yang berlari kecil menujunya. Ingat, bila fitnah terjadi, barangsiapa memiliki unta, hendaklah menyusul dengan untanya, barangsiapa memiliki kambing, hendaklah menyusul dengan kambingnya dan barangsiapa memiliki tanah, hendaklah menyusul dengan tanahnya." Seseorang bertanya: Wahai Rasulullah, menurut Tuan bagaimana dengan orang yang tidak memiliki onta, kambing atau tanah? Beliau menjawab: "Ia berpegangan pada pedangnya lalu memukulkan bagian tajamnya ke batu kemudian hendaklah menyelamatkan diri bila mampu. Ya Allah, apakah telah aku sampaikan, Ya Allah, apakah telah aku sampaikan, Ya Allah, apakah telah aku sampaikan?" seseorang bertanya: Wahai Rasulullah, menurut Tuan bagaimana bila aku dipaksa hingga aku dibawa menuju salah satu dari kedua kubu atau salah satu dari dua kelompok lalu seseorang menebasku dengan pedangnya atau anak panah menimpaku lalu membunuhku? Beliau menjawab: "Ia datang membawa dosanya dan dosamu dan ia termasuk penghuni neraka." telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata: Telah menceritakan kepada kami [Waki']. Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abi Adi] keduanya dari [Utsman Asy Syahham] dengan sanad ini hadits Ibnu Abi Adi seperti hadits Hamad hingga akhirnya. Hadits Waki' sampai pada sabda: "Bila mampu menyelamatkan diri, " dan tidak menyebut setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7250</td></tr><tr><td>Arabic No</td><td>2887.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7250</td></tr><tr><td>Arabic No</td><td>2887.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 16</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When Allah's Messenger (ﷺ) arrived at Medina, he aligh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['AbdulWarits]. Dan diriwayatkan pula, telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami ['Abdush Shamad] berkata, aku mendengar [Bapakku] bercerita, telah menceritakan kepadaku [Abu At Tayyah. Yazid bin Humaid Adl Dluba'i] berkata, telah menceritakan kepadaku [Anas bin Malik] radliallahu 'anhu berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, beliau singgah di dataran tinggi Madinah, sebuah perkampungan yang mereka kenal sebagai Suku 'Amru bin 'Auf. Anas berkata; "Maka beliau tinggal selama empat belas malam. Kemudian beliau mengutus seseorang untuk menemui pemimpin suku Bani Najjar. Maka mereka datang sambil menyarungkan pedang di badan mereka. Anas melanjutkan; "Aku melihat Nabi shallallahu 'alaihi wasallam diatas tunggangannya, sedangkan Abu Bakar membonceng di belakang beliau, sementara para pembesar suku Najjar mendampingi di sekeliling beliau hingga sampai di sumur milik Abu Ayyub. Anas berkata; "Beliau lalu bersegera mendirikan shalat saat waktu sudah masuk. Beliau shalat di kandang kambing. Kemudian beliau memerintahkan untuk membangun masjid. Lalu Beliau mengutus seseorang untuk menemui pembesar suku Najjar. Utusan itu berkata; "Wahai suku Najjar, sebutkan berapa harga kebun kalian ini?" Mereka berkata; "Tidak, demi Allah. Kami tidak akan menjualnya kecuali kepada Allah!". Anas berkata; "Aku beritahu kepada kalian bahwa kebun itu banyak terdapat kuburan orang-orang musyrik, juga ada sisa-sisa reruntuhan rumah dan pohon-pohon kurma." Maka Nabi shallallahu 'alaihi wasallam memerintahkan untuk membongkar kuburan-kuburan tersebut. Sedangkan reruntuhan rumah supaya diratakan dan untuk pohon-pohon kurma ditumbangkan, lalu dipindahkan didepan arah qiblat masjid. Anas berkata; "Maka mereka bekerja membuat pintu masjid dari pohon dan mengangkut bebatuan yang besar-besar sambil bersenandung. Sedangkan Rasulullah shallallahu 'alaihi wasallam ikut bekerja bersama mereka sambil mengucapkan: "Ya Allah, tidak ada kebaikan kecuali kebaikan akhirat, maka tolonglah kaum Anshar dan Muhajirin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3932</td></tr><tr><td>Arabic No</td><td>3932</td></tr><tr><td>Reference</td><td>Book 63 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Прибыв в Медину, Посланник Аллаха ﷺ (сначала) остановился в верхней части города в квартале, населённом людьми из рода бану ‘амр ибн ‘ауф. Среди них он прожил четырнадцать дней, после чего послал за людьми из рода бану ан-наджжар, которые явились к нему, опоясавшись мечами. И у меня до сих пор стоят перед глазами Посланник Аллаха ﷺ на своей верблюдице, сидящий в седле позади него Абу Бакр и толпа людей из бану ан-наджжар, которые окружали его до тех пор, пока он не спешился во дворе дома Абу Аййюба. (Посланник Аллаха ﷺ) обычно молился там, где его заставало время молитвы, и (в такие моменты) молился даже в загонах для овец. И (после этого) он велел построить мечеть, послал за людьми из бану ан-наджжар и сказал: “О (предводители) бану ан-наджжар, назначьте мне цену за этот ваш сад”. Они ответили: “Нет, клянёмся Аллахом, мы потребуем плату за неё только от Аллаха!”».\nАнас сказал: «А там находились могилы многобожников, развалины и пальмы. И по велению Посланника Аллаха ﷺ могилы были срыты, развалины сровняли с землёй, а пальмы вырубили, поставив их рядами как (стену) киблы (будущей) мечети. Кроме того, люди выложили из камня две боковые стены и занялись переноской камней, декламируя стихи. Вместе с ними был и Посланник Аллаха ﷺ, который говорил: “О Аллах, нет блага, кроме блага мира вечного! Помоги же ансарам и мухаджирам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3932</td></tr><tr><td>Arabic No</td><td>3932</td></tr><tr><td>Reference</td><td>Book 63 Hadith 157</td></tr></tbody></table></div>
 

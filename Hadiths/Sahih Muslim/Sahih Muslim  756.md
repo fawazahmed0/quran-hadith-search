@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Messenger of Allah (ﷺ) reported:Umm Habiba b. Jahsh wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Salamah al-Muradi] telah menceritakan kepada kami [Abdullah bin Wahb] dari [Amr bin al-Harits] dari [Ibnu Syihab] dari [Urwah bin az-Zubair] dan [Amrah binti Abdurrahman] dari [Aisyah istri Nabi shallallahu 'alaihi wasallam] bahwa Ummu Habibah binti Jahsy (kerabat dekat dari pihak istri) Rasulullah shallallahu 'alaihi wasallam -sedangkan ketika itu dia berada di bawah tali pernikahan dengan Abdurrahman bin Auf- sedang istihadhah tujuh tahun, lalu dia meminta fatwa Rasulullah shallallahu 'alaihi wasallam dalam masalah hal tersebut. Maka Rasulullah shallallahu 'alaihi wasallam bersabda, " ini bukanlah darah haid, akan tetapi darah penyakit, maka mandilah dan shalatlah." Aisyah berkata, "Maka dia mandi di baskom besar di kamar saudarinya, Zainab bintu Jahsy hingga merahnya darah naik ke permukaan air." Ibnu Syihab berkata, "Lalu aku menceritakan hal tersebut kepada Abu Bakar bin Abdurrahman bin al-Harits bin Hisyam maka dia berkata, 'Semoga Allah merahmati Hindun kalau dia mendengar fatwa ini. Demi Allah, jika dia dulu mendengar, niscaya dia akan menangis karena dia tidak melakukan shalat'." Dan telah menceritakan kepadaku [Abu Imran Muhammad bin Ja'far bin Ziyad] telah mengabarkan kepada kami [Ibrahim yaitu Ibnu Sa'ad] dari [Ibnu Syihab] dari [Amrah binti Abdurrahman] dari [Aisyah radhiyallahu'anhu] dia berkata, "Ummu Habibah bintu Jahsy mendatangi Rasulullah Shallallahu'alaihiwasallam, dan dia dalam keadaan istihadhah selama tujuh tahun" sebagaimana hadits Amru bin al-Harits hingga perkataannya, "Merahnya naik naik ke permukaan air." Dan dia tidak menyebutkan kalimat sesudahnya. Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Amrah] dari [Aisyah] "bahwa putrid Jahsy dahulu mengalami istihadhah selama tujuh tahun" sebagaimana hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>756</td></tr><tr><td>Arabic No</td><td>334.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, жены Пророка ﷺ, что у Умм Хабибы бинт Джахш, родственницы Посланника Аллаха ﷺ и которая являлась женой ‘Абдуррахмана ибн ‘Ауфа, было хроническое кровотечение в течение семи лет. Она обратилась к Посланнику Аллаха ﷺ с вопросом об этом, и Посланник Аллаха ﷺ сказал: «Это не менструальная кровь, а венозная. (Поэтому) искупайся и совершай молитву».‘Аиша сказала: «И она купалась в корыте, в комнате своей сестры Зайнаб бинт Джахш, пока вода не становилась красной от крови»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>756</td></tr><tr><td>Arabic No</td><td>334.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 78</td></tr></tbody></table></div>
 

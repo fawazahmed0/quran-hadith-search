@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Said Al-Khudri: Allah's Messenger (ﷺ) said, "While I was sleeping
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaidillah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dari [Abu Umamah bin Sahal bin Hunaif] bahwasanya dia mendengar [Abu Said Al Khudri] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, aku bermimpi melihat orang-orang dihadapkan kepadaku. Mereka mengenakan baju, diantaranya ada yang sampai kepada buah dada dan ada yang kurang dari itu. Dan dihadapkan pula kepadaku Umar bin Al Khaththab dan dia mengenakan baju dan menyeretnya. Para sahabat bertanya: "Apa maksudnya hal demikian menurut engkau, ya Rasulullah?" Beliau shallallahu 'alaihi wasallam menjawab: "Ad-Din (agama)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>23</td></tr><tr><td>Arabic No</td><td>23</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Умамы ибн Сахля о том, что он слышал, как Абу Са‘ид аль-Худри, да будет доволен им Аллах, говорил: «(Однажды) Посланник Аллаха ﷺ сказал: “Мне были показаны во сне люди, одетые в рубахи. Некоторые из них доходили (только) до сосков, а иные были ещё короче. И был мне показан ‘Умар ибн аль-Хаттаб, на котором рубаха была (такой) длинной, что волочилась за ним (по земле)”. Люди спросили: “И как же ты истолковал это, о Посланник Аллаха?” Он ответил: “(Это − ) религия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>23</td></tr><tr><td>Arabic No</td><td>23</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
 

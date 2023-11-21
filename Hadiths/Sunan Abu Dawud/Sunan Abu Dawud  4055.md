@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:It is only a garment wholly made of silk which the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Nufail] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Khushaif] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Hanyasanya yang Rasulullah shallallahu 'alaihi wasallam larang adalah kain yang murni dari sutera, adapun jika itu berupa gambar atau benangnya saja, maka tidaklah mengapa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 34 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ запретил носить одежду, сделанную целиком из шёлка. Что же касается полос из шёлка, а также основы ткани, то в этом нет ничего страшного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 34 Hadith 36</td></tr></tbody></table></div>
 

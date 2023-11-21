@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:We fought In the company of the Messenger of Allah (ﷺ) with the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Zubair] dari [Jabir] ia berkata; Kami pernah berperang bersama Rasulullah shallallahu 'alaihi wasallam menghadapi orang-orang Juhainah. Mereka menyerang kami dengan serangan yang dahsyat. Ketika kami menunaikan shalat Zhuhur, orang-orang musyrik itu berkata, "Seandainya kita menyerang mereka, pasti kita akan mengalahkan mereka." Maka Malaikat Jibril memberitahukan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam pun memberitakannya kepada kami. Para sahabat mengatakan bahwa akan tiba kepada mereka suatu shalat yang lebih mereka senangi daripada anak-anak. Ketika waktu Asar tiba, beliau membariskan kami untuk shalat dalam dua shaf, sementara orang-orang musyrik berada di antara kami dan kiblat. Lalu Rasulullah shallallahu 'alaihi wasallam bertakbir, dan kami pun ikut bertakbir. Beliau ruku' kami pun ruku'. Kemudian beliau sujud, kami pun sujud. Lalu shaf pertama mundur dan shaf kedua maju (tukar posisi) untuk berdiri di tempat shaf pertama. Kemudian Rasulullah shallallahu 'alaihi wasallam bertakbir, kami ikut bertakbir, dan beliau ruku' kami pun ruku', lalu beliau sujud dengan diikuti shaf pertama sedangkan shaf kedua tetap berdiri. Setelah shaf kedua sujud, kemudian mereka semuanya duduk, maka Rasulullah shallallahu 'alaihi wasallam mengucapkan salam." Abu Zubair berkata; Jabir mengkhususkan, "Sebagaimana shalaf (Khauf) yang dilakukan oleh para pemimpin kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>840.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 374</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир сказал: «Мы вместе с Посланником Аллаха ﷺ участвовали в военном походе на людей из (племени) джухайна, и они вступили с нами в жестокий бой. Когда мы приступили к совершению полуденной молитвы, многобожники стали говорить (друг другу): “Если мы нападём на них (сейчас), то сможем уничтожить их поодиночке”. Джибриль сообщил об этом Посланнику Аллаха ﷺ, (который передал его слова) нам и сказал: “И (многобожники) говорили: ‹(Скоро) настанет (время) молитвы, которую (мусульмане) любят больше (собственных) детей›”. Когда настало время послеполуденной молитвы, (Пророк ﷺ) выстроил нас в два ряда, что же касается многобожников, то они находились меж нами и киблой. После этого Посланник Аллаха ﷺ произнёс слова “Аллах велик”, и мы тоже произнесли их. Потом он совершил поясной поклон, и мы тоже совершили его, потом он склонился в земном поклоне, и (его примеру последовали люди, находившиеся в) первом ряду, а когда они встали, земной поклон совершили (находившиеся во) втором ряду. Затем первый ряд отодвинулся назад, а второй выдвинулся вперёд и занял место первого, после чего Посланник Аллаха ﷺ произнёс слова “Аллах велик”, и мы тоже произнесли их. Потом он совершил поясной поклон, и мы тоже совершили его. Потом он склонился в земном поклоне, и (его примеру последовали люди, находившиеся в) первом ряду, тогда как (находившиеся во) втором ряду остались стоять. Когда же земной поклон совершили (и находившиеся во) втором ряду, все сели, а Посланник Аллаха ﷺ произнёс слова приветствия /таслим/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>840.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 374</td></tr></tbody></table></div>
 

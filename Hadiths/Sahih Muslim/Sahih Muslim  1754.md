@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar said:He who prayed at night should make Witr the end of his prayer, fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Laits], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibn Rumh] telah mengabarkan kepada kami [Al Laits] dari [Nafi'] bahwa [Ibnu Umar] berkata; "Barangsiapa mengerjakan shalat malam, hendaknya ia menjadikan akhir shalatnya witir, sebab Rasulullah shallallahu 'alaihi wasallam menyuruh yang demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1754</td></tr><tr><td>Arabic No</td><td>751.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Нафи‘ передал, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Тот, кто будет молиться ночью, пусть последняя его молитва будет состоять из нечётного числа рак‘атов /витр/, ибо, поистине, Пророк ﷺ повелевал это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1754</td></tr><tr><td>Arabic No</td><td>751.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 183</td></tr></tbody></table></div>
 

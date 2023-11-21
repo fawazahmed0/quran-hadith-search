@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:Hamzat al-Aslami asked the Prophet (ﷺ): Messenger of Allah, I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], serta [Musaddad], mereka berkata; telah menceritakan kepada kami [Hammad], dari [Hisyam bin 'Urwah] dari [ayahnya], dari [Aisyah] bahwa Hamzah Al Aslami telah bertanya kepada Nabi shallallahu 'alaihi wasallam, ia berkata; wahia Rasulullah, saya adalah seorang laki-laki yang melakukan puasa secara berturut-turut, apakah saya boleh berpuasa ketika sedang bersafar? Beliau berkata: "Berpuasalah jika engkau menghendaki dan berbukalah jika engkau menghendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1121)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>2402</td></tr><tr><td>Reference</td><td>Book 14 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Хамза аль-Аслями спросил Пророка ﷺ: «О Посланник Аллаха! Поистине, я постоянно соблюдаю пост, так не поститься ли мне и в пути?» Он ответил: «Постись, если хочешь, и оставляй пост, если хочешь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1121)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>2402</td></tr><tr><td>Reference</td><td>Book 14 Hadith 90</td></tr></tbody></table></div>
 

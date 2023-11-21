@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:I and 'Uthman bin 'Affan went to Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Ibnu Al Musayyab] dari [Jubair bin Muth'im] berkata; 'Aku dan 'Utsman bin 'Affan berjalan menemui Rasulullah shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam, lalu kami katakan; "Wahai Rasulullah, baginda memberikan Bani Al Muthallib tapi kami tidak, padahal kami di hadapan baginda kedudukannya sama". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Bani Al Muthallib dan Banu Hasyim adalah satu (sama kedudukannya). [Al Laits] berkata telah bercerita kepadaku [Yunus] dan dia menambahkan, [Jubair] berkata; Dan Nabi shallallahu 'alaihi wasallam tidak membagikan kepada Banu 'Abdu Syamsi, tidak juga kepada Banu Naufal". Dan Ibnu Ishaq berkata; "'Abdu Syams, Hasyim dan Al Muthallib adalah saudara satu ibu yang bernama 'Atikah binti Murrah sedangkan Naufal adalah saudara mereka dari pihak bapak mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3140</td></tr><tr><td>Arabic No</td><td>3140</td></tr><tr><td>Reference</td><td>Book 57 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Мут‘им сказал: «Я пришёл вместе с ‘Усманом ибн ‘Аффаном к Посланнику Аллаха ﷺ, и мы сказали: “О Посланник Аллаха! Ты наделил людям из бану аль-мутталиб, но ничего не дал нам, а ведь мы состоим с тобой в родстве такой же степени, как и они”. Посланник Аллаха, ﷺ сказал: “Бану хашим и бану аль-мутталиб — это одно целое”». \nДжубайр сказал: «И Пророк ничего не дал из пятой части ни бану ‘абд шамс, ни бану науфаль».\nИбн Исхак сказал: «‘Абд шамс, Хашим и аль-Мутталиб были братьями по материнской линии, и их матерью была ‘Атика бинт Мурра, а Науфаль был их братом по отцовской линии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3140</td></tr><tr><td>Arabic No</td><td>3140</td></tr><tr><td>Reference</td><td>Book 57 Hadith 48</td></tr></tbody></table></div>
 

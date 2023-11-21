@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn 'Abbas said:"In the pre-lslamic period of ignorance I heard my father saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Он также сказал, что Ибн ‘Аббас сказал: «В доисламский период невежества я слышал, как мой отец говорил: “Напои нас из полных чаш”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
 

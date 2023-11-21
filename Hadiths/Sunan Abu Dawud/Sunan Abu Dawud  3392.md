@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hanzlah b. Qais al-Ansari: I asked Rafi' b. Khadij about the lease of l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada kami [Isa], telah menceritakan kepada kami [Al Auza'i], dan telah diriwayatkan dari jalur yang lain: Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits], keduanya berasal dari [Rabi'ah bin Abu Abdurrahman], sedangkan lafazhnya adalah lafazh Al Auza'i. telah menceritakan kepadaku [Hanzhalah bin Qais Al Anshari], ia berkata; aku bertanya kepada [Rafi' bin Khadij] mengenai penyewaan tanah dengan emas dan perak. Kemudian ia berkata; tidak mengapa. Sesungguhnya orang-orang dahulu pada masa Rasulullah shallallahu 'alaihi wasallam menyewakan dengan upah apa yang tumbuh di kedua sisi saluran air, dan rumput-rumput sungai serta berbagai hal dari pertanian. Kemudian ada yang rusak dan ada yang baik, dan orang-orang tidak memiliki cara menyewakan kecuali seperti ini. Oleh karena itu beliau melarang dari hal tersebut. Adapun sesuatu yang terjamin dan diketahui maka tidak mengapa. Dan hadits Ibrahim lebih sempurna. Qutaibah berkata; dari Hanzhalah, dari Rafi'. Abu Daud berkata; riwayat Yahya bin Sa'id dari Hanzhalah seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2346، 2347) Sahih Muslim (1547 After 1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3392</td></tr><tr><td>Arabic No</td><td>3392</td></tr><tr><td>Reference</td><td>Book 23 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ханзаля ибн Кайс аль-Ансари передаёт: «Я спросил Рафи‘ ибн Хадиджа о сдаче земли внаём за золото и серебро, и он сказал: “В этом нет ничего греховного. Во времена Посланника Аллаха ﷺ люди отдавали свою землю в пользование с условием, что им достанется то, что у самых рек, ручьёв и каналов, или урожай с определённого участка. И то одна часть урожая погибала, а другая оставалась, то наоборот, и то один, то второй оставался ни с чем. А у людей не было другого вида сдачи земли внаём. Поэтому (Посланник Аллаха ﷺ) предостерёг от этого [потому что оно сопряжено с неизвестностью и риском]. Что же касается гарантированного и известного, то в этом нет ничего греховного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2346، 2347) Sahih Muslim (1547 After 1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3392</td></tr><tr><td>Arabic No</td><td>3392</td></tr><tr><td>Reference</td><td>Book 23 Hadith 67</td></tr></tbody></table></div>
 

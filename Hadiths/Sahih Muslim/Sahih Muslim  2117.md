@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée) au temps du Prophète (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Amir Al Asy'ari Abdullah bin Barrad] dan [Muhammad bin Al Ala'] keduanya berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] ia berkata; Pada zaman Nabi shallallahu 'alaihi wasallam pernah terjadi gerhana matahari, beliau terkejut dan bergegas berdiri karena takut kalau-kalau akan terjadi kiamat. Sampai beliau masuk ke masjid dan melaksanakan shalat dengan berdiri, ruku dan sujud yang panjang sekali, aku belum pernah melihat beliau memanjangkan bacaan sedemikian lama sebelumnya, kemudian beliau bersabda: "Sesungguhnya semua tanda-tanda yang dikirimkan Allah ini bukanlah disebabkan oleh meninggalnya atau lahirnya seseorang, akan tetapi Allah mengirimnya untuk menakut-nakuti para hamba-Nya. Oleh sebab itu jika kalian melihatnya maka bersegeralah berdzikir mengingat Allah, memanjatkan do'a padaNya, serta memohon ampunan-Nya." Dalam hadits yang diriwayatkan oleh Ibnu Al 'Alaa' disebutkan: "Terjadi gerhana matahari…" dan dia berkata; "Untuk menakut-nakuti hambaNya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2117</td></tr><tr><td>Arabic No</td><td>912</td></tr><tr><td>Reference</td><td>Book 10 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «Когда произошло солнечное затмение, Пророк ﷺ в страхе встал (со своего места), опасаясь, что настал Час этот, пришёл в мечеть и стал совершать молитву, и я никогда прежде не видел, чтобы он стоял и склонялся в поясных и земных поклонах так долго, (а потом) он сказал: “Ни смерть, ни жизнь никого (из людей) не (может) служить причиной этих знамений, посылаемых Аллахом, но ими Аллах внушает страх Своим рабам, а поэтому, когда вы увидите что-нибудь подобное, начинайте поминать Его, взывать к Нему с мольбами и просить Его о прощении”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2117</td></tr><tr><td>Arabic No</td><td>912</td></tr><tr><td>Reference</td><td>Book 10 Hadith 26</td></tr></tbody></table></div>
 

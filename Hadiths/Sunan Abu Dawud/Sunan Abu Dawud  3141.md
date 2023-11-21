@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: By Allah, we did not know whether we should take
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili], telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq], telah menceritakan kepadaku [Yahya bin 'Abbad] dari [ayahnya yaitu 'Abbad bin Abdullah bin Az Zubair], ia berkata; aku mendengar [Aisyah] berkata; tatkala mereka hendak memandikan Rasulullah shallallahu 'alaihi wasallam mereka mengatakan; demi Allah, kami tidak tahu apakah kita akan menelanjangi Rasulullah shallallahu 'alaihi wasallam dari pakaiannya sebagaimana kita menelanjangi orang-orang yang meninggal diantara kita atau kita memandikannya dalam keadaan beliau memakai pakaiannya? Tatkala mereka berselisih, Allah menidurkan mereka hingga tidak ada seorangpun melainkan dagunya menempel pada dadanya. Kemudian mereka diajak bicara seseorang yang berbicara dari sisi rumah, mereka tidak mengetahui siapakah dia. Orang tersebut berkata; mandikan Nabi shallallahu 'alaihi wasallam dalam keadaan memakai pakaiannya. Kemudian mereka bangkit menuju kepada Rasulullah shallallahu 'alaihi wasallam dan memandikan beliau dalam keadaan beliau memakai jubahnya. Mereka menuangkan air dari atas jubah dan memijat-mijatnya dengan jubah bukan dengan tangan mereka. Aisyah berkata; seandainya nampak bagiku dahulu seperti apa yang nampak sekarang ini maka tidak ada yang memandikan beliau kecuali para isterinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3141</td></tr><tr><td>Arabic No</td><td>3141</td></tr><tr><td>Reference</td><td>Book 21 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Когда люди собрались омыть тело Пророк ﷺ они сказали: “Клянёмся Аллахом, мы не знаем, следует ли нам снять с Посланника Аллаха ﷺ одежду [перед омовением тела], как мы обычно поступаем с нашими умершими, или же нам омывать его прямо в одежде?” И когда они разошлись о мнениях, Всевышний Аллах наслал на них сон, так что подбородок каждого из них коснулся груди, а потом они услышали голос, идущий с другой стороны дома, причём они не знали, кто говорит: мол, омывайте тело Пророка ﷺ не снимая одежды. И они пошли к Посланнику Аллаха ﷺ и омыли его тело прямо в рубахе: поливая водой поверх ткани, слегка потирали тело через рубаху. И если бы я могла повернуть время вспять, я постаралась бы сделать так, чтобы его тело омывали только его жёны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3141</td></tr><tr><td>Arabic No</td><td>3141</td></tr><tr><td>Reference</td><td>Book 21 Hadith 53</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Abdullah bin Wahab] telah menceritakan kepadaku [Umar bin Muhammad] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa membeli makanan, maka janganlah menjualnya sebelum dia memilikinya dengan sempurna dan memegangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3844</td></tr><tr><td>Arabic No</td><td>1526.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3844</td></tr><tr><td>Arabic No</td><td>1526.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 44</td></tr></tbody></table></div>
 

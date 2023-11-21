@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:The prophet (ﷺ) used to say when prostrating himself: “O A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Ahmad bin As Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yahya bin Ayyub] dari ['Umarah bin Ghaziyah] dari [Sumayya bekas budak Abu Bakar] dari [Abu Shalih] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam dalam sujudnya membaca: "Allahummaghfir li dzanbi kulluhu diqqahu wa jillahu wa awwalahu wa akhirahu" (ya Allah ampunilah dosaku semuanya, baik yang kecil maupun yang besar, dan dari yang pertama sampai yang terakhir)." Ibnu Siraj menambahkan "Alaniyatahu wa sirrahu" (baik yang nampak ataupun yang tersembunyi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (483)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>878</td></tr><tr><td>Arabic No</td><td>878</td></tr><tr><td>Reference</td><td>Book 2 Hadith 488</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что во время совершения земных поклонов Пророк ﷺ обычно обращался к Аллаху с такой мольбой: «О Аллах, прости мне все мои грехи: малые и большие, первые и последние».А в версии Ибн ас-Сарджа имеется добавление: «…явные и тайные (Аллахумма, гфир ли занби кулля-ху: дикка-ху ва джилля-ху, ва авваля-ху ва ахыра-ху, ва алянийата-ху ва сирра-ху)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (483)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>878</td></tr><tr><td>Arabic No</td><td>878</td></tr><tr><td>Reference</td><td>Book 2 Hadith 488</td></tr></tbody></table></div>
 

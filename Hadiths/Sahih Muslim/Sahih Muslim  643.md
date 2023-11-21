@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira said:When anyone amongst you wakes up from sleep, he must not put hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Nashr bin Ali al-Jahdlami] dan [Hamid bin Umar al-Bakrawi] keduanya berkata, telah menceritakan kepada kami [Bisyr bin al-Mufadldlal] dari [Khalid] dari [Abdullah bin Syaqiq] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian bangun dari tidurnya maka janganlah dia mencelupkan tangannya ke dalam bejana hingga dia membasuhnya tiga kali, karena dia tidak mengetahui di mana tangan itu menginap." Telah menceritakan kepada kami [Abu Kuraib] dan [Abu Sa'id al-Asyajj] keduanya berkata, telah menceritakan kepada kami [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah] keduanya dari [al-A'masy] dari [Abu Razin], dan [Abu Shalih] dari [Abu Hurairah], dalam hadits Abu Mu'awiyah dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda, sedangkan dalam hadits Waki', dia berkata; dia telah memarfu'kannya, seperti hadits tersebut." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru an-Naqid] serta [Zuhair bin Harb] mereka berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Abu Salamah]. (dalam riwayat lain disebutkan) Dan telah menceritakannya kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dari [Ibnu al-Musayyab] keduanya dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, dengan hadits semisal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>643</td></tr><tr><td>Arabic No</td><td>278.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Когда кто-нибудь из вас встанет ото сна, пусть не погружает руку в сосуд (с водой), пока трижды не омоет её, ибо он не знает, где находилась его рука ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>643</td></tr><tr><td>Arabic No</td><td>278.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 109</td></tr></tbody></table></div>
 

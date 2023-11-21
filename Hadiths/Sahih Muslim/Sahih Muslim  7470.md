@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah al-Khaulani reported that when Uthman b. 'Affan tried to rebuild the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] dan [Ahmad bin Isa] keduanya berkata: telah menceritakan kepada kami [Ibnu Wahab] telah mengkhabarkan kepadaku [Amru bin Al Harits] bahwa [Bukair] telah menceritakan kepadanya bahwa [Ashim bin Umar bin Qatadah] telah menceritakan kepadanya bahwa ia mendengar [Ubaidullah Al Khaulani] menyebutkan bahwa ia mendengar [Utsman bin Affan] saat orang-orang berkata tentang dia saat membangun masjid Rasulullah Shallallahu 'alaihi wa Salam: Sesungguhnya kalian memperbanyak, aku pernah mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Barangsiapa membangun masjid -Bukair berkata: Aku mengiranya berkata: Karena mencari wajah Allah- maka Allah akan membangunkan sepertinya di surga." Disebutkan dalam riwayat Harun: "Allah akan membangunkan rumah untuknya di surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7470</td></tr><tr><td>Arabic No</td><td>533.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7470</td></tr><tr><td>Arabic No</td><td>533.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 53</td></tr></tbody></table></div>
 

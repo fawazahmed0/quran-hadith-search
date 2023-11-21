@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédiction d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, aku mendengar [Qatadah] menceritakan dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidaklah salah seorang dari kalian beriman hingga dia mencintai untuk saudaranya, atau dia mengatakan, 'untuk tetangganya sebagaimana yang ia cintai untuk dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>170</td></tr><tr><td>Arabic No</td><td>45.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Пророк ﷺ сказал: «Не уверует никто из вас до тех пор, пока не станет желать своему брату (в исламе) (или он сказал: соседу) того же, чего желает самому себе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>170</td></tr><tr><td>Arabic No</td><td>45.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 77</td></tr></tbody></table></div>
 

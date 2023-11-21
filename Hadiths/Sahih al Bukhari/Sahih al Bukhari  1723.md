@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was asked by a man who said, "I have done 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami ['Abdul A'laa] telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam ditanya, kata orang itu: "Aku melempar jumrah setelah sore". Beliau bersabda: "Tidak dosa". Orang itu berkata, lagi: "Aku mencukur rambut sebelum menyembelih hewan qurban". Beliau bersabda: "Tidak dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 25 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Один человек сказал Пророку ﷺ: “Я кинул камешки, когда уже наступил вечер”. Пророк ﷺ ответил: “Ничего страшного”. Тогда человек сказал: “Я побрил голову до того, как зарезал жертвенное животное”. Пророк ﷺ ответил: “Ничего страшного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 25 Hadith 201</td></tr></tbody></table></div>
 

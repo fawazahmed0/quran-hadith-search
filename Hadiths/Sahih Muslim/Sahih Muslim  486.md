@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) said: I will come to the gat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Hasyim bin al-Qasim] telah menceritakan kepada kami [Sulaiman bin al-Mughirah] dari [Tsabit] dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Saya mendatangi pintu surga pada hari kiamat, lalu saya meminta dibukakan. Lalu seorang penjaga (Malaikat) bertanya, 'Siapa kamu? ' Maka aku menjawab, 'Muhammad'. Lalu ia berkata, "Khusus untukmu, aku diperintahkan untuk tidak membukakan pintu untuk siapapun, sebelum kamu masuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>486</td></tr><tr><td>Arabic No</td><td>197</td></tr><tr><td>Reference</td><td>Book 1 Hadith 392</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «В День воскресения я подойду к вратам Рая и попрошу открыть их. Страж (этих врат) спросит: “Кто ты?” Я отвечу: “Мухаммад”, и тогда он скажет: “Мне было велено (ждать) тебя и никому не открывать до тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>486</td></tr><tr><td>Arabic No</td><td>197</td></tr><tr><td>Reference</td><td>Book 1 Hadith 392</td></tr></tbody></table></div>
 

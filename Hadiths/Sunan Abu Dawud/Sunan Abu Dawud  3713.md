@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn abbas said :Raisins were steeped for the Prophet (ﷺ) and he would drink it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Umar Yahya Al Bahrani] dari [Ibnu Abbas] ia berkata, "Nabi shallallahu 'alaihi wasallam pernah dibuatkan perasan anggur, beliau lalu meminumnya pada hari itu, kemudian keesokan harinya, kemudian keesokannya lagi, yaitu sore hari di hari ketiga. Kemudian beliau memerintahkan agar diberikan kepada pelayan atau dibuang." Abu Daud berkata, "Makna diberikan kepada pelayan adalah mengejar rusaknya minuman tersebut." Abu Daud berkata, "Abu Umar adalah Yahya bin 'Ubaid Al Bahrani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2004)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3713</td></tr><tr><td>Arabic No</td><td>3713</td></tr><tr><td>Reference</td><td>Book 27 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Для Пророка ﷺ делали набиз из изюма, и он пил его в тот день и на следующий и ещё до вечера третьего дня. Если же после этого что-нибудь оставалось, он велел напоить этим слуг или же (этот остаток) выливали». Абу Дауд сказал: «“Он велел напоить этим слуг” это означает, что он торопился использовать напиток, пока он не начал бродить»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2004)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3713</td></tr><tr><td>Arabic No</td><td>3713</td></tr><tr><td>Reference</td><td>Book 27 Hadith 45</td></tr></tbody></table></div>
 

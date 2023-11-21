@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that Allah's Messenger (ﷺ) said:I had a chance to look into
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] dari [Abu Raja' Al 'Utharidi] dia berkata; aku mendengar [Ibnu 'Abbas] berkata; Muhammad shallallahu 'alaihi wasallam bersabda: 'Aku melihat surga, maka terlihat olehku kebanyakan penghuninya ialah orang yang miskin. Dan aku menengok pula ke neraka, maka kelihatan olehku kebanyakan penghuninya ialah kaum wanita.' Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Ats Tsaqafi] telah mengabarkan kepada kami [Ayyub] dengan sanad ini. Dan telah menceritakan kepada kami [Syaiban bin Furrukh] telah menceritakan kepada kami [Abul Asyhab] telah menceritakan kepada kami [Abu Raja'] dari [Ibnu 'Abbas] bahwasanya Nabi shallallahu 'alaihi wasallam menengok ke neraka, -lalu dia menyebutkan redaksi yang serupa dengan Hadits Ayyub. Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [Sa'id bin Abu 'Arubah] dia mendengar [Abu Raja'] dari [Ibnu 'Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: -dengan redaksi yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6938</td></tr><tr><td>Arabic No</td><td>2737.01</td></tr><tr><td>Reference</td><td>Book 49 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6938</td></tr><tr><td>Arabic No</td><td>2737.01</td></tr><tr><td>Reference</td><td>Book 49 Hadith 2</td></tr></tbody></table></div>
 

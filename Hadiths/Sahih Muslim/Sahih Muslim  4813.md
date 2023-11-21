@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jabir who said:If we had been a hundred
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata; telah menceritakan kepada kami [Abdullah bin Idris]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Rifa'ah bin Al Haitsam] telah menceritakan kepada kami [Khalid] -yaitu At Thahan- keduanya berkata; dari [Hushain] dari [Salim bin Abu Al Ja'd] dari [Jabir] dia berkata, "Sekiranya kami saat itu berjumlah ratusan ribu orang maka telah cukup buat kami, namun jumlah kami hanya seribu lima ratus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>1856.07</td></tr><tr><td>Reference</td><td>Book 33 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>1856.07</td></tr><tr><td>Reference</td><td>Book 33 Hadith 110</td></tr></tbody></table></div>
 

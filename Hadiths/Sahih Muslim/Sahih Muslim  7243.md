@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Safwan reported the Mother of the Faithful as saying that Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun] telah menceritakan kepada kami [Al Walid bin Shalih] telah menceritakan kepada kami [Ubaidullah bin Amru] telah menceritakan kepada kami [Zaid bin Abu Unaisah] dari [Abdulmalik Al Amiri] dari [Yusuf bin Mahak] telah mengkhabarkan kepadaku [Abdullah bin Shafwan] dari [Ummul Mu'minin] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Suatu kaum akan berlindung di rumah ini -maksud beliau baitullah- mereka tidak memiliki pelindung, jumlah atau pun senjata. Suatu tentara dikirim untuk (menyerang) mereka. Saat berada di suatu padang pasir bumi, mereka dibenamkan dibumi." Yusus berkata: Saat itu penduduk Syam tengah bepergian menuju Makkah. Abdullah bin Shafwan berkata: Demi Allah, mereka bukan tentara yang dimaksud. Zaid berkata: Telah menceritakan kepadaku [Abdulmalik Al Amiri] dari [Abdurrahman bin Sabith] dari [Al Harits bin Abu Rabi'ah] dari [Ummul Mu'minin] seperti hadits Yusuf bin Mahak, hanya saja ia tidak menyebutkan tentara yang disebut Abdullah bin Shafwan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7243</td></tr><tr><td>Arabic No</td><td>2883.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7243</td></tr><tr><td>Arabic No</td><td>2883.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 9</td></tr></tbody></table></div>
 

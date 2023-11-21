@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepa
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «(Мои желания) совпали с (волей) моего Господа в трёх (случаях. Однажды) я сказал: “О Посланник Аллаха, а не избрать ли нам для молитвы место Ибрахима?” — после чего был ниспослан аят(, в котором говорилось): “Сделайте же место стояния Ибрахима местом совершения молитвы”. (Что касается) аята о покрывале, то (однажды) я сказал: “О Посланник Аллаха, не повелишь ли ты прикрываться твоим жёнам, ведь с ними разговаривают и благочестивые, и порочные!” — после чего был ниспослан аят о покрывале. (Третий случай связан с тем, что однажды всех) жён Пророка ﷺ охватила ревность к нему, и я сказал им: “Если он разведётся с вами, то, может быть, его Господь даст ему взамен вас жён лучше вас”, а потом этот аят был ниспослан (свыше)»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>402</td></tr><tr><td>Reference</td><td>Book 8 Hadith 53</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402.2</td></tr><tr><td>Arabic No</td><td>402.2</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>

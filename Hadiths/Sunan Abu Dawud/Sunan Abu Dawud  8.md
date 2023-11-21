@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad an Nufaili] telah menceritakan kepada kami [Ibnul Mubarak] dari [Muhammad bin Ajlan] dari [al Qa'qa' bin Hakim] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku bagi kalian hanyalah seperti kedudukan orang tua, aku ajarkan kepada kalian; apabila salah seorang dari kalian hendak buang air, janganlah dia menghadap kiblat, jangan pula membelakanginya, dan jangan beristinja dengan tangan kanannya." Dan beliau juga menyuruh untuk beristinja dengan tiga batu, serta melarang beristinja dengan kotoran binatang dan tulang basah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Поистине, для вас я подобен отцу, обучающему вас! (И поэтому,) когда кто-то из вас отправится справить нужду, пусть не поворачивается в сторону къиблы ни лицом, ни спиной!” И он повелевал (очищаться) тремя камнями и запрещал использовать при этом помет и кости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
 

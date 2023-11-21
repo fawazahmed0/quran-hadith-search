@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) said, "The honest treasurer who g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Abu Burdah] berkata, telah mengabarkan kepada saya [kakekku Abu Burdah] dari [Bapaknya Abu Musa Al Anshariy radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Bendahara yang terpercaya yang menunaikan tugas yang diembannya dengan baik adalah terhitung salah satu Al Mutashaddiqin (orang yang bersedekah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2260</td></tr><tr><td>Arabic No</td><td>2260</td></tr><tr><td>Reference</td><td>Book 37 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Пророк ﷺ сказал: «Честный (верный) хранитель, который отдаёт то, что ему велят отдать (из милостыни), в полной мере, и от чистого сердца, является одним из подающих милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2260</td></tr><tr><td>Arabic No</td><td>2260</td></tr><tr><td>Reference</td><td>Book 37 Hadith 1</td></tr></tbody></table></div>
 

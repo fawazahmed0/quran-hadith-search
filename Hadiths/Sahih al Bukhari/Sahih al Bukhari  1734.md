@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was asked about the slaughtering, shaving 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thowus] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam ditanya tentang menyembelih hewan qurban, mencukur rambut dan melempar jumrah antara mendahului atau mengakhirkan amal amal tersebut satu sama lain. Beliau menjawab: "Tidak dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1734</td></tr><tr><td>Arabic No</td><td>1734</td></tr><tr><td>Reference</td><td>Book 25 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророка ﷺ спросили о заклании (жертвенного животного), бритье (головы) и бросании камешков до или после положенного времени. Он сказал: “Ничего страшного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1734</td></tr><tr><td>Arabic No</td><td>1734</td></tr><tr><td>Reference</td><td>Book 25 Hadith 212</td></tr></tbody></table></div>
 

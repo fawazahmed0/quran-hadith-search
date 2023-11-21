@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Umar) (Allah be pleased with them) reported:Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaid bin Mas'adah] telah menceritakan kepada kami [Bisyr] -yaitu Ibnu Al Mufadlal- telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Umayyah- dari [Nafi'] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan supaya membunuh anjing, lantas kami pergi ke seluruh penjuru kota sehingga kami tidak meninggalkan seekor anjing pun melainkan kami membunuhnya. Bahkan kami membunuh seekor anjing yang selalu mengikuti tuannya, yaitu anjingnya seorang wanita badui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4018</td></tr><tr><td>Arabic No</td><td>1570.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4018</td></tr><tr><td>Arabic No</td><td>1570.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 57</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Darda’ reported the prophet (ﷺ) as saying :If anyone memorizes ten ve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Hammam] berkata, telah menceritakan kepada kami [Qatadah] dari [Salim bin Abu Al Ja'd] dari [Ma'dan bin Abu Thalhah] dari hadits [Abu Darda] yang ia riwayatkan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa menghafal sepuluh ayat awal dari surat Al Kahfi, maka ia akan dijaga dari fitnah Dajjal." Abu Dawud berkata, "Seperti ini pula yang dikatakan oleh [Hisyam Ad Dustuwa'i] dari [Qatadah], hanya saja (dalam hadits itu) Rasulullah bersabda: "Barangsiapa menghafal akhir-akhir dari surat Al kahfi, " [Syu'bah] menyebutkan dari [Qatadah], "Akhir dari surat Al Kahfi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (809)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4323</td></tr><tr><td>Arabic No</td><td>4323</td></tr><tr><td>Reference</td><td>Book 39 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу ад-Дарды, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто выучит десять аятов с начала суры “аль-Кяхф”, тот будет защищён от искушений Даджжаля».Абу Давуд сказал: «То же передаёт Хишам ад-Даставаи от Катады, только в его версии сказано: «Кто выучил заключительные аяты суры “аль-Кяхф”…» А в версии Шу‘бы от Катады говорится: «… с конца суры “аль-Кяхф”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (809)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4323</td></tr><tr><td>Arabic No</td><td>4323</td></tr><tr><td>Reference</td><td>Book 39 Hadith 33</td></tr></tbody></table></div>
 

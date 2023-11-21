@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: When the Prophet (ﷺ) alighted at Marr az-Zahran, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Amr Ar Razi], telah menceritakan kepada kami [Salamah bin Al Fadhl] dari [Muhammad bin Ishaq] dari [Al Abbas bin Abdullah bin Ma'bad] dari [sebagian keluarganya], dari [Ibnu Abbas], ia berkata; tatkala Rasulullah shallallahu 'alaihi wasallam singgah di Marru Azh Zhahran aku katakan; demi Allah, seandainya Rasulullah shallallahu 'alaihi wasallam memasuki Mekkah dengan paksa sebelum mereka mendatangi beliau dan meminta keamanan maka sesungguhnya hal itu adalah kebinasaan orang-orang Quraisy. Aku duduk di atas Bighal Rasulullah shallallahu 'alaihi wasallam, kemudian aku katakan kepada Ali; aku mendapati orang yang memiliki hajat datang kepada penduduk Mekkah kemudian mengabarkan kepada mereka tempat Rasulullah shallallahu 'alaihi wasallam agar mereka keluar menuju kepadanya dan meminta keamanan. Sesungguhnya aku sedang berjalan kemudian tiba-tiba aku mendengar perkataan Abu Sufyan serta Budail bin Warqa', lalu aku katakan; wahai Abu Hanzhalah! Kemudian ia mengenal suaraku, lalu ia berkata; Abu Al Fadhl? Aku katakan; ya. Ia berkata; ada denganmu? Aku katakan; ini, Rasulullah dan orang-orang telah datang. Ia berkata; bagaimana siasatnya? Kemudian ia naik di belakangku sedangkan sahabatnya kembali. Kemudian setelah pagi hari aku membawanya kepada Rasulullah shallallahu 'alaihi wasallam, lalu ia masuk Islam. Aku katakan; wahai Rasulullah, sesungguhnya Abu Sufyan adalah orang yang suka berbangga diri, maka berikanlah sesuatu kepadanya! Beliau berkata: "Ya, barang siapa yang memasuki rumah Abu Sufyan, maka ia aman dan barang siapa yang menutup rumahnya maka ia aman, and barang siapa yang masuk masjid maka dia aman." Kemudian orang-orang berpencaran menuju rumah-rumah mereka serta menuju ke masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Посланник Аллаха ﷺ приехал в Марр-аз-Захран, аль-‘Аббас сказал: «Я сказал: “Клянусь Аллахом, если Посланник Аллаха ﷺ вступит в Мекку с боем до того, как курайшиты придут к нему и попросят пощадить их, это будет их гибель!” И я сел на мулицу Посланника Аллаха ﷺ сказав себе: “Может быть, мне удастся встретить кого-нибудь, кто отправится в Мекку и скажет им, где находится Посланник Аллаха ﷺ чтобы они пришли к нему и заключили с ним мир”. Я ехал, и вдруг услышал голоса Абу Суфьяна и Будайля ибн Варка. Я сказал: “О Абу Ханзаля!” Абу Суфьян узнал меня по голосу и сказал в ответ: “Абу аль-Фадль?” Я ответил: “Да”. Он спросил: “Что ты делаешь здесь, да станут мои отец и мать выкупом за тебя?” Я сказал: “Здесь Посланник Аллаха ﷺ со своими людьми”. Он воскликнул: “Что же делать?” После этого он сел на мулицу позади меня, а его товарищ вернулся. Утром я привёл Абу Суфьяна к Посланнику Аллаха ﷺ и он принял ислам. Я сказал: “О Посланник Аллаха! Поистине, Абу Суфьян человек, любящий, чтобы ему было чем гордиться. Сделай же для него что-нибудь”. Тогда Посланник Аллаха ﷺ сказал: “Кто войдёт в дом Абу Суфьяна, тот в безопасности, и кто запер за собой двери дома своего, тот в безопасности, и кто вошёл в мечеть, тот в безопасности”. И люди разошлись некоторые пошли к себе домой, некоторые в мечеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
 

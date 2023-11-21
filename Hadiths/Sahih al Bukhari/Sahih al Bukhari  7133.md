@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There are angels at the moun
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Nu'aim bin Abdullah Al Mujmir] dari [Abu Hurairah] menuturkan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jalan-jalan Madinah dijaga oleh para malaikat, sehingga kota itu tidak bisa dimasuki wabah tha'un ataupun dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7133</td></tr><tr><td>Arabic No</td><td>7133</td></tr><tr><td>Reference</td><td>Book 92 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «У входов в Медину находятся ангелы, и в неё не проникнет чума и не войдёт Даджаль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7133</td></tr><tr><td>Arabic No</td><td>7133</td></tr><tr><td>Reference</td><td>Book 92 Hadith 80</td></tr></tbody></table></div>
 

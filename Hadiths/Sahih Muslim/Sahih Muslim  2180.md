@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Messenger of Allah (ﷺ) was wrapped in a Yamani wrappe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah mengabarkan kepada kami [Ali bin Mushir] Telah menceritakan kepada kami [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam dimasukkan ke dalam Hullah Yamaniyyah (kain pakaian dari Yaman) milik Abdullah bin Abu Bakr. Kemudian kain itu dilepaskan darinya, lalu beliau dikafani dengan tiga helai kain putih yang terbuat dari kapas Yamani dan di dalamnya tidak ada surban, tidak pula baju. Maka Abdullah pun mengangkat Hullah Yamaniyyah itu seraya berkata, "Aku ingin mengkafani diriku dengannya, " Kemudian ia berkata, "Rasulullah shallallahu 'alaihi wasallam saja tidak dikafani dengannya, pantaskah diriku akan dikafani dengannya?." Maka ia pun menyedekahkannya. Dan telah menceritakannya kepada kami [Abu Bakar bin Abu Syaibah] Telah menceritakan kepada kami [Hafsh bin Ghiyats] dan [Ibnu Uyainah] dan [Ibnu Idris] dan [Abdah] dan [Waki'] -dalam jalur lain- Dan telah menceritakannya kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdul Aziz bin Muhammad] semuanya dari [Hisyam] dengan isnad ini, dan di dalam hadits mereka tidak tercantum kisah Abdullah bin Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2180</td></tr><tr><td>Arabic No</td><td>941.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «(Сначало) Посланника Аллаха ﷺ одели в йеменскую накидку /хулля/, принадлежавшую ‘Абдуллаху ибн Аби Бакру, но затем её сняли с него и завернули в три куска йеменской ткани из Сахуля, и не было среди этого ни рубахи, ни чалмы. Затем ‘Абдуллах взял накидку и сказал: “(Она послужит для меня саваном и) меня завернут в неё”, а затем сказал: “В неё не завернули Посланника Аллаха ﷺ, а меня завернут?” (После чего он продал её, а вырученные деньги) раздал (нуждающимся)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2180</td></tr><tr><td>Arabic No</td><td>941.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 58</td></tr></tbody></table></div>
 

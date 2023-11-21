@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tarif Abi Tamima:I saw Safwan and Jundab and Safwan's companions when J
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq Al Wasithi] telah menceritakan kepada kami [Khalid] dari [Al Jurairi] dari [Tharif Abu Tamimah] mengatakan, aku menghadiri Shafwan dan [Jundab] serta sahabat-sahabatnya ketika Jundab memberi wasiat kepada mereka, lantas mereka bertanya; 'Apakah kau mendengar sesuatu dari Rasulullah Shallallahu'alaihiwasallam? ' Ia menjawab; aku mendengar beliau bersabda: "Barangsiapa beramal karena sum'ah (ingin didengar), maka Allah menjadikannya dikenal suka bersum'ah pada hari kiamat, dan barangsiapa menyusahkan (manusia), maka Allah juga bakalan menyusahkannya pada hari kiamat." mereka berkata; "Wasiatilah kami!" ia berkata; 'Yang pertama-tama membusuk dari tubuh manusia adalah perut, maka barangsiapa yang mampu untuk tidak menyantap selain yang baik, lakukanlah, dan barangsiapa tidak ingin dihalangi antara dirinya dan surga karena segenggam darah yang ia tumpahkan, lakukanlah.' Saya bertanya kepada Abu Abdillah; 'Siapa yang mengatakan aku mendengar Rasulullah Shallallahu'alaihiwasallam, apakah Jundab? ' ia menjawab; "Iya, Jundab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7152</td></tr><tr><td>Arabic No</td><td>7152</td></tr><tr><td>Reference</td><td>Book 93 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тариф Абу Тамима сказал:\n— (Как-то раз) я присутствовал (на собрании, в котором находились) Сафуан, его товарищи и Джундуб (ибн ‘Абдуллах аль-Баджали). И Сафуан давал им всем советы, (а потом) они спросили (Джундуба): «Слышал ли ты что-либо от Посланника Аллаха ﷺ?» Джундуб, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “В День воскресения Аллах обесславит того, кто будет рассказывать (людям о своих благих делах), и создаст трудности для того, кто будет создавать их (для людей)”». (Люди) сказали (Джундубу): «Дай нам совет». Он сказал: «Поистине, первым, что начнёт разлагаться у человека, будет его живот, пусть же тот, кто сумеет не есть ничего, кроме благого, так и поступает, и пусть тот, кто сумеет добиться того, чтобы не отделяла его от Рая и пригоршня пролитой им крови, сделает это».\nСказал аль-Фарабри: «Я спросил Абу ‘Абдуллаха (аль-Бухари): “Кто сказал: “Я слышал Посланника Аллаха ﷺ? Джундуб ли это произнёс?””». Он ответил: «Да, это Джундуб»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7152</td></tr><tr><td>Arabic No</td><td>7152</td></tr><tr><td>Reference</td><td>Book 93 Hadith 16</td></tr></tbody></table></div>
 

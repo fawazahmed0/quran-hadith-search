@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada:My father said, "The Prophet (ﷺ) uses to rec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammam] dari [Yahya] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya], bahwa Nabi shallallahu 'alaihi wasallam dalam shalat Zhuhur membaca Al Fathihah dan dua surah pada dua rakaat pertama. Dan pada dua rakaat akhir membaca Al Fatihah, yang terkadang ayat yang beliau baca terdengar. Beliau memanjangkannya pada rakaat pertama, dan pada rakaat keduanya tidak sepanjang pada rakaat pertama. Beliau lakukan seperti ini juga dalam shalat 'Ashar, begitu pula pada shalat Shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 10 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Къатада передал, что его отец (Абу Къатада), да будет доволен им Аллах, сказал: «При совершении первых двух рак‘атов полуденного /зухр/ намаза Пророк ﷺ обычно читал суру “аль-Фатиха” и ещё по одной суре (во время каждого рак‘ата), и только суру “аль-Фатиха” в последних двух рак‘атах. Он читал аяты так, что его слова были слышны нам, и удлинял чтение во время совершения первого рак‘ата, сокращая его во время второго. И, совершая послеполуденный /‘аср/ и утренний /субх/ намазы, он поступал так же»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 10 Hadith 171</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There is no Zakat either on a slav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Khutsaim bin 'Irak] berkata, telah menceritakan [bapakku] kepadaku dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam. Dan diriwayatkan pula, telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Wuhaib bin Khalid] telah menceritakan kepada kami [Khutsaim bin 'Irak bin Malik] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam: "Tidak ada kewajiban zakat bagi seorang muslim pada budak dan kudanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1464</td></tr><tr><td>Arabic No</td><td>1464</td></tr><tr><td>Reference</td><td>Book 24 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Мусульманин не обязан выплачивать закят ни со своих рабов, ни со своего коня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1464</td></tr><tr><td>Arabic No</td><td>1464</td></tr><tr><td>Reference</td><td>Book 24 Hadith 66</td></tr></tbody></table></div>
 

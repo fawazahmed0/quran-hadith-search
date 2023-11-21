@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abaya bin Rifaa:My grandfather, Rafi' said, "We were in the company of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 'Awanah] dari [Sa'id bin Masruq] dari ['Abayah bin Rifa'ah] dari [kakeknya, Rafi'] berkata; "Kami bersama Nabi Shallallahu'alaihiwasallam di Dzul Hulaifah kemudian orang-orang dihinggapi Rasa lapar, lalu kami mendapatkan (ghanimah berupa) unta dan kambing. Saat itu Nabi Shallallahu'alaihiwasallam berada di belakang rombongan. Orang-orang yang lapar itu itu rupanya kemudian memasang tungku-tungkunya. Namun Nabi Shallallahu'alaihiwasallam memerintahkan agar kuali tersebut ditumpahkan. Kemudian Beliau membagi Rata (sisa ghanimah yang ada), yang setiap sepuluh kambing dianggap sama dengan satu ekor unta. Namun ada seekor unta yang lari sementara di tengah-tengah rombongan ada seekor kuda yang lincah. Mereka pun segera mencari unta yang kabur tadi, namun tidak rupanya mereka kelelahan. Kemudian ada seseorang yang mencarinya dengan menggunakan tombak, dan akhirnya Allah menakdirkannya dapat membunuh unta tersebut. Kemudian Beliau bersabda: "Sesungguhnya binatang ini masih mempunyai sifat-sifat keberingasan seperti binatang liar. Maka jika ada yang lari dari mereka, perlakuklanlah seperti ini". Kakekku berkata: "Kita berharap atau khawatir bertemu musuh esok hari sedangkan kita tidak membawa pisau, apakah kita boleh menyembelih hewan dengan kayu?". Beliau berkata: "Setiap yang ditumpahkan darahnya dengan disebut nama Allah maka makanlah kecuali gigi dan kukunya, dan akan kusampaikan tentang itu. Adapun gigi dia termasuk tulang sedangkan kuku merupakan pisaunya orang-orang Habsasyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3075</td></tr><tr><td>Arabic No</td><td>3075</td></tr><tr><td>Reference</td><td>Book 56 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ сказал: «(Однажды, когда) мы вместе с Пророком ﷺ находились в Зуль-Хулейфе, люди, которые начали страдать от голода, захватили верблюдов и овец. Пророк ﷺ находился позади людей, (которые поспешили, стали закалывать животных) и ставить котлы (на огонь, а через некоторое время он подошёл к ним), велел опрокинуть котлы и стал делить (добычу), приравняв десять овец к одному верблюду. При этом один верблюд убежал, и люди гонялись за ним, пока не лишились сил, (так как в то время) лошадей у них было мало, (но в конце концов) один из них пустил (в этого верблюда) стрелу, и так Аллах остановил его. Потом (Пророк ﷺ) сказал: “Поистине, некоторые из этих животных одичали и стали подобны диким зверям, и если какое-нибудь из них не подчинится вам, поступайте с ним так же”. Затем мой дед сказал: “Поистине, мы думаем (или: мы опасаемся), что завтра здесь будет враг, а у нас нет ножей, так можно ли нам резать (животных) тростником?” (Пророк ﷺ) сказал: “(Пользуйтесь) всем, с помощью чего можно выпустить кровь, и ешьте всё то, над чем было произнесено имя Аллаха, но не (закалывайте животных) клыками и когтями, и я скажу вам (почему): что касается зубов, то это кости, что же касается когтей, то они используются как ножи эфиопами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3075</td></tr><tr><td>Arabic No</td><td>3075</td></tr><tr><td>Reference</td><td>Book 56 Hadith 280</td></tr></tbody></table></div>
 

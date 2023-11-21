@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: If anyone cares for three d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Khalid] berkata, telah menceritakan kepada kami [Suhail] -maksudnya Suhail bin Abu Shalih- dari [Sa'id Al A'sya] -Abu Dawud berkata; dia adalah Sa'id bin 'Abdurrahman bin Mukmil Az Zuhri- dari [Ayyub bin Basyir Al Anshari] dari [Abu Sa'id Al Khudri] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memelihara tiga orang anak wanita, lalu ia mendidik dan menikahkan mereka, serta berbuat baik kepada mereka. maka ia akan mendapatkan surga." Telah menceritakan kepada kami [Yusuf bin Musa] berkata, telah menceritakan kepada kami [Jarir] dari [Suhail] dengan sanad ini, ia menyebutkan, "Tiga saudara perempuan, atau tiga anak perempuan, atau dua anak perempuan, atau dua saudara perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
 

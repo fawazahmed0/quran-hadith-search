@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:Water was placed for the ablution of Allah's Messenger (ﷺ) af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin 'Isa] berkata, telah mengabarkan kepada kami [Al Fadlol bin Musa] berkata, telah mengabarkan kepada kami [Al A'masy] dari [Salim] dari [Kuraib] sahaya Ibnu 'Abbas dari [Ibnu 'Abbas] radliallahu 'anhu dari [Maimunah] berkata,: "Rasulullah shallallahu 'alaihi wasallam. mengambil seember air untuk mandi janabat. Beliau menuangkan dengan telapak tangan kanannya ke atas telapak tangan kirinya lalu mencucinya dua kali atau tiga kali. Lalu mencuci kemaluannya lalu memukulkan tangannya ke tanah atau dinding dua kali atau tiga kali. Kemudian berkumur-kumur dan memasukkan air ke hidung lalu mencuci wajahnyaKemudian berkumur-kumur dan memasukkan air ke hidung lalu mencuci wajahnya dan kedua lengannya. Kemudian mengguyurkan air ke atas kepalanya lalu membasuh badannya dan mengakhirinya dengan membasuh kedua telapak kakinya". 'Aisyah berkata,: "Maka aku berikan potongan kain tapi Beliau tidak memerlukannya, dan Beliau mengeringkan (membersihkan air dari) badannya dengan tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>274</td></tr><tr><td>Arabic No</td><td>274</td></tr><tr><td>Reference</td><td>Book 5 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что (жена Пророка ﷺ) Маймуна, да будет доволен ею Аллах, сказала: «(Однажды) для Посланника Аллаха ﷺ поставили воду для (совершения большого омовения) из-за полового осквернения и он налил её правой рукой на левую два или три раза и затем помыл свои половые органы. Затем он ударил рукой о землю или стену два или три раза, и затем прополоснул рот и нос. (Затем) он умыл своё лицо и руки до локтей, налил воду на голову, после чего помыл своё тело. Затем он отошёл в сторону и помыл ноги».\n(Маймуна) сказала: «Затем я принесла ему (кусок) материи, но он не захотел (взять) его и стал стряхивать (капли воды) рукой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>274</td></tr><tr><td>Arabic No</td><td>274</td></tr><tr><td>Reference</td><td>Book 5 Hadith 26</td></tr></tbody></table></div>
 

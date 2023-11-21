@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama b. 'Abd al-Rahman reported.. When Marwan appointed Abu Huraira as his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>870</td></tr><tr><td>Arabic No</td><td>392.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Салямы ибн ‘Абдуррахмана, что, когда Марван назначил Абу Хурайру наместником в Медине, то вставая на обязательную молитву он произносил слова “Аллаху акбар”, затем подобно предыдущему хадису, но в этой версии он добавил (следующее): «Завершив молитву таслимом, он поворачивался к людям в мечети и говорил: “Клянусь Тем, в Чьей длани душа моя, поистине, (моя молитва) подобна молитве Посланника Аллаха ﷺ в большей степени, нежели (молитва любого) из вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>870</td></tr><tr><td>Arabic No</td><td>392.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
 

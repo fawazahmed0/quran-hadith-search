@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:The Prophet (ﷺ) ordered us to free slaves at the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Mas'ud] telah menceritakan kepada kami [Za'idah bin Qudamah] dari [Hisyam bin 'Urwah] dari [Fathimah binti Al Mundzir] dari [Asma' binti Abu Bakar radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam memerintahkan untuk membebaskan budak ketika terjadi gerhana matahari". Hadits ini dikuatkan pula oleh ['Ali] dari [Ad-Darawardiy] dari [Hisyam]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2519</td></tr><tr><td>Arabic No</td><td>2519</td></tr><tr><td>Reference</td><td>Book 49 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2519</td></tr><tr><td>Arabic No</td><td>2519</td></tr><tr><td>Reference</td><td>Book 49 Hadith 3</td></tr></tbody></table></div>
 

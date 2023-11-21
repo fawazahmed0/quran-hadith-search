@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Aslam reported on the authority of his father that 'Umar (Allah be pleas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Umayyah bin Bistham] telah menceritakan kepada kami [Yazid] -yaitu Ibnu Zurai'- telah menceritakan kepada kami [Rauh] -yaitu Ibnu Qasim- dari [Zaid bin Aslam] dari [Ayahnya] dari [Umar], bahwa dia mensedekahkan kuda di jalan Allah, tetapi ia mendapati kuda tersebut berada pada seseorang yang menyia-nyiakannya, karena dia orang yang sedikit harta. Lantas Umar hendak membelinya, lalu dia menemui Rasulullah shallallahu 'alaihi wasallam dan memberitahukan hal itu kepadanya, beliau bersabda: "Janganlah kamu membelinya kembali walaupun kamu memberikannya dengan beberapa dirham, sebab orang yang mengambil kembali pemberiannya seperti seekor anjing yang menjilati muntahannya." Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Zaid bin Aslam] dengan sanad ini, namun hadits Malik dan Rauh lebih sempurna dan lebih banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4165</td></tr><tr><td>Arabic No</td><td>1620.03</td></tr><tr><td>Reference</td><td>Book 24 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4165</td></tr><tr><td>Arabic No</td><td>1620.03</td></tr><tr><td>Reference</td><td>Book 24 Hadith 3</td></tr></tbody></table></div>
 

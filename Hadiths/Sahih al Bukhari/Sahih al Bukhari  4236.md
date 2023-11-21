@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:But for the other Muslims (i.e. coming generations) I would divid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4236</td></tr><tr><td>Arabic No</td><td>4236</td></tr><tr><td>Reference</td><td>Book 64 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «Если бы не (будущие поколения) мусульман, я бы непременно делил между (воинами земли каждого) завоёванного мною селения подобно тому, как (раньше) Пророк ﷺ разделил (земли) Хайбара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4236</td></tr><tr><td>Arabic No</td><td>4236</td></tr><tr><td>Reference</td><td>Book 64 Hadith 274</td></tr></tbody></table></div>
 

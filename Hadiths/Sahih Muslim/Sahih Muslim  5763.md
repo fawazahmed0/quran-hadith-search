@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Qais, daughter of Mihsan, the sister of 'Ukasha b. Mihsan said:I visited All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] dan [Zuhair bin Harb] dan [Ibnu Abu 'Umar] dan lafazh ini miliknya Zuhair. [Yahya] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Ubaidillah bin 'Abdullah] dari [Ummu Qais binti Mihshan] saudara perempuan 'Ukkasyah bin Mihshan dia berkata; Aku bersama anakku menemui Rasulullah shallallahu 'alaihi wasallam pada waktu itu anakku belum bisa makan makanan. Tiba-tiba dia kencing di pangkuan Rasulullah shallallahu 'alaihi wasallam, lalu beliau menyuruh mengambilkan air dan memercikkannya. Ummu Qais berkata; 'Dan aku juga pernah menemui beliau bersama anakku yang aku tekan kerongkongannya untuk menghilangkan sakit amandelnya. Lalu beliau bersabda: "Mengapa kamu tekan kerongkongan anakmu seperti itu? Gunakanlah kust India. Kerena Kust tersebut mengandung tujuh macam obat, di antaranya adalah obat sakit lambung, Su'ut (mengobati lewat hidung) adalah dipergunakan untuk penyakit amandel, dan Ladud (mengobati dari pinggir mulut orang yang sakit) adalah dipergunakan untuk penyakti sakit lambung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5763</td></tr><tr><td>Arabic No</td><td>2214.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5763</td></tr><tr><td>Arabic No</td><td>2214.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 116</td></tr></tbody></table></div>
 

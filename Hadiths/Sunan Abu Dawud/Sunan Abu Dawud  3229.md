@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Marthad al-Ghanawi :The Messenger of Allah (ﷺ) as saying: Do not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada kami [Isa], telah menceritakan kepada kami [Abdurrahman bin Yazid? bin Jabir], dari [Busr bin 'Ubaidullah] ia berkata; saya mendengar [Watsilah bin Al Asqa'] berkata; saya mendengar [Abu Martsad Al Ghanawi] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian duduk di atas kuburan, dan jangan kalian melakukan shalat menghadap kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (972)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3229</td></tr><tr><td>Arabic No</td><td>3229</td></tr><tr><td>Reference</td><td>Book 21 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Марсада аль-Ганави, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не сидите на могилах и не совершайте (, обратившись в их сторону,) на них молитву (, поскольку это одна из форм возвеличивания)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (972)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3229</td></tr><tr><td>Arabic No</td><td>3229</td></tr><tr><td>Reference</td><td>Book 21 Hadith 141</td></tr></tbody></table></div>
 

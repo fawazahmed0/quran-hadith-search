@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas reported the Messenger of Allah (ﷺ) as saying :Straighten your rows for t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al-Walid Ath-Thayalisi] dan [Sulaiman bin Harb] mereka berdua berkata; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Luruskan shaf shaf kalian, karena sesungguhnya meluruskan shaf termasuk kesempurnaan shalat (berjama'ah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (723) Sahih Muslim (433)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>668</td></tr><tr><td>Reference</td><td>Book 2 Hadith 278</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас (ибн Малик) сказал: «Посланник Аллаха ﷺ сказал: “Выравнивайте свои ряды, ибо, поистине, выравнивание ряда является одним из признаков совершенства молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (723) Sahih Muslim (433)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>668</td></tr><tr><td>Reference</td><td>Book 2 Hadith 278</td></tr></tbody></table></div>
 

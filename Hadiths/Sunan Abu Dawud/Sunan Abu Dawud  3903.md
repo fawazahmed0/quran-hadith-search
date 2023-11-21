@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: My mother intended to make me gain weight to sen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Nuh bin Yazid bin Sayyar] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Muhammad bin Ishaq] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha, ia berkata, "Ibuku ingin aku terlihat gemuk (segar) saat aku bertemu Rasulullah shallallahu 'alaihi wasallam, namun aku tidak menerima apapun yang diinginkannya hingga ia memberiku makan mentimun dengan ruthab (kurma segar). Kemudian aku menjadi tampak gemuk (segar) dengan bentuk yang edial
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>3903</td></tr><tr><td>Reference</td><td>Book 29 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Моя мать хотела, чтобы я немного поправилась перед тем, как меня отведут к Посланнику Аллаха ﷺ, однако я не принимала ничего из того, что она давала мне (с этой целью), пока она не стала кормить меня длинными огурцами со свежими финиками, и тогда я очень хорошо поправилась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>3903</td></tr><tr><td>Reference</td><td>Book 29 Hadith 49</td></tr></tbody></table></div>
 

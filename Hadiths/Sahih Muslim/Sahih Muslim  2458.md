@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported that the Messenger of Allah (ﷺ) said:A group woul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Al Qasim] dan ia adalah Al Fadlu Al Huddani, Telah menceritakan kepada kami [Abu Nadlrah] dari [Abu Sa'id Al Khudri] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan keluar suatu firqah (golongan) dari berbagai kelompok kaum muslimin, dan yang akan membunuhnya adalah salah satu dari dua kelompok yang paling dekat dengan kebenaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2458</td></tr><tr><td>Arabic No</td><td>1065.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Во время разногласий между мусульманами, выйдет (группа) вылетевшая (из религии), которую убьёт та из двух групп, которая ближе к истине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2458</td></tr><tr><td>Arabic No</td><td>1065.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 195</td></tr></tbody></table></div>
 

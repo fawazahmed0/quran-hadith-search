@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbdurRahman ibn Bishr al-Ansari al-Azraq said:Two men from the locality of Kinda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] dan [Muhammad bin Al Mutsanna] mereka berkata; telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Raja Al Anshari] dari [Abdurrahman bin Bisyr Al Anshari Al Azraq] ia berkata, "Dua orang lelaki masuk dari beberapa pintu Kindah, sementara Abu Mas'ud Al Anshari sedang duduk di antara sekumpulan orang. Keduanya lalu berkata, "Adakah seseorang yang memberikan keputusan di antara kami? Kemudian seorang laki-laki dari sekumpulan orang itu yang berkata, "Aku." [Abu Mas'ud] kemudian mengambil segenggam kerikil lalu melemparkannya kepada orang tersebut seraya berkata, "Tahanlah! Sesungguhnya terburu-buru dalam memberikan keputusan itu dibenci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3577</td></tr><tr><td>Arabic No</td><td>3577</td></tr><tr><td>Reference</td><td>Book 25 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абду-р-Рахмана ибн Бишра аль-Ансари аль-Азрак: «Как-то раз два человека вошли через ворота Кинды, а Абу Мас‘уд аль-Ансари сидел в кругу людей. Они сказали: “Есть ли среди вас человек, который согласится рассудить нас?” Один из сидевших в кругу сказал: “Я!” Абу Мас‘уд взял горсть мелких камешков и бросил в него со словами: “Тише! Поистине, стремиться стать судьёй (, при жизни Посланника Аллаха ﷺ) было нежелательным!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3577</td></tr><tr><td>Arabic No</td><td>3577</td></tr><tr><td>Reference</td><td>Book 25 Hadith 7</td></tr></tbody></table></div>
 

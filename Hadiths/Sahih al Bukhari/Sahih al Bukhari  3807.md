@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Usaid:Allah's Messenger (ﷺ) said, "The best of the Ansar's houses
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq] telah bercerita kepada kami ['Abdush Shamad] telah bercerita kepada kami [Syu'bah] telah bercerita kepada kami [Qatadah] berkata, aku mendengar [Anas bin Malik radliallahu 'anhu], berkata [Abu Usaid], Rasulullah shallallahu 'alaihi wasallam bersabda: ""Sebaik-baik kampung tempat tinggal kaum Anshar adalah kampung Bani an-Najjar kemudian Bani 'Abdil Asyhal kemudian Bani Al Harits bin Khazraj kemudian Bani Sa'idah. Dan setiap tempat tinggal seluruh kaum Anshar adalah baik". Maka Sa'ad bin 'Ubadah, diantara orang yang terdahulu masuk Islam berkata; "Aku menganggap Rasulullah shallallahu 'alaihi wasallam lebih mengutamakan orang lain terhadap kami". Maka ucapannya dibalas; "Justru beliau telah mengutamakan (menyanjung) kalian dibanding orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>3807</td></tr><tr><td>Reference</td><td>Book 63 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Усайда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Лучшие из семей ансаров — это бану ан-наджжар, затем — бану абд аль-ашхаль, затем — бану аль-харис бин аль-хазрадж, а затем — род бану са‘ида, и в каждом из родов ансаров (есть благо)». (Услышав это), Са‘д ибн ‘Убада сказал: «Я вижу, что Посланник Аллаха ﷺ предпочёл некоторых людей нам». Кто-то сказал (ему): «Он дал вам превосходство над многими людьми»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>3807</td></tr><tr><td>Reference</td><td>Book 63 Hadith 32</td></tr></tbody></table></div>
 

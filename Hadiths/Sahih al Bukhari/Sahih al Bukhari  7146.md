@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Samura:The Prophet (ﷺ) said, "O 'Abdur-Rahman! Do n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Jarir bin Hazim] dari [Al Hasan] dari [Abdurrahman bin Samurah] mengatakan, Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Wahai Abdurrahman bin Samurah, janganlah kamu meminta jabatan, sebab jika kamu diberi jabatan dengan tanpa meminta, maka kamu akan ditolong, dan jika kamu diberinya karena meminta, maka kamu akan ditelantarkan, dan jika kamu bersumpah, lantas kamu lihat ada suatu yang lebih baik, maka bayarlah kafarat sumpahmu dan lakukanlah yang lebih baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7146</td></tr><tr><td>Arabic No</td><td>7146</td></tr><tr><td>Reference</td><td>Book 93 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн Самуры, да будет доволен им Аллах: «Пророк ﷺ сказал мне: “О ‘Абдуррахман ибн Самура, не добивайся власти, ибо, если она будет дарована тебе по твоей просьбе, то ты будешь предоставлен в ней самому себе, а если она будет дана тебе без просьб с твоей стороны, то тебе будет оказана помощь в (том, что связано с) ней. А если ты поклянёшься в чём-либо, но потом увидишь, что нечто иное лучше (того, что ты поклялся сделать), то искупи (нарушение) своей клятвы и сделай то, что лучше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7146</td></tr><tr><td>Arabic No</td><td>7146</td></tr><tr><td>Reference</td><td>Book 93 Hadith 10</td></tr></tbody></table></div>
 

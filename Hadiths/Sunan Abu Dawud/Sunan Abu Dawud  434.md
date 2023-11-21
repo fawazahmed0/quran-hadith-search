@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qabisah ibn Waqqas: The Messenger of Allah (ﷺ) said: After me you wil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Abu Hasyim Az Za'farani] telah menceritakan kepadaku [Shalih bin Ubaid] dari [Qabishah bin Waqqash] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Akan datang suatu masa setelahku di mana para pemimpin kalian mengakhirkan shalat, maka bagi kalian (tetap) mendapatkan pahala sementara mereka mendapatkan dosa, maka tetaplah shalat di belakang mereka selama mereka menghadap kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>434</td></tr><tr><td>Arabic No</td><td>434</td></tr><tr><td>Reference</td><td>Book 2 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Къабиса ибн Ваккъас сказал: «Посланник Аллаха ﷺ сказал: “После меня у вас будут правители, которые будут задерживать молитву, но вы получите (за ее совершение) свою награду, а бремя греха (за ее задержку ляжет) на них. Так совершайте же с ними молитву до тех пор, пока они молятся, обратившись в сторону киблы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>434</td></tr><tr><td>Arabic No</td><td>434</td></tr><tr><td>Reference</td><td>Book 2 Hadith 44</td></tr></tbody></table></div>
 

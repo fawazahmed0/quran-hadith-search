@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraidah:A woman came to the Prophet (ﷺ) and said: I gave a slave gir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin 'Aun] telah mengabarkan kepada kami [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa seorang wanita mengarungi bahtera, kemudian ia bernadzar seandainya Allah menyelamatkannya maka ia akan berpuasa satu bulan. Kemudian Allah menyelamatkannya dan ia tidak berpuasa hingga ia meninggal. Lalu anak wanitanya atau saudara wanitanya datang kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau memerintahkannya agar berpuasa untuknya. Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Abdullah bin 'Atho'] dari [Abdullah bin Buraidah] dari [ayahnya] bahwa seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; dahulu aku pernah mensedekahkan budak wanita kepada ibuku, dan ia meninggal dalam keadaan memiliki tanggungan puasa satu bulan. Kemudian Buraidah menyebutkan hadits 'Amr tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1149)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3309</td></tr><tr><td>Arabic No</td><td>3309</td></tr><tr><td>Reference</td><td>Book 22 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ка‘ба ибн Малика: «Я сказал: “О Посланник Аллаха, пусть частью моего раскаяния будет то, что я отдам всё своё имущество в качестве милостыни ради Аллаха и Его посланника”. Посланник Аллаха ﷺ сказал: “Оставь себе часть своего имущества, так будет лучше для тебя”. Я сказал: “Тогда я оставлю себе свою долю в Хайбаре”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1149)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3309</td></tr><tr><td>Arabic No</td><td>3309</td></tr><tr><td>Reference</td><td>Book 22 Hadith 68</td></tr></tbody></table></div>
 

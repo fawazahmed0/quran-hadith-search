@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah ibn Sahl: We were with Uthman when he was besieged in the hou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Yahya bin Sa'id] dari [Abu Umamah bin Sahl] ia berkata, "Aku pernah bersama [Utsman] saat ia dikepung dalam rumahnya. Dalam rumahnya ada sebuah lorong, jika seseorang masuk ke dalamnya maka ia akan dapat mendengar percakapan orang yang berada di atasnya. Utsman masuk ke dalam lorong itu, lalu ia keluar dengan wajah telah berubah pucat. Ia berkata, "Mereka berkeinginan untuk membunuhku." Ia (perawi) berkata, "Lalu kami berkata, "Cukuplah Allah sebagai pelindungmu wahai Amirul Mukminin." Utsman bertanya (bingung), "Kenapa mereka ingin membunuhku?, padahal aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal darah seorang muslim kecuali karena tiga hal; kafir setelah beriman, zina setelah nikah, dan membunuh jiwa orang lain." Demi Allah, aku tidak pernah melakukan perzinaan baik di masa Jahilliyah atau setelah Islam, aku juga tidak pernah berharap untuk mengganti agamaku setelah Allah memberi petunjuk kepadaku, dan aku juga tidak pernah membunuh jiwa seorang pun (tanpa hak). Lalu dengan alasan apa mereka akan membunuhku?" Abu Dawud berkata, "Utsman dan Abu Bakar radliallahu 'anhuma tidak pernah minum khamer pada masa Jahilliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4502</td></tr><tr><td>Arabic No</td><td>4502</td></tr><tr><td>Reference</td><td>Book 41 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умамы ибн Сахля, да будет доволен им Аллах: «Мы сидели вместе с ‘Усманом, когда его дом окружили бунтовщики. А в доме был ещё один вход. Если подойти к нему изнутри дома, можно было услышать, что говорят на площади. ‘Усман подошёл туда, а когда он вернулся, мы увидели, что он изменился в лице. Он сказал: “Они угрожают мне смертью”. Мы сказали: “Да избавит тебя Аллах от них, о повелитель верующих!” Он сказал: “А за что им убивать меня? Я слышал, как Посланник Аллаха ﷺ сказал: “Не дозволено проливать кровь мусульманина, кроме как по трём причинам: неверие после принятия ислама, прелюбодеяние после вступления в брак и убийство человека не в качестве воздаяния равным”. Клянусь Аллахом, я не совершал прелюбодеяния ни во времена невежества, ни в исламе, и с тех пор, как Аллах вывел меня на прямой путь, я никогда не желал изменить свою религию. И я никого не убивал (без права)… За что же им убивать меня?”» Абу Дауд сказал, что Абу Бакр и ‘Усман отказались от употребления вина ещё во времена невежества
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4502</td></tr><tr><td>Arabic No</td><td>4502</td></tr><tr><td>Reference</td><td>Book 41 Hadith 9</td></tr></tbody></table></div>
 

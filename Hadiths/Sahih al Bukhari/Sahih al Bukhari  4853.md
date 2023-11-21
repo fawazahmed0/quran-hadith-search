@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:I complained to Allah's Messenger (ﷺ) that I was sick, so h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Muhammad bin Abdurrahman bin Naufal] dari [Urwah] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] dia berkata; saya pernah mengadu kepada Rasulullah shallallahu 'alaihi wasallam bahwa saya sedang sakit. Kemudian beliau bersabda: "Berthawaflah di belakang manusia dalam keadaan berkendaraan." Maka saya melakukan thawaf dan Rasulullah shallallahu 'alaihi wasallam sedang melakukan shalat di samping Ka'bah membaca; "WATH THUUR WA KITAABIN MASTHUUR
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4853</td></tr><tr><td>Arabic No</td><td>4853</td></tr><tr><td>Reference</td><td>Book 65 Hadith 374</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма рассказывала: «Я пожаловалась Посланнику Аллаха ﷺ на то, что болею, и он сказал: “Совершай таваф позади людей, сидя верхом”. И я так и сделала, а Посланник Аллаха ﷺ в это время совершал молитву рядом с Каабой, читая: “Клянусь горой! Клянусь начертанным Писанием”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4853</td></tr><tr><td>Arabic No</td><td>4853</td></tr><tr><td>Reference</td><td>Book 65 Hadith 374</td></tr></tbody></table></div>
 

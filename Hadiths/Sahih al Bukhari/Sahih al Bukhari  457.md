@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b:In the mosque l asked Ibn Abi Hadrad to pay the debts which he owe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami ['Utsman bin 'Umar] berkata, telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] dari ['Abdullah bin Ka'b bin Malik] dari [Ka'b], bahwa ia pernah menagih hutang kepada Ibnu Abu Hadrad di dalam Masjid hingga suara keduanya meninggi yang akhirnya didengar oleh Rasulullah shallallahu 'alaihi wasallam yang berada di rumah. Beliau kemudian keluar menemui keduanya sambil menyingkap kain gorden kamarnya, beliau bersabda: "Wahai Ka'b!" Ka'b bin Malik menjawab: "Wahai Rasulullah, aku penuhi panggilanmu." Beliau bersabda: "Bebaskanlah hutangmu ini." Beliau lalu memberi isyarat untuk membebaskan setengahnya. Ka'b bin Malik menjawab, "Sudah aku lakukan wahai Rasulullah." Beliau lalu bersabda (kepada Ibnu Abu Hadrad): "Sekarang bayarlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>457</td></tr><tr><td>Arabic No</td><td>457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ка‘ба бин Малика, да будет доволен им Аллах, о том, что (однажды, находясь) в мечети, он принялся требовать у Ибн Абу Хадрада вернуть ему то, что тот был ему должен, и голоса их стали звучать так громко, что их услышал Посланник Аллаха ﷺ который находился у себя дома и вышел к ним (столь поспешно), что (даже) не задёрнул занавеску своей комнаты. (Ка‘б сказал): «Он обратился (ко мне): “О Ка‘б!” Я сказал: “Я перед тобой, о Посланник Аллаха!” (Тогда) он велел: “Прости ему из того, что он должен тебе, столько”, и сделал рукой знак, означавший, что долг следовало уменьшить наполовину. Я сказал: “Я уже сделал это, о Посланник Аллаха!” − (после чего) он велел (Ибн Абу Хадраду): “А ты поднимись и уплати ему (остальное)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>457</td></tr><tr><td>Arabic No</td><td>457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 105</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) came (to my apartment) while there 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al 'Aili] dan [Yunus bin Abdul A'la] -sedangkan lafazhnya dari Harun- keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Amru] bahwa [Muhammad bin Abdur Rahman] telah menceritakan kepadanya dari ['Urwah] dari [Aisyah] ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam masuk ke dalam rumahku, sementara di tempatku terdapat dua orang budak wanita yang sedang bernyanyi dengan nyanyian Bu'ats, lalu beliau langsung berbaring diatas tempat tidur dengan membalikkan wajahnya. Setelah itu, masuklah Abu Bakar dan langsung marah seraya berkata, "Nyanyian syetan ada di sisi Rasulullah shallallahu 'alaihi wasallam?." Maka Rasulullah shallallahu 'alaihi wasallam pun menemuinya dan bersabda: "Biarkanlah mereka berdua." Ketika ia tidak mengindahkan lagi, maka saya pun memberi isyarat pada kedua budak wanita itu sehingga keduanya pun keluar. Kemudian pada hari raya, orang-orang berkulit hitam bermain baju besi dan tombak. Kemungkinan saya yang bertanya kepada Rasulullah shallallahu 'alaihi wasallam atau pun beliau yang bertanya padaku, "Apakah kamu ingin melihatnya?" Saya menjawab, "Ya." Maka beliau pun meletakkanku berdiri di belakangnya, pipiku menempel di pipi beliau. Dan beliau bersabda: "Silahkan kalian bermain-main, wahai bani Arfidah (gelar bangsa Habasyah)." Hingga apabila aku bosan, beliau bertanya, "Cukup?" Aku menjawab, "Ya." Beliau berkata, "Pergilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2065</td></tr><tr><td>Arabic No</td><td>892.05</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «(Однажды) Посланник Аллаха ﷺ вошёл ко мне в то время, когда у меня находились две девушки, певшие песню о Бу‘асе, лёг на постель и отвернулся. (А через некоторое время в мою комнату) вошёл Абу Бакр и резко спросил меня: “(Как может) свирель шайтана (звучать) у Посланника Аллаха ﷺ?!” Тогда Посланник Аллаха ﷺ повернулся к нему и сказал: “Оставь их”, когда же (Абу Бакр) отвлёкся, я сделала девушкам знак и они вышли.В праздничный день, эфиопы играли с щитами и копьями. И (я не помню) спросила ли я Посланника Аллаха ﷺ или он сам сказал: “Хочешь посмотреть?” Я сказала: “Да”. И он поставил меня позади себя, так что моя щека прикасалась к его щеке, сказав: “Продолжайте, о бану Арфида!” Так продолжалось до тех пор, пока мне это не наскучило, тогда он спросил: “Тебе достаточно?” Я ответила: “Да”, он сказал: “Тогда иди”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2065</td></tr><tr><td>Arabic No</td><td>892.05</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
 

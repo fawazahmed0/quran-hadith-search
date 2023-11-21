@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:My companions sent me to the Prophet (ﷺ) to ask him for some
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin A'la'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] menuturkan; sahabat-shabatku mengutusku menemui Nabi shallallahu 'alaihi wasallam agar aku menanyai beliau mengenai kendaraan untuk mengangkut kami. Tetapi beliau bersabda: "Demi Allah, saya tidak bisa mengikutsertakan kalian naik kendaraan." Ketika itu kutemui beliau dalam keadaan marah. Ketika aku mendatangi beliau di waktu selanjutnya, beliau bersabda: "Temuilah kawan-kawanmu, dan katakan kepada mereka bahwa Allah atau Rasulullah mempunyai kendaraan untuk mengangkut kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6678</td></tr><tr><td>Arabic No</td><td>6678</td></tr><tr><td>Reference</td><td>Book 83 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса (аль-Аш‘ари) сказал: «Однажды, мои товарищи послали меня к Пророку ﷺ, чтобы попросить у него снабдить верховыми животными. (Выслушав нас, Пророк ﷺ) сказал: “Клянусь Аллахом, ничем не стану я снабжать вас!” А дело было в том, что, когда я пришёл к нему, он был в состоянии гнева. А когда я пришёл к (Пророку ﷺ), он сказал: “Отправляйся к своим товарищам и скажи: “Поистине, Аллах (или: Поистине, Посланник Аллаха ﷺ) даёт вам (верховых животных)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6678</td></tr><tr><td>Arabic No</td><td>6678</td></tr><tr><td>Reference</td><td>Book 83 Hadith 55</td></tr></tbody></table></div>
 

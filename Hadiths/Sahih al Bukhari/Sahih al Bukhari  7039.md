@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:concerning the dream of the Prophet (ﷺ) in Medina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abi Bakar Al Muqaddami] telah menceritakan kepada kami [Fudhail bin Sulaiman] telah menceritakan kepada kami [Musa] telah menceritakan kepadaku [Salim bin Abdullah] dari [Abdullah bin Umar] radliallahu 'anhuma tentang mimpi Nabi shallallahu 'alaihi wasallam di Madinah: "aku melihat wanita hitam berambut acak-acakan keluar dari Madinah hingga singgah di Mahya'ah, maka aku takwilkan bahwa wabah di Madinah telah dipindahkan ke Mahya'ah, yaitu Juhfah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7039</td></tr><tr><td>Arabic No</td><td>7039</td></tr><tr><td>Reference</td><td>Book 91 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передал о сне Пророка ﷺ (, который он видел) в Медине, (и Пророк ﷺ сказал): «Я увидел во сне, как чёрная женщина с растрёпанными волосами вышла из Медины и остановилась в Махйа‘а, и истолковал (этот сон) как то, что (эпидемии) чумы, (которые прежде разражались) в Медине, были перенесены в Махйа’а», — а это аль-Джухфа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7039</td></tr><tr><td>Arabic No</td><td>7039</td></tr><tr><td>Reference</td><td>Book 91 Hadith 53</td></tr></tbody></table></div>
 

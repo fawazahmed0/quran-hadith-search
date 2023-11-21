@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:Fatima went to the Prophet (ﷺ) complaining about the bad effect 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Syu'bah] ia berkata; Telah menceritakan kepadaku [Al Hakam] dari [Ibnu Abu Laila] Telah menceritakan kepada kami [Ali] bahwa Fathimah 'Alaihimas Salam datang menemui Nabi shallallahu 'alaihi wasallam mengadukan tangannya yang mengeras karena menggiling. Fathimah pernah mendengar kabar bahwa nabi pernah mendapatkan budak, sayang, kebetulan ia malah nggak kesana. Fathimah pun menuturkan hal itu pada Aisyah. Ketika Rasulullah shallallahu 'alaihi wasallam datang, maka Aisyah pun menuturkannya. Kemudian beliau mendatangi kami yang pada saat itu kami sudah bersiap-siap untuk tidur, maka kami pun segera beranjak. Beliau bersabda: "Tetaplah pada tempat kalian." Beliau datang lalu duduk tepat antara aku dan Fathimah hingga aku merasakan kesejukan kedua kakinya. Dan beliau bersabda: "Maukah aku tunjukkan pada sesuatu yang lebih baik daripada apa yang kalian minta? Bila kalian hendak beranjak ke tempat tidur, maka bertasbihlah tiga puluh tiga kali dan bertahmidlah tiga puluh tiga kali serta bertakbir tiga puluh empat kali. Hal itu adalah lebih baik bagi kalian daripada seorang pembantu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5361</td></tr><tr><td>Arabic No</td><td>5361</td></tr><tr><td>Reference</td><td>Book 69 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али рассказал: «(В своё время) Фатыма, да будет доволен ею Аллах, пришла к Пророку ﷺ, чтобы пожаловаться на то, что из-за ручной мельницы у неё болит рука, так как узнала, что Пророку ﷺ привезли (пленных) рабов, но не застала его и рассказала об этом ‘Аише. Когда (Пророк ﷺ) вернулся (домой), ‘Аиша рассказала ему (о том, что к ней приходила Фатыма), и он пришёл к нам, когда мы уже лежали в своих постелях. Мы хотели подняться, но он сказал: “Оставайтесь на своём месте”, а сам сел между нами, и я даже ощутил прохладу его ступни (кожей) живота, (после чего) он сказал: “Не указать ли мне вам на что-то лучшее, чем то, что вы просили? Когда будете ложиться спать, произносите слова “Пречист Аллах /Субхана-Ллахи/” по тридцать три раза, “хвала Аллаху” /аль-хамду ли-Лляхи/ по тридцать три раза, и “Аллах велик /Аллаху акбар/” по тридцать четыре раза, и это будет для вас лучше, чем слуга”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5361</td></tr><tr><td>Arabic No</td><td>5361</td></tr><tr><td>Reference</td><td>Book 69 Hadith 11</td></tr></tbody></table></div>
 

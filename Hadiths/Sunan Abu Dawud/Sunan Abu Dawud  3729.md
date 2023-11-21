@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Yazid bin Khumair] dari [Abdullah bin Busr] dari Bani Sulaim, ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah datang dan singgah di rumah ayahku, lalu ayahku menyuguhkan makanan kepada beliau. Lalu ia menyebutkan Hais (makanan yang terbuat dari campuran kurma, keju dan mentega) yang ia bawa kepada beliau, kemudian datang lagi dengan membawa minuman. Lalu beliau minum dan memberikannya kepada orang yang di samping kanannya, beliau makan kurma lalu membuang bijinya menggunakan punggung kedua jarinya, yaitu jari telunjuk dan jari tengah. Ketika beliau berdiri maka ayahku pun berdiri dan memegang tali kekang unta beliau seraya berkata, "Berdoalah kepada Allah untukku." Kemudian beliau berdoa: "Ya Allah, berkahilah apa yang Engkau berikan kepada mereka, ampuni dan rahmatilah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3729</td></tr><tr><td>Arabic No</td><td>3729</td></tr><tr><td>Reference</td><td>Book 27 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Бусра из бану суляйм: «Посланник Аллаха ﷺ пришёл к моему отцу, и тот подал ему еду, а также хайс и напиток. Он попил сам, а потом передал сидящему справа и съел финики, бросая косточки на внешнюю сторону двух пальцев среднего и указательного. А когда он поднялся, мой отец также поднялся и, взявшись за повод его верхового животного, сказал: “Обратись к Аллаху с мольбой за меня”. Тогда (Посланник Аллаха ﷺ) сказал: “О Аллах, сделай благодатным для них то, чем Ты наделил их, прости им и помилуй их” /Аллахумма, барик ля-хум фи-ма разакта-хум, ва-гфир ля-хум, ва-рхам-хум/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3729</td></tr><tr><td>Arabic No</td><td>3729</td></tr><tr><td>Reference</td><td>Book 27 Hadith 61</td></tr></tbody></table></div>
 

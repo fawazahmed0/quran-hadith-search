@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Salamah said that she asked the prophet (ﷺ); Can a woman pray in a shirt a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mujahid bin Musa] telah menceritakan kepada kami [Utsman bin Umar] telah menceritakan kepada kami [Abdurrahman bin Abdullah bin Dinar] dari [Muhammad bin Zaid] dengan hadits ini, dia berkata dari [Ummu Salamah] bahwasanya dia pernah bertanya kepada Nabi shallallahu 'alaihi wasallam; Bolehkah wanita shalat memakai gamis dan jilbab tanpa memakai kain sarung? Beliau menjawab: "Boleh apabila gamisnya itu longgar yang dapat menutupi punggung kakinya. Abu Dawud berkata; Hadits ini telah diriwayatkan oleh [Malik bin Anas] dan [Bakr bin Mudlar] dan [Hafzh bin Ghiyats] dan [Isma'il bin Ja'far] dan [Ibnu Abi Dzi'b] dan [Ibnu Ishaq] dari [Muhammad bin Zaid] dari [Ibunya] dari [Ummu Salamah], salah satu dari mereka tidak menyebutkan Nabi shallallahu 'alaihi wasallam, mereka hanya menyebutkan Ummu Salamah radliallahu 'anha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>640</td></tr><tr><td>Reference</td><td>Book 2 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Зейд передавая этот же хадис сказал: «Умм Саляма спросила Пророка ﷺ: “Может ли женщина молиться в рубахе и покрывале, но без изара?». (Пророк ﷺ) сказал: “(Да), если рубаха ниспадает так, что скрывает верхнюю часть её стоп”».Также этот хадис передали аль-Хаким 1/250 и аль-Байхакъи 2/233. Абу Дауд сказал: «Этот хадис также передали Малик ибн Анас, Бакр ибн Мудара, Хафс ибн Гъийас, Исма‘иль ибн Джа‘фар, Ибн Абу Зиъб и Ибн Исхакъ со слов Мухаммада ибн Зейда, передавшего его со слов своей матери, передавшей его от Умм Салямы, и никто из них не упомянул Пророка ﷺ остановившись на Умм Саляме, да будет доволен ею Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>640</td></tr><tr><td>Reference</td><td>Book 2 Hadith 250</td></tr></tbody></table></div>
 

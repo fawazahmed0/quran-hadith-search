@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:When I mentioned it (i.e. the narration of Rafi' 'bin Khadij: no. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari ['Amru] berkata; Aku ceritakan kepada [Thowus] maka dia berkata: "Ditanami". Berkata, [Ibnu 'Abbas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam tidak melarang dari itu tetapi Beliau bersabda: "Seorang dari kalian memberikan kepada saudaranya (tanahnya untuk digarap) lebih baik baginya dari pada dia memungut bayaran tertentu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2342</td></tr><tr><td>Arabic No</td><td>2342</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2342</td></tr><tr><td>Arabic No</td><td>2342</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
 

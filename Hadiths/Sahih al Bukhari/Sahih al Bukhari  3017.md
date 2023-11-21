@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:'Ali burnt some people and this news reached Ibn 'Abbas, who sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] dari [Ayyub] dari ['Ikrimah] bahwa 'Ali radliallahu 'anhu membakar suatu kaum lalu berita itu sampai kepada [Ibnu 'Abbas] maka dia berkata: "Seandainya aku ada, tentu aku tidak akan membakar mereka karena Nabi shallallahu 'alaihi wasallam telah bersabda: "Janganlah kalian menyiksa dengan siksaan Allah (dengan api) ". Dan aku hanya akan membunuh mereka sebagaimana Nabi shallallahu 'alaihi wasallam telah bersabda: "Siapa yang mengganti agamanya maka bunuhah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3017</td></tr><tr><td>Arabic No</td><td>3017</td></tr><tr><td>Reference</td><td>Book 56 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, узнав о том, что ‘Али, да будет доволен им Аллах, сжёг каких-то людей, Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(На его месте) я не стал бы сжигать их, ибо Пророк ﷺ сказал: “(Никого) не подвергайте наказанию Аллаха”. Я (просто) убил бы их, о чём Пророк ﷺ сказал так: “(Если мусульманин) поменяет свою религию, убейте его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3017</td></tr><tr><td>Arabic No</td><td>3017</td></tr><tr><td>Reference</td><td>Book 56 Hadith 226</td></tr></tbody></table></div>
 

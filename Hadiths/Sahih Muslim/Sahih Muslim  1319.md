@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Prophet (ﷺ) entered my house when a Jewess was with me and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Said] dan [Harmalah bin Yahya]. Harun mengatakan; telah menceritakan kepada kami, sedangkan Harmalah mengatakan; telah mengabarkan kepada kami [Ibn Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibn Syihab] dia berkata; telah menceritakan kepadaku ['Urwah bin Zubair] bahwa ['Aisyah] mengatakan; "Rasulullah shallallahu 'alaihi wasallam pernah menemuiku, sementara disisku ada seorang wanita Yahudi yang mengatakan; "Sadarkah kamu bahwa kalian akan diuji dalam kubur?" 'Aisyah berkata; "Mendengar itu Rasulullah shallallahu 'alaihi wasallam langsung tersentak kaget dan bersabda: "Sesungguhnya orang-orang Yahudilah yang akan diuji." 'Aisyah berkata; "Kemudian kami bermukim beberapa malam, setelah itu Rasulullah shallallahu 'alaihi wasallam bersabda; "Sadarkah kamu, sesungguhnya telah diwahyukan kepadaku bahwa kalian akan diuji dalam kubur?." Kata 'Aisyah; "Setelah itu aku mendengar Rasulullah meminta perlindungan dari siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1319</td></tr><tr><td>Arabic No</td><td>584</td></tr><tr><td>Reference</td><td>Book 5 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы ибн аз-Зубайра, что ‘Аиша сказала: «(Однажды) ко мне зашёл Посланник Аллаха ﷺ, когда у меня находилась одна женщина из числа иудеев, которая говорила: “Знаешь ли ты, что вы будете подвергнуты испытанию в могилах?”». (‘Аиша) сказала: «(Услышав это,) Посланник Аллаха ﷺ испугался и сказал: “Поистине, подвергнуты испытанию (в могилах) будут только иудеи!”». ‘Аиша сказала: «Так мы провели (несколько) ночей, а затем Посланник Аллаха ﷺ сказал: “Известно ли тебе, что мне было внушено в откровении о том, что вы будете подвергнуты испытанию в могилах?”». ‘Аиша сказала: «И я слышала, как после этого Посланник Аллаха ﷺ прибегал к защите (Аллаха) от мучений в могиле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1319</td></tr><tr><td>Arabic No</td><td>584</td></tr><tr><td>Reference</td><td>Book 5 Hadith 157</td></tr></tbody></table></div>
 

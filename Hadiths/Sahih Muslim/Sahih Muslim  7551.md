@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:During the pre-Islamic days women circumambulated the Ka'ba n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far]. Telah menceritakan kepadaku [Abu Bakr bin Nafi'] teks miliknya, telah menceritakan kepada kami [Syu'bah] dari [Salamah bin Kuhail] dari [Muslim Al Bathin] dari [Sa'id bin Jubair] dari [Ibnu Abbas] berkata: Dahulu wanita berthawaf di baitullah dalam keadaan telanjang lalu ia berkata: Siapa yang meminjamkan kepadaku baju yang ia kenakan di atas kemaluannya? dan saat ini ia berkata: Telah nampak sebagian atau seluruhnya, maka apa yang nampak darinya tidaklah aku menghalalkannya. Lalu turunlah ayat ini: "Ambillah oleh kalian pakaian dan perhiasan kalian setiap memasuki masjid." (Al A'raaf:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7551</td></tr><tr><td>Arabic No</td><td>3028</td></tr><tr><td>Reference</td><td>Book 56 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен им Аллах, рассказывал: «(В доисламский период) женщина обходила Каабу обнаженной, говоря: “Кто даст одежду для тавафа?”, чтобы она закрыла свои интимные части. А потом она говорила: “Сегодня обнажится вся или часть; а то, что обнажено, я не сделаю дозволенным”. Именно в этой связи был ниспослан аят: “Облекайтесь в свои украшения при каждой мечети” (сура “аль-Араф”, аят 31)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7551</td></tr><tr><td>Arabic No</td><td>3028</td></tr><tr><td>Reference</td><td>Book 56 Hadith 29</td></tr></tbody></table></div>
 

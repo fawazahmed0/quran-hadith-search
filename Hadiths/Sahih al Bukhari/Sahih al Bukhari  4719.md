@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "Whoever, after liste
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Ayyasy] Telah menceritakan kepada kami [Syu'aib bin Abu Hamzah] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang membaca ketika mendengar adzan; "ALLAHUMMA ROBA HADZIHID DA'WAATIT TAAMMAH WAS SHALATIL QOOIMAH ATI MUHAMMADANIL WASILATA WAL FADHIILAH WAB'ATSHU MAQOOMAM MAHMUDANIL LADZI WA'ADTAHU" (Ya Allah pemilik panggilan yang sempurna ini dan shalat yang didirikan berilah Muhammad wasilah dan keutamaan dan bangkitkanlah dia pada tempat yang terpuji yang telah Engkau janjikan padanya) melainkan ia akan mendapatkan syafa'atku pada hari kiamat." Diriwayatkan oleh [Hamzah bin Abdullah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4719</td></tr><tr><td>Arabic No</td><td>4719</td></tr><tr><td>Reference</td><td>Book 65 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Моё заступничество в День воскрешения обязательно получит тот, кто скажет, услышав призыв (к молитве): “O Аллах, Господь этого совершенного призыва и этой совершающейся молитвы, приведи Мухаммада к “аль-Василе” и к высокому положению и направь его к месту достохвальному, которое Ты обещал ему”\n/Аллахумма, Рабба хазихи-д-да‘вати-т-таммати ва-с-саляти-ль-къаимати, ати Мухаммадан аль-Василята ва-ль-фадылята ва-б‘асху макъаман махмудан аллязи ва‘адтаху!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4719</td></tr><tr><td>Arabic No</td><td>4719</td></tr><tr><td>Reference</td><td>Book 65 Hadith 241</td></tr></tbody></table></div>
 

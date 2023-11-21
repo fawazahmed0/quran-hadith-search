@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever the Prophet (ﷺ) returned from a journey and observed th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas radliallahu 'anhu] berkata; Bahwa Nabi shallallahu 'alaihi wasallam apabila pulang dari bepergian dan melihat dataran tinggi kota Madinah, Beliau mempercepat jalan unta Beliau dan bila menunggang hewan lain Beliau memacunya karena kecintaannya (kepada Madinah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1886</td></tr><tr><td>Arabic No</td><td>1886</td></tr><tr><td>Reference</td><td>Book 29 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, рассказал, что когда Пророк ﷺ возвращался после какой-нибудь поездки, при виде стен Медины он начинал погонять свою верблюдицу, если же это было (другое верховое) животное, то он погонял и его из любви к ней (Медине)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1886</td></tr><tr><td>Arabic No</td><td>1886</td></tr><tr><td>Reference</td><td>Book 29 Hadith 20</td></tr></tbody></table></div>
 

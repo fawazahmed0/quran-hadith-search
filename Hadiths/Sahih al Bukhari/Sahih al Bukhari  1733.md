@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We performed Hajj with the Prophet (ﷺ) and performed Tawaf-al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bun Bukair] telah menceritakan kepada kami [Al Laits] dari [Ja'far bin Rabi'ah] dari [Al A'raj] berkata, telah menceritakan kepada saya [Abu Salamah bin 'Abdurrahman] bahwa ['Aisyah radliallahu 'anha] berkata: "Kami pergi menunaikan haji bersama Nabi shallallahu 'alaihi wasallam lalu kami bertolak pada hari Nahar (untuk thawaf ifadhah)). Kemudian Shafiyyah mengalami haidh. Lalu Nabi shallallahu 'alaihi wasallam ingin mendatanginya sebagaimana seorang suami mendatangi isterinya, maka aku katakan: "Wahai Rasulullah, dia sedang mengalami haidh". Lalu Beliau berkata: "Dia telah menyusahkan kita!". Orang-orang berkata: "Wahai Rasulullah, dia telah ikut bertolak pada hari Nahar (untuk thawaf) ". Maka Beliau berkata: "Keluarlah kalian". Dan disebutkan dari [Al Qasim] dan ['Urwah] dan [Al Aswad] dari ['Aisyah radliallahu 'anha]: "Shafiyyah ikut bertolak (thawaf ifadhah) pada hari Nahar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1733</td></tr><tr><td>Arabic No</td><td>1733</td></tr><tr><td>Reference</td><td>Book 25 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «Когда мы совершали хадж вместе с Пророком ﷺ в День жертвоприношения мы совершили обход вокруг Каабы /таваф аль-ифада/, и у Сафии началась менструация, а Пророк ﷺ захотел от неё того, чего хочет мужчина от своей жены. И я сказала: “О Посланник Аллаха, у неё начались месячные”. Пророк ﷺ сказал: “Она нас задержит?” Люди сказали: “О Посланник Аллаха, она совершила обход вокруг Каабы /таваф аль-ифада/ в День жертвоприношения”. Пророк ﷺ сказал: “Тогда уезжайте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1733</td></tr><tr><td>Arabic No</td><td>1733</td></tr><tr><td>Reference</td><td>Book 25 Hadith 211</td></tr></tbody></table></div>
 

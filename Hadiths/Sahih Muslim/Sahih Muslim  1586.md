@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Nous partîmes en compagnie du Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1586</td></tr><tr><td>Arabic No</td><td>693.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(В своё время) мы двинулись в путь из Медины в Мекку вместе с Посланником Аллаха ﷺ, который совершал все (обязательные) молитвы в два рак‘ата, пока не вернулся (в Медину)».(Передатчик этого хадиса сказал): «Я спросил: “А сколько времени (Пророк ﷺ) пробыл в Мекке?”, и он сказал: “Десять (дней)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1586</td></tr><tr><td>Arabic No</td><td>693.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 17</td></tr></tbody></table></div>
 

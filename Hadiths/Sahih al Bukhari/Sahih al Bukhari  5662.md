@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) entered upon sick man to pay him a v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Khalid bin Abdullah] dari [Khalid] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam pernah menjenguk seorang laki-laki yang sedang sakit, beliau lalu bersabda: "Tidak apa-apa, Insya Allah baik-baik saja." Ibnu Abbas berkata; "Baik?!, tidak mungkin, sebab penyakit yang di deritanya adalah demam yang sangat kritis, yang apabila diderita oleh orang tua akan menyebabkannya meninggal dunia." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kalau begitu, memang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5662</td></tr><tr><td>Arabic No</td><td>5662</td></tr><tr><td>Reference</td><td>Book 75 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказал о том, что однажды Посланник Аллаха ﷺ вошёл навестить одного заболевшего человека и сказал: «Не беда, это будет для тебя очищением, если пожелает Аллах! /Ля ба‘са тахурун ин шаа-Ллах/». Мужчина сказал: «Вовсе нет, это же лихорадка, которая кипит и может свести старого человека в могилу!» Тогда Пророк ﷺ сказал: «Что ж, пусть будет так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5662</td></tr><tr><td>Arabic No</td><td>5662</td></tr><tr><td>Reference</td><td>Book 75 Hadith 22</td></tr></tbody></table></div>
 

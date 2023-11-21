@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : Ces mots du Coran : Et si une fe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdah bin Sulaiman] telah menceritakan kepada kami [Hisyam] dari [ayahnya] dari [Aisyah]: "Dan jika seorang wanita khawatir akan nusyuz atau sikap tidak acuh dari suaminya." (An Nisaa': 128) Ia berkata: (ayat ini) turun berkenaan tentang wanita yang telah lama hidup bersama suaminya lalu ia (sang suami) ingin mencerainya, kemudian ia (sang istri) berkata: Janganlah engkau cerai daku dan pertahankan diriku dan engkau terbebas dariku, lalu turunlah ayat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7537</td></tr><tr><td>Arabic No</td><td>3021.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7537</td></tr><tr><td>Arabic No</td><td>3021.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 15</td></tr></tbody></table></div>
 

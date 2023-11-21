@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd that his father said:'Abdur-Rahman bin 'Auf said to Suhaib, 'Fear 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Sa'ad] dari [Bapaknya], berkata, 'Abdurrahman bin 'Auf radliallahu 'anhu kepada [Shuhaib]: "Bertaqwalah kepada Allah, janganlah engkau mengatas namakan keturunan kepada selain bapakmu". Kemudian Suhaib berkata: "Tidak ada yang membuatku gembira karena aku punya ini atau itu, akan tetapi aku mengatakan hal itu karena aku diculik ketika aku bayi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2219</td></tr><tr><td>Arabic No</td><td>2219</td></tr><tr><td>Reference</td><td>Book 34 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Са‘да, что его отец сказал: «‘Абдуррахман ибн ‘Ауф сказал Сухайбу: “Бойся Аллаха и не приписывай себя ни к кому, кроме своего отца”. Сухайб ответил: “Я не хотел бы этого говорить, даже если бы мне дали большие деньги, однако меня похитили в детстве”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2219</td></tr><tr><td>Arabic No</td><td>2219</td></tr><tr><td>Reference</td><td>Book 34 Hadith 166</td></tr></tbody></table></div>
 

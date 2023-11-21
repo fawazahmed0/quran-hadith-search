@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Buraydah: I heard the Messenger of Allah (ﷺ) say: A human being h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] ia berkata; telah menceritakan kepadaku [Ali bin Husain] ia berkata; telah menceritakan kepadaku [Bapakku] ia berkata; telah menceritakan kepadaku [Abdullah bin Buridah] ia berkata, "Aku mendengar [Abu Buraidah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada diri manusia itu terdapat tiga ratus enam puluh persendian, maka hendaklah ia memberi sedekah untuk setiap persendiannya tersebut." Para sahabat berkata, "Wahai Nabi Allah, siapa yang akan mampu melakukannya!" beliau bersabda: "Mengubur ludah dalam masjid atau sesuatu yang engkau buang dari jalan (adalah sedekah), jika tidak mendapatinya maka dua rakaat dhuha sudah cukup bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5242</td></tr><tr><td>Arabic No</td><td>5242</td></tr><tr><td>Reference</td><td>Book 43 Hadith 470</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Бурейды, что Посланник Аллаха ﷺ говорил: «В (теле) человека триста шестьдесят сочленений, и он должен раздавать милостыню за каждое (своё) сочленение (ежедневно)». (Люди) спросили: «Разве кто-то способен на это, о Пророк Аллаха?!» (Пророк ﷺ) ответил: «Если ты закопал мокроту в мечети или устранил что-то (мешающее людям) с дороги, (то это зачитывается в качестве милостыни). Если ты не сможешь (сделать даже этого), то всё это заменят собой два рак‘ата молитвы ад-духа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5242</td></tr><tr><td>Arabic No</td><td>5242</td></tr><tr><td>Reference</td><td>Book 43 Hadith 470</td></tr></tbody></table></div>
 

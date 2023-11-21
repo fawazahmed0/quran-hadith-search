@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi 'Aufa:Allah's Messenger (ﷺ) asked for Allah's wrath upon the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Salam] telah mengabarkan kepada kami [Waki'] dari [Ibnu Abu Khalid] dia berkata; saya mendengar [Ibnu Abu Aufa] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam pernah berdo'a ketika perang Ahzab, sabdanya: "Ya Allah, Dzat yang menurunkan kitab, Dzat yang segera membuat perhitungan, hancurkanlah pasukan Ahzab. Ya Allah hancurkanlah mereka dan cerai beraikanlah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6392</td></tr><tr><td>Arabic No</td><td>6392</td></tr><tr><td>Reference</td><td>Book 80 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн Аби Ауфа, да будет доволен Аллах им и его отцом, сказал: «Однажды Посланник Аллаха ﷺ обратился к Аллаху, призывая проклятие на союзные племена, и сказал: “О Аллах, ниспосылающий Писание и скорый в расчёте, нанеси поражение союзным племенам, о Аллах, разбей и потряси их! /Аллахумма, мунзиля-ль-Китаби, сари‘а-ль-хисаби-хзим аль-ахзаба, Аллахумма-хзим-хум ва зальзиль-хум!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6392</td></tr><tr><td>Arabic No</td><td>6392</td></tr><tr><td>Reference</td><td>Book 80 Hadith 87</td></tr></tbody></table></div>
 

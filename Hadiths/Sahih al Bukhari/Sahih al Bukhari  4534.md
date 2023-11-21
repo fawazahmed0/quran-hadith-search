@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Arqam:We used to speak while in prayer. One of us used to spea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Ismail bin Abu Khalid] dari [Al Harits bin Syubail] dari [Abu Amru As Saibani] dari [Zaid bin Arqam] dia berkata; "Kami berbincang-bincang pada waktu shalat. Seorang dari kami berbicara dengan temannya karena ada satu keperluan, hingga akhirnya turunlah ayat: "Dan berdirilah untuk Allah dalam shalatmu dengan khusyu". Lalu kami diperintahkan untuk diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 65 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аркам сказал: «(Сначала) мы разговаривали во время молитв, и человек говорил своему товарищу о том, что ему было нужно. (Так продолжалось) до тех пор, пока не был ниспослан аят (, в котором говорится): “Оберегайте свои молитвы, и особенно, среднюю молитву. И стойте перед Аллахом смиренно” (сура “аль-Бакара”, аят 238), после чего нам было велено молчать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 65 Hadith 57</td></tr></tbody></table></div>
 

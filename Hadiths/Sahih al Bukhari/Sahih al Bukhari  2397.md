@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to invoke Allah in the prayer sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy]. Dan diriwayatkan pula, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [saudaraku] dari [Sulaiman] dari [Muhammad bin Abi 'Atiq] dari [Ibnu Syihab] dari ['Urwah] bahwa ['Aisyah radliallahu 'anha] mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam berdo'a dalam shalat: "Allahumma innii a'uudzu bika minal ma'tsami wal maghram" (Ya Allah aku berlindung kepadamu dari berbuat dosa dan terlilit hutang). Lalu ada seseorang yang bertanya: "Mengapa anda banyak meminta perlindungan dari hutang, wahai Rasulullah?" Beliau menjawab: "Sesungguhnya seseorang apabila sedang berhutang ketika dia berbicara biasanya berdusta dan bila berjanji sering menyelisihinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2397</td></tr><tr><td>Arabic No</td><td>2397</td></tr><tr><td>Reference</td><td>Book 43 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ совершал мольбу в намазе, говоря: «О Аллах, я прибегаю к Тебе (за защитой ) от греховных поступков и долгов». Кто-то сказал (по этому поводу): «О Посланник Аллаха, как же ты часто прибегаешь к защите (Аллаха) от долгов!», на что (Посланник Аллаха ﷺ) ответил: «Когда человек обременен долгами, то он лжет при разговоре и нарушает (данные) обещания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2397</td></tr><tr><td>Arabic No</td><td>2397</td></tr><tr><td>Reference</td><td>Book 43 Hadith 13</td></tr></tbody></table></div>
 

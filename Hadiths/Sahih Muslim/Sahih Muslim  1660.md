@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported:I asked 'A'isha whether the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Said Al Jurairi] dari [Abdullah bin Syaqiq], katanya; "Aku berkata kepada ['Aisyah]; "Apakah Nabi shallallahu 'alaihi wasallam pernah shalat dhuha?" Aisyah menjawab; "Tidak pernah, kecuali jika beliau tiba dari safarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1660</td></tr><tr><td>Arabic No</td><td>717.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Шакык сказал: «Я спросил ‘Аишу: “Совершал ли Пророк ﷺ молитву ад-духа?” Она ответила: “Нет, за исключением тех случаев, когда он возвращался (из поездки) после долгого отсутствия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1660</td></tr><tr><td>Arabic No</td><td>717.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 90</td></tr></tbody></table></div>
 

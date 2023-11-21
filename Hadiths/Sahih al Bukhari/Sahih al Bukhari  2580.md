@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The people used to send gifts to the Prophet (ﷺ) on the day of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata: "Orang-orang memilih barang yang terbaik sebagai hadiah dari mereka untuk hari pernikahanku". Dan Ummu Salamah berkata: "Kemudian para shahaabiyah (isteri-isteri Beliau) berkumpul lalu dia ingin menceritakan hal itu kepada Beliau, namun Beliau menolaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 51 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Аиша, да будет доволен ею Аллах, сказала: «Люди старались приносить подарки в день ‘Аишы». Умм Саляма сказала: «Мои подруги (жёны Пророка ﷺ) собрались у меня, и пожаловались ему на это, а он отвернулся от них (ничего не ответив)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 51 Hadith 15</td></tr></tbody></table></div>
 

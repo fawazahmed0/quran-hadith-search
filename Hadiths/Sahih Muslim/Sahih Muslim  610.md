@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira said:When any one amongst you squats for answering the call of natur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin al-Hasan bin Khirasy] telah menceritakan kepada kami [Umar bin Abdul Wahhab] telah menceritakan kepada kami [Yazid] -yaitu Ibnu Zurai'- telah menceritakan kepada kami [Rauh] dari [Suhail] dari [al-Qa'qa'] dari [Abu Shalih] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Jika salah seorang dari kalian duduk untuk memenuhi hajatnya, maka janganlah dia menghadap kiblat dan jangan pula membelakanginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>265</td></tr><tr><td>Reference</td><td>Book 2 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Когда кто-нибудь из вас сядет справить нужду, пусть не поворачивается в сторону киблы ни лицом, ни спиной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>265</td></tr><tr><td>Reference</td><td>Book 2 Hadith 77</td></tr></tbody></table></div>
 

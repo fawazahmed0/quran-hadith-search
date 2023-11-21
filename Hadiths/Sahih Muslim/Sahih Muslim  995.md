@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported:The Messenger of Allah (ﷺ) said: Do not deprive women of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Abdullah bin Yazid al-Muqri'] telah menceritakan kepada kami [Sa'id, yaitu Ibnu Abi Ayyub] telah menceritakan kepada kami [Ka'ab bin 'Alqamah] dari [Bilal bin Abdullah bin Umar] dari [Bapaknya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, 'Janganlah kalian melarang kaum wanita (mengambil) haknya dari masjid apabila mereka meminta izin kepada kalian.' Bilal berkata, 'Demi Allah, aku akan mencegah mereka.' Maka Abdullah berkata kepadanya, 'Kukatakan bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, namun malahan kamu mengatakan bahwa sungguh kami akan mencegah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>995</td></tr><tr><td>Arabic No</td><td>442.08</td></tr><tr><td>Reference</td><td>Book 4 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Биляля ибн ‘Абдуллаха ибн ‘Умара, что его отец сказал: «Посланник Аллаха ﷺ говорил: “Не лишайте ваших женщин возможности посещать мечети, если они испросят вашего разрешения”. (Услышав это) Биляль сказал: “Клянусь Аллахом, мы непременно будем им это запрещать!”. Тогда ‘Абдуллах сказал ему: «Я тебе говорю: “Сказал Посланник Аллаха ﷺ”, а ты говоришь: “Мы непременно будем им это запрещать”?!»Глава: Если женщина будет присутствовать на вечерней молитве /‘иша/, пусть не использует благовония
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>995</td></tr><tr><td>Arabic No</td><td>442.08</td></tr><tr><td>Reference</td><td>Book 4 Hadith 157</td></tr></tbody></table></div>
 

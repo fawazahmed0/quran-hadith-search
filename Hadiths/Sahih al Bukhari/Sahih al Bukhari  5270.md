@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:A man from the tribe of Bani Aslam came to the Prophet (ﷺ) whil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh] Telah mengabarkan kepada kami [Ibnu Wahab] dari [Yunus] dari [Ibnu Syihab] ia berkata; Telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dari [Jabir] bahwa seorang laki-laki dari Bani Aslam mendatangi Nabi shallallahu 'alaihi wasallam yang saat itu sedang berada di dalam Masjid. Laki-laki itu mengatakan bahwa ia telah berzina, namun beliau berpaling darinya. Maka laki-laki itu menghadap ke arah wajah beliau seraya bersaksi atas dirinya dengan empat orang saksi. Akhirnya beliau memanggil laki-laki itu dan bertanya: "Apakah kamu memiliki penyakit gila?" ia menjawab, "Tidak." Beliau bertanya lagi: "Apakah kamu telah menikah?" ia menjawab, "Ya." Akhirnya beliau memerintahkan untuk merajamnya di lapangan luas. Dan ketika lemparan batu telah mengenainya, ia berlari hingga ditangkap dan dirajam kembali hingga meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5270</td></tr><tr><td>Arabic No</td><td>5270</td></tr><tr><td>Reference</td><td>Book 68 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что однажды один мужчина из племени аслям пришёл к Пророку ﷺ, который находился в мечети, и сказал ему, что совершил прелюбодеяние, однако (Посланник Аллаха ﷺ) отвернулся от него, тогда он повернулся в ту сторону, к которой Пророк ﷺ повернул своё лицо и засвидетельствовал против себя четырежды. После этого Пророк ﷺ подозвал его и спросил: “Ты сумасшедший? Ты вступал в половую связь в браке?” Он ответил: “Да”. Тогда Пророк ﷺ приказал забить его камнями в том месте, где обычно совершалась молитва /мусолля/. Когда камень попал в него острым краем, он убежал, но его поймали в аль-харре и убили там
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5270</td></tr><tr><td>Arabic No</td><td>5270</td></tr><tr><td>Reference</td><td>Book 68 Hadith 20</td></tr></tbody></table></div>
 

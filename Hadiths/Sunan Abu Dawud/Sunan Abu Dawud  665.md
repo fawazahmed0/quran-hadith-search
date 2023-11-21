@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated An-Nu'man ibn Bashir: The Messenger of Allah (ﷺ) used to straighten o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Khalid bin Al-Harits] telah menceritakan kepada kami [Hatim bin Abi Shaghirah] dari [Simak] dia berkata; Saya telah mendengar [An-Nu'man bin Basyir] berkata; Rasulullah shallallahu 'alaihi wasallam biasa meluruskan shaf shaf kami apabila kami berdiri untuk shalat. Kalau barisan kami telah lurus, maka beliau bertakbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 2 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Симак (ибн Харб) сказал: «Я слышал, как Ну‘ман ибн Башир сказал: “Когда мы становились на молитву, Посланник Аллаха ﷺ выравнивал наши ряды, а когда мы становились ровно, он произносил (вступительный) такбир (к молитве)».См. предыдущий хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 2 Hadith 275</td></tr></tbody></table></div>
 

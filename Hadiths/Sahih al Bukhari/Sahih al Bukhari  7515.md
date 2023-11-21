@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Adam and Moses debated with each o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Uqail] dari [Ibn Syihab] telah menceritakan kepada kami [Humaid bin Abdurrahman] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Adam dan Musa berbantah-bantahan pada hari kiamat, Musa berkata kepada Adam, 'Engkaulah penyebab yang mengeluarkan anak cucumu dari surga! ' Sedang Adam berkata, 'Engkau Musa, yang Allah telah memilihmu dengan risalah-Nya dan kalam-Nya, engkau mencelaku atas sesuatu yang telah ditakdirkan bagiku sebelum aku dicipta! ' Maka Adam lah yang mengalahkan Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7515</td></tr><tr><td>Arabic No</td><td>7515</td></tr><tr><td>Reference</td><td>Book 97 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Адам и Муса препирались между собой. Муса сказал: “Ты Адам, который вывел своё семейство из Рая”. Адам сказал: “Ты Муса, которого Аллах избрал со Своим посланием, говорил (с тобой), а потом ты порицаешь меня за дело, которое было предопределено для меня до того, как я был создан?” Так Адам переспорил Мусу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7515</td></tr><tr><td>Arabic No</td><td>7515</td></tr><tr><td>Reference</td><td>Book 97 Hadith 140</td></tr></tbody></table></div>
 

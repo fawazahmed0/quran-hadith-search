@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Samura bin Jundab:The Prophet (ﷺ) said, "This night I dreamt that two
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Abu Raja'] dari [Samrah bin Jundub radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Pada suatu malam aku bermimpi dua orang menemuiku lalu keduanya membawa aku keluar menuju tanah suci. Kemudian kami berangkat hingga tiba di suatu sungai yang airnya dari darah. Disana ada seorang yang berdiri di tengah sungai dan satu orang lagi berada (di tepinya) memegang batu. Maka laki-laki yang berada di tengah sungai menghampirinya dan setiap kali dia hendak keluar dari sungai maka laki-laki yang memegang batu melemparnya dengan batu kearah mulutnya hingga dia kembali ke tempatnya semula di tengah sungai dan terjadilah seterusnya yang setiap dia hendak keluar dari sungai, akan dilempar dengan batu sehingga kembali ke tempatnya semula. Aku bertanya: "Apa maksudnya ini?" Maka orang yang aku lihat dalam mimpiku itu berkata: "Orang yang kamu lihat dalam sungai adalah pemakan riba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2085</td></tr><tr><td>Arabic No</td><td>2085</td></tr><tr><td>Reference</td><td>Book 34 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Самуры ибн Джундуба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Я видел этой ночью двух человек, которые пришли ко мне и доставили на святую землю. Мы шли, пока не достигли реки, в которой вместо воды текла кровь. В ней стоял человек, а посреди реки стоял (другой) человек, перед которым лежали камни. Когда человек, находившийся в реке, хотел выйти из неё, (другой) человек бросал камень прямо ему в рот, возвращая его на место, и каждый раз, как тот пытался выйти, он бросал ему камень в рот, и он возвращался на прежнее место. Я спросил: “Что это?” Мне ответили: “Тот, кого ты видел в реке, являлся ростовщиком”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2085</td></tr><tr><td>Arabic No</td><td>2085</td></tr><tr><td>Reference</td><td>Book 34 Hadith 38</td></tr></tbody></table></div>
 

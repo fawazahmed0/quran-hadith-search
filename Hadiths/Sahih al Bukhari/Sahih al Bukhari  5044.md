@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding His (Allah's) Statement:-- 'Move not your tongue c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Musa bin Abu Aisyah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, yakni terkait dengan firman-Nya, "LAA TUHARRIK BIHI LISAANAKA LITA'JALA BIHI." Ibnu Abbas berkata, "Apabila Jibril turun kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa wahyu, maka biasanya beliau mengerakkan dan lisan dan kedua bibirnya, serta agaknya beliau merasakan sesuatu yang berat. Maka Allah menurunkan ayat yang di dalamnya terdapat ungkapan, "LAA UQSIMU BIHAADZA BIYAUMIL QIYAAMAH.., LAA TUHARRIK BIHI LISAANAKA LITA'JALA BIHI, INNA 'ALAINA JAM'AHU.." maksudnya adalah, bahwa Kamilah yang akan mengumpulkannya di dalam dadamu."FA'IDZAA QARA'NAAHU FATTABI' QUR'AANAH.." Yakni, apabila kami menurunkannya maka dengarkanlah."TSUMMA 'ALAINAA BAYAANAH.." Yakni, Kamilah yang akan menjelaskannya melalui perantara lisanmu. Biasanya, apabila beliau didatangi oleh Jibril, maka beliau menunduk, dan setelah Jibril pergi, beliau membacanya sebagaimana yang diperintahkan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 66 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘ида ибн Джубайра, что, толкуя слова Всевышнего «Не шевели языком своим, (повторяя его,) чтобы ускорить это…» (сура “аль-Кыяма”, аят 16), Ибн ‘Аббас сказал: «Когда Джибриль спускался с откровением, Посланник Аллаха ﷺ всегда испытывал напряжение, что заставляло его шевелить языком и губами, и это было заметно по нему. Тогда Аллах ниспослал (аяты, в которых говорилось): “Не шевели языком своим, (повторяя его,) чтобы ускорить это! Поистине, это Нам надлежит собрать и прочесть его” (сура “аль-Кыяма”, аят 17)». Ибн ‘Аббас сказал: «(Это значит:) собрать его для тебя в твоём сердце». (Что же касается слов Всевышнего Аллаха): «А когда Мы прочитаем его, следуй его чтению» (сура “аль-Кыяма”, аят 17), то Ибн ‘Аббас сказал: «(Это значит:) когда мы ниспосылаем его, слушай внимательно». (Аллах Всевышний сказал): «Далее, поистине, надлежит Нам разъяснить его» (сура “аль-Кыяма”, аят 19) (Ибн ‘Аббас сказал: «Это значит:) далее, Нам надлежит разъяснить его через тебя». Ибн ‘Аббас сказал: «И после этого, когда Джибриль приходил к Посланнику Аллаха ﷺ, он слушал (его), а когда Джибриль уходил, Пророк ﷺ читал (аяты Корана) так, как и обещал ему Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 66 Hadith 68</td></tr></tbody></table></div>
 

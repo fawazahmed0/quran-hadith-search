@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported:I said to 'A'isha (Allah be pleased with her): Did t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Kahmas] dari [Abdullah bin Syaqiq] ia berkata, saya bertanya kepada [Aisyah] radliallahu 'anha, "Apakah Rasulullah shallallahu 'alaihi wasallam pernah berpuasa sebulan penuh?" Aisyah menjawab, "Setahuku beliau belum pernah berpuasa sebulan penuh kecuali pada bulan Ramadlan. Dan beliau juga belum pernah tidak puasa sebulan penuh diluar ramadhan hingga beliau shallallahu 'alaihi wasallam berpulang ke hadirat Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2718</td></tr><tr><td>Arabic No</td><td>1156.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2718</td></tr><tr><td>Arabic No</td><td>1156.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 224</td></tr></tbody></table></div>
 

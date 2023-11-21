@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) once stayed for nineteen days and prayed s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari ['Ashim] dari [Hushain] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam pernah menetap (dalam bepergian) selama sembilan belas hari dengan mengqashar (meringkas) shalat. Maka kami bila bepergian selama sembilan belas hari mengqashar solat. Bila lebih dari itu, kami menyempurnakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ оставался на одном месте девятнадцать дней, (в течение которых) он сокращал свои намазы. А мы, если путешествовали девятнадцать дней — сокращали (намазы), а если (находились в поездке) более этого, то совершали полный намаз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
 

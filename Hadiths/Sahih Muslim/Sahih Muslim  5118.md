@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Buraida, on the authority of his father, reported Allah's Messenger (ﷺ) ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Sufyan] telah menceritakan kepadaku [Abdurrahman bin Humaid bin Abdurrahman bin 'Auf] dari [Sa'id bin Musayyab] dari [Ummu Salamah] dan dimarfu'kan kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika (Salah seorang) telah masuk sepuluh (Dzul Hijjah), sedangkan ia memiliki hewan kurban yang hendak dikurbankan, maka jangan sekali-kali ia mencukur rambut atau memotong kuku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>1977.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Умм Салямы (да будет доволен ею Аллах), что Пророк ﷺ сказал: «Когда наступят (первые) десять (дней зуль-хиджжи), и у кого-то есть жертвенное животное, которое он захочет принести в жертву, пусть не стрижёт волосы и не обрезает ногти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>1977.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
 

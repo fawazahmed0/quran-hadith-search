@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Shaqiq reported that it was said to Usama b. Zaid:Why don't you visit 'Uthman an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakr bin Abu Syaibah], [Muhammad bin Abdullah bin Numair], [Ishaq bin Ibrahim] dan [Abu Kuraib], teks milik Abu Kuraib, berkata [Yahya] dan [Ishaq]: Telah mengkhabarkan kepada kami, sedangkan yang lain berkata: Telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Usamah bin Zaid] berkata: Dikatakan padanya: Bertamulah ke Utsman lalu berbicaralah padanya. Ia berkata: Apa kalian melihatku bahwa aku tidaklah berbicara kepadanya kecuali yang telah saya sampaikan kepada kalian, aku pernah berbicara berdua dengannya tentang sesuatu dimana saya tidak suka untuk memulainya, dan aku tidak berkata kepada siapa pun bahwa aku memiliki pemimpin, ia adalah orang terbaik setelah aku mendengar Rasulullah Shallallahu 'alaihi wa salam bersabda: "Seseorang didatangkan pada hari kiamat kemudian dilemparkan ke neraka hingga ususnya terburai keluar dan berputar-putar dineraka seperti keledai mengitari alat penumbuk gandumnya, kemudian penduduk neraka bertanya: 'Hai fulan! Apa yang menimpamu, bukankah dulu kau memerintahkan kebaikan dan mencegah kemungkaran? ' Ia menjawab: 'Benar, dulu saya memerintahkan kebaikan tapi saya tidak melakukannya dan saya melarang kemungkaran tapi saya melakukannya'." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa'il] berkata: Kami berada dikediaman [Usamah bin Zaid] lalu seseorang berkata: Apa yang menghalangimu untuk bertamu ke Utsman lalu kau berbicara dengannya. Ia kemudian menyebut hadits serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7483</td></tr><tr><td>Arabic No</td><td>2989.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7483</td></tr><tr><td>Arabic No</td><td>2989.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 66</td></tr></tbody></table></div>
 

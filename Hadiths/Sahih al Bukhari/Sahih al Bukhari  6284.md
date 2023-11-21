@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) forbade two kinds of dresses and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Atha' bin Yazid Al Laitsi] dari [Abu Sa'id Al Khudri] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam melarang mengenakan dua pakaian dan dua transaksi jual beli, yaitu; isytimalus shama', (menggantungkan pakaiannya disalah satu pundaknya dan membuka salah satu betisnya tanpa mengenakan pakaian lainnya), dan duduk dengan menempelkan lutut ke dada sambil mengenakan pakaian, hingga menyebabkan auratnya terbuka). Dan melarang mulamasah (seseorang yang memegang pakaian orang lain tanpa memeriksanya terlebih dahulu) dan Munabadzah (seseorang melempar pakaiannya ke orang lain atau sebaliknya, lalu terjadilah transaksi jual beli tanpa boleh memeriksanya terlebih dahulu)." Hadits ini juga diperkuat oleh riwayat [Ma'mar] dan [Muhammad bin Abu Hafshah] serta [Abdullah bin Budail] dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6284</td></tr><tr><td>Arabic No</td><td>6284</td></tr><tr><td>Reference</td><td>Book 79 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил два способа ношения одежды и два вида продаж. (Что касается двух способов ношения одежды, то это) закутываться в свою одежду наглухо, и когда человек заворачивается в одну одежду так, что его половые органы остаются неприкрытыми. (В торговле же он запретил такие её виды, как) “аль-мулямаса” и “аль-мунабаза”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6284</td></tr><tr><td>Arabic No</td><td>6284</td></tr><tr><td>Reference</td><td>Book 79 Hadith 57</td></tr></tbody></table></div>
 

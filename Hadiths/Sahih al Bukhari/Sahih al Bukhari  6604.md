@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) once delivered a speech in front of us where
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Mas'ud] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Abu wa'il] dari [Khudzaifah] radliyallahu'anhu mengatakan, Nabi shallallahu 'alaihi wasallam menyampaikan khutbah kepada kami, yang dalam khutbah itu tidaklah beliau tinggalkan sesuatu yang terjadi hingga kiamat tiba, selain beliau sebutkan, yang tahu akan mengetahuinya, dan yang bodoh tidak mengetahuinya, sungguh aku telah melihat sesuatu yang pernah kulupakan, lantas aku tahu suatu hal yang tidak diketahui seseorang karena ia belum melihatnya, lantas ia pun melihatnya dan mengetahuinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6604</td></tr><tr><td>Arabic No</td><td>6604</td></tr><tr><td>Reference</td><td>Book 82 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ обратился к нам с проповедью и рассказал нам обо всём, что будет происходить до самого Судного дня. Кто запомнил сказанное им, тот запомнил, а кто забыл, тот забыл. И, видя что-то из предсказанного им, которое я забыл (со временем), я вспоминаю само предсказание подобно тому, как вспоминает человек знакомого человека, которого он встретил после долгой разлуки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6604</td></tr><tr><td>Arabic No</td><td>6604</td></tr><tr><td>Reference</td><td>Book 82 Hadith 10</td></tr></tbody></table></div>
 

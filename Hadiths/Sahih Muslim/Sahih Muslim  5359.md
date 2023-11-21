@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), un homme vint trouver l'Envoyé de D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb], Telah menceritakan kepada kami [Jarir bin Abdul Hamid] dari [Fudhail bin Ghazawan] dari [Abu Hazim Al Asyja'i] dari [Abu Hurairah] dia berkata; "Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam lalu dia berkata: 'Aku berada dalam kesulitan (susah hidup dan lapar).' Maka beliau bawa orang itu ke rumah sebagian istri-istri beliau, menanyakan kalau-kalau mereka memiliki makanan. Para isteri beliau menjawab; 'Demi Allah yang mengutus Anda dengan kebenaran, Aku tidak sedia apa-apa selain air.' Begitulah jawaban mereka masing-masing hingga seluruh istri beliau mengatakan dengan jawaban yang sama. Lalu beliau bersabda kepada para sahabat: 'Siapa bersedia menjamu tamu malam ini niscaya dia diberi rahmat oleh Allah Ta'ala.' Maka berdirilah seorang laki-laki Anshar seraya berkata; 'Aku, ya Rasulullah! ' kemudian dibawalah orang itu ke rumahnya. Dia bertanya kepada isterinya; 'Adakah engkau sedia makanan? ' Jawab isterinya; 'Tidak ada, kecuali makanan anak-anak.' Katanya; 'Alihkan perhatian mereka dengan apa saja. Dan bila tamu kita telah datang, matikanlah lampu dan tunjukkan kepadanya bahwa kita seolah-olah ikut makan bersamanya. Caranya bila dia telah mulai makan, berdirilah ke dekat lampu lalu padamkan. Maka duduklah mereka, dan sang tamu pun makan. Setelah Subuh, sahabat tersebut bertemu dengan Nabi shallallahu 'alaihi wasallam. Lalu kata beliau: 'Sungguh Allah kagum dengan cara kamu berdua melayani tamu kalian tadi malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5359</td></tr><tr><td>Arabic No</td><td>2054.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5359</td></tr><tr><td>Arabic No</td><td>2054.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 233</td></tr></tbody></table></div>
 

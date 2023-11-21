@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There would enter Paradis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Asy Sya'ir] telah menceritakan kepada kami [Abu An Nadhr bin Al Qasim Al Laitsi] telah menceritakan kepada kami [Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Abu Salamah] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Beberapa kaum masuk surga, hati mereka seperti hati burung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7162</td></tr><tr><td>Arabic No</td><td>2840</td></tr><tr><td>Reference</td><td>Book 53 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7162</td></tr><tr><td>Arabic No</td><td>2840</td></tr><tr><td>Reference</td><td>Book 53 Hadith 31</td></tr></tbody></table></div>
 

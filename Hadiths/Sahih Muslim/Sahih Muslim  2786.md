@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported through another chain of transmitters, and there i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2786</td></tr><tr><td>Arabic No</td><td>1173.02</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В хадисе Ибн ‘Уейны, ‘Амра ибн аль-Хариса и Ибн Исхакъа сообщается о том, что ‘Аиша, Хафса и Зайнаб, да будет доволен ими всеми Аллах, о том, что они устанавливали палатки для уединения (в мечети)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2786</td></tr><tr><td>Arabic No</td><td>1173.02</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
 

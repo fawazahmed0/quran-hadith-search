@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Nadr ibn Kathir as-Sa'di said: Abdullah ibn Tawus p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Aban] sedangkan maksud haditsnya sama, keduanya berkata; telah menceritakan kepada kami [An Nadlr bin Katsir yaitu As Sa'di] dia berkata; Abdullah bin Thawus shalat di sampingku di masjid Khaif, apabila dia sujud pada sujud pertama, lalu bangkit dari sujudnya, dia mengangkat kedua tangannya ke depan mukanya, lalu aku pun mengingkari perbuatannya, setelah itu aku adukan hal tersebut kepada Wuhaib bin Khalid, maka Wuhaib bin khalid berkata kepadanya; "Kamu telah melakukan sesuatu yang belum pernah aku melihat seorangpun melakukannya." [Ibnu Thawus] menjawab; "Aku pernah melihat ayahku melakukannya, kata [ayahku]; "Aku melihat [Ibnu Abbas] melakukan hal itu, namun aku tidak mengetahui kecuali dia berkata bahwa Nabi shallallahu 'alaihi wasallam juga melakukan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>740</td></tr><tr><td>Arabic No</td><td>740</td></tr><tr><td>Reference</td><td>Book 2 Hadith 350</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Надр ибн Касир ас-Са‘ди сказал: (Однажды) ‘Абдуллах ибн Таус (ибн Кайсан) совершал молитву рядом со мной в мечети аль-Хайфа. Когда он совершал первый земной поклон и поднимая голову с него, он поднимал руки напротив своего лица. Мне это не понравилось, и я сказал об этом Уухайбу ибн Халиду, а он обратился к нему и сказал: «Ты делаешь то, что я не видел никого поступающего подобным образом». Ибн Таус сказал: «Я видел, как таким образом поступал мой отец, и он сказал: “Я видел, как таким образом поступал Ибн ‘Аббас, однако я не знаю, кроме того, что он сказал: “Так поступал Пророк ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>740</td></tr><tr><td>Arabic No</td><td>740</td></tr><tr><td>Reference</td><td>Book 2 Hadith 350</td></tr></tbody></table></div>
 

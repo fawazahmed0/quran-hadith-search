@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Mulaika:Whenever 'Aisha (the wife of the Prophet) heard anythin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah mengabarkan kepada kami [Nafi' bin Umar] berkata, telah menceritakan kepadaku [Ibnu Abu Mulaikah] bahwa [Aisyah] istri Nabi shallallahu 'alaihi wasallam tidaklah mendengar sesuatu yang tidak dia mengerti kecuali menanyakannya kepada Nabi shallallahu 'alaihi wasallam sampai dia mengerti, dan Nabi shallallahu 'alaihi wasallam pernah bersabda: "Siapa yang dihisab berarti dia disiksa" Aisyah berkata: maka aku bertanya kepada Nabi: "Bukankah Allah Ta'ala berfirman: "Kelak dia akan dihisab dengan hisab yang ringan" Aisyah berkata: Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya yang dimaksud itu adalah pemaparan (amalan). Akan tetapi barangsiapa yang didebat hisabnya pasti celaka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 3 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Абу Мулейки о том, что обычно, когда жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, слышала о чём нибудь, что она не понимала, она обязательно переспрашивала об этом, чтобы понять это, и (также она рассказывала,) что однажды Пророк ﷺ сказал: «Тот, у кого потребуют полного отчёта, будет подвергнут наказанию». \n‘Аиша, да будет доволен ею Аллах, сказала: \n— Я спросила: «Разве Аллах Всевышний не говорит: “… он непременно будет рассчитан расчётом лёгким…”?» (Пророк ﷺ) сказал: «Это касается только представления, но тот (человек, дела) которого будут обсуждаться, погибнет!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 3 Hadith 45</td></tr></tbody></table></div>
 

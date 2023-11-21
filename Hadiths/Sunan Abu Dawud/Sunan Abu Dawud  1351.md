@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah: The Messenger of Allah (ﷺ) used to observe the witr prayer w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (731)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1351</td></tr><tr><td>Arabic No</td><td>1351</td></tr><tr><td>Reference</td><td>Book 5 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ совершал девять рак‘атов, потом стал совершать семь рак‘атов. А после витра он совершал два рак‘ата сидя, читая во время них аяты Корана, а когда он собирался совершить поясной поклон, он вставал и потом совершал поясной поклон и земные поклоны. Абу Дауд сказал: «Таким же образом эти два хадиса передал Халид ибн ‘Абдуллах аль-Васиты от Мухаммада ибн ‘Амра, сказав, что ‘Алькама ибн Ваккас сказал: “О матушка! Как (Посланник Аллаха ﷺ) совершал два рак‘ата?” И он передал подобное сообщение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (731)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1351</td></tr><tr><td>Arabic No</td><td>1351</td></tr><tr><td>Reference</td><td>Book 5 Hadith 102</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "Pride and arroganc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; aku mendengar Rasulullah Shallallhu 'alaihi wa salam bersabda: "Kebanggaan dan kesombongan, ada pada orang-orang yang biasa mengembala, yaitu orang-orang yang tinggal di pelosok, sedangkan karakter tenang ada pada pengembala (pemilik) kambing, dan iman itu ada pada negeri Yaman sedangkan hikmah banyak difahami oleh pendudukYaman". Abu 'Abdullah Al Bukhariy berkata; "Dinamakan Yaman karena negeri itu berada di sebelah kanan Ka'bah sedangkan Syam karena negeri itu berada di sebelah kiri dari Ka'bah. Al Masy'amah (dalam QS al-Waqi'ah ayat 9) artinya al-Maysarah (golongan kiri) dan al-yadul yusraa berarti tangan kiri sedangkan al-Janibul aysar (samping kiri) disebut juga asy-Syam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3499</td></tr><tr><td>Arabic No</td><td>3499</td></tr><tr><td>Reference</td><td>Book 61 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Гордость и высокомерие свойственны громко кричащим бедуинам, живущим в палатках из шерсти. Спокойствием же отличаются владельцы овец. Вера /иман/ — в Йемене, и йеменцам присуща мудрость».\nАбу ‘Абдуллах сказал: «Йемен был назван так, потому что он расположен справа (йамин) от Каабы, а аш-Шам был назван так, потому что он расположен слева от Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3499</td></tr><tr><td>Arabic No</td><td>3499</td></tr><tr><td>Reference</td><td>Book 61 Hadith 9</td></tr></tbody></table></div>
 

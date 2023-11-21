@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: SayAmin when the Imam sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Ibnu Syihab] dari [Sa'id bin al-Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa keduanya telah mengabarkan kepadanya dari [Abu Hurairah ra] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila imam mengucapkan amin, maka ucapkanlah amin, karena barangsiapa yang aminnya bersesuaian dengan aminnya malaikat, niscaya dosanya yang telah lalu diampuni." Ibnu Syihab berkata, "Dahulu, Rasulullah shallallahu 'alaihi wasallam berkata "? min (semoga Allah mengabulkan) ". Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Ibnu al-Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] ra berkata, Saya mendengar Rasulullah shallallahu 'alaihi wasallam semisal hadits Malik, dan dia belum menyebutkan perkataan Ibnu syihab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда имам произнесёт слово “Амин” (после суры “Аль- Фатиха”), произносите его и вы, ибо, поистине, тому, кто (произнесёт это слово) одновременно с ангелами, простятся его прежние грехи».Ибн Шихаб сказал: «Посланник Аллаха ﷺ всегда произносил слово “Амин”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
 

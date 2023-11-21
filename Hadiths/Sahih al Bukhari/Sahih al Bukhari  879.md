@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) (p.b.u.h) said, "The taking
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Shafwan bin Sulaim] dari ['Atha' bin Yasar] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Mandi pada hari Jum'at adalah wajib bagi setiap orang yang sudah baligh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>879</td></tr><tr><td>Arabic No</td><td>879</td></tr><tr><td>Reference</td><td>Book 11 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Совершение большого омовения в пятницу обязательно для каждого достигшего половой зрелости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>879</td></tr><tr><td>Arabic No</td><td>879</td></tr><tr><td>Reference</td><td>Book 11 Hadith 4</td></tr></tbody></table></div>
 

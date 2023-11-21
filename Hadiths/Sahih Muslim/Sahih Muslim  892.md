@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abda reported:'Umar b. al-Khattab used to recite loudly these words: Subhanak Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran ar-Razi] telah menceritakan kepada kami [al-Walid bin Muslim] telah menceritakan kepada kami [al-Auza'i] dari 'Abdah bahwa Umar bin al-Khaththab dahulu mengeraskan (bacaan) kalimat-kalimat tersebut. Dia membaca, "SUBHAANAKALLOOHUMMA, WABIHAMDIKA TABAAROKA ISMUKA WATA'AALAA JADDUKA WALAA ILAAHA GHOIRUKA." Ya Allah, Mahasuci Engkau dan dengan memujimu, Mahaberkah NamaMu, Mahaluhur kemuliaanMu, tidak ada tuhan (yang berhak disembah) selain Engkau." Dan dari [Qatadah] bahwa dia menulis kepadanya mengabarkan dari [Anas bin Malik] bahwa dia menceritakan kepadanya, dia berkata, "Saya shalat di belakang Nabi Shallallahu'alaihiwasallam, Abu Bakar, Umar, dan Utsman, maka mereka memulai membaca iftitah dengan, 'Alhamdulillahi Rabb al-Alamin (Segala puji bagi Allah, Rabb semesta alam).' Mereka tidak menyebutkan, 'Bismillahirrahmanirrahim (dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang) pada awal bacaan, dan tidak pada akhirnya." Telah menceritakan kepada kami [Muhammad bin Mihran] telah menceritakan kepada kami [al-Walid bin Muslim] dari [al-Auza'i] telah mengabarkan kepadaku [Ishaq bin Abdullah bin Abi Thalhah] bahwasanya dia mendengar [Anas bin Malik] menyebutkan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>399.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абды, что обычно ‘Умар ибн аль-Хаттаб произносил вслух следующие слова: «Слава Тебе, о Аллах, и хвала Тебе, благословенно имя Твоё, превыше всего величие Твоё, и нет божества, достойного поклонения, кроме Тебя” /Субханака-Ллахумма, ва би-хамди-кя, ва табаракя-сму-кя, ва та‘аля джадду-кя, ва ля иляха гъайру-кя/».Катада рассказал, что он написал послание (аль-Ауза’и), (в котором) он передал, что Анас ибн Малик сказал: «Я совершал молитву за Пророком ﷺ, а также Абу Бакром, ‘Умаром и ‘Усманом, и (все) они начинали молитву словами: “Хвала Аллаху, Господу миров” /аль-хамду ли-Лляхи Рабби-ль ‘алямин/. И не упоминали (слова): “С именем Аллаха Всемилостивого, Милующего” /Би-сми-Лляхи-р-Рахмани-р-Рахим/ (сура “аль-Фатиха”, аят 1). Ни в начале чтения, ни в конце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>399.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 54</td></tr></tbody></table></div>
 

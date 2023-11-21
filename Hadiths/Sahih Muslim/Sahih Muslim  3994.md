@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported:A person met his Lord (after death) and He said: What (good) d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr] dan [Ishaq bin Ibrahim] sedangkan lafadznya dari [Ibnu Hujr] keduanya berkata; telah menceritakan kepada kami [Jarir] dari [Mughirah] dari [Nu'aim bin Abu Hind] dari [Rib'i bin Hirasy] dia berkata, "Hudzaifah dan Abu Mas'ud sedang berkumpul, lalu [Hudzaifah] berkata, "Ada seorang laki-laki yang meninggal dan menemui Rabbnya, maka Rabbnya berfirman kepadanya: 'Apa yang telah kamu perbuat? ' laki-laki itu menjawab, 'Saya belum pernah berbuat kebaikan sama sekali, melainkan saya adalah seorang laki-laki yang memiliki harta benda, saya juga melakukan transaksi dengan orang-orang, namun saya sering mempermudah dalam urusan dan memberi tangguh kepada orang yang sedang dalam kesusahan.' Maka Allah berfirman: 'Berilah kelapangan kepadanya'." [Abu Mas'ud] berkata, "Seperti inilah saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3994</td></tr><tr><td>Arabic No</td><td>1560.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3994</td></tr><tr><td>Arabic No</td><td>1560.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 33</td></tr></tbody></table></div>
 

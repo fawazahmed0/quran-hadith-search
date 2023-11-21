@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The truest word spoken by
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ja'far Muhammad bin Ash Shabbah] dan ['Ali bin Hujr As Sa'di] seluruhnya dari [Syarik]. [Ibnu Hujr] berkata; Telah mengabarkan kepada kami [Syarik] dari ['Abdul Malik bin 'Umair] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sya'ir (atau sajak) paling indah yang pernah diungkapkan orang Arab ialah sajaknya Labid. Labid bersya'ir: Alaa, kullu syaiin maa khalallaha bathil (Ketahuilah, segala sesuatu selain Allah itu pasti binasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5888</td></tr><tr><td>Arabic No</td><td>2256.01</td></tr><tr><td>Reference</td><td>Book 41 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5888</td></tr><tr><td>Arabic No</td><td>2256.01</td></tr><tr><td>Reference</td><td>Book 41 Hadith 3</td></tr></tbody></table></div>
 

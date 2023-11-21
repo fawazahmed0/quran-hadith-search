@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:We gave the oath of allegiance to the Prophet (ﷺ) under the tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Yazid bin Abu 'Ubaid] dari [Salamah] mengatakan, Kami berbaiat kepada Nabi shallallahu 'alaihi wasallam dibawah pohon, lantas Nabi mengatakan: "Hai Salamah, tidakkah engkau berbaiat?" 'Saya sudah pada baiat yang pertama ya Rasulullah' Jawabku. Maka Rasulullah menjawab: "lakukanlah juga pada baiat yang kedua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7208</td></tr><tr><td>Arabic No</td><td>7208</td></tr><tr><td>Reference</td><td>Book 93 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Саляма (ибн аль-Аква‘), да будет доволен им Аллах, сказал: «Мы присягнули Пророку ﷺ у подножия дерева, и (Пророк ﷺ) сказал мне: “О Саляма, разве ты не присягнёшь мне?” Я сказал: “О Посланник Аллаха, я ведь уже присягнул тебе среди первых”. Он сказал: “(Присягни) ещё”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7208</td></tr><tr><td>Arabic No</td><td>7208</td></tr><tr><td>Reference</td><td>Book 93 Hadith 68</td></tr></tbody></table></div>
 

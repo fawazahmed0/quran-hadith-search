@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Anas b. Malik with a slight
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ishaq bin Manshur] keduanya berkata; telah mengabarkan kepada kami [An Nadlr bin Syumail] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] dari [Anas bin Malik] dia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Khaibar, beliau mengucapkan: "Apabila kami menduduki suatu negeri, '(maka amat buruklah pagi hari yang dialami oleh orang-orang yang diperingatkan itu) ' (Qs. Asy Syaffat:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4667</td></tr><tr><td>Arabic No</td><td>1365.09</td></tr><tr><td>Reference</td><td>Book 32 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4667</td></tr><tr><td>Arabic No</td><td>1365.09</td></tr><tr><td>Reference</td><td>Book 32 Hadith 149</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Abbas said:The prophet (ﷺ) did not distinguish between the two surahs unti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ahmad bin Muhammad Al Marwazi] serta [Ibnu Sarh] mereka mengatakan telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Sa'id bin Jubair] -Qutaibah mengatakan dalam riwayat tersebut- dari [Ibnu Abbas] dia berkata; "Nabi shallallahu 'alaihi wasallam tidak mengetahui pemisah antar surat hingga diturunkan kepada beliau "Bismillahir Rahmanir Rahim" (dengan menyebut nama Allah yang maha pengasih lagi maha penyayang). Lafadz ini dari Ibnu As Sarh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ не знал, где кончается одна сура и начинается другая, пока ему не ниспосылалось: «С именем Аллаха, Всемилостивого, Милостивого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
 

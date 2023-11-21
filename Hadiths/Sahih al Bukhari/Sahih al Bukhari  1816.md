@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ma'qal:I sat with Ka'b bin 'Ujra and asked him about the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari ['Abdurrahman bin Al Ashbahaniy] dari ['Abdullah bin Aku mendengar 'qil] berkata; 'Aku duduk dekat dengan [Ka'ab bin 'Ujrah radliallahu 'anhu] lalu aku bertanya kepadanya tentang fidyah, maka dia menawab: "Ayat itu turun untukku secara khusus dan buat kalian secara umum, yaitu aku pernah dibawa kepada Rasulullah shallallahu 'alaihi wasallam sementara wajahku banyak dipenuhi kutu, maka Beliau berkata: "Mengapa aku melihat kamu dalam keadaan sakit sedemikian parah yang belum pernah aku lihat sebelumnya? dan mengapa aku melihat kamu dalam keadaan kepayahan sedemikian memuncak yang belum pernah aku lihat sebelumnya? apakah kamu memiliki kambing?". Aku jawab: "Benar". Maka Beliau berkata: "Laksanakanlah shaum tiga hari atau berilah makan enam orang miskin yang untuk setiap satu orang miskin sebanyak setengah sha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1816</td></tr><tr><td>Arabic No</td><td>1816</td></tr><tr><td>Reference</td><td>Book 27 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Ма‘кыль сказал: «Однажды, когда я сидел с Ка‘бом ибн ‘Уджрой, да будет доволен им Аллах, я спросил его об искуплении, и он ответил: “Этот аят был ниспослан из-за меня, но касается он всех вас. Меня принесли к Посланнику Аллаха ﷺ, а вши падали на мое лицо, тогда Пророк ﷺ сказал: “Я не думал, что твоя болезнь достигла такой степени. У тебя есть овца?” Я ответил: “Нет”. Тогда он сказал: “Постись три дня, или накорми шесть бедняков, каждому бедняку половину са‘а (еды)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1816</td></tr><tr><td>Arabic No</td><td>1816</td></tr><tr><td>Reference</td><td>Book 27 Hadith 11</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that the Messenger of Allah (ﷺ) combined the prayers as he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] telah menceritakan kepada kami [Qurrah] telah menceritakan kepada kami [Abu Zubair] telah menceritakan kepada kami [Said bin Jubair] telah menceritakan kepada kami [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah menjamak shalat dalam safar ketika perang tabuk, beliau menjamak antara zhuhur dan ashar, maghrib dan isya', " [Said] berkata; lalu aku berkata kepada [Ibnu Abbas]; "Apa yang mendorong beliau melakukan hal itu? Dia menjawab; "Beliau ingin supaya tidak memberatkan umatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1630</td></tr><tr><td>Arabic No</td><td>705.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что когда Посланник Аллаха ﷺ отправился в поход на Табук, он объединял полуденную молитву /зухр/ с послеполуденной /‘аср/, а закатную молитву /магриб/ с вечерней /‘иша/.Са‘ид сказал: «Я спросил Ибн ‘Аббаса: “Почему он поступал таким образом?”, а он ответил: “Он хотел, чтобы его община не испытывала затруднений”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1630</td></tr><tr><td>Arabic No</td><td>705.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 61</td></tr></tbody></table></div>
 

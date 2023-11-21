@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "Whoever has eaten garlic o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] berkata, telah menceritakan kepada kami [Abu Shafwan Abdullah bin Sa'id] berkata, telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] ia berkata; telah menceritakan kepadaku [Atha] bahwa [Jabir bin Abdullah] radliallahu 'anhuma menyakini dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa makan bawang merah atau bawang putih, hendaklah ia menjauhi kami, atau beliau mengatakan, "Hendaklah ia menjauhi tempat shalat kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5452</td></tr><tr><td>Arabic No</td><td>5452</td></tr><tr><td>Reference</td><td>Book 70 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Пусть тот, кто ел чеснок или лук (в сыром виде), не приближается к нам или к нашей мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5452</td></tr><tr><td>Arabic No</td><td>5452</td></tr><tr><td>Reference</td><td>Book 70 Hadith 81</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir bin Sa'd bin Abi Waqqas:That his father said, "In the year of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Amir bin Sa'ad bin Abu Waqash] dari [bapaknya] radliallahu 'anhu berkata; Rasulullah Shallallahu'alaihiwasallam pernah mengunjungiku pada hari Haji Wada' (perpisahan) saat sakitku sudah sangat parah, lalu aku berkata: " Sakitku sudah sangat parah (menjelang kematianku) dan aku banyak memiliki harta sedangkan tidak ada yang akan mewarisinya kecuali anak perempuanku. Bolehkah aku menyedekahkan sepertiga dari hartaku ini?. Beliau menjawab: "Tidak boleh". Aku katakan lagi: "Bagaimana kalau setengahnya?". Beliau menjawab: "Tidak boleh". Kemudian Beliau melanjutkan: "Sepertiga dan sepertiga itu sudah besar atau banyak. Sesungguhnya kamu bila meninggalkan ahli warismu dalam keadaan berkecukupan (kaya) itu lebih baik dari pada kamu meninggalkan mereka serba kekurangan sehingga nantinya mereka meminta-minta kepada manusia. Dan kamu tidaklah menginfaqkan suatu nafaqah yang hanya kamu hanya niatkan mencari ridha Allah kecuali kamu pasti diberi balasan pahala atasnya bahkan sekalipun nafkah yang kamu berikan untuk mulut isterimu". Lalu aku bertanya: "Wahai Rasulullah, apakah aku diberi umur panjang setelah sahabat-sahabatku?. Beliau berkata,: "Tidaklah sekali-kali engkau diberi umur panjang lalu kamu beramal shalih melainkan akan bertambah derajat dan kemuliaanmu. Dan semoga kamu diberi umur panjang sehingga orang-orang dapat mengambil manfaat dari dirimu dan juga mungkin dapat mendatangkan madharat bagi kaum yang lain. Ya Allah sempurnakanlah pahala hijrah sahabat-sahabatku dan janganlah Engkau kembalikan mereka ke belakang". Namun Sa'ad bin Khaulah membuat Rasulullah Shallallahu'alaihiwasallam bersedih karena dia akhirnya meningal dunia di Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1295</td></tr><tr><td>Arabic No</td><td>1295</td></tr><tr><td>Reference</td><td>Book 23 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д бин Абу Ваккас, да будет доволен им Аллах, сказал: «В год прощального паломничества я тяжело заболел и Посланник Аллаха ﷺ часто навещал меня. (Однажды) я сказал: “Поистине, болезнь уже довела меня до крайности! Я богат, а наследников, кроме дочери, у меня нет, так не раздать ли мне две трети своих денег (бедным)?” Он сказал: “Нет”. Я спросил: “А половину?” Он сказал: “Нет”, а потом добавил: “Треть, но и трети будет много, ведь тебе лучше оставить своих наследников богатыми, чем лишёнными средств и (вынужденными) просить у людей! И, поистине, ты обязательно получишь награду за всё то, что потратишь ради лика Аллаха, и даже за то, что положишь в рот своей жене”. Тогда я спросил: “О Посланник Аллаха, оставят ли меня здесь после (того, как уедут) мои товарищи?” Он сказал: “Тебя ни в коем случае не оставят, и какое бы праведное дело ты ни совершил, оно непременно возвысит тебя. Кроме того, возможно, что ты проживёшь ещё долго, чтобы благодаря тебе одни люди получили пользу, а другим был нанесён вред. О Аллах, заверши переселение для моих сподвижников и не вынуждай их отступать! О бедный Са‘д бин Хауля!” — и Посланник Аллаха ﷺ стал выражать сожаление в связи с тем, что этот человек умер в Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1295</td></tr><tr><td>Arabic No</td><td>1295</td></tr><tr><td>Reference</td><td>Book 23 Hadith 53</td></tr></tbody></table></div>
 

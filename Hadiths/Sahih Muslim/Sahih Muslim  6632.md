@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:You will find the worst a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepadaku [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah menceritakan kepadaku [Sa'id bin Al Musayyab] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian akan menjumpai seburuk-buruk manusia, yaitu orang yang bermuka dua, dia datang kesini dengan satu sikap dan bila datang ke yang lain dengan sikap yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6632</td></tr><tr><td>Arabic No</td><td>2526.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6632</td></tr><tr><td>Arabic No</td><td>2526.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 129</td></tr></tbody></table></div>
 

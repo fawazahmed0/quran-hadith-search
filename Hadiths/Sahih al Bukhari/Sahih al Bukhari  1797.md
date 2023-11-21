@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Whenever Allah's Messenger (ﷺ) returned from a Gh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam apabila kembali dari suatu peperangan atau haji atau 'umrah, Beliau bertakbir tiga kali pada setiap dataran tinggi dari permukaan bumi lalu berdo'a: "Laa ilaaha illallahu wahdahu laa syariika lahu, lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai'in qadiir. Aayibuuna taa'buuna 'aabiduuna saajiduuna li rabbinaa haamiduun. Shadaqallah wa'dahu wa nashara 'abdahu wa hazamal ahzaaba wahdah". (Tidak ada ilah yang berhak disembah selain Allah satu-satunya, tidak ada sekutu bagi-Nya. Milik-Nya segala kerajaan, dan pujian dan Dia Maha Berkuasa atas segala sesuatu. Kita kembali, sebagai hamba yang bertaubat, ber'ibadah, sujud untuk Rabb kita dan yang memuji-Nya. Allah Maha Benar dengan janji-Nya, menolong hamba-Nya dan menghancurkan musuh-musuh-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1797</td></tr><tr><td>Arabic No</td><td>1797</td></tr><tr><td>Reference</td><td>Book 26 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что, когда Посланник Аллаха ﷺ возвращался (в Медину) после военного похода, хаджа или умры, он по три раза произносил слова “Аллах велик”, (поднимаясь) на каждую возвышенность, после чего говорил: «Нет истинного бога, кроме одного лишь Аллаха, у Которого нет сотоварища, Ему принадлежит владычество, Ему хвала, Он всё может! Мы возвращаемся, каемся, Господу нашему поклоняемся (и пред Ним) до земли склоняемся и (Его) восхваляем! Аллах сдержал Своё обещание, и помог Своему рабу, и один разбил племена \n/Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шайй‘ин кадир! Аййибуна, та‘ибуна, ‘абидуна, саджидуна, ли-Рабби-на хамидуна! Садака-Ллаху ва‘да-ху, ва насара ‘абда-ху ва хазама-ль-ахзаба вахда-ху/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1797</td></tr><tr><td>Arabic No</td><td>1797</td></tr><tr><td>Reference</td><td>Book 26 Hadith 22</td></tr></tbody></table></div>
 

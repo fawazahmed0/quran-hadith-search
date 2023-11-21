@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mas’ud al-Ansari said:The Messenger of Allah (ﷺ) came to us in a meeting
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>980</td></tr><tr><td>Arabic No</td><td>980</td></tr><tr><td>Reference</td><td>Book 2 Hadith 591</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Мас‘уд аль-Ансари, да будет доволен им Аллах, сказал: «Однажды, когда мы сидели у Са‘да ибн ‘Убады, к нам пришёл Посланник Аллаха ﷺ и Башир ибн Са‘д сказал ему: “Всевышний Аллах велел нам благословлять тебя, о Посланник Аллаха, но как нам благословлять тебя?” И после этого Посланник Аллаха ﷺ хранил молчание так долго, что мы уже пожалели, что он задал ему этот вопрос. Затем Посланник Аллаха ﷺ сказал…» Далее он привёл те же слова, что и в хадисе Ка‘ба ибн ‘Уджры (см. хадис 976), только с добавлением «…среди обитателей миров, поистине, Ты Достойный похвалы, Славный! /Фи-ль-‘алямина, инна-ка Хамидун, Маджид/» в конце
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>980</td></tr><tr><td>Arabic No</td><td>980</td></tr><tr><td>Reference</td><td>Book 2 Hadith 591</td></tr></tbody></table></div>
 

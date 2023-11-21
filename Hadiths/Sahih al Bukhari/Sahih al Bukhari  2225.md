@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Abu Al-Hasan:While I was with Ibn 'Abbas a man came and said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan kepada kami [Yazid bin Zurai'] telah mengabarkan kepada kami ['Auf] dari [Sa'id bin Abi Al Hasan] berkata; Aku pernah bersama [Ibnu 'Abbas] radliallahu 'anhu ketika datang seorang kepadanya seraya berkata; "Wahai Abu 'Abbas, aku adalah seorang yang mata pencaharianku adalah dengan keahlian tanganku yaitu membuat lukisan seperti ini". Maka Ibnu 'Abbas berkata: "Aku tidaklah menyampaikan kepadamu perkataan melainkan dari apa yang pernah aku dengar dari Rasulullah shallallahu 'alaihi wasallam yang Beliau bersabda: "Siapa yang membuat gambar lukisan, Allah akan menyiksanya hingga dia meniupkan ruh (nyawa) kepada gambarnya itu dan sekali-kali dian tidak akan bisa mendatangkanhya selamanya". Maka orang tersebut sangat ketakutan dengan wajah yang pucat pasi lalu berkata: "Bagaimana pendapatmu kalau aku tidak bisa meninggalkannya kecuali tetap menggambar?" Dia (Ibnu 'Abbas) berkata: "Gambarlah olehmu pepohonan dan setiap sesuatu yang tidak memiliki nyawa". Berkata, Abu 'Abdullah Al Bukhariy: Said bin Abi 'Arubah mendengar dari An-Nadhar bin Anas sendirian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2225</td></tr><tr><td>Arabic No</td><td>2225</td></tr><tr><td>Reference</td><td>Book 34 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз) к ‘Абдуллаху бин ‘Аббасу, да будет доволен Аллах ими обоими, пришёл один человек и сказал: «О Абу ‘Аббас, поистине, я — человек, и я зарабатываю на жизнь своими руками, делая эти изображения». Ибн ‘Аббас сказал: «Я скажу тебе лишь то, что слышал от Посланника Аллаха ﷺ. Я слышал, как он сказал: “Того, кто создаст (какое-либо) изображение, Аллах станет подвергать мучениям до тех пор, пока он не вдохнёт в него дух, а он не (сможет сделать этого) никогда!”» (Услышав его слова,) этот человек глубоко вздохнул, и его лицо пожелтело (от страха. Тогда Ибн ‘Аббас) сказал (ему): «Горе тебе, если уж ты непременно хочешь и дальше заниматься этим, то тебе следует (изображать) деревья и всё то, в чём нет духа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2225</td></tr><tr><td>Arabic No</td><td>2225</td></tr><tr><td>Reference</td><td>Book 34 Hadith 172</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported that he was travelling 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Zakaria] dari ['Amir] telah menceritakan kepadaku [Jabir bin Abdullah], bahwa saat itu dia sedang dalam perjalanan dengan mengendarai unta miliknya, ternyata hewan tunggannya telah kelelahan dan hampir tidak bisa berjalan. Jabir melanjutkan, "Kemudian Nabi shallallahu 'alaihi wasallam menjumpaiku, beliau mendo'akan dan memukul untaku, sehingga untaku berjalan dengan cepat seperti biasa." Beliau bersabda: "Juallah untamu kepadaku dengan beberapa uqiyah." Saya menjawab, "Tidak." Beliau bersabda lagi: "Juallah kepadaku dengan beberapa uqiyah." Kemudian saya menjualnya dengan beberapa uqiyah dan saya mengecualikan muatannya untuk keluargaku, setelah saya tiba, lalu saya menemui beliau dengan membawa unta. Kemudian beliau membayarnya dengan tunai, dan setelah menerima uangnya saya kembali pulang. Kemudian beliau mengutus seseorang untuk mengikuti jejakku, utusan itu berkata, "Apakah kamu mengira kedatanganku ini untuk menawarkan harga yang lebih rendah dari itu untuk mengambil untamu? Ambillah unta dan uang dirhammu, ia telah menjadi hakmu." Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa] -yaitu Ibnu Yunus- dari [Zakaria] dari ['Amir] telah menceritakan kepadaku [Jabir bin Abdullah] seperti hadits Ibnu Numair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>715.13</td></tr><tr><td>Reference</td><td>Book 22 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>715.13</td></tr><tr><td>Reference</td><td>Book 22 Hadith 137</td></tr></tbody></table></div>
 

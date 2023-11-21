@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Abu Bakr came from his house at As-Sunh on a horse. He dismounte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4454</td></tr><tr><td>Arabic No</td><td>4454</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Абдуллаха ибн ’Аббаса, что потом Абу Бакр вышел к людям, к которым обращался 'Умар, и сказал ему: «Сядь, о ‘Умар!» — но 'Умар отказался садиться. Тогда люди обратились к Абу Бакру, который сказал: «А затем: тот из вас, кто поклонялся Мухаммаду ﷺ, пусть знает, что Мухаммад умер, а кто поклоняется Аллаху, пусть помнит, что, поистине, Аллах — Живой, Который не умрет! Аллах Всевышний сказал: “Мухаммад не более чем посланник, до которого уже были посланники. Неужели же, если он умрет или будет убит, вы повернете вспять?! А если кто и повернет вспять, то ничем он не повредит Аллаху, Аллах же воздаст благодарным!” (сура “Али Имран”, аяты 144-145)». \n[’Абдуллах ибн ’Аббас сказал]: «И, клянусь Аллахом, казалось, что до того, как этот аят прочитал Абу Бакр, люди и не знали, что Аллах ниспослал его. Все люди восприняли от него этот аят, и не было таких, кто бы не повторял его».\nИбн аль-Мусайиб передал, что 'Умар, да будет им доволен Аллах, сказал: «Клянусь Аллахом, когда я услышал, как Абу Бакр читает этот аят, то был поражен словно громом, ноги у меня подкосились, и я упал на землю, ибо только тогда понял, что Пророк ﷺ умер!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4454</td></tr><tr><td>Arabic No</td><td>4454</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

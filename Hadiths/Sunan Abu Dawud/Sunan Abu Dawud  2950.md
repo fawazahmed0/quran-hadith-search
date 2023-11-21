@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Malik ibn Aws ibn al-Hadthan said: One day Umar ib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili], telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Muhammad bin 'Amr bin 'Atho'] dari [Malik bin Aus bin Al Hadatsan], ia berkata; pada suatu hari [Umar] menyebutkan fai', kemudian ia berkata; aku bukanlah orang yang lebih berhak terhadap fai' ini daripada kalian, dan tidak ada seorang pun diantara kita yang lebih berhak terhadapnya dari pada orang yang lain, hanya saja kita berada pada posisi yang telah dijelaskan dari Kitab Allah 'azza wajalla serta pembagian Rasulullah shallallahu 'alaihi wasallam. Maka seseorang bagiannya sesuai dengan cepatnya ia masuk Islam, dan seseorang bagiannya sesuai dengan musibah yang menimpanya, sesuai dengan orang yang menjadi tanggungannya dan seseorang bagiannya sesuai dengan kebutuhannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2950</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 20 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Малика ибн Ауса ибн аль-Хадасан, что однажды ‘Умар ибн аль-Хаттаб упомянул об имуществе, полученном без боя /файъ/, сказав: «Я имею на это имущество не больше прав, чем вы. Ни у кого из нас не больше прав на него, чем у остальных. Однако мы занимаем места, отведённые нам Книгой Всемогущего и Великого Аллаха, и следуем распределению Посланника Аллаха ﷺ: есть люди, которые приняли ислам одними из первых, есть люди, которые много претерпели на пути Аллаха, есть люди, у которых семьи, и есть люди, которые (сильно) нуждаются»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2950</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 20 Hadith 23</td></tr></tbody></table></div>
 

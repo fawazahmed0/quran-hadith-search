@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatadi reported:I saw the Messenger of Allah (ﷺ) saying the prayer while h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dan [Qutaibah bin Sa'id] keduanya berkata, telah menceritakan kepada kami [Malik] dari [Amir bin Abdullah bin az-Zubair] --Lewat jalur periwayatan lain-- telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, Saya berkata kepada [Malik], telah menceritakan kepadamu [Amir bin Abdullah bin az-Zubair] dari [Amru bin Sulaim az-Zuraqi] dari [Abu Qatadah] "Bahwa Rasulullah Shallallahu'alaihiwasallam pernah shalat dalam keadaan menggendong Umamah bintu Zainab putri Rasulullah Shallallahu'alaihiwasallam dan milik Abu al-Ash bin ar-Rabi'. Apabila beliau berdiri, maka beliau menggendongnya. Dan apabila bersujud maka beliau meletakkannya." Yahya berkata, Malik berkata, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1212</td></tr><tr><td>Arabic No</td><td>543.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Катады, что Посланнику Аллаха ﷺ нередко случалось молиться, держа на руках Умаму, дочь своей дочери Зайнаб и Абу аль-‘Аса ибн ар-Раби’а, и что, стоя он держал её на руках, а перед совершением земного поклона (Пророк ﷺ) опускал (девочку на землю)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1212</td></tr><tr><td>Arabic No</td><td>543.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 52</td></tr></tbody></table></div>
 

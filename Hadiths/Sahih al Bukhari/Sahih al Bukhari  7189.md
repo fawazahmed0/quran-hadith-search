@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) sent (an army unit under the command of) Kh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar], Nabi shallallahu 'alaihi wasallam mengutus Khalid -lewat jalur periwayatan lain-Dan telah menceritakan kepadaku [Abu Abdullah Nu'aim bin Hammad] telah menceritakan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ayahnya], mengatakan, Nabi shallallahu 'alaihi wasallam mengutus Khalid bin Al Walid ke Bani Judzaimah yang lidah mereka belum fasih mengucapkan ASLAMNAA (kami masuk Islam), sehingga mereka ucapkan; 'ASHBA'NA' (yang arti secara harfiah kami menganut agama shabiiyah, padahal maksud mereka ASLAMNA), sehingga Khalid terus membunuh dan menawan dan menyerahkan tawanannya kepada masing-maing kami, dan menyuruh masing-masing kami untuk membunuhnya, maka kukatakan; 'demi Allah, saya tak akan membunuh tawananku, ' dan tak seorang pun sahabatku membunuh tawanannya. Maka kasus ini kulaporkan kepada Nabi shallallahu 'alaihi wasallam dan beliau berujar; "ya Allah, sesungguhnya aku berlepas diri kepadamu dari apa yang dilakukan Khalid bin Walid" (beliau ulangi ucapannya dua kali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7189</td></tr><tr><td>Arabic No</td><td>7189</td></tr><tr><td>Reference</td><td>Book 93 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(В своё время) Пророк ﷺ послал Халида ибн аль-Валида в поход против (племени) бану джазима, (и Халид призвал их к Исламу), однако они не сказали: “Мы уже приняли ислам /Аслям-на/”, а стали говорить: “Мы уже отступились! Мы уже отступились! /Сабаъ-на/”. Тогда Халид стал убивать (кого-то из этих людей), а кого-то захватил в плен и выделил каждому из нас пленных, (а в один из дней) он велел каждому из нас убить своих пленных, и тогда я сказал (ему): “Клянусь Аллахом, я моего пленного убивать не стану, как не станет делать этого и никто из моих товарищей!” И мы рассказали об этом Пророку ﷺ и дважды сказал: “О Аллах, поистине, непричастен я к тому, что совершил Халид ибн аль-Валид!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7189</td></tr><tr><td>Arabic No</td><td>7189</td></tr><tr><td>Reference</td><td>Book 93 Hadith 51</td></tr></tbody></table></div>
 

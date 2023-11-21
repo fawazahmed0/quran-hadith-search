@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever Allah's Messenger (ﷺ) went to answer the call of nature
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Mu'adz] -yaitu 'Atha' bin Abu Maimunah- ia berkata, "Aku mendengar [Anas] berkata, "Jika Rasulullah shallallahu 'alaihi wasallam keluar untuk buang hajat, maka aku dan seorang temanku mengikutinya dengan membawa bejana berisi air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>151</td></tr><tr><td>Arabic No</td><td>151</td></tr><tr><td>Reference</td><td>Book 4 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Му‘аз, которого звали ‘Атаъ ибн Абу Маймуна сказал: «Я слышал, как Анас ибн Малик, да будет доволен им Аллах, говорил: “Когда Посланник Аллаха ﷺ выходил по своей нужде, мы вместе с одним мальчиком следовали за ним, (неся) с собой маленький кожаный бурдюк с водой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>151</td></tr><tr><td>Arabic No</td><td>151</td></tr><tr><td>Reference</td><td>Book 4 Hadith 17</td></tr></tbody></table></div>
 

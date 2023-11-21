@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:The Prophet (ﷺ) said, "A true good dream is from Allah, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Yahya Ibnu Sa'id] mengatakan, aku pernah mendengar [Abu Salamah] mengatakan; Aku mendengar [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Mimpi yang benar adalah dari Allah dan mimpi jelek berasal dari setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6984</td></tr><tr><td>Arabic No</td><td>6984</td></tr><tr><td>Reference</td><td>Book 91 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Катада, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Правдивое сновидение — от Аллаха, а дурное — от шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6984</td></tr><tr><td>Arabic No</td><td>6984</td></tr><tr><td>Reference</td><td>Book 91 Hadith 3</td></tr></tbody></table></div>
 

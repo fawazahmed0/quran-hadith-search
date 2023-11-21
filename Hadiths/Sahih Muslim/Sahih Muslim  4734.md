@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Un jour, le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Abu Hayyan] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata, "Suatu hari Rasulullah shallallahu 'alaihi wasallam berdiri di tengah-tengah kami, lalu beliau menyebutkan-nyebut tentang ghulul dan membesarkan perkaranya, kemudian beliau bersabda: "Jangan sampai pada hari kiamat aku dapati salah seorang dari kalian datang dengan memikul unta yang sedang melenguh-lenguh." Lalu dia berkata, "Ya Rasulullah, tolonglah aku!" Aku lalu menjawab: "Aku tidak kuasa sedikitpun untuk menolongmu. Aku telah sampaikan itu padamu. Jangan sampai pada hari kiamat kelak, aku dapati salah seorang dari kalian datang dengan memikul kuda yang meringkik-ringkik." Lalu dia berkata, "Ya Rasulullah, tolonglah aku!" Jawab beliau: "Aku tidak sedikitpun menolong kamu. Bukankah dahulu pernah ku katakan kepadamu. Di hari kiamat kelak, jangalah kudapati salah seorang di antara kalian memikul di kuduknya kambing yang mengembek-embek." Lalu dia berkata, "Ya Rasulullah, tolonglah aku!" Jawab beliau: "Aku tidak kuasa sedikitpun untuk menolongmu. Aku telah sampaikan itu kepadamu. Jangan sampai pada hari kiamat kelak aku dapati salah seorang dari kalian datang dengan memikul orang yang berteriak-teriak di kuduknya." Lalu dia berkata, "Ya Rasulullah, tolonglah aku!" Jawab beliau: "Aku tidak dapat sedikitpun menolongmu. Aku telah sampaikan itu. Pada hari kiamat jangan sampai aku dapati salah seaorang dari kalian datang dengan kepadaku membawa selembar kain berkibar-kibar di kuduknya." Lalu dia berkata, "Ya Rasulullah, tolonglah aku!" Lalu jawab beliau: "Aku tidak sedikitpun kuasa menolongmu. Aku telah sampaikan itu kepadamu. Pada hari kiamat kelak janganlah kudapati salah seorang di antara kalian memikul harta kekayaan berupa emas dan perak di kuduknya." Lalu dia berkata, "Ya Rasulullah, tolonglah aku!" Jawab beliau: "Aku tidak kuasa sedikitpun menolongmu. Aku telah sampaikan itu kepadamu." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Abdurrahim bin Sulaiman] dari [Abu Hayyan]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Abu Haiyan] dan ['Umarah bin Al Qa'qa'] semuanya dari [Abu Zur'ah] dari [Abu Hurairah] seperti hadits Isma'il dari Abu haiyan." Dan telah menceritakan kepadaku [Ahmad bin Sa'id bin Shakhr Ad Darami] telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari [Ayyub] dari [Yahya bin Sa'id] dari [Abu Zur'ah bin 'Amru Jarir] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang ghulul….lalu dia melanjutkan hadits tersebut. Hammad berkata, "Setelah itu saya mendengar Yahya menceritakan kepadanya, maka ia kemudian menceritakan kepada kami sebagaimana Ayyub menceritakannya kepada kami." Dan telah menceritakan kepada kami [Ahmad bin Al Hasan bin Khirasy] telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Ayyub] dari [Yahya bin Sa'id bin Hayyan] dari [Abu Zur'ah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4734</td></tr><tr><td>Arabic No</td><td>1831.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4734</td></tr><tr><td>Arabic No</td><td>1831.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 33</td></tr></tbody></table></div>
 

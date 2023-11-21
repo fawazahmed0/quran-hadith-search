@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: When the Messenger of Allah (ﷺ) was distributing 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Amru] -maksudnya Amru bin harits- dari [Bukair Ibnul Asyaj] dari [Ubaidah bin Musafi'] dari [Abu Sa'id Al Khudri] ia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam sedang membagi-bagikan sesuatu, tiba-tiba datang seorang laki-laki ke arah beliau hingga beliau pun memukul dengan tongkat yang dibawanya sehingga timbul luka di wajahnya. Rasulullah shallallahu 'alaihi wasallam lalu berkata kepadanya: "Kemarilah, silahkan kamu qishas." Laki-laki itu menjawab, "Tidak ya Rasulullah, aku telah memaafkanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4536</td></tr><tr><td>Arabic No</td><td>4536</td></tr><tr><td>Reference</td><td>Book 41 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что однажды, когда Посланник Аллаха ﷺ делил какое-то имущество между людьми, пришёл один человек и бросился к нему. Посланник Аллаха ﷺ ткнул его пальмовой ветвью, которую держал в руке, и из-за этого на лице у него осталась царапина. Посланник Аллаха ﷺ сказал: «Подойди сюда и воздай мне равным». Но он сказал: «О нет, я прощаю тебя, о Посланник Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4536</td></tr><tr><td>Arabic No</td><td>4536</td></tr><tr><td>Reference</td><td>Book 41 Hadith 43</td></tr></tbody></table></div>
 

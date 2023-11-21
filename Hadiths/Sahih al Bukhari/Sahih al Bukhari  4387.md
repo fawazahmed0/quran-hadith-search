@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Masud:The Prophet (ﷺ) beckoned with his hand towards Yemen and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad Al Ju'fi] Telah menceritakan kepada kami [Wahab bin Jarir] Telah menceritakan kepada kami [Syu'bah] dari [Ismail bin Abu Khalid] dari [Qais bin Abu Hazim] dari [Abu Mas'ud] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Iman itu berada di sini, (beliau sambil menunjuk ke arah Yaman dengan tangan beliau) 'Dan sesungguhnya keras dan kasarnya hati ada pada para pemilik unta didekat ekor unta, di tempat dua tanduk setan muncul, yaitu di Rabi'ah dan Mudlar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4387</td></tr><tr><td>Arabic No</td><td>4387</td></tr><tr><td>Reference</td><td>Book 64 Hadith 410</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас‘уда, что (однажды) Пророк ﷺ указал рукой в сторону Йемена и сказал: “Вера находится там, что же касается чёрствости и жестокосердия, то (эти качества) присущи бедуинам, занятым своими верблюдами. (Эти качества следует искать) там, откуда появляются два рога шайтана (, а именно — в племенах) раби‘а и мудар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4387</td></tr><tr><td>Arabic No</td><td>4387</td></tr><tr><td>Reference</td><td>Book 64 Hadith 410</td></tr></tbody></table></div>
 

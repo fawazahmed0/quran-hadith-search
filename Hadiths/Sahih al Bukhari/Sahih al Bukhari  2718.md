@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:While I was riding a (slow) and tired camel, the Prophet (ﷺ) pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Zakariya'] berkata aku mendengar ['Amir] berkata telah bercerita kepadaku [Jabir radliallahu 'anhu] bahwa dia bepergian dengan menunggang unta yang sudah lemah lalu Nabi shallallahu 'alaihi wasallam lewat di hadapannya dan memukul unta tersebut serta mendo'akannya maka unta itu berjalan tidak seperti biasanya kemudian Beliau berkata: "Juallah kepadaku dengan empat puluh dirham". Aku katakan "Aku tidak mau". Kemudian Beliau berkata lagi: "Juallah kepadaku dengan empat puluh dirham". Maka aku jual dengan syarat aku boleh menungganginya sampai aku pulang ke rumah keluargaku. Ketika kami telah sampai, aku berikan kepada Beliau unta tersebut dan Beliau memberiku uang pembayarannya lalu aku pergi. Namun Beliau mengikuti aku dan bersabda: "Aku tidak akan mengambil untamu, ambillah untamu dan itu menjadi hartamu". [Syu'bah] berkata dari [Mughirah] dari ['Amir] dari [Jabir]: "Rasulullah shallallahu 'alaihi wasallam memberikan izin aku menungganginya sampai Madinah". Dan berkata [Ishaq] dari [Jarir] dari [Mughirah]: "Maka aku jual dengan syarat aku boleh menungganginya hingga aku tiba di Madinah". [Atha'] dan selainnya berkata; "kamu boleh menungganginya hingga Madinah". [Muhammad bin Al Munkadir] berkata dari [Jabir] "bahwa ia mensyaratkan untuk menungganginya hingga Madinah", [Zaid bin Aslam] berkata dari [Jabir]: "Dan kamu boleh menungganginya sampai kamu kembali". Dan berkata [Abu Az Zubair] dari [Jabir]: "Kami izinkan kamu menungganginya hingga tiba di Madinah". Dan berkata [Al A'masy] dari [Salim] dari [Jabir]: "Kamu gunakan hinga kamu bertemu keluargamu". Dan berkata ['Ubaidullah] dan [Ibnu IShaq] dari [Wahb] dari [Jabir]: "Nabi shallallahu 'alaihi wasallam membellinya dengan empat puluh dirham". Dan hadits ini diikuti juga oleh [Zaid bin Aslam] dari [Jabir]. Dan berkata [Ibnu Juraij] dari ['Atha'] dan selainnya dari [Jabir]: "Aku ambil pembayarannya seharga empat dinar". Demikianlah bahwa nilai satu dinar sama dengan sepuluh dirham dan [Mughirah] tidak menerangkan harganya dari [Asy Sya'biy] dari [Jabir] dan [Ibnu Al Munkadir] dan [Abu Az Zubair] dari [Jabir]. Dan berkata [Al A'masy] dari [Salim] dari [Jabir]: "Empat puluh uang emas". Dan berkata [Abu Ishaq] dari [Salim] dari [Jabir]: "Dengan dua ratus dirham". Dan berkata [Daud bin Qais] dari ['Ubaidullah bin Miqsam] dari [Jabir]: "Beliau membelinya di perjalanan Tabuk". Aku menduga dia berkata: "Empat awaq". Dan berkata [Abu Nadhrah] dari [Jabir]: "Beliau membelinya degan harga dua puluh dinar". Dan perkataan Asy Sya'biy: 'Dengan empat puluh dirham" lebih memenuhi syarat dan lebih shohih menurutku". Ini perkataan Abu 'Abdullah Al Bukhariy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2718</td></tr><tr><td>Arabic No</td><td>2718</td></tr><tr><td>Reference</td><td>Book 54 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, да будет доволен Аллах им и его отцом, что однажды, когда он ехал на своём обессиленном верблюде, мимо него проехал Пророк ﷺ ударил его и попросил Аллаха благословить его. Тогда его верблюд стал таким быстрым, как никогда раньше. Затем Пророк ﷺ сказал: «Продай мне его за один окий (золота)!» Я сказал: «Нет». Он снова сказал: «Продай мне его за один окий (золота)!» Тогда я продал его, поставив условие, что доеду на нём до дома. После того, как мы прибыли (в Медину), я пришёл к нему с верблюдом, а Пророк ﷺ оплатил мне его стоимость, но после того как я ушёл, он послал за мной, (когда я пришёл к нему), он сказал: «Я не возьму твоего верблюда, возьми же своего верблюда, он твой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2718</td></tr><tr><td>Arabic No</td><td>2718</td></tr><tr><td>Reference</td><td>Book 54 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) entered the Mosque, and I too went there after 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Abu 'Aqil] telah menceritakan kepada kami [Abu Al Mutawakkil An-Najiy] berkata; Aku menemui [Jabir bin 'Abdullah radliallahu 'anhuma] yang berkata: "Nabi shallallahu 'alaihi wasallam memasuki masjid lalu aku ikut masuk menemui Beliau sementara unta aku ikat pada batu di depan masjid lalu aku katakan: "Ini unta anda". Maka Beliau keluar lalu mendekati unta kemudian bersabda: 'Unta dan uang jualnya buat kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2470</td></tr><tr><td>Arabic No</td><td>2470</td></tr><tr><td>Reference</td><td>Book 46 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Пророк ﷺ зашёл в мечеть, и я тоже зашёл, привязав верблюда к булыжнику. Я сказал: “Это твой верблюд”. Тогда он вышел и начал осматривать верблюда, а затем сказал: “Стоимость верблюда и сам верблюд остаются у тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2470</td></tr><tr><td>Arabic No</td><td>2470</td></tr><tr><td>Reference</td><td>Book 46 Hadith 31</td></tr></tbody></table></div>
 

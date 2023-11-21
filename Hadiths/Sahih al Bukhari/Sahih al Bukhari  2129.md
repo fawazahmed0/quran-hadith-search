@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid:The Prophet (ﷺ) said, "The Prophet (ﷺ) Abraham m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami ['Amru bin Yahya] dari ['Abbad bin Tamim Al Anshariy] dari ['Abdullah bin Zaid radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: "Nabi Ibrahim 'alaihissalam telah mengharamkan (mensucikan) Makkah dan berdoa untuknya dan aku telah mengharamkan Madinah sebagaimana Ibrahim mengharamkan Makkah dan berdo'a untuknya dalam hal mud dan sha'nya sebagaimana Ibrahim berdo'a untuk Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2129</td></tr><tr><td>Arabic No</td><td>2129</td></tr><tr><td>Reference</td><td>Book 34 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Зейда, что Пророк ﷺ сказал: «Ибрахим объявил Мекку священной, призвав на неё баракат (благодать), я же объявил священной Медину подобно тому, как объявил священной Мекку Ибрахим, и я призвал баракат на её мудды и са‘ подобно тому, как сделал это для Мекки Ибрахим, мир ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2129</td></tr><tr><td>Arabic No</td><td>2129</td></tr><tr><td>Reference</td><td>Book 34 Hadith 81</td></tr></tbody></table></div>
 

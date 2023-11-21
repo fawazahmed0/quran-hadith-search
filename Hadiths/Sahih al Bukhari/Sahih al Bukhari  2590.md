@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:Once I said, "O Allah's Messenger (ﷺ)! I have no property except
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Abi Mulaikah] dari ['Abbad bin 'Abdullah] dari [Asma' radliallahu 'anhu] berkata; Aku berkata: "Wahai Rasulullah, aku tidak memiliki harta kecuali apa yang diberikan oleh Az Zubair Apakah aku boleh bershadaqah dengannya?" Beliau menjawab: "Bershadaqalah dan jangan kamu tutup rapat guci tempat menyimpan makanan itu, karena nanti Allah menutup rezekimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2590</td></tr><tr><td>Arabic No</td><td>2590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма, да будет доволен ею Аллах, сказала: «(Однажды) я сказала: “О Посланник Аллаха, у меня нет ничего, кроме того, что аз-Зубайр принёс в свой дом. Подавать ли мне милостыню из этого имущества?” Он сказал: “Подавай и не откладывай на хранение, а иначе (Аллах) спрячет (то, что предназначено) для тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2590</td></tr><tr><td>Arabic No</td><td>2590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 24</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zayd Ibn Khâlid Al-Juhanî (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah meriwayatkan kepada kami [Yahya bin Yahya] dia berkata, saya membacakannya di hadapan [Malik]; dari [Shalih bin Kaisan] dari [Ubaidullah bin Abdullah bin Utbah] dari [Zaid bin Khalid al-Juhani] dia berkata, "Rasulullah shallallahu 'alaihi wasallam mendirikan shalat shubuh bersama kami di Hudaibiyah, selepas hujan turun pada malam tersebut. Setelah selesai shalat, beliau menghadap kepada kaum muslimin seraya bersabda: "Tahukah kamu apa yang telah difirmankan oleh Rabbmu?" Para sahabat menjawab, "Allah dan Rasul-Nya lebih mengentahui." Lalu beliau bersabda: "Allah berfirman: 'Di antara hamba-hamba-Ku, ada yang menjadi orang yang beriman dan ada yang kafir. Maka barangsiapa yang menyatakan, 'Kita diberi hujan dengan keutamaan dan rahmat Allah', maka orang itu beriman kepada-Ku dan tidak beriman terhadap bintang-bintang. Sebaliknya orang yang berkata, 'Kita diberi hujan oleh bintang ini atau bintang itu, maka orang tersebut kafir terhadap-Ku dan beriman kepada bintang-bintang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>231</td></tr><tr><td>Arabic No</td><td>71</td></tr><tr><td>Reference</td><td>Book 1 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зайд ибн Халид аль-Джухани сказал: «В аль-Худайбие Посланник Аллаха ﷺ совершил с нами утреннюю молитву после прошедшего ночью дождя, закончив же (молиться), он повернулся к людям и спросил: “Знаете ли вы, что сказал Господь ваш?” Они ответили: “Аллах и посланник Его знают (об этом) лучше”. (Тогда Пророк ﷺ) сказал, что (Аллах) сказал: «Это утро (кто-то) из рабов Моих встретил верующим в Меня, а (кто-то) неверным. Что касается сказавшего: “Нам был послан дождь по милости Аллаха и милосердию Его” то он верует в Меня и не верит в звёзды. Что же касается сказавшего: “Дождь был послан нам благодаря такой-то звезде”, то он не верует в Меня и верит в звезды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>231</td></tr><tr><td>Arabic No</td><td>71</td></tr><tr><td>Reference</td><td>Book 1 Hadith 137</td></tr></tbody></table></div>
 

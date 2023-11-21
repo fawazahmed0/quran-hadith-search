@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There will be afflictions (a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3602</td></tr><tr><td>Arabic No</td><td>3602</td></tr><tr><td>Reference</td><td>Book 61 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+То же самое передает Абу Бакр с добавлением, что (Пророк ﷺ сказал): «Среди молитв есть такая молитва, пропустив которую, человек становиться подобным лишившемуся своей семьи и имущества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3602</td></tr><tr><td>Arabic No</td><td>3602</td></tr><tr><td>Reference</td><td>Book 61 Hadith 109</td></tr></tbody></table></div>
 

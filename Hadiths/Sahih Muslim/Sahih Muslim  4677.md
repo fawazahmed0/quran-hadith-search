@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama Ibn Al-'Akwa' (que Dieu l'agrée) a dit : Je partis avant qu'on appelât 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hatim] -yaitu Ibnu Isma'il- dari [Yazid bin Abu 'Ubaid] dia berkata; aku mendengar [Salamah bin Al Akwa'] berkata, "Aku keluar kota sebelum adzan pertama dikumandangkan, sedangkan unta-unta Rasulullah shallallahu 'alaihi wasallam digembalakan di Dzu Qard." Salamah berkata, "Tiba-tiba budak Abdurrahman bin Auf mendatangiku seraya berkata, "Unta-unta Rasulullah shallallahu 'alaihi wasallam telah dirampok." Maka aku bertanya, "Siapa yang merampoknya?" dia menjawab, "Bani Ghathafan." Salamah berkata, "Kemudian aku berteriak hingga tiga kali, "Tolooong...!" Salamah berkata, "Hingga suaraku terdengar hingga ke seluruh pojok kota Madinah, kemudian aku bertolak hingga menemui mereka di Dzu Qard, sedangkan mereka baru minum dari sumber air, maka aku melempari mereka dengan panah sambil bersenandung, 'Aku adalah Ibnu Al Akwa', pada hari ini adalah hari kebinasana.' Aku masih bersenandung hingga aku dapat mengambil kembali unta-unta beliau dari mereka, dan membawa tiga puluh kain burdah dari mereka." Salamah berkata, "Kemudian Nabi shallallahu 'alaihi wasallam datang disertai dengan beberapa orang, aku lalu berkata, 'Wahai Nabi Allah, sesungguhnya aku telah menghalau mereka dari sumber air, padahal mereka sangat kehausan, maka utuslah kepada mereka sekarang juga.' Maka beliau bersabda: "Wahai Al Akwa', kamu telah melakukan suatu hal yang sangat tepat." Kemudian kami kembali pulang dengan membonceng di belakang Rasulullah shallallahu 'alaihi wasallam di atas untanya, hingga kami memasuki kota Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4677</td></tr><tr><td>Arabic No</td><td>1806</td></tr><tr><td>Reference</td><td>Book 32 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4677</td></tr><tr><td>Arabic No</td><td>1806</td></tr><tr><td>Reference</td><td>Book 32 Hadith 159</td></tr></tbody></table></div>
 

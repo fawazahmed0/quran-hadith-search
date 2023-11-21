@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ According to still another version of the tradition narrated by the same authori
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Syaiban bin Farruh], Yahya berkata; telah mengabarkan kepada kami, sedangkan Syaiban berkata; telah menceritakan kepada kami [Abdul Warits] dari [Abu At Tayyah] telah menceritakan kepada kami [Anas bin Malik] dia berkata, "Para sahabat sedang bersenandung sedangkan Rasulullah shallallahu 'alaihi wasallam bersama-sama dengan mereka, mereka mengatakan, "Ya Allah, tidak ada kebaikan yang abadi melainkan kebaikan akhirat, maka tolonglah kaum Anshar dan Muhajirin." Dan dalam haditsnya Syaiban kalimat 'Maka tolonglah', diganti dengan kalimat 'Maka ampunilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4675</td></tr><tr><td>Arabic No</td><td>1805.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4675</td></tr><tr><td>Arabic No</td><td>1805.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 157</td></tr></tbody></table></div>
 

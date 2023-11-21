@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ It was narrated from 'Abdullah bin 'Umar that the Messenger of Allah (ﷺ) said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] telah menceritakan kepada kami [Malik] dari [Ibnu Syihab] dari [Hamzah] dan [Salim] keduanya adalah anak Abdullah bin Umar, dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kesialan ada pada rumah, wanita dan kuda." Abu Daud berkata; telah dibacakan sebuah riwayat kepada Al Harits bin Miskin -sementara aku menyaksikan-, telah mengabarkan kepadaku Ibnu Al Qasim ia berkata, "Malik ditanya mengenai kesialan pada kuda dan rumah. Ia lalu menjawab, "Betapa banyak rumah yang ditempati orang-orang kemudian mereka binasa, kemudian ditempati orang-orang yang lain, lalu mereka binasa. Ini adalah penafsirannya yang kami lihat. Wallahu 'alam." Abu Daud berkata; Umar radliallahu 'anhu berkata, "Tikar yang ada di rumah lebih baik daripada seorang wanita yang tidak dapat melahirkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5093) Sahih Muslim (2225)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>3922</td></tr><tr><td>Reference</td><td>Book 30 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Дурные приметы касаются именно дома, женщины и коня». А в достоверных версиях говорится: «Если дурные приметы и есть…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5093) Sahih Muslim (2225)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>3922</td></tr><tr><td>Reference</td><td>Book 30 Hadith 19</td></tr></tbody></table></div>
 

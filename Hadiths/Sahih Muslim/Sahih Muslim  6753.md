@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abd bin Humaid] dan lafazh ini milik Ishaq dia berkata; Telah mengabarkan kepada kami ['Abdur Razzaq] Telah menceritakan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Bapaknya] dari [Ibnu Abbas] dia berkata; 'Saya tidak berpendapat tentang sesuatu yang paling dekat dengan makna Al lamam (dosa dosa kecil) selain dari apa yang telah dikatakan oleh [Abu Hurairah] dari Nabi Shallallahu 'alaihi wa Salam: "Sesungguhnya Allah Allah 'Azza Wa Jalla telah menetapkan pada setiap anak cucu Adam bagiannya dari perbuatan zina yang pasti terjadi dan tidak mungkin dihindari. Maka zinanya mata adalah melihat, zinanya lisan adalah ucapan, sedangkan nafsu berkeinginan dan berangan-angan, dan kemaluanlah sebagai pembenar atau tidaknya." 'Abad berkata; dalam riwayatkannya dari Ibnu Thawus dari Bapaknya dengan lafazh; 'Aku mendengar Ibnu 'Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>2657.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>2657.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "(There are) three (types of person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7446</td></tr><tr><td>Arabic No</td><td>7446</td></tr><tr><td>Reference</td><td>Book 97 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «С тремя не заговорит Аллах в День воскресения и не посмотрит на них. Это человек, который даёт ложную клятву в том, что он отдал за свой товар больше, чем он отдал (на самом деле), человек, который после послеполуденной молитвы даёт ложную клятву для того, чтобы присвоить имущество мусульманина, и человек, который отказывается (поделиться с другими) излишками своей воды, из-за чего Аллах скажет в День Воскрешения: “Сегодня Я откажу тебе в Своей милости подобно тому, как ты отказал (другому) в излишках того, что создали не твои руки!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7446</td></tr><tr><td>Arabic No</td><td>7446</td></tr><tr><td>Reference</td><td>Book 97 Hadith 72</td></tr></tbody></table></div>
 

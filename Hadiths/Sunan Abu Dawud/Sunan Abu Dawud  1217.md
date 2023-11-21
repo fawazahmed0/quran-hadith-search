@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Abdullah ibn Dinar said: The sun set when I was with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib] telah menceritakan kepada kami [Ibnu Wahb] dari [Al Laits] dia berkata; [Rabi'ah] berkata; -yaitu ia menulis surat kepada Al Laits- telah menceritakan kepadaku [Abdullah bin Dinar] dia berkata; "Matahari telah terbenam, sementara aku berada di samping Abdullah bin Umar, lalu kami berangkat. Ketika kami tahu waktu telah sore, kami berkata; "Waktu shalat telah tiba!." Namun Ibnu Umar masih tetap berjalan, hingga mega merah telah hilang dan bintang-bintang mulai muncul, kemudian [Ibnu Umar] singgah untuk menjama' dua shalat tersebut (Maghrib dan Isya), lalu dia berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam, apabila dalam suatu perjalanan mengalami kepayahan, beliau mengerjakan dua shalat ini." dia berkata; "yaitu dengan menjama'nya ketika malam telah tiba." Abu Daud berkata; "Di riwayatkan pula oleh ['Ashim bin Muhammad] dari [Saudaranya] dari [Salim]. Dan di riwayatkan pula oleh [Ibnu Abu Najih] dari [Isma'il bin Abdurrahman bin Dzu'aib] bahwa menjama' keduanya yang berasal dari Ibnu Umar adalah setelah hilang mega merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1217</td></tr><tr><td>Arabic No</td><td>1217</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Динара: «Однажды, когда я был у ‘Абдуллаха ибн ‘Умара, зашло солнце и мы отправились в путь. Увидев, что уже почти стемнело, мы сказали: “Молитва!” Однако он продолжал путь, пока не стемнело окончательно и на небе не появились звёзды. Тогда он спешился и совершил обе молитвы вместе, после чего сказал: “Я видел, как Посланник Аллаха ﷺ когда спешил в пути, совершал молитву так же, как я сейчас”, то есть объединяя их и уже ночью».Абу Дауд сказал: «Его передавал ‘Асым ибн Мухаммад от своего брата от Салима».Его передал Ибн Абу Наджих от Исма‘иля ибн ‘Абду-р-Рахмана ибн Зуайба, и в его версии упоминается, что Ибн ‘Умар соединял их после наступления ночи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1217</td></tr><tr><td>Arabic No</td><td>1217</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
 

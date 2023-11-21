@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) said that one amongst the de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7088</td></tr><tr><td>Arabic No</td><td>2807</td></tr><tr><td>Reference</td><td>Book 52 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: Посланник Аллаха ﷺ сказал: «В День воскрешения приведут того, кто в мире этом жил в наибольшей роскоши, который был из числа заслуживших Ад. Когда его погрузят в огонь первый раз, он будет спрошен: “О сын Адама, видел ли ты когда-нибудь благо и испытывал ли когда-нибудь блаженство?” На что он ответит: “Нет, клянусь Аллахом, о Господь!” И приведут того, кто в мире этом испытал самые ужасные бедствия, получив в награду Рай, и его введут в Рай, а потом спросят: “О сын Адама, знал ли ты когда-нибудь горе и испытывал ли ты когда-нибудь нужду?” На что он ответит: “Нет, клянусь Аллахом, о Господь, никогда я не знал горя и никогда не испытывал нужды!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7088</td></tr><tr><td>Arabic No</td><td>2807</td></tr><tr><td>Reference</td><td>Book 52 Hadith 42</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Regarding the Verse:--"They ask your instruction concerning the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] Telah menceritakan kepada kami [Abu Usamah] berkata; Telah menceritakan kepada kami [Hisyam bin 'Urwah] Telah mengabarkan kepadaku [Bapakku] dari ['Aisyah radliallahu 'anhu] mengenai firman Allah: Dan mereka minta fatwa kepadamu tentang para wanita. Katakanlah: "Allah memberi fatwa kepadamu tentang mereka, dan apa yang dibacakan kepadamu dalam Al Quran (juga memfatwakan) tentang para wanita yatim yang kamu tidak memberikan kepada mereka apa yang ditetapkan untuk mereka, sedang kamu ingin mengawini mereka. (An Nisa: 127). Aisyah berkata; (Ayat ini) diturunkan berkaitan dengan wanita yatim yang ada pada seseorang. Wanita yatim itu menyertakannya dalam hartanya hingga dalam urusan kebun kurmanya, lalu ia ingin menikahinya, ia tidak mau menikahkan wanita yatim itu pada lelaki lain lalu disertakanlah ia dalam mengurus hartanya, hingga ia menyusahkannya dengan tidak menikahinya dan tidak menikahkannya pada lelaki lain. Maka turunlah ayat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4600</td></tr><tr><td>Arabic No</td><td>4600</td></tr><tr><td>Reference</td><td>Book 65 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, о словах Всевышнего «Они просят тебя вынести решение относительно женщин. Скажи: “Аллах вынесет для вас решение относительно них и того, что читается вам в Писании по поводу осиротевших женщин, которым вы не даете того, что им предписано, размышляя о женитьбе на них”»: «Речь идёт о сироте, которую воспитывает её опекун и наследник, и которая делит с ним имущество, и даже финиковую пальму. Однако он ни сам не хочет жениться на ней, ни выдавать её замуж за кого-то другого, кто разделил бы с ним имущество, которое она делит с ним. Таким образом опекун не даёт ей выйти замуж. Так был ниспослан этот аят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4600</td></tr><tr><td>Arabic No</td><td>4600</td></tr><tr><td>Reference</td><td>Book 65 Hadith 122</td></tr></tbody></table></div>
 

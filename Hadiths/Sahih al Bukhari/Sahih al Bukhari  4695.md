@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:That when he asked 'Aisha about the statement of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] Telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] dia berkata; Telah mengabarkan kepadaku ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anhuma] dia berkata kepadanya ketika Urwah bertanya mengenai firman Allah Ta'ala: Sehingga apabila para rasul tidak mempunyai harapan lagi (tentang keimanan mereka).. maka aku bertanya; apakah mereka 'kudzibuu atau Kudzdzibuu' -dengan menggunakan tasydid-? Aisyah menjawab; 'mereka didustakan.' -dengan menggunakan tasydid-. Aku bertanya; sungguh mereka telah yakin bahwa kaumnya pasti akan mendustakannya, lalu apa yang dimaksud dengan persangkaan mereka? Aisyah menjawab; 'Ya, demi umurku, mereka telah yakin dengan hal itu, aku pun bertanya lagi; lalu kenapa mereka tidak punya harapan lagi? Aisyah berkata; Aku berlindung kepada Allah, para rasul tidak pernah menyangka demikian terhadap Rabbnya. Aku bertanya; lalu apa maksud ayat ini? Aisyah menjawab; merekalah para pengikut rasul, yang telah beriman kepada Rabb mereka dan mempercayai para rasul tersebut, namun ujian yang begitu panjang serta pertolongan tidak kunjung tiba kepada mereka. Maka maksud dari ayat; Sehingga apabila para rasul tidak mempunyai harapan lagi (tentang keimanan mereka).. dari kaumnya yang mendustakan mereka, hingga mereka menyangka bahwa para pengikutnya telah mendustakan mereka, maka ketika itu datanglah kepada mereka pertolongan Allah. Telah menceritakan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku ['Urwah] maka aku berkata; semoga maksudnya adalah 'Kudzibuu' (mereka di dustakan) -tanpa tasydid-. Maka [Aisyah] berkata; 'Aku berlindung kepada Allah, -dengan lafazh yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4695</td></tr><tr><td>Arabic No</td><td>4695</td></tr><tr><td>Reference</td><td>Book 65 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва ибн аз-Зубейр сказал: «Я спросил ‘Аишу: “Что скажешь о словах (Всевышнего): “Когда же посланники приходили в отчаяние и полагали, что им не поверили (куззибу)…” или “были отвергнуты” (кузибу)?” Она ответила: “Их народ не поверил им”. Тогда ‘Урва сказал: “Они были уверены, что им не поверили, так почему же здесь слово “думали”?” Она ответила: “Да, они были уверены в этом”. Я сказал: “Может быть тогда были отвергнуты (Аллахом) (кузибу)?” ‘Аиша сказала: “Да упасёт Аллах, чтобы посланники думали такое о Своём Господе”. Я спросил: “Тогда что значит этот аят?” Она ответила: “(В этом аяте) говориться о последователях посланников, которые уверовали в Господа, и поверили посланникам, но их испытания затянулись, а победа запаздывала. А когда посланники отчаивались в тех, кто не поверил им из их народов, и думали, что их последователи не поверили им, тогда к ним приходила помощь Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4695</td></tr><tr><td>Arabic No</td><td>4695</td></tr><tr><td>Reference</td><td>Book 65 Hadith 217</td></tr></tbody></table></div>
 

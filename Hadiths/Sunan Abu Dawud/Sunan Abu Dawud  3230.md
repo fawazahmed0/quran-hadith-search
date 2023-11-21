@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Bashir, the Client of the Messenger of Allah: Bashir's name in pre-Isla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Bakkar], telah menceritakan kepada kami [Al Aswad bin Syaiban] dari [Khalid bin Sumair As Sadusi], dari [Basyir bin Nahik] dari [Basyir] mantan budak Rasulullah shallallahu 'alaihi wasallam yang pada masa jahiliyah bernama Zahm bin Ma'bad, kemudian ia berhijrah kepada Allah, lalu beliau berkata: "Siapakah namamu?" Ia berkata; Zahm. Beliau berkata: "Bahkan, engkau adalah Basyir." Ia berkata; ketika aku berjalan bersama Rasulullah shallallahu 'alaihi wasallam, beliau melewati kuburan orang-orang musyri, lalu beliau berkata: "Sungguh mereka telah mendahului mendapatkan kebaikan yang banyak." Beliau mengatakannya tiga kali. Kemudian beliau melalui kuburan orang-orang muslim, kemudian beliau berkata: "Sungguh mereka telah mendapatkan kebaikan yang banyak." Dan beliau melihat seseorang yang berjalan diantara kuburan mengenakan dua sandal. Kemudian beliau berkata: "Wahai pemilik dua sandal, lepaskan dua sandalmu!" kemudian orang tersebut melihat dan ia kenal dengan Rasulullah shallallahu 'alaihi wasallam. Maka ia melepasnya dan meletakkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3230</td></tr><tr><td>Arabic No</td><td>3230</td></tr><tr><td>Reference</td><td>Book 21 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Башир ибн Нахик передаёт от Башира, вольноотпущенника Посланника Аллаха ﷺ которого во времена невежества звали Захм ибн Ма‘бад и который переселился к Посланнику Аллаха ﷺ и (Посланник Аллаха ﷺ) спросил: «Как тебя зовут?» Он ответил: «Захм». Он сказал: «Нет, ты Башир». Он рассказывал: «Однажды я шёл вместе с Посланником Аллаха ﷺ мимо могил многобожников и он трижды сказал: “Эти не застали много блага”. А потом он прошёл мимо могил мусульман и сказал: “Эти застали много блага”. А потом он вдруг увидел, как какой-то человек в кожаных сандалиях ходит среди могил, и сказал: “О обладатель сандалий! Горе тебе, сбрось сандалии!” Тот человек взглянул и, узнав Посланника Аллаха ﷺ снял сандалии и отбросил их от себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3230</td></tr><tr><td>Arabic No</td><td>3230</td></tr><tr><td>Reference</td><td>Book 21 Hadith 142</td></tr></tbody></table></div>
 

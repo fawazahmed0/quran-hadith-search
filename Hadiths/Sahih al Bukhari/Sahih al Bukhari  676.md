@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:That he asked 'Aisha "What did the Prophet (ﷺ) use to do in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Al Hakam] dari [Ibrahim] dari [Al Aswad] berkata, "Aku pernah bertanya kepada ['Aisyah] tentang apa yang dikerjakan Nabi shallallahu 'alaihi wasallam ketika berada di rumah. Maka 'Aisyah pun menjawab, "Beliau selalu membantu keluarganya, jika datang waktu shalat maka beliau keluar untuk melaksanakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>676</td></tr><tr><td>Arabic No</td><td>676</td></tr><tr><td>Reference</td><td>Book 10 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Асвад (ибн Язид) сказал:«(Однажды) я спросил ‘Аишу, да будет доволен ею Аллах: “Чем занимался Пророк ﷺ у себя дома?” Она ответила: “Он часто помогал (какой-нибудь из) своих жён в работе по дому, а с наступлением времени намаза выходил на намаз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>676</td></tr><tr><td>Arabic No</td><td>676</td></tr><tr><td>Reference</td><td>Book 10 Hadith 70</td></tr></tbody></table></div>
 

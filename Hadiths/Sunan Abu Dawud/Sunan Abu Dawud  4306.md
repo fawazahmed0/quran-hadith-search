@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Bakrah: The Messenger of Allah (ﷺ) said: Some of my people will a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Abdu Ash Shamad bin Abdul Warits] berkata, telah menceritakan kepadaku [Bapakku] berkata, telah menceritakan kepada kami [Sa'id bin Jumhan] berkata, telah menceritakan kepada kami [Muslim bin Abu Bakrah] ia berkata; Aku mendengar [Bapakku] menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Beberapa orang dari umatku singgah di suatu tempat yang luas, mereka menamakannya Bashrah. Yakni di sisi sungai yang bernama Dijlah, sungai itu mempunyai jembatan. Tempat itu penduduknya sangat banyak, dan mayoritas berasal dari orang-orang yang hijrah. Ibnu Ishaq berkata, "Abu Ma'mar menyebutkan, 'Penduduk tempat itu berasal dari penjuru kaum muslimin'. Di akhir zaman nanti akan datang suatu kaum yang bernama Qanthura, wajah mereka lebar dan matanya sipit, hingga kaum itu sampai ke daerah tepian sungai lalu para penduduknya pecah menjadi tiga kelompok; satu kelompok pergi mengikuti ekor sapi dan binatang ternak (pergi ke tempat yang jauh dengan membawa binatang ternak mereka untuk bercocok tanam) hingga mereka hancur. Satu kelompok mengambil untuk keamanan mereka (mengajukan atau menerima jaminan keamanan dari bani Qanthura) hingga akhirnya menjadi kafir. Dan satu kelompok melindungi anak dan istri mereka dan berperang melawan musuh (Bani Qanthura) hingga mereka mati sebagai syuhada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4306</td></tr><tr><td>Arabic No</td><td>4306</td></tr><tr><td>Reference</td><td>Book 39 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Муслим ибн Абу Бакра передаёт: «Я слышал, как отец говорил, что Посланник Аллаха ﷺ сказал: “Люди из моей общины остановятся в низине, которую они назовут Басрой (что означает «непрочные, мягкие белые камни»), у реки под названием Диджла (Тигр). Там будет мост и много жителей. Это будет один из городов (по мнению некоторых учёных подразумевается Багдад) мухаджиров (или: мусульман). А в конце времён появятся сыны Кантуры с широкими лицами и маленькими глазами. Они остановятся на берегу реки, и жители города разделятся на три группы. Одни последуют за хвостами коров и погибнут, вторые будут заботиться лишь о собственном благе и станут неверующими, а третьи оставят за спиной своё потомство и будут сражаться. Они мученики”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4306</td></tr><tr><td>Arabic No</td><td>4306</td></tr><tr><td>Reference</td><td>Book 39 Hadith 16</td></tr></tbody></table></div>
 

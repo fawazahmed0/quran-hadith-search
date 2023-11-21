@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Zur’ah b. ‘Amr b. Jarir said :Jarir urinated. He then performed ablution
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Husain Ad-Dirhami] telah menceritakan kepada kami [Ibnu Dawud] dari [Bukair bin 'Amir] dari [Abu Zur'ah bin 'Amru bin Jarir] bahwasanya [Jarir] pernah buang air kecil, kemudian berwudhu, lalu mengusap bagian atas khufnya dan berkata, Apakah gerangan yang menghalangiku untuk mengusapnya, padahal aku telah melihat Rasulullah shallallahu 'alaihi wasallam mengusapnya? Para sahabat berkata, Mengusap kedua khuf itu berlaku sebelum turunnya ayat pada surat Al-Ma'idah, maka dia menjawab, Aku tidaklah masuk Islam kecuali setelah turunnya surah Al-Ma'idah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>154</td></tr><tr><td>Reference</td><td>Book 1 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Зур‘и ибн ‘Амра ибн Джарира о том, что однажды Джарир (ибн ‘Абдуллах) справил малую нужду, а затем совершил омовение и обтер кожаные носки /хуффайн/, и сказал: «Что может мне помешать обтереть их, если я видел, как Посланник Аллаха ﷺ обтирал (свои)». Люди сказали ему: «Ведь это же было разрешено до ниспослания (аята из суры) “аль-Маида”. Он сказал: «Я принял ислам только после ниспослания (этого аята из суры) “аль-Маида”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>154</td></tr><tr><td>Reference</td><td>Book 1 Hadith 154</td></tr></tbody></table></div>
 

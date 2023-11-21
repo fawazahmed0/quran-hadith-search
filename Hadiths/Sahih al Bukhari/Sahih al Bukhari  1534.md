@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:In the valley of Al-'Aqiq I heard Allah's Messenger (ﷺ) saying,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Al Walid] dan [Bisyir bin Bakar At-Tinnisiy] keduanya berkata, telah menceritakan kepada kami [Al Awza'iy] berkata, telah menceritakan kepada saya [Yahya] berkata, telah menceritakan kepada saya ['Ikrimah] bahwa dia mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata, bahwa dia mendengar ['Umar radliallahu 'anhu] berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam ketika berada di lembah Al 'Aqiq: "Malaikat yag diutus oleh Rabbku datang kepadaku dan berkata: "Shalatlah di lembah yang penuh barakah ini dan katakanlah: "Aku berniat melaksanakan 'umrah dalam 'ibadah hajji ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>1534</td></tr><tr><td>Reference</td><td>Book 25 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара, да будет доволен им Аллах, что он слышал, как в долине ‘Акык Пророк ﷺ сказал:\n— Сегодня ночью ко мне явился посланник от Господа моего и сказал: «Соверши молитву в этой благословенной долине и скажи: “‘Умра в хадже /‘Умратан фи хаджжатин/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>1534</td></tr><tr><td>Reference</td><td>Book 25 Hadith 22</td></tr></tbody></table></div>
 

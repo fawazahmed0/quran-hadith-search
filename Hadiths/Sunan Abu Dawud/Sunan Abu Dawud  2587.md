@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Musa reported the Apostle of Allaah(ﷺ) as saying “ When one of you passe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], telah menceritakan kepada kami [Abu Usamah], dari [Buraid], dari [Abu Burdah], dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila salah seorang diantara kalian lewat di masjid kami atau pasar kami dengan membawa anak panah, maka hendaknya ia memegang mata panahnya -atau beliau berkata: "maka hendaknya ia menggenggam telapak tangannya." Atau "hendaknya ia menggenggam dengan telapak tangannya- agar tidak mengenai seorang muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7075) Sahih Muslim (2515)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2587</td></tr><tr><td>Arabic No</td><td>2587</td></tr><tr><td>Reference</td><td>Book 15 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7075) Sahih Muslim (2515)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2587</td></tr><tr><td>Arabic No</td><td>2587</td></tr><tr><td>Reference</td><td>Book 15 Hadith 111</td></tr></tbody></table></div>
 

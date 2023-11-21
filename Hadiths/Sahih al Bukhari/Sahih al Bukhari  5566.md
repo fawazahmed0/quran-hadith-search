@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:that he came to 'Aisha and said to her, "O Mother of the Believe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Isma'il] dari [Asy Sya'bi] dari [Masruq] bahwa dia pernah menemui [Aisyah] sambil bertanya; "Wahai ummul mukminin, ada seorang laki-laki mengirimkan hewan kurbannya ke Ka'bah, sementara laki-laki yang mengirim binatang kurban itu berada di daerahnya, dia berwasiat (kepada orang yang di serahi binatang kurban) untuk mengalungi binatang kurbannya. Waktu itu laki-laki (yang di serahi binatang kurban) masih dalam keadaan ihram, hingga akhirnya orang-orang melakukan tahallul." Masruq berkata; "Kemudian aku mendengar tepuk tangan Aisyah dari balik tabir sambil berkata; "Sesungguhnya aku juga pernah membuatkan kalung binatang kurban Rasulullah shallallahu 'alaihi wasallam, kemudian beliau mengirim binatang kurban itu ke Ka'bah, dan segala sesuatu yang halal di lakukan oleh suami kepada isterinya di haramkan atasnya hingga orang-orang kembali pulang (dari menunaikan ibadah haji)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5566</td></tr><tr><td>Arabic No</td><td>5566</td></tr><tr><td>Reference</td><td>Book 73 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук пришёл к ‘Аише и сказал ей: «О мать правоверных! (Что скажешь о человеке, который) отправляет жертвенное животное к Каабе, а сам остаётся в своём городе и поручает повязать на животное нашейную повязку. С этого дня этот человек пребывает в состоянии ихрама до тех пор, пока люди, (совершающие хадж) не выйдут из состояния ихрама?» Масрук сказал: «Тогда я услышал, как она захлопала (от удивления) в ладоши за занавеской, а затем сказала: “Я вила верёвки для жертвенного скота Посланника Аллаха ﷺ, после чего он отправлял его к Каабе. И ничего из того, что является дозволенным для мужчин в отношении своих жён не становилось для него запретным до возвращения людей (из хаджа)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5566</td></tr><tr><td>Arabic No</td><td>5566</td></tr><tr><td>Reference</td><td>Book 73 Hadith 22</td></tr></tbody></table></div>
 

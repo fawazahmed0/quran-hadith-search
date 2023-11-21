@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' bin 'Azib:The Messenger of Allah (ﷺ) had hair which reached 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namri] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Bara] ia berkata, "Rambut Rasulullah shallallahu 'alaihi wasallam panjangnya hingga daun telinga, aku pernah melihat beliau mengenakan pakian berwarna merah, dan aku tidak pernah melihat seseorang yang lebih bagus dari beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3551) Sahih Muslim (2337)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4072</td></tr><tr><td>Arabic No</td><td>4072</td></tr><tr><td>Reference</td><td>Book 34 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Бара, да будет доволен им Аллах: «Волосы Посланника Аллаха ﷺ доходили до мочек ушей, и я видел его в красном наряде (из изара и накидки), и я никогда не видел человека более прекрасного, чем он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3551) Sahih Muslim (2337)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4072</td></tr><tr><td>Arabic No</td><td>4072</td></tr><tr><td>Reference</td><td>Book 34 Hadith 53</td></tr></tbody></table></div>
 

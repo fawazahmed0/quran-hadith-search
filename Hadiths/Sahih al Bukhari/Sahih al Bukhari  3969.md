@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:I heard Abu Dhar swearing that the following Holy verse:-- "These 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim ad-Dawraqiy] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Hasyim] dari [Abu Mijlaz] dari [Qais bin 'Ubad] berkata, aku mendengar [Abu Dzarr] bersumpah dengan suatu sumpah yang isinya bahwa sesungguhnya ayat ini: "Inilah dua golongan (Mu'min dan kafir) yang bertengkar, mereka saling bertengkar mengenai Rabb mereka" (QS al-Hajj ayat 19) diturunkan untuk mereka yang melakukan perang tanding pada perang Badar. Mereka adalah Hamzah, Ali, 'Ubaidah bin Al Harits, 'Utbah dan Syaibah, dua putra Rabi'ah dan Al Walid bin 'Utbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3969</td></tr><tr><td>Arabic No</td><td>3969</td></tr><tr><td>Reference</td><td>Book 64 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Кайс ибн ‘Убада сказал: «Я слышал, как Абу Зарр клялся, что эти аяты: “Вот две тяжущиеся группы, которые препирались относительно своего Господа” (сура “аль-Хадж”, аят 19) были ниспосланы относительно тех, кто участвовал в поединках в день битвы при Бадре: Хамза, ‘Али, ‘Убайда ибн аль-Харис, ‘Утба, Шейба, два сына Раби’а и аль-Валид ибн Утба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3969</td></tr><tr><td>Arabic No</td><td>3969</td></tr><tr><td>Reference</td><td>Book 64 Hadith 22</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: A man from Banu Abdullah ibn Ka'b brethren of Banu Qush
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh], telah menceritakan kepada kami [Abu Hilal Ar Rasibi], telah menceritakan kepada kami [Ibnu Sawadah Al Qusyairi] dari [Anas bin Malik] mengatakan; terdapat seorang laki-laki dari Bani Abdullah bin Ka'bin saudara Bani Qusyair, ia berkata; para penunggang kuda Rasulullah shallallahu 'alaihi wasallam telah menyerang kaum kami, kemudian aku sampai -atau ia mengatakan; aku pergi- kepada Rasulullah shallallahu 'alaihi wasallam, sementara beliau sedang makan. Kemudian beliau berkata: "Duduklah dan makanlah sebagian makanan kami ini!" kemudian aku katakan; saya sedang berpuasa. Beliau berkata: "Duduklah! Aku ceritakan kepadamu mengenai shalat dan puasa. Sesungguhnya Allah ta'ala telah menggugurkan setengah shalat serta puasa dari seorang musafir, wanita yang menyusui dan wanita yang hamil." Demi Allah, beliau telah mengatakan keduanya semua atau salah satu dari keduanya. Ia berkata; hatiku membisikkan agar aku tidak makan sebagian dari makanan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2408</td></tr><tr><td>Arabic No</td><td>2408</td></tr><tr><td>Reference</td><td>Book 14 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, человек из бану ‘Абдуллах ибн Ка‘б, братьев бану Кушайр, сказал: «На нас напала конница Посланника Аллаха ﷺ и я пришёл к Посланнику Аллаха ﷺ. Он в это время ел. Он сказал мне: “Садись и поешь с нами этой нашей еды”. Я сказал: “Я пощусь”. Он сказал: “Садись, я расскажу тебе о молитве и посте. Поистине, Аллах снял половину молитвы и пост с путешественника, (и снял пост) с кормящей и беременной”. Клянусь Аллахом, он упомянул и о том, и о другом или же только об одном, и я расстроился, что не поел еды Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2408</td></tr><tr><td>Arabic No</td><td>2408</td></tr><tr><td>Reference</td><td>Book 14 Hadith 96</td></tr></tbody></table></div>
 

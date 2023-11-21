@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) forbade us to drink out of gold and silver v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [Ayahku] dia berkata; saya mendengar [Ibnu Abu Najih] dari [Mujahid] dari [Ibnu Abu Laila] dari [Hudzaifah] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam melarang kami minum dari tempat yang terbuat dari emas dan perak, beliau juga melarang kami makan dari tempat tersebut, memakai kain sutera dan dibaj (kain sutera campuran) serta melarang duduk di atas kain tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5837</td></tr><tr><td>Arabic No</td><td>5837</td></tr><tr><td>Reference</td><td>Book 77 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил нам пить и есть из золотой и серебряной посуды, а также носить шелка и дибадж и сидеть на них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5837</td></tr><tr><td>Arabic No</td><td>5837</td></tr><tr><td>Reference</td><td>Book 77 Hadith 54</td></tr></tbody></table></div>
 

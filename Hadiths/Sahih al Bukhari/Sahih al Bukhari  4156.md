@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mirdas Al-Aslami:Who was among those (who had given the Pledge of alleg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Isa] dari [Isma'il] dari [Qais] bahwa dia mendengar [Mirdas Al Aslami] -dia adalah sahabat yang pernah ikut berbai'at di bawah pohon- ia berkata; "Orang-orang shalih dari generasi-generasi awal (yang ikut bai'at di bawah pohon) telah meninggal dunia dan yang tersisa hanya ampas bagaikan ampas kurma dan gandum yang Allah tidak mempertimbangkan mereka sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>4156</td></tr><tr><td>Reference</td><td>Book 64 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мирдас аль-Аслями сказал: «Праведные люди будут уходить один за одним, а останутся (на земле люди, столь же бесполезные,) как и отходы от ячменя или фиников, которым Аллах не станет придавать никакого значения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>4156</td></tr><tr><td>Reference</td><td>Book 64 Hadith 200</td></tr></tbody></table></div>
 

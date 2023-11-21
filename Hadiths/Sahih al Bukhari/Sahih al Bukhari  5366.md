@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) gave me a silk suit and I wore it, but when I no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Syu'bah] ia berkata; Telah mengabarkan kepadaku [Abdul Malik bin Maisarah] ia berkata; Aku mendengar [Zaid bin Wahb] dari [Ali] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam memberikan kain sutera padaku, maka aku pun memakainya. Lalu aku melihat kemarahan pada wajah beliau, maka aku pun segera memberikannya kepada isteri-isteriku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5366</td></tr><tr><td>Arabic No</td><td>5366</td></tr><tr><td>Reference</td><td>Book 69 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ подарил мне полосатую шёлковую одежду, и я надел её, однако, увидев по его лицу, что он гневается, я разорвал её на куски и отдал своим женщинам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5366</td></tr><tr><td>Arabic No</td><td>5366</td></tr><tr><td>Reference</td><td>Book 69 Hadith 16</td></tr></tbody></table></div>
 

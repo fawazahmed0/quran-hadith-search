@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "I have been ordered to prostrate on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] berkata, telah menceritakan kepada kami [Wuhaib] dari ['Abdullah bin Thawus] dari [Bapaknya] dari [Ibnu 'Abbas] radliallahu 'anhu, ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Aku diperintahkan untuk melaksanakan sujud dengan tujuh tulang (anggota sujud); kening -beliau lantas memberi isyarat dengan tangannya menunjuk hidung- kedua telapak tangan, kedua lutut dan ujung jari dari kedua kaki dan tidak boleh menahan rambut atau pakaian (sehingga menghalangi anggota sujud)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>812</td></tr><tr><td>Arabic No</td><td>812</td></tr><tr><td>Reference</td><td>Book 10 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что однажды Пророк ﷺ сказал: «Мне было велено совершать земные поклоны(, опираясь) на семь костей: на лоб, — и при этом он указал рукой себе на нос — ладони, колени и кончики пальцев ног и не подбирая волосы и одежду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>812</td></tr><tr><td>Arabic No</td><td>812</td></tr><tr><td>Reference</td><td>Book 10 Hadith 207</td></tr></tbody></table></div>
 

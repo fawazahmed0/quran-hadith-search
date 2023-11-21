@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "If you enter (your town) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Walid] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Sayyar] dari [Asy Sya'bi] dari [Jabir bin Abdullah] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika kalian tiba dari bepergian pada malam hari, maka janganlah kalian temui keluargamu, hingga orang yang ditinggal dapat berdandan dan yang kusut rambutnya bisa bersisir." Syu'bah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaklah kamu mempercepat punya anak, hendaklah kamu mempercepat punya anak." Hadis ini diperkuat oleh [Ubaidullah] dari [Wahb] dari [Jabir], dari Nabi shallallahu 'alaihi wasallam, yakni terkait dengan ucapan 'Hendaklah kamu mempercepat punya anak, Hendaklah kamu mempercepat punya anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5246</td></tr><tr><td>Arabic No</td><td>5246</td></tr><tr><td>Reference</td><td>Book 67 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если ты прибудешь ночью, не заходи к своей жене, чтобы (женщина), муж которой долго отсутствовал, успела побрить волосы на теле, а та, что с растрепанными волосами успела причесаться. Посланник Аллаха ﷺ также сказал: “И стремись зачать сына”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5246</td></tr><tr><td>Arabic No</td><td>5246</td></tr><tr><td>Reference</td><td>Book 67 Hadith 179</td></tr></tbody></table></div>
 

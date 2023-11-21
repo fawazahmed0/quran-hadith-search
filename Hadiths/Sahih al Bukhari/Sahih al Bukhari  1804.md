@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Traveling is a kind of torture as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam berkata: "Bepergian (safar) itu adalah sebagian dari siksaan, yang menghalangi seseorang dari kalian dari makan, minum dan tidurnya. Maka apabila dia telah selesai dari urusannya hendaklah dia segera kembali kepada keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1804</td></tr><tr><td>Arabic No</td><td>1804</td></tr><tr><td>Reference</td><td>Book 26 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Путешествие является разновидностью мучения, (поскольку) лишает вас возможности есть, пить и спать (должным образом), а поэтому, когда (человек) достигнет своей цели, пусть поспешит (вернуться) к своей семье»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1804</td></tr><tr><td>Arabic No</td><td>1804</td></tr><tr><td>Reference</td><td>Book 26 Hadith 29</td></tr></tbody></table></div>
 

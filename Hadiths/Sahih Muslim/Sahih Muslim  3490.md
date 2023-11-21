@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), L'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi], [Abu Ar Rabi' Sulaiman bin Daud Al 'Ataki] dan [Qutaibah bin Sa'id] sedangkan lafazhnya dari Yahya. [Yahya] mengatakan; Telah mengabarkan kepada kami, sedangkan dua yang lainnya mengatakan; Telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas bin Malik] bahwasannya Nabi shallallahu 'alaihi wasallam melihat bekas kuning pada Abdurrahman bin Auf, maka beliau bersabda: "Apa ini?" Dia menjawab; "Wahai Rasulullah, sesungguhnya saya baru menikahi wanita dengan maskawin seberat biji kurma." Lalu beliau bersabda: "Semoga Allah memberkati perkawinanmu, adakanlah walimah walaupun hanya dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3490</td></tr><tr><td>Arabic No</td><td>1427.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика (да будет доволен им Аллах), что, увидев на (теле) ‘Абдуррахмана ибн ‘Ауфа (да будет доволен им Аллах) жёлтые следы (благовоний), Пророк ﷺ спросил его: «Что это?» Тот сказал: «О Посланник Аллаха, я женился на одной женщине, (отдав ей в качестве брачного дара) золото весом с кос­точку», и (Пророк ﷺ сказал: «Да благословит же тебя Аллах! /Фа-барака-Ллаху ляка/ (А теперь) устрой угощение хотя бы из одной овцы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3490</td></tr><tr><td>Arabic No</td><td>1427.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 92</td></tr></tbody></table></div>
 

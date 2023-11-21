@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Khalid b. al-Huwairith said :‘Abd Allah b. ‘Amar was in al-safah. The na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Khalaf] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Muhammad bin Khalid] ia berkata; aku mendengar bapakku [Khalid bin Al Huwairits] berkata, " [Abdullah bin 'Amru] pernah berada di Ash Shifah -Muhammad berkata; tempat di Makkah-, lalu seorang laki-laki datang membawa kelinci yang ia buru. Laki-laki itu lalu berkata, "Wahai Abdullah bin 'Amru, apa pendapatmu? Abdullah bin Amru menjawab, "Pernah seekor kelinci (bakar) dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam, beliau tidak memakannya dan tidak melarang untuk memakannya, sementara saat itu aku berada di sisi beliau. Dan beliau menyakini bahwa kelinci tersebut mengeluarkan darah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3792</td></tr><tr><td>Arabic No</td><td>3792</td></tr><tr><td>Reference</td><td>Book 28 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Халид ибн аль-Хувайрис передаёт, что ‘Абдуллах ибн ‘Амр, да будет доволен Аллах им и его отцом, был в ас-Сыфахе, месте в Мекке, и один человек принёс зайца, которого он добыл на охоте, и спросил: «О ‘Абдуллах ибн ‘Амр! Что ты скажешь?» Он ответил: «Посланнику Аллаха ﷺ принесли зайчиху, когда я сидел там, и он не стал есть её, но и не запретил другим есть её, полагая, что у них бывают (кровотечения, подобные) менструациям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3792</td></tr><tr><td>Arabic No</td><td>3792</td></tr><tr><td>Reference</td><td>Book 28 Hadith 57</td></tr></tbody></table></div>
 

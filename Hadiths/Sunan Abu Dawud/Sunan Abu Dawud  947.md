@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu hurairah said that the Messenger of Allah (May peace be upon him) forbade pu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ka'b] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Hisyam] dari [Muhammad bin Sirin] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang bertolak pinggang dalam shalat." Abu Daud mengatakan; "Maksudnya meletakkan tangan di pinggangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1220) Sahih Muslim (545)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>947</td></tr><tr><td>Arabic No</td><td>947</td></tr><tr><td>Reference</td><td>Book 2 Hadith 558</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, что Посланник Аллаха ﷺ запретил возлагать руки на бока во время молитвы.Абу Дауд сказал: «Имеется в виду возложение рук на талию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1220) Sahih Muslim (545)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>947</td></tr><tr><td>Arabic No</td><td>947</td></tr><tr><td>Reference</td><td>Book 2 Hadith 558</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Miskin is not he who is d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] - [Ibnu Ayyub] berkata- Telah menceritakan kepada kami [Isma'il] ia adalah anak Ja'far, telah mengabarkan kepadaku [Syarik] dari [Atha' bin Yasar] Maula Maimunah, dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang disebut orang miskin itu bukanlah seorang peminta-minta yang diberi orang satu atau dua biji kurma atau sesuap dua suap makanan. Tetapi orang miskin sesungguhnya, ialah orang yang tahu menjaga diri (dari meminta-minta). Jika kamu mau, maka bacalah firman Allah: 'Mereka tidak meminta kepada orang secara mendesak…'" Dan telah menceritakannya kepadaku [Abu Bakar bin Ishaq] telah menceritakan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepadaku [Syarik] telah mengabarkan kepadaku [Atha' bin Yasar] dan [Abdurrahman bin Abu Amrah] bahwa keduanya mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda, yakni serupa dengan hadits Isma'il
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>1039.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Не тот беден, кому (довольно) одного-двух фиников или куска-другого еды, лишь тот беден, кто воздерживается, читайте же, если хотите (аят, в котором говорится) “…они не выпрашивают у людей (милостыню) настойчиво” (Сура «аль-Бакара», аят 273)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>1039.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 131</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ya'la b. Shaddad b. Aws said:I came to Mu'awiyah in Jerusalem. He led us in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Daud bin Rusyaid] telah menceritakan kepada kami [Khalid bin Hayyan Ar Raqqi] telah menceritakan kepada kami [Sulaiman bin Abdullah bin Az Zibriqan] dari [Ya'la bin Syaddad bin Aus] dia berkata; "Aku bersama Muawiyah menyaksikan penaklukan Baitul Maqdis, lalu dia melaksanakan shalat jum'at bersamanya, maka aku melihat kebanyakan jama'ah yang ada di masjid adalah para sahabat Nabi shallallahu 'alaihi wasallam, aku melihat mereka duduk bertekuk lutut ketika imam sedang berkhutbah." Abu Daud berkata; " [Ibnu Umar] juga duduk bertekuk lutut sementara imam sedang berkhutbah, begitu juga [Anas bin Malik], Syuraih, Sha'sha'ah bin Shuhan, Sa'id bin Musayyab, Ibrahim An Nakha'i, Makhul, Isma'il bin Muhammad bin Sa'd dan Nu'aim bin Salamah, katanya; "Tidak mengapa duduk seperti itu." Abu Daud berkata; "Belum sampai kepadaku, bahwa ada seseorang yang membencinya kecuali 'Ubadah bin Nusai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1111</td></tr><tr><td>Arabic No</td><td>1111</td></tr><tr><td>Reference</td><td>Book 2 Hadith 722</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1111</td></tr><tr><td>Arabic No</td><td>1111</td></tr><tr><td>Reference</td><td>Book 2 Hadith 722</td></tr></tbody></table></div>
 

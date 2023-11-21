@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (the wife of Allah's Apostle) said:When Allah's Messenger (ﷺ) fell ill,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu 'Umar Al Makki]; Telah menceritakan kepada kami ['Abdul 'Aziz Ad Darawardi] dari [Yazid] yaitu Ibnu 'Abdillah bin Usamah bin Al Hadi dari [Muhammad bin Ibrahim] dari [Abu Salamah bin 'Abdur Rahman] dari ['Aisyah] istri Nabi shallallahu 'alaihi wasallam dia berkata; "Bila Rasulullah shallallahu 'alaihi wasallam sakit, Jibril datang meruqyahnya. Jibril mengucapkan; 'Bismillaahi yubriika, wa min kulli daa-in yusyfika, wa min syarri hasidin idza hasad, wa syarri kulli dzi 'ainin.' (Dengan nama Allah yang menciptakanmu. Dia-lah Allah yang menyembuhkanmu dari segala macam penyakit dan dari kejahatan pendengki ketika ia mendengki serta segala macam kejahatan sorotan mata jahat semua makhluk yang memandang dengan kedengkian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>2185</td></tr><tr><td>Reference</td><td>Book 39 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>2185</td></tr><tr><td>Reference</td><td>Book 39 Hadith 53</td></tr></tbody></table></div>
 

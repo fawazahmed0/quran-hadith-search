@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:That he was asked (regarding): "Except to be kind to me for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik bin Maisarah] dia berkata; Aku mendengar [Thawus] dari [Ibnu Abbas radliallahu 'anhuma] bahwa ia ditanya mengenai firman Allah: kecuali kasih sayang dalam kekeluargaan … (QS. Asysyura 23), maka Sa'id bin Jubair berkata; 'Qurbaa' maksudnya adalah Keluarga Muhammad shallallahu 'alaihi wasallam. Ibnu 'Abbas berkata; "Engkau terlalu terburu-buru, sesungguhnya Rasulullah shallallahu 'alaihi wasallam bukanlah marga (clan) dari Quraisy selain beliau shallallahu 'alaihi wasallam hanyalah mempunyai hubungan keluarga dengan mereka. Ibnu Abbas berkata; maksudnya kecuali kalian bisa menyambung hubungan kekeluargaan antara diriku dengan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4818</td></tr><tr><td>Arabic No</td><td>4818</td></tr><tr><td>Reference</td><td>Book 65 Hadith 340</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Не было в (племени) курайш такого рода, в котором Пророк ﷺ не имел бы родственников, и он говорил: “(Я не прошу у вас ничего, кроме того,) чтобы вы поддерживали узы родства, существующие между нами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4818</td></tr><tr><td>Arabic No</td><td>4818</td></tr><tr><td>Reference</td><td>Book 65 Hadith 340</td></tr></tbody></table></div>
 

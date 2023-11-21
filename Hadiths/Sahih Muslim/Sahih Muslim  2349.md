@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported that the Messenger of Allah (ﷺ) made a mention of Fire. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Amru bin Murrah] dari [Khaitsamah] dari [Adi bin Hatim] ia berkata; Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang neraka kemudian beliau berpaling. Setelah itu beliau bersabda: "Takutlah kalian terhadap neraka." Kemudian beliau berpaling lagi dan memalingkan mukanya hingga kami menyangka bahwa beliau seakan-akan melihatnya, kemudian beliau bersabda: "Takutlah kalian terhadap api neraka meskipun hanya dengan setengah biji kurma. Dan jika ia tidak mendapatkan, maka hendaklah dengan kalimat yang baik." Dan Abu Kuraib tidak menyebutkan kata; "KA'ANNAMAA (sepertinya)." Dan ia berkata; Telah menceritakan kepada kami Abu Mu'awiyah Telah menceritakan kepada kami Al A'masy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2349</td></tr><tr><td>Arabic No</td><td>1016.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Ади ибн Хатим сказал: «(Однажды), упомянув об Огне, Посланник Аллаха отвернулся, отстранился и воскликнул: “Защитите себя от Огня!” Потом (Пророк ﷺ) снова отвернулся и отстранился, а нам показалось, что он как бы смотрит на него. Потом (Пророк ﷺ) сказал: “Защитите себя от Огня хотя бы половинкой финика, а если (человек) не найдёт и этого, то добрым словом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2349</td></tr><tr><td>Arabic No</td><td>1016.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 86</td></tr></tbody></table></div>
 

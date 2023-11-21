@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: The Prophet (ﷺ) as saying: A man who cups and a man who gets
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid], telah menceritakan kepada kami [Marwan], telah menceritakan kepada kami [Al Haitsam bin Humaid], telah mengabarkan kepada kami [Al 'Ala' bin Al Harits] dari [Makhul] dari [Abu Asma' Ar Rahabi] dari [Tsauban] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Telah batal puasa orang yang membekam dan yang dibekam." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Ibnu Tsauban] dari [ayahnya] dari [Makhul] dengan sanadnya seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2371</td></tr><tr><td>Arabic No</td><td>2371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Саубана, да будет доволен им Аллах, что Пророк ﷺ сказал: «И делающий кровопускание, и тот, кому делают кровопускание, разговелись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2371</td></tr><tr><td>Arabic No</td><td>2371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
 

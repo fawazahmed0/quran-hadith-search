@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported The Apostle of Allaah(ﷺ) as saying “ A woman should no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Daud bin Abu Hindun], dari ['Amir], dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh seorang wanita dinikahi sebagai madu bibinya (saudari ayah), dan seorang bibi dinikahi sebagai madu anak wanita saudara laki-lakinya, dan tidak boleh seorang wanita dinikahi sebagai madu bibinya (saudari ibu) dan seorang bibi sebagai madu bagi anak wanita saudara wanitanya. Dan tidak boleh seorang kakak wanita dinikahi sebagai madu adik wanitanya, dan adik wanita dinikahi sebagai madu kakak wanitanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2065</td></tr><tr><td>Arabic No</td><td>2065</td></tr><tr><td>Reference</td><td>Book 12 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не должен жениться на женщине тот, кто уже женат на её тётке по отцу или на дочери её брата, и не должен жениться на женщине тот, кто уже женат на её тётке по матери или на дочери её сестры. Не должен жениться на старшей из них тот, кто женат на младшей, и не должен жениться на младшей из них тот, кто уже женат на старшей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2065</td></tr><tr><td>Arabic No</td><td>2065</td></tr><tr><td>Reference</td><td>Book 12 Hadith 20</td></tr></tbody></table></div>
 

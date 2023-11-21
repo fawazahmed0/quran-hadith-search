@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported that Allah's Messenger (ﷺ) said:I know the last of the inha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>467</td></tr><tr><td>Arabic No</td><td>190.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Зарра, что Посланник Аллаха ﷺ сказал: «Поистине, я знаю того, кто последним войдёт в Рай из обитателей Рая, и того из обитателей Огня, кто последним выйдет оттуда. Это будет человек, которого приведут в Судный день, и будет сказано: “Покажите ему его малые грехи и спрячьте его большие (грехи)”. И ему будут показаны его маленькие грехи, и будет сказано: “Ты делал тогда-то то-то и то-то, и ты делал тогда-то то-то, то-то, и то-то…”. А он будет говорить: “Да” и не сможет отрицать это. При этом он будет бояться, что ему покажут и его большие грехи. Тогда будет сказано ему: “Тебе взамен каждого скверного дела будет благое!” А он скажет: “Господи! Я делал некоторые вещи, которых я не вижу здесь!”».Абу Зарр сказал: «И я видел, как Посланник Аллаха ﷺ улыбнулся так, что стали видны его дальние зубы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>467</td></tr><tr><td>Arabic No</td><td>190.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 373</td></tr></tbody></table></div>
 

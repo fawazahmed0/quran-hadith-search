@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:the mother of the faithful believers, I requested the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Mu'awiyah bin Ishaq] dari ['Aisyah binti Thalhah] dari ['Aisyah, ummul mu'minin radliallahu 'anha] berkata: "Aku meminta izin kepada Nabi shallallahu 'alaihi wasallam untuk berjihad, maka Beliau bersabda: "Jihad kalian adalah haji". Dan ['Abdullah bin Al Walid] berkata telah bercerita kepada kami [Sufyan] dari [Mu'awiyah] dengan hadits seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2875</td></tr><tr><td>Arabic No</td><td>2875</td></tr><tr><td>Reference</td><td>Book 56 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, мать правоверных, да будет доволен ею Аллах, сказала: «(Однажды) я попросила у Пророка ﷺ разрешения принять участие в джихаде, (Пророк ﷺ) ответил: “Вашим джихадом является хадж”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2875</td></tr><tr><td>Arabic No</td><td>2875</td></tr><tr><td>Reference</td><td>Book 56 Hadith 91</td></tr></tbody></table></div>
 

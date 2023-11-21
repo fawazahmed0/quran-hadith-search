@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said to Abu Talha, "I recommend that you divide 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ishaq bin 'Abdullah bin AbiThalhah] bahwa dia mendengar [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda kepada Abu Thalhah: "Aku berpendapat sebaiknya kamu berikan untuk kaum kerabat". Abu Thalhah berkata: "Aku akan melaksanakannya wahai Rasulullah". Maka Abu Thalhah membagikannya untuk kerabatnya dan anak-anak pamannya". Dan Ibnu 'Abbas radliallahu 'anhu berkata: "Ketika turun QS asy-Syu'ara' ayat 214 yang artinya: ("Dan berilah peringatan kepada keluarga-keluargamu yang terdekat"), maka Nabi shallallahu 'alaihi wasallam berseru: "Wahai Bani Fihr, wahai Bani 'Adiy", yaitu nama-nama suku Quraisy. Dan berkata Abu Hurairah radliallahu 'anhu: "Ketika turun QS asy-Syu'ara' ayat 214 yang artinya: ("Dan berilah peringatan kepada keluarga-keluargamu yang terdekat"), maka Nabi shallallahu 'alaihi wasallam berseru: "Wahai para kaum Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2752</td></tr><tr><td>Arabic No</td><td>2752</td></tr><tr><td>Reference</td><td>Book 55 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал Абу Тальхе: «Я думаю тебе следует разделить (этот сад) между твоими родственниками». Абу Тальха сказал: «Так я сделаю, о Посланник Аллаха!» Абу Тальха разделил его между своими родственниками и сыновьями своего дяди. \nИбн Аббас сказал: «Когда были ниспосланы аяты: “Предостереги своих ближайших родственников!” (сура “аш-Шу‘ара”, аят 214) Пророк ﷺ начал призывать племена курайшитов: “О Бану Фихр! О Бану ‘Ади!”». \nСообщается, что Абу Хурайра сказал: «Когда были ниспосланы аяты: “Предостереги своих ближайших родственников!” (сура “аш-Шу‘ара”, аят 214) Пророк ﷺ сказал: “О курайшиты!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2752</td></tr><tr><td>Arabic No</td><td>2752</td></tr><tr><td>Reference</td><td>Book 55 Hadith 15</td></tr></tbody></table></div>
 

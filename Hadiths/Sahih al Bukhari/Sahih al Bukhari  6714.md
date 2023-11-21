@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "O Allah! Bestow Your Bles
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik], bahwasanya Rasulullah Shallallahu'alaihiwasallam pernah memanjatkan doa: "Ya Allah, berilah mereka barakah dalam takaran mereka, sha' mereka, dan mud mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6714</td></tr><tr><td>Arabic No</td><td>6714</td></tr><tr><td>Reference</td><td>Book 84 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «О Аллах, благослови их меры, их са‘ и их мудды!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6714</td></tr><tr><td>Arabic No</td><td>6714</td></tr><tr><td>Reference</td><td>Book 84 Hadith 7</td></tr></tbody></table></div>
 

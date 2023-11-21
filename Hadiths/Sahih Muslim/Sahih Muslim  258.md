@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abdullah b. Mas'ud that a man said:Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari [Jarir], [Utsman] berkata, telah menceritakan kepada kami [Jarir] dari [al-A'masy] dari [Abu Wail] dari [Amru bin Syurahbil] dia berkata, [Abdullah] berkata, "Seorang laki-laki berkata, "Wahai Rasulullah, dosa apa yang paling besar di sisi Allah." Beliau menjawab: "Kamu mendakwahkan tandingan untuk Allah padahal dia menciptakanmu." Dia bertanya, "Kemudian apa?" Beliau menjawab: "Kamu membunuh anakmu karena khawatir dia makan bersamamu?" Dia bertanya, "Kemudian apa?" Beliau menjawab: "Kamu menzinahi istri tetanggamu." Sebagai pembuktian kebenarannya Allah lalu menurunkan ayat: '(Dan juga mereka yang tidak menyembah sesuatu yang lain bersama-sama Allah dan tidak membunuh jiwa yang diharamkan oleh Allah kecuali dengan cara yang dibenarkan oleh syari'at dan tidak berzina. Barangsiapa yang melakukan perbuatan tersebut akan mendapat pembalasan dosanya) ' (Qs. A; Furqan:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>86.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн Мас’уд сказал: «(Однажды) один человек спросил: “О Посланник Аллаха, какой грех является самым тяжким пред Аллахом?” Он ответил: “Приравнивание кого бы то ни было к Аллаху, Который создал тебя”. (Человек) спросил: “А потом какой?” Он ответил: “Убивать своего ребёнка из страха, что он будет питаться вместе с тобой” (Человек) спросил: “А потом какой?” Он ответил: “Совершать прелюбодеяние с женой твоего соседа” и в подтверждение этих слов Великий и Могучий Аллах ниспослал аят, (в котором сказано): “Они не взывают помимо Аллаха к другим богам, не убивают людей вопреки запрету Аллаха, если только они не имеют права на это, и не прелюбодействуют. А тот, кто поступает так, получит наказание” (сура “аль-Фуркан”, аят 68)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>86.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 164</td></tr></tbody></table></div>
 

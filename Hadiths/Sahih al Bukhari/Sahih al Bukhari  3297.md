@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:That he heard the Prophet (ﷺ) delivering a sermon on the pu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Hisyam bin Yusuf] telah bercerita kepada kami [Ma'mar] dari [Az Zuhriy] dari [Salim] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam yang sedang menyampaikan khathbah di atas mimbar bersabda: "Bunuhlah ular-ular dan (terutama) bunuhlah ular belang (bergaris putih pada punggungnya) dan ular yang ekornya pendek (putus) karena kedua jenis ular ini dapat merabunkan pandangan dan menyebabkan keguguran (janin) ". 'Abdullah berkata; "Ketika aku mencari ular untuk membunuhnya, [Abu Lubabah] memanggilku; dan berkata; "Jangan kamu bunuh". Aku katakan; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah memerintahkan untuk membunuh ular-ular". Dia berkata; " Beliau setelah itu melarang membunuh ular-ular yang tinggal di rumah, yaitu yang disebut al-'awamir (ular yang lama berdiam di rumah manusia). Dan ['Abdur Razaq] berkata dari [Ma'mar]; "Maka [Abu Lubabah] atau [Zaid bin Al Khaththab] melihatku" (redaksi dengan riwayat lain dari memanggilku). Hadits ini juga diikuti oleh [Yunus], [Ibnu 'Uyaynah], [Ishaq Al Kalbiy] dan [Az Zubaidiy]. Dan berkata [Shalih], [Ibnu Abi hafshah] dan [Ibnu Mujammi'] dari [Az Zuhriy] dari [Salim] dari [Ibnu 'Umar radliallahu 'anhuma]; "Maka [Abu Lubabah] atau [Zaid bin Al Khaththab] melihatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Пророк ﷺ произносивший проповедь с минбара, сказал: “Убивайте змей, и убивайте змей с двумя полосами на спине, и убивайте куцых змей, ибо они могут лишить зрения и вызывают у беременных выкидыши”». \n‘Абдуллах (бин ‘Умар, да будет доволен Аллах ими обоими,) сказал: «Однажды, когда я гонялся за змеёй, чтобы убить её, Абу Любаба сказал мне: “Не убивай её!” Я сказал: “Но ведь убивать змей велел Посланник Аллаха ﷺ !” Он сказал: “Поистине, потом он запретил убивать змей, живущих в домах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

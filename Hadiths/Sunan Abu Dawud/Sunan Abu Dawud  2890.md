@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Huzail b. Shurahbil al-Awadi:A man came to Abu Musa al-Ash'ari and Salm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin 'Amir bin Zurarah], telah menceritakan kepada kami [Ali bin Mushir] dari [Al A'masy] dari [Abu Qais Al Audi] dari [Hudzail bin Syurahbil Al Audi], ia berkata; seorang laki-laki telah datang kepada Abu Musa Al Asy'ari dan Salman bin Rabi'ah, kemudian bertanya kepada mereka berdua mengenai anak perempuan, anak perempuan dari anak laki-laki dan saudara perempuan seayah serta seorang ibu. Kemudian mereka berdua mengatakan; untuk anak wanita setengah bagian, untuk saudara wanita seayah serta ibu adalah setengah bagian. Dan mereka berdua tidak memberikan warisan kepada anak perempuan dari anak laki-laki sedikitpun. Datanglah kepada [Ibnu Mas'ud], sesungguhnya ia akan mengoreksi kami, kemudian orang tersebut datang kepadanya dan bertanya, kemudian Ibnu Mas'ud memberitahu kepadanya dengan perkataan mereka berdua. Kemudian ia berkata; sungguh aku telah sesat dan aku bukan termasuk orang-orang yang mendapat petunjuk. Akan tetapi aku akan memutuskan padanya dengan keputusan Nabi shallallahu 'alaihi wasallam. Untuk anak wanitanya setengah dan untuk anak wanita dari anak laki-laki mendapatkan saham (bagian) sebagai penyempuraan dua pertiga, dan sisanya adalah untuk saudara wanita seayah serta untuk ibu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2890</td></tr><tr><td>Arabic No</td><td>2890</td></tr><tr><td>Reference</td><td>Book 19 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хузайля ибн Шурахбиля аль-Ауди, что однажды какой-то человек пришёл к Абу Мусе аль-Аш‘ари и Сальману ибн Раби‘а и спросил их о наследстве дочери, дочери сына и родной сестры, и они сказали, что дочь получает половину имущества, а родная сестра вторую половину, тогда как внучка ничего не получает. (Они также посоветовали ему): «Сходи к Ибн Мас‘уду и спроси его, он подтвердит». И он пришёл к Ибн Мас‘уду, задал ему тот же вопрос и передал им их слова. Ибн Мас‘уд воскликнул: «Если это так, значит, я впал в заблуждение и не отношусь к следующим прямым путём! Я вынесу решение, которое вынес в своё время Посланник Аллаха ﷺ. Дочь получает половину, внучка долю, дополняющую эту долю до двух третей, а остальное получает родная сестра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2890</td></tr><tr><td>Arabic No</td><td>2890</td></tr><tr><td>Reference</td><td>Book 19 Hadith 6</td></tr></tbody></table></div>
 

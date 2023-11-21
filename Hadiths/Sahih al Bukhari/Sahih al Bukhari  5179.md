@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah bin 'Umar said, "Allah's Messenger (ﷺ) said, 'Accept 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah bin Ibarahim] Telah menceritakan kepada kami [Al Hajjaj bin Muhammad] ia berkata; Telah berkata [Ibnu Juraij] Telah menceritakan kepadaku [Musa bin Uqbah] dari [Nafi'] ia berkata; Aku mendengar [Abdullah bin Umar] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Penuhilah seruan ini (walimahan), bila kalian diundang untuk mendatanginya." Karena itu, Abdullah selalu mendangi undangan walimahan atau pun bukan waliman, sementara ia sendiri sedang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5179</td></tr><tr><td>Arabic No</td><td>5179</td></tr><tr><td>Reference</td><td>Book 67 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ’Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Отвечайте на это приглашение (имеется в виду приглашение на свадебный пир /валима/), если вас пригласят на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5179</td></tr><tr><td>Arabic No</td><td>5179</td></tr><tr><td>Reference</td><td>Book 67 Hadith 114</td></tr></tbody></table></div>
 

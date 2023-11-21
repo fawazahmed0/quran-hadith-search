@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:That 'Amr bin 'Auf, who was an ally of Bani 'Ami
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 64 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн ‘Ауф, являвшийся союзником (племени) бану ‘амир ибн лу‘айй и принимавший участие в битве при Бадре вместе с Пророком ﷺ, сказал: «(В своё время) Посланник Аллаха ﷺ отправил Абу ‘Убайду ибн аль-Джарраха в Бахрейн, чтобы он привёз подушную подать, (собранную с жителей этой области,) и Посланник Аллаха ﷺ заключил мир с жителями Бахрейна, назначив управлять ими аль-‘Аля ибн аль-Хадрами. (Когда) Абу ‘Убайда привёз деньги из Бахрейна, ансары узнали о его приезде и явились на утреннюю молитву вместе с Пророком ﷺ. После того как Посланник Аллаха ﷺ провёл эту молитву с (ансарами), они подошли к нему, (всем своим видом показывая, что хотят о чём-то спросить). Увидев их, он улыбнулся и сказал: “Я думаю, вы услышали, что Абу ‘Убайда что-то привёз”. Они подтвердили: “Да, о Посланник Аллаха”, и (Пророк ﷺ) сказал: “Тогда радуйтесь и надейтесь на то, что порадует вас! (Однако,) клянусь Аллахом, я боюсь для вас не бедности, а того, что достанутся вам все блага мира этого, как доставались они жившим до вас, и станете вы соперничать друг с другом из-за этого, как соперничали (жившие до вас), и это погубит вас, как погубило их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 64 Hadith 65</td></tr></tbody></table></div>
 

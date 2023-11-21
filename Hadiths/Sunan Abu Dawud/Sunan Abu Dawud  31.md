@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Qatadah:The Prophet (sal Allaahu alayhi wa sallam) said: When any o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] dan [Musa bin Isma'il] mereka berdua berkata; Telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Yahya] dari [Abdullah bin Abu Qatadah] dari [Ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian buang air kecil, maka janganlah dia menyentuh kemaluannya dengan tangan kanannya. Apabila dia mendatangi WC (untuk buang air), maka janganlah dia beristinja dengan tangan kanannya. Dan apabila dia minum, maka janganlah dia minum dengan satu kali nafas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (153، 154) Sahih Muslim (267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>31</td></tr><tr><td>Arabic No</td><td>31</td></tr><tr><td>Reference</td><td>Book 1 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Абу Къатада сообщил со слов своего отца о том, что Посланник Аллаха ﷺ сказал: «Если кто-либо из вас будет справлять малую нужду, пусть не прикасается к своим половым органам правой рукой. И когда он пойдёт в отхожее место, пусть не подмывается правой рукой, и когда (будет) пить (воду), то пусть не пьёт на одном дыхании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (153، 154) Sahih Muslim (267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>31</td></tr><tr><td>Arabic No</td><td>31</td></tr><tr><td>Reference</td><td>Book 1 Hadith 31</td></tr></tbody></table></div>
 

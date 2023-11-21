@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Messenger of Allah (ﷺ) used to order us to pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Daud bin Sufyan], telah menceritakan kepada Kami [Yahya bin Hassan], telah menceritakan kepada Kami [Sulaiman bin Musa Abu Daud], telah menceritakan kepada Kami [Ja'far bin Sa'd bin Samurah bin Jundab bin Sulaiman] telah menceritakan kepadaku [Hubaib bin Sulaiman] dari [ayahnya yaitu Sulaiman] dari [Samurah bin Jundab], ia berkata; adapun selanjutnya, sesungguhnya Rasulullah shallallahu 'alaihi wasallam memerintahkan Kami untuk mengeluarkan zakat dari sesuatu yang Kami persiapkan untuk dijual
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1562</td></tr><tr><td>Arabic No</td><td>1562</td></tr><tr><td>Reference</td><td>Book 9 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Самура ибн Джундуб ﷺ передаёт: «И далее… Поистине, Посланник Аллаха ﷺ велел нам выплачивать закят с того, что мы приготовили для продажи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1562</td></tr><tr><td>Arabic No</td><td>1562</td></tr><tr><td>Reference</td><td>Book 9 Hadith 7</td></tr></tbody></table></div>
 

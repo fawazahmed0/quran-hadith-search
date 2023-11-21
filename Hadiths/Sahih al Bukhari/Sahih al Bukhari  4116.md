@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Whenever Allah's Messenger (ﷺ) returned from a Ghazwa, Hajj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4116</td></tr><tr><td>Arabic No</td><td>4116</td></tr><tr><td>Reference</td><td>Book 64 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ возвращался (в Медину) после военного похода, хаджа или умры, он трижды произносил слова “Аллаху акбар!”, а потом говорил: «Нет бога, достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища; Ему принадлежит владычество, Ему хвала и Он над всякой вещью мощен! Мы возвращаемся, каемся, поклоняемся, пред Господом нашим до земли склоняемся и Ему воздаём хвалу! Аллах сдержал Своё обещание, и помог Своему рабу, и Он один разбил племена! \n/Ля иляха илля-Ллаху вахдаху ля шарика ляху, ляхуль-мульку, ва ляхуль-хамду, ва Хува ‘аля кулли шайъин къадир! Аййибуна, тàибуна, ‘абидуна, сàджидуна ли-Раббина хàмидун! Садакъа-Ллаху ва‘да-ху, ва насара ‘абдаху, ва хазамаль-ахзаба вахдаху!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4116</td></tr><tr><td>Arabic No</td><td>4116</td></tr><tr><td>Reference</td><td>Book 64 Hadith 160</td></tr></tbody></table></div>
 

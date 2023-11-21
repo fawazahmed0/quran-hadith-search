@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) said:Who fasted among you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ibnu Abu Umar] telah menceritakan kepada kami [Marwan Al Fazari] dari [Yazid, ia adalah anak Kaisan] dari [Abu Hazim Al Asyja'i] dari [Abu Hurairah] ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam pernah bertanya: "Siapakah di antara kalian yang pagi ini sedang berpuasa?" Abu Bakar menjawab, "Aku." Beliau bertanya lagi: "Siapa di antara kalian yang hari ini telah menghantarkan jenazah?" Abu Bakar menjawab: "Aku." Beliau bertanya lagi: "Siapa di antara kalian yang hari ini telah memberi makan orang miskin?" Abu Bakar menjawab: "Aku." Beliau bertanya lagi: "Siapa di antara kalian yang hari ini telah menjenguk orang sakit?" Abu Bakar menjawab, "Aku." Selanjutnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah semua itu ada pada seseorang kecuali dia pasti akan masuk surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2374</td></tr><tr><td>Arabic No</td><td>1028</td></tr><tr><td>Reference</td><td>Book 12 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ спросил: “Кто из вас сегодня постится?” Абу Бакр, да будет доволен им Аллах, сказал: “Я”. (Пророк ﷺ) спросил: “А кто из вас сегодня принимал участие в похоронной процессии?” Абу Бакр, да будет доволен им Аллах,сказал: “Я”. (Пророк ﷺ) спросил: “А кто из вас сегодня накормил неимущего?” Абу Бакр, да будет доволен им Аллах, сказал: “Я”. (Пророк ﷺ) спросил: “А кто из вас сегодня навестил больного?” Абу Бакр, да будет доволен им Аллах, сказал: “Я”. Тогда Посланник Аллаха ﷺ сказал: “Любой человек, (который будет делать всё это), непременно войдёт в Рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2374</td></tr><tr><td>Arabic No</td><td>1028</td></tr><tr><td>Reference</td><td>Book 12 Hadith 111</td></tr></tbody></table></div>
 

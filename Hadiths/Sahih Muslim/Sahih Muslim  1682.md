@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by the same chain of transmitters and in the hadit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami ['Abdah bin Sulaiman] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari ['Aisyah], katanya; "Jika mendengar adzan (shubuh), maka Rasulullah shallallahu 'alaihi wasallam shalat dua rakaat fajar dengan meringankan (raka'at) keduanya." Telah menceritakan kepadaku [Ali bin Hujr] telah menceritakan kepada kami [Ali yaitu Ibnu Mushir], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Bakar] dan [Abu Kuraib] dan [Ibnu Numair] dari [Abdullah bin Numair], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Waki'], semuanya dari [Hisyam] dengan sanad seperti ini, dan dalam hadis Abu Usamah disebutkan; "Jika fajar telah terbit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1682</td></tr><tr><td>Arabic No</td><td>724.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии этого хадиса, которую приводит Абу Усама сказано: «…когда наступал рассвет...»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1682</td></tr><tr><td>Arabic No</td><td>724.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 112</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was narrated from Abu Huraira that:Allah's Apostle (ﷺ) used to seek refuge 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amr An Naqid] dan [Zuhair bin Harb] mereka berdua berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] telah menceritakan kepadaku [Sumayya] dari [Abu Shalih] dari [Abu Hurairah] bahwasanya Nabi shallallahu 'alaihi wasallam pernah berdoa untuk berlindung dari takdir buruk, kesialan, dan cacian musuh (karena kemalangan diri), dan dari ujian yang memayahkan. Amru mengatakan dalam haditsnya; "Sufyan berkata; 'Saya merasa ragu bahwasanya saya telah menambah salah satu kata dalam hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6877</td></tr><tr><td>Arabic No</td><td>2707</td></tr><tr><td>Reference</td><td>Book 48 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6877</td></tr><tr><td>Arabic No</td><td>2707</td></tr><tr><td>Reference</td><td>Book 48 Hadith 71</td></tr></tbody></table></div>
 

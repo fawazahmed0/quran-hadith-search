@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ja'far b. Muhammad said on the authority of his father:I heard Jabir b. 'Abdulla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2006</td></tr><tr><td>Arabic No</td><td>867.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «Во время пятничной хутбы Пророк ﷺ славил и восхвалял Аллаха, после чего произносил проповедь, повышая свой голос»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2006</td></tr><tr><td>Arabic No</td><td>867.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 56</td></tr></tbody></table></div>
 

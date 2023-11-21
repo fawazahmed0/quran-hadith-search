@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "On the day of Resurrection
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Abu Shalih] dari [Abu Sa'id Al Khudri] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Allah Azza Wa Jalla pada hari kiamat berfirman: 'Wahai Adam, lalu Adam berkata; 'Aku penuhi panggilan-Mu dan kebahagian ada di tangan-Mu wahai Rabb. Lalu dikatakan dengan suara; Sesungguhnya Allah memerintahkan kepadamu untuk mengeluarkan dari keturunanmu ba'tsun naar (utusan-utusan ke neraka). Adam berkata; Ya Rabb, apa yang Engkau maksud Ba'tsunnar (utusan-utusan neraka) itu?) Allah berfirman: 'Setiap seribu ambillah sembilan ratus sembilan puluh sembilan.'" Beliau bersabda: "Maka pada saat itu wanita yang hamil gugur kandungannya, anak kecil akan beruban, dan kamu melihat manusia dalam keadaan mabuk, padahal sebenarnya mereka tidak mabuk, akan tetapi azab Allah itu sangat kerasnya, (Al Hajj: 2)." hal itu sangat terasa berat bagi umat manusia, hingga wajah mereka berubah. Rasulullah shallallahu 'alaihi wasallam bersabda: "Sembilan ratus sembilan puluh sembilan itu adalah dari Ya'juj dan Ma'juj dan satu orangnya dari kalian." Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Adapun kalian pada hari kiamat dalam bandingan seluruh manusia seperti selembar bulu hitam pada kulit sapi yang berwarna putih. Atau beliau mengatakan: seperti selembar bulu putih pada kulit sapi yang berwarna hitam. Dan sungguh aku berharap kalian menjadi seperempat dari penduduk surga? Maka kami (para sahabat) bertakbir. Kemudian beliau bersabda: aku berharap kalian adalah sepertiga dari penduduk surga, Maka kami (para sahabat) bertakbir. Kemudian beliau bersabda: "Sungguh aku berharap kalian adalah setengah dari penduduk surga." para sahabat pun bertakbir kembali. [Abu Usamah] berkata; dari [Al A'Masy] mengenai firman Allah: Dan kalian melihat manusia dalam keadaan mabuk, padahal mereka tidak mabuk. Dia berkata; setiap dari seribu, terdapat Sembilan ratus Sembilan puluh Sembilan.' [Jarir], [Isa bin Yunus] dan [Abu Mu'awiyah] berkata; dengan lafazh 'Sakraa wamaahum bi sakraa.' Bukan 'sukaara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4741</td></tr><tr><td>Arabic No</td><td>4741</td></tr><tr><td>Reference</td><td>Book 65 Hadith 263</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Пророк ﷺ сказал: «(В День воскресения) Великий и Могучий Аллах скажет: “О Адам!” (Адам) откликнется: “Вот я перед Тобой и готов служить Тебе”. Затем будет сказано: “Поистине, Аллах приказывает тебе вывести из Огня тех, кому суждено оказаться в нём из твоего потомства!” (Адам) спросит: “А сколько их?” (Аллах) скажет: “(Выведи) девятьсот девяносто девять из каждой тысячи”, и после этого каждая беременная сложит свою ношу, и поседеют малые (дети), и увидишь ты людей (будто) пьяными, хотя пьяными они не будут, но суровым будет наказание Аллаха». (Когда Пророк ﷺ упомянул это), люди были так огорчены (и напуганы), что их лица изменились, и Пророк ﷺ сказал: «Из (народов) Йаджудж и Маджудж будет девятьсот девяносто девять, а из вас один. По сравнению с другими людьми вы подобны всего лишь чёрному волоску на шкуре белого быка или белому волоску на шкуре чёрного быка, и я надеюсь, что вы составите собой четверть обитателей Рая» — и мы воскликнули: «Аллах велик!» Потом (Пророк ﷺ) сказал: «Я надеюсь, что вы составите собой треть обитателей Рая!» — и мы воскликнули: «Аллах велик!» Потом (Пророк ﷺ) сказал: «Я надеюсь, что вы составите собой половину обитателей Рая!» — и мы воскликнули: «Аллах велик!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4741</td></tr><tr><td>Arabic No</td><td>4741</td></tr><tr><td>Reference</td><td>Book 65 Hadith 263</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) made an Ansari man and his wife carry out L
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Ubaidullah] Telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] ia berkata; Nabi shallallahu 'alaihi wasallam pernah meli'an atara seorang laki-laki dengan wanita Anshar, lalu beliau memisahkan antara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5314</td></tr><tr><td>Arabic No</td><td>5314</td></tr><tr><td>Reference</td><td>Book 68 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Пророк ﷺ велел обменяться проклятиями мужчине и женщине из ансаров и расторг их брак»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5314</td></tr><tr><td>Arabic No</td><td>5314</td></tr><tr><td>Reference</td><td>Book 68 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Khabbab:Mus'ab b. 'Umari was killed on the day of Uhud. He had only a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Al A'masy], dari [Abu Wail] dari [Khabbab] ia berkata; sesungguhnya Mush'ab bin 'Umair terbunuh pada saat perang Uhud dan ia hanya memiliki selembar kain yang apabila kami menutupi kepalanya maka kedua kakinya keluar dan apabila kami menutup kedua kakinya maka kepalanya keluar. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Tutupilah kepalanya dan letakkan di atas kakinya sebagian dari idzkhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3913، 6432) Sahih Muslim (940)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3155</td></tr><tr><td>Arabic No</td><td>3155</td></tr><tr><td>Reference</td><td>Book 21 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хаббаб, да будет доволен им Аллах, передаёт: «Мус‘аб ибн ‘Умайр погиб в битве при Ухуде, оставив после себя только полосатую накидку, и когда мы покрывали ею его голову, неприкрытыми оставались ноги, когда же мы покрывали ею ноги, то неприкрытой оставалась голова, и тогда Посланник Аллаха ﷺ велел нам: “Покройте только его голову, а на ноги набросайте душистого тростника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3913، 6432) Sahih Muslim (940)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3155</td></tr><tr><td>Arabic No</td><td>3155</td></tr><tr><td>Reference</td><td>Book 21 Hadith 67</td></tr></tbody></table></div>
 

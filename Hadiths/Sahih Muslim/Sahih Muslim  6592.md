@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Charity does not decrease
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] mereka berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Al A'laa] dari [Bapaknya] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Sedekah itu tidak akan mengurangi harta. Tidak ada orang yang memberi maaf kepada orang lain, melainkan Allah akan menambah kemuliaannya. Dan tidak ada orang yang merendahkan diri karena Allah, melainkan Allah akan mengangkat derajatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6592</td></tr><tr><td>Arabic No</td><td>2588</td></tr><tr><td>Reference</td><td>Book 45 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Хурайры (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Милостыня/садакъа/ никак не уменьшает богатства, Аллах не добавит (Своему) рабу(, прощающему других,) ничего, кроме славы, а любого (из тех, кто) проявляет скромность ради Аллаха, Всемогущий и Великий Аллах неизменно возвышает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6592</td></tr><tr><td>Arabic No</td><td>2588</td></tr><tr><td>Reference</td><td>Book 45 Hadith 90</td></tr></tbody></table></div>
 

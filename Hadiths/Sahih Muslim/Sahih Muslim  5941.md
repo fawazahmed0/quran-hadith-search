@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Apostle (ﷺ) called for water and he was given a ves
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Rabi' Sulaiman bin Daud Al 'Ataki] Telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid Telah menceritakan kepada kami [Tsabit] dari [Anas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam pernah meminta air, lalu diberikan kepada beliau sebaskom air. Maka berwudhulah kaum muslimin dengan air itu. Aku memperkirakan jumlah mereka berkisar antara enam puluh sampai delapan puluh orang. Dan aku meyaksikan sendiri air itu keluar dari sela-sela jari beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5941</td></tr><tr><td>Arabic No</td><td>2279.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5941</td></tr><tr><td>Arabic No</td><td>2279.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 4</td></tr></tbody></table></div>
 

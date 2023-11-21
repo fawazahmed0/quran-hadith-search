@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Ja'far: The Prophet (ﷺ) gave the children of Ja'far thre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Uqbah bin Mukram] dan [Ibnu Al Mutsanna] keduanya berkata; telah menceritakan kepada kami [Wahb bin Jarir] berkata, telah menceritakan kepada kami [Bapakku] ia berkata, "Aku mendengar [Muhammad bin Abu Ya'qub] ia menceritakan dari [Al Hasan bin Sa'd] dari [Abdullah bin Ja'far] berkata, "Nabi shallallahu 'alaihi wasallam memberi tenggang waktu untuk keluarga Ja'far selama tiga hari, setelah itu beliau datang kepada mereka dan bersabda: "Setelah ini, janganlah kalian menangisi saudaraku." Setelah itu beliau bersabda: "Undanglah kemari bani saudaraku." kami lalu dihadapkan kepada beliau layaknya anak-anak ayam, beliau lantas bersabda: "Panggilkan tukang cukur kepadaku." Beliau lalu memerintah tukang tukur itu (untuk mencukur), hingga kami semua dicukur olehnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4192</td></tr><tr><td>Arabic No</td><td>4192</td></tr><tr><td>Reference</td><td>Book 35 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Джа‘фар, да будет доволен Аллах им и его отцом, передаёт: «Пророк ﷺ позволил семье Джа‘фара оплакивать его три дня, а затем пришёл к ним и сказал: “Не оплакивайте брата моего после этого дня”. Потом он попросил: “Приведите ко мне сыновей моего брата”. И нас привели, и мы (с взъерошанными волосами) напоминали птенцов, а он сказал: “Позовите ко мне цирюльника”. И по его велению тот обрил нам головы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4192</td></tr><tr><td>Arabic No</td><td>4192</td></tr><tr><td>Reference</td><td>Book 35 Hadith 34</td></tr></tbody></table></div>
 

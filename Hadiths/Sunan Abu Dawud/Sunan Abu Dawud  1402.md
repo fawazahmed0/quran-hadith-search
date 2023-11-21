@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: I said to the Messenger of Allah (ﷺ): Are there two p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amru bin As Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Ibnu Lahi'ah] bahwa [Misrah bin Ha'an Abu Al Mush'ab] telah bercerita kepadanya bahwa ['Ubah bin 'Amir] telah menceritakan kepadanya, dia berkata; aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam; "Apakah dalam surat Al Haj terdapat dua ayat sajadah?" beliau menjawab: "ya, benar. Barangsiapa tidak sujud ketika membacanya, maka janganlah ia membaca kedua ayat sajadah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1402</td></tr><tr><td>Arabic No</td><td>1402</td></tr><tr><td>Reference</td><td>Book 7 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Укбы ибн ‘Амира, да будет доволен им Аллах: «Я спросил: “О Посланник Аллаха! При чтении суры “Хадж” следует совершить два земных поклона?” Он ответил: “Да, и кто не совершает их, пусть не читает эти аяты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1402</td></tr><tr><td>Arabic No</td><td>1402</td></tr><tr><td>Reference</td><td>Book 7 Hadith 2</td></tr></tbody></table></div>
 

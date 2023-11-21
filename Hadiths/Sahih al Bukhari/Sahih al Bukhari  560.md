@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) used to pray the Zuhr at midday, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dari [Muhammad bin 'Amru bin Al Hasan bin 'Ali] berkata, "Al Hajjaj pernah menunda pelaksanaan shalat, maka kami bertanya kepada [Jabir bin 'Abdullah]. Maka dia menjawab, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat Zhuhur ketika matahari telah condong, shalat 'Ashar saat matahari masih terasa panas sinarnya, shalat Maghrib ketika matahari telah terbenam, dan shalat 'Isya terkadang beliau mengikuti kedaan jama'ah; jika beliau lihat sudah berkumpul maka beliau segerakan, dan jika mereka belum berkumpul maka beliau akhirkan. Sementara untuk shalat Subuh, mereka atau beliau melaksanakannya saat pagi masih gelap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>560</td></tr><tr><td>Arabic No</td><td>560</td></tr><tr><td>Reference</td><td>Book 9 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн ‘Амр ибн Хасан ибн ‘Али сказал: «(Однажды) Хаджжадж прибыл (в Медину), и мы спросили Джабира ибн ‘Абдуллах, да будет доволен Аллах ими обоими, и он сказал: “Обычно Пророк ﷺ совершал полуденную молитву в полдень, послеполуденную — когда солнце было ещё ярким, закатную — когда оно уже садилось, а вечернюю — в разное время. Так, если он видел, что (люди) уже собрались (в мечети), то начинал (молитву) пораньше, а если видел, что они запаздывают, то откладывал её. Что же касается утренней молитвы, то они (или: Пророк ﷺ) совершали её в предрассветном сумраке”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>560</td></tr><tr><td>Arabic No</td><td>560</td></tr><tr><td>Reference</td><td>Book 9 Hadith 37</td></tr></tbody></table></div>
 

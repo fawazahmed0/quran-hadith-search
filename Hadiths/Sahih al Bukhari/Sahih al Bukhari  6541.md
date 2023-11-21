@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "The people were displayed in front 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Imran bin Maisarah] telah menceritakan kepada kami [Ibnu Fudhail] telah menceritakan kepada kami [Hushain] -lewat jalur periwayatan lain, - Abu Abdullah mengatakan; dan telah menceritakan kepadaku [Asid bin Zaid] telah menceritakan kepada kami [Husyaim] dari [Hushain] mengatakan, pernah aku di sisi [Sa'id bin Jubair], selanjutnya ia katakan, [Ibnu 'Abbas] telah menceritakan kepadaku dengan mengatakan, Nabi Shallallahu'alaihiwasallam bersabda: "Beberapa umat diperlihatkan kepadaku, maka aku melihat ada seorang Nabi lewat bersama umatnya, kemudian lewatlah seorang Nabi bersama beberapa orang, kemudian lewatlah seorang Nabi bersama sepuluh orang, dan Nabi bersama lima orang, dan seorang Nabi yang berjalan sendirian. Tiba-tiba aku melihat ada rombongan besar, maka saya tanyakan kepada Jibril; 'Apakah mereka umatku? ' 'bukan, namun lihatlah ufuk, ' jawab Jibril. Aku melihat, tiba-tiba ada serombongan besar. Kata Jibril; 'Itulah umatmu, dan itu ada tujuh puluh ribu orang mula-mula yang masuk surga dengan tanpa hisab dan tanpa siksa.' Saya bertanya; 'Mengapa mereka bisa seperti itu? ' Jibril menjawab; 'Karena mereka tidak minta di obati (dengan cara) kay (ditempel besi panas), tidak minta diruqyah dan tidak meramal nasib dengan burung, dan kepada rabb-Nya mereka bertawakkal." 'Ukkasyah bin Mihshan berdiri seraya berujar; "doakanlah aku, agar Allah menjadikan diriku diantara mereka!" Nabi berdoa; "Ya Allah, jadikanlah dia supaya diantara mereka!" Lantas laki-laki lainnya berdiri dan berujar; "Jadikanlah aku diantara mereka!" Nabi menjawab; "kamu sudah didahului 'Ukkasyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6541</td></tr><tr><td>Arabic No</td><td>6541</td></tr><tr><td>Reference</td><td>Book 81 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что Посланник Аллаха ﷺ сказал: «Мне были показаны (предшествовавшие) общины, и я увидел (одного) пророка, с которым шла (небольшая) община, и (другого) пророка, с которым шла небольшая группа, и (другого) пророка, с которым шли десять человек, и (другого) пророка, с которым шло пятеро, и пророка шедшего в одиночестве. Затем я увидел огромную общину и сказал: “О Джибриль, это моя община?” Он ответил: “Нет, но посмотри на линию горизонта”. Я посмотрел и увидел многочисленную общину. Он сказал: “Это твоя община, а для тех семидесяти тысяч, стоящих впереди не будет ни расчёта, ни мучений”. Я спросил: “Почему?” Он ответил: “Они не прибегали к прижиганию, не просили читать на них заговор, не верили в дурные предзнаменования и уповали на своего Господа”. После этого со своего места поднялся ‘Уккяша ибн Михсан и сказал: “Обратись к Аллаху с мольбой, чтобы Он причислил меня к ним!” Пророк ﷺ сказал: “О Аллах, причисли его к ним!” Потом со своего места поднялся другой человек и сказал: “Обратись к Аллаху с мольбой, чтобы Он причислил меня к ним!” Но Пророк ﷺ ответил: “‘Уккяша опередил тебя в этом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6541</td></tr><tr><td>Arabic No</td><td>6541</td></tr><tr><td>Reference</td><td>Book 81 Hadith 130</td></tr></tbody></table></div>
 

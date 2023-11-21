@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) asked for some water and performed the ablut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] dia berkata; Nabi shallallahu 'alaihi wasallam meminta diambilkan air, lalu beliau berwudlu, setelah itu beliau mengangkat tangannya sambil berdo'a: "Ya Allah, ampunilah 'Ubaid Abu 'Amir." Hingga aku melihat putih ketiaknya, lalu beliau melanjutkan do'anya: 'Ya Allah, jadikanlah ia termasuk dari orang yang terbaik diantara manusia di hari Kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6383</td></tr><tr><td>Arabic No</td><td>6383</td></tr><tr><td>Reference</td><td>Book 80 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ велел принести воды, совершил ею омовение, а затем он воздел руки кверху и сказал: “О Аллах, прости ‘Убайда Абу ‘Амира!”, — и я видел белизну его подмышек. И он сказал: “О Аллах, сделай его в День воскресения выше многих Твоих творений из числа людей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6383</td></tr><tr><td>Arabic No</td><td>6383</td></tr><tr><td>Reference</td><td>Book 80 Hadith 78</td></tr></tbody></table></div>
 

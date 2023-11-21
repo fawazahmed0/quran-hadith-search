@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Masruq said:I asked 'Aishah about the prayer of the Messenger of Allah (ﷺ), an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami [Abu Al Ahwash]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Hannad] dari [Abu Al Ahwash], dan ini adalah hadits Ibrahim dari [Asy'ats] dari [ayahnya] dari [Masruq] dia berkata; saya bertanya kepada [Aisyah] radliallahu 'anha tentang shalatnya Rasulullah shallallahu 'alaihi wasallam, kataku kepadanya; "Waktu kapankah beliau biasa mengerjakan shalat (malam)?" jawabnya; "Apabila beliau mendengar suara kokok ayam, beliau bangun lalu shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1132) Sahih Muslim (741)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1317</td></tr><tr><td>Arabic No</td><td>1317</td></tr><tr><td>Reference</td><td>Book 5 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Масрука, что он спросил ‘Аишу, да будет доволен ею Аллах, о ночной молитве Посланника Аллаха ﷺ: в какое время он совершал её? Она ответила: «Услышав крик петуха, он вставал и совершал молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1132) Sahih Muslim (741)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1317</td></tr><tr><td>Arabic No</td><td>1317</td></tr><tr><td>Reference</td><td>Book 5 Hadith 68</td></tr></tbody></table></div>
 

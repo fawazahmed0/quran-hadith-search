@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:Abu Huraira said, "Allah's Messenger (ﷺ) said, 'Whoever do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Abu 'Ashim] telah mengabarkan kepada kami [Ibn Juraij] Telah mengabarkan kepada kami [Ibn Syihab] dari [Abu Salamah] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan termasuk golongan kami orang yang tidak melagukan Al Qur'an, " sementara yang lain menambahkan, 'dan mengeraskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7527</td></tr><tr><td>Arabic No</td><td>7527</td></tr><tr><td>Reference</td><td>Book 97 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Не относится к нам тот, кто не читает Коран нараспев». Другие (передатчики) хадиса добавили: «Читая его вслух»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7527</td></tr><tr><td>Arabic No</td><td>7527</td></tr><tr><td>Reference</td><td>Book 97 Hadith 152</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:The Messenger of Allah( may peace be upon him) used to teach u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Abu Az Zubair] dari [Sa'id bin Jubair] dan [Thawus] dari [Ibnu Abbas] bahwa dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengajari kami sebagaimana beliau mengajari kami Al Qur'an, beliau mengucapkan: "Attahiyyatul mubaarakatus shalawaatut thayyibaatu lillah Assalamu 'alaika ayyuhannabiyyu warahmatullahi wabarakatuh assalamu 'alaina wa'ala 'ibadillahis-shalihin Asyhadu alla ilaha illallah wa asyhadu anna muhammadan abduhu warasuluhu" (Segala penghormatan dan kebaktian yang baik hanya bagi Allah, kesejahteraan, rahmat Allah dan berkah-Nya tetap terlimpah kepadamu wahai Nabi, semoga kesejahteraan atas kami dan hamba-hamba Allah yang Shalih, aku bersaksi tidak ada ilah (yang berhak di sembah) kecuali Allah, dan aku bersaksi bahwa Muhammad adalah Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывает: «Посланник Аллаха ﷺ учил нас читать ташаххуд подобно тому, как учил он нас Корану. Он говорил: “Благодатные приветствия, благие молитвы Аллаху! Мир тебе, о Пророк, милость и благословение Аллаха! Мир нам и всем праведным рабам Аллаха! Свидетельствую, что нет бога [заслуживающего поклонение], кроме Аллаха, и свидетельствую, что Мухаммад Посланник Аллаха /Ат-тахиййату-ль-мубаракату-с-салявату-т-таййибату ли-Лляхи, ас-саляму ‘аляйка аййуха-н-набиййу ва рахмату-Ллахи ва баракатуху, ас-саляму ‘аляйна ва ‘аля ‘ибади-Лляхи-с-салихина, ашхаду алля иляха илля-Ллаху ва ашхаду анна мухаммадан расулю-Ллах/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
 

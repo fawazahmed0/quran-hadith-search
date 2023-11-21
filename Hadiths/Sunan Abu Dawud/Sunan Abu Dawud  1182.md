@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayy b. Ka'b:An eclipse of the sun took place in the time of the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Furat bin Khalid Abu Mas'ud Ar Razi] telah mengabarkan kepada kami [Muhammad bin Abdullah bin Abu Ja'far Ar Razi] dari [ayahnya] dari [Abu Ja'far Ar Razi] dia berkata; Abu Daud mengatakan; "aku telah di beritahu dari [Umar bin Syaqiq] telah menceritakan kepada kami [Abu Ja'far Ar Razi] dan ini dari lafadznya yang lebih sempurna. Dari [Ar Rabi' bin Anas] dari [Abu 'Aliyah] dari [Ubay bin Ka'b] dia berkata; "Pernah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam, lalu Nabi shallallahu 'alaihi wasallam mengerjakan shalat bersama mereka, beliau membaca surat-surat yang di baca panjang dengan lima kali ruku' dan dua kali sujud, setelah itu beliau berdiri di raka'at kedua, lalu membaca surat-surat yang di baca panjang, dengan lima kali ruku' dan dua kali sujud, kemudian beliau duduk menghadap Kiblat sambil berdo'a, sampai gerhana hilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1182</td></tr><tr><td>Arabic No</td><td>1182</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убаййа ибн Ка‘ба, да будет доволен им Аллах, что однажды при жизни Посланника Аллаха ﷺ произошло солнечное затмение и Пророк ﷺ совершил с ними молитву. Он прочитал длинную суру, затем совершил пять поясных поклонов и два земных поклона, после чего поднялся. Во втором рак‘ате он также прочитал длинную суру, затем совершил пять поясных поклонов и два земных поклона. А потом он остался сидеть, обратившись в сторону киблы, и обращался к Аллаху с мольбами до тех пор, пока затмение не закончилось
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1182</td></tr><tr><td>Arabic No</td><td>1182</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 

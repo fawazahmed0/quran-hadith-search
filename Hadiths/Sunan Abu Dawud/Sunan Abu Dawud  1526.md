@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: Once we accompanied the Messenger of Allah (ﷺ) on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Isma'il] telah menceritakan kepada Kami [Hammad] dari [Tsabit] dan [Ali bin Zaid] serta [Sa'id Al Jurairi] dari [Abu Utsman An Nahdi] bahwa [Abu Musa Asy'ari] berkata; aku pernah bersama Rasulullah shallAllahu wa'alaihi wa sallam dalam suatu perjalanan, kemudian tatkala mereka mendekati Madinah orang-orang bertakbir, dan mengeraskan suara mereka. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Wahai para manusia, sesungguhnya kalian tidak berdoa kepada Dzat Yang tuli, dan tidak pula Yang tidak hadir. Sesungguhnya Dzat kalian seru ada diantara kalian dan leher hewan kendaraan kalian." Kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Wahai Abu Musa, maukah aku tunjukkan kepada harta terpendam diantara harta-harta terpendam Surga?" Maka aku katakan; apakah itu? Beliau berkata: "LAA HAULA WA LAA QUWWATA ILLAA BILLAAH" (Tidak ada daya dan kekuatan kecuali karena Allah). Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Yazid bin Zurai'] telah menceritakan kepada Kami [Sulaiman At Taimi] dari [Abu Utsman] dari [Abu Musa Asy'ari] bahwa mereka pernah bersama Nabi shallallahu 'alaihi wasallam sementara mereka menaiki Tsaniyah, kemudian seseorang setiap kali menaiki Tsaniyah berseru: LAA ILAAHA ILLALLAAHU, WALLAAHU AKBAR. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kalian tidak berseru kepada Dzat yang Tuli, dan tidak pula Yang tidak hadir." Kemudian beliau berkata: "Wahai Abdullah bin Qais!....." kemudian Sulaiman menyebutkan hadits tersebut secara makna. Telah menceritakan kepada Kami [Abu Shalih Mahbub bin Musa], telah mengabarkan kepada Kami [Abu Ishaq Al Fazari] dari ['Ashim] dari [Abu Utsman] dari [Abu Musa] dengan hadits ini. Dan dalam hadits tersebut ia berkata; kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Wahai para manusia, pelankan suara dalam hati kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1526</td></tr><tr><td>Arabic No</td><td>1526</td></tr><tr><td>Reference</td><td>Book 8 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы аль-Аш‘ари, да будет доволен им Аллах: «Я сопровождал Посланника Аллаха ﷺ в одном из его путешествий, и, приблизившись к Медине, люди начали возвеличивать Аллаха громким голосом, и Посланник Аллаха ﷺ сказал: “О люди, поистине, вы взываете не к глухому и не к отсутствующему. Поистине, Тот, к Кому вы взываете, между вами и шеями ваших верховых животных”. Затем Посланник Аллаха ﷺ сказал: “О Абу Муса, не указать ли мне тебе на одно из сокровищ Рая?” Я спросил: “Что же это за сокровище?” Он ответил: “Слова “Нет силы и способности изменить что-либо ни у кого, кроме как от Аллаха /Ля хауля ва ля куввата илля би-Ллях/””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1526</td></tr><tr><td>Arabic No</td><td>1526</td></tr><tr><td>Reference</td><td>Book 8 Hadith 111</td></tr></tbody></table></div>
 

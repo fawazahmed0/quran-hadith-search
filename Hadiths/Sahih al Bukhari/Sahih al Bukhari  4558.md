@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Verse:--"When two parties from among you were a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Sufyan] berkata; ['Amru] berkata; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata mengenai firman Allah: ketika dua golongan dari padamu ingin (mundur) karena takut, padahal Allah adalah penolong bagi kedua golongan itu... (Ali Imran: 122). Dia berkata; Kamilah dua kelompok itu, yaitu Bani Haritsah dan Bani Salamah, tidaklah aku menyukainya -sedangkan dalam riwayat lain Sufyan berkata; - dan tidaklah yang membuatku senang kecuali karena ayat itu diturunkan berupa firman Allah; Padahal Allah adalah penolong kedua golongan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 65 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Аят “Когда два отряда среди вас готовы были пасть духом Аллах был их Покровителем” был ниспослан о нас: бану салима и бану хариса, и я не хотел бы, чтобы он не ниспосылался, ведь Аллах сказал в нём: “Аллах был их Покровителем”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 65 Hadith 80</td></tr></tbody></table></div>
 

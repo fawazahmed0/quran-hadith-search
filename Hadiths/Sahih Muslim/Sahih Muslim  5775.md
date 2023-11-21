@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd reported that a person asked Sa'd b. Abu Waqqas about the plague, w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Muhammad bin Bakr]; Telah mengabarkan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku ['Amru bin Dinar] bahwa ['Amir bin Sa'ad] Telah mengabarkan kepadanya; Seseorang bertanya kepada Sa'ad bin Abi Waqqash mengenai penyakit Tha'un. Maka kemudian [Usamah bin zaid] berkata; Akan aku ceritakan kepadamu tentang penyakit itu, Rasulullah shallallahu 'alaihi wasallam bersabda: "Penyakit Tha'uun ini adalah adzab atau suatu peringatan yang Allah kirimkan kepada sekelompok umat dari kalangan Bani Israil atau umat sebelum kalian. Maka apabila kamu mendengar wabah itu berjangkit di suatu negeri, janganlah kamu masuk ke negeri itu. Dan apabila wabah itu berjangkit di negeri tempat kalian berada, janganlah kalian keluar lari dari padanya." Dan telah menceritakan kepada kami [Abu Ar Rabi' Sulaiman bin Dawud] dan [Qutaibah bin Sa'id] keduanya berkata; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] keduanya dari ['Amru bin Dinar] dengan sanad Ibnu Juraij dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5775</td></tr><tr><td>Arabic No</td><td>2218.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5775</td></tr><tr><td>Arabic No</td><td>2218.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 127</td></tr></tbody></table></div>
 

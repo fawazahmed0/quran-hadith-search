@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Women who are divorced shall wait, keeping themselv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Marwazi], telah menceritakan kepadaku [Ali bin Husain] dari [ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas], ia membaca ayat: "Wanita-wanita yang ditalak hendaklah menahan diri (menunggu) tiga kali quru'", serta: "Dan perempuan-perempuan yang tidak haid lagi (monopause) di antara perempuan-perempuanmu jika kamu ragu-ragu (tentang masa iddahnya), maka masa iddah mereka adalah tiga bulan." Kemudian sebagian darinya dihapuskan, ia membaca ayat: "Kemudian kamu ceraikan mereka sebelum kamu mencampurinya", maka kalian tidak memiliki hak 'Iddah atas mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2282</td></tr><tr><td>Arabic No</td><td>2282</td></tr><tr><td>Reference</td><td>Book 13 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн ‘Аббас, да будет доволен Аллах им и его отцом, о словах Всевышнего «Разведённые женщины должны выжидать в течение трёх менструаций» (сура 2 «аль-Бакара», аят 228) и «Для тех из ваших женщин, у которых прекратились менструации, если вы сомневаетесь, установленный для развода срок равен трём месяцам» (сура 65 «ат-Таляк», аят 4): «Из этого есть исключения». И он также прочитал: «Если вы вступаете в брак с верующими женщинами, а затем даёте им развод до того, как вы коснулись их, то они не обязаны перед вами выжидать срок» (сура 33 «аль-Ахзаб», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2282</td></tr><tr><td>Arabic No</td><td>2282</td></tr><tr><td>Reference</td><td>Book 13 Hadith 108</td></tr></tbody></table></div>
 

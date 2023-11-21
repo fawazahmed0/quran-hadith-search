@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:Some people of Bani Tamim came to the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Jami' bin Syaddad] dari [Shafwan bin Muhriz] dari ['Imran bin Hushain radliallahu 'anhu] berkata; "Datang rombongan orang dari Bani Tamim menemui Nabi shallallahu 'alaihi wasallam lalu Beliau berkata; "Wahai Bani Tamim, bergembiralah". Mereka berkata:; "Tuan telah memberikan kabar gembira kepada kami maka itu berilah kami (sesuatu) ". Seketika itu wajah Beliau berubah. Kemudian datang penduduk Yaman menemui Beliau, lalu Beliau berkata: "Wahai penduduk Yaman, terimalah kabar gembira jika Bani Tamim tidak mau menerimanya". Mereka berkata; "Kami siap menerimanya". Maka Nabi shallallahu 'alaihi wasallam mulai berbicara tentang penciptaan makhluq dan al-'Arsy. Tiba-tiba datang seseorang seraya berkata; "Wahai 'Imran, untamu hilang". Sayang sekali aku belum selesai mendengarkan apa yang Beliau sampaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3190</td></tr><tr><td>Arabic No</td><td>3190</td></tr><tr><td>Reference</td><td>Book 59 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн, да будет доволен Аллах ими обоими, сказал: «(Однажды) к Пророку ﷺ пришли несколько человек из (племени) бану тамим, и он сказал: “О бану тамим, радуйтесь благой вести!” Они сказали: “Ты порадовал нас, а теперь дай нам (что-нибудь)”, и(, услышав это, Пророк ﷺ) изменился в лице. А потом к нему явились люди из Йемена, и он сказал (им): “О йеменцы, примите радостную весть вы, ибо (люди из племени) бану тамим отвергли её!” — и они сказали: “Мы принимаем (её)”, после чего Пророк ﷺ начал рассказывать (им) о начале творения и престоле (Аллаха). В это время (к ним) подошёл какой-то человек и сказал: “О ‘Имран, убежала твоя верблюдица!” — (и я встал со своего места и ушёл), но лучше бы я не вставал!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3190</td></tr><tr><td>Arabic No</td><td>3190</td></tr><tr><td>Reference</td><td>Book 59 Hadith 1</td></tr></tbody></table></div>
 

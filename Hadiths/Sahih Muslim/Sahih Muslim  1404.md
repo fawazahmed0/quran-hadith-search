@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:The Apostle of Allah (ﷺ) used to offer the noon praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Muhammad bin Basyar], keduanya dari [Yahya Al Qatthan] dan [Ibnu Mahdi] (Dan diriwayatkan dari jalur lain) [Ibnul Mutsanna] mengatakan; telah menceritakan kepadaku [Yahya bin Said] dari [Syu'bah] dia berkata; telah menceritakan kepada kami [Simak bin Harb] dari [Jabir bin Samurah] (dan diriwayatkan dari jalur lain) [Ibnul Mutsanna] mengatakan; telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Syu'bah] dari [Simak] dari [Jabir bin Samurah] dia berkata; "Nabi shallallahu 'alaihi wasallam pernah shalat zhuhur ketika matahari telah condong dari tengah langit ke sebelah barat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>618</td></tr><tr><td>Reference</td><td>Book 5 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «Пророк ﷺ совершал полуденную молитву /зухр/, когда солнце уже отклонялось от точки зенита».Глава: Жалоба на (трудность совершения) молитвы на (пышущей) жаром раскалённой земле
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>618</td></tr><tr><td>Reference</td><td>Book 5 Hadith 238</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu al-Malih: On his father's authority (this is AbulWalid's version): 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Hammam]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Katsir] secara makna, telah mengabarkan kepada kami [Hammam] dari [Qatadah] dari [Abu Al Malih], Abu Al Walid berkata dari [Ayahnya], bahwa seorang laki-laki telah memerdekakan bagiannya dari seorang budak. Kemudian hal tersebut diceritakan kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Allah tidak memiliki sekutu." Ibnu Katsir menambahkan dalam haditsnya, "Kemudian Nabi shallallahu 'alaihi wasallam memperbolehkan untuk membebaskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3933</td></tr><tr><td>Arabic No</td><td>3933</td></tr><tr><td>Reference</td><td>Book 31 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-Малих передаёт от своего отца, что один человек освободил принадлежавшую ему долю раба и Пророк ﷺ узнав об этом, сказал: «У Аллаха нет сотоварищей». А в версии Ибн Касира говорится, что Пророк ﷺ сделал освобождение действительным
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3933</td></tr><tr><td>Arabic No</td><td>3933</td></tr><tr><td>Reference</td><td>Book 31 Hadith 8</td></tr></tbody></table></div>
 

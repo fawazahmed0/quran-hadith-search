@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:There is no transitive disease,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Abdullah bin Hasyim bin Hayyan]; Telah menceritakan kepada kami [Bahza]; Telah menceritakan kepada kami [Yazid] yaitu At Tustari; Telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada penyakit yang menular secara sendirian tanpa izin Allah, tidak ada hantu bergentayangan dan tidak ada shafar (penyakit perut) yang terjadi dengan sendirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5796</td></tr><tr><td>Arabic No</td><td>2222.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5796</td></tr><tr><td>Arabic No</td><td>2222.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 148</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Dihyah: Mansur al-Kalbi said: Dihyah ibn Khalifah once went out from a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Hammad], telah mengabarkan kepada kami [Al Laits bin Sa'd] dari [Yazid bin Abu Habib] dari [Abu Al Khair], dari [Manshur Al Kalbi] bahwa [Dahyah bin Khalifah] suatu kali keluar dari sebuah desa dari Damaskus menuju tempat yang berjarak seukuran menuju desa 'Uqbah di Al Fusthath, dan hal tersebut jaraknya adalah tiga mil, pada Bulan Ramadhan. Kemudian ia berbuka dan orang-orang pun berbuka berasamanya. Sementara yang lainnya tidak senang untuk berbuka. Kemudian tatkala telah kembali ke desanya ia berkata; demi Allah sungguh aku pada hari ini telah melihat suatu perkara yagn tidak aku sangka, aku melihat beberapa orang telah membenci petunjuk Rasulullah shallallahu 'alaihi wasallam dan para sahabatnya. Ia mengatakan hal tersebut kepada orang-orang yang berpuasa, kemudian pada saat itu ia berkata; ya Allah, matikan aku menuju kepadaMu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>2413</td></tr><tr><td>Reference</td><td>Book 14 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мансура аль-Кальби, что однажды Дихья ибн Халифа вышел из своего селения близ Дамаска, отправился в путь и прошёл расстояние, равное расстоянию между Фустатом и селением Укба. Это около трёх миль. Дело было в рамадане. Потом он разговелся, и некоторые люди разговелись вместе с ним, а другие не пожелали прерывать пост. Вернувшись в своё селение, Дихья сказал: «Клянусь Аллахом, я видел сегодня то, что никак не ожидал увидеть: люди не пожелали следовать сунне Посланника Аллаха ﷺ и его сподвижников». Говоря это, он имел в виду тех, кто отказался прерывать пост. А потом он сказал: «О Аллах, возьми меня к Себе!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>2413</td></tr><tr><td>Reference</td><td>Book 14 Hadith 101</td></tr></tbody></table></div>
 

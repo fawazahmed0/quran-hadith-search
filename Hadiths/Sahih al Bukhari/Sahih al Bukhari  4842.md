@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abdullah bin Al-Mughaffal Al-Muzani also said:"The Prophet (ﷺ) also forbade ur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 65 Hadith 363</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Укбы ибн Сухбана, что он слышал, как ‘Абдуллах ибн Мугъаффаль аль-Музани сказал: «Пророк ﷺ так же запретил мочится в местах купания, ведь затем это станет причиной наущений»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 65 Hadith 363</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mas’ud al-Badri reported the Messenger of Allah (ﷺ) as saying:The one of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid Ath-Thayalisi] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Isma'il bin Raja'] Saya telah mendengar [Aus bin Dlam'aj] telah menceritakan dari [Abu Mas'ud Al-Badri] berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Orang yang paling berhak menjadi imam shalat suatu kaum adalah yang paling pandai dalam Kitabullah (Al Quran) dan lebih dahulu membacanya. Jika dalam hal bacaan mereka sama, maka hendaklah yang menjadi imam orang yang lebih dahulu hijrah. Jika dalam hal hijrah mereka sama, maka hendaklah yang menjadi imam yang lebih tua, dan janganlah seseorang menjadi imam di rumah orang lain dan jangan pula ketika dalam kekuasaan orang lain, serta jangan pula dia duduk di tempat yang khusus untuk tuan rumah kecuali dengan izinnya." Syu'bah berkata; Saya katakan kepada Isma'il; Apakah tempat yang khusus itu? Dia menjawab; Yaitu kasurnya. Telah menceritakan kepada kami [Ibnu Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dengan hadits ini dan dia menyebutkan di dalamnya; Dan janganlah seseorang mengimami orang lain pada daerah kekuasaannya (wewenangnya). Abu Daud berkata; Dan begitu juga [Yahya Al Qathan] dari [Syu'bah]; Yang lebih dahulu bacaannya. Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami [Abdullah bin Numair] dari [Al-A'masy] dari [Isma'il bin Raja'] dari [Aus bin Dlam'aj Al-Hadhrami] dia berkata; Saya telah mendengar [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini, beliau bersabda: "Apabila mereka dalah hal bacaan sama, maka hendaklah yang paling mengetahui tentang sunnah. Dan apabila mereka dalam hal sunnah sama, maka hendaklah yang lebih dahulu hijrah." Dalam riwayat ini beliau dia tidak menyebutkan; Yang paling dahulu bacaannya. Abu Dawud berkata; Hadits ini juga diriwayatkan oleh [Hajjaj bin Arthaah] dari [Isma'il] dia menyebutkan; Dan janganlah dia duduk di tempat yang khusus bagi tuan rumah kecuali atas idzinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (673)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>582</td></tr><tr><td>Arabic No</td><td>582</td></tr><tr><td>Reference</td><td>Book 2 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Бадри сказал: «Посланник Аллаха ﷺ сказал: “(Во время молитвы) имамом для людей должен быть тот из них, кто лучше всех из них всех знает Книгу Аллаха, и раньше из них (научился его) читать. Если они равны (между собой) в этом, пусть их возглавляет тот, кто раньше всех из них совершил переселение, если же они равны между собой и в этом, то пусть имамом для них будет старший из них по возрасту. И не следует человеку становиться имамом для хозяина (в его) доме, и для того, кому принадлежит власть над чем-либо, как не следует ему и садиться (в его доме) на его почетное место, иначе как с его (хозяина) позволения”». Шу‘ба сказал: «Я спросил у Исма‘иля (ибн Раджаъ): “А что такое его почётное место?”. Он ответил: “Его ложе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (673)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>582</td></tr><tr><td>Arabic No</td><td>582</td></tr><tr><td>Reference</td><td>Book 2 Hadith 192</td></tr></tbody></table></div>
 

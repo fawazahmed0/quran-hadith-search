@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi], dari [Malik] dari [Ibnu Syihab] dari [Sulaiman bin Yasar] dari [Abdullah bin Abbas], ia berkata; Al Fadhl bin Abbas pernah membonceng Rasulullah shallAllahu wa'alaihi wa sallam, kemudian datang seorang wanita dari Khats'am yang bertanya kepada beliau; dan Al Fadhl melihat kepadanya, dan wanita tersebut melihat kepadanya. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam memalingkan wajah Al Fadhl ke sisi yang lain. Wanita tersebut berkata; wahai Rasulullah, sesungguhnya kewajiban yang Allah bebankan kepada para hambaNya untuk melakukan haji telah menjumpai ayahku yang tua renta, dan tidak mampu untuk duduk di atas kendaraan. Apakah aku boleh berhaji untuknya? Beliau mengatakan: "Ya." Dan hal tersebut di saat terjadinya haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1513) Sahih Muslim (1334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1809</td></tr><tr><td>Arabic No</td><td>1809</td></tr><tr><td>Reference</td><td>Book 11 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Аль-Фадль ибн ‘Аббас сидел в седле позади Пророка ﷺ и к ним подошла женщина из Хас‘ама, которая хотела задать Пророку ﷺ вопрос. Аль-Фадль стал смотреть на неё, а она на него. Тогда Посланник Аллаха ﷺ отвернул его лицо в другую сторону. Женщина сказала: “О Посланник Аллаха, обязанность совершать хадж, которую возложил Аллах на Своих рабов, застала моего отца глубоким стариком, и он не способен удержаться на верблюдице. Может, мне совершить хадж вместо него?” Он сказал: “Да”. Всё это произошло в прощальном хадже»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1513) Sahih Muslim (1334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1809</td></tr><tr><td>Arabic No</td><td>1809</td></tr><tr><td>Reference</td><td>Book 11 Hadith 89</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Az-Zubair:I said to 'Uthman bin 'Affan (while he was collecting the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Umayyah bin Bustham] Telah menceritakan kepada kami [Yazid bin Zurai'i] dari [Habib] dari [Ibnu Abu Mulaikah], [Ibnu Zubair] berkata; Aku bertanya kepada [Utsman bin Affan] mengenai ayat; Dan orang-orang yang mati di antara kamu serta meninggalkan istri-istri (Al Baqarah; 234). Dia menjawab; Ayat itu telah dinasakh dengan ayat yang lain. Lalu aku bertanya; kenapa kamu menulisnya atau membiarkannya. Dia menjawab; Wahai anak saudaraku, aku tidak akan merubahnya sedikitpun dari tempatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4530</td></tr><tr><td>Arabic No</td><td>4530</td></tr><tr><td>Reference</td><td>Book 65 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Зубайр сказал ‘Усману ибн ‘Аффану относительно аята «Если кто-либо из вас скончается и оставит после себя жён» (сура «аль-Бакара», аят 234): «Этот аят был аннулирован другим аятом, записать его или оставить?» ‘Усман ответил: «О сын моего брата! Я ничего не буду менять в нём (в Коране)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4530</td></tr><tr><td>Arabic No</td><td>4530</td></tr><tr><td>Reference</td><td>Book 65 Hadith 53</td></tr></tbody></table></div>
 

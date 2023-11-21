@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ According to the version of Al Nufaili, A’ishah said “The Prophet (ﷺ) used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], dan [Muhammad bin Isa], mereka berkata; telah menceritakan kepada kami [Abdussalam bin Harb], telah mengabarkan kepada kami [Al Laits bin Abu Sulaim], [Abdurrahman bin Al Qasim], dari [ayahnya] dari [Aisyah], An Nufaili berkata; Aisyah berkata; Rasulullah shallallahu 'alaihi wasallam melewati orang yang sedang sakit. Sementara beliau dalam keadaan sedang beri'tikaf, lalu beliau lewat dalam keadaan seperti itu tidak berbelok untuk bertanya mengenai orang tersebut. Ibnu Isa berkata; Aisyah berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam pernah mengunjungi orang yang sakit sementara beliau dalam keadaan beri'tikaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 14 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Пророк ﷺ навещал больного во время неотлучного пребывания в мечети /и‘тикаф/, однако не останавливался, чтобы расспрашивать о нём». Ибн Иса передаёт: «И она сказала, что Пророк ﷺ навещал больного во время и‘тикафа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 14 Hadith 160</td></tr></tbody></table></div>
 

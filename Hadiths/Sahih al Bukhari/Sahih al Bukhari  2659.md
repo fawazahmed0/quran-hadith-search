@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:That he had married Um Yahya bint Abu Ihab. He said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Abi Mulaikah] dari ['Uqbah bin Al Harits]. Dan diriwayatkan pula, telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] berkata, aku mendengar [Ibnu Abi Mulaikah] berkata, telah menceritakan kepadaku ['Uqbah bin Al Harits] atau aku mendengar darinya bahwa dia menikahi Ummu Yahya binti Ihab. Dia berkata: "Kemudian datang seorang sahaya wanita berkulit hitam lalu berkata: "Aku telah menyusui kalian berdua". Peristiwa ini aku ceritakan kepada Nabi shallallahu 'alaihi wasallam, namun Beliau berpaling dariku. Kemudian aku berbicara dengan bertatapan muka dengan Beliau lalu aku ceritakan lagi masalahku kepada Beliau, maka Beliau bersabda: "Mau bagaimana lagi, wanita itu telah mengungkapkannya atau dia telah menyusui kalian berdua". Maka Beliau melarang dari menikahinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>2659</td></tr><tr><td>Reference</td><td>Book 52 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Укъбы ибн аль-Хариса, что после его женитьбы на Умм Яхья бинт Абу Ихаб к нему пришла темнокожая женщина и сказала: «Поистине, я кормила грудью вас обоих!» (‘Укъба) сказал: «Я рассказал об этом Пророку ﷺ, но он отвернулся от меня. Я отошёл, а затем ещё раз упомянул ему об этом, и он ответил: “Как же (она может оставаться твоей женой), если она утверждает, что кормила вас обоих грудью?!”» Затем, Пророк ﷺ запретил ему оставаться с ней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>2659</td></tr><tr><td>Reference</td><td>Book 52 Hadith 23</td></tr></tbody></table></div>
 

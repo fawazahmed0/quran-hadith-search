@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:When there was a solar eclipse the Messenger of Allah (way p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Sufyan] dari [Habib] dari [Thawus] dari [Ibnu Abbas] ia berkata; Ketika terjadi gerhana matahari, Rasulullah shallallahu 'alaihi wasallam shalat (gerhana) dengan delapan kali ruku' dan empat kali sujud (dalam dua raka'at). Dan dari [Ali bin Abu Thalib] juga diriwayatkan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2111</td></tr><tr><td>Arabic No</td><td>908</td></tr><tr><td>Reference</td><td>Book 10 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда произошло солнечное затмение, Посланник Аллаха ﷺ совершил молитву (в два рак‘ата) с восемью поясными и четырьмя земными поклонами».От ‘Али также передают подобный (хадис)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2111</td></tr><tr><td>Arabic No</td><td>908</td></tr><tr><td>Reference</td><td>Book 10 Hadith 20</td></tr></tbody></table></div>
 

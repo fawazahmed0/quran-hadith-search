@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn 'Umar that the Messenger of Allah (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Hanzhalah] dari [Salim] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku melihat di sisi Ka'bah seorang laki-laki sawo matang, rambut terurai dalam keadaan meletakkan kedua tangannya pada dua orang laki-laki. Kepalanya mengucurkan atau meneteskan air, maka aku bertanya, 'Siapakah orang ini? ' Mereka menjawab, 'Isa putra Maryam atau al-Masih bin Maryam -Kami tidak mengetahui yang mana perkataan beliau itu-." Beliau bersabda lagi: 'Dan aku melihat di belakangnya seorang laki-laki berkulit merah, berambut keriting, buta sebelah kanan mirip orang yang pernah aku lihat, Ibnu Qathan. Lalu aku bertanya, 'Siapakah ini? ' Mereka menjawab, 'Al-Masih ad-Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>427</td></tr><tr><td>Arabic No</td><td>169.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 332</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Однажды (во сне) около Каабы я увидел смуглого человека с прямыми волосами, шедшего рядом с двумя людьми, с головы же его капала вода. Я спросил: “Кто это?“ (Люди) сказали: “’Иса сын Марьям (или: мессия /масих/, сын Марьям)”. А позади него я увидел румяного человека с курчавыми волосами, кривого на правый глаз. Больше всего из людей походил на него Ибн Катан. Я спросил: “Кто это?” (Мне) сказали: “Это Антихрист /аль-Масиху-д-Даджаль/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>427</td></tr><tr><td>Arabic No</td><td>169.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 332</td></tr></tbody></table></div>
 

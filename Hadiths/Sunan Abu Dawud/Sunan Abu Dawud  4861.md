@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn al-Faghwa' al-Khuza'i: The Messenger of Allah (ﷺ) called me. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin faris] berkata, telah menceritakan kepada kami [Nuh bin Yazid bin Sayyar Al Muaddib] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] ia berkata; [Ibnu Ishaq] menceritakannya kepadaku dari [Isa bin Ma'mar] dari [Abdullah bin Amru bin Al Faghwa Al Khuza'i] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memanggilku, beliau ingin mengutusku untuk membawa uang yang di berikan kepada Abu Sufyan agar dibagikan olehnya kepada penduduk Quraisy di Makkah setelah terjadinya penaklukan (penaklukan Makkah). Beliau bersabda: "Carilah seorang teman." Lalu datanglah Amru bin Umayyah Adh Dhamri kepadaku, ia bertanya, "Telah sampai berita kepadaku bahwa engkau ingin pergi dan membutuhkan seorang teman?" Aku menjawab, "Benar." Amru berkata, "Aku siap untuk menemanimu." Ia (perawi) berkata, "Aku lalu datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Aku telah mendapatkan seorang teman." Beliau bertanya: "Siapa." Aku menjawab, "Amru bin Umayyah Adh Dhamri." Beliau bersabda: "Jika engkau sampai di wilayahnya maka berhati-hatilah dengannya, sebab telah ada seseorang yang berkata, 'Saudaramu adalah Al Bikri' maka janganlah engkau percaya kepadanya." Maka kami pun berangkat hingga ketika aku sampai di daerah Al Abwa, ia berkata, "Aku ada kepentingan dengan kaumku di kampung, maka tunggulah aku." Aku menyahut, "Hati-hatilah." maka ketika ia telah berlalu pergi, aku teringat dengan ucapan Nabi shallallahu 'alaihi wasallam. Aku lalu menaiki untaku dan memacunya dengan cepat, hingga ketika aku sampai di daerah Ashafir, aku menjumpainya telah bersama serombongan orang. Aku kemudian kembali memaci untaku hingga dapat mendahuluinya. Ketika ia melihat aku telah mendahuluinya, mereka berlalu pergi. Amru bin Umayyah lalu mendatangiku seraya berkata, "Aku mempunyai keperluan dengan kaumku." Aku menjawab, "Benar." Lantas kami berangkat hingga sampai Makkah, lalu uang itu aku berikan kepada Abu Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
 

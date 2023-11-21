@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada al-Ansari reported:I saw the Apostle (ﷺ) leading the people in pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abi Umar] telah menceritakan kepada kami [Sufyan] dari [Utsman bin Abi Sulaiman] dan [Ibnu 'Ajlan] keduanya mendengar [Amir bin Abdullah bin az-Zubair] bercerita dari [Amru bin Sulaim az-Zuraqi] dari [Abu Qatadah al-Anshari] dia berkata, "Saya melihat Nabi Shallallahu'alaihiwasallam mengimami shalat orang-orang sambil menggendong Umamah binti Abu al-'Ash, bayi Zainab binti Muhammad Shallallahu'alaihiwasallam di atas pundak beliau. Apabila beliau rukuk maka beliau meletakkan bayi itu, dan apabila beliau berdiri dari sujud maka mengembalikannya (maksudnya menggendongnya kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1213</td></tr><tr><td>Arabic No</td><td>543.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Катада аль-Ансари сказал: «Я видел, как Пророк ﷺ совершал молитву с людьми, посадив на плечи Умаму бинт Абу аль-‘Ас, дочь своей дочери Зайнаб. Он опускал её (на землю), когда совершал поясной поклон, а когда поднимался после земного поклона, снова брал её (на руки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1213</td></tr><tr><td>Arabic No</td><td>543.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 53</td></tr></tbody></table></div>
 

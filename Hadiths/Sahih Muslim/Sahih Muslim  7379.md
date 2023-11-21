@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mughira b. Shu'ba reported that none asked Allah's Apostle (ﷺ) about Dajjal mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suraij bin Yunus] telah menceritakan kepada kami [Husyaim] dari [Isma'il] dari [Qais] dari [Al Mughirah bin Syu'bah] berkata: Tidak ada seorang pun yang lebih banyak bertanya tentang Dajjal kepada nabi Shallallahu 'alaihi wa Salam melebihiku. Beliau bertanya: "Apa pertanyaanmu?" aku berkata: Sesungguhnya mereka mengatakan bahwa bersamanya ada gunung dari roti, daging dan sungai dari air. Beliau bersabda: "Itu lebih mudah bagi Allah." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata: telah menceritakan kepada kami [Waki']. Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Jarir]. Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan]. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun]. Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepadaku [Abu Usamah], semuanya dari [Isma'il] dengan sanad ini seperti hadits Ibrahim bin Humaid dan ia menambahkan dalam hadits Yazid: Beliau bersabda padaku: "Wahai anakku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7379</td></tr><tr><td>Arabic No</td><td>2939.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7379</td></tr><tr><td>Arabic No</td><td>2939.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 140</td></tr></tbody></table></div>
 

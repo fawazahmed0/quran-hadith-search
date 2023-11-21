@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin 'Ubaida:Abu 'Abdur-Rahman who was one of the supporters of 'Ut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin 'Abdullah bin Hawsyab ath-Tha'iy] telah bercerita kepada kami [Husyaim] telah mengabarkan kepada kami [Hushain] dari [Sa'ad bin 'Ubaidah] dari [Abu Abdur Rahman,] salah seorang yang mengutamakan 'Utsman dari 'Ali) dia berkata kepada Ibnu 'Athiyah, salah seorang yang lebih mengutamakan 'Ali dari pada 'Utsman); "Sungguh aku adalah orang yang paling tahu tentang keberanian [sahabatmu] (maksudnya "Ali) dalam masalah (pertumpahan) darah, aku mendengar dia berkata; Nabi Shallallahu'alaihiwasallam mengutusku bersama Az Zubair lalu Beliau berkata; "Datangilah Raudhah -dalam redaksi lain Raudhah Khah-- dan temuilah di sana seorang wanita yang membawa surat yang diberikan oleh Hathib". Maka kami datangi lokasi Raudhah yang dimaksud lalu kami katakan; "Mana surat itu?". Wanita itu berkata: "Aku tidak bawa surat". Kami berkata: "Kamu keluarkan surat itu atau kami lucuti pakaianmu". Akhirnya dia mengeluarkan surat itu dari dalam tali ikat pinggangnya -dalam redaksi lain dalam sanggulnya--lalu surat itu dibawa ke hadapan Hathib. Hathib berkata: "Jangan terburu-buru bersikap kepadaku. Sungguh aku melakukan ini bukan karena kufur. Bahkan tidak bertambah sikapku terhadap Islam selain kecintaan. Ketahuilah bahwa tidak ada seorangpun dari sahabat Baginda melainkan mempunyai pembela di Makkah yang membela keluarga dan hartanya, sedangkan aku tidak memiliki seorangpun pembela. Maka itu aku ingin mengambil seseorang dari mereka sebagai pembela (diriku). Maka Nabi Shallallahu'alaihiwasallam membenarkan (menerima) alasan yang disampaikannya. Lalu 'Umar berkata: "Biarkan aku untuk memenggal batang leher orang ini karena dia telah berbuat nifaq (munafiq) ". Maka Beliau berkata: "Apakah kamu tidak tahu barangkali Allah telah melihat pejuang perang Badar, dan Dia berfirman: "Berbuatlah sesuka kalian, sungguh Aku telah mengampuni kalian". (Abu 'Abdur Rahman) berkata: "Itulah yang menjadikannya berani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3081</td></tr><tr><td>Arabic No</td><td>3081</td></tr><tr><td>Reference</td><td>Book 56 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Отправляя меня, а также аз-Зубайра, (с поручением), Пророк ﷺ сказал: “Поезжайте в такой-то сад. Там находится женщина, которой Хатыб дал письмо!” Прибыв в этот сад, мы сказали ей: “Доставай письмо!” Она сказала: “Он не давал мне его!” Тогда мы сказали: “Доставай письмо, а иначе мы разденем тебя!” и она вытащила его из своих волос. После этого Пророк ﷺ отправил за Хатыбом (и спросил его об этом). (В ответ ему Хатыб) сказал: “Не спеши (осуждать меня). Клянусь Аллахом, я не стал неверующим, и любовь к исламу у меня только увеличилась! У всех твоих сподвижников есть в Мекке те, кто с помощью кого Аллах защитит их семьи и имущество, а поскольку у меня среди (курайшитов) родственников нет, то я захотел сделать для них что-то, чтобы защитить своих близких!” (Выслушав его,) Пророк ﷺ поверил ему. ‘Умар же воскликнул: “Позволь мне отрубить ему голову, ведь он, поистине, проявил лицемерие!” (На это Пророк ﷺ) сказал: “Откуда тебе знать, может быть Аллах посмотрел на участников битвы при Бадре и сказал: “Делайте, что хотите!”?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3081</td></tr><tr><td>Arabic No</td><td>3081</td></tr><tr><td>Reference</td><td>Book 56 Hadith 285</td></tr></tbody></table></div>
 

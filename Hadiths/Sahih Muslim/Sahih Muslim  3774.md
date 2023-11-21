@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Sa'id b. Abu 'Aruba with the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ibnu Abi Arubah] dari [Qatadah] dari [An Nadlr bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang memerdekakan budak bagiannya (yang dimiliki secara bersama), maka ia harus memerdekakan dengan hartanya jika ia memiliki harta, jika ia tidak memiliki harta (untuk menebus bagian partnernya) maka budak tersebut dipekerjakan kepada partnernya sesuai dengan harga tebusannya tanpa memberatkannya." Dan telah menceritakan kepada kami ['Ali bin Khasyram] telah mengabarkan kepada kami [Isa yaitu Ibnu Yunus] dari [Sa'id bin Abi Arubah] dengan isnad ini, dengan menambahkan; "Jika ia tidak memiliki harta, maka budak tersebut harganya dinilai dengan harga yang adil, kemudian ia dipekerjakan kepada pemilik (yang tidak memerdekakan) nya tanpa memberatkannya." Telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [ayahku] dia berkata; Saya mendengar [Qatadah] menceritakan dengan isnad ini seperti makna hadits Abu Arubah dan disebutkan dalam hadits "(Harganya) dinilai dengan harga yang adil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3774</td></tr><tr><td>Arabic No</td><td>1503.02</td></tr><tr><td>Reference</td><td>Book 20 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3774</td></tr><tr><td>Arabic No</td><td>1503.02</td></tr><tr><td>Reference</td><td>Book 20 Hadith 5</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim bin Muhammad:Ibn 'Abbas; said, "Once Lian was mentioned before
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] ia berkata; Telah menceritakan kepadaku [Al Laits] dari [Yahya bin Sa'id] dari [Abdurrahman bin Al Qasim] dari [Al Qasim bin Muhammad] dari [Ibnu Abbas] bahwasanya; Suatu ketika li'an (suami-isteri menuduh berzina pasangannya) dibahas di sisi Nabi shallallahu 'alaihi wasallam. Maka Ashim bin Adi mengungkapkan sesuatu dalam masalah itu, kemudian ia beranjak pergi. Kemudian seorang laki-laki dari kaumnya datang dan mengadu padanya bahwa ia mendapati seorang laki-laki bersama isterinya. Maka Ashim berkata, "Aku belum pernah diuji dengan masalah ini kecuali karena kata-kataku sendiri." Akhirnya ia dan laki-laki itu pergi menemui Nabi shallallahu 'alaihi wasallam. Lalu laki-laki itu menuturkan apa yang terjadi pada isterinya. Laki-laki itu kurus dan berambut lurus. Sedangkan laki-laki yang dapati bersama isterinya adalah seorang laki-laki yang gemuk dan berkulit sawo matang. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Ya Allah berilah kejelasan." Lalu wanita itu melahirkan bayi yang cirinya seperti laki-laki yang dilukiskan suaminya, yang ia temukan bersama isterinya. Maka Nabi shallallahu 'alaihi wasallam meli'an antara keduanya. Seorang laki-laki berkata kepada Ibnu Abbas di dalam majelis; Itukah wanita yang Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekira aku boleh merajam seseorang dengan tanpa Bayyinah (saksi), niscaya aku akan merajam wanita ini?." Ibnu Abbas berkata; "Oh tidak, yang dimaksudkan wanita yang boleh dirajam tanpa bukti adalah wanita yang menyatakan secara terus terang (vulgar) perzinahannya, bukan wanita yang sekedar dituduh berzina" Abu Shalih dan Abdullah bin Yusuf Adam mengatakan bahwa makna Adam adalah Khadil (gemuk)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 68 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Касима ибн Мухаммада, что Ибн ‘Аббас рассказывал: «Однажды, когда в присутствие Пророка ﷺ было упомянуто взаимное проклятие /ли‘ан/, ‘Асым ибн ‘Ади что-то сказал об этом и ушёл. Затем к нему пришёл человек из его племени и пожаловался ему на то, что застал свою жену с другим мужчиной. ‘Асым сказал: “Я испытан этим только из-за того, что заговорил об этом!” Он отвёл этого человека к Пророку ﷺ и рассказал ему о том, как он застал свою жену. Это мужчина был бледным, худощавым и с ровными волосами, в то время как тот, о котором он заявил, что застал его вместе со своей женой был крупным, смуглым и мускулистым. Пророк ﷺ сказал: “О Аллах, сделай (этот вопрос) ясным!” После этого эта женщина родила ребенка, похожего на того мужчину, с которым, по словам её мужа, он застал её, и Пророк ﷺ велел им призвать проклятие друг на друга /ли‘ан/». \nОдин человек сказал Ибн ‘Аббасу: «Это та, о которой Пророк ﷺ сказал: “Если бы я и наказал кого-нибудь побиванием камнями без доказательства, то побил бы её камнями”?». Ибн ‘Аббас ответил: «Нет, та женщина открыто совершала мерзость в исламе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 68 Hadith 59</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:Mu'awiya came to Medina for the last time and del
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Amru bin Murrah] saya mendengar [Sa'id bin Musayyab] berkata; [Mu'awiyah] tiba di Madinah yaitu di akhir ia tiba di Madinah, kemudian dia berkhutbah di hadapan kami, sambil mengeluarkan sambungan rambut, katanya; "Saya tidak pernah melihat seorangpun yang mengenakan ini kecuali orang Yahudi dan sesungguhnya Nabi shallallahu 'alaihi wasallam menamakan ini dengan az zuur yaitu sambungan pada rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5938</td></tr><tr><td>Arabic No</td><td>5938</td></tr><tr><td>Reference</td><td>Book 77 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са’ид ибн Мусаййиб сказал: «Когда Му’авия прибыл в Медину в последний раз, он обратился к нам с проповедью, вытащил прядь волос и сказал: “Я не думал, что кто-то, кроме иудеев, делает подобное. И, поистине, Пророк ﷺ назвал это дело (т.е. наращивание волос) обманом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5938</td></tr><tr><td>Arabic No</td><td>5938</td></tr><tr><td>Reference</td><td>Book 77 Hadith 153</td></tr></tbody></table></div>
 

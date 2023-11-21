@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas bin Malik:A Jewess brought a poisoned sheep to the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib bin Arabi] berkata, telah menceritakan kepada kami [Khalid Ibnul Harits] berkata, telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] dari [Anas bin Malik] berkata, "Seorang wanita Yahudi datang kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa daging kambing yang telah diberi racun, lalu beliau memakannya. Setelah itu, wanita Yahudi tersebut dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam. beliau lantas menanyakan tentang hal tersebut, wanita itu menjawab, "Aku ingin membunuhmu!" beliau bersabda: "Allah tidak akan memberikan kemudahan bagimu untuk melakukan itu, atau beliau mengatakan, "untuk melakukan (hal itu) terhadapku." Para sahabat berkata, "Bagaimana jika kami membunuhnya saja?" beliau bersabda: "Jangan." Anas berkata, "Dan aku masih melihat sisa-sisa racun itu di tenggorokan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2617) Sahih Muslim (2190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4508</td></tr><tr><td>Arabic No</td><td>4508</td></tr><tr><td>Reference</td><td>Book 41 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что одна иудейка принесла Посланнику Аллаха ﷺ отравленную баранину и он отведал её. (Когда всё выяснилось), эту женщину привели к Посланнику Аллаха ﷺ и он спросил её об этом, и она сказала: «Я хотела убить тебя». Он же сказал: «Аллах не позволил тебе сделать это (или: сделать это со мной)». (Сподвижники) спросили: «Не казнить ли нам её?» Он сказал: «Нет». (Анас) сказал: «И я видел следы, оставшиеся на язычке Посланника Аллаха ﷺ от этой отравы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2617) Sahih Muslim (2190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4508</td></tr><tr><td>Arabic No</td><td>4508</td></tr><tr><td>Reference</td><td>Book 41 Hadith 15</td></tr></tbody></table></div>
 

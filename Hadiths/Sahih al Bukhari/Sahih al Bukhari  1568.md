@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Shihab:I left for Mecca for Hajj-at-Tamattu' assuming Ihram for 'Um
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Abu Sihab] berkata: "Aku menuju Makkah dengan berihram untuk 'umrah sebagai pelaksanaan hajji dengan tamattu'. Maka kami tiba tiga hari sebelum hari Tarwiyah. Maka orang-orang berkata, kepadaku: "Dari penduduk (rumah-rumah di) Makkah maka hajjimu sekarang sebagai orang Makkah". Kemudian aku menemui ['Atho'] untuk meminta fatwa darinya. Maka dia berkata; Telah menceritakan kepada saya [Jabir bin 'Abdullah radliallahu 'anhua] bahwa dia pernah melaksanakan hajji bersama Nabi shallallahu 'alaihi wasallam ketika Beliau menggiring hewan qurbannya ketika orang-orang sudah berihram untuk haji secara ifrad, maka Beliau berkata, kepada mereka: "Halalkanlah ihram kalian ketika sudah thowaf di Baitulloh dan sa'iy antara bukit Ash-Shafa dan Al Marwah dan memotong rambut dan tinggalah (di Makkah) dalam keadaan halal hingga apabila tiba hari Tarwiyah berihramlah untuk hajji dan jadikan apa yang sudah kalian lakukan dari manasik ini sebagai pelaksanaan hajji dengan tamattu'. Mereka bertanya: "Bagaimana kami menjadikannya sebagai tamattu' sedang kami sudah meniatkannya sebagai ihram hajji?". Maka Beliau berkata: "Laksanakanlah apa yang aku perintahkan kepada kalian. Seandainya aku tidak membawa hewan qurban tentu aku akan melaksanakan seperti yang aku perintahkan kepada kalian. Akan tetapi tidak halal bagiku apa-apa yang diharamkan selama ihram ini hingga hewan qurban sudah sampai pada tempat sembelihannya (pada hari nahar) ". Maka orang-orang melaksanakannya". Berkata, Abu 'Abdullah Al Buklhoriy: "Abu Syihab tidak memiliki sanad selain jalan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 25 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Я (отправился) в хадж вместе с Пророком ﷺ в тот день, когда он погнал с собой верблюдов. Люди вступили в состояние ихрама с намерением совершить только хадж, но потом (Пророк ﷺ) сказал им: “Когда совершите обход Каабы и бег между (холмами) ас-Сафа и аль-Марва и укоротите волосы, выходите из состояния ихрама и живите как обычно, а когда настанет день ат-тарвийа, (снова) вступите в состояние ихрама с намерением совершить хадж и сделайте то, с чем вы пришли, умрой”. (Люди) спросили: “Как же мы сделаем это умрой, когда мы уже назвали это хаджем?” (Пророк ﷺ) сказал: “Делайте то, что я вам велел, ибо я и сам обязательно сделал бы то, что велел (сделать) вам, если бы не гнал с собой скот, однако я не могу выйти из состояния ихрама, пока этот скот не достигнет места своего назначения”, и они сделали (то, что им было велено)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 25 Hadith 54</td></tr></tbody></table></div>
 

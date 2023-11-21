@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:I said, "O Allah's Messenger (ﷺ)! Good and bad persons enter up
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Humaid] dari [Anas] dia berkata; [Umar radliallahu 'anhu] berkata; "Ya Rasulullah, di antara yang menemui engkau ada yang baik ada juga yang jahat, maka alangkah baiknya sekiranya engkau menyuruh para ummul mukminin memakai hijab. Maka Allah pun menurunkan ayat hijab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4790</td></tr><tr><td>Arabic No</td><td>4790</td></tr><tr><td>Reference</td><td>Book 65 Hadith 312</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что ‘Умар, да будет доволен им Аллах, сказал: «О Посланник Аллаха, к тебе приходят и благочестивые, и нечестивые, (и было бы хорошо,) если бы ты велел матерям правоверных (говорить с посторонними из-за) занавески», после чего Аллах ниспослал аят о занавесе (хиджаб)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4790</td></tr><tr><td>Arabic No</td><td>4790</td></tr><tr><td>Reference</td><td>Book 65 Hadith 312</td></tr></tbody></table></div>
 

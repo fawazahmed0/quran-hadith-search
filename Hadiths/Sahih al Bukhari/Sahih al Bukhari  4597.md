@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'"Except the weak ones" (4.98) and added: My mother was one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] Telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Ibnu Abu Mulaikah] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata mengenai firman Allah: "Kecuali mereka yang tertindas baik laki-laki atau wanita." (An Nisa: 98). Ibnu Abbas berkata; Ibuku termasuk orang yang mendapatkan udzur dari Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4597</td></tr><tr><td>Arabic No</td><td>4597</td></tr><tr><td>Reference</td><td>Book 65 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас сказал: «“Это не относится только к тем слабым…” — моя мать были из числа тех, кого оправдал Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4597</td></tr><tr><td>Arabic No</td><td>4597</td></tr><tr><td>Reference</td><td>Book 65 Hadith 119</td></tr></tbody></table></div>
 

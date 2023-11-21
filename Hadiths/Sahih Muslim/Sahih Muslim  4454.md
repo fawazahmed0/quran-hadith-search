@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Apostle (ﷺ) gave a beating with palm branc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [ayahku] dari [Qatadah] dari [Anas bin Malik], bahwa Nabi Allah shallallahu 'alaihi wasallam pernah mendera terhadap orang yang meminum khamer dengan pelepah kurma dan terompah (sebanyak empat puluh kali), kemudian (masa pemerintahan) Abu Bakar juga menderanya sebanyak empat puluh kali. Ketika pemerintahannya Umar, maka orang-orang semakin banyak yang tinggal di daerah pelosok-pelosok dan di daerah pedesaan. Karena itu Umar bertanya, "Bagaimana pendapat kalian mengenai hukuman dera bagi peminum khamer?" maka Abdurrahman bin Auf berkata, "Aku berpendapat bahwa seringan-ringannya hukuman adalah delapan puluh kali dera." Anas berkata, "Lantas Umar melaksanakan hukuman dera sebanyak empat puluh kali." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Hisyam] dengan isnad seperti ini." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Hisyam] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah mendera peminum khamer dengan menggunakan terompah dan pelepah kurma sebanyak empat puluh kali. Kemudian dia menyebutkan seperti hadits keduanya, dan dia tidak menyebutkan, "Daerah pelosok-pelosok dan daerah pedesaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4454</td></tr><tr><td>Arabic No</td><td>1706.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4454</td></tr><tr><td>Arabic No</td><td>1706.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 57</td></tr></tbody></table></div>
 

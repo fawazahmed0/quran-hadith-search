@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:During the last Hajj (Hajj-al-Wada') of Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] bahwa [Ibnu'Umar radliallahu 'anhuma] berkata; Rasulullah Shallallahu'alaihiwasallam melaksanakan hajji tamattu saat hajii wada' dengan dengan menggabungkan niat (berihram) 'umrah dan hajjinya dan Beliau membawa hewan qurban. Beliau menggiring hewan qurbannya dari Dzul Hulaifah lalu Beliau memulai berihram dengan niat 'umrah lalu berihram untuk hajji. Sedangkan orang-orang berhajji tamattu' bersama Nabi Shallallahu'alaihiwasallam dengan niat ihram 'umrah untuk pelaksanaan hajji mereka. Diantara mereka ada yang membawa hewan qurban dan ada yang tidak membawa hewan qurban. Ketika Nabi Shallallahu'alaihiwasallam tiba di Makkah, Beliau berkata, kepada orang banyak: "Barangsiapa dari kalian yang membawa hewan qurban maka baginya tidak halal suatu apapun yang diharamkan baginya hingga dia menyelesaikan seluruh manasik hajjinya dan siapa dari kalian yang tidak membawa hewan qurban hendaklah dia thawaf di Ka'bah Baitullah dan sa'iy antara bukit Shafaa dan Marwah kemudian dia memotong rambutnya lalu bertahallul. Kemudian dia berihram untuk hajji. Dan siapa yang tidak memiliki hewan qurban hendaklah dia shaum (puasa) selama tiga hari pada masa pelaksanaan hajji dan tujuh hari jika telah kembali kepada keluarganya. Sesuatu yang harus dilakukannya ketika tiba di Makkah adalah thawaf mencium Ar-Rukun (Al Hajar Al Aswad) yang thawaf nya itu dengan berjalan cepat pada tiga putaran dan berjalan biasa pada empat putaran lainnya, kemudian setelah menyelesaikan thawaf nya di Ka'bah Baitullah itu supaya dia shalat dua raka'at dibelakang maqam Ibrahim, kemudian salam dan setelah selesai hendaklah dia menuju bukit Ash-Shafaa lalu melaksanakan sa'iy antara bukit Shafaa dan Marwah tujuh putaran, lalu tidak menghalalkan apa yang diharamkan baginya hingga menyelesaikan manasaik hajjinya dan menyembelih hewan qurban pada hari Nahar. Setelah itu dia bertolak menuju Makkah, lalu thawaf, maka menjadi halallah segala sesuatu yang sebelumnya diharamkan baginya. Maka mereka yang berqurban dan membawa hewan qurban melakukan seperti yang Rasulullah Shallallahu'alaihiwasallam lakukan". Dan dari ['Urwah] bahwa ['Aisyah radliallahu 'anha] mengabarkannya dari Nabi Shallallahu'alaihiwasallam dalam pelaksanaan haji tamattu' dengan niat 'umrah dalam pelaksanaan hajji Beliau, maka orang-orang berhajji tamattu' bersama Beliau sebagaimana yang dikabarkan kepadaku oleh Salim dari Ibnu'Umar radliallahu 'anhuma dari Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>1691</td></tr><tr><td>Reference</td><td>Book 25 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Во время прощального паломничества Посланник Аллаха ﷺ совершил и умру, и хадж, принеся в жертву скот, который он пригнал с собой из Зуль-Хулейфы. Посланник Аллаха ﷺ начал с того, что вошёл в состояние ихрама для совершения умры и хаджа, и люди поступили так же. Некоторые из них пригнали скот с собой, другие же скот не гнали, а когда Пророк ﷺ прибыл в Мекку, он сказал людям: “Тот из вас, кто пригнал с собой жертвенный скот, не должен делать ничего запретного для него до завершения хаджа, те же, кто не гнал с собой скот, пусть совершат обход Каабы и (ритуальный бег между холмами) ас-Сафа и аль-Марва, укоротят волосы и выйдут из состояния ихрама, а потом пусть снова войдут в него для совершения хаджа. И пусть тот, кто не сумеет найти животного для жертвоприношения, постится три дня во время хаджа и ещё семь дней, когда вернётся домой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>1691</td></tr><tr><td>Reference</td><td>Book 25 Hadith 170</td></tr></tbody></table></div>
 

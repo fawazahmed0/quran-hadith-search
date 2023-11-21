@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A similar tradition has been transmitted by 'Aishah through a different chain of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Yahya bin Sa'id], dari [Hisyam] ia berkata; telah mengabarkan kepadaku [ayahku] telah menceritakan kepadanya [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam dikafani dalam tiga kain dari Yaman yang berwarna putih, tidak ada padanya jubah dan sorban. Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hafsh] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] seperti itu, ia menambahkan; dari Kursuf (kapas). Ia berkata; kemudian diceritkan kepada Aisyah ucapan mereka mengenai dua kain dan burdah hibarah (pakaian Yaman yang bergaris-garis dari kapas). Kemudian Aisyah berkata; telah didatangkan pakaian burdah akan tetapi mereka menolaknya dan tidak mengkafani beliau padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1271) Sahih Muslim (941)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3152</td></tr><tr><td>Arabic No</td><td>3152</td></tr><tr><td>Reference</td><td>Book 21 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От ‘Аиши, да будет доволен ею Аллах, передаётся похожий хадис с добавлением: «…из полотна». Передатчик сказал, что ‘Аише напомнили о словах людей: «В двух одеждах и полотняных накидках», и она сказала: «Полотняные накидки принесли, однако они вернули их и не стали использовать их в качестве савана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1271) Sahih Muslim (941)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3152</td></tr><tr><td>Arabic No</td><td>3152</td></tr><tr><td>Reference</td><td>Book 21 Hadith 64</td></tr></tbody></table></div>
 

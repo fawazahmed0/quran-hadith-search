@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm al-Fadl reported:A bedouin came to Allah's Apostle (ﷺ) when he was in my h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Amru An Naqid] serta [Ishaq bin Ibrahim] semuanya dari [Al Mu'tamir] sedangkan lafazhnya dari Yahya, telah mengabarkan kepada kami [Al Mu'tamir bin Sulaiman] dari [Ayyub] yang menceritakan dari [Abu Khalil] dari [Abdullah bin Al Harits] dari [Ummu Al Fadll] dia berkata; Seorang arab badui datang kepada Nabiyullah shallallahu 'alaihi wasallam, ketika itu beliau berada di rumahku, orang itu berkata; "Wahai Nabiyullah, sesungguhnya saya mempunyai istri kemudian saya menikah lagi, saya mengira bahwa istriku yang pertama pernah menyusui istriku yang kedua dengan satu kali atau dua kali hisapan?" Maka Nabiyullah shallallahu 'alaihi wasallam bersabda: "Tidak menjadikan mahram kalau hanya sekali atau dua kali hisapan." Dalam riwayatnya Amru mengatakan; Dari Abdullah bin Harits bin Naufal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3591</td></tr><tr><td>Arabic No</td><td>1451.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3591</td></tr><tr><td>Arabic No</td><td>1451.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 24</td></tr></tbody></table></div>
 

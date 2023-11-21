@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), comme les compagnons du Prophète 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali Al Jahzhami] telah menceritakan kepada kami [Khalid bin Al Harits] berkata, telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] dari [Qatadah] bahwa [Anas bin Malik] telah menceritakan kepada mereka, dia berkata, "Ketika turun ayat: '(Sesungguhnya kami telah memberikan kepadamu kemenangan yang nyata, supaya Allah memberikan ampunan kepadamu terhadap dosamu -hingga firmanNya- dengan pertolongan yang kuat (banyak).' (Qs. Al Fath: 1-3), ketika itu mereka baru pulang dari Hudaibiyyah dengan diliputi perasaan jengkel dan kesal, padahal mereka telah menyembelih binatang kurban. Maka beliau bersabda: "Sungguh telah turun kepadaku suatu ayat yang lebih aku cintai daripada dunia dan isinya." Dan telah menceritakan kepada kami ['Ashim bin An Nadlr At Taimi] telah menceritakan kepada kami [Mu'tamir] dia berkata; aku mendengar [ayahku] telah menceritakan kepada kami [Qatadah] dia berkata; aku pernah mendengar [Anas bin Malik]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Hammam] (dalam jalur lain disebutkan) telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban] semuanya dari [Qatadah] dari [Anas] sebagaimana hadits Ibnu Abu 'Arubah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4637</td></tr><tr><td>Arabic No</td><td>1786.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4637</td></tr><tr><td>Arabic No</td><td>1786.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 119</td></tr></tbody></table></div>
 

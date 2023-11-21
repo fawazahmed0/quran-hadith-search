@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:that he differed with Hur bin Qais bin Hisn Al-Fazari regard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Qasim Khalid bin Khali] -seorang hakim di Himshi-, dia berkata; telah menceritakan kepada kami [Muhammad bin Harb] berkata, Telah menceritakan kepada kami [Al Auza'i] telah mengabarkan kepada kami [Az Zuhri] dari ['Ubaidullah bin Abdullah bin 'Utbah bin Mas'ud] dari [Ibnu 'Abbas] bahwasanya dia dan Al Hurru bin Qais bin Hishin Al Fazari berdebat tentang sahabat Musa 'Alaihis salam, Ibnu 'Abbas berkata; dia adalah Khidlir 'Alaihis salam. Tiba-tiba lewat Ubay bin Ka'b di depan keduanya, maka Ibnu 'Abbas memanggilnya dan berkata: "Aku dan temanku ini berdebat tentang sahabat Musa 'Alaihis salam, yang ditanya tentang jalan yang akhirnya mempertemukannya, apakah kamu pernah mendengar Nabi shallallahu 'alaihi wasallam menceritakan masalah ini?" [Ubay bin Ka'ab] menjawab: Ya, benar, aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika Musa di tengah pembesar Bani Israil, datang seseorang yang bertanya: apakah kamu mengetahui ada orang yang lebih pandai darimu?" Berkata Musa 'Alaihis salam: "Tidak". Maka Allah Ta'ala mewahyukan kepada Musa 'Alaihis salam: "Ada, yaitu hamba Kami bernama Hidlir." Maka Musa 'Alaihis Salam meminta jalan untuk bertemu dengannya. Allah menjadikan ikan bagi Musa sebagai tanda dan dikatakan kepadanya; "jika kamu kehilangan ikan tersebut kembalilah, nanti kamu akan berjumpa dengannya". Maka Musa 'Alaihis Salam mengikuti jejak ikan di lautan. Berkatalah murid Musa 'Alaihis salam: "Tahukah kamu tatkala kita mencari tempat berlindung di batu tadi? Sesungguhnya aku lupa (menceritakan tentang) ikan itu dan tidaklah yang melupakan aku untuk menceritakannya kecuali setan". Maka Musa 'Alaihis Salam berkata:."Itulah (tempat) yang kita cari". Lalu keduanya kembali, mengikuti jejak mereka semula. Maka akhirnya keduanya bertemu dengan Hidlir 'Alaihis salam." Begitulah kisah keduanya sebagaimana Allah ceritakan dalam Kitab-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 3 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба о том, что ‘Убайдуллах ибн ‘Абдуллах ибн ‘Утба ибн Мас‘уд рассказывал: «Однажды Ибн ‘Аббас поспорил с аль-Хурром ибн Къайс ибн Хисн аль-Фазáри насчет товарища Мусы, и когда мимо них проходил Убай ибн Ка‘б, Ибн ‘Аббас позвал его, и сказал: «Поистине, мы поспорили с этим моим товарищем относительно товарища Мусы, с которым он хотел встретиться и просил указать дорогу к нему. Слышал ли ты, чтобы Пророк ﷺ упоминал об этом?» Убай сказал: «Да, я слышал как Пророк ﷺ рассказывал об этом и говорил: «Когда Муса был в собрании сынов Исраиля, к нему подошёл человек и спросил: «Знаешь ли ты кого-нибудь, кто знает больше тебя?» Муса ответил: «Нет». Тогда Аллах внушил ему откровение: «Это не так! (Есть) Наш раб Хадир». (Муса) попросил показать ему путь к нему, и Аллах сделал для него знамением рыбу. И (Мусе) было сказано: «Когда ты потеряешь рыбу, то вернись, и поистине, ты встретишь его». Муса ﷺ следил за рыбой у моря. Затем слуга Мусы сказал ему: «Помнишь, как мы укрылись под скалой? Я забыл о рыбе, и только сатана заставил меня забыть о ней». Муса сказал: «Это — то, чего мы желали!» Они вдвоем вернулись назад по своим следам. И они нашли Хадира, а потом с ними произошло всё, о чём рассказал Аллах в Своей Книге»»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 3 Hadith 20</td></tr></tbody></table></div>
 

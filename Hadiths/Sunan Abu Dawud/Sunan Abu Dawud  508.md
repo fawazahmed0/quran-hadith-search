@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas reported; Bilal was commanded to pronounce Adhan in double pairs and IQAMAH
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Abdurrahman bin Al-Mubarak] mereka berdua berkata; Telah menceritakan kepada kami [Hammad] dari [Simak bin 'Athiyyah] -dari jalur lain-, Dan telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] semuanya dari [Ayyub] dari [Abu Qilabah] dari [Anas] dia berkata; Bilal diperintahkan supaya menggenapkan kalimat adzan dan mengganjilkan kalimat iqamat. Hammad menambahkan di dalam hadits riwayatnya; Kecuali iqamat. Telah menceritakan kepada kami [Humaid bin Mas'adah] telah menceritakan kepada kami [Isma'il] dari [Khalid Al-Hadzdza'] dari [Abu Qilabah] dari [Anas] semisal hadits riwayat Wuhaib, Isma'il berkata; Saya telah menceritakan hadits ini kepada Ayyub, maka dia mengatakan; Kecuali iqamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (605) Sahih Muslim (378)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>508</td></tr><tr><td>Arabic No</td><td>508</td></tr><tr><td>Reference</td><td>Book 2 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Билялу было велено (повторять слова) азана чётно, а икъамы нечётное число раз».Хаммад привел к своему хадису дополнение: «Кроме икъамы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (605) Sahih Muslim (378)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>508</td></tr><tr><td>Arabic No</td><td>508</td></tr><tr><td>Reference</td><td>Book 2 Hadith 118</td></tr></tbody></table></div>
 

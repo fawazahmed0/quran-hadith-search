@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The deeds of anyone of you w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Sa'id Al Maqburi] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Salah seorang dari kalian tidak akan dapat diselamatkan oleh amalnya, " maka para sahabat bertanya; 'Tidak juga dengan engkau wahai Rasulullah? ' Beliau menjawab: 'Tidak juga saya, hanya saja Allah telah melimpahkan rahmat-Nya kepadaku. Maka beramallah kalian sesuai sunnah dan berlakulah dengan imbang, berangkatlah di pagi hari dan berangkatlah di sore hari, dan (lakukanlah) sedikit waktu (untuk shalat) di malam hari, niat dan niat maka kalian akan sampai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6463</td></tr><tr><td>Arabic No</td><td>6463</td></tr><tr><td>Reference</td><td>Book 81 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Никого не спасут дела его». (Люди) спросили: «И даже тебя, о Посланник Аллаха?» (Пророк ﷺ) сказал: «И даже меня, если только Аллах не окажет мне (Свою) милость(, а поэтому) придерживайтесь правильного, и приближайтесь, и (занимайтесь делами поклонения) утром, вечером и (некоторое время) ночью — так мало-помалу вы достигнете (цели)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6463</td></tr><tr><td>Arabic No</td><td>6463</td></tr><tr><td>Reference</td><td>Book 81 Hadith 52</td></tr></tbody></table></div>
 

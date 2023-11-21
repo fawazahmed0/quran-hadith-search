@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) sent for a Ansari man who c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami [An Nadlr] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Al Hakam] dari [Dzakwan Abu Shalih] dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam mengirim seorang utusan kepada seorang laki-laki Anshar. Maka laki-laki Anshar itu pun datang sementara kepalanya basah. Lalu Nabi shallallahu 'alaihi wasallam bertanya: "Sepertinya kami telah membuat kamu tergesa-gesa?" Laki-laki Anshar itu menjawab, "Benar." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Jika kamu dibuat tergesa-gesa atau tertahan (tidak mengeluarkan mani), maka cukup bagimu berwudlu." Hadits ini dikuatkan juga oleh [Wahhab] ia berkata, telah menceritakan kepada kami [Syu'bah]. Abu 'Abdullah berkata, riwayat [Ghundar] dan [Yahya] dari [Syu'bah] tidak menyebutkan 'wudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>180</td></tr><tr><td>Arabic No</td><td>180</td></tr><tr><td>Reference</td><td>Book 4 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что как-то раз Посланник Аллаха ﷺ послал за одним человеком из числа ансаров, и когда он явился, (мы увидели, что) с головы его стекают капли воды. Пророк ﷺ сказал: «Очевидно, мы заставили тебя поторопиться». Toт сказал: «Да». Тогда Посланник Аллаха ﷺ сказал: «Если тебя поторопили или же ты не испустил семя во время сношения, тебе следует совершить омовение /вудуъ/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>180</td></tr><tr><td>Arabic No</td><td>180</td></tr><tr><td>Reference</td><td>Book 4 Hadith 46</td></tr></tbody></table></div>
 

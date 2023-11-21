@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I bought Barira (a female slave). The Prophet (ﷺ) said (to me)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] mengatakan; aku membeli Barirah, Nabi shallallahu 'alaihi wasallam bersabda: "belilah ia, dan wala' milik orang yang memerdekakannya." kemudian Barirah diberi hadiah seekor kambing, dan Nabi bersabda: "Kambing itu baginya sedekah dan bagi kita sebagai hadiah." Al Hakam mengatakan; 'Ketika itu suami Barirah orang merdeka.' Ucapan Al Hakam ini mursal, dan Ibnu Abbas mengatakan; 'setahu saya dia budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6751</td></tr><tr><td>Arabic No</td><td>6751</td></tr><tr><td>Reference</td><td>Book 85 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказал: «Когда я (захотела) купить Бариру, Пророк ﷺ сказал: “Купи её, ведь право наследовать вольноотпущенника /аль-уаля/ принадлежит тому, кто освободил его”. Когда же Барире дали мясо барана, Пророк ﷺ сказал: “Для неё это милостыня, а для нас — подарок”».\nАль-Хакам (один из передатчиков) сказал: «Её муж был свободным человеком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6751</td></tr><tr><td>Arabic No</td><td>6751</td></tr><tr><td>Reference</td><td>Book 85 Hadith 28</td></tr></tbody></table></div>
 

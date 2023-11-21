@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:The Messenger of Allah (ﷺ) said to the deputation of 'Abd al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Nuh bin Qais] telah menceritakan kepada kami [Abdullah bin 'Aun] dari [Muhammad bin Sirin] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda kepada delegasi Abdul Qais: "Aku melarang kalian dari An naqir, Al muqayyar, Al hantam, Ad dubba'dan Al Muzaffat. Akan tetapi minumlah pada tempat air minum kalian, dan ikatlah dengan tali!" Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Qatadah] dari [Ikrimah] dan [Sa'id bin Al Musayyab] dari [Ibnu Abbas] mengenai kisah delegasi Abdul Qais. Mereka berkata, "Pada apakah kami boleh minum wahai Nabi Allah? Nabi shallallahu 'alaihi wasallam bersabda: "Hendaknya kalian minum dari tempat minum dari kulit yang ditutup dan diikat dengan tali pada bagian mulutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 27 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал делегации племени ‘абдулькайс: «Я запрещаю вам пользоваться следующими сосудами: накыр, мукаййар, хантам, дубба, а также бурдюком с отрезанным горлышком. Пей из своего обычного бурдюка и завязывай его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 27 Hadith 25</td></tr></tbody></table></div>
 

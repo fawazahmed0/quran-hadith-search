@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud (Allah be pleased with him) reported that the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata, telah mengabarkan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [Abdullah] radliallahu 'anhu, dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Sesungguhnya Bilal itu adzan pada malam hari, maka makan dan minumlah kalian hingga kalian mendengar adzan Ibnu Ummi Maktum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2536</td></tr><tr><td>Arabic No</td><td>1092.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2536</td></tr><tr><td>Arabic No</td><td>1092.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 42</td></tr></tbody></table></div>
 

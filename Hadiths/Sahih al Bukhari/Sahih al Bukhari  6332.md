@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi 'Aufa:Whenever a man brought his alms to the Prophet, the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] dari ['Amru yaitu Ibnu Murrah] saya mendengar [Ibnu Abu Aufa] radliallahu 'anhuma; "Apabila seseorang memberikan sedekah kepada Nabi shallallahu 'alaihi wasallam, maka beliau akan berdo'a: 'ALLAHUMMA SHALLI 'ALAA AALI FULAN (Ya Allah, berikanlah kesejahteraan kepada keluarga fulan).' Tidak lama kemudian, ayahku memberikan (sedekah) kepada beliau, lalu beliau bersabda: 'ALLAHUMMA SHALLI 'ALAA AALI ABI AUFA (Ya Allah, limpahkanlah kesejahteraan kepada keluarga Abu Aufa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6332</td></tr><tr><td>Arabic No</td><td>6332</td></tr><tr><td>Reference</td><td>Book 80 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн Абу Ауфа рассказывает: «Когда кто-то приносил Пророку ﷺ закят, он говорил: “О Аллах, благослови семейство такого-то!” И когда мой отец принёс ему свой закят, он сказал: “О Аллах, благослови семейство Абу Ауфа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6332</td></tr><tr><td>Arabic No</td><td>6332</td></tr><tr><td>Reference</td><td>Book 80 Hadith 29</td></tr></tbody></table></div>
 

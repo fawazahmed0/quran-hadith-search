@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) would say the takbi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Ibnu Lahi'ah] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam shalat Iedul Fithri dan Adha dan biasa takbir tujuh kali pada raka'at pertama dan lima kali pada raka'at kedua." telah menceritakan kepada kami [Ibnu As Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Ibnu Lahi'ah] dari [Khalid bin Yazid] dari [Ibnu Syihab] dengan sanad dan maksud yang sama, katanya; "Selain takbir untuk ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1149</td></tr><tr><td>Arabic No</td><td>1149</td></tr><tr><td>Reference</td><td>Book 2 Hadith 760</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что, когда Посланник Аллаха ﷺ совершал молитву в праздник разговения и праздник жертвоприношения, он совершал в первом рак‘ате семь такбиров, а во втором пять
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1149</td></tr><tr><td>Arabic No</td><td>1149</td></tr><tr><td>Reference</td><td>Book 2 Hadith 760</td></tr></tbody></table></div>
 

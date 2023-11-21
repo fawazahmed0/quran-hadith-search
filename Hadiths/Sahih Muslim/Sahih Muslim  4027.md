@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported on the authority of his father (Allah be pleased with him) that A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Waki'] telah menceritakan kepada kami [Handlalah bin Abu Sufyan] dari [Salim] dari [Ayahnya] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa memelihara anjing selain anjing untuk berburu atau menjaga hewan ternak, maka amalnya akan dikurangi dua qirath setiap hari." [Salim] berkata, " [Abu Hurairah] menambahkan, 'Atau anjing untuk menjaga tanaman. Sedangkan Abu Hurairah adalah pemilik kebun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4027</td></tr><tr><td>Arabic No</td><td>1574.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4027</td></tr><tr><td>Arabic No</td><td>1574.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 66</td></tr></tbody></table></div>
 

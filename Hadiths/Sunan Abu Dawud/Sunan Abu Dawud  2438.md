@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) as saying: There is no virtue m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Waki'], telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih], dan [Mujahid], serta [Muslim Al Bathin] dari [Sa'id bin Jubair] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada hari, amal shalih padanya yang lebih Allah cintai daripada sepuluh hari (Dzul Hijjah)." Mereka berkata; wahai Rasulullah, tidak pula berjihad di jalan Allah? Beliau berkata: "Tidak pula berjihad di jalan Allah, kecuali seorang laki-laki yang keluar dengan jiwa dan hartanya kemudian tidak kembali membawa sesuatupun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (969)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2438</td></tr><tr><td>Arabic No</td><td>2438</td></tr><tr><td>Reference</td><td>Book 14 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Дела, совершаемые в эти дни, Аллах любит больше, чем дела, совершаемые в любые другие дни», имея в виду первые десять дней зу-ль-хиджжи. Люди спросили: «О Посланник Аллаха, это касается и борьбы на пути Аллаха?» Посланник Аллаха ﷺ сказал: «Это касается и борьбы на пути Аллаха, если только речь не идёт о человеке, который вышел с жизнью и имуществом и лишился и того, и другого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (969)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2438</td></tr><tr><td>Arabic No</td><td>2438</td></tr><tr><td>Reference</td><td>Book 14 Hadith 126</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham reported on the authority of his father that 'A'isha said in connection w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdah bin Sulaiman] dari [Hisyam] dari [ayahnya] [Aisyah] tentang firmanNya: "Dan barangsiapa yang miskin, maka bolehlah ia makan harta itu menurut yang patut." (An Nisaa': 6) Aisyah berkata: (ayat ini) turun tentang wali hartanya anak yatim yang menjaganya dan memperbaikinya, ia boleh makan darinya jika membutuhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7533</td></tr><tr><td>Arabic No</td><td>3019.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7533</td></tr><tr><td>Arabic No</td><td>3019.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 11</td></tr></tbody></table></div>
 

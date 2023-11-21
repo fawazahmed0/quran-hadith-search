@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Jahsh:That the Prophet (ﷺ) once came to her in a state of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] bahwa [Zainab binti Abu Salamah] bercerita kepadanya dari [Ummu Habibah binti Abu Sufyan] dari [Zainab binti Jahsy radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam datang kepadanya dengan gemetar sambil berkata: "Laa ilaaha illallah, celakalah bangsa Arab karena keburukan yang telah dekat, hari ini telah dibuka benteng Ya'juj dan Ma'juj seperti ini". Beliau memberi isyarat dengan mendekatkan telunjuknya dengan jari sebelahnya. Zainab binti Jahsy berkata, Aku bertanya; "Wahai Rasulullah, apakah kita akan binasa sedangkan di tengah-tengah kita banyak orang-orang yang shalih?". Beliau menjawab: "Ya, benar jika keburukan telah merajalela
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3346</td></tr><tr><td>Arabic No</td><td>3346</td></tr><tr><td>Reference</td><td>Book 60 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зайнаб бинт Джахш, да будет доволен ею Аллах, что однажды к ней зашёл охваченный страхом Пророк ﷺ, который воскликнул: «Нет бога, достойного поклонения, кроме Аллаха! Горе арабам от зла, которое уже близко! Сегодня в стене Йаджуджа и Маджуджа было проделано вот такое отверстие!» — и соединил большой и указательный пальцы в виде круга. Зайнаб бинт Джахш сказала: «Я спросила: “О Посланник Аллаха, так неужели погибнем и мы, несмотря на то, что среди нас будут праведники?” Он сказал: “Да, если пороки умножатся!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3346</td></tr><tr><td>Arabic No</td><td>3346</td></tr><tr><td>Reference</td><td>Book 60 Hadith 21</td></tr></tbody></table></div>
 

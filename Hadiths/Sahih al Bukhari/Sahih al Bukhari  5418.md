@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) said, "Many men reached perfectio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah Al Jamali] dari [Murrah Al Hamdani] dari [Abu Musa Al Asy'ari] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Kaum laki-laki yang sempurna sudah sekian banyak, namun dari kaum wanita tidak ada yang sempurnya kecuali Maryam binti Imran dan Asiyah isteri Fir'aun. Dan keutamaan Aisyah atas seluruh wanita adalah seperti keutamaan bubur atas semua jenis makanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5418</td></tr><tr><td>Arabic No</td><td>5418</td></tr><tr><td>Reference</td><td>Book 70 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы аль-Аш‘ари, что Пророк ﷺ сказал: «Многие из мужчин отличались совершенством, а среди женщин никто не достиг его, кроме Марйам, дочери ‘Имрана и Асийи, жены фараона. (Что же касается) превосходства ‘Аиши над (другими) женщинами, то оно подобно превосходству сарида над прочими (видами) еды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5418</td></tr><tr><td>Arabic No</td><td>5418</td></tr><tr><td>Reference</td><td>Book 70 Hadith 46</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: I said to the Prophet (ﷺ): Your old and astray uncl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Abu Ishaq] dari [Nahiyah bin Ka'b] dari [Ali] 'alaihis salam, ia berkata; aku katakan kepada Nabi shallallahu 'alaihi wasallam; sesunguhnya paman anda adalah orang tua yang sesat (Abu Thalib) telah meninggal. Beliau bersabda: "Pergilah dan kuburkan ayahmu, kemudian janganlah engkau mengadakan sesuatu hingga aku datang kepadamu!" kemudian aku datang dan telah menguburkannya kemudian datang kepadanya. Lalu beliau memerintahkanku untuk mandi, lalu aku mandi dan mendoakanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>3214</td></tr><tr><td>Reference</td><td>Book 21 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, передаёт: «Я сказал Пророку ﷺ: “Поистине, твой дядя, заблудший старец, скончался”. Он сказал: “Иди и похорони своего отца, а потом ничего не предпринимай, пока не придёшь ко мне”. И я похоронил его, а потом пришёл, и он велел мне совершить большое омовение, после чего обратился к Аллаху с мольбами за меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>3214</td></tr><tr><td>Reference</td><td>Book 21 Hadith 126</td></tr></tbody></table></div>
 

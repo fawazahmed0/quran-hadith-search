@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said :I heard the Messenger of Allah (May peace be upon him) say : 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Abu Salamah bin 'Abdurrahman] mengabarkan kepadanya bahwa [Abu Hurairah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah orang yang paling berhak dengan diri Isa bin Maryam, para Nabi adalah saudara, dan antara aku dengan Isa tidak ada seorang Nabi pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3442) Sahih Muslim (2365)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4675</td></tr><tr><td>Arabic No</td><td>4675</td></tr><tr><td>Reference</td><td>Book 42 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры: «Я слышал, как Посланник Аллаха ﷺ сказал: “Я ближе всех людей к (‘Исе) сыну Марьям. Пророки единокровные братья, и между мной и им не было пророков”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3442) Sahih Muslim (2365)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4675</td></tr><tr><td>Arabic No</td><td>4675</td></tr><tr><td>Reference</td><td>Book 42 Hadith 80</td></tr></tbody></table></div>
 

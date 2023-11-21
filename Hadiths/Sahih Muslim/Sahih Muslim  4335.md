@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported that a person who had no other property emancipated six
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr As Sa'di] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu 'Ulayah- dari [Ayyub] dari [Abu Qilabah] dari [Abu Al Muhallab] dari [Imran bin Hushain], bahwa ada seorang laki-laki yang memerdekakan enam orang budak miliknya ketika dia akan meninggal dunia, sedangkan dia tidak memiliki yang lain selain keenam budak tersebut. Lantas Rasulullah shallallahu 'alaihi wasallam memanggil keenam budak tersebut, lalu membagi mereka ke dalam tiga kelompok kemudian mengundinya. Setelah itu beliau memerdekakan dua orang, sedangkan empat orang yang lainnya masih tetap menjadi seorang budak. Dan beliau juga menyalahkan pemilik budak tersebut." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] dari [At Tsaqafi] keduanya dari [Ayyub] dengan isnad ini. Hadits Hamamd mirip seperti riwayat Ibnu 'Ulayah, sedangkan dalam hadits At Tsaqafi disebutkan, bahwa seorang laki-laki Anshar menjelang kematiannya memberi wasiat untuk memerdekakan enam orang budak miliknya…." Dan telah menceritakan kepada kami [Muhammad bin Minhal Adl Dlarir] dan [Ahmad bin 'Abdah] keduanya berkata; telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Hisyam bin Hasan] dari [Muhammad bin Sirin] dari ['Imran bin Hushain] dari Nabi shallallahu 'alaihi wasallam seperti hadits Ibnu 'Ulayyah dan Hammad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4335</td></tr><tr><td>Arabic No</td><td>1668.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4335</td></tr><tr><td>Arabic No</td><td>1668.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 82</td></tr></tbody></table></div>
 

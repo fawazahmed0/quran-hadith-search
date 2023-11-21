@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. al-'As reported:When the sun eclipsed during the lifetime of the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abu Nadlr] telah menceritakan kepada kami [Abu Mu'awiyah] ia adalah Syaiban An Nahwi, dari [Yahya] dari [Abu Salamah] dari [Abdullah bin Amru bin Ash] -dalam jalur lain- Dan telah menceritakan kepada kami [Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Yahya bin Hassan] telah menceritakan kepada kami [Mu'awiyah bin Sallam] dari [Yahya bin Abu Katsir] ia berkata, telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dari kabar [Abdullah bin Amru bin Ash] bahwa ia berkata; Ketika terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka diserukanlah (kepada kaum muslimin) dengan seruan, "ASH SHALAATU JAAMI'AH (Marilah kita menunaikan shalat jama'ah)." Maka Rasulullah shallallahu 'alaihi wasallam ruku' dua raka'at dalam satu kali sujud, kemudian beliau berdiri lalu ruku' lagi dua raka'at dalam satu kali sujud. Setelah itu matahari sudah kembali normal, maka Aisyah pun berkata, "Saya sama sekali tidak pernah melakukan ruku' dan tidak pula sujud yang lebih panjang darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>910</td></tr><tr><td>Reference</td><td>Book 10 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «Когда при жизни Посланника Аллаха ﷺ произошло солнечное затмение, было возглашено: “Общая молитва!” Посланник Аллаха ﷺ совершил два поясных поклона в рак‘ате, затем встал и совершил два поясных поклона (во втором) рак‘ате, после этого затмение закончилось. ‘Аиша сказала: “Я никогда не совершала такого долгого поясного и земного поклона”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>910</td></tr><tr><td>Reference</td><td>Book 10 Hadith 22</td></tr></tbody></table></div>
 

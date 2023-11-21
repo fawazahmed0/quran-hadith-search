@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu Sa'id Al-Khudri added that the Prophet (ﷺ) further said:"I will say those 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Abu Hazim] mengatakan aku mendengar [Sahal bin Sa'd] mengatakan, aku mendengar Nabi Shallallahu'alaihiwasallam bersabda; "Aku manusia pertama-tama diantara kalian yang menuju telaga, barangsiapa mendatanginya, maka tak akan haus selama-lamanya, sungguh beberapa orang menemuiku yang aku mengenal mereka dan juga mereka mengenalku, lantas tiba-tiba aku dan mereka terhalang." [Abu Hazim] mengatakan; dan [Nu'man bin Abi 'Ayyasy] mendengar aku ketika aku sedang menceritakan kepada mereka hadits ini, lantas ia bertanya kepadaku; 'kamu mendengar dari [Sahal] ' Kujawab; 'Iya.' Ia katakan; 'Dan saya bersaksi kepada [Abu Sa'id Al Khudzri], sungguh aku mendengarnya dengan tambahan redaksi; "Mereka adalah dari ummatku' lantas ada suara yang menjawab; kamu tidak tahu perubahan yang mereka lakukan sepeninggalmu! Sehingga aku berkata; 'Celaka,, celaka bagi siapa saja yang mengganti agama sepeninggalku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7051</td></tr><tr><td>Arabic No</td><td>7051</td></tr><tr><td>Reference</td><td>Book 92 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Са‘д, да будет доволен им Аллах, передаёт, что он слышал как Пророк ﷺ сказал: «Я раньше вас приду к водоёму, и кто подойдёт к нему, тот выпьет из него, а кто выпьет из него, никогда не почувствует после этого жажды. Ко мне придут люди, которых я узнаю, и которые узнают меня, и затем разъединят между мной и ними».\nАбу Хазим сказал: «Мои слова, когда я рассказывал им этот хадис, услышал ан-Ну‘ман ибн Абу ‘Аййаш и сказал: “Ты слышал это от Сахля?” Я сказал: “Да”. Он сказал: “Я свидетельствую за Абу Са‘ида ал-Худри, что слышал, как он дополнил этот хадис словами: “Воистину, они из нас”. Но мне будет сказано: “Ты не знаешь, что они изменили после тебя”. Тогда я скажу: “Прочь, прочь те, кто изменил (религию) после меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7051</td></tr><tr><td>Arabic No</td><td>7051</td></tr><tr><td>Reference</td><td>Book 92 Hadith 4</td></tr></tbody></table></div>
 

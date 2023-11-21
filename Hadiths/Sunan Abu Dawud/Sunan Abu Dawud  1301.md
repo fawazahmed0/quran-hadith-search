@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) used to prolong the re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin Abdurrahman Al Jarjara'i] telah menceritakan kepada kami [Thalq bin Ghanam] telah menceritakan kepada kami [Ya'qub bin Abdullah] dari [Ja'far bin Abu Al Mughirah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa memanjangkan bacaan di dua raka'at (shalat sunnah) setelah Maghrib sehingga orang-orang dalam masjid bubar." Abu Daud berkata; "Telah di riwayatkan pula oleh [Nahsr Al Mujaddar] dari [Ya'qub Al Qummi] dengan mensanadkan seperti hadits di atas. Abu Daud berkata; telah menceritakan kepada kami [Muhammad bin Isa bin Ath Thaba'] telah menceritakan kepada kami [Nashr Al Mujaddar] dari [Ya'qub] seperti hadits di atas. Telah menceritakan kepada kami [Ahmad bin Yunus] dan [Sulaiman bin Daud Al 'Ataki] keduanya berkata; telah menceritakan kepada kami [Ya'qub] dari [Ja'far] dari [sa'id bin Jubair] dari Nabi shallallahu 'alaihi wasallam dengan maksud yang sama, secara mursal. Abu Daud berkata; aku mendengar Muhammad bin Humaid berkata; aku mendengar Ya'qub berkata; "Setiap (hadits) yang aku sampaikan kepada kalian dari Ja'far bin Mughirah dari Sa'id bin Jubair dari Nabi shallallahu 'alaihi wasallam adalah musnad (bersambung) dari Ibnu Abbas dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1301</td></tr><tr><td>Arabic No</td><td>1301</td></tr><tr><td>Reference</td><td>Book 5 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ долго читал аяты в двух рак‘атах после закатной молитвы, пока находившиеся в мечети не расходились
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1301</td></tr><tr><td>Arabic No</td><td>1301</td></tr><tr><td>Reference</td><td>Book 5 Hadith 52</td></tr></tbody></table></div>
 

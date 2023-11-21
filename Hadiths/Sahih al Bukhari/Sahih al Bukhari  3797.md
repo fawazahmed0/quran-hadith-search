@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:Allah's Messenger (ﷺ) came to us while we were digging the trenc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin 'Ubaidullah] telah bercerita kepada kami [Ibnu Abu Hazim] dari [bapaknya] dari [Sahal] berkata, Rasulullah shallallahu 'alaihi wasallam datang kepada kami ketika kami sedang menggali parit dan mengangkut tanah di atas punggung-punggung kami (pada perang Khandaq). Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, tidak ada kehidupan yang hakiki melainkan kehidupan akhirat. (Ya Allah), ampunilah kaum Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 63 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль сказал: «Посланник Аллаха ﷺ пришёл к нам, когда мы копали ров и переносили землю на своих спинах, и сказал: “О Аллах, нет жизни, кроме жизни в мире ином, прости же ансаров и мухаджиров!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 63 Hadith 22</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit bin Ad-Dahhak:The Prophet (p.b.u.h) said, "Whoever intentionally
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Khalid] dari [Abu Qalabah] dari [Tsabit bin Adh-Dhahhak radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Barangsiapa yang bersumpah setia dengan agama selain Islam secara dusta dan sengaja, maka dia seperti apa yang dikatakannya, dan barangsiapa membunuh dirinya sendiri dengan besi, maka dia akan disiksa di dalam nereka Jahanam". Dan berkata, Hajjaj bin Minhal telah menceritakan kepada kami Jarir bin Hazim dari Al Hasan telah menceritakan kepada kami Jundab radliallahu 'anhu: "Didalam masjid ini tidak akan kami lupakan dan kami tidak takut bahwa Jundab akan berdusta atas nama Nabi Shallallahu'alaihiwasallam, dia berkata,: "Pernah ada seorang yang terluka lalu dia bunuh diri maka Allah Shallallahu'alaihiwasallam berfirman: "HambaKu mendahului aku dalam hal nyawanya sehingga aku haramkan baginya surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1363</td></tr><tr><td>Arabic No</td><td>1363</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сабита ибн ад-Даххака, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если кто-нибудь намеренно даст ложную клятву, поклявшись не исламом, а какой-нибудь другой религией, значит, он и (в самом деле) является таким, как (он сам себя) назвал, а если кто-нибудь лишит себя жизни с помощью куска железа, то его будут мучить этим в пламени геенны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1363</td></tr><tr><td>Arabic No</td><td>1363</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

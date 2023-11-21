@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zirr bin Hubaish:I asked Ubai bin Ka'b regarding the two Muwwidhat (Sur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Sufyan] dari [Ashim] dan [Abdah] dari [Zirr bin Hubaisy] ia berkata; Aku pernya bertanya kepada [Ubbay bin Ka'ab] mengenai Al Mu'awwidzatain, maka ia pun menjawab; Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam, lalu aku pun memperoleh jawaban. Maka aku pun berkata, "Kalau begitu, kami akan mengatakan sebagaimana apa yang telah dikatakan oleh Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4976</td></tr><tr><td>Arabic No</td><td>4976</td></tr><tr><td>Reference</td><td>Book 65 Hadith 498</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зирр бин Хубайш, да будет доволен им Аллах, сказал:\n— Я спросил Убаййа бин Ка‘ба о сурах “Рассвет” и “Люди”, и он сказал: «Я задал (такой же) вопрос Посланнику Аллаха ﷺ и он сказал: “(Они) были ниспосланы мне, и я (передал их людям)”, а мы читаем их, как читал Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4976</td></tr><tr><td>Arabic No</td><td>4976</td></tr><tr><td>Reference</td><td>Book 65 Hadith 498</td></tr></tbody></table></div>
 

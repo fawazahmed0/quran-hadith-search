@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Allah's Messenger (ﷺ) bought from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Ali bin Khasyram] keduanya berkata; telah mengabarkan kepada kami [Isa bin Yunus] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah membeli makanan dari seorang Yahudi, lalu beliau menggadaikan baju besinya (sebagai jaminan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4115</td></tr><tr><td>Arabic No</td><td>1603.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4115</td></tr><tr><td>Arabic No</td><td>1603.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 154</td></tr></tbody></table></div>
 

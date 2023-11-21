@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Mu'adh b. Jabal that the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar], [Ibnu al-Mutsanna] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Hushain] dan [al-Asy'ats bin Sulaim] bahwa keduanya mendengar [al-Aswad bin Hilal] menceritakan dari [Mu'adz bin Jabal] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Mu'adz, apakah kamu mengetahui apa hak Allah atas hamba?" Mu'adz menjawab, 'Allah dan Rasul-Nya lebih mengetahui.' Beliau bersabda: "Yaitu Allah disembah tanpa dengan tidak menyekutukan-Nya dengan sesuatu pun." Beliau lalu bersabda lagi: "Lalu apa hak manusia atas Allah jika mereka melakukan itu?" Mu'adz menjawab, "Allah dan Rasul-Nya lebih tahu." Beliau lalu bersabda: "Allah tidak akan menyiksanya." Telah menceritakan kepada kami [al Qasim bin Zakariya] telah menceritakan kepada kami [Husain] dari [Zaidah] dari [Abu Hushain] dari [al Aswad bin Hilal] ia berkata; aku mendengar [Mua'dz] berkata, "Rasulullah shallallahu 'alaihi wasallam memanggilku, lalu aku menjawabnya. Beliau bertanya: "Apa hak Allah atas manusia…seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>30.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Му‘аз ибн Джабаль сказал: «(Однажды, когда) Посланник Аллаха ﷺ сказал, и между мной и им не было ничего, кроме задней части седла, он сказал:“О Му’аз, известно ли тебе, какое право Аллаха должны соблюдать рабы Его?” Я сказал: “Аллах и Его посланник знают об этом лучше”. (Тогда) он сказал: “Им следует поклоняться Ему (одному), не придавая ничего Ему в сотоварищи”. Затем он сказал: “А известно ли тебе, что в праве ожидать рабы Аллаха, если они будут это совершать?” Я сказал: “Аллах и Его посланник знают об этом лучше”. И он сказал: “То, что Он не станет подвергать их мучениям”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>30.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 52</td></tr></tbody></table></div>
 

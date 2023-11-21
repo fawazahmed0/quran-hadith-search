@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said; When the Messenger of Allah (May peace be upon him) intended to tak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali Al-Bahili] telah menceritakan kepada kami [Muhammad bin Abi Adi] telah menceritakan kepada saya [Sa'id] dari [Abu Ma'syar] dari [An-Nakha'i] dari [Al-Aswad] dari [Aisyah] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam hendak mandi junub, beliau memulai dengan membasuh kedua telapak tangan, kemudian membasuh pangkal tangannya, membersihkan bagian sela-selanya dan menuangkan air kepadanya. Sesudah membersihkan kedua telapak tangannya, lalu beliau menggosok-gosokkanyya ke dinding. Kemudian berwudhu dan menuangkan air ke atas kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ хотел купаться из-за осквернения, он начинал с рук и мыл их. Затем он мыл промежности, обливал себя водой. А после того, как почистит их (руки), он протягивал их и вытирал о стену. Затем он принимался за омовение и наливал воду на голову»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
 

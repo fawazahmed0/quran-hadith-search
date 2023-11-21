@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aishah:The Prophet (ﷺ) sent my brother, 'Abdur Rahman with me to Tan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>1516</td></tr><tr><td>Reference</td><td>Book 25 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ послал с ней её брата ‘Абдуррахмана, и он повёз её на вьючном седле (верблюда) совершать ‘умру с Тан‘има. ‘Умар сказал: «Готовьте седла (будьте готовы) для того, чтобы отправиться в хадж, так как это (хадж) один из двух видов джихада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>1516</td></tr><tr><td>Reference</td><td>Book 25 Hadith 4</td></tr></tbody></table></div>
 

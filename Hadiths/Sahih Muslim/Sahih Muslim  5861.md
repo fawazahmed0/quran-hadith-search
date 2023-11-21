@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There was a dog moving ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku [Jarir bin Hazim] dari [Ayyub As Sakhtiyani] dari [Muhammad bin Sirin] dari [Abu Hurairah] Rasulullah shallallahu 'alaihi wasallam: "Pada suatu ketika ada seekor anjing mengelilingi sebuah sumur. Anjing itu hampir mati kehausan. Tiba-tiba dia terlihat oleh seorang wanita pelacur dari bangsa Israil. Maka dia membuka sepatu botnya. Kemudian dia menciduk air dengan sepatunya, lalu anjing itu diberi minum. Karena hal itu Allah Subhanahu Wa Ta'ala mengampuni dosa-dosa wanita itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5861</td></tr><tr><td>Arabic No</td><td>2245.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5861</td></tr><tr><td>Arabic No</td><td>2245.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 212</td></tr></tbody></table></div>
 

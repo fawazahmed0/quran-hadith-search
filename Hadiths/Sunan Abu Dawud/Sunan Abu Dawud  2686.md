@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: Ibrahim said: Ad-Dahhak ibn Qays intended to appoi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Al Husain Ar Raqqi], ia berkata; telah menceritakan kepada kami [Abdullah bin Ja'far Ar Raqqi], ia berkata; telah mengabarkan kepadaku ['Ubaidullah bin 'Amr], dari [Zaid bin Abu Unaisah] dari ['Amr bin Murrah] dari [Ibrahim], ia berkata; [Adh Dhahhak bin Qais] berkeinginan untuk memberikan jabatan kepada Masruq, kemudian 'Umarah bin 'Uqbah berkata kepadanya; apakah engkau akan memberikan jabatan kepada orang yang merupakan diantara sisa pembunuh Utsman? Maka Masruq berkata kepadanya; telah menceritakan kepada kami [Abdullah bin Mas'ud], ia menurut kami adalah orang yang dipercaya haditsnya, bahwa Nabi shallallahu 'alaihi wasallam tatkala hendak membunuh ayahmu beliau berkata; siapakah yang akan mengurus anak ini? Beliau berkata; api. Aku telah ridha sebagaimana keridhaan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2686</td></tr><tr><td>Arabic No</td><td>2686</td></tr><tr><td>Reference</td><td>Book 15 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2686</td></tr><tr><td>Arabic No</td><td>2686</td></tr><tr><td>Reference</td><td>Book 15 Hadith 210</td></tr></tbody></table></div>
 

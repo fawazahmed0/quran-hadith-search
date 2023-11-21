@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Az-Zubair:I said to 'Uthman, "This Verse which is in Surat-al-Baqar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abu Al Aswad] Telah menceritakan kepada kami [Humaid bin Al Aswad] dan [Yazid bin Zurai'i] keduanya berkata; Telah menceritakan kepada kami [Habib bin Syahid] dari [Ibnu Abu Mulaikah] dia berkata; [Ibnu Zubair] berkata; Aku bertanya kepada [Utsman] tentang ayat yang terdapat dalam surah Al Baqarah yaitu: Dan orang-orang yang mati di antara kamu serta meninggalkan istri-istri, -hingga ayat-; 'tanpa keluar rumah. (Al Baqarah; 234). Dia menjawab; Ayat itu telah dinasakh dengan ayat yang lain. Lalu aku bertanya; kenapa kamu menulisnya? Dia menjawab; Wahai anak saudaraku, apakah kamu akan meninggalkannya? aku tidak akan merubahnya sedikitpun dari tempatnya. Humaid berkata; atau perkataan yang serupa dengan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4536</td></tr><tr><td>Arabic No</td><td>4536</td></tr><tr><td>Reference</td><td>Book 65 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Зубайр сказал: «Однажды я сказал ‘Усману: “Этот аят в суре аль-Бакара “Если кто-либо из вас скончается и оставит после себя жён” (сура “аль-Бакара”, аят 234) до слов “…и не прогоняли” (сура “аль-Бакара”, аят 240) отменил другой аят, так почему же мы его пишем (в мусхаф)?” Он ответил: “Запиши его, о сын моего брата! Я ничего не буду менять в нём (в Коране)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4536</td></tr><tr><td>Arabic No</td><td>4536</td></tr><tr><td>Reference</td><td>Book 65 Hadith 59</td></tr></tbody></table></div>
 

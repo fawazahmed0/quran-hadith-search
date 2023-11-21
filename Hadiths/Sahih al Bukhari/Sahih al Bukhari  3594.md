@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "A time will come when the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 61 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, да будет доволен им Аллах, что Пророк ﷺ сказал: «Наступит для людей такое время, когда группа людей отправится в военный поход и (их) спросят: “Есть ли среди вас такие, кто был сподвижником Посланника Аллаха ﷺ?” — и (они) ответят: “Да”, и им будет дарована победа. Потом наступит (другое) время, и (отправившихся в военный поход) спросят: “Есть ли среди вас такие, кто встречался со сподвижниками Посланника Аллаха ﷺ?” — и (они) ответят: “Да”, и им будет дарована победа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 61 Hadith 101</td></tr></tbody></table></div>
 

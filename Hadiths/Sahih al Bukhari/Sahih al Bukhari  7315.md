@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A woman came to the Prophet (ﷺ) and said, "My mother vowed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibn Abbas], bahwa seorang wanita menemui Nabi shallallahu 'alaihi wasallam dan berujar, "Ibuku bernadzar untuk haji, hanya terburu meninggal dunia, bolehkah aku menggantikan hajinya?" Nabi shallallahu 'alaihi wasallam menjawab: "Silahkan, berhajilah engkau untuk menggantikannya, bukankah engkau sependapat sekiranya ibumu mempunyai hutang, bukankah engkau yang melunasi?" Wanita itu menjawab, "Ya." Lantas Nabi berkata: "Penuhilah hutang Allah, sebab Allah lebih berhak untuk dilunasi hutangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7315</td></tr><tr><td>Arabic No</td><td>7315</td></tr><tr><td>Reference</td><td>Book 96 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что (однажды) к Пророку ﷺ пришла какая-то женщина и сказала: «Поистине, моя мать дала обет совершить хадж, но умерла, так и не совершив его. Могу ли я совершить этот хадж за неё?» (Пророк ﷺ) сказал: «Да, соверши хадж за неё. Скажи, если бы у твоей матери остался долг, разве ты не заплатила бы его?» Она сказала: «Да». Тогда Пророк ﷺ сказал: «Платите же долги Аллаху, ибо Он больше всех достоин (того, чтобы с Ним) рассчитывались сполна!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7315</td></tr><tr><td>Arabic No</td><td>7315</td></tr><tr><td>Reference</td><td>Book 96 Hadith 46</td></tr></tbody></table></div>
 

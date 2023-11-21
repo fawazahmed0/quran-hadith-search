@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin:We were proceeding to Mecca along with the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Husain bin Al Junaid Ad Damaghani], telah menceritakan kepada Kami [Abu Usamah], ia berkata; telah mengabarkan kepadaku [Umar bin Suwaid Ats Tsaqafi], ia berkata; [Aisyah binti Thalhah] telah menceritakan kepadaku bahwa [Aisyah] ummul mukminin radliallahu 'anha telah menceritakan kepadanya, ia berkata; Kami pernah keluar bersama Nabi shallallahu 'alaihi wasallam ke Mekkah, dan Kami membalut kening Kami dengan minyak wangi ketika berihram, apabila salah seorang daintara Kami berkeringat maka mengalir ke wajahnya, kemudian Nabi shallallahu 'alaihi wasallam melihatnya dan beliau tidak melarang Kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 11 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мать верующих ‘Аиша, да будет доволен ею Аллах, передаёт: «Мы отправились вместе с Пророком ﷺ в Мекку и перед вступлением в состояние ихрама, нанесли себе на лоб немного благовоний. И стоило одной из нас вспотеть, как эти благовония стекали по её лицу, и Пророк ﷺ видел это, но не запрещал нам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 11 Hadith 110</td></tr></tbody></table></div>
 

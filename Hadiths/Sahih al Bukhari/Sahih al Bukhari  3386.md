@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "O Allah! Save 'Aiyyash bin A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah bercerita kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam memanjatkan doa: "ALLOOHUMMA ANJI 'AYYASY BIN RABI'AH, ALLOOHUMMA ANJI SALAMATA BIN HISYAM, ALLOOHUMMA ANJI ALWALIDA BIN ALWALID, ALLOOHUMMA ANJILMUSTADH'AFIINA MINAL MUKMINIINA, ALLOOHUMMA USYDUD WARTH'ATAKA 'ALAL MUDHARR, ALLOOHUMMAJ'ALHAA SINIINA KASINII YUUSUFA "Ya Allah, selamatkanlah 'Ayyasy bin Abu Robi'ah. Ya Allah, selamatkanlah Salamah bin Hisyam. Ya Allah, selamatkanlah Al Walid bin Al Walid. Ya Allah, selamatkanlah golongan yang lemah dari kaum mu'minin. Ya Allah, timpakanlah kerasnya siksa-Mu kepada Mudlar dan jadikanlah siksa-Mu untuk mereka berupa paceklik seperti paceklik yang terjadi pada zaman Nabi Yusuf AS
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3386</td></tr><tr><td>Arabic No</td><td>3386</td></tr><tr><td>Reference</td><td>Book 60 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что, Посланник Аллаха ﷺ говорил: «О Аллах, спаси ‘Аййаша ибн Аби Раби‘у, о Аллах, спаси Саляму ибн Хишама, о Аллах, спаси аль-Валида ибн аль-Валида, о Аллах, спаси слабых из числа верующих! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Йусуфа!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3386</td></tr><tr><td>Arabic No</td><td>3386</td></tr><tr><td>Reference</td><td>Book 60 Hadith 60</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Après la révélation de ce verset 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Al Hasan bin Musa] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit Al Bunani] dari [Anas bin Malik] bahwa dia berkata, "Ketika ayat ini diturunkan: '(Hai orang-orang yang beriman, janganlah kamu meninggikan suara kamu melebihi suara Nabi) ' (Qs. Al Hujurat: 2) hingga akhir ayat, Tsabit bin Qais yang sedang duduk di rumahnya dan berkata, 'Aku ini termasuk dari ahli Neraka! Dan ia selalu mengindar dari Nabi shallallahu 'alaihi wasallam sehingga Nabi shallallahu 'alaihi wasallam menanyakn itu kepada Sa'ad bin Mu'adz. Tanya beliau: "Wahai Abu Amru, bagaimanakah keadaan Tsabit? Apakah dia sakit? ' Sa'd menjawab, "Keadaannya seperti biasa dan aku tidak mendengar berita yang menyatakan dia sakit." Anas berkata, 'Lalu Sa'd pun mengunjunginya dan memberitahu kepadanya tentang pembicaraannya dengan Rasulullah shallallahu 'alaihi wasallam. Tsabit berkata, 'Ayat ini diturunkan, sedangkan kamu semua mengetahui bahwa aku adalah orang yang paling keras bersuara, melebihi suara Rasulullah shallallahu 'alaihi wasallam. Kalau begitu aku ini termasuk dari ahli Neraka.' Maka Sa'd menceritakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam. Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Bahkan ia termasuk dari kalangan ahli Surga." Telah menceritakan kepada kami [Qathan bin Nusyair] Telah menceritakan kepada kami [Ja'far bin Sulaiman] telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik] ia berkata, "Tsabit bin Qais adalah seorang orator di kalangan kaum Anshar, ketika ayat ini turun, yakni seperti dalam hadits Hammad. namun dalam haditsnya tidak disebutkan nama Sa'd bin Mu'adz." Dan telah menceritakannya kepada kami [Ahmad bin Sa'id bin Shakr Ad-Darimi] telah menceritakan kepada kami [Habban] telah menceritakan kepada kami [Sualiman Ibnul Mughirah] dari [Tsabit] dari [Anas] ia berkata, "Ketika turun ayat (...janganlah kamu meninggikan suaramu lebih dari suara Nabi), dan ia tidak menyebutkan nama Sa'd bin Mu'adz dalam hadits tersebut." Dan telah menceritakan kepada kami [Huraim bin Abdul A'la al Asadi] telah menceritakan kepada kami [al Mu'tamir bin Sualiman] ia berkata, "Aku mendengar [ayahku] menyebutkan dari [Tsabit] dari [Anas] ia berkata, "Ketika ayat ini diturunkan ia mengisahkan hadits tersebut tanpa menyebutkan nama Sa'd bin Mu'adz..." Kemudian ia menambahkan, "Seorang laki-laki dari penduduk surga berjalan di antara kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>314</td></tr><tr><td>Arabic No</td><td>119.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малику сказал: «Когда был ниспослан этот аят, (где сказано): “О те, которые уверовали! Не поднимайте ваши голоса над голосом Пророка и не обращайтесь к нему так же громко, как вы обращаетесь друг к другу, а не то ваши деяния окажутся тщетными, и вы даже не почувствуете (этого)” (сура “аль-Худжурат, аят 2), Сабит ибн Кайс сел у себя дома и воскликнул: “Я (один) из обитателей Огня!” После этого он (перестал приходить) к Пророку ﷺ, который (некоторое время спустя) спросил Са‘да ибн Му‘аза: “О Абу ‘Амр, что случилось с Сабитом? Он заболел?” Са‘д сказал: “Он мой сосед, и я не слышал, чтобы он на что-нибудь жаловался”, а потом пришёл к (Сабиту) и передал ему слова Посланника Аллаха ﷺ. Сабит сказал: “Был ниспослан этот аят, а вам известно, что я говорил громче Посланника Аллаха ﷺ, как никто из вас, (и поэтому) я (один) из обитателей Огня!” Са‘д рассказал об этом Пророку ﷺ, и Посланник Аллаха ﷺ сказал: “Нет, он из числа обитателей Рая!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>314</td></tr><tr><td>Arabic No</td><td>119.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 221</td></tr></tbody></table></div>
 

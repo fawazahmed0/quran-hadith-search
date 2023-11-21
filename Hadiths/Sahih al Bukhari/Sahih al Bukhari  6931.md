@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Yasar:That they visited Abu Sa'id Al-Khudri and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] mengatakan, aku mendengar [Yahya bin Sa'id] mengatakan, Telah mengabarkan kepadaku [Muhammad bin Ibrahim] dari [Abu Salamah] dan ['Atho' bin Yasar] bahwasanya keduanya pernah mendatangi [Abu Sa'id Al Khudri] dan menanyainya tentang sekte Haruriyah; 'apakah engkau mendengar dari Nabi shallallahu 'alaihi wasallam? ' Ia mengatakan; 'Saya tidak tahu menahu tentang haruriyah, hanyasaja Aku mendengar Nabi Shallallahu'alaihi wasalalm bersabda; "Akan muncul di kalangan umat ini -dan ia tidak mengatakan dari umat ini- suatu kaum yang kalian akan meremehkan shalat kalian bila di bandingkan dengan shalat mereka, mereka membaca al Qur'an namun tidak melewati kerongkongan atau tenggorokan mereka, mereka keluar dari agama sebagimana anak panah keluar dari busurnya, lantas sang pelempar melihat anak panahnya, mata panahnya hingga kain panahnya, hingga seolah-olah anak panah itu keluar dalam tempat senar, apakah ada darah yang menempel?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6931</td></tr><tr><td>Arabic No</td><td>6931</td></tr><tr><td>Reference</td><td>Book 88 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма и ‘Ата ибн Ясар рассказали, что (однажды) они пришли к Абу Са‘иду аль-Худри и спросили о харуритах: «Слышал ли ты чтобы Пророк ﷺ (упоминал их)?» Он ответил: «Я не знаю, что такое харурия, но я слышал, как Пророк ﷺ говорил: “Появятся в этой общине люди, молитвы которых заставят вас считать ничтожными ваши собственные молитвы. Они станут читать Коран, однако он не выйдет за пределы их глоток. И они вылетят из религии подобно тому, как стрела вылетает через дичь, (пробив её насквозь, с такой скоростью, что) когда стрелок смотрит на стрелу, на острие стрелы, на его “рисафу” (часть наконечника стрелы), на “фуку” (пятка стрелы), есть ли на нём хоть какой-то след крови, (то не находит его)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6931</td></tr><tr><td>Arabic No</td><td>6931</td></tr><tr><td>Reference</td><td>Book 88 Hadith 13</td></tr></tbody></table></div>
 

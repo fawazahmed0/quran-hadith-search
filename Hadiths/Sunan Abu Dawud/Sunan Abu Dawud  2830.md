@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Nubayshah: A man called the Messenger of Allah (ﷺ): We used to sacrif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Nashr bin Ali], dari [Bisyr bin Al Mufadhdhal] secara makna, telah menceritakan kepada kami [Khalid Al Hadzdza'], dari [Abu Qilabah], dari [Abu Al Malih], ia berkata; [Nubaisy] berkata; seorang laki-laki memanggil Rasulullah shallallahu 'alaihi wasallam; sesungguhnya kami dahulu menyembelih hewan pada sepuluh pertama Bulan Rajab pada masa jahiliyah, maka apakah yang anda perintahkan kepada kami? Beliau berkata: "Sembelihlah karena Allah pada bulan apa saja, dan berbaktilah kepada Allah 'azza wajalla, serta berilah makan!" orang tersebut berkata; sesungguhnya kami dahulu kami menyembelih anak hewan pertama pada masa jahiliyah, maka apakah yang anda perintahkan kepada kami? Beliau berkata: "Pada setiap hewan yang telah digembala lebih dari satu tahun terdapat anak pertama yang kalian yang diberi makan oleh hewan ternakmu, hingga apabila ia siap untuk dibebani -Nashr mengatakan; siap untuk dibebani orang-orang yang berhaji- maka engkau menyembelihnya dan bersedekah dengan dagingnya." Khalid berkata; aku katakan kepada Abu Qilabah; berapakah hewan saimah (yang digembala lebih dari satu tahun) (yang diperintahkan Rasulullah shallallahu 'alaihi wasallam untuk disembelih anak pertamanya?) ia berkata; seratus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2830</td></tr><tr><td>Arabic No</td><td>2830</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нубайши, да будет доволен им Аллах, что один человек позвал Посланника Аллаха ﷺ и сказал: «Во времена невежества мы резали ‘атиру в раджаб. Что ты велишь нам делать теперь?» (Посланник Аллаха ﷺ) сказал: «Совершайте жертвоприношение ради Аллаха в любом месяце, будьте благочестивыми и кормите людей». Этот человек спросил: «Во времена невежества мы резали первый приплод /фара‘/. Что ты велишь нам делать теперь?» (Посланник Аллаха ﷺ) сказал: «Пусть твоя свободно пасущаяся скотина выкармливает свой приплод. А потом, когда он вырастет и откормится так, что на нём можно будет ездить, можешь зарезать этот приплод и раздать его мясо в качестве милостыни». Передатчик хадиса Халид сказал: «И, по-моему, он сказал: “…путникам, ибо это благо”». И он сказал: «Я спросил Абу Кылябу: “А сколько должно быть этой свободно пасущейся скотины?” Он ответил: “Сотня голов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2830</td></tr><tr><td>Arabic No</td><td>2830</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
 

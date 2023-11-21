@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Never did the earlier part of the dawn find the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Bisyr] dari [Mis'ar] dari [Sa'd] dari [Abu Salamah] dari ['Aisyah] dia berkata; "Aku tidak menemukan Rasulullah shallallahu 'alaihi wasallam ketika sahur pertama (akhir malam sebelum terbit fajar -pent) di rumahku -atau disisiku- selain kutemukan beliau dalam keadaan tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1731</td></tr><tr><td>Arabic No</td><td>742</td></tr><tr><td>Reference</td><td>Book 6 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Заря заставала Посланника Аллаха ﷺ у меня не иначе как спящим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1731</td></tr><tr><td>Arabic No</td><td>742</td></tr><tr><td>Reference</td><td>Book 6 Hadith 160</td></tr></tbody></table></div>
 

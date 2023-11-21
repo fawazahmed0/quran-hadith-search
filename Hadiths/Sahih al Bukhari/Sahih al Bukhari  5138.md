@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khansa bint Khidam Al-Ansariya:that her father gave her in marriage whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku [Malik] dari [Abdurrahman bin Al Qasim] dari [bapaknya] dari [Abdurrahman] dan [Mujammi'] keduanya anak Yazid bin Jaariyah, dari [Khansa' binti Khizam Al Anshariyyah] bahwa bapaknya menikahkannya saat ia janda, lalu ia pun tak suka. Lalu ia pun mendatangi Rasulullah shallallahu 'alaihi wasallam, maka beliau pun menolak pernikahannya. Telah menceritakan kepada kami [Ishaq] Telah mengabarkan kepada kami [Yazid] Telah mengabarkan kepada kami [Yahya] bahwa [Al Qasim bin Muhammad] telah menceritakan kepadanya bahwa [Abdurrahman bin Yazid] dan [Mujammi' bin Yazid] telah menceritakan kepadanya bahwa seorang laki-laki yang biasa dipanggil Khidzam menikahkan seorang anak perempuannya. Yakni semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5138</td></tr><tr><td>Arabic No</td><td>5138</td></tr><tr><td>Reference</td><td>Book 67 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ханса бинт Хизам аль-Ансарийа, да будет доволен ею Аллах, передала, что, когда её отец выдал её замуж вторым браком против её воли, она пришла к Посланнику Аллаха ﷺ, и он расторг этот брак
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5138</td></tr><tr><td>Arabic No</td><td>5138</td></tr><tr><td>Reference</td><td>Book 67 Hadith 74</td></tr></tbody></table></div>
 

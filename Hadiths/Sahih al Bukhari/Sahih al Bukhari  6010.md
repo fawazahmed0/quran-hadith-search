@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) stood up for the prayer and we too 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata; "Rasulullah Shalallah 'Alaihi Wa Sallam berdiri untuk shalat dan kami ikut berdiri dengannya, di tengah-tengah shalat ada seorang Badui yang berbicara; 'Ya Allah, rahmatilah aku dan Muhammad, dan janganlah Engkau merahmati seorangpun selain kami! ' Setelah salam, Rasulullah Shalallah 'Alaihi Wa Sallam bersabda kepada orang Badui tersebut: 'Engkau telah menyempitkan sesuatu yang luas! ' Maksudnya adalah rahmat Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6010</td></tr><tr><td>Arabic No</td><td>6010</td></tr><tr><td>Reference</td><td>Book 78 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды,) когда Посланник Аллаха ﷺ встал во время молитвы, а мы встали вместе с ним, какой-то бедуин(, совершавший) молитву (вместе с нами,) сказал: “О Аллах, помилуй меня и Мухаммада и больше никого вместе с нами!” — а после того как Пророк ﷺ произнёс слова таслима, он сказал этому бедуину: “Ты сузил нечто (весьма) широкое!” — имея в виду милость Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6010</td></tr><tr><td>Arabic No</td><td>6010</td></tr><tr><td>Reference</td><td>Book 78 Hadith 41</td></tr></tbody></table></div>
 

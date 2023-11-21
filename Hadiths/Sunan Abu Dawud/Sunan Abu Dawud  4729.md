@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jarir b. ‘Abd Allah said :When we are were sitting with the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dan [Waki'] dan [Abu Usamah] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dari [Jarir bin Abdullah] ia berkata, "Kami duduk bersama Rasulullah shallallahu 'alaihi wasallam, kemudian beliau melihat bulan purnama, tepatnya malam tanggal empat belas. Beliau bersabda: "Kalian akan melihat Tuhan kalian seperti kalian melihat rembulan ini, tidak ada yang menghalangi pandangan kalian. Jika kalian mampu untuk melaksanakan shalat sebelum terbit dan tenggelamnya matahari, maka lakukanlah." Kemudian beliau membaca ayat dan bertasbihlah dengan memuji Tuhanmu, sebelum terbit matahari dan sebelum terbenamnya-thaahaa;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4851) Sahih Muslim (633)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>4729</td></tr><tr><td>Reference</td><td>Book 42 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джарира ибн ‘Абдуллаха: «Однажды в четырнадцатую ночь месяца, когда мы находились вместе с посланником Аллаха ﷺ он посмотрел на полную луну и сказал: “Поистине, вы увидите Господа вашего, как видите эту луну, и для вас лицезрение Его не будет сопряжено ни с какими трудностями! И если сможете вы добиться того, чтобы ничто не мешало вам совершать молитвы перед восходом солнца и перед закатом его, то совершайте их”. А после этого он прочитал: “… и прославляй Господа твоего до восхода солнца и перед заходом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4851) Sahih Muslim (633)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>4729</td></tr><tr><td>Reference</td><td>Book 42 Hadith 134</td></tr></tbody></table></div>
 

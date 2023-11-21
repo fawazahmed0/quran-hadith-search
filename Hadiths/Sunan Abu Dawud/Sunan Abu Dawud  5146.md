@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If anyone has a female chil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman] dan [Abu Bakar] -keduanya anak Abu Syaibah- secara makna mereka berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Abu Malik Al Asyja'i] dari [Ibnu Hudair] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memiliki anak perempuan (atau saudara perempuan), ia tidak menguburkannya hidup-hidup, tidak menghinakannya, dan tidak melebihkan anak laki-laki di atas mereka, maka Allah akan memasukkan dia ke dalam surga." Utsman tidak menyebutkan lafadz 'laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>5146</td></tr><tr><td>Reference</td><td>Book 43 Hadith 374</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказали нам вместе (два брата) ‘Усман и Абу Бакр ибн Абу Шейба, которые сказали: Рассказал нам Абу Му‘авия от Абу Малика аль-Ашджа‘и, передавший от Ибн Худайра, передавший, что Ибн ‘Аббас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Того, у кого была дочь, которую он не закопал заживо, не унижал, и не отдавал сыну предпочтение перед ней, Аллах заведёт в рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>5146</td></tr><tr><td>Reference</td><td>Book 43 Hadith 374</td></tr></tbody></table></div>
 

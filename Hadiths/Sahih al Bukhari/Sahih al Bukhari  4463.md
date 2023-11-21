@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Prophet (ﷺ) was healthy, he used to say, "No soul of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Muhammad] Telah menceritakan kepada kami [Abdullah], [Yunus] berkata; [Az Zuhri] berkata; Telah mengabarkan kepadaku [Sa'id bin Al Musayyab] -di antara orang-orang yang berilmu-, bahwa [Aisyah] istri Nabi shallallahu 'alaihi wasallam berkata; Ketika Rasulullah shallallahu 'alaihi wasallam berada dalam keadaan sehat wal afiat, beliau pernah bersabda: 'Sesungguhnya seorang nabi tidaklah diwafatkan hingga diperlihatkan kepadanya tempatnya di surga lalu ia dipersilahkan untuk memilih.' Aisyah berkata; "Ketika malaikat pencabut nyawa datang kepada Rasulullah, sementara kepala beliau berada di pangkuan saya, maka Rasulullah pingsan beberapa saat. Tak lama kemudian ia sadar kembali. Setelah itu, beliau menatap pandangannya ke atas sambil mengucapkan: Ya Allah, pertemukanlah aku dengan kekasihku, Allah Yang Maha Tinggi! ' Aisyah berkata; "Dengan demikian, Rasulullah shallallahu 'alaihi wasallam tidak memilih untuk hidup Iebih lama lagi bersama kami." Aisyah pernah berkata; "Saya teringat ucapan yang pernah beliau sampaikan kepada kami ketika beliau masih sehat; "Itulah kata-kata terakhir yang pernah beliau ucapkan, yaitu: 'Ya Allah, pertemukanlah aku dengan kekasihku Yang Maha Tinggi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4463</td></tr><tr><td>Arabic No</td><td>4463</td></tr><tr><td>Reference</td><td>Book 64 Hadith 479</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда Пророк ﷺ был здоров, он часто говорил: “Поистине, ни один пророк никогда не умирал, пока не (предоставлялась ему возможность) увидеть его место в Раю, а потом ему предоставлялся выбор. А когда он заболел, и смерть его была уже близка, и голова его лежала на моей ноге, он потерял сознание; очнувшись же, он стал смотреть в потолок, а потом сказал: “О Аллах, (позволь мне оказаться) в высшем обществе!” Тогда я сказала: “Значит, он не останется с нами!” — а потом поняла, что эти его слова (подтверждают) то, что он говорил нам, когда был здоров. И последними его словами были: “О Аллах, (позволь мне оказаться) в высшем обществе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4463</td></tr><tr><td>Arabic No</td><td>4463</td></tr><tr><td>Reference</td><td>Book 64 Hadith 479</td></tr></tbody></table></div>
 

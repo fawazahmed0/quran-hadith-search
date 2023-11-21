@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Fasting was observed on the day of 'Ashura' (i.e. 10th of Muh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Ubaidullah] dia berkata; Telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar radliallahu 'anhuma] dia berkata; "Dahulu hari Asyura' adalah hari yang orang-orang jahilliyah pergunakan untuk puasa, tatkala turun bulan ramadlan, beliau bersabda: "Barang siapa yang ingin berpuasa Asyura' hendaklah ia berpuasa, dan bagi yang tidak ingin, silahkan ia tinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4501</td></tr><tr><td>Arabic No</td><td>4501</td></tr><tr><td>Reference</td><td>Book 65 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Люди невежества (джахилиййи) постились в день ‘Ашура, когда же был предписан (пост в месяц) рамадан, Посланник Аллаха ﷺ сказал: “Кто желает (поститься в этот день), пусть постится, а кто желает, пусть не постится”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4501</td></tr><tr><td>Arabic No</td><td>4501</td></tr><tr><td>Reference</td><td>Book 65 Hadith 28</td></tr></tbody></table></div>
 

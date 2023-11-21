@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zur’ah b. ‘Abd al-Rahman said:I heard Ibn al-Zubair say: Setting the feet ri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepada kami [Abu Ahmad] dari [Al 'Ala' bin Shalih] dari [Zur'ah bin Abdurrahman] dia berkata; aku mendengar [Ibnu Zubair] berkata; "Meluruskan kedua kaki dan meletekkan tangan (kanan) diatas tangan yang lain (kiri) adalah bagian dari sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>754</td></tr><tr><td>Arabic No</td><td>754</td></tr><tr><td>Reference</td><td>Book 2 Hadith 364</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зур‘а ибн ‘Абду-р-Рахман сказал: «Я слышал, как (‘Абдуллах) ибн аз-Зубайр говорил: “(При совершении молитвы) выравнивать стопы и возложение одной руки на другую, является Сунной”».Также этот хадис передали аль-Байхакъи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>754</td></tr><tr><td>Arabic No</td><td>754</td></tr><tr><td>Reference</td><td>Book 2 Hadith 364</td></tr></tbody></table></div>
 

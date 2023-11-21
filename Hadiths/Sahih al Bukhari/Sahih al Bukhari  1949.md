@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar recited the verse: "They had a choice either to fast or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy] telah menceritakan kepada kami ['Abdul 'Abdullah'laa] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa dia membaca ayat fidyatun to'aamu masaakiin (dendanya adalah memberi makan orang miskin), lalu ia berkata, bahwa ayat ini sudah dihapus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1949</td></tr><tr><td>Arabic No</td><td>1949</td></tr><tr><td>Reference</td><td>Book 30 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Нафи‘а, что, прочитав аят, в котором говорится: «…следует в искупление накормить бедняка», Ибн ’Умар, да будет доволен Аллах им и его отцом, сказал: «Этот аят отменённый»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1949</td></tr><tr><td>Arabic No</td><td>1949</td></tr><tr><td>Reference</td><td>Book 30 Hadith 56</td></tr></tbody></table></div>
 

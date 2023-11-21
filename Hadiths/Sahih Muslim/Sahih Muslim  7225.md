@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ali bin Hujr], semuanya dari [Isma'il] berkata [Abu Bakar]: telah menceritakan kepada kami [Ibnu Ulaiyah] dari [Ayyub] dari [Abdullah bin Abu Malikah] dari [Aisyah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Barangsiapa dihisab pada hari kiamat, ia disiksa." Aku berkata: Bukankah Allah 'azza wajalla berfirman: "Maka dia akan diperiksa dengan pemeriksaan yang mudah." (Al Insyiqaaq: 8) beliau menjawab: "Itu bukan hisab, itu hanya pemaparan. Barangsiapa dibantah (saat) penghisaban pada hari kiamat, ia disiksa." Telah menceritakan kepadaku [Abu Ar Rabi' Al Ataki] dan [Abu Kamil] keduanya bekata: Telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dengan sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7225</td></tr><tr><td>Arabic No</td><td>2876.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7225</td></tr><tr><td>Arabic No</td><td>2876.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 94</td></tr></tbody></table></div>
 

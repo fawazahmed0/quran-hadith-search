@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ma'n bin Yazid:My grandfather, my father and I gave the pledge of alleg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Isra'il] telah menceritakan kepada kami [Abu Al Juwairiyah] bahwa [Ma'an bin Yazid radliallahu 'anhu] menceritakan kepadanya, katanya: "Aku, bapakku dan kakekku sudah berbai'at kepada Rasulullah Shallallahu'alaihiwasallam. Aku juga pernah dilamarkan seseorang buatku dan Beliau menikahkanku. Aku juga bersumpah setia (untuk mengembalikan setiap urusanku) kepada Beliau. Suatu hari bapakku, Yazid mengeluarkan dinar untuk dishadaqahkan, lalu dia meletakkannya di samping seseorang yang berada di masjid. Kemudian aku datang, aku ambil dan aku bawa kepadanya, lalu bapakku berkata,: "Demi Allah, bukan kamu yang aku tuju". Lalu masalah ini aku adukan kepada Rasulullah Shallallahu'alaihiwasallam, maka Beliau berkata,: "Bagimu apa yang sudah kamu niatkan wahai Yazid, sedangkan bagimu apa yang telah kamu ambil wahai Ma'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 24 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ма‘н бин Йазид, да будет доволен им Аллах, сказал: «Я дал клятву (на верность исламу) Посланнику Аллаха ﷺ (как сделали это) мой отец и мой дед, да будет доволен Аллах ими обоими, и (Пророк ﷺ) сосватал для меня (одну девушку) и женил меня. (Как-то раз) я обратился к нему на суд (в связи с тем, что незадолго до этого) Йазид, мой отец, (пожелавший) раздать милостыню, достал несколько динаров и положил их в мечети около одного человека, (чтобы тот отдал их неимущим,) а потом (туда) пришёл я, взял эти деньги и принёс их (своему отцу). Он сказал: “Клянусь Аллахом, не тебе я хотел (отдать их)!” — после чего я и обратился к Посланнику Аллаха ﷺ чтобы он рассудил (наш спор), и он сказал: “Тебе — то, что ты намеревался (получить), о Йазид, а тебе — то, что ты взял, о Ма‘н”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 24 Hadith 26</td></tr></tbody></table></div>
 

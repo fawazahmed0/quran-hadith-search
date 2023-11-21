@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:It was forbidden to keep the hands on the hips during the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah radliallahu 'anhu] berkata: "Dilarang bertolak pinggang dalam shalat". Dan berkata, [Hisyam] dan [Abu Hilal] dari [Ibnu Sirin] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 21 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Нам было запрещено ставить руки на бока во время молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 21 Hadith 23</td></tr></tbody></table></div>
 

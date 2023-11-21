@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abdullah b. 'Umar: The Apostle of Allaah ( sal Allaahu alayhi wa salla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami ['Ashim bin Al Mundzir] dari [Ubaidillah bin Abdullah bin Umar], dia berkata; Telah menceritakan kepadaku [Ayahku], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila air mencapai dua qullah, maka ia tidak najis." Abu Dawud berkata; Hammad bin Zaid memauqufkannya dari 'Ashim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Arabic No</td><td>65</td></tr><tr><td>Reference</td><td>Book 1 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайдуллах ибн ‘Абдуллах ибн ‘Умар сказал: «Мой отец сообщил мне о том, что Посланник Аллаха ﷺ сказал:“Если объем воды достигает двух кувшинов, то она не оскверняется”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Arabic No</td><td>65</td></tr><tr><td>Reference</td><td>Book 1 Hadith 65</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As- Scab bin Yazid:My aunt took me to Allah's Messenger (ﷺ) and said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Ubaidullah] telah bercerita kepada kami [Hatim] dari [Al Ju'aid bin 'Abdur Rahman] berkata; Aku mendengar [As-Sa'ib bin Yazid] berkata; Bibiku pergi bersamaku menemui Rasulullah shallallahu 'alaihi wasallam lalu berkata: "Wahai Rasulullah, sesungguhnya putra saudariku ini sedang sakit pada kedua kakinya". Maka beliau mengusap kepalaku lalu memohonkan keberkahan untukku. Kemudian beliau berwudlu', maka aku minum sisa air wudlu' beliau dari bejananya lalu aku berdiri di belakang beliau hingga aku melihat di antara pundak beliau ada tanda kenabian". [Ibnu 'Ubaidullah] berkata; 'Al Khujlah artinya tanda kenabian berwarna putih seperti yang ada di antara dua mata kuda". Sedangkan [Ibrahim] berkata; "Seperti telur burung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3541</td></tr><tr><td>Arabic No</td><td>3541</td></tr><tr><td>Reference</td><td>Book 61 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саъиб ибн Язид, да будет доволен им Аллах, сказал: «(Однажды) моя тётка со стороны матери привела меня к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, сын моей сестры заболел!” — а он погладил меня по голове и призвал на меня благословение. Затем (Пророк ﷺ) совершил омовение, а я выпил остаток воды, которую он использовал, после чего встал у него за спиной и увидел у него между лопаток печать пророчества, по виду подобную яйцу куропатки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3541</td></tr><tr><td>Arabic No</td><td>3541</td></tr><tr><td>Reference</td><td>Book 61 Hadith 50</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A place in Paradise as small as a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Al Mundzir] telah bercerita kepada kami [Muhammad bin Fulaih] berkata telah bercerita kepadaku [bapakku] dari [Hilal bin 'Ali] dari ['Abdur Rahman bin Abi 'Amrah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh panjang (sehasta) ujung busur panah di surga lebih baik dari apa yang padanya matahari terbit dan terbenam". Dan Beliau juga bersabda: "Pergi keluar berperang di jalan Allah pada awal (pagi) hari atau pergi keluar berperang pada akhir (siang) hari lebih baik dari pada dunia dan seisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 56 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, (место) в Раю (размером) с лук лучше того, над чем восходит и заходит солнце!» И он (также) сказал: «Поистине, (дела, совершаемые) на пути Аллаха утром или вечером, лучше того, над чем восходит и заходит солнце!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 56 Hadith 11</td></tr></tbody></table></div>
 

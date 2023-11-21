@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Ma'qil said:I sat with Ka'b (Allah be pleased with him) and he was i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] - [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman bin Al Ashbahani] dari [Abdullah bin Ma'qil] ia berkata; Saya duduk bersama [Ka'ab radliallahu 'anhu] yang saat itu ia sedang berada di masjid. Lalu saya bertanya kepadanya tentang ayat ini; "Maka wajiblah atasnya berfid-yah, yaitu: berpuasa atau bersedekah atau berkorban." (QS. Albaqarah; 196), Maka Ka'ab bin Ujrah radliallahu 'anhu menjawab; Ayat itu turun berkenaan dengan diriku. Aku pernah menderita sakit di kulit kepalaku (ketika sedang ihram), lalu aku dibawa menghadap Rasulullah shallallahu 'alaihi wasallam, sedangkan kutu telah bertebaran di wajahku. Maka beliau bersabda: "Aku tidak pernah melihat penderitaan seperti yang menimpamu. Apakah kamu mampu mendapatkan seekor kambing?" aku menjawab, "Tidak." Maka turunlah ayat ini; "Maka wajiblah atasnya berfid-yah, yaitu: berpuasa atau bersedekah atau berkorban." Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau begitu, berpuasalah tiga hari, atau berilah makan kepada enam orang miskin, yakni setengah sha' untuk setiap orangnya." Ka'ab bin Ujrah berkata; Ayat tersebut turun khusus berkenaan dengan diriku, namun berlaku umum untuk kalian semua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2883</td></tr><tr><td>Arabic No</td><td>1201.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2883</td></tr><tr><td>Arabic No</td><td>1201.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 93</td></tr></tbody></table></div>
 

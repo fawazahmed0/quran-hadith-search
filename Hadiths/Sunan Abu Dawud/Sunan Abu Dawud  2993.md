@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Qatadah said “When the Apostle of Allaah(ﷺ) participated in battle there was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid As Sulami], telah menceritakan kepada kami [Umar bin Abdul Wahid], dari [Sa'id bin Basyir] dari [Qatadah], ia berkata; Rasulullah shallallahu 'alaihi wasallam apabila berperang maka baginya saham murni yang beliau ambil dari sisi manapun yang beliau kehendaki. Dan Shafiyyah adalah termasuk dari saham tersebut. Dan apabila beliau tidak berperang sendiri beliau diberi sahamnya dan tidak diberi pilihan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 20 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Катады, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ отправлялся в военный поход, ему полагался избранный трофей, который он мог взять, откуда желал, и Сафийя была таким трофеем. А когда он не участвовал в походе сам, ему выделялась доля, но у него не было выбора
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 20 Hadith 66</td></tr></tbody></table></div>
 

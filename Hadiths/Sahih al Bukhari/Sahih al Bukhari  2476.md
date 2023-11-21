@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhriy] berkata, telah menceritakan kepadaku [Sa'id bin Al Musayyab] dia mendengar [Abu Hurairah radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi qiyamat hingga Isa bin Maryam turun sebagai hakim yang adil yang dia menghancurkan salib, membunuh babi, membebaskan jizyah dan harta melimpa ruah sampai tidak ada seorang pun yang mau menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2476</td></tr><tr><td>Arabic No</td><td>2476</td></tr><tr><td>Reference</td><td>Book 46 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн аль-Мусаййиба о том, что он слышал, как Абу Хурайра, да будет доволен им Аллах, говорил: «Посланник Аллаха ﷺ сказал: “Не наступит Час, пока не спустится к вам сын Марйам, (и будет судить вас) как справедливый судья, и сломает крест, и уничтожит свиней, и отменит джизью, после чего денег будет (так) много, что никто не станет их принимать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2476</td></tr><tr><td>Arabic No</td><td>2476</td></tr><tr><td>Reference</td><td>Book 46 Hadith 37</td></tr></tbody></table></div>
 

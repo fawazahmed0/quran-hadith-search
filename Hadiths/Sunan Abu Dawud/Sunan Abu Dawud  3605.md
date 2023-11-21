@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ash-Sha'bi said:A Muslim was about to die at Daquqa', but he did not find any Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Ayyub] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Zakaria] dari [Asy Sya'bi] bahwa seorang muslim meninggal di Daquqa' (daerah antara Baghdad dan Irbil), dan tidak ada seseorang yang bisa menjadi saksi terhadap wasiatnya. Kemudian ada dua orang ahli kitab memberi persaksian hingga mereka pun datang ke Kufah menemui [Abu Musa Al Asy'ari] dan mengabarkan hal tersebut. keduanya datang dengan membawa harta warisan dan wasiat orang yang meninggal tersebut, Abu Musa Al Asy'ari lalu berkata, "Ini adalah permasalahan yang belum pernah terjadi sejak zaman Rasulullah shallallahu 'alaihi wasallam." Lalu Abu Musa meminta mereka berdua agar bersumpah dengan nama Allah bahwa mereka tidak berkhianat, tidak berdusta, tidak mengganti, tidak menyembunyikan serta tidak merubah, dan bahwa wasiat dan harta wasiatnya itu adalah wasiat laki-laki tersebut. Abu Musa kemudian menerima persaksian mereka berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3605</td></tr><tr><td>Arabic No</td><td>3605</td></tr><tr><td>Reference</td><td>Book 25 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аш-Ша‘би, что к одному мусульманину пришла смерть, когда он находился в Дакуке (, близ Багдада), и он не смог найти ни одного мусульманина, который мог бы выступить свидетелем при составлении им завещания. Тогда по его просьбе свидетелями выступили два человека из числа людей Писания. Они прибыли в Куфу, пришли к Абу Мусе аль-Аш‘ари и рассказали ему обо всём. Они привезли оставленное им имущество и его завещание. Аль-Аш‘ари сказал: «Подобного не случалось после того случая, который имел место в эпоху Посланника Аллаха ﷺ». И после послеполуденной молитвы он потребовал, чтобы они поклялись Аллахом в том, что они не поступили вероломно, не солгали, ничего не скрыли и не изменили и что это действительно завещание того человека и оставленное им имущество, после чего принял их свидетельство
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3605</td></tr><tr><td>Arabic No</td><td>3605</td></tr><tr><td>Reference</td><td>Book 25 Hadith 35</td></tr></tbody></table></div>
 

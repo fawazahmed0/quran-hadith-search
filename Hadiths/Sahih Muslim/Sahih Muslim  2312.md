@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Khaithama reported:While we were sitting in the company of 'Abdullah b. 'Umar th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Muhammad Al Jarmi] Telah menceritakan kepada kami [Abdurrahman bin Abdul Malik bin Abjar Al Kinani] dari [bapaknya] dari [Thalhah bin Musharrif] dari [Khaitsamah] ia berkata; Ketika kami sedang duduk (belajar) bersama [Abdullah bin Amr], tiba-tiba datang bendaharanya, lalu masuk dan Abdullah pun bertanya padanya, "Apakah kamu telah memberikan makan para hamba sahaya?" Sang bendahara menjawab, "Belum tuanku." Abdullah berkata, "Pergi, dan berilah makan mereka segera." Kemudian Ibnu Umar berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Cukuplah seseorang itu dikatakan berdosa orang-orang yang menahan makan (upah dan sebagainya) orang yang menjadi tanggungannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2312</td></tr><tr><td>Arabic No</td><td>996</td></tr><tr><td>Reference</td><td>Book 12 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хайсама сказал: «(Однажды, когда) мы сидели вместе с ‘Абдуллахом ибн ‘Амром, к нему явился управляющий (его имуществом). Когда он вошёл к (‘Абдуллаху), тот спросил: “Дал ли ты рабам еду?” (Управляющий) ответил: “Нет”, и (‘Абдуллах) велел ему: “Ступай и дай им (всё, что положено)”, а потом сказал: “Посланник Аллаха ﷺ сказал: “Для того, чтобы совершить грех, человеку достаточно задержать пропитание того, кем он владеет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2312</td></tr><tr><td>Arabic No</td><td>996</td></tr><tr><td>Reference</td><td>Book 12 Hadith 49</td></tr></tbody></table></div>
 

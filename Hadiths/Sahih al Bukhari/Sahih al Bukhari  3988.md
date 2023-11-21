@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin 'Auf:While I was fighting in the front file on the da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [bapaknya] dari [kakeknya] berkata; ['Abdur Rahman bin 'Auf] berkata; "Aku berada dalam barisan pasukan di perang Badar dan ketika aku menoleh ke samping kanan dan kiriku. Aku melihat dua anak laki-laki yang masih belia. Aku merasa tidak percaya dengan keberadaan keduanya ketika salah seorang dari keduanya berkata kepadaku secara pelan agar tidak didengar temannya; "Wahai paman, tunjukkan kepadaku Abu Jahal" Aku tanya; "Wahai anak saudaraku, apa yang akan kamu lakukan terhadapnya?"Dia menjawab; "Aku telah berjanji kepada Allah. Jika aku melihatnya, aku akan membunuhnya". Anak yang satu lagi juga mengatakan hal yang sama kepadaku secara pelan pula. 'Abdur Rahman bin 'Auf berkata; "Keberadaan keduanya tersebut sangat membahagiakan aku, lalu aku menunjukkan Abu Jahal kepada keduanya. Kedua anak itu melesat bagaikan dua ekor burung elang kemudian membunuh Abu Jahal. Kedua anak belia tadi adalah dua putra 'Afra
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3988</td></tr><tr><td>Arabic No</td><td>3988</td></tr><tr><td>Reference</td><td>Book 64 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Ауф сказал: «Находясь в ряду (бойцов) в день (битвы при) Бадре, я посмотрел направо и налево от себя, и оказалось, что с каждой стороны стоит совсем молодой человек, так что я даже захотел, чтобы рядом со мной был кто-нибудь посильнее. Один из них сказал мне втайне от другого: “О дядя, покажи мне Абу Джахля!” Я ответил: “О сын моего брата, а зачем он тебе?” Он сказал: “Я дал обет Аллаху, что, если я его увижу, то убью его или умру, сражаясь с ним”. После этого другой (юноша), втайне от своего товарища сказал мне нечто подобное. И я не хотел бы оказаться между другими двумя мужчинами вместо них. Затем я указал им на него, и тогда они бросились на (Абу Джахля) подобно соколам и зарубили его своими мечами. Это были сыновья ‘Афра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3988</td></tr><tr><td>Arabic No</td><td>3988</td></tr><tr><td>Reference</td><td>Book 64 Hadith 39</td></tr></tbody></table></div>
 

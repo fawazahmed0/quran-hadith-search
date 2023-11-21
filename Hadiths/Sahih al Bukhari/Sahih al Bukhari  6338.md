@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said, "When anyone of you appeal to Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] telah mengabarkan kepada kami [Abdul Aziz] dari [Anas] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang tengah berdo'a, hendaknya ia bersungguh-sungguh dalam berdo'a, dan janganlah mengatakan; 'Ya Allah, jika Engkau kehendaki berilah aku…' sebab Allah sama sekali tidak ada yang bisa memaksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6338</td></tr><tr><td>Arabic No</td><td>6338</td></tr><tr><td>Reference</td><td>Book 80 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Когда любой из вас обращается к Аллаху с мольбой, то пусть проявляет решительность в просьбе и не говорит: “О Аллах, если Ты желаешь, дай мне”, ибо никто (и так) не может принудить (Аллаха) к чему бы то ни было»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6338</td></tr><tr><td>Arabic No</td><td>6338</td></tr><tr><td>Reference</td><td>Book 80 Hadith 35</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Farwah b. Nawfal Al-Ashja'i asked 'Aishah the Mother of the Believers, about the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Jarir] dari [Manshur] dari [Hilal bin Yasaf] dari [Farwah bin Naufal Al Asyja'i], ia berkata; aku pernah bertanya kepada [Aisyah Ummul mukminin] mengenai doa yang diucapkan Rasulullah shallAllahu wa'alaihi wa sallam. Ia berkata; beliau pernah mengucapkan: "ALLAAHUMMA INNII A'UUDZU BIKA MIN SYARRI MAA 'ALIMTU WA MIN SYARRI MAA LAM A'LAM" (Ya Allah, aku berlindung kepadaMu dari keburukan apa yang aku ketahui dan dari keburukan apa yang tidak aku ketahui)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2716)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1550</td></tr><tr><td>Arabic No</td><td>1550</td></tr><tr><td>Reference</td><td>Book 8 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Фарван Науфаль аль-Ашджа‘и сказал: «Я спросил у матери правоверных ‘Аиши, да будет доволен ею Аллах: “С какими мольбами обращался к Аллаху, Посланник Аллаха ﷺ?” Она ответила: “Он обычно говорил: “О Аллах, поистине, я прибегаю к твоей защите от зла того, что я сделал, и от зла того, чего я не делал!”» /Аллахумма, инни а‘узу бика мин шарри ма ‘амильту ва мин шарри ма лям а‘маль
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2716)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1550</td></tr><tr><td>Arabic No</td><td>1550</td></tr><tr><td>Reference</td><td>Book 8 Hadith 135</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Thabit reported Allah's Apostle (ﷺ) as saying:It is Taiba, thereby mea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Adi bin Tsabit] ia mendengar [Abdullah bin Yazid] dari [Zaid bin Tsabit] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Madinah itu adalah negeri yang baik. Dan ia akan menyingkirkan para penjahatnya sebagaimana api yang menyingkirkan kotoran perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3356</td></tr><tr><td>Arabic No</td><td>1384</td></tr><tr><td>Reference</td><td>Book 15 Hadith 560</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зейда ибн Сабита о том, что Пророк ﷺ сказал: «Поистине, она Тайба (имея в виду Медину), и, поистине, она удаляет грязь подобно тому, как огонь удаляет налёт с серебра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3356</td></tr><tr><td>Arabic No</td><td>1384</td></tr><tr><td>Reference</td><td>Book 15 Hadith 560</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Samura, who was one of the Companions of the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] Telah menceritakan kepada kami [Abdul A'la bin Abdul A'la] dari [Al Jurairi] dari [Hayyan bin Umair] dari [Abdurrahman bin Samurah] -ia adalah salah seorang dari sahabat Rasulullah shallallahu 'alaihi wasallam- ia berkata; Aku sedang bermain panah di Madinah pada masa Rasulullah shallallahu 'alaihi wasallam, tiba-tiba terjadilah gerhana matahari, maka aku pun langsung membuangnya dan berkata, "Demi Allah, aku benar-benar akan melihat apa yang hendak dikerjakan oleh Rasulullah shallallahu 'alaihi wasallam saat terjadi gerhana matahari. Lalu aku pun mendatangi beliau, dan ternyata beliau sedang berdiri untuk menunaikan shalat dengan mengangkat kedua tangannya. Beliau membaca tasbih, tahmid, tahlil dan takbir serta berdo'a hingga matahari bersinar kembali. Setelah matahari bersinar kembali, beliau membaca dua surat dan shalat dua raka'at. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Salim bin Nuh] telah mengabarkan kepada kami [Al Jurairi] dari [Hayyan bin Umair] dari [Abdurrahman bin Samurah] ia berkata; Ketika aku sedang melempar panah di masa Rasulullah shallallahu 'alaihi wasallam, tiba-tiba terjadi gerhana matahari. Lalu ia pun menyebutkan hadits yang serupa dengan hadits keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2119</td></tr><tr><td>Arabic No</td><td>913.02</td></tr><tr><td>Reference</td><td>Book 10 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуррахман ибн Самура сказал: «Однажды при жизни Посланника Аллаха ﷺ в Медине я упражнялся в стрельбе из лука, и вдруг началось солнечное затмение. Бросив стрелы, я сказал (себе): “Клянусь Аллахом, я посмотрю, что делает Посланник Аллаха ﷺ во время солнечного затмения”. Когда я пришёл к нему, он стоял в молитве, подняв руки, и стал восхвалять, прославлять, свидетельствовать о единственности, возвеличивать и обращаться с мольбами (к Аллаху), пока (солнце) не прояснилось. Когда же оно прояснилось, он прочитал две суры и совершил молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2119</td></tr><tr><td>Arabic No</td><td>913.02</td></tr><tr><td>Reference</td><td>Book 10 Hadith 28</td></tr></tbody></table></div>
 

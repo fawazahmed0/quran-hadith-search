@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I was with the Prophet (ﷺ) while he was eating fresh dates.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] telah menceritakan kepada kami [Abu 'Awanah] dari [Abi Bisyir] dari [Mujahid] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Aku pernah bersama Nabi shallallahu 'alaihi wasallam ketika Beliau sedang memakan kambium pohon kurma lalu bersabda: "Diantara banyak pohon ada satu pohon yang dia seperti seorang mu'min". Maka aku hendak mengatakannya bahwa yang dimaksud Beliau adalah pohon kurma namun saat itu aku adalah yang paling muda usia diantara mereka yang hadir (sehingga merasa malu untuk mengutarakannya). Kemudian Beliau bersabda: "Dia adalah pohom kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2209</td></tr><tr><td>Arabic No</td><td>2209</td></tr><tr><td>Reference</td><td>Book 34 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды, когда я был у Пророка ﷺ, он ел “джуммар” (сердцевину пальмы). И он сказал: “Среди деревьев есть такое дерево, которое подобно мусульманину”. Я хотел сказать, что это пальма, (но вспомнил, что) я самый младший из присутствующих (и промолчал). Тогда Пророк ﷺ сказал: “Это — пальма”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2209</td></tr><tr><td>Arabic No</td><td>2209</td></tr><tr><td>Reference</td><td>Book 34 Hadith 155</td></tr></tbody></table></div>
 

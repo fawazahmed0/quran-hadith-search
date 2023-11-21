@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muslim:We were with Masruq at the house of Yasar bin Numair. Masruq saw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Al A'masy] dari [Muslim] dia berkata; Kami bersama [Masruq] berada di rumah Yasar bin Numair, lantas dia melihat patung di dalam (gambar) patung rumahnya, lantas Masruq berkata; "Saya pernah mendengar [Abdullah] berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang paling keras siksaannya di sisi Allah pada hari Kiamat adalah orang-orang yang suka menggambar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5950</td></tr><tr><td>Arabic No</td><td>5950</td></tr><tr><td>Reference</td><td>Book 77 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муслим рассказывал: «Однажды, когда мы с Масруком были в доме Ясара ибн Нумейра, он (Масрук) увидел у него на полке изображения и сказал: “Я слышал как ‘Абдуллах сказал, что он слышал, как Пророк ﷺ говорил: “Поистине, наиболее суровому наказанию в День воскресения будут подвергнуты те, кто создавал изображения (живых существ)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5950</td></tr><tr><td>Arabic No</td><td>5950</td></tr><tr><td>Reference</td><td>Book 77 Hadith 166</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A woman who used to practise tattooing was brought to 'Umar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari ['Umarah] dari [Abu Zar'ah] dari [Abu Hurairah] dia berkata; "Umar pernah menemui seorang wanita yang mentato, lalu Umar berdiri dan berkata; "Saya peringatkan kepada kalian, siapakah di antara kalian yang mendengar dari Nabi shallallahu 'alaihi wasallam tentang tato?" Abu Hurairah berkata; "Lalu aku berdiri dan berkata; "Saya pernah mendengarnya wahai Amirul mukminin." Dia berkata; "Apa yang pernah kamu dengar?" Abu Hurairah berkata; "Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mentato dan jangan pula minta untuk ditato
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5946</td></tr><tr><td>Arabic No</td><td>5946</td></tr><tr><td>Reference</td><td>Book 77 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Когда к ‘Умару привели женщину, которая занималась нанесением татуировок, ‘Умар встал и сказал: “Заклинаю вас Аллахом, кто из вас слышал, как Пророк ﷺ говорил что-нибудь о татуировках?” Тогда я встал и сказал: “О повелитель правоверных, я слышал!” Он спросил: “Что ты слышал?” Я сказал: “Я слышал, как Пророк ﷺ сказал, (обращаясь к женщинам): “Не наносите татуировки и не просите наносить их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5946</td></tr><tr><td>Arabic No</td><td>5946</td></tr><tr><td>Reference</td><td>Book 77 Hadith 162</td></tr></tbody></table></div>
 

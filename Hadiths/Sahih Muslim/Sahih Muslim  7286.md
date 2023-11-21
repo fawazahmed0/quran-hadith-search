@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa b. Usaid reported:Allah's Apostle (ﷺ) was in an apartment and we were
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Ambari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Furat Al Qazzaz] dari [Abu Ath Thufail] dari [Abu Sarihah Hudzaifah bin Usaid] berkata: Nabi Shallallahu 'alaihi wa Salam berada di kamar sementara kami berada dibawah, beliau melihat kami dari atas lalu bertanya: "Apa yang kalian bicarakan?" Kami menjawab: Kiamat. Beliau bersabda: "Kiamat tidaklah terjadi hingga kalian melihat sepuluh tanda-tanda; longsor di timur, longsor di barat dan longsor di jazirah arab, kabut, Dajjal, binatang bumi, Ya'juj dan Ma'juj, terbitnya matahari dari barat dan api muncul dari dasar lembah Aden yang menggiring manusia." Syu'bah berkata: Telah menceritakan kepadaku [Abdulaziz bin Rufai'] dari [Abu Ath Thufail] dari [Abu Sarihah] seperti itu, ia tidak menyebut nabi Shallallahu 'alaihi wa Salam. Salah satu dari keduanya berkata tentang tanda-tanda yang kesepuluh: Turunnya Isa bin Maryam Shallallahu 'alaihi wa Salam. Yang lain menyebut: Angin yang melemparkan manusia ke lautan. Telah menceritakannya kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Furat] berkata: Aku mendengar [Abu Ath Thufail] menceritakan dari [Abu Sarihah] berkata: Rasulullah Shallallahu 'alaihi wa Salam berada di kamar sementara kami ada dibawahnya, kami tengah berbincang-bincang, ia menyebut hadits serupa. Syu'bah berkata: Aku kira beliau bersabda: "(Api) menempati dimana pun mereka berada dan bersama mereka saat tidur siang." Syu'bah berkata: Telah menceritakan kepadaku [seseorang] hadits ini dari [Abu Ath Thufail] dari [Abu Sarihah] dan ia tidak memarfu'kannya. Salah satu dari kedua orang ini berkata: Turunnya Isa bin Maryam. Yang lain menyebut: Angin yang melemparkan mereka ke laut. Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu An Nu'man Al Hakim bin Abdullah Al Ijli] telah menceritakan kepada kami [Syu'bah] dari [Furat] berkata: Aku mendengar [Abu Ath Thufail] menceritakan dari [Abu Sarihah], ia berkata: Kami tengah berbincang-bincang lalu Rasulullah Shallallahu 'alaihi wa Salam melihat kami dari atas, seperti hadits Mu'adz dan Ibnu Ja'far. Ibnu Mutsanna berkata: telah menceritakan kepada kami [Abu An Nu'man Al Hakam bin Abdullah] telah menceritakan kepada kami [Syu'bah] dari [Abdulaziz bin Rufai'] dari [Abu Ath Thufail] dari [Abu Sarihah] sepertinya, ia berkata: Dan (tanda-tanda) yang kesepuluh adalah turunnya Isa bin Maryam. Syu'bah berkata: Abdulaziz tidak memarfu'kannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7286</td></tr><tr><td>Arabic No</td><td>2901.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7286</td></tr><tr><td>Arabic No</td><td>2901.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 52</td></tr></tbody></table></div>
 

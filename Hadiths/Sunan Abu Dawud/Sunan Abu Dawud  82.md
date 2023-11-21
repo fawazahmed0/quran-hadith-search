@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hakam ibn Amr: The Prophet (ﷺ) forbade that the male should perform a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Basysyar] telah menceritakan kepada kami [Abu Dawud, yakni Ath Thayalisi] telah menceritakan kepada kami [Syu'bah] dari ['Ashim] dari [Abu Hajib] dari [Al Hakam bin Amru, yaitu Al Aqra'] bahwasanya Nabi shallallahu 'alaihi wasallam melarang seorang laki-laki berwudhu dengan air bekas bersucinya perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Хакама ибн ‘Амра, он же аль-Акъра‘: «Пророк ﷺ запретил мужчине совершать омовение остатком воды, который был использован при омовении женщиной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
 

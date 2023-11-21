@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thabit reported it on the authority of Anas:I have never said such a light and p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakar bin Nafi' al-'Abdi] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Anas] dia berkata, "Belum pernah aku shalat di belakang seseorang yang lebih ringkas shalatnya daripada shalat Rasulullah Shallallahu'alaihiwasallam dengan kesempurnaannya. Shalat beliau adalah saling berdekatan (durasinya antara satu rukun dengan rukun lainnya), dan shalat Abu Bakar adalah saling berdekatan (durasinya antara satu rukun dengan rukun lainnya). Lalu ketika Umar mengimami, maka dia memanjangkan dalam shalat shubuh. Rasulullah dahulu apabila mengucapkan, 'Sami'allahu Liman Hamidah, ' maka beliau berdiri hingga kami mengatakan bahwa beliau telah lalai, kemudian sujud dan duduk di antara dua sujud hingga kami mengatakan bahwa beliau telah lalai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1061</td></tr><tr><td>Arabic No</td><td>473</td></tr><tr><td>Reference</td><td>Book 4 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас говорил: «Я никогда не совершал ни за одним имамом столь лёгкой, но в то же время полноценной молитвы, как за Посланником Аллаха ﷺ. Молитва Посланника Аллаха ﷺ была таковой, что (части её были) близки друг к другу (по длине). И молитва Абу Бакра была таковой, что (части её были) близки друг к другу (по длине). Но когда (имамом) стал ‘Умар ибн аль-Хаттаб, он удлинил (чтение) во время утренней молитвы. Когда Посланник Аллаха ﷺ говорил: “Да услышит Аллах того, кто воздал Ему хвалу” /Сами‘а-Ллаху ли-ман хамидах/, он стоял так (долго), что мы думали: “Он забыл”. Затем он совершал земной поклон и сидел между двумя земными поклонами так (долго), что мы думали: “Он забыл”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1061</td></tr><tr><td>Arabic No</td><td>473</td></tr><tr><td>Reference</td><td>Book 4 Hadith 223</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah created His creation, and wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] Telah menceritakan kepada kami [Sulaiman] dia berkata; Telah menceritakan kepadaku [Mu'awiyah bin Abu Muzarrad] dari [Sa'id bin Yasar] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Setelah Allah Azza wa Jalla menciptakan semua makhluk, maka rahim pun berdiri bangkit dan memegang pinggang Ar Rohman, lalu ia berkata; 'Inikah tempat bagi yang berlindung dari terputusnya silaturahim (Menyambung silaturahim).' Allah Subhanahu wa Ta'ala menjawab: Tidakkah kamu rela bahwasanya Aku akan menyambung orang yang menyambungmu dan memutuskan yang memutuskanmu? ' Rahim menjawab; 'Tentu wahai Rabbku.' Allah berfirman: 'ltulah yang kamu miliki.' Abu Hurairah: 'Jika kamu mau, maka bacalah ayat berikut ini: Maka apakah kiranya jika kamu berkuasa kamu akan berbuat kerusakan di muka bumi dan memutuskan hubungan kekeluargaan? (QS. Muhammad 22). Telah menceritakan kepada kami [Ibrahim bin Hamzah] Telah menceritakan kepada kami [Hatim] dari [Mu'awiyah] dia berkata; Telah menceritakan kepadaku pamanku, [Abu Al Khabab Said bin Yasar] dari [Abu Hurairah] mengenai Hadits ini. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: Jika kalian mau, bacalah oleh kalian: Maka apakah kiranya jika kamu berkuasa kamu akan berbuat kerusakan di muka bumi dan memutuskan hubungan kekeluargaan? (Muhammad: 22). Telah menceritakan kepada kami [Bisyr bin Muhammad] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Mu'awiyah bin Abu Al Muzarrad] mengenai Hadits ini. Rasulullah shallallahu 'alaihi wasallam bersabda: jika kalian mau, bacalah ayat: Maka apakah kiranya jika kamu berkuasa kamu akan berbuat kerusakan di muka bumi dan memutuskan hubungan kekeluargaan? (Muhammad:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 65 Hadith 351</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «После того как Аллах создал (всё) сотворённое, (со своего места) поднялись (родственные связи и взялись за пояс Милостивого), Который спросил: “В чём дело?” Они сказали: “Это — место того, кто прибегает к Твоей защите от разрыва”. (Тогда Аллах) спросил: “Удовольствуетесь ли вы тем, что Я награжу того, кто станет вас поддерживать, и порву с тем, кто станет порывать вас?” Они ответили: “Да, о Господь мой!” — (и Аллах) сказал: “Да будет так!”» (Передав это,) Абу Хурайра сказал: «Прочтите, если желаете(, айат, в котором сказано): “И может ли случиться так, что если власть будет принадлежать вам, то станете вы распространять нечестие по земле и порывать родственные связи?”» В другой версии (этого хадиса, также передаваемой со слов Абу Хурайры), да будет доволен им Аллах, сообщается, что Посланник Аллаха ﷺ сказал: «Прочтите, если желаете, (аят, в котором сказано): “И может ли случиться так…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 65 Hadith 351</td></tr></tbody></table></div>
 

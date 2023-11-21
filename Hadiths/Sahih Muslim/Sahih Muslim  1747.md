@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Arqam reported that the Messenger of Allah (ﷺ) went out to the people 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam bin Abu Abdullah] katanya; telah menceritakan kepada kami [Al Qasim Asy Syaibani] dari [Zaid bin Arqam] katanya; Rasulullah shallallahu 'alaihi wasallam pernah berangkat menemui penduduk Quba' ketika mereka tengah mengerjakan shalat, lalu beliau bersabda: "Shalat awwabin (orang yang bertaubat) dikerjakan ketika anak unta mulai beranjak karena kepanasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>748.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд бин Аркъам, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ вышел к жителям Къубаъ, когда они совершали молитву, и сказал: “(Время) молитвы кающихся/аввабин/ (наступает тогда,) когда (земля начинает) обжи­гать (лапы) верблюжат”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>748.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 176</td></tr></tbody></table></div>
 

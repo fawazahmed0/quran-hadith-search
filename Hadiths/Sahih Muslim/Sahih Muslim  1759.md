@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mijlaz reported:I asked Ibn 'Abbas about the Witr prayer. He said: I heard t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1759</td></tr><tr><td>Arabic No</td><td>753</td></tr><tr><td>Reference</td><td>Book 6 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Миджляз сказал: «Я спросил Ибн ‘Аббаса о витре, и он сказал: “Я слышал, как Посланник Аллаха ﷺ говорил: ‹(Витр является молитвой в) один рак‘ат, (совершаемой) в конце ночи›”. Также я спросил Ибн ‘Умара, и он сказал: “Я слышал, как Посланник Аллаха ﷺ говорил: ‹(Витр является молитвой в) один рак‘ат, (совершаемой) в конце ночи›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1759</td></tr><tr><td>Arabic No</td><td>753</td></tr><tr><td>Reference</td><td>Book 6 Hadith 188</td></tr></tbody></table></div>
 

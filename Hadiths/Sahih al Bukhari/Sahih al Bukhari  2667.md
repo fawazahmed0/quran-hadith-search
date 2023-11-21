@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "If somebody takes a false oath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>2667</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд) да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Кто принёс ложную клятву (Аллахом), чтобы таким образом присвоить имущество мусульманина, тот встретит Аллаха разгневанным на него». Аль-Аш‘ас ибн Кайс сказал: «Клянусь Аллахом, я стал причиной ниспослания аята (на эту тему). Мы с одним иудеем вели тяжбу из-за участка земли, и он отрицал мои права на эту землю, и тогда я пришёл с ним к Пророку ﷺ. Пророк ﷺ спросил меня: “Есть ли у тебя доказательство?” Я ответил: “Нет”. Тогда он сказал иудею: “Поклянись”. Я возразил: “О Посланник Аллаха! Но ведь он сейчас поклянётся и присвоит моё имущество!” Тогда Всевышний Аллах ниспослал: “Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>2667</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

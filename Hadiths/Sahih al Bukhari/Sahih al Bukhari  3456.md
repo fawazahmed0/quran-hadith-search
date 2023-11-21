@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) said, "You will follow the wrong ways, of y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Abu Maryam] telah bercerita kepada kami [Abu Ghassan] berkata, telah bercerita kepadaku [Zaid bin Aslam] dari ['Atha' binYasar] dari [Abu Sa'id radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam besabda: "Kalian pasti akan mengikuti kebiasaan-kebiasaan orang sebelum kalian sejengkal demi sejengkal dan sehasta demi sehasta hingga seandainya mereka manempuh (masuk) ke dalam lobang biawak kalian pasti akan mengikutinya". Kami bertanya; "Wahai Rasulullah, apakah yang baginda maksud Yahudi dan Nashrani?". Beliau menjawab: "Siapa lagi (kalau bukan mereka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>3456</td></tr><tr><td>Reference</td><td>Book 60 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Поистине, станете вы следовать обычаям живших до вас пядь за пядью и локоть за локтем, и (дело дойдёт до того, что) если они проникнут в нору ящерицы, то и вы обязательно последуете за ними!» Мы спросили: «О Посланник Аллаха, (ты имеешь в виду) иудеев и христиан?» — и он сказал: «А кого же ещё?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>3456</td></tr><tr><td>Reference</td><td>Book 60 Hadith 123</td></tr></tbody></table></div>
 

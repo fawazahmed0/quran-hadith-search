@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa':The Prophet (ﷺ) and I walked till we reached the dumps of s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Hudzaifah] berkata, "Aku berjalan-jalan bersama Nabi shallallahu 'alaihi wasallam, beliau lalu mendatangi tempat pembuangan sampah suatu kaum di balik tembok dan kencing sambil berdiri sebagaimana kalian berdiri. Aku lalu menjauh dari beliau, namun beliau memberi isyarat kepadaku agar mendekat, maka aku pun mendekat dan berdiri di belakangnya hingga beliau selesai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>225</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 4 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен им Аллах, сказал: «Однажды, когда мы шли вместе с Пророком ﷺ я увидел, что он зашёл за стену в том месте, куда люди сбрасывали мусор, и стал так, как становится любой из вас, и помочился, а я удалился от него, но он подал мне знак, и тогда я встал сзади(, загораживая его,) и стоял так, пока он не закончил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>225</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 4 Hadith 91</td></tr></tbody></table></div>
 

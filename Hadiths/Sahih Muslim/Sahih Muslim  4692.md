@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Ishaq that 'Abdullah b. Yazid went 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Al Basyar] sedangkan lafadznya dari Ibnu Al Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] bahwa [Abdullah bin Yazid] keluar untuk shalat istisqa' bersama-sama dengan manusia, kemudian dia shalat dua rakaat dan beristisqa' (do'a minta hujan), dia berkata, "Saat itu aku bertemu dengan Zaid bin Arqam." Dia melanjutkan, "Dan tidak ada seorang pun antara kami dengan dia melainkan ada seorang laki-laki, atau mengatakan, "antara aku dengan dia ada seorang laki-laki." Abdullah bin Yazid berkata, "Lantas aku bertanya kepadanya, "Berapa kalikah Rasulullah ikut berperang?" dia menjawab, "Sembilan belas kali." Aku bertanya lagi, "Berapa kalikah kamu ikut berperang bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam?" dia menjawab, "Tujuh belas kali peperangan." Abdullah berkata, "Lantas aku bertanya, 'Peperangan apa yang pertama kali beliau ikuti? dia menjawab, "Perang Dzatul 'Usair atau 'Usyair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4692</td></tr><tr><td>Arabic No</td><td>1254.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4692</td></tr><tr><td>Arabic No</td><td>1254.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 174</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tufail reported; I. said to Ibn 'Abbas (Allah be pleased with them):I think 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Yahya bin Adam] Telah menceritakan kepada kami [Zuhair] dari [Abdul Malik bin Sa'id bin Al Abjar] dari [Abu Thufail] ia berkata; Saya berkata kepada [Ibnu Abbas], "Aku bermimpi melihat Rasulullah shallallahu 'alaihi wasallam." Ibnu Abbas berkata, "Jelaskanlah kepadaku." Aku pun menjelaskan, "Aku melihat beliau berada di atas kendaraannya, sementara di sekeliling beliau banyak sekali manusia." Ibnu Abbas pun berkata, "Benar, itu adalah Rasulullah shallallahu 'alaihi wasallam. Sesungguhnya mereka tidak pernah dipisahkan dari beliau dan tidak pula dibenci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 15 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 15 Hadith 264</td></tr></tbody></table></div>
 

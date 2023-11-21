@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:When ever Allah's Messenger (ﷺ) wanted to fondle any of his w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami ['Abdul Wahid] berkata, telah menceritakan kepada kami [Asy Syaibani] berkata, telah menceritakan kepada kami ['Abdullah bin Syadad] berkata, Aku mendengar [Maimunah] berkata, "Jika Rasulullah shallallahu 'alaihi wasallam ingin mencumbu salah seorang dari isterinya, beliau memerintahkannya untuk mengenakan sarung. Maka ia pun mengenakan sarung, sementara ia sedang haid." [Sufan] juga meriwayatkannya dari [Asy Syaibani]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>303</td></tr><tr><td>Arabic No</td><td>303</td></tr><tr><td>Reference</td><td>Book 6 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Шаддад сказал:«Я слышал, (как) Маймуна (рассказывала): “Обычно, когда Посланник Аллаха ﷺ желал прикасаться к одной из своих жён в то время, когда у неё были месячные, он повелевал ей (надеть изар) и она надевала его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>303</td></tr><tr><td>Arabic No</td><td>303</td></tr><tr><td>Reference</td><td>Book 6 Hadith 8</td></tr></tbody></table></div>
 

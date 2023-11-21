@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:I asked Allah's Messenger (ﷺ) abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] Telah menceritakan kepada kami [Abul Ahwash] Telah menceritakan kepada kami [Asy'ats bin Abu Sya'tsa'] dari [Al Aswad bin Yazid] dari [Aisyah] ia berkata; Aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai dinding Ka'bah, apakah termasuk Baitullah atau tidak?. Beliau menjawab: "Ya, termasuk." Aku bertanya, "Kenapa tidak dimasukkan mereka?" beliau bersabda: "Kaummu kekurangan dana." Aku bertanya lagi, "Kenapa pintunya tinggi begitu?" beliau menjawab: "Itu siasat bangsamu, supaya mereka dapat memasukkan orang yang disukainya dan melarang orang yang tidak disukainya. Kalau bukanlah karena bangsamu yang baru saja meninggalkan masa jahiliyah, yang menyebabkan kekhawatiran hati mereka akan menjadi ingkar, aku telah berpikir akan memasukkan dinding itu ke Baitullah dan membuat pintu sampai ke tanah." Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ubaidullah bin Musa] Telah menceritakan kepada kami [Syaiban] dari [Asy'ats bin Abu Asy Sya'tsa'] dari [Al Aswad bin Yazid] dari [Aisyah] ia berkata; Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai dinding (Ka'bah). Maka ia pun menuturkan hadits yang semakna dengan hadits Abul Ahwash, dan ia menyebutkan di dalamnya; "Bagaimana dengan pintunya yang tinggi dan tidak mampu dinaiki kecuali dengan tangga?" dan ia juga menyebutkan; "Karena khawatir hati mereka akan liar kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3249</td></tr><tr><td>Arabic No</td><td>1333.10</td></tr><tr><td>Reference</td><td>Book 15 Hadith 453</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Однажды я спросила Пророка ﷺ: “Является ли стена частью Каабы?” Он сказал: “Да”. Я спросила: “Так почему же они не присоединили её к Каабе?” Он ответил: “Потому что твои соплеменники испытывали недостаток в средствах”. Я спросила: “А почему дверь её поднята (над землёй)?” Он ответил: “Твои соплеменники сделали так, чтобы пускать внутрь, кого пожелают, и не давать (входить в Каабу тому), кому не пожелают. Если бы твои соплеменники не были (столь) близки к джахилиййи и я не опасался бы, что сердцам их не понравится (подобное), я бы присоединил эту стену к Каабе, а дверь опустил до (уровня) земли”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3249</td></tr><tr><td>Arabic No</td><td>1333.10</td></tr><tr><td>Reference</td><td>Book 15 Hadith 453</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported that Allah's Messenger (ﷺ) circumam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] ia berkata, Telah menceritakan kepada kami [Ali bin Mushir] dari [Ibnu Juraij] dari [Abu Zubair] dari [Jabir] ia berkata; "Pada waktu haji wada' Rasulullah Shallallahu'alaihiwasallam melaksanakan thawaf di Baitullah dengan mengendarai hewan tunggangan beliau, dan beliau menyentuh hajar aswad dengan tongkat beliau agar semua manusia melihat dan menyaksikan serta bisa menanyakan sesuatu kepada beliau, sebab pada saat itu orang-orang sedang mengerumuni beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>1273.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>1273.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 280</td></tr></tbody></table></div>
 

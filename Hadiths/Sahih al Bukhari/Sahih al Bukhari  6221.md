@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Two men sneezed before the Prophet. The Prophet (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Sulaiman] dari [Anas bin Malik] radliallahu 'anhu dia berkata; "Dua orang laki-laki tengah bersin di dekat Nabi shallallahu 'alaihi wasallam, lalu beliau mendo'akan yang satu dan membiarkan yang lain, maka ditanyakan kepada beliau, beliau pun menjawab: "Orang ini memuji Allah, (maka aku mendo'akannya) dan yang ini tidak memuji Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6221</td></tr><tr><td>Arabic No</td><td>6221</td></tr><tr><td>Reference</td><td>Book 78 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «(Однажды) два человека чихнули в присутствии Пророка ﷺ и одному он сказал: “Да помилует тебя Аллах /Йархаму-кя-Ллах/”, другому же он этого не сказал, (а когда его спросили о причине этого, Пророк ﷺ) ответил: “Этот воздал хвалу Аллаху, (чихнув,) а этот не воздал Аллаху хвалу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6221</td></tr><tr><td>Arabic No</td><td>6221</td></tr><tr><td>Reference</td><td>Book 78 Hadith 245</td></tr></tbody></table></div>
 

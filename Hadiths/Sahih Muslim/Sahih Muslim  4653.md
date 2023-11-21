@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha, femme du Prophète, (رضي الله عنها), elle lui deman
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir Ahmad bin 'Amru bin Sarh] dan [Harmalah bin Yahya] serta ['Amru bin Sawad Al 'Amiri], sedangkan lafadz mereka saling berdekatan, mereka berkata; telah menceritakan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku ['Urwah bin Zubair] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, telah menceritakan kepadanya bahwa suatu ketika ia pernah berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, pernahkah anda merasakan kesulitan yang paling sulit daripada hari perang uhud?" Beliau menjawab: "Aku pernah mengalami kesulitan dari kaummu, dan itulah kesulitan yang paling sulit yang pernah ku alamai dari mereka, yaitu peristiwa di hari 'aqabah. Ketika itu aku mendatangi Ibnu 'Abd Yaaliil bin 'Abd Kulal, tapi ia tidak mau memenuhi harapanku sehingga aku pergi meninggalkannya dengan penuh kecemasan, dan aku baru sadarkan diri ketika aku sampai di Qarnits Tsa'alib. Lalu aku mendongakkan kepalaku dan ternyata aku sedang dinaungi oleh awan, setelah kuperhatikan, ternyata malaikat Jibril ada di sana. dia memanggilku dan berkata: 'Sesungguhnya Allah 'azza wajalla telah mendengar perkataan kaummu terhadapmu dan penolakan mereka terhadap ajakanmu. Dan Dia telah mengutus malaikat penjaga gunung agar anda dapat menyuruhnya untuk menghancurkan mereka sekehendak hatimu'." Beliau bersabda: "Lalu malaikat penjaga gunungpun memanggilku dan mengucap salam kepadaku sambil berkata: 'Wahai Muhammad, Sungguh Allah telah mendengar perkataan kaummu terhadapmu, dan aku malaikat penjaga gunung telah diutus oleh Rabbmu untuk menemuimu guna melaksanakan apa yang anda kehendaki. Jika anda menghendaki, maka aku akan menutupkan dua gunung ini kepada mereka'." Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Bahkan aku sangat berharap semoga Allah mengeluarkan dari tulang-tulang sulbi mereka orang yang mau beribadah kepada Allah dan tidak menyekutukan-Nya dengan sesuatupun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4653</td></tr><tr><td>Arabic No</td><td>1795</td></tr><tr><td>Reference</td><td>Book 32 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4653</td></tr><tr><td>Arabic No</td><td>1795</td></tr><tr><td>Reference</td><td>Book 32 Hadith 135</td></tr></tbody></table></div>
 

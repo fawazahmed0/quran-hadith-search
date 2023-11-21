@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same hadith has been narrated by Abu Huraira, but instead of the word laghau
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila kamu mengatakan kepada temanmu pada hari Jum'at, 'Diamlah, ' padahal Imam sedang berkhutbah, maka sungguh kamu telah berbuat kesia-siaan." Abu Zinad berkata; Kata, 'FAQAD LAGHIITA' adalah menurut bahasanya Abu Hurairah, namun yang benar adalah, 'FAQAD LAGHAUTA
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>851.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис с другим иснадом подобен предыдущему, но с небольшими изменениями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>851.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 18</td></tr></tbody></table></div>
 

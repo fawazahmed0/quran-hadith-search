@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) once passed by two graves, and those two p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Mujahid] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata, dari Nabi Shallallahu'alaihiwasallam bahwasanya Beliau berjalan melewati dua kuburan yang penghuninya sedang disiksa, lalu Beliau bersabda: "Keduanya sungguh sedang disiksa, dan tidaklah keduanya disiksa disebabkan karena berbuat dosa besar. Yang satu disiksa karena tidak bersuci setelah kencing sedang yang satunya lagi karena selalu mengadu domba" Kemudian Beliau mengambil sebatang dahan kurma yang masih basah daunnya lalu membelahnya menjadi dua bagian kemudian menancapkannya pada masing-masing kuburan tersebut. Mereka bertanya: "Kenapa anda melakukan ini?". Nabi Shallallahu'alaihiwasallam menjawab: "Semoga diringankan (siksanya) selama batang pohon ini basah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1361</td></tr><tr><td>Arabic No</td><td>1361</td></tr><tr><td>Reference</td><td>Book 23 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды Пророк ﷺ проходил мимо двух могил и сказал: «Поистине, они подвергаются мучениям, и их мучают не из-за больших грехов. Что касается этого, то он не защищал себя от своей мочи, а что касается этого (второго), то он распространял слухи /намима/». Затем он взял свежую, голую пальмовую ветвь, разломал её пополам и после чего воткнул одну часть на одну могилу и одну на другую. Люди спросили: «О, Посланник Аллаха, для чего ты это сделал?» Он ответил: «Возможно, это облегчит им наказание, пока эти ветки не высохнут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1361</td></tr><tr><td>Arabic No</td><td>1361</td></tr><tr><td>Reference</td><td>Book 23 Hadith 114</td></tr></tbody></table></div>
 

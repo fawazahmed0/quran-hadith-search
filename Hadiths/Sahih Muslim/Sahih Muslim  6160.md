@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu al-Aliya said:The son of the uncle of your Prophet (ﷺ), i. e. Ibn Abbas, r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] lafazh ini milik Ibnu Al Mutsanna keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] berkata; Aku mendengar [Abu 'Aliyah] berkata; Telah menceritakan kepadaku anak paman Nabi kalian shallallahu 'alaihi wasallam yaitu [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Tidak sepantasnya bagi seorang hamba mengatakan bahwa aku lebih baik dari Yunus bin Matta Alaihis Salam. Dan padahal dia menasabkan dirinya kepada bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6160</td></tr><tr><td>Arabic No</td><td>2377</td></tr><tr><td>Reference</td><td>Book 43 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6160</td></tr><tr><td>Arabic No</td><td>2377</td></tr><tr><td>Reference</td><td>Book 43 Hadith 218</td></tr></tbody></table></div>
 

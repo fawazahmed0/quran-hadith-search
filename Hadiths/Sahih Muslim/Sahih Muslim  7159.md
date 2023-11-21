@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa Al-Ach'âri (que Dieu l'agrée), le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Abu Abdushshamad] telah menceritakan kepada kami [Abu Imran Al Jauni] dari [Abu Bakr bin Abdullah bin Qais] dari [ayahnya] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya disurga ada tenda dari mutiara berlubang, lebarnya enampuluh mil. Setiap sudutnya ada keluarga, mereka tidak melihat yang lain, orang mu'min mengelilingi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7159</td></tr><tr><td>Arabic No</td><td>2838.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7159</td></tr><tr><td>Arabic No</td><td>2838.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 28</td></tr></tbody></table></div>
 

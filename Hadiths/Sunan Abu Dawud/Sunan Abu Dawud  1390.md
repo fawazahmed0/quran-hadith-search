@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: Yazid ibn Abdullah said that Abdullah ibn 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Abdusshamad] telah mengabarkan kepada kami [Hammam] telah mengabarkan kepada kami [Qatadah] dari [Yazid bin Abdullah bin 'Amru] dari [Abdullah bin 'Amru] bahwa dia berkata; "Wahai Rasulullah, berapa lamakah aku harus mengkhatamkan Al Qur'an?" beliau bersabda: "Dalam sebulan." Abdullah bin 'Amru berkata; "Sesungguhnya aku bisa lebih dari itu." -Abu Musa (Ibnu Mutsanna) mengulang-ulang perkataan ini- dan Abdullah selalu meminta dipensasi hingga beliau bersabda: "Jika demikian, bacalah al Qur'an (hingga khatam) dalam tujuh hari." Abdullah berkata; "Aku masih dapat menyelesaikannya lebih dari itu." Beliau bersabda: "Tidak akan dapat memahaminya orang yang mengkhatamkan Al Qur'an kurang dari tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1390</td></tr><tr><td>Arabic No</td><td>1390</td></tr><tr><td>Reference</td><td>Book 6 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что он спросил: «О Посланник Аллаха! За сколько следует прочитывать Коран полностью?» Он ответил: «За месяц». Он возразил: «Но я способен на большее!» И, по словам Абу Мусы, Посланник Аллаха ﷺ называл всё меньшее число дней. Наконец он сказал: «За семь дней». Он возразил: «Но я способен на большее!» (Посланник Аллаха ﷺ) сказал: «Не понимает Коран тот, кто прочитывает его полностью менее чем за три дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1390</td></tr><tr><td>Arabic No</td><td>1390</td></tr><tr><td>Reference</td><td>Book 6 Hadith 20</td></tr></tbody></table></div>
 

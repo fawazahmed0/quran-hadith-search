@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ruwayfi' ibn Thabit al-Ansari: The Prophet (ﷺ) said: He who believes 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], dan [Utsman bin Abu Syaibah] secara makna, Abu Daud berkata; dan aku lebih yakin kepada haditsnya. Ia berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Muhammad bin Ishaq] dari [Yazid? bin Abu Habib] dari [Abu Marzuq] mantan budak Tujib, dari [Hanasy Ash Shan'ani], dari [Ruwaifi' bin Tsabit Al Anshari] bahwa Nabi shallallahu 'alaihi wasallam berkata: "Barangsiapa yang beriman kepada Allah dan Hari Akhir, maka janganlah ia menaiki unta yang berasal dari fai' orang-orang muslim hingga apabila ia telah menjadikannya kurus maka ia mengembalikannya. Dan barangsiapa yang beriman kepada Allah dan Hari Akhir, maka janganlah ia memakai pakaian yang berasal dari fai' orang-orang muslim hingga apabila ia telah menjadikannya usang, maka ia mengembalikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2708</td></tr><tr><td>Arabic No</td><td>2708</td></tr><tr><td>Reference</td><td>Book 15 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2708</td></tr><tr><td>Arabic No</td><td>2708</td></tr><tr><td>Reference</td><td>Book 15 Hadith 232</td></tr></tbody></table></div>
 

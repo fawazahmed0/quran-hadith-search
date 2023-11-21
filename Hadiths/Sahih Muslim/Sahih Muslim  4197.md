@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated on the authority of Jabir through other chains of transm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan ini adalah lafadznya, telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Az Zubair] dari [Jabir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Peliharalah hartamu dan janganlah kamu binasakan. Sesungguhnya barangsiapa memberikan umra kepada orang lain, maka umra tersebut bagi orang yang telah menerimanya, baik ia masih hidup maupun matinya, dan akan dialihkan kepada keturunannya." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Hajjaj bin Abu Utsman]. (dalam jalur lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] dari [Waki'] dari [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abdul Warits bin Abdus Shamad] telah menceritakan kepadaku [Ayahku] dari [Kakekku] dari [Ayyub] semuanya dari [Abu Az Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam, seperti makna hadits Abu Khaitsamah. Dan dalam hadits Ayyub ada tambahan yaitu, dia berkata, "Kemudian beliau menyuruh orang-orang Anshar untuk memberikan sebagian pemberiannya kepada orang-orang Muhajirin, kemudian beliau bersabda: "Peliharalah harta pemberian kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4197</td></tr><tr><td>Arabic No</td><td>1625.10</td></tr><tr><td>Reference</td><td>Book 24 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4197</td></tr><tr><td>Arabic No</td><td>1625.10</td></tr><tr><td>Reference</td><td>Book 24 Hadith 35</td></tr></tbody></table></div>
 

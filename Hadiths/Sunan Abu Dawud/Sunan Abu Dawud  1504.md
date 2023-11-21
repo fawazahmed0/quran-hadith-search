@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: AbuDharr said: Prophet of Allah. The wealthy people have a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdurrahman bin Ibrahim] telah menceritakan kepada Kami [Al Walid bin Muslim], telah menceritakan kepada Kami [Al Auza'i], telah menceritakan kepadaku [Hassan bin 'Athiyyah], ia berkata; telah menceritakan kepadaku [Muhammad bin Abu Aisyah], ia berkata; telah menceritakan kepadaku [Abu Hurairah RhadhiyAllahu 'anhu], ia berkata; Abu Dzar berkata; wahai RasulAllah! Orang-orang kaya pergi dengan membawa banyak pahala, mereka melakukan shalat sebagaimana Kami melakukan shalat, mereka berpuasa sebagaimana Kami berpuasa, mereka mempunyai kelebihan harta yang mereka sedekahkan sementara Kami tidak memiliki harta untuk bersedekah. Kemudian Rasulullah shalallAllahu 'alaihi wa sallam berkata: "Wahai Abu Dzar, maukah aku ajarkan kepadamu beberapa kalimat yang dengannya kamu dapat menyusul orang yang telah mendahuluimu dan orang yang di belakangmu tidak dapat mengejarmu kecuali orang yang mengerjakan seperti apa yang kamu kerjakan?" Dia menjawab; ya, wahai Rasulullah! Beliau bersabda: "Engkau bertakbir kepada tiga puluh tiga kali setiap selesai shalat, bertahmid tiga puluh tiga kali, bertasbih tiga puluh tiga kali dan kamu tutup dengan ucapan LAA ILAAHA ILLALLAAHU WAHDAU LAA SYARIIKALAHU, LAHUL MULKU WA LAHUL HAMDU WA HUWA 'ALAA KULLI SYAI-IN QADIIR (tidak ada tuhan yang berhak disembah kecuali Allah semata, tidak ada sekutu bagiNya, milikNya seluruh kerajaan, dan bagi-Nya segala puji dan Dia Maha Mampu melakukan segala sesuatu) niscaya dosa-dosanya akan diampuni walaupun sebanyak buih lautan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1504</td></tr><tr><td>Arabic No</td><td>1504</td></tr><tr><td>Reference</td><td>Book 8 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что однажды Абу Зарр, да будет доволен им Аллах, сказал: «О Посланник Аллаха! Богатые забрали себе всю награду! Они молятся подобно нам и постятся подобно нам, но при этом у них есть излишки имущества, благодаря которым они подают милостыню, а у нас нет стредств, которые мы могли бы отдавать в качестве милостыни». Посланник Аллаха ﷺ сказал: «О Абу Зарр! Не научить ли тебя словам, благодаря которым ты сможешь догнать опередивших тебя, и никто из тех, кого ты опередил, не сможет догнать тебя, если только они не будут делать то же, что и ты?» Он ответил: «Конечно, о Посланник Аллаха!» Он сказал: «После каждой молитвы по тридцать три раза нужно произносить слова “Аллах Велик /Аллаху Акбар/”, слова “Хвала Аллаху /Аль-хамду ли-Ллях/”, и слова “Пречист Аллах /Субхана-Ллах/”, на сотый раз говоря: “Нет божества, кроме одного лишь Аллаха, у Которого нет сотоварища. Ему принадлежит владычество, и Ему хвала, и Он всё может! /Ля иляха илля-Ллаху вахда-ху ля шарика ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду, ва хува ‘аля кулли шай‘ин кадир/” Сказавшему это простятся его грехи, даже если будут они подобны пене морской»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1504</td></tr><tr><td>Arabic No</td><td>1504</td></tr><tr><td>Reference</td><td>Book 8 Hadith 89</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Maimun Al-Audi:Sa'd used to teach his sons the following words
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 'Awanah] telah bercerita kepada kami ['Abdul Malik bin 'Umair] aku mendengar ['Amru bin Maimun Al Audiy] berkata; adalah [Sa'ad] biasa mengajarkan anak-anaknya kalimat-kalimat (bacaan do'a) sebagaimana seorang guru mengajarkan anak-anak kecil menulis dan berkata; "Sesungghnya Rasulullah shallallahu 'alaihi wasallam berlindung dengan membaca kalimat-kalimat tersebut pada akhir shalat (yaitu): "ALLAHUMMA INNII A'UUDZU BIKA MINAL JUBNI WA A'UUDZU BIKA AN URADDA ILAA ARDZALIL 'UMURI WA A'UDZU BIKA MIN FITNATID DUNYA WA A'UUDZU BIKA MIN 'ADZAABIL QOBRI" ("Ya Allah aku berlindung kepada-Mu dari sikap pengecut dan aku berlindung kepada-Mu dari dikembalikan kepada serendah-rendahnya usia (pikun) dan aku berlindung kepada-Mu dari fitnah dunia dan aku berlindung kepada-Mu dari siksa qubur") Lalu aku ceritakan hal ini kepada [Mush'ab] dan dia membenarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Сообщается, что ‘Амр ибн Маймун аль-Ауди сказал: «Са‘д обучал своих сыновей следующим словам подобно тому, как учитель учит детей письму. Он говорил: “Посланник Аллаха ﷺ просил защиты от этих вещей после каждой молитвы, говоря: “О Аллах, поистине, я прибегаю к Тебе от малодушия, и я прибегаю к Тебе от того, чтобы оказаться дряхлым стариком, и я прибегаю к Тебе от искушений мира этого и я прибегаю к Тебе от мучений могилы /Аллахумма, инни а‘узу бика мин аль-джубни, ва а‘узу бика мин ан урадда иля арзали-ль-‘умури, ва а‘узу бика мин фитнати-д-дунйа, ва а‘узу бика мин ‘азаби-ль-кабр/”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
 

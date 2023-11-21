@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I never saw anyone more like the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Ibnu Basysyar] keduanya berkata; telah menceritakan kepada kami [Utsman bin Umar] berkata, telah mengabarkan kepada kami [Isra'il] dari [Maisarah bin Habib] dari [Al Minhal bin Amru] dari ['Aisyah binti Thalhah] dari Ummul Mukminin ['Aisyah radliallahu 'anha] ia berkata, "Aku tidak pernah melihat seseorang yang mirip dalam kesopanan, ketenangan, kesabaran dan dalam memberi petunjuk -Al Hasan menyebutkan, "dalam berbicara dan bertutur kata namun Al Hasan tidak menyebutkan 'kesabaran dan dalam memberi petunjuk- dengan Rasulullah shallallahu 'alaihi wasallam selain dari pada Fatimah -semoga Allah memuliakan wajahnya-. Jika Fatimah datang menemui beliau, maka beliau berdiri, meraih tangannya, mencium dan mendudukkannya di tempat duduknya. Dan jika beliau datang menemuinya, maka ia akan meraih tangan beliau, mencium dan mendudukkannya di tempat duduknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5217</td></tr><tr><td>Arabic No</td><td>5217</td></tr><tr><td>Reference</td><td>Book 43 Hadith 445</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных ‘Аиша, да будет доволен ею Аллах, сказала: «Я никого не видела более похожим на Посланника Аллаха ﷺ внешностью, в образе жизни, в достоинствах и в речи, чем Фатима, да возвеличит её Аллах! Когда она приходила к нему, он вставал ей навстречу, брал её за руку, целовал её и усаживал на своё место. А когда он приходил к ней, она вставала ему навстречу, брала его за руку, целовала его и усаживала на своё место»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5217</td></tr><tr><td>Arabic No</td><td>5217</td></tr><tr><td>Reference</td><td>Book 43 Hadith 445</td></tr></tbody></table></div>
 

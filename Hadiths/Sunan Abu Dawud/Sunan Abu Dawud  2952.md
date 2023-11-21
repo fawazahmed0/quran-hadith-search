@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) was brought a pouch containing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada kami [Isa], telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Al Qasim bin 'Abbas] dari [Abdullah bin Niyar] dari ['Urwah] dari [Aisyah] radliallahu 'anha, bahwa Nabi shallallahu 'alaihi wasallam diberi kendi kecil yang berisi manik-manik, kemudian beliau membaginya untuk wanita merdeka dan budak. Aisyah berkata; dahulu ayahku radliallahu 'anhu membagikan untuk orang yang merdeka dan budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2952</td></tr><tr><td>Arabic No</td><td>2952</td></tr><tr><td>Reference</td><td>Book 20 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Пророку ﷺ принесли кожаный мешочек с бусинами и он разделил их между свободными и невольницами. ‘Аиша, да будет доволен ею Аллах, также сказала: «Мой отец, да будет доволен им Аллах, наделял и свободного, и раба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2952</td></tr><tr><td>Arabic No</td><td>2952</td></tr><tr><td>Reference</td><td>Book 20 Hadith 25</td></tr></tbody></table></div>
 

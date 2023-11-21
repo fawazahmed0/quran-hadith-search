@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:The Prophet (ﷺ) ordered us to do seven (things) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Rabi'] Telah menceritakan kepada kami [Abul Ahwash] dari [Al Asy'ats] dari [Mu'awiyah bin Suwaid] bahwa [Al Bara' bin Azib] radliallahu 'anhuma berkata; Nabi shallallahu 'alaihi wasallam telah memerintahkan kami tujuh perkara dan juga melarang kami dari tujuh perkara. Beliau memerintahkan kami untuk menjenguk orang sakit, mengantar jenazah, menjawab orang yang bersin, menunaikan sumpah, menolong orang yang terzhalimi, menebarkan salam dan memenuhi undangan. Kemudian beliau melarang kami untuk mengenakan cincin emas, memakai bejana perak, mencabut uban, mengenakan Al Qassiyyah (pakaian yang bercampur dengan bahan sutera), Al Istibraq (kain yang dilapisi dengan bahan sutera) dan Ad Diibaj (sejenis pakain dari kain sutera). Hadits ini diperkuat oleh [Abu Awanah] dan [Asy Syaibani] dari [Asy'ats] dalam menyebarkan salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5175</td></tr><tr><td>Arabic No</td><td>5175</td></tr><tr><td>Reference</td><td>Book 67 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара бин ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ велел нам делать семь (вещей) и запретил нам семь (других). Он велел нам навещать больного, провожать погребальные носилки, произносить благопожелание чихнувшему, выполнять клятвы, помогать притесняемому, распространять приветствия, принимать приглашения. И он запретил нам носить золотые кольца, пользоваться серебряной посудой, маясир (подушки из шёлка), кассию (льняная одежда, содержащая шёлк) и дибадж (один из видов шёлка)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5175</td></tr><tr><td>Arabic No</td><td>5175</td></tr><tr><td>Reference</td><td>Book 67 Hadith 110</td></tr></tbody></table></div>
 

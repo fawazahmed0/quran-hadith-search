@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Qais Al-Ash'ari:The Prophet (ﷺ) said, "A tent (in Parad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hajjaj bin Minhal] telah bercerita kepada kami [Hammam] berkata aku mendengar [Abu 'Imran Al Iawniy] dia bercerita dari [Abu Bakr bin 'Abdullah bin Qais Al Asy'ariy] dari [bapaknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "(Di surga) ada kemah bundar melengkung terbuat dari mutiara yang menjulang ke langit sepanjang tiga puluh mil pada setiap sisinya di sediakan untuk orang beriman sebagai penghuninya, orang yang lain tidak dapat melihat mereka". [Abu 'Abdush Shamad] dan [Al Harits bin 'Ubaid] berkata dari [Abu 'Imran]: "Panjangnya enam puluh mil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3243</td></tr><tr><td>Arabic No</td><td>3243</td></tr><tr><td>Reference</td><td>Book 59 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Кайса, да будет доволен им Аллах, что Пророк ﷺ сказал: «(В Раю) есть шатёр из полой жемчужины, высотой в тридцать миль. В каждом его углу находятся женщины верующего, которые не будут видеть друг друга».\nВ версии, которую передал Абу ‘Имран говориться, что шатёр имеет высоту в шестьдесят миль
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3243</td></tr><tr><td>Arabic No</td><td>3243</td></tr><tr><td>Reference</td><td>Book 59 Hadith 54</td></tr></tbody></table></div>
 

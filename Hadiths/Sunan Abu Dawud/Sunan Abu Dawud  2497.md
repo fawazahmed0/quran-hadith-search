@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah], telah menceritakan kepada kami [Abdullah bin Yazid], telah menceritakan kepada kami [Haiwah], serta [Ibnu Lahi'ah], mereka berkata; telah menceritakan kepada kami [Abu Hani' Al Khaulani] bahwa ia mendengar [Abu Abdurrahman Al Hubuli] berkata; saya mendengar [Abdullah bin 'Amr], berkata; Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Tidaklah orang-orang yang berperang di jalan Allah kemudian mereka mendapatkan rampasan perang melainkan mereka telah menyegerakan dua pertiga pahala mereka di akhirat dan tersisa bagi mereka sepertiga, jika mereka tidak mendapatkan rampasan perang maka pahala mereka sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1906)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2497</td></tr><tr><td>Arabic No</td><td>2497</td></tr><tr><td>Reference</td><td>Book 15 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1906)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2497</td></tr><tr><td>Arabic No</td><td>2497</td></tr><tr><td>Reference</td><td>Book 15 Hadith 21</td></tr></tbody></table></div>
 

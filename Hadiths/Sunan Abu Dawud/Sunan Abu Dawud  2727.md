@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Yazid ibn Hurmuz said: Najdah wrote to Ibn Abbas as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahbub bin Musa Abu Shalih], telah menceritakan kepada kami [Abu Ishaq Al Fazari], dari [Zaidah] dari [Al A'masy] dari [Al Mukhtar bin Shaifi], dari [Yazid bin Hurmuz], ia berkata; Najdah menulis surat kepada [Ibnu Abbas] ia bertanya mengenai ini dan ini -Yazid menyebutkan beberapa hal- dan mengenai budak, apakah ia mendapatkan fai'? Dan mengenai wanita, apakah mereka keluar bersama Rasulullah shallallahu 'alaihi wasallam? Dan apakah mereka mendapatkan bagian? Kemudian Ibnu Umar berkata; seandainya ia tidak melakukan perbuatan orang-orang yang bodoh maka aku tidak akan mengirim surat kepadanya. Adapun budak maka ia diberi pemberian, dan adapun para wanita maka mereka mengobati dan memberi minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1812)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2727</td></tr><tr><td>Arabic No</td><td>2727</td></tr><tr><td>Reference</td><td>Book 15 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1812)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2727</td></tr><tr><td>Arabic No</td><td>2727</td></tr><tr><td>Reference</td><td>Book 15 Hadith 251</td></tr></tbody></table></div>
 

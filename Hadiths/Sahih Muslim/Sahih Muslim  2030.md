@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Dahhak b. Qais wrote to Nu'man b. Bashir asking him what the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Dlamrah bin Sa'id] dari [Ubaidullah bin Abdullah] ia berkata, Adl Dlahak bin Qais menulis surat kepada [An Nu'man bin Basyir] menanyakan tentang surat yang apa yang dibaca oleh Rasulullah shallallahu 'alaihi wasallam pada hari Jum'at selain surat Jumu'ah. Maka ia menjawab, "Beliau membaca surat Al Ghasyiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2030</td></tr><tr><td>Arabic No</td><td>878.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Убейдуллаха ибн ‘Абдуллаха, что Даххак ибн Кайс написал Ну‘ману ибн Баширу, спрашивая его: «Что Посланник Аллаха ﷺ читал в пятницу, кроме суры “аль-Джуму‘а”?» На что тот ответил: «Он читал: “Дошёл ли до тебя рассказ о Покрывающем?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2030</td></tr><tr><td>Arabic No</td><td>878.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 80</td></tr></tbody></table></div>
 

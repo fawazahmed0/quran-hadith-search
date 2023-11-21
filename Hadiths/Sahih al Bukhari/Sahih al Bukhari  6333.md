@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:Allah's Messenger (ﷺ) said to me. "Will you relieve me from Dhi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Isma'il] dari [Qais] dia berkata; saya mendengar [Jarir] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Bisakah kamu membuat aku dapat beristirahat dari urusan Dzul Khalashah". Maksud beliau adalah patung yang disembah yang dinamakan Ka'bah Al Yamaniyah. Lalu aku berkata; "Wahai Rasulullah, sesungguhnya aku tidak ahli dalam menunggang kuda." Akhirnya Rasulullah shallallahu 'alaihi wasallam menepuk dadaku dan berdo'a: 'Ya Allah mantapkanlah dia dan jadikanlah dia seorang pemberi petunjuk yang lurus.' Jarir berkata; 'Lalu aku berangkat bersama lima pengunggang kuda yang ulung dari kaumku.' Dan sepertinya Sufyan mengatakan; 'Lalu aku berangkat bersama beberapa orang dari kaumku, lalu aku datangi tempat tersebut dan aku membakarnya, setelah itu aku menemui Nabi shallallahu 'alaihi wasallam dan berkata; 'Wahai Rasulullah, demi Allah, tidaklah aku menemui anda melainkan aku telah meninggalkan mereka (para penyembah Dzul Khalashah) kecuali seolah-olah mereka seperti unta yang penyakitan (sebutan untuk kehancuran rumah tersebut karena telah dibakar). Lalu beliau mendo'akan keberkahan untuk pasukan beserta kudanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6333</td></tr><tr><td>Arabic No</td><td>6333</td></tr><tr><td>Reference</td><td>Book 80 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джарир (ибн ‘Абдуллах, да будет доволен им Аллах,) сказал: «(Однажды) Посланник Аллаха ﷺ сказал мне: “Не избавишь ли ты меня от Зуль-Халясы?” Так назывались идолы, которым они поклонялись, и (также) они назывались йеменской Каабой. Я сказал: “О посланник Аллаха, я не могу хорошо держаться на коне”, — и (Пророк ﷺ) ударил меня по груди и сказал: “О Аллах, укрепи его и сделай его ведущим и ведомым по правильному пути! /Аллахумма, саббитху ва-дж‘альху хадийан махдийан/”». \n(Джарир) сказал: «И я отправился (туда с отрядом из) ста пятидесяти отличных всадников из племени ахмас, которые были моими соплеменниками. Я прибыл (в это капище) и сжёг их, а затем пришёл к Пророку ﷺ и сказал: “О посланник Аллаха, клянусь Аллахом, я пришёл к тебе только после того, как (это капище) уподобилось чесоточному верблюду!” И (после этого Пророк ﷺ) помолился за ахмаситов и их конницу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6333</td></tr><tr><td>Arabic No</td><td>6333</td></tr><tr><td>Reference</td><td>Book 80 Hadith 30</td></tr></tbody></table></div>
 

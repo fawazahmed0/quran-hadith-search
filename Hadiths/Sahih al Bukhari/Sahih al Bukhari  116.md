@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Once the Prophet (ﷺ) led us in the 'Isha' prayer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan kepada saya [Al Laits] berkata, telah menceritakan kepadaku ['Abdurrahman bin Khalid bin Musafir] dari [Ibnu Syihab] dari [Salim] dan [Abu Bakar bin Sulaiman bin Abu Hatsmah] bahwa ['Abdullah bin 'Umar] berkata, "Nabi shallallahu 'alaihi wasallam shalat Isya' bersama kami di akhir hayatnya. Setelah selesai memberi salam beliau berdiri dan bersabda: "Tidakkah kalian perhatikan malam kalian ini?. Sesungguhnya pada setiap penghujung seratus tahun darinya tidak akan tersisa seorangpun dari muka bumi ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>116</td></tr><tr><td>Arabic No</td><td>116</td></tr><tr><td>Reference</td><td>Book 3 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды, уже) в конце своей жизни, Пророк ﷺ совершил с нами вечерний намаз, и когда он произнёс в конце её слова таслима, он поднялся и сказал: “Понимаете ли вы, что это за ночь? Поистине, через сто лет после этой ночи не останется на земле ни одного из живущих на ней (ныне)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>116</td></tr><tr><td>Arabic No</td><td>116</td></tr><tr><td>Reference</td><td>Book 3 Hadith 58</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:That he heard As-Sa'b bin Jath-thama Al-Laithi, wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah menceritakan kepadaku ['Ubaidullah bin 'Abdullah bin 'Utbah] bahwa ['Abdullah bin 'Abbas radliallahu 'anhu] mengabarkannya bahwa dia mendengar [Ash Sha'bah bin Jatstsamah Al Laitsiy] seorang sahabat Nabi shallallahu 'alaihi wasallam mengabarkan bahwa dia memberi hadiah kepada Rasulullah shallallahu 'alaihi wasallam seekor keledai liar saat Beliau sedang berada di Abwa' atau Waddan dalam keadaan berihram lalu Beliau menolaklnya". Sha'bu berkata: "Ketika Beliau mengetahui raut wajahku karena hadiahku ditolak, Beliau berkata: "Kami tidak bermaksud menolak hadiahmu namun kami sedang dalam keadaan berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 51 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Аббаса, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ находился в Абве (или: Ваддане) и был в состоянии ихрама, ас-Са‘б ибн Джассама ал-Ляйси, подарил ему дикого осла, однако он вернул ему (этот подарок). Ас-Са’б сказал: «Заметив же по моему лицу, (что я огорчён этим,) Пророк ﷺ сказал: “Мы вернули его тебе только потому, что находимся в состоянии ихрама”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 51 Hadith 30</td></tr></tbody></table></div>
 

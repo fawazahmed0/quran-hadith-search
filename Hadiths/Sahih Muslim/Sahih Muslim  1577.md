@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Musa b. Salama Hudhali said:I asked Ibn 'Abbas: How should I say prayer when I a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1577</td></tr><tr><td>Arabic No</td><td>688.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муса ибн Саляма аль-Хузали сказал: «(Однажды) я спросил Ибн ‘Аббаса: “Как мне следует совершать молитву, когда я (нахожусь) в Мекке, и не совершаю её вместе с имамом?” Он сказал: “(Совершай) два рак‘ата, (ведь) это является сунной Абуль-Касима ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1577</td></tr><tr><td>Arabic No</td><td>688.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 8</td></tr></tbody></table></div>
 

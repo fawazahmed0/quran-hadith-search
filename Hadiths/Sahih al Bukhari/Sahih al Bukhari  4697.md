@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "The keys of Unseen are five wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] Telah menceritakan kepada kami [Ma'an] dia berkata; Telah menceritakan kepadaku [Malik] dari ['Abdullah bin Dinar] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kunci perkara ghaib itu ada lima, tidak ada yang mengetahuinya kecuali Allah. Tidak ada yang tahu apa yang akan terjadi dengan hari esok kecuali Allah. Tidak ada yang tahu apa yang terjadi di dalam rahim-rahim kecuali Allah. Tidak ada yang tahu kapan datangnya hujan kecuali Allah. Tidak ada seorangpun yang tahu dimana dia akan meninggal. Dan tidak ada yang tahu kapan terjadi hari kiamat kecuali Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4697</td></tr><tr><td>Arabic No</td><td>4697</td></tr><tr><td>Reference</td><td>Book 65 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Ключей к сокровенному пять, и не знает их никто, кроме Аллаха: никто не знает, что будет завтра, кроме Аллаха; никто не знает, насколько сжимается каждая утроба, кроме Аллаха; никто не знает, когда пойдёт дождь, кроме Аллаха. Ни одна душа не знает, в какой земле она умрёт, кроме Аллаха; никто не знает, когда наступит Час, кроме Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4697</td></tr><tr><td>Arabic No</td><td>4697</td></tr><tr><td>Reference</td><td>Book 65 Hadith 219</td></tr></tbody></table></div>
 

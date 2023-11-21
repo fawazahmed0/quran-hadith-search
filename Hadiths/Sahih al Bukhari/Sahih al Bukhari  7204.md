@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I gave the Pledge of allegiance to the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Sayyar] dari [Ay Sya'bi] dari [Jarir bin Abdullah], mengatakan; aku berbaiat kepada Nabi shallallahu 'alaihi wasallam untuk mendengar dan taat, lantas beliau menemui aku seraya mengatakan; "Semaksimal kemampuanmu dan untuk menasehati sesama muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7204</td></tr><tr><td>Arabic No</td><td>7204</td></tr><tr><td>Reference</td><td>Book 93 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джарир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Я присягнул Пророку ﷺ в том, что буду слушать и повиноваться, и он разъяснил мне: “В том, что мне под силу, и проявлять искренность (в наставлении) по отношению к каждому мусульманину”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7204</td></tr><tr><td>Arabic No</td><td>7204</td></tr><tr><td>Reference</td><td>Book 93 Hadith 64</td></tr></tbody></table></div>
 

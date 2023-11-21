@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] berkata, telah mengabarkan kepada kami [Amru] bahwa [Abu An Nadhr] menceritakan kepadanya dari [Sulaiman bin Yasar] dari ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam, ia berkata, "Aku tidak pernah melihat Rasulullah Shallallahu 'Alahi Wasallam tertawa terbahak bahak hingga terlihat tekaknya, Biasanya beliau hanya tersenyum. Jika beliau melihat awan mendung atau angin, semua itu terlihat dari raut mukanya (yakni beliau bersedih). Aku lalu bertanya kepada Rasulullah, "Wahai Rasulullah, orang-orang jika melihat awan mendung, mereka berbahagia karena mengharap akan mendapatkan hujan. Tetapi jika engkau melihat awan mendung maka aku melihat tanda kegelisahan dari raut wajahmu?" beliau menjawab: "Wahai 'Aisyah, aku tidak merasa aman. Karena di dalamnya terkandung adzab; suatu kaum pernah disiksa oleh Allah dengan angin, dan kaum lain saat melihat siksa itu justu berkata, "Inilah awan yang akan menurunkan hujan kepada kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4828) Sahih Muslim (899)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5098</td></tr><tr><td>Arabic No</td><td>5098</td></tr><tr><td>Reference</td><td>Book 43 Hadith 326</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4828) Sahih Muslim (899)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5098</td></tr><tr><td>Arabic No</td><td>5098</td></tr><tr><td>Reference</td><td>Book 43 Hadith 326</td></tr></tbody></table></div>
 

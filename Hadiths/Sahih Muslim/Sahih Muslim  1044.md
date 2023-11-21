@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Mas'ûd (que Dieu l'agrée), un homme vint trouver l'Envoyé de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Ismail bin Abi Khalid] dari [Qais] dari [Abu Mas'ud al-Anshari] dia berkata, "Seorang laki-laki mendatangi Rasulullah Shallallahu'alaihiwasallam seraya berkata, 'Aku mengundurkan diri dari shalat shubuh karena (tindakan) fulan berupa memanjang-manjangkan shalat dalam mengimami kami.' Tidaklah aku melihat Nabi Shallallahu'alaihiwasallam marah dalam suatu nasihat satu kali pun daripada kemarahannya pada waktu itu, seraya beliau bersabda, 'Wahai manusia, sesungguhnya di antara kalian ada yang membuat lari orang lain. Siapapun di antara kalian mengimami manusia, maka hendaklah dia meringkasnya, karena di belakangnya ada orang yang sudah tua, lemah, dan orang yang memiliki hajat'." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Husyaim] dan [Waki'] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Bapakku] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] semuanya meriwayatkan dari [Ismail] dalam isnad ini semisal hadits Husyaim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>466.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас’уд аль-Ансари сказал: «(Однажды) какой-то человек пришёл к Посланнику Аллаха ﷺ и сказал: “Поистине, (иногда) я не прихожу на утреннюю молитву из-за такого-то (имама) потому, что он проводит её с нами (слишком) долго”, и я никогда не видел, чтобы, увещевая (людей), Пророк ﷺ гневался сильнее, чем в тот день. Он сказал: “О люди! Поистине, (некоторые из вас) отталкивают (других от молитвы)! Пусть же тот, кто станет проводить её с людьми, облегчает, ведь среди тех, кто находится позади него, (может) оказаться старый, слабый или тот, у кого есть (неотложные) дела!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>466.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 206</td></tr></tbody></table></div>
 

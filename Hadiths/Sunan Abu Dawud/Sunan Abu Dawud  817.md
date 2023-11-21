@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah mengabarkan kepada kami [Isa yaitu Ibnu Yunus] dari [Isma'il] dari [Asbagh bekas budak 'Amru bin Huraits] dari [Amru bin Huraits] dia berkata; Pada waktu shalat shubuh, seakan-akan aku mendengar suara Nabi shallallahu 'alaihi wasallam membaca; "FALAA UQSIMU BIL KHUNNAS, AL JAWAARIL KUNNAS." (Sebagian bacaan dari surat Attakwir)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>817</td></tr><tr><td>Reference</td><td>Book 2 Hadith 427</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Амр ибн Хурайс, да будет доволен им Аллах: «Я как будто и сейчас слышу голос Пророка ﷺ читающего во время утренней молитвы: “Но нет! Клянусь планетами отступающими, передвигающимися и исчезающими!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>817</td></tr><tr><td>Reference</td><td>Book 2 Hadith 427</td></tr></tbody></table></div>
 

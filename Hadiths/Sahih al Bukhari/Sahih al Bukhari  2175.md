@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:Allah's Messenger (ﷺ) said, "Don't sell gold for gold unles
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadhal] telah mengabarkan kepada kami [Isma'il bin 'Ulayyah] berkata, telah menceritakan kepada saya [Yahya bin Abu Ishaq] telah menceritakan kepada kami ['Abdurrahman bin Abu Bakrah] berkata, [Abu Bakrah radliallahu 'anhu] berkata; Telah bersabda Rasulullah shallallahu 'alaihi wasallam: "Janganlah kalian berjual beli emas dengan emas kecuali dengan jumlah yang sama, perak dengan perak kecuali dengan jumlah yang sama dan berjual belilah emas dengan perak atau perak dengan emas sesuai keinginan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2175</td></tr><tr><td>Arabic No</td><td>2175</td></tr><tr><td>Reference</td><td>Book 34 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакра (Нуфай‘ бин Калядa), да будет доволен им Аллах, передал, что Посланник Аллаха ﷺ сказал: «Не продавайте ни золота за золото, если только равное (количество не обменивается) на равное, ни серебра за серебро, если только равное (количество не обменивается) на равное, что же касается (продажи) золота за серебро и серебра за золото, то (можете) продавать (одно за другое) как хотите»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2175</td></tr><tr><td>Arabic No</td><td>2175</td></tr><tr><td>Reference</td><td>Book 34 Hadith 125</td></tr></tbody></table></div>
 

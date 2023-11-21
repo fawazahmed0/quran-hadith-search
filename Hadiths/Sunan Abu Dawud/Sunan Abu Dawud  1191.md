@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A'ishah (May Allah be pleased with her):The sun and the moon are not ec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Hisyam bin 'Urwah] dari ['Urwah] dari ['Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Terjadinya gerhana Matahari dan bulan bukanlah karena mati atau hidupnya salah seorang, apabila kalian melihat hal itu, maka berdo'alah kepada Allah 'azza wajalla, bertakbirlah serta perbanyak sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1044) Sahih Muslim (901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1191</td></tr><tr><td>Arabic No</td><td>1191</td></tr><tr><td>Reference</td><td>Book 3 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Поистине, солнечные и лунные затмения не происходят из-за чьей-то смерти или появления на свет. Если увидите затмение, обращайтесь к Всемогущему и Великому Аллаху с мольбами, произносите такбиры и раздавайте милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1044) Sahih Muslim (901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1191</td></tr><tr><td>Arabic No</td><td>1191</td></tr><tr><td>Reference</td><td>Book 3 Hadith 31</td></tr></tbody></table></div>
 

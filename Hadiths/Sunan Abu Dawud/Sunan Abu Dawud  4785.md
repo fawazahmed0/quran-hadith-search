@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said:the Messenger of Allah (ﷺ) was never given his choice between t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] ia berkata, "Tidaklah Rasulullah shallallahu 'alaihi wasallam diberi dua pilihan kecuali beliau memilih yang paling mudah dari keduanya selama tidak termasuk dosa. Jika hal itu bagian dari dosa, maka beliau adalah orang yang paling menjauhi dosa di antara manusia. Dan Rasulullah shallallahu 'alaihi wasallam tidak pernah merasa dendam untuk dirinya kecuali jika itu berhubungan dengan pelanggaran terhadap kehormatan Allah, maka beliau dendam karena Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6126) Sahih Muslim (2327)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4785</td></tr><tr><td>Arabic No</td><td>4785</td></tr><tr><td>Reference</td><td>Book 43 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6126) Sahih Muslim (2327)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4785</td></tr><tr><td>Arabic No</td><td>4785</td></tr><tr><td>Reference</td><td>Book 43 Hadith 13</td></tr></tbody></table></div>
 

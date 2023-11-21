@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "The hand should be cut off for stealing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari ['Amrah] dari ['Aisyah] mengatakan; Nabi Shallallahu'alaihiwasallam bersabda; "Tangan pencuri dipotong jika senilai seperempat dinar keatas." Hadits ini diperkuat oleh [Abdurrahman bin Khalid] dan [Ibnu Akhi Az Zuhri] dan [Ma'mar] dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6789</td></tr><tr><td>Arabic No</td><td>6789</td></tr><tr><td>Reference</td><td>Book 86 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Руку следует отрубать за (кражу) того, что оценивается в четверть динара и выше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6789</td></tr><tr><td>Arabic No</td><td>6789</td></tr><tr><td>Reference</td><td>Book 86 Hadith 18</td></tr></tbody></table></div>
 

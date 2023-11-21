@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Umar, who said:The properties abandoned
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin 'Abbad] dan [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Ibnu Abu Syaibah, Ishaq berkata; telah mengabarkan kepada kami, sedangkan yang lainnya mengatakan; telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Az Zuhri] dari [Malik bin Aus] dari [Umar] dia berkata, "Harta benda bani Nadlir adalah fai' (harta rampasan) yang Allah berikan kepada Rasul-Nya tanpa mengharuskan kaum Muslimin untuk mengarahkan seekor kuda atau unta pun (untuk berperang). Hal itu khusus diberikan untuk Nabi shallallahu 'alaihi wasallam, dari fai' tersebut beliau memberi nafkah kepada keluarganya selama setahun, selebihnya beliau berikan untuk persiapan kendaraan dan persenjataan dalam jihad fi sabilillah." Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; telah mengabarkan kepada kami [Sufyan bin 'Uyainah] dari [Ma'mar] dari [Az Zuhri] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4575</td></tr><tr><td>Arabic No</td><td>1757.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4575</td></tr><tr><td>Arabic No</td><td>1757.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 56</td></tr></tbody></table></div>
 

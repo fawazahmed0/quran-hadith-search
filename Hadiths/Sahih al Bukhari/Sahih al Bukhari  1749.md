@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Yazid:I performed Hajj with Ibn Mas'ud , and saw him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al Hakam] dari [Ibrahim] dari ['Abdurrahman bin Yazid] bahwa dia menunaikan haji bersama [Ibnu Mas'ud radliallahu 'anhu] lalu dia melihat Ibnu Mas'ud radliallahu 'anhu melempar Al Jumrah Al Kubra dengan tujuh kerikil yang posisi Ka'bah Baitullah berada disisi kirinya sedangkan Mina disisi kanannya lalu dia berkata; "Inilah tempat melempar seseorang yang telah diturunkan kepadanya surah Al Baqarah, yaitu Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1749</td></tr><tr><td>Arabic No</td><td>1749</td></tr><tr><td>Reference</td><td>Book 25 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Язид рассказывал, что он совершал хадж вместе с Ибн Мас‘удом, да будет доволен им Аллах. И он видел, как Ибн Мас‘уд бросал семь камешков в большой столб, встав так, что Кааба была слева от него, а Мина — справа. Затем он сказал: «Здесь стоял тот, кому была ниспослана сура “аль-Бакара”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1749</td></tr><tr><td>Arabic No</td><td>1749</td></tr><tr><td>Reference</td><td>Book 25 Hadith 227</td></tr></tbody></table></div>
 

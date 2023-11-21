@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:No babe is born but upon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang bayi yang dilahirkan melainkan dalam keadaan fitrah, maka bapaknyalah yang menjadikannya Yahudi, atau Nasrani atau Musyrik." Lalu seseorang bertanya kepada beliau: "Wahai Rasulullah, bagaimana pendapatmu jika bayi itu meninggal sebelum itu?" Maka beliau bersabda: "Allah lebih tahu dengan apa yang mereka kerjakan." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] mereka berdua berkata; telah menceritakan kepada kami [Abu Mu'awiyah] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ibnu Numair], [bapakku] telah menceritakan kepada kami; keduanya dari [Al A'masy] dengan sanad ini dalam hadits Ibnu Numair dengan lafazh; "Tidaklah setiap anak yang dilahirkan kecuali dalam keadaan di atas millah (Islam) ". Dan dalam riwayat Abu Bakr dari Abu Mu'awiyah; 'Kecuali di atas millah (agama Islam) ini.' Sedangkan dalam riwayat Abu Kuraib dari Abu Mu'awiyah; Tidaklah seorang anak yang dilahirkan kecuali berada di atas fitrah ini, hingga dia mengucapkannya dengan lisannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6759</td></tr><tr><td>Arabic No</td><td>2658.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6759</td></tr><tr><td>Arabic No</td><td>2658.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 37</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Aisha, (mother of the faithful believers) wanted to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa 'Aisyah, Ummul Mu'minin radliallahu 'anha berkehendak untuk membeli seorang budak wanita lalu dibebaskannya. Tuannya berkata: "Kami jual kepada anda namun perwaliannya tetap menjadi hak kami. Kemudian kejadian ini diceritakan kepada Rasulullah shallallahu 'alaihi wasallam. Maka Beliau bersabda: "Janganlah menghalangi kamu persyaratan mereka itu, karena sesungguhnya perwalian (seorang budak) adalah untuk yang memerdekakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2169</td></tr><tr><td>Arabic No</td><td>2169</td></tr><tr><td>Reference</td><td>Book 34 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что ‘Аиша, мать правоверных, хотела купить рабыню и освободить её, но её хозяева сказали: «Мы продадим её, но с условием, что уаля останется за нами». Она рассказала об этом Посланнику Аллаха ﷺ. И он сказал: «Пусть тебе это не мешает (выкупить её), ведь право наследования имущества освобождённого принадлежит только тому, кто освободил раба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2169</td></tr><tr><td>Arabic No</td><td>2169</td></tr><tr><td>Reference</td><td>Book 34 Hadith 120</td></tr></tbody></table></div>
 

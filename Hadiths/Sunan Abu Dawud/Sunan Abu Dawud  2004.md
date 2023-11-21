@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Harith ibn Abdullah ibn Aws said:I came to Umar ibn al-Khattab and asked him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin 'Aun], telah mengabarkan kepada kami [Abu 'Awanah] dari [Ya'la bin 'Atha'] dari [Al Walid bin Abdurrahman] dari [Al Harits bin Abdullah bin Aus], ia berkata; aku pernah mendatangi Umar bin Al Khathab dan bertanya kepadanya mengenai seorang wanita yang melakukan thawaf di Ka'bah pada hari nahr (hari raya kurban), kemudian ia mengalami haid. Umar berkata; hendaknya akhir masanya adalah di Ka'bah. Al Walid berkata; kemudian Al Harits berkata; demikianlah Rasulullah saallallahu 'alaihi wa sallam memberikan fatwa kepadaku. Al Harits berkata; kemudian Umar berkata; Apakah engkau merasa ragu hingga engkau menanyakan kepadaku sesuatu yang engkau tanyakan kepada Rasulullah shallallahu 'alaihi wasallam, agar aku menyelisihi beliau?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>2004</td></tr><tr><td>Reference</td><td>Book 11 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Харис ибн ‘Абдуллах ибн Аус сказал: «Я пришёл к ‘Умару ибн аль-Хаттабу и спросил его о женщине, которая совершила обход вокруг Каабы в день жертвоприношения, а потом у неё началась менструация. Он сказал: “Пусть это станет её прощанием с Домом”. Аль-Харис сказал: “Такой же ответ дал мне Посланник Аллаха ﷺ”. ‘Умар сказал: “Вот оно что! Да пострадают руки твои! Ты спросил меня о том же, о чём уже спрашивал Посланника Аллаха ﷺ чтобы удостовериться, что мой ответ не противоречит его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>2004</td></tr><tr><td>Reference</td><td>Book 11 Hadith 284</td></tr></tbody></table></div>
 

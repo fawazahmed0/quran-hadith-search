@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "L'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] aku membaca Hadits [Malik] dari [Rabi'ah bin Abu 'Abdur Rahman] dari [Anas bin Malik]; Anas berkata; dia mendengar; Nabi Shallallahu'alaihi wasallam adalah orang yang tingginya sedang, tidak terlalu pendek dan tidak terlalu tinggi, tidak terlalu putih dan tidak terlalu coklat. Rambutnya berombak, tidak keriting dan tidak lurus. Allah mengutusnya pada umur empat puluh, beliau tinggal di Makkah sepuluh tahun dan di Madinah sepuluh tahun juga. Dan Wafat pada umur enam puluh tahun, jumlah uban di kepala dan jenggotnya tidak lebih dari dua puluh. Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan ['Ali bin Hujr] berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Al Qasim bin Zakaria]; Telah menceritakan kepada kami [Khalid bin Makhlad]; Telah menceritakan kepadaku [Sulaiman bin Bilal] keduanya dari [Rabi'ah] yaitu Ibnu 'Abdur Rahman dari [Anas bin malik] dengan Hadits yang serupa Malik bin Anas, hanya ada tambahan pada Hadits keduanya; 'beliau putih bercahaya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6089</td></tr><tr><td>Arabic No</td><td>2347.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6089</td></tr><tr><td>Arabic No</td><td>2347.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 147</td></tr></tbody></table></div>
 

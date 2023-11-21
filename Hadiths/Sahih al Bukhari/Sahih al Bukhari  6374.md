@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:Seek refuge with Allah by saying the words which the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Husain] dari [Za'idah] dari [Abdul Malik] dari [Mush'ab bin Sa'd] dari [Ayahnya] dia berkata; "Mohon perlindunganlah kalian dengan beberapa kalimat yang digunakan oleh Nabi Shallallahu 'alahi wasallam, yaitu; "ALLAHUMMA INNII A'UUDZU BIKA MINAL JUBNI, WA A'UUDZU BIKA MINAL BUKHLI, WA A'UUDZU BIKA MIN AN URADDA ILAA ARDZALIL 'UMUR WA A'UUDZU BIKA MIN FITNATID DUNYA WA 'ADZAABIL QABRI (Ya Allah, aku berlindung kepada-Mu dari sifat pengecut, aku berlindung kepada-Mu dari sifat kikir, aku berlindung kepada-Mu kepikunan, aku berlindung dari fitnah dunia dan siksa kubur)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6374</td></tr><tr><td>Arabic No</td><td>6374</td></tr><tr><td>Reference</td><td>Book 80 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘д ибн Абу Ваккас, да будет доволен им Аллах, сказал: «Обращайтесь (к Аллаху) за защитой словами, которыми обращался за защитой Пророк ﷺ: «О Аллах, поистине, я ищу у Тебя защиты от трусости, и я прошу у Тебя защиты от скупости, и я прошу у Тебя защиты от того, чтобы оказаться дряхлым стариком, и я прошу у Тебя защиты от искушений мира этого и мучений могилы / Аллахумма, инни а‘узу бика мин аль-джубни, ва а‘узу бика мин аль-бухли, ва а‘узу бика мин ан урадда иля арзали-ль-‘умури, ва а‘узу бика мин фитнати-д-дунйа, ва ‘азаби-ль-къабр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6374</td></tr><tr><td>Arabic No</td><td>6374</td></tr><tr><td>Reference</td><td>Book 80 Hadith 71</td></tr></tbody></table></div>
 

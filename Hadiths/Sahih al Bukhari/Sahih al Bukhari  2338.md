@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar expelled the Jews and the Christians from Hijaz. When A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Al Miqdam] telah menceritakan kepada kami [Fudhoil bin Sulaiman] telah menceritakan kepada kami [Musa] telah mengabarkan kepada kami [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam ". Dan berkata, ['Abdur Razzaaq] telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah menceritakan kepadaku [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar] bahwa 'Umar bin Al Khaththab radliallahu 'anhu mengusir Yahudi dan Nashrani dari tanah Hijaz. Dan Rasulullah shallallahu 'alaihi wasallam ketika menaklukan Khaibar berkehendak untuk mengusir Kaum Yahudi dari wilayah tersebut. Dan ketika Beliau menguasainya tanah Khaibar Beliau manfaatkan untuk Allah, RasulNya dan Kaum Muslimin dan Beliau berkehendak mengusir Kaum Yahudi darinya, namun Kaum Yahudi meminta kepada Rasulullah shallallahu 'alaihi wasallam agar Beliau mengizinkan mereka tetap tinggal disana untuk memanfaatkannya dan mereka mendapat hak bagian separuh dari hasil buah-buahannya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kami tetapkan kalian tinggal dan memberdayakannya sesuai kehendak kami". Maka mereka menetap disana hingga akhirnya 'Umar radliallahu 'anhu mengusir mereka ke daerah Taima' dan Ariha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2338</td></tr><tr><td>Arabic No</td><td>2338</td></tr><tr><td>Reference</td><td>Book 41 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «‘Умар изгнал иудеев и христиан с земли Хиджаза. Что же касается Посланника Аллаха ﷺ то после завоевания Хайбара он хотел выселить оттуда иудеев, так как, когда он завоевал (Хайбар, эта земля) стала принадлежать Аллаху, Его посланнику ﷺ и мусульманам. И он захотел выселить оттуда иудеев, но они попросили Посланника Аллаха ﷺ (позволить им) остаться там при условии, что они будут (обрабатывать землю) за половину урожая фиников, и Посланник Аллаха ﷺ сказал им: “Мы оставим вас здесь (на этих условиях), насколько пожелаем”. И они оставались (там) до тех пор, пока ‘Умар не выселил их в Тайму и Ариху»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2338</td></tr><tr><td>Arabic No</td><td>2338</td></tr><tr><td>Reference</td><td>Book 41 Hadith 19</td></tr></tbody></table></div>
 

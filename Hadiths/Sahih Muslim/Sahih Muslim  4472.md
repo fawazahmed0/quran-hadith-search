@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Allah's Messenger (ﷺ) pronounced judgment on the basi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] dia berkata; telah menceritakan kepada kami [Zaid] -yaitu Ibnu Hubab- telah menceritakan kepadaku [Saif bin Sulaiman] telah mengabarkan kepadaku [Qais bin Sa'd] dari [Amru bin Dinar] dari [Ibnu Abbas], bahwa Rasulullah shallallahu 'alaihi wasallam menetapkan perkara dengan sumpah dan saksi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4472</td></tr><tr><td>Arabic No</td><td>1712</td></tr><tr><td>Reference</td><td>Book 30 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4472</td></tr><tr><td>Arabic No</td><td>1712</td></tr><tr><td>Reference</td><td>Book 30 Hadith 3</td></tr></tbody></table></div>
 

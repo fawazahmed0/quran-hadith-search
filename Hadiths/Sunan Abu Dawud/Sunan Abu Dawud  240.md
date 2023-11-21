@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah reported :when the Messenger of Allah (May peace be upon him) wanted to w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al-Mutsanna] telah menceritakan kepada kami [Abu 'Ashim] dari [Hanzhalah] dari [Al-Qasim] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam apabila mandi junub, beliau meminta sesuatu (tempat air) sebesar tempat untuk memerah susu. Lalu beliau mengambil air dengan kedua telapak tangannya, beliau memulai dari bagian kanan kepala, kemudian pada bagian sebelah kiri. Sesudah itu, beliau mengambil lagi air dengan kedua telapak tangannya, lalu beliau tuangkan di atas kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (258) Sahih Muslim (318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>240</td></tr><tr><td>Arabic No</td><td>240</td></tr><tr><td>Reference</td><td>Book 1 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ (хотел) купаться из-за осквернения, он повелевал принести сосуд подобный «хилабу», и набирал рукой воды и начинал с правой части головы. Затем он переходил на левую сторону, после чего набрав воды руками наливал ее на голову»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (258) Sahih Muslim (318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>240</td></tr><tr><td>Arabic No</td><td>240</td></tr><tr><td>Reference</td><td>Book 1 Hadith 240</td></tr></tbody></table></div>
 

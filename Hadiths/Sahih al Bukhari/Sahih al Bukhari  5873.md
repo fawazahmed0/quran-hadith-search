@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) had a silver ring made for himself an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Abdullah bin Numair] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah membuat cincin dari perak, cincin tersebut masih berada di tangan beliau, setelah (beliau meninggal) cincin tersebut pindah ke tangan Abu Bakr, lalu setelah Abu Bakr pindah ke tangan Umar, setelah Umar pindah ke tangan Utsman hingga setelah itu Utsman menjatuhkannya di sumur Aris, cincin itu bertuliskan 'Muhammad Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5873</td></tr><tr><td>Arabic No</td><td>5873</td></tr><tr><td>Reference</td><td>Book 77 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ попросил изготовить перстень из серебра, и он носил его на своей руке, затем его носил на своей руке Абу Бакр, затем ‘Умар, затем ‘Усман, пока однажды он не упал (с руки ‘Усмана) в колодец Арис. На нём была выгравирована надпись “Мухаммад — Посланник Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5873</td></tr><tr><td>Arabic No</td><td>5873</td></tr><tr><td>Reference</td><td>Book 77 Hadith 90</td></tr></tbody></table></div>
 

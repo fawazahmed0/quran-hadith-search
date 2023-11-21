@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd Sa'id al-Khudri reported:We, on behalf of every young or old, free man or sl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] Telah menceritakan kepada kami [Dawud bin Qais] dari [Iyadl bin Abdullah] dari [Sa'id Al Khudri] ia berkata; Pada masa Rasulullah shallallahu 'alaihi wasallam masih hidup, kami membayar zakat fithrah untuk setiap orang, baik anak kecil maupun dewasa, merdeka maupun budak, yaitu satu sha' makanan berupa keju, atau gandum, atau kurma atau anggur kering. Pada masa pemerintahan Mu'awiyah bin Abu Sufyan, dia berpidato di hadapan jama'ah haji atau umrah, katanya antara lain; "Dua Mud gandum negeri Syam sama dengan satu sha' kurma." Karena pidatonya itu maka banyak orang yang membayar zakat fithrahnya seperti itu. Abu Sa'id berkata, "Tetapi aku tetap saja membayar seperti apa yang telah kulakukan sejak zaman Nabi shallallahu 'alaihi wasallam hingga akhir hayatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>985.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Са‘ид аль-Худри сказал: «Когда среди нас был Посланник Аллаха ﷺ, (в качестве) закята разговения, (обязательного для) каждого малого и старого, свободного или раба, мы раздавали по одному са‘ пшеницы, или одному са‘ сушёного творога, или одному са‘ ячменя, или одному са‘ фиников, или одному са‘ изюма. И мы продолжали поступать так, пока к нам не приехал Му‘авия ибн Аби Суфьян, который совершал хадж (или: умру). Обратившись к людям с минбара, он среди прочего сказал: “Поистине, я считаю, что два мудда пшеницы из Шама равны одному са‘ фиников”, и люди стали придерживаться этого». Абу Са‘ид сказал: «Что же касается меня, то я буду продолжать раздавать (этот закят) так же, как раздавал его прежде, пока не умру»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>985.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 22</td></tr></tbody></table></div>
 

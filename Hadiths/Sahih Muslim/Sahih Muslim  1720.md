@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) used to observe thirteen rak'ahs of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Abdullah bin Numair], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Hisyam] dari [Ayahnya] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa shalat malam tiga belas rakaat, dengan lima rakaat witir, beliau tidak pernah melakukan sambil duduk selain di akhir (hayatnya)." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah], telah menceritakan kepada kami ['Abdah bin Sulaiman], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] dan [Abu Usamah], semuanya dari [Hisyam] dengan sanad hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1720</td></tr><tr><td>Arabic No</td><td>737.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ часто совершал ночью (добровольные) молитвы (общим количеством) в тринадцать рак‘атов, в том числе витр в пять рак‘атов. (Совершая витр), он садился только в конце (этой молитвы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1720</td></tr><tr><td>Arabic No</td><td>737.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 149</td></tr></tbody></table></div>
 

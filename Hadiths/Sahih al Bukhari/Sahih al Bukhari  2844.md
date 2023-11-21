@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) used not to enter any house in Medina except the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Hammam] dari [Ishaq bin 'Abdullah] dari [Anas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam tidak pernah memasuki rumah di Madinah selain rumah Ummu Sulaim kecuali rumah istri-istri Beliau. Lalu ditanyakan kepada Beliau tentang hal ini, maka Beliau menjawab: "Sungguh aku berbelas kasihan kepadanya karena saudaranya terbunuh di sisiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2844</td></tr><tr><td>Arabic No</td><td>2844</td></tr><tr><td>Reference</td><td>Book 56 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Обычно Пророк ﷺ не заходил ни в один дом в Медине, если не считать дома Умм Суляйм и (домов) своих жён; (когда же его) спросили (о причине этого), он сказал: “Поистине, мне жалко её, ибо её брата убили, когда он был вместе со мной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2844</td></tr><tr><td>Arabic No</td><td>2844</td></tr><tr><td>Reference</td><td>Book 56 Hadith 60</td></tr></tbody></table></div>
 

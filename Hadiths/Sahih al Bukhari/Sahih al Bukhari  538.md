@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:that Allah's Messenger (ﷺ) said, "Pray Zuhr prayer when it 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] berkata, telah menceritakan kepada kami [Bapakku] ia berkata, telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Abu Shalih] dari [Abu Sa'id] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tundalah shalat Zhuhur (hingg panas mereda), karena panas yang sangat menyengat berasal dari hembusan jahannam." Hadits ini dikuatkan oleh [Sufyan] dan [Yahya] dan [Abu 'Awanah] dari [Al A'masy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>538</td></tr><tr><td>Reference</td><td>Book 9 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид сказал: «Посланник Аллаха ﷺ сказал: “Откладывайте полуденную молитву /зухр/, ибо, поистине, жара усиливается от расширения ада”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>538</td></tr><tr><td>Reference</td><td>Book 9 Hadith 15</td></tr></tbody></table></div>
 

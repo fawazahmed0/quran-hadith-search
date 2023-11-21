@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When the Prophet (ﷺ) recited a Sura that contained the pros
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami ['Ubaidullah] berkata, telah menceritakan kepada saya [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; "Nabi shallallahu 'alaihi wasallam pernah membacakan untuk kami satu surat yang berisi ayat sajadah. Kemudian Beliau sujud. Lalu kami pun sujud hingga ada seorang diantara kami yang tidak mendapatkan tempat untuk meletakkan keningnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1075</td></tr><tr><td>Arabic No</td><td>1075</td></tr><tr><td>Reference</td><td>Book 17 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ читал в нашем присутствии такую суру, в которой упоминалось о земном поклоне, он сам совершал поклон, а мы кланялись вместе с ним, (и иногда получалось так, что) некоторым из нас не удавалось найти (на полу) места, которого можно было бы коснуться лбом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1075</td></tr><tr><td>Arabic No</td><td>1075</td></tr><tr><td>Reference</td><td>Book 17 Hadith 9</td></tr></tbody></table></div>
 

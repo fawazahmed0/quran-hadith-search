@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qatida reported:I heard Anas as saying that the Companion of the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Khalid, yaitu Ibnu al-Harits] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata, saya mendengar [Anas] berkata, "Dahulu para sahabat Rasulullah shallallahu 'alaihi wasallam tertidur, kemudian mereka shalat tanpa berwudhu." Dia berkata, "Aku berkata, 'Aku mendengarnya dari Anas. Dia berkata, 'Ya, demi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>835</td></tr><tr><td>Arabic No</td><td>376.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас сказал: «(В ожидании молитвы) сподвижники Посланника Аллаха ﷺ часто засыпали, после чего они совершали молитву, не совершая (заново) омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>835</td></tr><tr><td>Arabic No</td><td>376.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 156</td></tr></tbody></table></div>
 

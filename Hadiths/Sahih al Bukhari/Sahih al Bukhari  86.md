@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma':I came to 'Aisha while she was praying, and said to her, "What ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, Telah menceritakan kepada kami [Wuhaib] berkata, Telah menceritakan kepada kami [Hisyam] dari [Fatimah] dari [Asma'] berkata: Aku menemui Aisyah saat dia sedang shalat. Setelah itu aku tanyakan kepadanya: "Apa yang sedang dilakukan orang-orang?" Aisyah memberi isyarat ke langit. Ternyata orang-orang sedang melaksanakan shalat (gerhana matahari). Maka Aisyah berkata: "Maha suci Allah". Aku tanyakan lagi: "Satu tanda saja?" Lalu dia memberi isyarat dengan kepalanya, maksudnya mengangguk tanda mengiyakan. Maka akupun ikut shalat namun timbul perasaan yang membingungkanku, hingga aku siram kepalaku dengan air. Dalam khutbahnya, Nabi shallallahu 'alaihi wasallam memuji Allah dan mensucikan-Nya, lalu bersabda: "Tidak ada sesuatu yang belum diperlihatkan kepadaku, kecuali aku sudah melihatnya dari tempatku ini hingga surga dan neraka, lalu diwahyukan kepadaku: bahwa kalian akan terkena fitnah dalam kubur kalian seperti -atau hampir berupa- fitnah -yang aku sendiri tidak tahu apa yang diucapkan Asma' diantaranya adalah fitnah Al Masihud dajjal-; "akan ditanyakan kepada seseorang (didalam kuburnya); "Apa yang kamu ketahui tentang laki-laki ini?" Adapun orang beriman atau orang yang yakin, -Asma' kurang pasti mana yang dimaksud diantara keduanya- akan menjawab: 'Dia adalah Muhammad Rasulullah telah datang kepada kami membawa penjelasan dan petunjuk. Maka kami sambut dan kami ikuti. Dia adalah Muhammad, ' diucapkannya tiga kali. Maka kepada orang itu dikatakan: 'Tidurlah dengan tenang, sungguh kami telah mengetahui bahwa kamu adalah orang yang yakin'. Adapun orang Munafiq atau orang yang ragu, -Asma' kurang pasti mana yang dimaksud diantara keduanya-, akan menjawab; "aku tidak tahu siapa dia, aku mendengar manusia membicarakan sesuatu maka akupun mengatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>86</td></tr><tr><td>Arabic No</td><td>86</td></tr><tr><td>Reference</td><td>Book 3 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асмаъ, да будет доволен ею Аллах, сказала: \n— (Однажды) я зашла к ‘Аише, да будет доволен ею Аллах, в то время, когда она совершала молитву, и спросила (её): «Что происходит с людьми?» (В ответ) она указала (рукой) на небо и воскликнула: «Преславен Аллах! (Субхана-Ллах!)» (Взглянув в сторону мечети, я увидела, что) люди совершают молитву, и спросила: «(Это) знамение?» — и она утвердительно кивнула головой. Тогда я тоже приступила к намазу и молилась, пока не начала терять сознание, из-за чего мне пришлось полить себе голову водой. А (после намаза) Пророк ﷺ воздал хвалу Всемогущему и Великому Аллаху, восславил Его и сказал: «На этом месте я (только что) увидел всё, что мне не было показано раньше, в том числе — Рай и Ад. И мне было ниспослано откровение о том, что в могилах своих вы подвергнетесь такому же (или: близкому к этому) испытанию и будет им испытание, связанное с Антихристом. (Каждого умершего) спросят: «Что ты знаешь об этом человеке?» — и верующий (или: убеждённый) ответит: «Это — Мухаммад, Посланник Аллаха, который пришёл к нам с явными доказательствами и руководством, а мы ответили (ему) и последовали (за ним). Это — Мухаммад», и он повторит (эти слова) трижды, после чего (ангелы) скажут ему: «Спи во благе, ибо мы убедились, что ты веровал в него!» Что же касается лицемера (или: сомневающегося), то он скажет: «Я не знаю, я только слышал, как люди говорили что-то, и говорил то же самое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>86</td></tr><tr><td>Arabic No</td><td>86</td></tr><tr><td>Reference</td><td>Book 3 Hadith 28</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mas'ud b. al-Hakam al-Ansari informed Nafi' that he had heard Hadrat 'Ali (may A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna] dan [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] semuanya dari [Ats Tsaqafi] - [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Abdul Wahab] ia berkata, saya mendengar [Yahya bin Sa'id] ia berkata, telah mengabarkan kepadaku [Waqid bin Amru bin Sa'id bin Mu'adz Al Anshari] bahwa [Nafi' bin Jubair] telah mengabarkan kepadanya bahwa [Mas'ud bin Al Hakam Al Anshari] telah mengabarkan kepadanya bahwa ia mendengar [Ali bin Abu Thalib] berkata tentang jenazah; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam berdiri kemudian duduk." Ia menceritakan hal itu karena Nafi' bin Jubair melihat Waqid bin Amr berdiri hingga jenazah diletakkan. Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Abu Zaidah] dari [Yahya bin Sa'id] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2228</td></tr><tr><td>Arabic No</td><td>962.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Мас‘уд ибн аль-Хакам аль-Ансари рассказал о том, что он слышал, как ‘Али ибн Аби Талиб говорил о похоронной процессии: «(Сначала) Посланник Аллаха ﷺ вставал (видя её), но затем (перестал это делать и оставался) сидеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2228</td></tr><tr><td>Arabic No</td><td>962.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 105</td></tr></tbody></table></div>
 

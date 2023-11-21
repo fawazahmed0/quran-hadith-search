@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:(While we were going for the Battle of Tabuk and wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] Telah menceritakan kepada kami [Ma'an] dia berkata; Telah menceritakan kepadaku [Malik] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabat beliau yang tengah melintasi hijr (tempat kaum Tsamud, pent.): "Jangan kalian memasuki kepada mereka yaitu kaum yang disiksa kecuali kalian menangis, bila kalian tidak menangis, jangan memasuki mereka, karena dikhawatirkan kalian akan tertimpa seperti yang menimpa mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 65 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал сподвижникам про жителей аль-Хиджра: «Не входите в их жилища, если только вы (не входите туда) плачущими. Если же вы не плачете, то не входите к ним, чтобы вас не постигло подобное тому, что постигло их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 65 Hadith 224</td></tr></tbody></table></div>
 

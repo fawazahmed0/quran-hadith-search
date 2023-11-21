@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mishaj b. Musa:I asked Anas b. Malik: Narrate to us what you heard the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al Mishaj bin Musa] dia berkata; kataku kepada [Anas bin Malik]; "Sampaikanlah kepada kami sesuatu yang anda dengar dari Rasulullah shallallahu 'alaihi wasallam!." Anas berkata; "Apabila kami bepergian bersama Rasulullah shallallahu 'alaihi wasallam, maka kami berkata; "Matahari telah tergelincir atau belum, beliau kemudian shalat dluhur lalu melanjutkan perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1204</td></tr><tr><td>Arabic No</td><td>1204</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Мисхаджа ибн Мусы: «Я попросил Анаса ибн Малика: да будет доволен им Аллах: “Расскажи нам то, что ты слышал от Посланника Аллаха ﷺ”. Он сказал: “Когда мы отправлялись в путь вместе с посланником Аллаха ﷺ и сомневались в том, отклонилось ли уже солнце от точки зенита, он всё равно совершал с нами полуденную молитву /зухр/ и только после этого пускался в путь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1204</td></tr><tr><td>Arabic No</td><td>1204</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
 

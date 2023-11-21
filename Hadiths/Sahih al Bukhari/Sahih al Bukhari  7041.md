@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "I saw in a dream that I waved a sword
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al'ala] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah bin Abi Burdah] dari [kakeknya, Abu Burdah] dari [Abu Musa], seingatku dia dari Nabi shallallahu 'alaihi wasallam bersabda; "Pernah aku bermimpi menggerakkan pedang lantas bagian tengahnya terputus, itu berarti musibah kaum mukminin di hari Uhud, kemudian aku gerakkan sekali lagi, dan kali ini kembali lebih baik dari semula, maka itu berarti kemenangan yang Allah datangkan dan bersatu kembalinya kaum mukminin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7041</td></tr><tr><td>Arabic No</td><td>7041</td></tr><tr><td>Reference</td><td>Book 91 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Во сне я увидел, что потряс своим мечом, и он переломился посередине, и оказалось, [что этот сон был указанием на] верующих, которые пали в день [битвы при] Ухуде. Потом я потряс им ещё раз, и он стал лучше, чем был, и оказалось, [что этот сон был указанием на] дарованную Аллахом победу [над врагами] и объединение верующих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7041</td></tr><tr><td>Arabic No</td><td>7041</td></tr><tr><td>Reference</td><td>Book 91 Hadith 55</td></tr></tbody></table></div>
 

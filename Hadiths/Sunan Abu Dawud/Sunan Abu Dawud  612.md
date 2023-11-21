@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said that his grandmother Mulaikah the Messenger of Allah (ﷺ) to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] bahwa Neneknya, Mulaikah pernah mengundang Rasulullah shallallahu 'alaihi wasallam untuk suatu jamuan makan yang telah dibuatnya. Beliau makan darinya kemudian bersabda: "Bangkitlah, saya akan mengerjakan shalat untuk kalian." Kata Anas; Saya bangkit untuk mengambil tikar kami yang telah menghitam karena lamanya dipakai, lalu saya memercikinya dengan air, kemudian Rasulullah shallallahu 'alaihi wasallam berdiri di atasnya. Saya dan seorang yatim berbaris membuat shaf di belakang beliau, sedangkan nenekku berdiri di belakang kami. Beliau mengerjakan shalat dua rakaat untuk kami, kemudian beliau shallallahu 'alaihi wasallam pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (380) Sahih Muslim (658)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 2 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что (однажды) его бабушка Мулейка пригласила Посланника Аллаха ﷺ отведать еды, которую она приготовила. Он отведал от этого (угощения), а потом сказал: «Становитесь, и я помолюсь для вас».Анас сказал: «Тогда я подошёл к нашей подстилке, почерневшей от долгого использования, и побрызгал её водой, после чего Посланник Аллаха ﷺ встал на неё. Мы с сиротой встали за ним в ряд, а за нами − старуха (Мулейка,) и Посланник Аллаха ﷺ совершил для нас молитву в два рак‘ата, а потом он ﷺ ушёл»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (380) Sahih Muslim (658)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 2 Hadith 222</td></tr></tbody></table></div>
 

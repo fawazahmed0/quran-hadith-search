@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Mulaika:Ibn 'Abbas asked permission to visit Aisha before her d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya] dari ['Umar bin Sa'id bin Abu Hushain] berkata; Telah menceritakan kepadaku [Ibnu Abu Mulaikah] dia berkata; sebelum wafat Aisyah, [Ibnu 'Abbas] meminta izin untuk menemuinya yang pada waktu itu Aisyah dalam keadan sangat lemah. Aisyah berkata; Aku takut ia akan memujiku. Lalu di katakan kepadanya, ia adalah putra paman Rasulullah shallallahu 'alaihi wasallam dan pembesar kaum muslimin. Maka Aisyah pun berkata; izinkanlah ia masuk. Setelah masuk Ibnu Abbas berkata; bagaimana keadaamu? Aisyah menjawab; saya dalam keadaan baik-baik jika saya bertakwa. Ibnu Abbas berkata; sebagai istri Rasulullah shallallahu 'alaihi wasallam, Insya Allah engkau dalam akan selalu dalam keadaan baik, beliau tidak menikahi seorang perawan selain engkau. Dan dari langit Allah telah membebaskanmu dari tuduhan keji. Ketika Ibnu Abbas pulang, Ibnu Jubair masuk. Lalu Aisyah berkata; Barusan Ibnu Abbas masuk, dan ia telah memujiku. Aku ingin sekali bisa melupakannya (pujiannya). Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami ['Abdul Wahhab bin 'Abdul Majid] Telah menceritakan kepada kami [Ibnu 'Aun] dari [Al Qasim] bahwa [Ibnu 'Abbas radliallahu 'anhu] meminta izin untuk menemui Aisyah -dengan Hadits yang serupa- namun dia tidak menyebutkan kalimat; 'Aku ingin sekali bisa melupakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4753</td></tr><tr><td>Arabic No</td><td>4753</td></tr><tr><td>Reference</td><td>Book 65 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Мулейка сказал: «Перед смертью ‘Аиши, Ибн ‘Аббас попросил разрешения войти, в то время как она была в состоянии агонии. Она сказала: “Я боюсь, что он будет хвалить меня”. Ей сказали: “Он сын дяди Посланника Аллаха ﷺ и один из уважаемых мусульман”. Тогда она сказала: “Позвольте ему войти”. Войдя, он сказал: “Как ты себя чувствуешь?” Она ответила: “Я во благе, если боюсь (Аллаха)”. Ибн ‘Аббас сказал: “Ты во благе, если на то будет воля Аллаха, ведь ты жена Посланника Аллаха ﷺ, и он не женился ни на одной девственнице, кроме тебя, и твоё оправдание было ниспослано свыше”. После этого вошёл Ибн аз-Зубайр, и ‘Аиша сказала ему: “Ибн ‘Аббас пришел ко мне и хвалил меня, но я хотела бы быть забытой навсегда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4753</td></tr><tr><td>Arabic No</td><td>4753</td></tr><tr><td>Reference</td><td>Book 65 Hadith 275</td></tr></tbody></table></div>
 

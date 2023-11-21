@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sulaiman b. 'Amr b. Ahwas reported on the authority of his mother:I saw the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Tsaur Ibrahim bin Khalid], dan [Wahb bin Bayan], mereka berkata; telah menceritakan kepada Kami ['Ubaidah] dari [Yazid bin Abu Ziyad] dari [Sulaiman bin 'Amr bin Al Ahwash] dari [ibunya], ia berkata; aku melihat Rasulullah shallAllahu wa'alaihi wa sallam ketika melempar jumrah 'aqabah beliau dalam keadaan berdiri. Dan aku aku melihat diantara jari-jarinya terdapat batu, kemudian beliau melempar dan orang-orang pun melempar. Telah menceritakan kepada Kami [Muhammad bin Al 'Ala'], telah menceritakan kepada Kami [Ibnu Idris], telah menceritakan kepada Kami [Yazid bin Abu Ziyad] dengan sanadnya dalam hadits seperti ini, dan ia menambahkan kata; dan beliau tidak berdiri ketika melemparnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1967</td></tr><tr><td>Arabic No</td><td>1967</td></tr><tr><td>Reference</td><td>Book 11 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сулейман ибн ‘Амр ибн аль-Ахвас передаёт от своей матери: «Я видела Посланника Аллаха ﷺ у самого большого столба (джамрат аль-‘акаба), и я видела, как он держал двумя пальцами камешек, а потом бросил его, и люди тоже стали бросать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1967</td></tr><tr><td>Arabic No</td><td>1967</td></tr><tr><td>Reference</td><td>Book 11 Hadith 247</td></tr></tbody></table></div>
 

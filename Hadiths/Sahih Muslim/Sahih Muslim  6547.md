@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraim reported Allah's Messenger (ﷺ) as saying The deeds of people would 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ath Thahir] dan ['Amru bin Sawwad] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepada kami [Malik bin Anas] dari [Muslim bin Abu Maryam] dari [Abu Shalih] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Seluruh amal manusia dihadapkan kepada Allah Subhanahu wa ta'ala dua kali dalam sepekan. Yaitu pada hari Senin dan Kamis. Lalu Allah mengampuni dosa setiap hamba-Nya yang mukmin, kecuali orang yang bermusuhan. Maka dikatakan kepada mereka: tinggalkanlah dahulu kedua orang ini, sampai mereka berdamai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6547</td></tr><tr><td>Arabic No</td><td>2565.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6547</td></tr><tr><td>Arabic No</td><td>2565.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 45</td></tr></tbody></table></div>
 

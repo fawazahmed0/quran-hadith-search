@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: Do not give property to go 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il] telah menceritakan kepada kami [Sufyan] dari [Ibnu Juraij] dari ['Atha] dari [Jabir] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah memberikan Ruqba atau Umra. Barangsiapa diberi Ruqba atau Umra maka hal tersebut untuk para pewarisnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1625)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3556</td></tr><tr><td>Arabic No</td><td>3556</td></tr><tr><td>Reference</td><td>Book 24 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Не делайте подарков на срок жизни дарителя или того, кому дарят /рукба/, и не делайте подарков на срок жизни того, кому дарят /‘умра/, а если кто-то сделал то или другое, его подарок остаётся наследникам того, кому его подарили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1625)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3556</td></tr><tr><td>Arabic No</td><td>3556</td></tr><tr><td>Reference</td><td>Book 24 Hadith 141</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: (I think that the people of Ziyad informed me 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah], dari [Khalid] dari [Yunus] dari [Ziyad bin Jubair] dari [ayahnya] dari [Al Mughirah bin Syu'bah] dan aku mengira bahwa keluarga Ziyad telah mengabarkan kepadaku bahwa ia mengangkatnya hingga Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Orang yang berkendaraan berjalan di belakang jenazah, orang yang berjalan kaki berjalan di belakangnya, dan di depannya, serta di samping kanan dan kirinya dekat dengannya. Dan janin yang keguguran dishalatkan dan didoakan untuk kedua orang tuanya agar diberi ampunan serta rahmat (kasih sayang) Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3180</td></tr><tr><td>Arabic No</td><td>3180</td></tr><tr><td>Reference</td><td>Book 21 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мугира ибн Шу‘ба, да будет доволен им Аллах, передаёт: «Пророк ﷺ сказал: “Всадник должен ехать позади похоронной процессии, а пеший может идти и впереди похоронной процессии, и позади неё, и справа от неё, и слева, вблизи от неё. Над выкидышем совершают погребальную молитву и обращаются к Аллаху с мольбой, прося прощения и милосердия для его родителей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3180</td></tr><tr><td>Arabic No</td><td>3180</td></tr><tr><td>Reference</td><td>Book 21 Hadith 92</td></tr></tbody></table></div>
 

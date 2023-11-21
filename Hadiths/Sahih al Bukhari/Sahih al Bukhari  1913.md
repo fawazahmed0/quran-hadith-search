@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "We are an illiterate nation; we neit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al Aswad bin Qais] telah menceritakan kepada kami [Sa'id bin 'Amru] bahwa dia mendengar [Ibnu'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Kita ini adalah ummat yang ummi, yang tidak biasa menulis dan juga tidak menghitung satu bulan itu jumlah harinya segini dan segini, yaitu sekali berjumlah dua puluh sembilan dan sekali berikutnya tiga puluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1913</td></tr><tr><td>Arabic No</td><td>1913</td></tr><tr><td>Reference</td><td>Book 30 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Поистине, мы — народ неграмотный и не умеем ни писать, ни считать, месяц же (может) быть и таким, и таким», — имея в виду, что иногда он состоит из двадцати девяти, а иногда — из тридцати (дней)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1913</td></tr><tr><td>Arabic No</td><td>1913</td></tr><tr><td>Reference</td><td>Book 30 Hadith 23</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I was forbidden to recite (the Qur'an) while I was bowing, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru bin Ali] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Bakar bin Hafsh] dari [Abdullah bin Hunain] dari [Ibnu Abbas] bahwasanya dia berkata, "Saya dilarang untuk membaca (al-Qur'an, sedangkan saya dalam keadaan rukuk." Dan dia tidak menyebutkan Ali dalam sanad tersebut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1082</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 4 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Мне было запрещено читать (Коран) во время совершения поясного поклона». И он не упомянул в иснаде ‘Али
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1082</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 4 Hadith 244</td></tr></tbody></table></div>
 

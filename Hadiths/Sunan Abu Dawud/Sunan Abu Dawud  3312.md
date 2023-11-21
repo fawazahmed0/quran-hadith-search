@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Al Harits bin 'Ubaid Abu Qudamah] dari ['Ubaidullah bin Al Akhnas] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa seorang wanita telah datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Rasulullah, sesungguhnya saya telah bernadzar untuk memukul rebana di hadapan anda. Beliau berkata: "Penuhi nadzarmu!" Ia berkata; sesungguhnya saya bernadzar untuk menyembelih di tempat ini dan ini. Yaitu tempat yang dahulu orang-orang Jahiliyah menyembelih padanya. Beliau berkata: "Untuk patung?" Ia berkata; tidak. Beliau berkata: "Untuk berhala?" Ia berkata; tidak. Beliau berkata: "Penuhi nadzarmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3312</td></tr><tr><td>Arabic No</td><td>3312</td></tr><tr><td>Reference</td><td>Book 22 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Подобный хадис передаётся от аз-Зухри от сына Ка‘ба ибн Малика
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3312</td></tr><tr><td>Arabic No</td><td>3312</td></tr><tr><td>Reference</td><td>Book 22 Hadith 71</td></tr></tbody></table></div>
 

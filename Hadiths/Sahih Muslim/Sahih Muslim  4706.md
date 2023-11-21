@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Jabir b. Samura who said:I heard the Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abdul Malik bin 'Umair] dari [Jabir bin Samurah] dia berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Perkara manusia akan tetap berlalu (jaya) selagi mereka masih tetap diperintahkan oleh dua belas orang laki-laki." Kemudian Nabi shallallahu 'alaihi wasallam mengucapkan kata-kata yang tidak jelas bagiku, maka aku aku bertanya kepada [ayahku], "Apa yang dikatakan oleh Rasulullah shallallahu 'alaihi wasallam?" dia menjawab, "Mereka semua dari Quraisy." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Simak] dari [Jabir bin Samurah] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini, namun dia tidak menyebutkan, "Dan perkara manusia akan senantiasa berlalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>1821.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>1821.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 

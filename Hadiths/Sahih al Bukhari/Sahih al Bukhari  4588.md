@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:Ibn 'Abbas recited:-- "Except the weak ones among men w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Ibnu Abu Mulaikah] bahwa [Ibnu 'Abbas] membaca ayat; "kecuali mereka yang tertindas baik laki-laki atau wanita ataupun anak-anak yang tidak mampu berdaya upaya dan tidak mengetahui jalan untuk hijrah." (An Nisa: 98) lalu dia berkata; Aku dan Ibuku termasuk orang yang mendapat udzur dari Allah. dan disebutkan pula dari Ibnu Abbas, makna hashirat yaitu 'sempit.' Sedangkan makna TALWUU yaitu 'memutar balikkan lisan kalian dalam bersaksi.' Sedangkan yang lainnya berkata; arti 'Al Muragham' adalah Al Muhajir (orang yang berhijrah). 'Raghamtu' artinya saya berhijrah dari kaumku. Adapun arti MAUQUUTAN (An Nisa: 103). adalah waktunya telah ditentukan bagi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 65 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн Аби Мулейки, что Ибн ‘Аббас прочитал: «Это не относится только к тем слабым мужчинам, женщинам и детям…» (сура «ан-Ниса», аят 98), и сказал: «Я и моя мать были из числа тех, кого оправдал Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 65 Hadith 110</td></tr></tbody></table></div>
 

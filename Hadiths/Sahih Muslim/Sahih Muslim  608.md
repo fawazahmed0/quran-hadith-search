@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:The Messenger of Allah (ﷺ) forbade the use of bone or the dropp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Zakariya' bin Ishaq] telah menceritakan kepada kami [Abu az-Zubair] bahwa dia mendengar [Jabir] berkata, "Rasulullah shallallahu 'alaihi wasallam melarang untuk mengusap (saat bersuci) dengan tulang atau kotoran hewan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>608</td></tr><tr><td>Arabic No</td><td>263</td></tr><tr><td>Reference</td><td>Book 2 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир говорил: «Посланник Аллаха ﷺ запретил подтираться костями или помётом». Глава: «Когда вы отправитесь в отхожее место, то не обращайтесь в сторону киблы лицом и не поворачивайтесь к ней спиной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>608</td></tr><tr><td>Arabic No</td><td>263</td></tr><tr><td>Reference</td><td>Book 2 Hadith 75</td></tr></tbody></table></div>
 

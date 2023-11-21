@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn Awf al-Muzani: The Prophet (ﷺ) assigned as a fief to Bilal ib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Abbas bin Muhammad bin Hatim], dan yang lainnya, Al Abbas berkata; telah menceritakan kepada kami [Al Husain bin Muhammad], telah mengabarkan kepada kami [Abu Uwais], telah menceritakan kepada kami [Katsir bin Abudullah bin 'Auf Al Muzni], dari [ayahnya] dari [kakeknya], bahwa Nabi shallallahu 'alaihi wasallam telah mengalokasikan untuk Bilal bin Al Harits Al Muzani tambang Al Qabiliyyah, dataran yang tinggi dan yang rendah. Dan tempat yang layak untuk ditanami dari lahan Quds dan beliau tidak memberikan kepadanya hak seorang muslim. Abu Uwais berkata; dan telah menceritakan kepadaku [Tsaur bin Zaid] mantan budak Bani Ad Dalil bin Bakr bin Kinanah, dari [Ikrimah] dari [Ibnu Abbas] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3062</td></tr><tr><td>Arabic No</td><td>3062</td></tr><tr><td>Reference</td><td>Book 20 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Касир ибн ‘Абдуллах ибн ‘Амр ибн ‘Ауф аль-Музани передаёт от своего отца рассказ своего деда о том, что Пророк ﷺ дал Билялю ибн аль-Харису аль-Музани рудники аль-Кабалиййи с возвышенностями и впадинами и часть Кудса, которая пригодна для земледелия, однако он не давал ему того, что уже являлось правом мусульманина. Пророк ﷺ написал ему грамоту об этом: «С именем Аллаха Всемилостивого, Милостивого! Это то, что Мухаммад Посланник Аллаха, даровал Билялю ибн аль-Харису аль-Музани. Он дал ему рудники аль-Кабалиййи с возвышенностями и впадинами и часть Кудса, которая пригодна для земледелия, однако он не давал ему того, что уже являлось правом мусульманина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3062</td></tr><tr><td>Arabic No</td><td>3062</td></tr><tr><td>Reference</td><td>Book 20 Hadith 135</td></tr></tbody></table></div>
 

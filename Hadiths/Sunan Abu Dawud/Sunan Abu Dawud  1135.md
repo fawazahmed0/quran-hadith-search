@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Busr: Yazid ibn Khumayr ar-Rahbi said: Abdullah ibn Busr, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Shufwan] telah menceritakan kepada kami [Yazid bin Khumair Ar Rahabi] dia berkata; [Abdullah bin Busr] -salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam- keluar untuk melaksanakan shalat Iedul Fithri atau Iedul Adha bersama orang-orang, dia tidak membenarkan keterlambatan imam, lalu berkata; "Sesungguhnya kami dahulu pada saat seperti ini telah selesai melaksanakan shalat." waktu itu adalah waktu Dhuha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Язида ибн Хумайра ар-Рахби, что ‘Абдуллах ибн Буср, да будет доволен им Аллах, один из сподвижников Посланника Аллаха ﷺ вышел с людьми в день праздника разговения или праздника жертвоприношения и осудил имама за медлительность, сказав: «Мы к этому времени уже заканчивали». А было это в то время, когда совершается молитва-духа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
 

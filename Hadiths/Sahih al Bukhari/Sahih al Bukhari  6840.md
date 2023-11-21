@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shaibani:I asked 'Abdullah bin Abi 'Aufa about the Rajam (stoning s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Asy Syaibani], aku bertanya kepada ['Abdullah bin bin Abi Awfa] tentang rajam, ia menjawab; Nabi shallallahu 'alaihi wasallam pernah merajam. Kemudian saya bertanya lagi; 'Itu terjadi sebelum diturunkan surat An Nur ataukah sesudahnya? ' Ia menjawab; 'Saya tidak tahu'. hadits ini diperkuat oleh ['Ali bin Mushir], [Khalid bin Abdullah], [Al Muharibi], [Abidah bin Humaid] dari [Asy Syaibani] dan mengatakan; 'Sebagian mereka mengatakan surat almaidah, dan yang pertama (surat An nur) lebih sahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6840</td></tr><tr><td>Arabic No</td><td>6840</td></tr><tr><td>Reference</td><td>Book 86 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аш-Шейбани сказал: «Я спросил ‘Абдуллаха ибн Аби ‘Ауфу побивании камнями /раджм/, и он ответил: “Пророк ﷺ подвергал (прелюбодеев) побиванию камнями”. Я спросил: “(Он делал это) до ниспослания суры “ан-Нур” или после?” Он ответил: “Я не знаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6840</td></tr><tr><td>Arabic No</td><td>6840</td></tr><tr><td>Reference</td><td>Book 86 Hadith 63</td></tr></tbody></table></div>
 

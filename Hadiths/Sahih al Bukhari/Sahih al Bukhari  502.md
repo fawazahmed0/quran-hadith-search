@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yazid bin Al 'Ubaid:I used to accompany Salama bin Al-Akwa' and he used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] berkata, telah menceritakan kepada kami [Yazid bin Abu 'Ubaid] berkata, "Aku dan [Salamah bin Al Akwa'] datang (ke Masjid), lalu dia shalat menghadap tiang yang dekat dengan tempat muhshaf. Lalu aku tanyakan, 'Wahai Abu Muslim, kenapa aku lihat kamu memilih tempat shalat dekat tiang ini? ' Dia menjawab, 'Sungguh aku melihat Nabi shallallahu 'alaihi wasallam memilih untuk shalat di situ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>502</td></tr><tr><td>Arabic No</td><td>502</td></tr><tr><td>Reference</td><td>Book 8 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘, да будет доволен им Аллах, обычно молился в мечети у той колонны, где находился Коран, и (однажды) его спросили: «О Абу Муслим, почему ты всегда стараешься совершать молитвы именно у этой колонны?» Он ответил: «Только потому, что я видел, что Пророк ﷺ также всегда старался молиться около неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>502</td></tr><tr><td>Arabic No</td><td>502</td></tr><tr><td>Reference</td><td>Book 8 Hadith 149</td></tr></tbody></table></div>
 

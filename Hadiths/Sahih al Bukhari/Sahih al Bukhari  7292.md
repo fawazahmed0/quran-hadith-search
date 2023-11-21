@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Warrad:(The clerk of Al-Mughira) Muawiya wrote to Al-Mughira 'Write to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abu 'Awanah] telah menceritakan kepada kami [Abdul Malik] dari [Warrad] juru tulis Mughirah, berkata, "Mu'awiyah berkirim surat kepada [Mughirah], 'Tolong tulislah kepadaku segala yang kau dengar dari Rasulullah shallallahu 'alaihi wasallam! Lantas Mughirah menulis 'Nabiyullah shallallahu 'alaihi wasallam sehabis shalat selalu memanjatkan doa: LAA-ILAAHA ILLALLAAH, WAHDAHU LAA SYARIIKA LAHU, LAHUL MULKU WALAHUL HAMDU WAHUWA 'ALAA KULLI SYAI'IN QADIIR, ALLAAHUMMA LAA MAANI'A LIMAA A'THAITA WALAA MU'THIYA LIMAA MANA'TA WALAA YANFA'U DZAL JADDI MINKAL JADDU (Tiada sesembahan yang hak selain Allah, tiada sekutu bagi-Nya, Milik-Nya lah segala kerajaan dan bagi-Nya segala puji dan Dia Maha berkuasa atas segala sesuatu. Ya Allah, tiada yang menghalangi apa yang Engkau berikan, dan tidak ada yang bisa memberi apa yang Engkau cegah, dan tidak bermanfaat kekayaan, dari-Mulah segala kekayaan) '. Dan Mughirah menulis, "Beliau melarang mengatakan sesuatu yang tidak jelas sumbernya, banyak bertanya dan menghambur-hamburkan harta. Beliau juga melarang mendurhakai ibu, mengubur hidup-hidup anak perempuan serta menghalangi orang lain memperoleh kemanfaatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7292</td></tr><tr><td>Arabic No</td><td>7292</td></tr><tr><td>Reference</td><td>Book 96 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Варрад, писарь аль-Мугъиры ибн Шу‘ба, сказал:«(Однажды) Му‘авия написал аль-Мугъире: “Напиши мне о том, что ты слышал от Посланника Аллаха ﷺ”. И аль-Мугъира написал ему в ответ: “Поистине, пророк Аллаха ﷺ произносил в конце каждой (обязательной) молитвы: «Нет божества достойного поклонения, кроме Аллаха, Единого, у Которого нет сотоварища. Ему принадлежит владычество, Ему хвала, и Он всё может! О Аллах, никто не лишит того, что Ты даровал, и никто не дарует того, чего Ты лишил, и бесполезным окажется перед Тобой могущество обладающего могуществом /Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху. Ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шай‘ин кадир! Аллахумма, ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-кя-ль-джадд/”. А также аль-Мугъира написал ему: “И он запрещал заниматься сплетнями, задавать много вопросов и понапрасну расточать (своё) имущество. А также он запрещал проявлять непочтительность по отношению к матерям, закапывать заживо новорожденных девочек и отказываться от выполнения своих обязанностей и требовать то, что вам не полагается”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7292</td></tr><tr><td>Arabic No</td><td>7292</td></tr><tr><td>Reference</td><td>Book 96 Hadith 23</td></tr></tbody></table></div>
 

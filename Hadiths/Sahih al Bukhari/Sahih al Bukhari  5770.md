@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: The Prophet (ﷺ) said, 'No 'Adwa (i.e. no contagious dise
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5770</td></tr><tr><td>Arabic No</td><td>5770</td></tr><tr><td>Reference</td><td>Book 76 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Не (передаётся) зараза (иначе как по воле Аллаха), и не (сулит ничего дурного месяц) сафар, и не (является дурным предзнаменованием) сова». Услышав это, один бедуин спросил: «О Посланник Аллаха, а что ты скажешь о верблюдах? Они подобны газелям на песке, но, когда среди них появляется паршивый верблюд, все они начинают болеть паршой!» (На это Посланник Аллаха ﷺ) сказал: «А кто же заразил первого?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5770</td></tr><tr><td>Arabic No</td><td>5770</td></tr><tr><td>Reference</td><td>Book 76 Hadith 84</td></tr></tbody></table></div>
 

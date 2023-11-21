@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of 'Imran that the Messenger of Allah (ﷺ) said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Khalaf al-bahili] telah menceritakan kepada kami [al-Mu'tamir] dari [Hisyam bin Hassan] dari [Muhammad] -yaitu Ibnu Sirin- dia berkata, telah menceritakan kepadaku [Imran] dia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Akan masuk surga dari golongan umatku sebanyak tujuh puluh ribu orang tanpa hisab." Mereka bertanya, 'Siapakah mereka wahai Rasulullah? ' Beliau menjawab: "Meraka dalah orang yang tidak melakukan pengobatan kay, tidak melakukan ruqyah, dan mereka bertawakkal kepada Rabb mereka." Lalu Ukkasyah berdiri seraya berkata, 'Berdoalah untukku agar Allah memasukkanku ke dalam kelompok mereka.' Beliau bersabda: "Kamu termasuk mereka." Perawi berkata, "Seorang laki-laki berkata, 'Wahai Nabi Allah, berdoalah untukku agar Allah menjadikanku termasuk golongan mereka.' Beliau bersabda: "Kamu telah didahului oleh Ukkasyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>218.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 430</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран, рассказывал о том, что (однажды) Пророк Аллаха ﷺ сказал: «Семьдесят тысяч человек из числа членов моей общины войдут в Рай без расчёта». Люди спросили: «Кто они, о Посланник Аллаха?» Он ответил: «Это те, которые не делают себе прижиганий, не просят других заговаривать их и уповают на своего Господа». После этого со своего места поднялся ‘Уккяша и сказал: «Попроси Аллаха, чтобы Он сделал меня из их числа!» Посланник Аллаха ﷺ сказал: «Ты из их числа!» Тогда со своего места поднялся другой человек и сказал: «О Пророк Аллаха, попроси Аллаха, чтобы Он сделал меня из их числа!» Но Посланник Аллаха ﷺ ответил: «’Уккяша опередил тебя в этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>218.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 430</td></tr></tbody></table></div>
 

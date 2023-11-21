@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Narrated 'A'isha :'A'isha (Allah be pleased with her) reported that Allah's Apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya], [Ishaq bin Ibrahim], [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib]. [Yahya] dan [Ishaq] mengatakan; Telah mengabarkan kepada kami, sedangkan yang dua mengatakan; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] dia berkata bahwa Rasulullah shallallahu 'alaihi wasallam menikahinya ketika dia berusia enam tahun dan berumah tangga dengannya ketika berusia sembilan tahun dan tatkala beliau wafat dia berusia delapan belas tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3482</td></tr><tr><td>Arabic No</td><td>1422.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов аль-Асвада, что ‘Аиша (да будет доволен ею Аллах) сказала: «Посланник Аллаха ﷺ заключил с ней брак, когда она была девочкой (в возрасте) шести (лет), свадьба её состоялась, когда ей было девять (лет), а умер он, когда ей было восемнадцать (лет)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3482</td></tr><tr><td>Arabic No</td><td>1422.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 84</td></tr></tbody></table></div>
 

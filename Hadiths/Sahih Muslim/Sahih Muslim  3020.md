@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ata' said:Ibn 'Abbas (Allah be pleased with them) used to say that a pilgrim or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Atha'] ia berkata; "Tidaklah seorang haji melakukan thawaf di Baitullah dan tidak pula seorang yang tidak haji kecuali ia telah tahallul." Saya bertanya kepada Atha', "Atas dasar apa yang berkata seperti itu?" Ia menjawab, "Dari firman Allah Ta'ala: "Kemudian tempat wajib (serta akhir masa) menyembelihnya ialah setelah sampai ke Baitul Atiq (Baitullah)." (QS. Alhajj 33). Aku berkata, "Sesungguhnya hal itu adalah setelah wukuf di Arafah." Atha' berkata, " [Ibnu Abbas] telah mengatakan bahwa hal itu adalah setelah dan sesudah wukuf di Arafah. Dan ia mengambil hal itu dari perkara Nabi shallallahu 'alaihi wasallam, saat beliau memerintahkan mereka untuk tahallul pada haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3020</td></tr><tr><td>Arabic No</td><td>1245</td></tr><tr><td>Reference</td><td>Book 15 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3020</td></tr><tr><td>Arabic No</td><td>1245</td></tr><tr><td>Reference</td><td>Book 15 Hadith 228</td></tr></tbody></table></div>
 

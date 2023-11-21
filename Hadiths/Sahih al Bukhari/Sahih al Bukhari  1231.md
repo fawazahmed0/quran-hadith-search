@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When the call for prayer is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Hisyam bin Abu 'Abdullah ad-Dastawaniy] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika panggilan shalat (adzan) dikumandangkan, setan lari sambil mengeluarkan kentut hingga ia tidak mendengar suara adzan tersebut. Apabila panggilan adzan telah selesai maka setan kembali. Dan bila iqamat dikumandangkan setan kembali berlari dan jika iqamat telah selesai dia kembali lagi hingga untuk mengganggu hatinya seseorang seraya berkata; ingatlah ini dan itu, yang semestinya tidak diingat sehingga seseorang membayanngkannya hingga akhirnya orang itu tidak tahu berapa raka'at shalat yang sudah dia laksanakan. Oleh karena itu bila seorang dari kalian tidak mengetahui berapa raka'at dari shalat yang sudah dikerjakannya, apakah tiga atau empat raka'at maka hendaklah dia melakukan sujud dua kali dalam posisi duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1231</td></tr><tr><td>Arabic No</td><td>1231</td></tr><tr><td>Reference</td><td>Book 22 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда произносится призыв к молитве, шайтан отступает, с шумом выпуская газы, чтобы не слышать этого призыва, а когда призыв завершается, он (снова) возвращается. И он отступает во время икамы, а когда объявление о начале молитвы завершается, он (снова) подступает, чтобы встать между человеком и сердцем (внушая ему) и говорит: “Вспомни о том-то и том-то”, о чём тот и не помышлял (до молитвы, и он делает это) для того, чтобы человек оставался (в подобном) положении, и сбился (с толку), не зная, сколько (рак‘атов) молитвы он совершил. Поэтому если кто-то из вас не будет знать, сколько рак‘атов он совершил, три или четыре, то пусть он совершит два земных поклона во время сидения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1231</td></tr><tr><td>Arabic No</td><td>1231</td></tr><tr><td>Reference</td><td>Book 22 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "The people will be gathered baref
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qais bin Hafsh] telah menceritakan kepada kami [Khalid bin Al Kharits] telah menceritakan kepada kami [Khatim bin Abi Shaghirah] dari [Abdullah bin Abi Mulaikah] mengatakan, telah menceritakan kepadaku [Al Qasim bin Muhammad bin Abu Bakr] bahwasanya ['Aisyah] radhilayyahu'anhuma menuturkan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian dikumpulkan dengan keadaan tidak beralas kaki, telanjang, dan tidak beralas kaki." 'Aisyah menyela; 'Hai Rasulullah, laki-laki dan perempuan, satu sama lain bisa melihat auratnya? ' Nabi menjawab: "Kejadian ketika itu lebih dahsyat sehingga memalingkan mereka dari keinginan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6527</td></tr><tr><td>Arabic No</td><td>6527</td></tr><tr><td>Reference</td><td>Book 81 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Люди будут собраны босыми, нагими и необрезанными».\n‘Аиша сказала: «Я спросила: “О Посланник Аллаха, неужели мужчины и женщины станут смотреть друг на друга?” — (на что Пророк ﷺ) сказал: “Им будет слишком тяжело, чтобы думать об этом!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6527</td></tr><tr><td>Arabic No</td><td>6527</td></tr><tr><td>Reference</td><td>Book 81 Hadith 116</td></tr></tbody></table></div>
 

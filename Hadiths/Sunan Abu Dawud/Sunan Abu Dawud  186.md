@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir narrated:The Messenger of Allah (ﷺ) passed by the market when on his ret
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Ja'far] dari [Ayahnya] dari [Jabir] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah memasuki suatu pasar melalui sebagian jalan atas, sedangkan orang banyak berjalan di kiri kanan beliau. Kemudian beliau melewati bangkai seekor anak kambing yang bertelinga kecil, lalu beliau mengambil anak kambing tersebut dengan memagang telinganya, kemudian bersabda: "Siapakah di antara kalian yang menyukai, bahwa ini miliknya." Lalu beliau melanjutkan Hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2957)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>186</td></tr><tr><td>Arabic No</td><td>186</td></tr><tr><td>Reference</td><td>Book 1 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира: «(Однажды) Посланник Аллаха ﷺ шел по одному из рынков (Медины) в сопровождении людей, и проходя мимо дохлого козлёнка с маленькими ушами, он дотронулся до него, взял его за ухо и спросил: “Кто из вас захотел бы, чтобы это принадлежало ему?”» и далее он продолжил этот хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2957)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>186</td></tr><tr><td>Arabic No</td><td>186</td></tr><tr><td>Reference</td><td>Book 1 Hadith 186</td></tr></tbody></table></div>
 

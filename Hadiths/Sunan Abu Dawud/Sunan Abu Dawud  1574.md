@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: I have given exemption regard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Amr bin 'Aun], telah mengabarkan kepada Kami [Abu 'Awanah] dari [Abu Ishaq] dari ['Ashim bin Dhamrah] dari [Ali] 'alaihis salam, ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda; Sungguh aku telah memaafkan dari mengambil zakat kuda dan budak, maka berikan zakat perak dari setiap empat puluh dirham, satu dirham. Tidak ada zakat sedikitpun pada jumlah seratus sembilan puluh, kemudian apabila telah mencapai dua ratus maka padanya terdapat zakat lima dirham. Abu Daud berkata; hadits ini telah diriwayatkan oleh [Al A'masy] dari [Abu Ishaq] sebagaimana yang dikatakan Abu 'Awanah, dan telah diriwayatkan oleh [Syaiban Abu Mu'awiyah] dan [Ibrahim bin Thahman] dari [Abu Ishaq] dari [Al Harits] dari [Ali] dari Nabi shallallahu 'alaihi wasallam seperti itu. Abu Daud berkata; dan hadits An Nufaili telah diriwayatkan oleh [Syu'bah] serta [Sufyan] dan yang lainnya dari [Abu Ishaq] dari ['Ashim] dari [Ali]. Mereka tidak merafa'kannya melainkan mereka memauqufkan kepada Ali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1574</td></tr><tr><td>Arabic No</td><td>1574</td></tr><tr><td>Reference</td><td>Book 9 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али (ибн Абу Талиб), да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Я освобождаю вас от выплаты закята с лошадей и рабов, а с серебра взимается закят один дирхем с каждых сорока дирхемов. Со ста девяноста дирхемов ничего отдавать не нужно, а с двухсот дирхемов взимается пять дирхемов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1574</td></tr><tr><td>Arabic No</td><td>1574</td></tr><tr><td>Reference</td><td>Book 9 Hadith 19</td></tr></tbody></table></div>
 

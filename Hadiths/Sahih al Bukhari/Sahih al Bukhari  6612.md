@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I did not see anything so resembling minor sins as what Abu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mahmud bin Ghailan] telah menceritakan kepada kami [Abdurrazaq] telah memberitakan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [ayahnya] dari [Ibnu 'Abbas] mengatakan, belum pernah kulihat sesuatu yang lebih mirip dengan dosa-dosa kecil daripada apa yang dikatakan oleh [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam; "Allah menetapkan atas anak Adam bagiannya dari zina, ia pasti melakukan hal itu dengan tidak dipungkiri lagi, zina mata adalah memandang, zina lisan adalah bicara, jiwa mengkhayal dan kemaluan yang akan membenarkan itu atau mendustakannya". Dan [Syababah] mengatakan, telah menceritakan kepada kami [Warqa'] dari [Ibnu Thawus] dari [ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6612</td></tr><tr><td>Arabic No</td><td>6612</td></tr><tr><td>Reference</td><td>Book 82 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Никогда не видел я ничего более похожего на небольшие прегрешения, нежели переданное Абу Хурайрой от Пророка ﷺ: “Поистине, Аллах предопределил сыну Адама его долю прелюбодеяния, и он непременно получит её. Прелюбодеяние глаз — взгляд, а прелюбодеяние языка — речь. Душа желает и стремится, а половые органы подтверждают или не подтверждают”».\nСказал Шабаба: «Нам рассказал Варка от Ибн Тауса, от его отца от Абу Хурайры от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6612</td></tr><tr><td>Arabic No</td><td>6612</td></tr><tr><td>Reference</td><td>Book 82 Hadith 18</td></tr></tbody></table></div>
 

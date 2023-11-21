@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) sent Mu'adh to Yemen and said, "Be afraid,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Zakariyya' bin Ishaq Al Makkiy] dari [Yahya bin 'Abdullah bin Shaifiy] dari [Abu Ma'bad, maula Ibnu 'Abbas] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam mengutus Mu'adz ke negeri Yaman lalu bersabda: "Berhati-hatilah kamu terhadap do'anya orang yang dizhalimi karena antara do'anya dan Allah tidak ada penghalangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2448</td></tr><tr><td>Arabic No</td><td>2448</td></tr><tr><td>Reference</td><td>Book 46 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, отправляя Му‘аза в Йемен, Пророк ﷺ сказал ему: «Остерегайся мольбы притеснённого, ибо между ней и Аллахом нет преграды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2448</td></tr><tr><td>Arabic No</td><td>2448</td></tr><tr><td>Reference</td><td>Book 46 Hadith 9</td></tr></tbody></table></div>
 

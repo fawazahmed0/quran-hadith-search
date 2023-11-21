@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is transmitted on the authority of Abu Muawiya (but With a slight ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id bin Ibrahim] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Zakaria bin Ishaq] telah mengabarkan kepadaku [Amru bin Dinar] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam menemui Ummu Ma'bad di kebun, lalu beliau bersabda: "Wahai Ummu Ma'bad, siapakah yang menanam pohon kurma ini? Apakah dia seorang muslim ataukah kafir?" Ummu Ma'bad menjawab, "Seorang muslim." Lantas beliau bersabda: "Tidaklah seorang muslim menanam tanaman, lalu tanaman tersebut dimakan oleh manusia atau binatang melata atau burung kecuali hal itu bernilai sedekah baginya pada hari Kiamat." Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] dan [Ishaq bin Ibrahim] semuanya dari [Abu Mu'awiyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Ammar bin Muhammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ibnu Fudlail] mereka semua dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] sedangkan [Amru] menambahkan dalam riwayatnya dari [Ammar]. (dalam jalur lain disebutkan). [Abu Kuraib] dalam riwayatnya menyebutkan dari [Abu Mu'awiyah] keduanya berkata; dari [Ummu Mubasir], dan dalam riwayat [Ibnu Fudlail] dari [isteri Zaid bin Haritsah], juga dalam riwayat [Ishaq] dari [Abu Mu'awiyah] dia berkata, "Bisa jadi ia mengatakan dari [Ummu Mubasyir] dari Nabi shallallahu 'alaihi wasallam, dan bisa jadi ia juga tidak mengatakannya. Namun semuanya mengatakan dari Nabi shallallahu 'alaihi wasallam seperti hadits 'Atha dan Ibnu Zubair dan Amru bin Dinar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3972</td></tr><tr><td>Arabic No</td><td>1552.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3972</td></tr><tr><td>Arabic No</td><td>1552.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 11</td></tr></tbody></table></div>
 

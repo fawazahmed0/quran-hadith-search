@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Alqama:I asked 'Aisha "Did Allah s Apostle, use to choose some special 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Manshur] dari [Ibrahim] dari ['Alqamah]; Aku bertanya kepada ['Aisyah radliallahu 'anha] apakah Rasulullah shallallahu 'alaihi wasallam mengkhususkan hari-hari tertentu dalam ber'amal?" Dia menjawab: "Tidak. Beliau selalu beramal terus menerus tanpa putus. Siapakah dari kalian yang akan mampu sebagaimana yang mampu dikerjakan oleh Rasulullah shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1987</td></tr><tr><td>Arabic No</td><td>1987</td></tr><tr><td>Reference</td><td>Book 30 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды её спросили: «Выделял ли Посланник Аллаха ﷺ какой-нибудь день (для совершения дополнительных дел поклонения)?» Она сказала: «Нет, его дела отличались постоянством, а кто из вас сумеет выдержать то, что выдерживал Посланник Аллаха ﷺ?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1987</td></tr><tr><td>Arabic No</td><td>1987</td></tr><tr><td>Reference</td><td>Book 30 Hadith 94</td></tr></tbody></table></div>
 

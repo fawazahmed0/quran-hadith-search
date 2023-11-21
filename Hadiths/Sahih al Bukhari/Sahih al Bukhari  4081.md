@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "I saw in a dream that I moved a sword
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah bin Abu Burdah] dari kakeknya yaitu [Abu Burdah] dari [Abu Musa] radliallahu 'anhu, seingatku dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Aku melihat dalam mimpiku bahwa diriku terlihat menghunus pedang, tiba-tiba bagian tengah pedang itu patah dan ternyata itu adalah musibah yang menimpa orang-orang mukmin pada perang Uhud. Setelah itu aku pun terlihat menghunus pedang lagi dan ternyata pedang itu lebih baik dari yang pertama. Itulah kemenangan yang diberikan Allah dan bersatunya orang-orang Mukmin. Dan dalam mimpiku juga, aku melihat sapi -dan Allah Maha Baik- ternyata tafsiran mimpi itu adalah orang-orang mukmin yang mati syahid dalam perang Uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4081</td></tr><tr><td>Arabic No</td><td>4081</td></tr><tr><td>Reference</td><td>Book 64 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Во сне я увидел, что потряс своим мечом, и он переломился посередине, и оказалось, (что этот сон был указанием на) верующих, которые пали в день (битвы при) Ухуде. Потом я потряс им ещё раз, и он стал лучше, чем был, и оказалось, что это было указанием на победу, дарованную Аллахом и объединению верующих. Так же во сне я видел коров, — благом же (является то, что делает) Аллах, — и, оказалось, (что этот сон был указанием на) тех верующих, (которые погибли в битве при) Ухуде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4081</td></tr><tr><td>Arabic No</td><td>4081</td></tr><tr><td>Reference</td><td>Book 64 Hadith 125</td></tr></tbody></table></div>
 

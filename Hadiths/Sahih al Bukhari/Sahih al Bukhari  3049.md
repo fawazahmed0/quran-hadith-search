@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin Abi Aus] telah bercerita kepada kami [Isma'il bin Ibrohim bin 'Uqbah] dari [Musa bin 'Uqbah] dari [Ibnu Syihab] berkata telah bercerita kepadaku [Anas bin Malik radliallahu 'anhu] bahwa orang-orang dari Kaum Anshor meminta izin Rasulullah Shallallahu'alaiwasallam. Mereka berkata: "Wahai Rasulullah, ijinkanlah agar bisa kami tinggalkan harta kami untuk menebus anak saudara perempuan kami, yaitu 'Abbas". Maka Beliau berkata: "Lantas kalian tidak meninggalkan satu dirhampun untuknya? -maksud nabi ibu Abbas--". Dan berkata [Ibrohim bin Thohman] dari ['Abdul 'Aziz bin Shuhaib] dari [Anas] berkata; "Selanjutnya Nabi Shallallahu'alaihiwasallam dibawakan harta dari negeri Bahrain lalu datang 'Abbas menemui Beliau dan berkata; "Wahai Rasulullah, berilah aku (harta itu), karena aku sungguh akan menebus diriku dan juga 'Aqil". Maka Beliau berkata: "Ambillah". Maka Beliau memberikan harta itu di bajunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3049</td></tr><tr><td>Arabic No</td><td>3049</td></tr><tr><td>Reference</td><td>Book 56 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Пророку ﷺ доставили деньги из Бахрейна, к нему подошёл аль-‘Аббас и сказал: “О Посланник Аллаха, дай (что-нибудь и) мне, ведь я заплатил выкуп за себя и за ‘Акъиля!” Посланник Аллаха ﷺ сказал ему: “Бери”, и насыпал (серебро) в его одежду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3049</td></tr><tr><td>Arabic No</td><td>3049</td></tr><tr><td>Reference</td><td>Book 56 Hadith 255</td></tr></tbody></table></div>
 

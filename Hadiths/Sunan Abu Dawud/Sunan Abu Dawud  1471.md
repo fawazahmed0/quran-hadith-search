@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuLubabah: Ubaydullah ibn Yazid said: AbuLubabah passed by us and we f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdul A'la bin Hammad], telah menceritakan [Abdul Jabbar bin Al Ward], ia berkata; saya mendengar [Ibnu Abu Mulaikah] berkata; [Ubaidullah bin Abu Yazid] berkata; [Abu Lubabah] lewat didepan Kami, lalu Kami mengikutinya hingga dia masuk ke rumahnya dan Kamipun masuk menemuinya, ternyata ia adalah seorang laki-laki perabotan rumahnya sedikit dan kondisinya memburuk, kemudian aku mendengar dia berkata; aku mendengar Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Bukan dari golongan Kami orang yang tidak memperindah bacaan Al Qur'an." Abdul Jabbar berkata; aku bertanya kepada Ibnu Abu Malikah; wahai Abu Muhammad, bagaimana pendapatmu apabila ia tidak bagus suaranya? Ia menjawab; ia perindah suaranya semampunya. Telah menceritakan kepada kami Muhammad bin Sulaiman Al Anbari, ia berkata; Waki' dan Ibnu 'Uyainah berkata; yaitu ia menyibukkan dengan Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>1471</td></tr><tr><td>Reference</td><td>Book 8 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Убайдуллаха ибн Абу Язида: «Мимо нас прошёл Абу Любаба, да будет доволен им Аллах, и мы последовали за ним, пока он не зашёл в свой дом, и мы зашли к нему. Его дом был обветшалым и у него самого был невзрачный вид. И я услышал, как он сказал: “Я слышал, как Посланник Аллаха ﷺ сказал: “Не относится к нам тот, кто не читает Коран нараспев””». (‘Абду-ль-Джаббар ибн аль-Вард) сказал: «Я спросил Ибн Абу Муляйку: “О Абу Мухаммад, а если у него некрасивый голос?” Он ответил: “Он должен стараться сделать его красивым, насколько сможет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>1471</td></tr><tr><td>Reference</td><td>Book 8 Hadith 56</td></tr></tbody></table></div>
 

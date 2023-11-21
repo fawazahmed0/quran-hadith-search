@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de Abou Tha'laba Al-Khuchanî (que Dieu l'agrée) : Je vins trouver l'Env
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] telah menceritakan kepada kami [Ibnu Al Mubarak] dari [Haiwah bin Syuraih] dia berkata; saya mendengar [Rabi'ah bin Yazid Ad Dimasyqi] berkata; telah mengabarkan kepadaku [Abu Idris 'Aidzullah] dia berkata; saya mendengar [Abu Tsa'labah Al Khusani] berkata, "Saya pernah mendatangi Rasulullah shallallahu 'alaihi wasallam seraya bertanya, 'Wahai Rasulullah, kami tinggal di negeri ahli kitab, dan kami memakan dengan menggunakan periuk mereka, sedangkan penghidupan mereka adalah berburu. Saya juga berburu dengan menggunakan panah dan anjing yang sudah terlatih dan juga belum terlatih, oleh karena itu beritahukanlah kepada kami sesuatu yang halal dari yang demikian itu?" beliau menjawab: "Adapun keadaanmu yang tinggal di negeri ahli kitab dan makan dengan piring-piring mereka, maka seandainya kamu bisa mendapatkan piring-piring selain piring mereka, maka janganlah menggunakan piring mereka. Namun jika kamu tidak mendapatkan piring selain piring mereka, basuhlah piring mereka dan makanlah dengan menggunakan piring tersebut. Adapun keadaanmu yang tinggal di negeri mereka yang mata pencahariannya berburu, jika kamu berburu dengan menggunakan panahmu, sebutlah nama Allah terlebih dahulu kemudian makanlah hasil buruan tersebut, dan jika kamu menangkap hewan buruan dengan menggunakan anjing pelatih, sebutlah nama Allah terlebih dahulu kemudian makanlah hasil buruan tersebut, dan jika kamu menangkap hewan buruan dengan menggunakan anjing yang tidak terlatih dan kamu masih sempat menyembelihnya, maka makanlah hewan buruan tersebut." Dan telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Al Muqri'] keduanya dari [Haiwah] dengan sanad ini seperti hadits Ibnu Mubarak, namun dalam hadits Ibnu Wahab dia tidak menyebutkan, 'Berburu dengan menggunakan panah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>1930.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>1930.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
 

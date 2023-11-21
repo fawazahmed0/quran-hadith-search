@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man demanded his debts from Allah's Messenger (ﷺ) in su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada kami [Salamah bin Kuhail] berkata, aku mendengar [Abu Salamah] di Mina menceritakan dari [Abu Hurairah radliallahu 'anhu] bahwa ada seorang laki-laki yang datang menemui Nabi shallallahu 'alaihi wasallam untuk menagih apa yang dijanjikan kepadanya. Maka para sahabat marah kepadanya. Beliau shallallahu 'alaihi wasallam bersabda: "Biarkanlah dia karena bagi orang yang benar ucapannya wajib dipenuhi, belikanlah untuknya seekor unta dan berikanlah kepadanya". Dan mereka berkata: "Kami tidak mendapatkannya kecuali yang umurnya lebih tua". Maka Beliau bersabda: "Beli dan berikanlah kepadanya, karena yang terbaik diantara kalian adalah yang paling baik menunaikan janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2390</td></tr><tr><td>Arabic No</td><td>2390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек пришёл к Посланнику Аллаха ﷺ требовать выплаты долга и проявил при этом суровость к нему так, что сподвижники хотели набросится на него, однако Пророк ﷺ сказал: «Оставьте его, ибо тот, кому причитается (долг), имеет право высказаться. Купите верблюда и отдайте его ему». Они сказали: «У нас есть верблюд, только он лучше его верблюда». Пророк ﷺ сказал: «Купите его и отдайте ему (этого верблюда), ибо, поистине, лучшими из вас являются те, кто лучше всех отдаёт (должное другим)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2390</td></tr><tr><td>Arabic No</td><td>2390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Mulaika from 'Uqba bin Al-Harith:'Uqba married the da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Habban] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami ['Umar bin Sa'id bin Abi Husain] berkata, telah menceritakan kepadaku ['Abdullah bin Abi Mulaikah] dari ['Uqbah bin Al Harits] bahwa dia mengawini putri dari Abu Ihab bin 'aziz lalu datang seorang wanita dan berkata; "Sungguh aku pernah menyusui 'Uqbah dan wanita yang sekarang dikawininya". Kemudian 'Uqbah berkata, kepadanya: "Aku tidak tahu kalau kamu telah menyusui aku dan kamu tidak memberitahu aku". Maka dia pergi menuju keluarga Abu Ihab untuk menanyakan mereka, maka mereka berkata: "Kami tidak tahu kalau wanita itu telah menyusui perempuan-perempuan kami". Lalu dia mengendarai tunggangan untuk menemui Nabi shallallahu 'alaihi wasallam di Madinah lalu dia bertanya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Mau bagaimana lagi, wanita itu sudah mengatakannya". Maka 'Uqbah menceraikan isterinya itu lalu menikahi wanita lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2640</td></tr><tr><td>Arabic No</td><td>2640</td></tr><tr><td>Reference</td><td>Book 52 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн абу Мулейки, что после того как ‘Укъба ибн аль-Харис женился на дочери Абу Ихаба ибн ‘Азиза к нему пришла одна женщина и сказала: «Поистине, я кормила грудью и ‘Укъбу, и ту, на ком он женился!» (В ответ) ‘Укъба сказал ей: «Я не знал, что ты вскормила меня, и (раньше) ты не говорила мне (об этом)!» После этого он отправил человека к семье Абу Ихаба, чтобы он спросил их об этом, и они ответили: «Мы не знали, что она кормила её». Затем он верхом отправился к Пророку ﷺ в Медину и задал ему вопрос (относительно этого дела). Посланник Аллаха ﷺ сказал: «Как же (она может оставаться твоей женой), если было сказано (, что она — твоя молочная сестра)?!» — и (после этого) ‘Укъба расстался с ней, а она вышла замуж за другого человека
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2640</td></tr><tr><td>Arabic No</td><td>2640</td></tr><tr><td>Reference</td><td>Book 52 Hadith 4</td></tr></tbody></table></div>
 

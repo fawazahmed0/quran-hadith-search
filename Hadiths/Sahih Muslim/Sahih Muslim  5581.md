@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa, id b. Musayyib reported that Mu'awiya said one day:Should I narrate to you t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] dan [Muhammad bin Al Mutsanna] ia berkata; Telah mengabarkan kepada kami [Mu'adz] yaitu Ibnu Hisyam; Telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Sa'id bin Al Musayyab] bahwa [Mu'awiyah] pada suatu hari berkata; "Sesungguhnya kalian telah membuat pakaian yang buruk, ketahuilah bahwa Nabi shallallahu 'alaihi wasallam telah melarang dari kebatilan dan kedustaan." Al Musayyab berkata; Lalu datang seorang laki-laki yang membawa tongkat, di atas kepalanya ada sepotong kain. Lalu (Mu'awiyah Radhiyallahu'anhu) berkata; "Ketahuilah ini adalah termasuk hal yang batil." [Qatadah] berkata; Itu adalah yang dilakukan para wanita untuk memperbanyak rambutnya dari kain-kain tambahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5581</td></tr><tr><td>Arabic No</td><td>2127.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5581</td></tr><tr><td>Arabic No</td><td>2127.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 189</td></tr></tbody></table></div>
 

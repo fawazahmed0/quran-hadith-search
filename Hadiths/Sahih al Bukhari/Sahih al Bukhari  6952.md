@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said, "Help your brother whether he is an 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] telah menceritakan kepada kami [Sa'id bin Sulaiman] telah menceritakan kepada kami [Husyaim] Telah mengabarkan kepada kami [Ubaidullah bin Abi Bakr bin Anas] dari [Anas] radliallahu 'anhu mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "'Tolonglah saudaramu baik ia zhalim atau dizhalimi." Ada seorang laki-laki bertanya; 'ya Rasulullah, saya maklum jika ia dizhalimi, namun bagaimana saya menolong padahal ia zhalim? ' Nabi menjawab; "engkau mencegahnya atau menahannya dari kezhaliman, itulah cara menolongnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6952</td></tr><tr><td>Arabic No</td><td>6952</td></tr><tr><td>Reference</td><td>Book 89 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Помогай брату своему (независимо от того), притеснителем он является или притесняемым”. (Услышав это, один) человек сказал: “О Посланник Аллаха, я (могу) помочь ему, если он подвергается притеснению, но скажи мне, как мне помочь ему, если он является притеснителем?!” (На это Пророк ﷺ) сказал: “Удержи его (или: … помешай ему) от притеснения, и, поистине, это (станет) помощью ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6952</td></tr><tr><td>Arabic No</td><td>6952</td></tr><tr><td>Reference</td><td>Book 89 Hadith 13</td></tr></tbody></table></div>
 

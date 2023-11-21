@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported Allah's Messenger (ﷺ) as saying:Whom do you count 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan ['Utsman bin Abu Syaibah] lafazh ini milik Qutaibah. Dia berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim At Taimi] dari [Al Harits bin Suwaid] dari ['Abdullah bin Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bertanya kepada para sahabat: 'Menurut kalian, siapakah orang yang mandul itu? ' Abdullah bin Mas'ud berkata; 'Kami menjawab; 'Yaitu orang yang tidak mempunyai anak.' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Bukan itu yang dimaksud dengan mandul. Tetapi yang dimaksud dengan mandul adalah orang yang tidak dapat memberikan apa-apa kepada anaknya.' Kemudian Rasulullah shallallahu 'alaihi wasallam bertanya lagi: 'Siapakah orang yang kalian anggap paling kuat? ' Abdullah bin Mas'ud berkata; 'Kami menjawab; 'Yaitu orang yang tidak dapat dikalahkan oleh orang lain.'" RasululIah berkata: 'Bukan itu yang dimaksud dengan orang yang paling kuat. Tetapi orang yang paling kuat adalah orang yang dapat menguasai dirinya ketika ia sedang marah.' Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Isa bin Yunus] seluruhnya dari [Al A'masy] melalui jalur ini dengan Hadits yang semakna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6641</td></tr><tr><td>Arabic No</td><td>2608.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6641</td></tr><tr><td>Arabic No</td><td>2608.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 138</td></tr></tbody></table></div>
 

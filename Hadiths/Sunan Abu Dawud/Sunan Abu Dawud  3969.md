@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) read the Qur'anic verse, "And tak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Hatim bin Isma'il]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Nashr bin 'Ashim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ja'far bin Muhammad] dari [Ayahnya] dan [Jabir] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: '(Dan jadikanlah sebahagian maqam Ibrahim tempat shalat) ' (Qs. Al Baqarah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3969</td></tr><tr><td>Arabic No</td><td>3969</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ прочитал: «И изберите /фа-ттахизу/ место стояния Ибрахима местом молитвы» (сура «аль-Бакара», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3969</td></tr><tr><td>Arabic No</td><td>3969</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
 

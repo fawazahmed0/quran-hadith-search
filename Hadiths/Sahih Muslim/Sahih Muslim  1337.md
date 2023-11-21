@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been transmitted by Abdullah b. Harith on the authority o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibn Numair], dia berkata; telah menceritakan kepada kami [Abu Muawiyah] dari ['Ashim] dari [Abdullah bin Harits] dari ['Aisyah] dia berkata; "Apabila Nabi shallallahu 'alaihi wasallam mengucapkan salam, beliau tidak duduk selain seukuran membaca bacaan "ALLAAHUMMA ANTAS SALAAM, WAMINKAS SALAAM, TABAARAKTA DZAL JALAALIL WAL IKRAAMI (Ya Allah, Engkau adalah Dzat Pemberi keselamatan, dan dari-Mulah segala keselamatan, Maha Besar Engkau Dzat Pemilik kebesaran dan kemuliaan)." Dan dalam riwayat Ibn Numair disebutkan 'YA DZAL JALAALI WAL IKRAAMI (Wahai Dzat pemilik kebesaran dan kemuliaan)." Dan telah menceritakan kepada kami [Ibn Numair] telah menceritakan kepada kami [Abu Khalid yaitu Al Ahmar] dari ['Ashim] dengan isnad ini, yaitu beliau bersabda dengan redaksi "YA DZAL JALAALI WAL IKRAAM (Wahai Dzat Pemilik kebesaran dan kemuliaan)." Dan telah menceritakan kepada kami [Abdul Warits bin Abdushshamad] telah menceritakan kepadaku [bapakku] dari [Syu'bah] dari ['Ashim] dari [Abdullah bin Al Harits] dan [Khalid] dari [Abdullah bin Al Harits] keduanya dari [Aisyah] bahwa nabi shallallahu 'alaihi wasallam bersabda sebagaimana di atas. Hanya saja dengan tambahan redaksi "YA DZAL JALAALI WAL IKRAAM (Wahai Dzat Pemilik kebesaran dan kemuliaan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1337</td></tr><tr><td>Arabic No</td><td>592.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1337</td></tr><tr><td>Arabic No</td><td>592.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 174</td></tr></tbody></table></div>
 

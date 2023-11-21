@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported Allah's Messenger (ﷺ) as saying:When Allah, the Exalted and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muslim berkata; Aku diceritakan; dari [Abu Usamah] dan dari orang yang meriwayatkan Hadits itu yaitu [Ibrahim bin Sa'id Al Jauhari] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepadaku [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam sabdanya: "Sesungguhnya apabila Allah Azza wa Jalla hendak memberikan rahmat kepada suatu umat diantara hamba-hamba-Nya. Dia mematikan nabinya lebih dahulu sebelum umat itu, maka jadilah nabi itu sebagai perintis dan pendahulu bagi umat itu. Dan apabila Allah hendak membinasakan suatu umat, disiksa-Nya umat itu, sedangkan nabinya masih hidup. Lalu umat itu binasa disaksikan nabinya dengan mata kepalanya, ketika mereka mendustakan dan mengingkari perintahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5965</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 43 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5965</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 43 Hadith 28</td></tr></tbody></table></div>
 

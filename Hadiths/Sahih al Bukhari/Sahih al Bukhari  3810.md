@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:Anas said, "The Qur'an was collected in the lifetime of the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Yahya] telah bercerita kepada kami [Syu'bah] dari [Qatadah] dari [Anas radliallahu 'anhu]; Pada zaman Nabi shallallahu 'alaihi wasallam al-Qur'an dihimpun pula (ditulis dan dihafal) oleh empat orang yang semuanya dari kalangan Anshar. Mereka adalah Ubay, Mu'adz bin Jabal, Abu Zaid dan Zaid bin Tsabit". Aku bertanya kepada Anas; Siapakah Abu Zaid itu?". Dia menjawab; "Salah seorang dari paman-pamanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3810</td></tr><tr><td>Arabic No</td><td>3810</td></tr><tr><td>Reference</td><td>Book 63 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «При жизни Пророка ﷺ собиранием Корана занимались четверо (человек), и все они были из числа ансаров. (Ими были) Убайй (бин Ка‘б), Му‘аз бин Джабаль, Абу Зейд и Зейд бин Сабит».\nПередатчик этого хадиса сказал: «Я спросил Анаса: “Какой Абу Зейд?” Он ответил: “Мой дядя со стороны отца”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3810</td></tr><tr><td>Arabic No</td><td>3810</td></tr><tr><td>Reference</td><td>Book 63 Hadith 35</td></tr></tbody></table></div>
 

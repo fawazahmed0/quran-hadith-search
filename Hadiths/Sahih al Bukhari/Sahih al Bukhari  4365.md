@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Hussein:A delegation from Banu Tamim came to the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Abu Shakhrah] dari [Shafwan bin Muhriz Al Mazini] dari ['Imran bin Hushain radliallahu 'anhuma] dia berkata; "Sekelompok orang dari Bani Tamim datang menemui Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: 'Terimahlah kabar gembira wahai Bani Tamim.' Mereka menjawab; 'Anda telah memberikan kabar gembira kepada kami, oleh karena itu berikanlah sesuatu kepada kami.' Maka muka Rasulullah shallallahu 'alaihi wasallam berubah, tidak lama kemudian serombongan dari penduduk Yaman datang kepada beliau, maka beliau bersabda: "Terimalah kabar gembira, karena Bani Tamim tidak mau menerimanya!" Mereka berkata; "Ya Rasulallah, kami telah menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4365</td></tr><tr><td>Arabic No</td><td>4365</td></tr><tr><td>Reference</td><td>Book 64 Hadith 391</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн, да будет доволен Аллах им и его отцом, сказал: «(Однажды) к Пророку ﷺ пришли люди из (племени) бану тамим, (которым) он сказал: “О бану тамим, примите благую весть!” Они сказали: “Ты уже порадовал нас, а теперь дай нам (что-нибудь)”. Тогда по его лицу стало видно, что ему не понравился их ответ. А потом к нему зашли люди из числа жителей Йемена, и он сказал: “Примите радостную весть вы, ибо (люди из племени) бану тамим отвергли её!” — и они сказали: “Мы уже приняли (её), о Посланник Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4365</td></tr><tr><td>Arabic No</td><td>4365</td></tr><tr><td>Reference</td><td>Book 64 Hadith 391</td></tr></tbody></table></div>
 

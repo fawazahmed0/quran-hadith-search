@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Moses was a modest person. He was never seen naked and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Habib Al Harits]; Telah menceritakan kepada kami [Yazid bin Zura'i]; Telah menceritakan kepada kami [Khalid Al Hadzdza'] dari ['Abdillah bin Syaqiq] dia berkata; Telah memberitakan kepada kami [Abu Hurairah] dia berkata; Nabi Musa adalah orang yang pemalu dan tidak pernah terlihat auratnya. Orang-orang bani Israil menuduhnya bahwa terdapat cacat pada auratnya. Abu Hurairah berkata; Pada suatu ketika, Nabi Musa mandi di sebuah sungai. Ia letakkan pakaiannya di atas sebuah batu. Tetapi batu itu hanyut dibawa air. Lalu Musa mengejarnya untuk menggapainya dengan menggunakan tongkat seraya berkata; Pakaianku hanyut terbawa batu! Pakaianku hanyut terbawa batu! Hingga akhirnya dia berhenti di sekelompok orang-orang Bani Israil. Lalu turunlah ayat Al Qur'an yang berbunyi: Hai orang-orang yang beriman, Janganlah kamu menjadi seperti orang-orang yang menyakiti Musa, maka Allah membersihkannya dari tuduhan-tuduhan yang mereka katakan. Sesungguhnya Musa adalah orang yang mempunyai kedudukan yang terhormat dan mulia di sisi Allah. (QS Al Ahzab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6147</td></tr><tr><td>Arabic No</td><td>339.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6147</td></tr><tr><td>Arabic No</td><td>339.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 205</td></tr></tbody></table></div>
 

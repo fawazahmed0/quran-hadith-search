@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard 'Umar saying, "Allah's Messenger (ﷺ) said to me, 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] berkata; [Salim] berkata; [Ibnu Umar] menuturkan; [Umar bin Khattab] menuturkan; Rasulullah Shallallahu'alaihiwasallam bersabda kepadaku: "Allah melarang kalian bersumpah dengan nama bapak-bapak kalian." Umar berkata; 'maka demi Allah, aku tak lagi bersumpah dengan nama- nama ayahku secara sengaja, semenjak aku mendengar Nabi shallallahu 'alaihi wasallam.' Mujahid berkomentar mengenai makna atsir sebagaimana kutipan ayat "Aw atsaarotin min 'ilmin' adalah segala tulisan atau catatan ilmu. Hadits ini diperkuat oleh [Uqail], [Azzubaidi], [Ishaq Al Kalbi], dari [Az Zuhri] dan [Ibnu Uyainah], [Ma'mar] mengatakan dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam mendengar Umar,,, dan seterusnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6647</td></tr><tr><td>Arabic No</td><td>6647</td></tr><tr><td>Reference</td><td>Book 83 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллах ибн ‘Умара, да будет Аллах доволен им и его отцом, что он слышал, как ‘Умар (ибн аль-Хаттаб) сказал: «Однажды Посланник Аллаха ﷺ сказал мне: “Поистине, Аллах запретил вам клясться вашими отцами”». \n‘Умар сказал: «И, клянусь Аллахом, с тех пор, как я услышал (это) от Пророка ﷺ, я больше никогда не клялся отцом ни сам, ни передавая слова других».\nМуджахид сказал (в отношение слов Всевышнего Аллаха) «… или хоть какой-то след знания» (сура «аль-Ахкаф», аят 4): «(Кого-то, кто бы) передавал знание»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6647</td></tr><tr><td>Arabic No</td><td>6647</td></tr><tr><td>Reference</td><td>Book 83 Hadith 26</td></tr></tbody></table></div>
 

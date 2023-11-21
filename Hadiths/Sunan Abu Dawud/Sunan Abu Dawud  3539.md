@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Umar ; Abdullah Ibn Abbas: The Prophet (ﷺ) said: It is n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Husain Al Mu'allim] dari ['Amru bin Syu'aib] dari [Thawus] dari [Ibnu Umar] dan [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak halal bagi seorang laki-laki yang memberi suatu pemberian kemudian mengambilnya kembali, kecuali orang tua mengambil apa yang ia berikan kepada anaknya. Dan permisalan orang yang memberi suatu pemberian kemudian mengambilnya seperti anjing yang makan, maka setelah kenyang ia muntah kemudian menelan muntahannya kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3539</td></tr><tr><td>Arabic No</td><td>3539</td></tr><tr><td>Reference</td><td>Book 24 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар и Ибн ‘Аббас, да будет доволен Аллах ими обоими, передают, что Пророк ﷺ сказал: «Не позволительно человеку, который дарит что-либо другому, брать его назад, если только речь не идёт о родителе, который дарит своему ребёнку. Тот, кто дарит что-нибудь, а потом забирает свой подарок назад, подобен собаке, которая ест, а насытившись, срыгивает съеденное, после чего начинает пожирать собственную блевотину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3539</td></tr><tr><td>Arabic No</td><td>3539</td></tr><tr><td>Reference</td><td>Book 24 Hadith 124</td></tr></tbody></table></div>
 

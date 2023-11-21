@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il ibn Hujr: I was with the Prophet (ﷺ) when a man who was a murde
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah Al Jusyami] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Auf] berkata; telah menceritakan kepada kami [Hamzah Abu Umar Al 'Aidzi] berkata, telah menceritakan kepadaku [Alqamah bin Wail] berkata, telah menceritakan kepadaku [Wail bin Hujr] ia berkata, "Aku pernah di sisi Nabi shallallahu 'alaihi wasallam, lalu didatangkan ke hadapan beliau seorang pembunuh yang pada lehernya telah diikat dengan tali." Wail berkata, "Beliau lalu mengundang wali korban dan bertanya: "Apa kamu tidak memberi maaf?" Ia menjawab, "Tidak." Beliau bertanya lagi: "Apa kamu tidak ingin mengambil tebusan?" ia menjawab, "Tidak." Beliau bertanya lagi: "Apa kamu ingin membunuhnya?" ia menjawab, "Benar." Beliau bersabda: "Kalau begitu bawalah ia pergi." Ketika wali korban itu beranjak pergi, beliau kembali bertanya: "Apa kamu tidak memberi maaf?" ia menjawab, "Tidak." Beliau bertanya lagi: "Apa kamu tidak ingin mengambil tebusan?" ia menjawab, "Tidak." Beliau bertanya lagi: "Apa kamu ingin membunuhnya?" ia menjawab, "Benar." Beliau bersabda: "Kalau begitu bawalah ia pergi." Maka pada kali keempatnya beliau bersabda: "Jika engkau memberinya maaf, maka ia akan menanggung dosanya sendiri dan dosa saudaramu." Wail berkata, "Wali korban itu akhirnya memaafkannya." Wail berkata, "Aku melihat pembunuh melepas tali pengikatnya." Telah menceritakan kepada kami [Ubaidullah bin Umar bin Umar bin Maisarah] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] ia berkata; telah menceritakan kepadaku [Jami' bin Mathar] berkata, telah menceritakan kepadaku [Alqamah bin Wail] dengan sanad dan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim (1680)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4499</td></tr><tr><td>Arabic No</td><td>4499</td></tr><tr><td>Reference</td><td>Book 41 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ваиля ибн Худжра, да будет доволен им Аллах: «Я был у Пророка ﷺ и к нему привели убийцу, на шее которого был ремень, и он позвал покровителя убитого и спросил: “Прощаешь ли ты его?” Тот ответил: “Нет”. (Пророк ﷺ) спросил: “Готов ли ты принять компенсацию /дийа/?” Тот ответил: “Нет”. (Пророк ﷺ) спросил: “Ты желаешь предать его смерти?” Тот ответил: “Да”. (Пророк ﷺ) сказал: “Забирай его”. Когда тот уже повернулся, чтобы уйти, Пророк ﷺ снова спросил: “Прощаешь ли ты его?” Тот ответил: “Нет”. (Пророк ﷺ) спросил: “Готов ли ты принять компенсацию /дийа/?” Тот ответил: “Нет”. (Пророк ﷺ) спросил: “Ты желаешь предать его смерти?” Тот ответил: “Да”. (Пророк ﷺ) сказал: “Забирай его”. На четвёртый раз (Пророк ﷺ) сказал: “Поистине, если ты простишь его, он понесёт бремя и своего греха, и греха своего товарища”. И он простил его. И я видел, как этот (отпущенный убийца) шёл, волоча за собой свой ремень»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim (1680)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4499</td></tr><tr><td>Arabic No</td><td>4499</td></tr><tr><td>Reference</td><td>Book 41 Hadith 6</td></tr></tbody></table></div>
 

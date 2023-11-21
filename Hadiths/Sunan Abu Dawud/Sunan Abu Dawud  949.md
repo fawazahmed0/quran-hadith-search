@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid b. Arqam said ; One of us used to speak to the man standing by his side dur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Isma'il bin Abu Khalid] dari [Al Harits bin Syubail] dari [Abu 'Amru As Syaibani] dari [Zaid bin Arqam] dia berkata; "Salah seorang dari kami pernah mengajak bicara kepada orang yang ada di sampingnya ketika shalat, lalu turunlah ayat; "WA QUUMUU LILLAAHI QAANITIIN (berdirilah karena Allah (dalam shalatmu) dengan khusyu') QS Al Baqarah; 238. maka kami di perintahkan untuk diam dan di larang untuk berbicara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1200) Sahih Muslim (539)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>949</td></tr><tr><td>Arabic No</td><td>949</td></tr><tr><td>Reference</td><td>Book 2 Hadith 560</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Аркама, да будет доволен им Аллах: «Сначала во время молитвы один из нас разговаривал со своим соседом во время молитвы, а потом было ниспослано: “И стойте пред Аллахом смиренно”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1200) Sahih Muslim (539)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>949</td></tr><tr><td>Arabic No</td><td>949</td></tr><tr><td>Reference</td><td>Book 2 Hadith 560</td></tr></tbody></table></div>
 

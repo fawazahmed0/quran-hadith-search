@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Abu Burdah al-Ansari 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Bukair bin Abdullah Ibnul Asyaj] dari [Sulaiman bin Yasar] dari ['Abdurrahman bin Jabir bin Abdullah] dari [Abu Burdah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Seseorang tidak boleh didera lebih dari sepuluh kali deraan, kecuali pada pelaksanaan hudud Allah Azza Wa Jalla." Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Amru] bahwa [Bukair Ibnul Asyaj] menceritakan kepadanya dari [Sulaiman bin Yasar] ia berkata; telah menceritakan kepadaku ['Abdurrahman bin Jabir] bahwa [Bapaknya] menceritakan kepadanya, bahwa ia mendengar [Abu Burdah Al Anshari] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda…lalu ia menyebutkan sebagaimana maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>4492</td></tr><tr><td>Reference</td><td>Book 40 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Бурды, что Посланник Аллаха ﷺ сказал: «Никому не следует давать больше десяти плетей, за исключением (тех случаев, когда виновный подвергается одному из) наказаний, установленных Всемогущим и Великим Аллахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>4492</td></tr><tr><td>Reference</td><td>Book 40 Hadith 142</td></tr></tbody></table></div>
 

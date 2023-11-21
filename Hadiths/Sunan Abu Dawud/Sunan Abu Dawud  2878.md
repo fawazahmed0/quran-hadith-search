@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:'Umar got some land in Khaibar, and when to the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2772) Sahih Muslim (1633)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2878</td></tr><tr><td>Arabic No</td><td>2878</td></tr><tr><td>Reference</td><td>Book 18 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Получив землю в Хайбаре, ‘Умар, да будет доволен им Аллах, пришёл к Пророку ﷺ и сказал: “О Посланник Аллаха, я получил землю в Хайбаре, и у меня никогда не было имущества более ценного, чем эта земля. Что ты велишь мне делать с ней?” (Посланник Аллаха ﷺ) сказал: “Если хочешь, завещай в качестве вакфа её основу и давай милостыню за счёт того, что она будет тебе приносить”. И ‘Умар превратил эту землю в милостыню, поставив условие о том, что её нельзя будет ни продавать, ни дарить, ни наследовать, а доходы, которые она приносила, могут направляться на оказание помощи бедным, близким родственникам, на освобождение рабов, для расходования на пути Аллаха и помощи путникам, а также для приёма гостей. Если же управляющий таким имуществом будет питаться тем, что оно приносит, в пределах разумного или накормит своего друга, не получая никакой иной прибыли (или: ничего не присваивая), в этом не будет ничего дурного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2772) Sahih Muslim (1633)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2878</td></tr><tr><td>Arabic No</td><td>2878</td></tr><tr><td>Reference</td><td>Book 18 Hadith 17</td></tr></tbody></table></div>
 

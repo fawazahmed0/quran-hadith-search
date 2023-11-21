@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas b. Malik that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Syu'bah] dari [Qatadah] dan [Humaid] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak seorang pun yang meninggal dunia, dan di sisi Allah ia memiliki kebaikan yang membuatnya bahagia, lalu ia ingin kembali ke dunia selain orang yang mati syahid. Sesungguhnya ia berangan-anagn untuk kembali (ke dunia) kemudian terbunuh lagi di dunia karena ia melihat keutamaan mati syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4867</td></tr><tr><td>Arabic No</td><td>1877.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4867</td></tr><tr><td>Arabic No</td><td>1877.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 163</td></tr></tbody></table></div>
 

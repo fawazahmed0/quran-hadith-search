@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:While Allah's Messenger (ﷺ) was carrying stones (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mathar bin Al Fadlal] berkata, telah menceritakan kepada kami [Rauh] berkata, telah menceritakan kepada kami [Zakaria bin Ishaq] telah menceritakan kepada kami ['Amru bin Dinar] berkata, aku mendengar [Jabir bin 'Abdullah] menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam bersama orang-orang Quraisy memindahkan batu Ka'bah sementara saat itu beliau mengenakan kain lebar." Pamannya, Al 'Abbas, lalu berkata kepadanya, "Wahai anak saudaraku, seandainya kainmu engkau letakkan pada pundakmu tentu batu akan lebih ringan. Maka beliau lepas dan dipakaikannya di pundaknya, tiba-tiba beliau terjatuh dan pingsan. Setelah peristiwa itu tidak pernah Nabi shallallahu 'alaihi wasallam terlihat telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Амр ибн Динар сказал: «Я слышал, как Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, рассказывал о том, что (когда) Посланник Аллаха ﷺ одетый в свой изар, переносил вместе с ними камни для Каабы, его дядя аль-‘Аббас сказал ему: “О племянник, (лучше бы) ты развязал свой изар и подкладывал его под камни на плечи”».\n(Джабир) сказал: «Toгдa он развязал изар и положил его себе на плечи, однако (сразу же) лишился чувств, и после этого больше никто не видел его ﷺ обнажённым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
 

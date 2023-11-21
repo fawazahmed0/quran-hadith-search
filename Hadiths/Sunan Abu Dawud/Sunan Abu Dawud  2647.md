@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Ibn Umar was sent with a detachment of the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Yazid? bin Abu Ziyad], bahwa [Abdurrahman bin Abu Laila] telah menceritakan kepadanya bahwa [Abdullah bin Umar] telah menceritakan kepadanya bahwa ia pernah berada dalam kesatuan militer diantara kesatuan-kesatuan militer Rasulullah shallallahu 'alaihi wasallam. Ia berkata; kemudian orang-orang melarikan diri, dan aku termasuk orang-orang yang melarikan diri. Kemudian tatkala kami nampak, maka kami mengatakan; apa yang akan kita lakukan? Sungguh kita telah lari dari peperangan dan kita kembali dengan kemurkaan. Lalu kami katakan; kita akan masuk Madinah kemudian kita tinggal padanya dan pergi sementara tidak ada seorangpun yang melihat kita. Kemudian kami masuk Madinah, lalu kami katakan; seandainya kita menyerahkan diri kepada Rasulullah shallallahu 'alaihi wasallam, apabila kita mendapatkan taubat maka kita tinggal di Madinah dan seandainya tidak demikian maka kita akan pergi. Ibnu Umar berkata; kemudian kami duduk menunggu Rasulullah shallallahu 'alaihi wasallam sebelum Shalat Subuh. Kemudian tatkala beliau keluar maka kami berdiri menuju kepadanya dan kami katakan; kami adalah orang-orang yang melarikan diri. Lalu beliau menghadap kepada kami dan berkata: "Tidak, melainkan kalian adalah orang-orang yang kembali berperang." Ibnu Umar berkata; kemudian kami mendekat dan mencium tangan beliau. Lalu beliau berkata: "Kami adalah kelompok orang-orang muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2647</td></tr><tr><td>Arabic No</td><td>2647</td></tr><tr><td>Reference</td><td>Book 15 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2647</td></tr><tr><td>Arabic No</td><td>2647</td></tr><tr><td>Reference</td><td>Book 15 Hadith 171</td></tr></tbody></table></div>
 

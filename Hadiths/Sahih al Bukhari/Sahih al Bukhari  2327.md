@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:We worked on farms more than anybody else in Medina. W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yahya bin Sa'id] dari [Hanzhalah bin Qais Al Anshariy] dia mendengar [Rafi' bin Khudaij] berkata: "Di Madinah kami adalah orang-orang yang paling banyak bercocok tanam, sering kami menyewa tanah di sebuah kawasan tertentu milik tuan tanah, diantaranya ada yang gagal dan tanah masih seperti apa adanya, dan diantaranya ada yang berhasil sehingga tanah menjadi rusak, sehingga di kemudian hari kami dilarang sewa-menyewa tanah ini. Ketika itu, emas dan uang belum ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2327</td></tr><tr><td>Arabic No</td><td>2327</td></tr><tr><td>Reference</td><td>Book 41 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ бин Хадидж, да будет доволен им Аллах, сказал: «Мы занимались земледелием больше, чем кто-либо другой в Медине, и брали землю в аренду, отдавая её хозяину определённую часть (урожая). Иногда одна часть урожая оказывалась подпорченной, другая же оставалась целой, а иногда получалось наоборот, и (в конце концов Пророк ﷺ) запретил нам (делать) это. Что же касается золота и серебра, то в то время они не использовались»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2327</td></tr><tr><td>Arabic No</td><td>2327</td></tr><tr><td>Reference</td><td>Book 41 Hadith 8</td></tr></tbody></table></div>
 

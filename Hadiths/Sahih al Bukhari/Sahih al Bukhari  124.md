@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Ammar:I saw the Prophet (ﷺ) near the Jamra and the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Abdul 'Aziz bin Abu Salamah] dari [Az Zuhri] dari ['Isa bin Thalhah] dari ['Abdullah bin 'Amru] berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam di sisi jumrah sedang ditanya. Seorang laki-laki bertanya, "Wahai Rasulullah, aku menyembelih hewan sebelum aku melempar?" Beliau lalu bersabda: "Melemparlah sekarang, dan kau tidak dosa." Kemudian datang orang lain dan berkata, "Wahai Rasulullah, aku telah mencukur rambut sebelum aku menyembelih?" Beliau menjawab: "Sembelihlah sekarang, tidak kau tidak berdosa." Dan tidaklah beliau ditanya tentang sesuatu yang dikerjakan lebih dahulu atau sesuatu yang diakhirkan dalam mengerjakannya kecuali menjawab: "Lakukanlah dan tidak dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>124</td></tr><tr><td>Arabic No</td><td>124</td></tr><tr><td>Reference</td><td>Book 3 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен Аллах ими обоими, сказал: «Я видел, как задавали вопросы Пророку ﷺ который находился у джамрата. Один человек (подошёл к нему) и сказал: “О Посланник Аллаха, (по невнимательности) я принёс жертву до того, как начал бросать камни в идолов”. (Пророк ﷺ) сказал: “Ничего, бросай (сейчас)”. Другой человек сказал: “О Посланник Аллаха, я обрил голову до того, как принёс (свой скот в) жертву”. (Пророк ﷺ) сказал: “Ничего, принеси жертву (сейчас)”. И о чём бы (в тот день люди) ни спрашивали его относительно сделанного ими раньше или позже, чем нужно, он неизменно говорил (в ответ): “Ничего, сделай (это сейчас)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>124</td></tr><tr><td>Arabic No</td><td>124</td></tr><tr><td>Reference</td><td>Book 3 Hadith 66</td></tr></tbody></table></div>
 

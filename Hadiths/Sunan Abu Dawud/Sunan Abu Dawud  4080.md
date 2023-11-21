@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) forbade wearing clothes in tw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang dua cara berpakaian; seorang laki-laki berihtiba (duduk di atas bokong dan mendekap kedua lutut menempel dada) dengan membiarkan auratnya (kemaluan) menghadap ke langit. Dan memakai pakaian dengan satu sisi dibiarkan terbuka, lalu menyelempangkan bajunya ke pundak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4080</td></tr><tr><td>Arabic No</td><td>4080</td></tr><tr><td>Reference</td><td>Book 34 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах: «Посланник Аллаха ﷺ запретил два способа ношения одежды: когда человек сидит, согнув ноги в коленях и заворачивается в одежду, оставляя половые органы неприкрытыми напротив неба (, то есть между ними и небесами нет преграды), и когда человек носит одежду, оставляя открытым один бок и закинув её на плечо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4080</td></tr><tr><td>Arabic No</td><td>4080</td></tr><tr><td>Reference</td><td>Book 34 Hadith 61</td></tr></tbody></table></div>
 

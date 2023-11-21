@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man from Bani Aslam came to Allah's Messenger (ﷺ) while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dan [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] berkata; Seorang laki-laki dari Bani Aslam mendatangi Rasulullah shallallahu 'alaihi wasallam yang saat itu sedang berada di Masjid. Laki-laki itu pun memanggil beliau dan berkata, "Wahai Rasulullah, sesungguhnya Al Akhira (maksudnya adalah dirinya sendiri) telah berzina." Lalu beliau berpaling darinya. Laki-laki itu kembali menghadap ke wajah beliau seraya berkata, "Wahai Rasulullah, sesungguhnya Al Akhir telah berzina." Beliau berpaling lagi, dan laki-laki itu pun kembali menghadap ke wajah belia dan berkata seperti itu lagi, namun beliau tetap berpaling. Maka pada keempat kalinya, ia kembali menghadap ke wajah beliau dan bersaksi atas diri dengan empat orang saksi, akhirnya beliau memanggilnya dan bertanya: "Apakah kamu memiliki penyakit jiwa?" laki-laki itu menjawab, "Tidak." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Bawalah laki-laki itu pergi dan rajamlah ia." Dan memang laki-laki itu telah menikah. Dan dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [seorang] yang telah mendengar [Jabir bin Abdullah Al Anshari] berkata; Aku termasuk diantara orang yang merajamnya. Kami merajamnya di lapangan luas di Madinah. Ketika laki-laki itu terkena lemparan batu, ia pun lari dan kami mengejar dan menangkapnya lalu merajamnya kembali hingga meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5271</td></tr><tr><td>Arabic No</td><td>5271</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Однажды один мужчина из племени аслям пришёл к Посланнику Аллаха ﷺ, который находился в мечети, и обратился к нему, сказав: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние”. Однако (Посланник Аллаха ﷺ) отвернулся от него, после чего человек двинулся в ту сторону, к которой Пророк ﷺ повернул своё лицо, и сказал: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние”. Однако (Посланник Аллаха ﷺ) снова отвернулся от него, после чего человек двинулся в ту сторону, к которой Пророк ﷺ повернул своё лицо, и сказал: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние”. Это повторилось четыре раза, и после того, как он засвидетельствовал против себя четырежды, Пророк ﷺ подозвал его и спросил: “Ты сумасшедший?” Он ответил: “Нет”. Тогда Пророк ﷺ сказал: “Уведите его и забейте камнями”. И этот человек был тем, кто вступал в половую связь в браке /мухсын/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5271</td></tr><tr><td>Arabic No</td><td>5271</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) allowed the sale of the dates of 'Araya p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] berkata, aku mendengar [Malik] ketika ditanya oleh 'Ubaidullah bin Ar-Rabi'; "Apakah [Daud] menceritakan kepadamu dari [Abu Sufyan] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam memberi kelonggaran dalam jual beli 'ariyyah dengan (menambah) lima wasaq atau lebih kecil dari lima wasaq?. Dia berkata: "Ya, benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 34 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ разрешил (нуждающимся) покупать несобранные финики за сушёные, если речь шла о количествах, (по весу) не превышающих пяти васков
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 34 Hadith 137</td></tr></tbody></table></div>
 

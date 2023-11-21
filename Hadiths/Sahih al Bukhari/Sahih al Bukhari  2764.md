@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:In the lifetime of Allah's Messenger (ﷺ) , 'Umar gave in ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Harun bin Al Asy'ats] telah bercerita kepada kami [Abu Sa'id, maula Bani Hasyim] telah bercerita kepada kami [Shokhr bin Juwairiyah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa 'Umar radliallahu 'anhu menshadaqahkan hartanya pada masa Rasululloh shallallahu 'alaihi wasallam dimana hartanya itu dinamakan Tsamagh yakni kebun kurma. 'Umar berkata: "Wahai Rasulullah, aku mendapatkan bagian harta dan harta itu menjadi yang paling berharga bagiku dan aku ingin menshadaqahkannya". Maka Nabi shallallahu 'alaihi wasallam berkata: "Shadaqahkanlah dengan pepohonannya dan jangan kamu jual juga jangan dihibahkan dan jangan pula diwariskan akan tetapi ambillah buah-buahannya sehingga dengan begitu kamu dapat bershadaqah dengannya". Maka 'Umar menshadaqahkannya dimana tidak dijualnya, tidak dihibahkan dan juga tidak diwariskan namun dia menshadaqahkan hartanya itu untuk fii sabilillah (di jalan Allah), untuk membebaskan budak, orang-orang miskin, untuk menjamu tamu, ibnu sabil dan kerabat.. Dan tidak dosa bagi orang yang mengurusnya untuk memakan darinya dengan cara yang ma'ruf (benar) dan untuk memberi makan teman-temannya asal bukan untuk maksud menimbunnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2764</td></tr><tr><td>Arabic No</td><td>2764</td></tr><tr><td>Reference</td><td>Book 55 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что при жизни Посланника Аллаха ﷺ ‘Умар пожертвовал в качестве садаки свою пальмовую рощу, которая называлась Самг. (Прежде чем сделать это,) ‘Умар сказал: «О Посланник Аллаха, у меня есть имущество, которое дорого мне, и я хочу пожертвовать его в качестве садаки». (На это) Пророк ﷺ сказал: «Отдавай, (но с таким условием, чтобы) его основу нельзя было ни продать, ни подарить, ни оставить в наследство, (что же касается) фиников, то их можно будет раздавать». И ‘Умар пожертвовал (эту рощу, чтобы доходы с неё использовались) на пути Аллаха, (а именно) — на (освобождение) рабов, на (помощь) неимущим и приём гостей(, а также) на (поддержку) путников и родственников. Нет никакого греха в том, что управляющий всеми этими делами будет и сам питаться за счёт этого в разумных пределах или кормить своих друзей, если только он не стремится к обогащению за счёт этого
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2764</td></tr><tr><td>Arabic No</td><td>2764</td></tr><tr><td>Reference</td><td>Book 55 Hadith 27</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Jâbir Ibn 'Abdoullâh (رضي الله عنهما), un homme vint trouver
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh Al Muhajir] telah mengabarkan kepada kami [Laits] dari [Yahya bin Sa'id] dari [Abu Zubair] dari [Jabir bin Abdullah] ia berkata; Seorang laki-laki mendatangi Rasulullah shallallahu 'alaihi wasallam saat beliau berada di Ji'ranah sekembalinya dari Hunain. Sedangkan pada kainnya Bilal terdapat perak, sementara Rasulullah shallallahu 'alaihi wasallam mengambil darinya dan memberikannya kepada orang-orang. Lalu laki-laki itu pun berkata, "Wahai Muhammad, bersikap adillah." Beliau bersabda: "Celaka kamu, kalau begitu, siapakah yang akan berlakuk adil kalau aku tidak lagi berlaku adil. Sungguhnya kamu telah celaka sekiranya aku tidak berlakuk adil." Lalu Umar bin Al Khaththab radliallahu 'anhu berkata, "Ya Rasulullah, biarkanlah aku untuk membunuh orang munafik ini." beliau bersabda: "Aku berlindung kepada Allah, jika orang-orang mengatakan bahwa aku membunuh sahabatku. Sesungguhnya orang ini dan para sahabatnya senantiasa membaca Al Qur'an namun tidak sampai melewati tenggorokan mereka. mreka keluar darinya (Islam) sebagaimana meluncurnya panah dari busurnya." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab Ats Tsaqafi] ia berkata; saya mendengar [Yahya bin Sa'id] berkata, telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] -dalam jalur lain- Dan Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Zaid bin Al Hubab] telah menceritakan kepadaku [Qurrah bin Khalid] telah menceritakan kepadaku [Abu Zubair] dari [Jabir bin Abdullah] bahwasanya; "Nabi shallallahu 'alaihi wasallam membagi-bagi harta ghanimah." Maka ia pun menyebutkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2449</td></tr><tr><td>Arabic No</td><td>1063.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Когда Посланник Аллаха ﷺ, возвращаясь из Хунайна находился в Джи‘ране, а в одежде Биляля было серебро, из которого Посланник Аллаха ﷺ брал и раздавал людям, к нему подошёл (какой-то) человек и сказал: “О Мухаммад, будь справедлив!” (Пророк ﷺ) ответил: “Горе тебе, кто же придерживается справедливости, если я не справедлив!? Пропал ты и потерпел неудачу, если я не придерживаюсь справедливости!” Тогда ‘Умар ибн аль-Хаттаб сказал: “О Посланник Аллаха, позволь мне отрубить голову, этому лицемеру!” Посланник Аллаха ﷺ сказал: “Да упасёт Аллах от того, чтобы люди говорили, что я убиваю своих сподвижников! Поистине, этот (человек) и его товарищи читают Коран, но он не опускается ниже их глоток, они вылетают из религии подобно тому, как стрела вылетает через дичь, (пробив её насквозь)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2449</td></tr><tr><td>Arabic No</td><td>1063.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 186</td></tr></tbody></table></div>
 

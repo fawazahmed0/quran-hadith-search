@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi 'Aufa:When Allah's Messenger (ﷺ) performed the 'Umra (which h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] dari [Ismail bin Abu Khalid] ia mendengar [Abu Aufa] mengatakan, ketika Rasulullah shallallahu 'alaihi wasallam melakukan umrah, kami menutupinya dari anak-anak kaum musyrikin, dan diantara mereka ada yang menyakiti Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4255</td></tr><tr><td>Arabic No</td><td>4255</td></tr><tr><td>Reference</td><td>Book 64 Hadith 289</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Ауфа, сказал: «Когда Посланник Аллаха ﷺ совершал умру, мы прикрывали его от многобожников, чтобы они не причинили ему никакого вреда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4255</td></tr><tr><td>Arabic No</td><td>4255</td></tr><tr><td>Reference</td><td>Book 64 Hadith 289</td></tr></tbody></table></div>
 

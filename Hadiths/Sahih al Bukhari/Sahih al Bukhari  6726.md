@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Fatima and Al 'Abbas came to Abu Bakr, seeking their share from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] bahwasanya Fathimah dan Abbas alaihimassalam mendatangi [Abu Bakar] untuk memperoleh warisan keduanya dari Rasulullah Shallallahu'alaihiwasallam, ketika itu keduanya meminta tanah bagiannya di Fadak, dan bagiannya di Khaibar. Maka Abu Bakar menjawab; 'Aku pernah mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Kami tidak diwarisi dan semua yang kami tinggalkan adalah sedekah, dan hanyasanya keluarga Muhammad dari harta ini." Lanjut Abu Bakar; 'Demi Allah, tidaklah aku tinggalkan sebuah urusan yang kulihat Rsulullah Shallallahu'alaihiwasallam melaksanakannya, selain aku juga melaksanakan seperti yang dilaksanakannya.' Kata 'Urwah, semenjak itu Fathimah terus menjauhi Abu Bakar dan tidak pernah mengajaknya bicara hingga ia menjemput ajalnya. Telah menceritakan kepada kami [Isma'il bin Abban] telah menceritakan kepada kami [Ibnul Mubarak] dari [Yunus] dari [Az Zuhri] dari [Urwah] dari [Aisyah] bahwasanya Nabi shallallahu 'alaihi wasallam bersabda: "kami tidak di warisi dan harta yang kami tinggalkan sebagai sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6726</td></tr><tr><td>Arabic No</td><td>6726</td></tr><tr><td>Reference</td><td>Book 85 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакр сказал им: «Я слышал, как Посланник Аллаха ﷺ говорил: “Мы не оставляем наследства. Всё, что мы оставляем, является милостыней, а члены семьи Мухаммада питаются из этих средств”. Клянусь Аллахом, не оставлю я ни одного дела, которое видел Посланника Аллаха ﷺ совершающим, не совершив его». После этого Фатыма оставила его и не разговаривала с ним до самой смерти
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6726</td></tr><tr><td>Arabic No</td><td>6726</td></tr><tr><td>Reference</td><td>Book 85 Hadith 3</td></tr></tbody></table></div>
 

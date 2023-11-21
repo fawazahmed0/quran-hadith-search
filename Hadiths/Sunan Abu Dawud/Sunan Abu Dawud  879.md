@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami ['Abdah] dari ['Ubaidullah] dari [Muhammad Ibnu Yahya bin Habban] dari [Abdurrahman Al A'raj] dari [Abu Huraiah] dari [Aisyah radliallahu 'anha] dia berkata; "Suatu malam aku kehilangan Rasulullah shallallahu 'alaihi wasallam, maka tersentuhlah beliau olehku di masjid, ternyata beliau sedang sujud dengan kedua telapak kakinya yang tegak ke atas, dan beliau mengucapkan; "A'uudzu biridlaaka min sukhtika wa a'uudzu bi mu'aafatika min 'uquubatika wa a'uudzubika minka laa uhshii tsanaa'a 'alaika anta kamaa atsnaita 'alaa nafsika (Aku berlindung dengan keridlaan-Mu dari murka-Mu, aku berlindung dengan ampunan-Mu dari siksa-Mu, aku berlindung kepada-Mu dari pada-Mu, tidaklah terhitung puji-pujianku kepada-Mu, engkau adalah Dzat sebagaimana di pujikan oleh diri-Mu sendiri)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>879</td></tr><tr><td>Arabic No</td><td>879</td></tr><tr><td>Reference</td><td>Book 2 Hadith 489</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывает ‘Аиша, да будет доволен ею Аллах: «Однажды ночью я проснулась и не обнаружила рядом Посланника Аллаха ﷺ. Я пощупала рукой то место, где он обычно молился, и обнаружила, что он совершает земной поклон, поставив стопы вертикально. В это время он говорил: “О Аллах, поистине, я прибегаю к Твоему благоволению от Твоего гнева и к прощению Твоему от наказания Твоего и прибегаю к Тебе от Тебя! Не перечислить мне всех похвал Тебе, которых Ты достоин, Ты таков как Сам Ты восхвалил Себя (Аллахумма, инни а‘узу би рида-ка мин сахати-ка, ва би-му‘афати-ка мин ‘укубати-ка, ва а‘узу би-ка мин-ка! Ля ухсы санаан ‘аляй-ка Анта кама аснайта ‘аля нафси-ка)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>879</td></tr><tr><td>Arabic No</td><td>879</td></tr><tr><td>Reference</td><td>Book 2 Hadith 489</td></tr></tbody></table></div>
 

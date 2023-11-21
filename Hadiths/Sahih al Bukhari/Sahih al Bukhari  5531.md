@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Once Allah's Messenger (ﷺ) passed by a dead shee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ya'kub bin Ibrahim] telah menceritakan kepada kami [Ayahku] dari [Shalih] dia berkata; telah menceritakan kepadaku [Ibnu Syihab] bahwa ['Ubaidullah bin Abdullah] telah mengabarkan kepadanya bahwa [Abdullah bin Abbas] radliallahu 'anhuma telah mengabarkan kepadanya, sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah melewati bangkai seekor kambing, lalu beliau bersabda: "Kenapa kalian tidak memanfa'atkan kulitnya?" Mereka (para sahabat) menjawab; "Ia telah menjadi bangkai" beliau bersabda: "Hanyasanya yang diharamkan adalah memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5531</td></tr><tr><td>Arabic No</td><td>5531</td></tr><tr><td>Reference</td><td>Book 72 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абдуллах ибн Аббас, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ прошёл мимо мёртвой овцы и сказал: “Почему бы вам не воспользоваться её шкурой?” Люди сказали: “Поистине, она мёртвая”. (Тогда) он сказал: “Запрещается только есть её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5531</td></tr><tr><td>Arabic No</td><td>5531</td></tr><tr><td>Reference</td><td>Book 72 Hadith 56</td></tr></tbody></table></div>
 

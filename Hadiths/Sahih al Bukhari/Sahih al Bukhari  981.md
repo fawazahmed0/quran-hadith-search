@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um-'Atiya:We were ordered to go out (for 'Id) and also to take along wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Ibnu 'Aun] dari [Muhammad] berkata, " [Ummu 'Athiyyah] berkata, "Kami diperintahkan untuk keluar, maka kami keluarkan pula para wanita yang sedang haid, gadis remaja dan wanita-wanita yang dipingit dalam rumah." Ibnu Aun menyebutkan, "Atau gadis-gadis remaja yang dipingit. Adapun wanita haid, maka mereka dapat menyaksikan (menghadiri) jama'ah kaum Muslimin dan mendo'akan mereka, dan hendaklah mereka menjauhi tempat shalat mereka (kaum laki-laki)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>981</td></tr><tr><td>Reference</td><td>Book 13 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыя, сказала: «Нам было приказано выходить и выводить (на праздничную молитву) тех, у кого начались месячные, молодых девушек, и сидящих за занавесками», — Ибн ‘Аун сказал: «...или молодых девушек, сидящих за занавесками», — «а что касается женщин, у которых начались месячные, то они принимают участие с общиной мусульман и их обращениях к Аллаху (со своими мольбами), и держаться в стороне от места молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>981</td></tr><tr><td>Reference</td><td>Book 13 Hadith 30</td></tr></tbody></table></div>
 

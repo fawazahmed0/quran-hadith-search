@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. 'Amr b. al-'As:The Messenger of Allah (ﷺ) met me and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdurrazzaq], telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Al Musayyab], dan [Abu Salamah], dari [Abdullah bin 'Amr bin Al 'Ash], ia berkata; Rasulullah shallallahu 'alaihi wasallam bertemu denganku dan berkata; bukankah aku telah diberitahu bahwa engkau mengatakan; sungguh aku akan melakukan shalat malam dan melakukan puasa pada siang hari? Al Hasan berkata; aku mengira bahwa Abdullah bin 'Amr berkata; ya wahai Rasulullah, saya telah mengatakan hal tersebut. Beliau berkata: "Berdiri dan tidurlah, berpuasalah, berbukalah serta berpuasalah tiga hari setiap bulan. Dan hal itu seperti puasa satu tahun." Abdullah berkata; aku katakan; wahai Rasulullah, aku mampu untuk melakukan yang lebih dari hal tersebut. Beliau berkata: "Berpuasalah satu hari dan berbukalah dua hari." Ia berkata; lalu aku katakan; aku mampu melakukan lebih dari hal tersebut. Beliau berkata: "Berpuasalah satu hari dan berbukalah satu hari, dan hal itu adalah puasa yang paling adil, dan puasa tersebut adalah puasa Daud." Aku katakan; aku mampu melakukan lebih dari hal tersebut. Rasulullah shallallahu wa'alaihi wa sallam berkata: "Tidak ada yang lebih baik daripada hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1976) Sahih Muslim (1159)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2427</td></tr><tr><td>Arabic No</td><td>2427</td></tr><tr><td>Reference</td><td>Book 14 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом: «Однажды Посланник Аллаха ﷺ встретив меня, сказал: “О ‘Абдуллах, мне сообщили, что ты утверждаешь, будто (постоянно) постишься днём и молишься по ночам”». Передатчик сказал: «И, кажется, он сказал: “Да, о Посланник Аллаха, я говорил так”. (Посланник Аллаха ﷺ) сказал: “Молись по ночам и спи, и постись иногда и не соблюдай поста иногда. Постись по три дня в месяц, и это будет подобно непрерывному посту”. Я сказал: “О Посланник Аллаха! Поистине, я способен на нечто лучшее!” Он сказал: “Тогда постись день, а потом не постись два дня”. Я сказал: “Поистине, я способен на нечто лучшее!” Он сказал: “Тогда постись через день, ибо это лучший пост и таким был пост (пророка) Дауда (мир ему)”. Я же опять сказал: “Поистине, я способен на нечто лучшее!” и тогда Посланник Аллаха ﷺ воскликнул: “Нет (для тебя) ничего лучше этого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1976) Sahih Muslim (1159)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2427</td></tr><tr><td>Arabic No</td><td>2427</td></tr><tr><td>Reference</td><td>Book 14 Hadith 115</td></tr></tbody></table></div>
 

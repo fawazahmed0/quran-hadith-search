@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported that he heard Allah's Messenger (way peace be upon him) as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Aun bin Sallam Al Kufi] Telah menceritakan kepada kami [Zuhair bin Mu'awiyah Al Ju'fi] dari [Abu Ishaq] dari [Abdullah bin Ma'qil] dari [Adi bin Abu Hatim] ia berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Siapa di antara kalian yang mampu melindungi dirinya dari api neraka meskipun dengan setengah biji kurma, maka hendaklah ia melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2347</td></tr><tr><td>Arabic No</td><td>1016.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Ади ибн Хатима, что Пророк ﷺ сказал: «Кто из вас может укрыться от Огня хотя бы половинкой финика, тот пусть сделает это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2347</td></tr><tr><td>Arabic No</td><td>1016.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 84</td></tr></tbody></table></div>
 

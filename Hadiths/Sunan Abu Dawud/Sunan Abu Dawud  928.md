@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (ﷺ) as saying:There is no loss in prayer nor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] dari [Abu Malik Al Asyja'i] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak boleh ada pengurangan dalam hal shalat maupun salam." Ahmad berkata; "Menurutku baik anda mengucap salam maupun menjawab salam. Dan maksud seseorang mengurangi shalatnya, adalah ia berhenti, padahal dia masih ragu (sudah sempurna ataukah belum)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>928</td></tr><tr><td>Arabic No</td><td>928</td></tr><tr><td>Reference</td><td>Book 2 Hadith 539</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не должно быть недостатка (гырар) ни в молитве, ни в приветствии».Ахмад сказал: «Я считаю, что не следует человеку приветствовать других и его не следует приветствовать, потому что человек запутывается в своей молитве и заканчивает её, сомневаясь в правильности её совершения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>928</td></tr><tr><td>Arabic No</td><td>928</td></tr><tr><td>Reference</td><td>Book 2 Hadith 539</td></tr></tbody></table></div>
 

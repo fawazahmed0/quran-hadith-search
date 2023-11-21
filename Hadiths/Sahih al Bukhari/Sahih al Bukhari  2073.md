@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Prophet (ﷺ) David used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] telah menceritakan kepada kami [Abu Hurairah radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Bahwa Nabi Allah Daud AS tidak memakan makanan kecuali hasil usahanya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2073</td></tr><tr><td>Arabic No</td><td>2073</td></tr><tr><td>Reference</td><td>Book 34 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пророк Дауд, мир ему, питался только тем, что он зарабатывал своими руками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2073</td></tr><tr><td>Arabic No</td><td>2073</td></tr><tr><td>Reference</td><td>Book 34 Hadith 26</td></tr></tbody></table></div>
 

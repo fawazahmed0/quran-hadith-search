@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Said Al-Khudri: The Prophet (ﷺ) said, "If while you are praying, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3274</td></tr><tr><td>Arabic No</td><td>3274</td></tr><tr><td>Reference</td><td>Book 59 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Абу Са’ида, что Пророк ﷺ сказал: “Если кто-нибудь из вас станет молиться, а кто-то захочет пройти перед ним (в это время), пусть (совершающий молитву) воспрепятствует ему, и если тот откажется (подчиниться), пусть он снова воспрепятствует ему, если же он снова откажется (подчиниться), пусть он сразится с ним, ибо это — шайтан!”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3274</td></tr><tr><td>Arabic No</td><td>3274</td></tr><tr><td>Reference</td><td>Book 59 Hadith 83</td></tr></tbody></table></div>
 

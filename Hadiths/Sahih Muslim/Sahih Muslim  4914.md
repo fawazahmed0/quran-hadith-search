@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Barâ' (que Dieu l'agrée) a dit : Un homme des Banû An-Nabît, - une tribu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Zakaria] dari [Abu Ishaq] dari [Al Barra] dia berkata, "Seorang laki-laki dari Bani Nabit datang kepada Nabi shallallahu 'alaihi wasallam." (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Janab Al Mishshishi] telah menceritakan kepada kami [Isa] -yaitu Ibnu Yunus- dari [Zakaria] dari [Abu Ishaq] dari [Al Bara] dia berkata, "Seorang laki-laki dari Bani Nabit dari kabilah Anshar datang seraya berkata, "Saya bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah, dan sesungguhnya kamu adalah hamba dan utusan-Nya. Kemudian laki-laki itu maju bertempur hingga meninggal, maka Nabi shallallahu 'alaihi wasallam bersabda: "(Orang ini) sedekit beramal, namun diganjar dengan pahala yang banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4914</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 33 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4914</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 33 Hadith 209</td></tr></tbody></table></div>
 

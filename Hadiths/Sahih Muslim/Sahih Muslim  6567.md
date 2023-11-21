@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I heard Allah's Messenger (ﷺ) as saying: There is nothing (in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepada kami [Haiwah]; Telah menceritakan kepada kami [Ibnu Al Had] dari [Abu Bakr bin Hazm] dari ['Amrah] dari ['Aisyah] dia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada satupun musibah (cobaan) yang menimpa seorang mukmin walaupun berupa duri, melainkan dengannya Allah akan mencatat untuknya satu kebaikan atau menghapus satu kesalahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6567</td></tr><tr><td>Arabic No</td><td>2572.07</td></tr><tr><td>Reference</td><td>Book 45 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6567</td></tr><tr><td>Arabic No</td><td>2572.07</td></tr><tr><td>Reference</td><td>Book 45 Hadith 65</td></tr></tbody></table></div>
 

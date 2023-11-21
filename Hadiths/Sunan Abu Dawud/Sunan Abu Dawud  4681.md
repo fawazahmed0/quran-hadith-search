@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah: The Prophet (ﷺ) said: If anyone loves for Allah's sake, ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal Ibnul Fadhl] berkata, telah menceritakan kepada kami [Muhammad bin Syu'aib bin Syabur] dari [Yahya Ibnul Harits] dari [Al Qasim] dari [Abu Umamah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa mencintai karena Allah, membenci karena Allah, memberi karena Allah dan melarang (menahan) karena Allah, maka sempurnalah imannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4681</td></tr><tr><td>Arabic No</td><td>4681</td></tr><tr><td>Reference</td><td>Book 42 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Из тех, кому недостаёт ума и кто не в состоянии в полной мере выполнять религиозные обязанности, не видел я никого, кто в большей мере был бы способен заставить благоразумного утратить разум, чем вы». Одна женщина спросила: «Что же представляет собой этот недостаток ума и невыполнение (женщинами) религиозных обязанностей в полной мере?» Он сказал: «То, что свидетельство двух женщин приравнивается к свидетельству одного мужчины, это (указание на) недостаток ума. А то, что женщина оставляет пост в рамадане на несколько дней и не молится в эти дни, это невыполнение (женщинами) религиозных обязанностей в полной мере»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4681</td></tr><tr><td>Arabic No</td><td>4681</td></tr><tr><td>Reference</td><td>Book 42 Hadith 86</td></tr></tbody></table></div>
 

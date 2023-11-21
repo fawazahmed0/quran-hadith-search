@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:I prepared the journey-food for Allah's Messenger (ﷺ) in Abu Bak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ubaid bin ISma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] berkata telah bercerita kepadaku [bapakku] dan juga telah bercerita kepadaku [Fathimah] dari [Asma' radliallahu 'anha] berkata: "Aku menyiapkan bekal perjalanan Rasulullah shallallahu 'alaihi wasallam di rumah Abu Bakar ketika Beliau hendak melakukan hijrah ke Madinah". Dia berkata: "Dan kami tidak mendapatkan kain untuk mengikat bekal makanan dan minum Beliau. Lalu aku katakan kepada Abu Bakar: "Demi Allah, aku tidak mendapatkan sesuatu untuk mengikat perbekalan tersebut kecuali kain ikat pinggangku". Abu Bakar berkata: "Kalau begitu kamu potong dua kain ikat pinggangmu itu dimana yang sepotong kamu gunakan untuk mengikat (wadah) air dan yang sepotong lagi untuk mengikat bekal makanan". Maka kemudian aku melaksanakannya". Karena peristiwa itu kemudian (Asma radliallahu 'anha) dipanggil dengan julukan Dzaatun Nathaqoin (Pemilik dua potong kain ikat pinggang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2979</td></tr><tr><td>Arabic No</td><td>2979</td></tr><tr><td>Reference</td><td>Book 56 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ решил переселиться в Медину, я приготовила ему еду на дорогу в доме Абу Бакра, (однако) я (никак) не могла найти ничего, чтобы перевязать этим его съестные припасы и бурдюк с водой, и я сказала Абу Бакру: “Клянусь Аллахом, я не могу найти ничего, кроме своего пояса, чтобы перевязать (припасы)!” Он сказал: “Так разорви его на две части и перевяжи одной (из них) бурдюк, а другой еду”, и я так и сделала».(Передатчик этого хадиса сказал): «И поэтому её прозвали “обладательницей двух поясов /зат ан-нитакейн/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2979</td></tr><tr><td>Arabic No</td><td>2979</td></tr><tr><td>Reference</td><td>Book 56 Hadith 188</td></tr></tbody></table></div>
 

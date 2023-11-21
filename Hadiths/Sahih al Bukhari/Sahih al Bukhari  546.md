@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) used to pray the 'Asr prayers at a time when th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah mengabarkan kepada kami [Ibnu 'Uyainah] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat 'Ashar sementara matahari muncul dari dalam kamarku dan belum nampak bayang-bayang." [Malik] dan [Yahya bin Sa'id] dan [Syu'aib] dan [Ibnu Abu Hafsh] menyebutkan, "Sementara matahari belum lagi nampak bayangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 9 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 9 Hadith 23</td></tr></tbody></table></div>
 

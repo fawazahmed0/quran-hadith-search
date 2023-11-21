@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safina reported:The Messenger of Allah (ﷺ) took a bath with one Sa' of water b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kamil al-Jahdari] dan [Amru bin Ali] keduanya dari [Bisyr bin al-Mufadhdhal] berkata [Abu Kamil] telah menceritakan kepada kami [Bisyr] telah menceritakan kepada kami [Abu Raihanah] dari [Safinah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memandikannya dengan satu sha' air karena junub dan mewudhukannya dengan satu mud air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>738</td></tr><tr><td>Arabic No</td><td>326.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сафины, что для очищения от большого осквернения Посланнику Аллаха ﷺ было достаточно одного «са‘а» воды, а для малого омовения одного «мудда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>738</td></tr><tr><td>Arabic No</td><td>326.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 60</td></tr></tbody></table></div>
 

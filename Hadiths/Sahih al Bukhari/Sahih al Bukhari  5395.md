@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:Abu Nahik was avaricious eater. Ibn 'Umar said to him, "Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] dari [Amru] ia berkata; Bahwasnya Abu Nahik adalah seorang yang makannya sedikit, maka [Ibnu Umar] berkata padanya; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Sesungguhnya orang kafir itu makan dengan tujuh usus." Maka ia pun berkata, "Kalau begitu, aku beriman kepada Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5395</td></tr><tr><td>Arabic No</td><td>5395</td></tr><tr><td>Reference</td><td>Book 70 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Амр рассказал: «Абу Нахик был человеком, который много ел, и (однажды) Ибн ‘Умар сказал ему: “Посланник Аллаха ﷺ сказал: “Неверующий ест, наполняя семь кишок””. На что тот ответил: “Но я верю в Аллаха и Его Посланника ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5395</td></tr><tr><td>Arabic No</td><td>5395</td></tr><tr><td>Reference</td><td>Book 70 Hadith 23</td></tr></tbody></table></div>
 

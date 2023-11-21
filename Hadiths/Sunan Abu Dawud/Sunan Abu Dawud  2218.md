@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said “I recited to Muhammad bin Wazir Al Misri and said to him Bishr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Daud berkata; aku membacakan riwayat kepada [Muhammad bin Wazir Al Mishri], aku katakan kepadanya; [Bisyr bin Bakr] telah menceritakan kepada kalian, telah menceritakan kepada kami [Al Auza'i], telah menceritakan kepada kami ['Atho'] dari [Aus] saudara 'Ubadah bin Ash Shamit, bahwa Nabi shallallahu 'alaihi wasallam telah memberikan kepadanya lima belas sha' gandum untuk memberikan makan kepada enam puluh orang miskin. Abu Daud berkata; 'Atha' tidak bertemu dengan Aus, yang merupakan diantara orang yang ikut perang Badr dan telah lama meninggal. Hadits tersebut adalah hadits mursal, mereka meriwayatkannya dari Al Auza'i, dari 'Atho', bahwa Aus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2218</td></tr><tr><td>Arabic No</td><td>2218</td></tr><tr><td>Reference</td><td>Book 13 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ауса, брат ‘Убады ибн ас-Самита, да будет доволен Аллах ими обоими, что Пророк ﷺ дал ему пятнадцать са‘ ячменя, чтобы он накормил им шестьдесят бедняков
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2218</td></tr><tr><td>Arabic No</td><td>2218</td></tr><tr><td>Reference</td><td>Book 13 Hadith 44</td></tr></tbody></table></div>
 

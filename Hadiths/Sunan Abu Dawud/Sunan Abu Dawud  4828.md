@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: A man came to the Prophet (ﷺ), another man got up 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] bahwa [Muhammad bin Ja'far] menceritakan kepada mereka dari [Syu'bah] dari [Aqil bin Thalhah] ia berkata; Aku mendengar [Abu Al Khashib] dari [Ibnu Umar] ia berkata, "Seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam, lalu ada seseorang yang berdiri agar laki-laki itu menempati tempat duduknya, namun Rasulullah shallallahu 'alaihi wasallam melarangnya." Abu Dawud berkata, "Abul Khashin namanya adalah Ziyad bin 'Abdurrahman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4828</td></tr><tr><td>Arabic No</td><td>4828</td></tr><tr><td>Reference</td><td>Book 43 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4828</td></tr><tr><td>Arabic No</td><td>4828</td></tr><tr><td>Reference</td><td>Book 43 Hadith 56</td></tr></tbody></table></div>
 

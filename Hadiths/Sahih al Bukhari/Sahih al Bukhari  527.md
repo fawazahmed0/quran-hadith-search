@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I asked the Prophet (ﷺ) "Which deed is the dearest to Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku [Al Walid bin Al 'Aizar] berkata, Aku mendengar [Abu 'Amru Asy Syaibani] berkata, "Pemilik rumah ini menceritakan kepada kami -seraya menunjuk rumah ['Abdullah] - ia berkata, "Aku pernah bertanya kepada Nabi shallallahu 'alaihi wasallam, "Amal apakah yang paling dicintai oleh Allah?" Beliau menjawab: "Shalat pada waktunya." 'Abdullah bertanya lagi, "Kemudian apa kagi?" Beliau menjawab: "Kemudian berbakti kepada kedua orangtua." 'Abdullah bertanya lagi, "Kemudian apa kagi?" Beliau menjawab: "Jihad fi sabilillah." 'Abdullah berkata, "Beliau sampaikan semua itu, sekiranya aku minta tambah, niscaya beliau akan menambahkannya untukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>527</td></tr><tr><td>Arabic No</td><td>527</td></tr><tr><td>Reference</td><td>Book 9 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шу‘ба сказал:\n— Аль-Валид ибн аль-‘Айзари рассказывал мне о том, что он слышал как Абу ‘Амр аш-Шайбани говорил:\n— Нам рассказал хозяин этого дома — и он указал на дом ‘Абдуллаха (ибн Мас‘уда): ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) я спросил Пророка ﷺ: “Какое дело Аллах любит больше всего?” Он ответил: “Молитва, совершаемая в установленное для неё время”. Я спросил: “А после этого?” Он ответил: “Проявление почтительности и доброты по отношению к родителям”. Я спросил: “А после этого?” Он ответил: “Борьбу /джихад/ на пути Аллаха”».\n(‘Абдуллах Ибн Мас‘уд, да будет доволен им Аллах,) сказал: «Об этом рассказал мне Посланник Аллаха ﷺ, а если бы я (спросил о чём-нибудь ещё), то он обязательно сказал бы больше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>527</td></tr><tr><td>Arabic No</td><td>527</td></tr><tr><td>Reference</td><td>Book 9 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once the call (Iqama) for the prayer was announced and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] berkata, telah menceritakan kepada kami ['Utsman bin 'Umar] berkata, telah mengabarkan kepada kami [Yunus] dari [Az Zuhry] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata,: "Qamat untuk shalat telah dikumandangkan dan shaf telah diluruskan, lalu keluarlah Rasulullah shallallahu 'alaihi wasallam. Setelah sampai di tempat shalat Beliau baru teringat bahwa Beliau sedang junub, lalu berkata, kepada kami; "tetaplah di tempat kalian". Maka Beliau kembali lalu mandi. Kemudian datang dalam keadaan kapalanya basah. Lalu Beliau bertakbir, maka kamipun shalat bersamanya". Hadits ini juga diriwayatkan oleh [Abdul A'laa] dari [Ma'mar] dari [Az Zuhry] dan diriwayatkan juga oleh [Al Auza'i] dari [Az Zuhry]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>275</td></tr><tr><td>Arabic No</td><td>275</td></tr><tr><td>Reference</td><td>Book 5 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды, когда) уже было объявлено о начале молитвы и (в мечети) были выравнены ряды стоящих (людей), к нам вышел Посланник Аллаха ﷺ. Заняв своё место (впереди), он вспомнил, что находится в состоянии осквернения, и сказал нам: “(Оставайтесь) на своих местах”, после чего вернулся (к себе домой) и совершил большое омовение, а потом (снова) вышел к нам (, и мы увидели, что) с головы его стекают капли воды. Он сказал: “Аллах велик /Аллаху акбар/”, и мы совершили молитву вместе с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>275</td></tr><tr><td>Arabic No</td><td>275</td></tr><tr><td>Reference</td><td>Book 5 Hadith 27</td></tr></tbody></table></div>
 

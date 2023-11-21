@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yahya reported:I asked Abu Salama what was revealed first from the Qur'an. He sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [al-Walid bin Muslim] telah menceritakan kepada kami [al-Auza'i] dia berkata, saya mendengar [Yahya] berkata, saya bertanya kepada [Abu Salamah], "Ayat Al Quran apa yang diturunkan dulu?" Dia lalu membaca: '(Hai orang-orang yang berselimut) ' (Surat Al Mudatstsir). Maka aku berkata, "Atau (mungkin surat) iqara'." Kekudian aku bertanya kepada [Jabir bin Abdullah], "Ayat al-Qur'an apa yang diturunkan lebih dulu?" Dia lalu membaca: '(Hai orang-orang yang berselimut) ' (Surat Al Mudatstsir). Maka aku berkata, "Atau (mungkin surat) iqara'." Jabir berkata, "Aku telah menceritakan kepadamu sesuatu yang telah diceritakan Rasulullah shallallahu 'alaihi wasallam kepada kami. Beliau bersabda: "Saya beriktikaf di Gua Hira' selama sebulan, ketika aku telah menyelesaikan iktikafku, maka aku turun, menuruni dasar lembah, lalu aku dipanggil. Maka aku pun melihat ke depanku dan ke belakangku, ke kanan dan ke kiri, tetapi aku tidak melihat seorang pun, kemudian aku dipanggil lagi, lalu aku melihat, namun tidak ada seorang pun, kemudian aku dipanggil, maka aku mendongakkan kepalaku, ternyata dia di atas Arsy di udara, yaitu Jibril. Kemudian aku pun menjadi kemetaran. Lalu aku mendatangi Khadijah dan kukatakan, "Selimutilah aku, selimutilah aku! maka dia mengguyurkan air kepadaku, lalu Allah menurunkan ayat: '(Wahai orang yang berselimut! Bangunlah serta berilah peringatan, dan Rabbmu maka agungkanlah, dan bajumu maka sucikanlah) ' (Qs. Al Mudatstsir: 1-4). Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Utsman bin Umar] telah mengabarkan kepada kami [Ali bin al-Mubarak] dari [Yahya bin Abu Katsir] dengan sanad ini, dan dia menyebutkan, "Ternyata dia duduk di atas Arsy antara langit dan bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>409</td></tr><tr><td>Arabic No</td><td>161.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Яхья рассказывал: «Однажды я спросил Абу Саляму о первом, что было ниспослано из Корана, и он ответил: “О завернувшийся!” Я сказал: “А может это было: “Читай…”?” Тогда Абу Саляма сказал: “(Однажды) я спросил Джабира ибн ‘Абдуллаха: “Что из Корана было ниспослано первым?” Он ответил: “О завернувшийся!” Я сказал: “Мне сообщили, что это было: “А может это было: “Читай…”?” Джабир сказал: “Я вам расскажу только то, что нам рассказал Посланник Аллаха ﷺ. Посланник Аллаха ﷺ сказал: “Я уединялся в пещере Хира в течение месяца, и когда закончилось моё уединение, я спустился и услышал голос, зовущий меня. Я посмотрел перед собой, назад, направо и налево, но никого не увидел. Затем (кто-то) снова позвал меня, я посмотрел, но никого не увидел. Затем (кто-то) снова позвал меня, я поднял голову и увидел его, то есть Джибриля, сидящего на троне в воздухе. Тут меня охватила сильная дрожь, я пришёл к Хадидже и сказал: “Укройте меня!” Меня укрыли, и облили водой, затем Великий и Могучий Аллах ниспослал: “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай, и одежды свои очищай…” (сура “аль-Муддассир”, аят 2)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>409</td></tr><tr><td>Arabic No</td><td>161.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 314</td></tr></tbody></table></div>
 

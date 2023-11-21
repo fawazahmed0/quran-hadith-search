@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:When the Prophet (ﷺ) entered upon me, he would ask: Do you have fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah menceritakan kepada kami [Sufyan], dan telah diriwayatkan [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Waki'], seluruhnya berasal dari [Thalhah bin Yahya], dari [Aisyah binti Thalhah], dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam apabila menemuiku beliau mengatakan; apakah kalian memiliki makanan? Apabila kami mengatakan; tidak, maka beliau berkata; sesungguhnya aku berpuasa. Waki' berkata; kemudian pada suatu hari beliau menemui kami, lalu kami katakan; wahai Rasulullah kami telah diberi hadiah hais (makanan dari campuran kurma, keju dan mentega), kemudian kami menyimpannya untuk engkau. Lalu beliau berkata: "Bawalah kemari!" Thalhah berkata; maka, pada pagi hari tersebut beliau berpuasa kemudian berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1154)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>2455</td></tr><tr><td>Reference</td><td>Book 14 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Бывало, что Посланник Аллаха ﷺ заходил ко мне и спрашивал: “Есть ли у вас какая-нибудь еда?” И если мы отвечали: “Нет”, он говорил: “Тогда я пощусь”». Ваки‘ добавляет: «А однажды он зашёл к нам, и мы сказали: “О Посланник Аллаха, нам подарили хайс, и мы приберегли его для тебя”. Он сказал: “Давайте его сюда”». Тальха сказал: «Он постился с утра, а потом прервал пост»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1154)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>2455</td></tr><tr><td>Reference</td><td>Book 14 Hadith 143</td></tr></tbody></table></div>
 

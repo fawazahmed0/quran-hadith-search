@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Pénétrant dans la mosquée, le Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Ulayyah] -dalam jalur lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] dari [Abdul Aziz bin Shuhaib] dari [Anas] ia berkata; "Suatu ketika, Rasulullah shallallahu 'alaihi wasallam masuk Masjid. Lalu beliau melihat seuntai tali yang terbentang di antara dua tiang, maka beliau pun bertanya: 'Tali apa ini? ' Mereka menjawab, 'Tali yang dibentangkan oleh Zainab dan digunakannya shalat. Bila ia malas atau letih, maka dia akan berpegangan dengan tali itu.' Maka Nabi shallallahu 'alaihi wasallam bersabda: 'Lepaskanlah tali itu. Hendaklah salah seorang dari kalian shalat ketika kondisi semangat. Sedangkan ika ia malas atau letih, hendaklah ia duduk.'" Sedangkan dalam haditsnya Zuhair tertera; "Hendaklah ia duduk." Dan telah menceritakannya kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz] dari [Anas] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>784.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Однажды), войдя в мечеть, Посланник Аллаха ﷺ (увидел) натянутую между двух столбов верёвку и спросил: “Что это?” (Ему) сказали: “(Это верёвка) Зайнаб, которая держится за неё, когда устаёт (от молитв)”. Тогда Пророк ﷺ сказал: “Отвяжите (эту верёвку). Пусть каждый из вас молится, пока остаётся бодрым, и садится, когда (станет) ослабевать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>784.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 259</td></tr></tbody></table></div>
 

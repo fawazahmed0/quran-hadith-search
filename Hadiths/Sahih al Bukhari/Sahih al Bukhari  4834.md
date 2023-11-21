@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:"Verily, We have given you (O Muhammad) a manifest victory.' refer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Qatadah] dari [Anas radliallahu 'anhu] mengenai firman Allah: 'INNAA FATAHNA LAKA FATHAN MUBINAA'." Ia berkata; yaitu Al Hudaibiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4834</td></tr><tr><td>Arabic No</td><td>4834</td></tr><tr><td>Reference</td><td>Book 65 Hadith 355</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал относительно аята «Поистине, Мы даровали тебе явную победу»: «Речь идёт о Худейбийском перемирии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4834</td></tr><tr><td>Arabic No</td><td>4834</td></tr><tr><td>Reference</td><td>Book 65 Hadith 355</td></tr></tbody></table></div>
 

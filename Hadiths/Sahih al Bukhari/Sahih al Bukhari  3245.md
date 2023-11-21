@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The first group (of people) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Rombongan pertama yang masuk surga rupa mereka seperti bentuk bulan saat purnama, mereka tidak akan pernah beringus, tidak meludah dan tidak pula membuang air besar (tinja). Alat perabot mereka di dalam surga terbuat dari emas, sisir-sisir mereka terbuat dari emas dan perak, lat penghnagtan mereka terbuat dari kayu cendana, keringat mereka seharum minyak misik. Setiap orang dari mereka memiliki dua istri (bidadari) yang sumsum tulangnya dapat kelihatan dari betis-betis mereka dari balik daging karena teramat sangat cantiknya. Tidak ada perselisihan (pertengkaran) di sana dan tidak ada pula saling benci. Hati mereka bagaikan hati yang satu yang senantiasa bertasbih pagi dan petang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3245</td></tr><tr><td>Arabic No</td><td>3245</td></tr><tr><td>Reference</td><td>Book 59 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Своим обликом те, кто войдёт в Рай в первой группе, будут подобны луне в ночь полнолуния. В Раю они не будут ни плевать, ни сморкаться, ни испражняться. (Там) их сосуды будут золотыми, а гребни — золотыми и серебряными, в их курильницах (будет гореть) алоэ, а пот их (будет пахнуть) мускусом. У каждого из них будет по две жены, и костный мозг каждой из них будет виден сквозь плоть из-за (их) красоты. Не будет меж ними ни разногласий, ни ненависти, сердца их будут подобны единому сердцу, и станут они славить Аллаха утром и вечером»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3245</td></tr><tr><td>Arabic No</td><td>3245</td></tr><tr><td>Reference</td><td>Book 59 Hadith 56</td></tr></tbody></table></div>
 

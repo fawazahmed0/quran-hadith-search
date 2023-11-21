@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mus'ab b. Sa'd reported that his father told him that he had been in the company
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Marwan] dan ['Ali bin Mushar] dari [Musa Al Juhani] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] - dan lafadh ini miliknya - [bapakku] telah menceritakan kepada kami, telah menceritakan kepada kami [Musa Al Juhani] dari [Mush'ab bin Sa'd] Telah menceritakan kepadaku [Bapakku] dia berkata; "Kami pernah berada di sisi Rasulullah shallallahu 'alaihi wasallam. Setelah itu beliau bertanya: 'Apakah mampu salah seorang dari kalian memperoleh seribu kebaikan dalam sehari? ' Lalu salah seorang dari para sahabat bertanya; 'Ya Rasulullah, bagaimana mungkin seseorang akan mampu meraih seribu kebaikan dalam sehari? ' Rasulullah berkata: 'Ketahuilah bahwa orang yang bertasbih seratus kali akan dicatat seribu kebaikan untuknya dan dihapus seribu kesalahan darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6852</td></tr><tr><td>Arabic No</td><td>2698</td></tr><tr><td>Reference</td><td>Book 48 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6852</td></tr><tr><td>Arabic No</td><td>2698</td></tr><tr><td>Reference</td><td>Book 48 Hadith 47</td></tr></tbody></table></div>
 

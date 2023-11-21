@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubayy b. Ka'b reported:The Prophet (ﷺ) said: "Ubayy, I was asked to recite the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Al Walid Ath Thayalisi], telah menceritakan kepada Kami [Hammam bin Yahya] dari [Qatadah] dari [Yahya bin Ya'mar] dari [Sulaiman bin Shurad Al Khuza'i] dari [Ubai bin Ka'b], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Ubai, sesungguhnya telah dibacakan Al Qur'an kepadaku, dan aku ditanya; dengan satu gaya bahasa atau dua gaya bahasa? Kemudian malaikat yang bersamaku berkata; katakan; dengan dua gaya bahasa! Maka aku katakan; dengan dua gaya bahasa. Kemudian aku ditanya; dengan dua gaya bahasa atau tiga gaya bahasa? Kemudian malaikat yang bersamaku berkata; katakan; dengan tiga gaya bahasa! Maka aku katakan; dengan tiga gaya bahasa. Hingga sampai tujuh gaya bahasa." Kemudian beliau berkata: "Tidak ada diantara gaya bahasa tersebut kecuali merupakan sesuatu yang memuaskan dan cukup. Apabila engkau membaca; SAMII'AN 'ALIIMAN, 'AZIIZAN HAKIIMAN selama engkau tidak menutup ayat yang berbicara mengenai adzab dengan rahmat atau ayat yang berbicara mengenai rahmat dengan adzab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1477</td></tr><tr><td>Arabic No</td><td>1477</td></tr><tr><td>Reference</td><td>Book 8 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убаййа ибн Ка‘ба, да будет доволен им Аллах, что Пророк ﷺ сказал: «О Убайй, поистине, я был научен читать Коран и мне было сказано: “Одним способом, двумя или тремя?” Ангел, который был со мной, сказал: “Ответь, что двумя”, и я сказал: “Двумя”. Тогда меня спросили: “Двумя или тремя?” Ангел, который был со мной, сказал: “Ответь, что тремя”, и я сказал: “Тремя”. И так мы дошли до семи способов, и мне было сказано: “Каждый из них подходящий, и их достаточно, если ты говоришь: “Слышащий, Знающий” вместо “Могущественный и Мудрый”, если только ты не заканчиваешь аят о наказании упоминанием о милости и не заканчиваешь аят о милости упоминанием о наказании”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1477</td></tr><tr><td>Arabic No</td><td>1477</td></tr><tr><td>Reference</td><td>Book 8 Hadith 62</td></tr></tbody></table></div>
 

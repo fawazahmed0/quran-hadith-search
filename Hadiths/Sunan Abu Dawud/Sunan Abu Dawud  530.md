@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The Messenger of Allah (ﷺ) taught me to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Ihab] telah menceritakan kepada kami [Abdullah bin AL-Walid Al-'Adani] telah menceritakan kepada kami [Al-Qasim bin Ma'n] telah menceritakan kepada kami [Al-Mas'udi] dari [Abu Katsir, mantan sahaya Ummu Salamah] dari [Ummu Salamah] dia berkata; Rasulullah Shallallahu alaihi wasallam mengajarkan aku untuk mengucapkan setelah adzan maghrib: "Allahumma inna hadza iqbalu lailika wa idbaru naharika wa-ashwaatu du'atika, faghfirli (Ya Allah, ini adalah permulaan malamMu dan akhir siangMu serta suara penyeruMu, maka ampunilah aku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>530</td></tr><tr><td>Arabic No</td><td>530</td></tr><tr><td>Reference</td><td>Book 2 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «Посланник Аллаха ﷺ научил меня говорить (после) азана к закатной молитве: “O Аллах, это начало Твоей ночи и конец Твоего дня и это голоса тех, кто к Тебе взывает, так прости же меня”/Аллахумма инна хаза икъбалу лайлика, ва идбару нахарика, ва асвата ду‘атика фагъфир ли!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>530</td></tr><tr><td>Arabic No</td><td>530</td></tr><tr><td>Reference</td><td>Book 2 Hadith 140</td></tr></tbody></table></div>
 

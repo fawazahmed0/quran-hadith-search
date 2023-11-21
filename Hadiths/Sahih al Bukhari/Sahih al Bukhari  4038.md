@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib:Allah's Messenger (ﷺ) sent a group of persons to Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Nashr] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Ibnu Abu Za'idah] dari [Ayahnya] dari [Abu Ishaq] dari [Al Barra' bin 'Azib] radliallahu 'anhuma, dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengutus sekelompok orang kepada Abu Rafi', kemudian pada malam hari Abdullah bin 'Atik masuk ke dalam rumahnya dan membunuhnya saat ia sedang terlelap tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 64 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «(В своё время) Посланник Аллаха ﷺ послал несколько человек из числа ансаров убить (иудея) Абу Рафи‘а. И ‘Абдуллах ибн ‘Атик зашёл ночью к нему домой и убил его, пока он спал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 64 Hadith 85</td></tr></tbody></table></div>
 

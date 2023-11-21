@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn al-Arqam: Urwah reported on the authority of his father th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Hisyam bin Urwah] dari [Ayahnya] dari [Abdullah bin Al Arqam], bahwasanya dia keluar untuk menunaikan haji atau umrah bersama sekelompok orang dan dia mengimami shalat mereka. Tatkala suatu hari dia mendirikan Shalat Shubuh, dia berkata; "Majulah salah seorang dari kalian, " lalu dia pergi ke WC, (dia berkata); sesungguhnya saya telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian ingin pergi ke WC sedangkan shalat telah didirikan, hendaklah dia memulai dengan pergi ke WC terlebih dahulu." Abu Dawud berkata; [Wuhaib bin Khalid] dan [Syu'aib bin Ishaq] dan [Abu Dlamrah] meriwayatkan hadits ini dari [Hisyam bin Urwah] dari [Ayahnya] dari [Seorang laki-laki] yang telah menceritakan kepadanya, dari [Abdullah bin Arqam], dan mayoritas perawi yang meriwayatkan hadits ini dari Hisyam mengatakan; Sebagaimana yang dikatakan oleh Zuhair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>88</td></tr><tr><td>Arabic No</td><td>88</td></tr><tr><td>Reference</td><td>Book 1 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам ибн ‘Урва рассказывал со слов своего отца, сообщившего от ‘Абдуллаха ибн аль-Аркъама о том, что как-то он выехал для совершения хаджа или ‘умры и с ним были люди, которых он возглавлял (в молитве). И однажды, когда возвестили второй призыв/икъама/ на утреннюю молитву, он сказал: «Пусть один из вас возглавит (людей в молитве)». И он, отправляясь справить нужду, (сказал): «Поистине, я слышал, как Посланник Аллаха ﷺ говорил: “Если кому-то из вас нужно справить нужду после того, как возвестили второй призыв к молитве, то пусть начинает (с посещения) уборной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>88</td></tr><tr><td>Arabic No</td><td>88</td></tr><tr><td>Reference</td><td>Book 1 Hadith 88</td></tr></tbody></table></div>
 

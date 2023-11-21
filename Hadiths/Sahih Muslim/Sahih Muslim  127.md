@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ghassan al-Misma'i Malik bin Abdul Wahid] telah menceritakan kepada kami [Abdul Malik bin ash-Shabbah] dari [Syu'bah] dari [Waqid bin Muhammad bin Zaid bin Abdullah bin Umar] dari [bapaknya] dari [Abdullah bin Umar] beliau bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka bersaksi bahwa tidak ada tuhan (yang berhak disembah) melainkan Allah dan bahwa Muhammad utusan Allah, mereka mendirikan shalat, dan menunaikan zakat. Maka apabila mereka melakukan hal tersebut, maka sungguh mereka telah menjaga harta dan jiwanya dari (seranganku), kecuali disebabkan hak Islam. Dan hisab mereka diserahkan kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>127</td></tr><tr><td>Arabic No</td><td>21.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Суфьян и Абу Салих передали, что Джабир и Абу Хурайра сказали: «Посланник Аллаха ﷺ сказал: “Мне было велено сражаться с этими людьми”», и они передали хадис схожий с тем, что передал Ибн аль-Мусаййаб со слов Абу Хурайры
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>127</td></tr><tr><td>Arabic No</td><td>21.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 35</td></tr></tbody></table></div>
 

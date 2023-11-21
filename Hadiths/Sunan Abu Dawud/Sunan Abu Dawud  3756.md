@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman al-Himyari: A companion of the Prophet (ﷺ) reported him a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sarri] dari [Abdussalam bin Harb] dari [Abu Khalid Ad Dalani] dari [Abu Al 'Ala Al Audi] dari [Humaid bin Abdurrahman Al Himyari] dari [seorang] sahabat Nabi shallallahu 'alaihi wasallam, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila terdapat dua orang yang mengundang dengan bersama-sama maka penuhilah undangan orang yang paling dekat pintunya, karena sesungguhnya orang yang paling dekat pintunya adalah orang yang paling dekat pertolongannya. Dan apabila ada yang lebih dahulu di antara keduanya, maka penuhilah undangan orang yang terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756</td></tr><tr><td>Arabic No</td><td>3756</td></tr><tr><td>Reference</td><td>Book 28 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один из сподвижников Пророка ﷺ передаёт, что Пророк ﷺ сказал: «Если тебя пригласили на угощение сразу двое, то прими приглашение того, чья дверь ближе к твоей, поскольку тот, чья дверь ближе к твоей, живёт ближе к тебе. Если же кто-то из них пригласил тебя раньше, прими приглашение того, кто пригласил тебя раньше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756</td></tr><tr><td>Arabic No</td><td>3756</td></tr><tr><td>Reference</td><td>Book 28 Hadith 21</td></tr></tbody></table></div>
 

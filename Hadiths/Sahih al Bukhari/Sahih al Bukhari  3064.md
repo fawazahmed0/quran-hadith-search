@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: The people of the tribes of Ril, Dhakwan, 'Usiya and Bani Lihyan 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami [Ibnu Abi 'Adiy] dan [Sahal bin Yusuf] dari [Sa'id] dari [Qatadah] dari [Anas radliallahu 'anhu] bahwa Nabi Shallallahu'alaihiwasallam didatangi oleh (utusan) suku Ri'l, Dzakwan dan Banu Lahyan yang mengaku memeluk Islam lalu mereka meminta Beliau Shallallahu'alaihiwasallam agar membimbing (keIslaman) mereka. Nabi Shallallahu'alaihiwasallam pun membimbing keIslaman mereka dengan mengutus tujuh puluh orang kalangan Anshar yang mereka kami sebut Al Qurra', yaitu orang-orang yang bekerja keras di siang hari dan mendirikan shalat di malam hari. Maka berangkatlah mereka bersama utusan para suku itu, hingga ketika sampai di Bi'ru Ma'unah para suku itu mengkhiyanati dan membunuh para qurra' tersebut. Kemudian Beliau melakukan qunut selama satu bulan untuk mendoakan kebinasaan suku Ri'la, Dzakwan dan Banu Lahyan. Qatadah berkata, dan telah bercerita kepada kami Anas bahwa mereka menbacakan satu ayat dari Al Qur'an tentang mereka: "Alaa ballighuu 'annaa qoumanaa bi annaa qad laqiinaa robbanaa faradliya 'annaa wa-ardlaanaa", (Artinya; "Sampaikanlah dari kami kepada kaum kami bahwa kami telah berjumpa dengan Robb kami, maka Dia ridla kepada kami dan menjadi kami ridla terhadap-Nya"). Kemudian ayat ini dihapus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 56 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ пришли люди из племён ри‘ль, закван, ‘усаййа и бану ляхьян и заявили, что приняли ислам. Они попросили у него помощи против их племён, и Пророк ﷺ отправил к ним на помощь семьдесят человек из числа ансаров. Мы называли их аль-курра (чтецами), днём они собирали дрова (и продавали их), а ночью выстаивали ночные молитвы. Они отправились вместе с ними, и достигнув места под названием Би-р Ма‘уна, их вероломно убили. После этого Пророк ﷺ в течении месяца молил Аллаха покарать племена ри‘ль, закван, ‘усаййа и бану ляхьян».Анас сказал, что они читали аяты, в которых говорилось: «“Передайте нашему народу, что мы встретили нашего Господа, и Он доволен нами, а мы довольны Им”, но затем они были отменены»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 56 Hadith 269</td></tr></tbody></table></div>
 

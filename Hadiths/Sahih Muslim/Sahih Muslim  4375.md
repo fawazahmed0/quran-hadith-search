@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported Allah's Messenger (ﷺ) as saying:It is not permis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dan [Abu Mu'awiyah] dan [Waki'] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal darah seorang muslim yang telah bersaksi bahwa tiada tuhan yang berhak untuk disembah selain Allah dan aku adalah utusan Allah, kecuali satu dari tiga orang berikut ini; seorang janda yang berzina, seseorang yang membunuh orang lain dan orang yang keluar dari agamanya, memisahkan diri dari Jama'ah (murtad)." Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khsyram] keduanya berkata; telah menceritakan kepada kami [Isa bin Yunus] semuanya dari [Al A'masy] dengan sanad-sanad ini, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>1676.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>1676.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 34</td></tr></tbody></table></div>
 

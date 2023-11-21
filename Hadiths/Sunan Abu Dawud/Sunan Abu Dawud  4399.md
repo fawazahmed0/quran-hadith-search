@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Ibn Abbas said: A lunatic woman who had committed adu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Zhabyan] dari [Ibnu Abbas] ia berkata, "Didatangkan kepada Umar seorang wanita gila yang berbuat zina, Umar lalu minta masukan pendapat kepada orang-orang. Kemudian ia memerintahkan agar wanita itu dirajam. Wanita itu lalu dibawa melewati [Ali bin Abu Thalib] -semoga Allah meridhainya-, ia bertanya, "Ada apa dengan wanita ini?" orang-orang menjawab, "Wanita gila dari bani fulan, ia telah berbuat zina. Dan Umar memerintahkan agar ia dirajam saja." Ibnu Abbas berkata, "Ali kemudian berkata, "Bawalah ia kembali." Ali lantas mendatangi Umar dan berkata, "Wahai Amirul Mukminin, tidakkah engkau tahu bahwa pena pencatat amal itu diangkat dari tiga golongan manusia; orang gila hingga ia sembuh, orang tidur hingga ia terbangun dan anak kecil hingga ia balig?" Umar menjawab, "Tentu." Ali bertanya lagi, "Lalu kenapa wanita ini dirajam?" Umar menjawab, "Tidak apa-apa." Ali berkata, "Lepaskanlah ia." Ibnu Abbas berkata, "Umar kemudian membebaskan wanita tersebut. Lalu Umar pun bertakbir." Telah menceritakan kepada kami [Yusuf bin Musa] berkata, telah menceritakan kepada kami [Waki'] dari [Al A'masy] seperti hadits tersebut. Ia menyebutkan, "Hingga berakal." Dalam riwayat lain, "Orang gila hingga ia sadar." Perawi berkata, "Umar kemudian bertakbir." Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Jarir bin Hazim] dari [Sulaiman bin Mihran] dari [Abu Zhabyan] dari [Ibnu Abbas] ia berkata, "(wanita) itu lalu dibawa melewati [Ali bin Abu Thalib] -yakni sama dengan hadits Utsman- ia berkata, "Tidakkah engkau ingat (wahai Amirul Mukminin) bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Pena pencatat dosa itu diangkat dari tiga golongan; orang gila hingga ia waras, orang tidur hingga ia terbangun dan anak kecil hingga bermimpi basah?" Umar menjawab, "Engkau benar." Lalu Umar melepaskan wanita itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4399</td></tr><tr><td>Arabic No</td><td>4399</td></tr><tr><td>Reference</td><td>Book 40 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «К ‘Умару привели сумасшедшую женщину, совершившую прелюбодеяние, и он, посоветовавшись со сподвижниками, велел побить её камнями. Когда её провели мимо ‘Али ибн Абу Талиба, да будет доволен им Аллах, он спросил: “Что с этой женщиной?” Ему сказали: “Это сумасшедшая из такого-то племени. Она совершила прелюбодеяние, и ‘Умар велел побить её камнями”. (‘Али) сказал: “Ведите её назад”. Затем он пришёл к ‘Умару и сказал: “О повелитель верующих! Разве ты не знаешь, что перья подняты от троих: от сумасшедшего, пока он не исцелится, от спящего, пока он не проснётся, и от ребёнка, пока он не станет разумным (т.е. совершеннолетним)?” (‘Умар) ответил: “Да, я это знаю”. (‘Али) спросил: “Так почему тогда эту побивают камнями?” (‘Умар) ответил: “Действительно, нет оснований”. (‘Али) сказал: “Тогда отпусти её”. И он велел отпустить её». Он сказал: «И он стал восклицать: “Аллах велик!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4399</td></tr><tr><td>Arabic No</td><td>4399</td></tr><tr><td>Reference</td><td>Book 40 Hadith 49</td></tr></tbody></table></div>
 

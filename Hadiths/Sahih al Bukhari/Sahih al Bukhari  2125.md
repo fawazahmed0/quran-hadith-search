@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ata bin Yasar:I met 'Abdullah bin 'Amr bin Al-'As and asked him, "Tell 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada kami [Fulaih] telah menceritakan kepada kami [Hilal] dari ['Atho' bin Yasar] berkata; Aku bertemu dengan ['Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhuma] lalu aku katakan: "Kabarkan kepadaku tentang sifat Rasulullah shallallahu 'alaihi wasallam di dalam kitab At-Taurah?" Dia berkata: "Baik. Demi Allah, sungguh Beliau telah disebutkan dalam kitab At-Taurah sebagian dari sifat-sifat Beliau seperti yang disebutkan dalam Al Qur'an (Wahai Nabi, sesungguhnya kami mengutus engkau sebagai saksi, pemberi kabar gembira dan pemberi peringatan), menjaga para ummiyyin (kaum yang tidak baca tulis). Engkau adalah hambaKu dan RasulKu, Aku memberimu nama Al Mutawakkil, bukan orang yang bersifat kasar lagi keras tidak suka berteriak-teriak di pasar dan tidak membalas keburukan dengan keburukan tetapi memaafkan dan mengampuni, dan Allah tidak akan mematikannya hingga Beliau meluruskan agama-agama yang bengkok agar hanya mengucapkan Laa ilaaha illallah yang dengannya akan membuka mata yang buta, telinga yang tuli dan hati yang tertutup". Hadits ini dikuatkan pula oleh ['Abdul 'Aziz bin Abu Salamah] dari [Hilal]. Dan berkata, [Sa'id] dari [Hilal] dari ['Atho'] dari [Ibu Salam]: Arti ghulf adalah tertutup atau segala sesuatu yang masih mempunyai penutup, saif aghlaf artinya pedang yang tersimpan dalam sarung, qaus ghulafa' artinya anak panah yang tertutup (tersimpan dalam sarungnya). Dan seorang laki-laki dikatakan aghlaf bila dia belum dikhitan (kemaluannya belum dikhitan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2125</td></tr><tr><td>Arabic No</td><td>2125</td></tr><tr><td>Reference</td><td>Book 34 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата бин Йасар, да помилует его Аллах Всевышний, сказал:\n— (Однажды) я встретил ‘Абдуллаха бин ‘Амра бин аль-‘Аса, да будет доволен Аллах ими обоими, и сказал (ему): «Расскажи мне о качествах Посланника Аллаха ﷺ (упомянутых) в Торе». Он сказал: «Да, клянусь Аллахом, в Торе перечисляются некоторые из его качеств, упомянутых и в Коране(, где сказано): “О пророк, поистине, Мы послали тебя в качестве свидетеля, и вестника радости, и увещателя…”, и защитника для неграмотных. Ты — Мой раб и Мой посланник. Я назвал тебя уповающим /аль-мутаваккиль/. Он не является ни грубым, ни жёстким, ни кричащим на рынках и не воздаёт дурным за дурное, но милует и прощает. Аллах не заберёт его (к Себе) до тех пор, пока не выпрямит через него искривившуюся общину, чтобы (люди) говорили: “Нет истинного бога, кроме Аллаха”, и благодаря этой религии откроются слепые глаза, и глухие уши, и жестокие сердца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2125</td></tr><tr><td>Arabic No</td><td>2125</td></tr><tr><td>Reference</td><td>Book 34 Hadith 77</td></tr></tbody></table></div>
 

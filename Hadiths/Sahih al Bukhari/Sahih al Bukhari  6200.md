@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hurairah (ra):When the Prophet (ﷺ) (once) raised his head after b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Abu Nu'aim Fadl bin Dukain] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dia berkata; "Tatkala Nabi shallallahu 'alaihi wasallam mengangkat kepala dari ruku', beliau berdo'a: "Ya Allah, selamatkanlah Al Walid bin Al Walid dan Salamah bin Hisyam serta 'Ayyasy bin Abu Rabi'ah dan golongan yang lemah di Makkah. Ya Allah, timpakanlah kerasnya siksa-Mu kepada Mudlar dan jadikanlah siksa-Mu untuk mereka berupa paceklik seperti paceklik yang terjadi pada zaman Nabi Yusuf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6200</td></tr><tr><td>Arabic No</td><td>6200</td></tr><tr><td>Reference</td><td>Book 78 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Подняв голову после после поясного поклона, Пророк ﷺ сказал: “О Аллах, спаси аль-Валида ибн аль-Валида и Саляму ибн Хишама, и ‘Аййаша Ибн Аби Раби‘у, и слабых (верующих) Мекки! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Юсуфа!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6200</td></tr><tr><td>Arabic No</td><td>6200</td></tr><tr><td>Reference</td><td>Book 78 Hadith 224</td></tr></tbody></table></div>
 

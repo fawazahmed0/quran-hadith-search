@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir that a man once said to the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [al-Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] -yaitu Ibnu Ubaidullah- dari [Abu az-Zubair] dari [Jabir] bahwa seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Apa pendapatmu bila saya melaksanakan shalat-shalat wajib, berpuasa Ramadlan, menghalalkan sesuatu yang halal, dan mengharamkan sesuatu yang haram, namun aku tidak menambahkan suatu amalan pun atas hal tersebut, apakah aku akan masuk surga?" Rasulullah menjawab: "Ya." Dia berkata, "Demi Allah, aku tidak akan menambahkan atas amalan tersebut sedikit pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>110</td></tr><tr><td>Arabic No</td><td>15.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «(Однажды) некий человек, который задавал вопросы Посланнику Аллаха ﷺ сказал: “Как ты думаешь, если я совершаю предписанные молитвы, соблюдаю пост в Рамадане, считаю дозволенным дозволенное /халяль/, и считаю запретным запретное /харам/, и ничего не добавлю к этому, то войду ли я в Рай?” (И Пророк ﷺ) ответил: “Да”. (Тот человек) сказал: “Клянусь Аллахом, я ничего не добавлю к этому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>110</td></tr><tr><td>Arabic No</td><td>15.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 18</td></tr></tbody></table></div>
 

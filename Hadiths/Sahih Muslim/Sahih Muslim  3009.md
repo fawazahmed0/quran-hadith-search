@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : (Avant l'Islam), on estimait qu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah meceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Bahz] Telah menceritakan kepada kami [Wuhaib] Telah menceritakan kepada kami [Abdullah bin Thawus] dari [bapaknya] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Orang-orang jahiliyah menganggap bahwa umrah di bulan-bulan haji merupakan perbuatan yang paling keji di muka bumi. Dan mereka juga menganggap bulan Muharram sama dengan bulan Shafar. Mereka mengatakan, "Apabila jama'ah haji sudah bubar (pulang), dan bulan shafar telah berlalu, maka baru boleh melakukan umrah (sunnah) bagi orang yang melakukan umrah wajib. Lalu pada bagi hari yang keempat, Nabi shallallahu 'alaihi wasallam datang dengan para sahabatnya (dalam bulan-bulan haji) untuk berihram haji, tetapi kemudian beliau menyuruh para sahabat agar menjadikan ihram tersebut sebagai umrah, sehingga hal itu sangat penting bagi mereka. Mereka bertanya, "Wahai Rasulullah, nanti kita bertahallul apa?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Tahallul keseluruhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3009</td></tr><tr><td>Arabic No</td><td>1240.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3009</td></tr><tr><td>Arabic No</td><td>1240.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 217</td></tr></tbody></table></div>
 

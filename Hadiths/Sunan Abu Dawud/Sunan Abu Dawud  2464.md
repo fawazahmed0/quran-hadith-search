@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:When the Messenger of Allah (ﷺ) intended to observe I'tikaf, he pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Abu Mu'awiyah], serta [Ya'la bin 'Ubaid] dari [Yahya bin Sa'id], dari ['Amrah] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam apabila hendak beri'tikaf maka beliau melakukan shalat fajar kemudian memasuki tempat i'tikaf beliau. Aisyah berkata; suatu kali beliau hendak beri'tikaf pada sepuluh hari terakhir Bulan Ramadhan, kemudian beliau memerintahkan agar dibuatkan tempat untuk beliau. Lalu tatkala aku melihat hal tersebut maka aku memerintahkan agar dibuatkan tempat untukku. Aisyah berkata; dan beliau memerintahkan isteri Nabi yang lain agar membuat tempat. Kemudian tatkala telah melakukan shalat fajar maka beliau melihat bangunan-bangunan tersebut dan berkata: "Kebaikan apakah yang kalian inginkan?" Aisyah berkata; kemudian beliau memerintahkan agar dibuatkan tempat beliau, lalu tempat tersebut dihilangkan, dan para isteri beliau memerintahkan agar didirikan tempat buat mereka, lalu tempat tersebut dihilangkan. Kemudian beliau menunda i'tikaf hingga sampai pada sepuluh pertama Bulan Syawal. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Ibnu Ishaq], dan [Al Auza'i], dari [Yahya bin Sa'id] seperti itu. Dan telah diriwayatkan oleh [Malik] dari [Yahya bin Sa'id], ia berkata; beliau beri'tikaf dua puluh hari Bulan Syawal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2033) Sahih Muslim (1173)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 14 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Собираясь начать неотлучное пребывание в мечети, Посланник Аллаха ﷺ совершал утреннюю молитву, а потом входил в свою палатку. А однажды, готовясь к неотлучному пребыванию в мечети в последние десять дней рамадана, он велел поставить для него небольшую палатку. Увидев это, я тоже велела поставить себе палатку в мечети, что и было сделано. После этого другие жёны Посланника Аллаха ﷺ также приказали поставить палатки, что и было сделано. Посланник Аллаха ﷺ совершил утреннюю молитву, потом взглянул на палатки и воскликнул: “Что это?! К благочестию ли они стремятся?” После этого он велел убрать из мечети свою палатку и велел жёнам убрать их палатки, и отложил неотлучное пребывание в мечети на первые десять дней шавваля». Абу Дауд сказал, что Ибн Исхак и аль-Азваи передавали от Яхьи ибн Саида нечто подобное, а Малик передал от Яхьи ибн Саида версию, в которой говорится, что Посланник Аллаха ﷺ неотлучно пребывал в мечети двадцать дней в шаввале
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2033) Sahih Muslim (1173)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 14 Hadith 152</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) led us and performed four bowing in two rak'at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Ghoilan] berkata, telah menceritakan kepada kami [Abu Ahmad] berkata, telah menceritakan kepada kami [Sufyan] dari [Yahya] dari ['Amrah] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam shalat bersama mereka (para sahabat) ketika terjadi gerhana matahari dengan empat ruku' dalam dua kali sujud, dan rakaat yang pertama lebih panjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1064</td></tr><tr><td>Arabic No</td><td>1064</td></tr><tr><td>Reference</td><td>Book 16 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ совершил четыре поясных поклона в двух рак‘атах во время солнечного затмения, и первый поясной поклон был длиннее второго
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1064</td></tr><tr><td>Arabic No</td><td>1064</td></tr><tr><td>Reference</td><td>Book 16 Hadith 23</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amra reported that she heard 'A'isha (Allah he pleased with her) discussing fost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Yahya] yaitu Ibnu Sa'id, dari ['Amrah] bahwa dia pernah mendengar [Aisyah] berkata -dan dia sedang menyebutkan pengharaman yang disebabkan dari persusuan-, 'Amrah berkata; Lantas Aisyah berkata; "Telah turun ayat Al Qur'an tentang sepuluh kali susuan tertentu, kemudian turun ayat lagi tentang lima kali susuan tertentu (sebagai nasakh bagi ayat yang pertama)." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] dia berkata; Saya mendengar [Yahya bin Sa'id] berkata; Telah mengabarkan kepadaku ['Amrah] bahwa dia mendengar ['Aisyah] mengatakan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3598</td></tr><tr><td>Arabic No</td><td>1452.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3598</td></tr><tr><td>Arabic No</td><td>1452.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 31</td></tr></tbody></table></div>
 

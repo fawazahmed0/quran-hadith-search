@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that the Messenger of Allah (ﷺ), Abu Bakr and 'Umar used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdah bin Sulaiman] dan [Abu Usamah] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam, Abu Bakar dan Umar, mereka semua menunaikan shalat dua hari raya sebelum khutbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2052</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 8 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Пророк ﷺ, Абу Бакр и ‘Умар совершали две праздничные молитвы до хутбы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2052</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 8 Hadith 8</td></tr></tbody></table></div>
 

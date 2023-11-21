@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah will take the whole earth (i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] telah menceritakan kepadaku [Said bin Al Musayyab] dari [Abu Hurairah] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah menggenggam bumi dan melipat langit dengan tangan kanan-Nya seraya mengatakan; 'Akulah Sang Raja, mana yang mendakwakan diri raja-raja bumi?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6519</td></tr><tr><td>Arabic No</td><td>6519</td></tr><tr><td>Reference</td><td>Book 81 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Аллах схватит (всю) землю и свернёт небеса Своей правой рукой, а потом скажет: “Я — Царь, а где же цари земли?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6519</td></tr><tr><td>Arabic No</td><td>6519</td></tr><tr><td>Reference</td><td>Book 81 Hadith 108</td></tr></tbody></table></div>
 

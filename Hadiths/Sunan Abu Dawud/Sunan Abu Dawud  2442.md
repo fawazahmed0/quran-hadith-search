@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:The Quraish used to fast on the day of 'Ashurah in pre Islamic days.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] radliallahu 'anha, ia berkata; dahulu Hari 'Asyura adalah berpuasanya orang-orang Quraisy pada masa jahiliyah, dan Rasulullah shallallahu 'alaihi wasallam melakukan puasa pada masa jahiliyah, kemudian tatkala Rasulullah shallallahu 'alaihi wasallam datang ke Madinah beliau berpuasa pada hari tersebut dan beliau memerintahkan untuk berpuasa. Kemudian tatkala diwajibkan puasa pada Bulan Ramadhan maka puasa itulah yang diwajibkan dan puasa hari 'Asyura di tinggalkan. Barangsiapa yang berkeinginan (berpuasa) maka ia (boleh) berpuasa, dan barangsiapa berkeinginan (tidak berpuasa) maka ia (boleh) meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2002) Sahih Muslim (1125)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2442</td></tr><tr><td>Arabic No</td><td>2442</td></tr><tr><td>Reference</td><td>Book 14 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Во времена невежества курайшиты постились в день ‘Ашуры, и Посланник Аллаха ﷺ постился в этот день во времена невежества, а потом Посланник Аллаха ﷺ прибыл в Медину и велел людям соблюдать пост в этот день. А когда был вменён в обязанность пост в рамадане, Ашура была оставлена, и кто хотел, тот постился в этот день, а кто не хотел, тот не постился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2002) Sahih Muslim (1125)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2442</td></tr><tr><td>Arabic No</td><td>2442</td></tr><tr><td>Reference</td><td>Book 14 Hadith 130</td></tr></tbody></table></div>
 

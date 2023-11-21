@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ja'far bin 'Amr:My father said, "I saw the Prophet (ﷺ) passing wet ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Al Auza'i] dari [Yahya] dari [Abu Salamah] dari [Ja'far bin 'Amru bin Umayyah] dari [Bapaknya] ia berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam mengusap sorban dan sepasang sepatunya." Hadits ini diperkuat oleh [Ma'mar] dari [Yahya] dari [Abu Salamah] dari ['Amru] berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>205</td></tr><tr><td>Arabic No</td><td>205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Джа‘фар ибн ‘Амр, со слов своего отца, да будет доволен им Аллах, рассказывал:«Я видел, как Пророк ﷺ протирал свою чалму и кожаные носки /хуфф/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>205</td></tr><tr><td>Arabic No</td><td>205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
 

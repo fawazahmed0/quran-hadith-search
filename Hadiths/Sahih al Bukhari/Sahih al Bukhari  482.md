@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrates Ibn Seereen:Abu Huraira said, "Allah's Messenger (ﷺ) led us in one of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [An Nadlr bin Syumail] telah mengabarkan kepada kami [Ibnu 'Aun] dari [Ibnu Sirin] dari [Abu Hurairah] berkata, "Rasulullah bersama kami melaksanakan salah satu dari shalat yang berada di waktu malam." Ibnu Sirin berkata, "Abu Hurairah menyebutkan menyebutkan (nama) shalat tersebut, tetapi aku lupa." Abu Hurairah mengatakan, "Beliau shalat bersama kami dua rakaat kemudian salam, kemudian beliau mendatangi kayu yang tergeletak di masjid. Beliau lalu berbaring pada kayu tersebut seolah sedang marah dengan meletakkan lengan kanannya di atas lengan kirinya serta menganyam jari jemarinya, sedangkan pipi kanannya diletakkan pada punggung telapak tangan kiri. Kemudian beliau keluar dari pintu masjid dengan cepat. Orang-orang pun berkata, "Apakah shalat telah diqashar (diringkas)?" Padahal ditengah-tengah orang banyak tersebut ada Abu Bakar dan 'Umar, dan keduanya enggan membicarakannya. Sementara di tengah kerumunan tersebut ada seseorang yang tangannya panjang dan dipanggil dengan nama Dzul Yadain, dia berkata, "Wahai Rasulullah, apakah Tuan lupa atau shalat diqashar?" Beliau menjawab: "Aku tidak lupa dan shalat juga tidak diqashar." Beliau bertanya: "Apakah benar yang dikatakan Dzul Yadain?" Orang-orang menjawab, "Benar." Beliau kemudian maju ke depan dan mengerjakan shalat yang tertinggal kemudian salam. Setelah itu beliau takbir dan sujud seperti sujudnya yang dilakukannya atau lebih lama lagi. Kemudian beliau mengangkat kepalanya dan takbir, kemudian takbir dan sujud seperti sujudnya atau lebih lama lagi, kemudian mengangkat kepalanya dan takbir." Bisa jadi orang-orang bertanya kepadanya (Ibnu Sirin), apakah dalam hadits ada lafadz 'Kemudian beliau salam' lalu ia berkata; aku mendapat berita bahwa Imran bin Hushain berkata; kemudian beliau salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>482</td></tr><tr><td>Arabic No</td><td>482</td></tr><tr><td>Reference</td><td>Book 8 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ совершил с нами одну из двух вечерних молитв». Ибн Сирин (передававший этот хадис от Абу Хурайры) сказал: «Абу Хурайра назвал её (молитву), но я забыл (о какой именно он сказал)». (Далее Абу Хурайра) сказал: «Совершив с нами два рак‘ата он, произнёс слова таслима, подошёл к куску дерева, лежавшему поперёк мечети, облокотился на него, (и нам показалось,) будто он гневается. Затем он положил свою правую руку на левую, переплёл между собой пальцы (рук) и опёрся правой щекой на внешнюю сторону левой кисти. (Между тем) торопившиеся уже покидали мечеть, (выходя через её) ворота и говоря: “(Разве) эта молитва стала короче?” Среди (молившихся) находились Абу Бакр и ‘Умар, которые (не решались) заговорить с (Пророком ﷺ) из крайнего почтения по отношению к нему. Среди них находился также и один человек с длинными руками по прозвищу “Двурукий”, который спросил: “О Посланник Аллаха, ты забыл (что-нибудь) или (теперь) молитва стала короче?” Он ответил: “Я ничего не забыл и молитва не стала короче”, после чего спросил (людей): “(Дело действительно обстоит так,) как говорит Двурукий?” Они ответили: “Да”, и тогда он вышел вперёд, совершил пропущенные (рак‘аты), произнёс слова таслима и сказал: “Аллах велик”. После этого он совершил (обычный по продолжительности) или (чуть) более долгий земной поклон, а потом поднял голову и сказал: “Аллах велик”. Затем он повторил эти слова и (снова) совершил (обычный по продолжительности) или (чуть) более долгий земной поклон, затем поднял голову и сказал: “Аллах велик”, а затем он произнёс слова таслима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>482</td></tr><tr><td>Arabic No</td><td>482</td></tr><tr><td>Reference</td><td>Book 8 Hadith 129</td></tr></tbody></table></div>
 

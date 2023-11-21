@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Hamza bin 'Amr Al-Aslami asked the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha], isteri Nabi shallallahu 'alaihi wasallam, bahwa Hamzah bin 'Amru Al Aslamiy berkata, kepada Nabi shallallahu 'alaihi wasallam: "Apakah aku boleh berpuasa saat bepergian? Dia adalah orang yang banyak berpuasa. Maka Beliau menawab: "Jika kamu mau berpuasalah dan jika kamu mau berbukalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1943</td></tr><tr><td>Arabic No</td><td>1943</td></tr><tr><td>Reference</td><td>Book 30 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что однажды Хамза бин ‘Амр аль-Аслами, который много постился, спросил Пророка ﷺ: «Следует ли мне поститься в пути?» — (на что) он ответил: «Если хочешь, постись, а если хочешь, не постись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1943</td></tr><tr><td>Arabic No</td><td>1943</td></tr><tr><td>Reference</td><td>Book 30 Hadith 50</td></tr></tbody></table></div>
 

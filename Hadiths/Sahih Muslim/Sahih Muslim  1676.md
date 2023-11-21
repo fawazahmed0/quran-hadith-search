@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de Hafsa (raa) : D'après Ibn 'Omar, Hafsa, la mère des Croyants, lui a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku pernah menyetorkan hapalan kepada [Malik] dari [Nafi'] dari [Ibnu Umar] bahwa [Hafsah Umul Mukminin] mengabarinya, bahwa jika Mu'adzin diam dari adzan shalat shubuh, dan shubuhpun telah nampak, maka Rasulullah shallallahu 'alaihi wasallam melakukan shalat dua rakaat ringan sebelum shalat ditegakkan." Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah] dan [Ibnu Rumh], dari [Al Laits bin Sa'd] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Zuhair bin Harb] dan ['Ubaidullah bin Sa'id], keduanya berkata; telah menceritakan kepada kami [Yahya] dari ['Ubaidullah], (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail] dari [Ayyub] semuanya dari [Nafi'] dengan sanad seperti ini sebagaimana yang dikatakan Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1676</td></tr><tr><td>Arabic No</td><td>723.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара о том, что мать правоверных Хафса, да будет доволен ею Аллах, сообщила ему: «Когда муаззин заканчивал призывать (людей) к утренней молитве и начинало светать, Посланник Аллаха ﷺ совершал молитву в два лёгких рак‘ата, перед тем, как произносили второй призыв к молитве /икама/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1676</td></tr><tr><td>Arabic No</td><td>723.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 106</td></tr></tbody></table></div>
 

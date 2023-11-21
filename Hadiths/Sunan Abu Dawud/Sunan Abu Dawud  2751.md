@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) said: Muslims
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Ibnu Abu Adi] dari [Ibnu Ishaq Muhammad], dengan sebagian hadits ini. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah], telah menceritakan kepadaku [Husyam] dari [Yahya bin Sa'id] seluruhnya berasal dari ['Amr bin Syu'aib] dari [ayahnya], dari [kakeknya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang muslim darah mereka sederajat, orang yang paling rendah diantara mereka berjalan dengan jaminan keamanan dari mereka, orang terjauh mereka memberikan perlindungan kepada mereka dan mereka adalah satu tangan atas orang selain mereka, orang kuat mereka membantu orang lemah mereka, dan orang yang berperang atas orang yang tidak berperang. Orang yang mukmin tidak dibunuh dibunuh lantaran orang kafir, dan tidak pula dibunuh orang yang memiliki perjanjian selama dalam perjanjiannya." Sedangkan Ibnu Ishaq tidak menyebutkan balasan dan persamaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2751</td></tr><tr><td>Arabic No</td><td>2751</td></tr><tr><td>Reference</td><td>Book 15 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2751</td></tr><tr><td>Arabic No</td><td>2751</td></tr><tr><td>Reference</td><td>Book 15 Hadith 275</td></tr></tbody></table></div>
 

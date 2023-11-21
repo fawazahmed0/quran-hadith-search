@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "No woman should ask for the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah memberitakan kepada kami [Malik] dari [Abu Zanad] dari [Al A'raj] dari [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seorang wanita meminta agar madunya diceraikan, dengan tujuan ia memperoleh bagian piring lebih banyak, lantas ia sendiri yang dipertahankan menjadi isteri, sebab baginya apa yang telah ditakdirkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6601</td></tr><tr><td>Arabic No</td><td>6601</td></tr><tr><td>Reference</td><td>Book 82 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Не должна женщина просить развода для сестры своей, чтобы опустошить посуду её. Пусть выходит замуж [не ставя подобных условий], ибо, поистине, ей лишь то, что ей предопределено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6601</td></tr><tr><td>Arabic No</td><td>6601</td></tr><tr><td>Reference</td><td>Book 82 Hadith 7</td></tr></tbody></table></div>
 

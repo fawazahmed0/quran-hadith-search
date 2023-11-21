@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:While a man was standing with the Prophet (ﷺ) at 'Arafat, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhum] berkata; "Ketika ada seorang laki-laki yang sedang wukuf bersama Nabi shallallahu 'alaihi wasallam di 'Arafah terjatuh dari hewan tunggangannya sehingga ia terinjak" atau dia (Ibnu 'Abbas radliallahu 'anhuma) berkata: "Hingga orang itu mati seketika". Maka Nabi shallallahu 'alaihi wasallam berkata: "Mandikanlah dia dengan air dan (air) dicampur daun bidara dan kafanilah dengan dua helai kain dan janganlah (kainnya) diberi wewangian dan jangan pula diberi tutup kepala (serban) dan jangan pula (jasadnya) diberi wewangian karena Allah nanti membangkitkannya pada hari qiyamat dalam keadaan bertalbiyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1850</td></tr><tr><td>Arabic No</td><td>1850</td></tr><tr><td>Reference</td><td>Book 28 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Один человек, находившийся вместе с Пророком ﷺ во время стояния на ‘Арафате, неожиданно упал со своей верблюдицы, сломал себе шею (и умер). Пророк ﷺ сказал: “Обмойте его водой с сидром и заверните (тело) в два куска ткани, но не умащайте его благовониями и не покрывайте ему голову, ибо, поистине, в День воскресения он будет воскрешён произносящим тальбийю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1850</td></tr><tr><td>Arabic No</td><td>1850</td></tr><tr><td>Reference</td><td>Book 28 Hadith 30</td></tr></tbody></table></div>
 

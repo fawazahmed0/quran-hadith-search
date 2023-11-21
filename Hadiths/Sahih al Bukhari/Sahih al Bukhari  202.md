@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Sa'd bin Abi Waqqas said, "The Prophet (ﷺ) passed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh bin Al Faraj Al Mishri] dari [Ibnu Wahhab] berkata, telah menceritakan kepadaku ['Amru bin Al Harits] telah menceritakan kepadaku [Abu An Nadlr] dari [Abu Salamah bin 'Abdurrahman] dari ['Abdullah bin 'Umar] dari [Sa'd bin Abu Waqash] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau mengusap sepasang sepatunya." ['Abdullah bin 'Umar] menanyakan hal ini kepada ['Umar] ia lalu menjawab, "Ya. Jika Sa'd menceritakan kepadamu sebuah hadits dari Nabi shallallahu 'alaihi wasallam, maka janganlah kamu bertanya kepada selainnya." [Musa bin 'Uqbah] berkata, telah mengabarkan kepadaku [Abu An Nadlr] bahwa [Abu Salamah] menceritakan kepadanya, bahwa [Sa'd] menceritakan kepadanya, dan ['Umar] menyebutkan kepada ['Abdullah] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 4 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, (как-то раз) услышал от Са‘да ибн Абу Ваккъаса, да будет доволен им Аллах, что Пророк ﷺ протирал влажными руками кожаные носки (в конце омовения перед молитвой. А потом) ‘Абдуллах ибн ‘Умар спросил об этом ‘Умара, и тот сказал: «Да, (он делал это), но если Са‘д рассказал что-нибудь о пророке ﷺ то тебе yже не следует спрашивать об этом никого другого!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 4 Hadith 68</td></tr></tbody></table></div>
 

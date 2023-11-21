@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, 'Beware! Avoid sitting on t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah mengabarkan kepada kami [Abu 'Amir] telah menceritakan kepada kami [Zuhair] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Sa'id Al Khudri] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian duduk-duduk di pinggir jalan." Mereka (para sahabat) berkata; "Wahai Rasulullah, Itu kebiasaan kami yang sudah biasa kami lakukan karena itu menjadi majelis tempat kami untuk bercakap-cakap." Beliau bersabda: "Jika kalian tidak mau meninggalkan majelis seperti itu maka tunaikanlah hak jalan tersebut." Mereka bertanya: "Apa hak jalan itu?" Beliau menjawab: "Menundukkan pandangan, menyingkirkan halangan, menjawab salam dan amar ma'ruf nahi munkar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6229</td></tr><tr><td>Arabic No</td><td>6229</td></tr><tr><td>Reference</td><td>Book 79 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Остерегайтесь сидения на дорогах!» (Люди) сказали: «О Посланник Аллаха! Но мы не можем не сидеть на них, (ибо) там мы беседуем (друг с другом)!» Тогда Пророк ﷺ сказал: «Если уж вам это непременно (необходимо), то отдавайте дороге её право». (Люди) спросили: «А каково право дороги, о Посланник Аллаха?» Он ответил: «Опускание взора, отказ от причинения вреда (людям), ответ на приветствие (проходящих мимо), веление совершать одобряемое и воспрещение порицаемого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6229</td></tr><tr><td>Arabic No</td><td>6229</td></tr><tr><td>Reference</td><td>Book 79 Hadith 3</td></tr></tbody></table></div>
 

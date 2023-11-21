@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) used to invoke thus: "O Allah! I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Harun bin Musa Abu 'Abdillah Al A'war] dari [Syu'aib] dari [Anas bin Malik radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam berdoa: 'A'UUDZU BIKA MINAL BUKHLI WAL KASALI, WA ARDZALIL 'UMURI WA'ADZAABIL QABRI WAFITNATID DAJJAAL WAFITNATIL MAHYAA WAL MAMAAT "Ya Allah, aku berlindung kepada-Mu dari kekikiran, kemalasan, kepikunan, siksa kubur, fitnah Dajjal serta fitnah kehidupan dan kematian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4707</td></tr><tr><td>Arabic No</td><td>4707</td></tr><tr><td>Reference</td><td>Book 65 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ часто обращался к Аллаху с такой мольбой: «Прибегаю к Тебе от скупости, и от лени, и от одряхления, и от мучений могилы, и от искушения Антихриста и от искушений жизни и смерти! /А‘узу би-кя мин аль-бухли, ва-ль-касали, ва арзали-ль-‘умури, ва ‘азаби-ль-кабри, ва фитнати-д-Даджжали, ва фитнати-ль-махйа ва-ль-мамат!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4707</td></tr><tr><td>Arabic No</td><td>4707</td></tr><tr><td>Reference</td><td>Book 65 Hadith 229</td></tr></tbody></table></div>
 

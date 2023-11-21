@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit rapporté d'après Abou Churayh Al-'Adawî (que Dieu l'agrée) : Il a dit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [Abu Syuraih Al Adawi] bahwa ia berkata kepada Amru bin Sa'id yang sedang mengutus pasukan ke Makkah; Perkenanlah kepadaku wahai Amirul Mukminin untuk menceritakan kepada Anda suatu ungkapan yang Rasulullah shallallahu 'alaihi wasallam berdiri saat menyampaikannya di hari Fathu Makkah. Aku mendengarnya dengan kedua telingaku, dan hatiku pun juga telah menghafalnya serta kedua mataku juta turut melihat beliau tatkala mengungkapkannya. Waktu itu, beliau memuji Allah dan membaca sanjungan atas-Nya, kemduan beliau bersabda: "Allah telah menjadikan Makkah sebagai tanah haram, namun orang-orang belum mengharamkannya. Maka tidak lagi boleh bagi seorang yang beriman kepada Allah dan hari akhirat untuk menumpahkan darah di dalamnya dan menebang pepohonannya. Jika ada seseorang yang berdalih dengan peperangan yang dilakukan Rasulullah shallallahu 'alaihi wasallam di dalamnya, maka katakanlah padanya, 'Sesungguhnya Allah telah memberikan izin kepada Rasul-Nya, namun tidak kepada kalian.' Dan sungguh, Allah memberikan izin kepadaku hanya beberapa saat dari waktu siang. Dan pada hari ini, ia telah kembali menjadi haram, sebagaimana keharamannya di hari kemarin. Maka hendaklah orang yang hadir menyampaikan kepada orang yang ghaib." Kemudian dikatakanlah kepada Abu Syuraih, "Apa yang dikatakan Amru padamu?" Ia menjawab, "Aku lebih tahu tentang hal itu daripada kamu wahai Abu Syuraih. Sesungguhnya keharaman itu tidaklah melindungi seorang yang berdosa, tidak pula seorang yang kabur karena menumpahkan darah (membunuh) atau karena mencuri dan berbuat kerusakan (perampokan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3304</td></tr><tr><td>Arabic No</td><td>1354</td></tr><tr><td>Reference</td><td>Book 15 Hadith 508</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3304</td></tr><tr><td>Arabic No</td><td>1354</td></tr><tr><td>Reference</td><td>Book 15 Hadith 508</td></tr></tbody></table></div>
 

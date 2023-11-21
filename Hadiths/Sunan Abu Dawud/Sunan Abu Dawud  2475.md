@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The tradition mentioned above (No. 2468) has also be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim], telah menceritakan kepada kami [Abu Daud], telah menceritakan kepada kami [Abdullah bin Budail], dari ['Amr bin Dinar], dari [Ibnu Umar] bahwa Umar radliallahu 'anhu telah mewajibkan dirinya pada masa jahiliyah untuk beri'tikaf satu malam atau satu hari. Kemudian ia bertanya kepada Nabi shallallahu 'alaihi wasallam. Lalu beliau berkata: "Beri'tikaflah dan berpuasalah!" Telah menceritakan kepada kami [Abdullah bin Umar bin Muhammad bin Aban bin Shalih Al Qurasyi], telah menceritakan kepada kami ['Amr bin Muhammad Al 'Anqazi] dari [Abdullah bin Budail] dengan sanadnya seperti itu, ia berkata; ketika Abdullah dalam keadaan beri'tikaf, tiba-tiba orang-orang bertakbir. Umar berkata; apa ini wahai Abdullah? Ia berkata; tawanan perang Hawazin, Nabi shallallahu 'alaihi wasallam telah membebaskannya. Umar berkata; dan budak wanita tersebut. Kemudian ia mengirimkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2475</td></tr><tr><td>Arabic No</td><td>2475</td></tr><tr><td>Reference</td><td>Book 14 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии от ‘Абдуллаха ибн Будайля говорится, что, когда он совершил и‘тикаф, он услышал такбир людей и спросил: «Что это, о ‘Абдуллах?» Он ответил: «Пророк ﷺ освободил пленных из племени Хавазин». Он сказал: «Тогда пошли к ним и эту девушку». И он послал её с ними
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2475</td></tr><tr><td>Arabic No</td><td>2475</td></tr><tr><td>Reference</td><td>Book 14 Hadith 163</td></tr></tbody></table></div>
 

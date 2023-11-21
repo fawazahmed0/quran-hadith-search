@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:That her father (Abu Bakr) never broke his oath till Allah reveal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Raja'] Telah menceritakan kepada kami [An Nadlr] dari [Hisyam] dia berkata; Telah mengabarkan kepadaku [Bapakku] dari ['Aisyah radliallahu 'anha] bahwa bapaknya tidak pernah berdusta dengan sumpah hingga Allah menurunkan penghapus dosa sumpah. [Abu Bakr] berkata; 'Tidaklah aku memandang suatu sumpah, lantas kulihat lainnya ada yang lebih baik kecuali aku menerima rukhsah (keringanan) yang Allah berikan (membatalkan sumpah) dan aku melakukan yang terbaik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4614</td></tr><tr><td>Arabic No</td><td>4614</td></tr><tr><td>Reference</td><td>Book 65 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала, что Абу Бакр, да будет доволен им Аллах, никогда не нарушал клятвы, пока не было ниспослано Аллахом предписание об искуплении нарушенных клятв. Тогда он сказал: «Какую бы клятву я ни дал, если я вижу, что лучше поступить по-другому, я делаю то, что мне представляется лучшим, и искупаю нарушенную клятву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4614</td></tr><tr><td>Arabic No</td><td>4614</td></tr><tr><td>Reference</td><td>Book 65 Hadith 136</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Asma (daughter of Shakal) asked the Messenger of Allah (ﷺ) abo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] [Ibnu al-Mutsanna] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ibrahim bin al-Muhajir] dia berkata, saya mendengar [Shafiyyah] menceritakan dari [Aisyah] bahwa Asma' bertanya kepada Nabi shallallahu 'alaihi wasallam tentang mandinya orang yang haid. Maka beliau bersabda, "Salah seorang dari kalian hendaklah mengambil airnya dan tanaman bidaranya, lalu dia bersuci, lalu membaguskan bersucinya, kemudian menyiramkan air pada kepalanya, lalu memijat-mijatnya dengan keras hingga mencapai akar rambut kepalanya, kemudian menyiramkan air padanya, kemudian dia mengambil kapas bermisik, lalu bersuci dengannya. Lalu Asma' berkata, 'Bagaimana dia bersuci dengannya? ' Beliau bersabda, 'Subhanallah, bersucilah kamu dengannya.' Lalu Aisyah berkata -seakan-akan dia menutupi hal tersebut-, 'Kamu sapu bekas-bekas darah.' Dan dia bertanya kepada beliau tentang mandi junub, maka beliau bersabda, 'Hendaklah kamu mengambil air lalu bersuci dengan sebaik-baiknya bersuci, atau bersangat-sangat dalam bersuci kemudian kamu siramkan air pada kepala, lalu memijatnya hingga mencapai dasar kepalanya, kemudian mencurahkan air padanya.' Lalu Aisyah berkata, 'Sebaik-baik wanita adalah wanita Anshar yang rasa malu tidak menghalangi mereka untuk mendalami masalah agamanya'." Dan telah menceritakan kepada kami [Ubaidullah bin Muadz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dalam isnad ini hadits semisalnya, dan perawi berkata, beliau bersabda, "Subhanallah, bersucilah dengannya, dan beliau bersembunyi (karena malu)." Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abi Syaibah] keduanya meriwayatkan dari [Abu al-Ahwash] dari [Ibrahim bin Muhajir] dari [Shafiyyah binti Syaibah] dari [Aisyah] dia berkata, "Asma' bintu Syakal mengunjungi Rasulullah shallallahu 'alaihi wasallam seraya berkata, 'Wahai Rasulullah, bagaimana cara salah seorang di antara kami mandi apabila dia ingin bersuci dari haid? '." Lalu dia membawakan hadits tersebut tanpa menyebutkan, "Mandi Junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>750</td></tr><tr><td>Arabic No</td><td>332.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что Асма, спросила Посланника Аллаха ﷺ, как следует совершать большое омовение после месячных, и он сказал: «(В подобном случае) любой из вас следует взять воду с ююбой и должным образом очиститься, потом вылить воду на голову и как следует потереть её, чтобы вода достигла корней волос, потом облить водой (тело), а потом взять кусок шерсти, пропитанной мускусом, и очищаться этим». Асма спросила: «Как же мне очищаться?» (Пророк ﷺ воскликнул: «Преславен Аллах! Очищайся этим!» Тогда ‘Аиша, которая старалась говорить тихо, сказала: «Протирай этим (те места, где остались) следы крови». После этого (Асма) спросила (Посланника Аллаха ﷺ) о том, как следует совершать полное омовение, и он сказал: «Возьми воду и хорошо омой (тело) (или: всё тело), потом вылей воду на голову и как следует потри её, чтобы вода достигла корней волос, а потом облей её водой». После этого ‘Аиша сказала: «Какие прекрасные женщины жёны ансаров! Стыдливость не мешает им изучать (их) религию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>750</td></tr><tr><td>Arabic No</td><td>332.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 72</td></tr></tbody></table></div>
 

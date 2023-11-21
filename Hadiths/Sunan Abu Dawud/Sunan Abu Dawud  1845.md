@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’id bin Al Musayyib said There is a misunderstanding on the part of Ibn ‘A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Hammad bin Zaid] dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam menikahi Maimunah dalam keadaan berihram. Telah menceritakan kepada Kami Ibnu Basysyar, telah menceritakan kepada Kami Abdurrahman bin Mahdi, telah menceritakan kepada Kami Sufyan dari Ismail bin Umayyah dari seorang laki-laki dari Sa'id bin Al Musayyab, ia berkata; Ibnu Abbas telah salah mengenai pernikahan Maimunah dan beliau dalam keadaan berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1845</td></tr><tr><td>Arabic No</td><td>1845</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что Са‘ид ибн аль-Мусайяб сказал: «Ибн ‘Аббас ошибся, сказав, что Посланник Аллаха ﷺ женился на Маймуне в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1845</td></tr><tr><td>Arabic No</td><td>1845</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ As-Sâ'ib Ibn Yazîd (que Dieu l'agrée) a dit : Ma tante maternelle m'emmena ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin 'Abbad] keduanya berkata; Telah menceritakan kepada kami [Hatim] yaitu Ibnu Isma'il dari [Al Ja'ad bin 'Abdur Rahman] dia berkata; Aku mendengar [As Saib bin Yazid] berkata; "Aku dan Bibiku pergi bersama Rasulullah shallallahu 'alaihi wasallam, lalu bibi berkata kepada beliau; "Ya Rasulullah, keponakanku sakit." Maka beliau mengusap kepalaku, kemudian beliau mendoakan keberkahan bagiku. Sesudah itu beliau berwudlu lalu kuminum sisa air wudlunya. Kemudian aku berdiri di belakang beliau. Aku melihat cap kenabian beliau terletak antara kedua bahu kira-kira sebesar telor burung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6087</td></tr><tr><td>Arabic No</td><td>2345</td></tr><tr><td>Reference</td><td>Book 43 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6087</td></tr><tr><td>Arabic No</td><td>2345</td></tr><tr><td>Reference</td><td>Book 43 Hadith 145</td></tr></tbody></table></div>
 

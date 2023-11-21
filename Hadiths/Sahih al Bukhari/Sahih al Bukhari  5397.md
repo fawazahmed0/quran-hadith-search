@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man used to eat much, but when he embraced Islam, he star
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Adi bin Tsabit] dari [Abu Hazim] dari [Abu Hurairah] bahwa seorang ada seorang laki-laki yang makannya banyak, lalu ia masuk Islam. Setelah itu, makannya menjadi sedikit, maka hal itu pun diceritakan kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Sesungguhnya seorang mukmin itu makan dari satu usus, sedangkan orang kafir makan dengan tujuh usus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5397</td></tr><tr><td>Arabic No</td><td>5397</td></tr><tr><td>Reference</td><td>Book 70 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что некий человек обычно ел много еды, а приняв ислам, стал есть мало. Когда об этом сообщили Пророку ﷺ, он сказал: «Верующий ест, наполняя одну кишку, а неверующий — семь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5397</td></tr><tr><td>Arabic No</td><td>5397</td></tr><tr><td>Reference</td><td>Book 70 Hadith 25</td></tr></tbody></table></div>
 

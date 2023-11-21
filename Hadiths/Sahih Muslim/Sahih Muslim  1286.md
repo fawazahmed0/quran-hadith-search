@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported:The Apostle of Allah (ﷺ) performed two prostration
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Hafsh] dan [Abu Muawiyah] dari [al-A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] bahwa Nabi Shallallahu'alaihiwasallam sujud sahwi sebanyak dua kali setelah salam dan berkata-kata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1286</td></tr><tr><td>Arabic No</td><td>572.13</td></tr><tr><td>Reference</td><td>Book 5 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха, что Пророк ﷺ совершил два земных поклона, совершаемых за допущенную (в молитве) ошибку /саджда ас-саху/ после таслима и разговора
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1286</td></tr><tr><td>Arabic No</td><td>572.13</td></tr><tr><td>Reference</td><td>Book 5 Hadith 124</td></tr></tbody></table></div>
 

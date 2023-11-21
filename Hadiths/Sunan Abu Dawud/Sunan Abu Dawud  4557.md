@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: The Prophet (ﷺ) said: The fingers are equal. I as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Ghalib At Tammar] dari [Masruq bin Aus] dari [Al Asy'ari] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jemari itu diyatnya sama." Aku bertanya, "Setiap jari sepuluh ekor unta?" beliau menjawab: "Ya." Abu Dawud berkata, " [Muhammad bin Ja'far] meriwayatkannya dari [Syu'bah], dari [Ghalib], ia berkata, "aku mendengar [Masruq bin Aus]." [Isma'il] juga meriwayatkannya, ia berkata, " [Ghalib At Tammar] menceritakan kepadaku dengan sanad Abu Al Walid." Dan [Hanzhalah bin Abu Shafiah] juga meriwayatkan dari [Ghalib] dengan sanad Isma'il
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4557</td></tr><tr><td>Arabic No</td><td>4557</td></tr><tr><td>Reference</td><td>Book 41 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Аш‘ари: «Пророк ﷺ сказал: “(Компенсация /дийа/ за каждый) палец одинакова”. Я спросил: “По десять верблюдов?” Он ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4557</td></tr><tr><td>Arabic No</td><td>4557</td></tr><tr><td>Reference</td><td>Book 41 Hadith 64</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:The Prophet (ﷺ) used to pray while I used to sleep beside him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami ['Abdul Wahid bin Ziyad] berkata, telah menceritakan kepada kami [Asy Syaibani Sulaiman] berkata, telah menceritakan kepada kami ['Abdullah bin Syaddad] berkata, "Aku mendengar [Maimunah] berkata, "Pernah Nabi shallallahu 'alaihi wasallam shalat sedangkan aku tidur disampingnya. Jika sujud baju beliau mengenaiku, padahal saat itu aku sedang haid." [Musaddad] menambahkan dari [Khalid] ia berkata, [Sulaiman Asy Syaibani] menceritakan kepadaku dengan lafadz, "Dan aku sedang haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>518</td></tr><tr><td>Arabic No</td><td>518</td></tr><tr><td>Reference</td><td>Book 8 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Шаддад сказал: «Я слышал, как Маймуна говорила: “Пророк ﷺ часто совершал молитву, когда я спала сбоку от него. Когда он совершал земные поклоны, (края) его одежды касались меня, и в это время у меня были месячные”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>518</td></tr><tr><td>Arabic No</td><td>518</td></tr><tr><td>Reference</td><td>Book 8 Hadith 165</td></tr></tbody></table></div>
 

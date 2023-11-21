@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Abu Waqqas reported:I saw on the right side of Allah's Messenger (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdus Shamad bin Abdul Warits] telah menceritakan kepada kami [Ibrahim bin Sa'ad] telah menceritakan kepada kami [Sa'd] dari [Bapaknya] dari [Sa'd bin Abu Waqqash] dia berkata; "Sungguh aku melihat pada hari terjadinya perang Uhud dua orang laki-laki berpakaian serba putih. Masing-masing berada di kanan dan di kiri beliau. Keduanya ikut berperang dengan gagah berani. Aku tidak pernah melihat keduanya sebelum dan sesudah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6005</td></tr><tr><td>Arabic No</td><td>2306.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6005</td></tr><tr><td>Arabic No</td><td>2306.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 64</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar: Once a person asked Allah's Messenger (ﷺ) (ﷺ) about the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dan ['Abdullah bin Dinar] dari [Ibnu 'Umar], bahwa ada seseorang bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang shalat malam. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat malam itu dua rakaat dua rakaat. Jika salah seorang dari kalian khawatir akan masuk waktu shubuh, hendaklah ia shalat satu rakaat sebagai witir (penutup) bagi shalat yang telah dilaksanakan sebelumnya." Dan dari Nafi' bahwa 'Abdullah bin 'Umar memberi salam di antara satu rakaat dan dua rakaat witir hingga dia menuntaskan sebagian keperluannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>990</td></tr><tr><td>Arabic No</td><td>990</td></tr><tr><td>Reference</td><td>Book 14 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что как-то раз один человек задал Посланнику Аллаха ﷺ вопрос о ночной молитве. (В ответ ему) Посланник Аллаха ﷺ сказал: «(Во время) ночной молитвы (сначала совершаются) два рак‘ата(, потом ещё) два (и так далее), а если кто-нибудь из вас станет опасаться (наступления) утра, пусть совершит один рак‘ат, что сделает (общее количество совершённых им рак‘атов этой) молитвы нечётным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>990</td></tr><tr><td>Arabic No</td><td>990</td></tr><tr><td>Reference</td><td>Book 14 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar reported the Messenger of Allah (ﷺ) as saying:If we left this door f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Amru] dan [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya kita menyisakan pintu ini (seraya beliau menunjuk kepada salah satu pintu Masjid) untuk para wanita (adalah lebih baik)." [Nafi'] berkata; Maka [Ibnu Umar] tidak pernah masuk dari pintu tersebut hingga dia meninggal. Selain Abdul Warits mengatakan; Umar (bukan Ibnu Umar), dan itulah yang lebih shahih. Telah menceritakan kepada kami [Muhammad bin Qudamah bin A'yan] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Nafi'] dia berkata; [Umar bin Al Khattab] radliallahu 'anhu berkata dengan yang semakna, dan inilah yang lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>462</td></tr><tr><td>Reference</td><td>Book 2 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ сказал: “Если бы мы оставили эту дверь для женщин”».Нафи‘ сказал: «И Ибн ‘Умар до самой смерти никогда не заходил через неё (в мечеть)».Другие, помимо ‘Абдуль-Вариса сказали: «‘Умар». (Абу Дауд сказал:) «Это достовернее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>462</td></tr><tr><td>Reference</td><td>Book 2 Hadith 72</td></tr></tbody></table></div>
 

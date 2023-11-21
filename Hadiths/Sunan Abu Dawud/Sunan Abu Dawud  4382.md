@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Azhar ibn Abdullah al-Harari said:Some goods of the people of Kila' were stolen.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] berkata, telah menceritakan kepada kami [Baqiyyah] berkata, telah menceritakan kepada kami [Shafwan] berkata, telah menceritakan kepada kami [Azhar bin Abdullah Al Harazi] ia berkata, "Barang-barang milik kaum Kala'iyin dicuri, lalu mereka menyakini bahwa pelakunya adalah para tukang tenun. Mereka kemudian mendatangi [Nu'man bin Basyir], salah seorang sahabat Nabi shallallahu 'alaihi wasallam. Nu'man pun menahan para tukang tenun tersebut selama beberapa hari kemudian melepaskannya lagi. Orang-orang dari Kala'iyin itu lalu mendatangi Nu'man dan berkata, "Kenapa engkau bebaskan mereka tanpa engkau beri pukulan atau hukuman!" Nu'man menjawab, "Itu terserah kalian, jika kalian ingin, dan kalau benar barang curian itu ada (terbukti) maka aku akan pukul mereka. Namun jika tidak, maka aku akan memukul punggung kalian sebagaimana aku menghukum mereka." Orang-orang itu berkata, "Beginikah cara kamu mengadili!" Nu'man menjawab, "Ini adalah hukum Allah dan hukum Rasul-Nya shallallahu 'alaihi wasallam." Abu Dawud berkata, "Nu'man menakut-nakuti mereka dengan ucapannya tersebut, karena hukuman tidak bisa diterapkan sehingga adanya pengakuan dari pihak tertuduh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4382</td></tr><tr><td>Arabic No</td><td>4382</td></tr><tr><td>Reference</td><td>Book 40 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Азхара ибн ‘Абдуллаха аль-Харази, что несколько человек из племени зу-ль-Каля‘ (известное йеменское племя) обокрали. Они обвинили людей из числа ткачей и пришли к ан-Ну‘ману ибн Баширу, сподвижнику Пророка ﷺ и он задержал подозреваемых на несколько дней, а потом отпустил их. Пострадавшие пришли к ан-Ну‘ману и сказали: «Ты отпустил их, не нанеся им ни одного удара и не подвергнув их испытанию!» Ан-Ну‘ман сказал: «Как пожелаете. Если желаете, то я могу побить их, но, если ваши вещи не обнаружатся, я подвергну ваши спины такому же бичеванию, какому подверг их спины (нанеся вам столько же ударов, сколько нанёс им, в качестве воздаяния равным)». Они спросили: «Таково твоё решение?» Он ответил: «Это решение Всевышнего Аллаха и решение Его посланника». Абу Дауд сказал: «Он просто напугал их этими словами, имея в виду, что бить следует только после признания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4382</td></tr><tr><td>Arabic No</td><td>4382</td></tr><tr><td>Reference</td><td>Book 40 Hadith 32</td></tr></tbody></table></div>
 

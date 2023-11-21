@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:An Ansari girl was married and she became sick and all her hair 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dia berkata; saya mendengar [Al Hasan bin Muslim bin Yannaq] menceritakan dari [Shafiyah binti Syaibah] dari [Aisyah] radliallahu 'anha bahwa seorang budak perempuan milik orang Anshar hendak menikah, sementara dirinya tengah sakit hingga rambutnya rontok, maka orang-orang pun hendak menyambungnya, lalu mereka bertanya kepada Nabi shallallahu 'alaihi wasallam, beliau pun bersabda: "Allah melaknat orang yang menyambung rambutnya dan yang minta disambung rambutnya." Hadits ini diperkuat oleh riwayat [Ibnu Ishaq] dari [Aban bin Shalih] dari [Al Hasan] dari [Shafiyyah] dari [Aisyah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5934</td></tr><tr><td>Arabic No</td><td>5934</td></tr><tr><td>Reference</td><td>Book 77 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что как-то одна девушка из числа ансаров вышла замуж, но (вскоре) её волосы выпали (вследствие болезни). Её родственники решили подвязать ей (накладные волосы) и спросили об этом Пророка ﷺ, а он ответил: “Аллах проклял подвязывающую (к волосам другие) волосы, и ту, что просит подвязать их ей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5934</td></tr><tr><td>Arabic No</td><td>5934</td></tr><tr><td>Reference</td><td>Book 77 Hadith 149</td></tr></tbody></table></div>
 

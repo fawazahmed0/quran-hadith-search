@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir (que Dieu l'agrée) a dit : "J'ai vu le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru an-Naqid] dan [Ishaq bin Ibrahim] dan lafazh tersebut milik Amru, dia berkata, telah menceritakan kepadaku [Isa bin Yunus] telah menceritakan kepada kami [al-A'masy] dari [Abu Sufyan] dari [Jabir] telah menceritakan kepadaku [Abu Sa'id al-Khudri] bahwasanya dia mengunjungi Nabi Shallallahu'alaihiwasallam. Dia berkata lagi, "Lalu aku melihatnya shalat di atas tikar yang beliau pergunakan untuk sujud." Dia berkata lagi, "Dan aku melihatnya shalat dengan memakai baju satu yang dibalutkan padanya." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] dia berkata --Lewat jalur periwayatan lain-- dan telah menceritakannya kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Ali bin Mushir] keduanya meriwayatkan dari [al-A'masy] dengan isnad ini. Dan dalam riwayat Abu Kuraib, "Dalam keadaan beliau meletakkan ujungnya pada pundaknya." Dan dalam riwayat Abu Bakar dan Suwaid, "Dengan dibalutkan padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1159</td></tr><tr><td>Arabic No</td><td>519.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 321</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри рассказывал, что однажды он зашёл к Пророку ﷺ и увидел, как он совершал молитву на циновке, совершая на ней земные поклоны. А также он сказал: «И я видел, как он совершал молитву в одной одежде, завернувшись в неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1159</td></tr><tr><td>Arabic No</td><td>519.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 321</td></tr></tbody></table></div>
 

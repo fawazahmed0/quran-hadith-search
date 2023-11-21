@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: When the Messenger of Allah (ﷺ) gained b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa], ia berkata; telah mengabarkan kepada kami [Abu Ishaq Al Fazari], dari [Abdullah bin Syaudzab], ia berkata; telah menceritakan kepadaku ['Amir bin Abdul Wahid] dari [Ibnu Buraidah], dari [Abdullah bin 'Amr], ia berkata; Rasulullah shallallahu 'alaihi wasallam apabila mendapatkan rampasan perang beliau memerintahkan Bilal agar menyeru diantara orang-orang, kemudian mereka datang membawa rampasan perang mereka. Lalu beliau membagi lima dan membagikannya. Lalu terdapat seorang laki-laki yang datang setelah itu dengan membawa tali kekang yang terbuat dari rambut dan berkata; wahai Rasulullah, inilah yang rampasan perang yang telah kami peroleh. Kemudian beliau berkata: "Apakah engkau telah mendengar Bilal menyeru tiga kali?" ia berkata; ya. Beliau berkata: "Apa yang menghalangimu untuk datang membawanya?" kemudian ia menyampaikan alasan kepada beliau. Lalu beliau berkata: "Datanglah dengan membawanya pada Hari Kiamat, aku tidak menerimanya darimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2712</td></tr><tr><td>Arabic No</td><td>2712</td></tr><tr><td>Reference</td><td>Book 15 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр рассказывал: «Обычно, когда Посланник Аллаха ﷺ получал военную добычу, он повелевал Билялю созвать людей, чтобы они принесли всё, что им досталось, после чего делил её на пять частей и распределял (среди людей). Однажды уже после (раздела) пришёл некий человек и принёс узду, (сделанную) из волос (животных), и сказал: “О Посланник Аллаха! Это было среди того, что досталось нам в качестве добычи”. (Пророк ﷺ) трижды спросил: “Ты слышал, как Биляль созывал (людей)?” Он ответил: “Да”. Тогда (Пророк ﷺ) спросил: “А что помешало тебе принести эту (узду)?”, на что тот принялся оправдываться, но (Пророк ﷺ) сказал: “Я не приму её от тебя (сейчас), и ты придёшь с этим в День Воскресения!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2712</td></tr><tr><td>Arabic No</td><td>2712</td></tr><tr><td>Reference</td><td>Book 15 Hadith 236</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of al-A'mash with the same chain 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah sekali-kali seseorang di antara kamu berkata; 'Abdi (hai budakku) karena kamu semua adalah 'Abiidullah (budak atau hamba Allah) Tetapi katakanlah; Faataya (pemudaku). Dan jangan pula seorang pelayan memanggil majikannya: Rabbi (Tuhanku), tetapi ucapkanlah: Sayyidi (majikanku atau tuanku)." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Sa'id Al Asyaj]; Telah menceritakan kepada kami [Waki'] keduanya dari [Al A'masy] melalui jalur ini. Dan di dalam Hadits keduanya disebutkan; 'Dan janganlah seorang pelayan memanggil tuannya dengan kalimat 'Maulaaya' karena di dalam Hadits Abu Mu'awiyah di sebutkan; 'Sesungguhnya 'Maulaakum' (pelindungmu) adalah Allah Azza wa Jalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5876</td></tr><tr><td>Arabic No</td><td>2249.03</td></tr><tr><td>Reference</td><td>Book 40 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5876</td></tr><tr><td>Arabic No</td><td>2249.03</td></tr><tr><td>Reference</td><td>Book 40 Hadith 15</td></tr></tbody></table></div>
 

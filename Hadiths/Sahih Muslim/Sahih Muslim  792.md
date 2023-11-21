@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ja'far b. Amr b. Umayya al-Damari reported on the authority of his father who sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin ash-Shabbah] telah menceritakan kepada kami [Ibrahim bin Sa'd] telah menceritakan kepada kami [az-Zuhri] dari [Ja'far bin Amru bin Umayyah adh-Dhamri] dari [bapaknya] bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam memotong sebagian pundak (kambing) untuk memakannya, kemudian shalat, dan tanpa berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>792</td></tr><tr><td>Arabic No</td><td>355.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джа‘фара ибн ‘Амра ибн Умаййи ад-Дамри, что его отец рассказывал ему, что (однажды) он видел, как Посланник Аллаха ﷺ ел баранью лопатку, отрезая от неё ножом (куски мяса). Затем он совершил молитву, не совершив омовения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>792</td></tr><tr><td>Arabic No</td><td>355.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 114</td></tr></tbody></table></div>
 

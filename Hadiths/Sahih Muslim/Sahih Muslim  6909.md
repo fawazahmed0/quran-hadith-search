@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported that when it was evening Allah's Messenger (ﷺ) used to suppl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Husain bin 'Ali] dari [Zaidah] dari [Al Hasan bin 'Ubaidullah] dari [Ibrahim bin Suwaid] dari ['Abdurrahman bin Yazid] dari ['Abdullah] dia berkata; "Apabila sore hari, Rasulullah shallallahu 'alaihi wasallam mengucapkan doa yang berbunyi: AMSAINAA WA AMSAL MULKU LILLAAHI, WALHAMDU LILLAAH, LAA-ILAAHA ILLALLAH, WAHDAHU LAA SYARIIKA LAH, ALLOOHUMMA INNII AS'ALUKA MIN KHOIRI HAADZIHILLAILATI WAKHOIRI MAA FIIHAA WA A'UUDZU BIKA MIN SYARRIHAA WASYARRI MAA FIIHAA, ALLOOHUMMA INNII A'UUZDUBIKA MINAL KASALI WALHAROMI WASUU'IL KIBRI WAFITNATID DUN-YAA WA'ADZAABIL QOBRI" 'Kami memasuki sore hari dan pada sore ini jagad raya tetap milik Allah. Segala puji bagi Allah tiada Tuhan selain Allah, Dialah yang Esa, tiada sekutu bagi-Nya. Ya Allah, aku mohon kepada-Mu dari kebaikan malam ini dan kebaikan yang ada di dalamnya. Aku berlindung kepada-Mu dari kejahatan di malam ini dan kejahatan yang ada di dalamnya. Ya Allah, aku berlindung kepada-Mu dari kemalasan, kepikunan, kesengsaraan di masa tua, fitnah dunia dan adzab kubur.' [Al Hasan bin Ubaidillah] berkata; ' [Zubaid] menambah kepada saya tentang hadits tersebut dari [Ibrahim bin Suwaid] dari [Abdurrahman bin Yazid] dari [Abdullah] sebagai hadits marfu' bahwasanya Rasulullah shallallahu 'alaihi wasallam membaca doa yang berbunyi: 'LAA-ILAAHA ILLALLOOH WAHDAHUU LAA SYARIIKA LAHU, LAHUL MULKU WALAHUL HAMDU WAHUWA 'ALAA KULLI SYAI'IN QODIIRUN Tiada Tuhan selain Allah. Dialah satu-satunya. Tiada sekutu bagi-Nya, jagad raya hanyalah milik-Nya. Segala puji hanya bagi-Nya dan Dia Maha Kuasa atas segala sesuatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6909</td></tr><tr><td>Arabic No</td><td>2723.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6909</td></tr><tr><td>Arabic No</td><td>2723.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 102</td></tr></tbody></table></div>
 

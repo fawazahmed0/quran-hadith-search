@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Al-Munkadir:Once Jabir prayed with his Izar tied to his ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami ['Ashim bin Muhammad] berkata, telah menceritakan kepadaku [Waqid bin Muhammad] dari [Muhammad bin Al Munkadir] berkata, "Jabir mengerjakan shalat dengan mengenakan sarung yang ia ikatkan pada leher (tengkuk), sementara pakaiannya ia gantungnya di gantungan baju. Seseorang lalu berkata kepadanya, "Kenapa kamu shalat dengan menggunakan satu kain!" [Jabir bin Samurah] menjawab, "Aku lakukan itu agar bisa dilihat oleh orang bodoh seperti kamu. Sebab mana ada pada masa Nabi shallallahu 'alaihi wasallam, di antara kami yang memiliki dua kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>352</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается, что Мухаммад ибн аль-Мункадир сказал: «Джабир совершил молитву в одном изаре, который подвязал сзади, а его одежда висела на вешалке. Кто-то ему сказал: “Ты совершаешь молитву в одном изаре?” Он ответил: “Поистине, я сделал таким образом, чтобы меня увидел подобный тебе глупец! У кого из нас были две одежды во времена Пророка ﷺ?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>352</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
 

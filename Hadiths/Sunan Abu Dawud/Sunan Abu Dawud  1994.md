@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas: The Messenger of Allah (ﷺ) performed four 'Umrahs all in Dhu al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi], serta [Hudbah bin Khalid], mereka berkata; telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan umrah sebanyak empat kali, seluruhnya pada bulan Dzul Qa'dah kecuali umrah yang beliau laksanakan bersamaan dengan haji beliau. Abu Daud berkata; Dari sini aku hafal dari Hudbah, dan aku mendengarnya dari Abu Al Walid, dan belum menelitinya secara sempurna yaitu umrah pada saat berada di Hudaibiyah, atau dari Hudaibiyah, umrah qadha' (umratul qadha') pada Bulan Dzul Hijjah, umrah dari Al Ji'ranah dimana beliau membagi harta rampasan perang pada Bulan Dzul Qa'dah serta umrah bersamaan dengan haji beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1778) Sahih Muslim (1253)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 11 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ совершил четыре ‘умры, причём все, кроме той, что была совершена вместе с прощальным хаджем, он совершил в месяце зуль-кы‘да. Абу Дауд сказал: «Отсюда я хорошо запомнил его от Худбы, и я слышал его от Абу аль-Валида и не запомнил его хорошо: “Это ‘умра во время [событий в] Худайбии или от Худайбии, ‘умра возмещения в зуль-ка‘де, ‘умра от аль-Джи‘раны, где Пророк ﷺ делил добычу Хунайна в зуль-ка‘де и ‘умра, которую он совершил вместе со своим хаджем”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1778) Sahih Muslim (1253)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 11 Hadith 274</td></tr></tbody></table></div>
 

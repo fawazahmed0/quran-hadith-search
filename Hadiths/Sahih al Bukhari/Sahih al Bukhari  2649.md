@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid:Allah's Messenger (ﷺ) ordered that an unmarried man w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Ubaidulloh bin 'Abdullah] dari [Zaid bin Khalid radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, bahwa Beliau memerintahkan bagi siapa yang berzina dan belum pernah menikah agar dicambuk seratus kali dan diasingkan selama setahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2649</td></tr><tr><td>Arabic No</td><td>2649</td></tr><tr><td>Reference</td><td>Book 52 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Зейда ибн Халида, да будет доволен им Аллах, что Посланник Аллаха ﷺ распорядился в отношении того, кто совершил прелюбодеяние, будучи неженатым, чтобы он получил сто ударов и отправился в изгнание на год»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2649</td></tr><tr><td>Arabic No</td><td>2649</td></tr><tr><td>Reference</td><td>Book 52 Hadith 13</td></tr></tbody></table></div>
 

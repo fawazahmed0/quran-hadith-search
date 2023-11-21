@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar said:The Messenger of Allah (ﷺ) said: Let the bedouin not gain upper
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] dari [Abdulah bin Abu Labid] dari [Abu Salamah bin Abdurrahman] dari [Ibnu Umar], katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sampai orang arab primitive menggantikan istilah shalat isya' kalian, sungguh shalat itu dalam kitabullah tertulis dengan nama 'Isya', hanya ia berada di tengah malam ketika unta-unta diperah susunya yang diistilahkan yu'tham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1456</td></tr><tr><td>Arabic No</td><td>644.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 289</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Ни в коем случае не поддавайтесь (влиянию) бедуинов в том, что касается названия вашей вечерней молитвы, ибо (она названа) вечерней /‘иша/ в Книге Аллаха, (бедуины же называют её 'атама потому, что) в первую треть ночи они доят верблюдиц»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1456</td></tr><tr><td>Arabic No</td><td>644.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 289</td></tr></tbody></table></div>
 

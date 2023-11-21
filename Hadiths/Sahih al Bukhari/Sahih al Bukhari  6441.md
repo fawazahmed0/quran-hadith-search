@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hakim bin Hizam:I asked the Prophet (for some money) and he gave me, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dia berkata; saya mendengar [Az Zuhri] berkata; telah mengabarkan kepadaku ['Urwah] dan [Sa'id bin Musayyab] dari [Hakim bin Hizam] dia berkata; saya meminta sesuatu kepada Nabi shallallahu 'alaihi wasallam, lalu beliau memberiku, lalu aku meminta lagi dan beliau pun memberiku, lalu aku memintanya lagi dan beliau pun memberiku, kemudian beliau bersabda: "Harta ini." -Sufyan mengatakan- beliau bersabda kepadaku: 'Wahai Hakim, sesungguhnya harta benda ini kelihatan hijau dan manis, barangsiapa mengambilnya dengan cara yang baik, maka ia akan diberkahi, dan barangsiapa mengambilnya dengan berlebihan, maka ia tidak akan diberkahi, yaitu seperti orang yang makan dan tak pernah kenyang, tangan di atas itu lebih baik daripada tangan di bawah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6441</td></tr><tr><td>Arabic No</td><td>6441</td></tr><tr><td>Reference</td><td>Book 81 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаким бин Хизам, да будет доволен им Аллах, сказал: «(Однажды) я попросил (что-то) у Посланника Аллаха ﷺ и он дал мне это, потом я (снова) обратился к нему с просьбой, и он дал мне (то, что я просил), потом я (снова) обратился к нему с просьбой, и он дал мне (то, что я просил), а потом он сказал: “О Хаким, поистине, это имущество (подобно) сладкому плоду: оно становится благословенным для того, кто берёт его, будучи щедрым, а для того, кто берёт его(, подчиняясь желаниям своей) души, благословенным оно не станет, и уподобится он (человеку), который ест, но не насыщается. (Запомни, что) высшая рука лучше низшей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6441</td></tr><tr><td>Arabic No</td><td>6441</td></tr><tr><td>Reference</td><td>Book 81 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. 'Abbas:That 'Abd al-Rahman b.'Awf said: I heard the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab], dari [Abdul Hamid bin Abdurrahman bin Zaid bin Al Khathab], dari [Abdullah bin Abdullah bin Al Harits bin Naufal] dari [Abdullah bin Abbas], ia berkata; [Abdurrahman bin 'Auf] berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian mendengarnya ada di suatu negeri maka janganlah kalian memasukinya dan apabila telah terjadi di dalamnya dan kalian ada padanya maka jangalah kalian lari keluar darinya!" yaitu penyakit pes
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5729) Sahih Muslim (2219)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3103</td></tr><tr><td>Arabic No</td><td>3103</td></tr><tr><td>Reference</td><td>Book 21 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн ‘Ауф, да будет доволен им Аллах, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если услышите, что в какой-то земле началась чума, не приезжайте туда. А если она начнётся на той земле, где вы находитесь, то не покидайте эту землю, пытаясь убежать от неё”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5729) Sahih Muslim (2219)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3103</td></tr><tr><td>Arabic No</td><td>3103</td></tr><tr><td>Reference</td><td>Book 21 Hadith 15</td></tr></tbody></table></div>
 

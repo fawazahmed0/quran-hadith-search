@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the prophet (May peace be upon him) as saying:When one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Abdul Aziz bin Abdullah bin Abu Salamah] dari [Abdullah bin Dinar] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika salah seorang dari kalian bersin hendaklah mengucapkan 'AL HAMDULILLAH ALA KULLI HAL (Segala puji bagi Allah dalam setiap keadaan). Dan hendaklah saudaranya atau temannya mengucapkan YAHAMUKAALLAHU (semoga Allah merahmatimu), lalu ia ganti mengucapkan YAHDIKUMULLAHU WA YUSHLIHU BALAKUM (semoga Allah memberi petunjuk kepada kalian dan memperbaiki keadaanmu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5033</td></tr><tr><td>Arabic No</td><td>5033</td></tr><tr><td>Reference</td><td>Book 43 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: Если кто-нибудь из вас чихнёт, пусть скажет: «Хвала Аллаху!» /Аль-хамду ли-Лляхи! /, и пусть его брат (или: … его спутник) скажет ему: «Да помилует тебя Аллах!» /Йархаму-кя-Ллаху! /, а если он скажет ему: «Да помилует тебя Аллах!», пусть (чихнувший) скажет (ему в ответ): «Да укажет вам Аллах правильный путь и да приведёт Он в порядок все дела ваши!» /Йахдикуму-Ллаху ва йуслиху баля-кум
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5033</td></tr><tr><td>Arabic No</td><td>5033</td></tr><tr><td>Reference</td><td>Book 43 Hadith 261</td></tr></tbody></table></div>
 

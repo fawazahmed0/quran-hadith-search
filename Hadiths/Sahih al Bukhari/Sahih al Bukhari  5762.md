@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Some people asked Allah's Messenger (ﷺ) about the fore-tellers
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Yahya bin 'Urwah bin Az Zubair] dari [Urwah bin Az Zubair] dari ['Aisyah] radliallahu 'anha dia berkata; beberapa orang bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai paranormal, lalu beliau menjawab: ""Mereka (para dukun) bukanlah apa-apa." Mereka berkata; "Wahai Rasulullah! Terkadang apa yang mereka ceritakan adalah benar." Rasulullah shallallahu 'alaihi wasallam bersabda: "Perkataan yang nyata (benar) itu adalah perkataan yang dicuri oleh jin, kemudian ia menempatkannya di telinga walinya lalu mereka mencampur adukkan bersama kebenaran itu dengan seratus kedustaan." Ali berkata; Abdurrazaq berkata; lafazh "Perkataan yang nyata (benar) …" adalah mursal, setelah itu sampai kepadaku bahwa lafazh tersebut telah di musnadkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5762</td></tr><tr><td>Arabic No</td><td>5762</td></tr><tr><td>Reference</td><td>Book 76 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Некоторые) люди спросили Посланника Аллаха ﷺ о прорицателях, на что он ответил: “Они — ничто!” Люди сказали: “О Посланник Аллаха, но ведь (иногда) они рассказывают какую-то вещь, которая оказывается правдой!” Посланник Аллаха ﷺ сказал: “Эти слова истины джинн крадёт (с небес), а затем вкладывает в ухо своего друга (прорицателя). А те, в свою очередь, примешивают к ним сто (слов) лжи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5762</td></tr><tr><td>Arabic No</td><td>5762</td></tr><tr><td>Reference</td><td>Book 76 Hadith 76</td></tr></tbody></table></div>
 

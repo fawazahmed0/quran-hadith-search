@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Sauda (the wife of the Prophet) went out to answer the call of na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zakaria bin Yahya] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari [Aisyah radliallahu 'anha] dia berkata; "Pada suatu ketika Saudah keluar untuk hajatnya sesudah diwajibkannya hijab atas para wanita." Ia berkata; "Saudah adalah seorang wanita yang tinggi besar sehingga mudah sekali orang mengenalnya." Kemudian Umar melihatnya, dia pun memanggilnya; Wahai Saudah! Sungguh saya bisa mengenalimu, jika kamu keluar maka lihatlah bagaimana kamu keluar." Akhirnya Saudah berbalik pulang kepada Rasulullah shalallahu'alaihi wa sallam yang ketika itu beliau sedang makan malam di rumahku, ditangan beliau ada sepotong daging. Saudah pun masuk seraya berkata; Ya Rasulullah, Aku keluar untuk keperluanku, lalu Umar berkata begini dan begitu kepadaku. Aisyah berkata; Lalu Allah mewahyukan kepada beliau dan ketika wahyu telah tersampaikan padanya sepotong daging tersebut masih terdapat di tangan beliau tanpa beliau letakkan. Kemudian beliau bersabda: "Telah diperbolehkan bagi kalian untuk keluar dalam rangka memenuhi hajat kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4795</td></tr><tr><td>Arabic No</td><td>4795</td></tr><tr><td>Reference</td><td>Book 65 Hadith 317</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды,) уже после того, как (мусульманкам было вменено в обязанность ношение) покрывала, Сауда, да будет доволен ею Аллах, вышла (из дома) по нужде. Она была крупной женщиной, и (покрывало) не мешало знавшим (Сауду) узнавать её. Увидев её, ‘Умар ибн аль-Хаттаб сказал: “О Сауда, клянусь Аллахом, мы узнали тебя, подумай же о том, как тебе выходить (неузнанной)!” — и Сауда вернулась обратно в то время, когда Посланник Аллаха ﷺ, ужинавший в моём доме, держал в руке кость с мясом. Она вошла (ко мне) и сказала: “О Посланник Аллаха, я вышла по своей надобности, а ‘Умар сказал мне то-то и то-то”. После этого Аллах начал ниспосылать (Пророку ﷺ) откровение, а когда ниспослание закончилось, кость всё ещё находилась в его руке, так как он не положил её, и (Пророк ﷺ) сказал: “Вам было разрешено выходить по своим надобностям”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4795</td></tr><tr><td>Arabic No</td><td>4795</td></tr><tr><td>Reference</td><td>Book 65 Hadith 317</td></tr></tbody></table></div>
 

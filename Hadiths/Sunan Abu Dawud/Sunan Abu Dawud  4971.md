@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sufyan ibn Asid al-Hadrami: I heard the Messenger of Allah (ﷺ) say: I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih Al Hadhrami] -Imam masjid Himsha- berkata, telah menceritakan kepada kami [Baqiyyah Ibnul Walid] dari [Dhubarah bin Malik Al Hadhrami] dari [Bapaknya] dari ['Abdurrahman bin Jubair bin Nufair] dari [Bapaknya] dari [Sufyan bin Asid Al Hadhrami] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebuah penghianatan yang sangat besar adalah jika engkau menyampaikan suatu pembicaraan kepada saudaramu; ia membenarkanmu sementara kamu mendustainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4971</td></tr><tr><td>Arabic No</td><td>4971</td></tr><tr><td>Reference</td><td>Book 43 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам Хайва ибн Шурайх аль-Хадрами имам мечети Химса, (который сказал): Рассказал нам Бакъиййа ибн аль-Валид от Дубары ибн Малика аль-Хадрами, (передавшего) от своего отца, (передавшего) от ‘Абдуррахмана ибн Джубайра ибн Нуфайра, (передавшего) от своего отца, (передавшего) от Суфйана ибн Асида аль-Хадрами (да будет доволен им Аллах, который) сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Если ты рассказываешь своему брату то, чему он верит, хотя ты лжёшь, это является великим вероломством”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4971</td></tr><tr><td>Arabic No</td><td>4971</td></tr><tr><td>Reference</td><td>Book 43 Hadith 199</td></tr></tbody></table></div>
 

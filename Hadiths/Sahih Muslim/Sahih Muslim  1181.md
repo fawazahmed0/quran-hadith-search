@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (raa), Oum Habîba et Oum Salama racontaient à l'Envoyé de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepadaku [Bapakku] dari [Aisyah radhiyallahu'anhu] bahwa Ummu Habibah dan Ummu Salamah menyebutkan gereja yang mereka lihat di Etiopia Rasulullah Shallallahu'alaihiwasallam yang didalamnya terdapat gambar-gambar. Maka Rasulullah Shallallahu'alaihiwasallam bersabda, "Sesungguhnya mereka itu apabila ada seorang laki-laki shalih di antara mereka lalu dia meninggal, maka mereka membangun di atas kuburannya sebuah masjid, dan mereka menggambar laki-laki tersebut. Mereka itu adalah sejelek-jeleknya makhluk di sisi Allah pada hari kiamat." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru an-Naqid] keduanya berkata, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah radhiyallahu'anhu] "Bahwa mereka saling menyebutkan hadits dari Rasulullah ketika beliau sakit, lalu Ummu Salamah dan Ummu Habibah menyebutkan sebuah gereja" kemudian dia menyebutkan hadits semisalnya.Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Muawiyah] telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari [Aisyah radhiyallahu'anha] dia berkata, "Para istri nabi Shallallahu'alaihiwasallam telah menyebutkan kepada kami sebuah gereja yang kami lihat di tanah Habasyah yang diberi nama Mariyah" semisal hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1181</td></tr><tr><td>Arabic No</td><td>528.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Умм Хабиба и Умм Саляма, рассказали Посланнику Аллаха ﷺ о церкви, расписанной (различными) изображениями, которую они видели в Эфиопии, и Посланник Аллаха ﷺ сказал: «Поистине, когда какой-нибудь праведный человек из них умирал, они строили над его могилой храм для поклонения и расписывали его такими изображениями. В День воскресения эти (люди) окажутся худшими созданиями пред Аллахом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1181</td></tr><tr><td>Arabic No</td><td>528.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas bin Malik:The Messenger of Allah (ﷺ) threw pebbles at the last j
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Al 'Ala'], telah menceritakan kepada Kami [Hafsh] dari [Hisyam] dari [Ibnu Sirin] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam melempar jumrah 'aqabah pada hari Nahr kemudian beliau kembali ke perkemahannya di Mina lalu beliau meminta hewan kurban dan beliau menyembelih, kemudian beliau memanggil tukang cukur, beliau membagikan rambut kepada orang-orang yang berada di sekitarnya kemudian lalu tukang cukur tersebut mencukur kepala sebelah kiri kemudian beliau berkata: "Apakah di sini ada Abu Thalhah?" Lalu beliau menyerahkan rambut tersebut kepada Abu Thalhah. Telah menceritakan kepada Kami ['Ubaid bin Hisyam Abu Nu'aim Al Halabi] dan ['Amr bin Utsman] secara makna, mereka berdua berkata; telah menceritakan kepada Kami [Sufyan] dari [Hisyam bin Hassan] dengan sanad ini dalam hadits tersebut ia berkata; beliau berkata kepada tukang cukur: "Mulailah dari sebelah kanan, dan gundullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1305)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1981</td></tr><tr><td>Arabic No</td><td>1981</td></tr><tr><td>Reference</td><td>Book 11 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что в день жертвоприношения Посланник Аллаха ﷺ бросил камешки, затем вернулся к тому месту в Мине, где остановился, потом велел привести животных и совершил жертвоприношение, после чего позвал цирюльника. Тот обрил сначала правую сторону его головы, и он стал делить волосы между стоявшими перед ним людьми, давая им по одному или по два волоска. Затем он обрил левую сторону его головы. Посланник Аллаха ﷺ спросил: «Здесь ли Абу Тальха?» и отдал сбритые волосы Абу Тальхе
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1305)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1981</td></tr><tr><td>Arabic No</td><td>1981</td></tr><tr><td>Reference</td><td>Book 11 Hadith 261</td></tr></tbody></table></div>
 

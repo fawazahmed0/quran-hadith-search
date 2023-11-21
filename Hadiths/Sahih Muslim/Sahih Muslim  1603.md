@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:We set cut with the Messenger of Allah (ﷺ) on a journey when it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Zubair] dari [Jabir] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ahmad bin Yunus] katanya; telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] katanya; "Kami berangkat bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, kemudian hujan mengguyur kami, lalu dia mengatakan; "Siapa diantara kalian yang hendak shalat, hendaknya dikerjakan di persinggahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>698</td></tr><tr><td>Reference</td><td>Book 6 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «(Однажды), когда мы были в пути с Посланником Аллаха ﷺ прошёл дождь, и Посланник Аллаха ﷺ сказал: “Кто из вас хочет, может совершать молитву на своём месте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>698</td></tr><tr><td>Reference</td><td>Book 6 Hadith 34</td></tr></tbody></table></div>
 

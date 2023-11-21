@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ya'la b. Umayya (Allah be pleased with him) reported that a person came to the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Uqbah bin Mukram Al 'Ammi] dan [Muhammad bin Rafi'] -lafazhnya dari [Ibnu Rafi'] - keduanya berkata, Telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [bapakku] ia berkata, saya mendengar [Qais] menceritakan dari ['Atha'] dari [Shafwan bin Ya'la bin Umayyah] dari [bapaknya] radliallahu 'anhu bahwasanya; Seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam yang saat itu sedang berada di Ji'ranah. Laki-laki itu telah berniat untuk melakukan Umrah, jenggot dan rambutnya telah dicat kuning (pakai pacar) dan mengenakan jubah. Laki-laki itu pun berkata, "Bolehkah aku Umrah dalam keadaan pakaianku seperti sekarang?" maka beliau menjawab: "Tanggalkan jubahmu, cuci cat jenggot dan rambutmu. Lakukanlah apa yang diperbuat dalam haji, lakukanlah pula dalam Umrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2801</td></tr><tr><td>Arabic No</td><td>1180.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2801</td></tr><tr><td>Arabic No</td><td>1180.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 11</td></tr></tbody></table></div>
 

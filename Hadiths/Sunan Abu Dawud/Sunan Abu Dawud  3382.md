@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: A time is certainly coming to mankind when people wil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Shalih bin 'Amir], Abu Daud berkata; demikianlah yang dikatakan Muhammad, telah menceritakan kepada kami [Syaikh] dari Bani Tamim, ia berkata; [Ali bin Abu Thalib] berkhutbah kepada kami, -atau ia mengatakan; Ali berkata; …. Ibnu Isa berkata; demikianlah Husyaim menceritakan kepada kami, ia berkata; akan datang kepada manusia suatu zaman yang menggigit, orang yang berkelapangan menggigit apa yang ada pada keduanya dan tidak diperintahkan untuk itu. Allah Ta'ala berfirman: "Dan janganlah kalian melupakan keutamaan diantara kalian." Dan orang-orang yang terdesak (dalam kondisi terpaksa) melakukan jual beli, sementara Nabi shallallahu 'alaihi wasallam telah melarang dari penjualan orang yang terdesak (dalam kondisi terpaksa), serta penjualan secara gharar (menipu), dan menjual buah sebelum sampai waktunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3382</td></tr><tr><td>Arabic No</td><td>3382</td></tr><tr><td>Reference</td><td>Book 23 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один пожилой человек из бану тамим передаёт: ‘Али ибн Абу Талиб, да будет доволен им Аллах, обратился к нам с проповедью и сказал: «Наступят неблагополучные времена, когда состоятельный будет удерживать то, чем владеет, хотя ему не было велено поступать так. Всевышний Аллах сказал: “Не забывайте о снисходительности по отношению друг к другу” (сура “аль-Бакара”, аят 237). И распространится вынужденная продажа, а ведь Пророк ﷺ запретил вынужденную продажу, продажу-гарар и продажу плодов до того, как станет очевидной их годность к употреблению»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3382</td></tr><tr><td>Arabic No</td><td>3382</td></tr><tr><td>Reference</td><td>Book 23 Hadith 57</td></tr></tbody></table></div>
 

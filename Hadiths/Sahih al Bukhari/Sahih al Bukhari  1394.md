@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas.:Abu Lahab, may Allah curse him, once said to the Prophet (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan [bapakku] kepada kami bapakku telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada saya ['Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata,: "Abu Lahab, laknat Allah atasnya, kepada Nabi Shallallahu'alaihiwasallam: "Celaka kamu sepanjang jari ini". Maka turunlah QS Al Lahab (yang artinya): ("Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1394</td></tr><tr><td>Arabic No</td><td>1394</td></tr><tr><td>Reference</td><td>Book 23 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Абу Ляхаб, да проклянет его Аллах, сказал Пророку ﷺ: «Пропади ты пропадом на весь оставшийся день!» И тогда были ниспосланы (аяты): «Да пропадут пропадом руки Абу Ляхаба, и сам он пропал». (сура «Аль-Масад», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1394</td></tr><tr><td>Arabic No</td><td>1394</td></tr><tr><td>Reference</td><td>Book 23 Hadith 148</td></tr></tbody></table></div>
 

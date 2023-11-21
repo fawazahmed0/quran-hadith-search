@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra bint 'Abdur-Rahman:Barirah went to Aisha, the mother of the faith
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] bahwa Barirah datang meminta bantuan kepada ['Aisyah Ummul Mu'minin] radliallahu 'anhu, maka 'Aisyah berkata kepadanya: "Jika tuanmu berkenan, akan kubayar mereka harga jual kamu dengan satu pembayaran (cash, kontan) lalu aku bebaskan kamu dan perwalianmu menjadi milikku". Maka Barirah menyampaikan hal ini kepada tuannya lalu mereka berkata: 'Tidak, kecuali bila perwalian kamu tetap milik kami". Malik berkata, Yahya berkata; 'Amrah menduga bahwa 'Aisyah menceritakan hal ini kepada Rasulullah shallallahu 'alaihi wasallam maka Beliau bersabda: "Kamu beli saja dia lalu bebaskanlah. Sesungguhnya perwalian menjadi milik orang yang membebaskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2564</td></tr><tr><td>Arabic No</td><td>2564</td></tr><tr><td>Reference</td><td>Book 50 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Амры бинт ‘Абдуррахман, что однажды Барира пришла к ‘Аише, матери правоверных, да будет доволен ею Аллах, и попросила её помочь ей (расплатиться с хозяевами). ‘Аиша сказала ей: «Если твои хозяева согласятся, чтобы я выплатила за тебя сразу всю необходимую сумму, и освободила тебя, то я сделаю это». Тогда Барира передала эти слова своим хозяевам, но они сказали: «Мы согласимся, только если покровительство останется за нами». Малик передал, что Яхья сказал: «‘Амра утверждала, что ‘Аиша рассказала об этом Посланнику Аллаха ﷺ, и он сказал: “Купи её и освободи, ведь право наследования имущества освобождённого принадлежит только тому, кто освободил раба”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2564</td></tr><tr><td>Arabic No</td><td>2564</td></tr><tr><td>Reference</td><td>Book 50 Hadith 5</td></tr></tbody></table></div>
 

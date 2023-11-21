@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Harith:that he heard Ibn 'Umar saying, "Weren't people for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Shalih] telah menceritakan kepada kami [Fulaih bin Sulaiman] telah menceritakan kepada kami [Sa'id bin Al Harits], bahwasanya ia mendengar [Ibnu Umar] radliallahu 'anhuma berkata; 'Bukankah mereka dilarang dari nadzar? Sebab Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya nadzar tidak bisa menyegerakan sesuatu dan tidak pula bisa menangguhkannya, hanyasanya nadzar dikeluarkan dari orang bakhil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6692</td></tr><tr><td>Arabic No</td><td>6692</td></tr><tr><td>Reference</td><td>Book 83 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что Са‘ид ибн аль-Харис слышал, как Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «А разве им не был запрещён обет? Поистине, Пророк ﷺ сказал: “Поистине, обет ничего не выдвигает вперёд, ни отодвигает назад (из предопределённого). И поистине, посредством обета вытягивают нечто из скупого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6692</td></tr><tr><td>Arabic No</td><td>6692</td></tr><tr><td>Reference</td><td>Book 83 Hadith 69</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Saud As-Sa'idi:When the helmet broke on the head of the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] telah menceritakan kepada kami [Ya'qub bin Abdurrahman Al Qari] dari [Abu Hazim] dari [Sahl bin Sa'd As Sa'idi] dia berkata; Ketika topi baja yang dikenakan Rasulullah shallallahu 'alaihi wasallam pecah hingga menyebabkan wajah beliau mengalirkan darah dan gigi geraham beliau pecah, maka Ali menyiramkan air dari perisai sedangkan Fathimah datang membersihkan wajah beliau dari darah dengan air, ketika Fathimah 'alaihas salam melihat darah semakin bertambah banyak keluar, dia mengambil potongan pelepah kurma lalu dibakarnya sampai menjadi abu, kemudian abu tersebut diletakkan pada luka Rasulullah shallallahu 'alaihi wasallam hingga darahnya berhenti keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 76 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д ас-Са‘идий сказал: «Когда шлем Посланника Аллаха ﷺ был разбит на его голове, кровь покрыла его лицо, и один из его передних зубов был сломан, ‘Али приносил в своём щите воду, а Фатыма смывала (кровь с его лица). Увидев, что вода лишь усилила кровотечение, она взяла циновку, сожгла её и приложили (золу) к ране Посланника Аллаха ﷺ, и кровь остановилась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 76 Hadith 37</td></tr></tbody></table></div>
 

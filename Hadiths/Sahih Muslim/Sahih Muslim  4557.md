@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] sedangkan redaksi hadits ini lafadznya berasal dari Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dari [Mush'ab bin Sa'd] dari [ayahnya] dia berkata, "Ada empat ayat Al Qur'an yang turun dan menyinggung tentangku; aku pernah mendapatkan sebilah pedang, lalu aku membawanya kepada Nabi shallallahu 'alaihi wasallam seraya kukatakan, 'Wahai Rasulullah, berikanlah pedang itu kepadaku sebagai ghanimah'. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Letakkanlah pedang itu pada tempat di mana kamu mengambilnya." Kemudian ayahku berdiri dan berkata, "Wahai Rasulullah, berikanlah pedang ini kepadaku sebagai ghanimah." Maka beliau bersabda: "Letakkanlah pedang itu." Rupanya ayahku tetap berdiri dan berkata, "Wahai Rasulullah, berikanlah pedang itu kepadaku, niscaya aku akan memanfaatkan dengan sebaik-baiknya." Namun Nabi shallallahu 'alaihi wasallam tetap bersabda: "Letakkanlah pedang itu pada tempat dimana kamu telah mengambilnya." Kemudian turunlah ayat berikut ini: '(Mereka menanyakan kepadamu tentang (pembagian) harta rampasan perang. Katakanlah: "Harta rampasan perang kepunyaan Allah dan Rasul...) ' (Qs. Al Anfaal:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4557</td></tr><tr><td>Arabic No</td><td>1748.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4557</td></tr><tr><td>Arabic No</td><td>1748.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 38</td></tr></tbody></table></div>
 

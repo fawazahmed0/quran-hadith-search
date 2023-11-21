@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muawiya:I heard Allah's Messenger (ﷺ) saying, "If Allah wants to do g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] Telah menceritakan kepada kami [Ibnu Wahab] dari [Yunus] dari [Ibnu Syihab] berkata, [Humaid bin Abdurrahman] berkata; aku mendengar [Mu'awiyyah] memberi khutbah untuk kami, dia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang Allah kehendaki menjadi baik maka Allah faqihkan dia terhadap agama. Aku hanyalah yang membagi-bagikan sedang Allah yang memberi. Dan senantiasa ummat ini akan tegak diatas perintah Allah, mereka tidak akan celaka karena adanya orang-orang yang menyelisihi mereka hingga datang keputusan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Arabic No</td><td>71</td></tr><tr><td>Reference</td><td>Book 3 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб (аз-Зухри) сказал:\n— Хумайд ибн ‘Абду-р-Рахман сказал:\n— Я слышал, как обращаясь к людям с проповедью, Му‘авийа, да будет доволен им Аллах, говорил: «Я слышал, как Пророк ﷺ сказал: “Аллах приводит к пониманию религии того, кому желает блага. Поистине, я только распределяю, а дарует Аллах. (Помните, что) пока не придёт веление Аллаха, тот, кто будет противостоять (членам) этой общины, никогда не причинит им вреда, если станут они исполнять веления Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Arabic No</td><td>71</td></tr><tr><td>Reference</td><td>Book 3 Hadith 13</td></tr></tbody></table></div>
 

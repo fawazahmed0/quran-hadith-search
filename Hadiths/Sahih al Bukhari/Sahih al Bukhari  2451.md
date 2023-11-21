@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'idi:A drink (milk mixed with water) was brought to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Hazim bin Dinar] dari [Sahal bin Sa'ad As-Sa'idiy radliallahu 'anhu] bahwa kepada Rasulullah shallallahu 'alaihi wasallam disuguhkan minuman, lalu Beliau meminumnya sementara disamping kanan Beliau ada seorang anak kecil sedangkan di sebelah kiri Beliau ada para orang-orang tua. Maka Beliau berkata, kepada anak kecil itu: "Apakah kamu mengizinkan aku untuk memberi minuman ini kepada mereka?" Anak kecil itu berkata: "Demi Allah, tidak wahai Rasulullah, aku tidak akan mendahulukan seorangpun daripadaku selain anda". Maka Beliau memberikan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 46 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сахля ибн Са‘да ас-Са‘идия, да будет доволен им Аллах, что (однажды) Посланнику Аллаха ﷺ принесли чашу, и он отпил из неё. (В это время) справа от него сидел мальчик, а слева от него (сидели) старцы, и Пророк ﷺ сказал (этому мальчику): “Позволишь ли ты мне передать это старцам?” Мальчик ответил: “Нет, клянусь Аллахом, о Посланник Аллаха! Я никому не уступлю того, что досталось мне от тебя!” — и Посланник Аллаха ﷺ передал (чашу) ему в руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 46 Hadith 12</td></tr></tbody></table></div>
 

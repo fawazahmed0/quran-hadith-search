@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha;:Allah's Messenger (ﷺ) offered the 'Isha' prayer (and then got
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yazid] telah menceritakan kepada kami [Said] dia adalah anak dari Abu Ayyub berkata, telah menceritakan kepada saya [Ja'far bin Rabi'ah] dari ['Irak bin Malik] dari [Abu Salamah] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam senantiasa mengerjakan shalat 'Isya' kemudian shalat malam delapan raka'at dan dua raka'at dengan duduk dan dua raka'at antara dua adzan dan tidaklah Beliau pernah meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1159</td></tr><tr><td>Arabic No</td><td>1159</td></tr><tr><td>Reference</td><td>Book 19 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ совершил вечернюю молитву /‘иша/, затем совершил восемь рак‘атов, и два рак‘ата сидя. Затем он совершил два рак‘ата между азаном и икама, и он никогда не оставлял их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1159</td></tr><tr><td>Arabic No</td><td>1159</td></tr><tr><td>Reference</td><td>Book 19 Hadith 38</td></tr></tbody></table></div>
 

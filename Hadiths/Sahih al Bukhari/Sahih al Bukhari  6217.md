@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:We were with the Prophet (ﷺ) in a funeral procession, and he sta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Syu'bah] dari [Sulaiman] dan [Manshur] dari [Sa'd bin 'Ubaidah] dari [Abu Abdurrahman As Sulami] dari [Ali] radliallahu 'anhu dia berkata; "Kami pernah pergi bersama Nabi shallallahu 'alaihi wasallam di suatu Jenazah, kemudian beliau mengambil ranting yang ada di atas tanah dan bersabda: "Tidaklah seorangpun di antara kalian kecuali telah ditulis tempatnya, di neraka atau di syurga." Mereka berkata; "Wahai Rasulullah, kalau begitu kita bertawakkal saja." Beliau bersabda: "Beramallah! Karena semuanya akan dimudahkan. (Adapun orang yang memberikan (hartanya di jalan Allah) dan bertakwa)." QS Al Lail;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6217</td></tr><tr><td>Arabic No</td><td>6217</td></tr><tr><td>Reference</td><td>Book 78 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, передаёт: «Мы участвовали в похоронной процессии вместе с Пророком ﷺ и он стал чертить палкой на земле, и сказал: “Нет никого среди вас, место которого в Аду или в Раю уже не было бы определено”. (Люди) спросили: “Так не стоит ли нам (просто) положиться (на это)?” (Пророк ﷺ) сказал: “Трудитесь, ибо каждому будет облегчено [то, для чего он был создан]”. (А затем он прочитал аят:) “Что касается того, кто отдавал, и был богобоязненным” (Сура «аль-Лейль», аят 5)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6217</td></tr><tr><td>Arabic No</td><td>6217</td></tr><tr><td>Reference</td><td>Book 78 Hadith 241</td></tr></tbody></table></div>
 

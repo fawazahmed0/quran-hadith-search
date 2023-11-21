@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said:-- 'The son of Ad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] ia berkata; dan Telah menceritakan kepada kami [Abdurrazzaq] Telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah berfirman: 'Anak Adam telah mendustakan-Ku, padahal ia tidaklah mempunyai alasan sedikit pun. Dan ia juga telah mencemoohku padahal ia tidak mempunyai alasan melakukan hal itu. Ada pun kedustaanya padaku adalah ungkapannya, 'Dia tidak akan mengembalikanku sebagaimana ia telah menciptakanku pertama kali.' Padahal mencipta pertama tidak lebih mudah daripada hanya sekedar mengembalikannya. Adapun pelecehannya pada-Ku adalah ungkapannya, 'Allah telah menjadikan anak untuk diri-Nya.' Sementara Aku adalah Rabb Yang Maha Esa, Yang tidak beranak dan tidak pula diperanakkan, dan tidak ada sesuatu pun yang serupa Dengan-Ku.'" Firman Allah: "LAM YALID WALAM YUULAD, WALAM YAKUN LAHUU KUFU'AN AHAD." Kufu'an, Kafii'an dan Kifaa'an maknanya adalah satu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4975</td></tr><tr><td>Arabic No</td><td>4975</td></tr><tr><td>Reference</td><td>Book 65 Hadith 497</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Аллах сказал: “Потомок Адама обвиняет Меня во лжи, хотя у него нет на это права. (Также) он оскорбляет Меня, хотя у него нет на это права. Что касается обвинения Меня во лжи, то он говорит, что Я не верну его (к жизни) подобно тому, как Я создал его (в первый раз)”. Что же касается оскорбления им Меня, то он говорит: “Аллах взял (Себе) ребёнка!”, но Я — Единственный, Самодостаточный. Я не родил и не был рождён! И нет никого, равного Мне”. “Он не родил и не был рожден, и нет никого равного Ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4975</td></tr><tr><td>Arabic No</td><td>4975</td></tr><tr><td>Reference</td><td>Book 65 Hadith 497</td></tr></tbody></table></div>
 

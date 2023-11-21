@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Harrah Al Ruqashi reported on the authority of his uncle” The Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Ali bin Zaid], dari [Abu Hurrah Ar Raqasyi], dari [pamannya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila kalian mengkhawatirkan nusyuz (kedurhakaan) mereka, maka tinggalkan mereka dalam tempat-tempat tidur." Hammad berkata; yaitu (tidak) bercampur dengan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2145</td></tr><tr><td>Arabic No</td><td>2145</td></tr><tr><td>Reference</td><td>Book 12 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурра ар-Рукаши передаёт от своего дяди по отцу, что Пророк ﷺ сказал: «Если вы опасаетесь их непокорности, покидайте их на супружеском ложе». (Передатчик) Хаммад сказал, что имеется в виду половая близость
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2145</td></tr><tr><td>Arabic No</td><td>2145</td></tr><tr><td>Reference</td><td>Book 12 Hadith 100</td></tr></tbody></table></div>
 

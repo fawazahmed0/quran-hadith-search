@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:That Allah's Messenger (ﷺ) said, "O 'Abdullah bin 'Amr! Wha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin 'Umar] dari [Bisyr] telah menceritakan kepada kami ['Ashim] telah menceritakan kepada kami [Waqid] dari [Bapaknya] dari [Ibnu 'Umar] atau [Ibnu 'Amru], bahwa Nabi shallallahu 'alaihi wasallam menganyam jemarinya." [Ashim bin 'Ali] berkata, telah menceritakan kepada kami ['Ashim bin Muhammad] berkata, aku mendengar hadits ini dari bapakku, tapi aku tidak hafal. Lalu [Waqid] mengingatkan aku dari [Bapaknya] ia berkata; aku mendengar [Bapakku] ia berkata; ['Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai 'Abdullah bin 'Amru, mengapa jika kamu bersama orang-orang lemah itu kamu berbuat begini?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>480</td></tr><tr><td>Arabic No</td><td>480</td></tr><tr><td>Reference</td><td>Book 8 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн ‘Амр) сказал: «(Однажды) Посланник Аллаха ﷺ сказал (мне): “О ‘Абдуллах ибн ‘Амр, каково будет тебе, когда из людей останутся те, в ком нет блага?!”» (И он передал) этот же (хадис, где сказано, что он переплёл пальцы)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>480</td></tr><tr><td>Arabic No</td><td>480</td></tr><tr><td>Reference</td><td>Book 8 Hadith 127</td></tr></tbody></table></div>
 

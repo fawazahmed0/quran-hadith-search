@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once the Prophet (p.b.u.h) led the fear prayer and the peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih] berkata, telah menceritakan kepada kami [Muhammad bin Harb] dari [Az Zubaidi] dari [Az Zuhri] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] dari [Ibnu 'Abbas] radliallahu 'anhuma, berkata, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat dan diikuti sekelompok orang bersamanya. Beliau lalu bertakbir dan mereka pun bertakbir bersama beliau. Kemudian beliau rukuk dan orang-orang yang bersamanya ikut rukuk. Kemudian beliau sujud dan orang-orang yang bersamanyanya pun sujud. Kemudian beliau berdiri untuk rakaat kedua, maka orang-orang yang sujud bersama beliau berdiri dan berjaga-jaga untuk saudara mereka. Kemudian datanglah sekelompok yang lain (yang sebelumnya berjaga dan belum shalat), mereka lalu rukuk dan sujud bersama beliau. Dan masing-masing orang melanjutkan shalat mereka namun dengan tetap berjaga-jaga satu sama lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>944</td></tr><tr><td>Arabic No</td><td>944</td></tr><tr><td>Reference</td><td>Book 12 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ встал (на молитву), и люди встали вместе с ним; он произнес слова такбира, и они тоже произнесли; затем он совершил поясной поклон, и часть людей совершили поклон вместе с ним; затем он совершил земной поклон, и они тоже совершили земной поклон; затем он встал на второй рак‘ат, и те, которые совершили земной поклон, тоже встали и стали охранять своих братьев, вышла другая (вторая) группа (молящихся) и совершили поясной и земные поклоны вместе с ним. Так все люди были в молитве, однако они охраняли друг друга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>944</td></tr><tr><td>Arabic No</td><td>944</td></tr><tr><td>Reference</td><td>Book 12 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Kurz: I heard the Prophet (nay peace be upon him) say: Let the bird
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari ['Ubaidullah bin Abu Yazid], dari [ayahnya] dari [Siba' bin Tsabit], dari [Ummu Kurz], ia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam berkata: "Biarkan burung berada pada tempatnya!" Aisyah berkata; dan saya mendengar beliau berkata: "Untuk anak laki-laki dua kambing yang sama dan untuk anak perempuan satu kambing tidak bermasalah bagi kalian apakah jantan atau betina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2835</td></tr><tr><td>Arabic No</td><td>2835</td></tr><tr><td>Reference</td><td>Book 16 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Курз, да будет доволен ею Аллах: «Я слышала, как Пророк ﷺ сказал: “Позвольте птицам спокойно сидеть в их гнёздах”». Она сказала: «И я слышала, как (Посланник Аллаха ﷺ) сказал: “За мальчика режутся две овцы, а за девочку одна, и неважно, барана резать или овцу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2835</td></tr><tr><td>Arabic No</td><td>2835</td></tr><tr><td>Reference</td><td>Book 16 Hadith 48</td></tr></tbody></table></div>
 

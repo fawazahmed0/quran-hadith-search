@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "Cut the moustaches short and l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] telah mengabarkan kepada kami [Abdah] telah mengabarkan kepada kami [Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Cukurlah kumis kalian dan biarkanlah jenggot kalian (panjang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5893</td></tr><tr><td>Arabic No</td><td>5893</td></tr><tr><td>Reference</td><td>Book 77 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Подстригайте усы и отпускайте бороды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5893</td></tr><tr><td>Arabic No</td><td>5893</td></tr><tr><td>Reference</td><td>Book 77 Hadith 110</td></tr></tbody></table></div>
 

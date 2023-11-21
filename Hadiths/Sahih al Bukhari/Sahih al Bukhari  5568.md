@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:that once he was not present (at the time of 'Id-al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Sulaiman] dari [Yahya bin Sa'id] dari [Al Qasim] bahwa [Ibnu Khabbab] mengabarkan kepadanya, dia pernah mendengar [Abu Sa'id] bercerita bahwa suatu ketika dia pernah datang dari suatu perjalanan, lalu beberapa potong daging di hidangkan di hadapannya, keluarganya berkata; "Ini adalah sisa dari daging kurban kita." Maka Abu Sa'id berkata; "Singkirkanlah, sebab aku tidak mau memakannya." Abu Sa'id melanjutkan, setelah itu aku berdiri dan pergi menemui saudaraku yaitu Abu Qatadah -dia adalah saudara seibu dan salah seorang ahli Badr- lalu aku menceritakan hal itu kepadanya, Abu Qatadah menjawab; "Sesungguhnya telah terjadi pula peristiwa seperti yang kamu alami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5568</td></tr><tr><td>Arabic No</td><td>5568</td></tr><tr><td>Reference</td><td>Book 73 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Хаббаба, что, когда Абу Са’ид вернулся из путешествия, ему поднесли мясо и сказали: «Это мясо наших жертвоприношений». Он сказал: «Уберите это, я не буду есть это». Абу Са’ид сказал: «Затем я встал и отправился к своему брату Абу Катаде, (который был его братом по материнской линии и был участником битвы при Бадре), и рассказал ему обо всём, на что он сказал: “После твоего отъезда Пророк ﷺ издал приказ, (отменяющий запрет на употребление жертвоприношений через три дня)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5568</td></tr><tr><td>Arabic No</td><td>5568</td></tr><tr><td>Reference</td><td>Book 73 Hadith 24</td></tr></tbody></table></div>
 

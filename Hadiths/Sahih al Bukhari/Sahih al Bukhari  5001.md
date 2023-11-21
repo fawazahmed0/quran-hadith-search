@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Alqama:While we were in the city of Hims (in Syria), Ibn Mas'ud recite
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] ia berkata; Suatu ketika, kami berada di Himsh, lalu Ibnu Mas'ud membaca surat Yusuf. Kemudian seorang laki-laki berkata, "Bacaan surat ini diturunkan tidaklah seperti itu." [Ibnu Mas'ud] berkata, "Aku telah membacanya di hadapan Rasulullah shallallahu 'alaihi wasallam, lalu beliau bersabda: 'Bacaanmu adalah benar.'" Dan ternyata Ibnu Mas'ud mendapatkan bau khamer dari mulut laki-laki itu, maka ia pun langsung berkata, "Apakah kamu akan menggabungkan antara pendustaan atas Allah dan meminum khamer." Setelah itu, ia pun menegakkan hukuman padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 66 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама, да помилует его Аллах Всевышний, сказал:\n— (Однажды,) когда мы находились в Химсе, Ибн Мас‘уд прочитал суру «Йусуф», и один человек воскликнул: «Она была ниспослана не так!» (На это Ибн Мас‘уд) сказал: «Я читал её самому Посланнику Аллаха ﷺ и он сказал: “Хорошо!”» А потом (Ибн Мас‘уд) почувствовал (исходящий от этого человека) запах вина и воскликнул: «Так ты не только возводишь ложь на Книгу Аллаха, но ещё и пьёшь вино!» — после чего подверг его установленному наказанию /хадд
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 66 Hadith 23</td></tr></tbody></table></div>
 

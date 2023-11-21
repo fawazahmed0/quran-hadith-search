@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu-l-Minhal:My father and I went to Abi Barza Al-Aslami and my father 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami ['Auf] berkata, telah menceritakan kepada kami [Abu Al Minhal] berkata, "Aku dan bapakku pergi berangkat menemui [Abu Barzah Al Aslami], bapakku lalu berkata kepadanya, "Bagaimana Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat yang Maktubah (Wajib)?" Abu Barzah menjawab, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat Zhuhur yang kalian sebut sebagai waktu utama saat Matahari tergelincir, shalat 'Ashar ketika seseorang dari kami pulang menemui keluarganya di ujung Kota, maka matahari masih terasa panas sinarnya. Dan aku lupa apa yang dibaca beliau saat shalat Maghrib. Dan beliau lebih suka mengakhirkan pelaksanaan shalat 'Isya yang kalian sebut sebagai waktu 'Atamah, beliau tidak suka tidur sebelum 'Isya dan berbincang-bincang setelahnya. Dan beliau melaksanakan shalat Shubuh ketika salah seorang dari kami dapat mengetahui siapa yang berada di sampingnya, beliau membaca antara enam hingga seratus ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абуль-Минхаль сказал: «(Как-то) я отправился вместе со своим отцом к Абу Барзе аль-Аслями, да будет доволен им Аллах, и мой отец сказал ему: “Расскажи нам о том, как Посланник Аллаха ﷺ совершал обязательные молитвы?” (Абу Барза) сказал: “Обычно он совершал полуденную молитву, — а это та, которую вы называете первой (молитвой), — когда солнце начинало клониться в сторону заката. И он совершал послеполуденную (молитву в то время), после которой некоторые из нас возвращались к своим семьям в самой дальней (окраине) Медины, когда солнце ещё припекало”».\n(Абуль-Минхаль сказал): «И я забыл, что (Абу Барза) сказал относительно закатной молитвы».\n(Абу Барза) сказал: «И он любил откладывать вечернюю молитву».\n(Абу Барза также) сказал: «Он не любил спать до неё и разговаривать после неё. И обычно (Пророк ﷺ) завершал утреннюю молитву в то время, когда каждый из нас мог разглядеть (лицо) своего соседа, и (во время этой молитвы) он прочитывал от шестидесяти до ста аятов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
 

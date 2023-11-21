@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:I heard the Prophet (ﷺ) saying (or the Prophet (ﷺ) said), "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hajjaj bin Minhal] telah bercerita kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku ['Adiy bin Tsabit] berkata, aku mendengar [Al Bara' radliallahu 'anhu] berkata, aku mendengar Nabi shallallahu 'alaihi wasallam, atau dia berkata, Nabi shallallahu 'alaihi wasallam telah bersabda: "Kaum Anshar, tidak ada yang mencintai mereka kecuali orang beriman dan tidak ada yang membenci mereka kecuali orang munafiq. Barangsiapa yang mencintai mereka Allah akan mencintainya dan siapa yang membenci mereka Allah pun akan membencinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3783</td></tr><tr><td>Arabic No</td><td>3783</td></tr><tr><td>Reference</td><td>Book 63 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Бара, да будет доволен им Аллах, что Пророк ﷺ сказал: «Только верующий любит ансаров, и только лицемер ненавидит их, и (поэтому) Аллах полюбит того, кто любит их, а того, кто их ненавидит, Аллах возненавидит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3783</td></tr><tr><td>Arabic No</td><td>3783</td></tr><tr><td>Reference</td><td>Book 63 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The water from as-Suqya' was considered sweetest
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Abdullah bin Muhammad An Nufaili] dan [Qutaibah bin Sa'id] mereka berkata; telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Hisyam] dari [Ayahnya] dari [Aisyah] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam diberi air tawar dari mata air Suqya." Qutaibah berkata, "Yaitu mata air yang berjarak dua hari dari Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Пророку ﷺ (иногда) привозили хорошую воду из Буйут-ас-Сукйа. По словам Кутайбы, речь идёт об источнике, который находился в двух днях пути от Медины
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
 

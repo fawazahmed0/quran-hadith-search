@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl ibn Hanzaliyyah: Uyaynah ibn Hisn and Aqra' ibn Habis came to the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada Kami [Miskin], telah menceritakan kepada Kami [Muhammad bin Al Muhajir], dari [Rabi'ah bin Yazid] dari [Abu Kabsyah As Saluli], telah menceritakan kepada Kami [Sahl bin Al Hanzhalah], ia berkata; 'Uyainah bin Hishn dan Al Aqra' bin Habis datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan meminta kepada beliau. Kemudian beliau memerintahkan agar keduanya diberi apa yang mereka minta dan memerintahkan kepada Mu'awiyah agar menuliskan untuk mereka apa yang mereka minta. Adapun Al Aqra' maka ia mengambil catatannya dan melipatnya pada surbannya dan pergi, adapun 'Uyainah maka ia mengambil catatannya dan datang kepada Nabi shallallahu 'alaihi wasallam di tempatnya, dan berkata; wahai Rasulullah, apakah anda berpendapat saya akan membawa sebuah catatan kepada kaumku yang tidak saya ketahui apa isinya, seperti selembar kertas Al Mutalammis? Kemudian Mu'awiyah memberitahukan perkataannya tersebut kepada Rasulullah shallAllahu wa'alaihi wa sallam, kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang meminta-minta sementara ia memiliki sesuatu yang mencukupinya maka sesungguhnya ia memperbanyak api Neraka." An Nufaili pada tempat yang lain berkata; bara Neraka Jahannam. Kemudian mereka berkata; wahai Rasulullah, apa yang mencukupinya? -An Nufaili berkata pada tempat yang lain; apakah kecukupan yang tidak layak karenanya untuk meminta-minta? - Beliau bersabda: "Seukuran sesuatu yang dapat memberinya makan siang dan malam." An Nufaili berkata pada tempat yang lain; ia kenyang satu hari semalam, atau semalam dan sehari. Ia menceritakan kepada Kami secara ringkas sesuai dengan lafazh yang telah Kami sebutkan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается, что Сахль ибн аль-Ханзалийя, да будет доволен им Аллах, рассказывал: «Однажды при жизни Посланника Аллаха ﷺ к нему приехали ‘Уяйна ибн Хисн и аль-Акра‘ ибн Хабис. Они обратились к нему с просьбами, и он велел дать им то, о чём они просят. Он велел Му‘авии записать для них то, о чём они просят. Аль-Акра‘ взял свиток, свернул его, положил в чалму и отправился в путь. А ‘Уяйна пришёл к Пророку ﷺ и сказал: “О Мухаммад! Неужели я должен нести своему народу свиток, о котором сам я не знаю, что в нём написано, словно это грамота Муталяммиса?!” Му‘авия передал его слова Посланнику Аллаха ﷺ и Посланник Аллаха ﷺ сказал: “Кто просит, имея достаточно, тот просит добавить ему Огня (или: углей Геенны)!” Люди спросили: “О Посланник Аллаха! А чего ему достаточно: (или: а что значит иметь достаточно)?” Он ответил: “Это значит иметь обед и ужин (или: иметь столько, чтобы быть сытым в течение дня и ночи или ночи и дня)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:I saw that during the time of the Messenger of Allah (ﷺ) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] ia berkata, "Pada masa Rasulullah shallallahu 'alaihi wasallam aku lihat orang-orang dipukul jika membeli makanan Juzaman (tanpa ditakar dan ditimbang), kemudian menjualnya kembali, kecuali ia membawanya terlebih dahulu ke tempat tinggalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6852) Sahih Muslim (1527)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3498</td></tr><tr><td>Arabic No</td><td>3498</td></tr><tr><td>Reference</td><td>Book 24 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Я видел, как во времена Посланника Аллаха ﷺ людей били за то, что они покупали съестное оптом и продавали его до того, как относили его к своему месту»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6852) Sahih Muslim (1527)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3498</td></tr><tr><td>Arabic No</td><td>3498</td></tr><tr><td>Reference</td><td>Book 24 Hadith 83</td></tr></tbody></table></div>
 

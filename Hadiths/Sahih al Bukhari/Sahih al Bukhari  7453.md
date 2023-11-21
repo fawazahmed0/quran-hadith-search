@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When Allah created the creat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] radliyallahu'anhu, "Rasulullah Shallallahu'alaihiwasallam bersabda: "Tatkala Allah menetapkan penciptaan, Dia menulis di sisi-Nya di atas arsy-Nya 'Sesungguhnya rahmat-Ku lebih mendominasi kemurkaan-Ku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7453</td></tr><tr><td>Arabic No</td><td>7453</td></tr><tr><td>Reference</td><td>Book 97 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда Аллах завершил сотворение, Он написал надпись, которая находится у Него над Троном Его: “Поистине, Моя милость опережает Мой гнев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7453</td></tr><tr><td>Arabic No</td><td>7453</td></tr><tr><td>Reference</td><td>Book 97 Hadith 79</td></tr></tbody></table></div>
 

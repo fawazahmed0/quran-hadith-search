@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Asma bint 'Abî Bakr (que Dieu soit satisfait d'elle), une femme vint t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Sa'id Ad Darimi]; Telah mengabarkan kepada kami [Habban]; Telah menceritakan kepada kami [Wuhaib]; Telah menceritakan kepada kami [Manshur] dari [Ibunya] dari [Asma' binti Abu Bakr] bahwa seorang wanita menemui Nabi shallallahu 'alaihi wasallam seraya berkata; "Sesungguhnya aku telah menikahkan anak perempuanku, namun rambutnya pada rontok, sedangkan suaminya tidak tahan melihatnya dan ingin memperbaikinya, maka bolehkah aku menyambung rambutnya ya Rasulullah? Kemudian beliau melarangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5567</td></tr><tr><td>Arabic No</td><td>2122.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5567</td></tr><tr><td>Arabic No</td><td>2122.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 177</td></tr></tbody></table></div>
 

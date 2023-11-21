@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Um Salama:The Prophet (ﷺ) woke up and said, "Glorified be Allah: What great (h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3599</td></tr><tr><td>Arabic No</td><td>3599</td></tr><tr><td>Reference</td><td>Book 61 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, сказала: «(Однажды ночью) Пророк ﷺ проснулся и воскликнул: “Преславен Аллах! /Cубхана-Ллах!/ Какие сокровищницы были открыты сегодня ночью и какие смуты были ниспосланы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3599</td></tr><tr><td>Arabic No</td><td>3599</td></tr><tr><td>Reference</td><td>Book 61 Hadith 107</td></tr></tbody></table></div>
 

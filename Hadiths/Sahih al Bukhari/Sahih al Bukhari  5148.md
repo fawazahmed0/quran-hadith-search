@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:'Abdur Rahman bin 'Auf married a woman and gave her gold equal to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Abdul Aziz bin Shuhaib] dari [Anas] bahwa Abdurrahman bin Auf menikahi seorang wanita dengan mahar berupa Wazn Nawat (butiran emas), lalu Nabi shallallahu 'alaihi wasallam menyaksikan pesta walimahan yang penuh keceriaan, maka Abdurrahman pun berkata, "Sesungguhnya aku telah menikahi seorang wanita dengan mahar satu ons emas." Dan dari [Qatadah] dari [Anas] bahwasanya; Abdurrahman bin Auf menikahi seorang wanita dengan mahar satu ons emas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5148</td></tr><tr><td>Arabic No</td><td>5148</td></tr><tr><td>Reference</td><td>Book 67 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас рассказывал, что, когда ‘Абдуррахман ибн ‘Ауф женился на женщине, подарив ей золото, равное по весу (финиковой) косточке, Пророк ﷺ заметил признаки радости брака (на его лице) и спросил его об этом, а он сказал: «Поистине, я женился на женщине, подарив ей золото, равное по весу (финиковой) косточке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5148</td></tr><tr><td>Arabic No</td><td>5148</td></tr><tr><td>Reference</td><td>Book 67 Hadith 83</td></tr></tbody></table></div>
 

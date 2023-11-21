@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Aiyub Al-Ansari:A man said, "O Allah's Messenger (ﷺ)! Inform me o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku [Ibnu Utsman] dia berkata; saya mendengar [Musa bin Thalhah] dari [Abu Ayyub] dia berkata; beliau (Nabi) pernah di tanya; "Wahai Rasulullah, beritahukanlah kepadaku suatu amalan yang dapat memasukkanku ke surga." Dan telah menceritakan kepadaku [Abdurrahman bin Bisyr] telah menceritakan kepada kami [Bahz bin Asad] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Ibnu Utsman bin Abdullah bin Mauhab] dan ayahnya [Utsman bin Abdullah] bahwa keduanya mendengar [Musa bin Thalhah] dari [Abu Ayyub Al Anshari] radliallahu 'anhu bahwa seorang laki-laki berkata; "Wahai Rasulullah, beritahukanlah kepadaku suatu amalan yang dapat memasukkanku ke surga." Orang-orang pun berkata; "Ada apa dengan orang ini, ada apa dengan orang ini." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Biarkanlah urusan orang ini." Lalu Nabi shallallahu 'alaihi wasallam melanjutkan sabdanya: "Kamu beribadah kepada Allah dan tidak menyekutukannya, menegakkan shalat, dan membayar zakat serta menjalin tali silaturrahmi." Abu Ayyub berkata; "Ketika itu beliau berada di atas kendaraannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5983</td></tr><tr><td>Arabic No</td><td>5983</td></tr><tr><td>Reference</td><td>Book 78 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Аййуба аль-Ансари, да будет доволен им Аллах , что (как-то раз) один человек (попросил Пророка ﷺ): «О Посланник Аллаха, назови мне такое дело, которое поможет мне попасть в Рай». (Люди) стали говорить: «Что с ним, что с ним?» — а Посланник Аллаха ﷺ сказал: «Он хочет (узнать о том, что ему необходимо)!» Затем Пророк ﷺ сказал: «Поклоняйся Аллаху и не придавай ему сотоварищей, совершай молитву, выплачивай закят и поддерживай родственные связи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5983</td></tr><tr><td>Arabic No</td><td>5983</td></tr><tr><td>Reference</td><td>Book 78 Hadith 14</td></tr></tbody></table></div>
 

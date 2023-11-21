@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:I placed water for the bath of the Prophet (ﷺ) and screened h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami [Abu Hamzah] berkata, aku mendengar [Al A'masy] dari [Salim bin Abu AL Ja'di] dari [Kuraib] dari [Ibnu 'Abbas] berkata, telah berkata, [Maimunah radliallahu 'anhu.]: "Aku memberi air untuk mandi kepada Nabi shallallahu 'alaihi wasallam. lalu aku tutupi Beliau dengan kain. Maka Beliau menuangkan air ke tangannya lalu mencuci keduanya. Kemudian menuangkan air dengan tangan kanannya ke tangan kirinya lalu mencuci kemaluannya, lalu tangannya dipukulkannya ke tanah kemudian mengusapnya lalu mencucinya. Kemudian berkumur-kumur dan memasukkan air ke hidung. Kemudian membasuh mukanya dan kedua lengannya lalu mengguyur kepalanya lalu menyiram seluruh badannya dan diakhiri dengan mencuci kedu telapak kaikinya. Lalu aku sodorkan kain (sebagai pengering) tapi Beliau tidak mengambilnya, lalu Beliau pergi dengan mengeringkan air dari badannya dengan tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>276</td></tr><tr><td>Arabic No</td><td>276</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что (жена Пророка ﷺ) Маймуна, да будет доволен ею Аллах, сказала: «(Однажды) я поставила для Пророка ﷺ воду для (совершения) полного омовения и прикрыла его одеждой. Он налил её на свои руки и помыл их. Затем он налил (воду) правой рукой на левую и помыл свои половые органы. После этого он ударил рукой о землю, вытер её о неё и помыл её, и затем прополоснул рот и нос. (Затем) он умыл своё лицо и руки до локтей, затем налил (воду) на голову, после чего налил воду на своё тело и затем отошёл в сторону и помыл ноги. Затем я передала ему одежду, но он не взял её и удалился, стряхивая (капли воды) руками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>276</td></tr><tr><td>Arabic No</td><td>276</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
 

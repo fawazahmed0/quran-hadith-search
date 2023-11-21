@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl (que Dieu l'agrée), J'ai entendu le Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5968</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хазима, который сказал: Я слышал, как Сахль сказал: «Я слышал, как Пророк ﷺ сказал: “Я первым из вас (окажусь) у водоёма; и кто придет к нему, тот сможет испить из него; а кто выпит из него, тот никогда не почувствует жажды. Ко мне непременно придут люди, которых я знаю, и они знают меня, и тогда разъединят между мной и ними”».Абу Хазим сказал: «Ан-Ну‘ман ибн абу ‘Айаяш услышал, когда я рассказывал им этот хадис, и спросил: “Именно так ты услышал, когда рассказывал Сахль?” И я ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5968</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

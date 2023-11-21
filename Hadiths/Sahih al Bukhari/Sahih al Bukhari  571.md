@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Juraij from Nafi':'Abdullah bin 'Umar said, "Once Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] -yaitu Ibnu Ghailan- berkata, telah mengabarkan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepadaku [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Nafi'] berkata, telah menceritakan kepada kami ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam pernah suatu malam disibukkan dengan urusan sehingga mengakhirkan shalat 'Isya. Dan karenanya kami tertidur di dalam masjid. Lalu kami terbangun, lalu tertidur, lalu terbangun lagi hingga akhirnya Rasulullah shallallahu 'alaihi wasallam keluar menemui kami seraya bersabda: "Tidak ada seorangpun dari penduduk bumi yang menunggu shalat seperti ini selain kalian." Dan Ibnu 'Umar tidak mempermasalahkan apakah Beliau memajukannya atau mengakhirkan. Pelaksanakaannya. Dan Ibnu Umar tidur dahulu sebelum shalat Isya. [Ibnu Juraij] berkata, "Aku bertanya kepada ['Atha'], lalu dia berkata, "Aku mendengar [Ibnu 'Abbas] berkata, "Pernah suatu malam Rasulullah shallallahu 'alaihi wasallam mengakhirkan shalat 'Isya hingga banyak orang tertidur, kemudian mereka terbangun, lalu tertidur lagi, kemudian terbangun lagi." 'Umar bin Al Khaththab lalu berdiri dan berkata, "Shalat." 'Atha' berkata, Ibnu 'Abbas, "Maka Nabi shallallahu 'alaihi wasallam kemudian keluar dengan meletakkan tangan pada kepala, seakan aku melihat rambut beliau basah meneteskan air. Beliau kemudiaan bersabda: "Seandainya tidak memberatkan ummatku, niscaya aku akan perintahkan mereka melaksanakan shalat 'Isya seperti waktu sekarang ini." Aku (Ibnu Juraij) kemudian menanyakan kepada 'Atha untuk memastikan kenapa Nabi shallallahu 'alaihi wasallam meletakkan tangannya di kepalanya seabgaimana yang diberitakan oleh Ibnu 'Abbas. Maka 'Atha merenggangkan sedikit jari-jarinya kemudian meletakkan ujung jarinya di atas sisi kepala, kemudian ia menekannya sambil menggerakkan ke sekeliling kepala hingga ibu jarinya menyentuh ujung telinga yang dimulai dari pelipis hingga pangkal jenggot. Dia melakukannya tidak pelan juga tidak cepat, kecuali sedang seperti itu. Lalu Beliau bersabda: "Seandainya tidak memberatkan ummatku, niscaya aku akan perintahkan mereka melaksanakan shalat seperti waktu sekarang ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>571</td></tr><tr><td>Arabic No</td><td>571</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Джурейдж сказал:\n— Однажды я спросил у ‘Атаъ (ибн Абу Рабаха) и он сказал:\n— Я слышал, как Ибн ‘Аббас, да будет доволен Аллах ими обоими, говорил: «(Однажды) ночью Посланник Аллаха ﷺ откладывал вечернюю молитву до тех пор, пока люди не заснули и затем проснулись. Затем они опять заснули и снова проснулись, после чего ‘Умар (ибн аль-Хаттаб) встал и сказал: “Молитва!”»\n‘Атаъ сказал:\n— Ибн ‘Аббас сказал: «У меня перед глазами и сейчас стоит вышедший (к людям) Пророк ﷺ. С его головы, на которую он положил руку, капала вода, и он сказал: “Если бы не было это (слишком) тяжело для (членов) моей общины, я обязательно повелел бы им совершать эту молитву именно так!”»\nИ Ибн ‘Аббас рассказал, как именно Пророк ﷺ положил руку себе на голову (, а передатчик этого хадиса показал это, сначала) несколько растопырив пальцы, а потом дотронувшись их кончиками до своей головы сбоку. Потом он соединил их и провёл ими по голове, коснувшись большим пальцем мочки уха там, где она примыкает к виску и бороде, и при этом он не медлил и не спешил
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>571</td></tr><tr><td>Arabic No</td><td>571</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
 

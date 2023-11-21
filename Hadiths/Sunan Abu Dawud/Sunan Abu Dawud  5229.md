@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah: AbuMijlaz said: Mu'awiyah went out to Ibn az-Zubayr and Ibn 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Habib bin Asy Syahid] dari [Abu Miljaz] ia berkata, "Mu'awiyah pergi menemui Ibnu Az Zubair dan Ibnu Amir, Ibnu Amir lalu berdiri sementara Ibnu Az Zubair tetap duduk. [Mu'awiyah] lalu berkata kepada Ibnu Amir, "Duduklah, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa senang melihat orang lain berdiri karenanya, maka hendaklah ia menempati tempat duduknya di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5229</td></tr><tr><td>Arabic No</td><td>5229</td></tr><tr><td>Reference</td><td>Book 43 Hadith 457</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5229</td></tr><tr><td>Arabic No</td><td>5229</td></tr><tr><td>Reference</td><td>Book 43 Hadith 457</td></tr></tbody></table></div>
 

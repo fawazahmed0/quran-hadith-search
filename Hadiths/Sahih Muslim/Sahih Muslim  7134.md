@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) said that Allah, the Exalted and Gl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata: Telah menceritakan kepada kami [Abu Mu'awiyah]. Telah menceritakan kepada kami [Ibnu Numair], teks miliknya, telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Allah 'azza wajalla berfirman: 'Aku telah menyiapkan sesuatu yang belum pernah dilihat mata, belum pernah didengar telinga dan tidak pernah terlintas dibenak manusia untuk hamba-hambaKu yang shalih.' Sebagai simpanan, biarkan apa yang diperlihatkan Allah pada kalian." Setelah itu beliau membaca: "Tak seorangpun mengetahui berbagai nikmat yang menanti, yang indah dipandang." (As Sajdah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7134</td></tr><tr><td>Arabic No</td><td>2824.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7134</td></tr><tr><td>Arabic No</td><td>2824.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 5</td></tr></tbody></table></div>
 

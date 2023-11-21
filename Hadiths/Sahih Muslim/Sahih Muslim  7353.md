@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdoullâh (رضي الله عنهما), Muhammad Ibn Al-Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Ambari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Sa'id bin Ibrahim] dari [Muhammad bin Al Munkadir] berkata: Aku pernah melihat [Jabir bin Abdillah] bersumpah dengan nama Allah bahwa sesungguhnya Ibnu Sha'id itu Dajjal. Lalu aku berkata: Apakah kamu bersumpah dengan nama Allah? Ia menjawab: Sungguh aku pernah mendengar Umar bersumpah atas hal itu di depan Nabi Shallallahu 'alaihi wa Salam dan beliau tidak mengingkarinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7353</td></tr><tr><td>Arabic No</td><td>2929</td></tr><tr><td>Reference</td><td>Book 54 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн аль-Мункадир сказал: «Услышав, как Джабир ибн ‘Абдуллах клянётся Аллахом, что Ибн ас-Сàид был Лжецом (ад-даджжаль), я спросил его: “Ты клянёшься (в этом) Аллахом?” (В ответ на это) он сказал: “Поистине, я слышал, как в этом же поклялся ‘Умар в присутствии Пророка ﷺ и Пророк ﷺ не стал порицать его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7353</td></tr><tr><td>Arabic No</td><td>2929</td></tr><tr><td>Reference</td><td>Book 54 Hadith 117</td></tr></tbody></table></div>
 

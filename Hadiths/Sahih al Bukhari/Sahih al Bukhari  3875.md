@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We used to greet the Prophet (ﷺ) while he used to be in pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Hammad] telah menceritakan kepada kami [Abu 'Awanah] dari [Sulaiman] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] radliallahu 'anhu berkata; Kami pernah memberi salam kepada Nabi shallallahu 'alaihi wasallam ketika beliau sedang melaksanakan shalat, lalu beliau menjawab salam kami. Dan ketika kami kembali dari negeri raja an Najasyi, kami pun kembali memberi salam namun kali ini beliau tidak menjawab salam kami. Maka kami tanyakan hal itu; "Wahai Rasulullah, kami dahulu pernah memberi salam kepada tuan dan tuan saat itu menjawab salam kami". Beliau menjelaskan: "Sesungguhnya dalam shalat itu ada kesibukan (konsentrasi) ". Aku bertanya kepada Ibrahim; "Kalau anda apa yang akan anda perbuat?" Dia menjawab; "Aku menjawabnya dalam hati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3875</td></tr><tr><td>Arabic No</td><td>3875</td></tr><tr><td>Reference</td><td>Book 63 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «(Сначала,) когда мы приветствовали Пророка ﷺ в то время, как он совершал молитву, он отвечал нам, но после того, как мы вернулись от Наджаши и обратились к нему с приветствием (во время молитвы), он не ответил нам. Мы сказали: “О Посланник Аллаха, раньше, когда мы приветствовали тебя (во время молитвы), ты отвечал нам”. Он ответил: “Поистине, молитва занимает (человека)”». \nОдин из передатчиков хадиса сказал: «Я спросил Ибрахима: “А как поступаешь ты?” Он ответил: “Я отвечаю про себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3875</td></tr><tr><td>Arabic No</td><td>3875</td></tr><tr><td>Reference</td><td>Book 63 Hadith 100</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) used to offer prayer at night (for such a long 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Abdul Aziz] Telah menceritakan kepada kami [Abdullah bin Yahya] Telah mengabarkan kepada kami [Haiwah] dari [Abu Al Aswad] dia mendengar [Urwah] dari [Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat malam hingga kaki beliau bengkak-bengkak. Aisyah berkata: Wahai Rasulullah, kenapa Anda melakukan ini padahal Allah telah mengampuni dosa anda yang telah berlalu dan yang akan datang? Beliau bersabda: "Apakah aku tidak suka jika menjadi hamba yang bersyukur?" Dan tatkala beliau gemuk, beliau shalat sambil duduk, apabila beliau hendak ruku' maka beliau berdiri kemudian membaca beberapa ayat lalu ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4837</td></tr><tr><td>Arabic No</td><td>4837</td></tr><tr><td>Reference</td><td>Book 65 Hadith 358</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала, что обычно Пророк Аллаха ﷺ выстаивал молитвы ночью (так долго), что даже трескались его стопы. Однажды она спросила его: «Зачем ты делаешь это, о Посланник Аллаха ﷺ, ведь тебе прощены твои прошлые и будущие грехи?» Он ответил: «Разве мне не хочется быть благодарным рабом?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4837</td></tr><tr><td>Arabic No</td><td>4837</td></tr><tr><td>Reference</td><td>Book 65 Hadith 358</td></tr></tbody></table></div>
 

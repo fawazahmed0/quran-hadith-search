@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais bin Ubad:'Ali said, "I will be the first to kneel before the Benef
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; Aku mendengar [Bapakku] berkata; Telah menceritakan kepada kami [Abu Mijlaz] dari [Qais bin 'Ubad] dari ['Ali bin Abu Thalib radliallahu 'anhu] dia berkata; Pada hari kiamat aku adalah orang yang pertama kali bertekuk lutut di hadapan Allah untuk sebuah perdebatan. Qais berkata; dan berkenaan dengan mereka turunlah ayat: "Inilah dua golongan (golongan mukmin dan golongan kafir) yang bertengkar, mereka saling bertengkar mengenai Rabb mereka." Qais berkata; mereka adalah orang-orang yang berperang pada hari perang Badar. Yaitu Ali, Hamzah, Ubaidah bin Harits, Syaibah bin Rabi'ah, Utbah bin Rabi'ah dan Al Walid bin Utbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4744</td></tr><tr><td>Arabic No</td><td>4744</td></tr><tr><td>Reference</td><td>Book 65 Hadith 266</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Кайса ибн ‘Убада, что ‘Али ибн Аби Талиб, да будет доволен им Аллах, сказал: «Я буду первым, кто опустится на колени пред Милостивым, дабы вести тяжбу в Судный день».\nКайс сказал: «Это о них был ниспослан аят “Вот две тяжущиеся группы, которые препирались относительно своего Господа”. Он сказал: “Это те, которые участвовали в поединках в день битвы при Бадре: ‘Али, Хамза и ‘Убайда и Шейба ибн Раби’а, ‘Утба ибн Раби’а и аль-Валид ибн Утба”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4744</td></tr><tr><td>Arabic No</td><td>4744</td></tr><tr><td>Reference</td><td>Book 65 Hadith 266</td></tr></tbody></table></div>
 

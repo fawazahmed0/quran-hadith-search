@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:It (i.e. Al-Abtah) was a place where the Prophet (ﷺ) used to c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata: "Sesungguhnya tempat yang dipergunakan Nabi shallallahu 'alaihi wasallam untuk singgah adalah yang paling mudah untuk jalan keluarnya (pulangnya), yakni di Al Abthah (Al Bathha)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1765</td></tr><tr><td>Arabic No</td><td>1765</td></tr><tr><td>Reference</td><td>Book 25 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ остановился там, где остановился (то есть в Абтахе), только для того, чтобы было легче выйти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1765</td></tr><tr><td>Arabic No</td><td>1765</td></tr><tr><td>Reference</td><td>Book 25 Hadith 241</td></tr></tbody></table></div>
 

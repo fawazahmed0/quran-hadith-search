@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Suwaid bin An-Nu'man:that while they were with the Prophet (ﷺ) at As-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad] dari [Yahya] dari [Busyair binti Yasar] dari [Suwaid bin An Nu'man] bahwa ia telah mengabarkan kepadanya bahwa mereka pernah bersama Nabi shallallahu 'alaihi wasallam di Shahba' -tempat yang berjarak semalam perjalanan Khaibar- kemudian tibalah waktu shalat. Beliau meminta makanan, namun tidak ada makanan kecuali tepung gandum, lalu beliau mengunyahnya dan kami pun ikut mengunyah bersamanya. Setelah itu, beliau meminta air dan berkumur-kumur kemudian shalat dan kami pun shalat sementara beliau tidak berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5390</td></tr><tr><td>Arabic No</td><td>5390</td></tr><tr><td>Reference</td><td>Book 70 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сувайд ибн ан-Ну‘ман рассказывал, что когда они вместе с Пророком ﷺ достигли Сахбы, расположенной поблизости от Хайбара, и настало время молитвы, Посланник Аллаха ﷺ велел принести еду, однако ничего кроме савика (походная еда быстрого приготовления, своего рода полуфабрикат. Его основу составляла пшеничная или ячменная крупа, проваренная с жиром, мёдом или финиками, которую перед употреблением увлажняли) не нашлось. Он поел его, и мы поели вместе с ним. Затем Пророк ﷺ велел принести воды, прополоскал рот и совершил с нами молитву, не совершив омовения (после савика)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5390</td></tr><tr><td>Arabic No</td><td>5390</td></tr><tr><td>Reference</td><td>Book 70 Hadith 18</td></tr></tbody></table></div>
 

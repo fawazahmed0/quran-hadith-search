@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar delivered a sermon on the pulpit of Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Raja'] telah menceritakan kepada kami [Yahya] dari [Abu Hayyan At Taimi] dari [As Sya'bi] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; [Umar] pernah berkhutbah di atas mimbar Rasulullah shallallahu 'alaihi wasallam, katanya; "Sesungguhnya telah ditetapkan keharaman khamr yaitu dari lima jenis; (perasan) anggur, tamr (minuman dari perasan kurma kering), biji gandum, tepung dan madu, sedangkan khamr adalah sesuatu yang dapat menghalangi akal (sehat), dan tiga perkara yang aku berharap Rasulullah shallallahu 'alaihi wasallam memberikan penjelasan kepada kami sebelum beliau meninggal; (hak waris) seorang kakek, al Kalalah, dan pintu-pintu riba." Asy Sya'bi berkata, "Aku berkata, "Wahai Abu Amru, bagaimana dengan perasan nabidz yang terbuat dari biji padi?" Ibnu Umar menjawab, "Itu belum pernah ada di masa Rasulullah shallallahu 'alaihi wasallam, atau ia mengatakan, "di masa Umar." [Hajjaj] menyebutkan dari [Hammad] dari [Abu Hayyan], "Anggur sama dengan kismis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5588</td></tr><tr><td>Arabic No</td><td>5588</td></tr><tr><td>Reference</td><td>Book 74 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Обращаясь к людям с минбара Посланника Аллаха ﷺ, ‘Умар сказал: “Поистине, запрет вина был ниспослан в то время, когда его делали из пяти вещей: винограда, фиников, пшеницы, ячменя и мёда; вином же /хамр/ является то, что окутывает разум. И я хотел бы, чтобы Посланник Аллаха ﷺ не расставался с нами, не оставив нам предельно ясного указания, (которым бы мы руководствовались,) относительно трёх вещей: о доле наследства деда, о том, у кого не осталось ни родителей, ни детей /каляля/ и о разных видах ростовщичества”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5588</td></tr><tr><td>Arabic No</td><td>5588</td></tr><tr><td>Reference</td><td>Book 74 Hadith 14</td></tr></tbody></table></div>
 

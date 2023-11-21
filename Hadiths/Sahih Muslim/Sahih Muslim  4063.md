@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubida b. al-Simit (Allah be pleased with him) reported Allah's Messenger (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Ibnu Abu Syaibah, [Ishaq] berkata; telah mengabarkan kepada kami, sedangkan yang dua berkata; telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] dari [Khalid Al Khaddza'] dari [Abu Qilabah] dari [Abu Al Asy'ats] dari ['Ubadah bin Shamit] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Emas dengan emas, perak dengan perak, gandum dengan gandum, jewawut dengan jewawut, kurma dengan kurma dan garam dengan garam, tidak mengapa jika dengan takaran yang sama, dan sama berat serta tunai. Jika jenisnya berbeda, maka juallah sesuka hatimu asalkan dengan tunai dan langsung serah terimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>1587.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>1587.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 102</td></tr></tbody></table></div>
 

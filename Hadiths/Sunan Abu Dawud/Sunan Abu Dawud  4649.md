@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id ibn Zayd: AbdurRahman ibn al-Akhnas said that when he was in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4649</td></tr><tr><td>Arabic No</td><td>4649</td></tr><tr><td>Reference</td><td>Book 42 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн аль-Ахнаса, что он был в мечети и один человек плохо отозвался об ‘Али. Тогда Са‘ид ибн Зейд поднялся и сказал: «Я свидетельствую, что слышал, как Посланник Аллаха ﷺ сказал: “Десять в Раю: Пророк в Раю, Абу Бакр в Раю, ‘Умар в Раю, ‘Усман в Раю, ‘Али в Раю, Тальха в Раю, аз-Зубайр ибн аль-‘Аввам в Раю, Са‘д ибн Малик в Раю и ‘Абдуррахман ибн ‘Ауф в Раю”. И если бы я захотел, то назвал бы и десятого». Люди спросили: «Кто же он?» (Са‘ид) промолчал. Люди снова спросили: «Кто же он?» Тогда он ответил: «Са‘ид ибн Зейд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4649</td></tr><tr><td>Arabic No</td><td>4649</td></tr><tr><td>Reference</td><td>Book 42 Hadith 54</td></tr></tbody></table></div>
 

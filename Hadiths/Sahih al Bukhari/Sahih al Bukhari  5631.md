@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thumama bin 'Abdullah:Anas used to breathe twice or thrice in the vesse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dan [Abu Nu'aim] keduanya berkata; telah menceritakan kepada kami [Azrah bin Tsabit] dia berkata; telah mengabarkan kepadaku [Tsumamah bin Abdullah] dia berkata; bahwa [Anas] biasa bernafas dalam tempat air minum sebanyak dua kali atau tiga kali, dan dia mengira bahwa Nabi shallallahu 'alaihi wasallam juga bernafas tiga kali (ketika minum)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5631</td></tr><tr><td>Arabic No</td><td>5631</td></tr><tr><td>Reference</td><td>Book 74 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что, когда Пророк ﷺ (пил из какого-нибудь) сосуда, он обычно делал три вдоха и выдоха
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5631</td></tr><tr><td>Arabic No</td><td>5631</td></tr><tr><td>Reference</td><td>Book 74 Hadith 57</td></tr></tbody></table></div>
 

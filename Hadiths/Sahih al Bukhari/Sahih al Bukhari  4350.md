@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Buraida:The Prophet (ﷺ) sent 'Ali to Khalid to bring the Khumus (of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Rauh bin 'Ubadah] Telah menceritakan kepada kami ['Ali bin Suaid bin Manjuf] dari ['Abdullah bin Buraidah] dari [Bapaknya] dia berkata; Rasulullah Shallallahu'alaihiwasallam mengutus 'Ali untuk menemui Khalid bin Al Walid agar mengambil seperlima harta rampasan perang. Aku adalah orang yang membenci Ali yang pada waktu itu dia sudah mandi. Lalu aku berkata kepada Khalid; 'Apa kau tidak melihat apa yang dilakukannya? Tatkala aku menemui Rasulullah Shallallahu'alaihiwasallam aku sampaikan kepada beliau perihal Ali maka beliau bersabda: "Wahai Buraidah! Apakah kau membenci 'Ali?" aku Buraidah menjawab: 'Ya.' Rasulullah Shallallahu'alaihiwasallam bersabda: "Jangan membencinya karena ia berhak mendapatkan yang lebih dari itu dari harta rampasan perang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 64 Hadith 377</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Бурайда, да будет доволен им Аллах, сказал: «Пророк ﷺ послал ‘Али к Халиду, чтобы он привёз (ему из Йемена) пятую часть военной добычи, а я ненавидел ‘Али, и после того как он совершил полное омовение, я сказал Халиду: “Не обратишь ли ты внимание на этого?” Когда же мы явились к Пророку ﷺ, я рассказал ему об этом, и он спросил: “О Бурайда, ты ненавидишь ‘Али?” Я сказал: “Да”. (Тогда Пророк ﷺ) сказал: “Не следует тебе ненавидеть его, ибо, поистине, из этой пятой части ему причитается больше (того, что он взял)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 64 Hadith 377</td></tr></tbody></table></div>
 

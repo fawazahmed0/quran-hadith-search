@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Kuraibthe freed slave of Ibn Abbas, reported:I heard it from Maimuna, the wife o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ath-Thahir] telah mengabarkan kepada kami [Ibnu Wahab] dari [Makhramah]. (dalam riwayat lain disebutkan) telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Ahmad bin Isa] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Makhramah] dari [bapaknya] dari [Kuraib] mantan budak Ibnu Abbas, dia berkata, saya mendengar [Maimunah] isteri Nabi shallallahu 'alaihi wasallam, berkata, "Rasulullah shallallahu 'alaihi wasallam berbaring bersamaku sedangkan aku dalam keadaan haid, dan antara aku dan dia ada kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>682</td></tr><tr><td>Arabic No</td><td>295</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Маймуна, супруга Посланника Аллаха ﷺ сказала: «(Обычно), когда у меня были месячные, Посланник Аллаха ﷺ лежал со мной, а между ним и мной было одеяние (изар)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>682</td></tr><tr><td>Arabic No</td><td>295</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
 

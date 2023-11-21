@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:When the Messenger of Allah(ﷺ) entered the mosque, a man als
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (757) Sahih Muslim (397)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>856</td></tr><tr><td>Reference</td><td>Book 2 Hadith 466</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что однажды, когда Посланник Аллаха ﷺ вошёл в мечеть, туда же вошёл один человек, который совершил молитву, а потом обратился с приветствием к Посланнику Аллаха ﷺ. Ответив на его приветствие, Посланник Аллаха ﷺ сказал: «Вернись и соверши молитву, ибо, поистине, ты не помолился!» Он вернулся совершил молитву так же, как и прежде, а потом опять подошёл к Пророку ﷺ и поприветствовал его, и Посланник Аллаха ﷺ сказал ему: «И тебе мир». А потом он сказал: «Вернись и соверши молитву, ибо, поистине, ты не помолился!» и это повторилось трижды. Тогда этот человек сказал: «Клянусь Тем, Кто послал тебя с истиной, я не умею совершать её иначе, научи же меня!» (Пророк ﷺ) сказал: «Когда встанешь на молитву, скажи: “Аллах Велик”, потом прочти, что сможешь, из Корана, потом соверши поясной поклон, пока не замрёшь в таком положении, потом выпрямись полностью, потом соверши земной поклон пока не замрёшь в таком положении, потом выпрямись сидя и поступай так же во время каждой своей молитвы».Абу Дауд передаёт, что в версии аль-Ка‘наби от Са‘ида ибн Абу Са‘ида аль-Макбури от Абу Хурайры имеются добавления: «…и если ты будешь поступать так, молитва твоя будет полноценной, и убавляя что-то из этого, ты убавляешь из своей молитвы» и: «Когда соберёшься совершить молитву, то тщательно соверши омовение…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (757) Sahih Muslim (397)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>856</td></tr><tr><td>Reference</td><td>Book 2 Hadith 466</td></tr></tbody></table></div>
 

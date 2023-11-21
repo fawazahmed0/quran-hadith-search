@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated An-Nu'man ibn Bashir: The Prophet (ﷺ) said: Act equally between your 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Hajib bin Al Mufadldlal bin Al Muhallab] dari [Ayahnya] ia berkata, "Aku mendengar [An Nu'man bin Basyir] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Berlakulah adil kepada anak-anakmu, berlakulah adil kepada anak-anakmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3544</td></tr><tr><td>Arabic No</td><td>3544</td></tr><tr><td>Reference</td><td>Book 24 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ан-Ну‘мана ибн Башира, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Будьте справедливы к своим детям! Будьте справедливы к своим детям!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3544</td></tr><tr><td>Arabic No</td><td>3544</td></tr><tr><td>Reference</td><td>Book 24 Hadith 129</td></tr></tbody></table></div>
 

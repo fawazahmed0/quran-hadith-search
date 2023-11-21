@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salid b. Musayyib heard Abu Huraira (Allah be pleased with him) say that 'Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abu Shafwan] dari [Yunus bin Yazid] -dalam riwayat lain- Dan telah menceritakan kepadaku [Harmalah bin Yahya] -lafazh darinya- telah mengabarkan kepada kami [Ibnu Wahb] ak [Yunus] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda tentang kota Madinah: "Nanti mereka bakal meninggalkan Madinah dalam keadaan baik sebagaimana adanya, kota itu sarat dengan binatang-binatang buas dan burung-burung pemangsa daging (bangkai)." Muslim Abu Shafwan berkata; Ini adalah Abdullah bin Abdul Malik, yakni anak Yatim Ibnu Juraij selama sepuluh tahun berada dalam asuhannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>1389.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 570</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>1389.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 570</td></tr></tbody></table></div>
 

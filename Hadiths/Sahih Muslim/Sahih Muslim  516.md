@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ An-Nu'mân Ibn Bachîr (que Dieu l'agrée) a entendu le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] dan lafazh tersebut milik Ibnu al-Mutsanna, keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, aku mendengar [Abu Ishaq] berkata, aku mendengar [an-Nu'man bin Basyir] berkhutbah, dia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang paling ringan azabnya pada Hari Kiamat ialah seorang lelaki yang diletakkan pada tapak kakinya dua biji batu dari Neraka, kemudian otaknya mendidih karena sebab panasnya keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>213.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 422</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Поистине, в День воскрешения наиболее лёгкому наказанию подвергнется тот человек из числа обитателей Огня, под ступни которого будут положены два тлеющих уголька , из-за чего мозг его станет кипеть”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>213.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 422</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi 'Aufa:We where afflicted with severe hunger on the day of Khaib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4220</td></tr><tr><td>Arabic No</td><td>4220</td></tr><tr><td>Reference</td><td>Book 64 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Ауфа, да будет доволен Аллах им и его отцом, сказал: «В дни завоевания Хайбара нас постиг голод. Когда закипели котлы (с мясом домашних ослов), а часть их уже была готовой, глашатай Пророка ﷺ провозгласил: “Не ешьте ничего из мяса ослов!” Ибн Аби Ауфа сказал: “Мы подумали, что Пророк ﷺ запретил его, потому что пятая часть этих ослов не была поделена, а другие сказали: “Он запретил есть их навсегда, потому что они ели экскременты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4220</td></tr><tr><td>Arabic No</td><td>4220</td></tr><tr><td>Reference</td><td>Book 64 Hadith 260</td></tr></tbody></table></div>
 

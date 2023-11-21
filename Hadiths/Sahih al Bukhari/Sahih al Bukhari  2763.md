@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:'Urwa bin Az-Zubair said that he asked 'Aisha about the meanin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata ['Urwah bin Az Zubair] bercerita bahwa dia pernah bertanya kepada ['Aisyah radliallahu 'anha] tentaang firman Allah QS an-Nisaa' ayat 3 yang artinya: (Dan jika kamu takut tidak akan dapat berlaku adil terhadap (hak-hak) perempuan yang yatim (bilamana kamu mengawininya), maka kawinilah wanita-wanita (lain) yang kamu senangi …). 'Aisyah menjawab: "Yang dimaksud ayat itu adalah seorang anak perempuan yatim yang berada pada asuhan walinya, lalu walinya itu tertarik dengan kecantikan dan hartanya dan berhasrat untuk mengawininya namun memberikan haknya lebih rendah dari yang biasa diberikan kepada istri-istrinya sebelumnya maka mereka dilarang menikahinya kecuali bila mereka dapat berlaku adil kepada mereka, dan mereka diperintahkan untuk menikahi wanita-wanita lain selain mereka". 'Aisyah berkata: "Kemudian orang-orang meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam setelah itu, maka Allah 'azza wajalla menurunkan firman-Nya QS an-Nisaa' ayat 126 yang artinya (dan mereka meminta fatwa kepadamu tentang para wanita. Katakanlah; Allah akan memberikan fatwa kepada kalian tentang mereka..) 'Aisyah berkata: "Maka Allah menjelaskan dalam ayat ini bahwa seorang anak yatim perempuan jika memiliki kecantikan dan harta lalu walinya berhasrat menikahinya namun tidak memberikan haknya dengan melengkapi mahar sebagaimana semestinya. Namun bila anak yatim perempuan itu tidak memiliki harta dan kecantikan mereka meninggalkannya dan mencari wanita selain mereka". Beliau bersabda: "Sebagaimana mereka tidak menyukainya disebabkan sedikit hartanya dan tidak cantik lalu meninggalkannya maka mereka juga tidak boleh menikahinya saat tertarik kecuali bila mereka dapat berlaku adil kepadanya dengan menunaikan maharnya secara wajar serta memberikan hak-haknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2763</td></tr><tr><td>Arabic No</td><td>2763</td></tr><tr><td>Reference</td><td>Book 55 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва ибн аз-Зубайр спросил ‘Аишу, да будет доволен ею Аллах, о словах Всевышнего «Если вы боитесь, что не будете справедливы к сиротам, то женитесь на других женщинах, которые нравятся вам» (сура «ан-Ниса», аят 3). Она сказала: «Речь идёт о сироте, которую воспитывает её опекун и которая делит с ним его имущество, а его привлекает её красота и богатство, и он желает жениться на ней, не соблюдая справедливость в том, что касается брачного дара, и не давая ей столько, сколько согласны дать ей другие. И им было запрещено жениться на них, если только они не станут соблюдать справедливость в том, что касается брачного дара и не дадут им предельно высокий для им подобных брачный дар. И им было велено жениться кроме них на каких они сами пожелают женщинах».\n‘Аиша сказала: «А потом люди начали спрашивать Посланника Аллаха ﷺ (о женщинах) после ниспослания того аята. И Всевышний Аллах ниспослал: «Они просят тебя вынести решение относительно женщин. Скажи: “Аллах вынесет для вас решение относительно них”» (сура «ан-Ниса», аят 127)». И она сказала: «Аллах упомянул в этом аяте, что когда сирота красива и богата, они хотели женится на ней, но не давая ей столько брачного договора, сколько согласны дать ей другие. Если же она была нежеланной, потому что она бедна и некрасива, они оставляли её и искали других женщин».\n‘Урва сказал: «Подобно тому, как он (опекун) оставляет её, когда она не привлекает его. В случае же, когда она привлекает его, он не может жениться на ней, если только он не будет обращаться с ней справедливо, дав ей полный брачный дар и обеспечив её всеми правами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2763</td></tr><tr><td>Arabic No</td><td>2763</td></tr><tr><td>Reference</td><td>Book 55 Hadith 26</td></tr></tbody></table></div>
 

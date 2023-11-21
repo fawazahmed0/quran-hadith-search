@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: One is not credited with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Abu Usamah] dari [Habib bin asy-Syahid] dia berkata, aku mendengar [Atha'] menceritakan dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Tidak sah shalat kecuali dengan membaca (al-Fatihah)." Abu Hurairah berkata, "Sesuatu yang diumumkan oleh Rasulullah, niscaya kami mengumumkannya kepada kalian. Dan sesuatu yang disembunyikan oleh Rasulullah, niscaya kami menyembunyikannya untuk kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>396.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Нет молитвы без чтения (Корана)». Абу Хурайра сказал: «Мы читаем для вас вслух тогда же, когда читал вслух нам Посланник Аллаха ﷺ, а в тех случаях, когда он при нас читал про себя, и мы читаем его про себя при вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>396.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 44</td></tr></tbody></table></div>
 

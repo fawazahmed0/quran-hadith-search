@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir bin 'Abdullah:Allah's Messenger (ﷺ) said, "Allah will not be me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Zaid bin Wahb] dan [Abu dlabyan] dari [Jarir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah tak bakalan menyayangi siapa saja yang tidak menyayangi manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7376</td></tr><tr><td>Arabic No</td><td>7376</td></tr><tr><td>Reference</td><td>Book 97 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдуллах (да будет доволен Аллах ими обоими) сказал: «Посланник Аллаха ﷺ сказал: “Не помилует Аллах того, кто сам не проявляет милосердия к людям”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7376</td></tr><tr><td>Arabic No</td><td>7376</td></tr><tr><td>Reference</td><td>Book 97 Hadith 6</td></tr></tbody></table></div>
 

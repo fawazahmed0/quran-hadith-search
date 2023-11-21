@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When there is a call to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Bapakku] dari [Yahya bin Abi Katsir] telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah radhiyallahu'anhu] telah menceritakan kepada mereka bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, "Apabila adzan dikumandangkan, maka setan berpaling, dia memiliki kentut hingga dia tidak mendengar adzan tersebut. Dan apabila adzan tersebut selesai, maka dia maju menghadap. Apabila diiqamatkan shalat, maka dia berpaling. Dan apabila iqamah selesai dikumandangkan maka dia menghadang, melintas di antara seseorang dan nafsunya. Di berkata, 'Ingatlah demikian dan ingatlah demikian untuk sesuatu yang sebelumnya dia tidak mengingatnya, hingga laki-laki tersebut senantiasa tidak mengetahui berapa rakaat dia shalat. Maka apabila salah seorang dari kalian tidak mengetahui berapa rakaat dia shalat, hendaklah dia bersujud dua kali dan dia duduk (sekali) '." Telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari ['Abdu Rabbih bin Sa'id] dari [Abdurrahman al-A'raj] dari [Abu Hurairah ra] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, "Sesungguhnya setan apabila dikumandangkan iqamah shalat, maka dia berpaling, dan dia memiliki kentut." Lalu dia menyebutkan hadits semisalnya. Dan dia menambahkan, "Dia membahagiakannya dan memberinya angan-angan, serta mengingatkan sebagian dari hajatnya yang sebelumnya tidak ingat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1267</td></tr><tr><td>Arabic No</td><td>389.08</td></tr><tr><td>Reference</td><td>Book 5 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда произносится призыв к молитве, шайтан отступает, с шумом выпуская газы, чтобы не слышать этого призыва, а когда призыв завершается, он (снова) возвращается. И он отступает во время икамы, а когда объявление о начале молитвы завершается, он (снова) подступает, чтобы встать между человеком и сердцем (внушая ему) и говорит: “Вспомни о том-то и том-то”, о чём тот и не помышлял (до молитвы, и он делает это) для того, чтобы человек оставался (в подобном) положении и сбился (с толку), не зная, сколько (рак‘атов) молитвы он совершил. Поэтому если кто-то из вас не будет знать, сколько рак‘атов он совершил, то пусть совершит два земных поклона во время сидения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1267</td></tr><tr><td>Arabic No</td><td>389.08</td></tr><tr><td>Reference</td><td>Book 5 Hadith 105</td></tr></tbody></table></div>
 

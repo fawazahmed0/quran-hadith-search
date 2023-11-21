@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Messenger of Allah (May peace be upon him) as saying :i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaiknya pintu ini kita peruntukkan bagi kaum wanita." Nafi' berkata; Maka Ibnu Umar tidak pernah lagi masuk lewat pintu itu sampai beliau meninggal dunia. Abu Dawud berkata; Diriwayatkan oleh [Isma'il bin Ibrahim] dari [Ayyub] dari [Nafi'] dia berkata; [Umar] berkata;, dan ini lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>571</td></tr><tr><td>Arabic No</td><td>571</td></tr><tr><td>Reference</td><td>Book 2 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ сказал: “Если бы мы оставили эту дверь для женщин!”». Нафи‘ сказал: “И Ибн ‘Умар до самой смерти не заходил через (эту дверь)”.Абу Дауд сказал: "Этот хадис передал также Исма‘иль ибн Ибрахим от Аййюба, сообщившего, что Нафи‘ сказал: «‘Умар сказал ...», и это достовернее
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>571</td></tr><tr><td>Arabic No</td><td>571</td></tr><tr><td>Reference</td><td>Book 2 Hadith 181</td></tr></tbody></table></div>
 

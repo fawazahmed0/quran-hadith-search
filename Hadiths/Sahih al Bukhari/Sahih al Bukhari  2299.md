@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:Allah's Messenger (ﷺ) ordered me to distribute the saddles and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Ibnu Abi Najih] dari [Mujahid] dari ['Abdurrahman bin Abi Lailaa] dari ['Ali radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan aku agar menyedekahkan apa yang ada diatas punggung unta (pelana) yang kami sembelih begitu juga kulitnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 40 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ велел мне раздать в качестве милостыни попоны и шкуры верблюдов, которые были принесены в жертву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 40 Hadith 1</td></tr></tbody></table></div>
 

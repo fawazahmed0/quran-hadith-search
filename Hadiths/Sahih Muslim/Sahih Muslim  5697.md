@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:If you are three, two should
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakr bin Abu Syaibah], [Ibnu Numair], [Abu Kuraib] dan lafazh ini miliknya Yahya. Berkata [Yahya]; Telah mengabarkan kepada kami. Dan yang lainnya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari ['Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kamu bertiga, maka janganlah yang dua orang berbisik tanpa yang ketiga, Karena hal itu dapat menyinggung perasaannya." Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Isa bin Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] keduanya dari [Al A'masy] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5697</td></tr><tr><td>Arabic No</td><td>2184.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5697</td></tr><tr><td>Arabic No</td><td>2184.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 51</td></tr></tbody></table></div>
 

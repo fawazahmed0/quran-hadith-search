@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:That he had divorced his wife during her menses. 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Ya'qub Al Karmani] telah menceritakan kepada kami [Hassan bin Ibrahim] telah menceritakan kepada kami [Yunus] mengatakan, telah menceritakan kepada kami [Muhammad yaitu Az Zuhri] telah mengabarkan kepadaku [Salim], bahwasanya [Abdullah bin Umar] mengabarkan kepadanya, ia pernah menceraikan isterinya ketika haidh, lantas Umar melaporkan kasusnya kepada Nabi shallallahu 'alaihi wasallam, Rasulullah Shallallahu'alaihiwasallam pun sedemikian marah karenanya kemudian bersabda: "Suruhlah dia merujuknya, kemudian mempertahankannya hingga suci, kemudian haidh lagi, kemudian suci, lantas jika ia berkehendak menceriakannya, ceraikanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7160</td></tr><tr><td>Arabic No</td><td>7160</td></tr><tr><td>Reference</td><td>Book 93 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что однажды он дал своей жене развод в период менструации. ‘Умар рассказал об этом Пророку ﷺ. И Посланник Аллаха ﷺ разгневался на него, а потом сказал: «Пусть он вернёт её, затем пусть удержит её до тех пор, пока она не очистится от этой менструации, потом (пусть подождёт, пока) у неё снова не начнутся месячные и она снова не очистится. И если ему покажется, что (будет лучше) дать ей развод, то пусть разведёт её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7160</td></tr><tr><td>Arabic No</td><td>7160</td></tr><tr><td>Reference</td><td>Book 93 Hadith 24</td></tr></tbody></table></div>
 

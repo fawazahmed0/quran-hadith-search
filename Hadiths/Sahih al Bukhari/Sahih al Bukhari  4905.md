@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:We were in a Ghazwa (Sufyan once said, in an army) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] Telah menceritakan kepada kami [Sufyan], berkata [Amru]; Aku mendengar [Jabir bin Abdullah radliallahu 'anhuma] berkata; Suatu ketika dalam satu peperangan -sekali waktu Sufyan mengatakan; Dalam suatu perkumpulan pasukan- tiba-tiba seorang laki-laki dari kalangan Anshar mendorong seseorang dari Anshar, maka sang Anshar pun menyeru, "Wahai orang-orang Anshar." Dan sang Muhajir pun berkata, "Wahai orang-orang Muhajirin." Rasulullah shallallahu 'alaihi wasallam pun mendengar hal itu, maka beliau bersabda: "Kenapa panggilan-panggilan Jahiliyyah itu masih saja kalian lestarikan?" para sahabat pun berkata, "Wahai Rasulullah, seorang laki-laki dari kalangan Muhajirin mendorong seorang dari Anshar." Akhirnya beliau bersabda: "Tinggalkanlah, karena hal itu adalah sesuatu yang busuk." Abdullah bin Ubbay yang mendengar hal itu berkata, "Lakukanlah hal itu. Demi Allah, jika kita kembali ke Madinah, niscaya orang-orang mulia akan mengusir orang-orang hina darinya." Berita ungkapan itu pun sampai kepada Nabi shallallahu 'alaihi wasallam. Kemudian Umar berdiri, "Wahai Rasulullah, izinkanlah aku untuk menebas leher seorang munafik ini." Nabi shallallahu 'alaihi wasallam bersabda: "Biarkanlah ia, sehingga orang-orang tidak berkomentar bahwa Muhammad membunuh sahabatnya." Ketika itu jumlah orang-orang Anshar lebih banyak dari pada jumlah kaum Muhajirin saat mereka datang. Namun, setelah itu jumlah kaum Muhajirin menjadi lebih banyak. Sufyan berkata: Aku menghafalnya dari Amru. Amru berkata; Aku mendengar Jabir berkata; Suatu ketika, kami berada bersama Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4905</td></tr><tr><td>Arabic No</td><td>4905</td></tr><tr><td>Reference</td><td>Book 65 Hadith 425</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллаха им и его отцом, рассказывал: «Как-то, когда мы были в одном из военных походов, один человек из числа мухаджиров ударил ногой по заднему месту человека из числа ансаров. Тогда этот ансари закричал: “(На помощь,) о ансары!”, а мухаджир закричал: “(На помощь,) о мухаджиры!” Услышав это, Посланник Аллаха ﷺ сказал: “Почему (они призывают) зовом доисламского невежества?!” Ему сказали: “О Посланник Аллаха, человек из числа мухаджиров ударил ногой по заднему месту человека из числа ансаров!” На что Пророк ﷺ сказал: “Прекратите (говорить такие слова), ибо, поистине, они отвратительны!” Услышав об этом ‘Абдуллах ибн Убайй, сказал: “Они действительно сделали это? Клянусь Аллахом! Поистине, когда мы вернёмся в Медину, могущественные выгонят из неё презренных!” Когда это дошло до Пророка ﷺ, ‘Умар встал и сказал: “О Посланник Аллаха, позволь мне отрубить голову этому лицемеру!” (На это) Пророк ﷺ сказал: “Оставь его, ибо тогда люди станут говорить, что Мухаммад убивает своих сподвижников!” Когда мухаджиры прибыли в Медину, ансаров было больше, но затем количество мухаджиров выросло»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4905</td></tr><tr><td>Arabic No</td><td>4905</td></tr><tr><td>Reference</td><td>Book 65 Hadith 425</td></tr></tbody></table></div>
 

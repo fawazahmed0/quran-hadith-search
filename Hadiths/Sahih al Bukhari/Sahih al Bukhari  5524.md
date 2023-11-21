@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) prohibited the eating of donkey's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad] dari [Amru] dari [Muhammad bin Ali] dari [Jabir bin Abdullah] ia berkata, "Saat penaklukan Khaibar Nabi shallallahu 'alaihi wasallam melarang makan daging keledai dan memberi keringanan makan daging kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5524</td></tr><tr><td>Arabic No</td><td>5524</td></tr><tr><td>Reference</td><td>Book 72 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Абдуллах, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил есть мясо осла в день битвы при Хайбаре и разрешил есть конину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5524</td></tr><tr><td>Arabic No</td><td>5524</td></tr><tr><td>Reference</td><td>Book 72 Hadith 50</td></tr></tbody></table></div>
 

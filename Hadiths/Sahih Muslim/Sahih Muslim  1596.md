@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibrahim reported:I heard 'Abd al-Rahman as saying; 'Uthman led us four rak'ahs o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Abdul Wahid] dari [Al A'masy] telah menceritakan kepada kami [Ibrahim], katanya; "Aku mendengar [Abdurrahman bin Yazid] mengatakan; "Utsman pernah shalat bersama kami di Mina sebanyak empat rakaat, lalu hal itu ditanyakan kepada [Ibnu Mas'ud], dia langsung beristirja' (mengucapkan inna lillah wa inna ilaihi raaji'un) dan berkata; "Aku pernah shalat dua raka'at bersama Rasulullah shallallahu 'alaihi wasallam di Mina, dan aku shalat dua raka'at bersama Abu Bakr As Sidiq di Mina, dan aku juga pernah shalat dua raka'at bersama Umar bin Khattab di Mina. Sekiranya yang empat rakaat itu cukup aku kerjakan dua rakaat saja." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Abu Muawiyah] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Utsman bin Abu Syaibah] katanya; telah menceritakan kepada kami [Jarir] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ishaq] dan [Ibnu Husyrum], keduanya berkata; telah mengabarkan kepada kami [Isa] semuanya dari [Al A'masy] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>695.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Язид сказал: «‘Усман совершал с нами молитву в Мине в четыре рак‘ата, и когда об этом рассказали ‘Абдуллаху ибн Мас‘уду, он воскликнул: “Поистине, мы принадлежим Аллаху, и, поистине, к Нему мы вернёмся!” потом сказал: “Я совершал в Мине молитву в два рак‘ата с Посланником Аллаха ﷺ, и я совершил в Мине молитву в два рак‘ата с Абу Бакром ас-Сыддиком, и я совершил в Мине молитву в два рак‘ата с ‘Умаром ибн аль-Хаттабом”, (после чего добавил): “О, если бы выпало мне счастье совершить четыре таких рак‘ата, (хотя бы) два из которых будут приняты!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>695.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 27</td></tr></tbody></table></div>
 

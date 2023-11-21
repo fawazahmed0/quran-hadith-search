@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) returned from a journey when I had place
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dia berkata; saya mendengar [Abdurrahman bin Al Qasim] -dan tidak ada seorang pun di Madinah yang lebih utama dari pada dia- dia berkata; saya mendengar [Ayahku] berkata; saya mendengar [Aisyah] radliallahu 'anha menemui Rasulullah shallallahu 'alaihi wasallam sekembalinya beliau dari safarnya, waktu itu saya telah membuat pembatas (satir) dari kain yang bergambar dalam ruanganku, ketika Rasulullah shallallahu 'alaihi wasallam melihatnya beliau langsung memotongnya sambil bersabda: "Sesungguhnya orang-orang yang paling keras siksanya pada hari kiamat adalah orang-orang yang membuat sesuatu yang menyamai ciptaan Allah." Aisyah melanjutkan; "Kemudian saya membuatnya menjadi satu bantal atau dua bantal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5954</td></tr><tr><td>Arabic No</td><td>5954</td></tr><tr><td>Reference</td><td>Book 77 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен её Аллах, рассказывала: «Однажды Посланник Аллаха ﷺ вернулся из (военного) похода, а я покрыла занавесью /кырам/ с изображениями небольшое окошко /сахуа/ (внутри дома). Увидев это, Посланник Аллаха ﷺ сорвал её и сказал: “Наиболее сильному наказанию в День воскресения будут подвергнуты те, кто пытался творить подобно Аллаху”. Затем мы сшили из неё одну или две подушки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5954</td></tr><tr><td>Arabic No</td><td>5954</td></tr><tr><td>Reference</td><td>Book 77 Hadith 170</td></tr></tbody></table></div>
 

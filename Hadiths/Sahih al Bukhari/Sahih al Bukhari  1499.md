@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There is no compensation for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayab] dan dari [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu]; bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Binatang gembalaan yang mencelakai tidaklah dapat dituntut belanya (dendanya), begitu juga menggali sumur dan mencelakai, tidaklah dapat dituntut belanya (dendanya) dan menggali barang tanbang dan mencelakai, tidaklah dapat dituntut belanya (dendanya). Sedangkan harta terpendam (bila ditemukan seseorang) zakatnya seperlima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1499</td></tr><tr><td>Arabic No</td><td>1499</td></tr><tr><td>Reference</td><td>Book 24 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не выплачивается возмещение ни за (раненого или убитого) животным, ни за упавшего в колодец, ни за (пострадавшего) в руднике, а с клада следует выплатить пятую часть (его стоимости)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1499</td></tr><tr><td>Arabic No</td><td>1499</td></tr><tr><td>Reference</td><td>Book 24 Hadith 99</td></tr></tbody></table></div>
 

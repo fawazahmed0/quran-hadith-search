@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : Vers la fin de sa vie,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] dan ['Abad bin Humaid]. [Muhammad bin Rafi'] berkata; Telah menceritakan kepada kami. Sedangkan ['Abad] berkata; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri]; Telah mengabarkan kepadaku [Salim bin 'Abdullah] dan [Abu Bakr bin Sulaiman] bahwa ['Abdullah bin 'Umar] berkata; "Pada suatu malam, Rasulullah shallallahu 'alaihi wasallam mengimami kami shalat Isya di hari-hari terakhir kehidupannya. Setelah mengucapkan salam, beliau berdiri dan bersabda: 'Dapatkah kalian menghayati malam kalian ini, sesungguhnya pada penghujung seratus tahun yang akan datang tidak ada lagi seseorang yang masih hidup di muka bumi.' Ibnu Umar berkata; 'Para sahabat merasa takut terhadap sabda Rasulullah shallallahu 'alaihi wasallam tersebut, sehingga mereka memperbincangkan maksud kata-kata seratus tahun dalam hadits itu. Sebenarnya Rasulullah shallallahu 'alaihi wasallam hanya ingin mengatakan: 'Di awal abad yang akan datang, orang yang hidup pada masa sekarang ini tak satupun yang masih hidup.' Maksudnya masa para sahabat itu akan habis. Telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Daarimi] Telah mengabarkan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib]. Dan [Laits] telah meriwayatkannya dari [Abdurrahman bin Khalid bin Musafir] keduanya dari [Az Zuhri] melalui sanad Ma'mar sebagaimana Haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6479</td></tr><tr><td>Arabic No</td><td>2537.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 308</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6479</td></tr><tr><td>Arabic No</td><td>2537.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 308</td></tr></tbody></table></div>
 

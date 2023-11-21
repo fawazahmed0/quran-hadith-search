@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ), the true and truly inspired said, "(
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Umar bin Hafsh] telah bercerita kepada kami [bapakku] telah bercerita kepada kami [Al A'masy] telah bercerita kepada kami [Zaid bin Wahb] telah bercerita kepada kami ['Abdullah] telah bercerita kepada kami Rasulullah shallallahu 'alaihi wasallam dab dialah orang yang jujur dan berita yang dibawanya adalah benar: ""Setiap orang dari kalian telah dikumpulkan dalam penciptaannya ketika berada di dalam perut ibunya selama empat puluh hari kemudian menjadi 'alaqah (zigot) selama itu pula kemudian menjadi mudlghah (segumpal daging) selama itu pula kemudian Allah mengirim malaikat yang diperintahkan dengan empat ketetapan (dan dikatakan kepadanya), tulislah amalnya, rezekinya, ajalnya dan sengsara dan bahagianya lalu ditiupkan ruh kepadanya. Dan sungguh seseorang akan ada yang beramal dengan amal-amal penghuni neraka hingga tak ada jarak antara dirinya dengan neraka kecuali sejengkal saja lalu dia didahului oleh catatan (ketetapan taqdirnya) hingga dia beramal dengan amalan penghuni surga kemudian masuk surga, dan ada juga seseorang yang beramal dengan amal-amal penghuni surga hingga tak ada jarak antara dirinya dengan surga kecuali sejengkal saja, lalu dia didahului oleh catatan (ketetapan taqdirnya) hingga dia beramal dengan amalan penghuni neraka lalu dia masuk neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3332</td></tr><tr><td>Arabic No</td><td>3332</td></tr><tr><td>Reference</td><td>Book 60 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Правдивый и достойный доверия Посланник Аллаха ﷺ сказал нам: “Поистине, каждый из вас (сначала) формируется во чреве своей матери в течение сорока дней, затем он столько же пребывает (там) в виде сгустка крови и ещё столько же — в виде кусочка плоти, а затем Аллах отправляет к нему ангела, который (получает веление) записать четыре вещи: его дела, его срок, его удел, а также то, счастливым он будет или злосчастным, после чего в него вдувается дух. И, поистине, любой из вас может совершать дела обитателей Огня, пока не окажется от Огня на расстоянии всего лишь одного локтя, а потом возобладает написанное ему на роду [счастье], и он станет совершать дела обитателей Рая и войдёт в Рай. И поистине, любой из вас может совершать дела обитателей Рая, пока не окажется от Рая на расстоянии всего лишь одного локтя, а потом возобладает написанное ему на роду [злосчастье], и он станет совершать дела обитателей Огня и войдёт в Огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3332</td></tr><tr><td>Arabic No</td><td>3332</td></tr><tr><td>Reference</td><td>Book 60 Hadith 7</td></tr></tbody></table></div>
 

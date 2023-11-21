@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Juraij:'Ata' said, "Jabir bin 'Abdullah said, 'The Prophet (ﷺ) we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>961</td></tr><tr><td>Arabic No</td><td>961</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Пророк ﷺ встал и приступил к совершению молитвы, а потом произнёс людям хутбу, когда же Пророк Аллаха ﷺ закончил её, он спустился вниз, подошёл к женщинам и стал наставлять их. Делая это, он опирался на руку Биляла, Билял же держал руками полу своей одежды, куда женщины складывали садаку».\n(Ибн Джурейдж сказал):\n— Я сказал ‘Ате (ибн Абу Рабаху): «Считаешь ли ты, что имам и теперь обязан приходить к женщинам и наставлять их, после того, как завершит (хутбу)?» Он ответил: «Поистине, это их обязанность, и почему же они не делают это?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>961</td></tr><tr><td>Arabic No</td><td>961</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
 

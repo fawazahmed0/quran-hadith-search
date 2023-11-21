@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd (que Dieu l'agrée), le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] dan [Ibnu Numair] mereka berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim] dari [bapaknya] dari [Amir bin Rabi'ah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian melihat usungan jenazah, maka berdirilah hingga jenazah itu berlalu atau diletakkan." Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepadaku [Harmalah] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] semuanya dari [Ibnu Syihab] dengan isnad ini, dan di dalam hadits Yunus, bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda. Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] -dalam jalur lain- Dan Telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [Laits] dari [Nafi'] dari [Ibnu Umar] dari [Amir bin Rabi'ah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika salah seorang dari kalian melihat usungan jenazah sementara ia tidak ikut berjalan bersamanya, maka hendaklah ia berdiri hingga jenazah itu berlalu, atau jenazah itu diletakkan sebelum berlalu dari pandangannya." Dan telah menceritakannya kepadaku [Abu Kamil] telah menceritakan kepada kami [Hammad] -dalam jalur lain- Dan telah menceritakan kepadaku [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Isma'il] semuanya dari [Ayyub] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] -dalam jalur lain- [Ibnul Mutsanna] Telah menceritakan kepada kami [Ibnu Abi Adi] dari [Ibnu Aun] -dalam jalur lain- Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] semuanya dari [Nafi'] dengan isnad ini, sebagaimana hadits Laits bin Sa'id. Hanya saja dalam haditsnya Ibnu Juraij; Nabi shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian melihat jenazah, hendaklah ia berdiri saat ia melihatnya hingga usungan jenazah itu berlalu, demikian kalau sekiranya ia tidak ikut mengantar jenazah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2218</td></tr><tr><td>Arabic No</td><td>958.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Амир ибн Раби‘а, передал, что Пророк ﷺ сказал: «Если кто-нибудь из вас увидит похоронную процессию и не присоединится к ней, пусть встанет (и не садится) до тех пор, пока она не пройдёт мимо него или пока носилки не опустят (на землю) до этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2218</td></tr><tr><td>Arabic No</td><td>958.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 96</td></tr></tbody></table></div>
 

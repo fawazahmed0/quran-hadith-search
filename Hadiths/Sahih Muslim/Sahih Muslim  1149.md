@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been narrated by Abu Huraira with another chain of transm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik], dari [Ibnu Syihab] dari [Sa'id bin al-Musayyab] dari [Abu Hurairah radhiyallahu'anhu] bahwa seorang penanya bertanya kepada Rasulullah Shallallahu'alaihiwasallam tentang shalat dengan mengenakan satu kain. Maka beliau bersabda, "Bukankah setiap kalian memiliki dua kain?" Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin al-Laits] dan telah menceritakan kepadaku [Bapakku] dari [Kakekku] dia berkata, telah menceritakan kepadaku [Uqail bin Khalid] keduanya meriwayatkan dari [Ibnu Syihab] dari [Sa'id bin al-Musayyab] dan [Abu Salamah] dari [Abu Hurairah Radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1149</td></tr><tr><td>Arabic No</td><td>515.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1149</td></tr><tr><td>Arabic No</td><td>515.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 311</td></tr></tbody></table></div>
 

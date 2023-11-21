@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah (Allah be pleased with them) reported his father havingsaid t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Salim bin Abdullah] bahwa [ayahnya] berkata; Saya telah melihat orang-orang pada zaman Rasulullah Shallallu 'alaihi wa sallam dipukul, jika mereka membeli makanan secara taksiran kemudian mereka menjualnya di tempat itu juga, dan yang demikian itu seharusnya mereka membawanya terlebih dahulu." Ibnu Syihab mengatakan; Dan telah menceritakan kepadaku 'Ubaidullah bin Abdullah bin Umar bahwa ayahnya pernah membeli bahan makanan secara taksiran, kemudian dia membawanya kepada keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>1527.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>1527.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 46</td></tr></tbody></table></div>
 

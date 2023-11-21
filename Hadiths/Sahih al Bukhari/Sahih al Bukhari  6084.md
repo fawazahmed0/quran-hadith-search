@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Rifa'a Al-Qurazi divorced his wife irrevocably (i.e. that divorc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban bin Musa] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari [Aisyah] radliallahu 'anha bahwa Rifa'ah Al Qaradli telah menceraikan isterinya setelah perceraiannya berlalu, Abdurrahman bin Zubair menikahi isterinya Rifa'ah. Lalu isterinya Rifa'ah datang kepada Nabi shallaallahu'alaihi wa sallam, Aisyah melanjutkan; "Wahai Rasulullah! Sesungguhnya wanita tersebut adalah isterinya Rifa'ah, Rifa'ah menceraikannya hingga jatuh talak tiga. Setelah itu, isterinya Rifa'ah menikah dengan Abdurrahman bin Az Zubair. Dan dia, demi Allah wahai Raulullah, tidaklah bersamanya melainkan seperti ujung kain yang ini." -sambil mengambil ujung jilbabnya- Urwah melanjutkan; "waktu itu Abu Bakar duduk di sisi Nabi shallaallahu 'alaihi wa sallam sementara Khalid bin Sa'id duduk di depan pintu kamar, supaya ia diizinkan masuk, segera ia memanggil Abu Bakar dan berkata; "Wahai Abu Bakar, apakah kamu tidak menghardik apa yang telah ia katakan dengan lancang di sisi Rasulullah shallallahu 'alaihi wasallam?" Rasulullah shallaallahu'alaihi wa sallam tersenyum seraya bersabda: "Sepertinya engkau hendak kembali kepada Rifa'ah. Tidak, hingga engkau merasakan madunya Abdurrahman bin Az Zubair dan dia merasakan madumu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6084</td></tr><tr><td>Arabic No</td><td>6084</td></tr><tr><td>Reference</td><td>Book 78 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала, о том, что (как-то) Рифа‘а аль-Куразый развёлся со своей женой окончательным (безвозвратным) разводом, и после него на ней женился ‘Абдуррахман ибн аз-Зубайр. И она пришла к Пророку ﷺ и сказала: “О Посланник Аллаха, я была женой Рифа‘а, но он дал мне третий (безвозвратный) развод, и после этого я вышла замуж за ‘Абдуррахмана ибн аз-Зубайра, но клянусь Аллахом, о Посланник Аллаха, то, что у него, подобно бахроме одежды (он бессилен)…”, — сказав это, она взяла край своего покрывала /джильбаб/. В это время Абу Бакр сидел у Пророка ﷺ, а Ибн Са‘ид ибн аль-‘Ас сидел у двери дома, ожидая разрешения войти. Халид воскликнул: “О Абу Бакр! Разве ты не запретишь ей говорить то, что она открыто говорит при Посланнике Аллаха ﷺ?!” А Посланник Аллаха ﷺ только улыбнулся, а затем сказал ей: “Может быть, ты хочешь вернуться к Рифа‘а? Нет, (ты не можешь сделать этого,) пока ты не вкусишь сладость (нового мужа) и пока он не вкусит твою сладость”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6084</td></tr><tr><td>Arabic No</td><td>6084</td></tr><tr><td>Reference</td><td>Book 78 Hadith 112</td></tr></tbody></table></div>
 

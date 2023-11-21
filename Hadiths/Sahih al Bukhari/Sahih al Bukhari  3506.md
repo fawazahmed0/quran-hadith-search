@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:'Uthman called Zaid bin Thabit, 'Abdullah bin Az-Zubair, Sa'id bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [Ibnu Syihab] dari [Anas] bahwa 'Utsman memanggil Zaid bin Tsabit dan 'Abdullah bin Az Zubair, Sa'id bin Al 'Ash, 'Abdur Rahman bin Al Harits bin Hisyam, lalu mereka menghapus satu lembar naskah alquran dari sekian lembar yang ada. Kemudian 'Utsman berkata kepada tiga orang yang berasal dari suku Quraisy diantara mereka tadi; "Jika kalian berselisih pendapat dengan Zaid bin Tsabit tentang sesuatu dari al-Qur'an maka tulislah dengan bahasa Arab Quraisy karena al-Qur'an diturunkan dengan bahasa mereka. Mereka pun melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3506</td></tr><tr><td>Arabic No</td><td>3506</td></tr><tr><td>Reference</td><td>Book 61 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что (однажды) ‘Усман позвал Зейда ибн Сабита, ‘Абдуллаха ибн аз-Зубайра, Са‘ида ибн аль-‘Аса и ‘Абдуррахмана ибн аль-Хариса ибн Хишама, и они переписали свитки (в которых были записаны аяты) в книгу /мусхаф/ в нескольких экземплярах. ‘Усман сказал трём курайшитам: «Если между вами и Зейдом ибн Сабитом произойдут разногласия относительно Корана, то записывайте его на языке курайшитов, ведь он был ниспослан на их языке». И так они и сделали
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3506</td></tr><tr><td>Arabic No</td><td>3506</td></tr><tr><td>Reference</td><td>Book 61 Hadith 16</td></tr></tbody></table></div>
 

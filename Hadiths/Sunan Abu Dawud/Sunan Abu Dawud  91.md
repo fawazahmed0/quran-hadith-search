@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: It is not permissible for a man wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Ibnu 'Ayyasy] dari [Habib bin Shalih] dari [Yazid bin Syuraih Al Hadlrami] dari [Abu Hayy Al Muadzdzin] dari [Tsauban] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga hal yang tidak boleh seorang pun melakukannya; tidak boleh seorang laki-laki mengimami suatu kaum, kemudian mengkhususkan dirinya dalam berdoa tanpa menyertakan mereka, apabila dia melakukannya berarti dia telah mengkhianati mereka. Janganlah dia melihat ke dalam rumah seseorang sebelum dia minta izin, apabila dia melakukannya berarti dia telah memasukinya. Janganlah dia shalat dalam keadaan menahan buang air hingga dia meringankan dirinya (dengan buang air) terlebih dahulu." Telah menceritakan kepada kami [Mahmud bin Khalid As Sulami] telah menceritakan kepada kami [Ahmad bin Ali] telah menceritakan kepada kami [Tsaur] dari [Yazid bin Syuraih Al Hadlrami] dari [Abu Hayy Al Muadzdzin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak boleh bagi seseorang yang beriman kepada Allah dan Hari Akhir untuk shalat dalam keadaan menahan buang air hingga dia meringankan dirinya (dengan buang air) terlebih dahulu", kemudian dia menyebutkan lafazh semisalnya. Dia menyebutkan (sabda Rasulullah shallallahu 'alaihi wasallam): "Dan tidak boleh bagi seorang laki-laki yang beriman kepada Allah dan Hari Akhir untuk mengimami suatu kaum kecuali dengan izin mereka, serta tidak boleh dia mengkhususkan dirinya dalam berdoa tanpa mengikut sertakan mereka. Apabila dia melakukannya berarti dia telah mengkhianati mereka." Abu Dawud berkata; Hadits ini semuanya dari jalur ahli Syam, tidak ada seorang pun yang ikut meriwayatkannya selain mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, что Пророк ﷺ сказал: «Не разрешается человеку, уверовавшему в Аллаха и Последний День, совершать молитву, когда ему требуется справление нужды, пока не освободит себя (от этого)».Затем он, добавив к этому нечто подобное, сказал: «Не разрешается человеку, который верит в Аллаха и Последний день, становиться имамом людей без их согласия, и обращаться с мольбой (к Аллаху) только за себя, оставляя их, а если он сделает это, то предал их».Абу Дауд сказал: «Это из обычаев жителей аш-Шама и никто не разделяет с ними это (мнение)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
 

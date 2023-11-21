@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) sent us as an army unit of three hundred warrio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] berkata, telah mengabarkan kepada kami [Sufyan] dari [Amru] ia berkata, "Aku mendengar [Jabir] berkata, "Nabi shallallahu 'alaihi wasallam mengirim kami sejumlah tiga ratus orang penunggang kuda untuk mengintai rombongan dagang Quraiys, dan sebagai pemimpinnya adalah Abu Ubaidah. Kami kemudian kelaparan dengan kelaparan yang sangat luar biasa hingga kami memakan dedaunan pohon yang jatuh. Maka ekspedisi itu pun disebut dengan Jaisy Al Khabath (pasukan daun rontok). Kemudian ada seekor ikan hiu yang disebut dengan nama al Anbar terdampar dari laut, kami memakannya selama setengah bulan dan menggunakan lemaknya sebagai minyak hingga badan kami pun kembali segar." Jabir berkata, "Abu Ubaidah kemudian mengambil satu tulang ikan tersebut dan menancapkannya, lalu seorang pengendara kuda lewat di bawahnya. Dan di antara kami ada seorang laki-laki yang ketika kelaparan semakin parah, ia menyembelih tiga ekor unta, lalu menyembelih lagi tiga ekor unta, kemudian Abu Ubaidah pun melarangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5494</td></tr><tr><td>Arabic No</td><td>5494</td></tr><tr><td>Reference</td><td>Book 72 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(В своё время) Пророк ﷺ отправил отряд из трёхсот человек, назначив их командиром Абу ‘Убайду (ибн аль-Джарраха), чтобы устроить засаду на караван курайшитов. Но нас поразил такой сильный голод, что мы съели хабат (пустынные кусты), поэтому наша армия называлась “Армией Хабата”. Море выбросило нам животное, именуемое “‘анбар”, и мы полмесяца ели (его мясо) и натирались его жиром, пока наши тела (не пришли в свое обычное состояние)». (Далее Джабир) сказал: «Абу ‘Убайда взял один из его ребер и установил его на землю так, что под ним проезжал всадник (и не задевал его). Среди нас был человек, который заколол трёх верблюдов, когда голод стал сильным, потом он заколол ещё трёх, но затем Абу ‘Убайда запретил это делать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5494</td></tr><tr><td>Arabic No</td><td>5494</td></tr><tr><td>Reference</td><td>Book 72 Hadith 20</td></tr></tbody></table></div>
 

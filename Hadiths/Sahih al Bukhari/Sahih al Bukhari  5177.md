@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The worst food is that of a wedding banquet to which only t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, bahwa ia berkata; "Seburuk-buruk jamuan adalah jamuan walimah, yang diundang sebatas orang-orang kaya, sementara orang-orang miskin tidak diundang. Siapa yang tidak memenuhi undangan maka sungguh ia telah bermaksiat kepada Allah dan Rasul-Nya shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5177</td></tr><tr><td>Arabic No</td><td>5177</td></tr><tr><td>Reference</td><td>Book 67 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, говорил: «Наихудшая еда — свадебное угощение, на которое приглашают богатых и не приглашают бедных. А кто не принимает приглашение (без уважительной причины), тот ослушивается Аллаха и Его Посланника ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5177</td></tr><tr><td>Arabic No</td><td>5177</td></tr><tr><td>Reference</td><td>Book 67 Hadith 112</td></tr></tbody></table></div>
 

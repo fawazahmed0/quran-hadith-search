@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of lbn 'Umar through two differen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku membaca Hadist [Malik] dari [Nafi'] dari [Ibnu 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kamu bertiga, maka janganlah yang dua orang berbisik tanpa yang ketiga. Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Muhammad bin Bisyr] dan [Ibnu Numair]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan ['Ubaidullah bin Sa'id] keduanya berkata; Telah menceritakan kepada kami [Yahya] yaitu Ibnu Sa'id seluruhnya dari ['Ubaidullah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah] dan [Ibnu Rumh] dari [Al Laits bin Sa'd]; Dan telah menceritakan kepada kami [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata; Telah menceritakan kepada kami [Hammad] dari [Ayyub]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dia berkata; Aku medengar [Ayyub bin Musa]. Mereka semua dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam yang semakna dengan Hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5695</td></tr><tr><td>Arabic No</td><td>2183.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5695</td></tr><tr><td>Arabic No</td><td>2183.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 49</td></tr></tbody></table></div>
 

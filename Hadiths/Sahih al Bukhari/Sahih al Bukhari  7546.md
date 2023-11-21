@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':I heard the Prophet (ﷺ) reciting Surat at-Tin waz Zaitun (By
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Mis'ar] dari ['Adi bin Tsabit] seingatku Ia berkata, "Pernah aku mendengar [Al Bara'] berkata; saya pernah mendengar Nabi shallallahu 'alaihi wasallam saat shalat Isya membaca 'WATTIINI WAZZAITUUNA (surat At Tiin) '. Dan belum pernah kudengar seorang pun yang lebih indah suaranya, atau bacaannya daripada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7546</td></tr><tr><td>Arabic No</td><td>7546</td></tr><tr><td>Reference</td><td>Book 97 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Бара (ибн ‘Азиба), что он сказал: «(Однажды) я слышал, как Пророк ﷺ читал в вечернем намазе /‘иша/: “Клянусь смоковницей и оливой!”, и не приходилось мне слушать кого-то с более приятным голосом и чтением (Корана), чем у него!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7546</td></tr><tr><td>Arabic No</td><td>7546</td></tr><tr><td>Reference</td><td>Book 97 Hadith 171</td></tr></tbody></table></div>
 

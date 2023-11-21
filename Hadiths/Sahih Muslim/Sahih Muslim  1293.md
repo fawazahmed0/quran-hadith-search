@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported:The Messenger of Allah (ﷺ) said the afternoon prayer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1293</td></tr><tr><td>Arabic No</td><td>574.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Имрана ибн Хусайна, что однажды Посланник Аллаха ﷺ совершая послеполуденную молитву /‘аср/, произнёс слова таслима после третьего рак‘ата, после чего зашёл домой, и один человек с длинными руками по прозвищу Хирбак сказал: «О Посланник Аллаха!» Затем рассказал ему о том, что он сделал. И (Посланник Аллаха ﷺ) вышел к людям разгневанным, волоча свою накидку, и сказал: «Он говорит правду?» Люди ответили: «Да». Тогда он совершил оставшийся рак‘ат, произнёс слова таслима, совершил два земных поклона и снова произнёс слова таслима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1293</td></tr><tr><td>Arabic No</td><td>574.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 131</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amrah, daughter of 'Abd al-Rahman ibn Sa'd ibn Zurarah, reported on the authorit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti Abdurrahman bin Sa'd bin Zurarah] bahwa ia telah mengabarkan kepadanya dari [Habibah binti Sahl Al Anshariyah] bahwa ia adalah iseri Tsabit bin Qais bin Syahs, dan Rasulullah shallallahu 'alaihi wasallam keluar untuk melakukan Shalat Subuh, kemudian beliau mendapati Habibah binti Sahl di depan pintu dalam kegelapan malam. Rasulullah shallallahu 'alaihi wasallam berkata: "Siapakah ini?" Habibah berkata; saya Habibah binti Sahl. Beliau berkata: "Apakah keperluanmu?" Ia berkata; tidak ada lagi hubungan antara saya dan Tsabit bin Qais. Kemudian tatkala Tsabit bin Qais datang, Rasulullah shallallahu 'alaihi wasallam berkata kepadanya: "Ini adalah Habibah binti Sahl, dan ia telah menceritakan apa yang Allah kehendaki untuk disebutkan." Ummu Habibah berkata; wahai Rasulullah, (kuserahkan) seluruh apa yang ia berikan ada padaku. Maka Rasulullah berkata kepada Tsabit bin Qais, ambillah darinya. Kemudian ia pun mengambilnya. Dan Habibah duduk (kembali) kepada keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 13 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хабибы бинт Сахль аль-Ансарийя, да будет доволен ею Аллах, что она была женой Сабита ибн Кайса ибн Шаммаса, и однажды Посланник Аллаха ﷺ выйдя из дома для совершения утренней молитвы в утренних сумерках, обнаружил её у дверей. Посланник Аллаха ﷺ спросил: «Кто это?» Она ответила: «Я Хабиба бинт Сахль». Он спросил: «Что случилось?» Она ответила: «Я не могу больше жить с Сабитом ибн Кайсом». Когда подошёл Сабит ибн Кайс, Посланник Аллаха ﷺ сказал: «Это Хабиба бинт Сахль, и она сказала мне то, что пожелал Аллах». Хабиба сказала: «О Посланник Аллаха! Всё, что он дал мне, у меня». Посланник Аллаха ﷺ сказал: «Забери это у неё». И он забрал у неё это, и она пошла к своей семье и стала жить там
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 13 Hadith 53</td></tr></tbody></table></div>
 

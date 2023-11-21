@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Al-Miswar Ibn Makhrama (رضي الله عنهما), l'Envoyé de Dieu (pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Abu Mulaikah] dari [Miswar bin Makhramah] bahwa ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam membagi-bagikan beberapa baju (sejenis jaket) kepada para sahabat, namun beliau tidak memberi apa-apa kepada Makhramah. Sehingga Makhramah pun berkata, "Hai anakku, marilah kita pergi menemui Rasulullah shallallahu 'alaihi wasallam." Maka aku pun pergi bersama ayahku. Ayahku berkata, "Silahkan kamu masuk terlebih dahulu, sampaikan kepada beliau bahwa aku ingin bertemu dengan beliau." Miswar berkata; Aku pun masuk dan menyampaikan kepada beliau. Maka beliau pun keluar sambil membawa sehelai baju untuk Makhramah. Beliau bersabda: "Ini kusimpan untuk Anda." Ia berkata; Makhromah lantas melihat baju tersebut. Kemudian Nabi bersabda; "Apakah Makhramah sudah puas?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>1058.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар ибн Махрама сказал: «(Однажды) Пророк ﷺ, разделивший (между людьми) кафтаны, ничего не дал Махраме. (Махрама) сказал (мне): “О сынок, пойдём со мной к Посланнику Аллаха ﷺ”, и я пошёл с ним. (Когда мы пришли к его дому, Махрама) сказал: “Войди и позови его ко мне” и я позвал к нему (Пророка ﷺ), который вышел к нему в одном из этих кафтанов и сказал: “Я припрятал этот (кафтан) для тебя”, (что же касается Махрамы, то) он посмотрел на него и сказал: “Махрама доволен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>1058.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 168</td></tr></tbody></table></div>
 

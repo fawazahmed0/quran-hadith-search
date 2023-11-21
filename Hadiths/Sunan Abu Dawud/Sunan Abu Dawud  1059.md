@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usamah ibn Umayr al-Huzali: Usamah attended the Prophet (ﷺ) on the oc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali], [Sufyan bin Habib] berkata; telah mengabarkan kepada kami, dari [Khalid Al Khaddza'] dari [Abu Qilabah] dari [Abu Al Malih] dari [ayahnya] bahwa dia melihat Nabi shallallahu 'alaihi wasallam pada peristiwa Hudaibiyah ketika hari Jum'at, mereka kehujanan yang tidak hanya mengenai bagian bawah sandal mereka, maka beliau memerintahkan mereka untuk mengerjakan shalat di persinggahan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1059</td></tr><tr><td>Arabic No</td><td>1059</td></tr><tr><td>Reference</td><td>Book 2 Hadith 670</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-Малих передаёт от своего отца, что он видел, как Пророк ﷺ в пятницу в Худайбии велел людям молиться на местах, когда пошёл дождь, от которого даже не намокли подошвы их сандалий
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1059</td></tr><tr><td>Arabic No</td><td>1059</td></tr><tr><td>Reference</td><td>Book 2 Hadith 670</td></tr></tbody></table></div>
 

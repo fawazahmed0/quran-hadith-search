@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud Al-Ansari:Once a man said to Allah's Messenger (ﷺ) "O Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Ibnu Abu Khalid] dari [Qais bin Abu Hazim] dari [Abu Al Mas'ud Al Anshari] berkata, seorang sahabat bertanya: "Wahai Rasulullah, aku hampir tidak sanggup shalat yang dipimpin seseorang dengan bacaannya yang panjang." Maka aku belum pernah melihat Nabi shallallahu 'alaihi wasallam memberi peringatan dengan lebih marah dari yang disampaikannya hari itu seraya bersabda: "Wahai manusia, kalian membuat orang lari menjauh. Maka barangsiapa shalat mengimami orang-orang ringankanlah. Karena diantara mereka ada orang sakit, orang lemah dan orang yang punya keperluan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 3 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Ансари, да будет доволен им Аллах, сказал: «Однажды какой-то человек сказал: “О Посланник Аллаха, иногда я не прихожу на молитву вовремя, потому что такой-то (имам) проводит её с нами слишком долго”». (Абу Мас‘уд, да будет доволен им Аллах, сказал): «И я никогда не видел, чтобы Пророк ﷺ увещевая людей, гневался сильнее, чем в тот день. Он сказал: “О люди! Поистине, (некоторые из вас) отталкивают (других от молитвы)! Пусть же тот, кто проводит её с людьми, облегчает, ведь среди них (могут) оказаться больные, слабые и те, у кого есть неотложные дела!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Arabic No</td><td>90</td></tr><tr><td>Reference</td><td>Book 3 Hadith 32</td></tr></tbody></table></div>
 

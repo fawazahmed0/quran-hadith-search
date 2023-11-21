@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar said:I used to sleep in the mosque in the lifetime of the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Hamzah bin Abdullah bin Umar] dia berkata; [Ibnu Umar] berkata; Saya pernah bermalam di masjid pada masa Rasulullah shallallahu 'alaihi wasallam, ketika itu saya masih muda belia dan bujangan. Sementara anjing-anjing kencing mondar mandir dalam masjid. Dan mereka (para sahabat) tidak ada yang memercikkan air sedikit pun terhadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (174)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>382</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 1 Hadith 382</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба о том, что Хамза ибн ‘Абдуллах ибн ‘Умар сказал: «Ибн ‘Умар сказал: “При жизни Посланника Аллаха ﷺ когда я был холостым юношей, мне нередко приходилось ночевать в мечети. (В то время) собаки мочились, заходили и выходили из мечети, однако люди не поливали водой ни одно (такое место)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (174)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>382</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 1 Hadith 382</td></tr></tbody></table></div>
 

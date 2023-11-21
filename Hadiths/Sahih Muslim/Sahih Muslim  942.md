@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'mash reported:When the Messenger of Allah (ﷺ) suffered from illness of which
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>942</td></tr><tr><td>Arabic No</td><td>418.07</td></tr><tr><td>Reference</td><td>Book 4 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса говорится: «Когда Посланника Аллаха ﷺ уже поразил тот недуг, от которого он умер…». В версии хадиса Ибн Мусхира также говорится: «…Тогда Посланника Аллаха ﷺ привели и усадили рядом с ним (Абу Бакром). И Пророк ﷺ провёл молитву с людьми, а Абу Бакр (громко) произносил (слова) “такбира”, чтобы они могли слышать его». А версии ‘Исы говорится: «…тогда Посланник Аллаха ﷺ сел и стал совершать молитву, а Абу Бакр рядом с ним (повторял громко его слова), чтобы слышали люди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>942</td></tr><tr><td>Arabic No</td><td>418.07</td></tr><tr><td>Reference</td><td>Book 4 Hadith 104</td></tr></tbody></table></div>
 

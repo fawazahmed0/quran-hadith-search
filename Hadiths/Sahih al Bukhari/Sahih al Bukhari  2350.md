@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The people say that Abu Huraira narrates too many narration
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Ibnu Syihab] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata: Sesungguhgnya orang-orang mengatakan: "Abu Hurairah adalah yang paling banyak menyampaikan hadits dan Allah Maha Memenuhi janji. Dan mereka berkata: "Mengapa Muhajirin dan Anshar menampaikan hadits tidak sebanyak yang aku sampaikan?" Sesungguhnya saudara-saudaraku dari kalangan Muhajirin mereka disibukkan dengan berdagang di pasar-pasar dan saudara-saudaraku dari kalangan Anshar mereka disibukkan dengan pekerjaan mereka dalam mengurus harta mereka (bercocok tanam). Adapun aku adalah seorang yang miskin, aku selalu bermulazamah (mendampingi) Rasulullah shallallahu 'alaihi wasallam dengan isi perut sekedar kebutuhan pokok, dan aku selalu hadir (dalam majelis) saat mereka tidak bisa hadir dan dapat menjaga hafalan saat mereka lupa". Dan pada suatu hari Nabi shallallahu 'alaihi wasallam bersabda: "Sekali-kali janganlah seorang dari kalian menghamparkan kainnya sebelum aku selesai menyampaikan sabdaku ini lalu dia mengumpulkannya dalam dadanya yang akhirnya dia melupakan sesuatu dari sabdaku untuk selamanya". Maka aku hamparkan kainku yang bermotif karena aku tidak memiliki kain yang lain hingga Nabi shallallahu 'alaihi wasallam selesai menyampaikan sabda Beliau lalu aku kumpulkan dalam dadaku". Maka demi Dzat yang mengutus Beliau dengan haq, tidaklah aku lupa satupun dari sabda Beliau hingga hari ini dan demi Allah, kalau bukan karena dua ayat dalam Kitabulloh maka aku tidak akan menyampaikannya sesuatu haditspun kepada kalian selamanya". (Lalu dia membaca ayat 159 dan 160 dari surah Al Baqarah yang artinya: ('Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa penjelasan dan petunjuk ……hingga akhir ayat.. Allah Maha Penyayang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2350</td></tr><tr><td>Arabic No</td><td>2350</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Люди говорят, что Абу Хурайра передаёт много хадисов, но при встрече с Аллахом (в День воскресения, Он рассчитает меня, если я намеренно лгал, и рассчитает тех, кто думал обо мне плохо). И они говорят: «Почему мухаджиры и ансары не рассказывают столько хадисов, подобно ему?!» Мои братья мухаджиры были заняты сделками на рынках, а моих братьев ансаров занимали дела, связанные с их имуществом. Я же был бедным человеком и неотступно следовал за Посланником Аллаха ﷺ, довольствуясь лишь тем, что могло насытить мой живот, и присутствовал, когда они отсутствовали, и я заучивал, когда они забывали. Однажды Посланник Аллаха ﷺ сказал: «Тот, кто расстелет свою накидку, пока я не закончу свою речь, после чего соберёт её у себя на груди, тот никогда не забудет то, что слышал от меня». И я расстелил свой плащ, который был на мне, и никакой другой одежды на мне не было, и когда Пророк ﷺ закончил свою речь, я собрал её на своей груди, и клянусь Тем, Кто послал его с истиной, до сегодняшнего дня, я ничего не забыл из тех его слов. Клянусь Аллахом, если бы не два аята из Книги Аллаха, то я никогда не передал бы ни одного хадиса: “Воистину, тех, которые скрывают ниспосланные Нами ясные знамения и верное руководство…” (сура “аль-Бакара”, аят 159) до слов: “…Милосердный” (сура “аль-Бакара”, аят 160)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2350</td></tr><tr><td>Arabic No</td><td>2350</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to kiss and embrace (his wives) while he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam mencium dan mencumbu (isteri-isteri Beliau) padahal Beliau sedang berpuasa. Dan Beliau adalah orang yang paling mampu mengendalikan nafsunya dibandingkan kalian". Dan Al Aswad berkata; Ibnu 'Abbas radliallahu 'anhuma berkata, istilah ma"aarib maknanya adalah keperluan (seperti dalam QS Thoha ayat 18) artinya hajat. Dan berkata, Thowus (seperti dalam QS An-Nuur ayat 31) artinya: orang dungu yang tidak punya keinginan lagi terhadap wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1927</td></tr><tr><td>Arabic No</td><td>1927</td></tr><tr><td>Reference</td><td>Book 30 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время поста Пророк ﷺ нередко обнимал и целовал (своих жён, однако) он владел собой лучше любого из вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1927</td></tr><tr><td>Arabic No</td><td>1927</td></tr><tr><td>Reference</td><td>Book 30 Hadith 35</td></tr></tbody></table></div>
 

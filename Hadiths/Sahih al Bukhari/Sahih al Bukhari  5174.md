@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "Set the captives free, accept the inv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Sufyan] ia berkata; Telah menceritakan kepadaku [Manshur] dari [Abu Wa'il] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Lepaskanlah tawanan, penuhilah undangan dan jenguklah orang sakit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5174</td></tr><tr><td>Arabic No</td><td>5174</td></tr><tr><td>Reference</td><td>Book 67 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари) передаёт, что Пророк ﷺ сказал: «Освобождайте пленника, отвечайте приглашающему (на приглашение) и навещайте больного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5174</td></tr><tr><td>Arabic No</td><td>5174</td></tr><tr><td>Reference</td><td>Book 67 Hadith 109</td></tr></tbody></table></div>
 

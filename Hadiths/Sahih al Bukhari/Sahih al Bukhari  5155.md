@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) saw the traces of Sufra (yellow perfume) on 'Abd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad] ia adalah Ibnu Zaid, dari [Tsabit] dari [Anas] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam melihat bekas Shufr pada Abdurrahman bin Auf, maka beliau pun bertanya: "Apa ini?" ia menjawab, "Sesungguhnya aku telah menikahi seorang wanita dengan mahar Wazn Nawat dari emas." Beliau besabda: "Semoga Allah memberkahimu. Adakanlah walimah meskipun dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5155</td></tr><tr><td>Arabic No</td><td>5155</td></tr><tr><td>Reference</td><td>Book 67 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, рассказал что, когда Пророк ﷺ увидел на ‘Абдуррахмане ибн ‘Ауфе жёлтые следы (от благовоний на теле), он спросил его: “Что это?” ‘Абдуррахман ответил: “Я женился на женщине, подарив ей золото, равное по весу (финиковой) косточке”. Тогда Посланник Аллаха ﷺ сказал: “Да благословит тебя Аллах! Тебе следует устроить свадебное угощение /валима/ хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5155</td></tr><tr><td>Arabic No</td><td>5155</td></tr><tr><td>Reference</td><td>Book 67 Hadith 90</td></tr></tbody></table></div>
 

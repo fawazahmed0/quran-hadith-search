@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) sent Umar for (collecting
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Ali bin Hafsh] Telah menceritakan kepada kami [Warqa'] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengutus Umar untuk mengambil sedekah (zakat). Lalu dikatakan: Ibnu Jamil enggan menunaikannya, begitu juga Khalid bin Al Walid dan Al 'Abbas paman Rasulullah shallallahu 'alaihi wasallam. Maka Rasulullah shallallahu 'alaihi wasallam pun berkata: "Tidaklah Ibnu Jamil kufur nikmat kecuali disebabkan karena dia adalah seorang yang fakir, maka semoga Allah memberinya kecukupan. Adapun Khalid, sungguh kalian telah berlaku lalim terhadapnya, ia telah menyimpan beberapa tamengnya untuk persiapan perang di jalan Allah. Adapun Al Abbas, maka kewajibannya menjadi tanggung jawabku, begitu juga kewajibannya yang lain." Kemudian beliau berkata: "Wahai Umar, tidakkah kamu merasa bahwa sesungguhnya paman seorang lelaki pada hakekatnya seperti bapaknya sendiri?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>983</td></tr><tr><td>Reference</td><td>Book 12 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды) Посланник Аллаха ﷺ послал ‘Умара (собирать) закят, (а потом Пророку ﷺ) было сказано: “Ибн Джамиль, Халид ибн аль-Валид и аль-‘Аббас, дядя Посланника Аллаха ﷺ, отказались (платить)”. Посланник Аллаха ﷺ сказал: “Что (заставляет) Ибн Джамиля гневаться (и отказываться от выплаты закята), ведь он был беден, а Аллах обогатил его? Что касается Халида, то вы несправедливы по отношению к (нему), ибо он приберёг свои доспехи и (прочее) военное снаряжение (для сражений) на пути Аллаха. Что же касается аль-‘Аббаса, то (этот закят за него) и ещё столько же должен выплатить я”. Потом (Пророк ﷺ) сказал: “О ‘Умар, разве ты не знаешь, что для человека дядя со стороны отца подобен отцу?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>983</td></tr><tr><td>Reference</td><td>Book 12 Hadith 15</td></tr></tbody></table></div>
 

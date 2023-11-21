@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abdullah bin 'Umar said:"Allah's Messenger (ﷺ) appointed Zaid bin Haritha as t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Bakar] Telah menceritakan kepada kami [Mughirah bin Abdurrahman] dari [Abdullah bin Said] dari [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma, katanya, Rasulullah shallallahu 'alaihi wasallam dalam perang Mu'tah mengangkat Zaid bin Haritsah sebagai komandan, lantas Rasulullah shallallahu 'alaihi wasallam berpesan: "Jika Zaid bin Haritsah gugur, maka Ja'far yang mengganti, jika Ja'far gugur, maka Abdullah bin Rawahah sebagai penggantinya." Kata Abdullah, aku berada ditengah-tengah pasukan dalam peperangan itu. Lantas kami mencari-cari Ja'far bin Abu Thalib, dan kami temukan ia diantara para prajurit yang terbunuh dan kudapati di tubuhnya ada sekitar sembilan puluh lebih luka karena tombak atau panah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 64 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ назначил Зейда ибн Харису командиром отряда, (направленного) им в Муту, и сказал: “Если будет убит Зейд, (пусть его место займёт) Джа‘фар, a если будет убит и Джа‘фар, (пусть его место займёт) ‘Абдуллах ибн Раваха”».\n‘Абдуллах сказал: «Во время этой битвы я находился с ними, а потом мы стали искать Джа‘фара ибн Аби Талиба, обнаружили его среди убитых и насчитали на его (теле) более девяноста ран, нанесенных мечами, копьями и стрелами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 64 Hadith 295</td></tr></tbody></table></div>
 

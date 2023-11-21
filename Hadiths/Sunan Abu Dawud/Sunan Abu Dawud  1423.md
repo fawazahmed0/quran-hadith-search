@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayy ibn Ka'b: The Messenger of Allah (ﷺ) used to observe witr with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Abu Hafsh Al Abbar], dan diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Ibrahim bin Musa] telah mengabarkan kepada Kami [Muhammad bin Anas] dan ini adalah lafazhnya, dari [Al A'masy] dari [Thalhah] dan [Zubaid] dari [Sa'id? bin Abdurrahman bin Abza] dari [ayahnya] dari [Ubai bin Ka'bin] ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam melakukan witir dengan membaca "Sabbihisma rabbikal a'laa" (Surat Al A'la) dan "Qul lilladzina kafaruu" (Surat Al Kaafiruun) serta "WAllahul wahidush shamad" (Surat Al Ikhlash). Telah berkata kepada Kami [Ahmad bin Abu Syu'aib], telah menceritakan kepada Kami [Muhammad bin Salamah], telah menceritakan kepada Kami [Khushaif] dari [Abdul Aziz bin Juraij] berkata; aku bertanya kepada [Aisyah] ummul mukminin radhiyAllahu; surat apakah yang dibaca Rasulullah shallAllahu wa'alaihi wa sallam ketika melakukan witir? Kemudian ia menyebutkan maknanya; dan pada raka'at yang ketiga beliau membaca "Qul Huwallaahu Ahad" dan "Mu'awwidzatain" (Surat Al Falaq dan An Naas)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1423</td></tr><tr><td>Arabic No</td><td>1423</td></tr><tr><td>Reference</td><td>Book 8 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убаййа ибн Ка‘ба, да будет доволен им Аллах, что Посланник Аллаха ﷺ совершая витр, читал суры «Славь имя Господа твоего Высочайшего…», «Скажи тем, кто не уверовал…» и «Он Аллах Единственный…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1423</td></tr><tr><td>Arabic No</td><td>1423</td></tr><tr><td>Reference</td><td>Book 8 Hadith 8</td></tr></tbody></table></div>
 

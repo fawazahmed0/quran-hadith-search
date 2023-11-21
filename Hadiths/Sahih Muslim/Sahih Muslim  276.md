@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated by Miqdad, and he was an ally of B. Zuhra and was of those who pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>276</td></tr><tr><td>Arabic No</td><td>95.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что (однажды) аль-Микдад ибн ‘Амр аль-Кинди, союзник племени бану зухра и один из тех, кто вместе с Посланником Аллаха ﷺ участвовал в битве при Бадре, сказал: «О Посланник Аллаха, скажи мне, если я встречу кого-нибудь из неверных…». Затем рассказал хадис, подобный предыдущему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>276</td></tr><tr><td>Arabic No</td><td>95.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 182</td></tr></tbody></table></div>
 

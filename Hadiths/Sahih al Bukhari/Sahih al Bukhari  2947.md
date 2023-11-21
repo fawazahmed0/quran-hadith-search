@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Malik:Whenever Allah's Messenger (ﷺ) intended to lead a Ghaz
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata telah bercerita kepadaku ['Abdur Rahman bin 'Abdullah bin Ka'ab bin Malik] bahwa ['Abdullah bin Ka'ab radliallahu 'anhu] adalah penuntun Ka'ab (saat buta) dari anak-anaknya, dia berkata aku mendengar [Ka'ab bin Malik] ketika dia tidak mengikuti perang bersama Rasulullah shallallahu 'alaihi wasallam (dalam perang Tabuk). Dan tidaklah Rasulullah shallallahu 'alaihi wasallam hendak berperang kecuali Beliau merahasiakannya dari orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2947</td></tr><tr><td>Arabic No</td><td>2947</td></tr><tr><td>Reference</td><td>Book 56 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн Малик сказал: «Всякий раз, когда Посланник Аллаха ﷺ желал выступить в поход (против кого-либо), он обязательно скрывал (свои истинные намерения, показывая, что намеревается отправится) в другое место»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2947</td></tr><tr><td>Arabic No</td><td>2947</td></tr><tr><td>Reference</td><td>Book 56 Hadith 159</td></tr></tbody></table></div>
 

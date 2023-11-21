@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yahya ibn Rashid said:We were sitting waiting for Abdullah ibn Umar who came out
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami ['Umarah bin Ghaziyyah] dari [Yahya bin Rasyid] ia berkata, "Kami duduk menunggu Abdullah bin Umar, kemudian ia keluar dan duduk bersama kami, ia lalu berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang syafa'atnya menghalanginya dari mendapatkan hukuman di antara hukuman-hukuman Allah, maka sungguh ia telah menyelisihi Allah. Barangsiapa berseteru dalam kebatilan sementara ia mengetahuinya maka ia senantiasa berada dalam kemurkaan Allah hingga ia meninggalkannya. Dan barangsiapa mengatakan pada diri seorang mukmin sesuatu yang tidak ada padanya, maka Allah akan menempatkannya dalam perasan penduduk Neraka hingga ia keluar (meninggalkan) dari apa yang ia katakan." Telah menceritakan kepada kami [Ali bin Al Husain bin Ibrahim] telah menceritakan kepada kami [Umar bin Yunus] telah menceritakan kepada kami ['Ashim bin Muhammad bin Zaid Al 'Umari] telah menceritakan kepadaku [Al Mutsanna bin Yazid] dari [Mathar Al Warraq] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan maknanya. Ia menyebutkan, "Barangsiapa memberikan pertolongan dalam sebuah perselisihan dengan kezhaliman maka sungguh ia telah kembali dengan membawa kemarahan Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3597</td></tr><tr><td>Arabic No</td><td>3597</td></tr><tr><td>Reference</td><td>Book 25 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом: «Я слышал, как Посланник Аллаха ﷺ сказал: “Тот, чьё ходатайство избавило (человека от заслуженного) наказания, установленного Аллахом, выступает против Аллаха, и кто ведёт тяжбу, зная, что неправ, на того Аллах будет гневаться до тех пор, пока он не прекратит это. А кто сказал о верующем неправду, того поселит Аллах в омуте из испарений тел обитателей Огня, пока он не выйдет из сказанного им”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3597</td></tr><tr><td>Arabic No</td><td>3597</td></tr><tr><td>Reference</td><td>Book 25 Hadith 27</td></tr></tbody></table></div>
 

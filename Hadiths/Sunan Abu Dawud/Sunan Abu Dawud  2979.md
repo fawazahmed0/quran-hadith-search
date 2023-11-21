@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jubair b. Mu'tim:The Messenger of Allah (ﷺ) did not divide the fifth 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar], telah menceritakan kepada kami [Utsman bin Umar], telah mengabarkan kepadaku [Yunus] dari [Az Zuhri] dari [Sa'id bin Al Musayyab], telah menceritakan kepada kami [Jubair bin Muth'im] bahwa Rasulullah shallallahu 'alaihi wasallam tidak membagikan kepada Bani Abdu Syams dan Bani Naufal sedikitpun dari seperima tersebut sebagaimana beliau membagikan kepada Bani Hasyim dan Bani Al Muththalib. Ia berkata; dan Abu Bakr membagikan sepersepuluh tersebut seperti pembagian Rasulullah shallallahu 'alaihi wasallam hanya saja ia tidak memberikan kepada kaum kerabat Rasulullah shallallahu 'alaihi wasallam, sebagaimana Rasulullah shallallahu 'alaihi wasallam memberikan kepada mereka. Ia berkata; dan Umar bin Al Khaththab memberikan kepada mereka begitu juga orang yang datang setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2979</td></tr><tr><td>Arabic No</td><td>2979</td></tr><tr><td>Reference</td><td>Book 20 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джубайра ибн Мут‘има, да будет доволен им Аллах, что Посланник Аллаха ﷺ не выделял бану ‘абд шамс и бану науфаль ничего из хумуса, но выделял бану хашим и бану аль-мутталиб. Абу Бакр распределял хумус так же, как Посланник Аллаха ﷺ только он не наделял близких Посланника Аллаха ﷺ так, как наделял их сам Посланник Аллаха ﷺ, а ‘Умар и те, кто пришли после него, наделяли их
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2979</td></tr><tr><td>Arabic No</td><td>2979</td></tr><tr><td>Reference</td><td>Book 20 Hadith 52</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. 'Abbas:The Messenger of Allah (ﷺ) used to recite in bot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Utsman bin Hakim] telah menceritakan kepadaku [Sa'id bin Yasar] dari [Abdullah bin Abbas] bahwa kebanyakan yang di baca Rasulullah shallallahu 'alaihi wasallam dalam dua raka'at fajar adalah "Kami beriman kepada Allah dan apa yang diturunkan kepada kami" (QS Al Baqarah; 136). Kata Ibnu Abbas; "ayat ini di baca beliau di raka'at pertama, sedangkan di raka'at terakhir beliau membaca "……kami beriman kepada Allah; dan saksikanlah bahwa Sesungguhnya kami adalah orang-orang yang berserah diri." (QS Ali Imran;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что среди того, что Посланник Аллаха ﷺ читал в двух рак‘атах перед утренней молитвой, был аят «Мы уверовали в Аллаха и в то, что ниспослано нам…», который он читал в первом рак‘ате, и аят «Мы уверовали в Аллаха, так засвидетельствуй же, что мы предавшиеся Аллаху (мусульмане)…», который он читал во втором рак‘ате
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
 

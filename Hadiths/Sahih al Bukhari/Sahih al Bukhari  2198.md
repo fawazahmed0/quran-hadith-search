@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik: Allah's Messenger (ﷺ) forbade the sale of fruits till
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2198</td></tr><tr><td>Arabic No</td><td>2198</td></tr><tr><td>Reference</td><td>Book 34 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Соообщается, что (однажды) Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил продавать финики, пока они не поспеют /тузхийа/». Его спросили: «Что значит “поспеют”?» Он сказал: «(Это значит), пока они не покраснеют». (Кроме того,) Посланник Аллаха ﷺ сказал: «Скажи мне, если по воле Аллаха плоды испортятся, то за что же любой из вас будет брать деньги своего брата?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2198</td></tr><tr><td>Arabic No</td><td>2198</td></tr><tr><td>Reference</td><td>Book 34 Hadith 145</td></tr></tbody></table></div>
 

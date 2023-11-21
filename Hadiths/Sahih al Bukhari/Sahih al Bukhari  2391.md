@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:I heard the Prophet (ﷺ) saying, "Once a man died and was ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] dari ['Abdul Malik] dari [Rib'iy] dari [Hudzaifah radliallahu 'anhu] berkata, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Ada seorang yang mati lalu ia ditanya, dan menjawab; Aku pernah berjual beli dengan banyak orang, aku menagih orang-orang yang dalam kelonggaran saja, dan meringankan siapa yang sedang kesulitan". Maka orang itu diampuni dosanya". Berkata, [Abu Mas'ud] aku mendengar dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2391</td></tr><tr><td>Arabic No</td><td>2391</td></tr><tr><td>Reference</td><td>Book 43 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хузейфы, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Когда) умер один человек, спросили его(: “Что ты делал /или что говорил/?”) Он ответит: “...”, и будет ему прощено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2391</td></tr><tr><td>Arabic No</td><td>2391</td></tr><tr><td>Reference</td><td>Book 43 Hadith 7</td></tr></tbody></table></div>
 

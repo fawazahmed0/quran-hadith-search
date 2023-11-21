@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to seek refuge with Allah (by saying), "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Salam bin Abu Muthi'] dari [Hisyam] dari [Ayahnya] dari [Bibinya] bahwa Nabi shallallahu 'alaihi wasallam biasa meminta perlindungan dengan (membaca): "ALLAHUMMA INNI A'UUDZUBIKA MIN FITNATIN NAAR WAMIN 'ADZAABIN NAAR WA A'UUDZUBIKA MIN FITNATIL QABRI WA A'UUDZUBIKA MIN 'ADZAABIL QABRI WA A'UUDZUBIKA MIN FITNATIL GHANIY WA A'UUDZUBIKA MIN FITNATIL FAQRI WA A'UUDZUBIKA MIN FITNATIL MASIIHID DAJJAL (Ya Allah, aku berlindung kepada-Mu dari fitnah neraka dan siksa neraka, aku berlindung kepada-Mu dari fitnah kubur dan siksa kubur, aku berlindung kepada-Mu dari fitnah kekayaan dan aku berlindung kepada-Mu dari fitnah kefakiran dan aku berlindung kepada-Mu dari fitnah Dajjal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6376</td></tr><tr><td>Arabic No</td><td>6376</td></tr><tr><td>Reference</td><td>Book 80 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что Пророк ﷺ часто просил у Аллаха защиты (говоря): «О Аллах, поистине, я ищу у Тебя защиты от искушения огня и мучений огня, и я ищу у Тебя защиты от искушения могилы, и ищу у Тебя защиты от мучений могилы, и ищу у Тебя защиты от искушения богатства, и ищу у Тебя защиты от искушения бедности, и ищу у Тебя защиты от искушения Масиха Даджжаля /Аллахумма, инни а‘узу бика мин фитнати-н-нари ва ‘азаби-н-нари, ва а‘узу бика мин фитнати-ль-къабри, ва а‘узу бика мин ‘азаби-ль-къабри, ва а‘узу бика мин фитнати-ль-гъина, ва а‘узу бика мин фитнати-ль-факъри, ва а‘узу бика мин фитнати-ль-Масихи-д-Даджжаль!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6376</td></tr><tr><td>Arabic No</td><td>6376</td></tr><tr><td>Reference</td><td>Book 80 Hadith 73</td></tr></tbody></table></div>
 

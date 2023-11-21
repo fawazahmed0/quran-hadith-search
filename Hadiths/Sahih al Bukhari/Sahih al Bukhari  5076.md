@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: I said, "O Allah's Messenger (ﷺ)! I am a young man and I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Isma'il] dari [Qais] ia berkata; [Abdullah] berkata; Kami pernah berperang bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam, dan saat itu kami tak punya apa-apa. Kemudian kami pun berkata, "Apakah kami harus mengebiri?" Dan ternyata beliau pun melarang kami untuk melakukannya, lalu beliau memberikan rukhshah kepada kami, yakni menikahi wanita meskipun dengan mahar kain. Kemudian membacakan ayat: "Wahai orang-orang yang beriman, janganlah kamu mengharamkan sesuatu yang baik yang dihalalkan Allah untuk kalian, dan janganlah kalian melampau batas, sesungguhnya Allah tidak menyukai orang yang melampaui batas." (QS. Almaidah 87). [Ashbagh] berkata; Telah mengabarkan kepadaku [Ibnu Wahb] dari [Yunus bin Yazid] dari [Ibnu Syihab] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Aku berkata, "Wahai Rasulullah, aku adalah seorang pemuda, dan aku khawatir terhadap diriku bila terjerumus dalam kekejian, namun aku tidak memiliki sesuatu untuk menikahi wanita." Beliau terdiam. Aku pun berkata lagi seperti itu, beliau masih terdiam. Aku pun mengulanginya kembali, maka Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Abu Hurairah, qalam telah mengering (takdir telah ditetapkan) atas semua yang harus kamu hadapi, bolehlah kamu mengebiri, atau silahkan tinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5076</td></tr><tr><td>Arabic No</td><td>5076</td></tr><tr><td>Reference</td><td>Book 67 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) я сказал (Пророку ﷺ): “О Посланник Аллаха, поистине, я молод, и я боюсь, что могу совершить прелюбодеяние, а жениться я не в состоянии!” — но он ничего не ответил мне. Потом я сказал ему то же самое ещё раз, и он (опять) промолчал, потом я сказал ему то же самое ещё раз, и он (опять) промолчал, потом я сказал ему то же самое ещё раз, и (на этот раз) Пророк ﷺ сказал: “О Абу Хурайра, высохло перо(, записавшее) то, с чем тебе (предстоит) столкнуться, а поэтому ты можешь как оскопить себя, так и отказаться от этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5076</td></tr><tr><td>Arabic No</td><td>5076</td></tr><tr><td>Reference</td><td>Book 67 Hadith 14</td></tr></tbody></table></div>
 

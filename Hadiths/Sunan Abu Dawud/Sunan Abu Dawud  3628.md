@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ash-Sharid: The Prophet (ﷺ) said: Delay in payment on the part of one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Abdullah bin Al Mubarak] dari [Wabr bin Abu Dulailah] dari [Muhammad bin Maimun] dari ['Amru bin Asy Syarid] dari [Ayahnya] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Orang mampu yang menunda pembayaran hutangnya, maka kehormatan dan hukuman telah halal untuknya." Ibnu Al Mubarak berkata, "Halal kehormatannya maksudnya boleh untuk mengeraskan suara (mencela), dan halal hukumannya maksudnya adalah memenjarakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3628</td></tr><tr><td>Arabic No</td><td>3628</td></tr><tr><td>Reference</td><td>Book 25 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн аш-Шарид передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «Честь состоятельного должника, который отказывается возвращать долг, разрешается задевать, а самого его дозволено наказывать». Ибн аль-Мубарак сказал: «Задевать честь значит говорить с ним сурово, а под наказанием подразумевается задержание (временное лишение свободы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3628</td></tr><tr><td>Arabic No</td><td>3628</td></tr><tr><td>Reference</td><td>Book 25 Hadith 58</td></tr></tbody></table></div>
 

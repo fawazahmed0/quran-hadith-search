@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Prophet (ﷺ) said:Iman 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Sa'id] dan [Abd bin Humaid] keduanya berkata, telah menceritakan kepada kami [Abu Amir al-Aqadi] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Abdullah bin Dinar] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Iman itu ada tujuh puluh tiga sampai tujuh puluh sembilan cabang, dan malu adalah termasuk iman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>152</td></tr><tr><td>Arabic No</td><td>35.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Вера (включает в себя) более семидесяти ответвлений, а стыдливость (одно из) ответвлений веры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>152</td></tr><tr><td>Arabic No</td><td>35.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 59</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd al-Rahman b. Zaid: 'Uthman prayed four rak'ahs at Mina. 'Abd Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] bahwa [Abu Mu'awiyah] dan [Hafsh bin Ghiyats] menceritakan kepadanya. Dan hadits Abu Mu'awiyah lebih sempurna. Dari [Al A'masy] dari [Ibrahim] dari [Abdurrahman bin Yazid], ia berkata; Utsman melakukan shalat empat raka'at di Mina. Kemudian [Abdullah] berkata; aku melakukan shalat bersama Nabi shallallahu 'alaihi wasallam dua raka'at, bersama Abu Bakr dua raka'at dan bersama Umar dua raka'at. Ia tambahkan dari [Hafsh] kata; dan pada awal kepemimpinan Utsman, kemudian ia menyempurnakannya. Ia tambahkan dari sini dari Abu Mu'awiyah kata; kemudian jalan kalian berpencar, sungguh aku berharap dari empat raka'at aku memiliki dua raka'at yang diterima. [Al A'masy] berkata; kemudian [Mu'awiyah bin Qurrah] telah menceritakan kepadaku dari [para gurunya] bahwa [Abdullah] melakukan shalat empat raka'at. Kemudian dikatakan kepadanya; engkau mencela Utsman kemudian engkau melakukan shalat empat raka'at. Ia berkata; perselisihan adalah buruk. Telah menceritakan kepada Kami [Muhammad bin Al 'Ala'], telah mengabarkan kepada Kami [Ibnu Al Mubarak] dari [Ma'mar] dari [Az Zuhri] bahwa [Utsman] melakukan shalat empat raka'at di Mina karena ia berniat untuk bermukim setelah haji. Telah menceritakan kepada Kami [Hannad bin As Sarri] dari [Abu Al Ahwash] dari [Al Mughirah] dari [Ibrahim], ia berkata; sesungguhnya [Utsman] melakukan shalat empat dua raka'at karena ia menjadikan Mekkah sebagai tempat tinggal. Telah menceritakan kepada Kami [Muhammad bin Al 'Ala'], telah mengabarkan kepada Kami [Ibnu Al Mubarak] dari [Yunus] dari [Az Zuhri], ia berkata; tatakala [Utsman] memiliki harta di Thaif dan ingin bermukim di sana maka ia melakukan shalat empat dua raka'at. Ia berkata; kemudian para imam mengambil pendapat tersebut. Telah menceritakan kepada Kami [Musa bin Isma'il], telah menceritakan kepada Kami [Hammad] dari [Ayyub] dari [Az Zuhri] bahwa [Utsman bin Affan] menyempurnakan shalat di Mina karena orang-orang badui banyak pada tahun tersebut. Maka ia melakukan shalat bersama orang-orang empat raka'at untuk memberitahukan kepada mereka bahwa shalat adalah empat raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1084) Sahih Muslim (695)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1960</td></tr><tr><td>Arabic No</td><td>1960</td></tr><tr><td>Reference</td><td>Book 11 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман ибн Язид сказал: «‘Усман совершал в Мине четыре рак‘ата». ‘Абдуллах сказал: «Я совершал вместе с Пророком ﷺ два рак‘ата, и с Абу Бакром два рак‘ата, и с ‘Умаром два рак‘ата». [Передатчик] Хафс передаёт добавление: «И с ‘Усманом в начале его правления я совершал два рак‘ата, а потом он стал совершать молитву полностью». В версии Абу Му‘авии говорится: «А потом ваши пути разошлись, а я бы желал, чтобы из четырёх моих рак‘атов хотя бы два были приняты [Аллахом]». А аль-А‘маш, один из передатчиков хадиса, сказал: «Му‘авия ибн Карра передал мне от своих передатчиков, что ‘Абдуллах также совершил четыре рак‘ата и ему сказали: “Ты упрекал ‘Усмана, а потом сам совершаешь четыре рак‘ата?” Он ответил: “Разногласия зло”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1084) Sahih Muslim (695)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1960</td></tr><tr><td>Arabic No</td><td>1960</td></tr><tr><td>Reference</td><td>Book 11 Hadith 240</td></tr></tbody></table></div>
 

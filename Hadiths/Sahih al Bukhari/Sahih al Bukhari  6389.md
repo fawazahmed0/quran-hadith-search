@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The most frequent invocation of The Prophet (ﷺ) was: "O Allah! G
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz] dari [Anas] dia berkata; "Do'a yang paling banyak dipanjatkan Nabi shallallahu 'alaihi wasallam adalah: 'RABBANAA AATINAA FID DUN-YAA HASANAH WAFIL AAKHIRATI HASANAH WAQINAA 'ADZAABAN NAAR Wahai Rabb kami, karuniakanlah kepada kami kebaikan di dunia dan akhirat, dan hindarkanlah kami dari siksa api neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6389</td></tr><tr><td>Arabic No</td><td>6389</td></tr><tr><td>Reference</td><td>Book 80 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что чаще всего Пророк ﷺ обращался (к Аллаху с нижеследующей) мольбой: «О Аллах, Господь наш, даруй нам в мире этом добро и в мире вечном добро и защити нас от мук огня!»\n/Аллахумма, Рабба-на, ати-на фи-д-дунйа хасанатан, ва фи-ль-ахырати хасанатан ва кы-на ‘азаба-н-нар
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6389</td></tr><tr><td>Arabic No</td><td>6389</td></tr><tr><td>Reference</td><td>Book 80 Hadith 84</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Whenever the Prophet (ﷺ) went to the lavatory, he used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] telah menceritakan kepada kami [Syu'bah] dari [Abdul Aziz bin Shuhaib] dari [Anas bin Malik] radliallahu 'anhu dia berkata; "Apabila Nabi shallallahu 'alaihi wasallam hendak masuk jamban, beliau mengucapkan: 'ALLAHUMMA INNI A'UUDZUBIKA MINAL KHUBUTSI WAL KHABAAITSI (Ya Allah, sesungguhnya aku berlindung kepada-Mu dari setan laki-laki maupun perempuan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6322</td></tr><tr><td>Arabic No</td><td>6322</td></tr><tr><td>Reference</td><td>Book 80 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Пророк ﷺ говорил перед тем, как войти в отхожее место: «О Аллах, поистине, я прошу у Тебя защиты от шайтанов мужского и женского пола /Аллахумма инни а‘узу би-кя мина-ль-хубуси ва-ль-хабаис/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6322</td></tr><tr><td>Arabic No</td><td>6322</td></tr><tr><td>Reference</td><td>Book 80 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Rabi’ah said:A young man from the Ansar sneezed behind the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al 'Abbas bin Abdul 'Adzim] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Syarik] dari ['Ashim bin 'Ubaidullah] dari ['Abdullah bin 'Amir bin Rabi'ah] dari [ayahnya] dia berkata; "Seorang pemuda dari Anshar bersin dalam shalat di belakang Rasulullah shallallahu 'alaihi wasallam, lalu dia mengucapkan: "ALHAMDULILLAHI HAMDAN KATSIRAN THAYYIBAN MUBARAKAN FIIH HATTA YARDHA RABBUNA WA BA'DA MA YARDHA MIN AMRID DUN-YAA WAL AKHIRAH" (Segala puji bagi Allah dengan pujian yang banyak, baik, lagi penuh berkah. hingga Rabb kami ridha setelah Dia ridha terhadap urusan dunia dan akhirat)." Seusai shalat, Rasulullah shallallahu 'alaihi wasallam bertanya: "Siapakah yang mengucapkan kalimat tadi?" Pemuda itu terdiam, lalu beliau bertanya lagi: "Siapakah yang mengucapkan kalimat tadi? Sesungguhnya dia tidak mengatakan sesuatu yang salah!" Maka laki-laki itu menjawab: "Akulah yang mengatakannya wahai Rasulullah! Aku tidak bermaksud kecuali hanya kebaikan." Beliau bersabda: "Tidak ada yang dapat menghalangi kalimat tersebut untuk sampai ke Arsy Ar Rahman Tabaraka wa Ta'ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 2 Hadith 384</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам аль-‘Аббас ибн ‘Абдуль-‘Азым, (который) сказал: Рассказал нам Язид ибн Харун, (который сказал): Сообщил нам Шарийк со слов ‘Асыма ибн ‘Убайдуллах, (передавшего) от‘Абдуллаха ибн ‘Амира ибн Раби‘а, (передавшего) от своего отца, (да будет доволен им Аллах, который) сказал: «(Однажды, когда) Посланник Аллаха ﷺ совершал молитву, один молодой человек из числа ансаров, стоявший за ним, чихнул и сказал: “Хвала Аллаху, хвала многая, благая и благословенная, пока Господь наш не будет доволен, и после Его довольства из дел этого мира и последней жизни”. Закончив (молитву), Посланник Аллаха ﷺ спросил: “Кто произнёс эти слова?”»(Раби‘а) сказал: «Этот молодой человек промолчал, и затем (Посланник Аллаха ﷺ снова) спросил: “Кто произнёс эти слова, ибо он не сказал ничего плохого?” И он ответил: “О Посланник Аллаха, это сказал я, но я не хотел (сказать) ничего, кроме благого”. (Тогда Посланник Аллаха ﷺ) сказал: “Они не переставали возвышаться, пока не достигли Престола Милостивого, Благословенный Он и Всевышний”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 2 Hadith 384</td></tr></tbody></table></div>
 

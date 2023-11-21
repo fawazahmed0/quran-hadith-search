@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama reported:I asked 'A'isha (Allah be pleased with her) about the fastin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] semuanya dari [Ibnu Uyainah] - [Abu Bakr] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibnu Abu Labid] dari [Abu Salamah] ia berkata, saya pernah bertanya kepada [Aisyah] radliallahu 'anha tentang puasa Rasulullah shallallahu 'alaihi wasallam, maka ia pun berkata; Rasulullah shallallahu 'alaihi wasallam sering berpuasa hingga kami mengira bahwa beliau akan puasa seterusnya. Dan beliau sering berbuka (tidak puasa) sehingga kami mengira beliau akan berbuka (tidak puasa) terus-menerus. Dan aku tidak pernah melihat beliau berpuasa terus sebulan penuh kecuali Ramadlan. Dan aku juga tidak pernah melihat beliau puasa sunnah dalam sebulan yang lebih banyak dariada puasanya di bulan Sya'ban. Beliau berpuasa pada bulan Sya'ban hingga sisa harinya tinggal sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2722</td></tr><tr><td>Arabic No</td><td>1156.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2722</td></tr><tr><td>Arabic No</td><td>1156.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 228</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Si le Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Ja'far bin Sulaiman] dari [Tsabit al-Bunani] dari [Anas], Anas berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam mendengar tangisan seorang anak kecil bersama ibunya, sedangkan beliau dalam keadaan shalat, lalu beliau membaca surat yang ringan atau surat yang pendek
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1055</td></tr><tr><td>Arabic No</td><td>470.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Когда во время молитвы Посланник Аллаха ﷺ слышал плач ребёнка, (который был на руках) матери, он читал лёгкую (или: короткую) суру»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1055</td></tr><tr><td>Arabic No</td><td>470.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 217</td></tr></tbody></table></div>
 

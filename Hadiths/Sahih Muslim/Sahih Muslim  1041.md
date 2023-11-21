@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:'Mu'adh b. Jabal al-Ansari led his companions in the night prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [al-Laits] dari [Abu az-Zubair] dari [Jabir] bahwasanya dia berkata, "Mu'adz bin Jabal al-Anshari shalat Isya' mengimami para sahabatnya, lalu dia memanjangkan bacaannya atas mereka, maka seorang laki-laki dari kalangan kami berpaling, lalu shalat sendirian. Lalu Mu'adz diberitahu tentangnya, maka dia berkata, 'Dia seorang yang munafik.' Ketika hal tersebut sampai pada laki-laki tersebut maka dia mengunjungi Rasulullah Shallallahu'alaihiwasallam, lalu mengabarkan kepadanya sesuatu yang dikatakan Mu'adz. Maka Nabi Shallallahu'alaihiwasallam bersabda kepadanya, 'Apakah kamu ingin menjadi pemfitnah (yang membuat orang lain lari dari agama) wahai Mu'adz?. Apabila kamu mengimami manusia, maka bacalah surat asy-Syams wa dhuhaha, Sabbihisma Rabbika al-A'la, dan Iqra' Bismi Rabbika, serta Wa al-Laili idza Yaghsya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1041</td></tr><tr><td>Arabic No</td><td>465.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир рассказывал, что (однажды) Му‘аз ибн Джабаль аль-Ансари руководил (групповой) вечерней молитвой со своими сподвижниками и сильно удлинил её, (из-за чего) один человек отошёл в сторону и совершил молитву (самостоятельно). Когда Му‘азу сообщили о нём, он сказал: «Поистине, он лицемер». Когда же это дошло до того человека, он пришёл к Посланнику Аллаха ﷺ и сообщил ему о том, что сказал Му‘аз, и Пророк ﷺ сказал (Му‘азу): «О Му‘аз, ты хочешь стать искусителем!? Если ты руководишь людьми в (групповой молитве), то читай (суры) “Клянусь солнцем и его сиянием…”, “Славь имя твоего Высочайшего Господа” и “Клянусь ночью, когда она покрывает…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1041</td></tr><tr><td>Arabic No</td><td>465.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 203</td></tr></tbody></table></div>
 

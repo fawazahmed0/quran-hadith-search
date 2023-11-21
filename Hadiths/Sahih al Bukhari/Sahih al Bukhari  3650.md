@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:"Allah's Messenger (ﷺ) said, 'The best of my follow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq] telah bercerita kepada kami [an-Nadlar] telah mengabarkan kepada kami [Syu'bah] dari [Abu Jamrah], aku mendengar [Zahdam bin Mudlarrib], aku mendengar ['Imran bin Hushain radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik ummatku adalah yang orang-orang hidup pada zamanku (generasiku) kemudian orang-orang yang datang setelah mereka kemudian orang-orang yang datang setelah mereka". 'Imran berkata; "Aku tidak tahu apakah setelah menyebut generasi beliau, beliau menyebut lagi dua generasi atau tiga generasi setelahnya." "Kemudian akan datang setelah kalian suatu kaum yang mereka bersaksi padahal tidak diminta bersaksi dan mereka suka berkhiyanat (sehingga) tidak dipercaya, mereka memberi peringatan padahal tidak diminta memberi fatwa dan nampak dari ciri mereka berbadan gemuk-gemuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3650</td></tr><tr><td>Arabic No</td><td>3650</td></tr><tr><td>Reference</td><td>Book 62 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: “Лучшими людьми моей общины будут мои современники, затем — следующие за ними, а затем — следующие за ними”».\n‘Имран сказал: «И я (точно) не знаю, упомянул ли Пророк ﷺ после этого два или три поколения. (Потом Пророк ﷺ сказал): “Поистине, после вас будут люди, которые будут свидетельствовать до того, как их будут просить об этом, будут поступать вероломно и будут недостойны доверия. И они станут давать обеты, но не будут выполнять (их), и многие из них будут тучными”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3650</td></tr><tr><td>Arabic No</td><td>3650</td></tr><tr><td>Reference</td><td>Book 62 Hadith 2</td></tr></tbody></table></div>
 

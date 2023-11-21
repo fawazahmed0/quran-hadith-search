@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The son of Mughira b. Shu'ba reported:The Messenger of Allah (ﷺ) went out for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabarkan kepada kami [al-Laits] dari [Yahya bin Sa'id] dari [Sa'id bin Ibrahim] dari [Nafi' bin Jubair] dari [Urwah bin al-Mughirah] dari bapaknya [al-Mughirah bin Syu'bah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau shallallahu 'alaihi wasallam pernah keluar untuk membuang hajat, lalu al-Mughirah mengikutinya dengan membawa setimba air. Air tersebut dia tuangkan di atasnya ketika beliau selesai membuang hajatnya lalu berwudlu serta menyapu kedua khuf." Dan dalam riwayat Ibnu Rumh kata hina (ketika) diganti hatta (hingga). Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] dia berkata, aku mendengar [Yahya bin Sa'id] dengan sanad ini seraya berkata, "Lalu beliau membasuh wajah dan kedua tangannya, dan mengusap kepalanya, kemudian mengusap bagian atas kedua khufnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>626</td></tr><tr><td>Arabic No</td><td>274.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Мугыры ибн Шу‘бы, что (однажды) Посланник Аллаха ﷺ вышел, чтобы справить нужду, и аль-Мугыра последовал за ним с сосудом с водой, и когда он закончил, (аль-Мугыра) стал лить ему воду, и он совершил омовение и обтёр кожаные носки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>626</td></tr><tr><td>Arabic No</td><td>274.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 93</td></tr></tbody></table></div>
 

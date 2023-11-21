@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Umm Haritha, the sister of Rubayyi' (she was the father's sis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Tsabit] dari [Anas], bahwa saudara perempuan Rubai', ibunya Haritsah, pernah melukai seseorang. Lalu semua keluarganya pergi mengadukan hal itu kepada Nabi shallallahu 'alaihi wasallam, lantas Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Laksanakanlah hukum qishash, laksanakanlah hukum qishash." Tetapi Ummu Rubayyi' merasa keberatan dengan hukuman ini seraya berkata, "Ya Rasulullah, apakah anda akan menjatuhkan hukuman qishash terhadap fulanah? Demi Allah, janganlah anda menjatuhkan hukuman qishash terhadapanya." Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Subhanallah wahai Ummu Rubayyi', bukankah hukuman qishash itu sudah merupakan suatu ketentuan dari Allah?" Ummu Rubayi' menjawab, "Demi Allah wahai Rasulullah, janganlah dia dijatuhi hukuman qishah untuk selama-lamanya." Sementara itu, Ummu Rubayyi' terus mendesak, sampai pihak keluarga kurban mau menerima diyat. Akhirnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara hamba-hamba Allah ada orang yang apabila bersumpah atas nama Allah, maka dia akan berbuat baik kepada-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4374</td></tr><tr><td>Arabic No</td><td>1675</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4374</td></tr><tr><td>Arabic No</td><td>1675</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
 

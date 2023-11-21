@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) rapporte qu'il a vu pendant un seul jour une
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu 'Imran Muhammad bin Ja'far bin Ziyad]; Telah mengabarkan kepada kami [Ibrahim] yaitu Ibnu Sa'd dari [Ibnu Syihab] dari [Anas bin Malik]; Bahwasanya pada suatu hari dia melihat di tangan Rasulullah shallallahu 'alaihi wasallam sebuah cincin dari perak. Anas berkata; Maka para sahabat pun saling membuat cincin dari perak dan memakainya. Kemudian tatkala Nabi shallallahu 'alaihi wasallam membuang cincinnya, para sahabat pun ikut membuang cincin mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5483</td></tr><tr><td>Arabic No</td><td>2093.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба, (передавшего) от Анаса ибн Малика (да будет доволен им Аллах) о том, что «в один из дней он увидел на руке Посланника Аллаха ﷺ перстень из серебра».(Анас) сказал: «И люди также сделали (для себя) перстни из серебра и надели их (на пальцы), однако Пророк ﷺ выбросил свой перстень, и тогда люди также выбросили свои перстни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5483</td></tr><tr><td>Arabic No</td><td>2093.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
 

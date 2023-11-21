@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id:Um Khalid bint Khalid bin Sa'id said, "I came to Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban] telah mengabarkan kepada kami [Abdullah] dari [Khalid bin Sa'id] dari [Ayahnya] dari [Ummu Khalid binti Khalid bin Sa'id] dia berkata; saya mengunjungi Rasulullah shallallahu 'alaihi wasallam bersama ayahku, sedangkan aku tengah mengenakan baju berwarna kuning, Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagus, bagus." Abdullah mengatakan; "Menurut orang-orang Habsyah sanah artinya adalah hasan (bagus)." Ummu Khalid berkata; "Lalu aku beranjak untuk mempermainkan cincin kenabian beliau, maka ayahku langsung menghardikku, namun Rasulullah shallallahu 'alaihi wasallam bersabda: "Biarkanlah ia." Kemudian beliau bersabda: "Pakailah (kain tersebut) semoga panjang umur (tidak cepat rusak) dan pakailah semoga panjang umur dan pakailah semoga panjang umur." Abdullah berkata; "Dan pakaian tersebut masih ada bekasnya hingga ia pun menyebutkan dari sisa kain tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5993</td></tr><tr><td>Arabic No</td><td>5993</td></tr><tr><td>Reference</td><td>Book 78 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Халид бинт Халид ибн Са‘ид сказала: «(Однажды,) надев жёлтую рубаху, я пришла к Посланнику Аллаха ﷺ вместе со своим отцом, и Посланник Аллаха ﷺ воскликнул: “Санах, санах!” (— что на языке эфиопов означает “Прекрасно!”) Потом я стала играть с печатью пророчества, а мой отец принялся отгонять меня криком, но Посланник Аллаха ﷺ сказал: “Оставь её!” А потом Посланник Аллаха ﷺ сказал (мне): “Используй и износи до предела, потом (ещё раз) используй и износи до предела, потом (ещё раз) используй и износи до предела! /Абли ва ахликы, сумма абли ва ахликы, сумма абли ва ахликы!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5993</td></tr><tr><td>Arabic No</td><td>5993</td></tr><tr><td>Reference</td><td>Book 78 Hadith 24</td></tr></tbody></table></div>
 

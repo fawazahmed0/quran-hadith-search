@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: If only one day of this time 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Al Fadhl bin Dukain] berkata, telah menceritakan kepada kami [Fithr] dari [Al Qasim bin Abu Bazzah] dari [Abu Ath Thufail] dari [Ali radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sekiranya dunia ini tidak lagi tersisa kecuali hanya sehari, sungguh Allah akan mengutus seorang laki-laki dari ahli baitku, ia akan memenuhi bumi dengan keadilan sebagaimana bumi pernah dipenuhi kajahatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4283</td></tr><tr><td>Arabic No</td><td>4283</td></tr><tr><td>Reference</td><td>Book 38 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али (ибн Абу Талиба), да будет доволен им Аллах, что Пророк ﷺ сказал: «Даже если бы до конца времён оставался всего один день, Аллах послал бы человека из людей дома моего, который наполнит землю справедливостью подобно тому, как до этого наполнилась она притеснением»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4283</td></tr><tr><td>Arabic No</td><td>4283</td></tr><tr><td>Reference</td><td>Book 38 Hadith 5</td></tr></tbody></table></div>
 

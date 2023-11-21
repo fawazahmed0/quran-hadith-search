@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'mash narrated this hadith with the same chain of transmitters, with this chang
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>245</td></tr><tr><td>Arabic No</td><td>81.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Муслим сказал): Рассказал мне Зухайр ибн Харб, (который сказал): Рассказал нам Ваки‘, (который сказал): Рассказал нам аль-А‘маш с этим иснадом такой же (хадис), не считая, что он сказал: «… и я ослушался, и (поэтому) меня (ожидает адский) Огонь!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>245</td></tr><tr><td>Arabic No</td><td>81.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 152</td></tr></tbody></table></div>
 

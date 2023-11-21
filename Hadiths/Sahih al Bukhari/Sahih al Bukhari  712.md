@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Prophet, became ill in his fatal illness, Someone came 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdullah bin Daud] berkata, telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] berkata, "Ketika Nabi shallallahu 'alaihi wasallam dalam kondisi sakit yang membawa kepada kematiannya, Bilal datang menemui beliau mengabarkan bahwa waktu shalat telah datang. Beliau lalu berkata: "Kalian suruhlah Abu Bakar untuk memimpin shalat." Aku berkata, "Sesungguhnya Abu Bakar orang yang lemah lembut, jika ia menggantikan posisi tuan, maka dia akan menangis dan tidak akan bisa membaca Al Qur'an." Beliau berkata lagi: "Kalian suruhlah Abu Bakar untuk memimpin shalat." Aku lalu menyampaikan jawaban yang sama. Maka pada ketiga atau keempat kalinya beliau bersabda: "Sungguh kalian ini seperti isteri-isterinya Yusuf. Suruhlah Abu Bakar untuk memimpin shalat." Akhirnya Abu Bakar pun shalat (sebagai Imam). Kemudian Nabi shallallahu 'alaihi wasallam keluar dengan diapit oleh dua orang laki-laki dan seolah aku melihat beliau berjalan dengan menyeret kakinya di atas tanah. Ketika Abu Bakar melihat kedatangan beliau, dia pun berniat mundur. Tetapi beliau memberi isyarat kepadanya seolah berkata: "Tetaplah shalat." Abu Bakar kemudian bergeser dan Nabi shallallahu 'alaihi wasallam duduk disampingnya, lalu Abu Bakar memperdengarkan suara takbir kepada jama'ah." Hadits ini juga diperkuat oleh [Muhadlir] dari [Al A'masy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>712</td></tr><tr><td>Arabic No</td><td>712</td></tr><tr><td>Reference</td><td>Book 10 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>712</td></tr><tr><td>Arabic No</td><td>712</td></tr><tr><td>Reference</td><td>Book 10 Hadith 107</td></tr></tbody></table></div>
 

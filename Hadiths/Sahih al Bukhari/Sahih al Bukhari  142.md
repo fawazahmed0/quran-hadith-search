@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever the Prophet (ﷺ) went to answer the call of nature, he u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abdul 'Aziz bin Shuhaib] berkata, aku mendengar [Anas] berkata, "Jika Nabi shallallahu 'alaihi wasallam masuk ke dalam WC, maka beliau berdo'a: ALLAHUMMA INNI A'UUDZU BIKA MINAL KHUBUTSI WAL KHBA'ITS (Ya Allah aku berlindung kepada-Mu dari setan laki-laki dan setan perempuan) '. Dan hadits ini dikuatkan oleh [Ibnu 'Ar'arah] dari [Syu'bah], dan [Ghundar] berkata dari [Syu'bah] ia berkata, "Jika mendatangi WC." Dan [Musa] dari [Hammad], "Jika masuk." Dan [Sa'id bin Zaid] berkata, telah menceritakan kepada kami [Abdul 'Aziz], "Jika mau masuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуль-‘Азиз ибн Сухайб сказал:\n– Я слышал, как Анас, да будет доволен им Аллах, говорил: «Собираясь зайти в отхожее место, Пророк ﷺ обычно говорил: “О Аллах, поистине, я прибегаю к Тебе от порочности и дурных поступков /Аллахумма, ин-ни а‘узу бика миналь-хубуси валь-хабаис/”». \nГъундар сказал: «От аш-Шу‘бы: “Когда он приходил в отхожее место …”».\nМуса сказал: «От Хаммада: “Когда он заходил …”».\nСа‘ид ибн Зейд сказал: «Рассказал нам ‘Абдуль-‘Азиз: “Когда он собирался зайти …”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu ‘Umamah said :A man came to the prophet (ﷺ) and said : Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] berkata, telah menceritakan kepada kami [Umar bin Abdul Wahid] dari [Al Auza'i] ia berkata; telah menceritakan kepadaku [Abu Ammar] berkata, telah menceritakan kepadaku [Abu Umamah] bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, aku telah melakukan dosa yang wajib atasnya hukuman had, maka hukumlah aku!" beliau balik bertanya: "Apakah engkau berwudhu ketika datang kemari?" ia menjawab, "Ya." beliau bertanya lagi: "Ketika kami shalat apakah kamu juga ikut shalat bersama kami?" ia menjawab, "Ya." beliau bersabda: "Pergilah sesungguhnya Allah telah mengampuni kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2765)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4381</td></tr><tr><td>Arabic No</td><td>4381</td></tr><tr><td>Reference</td><td>Book 40 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умамы, что один человек (это был Абу аль-Юср Ка‘б ибн ‘Амр аль-Ансари) пришёл к Пророку ﷺ и сказал: «О Посланник Аллаха, я совершил преступление, за которое Шариатом установлено наказание. Подвергни же меня ему!» (Посланник Аллаха ﷺ) спросил его: «Ты совершал малое омовение перед тем, как прийти сюда?» Он ответил: «Да». Посланник Аллаха ﷺ спросил: «И ты молился вместе с нами?» Он ответил: «Да». Посланник Аллаха ﷺ сказал: «Иди, поистине, Всевышний Аллах простил тебя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2765)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4381</td></tr><tr><td>Arabic No</td><td>4381</td></tr><tr><td>Reference</td><td>Book 40 Hadith 31</td></tr></tbody></table></div>
 

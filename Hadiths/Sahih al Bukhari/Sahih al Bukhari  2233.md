@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid and Abu Huraira:that Allah's Messenger (ﷺ) was asked 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub] telah menceritakan kepada kami [Bapakku] dari [Shalih] berkata, [Ibnu Syihab] menceritakan bahwa ['Ubaidullah] mengabarkannya bahwa [Zaid bin Khalid] dan [Abu Hurairah] radliallahu 'anhuma, keduanya mengabarkan bahwa mereka mendengar Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang seorang budak perempuan yang belum menikah berzina, maka Beliau bersabda: "Cambuklah dia kemudian jika dia berzina kembali cambuklah kemudian juallah setelah melakukan untuk ketiga atau keempat kalinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2233</td></tr><tr><td>Arabic No</td><td>2233</td></tr><tr><td>Reference</td><td>Book 34 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Халид и Абу Хурайра, да будет доволен Аллах ими обоими, рассказали, что они слышали, как однажды Посланника Аллаха ﷺ спросили, как следует поступить с не состоявшей в браке рабыней, если она совершит прелюбодеяние. Он ответил: «Подвергните её бичеванию, если она опять совершит прелюбодеяние, подвергните её бичеванию, а потом продайте её», — после третьего или после четвёртого раза
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2233</td></tr><tr><td>Arabic No</td><td>2233</td></tr><tr><td>Reference</td><td>Book 34 Hadith 179</td></tr></tbody></table></div>
 

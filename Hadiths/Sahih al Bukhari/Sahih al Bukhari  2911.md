@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:That he was asked about the wound of the Prophet (ﷺ) on the day 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] telah bercerita kepada kami ['Abdul 'Aziz bin Abi Hazim] dari [bapaknya] dari [Sahal radliallahu 'anhu] bahwa dia ditanya tentang luka yang dialami Nabi shallallahu 'alaihi wasallam pada perang Uhud. Dia menjawab: "Wajah Nabi shallallahu 'alaihi wasallam terluka, gigi gerahamnya pecah dan topi baja pelindung kepala Beliau juga pecah. Dan Fathimah Alaihis Salam adalah orang yang membersihkan darah sedangkan 'Ali menahannya. Ketika Fathimah melihat darah yang keluar semakin banyak, dia mengambil tikar lalu membakarnya hinga menjadi abu, kemudian menempelkannya pada luka sehingga darah berhenti mengalir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2911</td></tr><tr><td>Arabic No</td><td>2911</td></tr><tr><td>Reference</td><td>Book 56 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что когда Сахля, да будет доволен им Аллах, спросили о ранении Пророка ﷺ в день битвы при Ухуде, он сказал: «Лицо Пророка ﷺ было ранено, один из его передних зубов был сломан, а шлем был разбит на его голове. Фатыма, мир ей, смывала кровь (с его лица), пока ‘Али держал воду. Когда же она увидела, что кровотечение усилилось, она взяла циновку, сожгла её и приложили (золу) к его ране, и кровь остановилась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2911</td></tr><tr><td>Arabic No</td><td>2911</td></tr><tr><td>Reference</td><td>Book 56 Hadith 124</td></tr></tbody></table></div>
 

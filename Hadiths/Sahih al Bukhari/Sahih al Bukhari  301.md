@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) and I used to take a bath from a single pot wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] berkata, "Aku dan Nabi shallallahu 'alaihi wasallam pernah mandi bersama dari satu bejana. Saat itu kami berdua sedang junub. Beliau juga pernah memerintahkan aku mengenakan kain, lalu beliau mencumbuiku sementara aku sedang haid. Beliau juga pernah mendekatkan kepalanya kepadaku saat beliau i'tikaf, aku lalu basuh kepalanya padahal saat itu aku sedang haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:«И во время своих уединений в мечети он просовывал ко мне голову, а я мыла её, когда у меня были месячные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "We have more right to be in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] Telah menceritakan kepada kami [Ibnu Wahab] Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah] dan [Sa'id] dari [Abu Hurairah radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda:: "Aku lebih berhak untuk ragu dari pada Ibrahim 'Alaihis Salam ketika ia berkata; "Wahai Tuhanku perlihatkanlah kepada saya bagaimana Engkau menghidupkan orang-orang yang telah mati, " Allah berfirman: "Apakah kamu tidak beriman?" Ibrahim berkata; "Tentu aku telah beriman, hanya agar hatiku lebih mantap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4537</td></tr><tr><td>Arabic No</td><td>4537</td></tr><tr><td>Reference</td><td>Book 65 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Мы имеем больше оснований для сомнений, чем Ибрахим, который сказал: “Господь мой! Покажи мне, как Ты оживляешь покойников”. Спросил Он: “Разве ты не уверовал?” Он ответил: “Да, (уверовал,) но я хочу, чтобы успокоилось сердце моё!” (сура “аль-Бакара”, аят 260)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4537</td></tr><tr><td>Arabic No</td><td>4537</td></tr><tr><td>Reference</td><td>Book 65 Hadith 60</td></tr></tbody></table></div>
 

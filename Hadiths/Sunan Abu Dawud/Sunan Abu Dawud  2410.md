@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salamah ibn al-Muhabbaq al-Hudhali: The Messenger of Allah (ﷺ) said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin Yahya], telah menceritakan kepada kami [Hasyim bin Al Qasim], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami ['Uqbah bin Mukram], telah menceritakan kepada kami [Abu Qutaibah] secara makna, mereka berdua berkata; telah menceritakan kepada kami [Abdushshamad bin Habib bin Abdullah Al Azdi], telah menceritakan kepadaku [Habib bin Abdullah], ia berkata; saya mendengar [Sinan bin Salamah bin Al Muhabbaq Al Hudzali], menceritakan dari [ayahnya], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Barangsiapa yang memiliki bekal dan mampu singgah dalam keadaan kenyang, maka hendaknya ia berpuasa Ramadhan dimana pun ia mendapatinya." Telah menceritakan kepada kami [Nashr bin Al Muhajir], telah menceritakan kepada kami [Abdushshamad bin Abdul Warits], telah menceritakan kepada kami [Abdushshamad bin Habib], ia berkata; telah menceritakan kepadaku [ayahku], dari [Sinan bin Salamah] dari [Salamah bin Al Muhabbaq], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mendapati Bulan Ramadhan ketika dalam perjalanan…." Kemudian ia menyebutkan hadits tersebut secara makna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 14 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Синан ибн Саляма ибн аль-Мухаббак аль-Хузали передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «У кого есть верховое животное, благодаря которому он может насытиться, тот должен поститься в рамадане там, где он застал его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 14 Hadith 98</td></tr></tbody></table></div>
 

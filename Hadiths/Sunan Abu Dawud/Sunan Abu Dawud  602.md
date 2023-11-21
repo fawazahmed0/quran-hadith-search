@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) rode a horse in Medina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Jarir] dan [Waki'] dari [Al-A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah menaiki seekor kuda di Madinah, lalu kuda itu menjatuhkan beliau pada akar pohon kurma hingga kakinya keseleo. Maka kami menjenguk beliau, kami mendapati beliau di kamar 'Aisyah sedang melaksanakan shalat sunnah dalam keadaan duduk. Dia (perawi) berkata; Maka kami pun berdiri di belakang beliau, namun beliau tidak berbicara dengan kami. Kemudian kami menjenguk beliau kembali (pada waktu yang lain), lalu beliau shalat wajib dengan duduk, sedangkan kami berdiri di belakang beliau, kemudian beliau memberikan isyarat kepada kami agar duduk, maka kami pun duduk. Dia (perawi) berkata; Tatkala selesai shalat, beliau bersabda: "Apabila imam shalat dengan duduk maka shalatlah kalian dengan duduk, dan apabila imam shalat dengan berdiri maka shalatlah kalian dengan berdiri, dan janganlah kalian melakukan sebagaimana yang dilakukan oleh orang-orang Persia kepada para pemimpin mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>602</td></tr><tr><td>Arabic No</td><td>602</td></tr><tr><td>Reference</td><td>Book 2 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «(Однажды) Посланник Аллаха ﷺ ехал верхом на коне в Медине, который сбросил его с себя на пенёк пальмы и повредил ему ногу. И когда мы пришли навестить его, то нашли его в комнате ‘Аиши, совершающим молитву ад-духа. Мы встали позади него (на молитву), а он промолчал и ничего не сказал нам. Затем, когда мы снова навестили его, он совершал обязательную молитву сидя, а мы встали за ним (на молитву), и он сделал нам знак рукой, и мы сели».(Джабир) сказал: «Когда он закончил молитву, то сказал: “Когда имам совершает молитву сидя, то молитесь сидя, а если имам молится стоя, вы тоже молитесь стоя, и не поступайте так, как поступают персы в присутствии своей знати»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>602</td></tr><tr><td>Arabic No</td><td>602</td></tr><tr><td>Reference</td><td>Book 2 Hadith 212</td></tr></tbody></table></div>
 

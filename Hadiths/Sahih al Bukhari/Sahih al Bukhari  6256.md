@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A group of Jews came to Allah's Messenger (ﷺ) and said, "As-sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku ['Urwah] bahwa [Aisyah] radliallahu 'anha berkata; "Beberapa orang dari kaum Yahudi menemui Rasulullah shallallahu 'alaihi wasallam, mereka berkata; "Assaamu 'alaika (kebinasaan atasmu)." Maka aku pun memahami ucapan mereka, spontan aku menjawab; "'Alaikumus saam walla'nah (semoga atas kalian kebinasaan dan juga laknat)." maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tenanglah wahai Aisyah, sesungguhnya Allah mencintai kelembutan disetiap perkara." Aku berkata; "Wahai Rasulullah, apakah anda tidak mendengar apa yang diucapkan mereka?" Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku telah menjawabnya; "wa'alaikum (dan atas kalian juga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6256</td></tr><tr><td>Arabic No</td><td>6256</td></tr><tr><td>Reference</td><td>Book 79 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды несколько иудеев пришли к Посланнику Аллаха ﷺ и сказали: “Ас-саму ‘алейкум (Смерть вам!)”. Я же, поняв их слова, сказала: “(Это) вам смерть, проклятие Аллаха”. Но Посланник Аллаха ﷺ сказал (мне): “Постой, о ‘Аиша, поистине, Аллах любит (проявления) доброты во всём”. Я сказала: “О Посланник Аллаха, разве ты не слышал, что они сказали?!” Тогда Посланник Аллаха ﷺ сказал: “А я сказал им (в ответ): “И вам (того же)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6256</td></tr><tr><td>Arabic No</td><td>6256</td></tr><tr><td>Reference</td><td>Book 79 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) (p.b.u.h) was asked about the childr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban bin Musa] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Syu'bah] dari [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata,: Ketika Rasulullah Shallallahu'alaihiwasallam ditanya tentang anak-anak orang musyrikin (yang meninggal dunia), Beliau bersabda: "Allah subhanahu wata'ala ketika menciptakan mereka, lebih mengetahui apa yang mereka kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 23 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Саида ибн Джубайра, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Посланника Аллаха ﷺ спросили о детях многобожников, и он сказал: “Поскольку Аллах создал их, Он лучше знает о том, что бы они совершили”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 23 Hadith 135</td></tr></tbody></table></div>
 

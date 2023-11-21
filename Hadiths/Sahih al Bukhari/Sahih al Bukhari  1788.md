@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We set out assuming the Ihram for Hajj in the months of Hajj tow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Aflah bin Humaid] dari [Al Qasim] dari ['Aisyah radliallahu 'anha] berkata: "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam untuk melaksanakan haji pada bulan-bulan haji dan ihram-ihram haji. Ketika kami berhenti di Sarif, Nabi shallallahu 'alaihi wasallam berkata kepada para sahabatnya: "Barangsiapa tidak membawa Al Hadyu dan suka untuk menjadikan ihramnya untuk 'umrah, lakukanlah dan siapa yang membawa Al Hadyu, tidak boleh (menjadikan ihramnya sebagai 'umrah) ". Nabi shallallahu 'alaihi wasallam beserta beberapa orang dari sahabat Beliau yang berbadan kuat dan membawa Al Hadyu, tidak berihram untuk 'umrah. Kemudian Nabi shallallahu 'alaihi wasallam masuk menemuiku saat itu aku sedang menangis, maka Beliau bertanya: "Apa yang membuatmu menangis?" 'Aisyah radliallahu 'anha menjawab: "Aku mendengar apa yang anda katakan kepada para sahabat anda sehingga aku terhalang menjadikan ihramku sebagai 'umrah". Beliau berkata: "Apa hubungannya denganmu? '" Aku jawab: "Aku sedang tidak shalat". Beliau berkata: "Tidak apa, karena kamu adalah dari anak-anak perempuan keturunan Adam yang telah ditetapkan ketentuan atas mereka, maka laksanakanlah hajimu semoga Allah memberikanmu karunia dengan hajimu ini". 'Aisyah radliallahu 'anha berkata: "Maka aku laksanakan hingga kami keluar (nafar) dari Mina lalu singgah di tempat pelemparan jumrah, Beliau memanggil 'Abdurrahman lalu berkata: "Keluarlah kamu bersama saudaramu dari tanah haram lalu berihramlah untuk 'umrah kemudian jika kalian berdua telah selesai dari thawaf (datanglah kemari), kami menunggu kalian berdua disini". Maka kami temui Beliau pada tengah malam. Beliau bertanya: "Apakah kalian telah selesai?". Aku jawab: "Ya, sudah". Maka Beliau menyeru para sahabatnya agar bersiap-siap berangkat. Maka orang-orang dan termasuk yang sedang berthawaf di Ka'bah Baitullah bergegas sebelum shalat Shubuh lalu berangkat pulang menuju Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1788</td></tr><tr><td>Arabic No</td><td>1788</td></tr><tr><td>Reference</td><td>Book 26 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «Мы отправились в путь вместе с посланником Аллаха ﷺ произнеся тальбию для хаджа в месяцы хаджа к местам совершения хаджа. Мы остановились в Сарифе, и Пророк ﷺ сказал своим сподвижникам: “Тот из вас, у кого нет с собой жертвенного скота, а он желает совершить умру, пусть так и сделает, а у кого есть с собой скот, (так поступить) не может”. Пророк ﷺ и сильные мужчины из числа его сподвижников пригнали с собой скот, поэтому они не могли совершить (одну только) умру. Потом Пророк ﷺ зашёл ко мне и, (увидев, что) я плачу, спросил меня: “Почему ты плачешь?” Я ответила: “Я слышала то, что ты сказал своим сподвижникам, и (это значит, что) я лишилась умры”. Он спросил: “А что с тобой?” Я ответила: “Я не совершаю молитвы”. Он сказал: “Не беда! Ведь ты — одна из дочерей Адама, и Аллах предопределил тебе то же, что и другим женщинам. Продолжай совершать свой хадж, а Аллах, может быть, даст тебе возможность совершить и (умру)”. И я продолжала совершать хадж, пока мы не покинули Мину. Когда мы остановились в аль-Мухассабе, Пророк ﷺ позвал ‘Абдуррахмана и сказал ему: “Отправляйся вместе со своей сестрой за пределы харама, и пусть там она войдёт в состояние ихрама для умры, потом, когда вы закончите таваф, приезжайте сюда, я же буду ждать вас здесь”. Мы вернулись в полночь, и он спросил: “Вы закончили?” Я ответила: “Да”. Тогда он объявил своим сподвижникам об отъезде, и люди тронулись в путь, и те, кто совершил таваф вокруг Каабы перед утренней молитвой, и направился в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1788</td></tr><tr><td>Arabic No</td><td>1788</td></tr><tr><td>Reference</td><td>Book 26 Hadith 15</td></tr></tbody></table></div>
 

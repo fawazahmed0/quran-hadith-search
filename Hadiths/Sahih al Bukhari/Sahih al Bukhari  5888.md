@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "To get the moustaches cut 'short is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] dari [Hanzhalah] dari [Nafi'], dan diriwayatkan dari jalur lain, [sahabat-sahabat kami] mengatakan; dari [Al Makki] dari [Ibnu Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam bersabda: "Termasuk dari (sunnah) fitrah adalah mencukur kumis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5888</td></tr><tr><td>Arabic No</td><td>5888</td></tr><tr><td>Reference</td><td>Book 77 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Пророк ﷺ сказал: «К естественным вещам/фитра/ относится укорачивание усов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5888</td></tr><tr><td>Arabic No</td><td>5888</td></tr><tr><td>Reference</td><td>Book 77 Hadith 105</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: Seek it (laylat al-Qadr) in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul A'laa] telah mengabarkan kepada kami [Sa'id] dari [Abu Nadlrah] dari [Abu Sa'id Al Khudri] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Carilah (Laiatul Qadr) pada sepuluh malam yang terakhir bulan ramadhan, dan carilah pada malam sembilan, ketujuh dan kelima." Abu Nadlrah berkata; tanyaku; "Wahai Abu Sa'id, sesungguhnya kamu lebih mengetahui bilangan tersebut daripada kami." Dia menjawab; "ya, betul." Tanyaku selanjutnya; "apakah maksud malam kesembilan, ketujuh dan kelima?" dia menjawab; "Jika malam kedua puluh satu telah berlalu, maka berikutnya tinggal sembilan, jika malam ketiga puluh satu telah berlalu, maka malam berikutnya tinggal tinggal tujuh, jika malam kedua puluh lima telah berlalu, maka malam berikutnya tinggal lima." Abu Daud berkata; "Apakah dia (Perawi) menyembunyikan sesuatu dariku apakah tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1167)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 6 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Ищите Ночь предопределения среди последних десяти ночей рамадана, и она может выпасть на девятую, седьмую или пятую ночь (с конца рамадана)». Передатчик этого хадиса сказал: «Я сказал: “О Абу Са‘ид, поистине, вы знаете числа лучше нас”. Он сказал: “Конечно…”Я спросил: “Что такое девятая, седьмая и пятая?” Он сказал: “После двадцать первой ночи следующей будет девятая ночь (от конца рамадана). Когда закончится двадцать третья ночь, следующая после неё будет седьмой, а когда закончится двадцать пятая ночь, следующая после неё будет пятой”». Абу Дауд говорил: «И я не знаю, укрылось ли от меня что-то из этого хадиса или нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1167)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 6 Hadith 13</td></tr></tbody></table></div>
 

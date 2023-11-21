@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A man: A man from the immigrants of the Companions of the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Al Ja'dan Al Lu'lui] telah mengabarkan kepada kami [Hariz bin Utsman] dari [Hibban bin Zaid Asy Syar'i] dari [seorang laki-laki Qarn]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Hariz bin Utsman] telah menceritakan kepada kami [Abu Khidasy] dan ini adalah lafazh Ali, dari [seorang laki-laki Muhajirin] sahabat Nabi shallallahu 'alaihi wasallam, ia berkata, "Aku pernah berperang bersama Nabi shallallahu 'alaihi wasallam tiga kali, aku mendengar beliau bersabda: "Orang-orang Muslim bersekutu dalam hal rumput, air dan api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 24 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один человек из числа мухаджиров, сподвижников Пророка ﷺ передаёт: «Я трижды отправлялся в военный поход вместе с Пророком ﷺ и слышал, как он говорил: “Мусульмане соучастники в трёх вещах: пастбище, воде и огне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 24 Hadith 62</td></tr></tbody></table></div>
 

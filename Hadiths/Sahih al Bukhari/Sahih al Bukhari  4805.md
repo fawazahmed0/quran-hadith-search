@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "He who says that I am better than 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] Telah menceritakan kepada kami [Muhammad bin Fulaih] dia berkata; Telah menceritakan kepadaku [Bapakku] dari [Hilal bin 'Ali] dari Bani 'Amir bin Luay dari ['Atha bin Yasar] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam dia berkata; "Barang siapa yang berkata; saya lebih baik dari Yunus bin Matta, maka ia telah berdusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>4805</td></tr><tr><td>Reference</td><td>Book 65 Hadith 327</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Солжёт тот, кто скажет, что я лучше, чем Йунус ибн Матта»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>4805</td></tr><tr><td>Reference</td><td>Book 65 Hadith 327</td></tr></tbody></table></div>
 

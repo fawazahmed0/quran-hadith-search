@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: I swear by Allah, I shall not acce
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Urwah Ar Razi] telah menceritakan kepada kami [Salamah bin Al Fadl] telah menceritakan kepadaku [Muhammad bin Ishaq] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Ayahnya] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Allah, aku tidak akan menerima hadiah dari seorangpun setelah hari ini, kecuali ia seorang Muhajir dari Quraisy, atau orang Anshar, atau orang Daus, atau orang Tsaqif
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3537</td></tr><tr><td>Arabic No</td><td>3537</td></tr><tr><td>Reference</td><td>Book 24 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Клянусь Аллахом, после этого дня я не стану принимать подарки ни от кого, кроме мухаджиров-курайшитов, ансаров, дауситов и сакыфитов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3537</td></tr><tr><td>Arabic No</td><td>3537</td></tr><tr><td>Reference</td><td>Book 24 Hadith 122</td></tr></tbody></table></div>
 

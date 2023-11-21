@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through the same chain of transmitters (with a sli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3539</td></tr><tr><td>Arabic No</td><td>1436.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– И рассказал мне его Яхйа ибн Хабиб:– Рассказал нам Халид, то есть Ибн аль-Харис:– Рассказал нам Шу‘ба (хадис) с этим иснадом, и он сказал: «… пока она не вернётся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3539</td></tr><tr><td>Arabic No</td><td>1436.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 141</td></tr></tbody></table></div>
 

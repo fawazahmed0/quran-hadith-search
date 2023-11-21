@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:While the Prophet (ﷺ) was in Al-'Aqiq he said, "Someone (meanin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Syu'aib bin Ishaq] dari [Al A'raj] berkata, telah menceritakan kepadaku [Yahya] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhu] dari [Umar] dari Nabi shallallahu 'alaihi wasallam bersabda: "Malam ini Malaikat yang diutus oleh Rabbku datang kepadaku". Saat itu Beliau sedang berada di lembah Al 'Aqiq dan Malaikat itu berkata; "Shalatlah di lembah yang penuh barakah ini dan katakanlah: "Aku berniat melaksanakan 'umrah dalam 'ibadah hajji ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2337</td></tr><tr><td>Arabic No</td><td>2337</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, передаёт, что Пророк ﷺ будучи в долине ‘Акык, сказал:\n— Сегодня ночью ко мне явился посланник от Господа моего и сказал: «Соверши молитву в этой благословенной долине и скажи: “‘Умра в хадже /‘Умратун фи хаджжатин/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2337</td></tr><tr><td>Arabic No</td><td>2337</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
 

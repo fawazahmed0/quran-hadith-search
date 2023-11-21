@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mushaffa Al Himshi] telah menceritakan kepada kami [Baqiyah] telah menceritakan kepada kami [Az Zubaidi] dari [Az Zuhri] dari [Salim] dari [Abdullah bin Umar] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam hendak melaksanakan shalat, maka beliau mengangkat kedua tangannya hingga sejajar dengan kedua bahunya, kemudian beliau bertakbir, dan kedua tangannya juga masih seperti itu, lalu beliau ruku'. Dan apabila beliau hendak mengangkat tulang sulbinya (punggung), beliau mengangkat kedua tangannya hingga sejajar dengan kedua bahunya sambil mengucapkan: "Sami'allahu liman hamidah (Allah Maha mendengar terhadap siapa saja yang memuji-Nya)." Beliau tidak mengangkat kedua tangannya ketika hendak sujud, namun beliau selalu mengangkat kedua tangannya di setiap takbir yang beliau ucapkan sebelum ruku' sampai selesai shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 2 Hadith 332</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «Когда Посланник Аллаха ﷺ становился на молитву, он поднимал руки пока они не доходили до уровня плеч и затем произносил такбир, когда (руки) находились в таком положении, после чего он совершал поясной поклон. Затем, когда он хотел выпрямить спину, он поднимал их так, что они были на уровне плеч и затем говорил: “Да услышит Аллах тех, кто воздал Ему хвалу” (“Сами‘а-Ллаху лиман хамидах”). И он не поднимал свои руки при совершении земного поклона и поднимал их во время произношения каждого такбира, которые он произносил перед совершением поясного поклона, пока не завершал свою молитву».Шейх аль-Альбани сказал: «Достоверный хадис /сахих/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 2 Hadith 332</td></tr></tbody></table></div>
 

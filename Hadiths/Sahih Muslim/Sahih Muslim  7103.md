@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:I heard Allah's Apostle (ﷺ) as saying: Verily, the Satan has lo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], berkata [Ishaq]: Telah mengkhabarkan kepada kami sedangkan [Utmsan] berkata: Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] berkata: Aku mendengar nabi Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya setan telah putus asa untuk disembah orang-orang yang shalat dijazirah arab, tapi ia mengadu domba diantara mereka." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki']. Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah], keduanya dari [Al A'masy] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7103</td></tr><tr><td>Arabic No</td><td>2812.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ говорил: “Поистине, шайтан уже потерял надежду на то, что совершающие молитвы на Аравийском полуострове, станут поклоняться ему, однако (он всё ещё надеется на то, что ему удастся) посеять меж ними рознь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7103</td></tr><tr><td>Arabic No</td><td>2812.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 57</td></tr></tbody></table></div>
 

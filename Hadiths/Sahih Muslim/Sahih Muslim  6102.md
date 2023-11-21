@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ammar, the freed slave of Banu Hashim, reported that Ibn 'Abbas said that Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Nashr bin 'Ali]; Telah menceritakan kepada kami [Bisyr] yaitu Ibnu MuFadhldlal; Telah menceritakan kepada kami [Khalid Al Hadzdza]; Telah menceritakan kepada kami ['Ammar] -seorang budak- Bani Hasyim; Telah menceritakan kepada kami [Ibnu 'Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam wafat pada usia enam puluh lima tahun. Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ibnu 'Ulayyah] dari [Khalid] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6102</td></tr><tr><td>Arabic No</td><td>2353.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6102</td></tr><tr><td>Arabic No</td><td>2353.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 160</td></tr></tbody></table></div>
 

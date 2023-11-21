@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said Allah will not look, on the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Salim bin Abdullah] dari [Ayahnya] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Siapa yang menjulurkan pakaiannya (hingga ke bawah mata kaki) dengan sombong, maka Allah tidak akan melihatnya pada hari Kiamat kelak." Lalu Abu Bakar berkata; "Wahai Rasulullah, sesungguhnya salah satu dari sarungku terkadang turun sendiri, kecuali jika aku selalu menjaganya?" lalu Nabi shallallahu 'alaihi wasallam bersabda: "Engkau bukan termasuk orang yang melakukan hal itu karena sombong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5784</td></tr><tr><td>Arabic No</td><td>5784</td></tr><tr><td>Reference</td><td>Book 77 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что (однажды) Пророк ﷺ сказал: «В День воскресения Аллах не посмотрит на того, кто волочил за собой свою одежду из кичливости». (Услышав это,) Абу Бакр воскликнул: «О Посланник Аллаха, а ведь одна из пол моей одежды развязывается (и волочится по земле), если я не слежу за ней!» — (на что) Пророк ﷺ сказал: «Ты не из тех, кто делает это из кичливости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5784</td></tr><tr><td>Arabic No</td><td>5784</td></tr><tr><td>Reference</td><td>Book 77 Hadith 2</td></tr></tbody></table></div>
 

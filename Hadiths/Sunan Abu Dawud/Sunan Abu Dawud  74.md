@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Mughaffal: The Messenger of Allaah (sal Allaahu alayhi wa sallam) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] telah menceritakan kepada kami [Abu At Tayyah] dari [Mutharrif] dari [Ibnu Mughaffal], bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah memerintahkan untuk membunuh anjing, kemudian beliau bersabda: "Apa hak mereka (untuk membunuh anjing) dan apa dosanya (untuk dibunuh)." Maka beliau memberikan keringanan (untuk memelihara) anjing buruan dan anjing untuk mengawasi domba, dan beliau bersabda: "Apabila seekor anjing menjilat bejana, maka cucilah ia tujuh kali, dan yang ke delapan gosoklah ia dengan tanah." Abu Dawud berkata; Dan demikianlah Ibnu Mughaffal mengatakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>74</td></tr><tr><td>Arabic No</td><td>74</td></tr><tr><td>Reference</td><td>Book 1 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов (‘Абдуллаха) ибн Мугъаффаля о том, что Посланник Аллаха ﷺ (сначала) повелел убивать собак, но затем сказал: «Какая им (польза от того, что убивают) их?!» И он разрешил (держать) собак для охоты и охраны овец и говорил: “Если собака оближет сосуд, то мойте его семь раз, а на восьмой раз протрите его землей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>74</td></tr><tr><td>Arabic No</td><td>74</td></tr><tr><td>Reference</td><td>Book 1 Hadith 74</td></tr></tbody></table></div>
 

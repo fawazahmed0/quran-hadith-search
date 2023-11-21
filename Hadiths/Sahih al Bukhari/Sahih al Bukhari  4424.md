@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) sent a letter to Khosrau with 'Abdul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] dia berkata [Ubaidullah bin Abdullah] telah mengabarkan kepadaku, bahwa [Ibnu Abbas] telah mengabarkan kepadanya, Sesungguhnya Nabi shallallahu 'alaihi wasallam pernah mengirimkan suratnya kepada Kisra yang diantar oleh Abdullah bin Hudzafah As Sahmi, beliau menyuruhnya agar menyerahkannya kepada pembesar Bahrain, lalu ia menyerahkannya kepada pembesar Bahrain setelah itu dia sampaikan ke Kisra. Setelah membacanya, ia merobeknya. Saya mengira Ibnu Syihab berkata; "Maka Rasulullah shallallahu 'alaihi wasallam mendo'akan untuk mereka agar mereka dicabik-cabik dengan sehancur-hancurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4424</td></tr><tr><td>Arabic No</td><td>4424</td></tr><tr><td>Reference</td><td>Book 64 Hadith 446</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что (в своё время) Посланник Аллаха ﷺ направил вместе с ‘Абдуллах ибн Хузафа ас-Сахмий своё послание, повелев ему вручить это послание владыке Бахрейна, а владыка Бахрейна отправил послание Хосрову, разорвавшему его на мелкие куски после прочтения».\n(Ибн Шихаб аз-Зухрий) сказал: «Я полагаю, что Ибн аль-Мусаййиб сказал: «И Посланник Аллаха ﷺ проклял их, пожелав, чтобы их самих разорвали в клочья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4424</td></tr><tr><td>Arabic No</td><td>4424</td></tr><tr><td>Reference</td><td>Book 64 Hadith 446</td></tr></tbody></table></div>
 

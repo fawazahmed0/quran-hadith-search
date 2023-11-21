@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:A man manumitted a slave and he had no other property than that, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ashim bin 'Ali] telah menceritakan kepada kami [Ibnu Abi Dza'bi] dari [Muhammad bin Al Munkadir] dari [Jabir radliallahu 'anhuma] bahwa ada seseorang membebaskan budak miliknya padahal tidak ada harta baginya selain budak itu. Maka Nabi shallallahu 'alaihi wasallam mengembalikan kepadanya lalu di beli oleh Nu'aim bin An-Nahham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2415</td></tr><tr><td>Arabic No</td><td>2415</td></tr><tr><td>Reference</td><td>Book 44 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, да будет доволен Аллах им и его отцом, что, когда один человек решил освободить своего раба, при том что у него не было другого имущества кроме него, Пророк ﷺ сделал недействительным это освобождение, и продал его, а Ну‘айм ибн Наххам купил у него его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2415</td></tr><tr><td>Arabic No</td><td>2415</td></tr><tr><td>Reference</td><td>Book 44 Hadith 6</td></tr></tbody></table></div>
 

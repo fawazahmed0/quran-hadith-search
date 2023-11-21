@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet (ﷺ) and said, "I have been ruin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Ibrahim] telah mengabarkan kepada kami [Ibnu Syihab] dari [Humaid bin Abdurrahman] bahwa [Abu Hurairah] radliallahu 'anhu dia berkata; "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam sambil berkata; "Celaka aku, aku telah menyetubuhi isteriku di (siang) bulan Ramadhan." Beliau lalu bersabda: "Merdekakanlah seorang budak." Laki-laki itu berkata; "Aku tidak mampu untuk itu." Beliau bersabda: "Berpuasalah dua bulan berturut-turut." Ia berkata, "Aku tidak sanggup, " beliau bersabda: "Berilah makan enam puluh orang miskin." Ia berkata, "Aku tidak mampu, " lalu beliau memberinya keranjang yang berisi kurma." -Ibrahim berkata; Al Araq adalah al Miktal (sebanding antara lima belas hingga dua puluh sha') - Beliau lalu bersabda: "Dimanakah laki-laki yang bertanya tadi? Pergi dan bersedekahlah dengan ini." Ia menjawab, "Demi Allah, antara dua lembah ini tidak ada keluarga yang lebih membutuhkan ini kecuali kami." Lalu Nabi shallallahu 'alaihi wasallam tersenyum hingga kelihatan gigi gerahamnya, beliau lalu bersabda: "Kalau begitu, berilah makan kepada keluargamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6087</td></tr><tr><td>Arabic No</td><td>6087</td></tr><tr><td>Reference</td><td>Book 78 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ пришёл какой-то человек и воскликнул: “Я погиб! Я вступил в половую близость с женой (днём) в рамадане”. Пророк ﷺ сказал: “Освободи раба” Он ответил: “У меня его нет”. Пророк ﷺ сказал: “Тогда постись два месяца подряд”. Человек сказал: “Я не могу”. Пророк ﷺ сказал: “Тогда накорми шестьдесят бедняков”. Он сказал: “Мне нечем их накормить”. После этого Пророку ﷺ принесли корзину с финиками, и он спросил: “Где (человек,) задавший вопрос? Раздай это в качестве милостыни”. Этот человек спросил: “(Должен ли я раздать это) тем, кто беднее меня? Ведь, клянусь Аллахом, нет в пределах Медины семьи беднее моей!” Тогда Пророк ﷺ стал смеяться так, что показались его коренные зубы, а потом он сказал: “Значит это вам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6087</td></tr><tr><td>Arabic No</td><td>6087</td></tr><tr><td>Reference</td><td>Book 78 Hadith 115</td></tr></tbody></table></div>
 

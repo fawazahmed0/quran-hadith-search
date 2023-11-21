@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Whenever the Prophet (ﷺ) offered the night (Tahajjud) pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibn Juraij] telah mengabarkan kepadaku [Sulaiman Al Ahwal] bahwa [Thawus] radliyallahu'anhu mengabarkan kepadanya, ia mendengar [Ibn Abbas] berkata, "Jika Nabi Shallalahu'alaihi wasallam tahajjud malam hari beliau membaca: 'ALLAAHUMA LAKAL HAMDU, ANTA NUURUSSAMAWAATI WAL ARDLI, WALAKAL HAMDU ANTA QOYYIMUSSAWAATI WAL ARDLI, WALAKAL HAMDU ANTA RABBUSSAMAAWAATI WAL ARDLI WAMAN FIIHINNA, ANTAL HAQQU, WAWA'DUKAL HAQQ, WAQOULUKL HAQQ, WALIQOO'UKAL HAQQ, WALJANNATU HAQQ, WANNAARU HAQQ, WANNABIYUUN HAQQ, WASSAA'ATU HAQQ, ALLOOHUMMA LAKA ASLAMTU WABIKA AAMANTU WAILAIKA TAWAKKALTU, WAILAIKA ANABTU, WABIKA KHAASHAMTU, WAILAIKA HAAKAMTU, FAHGHFIRLII MA QADDAMMTU WAMAA AKHKHARTU, WAMA ASRARTU WAMAA A'LANTU, ANTA ILAAHII, LAA-ILAAHA ILLAA ANTA (Ya Allah, bagi-Mu lah segala puji, Engkau cahaya langit dan bumi, bagi-Mu segala puji, Engkau adalah pemelihara langit dan bumi, dan bagi-Mu segala puji, Engkau adalah Pemilik langit dan bumi dan siapa saja yang menghuninya, Engkau adalah Benar, dan janji-Mu benar, firman-Mu benar, pertemuan dengan-Mu benar, surga-Mu benar, neraka-Mu benar, para nabi benar, dan kiamat benar. Ya Allah, kepada-Mu aku berserah, kepada-Mu aku beriman, kepada-Mu aku bertawakkal, kepada-Mu aku menyandarkan diri, karena-Mu aku memusuhi, dan kepada-Mu aku meminta penghakiman, maka ampunilah bagiku apa yang telah aku perbuat dan apa yang belum aku lakukan, apa yang aku lakukan secara sembunyi-sembunyi dan apa yang aku lakukan secara terang-terangan, Engkau adalah Tuhanku, tiada sesembahan yang hak selain Engkau)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7499</td></tr><tr><td>Arabic No</td><td>7499</td></tr><tr><td>Reference</td><td>Book 97 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ когда совершал ночную молитву, он говорил: “О Аллах, хвала Тебе, Ты — Свет небес и земли, хвала Тебе. Ты — Вседержитель небес и земли, хвала Тебе. Ты — Господь небес, земли и тех, кто там обитает. Ты — Истина, и обещание Твоё — истина, и слово Твоё — истина, и встреча с Тобой — истина, и Рай — истина, и Огонь — истина, и пророки - истина, и Час этот — истина! О Аллах, Тебе я покоряюсь, в Тебя верую, на Тебя только уповаю, Тебе приношу покаяние, благодаря Тебе веду споры и к Тебе на суд обращаюсь, так прости же мне мои прошлые и будущие грехи, прости совершённое мной тайно и сделанное открыто! Ты — мой Бог, нет божества достойного поклонения, кроме Тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7499</td></tr><tr><td>Arabic No</td><td>7499</td></tr><tr><td>Reference</td><td>Book 97 Hadith 124</td></tr></tbody></table></div>
 

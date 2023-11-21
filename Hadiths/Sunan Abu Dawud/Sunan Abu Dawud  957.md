@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il ibn Hujr: I said that I should look at the prayer of the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr bin Al Mufadlal] dari ['Ashim bin Kulaib] dari [ayahnya] dari [Wa'il bin Hujr] dia berkata; kataku; "Sungguh aku melihat bagaimana tata cara shalat Rasulullah shallallahu 'alaihi wasallam!." yaitu Rasulullah shallallahu 'alaihi wasallam berdiri, lalu menghadap kiblat, bertakbir, mengangkat kedua tangan sehingga sejajar dengan kedua telinga, setelah itu tangan kanan beliau memegang tangan kirinya, sewaktu beliau hendak ruku', beliau mengangkat kedua tangannya seperti tadi." Katanya melanjutkan; "Kemudian beliau duduk, yaitu menduduki kaki kirinya dan meletakkan tangan kiri di atas paha kirinya sambil merenggangkan siku yang kanan terhadap paha sebelah kanan dan menggenggam kedua jari (kelingking dan manis) dan membentuk suatu lingkaran. Aku melihat beliau melakukan seperti ini Bisyr membentuk lingkaran dengan ibu jari dan jari tengah serta menunjuk dengan jari telunjuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 2 Hadith 568</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ваиля ибн Худжра, да будет доволен им Аллах: «Я решил для себя, что непременно посмотрю, как совершает молитву Посланник Аллаха ﷺ … И вот Посланник Аллаха ﷺ встал, повернулся в сторону киблы, произнёс такбир, поднял руки до уровня ушей, потом взялся левой рукой за правую и перед совершением поясного поклона поднял их таким же образом, как и в первый раз. Затем он сел, простёр левую ногу, положил левую руку на левое бедро, а правый локоть на правое бедро. Он согнул два пальца, сделал кольцо. Я видел, как он сделал вот так» и он сделал кольцо из большого и среднего пальца и вытянул указательный палец, как будто указывая на что-то
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 2 Hadith 568</td></tr></tbody></table></div>
 

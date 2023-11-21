@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A woman asked the Prophet (ﷺ) about the bath which is taken af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Manshur bin Shafiyyah] dari [Ibunya] dari ['Aisyah], "Seorang wanita bertanya kepada Nabi shallallahu 'alaihi wasallam tentang cara mandi dari haid. Beliau lalu memerintahkan wanita itu bagaimana cara mandi. Beliau bersabda: "Ambillah sepotong kapas yang diberi wewangian lalu bersucilah." Wanita itu bertanya, "Bagaimana aku bersucinya? Beliau menjawab: "Bersucilah dengan kapas itu!" Wanita itu berkata lagi, "Bagaimana caranya aku bersuci?" Beliau bersabda: "Bersucilah dengan menggunakan kapas itu!" Wanita itu bertanya lagi, "Bagaimana caranya?" Maka Beliau berkata, "Subhaanallah. Bersucilah kamu!" Lalu aku manarik wanita itu kearahku, lalu aku katakan, "Kamu bersihkan sisa darahnya dengan kapas itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>314</td></tr><tr><td>Arabic No</td><td>314</td></tr><tr><td>Reference</td><td>Book 6 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, что (однажды) какая-то женщина задала Пророку ﷺ вопрос о большом омовении после завершения месячных, и он объяснил ей, как это следует делать, сказав: «Возьми кусок шерсти, пропитанной мускусом, и очищайся этим». Она спросила: «Как же мне очищаться (этим)?» Он сказал: «Очищайся этим». Она (снова) спросила: «Как?» — и тогда (Пророк ﷺ) воскликнул: «Преславен Аллах! Очищайся!”» \n(‘Аиша сказала): «Тогда я привлекла её к себе и сказала: „Протирай этим (те места, где остались) следы крови“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>314</td></tr><tr><td>Arabic No</td><td>314</td></tr><tr><td>Reference</td><td>Book 6 Hadith 19</td></tr></tbody></table></div>
 

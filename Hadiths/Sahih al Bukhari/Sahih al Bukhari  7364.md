@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundab bin 'Abdullah:Allah's Messenger (ﷺ) said, "Recite (and study) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah mengabarkan kepada kami [Abdurrahman bin Mahdi] dari [Sallam bin Abu Muthi'] dari [Abu'Imran Al Jauni] dari [Jundab bin Abdullah Al Bajali] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Bacalah alquran selama menjadikan hati kalian bersatu padu, namun jika kalian berselisih, tinggalkanlah." Abu Abdullah berkata, 'Abdurrahman mendengar Sallam (bukan sekedar dari)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7364</td></tr><tr><td>Arabic No</td><td>7364</td></tr><tr><td>Reference</td><td>Book 96 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джундуба ибн ‘Абдуллаха аль-Баджалий, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Читайте Коран, пока сердца ваши пребывают в согласии, а когда (между вами) будут возникать разногласия, оставляйте его».\nСказал Абу ‘Абдуллах: «‘Абдуррахман слышал от Салляма»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7364</td></tr><tr><td>Arabic No</td><td>7364</td></tr><tr><td>Reference</td><td>Book 96 Hadith 91</td></tr></tbody></table></div>
 

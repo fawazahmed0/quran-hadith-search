@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Habibah: The Prophet (ﷺ) said: If anyone keeps on praying regular
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Fadl] telah menceritakan kepada kami [Muhammad bin Syu'aib] dari [An Nu'man] dari [Makhul] dari ['Anbasah bin Abu Sufyan] dia berkata; [Ummu Habibah isteri Nabi] shallallahu 'alaihi wasallam berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bisa menjaga empat raka'at sebelum Dluhur dan empat raka'at setelahnya, maka neraka akan di haramkan bagi dirinya." Abu Daud berkata; "Di riwayatkan pula oleh [Al 'Ala' bin Al Harits] dan [Sulaiman bin Musa] dari [Makhul] dengan sanad seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1269</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм Хабибы, да будет доволен ею Аллах, супруги Пророка ﷺ что Посланник Аллаха ﷺ сказал: «Тот, кто регулярно совершает молитву-сунну в четыре рак‘ата перед полуденной молитвой и молитву-сунну в четыре рак‘ата после неё, становится запретным для Огня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1269</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 5 Hadith 20</td></tr></tbody></table></div>
 

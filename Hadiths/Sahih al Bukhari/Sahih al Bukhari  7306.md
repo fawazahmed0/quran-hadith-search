@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Asim:I said to Anas, "Did Allah's Messenger (ﷺ) make Medina a sanctu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami ['Ashim] berkata, "Aku bertanya kepada [Anas], "Bukankah Rasulullah shallallahu 'alaihi wasallam telah mengharamkan Madinah?" Ia menjawab, "Benar, yaitu antara ini hingga itu, demikian pula tidak dibenarkan pohonnya ditebang, barangsiapa mengada-adakan keonaran (pelanggaran) di sana, maka baginya laknat Allah, malaikat dan semua manusia." 'Ashim berkata, "Musa bin Anas mengabarkan kepadaku, bahwa beliau mengatakan: "Atau melindungi orang yang berbuat salah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7306</td></tr><tr><td>Arabic No</td><td>7306</td></tr><tr><td>Reference</td><td>Book 96 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Асым аль-Ахуаль спросил Анаса, да будет доволен им Аллаха: «Запретил ли Посланник Аллаха ﷺ Медину?» (Анас) ответил: «Да, (Медина является заповедной территорией) от такого-то места до такого-то, где нельзя вырубать деревья. А тот, кто совершит в ней какой-нибудь грех, того постигнет проклятие Аллаха, ангелов и всех людей». ‘Асым сказал: «Мне сообщил Муса ибн Анас, что Анас сказал: “или предоставит убежище тому, кто будет вводить новшества в религию”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7306</td></tr><tr><td>Arabic No</td><td>7306</td></tr><tr><td>Reference</td><td>Book 96 Hadith 37</td></tr></tbody></table></div>
 

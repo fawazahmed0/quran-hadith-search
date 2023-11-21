@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu’awiyah b. al-Hakam al-Sulami said ; when I came to the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yunus An Nasa'i] telah menceritakan kepada kami [Abdul Malik bin 'Amru] telah menceritakan kepada kami [Fulaih] dari [Hilal bin Ali] dari ['Atha' bin Yasar] dari [Mu'awiyah bin Al Hakam As Sulami] dia berkata; Ketika aku tiba datang menemui Rasulullah shallallahu 'alaihi wasallam, maka aku tahu beberapa perkara Islam, di antara yang aku ketahui adalah, beliau bersabda kepadaku: "Apabila kamu bersin, maka ucapkanlah "Al hamdulillah" dan apabila seseorang bersin, kemudian ia mengucapkan "Al hamdulillah" maka katakanlah "Yarhamukallah (semoga Allah merahmatimu) " Mu'awiyah melanjutkan; "Ketika kami mengerjakan shalat bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba seseorang bersin dan mengucapkan "Al Hamdulillah", maka sambil mengeraskan suaraku, aku berkata; "Yarhamukallah." Dengan itu, orang-orang mengalihkan pandangan ke arahku, sehingga aku gugup karenanya, kataku; "Kenapa kalian memandangku dengan pandangan marah." Katanya; "Bertasbihlah kalian." ketika Rasulullah shallallahu 'alaihi wasallam selesai dari shalatnya, beliau bersabda: "Siapakah yang berbicara tadi?" di jawab; "Orang arab badui ini." lalu Rasulullah shallallahu 'alaihi wasallam memanggilku dan bersabda: "Sesungguhnya shalat itu untuk membaca Al Qur'an dan berdzikir kepada Allah Jalla wa 'Azza, apabila kamu sedang shalat, maka kamu harus seperti itu (membaca Al Qur'an dan berdzikir)." Maka aku belum pernah melihat seorang pengajar yang lebih lembut dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Му‘авия ибн аль-Хакам ас-Сулями, да будет доволен им Аллах, рассказывает: «Когда я прибыл к Посланнику Аллаха ﷺ я научился некоторым предписаниям ислама, в числе которых было и то, что сказал мне Посланник Аллаха ﷺ: “Когда чихнёшь, воздай хвалу Аллаху, и если при тебе кто-то чихнёт и воздаст хвалу Аллаху, скажи ему: “Да помилует тебя Аллах””. И вот, когда я совершал молитву вместе с посланником Аллаха ﷺ один человек чихнул и воздал хвалу Аллаху, а я громко сказал ему: “Да помилует тебя Аллах!” Люди стали бросать на меня красноречивые взгляды, и меня это рассердило. Я спросил: “Чего вы коситесь на меня?!” Они же стали восклицать: “Пречист Аллах!” Завершив молитву, Посланник Аллаха ﷺ спросил: “Кто это говорил?” Ему сказали: “Этот бедуин”. Тогда Посланник Аллаха ﷺ позвал меня и сказал мне: “Поистине, молитва совершается, чтобы читать Коран и поминать Всемогущего Аллаха, и пока ты совершаешь её, ты должен заниматься только этим”. Поистине, я никогда не видел более мягкого и терпеливого учителя, чем Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
 

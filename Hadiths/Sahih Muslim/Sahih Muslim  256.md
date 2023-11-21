@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of 'Abdullah that the Messenger of Allah observe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [al-Hasan bin Ubaidullah] dari [Abu Amru asy-Syaibani] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda, "Amalan-amalan yang paling utama (atau amal) adalah shalat pada waktunya dan berbakti kepada orang tua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>85.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха (ибн Мас‘уда, да будет доволен им Аллах), что Пророк ﷺ сказал: «Наилучшие дела (или: дело) это молитва совершаемая в установленное для неё время и проявление почтительности к родителям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>85.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 162</td></tr></tbody></table></div>
 

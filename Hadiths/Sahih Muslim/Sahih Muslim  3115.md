@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair reported:We came back along with Ibn 'Umar till we reached Muzda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abdullah bin Numair] Telah menceritakan kepada kami [Isma'il bin Abu Khalid] dari [Abu Ishaq] ia berkata, [Sa'id bin Jubair] berkata; Kami berangkat bersama [Ibnu Umar] hingga sampai di Jam'. Lalu ia pun shalat Maghrib dan Isya' bersama kami dengan satu Iqamah. Dan setelah selesai ia berkata, "Seperti inilah Rasulullah shallallahu 'alaihi wasallam shalat bersama kami ditempat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3115</td></tr><tr><td>Arabic No</td><td>1288.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 319</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3115</td></tr><tr><td>Arabic No</td><td>1288.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 319</td></tr></tbody></table></div>
 

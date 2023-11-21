@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: That I sit in the company of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Abdussalam bin Muthahhar Abu Zhafar] telah menceritakan kepada kami [Musa bin Khalaf Al 'Ammi] dari [Qatadah] dari [Anas bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, aku duduk bersama kaum yang berdzikir kepada Allah Ta'ala dari shalat Subuh hingga terbit matahari lebih aku sukai daripada aku membebaskan empat anak Isma'il. Dan sungguh aku duduk bersama suatu kaum yang berdzikir kepada Allah dari Shalat 'Ashar hingga matahari tenggelam adalah lebih aku sukai daripada aku membebaskan empat orang budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3667</td></tr><tr><td>Arabic No</td><td>3667</td></tr><tr><td>Reference</td><td>Book 26 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Сидеть с людьми, поминающими Аллаха, со времени утренней молитвы /фаджр/ до восхода солнца желаннее для меня, чем освободить четырёх рабов из потомков (пророка) Исма‘иля, и сидеть с людьми, поминающими Аллаха, со времени послеполуденной молитвы до захода солнца желаннее для меня, чем освободить четырёх рабов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3667</td></tr><tr><td>Arabic No</td><td>3667</td></tr><tr><td>Reference</td><td>Book 26 Hadith 27</td></tr></tbody></table></div>
 

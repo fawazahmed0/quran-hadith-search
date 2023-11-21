@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported (these words) directly from Allah's Messenger (ﷺ):If anyon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>1977.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Умм Саляма – жена Пророка ﷺ сказала: «Посланник Аллаха ﷺ сказал: “Когда появится молодой месяц зуль-хиджжи, пусть тот, у кого есть жертвенное животное, (которое он желает) заколоть, ни в коем случае не подстригает ни волос, ни ногтей до тех пор, пока не принесёт жертву!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>1977.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 55</td></tr></tbody></table></div>
 

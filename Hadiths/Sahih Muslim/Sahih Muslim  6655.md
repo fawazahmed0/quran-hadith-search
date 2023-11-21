@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Abu Huraira and in the hadi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepadaku [Bapakku]; Telah menceritakan kepada kami [Al Mutsanna]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] dari [Al Mutsanna bin Sa'id] dari [Qatadah] dari [Abu Ayyub] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: -sedangkan di dalam Hadits Abu Hatim disebutkan dengan lafazh 'dari Nabi shallallahu 'alaihi wasallam: -"Apabila salah seorang darimu berkelahi dengan saudaranya yang muslim, maka hendaklah ia menghindari bagian wajah, karena Allah telah menciptakan Adam dengan rupa dan bentuk wajahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6655</td></tr><tr><td>Arabic No</td><td>2612.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас подерётся со своим братом (по вере), пусть не касается его лица, ибо Аллах создал Адама по образу Своему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6655</td></tr><tr><td>Arabic No</td><td>2612.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 152</td></tr></tbody></table></div>
 

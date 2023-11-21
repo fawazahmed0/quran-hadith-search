@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah said that the Messenger of Allah (ﷺ) delivered the sermon a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Amru] ia berkata, saya mendengar [Jabir bin Abdulah] bahwa Nabi shallallahu 'alaihi wasallam berkhutbah seraya bersabda: "Jika salah seorang dari kalian datang untuk mengerjakan shalat Jum'at, sementara imam telah keluar (naik mimbar), hendaklah ia shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2022</td></tr><tr><td>Arabic No</td><td>875.05</td></tr><tr><td>Reference</td><td>Book 7 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Однажды) во время проповеди, Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас придет в пятницу, когда имам уже вышел, (чтобы подняться на минбар), то пусть совершит два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2022</td></tr><tr><td>Arabic No</td><td>875.05</td></tr><tr><td>Reference</td><td>Book 7 Hadith 72</td></tr></tbody></table></div>
 

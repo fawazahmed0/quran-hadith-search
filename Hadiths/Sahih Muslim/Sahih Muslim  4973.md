@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported:I asked Allah's Messenger (ﷺ) saying: We are a people wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Fudlail] dari [Bayan] dari [Asy Sya'bi] dari ['Adi bin Hatim] dia berkata, "Saya pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Saya katakan, 'Kami ini suatu kaum yang biasa hidup berburu dengan menggunakan anjing-anjing ini. Bagaimana itu? ' Nabi shallallahu 'alaihi wasallam menjawab: "Apabila kamu melepas anjingmu yang terlatih dengan menyebut nama Allah, maka makanlah hasilnya sekalipun buruan itu mati dalam tangkapannya. Kecuali jika anjing-anjing itu memakan tangkapannya maka janganlah kamu makan pula, karena aku khawatir dia (anjing-anjing tersebut) menangkap buruan itu untuknya sendiri. Atau, jika ada anjing lain yang menyertainya menangkap (buruan tersebut), maka jangan kamu makan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4973</td></tr><tr><td>Arabic No</td><td>1929.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4973</td></tr><tr><td>Arabic No</td><td>1929.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported Allah's Messenger (ﷺ) as saying:Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] dan [Ahmad bin Isa] keduanya berkata, Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah bin Bukair] dari [bapaknya] ia berkata, saya mendengar [Yunus bin Yusuf] berkata, dari [Ibnul Musayyab] ia berkata, [Aisyah] berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada satu hari pun yang di hari itu Allah lebih banyak membebaskan hamba-Nya dari api neraka daripada hari 'Arafah, sebab pada hari itu Dia turun kemudian membangga-banggakan mereka di depan para malaikat seraya berfirman: 'Apa yang mereka inginkan?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3288</td></tr><tr><td>Arabic No</td><td>1348</td></tr><tr><td>Reference</td><td>Book 15 Hadith 492</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3288</td></tr><tr><td>Arabic No</td><td>1348</td></tr><tr><td>Reference</td><td>Book 15 Hadith 492</td></tr></tbody></table></div>
 

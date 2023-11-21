@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fatima bint Qais (Allah be pleased with her) reported from Allah's Messenger (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya telah berkata; Telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Sufyan] dari [Salamah bin Kuhail] dari [Asy Sya'bi] dari [Fathimah binti Qais] dari Nabi shallallahu 'alaihi wasallam, mengenai seorang wanita yang ditalak suaminya dengan talak tiga, beliau bersabda: "Dia tidak berhak mendapatkan tempat tinggal dan nafkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>1480.12</td></tr><tr><td>Reference</td><td>Book 18 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>1480.12</td></tr><tr><td>Reference</td><td>Book 18 Hadith 56</td></tr></tbody></table></div>
 

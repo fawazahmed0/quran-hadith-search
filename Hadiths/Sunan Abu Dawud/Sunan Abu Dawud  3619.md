@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Abi Mulaikah said:Ibn ‘Abbas wrote to me that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Al Qa'nabi] telah menceritakan kepada kami [Nafi' bin Umar] dari [Ibnu Abu Mulaikah] ia berkata, " [Ibnu Abbas] menulis surat kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa orang yang tertuduh harus bersumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2514، 1711)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3619</td></tr><tr><td>Arabic No</td><td>3619</td></tr><tr><td>Reference</td><td>Book 25 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн Абу Муляйки, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, написал ему, что Посланник Аллаха ﷺ постановил, что клясться должен ответчик
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2514، 1711)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3619</td></tr><tr><td>Arabic No</td><td>3619</td></tr><tr><td>Reference</td><td>Book 25 Hadith 49</td></tr></tbody></table></div>
 

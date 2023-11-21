@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A Bedouin stood up and started making water in the mosque. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] bahwa [Abu Hurairah] berkata, "Seorang 'Arab badui berdiri dan kencing di Masjid, lalu orang-orang ingin mengusirnya. Maka Nabi shallallahu 'alaihi wasallam pun bersabda kepada mereka: "Biarkanlah dia dan siramlah bekas kencingnya dengan setimba air, atau dengan seember air, sesungguhnya kalian diutus untuk memberi kemudahan dan tidak diutus untuk membuat kesulitan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 4 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз, когда) один бедуин встал и принялся мочиться (прямо) в мечети, люди поднялись (со своих мест), чтобы наброситься на него, однако Пророк ﷺ велел им: “Оставьте его и вылейте на его мочу ведро (или:…бадью) воды, ибо, поистине, посланы вы только для того, чтобы облегчать, а не для того, чтобы создавать затруднения!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 4 Hadith 86</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Hasten in performing thes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umaiyah bin Bistham Al Aisyi] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Al Hasan] dari [Ziyad bin Riyah] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Segeralah beramal sebelum (munculnya) enam (hal): terbitnya matahari dari barat, kabut, Dajjal, binatang, urusan umum (kiamat) dan kekhususan salah seorang dari kalian (kematian)." Telah menceritakannya kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata: Telah menceritakan kepada kami [Abdushshamad bin Abdulwarits] telah menceritakan kepada kami [Hammam] dari [Qatadah] dengan sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7398</td></tr><tr><td>Arabic No</td><td>2947.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7398</td></tr><tr><td>Arabic No</td><td>2947.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 159</td></tr></tbody></table></div>
 

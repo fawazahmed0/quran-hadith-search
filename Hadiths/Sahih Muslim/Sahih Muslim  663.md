@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:A suckling babe was brought to the Messenger of Allah (way peace
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Hisyam] dari [bapaknya] dari [Aisyah] dia berkata, "Dibawakan kepada Nabi shallallahu 'alaihi wasallam seorang bayi yang masih menyusu yang kemudian ia kencing dalam timangannya. Beliau kemudian minta air seraya menuangkannya pada bekas air kencing tersebut." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada [Isa] telah menceritakan kepada kami [Hisyam] dengan sanad ini semisal hadits Ibnu Numair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>663</td></tr><tr><td>Arabic No</td><td>286.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «(Однажды) Посланнику Аллаха ﷺ принесли грудного младенца, и когда тот помочился ему на колени, он попросил принести воды и полил на (следы этой мочи)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>663</td></tr><tr><td>Arabic No</td><td>286.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 129</td></tr></tbody></table></div>
 

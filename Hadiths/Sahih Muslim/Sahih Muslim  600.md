@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar said:The Apostle of Allah (ﷺ) said: Trim closely the moustache, and l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Yahya] -yaitu Ibnu Sa'id-. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] semuanya dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Potonglah kumis dan biarkanlah jenggot
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>600</td></tr><tr><td>Arabic No</td><td>259.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Пророк ﷺ сказал: «Подстригайте усы и отпускайте бороды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>600</td></tr><tr><td>Arabic No</td><td>259.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 67</td></tr></tbody></table></div>
 

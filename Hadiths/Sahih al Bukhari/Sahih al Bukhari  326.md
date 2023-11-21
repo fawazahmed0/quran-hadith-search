@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiya:We never considered yellowish discharge as a thing of importa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Muhammad] dari [Ummu 'Athiyyah] berkata, "Kami tidak menganggap warna keruh dan kekuningan sebagai sesuatu dari haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>326</td></tr><tr><td>Arabic No</td><td>326</td></tr><tr><td>Reference</td><td>Book 6 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «Мы не придавали никакого значения тусклым и жёлтым выделениям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>326</td></tr><tr><td>Arabic No</td><td>326</td></tr><tr><td>Reference</td><td>Book 6 Hadith 31</td></tr></tbody></table></div>
 

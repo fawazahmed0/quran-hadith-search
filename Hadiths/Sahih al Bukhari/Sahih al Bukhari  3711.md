@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: Fatima sent somebody to Abu Bakr asking him to give her her inh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah bercerita kepadaku ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] bahwa Fathimah 'alaihas salam pernah mengutus utusan kepada [Abu Bakr] dengan niyat memintanya bagian harta warisan yang ditinggalkan Nabi shallallahu 'alaihi wasallam dari harta fa'i yang Allah karuniakan kepada beliau. Fathimah meminta Abu bakar shadaqah Nabi shallallahu 'alaihi wasallam berupa pekarangan yang berada Madinah dan Fadak dan sisa dari pembagian seperlima harta fa'i perang Khaibar. Maka Abu Bakr berkata kepadanya; "Rasulullah Shallallahu'alaihiwasallam telah bersabda: "Kami tidak mewariskan. Dan apa yang kami tinggalkan semuanya sebagai shadaqah". Sesungguhnya keluarga Muhammad shallallahu 'alaihi wasallam makan dari harta ini, yakni harta Allah yang tidak ada bagi mereka tambahan lain dari yang dimakannya. Dan aku, sungguh demi Allah, tidak akan merubah sesuatu dari shadaqah-shadaqah Nabi shallallahu 'alaihi wasallam yang pernah ada pada zaman Nabi shallallahu 'alaihi wasallam, dan aku pasti akan memberlakukan tentang shadaqah ini sebagaimana pernah diberlakukan oleh Rasulullah shallallahu 'alaihi wasallam". Kemudian 'Ali bersaksi atas yang disampaikan Abu Bakr dan berkata; "Sungguh kami telah mengetahui keutamaan anda wahai Abu Bakr". Lalu 'Ali menyebut ikatan kekeluargaan mereka terhadap Rasulullah shallallahu 'alaihi wasallam serta hak-hak mereka. Maka Abu Bakr kembali berbicara dan berkata; "Demi Dzat Yang jiwaku berada di tangan-Nya, sungguh keluarga Rasulullah shallallahu 'alaihi wasallam lebih aku cintai untuk aku jalin hubungan kekeluargaannya dari pada keluargaku sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3711</td></tr><tr><td>Arabic No</td><td>3711</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Фатыма, мир ей, послала человека к Абу Бакру, прося отдать ей её наследство от Пророка ﷺ из имущества, дарованного ему Аллахом без боя, которое находилось в Медине и Фадаке, а также то, что осталось от пятой части /хумус/ Хайбара
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3711</td></tr><tr><td>Arabic No</td><td>3711</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

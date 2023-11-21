@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Sa'd as-Sa'id reported that a person peeped through the hole of the door
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata; Telah menceritakan kepada kami [Al Laits] dan lafazh ini miliknya [Yahya]; Demikian juga diriwayatkan dari jalur lainnya; Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] bahwa [Sahl bin Sa'd As Sa'idi]; Telah mengabarkan kepada nya; Seorang laki-laki mengintip ke rumah Rasulullah shallallahu 'alaihi wasallam melalui lubang pintu. Ketika itu Rasulullah shallallahu 'alaihi wasallam sedang menyisir rambut dengan sebuah sisir besi. Tatkala beliau mengetahui ada orang mengintip. Beliau berkata: "Kalau aku tahu engkau mengintip, pasti aku tusuk matamu." Lalu beliau bersabda: 'Sesunggunya disyari'atkannya izin (memberi salam) agar menjaga penglihatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5638</td></tr><tr><td>Arabic No</td><td>2156.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5638</td></tr><tr><td>Arabic No</td><td>2156.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 53</td></tr></tbody></table></div>
 

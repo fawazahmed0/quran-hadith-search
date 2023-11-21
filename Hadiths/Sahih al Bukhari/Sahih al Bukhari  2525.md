@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:That he used to give his verdict regarding the male or female
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Miqdam] telah menceritakan kepada kami [Al Fudhail bin Sulaiman] telah menceritakan kepada kami [Musa bin 'Uqbah] telah menceritakan kepadaku [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa dia berfatwa tentang budak (laki-laki maupun wanita) yang dimiliki secara berserikat, lantas salah seorang dari mereka membebaskan hak kepemilikannya. Kata Ibn Umar, maka dia berkewajiban membebaskan budak itu secara total jika dia memiliki uang yang dapat membebaskannya, Jika yang membebaskan tersebut mempunyai harta, maka hartanya ditaksir secara adil lantas dibayarkan kepada sekutu yang memiliki hak kepemilkan budaknya, lantas sang budak dibebaskan". Ibnu 'Umar radliallahu 'anhuma memberitahukan yang demikian berdasarkan yang didapatnya dari Nabi shallallahu 'alaihi wasallam. Dan [Al Laits], [Ibnu Abi Dza'bi], [Ibnu Ishaq], [Juwairiyah], [Yahya bin Sa'id] dan [Isma'il boin Umayyah] meriwayatkan dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam secara ringkas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2525</td></tr><tr><td>Arabic No</td><td>2525</td></tr><tr><td>Reference</td><td>Book 49 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, давал фетву относительно раба или рабыни принадлежащим нескольким людям, один из которых решил освободить свою долю (этого раба). Ибн ‘Умар говорил (в подобной ситуации): «Он должен освободить его полностью, если у него будет достаточно средств, то он должен оценить его, заплатить (за свою долю), выплатить совладельцам их доли остатка его стоимости, и тогда раб становиться свободным». И Ибн ‘Умар передавал это от Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2525</td></tr><tr><td>Arabic No</td><td>2525</td></tr><tr><td>Reference</td><td>Book 49 Hadith 9</td></tr></tbody></table></div>
 

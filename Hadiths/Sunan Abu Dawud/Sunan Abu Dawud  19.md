@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: When the Prophet (ﷺ) entered the privy, he removed hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] dari [Abu Ali Al Hanafi] dari [Hammam] dari [Ibnu Juraij] dari [Az Zuhri] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam apabila hendak masuk WC, beliau menanggalkan cincinnya. Abu Dawud berkata; Ini adalah hadits munkar, sedang yang diketahui dari [Ibnu Juraij] dari [Ziyad bin Sa'ad] dari [Az Zuhri] dari [Anas] adalah bahwasanya Nabi shallallahu 'alaihi wasallam menggunakan cincin dari perak kemudian beliau membuangnya. Kekeliruan di sini dari Hammam, dan hadits ini tidak diriwayatkan kecuali dari Hammam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>19</td></tr><tr><td>Arabic No</td><td>19</td></tr><tr><td>Reference</td><td>Book 1 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Когда Пророк ﷺ заходил в отхожее место, он снимал свой перстень». Абу Дауд сказал: «Этот хадис относится к категории отвергаемых /мункар/, и известно от Ибн Джурайджа, передавшего со слов Зияда ибн Са‘да, передавшего со слов аз-Зухри, который передал от Анаса: “У Пророка ﷺ был перстень из серебра и позже он выбросил его”. Аль-Хаммам ошибся в нём, и никто не передавал этот хадис (с этим текстом) кроме него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>19</td></tr><tr><td>Arabic No</td><td>19</td></tr><tr><td>Reference</td><td>Book 1 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah Al-Ansari:My father was martyred on the day (of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Sabiq] atau [Al Fadhal bin Ya'qub] darinya telah bercerita kepada kami [Syaiban Abu Mu'awiyah] dari [Firas] berkata; [asy-Sya'biy] berkata telah bercerita kepadaku [Jabir bin 'Abdullah Al Anshoriy radliallahu 'anhuma] bahwa bapaknya mati sebagai syahid pada perang Uhud dan meninggalkan enam anak perempuan serta hutang. Ketika tiba musim panen buah kurma aku menemui Rasulullah shallallahu 'alaihi wasallam lalu aku katakan: "Wahai Rasulullah, sungguh Tuan telah mengetahui bahwa bapakku telah mati syahid pada perang Uhud dan dia meninggalkan hutang yang sangat banyak dan aku suka bila para piutang dapat melihat Tuan. Maka Beliau bersabda: "Pegilah kamu ke kebunmu dan pisahkanlah masing-masing kurma jenis sesuai jenisnya". Maka aku kerjakan lalu aku memanggil Beliau. Ketika mereka melihat Beliau, mereka segera saja mendesakku untuk melunasi hutang pada saat itu juga. Tatkala Beliau melihat apa yang mereka kerjakan, Belia mengelilingi salah satu tempat menebah kurma yang paling besar sebanyak tida kali kemudian duduk di dekatnya lalu berkata: "Panggillah sahabat-sahabatmu". Dan Beliau terus saja menimbang kurma untuk mereka higga akhirnya Allah (dengan izin-Nya) menyelesaikan amanah bapakku dan demi Allah telah ridha dengan terlunaskannya amanah bapakku dan aku pulang kepada saudara-saudara perempuanku tidak membawa sebutir buah kurma pun. Dan demi Allah, tempat menebah kurma masih utuh seperti sebelumnya seolah tidak berkurang satu butirpun buah kurmanya". Berkata Abu 'Abdullah Al Bukhariy: "ughruu bii artinya hiijuw bii (timbul/spontan) sepereti firman Allah "fa aghrainaa bainahul 'adaawata wal baghdhao' (Maka kami tibmbulkan diantara mereka permusuhan dan kebencian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2781</td></tr><tr><td>Arabic No</td><td>2781</td></tr><tr><td>Reference</td><td>Book 55 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах аль-Ансари, да будет доволен им Аллах, сказал, что его отец был убит в день битвы при Ухуде, оставив шесть дочерей и не расплатившись с долгами. Джабир сказал: «Когда пришло время собирать финики, я пошёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха! Ты знаешь, что мой отец был убит в день битвы при Ухуде, оставив много долгов, и я хотел бы, чтобы заимодавцы увидели тебя”. Пророк ﷺ сказал: “Иди и разложи свои финики по сортам”. Я так и сделал, а затем позвал его. Увидев его, заимодавцы начали настойчиво требовать свои права. Когда Пророк ﷺ увидел, как они ведут себя, он трижды обошёл самую большую кучу, сел над ней и сказал: “Позови своих спутников (то есть заимодавцев)”. Затем он стал мерить и раздавать им финики, пока не Аллах избавил моего отца от долгов. И клянусь Аллахом, что я был рад тому, что Аллах избавил моего отца от долгов, хоть я и не принёс бы своим сёстрам ни одного финика, однако, клянусь Аллахом, все кучи были полными, и даже та куча, над которой сидел Посланник Аллаха ﷺ, как-будто из неё не взяли ни одного финика»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2781</td></tr><tr><td>Arabic No</td><td>2781</td></tr><tr><td>Reference</td><td>Book 55 Hadith 44</td></tr></tbody></table></div>
 

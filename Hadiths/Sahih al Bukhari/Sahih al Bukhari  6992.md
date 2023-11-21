@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If I stayed in prison as lon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah] telah menceritakan kepada kami [Juwairiyah] dari [Malik] dari [Az Zuhri], bahwasanya [Sa'id bin Musayyab] dan [Abu Ubaid] mengabarkan kepadanya dari [Abu Hurairah] radliallahu 'anhu mengatakan, Rasulullah Shallallahu'alaihiwasallam bersabda; "kalaulah aku mendekam dalam penjara sekian lama sebagaimana Yusuf, kemudian seorang penyeru mendatangiku, niscaya kupenuhi panggilannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6992</td></tr><tr><td>Arabic No</td><td>6992</td></tr><tr><td>Reference</td><td>Book 91 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Если бы я провёл в темнице столько же времени, сколько и Юсуф, а затем ко мне пришёл призывающий, то я непременно ответил бы ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6992</td></tr><tr><td>Arabic No</td><td>6992</td></tr><tr><td>Reference</td><td>Book 91 Hadith 11</td></tr></tbody></table></div>
 

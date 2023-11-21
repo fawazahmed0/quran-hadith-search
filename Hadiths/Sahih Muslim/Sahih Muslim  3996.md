@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa (Allah be pleased with him) reported:A servant from amongst the servant
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Sa'id Al Asyaj] telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Sa'd bin Thariq] dari [Rib'i bin Hirasy] dari [Hudzaifah] dia berkata, "Didatangkan di hadapan Allah seorang hamba dari hamba-hamba-Nya yang Allah beri harta melimpah, lalu Dia bertanya kepadanya: "Amalan apa yang telah kamu perbuat semasa di dunia?" Hudzaifah berkata, "Dan tidak mungkin mereka menyembunyikanya dari Allah." Laki-laki itu menjawab, "Wahai Rabbku, Engkau telah memberiku harta benda, lalu saya melakukan jual beli dengan orang-orang, sedangkan saya memiliki perilaku suka memudahkan, yaitu memudahkan setiap urusan dan menangguhkan bagi orang yang kesusahan." Maka Allah berfirman: "Aku lebih berhak dengan hal itu dari pada kamu, oleh karena itu berilah kemudahan pada hamba-Ku ini." ' [Uqbah bin 'Amir Al Juhani] dan [Abu Mas'ud Al Anshari] berkata, "Seperti inilah yang saya dengar dari mulut Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>1560.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>1560.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 35</td></tr></tbody></table></div>
 

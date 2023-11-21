@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A group of people said to the Prophet, "Some people bring us mea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaidullah] berkata, telah menceritakan kepada kami [Usamah bin Hafsh Al Madani] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah] radliallahu 'anhuma, bahwa suatu kaum pernah bertanya kepada Nabi shallallahu 'alaihi wasallam, "Suatu kaum datang dengan membawa daging, namun kami tidak tahu apakah saat menyembelihnya menyebut nama Allah atau tidak?" Beliau menjawab: "Kalau begitu sebutlah nama Allah, lalu makanlah oleh kalian." Aisyah berkata, "Mereka adalah orang-orang yang baru masuk Islam." Hadits ini dikuatkan oleh [Ali] dari [Ad Darawardi], dan dikuatkan juga oleh [Abu Khalid] dan [Ath Thufawi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5507</td></tr><tr><td>Arabic No</td><td>5507</td></tr><tr><td>Reference</td><td>Book 72 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что люди сказали Пророку ﷺ: «Поистине, люди приносят нам мясо, и мы не знаем, поминалось над скотиной при заклании имя Аллаха или нет». Посланник Аллаха ﷺ сказал: «Вы произносите имя Аллаха и ешьте его». ‘Аиша сказала: «(Люди приносившие мясо) были недавно принявшие Ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5507</td></tr><tr><td>Arabic No</td><td>5507</td></tr><tr><td>Reference</td><td>Book 72 Hadith 33</td></tr></tbody></table></div>
 

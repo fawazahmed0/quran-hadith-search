@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Aus:'Abdur-Rahman bin Abu Bakr told me that the Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Amru], dia mendengar ['Amru bin Aus] bahwa ['Abdurrahman bin Abu Bakar radliallahu 'anhuma] mengabarkan kepadanya bahwa Nabi shallallahu 'alaihi wasallam memerintahkan dia agar membonceng (membawa dengan hewan tunggangan) 'Aisyah radliallahu 'anha dan menemaninya melaksanakan 'umrah dari At-Tan'im". Sufyan berkata; suatu kali aku pernah mendengar ['Amr] berkata: "Berapa kali kamu mendengarnya dari 'Amru?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1784</td></tr><tr><td>Arabic No</td><td>1784</td></tr><tr><td>Reference</td><td>Book 26 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абд ар-Рахмана бин Абу Бакра, да будет доволен Аллах ими обоими, что Пророк ﷺ велел ему посадить ‘Аишу в седло позади себя и сопровождать её во время совершения умры из Тан‘има
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1784</td></tr><tr><td>Arabic No</td><td>1784</td></tr><tr><td>Reference</td><td>Book 26 Hadith 11</td></tr></tbody></table></div>
 

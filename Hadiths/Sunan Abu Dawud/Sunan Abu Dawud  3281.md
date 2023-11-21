@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umayyah b. Khalid: When Khalid al-Qasri was made ruler (of Hijaz and Ku
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muhammad bin Khallad Abu Umar], telah menceritakan kepada kami [Musaddad] dari [Umayyah bin Khalid], ia berkata; tatkala Khalid Al Qasri ditunjuk sebagai gubernur ia melipatkan sha' sehinngga satu sha' adalah enam belas rithl. Abu Daud berkata; Muhammad bin Muhammad Khallad dibunuh oleh Az Zinj dengan cara dijadikan sasaran. Kemudian ia berkata dengan tangannya seperti ini, Abu Daud membentangkan tangannya dan menjadikan bagian dalam kedua telapaknya menghadap ke bumi. Ia berkata; dan aku melihatkan dalam tidur, lalu aku katakan; apa yang Allah lakukan terhadapmu? Ia berkata; Allah memasukkanku ke Surga. Maka aku berkata; memauqufkan hadits tidaklah memadharatkanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3281</td></tr><tr><td>Arabic No</td><td>3281</td></tr><tr><td>Reference</td><td>Book 22 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Кто дал обет покорности Аллаху, пусть исполняет его, а кто дал обет ослушаться Аллаха, пусть не ослушивается Его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3281</td></tr><tr><td>Arabic No</td><td>3281</td></tr><tr><td>Reference</td><td>Book 22 Hadith 40</td></tr></tbody></table></div>
 

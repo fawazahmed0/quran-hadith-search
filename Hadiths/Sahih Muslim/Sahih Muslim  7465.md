@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Shihab reported, and he had been talking about the stony abodes of Thamud, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengkhabarkan kepada kami [Ibnu Wahab] telah mengkhabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia menyebut hijr, tempat tinggal kaum Tsamud- berkata [Salim bin Abdullah] bahwa [Abdullah bin Umar] kami bersama Rasulullah Shallallahu 'alaihi wa Salam melintas di hijr, lalu Rasulullah Shallallahu 'alaihi wa Salam bersabda kepada kami: "Janganlah kalian memasuki tempat-tempat tinggal orang yang menzhalimi diri mereka sendiri kecuali kalian menangis karena khawatir kalian tertimpa seperti yang menimpa mereka." Beliau kemudian menghalau lalu cepat-cepat pergi hingga meninggalkan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7465</td></tr><tr><td>Arabic No</td><td>2980.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7465</td></tr><tr><td>Arabic No</td><td>2980.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 48</td></tr></tbody></table></div>
 

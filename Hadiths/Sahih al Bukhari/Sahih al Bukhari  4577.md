@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) and Abu Bakr came on foot to pay me a visit (du
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka berkata; Telah mengabarkan kepadaku [Ibnu Al Munkadir] dari [Jabir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersama Abu Bakr menjengukku dengan berjalan kaki ketika aku sakit di bani Salamah. Beliau mendapatkanku dalam keadaan pingsan. Lalu beliau meminta air kemudian beliau berwudlu dengan air itu setelah itu beliau memercikiku hingga aku pun sadar kembali. Lalu aku bertanya; Ya Rasulullah, apa yang engkau perintahkan kepadaku mengenai hartaku? maka turulah ayat: Allah mewasiatkan kalian mengenai anak-anak kalian. (An Nisa:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4577</td></tr><tr><td>Arabic No</td><td>4577</td></tr><tr><td>Reference</td><td>Book 65 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Когда я был болен,) Пророк ﷺ и Абу Бакр пришли в (квартал племени) бану салима, чтобы навестить меня. Пророк ﷺ увидел, что я лишился чувств, велел принести воды, совершил ею омовение и обрызгал меня (этой водой). Очнувшись, я спросил: “О Посланник Аллаха, что ты велишь мне сделать с моим имуществом?” — и тогда был ниспослан (аят, в котором говорится): “Аллах наказывает вам (завещать наследство) своим детям (так)…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4577</td></tr><tr><td>Arabic No</td><td>4577</td></tr><tr><td>Reference</td><td>Book 65 Hadith 99</td></tr></tbody></table></div>
 

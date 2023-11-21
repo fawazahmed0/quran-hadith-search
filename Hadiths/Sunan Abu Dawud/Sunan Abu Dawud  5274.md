@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the prophet (ﷺ) as saying:Allah most high says : “The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah bin Sufyan] dan [Ibnu As Sarh] keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Allah Azza Wa Jalla berfirman: 'Anak Adam telah menyakiti-Ku, ia telah mencaci maki zaman, padahal Aku adalah zaman, di dalam genggaman-Ku lah semua urusan, Aku balikkan antara siang dan malam." Ibnu As Sarh menyebutkan (dalam riwayatnya); dari Ibnu Al Musayyab sebagai ganti dari penyebutan Said (yakni ia menyebutkan perawi sebelum Abu Hurairah, dengan Ibnu Al Musayyab bukan sa'id, dan asli namanya adalah Said bin Al Musayyab). Wallahu A'lam bisshawab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4826) Sahih Muslim (2246)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>5274</td></tr><tr><td>Reference</td><td>Book 43 Hadith 502</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Всемогущий и Великий Аллах сказал: “Сын Адама наносит Мне обиду, понося время /дахр/, тогда как Я и есть время, всё в Моей власти, и по (Моей воле) день сменяет собой ночь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4826) Sahih Muslim (2246)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>5274</td></tr><tr><td>Reference</td><td>Book 43 Hadith 502</td></tr></tbody></table></div>
 

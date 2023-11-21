@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah al-Qushayri: Mu'awiyah asked: Messenger of Allah, what is the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'Il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami [Abu Qaza'ah Al Bahali], dari [Hakim bin Mu'awiyah Al Qusyairi] dari [ayahnya], ia berkata; aku katakan; wahai Rasulullah, apakah hak isteri salah seorang diantara kami atasnya? Beliau berkata: "Engkau memberinya makan apabila engkau makan, memberinya pakaian apabila engkau berpakaian, janganlah engkau memukul wajah, jangan engkau menjelek-jelekkannya (dengan perkataan atau cacian), dan jangan engkau tinggalkan kecuali di dalam rumah." Abu Daud berkata; dan janganlah engkau menjelek-jelekkannya (dengan perkataan atau cacian) dengan mengatakan; semoga Allah memburukkan wajahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2142</td></tr><tr><td>Arabic No</td><td>2142</td></tr><tr><td>Reference</td><td>Book 12 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘авии аль-Кушайри, да будет доволен им Аллах: «Я спросил: “О Посланник Аллаха, каково право жены любого из нас в отношении мужа?” Он ответил: “Ты должен кормить её, когда ешь сам, одевать её, когда одеваешься сам (или: зарабатываешь), не бить её по лицу и не оскорблять, и если и покидать её на ложе, то только оставаясь в том же доме”». Абу Дауд сказал, что под оскорблениями подразумеваются слова: «Да обезобразит тебя Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2142</td></tr><tr><td>Arabic No</td><td>2142</td></tr><tr><td>Reference</td><td>Book 12 Hadith 97</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id (Allah be pleased with him) reported:Dates were brought to Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu Faza'ah Al Bahili] dari [Abu Nadlrah] dari [Abu Sa'id] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah diberi kurma." Lalu beliau bertanya: "Apakah kurma ini dari kurma kita?" maka laki-laki yang memberi menjawab, "Wahai Rasulullah, kami menukar dua sha' kurma dengan satu sha' kurma seperti ini." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Inilah yang dinamakan riba, kembalikanlah kurma ini kemudian jualah kurma milik kita, lalu uang hasil penjualan kurma tersebut kamu belikan kurma seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>1594.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>1594.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 123</td></tr></tbody></table></div>
 

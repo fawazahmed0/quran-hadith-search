@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée) : On demanda à Anas Ibn Mâlik ce qu'il avait
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail, yaitu Ibnu Ulayyah] dari [Abdul Aziz, dan dia adalah Ibnu Shuhaib] dia berkata, " [Anas] pernah ditanya perihal bawang putih, maka dia pun menjawab, "Rasulullah Shallallahu'alaihiwasallam bersabda, 'Barangsiapa memakan dari pepohonan ini maka janganlah dia mendekati kami, dan janganlah dia shalat bersama kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1250</td></tr><tr><td>Arabic No</td><td>562</td></tr><tr><td>Reference</td><td>Book 5 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда Анаса ибн Малика спросили о чесноке, он сказал: «Посланник Аллаха ﷺ сказал: “Пусть тот, кто поел это растение, не приближается к нам и не молится вместе с нами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1250</td></tr><tr><td>Arabic No</td><td>562</td></tr><tr><td>Reference</td><td>Book 5 Hadith 88</td></tr></tbody></table></div>
 

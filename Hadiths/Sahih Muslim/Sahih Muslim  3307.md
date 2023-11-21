@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported:I heard Allah's Apostle (ﷺ) say: It
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Ibnu A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu Zubair] dari [Jabir] ia berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi kalian untuk membawa senjata dalam kota Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3307</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 15 Hadith 511</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3307</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 15 Hadith 511</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Rafi' reported:I saw Abu Huraira performing prostration (while reciting this
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] dan [Ibn Basyar], keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari ['Atha' bin Abu Maimunah] dari [Abu Rafi'] katanya; "Aku pernah [Abu Hurairah] sujud (tilawah) pada ayat IDZAS SAMAA'UN SYAQQAT, lalu aku berkata; "Kenapa anda sujud pada ayat itu?" Jawabnya; "Aku pernah melihat sahabat akrabku, Muhammad shallallahu 'alaihi wasallam sujud pada ayat tersebut, oleh karena itu aku akan selalu sujud pada ayat tersebut hingga aku meninggal." [Syu'bah] mengatakan; "Apakah itu perkataan Nabi shallallahu 'alaihi wasallam?, Abu Hurairah menjawab: "Benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1306</td></tr><tr><td>Arabic No</td><td>578.08</td></tr><tr><td>Reference</td><td>Book 5 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Рафи‘ сказал: «Однажды я увидел, как Абу Хурайра совершил земной поклон, читая (суру, начинающуюся словами) “Когда небеса расколются…”, и спросил: “Ты совершаешь земной поклон, читая её?” Он ответил: “Да, я видел, как мой любимец ﷺ совершал земной поклон, читая её, и буду совершать его до тех пор, пока не встречу его».Шу‘ба (один из передатчиков) сказал: «Я спросил: “(Он имел ввиду) Пророка ﷺ?” Он (‘Ата) ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1306</td></tr><tr><td>Arabic No</td><td>578.08</td></tr><tr><td>Reference</td><td>Book 5 Hadith 144</td></tr></tbody></table></div>
 

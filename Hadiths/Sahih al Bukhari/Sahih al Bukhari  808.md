@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:Hudhaifa said, "I saw a person not performing his bowing and p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ash Shalt bin Muhammad] berkata, telah menceritakan kepada kami [Mahdi bin Maimun] dari [Washil] dari [Abu Wa'il] dari [Hudzaifah], bahwa dia melihat seorang laki-laki shalat namun tidak menyempurnakan rukuk dan sujudnya. Setelah laki-laki tersebut selesai dari shalatnya, Hudzaifah berkata kepadanya, "Kamu belumlah shalat." Abu Wail berkata, "Menurutku ia mengatakan, "Seandainya engkau mati, maka engkau mati bukan di atas sunnah Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>808</td></tr><tr><td>Arabic No</td><td>808</td></tr><tr><td>Reference</td><td>Book 10 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Ваиля о том, что однажды Хузайфа увидел человека, который не доводил до конца поясные и земные поклоны, и когда тот закончил свой намаз, Хузайфа сказал ему: «Ты не совершил намаз!» (Затем Хузайфа) сказал: «Если бы ты умер, то умер бы не на Сунне Мухаммада ﷺ!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>808</td></tr><tr><td>Arabic No</td><td>808</td></tr><tr><td>Reference</td><td>Book 10 Hadith 203</td></tr></tbody></table></div>
 

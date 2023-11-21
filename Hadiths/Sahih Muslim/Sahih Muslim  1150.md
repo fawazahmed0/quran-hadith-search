@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:A person addressed the Messenger of Allah (ﷺ) and said to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] [Amru] berkata, telah menceritakan kepada kami [Ismail bin Ibrahim] dari [Ayyub] dari [Muhammad bin Sirin] dari [Abu Hurairah radhiyallahu'anhu] dia berkata, "Seorang laki-laki memanggil Nabi Shallallahu'alaihiwasallam seraya berkata, "Bukankah salah seorang dari kami (boleh) shalat dengan memakai satu kain?" Beliau menjawab, "Bukankah masing-masing kalian bisa mendapatkan dua baju?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1150</td></tr><tr><td>Arabic No</td><td>515.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 312</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «(Однажды) какой-то мужчина обратился к Пророку ﷺ, сказав: “Можем ли мы молится в одной одежде?” И Пророк ﷺ сказал: “А разве у каждого из вас есть по две одежды?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1150</td></tr><tr><td>Arabic No</td><td>515.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 312</td></tr></tbody></table></div>
 

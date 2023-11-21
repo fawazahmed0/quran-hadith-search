@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri and Abu Huraira:Allah's Messenger (ﷺ) appointed s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari ['Abdul Majid bin Suhail bin 'Abdurrahman] dari [Sa'id bin Al Musayyab] dari [Abu Sa'id Al Khudriy] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mempekerjakan sesorang di daerah Khaibar kemudian orang itu datang dengan membawa kurma pilihan yang terbaik Maka Rasulullah shallallahu 'alaihi wasallam: "Apakah semua kurma Khaibar seperti ini?" Orang itu berkata: "Demi Allah, tidak wahai Rasulullah, sesungguhnya kami menukar (barter) satu sha' dari jenis kurma ini dengan dua sha' kurma lain dan dua sha' kurma ini dengan tiga sha' kurma lain. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kamu melakukannya, juallah semua dengan dirham kemudian beli dengan dirham pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2201</td></tr><tr><td>Arabic No</td><td>2201</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри и Абу Хурайры, да будет доволен Аллах ими обоими, что (в своё время) Посланник Аллаха ﷺ назначил управлять Хайбаром одного человека. Когда тот доставил Посланнику Аллаха ﷺ финики (сорта) джаниб, он спросил: «Все ли финики Хайбара таковы?» Он ответил: «Клянусь Аллахом, нет, о Посланник Аллаха. Мы берём один са‘ таких (фиников) за два са‘ (других), а за два са‘ (таких) мы отдаём три са‘ (других)». Тогда Посланник Аллаха ﷺ сказал: «Не делай так, (но) продавай (финики разных сортов) за дирхемы, а потом покупай за дирхемы джаниб»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2201</td></tr><tr><td>Arabic No</td><td>2201</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

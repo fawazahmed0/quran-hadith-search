@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir b. 'Abd Allah :The Messenger of Allah (ﷺ) combined two persons 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Yazid bin Khalid bin Mauhib], bahwa [Al Laits] telah menceritakan kepada mereka dari [Ibnu Syihab] dari [Abdurrahman bin Ka'b] bahwa [Jabir bin Abdullah] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam menggabungkan antara dua orang diantara orang-orang yang terbunuh dalam perang Uhud. Dan beliau berkata: "Siapakah diantara mereka berdua yang lebih banyak menghafal Al Qur'an?" apabila telah ditunjukkan kepada salah seorang diantara mereka berdua (banyaknya hafalan di antara keduanya), maka beliau mendahulukannya memasukkan ke dalam lahad dan berkata: "Aku menjadi saksi bagi mereka pada Hari Kiamat." Beliau memerintahkan untuk mengubur mereka bersama darah mereka dan mereka tidak dimandikan. Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah menceritakan kepada kami [Ibnu Wahb], dari [Al Laits] dengan hadits ini dengan maknanya. Ia berkata; beliau menggabungkan dua orang diantara korban perang Uhud dalam satu kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3138</td></tr><tr><td>Arabic No</td><td>3138</td></tr><tr><td>Reference</td><td>Book 21 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ велел хоронить погибших в битве при Ухуде по двое. Он спрашивал, кто из них знал больше из Корана, и на кого ему указывали, того он и велел укладывать в могильную нишу первым. Он говорил: «Я буду свидетельствовать о них в Судный день». И он велел хоронить их так, прямо в окровавленной одежде, и их не омывали
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3138</td></tr><tr><td>Arabic No</td><td>3138</td></tr><tr><td>Reference</td><td>Book 21 Hadith 50</td></tr></tbody></table></div>
 

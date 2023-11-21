@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah ; AbuTalhah ibn Sahl al-Ansari: The Prophet (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ash Shabbah] berkata, telah menceritakan kepada kami [Ibnu Abu Maryam] berkata, telah mengabarkan kepada kami [Al Laits] ia berkata; telah menceritakan kepadaku [Yahya bin Sulaim] Bahwasanya ia mendengar [Isma'il bin Basyir] berkata; Aku mendengar [Jabir bin Abdullah] dan [Abu Thalhah bin Sahl Al Ashari] keduanya berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang menelantarkan seorang mukmin pada suatu tempat yang kehormatannya terampas dan harga dirinya terlecehkan, melainkan Allah akan menelantarkannya pada suatu tempat yang ia sangat mengharapkan pertolongann-Nya. Dan tidaklah seseorang menolong seorang muslim yang berada pada suatu tempat yang kehormatannya terampas dan harga dirinya terlecehkan di dalamnya, melainkan Allah akan menolongnya pada suatu tempat yang ia sangat mengharapkan pertolongan-Nya." [Yahya] berkata, " [Ubaidullah bin Abdullah bin Umar] dan [Uqbah bin Syaddad] menceritakan hadits ini kepadaku." Abu Dawud berkata, "Yahya bin Sulaim ini adalah Ibnu Zaid, mantan budak (yang telah dimerdekakan oleh) Nabi shallallahu 'alaihi wasallam. Dan Isma'il bin Basyir adalah mantan budak (yang telah dimerdekakan oleh) bani Maghalah, dan kadang Utbah bin Syaddad sering dipanggil dengan nama Uqbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4884</td></tr><tr><td>Arabic No</td><td>4884</td></tr><tr><td>Reference</td><td>Book 43 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4884</td></tr><tr><td>Arabic No</td><td>4884</td></tr><tr><td>Reference</td><td>Book 43 Hadith 112</td></tr></tbody></table></div>
 

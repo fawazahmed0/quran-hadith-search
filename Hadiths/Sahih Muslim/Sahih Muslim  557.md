@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Malik b. Anas narrated it from 'Amr b. Yahya with the same chain of transmitters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>557</td></tr><tr><td>Arabic No</td><td>235.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса он сказал: «…он трижды прополоскал рот и промыл нос водой», и не сказал: «…из одной ладони». Также слов: «…проведя ими (ото лба до затылка) и обратно», он добавил: «...начав с передней части (головы,) пока не достиг затылка. Затем он провёл ими в обратном направлении, пока не достиг того места, откуда начал, после чего помыл свои ноги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>557</td></tr><tr><td>Arabic No</td><td>235.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 24</td></tr></tbody></table></div>
 

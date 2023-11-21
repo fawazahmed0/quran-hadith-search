@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi 'Aufa:Allah's Messenger (ﷺ) said, "Do not long for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Mu'awiyah bin Umar] telah menceritakan kepada kami [Abu Ishaq] dari [Musa bin Uqbah] dari [Salim abu an Nadhr], maula Umar bin Ubaidullah yang ia sekaligus penulisnya, mengatakan, [Abdullah bin Abu Awfa] berkirim surat kepadanya dan aku membacanya, yang dalam isi suratnya tertulis; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan kalian mengharapkan bertemu musuh, dan mintalah keselamatan kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7237</td></tr><tr><td>Arabic No</td><td>7237</td></tr><tr><td>Reference</td><td>Book 94 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим Абу ан-Надр, вольноотпущенник ‘Умара ибн ‘Убайдуллаха, который был его писарем, сказал: «‘Абдуллах ибн Абу Ауфа, да будет доволен им Аллах, написал ему (‘Умару ибн ‘Убайдуллаху письмо), и я прочёл его, и в нём было сказано, что Посланник Аллаха ﷺ сказал: «Не желайте встречи с врагами и просите Аллаха об избавлении»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7237</td></tr><tr><td>Arabic No</td><td>7237</td></tr><tr><td>Reference</td><td>Book 94 Hadith 12</td></tr></tbody></table></div>
 

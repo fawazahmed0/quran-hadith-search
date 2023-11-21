@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd Ibn 'Abî Waqqâs (que Dieu l'agrée) a dit : "Le jour de la bataille de 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Muhammad bin Bisyr] dan [Abu Usamah] dari [Mis'ar] dari [Sa'd bin Ibrahim] dari [Bapaknya] dari [Sa'd] dia berkata; "Di hari terjadinya perang Uhud, aku melihat dua orang berpakaian putih-putih. Masing-masing berada di kanan dan kiri Rasulullah shallallahu 'alaihi wasallam yang aku tidak pernah melihat keduanya sebelum dan sesudah itu. Mereka ialah Jibril dan Mikail 'alaihimas salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6004</td></tr><tr><td>Arabic No</td><td>2306.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6004</td></tr><tr><td>Arabic No</td><td>2306.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 63</td></tr></tbody></table></div>
 

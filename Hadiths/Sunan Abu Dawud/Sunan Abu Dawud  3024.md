@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said “When the Prophet (ﷺ) entered Makkah he left Al Zubair bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Sallam bin Miskin], telah menceritakan kepada kami [Tsabit Al Bunani], dari [Abdullah bin Rabah Al Anshari], dari [Abu Hurairah], bahwa Nabi shallallahu 'alaihi wasallam tatkala memasuki Mekkah, beliau mengirim Az Zubair bin Al Awwam dan Abu 'Ubaidah bin Al Jarrah, serta Khalid bin Al Walid dengan menunggangi kuda, beliau berkata; wahai Abu Hurairah: "Serulah orang-orang anshar!" Beliau berkata: "Telusuri jalan ini, maka tidak ada yang seorangpun yang menampakkan diri kepada kalian kecuali kalian bunuh." Kemudian terdapat orang yang menyeru; tidak ada Quraisy setelah hari ini. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Barang siapa yang memasuki rumah maka ia aman dan barang siapa yang menjatuhkan senjata maka ia aman." Dan para pemimpin Quraisy pergi menuju Ka'bah hingga penuh, Nabi shallallahu 'alaihi wasallam berkeliling di belakang Maqam kemudian memegang dua sisi pintu, kemudian mereka keluar dan membai'at Nabi shallallahu 'alaihi wasallam untuk masuk Islam. Abu Daud berkata; saya mendengar Ahmad bin Hanbal ditanya oleh seseorang; apakah Mekkah ditaklukkan dengan kekerasan? Ia berkata; tidak yang merugikanmu apa yang telah terjadi. Ia berkata; dengan perjanjian damai? Ahmad berkata; tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3024</td></tr><tr><td>Arabic No</td><td>3024</td></tr><tr><td>Reference</td><td>Book 20 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах: «Когда Пророк ﷺ вступил в Мекку, он отправил вперёд аз-Зубайра ибн аль-‘Аввама, Абу ‘Убайду аль-Джарраха и Халида ибн аль-Валида на лошадях, а потом сказал: “О Абу Хурайра! Воззови к ансарам: “Поезжайте по этой дороге и кто бы ни преградил вам путь, убейте его””. Тогда глашатай воззвал: “Не будет курайшитов после этого дня!” Посланник Аллаха ﷺ сказал: “В безопасности будет тот, кто войдёт в дом, и в безопасности будет тот, кто сложит оружие”. Тогда предводители курайшитов вошли в Каабу, так что она была набита людьми до отказа. Пророк ﷺ совершил обход вокруг Каабы, совершил молитву на месте стояния Ибрахима, а потом взялся за дверь, и они вышли и присягнули Пророку ﷺ в верности исламу».Абу Дауд сказал: «Я слышал, как один человек спросил Ахмада ибн Ханбаля: “Мекка была завоёвана?” Он сказал в ответ: “А чем повредит тебе это, даже если бы она была завоёвана?” Тот спросил: “Значит, она была взята мирно?” Он ответил: “Нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3024</td></tr><tr><td>Arabic No</td><td>3024</td></tr><tr><td>Reference</td><td>Book 20 Hadith 97</td></tr></tbody></table></div>
 

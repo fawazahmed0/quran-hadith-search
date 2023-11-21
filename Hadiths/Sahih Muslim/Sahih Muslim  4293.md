@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is transmitted on the authority of Ibn Umar with a slight variation 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] dan [Muhammad bin Al Mutsanna] dan [Zuhair bin Harb] sedangkan lafadznya dari Zuhair, mereka berkata; telah menceritakan kepada kami [Yahya] -yaitu Ibnu Sa'id Al Qatthan- dari ['Ubaidullah] dia berkata; telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwa [Umar] berkata, "Wahai Rasulullah, sesungguhnya ketika masih Jahiliyyah aku pernah bernadzar untuk beri'tikaf semalam di Masjidil Haram." Beliau bersabda: "Tunaikanlah nadzarmu." Dan telah menceritakan kepada kami [Abu Sa'id Al Asyaj] telah menceritakan kepada kami [Abu Usamah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahb] -yaitu At tsaqafi-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Al 'Ala'] dan [Ishaq bin Ibrahim] semuanya dari [Hafsh bin Ghiyats]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin 'Amru bin Jabalah bin Abu Rawad] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] semuanya dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar]. Dan Hafsh berkata; "Dan di antaranya dari Umar dengan hadits seperti ini." Adapun dalam hadits Abu Usamah dan Ats Tsaqafi disebutkan, 'Beri'tikaf satu malam.' Sedangkan dalam hadits Syu'bah disebutkan, 'Sehari untuk beri'tikaf.' Namun dalam hadits Hafsh tidak disebutkan, 'Semalam atau sehari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>1656.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>1656.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
 

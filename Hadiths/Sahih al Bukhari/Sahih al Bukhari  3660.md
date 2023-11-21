@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ammar:I saw Allah's Messenger (ﷺ) and there was none with him but fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ahmad bin Abu ath-Thayyib] telah bercerita kepada kami [Isma'il bin Mujalid] telah bercerita kepada kami [Bayan bin Bisyir] dari [Wabarah bin 'Abdur Rahman] dari [Hammam] berkata, aku mendengar ['Ammar] berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam dan tidak ada orang yang bersama beliau (pertama kali memeluk Islam) kecuali lima orang budak, dua orang wanita dan Abu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 62 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аммар, да будет доволен им Аллах, сказал: «Я видел Посланника Аллаха ﷺ (в те времена, когда) не было с ним никого, кроме пяти рабов, двух женщин и Абу Бакра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 62 Hadith 12</td></tr></tbody></table></div>
 

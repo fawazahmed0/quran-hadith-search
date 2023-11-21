@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) wanted to write a letter to a gr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas bin Malik] radliallahu 'anhu bahwa Nabiyullah shallallahu 'alaihi wasallam hendak menulis surat kepada pemuka kaum atau sekelompok orang asing, lantas diberitahukan kepada beliau; "Sesungguhnya mereka tidak akan menerima surat anda kecuali jika surat tersebut dibubuhi stempel, maka Nabi shallallahu 'alaihi wasallam membuat stempel (cincin) dari perak yang diukir dengan tulisan 'Muhammad Rasulullah', seolah-olah saya melihat kilauan atau kilatan cincin berada di jari tangan Nabi shallallahu 'alaihi wasallam atau di telapak tangan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5872</td></tr><tr><td>Arabic No</td><td>5872</td></tr><tr><td>Reference</td><td>Book 77 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах: «Однажды Пророк Аллаха ﷺ захотел написать послание к некоторым не арабам, и ему сказали: “Они принимают письма только, если они запечатанные”. Тогда (Пророк ﷺ) взял (для себя) серебряный перстень, на котором была выгравирована надпись “Мухаммад — Посланник Аллаха”, а белизна этого перстня на его пальце (или: руке) и сейчас стоит у меня перед глазами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5872</td></tr><tr><td>Arabic No</td><td>5872</td></tr><tr><td>Reference</td><td>Book 77 Hadith 89</td></tr></tbody></table></div>
 

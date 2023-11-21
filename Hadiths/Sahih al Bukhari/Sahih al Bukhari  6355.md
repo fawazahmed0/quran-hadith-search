@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The boys used to be brought to the Prophet (ﷺ) and he used to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; Nabi Shallallahu 'alahi wasallam pernah di beri beberapa bayi, lalu beliau mendo'akan mereka, beliau juga pernah di beri seorang bayi laki-laki, lalu bayi itu ngompol, maka beliau meminta di ambilkan air lalu memercikinya dan tidak mencucinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6355</td></tr><tr><td>Arabic No</td><td>6355</td></tr><tr><td>Reference</td><td>Book 80 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Пророку ﷺ часто приносили детей, и он обращался к Аллаху с мольбой за них. Однажды к (Пророку ﷺ) принесли мальчика, который помочился на его одежду. Тогда он попросил принести воды и полил на следы этой (мочи), не став стирать её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6355</td></tr><tr><td>Arabic No</td><td>6355</td></tr><tr><td>Reference</td><td>Book 80 Hadith 52</td></tr></tbody></table></div>
 

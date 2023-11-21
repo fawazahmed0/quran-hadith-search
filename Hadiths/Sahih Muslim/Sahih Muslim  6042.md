@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that when Allah's Messenger (ﷺ) had completed his dawn 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mujahid bin Musa] dan [Abu Bakr bin An Nadhr] dan [Harun bin 'Abdullah] seluruhnya dari [Abu An Nadhr] dia berkata; [Abu Bakr] Telah menceritakan kepada kami [Abu An Nadhr] yaitu Hasyim bin Al Qasim; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas bin Malik] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam selesai melaksanakan shalat Shubuh, maka para pelayan Madinah melayani beliau dengan membawa bejana berisi air. Beliau mencelupkan jari tangannya ke dalam setiap bejana yang disodorkan kepada beliau. Terkadang para pelayan tersebut mendatangi beliau di pagi yang amat dingin, tetapi beliau tetap sudi mencelupkan tangan beliau ke dalam bejana yang berisi air tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6042</td></tr><tr><td>Arabic No</td><td>2324</td></tr><tr><td>Reference</td><td>Book 43 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Сабита (аль-Бунани), что Анас ибн Малик, да будет доволен им Аллах, сказал: «После того, как Посланник Аллаха ﷺ заканчивал совершение утренней молитвы, к нему собирались слуги со всей Медины, которые приносили с собой наполненные водой сосуды. И какой бы сосуд ему не протягивали, он непременно опускал в него свою руку, и даже если утро было холодным, он поступал таким образом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6042</td></tr><tr><td>Arabic No</td><td>2324</td></tr><tr><td>Reference</td><td>Book 43 Hadith 100</td></tr></tbody></table></div>
 

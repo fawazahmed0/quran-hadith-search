@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been reported on the authority of Nafi' with the same cha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Usamah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku] dia berkata; seluruhnya. Telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Mimpinya yang baik adalah bagian dari empat puluh enam kenabian." Dan telah menceritakannya kepada kami [Ibnu Al Mutsanna] dan ['Ubaidullah bin Sa'id] keduanya berkata; Telah menceritakan kepada kami [Yahya] dari ['Ubaidillah] melalui jalur ini; Dan telah menceritakannya kepada kami [Qutaibah] dan [Ibnu Rumh] dari [Al Laits bin Sa'd]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Rafi']; Telah menceritakan kepada kami [Ibnu Abu Fudaik]; Telah mengabarkan kepada kami [Adh Dhahhak] yaitu Ibnu 'Utsman keduanya dari [Nafi'] melalui jalur ini. Dan di dalam Hadits Laits disebutkan; Nafi' berkata; 'Aku mengira Ibnu Umar berkata; 'Adalah bagian dari tujuh puluh kenabian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5918</td></tr><tr><td>Arabic No</td><td>2265.03</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5918</td></tr><tr><td>Arabic No</td><td>2265.03</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
 

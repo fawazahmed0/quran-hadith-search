@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of 'Amr b. Dinar with the same ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Rabi' Az Zahrani] dan [Qutaibah bin Sa'id] semuanya dari [Hammad] - [Yahya] berkata- telah mengabarkan kepada kami [Hammad bin Zaid] dari [Amru] dari [Jabir bin Zaid] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam menyampaikan khutbah seraya bersabda: "Orang yang Ihram boleh memakai celana apabila dia tidak punya izar (sarung); dan boleh pakai sepatu pendek apabila dia tidak memiliki terompah." Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] -dalam riwayat lain- Dan telah menceritakan kepadaku [Abu Ghassan Ar Razi] telah menceritakan kepada kami [Bahz] keduanya berkata, Telah menceritakan kepada kami [Syu'bah] dari [Amru bin Dinar] dengan isnad ini, bahwa ia mendengar Nabi shallallahu 'alaihi wasallam berkhutbah di Arafah. Lalu ia pun menyebutkan hadits ini. Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin Uyainah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] dari [Sufyan] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa bin Yunus] dari [Ibnu Juraij] -dalam riwayat lain- Dan telah menceritakan kepadaku [Ali bin Hujr] telah menceritakan kepada kami [Isma'il] dari [Ayyub] semuanya dari [Amru bin Dinar] dengan isnad ini, dan tidak satu pun dari mereka yang menyebutkan; "(Sedang) berkhutbah di Arafah." selain Syu'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>1178.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>1178.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 6</td></tr></tbody></table></div>
 

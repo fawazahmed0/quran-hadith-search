@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uthman (b. 'Affan) reported it directly from Allah's Apostle (ﷺ) that he said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah], [Amru An Naqid] serta [Zuhair bin Harb] semuanya dari [Ibnu Uyainah]. [Zuhair] mengatakan; Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ayyub bin Musa] dari [Nubaih bin Wahb] dari [Aban bin Utsman] dari [Utsman] yang dia sampaikan sanadnya kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Orang yang sedang berihram dilarang untuk menikah dan meminang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3449</td></tr><tr><td>Arabic No</td><td>1409.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3449</td></tr><tr><td>Arabic No</td><td>1409.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 52</td></tr></tbody></table></div>
 

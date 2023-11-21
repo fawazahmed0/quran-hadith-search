@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I visited Allah's Messenger (ﷺ) while he was suffering from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Ibrahim At Taimi] dari [Al Harits bin Suwaid] dari [Abdullah] dia berkata; saya pernah menjenguk Rasulullah shallallahu 'alaihi wasallam ketika beliau sedang menderita sakit, lalu aku berkata; "Wahai Rasulullah, sepertinya anda sedang merasakan sakit yang amat berat" beliau bersabda: "Benar, rasa sakit yang menimpaku ini sama seperti rasa sakit yang menimpa dua orang dari kalian." Kataku selanjutnya; "Sebab itu anda mendapatkan pahala dua kali lipat." Beliau menjawab: "Benar, seperti itulah, dan tidaklah seorang muslim yang tertimpa suatu musibah (penyakit) atau yang lain, melainkan Allah akan menghapuskan kesalahan-kesalahannya sebagaimana pohon menggugurkan dedaunannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5648</td></tr><tr><td>Arabic No</td><td>5648</td></tr><tr><td>Reference</td><td>Book 75 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Однажды) я зашёл к Посланнику Аллаха ﷺ, страдавшему от сильной лихорадки, и сказал: “О Посланник Аллаха, какая у тебя сильная лихорадка!” На что он сказал: “Да, и, поистине, болею я подобно (сразу) двоим из вас!” Я спросил: “Это потому, что тебе предназначена двойная награда?” Он сказал: “Да, это так. И любого мусульманина, который будет испытывать страдания от укола колючки или чего-то большего, Аллах обязательно освободит от (бремени) его грехов подобно тому, как дерево освобождается от своих листьев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5648</td></tr><tr><td>Arabic No</td><td>5648</td></tr><tr><td>Reference</td><td>Book 75 Hadith 8</td></tr></tbody></table></div>
 

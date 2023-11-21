@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Hammad through another chain o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7254</td></tr><tr><td>Arabic No</td><td>2888.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакры о том, что Пророк ﷺ сказал: «Если два мусульманина (сойдутся в бою) и один из них поднимет оружие против своего брата, то они находятся на краю геенны. Если же один из них убьёт своего товарища, то они попадут туда вместе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7254</td></tr><tr><td>Arabic No</td><td>2888.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 20</td></tr></tbody></table></div>
 

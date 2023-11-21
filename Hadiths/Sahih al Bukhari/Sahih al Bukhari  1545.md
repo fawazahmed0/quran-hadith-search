@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:The Prophet (ﷺ) with his companions started from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddamiy] telah menceritakan kepada kami [Fudhail bin Sulaiman] berkata, telah menceritakan kepada saya [Musa bin 'Uqbah] berkata, telah mengabarkan kepada saya [Kuraib] dari ['Abdullah bin 'Abbas RAa] berkata: "Nabi shallallahu 'alaihi wasallam berangkat dari Madinah setelah Beliau menyisir rambutnya dan memolesnya dengan minyak zaitun. Dan Beliau mengenakan baju dan rida'nya, begitu juga para sahabat Beliau. Beliau tidak melarang apapun mengenai rida' (selendang panjang) dan baju untuk dipakai kecuali minyak wangi (za'faran) yang masih tersisa pada kulit badan. Ketika paginya berada di Dzul Hulaifah, Beliau berangkat dengan mengendarai tunggangannya hingga sampai di padang sahara saat siang hari. Maka disitulah Beliau memulai ihram dengan bertalbiyyah begitu juga para sahabatnya. Lalu Beliau menandai hewan qurbannya. Ini terjadi pada lima hari terakhir dari bulan Dzul Qa'dah. Lalu Beliau sampai di Makkah pada malam keempat dari bulan Dzul Hijjah lalu Beliau melaksanakan thowaf di Baitulloh, lalu sa'i antara bukit Shafaa dan Marwah dan Beliau belum lagi bertahallul karena Beliau membawa hewan qurban yang telah ditandainya. Kemudian Beliau singgah di tempat yang tinggi di kota Makkah di Al Hajjun, yang dari tempat itu Beliau berniat memulai hajji. Beliau tidak mendekati Ka'bah setelah melaksanakan thowafnya disana hingga Beliau kembali dari 'Arafah lalu Beliau memerintahkan para sahabatnya agar melaksanakan thowaf di Baitulloh dan sa'iy antara bukit Shafaa dan Marwah kemudian memerintahkan pula agar mereka memotong rambut mereka lalu bertahallul. Ketentuan ini berlaku bagi mereka yang tidak membawa hewan sembelihan (qurban). Maka barangsiapa yang ada isterinya bersamanya, isterinya itu halal baginya begitu juga memakai wewangian dan pakaian (baju)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1545</td></tr><tr><td>Arabic No</td><td>1545</td></tr><tr><td>Reference</td><td>Book 25 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Причесавшись, умастив волосы маслом и надев свой изар и накидку /рида/, Пророк ﷺ выехал из Медины вместе со своими сподвижниками. Он никому не запрещал надевать никакие накидки и изары, за исключением тех, которые были окрашены шафраном, так как от них на коже оставались следы и запах. Утром в Зуль-Хулейфе он сел верхом на свою верблюдицу, добравшись же до Байды, он, как и его сподвижники, надел ихрам, произнёс слова о намерении совершить хадж (аль-киран) и пометил своих верблюдов, предназначенных для жертвоприношения. Всё это происходило за пять дней до окончания (месяца) зуль-ка‘да. Прибыв в Мекку в четвёртый день (месяца) зуль-хиджжа, он совершил обход вокруг Каабы и ритуальный бег /са‘й/ между (холмами) ас-Сафа и аль-Марва, после чего не вышел из состояния ихрама, поскольку пометил своих верблюдов. Затем он остановился в верхней части Мекки у (горы) Хаджун, (продолжая) оставаться в состоянии ихрама для совершения хаджа, а после обхода Каабы он уже не приближался к ней до тех пор, пока не вернулся с Арафата. И он велел своим сподвижникам совершить обход Каабы и ритуальный бег /са‘й/ между ас-Сафой и аль-Марвой, потом постричь волосы, а потом выйти из состояния ихрама. Всё это касалось тех, у кого не было с собой меченного ими скота. (После этого) для каждого, с кем была жена, она стала дозволенной, как и благовония и (ношение обычной) одежды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1545</td></tr><tr><td>Arabic No</td><td>1545</td></tr><tr><td>Reference</td><td>Book 25 Hadith 31</td></tr></tbody></table></div>
 

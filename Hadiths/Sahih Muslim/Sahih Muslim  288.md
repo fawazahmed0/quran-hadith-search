@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Burda that Abu Musa fell unconscious and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] dan [Ishaq bin Manshur] keduanya berkata, telah mengabarkan kepada kami [Ja'far bin Aun] telah mengabarkan kepada kami [Abu Umais] keduanya berkata, saya mendengar [Abu Shakhrah] menyebutkan dari [Abdurrahman bin Yazid] dan [Abu Burdah bin Abu Musa] keduanya berkata, "[Abu Musa] pingsan, isterinya, Ummu Abdullah, menyambut dengan teriakan histeris." Keduanya melanjutkan perkataannya, "Saat sadar, maka ia pun berkata, 'Apakah kamu tidak mengetahui (hukum menangis), " lantas ia menceritakan kepadanya bahwa Rasulullah bersabda: "Saya berlepas diri dari orang yang memotong-motong rambut, berteriak-teriak, dan menyobek-nyobek baju." Telah menceritakan kepada kami [Abdullah bin Muthi'] telah menceritakan kepada kami [Husyaim] dari [Hushain] dari [Iyadl al-Asy'ari] dari [isteri Abu Musa] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam. (dalam riwayat lain disebutkan). Dan telah menceritakan kepada kami [Hajjaj bin asy-Sya'ir], telah menceritakan kepada kami [Abd ash-Shamad] dia berkata, telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Dawud] -yaitu Ibnu Abu Hind- telah menceritakan kepada kami [Ashim] dari [Shafwan bin Muhriz] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [al-Hasan bin Ali al-Hulwani] telah menceritakan kepada kami [Abd ash-Shamad] telah mengabarkan kepadaku [Syu'bah] dari [Abdul Malik bin Umair] dari [Rib'i bin Hirasy] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini, hanya saja dalam hadits Iyadl al-Asy'ari, dia menyebutkan, "Bukan dari golongan kami.' Dan dia tidak menyebutkan, "Berlepas diri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>288</td></tr><tr><td>Arabic No</td><td>104.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуррахман ибн Язид и Абу Бурда ибн Аби Муса рассказывали: «Когда Абу Муса потерял сознание, его жена Умм ‘Абдуллах стала громко рыдать. Очнувшись же, он сказал: “Разве ты не знаешь, что Посланник Аллаха ﷺ сказал: “Я не причастен к тому, кто обривает (голову во время беды), громко кричит (во время несчастья) и разрывает (на себе одежду от горя)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>288</td></tr><tr><td>Arabic No</td><td>104.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 194</td></tr></tbody></table></div>
 

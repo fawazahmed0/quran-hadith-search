@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'icha (رضي الله عنها) a dit : "La nuit, le Prophète (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>736.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ совершал по ночам молитву в одиннадцать рак‘атов, дополняя их ещё одним рак‘атом витра, после чего ложился на правый бок (и лежал) до тех пор, пока не приходил муаззин, и тогда он совершал два лёгких рак‘ата
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1717</td></tr><tr><td>Arabic No</td><td>736.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 147</td></tr></tbody></table></div>
 

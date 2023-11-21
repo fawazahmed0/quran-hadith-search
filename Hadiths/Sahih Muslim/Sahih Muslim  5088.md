@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) sacrificed two horned rams of white c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Waki'] dari [Syu'bah] dari [Qatadah] dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah berkurban dua ekor domba putih yang bertanduk." Anas melanjutkan, "Saya melihat beliau menyembelih keduanya dengan tangan beliau sendiri sambil membaca basmalah dan takbir, dan dengan menginjakkan kaki di pangkal leher domba itu." Dan telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Khalid] -yaitu Ibnu Al Harits- telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Qatadah] dia berkata; saya mendengar [Anas] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah berkurban...seperti hadits di atas." Syu'bah berkata, "Lalu saya bertanya, "Apakah kamu sendiri yang mendengar dari Anas?" dia menjawab, "Ya." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Sa'id] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas, namun dia menyebutkan, "Dengan mengucapkan bisimillah dan Allhu akbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5088</td></tr><tr><td>Arabic No</td><td>1966.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5088</td></tr><tr><td>Arabic No</td><td>1966.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 25</td></tr></tbody></table></div>
 

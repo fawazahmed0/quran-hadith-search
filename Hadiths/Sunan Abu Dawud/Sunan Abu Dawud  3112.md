@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: Banu al-Harith b. 'Amir b. Nawfal bought Khubaib. Khubaib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Ibrahim bin Sa'd] telah mengabarkan kepada kami [Ibnu Syihab], telah mengabarkan kepadaku ['Amr bin Jariyah Ats Tsaqafi] sekutu Bani Zuhrah, dan ia termasuk diantara sahabat Abu Hurairah, dari [Abu Hurairah], ia berkata; anak-anak Al Harits bin 'Amir bin Naufal telah membeli Khubaib, dan Khubai telah membunuh Al Harits bin 'Amir pada saat perang Badr, dan Khubaib tinggal bersama mereka sebagai tawanan hingga mereka bertekad untuk membunuhnya, kemudian ia meminjam pisau cukur dari anak wanita Al Harits yang akan ia gunakan untuk mencukur bulu kemaluan. Lalu wanita tersebut meminjamkannya kepadanya, kemudian anak wanita tersebut merangkak sementara ia lalai hingga sampai kepada Khubaib. Lalu wanita tersebut mendapati anaknya sendirian berada di atas pangkuan Khubaib sementara pisau cukur ada di tangannya. Maka wanita tersebut sangat terkejut, dan Khubaib mengetahui hal tersebut padanya. Kemudian ia berkata; apakah engkau khawatir aku akan membunuhnya? Aku tidak akan melakukan hal tersebut. Abu Daud berkata; kisah ini diriwayatkan oleh [Syu'aib bin Abu Hamzah], dari [Az Zuhri], ia berkata; telah mengabarkan kepadaku ['Ubaidullah bin 'Iyadh] bahwa [anak wanita Al Harits] telah mengabarkan kepadanya bahwa mereka berkumpul untuk membunuhnya, Khubaib meminjam pisau cukur darinya yang akan ia gunakan untuk mencukur bulu kemaluannya. Lalu wanita tersebut meminjamkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3989، 3045)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>3112</td></tr><tr><td>Reference</td><td>Book 21 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Хубайба купили сыновья аль-Хариса ибн ‘Амира ибн Науфаля ибн Манафа, которого Хубайб убил в битве при Бадре, и он оставался у них в качестве пленника некоторое время, пока они не решили убить его. Узнав об этом, Хубайб одолжил у одной из дочерей аль-Хариса бритву, чтобы побрить волосы на теле, и она дала ему эту бритву, а потом маленький сын этой женщины по её недосмотру подошёл к Хубайбу. Она увидела, как Хубайб, который был один и в руках у которого была бритва, посадил мальчика к себе на бедро, и испугалась так, что Хубайб заметил это по её лицу и сказал: «Ты боишься, что я убью его? Я ни за что этого не сделаю!» От дочери аль-Хариса передаётся, что когда они собрались, чтобы убить его, он попросил у неё бритву, чтобы сбрить волосы на теле, и она дала ему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3989، 3045)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>3112</td></tr><tr><td>Reference</td><td>Book 21 Hadith 24</td></tr></tbody></table></div>
 

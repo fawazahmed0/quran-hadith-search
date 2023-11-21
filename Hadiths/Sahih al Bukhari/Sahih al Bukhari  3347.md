@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah has made an opening in the w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muslim bin Ibrahim] telah bercerita kepada kami [Wuhaib] telah bercerita kepada kami [Ibnu Thawus] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Allah membuka benteng Ya'juj dan Ma'juj seperti ini". Beliau mengilustrasikannya dengan tangan Beliau yang maksudnya sembilan puluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3347</td></tr><tr><td>Arabic No</td><td>3347</td></tr><tr><td>Reference</td><td>Book 60 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Сегодня в стене Яджуджа и Маджуджа было проделано вот такое отверстие!» Сказав это, он соединил пальцы в форме числа девяносто
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3347</td></tr><tr><td>Arabic No</td><td>3347</td></tr><tr><td>Reference</td><td>Book 60 Hadith 22</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Haiwah b. Shuraih reported :I met ‘Uqbah b. Muslim and said to him: it has bee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Bisyr bin Manshur] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Abdullah bin Al Mubarak] dari [Haiwah bin Syuraih] dia berkata; Saya pernah bertemu dengan [Uqbah bin Muslim], lalu saya bertanya kepadanya; Telah sampai kepadaku bahwa engkau menceritakan hadits dari [Abdullah bin Amru bin Al-'Ash] dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau apabila masuk ke masjid mengucapkan: "A'uudzu billahil Azhim wa bi Wajhihil Karim wa Shulthanihil Qadim minasy syaithanirrajim (aku berlindung kepada Allah yang Maha Agung dan kepada Wajah-Nya yang Maha Mulia dan kepada kekuasaan-Nya yang Qadim, dari gangguan syetan yang terkutuk)." Dia bertanya; Apakah itu saja? Aku menjawab: Ya! Dia kemudian meneruskan; Barangsiapa membaca itu, maka syetan akan berkata kepadanya; Dia terjaga dariku sehari ini penuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>466</td></tr><tr><td>Arabic No</td><td>466</td></tr><tr><td>Reference</td><td>Book 2 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хайва ибн Шурайх сказал: «(Однажды), когда я встретил ‘Укъбу ибн Муслима, то сказал ему: “До меня дошло, что ты рассказывал со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, передавшего от Пророка ﷺ что он при входе в мечеть говорил: “А‘узу би-Лляхи-ль-‘Азым, ва би ваджхихи-ль-карим, ва сультанихи-ль-къадим мин-аш-шайтани-р-раджим /Прибегаю к защите Великого Аллаха, Его благородного лика и Его предвечной власти от проклятого шайтана/”».(‘Укъба) сказал (мне): «Все?» Я ответил: «Да». Он сказал: «А если он скажет это, то шайтан говорит: “Он будет защищён от меня до конца этого дня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>466</td></tr><tr><td>Arabic No</td><td>466</td></tr><tr><td>Reference</td><td>Book 2 Hadith 76</td></tr></tbody></table></div>
 

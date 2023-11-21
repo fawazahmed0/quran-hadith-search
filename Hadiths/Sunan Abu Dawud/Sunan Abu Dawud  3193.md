@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yahya ibn Subayh said:Ammar client of al-Harith ibn Nawfal told me that he atten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid? bin Khalid bin Mauhab Ar Ramli], telah menceritakan kepada kami [Ibnu Wahb] dari [Ibnu Juraij], dari [Yahya bin Shabih], ia berkata; telah menceritakan kepadaku ['Ammar] mantan budak Al Harits bin Naufal, bahwa ia menyaksikan jenazah Ummu Kultsum dan anaknya. Anak diletakkan setelah (di belakang posisi) imam, kemudian aku mengingkari hal tersebut dan diantara mereka terdapat [Ibnu Abbas] dan [Abu Sa'id Al Khudri], [Abu Qatadah] serta [Abu Hurairah], dan mereka mengatakan hal ini adalah sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 21 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аммар, вольноотпущенник аль-Хариса ибн Науфаля, передаёт, что он провожал погребальные носилки Умм Кульсум и её сына: «При этом юношу положили напротив имама, и я осудил это, а среди присутствующих были Ибн ‘Аббас, Абу Са‘ид аль-Худри, Абу Катада и Абу Хурайра. И они сказали: “Это сунна”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 21 Hadith 105</td></tr></tbody></table></div>
 

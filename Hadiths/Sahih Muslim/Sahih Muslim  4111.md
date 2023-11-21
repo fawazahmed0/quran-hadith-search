@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:Allah's Messenger (ﷺ) took a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] dari ['Ali bin Shalih] dari [Salamah bin Kuhail] dari [Abu Salamah] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah meminjam unta muda, namun beliau mengembalikan unta yang lebih tua (lebih bagus) daripada unta yang beliau pinjam." Beliau bersabda: "Sebaik-baik kalian adalah yang paling baik dalam melunasi hutang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>1601.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>1601.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 150</td></tr></tbody></table></div>
 

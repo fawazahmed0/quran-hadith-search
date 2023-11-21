@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Maimun:During the pre-lslamic period of ignorance I saw a she-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nu'aim bin Hammad] telah menceritakan kepada kami [Husyaim] dari [Hushain] dari ['Amru bin Maimun] berkata; "Aku pernah melihat di zaman jahiliyyah seekor monyet sedang dikerumuni oleh monyet-monyet lainnya. Monyet itu telah berzina lalu monyet-monyet lain merajamnya (melempari dengan batu) dan aku ikut merajamnya bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>3849</td></tr><tr><td>Reference</td><td>Book 63 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Маймун, сказал: «Однажды во времена джахилийи я увидел обезьян, которые собрались вокруг одной обезьяны, совершившей прелюбодеяние. Они стали закидывать её камнями, и я тоже кидал вместе с ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>3849</td></tr><tr><td>Reference</td><td>Book 63 Hadith 74</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:While the Prophet (ﷺ) was delivering a sermon on a Friday, a man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mahbub] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas] radliallahu 'anhu dia berkata; "Ketika Nabi shallallahu 'alaihi wasallam sedang berkhutbah pada hari Jum'at, tiba-tiba seorang laki-laki berdiri dan berkata; "Wahai Rasulullah, berdo'alah kepada Allah, supaya menurunkan hujan." Maka langitpun menjadi berawan dan hujan pun turun hingga hampir seseorang tidak dapat sampai ke rumahnya, hal ini berlangsung sampai Jumat berikutnya. Kemudian laki-laki tersebut atau yang lainnya berdiri dan berkata; 'Berdo'alah kepada Allah supaya memalingkan hujan dari kami, karena kami semuanya telah kebanjiran.' Beliaupun tersenyum kemudian berdo'a: 'Ya Allah, turunkanlah (hujan) di sekitar kami dan bukan pada kami.' Maka awan-awan pun bergeser dari Madinah dan tidak turun pada penduduk Madinah sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6342</td></tr><tr><td>Arabic No</td><td>6342</td></tr><tr><td>Reference</td><td>Book 80 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, сказал: «Когда Пророк ﷺ обращался (к людям) с проповедью, вдруг встал один человек и сказал: “О посланник Аллаха, помолись же Аллаху, чтобы Он ниспослал нам дождь!” Вдруг небо затянуло тучами и нам был ниспослан (такой сильный) дождь, что человек с трудом добирался до своего жилище, и дождь продолжался до следующей пятницы. Тогда тот же самый или какой-то другой человек встал и сказал: “Попроси Аллаха, чтобы Он отвёл его (дождь) от нас, ибо мы потонули (в воде)”. Тогда Посланник Аллаха ﷺ сказал: “О Аллах, вокруг нас, а не на нас!”». Тучи стали расходиться вокруг Медины направо и налево, а дождь не шёл над Мединой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6342</td></tr><tr><td>Arabic No</td><td>6342</td></tr><tr><td>Reference</td><td>Book 80 Hadith 39</td></tr></tbody></table></div>
 

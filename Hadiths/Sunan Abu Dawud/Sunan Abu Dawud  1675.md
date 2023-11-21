@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Sa'id al-Khudri: A man entered the mosque. The Prophet (ﷺ) comman
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ishaq bin Isma'il], telah menceritakan kepada Kami [Sufyan] dari [Ibnu 'Ajlan], dari ['Iyadh bin Abdullah bin Sa'd], ia mendengar [Abu Sa'id Al Khudri], berkata; seorang laki-laki masuk masjid, kemudian Nabi shalla Allahu 'alaihi wa sallam memerintahkan mereka untuk menanggalkan baju mereka, dan mereka pun mensedekahkan pakaian, kemudian mereka melemparkan beberapa pakaian. Lalu beliau memerintahkan agar orang tersebut diberi dua pakaian. Kemudian beliau menganjurkan untuk bersedekah, lalu orang-orang tersebut datang dan melemparkan salah satu pakaian tersebut. Kemudian beliau menteriakinya dan berkata: "Ambillah pakaianmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1675</td></tr><tr><td>Arabic No</td><td>1675</td></tr><tr><td>Reference</td><td>Book 9 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт: «Однажды в мечеть пришёл какой-то человек, и Пророк ﷺ велел людям сбрасывать в кучу одежду. Когда они сделали это, он выбрал две и дал этому человеку. Потом он стал побуждать людей подавать милостыню, и этот человек бросил в общую кучу одну из этих одежд. Однако (Посланник Аллаха, да благословит его Аллах и приветствует) окрикнул его, сказав: “Забери свою одежду!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1675</td></tr><tr><td>Arabic No</td><td>1675</td></tr><tr><td>Reference</td><td>Book 9 Hadith 120</td></tr></tbody></table></div>
 

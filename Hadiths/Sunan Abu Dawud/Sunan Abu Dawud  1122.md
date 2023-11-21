@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Nu'man b. Bashir said:The Messenger of Allah (ﷺ) used to recite at the two 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Ibrahim bin Muhammad bin Al Muntasyir] dari [ayahnya] dari [Habib bin Salim] dari [Nu'man bin Basyir] bahwa dalam shalat hari raya dan shalat Jum'at, Rasulullah shallallahu 'alaihi wasallam biasa membaca dengan: "Sabbihisma rabbikal a'la dan Hal ataaka hadiitsul ghaatsiyah." Kata Nu'man; "Apabila (hari raya dengan shalat jum'at) bertepatan dalam satu hari, maka beliau juga membaca kedua surat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (878)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 2 Hadith 733</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (878)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 2 Hadith 733</td></tr></tbody></table></div>
 

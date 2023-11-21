@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported:I was among those (i. e. women 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Sufyan bin Uyainah] Telah menceritakan kepada kami [Ubaidullah bin Abu Yazid] bahwa ia mendengar [Ibnu Abbas] berkata; "Aku termasuk yang didahulukan (untuk berangkat dari Muzdalifah) oleh Rasulullah shallallahu 'alaihi wasallam di antara anggota keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>1293.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 331</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>1293.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 331</td></tr></tbody></table></div>
 

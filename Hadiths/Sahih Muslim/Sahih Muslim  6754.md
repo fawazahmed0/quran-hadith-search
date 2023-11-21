@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:Verily Allah has fixed the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu Hisyam Al Makhzumi] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Suhail bin Abu Shalih] dari [bapaknya] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya manusia itu telah ditentukan nasib perzinaannya yang tidak mustahil dan pasti akan dijalaninya. Zina kedua mata adalah melihat, zina kedua telinga adalah mendengar, zina lidah adalah berbicara, zina kedua tangan adalah menyentuh, zina kedua kaki adalah melangkah, dan zina hati adalah berkeinginan dan berangan-angan, sedangkan semua itu akan ditindak lanjuti atau ditolak oleh kemaluan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6754</td></tr><tr><td>Arabic No</td><td>2657.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6754</td></tr><tr><td>Arabic No</td><td>2657.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 32</td></tr></tbody></table></div>
 

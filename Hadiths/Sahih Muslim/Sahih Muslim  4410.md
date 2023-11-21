@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), les Qoraychites, attristés de la s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah], bahwa orang-orang Quraisy merasa kebingungan dengan masalah seorang wanita Makhzumiyah yang ketahuan mencuri, lalu mereka berkata, "Siapakah yang kiranya berani membicarakan hal ini kepada Rasulullah shallallahu 'alaihi wasallam?" Maka mereka mengusulkan, "Tidak ada yang berani melakukan hal ini kecuali Usamah, seorang yang dicintai oleh Rasulullah shallallahu 'alaihi wasallam." Sesaat kemudian, Usamah mengadukan hal itu kepada beliau, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kamu hendak memberi Syafa'at (keringanan) dalam hukum dari hukum-hukum Allah?" Kemudian beliau berdiri dan berkhutbah, sabdanya: "Wahai sekalian manusia, hanyasanya yang membinasakan orang-orang sebelum kalian adalah, ketika orang-orang terpandang mereka mencuri, mereka membiarkannya (tidak menghukum), sementara jika orang-orang yang rendahan dari mereka mencuri mereka menegakkan hukuman had. Demi Allah, sekiranya Fatimah binti Muhammad mencuri, sungguh aku sendiri yang akan memotong tangannya." Dan dalam hadits Ibnu Rumh disebutkan, "Hanyasanya yang menyebabkan kebinasaan orang-orang sebelum kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4410</td></tr><tr><td>Arabic No</td><td>1688.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4410</td></tr><tr><td>Arabic No</td><td>1688.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
 

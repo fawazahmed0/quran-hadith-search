@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:'Abdullah bin 'Umar said, "Allah's Messenger (ﷺ) took hold of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Muhammad bin Abdurrahman Abu Al Mundzir At Thufawi] dari [Sulaiman Al A'masy] dia berkata; telah menceritakan kepadaku [Mujahid] dari [Abdullah bin Umar] radliallahu 'anhuma dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah memegang pundakku dan bersabda: 'Jadilah kamu di dunia ini seakan-akan orang asing atau seorang pengembara." Ibnu Umar juga berkata; 'Bila kamu berada di sore hari, maka janganlah kamu menunggu datangnya waktu pagi, dan bila kamu berada di pagi hari, maka janganlah menunggu waktu sore, pergunakanlah waktu sehatmu sebelum sakitmu, dan hidupmu sebelum matimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6416</td></tr><tr><td>Arabic No</td><td>6416</td></tr><tr><td>Reference</td><td>Book 81 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды) Посланник Аллаха ﷺ взял меня за плечо и сказал: “Будь в этом мире (таким), будто ты чужеземец или путник”».\n(Передатчик этого хадиса сказал, что) Ибн ‘Умар, да будет доволен Аллах ими обоими, часто говорил: «Если ты дожил до вечера, то не жди(, что доживёшь и) до утра, а если ты дожил до утра, то не жди(, что доживёшь и) до вечера, и бери у твоего здоровья (то, что пригодится) для твоей болезни, а у твоей жизни — (то, что пригодится) для твоей смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6416</td></tr><tr><td>Arabic No</td><td>6416</td></tr><tr><td>Reference</td><td>Book 81 Hadith 5</td></tr></tbody></table></div>
 

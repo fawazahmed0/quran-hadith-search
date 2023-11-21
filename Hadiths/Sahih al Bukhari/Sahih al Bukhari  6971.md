@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "It is essential to have the conse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Abi Mulaikah] dari [Dzakwan] dari [Aisyah] radliallahu 'anha mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Gadis dimintai izinnya." Saya bertanya; 'Sesungguhnya gadis sering merasa malu untuk menyatakan persetujuannya.' Nabi menjawab; "tanda izinnya adalah diam." Sebagian orang berpendapat bahwa; jika seorang laki-laki tertarik menikahi hamba sahaya yatim atau gadis, lantas anak yatim atau hamba sahaya tadi menolak, lalu si laki-laki mencari siasat dengan menghadirkan dua orang saksi bohong, dengan menyatakan bahwa si laki-laki tadi telah menikahinya dan si perempuan rela, kemudian hakim menerima kesaksian palsu tersebut dan suami mengetahui kebatilan kesaksiannya, maka boleh baginya menyetubuhinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6971</td></tr><tr><td>Arabic No</td><td>6971</td></tr><tr><td>Reference</td><td>Book 90 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «(Однажды) Посланник Аллаха ﷺ сказал: “Девственниц следует спрашивать согласие на брак”. Я сказала: “Поистине, девственница стесняется”. (Пророк ﷺ) сказал: “Её согласие (выражается в) её молчании”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6971</td></tr><tr><td>Arabic No</td><td>6971</td></tr><tr><td>Reference</td><td>Book 90 Hadith 18</td></tr></tbody></table></div>
 

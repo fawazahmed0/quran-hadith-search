@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) ordered Umar ibn al-Khattab who w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ash Shabbah] bahwa [Isma'il bin Abdul Karim] menceritakan kepada mereka, ia berkata; telah menceritakan kepadaku [Ibrahim] -maksudnya Ibrahim bin Aqil- dari [bapaknya] dari [Wahb bin Munabbih] dari [Jabir] bahwa Nabi shallallahu 'alaihi wasallam memerintahkan Umar Ibnul Khaththab radliallahu 'anhu -pada waktu pembukaan (penaklukan) kota Makkah, dan ia berada di daerah Bathha- agar datang ke Ka'bah untuk menghapus semua gambar yang ada di dalamnya. Dan Nabi shallallahu 'alaihi wasallam tidak akan masuk ke dalam Ka'bah hingga semua gambar yang ada di dalamnya telah dihapus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>4156</td></tr><tr><td>Reference</td><td>Book 34 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира (ибн ‘Абдуллаха), да будет доволен Аллах им и его отцом, что Пророк ﷺ велел ‘Умару ибн аль-Хаттабу, да будет доволен им Аллах, в дни покорения Мекки, когда он находился в Батхе, войти в Каабу и стереть все изображения, а сам Пророк ﷺ не входил туда, пока все изображения не были стёрты
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>4156</td></tr><tr><td>Reference</td><td>Book 34 Hadith 137</td></tr></tbody></table></div>
 

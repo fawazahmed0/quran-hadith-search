@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported that there was a person in the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Amru bin Dinar] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma bahwa; Seorang laki-laki patah lehernya karena terjatuh dari Unta ketika Ihram hingga ia meninggal seketika. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Mandikanlah jenazahnya dengan air bercampur daun bidara. Lalu kafanilah ia dengan kedua helai kain (ihram) -nya. Dan janganlah kalian menutupi kepala dengan surban, jangan pula menutupi wajahnya, karena ia akan dibangkitnya kelak di hari kiamat dalam keadaan Ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2896</td></tr><tr><td>Arabic No</td><td>1206.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2896</td></tr><tr><td>Arabic No</td><td>1206.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 105</td></tr></tbody></table></div>
 

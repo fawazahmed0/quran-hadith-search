@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once I stayed overnight at the house of (my aunt ) Maimuna w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepadaku [Syarik bin Abdullah bin Abu Namir] dari [Kuraib] dari [Ibn Abbas] mengatakan, "Suatu malam aku bermalam di rumah maimunah sedang Nabi shallallahu 'alaihi wasallam Shallallahu'alaihiwasallam di sisinya, itu kulakukan dengan niat agar aku bisa melihat Shalat Rasulullah Shallallahu'alaihiwasallam ketika malam. Rasulullah Shallallahu'alaihiwasallam berbincang-bincang bersama isterinya beberapa saat, kemudian tidur, ketika sepertiga malam terakhir tiba, atau sebagiannya, beliau duduk dan menatap langit lantas membaca ayat: '(Sesungguhnya dalam penciptaan langit dan bumi hingga ayat terdapat tanda-tanda bagi orang yang berakal) ' (QS. Ali'Imran: 190). Kemudian beliau berdiri dan berwudlu', beliau membersihkan gigi-giginya kemudian shalat sebelas rakaat. Kemudian setelah Bilal mengumandangkan adzan (subuh), beliau shalat dua rakaat, kemudian keluar untuk mengimami orang-orang shalat subuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7452</td></tr><tr><td>Arabic No</td><td>7452</td></tr><tr><td>Reference</td><td>Book 97 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов (‘Абдуллах) ибн ‘Аббаса, да будет доволен Аллах им и его отцом, сказал: «Однажды в одну из ночей, я остался на ночь в доме Маймуны, и Пророк ﷺ находился в ту ночь у неё. Я (остался), чтобы посмотреть, как совершает ночную молитву Посланник Аллаха ﷺ. Посланник Аллаха ﷺ поговорив немного со своей семьёй, затем лёг спать. Когда настала последняя треть ночи (или: его часть), (Посланник Аллаха ﷺ) сел, посмотрел на небо и прочитал (слова Всевышнего): “Поистине, в сотворении небес и земли и смене ночи и дня заключены знамения для обладающих разумом” (Сура «Аль ‘Имран», аят 190). Затем он встал, совершил малое омовение, почистил зубы сиваком, а затем совершил молитву в одиннадцать рак‘атов. Затем Биляль призвал на (утреннюю) молитву и (Посланник Аллаха ﷺ) совершил два рак‘ата, а затем вышел и совершил с людьми обязательную утреннюю молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7452</td></tr><tr><td>Arabic No</td><td>7452</td></tr><tr><td>Reference</td><td>Book 97 Hadith 78</td></tr></tbody></table></div>
 

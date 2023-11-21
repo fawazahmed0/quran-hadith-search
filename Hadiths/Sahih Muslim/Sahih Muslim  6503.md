@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn Shubruma with the same cha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa Al Mahdani]; Telah menceritakan kepada kami [Ibnu Fudhail] dari [Bapaknya] dari ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah] seorang laki-laki seraya berkata; 'Ya Rasulullah, siapakah orang yang paling berhak dengan kebaktianku? Beliau menjawab: 'Ibumu, lalu Ibumu, lalu Ibumu, kemudian bapakmu, kemudian orang yang terdekat denganmu dan seterusnya.' Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Syarik] dari ['Ammarah] dari [Ibnu Syubrumah] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata; Seseorang berkata kepada Nabi shallallahu 'alaihi wasallam -lalu Abu Hurairah menyebutkah Hadits yang serupa dengan Hadits Jarir dengan sedikit tambahan; 'beliau bersabda: 'Ya, dan bapakmu, sungguh aku akan memberitakan kepadamu.' Telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Syababah] Telah menceritakan kepada kami [Muhammad bin Thalhah] Demikian juga diriwayatkan dari jalur lainnya, Telah menceritakan kepadaku [Ahmad bin Khirasy] Telah menceritakan kepada kami [Habban] Telah menceritakan kepada kami [Wuhaib] keduanya dari [Ibnu Syubrumah] melalui jalur ini. Di dalam Hadits Wuhaib disebutkan dengan lafazh; 'Man Abarru.' (Siapakah yang paling baik). Sedangkan di dalam Hadits Muhammad bin Thalhah dengan lafazh; 'Ayyun nas ahaqqu minni bihusnis shahbah.' -lalu dia menyebutkan lafazh yang sama dengan Hadits Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6503</td></tr><tr><td>Arabic No</td><td>2548.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6503</td></tr><tr><td>Arabic No</td><td>2548.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 4</td></tr></tbody></table></div>
 

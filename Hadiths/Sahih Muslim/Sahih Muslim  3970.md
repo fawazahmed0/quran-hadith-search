@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:I heard Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] dan [Ibnu Abu Khalaf] keduanya berkata; telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa dia mendengar [Jabir bin Abdullah] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang Muslim yang menanam sebatang pohon atau tanaman, lalu tanaman tersebut dimakan oleh binatang buas, burung atau sesuatu yang lain, kecuali hal itu bernilai sesekah baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3970</td></tr><tr><td>Arabic No</td><td>1552.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Если мусульманин посадит дерево или засеет поле, а потом (выросшее) поест зверь, птица или кто-нибудь ещё, то он обязательно получит за это вознаграждение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3970</td></tr><tr><td>Arabic No</td><td>1552.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 9</td></tr></tbody></table></div>
 

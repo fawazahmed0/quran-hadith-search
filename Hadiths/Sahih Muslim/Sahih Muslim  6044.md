@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that a woman had a partial derangement in her mind, so she said. A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Yazid bin Harun] dari [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa ada seorang yang mempunyai masalah lalu berkata; 'Ya Rasulullah, sesungguhnya saya sedang membutuhkan pertolongan engkau. Rasulullah shallallahu 'alaihi wasallam pun menjawab; "Hai ibu fulan, di tempat mana yang kamu inginkan untuk menyampaikan keperluanmu itu kepadaku? Lalu Rasulullah dan wanita itu menepi di suatu jalan hingga wanita tersebut dapat menyampaikan keperluannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6044</td></tr><tr><td>Arabic No</td><td>2326</td></tr><tr><td>Reference</td><td>Book 43 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6044</td></tr><tr><td>Arabic No</td><td>2326</td></tr><tr><td>Reference</td><td>Book 43 Hadith 102</td></tr></tbody></table></div>
 

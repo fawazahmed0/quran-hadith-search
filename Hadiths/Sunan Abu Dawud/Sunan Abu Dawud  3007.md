@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Umar said: The Messenger of Allah (ﷺ) had transact
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Ya'qub bin Ibrahim], telah menceritakan kepada kami [ayahku], dari [Ibnu Ishaq], telah menceritakan kepadaku [Nafi'] mantan budak Abdullah bin Umar, dari [Abdullah bin Umar], bahwa [Umar] berkata; wahai manusia, sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah mempekerjakan orang-orang Yahudi Khaibar dengan syarat kita dapat mengeluarkan mereka apabila kami menghendaki. Barang siapa yang memiliki harta maka hendaknya ia mengambilnya karena sesungguhnya aku akan mengeluarkan orang-orang Yahudi. Kemudian Umar mengeluarkan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3007</td></tr><tr><td>Arabic No</td><td>3007</td></tr><tr><td>Reference</td><td>Book 20 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что ‘Умар, да будет доволен им Аллах, сказал: «О люди! Поистине, Посланник Аллаха ﷺ предупредил иудеев Хайбара, что мы выселим их, когда пожелаем. У кого есть имущество, пусть идёт к нему, ибо, поистине, я выселяю иудеев». И он выселил их
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3007</td></tr><tr><td>Arabic No</td><td>3007</td></tr><tr><td>Reference</td><td>Book 20 Hadith 80</td></tr></tbody></table></div>
 

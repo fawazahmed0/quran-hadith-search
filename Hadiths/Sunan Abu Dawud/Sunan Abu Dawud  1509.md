@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ali b. Abi Talib said:When the Prophet (ﷺ) uttered salutation at the end of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Ubaidullah bin Mu'adz] ia berkata; telah menceritakan kepada Kami [ayahku], telah menceritakan kepada Kami [Abdul Aziz bin Abu Salamah] dari [pamannya yaitu Al Majisyun bin Abu Salamah] dari [Abdurrahman Al A'raj] dari ['Ubaidullah bin Abu Rafi'] dari [Ali bin Abu Thalib] ia berkata; Nabi shallallahu 'alaihi wasallam apabila mengucapkan salam setelah shalat beliau mengucapkan: "ALLAAHUMMAGHFIRLII MAA QADDAMTU WA MAA AKHKHARTU WA MAA ASRARTU WA MAA A'LANTU WA MAA ASRAFTU, WA MAA ANTA A'LAMU BIHI MINNII, ANTAL MUQADDIMU WA ANTAL MUAKHKHIRU LAA ILAAHA ILLAA ANTA" (Ya Allah, ampunilah bagiku apa yang telah aku lakukan dan apa yang belum aku lakukan, apa yang aku sembunyikan dan apa yang aku nampakkan, apa yang lakukan secara berlebihan, dan apa yang Engkau lebih tahu daripada diriku. Engkau Yang mendahulukan dan Yang mengakhirkan, tidak ada tuhan yang berhak disembah kecuali Engkau)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>1509</td></tr><tr><td>Reference</td><td>Book 8 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али ибн Абу Талиба, да будет доволен им Аллах, что Пророк ﷺ говорил после таслима: «О Аллах, прости мне то, что я совершил прежде и что отложил, что делал тайно и явно, то, в чём я излишествовал, и то, о чём Ты знаешь лучше меня! Ты Выдвигающий вперёд и Ты Отодвигающий, нет божества, кроме Тебя! /Аллахумма, гфир ли ма каддамту, ва ма аххарту, ва ма асрарту, ва ма а‘лянту, ва ма асрафту ва ма Анта а‘ляму би-хи минни! Анта-ль-Мукаддиму ва Анта-ль-Муаххыру, ля иляха илля Анта/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>1509</td></tr><tr><td>Reference</td><td>Book 8 Hadith 94</td></tr></tbody></table></div>
 

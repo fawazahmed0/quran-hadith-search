@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:Abu Bakr sent for me and said, "You used to write the D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari [Yunus] Telah menceritakan kepada kami [Ibnu Syihab] bahwa [Ibnu As Sabbaq] berkata; [Zaid bin Tsabit] berkata; Abu Bakar pernah mengutus seseorang padaku seraya mengatakan, "Sesungguhnya, kamulah yang pernah menulis wahyu untuk Rasulullah shallallahu 'alaihi wasallam. Karena itu, telusurilah Al Qur'an." Maka aku pun segera menelusurinya, hingga aku mendapati akhir dari surat At Taubah, yakni dua ayat bersama Abu Khuzaimah Al Anshari, yang aku tidak mendapatkannya pada seorang pun selainnya. Yakni, "LAQAD JAA'AKUM RASUULUM MIN ANFUSIKUM 'AZIIZUN 'ALAIHI MAA 'ANITTUM.." Hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4989</td></tr><tr><td>Arabic No</td><td>4989</td></tr><tr><td>Reference</td><td>Book 66 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Сабит, да будет доволен им Аллах, рассказывал: «Абу Бакр, да будет доволен им Аллах, вызвал меня к себе и сказал: “Поистине, ты записывал откровения для Посланника Аллаха ﷺ. Займись же Кораном”. И я принялся за работу, и обнаружил последние два аята из суры “ат-Тауба” у Абу Хузаймы аль-Ансари. Кроме него я не обнаружил их ни у кого. (Это были слова:) “К вам явился посланник из вашей среды. Тяжко для него то, что вы страдаете. Он старается для вас. Он добр и милосерден к верующим. А если они отвернутся, то скажи: “Мне достаточно Аллаха! Нет божества, кроме Него. Я уповаю только на Него, ибо Он — Господь великого Трона”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4989</td></tr><tr><td>Arabic No</td><td>4989</td></tr><tr><td>Reference</td><td>Book 66 Hadith 11</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim (b. Abdullah b. 'Umar) reported on the authority of his father (Allah be p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Abbad] Telah menceritakan kepada kami [Hatim bin Isma'il] dari [Musa bin Uqbah] dari [Salim] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam didatangi di tempat dari [Musa bin Uqbah] dari [Salim] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah di datangi di tempat peristirahatannya di Dzulhulaifah, lalu dikatakanlah kepada beliau, "Sesungguhnya Anda tengah berada di Bathha' yang diberkahi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3285</td></tr><tr><td>Arabic No</td><td>1346.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 489</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3285</td></tr><tr><td>Arabic No</td><td>1346.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 489</td></tr></tbody></table></div>
 

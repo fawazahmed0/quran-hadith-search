@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I offered the 'Id prayer with the Prophet (ﷺ) and he offer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepada kami [Al Hasan bin Muslim] dari [Thawus] dari [Ibnu Abbas] radliallahu 'anhuma; "Saya pernah mengikuti shalat Ied bersama Nabi shallallahu 'alaihi wasallam, beliau mengerjakan shalat sebelum berkhutbah." Abu Abdullah berkata; [Ibnu Wahb] menambahkan dari [Ibnu Juraij]; 'Kemudian beliau menemui para wanita, lantas para wanita segera melempar cincin mereka baik yang kecil maupun yang besar ke kainnya Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5880</td></tr><tr><td>Arabic No</td><td>5880</td></tr><tr><td>Reference</td><td>Book 77 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я присутствовал на праздничной молитве вместе с Пророком ﷺ, и он совершил молитву перед хутбой». Также он добавил: «Затем он пришёл к женщинам, и они стали кидать свои кольца /аль-фатах/ и перстни в одежду Биляля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5880</td></tr><tr><td>Arabic No</td><td>5880</td></tr><tr><td>Reference</td><td>Book 77 Hadith 97</td></tr></tbody></table></div>
 

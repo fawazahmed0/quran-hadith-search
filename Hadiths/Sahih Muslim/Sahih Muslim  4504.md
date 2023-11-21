@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Khalid al-Juhani reported that Allah's Messenger (ﷺ) was asked about p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir Ahmad bin 'Amru bin Sarh] telah mengabarkan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Adl Dlahak bin Utsman] dari [Abu An Nadlr] dari [Busr bin Sa'id] dari [Zaid bin Khalid Al Juhani] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya mengenai barang temuan, maka beliau menjawab: "Umumkanlah sampai setahun lamanya, jika ada orang yang mengenalinya, maka kenalilah tali dan wadahnya kemudian makanlah, jika pemiliknya datang maka kembalikanlah ia kepadanya." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu Bakar Al Hanafi] telah menceritakan kepada kami [Ad Dlahak bin Utsman] dengan isnad ini, dan dia menyebutkan dalam haditsnya, "Jika pemiliknya mengenailnya, maka kembalikanlah ia kepadanya, jika tidak (dapat mengenalinya) maka kenalilah tali, wadah dan jumlahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4504</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4504</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

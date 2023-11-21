@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported:There happened to pass by Allah's Apostle (ﷺ) a Jew
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] keduanya dari [Abu Mu'awiyah], [Yahya] berkata; telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Al Barra' bin 'Azib] dia berkata, "Suatu ketika seorang Yahudi yang dicat hitam dan didera lewat di hadapan Nabi shallallahu 'alaihi wasallam, kemudian beliau memanggil mereka seraya bersabda: "Beginikah hukuman zina yang kalian dapati dalam kitab Taurat kalian?" mereka menjawab, "Ya benar." Lalu beliau memanggil seorang laki-laki yang tergolong dari ulama mereka, beliau bertanya: "Aku mengharap kamu mau bersumpah dengan nama Allah yang telah menurunkan kitab Taurat kepada Musa, betulkah begini caranya hukuman zina yang kalian dapati dalam kitab tauratmu?" dia menjawab, "Tidak, seandainya anda tidak menyumpahku dengan nama Allah, aku tidak akan mengatakan yang sebenarnya kepada anda. Dan yang kami ketahui dalam kitab Taurat, hukumannya adalah rajam, akan tetapi biasanya hukuman itu tidak berlaku bagi pembesar-pembesar kami, jika yang tertangkap itu dari pembesar, maka kami biarkan begitu saja, akan tetapi jika yang tertangkap rakyat kecil maka kami tegakkan hukum sesuai Taurat. Akhirnya kami bermusyawarah, membicarakan hukum yang dapat kami tegakkan bagi pembesar dan rakyat biasa. Lalu kami putuskan untuk membuat hitam tubuh dan mendera pelaku zina sebagai pengganti hukum rajam." Setelah laki-laki itu selesai bicara, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, sesungguhnya akulah orang yang pertama-tama menghidupkan kembali sunnah-Mu setelah mereka hapus perintah tersebut." Setelah itu, beliau memerintahkan supaya Yahudi yang berzina itu dihukum rajam, lalu Allah 'azza wajalla menurunkan ayat: '(Wahai rasul, janganlah kamu merasa sedih, karena orang-orang yang bersegera menuju kekafiran -hingga firman-Nya- Jika diberikan ini kepadamu, maka terimalah) ' (Qs. Al Maidah: 41). Orang-orang Yahudi berkata, "Datanglah kalian kepada Muhammad shallallahu 'alaihi wasallam, jika beliau memutuskan hukuman kepadamu dengan menghitamkan tubuh dan didera, maka terimalah, namun jika dia berfatwa kepadamu dengan hukuman rajam, maka waspadalah. Maka Allah Ta'ala menurunkan ayat: '(Barangsiapa tidak berhukum dengan sesuatu yang telah di turunkan Allah, maka mereka itu adalah orang-orang yang kafir. Dan barangsiapa tidak berhukum dengan sesuatu yang telah diturunkan Allah, maka mereka itu adalah orang-orang yang Zhalim. Dan barangsiapa tidak berhukum dengan sesuatu yang telah di turunkan Allah, maka mereka itu adalah orang-orang yang fasik' (Qs. Al Maidah: 44- 47). Hal ini juga berlaku kepada orang-orang kafir semuanya." Telah menceritakan kepada kami [Ibnu Numair] dan [Abu Sa'id Al Asyaj] keduanya berkata; telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dengan isnad seperti ini sampai kepada perkataannya, "Lalu Nabi shallallahu 'alaihi wasallam memerintahkan untuk merajmanya, akhirnya dia pun dirajam." Dan tidak menyebutkan sesuatu setelahnya seperti turunnya ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4440</td></tr><tr><td>Arabic No</td><td>1700.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4440</td></tr><tr><td>Arabic No</td><td>1700.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 43</td></tr></tbody></table></div>
 

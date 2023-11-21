@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safwan b. Ya'la b. Umayya reported that Ya'la used to say to 'Umar b. Khattab (A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Muhammad bin Bakr] keduanya berkata, telah mengabarkan kepada kami [Ibnu Juraij] -dalam riwyat lain- Dan Telah menceritakan kepada kami [Ali bin Khasyram] -lafazh juga miliknya- telah mengabarkan kepada kami [Isa] dari [Ibnu Juraij] ia berkata, telah mengabarkan kepadaku [Atha'] bahwa [Shafwan bin Umayyah] telah mengabarkan kepadanya bahwa [Ya'la] berkata Umar bin Al Khaththab radliallahu 'anhu, "Seandainya aku dapat melihat Nabi shallallahu 'alaihi wasallam saat beliau menerima wahyu." Maka ketika Nabi shallallahu 'alaihi wasallam berada di Ji'ranah yang saat itu beliau diselimuti dengan kain sedangkan di sekelilingnya adalah para sahabatnya, di antara mereka ada Umar bin Al Khaththab, tiba-tiba datanglah seorang laki-laki dengan mengenakan jubah Shuf dan tubuhnya telah terlumuri dengan wewangian. Laki-laki itu pun berkata, "Wahai Rasulullah, bagaimana menurut Anda, mengenai seorang laki-laki yang berniat Ihram untuk Umrah dengan mengenakan Jubah setelah ia melumurinya dengan wewangian?" Maka Nabi shallallahu 'alaihi wasallam pun memandangi laki-laki itu, lalu beliau terdiam hingga wahyu pun turun kepadanya. Maka Umar memberi isyarat dengan tangannya kepada Ya'la bin Umayyah, "Kemarilah." Ya'la pun datang dan langsung memasukkan kepalanya, ternyata wajah Nabi shallallahu 'alaihi wasallam sedang memerah. Lalu Umar menutup sesaat hingga beliau siuman kembali. Sesudah itu, beliau bertanya: "Manakah orang yang bertanya padaku tentang Umrah?" maka laki-laki itu pun dicari dan dibawa ke hadapan beliau. Akhirnya Nabi shallallahu 'alaihi wasallam bersabda: "Adapun wewangian yang ada padamu, maka cucilah tiga kali, sedangkan Jubah, maka lepaskanlah. Lakukanlah pada Umrahmu sebagaimana apa yang kamu lakukan di dalam hajimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2800</td></tr><tr><td>Arabic No</td><td>1180.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2800</td></tr><tr><td>Arabic No</td><td>1180.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 10</td></tr></tbody></table></div>
 

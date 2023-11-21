@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard the Prophet (ﷺ) saying, "Whoever sees me in a dre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] dari [Yunus] dari [Az Zuhri] telah menceritakan kepadaku [Abu Salamah], bahwasanya [Abu Hurairah] mengatakan, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa melihatku dalam tidur, maka (seakan-akan) ia melihatku ketika terjaga, (karena) setan tidak bisa menyerupaiku." Abu Abdullah mengatakan, Ibnu Sirin mengatakan; 'Maksudnya jika melihat beliau dengan bentuk (asli) beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6993</td></tr><tr><td>Arabic No</td><td>6993</td></tr><tr><td>Reference</td><td>Book 91 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Увидевший меня во сне увидит меня и наяву, а шайтан не (может) принимать мой облик”». \nАбу ‘Абдуллах (аль-Бухари) сказал: «(Мухаммад) ибн Сирин сказал: “Если он увидет его в его (истинном) образе и обличье“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6993</td></tr><tr><td>Arabic No</td><td>6993</td></tr><tr><td>Reference</td><td>Book 91 Hadith 12</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The gates of Paradise are
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari apa yang telah dibacakan kepadanya dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pintu-pintu surga dibuka pada hari Senin dan kamis. Semua dosa hamba yang tidak menyekutukan Allah dengan sesuatu akan diampuni, kecuali bagi orang yang antara dia dan saudaranya terdapat kebencian dan perpecahan." Lalu dikatakan: 'Tangguhkanlah dua orang ini hingga mereka berdamai! Tangguhkanlah dua orang ini hingga mereka berdamai! Tangguhkanlah kedua orang ini hingga mereka berdamai! ' Telah menceritakannya kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ahmad bin 'Abdah Adh Dhabi] dari ['Abdul 'Aziz Ad Darawardi] keduanya dari [Suhail] dari [Bapaknya] melalui jalur Malik dengan Hadits yang serupa. Namun di dalam Hadits Ad Darawardi disebutkan; 'Kecuali orang-orang yang saling mendiamkan.' -menurut riwayat Ibnu 'Abdah.- Qutaibah berkata dengan lafazh; 'Illa Al Muhtajirin.' (Kecuali orang-orang yang saling mendiamkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6545</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6545</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

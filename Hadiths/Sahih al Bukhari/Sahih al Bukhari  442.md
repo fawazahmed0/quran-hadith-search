@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I saw seventy of As-Suffa men and none of them had a Rida' 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin 'Isa] berkata, telah menceritakan kepada kami [Ibnu Fudlail] dari [Bapaknya] dari [Abu Hazm] dari [Abu Hurairah] berkata, "Sungguh, aku pernah melihat sekitar tujuh puluh orang dari Ashhabush Shuffah. Tidak ada seorangpun dari mereka yang memiliki rida' (selendang), atau kain, atau baju panjang kecuali mereka ikatkan dari leher mereka. Di antara mereka ada yang kainnya sampai ke tengah betisnya dan ada yang sampai ke mata kaki. Kemudian dia lipatkan dengan tangannya karena khawatir auratnya terlihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 8 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я видел семьдесят человек из числа живших под навесом, и ни у кого из них не было даже плаща, а только изар или какая-нибудь другая (единственная) одежда, концы которой они завязывали у себя на шеях. У одних эти одежды доходили до середины голеней, а у других — до щиколоток, и (человек) придерживал их края руками, не желая, чтобы было видно то, что следует скрывать от чужих глаз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 8 Hadith 91</td></tr></tbody></table></div>
 

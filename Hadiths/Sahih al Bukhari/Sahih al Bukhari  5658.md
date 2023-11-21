@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:During the ailment of the Prophet (ﷺ) some people came to visi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Hisyam] dia berkata; telah mengabarkan kepadaku [Ayahku] dari [Aisyah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam pernah dijenguk oleh beberapa orang ketika beliau sakit, kemudian beliau mengerjakan shalat sambil duduk, maka orang-orang pun ikut mengerjakan shalat sambil berdiri, lalu beliau memberi isyarat supaya mereka juga duduk, seusai shalat beliau bersabda: "Sesungguhnya dijadikannya Imam itu untuk diikuti, apabila dia ruku' maka kalian juga harus ruku', apabila dia mengangkat kepala maka kalian juga harus mengangkat kepala, apabila dia shalat sambil duduk maka kalian harus shalat sambil duduk." Abu Abdullah berkata; Al Humaidi berkata; hadits ini hukumnya mansukh (terhapus), karena Nabi shallallahu 'alaihi wasallam di akhir hayatnya selalu mengerjakan shalat sambil duduk, sementara orang-orang yang di belakang beliau shalat sambil berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5658</td></tr><tr><td>Arabic No</td><td>5658</td></tr><tr><td>Reference</td><td>Book 75 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ заболел некоторые люди пришли, чтобы навестить его, и он совершил с ними молитву сидя, а люди стали молиться стоя, и он сделал им знак рукой, чтобы они сели. Закончив молитву, он сказал: “Поистине, имам назначается для того, чтобы (во время молитвы) другие следовали за ним, и если он совершает поясной поклон, то кланяйтесь вместе с ним, если он поднимет (голову), поднимайте и вы, а если он молится сидя, то молитесь сидя и вы”». \nАль-Хумейди сказал: «Этот хадис является отменным, потому что последнюю молитву Пророк, да благословит его Аллах и приветствует, совершил сидя, а люди позади него стоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5658</td></tr><tr><td>Arabic No</td><td>5658</td></tr><tr><td>Reference</td><td>Book 75 Hadith 18</td></tr></tbody></table></div>
 

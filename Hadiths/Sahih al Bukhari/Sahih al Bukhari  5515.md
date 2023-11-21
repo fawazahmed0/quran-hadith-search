@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:While I was with Ibn 'Umar, we passed by a group of yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] ia berkata, "Aku pernah bersama [Ibnu Umar] melewati sekelompok orang yang sedang menjadikan ayam sebagai sasaran tembak mereka, ketika mereka melihat Ibnu Umar mereka pun kabur. Ibnu Umar lalu berkata, "Siapa yang melakukan ini! Sesungguhnya Nabi shallallahu 'alaihi wasallam melaknat orang yang melakukan perbuatan seperti ini." Hadits ini dikuatkan oleh [Sulaiman] dari [Syu'bah] berkata, telah menceritakan kepada kami [Al Minhal] dari [Sa'id] dari [Ibnu Umar] ia berkata, "Nabi shallallahu 'alaihi wasallam melaknat orang yang memutilasi hewan." [Adi] menyebutkan dari [Sa'id] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5515</td></tr><tr><td>Arabic No</td><td>5515</td></tr><tr><td>Reference</td><td>Book 72 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид бин Джубайр, да помилует его Аллах Всевышний, сказал: «(Однажды,) когда я (вместе с другими) находился в обществе Ибн ‘Умара, он прошёл мимо юношей (или: группы людей), которые привязали к чему-то курицу и стали в неё стрелять. Увидев Ибн ‘Умара, они разбежались, а Ибн ‘Умар сказал: “Кто сделал это? Поистине, Пророк ﷺ проклинал тех, кто занимался этим!”».\nВ другой версии этого хадиса сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ проклинал (таких людей), которые отрезали части тела ещё живых животных!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5515</td></tr><tr><td>Arabic No</td><td>5515</td></tr><tr><td>Reference</td><td>Book 72 Hadith 41</td></tr></tbody></table></div>
 

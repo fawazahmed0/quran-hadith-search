@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:that he asked 'Aisha regarding the Verse: 'If you fear that you s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] ia berkata; Telah mengabarkan kepadaku [Urwah] bahwa ia pernah bertanya kepada Aisyah radliallahu 'anha mengenai firman-Nya, "WA IN KHIFTUM ANLAA TUQSITHUU FIL YATAAMAA.." [Aisyah] menjelaskan, "Wahai anak saudaraku, maksudnya adalah anak perempuan yatim yang tinggal di rumah walinya, lalu sang wali pun berhasrat pada kecantikan dan juga hartanya. Namun sang wali itu hendak mengurangi maharnya. Karena itu, mereka pun dilarang untuk menikahi anak-anak perempuan yatim itu kecuali dengan menyempurnakan maharnya. Akhirnya mereka pun diperintahkan untuk menikahi wanita-wanita selain mereka." Aisyah juga menjelaskan, "Setelah itu, orang-orang pun pada meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam. Maka Allah menurunkan ayat, 'WA YASTAFTUUNAKA FIN NISAA'..' hingga firman-Nya, 'WA TARGHABUUNA AN TANKIHUUHUNNA.' Maka Allah pun menurunkan ayat kepada mereka, bahwa jika ada anak perempuan yatim yang memiliki kecantikan wajah dan harta, apabila mereka ingin menikahinya, mereka diminta untuk menyempurnakan mahar. Apabila anak puteri yatim itu tidak mereka senangi lantaran tak memiliki harta dan kecantikan maka mereka pun meninggalkannya dan mencari wanita lain. Karena itu, sebagaimana mereka meninggalkannya ketika mereka tak menyukainya, maka mereka pun tidak diizinkan untuk menikahinya saat mereka berkeinginan kecuali dengan berbuat adil pada mereka dan memberikan haknya yang harus dipenuhi yakni Mahar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5092</td></tr><tr><td>Arabic No</td><td>5092</td></tr><tr><td>Reference</td><td>Book 67 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва спросил ‘Аишу, да будет доволен ею Аллах, о словах Всевышнего «Если вы боитесь, что не будете справедливы к сиротам» (сура «ан-Ниса», аят 3). Она сказала: «О сын моей сестры, речь идёт о сироте, которую воспитывает её опекун, а его привлекает её богатство и её красота, и он желает жениться на ней, дав ей меньше махра, (чем обычно дают подобным женщинам другие). Им было запрещено жениться на них, если только они не станут соблюдать справедливость в том, что касается брачного дара и не дадут им предельно высокий им подобных брачный дар. И им было велено жениться на других женщинах вместо них».\nДалее ‘Аиша сказала: «А потом люди начали спрашивать Посланника Аллаха ﷺ (о женщинах). И Аллах ниспослал: “Они просят тебя вынести решение относительно женщин…” до слов: “…размышляя о женитьбе на них” (сура «ан-Ниса», аят 127) — Аллах ниспослал им, что, когда сирота красива и богата, они хотели женится на ней и хотели родства с ней, но при этом не давая ей столько брачного договора, сколько согласны дать ей другие. Если же она была нежеланной, потому что она бедна и некрасива, они оставляли её и искали других женщин. И подобно тому, как они оставляют её, когда она не привлекает его, им было запрещено жениться на тех, кто привлекает их, если только они не будут соблюдать справедливость в отношении неё, дав ей полный брачный дар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5092</td></tr><tr><td>Arabic No</td><td>5092</td></tr><tr><td>Reference</td><td>Book 67 Hadith 30</td></tr></tbody></table></div>
 

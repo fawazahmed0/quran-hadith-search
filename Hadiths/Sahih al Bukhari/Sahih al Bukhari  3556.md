@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b:I heard Ka'b bin Malik talking after his failure to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3556</td></tr><tr><td>Arabic No</td><td>3556</td></tr><tr><td>Reference</td><td>Book 61 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Ка’ба, что, рассказывая о своём отсутствии в походе на Табук, Ка’б ибн Малик сказал: «Я поприветствовал Посланника Аллаха ﷺ, чьё лицо сияло от радости. Когда Посланника Аллаха ﷺ что-нибудь радовало, лицо его озарялось и становилось подобным кусочку луны, о чём всем нам было известно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3556</td></tr><tr><td>Arabic No</td><td>3556</td></tr><tr><td>Reference</td><td>Book 61 Hadith 65</td></tr></tbody></table></div>
 

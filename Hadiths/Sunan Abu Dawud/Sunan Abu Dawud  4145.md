@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:The Messenger of Allah (ﷺ) said to me: Have you made cushions ?
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah menceritakan kepada kami [Sufyan] dari [Ibnul Munkadir] dari [Jabir] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku, "Apakah kalian memakai permadani? ' Aku menjawab, "bagaimana boleh kami memakai permadani?" beliau bersabda: "Sesungguhnya ia baik untuk kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5161) Sahih Muslim (2083)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4145</td></tr><tr><td>Arabic No</td><td>4145</td></tr><tr><td>Reference</td><td>Book 34 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ сказал мне: “Вы уже стали использовать покрывала для постелей /намат/?” Я спросил: “Откуда же они у нас?” Посланник Аллаха ﷺ сказал: “Скоро у вас будут покрывала для постелей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5161) Sahih Muslim (2083)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4145</td></tr><tr><td>Arabic No</td><td>4145</td></tr><tr><td>Reference</td><td>Book 34 Hadith 126</td></tr></tbody></table></div>
 

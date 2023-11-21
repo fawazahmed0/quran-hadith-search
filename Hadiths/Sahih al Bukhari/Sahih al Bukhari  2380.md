@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:The Prophet (ﷺ) permitted selling the dates of the 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Yahya bin Sa'id] dari [Nafi'] dari [Ibnu 'Umar] dari [Zaid bin Tsabit radliallahu 'anhum] berkata, bahwa Rasulullah shallallahu 'alaihi wasallam memberi kelonggaran bagi pemilik 'Ariyyah untuk menjual buahnya dengan taksiran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2380</td></tr><tr><td>Arabic No</td><td>2380</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Зейд ибн Сабита, да будет доволен им Аллах, что Пророк ﷺ разрешил обменивать несобранный урожай свежих фиников на сухие в количестве, соответствующем урожаю сухих фиников (‘арайа)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2380</td></tr><tr><td>Arabic No</td><td>2380</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
 

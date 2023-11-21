@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Busr reported:Allah's Messenger (ﷺ) came to my father and we broug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna Al 'Anazi], Telah menceritakan kepada kami [Muhammad bin Ja'far], Telah menceritakan kepada kami [Syu'bah] dari [Yazid bin Khumair] dari [Abdullah bin Busr] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bertamu di rumah bapakku, lalu kami hidangkan makanan dan Watbah (sejenis makanan yang terbuat dari campuran susu, kurma dan keju) kepadanya, dan beliaupun memakannya. kemudian dihidangkan kurma kepadanya, lalu beliau membuang biji (korma) dengan kedua jarinya, seraya menggabungkan antara jari telunjuk dan jari tengah. -Syu'bah berkata; 'Itulah menurut perkiraanku Insya Allah, yaitu beliau membuang bijinya di antara kedua jarinya.'- Kemudian dihidangkan air minum, beliau pun meminumnya, lalu memberikan minuman tersebut kepada orang yang ada di sebelah kanannya." Abdullah bin Busr berkata; Bapakku berkata seraya memegang kendali hewan tunggangannya; 'Do'akanlah kami! ' beliau berdoa: 'Ya Allah! Berilah keberkahan kepada mereka terhadap apa yang telah Engkau rizqikan kepada mereka serta ampuni dan kasihilah mereka'. Dan telah menceritakan kepada kami [Muhammad bin Basyar], Telah menceritakan kepada kami [Ibnu Abu 'Adi], demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakannya pula kepada kami [Muhammad bin Al Mutsanna], Telah menceritakan kepada kami [Yahya bin Hammad] keduanya dari [Syu'bah] dengan sanad ini. Keduanya tidak meragukan mengenai beliau membuang bijinya di antara kedua jari beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>2042.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5328</td></tr><tr><td>Arabic No</td><td>2042.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 202</td></tr></tbody></table></div>
 

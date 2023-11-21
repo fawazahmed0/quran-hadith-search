@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "There is healing i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Abu Salamah] dan [Sa'id bin Musayyib] bahwa [Abu Hurairah] telah mengabarkan kepada keduanya, bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Dalam habbatus sauda' (jintan hitam) terdapat obat dari segala penyakit kecuali kematian." Ibnu Syihab berkata; "Maksud dari kematian adalah maut sedangkan habbatus sauda' adalah pohon syuniz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5688</td></tr><tr><td>Arabic No</td><td>5688</td></tr><tr><td>Reference</td><td>Book 76 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что он слышал, как Посланник Аллаха ﷺ говорил: «В чёрном тмине излечение от любой болезни, кроме “самма”».\nИбн Шихаб (аз-Зухри) сказал: «“ас-Самм” — это смерть, а чёрный тмин — это чернушка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5688</td></tr><tr><td>Arabic No</td><td>5688</td></tr><tr><td>Reference</td><td>Book 76 Hadith 11</td></tr></tbody></table></div>
 

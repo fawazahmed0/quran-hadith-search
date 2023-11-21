@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying :
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap bayi dilahirkan dalam keadaan fitrah, maka kedua orang tuannya-lah yang menjadikan ia yahudi atau nashrani. Sebagaimana unta melahirkan anaknya yang sehat, apakah kamu melihatnya memiliki aib?" Para sahabat bertanya, "Wahai Rasulullah, bagaimana dengan orang yang meninggal saat masih kecil?" Beliau menjawab: "Allah lebih tahu dengan yang mereka lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2659)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4714</td></tr><tr><td>Arabic No</td><td>4714</td></tr><tr><td>Reference</td><td>Book 42 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Каждый человек рождается в своём естественном состоянии /фитра/, а уже потом родители делают из него иудея или христианина, подобно тому, как верблюды появляются на свет целыми. Видел ли ты среди них верблюда, (родившегося) с отрезанной конечностью?» Люди спросили: «О Посланник Аллаха, а что ты скажешь о том, кто умер в детском возрасте?» Он сказал: «Аллах знает о том, что они делали бы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2659)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4714</td></tr><tr><td>Arabic No</td><td>4714</td></tr><tr><td>Reference</td><td>Book 42 Hadith 119</td></tr></tbody></table></div>
 

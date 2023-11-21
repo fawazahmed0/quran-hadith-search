@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:Allah's Messenger (ﷺ) said: When a bondsman-a Muslim or a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suwaid bin Sa'id] dari [Malik bin Anas]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu ath-Thahir] dan lafazh tersebut miliknya, telah mengabarkan kepada kami [Abdullah bin Wahab] dari [Malik bin Anas] dari [Suhail bin Abu Shalih] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seorang muslim atau mukmin berwudlu, lalu membasuh wajahnya, maka keluar dari wajahnya segala kesalahan yang dia lihat dengan kedua matanya bersama turunnya air wudlu, atau bersama akhir dari tetesan air. Apabila dia membasuh kedua tangannya, maka keluar dari kedua tangannya semua kesalahan yang dilakukan oleh kedua tangannya bersama dengan turunnya air, atau akhir dari tetesan air hingga dia keluar dalam keadaan bersih dari dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>577</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 2 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал:«Посланник Аллаха ﷺ сказал: “Когда раб (Аллаха), исповедующий ислам (или: верующий раб), совершает омовение и омывает лицо, с лица его вместе с водой (или: вместе с последней каплей воды) сходит всё греховное, на что он смотрел своими глазами; когда он омывает руки, вместе с водой (или: вместе с последней каплей воды) с рук его сходит всё греховное, что он ими брал, а когда он омывает ноги, вместе с водой (или: вместе с последней каплей воды) с ног его сходит всё греховное, к чему они направлялись, (и так продолжается до тех пор), пока не выходит он свободным от грехов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>577</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 2 Hadith 44</td></tr></tbody></table></div>
 

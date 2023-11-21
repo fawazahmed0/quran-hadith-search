@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: The Messenger of Allah (ﷺ) said to me: O AbuDharr. I replie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Abu Imran Al Jauni] dari [Musya'ats bin Tharif] dari [Abdullah bin Ash Shamit] dari [Abu Dzar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abu Dzar!" Aku menjawab, "Wahai Rasulullah, aku penuhi panggilanmu dan kebahagiaan semoga bersamamu, " -lalu ia menyebutkan hadits secara lengkap-. Dalam hadits tersebut beliau bertanya: "Apa yang akan kamu lakukan jika datang kematian kepada manusia, kemudian rumahnya pindah ke kuburan?" Aku menjawab, "Allah dan Rasul-Nya lebih tahu." Atau ia menyebutkan, "(Aku akan melakukan) apa yang Allah dan Rasul-Nya kehendaki (pilih)." Beliau bersabda: "Hendaklah engkau sabar, atau beliau mengatakan: "Bersabarlah." Kemudian beliau berkata lagi kepadaku: "Wahai Abu Dzar!" aku menjawab, "Aku penuhi panggilanmu dan kebahagiaan semoga bersamamu, "Apa pendapatmu jika Ahjar Az Zait (nama suatu tempat di Madinah) berlumuran darah?" Aku menjawab, "(Aku akan melakukan) apa yang Allah dan Rasul-Nya kehendaki untukku." Beliau bersabda: "Hendaklah engkau bergabung bersama orang terdekatmu (keluarga, atau Imam yang kamu berbaiat kepadanya)." Aku bertanya, "Wahai Rasulullah, apa tidak lebih baik jika aku ambil pedangku, lalu aku letakkan di atas pundakku?" beliau menjawab: "Kalau begitu kamu telah ikut serta bersama orang-orang (dalam dosa)." Aku lalu bertanya lagi, "Lantas apa yang engkau perintahkan untukku?" beliau menjawab: "Berdiamlah engkau dirumahmu." Aku terus bertanya, "Bagaimana jika ada seseorang yang masuk ke dalam rumahku!" beliau menjawab: "Jika engkau merasa takut dengan kilauan pedang musuh, maka letakkanlah kain baju di mukamu (pasrah), maka ia akan menanggung dosamu dan dosanya sendiri." Abu Dawud berkata, "Al Musya'ats dalam hadits ini tidak menyebutkan selain Hammad bin Zaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр (аль-Гифари), да будет доволен им Аллах, передаёт: «Однажды Посланник Аллаха ﷺ сказал: “О Абу Зарр!” Я ответил: “Вот я перед тобой, о Посланник Аллаха, слушаюсь и повинуюсь”. Посланник Аллаха ﷺ сказал: “Что будешь делать ты, когда обрушится на людей смерть и могила будет стоить столько же, сколько стоит раб?” Я ответил: “Аллах и Его Посланник знают об этом лучше (или: да будет то, что избрал для меня Аллах и Его Посланник)”. (Посланник Аллаха ﷺ) сказал: “Ты должен будешь проявить терпение (или: терпеть)”. Затем он сказал мне: “О Абу Зарр!” Я ответил: “Вот я перед тобой, о Посланник Аллаха, слушаюсь и повинуюсь”. Он сказал: “Что будешь делать ты, когда увидишь камни аз-Зейта утонувшими в крови?” Я ответил: “Да будет то, что избрал для меня Аллах и Его Посланник”. Посланник Аллаха ﷺ сказал: “Оставайся с людьми, к которым ты принадлежишь”. Я спросил: “О Посланник Аллаха, а почему бы мне не взять свой меч и не возложить его на плечо (чтобы сражаться с этими людьми)?” Он сказал: “Тогда ты станешь их соучастником (в грехе)”. Я спросил: “Что же ты велишь мне делать?” (Посланник Аллаха ﷺ) сказал: “Держись дома своего”. Я спросил: “А если в мой дом ворвутся?” Он сказал: “Если боишься, что ослепит тебя блеск меча, то прикрой лицо одеждой, (чтобы тебя не обуял страх, покорись и не сражайся), и тот человек возьмёт на себя и твой грех, и свой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
 

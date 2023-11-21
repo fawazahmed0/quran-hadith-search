@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported:Allah's Messenger, (ﷺ) entered
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Yahya Al Qaththan] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abu Usamah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Numair] -lafazh miliknya- Telah menceritakan kepada kami [Abdah] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam memasuki Baitullah bersama Usamah, Bilal, dan Utsman bin Thalhah. Lalu mereka menutup pintu agak lama, dan membukanya kembali. Dan akulah yang pertama kali masuk dan langsung menemui Bilal. Aku tanyakan padanya, "Di manakah Rasulullah shallallahu 'alaihi wasallam shalat?" [Bilal] menjawab, "Diantara dua tiang bagian depan." Dan aku lupa untuk menanyakan padanya, Rasulullah shallallahu 'alaihi wasallam shalat berapa raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3233</td></tr><tr><td>Arabic No</td><td>1329.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 437</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3233</td></tr><tr><td>Arabic No</td><td>1329.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 437</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Adi b. Hatim:I asked the Messenger of Allah. I said: We hunt with thes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari], telah menceritakan kepada kami [Ibnu Fudhail] dari [Bayan] dari ['Amir] dari [Adi bin Hatim], ia berkata; aku bertanya kepada Nabi shallallahu 'alaihi wasallam, aku katakan; sesungguhnya kami berburu dengan anjing- anjing ini. Kemudian beliau berkata kepadaku: "Apabila engkau melepas anjingmu yang terlatih dan engkau sebut nama Allah, maka makanlah apa yang mereka tangkap untukmu! Walaupun anjing-anjing tersebut telah membunuh buruan, kecuali apabila ada anjing (lain) yang makan. Apabila ada anjing (lain) yang makan maka jangan engkau makan, karena sesungguhnya aku khawatir anjing tersebut menangkap untuk dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5484) Sahih Muslim (1929)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2848</td></tr><tr><td>Arabic No</td><td>2848</td></tr><tr><td>Reference</td><td>Book 17 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ади ибн Хатима, да будет доволен им Аллах: «Я сказал Пророку ﷺ: “Поистине, я охочусь с помощью этих собак”. Он сказал мне: “Если ты посылаешь своих обученных собак за дичью, поминая над ними имя Аллаха, то ты можешь есть мясо дичи, которую они схватят для тебя, даже если при этом они убьют её, за исключением того случая, когда собака съела что-то из этой дичи. Если же собака ела, то не ешь, потому что я опасаюсь, что собака могла схватить эту дичь для себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5484) Sahih Muslim (1929)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2848</td></tr><tr><td>Arabic No</td><td>2848</td></tr><tr><td>Reference</td><td>Book 17 Hadith 5</td></tr></tbody></table></div>
 

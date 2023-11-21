@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa se rendit chez 'Omar Ibn Al-Khattâb et s'écria : "Que la paix soit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin Huraits Abu 'Ammar]; Telah menceritakan kepada kami [Al Fadhl bin Musa]; Telah mengabarkan kepada kami [Thalhah bin Yahya] dari [Abu Burdah] dari [Abu Musa Al Asy'ari] dia berkata; Abu datang menemui 'Umar bin Khaththab. Lalu dia memberi salam, "Assalamu'alaikum, saya 'Abdullah bin Qais (nama Abu Musa)." Tetapi tidak ada yang menjawab salamnya. Kemudian diulangnya memberi salam sampai tiga kali, tetapi tetap tidak ada yang menyahut. Karena itu dia pulang saja kembali. Kata 'Umar sesudah itu; "panggil, panggil dia ke mari." Setelah Abu Musa datang, 'Umar berkata, "Wahai Abu Musa, kenapa anda pulang? Engkau kan maklum, bahwa kami sedang sibuk." Kata Abu Musa; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Minta izin (memberi salam) hanya tiga kali. Jika diizinkan silakan masuk. Jika tidak, maka kembalilah." Kata 'Umar; "Engkau harus mandatangkan saksi ke hadapanku mengenai hadits itu. Jika tidak, aku akan menghukum kamu." Lalu pergilah Abu Musa. Kata 'Umar, "Jika dia mendapatkan saksi, kalian akan menemuinya sore nanti dekat mimbar. Jika tidak, kalian tidak akan menemuinya." Tatkala hari telah petang, mereka mendatangi 'Umar, kata 'Umar; "Bagaimana, hai Abu Musa? Apakah kamu sudah mendapatkan saksi?" kata Abu Musa, "Sudah! Yaitu Ubay bin Ka'ab!" kata 'Umar; "Boleh! Dia adalah saksi yang adil. Hai, Abu Thufail! Bagaimana pendapatmu (kesaksianmu) mengenai masalah ini?". Jawab [Ubay bin Ka'ab]; "Memang, aku telah mendengar pula Rasulullah shallallahu 'alaihi wasallam bersabda seperti yang dikatakan Abu Musa. Karena itu janganlah Anda sekali-kali menjatuhkan hukuman terhadap para sahabat Rasulullah!" jawab 'Umar; "Subhanallah! Sesungguhnya jika aku mendengar sesuatu yang baru, aku lebih suka menyelidiki kebenarannya." Dan telah menceritakannya kepada kami ['Abdullah bin 'Umar bin Muhammad bin Aban]; Telah menceritakan kepada kami ['Ali bin Hasyim] dari [Thalhah bin Yahya] melalui jalur ini. Namun dia berkata di dalam Haditsnya; 'Wahai Abu Mundzir, apakah kamu mendengar Hadits ini dari Rasulullah shallallahu 'alaihi wasallam? Dia menjawab; 'Ya.' Oleh karena itu anda wahai Ibnu Khattab jangan menjatuhkan hukuman pada para sahabat Rasulullah shallallahu 'alaihi wasallam.' (dia tidak menyebutkan perkataan Umar; 'Subhaanallah dan seterusnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5633</td></tr><tr><td>Arabic No</td><td>2154.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5633</td></tr><tr><td>Arabic No</td><td>2154.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 48</td></tr></tbody></table></div>
 

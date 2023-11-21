@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "Abusing a Muslim is Fusuq (i.e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dia berkata; saya mendengar [Abu Wa'il] bercerita dari [Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Mencela orang muslim adalah kefasikan dan membunuhnya adalah kekufuran." Hal ini diperkuat juga oleh riwayat [Ghundar] dari [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6044</td></tr><tr><td>Arabic No</td><td>6044</td></tr><tr><td>Reference</td><td>Book 78 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Поношение мусульманина (свидетельствует о) нечестии, а сражение с ним является (проявлением) неверия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6044</td></tr><tr><td>Arabic No</td><td>6044</td></tr><tr><td>Reference</td><td>Book 78 Hadith 74</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A similar tradition has also been transmitted by Ibn 'Abbas though a different c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutawakkil Al 'Asqalani], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam tidak menshalatkan seseorang yang meninggal dalam keadaan menanggung hutang. Kemudian beliau dihadapkan kepada seorang yang telah meninggal, lalu beliau bertanya: "Apakah ia memiliki tanggungan hutang?" Mereka berkata; Iya, dua dinar. Beliau berkata: "Shalatkan sahabat kalian!" kemudian Abu Qatadah Al Anshari berkata; keduanya menjadi tanggunganku wahai Rasulullah! Jabir berkata; kemudian Rasulullah shallallahu 'alaihi wasallam menshalatkannya. Kemudian tatkala Allah memberikan kemenangan kepada Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Aku adalah lebih utama (lebih berhak) terhadap orang mukmin daripada dirinya sendiri. Barangsiapa yang meninggalkan hutang maka menjadi tanggunganku, dan barangsiapa yang meninggalkan harta maka untuk pewarisnya." Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], dan [Qutaibah bin Sa'id], dari [Syarik] dari [Simak], dari [Ikrimah] dan ia memarfu'kannya. [Utsman] berkata; dan telah menceritakan kepada kami [Waki'] dari [Syarik], dari [Simak], dari [Ikrimah], dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam seperti itu. Ia berkata; ia membeli sapi yang berumur satu tahun dari sebuah kafilah, sementara ia tidak memiliki uang untuk membayarnya. Kemudian ia mendapat keuntungan dan ia pun menjualnya. Lalu ia mensedekahkan keuntungan tersebut kepada para janda Bani Abdul Muththalib. Ia berkata; setelah itu tidaklah aku membeli sesuatu, melainkan aku memiliki uang untuk harganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3344</td></tr><tr><td>Arabic No</td><td>3344</td></tr><tr><td>Reference</td><td>Book 23 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт от Пророка ﷺ похожий хадис. Он сказал, что он купил у каравана телёнка (или: товар), а у него не было денег, чтобы заплатить за него. Потом он получил прибыль, продав его, а полученную прибыль отдал в качестве милостыни нуждающимся бану ‘абдульмутталиб и сказал: «После этого раза я не стану покупать ничего, когда у меня нет его стоимости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3344</td></tr><tr><td>Arabic No</td><td>3344</td></tr><tr><td>Reference</td><td>Book 23 Hadith 19</td></tr></tbody></table></div>
 

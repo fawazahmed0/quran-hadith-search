@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Once I went upstairs in Hafsa's house and saw the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Al Mundzir] telah bercerita kepada kami [Anas bin 'Iyadl] dari ['Ubaidullah] dari [Muhammad bin Yahya bin Habban] dari [Wasi' bin Habban] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; "Aku memanjat ke atas rumah Hafshah maka aku lihat Nabi Shallallahu'alaihiwasallam sedang membuang hajat dengan membelakangi qiblat dan menghadap ke arah negeri Syam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3102</td></tr><tr><td>Arabic No</td><td>3102</td></tr><tr><td>Reference</td><td>Book 57 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом сказал: «(Однажды) я поднялся на крышу дома Хафсы и увидел, как Пророк ﷺ справлял нужду, повернувшись спиной в сторону киблы и лицом в сторону Шама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3102</td></tr><tr><td>Arabic No</td><td>3102</td></tr><tr><td>Reference</td><td>Book 57 Hadith 11</td></tr></tbody></table></div>
 

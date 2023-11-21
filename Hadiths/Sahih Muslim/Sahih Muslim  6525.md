@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that a person said:Allah's Messenger, I have relatives with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dia berkata; Aku mendengar [Al A'laa bin 'Abdur Rahman] bercerita dari [Bapaknya] dari [Abu Hurairah] bahwasanya seorang laki-laki pernah berkata; "Ya Rasulullah, saya mempunyai kerabat. Saya selalu berupaya untuk menyambung silaturahim kepada mereka, tetapi mereka memutuskannya. Saya selalu berupaya untuk berbuat baik kepada mereka, tetapi mereka menyakiti saya. Saya selalu berupaya untuk lemah lembut terhadap mereka, tetapi mereka tak acuh kepada saya." Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Jika benar seperti apa yang kamu katakan, maka kamu seperti memberi makan mereka debu yang panas, dan selama kamu berbuat demikian maka pertolongan Allah akan selalu bersamamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6525</td></tr><tr><td>Arabic No</td><td>2558.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6525</td></tr><tr><td>Arabic No</td><td>2558.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 25</td></tr></tbody></table></div>
 

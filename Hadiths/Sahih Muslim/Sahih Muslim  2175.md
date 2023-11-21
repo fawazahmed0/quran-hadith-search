@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya reported that when the Messenger of Allah (ﷺ) asked her to wash hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Khalid] dari [Hafshah binti Sirin] dari [Ummu 'Athiyyah] bahwa ketika Rasulullah shallallahu 'alaihi wasallam memerintahkannya untuk memandikan jenazah putrinya, beliau bersabda: "Mandikanlah mulai dari sebelah kanannya dan (dahulukan) anggota wudlunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2175</td></tr><tr><td>Arabic No</td><td>939.08</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Умм ‘Атыййи, что, когда Посланник Аллаха ﷺ велел ей обмыть (тело) его (покойной) дочери, он сказал ей: «Начинайте (обмывать тело) с правой стороны и с тех его частей, которые необходимо омывать при омовении /вуду/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2175</td></tr><tr><td>Arabic No</td><td>939.08</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
 

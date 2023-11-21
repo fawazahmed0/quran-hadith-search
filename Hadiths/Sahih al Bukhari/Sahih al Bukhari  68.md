@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:The Prophet (ﷺ) used to take care of us in preaching by se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wa'il] dari [Ibnu Mas'ud] berkata; bahwa Nabi shallallahu 'alaihi wasallam memperingatkan kami dengan suatu pelajaran tentang hari-hari yang sulit yang akan kami hadapi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 3 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «Пророк ﷺ проявлял о нас заботу и обращался к нам с увещеваниями (лишь в отдельные) дни, не желая, чтобы (его слова) вызывали в нас скуку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 3 Hadith 10</td></tr></tbody></table></div>
 

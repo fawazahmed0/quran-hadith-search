@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Abi Talib:That one night Allah's Messenger (ﷺ) visited him a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Azzuhri]. (dalam jalur lain disebutkan) telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku saudaraku [Abdul Hamid] dari [Sulaiman] dari [Muhammad bin 'Atiq] dari [Ibn Syihab] dari [Ali bin Husain], bahwa [Husain bin Ali] 'alaihimassalam mengabarkan kepadanya, bahwa [Ali bin Abu Thalib] mengabarkan kepadanya, bahwa Rasulullah Shallallahu'alihiwasallam mendatangi Ali dan Fatimah di malam hari, lantas beliau berkata: "Tidakkah kalian mendirikan shalat?" Namun Ali menjawab, "Wahai Rasulullah, sesungguhnya nyawa kita berada di tangan Allah, jika Dia berkenan, maka Dia akan membangunkan kita." Secara spontan Rasulullah Shallhu'laihiwasallam pergi begitu aku menjawab yang demikian, dan beliau sama sekali tidak kembali, kemudian aku mendengar ketika beliau berbalik ke belakang bersabda sambil menepuk pahanya: "Sungguh manusia itu adalah makhluk yang suka sekali membantah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7465</td></tr><tr><td>Arabic No</td><td>7465</td></tr><tr><td>Reference</td><td>Book 97 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хусейн Ибн ‘Али рассказал, что ‘Али ибн Абу Талиб, да будет доволен им Аллах, сообщил ему, что однажды ночью Посланник Аллаха ﷺ пришёл к нему и Фатиме дочери Посланника Аллаха ﷺ и сказал им: «Разве вы не совершаете молитву?» И ‘Али сказал: «“О Посланник Аллаха, души наши в руках Аллаха, и если Он пожелает разбудить нас, то разбудит”. После того как я сказал это, Посланник Аллаха ﷺ ушёл, не промолвив в ответ ни слова, а потом я услышал, как, удаляясь и хлопая себя рукой по бедру, он говорил: “…но человек больше всего склонен спорить” (Сура «аль-Кяхф», аят 54)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7465</td></tr><tr><td>Arabic No</td><td>7465</td></tr><tr><td>Reference</td><td>Book 97 Hadith 91</td></tr></tbody></table></div>
 

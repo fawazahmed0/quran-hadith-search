@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaynab, daughter of Ka'b ibn Ujrah narrated that Furay'ah daughter of Malik ibn 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik] dari [Sa'd bin Ishaq bin Ka'bin bin 'Ajrah] dari [bibinya yaitu Zainab binti Ka'bin bin 'Ajrah] bahwa [Al Furai'ah binti Malik bin Sinan] yang merupakan saudari Abu Sa'id Al Kudri telah mengabarkan kepadanya bahwa ia datang kepada Rasulullah shallallahu 'alaihi wasallam meminta izin kepada beliau untuk kembali kepada keluarganya di antara Bani Khudrah, karena suaminya keluar mencari beberapa budaknya yang melarikan diri hingga setelah mereka berada di Tharaf Al Qadum ia bertemu dengan mereka lalu mereka membunuhnya. Aku meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk kembali kepada keluargaku, karena ia tidak meninggalkanku ada dalam tempat tinggal yang ia miliki dan tidak memberikan nafkah. Ia berkata; kemudian aku keluar hingga setelah sampai di sebuah ruangan atau di masjid, beliau memanggilku dan memerintahkan agar aku datang. Kemudian aku beliau berkata: "Apa yang engkau katakan?" kemudian aku kembali menyebutkan kisah yang telah saya sebutkan, mengenai keadaan suamiku. Ia berkata; lalu beliau berkata: "Tinggallah di rumahmu hingga selesai masa 'iddahmu." Ia berkata; kemudian aku ber'iddah di tempat tersebut selama empat puluh bulan sepuluh hari. Ia berkata; kemudian tatkala Utsman mengirimkan surat kepadaku, ia bertanya mengenai hal tersebut, lalu aku khabarkan kepadanya, lalu ia mengikutinya dan memberikan keputusan dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2300</td></tr><tr><td>Arabic No</td><td>2300</td></tr><tr><td>Reference</td><td>Book 13 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Фурай‘а бинт Малик ибн Синан, сестра Абу Са‘ида аль-Худри, да будет доволен Аллах ими обоими, передаёт, что однажды она пришла к Посланнику Аллаха ﷺ чтобы попросить у него разрешения вернуться в дом своей семьи в квартале бану худра, потому что её муж отправился в погоню за беглыми рабами и, когда он нагнал их возле аль-Кадума, они убили его. Она попросила Посланника Аллаха ﷺ: «Позволь мне переехать к моей семье, потому что он оставил меня в доме, который не принадлежал ему, и не оставил мне средств к существованию». Посланник Аллаха ﷺ сказал: «Хорошо». Она сказала: «Я вышла, и, когда я была в комнате или в мечети, он позвал меня или велел мне прийти к нему. Я пришла к нему, и Посланник Аллаха ﷺ сказал: “Как ты сказала?” Я повторила ему историю своего мужа, и он сказал: “Оставайся в своём доме (, в которой ты жила с мужем до его гибели), пока не истечёт предписанный срок”, и я соблюдала там ‘идду четыре месяца и десять дней. А во времена ‘Усмана ибн ‘Аффана он послал ко мне человека, чтобы спросить об этом. Я рассказала ему, как всё было, и он стал выносить в подобных случаях такое решение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2300</td></tr><tr><td>Arabic No</td><td>2300</td></tr><tr><td>Reference</td><td>Book 13 Hadith 126</td></tr></tbody></table></div>
 

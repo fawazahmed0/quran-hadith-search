@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:A person asked me, "Can a woman in menses serve me? And can a Jun
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] telah mengabarkan kepada mereka, ia berkata; telah mengabarkan kepadaku [Hisyam bin 'Urwah] dari ['Urwah], bahwa dia ditanya, "Apakah wanita yang sedang haid boleh melayani aku, atau berdekatan denganku sedangkan dia junub?" 'Urwah lalu menjawab, "Bagiku semua itu mudah, dan setiap dari mereka boleh untuk membantuku, dan seseorang tidak berdosa karena hal itu. ['Aisyah] pernah mengabarkan kepadaku bahwa ia pernah menyisir rambut kepala Nabi shallallahu 'alaihi wasallam dalam keadaan haid. Saat itu Rasulullah shallallahu 'alaihi wasallam berada di sisi masjid, beliau mendekatkan kepalanya kepada Aisyah yang berada di dalam kamar dan dalam keadaan haid untuk menyisir rambut kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>296</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 6 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урву (ибн аз-Зубайра) спросили: «Может ли женщина в период месячных, ухаживать за мной? Может ли женщина приблизиться ко мне в состоянии полового осквернения?» ‘Урва ответил: «Все это для меня не представляет затруднений и каждая из них обслуживает меня и ни для кого в этом ничего плохого. ‘Аиша сообщила мне о том, что (как и) обычно она причесывала, имея в виду голову Посланника Аллаха ﷺ когда у неё были месячные, а Посланник Аллаха ﷺ) в это время находился в мечети. Он просовывал к ней свою голову, когда она находилась в своей комнате, и она причёсывала его, когда у неё были месячные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>296</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 6 Hadith 3</td></tr></tbody></table></div>
 

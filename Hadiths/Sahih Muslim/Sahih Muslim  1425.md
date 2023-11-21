@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali reported:The Messenger of Allah (ﷺ) said on the day (of the Battle) of Ahz
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Abu Kuraib] mereka berkata; telah menceritakan kepada kami [Abu Muawiyah] dari [Al A'masy] dari [Muslim bin Shubaih] dari [Syutair bin Syakal] dari [Ali] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda pada perang Ahzab; "Pasukan musuh benar-benar telah menyibukkan kita dari shalat wustha (ashar), semoga Allah memenuhi rumah dan kuburan mereka dengan api." Kemudian Rasulullah shallallahu 'alaihi wasallam melakukan dua shalat malam, yaitu maghrib dan isya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1425</td></tr><tr><td>Arabic No</td><td>627.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Али, что Посланник Аллаха ﷺ сказал в День (нашествия союзных) племён: «Они отвлекли нас от совершения средней молитвы послеполуденной молитвы /‘аср/! Да наполнит Аллах их дома и могилы огнём!» Затем он совершил её между закатной /магриб/ и вечерней /‘иша/ молитвой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1425</td></tr><tr><td>Arabic No</td><td>627.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 259</td></tr></tbody></table></div>
 

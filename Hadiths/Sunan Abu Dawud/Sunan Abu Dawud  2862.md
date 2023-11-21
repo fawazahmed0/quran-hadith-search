@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abdullah bin 'Umar:The Messenger of Allah (ﷺ) as saying: It is the d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Masarhad], telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah], telah menceritakan kepadaku [Nafi'] dari [Abdullah bin Umar] dari Rasulullah shallallahu 'alaihi wasallam, beliau berkata: "Tidaklah hak seorang muslim yang memiliki sesuatu yang diwasiatkan untuk bermalam selama dua malam melainkan wasiatnya telah tertulis di sisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2738) Sahih Muslim (1627)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2862</td></tr><tr><td>Arabic No</td><td>2862</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Не пристало мусульманину, который владеет тем, что можно завещать, проводить даже две ночи, не имея записанного завещания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2738) Sahih Muslim (1627)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2862</td></tr><tr><td>Arabic No</td><td>2862</td></tr><tr><td>Reference</td><td>Book 18 Hadith 1</td></tr></tbody></table></div>
 

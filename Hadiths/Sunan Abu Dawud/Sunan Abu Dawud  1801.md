@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Saburah: Ar-Rabi' ibn Saburah said on the authority of his father (Sabu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ар-Раби‘ ибн Сабра передаёт от своего отца: «Мы отправились в путь вместе с посланником Аллаха ﷺ и, когда мы были в ‘Усфане, Сурака ибн Малик аль-Мудлиджи сказал ему: “О Посланник Аллаха, разъясни нам всё так, будто мы родились сегодня”. Посланник Аллаха ﷺ сказал: “Поистине, Всевышний Аллах ввёл в ваш хадж ‘умру. После прибытия тот, кто совершил обход вокруг Каабы и пробег между холмами Сафа и Марва, должен выйти из состояния ихрама, за исключением тех, кто гонит жертвенный скот”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
 

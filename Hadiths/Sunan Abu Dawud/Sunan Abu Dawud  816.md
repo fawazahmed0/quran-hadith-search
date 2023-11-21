@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Abdullah al-Juhani: A man of Juhaynah told him that he had h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku ['Amru] dari [Ibnu Abu Hilal] dari [Mu'adz bin Abdullah Al Juhani] bahwa [seseorang laki-laki dari Juhainah] memberitahukan kepadanya bahwa dirinya telah mendengar Nabi shallallahu 'alaihi wasallam membaca dalam shalat subuh "IDZA ZULZILATIL-ARDHU ZILZALAHA" di kedua rakaatnya, aku tidak tahu apakah Rasulullah shallallahu 'alaihi wasallam lupa ataukah beliau memang sengaja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>816</td></tr><tr><td>Arabic No</td><td>816</td></tr><tr><td>Reference</td><td>Book 2 Hadith 426</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Му‘аз ибн ‘Абдуллах аль-Джухани передаёт со слов одного человека из племени Джухайна, что он слышал, как Пророк ﷺ читал во время утренней молитвы «Когда земля содрогнётся от сотрясений…» в обоих рак‘атах, причём он не знал, сделал это Посланник Аллаха ﷺ по забывчивости или намеренно
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>816</td></tr><tr><td>Arabic No</td><td>816</td></tr><tr><td>Reference</td><td>Book 2 Hadith 426</td></tr></tbody></table></div>
 

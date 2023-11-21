@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. al-Musayyab reported that 'Ali and 'Uthman (Allah be pleased with them)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] dari [Sa'id bin Al Musayyab] ia berkata; Pada suatu ketika [Ali] dan [Utsman radliallahu 'anhuma] bertemu di 'Usfan. Utsman melarang melakukan haji tamattu' atau umrah. Kata Ali, "Apa maksud Anda melarang orang mengerjakan ibadah yang pernah diperbuat oleh Rasulullah shallallahu 'alaihi wasallam?" Utsman menjawab, "Biarkan kami dengan urusan kami!" Ali berkata, "Aku tidak dapat membiarkan Anda begitu saja." Setelah Ali melihat yang demikian, lalu ia ihram untuk keduanya (haji dan umrah) sekaligus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2964</td></tr><tr><td>Arabic No</td><td>1223.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2964</td></tr><tr><td>Arabic No</td><td>1223.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 173</td></tr></tbody></table></div>
 

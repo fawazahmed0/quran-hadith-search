@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : Les juifs des Banû An-Nadîr et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Ishaq bin Manshur], [Ibnu Rafi'] berkata; telah menceritakan kepada kami, sedangkan [Ishaq] berkata; telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ibnu Juraij] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar], bahwa kaum Yahudi Bani Nadlir dan Bani Quraidzah hendak memerangi Rasulullah shallallahu 'alaihi wasallam. Maka beliaupun mengusir Bani Nadlir dan membiarkan Bani Quraidzah (tetap berada di Madinah-pent) sampai akhirnya mereka memerangi Rasulullah shallallahu 'alaihi wasallam setelah itu. Maka Rasulullah shallallahu 'alaihi wasallam pun membunuh para kaum lelaki dari mereka, lalu para wanita, anak-anak, dan harta benda mereka beliau bagikan kepada kaum muslimin. Namun sebagian mereka ada yang menemui Rasulullah shallallahu 'alaihi wasallam untuk meminta jaminan keamanan dan masuk Islam. Dan Rasulullah shallallahu 'alaihi wasallam mengeluarkan seluruh kaum Yahudi yang ada di Madinah, baik itu Bani Qainuqa', para pengikut Abdullah bin Salam, Bani Haritsah, dan semua kaum Yahudi yang ada di Madinah tanpa terkecuali." Dan telah menceritakan kepadaku [Abu At Thahir] telah menceritakan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Hafsh bin Maisarah] dari [Musa] dengan sanad yang sama seperti ini. Hadits ini dan juga hadits Ibnu Juraij lebih banyak dan lebih lengkap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4592</td></tr><tr><td>Arabic No</td><td>1766.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4592</td></tr><tr><td>Arabic No</td><td>1766.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 73</td></tr></tbody></table></div>
 

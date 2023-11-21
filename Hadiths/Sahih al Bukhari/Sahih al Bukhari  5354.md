@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:The Prophet (ﷺ) visited me at Mecca while I was ill. I said (to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] dari [Sa'd bin Ibrahim] dari [Amir bin Sa'd] dari [Sa'd] radliallahu 'anhu ia berkata; Nabi shallallahu 'alaihi wasallam pernah mengunjungiku ketika aku jatuh sakit di Makkah. Kukatakan pada beliau, "Sesungguhnya aku memiliki harta. Haruskah aku mewasiatkan seluruhnya?" beliau menjawab: "Tidak." Aku bertanya lagi, "Ataukah setengah darinya?" beliau menjawab: "Tidak." Aku bertanya lagi, "Ataukah sepertiga darinya?" beliau menjawab: "Ya, sepertiga. Namun sepertiga adalah sesuatu yang banyak. Lebih baik bila kamu meninggalkan ahli warismu dalam keadaan berkecukupan daripada kamu meninggalkan mereka dalam keadaan miskin dan mengharap-harap apa yang ada di tangan manusia. Dan seagala yang kamu infakkan, maka hal itu adalah sedekah bagimu, bahkan termasuk sesuap makanan yang kamu suapkan pada bibir isterimu. Dan semoga Allah mengangkat derajatmu sehingga banyak orang mengambil manfaat darimu dan yang lain mendapat madharrat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5354</td></tr><tr><td>Arabic No</td><td>5354</td></tr><tr><td>Reference</td><td>Book 69 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д, да будет доволен им Аллах, сказал: «Когда я заболел, будучи в Мекке, Пророк ﷺ пришёл, чтобы навестить меня. Я сказал: “У меня есть имущество, завещать ли мне всё моё имущество (бедным)?”. Он ответил: “Нет”. Я спросил: “Тогда половину?” Он ответил: “Нет”. Я спросил: “Тогда треть?” Он ответил: “Треть, но и трети будет много, ведь тебе лучше оставить своих наследников богатыми, чем лишёнными средств и (вынужденными) просить у людей! И, что бы ты ни расходовал, будет считаться милостыней, и даже кусочек, который ты положишь в рот своей жене. Возможно Аллах возвысит тебя, чтобы благодаря тебе одни люди получат пользу, а другим будет нанесён вред”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5354</td></tr><tr><td>Arabic No</td><td>5354</td></tr><tr><td>Reference</td><td>Book 69 Hadith 4</td></tr></tbody></table></div>
 

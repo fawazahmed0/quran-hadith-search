@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn Ka'b through another chain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Bisyr bin Ar Sari] dan [Abdurrahman bin Mahdi] keduanya berkata: telah menceritakan kepada kami [Sufyan] dari [Sa'id bin Ibrahim] dari [Abdurrahman bin Ka'ab bin Malik] dari [Ayahnya] ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan seorang mukmin seperti tanaman yang kuat dan lentur, ketika angin menerpanya, kadang menundukkannya dan kadang membuatnya tegak hingga waktunya tiba, dan perumpamaan orang kafir seperti pohon cedar yang dicabut dengan akar-akarnya, tidak ada sesuatu pun yang menerpanya hingga ia tercabut hanya sekali saja." telah menceritakannya kepadaku [Muhammad bin Hatim] dan [Mahmud bin Ghailan] keduanya berkata: telah menceritakan kepada kami [Bisyr bin As Sari] telah menceritakan kepada kami [Sufyan] dari [Sa'd bin Ibrahim] dari [Abdullah bin Ka'ab bin Malik] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, hanya saja Mahmud menyebutkan dalam riwayatnya dari Bisyr; "Dan perumpamaan orang kafir seperti pohon cedar, sementara Ibnu Hatim menyebutkan; "Perumpamaan orang munafik." sebagaimana yang disebutkan oleh Zuhair. Dan telah menceritakannya kepada kami [Muhammad bin Basyar] dan [Abdullah bin Hasyim] keduanya berkata; telah menceritakan kepada kami [Yahya Al Qaththan] dari [Sufyan] dari [Sa'd bin Ibrahim]. [Ibnu Hasyim] berkata; dari [Abdullah bin Ka'ab bin Malik] dari [Ayahnya]. Ibnu Basyar mengatakan dari Ka'b bin Malik dari Ayahnya dari Nabi shallallahu 'alaihi wasallam seperti hadits mereka, dan mereka menyebutkan dalam haditsnya dari Yahya: "Dan perumpamaan orang kafir itu seperti pohon cedar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7097</td></tr><tr><td>Arabic No</td><td>2810.04</td></tr><tr><td>Reference</td><td>Book 52 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7097</td></tr><tr><td>Arabic No</td><td>2810.04</td></tr><tr><td>Reference</td><td>Book 52 Hadith 51</td></tr></tbody></table></div>
 

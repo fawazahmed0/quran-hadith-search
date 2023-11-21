@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) said, "If there is any healing in your medicine
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Hisyam bin Abdul Malik] telah menceritakan kepada kami [Abdurrahman bin Sulaiman bin Al Ghasil] telah menceritakan kepada kami ['Ashim bin Umar bin Qatadah] dia berkata; saya mendegar [Jabir] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sekiranya ada pengobatan yang baik untuk kalian jadikan sebagai obat, maka itu ada terdapat pada bekam dan sengatan api panas (terapi dengan menempelkan besi panas di daerah yang luka) namun aku tidak menyukai kay (terapi dengan menempelkan besi panas pada daerah yang luka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5704</td></tr><tr><td>Arabic No</td><td>5704</td></tr><tr><td>Reference</td><td>Book 76 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Пророк ﷺ сказал: «Если в чём-то из ваших методов лечения и есть исцеление, то оно есть в насечках лезвия (при кровопускании) или в прижигании огнём. Но я не люблю, когда мне делают прижигания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5704</td></tr><tr><td>Arabic No</td><td>5704</td></tr><tr><td>Reference</td><td>Book 76 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) was on a journey and he had a bl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad] dari [Tsabit Al Bunani] dari [Anas bin Malik], sedangkan [Ayyub] dari [Abu Qilabah] dari [Anas bin Malik] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah dalam suatu perjalanan, sementara bersama beliau ada seorang budak laki-laki hitam yang bernama Anjasyah sebagai pengawal, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Celaka kamu wahai Anjsyah, hati-hatilah kamu jika mengawal sesuatu yang mudah pecah (maksudnya adalah wanita karena lemahnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6161</td></tr><tr><td>Arabic No</td><td>6161</td></tr><tr><td>Reference</td><td>Book 78 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ находился в одной из своих поездок, а чёрный раб по имени Анджаша подгонял верблюдов пением, и Посланник Аллаха ﷺ сказал ему: “Горе тебе, О Анджаша, (веди верблюдов) медленнее, (будто везёшь) бутылки”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6161</td></tr><tr><td>Arabic No</td><td>6161</td></tr><tr><td>Reference</td><td>Book 78 Hadith 187</td></tr></tbody></table></div>
 

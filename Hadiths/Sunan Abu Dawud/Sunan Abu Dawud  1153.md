@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu 'Aishah said:Sa'id b. al-'As asked Abu Musa al-Ash'ari and Hudhaifah b. al-Y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] dan [Ibnu Abu Ziyad] sedangkan maknanya saling berdekatan, keduanya berkata; telah menceritakan kepada kami [Zaid yaitu Ibnu Hubab] dari [Abdurrahman bin Tsauban] dari [ayahnya] dari [Makhul] dia berkata; telah mengabarkan kepadaku [Abu 'Aisyah] -sahabat Abu Hurairah- bahwa Sa'id bin Al 'Ash bertanya kepada [Abu Musa Al Asy'ari] dan [Hudzaifah bin Yaman]; "Bagaimanakah cara Rasulullah shallallahu 'alaihi wasallam bertakbir pada hari raya Adha dan Fithri?" Abu Musa menjawab; "Biasanya beliau bertakbir empat kali, sebagaimana shalat jenazah." Hudzaifah menimpali; "Dia benar." Abu Musa berkata; "aku juga bertakbir seperti itu ketika di Bashrah, ketika aku menjadi pemimpin mereka (penduduk Bashrah)." Abu Aisyah berkata; "Aku juga ikut hadir ketika Sa'id bin Al Ash mengajukan pertanyaan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1153</td></tr><tr><td>Arabic No</td><td>1153</td></tr><tr><td>Reference</td><td>Book 2 Hadith 764</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Макхуля: «Мне сообщил Абу ‘Аиша, собеседник Абу Хурайры, что Са‘ид ибн аль-‘Ас спросил Абу Мусу аль-Аш‘ари и Хузайфу ибн аль-Ямана о том, как Посланник Аллаха ﷺ произносил такбиры в праздники жертвоприношения и разговения, и Абу Муса сказал: “Он совершал четыре такбира, как и во время молитвы джаназа”. Хузайфа сказал: “Он сказал правду”. Абу Муса сказал: “Так я произносил такбиры в Басре, когда был наместником там”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1153</td></tr><tr><td>Arabic No</td><td>1153</td></tr><tr><td>Reference</td><td>Book 2 Hadith 764</td></tr></tbody></table></div>
 

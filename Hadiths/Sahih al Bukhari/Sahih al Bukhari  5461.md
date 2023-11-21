@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud Al-Ansari:There was an Ansari man nicknamed, Abu Shu'aib, wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abul Aswad] berkata, telah menceritakan kepada kami [Abu Usamah] berkata, telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepada kami [Syaqiq] berkata, telah menceritakan kepada kami [Abu Mas'ud Al Anshari] ia berkata, "Seorang laki-laki Anshar bernama Abu Syu'aib memiliki seorang budak laki-laki yang pandai memasak daging, suatu ketika ia datang menemui Nabi shallallahu 'alaihi wasallam yang saat itu sedang bersama para sahabatnya. Ia melihat pada wajah Nabi shallallahu 'alaihi wasallam tanda kelaparan, maka ia segera menemui budak laki-lakinya seraya berkata, "Buatlah makanan untukku yang cukup untuk lima orang, sebab aku ingin mengundang Nabi shallallahu 'alaihi wasallam dengan makanan yang cukup untuk lima orang." Budak tersebut kemudian membuat sedikit makanan, maka laki-laki Anshar itu mengundang Rasulullah. Beliau lalu datang dengan diikuti oleh seorang laki-laki (selain dari lima orang yang telah disiapkan makanan untuknya), Nabi shallallahu 'alaihi wasallam lantas bersabda: "Wahai Abu Syu'aib, ada seorang laki-laki yang ikut kami, jika kamu mau kamu boleh memberinya izin, jika tidak maka kamu boleh meninggalkannya?" Abu Syu'aib menjawab, "Tidak, bahkan aku telah memberinya izin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5461</td></tr><tr><td>Arabic No</td><td>5461</td></tr><tr><td>Reference</td><td>Book 70 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Ансари сказал: «Однажды один человек из ансаров, которого звали Абу Шу‘айб, и у которого был раб-мясник, пришёл к Пророку ﷺ, когда он был в обществе своих сподвижников и, увидев признаки голода на его лице, сказал своему рабу-мяснику: “Приготовь мне еды, которой будет достаточно для пятерых, ведь я хочу пригласить Пророка ﷺ и ещё четыре человека”. Он приготовил немного еды и пригласил их, но с ними пришел ещё один человек. Пророк ﷺ сказал (Абу Шу‘айбу): “О Абу Шу’айб! Этот человек последовал за нами, и если хочешь, то (можешь) позволить ему (войти), а если хочешь, можешь не позволять ему”. (На это Абу Шу‘айб) сказал: “Нет, я позволяю ему (войти)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5461</td></tr><tr><td>Arabic No</td><td>5461</td></tr><tr><td>Reference</td><td>Book 70 Hadith 90</td></tr></tbody></table></div>
 

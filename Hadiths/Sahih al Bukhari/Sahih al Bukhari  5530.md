@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Tha'laba:Allah's Messenger (ﷺ) forbade the eating of the meat of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Abu Idris Al Khaulani] dari [Abu Tsa'labah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam melarang makan daging binatang buas yang bertaring." Hadits ini juga dikuatkan oleh riwayat [Yunus], [Ma'mar], [Ibnu 'Uyainah] dan [Al Majisyun] dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5530</td></tr><tr><td>Arabic No</td><td>5530</td></tr><tr><td>Reference</td><td>Book 72 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘лябы, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил употреблять в пищу мясо любых хищников, имеющих клыки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5530</td></tr><tr><td>Arabic No</td><td>5530</td></tr><tr><td>Reference</td><td>Book 72 Hadith 55</td></tr></tbody></table></div>
 

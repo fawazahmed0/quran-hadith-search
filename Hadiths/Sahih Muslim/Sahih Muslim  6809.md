@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr An Naqid] dan [Zuhair bin Harb] dan [Ibnu Abu 'Umar] semuanya dari [Sufyan] - dan lafadh ini milik 'Amr-; telah menceritakan kepada kami Sufyan bin 'Uyainah dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi Muhammad shallallahu 'alaihi wasallam, beliau telah bersabda: "Sesungguhnya Allah subhanahu wata'ala memiliki sembilan puluh sembilan nama. Maka barang siapa dapat menjaganya, niscaya ia akan masuk surga. Sesungguhnya Allah itu Ganjil dan Dia sangat menyukai bilangan yang Ganjil." Di dalam riwayat Ibnu Abu Umar disebutkan dengan lafazh; 'Barang siapa yang menghitung-hitungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6809</td></tr><tr><td>Arabic No</td><td>2677.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6809</td></tr><tr><td>Arabic No</td><td>2677.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 5</td></tr></tbody></table></div>
 

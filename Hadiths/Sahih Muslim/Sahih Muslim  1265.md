@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When any one of you stan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah radhiyallahu'anhu] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, "Salah seorang dari kalian jika mendirikan shalat, maka setan mendatanginya, lalu merancukan (kekhusyu'annya) hingga dia tidak mengetahui berapa rakaat dia shalat. Maka apabila salah seorang dari kalian mendapati hal tersebut maka hendaklah dia bersujud dua kali, dan dia duduk (satu kali)." Telah menceritakan kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Sufyan, dan dia adalah Ibnu Uyainah] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Rumh] dari [al-Laits bin Sa'd] keduanya meriwayatkan dari [az-Zuhri] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>389.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда кто-то из вас встаёт на молитву, к нему приходит шайтан и начинает его путать, чтобы он не знал, сколько (рак‘атов) совершил. И если кто-то из вас обнаружит подобное, то пусть совершит два земных поклона во время сидения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>389.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 103</td></tr></tbody></table></div>
 

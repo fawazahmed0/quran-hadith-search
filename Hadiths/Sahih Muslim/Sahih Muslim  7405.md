@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Shu'ba reported:I heard Qatada and Abu Tayyab narrating that both of them heard 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Syu'bah] berkata: Aku mendengar [Qatadah] dan [Abu At Tayyah] menceritakan bahwa keduanya mendengar [Anas] menceritakan bahwa Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Aku diutus dan kiamat seperti ini." Syu'bah menyandingkan jari telunjuk dan jari tengah saat menceritakannya. Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku]. Telah menceritakan kepada kami [Muhammad bin Al Walid] telah menceritakan kepada kami [Muhammad bin Ja'far] keduanya berkata: Telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] dari [Anas] dari nabi Shallallahu 'alaihi wa Salam dengan matan serupa. Telah menceritakannya kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abi Adi] dar [Syu'bah] dari [Hamzah Adh Dhabbi] dan [Abu At Tayyah] dari [Anas] dari nabi Shallallahu 'alaihi wa Salam seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7405</td></tr><tr><td>Arabic No</td><td>2951.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7405</td></tr><tr><td>Arabic No</td><td>2951.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 166</td></tr></tbody></table></div>
 

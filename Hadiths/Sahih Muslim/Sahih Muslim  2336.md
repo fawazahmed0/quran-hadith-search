@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There is never a day wher
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Al Qasim bin Zakariya] Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepadaku [Sulaiman bin Bilal] telah menceritakan kepadaku [Mu'awiyah bin Abu Muzarrid] dari [Sa'id bin Yasar] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang hamba memasuki waktu pagi pada setiap harinya, kecuali ada dua malaikat yang turun. Salah satunya memohon: 'Ya Allah, berikanlah ganti bagi dermawan yang menyedekahkan hartanya.' Dan satu lagi memohon: 'Ya Allah, musnahkanlah harta si bakhil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2336</td></tr><tr><td>Arabic No</td><td>1010</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Каждый день, когда рабы (Аллаха) просыпаются утром, (с небес) обязательно спускаются два ангела, один из которых говорит: “О Аллах, возмести тому, кто расходует (свои) средства!” другой же говорит: “О Аллах, приведи скупого к гибели!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2336</td></tr><tr><td>Arabic No</td><td>1010</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
 

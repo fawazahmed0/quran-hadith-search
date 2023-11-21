@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: When the sun set at Mecca, the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Yahya bin Muhammad Al Jari] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Malik] dari [Abu Az Zubair] dari [Jabir] bahwa matahari telah tenggelam ketika Rasulullah shallallahu 'alaihi wasallam masih berada di Makkah, namun beliau baru menjama' Shalat di daerah Saraf." Telah menceritakan kepada kami Muhammad bin Hisyam tetangga Ahmad bin Hambal, telah menceritakan kepada kami Ja'far bin 'Aun dari Hisyam bin Sa'd dia berkata: "Jarak antara Makkah dengan Saraf adalah sekitar sepuluh mil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1215</td></tr><tr><td>Arabic No</td><td>1215</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что однажды солнце зашло, когда Посланник Аллаха ﷺ был в Мекке, а обе молитвы он совершил, соединив их, в Сарифе
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1215</td></tr><tr><td>Arabic No</td><td>1215</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
 

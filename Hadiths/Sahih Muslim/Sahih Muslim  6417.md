@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), le Prophète (paix et bénédiction de Dieu s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] seluruhnya dari [Ibnu 'Ulayyah] dan lafazh ini milik Zuhair; Telah menceritakan kepada kami [Isma'il] dari ['Abdul 'Aziz] yaitu Ibnu Shuhaib dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah melihat anak-anak dan kaum wanita Anshar pulang dari pesta pernikahan. Setelah itu beliau berdiri sambil mengucapkan; "Ya Allah, sesungguhnya mereka itu adalah orang-orang yang paling aku cintai! Ya Allah, sesungguhnya mereka itu adalah orang-orang yang paling aku cintai!" (yaitu orang-orang Anshar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6417</td></tr><tr><td>Arabic No</td><td>2508</td></tr><tr><td>Reference</td><td>Book 44 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6417</td></tr><tr><td>Arabic No</td><td>2508</td></tr><tr><td>Reference</td><td>Book 44 Hadith 246</td></tr></tbody></table></div>
 

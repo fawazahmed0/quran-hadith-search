@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha the wife of the Messenger of Allah (ﷺ) reported. A person asked the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Harun bin Sa'id al-Aili] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepada kami ['Iyadh bin Abdullah] dari [Abu az-Zubair] dari [Jabir bin Abdullah] dari [Ummu Kultsum] dari [Aisyah, istri Nabi Shallallahu'alaihiwasallam] dia berkata, " seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang seorang laki-laki yang menyenggamai istrinya kemudian dia tidak keluar air mani, apakah keduanya wajib mandi, sedangkan Aisyah sedang duduk di samping, maka Rasulullah shallallahu 'alaihi wasallam bersabda, " Aku sendiri melakukan hal tersebut dengan wanita ini, kemudian kami mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>786</td></tr><tr><td>Arabic No</td><td>350</td></tr><tr><td>Reference</td><td>Book 3 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах передал со слов Умм Кульсум, что жена Пророка ﷺ ‘Аиша сказала: «(Как-то раз) один человек спросил Посланника Аллаха ﷺ: “Следует ли мужчине и его жене, с которой он был близок, но не испустил семя, совершить полное омовение?”». ‘Аиша, которая сидела (рядом, слышала, как в ответ на это) Посланник ﷺ Аллаха сказал: «Поистине, так бывает и у нас с ней, и потом мы совершаем полное омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>786</td></tr><tr><td>Arabic No</td><td>350</td></tr><tr><td>Reference</td><td>Book 3 Hadith 108</td></tr></tbody></table></div>
 

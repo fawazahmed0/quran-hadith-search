@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Some people will be scorched by Hell (Fir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Akan ada beberapa kaum memperoleh kehitaman-hitaman dari neraka, karena dosa-dosa yang pernah mereka lakukan sebagai hukuman atas mereka, kemudian Allah memasukkan mereka ke dalam surga dengan kurnia rahmat-Nya, mereka itulah yang dinamakan jahannamiyun (mantan penghuni neraka jahannam)." Sedang [Hamam] berkata; telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7450</td></tr><tr><td>Arabic No</td><td>7450</td></tr><tr><td>Reference</td><td>Book 97 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Некоторых) людей непременно постигнет жар (адского) Огня в качестве наказания из-за совершённых ими грехов, после чего Аллах по Своей милости заведёт их в рай и их будут называть людьми из Геенны /джаханнамиюн/».\nТакже сказал Хаммам: «Нам рассказал Катада», который сказал: «Нам рассказал Анас от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7450</td></tr><tr><td>Arabic No</td><td>7450</td></tr><tr><td>Reference</td><td>Book 97 Hadith 76</td></tr></tbody></table></div>
 

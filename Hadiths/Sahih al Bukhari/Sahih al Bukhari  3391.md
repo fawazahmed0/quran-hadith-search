@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "While Job was naked, taking a bath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad Al Ju'fiy] telah bercerita kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anha] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ketika Nabi Ayub 'Alaihissalam sedang mandi dalam keadaan telanjang tiba-tiba jatuh kaki belalang yang terbuat dari emas lalu Ayyub mengambil dengan tangannya dan memasukkannya ke dalam pakaiannya. Kemudian Rabbnya memanggilnya: "Wahai Ayyub, bukankah aku telah mencukupkan kamu dengan apa yang baru saja kamu lihat?". Ayub menjawab; "Benar, wahai Rabb. Namun aku tidak akan pernah merasa cukup dari barakah-Mu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3391</td></tr><tr><td>Arabic No</td><td>3391</td></tr><tr><td>Reference</td><td>Book 60 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Однажды, когда (пророк) Айюб купался обнажённым, (сверху) на него посыпалась золотая саранча, и он принялся собирать её в свою одежду. Его Господь обратился к нему: “О Айюб, разве Я не избавил тебя от необходимости в том, что ты видишь?!” (В ответ Айюб) сказал: “Да, о Господь мой! Однако я не могу обойтись без Твоей благодати!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3391</td></tr><tr><td>Arabic No</td><td>3391</td></tr><tr><td>Reference</td><td>Book 60 Hadith 65</td></tr></tbody></table></div>
 

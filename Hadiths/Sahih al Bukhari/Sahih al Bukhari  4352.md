@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata:Jabir said, "The Prophet (ﷺ) ordered 'Ali to keep the state of I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] dari [Ibnu Juraij], ['Atha] berkata; [Jabir] berkata; Nabi shallallahu 'alaihi wasallam menyuruh 'Ali untuk melakukan ihram. [Muhammad bin Bakr] menambahkan dari [Ibnu Juraij], [Atha] berkata; [Jabir] berkata; kemudian Ali datang dari Yaman, maka Nabi shallallahu 'alaihi wasallam bertanya kepadanya; 'Wahai Ali dengan apa kamu bertalbiyah? Dia menjawab; saya bertalbiyah dengan talbiyah Rasulullah shallallahu 'alaihi wasallam. Beliau bersabda: 'Menyembelihlah dan tetaplah tinggal di Haram. Jabir berkata; lalu Ali menyembelih hewan kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4352</td></tr><tr><td>Arabic No</td><td>4352</td></tr><tr><td>Reference</td><td>Book 64 Hadith 379</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Пророк ﷺ приказал ‘Али оставаться в состоянии ихрама». Джабир также передал, что Пророк ﷺ спросил ‘Али: «С каким намерением ты входил в состояние ихрама, о ‘Али?» ‘Али ответил: «С тем же, что и Пророк ﷺ». Тогда Пророк ﷺ сказал: «Возьми жертвенный скот (хади) и оставайся в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4352</td></tr><tr><td>Arabic No</td><td>4352</td></tr><tr><td>Reference</td><td>Book 64 Hadith 379</td></tr></tbody></table></div>
 

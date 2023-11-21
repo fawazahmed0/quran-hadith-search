@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Aisha said: Messenger of Allah! All my fellow-wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Sulaiman bin Harb] secara makna, keduanya berkata; telah menceritakan kepada kami [Hammad] dari [Hisyam bin Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] ia berkata, "Wahai Rasulullah, semua sahabat-sahabatku mempunyai julukan?" beliau menjawab: "Kalau begitu, julukilah dirimu dengan nama anakmu, Abdullah." Yaitu anak saudara perempuannya. Musaddad berkata, "Maksudnya adalah Abdullah bin Az Zubair, maka ia diberi julukan Ummu Abdullah." Abu Dawud berkata, "Demikianlah yang dikatakan oleh [Qurran bin Tammam] dan [Ma'mar]. Semuanya dari [Hisyam] seperti itu. [Abu Usamah] meriwayatkannya dari [Hisyam] dari [Abbad bin Hamzah]. Sebagaimana [Hammad bin Salamah] dan [Maslamah bin Qa'nab] juga meriwayatkannya dari [Hisyam], hal ini sebagaimana yang dikatakan oleh Abu Usamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4970</td></tr><tr><td>Arabic No</td><td>4970</td></tr><tr><td>Reference</td><td>Book 43 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4970</td></tr><tr><td>Arabic No</td><td>4970</td></tr><tr><td>Reference</td><td>Book 43 Hadith 198</td></tr></tbody></table></div>
 

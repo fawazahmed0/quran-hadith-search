@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "Whoever prayed at night the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menegakkan Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya". Ibnu Syihab berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam wafat, namun orang-orang terus melestarikan tradisi menegakkan malam Ramadhan (secara bersama, jamaah), keadaan tersebut terus berlanjut hingga zaman kekhalifahan Abu Bakar dan awal-awal kekhilafahan 'Umar bin Al Khaththob radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 31 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Тому, кто во время рамадана будет совершать молитвы по ночам с верой и надеждой на награду Аллаха, простятся его прежние грехи».\nИбн Шихаб (аз-Зухри) сказал: «И Посланник Аллаха ﷺ умер и это дело осталось на этом. Тоже самое было и во времена правления Абу Бакра и в начале правления ‘Умара, да будет доволен ими обоими Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 31 Hadith 2</td></tr></tbody></table></div>
 

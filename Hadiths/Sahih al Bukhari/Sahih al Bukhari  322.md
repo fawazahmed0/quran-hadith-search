@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Abi Salama:Um-Salama said, "I got my menses while I was lyi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Zainab binti Abu Salamah] bahwa ia menceritakan kepadanya, bahwa [Ummu Salamah] berkata, "Saat aku berada dalam satu selimut bersama Nabi shallallahu 'alaihi wasallam, aku mengeluarkan darah haid, kemudian pelan-pelan aku keluar dari selimut mengambil pakaian (khusus untuk haid) dan mengenakannya. Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: "Apakah kamu sedang haid?" Aku jawab, "Ya." Beliau lalu memanggil dan mengajakku masuk ke dalam selimut." Zainab berkata, "Ummu Salamah menceritakan kepadaku bahwa Nabi shallallahu 'alaihi wasallam juga menciumnya saat beliau sedang berpuasa. Ummu Salam berkata, "Aku pernah mandi junub dalam satu bejana bersama Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 6 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Салямы о том, что Зайнаб бинт Абу Саляма рассказывала ему, что Умм Саляма, да будет доволен ею Аллах, сказала: «(Однажды, когда) я лежала вместе с Пророком ﷺ (укрывшись) хамилей, у меня начались месячные. Я потихоньку покинула (его), взяв с собой одежду, предназначенную для подобных случаев и надела её, (а когда вернулась,) Посланник Аллаха ﷺ спросил: “У тебя начались месячные?” Я ответила: “Да”, и тогда он подозвал меня и уложил вместе с собой под ту же хамилю».\n(Зайнаб бинт Абу Саляма) сказала: «И (Умм Саляма, да будет доволен ею Аллах,) рассказывала мне о том, что Пророк ﷺ нередко целовал её во время соблюдения им поста, и мы с Пророком ﷺ часто купались из-за полового осквернения из одного и того же сосуда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 6 Hadith 27</td></tr></tbody></table></div>
 

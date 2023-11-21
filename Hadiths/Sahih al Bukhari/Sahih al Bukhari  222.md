@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the mother of faithful believers) A child was brought to Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] Ummul Mukminin, ia berkata, "Pernah seorang bayi dibawa ke hadapan Nabi shallallahu 'alaihi wasallam, lalu bayi tersebut kencing hingga mengenai pakaiannya. Beliau lalu minta air dan mengusapinya dengan auir tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>222</td></tr><tr><td>Arabic No</td><td>222</td></tr><tr><td>Reference</td><td>Book 4 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных Аиша, да будет доволен ею Аллах, сказала: «Однажды Посланнику Аллаха ﷺ принесли мальчика, который помочился на его одежду. Тогда он попросил принести воды и полил на следы этой (мочи)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>222</td></tr><tr><td>Arabic No</td><td>222</td></tr><tr><td>Reference</td><td>Book 4 Hadith 88</td></tr></tbody></table></div>
 

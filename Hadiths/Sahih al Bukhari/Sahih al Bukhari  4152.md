@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:Jabir said "On the day of Al-Hudaibiya, the people felt thirsty a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Isa] telah menceritakan kepada kami [Ibnu Fudlail] telah menceritakan kepada kami [Hushain] dari [Salim] dari [Jabir radliallahu 'anhu] ia berkata; "Para shahabat mengalami kehausan pada peristiwa Hudaibiyyah, sementara Rasulullah shallallahu 'alaihi wasallam hanya memiliki kantung air terbuat dari kulit, lalu beliau wudlu' dengan air tersebut. Setelah itu Rasulullah shallallahu 'alaihi wasallam mendatangi para shahabat dan bertanya: "Ada apa dengan kalian?." Mereka menajwab; "Wahai Rasulullah, kami tidak punya air untuk berwudlu' dan juga tidak ada untuk minum kecuali air yang ada pada kantung air tuan." Jabir berkata; "Maka Nabi shallallahu 'alaihi wasallam meletakkan tangan beliau pada kantung air tersebut lalu air mengalir melalui sela-sela jari beliau bagaikan mata air yang mengalir." Jabir melanjutkan; "Lalu kami minum dan berwudlu'." Aku bertanya kepada Jabir; "Berapa jumlah kalian saat itu?." Jabir menjawab; "Seandainya jumlah kami ratusan ribu tentu air itu masih cukup. Jumlah kami saat itu seribu lima ratus orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4152</td></tr><tr><td>Arabic No</td><td>4152</td></tr><tr><td>Reference</td><td>Book 64 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «В день Худайбиййи люди очень хотели пить, а перед Посланником Аллаха ﷺ стояла небольшая посуда с водой. Он совершил омовение из этой посуды, и люди бросились к нему. Посланник Аллаха ﷺ спросил их: “Что с вами?” Они ответили: “О Посланник Аллаха, у нас нет воды, чтобы совершить омовение и для питья, кроме той, что находится в посуде перед тобой”. Тогда Пророк ﷺ опустил руку в посуду, и вода забила меж его пальцами ключом подобно родникам. Мы попили и совершили омовение (этой водой)». \nПередатчик этого хадиса сказал: «Я спросил (Джабира): “Сколько вас было в тот день?” Он ответил: “Даже если бы нас было сто тысяч, нам всё равно хватило бы её, но нас было полторы тысячи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4152</td></tr><tr><td>Arabic No</td><td>4152</td></tr><tr><td>Reference</td><td>Book 64 Hadith 196</td></tr></tbody></table></div>
 

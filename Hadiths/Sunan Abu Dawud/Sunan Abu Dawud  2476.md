@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah(may Allaah be pleased with her) said “One of the wives of the Apostl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], serta [Qutaibah bin Sa'id], mereka berkata; telah menceritakan kepada kami [Yazid] dari [Khalid] dari [Ikrimah] dari [Aisyah], radliallahu 'anha, ia berkata; Nabi shallallahu 'alaihi wasallam beri'tikaf bersama salah seorang isteri beliau, lalu ia melihat warna kuning atau merah, kemungkinan kami telah meletakkan baskom di bawahnya, sementara ia sedang melakukan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2037)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2476</td></tr><tr><td>Arabic No</td><td>2476</td></tr><tr><td>Reference</td><td>Book 14 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Вместе с Пророком ﷺ совершала и‘тикаф одна из его жён, а у неё были жёлтые и красные выделения, и иногда мы даже ставили под неё таз, когда она совершала молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2037)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2476</td></tr><tr><td>Arabic No</td><td>2476</td></tr><tr><td>Reference</td><td>Book 14 Hadith 164</td></tr></tbody></table></div>
 

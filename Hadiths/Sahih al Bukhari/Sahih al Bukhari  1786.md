@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We set out with Allah's Messenger (ﷺ) shortly before the appea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Hisyam] berkata, telah mengabarkan kepada saya [bapaknya] berkata, telah mengabarkan kepada saya ['Aisyah radliallahu 'anha] berkata: "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam tepat pada hilal (awal) bulan Dzul Hijjah. Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang suka berihram untuk 'umrah, lakukanlah dan siapa yang suka berihram untuk haji, lakukanlah. Seandainya bukan karena aku telah membawa hewan qurban tentu aku akan berihram untuk 'umrah". 'Aisyah radliallahu 'anha berkata: "Maka diantara mereka ada yang berihram untuk 'umrah dan ada yang berihram untuk haji dan aku termasuk orang yang berihram untuk 'umrah". Kemudian aku mengalami haidh sebelum aku memasuki Makkah dan aku mendapatkan hari "Arafah dalam keadaan haidh. Hal ini aku adukan kepada Rasulullah shallallahu 'alaihi wasallam. Beliau berkata: "Tinggalkanlah 'umrahmu dan uraikanlah rambut kepalamu dan sisirlah lalu berihramlah untuk haji". Maka perintah Beliau itu aku laksanakan. Ketika pada malam Al Hashabah (untuk melempar jumrah di Mina), Beliau mengutus 'Abdurrahman bersamaku menuju At-Tan'im. Maka dia memboncengiku lalu aku berihram untuk 'umrah sebagai pengganti 'umrahku sebelumnya". Maka Allah menetapkan terlaksananya haji dan 'umrahnya 'Aisyah radliallahu 'anha dan tidak ada sesuatupun sebagai pengganti dari itu semua baik berupa hewan qurban, shadaqah maupun shaum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 26 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда мы с посланником Аллаха ﷺ двинулись (в путь из Медины незадолго до появления) молодого месяца в зуль-хиджжа, Посланник Аллаха ﷺ сказал: “Тот (из вас), кто желает войти в состояние ихрама для совершения умры, пусть сделает это, и тот, кто желает надеть ихрам для совершения хаджа, пусть сделает это, и если бы я не гнал с собой жертвенный скот, то надел бы ихрам для умры”. И некоторые из (паломников) объявили о намерении совершить умру, а другие — о намерении совершить хадж, я же была из тех, кто объявил о намерении совершить умру. Перед тем как (мы достигли) Мекки, у меня начались месячные, которые продолжались и в день ‘Арафата. Я пожаловалась на это Посланнику Аллаха ﷺ и он сказал: “Оставь свою умру, распусти волосы, причешись и объяви о намерении совершить хадж”. Я так и сделала, а когда (мы остановились) ночью в Хасбе, он отправил вместе со мной в Тан‘им ‘Абд ар-Рахмана».\nПосле этого (‘Абд ар-Рахман) посадил её в седло позади себя, а она объявила о своём намерении совершить (другую) умру вместо пропущенной, и Аллах (дал ей совершить) и хадж, и умру. И не было при этом ни жертвенного скота, ни садаки, ни поста
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 26 Hadith 13</td></tr></tbody></table></div>
 

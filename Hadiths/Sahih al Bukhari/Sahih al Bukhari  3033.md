@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Umar (ra):Once, Allah's Messenger (ﷺ) accompanied by Ub
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3033</td></tr><tr><td>Arabic No</td><td>3033</td></tr><tr><td>Reference</td><td>Book 56 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды Посланник Аллаха ﷺ отправился вместе с Убаем ибн Ка‘бом в пальмовую рощу, где находился Ибн Саййад. Зайдя к нему, Посланник Аллаха ﷺ начал прятаться за стволами пальм, (и он увидел, что) Ибн Саййад лежит на кровати, укрывшись куском ткани, из-под которой доносились его бормотания. Мать Ибн Саййада увидела Посланник Аллаха ﷺ и окликнула Ибн Саййада: “О Саф! Здесь Мухаммад”, после чего Ибн Саййад вскочил со своего места, а Посланник Аллаха ﷺ сказал: “Если бы она не побеспокоила его, он проявил бы себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3033</td></tr><tr><td>Arabic No</td><td>3033</td></tr><tr><td>Reference</td><td>Book 56 Hadith 240</td></tr></tbody></table></div>
 

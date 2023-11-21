@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abi Syaibah] serta [Amru an-Naqid] semuanya meriwayatkan dari [Sufyan] berkata [Yahya], telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Humaid bin Abdurrahman] dari [Abu Sa'id al-Khudri] bahwa Nabi Shallallahu'alaihiwasallam (pada suatu ketika) melihat dahak di arah kiblat masjid. Lalu dia mengeriknya dengan kerikil. Kemudian beliau melarang orang meludah ke kanan atau ke depannya, tetapi membolehkan meludah ke kiri atau ke bawah kaki kiri." --Lewat jalur periwayatan lain-- Telah menceritakan kepadaku [Abu ath-Thahir] dan [Harmalah] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Bapakku] keduanya meriwayatkan dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] bahwa [Abu Hurairah radhiyallahu'anhu] dan [Abu Sa'id] keduanya telah mengabarkan kepadanya, "Bahwa Rasulullah Shallallahu'alaihiwasallam melihat dahak", semisal hadits Ibnu Uyainah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1225</td></tr><tr><td>Arabic No</td><td>548.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, что однажды Пророк ﷺ увидел в мечети в направлении киблы плевок и соскоблил его камешком, после чего запретил человеку плевать справа от себя или перед собой, и (что это следует делать) только налево или под свою левую ногу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1225</td></tr><tr><td>Arabic No</td><td>548.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 63</td></tr></tbody></table></div>
 

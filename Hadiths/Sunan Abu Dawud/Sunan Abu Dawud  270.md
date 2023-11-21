@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Umarah ibn Ghurab said that his paternal aunt na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdullah bin Umar bin Ghanim] dari [Abdurrahman bin Ziyad] dari [Umarah bin Ghurab] dia berkata; Sesungguhnya salah [satu bibinya] telah menceritakan kepadanya bahwasanya dia pernah bertanya kepada [Aisyah]; Salah satu dari kami haidl, sedangkan dia dan suaminya tidak memiliki kecuali satu tempat tidur. Maka Aisyah berkata; Saya kabarkan kepadamu apa yang dilakukan oleh Rasulullah shallallahu 'alaihi wasallam. Pada suatu saat beliau masuk rumah menuju masjidnya (tempat sujud). Abu Dawud berkata; Yakni, Masjid (tempat sujud) di rumahnya. Beliau tidak meninggalkan masjidnya hingga saya tertidur. Ketika itu hawa dingin membuatnya sakit. Beliau bersabda kepadaku: "Mendekatlah kepadaku." Maka saya katakan; Sesungguhnya saya sedang haidl. Beliau bersabda: "Singkaplah dua pahamu." Maka aku pun menyingkap kedua pahaku, lalu beliau meletakkan pipi dan dadanya di atas pahaku dan aku agak membungkukkan punggungku hingga beliau merasa hangat dan tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>270</td></tr><tr><td>Arabic No</td><td>270</td></tr><tr><td>Reference</td><td>Book 1 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара ибн Гъураба о том, что его тетя по отцовской линии рассказывала ему, что она спросила ‘Аишу: «Что делать, если у одной из нас месячные, и у нее с мужем только одна постель?» Она ответила: «Я расскажу тебе то, что сделал Посланник Аллаха ﷺ. Однажды ночью он зашел ко мне в то время, когда у меня были менструации, и прошел к своему месту молитвы. И он не вернулся, пока я не заснула глубоким сном, и пока сам он не почувствовал боль от холода. Он сказал: “Подойди ко мне”. Я сказала: “У меня менструации”. Он сказал: “Тогда обнажи свои бедра”. Я обнажила свои бедра, а он положил свою щеку и грудь на мои бедра, и я наклонилась на него, пока он не согрелся и не заснул»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>270</td></tr><tr><td>Arabic No</td><td>270</td></tr><tr><td>Reference</td><td>Book 1 Hadith 270</td></tr></tbody></table></div>
 

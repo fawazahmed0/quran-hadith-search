@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) offered as sacrifices, two horned rams, black an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam berkurban dengan dua ekor domba yang warna putihnya lebih dominan di banding warna hitamnya, dan bertanduk, beliau menyembelih domba tersebut dengan tangan beliau sendiri sambil menyebut nama Allah dan bertakbir dan meletakkan kaki beliau di atas rusuk domba tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5565</td></tr><tr><td>Arabic No</td><td>5565</td></tr><tr><td>Reference</td><td>Book 73 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ принёс в жертву двух (рогатых) чёрно-белых баранов, закалывал их собственноручно и произносил: “Бисми-Ллях и Аллаху Акбар”, и ставил свою ногу на их бока»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5565</td></tr><tr><td>Arabic No</td><td>5565</td></tr><tr><td>Reference</td><td>Book 73 Hadith 21</td></tr></tbody></table></div>
 

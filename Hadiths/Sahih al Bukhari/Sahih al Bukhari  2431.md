@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) passed a date fallen on the way and said, "Were 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Tholhah] dari [Anas radliallahu 'anhu] berkata: Nabi shallallahu 'alaihi wasallam berjalan melewati buah-buah kurma yang jatuh di jalan, lalu Beliau berkata: "Seandainya aku tidak takut bahwa pada kurma-kurma ini ada kewajiban shadaqah (zakat) tentu aku sudah memakannya". Dan berkata, [Yahya] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Manshur] dan berkata, [Za'idah] dari [Manshur] dari [Tholhah] telah menceritakan kepada kami [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 45 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ прошёл мимо лежавшего на дороге финика и сказал: “Если бы я не опасался, что это может быть (частью) милостыни /садака/, я бы съел его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 45 Hadith 6</td></tr></tbody></table></div>
 

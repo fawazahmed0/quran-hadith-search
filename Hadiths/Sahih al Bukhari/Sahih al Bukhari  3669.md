@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Aisha said (in another narration), ("When the Prophet (ﷺ) was on his death-bed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Перед тем как умереть Пророк ﷺ поднял глаза вверх и трижды сказал: ”(О Аллах, позволь мне оказаться) в высшем обществе!” ! /Фир-р-рафики-ль-а‘ля/».\n‘Аиша сказала: «Проповедь каждого из них (с которыми обратились в день смерти Пророка ﷺ Абу Бакр и 'Умар) по воле Аллаха принесла пользу. Что касается проповеди 'Умара, то она подействовала на людей устрашающе и послужила острасткой лицемерам
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted through other chains of transmitters on the aut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salamah bin Syabib] dia berkata, telah menceritakan kepada kami [al-Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu az-Zubair] dari [Jabir] dari [Abu Hurairah] bahwa dia mengabarkan kepadanya, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika salah seorang di antara kalian bangun maka hendaklah dia menuangkan (air) ke atas tangannya tiga kali sebelum dia memasukkan tangannya ke dalam bejananya, karena dia tidak mengetahui di mana tangan itu menginap." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [al-Mughirah] -yaitu al-Hizami- dari [Abu az-Zinad] dari [al-A'raj] dari [Abu Hurairah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Nashr bin Ali] telah menceritakan kepada kami [Abdul A'la] dari [Hisyam] dari [Muhammad] dari [Abu Hurairah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Khalid] -yaitu Ibnu Makhlad- dari [Muhammad bin Ja'far] dari [al-Ala'] dari [bapaknya] dari [Abu Hurairah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakar]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [al-Hulwani] dan [Ibnu Rafi'] keduanya berkata, telah menceritakan kepada kami [Abdurrazzaq] keduanya berkata, telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ziyad] bahwa [Tsabit] mantan budak Abdurrahman bin Zaid, telah mengabarkan kepadanya, bahwa dia mendengar [Abu Hurairah] dalam riwayat mereka semua dari Nabi shallallahu 'alaihi wasallam, "Berkenaan dengan hadits ini, semuanya berkata, 'Hingga dia mencucinya', dan tidak ada seorang pun dari mereka yang mengatakan 'tiga kali', kecuali yang telah disebutkan dari riwayat Jabir, Ibnu al-Musayyab, Abu Salamah, Abdullah bin Syaqiq, Abu Shalih, dan Abu Razin, karena dalam hadits mereka terdapat penyebutan kalimat 'tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>647</td></tr><tr><td>Arabic No</td><td>278.05</td></tr><tr><td>Reference</td><td>Book 2 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис был передан по другим цепочкам передатчиков со слов Абу Хурайры, в котором сообщается, что Пророк ﷺ упомянул о мытье рук, но не велел мыть их три раза. Однако в версиях, переданных от Джабира, Ибн Мусаййиба, Абу Салямы, ‘Абдуллаха ибн Шакыка, Абу Салиха и Абу Разина есть упоминание о трёхкратном мытье
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>647</td></tr><tr><td>Arabic No</td><td>278.05</td></tr><tr><td>Reference</td><td>Book 2 Hadith 113</td></tr></tbody></table></div>
 

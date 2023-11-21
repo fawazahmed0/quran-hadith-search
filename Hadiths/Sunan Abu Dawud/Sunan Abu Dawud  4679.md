@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'Umar reported the Messenger of Allah (ﷺ) as saying:I did not see
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Bakr bin Mudhar] dari [Ibnul Had] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwa Rasulullah bersabda: "Aku tidak pernah melihat seorang yang mempunyai hati, yang agama dan akalnya kurang selain kalian (para wanita)." Seorang wanita bertanya, "Apakah kekurangan para wanita dalam hal agama dan akal?" beliau bersabda: "Kurangnya akal itu adalah, bahwa persaksian dua orang wanita sebanding dengan persaksian seorang laki-laki. Sedangkan kurangnya agama kalian adalah, bahwa salah seorang dari kalian berbuka di sebagian ramadhan (karena haidh atau menyusui) dan tidak mengerjakan shalat selama beberapa hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Пророк ﷺ стал обращаться (во время молитвы) в сторону Каабы (после того, как люди обращались в сторону Иерусалима), люди спросили: «О Посланник Аллаха, а как же те, кто до самой смерти молился, обратившись в сторону Иерусалима?» Тогда Всевышний Аллах ниспослал: «Аллах не оставит без вознаграждения их веру…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
 

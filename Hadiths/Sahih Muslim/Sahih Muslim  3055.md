@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Tufayl a interrogé Ibn 'Abbâs, en disant : "Est-ce que la marche rapide pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Fudlail bin Husain Al Jahdari] Telah menceritakan kepada kami [Abdul Wahid bin Ziyad] Telah menceritakan kepada kami [Al Jurairi] dari [Abu Thufail] ia berkata; Aku pernah bertanya kepada [Ibnu Abbas], "Tahukah Anda tentang berlari-lari kecil sebanyak tiga kali putaran di Baitullah dan berjalan empat kali putaran, apakah hal tersebut merupakan ajaran Rasulullah shallallahu 'alaihi wasallam? sebab, kaum Anda menganggap bahwa hal tersebut adalah ajaran Nabi shallallahu 'alaihi wasallam?." Ibnu Abbas menjawab, "Mereka benar, namun mereka juga telah berdusta." Aku bertanya, "Apa maksud ungkapanmu, bahwa mereka benar, namun dusta?" Ibnu Abbas menjawab, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah datang ke Makkah, lalu orang-orang Musyrik mengatakan bahwa Muhammad dan para sahabatnya tidak mampu thawaf di Baitullah karena lemah. Orang-orang musyrik itu dengki kepada Rasulullah shallallahu 'alaihi wasallam." Ibnu Abbas melanjutkan; "Karena itu, Rasulullah shallallahu 'alaihi wasallam memerintahkan para sahabat agar berlari-lari kecil tiga kali putaran dan empat kali putaran berjalan biasa." Aku bertanya lagi kepada Ibnu Abbas, "Beritahukanlah aku tentang Sa'i antara Shafa dan Marwa dengan berkendaraan. Apakah hal tersebut juga termasuk ajaran Rasulullah shallallahu 'alaihi wasallam? Sebab, kaummu menganggap bahwa hal tersebut juga termasuk sunnah?." Ibnu Abbas menjawab, "Mereka benar, tapi mereka dusta." Aku bertanya, "Apa maksudmu?" Ibnu Abbas menjawab, "Rasulullah shallallahu 'alaihi wasallam pernah dikerumuni orang banyak, mereka mengatakan inilah Nabi Muhammad, inilah Nabi Muhammad, sehingga perempuan-perempuan keluar rumah." Ibnu Abbas melanjutkan, "Pada awal mula beliau lakukan (sa'i), tidak banyak orang-orang dihadapan Rasulullah shallallahu 'alaihi wasallam berdatangan, hingga ketika jumlah manusia semakin banyak, maka beliau melakukan sa'i dengan naik kendaraan, namun melakukan sa'i dengan berjalan kaki dan berlari-lari kecil adalah lebih utama." Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yazid] telah mengabarkan kepada kami [Al Jurairi] dengan isnad ini, semisalnya, hanya saja ia menyebutkan; "Penduduk Makkah adalah suatu kaum yang pedengki (Qaumu Hasadin)." Dan ia tidak menyebutkan; "Yahsudun (terus menerus mereka dengki)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3055</td></tr><tr><td>Arabic No</td><td>1264.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3055</td></tr><tr><td>Arabic No</td><td>1264.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 261</td></tr></tbody></table></div>
 

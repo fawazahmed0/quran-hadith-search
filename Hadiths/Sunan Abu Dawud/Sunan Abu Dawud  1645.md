@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: If one who is afflicted wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdullah bin Daud], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Abdul Malik bin Habib Abu Marwan], telah menceritakan kepada Kami [Ibnu Al Mubarak], dan ini adalah haditsnya, dari [Basyir bin Salman] dari [Sayyar Abu Hamzah], dari [Thariq] dari [Ibnu Mas'ud], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barangsiapa yang tertimpa kemiskinan lalu menampakkannya kepada manusia, maka kemiskinannya tidak hilang, dan barangsiapa yang menampakkannya kepada Allah, maka Allah akan mempercepat kekayaan baginya, baik dengan kematian yang segera atau dengan kekayaan yang cepat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1645</td></tr><tr><td>Arabic No</td><td>1645</td></tr><tr><td>Reference</td><td>Book 9 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Если тот, кого постигнет бедность станет обращаться за помощью к людям, он никогда не избавится от своей бедности. Тому же, кто обратится с этим за помощью к Аллаху, то Аллах поспешит обогатить его, либо путём скорой смерти, либо путем скорого обогащения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1645</td></tr><tr><td>Arabic No</td><td>1645</td></tr><tr><td>Reference</td><td>Book 9 Hadith 90</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Aufa reported:The Messenger of Allah (ﷺ) used to recite this suppl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ubaid bin al-Hasan] dia berkata, "Saya mendengar [Abdullah bin Abi Aufa] dia berkata, "Dahulu Rasulullah shallallahu'alaihiwasallam berdoa dengan doa ini, 'Ya Allah, Rabb kami, segala puji bagimu sepenuh langit dan bumi serta sepenuh sesuatu yang Engkau kehendaki setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1068</td></tr><tr><td>Arabic No</td><td>476.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн Аби Ауфа говорил: «Посланник Аллаха ﷺ взывал к Аллаху, говоря эти слова: “О Аллах, Господь наш, хвала Тебе, и пусть (эта хвала) наполнит собой небеса, землю и то, что ещё Ты пожелаешь после этого”» /Аллахумма Раббана лякяль-хамду, мильъа-с-самавати, ва мильъа-ль-арды, ва мильъа ма шиъта мин шайъин ба‘ду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1068</td></tr><tr><td>Arabic No</td><td>476.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 230</td></tr></tbody></table></div>
 

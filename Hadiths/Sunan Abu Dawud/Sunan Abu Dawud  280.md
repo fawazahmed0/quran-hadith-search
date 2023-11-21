@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Fatimah daughter of AbuHubaysh: Urwah ibn az-Zubayr said that Fatimah d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Hammad] telah mengabarkan kepada kami [Al-Laits] dari [Yazid bin Abi Habib] dari [Bukair bin Abdillah] dari [Al-Mundzir bin Abdillah] dari [Urwah bin Az-Zubair] bahwasanya [Fathimah binti Abi Hubaisy] telah menceritakan kepadanya, bahwa dia pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam, dia mengadukan tentang darah (penyakit). Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Itu hanyalah darah penyakit, maka tunggulah, apabila haidmu telah datang, maka jangan kerjakan shalat. Apabilah haidmu telah berlalu, maka bersucilah, kemudian kerjakanlah shalat antara kedua waktu haidmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>280</td></tr><tr><td>Reference</td><td>Book 1 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урвы ибн аз-Зубайра о том, что Фатима бинт Абу Хубайш рассказала ему, что она спросила Посланника Аллаха ﷺ и пожаловалась ему на кровотечение. Посланник Аллаха ﷺ сказал ей: «Поистине, это вена. Посмотри, и когда появится менструация, не молись. А когда у тебя закончится менструация, очищайся и затем совершай молитву между двумя менструальными периодами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>280</td></tr><tr><td>Reference</td><td>Book 1 Hadith 280</td></tr></tbody></table></div>
 

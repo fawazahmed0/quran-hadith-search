@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : Mes compagnons qui s'étaient embarqués
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu 'Amir Al Asy'ary] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dia berkata; "Aku dan para sahabatku yang bersamaku di perahu singgah di Baqi' But-han, ketika itu Rasulullah shallallahu 'alaihi wasallam berada di Madinah. Setiap malam, beberapa orang diantara mereka secara bergantian mengunjungi Rasulullah shallallahu 'alaihi wasallam." Abu Musa berkata; "Kebetulan aku bersama kawan-kawanku menemui Rasulullah shallallahu 'alaihi wasallam yang saat itu beliau tengah sibuk terhadap urusannya, hingga beliau mengakhirkan shalat isya' padahal telah berlalu separah malam, kemudian Rasulullah shallallahu 'alaihi wasallam datang dan mengimami mereka, Setelah beliau tunaikan shalatnya, beliau bersabda kepada hadirin; "Tunggu sebentar, saya akan menyampaikan sesuatu untuk kalian, bergembiralah, diantara nikmat Allah yang diberikan-Nya untuk kalian, tidak ada seseorang pun yang mengikuti shalat ini selain kalian, -atau beliau bersabda dengan redaksi- "Tak ada seorang pun selain kalian yang mengikuti shalat waktu ini, " saya tidak ingat lagi mana yang benar dari keduanya. Abu Burdah berkata; Abu Musa berkata; "Maka kami pulang dengan kegembiraan atas segala yang kami dengar dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1451</td></tr><tr><td>Arabic No</td><td>641</td></tr><tr><td>Reference</td><td>Book 5 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «(В своё время) я вместе со своими товарищами, прибывшими со мной на корабле остановился в Бакы’ Бутхан. Что касается Посланника Аллаха ﷺ, то он тогда находился в Медине, и каждый вечер некоторые из нас по очереди приходили к нему ко времени вечерней молитвы. Однажды, когда я вместе со своими товарищами пришёл к Посланнику Аллаха ﷺ, оказалось, что из-за занятости чем-то он отложил молитву до середины ночи, а потом вышел (к людям) и совершил с ними молитву. Закончив молиться, он сказал присутствовавшим: “Не спешите и радуйтесь, ибо, поистине, милостью Аллаха по отношению к вам является то, что никто из людей, кроме вас, не молится в это время!”» (Или же он сказал: «…никто, кроме вас, не молился в это время!»)(Передатчик этого хадиса сказал): «Я не знаю, что именно из этого он сказал».Абу Муса сказал: «И мы вернулись (к себе), радуясь тому, что услышали от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1451</td></tr><tr><td>Arabic No</td><td>641</td></tr><tr><td>Reference</td><td>Book 5 Hadith 284</td></tr></tbody></table></div>
 

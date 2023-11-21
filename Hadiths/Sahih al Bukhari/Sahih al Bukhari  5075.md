@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah: We used to participate in the holy battles led by Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5075</td></tr><tr><td>Arabic No</td><td>5075</td></tr><tr><td>Reference</td><td>Book 67 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Когда мы участвовали в военных походах вместе с Посланником Аллаха ﷺ у нас не было ничего (из имущества), и (однажды) мы спросили (его): “Не оскопить ли нам себя?” Однако он запретил нам делать это и разрешил заключать (временные) браки(, позволив отдавать женщинам в качестве махра) одежду», а потом (‘Абдуллах) прочитал нам (аят, в котором сказано): «О те, которые уверовали! Не запрещайте блага, которые Аллах сделал дозволенными для вас, и не преступайте границы дозволенного. Воистину, Аллах не любит преступников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5075</td></tr><tr><td>Arabic No</td><td>5075</td></tr><tr><td>Reference</td><td>Book 67 Hadith 13</td></tr></tbody></table></div>
 

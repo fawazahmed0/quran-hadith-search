@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said The Prophet (ﷺ) was asked as to which of the creatures could 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Salim] dari [ayahnya] Nabi shallallahu 'alaihi wasallam ditanya mengenai apa saja yang boleh dibunuh orang yang berihram dari binatang melata? Kemudian beliau berkata: "Lima binatang yang tidak ada dosa bagi orang yang membunuhnya di luar tanah haram dan di tanah haram, yaitu; kalajengking, tikus, rajawali, gagak, dan anjing buas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1199)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1846</td></tr><tr><td>Arabic No</td><td>1846</td></tr><tr><td>Reference</td><td>Book 11 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца (Абдуллаха ибн Умара, да будет доволен Аллах им и его отцом), что Пророка ﷺ спросили о том, каких животных разрешается убивать облачённому в ихрам, и он ответил: «Убийство пяти видов животных не является грехом ни в состоянии ихрама, ни в обычном состоянии. Это скорпион, ворон, мышь, коршун и нападающая на людей собака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1199)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1846</td></tr><tr><td>Arabic No</td><td>1846</td></tr><tr><td>Reference</td><td>Book 11 Hadith 126</td></tr></tbody></table></div>
 

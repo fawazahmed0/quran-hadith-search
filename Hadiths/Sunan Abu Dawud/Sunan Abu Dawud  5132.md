@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah: Make intercession, you will be rewarded, for I purposely del
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Ahmad bin Amru bin As Sarh] keduanya berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru bin Dinar] dari [Wahb bin Munabbih] dari [saudaranya] dari [Mu'awiyah] berkata, "Berilah syafaat (kemudahan) maka engkau akan mendapat pahala, sungguh aku sangat menginginkan perkara ini hingga aku menangguhkannya. Maka setiap kali kalian memeberi syafaat maka kalian akan mendapat pahala. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Berilah syafaat maka kalian akan mendapat pahala." Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami [Sufyan] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5132</td></tr><tr><td>Arabic No</td><td>5132</td></tr><tr><td>Reference</td><td>Book 43 Hadith 360</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5132</td></tr><tr><td>Arabic No</td><td>5132</td></tr><tr><td>Reference</td><td>Book 43 Hadith 360</td></tr></tbody></table></div>
 

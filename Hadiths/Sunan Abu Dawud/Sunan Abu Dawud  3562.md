@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Safwan ibn Umayyah: The Messenger of Allah (ﷺ) borrowed coats of mail
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad] dan [Salamah bin Syabib] mereka berkata; telah menceritakan kepada kami [Yazid bin Harun] telah menceritakan kepada kami [Syarik] dari [Abdul Aziz bin Rufai'] dari [Umayyah bin Shafwan bin Umayyah] dari [Ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah meminjam beberapa baju besi saat perang Hunain, lalu ia berkata, "Apakah ini suatu perampasan wahai Muhammad!" Beliau menjawab: "Tidak, melainkan pinjaman yang akan dijamin." Abu Daud berkata, "Ini adalah riwayat Yazid di Baghdad, ketika berada di Wasith pada periwayatannya terjadi perubahan dan tidak seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562</td></tr><tr><td>Arabic No</td><td>3562</td></tr><tr><td>Reference</td><td>Book 24 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сафвана ибн Умайи, да будет доволен им Аллах, что Посланник Аллаха ﷺ занял у него кольчуги перед походом на Хунайн и (будучи немусульманином) он спросил: «Ты отнимаешь их у меня, о Мухаммад?» Посланник Аллаха ﷺ сказал: «Нет, беру в пользование и обязуюсь возместить, если с ними что-то случится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562</td></tr><tr><td>Arabic No</td><td>3562</td></tr><tr><td>Reference</td><td>Book 24 Hadith 147</td></tr></tbody></table></div>
 

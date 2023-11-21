@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I heard Muhammad saying, "Whoever makes a picture in this wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ayyas bin Al Walid] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Sa'id] dia berkata; saya mendengar [An Nadlr bin Anas bin Malik] bercerita kepada Ibnu Abbas, katanya; "Saya pernah berada di sisi [Ibnu Abbas] sementara orang-orang bertanya tanpa menyebutkan Nabi shallallahu 'alaihi wasallam hingga dia di tanya, lantas Ibnu Abbas menjawab: "Barangsiapa menggambar suatu gambar di dunia, maka pada hari Kiamat akan dibebankan baginya untuk meniupkan ruh padahal ia tidak akan mampu meniupkan ruh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5963</td></tr><tr><td>Arabic No</td><td>5963</td></tr><tr><td>Reference</td><td>Book 77 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ сказал: «На того, кто создаст (какое-либо) изображение в этом мире, в День воскресения будет возложена обязанность вдохнуть в него дух, а он не сможет (сделать этого никогда)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5963</td></tr><tr><td>Arabic No</td><td>5963</td></tr><tr><td>Reference</td><td>Book 77 Hadith 179</td></tr></tbody></table></div>
 

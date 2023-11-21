@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Utsman An Naufali] telah menceritakan kepada kami [Abu 'Ashim Ad Dlahak bin Mukhlad] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ziyad bin Sa'd] bahwa [Hilal bin Usamah] telah mengabarkan kepadanya, bahwa [Abu Salamah bin Abdurrahman] telah mengabarkan, bahwa dirinya telah mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kelebihan air tidak boleh dijual agar rumput bisa dijual
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4008</td></tr><tr><td>Arabic No</td><td>1566.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4008</td></tr><tr><td>Arabic No</td><td>1566.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 47</td></tr></tbody></table></div>
 

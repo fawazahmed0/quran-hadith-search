@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asma' daughter of Abu Bakr said:A woman asked the Messenger of Allah (ﷺ): Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Hisyam bin Urwah] dari [Fathimah binti Al Mundzir] dari [Asma'binti Abu Bakr] bahwasanya dia berkata; Ada seorang wanita yang bertanya kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; Wahai Rasulullah! Bagaimanakah yang harus dilakukan salah seorang dari kami apabila kain pakaiannya terkena darah haidl? Beliau menjawab: "Apabila kain salah seorang dari kalian terkena darah haidl, maka gosoklah dengan sedikit air, kemudian percikilah ia dengan air, lalu shalatlah dengan kain tersebut". Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad], (demikian juga diriwayatkan dari jalur lain), Dan telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isa bin Yunus] (demikian juga diriwayatkan dari jalur lain), Dan telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad bin Salamah] dari [Hisyam] dengan makna ini. Dia menyebutkan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Garuklah, kemudian gosoklah dengan air, lalu perciki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (307) Sahih Muslim (291)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>361</td></tr><tr><td>Arabic No</td><td>361</td></tr><tr><td>Reference</td><td>Book 1 Hadith 361</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Фатимы бинт аль-Мунзир о том, что Асмаъ бинт Абу Бакр сказала: «Однажды какая-то женщина задала вопрос Посланнику Аллаха ﷺ. Она сказала: “О Посланник Аллаха, как ты думаешь, что делать одной из нас, если на ее одежду попадет менструальная кровь?” Он сказал: “Если на одежду одной из вас попадет менструальная кровь, пусть растирает ее кончиками пальцев, затем побрызгает водой и потом совершает в ней молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (307) Sahih Muslim (291)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>361</td></tr><tr><td>Arabic No</td><td>361</td></tr><tr><td>Reference</td><td>Book 1 Hadith 361</td></tr></tbody></table></div>
 

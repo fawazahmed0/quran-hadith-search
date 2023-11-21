@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Whenever 'Abdullah entered the Ka'bah, he used to go ahead leavin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [Abu Dlamrah] berkata, telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] bahwa ['Abdullah bin 'Umar], bahwa jika ia masuk ke dalam Ka'bah, ia berjalan ke arah depan sementara pintu Ka'bah di belakangnya. Ia terus berjalah hingga antara dia dan dinding dihadapannya kira-kira tiga hasta, lalu dia shalat di tempat dimana [Bilal] mengabarkan bahwa Nabi shallallahu 'alaihi wasallam pernah shalat di posisi itu." 'Abdullah bin 'Umar berkata, "Dan tidak mengapa jika di antara kami shalat di dalam Ka'bah menghadap kemana saja yang dia mau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>506</td></tr><tr><td>Arabic No</td><td>506</td></tr><tr><td>Reference</td><td>Book 8 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ сообщил, что когда ‘Абдуллах ибн ‘Умар входил внутрь Каабы, он проходил прямо, оставив позади себя дверь, до тех пор, пока не оставалось между ним и той стеной, которая перед ним, приблизительно три локтя. Он направлялся совершить молитву к тому месту, в котором, как сообщил ему Биляль, совершал молитву Пророк ﷺ. (Ибн ‘Умар) сказал: «И нет ничего предосудительного вам в том, если один из вас совершит молитву в любой из сторон Дома (Каабы), где он пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>506</td></tr><tr><td>Arabic No</td><td>506</td></tr><tr><td>Reference</td><td>Book 8 Hadith 153</td></tr></tbody></table></div>
 

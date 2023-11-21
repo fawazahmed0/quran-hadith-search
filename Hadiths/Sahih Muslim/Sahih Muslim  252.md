@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abdullah b. Mas'ud that he observed. I asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah meriwayatkan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [asy-Syaibani] dari [al-Walid bin al-Aizar] dari [Sa'ad bin Iyas Abu Amru asy-Syaibani] dari [Abdullah bin Mas'ud] dia berkata, "Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam, 'Amalah apakah yang paling utama? ' Beliau menjawab: "Shalat pada waktunya." Aku bertanya lagi, "Kemudian apa lagi?" Beliau menjawab: "Berbakti kepada kedua orang tua." Aku bertanya lagi, "Kemudian apa lagi?" Beliau menjawab: "Berjuang pada jalan Allah." Kemudian aku tidak menambah pertanyaan lagi karena semata- menjaga perasaan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>252</td></tr><tr><td>Arabic No</td><td>85.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас’уд сказал: «(Однажды) я спросил Посланника Аллаха ﷺ: “Какое дело является наилучшим?” Он сказал: “Совершаемая своевременно молитва”. Я спросил: “А после этого?” Он сказал: “Проявление почтительности к родителям”. Я спросил: “А после этого?”. Он сказал: “Борьбу на пути Аллаха”, и я перестал (задавать вопросы) только из уважения к нему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>252</td></tr><tr><td>Arabic No</td><td>85.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 158</td></tr></tbody></table></div>
 

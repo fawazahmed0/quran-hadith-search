@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Once during the lifetime of Allah's Messenger (ﷺ), the people of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3582</td></tr><tr><td>Arabic No</td><td>3582</td></tr><tr><td>Reference</td><td>Book 61 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды при жизни Посланника Аллаха ﷺ жителей Медины поразила засуха. И когда Посланник Аллаха ﷺ произносил пятничную проповедь, со своего места поднялся один человек и сказал: “О Посланник Аллаха! Наше имущество пропало и скот погиб, так обратись же к Аллаху с мольбой, чтобы Он напоил нас!” (Посланник Аллаха ﷺ) поднял руки и обратился к Аллаху с мольбой». Анас сказал: «И, хотя до этого небо было чистым как стекло, тут же поднялся ветер, который нагнал тучи, и дождь полил как из ведра так, что нам приходилось ступать по воде, чтобы добраться до своих домов. Дождь лил до следующей пятницы, и тогда поднялся тот же или другой человек и сказал: “О Посланник Аллаха! Дома разрушились, так обратись же к Аллаху с мольбой, чтобы Он удержал дождь!” Посланник Аллаха ﷺ улыбнулся, а потом сказал: “Вокруг нас, а не на нас!” И я посмотрел и увидел, как тучи образовали вокруг Медины подобие венца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3582</td></tr><tr><td>Arabic No</td><td>3582</td></tr><tr><td>Reference</td><td>Book 61 Hadith 91</td></tr></tbody></table></div>
 

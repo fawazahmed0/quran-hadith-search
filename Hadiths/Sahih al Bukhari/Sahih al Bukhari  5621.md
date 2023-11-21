@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) and one of his companions entered
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Shalih] telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Sa'id bin Al Harits] dari [Jabir bin Abdullah] radliallahu 'anhuma bahwa Nabi shallallahu 'alaihi wasallam menemui seorang laki-laki Anshar, waktu itu beliau bersama salah seorang sahabatnya, lalu Nabi shallallahu 'alaihi wasallam dan sahabat yang menyertainya memberi salam kepada laki-laki Anshar tersebut, laki-laki itu pun menjawab salam beliau dan berkata; "Wahai Rasulullah, demi ayah dan ibumu, ini adalah hari yang sangat panas -sementara laki-laki Anshar itu sedang membenahi saluran air di kebunnya, maka Nabi shallallahu 'alaihi wasallam bersabda: "Apakah kamu memiliki air yang tersisa malam ini dalam griba, jika tidak kami akan menghirupnya langsung (dari saluran air tersebut) " -sementara laki-laki itu masih membenahi saluran air di kebunnya-, maka laki-laki Anshar itu berkata; "Wahai Rasulullah, saya masih memiliki air yang tersisa malam ini dalam griba, kemudian ia menuju tendanya dan menuangkan air ke dalam mangkuk, kemudian dia juga memerahkan susu dari kambing piaraannya, lalu Rasulullah shallallahu 'alaihi wasallam meminumnya beliau pun mengulanginya lagi, begitu juga dengan sahabat yang datang bersama beliau turut meminumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5621</td></tr><tr><td>Arabic No</td><td>5621</td></tr><tr><td>Reference</td><td>Book 74 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что (как-то раз) Пророк ﷺ вместе с одним из своих сподвижников зашёл к человеку из ансаров. Пророк ﷺ со своим спутником поприветствовали этого человека, а он ответил на их приветствие и сказал: «О Посланник Аллаха! Пусть мой отец и мать станут выкупом за тебя, это жаркое время суток!» А сам он в это время поливал свой сад. Пророк ﷺ сказал ему: «Если есть у тебя вода, оставшаяся с ночи в бурдюке, (дай нам её), а если нет, мы напьёмся прямо из водоёма». Человек сказал: «О Посланник Аллаха, у меня есть вода, оставшаяся с ночи в бурдюке». Он зашёл под навес, налил воды в чашу, добавив туда козьего молока, и Пророк ﷺ выпил это, а потом напился человек, который пришёл вместе с ним
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5621</td></tr><tr><td>Arabic No</td><td>5621</td></tr><tr><td>Reference</td><td>Book 74 Hadith 47</td></tr></tbody></table></div>
 

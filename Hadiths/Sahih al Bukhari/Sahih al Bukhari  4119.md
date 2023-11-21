@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:On the day of Al-Ahzab (i.e. Clans) the Prophet (ﷺ) said, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Asma'] telah menceritakan kepada kami [Juwairiyah bin Asma'] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda ketika perang al-Ahzab: "Janganlah seseorang melaksanakan shalat 'Ashar kecuali di perkampungan Bani Quraizhah." Setelah berangkat, sebagian dari pasukan melaksanakan shalat 'Ashar di perjalanan sementara sebagian yang lain berkata; "Kami tidak akan shalat kecuali setelah sampai di perkampungan itu." Sebagian yang lain beralasan; "Justru kita harus shalat, karena maksud beliau bukan seperti itu." Setelah kejadian ini diberitahukan kepada Nabi shallallahu 'alaihi wasallam, beliau tidak menyalahkan satu pihakpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4119</td></tr><tr><td>Arabic No</td><td>4119</td></tr><tr><td>Reference</td><td>Book 64 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «В день битвы у рва Пророк ﷺ сказал нам: “Пусть никто не совершает послеполуденную молитву, пока не достигнет (жилищ) бану курайза!” Некоторых из них время послеполуденной молитвы застало в пути, и тогда одни сказали: “Мы не будем совершать молитву, пока не придём туда”, другие же сказали: “Нет, совершим (здесь), ибо не этого он хотел от нас!” А потом об этом рассказали Пророку ﷺ, и он не высказал порицания никому из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4119</td></tr><tr><td>Arabic No</td><td>4119</td></tr><tr><td>Reference</td><td>Book 64 Hadith 163</td></tr></tbody></table></div>
 

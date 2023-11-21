@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Khalid al-Juhani: I heard the Messenger of Allah (ﷺ) say: We
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Muhammad bin Ibrahim At Taimi] dari [Abu Salamah bin Abdurrahman] dari [Zaid bin Khalid Al Juhani] dia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau saja aku tidak memberatkan umatku, niscaya aku benar-benar perintahkan kepada mereka untuk bersiwak di setiap kali shalat." Abu Salamah berkata: Saya melihat Zaid duduk di masjid sementara siwak berada di daun telinganya layaknya pena yang dilatakkan di daun telinga seorang penulis, setiap kali dia berdiri untuk shalat, dia bersiwak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>47</td></tr><tr><td>Arabic No</td><td>47</td></tr><tr><td>Reference</td><td>Book 1 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Халид аль-Джуханий сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Если бы я не обременил (этим) членов своей общины, то повелел бы им использовать зубочистку перед каждой молитвой”».Абу Саляма сказал: «И я видел сидящего в мечети Зейда, у которого зубочистка была вставлена над ухом, (подобно тому) как писарь (ставит свой) карандаш. И всякий раз, когда он вставал на молитву, он пользовался этой зубочисткой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>47</td></tr><tr><td>Arabic No</td><td>47</td></tr><tr><td>Reference</td><td>Book 1 Hadith 47</td></tr></tbody></table></div>
 

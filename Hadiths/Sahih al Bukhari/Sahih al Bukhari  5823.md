@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Khalid bint Khalid:The Prophet (ﷺ) was given some clothes includin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ishaq bin Sa'id] dari ayahnya [Sa'id bin Fulan] yaitu 'Amru bin Sa'id bin Al 'Ash dari [Ummu Khalid binti Khalid] bahwa Nabi shallallahu 'alaihi wasallam pernah diberi kain kecil yang ada renda suteranya. Lalu beliau bertanya: "Menurut kalian siapa yang paling berhak untuk mendapat kain ini?", orang-orang pun diam. Beliau lalu bersabda: "Datangkanlah Ummu Khalid kepadaku." Beliau lantas memberikan kain tersebut dan memakaikannya kepadanya. Setelah itu beliau bersabda: 'Semoga tahan lama hingga Allah menggantinya dengan yang baru (panjang umur).' Beliau kemudian melihat corak berwarna hijau atau kuning yang ada pada kain bersulam sutera tersebut, beliau bersabda: "Wahai Ummu Khalid, ini sanah, sanah." Sanah adalah perkataan bahasa Habasyah yang berarti bagus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5823</td></tr><tr><td>Arabic No</td><td>5823</td></tr><tr><td>Reference</td><td>Book 77 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Умм Халид бинт Халид, что однажды Посланнику Аллаха ﷺ принесли одежду, среди которой была одна маленькая чёрная накидка /хамиса/, и он сказал: «Как вы думаете, на кого мы её наденем?» Но все молчали. Тогда он сказал: «Приведите ко мне Умм Халид». Когда её привели, он надел на неё эту одежду собственной рукой и сказал: «Носи, пока не износишь!» (Потом, глядя на) зелёные или жёлтые узоры на этой накидке, он сказал: «О Умм Халид, это санах!» Слово «санах» означало «прекрасно» на языке эфиопов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5823</td></tr><tr><td>Arabic No</td><td>5823</td></tr><tr><td>Reference</td><td>Book 77 Hadith 40</td></tr></tbody></table></div>
 

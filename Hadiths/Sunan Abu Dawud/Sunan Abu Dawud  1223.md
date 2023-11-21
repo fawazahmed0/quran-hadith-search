@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hafs b. 'Asim:I accompanied Ibn 'Umar on the way (on a journey). He led
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Al Qa'nabi] telah menceritakan kepada kami [Isa bin Hafsh bin 'Ashim bin Umar bin Khattab] dari [ayahnya] dia berkata; "Aku pernah menemani Ibnu Umar dalam suatu perjalanan." Hafsh berkata; "lalu Ibnu Umar melaksanakan shalat dua raka'at bersama kami, Kemudian dia menghadap, ketika dia melihat orang-orang berdiri, dia berkata; "Apa yang di perbuat mereka?" Jawabku; "Mereka sedang mengerjakan shalat sunnah." [Ibnu Umar] berkata; "Sekiranya aku mengerjakan shalat sunnah, tentu aku akan menyempurnakan shalatku. Wahai anak saudaraku, Sesungguhnya aku pernah menyertai Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, namun beliau tidak pernah menambah dua raka'at hingga Allah Azza Wa Jalla mewafatkannya, aku juga pernah menyertai Abu Bakar, namun dia tidak pernah menambah dua raka'at hingga Allah Azza Wa Jalla mewafatkannya, aku juga menyertai Umar, namun dia tidak pernah menambah dua raka'at hingga Allah Ta'ala mewafatkannya, aku juga pernah menyertai Utsman, namun dia tidak pernah menambah dua raka'at hingga Allah Ta'ala mewafatkannya, sungguh Allah Azza Wa Jalla telah berfirman; "Sesungguhnya Telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu." QS Al Ahzab;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1102) Sahih Muslim (689)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1223</td></tr><tr><td>Arabic No</td><td>1223</td></tr><tr><td>Reference</td><td>Book 4 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хафса ибн ‘Асыма ибн ‘Умара ибн аль-Хаттаба, да будет доволен Аллах ими всеми: «Как-то я сопровождал Ибн ‘Умара, и он совершил с нами молитву в два рак‘ата, после чего повернулся и увидел стоявших людей. Он спросил: “Что они делают?” Я ответил: “Совершают дополнительную молитву”. Он сказал: “Если бы я совершал дополнительную молитву, то и свою обязательную молитву я совершил бы полностью! О сын брата моего! Я сопровождал Посланника Аллаха ﷺ в путешествиях, и он совершал только молитву в два рак‘ата и ничего больше до тех пор, пока Всемогущий и Великий Аллах не забрал его. И я сопровождал Абу Бакра в путешествиях, и он совершал только молитву в два рак‘ата и ничего больше до тех пор, пока Всемогущий и Великий Аллах не забрал его. И я сопровождал ‘Умара в путешествиях, и он совершал только молитву в два рак‘ата и ничего больше до тех пор, пока Всевышний Аллах не забрал его. И я сопровождал ‘Усмана в путешествиях, и он совершал только молитву в два рак‘ата и ничего больше до тех пор, пока Всевышний Аллах не забрал его… А Всемогущий и Великий Аллах сказал: “Поистине, в посланнике Аллаха был благой пример для вас” (сура “аль-Ахзаб”, аят 21)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1102) Sahih Muslim (689)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1223</td></tr><tr><td>Arabic No</td><td>1223</td></tr><tr><td>Reference</td><td>Book 4 Hadith 26</td></tr></tbody></table></div>
 

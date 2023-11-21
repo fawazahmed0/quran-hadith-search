@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] dan [Sa'id bin Manshur] serta [Musaddad], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Manshur Al Hajabi], telah menceritakan kepadaku [pamanku], dari [ibuku yaitu Shafiyyah binti Syaibah], ia berkata; aku mendengar [Al Aslamiyyah] berkata; aku katakan kepada [Utsman]; apa yang Rasulullah shallallahu 'alaihi wasallam katakan kepadamu ketika beliau memanggilmu? Ia berkata; aku lupa untuk memerintahkanmu agar menutupi dua tanduk (kambing), sesungguhnya tidak selayaknya di Ka'bah terdapat sesuatu yang menyibukkan orang yang melakukan shalat. Ibnu As Sarh berkata; pamanku adalah Musafi' bin Syaibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2030</td></tr><tr><td>Arabic No</td><td>2030</td></tr><tr><td>Reference</td><td>Book 11 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сафийя бинт Шейба передаёт, что она слышала, как одна женщина из племени Аслям рассказывала: Я спросила ‘Усмана [ибн Тальху]: «Что сказал тебе Посланник Аллаха ﷺ когда позвал тебя?» Он ответил: «Он сказал: “Я забыл попросить тебя завесить рога, ибо не должно быть в Доме ничего такого, что отвлекало бы молящегося”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2030</td></tr><tr><td>Arabic No</td><td>2030</td></tr><tr><td>Reference</td><td>Book 11 Hadith 310</td></tr></tbody></table></div>
 

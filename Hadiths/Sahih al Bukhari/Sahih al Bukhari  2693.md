@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:Once the people of Quba fought with each other till they 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah] telah menceritakan kepada kami ['Abdul 'aziz bin 'Abdullah Al Uwaisiy] dan [Ishaq bin Muhammad Al Farwiy] keduanya berkata, telah menceritakan kepadaku [Muhammad bin Ja'far] dari [Abu Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] bahwa penduduk Quba' telah bertikai hingga saling melempar dengan batu, lalu Rasulullah shallallahu 'alaihi wasallam dikabarkan tentang peristiwa itu, maka Beliau bersabda: "Mari kalian pergi bersama kami untuk mendamaikan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2693</td></tr><tr><td>Arabic No</td><td>2693</td></tr><tr><td>Reference</td><td>Book 53 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да, да будет доволен им Аллах, о том, что (однажды) жители Кубы подрались между собой и даже стали бросаться камнями. Об этом сообщили Посланнику Аллаха ﷺ и он сказал (своим сподвижникам): «Пойдёмте с нами(, чтобы) примирить их друг с другом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2693</td></tr><tr><td>Arabic No</td><td>2693</td></tr><tr><td>Reference</td><td>Book 53 Hadith 4</td></tr></tbody></table></div>
 

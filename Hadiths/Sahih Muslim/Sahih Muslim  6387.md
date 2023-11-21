@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bari' b. 'Azib reported:I heard Allah's Messenger (ﷺ) as saying: Hassan b. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari ['Adi] yaitu Ibnu Tsabit dia berkata; 'Aku mendengar [Al Barra bin 'Azib] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam berkata kepada Hassan bin Tsabit; 'Hinakanlah orang-orang kafir dengan syairmu hai Hassan! Sesungguhnya Jibril selalu menyertaimu." Telah menceritakannya kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Abu Bakr bin Nafi']; Telah menceritakan kepada kami [Ghundar]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Basysyar]; Telah menceritakan kepada kami [Muhammad bin Ja'far] dan ['Abdur Rahman] seluruhnya dari [Syu'bah] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6387</td></tr><tr><td>Arabic No</td><td>2486.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6387</td></tr><tr><td>Arabic No</td><td>2486.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 217</td></tr></tbody></table></div>
 

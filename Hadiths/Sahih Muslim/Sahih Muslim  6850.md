@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Malik reported on the authority of his father that when a person embraced Is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Azhar Al Wasithi] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Abu Malik Al Asyja'i] dari [bapaknya], dia berkata; Apabila ada seseorang yang masuk Islam, Nabi shallallahu 'alaihi wasallam mengajarinya tentang shalat kemudian disuruh untuk membaca do'a: Allaahummaghfir lii warhamnii wahdinii wa'aafini warzuqnii'. (Ya Allah, ampunilah aku, kasihanilah aku, tunjukkanlah aku, sehatkanlah aku dan anugerahkanlah aku rizki)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6850</td></tr><tr><td>Arabic No</td><td>2697.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6850</td></tr><tr><td>Arabic No</td><td>2697.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 45</td></tr></tbody></table></div>
 

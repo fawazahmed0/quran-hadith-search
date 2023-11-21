@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad reported that some (persons) stated with a sense of pride and some disc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] dan [Ya'qub bin Ibrahim Ad Dauraqi] semuanya dari [Ibnu Ulaiyah], teks milik Ya'qub, keduanya berkata: Telah menceritakan kepada kami [Isma'il bin Ulaiyah] telah mengkhabarkan kepada kami [Ayub] dari [Muhammad] berkata: Mungkin mereka saling membangga-banggakan diri atau menyebut-nyebut bahwa kaum lelaki lebih banyak disurga dari pada kaum wanita, lalu [Abu Hurairah] berkata: Bukankah Abu Al Qasim Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya golongan pertama yang masuk surga wujudnya seperti bulan di malam purnama, golongan selanjutnya wujudnya seperti bintang paling terang di langit dan setiap lelaki diantara mereka memiliki dua istri, tulang betis keduanya terlihat dari baik daging dan disurga tidak ada orang bujang." Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] dari [Ayub] dari [Ibnu Sirin] berkata: Kaum lelaki dan perempuan berbantah-bantahan siapa diantara mereka yang terbanyak disurga, mereka bertanya kepada Abu Hurairah lalu ia menjawab: Abu Al Qasim Shallallahu 'alaihi wa Salam bersabda seperti hadits Ibnu Ulaiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7147</td></tr><tr><td>Arabic No</td><td>2834.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7147</td></tr><tr><td>Arabic No</td><td>2834.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 16</td></tr></tbody></table></div>
 

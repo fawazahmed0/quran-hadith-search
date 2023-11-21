@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Regarding the Verse: 'Those whom they call upon (worship) (li
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Khalid] Telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Ibrahim] dari [Abu Ma'mar] dari ['Abdullah radliallahu 'anhu] mengenai firman Allah: Orang-orang yang mereka seru itu, mereka sendiri mencari jalan kepada Tuhan mereka.., (Al Isra: 57). Abdullah berkata; 'Sebagian kelompok dari bangsa Jin disembah manusia. Lalu bangsa jin tersebut masuk Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4715</td></tr><tr><td>Arabic No</td><td>4715</td></tr><tr><td>Reference</td><td>Book 65 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал об аяте «Те, к кому они взывают с мольбой, сами ищут близости к своему Господу…»: «Некоторые люди поклонялись джиннам, но джинны приняли ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4715</td></tr><tr><td>Arabic No</td><td>4715</td></tr><tr><td>Reference</td><td>Book 65 Hadith 237</td></tr></tbody></table></div>
 

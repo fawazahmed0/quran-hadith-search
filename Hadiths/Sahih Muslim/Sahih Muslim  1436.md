@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umara b. Ruwaiba is reported to have said on the authority of his father:I heard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan [Ishaq bin Ibrahim] semuanya dari [Waki'], [Abu Kuraib] mengatakan; telah menceritakan kepada kami [Waki'] dari [Ibnu Abu Khalid] dan [Mis'ar] dan [Al Bakhtari Ibnul Mukhtar], mereka mendengarnya dari [Abu Bakr bin Imarah bin Ru'aibah] dari [Ayahnya] dia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan masuk neraka seseorang yang shalat sebelum terbit matahari dan sebelum terbenamnya." maksudnya fajar (subuh) dan ashar, lantas seseorang dari penduduk Bashrah berkata; "Apakah engkau mendengar hadis ini dari Rasulullah shallallahu 'alaihi wasallam? Jawabnya; "Benar". laki-laki itu berkata; "Dan saya bersaksi bahwa saya mendengarnya dari Rasulullah shallallahu 'alaihi wasallam, kedua telingaku mendengarnya, dan hatiku mencermatinya dengan serius
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1436</td></tr><tr><td>Arabic No</td><td>634.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Бакра ибн ‘Умары ибн Руайбы, что (однажды) его отец сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Никогда не войдёт в Огонь ни один (из тех), кто станет молиться до восхода солнца и перед его закатом”, имея в виду утреннюю и послеполуденную молитвы». Какой-то человек из Басры спросил его: «Ты сам слышал это от Посланника Аллаха ﷺ?» (Мой отец) ответил: «Да». Тогда этот человек сказал: «И я свидетельствую, что слышал это от Посланника Аллаха ﷺ. (Его слова) слышали мои уши, и сохранило моё сердце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1436</td></tr><tr><td>Arabic No</td><td>634.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 269</td></tr></tbody></table></div>
 

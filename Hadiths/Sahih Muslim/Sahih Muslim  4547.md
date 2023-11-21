@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abdullah that a woman was found killed in on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata; telah mengabarkan kepada kami [Al Laits]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Nafi'] dari [Abdullah] bahwa dalam salah satu peperangan Rasulullah shallallahu 'alaihi wasallam pernah ditemukan jasad seorang wanita, maka Rasulullah shallallahu 'alaihi wasallam pun melarang pembunuhan wanita dan anak-anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4547</td></tr><tr><td>Arabic No</td><td>1744.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4547</td></tr><tr><td>Arabic No</td><td>1744.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 28</td></tr></tbody></table></div>
 

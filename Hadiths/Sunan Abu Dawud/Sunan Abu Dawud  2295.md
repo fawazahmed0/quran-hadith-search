@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Qasim ibn Muhammad and Sulayman ibn Yasar reported:Yahya ibn Sa'id ibn al-'As
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Yahya bin Sa'id] dari [Al Qasim bin Muhammad] serta [Sulaiman bin Yasar] bahwa ia mendengar mereka berdua menyebutkan bahwa Yahya bin Al 'Ash telah mencerai anak wanita Abdurrahman bin Al Hakam sama sekali. Kemudian Abdurrahman memindahnya, lalu [Aisyah] radliallahu 'anha mengirimkan surat kepada Marwan bin Al Hakam yang merupakan pemimpin Madinah, Aisyah berkata; bertakwalah kepada Allah, dan kembalikan wanita tersebut kerumahnya! Kemudian Marwan berkata dalam hadits Sulaiman; sesungguhnya aku tidak mampu mencegah Abdurrahman. Dan Marwan di dalam hadits Al Qasim berkata; tidakkah telah sampai kepadamu permasalahan mengenai Fathimah binti Qais? Aisyah berkata; tidak mengapa engkau tidak mengingat hadits Fathimah. Marwan berkata; apabila menurutmu hal tersebut adalah buruk maka cukuplah bagimu, keburukan yang akan terjadi pada mereka berdua (apabila anak Abdurrahman tinggal di rumah Yahya bin Al 'Ash)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5321، 5322)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2295</td></tr><tr><td>Arabic No</td><td>2295</td></tr><tr><td>Reference</td><td>Book 13 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Касим ибн Мухаммад и Сулейман ибн Ясар упоминали о том, что Яхья ибн Са‘ид ибн аль-‘Ас дал окончательный развод дочери ‘Абду-р-Рахмана ибн аль-Хакама, и ‘Абду-р-Рахман перевёз её в другой дом. ‘Аиша, да будет доволен ею Аллах, послала человека к Мервану ибн аль-Хакаму, который был наместником Медины, со словами: «Побойся Аллаха и верни женщину в её дом!» Мерван послал ей ответ: «‘Абду-р-Рахман одолел меня». А в другой версии говорится: «Разве ты не слышала историю Фатимы бинт Кайс?» ‘Аиша сказала: «О хадисе Фатимы можешь вообще не вспоминать». Мерван сказал ей в ответ: «Если ты считаешь, (что причиной проведения ‘идды в другом месте могло быть) зло (между Фатимой и родственниками её мужа), то достаточно тебе вспомнить о зле, которое было между этими двоими!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5321، 5322)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2295</td></tr><tr><td>Arabic No</td><td>2295</td></tr><tr><td>Reference</td><td>Book 13 Hadith 121</td></tr></tbody></table></div>
 

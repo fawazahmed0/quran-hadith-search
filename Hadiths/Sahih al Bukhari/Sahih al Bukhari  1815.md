@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin 'Umra:Allah's Messenger (ﷺ) stood beside me at Al-Hudaibiya 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sayf] berkata, telah menceritakan kepada saya [Mujahid] berkata, aku mendengar ['Abdurrahman bin Abu Laila] bahwa [Ka'ab bin 'Ujrah radliallahu 'anhu] berkata: "Rasulullah shallallahu 'alaihi wasallam menghampiriku di Hudaibiyah ketika kepalaku dipenuhi kutu, Beliau berkata: "Barangkali kamu terkena serangga (kutu di kepala)?". Aku jawab: "Benar, wahai Rasulullah". Maka Beliau berkata: "Cukurlah rambutnu". Atau dia berkata: "Ayat ini turun untukku" (QS Al Baqarah ayat 196 yang artinya): ("....Maka barangsiapa dari kalian yang sakit atau tertimpa sesuatu pada kepalanya...) hingga akhir ayat. Maka Nabi shallallahu 'alaihi wasallam berkata: "Laksanakanlah shaum tiga hari atau bershadaqah sebanyak faraq (tiga sha') terhadap enam orang atau berqurban dengan yang mudah buatmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1815</td></tr><tr><td>Arabic No</td><td>1815</td></tr><tr><td>Reference</td><td>Book 27 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б бин ‘Уджра, да будет доволен им Аллах, сказал: «В Худайбийe Посланник Аллаха ﷺ (увидевший, что) с головы у меня сыплются вши, остановился рядом со мной и спросил: “Они мучают тебя?” Я ответил: “Да”. Он сказал: “Тогда побрей себе голову (или: обрейся)”».\n(Ка‘б) сказал: «Тот аят, где сказано: “А если кто-нибудь из вас болен или голова его доставляет ему страдания (, он может обриться), искупив (это) соблюдением поста, или милостыней или жертвоприношением…”, был ниспослан из-за меня. А потом Пророк ﷺ сказал: “Постись три дня, или раздай в качестве милостыни фарак (фиников) шестерым неимущим или принеси в жертву что сможешь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1815</td></tr><tr><td>Arabic No</td><td>1815</td></tr><tr><td>Reference</td><td>Book 27 Hadith 10</td></tr></tbody></table></div>
 

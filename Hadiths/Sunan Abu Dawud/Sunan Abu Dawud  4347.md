@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man from among the companions of the prophet (ﷺ) reported him as saying:The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Hafsh bin Umar] keduanya berkata; telah menceritakan kepada kami [Syu'bah] -dan ini adalah lafadz darinya- dari [Amru bin Murrah] dari [Abu Al Bakhtari] ia berkata, "Telah mengabarkan kepadaku [orang] yang telah mendengarnya dari Nabi shallallahu 'alaihi wasallam, beliau bersabda, sementara Sulaiman menyebutkan, "Telah menceritakan kepadaku seorang laki-laki sahabat Nabi shallallahu 'alaihi wasallam, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sekali-kali manusia tidak akan binasa hingga mereka banyak melakukan kesalahan, atau beliau mengatakan, "hingga mereka mencari dalih dari kesalahan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4347</td></tr><tr><td>Arabic No</td><td>4347</td></tr><tr><td>Reference</td><td>Book 39 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-Бахтари передаёт: «Мне передал тот, кто слышал от Пророка ﷺ (или: человек из числа сподвижников Пророка ﷺ), что Пророк ﷺ сказал: «Люди не погибнут до тех пор, пока (грехи их) не станут оправданием (для вынесенного им приговора)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4347</td></tr><tr><td>Arabic No</td><td>4347</td></tr><tr><td>Reference</td><td>Book 39 Hadith 57</td></tr></tbody></table></div>
 

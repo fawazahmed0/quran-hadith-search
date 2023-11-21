@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Dharr (que Dieu l'agrée) a entendu le Prophète (paix et bénédiction de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abd ash-Shamad bin Abdul Warits] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Husian al-Mu'allim] dari [Ibnu Buraidah] dari [Yahya bin Ya'mar] bahwa [Abu al-Aswad] telah menceritakan kepadanya dari [Abu Dzar] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang laki-laki yang mengklaim orang lain sebagai bapaknya, padahal ia telah mengetahuinya (bahwa dia bukan bapaknya), maka ia telah kafir. Barangsiapa mengaku sesuatu yang bukan miliknya maka ia bukan dari golongan kami, dan hendaklah dia menempati tempat duduknya dari neraka. Dan barangsiapa memanggil seseorang dengan kekufuan, atau berkata, 'Wahai musuh Allah' padahal tidak demikian, kecuali perkataan tersebut akan kembali kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>61</td></tr><tr><td>Reference</td><td>Book 1 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Зарра, что он слышал, как Посланник Аллаха ﷺ сказал: «Любой утверждающий, что он является сыном не своего отца, зная об этом, неизбежно впадает в неверие, притязающий на то, что ему не принадлежит, не имеет к нам отношения, и пусть он займёт своё место в Огне, что же касается назвавшего какого-либо человека неверным или сказавшего (ему): “О враг Аллаха!”, то если это не так, (слова его) обязательно вернутся к нему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>61</td></tr><tr><td>Reference</td><td>Book 1 Hadith 123</td></tr></tbody></table></div>
 

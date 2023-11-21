@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Explaining the tradition of the Prophet (ﷺ) that the ablution of a person who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarj] telah menceritakan kepada kami [Ibnu Wahb] dari [Ad Darawardi] dia berkata; [Rabi'ah] menyebutkan bahwa tafsir hadits Nabi shallallahu 'alaihi wasallam: "Tidak sah wudhu orang yang tidak menyebut nama Allah padanya", adalah orang yang berwudhu atau mandi janabah tetapi tidak meniatkan wudhu dan mandi janabahnya untuk shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>102</td></tr><tr><td>Arabic No</td><td>102</td></tr><tr><td>Reference</td><td>Book 1 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ад-Дараварди сказал: «И Раби‘а упомянул о том, что толкование (смысла) хадиса Пророка ﷺ: “Не будет принято омовение того, кто не произносил имени Аллаха (перед) ним”, заключается в том, что (речь в нём идёт) о том, кто совершил омовение или искупался, но не имел намерения совершить омовение ни для молитвы, ни искупаться для очищения от полового осквернения /джанаба/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>102</td></tr><tr><td>Arabic No</td><td>102</td></tr><tr><td>Reference</td><td>Book 1 Hadith 102</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Farwa' b. Naufal reported:I asked 'A'isha about the supplication that Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] mereka berkata; telah menceritakan kepada kami ['Abdullah bin Idris] dari [Hushain] dari [Hilal] dari [Farwah bin Naufal] dia berkata; Aku bertanya kepada [Aisyah] tentang do'a yang biasa dibaca oleh Nabi shallallahu 'alaihi wasallam, maka dia menjawab; Beliau membaca: "ALLAHUMMA INNI A'UUDZU BIKA MIN SYARRI MAA 'AMILTU WA SYARRI MAA LAM A'MAL (Ya Allah, aku berlindung kepada-Mu dari keburukan perbuatan yang telah aku lakukan dan yang belum aku lakukan).' Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] mereka berkata; telah menceritakan kepada kami [Ibnu Abu 'Adi] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Muhammad bin 'Amru bin Jabalah] telah menceritakan kepada kami [Muhammad bin Ja'far] keduanya dari [Syu'bah] dari [Hushain] melalui sanad ini dengan Hadits yang serupa. Hanya saja di dalam Hadits Muhammad bin Ja'far menggunakan kalimat; WA MIN SYARRI MAA LAM A'MAL (Dan aku berlindung kepada-Mu dari keburukan perbuatan yang belum aku lakukan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6896</td></tr><tr><td>Arabic No</td><td>2716.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6896</td></tr><tr><td>Arabic No</td><td>2716.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 89</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Humran b. Abban, the freed slave of ‘Uthman, said :I saw ‘ Uthman’ b. ‘A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali Al Hulwani] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Atha' bin Yazid Al Laitsi] dari [Humran bin Aban] mantan sahaya Utsman bin Affan, dia berkata; Saya pernah melihat [Utsman bin Affan] berwudhu, dia menuangkan air pada kedua tangannya tiga kali lalu membasuhnya, kemudian berkumur dan beristinsyaq, lalu membasuh wajahnya tiga kali, membasuh tangan kanannya hingga siku tiga kali, kemudian yang kiri juga demikian, lalu mengusap kepalanya, kemudian membasuh kaki kanannya tiga kali, lalu yang kiri juga demikian, kemudian berkata; Saya pernah melihat Rasulullah shallallahu 'alaihi wasallam berwudhu seperti wudhuku ini, kemudian bersabda: "Barangsiapa yang berwudhu seperti wudhuku ini kemudian shalat dua rakaat yang mana dia tidak membicarakan keduanya pada dirinya, maka Allah akan mengampuni dosa-dosanya yang telah lalu". Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Adh Dhahhak bin Mikhlad] telah menceritakan kepada kami [Abdurrahman bin Wardan] telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] telah menceritakan kepadaku [Humran] dia berkata; Saya pernah melihat [Utsman bin Affan] berwudhu, kemudian dia menyebutkan hadits semisalnya, namun dia tidak menyebutkan tentang berkumur dan beristinsyaq, dan dia dalam hadits tersebut menyebutkan; "dan dia mengusap kepalanya tiga kali kemudian membasuh kedua kakinya tiga kali lalu berkata; Saya pernah melihat Rasulullah shallallahu 'alaihi wasallam berwudhu seperti ini dan bersabda: "Barangsiapa yang berwudhu kurang dari ini maka mencukupunya", dan dia (Abu Salamah) tidak menyebutkan tentang perkara shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1934) Sahih Muslim (226)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>106</td></tr><tr><td>Arabic No</td><td>106</td></tr><tr><td>Reference</td><td>Book 1 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумран ибн Абан, вольноотпущенник ‘Усмана ибн ‘Аффана (да будет доволен им Аллах) сказал: Я видел, как однажды ‘Усман ибн ‘Аффан (да будет доволен им Аллах) совершал омовение. Он налил воду на руки три раза и помыл их, прополоснул рот и нос, затем трижды помыл лицо, затем трижды помыл правую руку вместе с локтем и таким же образом помыл левую руку. Затем он обтёр голову и после этого трижды помыл правую ногу, а затем и левую точно также, после чего сказал: «Я видел, как Посланник Аллаха ﷺ совершил омовение так же, как это сделал я, а затем сказал: “Тому, кто совершит омовение подобное этому моему омовению, а затем совершит молитву из двух рак‘атов, не разговаривая в них с самим собой, Аллах простит предыдущие грехи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1934) Sahih Muslim (226)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>106</td></tr><tr><td>Arabic No</td><td>106</td></tr><tr><td>Reference</td><td>Book 1 Hadith 106</td></tr></tbody></table></div>
 

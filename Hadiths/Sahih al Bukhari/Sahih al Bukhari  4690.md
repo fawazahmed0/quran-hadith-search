@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:'Urwa bin Az-Zubair, Sa'id bin Al-Musaiyab, 'Al-Qama bin Waqqa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] Telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] dia berkata; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Al Hajjaj]; Telah menceritakan kepada kami ['Abdullah bin 'Umar An Numair]; Telah menceritakan kepada kami [Yunus bin Zaid Al Aili] dia berkata; Aku mendengar [Az Zuhri], aku mendengar ['Urwah bin Az Zubair] dan [Sa'id bin Al Musayyab] dan ['Alqamah bin Waqqash] dan ['Ubaidillah bin Abdullah] dari cerita ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam tatkala orang yang memfitnahnya berkata kepadanya dengan semua isu (ghosip) yang mereka sebarluaskan. Lalu Allah menjelaskan akan terbebasnya dirinya dari tuduhan tersebut. Setiap orang menceritakan sebagian dari berita ghosip tersebut. Nabi shallallahu 'alaihi wasallam berkata kepada Aisyah: "Jika kamu tidak melakukannya, maka Allah akan membebaskan kamu dari tuduhan tersebut, tapi jika kamu melakukan dosa, maka meminta ampunlah kepada Allah dan bertaubatlah. Aisyah berkata; 'Demi Allah, aku tidak mendapatkan perumpamaan ini selain sebagaimana Abu Yusuf (Ya'qub) ketika berkata; maka lakukanlah kesabaran yang baik, itulah (kesabaranku). Dan Allah sajalah yang dimohon pertolongan-Nya terhadap apa yang kamu ceritakan." (Yusuf: 18). Kemudian Allah menurunkan ayat: Sesungguhnya orang-orang yang membawa berita bohong itu adalah dari golongan kamu juga. (An Nuur: 11). -hingga sepuluh ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4690</td></tr><tr><td>Arabic No</td><td>4690</td></tr><tr><td>Reference</td><td>Book 65 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что когда клеветники сказали о ней то, что сказали, а затем Аллах оправдал её, Пророк ﷺ сказал ей: «Если ты невиновна, Аллах уже скоро оправдает тебя, если же ты согрешила в чём-либо, попроси у Аллаха прощения и принеси Ему своё покаяние!» ‘Аиша сказала: «Клянусь Аллахом, не могу я найти для вас и себя (подходящего) примера, кроме (слов) отца Йусуфа, который сказал: “(Лучше всего мне проявлять) терпение, и (лишь) к Аллаху (должно) обращаться за помощью от того, что вы утверждаете!”». После этого Аллах ниспослал: «Поистине, те, которые возвели отвратительную ложь, (составляют собой) группу из вас же…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4690</td></tr><tr><td>Arabic No</td><td>4690</td></tr><tr><td>Reference</td><td>Book 65 Hadith 212</td></tr></tbody></table></div>
 

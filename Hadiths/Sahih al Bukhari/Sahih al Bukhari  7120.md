@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Haritha bin Wahb:I heard Allah's Messenger (ﷺ) saying, "Give in chari
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepada kami [Ma'bad] aku mendengar [Haritsah bin Wahb] mengatakan; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Bersedekahlah kalian, sebab akan Datang kepada manusia suatu zaman yang ketika itu seseorang berjalan membawa sedekahnya namun dia tidak menemukan seseorang yang mau menerima sedekahnya." Kata Musaddad, Haritsah adalah saudara Ubaidullah bin Umar seibu, demikian Abu Abdullah mengatakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7120</td></tr><tr><td>Arabic No</td><td>7120</td></tr><tr><td>Reference</td><td>Book 92 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариса ибн Вахб, да будет доволен им Аллах, сказал:\n— Я слышал, как Посланник Аллаха ﷺ сказал: «Подавайте милостыню, ибо настанет для людей такое время, когда будет человек ходить со своей милостыней, и он не найдёт того, кто бы её принял».\nМусаддад сказал: «Хариса (ибн Вахб) является братом ‘Убайдуллаха ибн ‘Умара по его матери» Слова (Мусаддада) сказал Абу ‘Абдуллах (аль-Бухари)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7120</td></tr><tr><td>Arabic No</td><td>7120</td></tr><tr><td>Reference</td><td>Book 92 Hadith 67</td></tr></tbody></table></div>
 

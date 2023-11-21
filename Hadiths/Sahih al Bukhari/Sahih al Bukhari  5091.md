@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:A man passed by Allah's Messenger (ﷺ) and Allah s Apostle asked 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] Telah menceritakan kepada kami [Ibnu Abu Hazim] dari [bapaknya] dari [Sahl] ia berkata; Seorang laki-laki lewat di hadapan Rasulullah shallallahu 'alaihi wasallam, maka beliau pun bertanya kepada sahabatnya: "Bagaimana pendapat kalian mengenai orang ini?" mereka menjawab, "Ia begitu berwibawa. Bila ia meminang pasti diterima, dan bila memberi perlindungan pasti akan dipenuhi, dan bila ia berbicara, niscaya akan didengarkan." Beliau kemudian terdiam, lalu lewatlah seorang laki-laki dari fuqara' kaum muslimin, dan beliau pun bertanya lagi: "Lalu bagaimanakah pendapat kalian terhadap orang ini?" mereka menjawab, "Ia pantas bila meminang untuk ditolak, jika memberi perlindungan tak akan digubris, dan bila berbicara niscaya ia tidak didengarkan." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang ini lebih baik daripada seluruh kekayaan dunia yang seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 67 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль, да будет доволен им Аллах, сказал: «(Как-то раз рядом) с посланником Аллаха ﷺ прошёл один богатый человек, и он спросил (своих сподвижников): “Что вы скажете об этом (человеке)”? Они сказали: “(Это — человек,) достойный того, чтобы выдать за него замуж (женщину), если он посватается (к ней), и того, чтобы его заступничество было принято, если он станет заступаться (за кого-нибудь), и того, чтобы его выслушали, если он станет говорить (что-нибудь”. Пророк ﷺ) умолк, а потом мимо прошёл какой-то человек из числа бедных мусульман, и он спросил: “(А) что вы скажете об этом (человеке)?” Они сказали: “(Такой) заслуживает того, чтобы не выдавать за него замуж (женщину), если он посватается (к ней), и того, чтобы не принимать его заступничества, если он станет заступаться (за кого-нибудь), и того, чтобы его не слушали, если он станет говорить (что-нибудь)”. Тогда Посланник Аллаха ﷺ сказал: “Этот (бедняк) лучше всей земли, наполненной такими!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 67 Hadith 29</td></tr></tbody></table></div>
 

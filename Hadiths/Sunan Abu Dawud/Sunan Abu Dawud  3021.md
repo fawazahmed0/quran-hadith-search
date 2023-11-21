@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Al-Abbas ibn AbdulMuttalib brought AbuSufyan ibn Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Yahya bin Adam], telah menceritakan kepada kami [Ibnu Idris] dari [Muhammad bin Ishaq] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam pada saat penaklukan Mekkah beliau didatangi Al Abbas bin Abdul Muththalib dengan membawa Abu Sufyan bin Harb, kemudian Abu Sufyan masuk Islam di daerah Marru Azh zhahran. Al Abbas berkata kepada beliau; wahai Rasulullah, sesungguhnya Abu Sufyan adalah orang yang senang berbangga diri, seandainya anda memberikan sesuatu kepadanya maka lakukanlah! Beliau berkata: "Ya, barang siapa yang memasuki rumah Abu Sufyan maka ia aman dan barang siapa yang menutup pintu rumahnya maka ia aman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «В год покорения Мекки аль-‘Аббас привёл к Посланнику Аллаха ﷺ Абу Суфьяна, и тот принял ислам в Марр-аз-Захране. После этого аль-‘Аббас, да будет доволен им Аллах, сказал: “О Посланник Аллаха, поистине, Абу Суфьян человек гордый, сделай же для него что-нибудь”, и Посланник Аллаха ﷺ сказал: “Хорошо. В безопасности будет тот, кто войдёт в дом Абу Суфьяна, и в безопасности будет тот, кто запрёт за собой двери дома своего”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
 

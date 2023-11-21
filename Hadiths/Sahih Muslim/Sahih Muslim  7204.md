@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Ibn 'Umar but with a slight
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb], [Muhammad bin Al Mutsanna] dan [Ubaidullah bin Sa'id] mereka berkata: Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] telah mengkhabarkan kepadaku [Nafi'] dari [Ibnu Umar] dari nabi Shallallahu 'alaihi wa Salam: "(Yaitu) hari (ketika) manusia berdiri menghadap rabb semesta alam" (Al Muthaffiffiin: 6) beliau bersabda: "Salah seorang dari mereka berdiri di dalam keringatnya hingga ke pertengahan telinganya." Disebutkan dalam riwayat Ibnu Al Mutsanna: Beliau bersabda: "Manusia berdiri" tanpa menyebut: Pada hari. Telah menceritakan kepada kami [Muhammad bin Ishaq AL Musayyibi] telah menceritakan kepada kami [Anas bin Iyadh]. Telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Hafsh bin Maisarah] keduanya dari [Musa bin Uqbah]. Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Khalid Al Ahmar] dan [Isa bin Yunus] dari [Ibnu Aun]. Telah menceritakan kepadaku [Abdullah bin Ja'far bin Yahya] telah menceritakan kepada kami [Ma'nu] telah menceritakan kepada kami [Malik]. Telah menceritakan kepadaku [Abu Nashr At Tammar] telah menceritakan kepada kami [Hammad bin Salamah] dari [Ayyub]. Telah menceritakan kepada kami [Al Hulwani] dan [Abdu bin Humaid] dari [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Shalih], semuanya dari [Nafi'] dari [Ibnu Umar] dari nabi Shallallahu 'alaihi wa Salam dengan makna hadits Abdullah dari Nafi', hanya saja dalam hadits Musa bin Uqbah dan Shalih disebutkan: "Hingga salah seorang dari mereka terbenam dalam keringatnya hingga pertengahan telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7204</td></tr><tr><td>Arabic No</td><td>2862.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7204</td></tr><tr><td>Arabic No</td><td>2862.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 73</td></tr></tbody></table></div>
 

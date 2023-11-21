@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Allah's Messenger (ﷺ) stayed in Mecca for fifteen yea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handzali]; Telah mengabarkan kepada kami [Rauh]; Telah menceritakan kepada kami [Hammad bin Salamah] dari ['Ammar bin Abu 'Ammar] dari [Ibnu 'Abbas] dia berkata; Nabi shallallahu 'alaihi wasallam tinggal di Makkah selama lima belas tahun. Selama tujuh tahun beliau mendengar suara dan melihat sinar. Dan delapan tahun diwahyukan kepada beliau. Dan beliau tinggal di Madinah selama sepuluh tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6104</td></tr><tr><td>Arabic No</td><td>2353.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6104</td></tr><tr><td>Arabic No</td><td>2353.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 162</td></tr></tbody></table></div>
 

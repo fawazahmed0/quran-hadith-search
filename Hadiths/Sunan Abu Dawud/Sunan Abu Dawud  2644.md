@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Miqdad bin Al Aswad reported that he said “Apostle of Allaah(ﷺ) tell me i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Al Laits] dari [Ibnu Syihab] dari ['Atha' bin Yazid? Al Laitsi] dari ['Ubaidullah bin Adi bin Al Khiyar], dari [Al Miqdad bin Al Aswad] bahwa ia telah mengabarkan kepadanya bahwa ia berkata; wahai Rasulullah, bagaimana pendapat engkau apabila aku bertemu orang kafir kemudian ia memerangiku, lalu ia menebas salah satu tanganku dengan pedang, kemudian ia berlindung dariku di sebuah pohon, lalu ia berkata; aku masuk Islam karena Allah. Apakah aku boleh membunuhnya setelah ia mengucapkan hal tersebut wahai Rasulullah? Rasulullah shallallahu 'alaihi wasallam berkata: "Jangan engkau membunuhnya!" Kemudian aku katakan; tapi ia telah memotong tanganku. Rasulullah shallallahu 'alaihi wasallam berkata: "Jangan engkau membunuhnya!" Karena apabila engkau membunuhnya maka ia akan menempati posisimu sebelum engkau membunuhnya dan engkau menempati posisinya sebelum ia mengucapkan kalimat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6869) Sahih Muslim (95)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2644</td></tr><tr><td>Arabic No</td><td>2644</td></tr><tr><td>Reference</td><td>Book 15 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6869) Sahih Muslim (95)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2644</td></tr><tr><td>Arabic No</td><td>2644</td></tr><tr><td>Reference</td><td>Book 15 Hadith 168</td></tr></tbody></table></div>
 

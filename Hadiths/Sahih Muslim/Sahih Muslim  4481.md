@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Verily Allah likes three 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah menyukai bagimu tiga perkara dan membenci tiga perkara; Dia menyukai kalian supaya beribadah kepada-Nya dan tidak menyekutukan-Nya dengan sesuatu apapun, kalian berpegang teguh dengan agama-Nya dan tidak berpecah belah. Dan Allah membenci kalian dari mengatakan sesuatu yang tidak jelas sumbernya, banyak bertanya dan menyia-nyiakan harta." Dan telah menceritakan kepada kami [Syaiban bin Farruh] telah mengabarkan kepada kami [Abu 'Awanah] dari [Suhail] dengan isnad seperti ini, namun dia berkata, 'Dan dia murka terhadap tiga perkara dari kalian', dan tidak menyebutkan, 'dan janganlah kalian berpecah belah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>1715.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Поистине, Аллах желает (, чтобы совершали) вы три (дела) и не желает (, чтобы совершали) вы три (других). Он желает, чтобы вы поклонялись Ему и не поклонялись наряду с Ним ничему иному, и чтобы держались все вы за вервь Аллаха и не разделялись, а не желает Он, чтобы (занимались) вы пересудами, (задавали) множество вопросов и (понапрасну) расточали (свои) средства”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>1715.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 12</td></tr></tbody></table></div>
 

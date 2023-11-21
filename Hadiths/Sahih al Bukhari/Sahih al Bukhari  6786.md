@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Whenever the Prophet (ﷺ) was given an option between two things
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] radliallahu 'anha, mengatakan; "Rasulullah Shallallahu'alaihiwasallam tidak pernah diberi tawaran untuk memilih dua perkara, melainkan beliau memilih yang paling ringan selama tidak mengandung dosa, namun jika mengandung dosa, beliau adalah manusia yang paling jauh darinya. Demi Allah, beliau tidak pernah marah karena kepentingan pribadi, dan jika kehormatan Allah dilanggar, beliau marah karenanyaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6786</td></tr><tr><td>Arabic No</td><td>6786</td></tr><tr><td>Reference</td><td>Book 86 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Если у Пророка ﷺ был выбор между двумя делами, он всегда выбирал наиболее лёгкое из них, если только оно не было греховным, если же было в этом что-то греховное, то он держался от (такого дела) дальше любого из людей. Клянусь Аллахом, он никогда не мстил за себя лично, и только если совершалось что-нибудь запрещённое Аллахом, он мстил за Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6786</td></tr><tr><td>Arabic No</td><td>6786</td></tr><tr><td>Reference</td><td>Book 86 Hadith 15</td></tr></tbody></table></div>
 

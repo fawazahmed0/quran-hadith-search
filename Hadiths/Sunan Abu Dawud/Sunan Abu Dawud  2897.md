@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Hasan reported that Umar asked:Which of your knows what share the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah], dari [Khalid] dari [Yunus], dari [Al Hasan] bahwa Umar berkata; siapakah di antara kalian yang mengetahui berapakah Rasulullah shallallahu 'alaihi wasallam memberikan warisan seorang kakek? Kemudian [Ma'qil bin Yasar] berkata; saya, Rasulullah shallallahu 'alaihi wasallam memberinya seperenam. Umar berkata; bersama siapa? Ma'qil berkata; aku tidak tahu. Umar berkata; engkau tidak tahu, kalau demikian engkau tidak cukup (dalam memberikan persaksian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2897</td></tr><tr><td>Arabic No</td><td>2897</td></tr><tr><td>Reference</td><td>Book 19 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Хасана, что ‘Умар, да будет доволен им Аллах, как-то спросил: «Кто из вас знает, какую долю наследства определил Посланник Аллаха ﷺ для деда?» Ма‘кыль ибн Ясар сказал: «Я. Посланник Аллаха ﷺ определил для него одну шестую». ‘Умар спросил: «Это вместе с кем (из наследников)?» Тот ответил: «Не знаю». ‘Умар воскликнул: «Если ты не знаешь, то какая тогда от этого польза?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2897</td></tr><tr><td>Arabic No</td><td>2897</td></tr><tr><td>Reference</td><td>Book 19 Hadith 13</td></tr></tbody></table></div>
 

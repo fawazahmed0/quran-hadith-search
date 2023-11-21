@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her), Suwaid and Zubair reported Allah's Apostle (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Isma'il]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Suwaid bin Sa'id] telah menceritakan kepada kami [Mu'tamir bin Sulaiman] keduanya dari [Ayyub] dari [Ibnu Abu Mulaikah] dari [Abdullah bin Zubair] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda. Sedangkan [Suwaid] dan [Zuhair] mengatakan; Sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: "Tidak menjadi mahram kalau hanya sekali atau dua kali sedotan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3590</td></tr><tr><td>Arabic No</td><td>1450</td></tr><tr><td>Reference</td><td>Book 17 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3590</td></tr><tr><td>Arabic No</td><td>1450</td></tr><tr><td>Reference</td><td>Book 17 Hadith 23</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdourrahmân Ibn 'Abî Bakr (que Dieu l'agrée), Nous étions cent tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] dan [Hamid bin Al Bakrawi] dan [Muhammad bin 'Abdul A'la] seluruhnya dari [Al Mu'tamir bin Sulaiman] dan lafazh ini milik Ibnu Mu'adz; Telah menceritakan kepada kami [Al Mu'tamar]; Telah menceritakan kepada kami [Bapakku] dari [Abu 'Utsman]; dan telah menceritakan kepada kami pula ['Abdurrahman bin Abu Bakr] ia berkata; "Kami sejumlah seratus tiga puluh orang bersama Rasulullah shallallahu 'alaihi wasallam. Lalu beliau bertanya; 'Apakah salah seorang di antara kalian ada yang memiliki makanan?" Ternyata ada seorang sahabat yang membawa satu sha' makanan atau kurang lebih satu sha'. Lalu dibuatlah adonan. Tak lama kemudian, ada seorang musyrik yang tinggi, kurus, dan berambut kusut sambil mengiring kambing. Maka Rasulullah bertanya kepadanya: 'Apakah kambing ini dijual atau dihadiahkan? ' Orang musyrik itu menjawab; 'Kambing ini dijual.' Akhirnya Rasulullah membeli kambing tersebut darinya, lalu disembelih dan beliau memerintahkan agar hati kambing itu dipanggang. Abdurrahman berkata; 'Demi Allah, setiap sahabat yang berjumlah seratus tiga puluh itu mendapat jatah dari kambing panggang Rasulullah shallallahu 'alaihi wasallam. Jika kebetulan orangnya hadir, maka Rasulullah menyimpan jatahnya. Abdurrahman berkata; 'Rasulullah shallallahu 'alaihi wasallam membagi daging kambing tersebut menjadi dua periuk dan kami semua memakannya hingga kenyang. Lebih dari itu, kami pun tidak sanggup untuk menghabiskannya. Lalu sisanya dalam dua periuk itu kami angkut dengan unta. Atau kira-kira seperti itulah yang dia ceritakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5364</td></tr><tr><td>Arabic No</td><td>2056</td></tr><tr><td>Reference</td><td>Book 36 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5364</td></tr><tr><td>Arabic No</td><td>2056</td></tr><tr><td>Reference</td><td>Book 36 Hadith 238</td></tr></tbody></table></div>
 

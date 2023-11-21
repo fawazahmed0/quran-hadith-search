@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama reported:I used to see (such horrible dreams) that I fell ill. I saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Khallad Al Bahili] dan [Ahmad bin 'Abdullah bin Al Hakam] mereka berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Abdu Rabbih bin Sa'id] dari [Abu Salamah] dia berkata; Bagaimana jika aku bermimpi yang menyakitkanku? Lalu dia berkata; Kemudian aku bertemu dengan [Abu Qatadah] dan dia berkata; Dan aku juga pernah bermimpi yang menyakitkanku hingga aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Mimpi yang baik datang dari Allah. Barang siapa yang bermimpi baik maka janganlah menceritakannya kecuali kepada orang yang dia cintai. Dan jika dia bermimpi buruk maka hendaklah ia meludah ke sebelah kirinya tiga kali kemudian meminta perlindungan kepada Allah dari kejahatan syetan dan godaannya, dan janganlah dia menceritakannya kepada siapapun niscaya mimpi itu tidak akan membahayakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5903</td></tr><tr><td>Arabic No</td><td>2261.07</td></tr><tr><td>Reference</td><td>Book 42 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5903</td></tr><tr><td>Arabic No</td><td>2261.07</td></tr><tr><td>Reference</td><td>Book 42 Hadith 7</td></tr></tbody></table></div>
 

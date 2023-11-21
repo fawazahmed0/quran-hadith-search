@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:Prayer said in a congregati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dari [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Shalat secara berjamaah lebih utama dua puluh lima derajat daripada shalat secara individual, " Beliau melanjutkan: "Dan para malaikat malam dan malaikat siang berkumpul ketika shalat fajar (subuh)." Abu Hurairah; "jika kalian berkenan, maka bacalah "Dan tunaikanlah bacaan fajar (subuh) sesungguhnya bacaan (shalat subuh) disaksikan oleh para malaikat." QS. Al-Isra"; 78. Dan telah menceritakan kepadaku [Abu Bakr bin Ishaq] telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] katanya; telah mengabarkan kepadaku [Said] dan [Abu Salamah], bahwa [Abu Hurairah] berkata; "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda seperti hadis Abdul A'la dari Ma'mar, hanya ia mengatakan dengan redaksi "Lebih utama dua puluh lima bagian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>649.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 306</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ говорил: «Коллективная молитва превосходит молитву, совершаемую человеком в одиночестве, на двадцать пять ступеней. И ангелы ночи встречаются с ангелами дня во время утренней молитвы».Затем Абу Хурайра сказал: «Читайте, если пожелаете (, тот аят, где сказано): “…и читай Коран на рассвете. Воистину, на рассвете Коран читают при свидетелях”» (Сура «аль-Исраъ», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>649.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 306</td></tr></tbody></table></div>
 

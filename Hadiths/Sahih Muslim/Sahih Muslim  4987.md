@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Abu Tha'laba al- Khushani w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Ahmad bin Abu Khalaf] telah menceritakan kepada kami [Ma'n bin Isa] telah menceritakan kepadaku [Mu'awiyah] dari [Abdurrahman bin Jubair bin Nufair] dari [ayahnya] dari [Abu Tsa'labah] dari Nabi shallallahu 'alaihi wasallam mengenai orang yang mendapati hewan buruannya setelah tiga hari, maka beliau menyuruh untuk memakannya selagi belum membusuk." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Mu'awiyah bin Shalih] dari [Al 'Ala] dari [Makhul] dari [Abu Tsa'labah Al Khusani] dari Nabi shallallahu 'alaihi wasallam pada haditsnya mengenai hewan buruan, kemudian [Ibnu Hatim] berkata; telah menceritakan kepada kami [Ibnu Mahdi] dari [Mu'awiyah] dari [Abdurrahman bin Jubair] dan [Abu Az Zahiriyah] dari [Jubair bin Nufair] dari [Abu Tsa'labah Al Khusani] seperti Al 'Ala namun dia tidak menyebutkan, 'Selagi belum membusuk', dan dia menyebutkan mengenai anjing pemburu, "Makanlah walaupun telah berlalu tiga hari kecuali jika telah membusuk, maka tinggalkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4987</td></tr><tr><td>Arabic No</td><td>1931.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4987</td></tr><tr><td>Arabic No</td><td>1931.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 16</td></tr></tbody></table></div>
 

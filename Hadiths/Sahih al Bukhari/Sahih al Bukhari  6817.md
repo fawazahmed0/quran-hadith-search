@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Sa'd bin Abi Waqqas and 'Abd bin Zam'a quarrelled with each othe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] radliallahu 'anha mengatakan, Sa'd dan Ibnu Zam'ah bersengketa, lantas Nabi shallallahu 'alaihi wasallam bersabda: "Anak laki-laki itu milikmu hai Abd bin Zam'ah, karena anak itu milik pemilik kasur, dan berhijablah engkau darinya ya Saudah!" Sedang [Qutaibah] menambah redaksi kepada kami dari [Al Laits]; "dan bagi pezina adalah batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6817</td></tr><tr><td>Arabic No</td><td>6817</td></tr><tr><td>Reference</td><td>Book 86 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Са‘д (ибн Абу Ваккас) и (‘Абд) ибн Зам‘а поспорили. И Пророк ﷺ сказал: “Он твой, о ‘Абд бин Зам‘а. Ребёнок принадлежит постели. Но ты, Сауда, закройся от него”».\nКутайба добавил нам от Лейса: «А прелюбодею — позор и лишения [прав на ребёнка]»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6817</td></tr><tr><td>Arabic No</td><td>6817</td></tr><tr><td>Reference</td><td>Book 86 Hadith 45</td></tr></tbody></table></div>
 

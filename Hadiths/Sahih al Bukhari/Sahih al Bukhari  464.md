@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:I complained to Allah's Messenger (ﷺ) that I was sick. He t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Muhammad bin 'Abdurrahman bin Naufal] dari ['Urwah bin Az Zubair] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] berkata, "Aku mengadu kepada Rasulullah shallallahu 'alaihi wasallam bahwa aku mengalami rasa sakit. Beliau kemudian bersabda: "Thawaflah di belakang orang dengan berkendaraan." Maka aku pun melakukan thawaf, sedangkan Rasulullah shallallahu 'alaihi wasallam shalat di sisi Ka'bah dengan membaca: "WATHTHUUR WA KITAABIM MASTHUUR (Demi bukit, dan Kitab yang ditulis) ' (Qs. Ath Thuur:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>464</td></tr><tr><td>Arabic No</td><td>464</td></tr><tr><td>Reference</td><td>Book 8 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «(Во время хаджжа) я пожаловалась Посланнику Аллаха ﷺ на болезнь, и он сказал: “Соверши обход позади (всех остальных) людей, сидя верхом”. Я так и сделала, а в это время Посланник Аллаха ﷺ молился рядом с Каабой, читая (суру, начинающуюся словами): “Клянусь горой, клянусь начертанным Писанием…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>464</td></tr><tr><td>Arabic No</td><td>464</td></tr><tr><td>Reference</td><td>Book 8 Hadith 112</td></tr></tbody></table></div>
 

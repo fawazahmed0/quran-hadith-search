@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Adda' ibn Khalid ibn Hudhah said:I saw the Messenger of Allah (ﷺ) on 9 Dhul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hannad bin As Sari], serta [Utsman bin Abu Syaibah], mereka berkata; telah menceritakan kepada Kami [Waki'] dari [Abdul Majid], ia berkata; telah menceritakan kepadaku [Al 'Adda' bin Khalid bin Haudzah], [Hannad] berkata; dari [Abdul Majid Abu 'Amr], ia berkata; telah menceritakan kepadaku [Khalid bin Al 'Adda' bin Khalid bin Haudzah], ia berkata; saya melihat Rasulullah shallAllahu wa'alaihi wa sallam berkhutbah kepada orang-orang pada Hari 'Arafah di atas unta, kedua kakinya berada dalam dua sanggurdi. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Ibnu Al 'Ala'] dari [Waki'], sebagaimana yang dikatakan [Hannad]; telah menceritakan kepada Kami [Abbas bin Abdul 'Azhim], telah menceritakan kepada Kami ['Utsman bin Umar], telah menceritakan kepada Kami [Abdul Majid Abu 'Amr] dari [Al 'Ala' bin Khalid] dengan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1917</td></tr><tr><td>Arabic No</td><td>1917</td></tr><tr><td>Reference</td><td>Book 11 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Халид ибн аль-‘Адда [или: аль-‘Адда ибн Халид] ибн Хауза передаёт: «Я видел, как Посланник Аллаха ﷺ произносил проповедь в день стояния на Арафате верхом на верблюде, поднявшись на стременах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1917</td></tr><tr><td>Arabic No</td><td>1917</td></tr><tr><td>Reference</td><td>Book 11 Hadith 197</td></tr></tbody></table></div>
 

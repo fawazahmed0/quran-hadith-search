@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:A brother of yours
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid Al Ghubari] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Abu Zubair] dari [Jabir bin Abdullah] -dalam jalur lain- Dan telah menceritakan kepada kami [Yahya bin Ayyub] -dan lafazh juga miliknya- Telah menceritakan kepada kami [Ibnu Ulayyah] Telah menceritakan kepada kami [Ayyub] dari [Abu Zubair] dari [Jabir bin Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya saudara kalian telah meninggal, karena itu berdirilah untuk menunaikan shalat (ghaib) atasnya." Maka kami pun berdiri, dan beliau mengatur shaf kami menjadi dua shaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2209</td></tr><tr><td>Arabic No</td><td>952.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Скончался один из ваших братьев, так встаньте и помолитесь за него». Джабир сказал: «Тогда мы встали и он построил нас в два ряда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2209</td></tr><tr><td>Arabic No</td><td>952.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
 

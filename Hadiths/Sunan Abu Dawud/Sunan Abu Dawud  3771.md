@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:The Prophet(ﷺ) sent me(for some work), and when I returned to him fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah mengabarkan kepada kami [Waki'] dari [Mush'ab bin Sulaim] ia berkata; aku mendengar [Anas] berkata, "Nabi shallallahu 'alaihi wasallam mengutusku, ketika kembali aku melihat beliau makan kurma dengan duduk (di atas bokong dengan menegakkan kedua betisnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2044)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3771</td></tr><tr><td>Arabic No</td><td>3771</td></tr><tr><td>Reference</td><td>Book 28 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Шуайб ибн ‘Абдуллах ибн ‘Амр передаёт от своего отца: «Никто никогда не видел, чтобы Посланник Аллаха ﷺ ел, опираясь на что-то, и никогда позади него не шли два человека и более»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2044)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3771</td></tr><tr><td>Arabic No</td><td>3771</td></tr><tr><td>Reference</td><td>Book 28 Hadith 36</td></tr></tbody></table></div>
 

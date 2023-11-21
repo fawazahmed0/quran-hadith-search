@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:Sahl bin Sa'd said, "Abu Usaid, the companion of the Prophet,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ali], ia mendengar [Abdul 'Aziz bin Abu Hazim] berkata; telah mengabarkan kepadaku [Ayahku] dari [Sahl bin Sa'd] bahwasanya Abu Usaid seorang sahabat Nabi shallallahu 'alaihi wasallam menjadi pengantin, ia kemudian mengundang Nabi shallallahu 'alaihi wasallam untuk menghadiri (walimah) 'arus. Sang pengantin puteri menjamu para tamu. Maka Sahl bertanya kepada para tamu; 'Tahukah kalian minuman apa yang disuguhkan mempelai puteri itu? ' Sahal menerangkan bahwa minuman yang disuguhkan adalah kurma yang direndam semalam di sebuah periuk dari batu, hingga di pagi harinya disuguhkan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6685</td></tr><tr><td>Arabic No</td><td>6685</td></tr><tr><td>Reference</td><td>Book 83 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «(Однажды) Абу Усайд сподвижник Пророка ﷺ женился. И он пригласил Пророка ﷺ к себе на свадьбу, что же касается его невесты, то она прислуживала им. И Сахль сказал (своим) соплеменникам: “А знаете ли вы, чем она поила (Посланника Аллаха ﷺ)? Она вымачивала для него финики в тауре с (наступлением) ночи, а когда наступало утро, она поила его им”».\nТаур — каменный, деревянный или медный большой сосуд. Такими сосудами пользовались жители Хиджаза
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6685</td></tr><tr><td>Arabic No</td><td>6685</td></tr><tr><td>Reference</td><td>Book 83 Hadith 62</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Someone came to Allah's Messenger (ﷺ) and said, "The d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Abdul Wahab Ats Tsaqafi] dari [Ayyub] dari [Muhammad] dari [Anas bin Malik] -radliallahu 'anhu- bahwa seseorang datang kepada Rasulullah shallallahu 'alaihi wasallam sambil berkata; "Daging keledai telah banyak di konsumsi, " selang beberapa saat orang tersebut datang lagi sambil berkata; "Daging keledai telah banyak di konsumsi, " setelah beberapa saat orang tersebut datang lagi seraya berkata; "Keledai telah binasa." Maka beliau memerintahkan seseorang untuk menyeru di tengah-tengah manusia, sesungguhnya Allah dan Rasul-Nya melarang kalian mengkonsumsi daging keledai jinak, karena daging itu najis." Oleh karena itu mereka menumpahkan periuk yang di gunakan untuk memasak daging tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5528</td></tr><tr><td>Arabic No</td><td>5528</td></tr><tr><td>Reference</td><td>Book 72 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, сказал: «К Посланнику Аллаха ﷺ пришёл человек и сказал: “Ослы были съедены”. Человек (снова) пришел и сказал: “Ослы были съедены”. Человек (снова) пришел и сказал: “Ослы были полностью съедены”. На это Пророк ﷺ приказал глашатаю провозгласить: “Поистине, Аллах и Его Посланник запрещают вам есть мясо домашних ослов”. Затем котлы, в которых варилось мясо, были опрокинуты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5528</td></tr><tr><td>Arabic No</td><td>5528</td></tr><tr><td>Reference</td><td>Book 72 Hadith 53</td></tr></tbody></table></div>
 

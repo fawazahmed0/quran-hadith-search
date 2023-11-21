@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi 'Aufa:Allah's Messenger (ﷺ) said, "Know that Paradi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah bin 'Amru] telah bercerita kepada kami [Abu Ishaq] dari [Musa bin 'Uqbah] dari [Salim Abi An-Nadhar], mantan budak (yang telah dimerdekakan oleh) 'Umar bin 'Ubaidillah -dia adalah juru tulisnya- berkata; ['Abdullah bin Abi Aufaa radliallahu 'anhuma] menulis urat kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketahuilah oleh kalian bahwa surga itu berada dibawah naungan pedang". Hadits ini ditelusuri pula oleh [Al Uwaisiy] dari [Ibnu Abu Az Zanad] dari [Musa bin 'Uqbah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2818</td></tr><tr><td>Arabic No</td><td>2818</td></tr><tr><td>Reference</td><td>Book 56 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим Абу ан-Надр, вольноотпущенник ‘Умара ибн ‘Убайдуллах, который был его писарем, сказал: «‘Абдуллах ибн Абу Ауфа, да будет доволен им Аллах, написал ему (‘Умару ибн Убайдуллах) письмо, (в котором было сказано,) что Посланник Аллаха ﷺ сказал: “Знайте, что Рай находится под сенью мечей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2818</td></tr><tr><td>Arabic No</td><td>2818</td></tr><tr><td>Reference</td><td>Book 56 Hadith 34</td></tr></tbody></table></div>
 

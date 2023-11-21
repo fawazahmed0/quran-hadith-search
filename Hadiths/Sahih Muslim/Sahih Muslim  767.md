@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Maimuna reported:I placed water for the Apostle (ﷺ) and provided privacy for h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim al-Hanzhali] telah mengabarkan kepada kami [Musa al-Qari'] telah menceritakan kepada kami [Zaidah] dari [al-A'masy] dari [Salim bin Abi Ja'd] dari [Kuraib] dari [Ibnu Abbas] dari [Maimunah] dia berkata, "Aku meletakkan air untuk Nabi Shallallahu'alaihiwasallam, dan aku menutupinya, lalu beliau mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>337</td></tr><tr><td>Reference</td><td>Book 3 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Маймуна сказала: «(Однажды) я поставила для Пророка ﷺ воду и прикрыла его. И он совершил полное омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>337</td></tr><tr><td>Reference</td><td>Book 3 Hadith 89</td></tr></tbody></table></div>
 

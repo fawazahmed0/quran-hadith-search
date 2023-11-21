@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:In the year of the Conquest of Mecca, the tribe of Khuza'a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Abu Hurairah]; bani Khuza'ah membunuh seorang laki-laki. Sedang [Abdullah bin Raja'] mengatakan; telah menceritakan kepada kami [Harb] dari [Yahya] telah menceritakan kepada kami [Abu Salamah] telah menceritakan kepada kami [Abu Hurairah]; ketika tahun pembebasan Makkah bani Khuza'ah membunuh seorang laki-laki dari bani Laits sebagai pembalasan mereka yang dibunuh semasa masih jahiliyah. Serta merta Rasulullah Shallallahu'alaihiwasallam berdiri dan menyampaikan pidato; "Allah telah menahan pasukan gajah dari Makkah ini, dan menguasakan rasul-NYA dan orang-orang mukmin untuk mengalahkan mereka, ketahuilah, bahwasanya Makkah tidak dihalalkan bagi siapa pun baik sebelum maupun sesudahku, hanyasanya dihalalkan bagiku beberapa saat siang saja, Ketahuilah, bahwasanya Makkah pada saatku sekarang ini telah haram, durinya tidak boleh dipatahkan dan pohonnya tidak boleh ditebang, barang temuannya tidak boleh diambil kecuali orang yang hendak mengumumkannya, dan barangsiapa menjadi wali korban pembunuhan, baginya dua pilihan, ia diberi diyat atau diberi kesempatan untuk membalas qisas." Lantas berdirilah seorang laki-laki penduduk yaman yang dikenal dengan nama Abu Syah dan mengatakan; 'Tuliskan untukku Ya Rasulullah! ' Rasulullah Shallallahu'alaihiwasallam mengatakan; "tuliskanlah untuk Abu Syah." Kemudian ada laki-laki dari Qurasy berdiri dan mengatakan; 'Ya Rasulullah, selain idzkhir, sebab rumput idzkhir sering kami manfaatkan untuk kuburan dan rumah kami.' Rasulullah Shallallahu'alaihiwasallam menjawab; "kecuali idzkhir." hadits ini diperkuat oleh ['Ubaidullah] dari [Syaiban] tentang gajah, dan sebagian mereka dari [Abu Nu'aim] mengatakan dengan redaksi baginya kesempatan membunuh balasan. Sedang Ubaidullah mengatakan dengan redaksi atau keluarga terbunuh diberi diyat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6880</td></tr><tr><td>Arabic No</td><td>6880</td></tr><tr><td>Reference</td><td>Book 87 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, о том, что в год завоевания Мекки, (люди) из племени хуза‘а убили человека из числа бану лейс, который убил кого-то из их числа во времена доисламского невежества, (и когда об этом сообщили Посланнику Аллаха ﷺ) он встал, (обратившись к людям с проповедью), и сказал: «Поистине, Аллах не допустил к Мекке слона, однако Он дал власть над её жителями Своему Посланнику и верующим. Поистине, никому до меня не позволялось (сражаться) в (этом городе) и никому не будет позволено это после меня! Поистине, и для меня это стало дозволенным лишь на определённое время в течение дня, а сейчас (Мекка), несомненно, (снова) является священной территорией, где нельзя ни срезать колючки, ни вырубать деревья, ни поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям). Если же кого-нибудь убьют, то (его ближайшие родственники) могут выбирать одно из двух: либо получить выкуп /дийа/ за убитого, либо воздать убийце равным».\n(Абу Хурайра сказал): «Тут встал человек человек из числа жителей Йемена по имени Абу Шах и сказал: “Запиши для меня (эти слова), о Посланник Аллаха”, тогда Посланник Аллаха ﷺ велел: “Запишите (это) для Абу Шаха!” После этого один мужчина из числа курайшитов воскликнул: “О Посланник Аллаха, кроме душистого тростника /изхир/, ведь мы используем его в наших домах и на наших могилах!”, — и тогда Посланник Аллаха ﷺ сказал: “Кроме душистого тростника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6880</td></tr><tr><td>Arabic No</td><td>6880</td></tr><tr><td>Reference</td><td>Book 87 Hadith 19</td></tr></tbody></table></div>
 

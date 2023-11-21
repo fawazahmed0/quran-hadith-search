@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man was crushed to death by his she-camel and was brought 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Al Hakam] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Ada seorang laki-laki yang sedang berihram dijatuhkan oleh untanya hingga meninggal dunia. Lalu jenazahnya dibawa kepada Rasulullah shallallahu 'alaihi wasallam, maka Beliau bersabda: "Mandikanlah dia dan kafanilah dan janganlah ditutupkepalanya dan jangan diberi wewangian karena dia nanti akan dibangkitkan (pada hari qiyamat) dalam keadaan berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1839</td></tr><tr><td>Arabic No</td><td>1839</td></tr><tr><td>Reference</td><td>Book 28 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Один человек, облачённый в ихрам, умер из-за верблюдицы, которая сбросила его, сломав ему шею. Его принесли к Посланнику Аллаха ﷺ и он сказал: “Омойте его и заверните в кафан, но не покрывайте ему голову и не умащайте его благовониями, ведь, поистине, в Судный день Аллах воскресит его произносящим тальбию”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1839</td></tr><tr><td>Arabic No</td><td>1839</td></tr><tr><td>Reference</td><td>Book 28 Hadith 19</td></tr></tbody></table></div>
 

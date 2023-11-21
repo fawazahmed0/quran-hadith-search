@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man asked the Prophet, "O Allah's Messenger (ﷺ)! What k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al 'Alaa'] telah bercerita kepada kami [Abu Usamah] dari [Sufyan] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] berkata; Ada seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam: "Wahai Rasulullah, shadaqah mana yang lebih utama?" Beliau menjawab: "Kamu bershadaqah ketika kamu dalam keadaan sehat dan rakus, kamu berangan-angan jadi orang kaya dan takut menjadi faqir. Maka janganlah kamu menunda-nundanya hingga ketika nyawamu berada di tenggorakannmu (kamu baru mau bershadaqah), lalu kamu berkata untuk si fulan segini dan si fulan segini padahal harta itu telah menjadi milik si fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 55 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— (Как-то раз) один человек спросил Пророка ﷺ : «О Посланник Аллаха, какая садака является наилучшей?» Он сказал: «Та, которую ты подаёшь, будучи здоровым и скупым, когда ты надеешься на богатство и боишься бедности. И не откладывай до тех пор, пока (душа твоя) не подойдёт к горлу и ты станешь говорить: “Такому-то столько, а такому-то столько”, тогда как это уже будет принадлежать такому-то»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 55 Hadith 11</td></tr></tbody></table></div>
 

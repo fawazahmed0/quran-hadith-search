@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn ash-Shikhkhir: I went with a deputation of Banu Amir to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Bisyr] -maksudnya Bisyr bin Al Mufadhdhal berkata, telah menceritakan kepada kami [Abu Maslamah Sa'id bin Yazid] dari [Abu Nadhrah] dari [Mutharrif] ia berkata; [Bapakku] berkata, "Aku pergi bersama rombongan utusan bani Amir menemui Rasulullah shallallahu 'alaihi wasallam. Kami lalu berkata, "Engkau adalah junjungan kami." Beliau langsung menyahut: "Junjungan itu hanyalah Allah Ta'ala semata." Kami berkata lagi, "Engkau adalah yang paling utama di antara kami dan memiliki kemuliaan yang besar." Beliau bersabda: "Berkatalah kalian dengan perkataan kalian, atau sebagian dari perkataan kalian (tidak perlu banyak pujian), dan jangan sekali-kali kalian terpengaruh oleh setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4806</td></tr><tr><td>Arabic No</td><td>4806</td></tr><tr><td>Reference</td><td>Book 43 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аш-Шиххир рассказывал: «Однажды я пришел к Посланнику Аллаха ﷺ в составе делегации (племени) бану ‘амир, и мы сказали: “Ты наш господин (сеййид)!”, но он ответил: “Господь (ас-сеййид) это Всевышний Аллах!” Тогда мы сказали: “(Ты) самый достойный и самый великий из нас!” (Пророк ﷺ) сказал: “Говорите ваши слова или некоторые из ваших слов, но пусть шайтан не завлечет вас (в чрезмерность)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4806</td></tr><tr><td>Arabic No</td><td>4806</td></tr><tr><td>Reference</td><td>Book 43 Hadith 34</td></tr></tbody></table></div>
 

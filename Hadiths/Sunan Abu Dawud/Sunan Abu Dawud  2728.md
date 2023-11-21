@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yazid bin Humruz said “Najdah Al Hururi wrote to Ibn ‘Abbas asking him wheth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], ia berkata; telah menceritakan kepada kami [Ahmad bin Khalid Al Wahbi], telah menceritakan kepada kami [Ibnu Ishaq] dari [Abu Ja'far] dan [Az Zuhri] dari [Yazid bin Hurmuz], ia berkata; [Najdah Al Haruri] menulis surat kepada [Ibnu Abbas], ia bertanya kepadanya mengenai para wanita, apakah mereka menghadiri peperangan bersama Rasulullah shallallahu 'alaihi wasallam? Dan apakah mereka diberi saham? Yazid berkata; aku yang menulis surat Ibnu Abbas kepada Najdah. Sungguh mereka telah menghadiri peperangan bersama Rasulullah shallallahu 'alaihi wasallam. Adapun mereka tidak diberi saham (bagian), dan terkadang diberi pemberian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2728</td></tr><tr><td>Arabic No</td><td>2728</td></tr><tr><td>Reference</td><td>Book 15 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2728</td></tr><tr><td>Arabic No</td><td>2728</td></tr><tr><td>Reference</td><td>Book 15 Hadith 252</td></tr></tbody></table></div>
 

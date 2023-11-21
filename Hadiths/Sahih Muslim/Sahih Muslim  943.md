@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) ordered Abu Bakr that he should lea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Ibnu Numair] dari [Hisyam] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] sedang lafazh mereka berdekatan, dia berkata, telah menceritakan kepada kami [Bapakku] dia berkata, telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari [Aisyah ra] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan Abu Bakar untuk shalat mengimami manusia pada saat sakitnya, lalu dia shalat mengimami mereka." Urwah berkata, "Lalu Rasulullah shallallahu 'alaihi wasallam mendapatkan rasa khawatir pada dirinya, lalu beliau keluar, ternyata Abu Bakar sedang mengimami orang-orang, tatkala Abu Bakar melihat beliau, maka dia mundur, lalu Rasulullah shallallahu 'alaihi wasallam memberikan isyarat kepadanya, 'Tetaplah di tempatmu, lalu Rasulullah shallallahu 'alaihi wasallam duduk di samping Abu Bakar sejajar. Abu Bakar shalat mengikuti shalat Rasulullah Shallallahu'alaihiwasallam, sedangkan manusia shalat mengikuti shalat Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>943</td></tr><tr><td>Arabic No</td><td>418.08</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Во время своей болезни, Посланник Аллаха ﷺ велел Абу Бакру проводить молитву с людьми, и он проводил с ними молитву».‘Урва (, который передал этот хадис от ‘Аиши, передавая её слова) сказал: «Почувствовав облегчение, Посланник Аллаха ﷺ вышел в то время, когда Абу Бакр возглавлял людей в молитве. Когда Абу Бакр увидел его, он отошёл назад, но Посланник Аллаха ﷺ жестом указал ему, чтобы он оставался на своём месте, и Посланник Аллаха ﷺ сел рядом (со стоящим) Абу Бакром. И Абу Бакр стал молиться следуя за молитвой Посланника Аллаха ﷺ, а люди следовали за молитвой Абу Бакра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>943</td></tr><tr><td>Arabic No</td><td>418.08</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
 

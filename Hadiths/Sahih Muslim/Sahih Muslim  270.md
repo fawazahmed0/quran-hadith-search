@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir b. Abdullah:I heard the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ayyub al-Ghailani Sulaiman bin Abdullah] dan [Hajjaj bin asy-Sya'ir] keduanya berkata, telah menceritakan kepada kami [Abdul Malik bin Amru] telah menceritakan kepada kami [Qurrah] dari [Abu az-Zubair] telah menceritakan kepada kami [Jabir bin Abdullah] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang meninggal menemui Allah dalam keadaan tidak mensyirikkan Allah dengan sesuatu apapun pasti masuk surga, dan orang yang meninggal (menemui Allah) dalam keadaan mensyirikkan Allah dengan sesuatu pasti masuk neraka." [Abu Ayyub] berkata; [Abu az-Zubair] berkata dari [Jabir]. Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Mu'adz] -yaitu Ibnu Hisyam- dia berkata, telah menceritakan kepadaku [bapakku] dari [Abu az-Zubair] dari [Jabir] bahwa Nabi Allah shallallahu 'alaihi wasallam bersabda, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>270</td></tr><tr><td>Arabic No</td><td>93.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Тот, кто встретит Аллаха, не придавая Ему ничего в сотоварищи, войдёт в Рай, а тот кто встретит Его, придавая Ему сотоварищей, войдёт в Огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>270</td></tr><tr><td>Arabic No</td><td>93.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
 

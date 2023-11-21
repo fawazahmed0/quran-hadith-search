@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hakim bin Hizam:Allah's Messenger (ﷺ) said, "The seller and the buyer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Shalih Abu AL Khalil] dari ['Abdullah bin Al Harits] yang dinisbatkannya kepada [Hakim bin Hizam radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang melakukan jual beli boleh melakukan khiyar (pilihan untuk melangsungkan atau membatalkan jual beli) selama keduanya belum berpisah", Atau sabda Beliau: "hingga keduanya berpisah. Jika keduanya jujur dan menampakkan dagangannya maka keduanya diberkahi dalam jual belinya dan bila menyembunyikan dan berdusta maka akan dimusnahkan keberkahan jual belinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2079</td></tr><tr><td>Arabic No</td><td>2079</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хакима бин Хизама, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Покупатель и продавец остаются свободными в своём выборе до тех пор, пока они не расстались друг с другом (или же он сказал: пока не расстанутся друг с другом), и если оба они были правдивы и разъясняли, сделка их будет благословенной, если же они скрывали (что-то) и лгали друг другу, то благо их сделки будет уничтожено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2079</td></tr><tr><td>Arabic No</td><td>2079</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ I heard Abu Dharr narrating it from the Apostle (ﷺ) that he observed:Gabriel c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar], [Ibnu al-Mutsanna] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Washil al-Ahdab] dari [al-Ma'rur bin Suwaid] dia berkata, "Saya mendengar [Abu Dzar] menceritakan dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Jibril Alaihissalam mendatangiku lalu memberikan kabar gembira kepadaku, bahwa orang yang meninggal dari umatmu dalam keadaan tidak mensyirikkan Allah dengan sesuatu apa pun niscaya masuk surga." Maka aku bertanya: "Meskipun dia berzina dan mencuri?" Jibril menjawab, "Walaupun dia berzina dan mencuri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>94.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Зарра, что Пророк ﷺ сказал: «Ко мне явился Джибриль и обрадовал меня вестью о том, что тот из твоей общины, кто умрёт, не придавая в сотоварищи Аллаху ничего, войдет в Рай. Я спросил: “Даже если прелюбодействовал и воровал?” Он ответил: “Даже если прелюбодействовал и даже если воровал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>94.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 178</td></tr></tbody></table></div>
 

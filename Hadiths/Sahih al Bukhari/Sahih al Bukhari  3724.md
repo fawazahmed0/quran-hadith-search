@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais bin Abi Hazim:I saw Talha's paralyzed hand with which he had prote
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Khalid] telah bercerita kepada kami [Ibnu Abu Khalid] dari [Qais bin Abu Hazim] berkata; "Aku melihat tangan [Thalhah] yang pernah digunakan untuk melindungi Nabi shallallahu 'alaihi wasallam (pada perang Uhud) telah menjadi lumpuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 62 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Кайс бин Абу Хазим, да помилует его Аллах Всевышний, сказал: «Я видел руку Тальхи, которой он защитил Пророка ﷺ и которая (впоследствии) была парализована»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 62 Hadith 71</td></tr></tbody></table></div>
 

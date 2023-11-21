@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alqama reported. We went to Syria and Abu Darda' came to us and said:Is there an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] -sedang lafazhnya dari Abu Bakr- keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] ia berkata; Kami mendatangi negeri Syam, lalu [Abu Darda] menjumpai kami seraya bertanya, "Adakah di antara kalian yang membaca dengan qiraahnya Abdullah bin Mas'ud?" Saya menjawab, "Ya. Sayalah orangnya." Ia bertanya, "Lalu bagaimana engkau mendengar Ibnu Mas'ud membaca ayat ini: 'WAL LAILI IDZAA YAGHSYAA.'?" Saya menjawab, "Saya mendengarnya membaca; 'WAL LAILI IDZAA YAGHSYAA WADZDZAKARI WAL UNTSAA.'" Ia (Abu Darda') berkata, adapun saya, demi Allah, saya telah mendengar Rasulullah shallallahu 'alaihi wasallam membacanya seperti itu. Akan tetapi mereka menginginkan agar aku membaca; 'WA MAA KHALAQA', namun saya tidak menuruti mereka." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Mughirah] dari [Ibrahim] ia berkata; [Alqamah] mendatangi negeri Syam, lalu ia masuk Masjid, dan shalat di dalamnya. Kemudian ia berdiri menuju Halaqah dan duduk di situ. Kemudian datanglah [seorang laki-laki] dan saya pun tahu akan reaksi dan sikap orang-orang padanya. Lalu laki-laki itu duduk di sampingku dan bertanya, "Apakah kamu hafal sebagaimana Abdullah membaca (Al Qur'an)?" maka ia pun menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>824.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 344</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама сказал: «(Когда) мы прибыли в Шам, к нам пришёл Абу ад-Дарда и спросил: “Есть ли среди вас кто-нибудь, кто читает (Коран) согласно чтению ‘Абдуллаха?» Я сказал: “Да, (это) я”. (Абу ад-Дарда) спросил: “А как ‘Абдуллах читает (суру, где сказано) «Клянусь ночью, когда она (всё) покрывает (мраком)!» (Сура «аль-Лейль», аят 1)?”. ‘Алькама сказал: “Я слышал, как он читает «Клянусь ночью, когда она (всё) покрывает (мраком)!»; «Клянусь мужчиной и женщиной!»”. (Тогда Абу ад-Дарда) воскликнул: “Клянусь Аллахом, и я слышал, как Посланник Аллаха ﷺ читал его (именно) так, а эти (люди) хотят, чтобы я читал его (следующим образом): «Клянусь Тем, Кто создал мужчину и женщину!» (Сура «аль-Лейль», аят 3), но (в этом) я им следовать не стану!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>824.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 344</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uthman b. 'Affan reported Allah's Messenger (ﷺ) as saying:Do not sell a dinar 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Thahir] dan [Harun bin Sa'id Al Aila] serta [Ahmad bin Isa] mereka berkata; telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah] dari [Ayahnya] dia berkata; saya pernah mendengar [Sulaiman bin Yasar] berkata; bahwa dia pernah mendengar [Malik bin Abu 'Amir] menceritakan dari [Utsman bin Affan], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menjual satu dinar dengan dua dinar, dan jangan pula kalian menjual satu dirham dengan dua dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4058</td></tr><tr><td>Arabic No</td><td>1585</td></tr><tr><td>Reference</td><td>Book 22 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4058</td></tr><tr><td>Arabic No</td><td>1585</td></tr><tr><td>Reference</td><td>Book 22 Hadith 97</td></tr></tbody></table></div>
 

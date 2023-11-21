@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was heard from Abu 'Amr Shaibani that, pointing towards the house of Abdullah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz al-Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [al-Walid bin al-Aizar] bahwa dia mendengar [Abu Amru asy-Syaibani] dia berkata, telah menceritakan kepadaku pemilik rumah ini -dan dia menunjuk pada rumah [Abdullah]-, dia berkata, "Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam, 'Amalah apakah yang paling dicintai Allah? ' Beliau menjawab: "Shalat pada waktunya." Aku bertanya, "Kemudian apa?" Beliau menjawab: "Berbakti kepada kedua orang tua." Saya bertanya, "Kemudian apa lagi?" Beliau menjawab: "Jihad di jalan Allah." Abdulah bin Mas'ud berkata, "Beliau menceritakan itu semua kepadaku, sekiranya aku minta tambah, pasti akan beliau tambah." Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dengan sanad ini semisalnya. Dan dia menambahkan, "Dan dia menunjuk kepada rumah Abdullah, " namun dia tidak menyebutkan namanya untuk kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>85.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Амр аш-Шайбани сказал: Рассказал мне хозяин этого дома и он при этом указал на дом ‘Абдуллаха (ибн Мас‘уда, да будет доволен им Аллах). Он сказал: «(Однажды) я спросил Посланника Аллаха ﷺ: “Какие дела Аллах любит больше всего?” Он сказал: “Совершаемую своевременно молитву”. Я спросил: “А после этого?” Он сказал: “Затем проявление почтительности к родителям”. Я спросил: “А после этого?” Он сказал: “Затем борьбу на пути Аллаха”».(‘Абдуллах) сказал: «Он рассказал мне об этом, а если бы я (спросил о чём-нибудь ещё), то обязательно сказал бы мне больше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>85.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 160</td></tr></tbody></table></div>
 

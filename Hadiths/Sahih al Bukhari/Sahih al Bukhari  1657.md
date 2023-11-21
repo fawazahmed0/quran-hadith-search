@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:I offered (only a) two rak'at prayer with the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah bin 'Uqbah] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari ['Abdurrahman bin Yazid] dari ['Abdullah radliallahu 'anhu] berkata; 'Aku shalat bersama Nabi Shallallahu'alaihiwasallam dua raka'at, bersama Abu Bakar radliallahu 'anhu dua raka'at dan bersama 'Umar radliallahu 'anhu dua raka'at. Kemudian banyak jalan telah menjadikan kalian berbeda pendapat. Namun aku berharap shalat yang empat raka'at maupun dua raka'at keduanya dapat diterima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 25 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Я совершал вместе с Пророком ﷺ два рак‘ата, и с Абу Бакром, да будет доволен им Аллах, два рака‘ата, и с ‘Умаром, да будет доволен им Аллах, два рака‘ата. А потом ваши пути разошлись, и я бы желал, чтобы из четырёх моих рак‘атов хотя бы два были приняты (Аллахом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 25 Hadith 138</td></tr></tbody></table></div>
 

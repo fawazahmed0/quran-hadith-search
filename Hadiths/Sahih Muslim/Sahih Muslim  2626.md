@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Hamza b. Amr al-Aslami asked th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, bahwasanya; Hamzah bin Amru Al Aslami bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, saya seorang laki-laki yang kuat berpuasa dalam perjalanan. Apakah aku harus berpuasa dalam perjalanan?" Beliau menjawab: "Berpuasalah jika kamu mau, dan berbukalah jika kamu ingin berbuka." Dan telah menceritakannya kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam] dengan isnad ini, sebagaimana hadits Hammad bin Zaid. Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Ibnu Numair] -dan [Abu Bakar] berkata- telah menceritakan kepada kami [Abdurrahim bin Sulaiman] keduanya dari [Hisyam] dengan isnad ini, bahwa Hamzah berkata; "Saya adalah seorang yang kuat berpuasa, maka haruskah aku berpuasa ketika dalam perjalanan?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2626</td></tr><tr><td>Arabic No</td><td>1121.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2626</td></tr><tr><td>Arabic No</td><td>1121.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 132</td></tr></tbody></table></div>
 

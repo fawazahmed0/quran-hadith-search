@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When Allah ordains something on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari ['Ikrimah] dari [Abu Hurairah] yang Nabi shallallahu 'alaihi wasallam menyampaikan kepadanya, beliau bersabda: "Jika Allah memutuskan suatu keputusan di langit, maka malaikat akan mengepak-ngepakkan sayapnya karena tunduk kepada titah-Nya, seolah-olah kepakan sayapnya seperti rantai di atas batu licin." Ali berkata, "Sedang lainnya berkata, 'Seperti batu licin yang menembus mereka.' Allah berfirman: '(Apabila ketakutan telah hilang dari hati mereka, mereka bertanya 'Apa yang difirmankan Rabb kalian? Mereka menjawab 'Kebenaran, dan Dia Maha Tinggi lagi Maha Besar) ' (Qs. Saba': 34). Ali berkata; telah menceritakan kepada kami Sufyan telah menceritakan kepada kami 'Amru dari 'Ikrimah dari Abu Hurairah dengan redaksi ini." Sedang Sufyan berkata, Amru berkata, aku mendengar Ikrimah telah menceritakan kepada kami Abu Hurairah, [Ali] berkata, saya bertanya [Sufyan] ia menjawab, 'Aku mendengar [Ikrimah] berkata, aku mendengar [Abu Hurairah] berkata, 'Ya.' Saya bertanya kepada Sufyan, 'Beberapa orang meriwayatkan dari 'Amru dari 'Ikrimah dari Abu Hurairah yang beliau memarfu'kannya, hanya ia membaca 'furrigha (jika telah selesai) '. Sufyan berkata, 'Beginilah 'Amru membaca, maka aku tidak tahu, apakah ia mendengarnya seperti ini atau.' Sufyan berkata, 'Dan begitulah bacaan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7481</td></tr><tr><td>Arabic No</td><td>7481</td></tr><tr><td>Reference</td><td>Book 97 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Когда Аллах решает какое-нибудь дело на небесах, то ангелы складывают крылья, проявляя покорность перед Его словами, и это подобно грохоту удара цепи о камни», (— ‘Али (ибн аль-Мадини) сказал: Другие же передатчики хадиса сказали: “на камни, который поражает их”. —) «А когда страх оставляет сердца их, они говорят: “Что сказал ваш Господь?” И отвечают: “Истину, ведь Он — Возвышенный, Великий!”» (Сура «Саба», аят 23).\nСказал ‘Али (ибн аль-Мадини): Нам рассказал Суфьян (ибн ‘Уейна), который сказал: «Нам рассказал ‘Амр (ибн Динар) от ‘Икримы от Абу Хурайры такой-же хадис».\nСказал Суфьян (ибн ‘Уейна): Сказал ‘Амр (ибн Динар): Я слышал ‘Икриму, который сказал: «Нам рассказал Абу Хурайра».\nТакже ‘Али (ибн аль-Мадини) сказал: «Я спросил Суфьяна: Сказал ли ‘Амр (ибн Динар): Я слышал ‘Икриму, который сказал: “Я слышал Абу Хурайра”?» Он ответил: «Да». Я спросил Суфьяна: «Поистине, человек передаёт от ‘Амра от ‘Икримы от Абу Хурайры от Пророка ﷺ что он прочитал (слова Всевышнего Аллаха) «Фуззи‘а». Суфьян сказал: «Таким образом прочитал ‘Амр, и я не знаю, слышал ли он так или нет». (Потом) Суфьян (ибн ‘Уейна) сказал: «И это наше чтение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7481</td></tr><tr><td>Arabic No</td><td>7481</td></tr><tr><td>Reference</td><td>Book 97 Hadith 107</td></tr></tbody></table></div>
 

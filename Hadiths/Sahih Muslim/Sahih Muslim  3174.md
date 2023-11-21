@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman bin Auf] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Esok hari, Insya Allah, kita akan singgah di Khaif (perbukitan) Bani Kinanah yang ditempat itulah mereka bersumpah dan mengadakan perjanjian di atas kekufuran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3174</td></tr><tr><td>Arabic No</td><td>1314.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 378</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3174</td></tr><tr><td>Arabic No</td><td>1314.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 378</td></tr></tbody></table></div>
 

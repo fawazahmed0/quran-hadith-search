@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Buraidah reported the Apostle of Allaah(ﷺ) as saying “Respect to be shown by
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Sufyan], dari [Qa'nab], dari ['Alqamah bin Martsad], dari [Ibnu Buraidah], dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " Kehormatan para isteri orang-orang mujahidin atas orang-orang yang tidak ikut berperang seperti kehormatan para ibu mereka. Tidaklah seorang laki-laki yang tidak berjihad menggantikan seseorang yang berjihad dalam diri isterinya kecuali akan ditegakkan peradilan baginya pada Hari Kiamat, kemudian dikatakan; wahai Fulan, inilah si Fulan. Ambillah kebaikan-kebaikannya semaumu." Kemudian Nabi shallallahu 'alaihi wasallam menoleh kepada kami, kemudian bersabda: "Bagaimana perkiraan kalian?" Abu Daud berkata; Qa'nab adalah orang shalih, dan Ibnu Abu Laila menginginkan Qa'nab agar menjadi hakim yang mengurusi peradilan, kemudian ia menolak dan berkata; aku menginginkan suatu keperluan dengan uang satu dirham, aku minta bantuan seseorang untuk melakukan keperluan tersebut. Abu Laila berkata; siapakah diantara kita yang tidak meminta bantuan dalam melakukan keperluannya? Qa'nab berkata; keluarkan aku hingga aku bisa mempertimbangkan. Kemudian ia dikeluarkan lalu ia pun bersembunyi. Sufyan berkata; tatkala ia sedang bersembunyi tiba-tiba ia tertimpa rumah hingga meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1897)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2496</td></tr><tr><td>Arabic No</td><td>2496</td></tr><tr><td>Reference</td><td>Book 15 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Бурайда сказал: (Однажды) Посланник Аллаха ﷺ сказал: «Неприкосновенность жён сражающихся (на пути Аллаха) для тех, кто в сражениях не участвует, (должна быть) подобна неприкосновенности (для них) их собственных матерей. Что же касается любого из оставшихся, который заменит кого-либо из сражающихся в заботах о его семье, но не выполнит (своих обязательств) по отношению к нему, то в День воскресения его непременно поставят перед (сражавшимся), который будет забирать из его добрых дел, что пожелает и сколько захочет». А потом Посланник Аллаха ﷺ повернулся к нам и спросил: «Что вы (об этом) думаете?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1897)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2496</td></tr><tr><td>Arabic No</td><td>2496</td></tr><tr><td>Reference</td><td>Book 15 Hadith 20</td></tr></tbody></table></div>
 

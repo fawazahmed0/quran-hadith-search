@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : "J'avais six ans lorsque le Prophète 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dia berkata; Saya mendapatkan dalam kitabku dari [Abu Usamah] dari [Hisyam] dari [ayahnya] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam menikahiku waktu saya berumur enam tahun, dan memboyongku (membina rumah tangga denganku) ketika saya berusia sembilan tahun." 'Aisyah berkata; "Sesampainya di Madinah, saya jatuh sakit selama sebulan, hingga rambutku pada rontok. setelah sembuh, Ummu Ruman mendatangiku, ketika itu saya sedang bermain-main bersama kawan-kawanku, lantas dia memanggilku, dan saya mendatanginya, namun saya tidak tahu apa yang dia inginkan dariku, kemudian dia memegang tanganku dan membawaku sampai ke pintu rumah, (saya terengah-engah) sambil menarik nafas; hah…hah… sehingga nafasku lega kembali. Kamudian saya dibawa masuk kedalam rumah, tiba-tiba di sana telah menunggu beberapa wanita Anshar. Mereka mengucapkan selamat dan kebaikan kepadaku, lantas Ummu Ruman menyerahkanku kepada mereka, akhirnya mereka membersihkan kepalaku dan mendandaniku, pada waktu dluha, betapa terkejutnya saya ketika melihat Rasulullah shallallahu 'alaihi wasallam muncul di tempat kami, kemudian mereka menyerahkanku kepada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3479</td></tr><tr><td>Arabic No</td><td>1422.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала: «Мой брачный договор с Посланником Аллаха ﷺ был заключён, (когда мне исполнилось) шесть лет, а моя свадьба состоялась, когда мне было девять лет. (Когда) мы приехали в Медину, я в течение месяца болела лихорадкой, (и у меня выпали) волосы, которые (снова) отросли до плеч после (выздоровления. Однажды, когда) я качалась на качелях вместе с моими подругами, Умм Руман пришла ко мне и громко позвала меня, и я подошла к ней, не зная, что ей нужно. Она взяла меня за руку и привела к дверям дома, а когда моё дыхание успокоилось, (Умм Руман) ввела меня в дом, где находились женщины из числа ансаров. Они стали говорить: “(Желаем тебе) блага, благословения (Аллаха) и (счастливого) удела!” Потом мать передала меня (этим женщинам), а они вымыли мне голову и приготовили меня (к свадьбе), и больше ничего неожиданного со мной не случилось, пока утром (не пришёл) Посланник Аллаха ﷺ которому (мать) передала меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3479</td></tr><tr><td>Arabic No</td><td>1422.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 81</td></tr></tbody></table></div>
 

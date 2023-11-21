@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Allah's Messenger (ﷺ) used to invoke
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepada kami ['Urwah bin Az Zubair] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, dia telah mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam di dalam shalat membaca do'a: 'ALLAHUMMA INNII A'UUDZU BIKA MIN 'ADZAABIL QABRI, WA A'UUDZU BIKA MIN FITNATIL MASIIHID DAJJAAL, WA A'UUDZU BIKA MIN FITNATIL MAHYAA WA FITNATIL MAMAAT. ALLAHUMMA INNII A'UUDZU BIKA MINAL MA'TSAMI WAL MAGHRAM (Ya Allah, aku berlindung kepada-Mu dari siksa kubur dan aku berlindung kepada-Mu dari fitnah Al Masihid Dajjal, dan aku berlindung kepada-Mu dari fitnah kehidupan dan fitnah kematian. Ya Allah, aku berlindung kepada-Mu dari perbuatan dosa dan hutang) '. Tiba-tiba ada seseorang berkata kepada beliau, "Kenapa tuan banyak meminta perlindungan dari hutang?" Beliau menjawab, "Sesungguhnya seseorang apabila berhutang dia akan cenderung berkata dusta dan berjanji lalu mengingkarinya." Dan dari Az Zuhri ia berkata, 'Urwah bin Az Zubair telah mengabarkan kepadaku, bahwa 'Aisyah? radliallahu 'anha berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam dalam shalatnya meminta perlindungan dari fitnah Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 10 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что аз-Зухри сказал:\n— Сообщил мне ‘Урва о том, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я слышала, как во время своего намаза Посланник Аллаха ﷺ прибегал к защите Аллаха от искушения Даджаля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 10 Hadith 226</td></tr></tbody></table></div>
 

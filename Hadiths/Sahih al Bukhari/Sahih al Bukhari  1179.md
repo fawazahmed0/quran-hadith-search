@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Sirin: I heard Anas bin Malik al-Ansari saying, "An Ansari man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Al Ja'di] telah mengabarkan kepada kami [Syu'bah] dari [Anas bin Sirin] berkata, aku mendengar [Anas bin Malik Al Anshariy radliallahu 'anhu] berkata; "Ada seorang laki-laki yang berbadan besar dari Kaum Anshar berkata kepada Nabi shallallahu 'alaihi wasallam; "Aku tidak dapat shalat bersama anda". Kemudian ia menyiapkan makanan untuk Nabi shallallahu 'alaihi wasallam, lalu dia mengundang Beliau shallallahu 'alaihi wasallam ke rumahnya, kemudian Beliau memercikkan air pada sisi tikar lalu Beliau shallallahu 'alaihi wasallam shalat dua raka'at diatasnya". Berkata fulan bin fulan bin Al Jarud kepada Anas bin Malik radliallahu 'anhu; "Apakah Nabi shallallahu 'alaihi wasallam tadi melaksanakan shalat Dhuha'? Anas bin Malik radliallahu 'anhu menjawab: "Aku belum pernah melihat Beliau mengerjakannya kecuali pada hari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1179</td></tr><tr><td>Arabic No</td><td>1179</td></tr><tr><td>Reference</td><td>Book 19 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Сирин сказал: «Я слышал, как Анас ибн Малик аль-Ансари сказал: “(Как-то раз) один тучный человек из числа ансаров сказал Пророку ﷺ: “Поистине, я не могу совершать молитву с тобой”. И он приготовил для Пророка ﷺ еду и пригласил его к себе домой, где расстелил для него циновку, обрызгав край её водой, и (Пророк ﷺ) совершил на этой циновке молитву в два рак‘ата». Один человек из рода аль-джаруд спросил Анаса: «А совершал ли Пророк ﷺ молитву ад-духа?» Он ответил: «Если не считать того дня, я не видел, чтобы он молился в это время»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1179</td></tr><tr><td>Arabic No</td><td>1179</td></tr><tr><td>Reference</td><td>Book 19 Hadith 57</td></tr></tbody></table></div>
 

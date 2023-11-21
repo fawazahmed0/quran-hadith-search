@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nubaih b. Wabb reported:We went with Aban b. Uthman (in a state of lhram). When 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] - [Abu Bakr] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] telah menceritakan kepada kami [Ayyub bin Musa] dari [Nubaih bin Wahb] ia berkata; Kami naik haji besama-sama dengan [Aban bin Utsman]. Setelah sampai di Malal, Umar bin Ubaidullah sakit kedua matanya, dan ketika tiba di Rauha', sakit matanya bertambah parah. Lalu ditanyakannya obatnya kepada Aban bin Utsman. Aban menyarankan supaya mengobatinya dengan daun sabir, karena ia ingat bahwa [Utsman] radliallahu 'anhu pernah mengabarkan dari Rasulullah shallallahu 'alaihi wasallam perihal seorang laki-laki yang sakit mata ketika ihram, lalu diobatinya dengan daun Sabir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2887</td></tr><tr><td>Arabic No</td><td>1204.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2887</td></tr><tr><td>Arabic No</td><td>1204.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 97</td></tr></tbody></table></div>
 

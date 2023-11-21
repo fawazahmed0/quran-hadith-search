@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that Allah's Messenger (ﷺ) said:None amongst the c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur]; Telah mengabarkan kepada kami [Abu Al Walid]; Telah mengabarkan kepada kami [Abu 'Awanah] dari [Hushain] dari [Salim] dari [Jabir bin 'Abdullah] dia berkata; Nabiyullah shallallahu 'alaihi wasallam bersabda: "Orang-orang yang hidup masanya tidak akan lebih dari seratus tahun. Salim berkata; 'Kami ingat hal itu, bahwa yang dimaksud beliau adalah setiap jiwa yang hidup pada masa itu.' (umurnya tidak akan lebih dari seratus tahun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6486</td></tr><tr><td>Arabic No</td><td>2538.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 315</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6486</td></tr><tr><td>Arabic No</td><td>2538.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 315</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : J'étais debout au milieu de la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'atsi] dan [Abu Rabi' Al 'Ataki] serta [Abu Kuraib Muhammad bin Al Allaa], lafazh ini milik Abu Kuraib. [Abu Ar Rabi'] berkata; Telah menceritakan kepada kami Sedangkan yang lainnya berkata; Telah mengabarkan kepada kami [Ibnu Al Mubarak] dari ['Umar bin Sa'id bin Abu Husain] dari [Ibnu Abu Mulaikah] dia berkata; Aku mendengar; [Ibnu Abbas] berkata; 'Pada saat Umar bin Khaththab hendak meninggal, dia dibaringkan di atas tempat tidurnya. Para sahabat dan kaum muslimin lainnya berkumpul untuk bersama-sama memanjatkan doa dan ampunan kepada Allah bagi Umar sebelum dia meninggal dunia dan kebetulan pada saat itu saya pun ikut berkumpul pula di sana. Tidak ada sesuatu yang mengejutkan saya, kecuali seorang laki-laki yang menepuk pundak saya dari belakang. Lalu saya menoleh ke arah tersebut dan ternyata ia adalah [Ali bin Abu Thalib] Radhiyallahu'anhu. Setelah itu, ia pun memanjatkan doa dan ampunan kepada Allah bagi Umar bin Khaththab. Tidak berapa lama kemudian, Ali berkata; Tidak ada lagi seorangpun sepeninggalmu, yang lebih aku cintai dari pada dirimu, hingga aku lebih suka bertemu Allah dengan membawa kebaikan seperti kebaikan yang kau bawa hai Umar. Demi Allah, sungguh aku berbaik sangka kepada Allah bahwasannya Dia sengaja menyertakanmu kepada dua orang teman dekatmu, Rasulullah dan Abu Bakr yang telah kembali kepadaNya lebih dahulu darimu. Sebagaimana sabda Rasulullah yang sering aku dengar; 'Aku datang bersama Abu Bakar dan Umar. Aku masuk bersama Abu Bakar dan Umar. Aku keluar bersama Abu Bakr dan Umar. Sungguh aku berharap agar Allah senantiasa menyertakanmu bersama Rasulullah dan Abu Bakr.' Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Isa bin Yunus] dari ['Umar bin Sa'id] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6187</td></tr><tr><td>Arabic No</td><td>2389.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6187</td></tr><tr><td>Arabic No</td><td>2389.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 18</td></tr></tbody></table></div>
 

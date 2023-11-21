@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) ordered me that I should get him th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kuraib] telah menceritakan kepada kami [Ibnu Abi Zaidah] dari [Hajjaj] dan [Ibnu Abi Ghaniyyah] dari [Tsabit bin Ubaid] dari [al Qasim bin Muhammad] dari [Aisyah] dia berkata; 'Rasulullah memerintahkanku untuk mengambilkan minyak wangi dari masjid. Aku jawab; 'Aku sedang haid.' Beliau menjawab: "Ambillah karena (darah) haid tidak berada di tanganmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «(Однажды) Посланник Аллаха ﷺ велел мне передать ему коврик из мечети, а я сказала: “У меня месячные”. (На что) Посланник Аллаха ﷺ сказал: “Дай мне его, ведь месячные у тебя не на руке”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
 

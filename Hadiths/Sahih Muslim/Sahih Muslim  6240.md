@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd reported:This verse was revealed in relation to six persons and I and Ibn M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman] dari [Sufyan] dari [Al Miqdam bin Syuraih] dari [Bapaknya] dari [Sa'ad] ia berkata: sebuah ayat turun mengenaiku: "Dan janganlah kamu mengusir orang-orang yang menyeru Tuhannya di pagi dan petang hari..." Ia berkata: 'Ayat itu turun pada enam orang; Aku dan Ibnu Mas'ud termasuk dari mereka. Sebab dulu orang-orang musyrik berkata kepadanya: 'Kamu menghina mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>2413.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>2413.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 70</td></tr></tbody></table></div>
 

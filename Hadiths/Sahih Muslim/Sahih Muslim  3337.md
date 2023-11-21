@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Kbudri (Allah be pleased with him) reported that Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Ali bin Al Mubarak] telah menceritakan kepada kami [Yahya bin Abu Katsir] telah menceritakan kepada kami [Abu Sa'id] Maula Al Mahri, dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam berdo'a: "ALLAHUMMA BAARIK LANAA FII SHA'INAA WA MUDDINAA WAJ'AL MA'AL BARAKAH BARAKATAIN (Ya Allah, berilah keberkahan pada Sha' kami, pada Mudd kami dan jadikanlah satu barakah disertai dengan dua barakah)." Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ubaidullah bin Musa] telah mengabarkan kepada kami [Syaiban] -dalam riwayat lain- Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdush Shamad] telah menceritakan kepada kami [Harb bin Syaddad] keduanya dari [Yahya bin Abu Katsir] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3337</td></tr><tr><td>Arabic No</td><td>1374.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 541</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3337</td></tr><tr><td>Arabic No</td><td>1374.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 541</td></tr></tbody></table></div>
 

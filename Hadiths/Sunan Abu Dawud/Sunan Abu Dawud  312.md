@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Azdiyyah, viz. Mussah, said:I performed Hajj and came to Umm Salamah and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Hasan bin Yahya] telah mengabarkan kepada kami [Muhammad bin Hatim, yakni Hubby] telah menceritakan kepada kami [Abdullah bin Al-Mubarak] dari [Yunus bin Nafi'] dari [Katsir bin Ziyad] dia berkata; Telah menceritakan kepadaku [Al-Azdiyyah, yakni Mussah] dia berkata; Saya pernah menunaikan ibadah haji, lalu saya menemui [Ummu Salamah] seraya berkata; Wahai Ummul Mukminin, sesungguhnya Samurah bin Jundub memerintahkan kaum wanita untuk mengqadla' shalat (yang ditingggalkan) di masa haidl. Maka Ummu Salamah berkata; Mereka tidak usah mengqadla'nya, dahulu seorang istri dari istri-istri Nabi shallallahu 'alaihi wasallam tidak shalat pada masa nifas, selama empat puluh malam, dan Nabi shallallahu 'alaihi wasallam tidak memerintahkannya untuk mengqadla' shalat wanita yang nifas. Muhammad bin Hatim berkata; Namanya adalah Mussah diberi kuniyah Ummu Bassah. Abu Dawud berkata; Katsir bin Ziyad kunyahnya adalah Abu Sahl
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 1 Hadith 312</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Касир ибн Зийад сказал: «Рассказала мне аль-Аздиййа, то есть Мусса, которая сказала: “Однажды, когда я совершала хадж, зашла я к Умм Саламе и сказала: “О мать правоверных, поистине, Самура ибн Джундуб велит женщинам восполнять молитвы, пропущенные из-за менструаций”. Она сказала: “Ни одна из женщин Пророка ﷺ не восполняла пропущенные (молитвы), которые пропускала по причине послеродового кровотечения (продолжительностью) сорок ночей и Пророк ﷺ не повелевал ей восполнять молитвы, пропущенные по причине послеродового кровотечения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 1 Hadith 312</td></tr></tbody></table></div>
 

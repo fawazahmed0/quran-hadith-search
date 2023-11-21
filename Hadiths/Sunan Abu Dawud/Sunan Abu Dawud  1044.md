@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Thabit: The Prophet (ﷺ) said: The prayer a man offers in his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Sulaiman bin Bilal] dari [Ibrahim bin Abu An Nadlr] dari [ayahnya] dari [Busr bin Sa'id] dari [Zaid bin Tsabit] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat seseorang di rumahnya itu lebih utama daripada shalatnya dia di masjidku ini, kecuali shalat fardlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6113) Sahih Muslim (781)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 2 Hadith 655</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Сабита, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Совершать любую молитву в своём доме для человека лучше, чем совершать её даже в моей мечети, за исключением обязательной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6113) Sahih Muslim (781)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 2 Hadith 655</td></tr></tbody></table></div>
 

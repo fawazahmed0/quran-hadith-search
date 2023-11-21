@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: AbusSahba' said: We discussed the things that cut o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Al Hakam] dari [Yahya bin Al Jazzar] dari [Abu As Shahba'] dia berkata; "Kami membiacarakan mengenai sesuatu yang dapat memutuskan shalat di samping Ibnu Abbas, maka [Ibnu Abbas] berkata; "Aku pernah datang bersama seorang budak dari Bani Abdul Mutthalib dengan mengendarai seekor keledai, dan Rasulullah shallallahu 'alaihi wasallam sedang melaksanakan shalat, maka budak itu turun, aku pun ikut turun lalu aku biarkan keledai tersebut di depan shaf, namun beliau tidak menghiraukannya. Setelah itu datang pula dua orang budak wanita dari Bani Abdul Mutthalib, lalu keduanya masuk ke dalam shaf, namun beliau tetap tidak menghiraukannya." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Daud bin Mihraq Al Firyabi] keduanya berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dengan hadits ini dengan isnadnya dia mengatakan; "Kemudian datang pula dua budak wanita dari Bani Abdul Mutthalib yang sedang bertikai, maka beliau memegang keduanya." Utsman mengatakan; "Kemudian beliau melerai keduanya." Sedangkan Daud mengatakan; "Lalu beliau melerai salah satu dari keduanya, dan beliau tidak memperdulikan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ас-Сахбаъ сказал: «(Однажды) мы упомянули перед Ибн ‘Аббасом о том, что прерывает молитву, и он сказал: “(Как-то) я и один мальчик из рода бану ‘Абдуль-Мутталиб прибыли на осле, когда Посланник Аллаха ﷺ совершал молитву. Мы слезли и оставили осла перед рядом (молящихся), но (Посланник Аллаха ﷺ) не придал этому значения. Затем прибежали две девочки из рода бану ‘Абдуль-Мутталиб и прошли между рядом, но не придал и этому значения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
 

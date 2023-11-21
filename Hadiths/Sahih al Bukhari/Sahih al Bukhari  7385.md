@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: The Prophet (ﷺ) used to invoke Allah at night, saying, "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Ibn Juraij] dari [Sulaiman] dari [Thawus] dari [Ibn Abbas] radliyallahu'anhuma, ia berkata, "Nabi shallallahu 'alaihi wasallam berdoa diwaktu malam: 'ALLAAHUMMA LAKAL HAMDU ANTA RABBUS SAMAAWAATI WAL ARDLI LAKAL HAMD, ANTA QAYYIMUS SAMAAWAATI WAL ARDL WAMAN FIIHINNA, LAKAL HAMDU ANTA NUURUS SAMAAWAATI WAL ARDLI, QOULUKAL HAQQ, WAWA'DUKAL HAQQ, WALIQAA'UKA HAQQ, WAL JANNATU HAQQ WAN NAARU HAQQ, WASSAA'ATU HAQQ, ALLAAHUMMA LAKA ASLAMTU WABIKA AAMANTU WA'ALAIKA TAWAKKALTU, WAILAIKA ANABTU WABIKA KHAASHAMTU, WAILAIKA HAAKAMTU, FAGHFIR LII MAA QADDAMTU WAMAAA AKHKHARTU WA ASRARTU WAMAA A'LANTU ANTA ILAAHII LAA-ILAAHA LII GHAIRUKA '(Ya Allah, bagi-Mu segala puji, Engkau Tuhan langit dan bumi, bagi-Mu segala puji, Engkau pengurus langit dan bumi dan semua penghuninya, bagi-Mu segala puji, Engkau adalah cahaya langit dan bumi, firman-Mu benar, janji-Mu benar, perjumpaan terhadap-Mu adalah benar, surga adalah benar, neraka adalah benar, hari kiamat benar, ya Allah, kepada-Mu aku berserah diri, kepada-Mu aku beriman, kepada-Mu aku bertawakkal, kepada-Mu aku bersandar, karena-Mu aku memusuhi (musuh), kepada-Mu aku berhakim, maka ampunilah bagiku apa yang pernah aku lakukan dan apa yang belum aku lakukan, apa yang aku lakukan secara sembunyi-sembunyi dan apa yang aku lakukan secara terang-terangan, Engkau adalah Tuhanku, tiada sesembahan yang hak bagiku selain Engkau) '." Dan telah menceritakan kepada kami [Tsabit bin Muhammad] telah menceritakan kepada kami [Sufyan] dengan hadis ini, dan ia menyebutkan dengan redaksi, 'Engkau adalah benar dan firman-Mu benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7385</td></tr><tr><td>Arabic No</td><td>7385</td></tr><tr><td>Reference</td><td>Book 97 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ (когда поднимался) ночью (для совершения молитвы), он говорил обращаясь к Аллаху с мольбой: “О Аллах, хвала Тебе, Ты — Господь небес и земли. Ты — Вседержитель небес и земли, и тех, кто там обитает, хвала Тебе. Ты — Свет небес и земли, хвала Тебе. Слово Твоё — истина, и обещание Твоё — истина, и встреча с Тобой — истина, и Рай — истина, и Огонь — истина, и Час этот — истина! О Аллах, Тебе я покоряюсь, в Тебя верую, на Тебя только уповаю, Тебе приношу покаяние, благодаря Тебе веду споры и к Тебе на суд обращаюсь, так прости же мне мои прошлые и будущие грехи, прости совершённое мной тайно и сделанное открыто! Ты — мой Бог, нет у меня божества достойного поклонения, кроме Тебя! (Аллахумма, ля-ка-ль-хамду, Анта Раббу-с-самаввати ва-ль-ард. Ля-ка-ль-хамду, Анта Каййиму-с-самавати ва-ль-арды ва ман фи-хинна. Ля-ка-ль-хамду, Анта нуру-с-самаввати, ва-ль-арды. Ва каулюка аль-хакку, ва ва‘ду-ка-ль-хакку, ва ликау-ка хаккун, ва-ль-джаннату хаккун, ва-н-нару хаккун, ва-с-са‘ату хакк! Аллахумма, ля-ка аслямту, ва би-ка аманту, ва ‘аляй-ка таваккяльту, ва иляй-ка анабту, ва би-ка хасамту ва иляй-ка хакямту, фа-гфир ли ма каддамту, ва ма аххарту, ва ма асрарту ва ма а‘лянту! Анта Иляхи, ля иляха ли гайрук)”».\n(Аль-Бухари сказал): «Нам рассказал Сабит ибн Мухаммад, (который сказал:) “Нам рассказал Суфьян (ас-Саурий) приведя такую же цепочку передатчиков и текст хадиса, но (в нём, Пророк да благословит его Аллах и приветствует,) сказал: “Ты — Истина, и слово Твоё — истина”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7385</td></tr><tr><td>Arabic No</td><td>7385</td></tr><tr><td>Reference</td><td>Book 97 Hadith 15</td></tr></tbody></table></div>
 

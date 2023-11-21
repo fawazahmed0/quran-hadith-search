@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah bin Jundab:I prayed behing the Prophet (ﷺ) over a woman who d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yazid? bin Zurai'] telah menceritakan kepada kami [Husain Al Mu'allim], telah menceritakan kepada kami [Abdullah bin Buraidah] dari [Samurah bin Jundub] ia berkata; aku menshalatkan seorang wanita yang meninggal karena nifas di belakang Nabi shallallahu 'alaihi wasallam, dan beliau berdiri di tengah-tengahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1331) Sahih Muslim (964)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3195</td></tr><tr><td>Arabic No</td><td>3195</td></tr><tr><td>Reference</td><td>Book 21 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Самура ибн Джундуб, да будет доволен им Аллах, передаёт: «Я совершал вместе с Пророком ﷺ молитву джаназа по женщине, умершей после родов, и, совершая молитву, он стоял напротив середины её тела»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1331) Sahih Muslim (964)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3195</td></tr><tr><td>Arabic No</td><td>3195</td></tr><tr><td>Reference</td><td>Book 21 Hadith 107</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (835) Sahih Muslim (402)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>968</td></tr><tr><td>Arabic No</td><td>968</td></tr><tr><td>Reference</td><td>Book 2 Hadith 579</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах: «Совершая молитвы вместе с посланником Аллаха ﷺ мы обычно говорили сидя: “Мир Аллаху прежде Его рабов, мир такому-то и такому-то”, но однажды Посланник Аллаха ﷺ сказал: “Не говорите: “Мир /ас-салям/ Аллаху”, ведь Аллах и есть Ас-Салям, но, когда один из вас усядется, пусть говорит: “Приветствия, молитвы и всё благое Аллаху, мир тебе, о Пророк, милость Аллаха и благословения Его, мир нам и всем праведным рабам Аллаха /Ат-тахийату ли-Лляхи, ва-с-салявату ва-т-таййибату, ас-саляму ‘аляй-ка, аййуха-н-набиййу, ва рахмату-Ллахи ва баракату-ху, ас-саляму ‘аляй-на ва ‘аля ‘ибади-Лляхи-с-салихин/”. Поистине, если вы произнесёте эти слова, они коснутся каждого праведного раба на небе и на земле (или: между небом и землёй). И говорите: “Свидетельствую, что нет бога [заслуживающего поклонение], кроме Аллаха, и свидетельствую, что Мухаммад Его раб и Посланник /Ашхаду алля иляха илля-Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху/”, после чего пусть каждый из вас выберет слова мольбы, которые нравятся ему больше всего, и обратится с ними к Аллаху”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (835) Sahih Muslim (402)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>968</td></tr><tr><td>Arabic No</td><td>968</td></tr><tr><td>Reference</td><td>Book 2 Hadith 579</td></tr></tbody></table></div>
 

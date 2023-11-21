@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal] telah menceritakan kepada Kami [Ya'qub], telah menceritakan kepada Kami [ayahku] dari [Ibnu Ishaq], ia berkata; sesungguhnya [Nafi'] mantan budak Abdullah bin Umar telah menceritakan kepadaku dari [Abdullah bin Umar] bahwa ia telah mendengar Rasulullah shallAllahu wa'alaihi wa sallam melarang para wanita ketika melakukan ihram dari memakai kaos tangan, serta niqab (penutup wajah), serta pakaian yang terolesi daun bidara serta kunyit, dan setelah itu silahkan ia melakai apa yang ia sukai dari berbagai warna pakaian, yang diwarnai kuning, sutera, atau perhiasan atau celana panjang, atau jubah atau sepatu. Abu Daud berkata; hadits ini diriwayatkan oleh ['Abdah bin Sulaiman], serta [Muhammad bin Salamah] dari [Ibnu Ishaq], dari [Nafi'] hingga perkataannya; serta pakaian yang terolesi Waras serta kunyit. Dan mereka berdua tidak menyebutkan setelah perkataan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1827</td></tr><tr><td>Arabic No</td><td>1827</td></tr><tr><td>Reference</td><td>Book 11 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что он слышал, как Посланник Аллаха ﷺ запретил женщинам в состоянии ихрама надевать перчатки и закрывать лицо никабом, а также надевать окрашенную краской из жёлтого дерева или шафраном одежду. А помимо этого они могли надевать любую одежду, в том числе и окрашенную в жёлтый цвет, шёлковую и шерстяную, а также драгоценности, шаровары, рубахи, хуффы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1827</td></tr><tr><td>Arabic No</td><td>1827</td></tr><tr><td>Reference</td><td>Book 11 Hadith 107</td></tr></tbody></table></div>
 

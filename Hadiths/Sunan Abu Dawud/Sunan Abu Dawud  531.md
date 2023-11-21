@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uthman ibn Abul'As: Messenger of Allah, appoint me the leader of the tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Sa'id Al-Jurairi] dari [Abu Al-'ala'] dari [Mutharrif bin Abdullah] dari [Utsman bin Abi Al-'Ash] dia berkata; Aku pernah berkata; Wahai Rasulullah, jadikanlah saya sebagai imam kaumku! Beliau shallallahu 'alaihi wasallam bersabda: "Kamu adalah imam mereka, dan jadikanlah makmum yang terlemah di antara mereka sebagai pertimbangan (ketika mengimami shalat), dan jadikanlah muadzin dari orang yang tidak mengambil upah adzannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>531</td></tr><tr><td>Arabic No</td><td>531</td></tr><tr><td>Reference</td><td>Book 2 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Усман ибн Абуль-‘Ас сказал: «Я сказал: “О Посланник Аллаха! Назначь меня имамом в моем народе”. Он сказал: “Ты их имам и тебе следует принимать во внимание присутствие (на молитве) немощных людей, и назначай муаззином того, кто не станет брать плату за свой азан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>531</td></tr><tr><td>Arabic No</td><td>531</td></tr><tr><td>Reference</td><td>Book 2 Hadith 141</td></tr></tbody></table></div>
 

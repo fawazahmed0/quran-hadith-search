@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:I went with the Messenger of Allah (ﷺ) on an exped
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab yaitu Ats Tsaqafi] telah menceritakan kepada kami ['Ubidullah] dari [Wahab bin Kisan] dari [Jabir bin Abdullah] katanya; "Aku pernah berangkat bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu peperangan. Ternyata untaku berjalan sangat pelan karena keletihan. Rasululullah shallallahu 'alaihi wasallam tiba sebelumku, sedang aku tiba di waktu sore, lantas aku langsung mendatangi masjid dan aku menemui beliau, ketika itu beliau berada di pintu masjid. beliau bersabda: "Apakah kamu baru datang?" Aku menjawab; "Benar." Beliau bersabda: "Tinggalkanlah untamu, masuklah ke dalam masjid, dan lakukanlah shalat dua rakaat." Jabir berkata; "Maka aku masuk masjid, lalu aku shalat dan pulang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>715.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Однажды во время) военного похода, в котором я участвовал вместе с Посланником Аллаха ﷺ, мой верблюд выбился из сил и стал отставать. (Из-за этого) Посланник Аллаха ﷺ приехал (в Медину) раньше меня, а я добрался (до города только) к утру и пришёл в мечеть, у дверей которой увидел (Посланника Аллаха ﷺ). Он спросил: “Ты приехал только сейчас?” Я ответил: “Да”. Он сказал: “Тогда оставь своего верблюда, войди и соверши молитву в два рака’ата”, и я вошёл (в мечеть) и помолился, а потом вернулся (к нему)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>715.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
 

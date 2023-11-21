@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once Sa'da bint Zam'a went out at night for some need, and 'Umar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Farwah bin Abu Al Maghra'] Telah menceritakan kepada kami [Ali bin Mushir] dari [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Pada suatu malam, Saudah binti Zam'ah keluar, lalu Umar pun melihatnya dan mengenalnya, maka ia pun berkata, "Demi Allah, sesungguhnya kamu wahai Saudah tidak akan samar bagi kami." Maka ia pun kembali kepada Nabi shallallahu 'alaihi wasallam dan menuturkan hal itu pada beliau, dan saat itu beliau berada di rumahku dan sedang makan malam, sementara di tangan beliau terdapat keringat, maka Allah menurunkan wahyu kepadanya, lalu keringat itu hilang. Beliau bersabda: "Sesungguhnya Allah telah mengizin kalian untuk membuang hajat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 67 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды, когда) Сауда бинт Зам‘а вышла ночью (по нужде), ’Умар увидел её и узнал, сказав: “Клянусь Аллахом, ты Сауда, мы узнали тебя!” Тогда она вернулась к Пророку ﷺ и рассказала ему о случившемся в то время, как он ужинал в моём доме, держа в руке кость с мясом. После этого Аллах начал ниспосылать (Пророку ﷺ) откровение, а когда ниспослание закончилось, (Пророк ﷺ) сказал: “Вам (женщинам) было разрешено выходить по своим нуждам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 67 Hadith 170</td></tr></tbody></table></div>
 

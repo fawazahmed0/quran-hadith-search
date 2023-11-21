@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zadhan reported that Ibn Umar called his slave and he found the marks (of beatin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] dan ini adalah lafadz Ibnu Mutanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Firas] dia berkata; aku pernah mendengar [Dzakwan] menceritakan dari [Zadzan] bahwa [Ibnu Umar] pernah memanggil seorang budak miliknya, lalu dia melihat ada bekas pukulan dipunggungnya, lantas dia bertanya kepada budaknya, "Apakah aku telah menyakitimu?" dia menjawab, "Tidak." Ibnu Umar berkata, "Sekarang kamu telah merdeka." Zadzan melanjutkan, "Kemudian dia mengambil sesuatu dari atas tanah sambil berkata, "Dalam hal ini tidaklah aku mendapatkan pahala lebih dari ini, karena aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memukul budaknya melebihi batas atau menamprnya, maka kafarahnya (tebusannya) adalah memerdekakannya." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdurrahman] keduanya dari [Sufyan] dari [Firas] dengan sanadnya Syu'bah dan Abu 'Awanah. Adapun dalam hadits Ibnu Mahdi disebutkan, "Ada suatu had yang belum dia tunaikannya." Sedangkan dalam hadits Waki' disebutkan, "Barangsiapa menampar budaknya….", tanpa menyebutkan, "Ada hadnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4299</td></tr><tr><td>Arabic No</td><td>1657.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4299</td></tr><tr><td>Arabic No</td><td>1657.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 46</td></tr></tbody></table></div>
 

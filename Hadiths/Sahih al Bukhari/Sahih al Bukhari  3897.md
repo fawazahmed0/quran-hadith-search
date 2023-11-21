@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:We visited Khabbaba who said, "We migrated with the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Al A'masy] berkata, aku mendengar [Abu Wa'il] berkata; Kami mengunjungi [Khabbab] lalu dia bercerita; Kami telah berhijrah bersama Nabi shallallahu 'alaihi wasallam dengan hanya mengharapkan ridla Allah, dan kami telah mendapatkan pahala di sisi Allah. Lalu diantara kami ada yang meninggal lebih dahulu sebelum menikmati pahalanya sedikitpun (di dunia ini), diantaranya adalah Mus'ab bin Umair., dia terbunuh di medan Perang Uhud dan dia hanya meninggalkan selembar kain, apabila kami gunakan untuk menutup kepalanya dengan kain tersebut maka kakinya terbuka keluar dan bila kakinya yang hendak kami tutup kepalanyalah yang terbuka. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk menutup kepalanya dengan kain tersebut sedangkan kakinya kami tutup dengan dedaunan idzhir. Dan diantara kami ada juga yang telah memetik hasil usahanya (didunia ini)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3897</td></tr><tr><td>Arabic No</td><td>3897</td></tr><tr><td>Reference</td><td>Book 63 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб сказал: «Мы переселились (из Мекки в Медину) вместе с Пророком ﷺ, стремясь к лику Аллаха, поэтому Аллах и наградит нас. Некоторые из нас умерли, не получив никакой награды (в мире этом), и среди них был Мус‘аб ибн ‘Умайр, который был убит в день битвы при Ухуде. У нас не нашлось в качестве савана ничего, кроме его плаща, однако, когда мы покрывали им голову, неприкрытыми оставались ноги, когда же мы покрывали им ноги, то неприкрытой оставалась голова, и тогда Посланник Аллаха ﷺ велел нам прикрыть его голову, а на ноги набросать душистого тростника. А кто-то из нас получил свои плоды (уже в этой жизни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3897</td></tr><tr><td>Arabic No</td><td>3897</td></tr><tr><td>Reference</td><td>Book 63 Hadith 122</td></tr></tbody></table></div>
 

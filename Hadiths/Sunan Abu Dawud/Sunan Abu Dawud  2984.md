@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: I, al-Abbas, Fatimah and Zayd ibn Harithah gathered w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Ibnu Numair], telah menceritakan kepada kami [Hasyim bin Al Barid], telah menceritakan kepada kami [Husain bin Maimun], dari [Abdullah bin Abdullah], dari [Abdurrahman bin Abu Laila], ia berkata; saya mendengar [Ali] berkata; aku berkumpul bersama Al 'Abbas, Fathimah, dan Zaid bin Haritsah di sisi Nabi shallallahu 'alaihi wasallam, kemudian aku katakan; wahai Rasulullah, apabila anda memandang perlu untuk anda serahkan kepadaku hak kami dari seperlima yang ada dalam kitab Allah ini dan aku membaginya di masa hidup anda agar tidak ada seorangpun yang menyelisihiku setelahmu, maka lakukanlah! Ali berkata; kemudian beliau melakukan hal tersebut. Kemudian aku membaginya pada masa hidup Rasulullah shallallahu 'alaihi wasallam, kemudian Abu Bakr menyerahkannya kepadaku hingga setelah akhir tahun kekhilafahan Umar radliallahu 'anhu maka sesungguhnya telah datang kepadanya harta yang banyak kemudian ia melepas hak kami kemudian mengirimkan sebagian harta tersebut kepadaku. Lalu aku katakan; pada tahun ini kami tidak butuh kepadanya dan orang-orang muslim membutuhkan kepadanya, maka kembalikan kepada mereka! Kemudian Umar mengembalikan harta tersebut kepada mereka, kemudian tidak ada seorangpun yang mengundangku untuk mengambil harta tersebut setelah Umar. Kemudian aku menemui Ibnu Abbas setelah aku keluar dari sisi Umar, lalu ia berkata; wahai Ali, sungguh pagi ini engkau telah menghalangi kita mengambil sesuatu yang tidak akan dikembalikan kepada kita selamanya. Dan ia adalah laki-laki yang memiliki pemikiran yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах: «Мы с аль-‘Аббасом, Фатимой и Зейдом ибн Харисой собрались у Пророка ﷺ и я сказал: “О Посланник Аллаха, если ты считаешь нужным дать мне нашу долю из этого хумуса, оговорённую в Книге Всевышнего Аллаха, то я отделю её при твоей жизни, чтобы после тебя никто не оспаривал её у меня”. И он согласился, я делил хумус при жизни Посланника Аллаха ﷺ. Затем Абу Бакр также предоставил это мне. А в последний год жизни ‘Умара ему послали много средств, он отделил нашу долю и послал за мной, но я сказал ему: “В этом году в ней не нуждаемся, а вот мусульманам эти средства нужны, потому отдай их им”. После ‘Умара никто не звал меня ради этого. Выйдя от ‘Умара, я встретил аль-‘Аббаса, который сказал мне: “О ‘Али, сегодня утром ты лишил нас того, что никогда к нам не вернётся!” А он был очень умным и дальновидным человеком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
 

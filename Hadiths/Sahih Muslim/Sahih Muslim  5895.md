@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Al-Khudri reported:We were going with Allah's Messenger (ﷺ). As we r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'is Ats Tsaqafi]; Telah menceritakan kepada kami [Laits] dari [Ibnu Al Had] dari [Yuhannas] budak Mush'ab bin Az Zubair dari [Abu Sa'id Al Khudri] dia berkata; "Ketika kami sedang berjalan bersama-sama Rasulullah shallallahu 'alaihi wasallam di 'Arj, tiba-tiba datang seorang penyair bersenandung. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tangkap setan itu! Sesungguhnya perut orang yang dipenuhi muntah lebih baik daripada perut yang penuh dengan sya'ir (sajak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5895</td></tr><tr><td>Arabic No</td><td>2259</td></tr><tr><td>Reference</td><td>Book 41 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5895</td></tr><tr><td>Arabic No</td><td>2259</td></tr><tr><td>Reference</td><td>Book 41 Hadith 10</td></tr></tbody></table></div>
 

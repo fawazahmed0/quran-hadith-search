@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "(A believer) who accompanie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Ali Al Manjufi] berkata, telah menceritakan kepada kami [Rauh] berkata, telah menceritakan kepada kami ['Auf] dari [Al Hasan] dan [Muhammad] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Barangsiapa mengiringi jenazah muslim, karena iman dan mengharapkan balasan dan dia selalu bersama jenazah tersebut sampai dishalatkan dan selesai dari penguburannya, maka dia pulang dengan membawa dua qiroth, setiap qiroth setara dengan gunung Uhud. Dan barangsiapa menyolatkannya dan pulang sebelum dikuburkan maka dia pulang membawa satu qiroth". Hadits seperti ini juga diriwayatkan dari [Utsman Al Mu'adzin], dia berkata; telah menceritakan kepada kami ['Auf] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>47</td></tr><tr><td>Arabic No</td><td>47</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, кто проводит (в последний путь) покойного мусульманина, храня веру и надеясь на награду Аллаха, и останется с ним до тех пор, пока над ним не прочитают заупокойную молитву и тело не предадут земле, вернётся с наградой в два къирата, каждый из которых будет величиной с (гору) Ухуд. Тот же, кто совершит молитву по покойному и уйдёт до погребения, вернётся с наградой (только в один) къират»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>47</td></tr><tr><td>Arabic No</td><td>47</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
 

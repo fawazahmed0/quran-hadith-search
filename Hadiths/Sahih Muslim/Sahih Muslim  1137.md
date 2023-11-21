@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:The Messenger of 'Allah (ﷺ) said: When any one of you stand
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ismail Ibnu Ulayyah] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ibrahim] dari [Yunus] dari [Humaid bin Hilal] dari [Abdullah bin ash-Shamit] dari [Abu Dzarr] dia berkata, Rasulullah shallallahu'alaihiwasallam bersabda, "Apabila salah seorang dari kalian hendak shalat, sebaiknya kamu membuat sutrah (penghalang) di hadapannya yang berbentuk seperti kayu yang diletakkan diatas hewan tunggangan, apabila di hadapannya tidak ada sutrah seperti kayu yang diletakkan diatas hewan tunggangan, maka shalatnya akan terputus oleh keledai, wanita, dan anjing hitam.' Aku bertanya, 'Wahai Abu Dzarr, apa perbedaan anjing hitam dari anjing merah dan kuning? Dia menjawab, 'Aku pernah pula menanyakan hal itu kepada Rasulullah shallallahu'alaihiwasallam sebagaimana kamu menanyakannya kepadaku, maka jawab beliau, 'Anjing hitam itu setan'." Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Sulaiman bin al-Mughirah] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [Bapakku] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq] juga telah mengabarkan kepada kami [al-Mu'tamar bin Sulaiman] dia berkata, "Saya mendengar [Salm bin Abi adz-Dzayyal] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Yusuf bin Hammad al-Ma'ni] telah menceritakan kepada kami [Ziyad al-Bakkai] dari ['Ashim al-Ahwal] masing-masing meriwayatkan dari [Humaid bin Hilal] dengan isnad Yunus sebagaimana haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1137</td></tr><tr><td>Arabic No</td><td>510.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Зарра, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас приступает к молитве, (можно считать, что) у него есть преграда (сутра), (отделяющая его от остальных), если перед ним находится нечто (высотой) с заднюю часть седла. В противном же случае его молитва будет прервана, (если перед ним пройдёт) осёл, женщина или чёрная собака».Я (передатчик хадиса) спросил: «О Абу Зарр, а чем чёрная собака отличается от рыжей или жёлтой?» (В ответ мне) он сказал: «О сын моего брата, такой же вопрос я задал и Посланнику Аллаха ﷺ, (на что) он сказал: “Чёрная собака это шайтан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1137</td></tr><tr><td>Arabic No</td><td>510.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 299</td></tr></tbody></table></div>
 

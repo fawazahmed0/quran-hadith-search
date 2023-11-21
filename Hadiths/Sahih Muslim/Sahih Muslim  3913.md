@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidillah bin Umar Al Qawariri] dan [Muhammad bin 'Ubaid Al Ghubari] sedangkan lafazhnya dari Ubaidillah keduanya berkata; Telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dari [Abu Zubair] dan [Sa'id bin Mina'] dari [Jabir bin Abdullah] dia berkata; Rasulullah Shallallu 'alaihi wa sallam melarang jual beli muhaqalah, muzabanah, mu'awamah (menjual pohon kurma hanya beberapa tahun) dan Mukhabarah -salah satu keduanya menyebutkan; "Jual beli siniin, yaitu jual beli mu'awamah, dari dari jual belia tsanya (yaitu penjualan dengan pengecualian yang tidak ditentukan) - dan beliau memberi keringanan dalam 'ariyyah. Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Ali bin Hujr] keduanya berkata; Telah menceritakan kepada kami [Isma'il dia adalah Ibnu 'Ulayyah] dari [Ayyub] dari [Abu Az Zubair] dari [Jabir] dari Nabi Shallallu 'alaihi wa sallam, namun dia tidak menyebutkan jual beli sinin adalah mu'awamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3913</td></tr><tr><td>Arabic No</td><td>1536.08</td></tr><tr><td>Reference</td><td>Book 21 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3913</td></tr><tr><td>Arabic No</td><td>1536.08</td></tr><tr><td>Reference</td><td>Book 21 Hadith 112</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah curses a man who steals an e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] telah menceritakan kepadaku [ayahku] Telah menceritakan kepada kami [Al A'masy] mengatakan; aku mendengar [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Allah melaknat si pencuri telur sehingga tangannya dipotong, dan Allah melaknat si pencuri tali hingga dipotong tangannya." Al A'masy mengatakan, para sahabat berpendapat bahwa yang dimaksud telur disini adalah besi dan yang dimaksud tali adalah jika senilai beberapa dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>6783</td></tr><tr><td>Reference</td><td>Book 86 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Да проклянёт Аллах вора, который крадёт яйцо, за что ему отрубают руку, и который крадёт верёвку, за что ему отрубают руку!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>6783</td></tr><tr><td>Reference</td><td>Book 86 Hadith 12</td></tr></tbody></table></div>
 

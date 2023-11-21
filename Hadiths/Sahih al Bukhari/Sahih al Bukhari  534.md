@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "If i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ayyub bin Sulaiman bin Bilal] berkata, telah menceritakan kepada kami [Abu Bakar] dari [Sulaiman] berkata, [Shalih bin Kaisan] telah menceritakan kepada kami [Al A'raj 'Abdurrahman], dan selainnya dari [Abu Hurairah] dan [Nafi'] mantan budak 'Abdullah bin 'Umar, dari ['Abdullah bin 'Umar] bahwa keduanya menceritakan kepadanya dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Jika udara sangat panas menyengat maka tundalah shalat, karena panas yang sangat menyengat itu berasal dari hembusan api neraka jahannam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 9 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры и ‘Абдуллаха ибн ‘Умара, да будет доволен ими Аллах, о том, что Посланник Аллаха ﷺ сказал: «Если жара будет (слишком) сильной, отложите молитву, пока не станет прохладнее, ибо, поистине, жара усиливается от расширения ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 9 Hadith 12</td></tr></tbody></table></div>
 

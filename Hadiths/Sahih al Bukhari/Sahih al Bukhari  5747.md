@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:I heard the Prophet (ﷺ) saying, "A good dream is from Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepada kami [Sulaiman] dari [Yahya bin Sa'id] dia berkata; saya mendengar [Abu Salamah] berkata; saya mendengar [Abu Qatadah] berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Mimpi baik dari Allah sedangkan ihtilam (mimpi buruk) datangnya dari syetan, maka apabila salah seorang dari kalian mimpi sesuatu yang dibencinya, hendaknya ia menidupkan tiga kali tiaupan ketika bangun, lalu meminta perlindungan dari kejahatannya, sebab kejahatan tersebut tidak akan membahayakan dirinya." Abu Salamah berkata; "Apabila aku bermimpi sesuatu yang aku merasa lebih berat dari gunung, maka aku tidak akan memperdulikannya setelah aku mendengar hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5747</td></tr><tr><td>Arabic No</td><td>5747</td></tr><tr><td>Reference</td><td>Book 76 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Катады, что Пророк ﷺ сказал: «(Благое) сновидение /руъйа/ — от Аллаха, а дурное /хульм/ — от шайтана. И если кто-нибудь из вас увидит плохой сон, который ему не понравится, то проснувшись, пусть трижды сплюнет налево и обратится к Аллаху за защитой от зла (этого видения), и, поистине, тогда оно не повредит ему!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5747</td></tr><tr><td>Arabic No</td><td>5747</td></tr><tr><td>Reference</td><td>Book 76 Hadith 62</td></tr></tbody></table></div>
 

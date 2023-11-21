@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam memasuki mekkah bersama Usamah bin Zaid dan Utsman bin Thalhah Al Hajabi, dan Bilal, kemudian beliau menutup pintunya dan tingggal di dalamnya. Abdullah bin Umar berkata; aku bertanya kepada [Bilal] ketika ia keluar; apa yang Rasulullah shallallahu 'alaihi wasallam lakukan? Ia berkata; beliau menjadikan satu tiang berada di sebelah kirinya dan dua tiang berada di sebelah kanannya, serta tiga tiang berada di belakang beliau. Ka'bah pada saat itu memiliki enam tiang, kemudian beliau melakukan shalat. Telah menceritakan kepada kami [Abdullah bin Muhammad bin Ishaq Al Adzrami], telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Malik] dengan hadits ini, ia tidak menyebutkan beberapa tiang. Ia mengatakan; kemudian beliau melakukan shalat diantara beliau dan kiblat berjarak tiga hasta. Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti makna hadits Al Qa'nabi, dan aku lupa bertanya kepadanya; berapa raka'at beliau melakukan shalat?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (505) Sahih Muslim (1329)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2023</td></tr><tr><td>Arabic No</td><td>2023</td></tr><tr><td>Reference</td><td>Book 11 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Посланник Аллаха ﷺ вошёл в Каабу вместе с Усамой ибн Зейдом, ‘Усманом ибн Тальхой, у которого хранились ключи, и Билялем, и закрыл дверь. Некоторое время они были там. Я спросил Биляля, когда он вышел: “Что делал Посланник Аллаха ﷺ?” Биляль ответил: “Он встал так, чтобы столб оказался слева от него, другие два справа, а ещё три позади него (а тогда у Каабы было шесть опор) и совершил молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (505) Sahih Muslim (1329)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2023</td></tr><tr><td>Arabic No</td><td>2023</td></tr><tr><td>Reference</td><td>Book 11 Hadith 303</td></tr></tbody></table></div>
 

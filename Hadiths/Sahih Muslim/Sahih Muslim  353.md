@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Umama that the Messenger of Allah (ﷺ) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta [Ali bin Hujr] semuanya dari [Ismail bin Ja'far], [Ibnu Ayyub] berkata, telah menceritakan kepada kami [Ismail bin Ja'far] dia berkata, telah mengabarkan kepada kami [al-Ala'] -yaitu Ibnu Abdurrahman, mantan budak al-Huraqah- dari [Ma'bad bin Ka'ab as-Salami] dari saudaranya [Abdullah bin Ka'ab] dari [Abu Umamah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengambil hak seorang muslim dengan sumpahnya, maka Allah mewajibkan neraka untuknya, dan mengharamkan surga atasnya." Maka seorang laki-laki bertanya, "Wahai Rasulullah, meskipun itu sesuatu yang sepele?" Beliau menjawab: "Meskipun itu hanya kayu siwak." Dan telah menceritakan kepada kami tentangnya [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] serta [Harun bin Abdullah] semuanya dari [Abu Usamah] dari [al-Walid bin Katsir] dari [Muhammad bin Ka'ab] bahwa dia mendengar saudaranya [Abdullah bin Ka'ab] menceritakan, bahwa [Abu Umamah al-Haritsi] telah menceritakan kepadanya, bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>353</td></tr><tr><td>Arabic No</td><td>137.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Умама, да будет доволен им Аллах, передал, что (однажды) Посланник Аллаха ﷺ сказал: «Того, кто присвоит себе что-либо, по праву принадлежащее другому мусульманину, с помощью (ложной) клятвы, Аллах обязательно ввергнет в Огонь и сделает запретным Рай для него». (Какой-то) человек спросил его: «Даже если это будет что-то незначительное, о Посланник Аллаха?» (и Пророк ﷺ) сказал: «Даже если это будет прутик арака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>353</td></tr><tr><td>Arabic No</td><td>137.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 260</td></tr></tbody></table></div>
 

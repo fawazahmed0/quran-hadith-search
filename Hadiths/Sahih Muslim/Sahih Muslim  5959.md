@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The similitude of mine an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Muhammad An Naaqid] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam sabdanya: "Perumpamaanku dengan Nabi-nabi sebelumku adalah seperti orang membangun sebuah bangunan, lalu dia sempurnakan dan diperbagus bangunannya, hingga orang-orang pun mulai mengelilingi bangunan tersebut seraya berkata; 'Aku tidak melihat bangunan yang lebih bagus dari ini. kecuali sebuah sudut (belum terpasang) dengan sebuah bata. Maka akulah yang meletakkan atau memasang bata itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5959</td></tr><tr><td>Arabic No</td><td>2286.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5959</td></tr><tr><td>Arabic No</td><td>2286.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 22</td></tr></tbody></table></div>
 

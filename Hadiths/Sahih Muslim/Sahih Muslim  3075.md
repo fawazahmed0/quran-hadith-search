@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ jabir b. 'Abdullah (Allah be pleased with them) reported that Allah's Apostle (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa bin Yunus] dari [Ibnu Juraij] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Muhammad bin Bakr] ia berkata, telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] berkata; Pada saat haji wada', Rasulullah shallallahu 'alaihi wasallam melakukan thawaf di Baitullah dengan tetap berada di atas kendaraannya, demikian pula saat sa'i antara Shafa dan Marwa sehingga orang-orang dapat melihat dan menyaksikan beliau, serta mereka bisa bertanya tentang sesuatu pada beliau, sebab saat itu, beliau dikerumuni oleh orang-orang banyak." Ibnu Khasyram tidak menyebutkan; "Agar mereka dapat bertanya kepada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3075</td></tr><tr><td>Arabic No</td><td>1273.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 281</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3075</td></tr><tr><td>Arabic No</td><td>1273.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 281</td></tr></tbody></table></div>
 

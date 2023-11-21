@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(The tribe of) Quraish used to fast on the day of Ashura' in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] bahwa ['Irak bin Malik] menceritakan kepadanya bahwa ['Urwah] mengabarkan kepadanya dari ['Aisyah radliallahu 'anha]; Bahwa orang-orang Quraisy pada zaman Jahiliyah biasa melaksanakan puasa hari 'Asyura'. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk melaksanakannya pula hingga datang kewajiban shaum Ramadhan. Dan kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mau melaksanakannya silakan dan siapa yang tidak mau juga tidak apa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1893</td></tr><tr><td>Arabic No</td><td>1893</td></tr><tr><td>Reference</td><td>Book 30 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, что во времена джахилиййи, курайшиты соблюдали пост в день ‘Ашура, и потом Посланник Аллаха ﷺ велел соблюдать пост в этот день. (И так продолжалось) до тех пор, пока (Аллах) не вменил (людям) в обязанность (пост в течение всего) рамадана, и тогда Посланник Аллаха ﷺ сказал: «Кто желает (поститься в этот день), пусть постится, а кто желает, пусть разговляется»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1893</td></tr><tr><td>Arabic No</td><td>1893</td></tr><tr><td>Reference</td><td>Book 30 Hadith 3</td></tr></tbody></table></div>
 

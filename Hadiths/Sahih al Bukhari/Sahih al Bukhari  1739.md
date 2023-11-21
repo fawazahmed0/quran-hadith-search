@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:Ibn 'Abbas said: "Allah's Messenger (ﷺ) delivered a sermon on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada saya [Yahya bin Sa'id] telah menceritakan kepada kami [Fudhail bin Ghozwan] telah menceritakan kepada kami ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam menyampaikan khuthbah pada hari Nahar, Beliau bertanya: "Wahai sekalian manuisa, hari apakah ini? Mereka menjawab: "Hari ini hari haram (suci) ". Beliau bertanya lagi: "Negeri apakah ini?". Mereka menjawab: "Ini negeri (tanah) haram (suci) ". Beliau bertanya lagi: "Bulan apakah ini?". Mereka menjawab: "Ini bulan haram (suci) ". Beliau bersabda: "Sesungguhnya darah kalian, harta-harta kalian dan kehormatan kalian, haram atas kalian sebagaimana haramnya hari kalian ini di negeri kalian ini dan pada bulan kalian ini". Beliau mengulang kalimatnya ini berulang-ulang lalu setelah itu Beliau mengangkat kepalanya seraya berkata: "Ya Allah, apakah aku sudah sampaikan?, Ya Allah, apakah aku sudah sampaikan?. Ibnu 'Abbas radliallahu 'anhuma berkata: "Maka demi Dzat yang jiwaku berada di tanganNya, sungguh itu suatu wasiat Beliau untuk ummatnya. (Sabda Beliau selanjutnya): "Maka hendaklah yang menyaksikan menyampaikannya kepada yang tidak hadir, dan janganlah kalian kembali menjadi kafir sepeninggalku, kalian saling memukul tengkuk kalian satu sama lain (saling membunuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1739</td></tr><tr><td>Arabic No</td><td>1739</td></tr><tr><td>Reference</td><td>Book 25 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что в День жертвоприношения Посланник Аллаха ﷺ обратился к людям с проповедью и сказал: «О люди! Какой сегодня день?» Люди ответили: «Это запретный день». Он снова спросил: «Что это за город?» Люди ответили: «Это запретный город». Он спросил: «А какой это месяц?» Люди ответили: «Это запретный месяц». Тогда он сказал: «Поистине, ваша жизнь, ваше имущество и ваша честь являются запретными для вас так же, как запретными для вас является этот ваш день, в этом вашем городе, в этом вашем месяце!» Он повторил эти слова несколько раз. Затем он поднял голову и сказал: «О Аллах! Довёл ли я? О Аллах! Довёл ли я?» Ибн ‘Аббас, да будет доволен Аллах им и его отцом, добавил: «Клянусь Тем, в Чьей Руке моя душа! Это было завещанием его последователям (общине)». Пророк ﷺ так же сказал: «Пусть же присутствующий передаст это отсутствующему. И не становитесь после меня неверующими, которые рубят друг другу головы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1739</td></tr><tr><td>Arabic No</td><td>1739</td></tr><tr><td>Reference</td><td>Book 25 Hadith 217</td></tr></tbody></table></div>
 

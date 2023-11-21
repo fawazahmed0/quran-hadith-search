@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] dan [Sa'id bin Manshur] bahwa [Al Harits bin Ubaid] menceritakan kepada mereka dari [Abu Imran Al Jauni] dari [Thalhah] dari ['Aisyah radliallahu 'anha] ia berkata, "Aku bertanya, "Wahai Rasulullah, aku mempunyai dua tetangga, siapa dari mereka yang harus aku dahulukan (untuk berbuat baik)?" beliau menjawab: "Tetangga yang pintu rumahnya paling dekat denganmu." Abu Dawud berkata, "Syu'bah berkata dalam hadits ini, ada perawi bernama Thalhah, dia adalah seorang laki-laki yang berasal dari Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1661)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5155</td></tr><tr><td>Arabic No</td><td>5155</td></tr><tr><td>Reference</td><td>Book 43 Hadith 383</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1661)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5155</td></tr><tr><td>Arabic No</td><td>5155</td></tr><tr><td>Reference</td><td>Book 43 Hadith 383</td></tr></tbody></table></div>
 

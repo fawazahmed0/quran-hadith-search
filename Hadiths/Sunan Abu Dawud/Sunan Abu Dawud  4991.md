@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amir: My mother called me one day when the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Al Laits] dari [Ibnu Ajlan] bahwa [seorang laki-laki] dari budak Abdullah bin Amir bin Rabi'ah Al Adawi menceritakan kepadanya dari [Abdullah bin Amir] ia berkata, "Suatu hari ibuku memanggilku, sementara Rasulullah shallallahu 'alaihi wasallam telah duduk di dalam rumah kami. Ibuku berkata, "Hai kemarilah, aku akan memberimu." Rasulullah shallallahu 'alaihi wasallam kemudian bertanya kepada ibuku: "Apa yang akan engkau berikan kepadanya?" Ibuku menjawab, "Aku akan memberinya Kurma." Rasulullah shallallahu 'alaihi wasallam bersabda kepada ibuku: "Jika kamu tidak jadi memberikan sesuatu kepadanya, maka itu akan ditulis sebagai kebohongan atasmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4991</td></tr><tr><td>Arabic No</td><td>4991</td></tr><tr><td>Reference</td><td>Book 43 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4991</td></tr><tr><td>Arabic No</td><td>4991</td></tr><tr><td>Reference</td><td>Book 43 Hadith 219</td></tr></tbody></table></div>
 

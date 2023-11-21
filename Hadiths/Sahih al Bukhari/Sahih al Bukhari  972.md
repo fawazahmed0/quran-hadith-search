@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar: On the day of 'Id-ul-Fitr and 'Id-ul-Adha a spear used to be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami ['Abdul Wahhab] berkata, telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar], bahwa Nabi shallallahu 'alaihi wasallam menancapkan tombak pada hari Raya Fitri dan hari Raya kurban, kemudian beliau shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>972</td></tr><tr><td>Arabic No</td><td>972</td></tr><tr><td>Reference</td><td>Book 13 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Ибн ‘Умара, что Посланник Аллаха ﷺ втыкал перед собой короткое копьё в День (праздника) разговения и жертвоприношения, затем совершал молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>972</td></tr><tr><td>Arabic No</td><td>972</td></tr><tr><td>Reference</td><td>Book 13 Hadith 21</td></tr></tbody></table></div>
 

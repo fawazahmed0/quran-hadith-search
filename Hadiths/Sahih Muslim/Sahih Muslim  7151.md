@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:These are some of the ahidith which Abu Huraira repo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] berkata: Inilah yang diceritakan [Abu Hurairah] kepada kami dari Rasulullah Shallallahu 'alaihi wa Salam, ia menyebut beberapa hadits, diantaranya: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya golongan pertama yang masuk surga wujudnya seperti bulan di malam purnama, mereka tidak meludah tidak ingusan dan tidak berak didalamnya, bejana dan sisir mereka dari emas dan perak, tempat bara api mereka kayu wangi, keringat mereka minyak kesturi, masing-masing dari mereka memiliki dua istri, tulang betis keduanya terlihat dari balik kulit karena keindahannya, tidak ada perselisihan diantara mereka, hati mereka tidak saling benci, hati mereka sama, mereka memahasucikan Allah dipagi dan disore hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7151</td></tr><tr><td>Arabic No</td><td>2834.05</td></tr><tr><td>Reference</td><td>Book 53 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7151</td></tr><tr><td>Arabic No</td><td>2834.05</td></tr><tr><td>Reference</td><td>Book 53 Hadith 20</td></tr></tbody></table></div>
 

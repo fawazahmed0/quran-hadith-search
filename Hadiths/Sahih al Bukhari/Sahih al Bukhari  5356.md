@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The best alms is that which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] ia berkata; Telah menceritakan kepadaku [Al Laits] ia berkata; Telah menceritakan kepadaku [Abdurrahman bin Khalid bin Musafir] dari [Ibnu Syihab] dari [Ibnul Musayyab] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik sedekah adalah setelah kecukupan terpenuhi. Dan mulailah dari orang yang menjadi tanggunganmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5356</td></tr><tr><td>Arabic No</td><td>5356</td></tr><tr><td>Reference</td><td>Book 69 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Лучшая милостыня — та, которая оставляет человека состоятельным, (или та, которую человек подаёт, будучи состоятельным). И начинай с тех, кто находится на твоём содержании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5356</td></tr><tr><td>Arabic No</td><td>5356</td></tr><tr><td>Reference</td><td>Book 69 Hadith 6</td></tr></tbody></table></div>
 

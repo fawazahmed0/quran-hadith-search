@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, 'Allah will not look 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Nafi'] dan [Abdullah bin Dinar] serta [Zaid bin Aslam] mereka telah mengabarkan kepadanya dari [Ibnu Umar] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah tidak akan melihat orang yang menjulurkan pakaiannya dengan sombong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5783</td></tr><tr><td>Arabic No</td><td>5783</td></tr><tr><td>Reference</td><td>Book 77 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «Аллах не посмотрит на того, кто волочил за собой свою одежду из кичливости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5783</td></tr><tr><td>Arabic No</td><td>5783</td></tr><tr><td>Reference</td><td>Book 77 Hadith 1</td></tr></tbody></table></div>
 

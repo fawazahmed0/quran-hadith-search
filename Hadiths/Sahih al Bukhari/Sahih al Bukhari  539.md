@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar Al-Ghifar:We were with the Prophet (ﷺ) on a journey and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami dari [Muhajir Abu Al Hasan] mantan budak bani Taimillah, ia berkata, aku mendengar [Zaid bin Wahb] dari [Abu Dzar Al Ghifari] berkata, "Kami pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, ketika ada mu'adzin yang hendak mengumandangkan adzan Zhuhur, Nabi shallallahu 'alaihi wasallam bersabda: "Tundalah." Sesaat kemudian mu'adzin itu kembali akan mengumandangkan adzan. Maka Nabi shallallahu 'alaihi wasallam pun kembali bersabda: "Tundalah hingga kita melihat bayang-bayang bukit." Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya panas yang sangat menyengat itu berasal dari hembusan api jahannam. Maka apabila udara sangat panas menyengat tundalah shalat (hingga panas) mereda." Ibnu 'Abbas berkata, "Maksud dari firman Allah: tataqayya'u (Qs. An Nahl: 48) adalah condong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>539</td></tr><tr><td>Arabic No</td><td>539</td></tr><tr><td>Reference</td><td>Book 9 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр аль-Гъифари, да будет доволен им Аллах, сказал: «(Однажды, когда) мы с Пророком ﷺ были в пути и муаззин захотел возгласить призыв к полуденной молитве, Пророк ﷺ сказал: “(Подожди,) пока не станет прохладнее”. Через некоторое время (муаззин снова) хотел призвать людей к молитве, он же (опять) сказал: “(Подожди,) пока не станет прохладнее”, (и мы ждали,) пока не увидели тени холмов. (Затем) Пророк ﷺ сказал: «Поистине, жара усиливается от расширения ада, и поэтому, если усилится жара откладывайте молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>539</td></tr><tr><td>Arabic No</td><td>539</td></tr><tr><td>Reference</td><td>Book 9 Hadith 16</td></tr></tbody></table></div>
 

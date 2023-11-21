@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin Ammar] dan [Sulaiman bin Abdurrahman Ad-Dimasyqi] dan [Yahya bin Al-Fadll As-Sijistani] mereka berkata; Telah menceritakan kepada kami [Hatim bin Isma'il] telah menceritakan kepada kami [Ya'qub bin Mujahid, Abu Hazrah] dari [Ubadah bin Al-Walid bin Ubadah bin Ash-Shamit] dia berkata; Kami pernah mengunjungi [Jabir bin Abdullah], dia berkata; Saya pernah pergi bersama Nabi shallallahu 'alaihi wasallam dalam suatu peperangan. Lalu beliau berdiri mengerjakan shalat, sementara saya memakai kain selimut yang saya silangkan kedua ujungnya, namun tidak memadai untukku. Kain itu berumbai bagian bawahnya, maka saya membaliknya, lalu saya silangkan kedua ujungnya, kemudian saya apit (dengan leher) supaya tidak jatuh. Lalu saya datang sehingga saya berdiri di sebelah kiri Rasulullah shallallahu 'alaihi wasallam, maka beliau memegang tanganku, dan memindahkanku sehingga saya ditempatkan di sebelah kanan beliau, tiba tiba datang Ibnu Sakhr langsung berdiri di sebelah kiri beliau, maka beliau memegang kami berdua dengan kedua tangannya, sampai beliau menempatkan kami di belakang. Kata Jabir; Rasulullah menatapku, sedangkan saya tidak merasa, akhirnya saya juga dapat memahaminya. Beliau kemudian memberi isyarat kepadaku supaya saya memakai kain tersebut sebagai sarung. Setelah Rasulullah shallallahu 'alaihi wasallam selesai shalat, beliau bersabda: "Wahai Jabir." Kata Jabir; Aku jawab, ya Rasulullah. Beliau bersabda: "Apabila kain itu longgar, maka silangkanlah kedua ujungnya, dan apabila sempit, ikatlah pada pinggangmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн аль-Уалид ибн ‘Убада ибн ас-Самит сказал: "(Как-то) мы пришли к Джабиру ибн Абдуллах и он сказал: «(Однажды, когда) я участвовал с Пророком ﷺ в военном походе, он начал совершать молитву. На мне (в это время) была накидка с бахрамой и я постарался накинуть её края на плечи, но мне её не хватило. Я перевернул её, затем накинул её края (на плечи) и придерживая его шеей (и подбородком), чтобы она не спала, после чего пришёл и встал слева от Посланника Аллаха ﷺ, но он взял меня за руку и провёл меня вокруг себя, пока не поставил справа от себя. Затем пришёл Ибн Сахр и встал слева от него, а он взял нас обеими руками и поставил позади себя".(Джабир) сказал: "И он стал упорно смотреть на меня, но я этого не замечал. Затем я понял его и он указал мне, чтобы я завязал его. Когда же Посланник Аллаха ﷺ закончил (молитву), он сказал: “О Джабир!”".(Джабир) сказал: "Я сказал: "Я перед тобой, о Посланник Аллаха!". (Посланник Аллаха ﷺ) сказал: “Если (одежда) будет просторной, то накидывай её края на плечи, а если она будет тесной, то завяжи её на пояснице”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
 

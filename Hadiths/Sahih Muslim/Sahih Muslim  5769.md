@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha, la femme du Prophète (que Dieu soit satisfait d'elle), lorsqu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits bin Sa'd]; Telah menceritakan kepadaku [Bapakku] dari [Jaddi]; Telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] istri Nabi shallallahu 'alaihi wasallam, bahwa bila ada orang dari keluarganya (Aisyah) yang meninggal maka para wanita pun berkumpul, kemudian mereka pergi kecuali keluarganya dan orang-orang terdekat. Lalu (Aisyah) memerintahkan untuk mengambil periuk yang terbuat dari batu dan diisi dengan talbinah (makanan terbuat dari tepung dan kurma), lalu dimasaklah makanan tersebut, kemudian dibuat bubur dan dituangkanlah makanan tersebut diatasnya. Lalu (Aisyah) berkata; "Makanlah ia, karena sungguh saya telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Makanan yang terbuat dari tepung dan kurma tersebut penyejuk bagi hati yang sakit dan dapat menghilangkan sebagian kesedihan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5769</td></tr><tr><td>Arabic No</td><td>2216</td></tr><tr><td>Reference</td><td>Book 39 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5769</td></tr><tr><td>Arabic No</td><td>2216</td></tr><tr><td>Reference</td><td>Book 39 Hadith 121</td></tr></tbody></table></div>
 

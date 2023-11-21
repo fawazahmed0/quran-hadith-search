@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported Ibn 'Umar as saying:He who observed the night prayer should make 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1756</td></tr><tr><td>Arabic No</td><td>751.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Нафи‘ передал что Ибн ‘Умар, да будет доволен Аллах ими обоими, часто говорил: «Тот, кто будет молиться ночью, пусть последняя его молитва будет состоять из нечётного числа рак‘атов /витр/ перед наступлением рассвета», и так повелевал им Посланник Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1756</td></tr><tr><td>Arabic No</td><td>751.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 185</td></tr></tbody></table></div>
 

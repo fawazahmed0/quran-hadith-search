@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) offered the noon praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Zuhair bin Harb], telah menceritakan kepada Kami [Al Ahwash bin Jawwab Adh Dhabbi], telah menceritakan kepada Kami ['Ammar bin Ruzaiq] dari [Sulaiman Al A'masy] dari [Al Hakam] dari [Miqsam] dari [Ibnu Abbas], ia berkata: Rasulullah shallallahu 'alaihi wasallam melakukan Shalat Zhuhur pada hari Tarwiyah dan Shalat Subuh pada hari Arafah di Mina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1911</td></tr><tr><td>Arabic No</td><td>1911</td></tr><tr><td>Reference</td><td>Book 11 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ совершил полуденную молитву (зухр) в восьмой день зуль-хиджжи (йаум ат-тарвийа), а также утреннюю молитву (фаджр) в день стояния на ‘Арафате в долине Мина
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1911</td></tr><tr><td>Arabic No</td><td>1911</td></tr><tr><td>Reference</td><td>Book 11 Hadith 191</td></tr></tbody></table></div>
 

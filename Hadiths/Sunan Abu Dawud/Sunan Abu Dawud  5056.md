@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Yazid bin Khalid bin Mauhab Al Hamdani] keduanya berkata; telah menceritakan kepada kami [Al Mufadhdal Ya'niyani bin Fadhalah] dari [Uqail] dari [Ibnu Syihab] dari [Urwah] dari ['Aisyah radliallahu 'anha] berkata, "Jika Nabi shallallahu 'alaihi wasallam ingin beranjak ke kasur pada tiap malamnya, beliau menyatukan kedua telapak tangan, lalu meniupnya dengan membacakan surat QULHUWAALLAHU AHAD, QUL A'UUDZU BIRABBIL FALAQ dan QUL A'UUDZU BIRABBINNAAS. Setelah itu beliau mengusapkan kedua telapak tangannya ke seluruh tubuh yang bisa dijangkaunya. Dan beliau memulai dari kepala, wajah dan bagian depan tubuhnya." Beliau melakukan hal itu tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5017)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5056</td></tr><tr><td>Arabic No</td><td>5056</td></tr><tr><td>Reference</td><td>Book 43 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5017)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5056</td></tr><tr><td>Arabic No</td><td>5056</td></tr><tr><td>Reference</td><td>Book 43 Hadith 284</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sha'tha' reported:While we were sitting with Abu Huraira in a mosque a man w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Al Ahwash] dari [Ibrahim bin Al Muhajir] dari [Abu Sya'tsa'], katanya; "Ketika kami tengah duduk-duudk di masjid bersama [Abu Hurairah], dan ketika seorang muadzin mengumandangkan adzan, seseorang berdiri meninggalkan masjid sambil berjalan. Abu Hurairah terus mengawasinya hingga laki-laki keluar dari amsjid. Abu Hurairah lalu berkata; "Orang ini telah membangkang Abul Qasim shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>655.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аш-Ша‘саъ рассказывал: «Как-то раз мы сидели с Абу Хурайрой в мечети, и муаззин возвестил азан. Тогда встал один человек и пошёл, и Абу Хурайра провожал его своим взглядом, пока тот не вышел из мечети, и сказал: “Что касается этого, то он ослушался Абуль-Касима ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>655.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 322</td></tr></tbody></table></div>
 

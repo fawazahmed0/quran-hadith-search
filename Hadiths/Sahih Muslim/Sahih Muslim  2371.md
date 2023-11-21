@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée) : L'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya At Tujibi] -lafazhnya milik Abu Thahir- keduanya berkata, Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bersedekah sepasang kuda perang untuk membela agama Allah (fi sabilillah), maka ia akan dipanggil kelak di dalam surga, 'Wahai hamba Allah! Inilah pahala kebaikanmu.' Siapa yang rajin shalat, dia akan dipanggil dari pintu shalat; dan siapa yang ikut berjihad untuk menegakkan agama Allah, dia akan dipanggil dari pintu jihad; dan siapa yang rajin bersedekah, dia akan dipanggil dari pintu sedekah; dan siapa yang rajin berpuasa, dia akan dipanggil dari pintu AR ROYYAN." Kemudian Abu Bakar bertanya, "Wahai Rasulullah, adakah orang yang dipanggil dari semua pintu itu sekaligus?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Ya, ada, dan aku mengharap kamulah salah seorang dari mereka." Telah menceritakan kepadaku [Amru An Naqid] dan [Al Hasan Al Hulwani] dan [Abdu bin Humaid] mereka berkata, telah menceritakan kepada kami [Ya'qub] ia adalah Ibnu Ibrahim bin Sa'd, telah menceritakan kepada kami [bapakku] dari [Shalih] -dalam jalur lain- Dan telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] dengan isnad Yunus dan juga makna haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2371</td></tr><tr><td>Arabic No</td><td>1027.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Того, кто расходовал на пути Аллаха по две вещи, призовут из врат Рая: “О раб Аллаха! Это благо!” (Людей), совершавших молитвы, призовут из врат молитвы, тех, кто принимал участие в джихаде, призовут из врат джихада, тех, кто давал милостыню, призовут из врат милостыни, а постившихся призовут из врат “ар-Райян”». (Услышав это), Абу Бакр ас-Сыддик сказал: «Ни в чём не будут нуждаться те, кого призовут из (любых) этих врат, но найдутся ли такие, кого станут призывать из всех врат (Рая)?» Посланник Аллаха ﷺ сказал: «Да, и я надеюсь, что ты окажешься среди них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2371</td></tr><tr><td>Arabic No</td><td>1027.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 108</td></tr></tbody></table></div>
 

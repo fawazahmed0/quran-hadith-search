@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Mas'ud reported Allah's Messenger (ﷺ) as saying:Wretched is the man who sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Abdah bin Abu Lubabah] dari [Syaqiq bin Salamah] ia berkata, saya mendengar [Ibnu Mas'ud] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Alangkah buruknya bagi seorang yang berkata, 'Saya telah lupa surat ini dan itu atau saya lupa ayat ini dan itu.' Akan tetapi ia dilupakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>790.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн Мас‘уда, что Посланник Аллаха ﷺ сказал: «Плохо, когда человек говорит: “Я забыл такую-то и такую-то суру”, или: “Я забыл такой-то и такой-то аят” (ибо не сам он забыл), а заставил его забыть (Аллах)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>790.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 271</td></tr></tbody></table></div>
 

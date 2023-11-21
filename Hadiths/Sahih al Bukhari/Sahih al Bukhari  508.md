@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Do you make us (women) equal to dogs and donkeys? While I used t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] berkata, "Apakah kalian menyamakan kami dengan anjing dan keledai? Sungguh, aku pernah berbaring di atas tikar, lalu Nabi shallallahu 'alaihi wasallam datang dan berdiri melaksanakan shalat di tengah tikar. Aku tidak ingin mengganggu beliau, maka aku geser kakiku pelan-pekan dari tikar hingga aku keluar dari selimutku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>508</td></tr><tr><td>Arabic No</td><td>508</td></tr><tr><td>Reference</td><td>Book 8 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) ‘Аиша, да будет доволен ею Аллах, сказала: «Неужели вы приравниваете нас к собакам и ослам?! А ведь бывало так, что, когда я лежала на своём ложе, приходил Пророк ﷺ обращался лицом к середине (этого ложа) и начинал молиться! Я же сама не хотела находиться перед ним (в такое время) и поэтому проскальзывала меж двух ножек этого ложа и выбиралась из-под своего одеяла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>508</td></tr><tr><td>Arabic No</td><td>508</td></tr><tr><td>Reference</td><td>Book 8 Hadith 155</td></tr></tbody></table></div>
 

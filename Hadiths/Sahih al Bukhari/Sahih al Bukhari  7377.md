@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:We were with the Prophet (ﷺ) when suddenly there came 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Ashim Al ahwal] dari [Abu Utsman an Nahdi] dari [Usamah bin Zaid] berkata, "Kami di sisi Nabi shallallahu 'alaihi wasallam, lantas utusan salah seorang di antara kedua puteri beliau memanggilnya karena anak laki-lakinya diambang kematian. Lantas Nabi bersabda kepada sang utusan: "Pulanglah engkau ke rumah anak puteriku, dan beritahukanlah kepadanya bahwa segala milik Allah-lah yang diambil-Nya dan apa yang diberikan-Nya, dan segala sesuatu di sisi-Nya telah ada ketentuan yang ditetapkan. Suruhlah dia untuk bersabar dan mengharap-harap pahala." Anak puteri beliau kembali mengutus utusannya disertai sumpah yang isinya, 'Anda harus mendatanginya.' Kontan Nabi shallallahu 'alaihi wasallam berdiri bersama Sa'd bin Ubadah dan Muadz bin Jabal, lalu anak kecil dari puteri beliau diserahkan beliau sedang nyawanya sudah tersengal-sengal seolah-olah sudah di penghujung (sisa-sia) hayatnya. Kedua mata Nabi terus berlinang, maka Sa'd bertanya, 'Wahai Rasulullah, mengapa mata anda menangis? ' Nabi menjawab: "Inilah rahmat yang Allah letakkan dalam hati hamba-Nya, hanyasanya Allah menyayangi hamba-Nya yang penyayang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7377</td></tr><tr><td>Arabic No</td><td>7377</td></tr><tr><td>Reference</td><td>Book 97 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд (да будет доволен Аллах ими обоими) сказал: «(Однажды,) когда мы находились у Пророка ﷺ одна из его дочерей послала к нему (человека, чтобы пригласить его к себе, так как) её сын находился при смерти. Однако Пророк ﷺ (отослал этого человека обратно,) сказав: “Возвращайся и скажи ей, что Аллаху принадлежит то, что Он забрал, и то, что Он даровал, и для всего определил Он свой срок, так вели ей проявлять терпение и надеяться на награду Аллаха”. Однако (через некоторое время) она снова послала за ним сказав, что заклинает его непременно прийти к ней, и тогда Пророк ﷺ встал, и вместе с ним встали Са‘д ибн ‘Убада и Му‘аз ибн Джабаль. (В доме дочери Посланнику Аллаха ﷺ) передали мальчика, который уже начал хрипеть, и тогда глаза (Пророка ﷺ) наполнились слезами. (Увидев это,) Са‘д спросил: “О Посланник Аллаха, что это?” Он ответил: “Это — милосердие, вложенное Аллахом в сердца Его рабов, и Аллах помилует только милосердных из числа рабов Своих”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7377</td></tr><tr><td>Arabic No</td><td>7377</td></tr><tr><td>Reference</td><td>Book 97 Hadith 7</td></tr></tbody></table></div>
 

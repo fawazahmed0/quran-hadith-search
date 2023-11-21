@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salamah] telah menceritakan kepada kami [Ibnu Wuhaib] dari [Ibnu Lahi'ah] dan [Haiwah] dan [Sa'id bin Abi Ayyub] dari [Ka'b bin Alqamah] dari [Abdurrahman bin Jubair] dari [Abdullah bin Amru bin Al-'Ash], bahwasanya dia pernah mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Apabila kalian mendengar muadzin mengumandangkan adzan, maka ucapkanlah seperti apa yang diucapkannya kemudian bacalah shalawat untukku, karena sesungguhnya orang yang membaca shalawat sekali untukku, maka Allah akan menganugerahkan sepuluh shalawat (rahmat) kepadanya, lalu mohonlah kepada Allah Azza wa Jalla Washilah (kedudukan yang tinggi) untukku. Karena washilah itu suatu kedudukan yang tinggi dalam surga, yang tidak pantas kecuali bagi seseorang di antara hamba hamba Allah Ta'ala, dan saya berharap semoga sayalah yang akan menempatinya. Barangsiapa yang memohonkan wasilah kepada Allah untukku, niscaya dia akan mendapat syafaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (384)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>523</td></tr><tr><td>Arabic No</td><td>523</td></tr><tr><td>Reference</td><td>Book 2 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса о том, что он слышал, как Пророк ﷺ говорил: «Когда вы услышите призыв муаззина, повторяйте за ним то, что он говорит. Затем помолитесь за мое благословение, ибо, поистине, того, кто помолится за мое благословение один раз, Аллах благословит за это десять раз. После этого попросите Великого и Всемогущего Аллаха, чтобы Он даровал мне “аль-Василя”. Поистине, это степень в раю, которую достигнет только один раб из числа рабов Аллаха Всевышнего, и я надеюсь, что им буду я. И тот, кто попросит Аллаха даровать мне “аль-Василя”, получит (моё) заступничество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (384)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>523</td></tr><tr><td>Arabic No</td><td>523</td></tr><tr><td>Reference</td><td>Book 2 Hadith 133</td></tr></tbody></table></div>
 

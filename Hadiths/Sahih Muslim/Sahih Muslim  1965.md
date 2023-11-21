@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Rumh bin Muhajir] -[Ibnu Rumh]- berkata, telah mengabarkan kepada kami [Laits] dari [Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bila kamu berkata kepada temanmu, 'Diamlah, ' pada hari jum'at padahal Imam sedang berkhutbah, maka sungguh telah sia-sialah ibadah Jum'atmu." Dan telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Laits] telah menceritakan kepadaku [bapakku] dari [kakekku] Uqail bin Khalid, dari [Ibnu Syihab] dari [Umar bin Abdul Aziz] dari [Abdullah bin Ibrahim bin Qarizh] dan dari [Ibnul Musayyab] bahwa keduanya telah menceritakan kepadanya bahwa [Abu Hurairah] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda. Yakni dengan hadits semisalnya. Dan telah menceritakannya kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Syihab] dengan dua sanad, yakni semua yang terdapat dalam haditsnya ini adalah serupa dengannya. Hanya saja [Ibnu Juraij] berkata; [Ibrahim bin Abdullah bin Qarizh]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>851.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если в пятницу во время обращения имама с проповедью ты скажешь своему товарищу, (который будет разговаривать): “Замолчи (и слушай внимательно)!”, то будешь считаться тем, кто сам пустословит (скажешь лишнее, нечто неподобающее) /лягв/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>851.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 15</td></tr></tbody></table></div>
 

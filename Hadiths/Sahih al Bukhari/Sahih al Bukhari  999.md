@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Yasar:I was going to Mecca in the company of 'Abdullah bin 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Abu Bakar bin 'Umar bin 'Abdurrahman bin 'Abdullah bin 'Umar bin Al Khaththab] dari [Sa'd bin Yasar] bahwa dia berkata, "Aku bersama 'Abdullah bin 'Umar pernah berjalan di jalanan kota Makkah. Sa'id berkata, "Ketika aku khawatir akan (masuknya waktu) Shubuh, maka aku pun singgah dan melaksanakan shalat witir. Kemudian aku menyusulnya, maka Abdullah bin Umar pun bertanya, "Dari mana saja kamu?" Aku menjawab, "Tadi aku khawatir akan (masuknya waktu) Shubuh, maka aku singgah dan melaksanakan shalat witir." ['Abdullah bin 'Umar] berkata, "Bukankah kamu telah memiliki suri tauladan yang baik pada diri Rasulullah shallallahu 'alaihi wasallam?" Aku menjawab, "Ya. Demi Allah." Abdullah bin Umar berkata, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah shalat witir di atas untanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>999</td></tr><tr><td>Arabic No</td><td>999</td></tr><tr><td>Reference</td><td>Book 14 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Поистине, (находясь в пути,) Посланник Аллаха ﷺ нередко совершал витр сидя верхом на верблюде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>999</td></tr><tr><td>Arabic No</td><td>999</td></tr><tr><td>Reference</td><td>Book 14 Hadith 10</td></tr></tbody></table></div>
 

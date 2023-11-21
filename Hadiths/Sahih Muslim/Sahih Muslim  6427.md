@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying in a large gathering of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru An Naqid] dan ['Abad bin Humaid] keduanya berkata; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu Ibrahim bin Sa'ad; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] dia berkata; [Abu Salamah] dan ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] berkata mengenai apa yang mereka dengar dari [Abu Hurairah], Abu Hurairah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda di sebuah majlis yang terdiri dari banyak kaum muslimin; "Maukah kalian saya beri tahu tentang sebaik-baik kabilah orang-orang anshar?", mereka berkata; "Tentu wahai Rasulullah." Rasulullah bersabda: "Yaitu Bani Abdul Asyhal." Mereka berkata; "Kemudian siapa lagi wahai Rasulullah?" Beliau bersabda: "Kemudian Bani An Najjar." Mereka berkata; "Kemudian siapa lagi wahai Rasulullah?" Beliau bersabda: "Kemudian Bani Al Harits bin Al Khazraj." Mereka berkata; "Kemudian siapa lagi wahai Rasulullah?" Beliau bersabda: "Kemudian Bani Sa'idah." Mereka berkata; "Kemudian siapa lagi wahai Rasulullah?" Beliau bersabda: "Kemudian pada setiap kabilah orang-orang Anshar terdapat kebaikan." Lalu Sa'ad bin Ubadah berdiri dalam keadaan marah seraya berkata; 'Apakah kami termasuk orang yang terakhir dari yang disebutkan oleh Rasulullah shallallahu 'alaihi wasallam. Kemudian dia ingin menghadap Rasulullah, namun orang-orang dari kaumnya menghalanginya seraya berkata; 'Duduklah, Tidak merasa cukupkah kamu berada pada urutan keempat dari yang beliau sebutkan? Kalau kamu tidak relapun tentu beliau tidak akan menyebutkan lebih banyak lagi dari itu. Maka Sa'ad pun tidak jadi membantah ucapan Rasulullah shallallahu 'alaihi wasallam tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6427</td></tr><tr><td>Arabic No</td><td>2512</td></tr><tr><td>Reference</td><td>Book 44 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6427</td></tr><tr><td>Arabic No</td><td>2512</td></tr><tr><td>Reference</td><td>Book 44 Hadith 256</td></tr></tbody></table></div>
 

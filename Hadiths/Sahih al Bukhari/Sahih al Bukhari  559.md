@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:We used to offer the Maghrib prayer with the Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran] berkata, telah menceritakan kepada kami [Al Walid] berkata, telah menceritakan kepada kami [Al Awza'i] berkata, telah menceritakan kepada kami [Abu An Najasyi Shuhaib] mantan budak Rafi' bin Khadij, ia berkata, "Aku pernah mendengar [Rafi' bin Khadij] berkata, "Kami pernah shalat Maghrib bersama Nabi shallallahu 'alaihi wasallam, ketika salah seorang dari kami berlalu pergi, maka ia masih dapat melihat tempat sandal kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>559</td></tr><tr><td>Arabic No</td><td>559</td></tr><tr><td>Reference</td><td>Book 9 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж, да будет доволен им Аллах, сказал: «Обычно после того, как мы совершали закатную молитву вместе с Пророком ﷺ и любой из нас удалялся, он ещё мог рассмотреть то место, куда упала бы стрела (, пущенная им из лука)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>559</td></tr><tr><td>Arabic No</td><td>559</td></tr><tr><td>Reference</td><td>Book 9 Hadith 36</td></tr></tbody></table></div>
 

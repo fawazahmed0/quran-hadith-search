@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Once two men from the companions of Allah's Messenger (ﷺ) went o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Al Mutsannaa] telah bercerita kepada kami [Mu'adz] berkata, telah bercerita kepadaku [bapakku] dari [Qatadah] telah bercerita kepada kami [Anas radliallahu 'anhu] bahwa ada dua orang dari shahabat-shahabat Nabi shallallahu 'alaihi wasallam yang pulang (setelah bertemu) Nabi shallallahu 'alaihi wasallam pada malam yang gelap gulita, sedang pada tangan keduanya ada pelita yang menerangi jalan keduanya. Ketika keduanya berpisah, masing-masing dari sahabat tersebut terus diiringi cahaya hingga tiba menemui keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3639</td></tr><tr><td>Arabic No</td><td>3639</td></tr><tr><td>Reference</td><td>Book 61 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах: «(Однажды когда) два человека из числа сподвижников Пророка ﷺ вышли от него тёмной ночью, перед ними (зажглось нечто вроде) двух светильников (, освещавших им путь), а когда они расстались, с каждым из них осталось по одному (такому светильнику, который освещал ему путь), пока он не добрался до своего дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3639</td></tr><tr><td>Arabic No</td><td>3639</td></tr><tr><td>Reference</td><td>Book 61 Hadith 143</td></tr></tbody></table></div>
 

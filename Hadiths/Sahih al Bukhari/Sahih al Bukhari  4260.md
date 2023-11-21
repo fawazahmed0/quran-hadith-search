@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar informed me that on the day (of Mu'tah) he stood beside
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad] Telah menceritakan kepada kami [Ibnu Wahb] dari [Amru] dari [Ibnu Abu Hilal] katanya, telah mengabarkan kepadaku [Nafi'] bahwasanya [Ibnu Umar] mengabarinya bahwa ia berhenti mengamati Ja'far yang ketika itu dalam keadaan terbunuh, dan kuhitung ternyata ada padanya lima puluh luka akibat sabetan pedang atau tancapan tombak, dan tak ada lagi sisa daging pada punggungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4260</td></tr><tr><td>Arabic No</td><td>4260</td></tr><tr><td>Reference</td><td>Book 64 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Умар сказал, что в день (Мута) он остановился около Джа‘фара, который был убит (в бою), и насчитал пятьдесят колотых и резанных ран на его теле, но ни одной из них не было на его спине
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4260</td></tr><tr><td>Arabic No</td><td>4260</td></tr><tr><td>Reference</td><td>Book 64 Hadith 294</td></tr></tbody></table></div>
 

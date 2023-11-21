@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:that he paid Al-Muqanna a visit during his illness 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Talid] dia berkata; telah menceritakan kepadaku [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku ['Amru] dan yang lainnya, bahwa [Bukair] telah menceritakan kepadanya bahwa ['Ashim bin Umar bin Qatadah] menceritakan kepadanya bahwa [Jabir bin Abdullah] radliallahu 'anhuma pernah menjenguk Muqanna' kemudian dia berkata; "Kamu tidak akan sembuh hingga berbekam, karena aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya padanya terdapat obat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5697</td></tr><tr><td>Arabic No</td><td>5697</td></tr><tr><td>Reference</td><td>Book 76 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Асыма ибн ‘Умара ибн Катады о том, что (однажды) Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, навестил аль-Муканна’а, после чего сказал: «Я не уйду, пока ты не сделаешь кровопускание, ибо, поистине, я слышал, как Посланник Аллах ﷺ говорил: “Поистине, в нём исцеление!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5697</td></tr><tr><td>Arabic No</td><td>5697</td></tr><tr><td>Reference</td><td>Book 76 Hadith 19</td></tr></tbody></table></div>
 

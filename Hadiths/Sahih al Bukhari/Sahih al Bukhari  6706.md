@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ziyad bin Jubair:I was with Ibn 'Umar when a man asked him, "I have vow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Yunus] dari [Ziyad bin Jubair], dia menuturkan; aku sedang bersama [Ibnu Umar], tiba-tiba ada seorang lelaki yang bertanya; 'saya bernadzar untuk berpuasa setiap hari selasa dan rabu selama hidupku, kemudian hari itu bertepatan dengan hari Nahr (eidul adha)? ' maka dia menjawab; 'Allah memerintahkan untuk melaksanakan nadzar, dan kita dilarang untuk berpuasa pada hari nahr.' Dia mengulangi Jawabannya kepada lelaki tersebut dan berkata seperti itu dengan tidak menambahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6706</td></tr><tr><td>Arabic No</td><td>6706</td></tr><tr><td>Reference</td><td>Book 83 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зияд ибн Джубейр сказал: «Однажды я был вместе с (‘Абдуллах) ибн ‘Умаром, и один человек спросил его, сказав: “Я дал обет поститься каждый вторник или среду пока жив. Но этот день совпал с Днём жертвоприношения”. И (ибн ‘Умар) сказал: “Аллах приказал исполнять обеты, и нам было запрещено поститься в День жертвоприношения”. И (этот человек) повторил ему (эти слова), на что (ибн Умар) сказал тоже самое, не добавив (ничего) к своим (словам)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6706</td></tr><tr><td>Arabic No</td><td>6706</td></tr><tr><td>Reference</td><td>Book 83 Hadith 83</td></tr></tbody></table></div>
 

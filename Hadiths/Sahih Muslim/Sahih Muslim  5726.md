@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that Allah's Apostle (ﷺ) granted sanction to the f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Uqbah bin Mukram Al 'Ammi]; Telah menceritakan kepada kami [Abu 'Ashim] dari [Juraij] dia berkata; Dan telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jubair bin Abdullah] berkata; "Rasulullah shallallahu 'alaihi wasallam membolehkan keluarga Hazm meruqyah bekas gigitan ular." Dan beliau bertanya kepada 'Asma binti 'Umais: 'Kelihatannya tubuh anak saudaraku ini kurus kering. Apakah mereka kurang makan? ' Jawab Asma'; 'Tidak! Mereka terkena penyakit pengaruh pandangan mata.' Nabi shallallahu 'alaihi wasallam bersabda: 'Ruqyahlah mereka! ' Lalu kuminta agar beliau sudi meruqyah mereka. Tetapi beliau tetap mengatakan: 'Ruqyahlah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5726</td></tr><tr><td>Arabic No</td><td>2198</td></tr><tr><td>Reference</td><td>Book 39 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5726</td></tr><tr><td>Arabic No</td><td>2198</td></tr><tr><td>Reference</td><td>Book 39 Hadith 80</td></tr></tbody></table></div>
 

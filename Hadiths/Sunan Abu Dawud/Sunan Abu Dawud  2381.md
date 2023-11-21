@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ma'dan b. Talhah:That Abu ad-Darda' narrated to him: The Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar Abdullah bin 'Amr], telah menceritakan kepada kami [Abdul Warits], telah menceritakan kepada kami [Al Husain] dari [Yahya], telah menceritakan kepadaku [Abdurrahman bin 'Amr Al Auza'i] dari [Ya'isy bin Al Walid bin Hisyam] bahwa [ayahnya] telah menceritakan kepadanya; telah menceritakan kepadaku [Ma'dan bin Thalhah] bahwa [Abu Ad Darda'] telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam muntah kemudian beliau berbuka. Kemudian aku bertemu dengan [Tsauban] mantan budak Rasulullah shallallahu 'alaihi wasallam di masjid Damaskus. Kemudian aku katakan; sesungguhnya Abu Ad Darda' telah menceritakan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam muntah kemudia beliau berbuka. Tsauban berkata; ia telah benar, dan aku yang menuangkan untuk beliau tempat wudhunya shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2381</td></tr><tr><td>Arabic No</td><td>2381</td></tr><tr><td>Reference</td><td>Book 14 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу ад-Дарды, да будет доволен им Аллах, что однажды Посланника Аллаха ﷺ вырвало и он разговелся. Передатчик сказал: «И я встретил Саубана, вольноотпущенника Посланника Аллаха ﷺ в мечети Дамаска, и сказал: “Поистине, Абу ад-Дарда сказал мне, что однажды Посланника Аллаха ﷺ вырвало и он разговелся”. Он сказал: “Это правда. И я поливал ему, чтобы он совершил малое омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2381</td></tr><tr><td>Arabic No</td><td>2381</td></tr><tr><td>Reference</td><td>Book 14 Hadith 69</td></tr></tbody></table></div>
 

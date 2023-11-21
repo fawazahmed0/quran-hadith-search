@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Kharija bin Zaid bin Thabit:Um Al-'Ala an Ansari woman who had given th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Kharijah bin Zaid bin tsabit] dari [Ummul 'Alaa'] salah seorang sahabiyah yang pernah ikut berbaiat kepada Rasulullah Shallallahu'alaihiwasallam, mengatakan; Utsman bin mazh'un mendatangi kami dalam sebuah hunian ketika orang anshar membagi-bagi pembagian hunian kaum muhajirin, ia kemudian mengeluhkan sakitnya dan kami merawatnya hingga meninggal. Kemudian kami mengkafaninya dengan bajunya. Rasulullah Shallallahu'alaihiwasallam selanjutnya menemui kami, dan kami berujar; 'Semoga engkau hai Abu Sa'ib, mendapat rahmat Allah, kesaksianku terhadapmu, adalah betul-betul Allah telah memuliakanmu! ' Nabi bertanya; "dari mana kamu tahu?" Aku jawab; 'Saya tidak tahu.' Nabi bersabda; "demi Allah sungguh ia telah menghadapi kematian, dan saya hanya berharap ia memperoleh kebaikan dari Allah, demi Allah, aku tidak tahu padahal aku adalah Rasulullah bagaimana nantinya aku diperlakukan, juga tidak tahu bagaimana kalian diperlakukan." Ummul 'Ala' berguman; 'Demi Allah, aku tidak akan mensucikan seseorang setelahnya'. Dia menuturkan kembali; 'dan aku bermimpi melihat Ustman bin mazh'un mempunyai sungai yang mengalir, kemudian aku mendatangi Rasulullah Shallallahu'alaihiwasallam, aku ceritakan mimpiku kepada beliau, dan beliau bersabda: "Itu pertanda bahwa amalnya terus mengalir baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7018</td></tr><tr><td>Arabic No</td><td>7018</td></tr><tr><td>Reference</td><td>Book 91 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариджа ибн Зейд ибн Сабит передаёт, что однажды Умм аль-‘Аля, да будет доволен ею Аллах, женщина из числа ансаров, которая дала Посланнику Аллаха ﷺ клятву на верность исламу, сказала: «Когда ансары распределили мухаджиров на постой по жребию, нам достался ‘Усман ибн Маз‘ун, (которого мы поселили в нашем) доме, а (через некоторое время) он заболел и мы ухаживали за ним до тех пор, пока он не умер. После (того как он умер), мы завернули его в его же одежду, и к нам пришёл Посланник Аллаха ﷺ, а я сказала: “Да помилует тебя Аллах, Абу-с-Са‘иб, свидетельствую, что Аллах почтил тебя!” (Услышав эти слова, Посланник Аллаха ﷺ) спросил: “Откуда тебе знать, (что Аллах почтил его)?” Я сказала: “Я не знаю, клянусь Аллахом!” (Тогда Посланник Аллаха ﷺ) сказал: “Что касается его, то, клянусь Аллахом, он скончался, и, клянусь Аллахом, поистине, я желаю ему блага, однако клянусь Аллахом и в том, что не знаю, что будет сделано даже со мной, хотя я и посланник Аллаха!”».\nУмм аль-‘Аля сказала: «И, клянусь Аллахом, с тех пор я больше ни о ком не говорю так». (Умм аль-‘Аля) сказала: «И я увидела (во сне) текущий родник, принадлежавший ‘Усману (ибн Маз‘уну). И я пришла к Посланнику Аллаха ﷺ и сообщила ему об этом, и он сказал: “Это его деяния, которые непрерывно текут к нему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7018</td></tr><tr><td>Arabic No</td><td>7018</td></tr><tr><td>Reference</td><td>Book 91 Hadith 35</td></tr></tbody></table></div>
 

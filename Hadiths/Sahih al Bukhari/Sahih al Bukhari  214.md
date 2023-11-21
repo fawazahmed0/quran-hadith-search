@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin 'Amir:Anas said, "The Prophet (ﷺ) used to perform ablution f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Sufyan] dari ['Amru bin 'Amir] berkata, aku mendengar [Anas bin Malik] berkata. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] berkata, telah menceritakan kepadaku ['Amru bin 'Amir] berkata, aku mendengar [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam berwudlu setiap kali akan shalat." Aku bertanya, "Bagaimana cara kalian melaksanakannya?" Anas bin Malik menjawab, "Setiap orang dari kami mencukupkan dengan sekali wudlu' selama tidak berhadats (batal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>214</td></tr><tr><td>Arabic No</td><td>214</td></tr><tr><td>Reference</td><td>Book 4 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суфйан (ас-Саури) сказал: «Рассказал мне ‘Амр ибн ‘Амир со слов Анаса, да будет доволен им Аллах, который сказал: “Обычно Пророк ﷺ совершал омовение перед каждой молитвой”».\nЯ (‘Амр ибн ‘Амир) спросил: «А как поступали вы?» Он ответил: «Мы же довольствовались одним омовением, если не осквернялись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>214</td></tr><tr><td>Arabic No</td><td>214</td></tr><tr><td>Reference</td><td>Book 4 Hadith 80</td></tr></tbody></table></div>
 

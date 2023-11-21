@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with thcm) reported Allah's Messenger (ﷺ) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits]. Dan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu Umar] dari Rasulullah Shallallu 'alaihi wa sallam bahwa beliau bersabda: "Jika dua orang melakukan transaksi jual beli, maka salah satu dari keduanya berhak untuk khiyar (memilih), selagi keduanya belum berpisah dan keduanya masih berkumpul, atau salah satunya mengajukan khiyar (pilihan) kepada yang lain. Jika salah satunya telah menetapkan khiyar (pilihannya) atas yang lain, maka transaksi harus dilaksanakan sesuai dengan khiyarnya. Dan jika keduanya telah berpisah setelah melakukan transaksi jual beli, sedangkan sedangkan salah satu dari keduanya tidak membatalkan jual beli, maka transaksi telah sah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3855</td></tr><tr><td>Arabic No</td><td>1531.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3855</td></tr><tr><td>Arabic No</td><td>1531.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 54</td></tr></tbody></table></div>
 

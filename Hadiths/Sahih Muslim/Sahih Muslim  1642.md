@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bara' reported:When we prayed behind the Messenger of Allah (ﷺ) we cherished t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Abu Zaidah] dari [Mis'ar] dari [Tsabit bin 'Ubaid] dari [Ibnu Al Barra'] dari [Al Barra'] katanya; "Jika kami shalat di belakang Rasulullah shallallahu 'alaihi wasallam, maka kami menyukai jika berada di sebelah kanan beliau, sehingga beliau menghadap kami dengan wajahnya." Al Barra' mengatakan; "Aku mendengar beliau mengucapkan doa "RABBI QINII 'ADZAABAKA YAUMA TAB'ATSU AW TAJMA'U IBADAADAKA (Ya Tuhanku, jagalah aku dari siksa-Mu ketika Engkau bangkitkan atau ketika Engkau kumpulkan hamba-hamba-Mu)." Telah menceritakan kepada kami [Abu Kuraib] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Mis'ar] dengan sanad seperti ini, namun dia tidak menyebutkan redaksi "Dan beliau menghadap kami dengan wajahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>709.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ сказал: «Когда мы совершали молитву позади Посланника Аллаха ﷺ, то предпочитали находиться справа от него, чтобы (в конце молитвы) он поворачивался (сначала) к нам, и я слышал, как он говорил: “Господь мой, упаси меня от наказания Твоего в тот день, когда Ты воскресишь (или: … соберёшь) рабов Своих!” /Рабби, кы-ни ‘азаба-кя йаума таб‘асу (ау: … таджма‘у) ‘ибада-кя!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>709.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 73</td></tr></tbody></table></div>
 

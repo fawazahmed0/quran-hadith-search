@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim bin Muhammad:'Aisha said, "O my head!" Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sulaiman bin Bilal] dari [Yahya binSa'id] aku mendengar [Al Qasim bin Muhammad] mengatakan, [Aisyah] radliallahu 'anha mengeluh; "Aduh (sakitnya) kepalaku!" Lantas Rasulullah Shallallahu'alaihiwasallam berujar; "Kalaulah aku masih hidup, niscaya aku memintakan ampun untukmu dan mendoakan bagimu!" Lantas Aisyah mengatakan; 'Duhai malangnya, demi Allah, aku berprasangka engkau menyukai kematianku, kalaulah demikian, lebih baik akhir-akhir harimu menjadi pengantin di rumah salah satu isterimu.' Lantas Rasulullah shallallahu 'alaihi wasallam menyahut: "Bahkan aku, aduh sakitnya kepalaku! Saya berkeinginan sekali untuk mengutus utusan kepada Abu Bakar dan anaknya dan mewasiatkan (kekhilafahan kepadanya), (karena aku tidak suka) orang-orang berkata (khilafah untukku atau untuk fulan) atau (karena khawatir) orang-orang mengangan-angankannya, kemudian aku katakan; 'Allah enggan (kekhilafahan untuk selain Abu Bakar), dan orang-orang mukmin menolak (selain dia), " atau dengan redaksi; "Allah menolak (selain dia) dan orang-orang mukmin enggan (kekhilafahan untuk selain Abu Bakar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7217</td></tr><tr><td>Arabic No</td><td>7217</td></tr><tr><td>Reference</td><td>Book 93 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Касим ибн Мухаммад сказал: «(Однажды) ‘Аиша, да будет доволен ею Аллах, (у которой болела голова,) воскликнула: “О, моя голова!” Посланник Аллаха ﷺ сказал: “Я хотел бы, чтобы это случилось при моей жизни, и тогда я просил бы Аллаха прощения для тебя и обращался бы к Аллаху с мольбами за тебя!” ‘Аиша воскликнула: “О, горе мне! Клянусь Аллахом, поистине, я думаю, что ты желаешь моей смерти, и, если это случится, ты проведёшь остаток дня с одной из твоих жён!” (На это) Пророк ﷺ сказал: “Нет (, тогда я скажу): “О, моя голова!” И я хотел послать за Абу Бакром и его сыном и назначить его своим преемником, чтобы люди ничего не говорили и ничего не желали, но потом я сказал (себе): “Аллах не допустит (этого), а верующие отвергнут (всё иное) [или: Аллах отвергнет (всё иное), а верующие не допустят (этого)]!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7217</td></tr><tr><td>Arabic No</td><td>7217</td></tr><tr><td>Reference</td><td>Book 93 Hadith 77</td></tr></tbody></table></div>
 

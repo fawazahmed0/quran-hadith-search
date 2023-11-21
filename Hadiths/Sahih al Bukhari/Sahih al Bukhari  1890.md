@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Aslam from his father:'Umar said, O Allah! Grant me martyrdom 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Khalid bin Yazid] dari [Sa'id bin Abu Hilal] dari [Zaid bin Aslam] dari [bapaknya] dari ['Umar radliallahu 'anhu] berkata: "Ya Allah berilah aku mati syahid dijalanMu, dan jadikanlah kematianku di negeri RasulMu, shallallahu 'alaihi wasallam). Dan [Ibnu Zurai'] berkata, dari [Rauh bin Al Qasim] dari [Zaid bin Aslam] dari [bapaknya] dari [Hafshah binti 'Umar radliallahu 'anhuma] berkata; "Aku mendengar ['Umar] seperti hadits ini". Dan [Hisyam] berkata, dari [Zaid] dari [bapaknya] dari [Hafshah]; Aku mendengar ['Umar radliallahu 'anhu]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1890</td></tr><tr><td>Arabic No</td><td>1890</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аслям передал от своего отца, что Умар, да будет доволен им Аллах, сказал: «О Аллах! Даруй мне шахаду на Твоём пути! И умертви меня в городе Твоего посланника ﷺ!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1890</td></tr><tr><td>Arabic No</td><td>1890</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said :When the deputation of ‘Abd al-Qais came to the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepadaku [Yahya bin Sa'id] dari [Syu'bah] berkata, telah menceritakan kepadaku [Abu Hamzah] ia berkata; Aku mendengar [Ibnu Abbas] ia berkata, "Ketika utusan Abdu Qais datang kepada Rasulullah shallallahu 'alaihi wasallam, beliau memerintahkan mereka untuk beriman kepada Allah. Beliau bertanya: "Tahukah kalian yang dimaksud dengan iman kepada Allah?" para sahabat menjawab, "Allah dan Rasul-Nya lebih tahu." Beliau bersabda: "Bersaksi bahwa tidak ada tuhan -yang berhak untuk disembah- selain Allah dan Muhammad adalah Rasulullah, melaksanakan shalat, menunaikan zakat, puasa ramadhan dan engkau keluarkan seperlima ghanimah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (53) Sahih Muslim (17)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4677</td></tr><tr><td>Arabic No</td><td>4677</td></tr><tr><td>Reference</td><td>Book 42 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Когда к Посланнику Аллаха ﷺ прибыла делегация племени ‘абдулькайса, он велел им верить в Аллаха и спросил: “Знаете ли вы, что такое вера в Аллаха?” Они ответили: “Аллах и Его посланник знают об этом лучше”. Он сказал: “Это свидетельство, что нет бога [заслуживающего поклонение], кроме Аллаха, и что Мухаммад Посланник Аллаха, совершение молитвы, выплата закята, пост в рамадане, а также выделение пятой части военной добычи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (53) Sahih Muslim (17)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4677</td></tr><tr><td>Arabic No</td><td>4677</td></tr><tr><td>Reference</td><td>Book 42 Hadith 82</td></tr></tbody></table></div>
 

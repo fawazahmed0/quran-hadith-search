@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:It is one out of these (narrations) that Abu Huraira
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] ia berkata; inilah yang telah diceritakan kepada kami oleh [Abu Hurairah] dari Muhammad Rasulullah shallallahu 'alaihi wasallam. Lalu ia pun menyebutkan beberapa hadits, diantaranya adalah; Abu Hurairah berkata; Ketika ada seseorang yang menuntun Badanah (sapi/unta miliknya) yang telah dikalungkan sebagai tanda untuk hewan kurban, Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Huss kamu, kendarai saja." Maka laki-laki itu pun berkata, "Ini adalah hewan kurban ya Rasulullah." Beliau bersabda: "Huss kamu, hendarai saja! Huss kamu, kendarai saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>1322.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 414</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>1322.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 414</td></tr></tbody></table></div>
 

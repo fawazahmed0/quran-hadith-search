@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Tha'laba Al-Khushani:The Prophet (ﷺ) forbade the eating of wild a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Idris Al Khaulani] dari [Abu Tsa'labah Al Khusyani] radliallahu 'anhu dia berkata; Nabi Shallallahu 'alai wasallam melarang makan setiap binatang buas yang bertaring." Az Zuhri mengatakan; "Aku belum mendengar hadits tersebut hingga aku tiba di Syam, [Al Laits] menambahkan, katanya; telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] perawi berkata; lalu aku bertanya kepada Ibnu Syihab; "Apakah kita harus berwudlu' atau bolehkah kita meminum susu keledai betina atau memakan empedu binatang buas atau meminum kencing unta?" dia menjawab; "Orang-orang muslim banyak yang menjadikannya obat, dan mereka menganggap hal itu tidak mengapa, adapun susu keledai, maka telah sampai kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam melarang memakan dagingnya sementara belum sampai kepada kami tentang larangan dan perintah meminum susunya, sedangkan empedu binatang buas. Ibnu Syihab mengatakan; telah mengabarkan kepadaku [Abu Idris Al Khaulani] bahwa [Abu Tsa'labah Al Khusani] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam melarang makan setiap binatang buas yang bertaring
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>5780</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘лябы аль-Хушаний, да будет доволен им Аллах, что Пророк ﷺ запретил употреблять в пищу мясо любых хищников, имеющих клыки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>5780</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

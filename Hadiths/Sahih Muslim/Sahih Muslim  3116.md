@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : "Je n'ai jamais vu l'Envoyé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] semuanya dari [Abu Mu'awiyah] - [Yahya] berkata- telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Umarah] dari [Abdurrahman bin Yazid] dari [Abdullah] ia berkata; "Aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam menunaikan shalat melainkan tepat pada waktunya, kecuali dua shalat, yaitu shalat Maghrib dan Isya'. Dan di hari itu, beliau shalat Shubuh sebelum waktunya." Dan Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari [Jarir] dari [Al A'masy] dengan isnad ini, dan ia menyebutkan; "Sebelum waktunya, yakni saat kegelapan malam masih melekat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>1289.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 320</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>1289.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 320</td></tr></tbody></table></div>
 

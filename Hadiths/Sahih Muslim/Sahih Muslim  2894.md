@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported that a person proceeded along wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa bin Yunus] dari [Ibnu Juraij] telah mengabarkan kepadaku [Amru bin Dinar] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Seorang laki-laki melakukan Ihram bersama Nabi shallallahu 'alaihi wasallam, lalu ia tersungkur jatuh dari Unta hingga lehernya patah dan meninggal seketika itu. maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Mandikanlah jenazahnya dengan air bercampur daun bidara. Lalu kafanilah ia dengan kedua helai kain (ihram) -nya. Dan janganlah kalian menutupi kepala dengan surban, karena ia akan datang kelak di hari kiamat dalam keadaan Ihram." Dan Telah menceritakannya kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Muhammad bin Bakr Al Bursani] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Amru bin Dinar] bahwa [Sa'id bin Jubair] telah mengabarkan kepadanya dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Seorang laki-laki melakukan Ihram bersama Rasulullah shallallahu 'alaihi wasallam. yakni serupa dengan hadits di atas. Hanya saja ia menyebutkan; "Sebab, ia akan dibangkitkan kelak di hari kiamat dalam keadaan Mulabbiyan (berihram)." Dan ia juga menambahkan; Sa'id bin Jubair tidak menyebutkan kata "HAITSU KHARRA (jatuh tersungkur)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2894</td></tr><tr><td>Arabic No</td><td>1206.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2894</td></tr><tr><td>Arabic No</td><td>1206.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 103</td></tr></tbody></table></div>
 

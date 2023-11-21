@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya bacakan di hadapan [Malik]; dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam pernah menemui Ummu Haram binti Milhan -isteri Ubadah bin Shamit- kemudian ia menghidangkan makanan untuk beliau. Setelah itu Ummu Haram menyisir rambut Ummu Haram hingga Rasulullah shallallahu 'alaihi wasallam tertidur, tiba-tiba beliau terbangun sambil tertawa." Ummu Haram berkata, "Apa yang menyebabkanmu tertawa wahai Rasulullah?" beliau bersabda: 'Sekelompok umatku diperlihatkan Allah Ta'ala kepadaku, mereka berperang di jalan Allah mengarungi lautan dengan kapal, yaitu para raja di atas singgasana atau bagaikan para raja di atas singgasana." -perawi ragu antara keduanya- Ummu Haram berkata: "Wahai Rasulullah, do'akanlah semoga saya termasuk di antara mereka." Kemudian beliau mendo'akannya. Setelah itu beliau meletakkan kepalanya hingga tertidur. Tiba-tiba beliau terbangun sambil tertawa." Ummu Haram berkata, "Lalu saya bertanya: "Wahai Rasulullah, apa yang membuatmu tertawa?" beliau menjawab: "Sekelompok umatku diperlihatkan Allah Ta'ala kepadaku, mereka berperang di jalan Allah…" -sebagaimana sabda beliau yang pertama- Ummu Haram berkata; lalu saya berkata, "Wahai Rasulullah, do'akanlah saya semoga termasuk di antara mereka!" Beliau bersabda: "Kamu termasuk dari rombongan pertama." Pada masa (pemerintahan) Mu'awiyah, Ummu Haram turut dalam pasukan Islam berlayar ke lautan (untuk berperang di jalan Allah), ketika mendarat, dia terjatuh dari kendaraannya hingga meninggal dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4934</td></tr><tr><td>Arabic No</td><td>1912.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4934</td></tr><tr><td>Arabic No</td><td>1912.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 229</td></tr></tbody></table></div>
 

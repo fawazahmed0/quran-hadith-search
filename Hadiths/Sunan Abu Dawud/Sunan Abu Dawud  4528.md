@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas: A Jew killed a girl of the Ansar for her ornaments. He then threw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Ayyub] dari [Abu Qilabah] dari [Anas] berkata, "Seorang Yahudi membunuh serang wanita Anshar untuk merebut perhiasannya. Yahudi itu lalu membuang budak wanita tersebut ke dalam sumur tua dan menghimpit kepalanya dengan batu. Yahudi itu akhirnya ditangkap dan dibawa ke hadapan Nabi shallallahu 'alaihi wasallam, beliau lalu memerintahkan agar yahudi itu dirajam hingga mati, maka yahudi itu dirajam hingga mati." Abu Dawud berkata, " [Ibnu Juraij] meriwayatkannya dari [Ayyub] seperti itu pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1672)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>4528</td></tr><tr><td>Reference</td><td>Book 41 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что один иудей убил девочку из числа ансаров из-за драгоценностей, которые были на ней. Он бросил её в колодец, разбив ей голову камнями. Потом его схватили, и привели к Пророку ﷺ и он велел забить его камнями до смерти, и его забили камнями до смерти
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1672)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>4528</td></tr><tr><td>Reference</td><td>Book 41 Hadith 35</td></tr></tbody></table></div>
 

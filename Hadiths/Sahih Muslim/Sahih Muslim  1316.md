@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas said:We used to know that Allah's Messenger (ﷺ) had finished his pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru], dia berkata; [Abu Ma'bad] pernah mengabariku dengan ini, namun setelah itu ia memungkirinya, dari [Ibn Abbas], dia berkata; "Kami pernah menyertai Rasulullah shallallahu 'alaihi wasallam, setelah shalat beliau mengakhirinya dengan takbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1316</td></tr><tr><td>Arabic No</td><td>583.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Обычно мы узнавали о том, что Посланник Аллаха ﷺ закончил молитву, (слыша) произнесение слов “Аллаху акбар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1316</td></tr><tr><td>Arabic No</td><td>583.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 154</td></tr></tbody></table></div>
 

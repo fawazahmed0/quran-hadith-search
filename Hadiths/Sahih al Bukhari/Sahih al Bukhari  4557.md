@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Verse:--"You (true Muslims) are the best of peoples eve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Sufyan] dari [Maisarah] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] mengomentari ayat "Kalian adalah sebaik-baik umat yang diutus kepada seluruh manusia." (QS.Ali Imran 110), kata Abu Hurairah; 'Sebaik-baik manusia untuk manusia, adalah kalian membawa mereka dengan dirantai, hingga mereka masuk Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4557</td></tr><tr><td>Arabic No</td><td>4557</td></tr><tr><td>Reference</td><td>Book 65 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал о словах (Всевышнего Аллаха) «Вы являетесь лучшей из общин, появившейся на благо человечества…»: «Лучшими из людей для людей являются те, кто приведет их окованными в цепи, пока те не примут ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4557</td></tr><tr><td>Arabic No</td><td>4557</td></tr><tr><td>Reference</td><td>Book 65 Hadith 79</td></tr></tbody></table></div>
 

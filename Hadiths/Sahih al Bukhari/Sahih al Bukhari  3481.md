@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A man used to do sinful deeds, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3481</td></tr><tr><td>Arabic No</td><td>3481</td></tr><tr><td>Reference</td><td>Book 60 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайра, да будет доволен им Аллах, что Пророк ﷺ сказал: «Один человек, совершал много грехов, и когда к нему подступила смерть, он сказал своим сыновьям: “Когда я умру, сожгите моё тело, затем истолките его в порошок, и развейте мой прах на ветру. И, клянусь Аллахом, если мой Господь сможет (собрать меня), Он подвергнет меня такому наказанию, которому не подвергал никого”. Когда он умер, с ним сделали то, что просил. И Аллах повелел земле: “Собери то, что есть в тебе из его останков!” Она так и сделала, и он был собран. Потом (Аллах) спросил: “Что побудило тебя к тому, что ты сделал?” Он ответит: “О Господь, страх перед тобой!” И Аллах простил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3481</td></tr><tr><td>Arabic No</td><td>3481</td></tr><tr><td>Reference</td><td>Book 60 Hadith 148</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:I heard Allah's Apostle (ﷺ) as saying that the inmates of Parad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], teks milik Utsman. Berkata Utsman: telah menceritakan kepada kami, sedangkan Ishaq berkata: Telah mengkhabarkan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] berkata: Aku mendengar nabi Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya penghuni surga makan dan minum didalamnya, mereka tidak meludah, tidak kencing, tidak berak dan tidak ingusan." Mereka bertanya: Bagaimana dengan makanannya? Beliau menjawab: "Sendawa dan keringat seperti keringat minyak kesturi, mereka diilhami tasbih dan tahmid seperti kalian diilhami nafas." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata: telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dengan sanad ini hingga sabda beliau: "Seperti keringat minyak kesturi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7152</td></tr><tr><td>Arabic No</td><td>2835.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7152</td></tr><tr><td>Arabic No</td><td>2835.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 21</td></tr></tbody></table></div>
 

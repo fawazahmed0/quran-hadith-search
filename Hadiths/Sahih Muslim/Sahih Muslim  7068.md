@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah said that five signs have (become things) of the past (and have proved 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Adh Dhuha] dari [Masruq] dari [Abdullah] berkata: Lima (tanda-tanda) Telah terjadi: kabut, kematian, (kemenangan) Romawi, hantaman keras dan (terbelahnya) bulan. Telah menceritakan kepada kami [Abu Sa'id Al Asyuj] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dengan sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7068</td></tr><tr><td>Arabic No</td><td>2798.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7068</td></tr><tr><td>Arabic No</td><td>2798.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 24</td></tr></tbody></table></div>
 

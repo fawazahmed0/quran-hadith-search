@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) used to stand by a stem of a date
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah mengabarkan kepadaku [Yahya bin Sa'id] berkata, telah mengabarkan kepada kami [Ibnu Anas] bahwa dia mendengar [Jabir bin 'Abdullah] berkata, "Pada mulanya Nabi shallallahu 'alaihi wasallam menggunakan batang kayu sebagai tongkat yang biasa beliau gunakan untuk bersandar. Ketika sudah dibuatkan mimbar untuk Beliau, kami mendengar sesuatu dari batang kayu tersebut seperti suara unta hendak beranak, hingga akhirnya Nabi shallallahu 'alaihi wasallam turun lalu meletakkan tangan Beliau pada kayu tersebut." [Sulaiman] berkata, dari [Yahya] berkata, telah mengabarkan kepadaku [Hafsh bin 'Ubaidullah bin Anas] bahwa dia mendengar dari [Jabir bin 'Abdullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>918</td></tr><tr><td>Arabic No</td><td>918</td></tr><tr><td>Reference</td><td>Book 11 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал:«(В первое время перед началом хутбы) Пророк ﷺ становился у пня пальмы (, на который он облокачивался), а когда для него был установлен минбар, мы услышали (исходившие от) этого пня звуки, подобные звукам (, издаваемым) стельными верблюдицами(, которые не прекратились) до тех пор, пока Пророк ﷺ не сошел вниз и не возложил на него руку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>918</td></tr><tr><td>Arabic No</td><td>918</td></tr><tr><td>Reference</td><td>Book 11 Hadith 42</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Bakra (que Dieu l'agrée), Un homme ayant fait l'éloge d'un autre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Khalid Al Hadzdza'] dari [Abdurrahman bin Abu Bakrah] dari [ayahnya] berkata: Seseorang memuji orang lain didekat nabi Shallallahu 'alaihi wa Salam lalu beliau bersabda: "Cekalah kamu, kau memotong leher temanmu, kau memotong leher temanmu -berkali-kali- bila salah seorang dari kalian memuji temannya -tidak mustahil- hendaklah mengucapkan: 'Aku kira fulan, dan Allah yang menilainya, aku tidak menyucikan seorang pun atas Allah, aku mengiranya -bila ia mengetahuinya- seperti ini dan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7501</td></tr><tr><td>Arabic No</td><td>3000.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра сказал: (Как-то раз) в присутствии Пророка ﷺ упомянули об одном человеке, после чего другой стал хвалить его, а Пророк ﷺ воскликнул: «Горе тебе, ты перерезал горло своему брату!», (повторив эти слова) много раз, после чего он сказал: «Пусть тот из вас, кому обязательно будет нужно похвалить своего брата, скажет: „Я считаю (такого-то) таким-то и таким-то“, если он (и в самом деле) считает его таким, а отчёта за это с него потребует Аллах, и никого не следует обелять пред Аллахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7501</td></tr><tr><td>Arabic No</td><td>3000.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 83</td></tr></tbody></table></div>
 

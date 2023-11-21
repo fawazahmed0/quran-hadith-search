@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "My heirs should not take eve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'roj] dari [Abu Hurairah Radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaiwasallam bersabda: "Janganlah warisanku dibagi-bagi sebagai dinar. Apa yang aku tinggalkan selain untuk nafkah istri-istriku dan gaji amil zakatku semuanya sebagai shadaqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 57 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Мои наследники не будут делить ни одного динара, а то, что я оставил после расходования на своих жён и оплаты моим работникам, есть садака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 57 Hadith 5</td></tr></tbody></table></div>
 

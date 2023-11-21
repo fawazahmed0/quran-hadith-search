@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Umm Sulaim was with the wives of Allah's Apostle (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Al Mutsanna]; Telah menceritakan kepada kami ['Abdush Shamad]; Telah menceritakan kepadaku [Hammam]; Telah menceritakan kepada kami [Qatadah] dari [Anas] dia berkata; Rasulullah shallallahu 'alaihi wasallam memiliki seorang pemandu yang bagus suaranya. Rasulullah shallallahu 'alaihi wasallam berkata kepadanya; "Pelan-pelan wahai Anjasyah, janganlah kau pecahkan botol-botol kaca itu." maksudnya para wanita lemah yang dipandunya. Telah menceritakannya kepada kami [Ibnu Basyar] Telah menceritakan kepada kami [Abu Daud] Telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, namun dia tidak menyebutkan; 'pemandu yang bagus suaranya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6040</td></tr><tr><td>Arabic No</td><td>2323.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6040</td></tr><tr><td>Arabic No</td><td>2323.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 97</td></tr></tbody></table></div>
 

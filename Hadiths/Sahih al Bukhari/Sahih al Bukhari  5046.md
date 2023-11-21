@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:Anas was asked, "How was the recitation (of the Qur'an) of the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin 'Ashim] Telah menceritakan kepada kami [Hammam] dari [Qatadah] ia berkata; [Anas] pernah ditanya, "Bagaimankah bacaan Nabi shallallahu 'alaihi wasallam?" Ia pun menjawab, "Bacaan beliau adalah panjang." Lalu ia pun membaca: "BISMILLAAHIRRAHMAANIRRAHIIM." Anas menjelaskan, "Beliau memanjangkan bacaan, 'BISMILLAH' dan juga memanjangkan bacaan, 'ARRAHMAAN' serta bacaan, 'ARRAHIIM
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5046</td></tr><tr><td>Arabic No</td><td>5046</td></tr><tr><td>Reference</td><td>Book 66 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что в ответ на вопрос: «Как читал (Коран) Пророк ﷺ?» — Анас ибн Малик, да будет доволен им Аллах, сказал: «Он удлинял (определённые звуки)», после чего прочитал: «Би-сми-Лляхи-р-Рахмани-р-Рахим /С именем Аллаха Всемилостивого, Милующего/», удлинив слова «Би-сми-Лляхи», и слово «ар-Рахмани», и слово «ар-Рахим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5046</td></tr><tr><td>Arabic No</td><td>5046</td></tr><tr><td>Reference</td><td>Book 66 Hadith 70</td></tr></tbody></table></div>
 

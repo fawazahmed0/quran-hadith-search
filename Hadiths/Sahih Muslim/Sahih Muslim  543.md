@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b Sa'id b al-As reported:I was with Uthman, and he called for ablution water
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] dan [Hajjaj bin asy-Syair] keduanya meriwayatkan dari [Abu al-Walid], [Abd] berkata, telah menceritakan kepadaku [Abu al-Walid] telah menceritakan kepada kami [Ishaq bin Sa'id bin Amru bin Sa'id bin al-Ash] telah menceritakan kepadaku [bapakku] dari [bapaknya] dia berkata, "Kami berada di sisi [Utsman], lalu dia meminta air wudlu seraya berkata, 'Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang muslim didatangi shalat fardlu, lalu dia membaguskan wudlunya dan khusyu'nya dan shalatnya, melainkan itu menjadi penebus dosa-dosanya terdahulu, selama dia tidak melakukan dosa besar. Dan itu (berlaku) pada seluruh zaman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>228</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Исхакъ ибн Са‘ид ибн ‘Амр ибн Са‘ид ибн аль-‘Ас со слов своего отца и деда рассказывал: (Однажды), когда я находился у ‘Усмана (ибн ‘Аффана), да будет доволен им Аллах, он велел принести себе воду для омовения и сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Для любого мусульманина, который с наступлением времени обязательной молитвы должным образом совершит омовение, (а во время молитвы) будет проявлять должное смирение и правильно совершит все поклоны, (эта молитва) обязательно послужит искуплением совершённых до неё грехов, если не было (среди них ни одного) тяжкого, и так будет всегда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>228</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
 

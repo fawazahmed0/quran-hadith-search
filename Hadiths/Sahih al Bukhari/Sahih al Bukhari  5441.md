@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -77,6 +79,20 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5441.2</td></tr><tr><td>Arabic No</td><td>5441.2</td></tr><tr><td>Reference</td><td>Book 70 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ’Усман рассказывал: «(Однажды) я гостил у Абу Хурайры в течении семи дней. Абу Хурайра, его жена и рабыня менялись в течении ночи трижды: каждый совершал ночную молитву, а затем будил другого. И я слышал, как Абу Хурайра сказал: “Однажды Посланник Аллаха ﷺ разделил между своими сподвижниками финики, дав и мне семь фиников, один из которых оказался сухим и незрелым”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5441</td></tr><tr><td>Arabic No</td><td>5441</td></tr><tr><td>Reference</td><td>Book 70 Hadith 69</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ разделил между нами финики, мне досталось пять штук: четыре из которых были хорошими, а один оказался сухим и незрелым. Затем я обнаружил, что незрелый финик был самым твёрдым для моих зубов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5441.2</td></tr><tr><td>Arabic No</td><td>5441.2</td></tr><tr><td>Reference</td><td>Book 70 Hadith 70</td></tr></tbody></table></div>
 

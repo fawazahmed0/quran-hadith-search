@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:My father, seeing a silken cloak being sold, said, "O Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Aziz bin Muslim] telah menceritakan kepada kami [Abdullah bin Dinar] dia berkata; saya mendengar [Ibnu Umar] radliallahu 'anhuma berkata; "Umar pernah melihat baju sutera yang bercorak dijual, lalu dia berkata; "Wahai Rasulullah, Alangkah bagusnya seandainya Anda membelinya untuk Anda pakai berkhutbah pada hari jum'at', dan di saat menerima para utusan." Rasulullah shallallahu 'alaihi wasallam menjawab: 'Yang memakai sutera ini hanyalah orang yang tidak mendapat bagian di akhirat. Tidak berapa lama Nabi shallallahu 'alaihi wasallam diberi seseorang beberapa helai pakaian diantaranya kain sutera. Lalu beliau kirimkan sehelai kain sutera kepada 'Umar. Maka Umar bertanya; "Ya Rasulullah! Bagaimana anda menyuruhku untuk memakai baju sutera ini? Bukankah kemarin Anda telah berkata kepadaku tentang baju ini?" beliau menjawab: 'Aku tidak mengirimkannya kepadamu untuk kamu pakai, namun untuk kamu jual atau kamu pakaikan kepada orang lain' Lalu Umar memberikan kain itu kepada saudaranya yang masih musyrik di kota Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5981</td></tr><tr><td>Arabic No</td><td>5981</td></tr><tr><td>Reference</td><td>Book 78 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды ‘Умар, увидев, как один человек продаёт одежду с полосками шёлка, сказал (Пророку ﷺ): “О Посланник Аллаха, купи эту (одежду), чтобы надевать её по пятницам, а также в тех случаях, когда к тебе прибывают делегации”. (На это) Посланник Аллаха ﷺ сказал: “Такую одежду носит лишь тот, у кого нет доли (в мире вечном)!” Некоторое время спустя Пророку ﷺ доставили много таких одежд, и одну из них он отправил ‘Умару. ‘Умар сказал: “Как я надену это, когда ты сказал о такой одежде то, что сказал?!” (На это) Посланник Аллаха ﷺ сказал: “Поистине, я подарил тебе (эту одежду) не для того, чтобы ты носил её, однако чтобы ты продал или подарил её!” Тогда ‘Умар подарил её своему брату, жившему в Мекке, прежде чем тот принял ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5981</td></tr><tr><td>Arabic No</td><td>5981</td></tr><tr><td>Reference</td><td>Book 78 Hadith 12</td></tr></tbody></table></div>
 

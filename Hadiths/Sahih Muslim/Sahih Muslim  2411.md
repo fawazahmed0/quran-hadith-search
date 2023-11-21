@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) had said this:The heart o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] dan [Harmalah] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Hati orang tua tetap muda dalam mencintai dua hal, yaitu; Mencintai umur yang panjang dan mencintai harta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2411</td></tr><tr><td>Arabic No</td><td>1046.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Сердце старика (остаётся) молодым в любви к двум вещам: (любовь) к долгой жизни и любовь к богатству»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2411</td></tr><tr><td>Arabic No</td><td>1046.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 148</td></tr></tbody></table></div>
 

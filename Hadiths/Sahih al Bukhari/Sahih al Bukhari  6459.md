@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:that she said to 'Urwa, "O, the son of my sister! We used to see
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah Al Uwaisi] telah menceritakan kepadaku [Ibnu Abu Hazim] dari [Ayahnya] dari [Yazid bin Ruman] dari ['Urwah] dari [Aisyah] bahwa dia berkata; "Wahai Urwah keponakanku, dulu kami pernah melihat hilal hingga tiga kali hilal selama dua bulan, sementara di rumah-rumah Rasulullah shallallahu 'alaihi wasallam tidak ada yang menyalakan api. Lalu aku bertanya: 'Wahai bibi, apa yang menghidupi kalian? ' Aisyah menjawab: 'Al Aswadaan, ' yaitu; kurma dan air. Hanya saja Rasulullah shallallahu 'alaihi wasallam memiliki tetangga-tetangga dari Anshar, mereka memiliki kambing-kambing perahan. Mereka mengirimkan sebagian susunya untuk Rasulullah shallallahu 'alaihi wasallam lalu beliau memberi kami minum dengan susu itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6459</td></tr><tr><td>Arabic No</td><td>6459</td></tr><tr><td>Reference</td><td>Book 81 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что она сказала ‘Урве: “О сын моей сестры! Бывало так, что мы видели три полумесяца за два месяца, и в домах Посланника Аллаха ﷺ не разводили огонь (т.е. ничего не готовили)”. [‘Урва] спросил: “А что поддерживало вас [т.е. что вы ели тогда]?” [‘Аиша] сказала: “Две черные вещи, финики и вода, за исключением того, что у Посланника Аллаха ﷺ были соседи из ансаров, у которых было несколько дойных верблюдиц, и они давали Посланнику Аллаха ﷺ немного молока из своих домов, и он поил нас им»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6459</td></tr><tr><td>Arabic No</td><td>6459</td></tr><tr><td>Reference</td><td>Book 81 Hadith 48</td></tr></tbody></table></div>
 

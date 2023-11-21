@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) used to deliver his sermons while standing 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3583</td></tr><tr><td>Arabic No</td><td>3583</td></tr><tr><td>Reference</td><td>Book 61 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ обращался к людям с проповедью, стоя у пня пальмы (на который он облокачивался). Когда же ему сделали минбар, и он стал использовать его, пень начал издавать жалобные звуки (похожие на плачь). Тогда Пророк ﷺ подошёл к нему и погладил рукой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3583</td></tr><tr><td>Arabic No</td><td>3583</td></tr><tr><td>Reference</td><td>Book 61 Hadith 92</td></tr></tbody></table></div>
 

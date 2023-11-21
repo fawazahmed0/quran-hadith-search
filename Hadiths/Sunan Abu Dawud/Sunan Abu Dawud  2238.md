@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man came after embracing Islam during the time of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Waki'] dari [Israil] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] bahwa seorang laki-laki datang sebagai seorang muslim pada masa Nabi shallallahu 'alaihi wasallam kemudian isterinya datang sebagai seorang muslimah setelahnya. Kemudian ia berkata; wahai Rasulullah, sesungguhnya ia telah masuk Islam bersamaku, maka kembalikanlah ia kapadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2238</td></tr><tr><td>Arabic No</td><td>2238</td></tr><tr><td>Reference</td><td>Book 13 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что во времена Посланника Аллаха ﷺ один человек принял ислам, а потом пришла его жена, которая также приняла ислам. Он сказал: «О Посланник Аллаха, она приняла ислам вместе со мной, верни же мне её!» И он вернул ему её
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2238</td></tr><tr><td>Arabic No</td><td>2238</td></tr><tr><td>Reference</td><td>Book 13 Hadith 64</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. Abu Salama reported:I (had the opportunity) one day to dine with Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin 'Ali Al Hulwani] dan [Abu Bakr bin Ishaq] mereka berkata; Telah menceritakan kepada kami [Ibnu Abu Maryam]; Telah mengabarkan kepada kami [Muhammad bin Ja'far]; Telah mengabarkan kepadaku [Muhammad bin 'Amru bin Halhalah] dari [Wahb bin Kaisan] dari ['Umar bin Abu Salamah], bahwa dia berkata; "Pada suatu hari aku makan bersama Rasulullah shallallahu 'alaihi wasallam, lalu aku mengambil daging di sekitar piring-piring hidangan, maka Rasulullah shallallahu 'alaihi wasallam bersabda: 'Makanlah yang ada di hadapanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5270</td></tr><tr><td>Arabic No</td><td>2022.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5270</td></tr><tr><td>Arabic No</td><td>2022.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 144</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Mathar Ibnul Fadll] berkata, telah menceritakan 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5470.2</td></tr><tr><td>Arabic No</td><td>5470.2</td></tr><tr><td>Reference</td><td>Book 71 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(В своё время) у Абу Тальхи заболел сын, а когда Абу Тальхи не было дома, он умер. Вернувшись, Абу Тальха спросил: “Как мой сын?” Умм Сулейм, (мать ребёнка,) сказала: “Сейчас он более спокоен, чем раньше”, и подала ему ужин. Он поужинал, а потом вступил с ней в половую близость, после чего она сказала: “Похороните ребёнка”. Наутро Абу Тальха пришёл к Посланнику Аллаха ﷺ и рассказал ему обо всём. Посланник Аллаха ﷺ спросил: “Вы провели эту ночь вместе?” Абу Тальха сказал: “Да”, и Посланник Аллаха ﷺ сказал: “О Аллах, благослови их!” Впоследствии Умм Сулейм родила мальчика». \n(Анас сказал): «И Абу Тальха сказал мне: “Отнеси его к Пророку ﷺ”, — послав вместе с ним несколько фиников. Пророк ﷺ спросил: “Есть ли с ним что-нибудь?” Он сказал: “Да, финики”. Тогда Пророк ﷺ взял их, разжевал, достал (разжёванные финики) изо рта и положил их в рот младенцу, назвав его ‘Абдуллахом»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5470</td></tr><tr><td>Arabic No</td><td>5470</td></tr><tr><td>Reference</td><td>Book 71 Hadith 4</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5470.2</td></tr><tr><td>Arabic No</td><td>5470.2</td></tr><tr><td>Reference</td><td>Book 71 Hadith 5</td></tr></tbody></table></div>

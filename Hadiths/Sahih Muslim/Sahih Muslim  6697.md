@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported by Zuhri on the authority of Malik, and in the had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca Hadits [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidaklah tiga anak milik salah seorang dari kaum Muslimin meninggal dunia, lalu ia tersentuh api neraka, kecuali sebatas melewatinya saja, yang Allah telah bersumpah siapapun akan melewatinya." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] serta [Zuhair bin Harb] mereka berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abad bin Humaid] dan [Ibnu Rafi'] dari ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] melalui sanad Malik dengan Hadits yang semakna. Namun di dalam Hadits Sufyan disebutkan dengan lafazh; 'Fayalija' (lalu ia masuk) ke neraka, kecuali sebatas melewatinya saja, yang Allah telah bersumpah siapapun akan melewatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6697</td></tr><tr><td>Arabic No</td><td>2632.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6697</td></tr><tr><td>Arabic No</td><td>2632.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 194</td></tr></tbody></table></div>
 

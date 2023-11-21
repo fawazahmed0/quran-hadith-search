@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), 'Ali (que Dieu l'agrée), �
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] telah menceritakan kepada kami [Abul Ahwash] dari [Sa'id bin Masruq] dari [Abdurrahman bin Abu Nu'm] dari [Abu Sa'id Al Khudri] ia berkata; Ketika Ali bin Abi Thalib berada di Yaman, dia pernah mengirimkan emas yang masih kotor kepada Rasulullah shallallahu 'alaihi wasallam. Lalu emas itu dibagi-bagikan oleh Rasulullah shallallahu 'alaihi wasallam kepada empat kelompok. Yaitu kepada Aqra' bin Habis Al Hanzhali, Uyainah bin Badar Al Fazari, Alqamah bin Ulatsah Al Amiri, termasuk Bani Kilab dan Zaid Al Khair Ath Thay dan salah satu Bani Nabhan. Abu Sa'id berkata; Orang-orang Quraisy marah dengan adanya pembagian itu. kata mereka, "Kenapa pemimpin-pemimpin Najed yang diberi pembagian oleh Rasulullah, dan kita tidak dibaginya?" maka Rasulullah shallallahu 'alaihi wasallam pun menjawab: "Sesungguhnya aku lakukan yang demikian itu, untuk membujuk hati mereka." Sementara itu, datanglah laki-laki berjenggot tebal, pelipis menonjol, mata cekung, dahi menjorok dan kepalanya digundul. Ia berkata, "Wahai Muhammad! Takutlah Anda kepada Allah!" Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa pulakah lagi yang akan mentaati Allah, jika aku sendiri telah mendurhakai-Nya? Allah memberikan ketenangan bagiku atas semua penduduk bumi, maka apakah kamu tidak mau memberikan ketenangan bagiku?" Abu Sa'id berkata; Setelah orang itu berlaku, maka seorang sahabat (Khalid bin Al Walid) meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk membunuh orang itu. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Dari kelompok orang ini, akan muncul nanti orang-orang yang pandai membaca Al Qur'an tetapi tidak sampai melewati kerongkongan mereka, bahkan mereka membunuh orang-orang Islam, dan membiarkan para penyembah berhala; mereka keluar dari Islam seperti panah yang meluncur dari busurnya. Seandainya aku masih mendapati mereka, akan kumusnahkan mereka seperti musnahnya kaum 'Ad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Однажды ‘Али, да будет доволен им Аллах, отправил Посланнику Аллаха ﷺ из Йемена неочищенный от породы золотой самородок, и он разделил его на четверых. Это аль-Акра‘ ибн Хабис аль-Ханзали, ‘Уейна ибн Бадр аль-Фазари, ‘Алькама ибн ‘Уляса аль-Амири из бану киляб и Зейд ат-Таи из бану набхан. (Узнав об этом,) курайшиты и возмутились: “Неужели ты даёшь предводителям жителей Неджда, а нас оставляешь (ни с чем)?” Посланник Аллаха ﷺ сказал: “Я поступил так лишь для того, чтобы склонить их (сердца к исламу)”. Тут пришёл человек с густой бородой, выступающими скулами, впалыми глазами, выпуклым лбом и бритой головой и воскликнул: “Побойся Аллаха, о Мухаммад!” Посланник Аллаха ﷺ сказал: “Если я ослушиваюсь Аллаха, то кто же тогда покорен Ему? Аллах доверил мне (передать Его послание) обитателям земли, а вы не доверяете мне?” Когда тот удалился, один человек (возможно, это был Халид ибн аль-Валид) попросил у Посланника Аллаха ﷺ разрешения казнить этого человека, но Посланник Аллаха ﷺ сказал: “Поистине, среди потомков этого (человека) появятся люди, которые станут читать Коран, но дальше их глоток такое чтение проходить не будет. Они будут убивать мусульман и оставлять в живых язычников. Они вылетят из религии подобно тому, как стрела вылетает через дичь, (пробив её насквозь). Если я застану их, то непременно буду убивать их, как были убиты адиты!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
 

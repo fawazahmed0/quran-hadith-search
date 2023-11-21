@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qaza'ah reported:I heard a hadith from Abu Sa'id (Allah be pleased with him) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] Telah menceritakan kepada kami [Jarir] dari [Mughirah] dari [Ibrahim] dari [Sahm bin Minjab] dari [Qaza'ah] dari [Abu Sa'id Al Khudri] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang wanita tidak boleh bepergian selama tiga hari kecuali bersama mahramnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3263</td></tr><tr><td>Arabic No</td><td>827.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 465</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3263</td></tr><tr><td>Arabic No</td><td>827.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 465</td></tr></tbody></table></div>
 

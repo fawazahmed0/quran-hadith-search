@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:I asked Masruq, 'Ata' and Mujahid (about the 'Umra of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Utsman] telah menceritakan kepada kami [Syuraih bin Maslamah] telah menceritakan kepada kami [Ibrahim bin Yusuf] dari [bapaknya] dari [Abu Ishaq] berkata: Aku bertanya kepada [Masruq]. ['Atho'] dan [Mujahid]. Mereka menjawab: "Rasulullah shallallahu 'alaihi wasallam melaksanakan 'umrah pada bulan Dzul Qa'dah sebelum Beliau menunaikan haji". Dan dia (Abu Ishaq) berkata: Aku mendengar [Al Bara' bin 'Azib radliallahu 'anhuma] berkata: "Rasulullah shallallahu 'alaihi wasallam melaksanakan 'umrah pada bulan Dzul Qa'dah sebelum Beliau menunaikan haji sebanyak dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара бин ‘Азиб, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ дважды совершил умру в (месяце) зуль-ка‘да до совершения им хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
 

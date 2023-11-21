@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I asked the Prophet, "What is the greatest sin in the Sight o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Utsman bin Abu Syaibah] Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dari ['Amru bin Syurahbil] dari ['Abdullah] dia berkata; Aku bertanya kepada Nabi shallallahu 'alaihi wasallam; 'Dosa apakah yang paling besar di sisi Allah? Beliau menjawab; 'Bila kamu menyekutukan Allah, padahal dialah yang menciptakanmu. Aku berkata; tentu itu sungguh besar.' Aku bertanya lagi; 'Kemudian apa? Beliau menjawab; 'Apabila kami membunuh anakmu karena takut membuat kelaparan.' Aku bertanya lagi; 'kemudian apa? ' beliau menjawab; 'Berzina dengan istri tetanggamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4477</td></tr><tr><td>Arabic No</td><td>4477</td></tr><tr><td>Reference</td><td>Book 65 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) я спросил Пророка ﷺ: “Что является величайшим грехом пред Аллахом?” Он ответил: “Приравнивание кого бы то ни было к Аллаху, Который создал тебя”. Я сказал: “Это и в самом деле великий (грех”, и) спросил: “А затем?” (Пророк ﷺ) сказал: “Убийство собственного сына из страха перед тем, что он будет есть вместе с тобой”. Я спросил: “А затем?” (Пророк ﷺ) сказал: “Совершение прелюбодеяния с женой твоего соседа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4477</td></tr><tr><td>Arabic No</td><td>4477</td></tr><tr><td>Reference</td><td>Book 65 Hadith 4</td></tr></tbody></table></div>
 

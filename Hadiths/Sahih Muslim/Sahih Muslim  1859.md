@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri told of Usaid b. Hudair saying that one night he recited the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hasan bin Ali Al Hulwani] dan [Hajjaj bin Asy Sya'ir] -kedua lafazhnya hampir sama- keduanya berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Yazid bin Al Hadi] bahwa [Abdullah bin Khabbab] telah menceritakan kepadanya bahwa [Abu Sa'id Al Khudri] telah menceritakan kepadanya bahwasanya; Pada suatu malam, Usaid bin Hudlair membaca (surat Al Kahfi) di tempat penambatan kudanya. Tiba-tiba kudanya meloncat, ia membaca lagi, dan kuda itupun meloncat lagi. Kemudian ia membaca lagi, dan kuda itu meloncat kembali. Usaid berkata, "Saya khawatir kuda itu akan menginjak Yahya, maka aku pun berdiri ke arahnya. Ternyata (aku melihat) sepertinya ada Zhullah (sesuatu yang menaungi) di atas kepalaku, di dalamnya terdapat cahaya yang menjulang ke angkasa hingga aku tidak lagi melihatnya. Maka pada pagi harinya, aku menemui Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, semalam saya membaca (Al Qur'an) di tempat penambatan kudaku namun tiba-tiba kudaku meloncat." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Bacalah wahai Ibnu Hudlair." Kemudian aku pun membacanya lagi, dan kuda itu juga meloncat kembali. Beliau bersabda: "Bacalah wahai Ibnu Hudlair." Kemudian aku pun membacanya lagi, dan kuda itu juga meloncat kembali. Beliau bersabda lagi, "Bacalah wahai Ibnu Hudlair." Ibnu Hudlair berkata; Maka sesudah itu, akhirnya saya beranjak. Saat itu Yahya dekat dengan kuda, maka saya khawatir kuda itu akan menginjaknya. Kemudian saya melihat sesuatu seperti Zhullah (sesuatu yang menaungi) yang di dalamnya terdapat cahaya yang naik ke atas angkasa hingga saya tidak lagi melihatnya. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Itu adalah Malaikat yang sedang menyimak bacaanmu, sekiranya kamu terus membaca, niscaya pada pagi harinya manusia akan melihatnya dan Malaikat itu tidak bisa menutup diri dari pandangan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1859</td></tr><tr><td>Arabic No</td><td>796</td></tr><tr><td>Reference</td><td>Book 6 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что однажды ночью (вдруг заволновалась и стала) подпрыгивать лошадь Усайда ибн Худайра, читавшего (Коран) в помещении, где сушились его финики. Он (продолжал) читать, (а через некоторое время) она снова запрыгала, после чего (это повторилось ещё раз). (Абу Са‘ид передал, что) Усайд сказал: «Я испугался, что она затопчет (моего сына) Яхью, подошёл к ней и (увидел) у себя над головой нечто вроде облака, в котором было что-то наподобие светильников, а потом это поднялось в воздух и исчезло у меня из виду. Утром я пришёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха, когда вчера ночью я читал (Коран) в помещении, где сушатся мои финики, моя лошадь вдруг (заволновалась и стала) подпрыгивать”. Посланник Аллаха ﷺ сказал: “(Продолжай) читать, о Ибн Худайр!”». (Усайд) сказал: «Я (продолжал) читать, но потом она снова (заволновалась). Посланник Аллаха ﷺ сказал: “Читай, о Ибн Худайр!”». (Усайд) сказал: «Я (продолжал) читать, но потом она снова (заволновалась). Посланник Аллаха ﷺ сказал: “Читай, о Ибн Худайр!”». (Усайд) сказал: «Тогда я ушёл, ибо рядом с ней находился (мой сын) Яхья, и я испугался, что она затопчет его. И я (увидел там) нечто вроде облака, в котором было что-то наподобие светильников, а потом это поднялось в воздух и исчезло у меня из виду. Тогда Посланник Аллаха ﷺ сказал: “Это были ангелы, слушавшие твоё (чтение). Если бы ты продолжал читать, утром люди обязательно увидели бы это (зрелище), и оно не осталось бы скрытым от них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1859</td></tr><tr><td>Arabic No</td><td>796</td></tr><tr><td>Reference</td><td>Book 6 Hadith 287</td></tr></tbody></table></div>
 

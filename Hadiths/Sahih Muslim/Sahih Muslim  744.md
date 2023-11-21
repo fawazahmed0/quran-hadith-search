@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported:I said: Messenger of Allah, I am a woman who has closely pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah], [Amr an-Naqid], [Ishaq bin Ibrahim], dan [Ibnu Abi Umar] semuanya meriwayatkan dari [Ibnu Uyainah] [Ishaq] berkata, telah mengabarkan kepada kami [Sufyan] dari [Ayyub bin Musa] dari [Sa'id bin Abi Sa'id al-Maqburi] dari [Abdullah bin Rafi' budak Ummu Salamah] dari [Ummu Salamah] dia berkata, "Saya berkata, wahai Rasulullah, aku seorang wanita yang mengepang rambut kepalaku, lalu aku membukanya untuk mandi junub." Beliau bersabda, "Jangan (kamu buka), cukuplah kamu menumpahkan air pada kepalamu tiga kali, kemudian kamu mencurahkan air padamu, maka kamu telah suci." Dan telah menceritakan kepada kami [Amru an-Naqid] telah menceritakan kepada kami [Yazid bin Harun] dan telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazzaq] keduanya berkata, telah menceritakan kepada kami [ats-Tsauri] dari [Ayyub bin Musa] dalam isnad ini, dan pada hadits Abdurrazzaq, "Lalu aku membukanya karena mandi haid dan junub. Lalu beliau bersabda, "Jangan (kamu membukanya) " Kemudian dia menyebutkan dengan makna hadits Ibnu Uyainah. Dan telah menceritakannya kepadaku [Ahmad ad-Darimi] telah menceritakan kepada kami [Zakariya' bin 'Adi] telah menceritakan kepada kami [Yazid, yaitu Ibnu Zurai'] dari [Rauh bin al-Qasim] telah menceritakan kepada kami [Ayyub bin Musa] dengan isnad ini, dan dia berkata, "Apakah aku harus membukanya, lalu aku mandi karena junub." Dan dia tidak menyebutkan, "Haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>744</td></tr><tr><td>Arabic No</td><td>330.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «Однажды я сказала: “О Посланник Аллаха, я женщина, которая заплетает волосы в косы, так следует ли мне распускать их для совершения полного омовения /гусль/ (чтобы очистится) от осквернения /джанаба/?” Он ответил: “Нет. Тебе будет достаточно облить голову тремя пригоршнями воды, а затем облей своё (тело), и ты очистишься”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>744</td></tr><tr><td>Arabic No</td><td>330.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 66</td></tr></tbody></table></div>
 

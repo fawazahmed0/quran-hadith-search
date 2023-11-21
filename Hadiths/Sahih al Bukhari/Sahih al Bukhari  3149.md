@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:While I was walking with the Prophet (ﷺ) who was weari
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Malik] dari [Ishaq bin 'Abdullah] dari [Anas bin Malik radliallahu 'anhu] berkata; "Aku pernah berjalan bersama Nabi Shallallahu'alaihiwasallam yang ketika itu Beliau mengenakan selendang yang tebal dan kasar buatan Najran. Kemudian seorang Arab Baduy datang lalu menarik Beliau dengan tarikan yang keras hingga aku melihat permukaan pundak Nabi Shallallahu'alaihiwasallam berbekas akibat tarikan yang keras itu. Lalu Beliau berkata: "Perintahkanlah, agar aku diberikan harta Allah yang ada padamu". Kemudian Beliau memandang kepada orang Arab Baduy itu dan tertawa Lalu Beliau memerintahkan agar memberinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 57 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды, когда) я шёл (куда-то) вместе с Пророком ﷺ, на котором был плащ из Наджрана с грубой оторочкой, его догнал какой-то бедуин, который так сильно потянул его (за край плаща), что из-за этого на плече Пророка ﷺ остался след, а потом сказал: “Вели (дать) мне что-нибудь из богатств Аллаха, которые у тебя есть!” (Услышав это, Пророк ﷺ) повернулся к нему и рассмеялся, а потом велел дать ему что-то»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 57 Hadith 57</td></tr></tbody></table></div>
 

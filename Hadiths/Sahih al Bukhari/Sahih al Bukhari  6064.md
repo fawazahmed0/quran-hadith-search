@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Beware of suspicion, for suspicion
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jauhilah prasangka buruk, karena prasangka buruk adalah ucapan yang paling dusta, janganlah kalian saling mendiamkan, janganlah suka mencari-cari isu, saling mendengki, saling membelakangi, serta saling membenci, tetapi, jadilah kalian hamba-hamba Allah yang bersaudara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6064</td></tr><tr><td>Arabic No</td><td>6064</td></tr><tr><td>Reference</td><td>Book 78 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Остерегайтесь дурных мыслей (о людях), ибо, поистине, дурные мысли — это самые лживые слова! Не разузнавайте, не шпионьте, не завидуйте друг другу, не поворачивайтесь спиной друг к другу, откажитесь от ненависти по отношению друг к другу, и будьте братьями, о рабы Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6064</td></tr><tr><td>Arabic No</td><td>6064</td></tr><tr><td>Reference</td><td>Book 78 Hadith 94</td></tr></tbody></table></div>
 

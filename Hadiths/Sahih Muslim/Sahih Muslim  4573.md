@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Salama (b. al-Akwa') who said:We fought
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Umar bin Yunus] telah menceritakan kepada kami [Ikrimah bin 'Ammar] telah menceritakan kepadaku [Iyas bin Salamah] telah menceritakan kepadaku [ayahku] dia berkata, "Aku pernah ikut berperang di wilayah Fazarah di bawah komando Abu Bakar yang telah diangkat Rasulullah shallallahu 'alaihi wasallam untuk memimpin kami. Ketika jarak ke mata air hanya membutuhkan waktu beberapa saat, maka Abu Bakar memerintahkan kami agar beristirahat sejenak sambil mengarahkan strategi penyerangan, bagaimana seharusnya mendekati mata air tersebut dan menyerang serta menawan tawanan. Lalu aku sempat melihat di antara mereka (musuh) ada tawanan dari anak-anak dan wanita. Karena merasa khawatir mereka akan mendaki gunung terlebih dahulu, maka aku menghujani dengan anak panah ke arah rombongan musuh yang berada di sekitar gunung. Begitu melihat anah panah melesat ke arah mereka, mereka pun berhenti dan aku pun meringkus mereka. Ternyata di antara mereka terdapat seorang wanita dari Bani Fazarah yang mengenakan penutup kepala yang terbuat dari kulit, ditemani dengan anak gadisnya yang cantik rupawan di antara bangsa Arab. Kemudian aku menyerahkannya kepada Abu Bakar, lalu Abu Bakar memberikan anak gadisnya kepadaku sebagai harta ghanimah. Setelah itu kami pulang dan tiba di Madinah, dan aku juga belum sempat menggauli gadis tersebut. Ketika aku berada di pasar, aku berjumpa dengan Rasulullah shallallahu 'alaihi wasallam, beliau langsung bersabda kepadaku: "Wahai Abu Salamah, berikanlah anak gadis kemarin kepadaku!" Maka aku menjawab, "Wahai Rasulullah, demi Allah sungguh ia telah menakjubkanku, namun aku belum sempat menggaulinya." Kemudian di esok harinya, Rasulullah shallallahu 'alaihi wasallam menemuiku di pasar seraya bersabda kepadaku: "Wahai Salamah, berikanlah anak gadis kemarin kepadaku!" Maka aku berkata, "Dia untukmu wahai Rasulullah, demi Allah aku belum pernah menggaulinya." Kemudian Rasulullah shallallahu 'alaihi wasallam mengirimkan gadis tersebut ke Makkah sebagai tebusan pasukan kaum Muslimin yang tengah ditawan di sana
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4573</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 32 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4573</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 32 Hadith 54</td></tr></tbody></table></div>
 

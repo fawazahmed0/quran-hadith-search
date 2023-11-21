@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Abu Bakr , wrote to me about the Zakat which Allah had ordered His
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah] berkata, telah menceritakan kepadaku [bapakku] dia berkata, telah menceritakan kepada [Tsumaamah] bahwa [Anas radliallahu 'anhu] menceritakan kepadanya bahwa Abu Bakar radliallahu 'anhu telah menulis surat kepadanya (tentang aturan zakat) sebagaimana apa yang telah diperintahkan Allah dan rasulNya Shallallahu'alaihiwasallam, yaitu; "Barangsiapa yang memiliki unta dan terkena kewajiban zakat jadza'ah sedangkan dia tidak memiliki jadza'ah dan yang dia miliki hanya hiqqah, maka dibolehkan dia mengeluarkan hiqqah sebagai zakat namun dia harus menyerahkan pula bersamanya dua ekor kambing atau dua puluh dirham, dan barangsiapa yang telah sampai kepadanya kewajiban zakat hiqqah sedangkan dia tidak memiliki hiqqah namun dia memiliki jadza'ah maka diterima zakat darinya berupa jadza'ah dan dia menerima (diberi) dua puluh dirham atau dua ekor kambing, dan barangsiapa telah sampai kepadanya kewajiban zakat hiqqah namun dia tidak memilikinya kecuali bintu labun maka diterima zakat darinya berupa bintu labun namun dia wajib menyerahkan bersamanya dua ekor kambing atau dua puluh dirham, dan barangsiapa telah sampai kepadanya kewajiban zakat bintu labun dan dia hanya memiliki hiqqah maka diterima zakat darinya berupa hiqqah dan dia menerima dua puluh dirham atau dua ekor kambing, dan barangsiapa yang telah sampai kepadanya kewajiban zakat bintu labun sedangkan dia tidak memilikinya kecuali bintu makhadh maka diterima zakat darinya berupa bintu makhadh namun dia wajib menyerahkan bersamanya dua piluh dirham atau dua ekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1453</td></tr><tr><td>Arabic No</td><td>1453</td></tr><tr><td>Reference</td><td>Book 24 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что (в своё время) Абу Бакр, да будет доволен им Аллах, написал ему (письмо с изложением) предписаний, касающихся закята, выполнять которые Аллах повелел Своему посланнику ﷺ. (В этом письме говорилось): «В том случае, когда у человека, который в качестве закята (со стада) верблюдов должен отдать четырёхгодовалую верблюдицу, таковой нет, но есть трёхгодовалая, её следует принять от него (при условии, что) он добавит к этому двух овец, если они у него имеются, или же двадцать дирхемов. Если же человек должен будет отдать в качестве закята трёхгодовалую верблюдицу, но у него есть только четырёхгодовалая, её (также) следует принять у него, (но в этом случае) сборщик садаки должен отдать ему двадцать дирхемов или же двух овец. В том случае, когда у человека, который в качестве закята (со стада) верблюдов должен отдать трёхгодовалую верблюдицу, таковой нет, но есть двухгодовалая, её следует принять от него (при условии, что) он добавит к этому двух овец или же двадцать дирхемов. Если же человек должен будет отдать в качестве закята двухгодовалую верблюдицу, но у него есть только трёхгодовалая, то её (также) следует принять у него, (но в этом случае) сборщик садаки должен отдать ему двадцать дирхемов или же двух овец. (И, наконец,) в том случае, когда у человека, который в качестве закята (со стада) верблюдов должен отдать двухгодовалую верблюдицу, таковой нет, но есть годовалая, её следует принять от него (при условии, что) он добавит к этому двух овец или же двадцать дирхемов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1453</td></tr><tr><td>Arabic No</td><td>1453</td></tr><tr><td>Reference</td><td>Book 24 Hadith 56</td></tr></tbody></table></div>
 

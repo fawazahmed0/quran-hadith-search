@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-'Abbâs Ibn 'Abd Al-Mouttalib (que Dieu l'agrée) a dit : "J'ai demandé à l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Umar al-Qawariri] dan [Muhammad bin Abu Bakar al-Muqaddami] serta [Muhammad bin Abdul Malik al-Umawi] mereka berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Abdul Malik bin Umair] dari [Abdullah bin al-Harits bin Naufal] dari [al-Abbas bin Abdul Muththalib] bahwa ia berkata, "Wahai Rasulullah! Apakah kamu dapat memberikan sesuatu manfaat kepada Abu Thalib? Sesungguhnya dia membelamu (yaitu menolong, menjaga, memenuhi segala keperluan) dan marah kepada musuhmu demi keselamatanmu? ' Rasulullah shallallahu 'alaihi wasallam menjawab dengan sabdanya: 'Ya, dia berada di Neraka yang paling landai. Kalaulah bukan karena aku, niscaya dia berada di Neraka yang paling bawah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>510</td></tr><tr><td>Arabic No</td><td>209.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 416</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн аль-Хариса ибн Науфаля, что (однажды) аль-‘Аббас ибн ‘Абдульмутталиб сказал (Пророку ﷺ): «О Посланник Аллаха, помог ли ты чем-нибудь Абу Талибу, ведь он всегда защищал тебя и гневался из-за тебя?», (на что Пророк ﷺ) ответил: «Да, он находится в верхнем слое Огня, а если бы не я, то он обязательно оказался бы на самом дне его!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>510</td></tr><tr><td>Arabic No</td><td>209.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 416</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata; telah mengabarkan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dan [Abu Salamah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa dia bersabda: "Binatang ternah yang merusak maka tidak ada denda, sumur yang mencelakai (jatuh ke dalamnya) tidak ada denda, galian barang tambang yang mencelakai (jatuh ke dalamnya) tidak ada denda, dan pada harata yang terpenda (harta karun) zakatnya adalah seperlima." Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Abdul A'la bin Hammad] mereka semua dari [Ibnu 'Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ishaq] -yaitu Ibnu Isa- telah menceritakan kepada kami [Malik] keduanya dari [Az Zuhri] dengan sanadnya Laits seperti haditsnya dia juga." Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ibnu Musayyab] dan ['Ubaidullah bin Abdullah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4465</td></tr><tr><td>Arabic No</td><td>1710.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4465</td></tr><tr><td>Arabic No</td><td>1710.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 68</td></tr></tbody></table></div>
 

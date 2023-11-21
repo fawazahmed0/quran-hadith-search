@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hanash reported:We were along with Fadala b. Ubaid (Allah be pleased with him) i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Qurrah bin Abdurrahman Al Ma'afiri] dan [Amru bin Harits] dan selain keduanya, bahwa ['Amir bin Yahya Al Ma'afiri] telah mengabarkan kepada mereka dari [Hanas] bahwa dia berkata, "Kami pernah bersama [Fadlalah] berada dalam suatu peperangan, kemudian saya dan sahabatku mendapatkan kalung yang ada emas, perak dan permatanya. Aku ingin sekali membeli yang menjadi bagiannya, kemudian saya bertanya kepada Fadlalah bin 'Ubaid, dia menjawab, "Lepaskanlah emasnya dan taruhlah ditimbangan, begitu juga dengan emasmu dan taruhlah ditimbangan, kemudian janganlah kamu mengambilnya kecuali jika sama berat, sebab saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa beriman kepada Allah dan hari Akhir, maka janganlah mengambil (emas) kecuali jika sama takarannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4079</td></tr><tr><td>Arabic No</td><td>1591.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4079</td></tr><tr><td>Arabic No</td><td>1591.05</td></tr><tr><td>Reference</td><td>Book 22 Hadith 118</td></tr></tbody></table></div>
 

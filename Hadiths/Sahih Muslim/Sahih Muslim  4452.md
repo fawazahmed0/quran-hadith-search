@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that a person who had drink wine was brought to Allah's A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; aku pernah mendengar [Qatadah] menceritakan dari [Anas bin Malik], bahwa Nabi shallallahu 'alaihi wasallam pernah dihadapkan seorang laki-laki yang terbukti meminum khamer, lalu beliau menderanya dengan dua pelepah kurma sebanyak empat puluh kali, hal itu juga dilakukan oleh Abu Bakar. Ketika pada masa pemerintahan Umar, maka ia minta pendapat kepada orang-orang. Abdurrahman berkata, "Hukuman dera yang paling ringan adalah delapan puluh kali." Lantas Umar memutuskannya seperti itu." Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid] -yaitu Ibnu Harits- telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Qatadah] dia berkata; aku pernah mendengar [Anas] berkata, "Suatu ketika, seorang laki-laki dihadapkan kepada Rasulullah shallallahu 'alaihi wasallam …lalu dia menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4452</td></tr><tr><td>Arabic No</td><td>1706.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4452</td></tr><tr><td>Arabic No</td><td>1706.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 55</td></tr></tbody></table></div>
 

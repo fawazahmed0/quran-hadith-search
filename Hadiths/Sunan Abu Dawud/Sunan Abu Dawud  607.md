@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Husain reported on the authority of the children of Sa’d b. Mu’adh that Usai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdah bin Abdullah] telah mengabarkan kepada kami [Zaid, yakni Ibnu Al-Hubab] dari [Muhammad bin Shalih] telah menceritakan kepada saya [Hushain] dari anaknya Sa'ad bin Mu'adz dari [Usaid bin Hudhair] bahwa dia mengimami mereka (kaumnya), lalu Rasulullah shallallahu 'alaihi wasallam datang untuk menjenguknya, mereka (kaumnya) berkata; Ya Rasulallah, sesungguhnya imam kami (Usaid bin Hudhair) sedang sakit! Maka beliau bersabda: "Apabila imam kalian shalat dengan duduk maka shalatlah kalian dengan duduk." Abu Dawud berkata; Hadits ini tidak muttashil (bersambung sanadnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 2 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Усайда ибн Худайра о том, что он был имамом (в своём племени). И однажды, когда Посланник Аллаха ﷺ пришёл навестить его, люди сказали ему: «О Посланник Аллаха, наш имам болеет».И Посланник Аллаха ﷺ сказал: «Если он молится сидя, то молитесь (за ним) сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 2 Hadith 217</td></tr></tbody></table></div>
 

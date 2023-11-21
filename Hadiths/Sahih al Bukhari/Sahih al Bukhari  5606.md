@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Abu Humaid, an Ansari man, came from AnNaqi carrying a cup of mil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dan [Abu Sufyan] dari [Jabir bin Abdullah] dia berkata; Abu Humaid datang membawa tempat bersisi susu, lalu Nabi shallallahu 'alaihi wasallam bersabda: "Tidakkah kau tutupi, bisa jadi itu akan bermanfaat". Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al A'masy] dia berkata; saya mendengar [Abu Shalih] menyebutkan (redaksi hadits), yang saya mengiranya dari [Jabir], yaitu "Bisa jadi hal itu bermanfa'at buatmu." Dan telah menceritakan kepadaku Abu Sufyan dari Jabir dari Nabi shallallahu 'alaihi wasallam seperti ini juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5606</td></tr><tr><td>Arabic No</td><td>5606</td></tr><tr><td>Reference</td><td>Book 74 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) Абу Хумайд, человек из ансаров, принёс из ан-Накы’ сосуд с молоком Пророку ﷺ. И Пророк ﷺ сказал ему: “Не накрыть ли тебе его, поместив (сверху) хотя бы палку?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5606</td></tr><tr><td>Arabic No</td><td>5606</td></tr><tr><td>Reference</td><td>Book 74 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) (p.b.u.h) fell down from a horse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhriy] dari [Anas bin Malik radliallahu 'anhu] berkata; "Rasulullah shallallahu 'alaihi wasallam pernah terjatuh dari kudanya dan mengalami cedera pada bagian kanan badan Beliau. Saat kami datang menjemput Beliau, tiba-tiba masuk waktu shalat. Maka Beliau melaksanakan shalat dengan duduk, maka kami pun turut shalat dengan duduk. Maka Beliau bersabda: "Sesungguhnya imam diangkat untuk diikuti. Bila ia telah membaca takbir maka bertakbirlah kalian dan bila ia telah ruku', ruku'lah kalian dan bila dia telah bangkit berdiri, bangkitlah kalian dan bila ia berkata, sami'allahu liman hamidah, ucapkanlah oleh kalian: rabbanaa wa lakal hamdu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1114</td></tr><tr><td>Arabic No</td><td>1114</td></tr><tr><td>Reference</td><td>Book 18 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ упал с коня и поцарапал правую часть (тела). Тогда мы пришли, чтобы навестить его и когда настало время молитвы, он совершил ее сидя, и мы тоже помолились за ним сидя. (Когда он закончил молитву), то сказал: “Поистине, имам назначается для того, чтобы (во время молитвы) другие следовали за ним, и поэтому, когда он говорит такбир, то и вы говорите такбир, если он совершает поясной поклон, то кланяйтесь вместе с ним, если он поднимет (голову), поднимайте и вы, если он скажет: “Да услышит Аллах того, кто его восхваляет” /Сами‘а-ллаху лиман хамидах/, то говорите: “Господь наш и Тебе хвала” /Раббана уа лякаль-хамд/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1114</td></tr><tr><td>Arabic No</td><td>1114</td></tr><tr><td>Reference</td><td>Book 18 Hadith 34</td></tr></tbody></table></div>
 

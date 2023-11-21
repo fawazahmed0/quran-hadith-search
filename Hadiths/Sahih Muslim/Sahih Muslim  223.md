@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarîr (que Dieu l'agrée) a dit : Au cours du Hajj d'adieu, le Prophète (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin al-Mutsanna] serta [Ibnu Basysyar] semuanya dari [Muhammad bin Ja'far] dari [Syu'bah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] dan lafazhnya miliknya, telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Ali bin Mudrik] dia mendengar [Abu Zur'ah] menceritakan dari kakeknya [Jarir] dia berkata, "Nabi shallallahu 'alaihi wasallam berkata kepadaku dalam haji Wada': 'Diamkanlah manusia! ' Kemudian beliau bersabda: "Janganlah kalian kembali kafir sesudah (kematian) ku, lalu sebagian kalian memenggal leher sebagian yang lain." Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Waqid bin Muhammad] dari [bapaknya] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, dengan hadits sepeti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>223</td></tr><tr><td>Arabic No</td><td>65</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается Джарир сказал: «Во время прощального паломничества Пророк ﷺ сказал (мне): “Скажи людям, чтобы они молчали и слушали!”, после чего сказал: “Не становитесь после меня неверными, которые рубят друг другу головы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>223</td></tr><tr><td>Arabic No</td><td>65</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Abd al-Rahman b. Shumasa who said:I cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Harmalah] dari [Abdurrahman bin Syimasah] dia berkata, "Saya mendatangi ['Aisyah] untuk menanyakan tentang sesuatu, maka dia balik bertanya, "Dari manakah kamu?" Saya menjawab, "Seorang dari penduduk Mesir." Aisyah berkata, "Bagaimana keadaan sahabat kalian yang berperang bersama kalian dalam peperangan ini?" dia menjawab, "Kami tidak pernah membencinya sedikitpun, jika keledai salah seorang dari kami mati maka dia menggantinya, jika yang mati budak maka dia akan mengganti seorang budak, dan jika salah seorang dari kami membutuhkan kebutuhan hidup maka ia akan memberinya." 'Aisyah berkata, "Tidak layak bagiku jika saya tidak mengutarakan keutamaan saudaraku, Muhammad bin Abu Bakar, saya akan memberitahukanmu sesuatu yang pernah saya dengar dari Rasulullah shallallahu 'alaihi wasallam. Beliau berdo'a ketika berada di rumahku ini: "Ya Allah, siapa yang menjabat suatu jabatan dalam pemerintahan ummatku lalu dia mempersulit urusan mereka, maka persulitlah dia. Dan siapa yang menjabat suatu jabatan dalam pemerintahan ummatku lalu dia berusaha menolong mereka, maka tolong pulalah dia." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Ibnu Mahdi] telah menceritakan kepada kami [Jarir bin Hazim] dari [Harmalah Al Mishri] dari [Abdurrahman bin Syimasaah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4722</td></tr><tr><td>Arabic No</td><td>1828.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4722</td></tr><tr><td>Arabic No</td><td>1828.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 22</td></tr></tbody></table></div>
 

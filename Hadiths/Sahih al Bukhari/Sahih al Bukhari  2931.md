@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:When it was the day of the battle of Al-Ahzab (i.e. the clans), Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['Isa] telah bercerita kepada kami [Hisyam] dari [Muhammad] dari ['Ubaidah] dari ['Ali radliallahu 'anhu] berkata; Ketika terjadi perang Al Ahzab, Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah memenuhi rumah dan kuburan mereka dengan api, karena mereka telah menyibukkan kita dari (tidak melaksanakan) shalat Al wushtha hinga matahari terbenam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2931</td></tr><tr><td>Arabic No</td><td>2931</td></tr><tr><td>Reference</td><td>Book 56 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал в день нашествия (союзных) племён: «Да наполнит Аллах их дома и могилы огнём! Они удержали нас от совершения средней молитвы до заката солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2931</td></tr><tr><td>Arabic No</td><td>2931</td></tr><tr><td>Reference</td><td>Book 56 Hadith 144</td></tr></tbody></table></div>
 

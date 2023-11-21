@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:While I had been ill Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Abdurrahman] -yaitu Ibnu Mahdi- telah menceritakan kepada kami [Sufyan] dia berkata, saya mendengar [Muhammad bin Munkadir] berkata; saya mendengar [Jabir bin Abdullah] berkata, "ketika saya sakit, Rasulullah shallallahu 'alaihi wasallam menjengukku bersama Abu Bakar dengan berjalan kaki, beliau mendapatiku sedang tak sadarkan diri, lalu Rasulullah shallallahu 'alaihi wasallam berwudlu dan memercikkan air wudlunya kepadaku hingga aku pun tersadar. Kemudian aku berkata, "Wahai Rasulullah, bagaimana seharusnya saya mengatur harta bendaku?" Beliau tidak menjawab sedikitpun dari pertanyaanku, hingga turunlah ayat tentang harta warisan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>1616.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>1616.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 8</td></tr></tbody></table></div>
 

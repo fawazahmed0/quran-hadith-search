@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Oum Salama (رضي الله عنها) a transmis qu' elle avait demandé à l'En
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Ala'] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] ia berkata; Saya bertanya, "Wahai Rasulullah, mungkinkah aku mendapatkan pahala atas nafkah yang kuberikan untuk mengasuh anak-anak Abu Salamah (anak tiri bagi Ummu Salamah) sehingga mereka tidak tersia-sia, dimana mereka kuanggap seperti anak-anakku sendiri?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Ya, kamu dapat pahala atas nafkah yang kamu keluarkan untuk biaya mengasuh mereka." Dan telah menceritakan kepadaku [Suwaid bin Sa'id] Telah menceritakan kepada kami [Ali bin Mushir] -dalam jalur lain- Dan Telah menceritakannya kepada kami [Ishaq bin Ibrahim] dan [Abdu bin Humaid] keduanya berkata, telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] semuanya dari [Hisyam bin Urwah] di dalam isnad ini, dan serupa dengan hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2320</td></tr><tr><td>Arabic No</td><td>1001.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «Однажды я спросила: “О Посланник Аллаха, положена ли мне награда за то, что я трачу на детей Абу Салямы, не оставляя их в таком-то и таком-то (положении), ведь они являются и моими детьми?” (В ответ на это Пророк ﷺ) сказал: “Да, тебя ждёт награда за то, что ты потратишь на них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2320</td></tr><tr><td>Arabic No</td><td>1001.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 57</td></tr></tbody></table></div>
 

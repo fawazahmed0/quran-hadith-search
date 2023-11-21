@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Not to wish to be the like o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh iri kecuali dalam dua hal; seseorang yang Allah beri Al Qur'an, kemudian ia membacanya sepanjang siang dan malam. Lalu orang yang iri itu berkata 'Kalaulah aku diberi kepandaian seperti orang itu, niscaya kulakukan sepertinya.' Dan seseorang yang diberi harta, lantas dia membelanjakannya dalam haknya. Lalu orang yang iri itu berkata, 'Kalulah aku diberi harta si fulan, niscaya kulakukan seperti yang dilakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7528</td></tr><tr><td>Arabic No</td><td>7528</td></tr><tr><td>Reference</td><td>Book 97 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Не следует завидовать никому, кроме двоих: человеку, которого Аллах научил Корану и который читает его ночью и днём, а потом (завистник) говорит: “О, если бы и мне было даровано то же, что было даровано такому-то, и делал бы я то же, что делает он!” — и человеку, которому Аллах даровал богатство и который расходует его должным образом, а (какой-нибудь завистник) говорит: “О, если бы и мне было даровано то же, что было даровано такому-то, и делал бы я то же, что делает он!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7528</td></tr><tr><td>Arabic No</td><td>7528</td></tr><tr><td>Reference</td><td>Book 97 Hadith 153</td></tr></tbody></table></div>
 

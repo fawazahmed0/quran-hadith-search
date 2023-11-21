@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Habiba reported the Messenger of Allah (ﷺ) having said:If any Muslim serva
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>728.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Умм Хабибы, что Посланник Аллаха ﷺ сказал: «Если раб (Аллаха) мусульманин будет ежедневно совершать омовение должным образом, а затем совершать молитву ради Аллаха». Далее подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>728.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 127</td></tr></tbody></table></div>
 

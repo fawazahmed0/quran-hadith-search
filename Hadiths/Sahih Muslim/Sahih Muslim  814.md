@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu al-Khair reported:I saw Ibn Wa'la al-Saba'i wear a fur. I touched it. He sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] dan [Abu Bakar bin Ishaq] Abu Bakar berkata, telah menceritakan kepada kami, sedangkan Ibnu Manshur berkata, telah mengabarkan kepada kami [Amru bin ar-Rabi'] telah mengabarkan kepada kami [Yahya Bin Ayyub] dari [Yazid bin Abi Habib] bahwa [Abu al-Khair] telah menceritakan kepadannya, dia berkata, "Aku melihat baju kulit [Ibnu Wa'lah as-Saba'i], lalu aku memegangnya. Maka dia bertanya, 'Mengapa kamu memegangnya? Aku telah bertanya kepada [Abdullah bin Abbas]. Aku berkata, 'Aku berada di Maroko, dan kami bersama kaum Barbar dan Majusi, ketika itu dibawakan domba yang telah mereka sembelih, sedangkan kami tidak memakan sembelihan mereka. Dan mereka telah mendatangi kami dengan membawa geriba yang mereka gunakan untuk menyimpan lemak." Maka Ibnu Abbas berkata, "Kami telah menanyakan Rasulullah shallallahu 'alaihi wasallam tentang hal tersebut, maka beliau menjawab, 'Menyamaknya adalah cara menyucikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>814</td></tr><tr><td>Arabic No</td><td>366.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Язида ибн Абу Хубайба, что Абу аль-Хайр рассказал ему следующее: «(Однажды), увидев, что Ибн Ва‘ля ас-Сабаъи надел шубу, я стал ощупывать её. Он сказал: “Зачем ты её ощупываешь? Я спрашивал об этом ‘Абдуллаха ибн ‘Аббаса, которому сказал: “Мы бываем в Магрибе вместе с берберами и огнепоклонниками, и нам приносят туши козлов, которых они приносят в жертву, однако мы не едим то, что они приносят в жертву. И они приносят нам бурдюки, в которые кладут жир” (Выслушав меня), Ибн ‘Аббас сказал, что они спрашивали об этом Посланника Аллаха ﷺ, который сказал: “Дубление делает (кожу) чистой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>814</td></tr><tr><td>Arabic No</td><td>366.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 135</td></tr></tbody></table></div>
 

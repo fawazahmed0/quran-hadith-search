@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurayrah: The Prophet (ﷺ) said: He who hides a stray camel shall 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Makhlad bin Khalid], telah menceritakan kepada Kami [Abdurrazzaq], telah mengabarkan kepada Kami [Ma'mar] dari ['Amr bin Muslim] dari [Ikrimah], aku mengira dari [Abu Hurairah] radliallahu 'anhu bahwa Nabi shalla Allahu 'alaihi wa sallam bersabda: "Unta yang terlepas yang disembunyikan maka dendanya adalah seperti onta tersebut dan ditambah dengan yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1718</td></tr><tr><td>Arabic No</td><td>1718</td></tr><tr><td>Reference</td><td>Book 10 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайра, да будет доволен им Аллах, что Пророк ﷺ сказал о наказании того, кто подобрал потерявшуюся верблюдицу и скрыл её у себя: «Он должен выплатить её стоимость и ещё столько же»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1718</td></tr><tr><td>Arabic No</td><td>1718</td></tr><tr><td>Reference</td><td>Book 10 Hadith 18</td></tr></tbody></table></div>
 

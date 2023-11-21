@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Hanbal]; Telah mengabarkan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Bapakku] dari [Al Walid bin Katsir]; Telah menceritakan kepadaku [Muhammad bin 'Amru bin Halhalah Ad Duali] bahwa [Ibnu Syihab] Telah menceritakan kepadanya bahwa ['Ali bin Al Husain] Telah menceritakan kepadanya; bahwa ketika rombongan Ali bin Husan datang ke Madinah, mereka berangkat dari Yazid bin Mu'awiyah, tempat terbunuhnya Husain bin Ali. Ali bertemu dengan [Al Miswar bin Makhramah]. Lalu dia berkata; 'Apakah ada keperluan yang ingin anda perintahkan kepada saya? Ali bin Husain menjawab; 'Tidak.' Kemudian dia bertanya lagi; Apakah kamu orang yang di beri pedang Rasulullah shallallahu 'alaihi wasallam? Sesungguhnya aku takut suatu kaum akan mengalahkanmu. Demi Allah, seandainya kamu memberikannya kepadaku, maka selamanya mereka tidak bisa mengambil pedang itu hingga mereka membunuhku. Sesungguhnya Ali bin Abu Thalib pernah meminang putri Abu Jahal, dengan memadu Fatimah. Lalu aku mendengar Rasulullah shallallahu 'alaihi wasallam berkhutbah di atas mimbar ini mengenai hal itu, yang pada waktu itu aku dalam keadaan junub. Beliau bersabda: "Sesungguhnya Fatimah adalah bagian dariku. Sesungguhnya aku takut terjadi fitnah pada agamanya. Kemudian beliau menyebutkan kerabat beliau dari bani Hasyim, memujinya atas kedekatan beliau dengannya dan menyebut-nyebut kebaikannya. Beliau bersabda: 'Dari mereka telah berbicara denganku, membenarkanku, berjanji denganku dan menepati janjinya. Dan sesungguhnya aku bukan ingin mengharamkan sesuatu yang halal, bukan pula sebaliknya. Akan tetapi Demi Allah, selamanya tidak akan berkumpul putri Rasulullah shallallahu 'alaihi wasallam dengan putri musuh Allah di satu tempat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6309</td></tr><tr><td>Arabic No</td><td>2449.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6309</td></tr><tr><td>Arabic No</td><td>2449.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 139</td></tr></tbody></table></div>
 

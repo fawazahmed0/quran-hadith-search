@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safina reported that Abu Bakr, the Companion of the Messenger of Allah (way peac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ibnu Ulayah] --lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Ali bin Hujr] telah menceritakan kepada kami [Ismail] dari [Abu Raihanah] dari [Safinah] dia berkata, "Abu Bakar, sahabat Rasulullah shallallahu 'alaihi wasallam berkata, "Dahulu Rasulullah shallallahu 'alaihi wasallam mandi dengan satu sha' air (empat mud), dan bersuci (wudhu) dengan satu mud." Dan dalam hadits Ibnu Hujur, "Atau dia berkata, "Dan satu mud (air) mensucikannya." Dan dia berkata, "Sungguh dia telah tua, dan aku tidak percaya dengan haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>739</td></tr><tr><td>Arabic No</td><td>326.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Бакр сказал: «Посланник Аллаха ﷺ совершал полное омовение, используя “са‘” воды, а малое омовение один “мудд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>739</td></tr><tr><td>Arabic No</td><td>326.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 61</td></tr></tbody></table></div>
 

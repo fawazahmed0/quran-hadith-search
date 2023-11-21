@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The people said to the Messenger of Allah (ﷺ): Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>182.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «(Однажды) люди спросили Пророка ﷺ: “О Посланник Аллаха! Увидим ли мы нашего Господа в День Воскресения?”». Затем он привёл хадис, подобный предыдущему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>182.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 357</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hasan reported:We were with Ma'qil b. Yasar inquiring about his health that Ubai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>365</td></tr><tr><td>Arabic No</td><td>142.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Хасан сказал: «Однажды мы пришли навестить Ма‘кыля ибн Ясара, и (в этот момент) к нам зашёл ‘Убайдуллах ибн Зияд, и тогда Ма‘кыль сказал ему: “Я расскажу тебе хадис, который я слышал от Посланника Аллаха ﷺ…”». Затем он упомянул хадис, подобный предыдущим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>365</td></tr><tr><td>Arabic No</td><td>142.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
 

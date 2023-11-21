@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir bin Sa'd:that his father said, "In the year of Hajjatal-Wada', th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Ibrahim bin Sa'd] telah mengabarkan kepada kami [Ibnu Syihab] dari ['Amir bin Sa'd] bahwa [Ayahnya] berkata; "Ketika Rasulullah Shallallahu 'alahi wasallam haji wada', beliau datang menjengukku ketika aku terbaring sakit yang menyebabkan kematianku, lalu saya berkata; "Wahai Rasulullah, keadaan saya semakin parah, seperti yang telah anda lihat saat ini, sedangkan saya adalah orang yang memiliki banyak harta, sementara saya hanya memiliki seorang anak perempuan yang akan mewarisi harta peninggalan saya, maka bolehkah saya menyedekahkan dua pertiga dari hartaku?" beliau bersabda: "Jangan." Saya bertanya lagi; "Kalau begitu, bagaimana jika separuhnya?" beliau menjawab: "Jangan, (namun sedekahkanlah sepertiganya saja), dan sepertiganya pun sudah banyak, sebenarnya bila kamu meninggalkan ahli warismu dalam keadaan kaya, itu lebih baik daripada kamu meninggalkan mereka dalam keadaan serba kekurangan dan meminta-minta kepada orang lain. Tidakkah Kamu menafkahkan suatu nafkah dengan tujuan untuk mencari ridla Allah, melainkan kamu akan mendapatkan pahala lantaran dari nafkah pemberianmu itu, hingga sesuap makanan yang kamu suguhkan kemulut istrimu juga merupakan sedekah darimu." Saya bertanya lagi; "Apakah saya masih tetap hidup, sesudah teman-teman saya meninggal dunia?" beliau menjawab: "Sesungguhnya kamu tidak akan panjang umur, kemudian kamu mengerjakan suatu amalan dengan tujuan untuk mencari ridla Allah, kecuali derajatmu akan semakin bertambah, semoga kamu dipanjangkan umurmu sehingga kaum Muslimin mendapatkan manfa'at darimu dan orang-orang (kafir) menderita kerugian karenamu. Ya Allah… sempurnakanlah hijrah para sahabatku dan janganlah Engkau kembalikan mereka kepada kekufuran, akan tetapi alangkah kasihannya Sa'd bin Khaulah." Sa'd berkata; "Kemudian Nabi shallallahu 'alaihi wasallam mendo'akannya agar ia meninggal di kota Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6373</td></tr><tr><td>Arabic No</td><td>6373</td></tr><tr><td>Reference</td><td>Book 80 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Амир ибн Са‘д [ибн Абу Ваккас] передаёт от своего отца, что тот сказал: «Во время прощального паломничества я заболел и был близок к смерти, Посланник Аллаха ﷺ пришёл навестить меня. Я сказал: “О посланник Аллаха, болезнь уже довела меня до крайности! Я богат, и нет у меня наследников, кроме единственной дочери, так не отдать ли мне две трети имущества в качестве милостыни?” Он сказал: “Нет”. Я спросил: “А половину?” Он сказал: “(Но и) трети будет много, ведь лучше тебе оставить своих наследников состоятельными, чем нуждающимися и вынужденными просить у людей! И, поистине, ты обязательно получишь награду за всё то, что потратишь ради лика Аллаха, и даже за то, что положишь в рот своей жене”. Тогда я спросил: “О Посланник Аллаха, оставят ли меня здесь после (того, как уедут) мои товарищи?” Он сказал: “Тебя ни в коем случае не оставят, и какое бы праведное дело ты ни совершил ради Аллаха, оно не добавит тебе ничего, кроме возвышения. Кроме того, возможно, что ты проживёшь ещё долго, чтобы благодаря тебе одни люди получили пользу, а другим был нанесён вред. О Аллах, заверши переселение для моих сподвижников и не вынуждай их отступать! О бедный Са‘д ибн Хауля!” Са’д сказал: “И Пророк ﷺ стал выражать сожаление в связи с тем, что этот человек умер в Мекке”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6373</td></tr><tr><td>Arabic No</td><td>6373</td></tr><tr><td>Reference</td><td>Book 80 Hadith 70</td></tr></tbody></table></div>
 

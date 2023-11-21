@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mas'ud reported Allah's Messenger (ﷺ) as saying:If anyone recites the two 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Minjab bin Harits At Tamimi] telah mengabarkan kepada kami [Ibnu Mushir] dari [Al A'masy] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Alqamah bin Qais] dari [Abu Mas'ud Al Anshari] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang membaca dua ayat ini, yakni dari akhir surat Al Baqarah di suatu malam, maka keduanya akan menjaganya dari bencana." Abdurrahman berkata; Saya menjumpai Abu Mas'ud yang sedang melakukan thawaf di Baitullah, maka saya bertanya kepadanya. Maka ia pun menceritakannya kepadaku dari Nabi shallallahu 'alaihi wasallam. Dan telah menceritakan kepadaku [Ali bin Khasyram] telah mengabarkan kepada kami [Isa] yakni Ibnu Yunus. -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] semuanya dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dan [Abdurrahman bin Yazid] dari [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam semisalnya. -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh] dan [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1880</td></tr><tr><td>Arabic No</td><td>808.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 308</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас’уда аль-Ансари, что Посланник Аллаха ﷺ сказал: «Тому, кто станет читать ночью два последних аята из суры “аль-Бакара”, этого будет достаточно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1880</td></tr><tr><td>Arabic No</td><td>808.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 308</td></tr></tbody></table></div>
 

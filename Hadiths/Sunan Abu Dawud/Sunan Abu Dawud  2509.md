@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid bin Khalid al Juhani reported that Apostle of Allaah(ﷺ) as saying “He w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin 'Amr bin Abu Al Hajjaj Abu Ma'mar], telah menceritakan kepada kami [Abdul Warits], telah menceritakan kepada kami [Al Husain], telah menceritakan kepadaku [Yahya] telah menceritakan kepadaku [Abu Salamah], telah menceritakan kepadaku [Busr bin Sa'id], telah menceritakan kepadaku [Zaid bin Khalid Al Juhani], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mempersiapkan orang yang berperang di jalan Allah maka sungguh ia telah berperang, dan barangsiapa yang menggantikannya menjaga keluarganya dengan baik maka sungguh ia telah berperang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2843) Sahih Muslim (1895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 15 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2843) Sahih Muslim (1895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 15 Hadith 33</td></tr></tbody></table></div>
 

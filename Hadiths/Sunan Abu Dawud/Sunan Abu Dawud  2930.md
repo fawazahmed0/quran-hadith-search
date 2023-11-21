@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Musa:I went along with two men to see the Prophet (ﷺ). One of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah], telah menceritakan kepada kami [Khalid], dari [Isma'il bin Abu Khalid], dari [saudaranya], dari [Bisyr bin Qurrah Al Kalbi], dari [Abu Burdah], dari [Abu Musa], ia berkata; aku pergi bersama dua orang laki-laki kepada Nabi shallallahu 'alaihi wasallam, kemudian salah seorang diantara mereka bersaksi (memohon), kemudian berkata; kami datang agar engkau mempekerjakan kami untuk mengurusi pekerjaan engkau. Dan yang lain berkata; seperti perkataan sahabatnya. Kemudian beliau berkata; sesungguhnya saudara-saudara kalian di sisi kami (paling banyak melakukan khianat) yang meminta pekerjaan. Abu Musa meminta maaf kepada Nabi shallallahu 'alaihi wasallam dan berkata; aku tidak mengetahui kenapa mereka datang, dan beliau tidak mempekerjakan mereka mengurusi sesuatupun, hingga beliau meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2930</td></tr><tr><td>Arabic No</td><td>2930</td></tr><tr><td>Reference</td><td>Book 20 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Мусы, да будет доволен им Аллах: «Я отправился к Пророку ﷺ в сопровождении двух человек, и один из них произнёс слова свидетельства и сказал: “Мы пришли, чтобы ты воспользовался нашей помощью в твоих трудах”. Второй сказал нечто подобное. (Посланник Аллаха ﷺ) сказал: “Самый вероломный из вас в наших глазах тот, кто сам просит об этом”». Абу Муса извинился перед Пророком ﷺ сказав: «Я не знал, для чего они пришли». И (Посланник Аллаха ﷺ) не назначал их ни на какие должности до самой своей смерти
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2930</td></tr><tr><td>Arabic No</td><td>2930</td></tr><tr><td>Reference</td><td>Book 20 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:Whenever the Prophet (ﷺ) intended to go to bed, he would rec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Abdul Malik bin Umair] dari [Rib'i bin Hirasy] dari [Hudzaifah] dia berkata; "Apabila Nabi shallallahu 'alaihi wasallam hendak tidur, beliau membaca: 'Bismika allahumma amuutu wa ahya (Dengan nama-Mu Ya Allah, aku mati dan aku hidup).' Dan apabila bangun tidur, beliau mengucapkan: 'Al Hamdulillahilladzii ahyaana ba'da maa amatana wailaihi nusyur (Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya lah tempat kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6324</td></tr><tr><td>Arabic No</td><td>6324</td></tr><tr><td>Reference</td><td>Book 80 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузейфа (ибн аль-Яман), да будет доволен им Аллах, сказал: «Когда Пророк ﷺ ложился спать, он говорил: “С именем Твоим я умираю и возвращаюсь к жизни /Би-сми-кя, амуту ва ахйа/”, — а когда просыпался ото сна, то говорил: “Хвала Аллаху, Который вернул нас к жизни после того, как упокоил нас, и к Нему [мы вернёмся] после воскрешения /Аль-хамду ли-Лляхи-ллязи ахйана ба‘да ма аматана ва илейхи-н-нушур/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6324</td></tr><tr><td>Arabic No</td><td>6324</td></tr><tr><td>Reference</td><td>Book 80 Hadith 21</td></tr></tbody></table></div>
 

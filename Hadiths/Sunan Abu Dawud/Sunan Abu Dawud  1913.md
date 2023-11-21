@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said the Apostle of Allaah(ﷺ) proceeded from Mina when he offered 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Ya'qub], telah menceritakan kepada Kami [ayahku], dari [Ibnu Ishaq], telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam pergi dari Mina ketika telah melaksanakan Shalat Subuh, pagi hari Arafah hingga beliau sampai di Arafah dan singgah di Namirah. Dan itu adalah tempat singgal pemimpin yang singgah padanya di Arafah hingga pada saat Shalat Zhuhur Rasulullah shallAllahu wa'alaihi wa sallam berangkat pada saat pertengahan siang, kemudian beliau menjama' Shalat Zhuhur dan 'Ashar, kemudian berkhutbah kepada orang-orang, lalu berangkat dan berwukuf pada tempat wukuf di 'Arafah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1913</td></tr><tr><td>Arabic No</td><td>1913</td></tr><tr><td>Reference</td><td>Book 11 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Посланник Аллаха ﷺ покинул долину Мина после того, как совершил там утреннюю молитву (фаджр) в день ‘Арафата и отправился на ‘Арафат. Он остановился в Намире, где должен останавливаться руководящий хаджем. Когда настало время полуденной молитвы (зухр), Посланник Аллаха ﷺ вышел и совершил полуденную (зухр) и послеполуденную молитву (‘аср), соединив их, после чего обратился к людям с проповедью, а потом остался стоять на ‘Арафате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1913</td></tr><tr><td>Arabic No</td><td>1913</td></tr><tr><td>Reference</td><td>Book 11 Hadith 193</td></tr></tbody></table></div>
 

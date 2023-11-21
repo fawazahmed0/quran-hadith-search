@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) decreed that one should not eat two dates t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Jabalah bin Suhaim] berkata, aku mendengar [Ibnu 'Umar radliallahu 'anhuma] berkata; "Rasulullah shallallahu 'alaihi wasallam melarang seseorang memakan dua butir kurma sekaligus sebelum dia meminta izin sahabat-sahabatnya (yang sedang makan bersama)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2489</td></tr><tr><td>Arabic No</td><td>2489</td></tr><tr><td>Reference</td><td>Book 47 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ запрещал брать сразу по два финика, не спросив разрешения сотрапезников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2489</td></tr><tr><td>Arabic No</td><td>2489</td></tr><tr><td>Reference</td><td>Book 47 Hadith 7</td></tr></tbody></table></div>
 

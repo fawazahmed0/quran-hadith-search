@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ikrimah said:Umm Habibah had a prolonged flow of blood ; her husband used to coh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Khalid] telah menceritakan kepada kami [Mu'alla bin Manshur] dari [Ali bin Mushir] dari [Asy-Syaibani] dari [Ikrimah] dia berkata; Ummu Habibah pernah istihadhah dan suaminya tetap berhubungan badan dengannya. Abu Dawud berkata; Yahya bin Ma'in berkata; Mu'alla adalah perawi tsiqah, namun Ahmad bin Hanbal tidak meriwayatkan darinya karena dia (Mu'alla) terkadang mencermati masalah dengan logika
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Икрима сказал: «У Умм Хабибы было хроническое кровотечение, и она с мужем вступала в половую близость»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
 

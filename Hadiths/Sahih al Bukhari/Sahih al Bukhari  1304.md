@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Sa'd bin 'Ubada became sick and the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh] dari [Ibnu Wahb] berkata, telah mengabarkan kepada saya ['Amru] dari [Sa'id bin Al Harits Al Anshariy] dari ['Abdullah bin Umar radliallahu 'anhuma] berkata; Ketika Saad bin Ubadah sedang sakit, Nabi Shallallahu'alaihiwasallam menjenguknya bersama 'Abdurrahman bin 'Auf, Saad bin Abu Waqqash dan 'Abdullah bin Mas'ud radliallahu 'anhum. Ketika Beliau menemuinya, Beliau mendapatinya sedang dikerumuni keluarganya, Beliau bertanya: "Apakah ia sudah meninggal?". Mereka menjawab: "Belum, wahai Rasulullah". Lalu Nabi Shallallahu'alaihiwasallam menangis. Ketika orang-orang melihat Nabi Shallallahu'alaihiwasallam menangis, mereka pun turut menangis, maka Beliau bersabda: "Tidakkah kalian mendengar bahwa Allah tidak mengadzab dengan tangisan air mata, tidak dengan hati yang bersedih, namun Dia mengadzab dengan ini, " lalu Beliau menunjuk lidahnya, atau dirahmati (karena lisan itu) dan sesungguhnya mayat itu diadzab disebabkan tangisan keluarganya kepadanya" Sambil 'Umar radliallahu 'anhu memukul tanah dengan tongkat, melempar batu dan menumpahkan tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1304</td></tr><tr><td>Arabic No</td><td>1304</td></tr><tr><td>Reference</td><td>Book 23 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Когда Са‘д ибн ‘Убада (серьёзно) заболел, Пророк ﷺ пришёл навестить его вместе с ‘Абдуррахманом ибн ‘Ауфом, Са‘дом ибн Аби Ваккасом и ‘Абдуллахом ибн Мас‘удом, да будет доволен ими Аллах. Зайдя к (больному) и увидев его в окружении родных, (Пророк ﷺ) спросил: “Он уже умер?” Они ответили: “Нет, о Посланник Аллаха”, и тогда Пророк ﷺ заплакал, увидев же, что он плачет, заплакали и другие. Затем он сказал: “Разве вы не слышите? Поистине, Аллах не подвергает мучениям ни за слёзы(, текущие из) глаз, ни за печаль сердца, однако Он подвергает мучениям или милует за это!” — и он указал на свой язык(, а потом добавил): “И, поистине, покойный подвергается мучениям из-за того, что родные оплакивают его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1304</td></tr><tr><td>Arabic No</td><td>1304</td></tr><tr><td>Reference</td><td>Book 23 Hadith 62</td></tr></tbody></table></div>
 

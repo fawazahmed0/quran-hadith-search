@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "I am more closer to the believers 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: "Saya lebih utama menjamin orang-orang mukmin daripada diri mereka sendiri, maka barangsiapa meninggal sedang ia mempunyai hutang dan tidak meninggalkan harta untuk melunasinya, kewajiban kamilah untuk melunasinya, dan barangsiapa meninggalkan harta, maka itu bagi ahli warisnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6731</td></tr><tr><td>Arabic No</td><td>6731</td></tr><tr><td>Reference</td><td>Book 85 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Я ближе к верующим, чем они сами к себе, поэтому если кто-то (из верующих умрёт), оставив неоплаченный долг, то обязанность уплатить его будет лежать на мне, а если (человек) оставит какое-нибудь имущество, (пусть оно достанется) его наследникам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6731</td></tr><tr><td>Arabic No</td><td>6731</td></tr><tr><td>Reference</td><td>Book 85 Hadith 8</td></tr></tbody></table></div>
 

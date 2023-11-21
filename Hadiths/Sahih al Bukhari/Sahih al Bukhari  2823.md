@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) used to say, "O Allah! I seek refuge w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Mu'tamir] berkata aku mendengar [bapakku] berkata eku mendengar [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam biasa berdo'a: "ALLAAHUMMA INNII A'UUDZU BIKA MINAL 'AJZI WAL KASALI WAL JUBNI WAL HAROMI WA A'UUDZU BIKA MIN FITNATIL MAHYAA WAL MAMAAT WA A'UUDZU BIKA MIN 'ADZAABIL QOBRI" ("Ya Allah aku berlindung kepada-Mu dari sikap lemah, malas, pengecut dan kepikunan dan aku berlindung kepada-Mu dari fitnah kehidupan dan kematian dan aku berlindung kepada-Mu dari siksa qubur)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>2823</td></tr><tr><td>Reference</td><td>Book 56 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ говорил: «О Аллах, я прибегаю к Тебе за защитой от бессилия и лени, от малодушия и одряхления. И я прибегаю к Тебе за защитой от искушений жизни и смерти, и я прибегаю к Тебе за защитой от мучений могилы! /Аллахумма, инни а‘узу би-ка мин аль-‘аджзи, ва-ль-касали, ва-ль-джубни, ва-ль-харами, ва а‘узу би-ка мин фитнати-ль-махйа ва-ль-мамат, ва а‘узу би-ка мин ‘азаби-ль-кабри/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>2823</td></tr><tr><td>Reference</td><td>Book 56 Hadith 39</td></tr></tbody></table></div>
 

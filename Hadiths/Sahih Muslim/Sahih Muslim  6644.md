@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I heard Allah's Messenger (ﷺ) as saying: One is not stron
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajib bin Al Walid]; Telah menceritakan kepada kami [Muhammad bin Harb] dari [Az Zubaidi] dari [Az Zuhri]; Telah mengabarkan kepadaku [Humaid bin 'Abdur Rahman] bahwa [Abu Hurairah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukanlah yang disebut dengan kuat itu orang yang jago gulat." Para sahabat bertanya; "Wahai Rasulullah, lalu siapakah yang disebut dengan orang yang kuat?" Beliau menjawab: "Yaitu orang yang mampu mengendalikan dirinya ketika marah." Dan telah menceritakannya kepada kami [Muhammad bin Rafi'] dan ['Abad bin Humaid] seluruhnya dari ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman bin Bihram]; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] keduanya dari [Az Zuhri] dari [Humaid bin 'Abdur Rahman bin 'Auf] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6644</td></tr><tr><td>Arabic No</td><td>2609.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6644</td></tr><tr><td>Arabic No</td><td>2609.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 141</td></tr></tbody></table></div>
 

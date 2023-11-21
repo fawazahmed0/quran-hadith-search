@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. al-Harith reported that a person began to praise 'Uthman and Miqdad sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar], teks milik Al Mutsanna, keduanya berkata: Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Ibraim] dari [Hammam bin Al Harits] bahwa seseorang memuji Utsman lalu [Al Miqdad] menghampirinya kemudian berlutut di atas kedua lututnya, setelah itu menaburkan pasir diwajahnya. Utsman berkata padanya: Kamu kenapa? Al Miqdad berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila kalian melihat orang-orang memuji, taburkan tanah diwajahnya." Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata" Telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dari [Manshur]. Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Al Asyja'I Ubaidullah bin Ubaidurrahman] dari [Sufyan Ats Tsauri] dari [Al A'masy] dan [Manshur] dari [Ibrahim] dari [Hammam] dari [Al Miqdaq] dari nabi Shallallahu 'alaihi wa Salam sepertinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7506</td></tr><tr><td>Arabic No</td><td>3002.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7506</td></tr><tr><td>Arabic No</td><td>3002.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 88</td></tr></tbody></table></div>
 

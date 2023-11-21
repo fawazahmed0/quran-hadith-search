@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr (Allah be pleased with them) reported that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Hatim] semuanya dari [Abdurrahman bin Mahdi] - [Zuhair] berkata- Telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Salim bin Hayyan] telah menceritakan kepada kami [Sa'id bin Mina'] ia berkata; [Abdullah bin Amru] berkata; Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: "Wahai Abdullah bin Amru, telah sampai berita kepadaku bahwa kamu berpuasa sepanjang hari dan shalat sepanjang malam. Janganlah kamu lakukan, sebab jasadmu mempunyai hak atas dirimu, kedua matamu mempunyai hak atasmu, dan isterimu juga punya hak atasmu. Karena itu, hendaknya kamu puasa dan juga berbuka. Berpuasalah tiga hari pada setiap bulannya, sebab itulah sebenarnya puasa sepanjang masa." Saya berkata, "Wahai Rasulullah, sesungguhnya saya kuasa melakukannya." Beliau bersabda: "Kalau begitu, berpuasalah sebagaimana puasa Dawud 'Alaihis salam, berpuasalah sehari dan berbukalah sehari." Di kemudian hari 'Abdullah bin Amru pun berkata, "Duhai…, sekiranya kau mengambil rukhshah (keringanan) itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2743</td></tr><tr><td>Arabic No</td><td>1159.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2743</td></tr><tr><td>Arabic No</td><td>1159.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 249</td></tr></tbody></table></div>
 

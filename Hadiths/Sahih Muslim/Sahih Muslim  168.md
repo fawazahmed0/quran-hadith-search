@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Anas that the Messenger of Allah (ﷺ) said:N
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ulayyah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Syaiban bin Abu Syaibah] telah menceritakan kepada kami [Abdul Warits] keduanya dari [Abdul Aziz] dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang hamba beriman (dan dalam hadits Abdul warits 'seorang laki-laki) hingga aku lebih dia cintai daripada keluarga dan hartanya serta manusia semuanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>44.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Посланник Аллаха ﷺ сказал: «Раб (Аллаха) не уверует (должным образом), пока я не стану любимее для него, чем его семья, его имущество и вообще все люди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>44.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 75</td></tr></tbody></table></div>
 

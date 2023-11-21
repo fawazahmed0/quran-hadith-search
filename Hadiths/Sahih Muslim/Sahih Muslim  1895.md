@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim son of Abdullah b. 'Umar is reported to have said on the authority of his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata, telah mengabarkan kepadaku [Salim bin Abdullah bin Umar] dari [bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh dengki kecuali pada dua hal. (Pertama) kepada seorang yang telah diberi Allah (hafalan) Al Qur'an, hingga ia membacanya siang dan malam. (Kedua) kepada seorang yang dikaruniakan Allah harta kekayaan, lalu dibelanjakannya harta itu siang dan malam (di jalan Allah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1895</td></tr><tr><td>Arabic No</td><td>815.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 323</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Салим ибн ‘Абдуллах ибн ‘Умар передал со слов своего отца, что Посланник Аллаха ﷺ сказал: «Не следует завидовать никому, кроме двоих: человеку, которому Аллах даровал (знание) этой книги (Корана) и который занимается им ночью и днём, и человеку, которому Аллах даровал богатство и который жертвует его ночью и днём»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1895</td></tr><tr><td>Arabic No</td><td>815.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 323</td></tr></tbody></table></div>
 

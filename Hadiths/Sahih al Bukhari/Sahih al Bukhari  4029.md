@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:I mentioned to Ibn 'Abbas Surat-Hashr. He said, "Call 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan bin Mudrik] telah menceritakan kepada kami [Yahya bin Hammad] telah mengabarkan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dia berkata, aku berkata kepada [Ibnu Abbas] mengenai surat Al Hasyr, dia berkata, "Katakanlah surat An Nadlir." Riwayat ini juga dikuatkan oleh [Husyaim] dari [Abu Bisyr]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4029</td></tr><tr><td>Arabic No</td><td>4029</td></tr><tr><td>Reference</td><td>Book 64 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са’ид ибн Джубайр сказал: «Я сказал Ибн ‘Аббасу: “Сура аль-Хашр”. А он сказал: “Скажи: сура ан-Надыр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4029</td></tr><tr><td>Arabic No</td><td>4029</td></tr><tr><td>Reference</td><td>Book 64 Hadith 78</td></tr></tbody></table></div>
 

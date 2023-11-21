@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) recited Qunut for one month (in the Fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Za'idah] dari [At Taimi] dari [Abu Mijlaz] dari [Anas bin Malik] ia berkata, "Nabi shallallahu 'alaihi wasallam pernah melaksanakan qunut selama satu bulan untuk mendo'akan (kebinasaan) atas suku Ri'la dan Dzakwan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1003</td></tr><tr><td>Arabic No</td><td>1003</td></tr><tr><td>Reference</td><td>Book 14 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ в течение месяца молил Аллаха покарать (многобожников из племён) ри‘ль и закван»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1003</td></tr><tr><td>Arabic No</td><td>1003</td></tr><tr><td>Reference</td><td>Book 14 Hadith 14</td></tr></tbody></table></div>
 

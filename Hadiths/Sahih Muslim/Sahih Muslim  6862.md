@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : Pendant un voyage que nous faisions avec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Fudlail] dan [Abu Mu'awiyah] dari ['Ashim] dari [Abu 'Utsman] dari [Abu Musa] dia berkata; "Kami pernah menyertai Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan. Tiba-tiba, ada beberapa orang sahabat bertakbir dengan suara keras. Mendengar suara takbir yang keras itu, Rasulullah pun berkata: 'Saudara-saudara sekalian, rendahkanlah suara kalian! Sesungguhnya kalian tidak berdoa kepada Dzat yang tuli dan jauh. Tetapi kalian berdoa kepada Tuhan Yang Maha Mendengar dan Maha Dekat. Dia selalu beserta kalian.' Abu Musa berkata; 'Pada saat itu saya sedang berada di belakang Rasulullah shallallahu 'alaihi wasallam sambil membaca; 'Laa haula wa laa quwwata ilIa billaah' (Tiada daya dan upaya kecuali dengan pertolongan AlIah). Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Hai Abdullah bin Qais, inginkah aku tunjukkan kepadamu salah satu perbendaharaan surga? ' Saya menjawab; 'Tentu ya Rasulullah.' Rasulullah bersabda: 'Ucapkanlah, Laa haula wala quwwata illaa billaah' (Tiada daya dan upaya kecuali dengan pertolongan AIIah)." Telah menceritakan kepada kami [Ibnu Numair] dan [Ishaq bin Ibrahim] dan [Abu Sa'id Al Asyaj] semuanya dari [Hafsh bin Ghiyats] dari ['Ashim] melalui sanad ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6862</td></tr><tr><td>Arabic No</td><td>2704.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6862</td></tr><tr><td>Arabic No</td><td>2704.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 56</td></tr></tbody></table></div>
 

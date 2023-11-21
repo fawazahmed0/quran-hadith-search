@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with him) reported that Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ibnu Abu Fudaik] dari [Ibnu Abu Dzi'b] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Jabir] -yaitu Ibnu Abdullah-, bahwa Rasulullah shallallahu 'alaihi wasallam memutuskan bahwa orang yang telah memberikan 'Umra, maka harta tersebut adalah hak milik orang yang diberi dan untuk keturunannya, dan tidak bisa kembali kepada si pemberi. Selain itu si pemberi juga tidak diperbolehkan memberi syarat atau pengecualian." [Abu Salamah] berkata, "Sebab dia telah memberi suatu pemberian yang terkait langsung dengan hukum waris, sedangkan hukum waris mencegah dari syarat-syarat yang ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4192</td></tr><tr><td>Arabic No</td><td>1625.05</td></tr><tr><td>Reference</td><td>Book 24 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4192</td></tr><tr><td>Arabic No</td><td>1625.05</td></tr><tr><td>Reference</td><td>Book 24 Hadith 30</td></tr></tbody></table></div>
 

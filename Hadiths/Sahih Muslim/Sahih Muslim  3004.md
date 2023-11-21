@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullah, l'affranchi de Asma bint 'Abî Bakr, rapporte qu'il entendait Asma di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah meceritakan kepadaku [Harun bin Sa'id Al Aili] dan [Ahmad bin Isa] keduanya berkata, Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Abu Al Aswad] bahwa [Abdullah budak Asma' binti Abu Bakar] radliallahu 'anhuma, telah mengabarkan kepadanya bahwa dia mendengar [Asma'] setiap kali kali melewati Al Hajun, Asma' berkata, "Shalawat dan salam semoga selalu tercurahkan kepada Rasul-Nya. Kami dulu pernah beristirahat bersama beliau di sini, dan ketika itu kami hanya membawa tas yang ringan, sedikit kendaraan dan juga perbekalan. Lalu aku melaksanakan umrah bersama-sama dengan saudara perempuanku 'Aisyah, Zubair, si fulan serta si fulan. Ketika kami telah mengusap Baitullah, kami pun bertahallul, lalu di siang hari kami berniat untuk melaksanakan haji." Dalam hadits yang diriwayatkannya Harun menyebutkan: bahwa budak Asma' (dst), dan ia tidak menyebutkan kalau namanya adalah Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3004</td></tr><tr><td>Arabic No</td><td>1237</td></tr><tr><td>Reference</td><td>Book 15 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3004</td></tr><tr><td>Arabic No</td><td>1237</td></tr><tr><td>Reference</td><td>Book 15 Hadith 212</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Quand on amenait un mort endetté à
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abu Shafwan Al Amari] dari [Yunus Al Aila]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harmalah bin Yahya] dan ini adalah lafadznya, dia berkata, telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah], bahwa jenazah seorang laki-laki yang berhutang dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam, beliau bertanya: "Apakah dia meninggalkan sesuatu untuk melunasi hutangnya?", jika dijawab bahwa dia memiliki harta peninggalan untuk melunasi hutangnya, maka beliau menshalatkannya, namun jika dijawab tidak, maka beliau bersabda: 'Shalatkanlah saudara kalian ini." Tatkala Allah menaklukkan berbagai negeri, beliau bersabda: "Aku lebih berhak atas kaum Muslimin dari diri mereka sendiri. Barangsiapa meninggal sedangkan dia masih memiliki tanggungan hutang, maka sayalah yang akan melunasinya. Dan barangsiapa masih meninggalkan harta warisan, maka harta tersebut untuk ahli warisnya." Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Laits] telah menceritakan kepadaku [Ayahku] dari [Kakekku] telah menceritakan kepadaku ['Uqail]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu Akhi bin Syihab]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Ibnu Abu Dzi'b] semuanya dari [Az Zuhri] dengan isnad hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4157</td></tr><tr><td>Arabic No</td><td>1619.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4157</td></tr><tr><td>Arabic No</td><td>1619.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 18</td></tr></tbody></table></div>
 

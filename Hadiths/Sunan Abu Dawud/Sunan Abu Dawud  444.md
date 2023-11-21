@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn Umayyah ad-Damri: We were in the company of the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 2 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Умаййа ад-Дамри сказал: «Однажды мы были с посланником Аллаха ﷺ в одной из его поездок и проспали утреннюю молитву так, что взошло солнце. И когда Посланник Аллаха ﷺ проснулся, он сказал: “Отъезжайте с этого места”».(‘Амр) сказал: «Затем он повелел Билялю и тот сделал призыв на молитву. Затем он совершил омовение и помолился в два рак‘ата перед утренней молитвой, после чего (повторно) отдал распоряжение Билялю, и когда тот сделал второй призыв на молитву /икама/, он совершил с ними утреннюю молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 2 Hadith 54</td></tr></tbody></table></div>
 

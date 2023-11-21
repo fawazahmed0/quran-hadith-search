@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ata:Jabir said, "The Prophet (ﷺ) ordered 'Ali to keep on assuming his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] dari [Ibnu Juraij], ['Atho'] berkata, [Jabir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam memerintah 'Ali radliallahu 'anhu agar tetap menjaga ihramnya, lalu Beliau menyebutkan ucapan Suraqah. [Muhammad bin Bakar] menambahkan dari [Ibnu Juraij] Nabi shallallahu 'alaihi wasallam bertanya kepadanya ('Ali): "Wahai 'Ali, bagaimana cara kamu berihram (memulai hajji)?". Dia menjawab: "Aku berihram sebagaimana Nabi shallallahu 'alaihi wasallam berihram". Maka Beliau bersabda: "Berkurbanlah dan jagalah keadaanmu tetap dalam keadaan berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1557</td></tr><tr><td>Arabic No</td><td>1557</td></tr><tr><td>Reference</td><td>Book 25 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Пророк ﷺ приказал ‘Али, да будет доволен им Аллах, оставаться в состоянии ихрама». Ибн Джурейдж передает, что Пророк ﷺ спросил его: «С каким намерением ты входил в состояние ихрама, о ‘Али?» ‘Али ответил: «С тем же, что и Пророк ﷺ». Тогда Пророк ﷺ сказал: «Возьми жертвенное животное (хади) и оставайся в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1557</td></tr><tr><td>Arabic No</td><td>1557</td></tr><tr><td>Reference</td><td>Book 25 Hadith 43</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: When the verse "That they should cast thei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Ibnu Tsaur] dari [Ma'mar] dari [Ibnu Khutsaim] dari [Shafiyah binti Syaibah] dari [Ummu Salamah] ia berkata, "Ketika turun ayat: '(Hendaklah mereka mengulurkan jilbabnya) ', wanita-wanita Anshar keluar seakan di atas kepala mereka ada burung gagak -karena tertutup kerudung hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4101</td></tr><tr><td>Arabic No</td><td>4101</td></tr><tr><td>Reference</td><td>Book 34 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм Салямы, да будет доволен ею Аллах: «Когда был ниспослан (аят): “И пусть сближают на себе свои покрывала” (сура “аль-Ахзаб”, аят 59), женщины ансаров вышли и при этом казалось, что на головах у них вороны из-за того, как они были обмотаны тканью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4101</td></tr><tr><td>Arabic No</td><td>4101</td></tr><tr><td>Reference</td><td>Book 34 Hadith 82</td></tr></tbody></table></div>
 

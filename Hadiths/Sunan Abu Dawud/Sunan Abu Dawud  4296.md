@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Busr: The Prophet (ﷺ) said: The time between the great w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih Al Himshi] berkata, telah menceritakan kepada kami [Baqiyyah] dari [bahir] dari [Khalid] dari [Ibnu Abu Bilal] dari [Abdullah bin Busr] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Antara peperangan dan pembukaan kota Konstantinopel jaraknya enam tahun, lalu Al Masih Ad Dajjal keluar pada awal tahun ke tujuh." Abu Dawud berkata, "Ini lebih shahih ketimbang hadits Isa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4296</td></tr><tr><td>Arabic No</td><td>4296</td></tr><tr><td>Reference</td><td>Book 39 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Бусра, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Между великим сражением и завоеванием города [Константинополя] шесть лет, а в седьмом появится Даджжаль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4296</td></tr><tr><td>Arabic No</td><td>4296</td></tr><tr><td>Reference</td><td>Book 39 Hadith 6</td></tr></tbody></table></div>
 

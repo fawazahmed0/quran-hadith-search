@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I offered with the Messenger of Allah (ﷺ) the noon prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1292</td></tr><tr><td>Arabic No</td><td>573.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «(Однажды), когда я совершал полуденную молитву /зухр/ вместе с Пророком ﷺ, Посланник Аллаха ﷺ произнёс слова таслима после того, как совершил два рак‘ата. Тогда какой-то человек из племени бану сулейм встал…». Далее он рассказал хадиса до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1292</td></tr><tr><td>Arabic No</td><td>573.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 130</td></tr></tbody></table></div>
 

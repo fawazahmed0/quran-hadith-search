@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar bin Al-Khattab divorced his wife during her menses. All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Al Laits] dari [Nafi'] bahwa [Ibnu Umar bin Al Khaththab] radliallahu 'anhuma menceraikan isterinya dalam keadaan haidl dengan talak satu. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan agar ia meruju'nya kembali lalu menahannya hingga ia suci, kemudian haid lagi dan menunggunya hingga ia suci kembali dari haidlnya. Maka bila ia mau menceraikannya, maka hendaklah ia menceraikannya saat dalam keadaan suci dan sebelum menjima'nya. Itulah Al 'Iddah yang diperintahkan Allah, agar para wanita diceraikan pada masa itu. Dan apabila Abdullah ditanya tentang hal itu, maka ia kan berkata kepada salah seorang dari mereka, "Jika kamu menceraikannya dengan talak tiga, maka sungguh wanita itu telah diharamkan atasmu hingga ia menikah dengan laki-laki lain selainmu." Dan selainnya menambahkan; Dari Al Laits Telah menceritakan kepadaku Nafi' Telah berkata Ibnu Umar; "Bila kamu menceraikan dengan sekali atau dua kali talak, maka Nabi shallallahu 'alaihi wasallam telah memerintahkanku seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5332</td></tr><tr><td>Arabic No</td><td>5332</td></tr><tr><td>Reference</td><td>Book 68 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Нафи‘а, что Ибн ‘Умар ибн аль-Хаттаб, да будет доволен ими обоими Аллах, дал развод своей жене, когда у неё были месячные. Посланник Аллаха ﷺ приказал ему вернуть её, затем удержать её до тех пор, пока она не очистится (от этой менструации), потом (подождать, пока) у неё снова не начнутся месячные, и она снова не очистится, и если после этого он захочет дать ей развод, то пусть даёт, не вступая в половую близость: это и есть срок /‘идда/, согласно которому Аллах велел разводиться с женщинами. Когда ‘Абдуллаха спрашивали об этом, он говорил: «Если ты дал ей развод трижды, то она становится запретной для тебя, до тех пор, пока она не выйдет замуж за другого мужчину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5332</td></tr><tr><td>Arabic No</td><td>5332</td></tr><tr><td>Reference</td><td>Book 68 Hadith 77</td></tr></tbody></table></div>
 

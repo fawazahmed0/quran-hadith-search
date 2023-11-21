@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hilal b. Yasaf reported that a person got angry and slapped his slave-girl. Ther
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] dan ini adalah lafadz Abu Bakar, keduanya berkata; telah menceritakan kepada kami [Ibnu Idris] dari [Hushain] dari [Hilal bin Yasaf] dia berkata, "Ada seorang tua yang suka cepat naik pitam, kemudian dia menampar budak miliknya, maka [Suwaid bin Muqarin] berkata kepadanya, "Apakah kamu tidak dapat menahan untuk tidak menampar wajahnya? Sungguh, aku adalah anak yang ketujuh dari keturunan Bani Muqarrin, dulunya aku tidak memiliki budak melainkan satu orang saja, kemudian saudara yang paling muda dari kami menamparnya, lantas Rasulullah shallallahu 'alaihi wasallam memerintahkan supaya kami memerdekakan dia." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Ibnu Abu 'adi] dari [Syu'bah] dari [Hushain] dari [Hilal bin Yasaf] dia berkata, "Kami biasa membeli perkakas rumah tangga di rumahnya [Suwaid bin Muqarrin], yaitu saudara laki-lakinya An Nu'man bin Muqarrin, tiba-tiba seorang budak perempuan keluar dan mencela seorang laki-laki dari kami hingga ia pun menampar budak tersebut, seketika itu Suwaid pun marah …", kemudian dia menyebutkan hadits seperti riwayatnya Ibnu Idris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4302</td></tr><tr><td>Arabic No</td><td>1658.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4302</td></tr><tr><td>Arabic No</td><td>1658.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
 

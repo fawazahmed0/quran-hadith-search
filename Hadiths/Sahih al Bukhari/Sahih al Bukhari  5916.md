@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hafsa:(the wife of the Prophet) I said, "O Allah's Messenger (ﷺ)! Why
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Abdullah bin Umar] dari [Hafshah] radliallahu 'anha isteri Nabi shallallahu 'alaihi wasallam dia berkata; saya bertanya; "Wahai Rasulullah, kenapa orang-orang telah bertahallul dari umrahnya sedangkan anda belum bertahallul dari umrahmu? Beliau menjawab: "Saya telah mengikat kepalaku dan mengalungi hewan kurbanku, dan saya tidak akan bertahallul hingga menyembelih kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5916</td></tr><tr><td>Arabic No</td><td>5916</td></tr><tr><td>Reference</td><td>Book 77 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что Хафса, да будет доволен ими Аллах, жена Пророка ﷺ спросила: «О Посланник Аллаха, почему люди вышли из состояния ихрама, совершив умру, а ты не сделал этого после своей умры?» Он сказал: «Я ведь склеил себе волосы камедью и пометил свой скот, и теперь я не выйду из состояния ихрама, пока не принесу этот скот в жертву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5916</td></tr><tr><td>Arabic No</td><td>5916</td></tr><tr><td>Reference</td><td>Book 77 Hadith 131</td></tr></tbody></table></div>
 

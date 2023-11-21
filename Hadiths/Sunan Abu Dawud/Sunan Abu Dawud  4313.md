@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:The Euphrates is so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi] berkata, telah menceritakan kepadaku [Uqbah bin Khalid As Sakuni] berkata, telah menceritakan kepada kami [Ubaidullah] dari [Khubaib bin 'Abdurrahman] dari [Hafsh bin Ashim] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "begitu dekat (hari kiamat) yaitu ketika sungai Furat menyibak harta kekayaan berupa emas yang terkandung di dalamnya, barangsiapa yang datang kepadanya maka janganlah ia mengambil sesuatu pun darinya." Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi] berkata, telah menceritakan kepadaku [Uqbah] -maksudnya Uqbah bin Khalid- berkata, telah menceritakan kepadaku [Ubaidullah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam sebagaimana dalam hadits tersebut, hanya saja beliau mengatakan: "menyibak gunung emas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Близится то время, когда обнажит (то есть вода его уйдёт) Евфрат клад золото, которое до сих пор оставалось сокрытым, и кто будет присутствовать при этом, пусть ничего не берёт из него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through another chain of transmitters) on the authority of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas] dia berkata, "Aku pernah membonceng Abu Thalhah ketika hari penaklukan khaibar, sendangkan kakiku bersentuhan dengan kaki Rasulullah shallallahu 'alaihi wasallam." Anas berkata, "Kami tiba ketika matahari belum muncul. Ketika para penduduknya keluar dengan membawa kempak dan keranjang menuju tempat mereka bekerja, maka mereka berteriak, "Muhammad dan tentaranya telah datang…!" Anas berkata, "Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Takluklah Khaibar, dan apabila kami menduduki suatu negeri, '(maka amat buruklah pagi hari yang di alami oleh orang-orang yang di peringatkan itu) ' '(Qs. Asy Syaffat: 177). Anas berkata, "Maka Allah Azza Wa Jalla telah mengalahkan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4666</td></tr><tr><td>Arabic No</td><td>1365.08</td></tr><tr><td>Reference</td><td>Book 32 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4666</td></tr><tr><td>Arabic No</td><td>1365.08</td></tr><tr><td>Reference</td><td>Book 32 Hadith 148</td></tr></tbody></table></div>
 

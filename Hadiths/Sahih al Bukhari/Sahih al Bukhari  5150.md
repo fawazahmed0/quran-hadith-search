@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said to a man, "Marry, even with (a Mah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Hazim] dari [Sahl bin Sa'd] bahwasanya; Nabi shallallahu 'alaihi wasallam bersabda kepada seseorang: "Menikahlah meskipun maharnya hanya dengan cincin besi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5150</td></tr><tr><td>Arabic No</td><td>5150</td></tr><tr><td>Reference</td><td>Book 67 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается cо слов Сахля ибн Са‘да, что Пророк ﷺ сказал одному мужчине: «Женись, подарив хотя бы за железный перстень»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5150</td></tr><tr><td>Arabic No</td><td>5150</td></tr><tr><td>Reference</td><td>Book 67 Hadith 85</td></tr></tbody></table></div>
 

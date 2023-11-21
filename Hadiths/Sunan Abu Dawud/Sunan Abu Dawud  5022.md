@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir reported the Messenger of Allah (May peace be upon him) as saying :When on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid Al Hamdani] dan [Qutaibah bin Sa'id Ats Tsaqafi] keduanya berkata; telah mengabarkan kepada kami [Al laits] dari [Abu Az Zubair] dari [Jabir] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Jika salah seorang dari kalian bermimpi dengan sesuatu yang dibencinya, hendaklah meludah ke sisi kirinya, lalu berlindung kepada Allah dari setan sebanyak tiga kali. Setelah itu hendaknya ia berganti posisi dari posisinya semula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2262)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5022</td></tr><tr><td>Arabic No</td><td>5022</td></tr><tr><td>Reference</td><td>Book 43 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2262)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5022</td></tr><tr><td>Arabic No</td><td>5022</td></tr><tr><td>Reference</td><td>Book 43 Hadith 250</td></tr></tbody></table></div>
 

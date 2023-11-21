@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) rapporte du Prophète le propos suivant : Salo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Ataki] dan [Abu Kamil Al Jahdari Fudlail bin Husain] dan ini adalah lafadz Abu Ar Rabi', keduanya berkata; telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah] dia berkata, "Nabi Shallallahu 'Alaihi Wasalam Sulaiman mempunyai enam puluh orang isteri, lalu dia berkata, "Malam ini aku akan menyetubuhi mereka semua, hingga masing-masing dari mereka hamil dan melahirkan seorang anak keturunan persi yang akan berperang di jalan Allah." Ternyata tidak ada seorangpun dari isterinya yang mengandung kecuali hanya seorang saja, yang melahirkan anak yang cacat." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya dia mengatakan Insya Allah (jika Allah berkehendak), niscaya semua isterinya akan melahirkan satu orang anak keturunan persi yang nantinya akan berperang di jalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4285</td></tr><tr><td>Arabic No</td><td>1654.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4285</td></tr><tr><td>Arabic No</td><td>1654.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 32</td></tr></tbody></table></div>
 

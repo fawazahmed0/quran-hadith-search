@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aswad reported that some young men from the Quraish visited 'A'isha as she was i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] seluruhnya dari [Jarir]. [Zuhair] berkata; Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dia berkata; "Pada suatu hari, seorang pemuda Quraisy berkunjung kepada [Aisyah], istri Rasulullah, ketika ia sedang berada di Mina. Kebetulan saat itu para sahabat sedang tertawa, hingga Aisyah merasa heran dan sekaligus bertanya; 'Mengapa kalian tertawa? ' Mereka menjawab; 'Si fulan jatuh menimpa tali kemah hingga Iehernya (atau matanya) hampir lepas.' Aisyah berkata; 'Janganlah kalian tertawa terbahak-bahak! Karena sesungguhnya aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidaklah seorang muslim tertusuk duri atau yang Iebih kecil dari itu, melainkan akan ditulis baginya satu derajat dan akan dihapus satu kesalahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6561</td></tr><tr><td>Arabic No</td><td>2572.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6561</td></tr><tr><td>Arabic No</td><td>2572.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 59</td></tr></tbody></table></div>
 

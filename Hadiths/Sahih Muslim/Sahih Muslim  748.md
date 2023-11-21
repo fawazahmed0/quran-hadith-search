@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (raa), une femme interrogea le Prophète (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amr bin Muhammad an-Naqid] dan [Ibnu Abi Umar] semuanya meriwayatkan dari [Ibnu Uyainah] berkata [Amru], telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Manshur bin Shafiyyah] dari [Ibunya] dari [Aisyah] dia berkata, "Seorang perempuan bertanya Nabi Shallallahu'alaihiwasallam, 'Bagaimanakah cara orang perempuan mandi dari haidnya?" Perawi Hadits berkata, "Kemudian Aisyah menyebutkan bahwa beliau mengajarkan cara mandi kepada perempuan tersebut. Kemudian beliau bersabda, 'Kamu ambil kapas misk (kasturi), lalu kamu bersucilah dengannya'. Perempuan itu berkata, 'Bagaimana cara bersuci dengannya? ' Beliau bersabda, 'Maha suci Allah! Kamu bersucilah dengannya dan beliau pun bersembunyi. Sufyan bin Uyainah memberi isyarat kepada kami dengan meletakkan tangan pada wajahnya." Perawi Hadits melanjutkan ceritanya, "Lalu Aisyah berkata, 'Maka kutarik perempuan itu karena aku sudah tahu apa yang dikehendaki oleh Nabi Shallallahu'alaihiwasallam. Dan kukatakan kepada perempuan tersebut, 'Sapulah tempat keluar darah haidmu dengan kapas itu'." Dan berkata [Ibnu Abi Umar] dalam riwayatnya, "Lalu aku berkata, 'Sapulah dengan kapas itu sisa-sisa darah'." Dan telah menceritakan kepada kami [Ahmad bin Sa'id ad-Darimi] telah menceritakan kepada kami [Habban] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Manshur] dari [ibunya] dari [Aisyah] bahwa seorang perempuan bertanya kepada Nabi Shallallahu'alaihiwasallam, "Bagaimana (cara) aku mandi ketika bersuci?" Maka beliau bersabda, "Ambillah kapas yang diberi minyak misk, lalu berwudhulah dengannya." Kemudian dia menyebutkan semisal hadits Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>748</td></tr><tr><td>Arabic No</td><td>332.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) какая-то женщина задала Пророку ﷺ вопрос о большом омовении после завершения месячных, и он объяснил ей, как это следует делать, сказав: “Возьми кусок шерсти, пропитанной мускусом, и очищайся этим”. Она спросила: “Как же мне очищаться (этим)?” Он сказал: “Преславен Аллах! Очищайся этим!” И прикрыл своё лицо».(‘Аиша сказала): «Тогда я поняла, что имел в виду Пророк ﷺ. Я потянула её к себе и сказала: “Протирай этим (те места, где остались) следы крови”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>748</td></tr><tr><td>Arabic No</td><td>332.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 70</td></tr></tbody></table></div>
 

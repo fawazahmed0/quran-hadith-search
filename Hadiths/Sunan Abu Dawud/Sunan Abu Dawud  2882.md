@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:A man said: Messenger of Allah, my mother has died ; will it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Mani'], telah menceritakan kepada kami [Rauh bin 'Ubadah], telah menceritakan kepada kami [Zakariya bin Ishaq], telah mengabarkan kepada kami ['Amr bin Dinar], dari [Ikrimah] dari [Ibnu Abbas], bahwa seorang laki-laki berkata; wahai Rasulullah, sesungguhnya ibuku meninggal apakah akan memberikan manfaat baginya apabila aku bersedekah untuknya? Kemudian beliau berkata: "Ya." Orang tersebut berkata; sesungguhnya saya memiliki kebun kurma dan saya meminta persaksian anda bahwa saya telah mensedekahkannya untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2770)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2882</td></tr><tr><td>Arabic No</td><td>2882</td></tr><tr><td>Reference</td><td>Book 18 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что один человек сказал: «О Посланник Аллаха, поистине, моя мать умерла. Принесёт ли ей пользу милостыня, которую я подам от её имени?» (Посланник Аллаха ﷺ) сказал: «Да». Этот человек сказал: «У меня есть сад, и я беру тебя в свидетели того, что я отдаю его в качестве милостыни от имени моей матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2770)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2882</td></tr><tr><td>Arabic No</td><td>2882</td></tr><tr><td>Reference</td><td>Book 18 Hadith 21</td></tr></tbody></table></div>
 

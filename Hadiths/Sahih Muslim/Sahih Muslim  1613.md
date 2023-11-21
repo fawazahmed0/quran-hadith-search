@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by another chain of transmitters and in the one na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Yahya bin Said] dari [Abdul Malik bin Abu Sulaiman] katanya; telah menceritakan kepada kami [Said bin Jubair] dari [Ibnu Umar] katanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat diatas kendarannya ke arah mana saja beliau menghadap, yaitu ketika berangkat dari Makkah menuju Madinah. Dan pada saat itu diturunkan pula ayat " Kearah manapun engkau menghadap, maka engkau menghadap wajah Allah QS. Albaqarah; 115, Telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Al Mubarak] dan [Ibnu Zaidah] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku], semuanya dari [Abdul Malik] dengan sanad seperti ini, namun dalam hadis Ibnu Al Mubarak dan Ibnu Abi Zaidah disebutkan; "Kemudian Ibnu Umar membacakan ayat "Kearah manapun engkau menghadap, maka engkau menghadap wajah Allah. QS. Albaqarah; 115, Dia lalu berkata; "Tentang masalah inilah ayat ini diturunkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1613</td></tr><tr><td>Arabic No</td><td>700.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса говорится: «…затем Ибн ‘Умар прочитал: “Куда бы вы ни повернулись, там будет Лик Аллаха” (Сура «аль-Бакара», аят 115). И сказал: “По этому поводу был ниспослан (этот аят)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1613</td></tr><tr><td>Arabic No</td><td>700.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 44</td></tr></tbody></table></div>
 

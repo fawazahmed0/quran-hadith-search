@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "A faithful believer while in pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Qatadah] berkata, aku mendengar [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang Mukmin sedang shalat, sesungguhnya ia sedang berhadapan dengan Rabbnya. Maka janganlah ia meludah ke arah depan atau sebelah kanannya, namun hendaklah ia melakukannya ke arah kiri atau di bawah kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>413</td></tr><tr><td>Arabic No</td><td>413</td></tr><tr><td>Reference</td><td>Book 8 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Катада сказал:\n— Я слышал, как Анас ибн Малик сказал: «Пророк ﷺ сказал: “Поистине, когда верующий/муъмин/ совершает молитву, он ведёт тайную беседу со своим Господом, и посему, пусть ни в коем случае не плюёт ни перед собой, ни направо, а влево от себя или себе под ногу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>413</td></tr><tr><td>Arabic No</td><td>413</td></tr><tr><td>Reference</td><td>Book 8 Hadith 63</td></tr></tbody></table></div>
 

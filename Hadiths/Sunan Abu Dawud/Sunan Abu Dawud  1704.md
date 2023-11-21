@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid bin Khalid al-Juhani said :A man asked the Messenger of Allah (SWAS) about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Isma'il bin Ja'far], dari [Rabi'ah bin Abu Abdurrahman], dari [Yazid] mantan budak Al Munba'its, dari [Zaid bin Khalid Al Juhani], bahwa seorang laki-laki bertanya kepada Rasulullah shallAllahu wa'alaihi wa sallam mengenai barang temuan, beliau berkata: "Umumkan satu tahun, kemudian ketahuilah talinya dan kantongnya kemudian nafkahkan kepada dirimu. Apabila pemiliknya datang maka berikan kepadanya." Lalu orang tersebut berkata; wahai Rasulullah, bagaimana dengan kambing yang tersesat? Beliau bersabda: "Ambillah kambing tersebut, sesungguhnya kambing tersebut adalah milikmu atau saudaramu atau milik serigala." Ia berkata; wahai Rasulullah, bagaiamana dengan unta yang tersesat? Kemudian Rasulullah shallAllahu wa'alaihi wa sallam marah hingga kedua pipinya atau wajahnya memerah. Beliau berkata: "Apa urusanmu dengannya? Ia memiliki sepatu, dan kantong air minum hingga pemiliknya mendapatkannya." Telah menceritakan kepada Kami [Ibnu As Sarh], telah menceritakan kepada Kami [Ibnu Wahb], telah mengabarkan kepadaku [Malik] dengan sanad dan maknanya. Ibnu Wahb menambahkan; kantong air minum, unta tersebut minum air dan memakan pohon. Dan beliau tidak mengatakan: "Ambillah kambing yang hilang." Dan beliau berkata mengenai barang temuan: "Umumkan selama satu tahun, apabila pemiliknya telah datang maka berikan kepadanya, jika tidak maka urusanmu dengannya." Dan beliau tidak menyebutkan nafkahkan kepada dirimu. Abu Daud berkata; [Ats Tsauri] dan [Sulaiman bin Bilal] serta [Hammad bin Salamah] dari [Rabi'ah] seperti itu seperti itu, mereka tidak menyebutkan; "ambillah barang temuan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2436) Sahih Muslim (1722)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1704</td></tr><tr><td>Arabic No</td><td>1704</td></tr><tr><td>Reference</td><td>Book 10 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Халида аль-Джухани, да будет доволен им Аллах, что как-то раз один человек спросил Посланника Аллаха ﷺ о том, что следует делать с найденным. (Посланник Аллаха ﷺ) сказал: «Сначала объявляй о находке в течение года, а потом запомни, как выглядит то, чем было перевязано найденное, и то, в чём находилось найденное, после чего можешь употреблять это, однако, если к тебе придёт хозяин найденного, тебе следует отдать находку ему». Затем этот человек спросил: «А что делать с заблудившимися овцами?» (Посланник Аллаха ﷺ) ответил: «Бери их, ибо они достанутся либо тебе, либо твоему брату, либо волку». Этот человек спросил: «А что делать с заблудившимися верблюдами?» И тогда Посланник Аллаха ﷺ разгневался так, что щёки его покраснели [или: лицо его покраснело], и сказал: «Что тебе до них? Ведь у них есть ноги и они способны найти воду, и в конце концов хозяин найдёт их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2436) Sahih Muslim (1722)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1704</td></tr><tr><td>Arabic No</td><td>1704</td></tr><tr><td>Reference</td><td>Book 10 Hadith 4</td></tr></tbody></table></div>
 

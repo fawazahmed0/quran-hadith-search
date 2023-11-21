@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aws ibn AbuAws ath-Thaqafi: The Messenger of Allah (ﷺ) performed ablu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan ['Abbad bin Musa] mereka berdua berkata; Telah menceritakan kepada kami [Husyaim] dari [Ya'la bin 'Atha'] dari [Ayahnya] -berkata 'Abbad- telah mengabarkan kepada saya [Aus bin Abu Aus Ats-Tsaqafi] bahwasanya Rasulullah shallallahu 'alaihi wasallam berwudhu dan mengusap kedua sandal dan kedua kaki beliau. Abbad berkata; Saya pernah melihat Rasulullah shallallahu 'alaihi wasallam mendatangi tempat wudhu suatu kaum, namun Musaddad tidak menyebutkan perihal tempat wudhu tersebut, kemudian keduanya sepakat dengan lafazh; lalu beliau berwudhu dan mengusap bagian atas kedua sandal dan kedua kaki beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>160</td></tr><tr><td>Arabic No</td><td>160</td></tr><tr><td>Reference</td><td>Book 1 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Йа‘лы ибн ‘Атаъ, сообщившего со слов своего отца. ‘Аббад сказал: «Он сказал: “Сообщил мне Аус ибн Абу Аус ас-Сакафи о том, что совершая омовение, Посланник Аллаха ﷺ обтер свои сандалии и ноги”.‘Аббад сказал: «Я видел, как Посланник Аллаха ﷺ пришел к водоему людей, то есть к месту, где они совершали омовение». Мусаддад не упомянул слова «к месту совершения омовения» и «водоем», после чего они сошлись (в своих риваятах) о том, что «он совершил омовение и обтер поверх своих сандалий и ног»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>160</td></tr><tr><td>Arabic No</td><td>160</td></tr><tr><td>Reference</td><td>Book 1 Hadith 160</td></tr></tbody></table></div>
 

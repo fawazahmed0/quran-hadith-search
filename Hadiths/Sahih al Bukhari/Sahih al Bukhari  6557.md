@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Allah will say to the person wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu 'Imran] mengatakan, aku mendengar [Anas bin malik] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Pada hari kiamat, Allah bertanya kepada penghuni neraka yang paling ringan siksanya; 'kalaulah kamu mempunyai semua yang ada di bumi, akankah kau jadikan untuk menebus dirimu? ' 'Tentu' Jawabnya. Maka Allah berfirman: 'Dahulu aku hanya ingin sesuatu yang lebih sepele daripada ini ketika kamu masih dalam sulbi Adam, yaitu agar kamu tidak menyekutukan-KU dengan sesuatu apapun, namun engkau enggan bahkan menyekutukan-KU dengan sesuatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6557</td></tr><tr><td>Arabic No</td><td>6557</td></tr><tr><td>Reference</td><td>Book 81 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ‎ﷺ сказал: «В День воскресения Всевышний Аллах скажет тому из обитателей Ада, который получит самое лёгкое наказание: “Если бы у тебя было всё, что есть на Земле, заплатил бы ты это, чтобы откупиться?” Тот скажет: “Да”. Он скажет: “Когда ты ещё был в чреслах Адама, Я потребовал от тебя гораздо меньше: чтобы ты не приобщал сотоварищей ко Мне. Но ты пожелал во что бы то ни стало приобщить сотоварищей ко Мне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6557</td></tr><tr><td>Arabic No</td><td>6557</td></tr><tr><td>Reference</td><td>Book 81 Hadith 146</td></tr></tbody></table></div>
 

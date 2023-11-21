@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever believes in Allah and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa beriman kepada Allah dan hari Akhir, hendaknya ia memuliakan tamunya, dan barangsiapa beriman kepada Allah dan hari Akhir, hendaknya ia menyambung tali silaturrahmi, dan barangsiapa beriman kepada Allah dan hari Akhir, hendaknya ia berkata baik atau diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6138</td></tr><tr><td>Arabic No</td><td>6138</td></tr><tr><td>Reference</td><td>Book 78 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть тот, кто верует в Аллаха и в Последний день оказывает уважение своему гостю, и пусть тот, кто верует в Аллаха и в Последний день, поддерживает родственные связи, и пусть тот, кто верует в Аллаха и в Последний день, говорит благое или молчит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6138</td></tr><tr><td>Arabic No</td><td>6138</td></tr><tr><td>Reference</td><td>Book 78 Hadith 165</td></tr></tbody></table></div>
 

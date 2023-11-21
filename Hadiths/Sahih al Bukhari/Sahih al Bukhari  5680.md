@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(The Prophet (ﷺ) said), "Healing is in three things: A gul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Husain] telah menceritakan kepada kami [Ahmad bin Mani'] telah menceritakan kepada kami [Marwan bin Syuja'] telah menceritakan kepada kami [Salim Al Afthas] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Terapi pengobatan itu ada tiga cara, yaitu minum madu, bekam dan kay (menempelkan besi panas pada daerah yang terluka), sedangkan aku melarang ummatku berobat dengan kay." Hadits ini di rafa'kan (kepada Nabi shallallahu 'alaihi wasallam). Dan di riwayatkan pula oleh [Al Qumi] dari [Laits] dari [Mujahid] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam tentang minum madu dan berbekam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5680</td></tr><tr><td>Arabic No</td><td>5680</td></tr><tr><td>Reference</td><td>Book 76 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими(, что Посланник Аллаха ﷺ) сказал: «Исцеление (приносят) три (вещи): глоток мёда, (применение) банок и прижигание, но я запрещаю (членам) моей общины (делать) прижигания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5680</td></tr><tr><td>Arabic No</td><td>5680</td></tr><tr><td>Reference</td><td>Book 76 Hadith 3</td></tr></tbody></table></div>
 

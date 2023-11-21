@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Jubair reported:A person asked Ibn 'Umar which beast a Muhrim could kill
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abu Awanah] dari [Zaid bin Jubair] ia berkat; Seorang laki-laki bertanya kepada [Ibnu Umar], "Binatang apa saja yang boleh dibunuh oleh seseorang yang muhrim (melakukan Ihram)?" Ibnu Umar menjawabl; "Salah seorang dari isteri-isteri Nabi shallallahu 'alaihi wasallam telah menceritakan kepadaku, bahwa beliau telah memerintahkan untuk membunuh anjing gila, tikus, kalajengking, elang, burung gagak dan ular." Ibnu Umar melanjutkan; (Diperintahkan juga untuk membunuhnya) di dalam shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2871</td></tr><tr><td>Arabic No</td><td>1200.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2871</td></tr><tr><td>Arabic No</td><td>1200.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 81</td></tr></tbody></table></div>
 

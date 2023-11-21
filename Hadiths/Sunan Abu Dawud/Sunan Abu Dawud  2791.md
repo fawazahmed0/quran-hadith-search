@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah: The Prophet (ﷺ) as saying: If anyone has sacrificial ani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada kami [ayahku], telah menceritakan kepada kami [Muhammad bin 'Amr], telah menceritakan kepada kami ['Amr bin Muslim Al Laitsi], ia berkata; saya mendengar [Sa'id bin Al Musayyab] berkata; saya mendengar [Ummu Salamah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang memiliki hewan sembelihan yang akan ia sembelih, apabila telah muncul hilal Bulan Dzul Hijjah maka janganlah ia mengambil sedikitpun dari rambut, serta kukunya hingga ia menyembelih." Abu Daud berkata; mereka menyelisihi Malik dan Muhammad bin 'Amr mengenai 'Amr bin Muslim. Sebagian mereka berkata; ia adalah Umar, dan kebanyakan mereka mengatakan; 'Amr. Abu Daud berkata; ia adalah 'Amr bin Muslim bin Ukaimah Al Laitsi Al Jundu'i
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1977)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2791</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Салямы, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Кто собирается совершить жертвоприношение, тот с момента появления народившегося месяца зу-ль-хиджжи не должен стричь волосы и ногти до тех пор, пока не зарежет жертвенное животное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1977)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2791</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
 

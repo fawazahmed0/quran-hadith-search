@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If any of you prays two rak'ahs be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Abu Kamil] serta ['Ubaidullah bin Umar bin Maisarah] mereka berkata; telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian selesai mengerjakan shalat (sunnah) dua raka'at sebelum subuh, hendaknya ia berbaring ke sebelah kanan." Maka Marwan bin Hakam berkata kepadanya; "Apakah seseorang dari kami cukup waktu berjalan ke masjid kok sehingga dia berbaring ke sebelah kanan segala?" 'Ubaidullah berkata dalam haditsnya. Abu Hurairah menjawab; "Tidak." Lalu hal itu di sampaikan kepada Ibnu Umar, maka Ibnu Umar berkata; "Abu Hurairah berlaku berlebih-lebihan atas dirinya sendiri." Lalu di katakan kepada Ibnu Umar; "Apakah anda tidak membenarkan sebagian yang di katakannya?" dia menjawab; "Tidak, namun Abu Hurairah berani (karena banyak riwayat), sedangkan kami amat hati-hati (karena sedikit periwayatan hadits)." Katanya; "Lalu hal itu sampai kepada Abu Hurairah, kemudian dia berkata; "Apa salahku, jika aku pernah menghafalnya (hadits) sedangkan ia lupa?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1261</td></tr><tr><td>Arabic No</td><td>1261</td></tr><tr><td>Reference</td><td>Book 5 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда кто-то из вас совершит молитву в два рак‘ата перед обязательной утренней молитвой, пусть он после этого полежит на правом боку». Марван ибн аль-Хакам сказал ему: «Разве недостаточно любому из нас того, что он идёт в мечеть? Зачем ему ещё лежать на правом боку?» В версии ‘Убайдуллаха он ответил: «Нет». Когда об этом узнал Ибн ‘Умар, он сказал: «Абу Хурайра много на себя берёт». Ибн ‘Умару сказали: «Ты отрицаешь что-то из того, что он говорит?» Ибн ‘Умар сказал: «Нет. Просто он смело высказывается, а мы нет». Абу Хурайра, узнав об этом, сказал: «Разве я виноват в том, что я запомнил, а они забыли?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1261</td></tr><tr><td>Arabic No</td><td>1261</td></tr><tr><td>Reference</td><td>Book 5 Hadith 12</td></tr></tbody></table></div>
 

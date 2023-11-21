@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: Whenever Allah's Messenger (ﷺ) ordered the Muslims to do some
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami ['Abdah] dari [Hisyam] dari [bapaknya] dari [Aisyah] berkata: "Rasulullah shallallahu 'alaihi wasallam bila memerintahkan kepada para sahabat, Beliau memerintahkan untuk melakukan amalan yang mampu mereka kerjakan, kemudian para sahabat berkata; "Kami tidaklah seperti engkau, ya Rasulullah, karena engkau sudah diampuni dosa-dosa yang lalu dan yang akan datang". Maka Beliau shallallahu 'alaihi wasallam menjadi marah yang dapat terlihat dari wajahnya, kemudian bersabda: "Sesungguhnya yang paling taqwa dan paling mengerti tentang Allah diantara kalian adalah aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>20</td></tr><tr><td>Arabic No</td><td>20</td></tr><tr><td>Reference</td><td>Book 2 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Повелевая им что-либо, Посланник Аллаха ﷺ всегда приказывал делать лишь то, что было (людям) по силам. (Однажды) они сказали: “О Посланник Аллаха, поистине, мы не такие, как ты, ведь Аллах уже простил тебе и прошлые и будущие грехи!” (Услышав это,) он разгневался так, что это стало заметно по его лицу, и воскликнул: “Поистине, я (просто) больше любого из вас боюсь Аллаха и больше любого из вас знаю о Нём!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>20</td></tr><tr><td>Arabic No</td><td>20</td></tr><tr><td>Reference</td><td>Book 2 Hadith 13</td></tr></tbody></table></div>
 

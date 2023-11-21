@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid:The Prophet (ﷺ) said, "But for the emigration, I w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] dari ['Amru bin Yahya] dari ['Abbad bin Tamim] dari ['Abdullah bin Zaid] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Kalaulah bukan karena hijrah, niscaya aku menjadi orang Anhsar, dan kalaulah manusia menempuh sebuah lembah atau lereng gunung, niscaya aku mengarungi lembah Anshar atau lereng gunungnya." Hadis ini diperkuat oleh [Abu Thayyah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7245</td></tr><tr><td>Arabic No</td><td>7245</td></tr><tr><td>Reference</td><td>Book 94 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Зейд, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Если бы не хиджра, я непременно был бы одним из ансаров. И если бы люди пошли по одной долине (или: ущелью), то я бы обязательно последовал долиной ансаров и их ущельем».\nЭтот же хадис передал Абу ат-Таййах от Анаса от Пророка ﷺ (со словами): «… ущелье»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7245</td></tr><tr><td>Arabic No</td><td>7245</td></tr><tr><td>Reference</td><td>Book 94 Hadith 20</td></tr></tbody></table></div>
 

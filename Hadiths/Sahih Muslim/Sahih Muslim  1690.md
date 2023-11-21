@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) recited in the two (super
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin 'Abbad] dan [Ibnu Abu Umar], keduanya berkata; telah menceritakan kepada kami [Marwan bin Muawiyah] dari [Yazid yaitu Ibnu Kaisan] dari [Abu Hazim] dari [Abu Hurairah] bahwa dalam dua raka'at fajarnya, Rasulullah shallallahu 'alaihi wasallam membaca surat Al Kafirun dan Qul Huwallahu ahad (Surat al-ikhlash)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1690</td></tr><tr><td>Arabic No</td><td>726</td></tr><tr><td>Reference</td><td>Book 6 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Совершая (добровольную) утреннюю молитву в два рак‘ата, Посланник Аллаха ﷺ читал «Скажи: “О неверные!”», и «Скажи: “Он, Аллах, Один”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1690</td></tr><tr><td>Arabic No</td><td>726</td></tr><tr><td>Reference</td><td>Book 6 Hadith 120</td></tr></tbody></table></div>
 

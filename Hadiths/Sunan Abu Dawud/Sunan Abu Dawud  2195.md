@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Divorced women shall wait concerning themselves for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi], telah menceritakan kepadaku [Ali bin Husain bin Waqid] dari [ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas], ia membaca ayat: "Wanita-wanita yang ditalak hendaklah menahan diri (menunggu) tiga kali quru'. Tidak boleh bagi mereka menyembunyikan apa yang diciptakan Allah dalam rahimnya." Hal tersebut bahwa seorang laki-laki apabila menceraikan isterinya maka ia adalah orang yang paling berhak untuk kembali kepadanya, dan walaupun ia menceraikannya sebanyak tiga kali. Kemudian hal tersebut dihapus, dan Allah berfirman: "Talak (yang dapat dirujuki) dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2195</td></tr><tr><td>Arabic No</td><td>2195</td></tr><tr><td>Reference</td><td>Book 13 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Икримы, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал об аяте «Разведённые женщины должны выжидать в течение трёх (периодов чистоты после) менструаций. Не дозволено им скрывать то, что сотворил Аллах в их утробах» (сура 2 «аль-Бакара», аят 228): «Ранее, когда мужчина давал жене развод, он имел право вернуть её даже после трёх разводов, и это было отменено словами Всевышнего: “Развод допускается дважды” (сура 2 «аль-Бакара», аят 220)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2195</td></tr><tr><td>Arabic No</td><td>2195</td></tr><tr><td>Reference</td><td>Book 13 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The delegation of 'Abdul Qais came to the Prophet (ﷺ) and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Abu Jamrah] dia berkata; Aku Mendengar [Ibnu 'Abbas] berkata; Beberapa utusan 'Abdul Qais datang kepada Nabi shallallahu 'alaihi wasallam. Mereka berkata; Ya Rasulullah, sesungguhnya kami dari kampung Rabi'ah. Namun antara kami dan anda terhalangi oleh orang-orang kafir Mudlar, hingga kami tidak bisa bertemu dengan anda kecuali pada bulan-bulan haram. Maka perintahkanlah kepada kami beberapa hal yang dapat kami kerjakan dan bisa kami sampaikan kepada orang-orang di belakang kami." Beliau bersabda: "Aku perintahkan kepada kalian empat perkara dan aku larang dari empat perkara. Aku perintahkan kalian agar beriman kepada Allah, yaitu: "Bersaksi bahwa tidak ada Tuhan yang berhak disembah selain Allah, mendirikan shalat, menunaikan zakat, dan mengeluarkan seperlima dari hasil ghanimah. Dan aku larang kalian dari empat perkara; membuat perasan nabidz dalam Ad Duba, An Naqir, Al Hantam dan Al Muzaffat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4369</td></tr><tr><td>Arabic No</td><td>4369</td></tr><tr><td>Reference</td><td>Book 64 Hadith 395</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) к Пророку ﷺ прибыла делегация из племени ‘абд аль-кайс, и они сказали: “О Посланник Аллаха, поистине, мы из района Раби‘а, нас отделяют от тебя эти неверные из племени мудар, и мы можем приезжать к тебе только в запретный месяц, так дай же нам веление, которое мы возьмём от тебя и будем призывать к этому других”. Тогда Пророк ﷺ сказал: “Я повелеваю вам четыре вещи и запрещаю четыре вещи: вера в Аллаха, свидетельство, что нет божества, достойного поклонения, кроме Аллаха, совершение молитвы, выплата закята и выделение вами Аллаху пятой части военной добычи, которую вы захватите. И я запрещаю вам дуббy, накыр, хантам, и музаффат (разные виды сосудов, которые использовались для изготовления спиртного)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4369</td></tr><tr><td>Arabic No</td><td>4369</td></tr><tr><td>Reference</td><td>Book 64 Hadith 395</td></tr></tbody></table></div>
 

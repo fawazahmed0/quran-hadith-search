@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usayd ibn Hudayr,: AbdurRahman ibn AbuLayla, quoting Usayd ibn Hudayr, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Aun] berkata, telah mengabarkan kepada kami [Khalid] dari [Husain] dari ['Abdurrahman bin Abu Laila] dari [Usaid bin Hudhair] seorang laki-laki Anshar, berkata, "Saat ia bercakap-cakap dengan sekumpulan orang, lalu ada sesuatu yang membuat mereka tertawa, tiba-tiba Nabi shallallahu 'alaihi wasallam menusuk lambungnya dengan kayu." Laki-laki itu berkata, "Berikanlah aku hak untuk mengqishas!" beliau bersabda: "Lakukanlah." Laki-laki itu berkata lagi, "Tuan masih mengenakan baju, padahal aku tidak mengenakan baju." Nabi shallallahu 'alaihi wasallam lantas melepas bajunya, namun laki-laki itu memeluk dan mencium badan beliau seraya berkata, "Wahai Rasulullah, sebenarnya inilah yang aku harapkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5224</td></tr><tr><td>Arabic No</td><td>5224</td></tr><tr><td>Reference</td><td>Book 43 Hadith 452</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5224</td></tr><tr><td>Arabic No</td><td>5224</td></tr><tr><td>Reference</td><td>Book 43 Hadith 452</td></tr></tbody></table></div>
 

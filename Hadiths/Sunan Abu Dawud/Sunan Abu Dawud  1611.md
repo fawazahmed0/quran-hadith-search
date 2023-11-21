@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said :The Messenger of Allah(ﷺ) prescribed as zakat payable by sla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah], Telah menceritakan kepada Kami [Malik] dan Malik membacakannya kepadaku juga, dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallAllahu wa'alaihi wa sallam mewajibkan zakat fitrah, ia berkata padanya; diantara yang dibacakan Malik kepadaku adalah; zakat fitrah pada Bulan Ramadhan, satu sha' kurma, atau satu sha' gandum atas setiap orang merdeka, atau budak laki-laki dan perempuan dari kalangan muslimin. Telah menceritakan kepada Kami [Yahya bin Muhammad bin As Sakan], telah menceritakan kepada Kami [Muhammad bin Jahdham], telah menceritakan kepada Kami [Ismail bin Ja'far] dari [Umar bin Nafi'] dari [ayahnya] dari [Abdullah bin Umar], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam mewajibkan zakat fitrah satu sebanyak satu sha'. Kemudian ia menyebutkan secara makna yang disebutkan Malik, dan ia menambahkan; dan atas anak kecil, dan orang dewasa. Dan beliau memerintahkan agar ditunaikan sebelum orang-orang keluar untuk melakukan shalat. Abu Daud berkata; [Abdullah Al 'Umari] telah meriwayatkannya dari [Nafi'] dengan sanadnya. Ia berkata; wajib atas setiap muslim. Dan [Sa'id? Al Jumahi] telah meriwayatkan dari ['Ubaidullah] dari [Nafi'] ia berkata dalam hadits tersebut; dari kalangan muslimin. Dan yang masyhur dari 'Ubaidullah tidak ada padanya kata; dari kalangan muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1504) Sahih Muslim (984)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1611</td></tr><tr><td>Arabic No</td><td>1611</td></tr><tr><td>Reference</td><td>Book 9 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар рассказывал: «Посланник Аллаха ﷺ вменил в обязанность раздавать закят аль-фитр рамадана в виде одного са‘ фиников, или одного са‘ ячменя за каждого свободного и раба, мужчину и женщину, из числа мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1504) Sahih Muslim (984)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1611</td></tr><tr><td>Arabic No</td><td>1611</td></tr><tr><td>Reference</td><td>Book 9 Hadith 56</td></tr></tbody></table></div>
 

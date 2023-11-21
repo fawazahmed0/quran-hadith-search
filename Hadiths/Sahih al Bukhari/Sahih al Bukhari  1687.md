@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaidullah bin 'Abdullah:Ibn 'Abbas said, "Usama bin Zaid rode behind 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [bapakku] dari [Yunus Al Ailiy] dari [Az Zuhriy] dari ['Ubaidullah bin Abdullah] dari [Ibnu 'Abbas] radliallahu 'anhuma bahwa [Usamah bin Zaid radliallahu 'anhuma] pernah diboncengkan oleh Nabi Shallallahu'alaihiwasallam dari 'Arafah menuju Muzdalifah lalu Beliau membonceng [Al Fadhal] dari Muzdalifah menuju Mina. Dia berkata: "Selama dalam dua perjalanan itu Beliau senantiasa bertalbiyah hingga melempar jumrah 'Aqabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (во время хаджа при переезде) из ‘Арафата в Муздалифу Усама ибн Зейд, да будет доволен им Аллах, сидел позади Пророка ﷺ, а (во время переезда) из Муздалифы в Мину (Пророк ﷺ) посадил позади себя аль-Фадля. Ибн ‘Аббас сказал: «И оба они говорили, что Пророк ﷺ произносил тальбийу до тех пор, пока не начинал бросать камешки в последний столб “джамрат аль-‘акаба“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

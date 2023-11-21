@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:While the Muslims were offering the Fajr prayer, Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah telah menceritakan kepada kami [Laits bin Sa'd] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku [Anas bin Malik] berkata, "Ketika Kaum Muslimin melaksanakan shalat Fajar tidak ada sesuatu yang mengagetkan mereka kecuali Rasulullah shallallahu 'alaihi wasallam yang tiba-tiba membuka tabir kamar Aisyah sambil memandang ke arah mereka. Saat itu mereka sudah berbaris dalam shaf, beliau tersenyum lalu tertawa. Maka Abu Bakar berniat mundur ke belakang untuk mempersilakan beliau masuk dalam shaf, karena menduga beliau akan keluar. Dan Kaum Muslimin hampir saja terfitnah (berpaling dan memutus) dalam shalat mereka. Namun ternyata Beliau memberi isyarat kepada mereka: "Teruskanlah shalat kalian." Beliau kemudian menutup tabir, dan setelah itu beliau meninggal pada hari itu juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>754</td></tr><tr><td>Arabic No</td><td>754</td></tr><tr><td>Reference</td><td>Book 10 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик (да будет доволен им Аллах) сказал: «(Однажды,) когда мусульмане находились на утреннем намазе, вдруг появился Посланник Аллаха ﷺ. Он поднял занавеску с комнаты ‘Аиши и посмотрел на них, когда они выстроились рядами и улыбнулся. Тогда Абу Бакр, да будет доволен им Аллах, стал отходить назад, чтобы присоединиться к (общему) ряду, решив, что Пророк ﷺ хочет выйти (на намаз). Мусульмане были готовы поддаться соблазну, (прервав) свой намаз (от радости), однако (Пророк ﷺ) сделал им знак, (означавший): “Закончите свой намаз!”, после чего он опустил занавеску, и в конце того же дня он скончался»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>754</td></tr><tr><td>Arabic No</td><td>754</td></tr><tr><td>Reference</td><td>Book 10 Hadith 148</td></tr></tbody></table></div>
 

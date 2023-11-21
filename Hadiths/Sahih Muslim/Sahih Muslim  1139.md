@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: A woman, an ass and a do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [al-Makhzumi] telah menceritakan kepada kami [Abdul Wahid, dan dia adalah Ibnu Ziyad] telah menceritakan kepada kami [Ubaidullah bin Abdullah bin al-'Ashamm] telah menceritakan kepada kami [Yazid bin al-'Ashamm] dari [Abu Hurairah Radhiyallahu'anhu] dia berkata, Rasulullah shallallahu'alaihiwasallam bersabda, "Yang memutuskan shalat ialah wanita, keledai, dan anjing. Untuk menjaga shalatmu (dengan meletakkan sutrah berupa) seperti kayu yang diletakkan diatas punggung unta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1139</td></tr><tr><td>Arabic No</td><td>511</td></tr><tr><td>Reference</td><td>Book 4 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Прерывает молитву (молящегося) женщина, осёл и собака. А уберечься от этого можно посредством чего-либо наподобие спинки седла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1139</td></tr><tr><td>Arabic No</td><td>511</td></tr><tr><td>Reference</td><td>Book 4 Hadith 301</td></tr></tbody></table></div>
 

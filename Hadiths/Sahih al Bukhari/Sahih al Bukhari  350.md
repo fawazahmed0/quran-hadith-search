@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:the mother of believers: Allah enjoined the prayer when He enjoi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Shalih bin Kaisan] dari ['Urwah bin Az Zubair] dari ['Aisyah] Ibu kaum Mu'minin, ia berkata, "Allah telah mewajibkan shalat, dan awal diwajibkannya adalah dua rakaat dua rakaat, baik saat mukim atau saat dalam perjalanan. Kemudian ditetapkanlah ketentuan tersebut untuk shalat safar (dalam perjalanan), dan ditambahkan lagi untuk shalat di saat mukim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>350</td></tr><tr><td>Arabic No</td><td>350</td></tr><tr><td>Reference</td><td>Book 8 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Аллах вменил молитву в обязанность, Он вменил в обязанность молитву из двух рак‘атов независимо от того, совершается ли он там, где человек живёт постоянно, или в пути; впоследствии же молитва, совершаемая в пути, была оставлена неизменной, а молитва, совершаемая на постоянном месте жительства, была увеличена»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>350</td></tr><tr><td>Arabic No</td><td>350</td></tr><tr><td>Reference</td><td>Book 8 Hadith 2</td></tr></tbody></table></div>
 

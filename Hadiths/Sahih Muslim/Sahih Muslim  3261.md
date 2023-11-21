@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Utsman bin Abu Syaibah] semuanya dari [Jarir] - [Qutaibah] berkata- Telah menceritakan kepada kami [Jarir] dari [Abdullah bin Umair] dari [Qaza'ah] dari [Abu Sa'id] ia berkata; Saya mendengar suatu hadits darinya, lalu aku pun terkagum dan bertanya kepadanya, "Apakah Anda mendengar hadits ini langsung dari Rasulullah shallallahu 'alaihi wasallam?" Ia pun menjawab, "Apakah aku akan mengatakan sesuatu yang belum pernah aku dengar?" Aku mendengarnya berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian bersusah payah mempersiapkan perjalanan kecuali ke tiga Masjid. Yaitu; Masjidku ini (Masjid Nabawi), Masjidil Haram, dan Masjid Al Aqsha." Dan saya juga mendengar beliau bersabda: "Seorang wanita tidak boleh bersafar selama dua hari, kecuali disertai mahramnya atau pun suaminya." Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik bin Umair] ia berkata, saya mendengar [Qaza'ah] ia berkata, saya mendengar [Abu Sa'id Al Khudri] berkata; Saya mendengar dari Rasulullah shallallahu 'alaihi wasallam empat hal, lalu aku pun begitu terkesan. Beliau melarang seorang wanita untuk mengadakan perjalanan selama dua hari, kecuali disertai suaminya atau mahramnya. Dan ia pun mengisahkan hadits itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3261</td></tr><tr><td>Arabic No</td><td>827.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 468</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3261</td></tr><tr><td>Arabic No</td><td>827.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 468</td></tr></tbody></table></div>
 

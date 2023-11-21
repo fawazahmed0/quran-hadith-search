@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:There was an Ansari man called Abu Shu'aib who had a slave b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Abu Wa'il] dari [Abu Mas'ud]: "Ada seorang Kaum Anshar yang biasa dipanggil dengan Abu Syu'aib memiliki pembantu sebagai tukang potong hewan (jagal). Berkata Abu Syu'aib kepadanya: "Buatkan aku makanan untuk lima orang, karena aku ingin mengundang Nabi shallallahu 'alaihi wasallam sebagai tamu kelimaku". Dia melihat rasa lapar dari raut muka Beliau". Lalu ia mengundang Beliau namun ada seseorang yang tidak diundang ikut bersama mereka, lalu Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang ini mengikuti kami, apakah kamu mengizinkannya?" Dia menjawab: "Iya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2456</td></tr><tr><td>Arabic No</td><td>2456</td></tr><tr><td>Reference</td><td>Book 46 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд сказал: «Однажды один человек из ансаров, которого звали Абу Шу‘айб, сказал своему рабу-мяснику: “Приготовь мне еды, которой будет достаточно для пятерых, ведь я хочу пригласить Пророка ﷺ и ещё четыре человека”. Абу Шу‘айб увидел признаки голода на его лице Пророка ﷺ и пригласил его, но за ними последовал ещё один человек, которого он не приглашал. Пророк ﷺ сказал (Абу Шу‘айбу): “Этот человек последовал за нами, ты позволишь ему (войти)?” (Абу Шу‘айб) ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2456</td></tr><tr><td>Arabic No</td><td>2456</td></tr><tr><td>Reference</td><td>Book 46 Hadith 17</td></tr></tbody></table></div>
 

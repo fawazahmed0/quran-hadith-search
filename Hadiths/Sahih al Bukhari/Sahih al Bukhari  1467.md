@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab:(the daughter of Um Salama) My mother said, "O Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami ['Abdah] dari [Hisyam] dari [bapaknya] dari [Zainab binti Ummu Salalah] dari [Ummu Salamah] berkata; Aku berkata,: "Wahai Rasulullah, apakah bagiku pahala bila aku menginfaqkan harta untuk anak-anak Abu Salamah padahal mereka itu anak-anakku?". Maka Beliau bersabda: "Berinfaqlah untuk mereka dan kamu akan mendapatkan pahala dari apa yang kamu infaqkan buat mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1467</td></tr><tr><td>Arabic No</td><td>1467</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Салама, да будет доволен ею Аллах, сказала: «(Однажды) я спросила (Пророка ﷺ ): “О Посланник Аллаха, полагается ли мне награда за то, что я трачу на детей Абу Саламы, ведь они являются и моими сыновьями?” (В ответ на это) он сказал: “Расходуй (свои деньги) на них, и будет тебе награда за то, что ты на них израсходуешь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1467</td></tr><tr><td>Arabic No</td><td>1467</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
 

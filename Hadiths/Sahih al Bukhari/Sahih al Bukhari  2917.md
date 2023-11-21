@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The example of a miser and the one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Wuhaib] telah bercerita kepada kami [Ibnu Thowus] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Perumpamaan bakhil (orang yang pelit bershadaqah) dengan mutashoddiq (orang yang suka bershadaqah) seperti dua orang yang masing-masing mengenakan baju jubah terbuat dari besi yang terpotong bagian lengannya hingga tulang selangka keduanya. Setiap kali mutashoddiq hendak bershadaqah maka bajunya akan melonggar dan akhirnya menutupi sampai kepada ujung kakinya. Dan setiap orang yang bakhil hendak bershadaqah maka baju besinya akan menyempit sehingga menempel ketat pada pemakainya dan ketika dia mencoba untuk melonggarkannya maka tangannya menjadi terangkat sampai ke tulang selangkanya". Maka dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Maka dia berusaha untuk melonggarkannya namun tidak bisa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 56 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллах ﷺ сказал: «Скупой и расходующий подобны двум людям в джуббах из железа (, покрывающих их тела) так плотно, что их руки подняты к ключицам. Каждый раз, как расходующий тратит что-нибудь, (его джубба) обязательно становится более обширной /или: увеличивается/ (и так продолжается) до тех пор, пока она не начинает стирать его следы. Что же касается скупого, то, когда бы он ни захотел потратить что-нибудь, каждое кольцо (его железной джуббы) обязательно прилипает к своему месту и давят на его тело, и его руки соединяются с ключицами. И не расширяется, несмотря на то, что он старается расширить её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 56 Hadith 130</td></tr></tbody></table></div>
 

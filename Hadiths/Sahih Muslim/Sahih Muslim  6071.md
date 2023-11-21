@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jurairi reported:I said to Abu Tufail: Did you see Allah's Messenger (ﷺ)? He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur]; Telah menceritakan kepada kami [Khalid bin 'Abdillah] dari [Al Jurairi] dari [Abu Ath Thufail] dia berkata; Aku bertanya kepadanya; 'Apakah kamu pernah melihat Rasulullah shallallahu 'alaihi wasallam? Dia menjawab; 'Ya.' Dia orangnya berkulit putih, manis wajahnya, yang Allah ta'ala telah meridhainya. Abu Thufail meninggal pada tahun seratus Hijriyah, dia adalah orang yang terakhir kali meninggal dari kalangan para sahabat Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6071</td></tr><tr><td>Arabic No</td><td>2340.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6071</td></tr><tr><td>Arabic No</td><td>2340.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 129</td></tr></tbody></table></div>
 

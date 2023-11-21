@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The people saw fire (light) in the graveyard and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim bin Bazi'], telah menceritakan kepada kami [Abu Nu'aim] dari [Muhammad bin Muslim] dari ['Amr bin Dinar] telah mengabarkan kepadaku [Jabir bin Abdullah] atau aku telah mendengar Jabir bin Abdullah berkata; orang-orang melihat api di sebuah kuburan, kemudian mereka mendatanginya, ternyata Rasulullah shallallahu 'alaihi wasallam berada dalam kuburan dan beliau berkata: "Serahkan kepadaku sahabat kalian!" Ternyata ia adalah seorang laki-laki yang mengeraskan suara ketika berdzikir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3164</td></tr><tr><td>Arabic No</td><td>3164</td></tr><tr><td>Reference</td><td>Book 21 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что однажды люди увидели огонь на кладбище и пришли туда. Они увидели, что Посланник Аллаха ﷺ спустился в свежевырытую могилу и попросил: «Подайте мне вашего товарища». Оказалось, что скончался человек, который громко поминал Аллаха
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3164</td></tr><tr><td>Arabic No</td><td>3164</td></tr><tr><td>Reference</td><td>Book 21 Hadith 76</td></tr></tbody></table></div>
 

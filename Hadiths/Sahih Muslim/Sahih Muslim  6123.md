@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that the people asked Allah's Apostle (ﷺ) until he was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Hammad Al Ma'ni]; Telah menceritakan kepada kami ['Abdul A'laa] dari [Sa'id] dari [Qatadah] dari [Anas bin Malik] bahwa suatu hari para sahabat pernah bertanya kepada Nabiyullah Shallallahu'alaihi wasallam, dan mereka saat itu begitu serius menanyakan pertanyaan tersebut. Hari selanjutnya (Rasulullah shallallahu 'alaihi wasallam) naik mimbar dan bersabda: "Bertanyalah kalian! Tidaklah kalian pada hari ini bertanya suatu hal, kecuali saya akan menjelaskannya". Maka para sahabat begitu perhatian jangan-jangan ada urusan sangat penting yang dibawa nabi. (Anas bin Malik Radhiyallahu'anhu) berkata; sehingga tidaklah saya menoleh ke kanan kiri kecuali kutemukan setiap orang dalam keadaan menundukkan diri sambil menangis. Tiba-tiba bangkitlah seorang laki-laki dengan penutup kepala sehingga dipanggil tidak dengan nama bapaknya. Tiba-tiba ia mengajukan pertanyaan, wahai Nabiyullah siapakah bapakku? (Rasulullah shallallahu 'alaihi wasallam) bersabda: "Bapakmu adalah Hudzafah". (Anas bin Malik Radhiyallahu'anhu) berkata; 'kemudian 'Umar bangkit' --atau dengan redaksi 'kemudian 'Umar hendak bangkit-- dan berkata; "Kami rela Allah sebagai rabb kami, Islam sebagai agama kami, dan Muhammad Shallallahu'alaihi wasallam sebagai Rasul kami" dengan berlindung kepada Allah dari kejahatan segala fitnah. Lalu Rasulullah Shallallahu'alaihi wasallam bersabda: "Saya belum pernah melihat kebaikan ataupun kejelekan melebihi hari ini, telah diperlihatkan bagiku surga dan neraka sampai saya melihatnya pada dinding ini". Dan telah menceritakan kepada kami [Yahya bin Habib Al Harits]; Telah menceritakan kepada kami [Khalid] yaitu Ibnu Al Harits; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Muhammad bin Abu 'Adi] seluruhnya dari [Hisyam]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Ashim bin An Nadhr At Tamii]; Telah menceritakan kepada kami [Mu'tamir] dia berkata; Aku mendengar [Bapakku] berkata secara keseluruhan. Telah menceritakan kepada kami [Qatadah] dari [Anas] mengenai kisah ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6123</td></tr><tr><td>Arabic No</td><td>2359.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6123</td></tr><tr><td>Arabic No</td><td>2359.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 181</td></tr></tbody></table></div>
 

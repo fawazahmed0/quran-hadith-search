@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b:Whenever the Prophet (ﷺ) returned from a journey in the forenoon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Syihab] dari ['Abdur Rahman bin 'Abdullah bin Ka'ab] dari [bapaknya] dari [pamannya, 'Ubaidullah bin Ka'ab] dari [Ka'ab radliallahu 'anhu] bahwa Nabi Shallallahu'alaihiwasallam apabila tiba kembali dari bepergian di waktu dluha, Beliau memasuki masjid lalu shalat dua Raka'at sebelum duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3088</td></tr><tr><td>Arabic No</td><td>3088</td></tr><tr><td>Reference</td><td>Book 56 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ка‘ба, да будет доволен им Аллах, что, когда Пророк ﷺ возвращался (в Медину) после какой-нибудь поездки утром, он всегда заходил в мечеть и совершал молитву в два рак‘ата, прежде чем сесть
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3088</td></tr><tr><td>Arabic No</td><td>3088</td></tr><tr><td>Reference</td><td>Book 56 Hadith 292</td></tr></tbody></table></div>
 

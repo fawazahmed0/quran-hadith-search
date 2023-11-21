@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : "D'après quelle lecture m'o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Yahya bin Adam]; Telah menceritakan kepada kami [Quthbah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Abdullah] dia berkata; "Demi Dzat yang tidak ada Ilah selain Allah, tidaklah satu suratpun di dalam Al Qur'an, kecuali aku mengetahui kapan turunnya surat tersebut. Dan tidaklah satu ayat dari al Qur'an yang turun, kecuali aku mengetahui mengenai apa ayat itu turun. Sekiranya aku mengetahui ada orang yang lebih tahu dariku tentang kitabullah, yang mana jarak orang itu harus di tempuh dengan onta, pasti aku akan menemuinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6333</td></tr><tr><td>Arabic No</td><td>2463</td></tr><tr><td>Reference</td><td>Book 44 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6333</td></tr><tr><td>Arabic No</td><td>2463</td></tr><tr><td>Reference</td><td>Book 44 Hadith 163</td></tr></tbody></table></div>
 

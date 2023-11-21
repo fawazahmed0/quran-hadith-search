@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I would drink when I was menstruating, then I would hand it (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Waki'] dari [Mis'ar] dan [Sufyan] dari [al Miqdam bin Syuraih] dari [bapaknya] dari [Aisyah] dia berkata, "Aku minum ketika aku sedang dalam keadaan haid, kemudian aku memberikannya kepada Nabi Shallallahu'alaihiwasallam, lalu beliau meletakkan mulutnya pada tempat mulutku (ketika minum) ". Dan Zuhair tidak menyebutkan, "Lalu beliau minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>692</td></tr><tr><td>Arabic No</td><td>300</td></tr><tr><td>Reference</td><td>Book 3 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Часто бывало так, что во время месячных я пила, а потом передавала (чашу) Пророку ﷺ, он же прикасался губами к тому месту, которого касались мои губы, и пил. И часто бывало так, что во время месячных я откусывала кусок мяса, которое было на кости, а потом передавала (кость) Пророку ﷺ, и он прикасался губами к тому месту, которого касались мои губы»Глава: Чтение Корана человеком, положившим голову на колени своей жены, у которой начались месячные
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>692</td></tr><tr><td>Arabic No</td><td>300</td></tr><tr><td>Reference</td><td>Book 3 Hadith 14</td></tr></tbody></table></div>
 

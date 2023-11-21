@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab from 'Urwa:'Aisha said, "Once Allah's Messenger (ﷺ) delaye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ayyub bin Sulaiman] -yaitu Ibnu Bilal- ia berkata, telah menceritakan kepadaku [Abu Bakar] dari [Sulaiman] -yaitu Ibnu Bilal- berkata, telah menceritakan kepada kami [Shalih bin Kaisan] telah mengabarkan kepadaku [Ibnu Syihab] dari ['Urwahl] bahwa ['Aisyah] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengakhirkan shalat 'Isya hingga sepertiga malam yang akhir. Lalu 'Umar pun berseru kepada beliau, "(Laksanakanlah) shalat, sebab para wanita dan anak-anak telah terlelap tidur." Maka keluarlah beliau seraya berkata: "Tidak ada seorangpun dari penduduk bumi yang menunggu shalat Isya ini selain kalian." Beliau tidaklah melaksanakan shalat seperti ini kecuali di Madinah. Dan mereka melaksnakan shalat antara hilangnya syafaq (cahaya kemerahan di langit) hingga sepertiga awal dari malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>569</td></tr><tr><td>Arabic No</td><td>569</td></tr><tr><td>Reference</td><td>Book 9 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урвы о том, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ откладывал вечернюю молитву до тех пор, пока ‘Умар не обратился к нему (со словами): “Молитва! Женщины и дети уже заснули!” — после чего он вышел (к людям) и сказал: “Никто из живущих на земле, кроме вас, не дожидается этой молитвы!”»\n(‘Аиша) сказала: «А в то время молились только в Медине, и люди совершали (вечерние молитвы в промежуток времени) между наступлением полной темноты и (завершением) первой трети ночи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>569</td></tr><tr><td>Arabic No</td><td>569</td></tr><tr><td>Reference</td><td>Book 9 Hadith 46</td></tr></tbody></table></div>
 

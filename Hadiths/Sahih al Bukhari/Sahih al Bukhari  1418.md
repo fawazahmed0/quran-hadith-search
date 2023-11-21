@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:A lady along with her two daughters came to me asking (for some a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Muhammad] berkata, telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] berkata, telah menceritakan kepada saya ['Abdullah bin Abu Bakar bin Hazm] dari ['Urwah] dari ['Aisyah radliallahu 'anha] berkata; Telah datang seorang wanita bersama dua putrinya menemuiku untuk meminta sesuatu namun aku tidak mempunyai apa-apa selain sebutir kurma lalu aku berikan kepadanya. Lalu wanita itu membagi kurma itu menjadi dua bagian yang diberikannya untuk kedua putrinya sedangkan dia tidak memakan sedikitpun. Lalu wanita itu berdiri untuk segera pergi. Saat itulah Nabi Shallallahu'alaihiwasallam datang kepada kami, lalu aku kabarkan masalah itu, maka Beliau bersabda: "Siapa yang memberikan sesuatu kepada anak-anak ini, maka mereka akan menjadi pelindung dari api neraka baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1418</td></tr><tr><td>Arabic No</td><td>1418</td></tr><tr><td>Reference</td><td>Book 24 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды какая-то женщина, просившая подаяния, зашла (ко мне) с двумя своими дочерьми, однако у меня не нашлось ничего, кроме одного финика, который я и дала ей. Она разделила этот финик между своими девочками, а сама не отведала ни кусочка, после чего встала и вышла, а потом к нам зашёл Пророк ﷺ. Я рассказала ему (об этом), и он сказал: “Девочки послужат защитой от пламени (ада) тому, кому они были посланы в качестве испытания”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1418</td></tr><tr><td>Arabic No</td><td>1418</td></tr><tr><td>Reference</td><td>Book 24 Hadith 22</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zahdam bin Mudarrab:'Imran bin Hussain said, "The Prophet (ﷺ) said, '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Yahya bin Sa'id] dari [Syu'bah] mengatakan, Telah menceritakan kepadaku [Abu Jamrah] telah menceritakan kepada kami [Zahdam bin Mudharrib] mengatakan, aku mendengar [Imran bin Hushain] menceritakan dari Nabi shallallahu 'alaihi wasallam bersabda; "Sebaik-baik kalian adalah generasiku, kemudian generasi berikutnya, kemudian generasi berikutnya." -Imran berkata; 'Aku tidak tahu penyebutan dua atau tiga kali setelah generasi beliau', - "kemudian datang suatu kaum yang mereka bernadzar namun tidak mereka penuhi, mereka berkhianat dan tidak dapat dipercaya, mereka bersaksi padahal tidak di minta menjadi saksi, dan nampak tanda mereka adalah kegemukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6695</td></tr><tr><td>Arabic No</td><td>6695</td></tr><tr><td>Reference</td><td>Book 83 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Лучшими из вас будут мои современники, а потом — следующее за ним, а потом — следующее за ним». ‘Имран сказал: «И я не знаю, упомянул ли (Пророк ﷺ) после его поколения два или три (поколения). (Потом Пророк, ﷺ сказал): «А потом придут люди, которые будут давать обеты, но не будут выполнять их, и будут вероломными и не будут оправдывать доверие. Они станут свидетельствовать, при том что их не будут просить об этом. И будет среди них (множество) тучных»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6695</td></tr><tr><td>Arabic No</td><td>6695</td></tr><tr><td>Reference</td><td>Book 83 Hadith 72</td></tr></tbody></table></div>
 

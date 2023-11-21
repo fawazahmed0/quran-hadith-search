@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once I came riding a she-ass and had (just) attained the age
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abu Uwais] berkata, Telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Abdullah bin 'Abbas] berkata; aku datang dengan menunggang keledai betina, yang saat itu aku hampir menginjak masa baligh, dan Rasulullah sedang shalat di Mina dengan tidak menghadap dinding. Maka aku lewat di depan sebagian shaf kemudian aku melepas keledai betina itu supaya mencari makan sesukanya. Lalu aku masuk kembali di tengah shaf dan tidak ada orang yang menyalahkanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Arabic No</td><td>76</td></tr><tr><td>Reference</td><td>Book 3 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Однажды, незадолго до своего совершеннолетия я приехал верхом на ослице в Мину, где Посланник Аллаха ﷺ перед которым не было стены, в это время совершал молитву. И я прошёл перед частью ряда (молившихся), отпустил ослицу пастись, а потом занял своё место в ряду, и никто не высказал мне порицания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Arabic No</td><td>76</td></tr><tr><td>Reference</td><td>Book 3 Hadith 18</td></tr></tbody></table></div>
 

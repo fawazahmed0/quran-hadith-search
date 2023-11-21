@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) decreed that one should not try to cancel a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makki bin Ibrahim] Telah menceritakan kepada kami [Ibnu Juraij] ia berkata, Aku mendengar [Nafi'] menceritakan bahwa [Ibnu Umar] radliallahu 'anhuma berkata, "Nabi shallallahu 'alaihi wasallam telah melarang sebagian kalian untuk berjual beli atas jual beli saudaranya. Dan janganlah seseorang meminang atas pinangan yang lain hingga ia meninggalkannya atau pun menerimanya, atau pun ia telah diberi izin oleh sang peminang pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5142</td></tr><tr><td>Arabic No</td><td>5142</td></tr><tr><td>Reference</td><td>Book 67 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ запретил вам перебивать торговлю друг другу и свататься к той, которая уже просватана его братом, пока посватавшийся раньше не откажется (от сватовства) или не позволит ему свататься»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5142</td></tr><tr><td>Arabic No</td><td>5142</td></tr><tr><td>Reference</td><td>Book 67 Hadith 78</td></tr></tbody></table></div>
 

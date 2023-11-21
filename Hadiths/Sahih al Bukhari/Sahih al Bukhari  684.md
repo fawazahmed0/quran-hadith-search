@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'idi:Allah's Messenger (ﷺ) went to establish peace
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Hazim bin Dinar] dari [Sahal bin Sa'd As Sa'idi], bahwa suatu hari Rasulullah shallallahu 'alaihi wasallam pergi menemui Bani 'Amru bin 'Auf untuk menyelesaikan masalah di antara mereka. Kemudian tiba waktu shalat, lalu ada seorang mu'adzin menemui Abu Bakar seraya berkata, "Apakah engkau mau memimpin shalat berjama'ah sehingga aku bacakan iqamatnya?" Abu Bakar menjawab, "Ya." Maka Abu Bakar memimpin shalat. Tak lama kemudian datang Rasulullah shallallahu 'alaihi wasallam sedangkan orang-orang sedang melaksanakan shalat. Lalu beliau bergabung dan masuk ke dalam shaf. Orang-orang kemudian memberi isyarat dengan bertepuk tangan namun Abu Bakar tidak bereaksi dan tetap meneruskan shalatnya. Ketika suara tepukan semakin banyak, Abu Bakar berbalik dan ternyata dia melihat ada Rasulullah shallallahu 'alaihi wasallam. Rasulullah shallallahu 'alaihi wasallam memberi isyarat yang maksudnya: 'Tetaplah kamu pada posisimu'. Abu Bakar mengangkat kedua tangannya lalu memuji Allah atas perintah Rasulullah shallallahu 'alaihi wasallam tersebut. Kemudian Abu Bakar mundur dan masuk dalam barisan shaf lalu Rasulullah shallallahu 'alaihi wasallam maju dan melanjutkan shalat. Setelah shalat selesai, beliau bersabda: "Wahai Abu Bakar, apa yang menghalangimu ketika aku perintahkan agar kamu tetap pada posisimu?" Abu Bakar menjawab, "Tidaklah patut bagi anak Abu Qahafah untuk memimpin shalat di depan Rasulullah". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Mengapa kalian tadi banyak bertepuk tangan?. Barangsiapa menjadi makmum lalu merasa ada kekeliruan dalam shalat, hendaklah dia membaca tasbih. Karena jika dibacakan tasbih, dia (imam) akan memperhatikannya. Sedangkan tepukan untuk wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>684</td></tr><tr><td>Reference</td><td>Book 10 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да ас-Са‘иди, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ отправился к людям из племени бану ‘амр ибн ‘ауф, чтобы примирить их друг с другом. Между тем настало время намаза, и муаззин явился к Абу Бакру с вопросом: «Будешь ли ты проводить намаз с людьми? (Если да, то) я объявлю о его начале». Абу Бакр сказал: «Да», и приступил к намазу, а (через некоторое время,) когда люди ещё продолжали молиться, вернулся Посланник Аллаха ﷺ и прошёл к (первому) ряду, где и остановился. При этом люди стали хлопать в ладони, однако Абу Бакр (никогда) не смотрел по сторонам во время намаза. Тем не менее, когда хлопать стали сильнее, он всё же повернулся и увидел Посланника Аллаха ﷺ который знаком показал ему, чтобы он оставался на своём месте. Тогда Абу Бакр, да будет доволен им Аллах, воздел руки к небу и возблагодарил Аллаха за это веление Посланника Аллаха ﷺ после чего стал отходить назад, пока не поравнялся со (стоявшими в первом) ряду, а Посланник Аллаха ﷺ вышел вперёд и провёл намаз (до конца). Завершив его, он спросил: «О Абу Бакр, что помешало тебе остаться, если я сам велел тебе сделать это?» Абу Бакр ответил: «Не пристало Ибн Абу Кухафе молиться перед посланником Аллаха ﷺ !» Тогда Посланник Аллаха ﷺ обратился (к людям): «Почему вы так много хлопали в ладони? Пусть тот, кто во время своей намаза (увидит) нечто, смущающее его, скажет: “Субхана-Ллах!” — и, если он произнесёт эти слова, к нему повернутся, что же касается хлопков, то это — для женщин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>684</td></tr><tr><td>Reference</td><td>Book 10 Hadith 78</td></tr></tbody></table></div>
 

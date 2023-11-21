@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Sha'bi:The Messenger of Allah (ﷺ) passed a grave dug freshly. They
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], ia berkata; telah mengabarkan kepada kami [Ibnu Idris], Ia berkata; saya mendengar [Abu Ishaq] dari [Asy Sya'bi] bahwa Rasulullah shallallahu 'alaihi wasallam pernah melewati sebuah kuburan yang masih basah (belum lama proses penguburannya), kemudian mereka berbaris untuk menshalatinya dan beliau bertakbir empat kali. Aku katakan kepada Asy Sya'bi; sipakah yang menceritakan kepada anda? Ia berkata; orang tsiqah orang yang menyaksikannya (peristiwa itu) yaitu [Ibnu Abbas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1247) Sahih Muslim (954)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3196</td></tr><tr><td>Arabic No</td><td>3196</td></tr><tr><td>Reference</td><td>Book 21 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аш-Ша‘би передаёт, что однажды Посланник Аллаха ﷺ проходил мимо свежей могилы. Люди выстроились в ряд, и он произнёс четыре такбира. Передатчик сказал: «Я спросил аш-Ша‘би: “Кто рассказал тебе это?” Он ответил: “Надёжный передатчик, который был свидетелем этого, ‘Абдуллах ибн ‘Аббас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1247) Sahih Muslim (954)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3196</td></tr><tr><td>Arabic No</td><td>3196</td></tr><tr><td>Reference</td><td>Book 21 Hadith 108</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Hasan:The sister of Ma'qal bin Yasar was divorced by her husband who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Sa'id] Telah menceritakan kepada kami [Abu Amir Al 'Aqidi] Telah menceritakan kepada kami [Abbad bin Rasyid] Telah menceritakan kepada kami [Al Hasan] dia berkata; Telah menceritakan kepadaku [Ma'qil bin Yasar] berkata; aku mempunyai saudara perempuan yang dilamar kepadaku. Dan [Ibrahim] berkata; dari [Yunus] dari [Al Hasan] telah menceritakan kepadaku [Ma'qil bin Yasar]. -diriwayatkan dari jalur lainnya- Telah menceritakan kepada kami [Abu Ma'mar] Telah menceritakan kepada kami [Abdul Warits] Telah menceritakan kepada kami [Yunus] dari [Al Hasan] bahwa saudara perempuan Ma'qil ditalak suaminya dan meninggalkannya hingga habis masa iddahnya. Kemudian dia meminangnya lagi, namun Ma'qil menolaknya. Maka turunlah ayat; Jangalah kamu halangi mereka untuk menikah lagi dengan suaminya. (QS. Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4529</td></tr><tr><td>Arabic No</td><td>4529</td></tr><tr><td>Reference</td><td>Book 65 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Хасана, что муж сестры Ма‘кыля ибн Ясара развёл её, и оставил до тех пор, пока не закончилась её ‘идда. А потом он пришёл снова свататься к ней, но Ма’кыль отказал ему. И тогда был ниспослан этот аят: «… то не мешайте им выходить замуж за своих прежних мужей» (сура «аль-Бакара», аят 233)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4529</td></tr><tr><td>Arabic No</td><td>4529</td></tr><tr><td>Reference</td><td>Book 65 Hadith 52</td></tr></tbody></table></div>
 

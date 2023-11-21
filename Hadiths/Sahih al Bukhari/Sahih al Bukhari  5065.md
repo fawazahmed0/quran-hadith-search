@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Alqama:While I was with 'Abdullah, 'Uthman met him at Mina and said, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] ia berkata; Telah menceritakan kepadaku [Ibrahim] dari ['Alqamah] ia berkata; Aku berada bersama [Abdullah], lalu ia pun ditemui oleh Utsman di Mina. Utsman berkata, "Wahai Abu Abdurrahman, sesungguhnya aku memiliki hajat padamu." Maka keduanya berbicara empat mata. Utsman bertanya, "Apakah kamu wahai Abu Abdurrahman kami nikahkan dengan seorang gadis yang akan mengingatkanmu apa yang kamu lakukan?" Maka ketika Abdullah melihat bahwa ia tidak berhasrat akan hal ini, ia pun memberi isyarat padaku seraya berkata, "Wahai 'Alqamah." Maka aku pun segera menuju ke arahnya. Ia berkata, "Kalau Anda berkata seperti itu, maka sesungguhnya Nabi shallallahu 'alaihi wasallam telah bersabda kepada kita: 'Wahai sekalian pemuda, siapa di antara kalian yang telah mempunyai kemampuan, maka hendaklah ia menikah, dan barangsiapa yang belum mampu, hendaklah ia berpuasa karena hal itu akan lebih bisa meredakan gejolaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 67 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама сказал: «Однажды, когда я шёл вместе с ‘Абдуллахом в Мине, мы встретили ‘Усмана, который сказал: “О Абу ‘Абдуррахман, мне нужно тебе что-то сказать”. Они отошли в сторону, и ‘Усман сказал: “О Абу ‘Абдуррахман, не женить ли нам тебя на девушке-девственнице? Может, она напомнит тебе о прошлом”. Когда ‘Абдуллах почувствовал, что он не нуждается в этом, он позвал меня, сказав: “О ‘Алькама!” Подойдя к нему, я услышал, как он говорит ‘Усману: “Если уж ты говоришь это, то знай, что Посланник Аллаха ﷺ сказал нам: “О молодежь! Пусть женится тот из вас, кто может (жениться). Тому же, кто (жениться) не может, следует поститься, ибо это для него (будет подобно) холощению (оскоплению)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 67 Hadith 3</td></tr></tbody></table></div>
 

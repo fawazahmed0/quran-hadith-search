@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Nous sortîmes avec le Prophète (paix
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ath-Thahir] dia berkata, telah mengabarkan kepada kami [Ibnu Wahab] dari [Malik bin Anas] dari [Tsaur bin Zaid ad-Duali] dari [Salim Abu al-Ghaits] mantan budak Ibnu Muthi', dari [Abu Hurairah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan ini adalah haditsnya, telah menceritakan kepada kami [Abdul Aziz] -yaitu Ibnu Muhammad- dari [Tsaur] dari [Abu al-Ghaits] dari [Abu Hurairah] dia berkata, "Pada hari Khaibar kami keluar bersama Nabi shallallahu 'alaihi wasallam hingga Allah memberi kemenangan kepada kami, namun tidaklah ghanimah (harta rampasan perang) yang kami peroleh berupa emas atau perak, melainkan harta benda, makanan dan pakaian. Kemudian kami bergegas menuju sebuah bukit. Dan Rasulullah shallallahu 'alaihi wasallam saat itu bersama dengan budak beliau yang dihadiahi oleh seorang lelaki dari Judzam yang biasa dipanggil dengan nama Rifa'ah bin Zaid dari bani Adl-Dlubaib. Ketika kami sampai di bukit itu, budak Rasulullah shallallahu 'alaihi wasallam tersebut berdiri untuk melepaskan ikatan tali pelananya. Namun tiba-tiba dia dipanah, dan menemui ajalnya di sana. Kami pun berkata, 'kami mengucapkan selamat baginya wahai Rasulullah karena telah mendapatkan mati syahid.' Tapi Rasulullah shallallahu 'alaihi wasallam malah berkata: 'Tidak, demi Dzat yang jiwa Muhammad ada di tangan-Nya, sungguh ia akan dilahab oleh api neraka karena selimut dari ghanimah perang Khaibar yang diambilnya sebelum dibagikan.' Abu Huraitah berkata, 'Orang-orang pun terhenyak kaget. Setelah itu datanglah seorang lelaki dengan membawa seikat atau dua ikat tali sandal seraya berkata, 'Wahai Rasulullah, aku dapatkan ini saat perang Khaibar'. Maka Rasul pun berkata: 'Seikat tali sandal dari api neraka atau dua ikat tali sandal dari api neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>310</td></tr><tr><td>Arabic No</td><td>115</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Мы выступили на Хайбар вместе с Пророком ﷺ, и Аллах даровал нам победу. В качестве военной добычи нам не досталось ни золото, ни серебро, но мы захватили (разную) утварь, продукты питания и одежду, а потом направились в сторону долины. Посланника Аллаха ﷺ сопровождал раб, которого ему подарил один человек из (племени) джузам по имени Рифа‘а ибн Зейд, (принадлежавший к роду) бану ад-дубайб. Когда мы остановились в долине, этот раб встал, чтобы снять седло Посланника Аллаха ﷺ, и тут кем-то была пущена стрела, (которая поразила его) насмерть. Мы стали говорить: “На счастье ему, о Посланник Аллаха, (ведь он принял) мученическую смерть!” но Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей длани душа Мухаммада, этот плащ будет гореть на нём огнём! Он взял его из добычи, захваченной в день Хайбара, и (этого плаща) не было среди того, что подлежало разделу”. Тут людей охватил страх, а один человек принёс ремешок (или: два ремешка от сандалий) и сказал: “О посланник Аллаха, я взял (это) в день Хайбара”. (В ответ ему) Посланник Аллаха ﷺ сказал: “(Это) ремешок из Огня (или: два ремешка из Огня)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>310</td></tr><tr><td>Arabic No</td><td>115</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
 

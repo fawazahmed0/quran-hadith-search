@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has been transmitted by Kushaif with a different chain of narrato
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Imran bin Maisarah] telah menceritakan kepada kami [Ibnu Fudlail] telah menceritakan kepada kami [Khushaif] dari [Abu 'Ubaidah] dari [Abdullah bin Mas'ud] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat khauf bersama kami, lalu sekelompok mereka berbaris di belakang Rasulullah shallallahu 'alaihi wasallam, sedangkan kelompok yang lain berjaga-jaga menghadapi musuh, maka Rasulullah shallallahu 'alaihi wasallam shalat dengan kelompok pertama satu raka'at, kemudian kelompok kedua datang dan menempati tempat kelompok pertama, sedangkan kelompok pertama bergantian berjaga menghadapi musuh, lalu Nabi shallallahu 'alaihi wasallam shalat dengan kelompok kedua satu raka'at, kemudian beliau salam, sementara kelompok yang shalat bersama beliau berdiri dan menyempurnakan satu raka'at sendiri-sendiri, kemudian mereka salam. Setelah itu mereka kembali dan menempati posisi kelompok yang menghadapi musuh, sedangkan kelompok pertama kembali (ke shaf shalat), kemudian mereka (menyempurnakan) shalat satu raka'at (yang tersisa) sendiri-sendiri, kemudian mereka salam." Telah menceritakan kepada kami [Tamim bin Al Muntashir] telah mengabarkan kepada kami [Ishaq yaitu Ibnu Yusuf] dari [Syarik] dari [Khushaif] dengan sanad dan maksud yang sama, katanya; "Kemudian Nabi shallallahu 'alaihi wasallam bertakbir, dan kedua kelompok juga ikut bertakbir bersama beliau." Abu Daud mengatakan; "Di riwayatkan pula oleh [Ats Tsauri] dengan makna seperti ini, dari [Khushaif], dan Abdurrahman bin Samurah juga mengerjakan cara shalat seperti ini, kecuali kelompok yang shalat satu raka'at, kemudian salam, lalu mereka bergantian menempati tempat sahabatnya yang lain (kelompok kedua), kemudian mereka (kelompok kedua) datang lalu shalat sendiri-sendiri satu raka'at, kemudian mereka kembali ke tempat mereka dan menyempurnakan shalat satu raka'at sendiri-sendiri." Abu Daud berkata; telah menceritakan kepada kami hadits seperti itu Muslim bin Ibrahim telah menceritakan kepada kami Abdusshamad bin Habib dia berkata; telah mengabarkan kepadaku ayahku bahwa mereka pernah berperang bersama Abdurrahman bin Samurah di daerah Kabul, kemudian dia mengerjakan shalat khauf bersama kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1245</td></tr><tr><td>Arabic No</td><td>1245</td></tr><tr><td>Reference</td><td>Book 4 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В похожей версии Хусайфа говорится, что пророк Аллаха ﷺ произнёс такбир и оба ряда также произнесли такбир. Абу Дауд сказал: «Ас-Саури передавал сообщение с таким же смыслом от Хусайфа, и ‘Абдуррахман ибн Самура молился так, однако группа, с которой он совершил один рак‘ат, а потом произнёс таслим, пошла на место своих товарищей, а те пришли и совершили самостоятельно один рак‘ат, потом вернулись на место тех. И потом они совершили один рак‘ат самостоятельно».‘Абду-с-Самад ибн Хабиб передаёт: «Мой отец рассказывал мне, что когда они участвовали в походе на Кабул, ‘Абдуррахман ибн Самура совершал с ними молитву, совершаемую под воздействием страха /салят аль-хауф/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1245</td></tr><tr><td>Arabic No</td><td>1245</td></tr><tr><td>Reference</td><td>Book 4 Hadith 48</td></tr></tbody></table></div>
 

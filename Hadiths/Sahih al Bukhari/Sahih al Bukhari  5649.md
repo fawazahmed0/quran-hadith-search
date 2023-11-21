@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Muisa Al-Ash'ari:The Prophet (ﷺ) said, "Feed the hungry, visit th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Abu Wa'il] dari [Abu Musa Al Asy'ari] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Berilah makan terhadap orang yang kelaparan, jenguklah orang sakit dan bebaskanlah tawanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5649</td></tr><tr><td>Arabic No</td><td>5649</td></tr><tr><td>Reference</td><td>Book 75 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Кормите голодного, навещайте больного, и освобождайте испытывающего затруднения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5649</td></tr><tr><td>Arabic No</td><td>5649</td></tr><tr><td>Reference</td><td>Book 75 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wahshi ibn Harb: The Companions of the Prophet (ﷺ) said: Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah menceritakan kepada kami [Al Walid bin Muslim] ia berkata; telah menceritakan kepadaku [Wahsyi bin Harb] dari [Ayahnya] dari [Kakeknya] bahwa para sahabat Nabi shallallahu 'alaihi wasallam berkata, "Wahai Rasulullah, sesungguhnya kami makan dan tidak merasa kenyang?" Beliau bersabda: "Kemungkinan kalian makan sendiri-sendiri." Mereka menjawab, "Ya." Beliau bersabda: "Hendaklah kalian makan secara bersama-sama, dan sebutlah nama Allah, maka kalian akan diberi berkah padanya." Abu Daud berkata, "Apabila engkau berada pada sebuah pesta kemudian dihidangkan makan malam, maka janganlah engkau memakannya hingga pemilik rumah mengizinkanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3764</td></tr><tr><td>Arabic No</td><td>3764</td></tr><tr><td>Reference</td><td>Book 28 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Вахши ибн Харб передаёт от своего отца рассказ своего деда о том, что сподвижники Пророка ﷺ сказали ему: «О Посланник Аллаха! Поистине, мы едим, но не насыщаемся!» Он сказал: «Наверное, вы едите поодиночке». Они ответили: «Да, так и есть». Он сказал: «Собирайтесь, ешьте вместе и поминайте имя Аллаха над вашей едой, и тогда она будет сделана благодатной для вас». Абу Дауд сказал: «Если тебя пригласили на свадебное угощение и подали еду, не приступай к ней, пока хозяин дома не разрешит тебе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3764</td></tr><tr><td>Arabic No</td><td>3764</td></tr><tr><td>Reference</td><td>Book 28 Hadith 29</td></tr></tbody></table></div>
 

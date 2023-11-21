@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu-Huraira reported Allah's Apostle (ﷺ) as saying:He who took a bath and then
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umayyah bin Bistham] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Rauh] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang mandi kemudian mendatangi Jum'at, lalu ia shalat semampuannya dan diam (mendengarkan khutbah) hingga selesai, kemudian ia lanjutkan dengan shalat bersama Imam, maka ia akan diampuni (dosa-dosa yang dilakukannya) antara hari itu dan hari jum'at yang lain. Dan bahkan hingga lebih tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1987</td></tr><tr><td>Arabic No</td><td>857.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Тому, кто (должным образом) совершит омовение, явится на пятничную молитву, помолится, (совершив столько рак‘атов), сколько ему было предопределено, и станет слушать (имама), храня молчание, пока тот не закончит хутбу, а потом совершит с ним (предписанную) молитву, простятся (прегрешения), которые он совершит между этой и следующей пятничной молитвой, а также в течение ещё трёх дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1987</td></tr><tr><td>Arabic No</td><td>857.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 37</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Allah's Messenger (ﷺ) saw a woman, and so he came to his w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Hisyam bn Abu Abdullah] dari [Abu Zubair] dari [Jabir] bahwasanya; Rasulullah shallallahu 'alaihi wasallam pernah melihat seorang wanita, lalu beliau mendatangi isterinya, yaitu Zainab yang sedang menyamak kulit, guna melepaskan rasa rindunya. Sesudah itu, beliau pergi menemui para sahabatnya, lalu beliau bersabda: "Sesungguhnya wanita itu datang dan pergi bagaikan syetan. Maka bila kamu melihat seorang wanita, datangilah isterimu, karena yang demikian itu dapat menentramkan gejolak hatimu." Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Abdush Shamad bin Abdul Warits] telah menceritakan kepada kami [Harb bin Abu 'Aliyah] telah menceritakan kepada kami [Abu Zubair] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam pernah melihat seorang wanita. Maka ia pun menyebutkan hadits yang semisalnya. Hanya saja ia menyebutkan; "Lalu beliau segera mendatangi isterinya, yaitu Zainab yang sedang menyamak kulit." Dan ia tidak menyebutkan; "Pergi seperti syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3407</td></tr><tr><td>Arabic No</td><td>1403.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3407</td></tr><tr><td>Arabic No</td><td>1403.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
 

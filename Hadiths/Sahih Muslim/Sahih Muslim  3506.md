@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported:When Allah's Apostle (ﷺ) ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru An Naqid] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [ayahu] dari [Shalih], [Ibnu Syihab] berkata; Sesungguhnya [Anas bin Malik] pernah berkata; "Saya adalah orang yang lebih tahu tentang ayat hijab, sesungguhnya Ubay bin Ka'ab pernah bertanya kepadaku tentang hal itu." Anas berkata; Di pagi hari Rasulullah shallallahu 'alaihi wasallam mengadakan pesta pernikahan dengan Zainab binti Jahsy. Anas berkata; Beliau menikahinya ketika di Madinah, lalu beliau mengundang orang-orang untuk menikmati jamuan ketika waktu mulai siang. Lantas Rasulullah shallallahu 'alaihi wasallam duduk, dan orang-orang pun duduk di samping beliau, kemudian Rasulullah berdiri dan berjalan, saya mengikuti beliau berjalan, sampai tiba di depan pintu kamar 'Aisyah. Beliau mengira bahwa tamu undangan telah pulang, maka beliau kembali, saya pun ikut kembali bersama beliau, Ternyata mereka masih duduk-duduk di tempat semula. Maka beliau pulang (ke rumah 'Aisyah) dan saya pun mengikuti beliau pulang yang kedua kalinya, hingga beliau tiba di kamar 'Aisyah. Kemudian beliau kembali lagi dan saya pun ikut beliau kembali, ternyata mereka telah pergi, lantas beliau menurunkan tirai antara saya dan beliau, kemudian Allah menurunkan ayat hijab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3506</td></tr><tr><td>Arabic No</td><td>1428.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3506</td></tr><tr><td>Arabic No</td><td>1428.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 108</td></tr></tbody></table></div>
 

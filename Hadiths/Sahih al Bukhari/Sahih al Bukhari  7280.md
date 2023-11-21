@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "All my followers will enter 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada kami [Fulaih] telah menceritakan kepada kami [Hilal bin Ali] dari ['Atha bin Yasar] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap umatku masuk surga selain yang enggan, " Para sahabat bertanya, "Wahai Rasulullah, lantas siapa yang enggan?" Nabi menjawab: "Siapa yang taat kepadaku masuk surga dan siapa yang membangkang aku berarti ia enggan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7280</td></tr><tr><td>Arabic No</td><td>7280</td></tr><tr><td>Reference</td><td>Book 96 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Все (члены) моей общины войдут в рай, кроме тех, кто откажется». (Люди) спросили: «О Посланник Аллаха, а кто откажется?» Он сказал: «Кто будет повиноваться мне, тот войдёт в рай, а кто ослушается меня, тот откажется»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7280</td></tr><tr><td>Arabic No</td><td>7280</td></tr><tr><td>Reference</td><td>Book 96 Hadith 12</td></tr></tbody></table></div>
 

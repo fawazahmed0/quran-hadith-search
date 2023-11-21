@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:When Abu Huraira accompanied by his slave set out intending to emb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Mumair] dari [Muhammad bin Bisyir] dari [Isma'il] dari [Qais] dari [Abu Hurairah radliallahu 'anhu] bahwasanya ketika dia datang untuk memeluk Islam, dia datang bersama budak kecilnya (gulam), antara Abu Hurairah dan budak kecilnya tersebut, sama-sama terpisah dalam perjalanan karena suatu hal. Kemudian hari gulamnya datang ketika Abu Hurairah sedang duduk bersama Nabi shallallahu 'alaihi wasallam. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Abu Hurairah, ini gulammu datang menemuimu". Maka dia berkata: "Aku bersaksi kepada anda bahwa dia sekarang bebas". Dia Qais) berkata: Ini terjadi ketika dia bersya'ir: Wahai malam dengan kelamaan dan kepayahannya # Dan menyelamatkan dari negeri kekufuran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2530</td></tr><tr><td>Arabic No</td><td>2530</td></tr><tr><td>Reference</td><td>Book 49 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что, когда он вместе со своим рабом отправился (к Пророку ﷺ), желая принять ислам, по пути они потеряли друг друга. Потом (этот раб) явился к Абу Хурайре, да будет доволен им Аллах, сидевшему вместе с Пророком ﷺ, и Пророк ﷺ сказал: «О Абу Хурайра, твой раб явился к тебе». (Абу Хурайра, да будет доволен им Аллах,) сказал: «Поистине, я призываю тебя засвидетельствовать, что (теперь) он свободен», а (явился он) в то время, когда (Абу Хурайра, да будет доволен им Аллах,) произносил (такие стихи):\nКакая долгая и тяжкая ночь!\nОднако она вызволила (нас) из земли неверия
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2530</td></tr><tr><td>Arabic No</td><td>2530</td></tr><tr><td>Reference</td><td>Book 49 Hadith 14</td></tr></tbody></table></div>
 

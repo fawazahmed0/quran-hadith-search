@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. samurah said:When the sun declined, the Messenger of Allah (ﷺ) offere
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Simak] dia mendengar [Jabir bin Samurah] berkata; "Apabila matahari telah condong ke barat, beliau melaksanakan shalat dhuhur dan membaca (surat) seperti surat WALLAILI IDZAA YAGHSYAA, demikian juga dalam shalat-shalat yang lain kecuali shalat subuh, beliau memanjangkan bacaannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (459)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>806</td></tr><tr><td>Arabic No</td><td>806</td></tr><tr><td>Reference</td><td>Book 2 Hadith 416</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн Самуры, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ совершал полуденную /зухр/ молитву, когда солнце уже отклонялось от точки зенита, и при этом читал суры размером с суру «Клянусь ночью, когда она покрывает…», и во время послеполуденной /‘аср/ молитвы, и остальные молитвы он совершал так же, за исключением утренней, во время которой он обычно читал аяты долго
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (459)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>806</td></tr><tr><td>Arabic No</td><td>806</td></tr><tr><td>Reference</td><td>Book 2 Hadith 416</td></tr></tbody></table></div>
 

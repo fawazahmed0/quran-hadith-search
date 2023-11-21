@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Awf bin Malik:When the spoils (fai') came to the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abdullah bin Al Mubarak], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibnu Al Mushaffa], ia berkata; telah menceritakan kepada kami [Abu Al Mughirah] seluruhnya dari [Shafwan bin 'Amr], dari [Abdurrahman bin Jubair bin Nufair] dari [ayahnya] dari ['Auf bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam apabila terdapat fa' yang datang kepadanya maka beliau membaginya pada hari itu, beliau memberi orang yang telah berkeluarga dua bagian dan orang yang bujang satu bagian. Ibnu Al Mushaffa menambahkan; kemudian aku dipanggil 'Ammar, aku dipanggil kemudian beliau memberiku dua bagian, dan aku adalah orang yang telah berkeluarga, kemudian 'Ammar bin Yasir dipanggil setelahku, lalu beliau memberinya satu bagian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2953</td></tr><tr><td>Arabic No</td><td>2953</td></tr><tr><td>Reference</td><td>Book 20 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ауфа ибн Малика, да будет доволен им Аллах, что, когда Посланнику Аллаха ﷺ доставляли имущество, доставшееся мусульманам без боя /файъ/, он распределял его в тот же день, причём женатым он давал две доли, а холостым одну. Ибн аль-Мусаффа добавлял, (что ‘Ауф ибн Малик) говорил: «Меня звали прежде ‘Аммара, и меня позвали и дали мне две доли, поскольку у меня была семья, а потом позвали ‘Аммара ибн Ясира и дали ему одну долю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2953</td></tr><tr><td>Arabic No</td><td>2953</td></tr><tr><td>Reference</td><td>Book 20 Hadith 26</td></tr></tbody></table></div>
 

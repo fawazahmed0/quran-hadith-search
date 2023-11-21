@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:One night the Prophet (ﷺ) was unable to sleep and said, "Would 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin makhlad] telah menceritakan kepada kami [Sulaiman bin Bilal] telah menceritakan kepadaku [Yahya bin sa'id], aku mendengar [Abdullah bin Amir bin Rabi'ah] mengatakan, [Aisyah] menuturkan; Suatu malam Rasulullah Shallallahu'alaihiwasallam tidak bisa tidur, lantas beliau mengatakan: "Duhai sekiranya ada seorang laki-laki shalih dari sahabatku menjagaku malam ini" Tiba-tiba kami mendengar suara senjata. Nabi bertanya: "siapa ini?" Sa'd menjawab; "Ya Rasulullah, aku datang untuk menjagamu!" maka Nabi shallallahu 'alaihi wasallam tidur hingga aku mendengar suara nafas beliau. Abu Abdullah mengatakan "dan Aisyah mengatakan, Bilal mengatakan; "duhai seandainya aku tinggal pada malam ini, di suatu lembah di sekelilingku idkhir dan jalil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7231</td></tr><tr><td>Arabic No</td><td>7231</td></tr><tr><td>Reference</td><td>Book 94 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Однажды Пророк ﷺ бодрствовал всю ночь и сказал: “О, если бы охранял меня этой ночью праведный человек из числа моих сподвижников!” Тут мы (неожиданно) услышали бряцание оружия, и он спросил: “Кто это?” Са‘д (ибн Абу Ваккъас) сказал: «О, Посланник Аллаха, я пришёл, чтобы охранять тебя”. И Пророк ﷺ заснул так, что мы услышали его храп».Абу ‘Абдуллах сказал: «‘Аиша сказала: “Биляль произносил (такие стихи):\nЗнать бы мне, смогу ли провести ночьв долине среди душистого тростника и джалиля?\nИ я сообщила (о его словах) Пророку ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7231</td></tr><tr><td>Arabic No</td><td>7231</td></tr><tr><td>Reference</td><td>Book 94 Hadith 6</td></tr></tbody></table></div>
 

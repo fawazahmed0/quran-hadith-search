@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:Allah's Messenger (ﷺ) said, "He who eats seven 'Ajwa dates every
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Jum'ah bin Abdullah] berkata, telah menceritakan kepada kami [Marwan] berkata, telah mengabarkan kepada kami [Hasyim bin Hasyim] berkata, telah mengabarkan kepada kami [Amir bin Sa'd] dari [Bapaknya] ia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa setiap pagi mengkonsumsi tujuh butir kurma 'Ajwah, maka pada hari itu ia akan terhindar dari racun dan sihir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5445</td></tr><tr><td>Arabic No</td><td>5445</td></tr><tr><td>Reference</td><td>Book 70 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амир ибн Са‘д передал со слов своего отца (Са‘да ибн Абу Ваккаса, да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Тому, кто каждым утром будет съедать по семь фиников (сорта) ‘аджва, в этот день не повредят ни яд, ни колдовство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5445</td></tr><tr><td>Arabic No</td><td>5445</td></tr><tr><td>Reference</td><td>Book 70 Hadith 74</td></tr></tbody></table></div>
 

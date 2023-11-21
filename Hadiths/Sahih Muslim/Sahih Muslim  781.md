@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Khalid al-Jubani reported that he askad Uthman b. 'Affan:What is your op
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan ['Abd bin Humaid] keduanya berkata, telah menceritakan kepada kami [Abd ash-Shamad bin Abdul Waris] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abdul Waris bin Abd ash-Shamad] dan lafazh ini miliknya, Telah menceritakan kepadaku [bapakku] dari [kakekku] dari [al-Husain bin Dzakwan] dari [Yahya bin Abi Katsir] telah mengabarkan kepadaku [Abu Salamah] bahwa ['Atha' bin Yasar] telah mengabarkannya bahwa [Zaid bin Khalid al-Juhani] telah mengabarkannya bahwa dia bertanya kepada [Utsman bin Affan], dia berkata, "Saya berkata, 'Apa pendapatmu jika seorang laki-laki menyenggamai istrinya, namun dia tidak sampai mengeluarkan mani? ' Utsman menjawab, 'Hendaklah dia berwudhu sebagaimana dia berwudhu untuk mendirikan shalat dan membasuh kemaluannya'. Utsman berkata lagi, 'Aku pernah mendengar hal ini dari Rasulullah Shallallahu'alaihiwasallam'." Dan telah menceritakan kepada kami [Abd al-Warits bin Abd ash-Shamad] telah menceritakan kepada kami [bapakku] dari [kakekku] dari [al-Husain] berkata [Yahya] dan telah mengabarkan kepada kami [Abu Salamah] bahwa [Urwah bin az-Zubair] telah mengabarkan kepadanya bahwa [Abu Ayyub] mengabarkan kepadanya bahwa dia mendengar hal tersebut dari Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>781</td></tr><tr><td>Arabic No</td><td>347.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Халид аль-Джухани рассказывал о том, что (однажды) он спросил ‘Усмана ибн ‘Аффана : «Как ты думаешь, (что следует делать) мужчине, если он совокупился со своей женой, но не испустил семя?» ‘Усман ответил: «Он должен совершить такое же омовение /вудуъ/, какое совершает перед молитвой, и помыть свой половой орган».‘Усман (также) сказал: «Я слышал это от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>781</td></tr><tr><td>Arabic No</td><td>347.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 103</td></tr></tbody></table></div>
 

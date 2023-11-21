@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported:We used to go to Imran b. Husain passing in front of Hisham 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ahmad bin Ishaq Al Hadhrami] telah menceritakan kepada kami [Abdulaziz bin Al Mukhtar] telah menceritakan kepada kami [Ayyub] dari [Humaid bin Hilal] dari beberapa orang diantaranya [Abu Ad Dahma'] dan [Abu Qatadah], mereka berkata: Kami melintasi [Hisyam bin Amir] untuk menemui Imran bin Hushain. Pada suatu hari ia berkata: Sesungguhnya kalian melinasiku untuk menemui beberapa orang, mereka tidak lebih sering mendatangi Rasulullah Shallallahu 'alaihi wa Salam melebihiku dan mereka tidak lebih mengetahui hadits beliau melebihiku. Aku pernah mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidak ada wujud manusia sejak Adam diciptakan hingga terjadinya kiamat yang lebih besar dari Dajjal." Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Abdullah bin Ja'far Ar Raqqi] telah menceritakan kepada kami [Ubaidullah bin Amru] dari [Ayyub] dari [Humaid bin Hilal] dari [tiga orang] dari kaumnya, diantaranya [Abu Qatadah], mereka berkata: Kami melintasi [Hisyam bin Amir] untuk menemui Imran bin Hushain, seperti hadits Abdulaziz bin Mukhtar, hanya saja ia berkata dalam haditsnya: Perkara yang lebih besar dari Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7395</td></tr><tr><td>Arabic No</td><td>2946.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7395</td></tr><tr><td>Arabic No</td><td>2946.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 156</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b:Who was Ka'b's guide when Ka'b turned blind: I heard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab]. Dan melalui jalur yang lain, telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku ['Abdurrahman bin Abdullah bin Ka'ab bin Malik] bahwa [Abdullah bin Ka'ab], yang menjadi pemandu jalan bagi Ka'ab ketika sudah buta, berkata; aku mendengar [Ka'ab bin Malik] bercerita tentang dirinya yang tidak turut serta bersama Nabi shallallahu 'alaihi wasallam dalam perang Tabuk dengan panjang lebar. Ibnu Bukair berkata di tengah cerita Ka'ab; "Sungguh aku menjadi saksi bersama Nabi shallallahu 'alaihi wasallam pada malam (bai'at) 'Aqabah ketika kami bersumpah setia didalam Islam, dan aku tidak lebih suka diriku ikut serta dalam perang Badar sekalipun perang Badar lebih terkenal di tengah manusia dari pada bai'at 'Aqabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3889</td></tr><tr><td>Arabic No</td><td>3889</td></tr><tr><td>Reference</td><td>Book 63 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Ка‘ба, который был проводником Ка‘ба, когда он ослеп, что Ка‘б ибн Малик рассказал о том, как он отстал от Пророка ﷺ в походе на Табук. Ибн Букейр (один из передатчиков) сказал, что, Ка‘б сказал: «Я был вместе с Пророком ﷺ в ночь аль-‘Акабы, когда мы присягали на верность исламу, и я бы не променял аль-‘Акабу на битву при Бадре, несмотря на то, что битва при Бадре пользуется среди людей большей известностью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3889</td></tr><tr><td>Arabic No</td><td>3889</td></tr><tr><td>Reference</td><td>Book 63 Hadith 114</td></tr></tbody></table></div>
 

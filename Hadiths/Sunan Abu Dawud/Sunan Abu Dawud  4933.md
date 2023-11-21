@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) married me when I w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) telah menceritakan kepada kami [Bisyr bin Khalid] berkata, telah menceritakan kepada kami [Abu Usamah] keduanya berkata; telah menceritakan kepada kami [Hisyam bin Urwah] dari [Bapaknya] dari ['Aisyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam menikahiku saat umurku tujuh atau enam tahun. Ketika kami tiba di Madinah, maka datanglah beberapa kaum wanita, Bisyr menyebutkan, "lalu Ummu Rumman menghampiriku saat aku ada di ayunan. Mereka kemudian membawaku, lalu merias dan mengurusku. Setelah itu aku dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam, dan beliau hidup bersama denganku saat aku berumur sembilan tahun. Ummu Rumman berdiri bersamaku di depan pintu, hingga aku pun berkata, 'Hah.. hah.. (kalimat yang diucapkan seorang yang gugup hingga bisa tenang) '. -Abu Dawud berkata, "Yaitu bernafas'- aku lalu dimasukkan ke dalam rumah, dan ternyata di dalam telah banyak para wanita Anshar. Mereka berkata, "Semoga membawa kebaikan dan keberkahan." (Lafadz) Hadits keduanya -Musa bin Isma'il dan Bisyr bin Khalid- kadang ada yang sama." Telah menceritakan kepada kami [Ibrahim bin Sa'id] berkata, telah menceritakan kepada kami [Abu Usamah] seperti hadits tersebut. Ia berkata, "Semoga membawa kebaikan." Ummu Rumman kemudian menyerahkan aku kepada wanita-wanita itu, mereka lalu mengkramasi kepalaku dan meriasku. Dan tidak ada yang membuatku kaget kecuali saat Rasulullah shallallahu 'alaihi wasallam datang di waktu dhuha, mereka kemudian menyerahkan aku kepada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3894) Sahih Muslim (1422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4933</td></tr><tr><td>Arabic No</td><td>4933</td></tr><tr><td>Reference</td><td>Book 43 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3894) Sahih Muslim (1422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4933</td></tr><tr><td>Arabic No</td><td>4933</td></tr><tr><td>Reference</td><td>Book 43 Hadith 161</td></tr></tbody></table></div>
 

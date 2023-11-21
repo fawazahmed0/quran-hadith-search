@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] semuanya dari [Ismail bin Ja'far] berkata [Ibnu Ayyub] telah menceritakan kepada kami [Ismail] dia berkata, telah mengabarkan kepadaku [al-Ala'] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Segeralah beramal sebelum datangnya fitnah seperti malam yang gelap gulita. Di pagi hari seorang laki-laki dalam keadaan mukmin, lalu kafir di sore harinya. Di sore hari seorang laki-laki dalam keadaan mukmin, lalu kafir dipagi harinya. Dia menjual agamanya dengan barang kenikmatan dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>118</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>118</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
 

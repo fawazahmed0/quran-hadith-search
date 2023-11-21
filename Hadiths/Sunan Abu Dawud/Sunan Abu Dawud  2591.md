@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: Yunus ibn Ubayd, client of Muhammad ibn al-Qasim, sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada kami [Ibnu Abu Zaidah], telah mengabarkan kepada kami [Abu Ya'qub Ats Tsaqafi], telah menceritakan kepadaku [Yunus bin 'Ubaid] mantan budak Muhammad bin Al Qasim, ia berkata; Muhammad bin Al Qasim telah mengirimku untuk datang kepada [Al Barra' bin 'Azib] agar bertanya kepadanya mengenai bendera Rasulullah shallallahu 'alaihi wasallam. Kemudian ia berkata; bendera beliau berwarna hitam persegi panjang terbuat dari namirah (kain yang bergaris hitam putih yang terbuat dari wol dan sejenisnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2591</td></tr><tr><td>Arabic No</td><td>2591</td></tr><tr><td>Reference</td><td>Book 15 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2591</td></tr><tr><td>Arabic No</td><td>2591</td></tr><tr><td>Reference</td><td>Book 15 Hadith 115</td></tr></tbody></table></div>
 

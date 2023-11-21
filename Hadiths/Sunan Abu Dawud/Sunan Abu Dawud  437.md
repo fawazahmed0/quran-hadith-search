@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah reported:"The Prophet (ﷺ) was on a journey. The Prophet (ﷺ) took
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Рабаха аль-Ансари о том, что Абу Катада рассказывал, что Пророк ﷺ был в поездке и когда Посланник Аллаха свернул (с дороги), я свернул с ним, и он сказал:«Посмотри!», и я сказал: «Это всадник, это два всадника, а эти трое» и так, пока нас не оказалось семеро. (Пророк ﷺ) сказал: «Позаботься на счет нашей молитвы», имея ввиду утреннюю молитву. И они заснули и не просыпались, пока не пригрело солнце. (Затем) они встали и отъехали немного, после чего остановились и совершили омовение. Потом Биляль произнёс азан и они совершили два рак‘ата к утренней молитве и затем совершили утреннюю молитву и отправились в путь. Некоторые из них сказали своим товарищам: «Мы проявили беспечность в нашей молитве». (Услышав это) Пророк ﷺ сказал: «Сон не является причиной беспечности, однако, беспечность проявляется при бодрствовании. Поэтому, если кто то из вас забудет о молитве, пусть совершит ее, когда вспомнит о ней, а на следующий день (совершит) вовремя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
 

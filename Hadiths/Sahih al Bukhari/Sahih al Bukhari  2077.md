@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) said, "Before your time the angels received 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Manshur] bahwa [Rib'iy bin Hirasy] menceritakan kepadanya bahwa [Hudzaiah radliallahu 'anhu] menceritakan kepadanya dan berkata; Nabi shallallahu 'alaihi wasallam bersabda: Para Malaikat akan mendatangi ruh seseorang dari orang-orang sebelum kalian (saat menjelang ajalnya) lalu bertanya: "Apakah kamu pernah berbuat suatu kebaikan?" Orang itu menjawab: "Aku dahulu memerintahkan para pembantuku untuk memneri tangguh dan menagih orang-orang yang memeliki kelapangan". Dia berkata; Beliau shallallahu 'alaihi wasallam bersabda: "Maka orang-orang itu memenuhi kewajibannya". Berkata, Abu 'Abdullah Al Bukhariy; dan berkata, [Abu Malik] dari [Rib'iy]: "Aku biasa memudahkan urusan orang yang sedang mmiliki kelapangan dan memberi waktu bagi yang sedang kesulitan". Dan Hadits ini dikuatkan pula oleh [Syu'bah] dari ['Abdul Malik] dari [Rab'iy]. Dan berkata, [Abu 'Awanah] dari ['Abdul Malik] dari [Rib'iy]: "Aku memberi waktu untuk orang ang sedang memiliki kemudahan dan menagih untuk orang yang sedang kesulitan". Dan berkata, [Nu'aim bin Abu Hind] dari [Rab'iy]: "Maka aku menerima dari yang sedang memiliki kemudahan dan menagih dari orang yang sedang kesulitan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2077</td></tr><tr><td>Arabic No</td><td>2077</td></tr><tr><td>Reference</td><td>Book 34 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хузайфы, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Некогда) ангелы приняли дух человека из числа живших до вас и спросили (его): “Совершил ли ты что-нибудь благое?” Он ответил: “Я всегда приказывал своим слугам давать отсрочку несостоятельному и проявлял снисходительность к обеспеченному”, и Аллах простил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2077</td></tr><tr><td>Arabic No</td><td>2077</td></tr><tr><td>Reference</td><td>Book 34 Hadith 30</td></tr></tbody></table></div>
 

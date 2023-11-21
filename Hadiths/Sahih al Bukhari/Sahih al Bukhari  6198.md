@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:I got a son and I took him to the Prophet (ﷺ) who named him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa] dia berkata; "Aku pernah memliki seorang anak yang baru lahir, lalu aku serahkan kepada Nabi shallallahu 'alaihi wasallam, kemudian beliau memberinya nama Ibrahim dan mentahniknya (mengunyahkan kurma kemudian menyuapkan ke mulut bayi) dengan kurma, setelah itu beliau mendo'akannya dengan keberkahan, lalu beliau mengembalikannya kepadaku." Dan dia (anak tersebut) adalah anak yang paling besar dari anaknya Abu Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6198</td></tr><tr><td>Arabic No</td><td>6198</td></tr><tr><td>Reference</td><td>Book 78 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «Когда у меня родился сын, я принёс его к Пророку ﷺ, который назвал его Ибрахимом, сделал ему тахник из одного финика, призвал на него благословение и отдал его мне». И он был самым старшим ребёнком Абу Мусы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6198</td></tr><tr><td>Arabic No</td><td>6198</td></tr><tr><td>Reference</td><td>Book 78 Hadith 222</td></tr></tbody></table></div>
 

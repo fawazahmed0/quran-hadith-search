@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Used to hear (from the Prophet) that no Prophet dies till he is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami [Gundar] Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad] dari [Urwah] dari [Aisyah] dia berkata; Aku pernah mendengar bahwa seorang nabi tidak akan meninggal hingga dia di suruh memilih antara dunia dan akhirat. Aisyah berkata; Kemudian ketika Nabi shallallahu 'alaihi wasallam sakit yang menyebabkan kematiannya, aku mendengar beliau menuturkan dengan terputus-putus, beliau bersabda: "Bersama orang-orang yang telah Allah beri nikmat kepada mereka, baik dari para nabi, orang-orang yang jujur, orang-orang yang mati syahid, dan orang-orang yang shalih dan mereka itulah sebaik-baik teman." Aisyah berkata; "Aku mengira pada waktu itulah beliau diberi pilihan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:«Я часто слышала (от Посланника Аллаха ﷺ), что ни один пророк не умирал, пока ему не предлагалось сделать выбор между миром этим и миром вечным. Кроме того, я слышала, как во время той болезни, от которой Пророк ﷺ умер, он говорил хриплым голосом: “...с теми, кого Аллах облагодетельствовал из числа пророков, правдивейших, павших за веру и праведников. Прекрасные это товарищи!” — и я подумала, что ему был предоставлен такой выбор»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
 

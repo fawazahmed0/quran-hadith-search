@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:We joined Allah's Apost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] berkata; "Kami bersekutu bersama Nabi shallallahu 'alaihi wasallam di dalam haji dan umrah, yakni tujuh orang berkurban seekor Unta atau seekor Sapi." Kemudian seorang laki-laki bertanya kepada Jabir, "Bolehkah bersekutu dalam kambing sebagaimana bolehnya bersekutu dalam Unta atau sapi?" Jabir menjawab, "Tidaklah kami bersekutu, kecuali dalam Badanah (unta atau sapi)." Jabir juga turut serata dalam peristiwa Hudaibiyah. Ia berkata, "Di hari itu, kami menyembelih tujuh puluh ekor Badanah (Unta atau sapi). Setiap tujuh orang dari kami bersekutu untuk kurban seekor Badanah (unta atau sapi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3188</td></tr><tr><td>Arabic No</td><td>1318.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 392</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3188</td></tr><tr><td>Arabic No</td><td>1318.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 392</td></tr></tbody></table></div>
 

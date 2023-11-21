@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] sedangkan lafazhnya dari Zuhair, keduanya berkata; Telah menceritakan kepada kami [Yahya] dia adalah Al Qaththan, dari [Ubaidillah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] dia berkata; "Dahulu orang-orang Jahiliyah terbiasa melakukan jual beli daging unta dengan habalul habalah, maksud habalul habalah ialah seekor unta betina disetubuhi unta jantan, kemudian unta betina mengandung (janin yang dikandung tersebutlah yang dijadikan transaksi), maka Rasulullah shallallahu 'alaihi wasallam melarang mereka jual beli seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3810</td></tr><tr><td>Arabic No</td><td>1514.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3810</td></tr><tr><td>Arabic No</td><td>1514.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 10</td></tr></tbody></table></div>
 

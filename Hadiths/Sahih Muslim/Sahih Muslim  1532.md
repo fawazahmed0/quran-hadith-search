@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mas'ud al-Ansari reported Allah's Messenger (ﷺ) as saying:The one who is m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Said Al Asyaj], keduanya dari [Abu Khalid]. [Abu Bakr] mengatakan; telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Al A'masy], dari [Ismail bin Raja'] dari [Aus bin Dham'aj] dari [Abu Mas'ud Al Asnhari], katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang berhak menjadi imam atas suatu kaum adalah yang paling menguasai bacaan kitabullah (Alquran), jika dalam bacaan kapasitasnya sama, maka yang paling tahu terhadap sunnah, jika dalam as sunnah (hadis) kapasitasnya sama, maka yang paling dahulu hijrah, jika dalam hijrah sama, maka yang pertama-tama masuk Islam, dan jangan seseorang mengimami seseorang di daerah wewenangnya, dan jangan duduk di rumah seseorang di ruang tamunya, kecuali telah mendapatkan izin darinya." Kata Al Asyaj dalam periwayatannya dengan redaksi "Maka yang menjadi pertimbangan kapasitas adalah keIslaman dan usia, " Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Jarir] dan [Abu Mu'awiyah] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Al-Asyajj] telah menceritakan kepada kami [Ibnu Fudlail] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan], semuanya dari [Al A'masy] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1532</td></tr><tr><td>Arabic No</td><td>673.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 365</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас‘уда аль-Ансари, что Посланник Аллаха ﷺ сказал: «(Во время молитвы) имамом для людей (должен) быть тот, кто лучше всех читает Книгу Аллаха. Если в (этом отношении люди) равны, (имамом должен быть) тот, кто лучше всех знает Сунну; если и в (этом) они равны, (имамом должен быть) тот, кто раньше всех переселился; если же они равны и в этом, (имамом должен быть тот, кто) раньше всех принял ислам. Ни в коем случае не следует человеку становиться имамом для того, кто обладает над ним (хоть какой-либо) властью, как не следует ему садиться в доме (такого человека) на его подушку, (если не будет на то) позволения (хозяина)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1532</td></tr><tr><td>Arabic No</td><td>673.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 365</td></tr></tbody></table></div>
 

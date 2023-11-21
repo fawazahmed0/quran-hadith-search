@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salman-Al-Farsi:The Prophet (p.b.u.h) said, "Whoever takes a bath on Fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Sa'id Al Maqburi] berkata, telah mengabarkan kepadaku [Bapakku] dari [Ibnu Wadi'ah] dari [Salman Al Farsi] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang laki-laki mandi pada hari Jum'at lalu bersuci semaksimal mungkin, memakai wewangian miliknya atau minyak wangi keluarganya, lalu keluar rumah menuju Masjid, ia tidak memisahkan dua orang pada tempat duduknya lalu dia shalat yang dianjurkan baginya dan diam mendengarkan khutbah Imam, kecuali dia akan diampuni dosa-dosanya yang ada antara Jum'atnya itu dan Jum'at yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>883</td></tr><tr><td>Arabic No</td><td>883</td></tr><tr><td>Reference</td><td>Book 11 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сальман аль-Фариси, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Если человек совершит в пятницу большое омовение, очистится (так тщательно), как только сможет, смажет (волосы) или умастит (тело) благовониями (, которые найдутся у него) дома, после чего отправится (на пятничный намаз), и не будет расталкивать сидящих рядом (в мечети), и совершит намаз столько, сколько было (угодно Аллаху), а потом будет хранить молчание, внимательно слушая слова имама, ему обязательно простятся (грехи, совершенные им) между этой и предыдущей пятницей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>883</td></tr><tr><td>Arabic No</td><td>883</td></tr><tr><td>Reference</td><td>Book 11 Hadith 8</td></tr></tbody></table></div>
 

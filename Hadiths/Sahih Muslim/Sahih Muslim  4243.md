@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:The vow does not bring anyt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta [Ali bin Hujr] mereka berkata, telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari [Amru] -yaitu Ibnu Abu Amru- dari [Abdurrahman Al A'raj] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya nadzar itu tidak dapat mendekatkan anak Adam dengan sesuatu yang Allah belum takdirkan, tetapi nadzar (akan) sesuai dengan takdir, maka dengannya (nadzar) sesuatu yang tadinya tidak mungkin dikeluarkan oleh seorang bakhil, akan dikeluarkan." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub yaitu Ibnu Abdurrahman Al Qari] dan [Abdul Aziz] -yaitu Ad Darawardi- keduanya dari [Amru bin Abu Amru] dengan sanad-sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>1640.03</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>1640.03</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
 

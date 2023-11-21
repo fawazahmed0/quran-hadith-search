@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hammam:Hudhaifa said, "O the Group of Al-Qurra! Follow the straight pat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Hammam] dari [Khudzaifah] berkata, "Wahai ahli alquran, bersikap istiqamahlah kalian, dengan demikian kalian telah menjadi pemenang yang jauh, sebaliknya jika kalian oleng kanan kiri, kalian telah sesat sesesat-sesatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7282</td></tr><tr><td>Arabic No</td><td>7282</td></tr><tr><td>Reference</td><td>Book 96 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся со слов Хузейфы, да будет доволен им Аллах, который сказал: «О, собрание чтецов! Идите прямо! (Если вы будете идти прямо), то опередите далёким опережением. А если будете отклоняться направо или налево, то заблудитесь далёким заблуждением»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7282</td></tr><tr><td>Arabic No</td><td>7282</td></tr><tr><td>Reference</td><td>Book 96 Hadith 14</td></tr></tbody></table></div>
 

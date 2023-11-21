@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham (Allah be pleased with him) reported from his father:Usama (Allah be plea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] dan [Qutaibah bin Sa'id] semuanya dari [Hammad bin Zaid] - [Abu Rabi'] berkata- Telah menceritakan kepada kami [Hammad] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] ia berkata; [Usamah] pernah ditanya -atau ia mengatakan- Saya pernah bertanya kepada Usamah bin Zaid, yang ia pernah membonceng di belakang Rasulullah shallallahu 'alaihi wasallam saat perjalanan dari Arafah. Saya bertanya, "Bagaimana perjalanan Rasulullah shallallahu 'alaihi wasallam saat beliau berangkat dari Arafah?" Usamah menjawab, "Beliau berjalan dengan kecepatan sedang, dan apabila beliau mendapati jalan yang luas, maka beliau akan berjalan dengan cepat." Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abdah bin Sulaiman] dan [Abdullah bin Numair] dan [Humaid bin Abdurrahman] dari [Hisyam bin Urwah] dengan isnad ini, dan ia menambahkan di dalam haditsnya Humaid; Hisyam berkata; "An Nashshu Fauqal 'Anaq (berjalan cepat di atas kecepatan sedang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3106</td></tr><tr><td>Arabic No</td><td>1286.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3106</td></tr><tr><td>Arabic No</td><td>1286.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 311</td></tr></tbody></table></div>
 

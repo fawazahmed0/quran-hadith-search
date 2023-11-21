@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that the Messenger of Allah (ﷺ) forbade the Muhrim to put o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abdullah bin Dinar] dar [Ibnu Umar] radliallahu 'anhuma bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang seorang Muhrim (yang melakukan Ihram) untuk mengenakan pakaian yang telah dicelupkan dengan Za'faran atau Wars. Dan beliau bersabda: "Siapa yang tidak mempunyai terompah, maka ia boleh memakai sepatu, tetapi hendaklah ia memendekkannya hingga di bawah mata kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>1177.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>1177.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 3</td></tr></tbody></table></div>
 

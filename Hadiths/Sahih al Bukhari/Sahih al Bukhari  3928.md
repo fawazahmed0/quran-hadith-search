@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:During the last Hajj led by 'Umar, 'Abdur-Rahman bin 'Auf re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepadaku [Ibnu Wahb] telah menceritakan kepada kami [Malik] dan telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata, telah mengabarkan kepadaku ['Ubaidullah bin Abdullah bin 'Abbas] yang telah mengabarkan kepadanya bahwa [Abdurrahman bin 'Auf] kembali kepada keluarganya di Mina pada haji terakhir yang dilakukan 'Umar bin Al Khaththab. Dia menemui aku, lalu Abdurrahman berkata; aku berkata; "Wahai Amirul Mu'minin, sesungguhnya musim haji telah mempertemukan orang-orang yang papa dan gembel, sedang aku memandang bahwa sebentar lagi mereka akan datang ke kota Madinah, padahal Madinah adalah negeri hijrah, sunnah dan kedamaian dan tempat berdiam para ahli fiqih, orang-orang mulia dan para pemikir." [Umar] menjawab; "Sungguh aku akan berdiri (mencegah mereka) di tempat pertama kali aku berdiri di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3928</td></tr><tr><td>Arabic No</td><td>3928</td></tr><tr><td>Reference</td><td>Book 63 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, сказал: «Во время последнего хаджа, который совершил ‘Умар, ‘Абдуррахман ибн ‘Ауф, вернувшись к своей семье в Мине, обнаружил меня и сказал: “Я сказал ‘Умару: “О повелитель правоверных, поистине, сезон (хаджа) собирает простой люд, подожди до тех пор, пока не прибудешь в Медину — обитель хиджры, Сунны и безопасности. Там ты будешь со знающими, уважаемыми и мудрыми людьми”. Тогда ‘Умар сказал: “Я непременно произнесу эти слова в первую очередь в Медине”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3928</td></tr><tr><td>Arabic No</td><td>3928</td></tr><tr><td>Reference</td><td>Book 63 Hadith 153</td></tr></tbody></table></div>
 

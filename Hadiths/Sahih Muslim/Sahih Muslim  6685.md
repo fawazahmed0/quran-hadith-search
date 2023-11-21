@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:Gabriel impressed upon me (kin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah] dan [Muhammad bin Rumh] dari [Al Laits bin Sa'ad]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdah] dan [Yazid bin Harun] seluruhnya dari [Yahya bin Sa'id]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] lafazh ini miliknya; Telah menceritakan kepada kami ['Abdul Wahhab] yaitu Ats Tsaqafi; Aku mendengar [Yahya bin Sa'id]; Telah mengabarkan kepadaku [Abu Bakr] yaitu Ibnu Muhammad bin 'Amru bin Hazm bahwa ['Amrah] Telah menceritakan kepadanya, dia mendengar [Aisyah] berkata; "Saya pernah mendengar RasuIullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya Jibril terus-menerus berpesan kepadaku tentang tetangga, hingga aku menduga bahwasanya ia akan memberikan hak waris kepada tetangga.'" Telah menceritakan kepadaku ['Amru An Naqid]; Telah menceritakan kepada kami ['Abdul 'Aziz bin Abu Hazim]; Telah menceritakan kepadaku [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6685</td></tr><tr><td>Arabic No</td><td>2624.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6685</td></tr><tr><td>Arabic No</td><td>2624.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 182</td></tr></tbody></table></div>
 

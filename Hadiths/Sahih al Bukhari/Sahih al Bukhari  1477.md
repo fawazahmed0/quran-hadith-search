@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shu'bi:The clerk of Al-Mughira bin Shu'ba narrated, "Muawiya wrote 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] telah menceritakan kepada kami [Khalid Al Hadzdza'] dari [Ibnu Asywa'] dari [Asy-Sya'biy] telah menceritakan kepada saya [Penulis Al Mughirah bin Syu'bah] berkata; Mu'awiyah menulis surat kepada [Al Mughirah bin Syu'bah] (yang isinya); "Tuliskanlah untuk aku sesuatu yang kamu dengar dari Nabi Shallallahu'alaihiwasallam ". Maka dia menulis untuknya: "Aku mendengar Nabi Shallallahu'alaihiwasallam bersabda: " Allah membenci untuk kalian tiga hal: "Orang yang menyampaikan setiap hal yang didengarnya, menyia-nyiakan harta dan banyak bertanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1477</td></tr><tr><td>Arabic No</td><td>1477</td></tr><tr><td>Reference</td><td>Book 24 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что писарь аль-Мугъиры ибн Шу‘бы рассказал о том, что (однажды) Му‘авия написал аль-Мугъире ибн Шу‘ба: «Напиши мне какой-нибудь хадис, который ты слышал от Пророка ﷺ». И аль-Мугъира написал ему в ответ: «Я слышал, как Пророк ﷺ сказал: “Поистине, Аллах запретил вам три вещи: “Заниматься пересудами (бесполезной болтовней), понапрасну расточать (своё) имущество и обращаться (к людям со) множеством просьб и вопросов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1477</td></tr><tr><td>Arabic No</td><td>1477</td></tr><tr><td>Reference</td><td>Book 24 Hadith 78</td></tr></tbody></table></div>
 

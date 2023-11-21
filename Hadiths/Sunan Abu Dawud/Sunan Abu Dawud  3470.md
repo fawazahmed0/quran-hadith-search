@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir bin ‘Abdullah :The Messenger of Allah (ﷺ) as saying: If you w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] dan [Ahmad bin Sa'id Al Mahdani] mereka berkata; telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Ibnu Juraij]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Ma'mar] telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] secara makna, bahwa [Abu Az Zubair Al Makki] mengabarkan kepadanya dari [Jabir bin Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila engkau menjual kurma kepada saudaramu kemudian kurma tersebut rusak, maka tidak halal bagimu untuk mengambil sesuatupun darinya, dengan alasan apakah engkau mengambil harta saudaramu tidak dengan hak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1554)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3470</td></tr><tr><td>Arabic No</td><td>3470</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если ты продал брату своему плоды и их погубило бедствие, то тебе не дозволено брать у него что-либо. На основании чего ты станешь брать имущество брата твоего без права?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1554)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3470</td></tr><tr><td>Arabic No</td><td>3470</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
 

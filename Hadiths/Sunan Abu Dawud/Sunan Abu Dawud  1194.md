@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: There was an eclipse of the sun in the tim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari ['Atha' bin As Sa'ib] dari [ayahnya] dari [Abdullah bin 'Amru] dia berkata; "Pernah terjadi gerhana Matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam berdiri (lama) seakan-akan tidak ruku', lalu ruku' (lama) seakan-akan tidak mengangkat kepala, kemudian mengangkat kepala, seakan-akan tidak sujud, kemudian sujud, seakan-akan tidak mengangkat kepala (duduk di antara dua sujud), kemudian mengangkat kepala (duduk di antara dua sujud) seakan-akan tidak sujud, kemudian sujud seakan-akan tidak bangkit, setelah itu beliau berdiri, beliau juga mengerjakan seperti itu di raka'at berikutnya, kemudian di akhir sujudnya beliau menghembuskan nafas sambil mengucapkan: "Uf, uf." Lalu beliau berdo'a: "Wahai Rabbku, bukankah Engkau telah berjanji kepadaku, bahwa Engkau tidak akan menyiksa mereka, sedangkan aku bersama mereka?, bukankah Engkau telah berjanji kepadaku, bahwa Engkau tidak akan menyiksa mereka, sedangkan mereka memohon ampunan?." Seusainya Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat, matahari menjadi cerah kembali." …kemudian perawi melanjutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1194</td></tr><tr><td>Arabic No</td><td>1194</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Когда при жизни Посланника Аллаха ﷺ произошло солнечное затмение, Посланник Аллаха ﷺ начал молиться. Он стоял так долго, как будто и не собирался совершать поясной поклон. Затем он совершил поясной поклон и оставался в этом положении так долго, словно и не собирался выпрямляться. Затем он выпрямился и стоял так долго, словно и не собирался совершать земной поклон. Затем он совершил земной поклон и оставался в этом положении так долго, словно и не собирался выпрямляться. Потом он выпрямился и сидел так долго, словно и не собирался совершать второй земной поклон. Затем он совершил земной поклон и оставался в этом положении так долго, словно и не собирался вставать. Затем он поднялся и проделал всё то же самое в другом рак‘ате, затем в конце земного поклона подул и издав звук: “Уф, уф”, затем сказал: “Господи, разве Ты не обещал мне, что не станешь наказывать их, пока я нахожусь среди них? Господи, разве Ты не обещал мне, что Ты не станешь наказывать их, пока они просят у Тебя прощения?..” И когда он завершил свою молитву, солнце уже появилось вновь». И он привёл хадис полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1194</td></tr><tr><td>Arabic No</td><td>1194</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
 

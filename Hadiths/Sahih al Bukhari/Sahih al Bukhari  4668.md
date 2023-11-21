@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:When we were ordered to give alms, we began to work as porte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Bisyr bin Khalid Abu Muhammad]; Telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Abu Wail] dari [Abu Mas'ud] dia berkata; Setelah Rasulullah Shalallahu 'Alaihi Wa Sallam memerintahkan kami untuk bersedekah, maka kami saling membawakan sedekah tersebut agar kami mendapatkan pahala darinya, lalu Abu Uqail bersedekah dengan setengah sha', kemudian datang seseorang dengan membawa lebih banyak dari itu, lalu orang-orang munafik berkata; " Allah Azza Wa Jalla benar-benar tidak membutuhkan sedekah orang ini, orang ini tidak melakukannya kecuali dengan riya'. Lalu turun ayat: 'Orang-orang munafik itu yaitu orang-orang yang mencela orang-orang mukmin yang memberi sedekah dengan sukarela dan (mencela) orang-orang yang tidak memperoleh (untuk disedekahkan) selain sekadar kesanggupannya." (Qs. At Taubah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 65 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Ма‘суд, да будет доволен им Аллах, сказал: «Когда нам было велено давать милостыню, мы стали переносить на себе грузы. Абу ‘Акиль пожертвовал половину са‘, а потом какой-то человек принёс больше, и лицемеры стали говорить: “Воистину, Аллах не нуждается в милостыне этого! А другой же сделал это не иначе как напоказ!”» И после этого был ниспослан аят: «Они поносят тех, кто раздаёт добровольные пожертвования, и тех, кто с трудом находит средства для пожертвований. Они глумятся над ними, а Аллах поглумится над ними. Им уготованы мучительные страдания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 65 Hadith 190</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) and said, "O Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abu Al Hasan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Al Auza'i] dia berkata; telah menceritakan kepadaku [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu bahwa seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Wahai Rasulullah, celaka aku!." Beliau menanggapi: "Ada apa denganmu?" laki-laki itu berkata; "Aku telah menggauli isteri di (siang) bulan Ramadhan." Beliau bersabda: "Kalau begitu, bebaskanlah budak." Laki-laki itu berkata; "Aku tidak mampu." Beliau bersabda: "Berpuasalah dua bulan berturut-turut." Laki-laki itu berkata; "Aku tidak mampu." Beliau bersabda: "Berilah makan enam puluh orang miskin." Laki-laki itu berkata; "Aku tidak mampu." Lalu beliau memberinya segantang makanan, dan bersabda: "Ambillah dan bersedekahlah dengannya." Laki-laki itu berkata; "Wahai Rasulullah, apakah ini untuk selain keluargaku? Demi dzat yang jiwaku berada di tangan-Nya, tidak ada seorang pun di antara dua lembah ini (maksudnya Madinah) yang lebih membutuhkan daripada (keluargaku)." Maka Nabi shallallahu 'alaihi wasallam tersenyum hingga terlihat giginya, lalu beliau bersabda: "Kalau begitu ambilah untukmu." Hadits ini juga di perkuat oleh [Yunus] dari [Az Zuhri]. [Abdurrahman bin Khalid] berkata; dari [Az Zuhri] dengan redaksi "wailaka (celaka kamu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6164</td></tr><tr><td>Arabic No</td><td>6164</td></tr><tr><td>Reference</td><td>Book 78 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды к Посланнику Аллаха ﷺ пришёл один человек и сказал: “О Посланник Аллаха, я погиб!” Пророк ﷺ сказал: “Горе тебе!” Человек ответил: “Я вступил в половую близость с женой (днём) в рамадане”. Пророк ﷺ сказал: “Освободи раба”. Человек сказал: “У меня его нет”. Пророк ﷺ сказал: “Тогда постись два месяца подряд”. Человек сказал: “Я не могу”. Пророк ﷺ сказал: “Тогда накорми шестьдесят бедняков”. Он сказал: “Мне нечем их накормить”. После этого Пророку ﷺ принесли корзину с финиками, и он сказал: “Раздай это в качестве милостыни”. Этот человек сказал: “О Посланник Аллаха,(должен ли я раздать это) тем, кто беднее меня? Ведь клянусь Тем, в Чьей Длани душа моя, нет в пределах Медины семьи беднее моей!” Тогда Пророк ﷺ стал смеяться так, что показались его зубы, а потом сказал: “Возьми это (себе)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6164</td></tr><tr><td>Arabic No</td><td>6164</td></tr><tr><td>Reference</td><td>Book 78 Hadith 190</td></tr></tbody></table></div>
 

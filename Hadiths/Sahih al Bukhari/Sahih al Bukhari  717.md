@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin 'Bashir:The Prophet (ﷺ) said, "Straighten your rows or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku ['Amru bin Murrah] berkata, Aku mendengar [Salim bin Abu Al Ja'd] berkata, Aku mendengar [An Nu'man bin Basyir] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Luruskanlah shaf kalian, atau Allah akan memalingkan wajah-wajah kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>717</td></tr><tr><td>Arabic No</td><td>717</td></tr><tr><td>Reference</td><td>Book 10 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Вы непременно должны выравнивать свои ряды, иначе Аллах обязательно изменит ваши лица”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>717</td></tr><tr><td>Arabic No</td><td>717</td></tr><tr><td>Reference</td><td>Book 10 Hadith 112</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) saw sputum on (the wall of) the mosque in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhri] dari [Humaid bin 'Abdurrahman] dari [Abu Sa'id] bahwa Nabi shallallahu 'alaihi wasallam melihat ludah pada arah kiblat masjid, beliau lalu menggosoknya dengan batu kerikil. Kemudian beliau melarang seorang laki-laki meludah ke arah depan atau sebelah kanannya. Tetapi hendaklah ia melakukannya ke arah kiri atau ke bawah kaki kirinya." Dan dari [Az Zuhri] ia mendengar [Humaid] dari [Abu Sa'id] seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>414</td></tr><tr><td>Arabic No</td><td>414</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хумайд ибн ‘Абду-р-Рахман передал от Абу Са‘ида (аль-Худри), да будет доволен им Аллах, о том, что однажды Посланник Аллаха ﷺ увидел в мечети, в направлении къиблы, плевок и соскоблил его камешком, после чего запретил человеку плевать перед собой или справа от себя, и (что это следует делать) только налево или под свою левую ногу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>414</td></tr><tr><td>Arabic No</td><td>414</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
 

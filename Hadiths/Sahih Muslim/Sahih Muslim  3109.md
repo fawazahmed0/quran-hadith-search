@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Ayyoûb (que Dieu l'agrée) rapporte que lors du Hajj d'adieu, il a fait le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sulaiman bin Bilal] dari [Yahya bin Sa'id] telah mengabarkan kepadaku [Adi bin Tsabit] bahwa [Abdullah bin Yazid Al Khathmi] telah menceritakan kepadanya, bahwa [Abu Ayyub] telah mengabarkan kepadanya, bahwa ia pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam pada saat haji Wada', yaitu shalat Maghrib dan Isya' di Muzdalifah. Dan Telah menceritakannya kepada kami [Qutaibah] dan [Ibnu Rumh] dari [Laits bin Sa'id] dari [Yahya bin Sa'id] dengan Isnad ini. Ibnu Rumh berkata di dalam riwayatnya; Dari Abdullah bin Yazid Al Khathmi, ia adalah seorang gubernur Kufah pada masa pemerintahan Ibnu Zubair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3109</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3109</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

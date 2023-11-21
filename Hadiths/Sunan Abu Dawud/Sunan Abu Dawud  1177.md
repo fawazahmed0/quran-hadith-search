@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A'ishah (May Allah be pleased with her):There was an eclipse of the sun
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Ibnu Juraij] dari ['Atha'] dari ['Ubaid bin 'Umair] telah mengabarkan kepadaku [seseorang yang aku percaya] -aku kira yang di maksud oleh 'Ubaid adalah Aisyah- dia berkata; "Telah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam berdiri lama sekali bersama orang-orang. Kemudian beliau ruku', lalu berdiri dan ruku' lagi kemudian berdiri lalu ruku' lagi. Beliau mengerjakan shalat dua raka'at, yang setiap raka'atnya tiga kali ruku'. Setelah ruku' yang ketiga baru beliau sujud. Beberapa orang ketika itu pingsan karena lamanya beliau berdiri bersama mereka, sehingga seember air di percikkan ke tubuh mereka. Apabila ruku' beliau mengucapkan: "Allahu akbar." Dan apabila mengangkat kepala (I'tidal) beliau mengucapkan: "Sami'allahu liman hamidah" sehingga matahari kembali terang. Kemudian berliau bersabda: 'Sesungguhnya gerhana matahari dan bulan terjadi bukan karena matinya atau hidupnya seseorang, akan tetapi keduanya merupakan tanda-tanda kebesaran Allah Azza Wa Jalla untuk memberi peringatan kepada para hamba-Nya, apabila terjadi gerhana, maka bersegeralah kalian melaksanakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1177</td></tr><tr><td>Arabic No</td><td>1177</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал ‘Убайд ибн ‘Умайр, да будет доволен им Аллах: «Мне передал человек, которому я доверяю (скорее всего, он имел в виду ‘Аишу), что при жизни Пророка ﷺ произошло солнечное затмение, и он долго стоял, совершая молитву. Сначала он долго стоял с людьми, потом совершил поясной поклон, потом выпрямился, потом снова совершил поясной поклон, потом выпрямился, потом снова совершил земной поклон. Он совершил два рак‘ата, причём в каждом рак‘ате совершал три поясных поклона и после третьего поясного поклона совершал (два) земных. В тот день некоторые люди даже падали в обморок, не выдерживая долгого стояния, и на них выливали воду из вёдер. Совершая поясной поклон, Посланник Аллаха ﷺ говорил: “Аллах Велик”, а когда выпрямлялся: “Да услышит Аллах того, кто восхваляет Его”. Он молился до тех пор, пока затмение не кончилось, после чего сказал: “Поистине, солнечные и лунные затмения не происходят из-за чьей-то смерти или рождения. Это знамения Всемогущего и Великого Аллаха, посредством которых Он устрашает Своих рабов, поэтому во время затмений прибегайте к молитве”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1177</td></tr><tr><td>Arabic No</td><td>1177</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
 

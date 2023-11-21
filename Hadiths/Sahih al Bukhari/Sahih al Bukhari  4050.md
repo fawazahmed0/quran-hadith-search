@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:When the Prophet (ﷺ) set out for (the battle of) Uhud
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari ['Adi bin Tsabit] aku mendengar [Abdullah bin Yazid] bercerita dari [Zaid bin Tsabit] radliallahu 'anhu, dia berkata, "Ketika Nabi shallallahu 'alaihi wasallam berangkat ke medan Uhud, di tengah perjalanan beberapa orang yang ikut bersama beliau kembali pulang, dan sebab itu sahabat Nabi shallallahu 'alaihi wasallam terpecah menjadi dua kelompok; kelompok yang mengatakan, "Kami akan memerangi mereka, " dan kelompok yang mengatakan, "Kami tidak akan memerangi mereka." Maka turunlah ayat: '(Maka Mengapa kamu (terpecah) menjadi dua golongan dalam (menghadapi) orang-orang munafik, padahal Allah Telah membalikkan mereka kepada kekafiran, disebabkan usaha mereka sendiri?) ' (Qs. An Nisaa: 88), beliau bersabda: "Sesungguhnya hal itu terdapat suatu kebaikan, yang dapat menghapuskan dosa sebagaimana api menghilangkan karat pada perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4050</td></tr><tr><td>Arabic No</td><td>4050</td></tr><tr><td>Reference</td><td>Book 64 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит рассказывал: «Когда Посланник Аллаха ﷺ вышел в поход на Ухуд, некоторые из тех, кто вышел с ним, вернулись обратно. Сподвижники Пророка ﷺ разделились на две группы: одна из них говорила: “Нам следует сразиться с ними”, а другая говорила: “Нам не следует с ними сражаться”. И тогда было ниспослано: “Почему вы разошлись во мнениях относительно лицемерия на две группы? Аллах отбросил их назад за то, что они приобрели” (сура “ан-Ниса”, аят 88). Пророк ﷺ сказал: “Она (Медина) — благая. Она удаляет (от себя) грехи так же, как огонь удаляет примеси от серебра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4050</td></tr><tr><td>Arabic No</td><td>4050</td></tr><tr><td>Reference</td><td>Book 64 Hadith 96</td></tr></tbody></table></div>
 

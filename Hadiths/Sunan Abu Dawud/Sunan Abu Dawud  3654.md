@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Urwah said:Abu Hurairah sat beside the apartment of 'A’ishah while she was pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Manshur Ath Thusi] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Urwah] ia berkata, "Abu Hurairah duduk di samping kamar Aisyah radliallahu 'anha, sementara ia sedang melakukan shalat, Abu Hurairah lalu berkata, "Dengarkan wahai pemilik kamar!" Abu Hurairah mengucapkannya dua kali. Ketika [Aisyah] selesai shalat, ia pun berkata, "Tidakkah engkau (Urwah) kagum terhadap orang ini (Abu Hurairah) dan pembicaraannya? Seandainya Rasulullah shallallahu 'alaihi wasallam menceritakan sebuah hadits jika ada orang yang menghitung ingin menghitung maka ia mampu untuk menghitungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3567) Sahih Muslim (2493)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3654</td></tr><tr><td>Arabic No</td><td>3654</td></tr><tr><td>Reference</td><td>Book 26 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы: «Однажды Абу Хурайра сел возле комнаты ‘Аиши и дважды повторил: “Послушай, о хозяйка комнаты”, а ‘Аиша в это время молилась. Закончив молиться, она сказала ‘Урве: “Не удивляет ли тебя этот человек и его манера рассказывать? Если бы кто-нибудь захотел подсчитать слова Пророка ﷺ когда он рассказывал что-либо, то смог бы сделать это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3567) Sahih Muslim (2493)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3654</td></tr><tr><td>Arabic No</td><td>3654</td></tr><tr><td>Reference</td><td>Book 26 Hadith 14</td></tr></tbody></table></div>
 

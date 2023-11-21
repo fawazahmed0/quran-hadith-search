@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) did something as it was allowed from the relig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafs] telah menceritakan kepada kami [Ayahku] telah mencerikan kepadaku [Al A'masy] telah menceritakan kepada kami [Muslim] dari [Masruq] berkata, " [Aisyah] radliallahu 'anha berkata, "Nabi shallallahu 'alaihi wasallam membuat sesuatu yang diperbolehkan bagi beliau, namun ada beberapa sahabat yang mengingkarinya (tidak mau menyatapnya). Berita itu kemudian sampai kepada nabi shallallahu 'alaihi wasallam, beliau kemudian memuja dan memuji Allah, lantas berkata: "Apa alasan mereka itu menyingkiri sesuatu yang aku buat, demi Allah, aku adalah manusia yang paling mengenal Allah dan paling takut kepada-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7301</td></tr><tr><td>Arabic No</td><td>7301</td></tr><tr><td>Reference</td><td>Book 96 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Аиша, да будет доволен ею Аллах, сказала:«Однажды Пророк ﷺ сделал что-то и разрешил [людям делать] то же самое, но некоторые из них отказались от этого. Когда это дошло до Пророка ﷺ он восхвалил и восславил Аллаха, а потом сказал: “Что происходит с людьми, которые отказываются от того, что я делаю?! Клянусь Аллахом, я знаю об Аллахе больше, чем они, и больше их боюсь Его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7301</td></tr><tr><td>Arabic No</td><td>7301</td></tr><tr><td>Reference</td><td>Book 96 Hadith 32</td></tr></tbody></table></div>
 

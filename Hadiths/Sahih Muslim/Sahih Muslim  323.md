@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hakim b. Hizam reported to 'Urwa b. Zubair that he said to the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] dia berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah mengabarkan kepadaku [Urwah bin az-Zubair] bahwa [Hakim bin Hizam] telah mengabarkan kepadanya, bahwa dia pernah bertanya Rasulullah shallallahu 'alaihi wasallam, "Apa pendapatmu tentang beberapa perkara (kebaikan) yang pernah aku lakukan pada zaman Jahiliyah dulu? Apakah aku akan mendapatkan sesuatu?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Kamu masuk Islam dengan apa yang kamu bawa saat masih jahiliyah baik amal kebajikan atau tahanuts (ibadah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>323</td></tr><tr><td>Arabic No</td><td>123.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаким ибн Хизам рассказал, о том, что (однажды) он спросил Посланника Аллаха ﷺ: «Скажи, полагается ли мне награда за дела поклонения, которые я совершал во времена джахилиййи?» И Посланник Аллаха ﷺ сказал ему: «Ты принял ислам вместе со (всеми) благими делами(, совершёнными тобой) прежде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>323</td></tr><tr><td>Arabic No</td><td>123.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 230</td></tr></tbody></table></div>
 

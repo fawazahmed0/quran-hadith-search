@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), un homme vint trouver l'Envoyé de D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id bin Jamil bin Tharif Ats Tsaqafi] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Jarir] dari ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah] berkata; "Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam lalu dia bertanya, "Siapakah orang yang paling berhak dengan kebaktianku?" Jawab Rasulullah shallallahu 'alaihi wasallam, "Ibumu!" dia bertanya lagi; "Kemudian siapa?" beliau menjawab: "Ibumu!" dia bertanya lagi; "Kemudian siapa?" beliau menjawab: "Kemudian Ibumu!" dia bertanya lagi; "Kemudian siapa?" dijawab: "Kemudian bapakmu!" sedangkan di dalam Hadits Qutaibah disebutkan; 'Siapakah yang paling berhak dengan kebaktianku? -tanpa menyebutkan kalimat; 'An Nas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6500</td></tr><tr><td>Arabic No</td><td>2548.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6500</td></tr><tr><td>Arabic No</td><td>2548.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 1</td></tr></tbody></table></div>
 

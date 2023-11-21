@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There is an angel on ever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Di setiap pintu Masjid terdapat Malaikat yang akan mencatat orang yang pertama kali datang dan seterusnya. Beliau mempermisalkan mereka seperti orang berkurban dengan seekor unta, kemudian diturunkannya lagi hingga seperti seorang yang berkurban dengan sebutir telur. Dan ketika Imam telah duduk, maka shuhuf (lembaran catatan) ditutup, dan para Malaikat pun menyimak khutbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1986</td></tr><tr><td>Arabic No</td><td>850.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(В пятницу) возле каждой двери мечети стоит ангел, который (по порядку) записывает (приходящих на молитву людей) одного за другим». Затем (Пророк ﷺ) сравнил его (с тем, кто приносит в жертву) верблюда, и дальше в порядке убывания, пока не сравнил (с тем, кто приносит в жертву) яйцо. Затем он сказал: «А когда имам усаживается (на минбаре), они сворачивают (свои) свитки и приходят (слушать слова) поминания (Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1986</td></tr><tr><td>Arabic No</td><td>850.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 36</td></tr></tbody></table></div>
 

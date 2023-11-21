@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Simak b. Harb reported:I said to Jabir b. Samura: Did you sit in the company of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus], telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Simak] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Yahya bin Yahya] dan lafadz ada padanya, dia berkata; telah mengabarkan kepada kami [Abu Khaitsamah] dari [Simak bin Harb] katanya; aku berkata kepada [Jabir bin Samurah]; "Mungkin anda pernah duduk-duduk bersama Rasulullah shallallahu 'alaihi wasallam? Dia menjawab; "Ya, dan itu banyak kesempatan, Beliau shallallahu 'alaihi wasallam tidak pernah beranjak dari tempat shalatnya ketika subuh atau pagi hari hingga matahari terbit, jika matahari terbit, maka beliau beranjak pergi. Para sahabat seringkali bercerita-cerita dan berkisah-kisah semasa jahiliyahnya, lantas mereka pun tertawa, namun beliau hanya tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1525</td></tr><tr><td>Arabic No</td><td>670.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 358</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Симак ибн Харб сказал: «Однажды я спросил Джабира ибн Самуру: “Приходилось ли тебе сидеть вместе с Посланником Аллаха ﷺ”, и он сказал: “Да, много раз. Обычно он не покидал места совершения утренней молитвы до восхода солнца и вставал, когда оно поднималось (над горизонтом). (В это время люди) беседовали, обсуждали события времён джахилиййи и смеялись, (Пророк ﷺ же только) улыбался”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1525</td></tr><tr><td>Arabic No</td><td>670.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 358</td></tr></tbody></table></div>
 

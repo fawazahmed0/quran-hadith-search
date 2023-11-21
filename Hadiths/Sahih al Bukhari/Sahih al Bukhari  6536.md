@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:'Aisha said, "The Prophet (ﷺ) said, 'Anybody whose ac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Utsman bin Al Aswad] dari [Ibnu Abi Mulaikah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang hisabnya dituntut (dinampakkan), maka ia disiksa." Kata Aisyah, saya bertanya; Bukankah Allah ta'ala berfirman 'Maka ia dihisab dengan hisab yang mudah? (QS. Al Insyiqaq 8), Nabi menjawab; "ayat itu maksudnya hanyalah 'ardh (hari ketika amal diperlihatkan) ". Telah menceritakan kepadaku ['Amru bin 'Ali] telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Utsman bin Al Aswad], aku mendengar [Ibnu Abi Mulaikah] mengatakan; aku mendengar ['Aisyah] radliallahu 'anha mengatakan, aku mendengar Nabi Shallallahu'alaihiwasallam bersabda semisal hadits diatas. Dan hadits ini diperkuat oleh [Ibnu Juraij], [Muhammad bin Sulaim], [Ayyub] dan [Shalih bin rustum] dari [Ibnu Abi Mulaikah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6536</td></tr><tr><td>Arabic No</td><td>6536</td></tr><tr><td>Reference</td><td>Book 81 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Пророк ﷺ сказал: “Тот, у кого потребуют (полного) отчёта, будет подвергнут наказанию”. Я спросила: “Разве Всевышний Аллах не говорит: “…он непременно будет рассчитан расчётом лёгким…”? (сура “аль-Иншикак”, аят 8) ” (В ответ на это Пророк ﷺ) сказал: “Это представление дел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6536</td></tr><tr><td>Arabic No</td><td>6536</td></tr><tr><td>Reference</td><td>Book 81 Hadith 125</td></tr></tbody></table></div>
 

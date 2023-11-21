@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas that the Quraish made peace with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa orang-orang Quraisy pernah mengadakan perjanjian damai dengan Nabi shallallahu 'alaihi wasallam. Sedangkan dikalangan mereka terdapat Suhail bin 'Amru. Maka Nabi shallallahu 'alaihi wasallam bersabda kepada Ali: "Tulsilah Bismillahirrahmanirrahim." Suhail berkata, "Aku tidak tahu apa itu Bismillahirrahmanirrahim, akan tetapi tulislah sebagaimana yang kami ketahui yaitu, 'Bismikallahumma'." Beliau bersabda: "Tulislah dari Muhammad Rasulullah." Mereka berkata, "Sekiranya kami mengetahui bahwa kamu adalah Rasulullah, sungguh kami akan mengikutimu, akan tetapi tulislah namamu dan nama ayahmu." Lantas Nabi shallallahu 'alaihi wasallam bersabda: "Tulislah dari Muhammad bin Abdullah." Kemudian mereka mengajukan persyaratan-persyaratan kepada Nabi shallallahu 'alaihi wasallam, di antaranya ialah, bahwa setiap orang yang datang dari pihak kalian, maka kami tidak akan mengembalikannya kepada kalian, namun jika pihak kami ada yang datang kepada kalian, maka kalian harus mengembalikannya kepada kami." Maka para sahabat bertanya, "Wahai Rasulullah, apakah kita harus menulis persyaratan tersebut?" beliau menjawab: "Ya, sebab orang-orang kita yang pergi kepada mereka, maka Allah akan menjauhkannya (dari rahmat-Nya), namun jika dari pihak mereka datang kepada kita, mudah-mudahan Allah memberikan jalan keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>1784</td></tr><tr><td>Reference</td><td>Book 32 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>1784</td></tr><tr><td>Reference</td><td>Book 32 Hadith 114</td></tr></tbody></table></div>
 

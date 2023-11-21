@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ata' ibn Yasar: The Prophet (ﷺ) said: When one of you is in doubt abo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1026</td></tr><tr><td>Arabic No</td><td>1026</td></tr><tr><td>Reference</td><td>Book 2 Hadith 637</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ата ибн Ясар передаёт, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас засомневается в своей молитве, не зная точно, три рак‘ата он совершил или четыре, пусть он совершит ещё один рак‘ат, а потом два земных поклона во время сидения перед таслимом. Если это был пятый рак‘ат, то он дополнит её до чётного числа рак‘атов этими двумя (земными поклонами). Если же он был четвёртым, два земных поклона станут действием наперекор шайтану»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1026</td></tr><tr><td>Arabic No</td><td>1026</td></tr><tr><td>Reference</td><td>Book 2 Hadith 637</td></tr></tbody></table></div>
 

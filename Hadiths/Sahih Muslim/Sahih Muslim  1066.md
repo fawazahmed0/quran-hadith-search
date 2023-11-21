@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. Huraith reported:I said the dawn prayer behind the Apostle of (ﷺ) and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhriz bin 'Aun bin Abi 'Aun] telah menceritakan kepada kami [Khalaf bin Khalifah al-Asyja'i Abu Ahmad] dari [al-Walid bin Sari' maula Alu Amru bin Huraits] dari [Amru bin Huraits] dia berkata, "Saya shalat shubuh di belakang Nabi Shallallahu'alaihiwasallam, lalu saya mendengarnya membaca, 'Falaa Uqsimu bi al-Khunnas al-Jawar al-Kunnas, ' (QS. Attakwir), dan dahulu tidak seorang pun dari kami memelengkungkan punggungnya hingga menyempurnakan sujudnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1066</td></tr><tr><td>Arabic No</td><td>475</td></tr><tr><td>Reference</td><td>Book 4 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Хурайс сказал: «Совершая утреннюю молитву /фаджр/ позади Пророка ﷺ, я слышал, как он читал: “Но нет! Клянусь планетами отступающими, передвигающимися и исчезающими!” (Сура «ат-Такуир», аят 16). И никто из нас не сгибал спины, пока он полностью не совершал земной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1066</td></tr><tr><td>Arabic No</td><td>475</td></tr><tr><td>Reference</td><td>Book 4 Hadith 228</td></tr></tbody></table></div>
 

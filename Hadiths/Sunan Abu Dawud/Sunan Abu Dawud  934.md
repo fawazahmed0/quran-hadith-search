@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When the Messenger of Allah (ﷺ) recited the verse "Not o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepada kami [Shafwan bin Isa] dari [Bisyr bin Rafi'] dari [Abu Abdullah anak paman Abu Hurairah] dari [Abu Hurairah] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam membaca "Ghairil maghdluubi 'alaihim waladl dlaallin", beliau mengucapkan; "Amin" sehingga orang yang berada di belakang beliau di shaf pertama mendengar beliau ucapan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>934</td></tr><tr><td>Arabic No</td><td>934</td></tr><tr><td>Reference</td><td>Book 2 Hadith 545</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ читал: «…не тех, на кого пал гнев, и не заблудших”, а потом произносил: «Амин» так, что его слышали (молящиеся под его руководством, стоящие) позади него в первом ряду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>934</td></tr><tr><td>Arabic No</td><td>934</td></tr><tr><td>Reference</td><td>Book 2 Hadith 545</td></tr></tbody></table></div>
 

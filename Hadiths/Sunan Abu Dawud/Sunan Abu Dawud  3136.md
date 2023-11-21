@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Messenger of Allah (ﷺ) passed Hamzah who was kill
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?] telah menceritakan kepada kami [Zaid bin Al Hubab], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Abu Shafwan Al Marwazi], dari [Usamah] dari [Az Zuhri] dari [Anas bin Malik] secara makna bahwa Rasulullah shallallahu 'alaihi wasallam pernah melewati Hamzah dalam keadaan telah tercincang. Kemudian beliau berkata: "Seandainya Shafiyyah tidak mencintainya, niscaya aku biarkan dia hingga dimakan binatang yang sedang mencari makanan, sampai ia dikumpulkan pada Hari Kiamat dari perut binatang tersebut." Pada saat itu jumlah kain sedikit, dan orang yang terbunuh banyak, sehingga satu orang, dua orang dan tiga orang dikafani dalam satu kain. Qutaibah berkata; kemudian mereka dikuburkan dalam satu kuburan. Rasululullah bertanya: "Siapakah yang paling banyak hafalan Al Qur'annya?" Kemudian beliau mendahulukannya menghadap ke Kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3136</td></tr><tr><td>Arabic No</td><td>3136</td></tr><tr><td>Reference</td><td>Book 21 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал, проходя мимо обезображенного тела Хамзы: «Если бы не гнев и печаль Сафиййи, я бы оставил его, чтобы звери и птицы, поедающие падаль, растерзали его, а потом Аллах воскресил бы его после того, как он выйдет из их животов». Одежды было мало, а убитых много, и их заворачивали в саван не по одному, а по два и по три. Кутайба, один из передатчиков хадиса, добавил, что их хоронили в одной могиле. Посланник Аллаха ﷺ спрашивал, кто из них больше знал из Корана, и велел класть его первым, в сторону киблы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3136</td></tr><tr><td>Arabic No</td><td>3136</td></tr><tr><td>Reference</td><td>Book 21 Hadith 48</td></tr></tbody></table></div>
 

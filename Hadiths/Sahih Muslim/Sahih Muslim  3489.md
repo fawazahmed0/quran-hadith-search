@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama b. 'Abd al-Rahman reported:I asked 'A'isha, the wife of Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdul Aziz bin Muhammad] telah menceritakan kepadaku [Yazid bin Abdullah bin Usamah bin Mahdi]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Muhammad bin Abi Umar Al Makki] sedangkan lafazhnya dari dia, telah menceritakan kepada kami [Abdul Aziz] dari [Yazid] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman] bahwa dia berkata; Saya pernah bertanya kepada ['Aisyah], istri Nabi shallallahu 'alaihi wasallam; "Berapakah maskawin Rasulullah shallallahu 'alaihi wasallam?" Dia menjawab; "Mahar beliau terhadap para istrinya adalah dua belas uqiyah dan satu nasy. Tahukah kamu, berapakah satu nasy itu?" Abu Salamah berkata; Saya menjawab; "Tidak." 'Aisyah berkata; "Setengah uqiyah, jumlahnya sama dengan lima ratus dirham. Demikianlah maskawin Rasulullah shallallahu 'alaihi wasallam untuk masing-masing istri beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3489</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 16 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада ибн Ибрахима, что Абу Саляма ибн ‘Абдуррахман сказал: «(Однажды) я спро­сил у ‘Аиши, жены Пророка ﷺ: “Каков был брачный дар Посланника Аллаха ﷺ?” Она сказала: “(В качестве) брачного дара (он давал каждой из) своих жён двенадцать укъий и (один) нашш (серебра)”. (Затем ‘Аиша) спросила: “Зна­ешь ли ты, что такое нашш?” Я ответил: “Нет”. Тогда она сказала: “Поло­вина укъии, в целом же это равнялось пятистам дирхемам. Такой брач­ный дар Посланник Аллаха ﷺ (делал каждой из своих) жён”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3489</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 16 Hadith 91</td></tr></tbody></table></div>
 

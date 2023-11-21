@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Two women from Hudhail fought with each other and one of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dari [Ibnul Musayyab] dan [Abu Salamah bin Abdurrahman], [Abu Hurairah] radliallahu 'anhu mengatakan; Ada dua wnaita Hudzail yang berkelahi sehingga salah satunya melempar yang lain dengan batu sehingga membunuhnya dan menggugurkan kandungannya, lantas orang-orang mengadukan sengketa ini kepada Nabi shallallahu 'alaihi wasallam, dan beliau putuskan diyat janin sebesar ghurrah, setara budak laki-laki atau hamba sahaya perempuan, beliau putuskan diyat wanita ditanggung 'aqilah-nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6910</td></tr><tr><td>Arabic No</td><td>6910</td></tr><tr><td>Reference</td><td>Book 87 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(В своё время) две женщины из племени хузайль (подрались), и одна из них бросила в другую камень, убив её и ребёнка, (которым она была беременна). Затем они обратились за решением своей тяжбы к Пророку ﷺ, и он постановил, что за плод необходимо выплатить компенсацию — раба или рабыню, а компенсацию (за убийство) женщины должны выплатить родственники убившей со стороны отца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6910</td></tr><tr><td>Arabic No</td><td>6910</td></tr><tr><td>Reference</td><td>Book 87 Hadith 48</td></tr></tbody></table></div>
 

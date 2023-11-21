@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:(the mother of the faithful believers) I never saw Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] Ummul Mukminin bahwasanya ia mengabarinya bahwa ia tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam sekalipun mendirikan shalat malam dengan duduk hingga beliau beranjak tua. Saat tua itulah Beliau membaca surat dengan duduk, hingga jika Beliau akan ruku' maka Beliau berdiri dan Beliau baca sekitar tiga puluh atau empat puluh ayat kemudian Beliau ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1118</td></tr><tr><td>Arabic No</td><td>1118</td></tr><tr><td>Reference</td><td>Book 18 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов матери правоверных ‘Аиши, да будет доволен ею Аллах, что до тех пор, пока Посланник Аллаха ﷺ не достиг преклонного возраста, она никогда не видела, чтобы он совершал намаз ночью сидя, и (только после этого) он стал читать Коран сидя. Когда же он хотел совершить поясной поклон, то вставал, прочитывал тридцать или сорок аятов, а потом совершал поклоны
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1118</td></tr><tr><td>Arabic No</td><td>1118</td></tr><tr><td>Reference</td><td>Book 18 Hadith 38</td></tr></tbody></table></div>
 

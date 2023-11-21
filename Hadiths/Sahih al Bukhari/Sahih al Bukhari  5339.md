@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Habiba:The Prophet (ﷺ) said, "It is not lawful for a Muslim woman 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5339</td></tr><tr><td>Arabic No</td><td>5339</td></tr><tr><td>Reference</td><td>Book 68 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Умм Хабибы, что Пророк ﷺ сказал: «Не дозволено женщине, верующей в Аллаха и в Последний день соблюдать траур свыше трёх дней по кому-то, кроме мужа, — по нему она должна соблюдать траур четыре месяца и десять дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5339</td></tr><tr><td>Arabic No</td><td>5339</td></tr><tr><td>Reference</td><td>Book 68 Hadith 84</td></tr></tbody></table></div>
 

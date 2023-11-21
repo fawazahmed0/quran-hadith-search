@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:I asked the Prophet (ﷺ) during his Hajj, "O Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Mahmud] telah mengabarkan kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Ali bin Husain] dari ['Amru bin 'Utsman bin 'Affan] dari [Usamah bin Zaid] berkatal; "Aku bertanya kepada Rasulullah Shallallahu'alaiwasallam, dimana besok Baginda akan singgah dalam perjalanan haji baginda?". Beliau menjawab: "Apakah Aqil telah menyiapkan suatu tempat singgah buat kita?". Kemudian Beliau berkata: "Kita singgah besok di lembah Bani Kinanah yaitu Al Muhashshab, tempat yang dahulu dipergunakan orang-orang Quraisy bersumpah diatas kekafiran. Yaitu suatu peristiwa ketika Banu Kinanah mengambil sumpah Quraisy untuk mengalahkan Bani Hasyim, mereka bersumpah untuk tidak akan berjual beli dengan mereka (Bani Hasyim) dan tidak akan memberi perlindungan kepada mereka". Az Zuhriy berkata; "Al Khaif adalah Al wadiy (lembah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 56 Hadith 263</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Усамы ибн Зейда, что он спросил Пророка ﷺ во время хаджа: «О Посланник Аллаха, где ты остановишься завтра?» Он ответил: «А разве ‘Акыль оставил нам место, где можно остановиться?» Затем он сказал: «Завтра мы остановимся в Хайфе бану кинана, то есть аль-Мухассабе, где курайшиты дали клятву о том, что останутся на неверии». Это было, когда бану кинана вступил в союз с курайшитами против бану хашима на условиях, что они не будут иметь с ними дел или предоставлять им убежище». Аз-Зухри сказал: «Аль-Хайф означает долина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 56 Hadith 263</td></tr></tbody></table></div>
 

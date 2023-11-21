@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Prophet (said) said: A bier should not be followed by
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Abdushshamad], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibnu Al Mutsanna] Telah menceritakan kepada kami [Abu Daud] mereka berkata; telah menceritakan kepada kami [Harb bin Syaddad], telah menceritakan kepada kami [Yahya] telah menceritakan kepadaku [Bab bin 'Umair], telah menceritakan kepadaku [seorang laki-laki dari penduduk Madinah], dari [ayahnya], dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak boleh jenazah diiringi dengan suara dan api." Harun menambahkan; dan tidak boleh ada yang berjalan di depannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3171</td></tr><tr><td>Arabic No</td><td>3171</td></tr><tr><td>Reference</td><td>Book 21 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Похоронную процессию не следует провожать ни голосом, ни огнём». А в версии (передатчика) Харуна имеется добавление: «И не следует идти перед ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3171</td></tr><tr><td>Arabic No</td><td>3171</td></tr><tr><td>Reference</td><td>Book 21 Hadith 83</td></tr></tbody></table></div>
 

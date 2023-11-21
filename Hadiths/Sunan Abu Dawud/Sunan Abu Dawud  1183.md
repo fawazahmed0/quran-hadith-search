@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) prayed at solar eclipse; he recited from t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada kami [Habib bin Abu Tsabit] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam bahwa beliau mengerjakan shalat gerhana, lalu beliau membaca (Al Fatihah dan surat Al Qur'an) lalu ruku', kemudian membaca, kemudian ruku', kemudian membaca, kemudian ruku', kemudian membaca, kemudian ruku', kemudian sujud. Beliau mengerjakan seperti itu di raka'at berikutnya (raka'at kedua)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (909)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1183</td></tr><tr><td>Arabic No</td><td>1183</td></tr><tr><td>Reference</td><td>Book 3 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ совершая молитву во время солнечного затмения, читал аяты, потом совершил поясной поклон, потом снова читал аяты, потом снова совершил поясной поклон, потом снова читал аяты, потом снова совершил поясной поклон, потом снова читал аяты, потом снова совершил поясной поклон, потом совершил земные поклоны, потом проделал всё то же самое во втором рак‘ате
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (909)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1183</td></tr><tr><td>Arabic No</td><td>1183</td></tr><tr><td>Reference</td><td>Book 3 Hadith 23</td></tr></tbody></table></div>
 

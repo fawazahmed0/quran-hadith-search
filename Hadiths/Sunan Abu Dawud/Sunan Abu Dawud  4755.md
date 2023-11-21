@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] dan [Humaid bin Mas'adah] bahwa [Isma'il bin Ibrahim] menceritakan kepada mereka, ia berkata; telah mengabarkan kepada kami [Yunus] dari [Al Hasan] dari ['Aisyah] Bahwasanya ia mengingat-ingat neraka lalu menangis. Rasulullah shallallahu 'alaihi wasallam lantas bertanya: "Apa yang membuatmu menangis?" 'Aisyah menjawab, "Aku ingat dengan neraka, lalu aku menangis. Apakah kalian mengingat keluarga kalian pada hari kiamat?" Beliau bersabda: "Ada tiga tempat seseorang tidak akan lagi ingat kepada orang lain; saat berada di atas mizan (timbangan amal) hingga ia tahu apakah timbangannya lebih ringan atau berat, ketika menerima buku amalan, yaitu saat dikatakan kepadanya, 'Ambillah, bacalah kitabku (ini) ', hingga ia tahu dari mana bukunya akan diberikan dari sebelah kanan atau sebelah kiri atau dari belakang punggungnya. Dan ketika di atas shirath, yaitu titian di antara dua punggung jahannam." Ya'qub menyebutkan dari Yunus, dan ini adalah lafadz haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4755</td></tr><tr><td>Arabic No</td><td>4755</td></tr><tr><td>Reference</td><td>Book 42 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что однажды она вспомнила об огне и заплакала. Посланник Аллаха ﷺ спросил: «Что заставляет тебя плакать?» Она ответила: «Я вспомнила об аде и заплакала. Вспомните ли вы свои семьи в Судный день?» Посланник Аллаха ﷺ сказал: «В трёх случаях никто никого не вспомнит. У весов, пока не узнает человек, какая чаша с его делами перевесит; когда будут розданы свитки с записями дел и будет сказано: “Вот, читайте свою книгу”, пока не узнает человек, в правую руку или же в левую руку из-за спины вручат ему его свиток; а также на сырате, когда он будет переброшен над адом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4755</td></tr><tr><td>Arabic No</td><td>4755</td></tr><tr><td>Reference</td><td>Book 42 Hadith 160</td></tr></tbody></table></div>
 

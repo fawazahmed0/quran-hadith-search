@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. 'Abd Allah reported the Messenger of Allah (ﷺ) as saying:Do not invok
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hisyam bin 'Ammar] dan [Yahya bin Al Fadhl] serta [Sulaiman bin Abdurrahma], mereka berkata; telah menceritakan kepada Kami [Hatim bin Ismail], telah menceritakan kepada Kami [Ya'qub bin Mujahid Abu Hazrah] dari ['Ubadah bin Al Walid bin 'Ubadah bin Ash Shamit] dari [Jabir bin Abdullah], ia berkata; Rasulullah shallla Allahu 'alaihi wa sallam bersabda: "Janganlah kalian mendo'akan kecelakaan atas diri kalian, janganlah kalian mendo'akan kecelakaan bagi anak-anak kalian, dan janganlah kalian mendo'akan kecelakaan atas pembantu kalian, dan janganlah kalian mendo'akan kecelakaan atas harta kalian, jangan sampai kalian berdoa tepat saat diperolehnya pemberian sehingga Allah mengabulkan do'a kalian. Abu Daud berkata; hadits ini adalah hadits yang muttashil (yaitu yang sanadnya bersambung kepada Rasulullah shallAllahu wa'alaihi wa sallam) sebab 'Ubadah bin Al Walid bin 'Ubadah bertemu dengan Jabir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1532</td></tr><tr><td>Arabic No</td><td>1532</td></tr><tr><td>Reference</td><td>Book 8 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Не призывайте проклятий на самих себя, и не призывайте проклятий на детей ваших, и не призывайте проклятий на ваших слуг и не призывайте проклятий на имущество ваше (, чтобы это случайно) не совпало с таким периодом времени, когда обращаются к Аллаху с просьбами о дарах, ибо тогда Он ответит вам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1532</td></tr><tr><td>Arabic No</td><td>1532</td></tr><tr><td>Reference</td><td>Book 8 Hadith 117</td></tr></tbody></table></div>
 

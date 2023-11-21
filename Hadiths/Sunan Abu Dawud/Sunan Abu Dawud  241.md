@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Jumay' ibn Umayr, one of the sons of Banu Taym A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Za'idah bin Qudamah] dari [Shadaqah] telah menceritakan kepada kami [Juma'i bin Umair] salah seorang Bani Taimillah bin Tsa'labah, dia berkata; Saya bersama ibu dan bibi saya pernah menemui ['Aisyah], lalu salah satu dari keduanya bertanya; Bagaimana kalian mandi? Maka Aisyah menjawab; Rasulullah shallallahu 'alaihi wasallam berwudhu terlebih dahulu sebagaimana wudhunya ketika mau shalat, kemudian menuangkan air ke atas kepalanya tiga kali, sedangkan kami (istri-istri beliau) menuangkan air ke atas kepala kami lima kali karena ada jalinan rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>241</td></tr><tr><td>Arabic No</td><td>241</td></tr><tr><td>Reference</td><td>Book 1 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джумай‘ ибн ‘Умайр, человек из племени Бани Тайми-л-Лахи ибн Са‘лаба, сказал: «Однажды я в сопровождении своей матери и тети зашел к ‘Аише, и одна из них спросила ее: “Как вы купаетесь?” ‘Аиша ответила: “Посланник Аллаха ﷺ совершал такое же омовение, которое совершается для молитвы /вудуъ/, затем наливал (воду) на свою голову три раза. Но мы наливаем воду на свои головы по пять раз из-за кос”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>241</td></tr><tr><td>Arabic No</td><td>241</td></tr><tr><td>Reference</td><td>Book 1 Hadith 241</td></tr></tbody></table></div>
 

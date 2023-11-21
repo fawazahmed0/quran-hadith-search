@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jubair b. Mu'tim:The Messenger of Allah (ﷺ) as saying: There is no al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Muhammad bin Bisyr] dan [Ibnu Numair] serta [Abu Usamah] dari [Zakariya] dari [Sa'd bin Ibrahim] dari [ayahnya] dari [Jubair bin Muth'im], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada perjanjian (melakukan hal-hal yang dilarang syariat) dalam Islam, apapun bentuk bentuk perjanjian yang telah dilakukan pada masa jahiliyah (berkenaan dengan hal-hal kebaikan) maka Islam akan mengukuhkan dan menguatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2530)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2925</td></tr><tr><td>Arabic No</td><td>2925</td></tr><tr><td>Reference</td><td>Book 19 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джубайра ибн Мут‘има, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «В исламе нет союза. А всякий (благой) союз, заключённый во времена невежества, ислам только подкрепляет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2530)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2925</td></tr><tr><td>Arabic No</td><td>2925</td></tr><tr><td>Reference</td><td>Book 19 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad:We were with Abu Huraira while he was wearing two linen garmen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Muhammad] berkata, "Pernah kami berada di sisi [Abu Hurairah] yang saat itu mengenakan dua kain kapas yang sudah rombeng (koyak), "Bakh..bakh (ungkapan karena senang), Abu Hurairah berbajukan kain wool?" padahal aku pernah tersungkur antara mimbar Rasulullah shallallahu 'alaihi wasallam hingga kamar Aisyah dengan setengah pingsan, lantas ada seseorang datang dan meletakkan kakinya di tengkuknya, terlihat aku seolah-olah gila, padahal aku tidak gila, hanya karena aku sangat kelaparan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7324</td></tr><tr><td>Arabic No</td><td>7324</td></tr><tr><td>Reference</td><td>Book 96 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада (ибн Сирина): «Однажды мы находились возле Абу Хурайры, и на нём были два хлопчатых полотнища, выкрашенные красной глиной [или красной охрой]. Он высморкался (в одно из них), а потом сказал: “Ах-ах! Абу Хурайра сморкается в хлопчатую ткань! А ведь было время, когда я падал, теряя сознание, между минбаром Посланника Аллаха ﷺ и комнатой ‘Аиши, и кто-то из людей подходил и клал ногу мне на шею, полагая, что я сумасшедший. Но это было не сумасшествие — это был всего лишь голод”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7324</td></tr><tr><td>Arabic No</td><td>7324</td></tr><tr><td>Reference</td><td>Book 96 Hadith 54</td></tr></tbody></table></div>
 

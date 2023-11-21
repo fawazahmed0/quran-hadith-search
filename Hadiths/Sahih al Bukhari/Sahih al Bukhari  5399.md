@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:While I was with the Prophet (ﷺ) he said to a man who was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Utsman bin Abu Syaibah] Telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Ali bin Al Aqmar] dari [Abu Juhaifah] ia berkata; Suatu ketika, apa berada di sisi Nabi shallallahu 'alaihi wasallam, kemudian beliau bersabda kepada seorang laki-laki yang ada di sisinya: "Aku tidak akan makan sambil bersandar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5399</td></tr><tr><td>Arabic No</td><td>5399</td></tr><tr><td>Reference</td><td>Book 70 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа, да будет доволен им Аллах, сказал: «(Однажды, когда) я был у Пророка ﷺ он сказал человеку, (также) находившемуся у него: “Во время еды я ни на что не облокачиваюсь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5399</td></tr><tr><td>Arabic No</td><td>5399</td></tr><tr><td>Reference</td><td>Book 70 Hadith 27</td></tr></tbody></table></div>
 

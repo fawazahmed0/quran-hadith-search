@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. Sharid reported his father as saying:One day when I rode behind Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] dan [Ibnu Abu 'Umar] keduanya dari [Ibnu 'Uyainah]. [Ibnu Abu 'Umar] berkata; Telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Maisarah] dari ['Amru bin Asy Syarid] dari [Bapaknya] dia berkata; 'Pada suatu hari aku dibonceng oleh Rasulullah shallallahu 'alaihi wasallam, lalu beliau bertanya kepadaku; 'Apakah kamu hafal syairnya Umayyah bin Abu Shalt? Aku menjawab; 'Ya.' Kata beliau; 'Lantunkanlah untukku! ' lalu aku melantunkannya satu bait syair. Kemudian beliau berkata; 'Tambah lagi! Kemudian aku lantunkan lagi. Namun beliau berkata; 'Tambah lagi! ' hingga aku melantunkannya sebanyak seratus bait. Dan telah menceritakannya kepadaku [Zuhair bin Harb] dan [Ahmad bin Abdah] seluruhnya dari [Ibnu Uyainah] dari [Ibrahim bin Maisarah] dari [Amru bin Syarid] atau [Ya'qub bin 'Ashim bin As Syarid] dia berkata; 'Pada suatu hari Rasulullah shallallahu 'alaihi wasallam memboncengku. -lalu dia menyebutkan Hadits yang serupa.- Dan Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Al Mu'tamir bin Sulaiman]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] keduanya dari ['Abdullah bin 'Abdur Rahman Ath Thaifi] dari ['Amru bin Asy Syarid] dari [Bapaknya] dia berkata; Rasulullah shallallahu 'alaihi wasallam memintaku untuk menyenandungkan syair….-serupa dengan Hadits Ibrahim bin Maisarah- namun ada tambahan; 'Hampir saja dia masuk Islam.' Di dalam Hadits Ibnu Mahdi di sebutkan; 'Sungguh hampir saja dia masuk Islam karena syairnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5886</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5886</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:We who are the last shall
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Amru An Naqid] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kita (umat Muhammad) adalah umat yang terakhir (datang ke dunia), tetapi kita adalah umat yang terdahulu (diadili) pada hari kiamat. Padahal seluruh umat telah diberi kitab sebelum kita, sedangkan kita (diberi kitab) setelah mereka. Kemudian pada hari ini, yakni hari yang telah ditetapkan oleh Allah untuk kita, Allah telah memberikan petunjuk kepada kita. Dan umat-umat lain terkait dengan hari itu adalah pengikut, bagi orang-orang Yahudi adalah esok, sementara bagi orang-orang Nasrani adalah esok lusa." Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] dan [Ibnu Thawus] dari [bapaknya] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kita (umat Muhammad) adalah umat yang terakhir (datang ke dunia), tetapi kita adalah umat yang terdahulu (diadili) pada hari kiamat." Yakni dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1978</td></tr><tr><td>Arabic No</td><td>855.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Мы последние, (но) в День воскресения (мы станем) первыми, хотя другим общинам Писание было даровано раньше нас, а нам позже них. Затем , этот день, (почитать) который обязал нас Аллах, нам Аллах указал путь к нему, и в этом отношении люди следуют за нами: иудеи (почитают) следующий день (то есть суббота), а христиане тот, что следует за ним (то есть воскресенье)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1978</td></tr><tr><td>Arabic No</td><td>855.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:I heard Sa'id bin Zaid bin 'Amr bin Nufail saying in the mosque of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari [Isma'il] dari [Qais] berkata, aku mendengar [Sa'id bin Zaid bin 'Amru bin Nufail] di dalam masjid Kufah berkata; "Demi Allah, sungguh aku melihat diriku, dan sesungghnya 'Umar adalah orang yang mengikatku karena (aku masuk) Islam sebelum 'Umar masuk Islam. Dan seandainya gunung Uhud bisa lenyap dari tempatnya, tentu akan lenyap karena perbuatan kalian terhadap 'Utsman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3862</td></tr><tr><td>Arabic No</td><td>3862</td></tr><tr><td>Reference</td><td>Book 63 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Зейд ибн ‘Амр ибн Нуфейль говорил в мечети аль-Куфы: «Клянусь Аллахом, ‘Умар связал меня за то, что я принял ислам, (этого было) до того, как ‘Умар сам принял ислам. И если бы гора Ухуд могла сдвинуться со своего места за то, что вы сделали с Усманом, то она так и сделала бы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3862</td></tr><tr><td>Arabic No</td><td>3862</td></tr><tr><td>Reference</td><td>Book 63 Hadith 87</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), 'Aflah, frère de Abou Al-Qu'ays, q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Ibnu Syihab] dari [Urwah bin Zubair] dari ['Aisyah] bahwa dia telah mengabarkan kepadanya bahwa Aflah, yaitu saudara Abu Al Qu'ias, datang meminta izin untuk menemuinya, dia adalah pamannya dari hubungan sesusuan, itu terjadi setelah turunnya ayat tentang hijab. Dia ('Aisyah) melanjutkan; Saya enggan untuk mengizinkan dia masuk. Tatkala Rasulullah shallallahu 'alaihi wasallam datang, saya mengabarkan kepada beliau mengenai apa yang baru saya alami, lantas beliau menyuruhku supaya mengizinkannya masuk menemuiku. Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata; Paman dari saudara sesususanku yaitu Aflah bin Abu Al Qu'ais telah datang menemuiku, kemudian dia meneyebutkan seperti makna hadits Malik dengan menambahkan; hanya saja yang menyusuiku adalah seorang wanita, bukan seorang laki-laki? Beliau menjawab: "Kamu telah beruntung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3571</td></tr><tr><td>Arabic No</td><td>1445.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3571</td></tr><tr><td>Arabic No</td><td>1445.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 4</td></tr></tbody></table></div>
 

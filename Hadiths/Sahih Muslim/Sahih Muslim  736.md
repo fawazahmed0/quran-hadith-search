@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that the Messenger of Allah (may peace he upon him) took a bath wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>736</td></tr><tr><td>Arabic No</td><td>325.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Посланник Аллаха ﷺ совершал большое омовение пятью “маккуками”, а малое омовение используя “маккук” (чашей, объёмом равным одному “мудду”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>736</td></tr><tr><td>Arabic No</td><td>325.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 58</td></tr></tbody></table></div>
 

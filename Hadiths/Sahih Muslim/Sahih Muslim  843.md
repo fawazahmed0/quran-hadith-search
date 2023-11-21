@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported:The Messenger of Allah (ﷺ) had two Mu'adhdhins, Bilal and 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Rasulullah dahulu mempunyai dua mu'adzdzin, Bilal dan Ibnu Ummi Maktum yang buta." Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah] telah menceritakan kepada kami [al-Qasim] dari [Aisyah] semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>380.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «У Посланника Аллаха ﷺ было два муаззина Биляль и слепец Ибн Умм Мактум»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>380.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
 

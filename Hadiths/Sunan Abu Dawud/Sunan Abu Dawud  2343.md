@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. al-'As:The Messenger of Allah (ﷺ) as saying: The difference b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdullah bin Al Mubarak], dari [Musa bin Ali Rabah], dari [ayahnya] dari [Abu Qais] mantan budak 'Amr bin Al 'Ash, dari ['Amr bin Al 'Ash], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pembeda antara puasa kita dan puasa ahli kitab adalah makan sahur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1096)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2343</td></tr><tr><td>Arabic No</td><td>2343</td></tr><tr><td>Reference</td><td>Book 14 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Амра ибн аль-‘Аса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Наш пост отличает от поста людей Писания принятие пищи перед рассветом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1096)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2343</td></tr><tr><td>Arabic No</td><td>2343</td></tr><tr><td>Reference</td><td>Book 14 Hadith 31</td></tr></tbody></table></div>
 

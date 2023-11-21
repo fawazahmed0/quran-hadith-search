@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:I came to the Prophet (ﷺ) while he was inside a red leath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] dia berkata; telah menceritakan kepadaku [Umar bin Abu Za'idah] dari ['Aun bin Abu Juhaifah] dari [Ayahnya] dia berkata; saya menemui Nabi shallallahu 'alaihi wasallam ketika beliau tengah berada di tenda besar yang terbuat dari kulit, dan saya melihat Bilal tengah mengambilkan tempat air wudlu Nabi shallallahu 'alaihi wasallam sementara orang-orang berlomba-lomba untuk mendapatkan bekas wudlu beliau, dan siapa yang mendapatkannya maka ia akan membasuhkannya namun bagi yang tidak mendapatkannya, maka ia mengambil dari sisa air yang menetes dari temannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5859</td></tr><tr><td>Arabic No</td><td>5859</td></tr><tr><td>Reference</td><td>Book 77 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Ауна ибн Аби Джухайфы, что его отец сказал: «(Однажды) я пришёл к Пророку ﷺ, который находился в (своём) шатре из красной кожи. И я видел, как Биляль брал воду (, остававшуюся после совершения омовения) Пророком ﷺ, и люди бросились к этой воде, опережая друг друга. И те, кому досталось что-нибудь, растирали её (по своим телам), те же, кому ничего не досталось, прикасались к влажным рукам своих товарищей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5859</td></tr><tr><td>Arabic No</td><td>5859</td></tr><tr><td>Reference</td><td>Book 77 Hadith 76</td></tr></tbody></table></div>
 

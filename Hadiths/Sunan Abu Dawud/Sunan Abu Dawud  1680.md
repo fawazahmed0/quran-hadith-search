@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above mentioned tradition has also been narrated by Sa’d bin ‘Ubadah fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Hammam] dari [Qatadah] dari [Sa'id] bahwa [Sa'd] datang kepada Nabi shalla Allahu 'alaihi wa sallam lalu bertanya; shadaqah apa yang lebih anda sukai? Beliau menjawab: "Air!" Telah berkata kepada Kami [Muhammad bin Abdurrahim], telah berkata kepada Kami [Muhammad bin Ararah] dari [Syu'bah] dari [Qatadah] dari [Sa'id bin Musayyab] dan [Al Hasan] dari [Sa'd bin 'Ubadah] dari Nabi shalla Allahu 'alaihi wa sallam sama seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1680</td></tr><tr><td>Arabic No</td><td>1680</td></tr><tr><td>Reference</td><td>Book 9 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Похожий хадис передаётся от Са‘да ибн ‘Убады от Пророка ﷺ другим путём
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1680</td></tr><tr><td>Arabic No</td><td>1680</td></tr><tr><td>Reference</td><td>Book 9 Hadith 125</td></tr></tbody></table></div>
 

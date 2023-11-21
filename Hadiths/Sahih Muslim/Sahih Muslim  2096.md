@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ata' reported:I heard 'Ubaid b. 'Umair say: It has been narrated to me by one wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Muhammad bin Bakar] telah mengabarkan kepada kami [Ibnu Juraij] ia berkata, saya mendengar [Atha'] berkata, saya mendengar [Ubaid bin Umair] berkata, telah menceritakan kepadaku seorang yang aku percayai maksudnya adalah [Aisyah] bahwasanya; Pada masa Rasulullah shallallahu 'alaihi wasallam pernah terjadi gerhana matahari. Maka beliau berdiri (shalat) lama sekali, kemudian beliau ruku', kemudian berdiri kebali. Kemudian ruku' lagi, kemudian beliau berdiri dan shalat dua rakaat dalam tiga ruku' dan empat sujud. Setelah itu, beliau beranjak, sementara matahari telah bersinar kembali. Ketika hendak ruku' belaiau membaca: "ALLAHU AKBAR, " baru kemudian beliau ruku'. Dan bila beliau bangkit dari ruku', beliau membaca: "SAMI'ALLAHU LIMAN HAMIDAH (Allah Maha Mendengar akan pujian hamba-Nya)." Sesudah itu beliau berdiri, memuji Allah dan menyanjung-Nya, kemudian beliau bersabda: "Sesungguhnya tidaklah terjadi gerhana matahari dan bulan itu karena kematian seseorang dan tidak pula karena kelahirannya, akan tetapi keduanya termasuk ayat-ayat Allah. Dengan keduanya, Allah ingin menakuti para hamba-Nya, maka jika kalian melihat gerhana, berdzikirlah kepada Allah (shalat) hingga ia itu bersinar kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2096</td></tr><tr><td>Arabic No</td><td>901.06</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайд ибн ‘Умайр сказал: «Мне передал человек, которому я доверяю (скорее всего, он имел в виду ‘Аишу), что при жизни Посланника Аллаха ﷺ произошло солнечное затмение, и он долго стоял, (совершая молитву). Сначала он долго стоял, потом совершил поясной поклон, потом выпрямился, потом снова совершил поясной поклон, потом выпрямился, потом снова совершил поясной поклон. Он совершил два рак‘ата, причём в каждом рак‘ате совершал три поясных поклона и (после третьего поясного поклона) совершал (два) земных. Когда он завершил молитву, солнце уже прояснилось. Совершая поясной поклон, Посланник Аллаха ﷺ говорил: “Аллах Велик”, а когда выпрямлялся: “Да услышит Аллах того, кто восхваляет Его”. (После этого) он встал восхвалил и восславил Аллаха, а затем сказал: “Поистине, солнечные и лунные затмения не происходят из-за чьей-то смерти или рождения, однако это знамения Аллаха, посредством которых Он устрашает Своих рабов, поэтому во время затмений поминайте Аллаха, пока не прояснится (солнце)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2096</td></tr><tr><td>Arabic No</td><td>901.06</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
 

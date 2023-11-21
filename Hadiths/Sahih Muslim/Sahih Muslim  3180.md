@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ All (Allah be pleased with him) reperted:Allah's Messenger (ﷺ) put me in charg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abdul Karim] dari [Mujahid] dari [Abdurrahman bin Abu Laila] dari [Ali] ia berkata; "Aku disuruh Rasulullah shallallahu 'alaihi wasallam mengurus penyembelihan hewan kurban, menyedekahkan daging dan kulitnya, serta mengurus segala sesuatu yang berhubungan dengan kesempurnaan kurban. Tetapi aku dilarang oleh beliau mengambil upah untuk tukang potong dari hewan kurban itu. Maka untuk upahnya kami ambilkan dari uang kami sendiri." Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] mereka berkata, Telah menceritakan kepada kami [Ibnu Uyainah] dari [Abdul Karim Al Jazari] dengan isnad ini, semisalnya. Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Sufyan] - [Ishaq bin Ibrahim] berkata- telah mengabarkan kepada kami [Mu'adz bin Hisyam] ia berkata, telah mengabarkan kepadaku [bapakku] keduanya dari [Ibnu Abu Najih] dari [Mujahid] dari [Ibnu Abu Laila] dari [Ali] dari Nabi shallallahu 'alaihi wasallam. Dan di dalam hadits keduanya tidak tercantum; "Ajrul Jazir (ongkos untuk tukang potong)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3180</td></tr><tr><td>Arabic No</td><td>1317.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 384</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3180</td></tr><tr><td>Arabic No</td><td>1317.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 384</td></tr></tbody></table></div>
 

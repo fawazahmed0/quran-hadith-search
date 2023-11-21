@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. 'Abbas: The Messenger of Allah (ﷺ) combined the noon an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abu Az Zubair Al Makki] dari [Sa'id bin Jubair] dari [Abdullah bin 'Abbas] dia berkata; Rasulullah mengerjakan shalat Dluhur dan Ashar secara Jama', dan shalat Maghrib dan Isya' secara Jama' tidak dalam kondisi ketakutan atau dalam perjalanan." (perawi berkata; Malik berkata; "Aku berpendapat, beliau melakukan hal itu karena kondisi sedang hujan." Abu Daud berkata; "Dan telah diriwayatkan pula oleh [Hammad bin Salamah] seperti hadits tersebut, dari [Abu Az Zubair], dan di riwayatkan oleh [Qurrah bin Khalid] dari [Abu Az Zubair] dia berkata; "…Yaitu dalam perjalanan ketika kami ke Tabuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (705)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1210</td></tr><tr><td>Arabic No</td><td>1210</td></tr><tr><td>Reference</td><td>Book 4 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывается от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ соединял полуденную молитву /зухр/ с послеполуденной /‘аср/, и закатную молитву /магъриб/ с вечерней /‘иша/ не только когда ему угрожала опасность или он был в пути*. Малик сказал: «Вероятнее всего, он поступал так во время дождя». Абу Дауд сказал: «И Хаммад ибн Саляма передал нечто подобное от Абу аз-Зубайра».Передаётся от Курры ибн Халида, что Абу аз-Зубайр сказал: «Это касалось посланцев, которых мы отправили в Табук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (705)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1210</td></tr><tr><td>Arabic No</td><td>1210</td></tr><tr><td>Reference</td><td>Book 4 Hadith 13</td></tr></tbody></table></div>
 

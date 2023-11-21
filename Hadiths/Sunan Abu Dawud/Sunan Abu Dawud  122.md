@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Miqdam b. Ma’dikarib reported :I saw the Messenger of Allah (ﷺ) perform a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] dan [Ya'qub bin Ka'ab Al Anthaki] lafazhnya: dia berkata; Telah menceritakan kepada kami [Al-Walid bin Muslim] dari [Hariz bin Utsman] dari [Abdurrahman bin Maisarah] dari [Al-Miqdam bin Ma'diy Karib] dia berkata; Saya pernah melihat Rasulullah shallallahu 'alaihi wasallam berwudhu, tatkala sampai pada gerakan mengusap kepalanya, beliau meletakkan kedua telapak tangannya pada bagian depan kepala, lalu menjalankan keduanya hingga tengkuk, kemudian mengembalikan keduanya ke tempat yang dipergunakannya ketika ia mulai. [Mahmud] berkata; telah mengabarkan kepada saya [Hariz]. Telah menceritakan kepada kami [Mahmud bin Khalid] dan [Hisyam bin Khalid] dengan makna yang sama. Mereka berdua berkata; [Al-Walid] telah menceritakan kepada kami dengan sanad ini, dia berkata; Beliau mengusap dua telinganya; bagian luar dan dalamnya. Hisyam menambahkan; Dan beliau memasukkan jari-jarinya pada lubang kedua telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>122</td></tr><tr><td>Arabic No</td><td>122</td></tr><tr><td>Reference</td><td>Book 1 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Сообщается, что аль-Микъдам ибн Ma‘дикариб да будет доволен им Аллах) сказал: «Я видел, как Посланник Аллаха ﷺ совершал омовение, и когда он дошёл до обтирания головы, он положил свои руки на лоб и провёл ими (по голове,) пока не достиг затылка. Затем он вернул их к тому месту, откуда начал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>122</td></tr><tr><td>Arabic No</td><td>122</td></tr><tr><td>Reference</td><td>Book 1 Hadith 122</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Messenger of Allah (ﷺ) as saying: There are three pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tiga golongan yang tidak Allah ajak bicara kepada mereka pada Hari Kiamat; seorang laki-laki yang menghalangi Ibnu Sabil untuk mendapatkan kelebihan air yang ada padanya, seorang laki-laki yang bersumpah palsu untuk menjual barang setelah 'Ashar, dan seorang laki-laki yang membai'at seorang imam, apabila Imam tersebut memberi sesuatu kepadanya maka ia penuhi haknya, namun jika Imam tersebut tidak memberi maka ia tidak memenuhi haknya." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dengan sanad dan maknanya. Ia sebutkan, "Tidak mensucikan mereka dan bagi mereka siksa yang pedih." Ia juga menyebutkan, "(bersumpah) dengan Allah, 'Sungguh aku diberi tawaran sekian dan sekian'. Lalu orang pun percaya dan membelinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2672) Sahih Muslim (108)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3474</td></tr><tr><td>Arabic No</td><td>3474</td></tr><tr><td>Reference</td><td>Book 24 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «С тремя не заговорит Аллах в Судный день. Это человек, который отказался дать путнику излишки воды, которые были у него, человек, который сбывает товар после послеполуденной молитвы /‘аср/ с помощью ложной клятвы, и человек, который присягнул правителю, но сохраняет верность ему только в том случае, когда получает желаемое. Если же он не получает желаемого, то он не хранит верность ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2672) Sahih Muslim (108)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3474</td></tr><tr><td>Arabic No</td><td>3474</td></tr><tr><td>Reference</td><td>Book 24 Hadith 59</td></tr></tbody></table></div>
 

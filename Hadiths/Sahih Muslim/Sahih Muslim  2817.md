@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported that when it was said to Ibn 'Umar (Allah be pleased with them) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hatim bin Isma'il] dari [Musa bin Uqbah] dari [Salim] ia berkata; Apabila dikatakan bahwa Ihram itu dimulai dari Al Baida', maka [Ibnu Umar] berkata, "Al Baida' adalah tempat yang pernah kalian gunakan untuk mendustakan Rasulullah shallallahu 'alaihi wasallam. Beliau tidak pernah memulai Ihram kecuali dari sisi pohon (yang terdapat di Dzulhulaifah), yakni saat Untanya berdiri di situ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2817</td></tr><tr><td>Arabic No</td><td>1186.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2817</td></tr><tr><td>Arabic No</td><td>1186.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 27</td></tr></tbody></table></div>
 

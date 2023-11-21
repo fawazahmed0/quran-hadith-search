@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ali bin Suwaid bin Manjuf As-Sadusi] telah menceritakan kepada kami ['Aun bin Kahmas] dari [Ayahnya, Kahmas] dia berkata; Kami telah berdiri untuk melaksanakan shalat pada waktu di Mina sementara imam belum keluar, maka sebagian dari kami duduk lagi, lalu [seorang syaikh] dari kufah berkata kepadaku; Apa yang membuatmu duduk? Saya menjawab; Ibnu Buraidah. Dia berkata; ini adalah suatu kelalaian (kebingungan), lalu dia berkata; Telah berkata kepadaku [Abdurrahman bin Ausajah] dari [Al-Bara' bin Azib] dia berkata; Kami pernah berdiri lama sekali pada shaf shalat pada masa Rasulullah Shallallahu alaihi wasallam (dalam rangka menunggu beliau) sebelum shalat dilaksanakan, dan beliau bersabda: "Sesungguhnya Allah dan para Malaikatnya bershalawat bagi orang-orang yang berada pada shaf shaf pertama, dan tidak ada suatu langkah yang lebih Allah sukai daripada langkah seseorang untuk menuju shaf yang paling depan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>543</td></tr><tr><td>Reference</td><td>Book 2 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Ауна ибн Кахмаса о том, что его отец Кахмас сказал: (Однажды,) когда мы встали на молитву в Мине, а имам ещё не вышел (к людям), некоторые из нас присели (ожидая его). Один старец из числа жителей Куфы обратился ко мне и сказал: «Что заставило тебя сесть?» Я ответил: «Ибн Бурайда». (Ибн Бурайда) сказал: «Это надменность!» И шейх сказал мне: «‘Абду-р-Рахман ибн ‘Аусаджа сообщил мне о том, что аль-Бараъ ибн ‘Азиб сказал: “При жизни Посланника Аллаха ﷺ мы выстраивались в длинные ряды перед тем, как он произносил (вступительный) такбир”».(Аль-Бараъ) сказал: «И (Пророк ﷺ также) сказал: “Поистине, Аллах и Его Ангелы благословляют тех, которые стоят в первых рядах, и нет шага любимее Аллаху, чем тот, который делается заполняя (или связывая) ряд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>543</td></tr><tr><td>Reference</td><td>Book 2 Hadith 153</td></tr></tbody></table></div>
 

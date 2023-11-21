@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:Messenger of Allah (May peace be upon him) found a date and said: Were
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Nashr bin Ali], telah mengabarkan kepada Kami [ayahku] dari [Khalid bin Qais] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam mendapatkan sebuah kurma kemudian berkata; seandainya aku tidak khawatir kurma tersebut merupakan kurma zakat niscaya aku memakannya. Abu Daud berkata; [Hisyam] meriwayatkannya dari [Qatadah] seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса (ибн Малик), да будет доволен им Аллах, что однажды Пророк ﷺ нашёл финик и сказал: «Если бы я не опасался, что он может оказаться частью закята, я бы съел его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Wahb bin Kaisan:Jabir bin 'Abdullah said, "We set out, and we were thre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Shadaqah bin Al Fadhal] telah mengabarkan kepada kami ['Abdah] dari [Hisyam] dari [Wahb bin Kaisan] dari [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; Kami keluar dalam rambongan berjumlah tiga ratus orang dengan membawa perbekalan di atas pundak-pundak kami. Kemudian bekal kami habis hingga ada seseorang dari kami yang dalam setiap harinya hanya makan sebutir kurma. Ada seseorang yang bertanya: "Wahai Abu 'Abdullah, kemana kurma-kurma yang ada pada laki-laki tadi?" Abu 'Abdullah berkata: "Sungguh kami menemukannya sudah habis bersamaan habisnya bekal kami hingga kami mendatangi laut dan ternyata ada seekor ikan hiu yang terlempar oleh ombak lautan. Lalu kami memakannya selama delapan belas hari yang merupakan saat-saat kami sukai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2983</td></tr><tr><td>Arabic No</td><td>2983</td></tr><tr><td>Reference</td><td>Book 56 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «(Однажды) мы отправились в путь, нас было триста человек, и мы несли запасы на наших плечах. Когда припасы закончились мы стали есть по одному финику в день. Один человек спросил Джабира: “О Абу ‘Абдуллах! Какую же пользу может принести один финик?” (Джабир) ответил: “(Однако,) когда закончились (и финики), мы (сразу) почувствовали это! Достигнув (берега) моря, мы увидели там рыбу, выброшенную морем, и люди питались (её мясом) сколько хотели в течение восемнадцати дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2983</td></tr><tr><td>Arabic No</td><td>2983</td></tr><tr><td>Reference</td><td>Book 56 Hadith 192</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I offered the 'Id prayer with Allah's Messenger (ﷺ), Abu B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Al Hasan bin Muslim] dari [Thawus] dari [Ibnu 'Abbas] berkata, "Aku menghadiri shalat Hari Raya bersama Rasulullah shallallahu 'alaihi wasallam, Abu Bakar, 'Umar dan 'Utsman? radliallahu 'anhum, bahwa mereka semua melaksanakan shalat sebelum khutbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 13 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Я присутствовал на праздничных молитвах, проводившихся посланником Аллаха ﷺ Абу Бакром, ‘Умаром и ‘Усманом, да будет доволен ими Аллах, и все они совершали молитву перед хутбой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 13 Hadith 11</td></tr></tbody></table></div>
 

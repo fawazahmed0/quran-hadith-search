@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humaid b. 'Abd al-Rahman al-Himyari reported from three of the sons of Sa'd all 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Umar Al Makki] telah menceritakan kepada kami [Ats Tsaqafi] dari [Ayyub As Sakhtiyani] dari ['Amru bin Sa'id] dari [Humaid bin Abdurrahman Al Himyari] dari [ketiga anak Sa'd] semuanya telah menceritakan kepadanya dari [Ayahnya], bahwa Nabi shallallahu 'alaihi wasallam datang menjenguknya di Makkah, kemudian dia pun menangis hingga menjadikan Nabi bertanya kepadanya: "Apa yang membuatmu menangis?" Sa'd menjawab, "Saya khawatir akan meninggal dunia di tempat kelahiran yang pernah kutinggalkan, sebagaimana meninggalnya Sa'd bin Khaulah." Maka Nabi shallallahu 'alaihi wasallam berdo'a: 'Ya Allah, sembuhkanlah Sa'd. Ya Allah, sembuhkanlah Sa'd.' - tiga kali-. Sa'd lalu berkata, "Wahai Rasulullah, sesungguhnya saya memiliki harta yang banyak, dan hanya puteriku satu-satunya yang menjadi ahli warisku, bagaimana jika saya mewasiatkan seluruh hartaku?" beliau menjawab: "Jangan." Sa'd bertanya lagi, "Bagaimana jika dua pertiganya?" beliau menjawab: "Jangan." Sa'd bertanya lagi, "Bagaimana jika setengahnya?" beliau menjawab: "Jangan." Sa'd berkata lagi, "Bagaimana jika sepertiganya?" beliau menjawab: "Sepertiga, sepertiga sudah banyak. Sesungguhnya harta yang kamu sedekahkan pasti akan mendapatkan pahala, sekalipun yang kamu belanjakan untuk keluargamu dan yang dimakan isterimu. Jika kamu tinggalkan keluargamu dalam keadaan baik -atau sabdanya- kaya, itu lebih baik daripada kamu tinggalkan mereka meminta-minta kepada orang banyak dan menadahkan tangannya." Dan telah menceritakan kepadaku [Abu Ar Rabi' Al Ataki] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dari ['Amru bin Sa'id] dari [Humaid bin Abdurrahman Al Himyari] dari [ketiga anaknya Sa'd] mereka berkata, " [Sa'd] pernah sakit di Makkah, maka Rasulullah shallallahu 'alaihi wasallam datang menjenguknya…seperti hadits At Tsaqafi." Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Humaid bin Abdurrahman] telah menceritakan kepadaku [ketiga anak Sa'd bin Malik] semuanya pernah menceritakan kepadaku, seperti hadits sahabatnya. Dia mengatakan, " [Sa'd] pernah sakit di Makkah, lantas Nabi shallallahu 'alaihi wasallam datang menjenguknya….seperti hadits 'Amru bin Sa'id dari Humaid Al Himyari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>1628.07</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>1628.07</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 

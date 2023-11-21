@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) at the time of breathing his last w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari apa yang telah di bacakan kepadanya dari [Hisyam bin 'Urwah] dari ['Abbad bin 'Abdullah bin Az Zubair] dari ['Aisyah] bahwa dia telah mengabarkan kepadanya, dia mendengar Rasulullab shallallahu 'alaihi wasallam berkata sebelum beliau wafat di pangkuan Aisyah dan ia pun mendengar ucapan beliau; "Ya Allah, berikanlah rahmat kepadaku dan pertemukanlah aku dengan kekasihku!" Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Abdah bin Sulaiman] seluruhnya dari [Hisyam] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>2444.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>2444.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 123</td></tr></tbody></table></div>
 

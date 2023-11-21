@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (p.b.u.h) said, "Seven people will be shaded by
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] berkata, telah menceritakan kepada saya [Khubaib bin 'Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Ada tujuh (golongan orang beriman) yang akan mendapat naungan (perlindungan) dari Allah dibawah naunganNya (pada hari qiyamat) yang ketika tidak ada naungan kecuali naunganNya. Yaitu; Pemimpin yang adil, seorang pemuda yang menyibukkan dirinya dengan 'ibadah kepada Rabnya, seorang laki-laki yang hatinya terpaut dengan masjid, dua orang laki-laki yang saling mencintai karena Allah, keduanya bertemu karena Allah dan berpisah karena Allah, seorang laki-laki yang diajak berbuat maksiat oleh seorang wanita kaya lagi cantik lalu dia berkata, "aku takut kepada Allah", seorang yang bersedekah dengan menyembunyikannya hingga tangan kirinya tidak mengetahui apa yang diinfaqkan oleh tangan kanannya, dan seorang laki-laki yang berdzikir kepada Allah dengan mengasingkan diri sendirian hingga kedua matanya basah karena menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1423</td></tr><tr><td>Arabic No</td><td>1423</td></tr><tr><td>Reference</td><td>Book 24 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Семерых укроет Аллах в тени Своей в тот День, когда не будет иной тени, кроме тени Его: справедливого правителя; юношу, росшего в поклонении своему Господу; человека, сердце которого подвешено в мечетях; тех двоих, которые любят друг друга ради Аллаха, встречаясь и расставаясь (только) ради Него; мужчину, которого пожелала знатная и красивая женщина и который сказал: “Поистине, я боюсь Аллаха!”; того, кто подаёт милостыню (настолько) тайно, что его левая рука не ведает, сколько тратит правая, а (также) того, чьи глаза наполняются слезами, когда он в одиночестве поминает Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1423</td></tr><tr><td>Arabic No</td><td>1423</td></tr><tr><td>Reference</td><td>Book 24 Hadith 27</td></tr></tbody></table></div>
 

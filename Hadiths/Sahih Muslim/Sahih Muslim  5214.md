@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Qutaibah, keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Sa'id bin Abi Burdah] dari [Ayahnya] dari [Abu Musa] dia berkata, "Nabi shallallahu 'alaihi wasallam mengutusku bersama Mu'adz bin Jabal ke Negeri Yaman, lalu saya berkata, "Wahai Rasulullah, bagaimana dengan minuman yang dibuat di negeri kami yang biasa disebut dengan miizr dari (perasan) gandum dan minuman yang biasa disebut dengan bit'u (yang terbuat) dari madu?" Beliau menjawab: "Setiap minuman yang memabukkan adalah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5214</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5214</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

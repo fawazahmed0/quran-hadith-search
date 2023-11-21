@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: Ikrimah said: A group of people from Iraq said: Ibn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Muhammad- dari [Amru bin Abu Amru] dari [Ikrimah] bahwa ada beberapa orang dari penduduk Irak berkata, "Wahai [Ibnu Abbas], apa pendapatmu tentang ayat ini; kami telah diperintahkan untuk mengamalkan apa yang terkandung di dalamnya, namun tidak seorang pun mau mengamalkannya? Yaitu firman Allah: (Hai orang-orang yang beriman, hendaklah budak-budak (lelaki dan wanita) yang kamu miliki, dan orang-orang yang belum baligh di antara kamu, meminta izin kepada kamu tiga kali (dalam satu hari) yaitu: sebelum sembahyang subuh, ketika kamu menanggalkan pakaian (luar) mu di tengah hari dan sesudah sembahyang Isya'. (Itulah) tiga 'aurat bagi kamu. Tidak ada dosa atasmu dan tidak (pula) atas mereka selain dari (tiga waktu) itu…." Al -Qa'nabi membacanya hingga firman-Nya-: "…Maha Mengetahui lagi Maha Bijaksana) ' -Qs. An Nuur: 58- Ibnu Abbas berkata, "Sesungguhnya Allah Maha Lembut dan menyanyangi orang-orang mukmin. Allah suka (sifat) menutupi air orang lain. Sementara saat itu orang-orang tidak memiliki penutup atau hijab di rumah mereka, hingga dimungkinkan seorang pembantu, atau anak, atau wanita anak yatim seorang laki-laki masuk rumah saat suami menggauli isterinya. Maka Allah memerintahkan mereka untuk meminta izin pada waktu-waktu tersebut. Allah datang kepada mereka dengan syari'at hijab dan kebaikan, namun aku tidak pernah mendapati seorang pun melakukan itu." Abu Dawud berkata, "Hadits Ubaidullah dan Atha merusak hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
 

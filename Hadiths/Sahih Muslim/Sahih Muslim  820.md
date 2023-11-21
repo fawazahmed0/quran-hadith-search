@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rabmin b. Abza narrated It on the authority of his father that a man came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Hasyim al-'Abdi] telah menceritakan kepada kami [Yahya yaitu Ibnu sa'id al-Qaththan] dari [Syu'bah] dia berkata, telah menceritakan kepadaku [al-Hakam] dari [Dzarr] dari [Sa'id bin Abdurrahman bin Abza] dari [bapaknya] bahwa seorang laki-laki mendatangi Umar seraya berkata, " aku berjunub, lalu tidak mendapatkan air." Maka dia berkata, "Janganlah kamu shalat!" Lalu [Ammar] berkata, "Tidakkah kamu ingat wahai Amirul Mukminin ketika saya dan kamu berada dalam suatu laskar, lalu kita berjunub, lalu kita tidak mendapatkan air. Adapun kamu, maka kamu tidak melakukan shalat, sedangkan saya maka saya berguling-guling di tanah, lalu aku shalat. Maka Nabi shallallahu 'alaihi wasallam bersabda, "Sudah cukup memadai bagi kamu untuk memukulkan kedua tanganmu pada tanah, kemudian meniupnya, kemudian kamu mengusap wajah dan kedua tanganmu dengan keduanya." Maka Umar berkata, "Bertakwalah kepada Allah wahai Ammar!" Dia berkata, "Jika kamu tidak berkenan maka aku tidak akan menceritakannya." [Al-Hakam] berkata, dan telah menceritakannya kepadaku [Ibnu Abdirrahman bin Abza] dari [bapaknya] semisal hadits Dzarr, dia berkata, dan telah menceritakan kepadaku [Salamah] dari [Dzarr] dalam isnad ini yang disebutkan oleh al-Hakam seraya Umar berkata, "Kami mengangkatmu menjadi wali atas sesuatu yang kamu kuasai (ungkapan persetujuan untuk disampaikannya hadits tersebut, pent)." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah menceritakan kepada kami [an-Nadhar bin Syumail] telah mengabarkan kepada kami [Syu'bah] dari [al-Hakam] dia berkata, "Saya mendengar [Dzarr] dari [Ibnu Abdurrahman bin Abza] dia berkata, [al-Hakam] berkata, dan kamu telah mendengarnya dari [Ibnu Abdurrahman bin Abza] dari [bapaknya] bahwa seorang laki-laki mendatangi Umar seraya berkata, " Aku junub, lalu aku tidak mendapatkan air." Lalu dia membawakan hadits tersebut, dan menambahinya. [Ammar] berkata, "Wahai Amirul Mukminin, jika kamu berkenan terhadap hakmu yang Allah jadikan atasku, aku tidak akan menceritakannya kepada (semua) orang (kecuali hanya sebagian saja)." Dan dia tidak menyebutkan telah menceritakan kepada kami Salamah dari Dzarr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>820</td></tr><tr><td>Arabic No</td><td>368.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуррахман ибн Абза сказал: «Однажды к ‘Умару пришел один человек и сказал: “Я осквернился, и не могу найти воды”, ‘Умар сказал: “Не совершай молитву”. Тогда ‘Аммар сказал: “О повелитель правоверных, разве ты не помнишь, как мы с тобой осквернились, когда были в военном походе, и не нашли воду? Что касается тебя, то ты не совершал молитву, я же повалялся в пыли и совершил молитву. (Когда мы пришли к Пророку ﷺ я рассказал ему об этом, и) он сказал: “Тебе было достаточно ударить ладонями о землю, затем подуть (на них), затем протереть ими своё лицо и кисти рук”. ‘Умар сказал: “Побойся Аллаха, о ‘Аммар!” ‘Аммар ответил: “Если хочешь, я не буду рассказывать это (другим)”. ‘Умар сказал: “Мы возлагаем на тебя (ответственность того), что ты утверждаешь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>820</td></tr><tr><td>Arabic No</td><td>368.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 141</td></tr></tbody></table></div>
 

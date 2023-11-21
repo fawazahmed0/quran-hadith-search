@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:That he heard Allah's Messenger (ﷺ) saying, "We (Muslims)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad], bahwasanya [Al A'raj] menceritakan kepadanya, bahwa [Abu Hurairah] berkata; dirinya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kami adalah orang-orang terkemudian (generasi pungkasan) di dunia, namun menjadi orang-orang pemula (angkatan pemula) yang masuk surga di hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6888</td></tr><tr><td>Arabic No</td><td>6888</td></tr><tr><td>Reference</td><td>Book 87 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если кто-нибудь станет смотреть (на то, что делается) в твоём доме, не имея на то твоего разрешения, а ты (за это) бросишь в него камнем и выбьешь ему глаз, не будет на тебе греха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6888</td></tr><tr><td>Arabic No</td><td>6888</td></tr><tr><td>Reference</td><td>Book 87 Hadith 26</td></tr></tbody></table></div>
 

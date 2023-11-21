@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said to those who were involved in a case o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Sa'id bin Jubair] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda kepada Al Mutalaa'inaini (dua orang suami-isteri yang saling menuduh berzina kepada satu sama lain): "Hisab kalian berdua adalah terserah kepada Allah. Salah seorang dari kalian telah berdusta. Karena itu, tidak ada jalan lagi bagimu untuk kembali ruju' padanya." Laki-laki itu berkata, "Wahai Rasulullah, bagaimana dengan hartaku?" beliau bersabda: "Tidak ada bagian harta untukmu. Jika kamu berkata benar atasnya, maka mahar yang telah kamu berikan adalah sebagai penghalal farjinya. Dan jika kamu dusta, maka hal itu tentulah lebih parah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5350</td></tr><tr><td>Arabic No</td><td>5350</td></tr><tr><td>Reference</td><td>Book 68 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, что Пророк ﷺ сказал супругам, которые принесли соответствующие клятвы /ли‘ан/: «Вам отвечать перед Аллахом. Один из вас лжёт. Однако нет тебе пути против неё». Мужчина сказал: «О Посланник Аллаха! А как же моё имущество?» Он ответил: «Это больше не твоё имущество. Если, обвиняя её, ты сказал правду, то оно остаётся ей в качестве платы за то, что она стала дозволенной для тебя. А если ты солгал, то у тебя ещё меньше прав на это имущество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5350</td></tr><tr><td>Arabic No</td><td>5350</td></tr><tr><td>Reference</td><td>Book 68 Hadith 95</td></tr></tbody></table></div>
 

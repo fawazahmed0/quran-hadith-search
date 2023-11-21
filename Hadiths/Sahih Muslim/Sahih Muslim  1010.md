@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) said:I was not with the Messenger of Allah (ﷺ) but I wish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Khalid] dari [Abu Ma'syar] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] dia berkata, "Tidaklah aku berada pada malam jin (waktu belajarnya para jin) bersama Rasulullah shallallahu 'alaihi wasallam (melainkan) aku pasti ingin bersama beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1010</td></tr><tr><td>Arabic No</td><td>450.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Алкамы, что ‘Абдуллах сказал: «Я не был с Посланником Аллаха ﷺ в ту ночь, (когда он читал Коран) джиннам, но я хотел бы быть с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1010</td></tr><tr><td>Arabic No</td><td>450.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 172</td></tr></tbody></table></div>
 

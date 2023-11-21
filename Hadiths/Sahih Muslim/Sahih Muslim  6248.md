@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) was on the mountain of Hira' t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Yazid bin Khunais] dan [Ahmad bin Yusuf Al Azdi] keduanya berkata; Telah menceritakan kepada kami [Isma'il bin Abu Uwais]; Telah menceritakan kepadaku [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] bahwa pada suatu ketika Rasulullah shallallahu 'alaihi wasallam sedang berada di atas gunung Hira'. Tiba-tiba gunung tersebut bergerak, maka Rasulullah berkata: "Hai Hira', tenanglah! Tidak ada orang yang berada di atasmu melainkan seorang nabi, atau seorang shiddiq, ataupun seorang syahid." Pada saat itu, di atas gunung Hira' tersebut, ada Nabi Muhammad, Abu Bakar, Umar, Utsman, Ali, Thalhah, Zubair, dan Said bin Abu Waqqash -Radliallah 'Anhum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6248</td></tr><tr><td>Arabic No</td><td>2417.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6248</td></tr><tr><td>Arabic No</td><td>2417.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 78</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Az-Zubair quarrelled with a man from the Ansar because of a natur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] berkata; bahwa seorang laki-laki Anshar berselisih dengan Az Zubair mengenai mata air Al Harrah. Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Alirilah kebunmu wahai Zubair, setelah itu berikanlah kepada tetanggamu." Tetapi laki-laki Anshar itu marah seraya berkata; "Wahai Rasulullah, apakah karena ia anak dari pamanmu!" Maka Wajah Rasulullah shallallahu 'alaihi wasallam memerah, kemudian beliau bersabda: "Wahai Zubair, airilah kebunmu, setelah itu tahanlah hingga airnya kembali ke dalam tanah kemudian berikanlah kepada tetanggamu!" Nabi shallallahu 'alaihi wasallam berharap agar Zubair bisa memahami mengenai haknya dengan keputusan yang tegas. Padahal sebelumnya beliau memberikan kemudahan untuk Zubair dan orang Anshar, tapi ketika orang Anshar marah kepada Rasulullah shallallahu 'alaihi wasallam akhirnya beliau memberikan semua bagian kepada Zubair. [Zubair] radliallahu 'anhu berkata; "Demi Allah, aku mengira bahwa ayat ini tidak turun kecuali berkaitan dengan masalah itu: "Maka demi Tuhanmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim terhadap perkara yang mereka perselisihkan, Kemudian mereka tidak merasa dalam hati mereka sesuatu keberatan terhadap putusan yang kamu berikan, dan mereka menerima dengan sepenuhnya. (QS; an Nisaa';)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4585</td></tr><tr><td>Arabic No</td><td>4585</td></tr><tr><td>Reference</td><td>Book 65 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Урвы ибн аз-Зубайра, что один человек из числа ансар начал тяжбу с аз-Зубайром из-за источника воды, из которого он орошал пальмы. Посланник Аллаха ﷺ сказал: «О Зубайр! Набирай воду (немного), а потом посылай соседу». Ансари: «(Ты рассудил так, потому что) он сын твоей тётки со стороны отца!» Посланник Аллаха ﷺ изменился в лице, а затем сказал (аз-Зубайру): «Ороси свой участок и задержи воду, чтобы она заполнила стены вокруг ям, между пальм». Таким образом дав ему его полное право, хотя до этого он посоветовал аз-Зубайру решение выгодное для него и ансара, но когда он разгневал Посланника Аллаха ﷺ, он дал аз-Зубайру его право полностью. Аз-Зубайр сказал: «Клянусь Аллахом, я считаю, что этот аят ниспослан как раз об этом: “Но нет — клянусь твоим Господом! — они не уверуют, пока они не изберут тебя судьёй во всем том, что запутано между ними”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4585</td></tr><tr><td>Arabic No</td><td>4585</td></tr><tr><td>Reference</td><td>Book 65 Hadith 107</td></tr></tbody></table></div>
 

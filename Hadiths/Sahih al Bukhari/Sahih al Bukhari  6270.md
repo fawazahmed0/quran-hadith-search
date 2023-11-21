@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) forbade that a man should be made to get up
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Sufyan] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam bahwa beliau melarang seseorang membangunkan orang lain dari tempat duduknya, lalu dia duduk di situ, akan tetapi hendaknya ia mengatakan; "Geser dan berlapang-lapanglah." Dan Ibnu Umar sendiri membenci seseorang yang membangunkan orang lain dari tempat duduknya, lalu dia duduk di situ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6270</td></tr><tr><td>Arabic No</td><td>6270</td></tr><tr><td>Reference</td><td>Book 79 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Пророк ﷺ запретил поднимать человека с его места, чтобы посадить другого. Он сказал: «Однако потеснитесь и садитесь шире!»\nИ Ибн ‘Умару не нравилось, когда человек вставал со своего места, чтобы сел он
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6270</td></tr><tr><td>Arabic No</td><td>6270</td></tr><tr><td>Reference</td><td>Book 79 Hadith 44</td></tr></tbody></table></div>
 

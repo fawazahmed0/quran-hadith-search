@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama b. 'Abual-Rahman reported:Abu Huraira recited before them:" hen the h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], katanya; aku pernah mengungkapkan kepada [Malik] dari [Abdullah bin Yazid] mantan budak Aswad bin Sufyan dari [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] pernah membacakan kepada mereka ayat Idzas samaa'un syanqqat (Surat Al Insyiqaq), lalu dia sujud. seusai sujud, dia mengabarkan bahwa Rasulullah shallallahu 'alaihi wasallam melakukan sujud pada ayat itu." Telah menceritakan kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Isa] dari [Awza'i] dia berkata. (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Ibn Abi 'Adi] dari [Hisyam] dari [Yahya bin Abi Katsir] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1299</td></tr><tr><td>Arabic No</td><td>578.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Салямы ибн ‘Абдуррахмана, что (однажды, во время молитвы) Абу Хурайра прочитал им (суру, начинающуюся словами) «Когда небеса расколются…», и совершил земной поклон, а закончив молитву, сообщил им о том, что Посланник Аллаха ﷺ совершил земной поклон (читая её)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1299</td></tr><tr><td>Arabic No</td><td>578.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 137</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:that he heard Ibn 'Abbas saying, "Thursday! And you kn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad] telah bercerita kepada kami [Ibnu 'Uyainah] dari [Sulaiman bin Abu Muslim Al Ahwal] dia mendengar [Sa'id bin Jubair] mendengar [Ibnu 'Abbas radliallahu 'anhu] berkata; "Hari Kamis, apakah hari Kamis?". Kemudian dia menangis hingga air matanya membasahi pasir. Aku bertanya kepadanya Dia berkata; "Wahai 'Abbas, ada apa dengan hari Kamis?". Dia berkata; "Rasulullah Shallallahu'alaihiwasallam bertambah parah sakitnya pada hari Kamis lalu Beliau berkata: "Berikan aku buku karena aku akan menuliskan untuk kalian suatu ketetapan yang kalian tidak akan sesat setelahnya selama-lamanya". Kemudian orang-orang bertengkar padahal tidak sepatutnya mereka bertengkar di hadapan Nabi Shallallahu'alaihiwasallam. Mereka ada yang berkata; "Apakah Beliau terdiam?". Mereka mencari tahu tentang Beliau Maka Beliau berkata: "Tinggalkanlah aku. Sungguh aku sedang menghadapi perkara yang lebih baik dari apa yang kalian ajak aku kepadanya". Lalu Beliau berwasiat dengan tiga hal; "Usirlah orang-orang musyrikin dari jazirah 'Arab, berilah hadiah kepada tamu (utusan) seperti yang aku pernah berikan kepada mereka". Dan yang ketiga adalah perkara yang lebih baik, namun apakah Beliau terdiam atau telah mengatakannya namun aku telah lupa". Sufyan berkata; "Yang terakhir ini dari perkataan Sulaiman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 58 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубейр слышал, как (однажды) Ибн ‘Аббас, да будет доволен Аллах им и его отцом, воскликнул: «Четверг! Что за день четверг!» — после чего принялся плакать (так сильно, что) слёзы стали капать на мелкие камешки (, лежавшие перед ним на земле). \n(Са‘ид ибн Джубейр сказал:) «Тогда я спросил: “О Абу ‘Аббас! А что с четвергом?” Он ответил: “В четверг (предсмертные) страдания Посланника Аллаха ﷺ усилились, и он сказал: “Принесите мне (принадлежности для) письма, и я напишу для вас то, благодаря чему вы не собьётесь с правильного пути”. (Люди, находившиеся у него,) принялись спорить, чего в присутствии пророков делать не следует, и они стали говорить: “Что с ним? Спросите его (чтобы понять)”. Тогда (Пророк ﷺ) сказал: “Оставьте меня, ибо состояние, в котором я сейчас нахожусь, лучше того, к чему вы меня призываете!” А перед смертью он завещал (своим сподвижникам) три вещи (, сказав): “Изгоните многобожников из Аравии и встречайте и одаривайте (прибывающие к вам) делегации так же, как это делал я”». \nПередатчик сказал: «Что же касается третьей (части завещания), то либо Ибн ‘Аббас не упомянул её, либо упомянул, но я забыл её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 58 Hadith 10</td></tr></tbody></table></div>
 

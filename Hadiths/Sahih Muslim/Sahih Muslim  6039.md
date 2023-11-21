@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Apostle (ﷺ) came to his wives as the camel-driver w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Yazid bin Zura'i] dari [Sulaiman At Taimi] dari [Anas bin Malik]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kamil]; Telah menceritakan kepada kami [Yazid]; Telah menceritakan kepada kami [At Taimi] dari [Anas bin Malik] dia berkata; Ummu Sulaim berada bersama para istri Nabi shallallahu 'alaihi wasallam. Para wanita tersebut di kawal oleh seorang pengawal yang bernama Anjasyah. Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam berkata kepadanya; "Wahai Anjasyah, pelan-pelan jika mengawal para wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6039</td></tr><tr><td>Arabic No</td><td>2323.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6039</td></tr><tr><td>Arabic No</td><td>2323.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 96</td></tr></tbody></table></div>
 

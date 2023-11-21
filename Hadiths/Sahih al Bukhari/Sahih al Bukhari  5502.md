@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:that Ka'b had a slave girl who used to graze his sheep on a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] berkata, telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari [seorang laki-laki] dari bani Salamah, ia mengabarkan kepada Abdullah bin Umar bahwa budak perempuan Ka'b bin Malik mengembalakan kambing miliknya di gunung kecil, di daerah pasar, yaitu tempat yang berada di Sal'. Salah satu kambingnya sakit, lalu budak wanita itu memecah batu dan menyembelih kambing yang sakit itu dengan pecahan batu tersebut. Orang-orang pun menceritakan hal itu kepada Nabi shallallahu 'alaihi wasallam, dan beliau memerintahkan untuk tetap memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5502</td></tr><tr><td>Arabic No</td><td>5502</td></tr><tr><td>Reference</td><td>Book 72 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «У Ка‘ба была рабыня, которая пасла его овец на небольшой горе, называемой Саль‘а и расположенной недалеко от рынка. Однажды одна из овец заболела, поэтому она разбила камень и зарезала её им. Когда они упомянули об этом Пророку ﷺ, он велел им съесть её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5502</td></tr><tr><td>Arabic No</td><td>5502</td></tr><tr><td>Reference</td><td>Book 72 Hadith 28</td></tr></tbody></table></div>
 

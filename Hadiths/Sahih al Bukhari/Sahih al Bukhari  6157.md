@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) intended to return home after the performance 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] radliallahu 'anha dia berkata; Nabi shallallahu 'alaihi wasallam hendak bepergian, tiba-tiba beliau melihat Shafiyyah berdiri di depan pintu tendanya dengan penuh kesedihan karena dirinya sedang haidl. Beliau pun bersabda padanya: "Oo…(dengan bahasa Quraisy), sesungguhnya kamu benar-benar menyebabkan kami tertahan." Kemudian beliau bersabda: "Apakah kamu telah melaksanakan ifadlah di hari Nahr (kurban)? Maksudnya adalah thawaf." Shafiyah menjawab; "Ya." Beliau bersabda: "Kalau begitu, berangkatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6157</td></tr><tr><td>Arabic No</td><td>6157</td></tr><tr><td>Reference</td><td>Book 78 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «Когда Пророк ﷺ решил отправиться в путь (из Мекки в Медину, совершив хадж), он увидел Сафию, которая была грустна по причине начавшихся месячных и стояла у входа в палатку. Он сказал ей: “Да сделает тебя Аллах безродной (или: “Да сделает Аллах твой народ без потомства”)! Да лишит Аллах тебя волос (или: “Да погубит Аллах твой народ”)! (Выражение, которое говорили курайшиты) Ты задержишь нас! Совершила ли ты обход вокруг Каабы /таваф аль-ифада/ в День жертвоприношения?” Она ответила: “Да”. Он сказал: “Тогда отправляйся!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6157</td></tr><tr><td>Arabic No</td><td>6157</td></tr><tr><td>Reference</td><td>Book 78 Hadith 183</td></tr></tbody></table></div>
 

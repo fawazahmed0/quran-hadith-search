@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) forbade taking the earnings of a slave gi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Ja'd] Telah mengabarkan kepada kami [Syu'bah] dari [Muhammad bin Juhadah] dari [Abu Hazim] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam telah melarang untuk mempekerjakan budak wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 68 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Пророк ﷺ запретил заработок рабынь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 68 Hadith 93</td></tr></tbody></table></div>
 

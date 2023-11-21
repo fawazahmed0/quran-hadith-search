@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "Nothing is left of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah menceritakan kepadaku [Sa'id bin Musayyab], bahwasanya [Abu Hurairah] menuturkan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Kenabian tidak ada lagi selain berita gembira, " para sahabat bertanya; 'apa maksud kabar gembira? ' Nabi shallallahu 'alaihi wasallam menjawab; "mimpi yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6990</td></tr><tr><td>Arabic No</td><td>6990</td></tr><tr><td>Reference</td><td>Book 91 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как (однажды) Посланник Аллаха ﷺ сказал: “Не осталось от пророчества ничего, кроме радостных вестей”. (Люди) спросили: “А что такое радостные вести?” (Пророк ﷺ) сказал: “Благие сновидения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6990</td></tr><tr><td>Arabic No</td><td>6990</td></tr><tr><td>Reference</td><td>Book 91 Hadith 9</td></tr></tbody></table></div>
 

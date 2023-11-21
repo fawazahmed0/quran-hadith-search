@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Abbas ibn AbdulMuttalib: I was sitting in al-Batha with a company am
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah Al Bazzar] berkata, telah menceritakan kepada kami [Al Walid bin Abu Tsaur] dari [Simak] dari [Abdullah bin Amirah] dari [Al Ahnaf bin Qais] dari [Al Abbas bin Abdul Muthallib] ia berkata, "Aku pernah berada di wilayah Bathha bersama rombongan yang di dalamnya terdapat Rasulullah shallallahu 'alaihi wasallam. Lalu ada awan yang melintasi mereka, beliau melihat awan itu lalu bersabda: "Kalian menyebut apa ini?" para sahabat menjawab, "Awan." Beliau bersabda: "Dan Al Muzn?" mereka menjawab, "Ya, (kami juga menyebutnya) Al Muzn." Beliau bersabda: "Dan Al 'Anan?" mereka menjawab, "Ya, dan Al 'Anan." -Abu Dawud berkata, "Aku tidak menghafal lafadz Al 'Anan dengan baik- Beliau lalu bertanya: "Apakah kalian tahu berapa jarak antara langit dan bumi?" mereka menjawab, "Kami tidak tahu." Beliau bersabda: "Sesungguhnya jarak antara keduanya adalah bisa tujuh puluh satu, atau tujuh puluh dua, atau tujuh puluh tiga tahun perjalanan -perawi masih ragu-. kemudian langit yang di atasnya juga seperti itu." Hingga beliau menyebutkan tujuh langit. Kemudian setelah langit ketujuh terdapat lautan, jarak antara bawah dan atasnya seperti jarak antara langit dengan langit (yang lain). Kemudian di atasnya terdapat delapan malaikat yang jarak antara telapak kaki dengan lututnya sejauh langit dengan langit yang lainnya. Dan di atas mereka terdapat Arsy, yang antara bagian bawah dengan atasnya sejauh antara langit satu dengan langit yang lainnya. Dan Allah Tabaraka Wa Ta'ala ada di atasnya." Telah menceritakan kepada kami [Ahmad bin Abu Suraij] berkata, telah mengabarkan kepada kami ['Abdurrahman bin Abdullah bin Sa'd] dan [Muhammad bin Sa'id] keduanya berkata; telah mengabarkan kepada kami [Amru bin Abu Qais] dari [Simak] dengan sanad dan makna yang sama. Telah menceritakan kepada kami [Ahmad bin Hafsh] ia berkata; telah menceritakan kepadaku [Bapakku] berkata, telah menceritakan kepada kami [Ibrahim bin Thahman] dari [Simak] dengan sanad yang sama dan makna hadits ini yang panjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4723</td></tr><tr><td>Arabic No</td><td>4723</td></tr><tr><td>Reference</td><td>Book 42 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-‘Аббаса ибн ‘Абдульмутталиба: «Я вместе с группой людей был в Батхе, сопровождая Посланника Аллаха ﷺ и на небе появилось облако. Он посмотрел на него и спросил: “Как вы называете это?” Люди ответили: “Сахаб”. Посланник Аллаха ﷺ спросил: “И музн?” Люди ответили: “И музн”. Посланник Аллаха ﷺ спросил: “И ‘анан?” Люди ответили: “И ‘анан”. Посланник Аллаха ﷺ спросил: “А знаете ли вы, каково расстояние между небесами и землёй?” Люди ответили: “Нет, не знаем”. Посланник Аллаха ﷺ сказал: “Между ними расстояние в семьдесят один, семьдесят два или семьдесят три года пути, и так же между первым небом и следующим и так семь небес. Над седьмым небом море, глубина которого равна расстоянию между каждыми двумя небесами. Над всем этим восемь (ангелов в образе) козлов, причём расстояние от копыт до колен каждого равно расстоянию между каждыми двумя небесами, а на их спинах Трон, причём высота его соответствует расстоянию между каждыми двумя небесами. А над всем этим Всеблагой и Всевышний Аллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4723</td></tr><tr><td>Arabic No</td><td>4723</td></tr><tr><td>Reference</td><td>Book 42 Hadith 128</td></tr></tbody></table></div>
 

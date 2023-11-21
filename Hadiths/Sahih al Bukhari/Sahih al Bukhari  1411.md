@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Haritha bin Wahab:I heard the Prophet (ﷺ) saying, "O people! Give in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Ma'bad bin Khalid] berkata; Aku mendengar [Haritsah bin Wahab] berkata; Aku mendengar Nabi Shallallahu'alaihiwasallam bersabda: "Bershadaqalah, karena nanti akan datang kepada kalian suatu zaman yang ketika itu seseorang berkeliling dengan membawa shadaqahnya namun dia tidak mendapatkan seorangpun yang menerimanya. Lalu seseorang berkata,: "Seandainya kamu datang membawanya kemarin pasti aku akan terima. Adapun hari ini aku tidak membutuhkannya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1411</td></tr><tr><td>Arabic No</td><td>1411</td></tr><tr><td>Reference</td><td>Book 24 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса бин Вахб, да будет доволен им Аллах, сказал:\n— Я слышал, как Пророк ﷺ сказал: «Подавайте милостыню, ибо, поистине, настанут для вас такие времена, когда человек будет искать, (кому бы подать) её, но не найдёт никого, кто бы её принял, а тот, (кому он станет предлагать это,) скажет: “Если бы ты принёс (свою милостыню) вчера, я бы принял её, а сегодня я в ней не нуждаюсь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1411</td></tr><tr><td>Arabic No</td><td>1411</td></tr><tr><td>Reference</td><td>Book 24 Hadith 15</td></tr></tbody></table></div>
 

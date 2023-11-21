@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Dhakwân transmet : J'ai entendu 'Aïcha dire : J'ai demandé à l'Envoyé de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dari [Ibnu Juraij]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Rafi'] semuanya dari [Abdur Razzaq] sedangkan lafazhnya dari [Ibnu Rafi'] telah menceritakan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ibnu Juraij] dia berkata; Saya pernah mendengar [Ibnu Abi Mulaikah] berkata; [Dzakwan, mantan sahay 'Aisyah] berkata; Saya telah mendengar ['Aisyah] berkata; "Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai seorang gadis yang dinikahkan oleh keluarganya, apakah harus meminta izin darinya atau tidak?" Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Ya, dia dimintai izin." 'Aisyah berkata; Lalu saya berkata kepada beliau; "Sesungguhnya dia malu (mengemukakannya)." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika dia diam, maka itulah izinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3475</td></tr><tr><td>Arabic No</td><td>1420</td></tr><tr><td>Reference</td><td>Book 16 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3475</td></tr><tr><td>Arabic No</td><td>1420</td></tr><tr><td>Reference</td><td>Book 16 Hadith 77</td></tr></tbody></table></div>
 

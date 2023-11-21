@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If any one of you says, "Ami
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian 'Amiin' dan para Malaikat yang ada di langit juga membaca 'Amiin', lalu bacaan salah satunya bersamaan dengan bacaan yang lain, maka dosanya yang telah lalu akan diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>781</td></tr><tr><td>Arabic No</td><td>781</td></tr><tr><td>Reference</td><td>Book 10 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Пророк ﷺ сказал: «Если кто-то из вас скажет: “Амин”, — и ангелы на небе скажут: “Амин”, — одновременно с ним, то ему будут прощены его прошлые прегрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>781</td></tr><tr><td>Arabic No</td><td>781</td></tr><tr><td>Reference</td><td>Book 10 Hadith 176</td></tr></tbody></table></div>
 

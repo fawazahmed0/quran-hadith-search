@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:That he fought in a Ghazwa towards Najd along with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4135</td></tr><tr><td>Arabic No</td><td>4135</td></tr><tr><td>Reference</td><td>Book 64 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, что (в свое время) он вместе с Посланником Аллаха ﷺ участвовал в военном походе на Неджд, и когда Посланник Аллаха ﷺ двинулся в обратный путь, он (тоже) был вместе с ним. Время полуденного отдыха застало их в каком-то вади, густо поросшем терновником, и Посланник Аллаха ﷺ спешился, а люди разошлись среди этого терновника в разные стороны, желая укрыться в тени деревьев. И Посланник Аллаха ﷺ (также) расположился в тени акации, повесив на неё свой меч.\nДжабир сказал: «Немного поспав, мы вдруг (услышали, что) Посланник Аллаха ﷺ зовёт нас, явились к нему, и оказалось, что рядом с ним сидит какой-то бедуин. Посланник Аллаха ﷺ сказал: “Этот (человек) вытащил из ножен мой меч (и поднял его) на меня, когда я спал, а когда я проснулся, он держал обнажённый меч в своей руке. Он сказал мне: “Кто защитит тебя от меня?” — а я ответил (ему): “Аллах!” — и вот он сидит здесь». И после этого Посланник Аллаха ﷺ не стал наказывать его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4135</td></tr><tr><td>Arabic No</td><td>4135</td></tr><tr><td>Reference</td><td>Book 64 Hadith 179</td></tr></tbody></table></div>
 

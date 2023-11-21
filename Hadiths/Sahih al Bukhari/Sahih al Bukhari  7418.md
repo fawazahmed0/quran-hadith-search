@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Hussain:While I was with the Prophet (ﷺ) , some people fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] berkata, Telah mengabarkan kepada kami [Abu Hamzah] dari [Al A'masy] dari [Jami' bin Syidad] dari [Shafwan bin Muhriz] dari ['Imran bin Hushain] berkata, "Pernah aku di sisi Nabi shallallahu 'alaihi wasallam. Tiba-tiba ada sekelompok kaum dari bani Tamim mendatanginya dan berkata, 'Terimalah berita gembira wahai bani Tamim! Mereka menjawab, 'Engkau telah memberi kami kabar gembira, maka berikanlah! Lantas beberapa orang penduduk Yaman datang dan beliau katakan: 'Terimalah kabar gembira wahai penduduk Yaman, sebab bani Tamim belum menemerimanya! ' Mereka jawab, 'kami menerimanya, kami datang untuk belajar agama dan bertanya kepadamu awal-awal kejadian alam ini! Nabi menjawab: 'Allah telah ada dan tidak ada sesuatu pun terjadi sebelum-Nya, arsy-Nya berada di atas air, kemudian Allah mencipta langit dan bumi dan Allah menetapkan segala sesuatu dalam alquran'. Lantas seorang laki-laki mendatangiku dan berujar 'Wahai Imran, carilah untamu, sebab untamu pergi! Aku bergegas mencarinya, tidak tahunya fatamorgana (padang pasir) menghilangkan pandangannya. Demi Allah, sungguh aku mengimpikan sekiranya untaku biarlah hilang sedang aku tidak usah berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7418</td></tr><tr><td>Arabic No</td><td>7418</td></tr><tr><td>Reference</td><td>Book 97 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Имран ибн Хусайн, да будет доволен Аллах им и его отцом, сказал: «Как-то раз я находился у Пророка ﷺ и в это время к нему пришли люди из племени бану тамим, (которым) он сказал: “О бану тамим, примите благую весть!” Они сказали: “Ты уже порадовал нас, а теперь дай нам (что-нибудь)”. А потом к нему зашли люди из числа жителей Йемена, и он сказал: “О йеменцы, примите радостную весть вы, ибо (люди из племени) бану тамим отвергли её!” — и они сказали: “Мы уже приняли (её). Мы прибыли к тебе, чтобы обучиться религии и спросить тебя о начале этого дела (творения). Как всё было?” (Тогда Пророк ﷺ) сказал: “(Сначала) был (только) Аллах, и не было ничего, кроме Него, и был Его Трон на воде, затем создал Он небеса и землю, и записал Он в Книге всякую вещь”. Потом ко мне подошёл какой-то человек и сказал: “О ‘Имран, догони свою верблюдицу, ибо она убежала!” — и я бросился искать её, но не увидел её из-за марева, и, клянусь Аллахом, мне бы очень хотелось, чтобы верблюдица убежала, и я не вставал со своего места (сожалея о том, что я пропустил из слов Пророка ﷺ)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7418</td></tr><tr><td>Arabic No</td><td>7418</td></tr><tr><td>Reference</td><td>Book 97 Hadith 46</td></tr></tbody></table></div>
 

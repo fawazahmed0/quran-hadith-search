@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) mentioned the greatest sins or h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Walid] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; telah menceritakan kepadaku ['Ubaidullah bin Abu Bakr] dia berkata; saya mendengar [Anas bin Malik] radliallahu 'anhu berkata; "Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang dosa besar atau beliau ditanya tentang dosa besar, lalu beliau menjawab: "Menyekutukan Allah, membunuh jiwa dan durhaka kepada kedua orang tua." Lalu beliau bersabda: "Maukah aku beritahukan kepada kalian yang termasuk dari dosa besar?" beliau bersabda: "Perkataan dusta atau beliau bersabda: "Kesaksian palsu." Syu'bah mengatakan; "Dan saya menyangka bahwa beliau mengatakan; "Kesaksian palsu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5977</td></tr><tr><td>Arabic No</td><td>5977</td></tr><tr><td>Reference</td><td>Book 78 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ упомянул большие грехи (или: его спросили о больших грехах), и он ответил: “(Это —) придавание Аллаху сотоварищей, убийство (невинной) души, непочтительное отношение к родителям”. (Также) он сказал: “Не поведать ли вам о наиболее тяжких грехах? Это — лживое слово (или: лживое свидетельство)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5977</td></tr><tr><td>Arabic No</td><td>5977</td></tr><tr><td>Reference</td><td>Book 78 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "No doubt, it is better for a perso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiats] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Sungguh seorang dari kalian yang mengambil talinya lalu pergi. Kata Beliau; ke gunung lalu dia mencari kayu bakar kemudian dia menjualnya lalu dari dia dapat makan dan bershadaqah lebih baik baginya daripada meminta manusia". Berkata, Abu 'Abdullah Al Bukhariy: Shalih bin Kaisan lebih tua dari pada Az Zuhriy dan dia semasa hidupnya bertemu dengan Ibnu'Umar radliallahu 'anhuma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1480</td></tr><tr><td>Arabic No</td><td>1480</td></tr><tr><td>Reference</td><td>Book 24 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, для любого из вас взять веревку, отправиться утром в горы, нарубить дров, продать их и есть (с этого дохода) и давать милостыню лучше, чем обращаться с просьбами к людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1480</td></tr><tr><td>Arabic No</td><td>1480</td></tr><tr><td>Reference</td><td>Book 24 Hadith 81</td></tr></tbody></table></div>
 

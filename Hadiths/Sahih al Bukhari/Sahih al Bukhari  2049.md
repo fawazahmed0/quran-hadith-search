@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When 'Abdur-Rahman bin 'Auf came to Medina, the Prophet (ﷺ) esta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Humaid] dari [Anas radliallahu 'anhu] berkata; 'Abdurrahman bin 'Auf radliallahu 'anhu tiba di Madinah, lalu Rasulullah shallallahu 'alaihi wasallam mempersaudarakannya dengan Saad bin Ar-Rabi' Al Anshariy. Saat itu Sa'ad adalah seorang yang kaya, lalu dia berkata, kepada 'Abdurrahman: "Aku akan membagi untukmu separuh dari hartaku dan menikahkanmu (dengan salah seorang dari isteriku) ". 'Abdurrahman berkata: "Semoga Allah memberkahimu dalam keluarga dan hartamu. Bagiku darimu cukup tunjukkanlah pasar kepadaku". Maka dia tidak kembali melainkan pergi ke pasar dengan membawa keju dan minyak samin lalu membawa keuntungannya untuk keluarganya lalu tinggal sejenak atau sesuai apa yang Allah kehendaki. Kemudian dia datang dengan baju yang penuh arama wewangian. Lalu Nabi shallallahu 'alaihi wasallam bertanya kepadanya: "Apakah engkau sudah menikah?" Dia menjawab: "Ya, aku sudah menikah dengan seorang wanita Anshar". Beliau bertanya lagi: "Dengan mahar apa engkau melakukan akad nikah?" Dia menjawab: "Dengan perhiasan sebiji emas, atau sebiji emas". Lalu Nabi shallallahu 'alaihi wasallam berkata, kepadanya: "Adakanlah walimah walau dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2049</td></tr><tr><td>Arabic No</td><td>2049</td></tr><tr><td>Reference</td><td>Book 34 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда ‘Абдуррахман ибн ‘Ауф прибыл в Медину, Пророк ﷺ побратал его с Са‘дом ибн ар-Раби‘ аль-Ансари. Са‘д был богатым человек, поэтому он сказал ‘Абдуррахману: “Я поделю своё имущество пополам и женю тебя”. ‘Абдуррахман ответил: “Да благословит Аллах твою семью и твоё имущество! Покажите мне рынок”. И он не вернулся (с рынка) до тех пор, пока не заработал сушёный творог и масло, и принёс его домой. После того как прошло немного времени, он явился с жёлтыми следами (от благовоний на теле). Пророк ﷺ спросил его: “Что это?” Он ответил: “О Посланник Аллаха! Я женился на женщине из ансаров”. Он спросил: “Что же ты подарил ей?” Он ответил: “Золото, равное по весу (финиковой) косточке”. Тогда Пророк ﷺ сказал: “Тебе следует устроить свадебное угощение /уалима/ хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2049</td></tr><tr><td>Arabic No</td><td>2049</td></tr><tr><td>Reference</td><td>Book 34 Hadith 3</td></tr></tbody></table></div>
 

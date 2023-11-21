@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported that when Asma' bint 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ghassan Muhammad bin Amru] Telah menceritakan kepada kami [Jarir bin Abdul Hamid] dari [Yahya bin Sa'id] dari [Ja'far bin Muhammad] dari [bapaknya] dari [Jabir bin Abdullah] radliallahu 'anhuma, yakni terkait dengan hadits Asma binti Umais saat ia melahirkan di Dzulhulaifah bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan Abu Bakar radliallahu 'anhu, agar ia mandi Janabah dan berniat Ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2909</td></tr><tr><td>Arabic No</td><td>1210</td></tr><tr><td>Reference</td><td>Book 15 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2909</td></tr><tr><td>Arabic No</td><td>1210</td></tr><tr><td>Reference</td><td>Book 15 Hadith 118</td></tr></tbody></table></div>
 

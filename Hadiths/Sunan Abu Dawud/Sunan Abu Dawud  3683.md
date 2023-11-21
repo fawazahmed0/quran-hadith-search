@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Daylam al-Himyari: I asked the Prophet (ﷺ) and said: Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] telah menceritakan kepada kami ['Abdah] dari [Muhammad bin Ishaq] dari [Yazid bin Abu Habib] dari [Murtsad bin Abdullah Al Yazini] dari [Dailam Al Himyari] ia berkata, "Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, sesungguhnya kami berada di negeri yang dingin, di sana kami melakukan pekerjaan berat, dan kami membuat minuman dari gandum ini agar kami kuat untuk melakukan pekerjaan kami dan tahan terhadap dinginnya negeri kami?" Beliau menjawab: "Apakah hal itu memabukkan?" Aku menjawab, "Ya." Beliau bersabda: "Jauhilah minuman tersebut!" Aku katakan, "Orang-orang tidak meninggalkannya." Beliau bersabda: "Apabila mereka tidak meninggalkannya maka perangilah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3683</td></tr><tr><td>Arabic No</td><td>3683</td></tr><tr><td>Reference</td><td>Book 27 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Дайляма аль-Химьяри, да будет доволен им Аллах: «Я спросил Посланника Аллаха ﷺ: “О Посланник Аллаха, поистине, мы живём в холодной земле и выполняем тяжёлую работу, и мы делаем из пшеницы напиток, которым подкрепляем свои силы, чтобы справиться с работой и холодом в наших землях”. (Посланник Аллаха ﷺ) спросил: “Этот напиток опьяняет?” Я ответил: “Да”. Он сказал: “Тогда избегайте его употребления”. Я сказал: “Но люди не перестанут употреблять его (, настаивая на его разрешённости)!” (Посланник Аллаха ﷺ) сказал: “Если они не перестанут, сражайся с ними”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3683</td></tr><tr><td>Arabic No</td><td>3683</td></tr><tr><td>Reference</td><td>Book 27 Hadith 15</td></tr></tbody></table></div>
 

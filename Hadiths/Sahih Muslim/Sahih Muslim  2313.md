@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Jâbir (que Dieu l'agrée) : Un homme de la tribu 'Udhra a promis l'affran
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Al Laits] -dalam jalur lain- Dan Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Abu Zubair] dari [Jabir] ia berkata; Seorang laki-laki dari Bani Udzrah memerdekakan hamba sahayanya dengan tebusan. Berita itu sampai kepada Rasulullah shallallahu 'alaihi wasallam, beliau bertanya kepada pemilik budak itu: "Masih adakah hartamu selain budak itu?" orang itu menjawab, "Tidak, wahai Rasulullah." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Siapakah yang mau membeli budak itu daripadaku?" Akhirnya budak itu pun dibeli oleh Nu'aim bin Abdullah Al Adawi, dengan harga delapan ratus dirham yang diserahkannya kepada Rasulullah shallallahu 'alaihi wasallam, dan beliau meneruskannya kepada pemilik hamba sahaya itu. Kemudian beiau bersabda kepadanya: "Manfaatkanlah uang ini untuk dirimu sendiri, bila ada sisanya maka untuk keluargamu, jika masih tersisa, maka untuk kerabatmu, dan jika masih tersisa, maka untuk orang-orang disekitarmu." Dan telah menceritakan kepadaku [Ya'qub bin Ibrahim Ad Dauraqi] Telah menceritakan kepada kami [Isma'il] yakni Ibnu Ulayyah, dari [Ayyub] dari [Abu Zubair] dari [Jabir] bahwa seorang laki-laki dari Anshar yang biasa dipanggil Abu Madzkur, memerdekakan hamba sahaya miliknya yang namanya Ya'qub dengan tebusan. Ia pun menuturkan hadits yang semakna dengan haditsnya Laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2313</td></tr><tr><td>Arabic No</td><td>997.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Джабир сказал: «Один человек из (рода) бану ‘узра (завещал) освободить своего раба после своей смерти. Это дошло до Посланника Аллаха ﷺ, и он спросил (человека): “Есть ли у тебя другое имущество, кроме этого (раба)?” Тот сказал: “Нет”. Тогда (Пророк ﷺ) стал спрашивать: “Кто купит его у меня?” и (этого раба) за восемьсот дирхемов купил Ну‘айм ибн ‘Абдуллах аль-‘Адави. (После этого) Посланник Аллаха ﷺ принёс (эти деньги бывшему владельцу раба) и отдал их ему, а потом сказал: “Начинай с себя и давай садаку самому себе. Если что-нибудь останется, (расходуй это) на свою семью, если что-то останется (и после этого, израсходуй) что-нибудь на своих родственников, если же что-то останется (и после этого, расходуй) так и так” (и он стал делать знаки рукой, желая) сказать: “(Расходуй средства) перед собой, (а также) направо и налево”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2313</td></tr><tr><td>Arabic No</td><td>997.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 50</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik reported that Messenger of Allah (ﷺ) as saying:O Allah, I seek r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Mu'tamir] ia berkata; aku mendengar [Ayahku] berkata; aku pernah mendengar [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "ALLAAHUMMA INNII A'UUDZU BIKA MINAL BUKHLI WAL HARAMI (Ya Allah, aku berlindung kepada-Mu dari sifat kikir dan pikun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2823) Sahih Muslim (2706)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3972</td></tr><tr><td>Arabic No</td><td>3972</td></tr><tr><td>Reference</td><td>Book 32 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что однажды Пророк ﷺ сказал: «О Аллах, поистине, я прошу у Тебя защиты от скупости /бухль/ и дряхлости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2823) Sahih Muslim (2706)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3972</td></tr><tr><td>Arabic No</td><td>3972</td></tr><tr><td>Reference</td><td>Book 32 Hadith 4</td></tr></tbody></table></div>
 

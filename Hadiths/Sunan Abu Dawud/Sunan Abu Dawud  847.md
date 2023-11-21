@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu sa’id al-Khuri said:When the Messenger of Allah (ﷺ) said: “ Allah list
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Al Fadl Al Harrani] telah menceritakan kepada kami [Al Walid]. dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Abu Mushir]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu As Sarh] telah menceritakan kepada kami [Bisyr bin Bakr]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Mahmud bin Mush'ab] telah menceritakan kepada kami [Abdullah bin Yusuf] semuanya dari [Sa'id bin Abdul Aziz] dari ['Athiyah bin Qais] dari [Qaza'ah bin Yahya] dari [Abu Sa'id Al Khudri] bahwa ketika Rasulullah shallallahu 'alaihi wasallam mengucapkan; "Sami'allaahu liman hamidah" maka beliau melanjutkan dengan "RABBANAA LAKAL HAMDU MIL'US SAMAA'I -Mu'ammil mengatakan; MIL'US SAMAAWATI- WAMIL'UL ARDLI WAMIL'U MAASYI'TA MIN SYAI'IN BA'DU AHLUTS TSANAA'I WAL MAJDI AHAQQU MAA QAALAL 'ABDU WA KULLANAA MAA QAALAL 'ABDU WA KULLANAA LAKAL 'ABDU LAA MAANI'A LIMAA A'THAITA (Ya Allah Rabb kami, hanya untuk Engkau lah segala pujian sepenuh langit dan bumi dan sepenuh apa saja yang Engkau kehendaki, wahai Allah yang berhak menerima sanjungan dan kehormatan, Ucapan yang paling pantas di ucapkan oleh seorang hamba, dan kami semua adalah hamba-Mu, tak seorang pun yang dapat melarang apa yang telah Engkau berikan)." -Mahmud menambahkan- WALAA MU'THIYA LIMAA MANA'TA (begitu pula tak seorang pun yang dapat memberikan apa yang Engkau cegah)." -kemudian riwayat mereka bersambung lagi- WALAA YANFA'U DZAL JADDI MINKAL JADDU (dan sekali-kali tidak bermanfa'at bagi orang yang mempunyai kebesaran, dari Engkau lah kebesaran itu)." Bisyr mengatakan; "RABBANAA LAKAL HAMDU (Wahai Rabb kami, bagi-Mu lah segala pujian) " tidak menyebutkan; "ALLAHUMMA." Begitu juga dalam riwayatnya Mahmud, dia tidak mengatakan; "ALLAHUMMA" namun hanya mengatakan; "RABBANAA WA LAKAL HAMDU
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (477)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>847</td></tr><tr><td>Arabic No</td><td>847</td></tr><tr><td>Reference</td><td>Book 2 Hadith 457</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что, выпрямляясь после поясного поклона, Посланник Аллаха ﷺ обычно говорил после: «Да услышит Аллах того, кто восхваляет Его! (Сами‘а-Ллаху лиман хамида-ху)»: «О Аллах, Господь наш, Тебе хвала, и пусть эта хвала наполнит собой небо [или: небеса], землю, и всё, что ещё будет угодно Тебе. Ты более всех достоин восхваления и прославления, оно самое достойное из того, что говорит раб, а все мы Твои рабы. Никто не лишит того, что Ты даровал…»В версии Махмуда добавлено: «…и никто не дарует того, чего Ты лишил…». Далее говорится: «…и бесполезным пред Тобой окажется богатство обладающего богатством (Аллахумма, Рабба-на, ля-ка-ль-хамду мильа-с-самаи [или: мильа-с-самавати], ва-ль-арды, ва ма байна-хума, ва мильа ма шита мин шайин ба‘ду. Ахля-с-сана‘и ва-ль-маджди, ахакку ма каля-ль-‘абду, ва куллю-на ля-ка ‘абд. Ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-ка-ль-джадд)».В версии Бишра говорится: «Господь наш, Тебе хвала».А в версии Махмуда не говорится: «О Аллах», но говорится: «Господь наш, и Тебе хвала»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (477)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>847</td></tr><tr><td>Arabic No</td><td>847</td></tr><tr><td>Reference</td><td>Book 2 Hadith 457</td></tr></tbody></table></div>
 

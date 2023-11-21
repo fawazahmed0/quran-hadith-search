@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar Ibn 'Abdoullâh écrivit à 'Abdoullâh Ibn 'Utba, l'informant que Subay'a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ath Thahir] dan [Harmalah bin Yahya] sedangkan lafazh haditsnya hampir sama, Harmalah mengatakan; Telah menceritakan kepada kami, sedangkan Abu Thahir mengatakan; Telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] telah menceritakan kepadaku [Ubaidullah bin Abdillah bin 'Utbah bin Mas'ud] bahwa [ayahnya] pernah menulis kepada [Umar bin Abdullah bin Arqam Az Zuhri] dan memerintahkannya untuk menemui [Subai'ah binti Al Harits Al Aslamiyah] untuk menanyakan tentang riwayat haditsnya dan mengenai permasalahan apa Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepadanya ketika dia meminta fatwa. Umar bin Abdillah menulis surat kepada Abdullah bin 'Utbah dan mengabarkan kepadanya bahwa Suba'iah pernah mengabarkan kepadanya; Bahwa dia adalah istri Sa'ad bin Khaulah dari suku 'Amir bin Lu'ai. Sedangkan Sa'ad adalah salah seorang sahabat yang ikut berperang dalam peperangan Badar, dia meninggal dunia ketika Haji Wada' di saat istrinya hamil tua. Beberapa hari setelah dia wafat, istrinya pun melahirkan. Setelah istrinya suci dari nifas, dia pun berhias diri karena mengharap supaya dia dilamar orang. Tidak lama kemudian datanglah Abu Sanabil bin Ba'kak -seorang laki-laki dari Bani Abdid Dar- dia berkata kepadanya; "Saya melihatmu berhias diri, barang kali kamu berharap untuk menikah lagi. Demi Allah, kamu belum boleh menikah lagi sebelum lewat empat bulan sepuluh hari." Kata Subai'ah; Setelah dia berkata demikian kepadaku, lalu saya langsung mengenakan pakaianku dan pergi menemui Rasulullah shallallahu 'alaihi wasallam, kutanyakan masalah tersebut kepada beliau. Kemudian beliau berfatwa kepadaku bahwa sebenarnya saya sudah halal untuk menikah setelah melahirkan anakku, bahkan beliau menyuruhku menikah lagi jika saya berkenan. Ibnu Syihab mengatakan; "Maka saya berpendapat bolehnya seorang wanita menikah setelah melahirkan, meskipun ia masih mengeluarkan darah, asal suaminya tidak menyetubuhinya hingga ia suci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3722</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 18 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3722</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 18 Hadith 70</td></tr></tbody></table></div>
 

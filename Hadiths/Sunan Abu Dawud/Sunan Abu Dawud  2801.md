@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: A maternal uncle of mine called AbuBurdah sacrificed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid], dari [Mutharrif], dari ['Amir], dari [Al Bara' bin 'Azib], ia berkata; pamanku yang bernama Abu Burdah berkurban sebelum melakukan shalat. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepadanya: "Kambingmu adalah kambing daging (yang dimakan dagingnya saja)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5556) Sahih Muslim (1961)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2801</td></tr><tr><td>Arabic No</td><td>2801</td></tr><tr><td>Reference</td><td>Book 16 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Бара ибн ‘Азиба, да будет доволен им Аллах: «Мой дядя со стороны матери по имени Абу Бурда совершил жертвоприношение до праздничной молитвы, и Посланник Аллаха ﷺ сказал: “Твоя овца просто мясо”. Он сказал: “О Посланник Аллаха, у меня есть ручная козочка в возрасте до года”. (Посланник Аллаха ﷺ) сказал: “Зарежь её, но ни для кого, кроме тебя, подобное жертвоприношение действительным не будет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5556) Sahih Muslim (1961)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2801</td></tr><tr><td>Arabic No</td><td>2801</td></tr><tr><td>Reference</td><td>Book 16 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Jubair:I went to visit 'Abdullah bin 'Umar at his house which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada saya [Zaid bin Jubair] bahwa dia menemui ['Abdullah bin 'Umar radliallahu 'anha] di tempat menginapnya berupa tenda yang besar lagi tertutup rapat. Maka aku bertanya kepadanya: "Dari manakah dibolehkan memulai 'umrah?". Dia menjawab: "Rasulullah shallallahu 'alaihi wasallam telah mewajibkan bahwa untuk penduduk Najed memulainya dari Qarnul Manazil, bagi penduduk Madinah dari Dzul Hulaifah dan bagi penduduk Syam dari Al Juhfah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1522</td></tr><tr><td>Arabic No</td><td>1522</td></tr><tr><td>Reference</td><td>Book 25 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Джубаир пришел домой к ‘Абдуллаху ибн ‘Умару и спросил его: «Откуда мне следует (заходить в состояние ихрама, чтобы) совершить умру?» Он ответил: «Посланник Аллаха ﷺ установил для жителей Неджда — Карн, для жителей Медины — Зуль-Хулейфу, а для жителей Шама — аль-Джухфу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1522</td></tr><tr><td>Arabic No</td><td>1522</td></tr><tr><td>Reference</td><td>Book 25 Hadith 10</td></tr></tbody></table></div>
 

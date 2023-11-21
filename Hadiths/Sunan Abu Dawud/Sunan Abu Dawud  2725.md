@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Nusa said “We arrived just at the moment when the Apostle of Allaah(ﷺ) c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], ia berkata; telah menceritakan kepada kami [Abu Usamah], telah menceritakan kepada kami [Buraid] dari [Abu Burdah] dari [Abu Musa], ia berkata; kami datang dan bertepatan Rasulullah shallallahu 'alaihi wasallam berada di Khaibar. Kemudian beliau memberikan saham kepada kami. -atau ia mengatakan; dan beliau memberikan sebagiannya kepada kami. Dan beliau tidak membagikan kepada seorangpun yang tidak menghadiri penaklukan Khaibar kecuali orang yang hadir bersama beliau, kecuali para penumpang kapal kami yaitu Ja'far dan para sahabatnya. Maka beliau memberikan saham bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4233) Sahih Muslim (2502)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2725</td></tr><tr><td>Arabic No</td><td>2725</td></tr><tr><td>Reference</td><td>Book 15 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4233) Sahih Muslim (2502)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2725</td></tr><tr><td>Arabic No</td><td>2725</td></tr><tr><td>Reference</td><td>Book 15 Hadith 249</td></tr></tbody></table></div>
 

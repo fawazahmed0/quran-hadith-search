@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Juraij:'Ikrima bin Khalid asked Ibn 'Umar about performing 'Umra be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ibnu Juraij] bahwa ['Ikrimah bin Khalid] bertanya kepada [Ibnu'Umar radliallahu 'anhuma] tentang melaksanakan 'umrah sebelum haji. Maka dia menjawab: "Tidaklah mengapa". 'Ikrimah berkata; berkata Ibnu'Umar radliallahu 'anhuma: "Nabi shallallahu 'alaihi wasallam melaksanakan 'umrah sebelum haji". Dan berkata [Ibrahim bin Saad] dari [Ibnu Ishaq] telah menceritakan kepada saya ['Ikrimah bin Khalid], aku bertanya kepada [Ibnu'Umar radliallahu 'anhuma] seperti itu. Telah menceritakan kepada kami ['Amru bin 'Ali] telah menceritakan kepada kami [Abu 'Ashim] telah mengabarkan kepada kami [Ibnu Juraij], telah berkata, ['Ikrimah bin Khalid]: "Aku bertanya kepada [Ibnu'Umar radliallahu 'anhuma] seperti itu juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1774</td></tr><tr><td>Arabic No</td><td>1774</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Умара, да будет доволен Аллах ими обоими, спросили о (допустимости совершения) умры раньше хаджа, на что он сказал: «В этом нет ничего дурного». И он сказал: «Пророк ﷺ совершил умру раньше хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1774</td></tr><tr><td>Arabic No</td><td>1774</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
 

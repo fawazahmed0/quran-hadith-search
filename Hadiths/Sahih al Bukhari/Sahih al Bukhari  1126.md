@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:One night the Prophet (ﷺ) got up and said, "Subhan Allah! H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Hind binti Al Harits] dari [Ummu Salamah radliallahu 'anha] bahwa pada suatu malam Nabi Nabi shallallahu 'alaihi wasallam terbangun lalu bersabda: "Subhaanallah (Maha suci Allah), fitnah apakah yang diturunkan pada malam ini? Dan apa yang diturunkan pada dua perbendaharaan/kekayaan (Ramawi dan Parsi)?" Siapa yang membangunkan orang-orang yang ada di kamar-kamar (maksudnya isteri-isterinya)?, karena betapa banyak orang hidup menikmati nikmat-nikmat dari Allah di dunia ini namun akan telanjang nanti di akhirat (tidak mendapatkan kebaikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 19 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «Однажды ночью Пророк ﷺ проснулся и воскликнул: “Преславен Аллах! /Cубхана-Ллах!/ Какие смуты были ниспосланы сегодня ночью и какие сокровищницы открыты! Кто разбудит обитательниц комнат?! Ведь может получиться так, что одетая в мире этом окажется обнажённой в мире ином!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 19 Hadith 6</td></tr></tbody></table></div>
 

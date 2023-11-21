@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The sister of Uqbah ibn Amir took a vow that she wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hafsh bin Abdullah As Sulami], ia berkata; telah menceritakan kepadaku [ayahku], ia berkata; telah menceritakan kepadaku [Ibrahim bin Thahman] dari [Mathar] dari [Ikrimah] dari [Ibnu Abbas], bahwa saudari 'Uqbah bin 'Amir telah bernadzar untuk berhaji dengan berjalan kaki, dan ia tidak mampu melakukan hal tersebut. Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Sesungguhnya Allah tidak butuh kepada jalannya saudarimu, hendaknya ia berkendaraan dan menyembelih kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3303</td></tr><tr><td>Arabic No</td><td>3303</td></tr><tr><td>Reference</td><td>Book 22 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Кто умер и при этом на нём лежала обязанность поститься, за того постится его близкий родственник /вали/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3303</td></tr><tr><td>Arabic No</td><td>3303</td></tr><tr><td>Reference</td><td>Book 22 Hadith 62</td></tr></tbody></table></div>
 

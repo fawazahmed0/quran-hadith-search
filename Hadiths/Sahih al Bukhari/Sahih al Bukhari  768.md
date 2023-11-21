@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Rafi':Once I prayed the 'Isha' prayer with Abu Huraira and he recit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] berkata, telah menceritakan kepadaku [At Taimi] dari [Bakar] dari [Abu Rafi'] berkata, "Aku shalat 'Isya bersama [Abu Hurairah], lalu ia membaca 'IDZAS SAMAA'UNSYAQQAT' lalu ia sujud. Maka aku pun bertanya kepadanya kenapa melakukan hal tersebut. Dia lantas menjawab, "Aku pernah sujud di belakang Abu Al Qashim (Nabi shallallahu 'alaihi wasallam) setelah membaca surah tersebut, dan aku akan selalu sujud di dalamnya hingga aku berjumpa dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>768</td></tr><tr><td>Arabic No</td><td>768</td></tr><tr><td>Reference</td><td>Book 10 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Рафи‘ (да помилует его Аллах) сказал: «(Однажды) я совершал вечерний намаз /аль-‘атама/, находясь позади Абу Хурайры (да будет доволен им Аллах), и он прочитал: “Когда небо расколется…”, после чего совершил земной поклон. Я спросил: Что это такое? Он сказал: “Я совершал земной поклон находясь позади Абу-ль-Касима ﷺ и не перестану совершать его (после чтения) этой (суры) до тех пор, пока не встречусь с ним”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>768</td></tr><tr><td>Arabic No</td><td>768</td></tr><tr><td>Reference</td><td>Book 10 Hadith 162</td></tr></tbody></table></div>
 

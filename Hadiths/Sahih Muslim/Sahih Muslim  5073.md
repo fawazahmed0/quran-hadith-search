@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported Allah's Messenger (ﷺ) having said:The first (act) w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] sedangkan lafadznya dari Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Zubaid Al Iyyami] dari [As Sya'bi] dari [Al Barra' bin 'Azib] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Pekerjaan yang mula-mula kita lakukan hari ini ialah shalat. Sesudah shalat, kita pulang lalu menyembelih kurban. Siapa yang melakukan seperti itu, sesungguhnya dia melaksanakan sunnahku dengan tepat. Namun siapa menyembelih kurban sebelum shalat ied, itu hanya merupakan daging yang biasa diberikan kepada keluarganya, dan tidak merupakan kurban sama sekali." Ketika itu Abu Burdah bin Niyar telah menyembelih hewan kurban, lalu dia berkata, "saya memiliki seekor kambing muda yang lebih baik dari kambing biasa." Lantas beliau bersabda: "Sembelihlah ia, dan jangan sampai ada lagi orang yang menyembelih Jad'ah setelahmu." Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Zubaid] bahwa dia mendengar [Sya'bi] dari [Al Barra' bin 'Azib] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Hannad bin As Sarri] keduanya berkata; telah menceritakan kepada kami [Abu Al Ahwash]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari [Jarir] keduanya dari [Manshur] dari [As Sya'bi] dari [Al Barra' bin 'Azib] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah berkhutbah pada hari raya kurban setelah melakukan shalat…kemudian dia menyebutkan sebagaimana hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5073</td></tr><tr><td>Arabic No</td><td>1961.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5073</td></tr><tr><td>Arabic No</td><td>1961.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) dit : L'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], katanya; aku menyetorkan hapalan kepada [Malik] dari [Nafi'] bahwa [Ibnu Umar] pernah mengumandangkan adzan shalat di malam yang sangat dingin dan berangin kencang, maka dalam adzannya ia mengucapkan; 'Alaa tusholluu fir rihaal (Tidak sebaiknyakah kalian shalat di persinggahan kalian?) kemudian katanya; Rasulullah shallallahu 'alaihi wasallam juga pernah memerintahkan mu'adzinnya jika malam sangat dingin dan terjadi hujan lebat untuk mengucapkan; 'Alaa tushalluu rir rihaal (Tidak seebaiknyakah kalian shalat di persinggahan kalian?)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>697.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) холодной и ветреной ночью Ибн ‘Умар призвал людей на молитву. (Он завершил свой призыв) словами: «Молитесь на (своих) местах», а потом сказал: «Находясь в пути холодной и дождливой ночью, Посланник Аллаха ﷺ обычно повелевал муаззину (призвать людей к молитве, а после азана) сказать: “Молитесь на (своих) местах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>697.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) said: When one of y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdul Wahid bin Ziyad], telah menceritakan kepada Kami [Al Hajjaj] dari [Az Zuhri] dari ['Amrah binti Abdurrahman] dari [Aisyah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Apabila salah seorang diantara kalian melempar jumrah 'aqabah, maka telah halal baginya segala sesuatu, kecuali wanita." Abu Daud berkata; hadits ini adalah hadits dha'if. Al Hajjaj tidak melihat Az Zuhri dan tidak mendengar darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1978</td></tr><tr><td>Arabic No</td><td>1978</td></tr><tr><td>Reference</td><td>Book 11 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Когда один из вас бросит камешки в последний столб (джамрат аль-‘акаба), всё становится разрешённым для него, кроме женщин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1978</td></tr><tr><td>Arabic No</td><td>1978</td></tr><tr><td>Reference</td><td>Book 11 Hadith 258</td></tr></tbody></table></div>
 

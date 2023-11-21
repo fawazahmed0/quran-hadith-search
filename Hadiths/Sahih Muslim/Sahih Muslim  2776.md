@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) and Ibn Numair reported Allah's Messenger (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Numair] dan [Waki'] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Cari dan tunggulah malam lailatul Qadr dalam sepuluh hari terakhir bulan Ramadlan." Ibnu Numair mengatakan dengan redaksi; "ILTAMISUU" sementara Waki' mengatakan dengan redaksi; "TAHARRAW." Dan maknanya adalah satu, yakni mencari-cari dan menunggu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2776</td></tr><tr><td>Arabic No</td><td>1169</td></tr><tr><td>Reference</td><td>Book 13 Hadith 282</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2776</td></tr><tr><td>Arabic No</td><td>1169</td></tr><tr><td>Reference</td><td>Book 13 Hadith 282</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair and Sa'id bin Al-Musaiyab:Hakim bin Hizam said, "(O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] dari ['Urwah bin Az Zubair] dan [Sa'id bin Al Musayyab] bahwa [Hakim bin Hizam radliallahu 'anhu] berkata,: "Aku pernah meminta sesuatu kepada Rasulullah Shallallahu'alaihiwasallam lalu Beliau memberiku. Kemudian aku meminta lagi, maka Beliau pun memberiku kembali. Kemudian aku meminta lagi, maka Beliu pun masih memberiku lag seraya Beliau bersabda: "Wahai Hakim, sesungguhnya harta itu hijau lagi manis, maka barangsiapa yang mencarinya untuk kedermawanan dirinya maka harta itu akan memberkahinya. Namun barangsiapa yang mencarinya untuk keserakahan maka harta itu tidak akan memberkahinya, seperti orang yang makan namun tidak kenyang. Tangan yang di atas lebih baik daripada tangan yang di bawah". Hakim berkata; "Lalu aku berkata, (kepada Beliau); "Wahai Rasulullah, demi Dzat yang telah mengutusmu dengan benar, aku tidak akan mengurangi hak seorangpun (yang meminta) setelah engkau hingga aku meninggalkan dunia ini". Suatu kali Abu Bakar pernah memanggil Hakim untuk diberikan sesuatu agar dia datang dan menerima pemberiannya. Kemudian 'Umar radliallahu 'anhu juga pernah memanggil Hakim untuk memberikan sesuatu namun Hakim tidak memenuhinya. Maka 'Umar radliallahu 'anhu berkata,: "Aku bersaksi kepada kalian, wahai kaum Muslimin, tentang Hakim. Sungguh aku pernah menawarkan kepadanya haknya dari harta fa'iy (harta musuh tanpa peperangan) ini agar dia datang dan mengambilnya. Sungguh Hakim tidak pernah mengurangi hak seorangpun setelah Rasulullah Shallallahu'alaihiwasallam hingga dia wafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1472</td></tr><tr><td>Arabic No</td><td>1472</td></tr><tr><td>Reference</td><td>Book 24 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаким бин Хизам, да будет доволен им Аллах, сказал: «(Однажды) я попросил (что-то) у Посланника Аллаха ﷺ и он дал мне это, потом я (снова) обратился к нему с просьбой, и он дал мне (то, что я просил), потом я (снова) обратился к нему с просьбой, и он дал мне (то, что я просил), а потом он сказал: “О Хаким, поистине, это имущество (подобно) сладкому плоду: оно становится благословенным для того, кто берёт его, будучи щедрым, а для того, кто берёт его(, подчиняясь желаниям своей) души, благословенным оно не станет, и уподобится он (человеку), который ест, но не насыщается. (Запомни, что) высшая рука лучше низшей”».\nХаким сказал: «Тогда я сказал: “О Посланник Аллаха, клянусь Тем, Кто направил тебя с истиной, после тебя я ни у кого ничего не возьму, пока не покину этот мир!”»\n(Сообщается, что) потом Абу Бакр, да будет доволен им Аллах, призывал Хакима к себе, (чтобы тот взял полагающуюся ему часть военной добычи,) но (Хаким) отказался принять от него это. А затем с той же целью его призывал к себе ‘Умар, да будет доволен им Аллах, но он отказался принимать что-либо и от него, и тогда ‘Умар сказал: «О мусульмане, призываю вас в свидетели, что я предлагаю Хакиму полагающуюся ему долю от этой добычи, а он отказывается брать её». И после Посланника Аллаха ﷺ Хаким до самой своей смерти так ничего и не взял ни у кого из людей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1472</td></tr><tr><td>Arabic No</td><td>1472</td></tr><tr><td>Reference</td><td>Book 24 Hadith 74</td></tr></tbody></table></div>
 

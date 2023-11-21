@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) used to seek refuge with Allah from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Sumayy] dari [Abu Shalih] dari [Abu Hurairah] bahwa Rasulullah Shallallahu 'alahi wasallam selalu meminta perlindungan dari cobaan yang memayahkan, kesengsaraan yang menderitakan, takdir yang buruk dan cacian musuh.' Sufyan mengatakan; "Hadits tersebut (tiga macam keburukan -red) mamsih ada tambahan dariku, namun aku lupa yang satunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6347</td></tr><tr><td>Arabic No</td><td>6347</td></tr><tr><td>Reference</td><td>Book 80 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ часто обращался к Аллаху за защитой от трудностей испытания, крайне тяжёлого положения, дурного предустановления и злорадства врагов».\nСуфйан, передавший этот хадис, сказал: «(В этом) хадисе (упоминалось о) трёх (вещах), а одну я добавил, и я не знаю, какую именно из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6347</td></tr><tr><td>Arabic No</td><td>6347</td></tr><tr><td>Reference</td><td>Book 80 Hadith 44</td></tr></tbody></table></div>
 

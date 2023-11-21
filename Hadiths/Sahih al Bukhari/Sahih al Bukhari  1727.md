@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "O Allah! Be merciful
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, rahmatilah orang-orang yang mencukur rambutnya". Orang-orang berkata: "Dan juga bagi orang-orang yang hanya memendekkan rambutnya, wahai Rasulullah?". Beliau tetap berkata: "Ya Allah, rahmatilah orang-orang yang mencukur rambutnya". Orang-orang berkata, lagi: "Dan juga bagi orang-orang yang hanya memendekkan rambutnya, wahai Rasulullah?". Beliau baru bersabda: "Ya, juga bagi orang-orang yang hanya memendekkan rambutnya". Dan [Al Laits] berkata, telah menceritakan kepada saya (Nafi'), katanya; Beliau shallallahu 'alaihi wasallambersabda: "Allah merahmati orang-orang yang mencukur rambutnya", sekali atau dua kali. Dia berkata,, dan berkata, ['Ubaidullah] telah menceritakan kepada saya [Nafi']; dan Beliau shallallahu 'alaihi wasallamberkata, pada ucapan yang keempat: "Dan bagi orang-orang yang hanya memendekkan rambutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1727</td></tr><tr><td>Arabic No</td><td>1727</td></tr><tr><td>Reference</td><td>Book 25 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(После завершения обрядов хаджа) Посланник Аллаха ﷺ сказал: “О Аллах, помилуй сбривших волосы”. (Люди) сказали: “(Обратись с мольбой) и за укоротивших, о Посланник Аллаха!” Он (снова) сказал: “О Аллах, помилуй сбривших волосы”. (Люди) сказали: “(Обратись с мольбой) и за укоротивших, о Посланник Аллаха!” — (и тогда) он сказал: “И укоротивших”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1727</td></tr><tr><td>Arabic No</td><td>1727</td></tr><tr><td>Reference</td><td>Book 25 Hadith 205</td></tr></tbody></table></div>
 

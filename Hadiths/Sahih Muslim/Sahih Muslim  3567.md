@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Abu Waqqas (Allah be pleased with him) reported that a person came to Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdullah bin Numair] dan [Zuhair bin Harb] sedangkan lafazh dari Ibnu Numair, keduanya berkata; Telah menceritakan kepada kami [Abdullah bin Yazid Al Maqburi] telah menceritakan kepada kami [Haiwah] telah menceritakan kepadaku [Ayyasy bin Abbas] bahwasannya [Abu Nadlr] telah menceritakan kepadanya dari [Amir bin Sa'ad] bahwasannya [Usamah bin Zaid] mengabarkan kepada ayahnya Sa'd bin Abu Waqash bahwa seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam dan berkata; Sesungguhnya saya telah melakukan azl terhadap istriku (yang sedang menyusui). Lantas Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Kenapa kamu lakukan hal itu?" laki-laki tersebut menjawab; Saya kasihan terhadap anaknya atau anak-anaknya (khawatir jika anaknya menjadi cacat). Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya hal itu membahayakan, niscaya telah membahayakan orang-orang Persia dan Romawi." Zuhair berkata dalam riwayatnya; "Jika hal itu terjadi, niscaya hal itu juga telah membahayakan orang-orang Persia dan Romawi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3567</td></tr><tr><td>Arabic No</td><td>1443</td></tr><tr><td>Reference</td><td>Book 16 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3567</td></tr><tr><td>Arabic No</td><td>1443</td></tr><tr><td>Reference</td><td>Book 16 Hadith 169</td></tr></tbody></table></div>
 

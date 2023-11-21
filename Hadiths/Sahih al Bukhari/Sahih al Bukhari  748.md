@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Once solar eclipse occurred during the lifetime of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari ['Abdullah bin 'Abbas] berkata, "Pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, kemudian beliau melaksanakan shalat gerhana. Orang-orang berkata, "Wahai Rasulullah, kami lihat tuan mengambil sesuatu saat di posisimu, lalu tuan mundur kembali?" Beliau menjawab: "Aku diperlihatkan surga, lalu aku diberikan setandan anggur. Jika aku mengambilnya niscaya kalian akan memakannya yang akan mengakibatkan terabaikannya urusan dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>748</td></tr><tr><td>Arabic No</td><td>748</td></tr><tr><td>Reference</td><td>Book 10 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен ими обоими Аллах, сказал:\n— (Когда) при жизни Посланника Аллаха ﷺ произошло солнечное затмение, он совершил намаз. (Люди) сказали: «О Посланник Аллаха, мы видели, как ты взял что-то, (находясь) на своём месте, а потом мы видели, как ты отошёл назад». (В ответ на это пророк) ﷺ сказал: «Поистине, я видел рай и (протянул руки, чтобы) взять гроздь (растущих там плодов), и если бы я сумел сорвать её, то вы, несомненно, могли бы питаться (этими плодами) до скончания мира этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>748</td></tr><tr><td>Arabic No</td><td>748</td></tr><tr><td>Reference</td><td>Book 10 Hadith 142</td></tr></tbody></table></div>
 

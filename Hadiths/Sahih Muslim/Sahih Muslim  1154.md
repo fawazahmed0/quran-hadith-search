@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. Abu Salama reported:I saw the Messenger of Allah (ﷺ) saying prayer in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Hammad bin Zaid] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Umar bin Abi Salamah] dia berkata, "Saya melihat Rasulullah Shallallahu'alaihiwasallam shalat di rumah Ummu Salamah dengan mengenakan baju yang antara ujungnya disilangkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1154</td></tr><tr><td>Arabic No</td><td>517.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 316</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Умар ибн Аби Саляма сказал: «Я видел, как Посланник Аллаха ﷺ молился в доме Умм Салямы в (одной) одежде, краями которой он (покрывал себе плечи,) накидывая их друг на друга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1154</td></tr><tr><td>Arabic No</td><td>517.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 316</td></tr></tbody></table></div>
 

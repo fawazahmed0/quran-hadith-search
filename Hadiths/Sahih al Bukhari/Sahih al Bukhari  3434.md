@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "Amongst all those 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] dari ['Amru bin Murrah] berkata, aku mendengar [Murrah Al Hamdaniy] yang bercerita, katanya dari [Abu Musa Al Asy'ariy radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Keistimewaan 'Aisyah radliallahu 'anhu dibandingkan wanita-wanita lain, bagaikan keistimewaan makanan "tsarid" terhadap makanan yang lain. Orang-orang yang sempurna dari kalangan laki-laki banyak dan tidak ada orang yang sempurna dari kalangan wanita kecuali Maryam binti 'Imran dan Asiyah, istrinya Fir'aun". Dan Ibnu Wahb berkata, telah mengabarkan kepadaku Yunus dari Ibnu Syihab berkata, telah bercerita kepadaku Sa'id bin Al Musayyab bahwa Abu Hurairah radliallahu 'anhu berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik wanita Quraisy adalah wanita yang paling baik mengendarai unta, paling penyayang kepada anaknya dan paling memelihara hak suaminya yaitu terhadap harta yang dimilikinya." Abu Hurairah radliallahu 'anhu berkata: "Maksudnya pada zaman sekarang. Dan Maryam binti 'Imran tidak pernah sekalipun menunggang unta". Hadits ini diikuti juga oleh anak saudara dari Az Zuhriy dan Ishaq Al Kalbiy dari Az Zuhriy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3434</td></tr><tr><td>Arabic No</td><td>3434</td></tr><tr><td>Reference</td><td>Book 60 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Женщины (из племени) курайш являются лучшими из женщин, садившихся на верблюдов: они проявляют наибольшую доброту к детям и лучше всех следят за имуществом мужа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3434</td></tr><tr><td>Arabic No</td><td>3434</td></tr><tr><td>Reference</td><td>Book 60 Hadith 105</td></tr></tbody></table></div>
 

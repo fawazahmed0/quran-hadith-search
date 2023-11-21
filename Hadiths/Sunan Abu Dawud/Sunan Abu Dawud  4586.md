@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ashim Al Anthaki] dan [Muhammad bin Ash Shabbah bin Sufyan] bahwa [Al Walid bin Muslim] mengabarkan kepada mereka, dari [Ibnu Juraij] dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengobati sedangkan ia dikenal bukan sebagai seorang dokter, maka ia harus bertanggung jawab (jika terjadi kecelakaan)." Nashr berkata, "Ibnu Juraij menceritakan kepadaku, Abu Dawud berkata, "Hadits ini tidak ada yang meriwayatkannya kecuali Al Walid, dan kami tidak tahu hadits ini shahih atau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4586</td></tr><tr><td>Arabic No</td><td>4586</td></tr><tr><td>Reference</td><td>Book 41 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Посланник Аллаха ﷺ сказал: «Кто врачует, не будучи известным как лекарь, тот возмещает (нанесённый ущерб)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4586</td></tr><tr><td>Arabic No</td><td>4586</td></tr><tr><td>Reference</td><td>Book 41 Hadith 93</td></tr></tbody></table></div>
 

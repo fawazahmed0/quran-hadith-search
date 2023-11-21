@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:That he heard Allah's Messenger (ﷺ) describing th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada kami [Al Laits] dari [Uqail] dan [Ibnu Syihab] berkata; Aku mendengar [Abu Salamah] berkata; Telah mengabarkan kepadaku [Jabir bin Abdullah] bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam menceritakan tentang awalnya wahyu turun pada beliau. Beliau berkisah: "Ketika aku tengah berjalan, tiba-tiba aku mendengar suara yang berasal dari langit, maka aku pun mengangkat pandanganku ke arah langit, ternyata di atas terdapat Malaikat yang sebelumnya mendatangiku di gua Hira' tengah duduk di atas kursi antara langit dan bumi. Aku merasa ketakutan hingga aku jatuh tersungkur ke tanah. Lalu aku pun segera menemui keluargaku seraya berkata, 'Selimutilah aku, selimutilah aku.' Maka keluargaku pun segera menyelimutiku. Akhirnya Allah Ta'ala menurunkan ayat: 'YAA AYYUHAL MUDDATSTSIR QUM FA'ANDZIR (Wahai orang yang berselimut, bangkitlah, dan berilah peringatan).'" Hingga firman-Nya: "FAHJUR." Abu Salamah berkata; Ar Rijz artinya adalah berhala-berhala. Setelah itu, turunlah wahyu secara berturut-turut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4926</td></tr><tr><td>Arabic No</td><td>4926</td></tr><tr><td>Reference</td><td>Book 65 Hadith 446</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, сказал, что, рассказывая о периоде (временного) прекращения откровений, Пророк ﷺ сказал: «И (как-то раз) я шёл (по дороге) и вдруг услышал голос с неба. Я поднял голову и увидел ангела, явившегося ко мне (в пещере на горе) Хира, который (на этот раз) сидел на троне между небом и землёй. Я так испугался его, что упал на землю. Затем я вернулся (домой) и сказал: “Укройте меня, укройте меня!” Меня укрыли и после этого Всевышний Аллах ниспослал (аяты, в которых говорилось): “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай, и одежды свои очищай, и идолов сторонись”. После этого откровения возобновились с новой силой и стали приходить одно за другим».\nАбу Саляма сказал: «“Ар-риджз” — это идолы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4926</td></tr><tr><td>Arabic No</td><td>4926</td></tr><tr><td>Reference</td><td>Book 65 Hadith 446</td></tr></tbody></table></div>
 

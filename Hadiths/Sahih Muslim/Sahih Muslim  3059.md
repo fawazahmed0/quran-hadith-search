@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (At lab be pleased with them) reported:Allah's Messenger (ﷺ) and hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Rabi' Az Zahrani] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata; Rasulullah shallallahu 'alaihi wasallam dan para sahabatnya datang ke Makkah untuk menunaikan ibadah haji dalam keadaan lemah oleh penyakit demam Madinah. Lalu orang-orang musyrik Makkah berkata kepada sesama mereka, "Esok, akan datang ke sini suatu kaum yang lemah karena mereka diserang penyakit demam yang memayahkan." Karena itu, mereka duduk di dekat Hijr memperhatikan kaum muslimin thawaf. Nabi shallallahu 'alaihi wasallam memerintahkan mereka supaya berlari-lari tiga kali putaran dan berjalan biasa empat kali putaran antara dua sujud agar kaum musyrikin melihat ketangkasan mereka. Maka berkatalah kaum musyrikin kepada sesama mereka, "Inikah orang-orang yang kamu katakan lemah karena sakit panas, ternyata mereka lebih kuat dari golongan ini dan itu." Ibnu Abbas berkata; "Dan tidak ada yang menghalangi beliau untuk memerintahkan mereka berlari-lari pada semua putaran, kecuali karena kasih sayang beliau kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3059</td></tr><tr><td>Arabic No</td><td>1266.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3059</td></tr><tr><td>Arabic No</td><td>1266.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 265</td></tr></tbody></table></div>
 

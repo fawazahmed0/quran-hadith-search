@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr (Allah be pleased with both of them) reported:The Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepadaku [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Habib] ia mendengar [Abul Abbas] bahwa ia mendengar [Abdullah bin Amru] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: "Wahai Abdullah, benarkah kamu berpuasa Ad Dahr (sepanjang masa) dan shalat sepanjang malam (tidak tidur). Sungguh, jika kamu melakukan hal itu, matamu akan letih dan tersiksa. Tidak ada (ganjaran) puasa bagi yang berpuasa sepanjang masa. Berpuasa tiga hari dalam satu bulan, sama halnya dengan berpuasa sebulan penuh." Saya berkatanya, "Sungguh, saya masih kuat lebih dari itu." maka beliau pun bersabda: "Kalau begitu, lakukanlah puasa Dawud, yang ia berpuasa sehari dan berbuka sehari, dan beliau tidak lari (kabur), bila bertemu dengan musuh." Dan Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] telah menceritakan kepada kami [Habib bin Abu Tsabit] dengan isnad ini, dan ia berkata; "Dan jasad pun menjadi lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>1159.08</td></tr><tr><td>Reference</td><td>Book 13 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>1159.08</td></tr><tr><td>Reference</td><td>Book 13 Hadith 242</td></tr></tbody></table></div>
 

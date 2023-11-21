@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Isn't the witness of a wom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata, telah menceritakan kepadaku [Zaid] dari ['Iyadh bin 'Abdullah] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Bukankah persaksian seorang wanita sama dengan setengah persaksian seorang laki-laki?" Para wanita menjawab: "Benar". Beliau melanjutkan: "Itulah tanda setengah akalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2658</td></tr><tr><td>Arabic No</td><td>2658</td></tr><tr><td>Reference</td><td>Book 52 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах: «Пророк ﷺ сказал: “Разве не приравнивается свидетельство женщины к половине свидетельства мужчины?” Мы ответили: “Да(, именно так)”. И он сказал: “Это от недостатка ее разума”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2658</td></tr><tr><td>Arabic No</td><td>2658</td></tr><tr><td>Reference</td><td>Book 52 Hadith 22</td></tr></tbody></table></div>
 

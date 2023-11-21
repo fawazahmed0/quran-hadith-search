@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported:We used to practise 'azl while the Qu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim], Ishaq berkata; Telah mengkhabarkan kepada kami. Abu Bakar berkata; Telah menceritakan kepada kami [Sufyan] dari [Amru] dari ['Atha'] dari [Jabir] dia berkata; "Kami biasa melakukan azl di saat Al Qur'an masih turun." [Ishaq] menambahkan; [Sufyan] berkata; Sekiranya azl dilarang, tentu Al Qur'an akan melarang perbuatan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>1440.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>1440.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 161</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Jarir bin 'Abdullah narrated:There was a house called Dhul-Khalasa in the Pre-ls
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan (masih dari jalur periwayatan yang sama dengan hadits sebelumnya) dari [Qais] dari [Jarir bin 'Abdullah] berkata; Pada zaman Jahiliyah, ada sebuah rumah yang biasa dinamakan Dzul Khalashah dan juga biasa disebut al-Ka'bah al-Yamaniyah atau al-Ka'bah asy-Syamiyyah. Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Apakah kamu bisa menjadi orang yang menenangkan kerisauanku dari Dzul Khalashah?". Aku segera berangkat menuju Baitullah bersama seratus lima puluh pasukan berkuda yang berani mati". Jarir berkata; "Maka kami hancurkan dan bunuh apa yang kami temui didalamnya lalu kami menemui beliau dan mengabarkan apa yang teah kami lakukan, maka beliau mendo'akan kami dan pasukan berani mati itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3823</td></tr><tr><td>Arabic No</td><td>3823</td></tr><tr><td>Reference</td><td>Book 63 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдиллах сказал: «В доисламский период невежества был дом, называемый Зуль-Халяса, так же его называли йеменской каабой и шамийской каабой. (Однажды) Посланник Аллаха ﷺ сказал мне: “Не избавишь ли ты меня от Зуль-Халясы?”» (Джарир) сказал: «И я отправился (туда с отрядом из) ста пятидесяти всадников из племени ахмас. Мы разрушили её и убили тех, кого обнаружили около неё. Затем мы прибыли к нему и сообщили об этом, а он призвал благословение на нас и на ахмаситов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3823</td></tr><tr><td>Arabic No</td><td>3823</td></tr><tr><td>Reference</td><td>Book 63 Hadith 48</td></tr></tbody></table></div>
 

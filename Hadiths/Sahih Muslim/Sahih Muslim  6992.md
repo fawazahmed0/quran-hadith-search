@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:None is more self-respectidg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] dan [Abu Kuraib] mereka berdua berkata; telah menceritakan kepada kami [Abu Mu'awiyah]. Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] -dan lafadh ini miliknya-; telah menceritakan kepada kami ['Abdullah bin Numair] dan [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari ['Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada yang lebih pencemburu dari Allah. Karena itulah Dia mengharamkan segala yang keji baik yang nampak maupun yang tidak nampak. Dan tidak ada yang lebih suka dipuji selain Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6992</td></tr><tr><td>Arabic No</td><td>2760.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6992</td></tr><tr><td>Arabic No</td><td>2760.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 38</td></tr></tbody></table></div>
 

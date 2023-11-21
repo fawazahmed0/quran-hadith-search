@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Anas bin Malik said: Allah's Messenger (ﷺ) said, "Do not make drinks in Ad-Dub
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Az Zuhri] dia berkata; telah menceritakan kepadaku [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian membuat perasan dalam duba' (tempat minum dari labu yang di buang isinya dan di gunakan untuk merendam perasan kurma atau anggur) dan muzaffat (tempat minum yang di polesi dengan ter)." Sementara riwayat Abu Hurairah melengkapinya dengan "hantam (tempat minum yang terbuat dari tanah liat, rambut dan darah) dan naqiir (tempat minum yang terbuat dari pohon atau kayu yang di lubangi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5587</td></tr><tr><td>Arabic No</td><td>5587</td></tr><tr><td>Reference</td><td>Book 74 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Не готовьте напитки в “дубба” (сосуд для вина, из высушенных тыкв) и в “музаффат” (сосуд для вина, бока которого обмазывались смолой)». Абу Хурайра также добавлял к ним: «хантам» (кувшины, в которых привозили вино) и «накыр» (сосуды для вина, выдолбленные из корней пальмы)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5587</td></tr><tr><td>Arabic No</td><td>5587</td></tr><tr><td>Reference</td><td>Book 74 Hadith 13</td></tr></tbody></table></div>
 

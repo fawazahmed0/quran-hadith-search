@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:(Once) the Prophet (ﷺ) said, "Have you got carpets?" I replied,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3631</td></tr><tr><td>Arabic No</td><td>3631</td></tr><tr><td>Reference</td><td>Book 61 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ спросил: “Есть ли у вас ковры?” Я сказал: “Откуда же у нас ковры?” Он сказал: “Поистине, скоро у вас будут ковры”. (А потом) я говорил (своей жене): “Убери с глаз моих свои ковры!” — а она отвечала (мне): “Разве Пророк ﷺ не говорил: “Поистине, будут у вас ковры”? — и я оставлял её в покое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3631</td></tr><tr><td>Arabic No</td><td>3631</td></tr><tr><td>Reference</td><td>Book 61 Hadith 135</td></tr></tbody></table></div>
 

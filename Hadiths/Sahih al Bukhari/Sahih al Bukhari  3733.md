@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Aisha said, "A woman from Bani Makhzumiya committed a theft and the people said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Laits] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa orang-orang Quraisy sedang menghadapi persoalan yang mengelisahkan, yaitu tentang seorang wanita suku Al Makhzumiy yang mencuri lalu mereka berkata; "Siapa yang mau merundingkan masalah ini kepada Rasulullah shallallahu 'alaihi wasallam?". Sebagian mereka berkata; "Tidak ada yang berani menghadap beliau kecuali Usamah bin Zaid, orang kesayangan Rasulullah shallallahu 'alaihi wasallam. Dan telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan] berkata; saya pergi untuk bertanya kepada [Az Zuhri] tentang hadits Al Makhzumiy, lalu dia memanggilku. Saya katakan kepada [Sufyan]; 'apakah anda tidak meriwayatkan hadits ini dari seorang pun? ' dia menjawab; 'saya menemukannya di dalam kitab yang ditulis [Ayyub bin Musa] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa seorang wanita dari Bani Mahzum mencuri. Mereka berkata; "Siapa yang akan menyampaikannya kepada Nabi shallallahu 'alaihi wasallam. Ternyata, tidak ada seorangpun yang berani mengutarakannya. Maka Usamah lah menyampaikan masalah tersebut, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kamu meminta keringanan atas pelanggaran terhadap aturan Allah?". Kemudian beliau berdiri menyampaikan khuthbah lalu bersabda: "Sesunguhnya orang-orang sebelum kalian menjadi bin asa karena apabila ada orang dari kalangan terhormat mereka mencuri, mereka membiarkannya, sebaliknya apabila ada orang dari kalangan rendah mereka mencuri, mereka menegakkan sanksi hukuman atasnya. Demi Allah, sendainya Fathimah bin ti Muhamamd mencuri, pasti aku potong tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3733</td></tr><tr><td>Arabic No</td><td>3733</td></tr><tr><td>Reference</td><td>Book 62 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что, когда одна женщина из племени бану махзум совершила кражу, (люди стали) говорить: «Кто поговорит о ней с Пророком ﷺ?» (Однако) никто не осмелился заговорить с ним, и тогда к нему обратился Усама бин Зейд (, которому Пророк ﷺ) сказал: «Поистине, когда среди израильтян кражу совершал знатный, они не трогали его, а когда совершал её слабый, они отрубали ему (руку). Если бы украла Фатима, я отрубил бы руку и ей!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3733</td></tr><tr><td>Arabic No</td><td>3733</td></tr><tr><td>Reference</td><td>Book 62 Hadith 80</td></tr></tbody></table></div>
 

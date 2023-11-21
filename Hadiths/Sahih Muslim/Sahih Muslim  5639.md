@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Sa'd as-Sa'idi reported that a person peeped through the hole of the doo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Sahl bin Sa'd Al Anshari]; Telah mengabarkan kepadanya; bahwa seorang laki-laki mengintip ke rumah Rasulullah shallallahu 'alaihi wasallam melalui lubang pintu. Ketika itu Rasulullah shallallahu 'alaihi wasallam sedang menyisir rambut dengan sebuah sisir besi. Maka Beliau berkata: "Kalau aku tahu engkau mengintip, aku tusuk matamu. Sesunggunyah Allah mensyari'atkan Izin (memberi salam) demi menjaga pandangan." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaib ah], ['Amru An Naqid], [Zuhair bin Harb] dan [Ibnu Abu 'Umar] mereka berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kamil Al Jahdari]; Telah menceritakan kepada kami ['Abdul Wahid bin Ziyad]; Telah menceritakan kepada kami [Ma'mar] keduanya dari [Az Zuhair] dari [Sahl bin Sa'd] dari Nabi shallallahu 'alaihi wasallam yang serupa dengan Hadits Al Laits dan Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5639</td></tr><tr><td>Arabic No</td><td>2156.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5639</td></tr><tr><td>Arabic No</td><td>2156.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 54</td></tr></tbody></table></div>
 

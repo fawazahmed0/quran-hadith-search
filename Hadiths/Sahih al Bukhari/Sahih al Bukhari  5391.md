@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khalid bin Al-Walid:That he went with Allah's Messenger (ﷺ) to the ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abul Hasan] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Abu Umamah bin Sahl bin Hunaif Al Anshari] bahwa [Ibnu Abbas] telah mengabarkan kepadanya bahwa [Khalid bin Al Khalid] yang juga dijuluki sebagai Saifullah telah mengabarkan kepadanya; Bahwa ia dan Rasulullah shallallahu 'alaihi wasallam pernah menemui bibinya yaitu Maimunah yang juga bibi daripada Ibnu Abbas. kemudian ia mendapati biawak yang telah terpanggang yang dibawa oleh saudara bibinya yakni, Hudzaifah bintu Al Harits dari Najed. Maka Maimunah pun menyuguhkan Biawak itu kepada Rasulullah shallallahu 'alaihi wasallam. Jarang sekali beliau memajukan tangannya untuk mengambil makanan hingga beliau dipersilahkan bahwa makanan itu untuk beliau. Saat itu, Rasulullah shallallahu 'alaihi wasallam menggerakkan tangannya ke arah biawak, lalu seorang wanita yang hadir di situ berkata dan memberitahukan kepada beliau tentang makanan yang telah disuguhkan, "Itu adalah Biawak ya Rasulullah?" Maka seketika itu, Rasulullah shallallahu 'alaihi wasallam segera menarik tangannya kembali dari daging Biawak sehingga Khalid bin Al Walid pun bertanya, "Apakah daging Biawak itu haram ya Rasulullah?" beliau menjawab: "Tidak, akan tetapi daging itu tidak terdapat di negeri kaumku, karena itu aku tidak memakannya." Khalid berkata, "Lalu aku pun menarik dan memakannya. Sementara Rasulullah shallallahu 'alaihi wasallam melihat ke arahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5391</td></tr><tr><td>Arabic No</td><td>5391</td></tr><tr><td>Reference</td><td>Book 70 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Халид ибн аль-Валид рассказывал, что однажды он вместе с Посланником Аллаха ﷺ пришёл к Маймуне, которая приходится ему тётей, и обнаружил у неё жаренную шипохвостую ящерицу, которую её сестра, Хуфайда бинт аль-Харис привезла из Неджда. Маймуна подала ящерицу Посланнику Аллаха ﷺ, а он редко протягивал руку к еде, пока ему не объясняли и не называли какое это блюдо. Когда Посланник Аллаха ﷺ протянул руку к ящерице, одна из присутствующих женщин сказала: «Скажите Посланнику Аллаха ﷺ, что вы ему подали. Это ящерица, о Посланник Аллаха». Тогда Посланник Аллаха ﷺ убрал руку, а Халид ибн аль-Валид спросил: «О Посланник Аллаха, разве мясо шипохвоста запретно?» Он сказал: «Нет, но в земле моего народа их нет, и я чувствую к ним отвращение». Халид сказал: «Тогда я подвинул к себе (шипохвоста) и съел его, а Посланник Аллаха ﷺ смотрел на меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5391</td></tr><tr><td>Arabic No</td><td>5391</td></tr><tr><td>Reference</td><td>Book 70 Hadith 19</td></tr></tbody></table></div>
 

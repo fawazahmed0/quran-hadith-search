@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Messenger of Allah (ﷺ) took flesh from the bone or mea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam bin Urwah] telah mengabarkan kepadaku [Wahab bin Kaisan] dari [Muhammad bin Amru bin 'Atha'] dari [Ibnu Abbas] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [az-Zuhri] dari [Ali bin Abdullah bin Abbas] dari [Ibnu Abbas] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Muhammad bin Ali] dari [bapaknya] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam makan pangkal atau daging, kemudian beliau shalat, dan tanpa berwudhu, dan beliau juga tidak menyentuh air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>791</td></tr><tr><td>Arabic No</td><td>354.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что Посланник Аллаха ﷺ поел мяса, а затем совершил молитву, не совершая омовение и не прикасаясь к воде
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>791</td></tr><tr><td>Arabic No</td><td>354.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 113</td></tr></tbody></table></div>
 

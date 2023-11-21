@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Abdullah ibn Ubaydullah ibn Umayr said: I was with m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Muslim Ath Thusi] telah menceritakan kepada kami [Abu Bakr Al Hanafi] telah menceritakan kepada kami [Adl Dlahhak bin Utsman] dari [Abdullah bin 'Ubaid bin 'Umair] ia berkata, "Aku pernah bersama ayahku pada zaman kekhilafahan Ibnu Az Zubair menuju kepada [Abdullah bin Umar], kemudian 'Abbad bin Abdullah bin Az Zubair berkata, "Sesungguhnya kami mendengar bahwa makan lebih didahulukan daripada shalat?" Abdullah bin Umar menjawab, "Celaka kami! Apa kamu kira makan malam mereka seperti makan malam ayah kamu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 28 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Убайд ибн Умайр передаёт: «Я сидел вместе с отцом в дни правления Ибн аз-Зубайра рядом с ‘Абдуллахом ибн ‘Умаром, и ‘Аббад ибн ‘Абдуллах ибн аз-Зубайр сказал: “Поистине, мы слышали, что следует начинать с еды, а потом совершать молитву”. ‘Абдуллах ибн ‘Умар сказал: “Горе тебе! Как они ужинали? Думаешь, их ужин был подобен ужину твоего отца?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 28 Hadith 24</td></tr></tbody></table></div>
 

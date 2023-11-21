@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Uqba Ibn 'Amir (que Dieu l'agrée), Nous dîmes à l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] bahwa dia berkata, "Kami pernah bertanya, "Wahai Rasulullah, sesungguhnya anda mengirim kami, lalu kami singgah di suatu kaum sebagai tamu, akan tetapi mereka tidak melayani kami sebagaimana layaknya, bagaimana menurut anda?" maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami: "Jika kalian singgah di suatu kaum, lalu mereka melayani kalian sebagaimana layaknya seorang tamu maka terimalah layanan mereka. Jika mereka tidak melayani kalian, maka kalian boleh mengambil dari mereka hak tamu yang pantas mereka berikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4516</td></tr><tr><td>Arabic No</td><td>1727</td></tr><tr><td>Reference</td><td>Book 31 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4516</td></tr><tr><td>Arabic No</td><td>1727</td></tr><tr><td>Reference</td><td>Book 31 Hadith 18</td></tr></tbody></table></div>
 

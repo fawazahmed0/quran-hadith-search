@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Allah, the Exalted and Gl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Hafsh bin Maisarah] telah menceritakan kepadaku [Zaid bin Aslam] dari [Abu Shalih] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: 'Allah ta'ala berfirman: Aku bersama persangkaan hamba-Ku kepada-Ku, dan Aku bersamanya ketika dia mengingat-Ku. Demi Allah, Allah Ta'ala sangat gembira menerima taubat seseorang kamu, melebihi kegembiraan seseorang yang menemukan kembali barangnya yang hilang di suatu tempat yang luas. Barangsiapa mendekat kepada-Ku sejengkal, maka Aku akan mendekat kepadanya sehasta. Apabila ia mendekat kepada-Ku sehasta, maka Aku akan mendekat kepadanya sedepa. Apabila ia datang kepada-Ku dengan berjalan, maka Aku akan datang kepadanya dengan berlari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6952</td></tr><tr><td>Arabic No</td><td>2675.08</td></tr><tr><td>Reference</td><td>Book 50 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6952</td></tr><tr><td>Arabic No</td><td>2675.08</td></tr><tr><td>Reference</td><td>Book 50 Hadith 1</td></tr></tbody></table></div>
 

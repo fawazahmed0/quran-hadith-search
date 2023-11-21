@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that when his mother gave birth to a child they brought that child
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] dia berkata; 'Aku mendengar [Anas] bercerita; bahwa ketika ibunya melahirkan, mereka segera membawa bayinya kepada Nabi shallallahu 'alaihi wasallam agar beliau mentahniknya (mengolesi mulut bayi dengan manisan atau kurma sebelum di susui). Anas berkata; 'Namun ternyata Nabi shallallahu 'alaihi wasallam sedang berada di kandang sambil memberi tanda pada kambing.' Syu'bah berkata; 'Sepengetahuanku dia berkata; 'pada telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5555</td></tr><tr><td>Arabic No</td><td>2119.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5555</td></tr><tr><td>Arabic No</td><td>2119.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 166</td></tr></tbody></table></div>
 

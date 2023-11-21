@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:Hind came to the Prophet (ﷺ) and said: Messenger of Allah, Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khusyaisy bin Ashram] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dan [Aisyah] ia berkata, "Hindun datang kepada Nabi shallallahu 'alaihi wasallam dan bertanya, "Wahai Rasulullah, sesungguhnya Abu Sufyan adalah orang yang suka menahan pemberian, apakah aku berdosa untuk memberikan nafkah kepada keluargaku dari hartanya tanpa seizinnya?" Maka Nabi shallallahu 'alaihi wasallam bersabda: "Engkau tidak berdosa untuk memberikan nafkah dengan cara yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1714)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3533</td></tr><tr><td>Arabic No</td><td>3533</td></tr><tr><td>Reference</td><td>Book 24 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Хинд пришла к Пророку ﷺ и сказала: «О Посланник Аллаха, поистине, Абу Суфьян человек прижимистый, так будет ли грехом, если я стану расходовать на его детей что-то из его денег без его разрешения?» Пророк ﷺ сказал: «На тебе не будет греха, если ты будешь расходовать на них сообразно обычаю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1714)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3533</td></tr><tr><td>Arabic No</td><td>3533</td></tr><tr><td>Reference</td><td>Book 24 Hadith 118</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Forgive the inflic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud Al Mahri] berkata, telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; Aku mendengar [Ibnu Juraij] menceritakan dari [Amru bin Syu'aib] dari [Bapaknya] dari [Abdullah bin Amru bin Al Ash] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaklah kalian saling memaafkan dalam masalah hukuman had yang terjadi di antara kalian, sebab jika had telah sampai kepadaku maka wajib untuk dilaksanakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4376</td></tr><tr><td>Arabic No</td><td>4376</td></tr><tr><td>Reference</td><td>Book 40 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Прощайте друг другу проступки, которые караются установленным Шариатом наказанием, но если мне стало известно о таком преступлении, применение наказания становится обязательным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4376</td></tr><tr><td>Arabic No</td><td>4376</td></tr><tr><td>Reference</td><td>Book 40 Hadith 26</td></tr></tbody></table></div>
 

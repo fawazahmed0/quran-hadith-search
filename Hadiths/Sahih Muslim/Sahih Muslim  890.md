@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:I observed prayer along with the Messenger of Allah (ﷺ) and with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya meriwayatkan dari [Ghundar] berkata [Ibnu al-Mutsanna], telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, saya mendengar [Qatadah] bercerita dari [Anas] dia berkata, "Saya shalat bersama Rasulullah Shallallahu'alaihiwasallam, Abu Bakar, Umar dan Utsman, lalu aku belum pernah mendengar salah seorang dari mereka membaca, 'Bismillahirrahmanirrahim'." Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abu Dawud] telah menceritakan kepada kami [Syu'bah] dalam isnad ini dan menambahkan "Syu'bah berkata, maka saya berkata kepada [Qatadah], 'Apakah kamu mendengarnya dari [Anas]? ' Dia berkata, 'Ya, dan kami menanyakannya tentangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>890</td></tr><tr><td>Arabic No</td><td>399.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, сказал: «Я совершал молитву за Пророком ﷺ, а также Абу Бакром, ‘Умаром и ‘Усманом, да будет доволен Аллах ими, и не слышал никого из них, чтобы читал (в молитве): “Би-сми-Лляхи-р-Рахмани-р-Рахим (С именем Аллаха Всемилостивого, Милующего)” (сура “аль-Фатиха”, аят 1)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>890</td></tr><tr><td>Arabic No</td><td>399.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 52</td></tr></tbody></table></div>
 

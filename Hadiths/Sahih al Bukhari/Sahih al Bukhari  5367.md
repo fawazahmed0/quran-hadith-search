@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:My father died and left seven or nine girls and I m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Amru] dari [Jabir bin Abdullah] radliallahu 'anhuma, ia berkata, "Bapakku wafat dan ia meninggalkan tujuh orang anak wanita, maka aku pun menikah dengan seorang janda." Maka Rasulullah shallallahu 'alaihi wasallam bertanya padaku: "Apakah kamu sudah menikah wahai Jabir?" Aku menjawab, "Ya." Beliau bertanya lagi: "Dengan gadits ataukah janda?" aku menjawab, "Dengan janda." Beliau bersabda: "Kenapa tidak dengan gadis sehingga kamu dapat bermain-main dengannya dan ia pun dapat bermain-main denganmu. Kamu dapat bergurau dengannya dan ia pun dapat bergurau denganmu?." Maka aku pun berkata pada beliau, "Sesungguhnya Abdullah meninggal, dan ia meninggalkan banyak anak wanita. Dan aku tak suka bila melahirkan anak-anak (yang tak terurus) seperti mereka. Karena itulah, aku menikahi seorang wanita agar dapat mengurus mereka." Maka beliau pun bersabda: "Semoga Allah memberi keberkahan padamu." Atau beliau bersabda dengan kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5367</td></tr><tr><td>Arabic No</td><td>5367</td></tr><tr><td>Reference</td><td>Book 69 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, рассказывал: «Когда мой отец умер, оставив семь (или: девять) дочерей, я женился. И как-то Посланник Аллаха ﷺ спросил (меня): “О Джабир, ты женился?” Я сказал: “Да”. Он спросил: “На девственнице или на той, что уже была замужем?” Я сказал: “На той, что была замужем”. Он спросил: “Почему же не женился на молоденькой девушке, с которой ты мог бы играть, и которая играла бы с тобой, или с которой бы ты смеялся, и которая смеялась бы вместе с тобой?” Я ответил (ему): “Поистине, (мой отец) ‘Абдуллах умер, оставив дочерей, и я не желал приводить к ним ту, что была бы подобна им, но хотел привести женщину, которая присматривала бы за ними и воспитывала бы их”. Тогда (Пророк ﷺ) сказал: “Да благословит тебя Аллах /Барака-Ллаху лякя/” или: “В благе /хайран/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5367</td></tr><tr><td>Arabic No</td><td>5367</td></tr><tr><td>Reference</td><td>Book 69 Hadith 17</td></tr></tbody></table></div>
 

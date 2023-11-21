@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her), wife of Allah's Apostle (ﷺ), heard Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] dari [Makhramah] -dalam riwayat lain- Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili] Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah bin Bukair] dari [bapaknya] ia berkata, saya mendengar [Nafi'] Maula Ibnu Umar berkata, saya mendengar [Abdullah bin Abu Bakr bin Abu Quhafah] menceritakan dari Abdullah bin Umar dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau bukanlah karena kaummu yang baru saja meninggalkan masa jahiliyah, akan kupakai dana Ka'bah untuk memperbaikinya; pintunya akan kubuat sampai ke tanah, dan hijir kumasukkan ke dalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3243</td></tr><tr><td>Arabic No</td><td>1333.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 447</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3243</td></tr><tr><td>Arabic No</td><td>1333.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 447</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib] dan [Washil bin Abdul A'la] keduanya berkata, telah menceritakan kepada kami [Ibnu Fudlail] dari [Abu Malik Al Asyja'i] dari [Abu Hazim] dari [Abu Hurairah] dari [Rab'i bin Hirasy] dari [Hudzaifah] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menyesatkan orang-orang yang sebelum kita tentang hari Jumat. Bagi orang Yahudi jatuhnya pada hari Sabtu, dan bagi orang Nasrani jatuhnya pada hari Ahad. Lalu Allah menunjuki kita yaitu pada hari Jum'at. Karena itu, terjadilah berturut-turut tiga hari berkumpul (hari besar), yaitu Jum'at, Sabtu dan Ahad. Hari kiamat kelak, mereka pun mengikuti kita juga, kita yang terakhir ke dunia, tetapi kitalah yang lebih dahulu diadili sebelum umat-umat yang lain." Sementara dalam riwayat Washil; "Yang diadili di antara mereka." Telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Abu Za'idah] dari [Sa'd bin Thariq] telah menceritakan kepadaku [Rib'i bin Hirasy] dari [Hudzaifah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kita ditunjukkan dengan hari Jum'at, sementara Allah telah menyesatkan umat-umat sebelum kita darinya." Dan ia pun menyebutkan hadits yang semakna dengan hadits Ibnu Fudlail
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1982</td></tr><tr><td>Arabic No</td><td>856.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хузейфы, что Посланник Аллаха ﷺ сказал: «Аллах отвратил от пятницы тех, кто жил до нас. Иудеям (была отведена) суббота, а христианам воскресенье. К нам же Аллах обратился и указал нам путь к пятнице. Таким образом, Он сделал пятницу, субботу и воскресенье (днями молитв). Они будут следовать за нами в День воскресения. Мы последние из обитателей этого мира, но первые в День воскресения, и именно с нами будет проведён расчёт прежде остальных творений»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1982</td></tr><tr><td>Arabic No</td><td>856.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 32</td></tr></tbody></table></div>
 

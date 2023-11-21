@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported Allah's Messenger (ﷺ) as saying:Give the name after
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki'] dari [Al A'masy]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Abu Sa'id Al Asyaj]; Telah menceritakan kepada kami [Waki']; Telah menceritakan kepada kami [Al A'masy] dari [Salim bin Abu Ja'di] dari [Jabir bin 'Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Namailah dengan namaku, tetapi janganlah menjulukinya dengan julukanku, sesungguhnya aku adalah Abu Al Qasim yang akan membagi di antara kalian. Dalam riwayat [Abu Kuraib] menggunakan lafazh 'wa laa taktanuu' (jangan kalian menjuluki). Dan telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] melalui jalur ini, dia berkata dengan lafazh; 'Karena aku dijadikan sebagai Al Qosim yang akan membagi di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5591</td></tr><tr><td>Arabic No</td><td>2133.04</td></tr><tr><td>Reference</td><td>Book 38 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5591</td></tr><tr><td>Arabic No</td><td>2133.04</td></tr><tr><td>Reference</td><td>Book 38 Hadith 6</td></tr></tbody></table></div>
 

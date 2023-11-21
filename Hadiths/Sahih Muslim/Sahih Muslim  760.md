@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Apostle (ﷺ), said:Umm Habiba b. Jahsh who was the spou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Quraisy at-Tamimi] telah menceritakan kepada kami [Ishaq bin Bakar bin Mudhar] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ja'far bin Rabi'ah] dari ['Irak bin Malik] dari [Urwah bin az-Zubair] dari [Aisyah, istri Nabi Shallallahu'alaihiwasallam] bahwa dia berkata, " Ummu Habibah binta Jahsy yang menjadi istri Abdurrahman bin Auf mengadu kepada Rasulullah shallallahu 'alaihi wasallam tentang darah. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya, 'Diamlah sejarak waktu ketika haid menghalangimu (untuk shalat), kemudian mandilah.' Maka dia mandi ketika setiap waktu shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>760</td></tr><tr><td>Arabic No</td><td>334.06</td></tr><tr><td>Reference</td><td>Book 3 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «(Однажды) Умм Хабиба бинт Джахш, которая являлась женой ‘Абдуррахмана ибн ‘Ауфа пожаловалась Посланнику Аллаха ﷺ на (непрекращающиеся) кровотечение, на что он сказал ей: “Выжидай столько, сколько занимали у тебя времени твои (обычные) месячные, после чего совершай полное омовение”. После этого она совершала полное омовение перед каждой молитвой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>760</td></tr><tr><td>Arabic No</td><td>334.06</td></tr><tr><td>Reference</td><td>Book 3 Hadith 82</td></tr></tbody></table></div>
 

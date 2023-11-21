@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle) : Nous avions un rideau sur le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Dawud] dari ['Azrah] dari [Humaid bin 'Abdurrahman] dari [Sa'd bin Hisyam] dari ['Aisyah] ia berkata; "Kami memiliki tirai bergambar burung yang diletakkan di ruangan rumah bagian depan. Maka setiap orang yang masuk pasti dia akan melihatnya. Lalu Rasulullah shallallahu 'alaihi wasallam bersabdaku: "Wahai 'Aisyah, pindahkanlah tirai ini! Sebab saat aku masuk dan melihatnya, aku selalu ingat dengan dunia." 'Aisyah berkata, "Kami juga memiliki selembar kain tebal yang gambarnya terbuat dari sutera, dan kami biasa memakainya." Dan Telah menceritakannya kepadaku [Muhammad bin Mutsanna]; Telah menceritakan kepada kami [Ibnu Abu 'Adi] dan ['Abdul A'la] melalui jalur ini Ibnu Al Mutsanna berkata; di dalamnya 'Abdul A'la menambahkan; 'Rasulullah shallallahu 'alaihi wasallam tidak menyuruh kami untuk memotongnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5522</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5522</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

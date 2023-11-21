@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aws b. Aws reported the Messenger of Allah (ﷺ) as saying:Among the most excell
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1531</td></tr><tr><td>Arabic No</td><td>1531</td></tr><tr><td>Reference</td><td>Book 8 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аус ибн Аус, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Поистине, пятница относится к числу наилучших ваших дней, так почаще же обращайтесь в (этот день) с мольбами за меня, ибо, поистине, о мольбах ваших мне будут сообщать”».(Аус) сказал: «Его спросили: “О Посланник Аллаха, как же наши молитвы будут представлены тебе, если ты истлеешь?” Он ответил: “Поистине, Всеблагой и Всевышний Аллах запретил земле (пожирать) тела пророков, да благословит их Аллах!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1531</td></tr><tr><td>Arabic No</td><td>1531</td></tr><tr><td>Reference</td><td>Book 8 Hadith 116</td></tr></tbody></table></div>
 

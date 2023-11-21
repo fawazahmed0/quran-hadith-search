@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas b. Malik :I prayed along with the Messenger of Allah (ﷺ) four ra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Muhammad bin Al Munkadir] dan [Ibrahim bin Maisarah] keduanya mendengar [Anas bin Malik] berkata; "Aku shalat dluhur empat raka'at di Madinah bersama Rasulullah shallallahu 'alaihi wasallam, dan shalat Ashar dua raka'at di Dzul Hulaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1089) Sahih Muslim (690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1202</td></tr><tr><td>Arabic No</td><td>1202</td></tr><tr><td>Reference</td><td>Book 4 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах: «Я совершал полуденную молитву /зухр/ в четыре рак‘ата вместе с посланником Аллаха ﷺ в Медине, а послеполуденную /‘аср/ уже в Зу-ль-Хуляйфе и всего в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1089) Sahih Muslim (690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1202</td></tr><tr><td>Arabic No</td><td>1202</td></tr><tr><td>Reference</td><td>Book 4 Hadith 5</td></tr></tbody></table></div>
 

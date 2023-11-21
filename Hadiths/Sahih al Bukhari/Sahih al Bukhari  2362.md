@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:An Ansari man quarreled with Az-Zubair about a cana
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad, dia adalah anak dari Salam] telah mengabarkan kepada kami [Makhlad bin Yazid Al Harraniy] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah menceritakan kepadaku [Ibnu Syihab] dari ['Urwah bin Az Zubair] bahwasanya dia menceritakan ada seorang dari kalangan Anshar bersengketa dengan Az Zubair di hadapan Nabi shallallahu 'alaihi wasallam tentang aliran air di daerah Al Harrah yang mereka gunakan untuk menyirami pepohonan kurma. Maka Rasulullah shallallahu 'alaihi wasallam berkata kepada Az Zubair: "Wahai Zubair. Beliau memerintahkannya berbuat ma'ruf."Kemudian kirimlah buat tetanggamu". Orang Anshar itu berkata; "Tentu saja kamu bela dia karena dia putra bibimu". Maka wajah Rasulullah shallallahu 'alaihi wasallam memerah kemudian berkata: "Berilah air kemudian bendunglah hingga air itu kembali ke dasar ladang dan tunaikanlah haknya". Maka Az Zubair berkata: "Demi Allah, sungguh ayat ini turun tentang kasus ini, yaitu firman Allah dalam surah An-Nisa ayat 65 yang artinya: ("Maka demi Tuhanmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim terhadap perkara yang mereka perselisihkan…). Ibnu Sihab berkata, kepadaku: "Maka orang Anshar dan yang lainnya mengukur apa yang Nabi shallallahu 'alaihi wasallam sabdakan tadi: "Berilah air kemudian bendunglah hingga air itu kembali ke dasar ladang", dan saat itu mencapai setinggi mata kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 42 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Урвы ибн аз-Зубайра, что один человек из числа ансар начал тяжбу с аз-Зубайром из-за источника воды, из которого он орошал пальмы. Посланник Аллаха ﷺ сказал: «О Зубайр! Набирай воду (немного), а потом посылай соседу». Ансари: «(Ты рассудил так, потому что) он сын твоей тётки со стороны отца!» Посланник Аллаха ﷺ изменился в лице, а затем сказал (аз-Зубайру): «Ороси свой участок и задержи воду, чтобы она заполнила стены вокруг ям, между пальм». Таким образом дав ему его полное право. Аз-Зубайр сказал: «Клянусь Аллахом, я считаю, что этот аят ниспослан как раз об этом: “Но нет — клянусь твоим Господом! — они не уверуют, пока они не изберут тебя судьёй во всем том, что запутано между ними” (сура “ан-Ниса”, аят 65)». Ибн Шихаб сказал мне: «Ансары и другие люди определили количество воды в словах Пророка ﷺ: “Ороси свой участок и задержи воду, чтобы она заполнила стены вокруг ям между пальм”, — что это уровень, достигающий щиколоток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 42 Hadith 10</td></tr></tbody></table></div>
 

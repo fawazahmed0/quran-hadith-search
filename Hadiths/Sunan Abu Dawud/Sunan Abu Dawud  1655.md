@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said when some meat was brought to the Prophet (SAWS), he asked What is thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Amr bin Marzuq], ia berkata; telah mengabarkan kepada Kami [Syu'bah] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam diberi daging, beliau mengatakan; apakah ini? Mereka berkata; sesuatu yang disedekahkan kepada Barirah. Kemudian beliau bersabda: "Sesuatu tersebut adalah sedekah baginya dan hadiah bagi kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1495) Sahih Muslim (1074)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 9 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах, передаёт, что однажды Пророку ﷺ подали мясо, и он спросил: «Что это?» Ему сказали: «Это подали Барире в качестве милостыни». (Посланник Аллаха ﷺ) сказал: «Для Бариры это милостыня, а для нас подарок»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1495) Sahih Muslim (1074)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 9 Hadith 100</td></tr></tbody></table></div>
 

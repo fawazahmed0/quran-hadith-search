@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Prophet (ﷺ) used to pray at night while I lay interposed b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru an-Naqid] serta [Zuhair bin Harb] mereka berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Urwah] dari [Aisyah] bahwa Nabi shallallahu'alaihiwasallam dahulu shalat pada sebagian malam, sedangkan aku tidur melintang di antara beliau dengan kiblat seperti jenazah melintang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1140</td></tr><tr><td>Arabic No</td><td>512.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ молился ночью, я лежала (на постели) меж ним и киблой подобно покойнице»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1140</td></tr><tr><td>Arabic No</td><td>512.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 302</td></tr></tbody></table></div>
 

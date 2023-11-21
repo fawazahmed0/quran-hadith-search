@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad b. Sirin reported:I asked Anas b. Malik whether Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hajjaj Ibnu Sya'ir] Telah menceritakan kepada kami [Mu'alla bin Usud] Telah menceritakan kepada kami [Wuhaib bin Khalid] dari [Ayyub] dari [Muhammad bin Sirin] dia berkata; "Aku bertanya kepada [Anas bin Malik], "pernahkah Rasulullah shallallahu 'alaihi wasallam mencelup rambut beliau?" Jawab Anas; "Beliau tidak kelihatan beruban, kecuali sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6075</td></tr><tr><td>Arabic No</td><td>2341.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6075</td></tr><tr><td>Arabic No</td><td>2341.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 133</td></tr></tbody></table></div>
 

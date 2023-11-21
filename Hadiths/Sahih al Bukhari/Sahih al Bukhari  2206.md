@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Whoever pollinates date palms and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Siapa saja yang telah mengawinkan pohon kurmanya lalu menjual pohonnya maka buah pohon kurma itu menjadi hak yang mengawinkannya kecuali bila disyaratkan oleh pembelinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2206</td></tr><tr><td>Arabic No</td><td>2206</td></tr><tr><td>Reference</td><td>Book 34 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Тот кто продал опылённые пальмы, тому и принадлежит их урожай, если только покупатель не поставил (соответствующее) условие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2206</td></tr><tr><td>Arabic No</td><td>2206</td></tr><tr><td>Reference</td><td>Book 34 Hadith 152</td></tr></tbody></table></div>
 

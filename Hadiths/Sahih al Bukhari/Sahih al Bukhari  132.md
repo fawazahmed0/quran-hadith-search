@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I used to get the emotional urethral discharge frequently so I req
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdullah bin Daud] dari [Al A'masy] dari [Mundzir Ats Tsauri] dari [Muhammad Al Hanafiyah] dari ['Ali bin Abu Thalib] berkata, "Aku adalah seorang laki-laki yang mudah mengeluarkan madzi, lalu suruh Miqdad bin Al Aswad untuk menanyakan hal itu kepada Nabi shallallahu 'alaihi wasallam. Lalu ia pun menanyakannya kepada beliau, dan beliau menjawab: "Padanya ada kewajiban wudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>132</td></tr><tr><td>Arabic No</td><td>132</td></tr><tr><td>Reference</td><td>Book 3 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал:«Обычно у меня выделялась жидкость, и (однажды) я велел аль-Микъдаду спросить (об этом) Пророка ﷺ. (Аль-Микъдад) задал ему этот вопрос, и (Пророк ﷺ) сказал: “(В этом случае следует) совершить омовение /вудуъ/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>132</td></tr><tr><td>Arabic No</td><td>132</td></tr><tr><td>Reference</td><td>Book 3 Hadith 74</td></tr></tbody></table></div>
 

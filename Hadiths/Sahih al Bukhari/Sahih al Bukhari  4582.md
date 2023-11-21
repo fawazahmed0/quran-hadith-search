@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Masud:Allah's Messenger (ﷺ) said to me, "Recite (of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Sulaiman] dari [Ibrahim] dari ['Abidah] dari ['Abdullah] berkata; Yahya -sebagian Hadits- dari ['Amru bin Murrah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda kepadaku: "Bacakanlah Al Qur'an kepadaku! Aku berkata; Bagaimana aku membacakan kepadamu, padahal Al Qur'an diturunkan kepadamu? Beliau menjawab: "Sesungguhnya aku suka mendengarkannya dari orang lain." Lalu aku membacakan kepada beliau surat An Nisa hingga tatkala sampai ayat; Maka bagaimanakah (halnya orang kafir nanti), apabila Kami mendatangkan seseorang saksi (rasul) dari tiap-tiap umat dan Kami mendatangkan kamu (Muhammad) sebagai saksi atas mereka itu (sebagai umatmu (An Nisa; 41), " beliau berkata; 'Cukup.' Dan ternyata beliau mencucurkan air mata (menangis)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4582</td></tr><tr><td>Arabic No</td><td>4582</td></tr><tr><td>Reference</td><td>Book 65 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ велел мне: “Почитай мне (Коран)”. Я сказал: “Как же я буду читать его тебе, когда тебе он был ниспослан?!” — (однако Пророк ﷺ) сказал: “Поистине, я люблю слушать(, когда его читают) другие”. И я стал читать ему суру “ан-Ниса”, а когда дошёл до (того аята, в котором говорится): “А как же, когда приведём мы от каждой общины свидетеля и приведём тебя как свидетеля против них?!” — он сказал: “Хватит”, (и тут я увидел, что) из глаз (Пророка ﷺ) текут слёзы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4582</td></tr><tr><td>Arabic No</td><td>4582</td></tr><tr><td>Reference</td><td>Book 65 Hadith 104</td></tr></tbody></table></div>
 

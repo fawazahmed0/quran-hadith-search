@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada bin Rib'i Al-Ansari:A funeral procession passed by Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] mengatakan, telah menceritakan kepadaku [Malik] dari [Muhammad bin Amru bin Halhalah] dari [Ma'bad bin Ka'b bin malik] dari [Abu Qatadah bin Rib'i Al Anshari], ia menceritakan bahwasanya Rasulullah shallallahu'alaihiwasallam pernah dilewati jenazah, kemudian beliau bersabda: "Telah tiba gilirannya seorang mendapat kenyamanan atau yang lain menjadi nyaman". Para sahabat bertanya; 'Wahai Rasulullah, apa maksud anda ada orang mendapat kenyamanan atau yang lain menjadi nyaman? ' Jawab Nabi: "seorang hamba yang mukmin akan memperoleh kenyamanan dari kelelahan dunia dan kesulitan-kesulitannya menuju rahmat Allah, sebaliknya hamba yang jahat, manusia, negara, pepohonan atau hewan menjadi nyaman karena kematiannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6512</td></tr><tr><td>Arabic No</td><td>6512</td></tr><tr><td>Reference</td><td>Book 81 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада ибн Риб‘и аль-Ансари рассказывал о том, что (однажды) мимо Посланника Аллаха ﷺ пронесли погребальные носилки, и он сказал: «(Один) отдохнёт, а от другого отдохнут (другие)». (Люди стали) спрашивать: «О Посланник Аллаха, что значит “отдохнёт” и что значит “от другого отдохнут”?» (В ответ на это Пророк ﷺ) сказал: «Верующий раб отдохнёт от страданий и мучений мира этого (отправившись) к милости Аллаха, что же касается нечестивого раба, то от него отдохнут и (другие) рабы, и города, и деревья, и животные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6512</td></tr><tr><td>Arabic No</td><td>6512</td></tr><tr><td>Reference</td><td>Book 81 Hadith 101</td></tr></tbody></table></div>
 

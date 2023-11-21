@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever Allah's Messenger (ﷺ) went to bed, he used to blow on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] dia berkata; telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Urwah] dari [Aisyah] radliallahu 'anha bahwa apabila Rasulullah shallallahu 'alaihi wasallam hendak tidur, beliau meniupkan ke kedua tangannya sambil membaca mu'awidzatain (surat An Naas dan Al Falaq), lalu beliau mengusapkan ke badannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6319</td></tr><tr><td>Arabic No</td><td>6319</td></tr><tr><td>Reference</td><td>Book 80 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что когда Посланник Аллаха ﷺ (хотел) лечь в постель, он дул на свои ладони и читал три последних суры Корана, а потом проводил руками по своему телу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6319</td></tr><tr><td>Arabic No</td><td>6319</td></tr><tr><td>Reference</td><td>Book 80 Hadith 16</td></tr></tbody></table></div>
 

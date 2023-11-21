@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Miswar b. Makhrama reported:Some cloaks were presented to the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Khaththab Ziyad bin Yahya Al Hassani] telah menceritakan kepada kami [Hatim bin Wardan Abu Shalih] telah menceritakan kepada kami [Ayyub Asy Syakhtiyan] dari [Abdullah bin Abu Mulaikah] dari [Al Miswar bin Makhramah] ia berkata; Nabi shallallahu 'alaihi wasallam menerima beberapa pakaian (sejenis jaket), maka ayahku pun berkata, "Marilah kita pergi kepada beliau, mudah-mudahan ada pembagian untuk kita." Setibanya di sana, ayahku berdiri di pintu seraya berbicara. Rasulullah shallallahu 'alaihi wasallam mengenal suaranya, maka beliau pun keluar dengan membawa sehelai jaket dengan memperlihatkan keindahannya kepada ayahku seraya bersabda: "Ini kusimpan untukmu, ini kusimpan untukmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>1058.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Мисвар ибн Махрама сказал: «Однажды Пророку ﷺ прибыли одежды наподобие кафтанов, и мой отец Махрама сказал мне: “Пойдём со мной к нему (Посланнику Аллаха ﷺ), может быть, он и нам даст что-нибудь из этих одежд”. Мой отец встал у двери дома (Пророка ﷺ) и стал разговаривать. Узнав его голос, Пророк ﷺ вышел, держа в руке одну из этих одежд, и стал показывать ему её красоту, говоря: “Я припрятал это для тебя, я припрятал это для тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>1058.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 169</td></tr></tbody></table></div>
 

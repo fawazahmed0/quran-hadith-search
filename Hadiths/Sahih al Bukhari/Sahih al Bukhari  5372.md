@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Habiba:(the wife of the Prophet) I said, "O Allah's Messenger (ﷺ)!
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] Telah mengabarkan kepadaku [Urwah] bahwa [Zainab binti Abu Salamah] Telah mengabarkan kepadanya bahwa [Ummu Habibah] Isteri Nabi shallallahu 'alaihi wasallam berkata; Aku pernah berkata, "Wahai Rasulullah, nikahilah saudara perempuanku binti Abu Sufyan."Beliau bertanya: "Apakah kamu menyukai hal itu?" aku menjawab, "Ya, aku tak ingin jika kebaikanmu kunikmati sendiri. Aku ingin jika kebaikanmu juga sama-sama dirasakan oleh saudariku." Beliau pun bersabda: "Sesungguhnya hal itu tidaklah halal bagiku." Aku berkata lagi, "Wahai Rasulullah, demi Allah, sesungguhnya kami pernah ngobrol-ngobrol bahwa Anda ingin menikahi Durrah binti Abu Salamah!." Beliau balik bertanya: "Binti Abu Salamah?" aku menjawb, "Ya." Beliau bersabda: "Demi Allah, sekiranya ia bukan termasuk anak tiri dalam asuhanku, ia pun tak halal bagiku. Sesungguhnya ia adalah anak perempuan dari saudara sesusuanku. Tsuwaibah telah menyusuiku dan juga Abu Salamah. Karena itu, janganlah kalian menawarkan anak-anak dan saudara-saudara perempuan kalian padaku." Syu'aib berkata; Dari Az Zuhri, bahwa telah berkata Urwah; Yang membebaskan Tsuwaibah adalah Abu Lahab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5372</td></tr><tr><td>Arabic No</td><td>5372</td></tr><tr><td>Reference</td><td>Book 69 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Хабиба, жена Пророка ﷺ, сказала: «(Однажды) я сказала (Пророку ﷺ): “О Посланник Аллаха, возьми в жёны мою сестру, дочь Абу Суфйана”. Он спросил: “Ты хочешь этого?” Я сказала: “Да, ведь я не единственная твоя жена, и больше всего я хочу, чтобы (именно) моя сестра разделила со мной благо”. Тогда Пророк ﷺ сказал (мне): “Поистине, мне это не дозволено”. Я сказала: “Но нам говорят, что ты хочешь взять в жёны Дурру, дочь Абу Салямы”. (Пророк ﷺ) спросил: “(Ты имеешь в виду) дочь Умм Салямы?” Я сказала: “Да”. Тогда (Пророк ﷺ) сказал: “Клянусь Аллахом, даже если бы она не была моей падчерицей, мне нельзя было бы (жениться) на ней, ибо она является дочерью моего молочного брата. Меня и Абу Саляму выкормила своим молоком Сувайба, и не предлагайте мне (в жёны) ни ваших дочерей, ни ваших сестёр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5372</td></tr><tr><td>Arabic No</td><td>5372</td></tr><tr><td>Reference</td><td>Book 69 Hadith 22</td></tr></tbody></table></div>
 

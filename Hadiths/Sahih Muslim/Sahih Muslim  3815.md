@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (may peace'be upon him) as saying:Do not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah mencegat pedagang untk memborong barang-barangnya (sebelum sampai ke pasar); jangan membali barang yang sedang dibeli orang lain; jangan menipu; orang kota hendaknya tidak memborong dagangan orang dusun (dengan maksud monopoli dan menaikkan harga); jangan menahan susu unta atau kambing yang akan dijual supaya kelihatan susunya banyak. Jika dia membeli dan memerahnya setelah membali, maka dia boleh memilih dari dua keadaan, jika ia suka, maka dia boleh ditahannya namun jika tidak suka dia boleh mengembalikannya dengan satu sha' kurma (pengganti susu dan perahannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3815</td></tr><tr><td>Arabic No</td><td>1515.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3815</td></tr><tr><td>Arabic No</td><td>1515.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 15</td></tr></tbody></table></div>
 

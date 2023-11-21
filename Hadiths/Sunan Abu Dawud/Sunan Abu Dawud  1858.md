@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ka'b ibn Ujrah: The Messenger of Allah (ﷺ) came upon him (during thei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibnu Al Mutsanna] telah menceritakan kepada Kami [Abdul Wahhab]. Telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Nashr bin Ali], telah menceritakan kepada Kami [Yazid bin Zurai'] dan ini adalah lafazh Ibnu Al Mutsanna dari [Daud] dari ['Amir] dari [Ka'b bin 'Ujrah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melewatinya pada zaman terjadinya perjanjian Hudaibiyah….. kemudian ia menyebutkan kisah tersebut. Kemudian beliau berkata: "Apakah engkau membawa dam (kambing atau sejenisnya)?" Ia berkata; tidak. Beliau bersabda: "Berpuasalah tiga hari atau bersedekahlah tiga sha' kurma kepada enam orang miskin, untuk setiap dua orang miskin satu sha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1858</td></tr><tr><td>Arabic No</td><td>1858</td></tr><tr><td>Reference</td><td>Book 11 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ка‘б ибн ‘Уджра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ проходил мимо него во время [событий в] Худайбии. Рассказывая эту историю, он упомянул о том, что Посланник Аллаха ﷺ сказал: «У тебя есть животное, которое можно принести в жертву?» Он ответил: «Нет». [Посланник Аллаха ﷺ] сказал: «Тогда постись три дня или раздели три са‘ фиников между шестью бедняками раздели каждое са‘ между двумя бедняками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1858</td></tr><tr><td>Arabic No</td><td>1858</td></tr><tr><td>Reference</td><td>Book 11 Hadith 138</td></tr></tbody></table></div>
 

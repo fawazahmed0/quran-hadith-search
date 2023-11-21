@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) sent seventy men from the tribe of Bani Salim to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hafsh bin 'umar Al Hawdhiy] telah bercerita kepada kami [Hammam] dari [Ishaq] dari [Anas radliallahu 'anhu] berkata; "Rasulullah shallallahu 'alaihi wasallam mengutus tujuh puluh orang dari Bani Sulaim menemui suku Bani Amir sesampainya di sana pamanku berkata kepada mereka; "Aku akan mendahului kalian seandainya mereka mengizinkanku menyampaikan pesan Rasulullah shallallahu 'alaihi wasallam, sementara itu kalian harus berada di dekatku" maka ia pun maju ke depan barisan mereka sementara orang kafir menjamin keselamatannya. Namun ketika ia menyampaikan pesan Rasulullah shallallahu 'alaihi wasallam, salah seorang dari mereka menikamnya hingga tewas, pamanku berkata; "Allahu Akbar, demi Tuhan Ka'bah aku telah beruntung, setelah itu mereka menyerang pasukan pamanku dan membunuh habis mereka kecuali seorang laki-laki pincang yang melarikan diri ke gunung, Hammam berkata: "Menurutku ada laki-laki lain yuang mampu melarikan diri bersamanya". Kemudiam Malaikat Jibril Alaihis Salam mengabarkan kepada Nabi shallallahu 'alaihi wasallam bahwa mereka (utusan yang telah dibunuh) telah berjumpa dengan Robb mereka, Dia ridha kepada mereka dan memberikan kebahagian kepada mereka. (Mereka) berkata,: kami telah membaca: ("Kami telah menyampaikan kepada kaum kami bahwa kami telah berjumpa dengan Robb, Dia ridha terhadap kami dan memberikan kebahagiaan kepada kami "). Lalu (ayat) ini dihapus. Kemudian Nabi shallallahu 'alaihi wasallam berdo'a selama empa puluh hari (dalam shalat) shubuh mengutuk perkampungan mereka, Dzakwan, Bani Lahyan dan Bani 'Ushoyyah yang telah durhaka kepada Allah dan Rosul-Nya shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2801</td></tr><tr><td>Arabic No</td><td>2801</td></tr><tr><td>Reference</td><td>Book 56 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(В своё время) Пророк ﷺ послал семьдесят (человек) из (племени) бану суляйм к (людям из племени) бану ‘амир. Когда они прибыли (на место), мой дядя сказал им: “Я пойду вперёд, и если они дадут мне спокойно передать им (послание) Посланника Аллаха ﷺ (то хорошо), а если нет, то держитесь поблизости от меня”. И после того как (многобожники) обещали ему безопасность, он пошёл впереди них, когда же он стал передавать им (послание) Пророка ﷺ они подали знак одному из них, и он (убил моего дядю), пронзив его копьём насквозь. (Перед смертью) он (успел) сказать: “Аллах велик! Клянусь Господом Каабы, я добился успеха!” После этого они напали на его товарищей и перебили их (всех), кроме одного хромого человека, который забрался на гору, а Джибрил, мир ему, сообщил Пророку ﷺ о том, что они уже встретились со своим Господом, Который остался доволен ими и сделал довольными их. И если прежде мы всегда читали: “Передайте нашим людям, что мы уже встретились с нашим Господом, Который остался доволен нами и сделал довольными нас”, то потом (этот аят Корана) был отменён, а (Пророк ﷺ) в течение сорока дней призывал проклятия на убийц из племён) ри‘ль, закван, бану лихйан и бану усаййа, которые ослушались Аллаха Всевышнего и Его посланника ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2801</td></tr><tr><td>Arabic No</td><td>2801</td></tr><tr><td>Reference</td><td>Book 56 Hadith 18</td></tr></tbody></table></div>
 

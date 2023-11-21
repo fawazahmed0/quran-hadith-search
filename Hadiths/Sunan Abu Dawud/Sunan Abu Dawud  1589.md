@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin ‘Abdallah told of some people, meaning nomadic Arabs, who came to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Kamil] telah menceritakan kepada Kami [Abdul Wahid] yaitu Ibnu Ziyad. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Abdurrahim bin Sulaiman] dan ini adalah hadits Abu Kamil, dari [Muhammad bin Abu Isma'il] telah menceritakan kepada kami [Abdurrahman bin Hilal Al 'Absi] dari [Jarir bin Abdullah], ia berkata; telah datang beberapa orang yaitu dari kalangan badui kepada Rasulullah shallAllahu wa'alaihi wa sallam dan berkata; sesungguhnya beberapa orang petugas pengambil zakat datang kepada Kami dan berbuat zhalim kepada Kami. Jarir berkata; kemudian beliau berkata; "Buatlah para petugas zakat kalian ridha." Mereka berkata; wahai Rasulullah, walaupun mereka berbuat zhalim kepada Kami? Beliau berkata: "Buatlah para petugas tersebut zakat kalian ridha." Utsman menambahkan; walaupun kalian dizhalimi. Abu Kamil berkata dalam haditsnya; Jarir berkata; tidaklah seorangpun petugas zakat pergi dariku setelah aku mendengar hal ini dari Rasulullah shallAllahu wa'alaihi wa sallam melainkan ia ridha kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (989)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 9 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джарир ибн ‘Абдуллах, да будет доволен им Аллах, передаёт, что к Посланнику Аллаха ﷺ пришли бедуины и сказали: «Поистине, к нам приходят сборщики закята и притесняют нас!» (Посланник Аллаха ﷺ) сказал: «Сделайте так, чтобы сборщики закята были довольны». Они спросили: «О Посланник Аллаха, даже если они притесняют нас?»(Посланник Аллаха ﷺ) сказал: «Сделайте так, чтобы сборщики закята были довольны». ‘Усман добавлял: «…даже если они вас притесняют». В версии Абу Камиля Джарир (ибн ‘Абдуллах) сказал: «И с тех пор, как я услышал это от Посланника Аллаха ﷺ сборщики уходили от меня не иначе как довольными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (989)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 9 Hadith 34</td></tr></tbody></table></div>
 

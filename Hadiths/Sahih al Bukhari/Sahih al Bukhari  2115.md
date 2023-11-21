@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar (ra) :We were accompanying the Prophet (ﷺ) on a journey and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2115</td></tr><tr><td>Arabic No</td><td>2115</td></tr><tr><td>Reference</td><td>Book 34 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды, когда) мы находились в пути вместе с Пророком ﷺ, я ехал на принадлежавшем ‘Умару молодом пугливом верблюде. Я никак не мог с ним справиться, а он постоянно опережал остальных, (и когда это случалось,) ‘Умар прикрикивал на него и заставлял возвращаться, но потом он снова выбегал вперёд, а ‘Умар снова кричал на него и возвращал его обратно. (Через некоторое время) Пророк ﷺ сказал Умару: “Продай мне его”. (‘Умар) сказал: “Он твой, о Посланник Аллаха!” (Однако Пророк ﷺ снова) сказал: “Продай мне его”, и (‘Умар) продал его Посланнику Аллаха ﷺ, после чего Пророк ﷺ сказал: “Он твой, о ‘Абдуллах ибн ‘Умар, делай с ним, что хочешь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2115</td></tr><tr><td>Arabic No</td><td>2115</td></tr><tr><td>Reference</td><td>Book 34 Hadith 68</td></tr></tbody></table></div>
 

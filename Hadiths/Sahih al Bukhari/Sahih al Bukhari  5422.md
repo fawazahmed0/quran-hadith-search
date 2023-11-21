@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Umaiyay Ad-Damri:I saw Allah's Messenger (ﷺ) cutting part of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ja'far bin Amru bin Umayyah Adl Dlamri] dari [Bapaknya] ia berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam memotong-motong pundak kambing dan memakannya. Ketika panggilan shalat tiba, beliau langsung meletakkan pisaunya lalu melaksanakan shalat tanpa berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5422</td></tr><tr><td>Arabic No</td><td>5422</td></tr><tr><td>Reference</td><td>Book 70 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джа‘фара ибн ‘Амра ибн Умаййи аль-Дамри, что его отец сказал: «Я видел, как Посланник Аллаха ﷺ ел баранью лопатку, отрезая от неё ножом (куски мяса). И когда прозвучал призыв к молитве, он встал, бросил нож, и совершил молитву, не совершив омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5422</td></tr><tr><td>Arabic No</td><td>5422</td></tr><tr><td>Reference</td><td>Book 70 Hadith 50</td></tr></tbody></table></div>
 

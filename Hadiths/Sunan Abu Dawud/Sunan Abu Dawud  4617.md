@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Humaid said:Al-Hasan used to say that his fall from the heaven on the earth is d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hilal bin Bisyr] ia berkata; telah menceritakan kepada kami [Hammad] ia berkata; telah mengabarkan kepadaku [Humaid] berkata; [Al Hasan] berkata, "Dijatuhkannya (adam) dari langit ke bumi lebih disukai daripada harus mengatakan segala urusan ada di tanganku (meniadakan takdir)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хасан сказал: «Лучше мне упасть с небес на землю, чем сказать, (отрицая таким образом предопределение): “Всё в моих руках”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
 

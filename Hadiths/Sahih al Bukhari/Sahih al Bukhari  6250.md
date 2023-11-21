@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:I came to the Prophet (ﷺ) in order to consult him regarding my 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Hisyam bin Abdul Malik] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Al Munkadir] dia berkata; saya mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; "Aku menemui Nabi shallallahu 'alaihi wasallam karena hutang ayahku, lalu aku mengetuk pintu rumah beliau, beliau bertanya;: "Siapakah itu?" aku menjawab; "Saya." Beliau bersabda: "Saya, saya!." Seolah-olah beliau membencinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6250</td></tr><tr><td>Arabic No</td><td>6250</td></tr><tr><td>Reference</td><td>Book 79 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Однажды) я пришёл к Пророку ﷺ чтобы (поговорить с ним) о долге моего отца, и постучал в дверь. Он спросил: “Кто это?” Я ответил: “Я”, он же (стал повторять): “Я, я!” — (говоря это так, что мне показалось), будто (мой ответ) ему не понравился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6250</td></tr><tr><td>Arabic No</td><td>6250</td></tr><tr><td>Reference</td><td>Book 79 Hadith 24</td></tr></tbody></table></div>
 

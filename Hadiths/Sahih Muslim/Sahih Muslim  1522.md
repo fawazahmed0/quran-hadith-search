@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) transmet qu'il a entendu l'Envoyé de Dieu (pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Laits] (dan diriwayatkan dari jalur lain) [Qutaibah] mengatakan; telah menceritakan kepada kami [Bakr yaitu bin Mudlar], keduanya dari [Ibnu Al Hadi] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, sedangkan dalam hadis Bakr, ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagaimana pendapat kalian, sekiranya ada sungai berada dekat pintu salah seorang diantara kalian yang ia pergunakan untuk mandi lima kali dalam sehari, mungkinkah kotorannya masih tersisa?" Para sahabat menjawab; "Kotorannya tidak akan tersisa." Beliau bersabda; "Itulah perumpamaan kelima shalat, yang dengannya Allah akan menghapus kesalahan-kesalahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1522</td></tr><tr><td>Arabic No</td><td>667</td></tr><tr><td>Reference</td><td>Book 5 Hadith 355</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Как вы считаете, если возле двери кого-то из вас будет (протекать) река, в которой он будет купаться ежедневно пять раз, останется ли на нём хоть какое-нибудь загрязнение?» Люди ответили: «На нём не останется никакого загрязнения». (Пророк ﷺ) продолжил: «Это подобно пяти (обязательным) молитвам, посредством которых Аллах стирает грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1522</td></tr><tr><td>Arabic No</td><td>667</td></tr><tr><td>Reference</td><td>Book 5 Hadith 355</td></tr></tbody></table></div>
 

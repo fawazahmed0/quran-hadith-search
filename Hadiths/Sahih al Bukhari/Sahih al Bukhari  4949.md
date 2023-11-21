@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:While the Prophet (ﷺ) was in a funeral procession. he picked up 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] ia berkata; Aku mendengar [Sa'd bin Ubaidah] menceritakan dari [Abu Abdurrahman As Sulami] dari [Ali radliallahu 'anhu] ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam berada dalam rombongan pelayat Jenazah, lalu beliau mengambil sesuatu dan memukulkannya ke tangah. Kemudian beliau bersabda: "Tidak ada seorang pun, kecuali tempat duduknya telah ditulis di neraka dan tempat duduknya di surga." Para sahabat bertanya, "Wahai Rasulullah, kalau begitu, bagaimana bila kita bertawakkal saja terhadap takdir kita tanpa beramal?" beliau menajawab: "Ber'amallah kalian, karena setiap orang akan dimudahkan kepada yang dicipta baginya. Barangsiapa yang diciptakan sebagai Ahlus Sa'adah (penduduk surga), maka ia akan dimudahkan untuk mengamalkan amalan Ahlus Sa'adah. Namun, barangsiapa yang diciptakan sebagai Ahlusy Syaqa' (penghuni neraka), maka ia akan dimudahkan pula untuk melakukan amalan Ahlusy Syaqa'." Kemudian beliau membacakan ayat: "FA'AMMAA MAN 'A'THAA WAT TAQAA WA SHADDAQA BIL HUSNAA (Dan barangsiapa yang memberi, dan bertakwa serta membenarkan kebaikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 65 Hadith 471</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али передаёт, что однажды Пророк ﷺ участвовал в похоронной процессии, и он взял что-то, и начал ковырять ею землю и сказал: «Нет никого среди вас, место которого в Аду или в Раю уже не было бы определено». (Люди) спросили: «О Посланник Аллаха, так не положиться ли нам на то, что уже предопределено, и не отказаться ли от дел?» (Посланник Аллаха ﷺ) сказал: «Трудитесь, ибо каждому будет облегчено [то, для чего он был создан]. Что касается счастливых, то для них будет облегчено совершение дел счастливых, что же касается злосчастных, то для них будет облегчено совершение дел злосчастных». Затем Пророк Аллаха ﷺ прочитал: «Что касается того, кто отдавал, и был богобоязненным, и признавал наилучшее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 65 Hadith 471</td></tr></tbody></table></div>
 

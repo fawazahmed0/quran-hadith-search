@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca kitab [Malik] dari [Abu Az Ziyad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jauhilah berprasangka buruk, karena prasangka buruk adalah ucapan yang paling dusta. Janganlah mencari-cari isu; janganlah mencari-cari kesalahan; janganlah saling bersaing; janganlah saling mendengki; janganlah saling memarahi; dan janganlah saling membelakangi (memusuhi)! Tetapi, jadilah kalian hamba-hamba Allah yang bersaudara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6536</td></tr><tr><td>Arabic No</td><td>2563.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6536</td></tr><tr><td>Arabic No</td><td>2563.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 35</td></tr></tbody></table></div>
 

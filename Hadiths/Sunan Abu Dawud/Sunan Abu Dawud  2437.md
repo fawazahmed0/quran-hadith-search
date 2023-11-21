@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated One of the wives of the Prophet: Hunaydah ibn Khalid narrated from his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu 'Awanah] dari [Al Hurr bin Ash Shabbah], dari [Hunaidah bin Khalid] dari [Seorang wanita] dari [sebagian isteri Nabi shallallahu 'alaihi wasallam] ia berkata; Rasulullah shallallahu 'alaihi wasallam berpuasa pada tanggal sembilan Bulan Dzul Hijjah, serta pada Hari 'Asyura' serta tiga hari dari setiap bulan, dan hari Senin serta Kamis pada setiap bulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2437</td></tr><tr><td>Arabic No</td><td>2437</td></tr><tr><td>Reference</td><td>Book 14 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Одна из жён Пророка ﷺ передаёт, что Посланник Аллаха ﷺ постился первые девять дней зу-ль-хиджжи и в день ‘Ашуры, а также три дня каждый месяц: первый понедельник месяца и четверг (и следующий понедельник)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2437</td></tr><tr><td>Arabic No</td><td>2437</td></tr><tr><td>Reference</td><td>Book 14 Hadith 125</td></tr></tbody></table></div>
 

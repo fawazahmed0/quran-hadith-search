@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Whenever 'Abdullah bin 'Umar was asked about Salat-al-Khauf (i.e.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada kami [Malik] dari [Nafi'] bahwa [Abdullah bin Umar radliallahu 'anhuma] apabila ditanya tentang shalat khauf dia menjawab; "Seorang imam maju bersama sekelompok orang, lalu shalat satu rekaat bersama mereka. Sedangkan sekelompok yang lain yang berada antara imam dengan musuh belum mengerjakan shalat. Jika orang-orang yang shalat bersama imam telah selesai, mereka mundur ke tempat orang-orang yang belum shalat dan mereka belum salam. Kelompok yang belum shalat maju dan shalat bersama imam satu rekaat. Imam pergi dan dia telah shalat dua rekaat. Maka semua dari dua kelompok itu berdiri dan menyempurnakan shalat mereka satu rekaat, satu rekaat, setelah perginya imam. Setiap kelompok itu telah menyempurnakan dua rekaaat. Jika keadaan lebih menakutkan daripada itu, mereka shalat dengan berjalan kaki atau dengan menunggangi tunggangan, baik menghadap qiblat atau tidak." Malik berkata, Nafi' berkata; "Saya tidak melihat Abdullah bin Umar menceritakannya melainkan dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4535</td></tr><tr><td>Arabic No</td><td>4535</td></tr><tr><td>Reference</td><td>Book 65 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Нафи‘а, что когда ‘Абдуллаха ибн ‘Умара спрашивали о молитве страха (салят аль-хауф), он говорил: «Имам выходит вперёд с группой людей и совершает с ними один рак‘ат, в то время как другая группа из них, которая еще не молилась, остается между молящейся группой и врагом. Когда те, кто с имамом, закончат свой один рак‘ат, они отступают назад и занимают позиции тех, кто не молился, но они не произносят слова таслима. Те, кто не молился, выходят вперёд, чтобы совершить один рак‘ат с имамом. Затем имам, совершив два рак‘ата, заканчивает свою молитву. Затем каждая из двух групп встаёт и совершает самостоятельно один рак‘ат, совершив таким образом два рак‘ата. Если страх был сильнее этого, тогда они молились на ходу, стоя на ногах или верхом, повернувшись к кибле и не поворачиваясь к кибле» \nНафи’ сказал: «Я не думаю, что ‘Абдуллах ибн ‘Умар сказал это, не цитируя Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4535</td></tr><tr><td>Arabic No</td><td>4535</td></tr><tr><td>Reference</td><td>Book 65 Hadith 58</td></tr></tbody></table></div>
 

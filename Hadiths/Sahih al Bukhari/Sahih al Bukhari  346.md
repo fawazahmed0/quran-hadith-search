@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq bin Salama:I was with 'Abdullah and Abu Musa; the latter asked t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] berkata; telah menceritakan kepada kami [Bapakku] berkata; telah menceritakan kepada kami [Al A'masy] berkata, aku mendengar [Syaqiq bin Salamah] berkata; aku pernah berada di dekat 'Abdullah bin Mas'ud dan [Abu Musa], Abu Musa lalu berkata kepadanya, "Bagaimana pendapatmu wahai Abu 'Abdurrahman bila seseorang mengalami junub dan tidak mendapatkan air. Apa yang harus ia lakukan?" 'Abdullah menjawab, "Ia tidak boleh shalat hingga mendapatkan air." Abu Musa berkata, "Bagaimana engkau menyikapi perkataan ['Ammar] ketika Nabi shallallahu 'alaihi wasallam berkata kepadanya 'Cukup bagimu begini'? 'Abdullah, "Apakah kamu tidak tahu kalau 'Umar tidak menerima pendapat tersebut?" Abu Musa kembali berkata, "Baik kita tinggalkan pendapat 'Umar! ' Tapi bagaimana sikapmu dengan ayat ini? ' 'Abdullah tidak mengerti apa yang harus ia katakan, lalu ia berkata, "Jika kami beri keringanan mereka dalam masalah ini, dikhawatirkan jika mereka merasa dingin dengan air, maka mereka tidak mau menggunakan air dan akan melakukan tayamum." Aku berkata kepada Syaqiq, 'Hanyasanya 'Abdullah tidak suka adalah karena hal ini.' Ia menjawab, "Benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>346</td></tr><tr><td>Arabic No</td><td>346</td></tr><tr><td>Reference</td><td>Book 7 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-А‘маш сказал:\n— Я слышал, как Шакыкъ ибн Саляма рассказывал: «Однажды я находился возле ‘Абдуллаха (ибн Мас‘уда) и Абу Мусы (аль-Аш‘ари), и Абу Муса сказал (Ибн Мас‘уду): “О Абу ‘Абду-р-Рахман, что ты скажешь о человеке, который осквернился и не находит воду. Как ему следует поступить? ‘Абдуллах ответил: “Он не совершает молитву, пока не находит воду”. Абу Муса спросил: “А что ты будешь делать со словами ‘Аммара, которому Пророк ﷺ сказал: «Тебе было достаточно (протереть руки и лицо один раз, а не валяться в песке». (Ибн Мас‘уд) сказал: “А разве ты не знаешь, что ‘Умар не удовлетворился этим (рассказом ‘Аммара)?!” Абу Муса сказал: “Хорошо, оставим слова ‘Аммара, но что мы будем делать с этим аятом?” Тогда ‘Абдуллах (ибн Мас‘уд) не знал, что ответить и сказал: “Если мы им облегчим в этом, то будет вероятность того, что если у кого-то из них вода станет холодной, он будет оставлять её и совершать таяммум!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>346</td></tr><tr><td>Arabic No</td><td>346</td></tr><tr><td>Reference</td><td>Book 7 Hadith 13</td></tr></tbody></table></div>
 

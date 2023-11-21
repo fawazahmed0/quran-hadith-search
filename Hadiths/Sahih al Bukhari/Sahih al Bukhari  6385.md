@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Whenever Allah's Messenger (ﷺ) returned from a Ghazwa or Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma bahwa: "Apabila Rasulullah shallallahu 'alaihi wasallam telah kembali dari peperangan, haji atau umrah, maka beliau mengucapkan takbir di setiap tempat yang tinggi sebanyak tiga kali kemudian beliau membaca: 'Tidak ada Ilah selain Allah, Yang Maha Esa, yang tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dia berkuasa atas segala sesuatu. Kita berserah diri, bertaubat, beribadah, bersujud kepada Rabb kita dengan terus memuji-Nya, Allah akan menepati janji-Nya, dan menolong hamba-Nya dan mengalahkan golongan-golongan kafir dengan sendiri-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6385</td></tr><tr><td>Arabic No</td><td>6385</td></tr><tr><td>Reference</td><td>Book 80 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что, когда Посланник Аллаха ﷺ возвращался (в Медину) после военного похода, хаджа или умры, он по три раза произносил слова “Аллах превелик”, (поднимаясь) на каждую возвышенность, после чего говорил: «Нет истинного бога, достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища, Ему принадлежит владычество, Ему хвала, Он всё может! Мы возвращаемся, каемся, Господу нашему поклоняемся и (Его) восхваляем! Аллах сдержал Своё обещание, и помог Своему рабу, и один разбил племена!»\n/Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шай-ъин кадир! Аййибуна, таъибуна, ‘абидуна, ли-Рабби-на хамидуна! Садака-Ллаху ва‘да-ху, ва насара ‘абда-ху ва хазама-ль-ахзаба вахда-ху/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6385</td></tr><tr><td>Arabic No</td><td>6385</td></tr><tr><td>Reference</td><td>Book 80 Hadith 80</td></tr></tbody></table></div>
 

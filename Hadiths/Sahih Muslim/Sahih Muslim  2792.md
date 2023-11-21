@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), un homme demanda à l'Envoyé d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Amru An Naqid] dan [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] - [Yahya] berkata- telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Salim] dari [bapaknya] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai pakaian yang harus dikenakan bagi orang yang melakukan Ihram, maka beliau menjawab: "Seorang yang melakukan Ihram tidak boleh memakai kemeja, serban, peci, celana dan tidak pula pakaian yang telah dicelup dengan Wars dan Za'faran dan tidak pula memakai sepatu, kecuali bagi yang tidak mempunyai terompah, namun hendaklah ia memendekkan sepatunya hingga tidak melewati kedua mata kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2792</td></tr><tr><td>Arabic No</td><td>1177.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим (ибн ‘Абдуллах ибн ‘Умар) передал со слов своего отца (‘Абдуллаха ибн ‘Умара), который сказал: «(Однажды) Пророка ﷺ спросили: “Что должен одевать (паломник, желающий войти) в состояние ихрама?” Он ответил: “Такой человек не должен одевать ни рубаху, ни чалму, ни бурнусы, ни шаровары, ни одежду (окрашенную) жёлтым деревом или шафраном, ни кожаные носки, если найдёт сандалии. (В противном же случае), пусть (такой чело­век носит кожаные носки), обрезав их так, чтобы (верхние края не до­ходили) до лодыжек”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2792</td></tr><tr><td>Arabic No</td><td>1177.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 2</td></tr></tbody></table></div>
 

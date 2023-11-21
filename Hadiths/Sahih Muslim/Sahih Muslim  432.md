@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Shaibini reported to us:I asked Zirr b. Hubaish about the words of Allah (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah menceritakan kepada kami [Abbad] -yaitu Ibnu al-Awwam- telah menceritakan kepada kami [asy-Syaibani] dia berkata, "Aku bertanya kepada [Zir bin Hubaisy] tentang firman Alah: '(Sehingga menjadilah jarak antara dia dengan Nabi Muhammad sejauh dua ujung busur panah atau lebih dekat lagi) ' (Qs. An Najm: 9). Perawi berkata, " [Ibnu Mas'ud] mengabarkan kepadaku bahwa Nabi shallallahu 'alaihi wasallam melihat Jibril, ia mempunyai enam ratus sayap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>432</td></tr><tr><td>Arabic No</td><td>174.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 337</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аш-Шайбани сказал: «Я спросил Зирра ибн Хубайша о смысле слов Всемогущего и Великого Аллаха “И был он на расстоянии, (равном длине) двух луков, или ещё ближе” (сура «ан-Наджм», аят 9). (В ответ на это) он сказал: “Ибн Мас‘уд сообщил мне, что Пророк ﷺ видел Джибриля, у которого было шестьсот крыльев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>432</td></tr><tr><td>Arabic No</td><td>174.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 337</td></tr></tbody></table></div>
 

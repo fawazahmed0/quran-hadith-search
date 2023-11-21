@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Talha Ibn 'Oubaydillâh (que Dieu l'agrée) a dit : Un homme du Nedjd aux cheveu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id bin Jamil bin Tharif bin Abdullah ats-Tsaqafi] dari [Malik bin Anas] dalam riwayat yang dibacakan atasnya, dari [Abu Suhail] dari [bapaknya] bahwa dia mendengar [Thalhah bin Ubaidullah] berkata, "Seorang laki-laki dari penduduk Nejd yang rambutnya berdiri datang kepada Rasulullah shallallahu 'alaihi wasallam, kami mendengar gumaman suaranya, namun kami tidak dapat memahami sesuatu yang dia ucapkan hingga dia dekat dari Rasulullah shallallahu 'alaihi wasallam, ternyata dia bertanya tentang Islam. Maka Rasulullah shallallahu 'alaihi wasallam menjawab: 'Islam adalah shalat lima waktu siang dan malam.' Dia bertanya lagi, 'Apakah saya masih mempunyai kewajiban selain-Nya? ' Beliau menjawab: 'Tidak, kecuali kamu melakukan shalat sunnah dan puasa Ramadlan.' Dia bertanya, 'Apakah saya masih mempunyai kewajiban selain-Nya? ' Beliau menjawab: 'Tidak, kecuali kamu melakukan puasa sunnah, dan Rasulullah shallallahu 'alaihi wasallam menyebutkan (kewajiban) zakat kepadanya.' Dia bertanya lagi, 'Apakah saya masih mempunyai kewajiban selain-Nya? ' Beliau menjawab: 'Tidak, kecuali kamu melakukan sedekah sunnah'." Perawi berkata, "Lalu laki-laki tersebut mengundurkan diri pamit sedangkan dia berkata, 'Demi Allah, aku tidak akan menambahkan lebih dari ini dan tidak pula mengurangi darinya'. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Dia akan bahagia jika benar (melakukan-Nya) '." Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] semuanya dari [Ismail bin Ja'far] dari [Abu Suhail] dari [bapaknya] dari [Thalhah bin Ubaidullah] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini seperti hadits Malik, hanya saja dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Dia akan bahagia, -demi bapaknya- jika dia benar', atau dia akan masuk surga, -demi bapaknya- jika dia benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>100</td></tr><tr><td>Arabic No</td><td>11.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Малика ибн Анаса
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>100</td></tr><tr><td>Arabic No</td><td>11.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
 

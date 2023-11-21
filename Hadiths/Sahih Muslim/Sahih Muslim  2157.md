@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali b. Rabi'a reported that the first one who was lamented upon in Kufa was Qara
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sa'id bin Ubaid Ath Tha'i] dan [Muhammad bin Qais] dari [Ali bin Rabi'ah] ia berkata; Orang yang pertama kali diratapi di Kufah adalah Qarazhah bin Ka'ab, maka [Al Mughirah bin Syu'bah] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang meratapi mayit, maka mayit akan disiksa pada hari kiamat karena ratapan itu." Dan telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Ali bin Mushir] telah mengabarkan kepada kami [Muhammad bin Qais Al Asdi] dari [Ali bin Rabi'ah Al Asdi] dari [Al Mughirah bin Syu'bah] dari Nabi shallallahu 'alaihi wasallam semisalnya. Dan telah menceritakannya kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Marwan Al Fazari] telah menceritakan kepada kami [Sa'id bin Ubaid Ath Tha'i] dari [Ali bin Rabi'ah] dari [Al Mughirah bin Syu'bah] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2157</td></tr><tr><td>Arabic No</td><td>933.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Мугыйры ибн Шу‘бы, что Посланник Аллаха ﷺ сказал: «Поистине, тот, по ком будут громко причитать, в День воскресения подвергнется из-за этого мучениям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2157</td></tr><tr><td>Arabic No</td><td>933.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 35</td></tr></tbody></table></div>
 

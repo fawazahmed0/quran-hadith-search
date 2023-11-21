@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said:We used to say in the times of the Prophet (ﷺ): We do not com
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Aswad bin Amir] berkata, telah menceritakan kepada kami [Abdul Aziz bin Abu Salamah] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata, "Pada masa Nabi shallallahu 'alaihi wasallam kami berkata, 'Kami tidak membandingkan antara Abu Bakar dengan seorang pun, begitu juga dengan Umar dan Utsman. Dan kami tidak pernah membanding-bandingkan antara para sahabat Nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4627</td></tr><tr><td>Arabic No</td><td>4627</td></tr><tr><td>Reference</td><td>Book 42 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Во времена Пророка ﷺ мы говорили, что не станем никого приравнивать к Абу Бакру, за которым следовал ‘Умар, а потом ‘Усман. Что же касается остальных сподвижников, то никого из них мы не считали достойнее других»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4627</td></tr><tr><td>Arabic No</td><td>4627</td></tr><tr><td>Reference</td><td>Book 42 Hadith 32</td></tr></tbody></table></div>
 

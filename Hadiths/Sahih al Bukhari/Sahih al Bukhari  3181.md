@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-A'mash:I asked Abu Wail, "Did you take part in the battle of Siffin?
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah bercerita kepada kami ['Abdan] telah mengabarkan kepada kami [Abu Hamzah] berkata aku mendengar [Al A'masy] berkata; aku bertanya kepada [Abu Wa'il]; "Apakah kamu terlibat dalam perang Shiffin?". Dia menjawab; "Ya, dan saat itu aku mendengar [Sahal bin Hunaif] berseru; "Berhati-hatilah kalian dengan pendapat kalian. Sungguh aku pernah melihat diriku sendiri pada peristiwa Abu Jandal (Perjanjian Hudaibiyah), seandainya aku sanggup menolak perintah (keputusan) Nabi shallallahu 'alaihi wasallam tentu aku sudah menolaknya saat itu, tidaklah kami letakkan pedang diatas pundak kami karena tragedi yang memilukan itu selain memudahkan kami mencermati permasalahan yang kami sadari, ada masalah lain dalam tragedi itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>3181</td></tr><tr><td>Reference</td><td>Book 58 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что А‘маш сказал: «Я спросил Абу Ваиля: “Участвовал ли ты в сражении при Сыффине?” Он ответил: “Да, и я слышал, как Сахль ибн Хунейф, да будет доволен им Аллах, сказал: “Обвиняйте самих себя в личном мнении, ибо я помню себя в день Абу Джандаля, и если бы я мог отвергнуть веление Пророка ﷺ, то отверг бы его. Каждый раз, как только мы взваливаем на плечи мечи ради достижения какой-либо цели, так они снова приводят нас к тому, что мы знали раньше, за исключением этого дела”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>3181</td></tr><tr><td>Reference</td><td>Book 58 Hadith 23</td></tr></tbody></table></div>
 

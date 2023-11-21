@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi said:Ibn ‘Umar stayed at Dajnan (a place between Mecca and Medina) on a c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dari [Nafi'] bahwa [Ibnu Umar] pernah singgah di Dlajnan ketika malam dingin mencekam, maka dia memerintahkan Mu'adzinnya untuk menyerukan bahwa Shalat di kerjakan di persinggahan." [Ayyub] berkata; telah menceritakan kepada kami [Nafi'] dari [Ibnu Umar] bahwa apabila malam sangat dingin atau terjadi hujan lebat, maka Rasulullah shallallahu 'alaihi wasallam memerintahkan Mu'adzinnya untuk menyerukan supaya shalat di kerjakan di persinggahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1060</td></tr><tr><td>Arabic No</td><td>1060</td></tr><tr><td>Reference</td><td>Book 2 Hadith 671</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, остановился в Даджнане в холодную ночь и велел глашатаю объявить, что людям следует совершить молитву на своих местах. Ибн ‘Умар передаёт, что в холодные или дождливые ночи Посланник Аллаха ﷺ велел глашатаю объявлять людям, что им следует молиться на своих местах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1060</td></tr><tr><td>Arabic No</td><td>1060</td></tr><tr><td>Reference</td><td>Book 2 Hadith 671</td></tr></tbody></table></div>
 

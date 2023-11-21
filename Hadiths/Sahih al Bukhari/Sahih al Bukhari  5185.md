@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever believes in Allah and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] Telah menceritakan kepada kami [Husain Al Ju'fi] dari [Za'idah] dari [Maisarah] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang beriman kepada Allah dan juga kepada hari akhir, maka janganlah ia menyakiti tetangganya. Pergaulilah wanita kaum wanita dengan baik, sesungguhnya mereka diciptakan dari tulang rusuk. Dan sesuatu yang paling bengkok yang terdapat tulang rusuk adalah bagian paling atas. Jika kamu meluruskannya dengan seketika, niscaya kamu akan mematahkannya, namun jika kamu membiarkannya maka ia pun akan selalu dalam keadaan bengkok. Karena itu pergaulilah wanita dengan penuh kebijakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть тот, кто верует в Аллаха и в Последний день, не обижает своего соседа! И (всегда) обходитесь с женщинами хорошо, ведь, поистине, были они сотворены из ребра, а наибольшей кривизной отличается его верхняя часть; если ты попытаешься выпрямить (ребро), то сломаешь его, а если оставишь его (в покое), оно так и останется кривым, (а поэтому всегда) обходитесь с женщинами хорошо!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

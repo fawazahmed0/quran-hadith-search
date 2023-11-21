@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The (above) verse was revealed in connection with the invocations
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Thalq bin Ghannam] Telah menceritakan kepada kami [Zaidah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] dia berkata; "Ayat di atas turun berkenaan dengan do'a
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4723</td></tr><tr><td>Arabic No</td><td>4723</td></tr><tr><td>Reference</td><td>Book 65 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что 'Аиша, да будет доволен ею Аллах, сказала: «(Этот аят) был ниспослан об обращении к Аллаху с мольбой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4723</td></tr><tr><td>Arabic No</td><td>4723</td></tr><tr><td>Reference</td><td>Book 65 Hadith 245</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) forbade the offering of two prayers
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah menceritakan kepada kami ['Abdah] dari ['Ubaidullah] dari [Khubaib] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam melarang dari dua macam shalat; dua rakaat setelah Shubuh hingga terbit matahari dan dua rakaat setelah 'Ashar hingga matahari terbenam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>588</td></tr><tr><td>Reference</td><td>Book 9 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил (совершать) две молитвы: после утренней молитвы, пока солнце не взойдёт (на высоту копья), и после послеполуденногй молитвы /‘аср/, пока солнце не исчезнет (за горизонтом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>588</td></tr><tr><td>Reference</td><td>Book 9 Hadith 63</td></tr></tbody></table></div>
 

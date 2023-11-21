@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, ini adalah sesuatu yang diceritakan [Abu Hurairah] dari Muhammad, Rasulullah Shallallahu'alaihiwasallam maka dia menyebutkan beberapa hadits darinya. Dan Rasulullah Shallallahu'alaihiwasallam pernah bersabda, "Dahulu, orang-orang Bani Israil mandi telanjang. Sebagian mereka melihat aurat sebagian yang lain. Dahulu Musa 'Alaihissalam juga mandi sendirian. Lalu Mereka berkata, 'Demi Allah, sesuatu yang menyebabkan Musa tidak mau mandi bersama dengan kita ialah karena penyakit pada zakar yang menjadikannya mengembang.' Suatu ketika Musa mandi. Dia letakkan pakaiannya di atas sebuah batu. Tiba-tiba batu tadi bergerak dengan membawa pakaiannya. Musa berlari mengejarnya sambil berteriak, 'Hai batu! Tinggalkan pakaianku! Hai batu! Tinggalkan pakaianku! Sehingga orang-orang Bani Israil dapat melihat aurat Musa.' Kemudian mereka berkata, 'Demi Allah ternyata Musa tiada sedikit pun aib penyakit.' Setelah itu batu tersebut berhenti lalu Musa mengambil pakaiannya kemudian memukul batu tadi'." Abu Hurairah berkata, "Demi Allah, pada batu tadi terdapat bekas pukulan Musa, tujuh atau enam kali pukulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>770</td></tr><tr><td>Arabic No</td><td>339</td></tr><tr><td>Reference</td><td>Book 3 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Мухаммад, Посланник Аллаха ﷺ сказал: «Обычно израильтяне купались обнажёнными, и (каждый мог видеть) половые органы других (людей). Муса же купался в одиночестве, и они (стали) говорить: “Клянёмся Аллахом, купаться вместе с нами Мусе мешает лишь грыжа (на его срамных частях)!” Однажды он пошёл купаться и положил свою одежду на камень, который укатился вместе с ней. Муса бросился вслед за ним, крича: “Моя одежда, камень! Моя одежда, камень!” Увидев наготу Мусы, израильтяне стали говорить: “Клянёмся Аллахом, (на теле) Мусы ничего нет!” Тут камень остановился, и (люди стали) смотреть на (Мусу), а он взял свою одежду и принялся наносить удары по камню».Абу Хурайра сказал: «Клянусь Аллахом, от этих ударов Мусы на камне осталось шесть (или: семь) следов!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>770</td></tr><tr><td>Arabic No</td><td>339</td></tr><tr><td>Reference</td><td>Book 3 Hadith 92</td></tr></tbody></table></div>
 

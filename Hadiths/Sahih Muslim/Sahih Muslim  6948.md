@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported that Allah's Messenger (ﷺ) said:The world is sweet a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Maslamah] dia berkata; aku mendengar [Abu Nadlrah] bercerita dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya dunia itu manis. Dan sesungguhnya Allah telah menguasakannya kepadamu sekalian. Kemudian Allah menunggu (memperhatikan) apa yang kamu kerjakan (di dunia itu). Karena itu takutilah dunia dan takutilah wanita, karena sesungguhnya sumber bencana Bani Isarail adalah wanita." Sedangkan di dalam Hadits Ibnu Basyar menggunakan kalimat; 'liyandlur kaifa ta'malun.' (Kemudian Allah (memperhatikan) apa yang kamu kerjakan (di dunia itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6948</td></tr><tr><td>Arabic No</td><td>2742</td></tr><tr><td>Reference</td><td>Book 49 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6948</td></tr><tr><td>Arabic No</td><td>2742</td></tr><tr><td>Reference</td><td>Book 49 Hadith 12</td></tr></tbody></table></div>
 

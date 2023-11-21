@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id bin Al-Mu'alla:While I was praying in the Mosque, Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Syu'bah] dia berkata; Telah menceritakan kepadaku [Khubaib bin 'Abdur Rahman] dari [Hafsh bin 'Ashim] dari [Abu Sa'id bin Al Mu'alla] dia berkata; Suatu saat saya sedang melaksanakan shalat di masjid, tiba-tiba Rasulullah shallallahu 'alaihi wasallam memanggilku namun saya tidak menjawab panggilannya hingga shalatku selesai. Setelah itu, saya menemui beliau dan berkata; "Wahai Rasulullah shallallahu 'alaihi wasallam, sesungguhnya pada waktu itu saya sedang shalat." Beliau bersabda: "Bukankah Allah 'azza wajalla telah berfirman; 'Hai orang-orang yang beriman, penuhilah seruan Allah dan seruan Rasul apabila Rasul menyeru kamu.'" Beliau bersabda lagi: "Sungguh, saya akan mengajarimu tentang surat yang paling agung yang terdapat di dalam Al Qur'an sebelum kamu keluar dari Masjid." Kemudian beliau memegang tanganku, dan saat beliau hendak keluar Masjid, saya pun berkata; "Bukankah engkau berjanji; 'Saya akan mengajarimu surat yang paling agung yang terdapat di dalam Al Qur'an.' Beliau menjawab; (Yaitu surat) AL HAMDU LILLAHI RABBIL 'AALAMIIN (Segala puji bagi Allah, Rabb semesta Alam), ia adalah As Sab'u Al Matsani, dan Al Qur'an Al Azhim yang telah diwahyukan kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4474</td></tr><tr><td>Arabic No</td><td>4474</td></tr><tr><td>Reference</td><td>Book 65 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Мусаддад, сказавший: Нам рассказал Яхйа, от: Шу‘бы, сказавший: мне рассказал Хубайб ибн ‘Абдур-Рахман, от Хафса ибн ‘Асыма, от Абу Са‘ида бин аль-Му‘алля, да будет доволен им Аллах, сказавшего:\n— (Однажды, когда) я молился в мечети, Посланник Аллаха ﷺ позвал меня, но я не ответил ему, а потом я сказал: «О Посланник Аллаха, поистине, я был занят молитвой!» (Пророк ﷺ) спросил: «Разве не сказал Аллах: “Повинуйтесь Аллаху и посланнику, когда он призывает вас к тому, что даст вам жизнь…”?» — после чего сказал мне: «Поистине, я научу тебя величайшей суре Корана, прежде чем ты выйдешь из мечети». Потом (Пророк ﷺ) взял меня за руку, а когда он хотел выйти, я спросил его: «Разве ты не сказал: “Поистине, я научу тебя величайшей суре Корана”?» (Тогда) он сказал: «“Хвала Аллаху, Господу миров…” — это семь повторяемых и великий Коран, который был дарован мне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4474</td></tr><tr><td>Arabic No</td><td>4474</td></tr><tr><td>Reference</td><td>Book 65 Hadith 1</td></tr></tbody></table></div>
 

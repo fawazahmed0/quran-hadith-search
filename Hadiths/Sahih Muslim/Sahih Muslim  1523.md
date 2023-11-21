@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that the Messenger of Allah (ﷺ) said:The similitud
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib], keduanya berkata; telah menceritakan kepada kami [Abu Muawiyah] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir bin Abdullah] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan kelima shalat bagaikan sungai yang mengalir deras di pintu salah seorang diantara kalian, yang ia pergunakan untuk mandi lima kali sehari semalam." Abu Sufyan berkata; Al Hasan mengatakan; "Mungkinkah ada kotoran yang tersisa?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1523</td></tr><tr><td>Arabic No</td><td>668</td></tr><tr><td>Reference</td><td>Book 5 Hadith 356</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Пять молитв подобны полноводной реке, которая протекает у дверей любого из вас, в которой он купается по пять раз в день”».Глава: Тот, кто отправляется в мечеть в начале дня и в конце его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1523</td></tr><tr><td>Arabic No</td><td>668</td></tr><tr><td>Reference</td><td>Book 5 Hadith 356</td></tr></tbody></table></div>
 

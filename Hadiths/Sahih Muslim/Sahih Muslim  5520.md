@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Talha Ansari reported Allah's Messenger (ﷺ) as saying:Angels do not enter 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Jarir] dari [Suhail bin Abu Shalih] dari [Sa'id bin Yasar Abu Al Hubab] budak dari Bani An Najjar dari [Zaid bin Khalid Al Juhani] dari [Abu Thalhah Al Anshari] ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Para Malaikat tidak akan masuk ke dalam rumah yang di dalamnya ada anjing dan gambar-gambar. Zaid berkata; 'Lalu aku menemui Aisyah dan aku tanyakan kepadanya; 'Abu Thalhah mengabarkan kepadaku bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Para Malaikat tidak akan masuk ke dalam rumah yang di dalamnya ada anjing dan gambar-gambar." Apakah anda pernah mendengar Nabi shallallahu 'alaihi wasallam menyebutkan hal itu. [Aisyah] menjawab; 'Tidak, akan tetapi akan aku ceritakan kepadamu perbuatan beliau yang pernah aku lihat. Aku pernah melihat beliau keluar dalam suatu perjalanan, lalu aku mengambil karpet kemudian aku tutupkan pada pintu. Tatkala Nabi shallallahu 'alaihi wasallam datang dan beliau melihat karpet tersebut, aku mengerti ada tanda kebencian dari wajah beliau, kemudian beliau mencabutnya dan memotongnya seraya bersabda; 'Sesungguhnya Allah tidak pernah menyuruh kita untuk menutupi batu dan tanah.' Aisyah berkata; Lalu aku memotongnya untuk dijadikan dua bantal dan aku isi dengan pelepah kurma. Beliau tidak mencelaku atas hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5520</td></tr><tr><td>Arabic No</td><td>2107.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5520</td></tr><tr><td>Arabic No</td><td>2107.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 134</td></tr></tbody></table></div>
 

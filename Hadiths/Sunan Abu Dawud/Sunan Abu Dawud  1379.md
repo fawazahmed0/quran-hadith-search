@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Unays: I was present at the gathering of Banu Salamah, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hafsh bin Abdullah As Sulami] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Ibrahim bin Thahman] dari ['Abbad bin Ishaq] dari [Muhammad bin Muslim Az Zuhri] dari [Dlamrah bin Abdullah bin Unais] dari [ayahnya] dia berkata; "Aku pernah berada di majlisnya Bani Salamah, sementara waktu itu aku lah yang paling muda, mereka berkata; "Siapakah yang akan menanyakan untuk kita kepada Rasulullah shallallahu 'alaihi wasallam tentang lailatul qadr?" pada pagi itu adalah tanggal dua puluh satu Ramadhan, lalu aku keluar, maka aku dapati beliau tengah mengerjakan shalat Maghrib, kemudian aku berdiri di depan pintu rumah beliau, lalu beliau lewat di depanku, beliau bersabda; "Masuklah." Lalu aku pun masuk, saat itu makan malam beliau telah terhidang, maka aku menahan diri karena memang makan malam beliau sangat sedikit. setelah selesai, beliau bersabda: "Tolong ambilkan sandalku!." Lalu beliau berdiri dan aku pun berdiri bersama beliau, beliau bersabda: "Sepertinya kamu mempunyai keperluan?" jawabku; "Ya benar, beberapa pemuda dari Bani Salamah mengutusku untuk menyakan lailatul qadr kepada anda." Beliau bertanya; "Tanggal berapakah malam ini?" jawabku; "Malam ke dua puluh dua." Beliau bersabda: "Pada malam inilah lailatul qadr terjadi." Kemudian beliau kembali dan bersabda: "atau malam berikutnya." Yang beliau maksudkan adalah malam ke dua puluh tiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 6 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Унайса, да будет доволен им Аллах: «Я присутствовал на собрании бану салима. При этом я был самым младшим из них. Они сказали: “Кто спросит Посланника Аллаха ﷺ о Ночи предопределения?” А это было утром после двадцать первой ночи рамадана. Я вышел и совершил закатную молитву /магъриб/ вместе с посланником Аллаха ﷺ после чего встал у дверей его дома. Проходя мимо меня, он сказал: “Входи”. Я вошёл. Ему подали его ужин, и я старался не есть, потому что еды было очень мало. Закончив ужинать, он сказал: “Подай мне мои сандалии”. И он поднялся, и я поднялся вместе с ним. Посланник Аллаха ﷺ сказал: “Как будто у тебя есть ко мне дело”. Я ответил: “Да. Меня послали к тебе люди из бану салима. Они спрашивают о Ночи предопределения”. (Посланник Аллаха ﷺ) спросил: “Какая сегодня ночь?” Я ответил: “Двадцать вторая”. Он сказал: “Это она и есть”. А потом он вернулся и сказал: “Или следующая”. При этом он имел в виду двадцать третью ночь рамадана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 6 Hadith 9</td></tr></tbody></table></div>
 

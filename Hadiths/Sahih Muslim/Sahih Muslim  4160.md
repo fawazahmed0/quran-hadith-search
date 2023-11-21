@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:This is what Abu Huraira (Allah be pleased with him)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; Ini seperti yang di ceritakan [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, kemudian dia menyebutkan beberapa hadits yang di antaranya adalah, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dalam Kitabullah, akulah orang yang paling berhak atas diri seorang Mukmin dari diri mereka sendiri, maka siapa saja di antara kalian mati meninggalkan hutang atau anak yang butuh santunan maka undanglah aku, karena aku adalah walinya. Dan siapa saja di antara kalian yang mati meninggalkan harta benda, hendaknya ia membagikan hartanya kepada ahli warisnya yang masih ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4160</td></tr><tr><td>Arabic No</td><td>1619.04</td></tr><tr><td>Reference</td><td>Book 23 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4160</td></tr><tr><td>Arabic No</td><td>1619.04</td></tr><tr><td>Reference</td><td>Book 23 Hadith 21</td></tr></tbody></table></div>
 

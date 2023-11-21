@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: The Prophet (ﷺ) said, "Whoever said "None has the right to be w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hisyam] berkata, telah menceritakan kepada kami [Qotadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Akan dikeluarkan dari neraka siapa yang mengatakan tidak ada Ilah kecuali Allah dan dalam hatinya ada kebaikan sebesar jemawut. Dan akan dikeluarkan dari neraka siapa yang mengatakan tidak ada ilah kecuali Allah dan dalam hatinya ada kebaikan sebesar biji gandum. Dan akan dikeluarkan dari neraka siapa yang mengatakan tidak ada ilah kecuali Allah dan dalam hatinya ada kebaikan sebesar biji sawi. Abu Abdullah berkata; [Aban] berkata; Telah menceritakan kepada kami [Qotadah] Telah menceritakan kepada kami [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda. Dan kata iman di dalam hadits ini diganti dengan kata kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Arabic No</td><td>44</td></tr><tr><td>Reference</td><td>Book 2 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Выйдет из огня тот, кто скажет: “Нет бога (достойного поклонения), кроме Аллаха”, храня в сердце своём добро весом (хотя бы) с ячменное зерно, и выйдет из огня тот, кто скажет: “Нет бога (достойного поклонения), кроме Аллаха”, храня в сердце своём добро весом (хотя бы) с пшеничное зерно, и выйдет из огня тот, кто скажет: “Нет бога (достойного поклонения), кроме Аллаха”, храня в сердце своём добро весом (хотя бы) с пылинку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Arabic No</td><td>44</td></tr><tr><td>Reference</td><td>Book 2 Hadith 37</td></tr></tbody></table></div>
 

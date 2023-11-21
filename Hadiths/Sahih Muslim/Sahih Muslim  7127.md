@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), Chaqîq Ibn Salama a dit 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dan [Abu Mu'awiyah]. Telah menceritakan kepada kami [Ibnu Numair] dan teks hadits miliknya, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] berkata: Kami duduk di dekat pintu Abdullah seraya menantinya, lalu Yazid bin Mu'awiyah An Nakha'i melewati kami, kami berkata padanya: Beritahukan keberadaan kami padanya. Ia masuk, tidak lama kemudian [Abdullah] keluar lalu berkata: Aku telah diberitahu keberadaan kalian dan tidak ada yang menghalangiku untuk keluar menemui kalian kecuali karena aku tidak ingin membuat kalian jemu. Rasulullah Shallallahu 'alaihi wa Salam mengatur (penyampaian) nasehat bagi kami dalam beberapa hari karena khawatir kami jemu. Telah menceritakan kepada kami [Abu Sa'id Al Asyuj] telah menceritakan kepada kami [Ibnu Idris]. Telah menceritakan kepada kami [Minjab bin Al Harits At Taimi] telah menceritakan kepada kami [ibnu Mushir]. Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khaysram] keduanya berkata: Telah mengkhabarkan kepada kami [Isa bin Yunus]. Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan], semuanya dari [Al A'masy] dengan sanad ini dengan matan serupa. Minjab menambahkan dalam riwayatnya: Dari Ibnu Mushir. Al A'masy berkata: Telah menceritakan kepadaku [Amru bin Murrah] dari [Syaqiq] dari [Abdullah] sepertinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7127</td></tr><tr><td>Arabic No</td><td>2821.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7127</td></tr><tr><td>Arabic No</td><td>2821.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 80</td></tr></tbody></table></div>
 

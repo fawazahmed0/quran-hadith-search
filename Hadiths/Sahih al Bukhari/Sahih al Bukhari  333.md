@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:(the wife of the Prophet) During my menses, I never prayed, but
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Mudrik] berkata, telah menceritakan kepada kami [Yahya bin Hammad] berkata, telah mengabarkan kepada kami [Abu 'Awanah] nama aslinya adalah Al Wadldlah sebagaimana dalam kitabnya, ia berkata; telah mengabarkan kepada kami [Sulaiman Asy Syaibani] dari ['Abdullah bin Syaddad] berkata, Aku mendengar bibiku [Maimunah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ia mengalami haid dan tidak melaksanakan shalat. Dan ia tidur di depan tempat sujud Rasulullah shallallahu 'alaihi wasallam yang saat itu sedang shalat di atas tikar (kecil) nya, jika sujud beliau maka sebagian kainnya mengenaiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абдуллах ибн Шаддад сказал: «Я слышал, что моя тетя Маймуна — жена Пророка ﷺ (рассказывала о том, что) она не молилась, когда у неё были месячные, а сидела рядом с тем местом, где совершал молитвы Пророк ﷺ. Он же обычно молился на своей подстилке /хумра/, и во время совершения земных поклонов (края) его одежды касались меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
 

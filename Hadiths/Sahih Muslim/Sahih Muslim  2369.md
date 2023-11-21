@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umair, the freed slave of Abi'l-Lahm, said:My master commanded me to cut some me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hatim, yaitu anak Isma'il] dari [Yazid, yaitu anak Abu Ubaid] ia berkata, saya mendengar [Umair] -Maula Abu Lahm- berkata; Majikanku menyuruhku untuk mendendeng daging, lalu aku didatangi oleh seorang miskin, maka aku pun memberinya makan dari daging itu. Kemudian hal itu diketahui oleh majikanku, akhirnya aku pun dipukulinya. Sesudah itu, saya mendatangi Rasulullah shallallahu 'alaihi wasallam dan menuturkan peristiwa tersebut. Maka beliau memanggil majikanku dan bertanya: "Kenapa kamu memukulnya?" Ia menjawab, "Ia telah memberikan makananku tanpa aku perintahkan." Maka beliau pun bersabda: "Pahala dari sedekah itu adalah (dibagi rata) antara kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2369</td></tr><tr><td>Arabic No</td><td>1025.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Умайр, вольноотпущенник Абу аль-Ляхма, сказал: «(Однажды) мой хозяин велел мне нарезать для него мясо для сушки, а потом ко мне пришёл какой-то бедняк, и я накормил его, (отдав ему часть этого мяса). Когда об этом узнал мой хозяин, он избил меня, а я пошёл к Посланнику Аллаха ﷺ и (обо всём) рассказал ему. Он позвал (к себе моего хозяина) и спросил (его): “Почему ты избил его?” Тот сказал: “Он раздаёт мою еду, не получив на то моего веления”. Тогда (Посланник Аллаха ﷺ) сказал: “Награда (за это будет поделена) между вами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2369</td></tr><tr><td>Arabic No</td><td>1025.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 106</td></tr></tbody></table></div>
 

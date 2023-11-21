@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) manumitted Safiyya and regarded 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Hammad] dari [Tsabit] dan [Syu'aib bin Al Habhab] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam membebaskan Shafiyyah dan menjadikan pembebasnya itu sebagai maharnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5086</td></tr><tr><td>Arabic No</td><td>5086</td></tr><tr><td>Reference</td><td>Book 67 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ‎ﷺ дал Сафийе свободу, сделав освобождение её брачным даром [при женитьбе на ней]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5086</td></tr><tr><td>Arabic No</td><td>5086</td></tr><tr><td>Reference</td><td>Book 67 Hadith 24</td></tr></tbody></table></div>
 

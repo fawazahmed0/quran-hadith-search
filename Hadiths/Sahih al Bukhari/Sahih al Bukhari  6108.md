@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:that he found 'Umar bin Al-Khattab in a group of people and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma bahwa dia pernah mendapati Umar ketika di atas tunggangannya bersumpah dengan nenek moyangnya, lalu Rasulullah shallallahu 'alaihi wasallam menyeru kepada orang-orang: "Sesungguhnya Allah melarang kalian bersumpah dengan bapak-bapak kalian, barangsiapa bersumpah hendaknya ia bersumpah dengan nama Allah atau kalau tidak, lebih baik ia diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6108</td></tr><tr><td>Arabic No</td><td>6108</td></tr><tr><td>Reference</td><td>Book 78 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, рассказывал о том, что он догнал ‘Умара ибн аль-Хаттаба в тот момент, когда он ехал с группой всадников и клялся своим отцом. Тогда Посланник Аллаха ﷺ воскликнул: «Послушайте! Поистине, Аллах запрещает вам клясться вашими отцами, и кто желает поклясться, пусть клянётся Аллахом или молчит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6108</td></tr><tr><td>Arabic No</td><td>6108</td></tr><tr><td>Reference</td><td>Book 78 Hadith 135</td></tr></tbody></table></div>
 

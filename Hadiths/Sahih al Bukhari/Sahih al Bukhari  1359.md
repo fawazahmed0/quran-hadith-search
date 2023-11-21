@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Every child is born with a t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] telah mengabarkan kepada saya [Abu Salamah bin 'Abdurrahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Telah bersabda Rasulullah Shallallahu'alaihiwasallam: "Tidak ada seorang anak pun yang terlahir kecuali dia dilahirkan dalam keadaan fithrah. Maka kemudian kedua orang tuanyalah yang akan menjadikan anak itu menjadi Yahudi, Nashrani atau Majusi sebagaimana binatang ternak yang melahirkan binatang ternak dengan sempurna. Apakah kalian melihat ada cacat padanya". Kemudian Abu Hurairah radliallahu 'anhu berkata, (mengutip firman Allah subhanahu wata'ala QS Ar-Ruum: 30 yang artinya: ('Sebagai fitrah Allah yang telah menciptakan manusia menurut fitrah itu. Tidak ada perubahan pada fitrah Allah. (Itulah) agama yang lurus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>1359</td></tr><tr><td>Reference</td><td>Book 23 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Каждый младенец рождается не иначе как в своём естественном состоянии /фитра/, а (уже потом) его родители делают из него иудея, христианина или огнепоклонника. Точно так же и животные появляются на свет целыми(, а не изувеченными): разве найдёшь среди них кого-нибудь с отрезанным ухом?!”»\nА потом Абу Хурайра, да будет доволен им Аллах, прочитал (нижеследующий айат): «Обрати же лик свой к религии, будучи верным (и сообразуясь с) естеством (, что дано тебе) Аллахом, Который сотворил людей так, а творение Аллаха не подлежит изменению. Это и есть правильная религия…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>1359</td></tr><tr><td>Reference</td><td>Book 23 Hadith 112</td></tr></tbody></table></div>
 

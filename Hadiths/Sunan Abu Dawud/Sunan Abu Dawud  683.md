@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Bakrah said that he came to the mosque when the prophet (ﷺ) was bowing. So
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaid bin Mas'adah] bahwasanya [Yazid bin Zurai'] telah menceritakan kepada mereka, Telah menceritakan kepada kami [Sa'id bin Abi 'Arubah] dari [Ziyad Al-A'lam] telah menceritakan kepada kami [Al-Hasan] bahwasanya [Abu Bakrah] telah menceritakan kepadanya bahwa dia pernah masuk ke dalam masjid, sedangkan Nabiyullah shallallahu 'alaihi wasallam sedang ruku'. Kata Abu Bakrah; Maka saya ruku' di luar shaf, lalu setelah Nabi shallallahu 'alaihi wasallam selesai shalat, beliau bersabda: "Semoga Allah menambahkan untukmu semangat melakukan kebaikan, dan janganlah kamu mengulanginya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (783)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>683</td></tr><tr><td>Arabic No</td><td>683</td></tr><tr><td>Reference</td><td>Book 2 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Хасана (аль-Басри) о том, что Абу Бакра рассказывал, что (однажды) он зашёл в мечеть в тот момент, когда, (совершая молитву), Пророк ﷺ находился в поясном поклоне. (Абу Бакра) сказал: «Я тоже совершил поясной поклон до того, (как присоединиться) к ряду (молящихся), и (после молитвы) Пророк ﷺ сказал: “Да увеличит Аллах твоё стремление (к благу), но впредь так не делай!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (783)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>683</td></tr><tr><td>Arabic No</td><td>683</td></tr><tr><td>Reference</td><td>Book 2 Hadith 293</td></tr></tbody></table></div>
 

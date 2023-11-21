@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was ordered (by Allah) to prostrate on sev
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Sufyan] dari ['Amru bin Dinar] dari [Thawus] dari [Ibnu 'Abbas]: "Nabi shallallahu 'alaihi wasallam diperintahkan untuk melaksanakan sujud dengan tujuh anggota sujud; muka, kedua telapak tangan, kedua lutut dan kedua kaki tidak boleh terhalang oleh rambut atau pakaian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>809</td></tr><tr><td>Reference</td><td>Book 10 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн Аббаса, что Пророку ﷺ было велено совершать земной поклон на семь частей его тела, а также не засучивать одежду и не заплетать волосы: лицо, ладони, колени и ноги
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>809</td></tr><tr><td>Reference</td><td>Book 10 Hadith 204</td></tr></tbody></table></div>
 

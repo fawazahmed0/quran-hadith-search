@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:Umm Sulaim who was the grandmother of Ishaq came to the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Umar bin Yunus al-Hanafi] telah menceritakan kepada kami [Ikrimah bin Ammar] dia berkata, [Ishaq bin Abi Thalhah] berkata, telah menceritakan kepadaku [Anas bin Malik] dia berkata, "Ummu Sulaim mendatangi -dan dia adalah nenek Ishaq- Rasulullah shallallahu 'alaihi wasallam seraya berkata kepadanya -sedangkan aisyah berada di sisi beliau, 'Wahai Rasulullah, seorang wanita bermimpi sesuatu yang juga dimimpikan seorang laki-laki dalam tidurnya, lalu dia bermimpi dirinya (melakukan sesuatu) sebagaimana laki-laki bermimpi dirinya (melakukan sesuatu).' Maka Aisyah berkata, 'Kamu telah membuka (aib) wanita, serius itu." Maka beliau bersabda kepada Aisyah, 'Bahkan kamu juga, aku juga serius." Ya benar, (wanita juga bermimpi seperti laki-laki), maka hendaklah kamu mandi wahai Ummu Sulaim apabila kamu bermimpi bersenggama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>709</td></tr><tr><td>Arabic No</td><td>310</td></tr><tr><td>Reference</td><td>Book 3 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Исхака ибн Аби Тальхи о том, что Анас ибн Малик сказал: «(Когда-то) Умм Сулейм, бабка Исхака, пришла к Посланнику Аллаха ﷺ в то время, когда у него находилась ‘Аиша, и спросила: “О Посланник Аллаха, (что ты скажешь) о женщине, которая (сначала) увидит во сне то же, что и мужчина, а потом увидит, что с ней случилось то же, что случается и с мужчинами?” (Услышав её слова), ‘Аиша воскликнула: “О Умм Сулейм, ты позоришь женщин, да покроется пылью твоя правая рука!” (Что же касается Пророка ﷺ то) он сказал ‘Аише: “Это ты (позоришь женщин), да покроется пылью твоя правая рука! Да, Умм Сулейм, если женщина увидит это, пусть она совершит полное омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>709</td></tr><tr><td>Arabic No</td><td>310</td></tr><tr><td>Reference</td><td>Book 3 Hadith 31</td></tr></tbody></table></div>
 

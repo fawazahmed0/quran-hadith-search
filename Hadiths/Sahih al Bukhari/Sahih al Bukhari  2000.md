@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:The Prophet (ﷺ) said, "Whoever wishes may fast on the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari ['Umar bin Muhammad] dari [Salim] dari [bapaknya radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata tentang hari 'Asyura', bila Beliau menghendaki Beliau akan berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2000</td></tr><tr><td>Arabic No</td><td>2000</td></tr><tr><td>Reference</td><td>Book 30 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим передал от своего отца, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто хочет поститься в день ‘Ашура, пусть постится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2000</td></tr><tr><td>Arabic No</td><td>2000</td></tr><tr><td>Reference</td><td>Book 30 Hadith 105</td></tr></tbody></table></div>
 

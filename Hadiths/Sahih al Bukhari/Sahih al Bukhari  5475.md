@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Adi bin Hatim:I asked the Prophet (ﷺ) about the game killed by a Mi'r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Zakaria] dari [Amir] dari [Adi bin Hatim] radliallahu 'anhu, ia berkata, "Aku bertanya kepada Nabi shallallahu 'alaihi wasallam tentang hasil buruan Al Mi'radl, beliau menjawab: "Jika yang mengenai adalah bagian tajamnya maka makanlah, namun jika yang mengenai adalah pada bagian (sisi) tumpulnya maka itu adalah Waqidz (hewan yang dibunuh bukan dengan senjata tajam)." Aku lalu bertanya tentang hasil buruan anjing, beliau lantas menjawab: "Apa yang ditangkap untukmu maka makanlah, sebab gigitan anjing adalah sebagai sembelihannya. Jika engkau dapati anjing lain bersama dengan anjingmu, dan engkau kawatir ia ikut andil hingga buruannya mati, maka janganlah kamu makan. Sebab engkau hanya menyebutkan nama Allah pada anjingmu (saat melepasnya) dan bukan pada anjing yang selainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5475</td></tr><tr><td>Arabic No</td><td>5475</td></tr><tr><td>Reference</td><td>Book 72 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, сказал: «(Однажды) я задал Пророку ﷺ вопрос о дичи, убитой с помощью ми‘рада и он сказал: “(Можете) есть (дичь), убитую его острым концом, что же касается (дичи,) убитой его древком, то это — вакыз (т.е. забитая до смерти)”. И я задал (Пророку ﷺ) вопрос о дичи, убитой охотничьей собакой, на что он сказал: “(Можешь) есть то, что она схватит для тебя, ибо это подобно зарезанному животному, если же ты обнаружишь со своей собакой (или: своими собаками) другую собаку и у тебя возникнут опасения, что и она принимала участие в охоте вместе с ней и загрызла (эту дичь), не ешь (то, что она загрызла), ибо ты произнёс имя Аллаха только над своей собакой(, спуская её на дичь,) и не произносил его над другой собакой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5475</td></tr><tr><td>Arabic No</td><td>5475</td></tr><tr><td>Reference</td><td>Book 72 Hadith 1</td></tr></tbody></table></div>
 

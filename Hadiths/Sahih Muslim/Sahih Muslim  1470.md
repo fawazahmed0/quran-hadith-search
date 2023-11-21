@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:(The Messenger of Allah) said: How would you, or how would th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Ashim bin Nadhr At Taimi] telah menceritakan kepada kami [Khalid bin Harits] telah menceritakan kepada kami [Syu'bah] dari [Abu Nu'amah] dari [Abdullah bin Shamit] dari [Abu Dzar] katanya; "Bagaimana kalian? -atau dengan redaksi lain- "Bagaimana kamu bila masih hidup ditengah-tengah suatu kaum yang suka menunda-nunda shalat dari waktunya? Tunaikanlah shalat tepat pada waktunya, jika shalat telah diiqamati, (sedangkan kamu telah shalat) maka tunaikanlah shalat bersama mereka, sebab yang demikian adalah tambahan (bonus) kebaikan (untukmu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1470</td></tr><tr><td>Arabic No</td><td>648.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ спросил: “Как вы поступите (или: Как ты поступишь), если ты останешься среди людей, которые будут откладывать совершение молитвы в положенное для неё время? (Если это случится,) то совершай молитву в положенное (предпочтительное) для неё время, а если объявят о проведении (этой же) молитвы, (когда ты находишься в мечети), то помолись вместе с ними, ведь в ней добавочное благо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1470</td></tr><tr><td>Arabic No</td><td>648.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 303</td></tr></tbody></table></div>
 

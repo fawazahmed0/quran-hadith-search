@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Saud:When the following verses were revealed: 'Eat and drink u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Ibnu Abu Hazim] dari [bapaknya] dari [Sahal bin Sa'ad]. Dan diriwayatkan pula, telah menceritakan kepada saya [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Abu Ghossan Muhammad bin Muthorrib] berkata, telah menceritakan kepada saya [Abu Hazim] dari [Sahal bin Sa'ad] berkata: Ketika turun ayat ("Dan makan minumlah kalian hingga terang bagi kalian benang putih dari benang hitam") dan belum diturunkan ayat lanjutannya yaitu ("dari fajar"), ada diantara orang-orang apabila hendak shaum seseorang yang mengikat seutas benang putih dan benang hitam pada kakinya yang dia senantiasa meneruskan makannya hingga jelas terlihat perbedaan benang-benang itu. Maka Allah Ta'ala kemudian menurunkan ayat lanjutannya ("dari fajar"). Dari situ mereka mengetahui bahwa yang dimaksud (dengan benang hitam dan putih) adalah malam dan siang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1917</td></tr><tr><td>Arabic No</td><td>1917</td></tr><tr><td>Reference</td><td>Book 30 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Когда были ниспосланы аяты: “Ешьте и пейте, пока вы не сможете отличить белую нитку от чёрной” (сура “аль-Бакара”, аят 187), а слова “рассвета” (сура “аль-Бакара”, аят 187) ещё не были ниспосланы, люди, которые намеревались поститься, привязывали чёрные и белые нити к своим ногам и продолжали есть, пока не начинали различать их. Когда же Аллах ниспослал: “рассвета” (сура “аль-Бакара”, аят 187), они поняли, что это означает ночь и день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1917</td></tr><tr><td>Arabic No</td><td>1917</td></tr><tr><td>Reference</td><td>Book 30 Hadith 27</td></tr></tbody></table></div>
 

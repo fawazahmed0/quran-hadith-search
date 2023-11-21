@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "A man keeps on asking othe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Ubaidullah bin Abu Ja'far] berkata; Aku mendengar [Hamzah bin 'Abdullah bin 'Umar] berkata; Aku mendengar: ['Abdullah bin 'Umar radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam bersabda: "Senantiasa ada seorang yang suka meminta-minta kepada orang lain hingga pada hari qiyamat dia datang dalam keadaan wajahnya terpotong (bagian) dagingnya". Dan Beliau juga bersabda: "Matahari akan didekatkan pada hari qiyamat hingga keringat akan mencapai ketinggian setengah telinga. Karena kondisi mereka seperti itu, maka orang-orang memohon bantuan (do'a) kepada nabi Adam, Musa, kemudian Muhammad Shallallahu'alaihiwasallam". ['Abdullah bin Shalih] menambahkan telah menceritakan kepada saya [Al Laits] telah menceritakan kepada saya [Ibnu Abu Ja'far]: "Maka Beliau memberi syafa'at untuk memutuskan perkara diantara manusia hingga akhirnya Beliau mengambil tali pintu (surga). Dan pada hari itulah Allah menempatkan Beliau pada kedudukan yang terpuji yang dipuji oleh seluruh makhluq yang berkumpul". Dan berkata, [Mu'allaa] telah menceritakan kepada kami [Wuhaib] dari [An-Nu'man bin Rasyid] dari ['Abdullah bin Muslim saudara dari Az Zuhriy] dari [Hamzah] bahwa dia mendengar [Ibnu 'Umar radliallahu 'anhuma] dari Nabi Shallallahu'alaihiwasallam tentang masalah ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1474</td></tr><tr><td>Arabic No</td><td>1474</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Человек будет обращаться с просьбами к людям до тех пор, пока не явится он в День воскресения без единого кусочка плоти на своём лице»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1474</td></tr><tr><td>Arabic No</td><td>1474</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

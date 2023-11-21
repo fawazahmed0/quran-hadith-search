@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abi Bakr As-Siddiq:The Prophet (ﷺ) ordered me to le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [Ibnu 'Uyainah] dari ['Amru bin Dinar] dari ['Amru bin Aus] dari ['Abdur Rahman bin Abu Bakar Ash-Shiddiq radliallahu 'anhuma] berkata; "Nabi shallallahu 'alaihi wasallam memerintahkan aku agar memboncengkan 'Aisyah untuk melaksanakan 'umrah dari at-Tan'im
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2985</td></tr><tr><td>Arabic No</td><td>2985</td></tr><tr><td>Reference</td><td>Book 56 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Абу Бакр ас-Сыддик, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ приказал мне отправиться вместе с ‘Аишей, чтобы она совершила умру из Тан‘има»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2985</td></tr><tr><td>Arabic No</td><td>2985</td></tr><tr><td>Reference</td><td>Book 56 Hadith 194</td></tr></tbody></table></div>
 

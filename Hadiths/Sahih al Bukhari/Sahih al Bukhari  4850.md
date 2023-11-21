@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Paradise and the Fire (Hell) argue
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Surga dan neraka berbantah-bantahan. Neraka berkata: 'Orang-orang congkak dan sombong memasukiku. Surga berkata: Sedangkan aku, tidak ada yang memasukiku selain orang-orang lemah, yang hina dalam pandangan manusia. Lalu Allah berfirman kepada surga: 'Kau adalah rahmatKu, denganmu Aku merahmati siapa saja yang Aku kehendaki dari hamba-hambaKu.' Kemudian Allah berfirman kepada neraka: 'Kau adalah siksaKu, denganmu Aku menyiksa siapa pun yang Aku kehendaki. Dan masing-masing dari keduanya ada isinya.' Sedangkan neraka tidak terisi penuh hingga Allah meletakkan kakiNya kemudian neraka berkata: 'Cukup, cukup.' Saat itulah neraka penuh dan sebagiannya menindih sebagaian yang lain. Allah tidak menzhalimi seorang pun dari makhlukNya. Sedangkan surga, Allah menciptakan penghuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4850</td></tr><tr><td>Arabic No</td><td>4850</td></tr><tr><td>Reference</td><td>Book 65 Hadith 371</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Некогда) Рай и Ад стали препираться друг с другом, и Ад сказал: “Меня выбрали (как место) для высокомерных и несправедливых”, что же касается Рая, то он спросил: “А почему же в меня не войдёт никто, кроме слабых и незаметных?” И тогда Всеблагой и Всевышний Аллах сказал Раю: “Ты — милость Моя, которую Я стану оказывать, кому пожелаю из рабов Моих”, Аду же Он сказал: “А ты — не что иное, как (средство) Моего наказания, которому Я стану подвергать, кого пожелаю из рабов Моих”. И будут наполнены (Рай и Ад до краёв); что касается Ада, то не наполнится он, пока (Аллах) не наступит (на него) Своей ногой, и тогда он скажет: “Довольно, довольно, довольно!” — и будет он полон, а края его сойдутся, и при этом Всемогущий и Великий Аллах не обидит никого из Своих созданий. Что же касается Рая, то, поистине, Всемогущий и Великий Аллах создаст (новое) творение(, чтобы заполнить его)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4850</td></tr><tr><td>Arabic No</td><td>4850</td></tr><tr><td>Reference</td><td>Book 65 Hadith 371</td></tr></tbody></table></div>
 

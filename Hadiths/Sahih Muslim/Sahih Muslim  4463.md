@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubida b. as-Samit reported:Allah's Messenger (ﷺ) took (a pledge) from us as he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ismail bin Salim] telah mengabarkan kepada kami [Husyaim] telah mengabarkan kepada kami [Khalid] dari [Abu Qilabah] dari [Abu Al Asy'ats Ash Shan'ani] dari ['Ubadah bin Shamit] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengambil sumpah setia kepada kami sebagaimana beliau mengambil sumpah setia terhadap kaum wanita, yaitu; hendaknya kami tidak menyekutukan Allah dengan sesuatu apapun, tidak mencuri, tidak berzina, tidak membunuh anak-anak kami, dan tidak melemparkan kedustaan antara satu dengan yang lain. Barangsiapa menepati janji tersebut maka pahalanya ada bersama Allah, dan barangsiapa melanggar batasan tersebut maka akan ditegakkan had atasnya, yaitu sebagai kafarah (denda). Namun siapa yang Allah tutupi perbuatan tersebut (tidak diperlihatkan kepada orang-orang), maka urusannya terserah kepada Allah; jika menghendaki Allah akan menyiksanya, namun jika menghendaki Allah juga akan mengampuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4463</td></tr><tr><td>Arabic No</td><td>1709.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4463</td></tr><tr><td>Arabic No</td><td>1709.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 66</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Al-'Aqra' Ibn Hâbis, ayant vu l'Envoy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru An Naqid] dan [Ibnu Abu 'Umar] seluruhnya dari [Sufyan]. ['Amru] berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] Bahwa "Aqra' bin Habis pernah melihat Rasulullah shallallahu 'alaihi wasallam mencium cucunya Hasan. Kata Aqra'; "Aku punya anak sepuluh orang. Namun tidak satupun di antara mereka yang pernah kucium." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang tidak penyayang, tidak akan disayangi." Telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri]; Telah menceritakan kepadaku [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6028</td></tr><tr><td>Arabic No</td><td>2318.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6028</td></tr><tr><td>Arabic No</td><td>2318.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 86</td></tr></tbody></table></div>
 

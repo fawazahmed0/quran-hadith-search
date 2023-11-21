@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Talha reported:While we were sitting in front of the houses and talking amon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Affan]; Telah menceritakan kepada kami ['Abdul Wahid bin Ziyad]; Telah menceritakan kepada kami ['Utsman bin Hakim] dari [Ishaq bin 'Abdullah bin Abu Thalhah] dari [Bapaknya] ia berkata; Berkata [Abu Thalhah]; "Pada suatu ketika, kami sedang duduk-duduk dan bercakap-cakap di jalanan. Tiba-tiba Rasulullah shallallahu 'alaihi wasallam mendatangi kami seraya bersabda: "Mengapa kalian duduk-duduk di jalanan? Jauhilah duduk-duduk di jalanan!" kami menjawab; 'Kami duduk-duduk untuk bercakap-cakap dan saling mengingatkan.' Sabda beliau: 'Kalau begitu, tunaikan hak jalanan. Yaitu: menundukan pandangan, menjawab salam, dan bicaralah yang berguna (baik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5647</td></tr><tr><td>Arabic No</td><td>2161</td></tr><tr><td>Reference</td><td>Book 39 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5647</td></tr><tr><td>Arabic No</td><td>2161</td></tr><tr><td>Reference</td><td>Book 39 Hadith 2</td></tr></tbody></table></div>
 

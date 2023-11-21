@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aslam said:I heard Umar ibn al-Khattab say: What is the need of walking proudly 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Abdul Malik bin 'Amr], telah menceritakan kepada Kami [Hisyam bin Sa'd] dari [Zaid bin Aslam] dari [ayahnya], ia berkata; saya mendengar [Umar bin Al Khathab] berkata; untuk apa hari ini berlari-lari kecil, dan membuka pundak kanan? Sementara Allah telah mengokohkan Islam dan menghilangkan kekafiran dan pelakunya? Bersamaan itu kita tidak meninggalkan sesuatupun yang dahulu kita lakukan pada zaman Rasulullah shallAllahu wa'alaihi wa sallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1887</td></tr><tr><td>Arabic No</td><td>1887</td></tr><tr><td>Reference</td><td>Book 11 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Зачем нам сегодня обходить вокруг Каабы быстрым шагом и открывать плечи, когда Аллах укрепил ислам, изгнал неверие и его приверженцев? И вместе с тем мы не оставляем ничего из того, что мы делали во времена Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1887</td></tr><tr><td>Arabic No</td><td>1887</td></tr><tr><td>Reference</td><td>Book 11 Hadith 167</td></tr></tbody></table></div>
 

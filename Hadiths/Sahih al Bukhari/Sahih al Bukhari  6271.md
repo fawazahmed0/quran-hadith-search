@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When Allah's Messenger (ﷺ) married Zainab bint Jahsh, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Umar] telah menceritakan kepada kami [Mu'tamir] saya mendengar [Ayahku] bahwa dia menyebutkan dari [Abu Mijlaz] dari [Anas bin Malik] radliallahu 'anhu dia berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam menikah dengan Zainab binti Jahsy, beliau mengundang orang-orang untuk menikmati jamuan, kemudian mereka duduk-duduk dan berbincang-bincang." Anas melanjutkan ceritanya; "Kemudian beliau merubah posisi seakan-akan hendak berdiri, namun orang-orang tidak juga berdiri, ketika beliau berdiri, maka orang-orang pun ikut berdiri bersama beliau, hingga tinggal tiga orang. Sesungguhnya Nabi shallallahu 'alaihi wasallam datang untuk masuk ke kamar, namun orang-orang masih saja duduk-duduk, selepas itu akhirnya mereka beranjak dan pergi. Tinggalah tiga orang yang masih duduk. Nabi shallallahu 'alaihi wasallam datang dan hendak masuk (ke kamar Zainab), namun tiga orang tersebut masih tetap duduk-duduk, setelah itu mereka berdiri dan beranjak pergi. Anas berkata; Lalu saya mengabarkan kepada Nabi shallallahu 'alaihi wasallam bahwa mereka sudah beranjak pergi." Kemudian beliau datang dan masuk, maka saya pun mengikuti beliau masuk, lantas beliau menurunkan kain tirainya antara saya dengan beliau." Lalu Allah Ta'ala menurunkan (ayat): Hai orang-orang yang beriman, janganlah kamu memasuki rumah- rumah nabi kecuali bila kamu diizinkan -hingga firman Allah- Sesungguhnya perbuatan itu adalah amat besar (dosanya) di sisi Allah." (Al Ahzab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6271</td></tr><tr><td>Arabic No</td><td>6271</td></tr><tr><td>Reference</td><td>Book 79 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Женившись на Зейнаб бинт Джахш, Посланник Аллаха ﷺ пригласил людей на угощение. Они поели, а затем продолжили сидеть и разговаривать. (Через некоторое время) Пророк ﷺ (показал им), как будто собирается встать, но никто из людей не поднимался. (Увидев, что они не поняли его намёка,) он встал, и остальные тоже встали, кроме трёх человек, которые продолжали сидеть. (Спустя какое-то время) Пророк ﷺ вернулся (в дом) и хотел зайти (к своей жене), однако они всё ещё сидели на своих местах. Когда же они встали и ушли, я пришёл к Пророку ﷺ и сообщил ему об этом, и тогда он вошёл (в дом). Я же хотел зайти за ним, но Пророк ﷺ опустил передо мной занавеску, после этого Всевышний Аллах ниспослал: “О те, которые уверовали! Не входите в дома Пророка, если только не будет разрешено вам…” до слов: “…Поистине, это велико пред Аллахом” (сура “аль-Ахзаб”, аят 53)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6271</td></tr><tr><td>Arabic No</td><td>6271</td></tr><tr><td>Reference</td><td>Book 79 Hadith 45</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said Allah will give shade to seven (type
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] dia berkata; telah menceritakan kepadaku [Khubaib bin Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tujuh golongan yang akan dinaungi Allah (salah satunya) adalah seseorang yang berdzikir kepada Allah hingga meneteskan air matanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6479</td></tr><tr><td>Arabic No</td><td>6479</td></tr><tr><td>Reference</td><td>Book 81 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Аллах даст тень семи (категориям людей) под тенью (в День суда). (Одним из них будет) человек, который поминал Аллаха, и его глаза при этом наполнялись слезами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6479</td></tr><tr><td>Arabic No</td><td>6479</td></tr><tr><td>Reference</td><td>Book 81 Hadith 68</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id al-Khudri and Abu Hurairah reported the Messenger of Allah (ﷺ) as sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazdi bin Khalid bin Yazid bin Abdullah bin Mauhib Ar-Ramli Al-Hamdani] -dari jalur lain-. Telah menceritakan kepada kami [Abdul Aziz bin Yahya Al-Harrani] dia berkata; Telah menceritakan kepada kami [Muhammad bin Salamah] -dari jalur lain- Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dan hadits ini Muhammad bin Salamah dari [Muhammad bin Ishaq] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman], Abu Dawud berkata; berkata Yazid dan Abdul Aziz di dalam hadits riwayatnya; dari Abu Salamah bin Abdurrahman dan [Abu Umamah bin Sahl] dari [Abu Sa'id Al-Khudri] dan [Abu Hurairah] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mandi pada hari Jum'at dan memakai pakaian yang paling bagus, serta memakai wangi-wangian kalau dia punya, setelah itu dia mendatangi shalat Jum'at di masjid dan tidak melangkahi leher-leher jama'ah, kemudian mengerjakan shalat yang diperintahkan Allah, lalu dia diam (untuk mendengarkan khutbah) apabila imam telah datang untuk berkhutbah, sampai dia selesai dari shalatnya. Maka shalatnya itu menjadi penebus dosa baginya antara Jum'at itu dengan Jum'at sebelumnya." Perawi Hadits ini berkata; Abu Hurairah berkata;... dan ditambah tiga hari..., dan katanya, Sesungguhnya satu kebaikan itu akan dibalas dengan sepuluh kali lipat. Abu Dawud berkata; Hadits Muhammad bin Salamah lebih sempurna, dan Hammad tidak menyebutkan ucapan Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри и Абу Хурайра сказали: «Посланник Аллаха ﷺ сказал: “Тому, кто искупается в пятницу, наденет на себя лучшую одежду и надушится благовониями, если они у него есть, а затем отправится на пятничную молитву, не будет перешагивать через шеи людей, затем совершит предписанную себе Аллахом молитву, затем, когда выйдет имам будет (сидеть и слушать его) молча, пока не закончится молитва, то это станет искуплением тому, что было между этой молитвой и той пятничной молитвой, которая была до нее”».(Йазид ибн Халид) сказал: «И Абу Хурайра говорил: “И дополнительно три дня”. И также он говорил: “А за одно доброе дело, (человек получит) десятикратное (вознаграждение)”».Абу Дауд сказал: «Хадис Мухаммада ибн Саламы совершеннее, а Хаммад не упомянул слова Абу Хурайры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
 

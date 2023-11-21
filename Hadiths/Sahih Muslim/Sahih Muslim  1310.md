@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Another version on the authority of Ibn Umar says:When the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Hammad bin Salamah] dari [Ayyub] dari [Nafi'] dari [Ibn Umar] bahwa apabila Rasulullah shallallahu 'alaihi wasallam duduk tasyahhud, beliau meletakkan tangan kirinya diatas lutut kirinya dan meletakkan tangan kanannya diatas lutut kanannya, dan beliau lingkarkan jarinya sehingga membentuk angka lima puluh tiga, lalu beliau memberi isyarat dengan jari telunjuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что, когда Посланник Аллаха ﷺ садился (во время молитвы) для совершения ташаххуда, он возлагал левую ладонь на левое колено, а правую ладонь на правое колено, соединив (пальцы таким образом, что получалось число) пятьдесят три, и приподнимал указательный палец
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
 

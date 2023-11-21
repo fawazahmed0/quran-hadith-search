@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar (Allah be pleased with them) reported Allah's Messen- ger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibnu Hujr] -Yahya bin Yahya berkata- telah mengabarkan kepada kami -sementara yang lain berkata- Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Abdullah bin Dinar] bahwa ia mendengar [Abdullah bin Umar] radliallahu 'anhuma, berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada lima macam binatang, siapa yang membunuhnya saat ia Ihram, maka tidak ada dosa baginya, yaitu kalajengking, tikus, anjing gila, gagak, dan elang." Lafazh adalah milik Yahya bin Yahya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2876</td></tr><tr><td>Arabic No</td><td>1199.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2876</td></tr><tr><td>Arabic No</td><td>1199.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 86</td></tr></tbody></table></div>
 

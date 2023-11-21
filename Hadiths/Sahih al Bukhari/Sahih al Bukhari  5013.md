@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Said Al-Khudri: A man heard another man reciting (Surat-Al-Ikhlas) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abdurrahman bin Abdullah bin Abdurrahman bin Abu Sha'shah] dari [bapaknya] dari [Abu Sa'id Al Khudri] bahwa seorang laki-laki mendengar seseorang yang membaca surat: "QUL HUWALLAHU AHAD." dan orang itu selalu mengulang-ngulangnya. Di pagi harinya, maka laki-laki itu pun segera menemui Rasulullah shallallahu 'alaihi wasallam dan mengadukan mengenai seseorang yang ia dengar semalam membaca surat yang sepertinya ia menganggap sangat sedikit. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, sesungguhnya surat itu benar-benar menyamai sepertiga Al Qur'an." [Abu Ma'mar] menambahkan dan Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Malik] dari [Abdurrahman bin Abdullah bin Abdurrahman bin Sha'sha'ah] dari [bapaknya] dari [Abu S'aid Al Khudri] Telah mengabarkan kepadaku adikku [Qatadah bin An Nu'man] bahwasanya; Ada seorang laki-laki yang berdiri menunaikan shalat di waiktu sahur, dan ia membaca surat, "QUL HUWALLAHU AHAD.." lalu ia tidaklah menambahkan sesuatu pun pada surat itu." Maka ketika pagi, maka seseorang mendatangi Nabi shallallahu 'alaihi wasallam. Yakni dengan hadists semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5013</td></tr><tr><td>Arabic No</td><td>5013</td></tr><tr><td>Reference</td><td>Book 66 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что один человек, услышавший, как другой много раз повторяет слова «Скажи: “Он, Аллах, Один”», наутро пришёл к Посланнику Аллаха ﷺ и стал рассказывать ему об этом, (говоря так,) будто он считал её слишком маленькой. (Выслушав его,) Посланник Аллаха ﷺ сказал: «Клянусь Тем, в Чьей длани душа моя, поистине, она равна трети Корана!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5013</td></tr><tr><td>Arabic No</td><td>5013</td></tr><tr><td>Reference</td><td>Book 66 Hadith 35</td></tr></tbody></table></div>
 

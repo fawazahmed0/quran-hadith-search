@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Ka'b bin Malik from his father:We had some sheep which used to graz
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dia mendengar [Al Mu'tamir] memberitakan kepada kami ['Ubaidulloh] dari [Nafi'] bahwa dia mendengar [Ibnu Ka'ab bin Malik] bercerita dari [bapaknya] bahwasanya dia memiliki kambing yang mencari makan didekat pepohonan. Lalu budak wanita kami melihat ada satu ekor kambing yang mati. Maka dia mengambil batu lalu menyembelihnya dengan batu tersebut dan berkata, kepada mereka; "Janganlah kalian makan sampai aku menanyakannya kepada Nabi shallallahu 'alaihi wasallam atau kita utus seseorang untuk menanyakannya kepada Nabi shallallahu 'alaihi wasallam. Lalu dia menanyakan Nabi shallallahu 'alaihi wasallam tentang maalah ini atau mengutus seseorang. Maka Beliau shallallahu 'alaihi wasallam memerintahkan untuk memakannya. 'Ubaidullah berkata: "Maka hal ini menakjubkan aku karena dia seorang budak wanita dan dia juga yang menyembelihnya". Hadits ini diikuti pula oleh ['Abdah] dari ['Ubaidullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2304</td></tr><tr><td>Arabic No</td><td>2304</td></tr><tr><td>Reference</td><td>Book 40 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б бин Малик, да будет доволен им Аллах, сказал: «У нас были овцы, которые паслись на (горе) Саль‘. (Как-то раз одна) наша рабыня увидела умирающую овцу, отломала кусок камня и перерезала ей горло (его острым краем). Он сказал им: “Не ешьте (её), пока я не спрошу об этом Пророка ﷺ (или: пока я не пошлю кого-нибудь к Пророку ﷺ спросить об этом)”. И он спросил об этом Пророка ﷺ сам (или: послал кого-то), а (Пророк ﷺ) велел (им) съесть (эту овцу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2304</td></tr><tr><td>Arabic No</td><td>2304</td></tr><tr><td>Reference</td><td>Book 40 Hadith 5</td></tr></tbody></table></div>
 

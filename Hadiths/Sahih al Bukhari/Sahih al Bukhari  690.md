@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690.2</td></tr><tr><td>Arabic No</td><td>690.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ произносил слова “Да услышит Аллах того, кто воздал Ему хвалу /Сами‘а—Ллаху ли—манхамидах/”, никто из нас не сгибал спины, пока в земном поклоне не склонялся Пророк ﷺ, а после (того, как склонялся он,) совершали земной поклон и мы»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>690</td></tr><tr><td>Reference</td><td>Book 10 Hadith 84</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690.2</td></tr><tr><td>Arabic No</td><td>690.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 85</td></tr></tbody></table></div>

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah b. Shu'bah:A man of Hudhail has two wives. One of them stru
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namari] berkata, telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Ibrahim] dari [Ubaid bin Nadhlah] dari [Al Mughirah bin Syu'bah] berkata, "Ada dua orang wanita yang menjadi isteri seorang laki-laki Hudzail, lalu salah seorang dari isteri itu memukul isteri yang lainnya hingga tewas beserta janin yang ada di perutnya. Akhirnya mereka mengadukan hal itu kepada Nabi shallallahu 'alaihi wasallam, seorang dari dua laki-laki berkata, "Bagaimana kami harus menebus diyat bagi jiwa yang belum lahir dari perut ibunya, belum makan, belum minum dan belum menangis!" Beliau lalu menjawab: "Apakah ini sajak seperti sajak orang-orang Arab badui?" Beliau kemudian menetapkan diyatnya berupa pembebasan seorang budak yang ditanggung oleh wali wanita (pembunuh) tersebut." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [jarir] dari [Manshur] dengan sanad dan maknanya, ia menambahkan, "Nabi shallallahu 'alaihi wasallam lalu menetapkan bahwa tebusan bagi wanita yang dibunuh itu ditanggung oleh keluarga wanita (yang membunuh), dan membebaskan budak sebagai diyat dari janin yang ada dalam perut." Abu Dawud berkata, " [Al Hakam] juga meriwayatkannya dari [Mujahid] dari [Al Mughirah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1682)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4568</td></tr><tr><td>Arabic No</td><td>4568</td></tr><tr><td>Reference</td><td>Book 41 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Мугиры ибн Шу‘бы, да будет доволен им Аллах, что у одного человека из племени Хузайль было две жены и одна ударила другую шестом и убила её и её плод. Люди обратились на суд к Пророку ﷺ и один из двух человек сказал: «Как мы можем выплачивать компенсацию за того, кто не кричал и не ел, не пил и не издал ни звука при рождении?» (Посланник Аллаха ﷺ) сказал: «Неужто рифмованная проза, похожая на рифмованную прозу бедуинов?!» И Пророк ﷺ постановил, что за плод нужно выплатить компенсацию раба или рабыню, и её должны выплатить родственники убившей со стороны отца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1682)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4568</td></tr><tr><td>Arabic No</td><td>4568</td></tr><tr><td>Reference</td><td>Book 41 Hadith 75</td></tr></tbody></table></div>
 

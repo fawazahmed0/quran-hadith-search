@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Horses may be used for three
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Zaid bin Aslam] dari [Abu Shalih assiman] dari [Abu Hurairah] radliyallahu'anhu, bahwa Rasulullah Shallallahu'alaihiwasallam berkata: 'Kuda itu bagi tiga orang; bagi orang pertama mendatangkan pahala, bagi orang kedua sebagai penutup (penyelesaian, solusi), dan bagi orang ketiga mendatangkan dosa. Adapun kuda yang mendatang pahala adalah seseorang yang menambatkan kudanya di jalan Allah, lantas ia gembalakan kudanya di rerumputan luas atau kebun, maka segala yang dimakan kuda itu di padang gembalaan, baik kebun atau rerumputan luas selain tercatat sebagai kebaikan baginya, dan sekiranya kuda itu mengarungi padang gembalaan, lantas dia melangkah satu atau dua langkah, maka bekas dan kotorannya juga terhitung kebaikan baginya, dan sekiranya kuda itu melewati sungai dan meminumnya, padahal si pemilik tidak berniat memberinya minuman, maka itu terhitung kebaikan baginya, kesemuanya itu terhitung ganjaran baginya. Kuda kedua, adalah seseorang yang mengikatnya untuk mencari penghasilan dan untuk menjaga kehormatan diri, sedang ia tidak melupakan hak Allah terhadap ikatannya dan tidak pula terhadap punggungnya, maka kuda itu sebagai penyelesaian baginya. Adapun kuda ketiga adalah, seseorang yang mengikatnya untuk sekedar kebanggaan dan pamer, maka itu adalah bosa baginya. Dan Rasulullah Shallallahu'alaihiwasallam pernah ditanya tentang keledai. Maka beliau hanya menjawab: 'Allah tidak menurunkan kepadaku tentangnya selain satu ayat yang ringkas ini: '(Barangsiapa yang beramal kebaikan seberat biji atom, maka Allah akan melihatnya, sebaliknya barangsiapa yang beramal seberat biji atom keburukan, pasti ia melihatnya) ' (Qs. Al Zalzalah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7356</td></tr><tr><td>Arabic No</td><td>7356</td></tr><tr><td>Reference</td><td>Book 96 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Коней (держат) для трёх (целей): (За содержание) лошадей один (человек может получить) награду, для другого они (могут стать) защитой, а для третьего — бременем. Что касается того, кто получит (за них) награду, то им является человек, который содержит лошадей на пути Аллаха, привязывая их (длинными верёвками) на пастбище или в саду, а (количество) добрых дел, которые запишутся такому человеку, будет соответствовать длине тех верёвок(, за которые он станет привязывать лошадей) на пастбище или в саду. Если оборвут они свою привязь и перейдут через один или два холма, то их владельцу (запишется) столько добрых дел, сколько следов и навоза они оставят, если же они пройдут мимо реки и напьются из неё, это также будет записано ему как добрые дела, даже если он и не намеревался поить (их), и за это он получит награду. И такая лошадь будет приносить такому человеку награду. (Другим) человеком является тот, кто содержит лошадей, обходясь тем, что он имеет, воздерживаясь (от обращений с просьбами к другим) и не забывая (отдавать) должное Аллаху в том, что касается их шей и спин. Для такого они послужат защитой. (Третьим является такой) человек, который держит лошадей только из гордости, или напоказ другим: для такого они станут бременем». А затем Посланнику Аллаха ﷺ задали вопрос об ослах(, на что) он (дал такой ответ): «Мне не было ниспослано о них ничего (особого), если не считать того всеобъемлющего и исключительного аята, (в котором сказано): “Тот, кто сделал добро весом в мельчайшую частицу, увидит его. И тот, кто сделал зло весом в мельчайшую частицу, увидит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7356</td></tr><tr><td>Arabic No</td><td>7356</td></tr><tr><td>Reference</td><td>Book 96 Hadith 83</td></tr></tbody></table></div>
 

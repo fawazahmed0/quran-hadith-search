@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rafi b. Khadij (Allah be pleased with him) reported:I heard Allah's Apostle (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id Al Qatthan] dari [Muhammad bin Yusuf] dia berkata; saya mendengar [As Saib bin Yazid] telah menceritakan dari [Rafi' bin Khudaij] berkata, "Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sejelek-jelek usaha adalah usaha pelacuran, jaul beli anjing dan usaha tukang bekam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>1568.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Рафи‘ ибн Хадидж (да будет доволен им Аллах) сказал: «Я слышал, как Пророк ﷺговорил: “Худшим заработком (являются деньги,) полученные блудницей (за прелюбодеяние), деньги, (полученные за) собаку, и заработок цирюльника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>1568.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 50</td></tr></tbody></table></div>
 

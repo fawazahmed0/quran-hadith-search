@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn' 'Umar:from the Prophet (ﷺ) the following Hadith (No. 242). Narra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami ['Ashim bin Muhammad] berkata telah bercerita kepadaku [bapakku] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan pula, telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami ['Ashim bin Muhammad bin Zaid bin 'Abdullah bin 'Umar] dari [bapaknya] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Seandainya manusia mengetahui apa yang terdapat dalam bepergian sendirian seperti apa yang aku ketahui, tentu seorang penunggang kendaraan tidak akan bepergian di malam hari sendirian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2998</td></tr><tr><td>Arabic No</td><td>2998</td></tr><tr><td>Reference</td><td>Book 56 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Если бы люди знали о (поездках) в одиночестве то, что известно мне, ни один всадник не пускался бы ночью в путь в одиночку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2998</td></tr><tr><td>Arabic No</td><td>2998</td></tr><tr><td>Reference</td><td>Book 56 Hadith 207</td></tr></tbody></table></div>
 

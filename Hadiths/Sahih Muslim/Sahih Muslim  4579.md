@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), à la mort du Prophète (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku telah membacakan di hadapan [Malik]; dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] bahwa dia berkata, "Setelah wafatnya Rasulullah shallallahu 'alaihi wasallam, para isteri Nabi shallallahu 'alaihi wasallam pernah hendak mengutus Utsman bin Affan untuk menemui Abu Bakar dan meminta bagian dari harta peninggalan Nabi shallallahu 'alaihi wasallam, maka 'Aisyah berkata kepada mereka, "Tidakkah Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Kami tidak meninggalkan harta peninggalan kecuali hal itu hanya sebagai sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4579</td></tr><tr><td>Arabic No</td><td>1758</td></tr><tr><td>Reference</td><td>Book 32 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4579</td></tr><tr><td>Arabic No</td><td>1758</td></tr><tr><td>Reference</td><td>Book 32 Hadith 60</td></tr></tbody></table></div>
 

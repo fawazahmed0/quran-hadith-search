@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said, "A single endeavor in Allah's Cau
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari [Abu Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Berangkat pada awal hari (pagi) atau berangkat pada akhir hari (siang) untuk berperang di jalan Allah lebih baik dari pada dunia dan apa saja yang ada diatasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2794</td></tr><tr><td>Arabic No</td><td>2794</td></tr><tr><td>Reference</td><td>Book 56 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Дела, совершаемые) на пути Аллаха, утром или вечером, лучше мира этого со всем тем, что в нём есть!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2794</td></tr><tr><td>Arabic No</td><td>2794</td></tr><tr><td>Reference</td><td>Book 56 Hadith 12</td></tr></tbody></table></div>
 

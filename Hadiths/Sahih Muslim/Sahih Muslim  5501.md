@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Allah's Messenger (ﷺ) forbade the wrapping of oneself comp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah]; Telah menceritakan kepada kami [Laits]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ibnu Rumh]; Telah mengabarkan kepada kami [Al Laits] dari [Abu Az Zubair] dari [Jabir]; Bahwa Rasulullah shallallahu 'alaihi wasallam melarang seseorang menyelimuti seluruh tubuh dengan pakaian, dan duduk (dengan meninggikan kedua lututnya ke dada) dengan selembar pakaian, serta menumpangkan sebelah kakinya pada kaki yang lain ketika tidur terlentang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5501</td></tr><tr><td>Arabic No</td><td>2099.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5501</td></tr><tr><td>Arabic No</td><td>2099.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 116</td></tr></tbody></table></div>
 

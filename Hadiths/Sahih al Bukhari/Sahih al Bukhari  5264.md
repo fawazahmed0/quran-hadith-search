@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Nafi' said:When Ibn 'Umar was asked about person who had given three divorces, h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5264</td></tr><tr><td>Arabic No</td><td>5264</td></tr><tr><td>Reference</td><td>Book 68 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «Когда Ибн ‘Умара спрашивали о том, кто трижды дал развод (своей жене), он отвечал: “Лучше бы ты дал один или два развода, ведь Пророк ﷺ приказывал мне это. Если же ты развёл её трижды, то она становится для тебя запретной, пока не выйдет замуж за другого мужчину”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5264</td></tr><tr><td>Arabic No</td><td>5264</td></tr><tr><td>Reference</td><td>Book 68 Hadith 14</td></tr></tbody></table></div>
 

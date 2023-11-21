@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Suhail with the same chain of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul'Aziz] yaitu Ad Daraawardi dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mendahului orang-orang Yahudi dan Nasrani memberi salam. Apabila kalian berpapasan dengan salah seorang di antara mereka di jalan, maka desaklah dia ke jalan yang paling sempit." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah]; Demikian juga diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan]; Demikian juga diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] seluruhnya dari [Suhail] melalui sanad ini. Dan di dalam Hadits Waki' disebutkan; 'Apabila kalian bertemu dengan orang Yahudi.' Sedangkan dalam Hadits Ibnu Ja'far dari Syu'bah dia berkata mengenai ahlu kitab juga di dalam Hadits Jarir dengan lafazh; 'Apabila kalian bertemu dengan mereka.' (tanpa menyebutkan salah seorang di antara mereka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5662</td></tr><tr><td>Arabic No</td><td>2167.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5662</td></tr><tr><td>Arabic No</td><td>2167.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 17</td></tr></tbody></table></div>
 

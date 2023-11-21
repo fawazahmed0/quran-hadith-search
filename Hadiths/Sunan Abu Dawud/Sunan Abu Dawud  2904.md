@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: A man of Khuza'ah died and his estate was brough
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin Aswad Al 'Ijli], telah menceritakan kepada kami [Yahya bin Adam], telah menceritakan kepada kami [Syarik], dari [Jibril bin Ahmar Abu Bakr], dari [Ibnu Buraidah] dari [ayahnya], ia berkata; terdapat seorang laki-laki yang meninggal kemudian Nabi shallallahu 'alaihi wasallam diberi warisannya. Kemudian beliau bersabda: "Carikan pewarisnya atau kerabatnya!" kemudian mereka tidak mendapatkan pewaris dan kerabatnya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Berikan warisan tersebut kepada orang tertua dari Khuza'ah." Yahya berkata; pernah suatu kali aku mendengar beliau dalam hadits ini berkata: "Lihatlah orang Khuza'ah yang paling tua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>2904</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бурайды, да будет доволен им Аллах, что однажды один хузаит умер и оставленное им имущество принесли Пророку ﷺ и он сказал: «Поищите наследника или родственника». Однако у него не оказалось ни наследников, ни родственников. Тогда Посланник Аллаха ﷺ сказал: «Отдайте это имущество человеку из числа хузаитов, который ближе всех по родству к основателю племени». А в другой версии хадиса говорится: «Найдите самого старшего из хузаитов и отдайте ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>2904</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
 

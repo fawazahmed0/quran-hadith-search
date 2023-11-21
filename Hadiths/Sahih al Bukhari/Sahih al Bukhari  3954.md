@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The believers who failed to join the Ghazwa of Badr and thos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] bahwa [Ibnu Juraij] telah mengabarkan kepada mereka, katanya telah mengabarkan kepadaku ['Abdul Karim] bahwa dia mendengar [Miqsam, maula 'Abdullah bin Al Harits] menceritakan dari [Ibnu 'Abbas] bahwanya dia mendengarnya menjelaskan firman Allah dalam QS an-Nisaa' ayat 97 yang artinya ("Tidak sama orang-orang yang duduk dari orang beriman....".) maksudnya adalah tentang perang Badar dan orang-orang yang keluar ikut perang Badar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 64 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аббас сказал об аяте «Не равны те из верующих, которые отсиживаются…» (сура «ан-Ниса», аят 95): «Это о битве при Бадре и тех, кто отправился на битву при Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 64 Hadith 6</td></tr></tbody></table></div>
 

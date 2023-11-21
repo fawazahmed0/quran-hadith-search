@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Hazim reported:I was (standing) behind Abu Huraira and he was performing the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Khalaf] -yaitu Ibnu Khalifah- dari [Abu Malik al-Asyja'i] dari [Abu Hazim] dia berkata, "Saya di belakang [Abu Hurairah] saat dia sedang berwudlu untuk shalat. Dia memanjangkan tangannya hingga mencapai ketiaknya, maka saya berkata kepadanya, 'Wahai Abu Hurairah, wudlu apaan ini? ' Dia menjawab, 'Wahai bani Farrukh, kalian di sini, kalau saya tahu kalian di sini niscaya aku tidak akan berwudlu dengan (cara) wudlu ini. Saya mendengar kekasihku shallallahu 'alaihi wasallam bersabda: "Perhiasan seorang mukmin adalah sejauh mana air wudlunya membasuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>250</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хазим рассказывал: «Однажды, когда Абу Хурайра совершал омовение для молитвы, я находился позади него. Он проводил своей рукой, (омывая другую руку), пока не доходил до подмышек. Я спросил его: “О Абу Хурайра, что это за омовение?” Он ответил: “Вы тут, о потомки Фарруха? Если бы я знал, что вы тут, то не совершал бы омовение таким образом. Я слышал, как мой любимейший друг ﷺ говорил: “Украшения покроют те (части тела) верующего, которые он омывал во время омовения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>250</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
 

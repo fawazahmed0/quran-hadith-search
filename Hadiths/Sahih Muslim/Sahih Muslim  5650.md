@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Five are the rights of a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ibnu Al Musayyab] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kewajiban seorang muslim terhadap sesama muslim ada lima: (1) Menjawab salam. (2) Mendoakan yang bersin. (3) Memenuhi undangan. (4) Mengunjungi yang sakit, dan (5) Ikut mengantar jenazah." Dan telah menceritakn kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] memursalkan Hadits ini dari [Az Zuhri] dan pernah menyandarkannya dari [Ibnu Al Musayyab] dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5650</td></tr><tr><td>Arabic No</td><td>2162.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5650</td></tr><tr><td>Arabic No</td><td>2162.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
 

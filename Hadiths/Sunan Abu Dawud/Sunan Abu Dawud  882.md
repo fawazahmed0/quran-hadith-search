@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said; The Messenger of Allah (May peace be upon him) got up for the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam berdiri untuk mengerjakan shalat, lantas kami pun berdiri bersama beliau, tiba-tiba seorang arab badui berkata dalam shalatnya; "Allahummar hamnii wa muhammadan walaa tarham ma'adaa ahadan (Ya Allah, rahmatilah aku dan Muhammad dan janganlah Engkau merahmati seorang pun yang bersama kami)." Setelah Rasulullah shallallahu 'alaihi wasallam salam, beliau bersabda kepada arab badui tersebut: 'Kamu telah mempersempit sesuatu yang luas." Maksud beliau adalah rahmat Allah Azza Wa Jalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>882</td></tr><tr><td>Reference</td><td>Book 2 Hadith 492</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах: «Однажды, Посланник Аллаха ﷺ встал, чтобы совершить молитву, и мы встали вместе с ним, а какой-то бедуин сказал во время молитвы: “О Аллах! Помилуй меня и Мухаммада и не милуй никого, кроме нас!” После таслима Посланник Аллаха ﷺ сказал этому бедуину: “Ты сузил обширное!”, имея в виду милость Всемогущего и Великого Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>882</td></tr><tr><td>Reference</td><td>Book 2 Hadith 492</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda bin 'Abdullah:(on the authority of his father) The Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami ['Abdul Wahid] berkata, telah menceritakan kepada kami [Abu Burdah bin 'Abdullah] berkata, aku mendengar [Abu Burdah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa lewat dengan membawa panah di masjid atau pasar kita, maka hendaklah dipegang ujung panahnya dengan tangannya agar tidak melukai seorang muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>452</td></tr><tr><td>Reference</td><td>Book 8 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть тот, кто проходит по нашим мечетям или рынкам со стрелами, берётся (рукой) за их острия, чтобы не поранить кого-нибудь из мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>452</td></tr><tr><td>Arabic No</td><td>452</td></tr><tr><td>Reference</td><td>Book 8 Hadith 101</td></tr></tbody></table></div>
 

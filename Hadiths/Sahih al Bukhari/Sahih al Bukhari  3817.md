@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I did not feel jealous of any woman as much as I did of Khadija 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin 'Sa'id] telah bercerita kepada kami [Humaid bin 'Abdur Rahman] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; "Tidaklah aku cemburu kepada salah seorang wanita sebagaimana kecemburuanku terhadap Khadijah karena seringnya Rasulullah shallallahu 'alaihi wasallam menyebut-nyebutnya (memuji dan menyanjugnya) 'Aisyah radliallahu 'anha berkata; "Beliau menikahi aku tiga tahun setelah Khadijah meninggal dunia dan Rabbnya 'azza wajalla memerintahkan beliau atau memerintahkan Jibril 'alaihis salam untuk memberi kabar gembira kepadanya bahwa dia akan mendapatkan rumah terbuat dari mutiara (di surga kelak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3817</td></tr><tr><td>Arabic No</td><td>3817</td></tr><tr><td>Reference</td><td>Book 63 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Ни к кому из женщин я не ревновала (Пророка ﷺ) столь сильно как к Хадидже, из-за того, что Посланник Аллаха ﷺ часто вспоминал о ней. Он женился на мне через три года после её смерти. И Великий и Могучий Господь его (т.е. Пророка ﷺ), повелел ему обрадовать её вестью о доме из полого жемчуга (, который ждёт её в Раю)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3817</td></tr><tr><td>Arabic No</td><td>3817</td></tr><tr><td>Reference</td><td>Book 63 Hadith 42</td></tr></tbody></table></div>
 

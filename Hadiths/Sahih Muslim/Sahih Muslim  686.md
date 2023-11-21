@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Apostle (may peace he upon him), reported:The Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Amru bin al-Harits] dari [Muhammad bin Abdurrahman bin Naufal] dari [Urwah bin az-Zubair] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa dia berkata, "Rasulullah pernah mengeluarkan kepalanya dari sisi masjid ke arahku, kemudian aku mencucinya (keramas) sedangkan aku dalam keadaan haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>686</td></tr><tr><td>Arabic No</td><td>297.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ совершал и‘тикяф в мечети, он просовывал ко мне голову, а я мыла его волосы, хотя у меня были месячные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>686</td></tr><tr><td>Arabic No</td><td>297.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 8</td></tr></tbody></table></div>
 

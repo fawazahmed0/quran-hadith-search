@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) had a she camel called Al Adba which could not b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Malik bin Isma'il] telah bercerita kepada kami [Zuhair] dari [Humaid] dari [Anas radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam memiliki unta yang dinamakan dengan Al 'Adhbaa' yang tidak terkalahkan. Berkata Humaid: "Atau tidak pernah terkalahkan". Kemudian datang seorang Arab Baduy dengan menunggang unta lalu mengalahkan unta Beliau. Kejadian ini menggusarkan KaumMuslimin hingga Beliau mengerti benar apa yang sedang terjadi. Maka kemudian Beliau bersabda: "Sudah menjadi kemestian bagi Allah dimana tidak ada sesuatu yang tinggi dalam perkara dunia melainkan Dia pasti akan merendahkannya". [Musa] meriwayatkannya dengan panjang lebar dari [Hammad] dari [Tsabit] dari [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2872</td></tr><tr><td>Arabic No</td><td>2872</td></tr><tr><td>Reference</td><td>Book 56 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «У Пророка ﷺ была верблюдица по кличке ‘Адба, которую никто не мог обогнать, но однажды приехал какой-то бедуин на верблюде, которому было меньше шести лет, и обогнал её. Мусульмане были так огорчены этим, что (Пророк ﷺ) заметил это и сказал: “Что бы ни возвысилось в мире этом, Аллах обязательно принижает это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2872</td></tr><tr><td>Arabic No</td><td>2872</td></tr><tr><td>Reference</td><td>Book 56 Hadith 88</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qaza'ah reported that while Abd al-Malik b. Marwan was circumambulating the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Abdullah bin Bakr As Sahmi] Telah menceritakan kepada kami [Hatim bin Abu Shaghirah] dari [Abu Qaza'ah] bahwasanya; Ketika Abdul Malik bin Marwan thawaf di Baitullah, tiba-tiba dia berkata, "Semoga Allah mencelakai Ibnu Zubir, karena dia mendustakan Ummul Mukminin." Ibnu Zubair berkata; Aku pernah mendengar Aisyah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Aisyah, kalau saja bukan karena kaummu yang baru saja meninggalkan kekufuran, tentu aku sudah membongkar Baitullah sehingga aku tambah luasnya di bagian Hijr, karena kaummu telah mempersempit bangunannya (bila diukur dengan pondasi yang dibuat oleh Nabi Ibrahim." [Al Harits bin Abdullah bin Abu Rabi'ah] berkata, "Jangan berkata begitu wahai [Amirul mukminin], karena aku pernah mendengar Amirul Mukminin telah berkata yang demikian itu." Abdul Malik bin Marwan berkata, "Seandainya aku pernah mendengar hadits tersebut sebelum aku merombak Ka'bah, tentu aku biarkan saja bangunan yang telah diperbaiki oleh Ibnu Zubair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3248</td></tr><tr><td>Arabic No</td><td>1333.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 452</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Каза‘а, что во время обхода Дома (Каабы) ‘Абдуль-Малик ибн Марван воскликнул: Да разразит Аллах Ибн аз-Зубайра, который возводит ложь на мать правоверных! Он говорит: «Я слышал, как она говорит, что Посланник Аллаха ﷺ сказал: “О ‘Аиша, если бы не (то обстоятельство, что) твои соплеменники (совсем) недавно (избавились от) неверия, я бы непременно разрушил этот Дом (Каабу) и присоединил к ней (часть) аль-Хиджра, ибо твои соплеменники сделали здание слишком коротким”».(Каза‘а сказал): «(Услышав это), аль-Харис ибн ‘Абдуллах ибн Абу Раби‘а сказал: “Не говори так, о повелитель правоверных, ибо я слышал, как мать правоверных рассказывала об этом” (На это ‘Абдуль-Малик) сказал: “Если бы я услышал (твои слова), прежде чем разрушить (Каабу), то непре­менно оставил бы её (в том виде, какой придал ей) Ибн аз-Зубайр!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3248</td></tr><tr><td>Arabic No</td><td>1333.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 452</td></tr></tbody></table></div>
 

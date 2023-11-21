@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Shu'aib: On his father's authority, told that his grandfather r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Abdushshamad] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami ['Abbas Al Jurairi] dari ['Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Budak manasaja yang mengadakan perjanjian pembebasan dirinya seharga seratus uqiyah, kemudian ia telah menyelesaikan semua membayarnya kecuali sepuluh uqiyah, maka ia tetap sebagai budak. Dan budak manasaja yang mengadakan perjanjian pembebasan dirinya dengan harga seratus dinar, kemudian ia telah menyelesaikan semua pembayarannya kecuali sepuluh dinar, maka ia tetap sebagai budak." Abu Daud berkata, "Ia bukanlah Abbas Al Jurairi, yang mereka katakan hanyalah peraduka, yang benar bahwa ia adalah syaikh yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3927</td></tr><tr><td>Arabic No</td><td>3927</td></tr><tr><td>Reference</td><td>Book 31 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Пророк ﷺ сказал: «Если мукатабу осталось выплатить из выкупа в сто окий (cорок дирхемов) всего десять окий, он остаётся рабом до тех пор, пока не выплатит их, и если мукатабу из выкупа в сто динаров осталось выплатить десять динаров, он остаётся рабом до тех пор, пока не выплатит их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3927</td></tr><tr><td>Arabic No</td><td>3927</td></tr><tr><td>Reference</td><td>Book 31 Hadith 2</td></tr></tbody></table></div>
 

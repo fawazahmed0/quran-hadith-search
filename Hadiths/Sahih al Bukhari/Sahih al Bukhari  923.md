@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Taghlib:Some property or something was brought to Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ma'mar] berkata, telah menceritakan kepada kami [Abu 'Ashim] dari [Jarir bin Hazim] berkata, aku mendengar [Al Hasan] berkata, telah menceritakan kepada kami ['Amru bin Taghlib], bahwa Rasulullah shallallahu 'alaihi wasallam pernah diberi hadiah berupa harta atau tawanan wanita, beliau lalu membagi-bagikannya. Ada orang yang diberi dan ada yang tidak. Kemudian sampai berita kepada beliau bahwa orang-orang yang tidak diberi, mereka mencela (beliau). Maka mengucapkan puja dan puji kepada Allah lalu bersabda: "Amma ba'du. Demi Allah, memang aku telah memberi seseorang dan tidak kepada yang lain. Orang yang tidak aku beri sesungguhnya lebih aku cintai daripada orang yang aku beri. Namun aku memberi sekelompok kaum karena aku melihat hati-hati mereka masih sangat bersedih dan punya rasa takut. Dan aku biarkan sekelompok orang karena Allah telah menjadikan hati-hati mereka penuh dengan perasaan cukup dan penuh kebaikan. Di antara mereka adalah 'Amru bin Taghlib." 'Amru bin Taghlib berkata, "Demi Allah, tidak ada yang lebih aku sukai dari unta yang paling baik dibandingkan ucapan Rasulullah shallallahu 'alaihi wasallam kepadaku tadi." Hadits ini dikuatkan oleh [Yunus]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>923</td></tr><tr><td>Arabic No</td><td>923</td></tr><tr><td>Reference</td><td>Book 11 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра бин Таглиба, да будет доволен им Аллах, что однажды, когда Посланнику Аллаха ﷺ доставили деньги (или: пленных), он разделил это, дав что-то одним людям и ничего не дав другим. А (потом) до него дошло, что те, кому он ничего не дал, упрекают (его), и тогда он воздал хвалу Аллаху, возблагодарил Его, а потом сказал: «А затем, клянусь Аллахом, я действительно даю (что-то одному)человеку и обделяю другого, однако обделяемого мной я люблю больше того, кому даю! Даю же я (что-то таким) людям, в сердцах которых вижу недостаток терпения и беспокойство, иных же я вверяю богатству и благу, вложенным Аллахом в сердца их, и среди них — ‘Амр бин Таглиб». \n(‘Амр бин Таглиб, да будет доволен им Аллах, сказал):«И, клянусь Аллахом, я не променял бы эти слова Посланника Аллаха ﷺ даже на красных верблюдов!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>923</td></tr><tr><td>Arabic No</td><td>923</td></tr><tr><td>Reference</td><td>Book 11 Hadith 47</td></tr></tbody></table></div>
 

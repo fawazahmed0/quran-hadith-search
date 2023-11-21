@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Five (great events) have passed: the Smoke, the Moon, the Rom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Muslim] dari [Masruq] dia berkata; ['Abdullah] berkata; "Lima (tanda-tanda) telah terjadi: kabut, terbelahnya bulan, (kemenangan) atas Romawi hantaman keras, dan adzab. karena itu kelak (azab) pasti menimpamu. (Al Furqan:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4767</td></tr><tr><td>Arabic No</td><td>4767</td></tr><tr><td>Reference</td><td>Book 65 Hadith 289</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Пять событий уже произошли, и это: дым (упомянутый в суре “ад-Духан”), (раскол) луны, (победа) римлян, хватка (в день Бадра) и неизбежность: “…и теперь будет это [наказание] для вас неизбежно [обязательно]”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4767</td></tr><tr><td>Arabic No</td><td>4767</td></tr><tr><td>Reference</td><td>Book 65 Hadith 289</td></tr></tbody></table></div>
 

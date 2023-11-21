@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) lashed a drunk with dateleaf stalks and shoes. A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qotadah] dari [Anas], dia menuturkan; Nabi shallallahu 'alaihi wasallam menjilid peminum khamer dengan pelepah kurma dan sandal, dan Abu Bakar menjilid sebanyak empat puluh kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6776</td></tr><tr><td>Arabic No</td><td>6776</td></tr><tr><td>Reference</td><td>Book 86 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Пророк ﷺ приказал побить за употребление спиртного пальмовыми ветками и сандалиями. И Абу Бакр наказывал за это сорока ударами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6776</td></tr><tr><td>Arabic No</td><td>6776</td></tr><tr><td>Reference</td><td>Book 86 Hadith 5</td></tr></tbody></table></div>
 

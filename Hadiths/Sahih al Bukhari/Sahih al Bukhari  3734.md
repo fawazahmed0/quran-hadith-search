@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Dinar:One day Ibn 'Umar, while in the Mosque, looked at a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Al Hasan bin Muhammad] telah bercerita kepada kami [Abu 'Abbad bin 'Abbad] telah bercerita kepada kami [Al Majisyun] telah mengabarkan kepada kami ['Abdullah bin Dinar] berkata; " [Ibnu 'Umar] radliallahu 'anhuma pada suatu hari ketika dia berada di masjid melihat seorang laki-laki menjulurkan pakaiannya di sebuah sudut masjid lalu dia berkata; "Lihat, siapakah orang ini?. Mungkin orang ini dekat denganku". Seseorang berkata kepadanya; "Apakah engkau tidak mengenal orang ini, wahai Abu Abdur Rahman?. Dia adalah Muhammad bin Usamah". Perawi (Ibnu Dinar) berkata; "Maka Ibnu 'Umar menundukkan kepala dan memukul-mukulkan tangannya ke tanah kemudian berkata; "Seandainya Rasulullah melihatnya tentu beliau mencintainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3734</td></tr><tr><td>Arabic No</td><td>3734</td></tr><tr><td>Reference</td><td>Book 62 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Динар сказал: «Однажды, находясь в мечети, Ибн ‘Умар, увидел человека, который волочил свою одежду, в одной из частей мечети, он сказал: “Посмотрите, кто это. Было бы хорошо, если он приблизился ко мне”. Один человек сказал: “Разве ты не знаешь его, о Абу ‘Абдуррахман? Это же Мухаммад ибн Усама”. Тогда Ибн ‘Умар склонил голову, ударил руками по земле и сказал: “Если бы Посланник Аллаха ﷺ увидел его, он непременно полюбил бы его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3734</td></tr><tr><td>Arabic No</td><td>3734</td></tr><tr><td>Reference</td><td>Book 62 Hadith 81</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "The heart of an ol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Abu Shufwan Abdullah bin Sa'id] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] radliallahu 'anhu berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Hati orang tua masih tetap berjiwa muda dalam dua perkara, yaitu; mencintai dunia dan panjang angan-angan." [Al Laits] mengatakan; telah menceritakan kepadaku [Yunus] dan [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Sa'id] dan [Abu Salamah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6420</td></tr><tr><td>Arabic No</td><td>6420</td></tr><tr><td>Reference</td><td>Book 81 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Сердце старика продолжает оставаться молодым в двух (отношениях): в том, что касается любви к миру этому, и (в том, что касается) больших надежд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6420</td></tr><tr><td>Arabic No</td><td>6420</td></tr><tr><td>Reference</td><td>Book 81 Hadith 9</td></tr></tbody></table></div>
 

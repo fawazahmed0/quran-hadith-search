@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit:that he heard Anas saying, "A woman came to the Prophet (ﷺ) of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Marhum] saya mendengar [Tsabit] bahwa dia mendengar [Anas] radliallahu 'anhu berkata; "Seorang wanita datang kepada Nabi shallallahu 'alaihi wasallam menawarkan dirinya, katanya; "Apakah engkau membutuhkanku?" maka anak perempuan (Anas bin Malik) berkata; "Alangkah sedikit malunya perempuan itu." Anas bin Malik berkata; "Ia lebih baik darimu, dia tawarkan dirinya kepada Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6123</td></tr><tr><td>Arabic No</td><td>6123</td></tr><tr><td>Reference</td><td>Book 78 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сабит рассказывал: «Однажды я был с Анасом, (когда с ним была его дочь), и он рассказывал, что как-то одна женщина пришла к Пророку ﷺ, предлагая ему себя (в жёны), и сказала: “У тебя есть нужда во мне?” На это дочь Анаса сказала: “Как же мало было в ней скромности”. Тогда Анас сказал ей: “Она была лучше тебя! Она предложила себя Посланнику Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6123</td></tr><tr><td>Arabic No</td><td>6123</td></tr><tr><td>Reference</td><td>Book 78 Hadith 150</td></tr></tbody></table></div>
 

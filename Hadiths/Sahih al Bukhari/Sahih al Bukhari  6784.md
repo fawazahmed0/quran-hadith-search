@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:We were with the Prophet (ﷺ) in a gathering and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Ibnu Uyainah] dari [Az Zuhri] dari [Abu Idris Al Khaulani] dari [Ubadah bin Ash Shamit] radliallahu 'anhu mengatakan; kami disisi Nabi shallallahu 'alaihi wasallam di sebuah majlis, beliau bersabda: "Berbaiatlah kalian kepadaku untuk tidak menyekutukan Allah dengan sesuatu apapun, tidak mencuri, tidak berzinah, " beliau membacakan ayat ini semuanya, "maka siapa diantara kalian yang menunaikannya maka pahalanya dari Allah, dan barangsiapa yang melanggarnya kemudian dihukum, maka hukuman itu sebagai penebus dosanya, dan barangsiapa yang melanggarnya kemudian Allah menutupinya, maka Allah akan mengampuni jika Dia berkehendak, dan Allah akan menyiksanya, jika berkehendak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6784</td></tr><tr><td>Arabic No</td><td>6784</td></tr><tr><td>Reference</td><td>Book 86 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «Однажды, когда мы были вместе с Пророком ﷺ, он сказал: “Поклянитесь мне в том, что не станете поклоняться наряду с Аллахом ничему и не станете воровать и прелюбодействовать”. Затем он прочитал аят, (касающийся женщин) полностью. Затем он сказал: “Кто из вас будет верен этому, тот получит награду от Аллаха. А кто совершит какой-либо из этих (грехов) и будет наказан в мире этом за это, для того это наказание станет искуплением. Если же кто-то совершит какой-либо из этих (грехов), а Аллах покроет его (грех), (то его участь будет зависеть от Аллаха): если Он пожелает, то простит его, а если пожелает, то накажет его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6784</td></tr><tr><td>Arabic No</td><td>6784</td></tr><tr><td>Reference</td><td>Book 86 Hadith 13</td></tr></tbody></table></div>
 

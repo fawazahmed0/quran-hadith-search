@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "Everyone of you is a guard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Abdullah] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Setiap kalian adalah pemimpin, dan setiap kalain akan dimintai pertanggungjawabannya. Seorang laki-laki adalah pemimpin atas keluarganya dan ia akan dimintai pertanggungjawabannya. Seorang wanita adalah pemimpin atas rumah suaminya, dan ia pun akan dimintai pertanggungjawabannya. Dan seorang budak juga pemimpin atas atas harta tuannya dan ia juga akan dimintai pertanggungjawabannya. Sungguh setiap kalain adalah pemimpin dan setiap kalian akan dimintai pertanggungjawabannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5188</td></tr><tr><td>Arabic No</td><td>5188</td></tr><tr><td>Reference</td><td>Book 67 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, что Пророк ﷺ сказал: «Каждый из вас является пастырем, и каждый из вас несет ответственность (за свою паству). Правитель является пастырем (для своих подданных) и несёт ответственность (за свою паству), мужчина является пастырем для своей семьи и несёт ответственность (за свою паству), женщина является пастырем в доме своего мужа и несёт ответственность (за свою паству), слуга является пастырем для имущества своего хозяина и несёт ответственность (за свою паству), и так, каждый из вас является пастырем и (каждый из вас) несёт ответственность (за свою паству)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5188</td></tr><tr><td>Arabic No</td><td>5188</td></tr><tr><td>Reference</td><td>Book 67 Hadith 122</td></tr></tbody></table></div>
 

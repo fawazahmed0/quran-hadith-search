@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada:My father said, "While we were praying with th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya] ia berkata, "Ketika kami shalat bersama Nabi shallallahu 'alaihi wasallam, beliau mendengar suara gaduh orang-orang. Maka setelah selesai, beliau bertanya: "Ada apa dengan kalian?" Mereka menjawab, "Kami tergesa-gesa mendatangi shalat." Beliau pun bersabda: "Janganlah kalian berbuat seperti itu. Jika kalian mendatangi shalat maka datanglah dengan tenang, apa yang kalian dapatkan dari shalat maka ikutilah, dan apa yang kalian tertinggal maka sempurnakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>635</td></tr><tr><td>Arabic No</td><td>635</td></tr><tr><td>Reference</td><td>Book 10 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада, да будет доволен им Аллах, сказал: «(Однажды,) когда мы совершали молитву вместе с Пророком ﷺ, он услышал (позади себя) шум и крики людей. Закончив молиться, (Пророк ﷺ) спросил: “В чём дело?” Они ответили: “Мы спешили на молитву”. Тогда он сказал: “(Впредь) не делайте так! Когда идёте на молитву, вам следует вести себя тихо. Совершите (вместе со всеми ту часть) молитвы, на которую вы успели, а то, что вы пропустили (из молитвы) восполняйте (самостоятельно)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>635</td></tr><tr><td>Arabic No</td><td>635</td></tr><tr><td>Reference</td><td>Book 10 Hadith 32</td></tr></tbody></table></div>
 

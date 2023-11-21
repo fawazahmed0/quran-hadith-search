@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hummam reported:Jarir urinated, then performed ablution and wiped over the socks
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya al-Tamimi] dan [Ishaq bin Ibrahim] serta [Abu Kuraib] semuanya dari [Abu Muawiyah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki'] dan lafazh tersebut milik Yahya, dia berkata, telah mengabarkan kepada kami [Abu Mu'awiyah] dari [al-A' masy] dari [Ibrahim] dari [Hammam] dia berkata, "Suatu ketika [Jarir] kencing kemudian berwudlu dengan menyapu sepasang khufnya. Lalu Jarir ditegur, 'Begini kamu lakukan? ' Jarir menjawab, "Ya, aku pernah melihat Rasulullah shallallahu 'alaihi wasallam kencing, kemudian berwudlu dan menyapu sepasang khuf beliau." [Al-A'masy] berkata, [Ibrahim] berkata, "Hadits ini membuat kaget mereka, sebab keIslaman Jarir terjadi setelah turunnya surat al-Maidah." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khasyram] keduanya berkata, telah mengabarkan kepada kami [Isa bin Yunus]. (dalam riwayat lain disebutkan) Dan telah mengabarkan kepada kami [Muhammad bin Abu Umar] dia berkata, telah menceritakan kepada kami [Sufyan]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Minjab bin al-Harits at-Tamimi] telah mengabarkan kepada kami [Ibnu Mushir] setiap mereka dari [al-A'masy] dalam sanad ini dengan makna hadits Abu Muawiyah, hanya saja dalam hadits Isa dan Sufyan dia berkata, "Sahabat Abdullah dibuat kaget oleh hadits ini karena keIslaman Jarir setelah turunnya surat al-Ma'idah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>622</td></tr><tr><td>Arabic No</td><td>272.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаммам сказал: «(Однажды) Джарир справил малую нужду, а затем совершил омовение и обтёр кожаные носки /хуффайн/. Его спросили: “Ты делаешь это?” (В ответ) он сказал: “Да! Я видел, как (однажды) Посланник Аллаха ﷺ справил малую нужду, затем совершил омовение и (при этом) обтёр свои кожаные носки”».Аль-А‘маш передал, что Ибрахим сказал: «Они дивились этому хадису, поскольку Джарир принял ислам после ниспослания суры “аль-Маида”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>622</td></tr><tr><td>Arabic No</td><td>272.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 89</td></tr></tbody></table></div>
 

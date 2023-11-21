@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:'Umar saw a silk suit being sold, so he said, "O Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dia berkata; telah menceritakan kepadaku [Juwairiyah] dari [Nafi'] dari [Abdullah] bahwa Umar radliallahu 'anhu pernah melihat sejenis mantel yang bersulam sutera dijual, lalu dia berkata; "Wahai Rasulullah, andaikan baginda mau membelinya dan memakainya untuk menemui para utusan ketika berkunjung menemui anda atau untuk dikenakan waktu shalat Jum'at." Beliau lalu bersabda: "Yang memakai pakaian ini hanyalah mereka yang tidak mendapatkan bagian di akhirat." Hari berikutnya beliau memberi Umar sejenis mantel yang terbuat dari sutera, Umar pun protes; "Wahai Rasulullah! Anda memberikannya kepadaku padahal anda berujar tidak boleh memakainya." Beliau menjawab: "Saya memberikan kepadamu bukan untuk dipakai, tetapi agar kamu jual atau kamu berikan kepada istrimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5841</td></tr><tr><td>Arabic No</td><td>5841</td></tr><tr><td>Reference</td><td>Book 77 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Однажды ‘Умар, да будет доволен им Аллах, увидев, как один человек продаёт одежду с полосками шёлка, сказал (Пророку ﷺ): “О Посланник Аллаха, было бы хорошо, чтобы ты купил эту (одежду) и надевал её в тех случаях, когда к тебе прибывают делегации, а также по пятницам”. (На это) Посланник Аллаха ﷺ сказал: “Такую одежду носит лишь тот, у кого нет доли (в мире вечном)!” Некоторое время спустя Пророк ﷺ отправил ‘Умару в подарок одежду с полосками шёлка. И ‘Умар сказал: “Ты одел меня в эту (одежду), хотя я слышал то, что ты сказал о ней?!” (На это) Посланник Аллаха ﷺ сказал: “Я отправил тебе её только для того, чтобы ты продал её или подарил (кому-нибудь)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5841</td></tr><tr><td>Arabic No</td><td>5841</td></tr><tr><td>Reference</td><td>Book 77 Hadith 58</td></tr></tbody></table></div>
 

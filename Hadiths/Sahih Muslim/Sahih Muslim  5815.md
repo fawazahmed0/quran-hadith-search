@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Mu'awiya b. Hakam as-Sulami th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah bin Yahya] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb] Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdur Rahman bin 'Auf] dari [Mu'awiyah bin Al Hakam As Sulami] dia berkata; "Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam; 'Ya, Rasulullah! Ada beberapa perkara yang kami lakukan pada masa jahiliyah, di antaranya kami biasa mendatangi tukang tenung, Bagaimana itu?" Jawab beliau: 'Jangan! Jangan datangi lagi tukang tenung itu.' Mu'awiyah bertanya lagi; 'Kami juga percaya kepada suara burung sebagai pertanda jahat atau baik. Rasulullah shallallahu 'alaihi wasallam menjawab: 'Yang demikian itu hanyalah dugaan belaka. Maka janganlah hal itu sampai menghalangi urusanmu.' Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepadaku [Hujain] yaitu Ibnu Al Mutsanna; Telah menceritakan kepada kami [Al Laits] dari ['Uqail]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abad bin Humaid] keduanya berkata; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Syababah bin Sawwar]; Telah menceritakan kepada kami [Ibnu Abu Dzi'b]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah mengabarkan kepada kami [Ishaq bin 'Isa]; Telah mengabarkan kepada kami [Malik] seluruhnya dari [Az Zuhri] melalui jalur ini, yang serupa dengan makna Hadits Yunus. Kecuali Malik, dia menyebutkan di dalam Haditsnya tentang Tathayyur (burung) dan tidak menyebutkan tentang tukang tenung. Dan telah menceritakan kepada kami [Muhammad bin Ash Shabbah] dan [Abu Bakr bin Abu Syaibah] keduanya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu 'Ulayyah dari [Hajjaj Ash Shawwaf]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Isa bin Yunus]; Telah menceritakan kepada kami [Al Auza'i] keduanya dari [Yahya bin Abu Katsir] dari [Hilal bin Abu Maimunah] dari ['Atha bin Yasar] dari [Mu'awiyah bin Al Hakam As Sulami] dari Nabi shallallahu 'alaihi wasallam yang semakna dengan Hadits Az Zuhri dari Abu Salamah dari Mu'awiyah. Dan di dalam Hadits Yahya bin Abu Katsir ada tambahan, dia berkata; Dan di antara kami ada beberapa orang yang biasa membuat garis untuk mengetahui sesuatu? Rasulullah Shallalahu 'alaihi wa sallam bersabda: "Dulu juga ada seorang nabi yang membuat garis, barangsiapa yang garisnya sama dengan garis itu maka itulah yang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5815</td></tr><tr><td>Arabic No</td><td>537.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5815</td></tr><tr><td>Arabic No</td><td>537.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 167</td></tr></tbody></table></div>
 

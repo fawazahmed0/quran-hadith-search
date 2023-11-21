@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-khudrî (que Dieu l'agrée), l'Envoyé de Dieu (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [al-Hakam] dari [Dzakwan] dari [Abu Said al-Khudri] bahwa Rasulullah Shallallahu'alaihiwasallam pernah melalui sebuah rumah seorang Sahabat dari Anshar. Kemudian beliau menyuruh seseorang untuk memanggilnya. Lalu sahabat tadi keluar dalam keadaan kepalanya meneteskan (air keringat). Beliau bersabda, "Barangkali kami yang membuat kamu tergesa-gesa." Sahabat itu menjawab, "Benar, wahai Rasulullah." Beliau bersabda, "Apabila kamu tergesa-gesa atau kamu tidak mengeluarkan mani semasa mengauli isteri maka kamu tidak perlu mandi. Kamu hanya wajib berwudhu." Ibnu Basysyar berkata dengan redaksi, "Apabila kamu tergesa-gesa atau kamu tidak mengeluarkan mani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>778</td></tr><tr><td>Arabic No</td><td>345</td></tr><tr><td>Reference</td><td>Book 3 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что как-то раз Посланник Аллаха ﷺ послал за одним человеком из числа ансаров, и когда он явился, (мы увидели, что) с головы его стекают капли воды. Пророк ﷺ сказал: «Очевидно, мы заставили тебя поторопиться». Тот сказал: «Да, о Посланник Аллаха». Тогда Посланник Аллаха ﷺ сказал: «Если тебя поторопили или же ты не испустил семя (во время сношения), тебе не нужно совершать полное омовение /гусль/, тебе следует совершить малое омовение /вудуъ/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>778</td></tr><tr><td>Arabic No</td><td>345</td></tr><tr><td>Reference</td><td>Book 3 Hadith 100</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Iyas reported on the authority of his father:I (had the honour of) leading the w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Ar Rumi Al Yamami] dan ['Abbas bin 'Abdul 'Azhim Al 'Anbari] keduanya berkata; Telah menceritakan kepada kami [An Nadhr bin Muhammad]; Telah menceritakan kepada kami ['Ikrimah] yaitu Ibnu 'Ammar; Telah menceritakan kepada kami [Iyas] dari [Bapaknya] dia berkata; "Aku menuntun bighal (hewan hasil peranakan antara kuda dengan keledai) milik Nabi yang berambut putih dan hitam yang sedang ditunggangi oleh beliau, Hasan dan juga Husain, lalu aku memasukkan mereka ke kamar Nabi shallallahu 'alaihi wasallam. Ini bagian mukanya dan ini bagian belakangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6260</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 44 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6260</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 44 Hadith 90</td></tr></tbody></table></div>
 

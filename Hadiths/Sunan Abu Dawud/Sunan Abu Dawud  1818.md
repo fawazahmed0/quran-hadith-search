@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asma' bint AbuBakr: We came out for performing hajj along with the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada Kami [Ahmad bin Hanbal], ia berkata; …. dan diriwayatkan dari jalur yang lain: telah menceritakan kepada Kami [Muhammad bin Abdul Aziz bin Abu Rizmah], telah mengabarkan kepada Kami [Abdullah bin Idris], telah mengabarkan kepada Kami [Ibnu Ishaq] dari [Yahya bin 'Abbad bin Abdullah bin Az Zubair], dari [ayahnya] dari [Asma' binti Abu Bakr], ia berkata; Kami keluar bersama Rasulullah shallla Allahu 'alaihi wa sallam untuk melaksanakan haji, hingga ketika Kami sampai di 'Arj, Rasulullah shallallahu 'alaihi wasallam singgah dan Kami pun singgah, dan Aisyah radliallahu 'anha duduk disisi Rasulullah shallla Allahu 'alaihi wa sallam dan aku duduk di sisi bapakku. Kendaraan yang membawa perbekalan Abu Bakar dan perbekalan Rasulullah shallla Allahu 'alaihi wa sallam satu bersama budak Abu Bakr. Abu Bakr duduk sambil menunggu budak tersebut muncul, lalu budak tersebut muncul, namun ia tidak membawa untanya. Abu Bakr bekata; dimanakah untamu? Budak tersebut menjawab: hilang, tadi malam. Abu Bakar berkata: unta satu engkau hilangkan! Abu Bakr memukulnya sementara Rasulullah shallla Allahu 'alaihi wa sallam hanya tersenyum seraya berkata: "Lihatlah apa yang dilakukan orang yang sedang berihram ini!" Ibnu Abu Rizmah berkata: dan Rasulullah shallallahu 'alaihi wasallam tidak lebih dari mengatakan: "Lihatlah apa yang dilakukan orang yang sedang berihram ini!" sambil tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1818</td></tr><tr><td>Arabic No</td><td>1818</td></tr><tr><td>Reference</td><td>Book 11 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Асма бинт Абу Бакр, да будет доволен Аллах ею и её отцом, рассказывает: «Мы отправились совершать паломничество вместе с Посланником Аллаха ﷺ. Когда Посланник Аллаха ﷺ остановился на привал в аль-‘Арадже, ‘Аиша села рядом с ним, а я села рядом с отцом. А вьючная верблюдица у Абу Бакра и Посланника Аллаха ﷺ была одна, и её вёл слуга Абу Бакра. Абу Бакр сел и ждал, когда тот придёт. Но когда слуга появился, верблюдицы с ним не было. Абу Бакр спросил: “Где твой верблюд?” Слуга ответил: “Я его потерял”. Абу Бакр воскликнул: “Всего один верблюд, и ты умудрился его потерять?!” И он накинулся на него и поколотил, а Посланник Аллаха ﷺ наблюдавший за ним с улыбкой, сказал: “Посмотрите, что вытворяет этот паломник, облачённый в ихрам!”» Ибн Абу Ризма сказал: «И Посланник Аллаха ﷺ ограничился тем, что сказал с улыбкой: “Посмотрите на этого облачённого в ихрам что он творит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1818</td></tr><tr><td>Arabic No</td><td>1818</td></tr><tr><td>Reference</td><td>Book 11 Hadith 98</td></tr></tbody></table></div>
 

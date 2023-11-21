@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa bin Al-Yaman:The people used to ask Allah's Messenger (ﷺ) ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Ibnu Jabir] telah menceritakan kepadaku [Busr bin Ubaidullah Al Khadrami], ia mendengar [Abu Idris alkhaulani], ia mendengar [Khudzaifah Ibnul yaman] mengatakan; Orang-orang bertanya Rasulullah Shallallahu'alaihiwasallam tentang kebaikan sedang aku bertanya beliau tentang keburukan karena khawatir jangan-jangan aku terkena keburukan itu sendiri. Maka aku bertanya 'Hai Rasulullah, dahulu kami dalam kejahiliyahan dan keburukan, lantas Allah membawa kebaikan ini, maka apakah setelah kebaikan ini ada keburukan lagi? Nabi menjawab 'Tentu'. Saya bertanya 'Apakah sesudah keburukan itu ada kebaikan lagi? 'Tentu' Jawab beliau, dan ketika itu ada kotoran, kekurangan dan perselisihan. Saya bertanya 'Apa yang anda maksud kotoran, kekurangan dan perselisihan itu? Nabi menjawab 'Yaitu sebuah kaum yang menanamkan pedoman bukan dengan pedomanku, engkau kenal mereka namun pada saat yang sama engkau juga mengingkarinya. Saya bertanya 'Adakah steelah kebaikan itu ada keburukan? Nabi menjawab 'O iya,,,,, ketika itu ada penyeru-penyeru menuju pintu jahannam, siapa yang memenuhi seruan mereka, mereka akan menghempaskan orang itu ke pintu-pintu itu. Aku bertanya 'Ya Rasulullah, tolong beritahukanlah kami tentang ciri-ciri mereka! Nabi menjawab; Mereka adalah seperti kulit kita ini, juga berbicara dengan bahasa kita. Saya bertanya 'Lantas apa yang anda perintahkan kepada kami ketika kami menemui hari-hari seperti itu? Nabi menjawab; Hendaklah kamu selalu bersama jamaah muslimin dan imam mereka! Aku bertanya; kalau tidak ada jamaah muslimin dan imam bagaimana? Nabi menjawab; hendaklah kau jauhi seluruh firqah (kelompok-kelompok) itu, sekalipun kau gigit akar-akar pohon hingga kematian merenggutmu kamu harus tetap seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7084</td></tr><tr><td>Arabic No</td><td>7084</td></tr><tr><td>Reference</td><td>Book 92 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа ибн аль-Яман, да будет доволен им Аллах, рассказывал: «Обычно люди спрашивали Посланника Аллаха ﷺ о благом, я же спрашивал его о плохом, опасаясь, что оно постигнет меня. Я сказал: “О Посланник Аллаха, поистине, мы пребывали в невежестве и во зле, а потом Аллах даровал нам благо, но придёт ли после этого блага зло?” Он сказал: “Да”. Тогда я спросил: “А будет ли после этого зла благо?‘” Он сказал: “Да, но к нему будет примешано и зло”. Я спросил: “В чём же это будет заключаться?” Он сказал: “Появятся люди, которые станут руководить другими не так, как это делаю я. Некоторые их дела вы одобрите, а некоторые - нет”. Я спросил: “А придёт ли после этого блага другое зло?” Он сказал: “Да, призывающие людей к вратам Ада, и того, кто ответит на их призыв, они бросят в Ад”. Я попросил: “О Посланник Аллаха, опиши их нам”. Он сказал: “Они будут из нашей среды и будут разговаривать на нашем языке”. Я спросил: “Что же ты велишь мне делать, если я доживу до этого?” Он сказал: “Не расставайся с общиной мусульман и их правителем”. Я спросил: “А если у мусульман не будет ни общины, ни правителя?” Он сказал: “Тогда сторонись всех этих групп, даже если придётся тебе для этого вцепиться зубами в корни деревьев, и пусть смерть застанет тебя в таком положении!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7084</td></tr><tr><td>Arabic No</td><td>7084</td></tr><tr><td>Reference</td><td>Book 92 Hadith 35</td></tr></tbody></table></div>
 

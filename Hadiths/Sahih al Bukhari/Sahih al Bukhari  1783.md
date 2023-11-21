@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:We set out along with Allah's Messenger (ﷺ) shortly before the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada [Abu Mu'awiyah] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha]: "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam tepat pada hilal (awal) bulan Dzul Hijjah. Beliau berkata kepada kami: "Barangsiapa dari kalian yang suka berihram untuk haji, lakukanlah ihramnya untuk haji dan siapa dari kalian yang suka berihram untuk 'umrah, lakukanlah ihramnya untuk 'umrah. Seandainya bukan karena aku telah membawa hewan qurban tentu aku akan berihram untuk 'umrah". 'Aisyah radliallahu 'anha berkata; "Maka diantara kami ada yang berihram untuk 'umrah dan ada yang berihram untuk haji dan aku termasuk orang yang berihram untuk 'umrah". Kemudian hari 'Arafah menaungi aku saat aku mengalami haidh. Kemudian hal ini aku adukan kepada Nabi shallallahu 'alaihi wasallam. Maka Beliau berkata: "Tinggalkanlah 'umrahmu dan uraikanlah rambut kepalamu dan sisirlah lalu berihramlah untuk haji". Ketika pada malam Al Hashabah (untuk melempar jumrah di Mina), Beliau mengutus 'Abdurrahman bersamaku menuju At-Tan'im. Maka aku berihram untuk 'umrah sebagai pengganti 'umrahku sebelumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1783</td></tr><tr><td>Arabic No</td><td>1783</td></tr><tr><td>Reference</td><td>Book 26 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам передал со слов своего отца о том, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мы отправились в путь вместе с посланником Аллаха ﷺ перед самым началом месяца зуль-хиджжа. И он сказал нам: “Кто желает совершить хадж, пусть произносит тальбию для хаджа, а кто желает совершить ‘умру, пусть произносит тальбию для ‘умры, и если бы я не гнал жертвенный скот, я бы произнёс тальбию для ‘умры”. И я была среди тех, кто произнёс тальбию для ‘умры, однако, когда приблизился день стояния на Арафате у меня началась менструация, и я пожаловалась об этом Пророку ﷺ и он сказал: “Оставь свою ‘умру, распусти и расчеши волосы и произнеси тальбию для хаджа”. Когда наступила ночь Хасбы, он послал ‘Абдуррахмана со мной в ат-Тан‘им, и я произнесла тальбию для совершения ‘умры вместо той, пропущенной ‘умры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1783</td></tr><tr><td>Arabic No</td><td>1783</td></tr><tr><td>Reference</td><td>Book 26 Hadith 10</td></tr></tbody></table></div>
 

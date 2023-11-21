@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Minhal:When Ibn Ziyad and Marwan were in Sham and Ibn Az-Zubair 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Syihab] dari ['Auf] dari [Abu Minhal] mengatakan, tatkala Ibnu Ziyad dan Marwan di Syam, dan Ibnu Zubair membelot di Makkah, dan Al qurra' membelot di Bashrah, Aku berangkat bersama ayahku ke [Abu Barzah Al Aslami] hingga kami menemuinya di rumahnya sedang duduk di tempat tinggi yang terbuat dari kayu, kami pun duduk bersamanya, ayahku lantas meminta petuah-petuah Hadits seraya mengatakan; 'Wahai Abu Barzah, bukankah telah kau lihat sendiri kemelut yang melanda manusia? ' yang pertama-tama kudengar dari yang diucapkannya ialah; 'Saya semata-mata mengharap pahala disisi Allah, sungguh saya sangat marah kepada orang quraisy, sesungguhnya kalian wahai segenap bangsa arab, dahulu keadaan kalian seperti telah kau kenal sendiri sedemikian hina, minoritas dan sesat, kemudian Allah menyelamatkan kalian dengan Islam dan Muhammad Shallallahu'alaihiwasallam hingga kalian memperoleh seperti yang kalian lihat sendiri. Dan inilah dunia yang merusak diantara kalian. Dan sesungguhnya yang terjadi di Syam, demi Allah, tidaklah mereka berperang selain karena duniawi, dan mereka yang berada ditengah-tengah kalian, demi Allah mereka juga tidak berperang selain karena duniawi, dan mereka yang berada di Makkah, demi Allah, mereka tidak berperang selain karena duniawi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7112</td></tr><tr><td>Arabic No</td><td>7112</td></tr><tr><td>Reference</td><td>Book 92 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-Минхаль рассказывал: «Когда (‘Абдуллах) ибн Зияд и Марван (ибн аль-Хакам) были в Шаме, (‘Абдуллах) ибн аз-Зубейр взял власть в Мекке, а чтецы (т.е. хавариджи) захватили власть в Басре. Я вместе с своим отцом отправился к Абу Барзе аль-Аслями, да будет доволен им Аллах, и мы зашли к нему домой, и застали его сидящим в тени своей комнаты сделанной из тростника. Мы сели рядом с ним, и мой отец завёл с ним беседу, сказав: “О Абу Барза! Разве ты не видишь, в каком состоянии находятся люди?“ И первым, что я услышал от него, были следующие слова: “Поистине, я надеюсь на награду Аллаха за то, что я гневаюсь на племена курайшитов. Поистине, вы, о арабы, были в том положении, о котором вы знаете: вы были унижены, малочисленны и пребывали в заблуждении, и, поистине, Аллах спас вас с помощью ислама и Мухаммада ﷺ так, что Он привёл вас (в состояние величия, многочисленности и прямого руководства), которое вы видите (сейчас). Эта мирская жизнь испортила отношения между вами. Поистине, тот, который в Шаме, клянусь Аллахом, сражается лишь ради мирской жизни. И, поистине, эти, которые находятся среди вас, клянусь Аллахом, сражаются лишь ради мирской жизни. И, поистине, тот, который в Мекке, клянусь Аллахом, сражается лишь ради мирской жизни“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7112</td></tr><tr><td>Arabic No</td><td>7112</td></tr><tr><td>Reference</td><td>Book 92 Hadith 59</td></tr></tbody></table></div>
 

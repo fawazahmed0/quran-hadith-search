@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:offered four rak'at of Zuhr prayer with the Prophet (p.b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Sufyan] dari [Muhammad bin Al Munkadir] dan [Ibrahim bin Maisarah] dari [Anas bin Malik radliallahu 'anhu] berkata: "Aku shalat Zhuhur bersama Nabi shallallahu 'alaihi wasallam di Madinah sebanyak empat raka'at sedangkan ketika di Dzul Hulaifah dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «В Медине я совершил полуденную молитву /зухр/ вместе с Пророком ﷺ в четыре рак‘ата, а в Зуль-Хулейфе в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
 

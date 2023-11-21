@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : "L'Envoyé de Dieu a annoncé la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam memberi kabar gembira kepada Khadijah binti Khuwailid dengan sebuah rumah di surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6276</td></tr><tr><td>Arabic No</td><td>2434</td></tr><tr><td>Reference</td><td>Book 44 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6276</td></tr><tr><td>Arabic No</td><td>2434</td></tr><tr><td>Reference</td><td>Book 44 Hadith 106</td></tr></tbody></table></div>
 

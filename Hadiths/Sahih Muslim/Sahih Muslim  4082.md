@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku bacakanm di hadapan [Malik]; dari [Abdul Majid bin Suhail bin Abdurrahman bin 'Auf] dari [Sa'id bin Musayyab] dari [Abu Sa'id Al Khudri] dan dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengangkat pegawai seseorang di Khaibar, suatu saat dia datang dengan membawa kurma Janib (sejenis kurma yang bermutu tinggi), maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Apakah semua jenis kurma Khaibar seperti ini?" dia menjawab, "Tidak. Demi Allah wahai Rasulullah, kami di sana terbiasa menukar satu sha' kurma seperti ini dengan dua sha', atau dua sha' ditukar dengan tiga sha'." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan lakukan lagi perbuatan seperti ini, jualah semuanya terlebih dahulu dengan dirham, kemudian dengan dirham itu kamu gunakan untuk membeli kurma yang lebih bagus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4082</td></tr><tr><td>Arabic No</td><td>1593.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4082</td></tr><tr><td>Arabic No</td><td>1593.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 121</td></tr></tbody></table></div>
 

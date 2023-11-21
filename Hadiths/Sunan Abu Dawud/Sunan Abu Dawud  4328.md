@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) said one day from the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4328</td></tr><tr><td>Arabic No</td><td>4328</td></tr><tr><td>Reference</td><td>Book 39 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир (ибн ‘Абдуллах, да будет доволен Аллах им и его отцом) передаёт, то Посланник Аллаха ﷺ однажды сказал, стоя на минбаре: «Некие люди плыли по морю, и у них кончилась провизия. Тогда они, увидев остров, высадились на него, желая найти хлеб, и встретили Джассасу». Аль-Валид ибн ‘Абдуллах ибн Джумаййи передаёт: Я спросил Абу Саляму (другого передатчика хадиса): «Джассаса это кто?» Он ответил: «Женщина, тело и голова которой покрыты длинными волосами. Она сказал: “В этом замке...”» B он привёл историю, упомянув также: «И тот человек спросил их о пальмах Байсана и источнике Зугар и сказал, что он Даджжаль». И Ибн Абу Саляма сказал мне: «Однако я запомнил в этом хадисе не всё». Он также сказал: «Джабир засвидетельствовал, что это был Ибн Сайяд. Я сказал ему: “Но ведь Ибн Сайяд умер”. Он сказал: “Даже если он и умер!” Я сказал: “Но ведь он принял ислам!” Он сказал в ответ: “Даже если он принял ислам!” Я сказал: “Но ведь он входил в Медину”. Он сказал в ответ: “Даже если он и входил в Медину!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4328</td></tr><tr><td>Arabic No</td><td>4328</td></tr><tr><td>Reference</td><td>Book 39 Hadith 38</td></tr></tbody></table></div>
 

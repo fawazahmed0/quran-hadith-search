@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:The Prophet (ﷺ) said to me, "Recite (the Qur'an)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Abidah] dari [Abdullah bin Mas'ud] ia berkata; Nabi shallallahu 'alaihi wasallam pernah bersabda kepadaku: "Bacakanlah Al Qur'an untukku." Maka aku pun berkata, "Wahai Rasulullah, apakah aku akan membacanya untuk Anda, padahal kepada Andalah alquran diturunkan?" beliau menjawab: "Ya." Lalu aku pun membacakan surat An Nisa, hingga aku sampai pada ayat: "Dan bagaimanakah sekiranya Kami mendatangkan manusia dari seluruh umat dengan seorang saksi, lalu kami mendatangkanmu sebagai saksi atas mereka." Maka beliau pun bersabda padaku: "Cukuplah." Lalu aku menoleh ke arah beliau dan ternyata kedua matanya meneteskan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5050</td></tr><tr><td>Arabic No</td><td>5050</td></tr><tr><td>Reference</td><td>Book 66 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ велел мне: “Почитай мне (Коран)”. Я сказал: “О Посланник Аллаха! Я буду читать его тебе, когда тебе он был ниспослан?!” — (однако Пророк ﷺ) сказал: “Да”. И я стал читать ему суру “ан-Ниса”, а когда дошёл до (того аята, в котором говорится): “А как же, когда приведём мы от каждой общины свидетеля и приведём тебя как свидетеля против них?!” (сура “ан-Ниса”, аят 41)— он сказал: “Достаточно”, я посмотрел на него (и увидел, что) из глаз (Пророка ﷺ) текут слёзы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5050</td></tr><tr><td>Arabic No</td><td>5050</td></tr><tr><td>Reference</td><td>Book 66 Hadith 74</td></tr></tbody></table></div>
 

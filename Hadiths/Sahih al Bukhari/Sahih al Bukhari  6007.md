@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The one who looks after and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari [Tsaur bin Zaid] dari [Abu Al Ghaits] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang membantu para janda dan orang-orang miskin seperti orang yang berjihad dijalan Allah -aku mengira beliau juga bersabda -(Al Qa'nabi ragu) -: Dan seperti orang yang shalat malam tidak pernah istirahat- dan seperti orang puasa tidak berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6007</td></tr><tr><td>Arabic No</td><td>6007</td></tr><tr><td>Reference</td><td>Book 78 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Пекущийся о вдове и неимущем подобен сражающемуся на пути Аллаха”». \n(Абу Хурайра, да будет доволен им Аллах, сказал): «И я считаю, что он сказал: “… и он подобен тому, кто молится по ночам без устали и не разговляясь соблюдает пост”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6007</td></tr><tr><td>Arabic No</td><td>6007</td></tr><tr><td>Reference</td><td>Book 78 Hadith 38</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra:I heard 'Aisha saying, "When the news of the martyrdom of Ibn Har
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Abdul Wahhab] Katanya, kudengar [Yahya bin Said] mengatakan, telah mengabarkan kepadaku ['Amrah] katanya, aku mendengar [Aisyah] radliallahu 'anha mengatakan, ketika datang berita kematian Zaid bin Haritsah, Ja'far bin Abu Thalib dan Abdullah bin Rawahah radliallahu 'anhum, Rasulullah shallallahu 'alaihi wasallam duduk dan nampak tanda kesedihan. Kata Aisyah, dan aku mengintip dari lubang pintu, kemudian ada seseorang datang dan berujar; "Wahai Rasulullah, isteri-isteri Ja'far, -laki-laki tadi lantas menceritakan tangis mereka-, maka beliau suruh orang tadi untuk melarang mereka. Kata Ibnu Said, si laki-laki lantas pergi, kemudian datang lagi dengan mengatakan; "Telah kularang mereka", lalu ia ceritakan kepada beliau bahwa isteri-isterinya tidak menaatinya dan berujar; "Demi Allah, wanita-wanita itu telah membuat saya kewalahan. Kata Aisyah, sepertinya Rasulullah shallallahu 'alaihi wasallam berujar: "Kalau begitu, taburkan tanah di mulut mereka." Kata Aisyah, saya katakan; "Kiranya Allah yang justru menaburimu tanah -kalimat ini untuk penghinaan atau sindirian atas ketidakbecusan seseorang tadi-, demi Allah, kamu belum melakukannya dengan baik, dan kamu belum mengentaskan Rasulullah shallallahu 'alaihi wasallam dari tugasnya yang berat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4263</td></tr><tr><td>Arabic No</td><td>4263</td></tr><tr><td>Reference</td><td>Book 64 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Узнав о гибели Ибн Харисы, Джа‘фара ибн Аби Талиба и ’Абдуллаха ибн Равахи, Посланник Аллаха ﷺ сел, и по нему было заметно, что он глубоко опечален, а я в это время смотрела на него через щель в двери. (Через некоторое время) к нему пришёл какой-то человек и сказал: “О Посланник Аллаха, поистине, женщины Джа‘фара…”, (после чего) упомянул о том, что они громко плачут. (Пророк ﷺ) велел ему запретить им делать это, и тот ушёл, но потом снова вернулся к нему и сказал, что они его не послушались. (Пророк ﷺ снова) сказал: “Запрети им!” — однако (этот человек) в третий раз вернулся к нему и сказал: “Клянусь Аллахом, они одолели нас (мы не смогли остановить их)!”».\nИ (‘Аиша) утверждала, что на это (Пророк ﷺ) сказал: «Тогда набей им рты землёй!» Тогда я сказала: «Да покроет Аллах твой нос пылью (унизив)! Клянусь Аллахом, ты не сделал то, что тебе было велено, и не избавил Посланника Аллаха ﷺ от усталости!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4263</td></tr><tr><td>Arabic No</td><td>4263</td></tr><tr><td>Reference</td><td>Book 64 Hadith 297</td></tr></tbody></table></div>
 

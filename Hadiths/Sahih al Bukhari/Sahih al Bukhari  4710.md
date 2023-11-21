@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "When the Quraish disbeliev
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] Telah menceritakan kepada kami [Ibnu Wahb] dia berkata; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab], [Abu Usamah] berkata; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Ketika orang-orang Quraisy mendustakan perjalananku ke Baitil Maqdis, saya berdiri di Hijr Isma'il, lalu Allah menampakkan Baitul Maqdis kepadaku hingga saya memberi tahu kepada mereka tentang tanda-tandanya, dan saya dapat melihatnya." [Ya'qub bin Ibrahim] menambahkan; Telah menceritakan kepada kami [anak saudaraku yaitu Ibnu Syihab] dari [pamannya]; Tatkala orang-orang Quraisy mendustakanku pada hari aku diisra'kan ke baitul maqdis -dengan Hadits yang serupa. Arti Qashifan, (Al Isra: 69), yaitu angin yang menghancurkan segala sesuatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4710</td></tr><tr><td>Arabic No</td><td>4710</td></tr><tr><td>Reference</td><td>Book 65 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что он слышал, как Пророк ﷺ сказал: «После того как курайшиты объявили мои слова ложью, я встал в аль-Хиджре, и Аллах показал мне Иерусалим, а я начал описывать им приметы (города), рассматривая его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4710</td></tr><tr><td>Arabic No</td><td>4710</td></tr><tr><td>Reference</td><td>Book 65 Hadith 232</td></tr></tbody></table></div>
 

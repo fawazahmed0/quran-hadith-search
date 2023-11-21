@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:'Abdullah bin 'Amr bin Haram died and was in debt to others. I as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Jarir] dari [Mughirah] dari [Asy-Sya'biy] dari [Jabir radliallahu 'anhu] berkata; 'Abdullah bin 'Amru in Haram wafat dengan meninggalkan hutang lalu aku meminta tolong kepada Nabi shallallahu 'alaihi wasallam untuk meminta para piutangnya agar mereka mau membebaskan hutang tersebut. Maka Nabi shallallahu 'alaihi wasallam meminta kepada mereka namun mereka tidak mengabulkannya. Maka Nabi shallallahu 'alaihi wasallam berkata, kepadaku: "Pergilah dan pisahkan kurmamu sesuai jenisnya, kurma jenis 'ajwah dipisahkan, kurma jenis 'Adzq zaid tolong pisahkan, lalu kirimlah kepadaku". Kemudian aku melaksanakan lalu aku kirim kepada Nabi shallallahu 'alaihi wasallam. Maka Beliau datang lalu duduk diatasnya atau di tengahnya kemudian berkata: "Timbanglah untuk orang-orang". Maka akupun menimbangnya hingga aku tunaikan apa yang menjadi hak mereka dan yang tinggal adalah kurma milikku dan seolah tidak ada yang kurang sedikitpun dari kurma-kurna tersebut". Dan berkata, [Firas] dari [Asy-Sya'biy] telah menceritakan kepada saya [Jabir] dari Nabi shallallahu 'alaihi wasallam: "Dan senantiasa Beliau terus menimbang kurma tersebut untuk masyarakat hingga selesai". Dan berkata, [Hisyam] dari [Wahab] dari [Jabir] bahwa Nabi shallallahu 'alaihi wasallam berkata: "Potonglah tangkainya buat dia lalu genapkanlah timbangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2127</td></tr><tr><td>Arabic No</td><td>2127</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(В своё время) ‘Абдуллах бин ‘Амр бин Харам, да будет доволен им Аллах, скончался, не расплатившись с долгами, и я попросил Пророка ﷺ поспособствовать тому, чтобы заимодавцы простили часть его долга. Пророк ﷺ обратился к ним с просьбой об этом, но они не сделали (этого), и тогда Пророк ﷺ сказал мне: “Ступай и разложи свои финики по сортам: ‘аджва в одну сторону, грозди зайда — в другую, а потом пошли за мной”. Я так и сделал, а затем послал за Пророком ﷺ, который уселся поверх (или: посреди) этих (фиников) и сказал: “Отмеряй (финики) этим людям”. И я отмерял им (финики) до тех пор, пока не отдал сполна всё, что им причиталось, после чего моих фиников осталось (столько же, сколько и было), будто оттуда ничего и не брали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2127</td></tr><tr><td>Arabic No</td><td>2127</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
 

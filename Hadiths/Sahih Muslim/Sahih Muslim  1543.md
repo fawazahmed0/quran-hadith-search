@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama narrated that Abu Huraira told him that when the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1543</td></tr><tr><td>Arabic No</td><td>675.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 376</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ совершал вечернюю молитву /‘иша/, и сказав: «Да услышит Аллах тех, кто воздал Ему хвалу». /Cами‘а-Ллаху ли-ман хамида-ху/, он сказал перед совершением земного поклона: «О Аллах, спаси ‘Айяша ибн Абу Раби‘у!» Далее подобно предыдущему хадису до слов: «…столько же, сколько лет (длилась засуха) во времена Юсуфа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1543</td></tr><tr><td>Arabic No</td><td>675.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 376</td></tr></tbody></table></div>
 

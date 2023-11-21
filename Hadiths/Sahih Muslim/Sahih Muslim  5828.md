@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that Abu Lubaba talked to Ibn 'Umar to open a door in his house w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rumh]; Telah mengabarkan kepada kami [Al Laits]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan lafazh ini miliknya; Telah menceritakan kepada kami [Laits] dari [Nafi'] bahwa [Abu Lubabah] berkata kepada Ibnu Umar agar dia membuka pintu rumah miliknya supaya lebih dekat pergi ke Masjid. Namun tiba-tiba beberapa anak kecil melihat kulit ular. Maka Abdullah berkata; "Cari dan ikut ia! Lalu bunuhlah oleh kalian!" Abu Lubabah berkata; 'Jangan kalian bunuh, karena Rasulullah shallallahu 'alaihi wasallam telah melarang membunuh ular-ular yang berada di rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5828</td></tr><tr><td>Arabic No</td><td>2233.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5828</td></tr><tr><td>Arabic No</td><td>2233.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 179</td></tr></tbody></table></div>
 

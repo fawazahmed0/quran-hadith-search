@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "Set free the captives and accept invi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] telah menceritakan kepadaku [Manshur] dari [Abu Wa'il] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Bebaskanlah para tawanan, dan penuhilah orang yang mengundang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7173</td></tr><tr><td>Arabic No</td><td>7173</td></tr><tr><td>Reference</td><td>Book 93 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари) передаёт, что Пророк ﷺ сказал: «Освобождайте пленника и отвечайте приглашающему (на приглашение)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7173</td></tr><tr><td>Arabic No</td><td>7173</td></tr><tr><td>Reference</td><td>Book 93 Hadith 37</td></tr></tbody></table></div>
 

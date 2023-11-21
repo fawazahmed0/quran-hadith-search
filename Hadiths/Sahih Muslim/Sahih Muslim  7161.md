@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Saihan, Jaihan, Euphrates
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah], [Abdullah bin Numair] dan [Ali bin Mushir] dari [Ubaidulah bin Umar]. Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Ubaidullah] dari [Khabab bin Abdurrahman] dari [Hafsh bin Ashim] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Saihan, Jaihan, Furat dan Nil semuanya termasuk sungai-sungai surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7161</td></tr><tr><td>Arabic No</td><td>2839</td></tr><tr><td>Reference</td><td>Book 53 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7161</td></tr><tr><td>Arabic No</td><td>2839</td></tr><tr><td>Reference</td><td>Book 53 Hadith 30</td></tr></tbody></table></div>
 

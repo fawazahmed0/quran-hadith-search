@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) established the right of Shu'fa (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari [Abu Salamah] dari [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam telah menetapkan Asy-Syuf'ah pada setiap tanah yang belum dibagi. Apabila sudah terdapat batasan-batasan dan jalan yang terpisah maka tidak ada syuf'ah lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2495</td></tr><tr><td>Arabic No</td><td>2495</td></tr><tr><td>Reference</td><td>Book 47 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира, да будет доволен им Аллах, что Посланник Аллаха ﷺ предоставлял преимущественное право покупки любого неделимого имущества (совладельцу), однако если границы и пути были размечены, то преимущественным правом покупки (совладелец имущества воспользоваться не мог)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2495</td></tr><tr><td>Arabic No</td><td>2495</td></tr><tr><td>Reference</td><td>Book 47 Hadith 13</td></tr></tbody></table></div>
 

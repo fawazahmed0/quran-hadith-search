@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:regarding the Divine Verse: "O you who believe! You are forb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah menceritakan kepada kami [Asbath bin Muhammad] Telah menceritakan kepada kami [Asy Syaibani] dari ['Ikrimah] dari [Ibnu 'Abbas] dia berkata; -Asy Syaibani berkata-; juga disebutkan oleh [Abu Al Hasan As Suwai] dan aku tidak mengira dia menyebutkannya kecuali dari [Ibnu 'Abbas] mengenai firman Allah: "Hai orang-orang yang beriman, tidak halal bagi kamu mempusakai wanita dengan jalan paksa dan janganlah kamu menyusahkan mereka (Annisa: 19). Dahulu apabila seorang suami meninggal, maka wali-nya laki-laki tersebut lebih berhak terhadap istrinya si mayyit, apabila si wali berkehendak untuk menikahi istri si mayyit untuk dirinya maka dia akan menikahinya atau menikahkannya kepada orang lain atau tidak menikahkannya sama sekali. Maka turunlah ayat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4579</td></tr><tr><td>Arabic No</td><td>4579</td></tr><tr><td>Reference</td><td>Book 65 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аббас сказал (об аяте) «О те, которые уверовали! Вам не дозволено наследовать женщин против их воли! Не препятствуйте тому, что они захотят уйти с частью того, что вы им дали»: «Раньше, когда умирал человек, его родственники считали себя правомочными распоряжаться его женой на свое усмотрение. Если кто-либо из них желал её взять в жены, то брал. Если хотел выдать за кого-то, выдавал. Если не хотел выдавать вообще, не выдавал. Они имели больше прав на неё, чем её собственные родственники. Этот аят был послан в связи с этим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4579</td></tr><tr><td>Arabic No</td><td>4579</td></tr><tr><td>Reference</td><td>Book 65 Hadith 101</td></tr></tbody></table></div>
 

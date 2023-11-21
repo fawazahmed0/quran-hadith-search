@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zubair reported that he heard 'Abd al-Rahman b. Aiman (the freed slave of 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; [Ibnu Juraij] berkata; Telah mengabarkan kepadaku [Abu Az Zubair] bahwa dirinya mendengar Abdurrahman bin Aiman bekas budak Azzah, dia bertanya kepada [Ibnu Umar] sedangkan Abu Zubairberkata mendengarkan hal itu; Bagaimana pendapatmu jika ada seorang laki-laki yang menceraikan istrinya yang sedang haidl? Dia (Ibnu Umar) menjawab; Di masa Rasulullah shallallahu 'alaihi wasallam, Ibnu Umar pernah menceraikan istrinya yang sedang haidl, lantas Umar menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, dia berkata; Sesungguhnya Abdullah bin Umar menceraikan istrinya yang sedang haidl, maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Suruhlah dia merujuknya dan kembali kepadanya." Beliau melanjutkan: "Jika istrinya telah suci, maka dia boleh menceraikannya atau tetap bersamanya." Ibnu Umar berkata; Kemudian Nabi shallallahu 'alaihi wasallam membaca Firman Allah: "Wahai Nabi, jika kamu menceraikan istri-istrimu, maka ceraikanlah mereka di waktu masa iddahnya." Dan telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Abu Az Zubair] dari [Ibnu Umar] seperti cerita di atas. Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar Abdurrahman bin Aiman bekas budak Urwah, bertanya kepada Ibnu Umar, sedangkan Abu Az Zubair mendengarkan hadits seperti hadits Hajjaj, namun di dalamnya ada beberapa tambahan, Muslim mengatakan; Salah jika dia mengatakan Urwah, sebab dia adalah bekas budak Azzah (bukan 'Urwah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3670</td></tr><tr><td>Arabic No</td><td>1471.19</td></tr><tr><td>Reference</td><td>Book 18 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3670</td></tr><tr><td>Arabic No</td><td>1471.19</td></tr><tr><td>Reference</td><td>Book 18 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Kharija bin Zaid bin Thabit:Um Al-'Ala', an Ansari woman who gave the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Kharijah bin Zaid bin Tsabit] bahwa [Ummu Al 'Ala'] seorang wanita Kaum Anshar yang pernah berbai'at kepada Nabi shallallahu 'alaihi wasallam mengabarkannya bahwa; Ketika Beliau sedang mengundi pembagian sahabat Muhajirin (untuk tinggal di rumah-rumah sahabat Anshar sesampainya mereka di Madinah), maka 'Utsman bin Mazh'un mendapatkan bagiannya untuk tinggal bersama kami. Akhirnya dia kami bawa ke rumah-rumah kami. Namun kemudian dia menderita sakit yang membawa kepada kematianya. Setelah dia wafat, maka dia dimandikan dan dikafani dengan baju yang dikenakannya. Tak lama kemudian Rasulullah shallallahu 'alaihi wasallam datang lalu aku berkata, kepada Beliau: "Semoga rahmat Allah tercurah atasmu wahai Abu As-Sa'ib ('Utsman bin Mazh'un). Dan persaksianku atasmu bahwa Allah telah memuliakanmu". Maka Nabi shallallahu 'alaihi wasallam berkata: "Dari mana kamu tahu bahwa Allah telah memuliakannya?" Aku jawab: "Demi bapakku, wahai Rasulullah, siapakah seharusnya orang yang dimuliakan Allah itu?" Beliau menjawab: "Adapun dia, telah datang kepadanya Al Yaqin (kematian) dan aku berharap dia berada diatas kebaikan. Demi Allah meskipun aku ini Rasulullah, aku tidak tahu apa yang akan dilakukan-Nya terhadapku". Dia (Ummu Al 'Ala') berkata: "Demi Allah, tidak seorangpun yang aku anggap suci setelah peristiwa itu selamanya". Telah menceritakan kepada kami [Sa'id bin 'Uqair] telah menceritakan kepada kami [Al Laits] seperti ini. Dan berkata, [Nafi' bin Yazid] dari ['Uqail]: "Apa yang akan dilakukan-Nya terhadapnya". Dan dikuatkan oleh [Syu'aib] dan ['Amru bin Dinar] dan [Ma'mar]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1243</td></tr><tr><td>Arabic No</td><td>1243</td></tr><tr><td>Reference</td><td>Book 23 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм аль-‘Аля, да будет доволен ею Аллах, женщина из числа ансаров, которая дала Пророку ﷺ клятву на верность исламу, сказала: «Мухаджиры были распределены (среди нас) по жребию, и нам достался ‘Усман бин Маз‘ун, которого мы поселили в нашем доме, а (через некоторое время) он заболел и умер. После того как он умер, был обмыт и завёрнут в свою одежду, (к нам) пришёл Посланник Аллаха ﷺ, а я сказала: “Да помилует тебя Аллах, Абу-с-Са‘иб, свидетельствую, что Аллах почтил тебя!” (Услышав эти слова,) Пророк ﷺ спросил: “Откуда тебе знать, что Аллах почтил его?” Я сказала: “Да станет мой отец выкупом за тебя, о Посланник Аллаха, а кому же ещё Аллах окажет почёт?!” Тогда он сказал: “Что касается его, то он скончался, и, клянусь Аллахом, я желаю ему блага, однако клянусь Аллахом и в том, что не знаю, что будет сделано даже со мной, хотя я и Посланник Аллаха!”»\n(Умм аль-‘Аля) сказала: «И, клянусь Аллахом, с тех пор я больше ни о ком не говорю так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1243</td></tr><tr><td>Arabic No</td><td>1243</td></tr><tr><td>Reference</td><td>Book 23 Hadith 6</td></tr></tbody></table></div>
 

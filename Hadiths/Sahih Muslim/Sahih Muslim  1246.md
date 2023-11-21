@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Atiq reported:Al-Qasim was in the presence of 'A'isha (Allah be pleased with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abbad] telah menceritakan kepada kami [Hatim, dia adalah Ibnu Ismail] dari [Ya'qub bin Mujahid] dari [Ibnu Abi 'Atiq] dia berkata, "(Pada suatu ketika) aku bercakap-cakap dengan al-Qasim di sisi Aisyah Radhiyallahu'anhu. Al-Qasim adalah seorang laki-laki yang gagu (kurang tersusun tutur katanya), dan ia anak satu-satunya bagi ibunya. [Aisyah] bertanya kepadanya, 'Mengapa kamu tidak dapat bicara seperti keponakanku ini? ' Aku tahu sebabnya dari permasalahan apa. Keponakanku ini dididik oleh ibunya, sedangkan kamu dididik oleh ibumu.' Dia berkata, "Maka al-Qasim marah dan jengkel kepada Aisyah. Tatkala dia melihat meja Aisyah yang telah dihidangkan makanan, maka dia pergi. Maka Aisyah bertanya, 'Hendak ke mana kamu? ' Jawab al-Qasim, 'Aku hendak pergi shalat.' Kata Aisyah, 'Duduklah dahulu! ' Jawab al-Qasim, 'Aku hendak pergi shalat'. Kata Aisyah, 'Duduklah dahulu! Aku mendengar Rasulullah shallallahu'alaihiwasallam, bersabda, 'Tidak sempurna shalat seseorang apabila makanan yang telah dihidangkan, atau apabila dia menahan buang air besar atau kecil'." Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta [Ibnu Hujr] mereka berkata, telah menceritakan kepada kami [Ismail, dan dia adalah Ibnu Ja'far] telah mengabarkan kepadaku [Abu Hazrah al-Qash] dari [Abdullah bin Abi 'Atiq] dari [Aisyah radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam dengan hadits semisalnya, dan dia tidak menyebutkan kisah al-Qasim dalam hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>560.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Я слышала, как Посланник Аллаха ﷺ сказал: “Не (следует человеку совершать) молитву ни (в том случае), когда подана еда, ни когда отвращают его (от молитвы позывы к удовлетворению большой или малой нужды)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>560.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 84</td></tr></tbody></table></div>
 

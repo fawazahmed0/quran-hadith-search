@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by Ibn 'Umar from the Messenger of Allah (ﷺ), bu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan orang yang hafal Al Qur'an, ialah seperti unta yang ditambatkan. Jika ia tetap diawasi, dia akan tetap tertambat, tetapi jika ia dibiarkan maka akan lepas." telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] dan [Ubaidullah bin Sa'id] mereka berkata, telah menceritakan kepada kami [Yahya Al Qaththan] -dalam jalur lain- telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Khalid Al Ahmar] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] semuanya dari [Ubaidullah] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub] yakni Ibnu Abdurrahman. -Dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Ishaq Al Musayyibi] Telah menceritakan kepada kami [Anas] yakni Ibnu Iyadl, semuanya dari [Musa bin Uqbah] mereka semua dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam yang semakna dengan hadits Malik. Dan ia menambahkan di dalam hadits Musa bin Uqbah; "Jika seorang penghafal Al Qur'an shalat lalu ia membacanya pada malam dan siang hari, niscaya ia akan senantiasa mengingatnya. Namun, jika ia tidak melakukan hal itu, niscaya ia akan melupakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1840</td></tr><tr><td>Arabic No</td><td>789.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадиса с другим иснадом подобен предыдущему, но в этой версии он также добавил: «Если знаток Корана будет читать его ночью и днём, то будет помнить его. А если он не будет делать этого, то забудет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1840</td></tr><tr><td>Arabic No</td><td>789.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 268</td></tr></tbody></table></div>
 

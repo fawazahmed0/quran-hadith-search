@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira and Abu Sa'id al-Khudri (Allah be pleased with them) reported that A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman] -yaitu Ibnu Bilal- dari [Abdul Majid bin Suhail bin Abdurrahman] bahwa dia pernah mendengar [Sa'id bin Musayyab] menceritakan bahwa [Abu Hurairah] dan [Abu Sa'id] telah menceritakan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam mengangkat seorang dari Bani 'Ady untuk bekerja di Khaibar. Lalu ia datang dengan membawa kurma yang bagus, maka Rasulullah shallallahu 'alaihi wasallam pun bertanya kepadanya: "Apakah semua kurma di Khaibar seperti ini?" dia menjawab, "Demi Allah, tidak wahai Rasulullah. Biasanya kurma satu sha' seperti ini kami tukar dengan dua sha' kurma jenis campuran." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan lakukan lagi perbuatan seperti itu, akan tetapi tukarlah dengan sama berat, atau jual dulu kurma campuranmu kemudian (dengan uang penjualanmu) kamu boleh membeli kurma yang lebih bagus, itulah takarannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4081</td></tr><tr><td>Arabic No</td><td>1593.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4081</td></tr><tr><td>Arabic No</td><td>1593.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 120</td></tr></tbody></table></div>
 

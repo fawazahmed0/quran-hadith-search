@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:Allah's Messenger (ﷺ) said, "If a person teaches 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Shalih bin Hayyi] bahwa ada seorang laki-laki penduduk Khurasan berkata kepada [asy-Sya'biy], [Abu Burdah] telah mengabarkan kepadaku dari [Abu Musa Al Asy'ariy radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam besabda: "Jika seseorang mendidik sahaya wanitanya dengan baik dan mengajarkan ilmu dengan baik kemudian dia membebaskan lalu menikahinya maka baginya dua pahala. Dan bila seseorang beriman kepada 'Isa 'alaihis salam kemudian beriman kepadaku maka baginya dua pahala. Dan seorang sahaya (laki-laki) bila dia bertaqwa kepada Rabbnya dan mentaati tuannya maka baginya dua pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3446</td></tr><tr><td>Arabic No</td><td>3446</td></tr><tr><td>Reference</td><td>Book 60 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, кто должным образом воспитал и обучил свою рабыню, а затем освободил и женился на ней, получит двойную награду. И (человек, из людей писания), который уверовал в ‘Ису, а потом уверовал в меня, получит двойную награду. И тот раб, который боялся Аллаха и слушался своего господина, получит двойную награду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3446</td></tr><tr><td>Arabic No</td><td>3446</td></tr><tr><td>Reference</td><td>Book 60 Hadith 116</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The things which annul the prayers were mentioned before me. The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Khalil] telah menceritakan kepada kami ['Ali bin Mushir] dari [Al A'masy] dari [Muslim] -yakni Abu Shubaih- dari [Masruq] dari ['Aisyah], bahwa telah disebutkan di sisinya tentang sesuatu yang dapat memutuskan shalat, orang-orang mengatakan, 'Yang dapat memutus shalat diantaranya adalah anjing, keledai dan wanita.' Maka 'Aisyah pun berkata, "Sungguh kalian telah menganggap kami (kaum wanita) sebagaimana anjing. Sungguh aku pernah melihat Nabi shallallahu 'alaihi wasallam melaksanakan shalat, sementara aku berbaring di atas tikar antara beliau dan dengan arah biblatnya. Saat aku ada keperluan dan aku tidak ingin menghadapnya, maka aku pergi dengan pelan-pelan." Dan dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>511</td></tr><tr><td>Reference</td><td>Book 8 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается, что в присутствии ‘Аиши были упомянуты вещи, которые прерывают (делают недействительной) молитву, говоря: «...прерывают молитву собака, осел и женщина». ‘Аиша сказала: «Вы уравняли нас (женщин) с собаками?! Я видела Пророка ﷺ молящимся, а я в это момент лежала на кровати между ним и киблой, и если у меня возникала нужда, и я не хотела находиться перед ним, то я проскальзывала (из-под одеяла)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>511</td></tr><tr><td>Reference</td><td>Book 8 Hadith 158</td></tr></tbody></table></div>
 

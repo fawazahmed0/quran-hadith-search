@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), lorsque fut révélé ce verset : (E
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Jarir] dari [Abdul Malik bin Umair] dari [Musa bin Thalhah] dari [Abu Hurairah] dia berkata, "Ketika turun ayat: '(Berilah peringatan kepada kaum kerabatmu yang terdekat) ' (Qs. Asy Syu'ara': 214). Maka Rasulullah shallallahu 'alaihi wasallam menyeru kaum Quraisy hingga mereka semua berkumpul. Rasulullah shallallahu 'alaihi wasallam, kemudian beliau berbicara secara umum dan secara khusus. Beliau bersabda lagi: 'Wahai Bani Ka'ab bin Luaiy, selamatkanlah diri kamu dari Neraka. Wahai Bani Murrah bin Ka'ab, selamatkanlah diri kamu dari Neraka. Wahai Bani Abdul Syams, selamatkanlah diri kamu dari Neraka. Wahai Bani Abdul Manaf, selamatkanlah diri kamu dari Neraka. Wahai Bani Hasyim, selamatkanlah diri kamu dari Neraka. Wahai Bani Abdul Mutthalib, selamatkanlah diri kamu dari Neraka. Wahai Fatimah, selamatkanlah diri kamu dari Neraka. Sesungguhnya aku tidak memiliki (kekuatan sedikit pun untuk) menolak siksaan Allah kepadamu sedikit pun, selain kalian adalah kerabatku, maka aku akan menyambung tali kerabat tersebut." Dan telah menceritakan kepada kami [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Abu Awanah] dari [Abdul Malik bin Umair] dengan sanad ini, namun hadits Jarir lebih lengkap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>204.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 407</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «После того, как был ниспослан аят, (в котором сказано): “И увещевай своих ближайших родственников” (Сура «аш-Шу‘ара», аят 214), Посланник Аллаха ﷺ призвал (к себе) курайшитов, когда же те собрались, (он обратился) ко всем вместе и к каждому в отдельности. Он сказал: “О бану ка‘б ибн луайй, избавьте себя от Огня! О бану мурра ибн ка‘б, избавьте себя от Огня! О бану ‘абд шамс, избавьте себя от Огня! О бану ‘абд манаф, избавьте себя от Огня! О бану хашим, избавьте себя от Огня! О бану ‘абд аль-мутталиб, избавьте себя от Огня! О Фатима, избавь себя от Огня, ибо я никак не смогу избавить вас от (наказания) Аллаха, однако (меня связывают) с вами узы кровного родства, и я обязательно буду поддерживать их (и впредь)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>204.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 407</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Ibn 'Abbas that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Ishaq bin Ibrahim] dia berkata; telah mengabarkan kepada kami [Jarir] dari [Mansyur] dari [Mujahid] dari [Thawus] dari [Ibnu Abbas] Rasulullah shallallahu 'alaihi wasallam bersabda pada waktu penaklukan kota Makkah: "Tidak ada hijrah lagi setelah penaklukan kota Makkah, yang ada adalah Jihad dan Niat. Jika kamu diperintahkan untuk berjihad (berjuang atau berperang) maka patuhilah!" Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dia berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Mansyur] dan [Ibnu Rafi'] dari [Yahya bin Adam] telah menceritakan kepada kami [Mufadlal] -yaitu Ibnu Muhalhil-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami ['Ubaidullah bin Musa] dari [Isra'il] semuanya dari [Mansyur] dengan sanad ini, seprti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4829</td></tr><tr><td>Arabic No</td><td>1353.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4829</td></tr><tr><td>Arabic No</td><td>1353.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 125</td></tr></tbody></table></div>
 

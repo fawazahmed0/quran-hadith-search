@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Messenger of Allah (ﷺ) and AbuBakr gave forty l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Ibnu Abu Arubah] dari [Ad Danaj] dari [Hudhain Ibnul Mundzir] dari [Ali radliallahu 'anhu] ia berkata, "Rasulullah shallallahu 'alaihi wasallam dan Abu Bakar mendera peminum khamer sebanyak empat puluh kali, lalu Umar menggenapkannya menjadi delapan puluh kali, dan semua itu adalah sunnah." Abu Dawud berkata, "Al Ashma'I berkata, "Berikanlah kekuasaan kepada orang yang layak menjalaninya, yakni berikanlah orang yang bisa berlaku keras maupun lembut." Abu Dawud berkata lagi, "Pemimpun kaumnya adalah Khudhain Ibnul Mundzir Abu Sasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1707)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 40 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али: «В подобных случаях Посланник Аллаха ﷺ наносил сорок ударов и Абу Бакр наносил сорок ударов, ‘Умар же наносил восемьдесят, и всё это сунна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1707)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 40 Hadith 131</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Aun:I wrote a letter to Nafi' and Nafi' wrote in reply to my lette
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Al Hasan bin Syaqiq] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ibnu 'Aun] berkata; Aku menulis surat kepada [Nafi'] lalu dia membalasnya dan berkata: "Sesungguhnya Nabi shallallahu 'alaihi wasallam pernah menyerang suku Bani Al Mushthaliq saat mereka sedang lalai sedangkan ternak-ternak mereka sedang minum air lalu Beliau membunuh prajurit suku tersebut dan menawan anak keturunan mereka dan pada saat itu Beliau mendapatkan Juwairiyah (sebagai tawanan) ". ['Abdullah bin 'Umar radliallahu 'anhuma] menceritakan kepadaku tentang riwayat ini dan saat itu dia termasuk salah seorang dari pasukan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2541</td></tr><tr><td>Arabic No</td><td>2541</td></tr><tr><td>Reference</td><td>Book 49 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ напал на (людей из племени) бану аль-мусталик, когда они этого не ожидали, а их скот находился на водопое, перебил их бойцов и захватил в плен их детей и женщин, и в тот день (Пророку ﷺ) досталась Джувайрийа, да будет доволен ею Аллах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2541</td></tr><tr><td>Arabic No</td><td>2541</td></tr><tr><td>Reference</td><td>Book 49 Hadith 24</td></tr></tbody></table></div>
 

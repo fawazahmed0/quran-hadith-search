@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Ka'b b. Malik reported on the authority of his father that the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Sabiq] telah menceritakan kepada kami [Ibrahim bin Thamhan] dari [Abu Zubair] dari [Ibnu Ka'b bin Malik] dari [bapaknya] bahwa ia telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengutusnya bersama Aus bin Al Hadatsan pada hari-hari Tasyriq, lalu ia menyerukan; "Sesungguhnya tidak akan masuk surga kecuali peribadi yang mukmin, dan hari-hari di Mina merupakan hari makan-makan dan minum." Dan Telah meceritakannya kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Abu Amir Abdul Malik bin Amru] telah menceritakan kepada kami [Ibrahim bin Thamhan] dengan isnad ini, hanya saja ia menyebutkan; "Maka keduanya menyerukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>1142.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>1142.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 185</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:'Umar b. Khattab said that a person performed ablution and left a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [al-Hasan bin Muhammad bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu az-Zubair] dari [Jabir] telah mengabarkan kepadaku [Umar bin al-Khaththab], bahwa seorang laki-laki berwudlu lalu meninggalkan (kering) satu tempat kuku di atas kakinya, saat Nabi shallallahu 'alaihi wasallam melihatnya, maka beliau pun bersabda: "Kembali dan perbaguslah wudlumu." Maka dia kembali kemudian melakukan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>576</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 2 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «‘Умар ибн аль-Хаттаб сообщил мне, что (как-то раз), совершая омовение, один человек не омыл место на ступне величиной с ноготь. Заметив это, Пророк ﷺ велел (ему): “Соверши омовение заново и сделай это как следует”, и тот снова совершил омовение, а потом помолился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>576</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 2 Hadith 43</td></tr></tbody></table></div>
 

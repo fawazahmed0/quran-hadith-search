@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:We landed at a place where a woman came to us and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Yazid bin Harun]; Telah mengabarkan kepada kami [Hisyam bin Hasan] dari [Muhammad bin Sirin] dari saudara laki-lakinya [Ma'bad bin Sirin] dari [Abu Sa'id Al Khudri] dia berkata; Kami singgah pada suatu tempat, lalu datanglah seorang wanita kepada kami dan berkata; "Sesungguhnya pemimpin wilayah ini sedang sakit, maka apakah dari kalian ada seseorang yang bisa meruqyah?" Abu Sa'id berkata; "Maka berdirilah seorang laki-laki mengikuti wanita tersebut, padahal kami tidak mengira bahwa laki-laki tersebut pandai meruqyah. lalu ia meruqyahnya dengan surat Al Fatihah hingga iapun sembuh. Lalu mereka memberi seekor kambing kepadanya dan memberi kami minuman susu." Maka kami bertanya kepadanya; Apakah kamu pandai meruqyah? Dia menjawab; Aku tidak meruqyahnya kecuali dengan surat Al Fatihah. Abu Sa'id berkata; Aku lalu berkata; "Kalian jangan melakukan apapun (mengenai surat al Fatihah) sehingga kita datang kepada Rasulullah shallallahu 'alaihi wasallam, " lalu kami menemui Rasulullah shallallahu 'alaihi wasallam, kemudian aku menceritakan hal tersebut kepada beliau, maka beliau pun bersabda: "Tidakkah dia tahu bahwa itu adalah ruqyah, bagilah (hadiah itu) dan ikutkan aku dalam pembagian kalian." Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Wahb bin Jarir]; Telah menceritakan kepada kami [Hisyam] melalui jalur ini dengan Hadits yang serupa. Namun dia berkata dengan kalimat; 'lalu berdirilah salah seorang di antara kami mengikuti wanita itu, yang kami tidak mengiranya akan melakukan ruqyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5735</td></tr><tr><td>Arabic No</td><td>2201.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5735</td></tr><tr><td>Arabic No</td><td>2201.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 89</td></tr></tbody></table></div>
 

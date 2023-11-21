@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama b. Zaid b. Harith and Sa'id b. Zaid b. 'Amr b. Naufal both reported Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] dan [Suwaid bin Sa'id] dan [Muhammad bin 'Abdul A'la] semuanya dari [Mu'tamir], Ibnu Mu'adz berkata; telah menceritakan kepada kami Al Mu'tamir bin Sulaiman dia berkata; [Bapakku] berkata; telah menceritakan kepada kami [Abu 'Utsman] dari [Usamah bin Zaid bin Haritsah] dan [Sa'id bin Zaid bin 'Amru bin Nufail] bahwasanya keduanya menceritakan kepada kami dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda: "Sepeninggalku, tidak ada (sumber) bencana yang lebih besar bagi laki-laki selain dari pada wanita.' Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] dia berkata; telah menceritakan kepada kami [Abu Khalid Al Ahmar] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] semuanya dari [Sulaiman At Taimi] melalui sanad ini, dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6946</td></tr><tr><td>Arabic No</td><td>2741.01</td></tr><tr><td>Reference</td><td>Book 49 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6946</td></tr><tr><td>Arabic No</td><td>2741.01</td></tr><tr><td>Reference</td><td>Book 49 Hadith 10</td></tr></tbody></table></div>
 

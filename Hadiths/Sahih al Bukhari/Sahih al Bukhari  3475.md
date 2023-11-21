@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The people of Quraish worried about the lady from Bani Makhzum w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3475</td></tr><tr><td>Arabic No</td><td>3475</td></tr><tr><td>Reference</td><td>Book 60 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передала, что в своё время курайшиты были озабочены делом одной женщины из бану махзум, которая совершила кражу. [Одни] стали говорить: «Кто поговорит о ней с посланником Аллаха ﷺ?» А [другие] сказали: «А кто осмелится на это, кроме Усамы ибн Зейда, любимца Посланника Аллаха ﷺ?!» И Усама обратился к нему [с ходатайством за неё, полагая, что любое заступничество является благим и приемлемым]. Посланника Аллаха ﷺ сказал: «Неужели ты ходатайствуешь об отмене одного из наказаний, установленных Аллахом?!» А потом он встал и обратился к людям с проповедью, после чего сказал: «Поистине, живших до вас погубило то, что, когда крал знатный, они оставляли его [не применяли к нему установленное наказание], а когда крал слабый, они применяли к нему установленное наказание. Клянусь Аллахом, если бы украла Фатима, дочь Мухаммада, то я обязательно отрубил бы руку и ей!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3475</td></tr><tr><td>Arabic No</td><td>3475</td></tr><tr><td>Reference</td><td>Book 60 Hadith 142</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Darda' (Allah be pleased with him) related from the Prophet of Allah (ﷺ) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Yazid bin Khumair] dia berkata; Saya mendengar [Abdurrahman bin Jubair] telah menceritakan dari [ayahnya] dari [Abu Ad Darda'] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau melewati seorang wanita (tawanan) yang hamil berada di depan tenda besar, lantas beliau bersabda: "Sepertinya tuannya ingin menggaulinya." Mereka (para sahabat) menjawab; Sepertinya begitu. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh saya berharap bisa melaknat (tuannya), laknat yang bisa membawanya sampai ke kuburnya, bagaimana ia mewarisi (anak dalam kandungannya) padahal ia tidak berhak atas anak tersebut? Bagaimana ia menjadikan (anak tersebut) sebagai pelayannya (budaknya) padahal ia tidak halal baginya?" Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Daud] semuanya dari [Syu'bah] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562</td></tr><tr><td>Arabic No</td><td>1441.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562</td></tr><tr><td>Arabic No</td><td>1441.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 164</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' reported, and he was no liar:When the Messenger of Allah (ﷺ) said: Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakar bin Khallad al-Bahili] telah menceritakan kepada kami [Yahya, yaitu Ibnu Sa'id] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Abu Ishaq] telah menceritakan kepadaku [Abdullah bin Yazid] telah menceritakan kepadaku [al-Bara'], dan dia bukanlah pendusta. Dia berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam apabila mengucapkan, 'Sami'allahu Liman Hamidah, ' maka tidak seorang pun dari kami melengkungkan punggungnya (semuanya lurus berdiri), hingga Rasulullah Shallallahu'alaihiwasallam bersujud, kemudian kami bersujud setelah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>474.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Бараъ сказал: «Когда Посланник Аллаха ﷺ произносил слова “Да услышит Аллах того, кто воздал Ему хвалу /Сами‘а-Ллаху ли-ман хамидах/”, никто из нас не сгибал спины, пока в земном поклоне не склонялся Посланник Аллаха ﷺ, а после (того, как склонялся он,) совершали земной поклон и мы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>474.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 225</td></tr></tbody></table></div>
 

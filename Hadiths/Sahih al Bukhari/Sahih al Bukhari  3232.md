@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq-Ash-Shaibani:I asked Zir bin Hubaish regarding the Statemen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3232</td></tr><tr><td>Arabic No</td><td>3232</td></tr><tr><td>Reference</td><td>Book 59 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что о значении слов Аллаха Всевышнего «И был он на расстоянии двух луков или ближе, и ниспослал Он Своему рабу в откровении то, что ниспослал» (сура «ан-Наджм», аят 10) ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Поистине, (Пророк ﷺ) видел Джибриля, у которого было шестьсот крыльев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3232</td></tr><tr><td>Arabic No</td><td>3232</td></tr><tr><td>Reference</td><td>Book 59 Hadith 43</td></tr></tbody></table></div>
 

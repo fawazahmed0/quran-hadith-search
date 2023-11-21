@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Iyas b. Salama b. Akwa' reported on the authority of his father, saying:We used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Hisyam bin Abdul Malik] Telah menceritakan kepada kami [Ya'la bin Harits] dari [Iyas bin Salamah bin Al Akwa'] dari [bapaknya] ia berkata; "Kami shalat Jum'at bersama Rasulullah shallallahu 'alaihi wasallam, kemudian kami pulang namun kami tidak lagi mendapati naungan pada dinding untuk berteduh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1993</td></tr><tr><td>Arabic No</td><td>860.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Саляма ибн аль-Аква‘ сказал: «Мы совершали с Посланником Аллаха ﷺ пятничную молитву, а когда возвращались, то у стен не было теней, в которых мы могли укрыться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1993</td></tr><tr><td>Arabic No</td><td>860.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 43</td></tr></tbody></table></div>
 

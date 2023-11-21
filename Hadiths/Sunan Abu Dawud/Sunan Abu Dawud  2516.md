@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: A man said: Messenger of Allah, a man wishes to take part 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'] dari [Ibnu Al Mubarak], dari [Ibnu Dzi'b] dari [Al Qasim] dari [Bukair bin Abdullah bin Al Asyajj] dari [Ibnu Mikraz] seorang penduduk Syam, dari [Abu Hurairah] bahwa seorang laki-laki berkata; wahai Rasulullah, seseorang ingin berjihad di jalan Allah, dan ia mengharapkan harta-harta dunia. Lalu Rasulullah shallallahu 'alaihi wasallam berkata: "Ia tidak mendapatkan pahala." Maka hal tersebut terasa berat bagi orang-orang, dan mereka berkata kepada orang tersebut; kembalilah kepada Rasulullah shallallahu 'alaihi wasallam! Kemungkinan engkau belum memahamkan beliau. Lalu orang tersebut berkata; wahai Rasulullah, seseorang ingin berjihad di jalan Allah, dan ia mengharapkan harta-harta dunia. Lalu Rasulullah shallallahu 'alaihi wasallam berkata: "Ia tidak mendapatkan pahala." Dan mereka berkata kepada orang tersebut; kembalilah kepada Rasulullah shallallahu 'alaihi wasallam! Kemudian orang tersebut berkata kepada beliau untuk ketiga kalinya, lalu beliau berkata kepadanya: "Ia tidak mendapatkan pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2516</td></tr><tr><td>Arabic No</td><td>2516</td></tr><tr><td>Reference</td><td>Book 15 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2516</td></tr><tr><td>Arabic No</td><td>2516</td></tr><tr><td>Reference</td><td>Book 15 Hadith 40</td></tr></tbody></table></div>
 

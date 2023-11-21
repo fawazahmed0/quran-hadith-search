@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar said:The Messenger of Allah (ﷺ) came from the privy. A man met him n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ja'far bin Musafir] telah menceritakan kepada kami [Abdullah bin Yahya Al-Burullusi] telah menceritakan kepada kami [Haiwah bin Syuraih] dari [Ibnu Al-Had] bahwasanya [Nafi'] telah menceritakan kepadanya dari [Ibnu Umar] dia berkata; Rasulullah Shallallahu alaihi wasallam baru selesai membuang air besar, lalu ada seseorang bertemu dengannya di dekat sumur jamal dan dia mengucapkan salam kepada beliau, namun beliau shallallahu 'alaihi wasallam tidak menjawab salamnya hingga beliau menemukan tembok lalu meletakkan kedua tangannya pada tembok tersebut, kemudian beliau mengusap wajahnya dan kedua tangannya, kemudian baru beliau menjawab salam orang tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>331</td></tr><tr><td>Arabic No</td><td>331</td></tr><tr><td>Reference</td><td>Book 1 Hadith 331</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн аль-Хади о том, что Нафи‘ рассказал ему, что Ибн ‘Умар сказал: «Однажды, когда Посланник Аллаха ﷺ возвращался с отхожего места, ему встретился один человек у Биър Джамаль и поприветствовал его, однако Посланник Аллаха ﷺ не ответил ему, пока не повернулся к стене. Он поставил свою руку на стену, затем обтер свое лицо и руки, после чего Посланник Аллаха ﷺ ответил на приветствие этого человека»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>331</td></tr><tr><td>Arabic No</td><td>331</td></tr><tr><td>Reference</td><td>Book 1 Hadith 331</td></tr></tbody></table></div>
 

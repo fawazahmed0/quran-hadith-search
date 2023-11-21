@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Aisha added, "I argued with Allah's Messenger (ﷺ) repeatedly about that matter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 64 Hadith 465</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Аиши сказала: «Я просила Посланника Аллаха ﷺ пересмотреть его решение. Настаивать на этом меня заставило мое опасение, что люди никогда не будут любить того, кто занял место Пророка ﷺ. Я полагала, что кто бы ни встал на место Пророка ﷺ, это будет сочтено людьми как дурной знак. Именно поэтому я и хотела, чтобы Посланник Аллаха ﷺ назначил кого-нибудь другого вместо Абу Бакра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 64 Hadith 465</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Irbad ibn Sariyah: The Messenger of Allah (ﷺ) used to recite al-Musab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal Ibnul Fadhl Al Harrani] berkata, telah menceritakan kepada kami [Baqiyyah] dari [Bahirah] dari [Khalid bin Ma'dan] dari [Ibnu Abu Bilal] dari [Irbadh bin Sariyah] berkata, "Rasulullah shallallahu 'alaihi wasallam biasa membaca Al musabbihat (semua surat yang dimulai dengan lafadz sabbaha) sebelum tidur. Beliau bersabda: "Sesungguhnya pada surat-surat itu ada ayat yang lebih utama dari seribu ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5057</td></tr><tr><td>Arabic No</td><td>5057</td></tr><tr><td>Reference</td><td>Book 43 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5057</td></tr><tr><td>Arabic No</td><td>5057</td></tr><tr><td>Reference</td><td>Book 43 Hadith 285</td></tr></tbody></table></div>
 

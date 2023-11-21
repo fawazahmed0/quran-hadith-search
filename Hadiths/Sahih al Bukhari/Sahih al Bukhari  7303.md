@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the mother of believers) Allah's Messenger (ﷺ) during his fat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Hisyam bin Urwah] dari [ayahnya] dari ['Aisyah] Ummul Mukminin, Rasulullah shallallahu 'alaihi wasallam bersabda ketika sakitnya: "Suruhlah Abu bakar untuk mengimami orang-orang." 'Aisyah berkata, "Aku katakan, 'Abu Bakar jika menggantimu, ia tidak bisa membaca bacaan secara keras hingga terdengar makmum karena suka menangis, suruh saja Umar untuk mengimami orang-orang! Namun Nabi tetap berkata: "Suruhlah Abu Bakar untuk mengimami orang-orang! Aisyah katakan, "Karenanya aku sarankan kepada Hafsah 'Tolong sampaikan kepada nabi, 'Abu Bakar jika menggantikanmu, ia tidak bisa membaca dengan keras sehingga terdengar makmum karena suka menangis, suruh saja Umar untuk mengimami orang-orang! ' Hafshah kontan mengerjakan saran Aisyah. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian ini seperti saudara-saudara Yusuf saja (yang gemar berkomplot), suruh Abu bakar untuk mengimami orang-orang!" Maka Hafshah berkata kepada Aisyah, "Ternyata aku tidak memperoleh kebaikan dari saranmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7303</td></tr><tr><td>Arabic No</td><td>7303</td></tr><tr><td>Reference</td><td>Book 96 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных ‘Аиша, да будет доволен ею Аллах, сказала: «Во время своей болезни Посланник Аллаха ﷺ велел: “Скажите Абу Бакру, чтобы он молился с людьми”». ‘Аиша сказала: «Я сказала: “Поистине, если Абу Бакр займёт твоё место, люди ничего не услышат из-за (его) плача, а (поэтому) вели молиться с людьми ‘Умару!”» И Пророк ﷺ сказал: "Скажите Абу Бакру, чтобы он молился с людьми"».\n‘Аиша сказала: «И я сказала Хафсе: “Скажи ему: ‹Если Абу Бакр займёт твоё место, люди ничего не услышат из-за его плача, а поэтому вели молиться с людьми ‘Умару!›” Хафса так и сделала, и тогда Посланник Аллаха ﷺ воскликнул: “Поистине, вы (подобны) увидевшим Юсуфа! Велите же Абу Бакру, чтобы он молился с людьми!” И после этого Хафса сказала ‘Аише: “Я никогда не видела от тебя блага!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7303</td></tr><tr><td>Arabic No</td><td>7303</td></tr><tr><td>Reference</td><td>Book 96 Hadith 34</td></tr></tbody></table></div>
 

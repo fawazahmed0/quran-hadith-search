@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid bin Mauhab Ar Ramli] berkata, telah menceritakan kepada kami [Isa bin Yunus] dari [Muhammad bin Ishaq] dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Diyat budak itu setengah dari diyat orang yang mereka." Abu Dawud berkata, " [Usamah bin Zaid Al Laitsi] dan ['Abdurrahman Ibnul Harits] meriwayatkannya dari [Amru bin Syu'aib] seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4583</td></tr><tr><td>Arabic No</td><td>4583</td></tr><tr><td>Reference</td><td>Book 41 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Пророк ﷺ сказал: «Компенсация /дийа/ за убийство того, кто получил от мусульман гарантии безопасности /му‘ахад/, составляет половину компенсации /дийа/ за свободного мусульманина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4583</td></tr><tr><td>Arabic No</td><td>4583</td></tr><tr><td>Reference</td><td>Book 41 Hadith 90</td></tr></tbody></table></div>
 

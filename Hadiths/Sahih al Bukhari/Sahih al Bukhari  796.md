@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When the Imam says, "Sami'a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika Imam mengucapkan 'SAMI'ALLAHU LIMAN HAMIDAH (semoga Allah mendengar pujian orang yang memuji-Nya) ', maka ucapkanlah: 'ALLAHUMMA RABBANAA LAKAL HAMDU (Wahai Rabb kami, bagi-Mu lah segala pujian) '." Karena barangsiapa yang ucapannya bersamaan dengan ucapan Malaikat, maka dosanya yang telah lalu akan diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>796</td></tr><tr><td>Arabic No</td><td>796</td></tr><tr><td>Reference</td><td>Book 10 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда имам скажет: “Сами‘а Аллаху лиман хамидах /Да услышит Аллах того, кто воздал Ему хвалу/”, говорите: “Аллахумма Рабба-на ля-ка-ль-хамд /О Аллах, Господь наш, Тебе хвала/”. Ведь поистине, тому, чьи слова совпадут со словами ангелов, простятся прошлые грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>796</td></tr><tr><td>Arabic No</td><td>796</td></tr><tr><td>Reference</td><td>Book 10 Hadith 191</td></tr></tbody></table></div>
 

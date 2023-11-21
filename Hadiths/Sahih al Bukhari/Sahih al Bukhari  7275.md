@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:I sat with Shaiba in this Mosque (Al-Masjid-Al-Haram), and he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Abbas] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Washil] dari [Abu Wail] berkata, "Aku duduk mendekati [Syaibah] di masjid ini, ia katakan, "Dan [Umar] pernah duduk kepadaku di majlismu lantas berkata, "Sungguh aku berkeinginan tidak meninggalkan yang kuning tidak pula yang putih, selain kubagikan di antara muslimin." Maka aku katakan kepadanya, "Engkau tak bakalan bisa melakukannya." Umar pun berkata, "Mengapa!" Aku jawab, "Sebab kedua sahabatmu (Rasulullah dan Abu Bakar) belum pernah melakukannya." Lantas ia berkata, "Keduanya adalah manusia yang menjadi keteladanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7275</td></tr><tr><td>Arabic No</td><td>7275</td></tr><tr><td>Reference</td><td>Book 96 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7275</td></tr><tr><td>Arabic No</td><td>7275</td></tr><tr><td>Reference</td><td>Book 96 Hadith 8</td></tr></tbody></table></div>
 

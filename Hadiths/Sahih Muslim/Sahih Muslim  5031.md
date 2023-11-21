@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith pertaining to the eating of the lizard is transmitted from the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang daging biawak saat beliau di atas mimbar. Beliau menjawab: "Saya tidak memakannya dan juga tidak mengharamkannya." Dan telah menceritakan kepada kami [Ubaidullah bin Sa'id] telah menceritakan kepada kami [Yahya] dari [Ubaidullah] dengan sanad ini seperti hadits di atas." Dan telah menceritakan kepada kami [Abu Ar rabi'] dan [Qutaibah] keduanya berkata; telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] keduanya dari [Ayyub]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Malik bin Mighwal]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harun bin Abdullah] telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Syuja' bin Al Walid] dia berkata; saya mendengar [Musa bin 'Uqbah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Usamah] semuanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam mengenai daging biawak, beliau tidak memakannya dan tidak pula mengharamkannya." Dan dalam haditsnya Usamah, dia menyebutkan, "Seorang laki-laki berdiri dalam Masjid, sedangkan Rasulullah shallallahu 'alaihi wasallam berada di atas mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>1943.05</td></tr><tr><td>Reference</td><td>Book 34 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>1943.05</td></tr><tr><td>Reference</td><td>Book 34 Hadith 60</td></tr></tbody></table></div>
 

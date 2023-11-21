@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) said (on the day of Idal-Adha), "The first th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Zubaid Al Iyyami] dari [As Sya'bi] dari [Al Barra'] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya yang pertama kali kita lakukan pada hari ini ('iedul adha) adalah mengerjakan shalat kemudian pulang dan menyembelih binatang kurban, barangsiapa melakukan hal itu, maka dia telah bertindak sesuai dengan sunnah kita, dan barangsiapa menyembelih biantang kurban sebelum (shalat ied), maka sesembelihannya itu hanya berupa daging yang ia berikan kepada keluarganya, tidak ada hubungannya dengan ibadah kurban sedikitpun." Lalu Abu Burdah bin Niyar berdiri seraya berkata; "Sesungguhnya aku masih memiliki jad'ah (anak kambing yang berusia dua tahun), maka beliau bersabda: "Sembelihlah, namun hal itu tidak untuk orang lain setelahmu." [Muttharif] berkata; dari ['Amir] dari [Al Barra'], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa menyembelih (hewan kurban) setelah shalat (ied) maka ibadah kurbannya telah sempurna dan dia telah melaksanakan sunnah kaum Muslimin dengan tepat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5545</td></tr><tr><td>Arabic No</td><td>5545</td></tr><tr><td>Reference</td><td>Book 73 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зубайд ибн аль-Иями передал со слов аш-Ша‘би, который сообщил о том, что аль-Бараъ ибн ‘Азиб, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Первое, с чего мы начнём этот наш день, будет то, что мы совершим молитву, после чего мы вернёмся и заколем жертвенных животных. И тот, кто сделает это, поступит в соответствии с нашей Сунной, а кто зарезал его до этого, то это (пойдёт только на) мясо, которое он преподнёс своей семье, и нет (в этом) ничего из жертвоприношения”. Тогда Абу Бурда ибн Нияр, который уже заколол животное, встал и сказал: “Поистине, у меня есть маленькая козочка”. Тогда (Пророк ﷺ) сказал: “Заколи её, но после тебя этого никому не будет достаточно”».\nМутарриф сказал: «От ‘Амира, передавшего от аль-Бараъ, что Пророк ﷺ (также) сказал: «Кто зарезал жертвенное животное после намаза, завершил (праздничные) обряды и поступил в соответствии с Сунной мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5545</td></tr><tr><td>Arabic No</td><td>5545</td></tr><tr><td>Reference</td><td>Book 73 Hadith 1</td></tr></tbody></table></div>
 

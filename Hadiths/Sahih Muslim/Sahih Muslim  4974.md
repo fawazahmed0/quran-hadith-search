@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported that he asked the Messenger of Allah (ﷺ) about (hunting)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu As Safar] dari [Asy Sya'bi] dari ['Adi bin Hatim] dia berkata, "Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai Mi'radl, beliau lalu bersabda: "Jika yang mengenai adalah bagian tajamnya maka makanlah, namun jika yang mengenai adalah bagian yang tumpul maka itu adalah binatang yang mati karena pukulan, maka jangan kamu makan." Lalu saya juga bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai anjing buruan, beliau menjawab: "Jika kamu melepas anjing buruanmu setelah menyebut nama Allah, maka makanlah buruan tersebut, selagi anjing buruanmu tidak memakannya." Dan telah menceritakan kepadaku [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu 'Ulayyah] berkata; dan telah mengabarkan kepadaku, [Syu'bah] dari [Abdullah bin Abu As Safar] berkata; saya telah mendengar [Asy Sya'bi] berkata; saya mendengar dari ['Adi bin Hatim] berkata; saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang mi'radl, lalu menyebutkan sama di atas. Dan telah menceritakan kepadaku [Abu Bakar bin Nafi' Al 'Abdi] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdullah bin Abu As Safar] dan dari orang-orang yang disebutkan [Syu'bah] dari [Asy Sya'bi] berkata; saya mendengar dari ['Adi bin Hatim] berkata; saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang mi'radl, seperti di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4974</td></tr><tr><td>Arabic No</td><td>1929.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4974</td></tr><tr><td>Arabic No</td><td>1929.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 3</td></tr></tbody></table></div>
 

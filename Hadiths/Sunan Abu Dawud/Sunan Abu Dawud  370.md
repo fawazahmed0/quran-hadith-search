@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:The Messenger of Allah (ﷺ) would pray at night while I lay by his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Waki' bin Al Jarrah] telah menceritakan kepada kami [Thalhah bin Yahya] dari [Ubaidullah bin Abdullah bin Utbah] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam shalat malam, sementara saya berada di samping beliau, padahal saya sedang haidl, dan saya memakai selendangku, di mana sebagian kain itu mengenai beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (514)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>370</td></tr><tr><td>Arabic No</td><td>370</td></tr><tr><td>Reference</td><td>Book 1 Hadith 370</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ молился ночью, а я была рядом с ним в то время, когда у меня была менструация. Я была одета в свой мирт и на нем была часть его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (514)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>370</td></tr><tr><td>Arabic No</td><td>370</td></tr><tr><td>Reference</td><td>Book 1 Hadith 370</td></tr></tbody></table></div>
 

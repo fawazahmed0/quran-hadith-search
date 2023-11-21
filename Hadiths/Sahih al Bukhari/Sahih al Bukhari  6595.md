@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Allah puts an angel in charge o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Ubaidillah bin Abu Bakar bin Anas] dari [Anas bin Malik] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: "Allah mengutus malaikat pada setiap rahim, kemudian malaikat tersebut mengatakan; 'Ya rabbi, ataukah sebatas segumpal mani?, ya rabbi, ataukah sebatas segumpal darah?, ya rabbi, ataukah sebatas segumpal daging?, ' dan jika Allah berkehendak memutuskan penciptaannya, malaikat mengatakan; 'ya rabbi, ataukah laki-laki ataukah perempuan?, sengsarakah ataukah bahagia?, seberapa rejekinya, kapan ajalnya?, ' lantas ditulis, demikian pula dalam perut ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6595</td></tr><tr><td>Arabic No</td><td>6595</td></tr><tr><td>Reference</td><td>Book 82 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт о том, что Пророк ﷺ сказал: «Аллах приставляет к утробе ангела, который говорит: “О Господь, капля! О Господь, сгусток крови! О Господь, кусочек плоти!” Когда же Аллах желает завершить его сотворение, (ангел) говорит: “О Господь, мальчик или девочка? Несчастный или счастливый? Каков его удел и срок?” И таким образом всё это записывается в утробе его матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6595</td></tr><tr><td>Arabic No</td><td>6595</td></tr><tr><td>Reference</td><td>Book 82 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is transmitted from Abu Sa'id al-Khudri that, verily, the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Abu Bukair] telah menceritakan kepada kami [Zuhair bin Muhammad] dari [Suhail bin Abu Shalih] dari [an-Nu'man bin Abu 'Ayyasy] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya penghuni surga yang paling rendah kedudukannya adalah orang yang dipalingkan wajahnya dari neraka ke arah surga, dan Allah menggambarkan baginya keberadaan sebuah pohon yang memiliki naungan. Lalu orang itu mengatakan, 'Wahai Rabbku, dekatkanlah aku ke pohon itu supaya aku berada dalam naungannya'." Lalu beliau menyebutkan hadits ini tentang masuknya dia ke surga serta keinginan-keinginannya, sampai akhirnya beliau mengatakan: 'Apabila dia tidak lagi memiliki keinginan, maka Allah berfirman kepadanya, 'Ini untukmu dan yang sepuluh kali ini.' Rasulullah shallallahu 'alaihi wasallam melanjutkan: 'Lalu orang itu masuk rumahnya (di surga), dan setelah itu dua istrinya dari kalangan dua bidadari masuk menemuinya. Keduanya mengatakan, 'Segala puji bagi Allah, Dzat Yang telah menghidupkanmu buat kami, dan menghidupkan kami buatmu.' Rasulullah mengatakan: 'Orang itu mengatakan, 'Tidak ada seorang pun yang mendapatkan pemberian sebagaimana pemberian yang Allah berikan buatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>464</td></tr><tr><td>Arabic No</td><td>188</td></tr><tr><td>Reference</td><td>Book 1 Hadith 369</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Поистине, самое низкое место в Раю займёт тот, кого Аллах отвратит от Ада и повернёт лицом к Раю. Перед ним возникнет тенистое дерево, и он скажет: “Господи, приблизь меня к тому дереву, чтобы я укрылся в его тени”». Далее в нём говорится то же, что и в хадисе Ибн Мас‘уда, за исключением концовки, начиная со слов «Аллах скажет: “О сын Адама, что заставит тебя остановиться?”». Вместо них в нём говорится: «Аллах будет напоминать ему: “Попроси то-то и то-то”. Когда же его желания закончатся, Аллах скажет: “Ты получишь это и в десять раз больше в придачу”. Потом он вступит в свой дом, и к нему войдут две жены черноокие гурии. Они скажут: “Хвала Аллаху, Который воскресил тебя для нас и нас для тебя”. А он скажет: “Никто не получил то, что получил я”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>464</td></tr><tr><td>Arabic No</td><td>188</td></tr><tr><td>Reference</td><td>Book 1 Hadith 369</td></tr></tbody></table></div>
 

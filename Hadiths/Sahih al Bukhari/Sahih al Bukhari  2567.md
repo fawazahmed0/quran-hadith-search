@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha said to me, "O my nephew! We used to see the crescent, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah Al Awaisiy] telah menceritakan kepada kami [Ibnu Abi HAzim] dari [bapaknya] dari [YAzid bin Ruman] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa dia berkata, kepada 'Urwah anak dari saudara perempuannya: "Sesungguhnya kami memperhatikan hilal kemudian hilal untuk ketiga kalinya dalam satu bulan dan tidak ada api yang dinyalakan di rumah-rumah Rasulullah shallallahu 'alaihi wasallam. Aku berkata: "Wahai bibi, apa yang dapat menjadikan kalian bertahan hidup?". Dia berkata: "Dua hal yang hitam, kurma dan air. Selain itu Rasulullah shallallahu 'alaihi wasallam mempunyai dua tetangga dari kalangan Anshar, yang mereka memiliki anak unta yang dapat diambil air susunya untuk Rasulullah shallallahu 'alaihi wasallam, lalu kedua tetangga itu memberi kami minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>2567</td></tr><tr><td>Reference</td><td>Book 51 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды ‘Аиша, да будет доволен ею Аллах, сказала ‘Урве, да помилует его Аллах Всевышний: «О сын моей сестры, бывало так, что мы видели молодой месяц, потом ещё один, (всего же мы видели) три молодых месяца в течение двух месяцев, (и за всё это время) в домах Посланника Аллаха ﷺ не разжигали огня». (‘Урва сказал): «Я спросил: “О тётя, что же поддерживало вас?” Она сказала: “Финики и вода, однако (помимо этого) у Посланника Аллаха ﷺ были соседи из числа ансаров, у которых были дойные верблюдицы или овцы, и они приносили в подарок Посланнику Аллаха ﷺ их молоко, а он поил им нас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>2567</td></tr><tr><td>Reference</td><td>Book 51 Hadith 2</td></tr></tbody></table></div>
 

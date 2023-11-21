@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Jabir added, "We were with the Prophet (ﷺ) at Nakhl and he offered the Fear pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4137</td></tr><tr><td>Arabic No</td><td>4137</td></tr><tr><td>Reference</td><td>Book 64 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Мы были вместе с Пророком ﷺ в Нахле, и он совершил молитву, совершаемую под воздействием страха /салят аль-хауф/». \nАбу Хурайра сказал: «Я совершил молитву, совершаемую под воздействием страха, с Пророком ﷺ во время похода на Неджд». Абу Хурайра пришёл к Пророку ﷺ в день Хайбара
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4137</td></tr><tr><td>Arabic No</td><td>4137</td></tr><tr><td>Reference</td><td>Book 64 Hadith 181</td></tr></tbody></table></div>
 

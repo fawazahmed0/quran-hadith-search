@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:(The people of) Bani Salama intended to shift near the mosque (of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Salam] telah menceritakan kepada kami [Al Fazariy] dari [Humaid Ath-Thowil] dari [Anas radliallahu 'anhu] berkata; Bani Salamah berkehendak untuk pindah tempat tinggal yang mendekat dengan masjid (Nabawi), namun Rasulullah shallallahu 'alaihi wasallam kurang setuju bila Madinah kosong ditinggal manusia, maka Beliau berkata: "Wahai Bani Salamah, bukankah jejak langkah kalian akan diperhitungkan?. Maka mereka tetap tinggal di tempat mereka semula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1887</td></tr><tr><td>Arabic No</td><td>1887</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(В своё время люди из племени) бану салима захотели переселиться из своих домов поближе к мечети (Пророка ﷺ), однако Посланник Аллаха ﷺ не желал, чтобы Медина опустела, и он сказал: “О бану салима, разве вы не принимаете в расчёт (не ждёте награду за то), что ваши шаги(подсчитываются)?” Тогда они остались на своих местах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1887</td></tr><tr><td>Arabic No</td><td>1887</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
 

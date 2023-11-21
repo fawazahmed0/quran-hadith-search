@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "It is not lawful for a lady 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] Telah menceritakan kepada kami [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang wanita untuk berpuasa sementara sementara suaminya ada di rumah, kecuai dengan seizinnya. Dan tidak boleh mengizinkan seseorang masuk ke dalam rumahnya kecuali dengan seizinnya. Dan sesuatu yang ia infakkan tanpa seizinnya, maka setengahnya harus dikembalikan pada suaminya." Hadits ini juga diriwayatkan oleh [Az Zinad] dari [Musa] dari [bapaknya] dari [Abu Hurairah] dalam bab shaum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5195</td></tr><tr><td>Arabic No</td><td>5195</td></tr><tr><td>Reference</td><td>Book 67 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, что Пророк ﷺ сказал: «Не разрешается женщине поститься в присутствии своего мужа, если не будет на то его позволения, и не разрешается ей пускать в его дом кого бы то ни было, если не будет на то его позволения, а за всё то, что потратит (жена), не получив на то веления (мужа), он получит половину награды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5195</td></tr><tr><td>Arabic No</td><td>5195</td></tr><tr><td>Reference</td><td>Book 67 Hadith 129</td></tr></tbody></table></div>
 

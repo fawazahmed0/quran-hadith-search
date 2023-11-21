@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "Cover your utensils and ti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Hammad bin Zaid] dari [Katsir] dari ['Atha'] dari [Jabir bin 'Abdullah radliallahu 'anhuma] yang memarfu'kannya, (Rasulullah shallallahu 'alaihi wasallam) bersabda: "Tutuplah bejana (perabot menyimpan makanan), ikatlah tutup kendi (perabot menyimpan minuman), tutup pintu-pintu rumah dan jagalah anak-anak kecil kalian pada waktu 'isya' karena saat itu adalah waktu bagi jin untuk berkeliaran dan menculik, dan padamkanlah lampu-lampu ketika kalian tidur, karena binatang-binatang berbahaya bila datang dapat menarik sumbu lampu sehingga dapat berakibat kebakaran yang menyebabkan terbunuhnya para penghuni rumah". [Ibnu Juraij] dan [Habib] berkata dari ['Atha']; "(saat itu adalah waktu) bagi setan-setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3316</td></tr><tr><td>Arabic No</td><td>3316</td></tr><tr><td>Reference</td><td>Book 59 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Прикрывайте сосуды, завязывайте бурдюки, запирайте двери, держите ваших детей (дома) с наступлением ночи, ибо, поистине, джинны (в этот период) расходятся (по земле) и хватают; и гасите светильники перед сном, ведь мыши могут утащить фитиль и сжечь обитателей дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3316</td></tr><tr><td>Arabic No</td><td>3316</td></tr><tr><td>Reference</td><td>Book 59 Hadith 122</td></tr></tbody></table></div>
 

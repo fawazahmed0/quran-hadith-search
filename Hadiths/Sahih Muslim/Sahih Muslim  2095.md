@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zuhri said:Kathir b. Abbas used to narrate that Ibn 'Abbas used to relate about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran] telah menceritakan kepada kami [Al Walid bin Muslim] telah mengabarkan kepada kami [Abdurrahman bin Namir] mendengar [Az Zuhri] berkata, dan telah mengabarkan kepadaku [Katsir bin Abbas] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, bahwasanya dalam shalat (Khusuf) beliau mengerjakan empat kali ruku' dan empat kali sujud dalam dua rakaat. Dan telah menceritakan kepada kami [Hajib bin Al Walid] telah menceritakan kepada kami [Muhammad bin Harb] telah menceritakan kepada kami [Muhammad bin Al Walid Az Zubaidi] dari [Az Zuhri] ia berkata, [Katsir bin Abbas] menceritakan bahwa [Ibnu Abbas] menceritakan tentang shalat kusuf (gerhana matahari) Rasulullah shallallahu 'alaihi wasallam sebagaimana hadits yang telah diceritakan oleh Urwah dari Aisyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2095</td></tr><tr><td>Arabic No</td><td>902.02</td></tr><tr><td>Reference</td><td>Book 10 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Кясира ибн ‘Аббаса, что Ибн ‘Аббас описал молитву Посланника Аллаха ﷺ во время солнечного затмения подобно тому, как это сделала ‘Аиша
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2095</td></tr><tr><td>Arabic No</td><td>902.02</td></tr><tr><td>Reference</td><td>Book 10 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Ali separated between a slave-girl and her child. The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], ia berkata; telah menceritakan kepada kami [Ishaq bin Manshur], telah menceritakan kepada kami [Abdussalam bin Harb] dari [Yazid bin Abdurrahman] dari [Al Hakam] dari [Maimun bin Abu Syabib] dari [Ali] bahwa ia telah memisahkan antara seorang budak wanita dan anaknya. Kemudian Nabi shallallahu 'alaihi wasallam melarangnya dari melakukan hal tersebut, dan beliau mengembalikan jual beli. Abu Daud berkata; dan Maimun tidak mendapati Ali. Ia terbunuh menggunakan jamjamah (kayu yang di ujungnya terdapat besi yang digunakan untuk membajak tanah), dan kejadian jamjamah tersebut pada tahun delapan puluh tiga. Abu Daud berkata; dan kejadian harrah (tempat yang berbatu hitam di Madinah) pada tahun enam puluh tiga. Dan Ibnu Az Zubair terbunuh pada tahun tujuh puluh tiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2696</td></tr><tr><td>Arabic No</td><td>2696</td></tr><tr><td>Reference</td><td>Book 15 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2696</td></tr><tr><td>Arabic No</td><td>2696</td></tr><tr><td>Reference</td><td>Book 15 Hadith 220</td></tr></tbody></table></div>
 

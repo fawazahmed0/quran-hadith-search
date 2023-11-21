@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man came to the Prophet (ﷺ) and said, "O Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdur Rahim] telah menceritakan kepada kami [Mu'awiyah bin 'Amru] telah menceritakan kepada kami [Za'idah] dari [Al A'masy] dari [Muslim Al Bathin] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Datang seorang laki-laki kepada Nabi shallallahu 'alaihi wasallam lalu berkata: "Wahai Rasulullah, sesungguhnya ibuku telah meningal dunia dan dia mempunyai kewajiban (hutang) puasa selama sebulan, apakah aku boleh menunaikannya?". Beliau Shallallahu'alaihiwasallam berkata: "Ya", Beliau melanjutkan: "Hutang kepada Allah lebih berhaq untuk dibayar". [Sulaiman] berkata, [Al Hakam] dan [Salamah] berkata; Ketika kami sedang duduk bersama, Muslim menceritakan tentang hadits ini, keduanya berkata; Kami mendengar [Mujahid] menyebutkan masalah ini dari [Ibnu 'Abbas radliallahu 'anhuma]. Dan disebutkan pula dari [Abu Khalid], telah menceritakan kepada kami [Al A'masy] dari [Al Hakam] dan [Muslim Al Bathin] dan [Salamah bin Kuhail] dari [Sa'id bin Jubair] dan ['Atho'] dan [Mujahid] dari [Ibnu 'Abbas radliallahu 'anhuma]; seorang wanita berkata kepada Nabi shallallahu 'alaihi wasallam: "Sesungguhnya saudara perempuanku telah meninggal dunia". Dan [Yahya] dan [Abu Mu'awiyah] berkata, telah menceritakan kepada kami [Al A'masy] dari [Muslim] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] radliallahu 'anhuma; seorang wanita berkata kepada Nabi shallallahu 'alaihi wasallam: "Sesungguhnya ibuku telah meningal dunia". Dan ['Ubaidullah] berkata; dari [Zaid bin Abi Unaisah] dari [Al Hakam] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas]; seorang wanita berkata kepada Rasulullah shallallahu 'alaihi wasallam; "sesungguhnya ibuku telah meninggal dunia, dan dia mempunyai tanggungan puasa nadzar." Dan [Abu Hariz] berkata, telah menceritakan kepada kami ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma]: seorang wanita berkata kepada Nabi shallallahu 'alaihi wasallam; "sesungguhnya ibuku telah meninggal dunia, dan dia memiliki hutang puasa selama lima belas hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1953</td></tr><tr><td>Arabic No</td><td>1953</td></tr><tr><td>Reference</td><td>Book 30 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) к Пророку ﷺ пришёл какой-то человек и сказал: “О Посланник Аллаха, моя мать, которая должна была поститься в течение месяца, умерла, так следует ли мне соблюдать этот пост вместо неё?” (Пророк ﷺ) сказал: “Да”, и он сказал (также): “Ведь долг Аллаху более всего заслуживает того, чтобы быть оплаченным!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1953</td></tr><tr><td>Arabic No</td><td>1953</td></tr><tr><td>Reference</td><td>Book 30 Hadith 60</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) used to keep silent between the Tak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami ['Abdul Wahid bin Ziyad] berkata, telah menceritakan kepada kami ['Umarah bin Al Qa'qa'] berkata, telah menceritakan kepada kami [Abu Zur'ah] berkata, telah menceritakan kepada kami [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam berdiam antara takbir dan bacaan Al Qur'an." Abu Zur'ah berkata, Aku mengira Abu Hurairah berkata, 'Berhenti sebentar, lalu aku berkata, "Wahai Rasulullah, demi bapak dan ibuku! Tuan berdiam antara takbir dan bacaan. Apa yang tuan baca diantaranya?. Beliau bersabda: "Aku membaca; ALLAHUMMA BAA'ID BAINII WA BAINA KHATHAAYAAYA KAMAA BAA'ADTA BAINAL MASYRIQI WAL MAGHRIB. ALLAHUMMA NAQQINII MIN KHATHAAYAAYA KAMAA YUNAQQATS TSAUBUL ABYADLU MINAD DANAS. ALLAHUMMAGHSILNII MIN KHATHAAYAAYA BILMAA'I WATSTSALJI WAL BARAD (Ya Allah, jauhkanlah antara aku dan kesalahanku sebagaimana Engkau menjauhkan antara timur dan barat. Ya Allah, sucikanlah kesalahanku sebagaimana pakaian yang putih disucikan dari kotoran. Ya Allah, cucilah kesalahanku dengan air, salju dan es yang dingin)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>744</td></tr><tr><td>Arabic No</td><td>744</td></tr><tr><td>Reference</td><td>Book 10 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— Обычно Посланник Аллаха ﷺ умолкал на короткий промежуток времени между произнесением слов «Аллах велик» и (началом) чтения («аль-Фатихи». Однажды) я спросил: «Да станут мои родители выкупом за тебя, о Посланник Аллаха, что ты говоришь про себя между такбиром и чтением (“аль-Фатихи”)?» Он ответил: «Я говорю: “О Аллах, удали меня от прегрешений моих, как удалил Ты восток от запада; о Аллах, очисть меня от прегрешений, как очищают белую одежду от грязи; о Аллах, смой прегрешения мои водой, снегом и градом!\n/Аллахумма, ба‘ид байни ва байна хатайайа кама ба‘адта байна-ль-машрикъи ва-ль-магъриб, Аллахумма, наккъини мин аль-хатайа кама йунаккъа-с-саубу-ль-абйаду мин ад-данас, Аллахумма-гъсиль хатайайа биль-мàи, ва-с-сальджи ва-ль-барад!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>744</td></tr><tr><td>Arabic No</td><td>744</td></tr><tr><td>Reference</td><td>Book 10 Hadith 138</td></tr></tbody></table></div>
 

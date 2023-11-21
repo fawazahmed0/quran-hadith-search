@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas b. Malik :When a man who has a wife married a virgin he should sta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Husyaim], dan [Isma'il bin 'Ulayyah], dari [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Anas bin Malik], ia berkata; apabila seseorang menikahi seorang gadis sebagai madu seorang janda maka ia tinggal di rumahnya selama tujuh hari, dan apabila menikahi seorang janda maka ia tinggal di rumahnya selama tiga hari. Jika aku mengatakan ia telah merafa'kan hadits tersebut, maka aku telah benar, akan tetapi ia mengatakan; sunnah. Demikianlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5213) Sahih Muslim (1461)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2124</td></tr><tr><td>Arabic No</td><td>2124</td></tr><tr><td>Reference</td><td>Book 12 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, сказал: «Если мужчина, у которого уже есть жена, берёт в жёны девственницу, ему следует провести с ней семь дней, а если он, уже будучи женатым, берёт в жёны побывавшую замужем, ему следует провести с ней три дня». Абу Кыляба, передавший эти слова от Анаса, сказал: «И если бы я сказал, что он передал эти слова от Посланника Аллаха ﷺ это было бы правдой, однако он сказал: “Такова сунна”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5213) Sahih Muslim (1461)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2124</td></tr><tr><td>Arabic No</td><td>2124</td></tr><tr><td>Reference</td><td>Book 12 Hadith 79</td></tr></tbody></table></div>
 

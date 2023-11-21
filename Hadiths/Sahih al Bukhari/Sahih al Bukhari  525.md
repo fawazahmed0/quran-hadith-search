@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq:that he had heard Hudhaifa saying, "Once I was sitting with 'Uma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Al A'masy] berkata, telah menceritakan kepadaku [Syaqiq] berkata, Aku pernah mendengar [Hudzaifah] berkata, "Kami pernah bermajelis bersama 'Umar, lalu ia berkata, "Siapa di antara kalian yang masih ingat sabda Rasulullah shallallahu 'alaihi wasallam tentang masalah fitnah? ' Aku lalu menjawab, 'Aku masih ingat seperti yang beliau sabdakan! ' 'Umar bertanya, "Kamu dengar dari beliau atau kamu mendengar perkataan itu dari orang lain?" Aku menjawab, 'Yaitu fitnah seseorang dalam keluarganya, harta, anak dan tetangganya. Dan fitnah itu akan terhapus oleh amalan shalat, puasa, sedekah, amar ma'ruf dan nahi munkar." 'Umar berkata, "Bukan itu yang aku mau. Tapi fitnah yang dahsyat seperti dahsyatnya air laut." Hudzaifah berkata, "Wahai Amirul Mukminin, sesungguhnya fitnah itu tidak akan membahayakan engkau! antara engkau dengannya terhalang oleh pintu yang tertutup." 'Umar bertanya; "Pintu yang rusak atau terbuka?" Hudzaifah menjawab, "Rusak." 'Umar pun berkata, "Kalau begitu tidak akan bisa ditutup selamanya! ' Kami (perawi) bertanya, "Apakah 'Umar mengerti pintu yang dimaksud?" Hudzaifah menjawab, "Ya. Sebagaimana mengertinya dia bahwa setelah pagi adalah malam hari. Aku telah menceritakan kepadanya suatu hadits yang tidak ada kerancuannya." Namun kami takut untuk bertanya kepada Hudzaifah, lalu aku suruh Masruq untuk, lalu ia pun menanyakannya kepadanya. Hudzaifah lalu menjawab, "Pintu itu adalah Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>525</td></tr><tr><td>Arabic No</td><td>525</td></tr><tr><td>Reference</td><td>Book 9 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен им Аллах, сказал:«(Однажды, когда) мы сидели у ‘Умара, да будет доволен им Аллах, он спросил: “Кто из вас помнит слова Посланника Аллаха ﷺ об испытании?” Я сказал: “Я (запомнил всё именно) так, как он сказал”. (‘Умар) воскликнул: “Поистине, ты проявляешь (в этом) смелость!” — (после чего) я повторил (слова Пророка ﷺ): “Искушение человека, связанное с его женой, деньгами, детьми и соседями, искупается молитвой, постом, садакой, (побуждением людей к совершению) одобряемого (шариатом) и удержанием от порицаемого”. (‘Умар) сказал: “Я имею в виду не это, а такое бедствие /фитна/, которое станет бушевать подобно бушующему морю”. Я сказал: “Оно не повредит тебе, о повелитель правоверных, ибо, поистине, ты отделён от него запертой дверью”. (‘Умар) спросил: “(Эта дверь) будет сломана или открыта?” Я ответил: “Она будет сломана”. (‘Умар) сказал: “Значит, (после этого) её уже никогда не закроют!”»\n(Хузайфа сказал): «(Меня) спросили: “Знал ли ‘Умар, о какой двери (идёт речь)?” Я ответил: ”(Он знал это так же хорошо,) как и то, что ночь предшествует утру. Что же касается (сказанного Пророком ﷺ) то я передал ему это без ошибок”».\n(Хузайфу) спросили: «Кто же был этой дверью?» Он ответил: «Этой дверью (являлся сам) ‘Умар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>525</td></tr><tr><td>Arabic No</td><td>525</td></tr><tr><td>Reference</td><td>Book 9 Hadith 4</td></tr></tbody></table></div>
 

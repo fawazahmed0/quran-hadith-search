@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said: "There are two blessings that many p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] telah mengabarkan kepada kami [Abdullah bin Sa'id] yaitu Ibnu Abu Hind dari [Ayahnya] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Dua kenikmatan yang sering dilupakan oleh kebanyakan manusia adalah kesehatan dan waktu luang." ['Abbas Al 'Anbari] mengatakan; telah menceritakan kepada kami [Shufwan bin Isa] dari [Abdullah bin Sa'id bin Abu Hind] dari [Ayahnya] saya mendengar [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6412</td></tr><tr><td>Arabic No</td><td>6412</td></tr><tr><td>Reference</td><td>Book 81 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Многие люди обделены двумя милостями: здоровьем и свободным временем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6412</td></tr><tr><td>Arabic No</td><td>6412</td></tr><tr><td>Reference</td><td>Book 81 Hadith 1</td></tr></tbody></table></div>
 

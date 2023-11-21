@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said; When anyone amongst us (the wives of the Prophet) menstruated, the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Ibrahim] dari [Al-Aswad] dari [Aisyah] dia berkata; biasa Rasulullah Shallallahu'alaihiwasallam menyuruh salah seorang di antara kami (istri-istri beliau) apabila sedang haidl untuk memakai kain sarung, kemudian ia menidurinya -pada kali lain Aswad mengatakan dengan redaksi Menggaulinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (300، 2030) Sahih Muslim (293)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>268</td></tr><tr><td>Reference</td><td>Book 1 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда у одной из нас были менструации, Посланник Аллаха ﷺ повелевал ей заворачиваться в изар, а затем ложился рядом с ней».Один раз (Шу‘ба ) сказал: « … прикасался к ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (300، 2030) Sahih Muslim (293)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>268</td></tr><tr><td>Reference</td><td>Book 1 Hadith 268</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah and Abu Musa:The Prophet (ﷺ) said, "Near the establishment 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Al A'masy] dari [Syaqiq] mengatakan; aku bersama [Abdullah] dan [Abu Musa], keduanya mengatakan; Nabi Shallallahu'alaihiwasallam bersabda; "Menjelang kiamat terjadi, terdapat hari-hari yang ketika itu banyak kebodohan, ilmu diangkat, dan banyak alharaj, alharaj adalah pembunuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7063</td></tr><tr><td>Arabic No</td><td>7063</td></tr><tr><td>Reference</td><td>Book 92 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Шакик (ибн Саляма) сказал: «(Однажды,) когда я был вместе с ‘Абдуллах (ибн Мас‘удом) и Абу Мусой (аль-Аш‘ари), да будет доволен Аллах ими обоими, они рассказали о том, что Пророк ﷺ сказал: «Поистине, незадолго до Часа настанут такие дни, в которые распространится невежество, уйдёт знание и будет много убийств»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7063</td></tr><tr><td>Arabic No</td><td>7063</td></tr><tr><td>Reference</td><td>Book 92 Hadith 14</td></tr></tbody></table></div>
 

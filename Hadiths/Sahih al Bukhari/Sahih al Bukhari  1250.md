@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The women requested the Prophet, "Please fix a day for us." S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Abdurrahman bin Al Ashbahaaniy] dari [Dzakwan] dari [Abu Sa'id] radliallahu 'anhu bahwa para wanita pernah berkata, kepada Nabi shallallahu 'alaihi wasallam; "Sediakanlah satu hari untuk kami!". Maka kemudian Beliau memberikan pelajaran untuk mereka dan diantaranya bersabda: "Siapa saja dari wanita yang ditinggal mati oleh tiga orang anaknya melainkan mereka akan menjadi hijab (pembatas) dari api neraka". Seorang wanita berkata: "Bagaimana kalau ditinggal mati oleh dua orang anak? Beliau menjawab: "Dan juga oleh dua orang". Dan berkata, [Syarik] dari [Al Ashbahaaniy] telah menceritakan kepada saya [Abu Shalih] dari [Abu Sa'id] dan [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam. Berkata, Abu Hurairah radliallahu 'anhu: "Bila mereka belum baligh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1250</td></tr><tr><td>Arabic No</td><td>1250</td></tr><tr><td>Reference</td><td>Book 23 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии этого хадиса, передаваемой со слов Абу Хурайры, да будет доволен им Аллах, сообщается, что Посланник Аллаха ﷺ сказал: «…не достигших совершеннолетия…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1250</td></tr><tr><td>Arabic No</td><td>1250</td></tr><tr><td>Reference</td><td>Book 23 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas: I was informed by Abu Sufyan that Heraclius said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dari [Ubaidillah bin Abdullah] bahwa [Abdullah bin 'Abbas] mengabarkan kepadanya, bahwa dia berkata; telah mengabarkan kepadaku [Abu Sufyan bin Harb] bahwa Heraqlius berkata kepadanya: "Aku sudah bertanya kepadamu, apakah jumlah mereka bertambah atau berkurang? Maka kamu bertutur bahwa mereka bertambah, dan memang begitulah iman akan terus berkembang hingga sempurna. Dan aku bertanya kepadamu, apakah ada orang yang murtad karena dongkol pada agamanya? Kemudian kamu bertutur; tidak ada, maka begitu juga iman bila sudah tumbuh bersemi dalam hati tidak akan ada yang dongkol kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Arabic No</td><td>51</td></tr><tr><td>Reference</td><td>Book 2 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убайдуллы ибн ‘Абдуллах о том, что ‘Абдуллах ибн ‘Аббас рассказывал ему: «Мне сообщил Абу Суфйан о том, что Ираклий сказал ему: “Я спросил у тебя: “Они увеличиваются или уменьшаются”, и ты утверждал, что они увеличиваются. Но такова и вера, пока она не станет полной. Я спросил у тебя: “Отказывается ли кто-то из них от своей религии из-за недовольства ею, после того как принял её”, и ты утверждал, что нет. Но (так и бывает), когда вера проникает в сердца — никто не бывает не довольным ею”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Arabic No</td><td>51</td></tr><tr><td>Reference</td><td>Book 2 Hadith 44</td></tr></tbody></table></div>
 

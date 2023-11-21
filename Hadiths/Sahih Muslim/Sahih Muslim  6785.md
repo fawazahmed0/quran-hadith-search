@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported Allah's Messenger (ﷺ) as saying:It is from the conditio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Abu At Tayyah] telah menceritakan kepadaku [Anas bin Malik] dia berkata; Rasulullah Shallallahu'alaihi wa Sallam bersabda: "Diantara tanda-tanda terjadinya hari kiamat yaitu: diangkatnya ilmu, kebodohan merajalela, banyaknya orang yang meminum minuman keras, dan zina dilakukan dengan terang-terangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6785</td></tr><tr><td>Arabic No</td><td>2671.01</td></tr><tr><td>Reference</td><td>Book 47 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6785</td></tr><tr><td>Arabic No</td><td>2671.01</td></tr><tr><td>Reference</td><td>Book 47 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Safiyyah bint Huyayy: Ibn Harmalah said: Umm Habib gave us a sa' and to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], ia berkata; aku membacakan riwayat kepada [Anas bin 'Iyadh], ia berkata; telah menceritakan kepadaku [Abdurrahman bin Harmalah], dari [Ummu Habib binti Dzuaib bin Qais Al Muzaniyyah], dan dahulu ia adalah isteri seorang laki-laki diantara mereka yang berasal dari Aslam, kemudian menjadi isteri anak saudara Shafiyyah isteri Nabi shallallahu 'alaihi wasallam. Ibnu Harmalah berkata; Ummu Habib menghadiahkan kepada kami satu sha'. Ia telah menceritakan kepada kami dari [anak saudara Shafiyyah], dari [Shafiyyah] bahwa sha' tersebut adalah sha' Nabi shallallahu 'alaihi wasallam. anas berkata; kemudian aku mencobanya, atau ia berkata; kemudian aku memperkirakannya dan aku dapatkan sha' tersebut sama dengan dua mud setengah menurut ukuran mud (milik) Hisyam (Hisyam bin Abdul Malik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3279</td></tr><tr><td>Arabic No</td><td>3279</td></tr><tr><td>Reference</td><td>Book 22 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил обеты, сказав: «Поистине, обет ничего не меняет. Поистине, посредством него вытягивают нечто из скупого». Мусаддад передаёт, что Посланник Аллаха ﷺ сказал: «Обет ничего не меняет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3279</td></tr><tr><td>Arabic No</td><td>3279</td></tr><tr><td>Reference</td><td>Book 22 Hadith 38</td></tr></tbody></table></div>
 

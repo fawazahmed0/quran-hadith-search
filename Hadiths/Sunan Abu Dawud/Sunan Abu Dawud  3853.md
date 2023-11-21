@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: AbulHaytham ibn at-Tayhan prepared food for the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Ahmad] telah menceritakan kepada kami [Sufyan] dari [Yazid Abu Khalid Abu Daud Dalani] dari [seorang laki-laki] dari [Jabir bin Abdullah] ia berkata, "Abu Al Haitsam bin At Taihan membuatkan makanan untuk Nabi shallallahu 'alaihi wasallam, kemudian ia mengundang Nabi shallallahu 'alaihi wasallam dan para sahabatnya. Ketika telah selesai beliau bersabda: "Balaslah saudaramu!" Para sahabat bertanya, "Wahai Rasulullah, bagaimana membalasnya?" Beliau menjawab: "Sesungguhnya seseorang apabila dimasuki rumahnya kemudian dimakan makanannya serta diminum minumannya lalu mereka mendoakan untuknya, maka itulah balasan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3853</td></tr><tr><td>Arabic No</td><td>3853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Абу аль-Хайсам ибн ат-Тейхан приготовил для Пророка ﷺ еду. Он позвал Пророка ﷺ и его сподвижников, и когда они закончили есть, Пророк ﷺ сказал: «Вознаградите вашего брата». Они спросили: «Как же нам вознаградить его?» Пророк ﷺ сказал: «Если к какому-то человеку пришли и поели и попили у него, а потом обратились к Аллаху с мольбой за него, то это и будет вознаграждение ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3853</td></tr><tr><td>Arabic No</td><td>3853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 118</td></tr></tbody></table></div>
 

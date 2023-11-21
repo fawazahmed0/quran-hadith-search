@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: I fell ill, and I had seven sisters. The Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Katsir bin Hisyam], telah menceritakan kepada kami [Hisyam Ad Dastuwai], dari [Abu Az Zubair], dari [Jabir], ia berkata; aku sedang sakit sementara aku memiliki tujuh orang saudara perempuan, kemudian Rasulullah shallallahu 'alaihi wasallam mendatangiku dan meniup pada wajahku kemudian aku tersadar, lalu aku katakan; wahai Rasulullah, bolehkah aku berwasiat sepertiga untuk para saudara wanita? Beliau berkata: "Berikan yang lebih baik!" Aku katakan; setengah? Beliau berkata: "Berikan yang lebih baik!" kemudian beliau keluar dan meninggalkanku. Lalu beliau berkata; wahai Jabir, aku yakin engkau tidak meninggal karena sakitmu. Sesungguhnya Allah telah menurunkan ayat dan menjelaskan bagian untuk saudara-saudara wanitamu. Allah memberikan untuk mereka dua pertiga. Jabir berkata; ayat ini turun mengenai diriku: "Mereka meminta fatwa kepadamu tentang kalalah (orang mati yang tidak meninggalkan ayah dan anak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2887</td></tr><tr><td>Arabic No</td><td>2887</td></tr><tr><td>Reference</td><td>Book 19 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом: «Я заболел, а у меня было семь сестёр, и Посланник Аллаха ﷺ зашёл ко мне и подул мне в лицо, после чего я очнулся и сказал: “О Посланник Аллаха, не завещать ли мне своим сёстрам треть моего имущества?” Он сказал: “Поступи лучше”. Тогда я сказал: “Может, тогда половину?” Он сказал: “Поступи лучше”. Затем он вышел, оставив меня, со словами: “О Джабир, я думаю, что ты не умрёшь от этой твоей болезни. И, поистине, Аллах разъяснил, сколько полагается твоим сёстрам. Он постановил, что им полагается две трети”». Джабир говорил: «Этот аят был ниспослан по поводу меня: “Они просят тебя вынести решение. Скажи: “Аллах вынесет для вас решение относительно тех, кто не оставляет после себя родителей или детей”” (сура 4 «ан-Ниса», аят 176)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2887</td></tr><tr><td>Arabic No</td><td>2887</td></tr><tr><td>Reference</td><td>Book 19 Hadith 3</td></tr></tbody></table></div>
 

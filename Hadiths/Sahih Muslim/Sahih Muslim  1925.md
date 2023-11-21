@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] Telah menceritakan kepada kami [bapakku] dan [Muhammad bin Bisyr] keduanya berkata, Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menunda-nunda shalat sehingga mengerjakannya saat matahari terbit, dan jangan pula saat terbenamnya, karena matahari itu terbit di antara dua tanduk syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1925</td></tr><tr><td>Arabic No</td><td>828.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 353</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Не стремитесь молиться во время восхода солнца и во время его захода, потому что оно восходит меж двух рогов шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1925</td></tr><tr><td>Arabic No</td><td>828.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 353</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: (The standard) weight is the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Ibnu Dukain], telah menceritakan kepada kami [Sufyan], dari [Hanzhalah] dari [Thawus] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Timbangan yang menjadi standar ukuran adalah timbangan penduduk Mekkah, takaran yang menjadi standar ukuran adalah takaran penduduk Madinah." Abu Daud berkata; demikian ini yang diriwayatkan oleh [Al Firyabi], dan [Abu Ahmad], dari [Sufyan]. Dan keduanya sama dalam matan. [Abu Ahmad] berkata; dari [Ibnu Abbas]. Sebagai ganti Ibnu Umar. Hadits tersebut diriwayatkan oleh [Al Walid bin Muslim] dari [Hanzhalah]. Ia berkata; timbangan Madinah dan takaran Mekkah. Abu Daud berkata; dan telah diperselisihkan dalam matan pada hadits Malik bin Dinar, dari 'Atha', dari Nabi shallallahu 'alaihi wasallam dalam hal ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3340</td></tr><tr><td>Arabic No</td><td>3340</td></tr><tr><td>Reference</td><td>Book 23 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «[В том, что касается] веса, [за основу принимается мера] веса жителей Мекки, [а в том, что касается] объёма, [за основу принимается] мера жителей Медины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3340</td></tr><tr><td>Arabic No</td><td>3340</td></tr><tr><td>Reference</td><td>Book 23 Hadith 15</td></tr></tbody></table></div>
 

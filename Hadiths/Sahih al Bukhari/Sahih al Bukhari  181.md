@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:"When Allah's Messenger (ﷺ) departed from 'Arafat, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Salam] berkata, telah mengabarkan kepada kami [Yazid bin Harun] dari [Yahya] dari [Musa bin 'Uqbah] dari [Kuraib] mantan budak Ibnu 'Abbas, dari [Usamah bin Zaid], bahwa ketika Rasulullah shallallahu 'alaihi wasallam bertolak meninggalkan 'Arafah beliau menuju bukit dan menunaikan hajatnya." Usamah bin Zaid berkata, "Aku lalu menuangkan air untuknya hingga beliau pun berwudlu. aku lalu berkata, "Wahai Rasulullah, apakah kita akan shalat di sini?" Beliau menjawab: "Tempat shalat ada di depanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>181</td></tr><tr><td>Arabic No</td><td>181</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Усамы ибн Зейда о том, что когда Посланник Аллаха ﷺ двинулся с ‘Арафата (в Муздалифу), он отошёл к ущелью и справил (там) свою нужду.\nУсама ибн Зейд сказал: «Я стал наливать ему воду, когда он совершал омовение и спросил: “О Посланник Аллаха, ты будешь молиться?” — а он ответил: “Место молитвы перед тобой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>181</td></tr><tr><td>Arabic No</td><td>181</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
 

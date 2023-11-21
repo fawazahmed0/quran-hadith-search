@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sahl b. Sa’d reported the prophet (ﷺ) as saying:I swear on Allah, it will be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [Ayahnya] dari [Sahl bin Sa'dan] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Demi Allah, sekiranya Allah memberi petunjuk kepada seorang laki-laki melalui perantaramu, maka itu lebih baik bagimu dari unta merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3701) Sahih Muslim (2406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3661</td></tr><tr><td>Arabic No</td><td>3661</td></tr><tr><td>Reference</td><td>Book 26 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сахля ибн Са‘да, да будет доволен им Аллах, что Пророк ﷺ сказал: «Клянусь Аллахом, если Аллах приведёт через тебя к вере даже одного человека, это будет лучше для тебя, чем обладание красными верблюдами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3701) Sahih Muslim (2406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3661</td></tr><tr><td>Arabic No</td><td>3661</td></tr><tr><td>Reference</td><td>Book 26 Hadith 21</td></tr></tbody></table></div>
 

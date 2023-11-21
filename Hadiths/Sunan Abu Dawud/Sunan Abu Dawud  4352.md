@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah (b. Mas'ud) reported the Messenger of Allah (peace be upon him) as say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Aun] berkata, telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal darah seorang muslim yang bersaksi bahwa tidak ada Ilah yang berhak disembah selain Allah dan aku adalah utusan Allah kecuali dengan salah satu dari tiga sebab; orang tua yang berzina, membunuh jiwa (qisas) dan keluar dari Islam (murtad) yang memisahkan diri dari jama'ah (jama'ah muslimin)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6878) Sahih Muslim (1676)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4352</td></tr><tr><td>Arabic No</td><td>4352</td></tr><tr><td>Reference</td><td>Book 40 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Не разрешается проливать кровь (казнить) мусульманина (будь это мужчина или женщина), свидетельствующего, что нет бога [заслуживающего поклонение], кроме Аллаха, и что я Посланник Аллаха, кроме как в трёх случаях. Это состоявший в браке прелюбодей, душа за душу (казнь в качестве воздаяния равным за убийство) и отрёкшийся от своей религии и отколовшийся от общины (вероотступник)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6878) Sahih Muslim (1676)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4352</td></tr><tr><td>Arabic No</td><td>4352</td></tr><tr><td>Reference</td><td>Book 40 Hadith 2</td></tr></tbody></table></div>
 

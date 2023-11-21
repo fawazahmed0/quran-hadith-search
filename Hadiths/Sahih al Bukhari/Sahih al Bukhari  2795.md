@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik: The Prophet (ﷺ) said, "Nobody who dies and finds good
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah bin 'Amru] telah bercerita kepada kami [Abu Ishaq] dari [Humaid] berkata aku mendengar [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada seorang hamba pun yang meninggal dunia, di dimana di sisi Allah dia mendaptkan balasan, yang lebih baik sehingga membuatnya berhasrat untuk kembali lagi ke dunia dan sungguh dia mendapatkan dunia beserta isinya kecuali orang yang mati syahid karena dia melihat keutamaan mati syahid. Sungguh dia menginginkan dapat kembali ke dunia kemudian dia (berperang) dan mati syahid sekali lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2795</td></tr><tr><td>Arabic No</td><td>2795</td></tr><tr><td>Reference</td><td>Book 56 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, что Пророк ﷺ сказал: «Никто из тех рабов, кто умирает, имея добро у Аллаха (праведные дела), не пожелал бы вернуться в этот мир, даже если бы ему был дан весь мир и всё, что в нём есть, кроме павшего за веру, который, увидев превосходство смерти за веру, хотел бы вернуться в этот мир и снова быть убитым (на пути Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2795</td></tr><tr><td>Arabic No</td><td>2795</td></tr><tr><td>Reference</td><td>Book 56 Hadith 13</td></tr></tbody></table></div>
 

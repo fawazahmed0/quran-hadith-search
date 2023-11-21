@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:that he had seen Um Kulthum, the daughter of Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Anas bin Malik] bahwa dia pernah melihat Ummu Kultsum 'alaiha salam puteri Rasulullah shallallahu 'alaihi wasallam mengenakan kain yang bersulam sutera
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5842</td></tr><tr><td>Arabic No</td><td>5842</td></tr><tr><td>Reference</td><td>Book 77 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, что он видел на Умм Кульсум, дочери Посланника Аллаха ﷺ плащ с полосками шёлка
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5842</td></tr><tr><td>Arabic No</td><td>5842</td></tr><tr><td>Reference</td><td>Book 77 Hadith 59</td></tr></tbody></table></div>
 

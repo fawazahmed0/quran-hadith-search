@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I heard the Prophet (ﷺ) delivering a sermon at 'Arafat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepada saya ['Amru] berkata; Aku mendengar [Jabir bin Zaid] berkata; Aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata: Aku mendengar Nabi shallallahu 'alaihi wasallam menyampaikan khuthbah di 'Arafah". Hadits ini dikuatkan pula oleh [Ibnu 'Uyainah] dari ['Amru]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1740</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 25 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я слышал, как Пророк ﷺ произносил проповедь на Арафате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1740</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 25 Hadith 218</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that a Jew killed a girl of the Ansar for her ornaments and then t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] dari [Abu Qilabah] dari [Anas], bahwa seorang laki-laki Yahudi membunuh sahaya perempuan Anshar karena ingin merampas perhiasannya, kemudian ia melemparkan wanita tersebut ke dalam sumur dan melemparinya dengan batu. Lalu dia ditangkap dan dihadapkan kepada Rasulullah shallallahu 'alaihi wasallam, setelah itu beliau memerintahkan supaya pembunuhnya dirajam, maka ia pun dirajam hingga mati." Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ma'mar] dari [Ayyub] seperti sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4363</td></tr><tr><td>Arabic No</td><td>1672.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4363</td></tr><tr><td>Arabic No</td><td>1672.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 22</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:When Allah's Messenger (ﷺ) came to Medina, Abla Talha took hold 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakannya kepada kami [Ahmad bin Hanbal] dan [Zuhair bin Harb] seluruhnya dari [Ismail] lafazh ini milik Ahmad keduanya berkata; Telah menceritakan kepada kami [Ismail bin Ibrahim] Telah menceritakan kepada kami [Abdul Aziz] dari [Anas] dia berkata; 'Tatkala Rasulullah shallallahu 'alaihi wasallam sampai di Madinah, Abu Thalhah menuntunku menemui Rasulullah shallallahu 'alaihi wasallam lalu dia berkata; 'Ya Rasulullah, Anas ini adalah anak yang cerdik, Jadikanlah ia sebagai pembantumu. Anas berkata; 'Lalu aku selalu membantu Rasulullah shallallahu 'alaihi wasallam baik ketika di rumah maupun ketika pepergian. Demi Allah, tidak pernah aku dapatkan beliau menegurku atas apa yang aku kerjakan dengan ucapan; 'Mengapa kamu tidak melakukan ini dengan begini.' ataupun terhadap apa yang tidak aku laksanakan, dengan perkataan; 'Kenapa kamu belum lakukan ini seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6013</td></tr><tr><td>Arabic No</td><td>2309.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6013</td></tr><tr><td>Arabic No</td><td>2309.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bahz b Hakim reported from his grandfather:The Messenger of Allah (ﷺ) said: Fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Ismail], telah menceritakan kepada Kami [Hammad], telah mengabarkan kepada Kami [Bahz bin Hakim] dan jalur periwayatan lain telah menceritakan kepada kami [Muhammad bin Al 'Ala'] dan telah mengabarkan kepada kami [Abu Usamah] dari [Bahz bin Hakim] dari [ayahnya] dari [kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam Bersabda: "Pada setiap empat puluh unta saimah (yang digembala lebih dari satu tahun) terdapat zakat satu bintu labun (yang memiliki umur dua tahun), dan unta tidak boleh dipisahkan dari hitungannya, barangsiapa yang memberikan zakatnya karena mengharap pahala, maka baginya pahala. Dan barangsiapa yang enggan membayarnya, maka Kami akan mengambilnya dan setengah hartanya; sebagai kewajiban diantara kewajiban-kewajiban Allah Azza wa jalla, dan keluarga Muhammad tidak berhak sedikitpun dari harta tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1575</td></tr><tr><td>Arabic No</td><td>1575</td></tr><tr><td>Reference</td><td>Book 9 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Бахз ибн Хаким передаёт от своего отца рассказ своего деда (Муавии ибн Хайды, да будет доволен им Аллах,) о том, что Посланник Аллаха ﷺ сказал: «С пасущихся верблюдов взимается закят: с сорока двухлетняя верблюдица. Верблюдов не следует разделять. Кто даёт их, стремясь к награде, тот получит награду за них. А кто станет удерживать, у того мы возьмём их и ещё половину состояния. Это право нашего Господа, и семейство Мухаммада не станет брать ничего из этих денег»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1575</td></tr><tr><td>Arabic No</td><td>1575</td></tr><tr><td>Reference</td><td>Book 9 Hadith 20</td></tr></tbody></table></div>
 

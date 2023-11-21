@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qatadah Ibn Malhan al-Qaysi: The Messenger of Allah (ﷺ) used to comma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah menceritakan kepada kami [Hammam], dari [Anas] saudara Muhammad, dari [Ibnu Milhan Al Qaisi] dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami agar berpuasa pada hari Bidh yaitu tanggal tiga belas, empat belas, dan lima belas. Ia berkata; dan beliau berkata; hari-hari tersebut seperti satu tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2449</td></tr><tr><td>Arabic No</td><td>2449</td></tr><tr><td>Reference</td><td>Book 14 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мильхана аль-Кайси, да будет доволен им Аллах: «Посланник Аллаха ﷺ велел нам поститься в «белые» дни, то есть тринадцатого, четырнадцатого и пятнадцатого числа каждого месяца, и сказал: “Тогда пост будет подобен непрерывному посту”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2449</td></tr><tr><td>Arabic No</td><td>2449</td></tr><tr><td>Reference</td><td>Book 14 Hadith 137</td></tr></tbody></table></div>
 

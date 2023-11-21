@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ar-Rabi':(the daughter of Muawwidh bin Afra) After the consummation of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] Telah menceritakan kepada kami [Khalid bin Dzakwan] ia berkata; [Ar Rubayyi' binti Mu'awwidz bin 'Afran] berkata; suatu ketika, Nabi shallallahu 'alaihi wasallam dan masuk saat aku membangun mahligai rumah tangga (menikah). Lalu beliau duduk di atas kasurku, sebagaimana posisi dudukmu dariku. Kemudian para budak-budak wanita pun memukul rebana dan mengenang keistimewaan-keistimewaan prajurit yang gugur pada saat perang Badar. Lalu salah seorang dari mereka pun berkata, "Dan di tengah-tengah kita ada seorang Nabi, yang mengetahui apa yang akan terjadi esok hari." Maka beliau bersabda: "Tinggalkanlah ungkapan ini, dan katakanlah apa yang ingin kamu katakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 67 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ар-Рубаййи‘ бинт Му‘аввиз ибн ‘Афра сказала: «Пророк ﷺ зашёл ко мне на следующее утро после моей свадьбы и сел на моё ложе так же, как сидишь ты рядом со мной (передатчик хадиса), когда маленькие девочки (, которые находились у меня,) били в бубны, оплакивая и поминая своих отцов, погибших в день Бадра. Одна девочка сказала: “Среди нас находится Пророк, знающий, что будет завтра”, и тогда Пророк ﷺ сказал ей: “Оставь это, а говори то, что ты говорила (прежде)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 67 Hadith 82</td></tr></tbody></table></div>
 

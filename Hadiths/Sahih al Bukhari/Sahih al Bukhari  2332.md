@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi':We worked on farms more than anybody else in Medina. We used to r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadhol] telah mengabarkan kepada kami [Ibnu 'Uyainah] dari [Yahya] bahwa dia mendengar [Hanzhalah Az Zuraqiy] dari [Rafi' radliallahu 'anhu] berkata: "Kami adalah orang yang paling banyak memiliki kebun di Madinah dan diantara kami ada yang memperkerjakan orang untuk menggarap ladang dan berkata, kepada penggarapnya: "Ini bagian untukku dan ini untukmu dan seandainya tidak menghasilkan maka kamu tidak mendapatkan apa-apa". Maka kemudian Nabi shallallahu 'alaihi wasallam melarang praktek ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2332</td></tr><tr><td>Arabic No</td><td>2332</td></tr><tr><td>Reference</td><td>Book 41 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘, да будет доволен им Аллах, сказал: «Мы занимались земледелием больше, чем кто-либо другой в Медине, и брали землю в аренду, говоря её хозяину: “Эта часть земли мне, а эта — тебе”. И иногда одна часть земли оказывалась плодородной, а другая — нет. Поэтому Пророк ﷺ запретил нам делать это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2332</td></tr><tr><td>Arabic No</td><td>2332</td></tr><tr><td>Reference</td><td>Book 41 Hadith 13</td></tr></tbody></table></div>
 

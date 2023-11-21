@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:While the people were at Quba offering the morning 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] berkata, "Tatkala para sahabat di Quba' sedang melakukan shalat subuh, tiba-tiba ada seorang utusan mendatangi mereka seraya berkata, 'Rasulullah shallallahu 'alaihi wasallam malam tadi diturunkan kepadanya ayat Al Qur'an yang berisi perintah untuk menghadap Ka'bah! ' Waktu itu wajah mereka sedang menghadap ke arah Syam, maka secara spontan mereka memalingkan ke Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7251</td></tr><tr><td>Arabic No</td><td>7251</td></tr><tr><td>Reference</td><td>Book 95 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды, когда люди совершали утреннюю молитву в мечети Куба, к ним пришёл какой-то человек и сказал: “Поистине, этой ночью (Аллах) ниспослал Посланнику Аллаха ﷺ Коран, и ему было велено обратиться (лицом) в сторону Каабы, так повернитесь же к ней”. Тогда как они стояли лицом к Шаму и повернулись к Каабе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7251</td></tr><tr><td>Arabic No</td><td>7251</td></tr><tr><td>Reference</td><td>Book 95 Hadith 6</td></tr></tbody></table></div>
 

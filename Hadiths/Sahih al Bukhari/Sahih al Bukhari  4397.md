@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:I came to the Prophet (ﷺ) at a place called Al-Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Bayan] Telah menceritakan kepada kami [An Nadlr] Telah mengabarkan kepada kami [Syu'bah] dari [Qais] dia berkata; Aku mendengar [Thariq] dari [Abu Musa radliallahu 'anhu] dia berkata; Aku menemui Nabi shallallahu 'alaihi wasallam di Bathha. Beliau berkata; "Apakah kamu sudah melakukan haji? Aku menjawab; 'Ya.' Beliau bertanya; 'Bagaimana cara kamu bertalbiyah? ' Saya menjawab; saya bertalbiyah seperti talbiyah Rasulullah shallallahu 'alaihi wasallam. Beliau berkata; "Thawafdi Ka'bah dan di Shofa dan Marwa kemudian lakukanlah tahallul." Maka aku berthawaf di Ka'bah dan di shofa dan Marwa kemudian aku mendatangi seorang perempuan dari bani Qais maka dia melepaskan kepala saya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4397</td></tr><tr><td>Arabic No</td><td>4397</td></tr><tr><td>Reference</td><td>Book 64 Hadith 420</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Я прибыл к Пророку ﷺ, когда он был в Батхе (близ Мекки). Он спросил: “Ты совершил хадж?” Я ответил: “Да”. Он спросил: “С каким намерением ты входил в состояние ихрама (т.е. какую тальбию ты произнёс)?” Я ответил: “Вот я перед Тобой! С тем же намерением, что и Посланник Аллаха ﷺ“. Он сказал: “Иди и соверши обход вокруг Каабы, ритуальный бег между (холмами) ас-Сафа и аль-Марва и выйди из ихрама”. Я совершил обход вокруг Каабы и ритуальный бег между (холмами) ас-Сафа и аль-Марва, а затем я пришёл к одной женщине из племени бану кайс, и она вынула вшей из моих волос»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4397</td></tr><tr><td>Arabic No</td><td>4397</td></tr><tr><td>Reference</td><td>Book 64 Hadith 420</td></tr></tbody></table></div>
 

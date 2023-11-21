@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uthman:The Prophet (ﷺ) said, "The best among you (Muslims) are those
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Syu'bah] ia berkata, Telah mengabarkan kepadaku ['Alqamah bin Martsad] Aku mendengar [Sa'd bin Ubaidah] dari [Abu Abdurrahman As Sulami] dari [Utsman] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Orang yang paling baik di antara kalian adalah seorang yang belajar Al Qur'an dan mengajarkannya." Abu Abdirrahman membacakan (Al Qur'an) pada masa Utsman hingga Hajjaj pun berkata, "Dan hal itulah yang menjadikanku duduk di tempat dudukku ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 66 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Усмана, да будет доволен им Аллах, что Пророк ﷺ сказал: «Лучшим из вас является тот, кто изучает Коран и учит ему (других)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 66 Hadith 49</td></tr></tbody></table></div>
 

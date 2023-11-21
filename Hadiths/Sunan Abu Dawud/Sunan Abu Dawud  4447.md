@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Bara’ b. Azib said:The people passed by the Messenger of Allah (ﷺ) with a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdul Wahid bin Ziyad] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Al Bara bin Azib] ia berkata, "Orang-orang melewati Rasulullah shallallahu 'alaihi wasallam dengan membawa seorang Yahudi yang wajahnya telah diberi arang untuk diarak. Beliau lalu bertanya kepada mereka: "Apa hukum pezina yang termaktub dalam kitab suci mereka?" Mereka lalu mengalihkan jawaban untuk soal itu kepada salah seorang dari mereka. Beliau lalu bertanya kepadanya: "Apa hukum bagi pezina dalam kitab suci kalian?" Ia menjawab, "Rajam. Tetapi perzinaan kerap terjadi di kalangan petinggi kami, dan kami juga tidak senang jika orang terhormat tidak dikenakan hukuman dan hanya dikenakan kepada orang-orang yang rendah saja, maka akhirnya kami pun meniadakan hukuman tersebut." Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan agar pezina itu dihukum dengan rajam, maka ia pun dirajam. Setelah itu beliau bersabda: "Ya Allah, aku adalah orang pertama kali yang menghidupkan terhadap apa yang mereka bekukan dari hukuman yang ada dalam kitab-Mu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4447</td></tr><tr><td>Arabic No</td><td>4447</td></tr><tr><td>Reference</td><td>Book 40 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Бара ибн ‘Азиба, что однажды мимо Посланника Аллаха ﷺ провели вымазанного сажей иудея, которого водили в таком виде по улицам, чтобы его видели люди, и (Посланник Аллаха ﷺ) заклинал их сказать ему, какое наказание их Писание (Тора) предписывает за прелюбодеяние. Они сказали, чтобы он спросил у одного человека из их числа. Пророк ﷺ заклинал его и требовал ответить: «Какое наказание упоминается в вашем Писании для прелюбодеев». Тот ответил: «Побивание камнями. Однако среди нашей знати прелюбодеяние широко распространилось, и мы не хотим освобождать знатных от наказания и применять его к остальным. Поэтому мы вообще перестали применять его». Тогда Посланник Аллаха ﷺ велел побить этого прелюбодея камнями и сказал: «О Аллах! Поистине, я первый, кто оживил то, что они умертвили из Твоего Писания!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4447</td></tr><tr><td>Arabic No</td><td>4447</td></tr><tr><td>Reference</td><td>Book 40 Hadith 97</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ibnu Abu Anas] bahwa [bapaknya] telah menceritakan kepadanya, bahwa ia mendengar [Abu Hurairah] radliallahu 'anhu, berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila Ramadlan telah tiba, maka pintu-pintu surga akan dibuka, lalu pintu-pintu neraka ditutup dan syetan-syetan pun akan dirantai." Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Al Hulwani] keduanya berkata, Telah menceritakan kepada kami [Ya'qub] telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] telah menceritakan kepadaku [Nafi' bin Abu Anas] bahwa [bapaknya] telah menceritakan kepadanya, bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila bulan Ramadlan tiba." Yakni dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2496</td></tr><tr><td>Arabic No</td><td>1079.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда наступает рамадан, открываются врата милости и закрываются врата Ада, а шайтаны сковываются цепями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2496</td></tr><tr><td>Arabic No</td><td>1079.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 2</td></tr></tbody></table></div>
 

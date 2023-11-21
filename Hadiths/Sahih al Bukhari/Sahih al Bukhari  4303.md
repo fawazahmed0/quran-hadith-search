@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:'Utba bin Abi Waqqas authorized his brother Sa'd to take the son
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Urwah bin Zubair] dari [Aisyah] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, kata [Al Laits], telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] Telah mengabarkan kepada kami ['Urwah bin Zubair] bahwasanya ['Aisyah] mengatakan, Utbah bin Abu Waqash berpesan serius kepada saudaranya Sa'd bin Abi Waqqash agar mengambil anak hamba sahaya Zam'ah. Utbah berujar "Anak laki-laki hamba sahaya Zam'ah adalah sebenarnya anakku. Maka ketika Sa'd bin Abu Waqqash tiba di Makkah saat penaklukan makkah, Sa'd bin Abu Waqqash mengambil anak hamba sahaya Zam'ah dan membawanya kepada Rasulullah shallallahu 'alaihi wasallam sekaligus Abd bin Zam'ah (anak laki-laki Zam'ah) juga menghadirinya. Sa'd bin Abu Waqqash menyampaikan; "Ini adalah anak saudaraku, ia berpesan serius kepadaku (agar mengambilnya, sebab) anak itu adalah anaknya. Maka Abd bin Zam'ah (anak laki-laki Zam'ah) tak mau kalah dengan mengatakan "Wahai Rasulullah, ini adalah saudara laki-lakiku, dia dilahirkan diatas kasurnya (kasur Zam'ah). Lantas Rasulullah shallallahu 'alaihi wasallam mencermati anak hamba sahaya Zam'ah yang menyerupai Utbah bin Abu Waqqash. Namun anehnya Rasulullah terus mengatakan kepada abd bin Zam'ah "Anak itu justru bagimu, dia adalah saudara laki-lakimu wahai Abd bin Zam'ah sebab dia dilahirkan diatas kasurnya (kasur Zam'ah) ". Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Berrhijablah engkau daripadanya wahai Saudah, yang demikian karena beliau lihat ada kemiripan dengan Utbah bin Abu Waqqash. Kata Ibnu Syihab, kata Aisyah; Rasulullah shallallahu 'alaihi wasallam bersabda; "Anak adalah pemilik kasur, pezina harus dihukum batu (rajam). Kata [Ibnu Syihab], dan [Abu Hurairah] berteriak ketika menyampaikan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время) ‘Утба ибн Аби Ваккас дал своему брату, Са‘ду (ибн Аби Ваккасу), поручение забрать сына невольницы (, хозяином которой является) Зам‘а. ‘Утба сказал: “Поистине, он мой сын”. И когда Посланник Аллаха ﷺ прибыл в Мекку в день её завоевания, Са‘д ибн Аби Ваккас забрал сына невольницы (, хозяином которой является) Зам‘а. После чего (Са‘д) вместе с ‘Абд ибн Зам‘а отправились к Посланнику Аллаха ﷺ. Са‘д ибн Аби Ваккас сказал: “Это — сын моего брата, поручившего мне (объявить, что этот ребёнок является) его сыном”. (После этого) ‘Абд ибн Зам‘а сказал: “О Посланник Аллаха, это — мой брат, и это — сын Зам‘и, рождённый на его постели”. Посланник Аллаха ﷺ посмотрел на сына невольницы (, хозяином которой является) Зам‘а, и увидел, что больше всего из людей он был похож на ‘Утбу ибн Аби Ваккаса. Но Посланник Аллаха ﷺ сказал: “Он твой. Он твой брат, о ‘Абд ибн Зам‘а”, — и причиной этому служило то, что он родился в его постели. И потом Посланник Аллаха ﷺ сказал: “Закрывайся от него, о Сауда”, ибо он увидел, (что юноша действительно) похож на ‘Утбу ибн Аби Ваккаса».\nИбн Шихаб сказал: «‘Аиша, да будет доволен ею Аллах, передаёт, что Посланник Аллаха ﷺ сказал: “Ребёнок принадлежит постели, а прелюбодею — позор и лишения (прав на ребёнка)”».\nИбн Шихаб сказал: «Абу Хурайра обычно оглашал об этом хадисе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
 

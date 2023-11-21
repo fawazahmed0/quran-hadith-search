@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Prophet(ﷺ) as sayings:When the evening meal is brough
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] secara makna, Ahmad berkata; telah menceritakan kepadaku [Yahya Al Qaththan] dari ['Ubaidullah] ia berkata; telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila makan malam salah seorang di antara kalian telah dihidangkan, atau telah siap makan malamnya, maka janganlah ia berdiri hingga selesai, walaupun ia mendengar iqamah dan mendengar bacaan imam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (677) Sahih Muslim (559)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757</td></tr><tr><td>Arabic No</td><td>3757</td></tr><tr><td>Reference</td><td>Book 28 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если одному из вас подали ужин, а потом было объявлено о начале молитвы, он не должен вставать с места, пока не поест». Мусаддад сказал: «Если ‘Абдуллаху подавали ужин, то он не вставал, пока не заканчивал с едой, даже если слышал икамат и даже если слышал чтение имама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (677) Sahih Muslim (559)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757</td></tr><tr><td>Arabic No</td><td>3757</td></tr><tr><td>Reference</td><td>Book 28 Hadith 22</td></tr></tbody></table></div>
 

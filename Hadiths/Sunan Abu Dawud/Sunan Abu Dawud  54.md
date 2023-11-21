@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ammar b. Yasir: The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in] telah menceritakan kepada kami [Waqi'] dari [Zakaria bin Abu Za'idah] dari [Mush'ab bin Syaibah] dari [Thalq bin habib] dari [Ibnu Az Zubair] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sepuluh perkara yang termasuk fithrah: Memotong kumis, memelihara jenggot (membiarkannya tumbuh), bersiwak, beristinsyaq dengan air, memotong kuku, membasuh sela-sela jari-jari, mencabut bulu ketiak, mencukur bulu kemaluan, dan beristinja' dengan air." Zakaria berkata; Mush'ab menerangkan; "Saya lupa yang kesepuluh tapi kemungkinan besar ia adalah berkumur." Telah menceritakan kepada kami [Musa bin Isma'il] dan [Dawud bin Syabib] mereka berdua berkata; telah menceritakan kepada kami [Hammad] dari [Ali bin Zaid] dari [Salamah bin Muhammad bin Ammar bin Yasir], [Musa] berkata dari [Ayahnya]. Dan [Dawud] berkata; dari [Ammar bin Yasir], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di anatara perkara fithrah adalah berkumur dan beristinsyaq, " lalu dia menyebutkan hadits semisalnya, namun dia tidak menyebutkan perihal memelihara jenggot tetapi menambahkan; dan khitan. Dia menyebutkan perihal memercikkan air ke bagian kemaluan untuk menghilangkan was was dan tidak menyebutkan perihal beristinja' dengan air. Abu Dawud berkata; Dan telah diriwayatkan hadits semisalnya dari Ibnu Abbas dan dia menyebutkan; Lima perkara fithrah yang semuanya di bagian kepala, kemudian dia menyebutkan perihal membelah rambut (setengah ke kanan dan setengah ke kiri) dan tidak menyebutkan perihal memelihara jenggot. Abu Dawud berkata; Dan telah diriwayatkan semisal hadits Hammad, dari Thalq bin Habib dan Mujahid dan dari Bakr bin Abdullah Al Muzani ucapan mereka, dan mereka tidak menyebutkan perihal memelihara jenggot. Dan di dalam hadits [Muhammad bin Abdullah bin Abu Maryam] dari [Abu salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, di dalamnya terdapat penyebutan perihal memelihara jenggot. Dan dari Ibrahim An Nakha'i semisalnya, dan dia menyebutkan perihal memelihara jenggot dan khitan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хузайфы: «Когда Посланник Аллаха ﷺ просыпался ночью, он чистил свой рот зубочисткой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
 

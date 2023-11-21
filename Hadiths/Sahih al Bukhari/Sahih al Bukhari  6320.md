@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When anyone of you go to bed, he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami ['Ubaidullah bin Umar] telah menceritakan kepadaku [Sa'id bin Abu Sa'id Al Maqburi] dari [Ayahnya] dari [Abu Hurairah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Apabila seseorang dari kalian hendak tidur, maka hendaklah ia mengibaskan di atas tempat tidurnya dengan kain sarungnya, karena ia tidak tahu apa yang terdapat di atas kasurnya. Lalu mengucapkan doa: BISMIKA RABBII WADHA'TU JANBII WABIKA ARFA'UHU, IN AMSAKTA NAFSII FARHAMHAA, WAIN ARSALTAHAA FAHFAHZH-HAA BIMAA TAHFAZHU BIHI 'IBAADAKASHSHAALIHIIN (Dengan nama-Mu Wahai Tuhanku, aku baringkan punggungku dan atas nama-Mu aku mengangkatnya, dan jika Engkau menahan diriku, maka rahmatilah daku, dan jika Engkau melepaskannya, maka jagalah sebagaimana Engkau menjaga hamba-Mu yang shalih)." Dan hadits ini juga diperkuat oleh [Abu Dlamrah] dan [Isma'il bin Zakariya] dari ['Ubaidullah]. [Yahya] dan [Bisyr] mengatakan; dari ['Ubaidullah] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan pula oleh [Malik] dan [Ibnu 'Ajlan] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6320</td></tr><tr><td>Arabic No</td><td>6320</td></tr><tr><td>Reference</td><td>Book 80 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда кто-нибудь из вас захочет лечь в постель, пусть отряхнет её внутренней стороной своего изара, ибо он не знает, что могло оказаться (на его постели) после него, а потом скажет: “С именем Твоим, Господь мой, я улёгся на бок, и с именем Твоим я поднимусь. Если Ты заберёшь душу мою, то помилуй её, а если отпустишь, то защити её посредством того, чем защищаешь Ты Своих праведных рабов! \n/Би-сми-Кя, Рабби, вада‘ту джанби ва би-Кя арфа‘у-ху, фа ин амсакта нафси, фа-рхам-ха, ва ин арсальта-ха, фа-хфаз-ха би-ма тахфазу би-хи ‘ибада-Кя-с-салихин!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6320</td></tr><tr><td>Arabic No</td><td>6320</td></tr><tr><td>Reference</td><td>Book 80 Hadith 17</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported that the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Abdul A'la] telah menceritakan kepada kami [Al Mu'tamir] telah menceritakan kepada kami [Umarah bin Ghaziyyah Al Anshari] ia berkata, saya mendengar [Muhammad bin Ibrahim] menceritakan dari [Abu Salamah] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam melakukan I'tikaf pada sepuluh awal bulan Ramadlan, kemudian dilanjutkannya pada sepuluh pertengahan, dalam sebuah kubah kecil yang terbuat dari permadani dan pintunya ditutup dengan tikar. Lalu beliau ambil tikar itu, dan diletakkannya di sudut kubah. Kemudian diulurkannya kepalanya seraya berujar memanggil orang banyak. Maka mendekatlah mereka pada beliau, beliau bersabda: "Aku telah I'tikaf sejak sepuluh awal bulan untuk mendapatkan Lailatul Qadr, kemudian sepuluh yang pertengahan. Kemudian dikatakan kepadaku bahwa Lailatul Qadr itu terdapat pada sepuluh akhir Ramadlan. Karena itu, siapa yang suka I'tikaf, maka silahkan." Maka para sahabat pun ikut I'tikaf bersama-sama dengan beliau. Dan beliau juga bersabda: "Aku bermimpi melihat Lailatul Qadr di malam ganjil, yang pada pagi harinya aku sujud di tanah yang basah." Memang, pagi-pagi malam kedua puluh satu beliau shalat Shubuh sedangkan hari hujan sehingga masjid tergenang air. Aku melihat tanah dan air. Setelah selesai shalat Shubuh, Nabi shallallahu 'alaihi wasallam keluar, sedangkan di kening dan hidungnya ada tanah basah. Malam itu adalah malam ke dua puluh satu dari sepuluh yang akhir bulan Ramadlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2771</td></tr><tr><td>Arabic No</td><td>1167.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2771</td></tr><tr><td>Arabic No</td><td>1167.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 277</td></tr></tbody></table></div>
 

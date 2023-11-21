@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:That he heard Jabir bin 'Abdullah saying, "The roof of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3585</td></tr><tr><td>Arabic No</td><td>3585</td></tr><tr><td>Reference</td><td>Book 61 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Раньше крыша мечети (Пророка ﷺ) держалась на стволах пальм. Обращаясь с проповедью, Пророк ﷺ становился у пня пальмы (, на который он облокачивался), а когда для него был установлен минбар, и он поднялся на него, мы услышали (исходившие от) этого пня звуки, подобные звукам (, издаваемым) стельными верблюдицами (, которые не прекратились) до тех пор, пока Пророк ﷺ не подошёл к нему и не возложил на него руку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3585</td></tr><tr><td>Arabic No</td><td>3585</td></tr><tr><td>Reference</td><td>Book 61 Hadith 94</td></tr></tbody></table></div>
 

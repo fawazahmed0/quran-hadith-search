@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I asked Allah's Messenger (ﷺ) about looking hither and thither
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Al Ahwash] berkata, telah menceritakan kepada kami [Asy'ats bin Sulaim] dari [Bapaknya] dari [Masruq] dari ['Aisyah] berkata, "Aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang menoleh dalam shalat." Maka Beliau bersabda: "Itu adalah sambaran yang sangat cepat yang dilakukan oleh setan terhadap shalatnya hamba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>751</td></tr><tr><td>Reference</td><td>Book 10 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) я задала Посланнику Аллаха ﷺ вопрос относительно о (взглядах, бросаемых тем, кто) поворачивает (голову по сторонам) во время молитвы, и он сказал: “Это — кража шайтана, тайно похищающего (нечто) из молитвы раба (Аллаха)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>751</td></tr><tr><td>Reference</td><td>Book 10 Hadith 145</td></tr></tbody></table></div>
 

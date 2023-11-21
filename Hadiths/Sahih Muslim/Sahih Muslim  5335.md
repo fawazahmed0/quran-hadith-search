@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabala b. Suhaim reported:I heard Ibn 'Umar as saying that Allah's Messenger (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata; Telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dari [Jabalah bin Suhaim] dia berkata; 'Aku mendengar [Ibnu Umar] berkata; 'Rasulullah Shallallah 'Alaihi Wa Sallam melarang seseorang mengambil dua butir kurma sekaligus kecuali setelah mendapat idzin dari teman-temannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5335</td></tr><tr><td>Arabic No</td><td>2045.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5335</td></tr><tr><td>Arabic No</td><td>2045.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 209</td></tr></tbody></table></div>
 

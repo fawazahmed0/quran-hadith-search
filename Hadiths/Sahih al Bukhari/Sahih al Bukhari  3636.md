@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Masud:During the lifetime of the Prophet (ﷺ) the moon w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Shadaqah bin Al Fadlal] telah mengabarkan kepada kami [Ibnu 'Uyainah] dari [Ibnu Abu Najih] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah bin Mas'ud radliallahu 'anhu] berkata; Pada zaman Rasulullah shallallahu 'alaihi wasallam bulan pernah terbelah menjadi dua bagian lalu Nabi shallallahu 'alaihi wasallam bersabda: "Saksikanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3636</td></tr><tr><td>Arabic No</td><td>3636</td></tr><tr><td>Reference</td><td>Book 61 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «При жизни Посланника Аллаха ﷺ луна раскололась на две части, и Пророк ﷺ сказал: “Засвидетельствуйте (это)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3636</td></tr><tr><td>Arabic No</td><td>3636</td></tr><tr><td>Reference</td><td>Book 61 Hadith 140</td></tr></tbody></table></div>
 

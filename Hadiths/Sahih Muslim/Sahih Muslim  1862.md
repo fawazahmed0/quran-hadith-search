@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), le Prophète (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Ubaid Al Ghubari] semuanya dari [Abu 'Awanah] - [Ibnu Ubaid] - berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Zurarah bin Aufa] dari [Sa'd bin Hisyam] dari ['Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang mukmin yang mahir membaca Al Qur'an, maka kedudukannya di akhirat ditemani oleh para malaikat yang mulia. Dan orang yang membaca Al Qur'an dengan gagap, ia sulit dalam membacanya, maka ia mendapat dua pahala." Dalam jalur lain; telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Sa'id] dan diganti dengan jalur periwayatan lain, dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Hisyam Ad Dastawa'i] keduanya dari [Qatadah] dengan isnad ini. Dan ia berkata dalam haditsnya Waki'; "Dan orang yang membaca Al Qur'an sedang ia kesulitan dalam membacanya, maka baginya dua pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>798.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 290</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Со слов ‘Аиши, да будет доволен ею Аллах, сообщается, что Посланник Аллаха ﷺ сказал: «Тот, кто читает Коран, являясь искусным в этом, будет с благородными и покорными писцами (ангелами), а тому, кто читает Коран, запинаясь и испытывая при этом затруднения, уготована двой­ная награда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>798.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 290</td></tr></tbody></table></div>
 

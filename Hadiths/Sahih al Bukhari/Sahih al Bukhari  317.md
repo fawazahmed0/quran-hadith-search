@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:On the 1st of Dhul-Hijja we set out with the intention of perfor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] berkata, "Kami keluar bertepatan saat nampak hilal bulan Dzul Hijjah. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Siapa yang ingin memulai haji dengan Umrah hendaklah ia lakukan. Sekiranya aku tidak membawa hewan sembelihan, aku lebih suka melakukan Umrah lebih dahulu." Maka sebagian para sahabat ada yang memulai dengan Umrah dan ada yang memulai dengan haji. Sedang aku termasuk di antara yang mulai dengan Umrah. Maka ketika hari Arafah aku mengalami haid, aku lalu mengadukan hal itu kepada Nabi shallallahu 'alaihi wasallam, beliau lalu bersabda: "Tinggalkanlah Umrahmu. Uraikan rambut kepalamu lalu sisirlah, kemudian mulailah talbiah dengan haji." Maka aku pun laksanakan perintah beliau, hingga ketika tiba malam Hashbah (Malam di Muzdalifah), beliau memerintahkan 'Abdurrahman bin Abu Bakar untuk menemaniku. Maka aku keluar menuju Tan'im, lalu bertalbiah dengan Umrah sebagai ganti Umrahku sebelumnya." Hisyam berkata, "Dan dalam hal itu tidak ada denda baik berupa hadyu (menyembelih), puasa atau pun sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>317</td></tr><tr><td>Arabic No</td><td>317</td></tr><tr><td>Reference</td><td>Book 6 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хишам (ибн ‘Урва ибн аз-Зубайр) передал со слов своего отца о том, что ‘Аиша, да будет доволен ею Аллах, сказала:\n«Мы выступили (из Медины для совершения хаджжа) в первый день месяца зуль-хиджжа и Посланник Аллаха ﷺ сказал: “Пусть объявит об этом тот из вас, кто хочет надеть ихрам для совершения ‘умры, и я сам обязательно поступил бы именно так, если бы не гнал с собой скот”. (После этого) некоторые из них стали произносить тальбийу для ‘умры, а другие − для хаджа, я же была среди тех, кто произнёс слова тальбийи для ‘умры. Когда наступил день ‘Арафата, месячные у меня всё ещё продолжались, и я пожаловалась на это Пророку ﷺ который сказал: “Отложи свою ‘умру, распусти волосы, причешись и начинай произносить тальбийу для хаджа”. Я так и сделала, а когда мы остановились на ночь в Хасбе, он отправил со мной моего брата ‘Абду-р-Рахмана ибн Абу Бакра, и я двинулась в Тан‘им, где стала произносить тальбийу для совершения другой ‘умры вместо прежней».\nХишам сказал: «И для этого не потребовались ни жертвенный скот, ни пост, ни милостыня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>317</td></tr><tr><td>Arabic No</td><td>317</td></tr><tr><td>Reference</td><td>Book 6 Hadith 22</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: None of you must pray in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru an-Naqid] serta [Zuhair bin Harb] semuanya meriwayatkan dari [Ibnu Uyainah] [Zuhair] berkata, telah menceritakan kepada kami [Sufyan] dari [Abu az-Zinad] dari [al-A'raj] dari [Abu Hurairah radhiyallahu'anhu] bahwa Rasulullah shallallahu'alaihiwasallam bersabda, "Janganlah salah seorang dari kalian shalat memakai satu kain, tanpa mengenakan suatu kain pun di atas pundaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1151</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 4 Hadith 313</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пусть никто из вас не молится в одной одежде, которая не прикрывает его плечи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1151</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 4 Hadith 313</td></tr></tbody></table></div>
 

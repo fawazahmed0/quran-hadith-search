@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr: The Prophet (ﷺ) said, "A Muslim is the one who av
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, Telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu As Safar] dan [Isma'il bin Abu Khalid] dari [Asy Sya'bi] dari [Abdullah bin 'Amru] dari Nabi shallallahu 'alaihi wasallam, bersabda: "Seorang muslim adalah orang yang Kaum Muslimin selamat dari lisan dan tangannya, dan seorang Muhajir adalah orang yang meninggalkan apa yang dilarang oleh Allah " Abu Abdullah berkata; dan [Abu Mu'awiyyah] berkata; Telah menceritakan kepada kami [Daud], dia adalah anak Ibnu Hind, dari ['Amir] berkata; aku mendengar [Abdullah], maksudnya ibnu 'Amru, dari Nabi shallallahu 'alaihi wasallam Dan berkata [Abdul A'laa] dari [Daud] dari ['Amir] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Arabic No</td><td>10</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Адам ибн Абу Ияас, сказавший: Нам рассказал Шу‘ба, от ‘Абдуллаха ибн Абу ас-Сафара и Исма‘иля ибн Абу Халида от Аш-Ша‘би, от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Мусульманин — это тот, кто не причиняет (другим) мусульманам вреда своим языком и своими руками, мухаджиром же является тот, кто прекратил (совершать) запрещённое Аллахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Arabic No</td><td>10</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mughaffal Al-Muzani:The Prophet (ﷺ) forbade the throwin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata; saya mendengar ['Uqbah bin Shahban Al Azdi] bercerita dari [Abdullah bin Mughaffal Al Muzanni] dia berkata; Nabi shallallahu 'alaihi wasallam melarang melempar (berburu binatang dengan melempar batu). Lalu beliau bersabda: "Karena hal itu tidak akan mematikan buruan dan tidak pula mengalahkan musuh, akan tetapi hal itu hanya bisa mematahkan gigi dan membutakan mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6220</td></tr><tr><td>Arabic No</td><td>6220</td></tr><tr><td>Reference</td><td>Book 78 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мугъаффаль аль-Музани сказал: «Пророк ﷺ запретил метать камешки, сказав: “Поистине, так не убьёшь дичи и не поразишь врага, но можно выбить (другому) глаз или сломать зуб”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6220</td></tr><tr><td>Arabic No</td><td>6220</td></tr><tr><td>Reference</td><td>Book 78 Hadith 244</td></tr></tbody></table></div>
 

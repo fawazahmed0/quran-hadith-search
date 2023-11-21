@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported from the Messenger of Allah (ﷺ) that a group (Kha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah Al Qawariri] telah menceritakan kepada kami [Muhammad bin Abdullah bin Zubair] telah menceritakan kepada kami [Sufyan] dari [Habib bin Abu Tsabit] dari [Adl Dlahah Al Misyraqi] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam. yakni dalam hadits yang di dalamnya ia menyebutkan; Suatu kaum yang keluar dari berbagai kelompok, dan mereka akan dibunuh oleh salah satu dari dua kelompok yang paling dekat dengan kebenaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>1065.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Са‘ид аль-Худри передал от Пророка ﷺ хадис, в котором он упомянул, что во время разногласий выйдет группа, которую убьёт та из двух групп, которая ближе к истине
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>1065.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 198</td></tr></tbody></table></div>
 

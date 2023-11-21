@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:Allah's Messenger (ﷺ) one day in the course of his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] dan [Hajjaj bin Asy Sya'ir] keduanya berkata, telah menceritakan kepada kami [Hajjaj bin Muhammad] ia berkata, [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] menceritakan bahwa pada suatu hari Nabi shallallahu 'alaihi wasallam berkhutbah lalu menyebutkan kisah tentang salah seorang sahabatnya yang meninggal dan dikafani dengan kain yang tidak menutupi seluruh badannya, kemudian dimakamkan di malam hari. Rasulullah shallallahu 'alaihi wasallam melarang untuk menguburkannya di malam hari sampai dishalatkan, kecuali jika keadaannya sangat terpaksa, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian mengkafani saudaranya, maka hendaknya ia memperbagus kafannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2185</td></tr><tr><td>Arabic No</td><td>943</td></tr><tr><td>Reference</td><td>Book 11 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен им Аллах, рассказывал, что как-то во время хутбы Пророк ﷺ упомянул об одном из своих сподвижников, которого после кончины завернули в плохой и недостаточно длинный саван и похоронили ночью. Затем Пророк ﷺ запретил хоронить покойного ночью, пока по нему не совершат заупокойную молитву, если только человек не будет вынужден поступить так. И Пророк ﷺ также сказал: «Если кто-нибудь из вас будет заворачивать в саван своего брата, пусть подберёт хороший саван»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2185</td></tr><tr><td>Arabic No</td><td>943</td></tr><tr><td>Reference</td><td>Book 11 Hadith 63</td></tr></tbody></table></div>
 

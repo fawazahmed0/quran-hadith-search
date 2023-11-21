@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuNamlah al-Ansari: When he was sitting with the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Marwazi] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] telah mengabarkan kepadaku [Ibnu Abu Namlah Al Anshari] dari [Ayahnya] bahwa ketika ia sedang duduk di sisi Rasulullah shallallahu 'alaihi wasallam yang saat itu di sisi beliau ada seorang Yahudi, lewatnya jenazah di hadapan beliau. Lalu orang Yahudi itu berkata, "Wahai Muhammad, apakah jenazah ini berbicara?" Nabi shallallahu 'alaihi wasallam kemudian menjawab: "Allah lebih mengetahui." Orang Yahudi itu pun berkata, "Sesungguhnya jenazah tersebut berbicara." Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang diceritakan oleh orang-orang ahli kitab kepada kalian maka janganlah kalian percayai atau kalian dustakan. Tetapi katakanlah, 'aku beriman kepada Allah dan para Rasul-Nya'. Jika mereka dusta maka kalian tidak mempercayainya dan jika benar maka kalian tidak mendustakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3644</td></tr><tr><td>Arabic No</td><td>3644</td></tr><tr><td>Reference</td><td>Book 26 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Намля аль-Ансари, да будет доволен им Аллах: «Мы сидели у Посланника Аллаха ﷺ, а в это время у него сидел один иудей. Мимо проходила похоронная процессия, и иудей спросил: “О Мухаммад? Говорит ли этот покойный (, когда его допрашивают в могиле ангелы Мункар и Накир)?” Пророк ﷺ сказал в ответ: “Это известно только Аллаху”. Иудей сказал: “Он говорит”. Тогда Посланник Аллаха ﷺ сказал: “Когда люди Писания рассказывают вам что-нибудь, не верьте этому, но и не считайте ложью, и говорите: “Уверовали мы в Аллаха и Его посланников”. Если это ложь, то вы не поверите ей, а если это правда, вы не сочтёте её ложью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3644</td></tr><tr><td>Arabic No</td><td>3644</td></tr><tr><td>Reference</td><td>Book 26 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: Al-Hayyaj ibn Imran ibn Husayn reported that a slav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Mu'adz bin Hisyam], telah menceritakan kepadaku [ayahku], dari [Qatadah], dari [Al Hasan] dari [Al Hayyaj bin 'Imran] bahwa budak Imrah telah melarikan diri, dan ia bersumpah bahwa apabila ia mampu untuk menangkapnya maka niscaya ia akan memotong tangannya. Kemudian ia mengutusku agar bertanya untuknya, kemudian aku datang kepada [Samurah bin Jundub], dan menanyakan hal tersebut kepadanya. Kemudian ia berkata; Nabi shallallahu 'alaihi wasallam menganjurkan kami untuk bersedekah dan melarang kami dari mencincang. Lalu aku datang kepada [Imran bin Hushain] dan menanyakan hal tersebut kepadanya. Kemudian ia berkata; Rasulullah shallallahu 'alaihi wasallam menganjurkan kami untuk bersedekah dan melarang kami dari mencincang (memotong-motong bagian anggota tubuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>2667</td></tr><tr><td>Reference</td><td>Book 15 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>2667</td></tr><tr><td>Reference</td><td>Book 15 Hadith 191</td></tr></tbody></table></div>
 

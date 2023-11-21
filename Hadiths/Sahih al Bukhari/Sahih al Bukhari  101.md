@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Some women requested the Prophet (ﷺ) to fix a day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, Telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepadaKu [Ibnu Al Ashbahani] berkata; aku mendengar [Abu Shalih Dzakwan] menceritakan dari [Abu Sa'id Al Khudri]; kaum wanita berkata kepada Nabi shallallahu 'alaihi wasallam: "kaum lelaki telah mengalahkan kami untuk bertemu dengan engkau, maka berilah kami satu hari untuk bermajelis dengan diri tuan" Maka Nabi shallallahu 'alaihi wasallam berjanji kepada mereka satu untuk bertemu mereka, lalu Nabi shallallahu 'alaihi wasallam memberi pelajaran dan memerintahkan kepada mereka, diantara yang disampaikannya adalah: "Tidak seorangpun dari kalian yang didahului oleh tiga orang dari anaknya kecuali akan menjadi tabir bagi dirinya dari neraka". Berkata seseorang: "bagaimana kalau dua orang?" Nabi shallallahu 'alaihi wasallam menjawab: "Juga dua". Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, Telah menceritakan kepada kami [Ghundar] berkata, Telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman Al Ashbahani] dari [Dzakwan] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam. Dan dengan sanad seperti ini dari [Abdurrahman Al Ashbahani] berkata; aku mendengar [Abu Hazm] dari [Abu Hurairah] berkata: "Tiga orang yang belum baligh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>101</td></tr><tr><td>Arabic No</td><td>101</td></tr><tr><td>Reference</td><td>Book 3 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Однажды) женщины сказали Пророку ﷺ: “Мужчины не дают нам возможности поговорить с тобой, выдели же для нас (особый) день по своему усмотрению!” И он пообещал (женщинам выделять для них такой) день, (с наступлением которого) встретился с ними, стал наставлять их и давать им свои веления (относительно установлений религии). Среди прочего (Пророк ﷺ) сказал им: “Для любой из вас, у которой умрут трое её детей, они обязательно послужат защитой от огня”. Одна женщина спросила: “А (если их будет) двое?” Он ответил: “И двое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>101</td></tr><tr><td>Arabic No</td><td>101</td></tr><tr><td>Reference</td><td>Book 3 Hadith 43</td></tr></tbody></table></div>
 

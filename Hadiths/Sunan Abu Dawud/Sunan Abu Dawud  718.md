@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Fadl ibn Abbas: The Messenger of Allah (ﷺ) came to us accompanied 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits] dia berkata; telah menceritakan kepadaku [ayahku] dari [kakekku] dari [Yahya bin Ayyub] dari [Muhammad bin Umar bin Ali] dari ['Abbas bin 'Ubaidullah bin 'Abbas] dari [Al Fadl bin 'Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam mendatangi kami ketika kami berada di kampung, beliau bersama Abbas, lalu beliau shalat di tanah lapang tanpa ada sutrah (pembatas jarak dalam shalat) sementara keledai kami dan seekor anjing berada di sekitar beliau sedang bermain, namun beliau tidak menghiraukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>718</td></tr><tr><td>Arabic No</td><td>718</td></tr><tr><td>Reference</td><td>Book 2 Hadith 328</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Фадль ибн ‘Аббас сказал: «Однажды к нам в пустыню приехал Посланник Аллаха ﷺ в сопровождении ‘Аббаса. И он совершил молитву в пустыне, когда перед ним не было никакой преграды /сутра/, а наша ослица и собака игрались перед ним, но он не придал этому значения».Также этот хадис передал ан-Насаи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>718</td></tr><tr><td>Arabic No</td><td>718</td></tr><tr><td>Reference</td><td>Book 2 Hadith 328</td></tr></tbody></table></div>
 

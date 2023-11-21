@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Messenger of Allah (ﷺ) offered prayer. The v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dia berkata; [Abdullah] berkata; "Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat -Ibrahim mengatakan; "Aku tidak tahu, apakah (raka'atnya) lebih ataukah kurang- setelah salam, di beritahukan kepada beliau; "Wahai Rasulullah, (apakah) terjadi sesuatu yang nggek beres dalam shalat?" beliau bersabda: "Memangnya kenapa?" mereka berkata; "Anda shalat begini dan begini." Lalu beliau merubah posisi kakinya dan menghadap kiblat, bersujud bersama mereka dua kali, lalu salam. Setelah itu beliau menghadap kepada kami seraya bersabda: "Kalau terjadi sesuatu yang nggak beres dalam shalat, aku beritahukan kepada kalian. Akan tetapi aku hanyalah manusia biasa yang terkadang lupa sebagaimana kalian lupa, oleh karena itu, apabila aku lupa, maka ingatkanlah aku." selanjutnya beliau bersabda: "Apabila salah seorang dari kalian ragu dalam shalatnya, hendaknya ia mengambil sesuatu (raka'at) yang di yakininya, lalu menyempurnakannya, kemudian hendaknya ia sujud dua kali." telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] … seperti hadits sebelumnya… sabdanya: "Apabila salah seorang dari kalian lupa, hendaknya ia sujud dua kali." kemudian beliau agak bergeser, lalu sujud dua kali." Abu Daud berkata; hadits ini juga diriwayatkan oleh [Hushain] seperti hadits Al A'masy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (401) Sahih Muslim (572)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1020</td></tr><tr><td>Arabic No</td><td>1020</td></tr><tr><td>Reference</td><td>Book 2 Hadith 631</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ совершил молитву. (Передатчик) Ибрахим сказал: «И я не знаю, добавил он что-то или убавил». Далее говорится: «…и люди спросили: «О Посланник Аллаха! В молитву было внесено что-то новое?» Он ответил: «Почему вы так решили?» Люди сказали: «Но ты помолился так-то и так-то». Тогда Посланник Аллаха ﷺ повернулся в сторону киблы, совершил вместе с ними два земных поклона, произнёс слова таслима и сказал, повернувшись к людям: «Если бы в молитву были внесены какие-нибудь изменения, я бы сообщил вам об этом… Дело в том, что я человек и забываю, подобно вам, и если я забуду что-нибудь, напомните мне». (Посланник Аллаха ﷺ) также сказал: «Если кто-нибудь из вас засомневается в своей молитве, пусть выберет то, что кажется ему наиболее вероятным, и продолжает на основании этого, а после таслима совершит два земных поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (401) Sahih Muslim (572)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1020</td></tr><tr><td>Arabic No</td><td>1020</td></tr><tr><td>Reference</td><td>Book 2 Hadith 631</td></tr></tbody></table></div>
 

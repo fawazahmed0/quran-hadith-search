@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Imran bin Husain: I went to the Prophet (ﷺ) and tied my she-camel at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Umar bin Hafsh bin Ghiyats] telah bercerita kepada kami [bapakku] telah bercerita kepada kami [Al A'masy] telah bercerita kepada kami [Jami bin Syaddad] dari [Shafwan bin Muhriz] bahwa dia bercerita kepadanya dari ['Imran bin Hushain radliallahu 'anhuma] berkata; "Aku datang menemui Nabi shallallahu 'alaihi wasallam dan untaku aku ikat di depan pintu. Kemudian datang rombongan dari Bani Tamim maka Beliau berkata: "Terimalah kabar gembira wahai Bani Tamim". Mereka berkata:; "Tuan telah memberikan kabar gembira kepada kami maka itu berilah kami (sesuatu) ". Mereka mengatakannya dua kali. Kemudian datang orang-orang dari penduduk Yaman menemui Beliau, lalu Beliau berkata: "Terimalah kabar gembira, wahai penduduk Yaman, jika Bani Tamim tidak mau menerimanya". Mereka berkata; "Kami siap menerimanya, wahai Rasulullah". Mereka berkata; "Kami datang kepada Tuan untuk menanyakan urusan ini (penciptaan makhluq) ". Maka Beliau berkata; "Dialah Allah yang tidak ada sesuatu selain Dia sedangkan 'arsy-Nya di atas air, lalu Dia menulis di didalam adz-Dzikir (Kitab) segala sesuatu (yang akan terjadi) lalu Dia menciptakan langit dan bumi". Tiba-tiba datang seorang penyeru seraya berkata; "Untamu hilang, wahai putra Al Hushain". Maka aku segera bergegas mencarinya ternyata unta itu dikacaukan oleh fatamorgana. Demi Allah, sungguh aku sangat ingin untuk membiarkanya (demi menuntaskan mendengar apa yang Beliau sampaikan). Dan ['Isa] meriwayatkan dari [Raqabah] dari [Qais bin Muslim] dari [Thariq bin Syihab] berkata aku mendengar ['Umar radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam berdiri di hadapan kami pada suatu tempat lalu Beliau mengabarkan tentang awal penciptaan makhluq hingga sampai pada ketetapan penduduk surga masuk ke tempat tinggal abadi mereka dan penduduk neraka juga masuk ke tempat tinggal abadi mereka, (dan tidak ada kejadian yang akan terjadi hingga hari qiyamat melainkan Beliau mengabarkannya), maka (diantara kami) ada yang tetap menjaganya, siapa yang masih mengingatnya tentu ingat dan siapa yang lupa tentu melupakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3191</td></tr><tr><td>Arabic No</td><td>3191</td></tr><tr><td>Reference</td><td>Book 59 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн, да будет доволен Аллах ими обоими, сказал: «(Однажды) я зашёл к Пророку ﷺ привязав свою верблюдицу у двери, и (в это время) к нему пришли люди из (племени) бану тамим, (которым) он сказал: “О бану тамим, примите благую весть!” Они дважды сказали: “Ты уже порадовал нас, а теперь дай нам (что-нибудь)”. А потом к нему зашли люди из числа жителей Йемена, и он сказал (им): “О йеменцы, примите радостную весть вы, ибо (люди из племени) бану тамим отвергли её!” — и они сказали: “Мы уже приняли (её,) о Посланник Аллаха”, (после чего) они сказали: “Мы прибыли к тебе спросить об этом деле!” (Тогда Пророк ﷺ) сказал: “(Сначала) был (только) Аллах, и не было ничего, кроме Него, и Трон Его был над водой, и записал Он в (Книге) всё, и создал Он небеса и землю…”, а потом какой-то человек закричал: “О Ибн аль-Хусайн, убежала твоя верблюдица!” — и я бросился (за ней), но не увидел её из-за марева, и, клянусь Аллахом, (лучше бы) я оставил её!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3191</td></tr><tr><td>Arabic No</td><td>3191</td></tr><tr><td>Reference</td><td>Book 59 Hadith 2</td></tr></tbody></table></div>
 

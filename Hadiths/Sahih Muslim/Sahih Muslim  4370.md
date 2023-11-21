@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported that a person bit the hand of a person. He withdrew his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Utsman An Naufali] telah menceritakan kepada kami [Quraiys bin Anas] dari [Ibnu 'Aun] dari [Muhammad bin Sirin] dari ['Imran bin Hushain], bahwa seorang laki-laki menggigit tangan seseorang, ketika orang yang digigit menarik tangannya, maka lepaslah gigi orang yang mengigitnya. Lalu permasalahan itu sampai kepada Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Apa yang kamu inginkan dariku? Apakah kamu menginginkan supaya aku menyuruhnya menaruh tangannya di mulutmu kemudian kamu menggigitnya sebagaimana kuda jantan menggigit? Jika demikian, taruhlah tanganmu supaya dia menggigitmu kemudian tariklah tanganmu darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>1673.04</td></tr><tr><td>Reference</td><td>Book 28 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>1673.04</td></tr><tr><td>Reference</td><td>Book 28 Hadith 29</td></tr></tbody></table></div>
 

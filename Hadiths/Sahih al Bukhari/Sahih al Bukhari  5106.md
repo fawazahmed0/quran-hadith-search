@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Habiba:I said, "O Allah's Messenger (ﷺ)! Do you like to have (my s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Zainab] dari [Ummu Habibah] ia berkata; Aku bertanya, "Wahai Rasulullah, adakah Anda berhasrat terhadap anak wanita Abu Sufyan?" beliau balik bertanya: "Saya suruh apa memangnya?." Aku berkata, " Maksudku, engkau menikahinya. Rasul bertanya 'Apakah engkau menyukainya? Saya katakan, saya tak ingin jika kebaikanmu kunikmati sendiri, namun saya ingin agar kebaikanmu juga dinikmati saudariku." Beliau bersabda: "Sesungguhnya ia tidaklah halal bagiku." Aku berkata, "Telah sampai berita kepadaku bahwa Anda ingin tengah meminang." Beliau bertanya, "Maksudmu adalah anak wanita Ummu Salamah?" aku menjawab, "Ya." Beliau bersabda: "Meskipun ia bukan anak tiriku, tidaklah ia halal bagiku. Tsuwaibah telah menyusuiku dan juga bapaknya. Janganlah kalian menawarkan anak-anak perempuan dan juga saudari-saudari kalian padaku." [Al Laits] berkata; [Hisyam] menceritakan kepada kami bahwa, Durra adalah bintu Abu Salamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5106</td></tr><tr><td>Arabic No</td><td>5106</td></tr><tr><td>Reference</td><td>Book 67 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Хабиба рассказывала: «(Однажды) я сказала (Пророку ﷺ): “О Посланник Аллаха, тебе нравится дочь Абу Суфьяна?” Он спросил: “И что мне с ней делать?” Я сказала: “Жениться на ней”. Он спросил: “Ты хочешь этого?” Я ответила: “(Да,) ведь я не единственная твоя жена и хочу, чтобы моя сестра разделила со мной тебя”. Он сказал: “Поистине, она мне не дозволена”. Я сказала: “Но до меня дошли (слухи), что ты хочешь посвататься”. (Пророк ﷺ) спросил: “(Ты имеешь в виду) дочь Умм Салямы?” Я ответила: “Да”. Тогда (Пророк ﷺ) сказал: “Даже если бы она не была моей падчерицей, мне нельзя было бы (жениться) на ней, меня и её отца кормила своим молоком Сувайба. Так что не предлагайте мне (в жёны) ни ваших дочерей, ни ваших сестёр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5106</td></tr><tr><td>Arabic No</td><td>5106</td></tr><tr><td>Reference</td><td>Book 67 Hadith 44</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) while he was in the m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepadaku [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Abu Salamah] dan [Sa'id bin Musayyab] dari [Abu Hurairah] mengatakan; Seorang laki-laki menemui Rasulullah Shallallahu'alaihiwasallam ketika beliau di masjid. Orang itu memanggil beliau seraya mengatakan; 'Hai Rasulullah, saya telah berzina! ' tetapi Rasulullah berpaling darinya. Tatkala kesaksiannya sampai empat kali, Nabi bertanya: "Mungkin engkau gila?" "TIDAK" Jawabnya. Lantas Nabi bersabda: "Bawalah orang ini, dan rajamlah!" [Ibnu Syihab] mengatakan, dan telah menceritakan kepadaku [orang yang] mendengar [Jabir bin Abdullah] mengatakan; 'Aku termasuk diantara yang merajamnya di tanah lapang.' [Yunus], [Ma'mar] dan [Ibnu Juraij] meriwayatkannya dari [Az Zuhri] dari [Abu Salamah] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7167</td></tr><tr><td>Arabic No</td><td>7167</td></tr><tr><td>Reference</td><td>Book 93 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды один мужчина пришёл к Посланнику Аллаха ﷺ который находился в мечети и обратился к нему, сказав: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние”. Однако (Посланник Аллаха ﷺ) отвернулся от него. Когда же он четырежды засвидетельствовал, что совершил прелюбодеяние. (Посланник Аллаха ﷺ) спросил: “Ты сумасшедший?” Он ответил: «Нет». Тогда (Посланник Аллаха ﷺ) сказал: “Уведите его и побейте камнями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7167</td></tr><tr><td>Arabic No</td><td>7167</td></tr><tr><td>Reference</td><td>Book 93 Hadith 31</td></tr></tbody></table></div>
 

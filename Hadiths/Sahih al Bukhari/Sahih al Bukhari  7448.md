@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama:A son of one of the daughters of the Prophet (ﷺ) was dying, so 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami ['Ashim] dari [Abu Usman] dari [Usamah] berkata, "Anak laki-laki dari anak perempuan Nabi shallallahu 'alaihi wasallam sakit, lantas puteri Nabi mengutus seorang utusan yang inti pesannya agar beliau mendatanginya. Hanya nabi berhalangan dan menyampaikan pesan: 'INNAA LILLAAHI MAA AKHDZA WALAHU MAA A'THAA WAKULLUN ILAA AJALIN MUSAMMAA FAL TASHBIR WAL TAHTASHIB' (Milik Allah sajalah segala yang diambil dan yang diberikan, dan segala sesuatu mempunyai batasan waktu tertentu, hendaklah engkau bersabar dan mengharap-harap ganjaran) '. Lantas puteri nabi untuk kali kedua mengutus utusannya seraya menyatakan sumpah agar beliau mendatangi. Maka Rasulullah Shallallahu'alaihiwasallam pun berangkat dan aku bersamanya, juga Mu'adz bin Jabal, Ubbay bin Ka'b, dan Ubadah bin Shamit. Ketika kami masuk, Rasulullah Shallallahu'alaihiwasallam membopong cucunya sedang napasnya sudah tersengal-sengal di dadanya -seingatku Usamah mengatakan seperti geriba kuno-, maka Rasulullah Shallallahu'alaihiwasallam pun menangis sehingga Sa'd bin 'Ubadah berkata, 'Mengapa baginda menangis? ' Nabi menjawab: 'Hanyasanya Allah menyayangi hamba-Nya yang penyayang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7448</td></tr><tr><td>Arabic No</td><td>7448</td></tr><tr><td>Reference</td><td>Book 97 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд, да будет доволен Аллах ими обоими, сказал: «В своё время сын одной из дочерей Пророка ﷺ находился при смерти, и она послала к нему человека, чтобы он пришёл к ней. Однако Пророк ﷺ отослал (этого человека обратно, сказав:) “Поистине, Аллаху принадлежит то, что Он забрал, и то, что Он даровал, и для всего определил Он свой срок, так пусть же она проявляет терпение и надеется на награду Аллаха”. Однако (через некоторое время) она снова послала за ним сказав, что заклинает его непременно прийти к ней, и тогда Пророк ﷺ встал, и вместе с ним встали я, Му‘аз ибн Джабаль, Убайй ибн Ка‘б и ‘Убада ибн ас-Самит. Когда же мы вошли (в дом), то Посланнику Аллаха ﷺ передали мальчика, который уже начал хрипеть, (— Передатчик этого хадиса сказал: «Я думаю, что Усама сказал: “…подобно старому, высохшему бурдюку…”» —) и тогда Посланник Аллаха ﷺ заплакал. (Увидев это,) Са‘д ибн ‘Убада спросил: “Ты плачешь?” Он ответил: “Поистине, Аллах милует милосердных из Своих рабов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7448</td></tr><tr><td>Arabic No</td><td>7448</td></tr><tr><td>Reference</td><td>Book 97 Hadith 74</td></tr></tbody></table></div>
 

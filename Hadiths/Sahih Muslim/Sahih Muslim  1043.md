@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported:Mu'adh said the night prayer with the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu ar-Rabi' az-Zahrani] berkata [Abu ar-Rabi'], telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dari [Amru bin Dinar] dari [Jabir bin Abdullah] dia berkata, "Dahulu Mu'adz shalat isya' bersama Rasulullah Shallallahu'alaihiwasallam, kemudian mendatangi masjid kaumnya, lalu shalat mengimami mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>465.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Обычно,) Му‘аз совершал вечернюю молитву /‘иша/ с Посланником Аллаха ﷺ, после чего он приходил в мечеть своего племени и проводил молитву с ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>465.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 205</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Messenger of Allah (ﷺ) prohibited us to pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris Adz-Dzuhli] telah menceritakan kepada kami [Sa'id bin Muhammad] telah menceritakan kepada kami [Abu Tumailah, Yahya bin Wadlih] telah menceritakan kepada kami [Abu Al-Munib, Ubaidullah Al-'Ataki] dari [Abdullah bin Buraidah] dari [Ayahnya] dia berkata; Rasulullah Shallallahu alaihi wasallam melarang seseorang shalat dengan menggunakan selimut yang tidak ada pengikatnya untuk pundak, dan beliau juga melarang seseorang yang lain yang shalat menggunakan celana tanpa melapisi badannya dengan selendang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 2 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Бурайды о том, что его отец сказал: «Посланник Аллаха ﷺ запретил молиться в одном покрывале, не окутавшись в него, а другое (что он запретил) это совершать молитву в штанах, если на тебе нет накидки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 2 Hadith 246</td></tr></tbody></table></div>
 

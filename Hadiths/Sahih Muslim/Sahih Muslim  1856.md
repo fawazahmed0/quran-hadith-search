@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Barâ' Ibn 'Azib (que Dieu l'agrée) a dit : Un homme récitait la sourate Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Ishaq] dari [Al Baraa'] ia berkata; Ada seorang laki-laki membaca surat Al Kahfi, sementara di sampingnya terdapat seekor kuda yang terikat dengan dua tali ikatan. Tiba-tiba ia dinaungi oleh gumpalan awan. Awan tersebut kemudian berputar-putar dan mendekat, hingga kuda itu pun lari. Ketika pagi, laki-laki itu mendatangi Nabi shallallahu 'alaihi wasallam dan menuturkan hal itu kepada beliau, maka beliau pun bersabda: "Itulah As sakinah (ketenangan) yang turun bagi (pembaca) Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1856</td></tr><tr><td>Arabic No</td><td>795.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-­Бара ибн ‘Азиб (да будет доволен им Аллах) рассказывал: «Как-то раз один человек читал суру “аль-­Кяхф”, а рядом с ним находилась привязанная двумя верёвками лошадь. И вдруг его неожиданно окутало какое-то облако, которое стало приближаться к нему. Что же касается лошади, то она испугалась. Наутро этот человек пришёл к Пророку ﷺ и рассказал ему об этом, на что Пророк ﷺ сказал: “Это была сакина, которая снизошла на тебя свыше благодаря чтению Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1856</td></tr><tr><td>Arabic No</td><td>795.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 284</td></tr></tbody></table></div>
 

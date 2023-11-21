@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: There was for every apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz al-Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Muhammad] -yaitu Ibnu Ziyad- dia berkata, aku mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda; "Setiap Nabi memiliki doa yang dia panjatkan untuk umatnya, lalu dikabulkan untuknya, dan sesungguhnya aku berkeinginan -insya Allah- untuk mengakhirkan doaku sebagai syafa'at bagi umatku pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>493</td></tr><tr><td>Arabic No</td><td>199.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «У каждого пророка была мольба, связанная с его общиной, с которой он обратился (к Аллаху) и на которую ему был дан ответ, я же хочу если на то будет воля Аллаха отложить свою мольбу на потом, чтобы заступиться за мою общину в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>493</td></tr><tr><td>Arabic No</td><td>199.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
 

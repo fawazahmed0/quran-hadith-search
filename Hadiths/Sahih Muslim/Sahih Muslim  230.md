@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarir b. Abdullah reported it from the Holy Prophet:When the slave runs away fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Jarir] dari [Mughirah] dari [asy-Sya'bi] dia berkata, [Jarir bin Abdullah] menceritakan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila seorang hamba sahaya melarikan diri (dari tuannya), maka shalatnya tidak diterima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>230</td></tr><tr><td>Arabic No</td><td>70</td></tr><tr><td>Reference</td><td>Book 1 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдуллах рассказывал о том, что Пророк ﷺ сказал: «Не будет приниматься молитва раба, если он сбежит (от своего хозяина)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>230</td></tr><tr><td>Arabic No</td><td>70</td></tr><tr><td>Reference</td><td>Book 1 Hadith 136</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’id b. Malik said:My ears heard it end my heart remembered it from Muhammad 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Ashim Al Ahwal] ia berkata; telah menceritakan kepadaku [Abu Utsman] ia berkata; telah menceritakan kepadaku [Sa'd bin Malik] ia berkata, "Kedua telingaku mendengar dan hatinya meresapinya dari Muhammad shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa menisbatkan dirinya kepada selain bapaknya, padahal ia tahu dia bukan bapaknya, maka surga haram untuk ia masuki." Sa'd berkata, "Aku lalu bertemu [Abu Bakrah], maka aku pun menceritakan hadits itu kepadanya. Ia berkata, "Kedua telingaku mendengar dan hatiku meresapinya, dari Muhammad shallallahu 'alaihi wasallam. Ashim berkata, "Aku berkata, "Wahai Abu Utsman, ada dua orang yang ada di sisimu yang ikut melihatnya, maka siapakah salah seorang dari mereka itu?" Abu Utsman menjawab, "Seorang dari mereka itu adalah orang yang pertama kali yang melemparkan anak panahnya di jalan Allah -atau dalam Islam-, yaitu Sa'd bin Malik. Sedangkan yang lainnya adalah seseorang yang tergabung dalam sebuah rombongan yang datang dari Thaif dengan berjalan kaki, jumlah mereka dua puluhan orang lebih." lalu ia menyebutkan sisa hadits." An Nufaili saat menceritakan hadits ini ia berkata, "Demi Allah, sesungguhnya ucapan 'telah menceritakan kepada kami dan telah menceritakan kepadaku' menurutku lebih manis dari madu." Abu Ali berkata, "Aku mendengar Abu Dawud berkata, "Aku mendengar Ahmad berkata, "Pada hadits orang-orang Kufah tidak ada cahaya." Ahmad bin Hanbal berkata, "Aku tidak pernah melihat sebagaimana orang-orang Bashrah (dalam menuntut hadits), mereka mempelajarinya dari Syu'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4326، 4327) Sahih Muslim (63)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 43 Hadith 341</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4326، 4327) Sahih Muslim (63)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 43 Hadith 341</td></tr></tbody></table></div>
 

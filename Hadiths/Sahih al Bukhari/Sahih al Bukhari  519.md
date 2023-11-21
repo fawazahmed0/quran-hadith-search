@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:It is not good that you people have made us (women) equal to dog
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami ['Ubaidullah] berkata, telah menceritakan kepada kami [Al Qasim] dari ['Aisyah] berkata, "Sangat buruk apa yang kalian lakukan dengan menyamakan kami dengan anjing dan keledai! Sungguh, aku pernah lihat Rasulullah shallallahu 'alaihi wasallam shalat sedangkan aku berbaring antara beliau dan arah kiblatnya. Jika akan sujud beliau mendorong kakiku dengan tangannya, maka aku pun segera menarik kedua kakiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>519</td></tr><tr><td>Arabic No</td><td>519</td></tr><tr><td>Reference</td><td>Book 8 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Плохо то, что вы приравниваете нас (женщин) к ослам и собакам, ибо, когда Посланник Аллаха ﷺ совершал молитву, меня видели лежащей между ним и киблой. И когда он хотел совершить земной поклон, он касался моих ног, и я прибирала их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>519</td></tr><tr><td>Arabic No</td><td>519</td></tr><tr><td>Reference</td><td>Book 8 Hadith 166</td></tr></tbody></table></div>
 

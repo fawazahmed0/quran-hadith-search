@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:We were walking with Allah's Messenger (ﷺ) that Ibn Sayyad h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair], [Ishaq bin Ibrahim] dan [Abu Kuraib], teks milik Abu Kuraib, berkata Ibnu Numair: telah menceritakan kepada kami, sedangkan yang lain berkata: Telah mengkhabarkan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Abdullah] berkata: Kami berjalan bersama nabi Shallallahu 'alaihi wa Salam lalu beliau melintasi Ibnu Shayyad, Rasulullah Shallallahu 'alaihi wa Salam bersabda padanya: "Aku menyembunyikan sesuatu untukmu." Ia berkata: Asap. Lalu Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Menyingkirlah, kau tidak akan melampaui kemampuanmu." Lalu Umar berkata: Wahai Rasulullah, biarkan aku menebas lehernya. Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Biarkan dia, bila dia orang yang kau takuti, kau tidak akan mampu membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7345</td></tr><tr><td>Arabic No</td><td>2924.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7345</td></tr><tr><td>Arabic No</td><td>2924.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 109</td></tr></tbody></table></div>
 

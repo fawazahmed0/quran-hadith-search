@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' narrated that it was said to Ibn 'Umar that Abu Huraira reported to have h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farukh] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Nafi'] ia berkata; telah dikatakan kepada Ibnu Umar, bahwa [Abu Hurairah] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mengikuti jenazah, maka baginya satu qirath pahala." Ibnu Umar berkata, "Yang paling banyak (menceritakan hadits kepada kita) adalah Abu Hurairah." Lalu ia pun mengutus seseorang kepada Aisyah dan menanyakan hal itu padanya, maka [Aisyah] pun membenarkan Abu Hurairah. Maka Ibnu Umar pun berkata, "Sungguh, kita telah melewatkan qirath yang banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Нафи‘а, что (однажды) Ибн ‘Умару сказали: «Абу Хурайра говорит, что он слышал, как Посланник Аллаха ﷺ говорил: “Тот, кто присоединится к похоронной процессии, получит награду в один кырат”. (На что) Ибн ‘Умар сказал: «Абу Хурайра рассказывает слишком много (хадисов)». После этого он отправил посланца к ‘Аише, чтобы он спросил её (об этом), и она подтвердила (слова) Абу Хурайры. Тогда Ибн ‘Умар воскликнул: «(Значит,) упустили мы множество кыратов (награды)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
 

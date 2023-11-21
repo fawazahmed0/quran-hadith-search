@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar said that the Messenger of Allah (ﷺ) prescribed Zakat-ul-Fitr one sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah mengabarkan kepada kami [bapakku] -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] -lafazh juga miliknya- ia berkata, telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Usamah] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam telah mewajibkan zakat fithrah sebanyak satu sha' kurma atau gandum atas setiap hamba sahaya atau orang merdeka, anak kecil maupun dewasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2279</td></tr><tr><td>Arabic No</td><td>984.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ вменил в обязанность раздавать в День Разговения закят в размере одного са‘ фиников или ячменя рабу и свободному (человеку), малому и старому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2279</td></tr><tr><td>Arabic No</td><td>984.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 17</td></tr></tbody></table></div>
 

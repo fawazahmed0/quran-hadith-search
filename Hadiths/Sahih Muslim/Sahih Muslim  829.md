@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Messenger of Allah (ﷺ) went to the privy and when he c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Muhammad bin Muslim ath-Thaifi] dari [Amru bin Dinar] dari [Sa'id bin al-Huwairits, maula Ali as-Sa'ib] bahwa dia mendengar [Abdullah bin Abbas] berkata, "Rasulullah pernah ke WC, ketika beliau datang, maka dibawakanlah makanan kepadanya, maka dikatakan kepada beliau, 'Wahai Rasulullah, tidakkah kamu berwudhu? ' Beliau menjawab, 'Kenapa, apakah untuk shalat?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>374.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн ‘Аббас сказал: «(Однажды) Посланник Аллаха ﷺ отправился в отхожее место, а когда вернулся, ему была подана еда. Кто-то сказал: “О Посланник Аллаха, разве ты не совершишь омовение?” На что он сказал: “Для чего? Для совершения молитвы?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>374.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 150</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) was more shy than a virgin in her
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] saya mendengar [Abdullah yaitu Ibnu Abu 'Utbah] bekas budak Anas, dari [Abu Sa'id Al Khudri] dia berkata; Nabi shallallahu 'alaihi wasallam adalah sosok yang lebih pemalu daripada seorang gadis yang dipingit dalam rumah, apabila beliau melihat sesuatu yang tidak disukainya, maka kami akan mengetahui dari raut muka beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6102</td></tr><tr><td>Arabic No</td><td>6102</td></tr><tr><td>Reference</td><td>Book 78 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Пророк ﷺ был стыдлив в большей степени, чем девушка, сидящая за своей занавеской, а если ему что-то не нравилось, это было заметно по (выражению) его лица»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6102</td></tr><tr><td>Arabic No</td><td>6102</td></tr><tr><td>Reference</td><td>Book 78 Hadith 129</td></tr></tbody></table></div>
 

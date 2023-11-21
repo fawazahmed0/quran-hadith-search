@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama, the wife of the Messenger of Allah (way peace be upon him), reported
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2128</td></tr><tr><td>Arabic No</td><td>918.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Ибн Сафийны, вольноотпущенника Умм Салямы, жены Пророка ﷺ что Умм Саляма, да будет доволен ею Аллах, сказала:– Я слышала, как Посланник Аллаха ﷺ говорил … (И он передал) такой же хадис, который передал Абу Усама (имеется в виду предыдущий хадис) с дополнением. Она сказала: «Когда умер Абу Саляма, я сказала: “Кто может быть лучше Абу Салямы – сподвижника Посланника Аллаха ﷺ?” Затем Аллах укрепил (моё сердце, чтобы я обратилась с этой мольбой) и я произнесла эти (слова)».(Умм Саляма) сказала: «И я вышла замуж за Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2128</td></tr><tr><td>Arabic No</td><td>918.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 6</td></tr></tbody></table></div>
 

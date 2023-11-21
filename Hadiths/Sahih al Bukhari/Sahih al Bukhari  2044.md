@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) used to perform I'tikaf every year in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Abu Bakar] dari [Abu Hashin] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam selalu beri'tikaf pada bulan Ramadhan selama sepuluh hari. Namun pada tahun wafatnya, Beliau beri'tikaf selama dua puluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>2044</td></tr><tr><td>Reference</td><td>Book 33 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Во время рамадана Пророк ﷺ всегда неотлучно находился в мечети в течение десяти дней, а в год его смерти он провёл там двадцать дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>2044</td></tr><tr><td>Reference</td><td>Book 33 Hadith 19</td></tr></tbody></table></div>
 

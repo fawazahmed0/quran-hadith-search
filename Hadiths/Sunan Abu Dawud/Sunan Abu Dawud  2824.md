@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Adi ibn Hatim: I said: Messenger of Allah, tell me when one of us catch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], dari [Simak bin Harb], dari [Murai bin Qothary], dari [Adi bin Hatim], dia berkata; aku berkata; wahai Rasulullah bagaimana menurut engkau jika salah seorang diantara kami mendapat hewan buruan sedangkan dia tidak mempunyai pisau, apakah (boleh) dia menyembelih dengan batu yang tajam? Maka beliau bersabda: "alirkanlah darah (hewan itu) dengan apa yang kamu punyai dan sebutlah nama Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>2824</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ади ибн Хатима, да будет доволен им Аллах: «Я сказал: “О Посланник Аллаха, если один из нас добыл на охоте животное и у него нет ножа, чтобы зарезать его, может ли он зарезать его с помощью кремниевых камней и острой палки?” (Посланник Аллаха ﷺ) ответил: “Выпускай кровь, чем хочешь, и произноси имя Всемогущего и Великого Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>2824</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
 

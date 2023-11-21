@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:I offered the 'Asr prayer with the Prophet (ﷺ) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami ['Umar] -dia adalah anak dari Sa'id- berkata, telah mengabarkan kepada saya [Ibnu Abu Mulaikah] dari ['Uqbah bin Al Harits radliallahu 'anhu] berkata: "Aku pernah shalat 'Ashar bersama Nabi shallallahu 'alaihi wasallam. Setelah memberi salam, tiba-tiba Beliau berdiri dengan tergesa-gesa dan menemui sebagian isteri-isteri Beliau. Kemudian setelah itu Beliau keluar kembali dan Beliau melihat bahwa orang-orang semua keheranan dengan ketergesaan Beliau. Maka akhirnya Beliau bersabda: "Aku teringat ketika aku shalat tadi tentang sebatang emas yang ada pada kami. Aku tidak suka bila benda itu berada pada kami sampai sore atau bermalam, maka aku perintahkan untuk dibagi-bagikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1221</td></tr><tr><td>Arabic No</td><td>1221</td></tr><tr><td>Reference</td><td>Book 21 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн Харис, да будет доволен им Аллах, сказал: «(Однажды) я совершил послеполуденную молитву вместе с Пророком ﷺ. После произнесения слов таслима он быстро поднялся и зашел к одной из своих жён. Затем он вышел и увидев удивление в лицах людей от подобной поспешности, сказал: “Я вспомнил о том, что у нас есть золото, и я не хотел, чтобы оно оставалось у нас на ночь, и приказал раздать его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1221</td></tr><tr><td>Arabic No</td><td>1221</td></tr><tr><td>Reference</td><td>Book 21 Hadith 25</td></tr></tbody></table></div>
 

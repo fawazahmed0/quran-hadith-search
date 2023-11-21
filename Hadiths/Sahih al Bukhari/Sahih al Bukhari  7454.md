@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:Allah's Messenger (ﷺ) the true and truly inspire
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al A'masy] aku mendengar [Zaid bin Wahb] aku mendengar ['Abdullah bin Mas'ud] radliyallahu'anhu, telah menceritakan kepada kami Rasulullah Shallallahu'alaihiwasallam yang beliau adalah seorang yang jujur menyampaikan, dan berita yang disampaikan kepadanya adalah benar, bahwa penciptaan salah seorang diantara kalian dihimpun dalam perut ibunya selama empat puluh hari, atau empat puluh malam, kemudian menjadi segumpal darah dalam empat puluh hari berikutnya, kemudian menjadi segumpal daging dalam empat puluh hari berikutnya, kemudian Allah mengutus malaikat kepadanya dan memerintahkan untuk menetapkan empat kalimat (empat hal); tentang rejekinya, ajalnya, amalnya, sengsara ataukah bahagia. Kemudian Allah meniupkan ruh padanya, sungguh ada salah seorang diantara kalian yang melakukan amalan-amalan penghuni surga hingga tak ada jarak antara dia dan surga selain sehasta, namun kemudian takdir telah mendahului dia, lantas ia pun melakukan amalan penghuni neraka dan akhirnya masuk neraka. Dan sungguh ada salah seorang diantara kalian yang melakukan amalan penghuni neraka, hingga tak ada jarak antara dia dan neraka selain sehasta, namun kemudian takdir mendahuluinya, lantas ia pun mengamalkan amalan penghuni surga sehingga ia memasukinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7454</td></tr><tr><td>Arabic No</td><td>7454</td></tr><tr><td>Reference</td><td>Book 97 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Правдивый и достойный доверия Посланник Аллаха ﷺ сказал нам: “Поистине, в течение сорока дней (или: сорока ночей) каждый из вас сначала собирается в чреве матери, затем подобным образом пребывает там в виде сгустка крови (‘аляка) и подобным же образом — в виде кусочка плоти (мудга), а затем Аллах направляет ангела, который получает разрешение записать четыре вещи: он записывает его удел, его жизненный срок, его дела, а также то, счастливым он будет или злосчастным, а затем вдыхает в него дух. И поистине, любой из вас может совершать дела обитателей рая, пока не окажется от рая на расстоянии всего лишь одного локтя, а потом возобладает написанное ему на роду [злосчастье], и он станет совершать дела обитателей Огня и войдёт в Огонь. И, поистине, любой из вас может совершать дела обитателей Огня, пока не окажется от Огня на расстоянии всего лишь одного локтя, а потом возобладает написанное ему на роду [счастье], и он станет совершать дела обитателей рая и войдёт в рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7454</td></tr><tr><td>Arabic No</td><td>7454</td></tr><tr><td>Reference</td><td>Book 97 Hadith 80</td></tr></tbody></table></div>
 

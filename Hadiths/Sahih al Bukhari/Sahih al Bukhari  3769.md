@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:Allah's Messenger (ﷺ) said, "Many amongst men att
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] berkata; Dan diriwayatkan pula, telah bercerita kepada kami ['Amru] telah mengabarkan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Murrah] dari [Abu Musa Al Asy'ariy radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia yang sempurna dari kalangan laki-laki sekian banyak, namun tidak ada manusia sempurna dari kalangan wanita melainkan Maryam bin ti 'Imran, Asiyah, dan istrinya Fir'aun. Dan keutamaan 'Aisyah terhadap wanita-waita lain bagaikan keutamaan makanan tsarid dibandingkan seluruh makanan lain".". (Tsarid adalah sejenis makanan yang terbuat dari daging dan roti yang dibuat bubur dan berkuah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3769</td></tr><tr><td>Arabic No</td><td>3769</td></tr><tr><td>Reference</td><td>Book 62 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы (аль-Аш‘ари), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Многие из мужчин отличались совершенством, а среди женщин никто не достиг его, кроме Марйам, дочери ‘Имрана, и Асийи, жены фараона. (Что же касается) превосходства ‘Аиши над (другими) женщинами, то, поистине, оно подобно превосходству сарида над прочими (видами) еды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3769</td></tr><tr><td>Arabic No</td><td>3769</td></tr><tr><td>Reference</td><td>Book 62 Hadith 114</td></tr></tbody></table></div>
 

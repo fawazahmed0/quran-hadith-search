@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hammam said :A man came and praised ‘Uthman in his face, al-Miqdad b. Al-Aswad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Hammam] ia berkata, "Seorang laki-laki datang kepada Utsman seraya memujinya, lalu [Miqdad Ibnul Aswad] mengambil pasir dan melemparkannya ke wajah laki-laki itu. Setelah itu ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian bertemu dengan orang-orang yang suka memuji-muji, maka taburlah dengan pasir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (3002)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 43 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хаммама (бин аль-Хариса), что (как-то раз один) человек принялся восхвалять ‘Усмана в присутствии аль-Микдада и тогда аль-Микдад взял землю и стал бросать в лицо (восхвалявшему), сказав: «Поистине, Посланник Аллаха ﷺ сказал: “Если увидите восхваляющих, забросайте их лица землёй!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (3002)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 43 Hadith 32</td></tr></tbody></table></div>
 

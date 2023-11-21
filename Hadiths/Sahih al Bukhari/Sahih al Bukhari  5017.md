@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: Whenever the Prophet (ﷺ) went to bed every night, he used to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Al Mufadldlal bin Fadlalah] dari [Uqail] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] bahwa biasa Nabi shallallahu 'alaihi wasallam bila hendak beranjak ke tempat tidurnya pada setiap malam, beliau menyatukan kedua telapak tangannya, lalu meniupnya dan membacakan: "QULHUWALLAHU AHAD.." dan, "QUL 'A'UUDZU BIRABBIL FALAQ..." serta, "QUL 'A'UUDZU BIRABBIN NAAS.." Setelah itu, beliau mengusapkan dengan kedua tangannya pada anggota tubuhnya yang terjangkau olehnya. Beliau memulainya dari kepala, wajah dan pada anggota yang dapat dijangkaunya. Hal itu, beliau ulangi sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5017</td></tr><tr><td>Arabic No</td><td>5017</td></tr><tr><td>Reference</td><td>Book 66 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что каждую ночь, перед тем как лечь в постель, Пророк ﷺ соединял перед собой кисти рук (ладонями внутрь), потом дул на них, потом читал «Скажи: “Он, Аллах, Один…”», «Скажи: “Прибегаю к Господу рассвета…”» и «Скажи: “Прибегаю к Господу людей…”», а потом проводил (ладонями) по всему телу, куда только мог дотянуться, начиная с головы, лица и передней части тела, и делал это трижды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5017</td></tr><tr><td>Arabic No</td><td>5017</td></tr><tr><td>Reference</td><td>Book 66 Hadith 39</td></tr></tbody></table></div>
 

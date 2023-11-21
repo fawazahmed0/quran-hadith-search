@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported on the authority of his father that a person saw Lailat-ul- Qadr 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru An Naqid] dan [Zuhair bin Harb] - [Zuhair] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Salim] dari [bapaknya] radliallahu 'anhu, ia berkata; Seorang bermimpi bahwa Lailatul Qadr terdapat pada malam kedua puluh tujuh bulan Ramadlan. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Aku bermimpi seperti mimipimu, yaitu pada sepuluh malam yang akhir. Karena itu, carilah ia pada malam-malam yang ganjil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2763</td></tr><tr><td>Arabic No</td><td>1165.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2763</td></tr><tr><td>Arabic No</td><td>1165.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 269</td></tr></tbody></table></div>
 

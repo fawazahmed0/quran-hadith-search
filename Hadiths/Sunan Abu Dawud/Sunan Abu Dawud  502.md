@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mahdhurah reported ; The Messenger of Allah (May peace be upon him) taught h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami [Affan] dan [Sa'id bin Amir] dan [Hajjaj] dengan makna yang sama, mereka berkata; Telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Amir Al-Ahwal] telah menceritakan kepadaku [Makhul] bahwasanya [Ibnu Muhairiz] telah menceritakan kepadanya bahwasanya [Abu Mahdzurah] telah menceritakan kepadanya bahwasanya Rasulullah shallallahu 'alaihi wasallam telah mengajarinya lafazh adzan sembilan belas kalimat, dan lafazh iqamah tujuh belas kalimat. Adzan: Allaahu akbar Allaahu akbar, Allaahu akbar Allaahu akbar, Asyhadu an laa ilaaha illallaah, Asyhadu an laa ilaaha illallaah, Asyhadu ana Muhammadar Rasuulullah, Asyhadu anna Muhammadar Rasuulullah, Asyhadu an laa ilaaha illallaah, Asyhadu ana Muhammadar Rasuulullah, Asyhadu anna Muhammadar Rasuulullah, Hayya 'alash shalaah, Hayya 'alash shalaah, Hayya 'alal falaah, Hayya 'alal falaah, Allaahu akbar Allaahu Akbar, Laa ilaaha illallaah. Sedangkan lafazh iqamah: Allaahu Akbar Allaahu akbar, Allaahu akbar Allaahu akbar, Asyhadu an laa ilaaha illallah, asyhadu an laa ilaaha illallaah, Asyhadu anna Muhammadar Rasulullah, asyhadu anna Muhammadar Rasulullah, hayya 'alash shalaah Hayya 'alash shalaah, Hayya 'alal falaah, Hayya 'alal falaah, Qad qaamatis shalaah, qad qaamatis shalaah, Allaahu akbar Allaahu akbar, Laa ilaaha illallaah. Demikianlah dalam kitabnya tentang Hadits Abu Mahdzurah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (379 Mukhtasar)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>502</td></tr><tr><td>Arabic No</td><td>502</td></tr><tr><td>Reference</td><td>Book 2 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амира аль-Ахваля, которому сообщил Макхуль о том, что Ибн Мухайриз рассказал ему, что Абу Махзура рассказывал ему о том, что Посланник Аллаха ﷺ научил его азану, (состоящему) из девятнадцати фраз и икаме из семнадцати фраз. Азан: «Аллаху акбар! Аллаху акбар! Аллаху акбар! Аллаху акбар! Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Хаййа ‘аля-с-салях! Хаййа ‘аля-с-салях! Хаййа ‘аляль-фалях! Хаййа ‘аляль-фалях! Аллаху акбар! Аллаху акбар! Ля иляха илля-Ллах!” А икама: «Аллаху акбар! Аллаху акбар! Аллаху акбар! Аллаху акбар! Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Хаййа ‘аля-с-салях! Хаййа ‘аля-с-салях! Хаййа ‘аляль-фалях! Хаййа ‘аляль-фалях! Кад камати-с-салях! Кад камати-с-салях! Аллаху акбар! Аллаху акбар! Ля иляха илля-Ллах!Так (об этом сообщается) в его книге из хадиса Абу Махзуры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (379 Mukhtasar)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>502</td></tr><tr><td>Arabic No</td><td>502</td></tr><tr><td>Reference</td><td>Book 2 Hadith 112</td></tr></tbody></table></div>
 

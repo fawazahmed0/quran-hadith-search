@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Abi Hathma:(describing the Fear prayer): The Imam stands up fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan] dari [Yahya bin Sa'id Al Anshari] dari [Al Qasim bin Muhammad] dari [Shalih bin Khawwat] dari [Sahal bin Abu Hatsmah] ia berkata; "(Dalam shalat khauf), imam berdiri menghadap qiblat, sedangkan satu kelompok shalat bersama imam dan sekelompok lainnya menghadap ke arah musuh. Imam shalat bersama kelompok orang yang bersamanya (kelompok pertama) satu raka'at, setelah itu mereka berdiri dan ruku' untuk diri mereka masing-masing satu kali ruku' dan dua kali sujud ditempatnya. Lalu kelompok yang satu (kelompok kedua) pergi menempati kelompok yang lain (kelompok pertama), seterusnya mereka (kelompok kadua) shalat satu raka'at bersama imam, maka imam telah mengerjakan dua raka'at, kemudian kelompok kedua melanjutkan sekali ruku' dan dua kali sujud." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Abdurrahman bin Al Qasim] dari [Bapaknya] dari [Shalih] dari [Sahal bin Abu Hatsmah] dari Nabi shallallahu 'alaihi wasallam seperti hadits diatas. Telah menceritakan kepadaku [Muhammad bin Ubaidullah] ia berkata; telah menceritakan kepadaku [Ibnu Abu Hazim] dari [Yahya] dia mendengar [Al Qasim] telah mengabarkan kepadaku [Shalih bin Khawwat] dari [Sahal] dia menceritakan kepadanya dengan ucapannya ini. Hadits ini juga diriwayatkan oleh [Al Laits] dari [Hisyam] dari [Zaid bin Aslam] bahwa [Al Qasim bin Muhammad] menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam malaksanakan shalat (khauf) saat terjadi perang Bani Anmar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4131</td></tr><tr><td>Arabic No</td><td>4131</td></tr><tr><td>Reference</td><td>Book 64 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Абу Хасма сказал (о молитве, совершаемой под воздействием страха /салят аль-хауф/): «Имам встаёт, обратившись в сторону киблы вместе с одной группой, тогда как другая остаётся стоять напротив врага, обратившись в их сторону. Имам совершает один рак’ат вместе с теми, кто с ним, затем они встают и самостоятельно совершают один поясной поклон и два земных. Затем эта группа встаёт напротив врага, а та, которая не молилась, встаёт за имамом. Он совершает с ними второй рак’ат. Таким образом он совершает два рак’ата. Затем вторая группа совершает поясной поклон, и два земных»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4131</td></tr><tr><td>Arabic No</td><td>4131</td></tr><tr><td>Reference</td><td>Book 64 Hadith 175</td></tr></tbody></table></div>
 

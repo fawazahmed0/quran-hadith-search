@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:My mother Umm Anas came to Allah's Messenger (ﷺ). And she prepar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ma'an Ar Raqasyi]; Telah menceritakan kepada kami ['Umar bin Yunus]; Telah menceritakan kepada kami ['Ikrimah]; Telah menceritakan kepada kami [Ishaq]; Telah menceritakan kepada kami [Anas] dia berkata; Pada suatu hari saya bersama ibuku datang kepada Rasulullah shallallahu 'alaihi wasallam. Ibuku menyelimutiku dengan separuh kerudungnya dan separuhnya lagi untuk menyelendangi saya. Ibuku berkata; 'Ya Rasulullah, inilah Unais (panggilan Anas ketika masih kecil), putra saya. Saya ajak ia kemari agar kelak membantu engkau. OIeh karena itu, doakanlah untuknya! Kemudian Rasulullah berdoa untuk Anas; "Ya Allah, perbanyaklah harta dan anaknya!" Di kemudian hari Anas berkata; Demi Allah, harta saya sekarang sungguh banyak sekali, anak dan cucu saya kini telah mencapai seratus orang lebih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6376</td></tr><tr><td>Arabic No</td><td>2481.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6376</td></tr><tr><td>Arabic No</td><td>2481.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 206</td></tr></tbody></table></div>
 

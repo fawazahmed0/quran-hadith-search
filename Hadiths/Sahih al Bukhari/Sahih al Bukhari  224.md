@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:Once the Prophet (ﷺ) went to the dumps of some people and pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] dari [Abu Wa'il] dari [Hudzaifah] berkata, "Nabi shallallahu 'alaihi wasallam mendatangi tempat pembuangan sampah suatu kaum, beliau lalu kencing sambil berdiri. Kemudian beliau meminta air, maka aku pun datang dengan membawa air, kemudian beliau berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>224</td></tr><tr><td>Arabic No</td><td>224</td></tr><tr><td>Reference</td><td>Book 4 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ подошёл к тому месту, куда люди сбрасывали мусор, и помочился стоя. Потом он велел принести воды, и когда я сделал это, он совершил омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>224</td></tr><tr><td>Arabic No</td><td>224</td></tr><tr><td>Reference</td><td>Book 4 Hadith 90</td></tr></tbody></table></div>
 

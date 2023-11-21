@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:When 'Abdullah bin Ubdi (bin Salul) died, his son c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah] telah mengabarkan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] dia berkata; telah mengabarkan kepadaku [Nafi'] dari ['Abdullah] dia berkata; Setelah Abdullah bin Ubay meninggal dunia, anaknya datang menemui Nabi shallallahu 'alaihi wasallam, dan berkata; 'Wahai Rasulullah, berikanlah baju engkau kepadaku hingga aku mengkafaninya dengan baju itu, shalatkanlah ia dan mintalah ampunan untuknya!" lalu beliau memberikan baju beliau kepadanya. Kemudian beliau bersabda: "Jika kalian telah selesai, beritahulah aku." Ketika telah selesai, maka anaknya Abdullah bin Ubay memberitahukan kepada beliau, lalu beliau datang untuk menshalatinya. Maka Umar menariknya seraya berkata; 'Tidakkah Allah telah melarang engkau untuk menshalatkan orang-orang munafik'. Namun beliau membaca ayat: "Mintakanlah ampun untuk mereka atau kamu tidak memintakan ampun untuk mereka, sama saja jika kamu memintakan ampun untuk mereka sebanyak tujuh puluh kali maka Allah tidak akan mengampuni mereka." Lalu turunlah ayat, Dan janganlah kamu sekali-kali menshalatkan (jenazah) seorang yang mati diantara mereka, dan janganlah kamu berdiri (mendoakan) di kuburnya'. Akhirnya beliaupun tidak lagi menshalatkan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5796</td></tr><tr><td>Arabic No</td><td>5796</td></tr><tr><td>Reference</td><td>Book 77 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что, когда ‘Абдуллах ибн Убайй умер, его сын пришёл к Посланнику Аллаха ﷺ и сказал: «О Посланник Аллаха, дай мне свою рубаху, чтобы я использовал её в качестве савана, соверши над ним погребальную молитву и попроси у Аллаха прощения для него». И Пророк ﷺ дал ему свою рубаху, сказав: «Когда закончите, дайте мне знать, (чтобы я мог совершить молитву)». Когда же он закончил, то позвал Пророка ﷺ. И Пророк ﷺ пришёл, чтобы совершить над ним погребальную молитву. И ‘Умар потянул его за одежду и спросил: «А разве Аллах не запретил тебе молиться за лицемеров, сказав: “Будешь ли ты просить прощения для них или не будешь делать этого, Аллах всё равно не простит их, даже если ты попросишь для них прощения семьдесят раз”». И после этого был ниспослан аят: «Никогда не молись ни по кому из них в случае его смерти и не стой у его могилы». И с тех пор Посланник Аллаха ﷺ не совершал погребальную молитву ни по кому из них
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5796</td></tr><tr><td>Arabic No</td><td>5796</td></tr><tr><td>Reference</td><td>Book 77 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Al-Mujalid:'Abdullah bin Shaddad and Abu Burda sent me to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Asy-Syaibaniy] telah menceritakan kepada kami [Muhammad bin Abi Al Mujalid] berkata; 'Abdullah bin Syaddad dan Abu Burdah mengutusku untuk menemui ['Abdullah bin Abi Aufaa] radliallahu 'anhuma dan keduanya berkata; Tanyakanlah kepadanya apakah para sahabat Nabi shallallahu 'alaihi wasallam di zaman Nabi shallallahu 'alaihi wasallam mempraktekkan jual beli salaf pada biji gandum?" Berkata 'Abdullah; "Kami mempraktekkan salaf dengan orang-orang blasteran bangsa Syam pada biji gandum, beras dan kismis dengan takaran yang pasti sampai waktu yang pasti pula". Aku tanyakan: "Kepada siapa asalnya diserahkan?. Dia berkata: "Kami tidak pernah menanyakan hal ini kepada mereka". Kemudian keduanya mengutus aku untuk menemui ['Abdurrahman bin Abzaa] lalu aku tanyakan, maka dia berkata: "Para sahabat Nabi shallallahu 'alaihi wasallam mempraktekkan salaf di zaman Nabi shallallahu 'alaihi wasallam dan kami tidak pernah menanyakan kepada mereka apakah mereka memiliki pertanian atau tidak?" Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Khalid bin 'Abdullah] dari [Asy-Syaibaniy] dari [Muhammad bin Abi Mujalid] dengan redaksi seperti ini dan dia berkata: "Kami mempraktekkan salaf pada biji gandum. Dan berkata, ['Abdullah bin Al Walid] dari [Sufyan] telah menceritakan kepada kami [Asy-Syaibaniy] dan berkata: "Dan juga pada kismis". Telah menceritakan kepada kami [Quaibah] telah menceritakan kepada kami [Jarir] dari [Asy-Syaibaniy] dan berkata: "Pada biji gandum, padi dan kismis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>2244</td></tr><tr><td>Reference</td><td>Book 35 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (предыдущего хадиса сообщается, что Ибн Абу Ауфа, да будет доволен им Аллах,) сказал: «Обычно мы заранее расплачивались с крестьянами Шама за известные меры пшеницы, ячменя и (оливкового) масла(, договариваясь с ними о поставках) на определённый срок». Его спросили: «(Вы платили) тем, у кого была основа?» Он ответил: «Мы их об этом не спрашивали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>2244</td></tr><tr><td>Reference</td><td>Book 35 Hadith 7</td></tr></tbody></table></div>
 

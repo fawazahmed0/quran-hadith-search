@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:That he heard Al-Bara narrating when a man from Qais (tribe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq], ia mendengar [Al Barra'] yang ketika itu seseorang dari Qais bertanya kepadanya "Apakah kalian melarikan diri dari Rasulullah shallallahu 'alaihi wasallam pada perang hunain? Jawab Al Barra; "Adapun Nabi shallallahu 'alaihi wasallam, beliau pantang melarikan diri, ketika itu Hawazin adalah para pemanah ulung, ketika kami menyerbu mereka, mereka kocar-kacir sehingga kami tergiur mendapatkan ghanimah, dan gantian kami yang dihujani dengan anak panah." Kulihat Rasulullah shallallahu 'alaihi wasallam diatas bighalnya yang putih, dan Abu Sufyan bin Al Harits memegang kendalinya sedang Nabi sambil berseru; "Aku Nabi yang tiada dusta # Aku anak Abd Muthalib. Sedang [Israil] dan [Zuhair] mengatakan dengan redaksi; "Nabi shallallahu 'alaihi wasallam turun dari bighalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 64 Hadith 348</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз один) человек из племени Кайс спросил аль-Бара: «Верно ли, что в день (битвы при) Хунайне вы бежали (, покинув) Посланника Аллаха ﷺ?» Он сказал: «(Да,) но Посланник Аллах ﷺ не побежал. (Люди из племени) хавазин хорошо стреляли из луков; повстречавшись с ними, мы атаковали их, и они побежали, а когда мусульмане занялись военной добычей, они обстреляли нас из луков. И я видел Посланника Аллаха ﷺ, сидящим на его белой мулице, а (в это время) Абу Суфйан ибн аль-Харис держал её под уздцы, а Пророк ﷺ произносил (такие слова): “Я — пророк, и нет (в этом) лжи!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 64 Hadith 348</td></tr></tbody></table></div>
 

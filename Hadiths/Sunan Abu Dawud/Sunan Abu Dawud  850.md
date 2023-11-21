@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) used to say between the two prost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mas'ud] telah menceritakan kepada kami [Zaid bin Al Khubbab] telah menceritakan kepada kami [Kamil Abu Al 'Ala'] telah menceritakan kepadaku [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam mengucapkan diantara dua sujudnya "ALLAHUMMA GHFIR LI WARHAMNI WA'AFINI WAHDINI WARZUQNI" (ya Allah anugerahkanlah untukku ampunan, rahmat, kesejahteraan, petunjuk dan rizki)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>850</td></tr><tr><td>Arabic No</td><td>850</td></tr><tr><td>Reference</td><td>Book 2 Hadith 460</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ говорил между двумя земными поклонами: «О Аллах, прости, помилуй и даруй мне благополучие и веди меня прямым путём и даруй мне удел (Аллахумма-гфир ли, ва-рхам-ни, ва ‘афи-ни, ва-хди-ни ва-рзук-ни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>850</td></tr><tr><td>Arabic No</td><td>850</td></tr><tr><td>Reference</td><td>Book 2 Hadith 460</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakr reported:(He called for) the barber and, pointing towards the right sid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Hafsh bin Ghiyats] dari [Hisyam] dari [Muhammad bin Sirin] dari [Anas bin Malik] bahwasanya; Setelah Rasulullah shallallahu 'alaihi wasallam sampai di Mina, beliau datang ke Jamratul 'Aqabah lalu melontarnya. Kemudian beliau pergi ke tempatnya di Mina, di sana beliau menyembelih hewan kurban. Sesudah itu, beliau bersabda kepada tukang cukur: "Cukurlah rambutku." Sambil beliau memberi isyarat ke kepalanya sebelah kanan dan kiri. Sesudah itu, diberikannya rambutnya kepada orang banyak. Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] dan [Abu Kuraib] mereka berkata, telah mengabarkan kepada kami [Hafsh bin Ghiyats] dari [Hisyam] dengan isnad ini. Adapun Abu Bakr, maka ia berkata dalam riwayatnya; (Beliau bersabda kepada tukang cukur): "HAA (cukurlah rambutku)." Beliau sambil memberi isyarat ke arah kepala bagian kanannya seperti ini. Lalu beliau membagi-bagikan rambutnya kepada mereka yang berada di dekat beliau. Setelah itu beliau memberi isyarat kembali ke arah kepadala bagian kiri, maka tukang cukur itu pun mencukurnya, dan beliau pun memberikan rambut itu kepada Ummu Sulaim. Adapun dalam riwayat Abu Kuraib ia menyebutkan; Tukang cukur itu pun memulainya dari rambut sebelah kanan seraya membagikannya kepada orang-orang, baru pindah ke sebelah kiri dan juga berbuat seperti itu. Kemudian beliau bersabda: "Ambilah ini wahai Abu Thalhah." Akhirnya beliau pun memberikannya kepada Abu Thalhah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3153</td></tr><tr><td>Arabic No</td><td>1305.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3153</td></tr><tr><td>Arabic No</td><td>1305.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 357</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "Whoever has (the following)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Khalid] telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Abdullah bin Murrah] dari [Masruq] dari ['Abdullah bin 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada empat hal yang bila ada pada seseorang berarti dia adalah munafiq atau siapa yang memiliki empat kebiasaan (tabi'at) berarti itu tabiat munafiq sampai dia meninggalkannya, yaitu jika berbicara dusta, jika berjanji ingkar, jika membuat kesepakatan khiyanat dan jika bertengkar (ada perselisihan) maka dia curang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 46 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абдуллаха бин Амра бин аль-Аса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: \n— Отличающийся четырьмя (качествами) является лицемером (в полном смысле этого слова), а тот, кому присуще хотя бы одно из этих качеств, будет обладать одним из качеств лицемерия до тех пор, пока не избавится от него. (Подобные качества присущи тому,) кто лжёт, когда рассказывает (о чём-либо), предаёт, когда ему доверяются, поступает вероломно, заключив договор, и действует незаконно в случае возникновения расхождений с кем-либо
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 46 Hadith 20</td></tr></tbody></table></div>
 

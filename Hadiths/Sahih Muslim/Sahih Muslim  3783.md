@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:She wanted to buy Barira with a view
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; Saya mendengar [Abdurrahman bin Qasim] berkata; Saya mendengar [Qasim] menceritakan dari ['Aisyah] bahwa dia hendak membeli Barirah untuk dibebaskan, namun keluarganya mensyaratkan hak perwalian, lalu hal itu disampaikan kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: "Belilah dan bebaskanlah dia, karena hak perwalian itu bagi orang yang memerdekakannya." Kemudian Rasulullah shallallahu 'alaihi wasallam diberi hadiah sepotong daging, mereka (keluarga Nabi) berkata kepada Nabi shallallahu 'alaihi wasallam, "Daging ini disedekahkan kepada Barirah. Maka beliau bersabda: "Baginya adalah sedekah sedangkan bagi kita adalah hadiah." Dan dia juga diberi pilihan. Andurrahman berkata; Suaminya adalah seorang yang merdeka. Syu'bah berkata; Kemudian saya bertanya kepadanya tentang status suaminya, dia menjawab; Saya tidak tahu. Dan telah menceritakan kepada kami [Ahmad bin Utsman An Naufali] telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Syu'bah] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3783</td></tr><tr><td>Arabic No</td><td>1504.08</td></tr><tr><td>Reference</td><td>Book 20 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3783</td></tr><tr><td>Arabic No</td><td>1504.08</td></tr><tr><td>Reference</td><td>Book 20 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Darda' reported the Messenger of Allah (ﷺ) as saying:There are five thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahman Al Anbari] telah menceritakan kepada kami [Abu Ali Al Hanafi, Ubaidullah bin Abdul Majid] telah menceritakan kepada kami ['Imran Al Qaththan] telah menceritakan kepada kami [Qatadah] dan [Aban] keduanya dari [Khulaid Al 'Ashari] dari [Abu Ad Darda'] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Lima perkara yang apabila dikerjakan oleh seseorang dengan keimanan, maka dia akan masuk surga; barangsiapa yang menjaga shalat lima waktu beserta wudhunya, ruku'nya, sujudnya dan waktu-waktunya, melaksanakan puasa ramadhan, haji ke baitullah jika mampu menunaikannya, menunaikan zakat dengan kesadaran jiwa, serta menunaikan amanat." Mereka bertanya; Wahai Abu Ad-Darda, Apakah yang dimaksud dengan menunaikan amanat? Dia menjawab; Mandi janabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>429</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 2 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ад-Дардаъ сказал: «Посланник Аллаха ﷺ сказал: “Тот, кто придет с пятью вещами и верой, тот войдет в рай. (Это тот), кто соблюдал пять обязательных молитв, с обязательным для них омовением, совершая их поясные и земные поклоны, и совершая их в установленное время, постился (в месяце) Рамадан, совершил Хадж к Дому (Ка‘аба), если имел на это возможность, выплачивал закят очищая им свою душу и отдавал амана”. (Люди) сказали: “О Абу ад-Дардаъ, а что значит отдавал амана?” Он ответил: “Совершение полного омовения после осквернения /джанаба/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>429</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 2 Hadith 39</td></tr></tbody></table></div>
 

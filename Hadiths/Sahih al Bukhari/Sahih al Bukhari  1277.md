@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:A woman brought a woven Burda (sheet) having edging (border) to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Ibnu Abu Hazim] dari [bapaknya] dari [Sahal radliallahu 'anhu] bahwa ada seorang wanita mendatangi Nabi shallallahu 'alaihi wasallam dengan membawa burdah yang pinggirnya berjahit. (Sahal) berkata; "Tahukah kamu apa yang dimaksud dengan burdah?" Mereka menjawab: "Bukankah itu kain selimut?" Dia berkata: "Ya benar". Wanita itu berkata: "Aku menjahitnya dengan tanganku sendiri, dan aku datang untuk memakaikannya kepada anda". Maka Nabi shallallahu 'alaihi wasallam mengambilnya karena Beliau memerlukannya. Kemudian Beliau menemui kami dengan mengenakan kain tersebut. Diantara kami ada seseorang yang tertarik dengan kain tersebut lalu berkata: "Alangkah bagusnya kain ini". Orang-orang berkata, kepada orang itu: "Mengapa kamu memuji apa yang dipakai oleh Nabi shallallahu 'alaihi wasallam lalu kamu memintanya padahal kamu tahu bahwa Beliau tidak akan menolak (permintaan orang). Orang itu menjawab: "Demi Allah, sungguh aku tidak memintanya untuk aku pakai. Sesungguhnya aku memintanya untuk aku jadikan sebagai kain kafanku". Sahal berkata: "Akhirnya memang kain itu yang jadi kain kafannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 23 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль, да будет доволен им Аллах, сказал: «(Как-то раз) одна женщина принесла (в подарок) Пророку ﷺ окантованный тканый плащ /бурда/».\n(Рассказывавший об этом Сахль спросил слушавших его людей): «Знаете ли вы, что такое плащ?» Они сказали: «Это накидка /шамля/». (Сахль) cказал: «Да».\n(Далее Сахль сказал): «(Эта женщина сказала): “Я соткала (этот плащ) своими руками и пришла сюда, чтобы надеть его на тебя”, и Пророк ﷺ взял (этот плащ), поскольку нуждался в нём, а потом он вышел к нам, надев его на себя, как надевают изар. Один человек принялся хвалить плащ и сказал: “Как он красив! Надень его на меня”. (Услышав это,) люди сказали: “Нехорошо ты поступил, ведь Пророк ﷺ надел его, так как нуждался в плаще, а потом ты обратился к нему с этой просьбой, зная о том, что он никому не отказывает!” (Этот человек сказал): “Клянусь Аллахом, я попросил его (дать мне этот плащ) не для того, чтобы носить его, а только для того, чтобы он послужил мне саваном!”»\nСахль сказал: «И (впоследствии этот плащ действительно) послужил ему саваном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 23 Hadith 38</td></tr></tbody></table></div>
 

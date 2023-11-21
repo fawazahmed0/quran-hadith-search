@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn Abbas that the Messenger of Allah (ﷺ) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Warits] dari [al-Ja'd Abu Utsman] telah menceritakan kepada kami [Abu Raja' al-Utharidi] dari [Ibnu Abbas] dari Rasulullah shallallahu 'alaihi wasallam, dari sesuatu yang diriwayatkan dari Rabbnya, beliau bersabda: "Sesungguhnya Allah menuliskan kebaikan dan kejelekan, kemudian menerangkan hal tersebut, 'Barangsiapa berkeinginan untuk kebaikan namun belum melakukannya maka Allah mencatatnya sebagai satu kebaikan yang sempurna untuknya, dan barangsiapa berkeinginan untuk suatu kebaikan lalu melakukannya maka Allah mencatat untuknya sebagai sepuluh kebaikan hingga tujuh ratus kali lipat hingga beberapa kali lipat. Dan jika dia berkeinginan untuk kejelekan namun dia belum mengerjakannya, maka Allah akan mencatatnya sebagai kebaikan yang sempurna untuknya, namun jika dia mengamalkannya maka Allah mencatatnya sebagai satu dosanya'." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [al-Ja'd Abu Utsman] dalam sanad ini dengan makna hadits Abdul Warits, dan dia menambahkan, 'Dan Allah menghapusnya, dan tidaklah celaka (karena durhaka) kepada Allah melainkan orang yang celaka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>338</td></tr><tr><td>Arabic No</td><td>131.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что Посланник Аллаха ﷺ передававший слова своего Всемогущего и Великого Господа, сказал: «Поистине, Аллах записал добрые и дурные дела, после чего разъяснил это: “За тем, кто решит совершить доброе дело, но не совершит его, Аллах запишет у Себя (совершение) полноценного доброго дела; если (человек) решит (совершить доброе дело) и совершит его, Великий и Могучий Аллах запишет за ним у Себя (совершение) от десяти до семисот и многим более добрых дел; за тем, кто решит совершить дурное дело, но не совершит его, Аллах запишет у Себя (совершение) полноценного доброго дела, а если он решит (совершить дурное дело), и совершит его, Аллах запишет (за ним) одно дурное дело”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>338</td></tr><tr><td>Arabic No</td><td>131.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
 

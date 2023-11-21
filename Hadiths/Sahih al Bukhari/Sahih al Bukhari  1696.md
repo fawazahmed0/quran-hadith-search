@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I twisted with my own hands the garlands for the Budn of the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Aflah] dari [Al Qasim] dari ['Aisyah radliallahu 'anha] berkata; "Aku mengikatkan kalung pada hewan qurban Nabi Shallallahu'alaihiwasallam dengan tanganku sendiri lalu Beliau mengikatnya, manandainya dan menyembelihnya. Maka apa-apa yang diharamkan setelah itu menjadi halal baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1696</td></tr><tr><td>Arabic No</td><td>1696</td></tr><tr><td>Reference</td><td>Book 25 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Аиша, да будет доволен ею Аллах, сказала: «Я своими руками плела повязки для жертвенного скота Пророка ﷺ и он пометил его кровью и этими повязками, после чего послал животных к Каабе, и ничего не становилось запретным для него из того, что было дозволенным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1696</td></tr><tr><td>Arabic No</td><td>1696</td></tr><tr><td>Reference</td><td>Book 25 Hadith 174</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:I came to the Prophet (ﷺ) at Al-Batha' while his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Qais bin Muslim] dari [Thoriq bin Syihab] dari [Abu Musa Al As'ariy radliallahu 'anhu] berkata; "Aku menemui Rasulullah shallallahu 'alaihi wasallam ketika Beliau berada di Bathha', ketika Beliau singgah untukk istirahat lalu Beliau bertanya kepadaku: "Bagaimana cara kamu berihram?". Aku jawab: "Aku berihram dengan bertalbiyah (berniat memulai haji) sebagaimana Nabi shallallahu 'alaihi wasallam berihram". Maka Beliau berkata: "Kamu sudah berbuat dengan baik, maka thawaflah di Ka'bah Baitullah dan sa'iy antara bukit Shafaa dan Marwah lalu bertahallullah". Maka aku thawaf di Ka'bah Baitullah dan sa'iy antara bukit Shafaa dan Marwah. Kemudian aku menemui seorang wanita dari Banu Qais lalu dia mencari kutu kepalaku. Kemudian aku berihram untuk haji. Setelah itu aku selalu memberi fatwa cara manasik seperti itu hingga masa khilafah 'Umar radliallahu 'anhu yang dia berkata: "Jika kita mengambil pelajaran dari Kitab Allah maka Dia memerintahkan kita untuk menyempurnakannya dan apabila kita mengambil sabda Nabi shallallahu 'alaihi wasallam, sesungguhnya Beliau tidak bertahallul hingga Al Hadyu sampai pada tempat penyembelihannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1795</td></tr><tr><td>Arabic No</td><td>1795</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Я прибыл к Посланнику Аллаха ﷺ когда он был в Батхе (близ Мекки) и его верблюдица была опущена на колени. Он спросил: “Ты совершил хадж?” Я ответил: “Да”. Он спросил: “С каким намерением ты входил в состояние ихрама (какую тальбию ты произнёс)?” Я ответил: “Вот я перед Тобой! С тем же намерением, что и Пророк ﷺ”. Он сказал: “Ты хорошо поступил. Иди и соверши обход вокруг Каабы, ритуальный бег между (холмами) ас-Сафа и аль-Марва и выйди из ихрама”. Я совершил обход вокруг Каабы и ритуальный бег между (холмами) ас-Сафа и аль-Марва, а затем я пришёл к одной женщине из племени бану кайс, и она вынула вшей из моих волос. Затем я зашёл в состояние ихрама для совершения хаджа (ат-таматту‘), и я давал людям фетву (о хадже ат-таматту‘) до тех пор, пока не настало время правления ‘Умара, да будет доволен им Аллах, тогда я упомянул ему этот вопрос, и он сказал: “Если следовать Книге Аллаха, то она приказывает нам завершать (хадж и умру), если же следовать словам Пророка ﷺ то он не вышел из ихрама до тех пор, пока не принёс в жертву скот”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1795</td></tr><tr><td>Arabic No</td><td>1795</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
 

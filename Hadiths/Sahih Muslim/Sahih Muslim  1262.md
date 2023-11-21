@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Buraida narrated it on the authority of his father that a man cried 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hajjaj bin asy-Syair] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [ats-Tsauri] dari [Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [Bapaknya] "Bahwa seorang laki-laki mengumumkan (barang hilang) di masjid, maka dia berkata, 'Siapa yang menunjukkan kepada unta merah (yang hilang)? ' Lalu Nabi Shallallahu'alaihiwasallam bersabda, 'Semoga kamu tidak mendapatkannya, karena masjid hanya dibangun untuk manfaat yang khusus diperuntukkan baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1262</td></tr><tr><td>Arabic No</td><td>569.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Бурайды, что (однажды) некий человек объявлял в мечети о пропаже и говорил: «Кто-нибудь находил красного верблюда?» (Услышав это), Пророк ﷺ сказал: «Да не найдёшь ты (его)! Поистине, мечети были возведены только для того, для чего они были возведены»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1262</td></tr><tr><td>Arabic No</td><td>569.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 100</td></tr></tbody></table></div>
 

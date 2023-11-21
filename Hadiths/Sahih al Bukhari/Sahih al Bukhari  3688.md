@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A man asked the Prophet (ﷺ) about the Hour (i.e. Day of Judgment
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas radliallahu 'anhu] bahwa ada seseorang yang bertanya kepada Nabi shallallahu 'alaihi wasallam tentang hari qiyamat. Katanya; "Kapan terjadinya hari qiyamat?". Beliau balik bertanya kepada orang itu; "Apa y ang telah kami siapkanuntuk menghadaoinya?". Orfang itu menjawab; "Tidak ada. Kecuali, aku mencintai Allah dan Rasul-Nya shallallahu 'alaihi wasallam". Maka beliau berkata: "Kamu akan bersama orang yang kamu cintai". Anas berkata; "Kami belum pernah bergembira atas sesuatu seperti gembiranya kami dengan sabda Nabi shallallahu 'alaihi wasallam, yaitu: "Kamu akan bersama orang yang kamu cintai". Selanjutnya Anas berkata; "Maka aku mencintai Nabi shallallahu 'alaihi wasallam, Abu Bakr, 'Umar dan aku berharap dapat berkumpul bersama mereka disebabkan kecintaanku kepada mereka sekalipun aku tidak memiliki amal seperti amal mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3688</td></tr><tr><td>Arabic No</td><td>3688</td></tr><tr><td>Reference</td><td>Book 62 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Один человек спросил Пророка ﷺ о Часе этом: “Когда (настанет) Час этот?” (Посланник Аллаха ﷺ в свою очередь) спросил: “А что ты для него приготовил?” (Человек) ответил: “Ничего, если не считать того, что я люблю Аллаха и Его посланника ﷺ”, и (Пророк ﷺ) сказал: “Ты будешь с теми, кого ты любил”».\nАнас сказал: «И мы ничему не радовались так, как порадовались словам Пророка ﷺ: “Ты будешь с теми, кого ты любил”».\nАнас сказал: «И я (тоже) люблю Пророка ﷺ, Абу Бакра и ‘Умара и надеюсь, что благодаря моей любви к ним буду вместе с ними, хотя я и не совершал дел, подобных их делам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3688</td></tr><tr><td>Arabic No</td><td>3688</td></tr><tr><td>Reference</td><td>Book 62 Hadith 38</td></tr></tbody></table></div>
 

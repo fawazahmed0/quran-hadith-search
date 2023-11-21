@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari ['Amarah] -yaitu Ibnu Al Qa'qa'- dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menjamin bagi orang yang berperang di jalan-Nya, tidak ada yang mendorongnya keluar kecuali karena ingin jihad di jalan-Ku, ia iman dengan Aku dan membenarkan para rasul-Ku, maka Aku menjamin akan memasukkannya ke dalam surga atau mengembalikannya pulang ke rumahnya dengan membawa kemenangan berupa pahala dan ghanimah. Demi dzat yang jiwa Muhammad berada di tangan-Nya, tidak ada seseorang pun yang terluka dalam perang fi sabilillah, melainkan kelak di hari Kiamat ia akan datang dalam keadaan luka seperti semula, warna warna darah dan baunya bau minyak kesturi. Demi dzat yang jiwa Muhammad berada di tangan-Nya, sekiranya tidak memberatkan kaum Muslimin, sungguh selamanya aku tidak ingin tertinggal di belakang ekspedisi berperang menegakkan agama Allah, namun saya tidak mampu untuk menanggung biaya mereka, sedangkan mereka juga tidak memiliki kelapangan, padahal mereka merasa kecewa tidak ikut berperang bersamaku. Demi dzat yang jiwa Muhammad berada ditangan-Nya, sesungguhnya saya ingin sekali berperang fi sabilillah, kemudian saya terbunuh, lalu saya berperang lagi lalu saya terbunuh, setelah itu saya berperang lagi dan terbunuh." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] berkata; telah menceritakan kepada kami [Ibnu Fudlail] dari ['Umarah] dengan sanad diatas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4859</td></tr><tr><td>Arabic No</td><td>1876.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4859</td></tr><tr><td>Arabic No</td><td>1876.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 155</td></tr></tbody></table></div>
 

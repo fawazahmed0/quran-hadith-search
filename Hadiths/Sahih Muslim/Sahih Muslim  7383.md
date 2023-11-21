@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr reported:I committed to memory a hadith from Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Abu Hayyan] dari [Abu Zur'ah] dari [Abdullah bin Amru] berkata: Aku menghafal suatu hadits dari Rasulullah Shallallahu 'alaihi wa Salam yang tidak aku lupakan sama sekali. Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya tanda-tanda pertama yang muncul adalah terbitnya matahari dari tempat tenggelamnya, keluarnya binatang-binatang dipagi hari atas manusia, mana saja diantara keduanya yang muncul terlebih dahulu, yang selanjutnya muncul sesaat setelahnya." Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Abu Hayyan] dari [Abu Zur'ah] berkata: Tiga orang muslim mendekati Marwan bin Al Hakam di Madinah, mereka mendengarnya menceritakan tentang tanda-tanda (kiamat), dan yang pertama muncul adalah Dajjal. [Abdullah bin Amru] berkata: Marwan tidak mengatakan apa pun. Aku menghafal suatu hadits dari Rasulullah Shallallahu 'alaihi wa Salam yang tidak aku lupakan sama sekali. Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda, ia menyebut hadits serupa. Telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] telah menceritakan kepada kami [Abu Ahmad] telah menceritakan kepada kami [Sufyan] dari [Abu Hayyan] dari [Abu Zur'ah] berkata: Mereka menyebut-nyebut kiamat di kediaman Marwan lalu [Abdullah bin Amru] berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda, seperti hadits mereka berdua tapi ia tidak menyebut: Di pagi hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7383</td></tr><tr><td>Arabic No</td><td>2941.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7383</td></tr><tr><td>Arabic No</td><td>2941.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 144</td></tr></tbody></table></div>
 

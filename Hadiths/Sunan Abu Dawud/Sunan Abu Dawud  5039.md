@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:Two men sneezed in the presence of the prophet (May peace be upon him)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] secara makna, keduanya berkata; telah menceritakan kepada kami [Sulaiman At Taimi] dari [Anas] ia berkata, "Ada dua orang yang bersin di sisi Nabi shallallahu 'alaihi wasallam, lalu beliau menjawab bersin salah seorang dari mereka dan membiarkan yang lain." Anas berkata, "Beliau lalu ditanya, "Wahai Rasulullah, ada dua orang yang bersin, tapi mengapa engkau hanya menjawab untuk satu orang dan membiarkan yang lainnya?" beliau menjawab: "Orang ini memuji Allah (mengucapkan Al Hamdulillah) sementara yang satunya tidak memuji Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6221) Sahih Muslim (2991)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5039</td></tr><tr><td>Arabic No</td><td>5039</td></tr><tr><td>Reference</td><td>Book 43 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: (Однажды) два человека чихнули в присутствии Пророка ﷺ и одному он сказал: «Да помилует тебя Аллах!» /Йархаму-кя-Ллаху!/, другому же он этого не сказал. Тогда его спросил: «О Посланник Аллаха! (Почему когда) двое чихнули, то одному из них ты сказал: “Да помилует тебя Аллах!”, а другому ты не сказал ему этого?» (В ответ ему Пророк ﷺ) сказал: «Этот воздал хвалу Аллаху, а этот хвалы Аллаху не воздал!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6221) Sahih Muslim (2991)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5039</td></tr><tr><td>Arabic No</td><td>5039</td></tr><tr><td>Reference</td><td>Book 43 Hadith 267</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Raja Al-Utaridi:We used to worship stones, and when we found a bett
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ash Shalt bin Muhammad] dia berkata; Aku mendengar [Mahdi bin Maimun] berkata; aku mendengar [Abu Raja' Al Atharidi] berkata; dulu kami menyembah batu. Apabila kami mendapatkan batu yang lebih baik, maka kami melemparkannya dan mengambil yang lain. Dan apabila kami tidak menemukan batu, kami mengumpulkan segenggam tanah, lalu kami bawakan seekor kambing kemudian kami peraskan susu untuknya. Lalu kami thawaf dengannya. Apabila datang bulan Rajab, kami mengatakan; tidak ada peperangan. Maka kami tidak membiarkan tombak maupun panah yang tajam kecuali kami cabut dan kami lemparkan sebagai pengagungan terhadap bulan Rajab. Dan aku mendengar Abu Raja berkata; pada hari Nabi shallallahu 'alaihi wasallam diutus, aku pada waktu itu sebagai seorang anak penggembala unta milik keluargaku. Tatkala kami mendengar Nabi shallallahu 'alaihi wasallam berdakwah, kami lari ke neraka, yaitu ke Musailamah Al Kadzab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4377</td></tr><tr><td>Arabic No</td><td>4377</td></tr><tr><td>Reference</td><td>Book 64 Hadith 401</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Раджа также говорил: «В день, когда Пророк ﷺ стал Посланником, я был мальчиком, пасшим верблюдов своей семьи. Когда мы услышали весть о его победе (завоевание Мекки), мы побежали к огню, то есть к Лжецу Мусайлиме»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4377</td></tr><tr><td>Arabic No</td><td>4377</td></tr><tr><td>Reference</td><td>Book 64 Hadith 401</td></tr></tbody></table></div>
 

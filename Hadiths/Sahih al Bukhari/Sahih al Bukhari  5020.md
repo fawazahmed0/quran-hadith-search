@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) said, "The example of him (a beli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid Abu Khalid] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Qatadah] Telah menceritakan kepada kami [Anas bin Malik] dari [Abu Musa Al Asy'ari] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Perumpamaan orang yang membaca Al Qur'an adalah seperti buah Utrujjah, rasanya lezat dan baunya juga sedap. Sedang orang yang tidak membaca Al Qur'an adalah seperti buah kurma, rasanya manis, namun baunya tidak ada. Adapun orang Fajir yang membaca Al Qur'an adalah seperti buah Raihanah, baunya harum, namun rasanya pahit. Dan perumpamaan orang Fajir yang tidak membaca Al Qur'an adalah seperti buah Hanzhalah, rasanya pahit dan baunya juga tidak sedap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>5020</td></tr><tr><td>Reference</td><td>Book 66 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы аль-Аш‘ари, что Пророк ﷺ сказал: «Верующий, который читает Коран, подобен сладкому лимону, обладающему приятным запахом и вкусом, а (верующий,) который не читает Коран, подобен финику, сладкому на вкус, но не обладающему запахом. Грешник, который читает Коран, подобен базилику, обладающему приятным запахом, но горькому на вкус, а грешник, который Коран не читает, подобен колоквинту, горькому на вкус и не обладающему запахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>5020</td></tr><tr><td>Reference</td><td>Book 66 Hadith 42</td></tr></tbody></table></div>
 

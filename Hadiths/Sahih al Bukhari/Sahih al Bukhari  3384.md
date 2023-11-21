@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That the Prophet (ﷺ) said (to her). "Order Abu Bakr to lead th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Badal bin Al Muhabbar] telah mengabarkan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] berkata aku mendengar ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam berkata kepadanya: "Perintahkanlah Abu Bakr agar memimpin shalat bersama orang-orang". 'Aisyah radliallahu 'anha berkata; "Abu Bakr adalah termasuk jenis orang yang sensitife (suka menangis ketika membaca al-Qur'an) bila menggantikan posisi baginda untuk memimpin orang-orang shalat". Maka Beliau kembali memerintah 'Aisyah radliallahu 'anha dan begitu juga 'Aisyah radliallahu 'anha kembali mengemukakan alasannya. Syu'bah berkata; "Maka Beliau bersabda untuk kali ketiga atau keempat: "Kalian ini seperti isteri Yusuf (Zulaekha) saja. Perintahkanlah Abu Bakr agar memimpin shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3384</td></tr><tr><td>Arabic No</td><td>3384</td></tr><tr><td>Reference</td><td>Book 60 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал ей: «Скажи Абу Бакру, чтобы он молился с людьми». Она сказала: «Поистине, Абу Бакр — человек с мягким сердцем, и если он встанет на твое место, то будет плакать (и люди не услышат его)». Пророк ﷺ повторил свои слова, а она сказала то же самое. \nШу’ба (передатчик хадиса) сказал: «Тогда на третий или четвёртый раз он сказал: “Поистине, вы (подобны) женщинам (из истории про) Юсуфа! Велите же Абу Бакру, (чтобы он молился с людьми)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3384</td></tr><tr><td>Arabic No</td><td>3384</td></tr><tr><td>Reference</td><td>Book 60 Hadith 58</td></tr></tbody></table></div>
 

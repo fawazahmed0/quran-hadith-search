@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), le Prophète (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] -[Zuhair]- berkata; Telah menceritakan kepada kami [Sufyan bin Uyainah] Telah menceritakan kepada kami [Az Zuhri] dari [Salim] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak boleh dengki kecuali pada dua hal. (Pertama) kepada seorang yang telah diberi Allah (hafalan) Al Qur'an, sehingga ia membacanya siang dan malam. (Kedua) kepada seorang yang dikaruniakan Allah harta kekayaan, lalu dibelanjakannya harta itu siang dan malam (di jalan Allah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>815.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим передал со слов своего отца, что Пророк ﷺ сказал: «Не следует завидовать никому, кроме двоих: человеку, которому Аллах даровал (знание) Корана и который занимается им ночью и днём, и человеку, которому Аллах даровал богатство и который расходует его ночью и днём»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>815.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 322</td></tr></tbody></table></div>
 

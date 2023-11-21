@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (raa) a dit : "Quand il était en retraite spirituelle (I'tikâf), le Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; bacakan di hadapan [Malik]; dari [Ibnu Syihab] dari [Urwah] dari ['Amrah] dari [Aisyah] dia berkata, "Dahulu Nabi shallallahu 'alaihi wasallam apabila beri'tikaf, maka dia mendekatkan kepalanya kepadaku, lalu aku menyisirnya, dan beliau tidak masuk rumah kecuali untuk buang hajat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>297.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Во время неотлучного пребывания в мечети /и‘тикяф/ Пророк ﷺ приближал ко мне голову, и я расчёсывала его волосы. А в дом он заходил только для удовлетворения одной из человеческих потребностей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>297.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 

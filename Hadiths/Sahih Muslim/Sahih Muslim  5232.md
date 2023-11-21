@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:We prepared Nabidh for Allah's Messenger (ﷺ) in a waterskin, t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna Al Anazi] telah menceritakan kepada kami [Abdul Wahhab Ats Tsaqafi] dari [Yunus] dari [Al Hasan] dari [Ibunya] dari ['Aisyah] dia berkata, "Kami biasa membuat perasan untuk Rasulullah shallallahu 'alaihi wasallam di dalam air minum yang bertali di atasnya, kami membuat rendaman di pagi hari dan meminumnya di sore hari, atau membuat rendaman di sore hari lalu meminumnya di pagi hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5232</td></tr><tr><td>Arabic No</td><td>2005.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5232</td></tr><tr><td>Arabic No</td><td>2005.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 106</td></tr></tbody></table></div>
 

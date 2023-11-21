@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Kurayb the freed slave of Ibn Abbas reported: Abdul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salamah] telah menceritakan kepada kami [Ibnu Wahb] dari [Amru bin Al-Harits] bahwasanya [Bukair] menceritakan kepadanya bahwa [Kuraib, mantan sahaya Ibnu Abbas] telah menceritakan kepadanya bahwasanya [Abdullah bin Abbas] pernah melihat Abdullah bin Al-Harits sedang mengerjakan shalat, sementara rambutnya disanggul. Maka Abdullah bin Abbas berdiri di belakangnya, lalu melepasnya, namun Abdullah bin Al-Harits diam saja tidak bergerak. Setelah selesai shalat, dia menghampiri Ibnu Abbas dan berkata; Ada apa denganmu dan rambutku? Ibnu Abbas menjawab; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya penampilan seperti ini laksana orang yang mengerjakan shalat, sementara kedua tangannya diikat kebelakang pundaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (492)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>647</td></tr><tr><td>Arabic No</td><td>647</td></tr><tr><td>Reference</td><td>Book 2 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра ибн аль-Хариса о том, что Букайр рассказывал ему, что Курайб, вольноотпущенник Ибн ‘Аббаса сообщил ему о том, что (однажды) ‘Абдуллах ибн ‘Аббас увидел, как ‘Абдуллах ибн аль-Харис совершал молитву, волосы которого были заплетены сзади. Он встал позади него и начал распускать их, а тот не сдвинулся с места. Когда он закончил молитву, он подошёл к Ибн ‘Аббасу и спросил его: «Что тебе было нужно от моей головы?».Он ответил: «Поистине, я слышал, как Посланник Аллаха ﷺ говорил: “Несомненно, такой (человек) подобен тому, кто молится со связанными сзади руками”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (492)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>647</td></tr><tr><td>Arabic No</td><td>647</td></tr><tr><td>Reference</td><td>Book 2 Hadith 257</td></tr></tbody></table></div>
 

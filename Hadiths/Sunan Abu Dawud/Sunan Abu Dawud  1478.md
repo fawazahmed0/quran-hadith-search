@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubayy b. Ka'b said:The Prophet (ﷺ) was present at the pool of Banu Ghifar, Gab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibnu Al Mutsanna], telah menceritakan kepada Kami [Muhammad bin Ja'far], telah menceritakan kepada Kami [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Ibnu Abu Laila] dari [Ubai bin Ka'b] bahwa Nabi shallallahu 'alaihi wasallam berada di air rawa Bani Ghifar, kemudian Jibril shallallahu 'alaihi wasallam datang kepadanya, dan berkata; sesungguhnya Allah 'azza wajalla memerintahkanmu untuk membacakan Al Qur'an kepada umatmu dengan satu gaya bahasa. Beliau berkata: "Aku meminta maaf dan Ampunan kepada Allah. Sesungguhnya umatku tidak akan mampu melakukan hal tersebut." Kemudian ia datang kepada beliau kedua kalinya dan menyebutkan seperti ini hingga sampai tujuh gaya bahasa. Ia berkata; sesungguhnya Allah memerintahkamu agar membacakan Al Qur'an kepada umatmu dengan tujuh gaya bahasa. Gaya bahasa yang mana saja yang mereka baca maka mereka telah benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (821)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1478</td></tr><tr><td>Arabic No</td><td>1478</td></tr><tr><td>Reference</td><td>Book 8 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убаййа ибн Ка‘ба, да будет доволен им Аллах, что, когда Пророк ﷺ находился у владений бану гифар, к нему пришёл Джибриль (мир ему) и сказал: «Поистине, Аллах повелевает тебе учить свою общину читать Коран одним способом». (Посланник Аллаха ﷺ) сказал: «Прошу у Аллаха благополучия и прощения, поистине, моя община не осилит это». Потом Джибриль пришёл снова и сказал нечто подобное, и так продолжалось до тех пор, пока они не дошли до семи способов. (Ангел) сказал: «Поистине, Аллах повелевает тебе учить свою общину читать Коран семью способами. Каким бы из них они его ни прочитали, это будет считаться правильным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (821)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1478</td></tr><tr><td>Arabic No</td><td>1478</td></tr><tr><td>Reference</td><td>Book 8 Hadith 63</td></tr></tbody></table></div>
 

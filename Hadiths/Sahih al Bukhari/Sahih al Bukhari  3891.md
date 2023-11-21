@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:My father, my two maternal uncles and I were among those who took
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] bahwa [Ibnu Juraij] mengabarkan kepada mereka, bahwa ['Atha'] berkata, [Jabir] berkata, "Aku, bapakku dan pamanku (dari pihak ibu) adalah diantara orang yang ikut bai'at al 'Aqabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3891</td></tr><tr><td>Arabic No</td><td>3891</td></tr><tr><td>Reference</td><td>Book 63 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Я, мой отец и два моих дяди по материнской линии были среди тех, кто присягал на верность в аль-Акабе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3891</td></tr><tr><td>Arabic No</td><td>3891</td></tr><tr><td>Reference</td><td>Book 63 Hadith 116</td></tr></tbody></table></div>
 

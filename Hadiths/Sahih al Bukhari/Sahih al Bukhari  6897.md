@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We poured medicine into the mouth of Allah's Messenger (ﷺ) dur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada kami [Musa bin Abu 'Aisyah] dari ['Ubaidullah bin Abdillah] mengatakan; ['Aisyah] mengatakan; 'Dahulu kami memasukkan obat ke mulut Rasulullah Shallallahu'alaihiwasallam ketika beliau sakit, beliau memberi isyarat kepada kami yang isinya; "Janganlah kalian memasukkan obat ke dalam mulutku'. --Kata Ubaidullah, kami mengira bahwa beliau ucapkan karena orang yang sakit memang tidak suka obat-- Dikala Nabi telah sadar, beliau berkata: "Bukankah kalian telah kularang memasukkan obat ke dalam mulutku?" -- Kata Ubaidullah, kami berpendapat bahwa itu pertanda beliau tidak suka obat- Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang pun diantara kalian sekarang, kecuali mulutnya harus dimasuki obat dan aku sendiri harus menyaksikannya, selain Abbas, karena ia tidak ikut bersama kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6897</td></tr><tr><td>Arabic No</td><td>6897</td></tr><tr><td>Reference</td><td>Book 87 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Во время болезни Посланника Аллаха ﷺ мы положили ему в рот лекарство, но он подал нам знак, (желая сказать): “Не давайте мне лекарство!”, — мы же сказали: “(Это потому что ни один) больной не хочет (принимать) лекарства”. (Но когда) Посланник Аллаха ﷺ очнулся, он сказал: “Пусть на моих глазах дадут лекарство каждому (из присутствовавших в доме), кроме аль-‘Аббаса, ибо его среди вас не было!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6897</td></tr><tr><td>Arabic No</td><td>6897</td></tr><tr><td>Reference</td><td>Book 87 Hadith 36</td></tr></tbody></table></div>
 

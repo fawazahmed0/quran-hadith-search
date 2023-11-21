@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Once the Prophet (ﷺ) went to the house of Fatima but did no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Ibnu Fudhoil] dari [bapaknya] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata, Nabi shallallahu 'alaihi wasallam mendatangi rumah Fathimah namun Beliau tidak segera masuk. Kemudian 'Ali datang, dan Fathimah ceritakan peristiwa ini kepadanya. Kemudian 'Ali menceritakan kepada Nabi shallallahu 'alaihi wasallam, maka Beliau berkata: "Aku melihat di pintu ada tabir yang ada lukisannya". Maka 'Ali berkata: "Aku tidak punya kepentingan dengan dunia". Lalu 'Ali menemui Fathimah dan menceritakan, maka Fathimah berkata: "Silakan Beliau memerintahkanaku apa saja sesuka Beliau". 'Ali berkata: "Sebaiknya kamu kirimkan saja tabir itu untuk si fulan yang barangkali keluarga mereka membutuhkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2613</td></tr><tr><td>Arabic No</td><td>2613</td></tr><tr><td>Reference</td><td>Book 51 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ пришёл к дому своей дочери Фатимы, да будет доволен ею Аллах, но не вошёл к ней, и, когда домой вернулся ‘Али, она рассказала ему об этом. ‘Али спросил о (причине этого) Пророка ﷺ (на что) он ответил: “Поистине, я увидел на её дверях вышитую разноцветную занавеску!” Кроме того, (Пророк ﷺ) сказал: “Что мне до мира этого!” После этого ‘Али пришёл к (Фатиме) и (обо всём) рассказал ей. Она сказала: “Пусть он велит мне сделать с ней то, что ему угодно”, и (Пророк ﷺ) сказал: “Отошли её такому-то, семья которого испытывает нужду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2613</td></tr><tr><td>Arabic No</td><td>2613</td></tr><tr><td>Reference</td><td>Book 51 Hadith 46</td></tr></tbody></table></div>
 

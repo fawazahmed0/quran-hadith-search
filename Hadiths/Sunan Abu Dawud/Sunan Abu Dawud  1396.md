@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Mas'ud: Alqamah and al-Aswad said: A man came to Ibn Mas'ud. He sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abbad bin Musa] telah mengabarkan kepada kami [Isma'il bin Ja'far] dari [Isra'il] dari [Abu Ishaq] dari ['Alqomah] dan [Al Aswad] keduanya berkata; seorang laki-laki datang kepada [Ibnu Mas'ud] seraya berkata; "Aku biasa membaca Al Mufashal (dari surat Qaaf atau Al Hujurat sampai an Naas) dalam satu raka'at." Maka Ibnu Mas'ud berkata; "Apakah membaca al Qur'an itu seperti melantunkan sya'ir atau prosa prosa tentang runtuhnya kurma dari pohonnya? Padahal Nabi shallallahu 'alaihi wasallam biasa membaca surat-surat yang sepadan, dua surat dalam satu raka'at, yaitu An Najm dan Ar Rahman dalam satu raka'at."Iqtarabat" dan "Al Haqqah" dalam satu raka'at."At Thur" dan "Adz Dzariyat" dalam satu raka'at."Idza Waqa'at" dan "Nuun" dalam satu raka'at."sa'ala saa'ilu" dan "wan naazi'aati" dalam satu raka'at."wailul lil muthaffifin" dan "abasa" dalam satu raka'at."Al Mudattsir" dan "Al Muzammil" dalam satu raka'at."Hal attaa" dan "Laa uqsimu bi yaumil Qiyaamah" dalam satu raka'at."Amma yatasaa'alun" dan "Wal mursalaati" dalam satu raka'at."Ad dukhaan" dan "Idzas syamsu kuwwirat" dalam satu raka'at." Abu Daud berkata; "Ini adalah tulisan Ibnu Mas'ud rahimahullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1396</td></tr><tr><td>Arabic No</td><td>1396</td></tr><tr><td>Reference</td><td>Book 6 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Алькама и аль-Асвад, что однажды к Ибн Мас‘уду пришёл какой-то человек и сказал: «Я читаю все короткие суры /муфассаль/ в одном рак‘ате». Тот сказал: «С быстротой, с которой обычно читают стихи или прозу? Пророк ﷺ читал эти суры по две близких по объёму суры в каждом рак‘ате: “ар-Рахман” и “ан-Наджм”; “Приблизился…” и “аль-Хакка”; “ат-Тур” и “аз-Зарийат”; “Когда наступит Неотвратимое...” и “Нун”; “Просящий просил…” и “ан-Нази‘ат”; “Горе обвешивающим” и “‘Абаса”; “аль-Мудассир” и “аль-Муззаммиль”; “Разве не было…” и “Нет, клянусь Днём воскресения!”; “О чём они расспрашивают друг друга?” и “аль-Мурсалят”; “ад-Духан” и “Когда солнце будет скручено…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1396</td></tr><tr><td>Arabic No</td><td>1396</td></tr><tr><td>Reference</td><td>Book 6 Hadith 26</td></tr></tbody></table></div>
 

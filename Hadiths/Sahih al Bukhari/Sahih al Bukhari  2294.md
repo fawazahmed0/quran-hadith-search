@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Asim:I heard Anas bin Malik, "Have you ever heard that the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash-Shabbah] telah menceritakan kepada kami [Isma'il bin Zakariya'] telah menceritakan kepada kami ['Ashim] berkata; Aku bertanya kepada [Anas bin Malik radliallahu 'anhu]; Apakah sampai kepadanya sabda Nabi shallallahu 'alaihi wasallam yang berbunyi: "Tidak ada perjanjian dalam Islam". Maka dia berkata: "Sungguh Nabi shallallahu 'alaihi wasallam pernah membuat perjanjian antara orang Quraisy dan Anshar di rumahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анаса бин Малика, да будет доволен им Аллах, спросили: «Приходилось ли тебе слышать, что Пророк ﷺ сказал: “Нет союзов в исламе”?» — (на что) он ответил: «Пророк ﷺ заключил союз между курайшитамии ансарами в моём доме»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zam'a:I heard the Prophet (ﷺ) while referring to the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Hisyam bin 'Urwah] dari [bapaknya] dari ['Abdullah bin Zam'ah] berkata aku mendengar Nabi shallallahu 'alaihi wasallam bersabda, lalu Beliau menyebutkan cerita tentang orang yang menyembelih unta. Sabda Beliau: "Tampil dengan segera seseorang yang mempunyai kemuliaan dan kekuatan di tengah kaumnya seperti Abu Zam'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3377</td></tr><tr><td>Arabic No</td><td>3377</td></tr><tr><td>Reference</td><td>Book 60 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Зам‘а, да будет доволен им Аллах, что он слышал, как однажды Пророк ﷺ упомянул того, кто зарезал верблюдицу, сказав: «Это вызвался сделать сильный и пользующийся защитой своего народа человек, подобный Абу Зам‘е»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3377</td></tr><tr><td>Arabic No</td><td>3377</td></tr><tr><td>Reference</td><td>Book 60 Hadith 51</td></tr></tbody></table></div>
 

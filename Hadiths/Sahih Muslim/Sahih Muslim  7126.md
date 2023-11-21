@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that when Allah's Messenger (ﷺ) occupied himself in prayer, he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Harun bin Sa'id Al Aili] keduanya berkata: Telah menceritakan kepada kami [Ibnu Wahb] telah mengkhabarkan kepadaku [Abu Shakhr] dari [Ibnu Qusaith] dari [Urwah bin Az Zubair] dari [Aisyah] berkata: Bila shalat, Rasulullah Shallallahu 'alaihi wa Salam berdiri hingga kaki beliau bengkak. Aisyah berkata: Wahai Rasulullah, kenapa Tuan melakukan ini padahal Allah telah mengampuni dosa Tuan yang telah berlalu dan yang dikemudian. Beliau bersabda: "Apakah aku tidak menjadi hamba yang bersyukur?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7126</td></tr><tr><td>Arabic No</td><td>2820</td></tr><tr><td>Reference</td><td>Book 52 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7126</td></tr><tr><td>Arabic No</td><td>2820</td></tr><tr><td>Reference</td><td>Book 52 Hadith 79</td></tr></tbody></table></div>
 

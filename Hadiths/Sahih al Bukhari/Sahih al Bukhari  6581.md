@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said: "While I was walking in Paradise
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam --lewat jalur periwayatan lain- Telah menceritakan kepada kami [Hudbah bin Khalid] Telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "ketika kami berjalan di surga, tiba-tiba ada sungai yang pinggirnya berupa kubah-kubah dari mutiara berongga. Saya bertanya; 'Apa ini hai Jibril? ' Jibril menjawab; 'Inilah al kautsar yang Allah berikan untukmu, ' ternyata tanahnya atau bau wanginya terbuat dari minyak misik adzfar" -Hudbah ragu kepastiannya, tanah atau baunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6581</td></tr><tr><td>Arabic No</td><td>6581</td></tr><tr><td>Reference</td><td>Book 81 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Пророк ﷺ сказал: «Когда я шёл в Раю, я увидел реку, по обеим берегам которой были расположены шатры из полой жемчужины. Я спросил: “Что это, о Джибриль?” Он ответил: “Это аль-Каусар, который даровал тебе твой Господь”. И глина её (или: аромат её) — благоухающий мускус»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6581</td></tr><tr><td>Arabic No</td><td>6581</td></tr><tr><td>Reference</td><td>Book 81 Hadith 169</td></tr></tbody></table></div>
 

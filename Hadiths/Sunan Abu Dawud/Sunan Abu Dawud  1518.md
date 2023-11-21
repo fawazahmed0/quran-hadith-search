@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If anyone continually asks 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan dari Kami [Hisyam bin 'Ammar], telah menceritakan kepada Kami [Al Walid bin Muslim], telah menceritakan kepada Kami [Al Hakam bin Mush'ab], telah menceritakan kepada Kami [Muhammad bin Ali bin Abdullah bin Abbas] dari [ayahnya] bahwa ia bercerita kepadanya, dari [Ibnu Abbas] bahwa ia bercerita kepadanya, ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang senantiasa beristighfar, maka Allah pasti akan selalu memberikannya jalan keluar dari setiap kesempitan dan kelapangan dari segala kegundahan serta Allah akan memberikan rizki kepadanya dari arah yang tidak ia sangka-sangka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1518</td></tr><tr><td>Arabic No</td><td>1518</td></tr><tr><td>Reference</td><td>Book 8 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам Хишам ибн ‘Аммар, (который сказал): Рассказал нам аль-Валид ибн Муслим, (который сказал): Рассказал нам аль-Хакам ибн Мус‘аб, (который сказал): Рассказал нам Мухаммад ибн ‘Али ибн ‘Абдуллах ибн ‘Аббас, (передавший) от своего отца о том, что он рассказывал ему со слов Ибн ‘Аббаса, (который,) рассказывая ему, сказал: «Посланник Аллаха ﷺ сказал: “Тому, кто станет постоянно просит (Аллаха) о прощении, Аллах сделает выход из любого затруднительного положения, облегчит для него любую печаль и дарует ему удел оттуда, откуда он не ожидает (его получить)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1518</td></tr><tr><td>Arabic No</td><td>1518</td></tr><tr><td>Reference</td><td>Book 8 Hadith 103</td></tr></tbody></table></div>
 

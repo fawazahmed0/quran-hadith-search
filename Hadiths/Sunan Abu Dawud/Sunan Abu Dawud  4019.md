@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: A man should not lie with another 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kepada kami [Ibnu Ulayyah] dari [Al Jurairi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muammal bin Hisyam] ia berkata; telah menceritakan kepada kami [Isma'il] dari [Al Jurairi] dari [Abu Nadhrah] dari [seorang laki-laki] -dari Ath Thufawah- dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang laki-laki tidak boleh tidur dengan laki-laki lain dalam satu selimut, dan seorang wanita tidak boleh tidur dengan wanita lain dalam satu selimut, kecuali anak atau orang tua (yakni orang tua yang menidurkan anaknya)." (perawi berkata) berkata, "Beliau menyebutkan yang ketiga, namun aku lupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4019</td></tr><tr><td>Arabic No</td><td>4019</td></tr><tr><td>Reference</td><td>Book 33 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не должен (раздетый) мужчина ложиться вместе с другим мужчиной и не должна (раздетая) женщина ложиться вместе с другой женщиной, если только речь не идёт о родителях и (маленьких) детях». Передатчик сказал: «И он упомянул о третьей вещи, но я забыл её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4019</td></tr><tr><td>Arabic No</td><td>4019</td></tr><tr><td>Reference</td><td>Book 33 Hadith 11</td></tr></tbody></table></div>
 

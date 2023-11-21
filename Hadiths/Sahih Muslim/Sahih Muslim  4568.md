@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Qatâda (que Dieu l'agrée) a dit : L'année de Hunayn, nous partîmes avec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Husyaim] dari [Yahya bin Sa'id] dari [Umar bin Katsir bin Aflah] dari [Abu Muhammad Al Anshari] -murid Abu Qatadah- ia berkata berkata; [Abu Qatadah] berkata; lalu ia menceritakan hadits." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Yahya bin Sa'id] dari [Umar bin Katsir] dari [Abu Muhammad] bekas budak Abu Qatadah, bahwa [Abu Qatadah] berkata; lalu ia menyebutkan hadits tersebut." Dan telah menceritakan kepada kami." Dan telah menceritakan kepada kami [Abu At Thahir] dan [Harmalah] sedangkan redaksi lafadz haditsnya dari dia, telah mengabarkan kepada kami [Abdullah bin Wahb] dia berkata; aku mendengar [Malik bin Anas] berkata; telah menceritakan kepadaku [Yahya bin Sa'id] dari [Umar bin katsir bin Aflah] dari [Abu Muhammad] bekas budak Abu Qatadah, dari [Abu Qatadah] dia berkata, "Kami pernah pergi berperang bersama Rasulullah shallallahu 'alaihi wasallam dalam pertempuran Hunain, tatkala kami berhadapan dengan musuh, maka sebagian kaum Muslimin mundur. Aku melihat seorang laki-laki Musyrik sedang menguasai seorang Muslim, aku langsung berbalik sehingga aku dapat mendatanginya dari arah belakang. Kemudian aku penggal batang lehernya, akan tetapi seorang Musyrik tersebut berbalik kepadaku dan merangkulku dengan kuat, aku tahu kalau dia hampir mati, setelah dia tewas, baru aku dilepaskan. Setelah itu aku bertemu dengan Umar bin Khattab, dia bertanya kepadaku, "Bagaimana kondisi pasukan?" aku menjawab, "Itu urusan Allah." Kemudian orang-orang kembali, sementara Rasulullah shallallahu 'alaihi wasallam duduk seraya bersabda: "Barangsiapa dapat membunuh seorang musuh, sedangkan dia memiliki seorang saksi, maka segenap perlengkapan si terbunuh boleh dimilikinya." Aku langsung berdiri dan berkata, "Siapa yang mau menjadi saksiku?" kemudian aku duduk kembali, dan Rasulullah shallallahu 'alaihi wasallam kembali bersabda seperti tadi. Lalu aku berdiri lagi sambil berkata, "Siapa yang mau menjadi saksi bagiku?" kemudian aku duduk kembali, dan beliau bersabda seperti itu untuk ketiga kalinya, maka aku pun berdiri kembali. Rasulullah shallallahu 'alaihi wasallam lalu bertanya kepadaku: "Apa apa denganmu wahai Abu Qatadah?" lalu aku ceritakan kisah bagaimana aku telah membunuhh seorang musuh. Seorang anggota pasukan lantas angkat bicara, 'Abu Qatadah benar wahai Rasulullah! sedangkan perlengkapan orang yang dibunuhnya berada di tanganku, oleh karena itu suruhlah dia merelakan haknya untukku'. Abu Bakar berkata, "Jangan, demi Allah, tidaklah singa dari singa-singa Allah yang berjuang membela-Nya dan rasul-Nya, lalu harta rampasannya diberikan kepamu." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Hal itu benar, oleh karena itu, berikanlah kepada Abu Qatadah apa telah yang menjadi haknya." Kemudian baju besinya aku jual, lalu aku belikan sebidang kebun di perkebunan Bani Salamah. Itulah harta yang aku peroleh di awal-awal Islamku." Dan dalam hadits Laits disebutkan; Abu Bakar berkata, "Sekali-kali tidak, (Allah) tidak memberikannya dengan maksud menyepelekan orang quraiys dan meninggalkan hak-hak singa dari singa-singa Allah." Dan dalam hadits Al Laits disebutkan, 'harta pertama yang aku dapatkan dalam Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4568</td></tr><tr><td>Arabic No</td><td>1751.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4568</td></tr><tr><td>Arabic No</td><td>1751.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 49</td></tr></tbody></table></div>
 

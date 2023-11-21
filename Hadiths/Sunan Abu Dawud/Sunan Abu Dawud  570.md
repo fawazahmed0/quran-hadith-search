@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al-Mutsanna] bahwasanya [Amru bin 'Ashim] telah menceritakan kepada mereka, dia berkata; Telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Muwarriq] dari [Abu Al-Ahwash] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Shalat seorang wanita di rumahnya lebih utama baginya daripada shalatnya di kamarnya, dan shalat seorang wanita di rumahnya yang kecil lebih utama baginya daripada dirumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>570</td></tr><tr><td>Arabic No</td><td>570</td></tr><tr><td>Reference</td><td>Book 2 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха (ибн Мас‘уда) о том, что Пророк ﷺ сказал: «Молитва женщины в своём доме лучше, чем её молитва во дворе дома, а её молитва в своей дальней комнате, лучше, чем её молитва у себя дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>570</td></tr><tr><td>Arabic No</td><td>570</td></tr><tr><td>Reference</td><td>Book 2 Hadith 180</td></tr></tbody></table></div>
 

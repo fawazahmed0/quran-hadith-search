@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:A silken Farruj was presented to Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] radliallahu 'anhu bahwa dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah diberi hadiah baju yang terbuat dari kain sutera, lalu beliau mengenakannya untuk shalat, seusai shalat beliau melepasnya dengan paksa seakan-akan beliau benci mengenakan baju tersebut, kemudian beliau bersabda: "Baju ini tidak layak dipakai oleh orang-orang yang bertakwa." Hadits ini juga dikuatkan oleh [Abdullah bin Yusuf] dari [Al Laits], dan yang lainnya juga mengatakan; "Farraujun min hariirin (baju yang terbuat dari sutera)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5801</td></tr><tr><td>Arabic No</td><td>5801</td></tr><tr><td>Reference</td><td>Book 77 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укъба ибн ‘Амир, да будет доволен им Аллах, сказал: «(Однажды) Посланнику Аллаха ﷺ подарили шёлковую одежду с разрезом сзади /фаррудж/. Он надел её, а затем совершил в ней молитву, закончив же (молиться), быстро скинул её с себя как нечто ненавистное ему и воскликнул: “Не следует богобоязненным (носить) это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5801</td></tr><tr><td>Arabic No</td><td>5801</td></tr><tr><td>Reference</td><td>Book 77 Hadith 19</td></tr></tbody></table></div>
 

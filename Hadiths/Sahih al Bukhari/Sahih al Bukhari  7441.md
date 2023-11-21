@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) sent for the Ansar and gathered 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Sa'd bin Ibrahim] telah menceritakan kepadaku [Pamanku] telah menceritakan kepada kami [Ayahku] dari [Shalih] dari [Ibn Syihab] berkata, telah menceritakan kepadaku [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengutus seorang utusan ke Anshar dan mengumpulkan mereka dalam sebuah kubah (rumah bundar terbuat dari tanah liat) dan berkata, 'Bersabarlah kalian hingga kalian bertemu Allah dan rasul-Nya, sebab aku nanti berada di telaga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7441</td></tr><tr><td>Arabic No</td><td>7441</td></tr><tr><td>Reference</td><td>Book 97 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас Ибн Малик, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ послал за ансарами и собрал их в кожаном шатре, а после этого сказал им: «Проявляйте же терпение, пока не встретите Аллаха и Его посланника у водоёма»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7441</td></tr><tr><td>Arabic No</td><td>7441</td></tr><tr><td>Reference</td><td>Book 97 Hadith 67</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I followed the Prophet (ﷺ) while he was going out to answ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Makki] berkata, telah menceritakan kepada kami ['Amru bin Yahya bin Sa'id bin 'Amru Al Makki] dari [Kakeknya] dari [Abu Hurairah] ia berkata, "Aku mengikuti Nabi shallallahu 'alaihi wasallam saat beliau keluar untuk buang hajat, dan beliau tidak menoleh (ke kanan atau ke kiri) hingga aku pun mendekatinya. Lalu Beliau bersabda: "Carikan untukku batu untuk aku gunakan beristinja' dan jangan bawakan tulang atau kotoran hewan." Lalu aku datang kepada beliau dengan membawa kerikil di ujung kainku, batu tersebut aku letakkan di sisinya, lalu aku berpaling darinya. Setelah selesai beliau gunakan batu-batu tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>155</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды,) когда Пророк ﷺ обычно не смотревший по сторонам, вышел по нужде, я последовал за ним. Когда я приблизился к нему, он сказал: “Найди мне (несколько) камней для очищения (или же он сказал нечто подобное), но не приноси ни костей, ни сухого навоза /раус/”. Тогда я принёс ему (несколько) камней в полах своей одежды и положил их рядом с ним, а сам отвернулся, и, удовлетворив свою нужду, он воспользовался ими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>155</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas explain the Qur’anic verse “For those who can do it(with hardsh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad], telah menceritakan kepadaku [Ali bin Husain], dari [ayahnya], dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas]: WA 'ALALLADZII YUTHIIQUUNAHU FIDYATUN THA'AAMU MISKIIN (dan bagi orang yang berat menjalankanya, wajib membayar fidyah, yaitu memberi makan seorang miskin), maka barangsiapa diantara mereka yang hendak membayar fidyah dengan memberi makan orang miskin, ia boleh ia membayar fidyah dan telah sempurna baginya puasanya. Kemudian Allah berfirman: "Barangsiapa yang dengan kerelaan hati mengerjakan kebajikan, maka itulah yang lebih baik baginya. Dan berpuasa lebih baik bagimu jika kamu mengetahui." Dan firmanNya: "barangsiapa di antara kamu hadir (di negeri tempat tinggalnya) di bulan itu, maka hendaklah ia berpuasa pada bulan itu, dan barangsiapa sakit atau dalam perjalanan (lalu ia berbuka), maka (wajiblah baginya berpuasa), sebanyak hari yang ditinggalkannya itu, pada hari-hari yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 14 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, (что сначала Всевышний Аллах ниспослал): «А тем, которые способны поститься с трудом, следует в искупление накормить бедняка» (сура 2 «аль-Бакара», аят 184), и кто хотел, не соблюдал пост и искупал его и ему засчитывался пост. А потом Всевышний Аллах ниспослал: «А кто добровольно совершает доброе дело, то это лучше для него. И вам лучше поститься, если бы вы только знали» (сура 2 «аль-Бакара», аят 184). И Он также ниспослал: «Тот из вас, кого застанет этот месяц, должен поститься. А кто болен или находится в пути, пусть постится столько же дней в другое время» (сура 2 «аль-Бакара», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 14 Hadith 4</td></tr></tbody></table></div>
 

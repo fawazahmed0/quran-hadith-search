@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) used to supplicate (in these w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Dinar] telah menceritakan kepada kami [Abu Qathan 'Amru bin Al Haitsam Al Qutha'i] dari ['Abdul 'Aziz bin 'Abdullah bin Abu Salamah Al Majisyun] dari [Qudamah bin Musa] dari [Abu Shalih As Samman] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah berdoa sebagai berikut: "ALLOOHUMMA ASHLIH LII DIINII ALLADZII HUWA 'ISHMATU AMRII, WA ASHLIH LII DUN-YAAYA ALLATII FIIHAA MA'AASYII, WA ASH-LIH LII AAKHIROTII ALLATII FIIHAA Meriwayatkan'AADZII, WAJ'ALIL HAYAATA ZIYAADATAN LII FII KULLI KHOIRIN, WAJ'ALIL MAUTA ROOHATAN LII MIN KULLI SYARRIN "Ya Allah ya Tuhanku, perbaikilah bagiku agamaku sebagai benteng urusanku; perbaikilah bagiku duniaku yang menjadi tempat kehidupanku; perbaikilah bagiku akhiratku yang menjadi tempat kembaliku! Jadikanlah ya Allah kehidupan ini mempunyai nilai tambah bagiku dalam segala kebaikan dan jadikanlah kematianku sebagai kebebasanku dari segala kejahatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6903</td></tr><tr><td>Arabic No</td><td>2720</td></tr><tr><td>Reference</td><td>Book 48 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6903</td></tr><tr><td>Arabic No</td><td>2720</td></tr><tr><td>Reference</td><td>Book 48 Hadith 96</td></tr></tbody></table></div>
 

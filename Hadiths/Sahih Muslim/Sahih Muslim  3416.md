@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:We contracted temporary marriage giving a handful of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] ia berkata, saya mendengar [Jabir bin Abdullah] berkata; "Kami pernah melakukan nikah mut'ah selama beberapa hari dengan mas kawin beberapa genggam kurma dan tepung, pada masa Rasulullah shallallahu 'alaihi wasallam dan Abu Bakar radliallahu 'anhu sampai Umar melarang nikat mut'ah dalam kasus Amru bin Huraits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3416</td></tr><tr><td>Arabic No</td><td>1405.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3416</td></tr><tr><td>Arabic No</td><td>1405.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
 

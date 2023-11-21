@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said that Mu’awiyah reported to him I clipped some hair of the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdul Wahhab bin Najdah], telah menceritakan kepada Kami [Syu'aib bin Ishaq] dari [Ibnu Juraij], telah menceritakan kepada Kami [Abu Bakr bin Khallad], telah menceritakan kepada Kami [Yahya] secara makna, dari [Ibnu Juraij], telah mengabarkan kepadaku [Al Hasan bin Muslim] dari [Thawus] dari [Ibnu Abbas] bahwa [Mu'awiyah bin Abu Sufyan] telah mengabarkan kepadanya, ia berkata; aku memendekkan rambut Nabi shallallahu 'alaihi wasallam menggunakan bagian anak panah yang tajam di atas bukit Marwa, atau aku melihat beliau memendekkan rambut di atas bukit Marwa menggunakan bagian anak panah yang tajam. Ibnu Khallad berkata; sesungguhnya Mu'awiyah…. Ia tidak menyebutkan; telah mengabarkan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1730) Sahih Muslim (1246)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>1802</td></tr><tr><td>Reference</td><td>Book 11 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Му‘авия ибн Абу Суфьян сказал ему: «Я укорачивал Пророку ﷺ волосы лезвием на Марве». Или же он сказал: «Я видел, как Посланнику Аллаха ﷺ укорачивали волосы лезвием на Марве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1730) Sahih Muslim (1246)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>1802</td></tr><tr><td>Reference</td><td>Book 11 Hadith 82</td></tr></tbody></table></div>
 

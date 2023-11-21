@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:Ibn 'Abbas said, "Thursday! What (great thing) took pl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qobishah] telah bercerita kepada kami [Ibnu 'Uyainah] dari [Sulaiman Al Ahwal] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa dia berkata; "Hari Kamis dan apakah hari Kamis?". Lalu dia menangis hingga air matanya membasahi kerikil. Dia berkata; "Rasulullah Shallallahu'alaihiwasallam bertambah parah sakitnya pada hari Kamis lalu Beliau berkata: "Berilah aku buku sehingga bisa kutuliskan untuk kalian suatu ketetapan yang kalian tidak akan sesat sesudahnya selama-lamanya". Kemudian orang-orang bertengkar padahal tidak sepatutnya mereka bertengkar di hadapan Nabi Shallallahu'alaihiwasallam. Mereka ada yang berkata; "Rasulullah Shallallahu'alaihiwasallam telah terdiam". Beliau berkata: "Biarkanlah aku. Sungguh aku sedang menghadapi perkara yang lebih baik daripada ajakan yang kalian seru". Beliau berwasiat menjelang kematiannya dengan tiga hal; "Usirlah orang-orang musyrikin dari jazirah 'Arab, hormatilah para tamu (duta, utusan) seperti aku menghormati mereka dan aku lupa yag ketiganya". Dan berkata Ya'qub bin Muhammad, aku bertanya kepada Al Mughiroh bin 'Abdur Rohman tentang jazirah 'Arab, maka dia menjawab; "Makkah, Madinah, Yamamah dan Yaman". Dan berkata Ya'qub; "Dan 'Aroj yang merupakan permulaan Tihamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3053</td></tr><tr><td>Arabic No</td><td>3053</td></tr><tr><td>Reference</td><td>Book 56 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Аббас, да будет доволен Аллах ими обоими, воскликнул: «Четверг! Что за день четверг!» после чего принялся плакать (так сильно, что) слёзы стали капать на мелкие камешки(, лежавшие перед ним на земле), а потом сказал: «В четверг Посланнику Аллаха ﷺ стало совсем плохо, и он велел: “Принесите мне бумагу, и я запишу то, благодаря чему впоследствии вы никогда не собьётесь с пути”. (Люди, находившиеся у него,) принялись спорить, чего в присутствии пророков делать не следует, и они стали говорить: “Пророк ﷺ серьёзно болен!” Тогда (Пророк ﷺ) сказал: “Оставьте меня, ибо состояние, в котором я сейчас нахожусь, лучше того, к чему вы меня призываете!” А перед смертью он завещал (своим сподвижникам) три вещи(, сказав): “Изгоните многобожников из Аравии и встречайте и одаривайте (прибывающие к вам) делегации так же, как это делал я”, что же касается третьей (части завещания), то я забыл её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3053</td></tr><tr><td>Arabic No</td><td>3053</td></tr><tr><td>Reference</td><td>Book 56 Hadith 259</td></tr></tbody></table></div>
 

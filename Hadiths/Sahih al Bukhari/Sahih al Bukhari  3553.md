@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:Once Allah's Messenger (ﷺ) went to Al-Batha' at noon, per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3553</td></tr><tr><td>Arabic No</td><td>3553</td></tr><tr><td>Reference</td><td>Book 61 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа, сказал: «(Однажды) в полуденную жару Посланник Аллаха ﷺ вышел в Батху, совершил омовение, после чего совершил полуденную /зухр/ и послеполуденную /‘аср/ молитвы, каждая из которых состояла из двух рак‘атов и во время которых перед ним находилась палка с заострённым концом». В другой версии (этого хадиса сообщается, что Абу Джухайфа, да будет доволен им Аллах,) сказал: «И позади этой палки проходили женщины, (а потом) люди поднялись (со своих мест), стали брать (Пророка ﷺ) за руки и проводить ими по своим лицам. Я (тоже) взял его за руку и приложил её к своему лицу, и оказалось, что она холоднее снега, а запах (, исходивший от) неё, был приятнее (аромата) мускуса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3553</td></tr><tr><td>Arabic No</td><td>3553</td></tr><tr><td>Reference</td><td>Book 61 Hadith 62</td></tr></tbody></table></div>
 

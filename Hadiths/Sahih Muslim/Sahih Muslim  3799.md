@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Jarir] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang anak belum dikatakan membalas (kebaikan) orang tuanya, kecuali jika didapati bapaknya sebagai sahaya, lalu dia membelinya dan memerdekakannya." Dan dalam riwayatnya Abu Syaibah dikatakan; "Seorang anak terhadap ayahnya." Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku ['Amru An Naqid] telah menceritakan kepada kami [Abu Ahmad Az Zubairi] semuanya dari [Sufyan] dari [Suhail] dengan isnad seperti ini, dan mereka menyebutkan; "Seorang anak terhadap ayahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3799</td></tr><tr><td>Arabic No</td><td>1510.01</td></tr><tr><td>Reference</td><td>Book 20 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Ребёнок не сможет отплатить своему родителю сполна, если только не найдёт его (чьим-нибудь) невольником, после чего выкупит и освободит его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3799</td></tr><tr><td>Arabic No</td><td>1510.01</td></tr><tr><td>Reference</td><td>Book 20 Hadith 29</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I have memorized two kinds of knowledge from Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [saudaraku] dari [Ibnu Abu Dzi'b] dari [Sa'id Al Maqburi] dari [Abu Hurairah] berkata, "Aku menyimpan ilmu (hadits) dari Rasulullah shallallahu 'alaihi wasallam pada dua wadah. Yang satu aku sebarkan dan sampaikan, yang satu lagi sekiranya aku sampaikan maka akan terputuslah tenggorakan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>120</td></tr><tr><td>Arabic No</td><td>120</td></tr><tr><td>Reference</td><td>Book 3 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Из (сказанного) Посланником Аллаха ﷺ я запомнил (то, что относится к) двум видам знания. Что касается первого, то я распространил его (среди людей), что же касается второго, то, если бы я распространил и его, (мне) обязательно перерезали бы горло!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>120</td></tr><tr><td>Arabic No</td><td>120</td></tr><tr><td>Reference</td><td>Book 3 Hadith 62</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) buried every two martyrs in of Uh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Sulaiman] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Ibnu Syihab] dari ['Abdurrahman bin Ka'ab] bahwa [Jabir bin 'Abdullah radliallahu 'anhu] mengabarkan kepadanya bahwa Nabi Shallallahu'alaihiwasallam pernah menggabungkan (dalam satu kubur) dua orang laki-laki yang gugur dalam perang Uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 23 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал, что Пророк ﷺ (повелевал) хоронить павших в битве при Ухуде по двое (в одной могиле)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 23 Hadith 100</td></tr></tbody></table></div>
 

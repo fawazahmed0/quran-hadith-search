@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:We used to go to Anas bin Malik and see his baker standing (prep
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid] telah menceritakan kepada kami [Hammam bin Yahya] telah menceritakan kepada kami [Qatadah] dia berkata; kami pernah menemui [Anas bin Malik] sementara pembuat rotinya berdiri. Ia lalu berkata; "Makanlah. Sungguh aku tidak pernah melihat Nabi shallallahu 'alaihi wasallam melihat roti empuk hingga bertemu dengan Allah. Dan beliau tidak pernah merasakan kambing panggang sama sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6457</td></tr><tr><td>Arabic No</td><td>6457</td></tr><tr><td>Reference</td><td>Book 81 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывал Катада, да будет доволен им Аллах: «Мы приходили к Анасу ибн Малику и [видели], что его пекарь стоит (и готовит хлеб). Анас сказал: “Ешьте. Я не знаю, чтобы Пророк ﷺ когда-либо видел тонкую [хорошо пропеченную] лепешку, пока он не вернулся к Аллаху [т.е пока не умер], и он никогда не видел своими глазами жареной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6457</td></tr><tr><td>Arabic No</td><td>6457</td></tr><tr><td>Reference</td><td>Book 81 Hadith 46</td></tr></tbody></table></div>
 

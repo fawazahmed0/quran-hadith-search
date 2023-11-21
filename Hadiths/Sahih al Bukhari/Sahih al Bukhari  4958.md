@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Abu Jahl said, "If I see Muhammad praying at the Ka'ba, I wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Abdurrazzaq] dari [Ma'mar] dari [Abdul Karim Al Jazari] dari [Ikrimah] ia berkata; [Ibnu Abbas] berkata; Abu Jahal berkata, "Jika aku melihat Muhammad shalat di Ka'bah, maka aku benar-benar akan mencekik lehernya." Kemudian, ungkapan itu pun akhirnya sampai kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Kalau dia benar melakukannya, maka niscaya Malaikat akan menghajarnya." Periwayatan hadits ini, diikuti pula (Muta'abah) oleh [Amru bin Khalid] dari [Ubaidullah] dari [Abdul Karim]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4958</td></tr><tr><td>Arabic No</td><td>4958</td></tr><tr><td>Reference</td><td>Book 65 Hadith 480</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(В своё время) Абу Джахль сказал: “Если я увижу, что Мухаммад молится у Каабы, то непременно наступлю ногой ему на шею!” Узнав об этом, Пророк ﷺ сказал: “Если бы он сделал это, его обязательно схватили бы ангелы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4958</td></tr><tr><td>Arabic No</td><td>4958</td></tr><tr><td>Reference</td><td>Book 65 Hadith 480</td></tr></tbody></table></div>
 

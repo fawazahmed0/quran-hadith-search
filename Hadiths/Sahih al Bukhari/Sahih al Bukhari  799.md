@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rifa'a bin Rafi' Az-Zuraqi:One day we were praying behind the Prophet. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Nu'aim bin 'Abdullah Al Mujmir] dari ['Ali bin Yahya bin Khallad Az Zuraqi] dari [Bapaknya] dari [Rifa'ah bin Rafi' Az Zuraqi] berkata, "Pada suatu hari kami shalat di belakang Nabi shallallahu 'alaihi wasallam. Ketika mengangkat kepalanya dari rukuk beliau mengucapkan: 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar punjian orang yang memuji-Nya) '. Kemudian ada seorang laki-laki yang berada di belakang beliau membaca; 'RABBANAA WA LAKAL HAMDU HAMDAN KATSIIRAN THAYYIBAN MUBAARAKAN FIIHI (Wahai Tuhan kami, bagi-Mu segala pujian, aku memuji-Mu dengan pujian yang banyak, yang baik dan penuh berkah) '." Selesai shalat beliau bertanya: "Siapa orang yang membaca kalimat tadi?" Orang itu menjawab, "Saya." Beliau bersabda: "Aku melihat lebih dari tiga puluh Malaikat berebut siapa di antara mereka yang lebih dahulu untuk menuliskan kalimat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>799</td></tr><tr><td>Arabic No</td><td>799</td></tr><tr><td>Reference</td><td>Book 10 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рифа‘а ибн Рафи‘ аз-Зуракый сказал: «Однажды мы совершали молитву позади Пророка ﷺ и подняв голову с поясного поклона, он сказал: “Сами‘а Аллаху лиман хамидах!” Тогда, один человек, находившийся позади него сказал: “Раббана ва лакаль-хамду хамдан касиран таййибан мубаракaн фихи /О Аллах, Господь наш, хвала Тебе, хвала многая, благая и благословенная!/” Закончив молитву, Посланник Аллаха ﷺ спросил: “Кто произнёс эти (слова)?” (Тот человек) ответил: “Я”. (Тогда) Посланник Аллаха ﷺ сказал: “Я видел более тридцати ангелов, каждый из которых старался записать эти слова первым”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>799</td></tr><tr><td>Arabic No</td><td>799</td></tr><tr><td>Reference</td><td>Book 10 Hadith 194</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:A man said, "O Allah's Messenger (ﷺ)! Shall we be punished
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Sufyan] dari [Manshur] dan [Al A'masy] dari [Abu Wa'il] dari [Ibnu Mas'ud] radliallahu 'anhu mengatakan, seorang laki-laki bertanya; 'ya Rasulullah, apakah kami dihukum karena kelakuan-kelakuan kami semasa jahiliyah? ' Nabi menjawab: "Barangsia berbuat baik dalam Islam, maka tak dihukum kelakuan-kelakuannya semasa jahiliyah, sebaliknya barangsiapa berbuat buruk dalam Islam, ia dihukum semenjak kelakuan awalnya dan akhirnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6921</td></tr><tr><td>Arabic No</td><td>6921</td></tr><tr><td>Reference</td><td>Book 88 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «Один человек спросил: “О Посланник Аллаха, взыщется ли с нас за то, что мы совершали во времена джахилиййи?” (Пророк ﷺ) сказал: “С того, кто в исламе совершает благие дела, не спросят за то, что он делал во времена джахилиййи, а с того, кто в исламе совершает дурные дела, спросят и за первое, и за последнее”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6921</td></tr><tr><td>Arabic No</td><td>6921</td></tr><tr><td>Reference</td><td>Book 88 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Abu Hathma:'Abdullah bin Sahl and Muhaiyisa bin Mas'ud bin Zai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Bisyir] telah bercerita kepada kami [Yahya] dari [Busyair binYasar] dari [Sahal bin Abi Hatsmah] berkata; 'Abdullah bin Sahal pergi bersama Muhayyishoh bin Mas'ud bin Zaid menuju Khaibar yang ketika itu terjadi perjanjian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 53 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Абу Хасма сказал: «‘Абдуллах ибн Сахль и Мухайиса ибн Мас‘уд ибн Заид отправились в Хайбар, когда там был заключен мирный договор (с иудеями)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 53 Hadith 12</td></tr></tbody></table></div>
 

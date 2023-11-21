@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:The people of Kufa disagreed (disputed) about the abov
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Mughirah bin An Nu'man] ia berkata; Aku mendengar [Sa'id bin Jubair] berkata; ada sebuah ayat yang menyebabkan penduduk Kufah berselisih tentangnya, maka aku berangkat menemui Ibnu Abbas untuk menanyakan ayat itu. Lalu [Ibnu Abbas] berkata; Yaitu ayat: "Dan barangsiapa yang membunuh seorang mukmin dengan sengaja maka balasannya ialah Jahannam, kekal ia di dalamnya dan Allah murka kepadanya." (An Nisa: 93). Ayat ini adalah ayat yang terakhir turun dari surat An Nisa, tidak ada yang menghapusnya sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 65 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубайр сказал: «Когда жители Куфы стали разногласить относительно одного аята, я отправился к Ибн ’Аббасу и спросил его о нём. Ибн ’Аббас сказал: “Этот аят “Если же кто-либо убьет верующего преднамеренно, то возмездием ему будет Геенна” был ниспослан последним (относительно преднамеренного убийства), и ничто не отменяло его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 65 Hadith 112</td></tr></tbody></table></div>
 

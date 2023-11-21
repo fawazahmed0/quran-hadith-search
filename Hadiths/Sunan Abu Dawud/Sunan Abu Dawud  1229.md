@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: I went on an expedition with the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Ibnu 'Ulayyah] -lafadz hadits ini dari dia- telah mengabarkan kepada kami [Ali bin Zaid] dari [Abu Nadlrah] dari ['Imran bin Hushain] dia berkata; "Aku berperang bersama Rasulullah shallallahu 'alaihi wasallam, dan aku juga menyaksikan bersama beliau ketika pembebasan kota Makkah, beliau bermukim di Makkah selama delapan belas hari, dan tidaklah beliau mengerjakan shalat, kecuali hanya dua raka'at, lalu beliau bersabda: 'wahai para penduduk (asli), shalatlah kalian empat raka'at, sebab kami ini adalah para musafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1229</td></tr><tr><td>Arabic No</td><td>1229</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом: «Я сопровождал Посланника Аллаха ﷺ в военных походах, и я участвовал вместе с ним в покорении Мекки. Он провёл в Мекке восемнадцать ночей, и всё это время совершал два рак‘ата (вместо четырёх) и говорил людям: “О жители города! Совершайте четыре рак‘ата. Мы же путники”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1229</td></tr><tr><td>Arabic No</td><td>1229</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
 

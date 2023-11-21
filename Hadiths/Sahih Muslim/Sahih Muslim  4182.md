@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported that his mother bint Rawaha asked his (Nu'man's) fathe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Abu Hayyan] dari [As Sya'bi] dari [An Nu'man bin Basyir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan ini adalah lafadznya, telah menceritakan kepada kami [Muhammad bin Basyir] telah menceritakan kepada kami [Abu Hayyan At Taimi] dari [As Sya'bi] telah menceritakan kepadaku [An Nu'man bin Basyir], bahwa ibunya, binti Rawahah, pernah meminta kepada ayahnya sebagian dari hartanya untuk diberikan kepada anaknya, saat itu ayah menangguhkannya sampai setahun, sesudah itu barulah diberikan. Kata ibu, "Saya tidak suka sebelum pemberian itu disaksikan oleh Rasulullah shallallahu 'alaihi wasallam. Lalu ayah menggandeng tanganku dan mengajakku menemui Rasulullah shallallahu 'alaihi wasallam, sedangkan waktu itu saya masih kanak-kanak. Ayah berkata kepada beliau, "Ibu anak ini, binti Rawahah, memandang perlu untuk minta persaksian kepada anda atas pemberian yang saya berikan kepada anaknya." Rasulullah shallallahu 'alaihi wasallam bertanya: "Wahai Basyir, apakah kamu memiliki anak selain anak ini?" Ayahku menjawab, "Ya." Beliau bersabda: "Apakah mereka semua kamu beri pemberian seperti itu?" Ayahku menjawab, "Tidak." Sabda beliau: "Kalau begitu, saya tidak mau menjadi saksi atas pemberian yang kurang adil (zhalim) ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4182</td></tr><tr><td>Arabic No</td><td>1623.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4182</td></tr><tr><td>Arabic No</td><td>1623.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 20</td></tr></tbody></table></div>
 

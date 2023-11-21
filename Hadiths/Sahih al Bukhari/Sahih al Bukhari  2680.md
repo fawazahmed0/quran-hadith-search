@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:Once Allah's Messenger (ﷺ) said, "You people present your c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Zainab] dari [Ummu Salamah radliallahu 'anhah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh kalian seringkali mengadukan sengketa kepadaku, barang kali diantara kalian ada yang lebih pandai bersilat lidah daripada yang lain. Maka barangsiapa yang kuputuskan menang dengan mencederai hak saudaranya berdasarkan kepandaian argumentasnya, berarti telah kuambil sundutan api neraka baginya, maka janganlah dia mengambilnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2680</td></tr><tr><td>Arabic No</td><td>2680</td></tr><tr><td>Reference</td><td>Book 52 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Умм Салямы, да будет доволен ею Аллах, что однажды Посланник Аллаха ﷺ сказал: «Поистине, вы приходите ко мне со своими тяжбами, и может оказаться так, что кто-нибудь из вас будет более убедителен в своих аргументах, чем другой. Поэтому если я вынесу решение в его пользу и дам ему то, что принадлежит его брату, на основании его слов, то это будет не чем иным, как частицей Огня (ада), так пусть же он не берёт это!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2680</td></tr><tr><td>Arabic No</td><td>2680</td></tr><tr><td>Reference</td><td>Book 52 Hadith 41</td></tr></tbody></table></div>
 

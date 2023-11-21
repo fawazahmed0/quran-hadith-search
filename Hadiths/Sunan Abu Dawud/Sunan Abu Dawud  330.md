@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi' said:Accompanied by 'Abd Allah b. 'Umar, I went to Ibn 'Abbas for a certai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim Al-Maushili, Abu Ali] telah mengabarkan kepada kami [Muhammad bin Tsabit Al-'Abdi] telah mengabarkan kepada kami [Nafi'] dia berkata; Saya pergi bersama Ibnu Umar dalam suatu urusan menemui Ibnu Abbas, maka [Ibnu Umar] mengatakan maksudnya yang di antara percakapannya tatkala itu adalah bahwa ada seseorang melewati Rasulullah Shallallahu alaihi wasallam pada sebuah jalan sementara beliau baru saja selesai membuang air besar atau kecil, lalu orang tersebut mengucapkan salam kepada beliau namun beliau tidak menjawab salamnya hingga orang tersebut hampir tidak nampak karena sudah jauh dari jalan, beliau menepukkan kedua tangannya ke tembok lalu beliau mangusap wajah dengan keduanya, kemudian beliau menepukkannya lagi dengan satu tepukan, lalu beliau mengusap kedua lengannya, kemudian baru beliau menjawab salam orang tersebut dan beliau bersabda: "Tidak ada yang menghalangiku untuk menjawab salammu kecuali karena saya tidak dalam keadaan suci." Abu Dawud berkata; Saya mendengar Ahmad bin Hambal berkata; Muhammad bin Tsabit meriwayatkan satu hadits munkar dalam urusan tayammum. Ibnu Dasah berkata; Abu Dawud berkata; Muhammad bin Tsabit tidak dikuatkan dalam kisah ini pada lafazh dua kali tepukan dari Nabi shallallahu 'alaihi wasallam. Dan mereka meriwayatkan apa yang diperbuat Ibnu Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>330</td></tr><tr><td>Arabic No</td><td>330</td></tr><tr><td>Reference</td><td>Book 1 Hadith 330</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам сообщил Нафи‘, который сказал: «Однажды я отправился с Ибн ‘Умаром по какому-то делу к Ибн ‘Аббасу. Ибн ‘Умар разрешил свои дела, и из сказанного им в тот день было следующее: “Однажды по одной из дорог мимо Посланника Аллаха ﷺ вышедшего после справления то ли большой, то ли малой нужды, прошел один человек, который поприветствовал его, однако он не ответил ему, пока тот не скрылся из виду на этой дороге. Он ударил руками о стену и обтер ими лицо, затем ударил ещё раз и обтер руки до локтей, после чего ответив на приветствие этого человека, сказал: “Поистине, ответить на твое приветствие мне помешало лишь то, что я не был в состоянии омовения”».Абу Дауд сказал: «Я слышал, как Ахмад ибн Ханбал говорил: “Мухаммад ибн Сабит передавал неприемлемые /мункар/ хадисы об очищении песком”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>330</td></tr><tr><td>Arabic No</td><td>330</td></tr><tr><td>Reference</td><td>Book 1 Hadith 330</td></tr></tbody></table></div>
 

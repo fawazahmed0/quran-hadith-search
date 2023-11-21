@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said, "Verily! 70,000 or 700,000 of my 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Abu Bakr Al Muqaddamiy] telah bercerita kepada kami [Fudlail] dari [Abu Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Pasti akan masuk surga dari ummatku tujuh puluh ribu atau tujuh ratus ribu orang, yang pertamakali tidak bakalan masuk hingga yang terakhir kali masuk (masuk secara berbarengan). Wajah-wajah mereka bagaikan bentuk bulan saat purnama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3247</td></tr><tr><td>Arabic No</td><td>3247</td></tr><tr><td>Reference</td><td>Book 59 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, семьдесят (или: семьсот) тысяч (членов моей общины) войдут (в Рай так, что) первый из них не войдёт туда, пока не войдёт последний, и лица их будут подобны (лику) луны в ночь полнолуния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3247</td></tr><tr><td>Arabic No</td><td>3247</td></tr><tr><td>Reference</td><td>Book 59 Hadith 58</td></tr></tbody></table></div>
 

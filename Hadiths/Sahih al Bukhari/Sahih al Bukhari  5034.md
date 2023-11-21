@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mughaffal:I saw Allah's Messenger (ﷺ) reciting Surat-al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Syu'bah] ia berkata; Telah mengabarkan kepadaku [Abu Iyas] ia berkata; Aku mendengar [Abdullah bin Mughaffal] berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam pada hari Fathu Makkah, dan saat itu, beliau sedang membaca surat Al Fath di atas kendaraannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5034</td></tr><tr><td>Arabic No</td><td>5034</td></tr><tr><td>Reference</td><td>Book 66 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мугъаффаль сказал: «Я видел, как в день завоевания Мекки Посланник Аллаха ﷺ читал суру “аль-Фатх”, сидя верхом на своей верблюдице»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5034</td></tr><tr><td>Arabic No</td><td>5034</td></tr><tr><td>Reference</td><td>Book 66 Hadith 57</td></tr></tbody></table></div>
 

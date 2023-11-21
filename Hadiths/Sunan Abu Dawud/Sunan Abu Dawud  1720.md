@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mundhir ibn Jarir: I accompanied Jarir at Bawazij. The shepherd brou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1720</td></tr><tr><td>Arabic No</td><td>1720</td></tr><tr><td>Reference</td><td>Book 10 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мунзир ибн Джарир сказал: Однажды мы с Джариром были в Аль-Бавазидже [, местность близ реки Тигр,] и пришёл пастух, который гнал коров. Среди них была корова, отличавшаяся от остальных. Джарир спросил его: «Что это?» Пастух ответил: «Она присоединилась к стаду, и мы не знаем, чья она». Джарир сказал ему: «Отгоните её, ибо, поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Заблудившееся животное подбирает только заблудший”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1720</td></tr><tr><td>Arabic No</td><td>1720</td></tr><tr><td>Reference</td><td>Book 10 Hadith 20</td></tr></tbody></table></div>
 

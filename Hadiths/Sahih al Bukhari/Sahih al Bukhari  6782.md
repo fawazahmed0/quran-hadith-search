@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "When (a person) an adulterer commit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Ali] telah menceritakan kepada kami [Abdullah bin Dawud] telah menceritakan kepada kami [Fudhail bin Ghazwan] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah berzina orang yang berzina ketika ia berzina dalam keadaan beriman, dan tidaklah mencuri orang yang mencuri ketika ia mencuri dalam keadaan beriman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6782</td></tr><tr><td>Arabic No</td><td>6782</td></tr><tr><td>Reference</td><td>Book 86 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен ими обоими Аллах, что Пророк ﷺ сказал: «Когда прелюбодей прелюбодействует, верующим он не является, и когда вор совершает кражу, верующим он не является»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6782</td></tr><tr><td>Arabic No</td><td>6782</td></tr><tr><td>Reference</td><td>Book 86 Hadith 11</td></tr></tbody></table></div>
 

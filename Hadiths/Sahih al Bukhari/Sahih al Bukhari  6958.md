@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "On the Day of Resurrection t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah] radliallahu 'anhu mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Harta salah seorang diantara kalian (jika tidak dizakati), maka pada hari kiamat menjadi ular yang menyeramkan, pemilik harta itu berusaha menyelamatkan diri namun si ular terus memburunya sambil mengatakan; 'aku adalah hartamu, ' Demi Allah, si ular itu tiada henti memburunya hingga orang yang mempunyai harta membentangkan tangannya dan dia melahapnya." Dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika pemilik unta tidak memberikan haknya, maka pada hari kiamat unta tersebut melawannya hingga menginjak-injak wajahnya dengan kuku kakinya." - Sebagian orang mengatakan bahwa jika seseorang yang mempunyai unta lantas khawatir terkena kewajiban zakat, lalu sehari sebelum haul tiba ia menjualnya dengan unta semisal atau kambing atau sapi, atau dirham dengan niat agar tidak terkena wajib zakat, maka tak ada dosa baginya. Dan dia mengatakan; jika ia menzakati untanya sehari sebelum haul tiba, atau enam hari sebelumnya, maka juga diperbolehkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6958</td></tr><tr><td>Arabic No</td><td>6958</td></tr><tr><td>Reference</td><td>Book 90 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И Посланник Аллаха ﷺ также сказал: «Если владелец верблюдов не выдавал с них должное (закят), то в День воскресения они будут бить его копытами по лицу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6958</td></tr><tr><td>Arabic No</td><td>6958</td></tr><tr><td>Reference</td><td>Book 90 Hadith 5</td></tr></tbody></table></div>
 

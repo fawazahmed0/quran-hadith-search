@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through other chains of transmitters on the author
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki']. Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku], keduanya dari [Syu'bah]. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar], teks milik Ibnu Al Mutsanna, keduanya berkata: Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Al Mughirah bin An Nu'man] dari [Sa'id bin Jubair] dari [Ibnu Abbas] berkata: Rasulullah Shallallahu 'alaihi wa Salam berdiri berkhutbah menyampaikan suatu nasehat ditengah-tengah kami, beliau bersabda: "Wahai sekalian manusia, sesungguhnya kalian dikumpulkan menuju Allah dalam keadaan tidak beralas kaki, telanjang dan kulup 'Sebagaimana Kami telah memulai panciptaan pertama begitulah kami akan mengulanginya. Itulah suatu janji yang pasti kami tepati; Sesungguhnya kamilah yang akan melaksanakannya.' (Al Anbiyaa': 104) Ingat, sesungguhnya makhluk pertama yang diberi pakaian pada hari kiamat adalah Ibrahim 'alaihis salaam. Ingat, sesungguhnya beberapa orang dari ummatku akan didatangkan lalu mereka diambil ke golongan kiri, aku berkata: 'Wahai Rabb, sahabat-sahabatku.' Dikatakan: 'Sesungguhnya engkau tidak tahu apa yang mereka buat-buat sepeninggalmu.' Lalu aku mengucapkan seperti perkataan seorang hamba shalih: 'Aku menjadi saksi atas mereka selagi aku bersama mereka namun tatkala Engkau wafatkan aku, Engkaulah yang mengawasi mereka dan Engkau Maha menyaksikan terhadap segala sesuatu. Jika Engkau siksa mereka maka sesungguhnya mereka adalah hambaMu.' (Al Maa'idah: 117-118) lalu dijawab: Mereka senantiasa kembali ke belakang (murtad) sejak kau tinggalkan mereka." Disebutkan dalam hadits Waki' dan Mu'adz: Lalu dikatakan: "Sesungguhnya kau tidak tahu apa yang mereka buat-buat sepeninggalmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7201</td></tr><tr><td>Arabic No</td><td>2860.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7201</td></tr><tr><td>Arabic No</td><td>2860.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 70</td></tr></tbody></table></div>
 

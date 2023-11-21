@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:that she intended to buy Barira (a slave girl) and her masters s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari [Aisyah], bahwa dia ingin membeli Barirah, namun mereka mensyaratkan wala' tetap ada pada mereka, maka Aisyah mengadukan kasus tersebut kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: 'Belilah dia, sedang wala' adalah hak bagi yang membeli
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6717</td></tr><tr><td>Arabic No</td><td>6717</td></tr><tr><td>Reference</td><td>Book 84 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Асвада, что, когда ‘Аиша захотела выкупить Бариру, её владельцы поставили ей условие, что право наследовать вольноотпущенника /аль-уаля/ останется за ними. Тогда она рассказала об этом Пророку ﷺ, и он сказал: «Выкупи её, а право наследовать вольноотпущенника /аль-уаля/ принадлежит тому, кто освободил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6717</td></tr><tr><td>Arabic No</td><td>6717</td></tr><tr><td>Reference</td><td>Book 84 Hadith 10</td></tr></tbody></table></div>
 

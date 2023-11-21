@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabala:"While at Medina we were struck with famine. Ibn Az-Zubair used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Jabalah] berkata; Ketika di Madinah saat kami tertimpa paceklik, Ibnu Az Zubair adalah orang yang memberi makan kami. Suatu saat [Ibnu 'Umar] lewat di hadapan kami, maka dia berkata: "Janganlah kalian makan dua butir secara sekaligus, karena Nabi shallallahu 'alaihi wasallam telah melarang memakan dua butir kurma sekaligus kecuali bila seorang dari kalian meminta izin saudaranya terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 47 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабаля, сказал: «(Однажды, когда) мы находились в Медине, выдался голодный год, и Ибн аз-Зубайр снабжал нас финиками, что же касается Ибн ‘Умара, да будет доволен Аллах ими обоими, то, проходя мимо нас, он говорил: “Поистине, Пророк ﷺ запрещал брать по два финика сразу, если только (кто-то) из вас не спросит на это разрешения у своего брата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 47 Hadith 8</td></tr></tbody></table></div>
 

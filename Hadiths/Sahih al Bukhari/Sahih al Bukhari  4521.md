@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man who wants to perform the Hajj (from Mecca) can perform
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abu Bakr] Telah menceritakan kepada kami [Fudlail bin Sulaiman] Telah menceritakan kepada kami [Musa bin 'Uqbah] Telah mengabarkan kepadaku [Kuraib] dari [Ibnu 'Abbas] dia berkata; seseorang berthawaf di ka'bah setelah bertahalul hingga dia bertalbiyah untuk haji. Apabila dia hendak pergi ke Arafah, maka hendaklah dia menyembelih unta, atau sapi, atau kambing kapan saja dia kehendaki jika hal itu mudah baginya. Jika hal itu terasa sulit, maka hendaklah dia berpuasa selama tiga hari pada waktu haji, yaitu sebelum hari Arafah. Jika ternyata hari terakhirnya dari tiga hari tersebut adalah hari Arafah, maka hal itu tidak mengapa baginya. Kemudian hendaklah dia berangkat untuk wukuf di Arafah dari waktu Ashar hingga menjelang malam. Lalu berangkat dari Arafah ketika orang-orang keluar darinya hingga sampai di Muzdalifah tempat mereka bermalam. setelah itu hendaklah mereka berdzikir kepada Allah dengan memperbanyak takbir, dan tahlil sebelum subuh tiba. Kemudian bertolaklah kalian dari Arafah karena orang-orang telah bertolak. Allah Ta'ala berfirman: "Kemudian bertolaklah dari tempat bertolaknya orang-orang banyak ('Arafah) dan mohonlah ampun kepada Allah sesungguhnya Allah Maha Pengampun lagi Maha Penyayang." (QS. Albaqarah 199). Hingga kalian melempar Jumrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 65 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас сказал: «Человек, может совершать таваф вокруг Каабы, пока он не находится в состоянии ихрама до тех пор, пока он не произнесёт тальбию с намерением на хадж. Затем, когда он отправится на ‘Арафат, он должен погнать с собой жертвенный скот (хади), верблюда, корову или овцу, всё, что ему будет облегчено из этого. Если же ему не будет облегчено ничего из этого, то он должен поститься в течение трёх дней во время хаджа до дня ‘Арафата, но если третий день его поста приходится на день ‘Арафата, то нет на нём греха (поститься в этот день). Затем он должен отправиться на ‘Арафат и оставаться там со времени молитвы ‘аср до наступления темноты. Затем паломники должны отправиться из ‘Арафата в Муздалифу, где они должны просить Аллаха помочь им быть праведными и послушными Ему, и пусть много поминают Аллаха и произносят такбир (Аллаху Акбар) и тахлиль (Ля иляха илля Ллах) до рассвета. Затем они должны отправиться в путь, ведь (раньше) люди также отправлялись, и Всевышний Аллах сказал: “Затем отправляйтесь в путь оттуда, откуда отправляются остальные люди, и молите Аллаха о прощении. Воистину, Аллах — Прощающий, Милосердный” (сура “аль-Бакара”, аят 199). Затем вы должны продолжать делать это до тех пор, пока не бросите камешки в аль-Джамру (столб)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 65 Hadith 46</td></tr></tbody></table></div>
 

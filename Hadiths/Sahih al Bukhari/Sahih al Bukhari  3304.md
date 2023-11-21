@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "When night falls (or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq] telah mengabarkan kepada kami [Rauh] telah mengabarkan kepada kami [Ibnu Juraij] berkata telah mengabarkan kepadaku ['Atha'] dia mendengar [Jabir bin 'Abdullah radliallahu 'anhuma], Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kegelapan malam datang, atau kalian berada pada petang hari, jagalah anak-anak kalian karena pada saat itu setan sedang berkeliaran. Jika malam telah berlalu beberapa saat, bolehlah kalian biarkan mereka dan tutuplah pintu rumah dan sebutlah nama Allah karena setan tidak akan membuka pintu yang tertutup". Dia (Ibnu Juraij) berkata; "Dan telah mengabarkan kepadaku ['Amru bin Dinar] dia mendengar [Jabir bin 'Abdullah] seperti apa yang 'Atha' kabarkan kepadaku namun tidak menyebutkan kalimat dan sebutlah nama Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3304</td></tr><tr><td>Arabic No</td><td>3304</td></tr><tr><td>Reference</td><td>Book 59 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Держите ваших детей (дома) с наступлением ночи, ибо, поистине, в этот период (по земле) расходятся шайтаны, а по прошествии некоторого времени можете отпускать (детей). И закрывайте (ночью) двери (своего дома), поминая имя Аллаха, ибо, поистине, шайтан не может открыть закрытую дверь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3304</td></tr><tr><td>Arabic No</td><td>3304</td></tr><tr><td>Reference</td><td>Book 59 Hadith 112</td></tr></tbody></table></div>
 

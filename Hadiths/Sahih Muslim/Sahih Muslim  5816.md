@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I said: Allah's Messenger, the kahins used to tell us about thin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abdu bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Yahya bin 'Urwah bin Az Zubair] dari [Bapaknya] dari ['Aisyah] dia berkata; "Aku pernah bercerita kepada Rasulullah shallallahu 'alaihi wasallam, bahwa para tukang tenung berkata begini dan begitu dan kadang kami lihat kenyataannya memang benar." Sabda Nabi shallallahu 'alaihi wasallam: "Kata-kata yang benar itu ditangkap oleh bangsa jin, lalu dibisikkannya ke telinga tukang tenung dan ditambahkan ke dalamnya dengan seratus kedustaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5816</td></tr><tr><td>Arabic No</td><td>2228.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5816</td></tr><tr><td>Arabic No</td><td>2228.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 168</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Mou'âdh Ibn Jabal (que Dieu l'agrée), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib], dan [Ishaq bin Ibrahim] semuanya dari [Waki'], [Abu Bakar] berkata, telah menceritakan kepada kami [Waki'] dari [Zakariya bin Ishaq] dia berkata, telah menceritakan kepadaku [Yahya bin Abdullah bin Shaifi] dari [Abu Ma'bad] dari [Ibnu Abbas] dari [Mu'adz bin Jabal], Abu Bakar berkata, "Barangkali, " Waki' berkata, dari Ibnu Abbas, bahwa Mu'adz berkata, "Rasulullah shallallahu 'alaihi wasallam mengutusku. Beliau bersabda: "Sesungguhnya kamu akan mendatangi suatu kaum dari Ahli Kitab, maka ajaklah mereka kepada persaksian bahwa tidak ada tuhan (yang berhak disembah) selain Allah, dan bahwa aku adalah utusan Allah. Jika mereka mentaatimu untuk hal tersebut, maka beritahukanlah kepada mereka bahwa Allah telah mewajibkan kepada mereka shalat lima waktu pada setiap siang dan malam. Jika mereka mentaatimu untuk hal tersebut maka beritahukanlah kepada mereka bahwa Allah telah mewajibkan kepada mereka sedekah yang diambil dari orang kaya mereka lalu dibagikan kepada orang-orang fakir di antara mereka. Jika mereka mentaatimu untuk hal tersebut maka kamu jauhilah harta mulia mereka. Takutlah kamu terhadap doa orang yang terzhalimi, karena tidak ada penghalang antara dia dan Allah'." Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Bisyr bin as-Sari] telah menceritakan kepada kami [Zakariya' bin Ishaq]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Abu Ashim] dari [Zakariya' bin Ishaq] dari [Yahya bin Abdullah bin Shaifi] dari [Abu Ma'bad] dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam mengutus Mu'adz ke Yaman, maka beliau bersabda: "Sesungguhnya kamu akan mendatangi suatu kaum." Sebagaimana hadits Waki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>121</td></tr><tr><td>Arabic No</td><td>19.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что Му‘аз сказал: «Посланник Аллаха ﷺ посылая меня (в Йемен) сказал: “Ты придёшь к народу, который является обладателем Писания. Призови их (принести) свидетельство о том, что нет бога достойного поклонения, кроме Аллаха, и что я Посланник Аллаха. И если они подчинятся этому, то сообщи им о том, что Аллах вменил им в обязанность (совершение) пяти молитв в течение дня и ночи. Если же они подчинятся и этому, то сообщи им о том, что Аллах обязал их выплачивать садаку, которую следует брать у их богатых и отдавать бедным из их числа. Если они подчинятся этому, то остерегайся посягать на их отборное имущество и бойся мольбы угнетённого, ибо между ней и Аллахом нет преграды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>121</td></tr><tr><td>Arabic No</td><td>19.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
 

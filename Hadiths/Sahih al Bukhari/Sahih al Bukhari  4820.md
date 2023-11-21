@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Five things have passed, i.e. the smoke, the defeat of the Ro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari [Abdullah] dia berkata; lima hal telah berlalu; Kabut, kekalahan Ramawi, terbelah bulan, Hantaman keras dan kematian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4820</td></tr><tr><td>Arabic No</td><td>4820</td></tr><tr><td>Reference</td><td>Book 65 Hadith 342</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Абдуллах сказал: «Пять событий уже произошли — это дым (упомянутый в суре ат-Духан), (победа) римлян, (раскол) луны, хватка (в день Бадра) и неизбежность (, упомянутая в аяте: “…и теперь будет это [наказание] для вас неизбежно [обязательно]”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4820</td></tr><tr><td>Arabic No</td><td>4820</td></tr><tr><td>Reference</td><td>Book 65 Hadith 342</td></tr></tbody></table></div>
 

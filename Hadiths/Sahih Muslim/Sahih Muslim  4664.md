@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdillâh (que Dieu l'agrée), l'Envoyé de Dieu (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al hanzhali] dan [Abdullah bin Muhammad bin Abdurrahman bin Miswar Az Zuhri] keduanya dari [Ibnu 'Uyainah] sedangkan lafadznya dari Az Zuhri, telah menceritakan kepada kami Sufyan dari ['Amru] aku mendengar [Jabir] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapakah di antara kalian yang sanggup membunuh Ka'ab bin Ashraf? Sebab dia telah menyakiti Allah dan Rasul-Nya." Maka Muhammad bin Maslamah berkata, "Wahai Rasulullah, setujukah anda jika aku yang akan membunuhnya?" beliau bersabda: "Ya, setuju." Maslamah berkata, "Tetapi, izinkanlah aku terlebih dahulu untuk mengatakan sesuatu kepada anda." Beliau menjawab: "Silahkan." Kemudian Dia mendekati beliau untuk menyampaikan sesuatu, akhirnya keduanya terlibat dengan pembicaraan yang serius. Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebenarnya Ka'ab memang pernah berniat untuk bersedekah, akan tetapi ia justru menyusahkan kami." Mendengar keterangan beliau, Muhammad bin Maslamah berkata, "Demi Allah sungguh aku tidak merasa lebih geram daripada kejengkelanku ini." Muhammad bin Maslamah berkata, "Kami sekarang akan membuntutinya, dan kami tidak suka membiarkan begitu saja sehingga kami mengetahui akhir kesudahannya." Maslamah berkata (kepada Ka'ab), "Wahai Ka'ab, aku hendak meminjam sesuatu darimu!" Ka'ab bertanya, "Lalu apa yang hendak kamu gadaikan kepadaku sebagai jaminanannya?" Ibnu Maslamah balik bertanya, "Apa yang kamu inginkan?" Ka'ab berkata, "Bagaimana menurutmu jika aku ingin agar kamu menggadaikan isteri-isterimu kepadaku?" Ibnu Maslamah menjawab, "Kamu adalah orang arab yang berpenampilan sangat menarik dan gagah, jadi bagaimana mungkin aku akan menggadaikan isteri-isteriku?" Ka'ab kembali bertanya, "kalau begitu, bagaimana kalau kamu gadaikan anak-anakmu kepadaku." Ibnu Maslamah menjawab, "Itu tidak mungkin aku lakukan, tetapi aku akan menggadaikan senjataku kepadamu." Ka'ab menjawab, "Baiklah aku setuju." Kemudian Muhammad bin Maslamah berjanji akan datang ke rumah Ka'ab bin Al Ashraf dengan ditemani Al Harits, Abu Abbas bin Jabr dan Abbad bin Bisyr. Akhirnya keempat orang tersebut datang ke rumah Ka'ab pada malam hari. Sufyan berkata; selain 'Amru berkata, "Lalu isterinya Ka'ab berkata, "Sepertinya aku mendengar suara orang yang akan menumpahkan darah." Ka'ab menjawab, "Itu hanya suara Muhammad bin Maslamah dan Abu Nailah, saudara sesusuanku. Sebagai seorang yang terhormat maka aku akan menemuinya walaupun di malam hari." Sementara itu Muhammad bin Maslamah berkata (kepada temanya), "Apabila di keluar, maka aku akan mengulurkan tanganku ke kepalanya, apabila aku telah berhasil membekuknya, maka kamu maju untuk membunuhnya." Maslamah berkata, "Ketika Ka'ab keluar dengan meletakkan senjatanya, mereka (temannya Maslamah) berkata, "Sepertinya kami mencium bau harum darimu." Ka'ab menjawab, "Memang, sebab isteriku adalah wanita yang pandai berhias dan merawat diri." Muhammad bin Maslamah berkata, "Kalau kamu berkenan, bolehkah aku mencium bau harum yang ada pada dirimu?" Ka'ab berkata, "Silahkan." Kemudian Muhammad menciumnya dan berusaha menciumnya lagi, lalu dia berkata, "Kalau kamu berkenan, bolehkah aku mengulanginya lagi?" rupanya Ka'ab tidak merasa keberatan dan menyodorkan kepalanya kepada Muhammad bin Maslamah. Kemudian Muhammad bin Maslamah berkata kepada temannya, "Giliran kalian." Dia berkata, "Kemudian mereka membunuh Ka'ab bin Al Ashraf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4664</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 32 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4664</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 32 Hadith 146</td></tr></tbody></table></div>
 

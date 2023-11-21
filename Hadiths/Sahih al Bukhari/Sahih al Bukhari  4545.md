@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:This Verse:--"Whether you show what is in your minds or conce
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah menceritakan kepada kami [An Nafali] Telah menceritakan kepada kami [Miskin] dari [Syu'bah] dari [Khalid Al Hadza] dari [Marwan Al Ashfar] dari salah seorang sahabat Nabi shallallahu 'alaihi wasallam yaitu [Ibnu Umar]; bahwa ayat; "Jika kalian menampakkan apa yang ada dalam diri kalian atau menyembunyikannya" (al Baqarah: 284) telah di naskh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4545</td></tr><tr><td>Arabic No</td><td>4545</td></tr><tr><td>Reference</td><td>Book 65 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Умар сказал, что аят «Обнаружите ли вы то, что в ваших душах, или утаите…» (сура «аль-Бакара», аят 284) был отменён
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4545</td></tr><tr><td>Arabic No</td><td>4545</td></tr><tr><td>Reference</td><td>Book 65 Hadith 68</td></tr></tbody></table></div>
 

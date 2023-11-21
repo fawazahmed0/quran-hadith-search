@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uthman b. Abu al-'As Al-Thaqafi reported that he made a complaint of pain to All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah bin Yahya] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah mengabarkan kepadaku [Nafi' bin Jubair bin Muth'im] dari ['Utsman bin Abu Al 'Ash Ats Tsaqafi] bahwa dia mengadukan kepada Rasulullah shallallahu 'alaihi wasallam suatu penyakit yang dideritanya sejak ia masuk Islam. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Letakkan tanganmu di tubuhmu yang terasa sakit, kemudian ucapkan Bismillah tiga kali, sesudah itu baca tujuh kali: A'udzu billahi wa qudratihi min syarri ma ajidu wa uhadziru." (Aku berlindung kepada Allah dan kekuasaanNya dari penyakit yang aku derita dan aku cemaskan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5737</td></tr><tr><td>Arabic No</td><td>2202</td></tr><tr><td>Reference</td><td>Book 39 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5737</td></tr><tr><td>Arabic No</td><td>2202</td></tr><tr><td>Reference</td><td>Book 39 Hadith 91</td></tr></tbody></table></div>
 

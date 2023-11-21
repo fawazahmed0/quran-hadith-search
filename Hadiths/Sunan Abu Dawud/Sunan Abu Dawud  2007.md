@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Tariq: AbdurRahman reported on the authority of his mot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in], telah menceritakan kepada kami [Hisyam bin Yusuf] dari [Ibnu Juraij], telah mengabarkan kepadaku ['Ubaidullah bin Abu Yazid] bahwa [Abdurrahman bin Thariq] telah mengabarkan kepadanya dari [ibunya] bahwa Rasulullah shallallahu 'alaihi wasallam apabila melewati suatu tempat di Daru Ya'la -Ubaidullah lupa- beliau menghadap kiblat dan lansung berdo'a
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2007</td></tr><tr><td>Arabic No</td><td>2007</td></tr><tr><td>Reference</td><td>Book 11 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Тарик передаёт от своей матери, что когда Посланник Аллаха ﷺ приходил в определённое место дома Я‘ля ‘Убайдуллах, передатчик хадиса, забыл его, поворачивался в сторону Дома и обращался к Аллаху с мольбами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2007</td></tr><tr><td>Arabic No</td><td>2007</td></tr><tr><td>Reference</td><td>Book 11 Hadith 287</td></tr></tbody></table></div>
 

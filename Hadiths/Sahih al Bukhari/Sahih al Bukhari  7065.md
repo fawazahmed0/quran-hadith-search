@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said...(as above, 185). And Harj, in the Eth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7065</td></tr><tr><td>Arabic No</td><td>7065</td></tr><tr><td>Reference</td><td>Book 92 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Ваиль сказал: \n— Однажды я сидел вместе с ‘Абдуллах (ибн Мас‘удом) и Абу Мусой (аль-Аш‘ари), да будет доволен Аллах ими обоими, и тут Абу Муса сказал: «Я слышал как Пророк ﷺ рассказал похожий хадис. И (слово) “хардж” с эфиопского языка означает “убийство”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7065</td></tr><tr><td>Arabic No</td><td>7065</td></tr><tr><td>Reference</td><td>Book 92 Hadith 16</td></tr></tbody></table></div>
 

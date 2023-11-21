@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar from Zaid bin Thabit:Allah's Messenger (ﷺ) allowed the sale
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] dia adalah anak dari Muqatil telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar] dari [Zaid bin Tsabit] radliallahu 'anhum bahwa Rasulullah shallallahu 'alaihi wasallam telah memberi keringanan pada 'ariyah yang dijual dengan cara taksiran timbangan (berat). Berkata, Musa bin 'Uqbah: "Dan yang dimaksud jual beli 'ariyyah adalah kurma-kurma yang sudah dikenal lalu kamu datang untuk membelinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 34 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Зейда ибн Сабита, да будет доволен им Аллах, что Посланник Аллаха ﷺ разрешил обменивать несобранный урожай свежих фиников на сухие в количестве, соответствующем урожаю сухих фиников (‘арайа).\nМуса ибн ‘Укба сказал: «Аль-‘Арайа — это известные пальмы, к которым можно прийти и купить их плоды (за сухие финики)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 34 Hadith 139</td></tr></tbody></table></div>
 

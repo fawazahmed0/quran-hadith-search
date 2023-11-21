@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaidullah b. 'Abdullah b. 'Utba reported that 'Amr b. Hafs b. al-Mughira set ou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] sedangkan lafazhnya dari 'Abd keduanya berkata; Telah mengabarkan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Ubaidillah bin Abdullah bin 'Utbah] bahwa Abu 'Amru bin Hafsh bin Al Mughirah pernah pergi bersama Ali bin Abi Thalib menuju Yaman, kemudian dia mengutus seseorang untuk menceraikan istrinya yaitu [Fathimah binti Qais] dengan talak yang tersisa (yaitu talak tiga), lalu mantan suaminya menyuruh Al Harits bin Hisyam dan 'Ayyasy bin Abi Rabi'ah untuk memberi nafkah, maka keduanya berkata kepada mantan istri Abu 'Amru; "Demi Allah, kamu tidak berhak lagi untuk mendapatkan nafkah kecuali jika dirimu hamil." Kemudian mantan istrinya mendatangi Nabi shallallahu 'alaihi wasallam dan memberitahukan perkataan dua orang saudara Amru kepadanya, beliau pun bersabda: "Memang, kamu sudah tidak berhak lagi mendapatkan nafkah." Dia pun meminta izin kepada Nabi shallallahu 'alaihi wasallam untuk pindah rumah, beliau pun mengizinkannya. Dia berkata; "Di mana saya harus tinggal wahai Rasulullah?" Beliau menjawab: "Di rumah Ibnu Ummi Maktum, karena dia adalah laki-laki yang buta." Di rumah Ibnu Ummi Maktum dia bisa menanggalkan pakaiannya dan Ibnu Ummi Maktum tidak melihat. Ketika masa iddahnya habis, Nabi shallallahu 'alaihi wasallam menikahkannya dengan Usamah bin Zaid. Kemudian Marwan menyuruh Qabishah bin Dzu'aib untuk menanyakan tentang hadits ini, lalu Fathimah menyampaikan hadits ini, Marwan pun berkata; "Saya belum pernah mendengar hadits ini melainkan dari seorang wanita yang akan kami minta untuk menguatkan beritanya sebagaimana yang dikabarkan orang-orang kepadaku." Ketika berita Marwan sampai kepada Fathimah yang mengatakan bahwa antara saya dan kamu ada Al Qur'an, di mana Allah 'azza wajalla telah berfirman: "Janganlah kamu perbolehkan mereka keluar dari rumah-rumah mereka". Maka Fathimah menjawab; Ini bagi seorang wanita yang di talak raj'i (yaitu talak yang boleh diruju'), lalu apa yang terjadi setelah talak tiga, bagaimana kamu mengatakan tidak berhak mendapatkan nafkah melainkan jika hamil. Maka atas dasar apa kamu mencegahnya (keluar rumah untuk mencari penghidupan -pent)?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3704</td></tr><tr><td>Arabic No</td><td>1480.08</td></tr><tr><td>Reference</td><td>Book 18 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3704</td></tr><tr><td>Arabic No</td><td>1480.08</td></tr><tr><td>Reference</td><td>Book 18 Hadith 52</td></tr></tbody></table></div>
 

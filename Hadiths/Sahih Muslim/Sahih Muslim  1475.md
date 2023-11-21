@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Prayer said in a congrega
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abdullah bin Maslamah bin Qo'nab], telah menceritakan kepada kami [Aflah] dari [Abu Bakr bin Muhammad bin 'Amru bin Hazm] dari [Salman Al Agharr] dari [Abu Hurairah] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat jama'ah menyamai dua puluh lima kali shalat yang dikerjakan secara sendirian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1475</td></tr><tr><td>Arabic No</td><td>649.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 308</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Коллективная молитва приравнивается двадцати пяти молитвам, совершённым в одиночестве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1475</td></tr><tr><td>Arabic No</td><td>649.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 308</td></tr></tbody></table></div>
 

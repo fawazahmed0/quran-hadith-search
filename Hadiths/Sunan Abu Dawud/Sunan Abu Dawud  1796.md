@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said The Prophet(ﷺ) passed the night at Dhu al Hulaifah till the morning 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Salamah Musa bin Isma'il], telah menceritakan kepada Kami [Wuhaib], telah menceritakan kepada Kami [Ayyub] dari [Abu Qilabah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam bermalam di sana yaitu di Dzul Hulaifah hingga pagi hari, kemudian menaiki kendaraan hingga setelah berada di atas Baida' beliau memuji Allah dan bertasbih serta bertakbir. Kemudian beliau bertalbiyah untuk melakukan haji dan umrah, dan orang-orang bertalbiyah untuk melakukan keduanya. Kemudian tatkala Kami datang beliau memerintahkan orang-orang agar bertahallul hingga ketika pada Hari Tarwiyah mereka bertalbiyah untuk melakukan haji, dan Rasulullah shallAllahu wa'alaihi wa sallam menyembelih tujuh unta dengan tangannya dalam keadaan berdiri. Abu Daud berkata; yang menjadi diriwayatkan Anas sendiri dari hadits ini adalah bahwa beliau memulai dengan memuji, bertasbih serta bertakbir kemudian bertalbiyah untuk melakukan haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1551)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 11 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что Пророк ﷺ провёл ночь до утра в Зуль-Хулейфе, после чего сел верхом. Когда верблюдица поднялась с ним на вершину холма, он воздал хвалу Аллаху и возвеличил Его, после чего произнёс тальбию для хаджа и ‘умры, и люди сделали то же самое. По прибытии в Мекку Посланник Аллаха ﷺ велел людям снять ихрам, и они подчинились, а в восьмой день месяца зуль-хиджжа произнесли тальбию для хаджа. И Посланник Аллаха ﷺ заколол своей рукой семь жертвенных верблюдов, находившихся в положении стоя. Абу Дауд сказал, что только Анас, передавая эту историю, упомянул о том, что он начал с восхваления, прославления и возвеличивания Аллаха, а потом уже произнёс тальбию для хаджа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1551)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 11 Hadith 76</td></tr></tbody></table></div>
 

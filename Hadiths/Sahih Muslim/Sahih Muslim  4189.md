@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jaber b. 'Abdullah (Allah be pleased with them) reported Allah's Messenger (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata; telah mengabarkan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Abu Salamah] dari [Jabir bin Abdullah], bahwa dia berkata, "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memberikan pemberian kepada orang lain dengan menegaskan 'Untuk anda dan keturunan anda selama kalian masih hidup', maka harta itu tidak dapat diminta kembali oleh si pemberi, karena harta tersebut telah menjadi hak miliknya beserta keturunannya." Hanya saja Yahya menyebutkan di awal haditsnya, "Lelaki mana saja yang diberi harta pemberian (untuk dia dan keturunannya selagi masih hidup), maka harta tersebut telah menjadi hak miliknya dan keturunannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>1625.02</td></tr><tr><td>Reference</td><td>Book 24 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>1625.02</td></tr><tr><td>Reference</td><td>Book 24 Hadith 27</td></tr></tbody></table></div>
 

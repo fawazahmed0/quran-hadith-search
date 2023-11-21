@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) paid visit to us, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Miskin] dari [Al Auza'i]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dari [Waki'] dari [Al Auza'i] seperti itu, dari [Hassan bin Athiah] dari [Muhammad Ibnul Munkadir] dari [Jabir bin Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam mendatangi kami, lalu beliau melihat seorang laki-laki yang rambutnya acak-acakkan. Maka beliau bersabda: "Tidakkah orang ini mendapatkan sesuatu yang dapat digunakan untuk merapikan rambutnya?" kemudian beliau juga mendapati seorang laki-laki yang bajunya kotor, beliau bersabda: "Tidakkah orang ini mendapatkan air hingga ia dapat mencuci bajunya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4062</td></tr><tr><td>Arabic No</td><td>4062</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ зашёл к нам и, увидев человека с взъерошенными волосами, сказал: “Неужели он не нашёл ничего, с помощью чего можно привести в порядок волосы?” А увидев другого человека в грязной одежде, он сказал: “Неужели он не нашёл воды, чтобы постирать одежду?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4062</td></tr><tr><td>Arabic No</td><td>4062</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
 

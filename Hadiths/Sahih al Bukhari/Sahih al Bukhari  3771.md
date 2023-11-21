@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim bin Muhammad:Once 'Aisha became sick and Ibn 'Abbas went to se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami ['Abdul Wahhab bin 'Abdul Hamid] telah bercerita kepada kami ['Ibnu 'Aun] dari [Al Qasim bin Muhammad] bahwa 'Aisyah radliallahu 'anha mengeluh lalu datang [Ibnu 'Abbas radliallahu 'anhuma] seraya berkata; "Wahai Ummul Mu'minin, anda adalah orang yang mula-mula (masuk surga) bersama Rasulullah shallallahu 'alaihi wasallam dan Abu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3771</td></tr><tr><td>Arabic No</td><td>3771</td></tr><tr><td>Reference</td><td>Book 62 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Касима ибн Мухаммада, что когда ‘Аиша заболела, Ибн ‘Аббас пришёл к ней и сказал: «О мать верующих! Ты отправишься к правдивым предшественникам, к Посланнику Аллаха ﷺ и Абу Бакру»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3771</td></tr><tr><td>Arabic No</td><td>3771</td></tr><tr><td>Reference</td><td>Book 62 Hadith 116</td></tr></tbody></table></div>
 

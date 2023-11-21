@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:I entered the mosque and the Messenger of Allah (ﷺ) was sit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan lafazh tersebut milik Abu Kuraib, keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] telah menceritakan kepada kami [al-A'masy] dari [Ibrahim at-Taimi] dari [bapaknya] dari [Abu Dzar] dia berkata, "Saat aku masuk masjid, Rasulullah shallallahu 'alaihi wasallam sedang duduk-duduk, maka tatkala matahari terbenam, beliau bersabda: "Wahai Abu Dzar, apakah kamu tahu kemana matahari ini pergi? ' Abu Dzar menjawab, 'Allah dan Rasul-Nya lebih tahu.' Beliau bersabda: "Ia pergi, lalu meminta izin untuk sujud, maka ia diberi izin untuk sujud, seakan-akan telah dikatakan kepadanya, 'Pulanglah dari arah kamu datang'. Lalu ia terbit dari barat.' Perawi berkata, 'Kemudian beliau membaca sebagaimana bacaan Abdullah, 'Dan itulah tempat untuk matahari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>401</td></tr><tr><td>Arabic No</td><td>159.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 306</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Зарр сказал: «Как-то раз я зашёл в мечеть, а Посланник Аллаха ﷺ находился в сидячем положении. И когда солнце уже зашло, он сказал: “О Абу Зарр! Знаешь ли ты, куда оно направляется?” Я сказал: “Аллах и посланник Его знают об этом лучше”. (Тогда Пророк ﷺ.) сказал: “Поистине, оно движется, после чего испрашивает позволения склонится в земном поклоне и ему позволят сделать это. И тогда ему будет сказано: ‹Возвращайся туда, откуда явилось!› Так оно взойдёт на западе“. А потом он прочёл (слова Аллаха): “Это его местопребывание”» как это звучит в чтении ‘Абдуллаха ибн Мас‘уда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>401</td></tr><tr><td>Arabic No</td><td>159.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 306</td></tr></tbody></table></div>
 

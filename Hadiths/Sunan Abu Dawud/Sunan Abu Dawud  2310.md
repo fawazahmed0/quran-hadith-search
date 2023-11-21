@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Manshur] dari [Abu Wail], dari ['Amr bin Syarahbil] dari [Abdullah], ia berkata; aku berkata; wahai Rasulullah, dosa apakah yang paling besar? Beliau berkata: "Engkau jadikan bagi Allah tandingan sementara Dia adalah Yang telah menciptakanmu." Abdullah berkata; aku katakan; kemudian apa? Beliau berkata: "Engkau membunuh anakmu karena khawatir makan bersamamu." Ia berkata; aku katakan; kemudian apalagi? Beliau berkata; "Engkau berzina dengan isteri tetanggamu." Ia berkata; dan Allah ta'ala menurunkan pembenaran terhadap perkataan Nabi shallallahu 'alaihi wasallam: "Dan orang-orang yang tidak menyembah tuhan yang lain beserta Allah dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar, dan tidak berzina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6001) Sahih Muslim (141)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>2310</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен им Аллах: «Я спросил: “О Посланник Аллаха, какой грех является тягчайшим?” Он ответил: “Приравнивание кого бы то ни было к Аллаху, Который сотворил тебя”. Человек спросил: “А после этого?” Он ответил: “Убиение своего ребёнка из страха перед тем, что он станет есть вместе с тобой”. Человек спросил: “А после этого?” Он ответил: “Прелюбодеяние с женой твоего соседа”. И в подтверждение этих слов Пророка, да благословит его Аллах и да приветствует, Всевышний Аллах ниспослал: “Они не взывают помимо Аллаха к другим богам, не убивают людей вопреки запрету Аллаха, если только они не имеют права на это, и не прелюбодействуют” (сура 25 «аль-Фуркан», аят 68)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6001) Sahih Muslim (141)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>2310</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
 

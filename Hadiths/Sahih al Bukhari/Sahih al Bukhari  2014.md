@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever fasted the month of Ramada
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata, kami telah menghafal darinya, dia menghafalnya dari [Az Zuhriy] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang melaksanakan shaum Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya, dan barangsiapa yang menegakkan lailatul qadar karena iman kepada Allah dan mengharapkan pahala (hanya dariNya) maka akan diampuni dosa-dosa yang telah dikerjakannya". Hadits ini dikuatkan pula oleh [Sulaiman bin Katsir] dari [Az Zuhriy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2014</td></tr><tr><td>Arabic No</td><td>2014</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Тому, кто постился в месяц рамадан с верой и надеждой на награду от Аллаха, простятся его прошлые прегрешения. И тому, кто выстаивал Ночь предопределения с верой и надеждой на награду от Аллаха, простятся его прошлые прегрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2014</td></tr><tr><td>Arabic No</td><td>2014</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
 

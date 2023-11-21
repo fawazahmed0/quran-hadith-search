@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Messenger of Allah (ﷺ) commanded us (to recit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Daud bin Sufyan] telah menceritakan kepada kami [Yahya bin Hasan] telah menceritakan kepada kami [Sulaiman bin Musa Abu Daud] telah menceritakan kepada kami [Ja'far bin Sa'd bin Samurah bin Jundub] telah menceritakan kepadaku [Khubaib bin Sulaiman bin Samurah] dari [ayahnya Sulaiman bin Samurah] dari [Samurah bin Jundub] dia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan di saat kami sedang shalat atau ketika hendak menyelesaikannya yaitu sebelum salam, maka ucapkanlah "Attahiyyat atthayyibat washshalawat walmulku lillah" kemudian ucapkanlah salam terhadap golongan kanan (orang-orang Mukmin) dan ucapkanlah salam atas orang yang mengajarkan Al Qur'an kepada kalian dan atas diri kalian." Abu Daud berkata; "Sulaiman bin Musa asalnya dari Kufah lalu dia menetap di Damaskus." Abu Daud berkata; "Tulisan ini menunjukkan bahwa Al Hasan mendengar dari Samurah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>975</td></tr><tr><td>Arabic No</td><td>975</td></tr><tr><td>Reference</td><td>Book 2 Hadith 586</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самуры ибн Джундуба, да будет доволен им Аллах: «Посланник Аллаха ﷺ велел нам произносить в середине молитвы или при её завершении следующее. Он сказал: “Начинайте до таслима и говорите: “Благие приветствия, и молитвы, и владычество Аллаху”, а потом произносите таслим, поворачиваясь направо, после чего приветствуйте своего чтеца и самих себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>975</td></tr><tr><td>Arabic No</td><td>975</td></tr><tr><td>Reference</td><td>Book 2 Hadith 586</td></tr></tbody></table></div>
 

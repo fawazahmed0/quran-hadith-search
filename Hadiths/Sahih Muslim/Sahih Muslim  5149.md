@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id reported that Allah's Apostle (ﷺ) prohibited that fresh dates and gr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [At Taimi] dari [Abu An Nadlrah] dari [Abu Sa'id], bahwa Nabi shallallahu 'alaihi wasallam melarang mencampurkan antara kurma dengan anggur dan antara tamr (kurma masak) dan busr (kurma muda) untuk dibuat perasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5149</td></tr><tr><td>Arabic No</td><td>1987.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5149</td></tr><tr><td>Arabic No</td><td>1987.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 23</td></tr></tbody></table></div>
 

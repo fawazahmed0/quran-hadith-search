@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The people were ordered to place the right hand on the le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu Hazim] dari [Sahl bin Sa'd] berkata, "Orang-orang diperintahkan agar meletakkan tangan kanannya di atas lengan kiri dalam shalat." Abu Hazim berkata, "Aku tidak mengetahui dia Sahl kecuali bahwa dia menyandarkan hal tersebut kepada Nabi shallallahu 'alaihi wasallam. Isma'il berkata, "Hadits ini dimarfu'kan kepada Nabi shallallahu 'alaihi wasallam dan bukan mengatakan dia mengambil dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>740</td></tr><tr><td>Arabic No</td><td>740</td></tr><tr><td>Reference</td><td>Book 10 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хазима о том, что Сахль ибн Са‘д сказал: «Людям приказывали, чтобы человек возлагал правую руку на предплечье левой во время совершения молитвы».\nАбу Хазим сказал: «Я знаю только то, что он возвёл этот (хадис) к Пророку ﷺ». Исмаиль сказал: «Он возводится», и не сказал: «… возводит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>740</td></tr><tr><td>Arabic No</td><td>740</td></tr><tr><td>Reference</td><td>Book 10 Hadith 134</td></tr></tbody></table></div>
 

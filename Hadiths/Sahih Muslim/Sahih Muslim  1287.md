@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:We prayed along with the Messenger of Allah (may peace he upon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [al-Qasim bin Zakariya'] telah menceritakan kepada kami [Husain bin Ali al-Ju'fi] dari [Zaidah] dari [Sulaiman] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dia berkata, "Kami shalat bersama Rasulullah Shallallahu'alaihiwasallam, boleh jadi beliau kelebihan, boleh jadi kurang. Ibrahim berkata, 'Demi Allah, tidaklah orang itu datang melainkan dari arah depanku.' Dia berkata lagi, 'Kami berkata, 'Wahai Rasulullah, apakah ada sesuatu baru dalam shalat? ' Beliau menjawab, 'Tidak.' Perawi berkata, 'Kami berkata kepadanya tentang sesuatu yang telah diperbuatnya, maka beliau bersabda, 'Apabila seorang laki-laki kelebihan atau kurang raka'atnya, maka hendaklah dia bersujud dua kali.' Dia berkata, 'Kemudian beliau bersujud dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1287</td></tr><tr><td>Arabic No</td><td>572.14</td></tr><tr><td>Reference</td><td>Book 5 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «Однажды мы совершали молитву с Посланником Аллаха ﷺ. (Передатчик) Ибрахим сказал: “И я не знаю, добавил он что-то (в ней) или убавил”. Мы сказали: “О Посланник Аллаха! В молитву было внесено что-то новое?” Он ответил: “Нет”. Тогда мы рассказали ему о том, что сделал, и он сказал: “Если человек что-то добавил или убавил в молитве, то пусть совершит два земных поклона”. После чего он совершил два земных поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1287</td></tr><tr><td>Arabic No</td><td>572.14</td></tr><tr><td>Reference</td><td>Book 5 Hadith 125</td></tr></tbody></table></div>
 

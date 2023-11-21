@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I and the Messenger of Allah (ﷺ) used to lie i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari [Jabir bin Shubh], ia berkata; saya mendengar [Khilas Al Hajari] berkata; saya mendengar [Aisyah] radliallahu 'anha berkata; aku dan Rasulullah shallallahu 'alaihi wasallam pernah bermalam dalam satu kain, sementara aku dalam keadaan sedang haid. Apabila ada sebagian darah haidku yang mengenai beliau, maka beliau mencuci tempat yang terkena dan tidak melebihinya, dan apabila ada sebagian darah haidku yang mengenai pakaiannya maka beliau mencuci tempat yang terkena dan tidak melebihinya, dan beliau melakukan shalat dengan memakai pakaian tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>2166</td></tr><tr><td>Reference</td><td>Book 12 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Мы с посланником Аллаха ﷺ спали под одним покрывалом, когда у меня была менструация, и если на него попадала моя кровь, он мыл только это место, и если что-то попадало на его одежду, он застирывал только это место, а потом молился в этой одежде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>2166</td></tr><tr><td>Reference</td><td>Book 12 Hadith 121</td></tr></tbody></table></div>
 

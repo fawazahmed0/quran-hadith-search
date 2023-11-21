@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Malik:A lady slaughtered a sheep with a stone and then the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah] berkata, telah mengabarkan kepada kami [Abdah] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Ka'b bin Malik] dari [Bapaknya], bahwa ada seorang wanita menyembelih seekor kambing dengan batu, Nabi shallallahu 'alaihi wasallam lalu ditanya tentang itu, maka beliau memerintahkan untuk tetap memakannya." [Al laits] berkata; telah menceritakan kepada kami [Nafi'] Bahwasanya ia mendengar [seorang laki-laki Anshar] mengabarkan kepada Abdullah, dari Nabi shallallahu 'alaihi wasallam, bahwa budak wanita Ka'b -menyebutkan Hadits seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5504</td></tr><tr><td>Arabic No</td><td>5504</td></tr><tr><td>Reference</td><td>Book 72 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн Малик, да будет доволен им Аллах, сказал: «Женщина зарезала овцу с помощью камня , а затем люди спросили Пророка ﷺ об этом, и он велел есть её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5504</td></tr><tr><td>Arabic No</td><td>5504</td></tr><tr><td>Reference</td><td>Book 72 Hadith 30</td></tr></tbody></table></div>
 

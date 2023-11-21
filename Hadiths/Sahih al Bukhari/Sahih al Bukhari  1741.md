@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet (ﷺ) delivered to us a sermon on the Day of Nahr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada saya [Abu 'Amir] telah menceritakan kepada kami [Qurrah] dari [Muhammad bin Sirin] berkata, telah mengabarkan kepada saya ['Abdurrahman bin Abu Bakrah] dari [Abu Bakrah] dan dari orang-orang yang lebih utama, dari 'Abdurrahman [Humaid bin 'Abdurrahman] dari [Abu Bakrah] radliallahu 'anhu berkata: Nabi shallallahu 'alaihi wasallam menyampaikan khathbah kepada kami pada hari Nahar, Beliau bertanya: "Apakah kalian mengetahui, hari apakah ini?". Kami menjawab: "Allah dan rasulNya yang lebih mengetahui". Sejenak Beliau terdiam sehingga kami menduga bahwa Beliau akan menamakannya bukan dengan namanya (yang sudah kami kenal) ". Beliau bersabda: "Bukankah sekarang ini hari Nahar?". Kami menjawab: "Benar". Beliau bertanya lagi: "Bulan apakah ini?". Kami menjawab: "Allah dan rasulNya yang lebih mengetahui". Sejenak Beliau terdiam lagi sehingga kami menduga bahwa Beliau akan menamakannya bukan dengan namanya (yang sudah kami kenal) ". Beliau bersabda: "Bukankah ini bulan Dzul Hijjah?". Kami menjawab: "Benar". Kemudian Beliau bertanya lagi: "Negeri apakah ini?". Kami menjawab: "Allah dan rasulNya yang lebih mengetahui". Sejenak Beliau kembali terdiam sehingga sekali lagi kamipun menduga bahwa Beliau akan menamakannya bukan dengan namanya (yang sudah kami kenal) ". Beliau bersabda: "Bukankah ini negeri haram?". Kami menjawab: "Benar". Lalu Beliau bersabda: "Sesungguhnya darah kalian, harta-harta kalian haram atas kalian sebagaimana haramnya hari kalian ini, pada bulan kalian ini dan di negeri kalian ini hingga hari kalian berjumpa dengan Rabb kalian. Bukankah aku telah menyampaikannya?". Mereka menjawab: Ya, sudah". Kemudian Beliau melanjutkan: "Ya Allah, saksikanlah. Maka hendaklah yang menyaksikan menyampaikannya kepada yang tidak hadir, karena betapa banyak orang yang disampaikan dapat lebih mengerti dari pada orang yang mendengar. Dan janganlah kalian kembali menjadi kafir sepeninggalku, kalian saling memukul tengkuk kalian satu sama lain (saling membunuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1741</td></tr><tr><td>Arabic No</td><td>1741</td></tr><tr><td>Reference</td><td>Book 25 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, рассказал: «Пророк ﷺ обратился к нам с проповедью в День жертвоприношения, сказав: “Знаете ли вы, какой это день?” Мы сказали: “Аллах и Его Посланник знают об этом лучше”. Он хранил молчание (так долго,) что мы подумали, что он назовёт его как-нибудь иначе, (однако) он спросил: “Разве это не День жертвоприношения?” Мы ответили: “Конечно!” Тогда он спросил: “Какой это месяц?” Мы ответили: “Аллах и Его Посланник знают об этом лучше”. Он хранил молчание (так долго,) что мы подумали, что он назовёт его как-нибудь иначе, (однако) он спросил: “Разве это не зуль-хиджжа?” Мы ответили: “Конечно!” Тогда он спросил: “А что это за город?” Мы ответили: “Аллах и Его Посланник знают об этом лучше”. Он хранил молчание (так долго,) что мы подумали, что он назовёт его как-нибудь иначе, (однако) он спросил: “Разве это не запретный город?” Мы ответили: “Конечно!” Тогда он сказал: “Поистине, ваша жизнь и ваше имущество являются запретными для вас так же, как запретными для вас является этот ваш день, в этом вашем месяце, в этом вашем городе до того дня, когда вы встретите вашего Господа! Довел ли я (до вас)?” Люди ответил: “Да!” Тогда он сказал: “О Аллах! Засвидетельствуй! Пусть присутствующий известит об этом отсутствующего, ибо, поистине, возможно такое, что доносящий донесёт (мои слова) до того, кто усвоит их лучше. И не становитесь после меня неверующими, которые рубят друг другу головы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1741</td></tr><tr><td>Arabic No</td><td>1741</td></tr><tr><td>Reference</td><td>Book 25 Hadith 219</td></tr></tbody></table></div>
 

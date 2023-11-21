@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) performed Tawaf of the Ka'ba and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Amru bin Dinar] dari ['Atho'] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Rasulullah Shallallahu'alaihiwasallam melaksanakan thawaf di Ka'bah Baitullah dan sa'iy antara bukit Shafaa dan Marwah untuk menunjukkan kepada kaum musyrikin kekuatan Beliau". [Al Humaidiy] menambahkan telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru]; aku mendengar ['Atho'] dari [Ibnu 'Abbas radliallahu 'anhuma] seperti ini juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>1649</td></tr><tr><td>Reference</td><td>Book 25 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ ходил вокруг Каабы быстрым шагом и между ас-Сафа и аль-Марва только для того, чтобы показать свою силу многобожникам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>1649</td></tr><tr><td>Reference</td><td>Book 25 Hadith 130</td></tr></tbody></table></div>
 

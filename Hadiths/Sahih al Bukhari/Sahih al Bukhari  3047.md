@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:I asked 'Ali, "Do you have the knowledge of any Divine Insp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Zuhair] telah bercerita kepada kami [Muthorrif] bahwa ['Amir] bercerita kepada mereka dari [Abu Juhaifah radliallahu 'anhu] berkata, aku bertanya kepada ['Ali Radliallahu 'anhu]; "Apakah kalian menyimpan wahyu lain selain yang ada pada Kitab Allah?". Dia menjawab; "Tidak. Demi Dzat Yang Menumbuhkan butir tumbuh-tumbuhan dan Yang Menciptakan jiwa, aku tidak mengetahuinya kecuali pemahaman yang Allah berikan kepada seseorang tentang Al Qur'an dan apa yang ada pada shahifah (manuskrip) ini". Aku bertanya; "Apa yang dimaksud dengan shahifah itu?". Dia menajwab; "Membayar diat, membebaskan tawanan, dan jangan sampai seorang muslim terbunuh oleh orang kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3047</td></tr><tr><td>Arabic No</td><td>3047</td></tr><tr><td>Reference</td><td>Book 56 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа, да будет доволен им Аллах, сказал: «(Однажды) я спросил ‘Али, да будет доволен им Аллах: “(Знаете ли) вы что-нибудь об откровениях помимо тех, что содержатся в Книге Аллаха?” (‘Али) ответил: “Нет, клянусь Тем, Кто расщепляет зёрна и создаёт души, я об этом ничего не знаю, но мы обладаем пониманием Корана, даруемым Аллахом человеку, (и есть у нас то, что написано) на этом листе”. Я спросил: “А что (написано) на этом листе?” Он сказал: “(То, что следует выплачивать) виру за кровь, освобождать пленных и не убивать мусульманина за неверного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3047</td></tr><tr><td>Arabic No</td><td>3047</td></tr><tr><td>Reference</td><td>Book 56 Hadith 253</td></tr></tbody></table></div>
 

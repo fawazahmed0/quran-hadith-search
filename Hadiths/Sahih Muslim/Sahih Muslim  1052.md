@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Apostle of Allah (ﷺ) used to be brief and perfect in prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Khalaf bin Hisyam] dan [Abu ar-Rabi' az-Zahrani] keduanya berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Abdul Aziz bin Shuhaib] dari [Anas] bahwa Nabi shallallahu'alaihiwasallam meringkas shalat dan menyempurnakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1052</td></tr><tr><td>Arabic No</td><td>469.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Обычно) Пророк ﷺ проводил (общую) молитву недолго, но делал это наилучшим образом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1052</td></tr><tr><td>Arabic No</td><td>469.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 214</td></tr></tbody></table></div>
 

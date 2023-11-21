@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported that Allah's Apostle (ﷺ) commanded 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Hakam] dan [Ibrahim bin Dinar] dan [Abdul Jabbar bin 'Ala'] dan ini adalah lafadz Bisyr, mereka berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Humaid Al A'raj] dari [Sulaiman bin 'Atiq] dari [Jabir], bahwa Nabi shallallahu 'alaihi wasallam memerintahkan menetapkan pengurangan harga sesuai kadar kerusakan yang ada." Abu Ishaq berkata, "Dia adalah temannya Muslim." Telah menceritakan kepada kami Abdurrahman bin Bisyr dari Sufyan seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3980</td></tr><tr><td>Arabic No</td><td>1554.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3980</td></tr><tr><td>Arabic No</td><td>1554.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 19</td></tr></tbody></table></div>
 

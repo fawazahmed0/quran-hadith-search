@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) ordered me or somebody else to do Ruqya (if th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dia berkata; telah menceritakan kepadaku [Ma'bad bin Khalid] dia berkata; saya mendengar [Abdullah bin Syaddad] dari [Aisyah] radliallahu 'anha dia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami supaya meruqyah orang yang terkena penyakit 'ain (gangguan sihir)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5738</td></tr><tr><td>Arabic No</td><td>5738</td></tr><tr><td>Reference</td><td>Book 76 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ велел мне (или: велел) читать заговор от дурного глаза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5738</td></tr><tr><td>Arabic No</td><td>5738</td></tr><tr><td>Reference</td><td>Book 76 Hadith 53</td></tr></tbody></table></div>
 

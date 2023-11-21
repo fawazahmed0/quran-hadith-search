@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The Messenger of Allah (ﷺ) said to us: I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Nabhan] seorang budak yang ingin membebaskan dirinya milik Ummu Salamah, ia berkata, "Aku pernah mendengar [Ummu Salamah] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah berkata kepada kami: "Apabila salah seorang di antara kalian memiliki budak mukatab dan budak tersebut memiliki sesuatu yang dapat ia bayarkan, maka hendaknya ia memasang hijab darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3928</td></tr><tr><td>Arabic No</td><td>3928</td></tr><tr><td>Reference</td><td>Book 31 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Набхана, мукатиба Умм Салямы: «Я слышал, как Умм Саляма, да будет доволен ею Аллах, говорила: “Посланник Аллаха ﷺ сказал нам: “Если у одной из вас есть раб, договорившийся о выкупе, и у него достаточно имущества, чтобы выплатить свой выкуп, пусть она закрывается от него””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3928</td></tr><tr><td>Arabic No</td><td>3928</td></tr><tr><td>Reference</td><td>Book 31 Hadith 3</td></tr></tbody></table></div>
 

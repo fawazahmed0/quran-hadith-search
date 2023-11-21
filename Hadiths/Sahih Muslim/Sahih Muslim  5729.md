@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported I had a maternal uncle who treated the sting of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Sa'id Al Asyaj] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata; "Seorang laki-laki dari keluarga kami digigit kalajengking. Dan Nabi shallallahu 'alaihi wasallam melarang telah melarang mantera. Kemudian orang itu menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata; 'Ya, Rasulullah! engkau telah melarang mantera, sedangkan aku bisa mengobati dengan mantera dari gigitan kalajengking. 'Jawab beliau: 'Siapa yang sanggup di antara kalian menolong saudaranya, hendaklah dilakukannya.' Dan telah menceritakannya kepada kami ['Utsman bin Abu Syaibah] dia berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5729</td></tr><tr><td>Arabic No</td><td>2199.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5729</td></tr><tr><td>Arabic No</td><td>2199.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 83</td></tr></tbody></table></div>
 

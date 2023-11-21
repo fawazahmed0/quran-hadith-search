@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Maymunah ibn Sa'd: I said: Messenger of Allah, tell us the legal injunc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Miskin] dari [Sa'id bin Abdul Aziz] dari [Ziyad bin Abu Saudah] dari [Maimunah, mantan sahaya Nabi shallallahu 'alaihi wasallam] bahwasanya dia pernah berkata; Wahai Rasulullah, berilah fatwa kepada kami tentang Baitul Maqdis. Maka beliau bersabda: "Datangilah ia dan shalatlah di dalamnya, -ketika itu di negeri tersebut terdapat peperangan-, jika kalian tidak dapat shalat di dalamnya, maka utuslah seseorang dengan minyak untuk dinyalakan di tempat-tempat lampunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>457</td></tr><tr><td>Arabic No</td><td>457</td></tr><tr><td>Reference</td><td>Book 2 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Маймуна, вольноотпущенница Пророка ﷺ сказала: «О Посланник Аллаха, вынеси для нас решение /фатва/ относительно (посещения) “Байт аль-Макъдис”». Он ответил: «(Можете) ходить туда и молиться в нем», и в то время он являлся ещё территорией войны: «А если вы не сможете отправиться туда и совершать молитву, то отправляйте туда масло для ламп (этой мечети)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>457</td></tr><tr><td>Arabic No</td><td>457</td></tr><tr><td>Reference</td><td>Book 2 Hadith 67</td></tr></tbody></table></div>
 

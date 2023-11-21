@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Ibnu Musayyab] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya seorang wanita bagaikan tulang rusuk, jika kamu meluruskannnya, niscaya akan patah, jika kamu membiarkannya, maka kamu dapat bersenang-senang dengannya namun tetap bengkok." Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Abd bin Humaid] keduanya dari [Ya'qub bin Ibrahim bin Sa'ad] dari [anak saudaraku yaitu Az Zuhri] dari [pamannya] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3650</td></tr><tr><td>Arabic No</td><td>1470.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3650</td></tr><tr><td>Arabic No</td><td>1470.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 83</td></tr></tbody></table></div>
 

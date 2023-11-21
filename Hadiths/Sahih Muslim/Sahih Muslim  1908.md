@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) : Abou Wâ'il a dit : Un 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] semuanya dari [Waki'] - [Abu Bakar] berkata- telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Abu Wa'il] ia berkata; Seorang laki-laki yang namanya Nahik bin Sinan mendatangi [Abdullah] dan berkata, "Wahai Abu Abdurrrahman, bagaimana Anda membaca huruf ini, dengan huruf Alif ataukah Yaa', yaitu: "MIN MAA'IN GHAIRI 'AASIN" ataukah, "MIN MAA'IN GHARI YAASIN." Maka Abdullah menjawab, "Apakah setiap Al Qur'an telah kamu hitung selain ini?" Nahik berkata lagi, "Sesungguhnya aku benar-benar telah membaca Al Mufashshal dalam satu raka'at." Abdullah berkata, "Cepatnya beliau membaca adalah seperti cepatnya membaca sya'ir. Ada suatu kaum yang membaca Al Qur'an, namun bacaan mereka tidak sampai melewati batas tenggorokan. Bacaan yang terpatri di dalam hati dan menancap kuat di dalamnya, baru akan bermanfaat. Bagian shalat yang paling utama adalah ruku' dan sujud. Aku benar-benar telah mengetahui An Nazha'ir (surat-surat yang hampir sama baik panjangnya atau pun maknanya), yang mana Rasulullah shallallahu 'alaihi wasallam membacanya pada setiap raka'at." Kemudian Abdullah berdiri, lalu masuklah Alqamah ke belakang kemudian keluar dan berkata, "Ia telah mengabarkannya kepadaku." Ibnu Numair berkata dalam riwayatnya; Seorang laki-laki dari Bani Bajilah datang kepada Abdullah." Ia tidak menyebutkan Nahik bin Sinan. Dan telah menceritakan kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Wa'il] ia berkata; "Seorang laki-laki yang bernama Nahik bin Sinan datang kepada [Abdullah]." Yakni serupa dengan haditsnya Waki', hanya saja ia menyebutkan; Kemudian datanglah Alqamah untuk menemui Abdullah, maka kami pun berkata kepadanya, "Tanyakanlah padanya tentang An Nazha'ir (surat-surat yang hampir sama baik panjangnya atau pun maknanya) dimana Rasulullah shallallahu 'alaihi wasallam telah membacanya dalam satu raka'at." Lalu ia pun masuk menemuinya dan bertanya kepadanya. Sesudah itu, ia keluar dan berkata, "Yaitu dua puluh surat dari Al Mufashshal dalam Ta'lifnya Abdullah. Dan telah meceritakannya kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] Telah menceritakan kepada kami [Al A'masy] dalam isnad ini sebagaimana hadits keduanya. Dan ia menyebutkan; Sungguh, saya benar-benar telah mengetahui An Nazha'ir (surat-surat yang hampir sama baik panjangnya atau pun maknanya) yang telah dibaca oleh Rasulullah shallallahu 'alaihi wasallam dua surat dalam satu raka'at, yakni dua puluh surat dalam sepuluh raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1908</td></tr><tr><td>Arabic No</td><td>822.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 336</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ваиль сказал: «(Однажды) человек по имени Нахик ибн Синан пришёл к ‘Абдуллаху и сказал: “О Абу ‘Абдуррахман, как ты читаешь эту букву (в аяте Корана)? Ты считаешь, что это «алиф» или «йа»: «мин маъин гайри асинин» или же «мин маъин гайри йасинин»?” ‘Абдуллах воскликнул: “Ты усвоил весь Коран, кроме этого (места)?!”, тот сказал: “Я прочитываю (суры) муфассаля в одном рак‘ате”. ‘Абдуллах сказал: “(Значит), ты читаешь очень быстро, как читают стихи. Некоторые люди читают Коран (таким образом,) что он не проходит дальше их глоток, однако когда (смыслы Корана) западают в сердце и укрепляются в нём, то приносят пользу. Поистине, наилучшими действиями в молитве являются поясные и земные поклоны. Поистине, я знаю близкие (по длине) суры, которые Посланник Аллаха ﷺ читал парами в каждом рак‘ате”. После этого ‘Абдуллах встал (и зашёл домой), а ‘Алькама зашёл вслед за ним, затем он вышел и сказал: “Он поведал мне о них (сурах)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1908</td></tr><tr><td>Arabic No</td><td>822.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 336</td></tr></tbody></table></div>
 

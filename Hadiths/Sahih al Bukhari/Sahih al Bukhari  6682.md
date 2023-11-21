@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "(The following are) two word
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Muhammad bin Fudhail] telah menceritakan kepada kami ['Umarah bin Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah] menuturkan; Rasulullah Shallallahu'alaihiwasallam bersabda: "Ada dua kalimat yang ringan di lisan, berat di timbangan, dan disukai Arrahman, Subhanallah wabihamdihi dan Subhaanallahul 'azhiim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6682</td></tr><tr><td>Arabic No</td><td>6682</td></tr><tr><td>Reference</td><td>Book 83 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Есть два слова, которые легки для языка, на Весах они будут тяжелы и которые любит Милостивый. (Это слова): “Пречист Аллах и хвала Ему, пречист Аллах Великий! /Субхана-Ллахи ва би-хамди-хи, субхана-Ллахи-ль-‘Азым/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6682</td></tr><tr><td>Arabic No</td><td>6682</td></tr><tr><td>Reference</td><td>Book 83 Hadith 59</td></tr></tbody></table></div>
 

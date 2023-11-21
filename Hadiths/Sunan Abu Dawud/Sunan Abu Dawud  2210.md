@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Tamimah al-Hujayni: A man said to his wife: O my younger sister! The Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Abu Kamil], telah menceritakan kepada kami [Abdul Wahid] serta [Khalid Ath Thahhan] secara makna, dari [Khalid] dari [Abu Tamimah Al Hujaimi] bahwa seorang laki-laki berkata kepada isternya; wahai saudari kecilku! Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah ia saudarimu?" beliau tidak senang kepada hal tersebut, dan beliau melarang melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2210</td></tr><tr><td>Arabic No</td><td>2210</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Тамимы аль-Худжайми, что один мужчина сказал жене: «Сестрица!» Посланник Аллаха ﷺ сказал: «Разве она тебе сестра?» И он дал понять, что это нежелательно, и запретил говорить подобное
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2210</td></tr><tr><td>Arabic No</td><td>2210</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b Malik reported that Allah's Messenger (ﷺ) was presented a garment of su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Yunus bin Muhammad]; Telah menceritakan kepada kami [Syaiban] dari [Qatadah]; Telah menceritakan kepada kami [Anas bin Malik] bahwa suatu ketika Rasulullah shallallahu 'alaihi wasallam diberi hadiah selendang yang terbuat dari sutera tipis, -padahal beliau telah melarang tentang sutera.- lalu orang-orang pun merasa kagum dengan selendang tersebut. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di tanganNya, sungguh sapu tangan Sa'ad di surge lebih baik dari kain ini." Telah menceritakannya kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Salim bin Nuh]; Telah menceritakan kepada kami ['Umar bin 'Amir] dari [Qatadah] dari [Anas] bahwa Ukaidir Daumatul Jandal memberi hadiah pakaian sutera kepada Rasulullah shallallahu 'alaihi wasallam. -Kemudian Anas menyebutkan Hadits yang serupa.- namun di dalamnya dia tidak menyebutkan lafazh; 'padahal Rasulullah shallallahu 'alaihi wasallam telah melarang sutera
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6351</td></tr><tr><td>Arabic No</td><td>2469.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6351</td></tr><tr><td>Arabic No</td><td>2469.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 181</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Khansa’ daughter of Khidham al-Ansariyyah reports that when her father married
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik], dari [Abdurrahman bin Al Qasim], dari [ayahnya] dari [Abdurrahman] dan [Mujammi'], keduanya adalah anak Yazid Al Anshari dari [Khansa' binti Khidzam Al Anshariyyah], bahwa ayahnya telah menikahkannya sementara ia adalah seorang janda, kemudian ia tidak menyukai hal tersebut, lalu datang kepada Rasulullah shallallahu 'alaihi wasallam dan menceritakan hal tersebut kepada beliau. Maka beliau menolak pernikahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хансы бинт Хизам аль-Ансарийя, да будет доволен ею Аллах, что она побывала замужем, а потом отец снова выдал её замуж без её согласия. Ей не понравилось это, и она пришла к Посланнику Аллаха ﷺ и рассказала ему обо всём, и он объявил её брак недействительным
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
 

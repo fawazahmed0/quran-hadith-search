@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Umm Salama that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid Al Azdi] telah menceritakan kepada kami [Hammam bin Yahya] telah menceritakan kepada kami [Qatadah] dari [Al Hasan] dari [Dlabbah bin Mihshan] dari [Ummu Salamah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan datang para penguasa, kalian mengenal mereka namun kalian mengingkari (perbuatan mereka), siapa yang tahu (kemungkarannya) hendaklah berlepas diri, dan barangsiapa mengingkari maka ia telah selamat. Tetapi bagai yang ridla dan mengikuti, para sahabat langsung menyelah, "Bagaimana jika kiat perangi saja?" beliau menjawab: "Tidak! Selama mereka masih shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4800</td></tr><tr><td>Arabic No</td><td>1854.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4800</td></tr><tr><td>Arabic No</td><td>1854.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 97</td></tr></tbody></table></div>
 

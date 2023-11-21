@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A bowl of water was brought to the Prophet (ﷺ) while he was at A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ibnu Abu 'Adiy] dari [Sa'id] dari [Qatadah] dari [Anas radliallahu 'anhu] berkata; "Kepada Nabi shallallahu 'alaihi wasallam disodorkan sebuah bejana air saat itu beliau sedang berada di Zaura' (dekat pasar di Madinah) lalu beliau meletakkan tangan beliau di atas bejana tersebut maka memancarlah air dari sela-sela jari beliau lalu orang-orang berwudlu'". Qatadah berkata; "Aku bertanya kepada Anas: "Saat itu berapa orang jumlah kalian?". Anas menjawab; "Tiga ratus orang atau kurang lebih tiga ratus orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3572</td></tr><tr><td>Arabic No</td><td>3572</td></tr><tr><td>Reference</td><td>Book 61 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анас, да будет доволен им Аллах, сказал: «(Как-то раз, когда) Пророк ﷺ находился в аз-Зауре, ему принесли сосуд (с водой). Он опустил в него руку, (после чего) вода забила меж его пальцами ключом и (все) люди(, находившиеся там, смогли) совершить омовение».\nКатада сказал: «Я спросил Анаса: “И сколько же вас было?” Он сказал: “Триста (или: около трёхсот)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3572</td></tr><tr><td>Arabic No</td><td>3572</td></tr><tr><td>Reference</td><td>Book 61 Hadith 81</td></tr></tbody></table></div>
 

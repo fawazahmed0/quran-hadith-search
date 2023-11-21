@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit bin Ad-Dahhak:(who was one of the companions who gave the pledge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Utsman bin Umar] telah menceritakan kepada kami [Ali bin Mubarrak] dari [Yahya bin Abu Katsir] dari [Abu Qilabah] bahwa [Tsabit bin Adl Dlahak] -dan dia termasuk dari Ashabus Syajarah (ikut serta dalam baiatur ridlwan) - dia menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dengan agama selain Islam, maka dia bagaikan apa yang dia katakan, anak Adam tidak boleh bernadzar dengan sesuatu yang tidak dia miliki, barangsiapa bunuh diri dengan sesuatu di dunia, maka dia akan disiksa di akhirat dengan sesuatu yang digunakan untuk bunuh diri, barangsiapa melaknat orang mukmin maka ia seperti membunuhnya, barangsiapa menuduh seorang muslim dengan kekafiran maka ia seperti membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>6047</td></tr><tr><td>Reference</td><td>Book 78 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сабита ибн ад-Даххака, да будет доволен им Аллах, который относился к числу тех, кто давал клятву под деревом, что Посланник Аллаха ﷺ сказал: «Поклявшийся не исламом, а иной религией, таковым и является; не следует сыну Адама давать (Аллаху) такие обеты, которых он не в состоянии выполнить; лишившего себя жизни каким-либо предметом в этом мире в День воскресения будут подвергать мучениям с помощью этого же предмета; проклявший верующего (совершил грех), подобный его убийству, и тот, кто обвинил верующего в неверии, (совершил грех,) подобный его убийству»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>6047</td></tr><tr><td>Reference</td><td>Book 78 Hadith 77</td></tr></tbody></table></div>
 

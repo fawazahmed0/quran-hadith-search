@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:'Abdur-Rahman bin 'Auf came to us and Allah's Messenger (ﷺ) esta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas radliallahu 'anhu] berkata, 'Abdurrahman bin 'Auf datang menemui kami lalu Rasulullah shallallahu 'alaihi wasallam mempersaudarakan dia dengan Sa'ad bin Ar-Rabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2293</td></tr><tr><td>Arabic No</td><td>2293</td></tr><tr><td>Reference</td><td>Book 39 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда ‘Абдуррахман ибн ‘Ауф прибыл к нам, Посланник Аллаха ﷺ побратал его с Са‘дом ибн ар-Раби’»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2293</td></tr><tr><td>Arabic No</td><td>2293</td></tr><tr><td>Reference</td><td>Book 39 Hadith 4</td></tr></tbody></table></div>
 

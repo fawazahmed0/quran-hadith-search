@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) prayed one of the 'Isha' prayer i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah menceritakan kepadaku [Salim bin 'Abdullah bin 'Umar] dan [Abu Bakar Ibnu Abu Hatsmah] bahwa ['Abdullah bin 'Umar] berkata, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat 'Isya pada suatu malam di akhir hayatnya. Selesai salam, Nabi shallallahu 'alaihi wasallam berdiri dan berkata, "Tidakkah kalian melihat malam kalian ini? Ketahuilah, sesungguhnya setelah seratus tahun tidak akan ada orang pun di muka bumi ini yang tersisa dari mereka yang hadir pada malam ini." Kemudian orang-orang mengalami kerancuan dalam memahami pernyataan Rasulullah shallallahu 'alaihi wasallam tersebut hingga mereka memperbincangkannya, yakni apa yang maksud dengan seratus tahun tersebut?" 'Abdullah bin 'Umar berkata, "Sesungguhnya maksud sabda Nabi, 'Tidak akan ada orang yang tersisa di atas bumi ini' adalah berakhirnya generasi tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>601</td></tr><tr><td>Arabic No</td><td>601</td></tr><tr><td>Reference</td><td>Book 9 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды, уже) в конце своей жизни, Пророк ﷺ совершил с нами вечернюю молитву. И когда он произнёс (в конце её) слова таслима, Пророк ﷺ поднялся и сказал: “Понимаете ли вы, что это за ночь? Поистине, через сто лет (после этой ночи) не останется на земле ни одного из живущих на ней сегодня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>601</td></tr><tr><td>Arabic No</td><td>601</td></tr><tr><td>Reference</td><td>Book 9 Hadith 76</td></tr></tbody></table></div>
 

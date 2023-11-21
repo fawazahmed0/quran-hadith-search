@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:Allah's Messenger (ﷺ) came out at midday and offered a tw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Abu Juhaifah] berkata, "Rasulullah shallallahu 'alaihi wasallam keluar saat terik matahari. Kemudian beliau melaksanakan shalat Zhuhur dan 'Ashar dua rakaat dua rakaat di Bathha'. Sementara dihadapannya ditancapkan sebuah tongkat. Ketika beliau berwudlu, maka orang-orang mengusapkan bekas air wudlunya (ke badan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 8 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа сказал: «(Однажды) в полдень, Посланник Аллаха ﷺ вышел и совершил в Батхаъ полуденную и послеполуденную молитвы, и перед ним была установлена палка с заостренным концом. Он совершил омовение, а люди стали обтираться той водой, которая (осталась от) его омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 8 Hadith 148</td></tr></tbody></table></div>
 

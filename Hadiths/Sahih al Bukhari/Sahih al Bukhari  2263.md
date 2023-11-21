@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) and Abu Bakr employed a (pagan) man from the t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] dari [Az Zuhriy] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha]: Nabi shallallahu 'alaihi wasallam dan Abu Bakar menyewa seorang dari suku Ad-Dil kemudian dari suku 'Abdi bin 'Adiy sebagai petunjuk jalan dan yang mahir menguasai seluk beluk perjalanan yang sebelumnya dia telah diambil sumpahnya pada keluarga Al 'Ash bin Wa'il dan masih memeluk agama kafir Quraisy. Maka keduanya mempercayakan kepadanya perjalanan keduanya lalu keduanya meminta kepadanya untuk singgah di gua Tsur setelah perjalanan tiga malam. Lalu orang itu meneruskan perjalanan keduanya waktu shubuh malam ketiga, maka keduanya melanjutkan perjalanan dan berangkat pula bersama keduanya 'Amir bin Fuhairah dan petunjuk jalan suku Ad-Diliy tersebut. Maka petunjuk jalan tersebut mengambil jalan dari belakang kota Makkah yaitu menyusuri jalan laut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2263</td></tr><tr><td>Arabic No</td><td>2263</td></tr><tr><td>Reference</td><td>Book 37 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ и Абу Бакр наняли человека из рода бану ‘абд ибн ‘ади из племени бану ад-дил в качестве проводника, который являлся союзником семейства аль-‘Аса ибн Ваиля ас-Сахми и исповедовал религию курайшитских язычников. Пророк ﷺ и Абу Бакр доверились ему и отдали ему своих верблюдиц, взяв с него обещание привести их к пещере на горе Саур через три дня. Утром, через три дня он привёл к ним их верблюдов, и они отправились в путь в сопровождении ‘Амира ибн Фухейры и проводника [из бану] ад-дил, который повёл их из нижней части Мекки по дороге, идущей вдоль берега моря»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2263</td></tr><tr><td>Arabic No</td><td>2263</td></tr><tr><td>Reference</td><td>Book 37 Hadith 4</td></tr></tbody></table></div>
 

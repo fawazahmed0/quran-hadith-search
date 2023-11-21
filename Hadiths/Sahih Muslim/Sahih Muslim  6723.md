@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair Al Mahdani] dan lafazh ini miliknya; Telah menceritakan kepada kami [Bapakku] dan [Abu Mu'awiyah] dan [Waki'] mereka berkata; Telah menceritakan kepada kami [Al A'masy] dari [Zaid bin Wahb] dari ['Abdullah] dia berkata; Telah menceritakan kepada kami Rasulullah shallallahu 'alaihi wasallam yaitu -Ash Shadiq Al Mashduq-(seorang yang jujur menyampaikan dan berita yang disampaikannya adalah benar): 'Sesungguhnya seorang manusia mulai diciptakan dalam perut ibunya setelah diproses selama empat puluh hari. Kemudian menjadi segumpal daging pada empat puluh hari berikutnya. Lalu menjadi segumpal daging pada empat puluh hari berikutnya. Setelah empat puluh hari berikutnya, Allah pun mengutus seorang malaikat untuk menghembuskan ruh ke dalam dirinya dan diperintahkan untuk menulis empat hal; rezekinya, ajalnya, amalnya, dan sengsara atau bahagianya.' Demi Allah yang tiada Tuhan selain Dia, sungguh ada seseorang darimu yang mengerjakan amal perbuatan ahli surga, hingga jarak antara dirinya dan surga hanyalah satu hasta, namun suratan takdir rupanya ditetapkan baginya hingga ia mengerjakan amal perbuatan ahli neraka dan akhirnya ia pun masuk neraka. Ada pula orang yang mengerjakan amal perbuatan ahli neraka, hingga jarak antara ia dan neraka hanya satu hasta, namun suratan takdir rupanya ditetapkan baginya hingga kemudian ia mengerjakan amal perbuatan ahli surga dan akhirnya ia pun masuk surga.' Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] keduanya dari [Jarir bin 'Abdul Hamid]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Isa bin Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Abu Sa'id Al Asyaj]; Telah menceritakan kepada kami [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah bin Hajjaj] seluruhnya dari [Al A'masy] melalui jalur ini, dia berkata di dalam Hadits Waki'; sesungguhnya penciptaan salah seorang dari kalian dimulai dari perut ibunya selama empat puluh malam. Dan di sebutkan di dalam Hadits Mu'adz dari Syu'bah empat puluh malam, kemudian empat puluh hari. Sedangkan di dalam Hadits Jarir, empat puluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6723</td></tr><tr><td>Arabic No</td><td>2643.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (Абдуллах) ибн Мас‘уд, да будет доволен им Аллах, сказал: «Правдивый и достойный доверия Посланник Аллаха ﷺ рассказал нам: “Поистине, каждый из вас (сначала) формируется во чреве своей матери в течение сорока дней в виде капли, затем он столько же пребывает (там) в виде сгустка крови и ещё столько же в виде кусочка плоти, а затем Аллах направляет ангела, который вдыхает в него дух и получает веление записать четыре (вещи): его удел, его срок, его дела, а также то, злосчастным он будет или счастливым. И клянусь Тем, помимо кого нет иного бога, (достойного поклонения), любой из вас (может) совершать дела обитателей Рая до тех пор, пока между ним и Раем не останется (расстояние) всего лишь в (одну) локоть, и тогда сбудется записанное ему (на роду), и он станет совершать дела обитателей Огня и войдёт в (Огонь). И, поистине, (точно также) любой из вас (может) совершать дела обитателей Огня, пока не окажется от Огня на расстоянии всего лишь (одного) локтя, и тогда сбудется записанное ему (на роду), и он станет совершать дела обитателей Рая и войдёт (в Рай)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6723</td></tr><tr><td>Arabic No</td><td>2643.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 1</td></tr></tbody></table></div>
 

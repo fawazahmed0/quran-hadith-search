@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Wa'il b. Hujr reported:He saw the Messenger of Allah (ﷺ) raising his hands at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Muhammad bin Juhadah] telah menceritakan kepadaku [Abdul Jabbar bin Wail] dari [Alqamah bin Wail] dan [maula milik mereka] bahwa keduanya telah menceritakannya dari [bapaknya, Wail bin Hujr] "Bahwasanya dia melihat Nabi shallallahu 'alaihi wasallam mengangkat kedua tangannya ketika masuk shalat, bertakbir." Hammam menggambarkannya, "Di hadapan kedua telinganya, kemudian melipatnya pada bajunya kemudian meletakkan tangan kanannya di atas tangan kirinya. Ketika dia ingin rukuk, maka beliau mengeluarkan kedua tangannya dari bajunya, kemudian mengangkat keduanya, kemudian bertakbir, lalu rukuk. Ketika beliau mengucapkan, 'Samiallahu Liman Hamidahu' maka beliau mengangkat kedua tangannya. Ketika beliau sujud, maka beliau sujud di antara kedua telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>401</td></tr><tr><td>Reference</td><td>Book 4 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ваиль ибн Худжр передал, что он видел, как, приступив к молитве, Пророк ﷺ поднял руки, произнёс слова «Аллаху акбар», потом закутался в свою одежду, а потом возложил правую руку на левую. Намереваясь совершить поясной поклон, он высвободил руки и поднял их, а потом произнёс слова «Аллаху акбар» и совершил поясной поклон. Поднимая руки (после поясного поклона), он говорил: “Да услышит Аллах тех, кто воздал Ему хвалу” /Сами‘а-Ллаху ли-ман хамида-ху/, а во время совершения земного поклона (голова Пророка ﷺ) находилась меж его ладонями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>401</td></tr><tr><td>Reference</td><td>Book 4 Hadith 58</td></tr></tbody></table></div>
 

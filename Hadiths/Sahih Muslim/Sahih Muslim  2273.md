@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messsenger (ﷺ) as saying:No Sadaqa is due from a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] ia berkata, saya telah membacakan kepada [Malik] dari [Abdullah bin Dinar] dari [Sulaiman bin Yasar] dari [Irak bin Malik] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: " Seorang muslim tidak wajib menzakati hamba sahaya dan kudanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Мусульманин не обязан выплачивать закят ни с раба, ни с коня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
 

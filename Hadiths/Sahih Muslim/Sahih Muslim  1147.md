@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Apostle of Allah (ﷺ) said prayer at night and I was by his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] [Zuhair] berkata, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Thalhah bin Yahya] dari [Ubaidullah bin Abdullah] dia berkata, "Saya mendengarnya dari [Aisyah] radhiyallahu'anhu, dia berkata, "Dahulu Nabi Shallallahu'alaihiwasallam shalat pada sebagian malam, sedangkan aku berada di sampingnya dalam keadaan haid, aku sedang memakai baju wool dan beliau terkena sebagian kainnya di sampingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1147</td></tr><tr><td>Arabic No</td><td>514</td></tr><tr><td>Reference</td><td>Book 4 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Пророк ﷺ молился ночью, а я была рядом с ним в то время, когда у меня была менструация. Я была одета в свой мирт, и на нём была часть его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1147</td></tr><tr><td>Arabic No</td><td>514</td></tr><tr><td>Reference</td><td>Book 4 Hadith 309</td></tr></tbody></table></div>
 

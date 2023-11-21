@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Zaid b. Khalid al-Juhani that the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Abu At Thahir], Abu At Thahir berkata; telah mengabarkan kepada kami Wahb, dan Sa'id berkata; telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Amru bin Al Harits] dari [Bukair bin Al Asyaj] dari [Busr bin Sa'id] dari [Zaid bin Khalid Al Juhani] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa menyiapkan perlengkapan perang untuk orang yang akan berjuang di jalan Allah, berarti dia ikut berperang. Barangsiapa mengurusi keluarga yang ditinggalkan orang yang pergi berperang, berarti dia telah berperang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4902</td></tr><tr><td>Arabic No</td><td>1895.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4902</td></tr><tr><td>Arabic No</td><td>1895.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 198</td></tr></tbody></table></div>
 

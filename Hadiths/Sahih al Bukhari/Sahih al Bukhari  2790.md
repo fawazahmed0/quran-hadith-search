@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever believes in Allah and His 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Shalih] telah bercerita kepada kami [Fulaih] dari [Hilal bin 'Ali] dari ['Atha' bin asar] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang beriman kepada Allah, menegakkan shalat, berpuasa bulan ramadhan, maka sudah pasti Allah akan memasukkannya kedalam surga, baik apakah dia berjihad di jalan Allah atau dia hanya duduk tinggal di tempat di mana dia dilahirkan". Mereka bertanya: "Wahai Rasulullah, apakah tidak sebaiknya kami sampaikan berita gembira ini kepada orang-orang?" Beliau bersabda: "Sesungguhnya di surga itu ada seratus derajat (kedudukan) yang Allah menyediakannya buat para mujahid di jalan Allah dimana jarak antara dua derajat seperti jarak antara langit dan bumi. Untuk itu bila kalian minta kepada Allah maka mintalah surga firdaus karena dia adalah tengahnya surga dan yang paling tinggi. Aku pernah diperlihatkan bahwa diatas firdaus itu adalah singgasanannya Allah Yang Maha Pemurah dimana darinya mengalir sungai-sungai surga". Berkata [Muhammad bin Fulaih] dari [bapaknya]: "Diatasnya adalah singgasanannya Allah Yang Maha Pemurah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2790</td></tr><tr><td>Arabic No</td><td>2790</td></tr><tr><td>Reference</td><td>Book 56 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто уверует в Аллаха и его Посланника, станет выстаивать молитву и держать пост в месяц рамадан, то Аллах берёт на себя обязанность ввести его в Рай, независимо от того, сражался (такой человек) на пути Аллаха или оставался на той земле, где он родился». Сподвижники сказали: «О Посланник Аллаха, не порадовать ли нам людей этой вестью?» (На это Пророк ﷺ) сказал: «Поистине, в Раю есть сто степеней, которые Аллах уготовил для муджахидов (воинов) на пути Его, и между каждыми двумя степенями расстояние, подобное расстоянию между небом и землёй. Если вы просите Аллаха, то просите у Него Фирдаус, потому что это центральная и самая возвышенная часть Рая. Над ним располагается Трон Всемилостивого, и из него вытекают райские реки».Мухаммад ибн Фулейх передаёт от своего отца: «И над ним располагается Трон Всемилостивого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2790</td></tr><tr><td>Arabic No</td><td>2790</td></tr><tr><td>Reference</td><td>Book 56 Hadith 8</td></tr></tbody></table></div>
 

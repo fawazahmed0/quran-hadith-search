@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A group of eight men from the tribe of 'Ukil came to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Mu'allaa bin Asad] telah bercerita kepada kami [Wuhaib] dari [Ayyub] dari [Abu Qilabah] dari [Anas bin Malik radliallahu 'anhu] bahwa; Ada rambongan pasukan berjumlah sekitar delapan orang yang menghadap Nabi shallallahu 'alaihi wasallam lalu mereka terkena penyakit yang sedang mewabah di Madinah. Mereka berkata: "Wahai Rasulullah, bantulah kami untuk mendapatkan susu unta". Beliau berkata: "Aku tidak dapat membantu kalian kecuali jika kalian memberikan sekitar tiga sampai sepuluh ekor unta". Maka mereka berangkat mencarinya lalu mereka meminum air seni unta-unta itu dan susunya hingga mereka menjadi sehat dan menjadi gemuk-gemuk, Kemudian mereka membunuh pengembala unta itu dan mencuri unta-unta tadi serta mereka kembali menjadi kafir setelah Islam. Maka Beliau mengutus orang untuk mencari mereka dan akhirnya sebelum matahari meninggi pada siang hari itu mereka didatangkan. Maka tangan-tangan dan kaki-kaki mereka dipotong lalu Beliau memerintahkan untuk membawa paku yang dipanaskan lalu mereka dipaku dengannya dan dijemur dibawah panas terik hingga mereka meminta minum namun tidak diberi hingga mereka mati. Abu Qilabah berkata: "Mereka telah membunuh dan mencuri serta memerangi Allah dan Rosul-Nya shallallahu 'alaihi wasallam dan telah berbuat kerusakan di muka bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3018</td></tr><tr><td>Arabic No</td><td>3018</td></tr><tr><td>Reference</td><td>Book 56 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(В своё время) группа из восьми человек из племени ‘укль приехала к Пророку ﷺ в Медину, где они почувствовали недомогание из-за её климата. Они сказали: “О Посланник Аллаха! Найди для нас молока!” Пророк ﷺ сказал: “Вы можете пойти к верблюдам”. Они отправились (куда им было сказано) и пили там мочу и молоко (дойных верблюдиц). Выздоровев и поправившись, они убили пастуха и угнали (весь) скот, проявив неверие после того, как они были мусульманами. Когда до Пророка ﷺ дошёл крик (пастуха), он отправил за ними (погоню), и ещё до того, как солнце поднялось высоко, их привели. Пророк ﷺ велел отрубить им руки и ноги, а затем приказал нагреть гвозди и выжить им глаза. Их бросили на Харре (каменистая земля в Медине), где они просили напоить их, но никто не дал им воды, пока они не умерли».Абу Кыляба (, который передал этот хадис,) сказал: «(Эти люди) убили, своровали, стали воевать с Аллахом и Его Посланником ﷺ и распространяли нечестие на земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3018</td></tr><tr><td>Arabic No</td><td>3018</td></tr><tr><td>Reference</td><td>Book 56 Hadith 227</td></tr></tbody></table></div>
 

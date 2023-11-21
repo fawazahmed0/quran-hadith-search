@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:The people of Banu Tamim came to Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Ali] Telah menceritakan kepada kami [Abu Ashim] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Abu Shakhrah Jami' bin Syudad] Telah menceritakan kepada kami [Shafwan bin Muhriz Al Mazini] Telah menceritakan kepada kami ['Imran bin Hushain] dia berkata; "Sekelompok orang dari Bani Tamim datang menemui Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: 'Terimalah kabar gembira wahai Bani Tamim.' Mereka menjawab; 'Anda telah memberikan kabar gembira kepada kami, oleh karena itu berikanlah sesuatu kepada kami.' Maka muka Rasulullah shallallahu 'alaihi wasallam berubah, tidak lama kemudian serombongan dari penduduk Yaman datang kepada beliau, maka beliau bersabda: "Terimalah kabar gembira, karena Bani Tamim tidak mau menerimanya!" Mereka berkata; "Ya Rasulullah, kami telah menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4386</td></tr><tr><td>Arabic No</td><td>4386</td></tr><tr><td>Reference</td><td>Book 64 Hadith 409</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн сказал: «(Однажды) к Посланнику Аллаха ﷺ пришли несколько человек из (племени) бану тамим, и он сказал: “О бану тамим, радуйтесь благой вести!” Они сказали: “Ты порадовал нас, а теперь дай нам (что-нибудь)”, и (, услышав это,) Посланник Аллаха ﷺ изменился в лице. А потом к нему явились люди из Йемена, и Пророк ﷺ сказал (им): “Примите радостную весть вы, ибо (люди из племени) бану тамим отвергли её!” — и они сказали: “Мы принимаем (её) о Посланник Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4386</td></tr><tr><td>Arabic No</td><td>4386</td></tr><tr><td>Reference</td><td>Book 64 Hadith 409</td></tr></tbody></table></div>
 

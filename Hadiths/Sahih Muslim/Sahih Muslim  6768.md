@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the mother of the believers, reported that a child died and I said:There
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Thalhah bin Yahya] dari [bibinya, 'Aisyah binti Thalhah] dari ['Aisyah ummul Mu'minin] dia berkata; "Pada suatu ketika, Rasulullah shallallahu 'alaihi wasallam pernah diundang untuk melayat jenazah seorang bayi dari kaum Anshar. Kemudian saya (Aisyah) berkata kepada beliau; 'Ya Rasulullah, sungguh berbahagia bayi kecil ini! Ia seperti seekor burung dari sekian burung surga yang belum pernah berbuat dosa dan belum pernah ternodai oleh dosa.' Mendengar pernyataan tersebut, Rasulullah shallallahu 'alaihi wasallam bersabda: 'Mungkin juga tidak seperti itu hai Aisyah. Sebenarnya Allah telah menciptakan orang-orang yang akan menjadi penghuni surga ketika mereka masih berada dalam tulang rusuk (sulbi) bapak-bapak mereka. Dan sebaliknya, Allah pun telah menciptakan orang-orang yang akan menjadi penghuni neraka ketika mereka masih berada dalam tulang rusuk bapak-bapak mereka.' Telah menceritakan kepada kami [Muhammad bin Ash Shabbah] telah menceritakan kepada kami [Isma'il bin Zakaria] dari [Thalhah bin Yahya] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Sulaiman bin Ma'bad] telah menceritakan kepada kami [Al Husain bin Hafsh] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Muhammad bin Yusuf] keduanya dari [Sufyan Ats Tsauri] dari [Thalhah bin Yahya] dengan sanad Waki' seperti haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6768</td></tr><tr><td>Arabic No</td><td>2662.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных ‘Аиша сказала: «(Однажды) Посланника Аллаха ﷺ позвали на похороны скончавшегося мальчика (сына) одного из ансаров. Я сказала: “О Посланник Аллаха, этому воробушку из числа райских воробушек уготована Туба! Он не совершил зла, и оно не добралось до него”. Тогда он сказал: “А мо­жет быть другое, о ‘Аи­ша! По­ис­ти­не, Ал­лах соз­дал оби­та­те­лей для Рая, ко­гда они ещё на­хо­ди­лись в чрес­лах сво­их от­цов, и соз­дал оби­та­те­лей для Ог­ня, ко­гда они ещё на­хо­ди­лись в чрес­лах сво­их от­цов!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6768</td></tr><tr><td>Arabic No</td><td>2662.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 46</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Wahb:I passed by (visited ) Abu Dhar at Ar-Rabadha and said to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Hushain] dari [Zaid bin Wahb] dia berkata; Aku melewati [Abu Dzar] ketika dia berada di Rabadzah. Maka aku bertanya kepadanya; Apa yang menyebabkan kamu berada di sini? Dia menjawab; Ketika aku berada di Syam, aku membaca ayat; Dan orang-orang yang menyimpan emas dan perak dan tidak menafkahkannya pada jalan Allah, maka beritahukanlah kepada mereka, (bahwa mereka akan mendapat) siksa yang pedih. (At Taubah: 34). Mu'awiyah berkata; Ayat ini bukan berkenaan dengan kita, tetapi ayat ini berkenaan dengan Ahlu kitab. Abu Dzar berkata; maka aku katakan kepadanya bahwa ayat ini berkenaan dengan kita dan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4660</td></tr><tr><td>Arabic No</td><td>4660</td></tr><tr><td>Reference</td><td>Book 65 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Уахб рассказывал: «Проезжая мимо Рабазы, я встретил Абу Зарра, да будет доволен им Аллах, и спросил его: “Почему ты поселился здесь?” Он ответил: “Когда я находился в Шаме, я прочитал: “Обрадуй же тех, которые накапливают золото и серебро и не расходуют их на пути Аллаха, мучительными страданиями”. И Муавия сказал: “Они были ниспосланы не о нас, а в отношении людей Писания”. Я сказал: “Они были ниспосланы в отношении нас и них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4660</td></tr><tr><td>Arabic No</td><td>4660</td></tr><tr><td>Reference</td><td>Book 65 Hadith 182</td></tr></tbody></table></div>
 

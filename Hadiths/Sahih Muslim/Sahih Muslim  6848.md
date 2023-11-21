@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'sab b. Sa'd reported on the authority of his father that a desert Arab came t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami ['Ali bin Mushir] dan [Ibnu Numair] dari [Musa Al Juhani] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] -dan lafadh ini miliknya- Telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Musa Al Juhani] dari [Mush'ab bin Sa'd] dari [Bapaknya] dia berkata; "Pada suatu hari seorang Arab badui datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; 'Ya Rasulullah, ajarkanlah kepada saya suatu bacaan yang layak untuk saya baca! ' Rasulullah shallallahu 'alaihi wasallam berkata: 'Ucapkanlah, Laa ilaaha illallaahu wahdahuu laa syarikalah. Allaahu Akbaar kabiiran walhamdulillaahi katsiiran. Subhaanallahi Rabbil 'aalamiin. Laa haula walaa quwwataa Illa billaahil 'aziizil hakim. (Tiada tuhan selain Allah, Yang Maha Esa, tidak ada sekutu bagi-Nya. Allah Maha Besar, segala puji bagi-Nya. Maha Suci Allah, Tuhan alam semesta. Tiada daya dan kekuatan kecuali dengan pertolongan Allah Yang Maha Perkasa dan Maha Bijaksana). Orang Arab badui itu berkata; 'Ya Rasulullah, itukan bacaan yang ditujukan untuk Allah, lalu apa bacaan untuk diri saya? ' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Allaahummaghfir lii warhamnii wahdinii warzuqnii'. (Ya Allah, ampunilah aku, kasihanilah aku, tunjukkanlah aku, dan anugerahkanlah aku rizki). Musa Al Juhani berkata; 'Saya meragukan kata-kata "Aafini" dan tidak tahu asal-usulnya.' Namun Ibnu Abu Syaibah di dalam Haditsnya tidak menyebutkan perkataan Abu Musa ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6848</td></tr><tr><td>Arabic No</td><td>2696</td></tr><tr><td>Reference</td><td>Book 48 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6848</td></tr><tr><td>Arabic No</td><td>2696</td></tr><tr><td>Reference</td><td>Book 48 Hadith 43</td></tr></tbody></table></div>
 

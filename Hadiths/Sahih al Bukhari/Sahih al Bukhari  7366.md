@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the time of the death of the Prophet (ﷺ) approached w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] dari [Azzuhri] dari ['Ubaidullah bin Abdullah] dari [Ibn Abbas] berkata, "Dikala Nabi shallallahu 'alaihi wasallam menjelang wafat, yang ketika itu di rumah nabi ada beberapa pemuka yang diantaranya Ummar bin Khattab, beliau berkata: 'Kesinilah, saya tuliskan untuk kalian tulisan yang sekali-kali kalian tidak bisa sesat selama-lamanya.' Umar berkata, 'Nabi shallallahu 'alaihi wasallam menderita kesakitan dan di sisi kalian ada alquran, maka cukuplah bagi kita kitabullah.' Ahlul bait menjadi berselisih dan bersengketa, di antaranya ada yang berkata 'Tolong kalian mendekatlah sehingga Rasulullah Shallallahu'alaihiwasallam bisa menuliskan tulisan untuk kalian yang sekali-kali kalian tak akan tersesat selama-lamanya.' Di antara mereka ada yang berpendapat sebagaimana ucapan Umar. Tatkala suara mereka semakin gaduh dan perselisihan semakin kencang di sisi Nabi shallallahu 'alaihi wasallam, Nabi berkata: 'Menyingkirlah kalian dariku! ' Ubaidullah berkata, 'Ibn Abbas berkata, 'Bencana dari segala bencana adalah yang menghalangi Rasulullah Shallallahu'alaihiwasallam untuk menulis catatan bagi mereka, karena mereka berselisih dan membuat kegaduhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7366</td></tr><tr><td>Arabic No</td><td>7366</td></tr><tr><td>Reference</td><td>Book 96 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Когда к Пророку ﷺ приблизилась смерть, в доме находились мужчины, среди которых был ‘Умар ибн аль-Хаттаб, и Пророк ﷺ сказал: «Подойдите, и я запишу то, благодаря чему впоследствии вы никогда не собьётесь с пути». ‘Умар сказал: «Поистине, Пророк ﷺ сломлен болезнью! У вас же есть Коран! Нам достаточно Книги Аллаха!” Присутствовавшие в доме разошлись во мнении и стали спорить друг с другом. Некоторые из них говорили: «Принесите (бумагу), пусть Пророк ﷺ напишет для вас то, благодаря чему вы не собьётесь». Некоторые стали высказывать мнение ‘Умара. Когда шума и полемики стало слишком много возле Пророка ﷺ он сказал: “Оставьте меня».\n‘Убейдуллах передал, что ибн ‘Аббас, да будет доволен им Аллах, говорил: «Поистине, вся беда в том, что по причине их шума и полемик, Посланник Аллаха ﷺ не написал им ту бумагу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7366</td></tr><tr><td>Arabic No</td><td>7366</td></tr><tr><td>Reference</td><td>Book 96 Hadith 93</td></tr></tbody></table></div>
 

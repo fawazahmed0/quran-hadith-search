@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:On the day of Al-Khandaq (i.e. Trench), the Prophet (ﷺ) said '(L
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 64 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал в день (битвы) Хандак: «Да наполнит Аллах их дома и могилы огнём! Они удержали нас от совершения средней молитвы до заката солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 64 Hadith 155</td></tr></tbody></table></div>
 

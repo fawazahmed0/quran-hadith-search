@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There was a merchant who used to l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Yahya bin Hamzah] telah menceritakan kepada kami [Az Zubaidiy] dari [Az Zuhriy] dari ['Ubaidullah bin 'Abdullah] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada seorang pedagang yang memberi pinjaman kepada manusia sehingga jika ia melihat mereka dalam kesulitan dia berkata, kepada para pembantunya: "Berilah dia tempo hingga mendapatkan kemudahan semoga Allah memudahkan urusan kita. Maka kemudianAllah memudahkan urusan pedagang tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2078</td></tr><tr><td>Arabic No</td><td>2078</td></tr><tr><td>Reference</td><td>Book 34 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Когда-то) жил купец, который давал людям взаймы. И когда он видел должника, испытывающего затруднения, он говорил своим слугам: “Простите ему (долг), может быть Аллах простит нас!” И Аллах простил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2078</td></tr><tr><td>Arabic No</td><td>2078</td></tr><tr><td>Reference</td><td>Book 34 Hadith 31</td></tr></tbody></table></div>
 

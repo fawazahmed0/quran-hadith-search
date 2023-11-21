@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yusuf ibn Abdullah ibn Salam: I saw that the Prophet (ﷺ) took a piece
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] dari [Muhammad bin Abu Yahya] dari [Yazid Al A'war] dari [Yusuf bin Abdullah bin Salam] ia berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam mengambil pecahan roti yang terbuat dari gandum lalu meletakkan kurma di atasnya, dan beliau bersabda: 'Kurma ini adalah lauk untuk roti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3830</td></tr><tr><td>Arabic No</td><td>3830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Юсуф ибн ‘Абдуллах ибн Салям, да будет доволен Аллах им и его отцом, передаёт: «Я видел, как Пророк ﷺ взял кусок ячменного хлеба, положил на него финик и сказал: “Это приправа к этому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3830</td></tr><tr><td>Arabic No</td><td>3830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 95</td></tr></tbody></table></div>
 

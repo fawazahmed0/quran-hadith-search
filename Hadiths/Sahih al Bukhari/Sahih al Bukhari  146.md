@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The wives of the Prophet (ﷺ) used to go to Al-Manasi, a vast o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] dari [Urwah] dari ['Aisyah], bahwa jika isteri-isteri Nabi shallallahu 'alaihi wasallam ingin buang hajat, mereka keluar pada waktu malam menuju tempat buang hajat yang berupa tanah lapang dan terbuka. Umar pernah berkata kepada Nabi shallallahu 'alaihi wasallam, "Hijabilah isteri-isteri Tuan." Namun Nabi shallallahu 'alaihi wasallam tidak melakukannya. Lalu pada suatu malam waktu Isya' Saudah binti Zam'ah, isteri Nabi shallallahu 'alaihi wasallam, keluar (untuk buang hajat). Dan Saudah adalah seorang wanita yang berpostur tinggi. 'Umar lalu berseru kepadanya, "Sungguh kami telah mengenalmu wahai Saudah! ' Umar ucapkan demikian karena sangat antusias agar ayat hijab diturunkan. Maka Allah kemudian menurunkan ayat hijab." Telah menceritakan kepada kami [Zakaria] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah telah mengizinkan kalian (isteri-isteri Nabi) keluar untuk menunaikan hajat kalian." Hisyam berkata, "Yakni buang air besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 4 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что обычно для удовлетворения большой нужды жёны Пророка ﷺ выходили по ночам на аль-Манаси‘ − обширное открытое место (близ кладбища аль-Баки‘ в Медине). Что же касается ‘Умара, то он часто говорил Пророку ﷺ: «Заставляй своих жён надевать покрывала», однако Посланник Аллаха ﷺ не делал этого. Однажды вечером жена Пророка ﷺ Сауда бинт Зам‘а, которая была высокой женщиной, вышла из дома, а ‘Умар обратился к ней(, сказав): «Поистине, мы узнали тебя, о Сауда!» (Он сделал это,) желая, чтобы было ниспослано (откровение о необходимости ношения) покрывала, и Аллах действительно ниспослал (такой) аят
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 4 Hadith 12</td></tr></tbody></table></div>
 

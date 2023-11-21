@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported:The Messenger of Allah (may peace be npon him) said: We have b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Muhammad bin Fudhail] dari [Abu Malik al-Asyja'i] dari [Rib'i] dari [Hudzaifah] dia berkata, "Rasulullah shallallahu'alaihiwasallam bersabda, 'Kami diberi keutamaan atas manusia lainnya dengan tiga hal: pertama, Shaf kami dijadikan sebagaimana shaf para malaikat. Kedua, bumi dijadikan untuk kami semuanya sebagai masjid. Ketiga, dan debunya dijadikan suci untuk kami apabila kami tidak mendapatkan air.' Dan beliau menyebutkan karakter lainnya." Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala] telah mengabarkan kepada kami [Ibnu Abi Zaidah] dari [Sa'd bin Thariq] telah menceritakan kepadaku [Rib'i bin Hirasy] dari [Hudzaifah] dia berkata, Rasulullah shallallahu'alaihiwasallam bersabda semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1165</td></tr><tr><td>Arabic No</td><td>522.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хузейфы, что Посланник Аллаха ﷺ сказал: «Нам было дано превосходство над (другими) людьми (посредством) трёх (особенностей): наши ряды (в молитве) были сделаны подобно рядам ангелов; и вся земля сделана для нас местом совершения молитв, а почва её пригодной для очищения тогда, когда мы не можем найти воду». Также он упомянул ещё одну (особенность)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1165</td></tr><tr><td>Arabic No</td><td>522.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
 

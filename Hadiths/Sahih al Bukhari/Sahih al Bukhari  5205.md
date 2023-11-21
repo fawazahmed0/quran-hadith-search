@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:An Ansari woman gave her daughter in marriage and the hair of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] Telah menceritakan kepada kami [Ibrahim bin Nafi'] dari [Al Hasan bin Muslim] dari [Shafiyyah] dari [Aisyah] bahwa seorang wanita Anshar menikahkan anak perempuannya, lalu rambut anak itu merontok. Maka wanita itu pun segera mendatangi Nabi shallallahu 'alaihi wasallam dan mengadukan hal itu, ia berkata, "Suaminya menyuruhku untuk menyambung rambutnya." Maka beliau bersabda: "Tidak. Sesungguhnya Allah telah melaknat Al Muwashilaat (para wanita yang menyambung rambutnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5205</td></tr><tr><td>Arabic No</td><td>5205</td></tr><tr><td>Reference</td><td>Book 67 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши о том, что как-то одна женщина из числа ансаров выдала замуж свою дочь, но (вскоре) её волосы выпали (вследствие болезни). Она пришла к Пророку ﷺ и рассказала ему о случившемся, сказав: “Поистине, её муж велел мне подвязать ей (чужие) волосы”. (Пророк ﷺ) ответил: “Нет, ибо те, которым подвязывают (накладные волосы) прокляты!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5205</td></tr><tr><td>Arabic No</td><td>5205</td></tr><tr><td>Reference</td><td>Book 67 Hadith 139</td></tr></tbody></table></div>
 

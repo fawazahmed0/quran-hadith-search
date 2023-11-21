@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Buhaina al-Asadi, the ally of Abual-Muttalib, reported:The Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [al-Laits] dari [Ibnu Syihab] dari [al-A'raj] dari [Abdullah bin Buhainah al-Asdi yaitu kawan yang telah bersumpah setia dengan Bani Abdul Muththalib], "Bahwa Rasulullah shallallahu'alaihiwasallam pernah shalat Zhuhur, dalam shalat itu beliau langsung berdiri, padahal seharusnya duduk (tasyahud awal). Maka ketika shalat telah cukup (empat raka'at), maka beliau bersujud dua kali dengan membaca takbir setiap kali sujud, yaitu ketika duduk sebelum salam. Orang-orang ikut pula sujud bersama-sama dengan beliau, yaitu pengganti tasyahud awal yang terlupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>570.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн Бухайна аль-Асди, который был союзником бану ‘абдульмутталиб, сказал, что однажды Посланник Аллаха ﷺ, совершая молитву зухр, встал, (не посидев после двух рак‘атов). И когда он закончил молитву, он совершил сидя два земных поклона, произнося такбир при каждом поклоне, до произнесения таслима. Люди тоже совершили два земных поклона вместо сидения, которое он забыл
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>570.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 108</td></tr></tbody></table></div>
 

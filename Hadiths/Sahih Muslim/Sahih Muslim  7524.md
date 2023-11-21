@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah, the Exalted and Glorious, sent revelation to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Muhammad bin Bukair An Naqid], [Al Hasan bin Ali Al Hulwani] dan [Abdu bin Humaid] berkata Abdu: telah menceritakan kepadaku, sementara yang lain berkata: Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Shalih bin Kaisan] dari [Ibnu Syihab] berkata: Telah mengkhabarkan kepadaku [Anas bin Malik] bahwa Allah 'azza wajalla menyempurnakan wahyu atas Rasulullah Shallallahu 'alaihi wa Salam sebelum beliau wafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7524</td></tr><tr><td>Arabic No</td><td>3016</td></tr><tr><td>Reference</td><td>Book 56 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7524</td></tr><tr><td>Arabic No</td><td>3016</td></tr><tr><td>Reference</td><td>Book 56 Hadith 2</td></tr></tbody></table></div>
 

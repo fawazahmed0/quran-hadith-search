@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "The example of a M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan seorang mujahid di jalan Allah, dan hanya Allah yang paling tahu siapa yang berjihad di jalan-Nya, seperti seorang yang melaksanakan shoum (puasa) dan berdiri (shalat) terus menerus. Dan Allah berjanji kepada mujahid di jalan-Nya, dimana bila Dia mewafatkannya maka akan dimasukkannya ke surga atau bila Dia mengembalikannya dalam keadaan selamat dia akan pulang dengan membawa pahala atau ghonimah (harta rampasan perang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2787</td></tr><tr><td>Arabic No</td><td>2787</td></tr><tr><td>Reference</td><td>Book 56 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2787</td></tr><tr><td>Arabic No</td><td>2787</td></tr><tr><td>Reference</td><td>Book 56 Hadith 6</td></tr></tbody></table></div>
 

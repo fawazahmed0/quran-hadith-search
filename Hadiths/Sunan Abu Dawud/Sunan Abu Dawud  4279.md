@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Samurah: The Prophet (ﷺ) said: The religion will continue t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Utsman] berkata, telah menceritakan kepada kami [Marwan bin Mu'awiyah] dari [Isma'il] -maksudnya Ismail bin Abu Khalid- dari [Bapaknya] dari [Jabir bin Samurah] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Agama ini akan senantiasa tegak hingga muncul di antara kalian dua belas khalifah, dan manusia akan ikut bersama mereka." Aku mendengar ucapan dari Nabi shallallahu 'alaihi wasallam yang tidak aku mengerti, lalu aku kepada bertanya bapakku tentang apa yang beliau katakan itu, ia (bapakku) menjawab, "Mereka semua (para khalifah) dari bangsa Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4279</td></tr><tr><td>Arabic No</td><td>4279</td></tr><tr><td>Reference</td><td>Book 38 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн Самура, да будет доволен им Аллах, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Эта религия пребудет в благополучии до тех пор, пока не завершится правление двенадцати халифов, вокруг каждого из которых будет собираться мусульманская община”. И я услышал, как Пророк ﷺ сказал что-то ещё, но не понял его слов. Тогда я спросил отца: “Что он говорит?”, и он ответил: “Он сказал, что все они из курайша”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4279</td></tr><tr><td>Arabic No</td><td>4279</td></tr><tr><td>Reference</td><td>Book 38 Hadith 1</td></tr></tbody></table></div>
 

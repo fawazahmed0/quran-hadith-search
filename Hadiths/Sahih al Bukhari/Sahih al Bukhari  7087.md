@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':That he visited Al-Hajjaj (bin Yusuf). Al-Hajjaj sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Hatim] dari [Yazid bin Abi Ubaid] dari [Salamah bin Al Akwa'] bahwasanya ia menemui Al Hajjaj, maka Al Hajjaj berujar; 'Hai Ibnul akwa', apakah engkau berbalik ke belakang dengan cara pindah ke pelosok pedesaan? ' Ibnul akwa' menjawab; 'tidak, namun Rasulullah Shallallahu'alaihiwasallam telah memberiku izin (untuk tinggal) di pelosok pedesaan." Dan dari [Yazid bin Abi Ubaid] mengatakan, tatkala Utsman bin Affan terbunuh, Salamah bin Al Akwa' pergi mengucilkan diri ke Rabdzah dan menikahi wanita disana sampai melahirkan beberapa anak, dan dia terus bermukim di sana sampai beberapa malam sebelum meninggalnya, kemudian tinggal di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7087</td></tr><tr><td>Arabic No</td><td>7087</td></tr><tr><td>Reference</td><td>Book 92 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Саляма ибн аль-Аква‘, да будет доволен им Аллах, передаёт, что, однажды он посетил аль-Хаджжаджа, и тот сказал: «О Ибн аль-Аква‘, неужели ты обратился вспять и отправился жить к бедуинам?!» (Саляма) ответил ему: «Нет, однако Посланник Аллаха ﷺ разрешил жить мне в пустыне». \nЯзид ибн Абу ‘Убайд сказал: «Когда убили ‘Усман ибн ‘Аффана, Саляма ибн аль-Аква‘ отправился в ар-Рабазу и женился там на одной женщине, которая родила ему детей. И он жил там ещё долго, вернувшись в Медину лишь за несколько ночей до своей смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7087</td></tr><tr><td>Arabic No</td><td>7087</td></tr><tr><td>Reference</td><td>Book 92 Hadith 38</td></tr></tbody></table></div>
 

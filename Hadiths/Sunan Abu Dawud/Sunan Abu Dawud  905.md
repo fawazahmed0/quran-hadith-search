@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid b. Khalid al-Juhani reported the Messenger of Allah (ﷺ) as saying:Anyone 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritakan kepada kami [Abdul Malik bin 'Amru] telah menceritakan kepada kami [Hisyam yaitu Ibnu Sa'd] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Zaid bin Khalid Al Juhani] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa berwudlu dan menyempurnakan wudlunya, kemudian shalat dua raka'at, tidak berbuat lalai, maka dosa-dosanya yang telah lalu akan terampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>905</td></tr><tr><td>Arabic No</td><td>905</td></tr><tr><td>Reference</td><td>Book 2 Hadith 515</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Халида аль-Джухани, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто совершил омовение должным образом, после чего совершил молитву в два рак‘ата, не отвлекаясь, тому простятся его предыдущие грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>905</td></tr><tr><td>Arabic No</td><td>905</td></tr><tr><td>Reference</td><td>Book 2 Hadith 515</td></tr></tbody></table></div>
 

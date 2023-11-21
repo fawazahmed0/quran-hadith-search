@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The people used to rent their land for cultivation for one-third,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] telah mengabarkan kepada kami [Al Awza'iy] dari ['Atha'] dari [Jabir radliallahu 'anhu] berkata: "Dahulu orang-orang mempraktekkan pemanfaatan tanah ladang dengan upah sepertiga, seperempat atau setengah maka Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang memiliki tanah ladang hendaklah dia garap untuk bercocok tanam atau dia hibahkan. Jika dia tidak lakukan maka hendaklah dia biarkan tanahnya". Dan berkata, [Ar-Rabi' bin Nafi' Abu Taubah] telah menceritakan kepada kami [Mu'awiyah] dari [Yahya] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang memiliki tanah ladang hendaklah dia garap untuk bercocok tanam atau dia berikan kepada saudaranya (untuk digarap). Jika dia tidak lakukan maka hendaklah dia biarkan tanahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>2340</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>2340</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak ada seorang pun yang terluka dalam perang fi sabilillah -dan Allah lebih mengetahui bagi siapa yang terluka di jalan-Nya- kecuali ia akan datang di hari kiamat kelak dengan luka yang mengucurkan darah berwarna merah dan baunya seperti bau kesturi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>1876.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>1876.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 158</td></tr></tbody></table></div>
 

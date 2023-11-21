@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Two men, a Muslim and a Jew, abused each other. The Muslim 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul 'Aziz bin Abdullah] mengatakan, telah menceritakan kepadaku [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dan [Abdurrahman Al A'raj], keduanya menceritakan kepadanya, bahwa [Abu Hurairah] mengatakan; ada dua orang laki-laki saling mencaci, yang pertama muslim dan yang kedua yahudi, si muslim mengatakan; 'Demi Dzat yang telah memilih Muhammad diatas seluruh manusia.' Si yahudi tak mau kalah mengatakan; 'Demi Dzat yang memilih Musa diatas seluruh manusia.' Kata Abu Hurairah, si muslim kontan murka seketika itu dan menampar si yahudi. Si yahudi kontan mengadukan kasusnya kepada Rasulullah shallallahu'alaihiwasallam, dan memberitahukan seluruh kasusnya bersama si muslim. Rasulullah shallallahu'alaihiwasallam lalu bersabda: "Jangan kalian memilih aku diatas Musa, sebab manusia pada hari kiamat nanti akan pingsan, dan akulah yang pertama-tama siuman, tak tahunya Musa juga telah siuman namun masih lemah disamping arsy, sehingga aku tak tahu apakah Musa diantara yang pingsan lalu siuman sebelumku, ataukah diantara yang Allah kecualikan (tidak pingsan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6517</td></tr><tr><td>Arabic No</td><td>6517</td></tr><tr><td>Reference</td><td>Book 81 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то) раз два человека, один из которых был мусульманином, а другой — иудеем, поругались друг с другом. Мусульманин сказал: “Клянусь Тем, Кто избрал Мухаммада среди всех миров!” А иудей сказал: “Клянусь Тем, Кто избрал Мусу среди всех миров!” В этот момент мусульманин разгневался и ударил иудея по лицу, и тогда иудей пошёл к Посланнику Аллаха ﷺ и рассказал ему о том, что произошло между ним и мусульманином. После чего Пророк ﷺ сказал: “Не отдавайте мне предпочтение перед Мусой, ибо, поистине, в День Воскрешения люди будут поражены, и я приду в себя первым и увижу Мусу, (который будет) держаться за край Трона. И мне неизвестно, будет ли Муса поражён подобно другим и придёт в себя раньше меня, или же он будет среди тех, для кого Аллах сделает исключение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6517</td></tr><tr><td>Arabic No</td><td>6517</td></tr><tr><td>Reference</td><td>Book 81 Hadith 106</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:People say that I narrate too many narrations of the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami ['Utsman bin 'Umar] berkata, telah mengabarkan kepada saya [Ibnu Abu Dza'bi] dari [Sa'id Al Maqburiy] berkata; [Abu Hurairah radliallahu 'anhu] berkata: "Orang-orang mengatakan bahwa Abu Hurairah banyak menyampaikan hadits (dari Rasulullah shallallahu 'alaihi wasallam). Maka aku temui seseorang lalu aku bertanya kepadanya; Surat apa yang dibaca oleh Rasulullah shallallahu 'alaihi wasallam dalam shalat 'Isya' tadi". Orang itu menjawab: "Aku tak tahu". Aku tanyakan lagi: "Bukankah anda ikut shalat? Orang itu menjawab: "Ya benar". Maka aku katakan: "Aku tahu Beliau membaca surah ini dan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1223</td></tr><tr><td>Arabic No</td><td>1223</td></tr><tr><td>Reference</td><td>Book 21 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Люди говорят, что Абу Хурайра рассказывает слишком много хадисов Пророка ﷺ; однажды я встретил одного человека и спросил его: “Какую суру читал Посланник Аллаха ﷺ вчера в вечерней молитве /‘иша/?” Он ответил: “Я не знаю”. Я спросил: “А разве ты не присутствовал на молитве?” Он сказал: “Да, (я присутствовал)”. Тогда я сказал: “Я знаю, он читал такие-то суры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1223</td></tr><tr><td>Arabic No</td><td>1223</td></tr><tr><td>Reference</td><td>Book 21 Hadith 27</td></tr></tbody></table></div>
 

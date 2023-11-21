@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman bin Surd:While I was sitting in the company of the Prophet, tw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3282</td></tr><tr><td>Arabic No</td><td>3282</td></tr><tr><td>Reference</td><td>Book 59 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суляйман ибн Сурад, да будет доволен им Аллах, сказал:\n— (Однажды, когда) я находился в обществе Пророка ﷺ двое людей вступили в перебранку друг с другом, (из-за чего) у одного из них покраснело лицо и вздулись вены на шее. (Увидев это,) Пророк ﷺ сказал: «Поистине, я знаю такие слова, произнеся которые он обязательно успокоился бы. Если бы он сказал: “Прибегаю к защите Аллаха от проклятого шайтана /А‘узу би-Лляхи минаш-шайтанир-раджим/”, то перестал бы гневаться». И ему сказали: «Пророк ﷺ сказал: “Проси защиты Аллаха от проклятого шайтана”», а он воскликнул: «Разве я безумец?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3282</td></tr><tr><td>Arabic No</td><td>3282</td></tr><tr><td>Reference</td><td>Book 59 Hadith 91</td></tr></tbody></table></div>
 

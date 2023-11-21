@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) urinated and Umar was standing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Khalaf bin Hisyam Al Muqri'] mereka berdua berkata; Telah menceritakan kepada kami [Abdullah bin Yahya At Tau'am]. Dan menurut jalur lain; telah menceritakan kepada kami ['Amru bin 'Aun] dia berkata; telah mengabarkan kepada kami [Abu Ya'qub At Tau'am] dari [Abdullah bin Abu Mulaikah] dari [Ibunya] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam buang air kecil, lalu Umar berdiri di belakang beliau dengan membawa wadah air, maka beliau bersabda: "Apa ini wahai Umar?" Umar menjawab; "Air untuk berwudhu." beliau bersabda: "Aku tidak diperintahkan setiap kali selesai buang air kencing untuk berwudhu, dan kalau aku melakukannya, maka ia menjadi amalan sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>42</td></tr><tr><td>Arabic No</td><td>42</td></tr><tr><td>Reference</td><td>Book 1 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Посланник Аллаха ﷺ справлял малую нужду, а ‘Умар встал позади него с кувшином воды. Он сказал: “Что это, о ‘Умар?” Он ответил: “Это вода, чтобы ты совершил ею омовение”. Он сказал: “Мне не велено совершать омовение каждый раз, когда я справляю малую нужду. Если бы я делал это, то оно стало бы Сунной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>42</td></tr><tr><td>Arabic No</td><td>42</td></tr><tr><td>Reference</td><td>Book 1 Hadith 42</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Once the Prophet (ﷺ) asked for a tumbler containing water. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa], bahwa Nabi shallallahu 'alaihi wasallam minta diambilkan bejana berisi air, beliau lalu mencuci kedua tangan dan wajahnya dalam bejana tersebut dan mendoakan keberkahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 4 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что однажды Пророк ﷺ велел принести себе сосуд с водой, вымыл в нём руки и лицо, а затем сплюнул в него воду, которой он полоскал себе рот
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 4 Hadith 62</td></tr></tbody></table></div>
 

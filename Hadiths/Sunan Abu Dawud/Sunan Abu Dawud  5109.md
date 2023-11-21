@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas reported the Messenger of Allah (May peace be upon him) as saying:I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Sahl bin Bakkar] keduanya berkata; telah menceritakan kepada kami [Abu Awanah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] secara makna, dari [Al A'masy] dari [Mujahid] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memohon perlindungan kepada kalian dengan nama Allah maka berilah perlindungan, dan barangsiapa meminta (pemberian) kepada kalian dengan nama Allah maka berilah." - [Sahl] dan [Utsman] menyebutkan; - "Barangsiapa mengundang kalian maka penuhilah undangannya."-Lalu keduanya sepakat pada lafadz- "Barangsiapa datang kepada kalian dengan membawa kebaikan maka balaslah kebaikannya." [Musaddad] dan [Utsman] menyebutkan, "Jika kalian tidak mendapatkan sesuatu (untuk diberikan), maka berdoalah kepada Allah untuknya, hingga mereka tahu bahwa kamu telah membalas mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5109</td></tr><tr><td>Arabic No</td><td>5109</td></tr><tr><td>Reference</td><td>Book 43 Hadith 337</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5109</td></tr><tr><td>Arabic No</td><td>5109</td></tr><tr><td>Reference</td><td>Book 43 Hadith 337</td></tr></tbody></table></div>
 

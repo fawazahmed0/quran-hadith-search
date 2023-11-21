@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Mulaika:Ibn 'Abbas recited: "(Respite will be granted) until wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam] dari [Ibnu Juraij] dia berkata; Aku mendengar [Ibnu Abu Mulaikah] berkata; [Ibnu Abbas radliallahu 'anhuma] berkata mengenai firman Allah: " Sehingga apabila para rasul tidak mempunyai harapan lagi (tentang keimanan mereka) dan telah meyakini bahwa mereka telah didustakan..." (Yusuf; 110). Perlahan-lahan Ibnu Abbas pergi sembil memikirkan ayat itu seraya membaca ayat; Sehingga berkatalah Rasul dan orang-orang yang beriman bersamanya: "Bilakah datangnya pertolongan Allah?" Ingatlah, sesungguhnya pertolongan Allah itu amat dekat". (Al Baqarah: 214). Lalu aku bertemu dengan [Urwah], maka aku sebutkan tentang ayat tersebut kepadanya; dia pun menjawab; [Aisyah] berkata; demi Allah, tidaklah Allah berjanji kepada Rasul-Nya sedikitpun kecuali hal itu akan diketahui olehnya sebelum dia meninggal. Namun ujian demi ujian bagi para Rasul akan senantiasa ada hingga mereka merasa khawatir orang-orang yang bersama mereka akan ada yang mendustakannya. Aisyah seraya membaca; Mereka (para rasul) itu menyangka mereka akan didustakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4525</td></tr><tr><td>Arabic No</td><td>4525</td></tr><tr><td>Reference</td><td>Book 65 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Он сказал: «‘Аиша сказала: “Да упасет Аллах! Клянусь Аллахом, чего бы Аллах не обещал Своему Посланнику, он знал, что это непременно произойдёт до его смерти. Но испытания посланников, продолжались до такой степени, что они начинали думать, что их последователи обвинят их во лжи”. И она читала этот аят “…и полагали, что их сочли лжецами (куззибу)…” с ташдидом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4525</td></tr><tr><td>Arabic No</td><td>4525</td></tr><tr><td>Reference</td><td>Book 65 Hadith 49</td></tr></tbody></table></div>
 

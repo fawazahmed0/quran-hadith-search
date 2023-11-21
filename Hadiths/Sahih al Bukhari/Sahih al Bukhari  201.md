@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) used to take a bath with one Sa' up to five Mudd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Mis'ar] berkata, telah menceritakan kepadaku [Ibnu Jabar] berkata, "Aku mendengar [Anas] berkata, "Nabi shallallahu 'alaihi wasallam membasuh, atau mandi dengan satu sha' hingga lima mud, dan berwudlu dengan satu mud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>201</td></tr><tr><td>Reference</td><td>Book 4 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Обычно Пророк ﷺ купался (или: совершал полное омовение), расходуя на это от одного са‘ до пяти муддов (воды), на частичное же омовение он обычно расходовал (один) мудд (воды)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>201</td></tr><tr><td>Reference</td><td>Book 4 Hadith 67</td></tr></tbody></table></div>
 

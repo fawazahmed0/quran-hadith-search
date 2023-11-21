@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullah Ibn 'Abî 'Awfâ (que Dieu l'agrée), Abou An-Nadr rapporte 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Musa bin Uqbah] dari [Abu An Nadlr], bahwa dia pernah menerima sepucuk surat dari suku Aslam yang bernama [Abdullah bin Abu Aufa] -termasuk salah seorang sahabat Nabi shallallahu 'alaihi wasallam-, maka dia menulis surat kepada Umar bin Ubaidullah ketika ia berangkat untuk memerangi orang-orang Haruriyah, dan memberitahukan kepadanya bahwa, suatu ketika Rasulullah shallallahu 'alaihi wasallam pernah bertemu dengan para musuh, lalu beliau menunggu hingga matahari condong ke arah barat. Setelah itu, beliau berdiri di antara para sahabat seraya bersabda: "Wahai kaum Muslimin, janganlah kalian mengharap bertemu dengan musuh, dan mohonlah kesehatan kepada Allah, namun apabila kalian bertemu dengan mereka maka bersabarlah. Ketahuilah oleh kalian semua, bahwa surga berada di bawah naungan pedang." Kemudian Nabi shallallahu 'alaihi wasallam berdiri sambil bermunajat: "Ya Allah, dzat yang menurunkan Al Qur'an, dzat yang menggerakkan awan, dzat yang dapat mengalahkan pasukan Ahzab, hancurkanlah mereka semua dan berikanlah kemenangan atas kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4542</td></tr><tr><td>Arabic No</td><td>1742.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4542</td></tr><tr><td>Arabic No</td><td>1742.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 23</td></tr></tbody></table></div>
 

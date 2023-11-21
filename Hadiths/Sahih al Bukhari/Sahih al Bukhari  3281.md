@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safiya bint Huyay:While Allah's Messenger (ﷺ) was in I'tikaf, I calle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3281</td></tr><tr><td>Arabic No</td><td>3281</td></tr><tr><td>Reference</td><td>Book 59 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сафийя бинт Хуейй сказала: «(Однажды) ночью я пришла навестить Посланника Аллаха ﷺ, когда он неотлучно находился в мечети. Мы поговорили немного, а потом я поднялась и собралась пойти домой, — а она жила в доме, который впоследствии принадлежал Усаме ибн Зейду, и он встал, чтобы проводить меня. Мимо нас прошли два ансара. Увидев Пророка ﷺ, они ускорили шаг. Пророк ﷺ сказал: “Не спешите! Это ведь Сафийя бинт Хуейй!” Они воскликнули: “Пречист Аллах, о Посланник Аллаха!” Он сказал: “Поистине, шайтан передвигается внутри человека подобно крови, и, поистине, я побоялся, что он сможет заронить в ваши сердца что-нибудь (дурное)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3281</td></tr><tr><td>Arabic No</td><td>3281</td></tr><tr><td>Reference</td><td>Book 59 Hadith 90</td></tr></tbody></table></div>
 

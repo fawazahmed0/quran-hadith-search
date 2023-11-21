@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hurairah (ra):Allah's Messenger (ﷺ) mentioned a person from Bani 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6261</td></tr><tr><td>Arabic No</td><td>6261</td></tr><tr><td>Reference</td><td>Book 79 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ упомянул, что один человек из числа израильтян взял доску, выдолбил в ней углубление и вложил туда тысячу динаров с запиской своему товарищу. Пророк ﷺ сказал: «Он выдолбил углубление в доске, положил деньги внутрь и написал ему записку: “От такого-то такому-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6261</td></tr><tr><td>Arabic No</td><td>6261</td></tr><tr><td>Reference</td><td>Book 79 Hadith 35</td></tr></tbody></table></div>
 

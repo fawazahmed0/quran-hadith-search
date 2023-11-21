@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Um 'Atiyya added:The Prophet (ﷺ) said, "She should not use perfume except when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5343</td></tr><tr><td>Arabic No</td><td>5343</td></tr><tr><td>Reference</td><td>Book 68 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа сказала: «Пророк ﷺ так же сказал: “Она не должна умащаться благовониями, и только после очищения от менструации она может воспользоваться благовониями “куст” и “азфар””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5343</td></tr><tr><td>Arabic No</td><td>5343</td></tr><tr><td>Reference</td><td>Book 68 Hadith 88</td></tr></tbody></table></div>
 

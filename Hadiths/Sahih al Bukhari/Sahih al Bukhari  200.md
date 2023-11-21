@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit:Anas said, "The Prophet (ﷺ) asked for water and a tumbler with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah mengabarkan kepada kami [Hammad] dari [Tsabit] dari [Anas bin Malik], bahwa Nabi shallallahu 'alaihi wasallam minta untuk diambilkan bejana berisi air kepada orang-orang, maka diberikanlah satu bejana besar dan beliau meletakkan tangannya ke dalam bejana tersebut." Anas berkata, 'Aku sengaja memperhatikan air yang keluar dari selah-selah jari beliau." Anas melanjutkan, "Aku menduga bahwa orang-orang yang berwudlu saat itu berjumlah antara tujuh puluh hingga delapan puluh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>200</td></tr><tr><td>Reference</td><td>Book 4 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что (однажды) Пророк ﷺ велел принести ему сосуд с водой, и ему принесли широкую, но неглубокую чашу в которой было немного воды, и он погрузил в неё свои пальцы. Анас сказал: «И я стал смотреть на воду, которая начала бить меж пальцев его ключом». Анас сказал: «И я думаю, что количество совершивших омовение (этой водой) составляло от семидесяти до восьмидесяти (человек)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>200</td></tr><tr><td>Reference</td><td>Book 4 Hadith 66</td></tr></tbody></table></div>
 

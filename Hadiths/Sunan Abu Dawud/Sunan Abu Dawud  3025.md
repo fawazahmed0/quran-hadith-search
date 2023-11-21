@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: Wahb said: I asked Jabir about the condition of Tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ash Shabbah], telah menceritakan kepada kami [Isma'il bin Abdul Karim], telah menceritakan kepadaku [Ibrahim bin 'Aqil bin Munabbih], dari [ayahnya], dari [Wahb], ia berkata; aku bertanya kepada [Jabir], mengenai kondisi Tsaqif ketika berbai'at. Ia berkata; mereka mensyaratkan kepada Nabi shallallahu 'alaihi wasallam bahwa tidak ada kewajiban bersedekah atas mereka dan tidak pula wajib berjihad. Dan Jabir mendengar Nabi shallallahu 'alaihi wasallam setelah itu berkata: "Mereka akan bersedekah dan berjihad apabila mereka masuk Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3025</td></tr><tr><td>Arabic No</td><td>3025</td></tr><tr><td>Reference</td><td>Book 20 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Вахба: «Я спросил Джабира о сакыфитах и их присяге, и он сказал: “Они поставили Пророку ﷺ условие о том, что не будут выплачивать закят и сражаться на пути Аллаха, и я слышал, как Пророк ﷺ сказал: “Когда они примут ислам, они начнут выплачивать закят и сражаться на пути Аллаха””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3025</td></tr><tr><td>Arabic No</td><td>3025</td></tr><tr><td>Reference</td><td>Book 20 Hadith 98</td></tr></tbody></table></div>
 

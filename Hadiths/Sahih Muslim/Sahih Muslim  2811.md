@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) reported that the Talbiya of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma, bahwa Talbiyah Rasulullah shallallahu 'alaihi wasallam adalah: "LABBAIKA ALLAHUMMA LABBAIKA LAA SYARIIKA LAKA LABBAIKA INNAL HAMDA WAN NI'MATA LAKA WAL MULKA LAA SYARIIKA LAKA (Kupatuhi perintah-Mu ya Allah, kupatuhi Engkau. Kupatuhi Engkau, Kupatuhi Engkau, tiada sekutu bagi-Mu. Kupatuhi Engkau, sesungguhnya segala pujian dan kenikmatan adalah milik-Mu, begitu pula kekuasaan, tiada sekutu bagi-Mu)." Nafi' berkata; Abdullah bin Umar radliallahu 'anhuma menambahkan Talibiyah tersebut dengan bacaan: "LABBAIKA LABBAIKA WA SA'DAIKA WAL KHAIRU BIYADIKA LABBAIKA WARRAGHBAA'U ILAIKA WAL'AMAL (Aku penuhi panggilan-Mu, ya Allah untuk mencari ridla-Mu. Kebaikan ada dalam kekuasaan-Mu. Aku penuhi panggilan-Mu, ya Allah, sebagai amal ibadah untuk mencari ridla-Mu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811</td></tr><tr><td>Arabic No</td><td>1184.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811</td></tr><tr><td>Arabic No</td><td>1184.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 21</td></tr></tbody></table></div>
 

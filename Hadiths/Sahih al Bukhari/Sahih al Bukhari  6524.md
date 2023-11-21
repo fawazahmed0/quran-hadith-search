@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "You will meet Allah barefooted, nak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan], [Amru] mengatakan; aku mendengar [Sa'id bin Jubair], aku mendengar [Ibnu 'Abbas], aku mendengar Nabi shallallahu 'alaihi wasallam bersabda; "Kalian bertemu Allah dalam keadaan tidak beralas kaki, telanjang, berjalan, dan tidak dikhitan.' Kata Sufyan, hadits ini kami anggap Ibnu Abbas mendengarnya dari Nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6524</td></tr><tr><td>Arabic No</td><td>6524</td></tr><tr><td>Reference</td><td>Book 81 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ сказал: «Поистине, (в День суда) вы встретите Аллаха босыми, нагими, идущими пешком и необрезанными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6524</td></tr><tr><td>Arabic No</td><td>6524</td></tr><tr><td>Reference</td><td>Book 81 Hadith 113</td></tr></tbody></table></div>
 

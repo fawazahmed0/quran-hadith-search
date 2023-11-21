@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu As-Safar:I heard Ibn 'Abbas saying, "O people! Listen to what I say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad Al Ju'fi] telah menceritakan kepada kami [Sufyan] telah mengabarkan kepada kami [Mutharrif] aku mendengar [Abu as Safar] berkata, aku mendengar [Ibnu 'Abbas] radliallahu 'anhuma berkata; "Wahai manuisa, dengarkanlah apa yang akan aku katakan kepada kalian dan perdengarkanlah apa yang akan kalian katakan kepadaku dan janganlah kalian pergi lalu mengatakan Ibnu 'Abbas telah berkata, Ibnu 'Abbas telah berkata. Barang siapa yang thawaf mengelilingi Ka'bah di Baitullah hendaklah dilakukan dari belakang Hijir, dan janganlah kalian katakan al Hathim, karena dahulu ada seseorang di zaman jahiliyyah bersumpah dengan cara melempar cambuk, sandal atau busur panahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3848</td></tr><tr><td>Arabic No</td><td>3848</td></tr><tr><td>Reference</td><td>Book 63 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «О люди! (Внимательно) слушайте то, что я вам говорю, а потом повторяйте мне то, что вы запомнили (из моих слов). И не уходите (пока не поймёте должным образом), говоря: “Ибн ‘Аббас сказал то-то и то-то, Ибн ‘Аббас сказал то-то и то-то”. Совершающий обход (таваф) вокруг Каабы, должен совершать его за “аль-хиджром”, и не называйте его “аль-Хатымом” (разгромленный), ибо когда человек клялся во времена джахилийи возле него, он бросал свой хлыст, сандалий или лук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3848</td></tr><tr><td>Arabic No</td><td>3848</td></tr><tr><td>Reference</td><td>Book 63 Hadith 73</td></tr></tbody></table></div>
 

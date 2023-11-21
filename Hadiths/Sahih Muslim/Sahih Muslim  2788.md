@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Allah's Messenger (ﷺ) used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Kamil Al Jahdari] keduanya dari [Abdul Wahid bin Ziyad] - [Qutaibah] berkata- Telah menceritakan kepada kami [Abdul Wahid] dari [Al Hasan bin Ubaidullah] ia berkata, saya mendengar [Ibrahim] berkata; saya mendengar [Al Aswad bin Yazid] berkata, [Aisyah] berkata; "Pada sepuluh terakhir bulan Ramadlan Rasulullah shallallahu 'alaihi wasallam lebih giat beribadah melebihi hari-hari selainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2788</td></tr><tr><td>Arabic No</td><td>1175</td></tr><tr><td>Reference</td><td>Book 14 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:«В последние десять дней (рамадана) Посланник Аллаха ﷺ проявлял больше усердия (в делах поклонения), чем в (другие его дни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2788</td></tr><tr><td>Arabic No</td><td>1175</td></tr><tr><td>Reference</td><td>Book 14 Hadith 9</td></tr></tbody></table></div>
 

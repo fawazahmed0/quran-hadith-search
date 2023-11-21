@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "A Muslim is the one who avo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zakaria] dari [Amir] mengatakan, aku mendengar [Abdullah bin Amru] mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Muslim yang sempurna adalah yang muslim lainnya selamat dari gangguan lidah dan tangannya. Dan orang yang berhijrah adalah orang yang meninggalkan apa yang Allah larang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>6484</td></tr><tr><td>Reference</td><td>Book 81 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Мусульманин — это тот, кто не причиняет (другим) мусульманам вреда своим языком и своими руками. А мухаджиром (переселенцем) является тот, кто оставил (совершать), то, что запретил Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>6484</td></tr><tr><td>Reference</td><td>Book 81 Hadith 73</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abi Asha'sha:Hudhaifa said, 'In fact, it was hypocrisy that existed in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad] telah menceritakan kepada kami [Mis'ar] dari [Habib bin Abi Tsabit] dari [Abu Sya'sya'] dari [Khudzaifah] mengatakan; 'Kemunafikan itu terjadi dimasa Nabi shallallahu 'alaihi wasallam, adapun yang terjadi hari ini adalah kekufuran setelah keimanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7114</td></tr><tr><td>Arabic No</td><td>7114</td></tr><tr><td>Reference</td><td>Book 92 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа ибн аль-Яман, да будет доволен им Аллах, сказал: «Поистине, во времена Пророка ﷺ существовало лицемерие, а сегодня является неверием после веры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7114</td></tr><tr><td>Arabic No</td><td>7114</td></tr><tr><td>Reference</td><td>Book 92 Hadith 61</td></tr></tbody></table></div>
 

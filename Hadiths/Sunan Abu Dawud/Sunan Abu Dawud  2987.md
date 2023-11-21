@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Al Hakam or Duba’ah daughters of Al Zibair bin ‘Abd Al Muttalib said “
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Abdullah bin Wahb], telah menceritakan kepadaku ['Ayyasy bin 'Uqbah Al Hadhrami], dari [Al Fadhl bin Al Hasan Adh Dhamri], bahwa [Ummu Al Hakam atau Dhuba'ah] dua anak wanita Az Zubair bin Abdul Muththalib telah menceritakan kepadanya dari salah seorang dari mereka berdua bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam telah mendapatkan tawanan perang, kemudian aku pergi bersama saudariku dan Fathimah binti Rasulullah shallallahu 'alaihi wasallam. Kemudian kami mengeluhkan kepada beliau apa yang kami alami, dan kami meminta beliau agar memerintahkan agar kami diberi sebagian tawanan tersebut. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian telah didahului anak-anak yatim Badr. Akan tetapi akan aku tunjukkan kepada kalian sesuatu yang lebih baik bagi kalian daripada hal tersebut. Kalian bertakbir kepada Allah setiap selesai sholat sebanyak tiga puluh tiga kali, bertasbih tiga puluh tiga kali, bertahmid tiga puluh tiga kali, dan LAA ILAAHA ILLALLAAHU WAHDAHU LAA SYARIIKALAH LAHUL MULKU WA LAHUL HAMDU WA HUWA 'ALAA KULLI SYAI-IN QADIIR." 'Ayyasy berkata; mereka berdua adalah anak wanita paman Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2987</td></tr><tr><td>Arabic No</td><td>2987</td></tr><tr><td>Reference</td><td>Book 20 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм аль-Хакам бинт аз-Зубайр ибн Абду-ль-Мутталиб (или же это была её сестра Дуба‘а бинт аз-Зубайр), да будет доволен ею Аллах: «К Посланнику Аллаха ﷺ привели пленников, и я вместе с сестрой и Фатимой, дочерью Посланника Аллаха ﷺ пришла к нему. Мы пожаловались на своё положение и попросили, чтобы он велел дать нам слуг из числа невольников. Однако Посланник Аллаха ﷺ сказал: “Сироты участников битвы при Бадре опередили вас… Однако я укажу вам на то, что будет лучше для вас. Произносите после каждой молитвы слова “Аллах Велик” тридцать три раза, “Пречист Аллах” также по тридцать три раза и “Хвала Аллаху” также тридцать три раза, а потом говорите: “Нет божества, кроме Одного лишь Аллаха, у Которого нет сотоварищей, Ему принадлежит владычество, и Ему хвала, и Он всё может” /Ля иляха илля-Ллаху вахда-ху ля шарика ляху ляху-ль-мульку ва ляху-ль-хамду ва хува аля кулли шейин кадир/”». (Передатчик) Айяш сказал, что Дуба‘а и Умм аль-Хакам приходились Пророку ﷺ двоюродными сёстрами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2987</td></tr><tr><td>Arabic No</td><td>2987</td></tr><tr><td>Reference</td><td>Book 20 Hadith 60</td></tr></tbody></table></div>
 

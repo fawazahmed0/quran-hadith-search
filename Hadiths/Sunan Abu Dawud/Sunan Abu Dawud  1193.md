@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated An-Nu'man ibn Bashir: There was an eclipse of the sun in the time of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani] telah menceritakan kepadaku [Al Harits bin 'Umair Al Bahsri] dari [Ayyub As Sakhtiyani] dari [Abu Qilabah] dari [An Nu'man bin Basyir] dia berkata; "Telah terjadi gerhana Matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, beliau mengerjakan shalat dua raka'at, dua raka'at, dan beliau bertanya (tentang gerhana) hingga gerhana selesai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ан-Ну‘мана ибн Башира, да будет доволен Аллах им и его отцом: «Во времена Посланника Аллаха ﷺ произошло солнечное затмение, и Посланник Аллаха ﷺ стал совершать молитву по два рак‘ата, периодически спрашивая о состоянии солнца, пока затмение не кончилось»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
 

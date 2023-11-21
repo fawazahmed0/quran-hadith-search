@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn" Abbas (Allah be pleased with thern) reported that Allah's Messenger (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Ishaq bin Ibrahim] sedangkan lafazhnya dari Yahya keduanya berkata; Telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Salim] dari [Kuraib] dari [Ibnu Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian ingin mendatangi istrinya (mengajak bersetubuh), hendaknya mengucapkan; BISMILLAH, ALLAHUMMA JANNIBNAS SYAITHAANA WAJANNIBIS SYAITHAANA MAA RAZAQTANAA (Dengan menyebut nama Allah, ya Allah, jauhkanlah kami dari setan dan jauhkanlah setan dari apa (anak) yang akan Engkau rizkikan kepada kami), apabila di antara keduanya ditakdirkan mendapatkan anak dari hasil persetubuhan itu, maka anak tersebut tidak akan dicelakakan setan selamanya." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku]. Dan diriwayatkan dari jalur lain [Abd bin Humaid] telah mengabarkan kepada kami [Abdur Razzaq] semuanya dari [At Tsauri] keduanya dari [Manshur] dengan makna hadits Jarir, namun dalam hadits riwayat Syu'bah tidak disebutkan lafazh "BISMILLAH", dan dalam riwayat Abdur Razzaq dari At Tsauri menyebutkan "BISMILLAH" sedangkan dalam riwayat Ibnu Numair disebutkan; Manshur berkata; Saya menyangka beliau bersabda: "BISMILLAH
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3533</td></tr><tr><td>Arabic No</td><td>1434.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3533</td></tr><tr><td>Arabic No</td><td>1434.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 135</td></tr></tbody></table></div>
 

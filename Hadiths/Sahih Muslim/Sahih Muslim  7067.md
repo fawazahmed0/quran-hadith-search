@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported that there came to Abdullah a person and said:I have left behind
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki']. Telah menceritakan kepadaku [Abu Sa'id Al Asyujj] dan [Waki']. Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir], semuanya dari [Al A'masy]. Telah menceritakan kepada kami [Yahya bin Abu Yahya] dan [Abu Kuraib], teks milik Yahya, keduanya berkata: Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim bin Shubaih] dari [Masruq] berkata: Seseorang mendatangi [Abdullah] lalu berkata: Aku meninggalkan seseorang di masjid yang menafsirkan ayat Al Qur'an berdasarkan pendapatnya: "Maka tunggulah hari ketika langit membawa kabut yang nyata, yang meliputi manusia." (Ad Dukhaan: 10) ia berkata: Pada hari kiamat, kabut mendatangi manusia lalu mencabut nyawa mereka seperti wujud selesma. Setelah itu Abdullah berkata: Barangsiapa mengetahui sesuatu hendaklah disampaikan dan barangsiapa tidak tahu, hendaklah mengucapkan: Allahu a'lam. Salah satu pemahaman seseorang adalah dengan mengatakan Allahu a'lam untuk sesuatu yang tidak ia ketahui. Itu (kabut) terjadi saat kaum Quraisy mendurhakai nabi Shallallahu 'alaihi wa Salam. Beliau mendoakan mereka agar tertimpa kelaparan seperti kaum Yusuf. Mereka tertimpa kemarau dan keletihan hingga seseorang melihat ke langit, ia melihat seperti wujud kabut antara dirinya dan langit karena keletihan dan hingga mereka memakan tulang. Seseorang kemudian mendatangi nabi Shallallahu 'alaihi wa Salam dan berkata: Wahai Rasulullah, mintakan ampunan pada Allah untuk Mudlar karena mereka telah binasa. Beliau bersabda kepada Mudlar: "Sesungguhnya kau gegabah." Abdullah berkata: Nabi Shallallahu 'alaihi wa Salam berdoa untuk mereka lalu Allah 'azza wajalla menurunkan: "Sesungguhnya (kalau) kami akan melenyapkan siksaan itu agak sedikit. Sesungguhnya kamu akan kembali (ingkar)." (Ad Dukhaan: 10-15) Abdullah berkata: Lalu mereka diberi hujan dan saat mereka mendapatkan kemakmuran, mereka kembali lagi seperti semula. Abdullah berkata: Lalu Allah 'azza wajalla menurunkan: "Maka tunggulah hari ketika langit membawa kabut yang nyata, yang meliputi manusia. inilah azab yang pedih." (Ad Dukhaan: 10) Abdullah berkata: Yaitu perang Badar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7067</td></tr><tr><td>Arabic No</td><td>2798.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7067</td></tr><tr><td>Arabic No</td><td>2798.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 23</td></tr></tbody></table></div>
 

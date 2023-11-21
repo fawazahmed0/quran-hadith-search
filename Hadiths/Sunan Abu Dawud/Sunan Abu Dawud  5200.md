@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When one of you meets his brother, he should salute him, t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al hamdani] berkata, telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Mu'awiyah bin Shalih] dari [Abu Musa] dari [Abu Maryam] dari [Abu Hurairah] ia berkata, "Jika salah seorang dari kalian bertemu dengan saudaranya hendaklah ia mengucapkan salam, jika kemudian keduanya terhalang oleh pohon, atau tembok, atau batu, lalu bertemu kembali, hendaklah ia ucapkan salam lagi kepadanya." Mu'awiyah berkata, " [Abdul Wahhab bin Bukht] menceritakan kepadaku dari [Abu Az Zinad], dari [Al A'raj], dari [Abu Hurairah], dari Rasulullah shallallahu 'alaihi wasallam, seperti riwayat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5200</td></tr><tr><td>Arabic No</td><td>5200</td></tr><tr><td>Reference</td><td>Book 43 Hadith 428</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас встретит своего брата, пусть приветствует его салямом, если же (в это время) их будет отделять друг от друга дерево, стена или камень, пусть приветствует его салямом, когда встретится с ним потом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5200</td></tr><tr><td>Arabic No</td><td>5200</td></tr><tr><td>Reference</td><td>Book 43 Hadith 428</td></tr></tbody></table></div>
 

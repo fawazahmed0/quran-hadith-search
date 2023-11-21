@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Two are the prayers which the Messenger of Allah (ﷺ) always ob
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] -dalam jalur lain- Dan telah menceritakan kepada kami [Ali bin Hujr] -dengan lafazh hadits darinya- telah mengabarkan kepada kami [Ali bin Mushir] telah mengabarkan kepada kami [Abu Ishaq Asy Syaibani] dari [Abdurrahman bin Al Aswad] dari [bapaknya] dari [Aisyah] ia berkata; "Ada dua shalat yang sama sekali tidak pernah ditinggalkan oleh Rasulullah shallallahu 'alaihi wasallam di rumahku, baik secara sembunyi maupun terang-terangan, yaitu dua raka'at sebelum subuh dan dua raka'at sesudah asar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1936</td></tr><tr><td>Arabic No</td><td>835.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 364</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Две молитвы Посланник Аллаха ﷺ никогда не забывал совершать ни тайно, ни открыто: два рак‘ата перед утренней молитвой и два рак‘ата после послеполуденной молитвы /‘аср/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1936</td></tr><tr><td>Arabic No</td><td>835.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 364</td></tr></tbody></table></div>
 

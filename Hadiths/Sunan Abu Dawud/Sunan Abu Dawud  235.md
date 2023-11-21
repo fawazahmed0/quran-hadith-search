@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported:The prayer (in congregation) began and people stood in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Utsman] telah menceritakan kepada kami [Muhammad bin Harb] telah menceritakan kepada kami [Az-Zubaidi] Al-Hadits. Dan telah menceritakan kepada kami ['Ayyasy bin Al-Azraq] telah mengabarkan kepada kami [Ibnu Wahb] dari [Yunus] Al-Hadits. Dan telah menceritakan kepada kami [Makhlad bin Khalid] telah menceritakan kepada kami [Ibrahim bin Khalid, Imam Masjid Shan'a] telah menceritakan kepada kami [Rabah] dari [Ma'mar] Al-Hadits. Dan telah menceritakan kepada kami [Mu'ammal bin Al-Fadll] telah menceritakan kepada kami [Al-Walid] dari [Al-Auza'i] semuanya dari [Az-Zuhri] dari [Abu Salamah] dari [Abu Hurairah] dia berkata; Pernah suatu kali iqamat untuk shalat telah dikumandangkan dan jama'ah telah berbaris mengatur shaf mereka, lalu datanglah Rasulullah shallallahu 'alaihi wasallam. Setelah beliau berdiri di tempatnya, teringatlah bahwa ternyata beliau belum mandi. Maka beliau bersabda kepada para jama'ah: "Tetaplah di tempat kalian". Kemudian beliau kembali ke rumahnya. Setelah itu beliau keluar kepada kami, sedang air bertetesan di kepala beliau karena mandi, dan kami telah berbaris di shaf. Ini lafazh Ibnu Harb. Ayyasy berkata di dalam haditsnya; Kami tetap berdiri menunggu beliau sampai beliau datang lagi kepada kami sesudah mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (639، 640) Sahih Muslim (605)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>235</td></tr><tr><td>Arabic No</td><td>235</td></tr><tr><td>Reference</td><td>Book 1 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Однажды, объявили второй призыв на молитву /икама/ и люди выстроились в ряды. Посланник Аллаха ﷺ вышел и встал на свое место (имама), как вдруг вспомнил, что не искупался и сказал людям: “Оставайтесь на своих местах”. Затем он вернулся к себе домой, (после чего) вернулся к нам, а с его головы капала вода, поскольку он искупался, а мы (все ещё) стояли в рядах».Этот текст принадлежит Ибн Харбу. В риваяте этого хадиса, переданного со слов ‘Аййаша говорится: «И мы не садились, ожидая его, пока он не вышел к нам уже искупавшись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (639، 640) Sahih Muslim (605)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>235</td></tr><tr><td>Arabic No</td><td>235</td></tr><tr><td>Reference</td><td>Book 1 Hadith 235</td></tr></tbody></table></div>
 

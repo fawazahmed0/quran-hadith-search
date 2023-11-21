@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir that a man came to the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mua'wiyah] dari [al-A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata, "Seorang laki-laki mendatangi Rasulullah shallallahu 'alaihi wasallam seraya berkata, 'Wahai Rasulullah, apakah sesuatu yang mewajibkan (sesuatu yang lain?) " Beliau menjawab: "Orang yang meninggal dalam keadaan tidak mensyirikkan Allah dengan sesuatu apapun maka wajib masuk surga, dan orang yang meninggal dalam keadaan mensyirikkan Allah dengan sesuatu maka wajib masuk neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>93.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ пришёл какой-то человек и спросил: “О Посланник Аллаха, каковы две причины, (которые неизбежно приводят к определённым следствиям)?” Он сказал: “Тот, кто умрёт, не поклонявшись наряду с Аллахом ничему иному, войдёт в Рай, а тот, кто умрёт, поклонявшись наряду с Ним чему бы то ни было, войдёт в Огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>269</td></tr><tr><td>Arabic No</td><td>93.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
 

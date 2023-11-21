@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umayr, client of AbulLahm: I was present at Khaybar along with my maste
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal], dari [Muhammad bin Zaid], ia berkata; telah menceritakan kepadaku [Umair] mantan budak Abu Al Lahm, ia berkata; aku pernah menghadiri perang Khaibar bersama para majikanku. Kemudian mereka berbica kepada Rasulullah shallallahu 'alaihi wasallam mengenai diriku, kemudian beliau memerintahkanku agar diberi pedang, tatkala aku menyeretnya aku memberitahukan kepadanya bahwa aku adalah seorang budak. Kemudian beliau memerintahkan agar aku diberi perabotan rumah. Abu Daud berkata; artinya bahwa beliau tidak memberikan saham kepadanya. Abu Daud berkata; dan Abu 'Ubaid berkata; ia pernah mengharamkan daging atas dirinya maka ia dinamai Abu Al Lahm
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2730</td></tr><tr><td>Arabic No</td><td>2730</td></tr><tr><td>Reference</td><td>Book 15 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2730</td></tr><tr><td>Arabic No</td><td>2730</td></tr><tr><td>Reference</td><td>Book 15 Hadith 254</td></tr></tbody></table></div>
 

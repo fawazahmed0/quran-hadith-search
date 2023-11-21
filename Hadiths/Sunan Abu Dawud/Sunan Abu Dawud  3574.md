@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ It was narrated that 'Amr bin Al-'As said "The Messenger of Allah said:'If a jud
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] telah mengabarkan kepadaku [Yazid bin Abdullah bin Al Had] dari [Muhammad bin Ibrahim] dari [Busr bin Sa'id] dari [Abu Qais] mantan budak 'Amru bin Al 'Ash dari ['Amru bin Al 'Ash] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seorang hakim berhukum lalu berijtihad dan benar maka baginya dua pahala, dan apabila ia berhukum lalu berijtihad dan salah maka baginya satu pahala." Lalu aku menceritakannya kepada [Abu Bakar bin Hazm], kemudian ia berkata, "Seperti inilah [Abu Salamah] menceritakan kepadaku dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7352) Sahih Muslim (1716)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 25 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Амра ибн аль-‘Аса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если судья приложил усилия, вынес решение и оно оказалось правильным, ему полагается двойная награда, а если он приложил усилия, вынес решение и ошибся, ему полагается одна награда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7352) Sahih Muslim (1716)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 25 Hadith 4</td></tr></tbody></table></div>
 

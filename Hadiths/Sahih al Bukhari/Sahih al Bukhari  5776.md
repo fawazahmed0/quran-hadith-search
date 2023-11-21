@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "No 'Adwa nor Tiyara; but I like
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritaka kepadaku [Muhammad bin Basyar] telah menceritaka kepada kami [Muhammad bin Ja'far] telah menceritaka kepada kami [Syu'bah] dia berkata; saya mendengar [Qatadah] dari [Anas bin Malik] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak ada 'adwa (keyakinan adanya penularan penyakit) dan tidak pula thiyarah (menganggap sial pada sesuatu sehingga tidak jadi beramal) dan yang menakjubkanku adalah al fa'lu." Mereka bertanya; "Apakah al fa'lu itu?" beliau menjawab: "Kalimat yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5776</td></tr><tr><td>Arabic No</td><td>5776</td></tr><tr><td>Reference</td><td>Book 76 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не (передаётся) зараза (иначе как по воле Аллаха), и не (является дурным предзнаменованием полёт) птиц, и нравится мне благое предзнаменование /аль-фаъль/». Его спросили: «А что является благим предзнаменованием?» Он сказал: «Доброе слово»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5776</td></tr><tr><td>Arabic No</td><td>5776</td></tr><tr><td>Reference</td><td>Book 76 Hadith 88</td></tr></tbody></table></div>
 

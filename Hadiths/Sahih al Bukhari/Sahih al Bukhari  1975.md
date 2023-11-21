@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:Allah's Messenger (ﷺ) said to me, "O 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Al Awza'iy] berkata, telah menceritakan kepada saya [Yahya bin Abu Katsir] berkata, telah menceritakan kepada saya [Abu Salamah bin 'Abdurrahman] berkata, telah menceritakan kepada saya ['Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Wahai 'Abdullah, apakah benar berita bahwa kamu puasa seharian penuh lalu kamu shalat malam sepanjang malam?" Aku jawab: "Benar, wahai Rasulullah". Beliau berkata: "Janganlah kamu lakukan itu, tetapi shaumlah dan berbukalah, shalat malamlah dan tidurlah, karena untuk jasadmu ada hak atasmu, matamu punya hak atasmu, isterimu punya hak atasmu dan isterimu punya hak atasmu. Dan cukuplah bagimu bila kamu berpuasa selama tiga hari dalam setiap bulan karena bagimu setiap kebaikan akan dibalas dengan sepuluh kebaikan yang serupa dan itu berarti kamu sudah melaksanakan puasa sepanjang tahun seluruhnya". Maka kemudian aku meminta tambahan, lalu Beliau menambahkannya. Aku katakan: "Wahai Rasulullah, aku mendapati diriku memiliki kemampuan". Maka Beliau berkata: "Berpuasalah dengan puasanya Nabi Allah Daud Alaihissalam dan jangan kamu tambah lebih dari itu". Aku bertanya: "Bagaimanakah itu cara puasanya Nabi Allah Daud Alaihissalam?" Beliau menjawab: "Dia Alaihissalam berpuasa setengah dari puasa Dahar (puasa sepanjang tahun), caranya yaitu sehari puasa dan sehari tidak". Di kemudian hari 'Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhuma berkata: "Duh, seandainya dahulu aku menerima keringanan yang telah diberikan oleh Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1975</td></tr><tr><td>Arabic No</td><td>1975</td></tr><tr><td>Reference</td><td>Book 30 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Амр бин аль-‘Ас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Посланник Аллаха ﷺ сказал мне: “О ‘Абдуллах, мне сообщили, что ты постишься днём и совершаешь намазы по ночам”. Я сказал: “Да, о Посланник Аллаха”. Он сказал: “Не делай (так, но) постись и не соблюдай поста, совершай намаз по ночам и спи, ибо, поистине, у твоего тела есть на тебя право, и у глаза твоего есть на тебя право, и у жены твоей есть на тебя право, и у гостя твоего есть на тебя право, и, поистине, достаточно будет тебе поститься по три дня ежемесячно, ведь за каждое доброе дело воздастся тебе в десятикратном размере, и это (будет равнозначно) непрерывному посту”. Однако я настаивал, а потом был наказан за это. Я сказал: “О Посланник Аллаха, поистине, я чувствую в себе силу!” Он сказал: “Тогда постись, как постился пророк Аллаха Дауд, мир ему, но не больше!” Я спросил: “А как постился пророк Аллаха Дауд, мир ему?” Он ответил: “Через день”».\nА когда ‘Абдуллах состарился, он часто говорил: «О, если бы я принял разрешение Пророка ﷺ!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1975</td></tr><tr><td>Arabic No</td><td>1975</td></tr><tr><td>Reference</td><td>Book 30 Hadith 82</td></tr></tbody></table></div>
 

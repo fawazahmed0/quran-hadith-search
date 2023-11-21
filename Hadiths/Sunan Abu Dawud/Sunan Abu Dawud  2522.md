@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': The Prophet (ﷺ) said: The intercession of a martyr will b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Yahya bin Hassan], telah menceritakan kepada kami [Al Walid bin Rabah Adz Dzimari], telah menceritakan kepadaku [pamanku] yaitu; Namran bin 'Utbah, ia berkata; kami menemui [Ummu Ad Darda'] sementara kami adalah anak-anak yatim. [Ummu Ad Darda'] berkata; bergembiralah, karena aku pernah mendengar Abu Ad Darda' berkata; Rasulullah shallallahu 'alaihi wasallam berkata: "Orang yang syahid diberi hak untuk memberikan syafa'at kepada tujuh puluh penghuni rumahnya." Abu Daud berkata; yang benar adalah Rabah bin Al Walid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2522</td></tr><tr><td>Arabic No</td><td>2522</td></tr><tr><td>Reference</td><td>Book 15 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нимран ибн ‘Утба сказал: Однажды мы, будучи сиротами, зашли к Умм ад-Дарде (жене Абу ад-Дарды), которая сказала: Радуйтесь, ибо, поистине, я слышала, как Абу ад-Дардаъ говорил: «Посланник Аллаха ﷺ сказал: “Шахид будет заступаться за семьдесят человек из числа членов своего семейства”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2522</td></tr><tr><td>Arabic No</td><td>2522</td></tr><tr><td>Reference</td><td>Book 15 Hadith 46</td></tr></tbody></table></div>
 

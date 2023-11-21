@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A banquet of bread and meat was held on the occasion of the marria
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] Telah menceritakan kepada kami [Abdul Warits] Telah menceritakan kepada kami [Abdul 'Aziz bin Shuhaib] dari [Anas radliallahu 'anhu] dia berkata; ketika Nabi shallallahu 'alaihi wasallam menikah dengan Zaenab binti Jahsy, beliau membuat makanan yang terbuat dari roti dan daging. Lalu aku mengutus penyeru untuk mengundang makan-makan. Kemudian datanglah suatu kaum, mereka makan lalu keluar lagi. Setelah itu datang lagi satu kaum, setelah mereka makan, mereka pulang. Aku terus menyeru hingga tidak ada lagi yang dapat aku undang. Aku berkata; Ya Nabiyullah, aku sudah tidak mendapatkan orang yang dapat aku undang. Beliau bersabda: 'Angkatlah makanan kalian.' Namun disana ada tiga orang yang sedang berbincang-bincang. Nabi shallallahu 'alaihi wasallam keluar ke kamar Aisyah seraya berkata; Assalamu'alaikum wahai ahlu bait warahmatullah. Aisyah menjawab; Wa 'Alaikassalaam warahmatullah, bagaimana kamu mendapatkan istrimu? Semoga Allah memberkahi anda. Beliau berkeliling ke kamar seluruh istri-istri beliau dan mengucapkan kepada mereka sebagaimana yang beliau ucapkan kepada Aisyah, demikian juga mereka menjawab sebagaimana Aisyah menjawab. Kemudian Nabi shallallahu 'alaihi wasallam kembali, namun tiga orang itu masih tetap berbincang-bincang di rumah beliau. Padahal Nabi shallallahu 'alaihi wasallam sangat pemalu. Lalu beliau pergi lagi ke kamar Aisyah, aku tidak tahu apakah aku sudah mengabarkan kepada beliau atau belum bahwa kaum tersebut sudah pulang semua. Lalu beliau kembali hingga tatkala beliau melangkahkan kakinya di pintu kamar, beliau menutupkan tabir antara aku dengan beliau, dan pada waktu itu turun ayat hijab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4793</td></tr><tr><td>Arabic No</td><td>4793</td></tr><tr><td>Reference</td><td>Book 65 Hadith 315</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Женившись на Зейнаб бинт Джахш, Посланник Аллаха ﷺ устроил свадебное угощение, во время которого (гостям) подавали хлеб и мясо. Я же был послан глашатаем, приглашающим на пир. И люди приходили ели и уходили, затем приходила другая партия людей, которая также уходила, поев. И так я приглашал людей, пока не осталось никого, кого можно было бы пригласить. И я сказал: “О Пророк Аллаха, я не нахожу никого, кого можно было бы позвать”. Тогда он сказал: “Уберите еду”. Но в доме осталось три беседующих человека. Пророк ﷺ вышел, направившись к дому ‘Аиши, и сказал: “Мир вам, о обитатели дома, и милость Аллаха”. Она ответила: “И тебе мир и милость Аллаха. Как тебе понравилась твоя жена? Да благословит тебя Аллах!” После этого он обошёл всех своих жён, и всем сказал то, что сказал ‘Аише, и (все) они отвечали ему так же, как ответила ‘Аиша. Затем он вернулся, но те три человека всё ещё находились в доме и продолжали беседовать. Пророк ﷺ был очень стеснительным человеком, поэтому он (снова) вышел, направившись к дому ‘Аишы. И я не знаю, я сообщил ему или кто-то другой, что те люди ушли, и он вернулся. Зайдя одной ногой в дом, он опустил занавеску передо мной, и тогда был ниспослан аят о занавесе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4793</td></tr><tr><td>Arabic No</td><td>4793</td></tr><tr><td>Reference</td><td>Book 65 Hadith 315</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: The Prophet (ﷺ) said, "The person who participates in (H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harami bin Hafsh] berkata, telah menceritakan kepada kami [Abdul Wahid] berkata, telah menceritakan kepada kami [Umarah] berkata, telah menceritakan kepada kami [Abu Zur'ah bin 'Amru bin Jarir] berkata: Aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah menjamin orang yang keluar (berperang) di jalan-Nya, tidak ada yang mendorongnya keluar kecuali karena iman kepada-Ku dan membenarkan para rasul-Ku untuk mengembalikannya dengan memperoleh pahala atau ghonimah atau memasukkannya ke surga. Kalau seandainya tidak memberatkan umatku tentu aku tidak akan duduk tinggal diam di belakang sariyyah (pasukan khusus) dan tentu aku ingin sekali bila aku terbunuh di jalan Allah lalu aku dihidupkan lagi kemudian terbunuh lagi lalu aku dihidupkan kembali kemudian terbunuh lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Arabic No</td><td>36</td></tr><tr><td>Reference</td><td>Book 2 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зур‘а ибн ‘Амр ибн Джарир сказал: «Я слышал, как Абу Хурайра, да будет доволен им Аллах, рассказывал о том, что Пророк ﷺ сказал: “Всемогущий и Великий Аллах (не замедлит) наградить того, кто выйдет на Его путь. (Аллах скажет): “Не побуждает его (к этому) ничто, кроме веры в Меня и веры посланникам Моим, и Мне надлежит вернуть его (домой) с доставшейся ему наградой или военной добычей или же ввести его в рай!” И если бы это не обернулось трудностями для моей общины, то я не оставался бы позади отряда, (принимающего участие в джихаде.) а обязательно пожелал бы быть убитым на пути Аллаха, а потом воскрешённым, потом снова убитым и снова воскрешённым, а потом снова убитым!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Arabic No</td><td>36</td></tr><tr><td>Reference</td><td>Book 2 Hadith 29</td></tr></tbody></table></div>
 

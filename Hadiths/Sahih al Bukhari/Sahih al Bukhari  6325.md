@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:Whenever the Prophet (ﷺ) lay on his bed, he used to say: "Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Manshur] dari [Rib'i bin Hirasy] dari [Kharasyah bin Al Hurr] dari [Abu Dzar] radliallahu 'anhu dia berkata; "? pabila Nabi shallallahu 'alaihi wasallam hendak tidur malam, beliau mengucapkan: 'Allahumma bismika amuutu wa ahya (Ya Allah, dengan nama-Mu aku mati dan aku hidup).' Dan apabila bangun tidur, beliau mengucapkan: 'Al Hamdulillahilladzii ahyaana ba'da maa amatana wailaihi nusyur (Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya lah tempat kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6325</td></tr><tr><td>Arabic No</td><td>6325</td></tr><tr><td>Reference</td><td>Book 80 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ укладывался ночью в постель, он говорил: “О Аллах с именем Твоим я умираю и возвращаюсь к жизни /Аллахумма би-сми-кя, амуту ва ахйа/”, — а когда просыпался, то говорил: “Хвала Аллаху, Который вернул нас к жизни после того, как упокоил нас, и к Нему [мы вернёмся] после воскрешения /Аль-хамду ли-Лляхи-ллязи ахйана ба‘да ма аматана ва илейхи-н-нушур/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6325</td></tr><tr><td>Arabic No</td><td>6325</td></tr><tr><td>Reference</td><td>Book 80 Hadith 22</td></tr></tbody></table></div>
 

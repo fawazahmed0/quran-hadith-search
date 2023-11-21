@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir that Tufail son of Amr al-Dausi came to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari [Sulaiman], [Abu Bakar] berkata, telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Hajjaj ash-Shawwaf] dari [Abu az-Zubair] dari [Jabir] bahwa Ath Thufail bin Amru Ad Dausi mendatangi Nabi shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, apakah engkau mau untuk tinggal di sebuah benteng yang kokoh dan dapat melindungi?" perawi berkata, "Benteng tersebut adalah milik orang-orang Daus semasa jahiliyiah." Namun Rasulullah shallallahu 'alaihi wasallam menolak karena lebih memilih dengan apa Allah janjikan untuk orang-orang Anshar. Ketika Nabi shallallahu 'alaihi wasallam hijrah ke Madinah, Abu Thufail bin Amru ikut hijrah dengan disertai oleh seorang laki-laki dari kaumnya. Namun teman Abu Thufail tersebut tidak kuat dengan (iklim) Madinah dan jatuh sakit, lalu ia mengambil gunting dan memotong ruas jemarinya hingga tangannya berlumuran darah, dan bahkan ia pun meninggal. Namun dalam mimpinya, Abu thufail melihat laki-laki tersebut dalam kondisi yang sangat bagus, sementara ia menutupi kedua tangannya. Lalu Abu Thufal bertanya kepada laki-laki tersebut, 'Apa yang tuhanmu lakukan kepadamu? ' Laki-laki itu menjawab, 'Dia mengampuniku karena hijraku kepada-Nya Nabi shallallahu 'alaihi wasallam.' Lalu Abu thufail bertanya lagi, 'Tapi kenapa aku lihat kamu menutupi kedua tanganmu? ' Laki-laki itu menjawab, 'Dikatakan kepadaku 'Kami tidak akan memperbaiki apa yang telah kamu rusak'. Abu Thufail kemudian menceritakan mimpi tersebut kepada Rasulullah shallallahu 'alaihi wasallam, Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Ya Allah, ampunilah kedua tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>311</td></tr><tr><td>Arabic No</td><td>116</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аз-Зубайр передал со слов Джабира (да будет доволен им Аллах) о том, что (когда-то) к Пророку ﷺ пришёл ат-Туфайль ибн ‘Амр ад-Дауси и сказал: «О Посланник Аллаха, есть ли у тебя надёжное укрепление или крепость? Во времена джахилии у (племени) бану даус было такое укрепление», однако Пророк ﷺ отказался (воспользоваться предложением ат-Туфайля) ради того, что Аллах приберёг для ансаров. Когда Пророк ﷺ переселился в Медину, вместе с ним переселился и ат-Туфайль ибн ‘Амр, с которым был один из его соплеменников. Однако им пришёлся не по нраву (воздух) Медины, из-за чего (этот человек) заболел и стал испытывать тревогу. Через некоторое время он взял свои стрелы с широкими наконечниками, отрезал себе фаланги пальцев, истёк кровью и умер, а потом ат-Туфайль ибн ‘Амр увидел его во сне в хорошем виде и увидел, что его руки чем-то прикрыты. (Ат-Туфайль) спросил: «Что сделал с тобой твой Господь?» Тот ответил: «Он простил меня за то, что я переселился к Его Пророку ﷺ». (Ат-Туфайль) спросил: «А почему я вижу, что твои руки прикрыты?» Тот ответил: «Мне было сказано: “Мы никогда не исправим то, что ты испортил”». Ат-Туфайль рассказал об этом Посланнику Аллаха ﷺ и Посланник Аллаха ﷺ воскликнул: «О Аллах, прости и его руки!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>311</td></tr><tr><td>Arabic No</td><td>116</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
 

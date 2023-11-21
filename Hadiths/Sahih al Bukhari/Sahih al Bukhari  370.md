@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Al-Munkadir:I went to Jabir bin 'Abdullah and he was prayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Aziz bin 'Abdullah] berkata, telah menceritakan kepadaku [Ibnu Abu Al Mawali] dari [Muhammad bin Al Munkadir] berkata, "Aku masuk menemui [Jabir bin 'Abdullah] yang saat itu sedang shalat dengan menggunakan kain sarung yang diikatkannya pada tengkuk, sedangkan pakaiannnya diletakkan pada gantungan baju. Setelah selesai kami bertanya, "Wahai Abu 'Abdullah, bagaimana kamu shalat sedangkan kain rida' (selendang) mu kau gantung pada gantungan baju? ' Maka Jabir menjawab, "Benar. Sesungguhnya aku senang bila berbuat seperti itu agar bisa dilihat oleh orang bodoh seperti kamu. Aku pernah melihat Nabi shallallahu 'alaihi wasallam shalat dengan cara seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>370</td></tr><tr><td>Arabic No</td><td>370</td></tr><tr><td>Reference</td><td>Book 8 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн аль-Мункъадир сказал: «(Однажды) я зашёл к Джабиру ибн ‘Абдуллах и он (в это время) совершал молитву, завернувшись в одежду, а его накидка лежала. Когда он закончил (молиться), мы сказали: “О Абу ‘Абдуллах, ты совершаешь молитву в то время, когда твоя накидка лежит?!” Он ответил: “Да. Я хотел, чтобы меня видели невежды подобные вам, (ведь) я видел, как таким образом молился Пророк ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>370</td></tr><tr><td>Arabic No</td><td>370</td></tr><tr><td>Reference</td><td>Book 8 Hadith 22</td></tr></tbody></table></div>
 

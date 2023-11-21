@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I did not see the Messenger of Allah (ﷺ) reciting (the Qur'an)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] telah mengabarkan kepada kami [Hammad yaitu Ibnu Zaid], katanya; (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Hasan bin Rabi'] telah menceritakan kepada kami [Mahdi bin Maimun], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Numair] semuanya dari [Hisyam bin Urwah], (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Zuhair bin Harb] sedangkan lafadz (hadits) darinya, dia berkata; telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam Ibn 'Urwah], katanya; telah mengabarkan kepadaku [Ayahku] dari ['Aisyah] katanya; "Aku belum pernah melihat Rasulullah shallallahu 'alaihi wasallam shalat dengan duduk, hingga ketika beliau telah lanjut usia, beliau membaca sambil duduk, jika bacaan beliau tinggal tiga puluh atau empat puluh ayat, beliau berdiri dan membaca, lalu beliau ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1704</td></tr><tr><td>Arabic No</td><td>731.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Я (долгие годы) не видела, чтобы во время ночной молитвы Пророк Аллаха ﷺ читал Коран сидя, а стал он читать так, только достигнув преклонного возраста. Однако когда до конца той или суры оставалось тридцать или сорок аятов, он вставал и читал их (стоя), а потом совершал поясной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1704</td></tr><tr><td>Arabic No</td><td>731.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 134</td></tr></tbody></table></div>
 

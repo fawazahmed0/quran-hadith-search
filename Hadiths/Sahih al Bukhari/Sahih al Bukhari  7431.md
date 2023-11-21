@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) used to say at the time of difficult
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul A'la bin Hammad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Abul 'Aliyah] dari [Ibn Abbas] bahwa nabi shallallahu 'alaihi wasallam membaca kalimat-kalimat berikut ketika susah: 'LAA ILAAHA ILLALLAHUL 'AZHIIM, LAA-ILAAHA ILLALLAH RABBUL'ARSYIL 'AZHIIMU, LAA-ILAAHA ILLALLAAH RABBUSSAMAAWAATI WARABBUL'ARSYIL KARIIM (Tiada sesembahan yang hak selain Allah Yang Maha agung, tiada sesembahan yang hak selain Allah pemilik arsy yang Agung, tiada sesembahan yang hak selain Allah pemilik langit dan pemilik arsy yang mulia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7431</td></tr><tr><td>Arabic No</td><td>7431</td></tr><tr><td>Reference</td><td>Book 97 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророком ﷺ овладевала скорбь, он обращался к Аллаху с мольбой, говоря: «Нет божества достойного поклонения, кроме Аллаха Великого, Выдержанного, нет божества достойного поклонения, кроме Аллаха, Господа великого Трона, нет божества достойного поклонения, кроме Аллаха, Господа небес, и Господа благородного Трона!». \n/Ля иляха илля-Ллаху-ль-‘Азымуль-Халим, ля иляха илля-Ллаху, Раббуль-‘аршиль‘азым, ля иляха илля-Ллаху, Раббу-с-самаввати, ва Раббуль-‘аршиль кярим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7431</td></tr><tr><td>Arabic No</td><td>7431</td></tr><tr><td>Reference</td><td>Book 97 Hadith 58</td></tr></tbody></table></div>
 

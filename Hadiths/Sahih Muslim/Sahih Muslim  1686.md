@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Apostle (ﷺ) was not so much particular about observin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Said] dari [Ibnu Juraij] katanya; telah menceritakan kepadaku ['Atha'] dari ['Ubaid bin Umair] dari ['Aisyah], bahwa tidak ada shalat sunnah yang lebih di jaga Nabi shallallahu 'alaihi wasallam daripada dua raka'at sebelum subuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1686</td></tr><tr><td>Arabic No</td><td>724.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что ни одну из дополнительных молитв Пророк ﷺ не совершал столь неуклонно, как (молитву в) два рак‘ата перед (обязательной) утренней молитвой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1686</td></tr><tr><td>Arabic No</td><td>724.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 116</td></tr></tbody></table></div>
 

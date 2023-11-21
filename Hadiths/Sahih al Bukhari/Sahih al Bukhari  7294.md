@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) came out after the sun had declined an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]. (dalam jalur lain disebutkan) telah menceritakan kepadaku [Mahmud] telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] telah mengabarkan kepadaku [Anas bin Malik] radliallahu 'anhu, Nabi shallallahu 'alaihi wasallam berangkat ketika matahari telah miring, lalu beliau shalat zhuhur, selesai salam beliau berdiri di atas mimbar dan mengingatkan kiamat, beliau ceritakan bahwa menjelang kiamat terjadi peristiwa-peristiwa besar, kemudian berkata: "Siapa yang ingin bertanya sesuatu, silahkan! Demi Allah, tidaklah kalian bertanya kepadaku tentang sesuatu, selain kuberitakan kepada kalian selama aku masih berada di tempatku ini." Anas berkata, "Lantas Orang-orang menangis terisak-isak dan Rasulullah shallallahu 'alaihi wasallam memperbanyak bertanya: "Bertanyalah kalian kepadaku!" Anas melanjutkan, "Lantas ada seseorang berdiri menuju beliau dan bertanya, "Dimanakah tempat tinggalku ya Rasulullah?" Beliau menjawab: "Kamu di neraka." Lantas Abdullah bin Khudzaifah berdiri dan bertanya, "Siapa ayahku ya Rasulullah?" Nabi menjawab: "Ayahmu Hudzaifah." Anas melanjutkan perkataannya, "Nabi memperbanyak bertanya: "Bertanyalah kalian kepadaku, bertanyalah kalian kepadaku." Lantas Umar meletakkan kedua lututnya dan berkata, 'Kami ridla Allah sebagai Rabb, Islam sebagai agama, dan Muhammad shallallahu 'alaihi wasallam sebagai Rasul." Rasulullah shallallahu 'alaihi wasallam lantas terdiam ketika Umar mengucapkan yang demikian. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang diriku berada di tangan-Nya, tadi telah diperlihatkan kepadaku surga dan neraka dibalik tembok ini ketika aku shalat, dan belum pernah kulihat kebaikan dan keburukan seperti hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7294</td></tr><tr><td>Arabic No</td><td>7294</td></tr><tr><td>Reference</td><td>Book 96 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «Сообщил мне Анас ибн Малик, да будет доволен им Аллах, о том, что (однажды, как только) солнце начало клониться к закату, Пророк ﷺ вышел (из дома) и совершил полуденный намаз. И после того, как он произнёс слова приветствия, он поднялся на минбар и упомянул о Часе этом, упомянув также и о том, какие великие события будут происходить перед этим временем, а потом сказал: “Кто хочет спросить меня о чём-нибудь, пусть спрашивает. И клянусь Аллахом, о чём бы вы ни спросили меня, я отвечу вам, пока я нахожусь на этом месте”».\nАнас сказал: «После этого люди зарыдали, а (Пророк ﷺ) всё говорил: “Спрашивайте меня”».\nАнас сказал: «И тогда встал какой-то человек и спросил: “Куда я войду, о Посланник Аллаха?” Пророк ﷺ ответил: “В Огонь”. И затем поднялся ‘Абдуллах ибн Хузафа, который спросил: “Кто мой отец, о Посланник Аллаха?” (Пророк ﷺ) ответил: “Твой отец — Хузафа”, а потом снова стал повторять: “Спрашивайте меня”, (и это продолжалось до тех пор, пока) ‘Умар, опустившийся на колени, не сказал: “Мы довольны Аллахом как Господом, Исламом — как религией и Мухаммадом — как посланником!” И когда ‘Умар произнёс эти слова, Посланник Аллаха ﷺ) замолчал, а потом сказал: “Клянусь Тем, в Чьих руках моя душа, только сейчас на этой стене, что находится передо мной, мне были показаны Рай и Ад, и никогда не видел я ничего более прекрасного и ничего более отвратительного, чем в этот день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7294</td></tr><tr><td>Arabic No</td><td>7294</td></tr><tr><td>Reference</td><td>Book 96 Hadith 25</td></tr></tbody></table></div>
 

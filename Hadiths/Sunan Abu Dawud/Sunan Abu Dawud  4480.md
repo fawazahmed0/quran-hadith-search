@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hudayn ibn al-Mundhir ar-Ruqashi, who was AbuSasan, said:I was present with Uthm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhid] dan [Musa bin Isma'il] secara makna, keduanya berkata; telah menceritakan kepada kami [Abdul Aziz Ibnul Mukhtar] berkata, telah menceritakan kepada kami [Abdullah Ad Danaj] berkata, telah menceritakan kepadaku [Hudhain Ibnul Mundzir Ar Raqasyi] -maksudnya Abu Yasan- ia berkata, "Ketika aku ada di sisi Utsman bin Affan, Al Walid bin Uqbah dihadapkan kepadanya, lalu Humran dan seorang laki-laki lain bersaksi, bahwa salah seorang dari mereka melihat (Al Walid) minum khamer, dan yang lain melihatnya muntah (karena khamer). Utsman lantas berkata, "Ia tidak mungkin muntah kecuali karena sebab minum khamer! ' Lalu ia berkata kepada [Ali] radliallahu 'anhu, "Laksanakan hukuman had atasnya." Kemudian Ali juga berkata kepada Al Hasan, "Laksanakan hukuman had atasnya." Maka Al Hasan pun berkomentar, "Berikanlah kekuasaan kepada orang yang layak memikulnya." Ali radliallahu 'anhu akhirnya berkata kepada Abdullah bin Ja'far, "Laksanakan hukuman had atasnya." Maka Abdullah segera mengambil pecut dan mencambuknya (Al Walid), sementara Ali menghitungnya. Maka ketika sampai pada hitungan keempat puluh, Ali berkata, "Cukup! Nabi shallallahu 'alaihi wasallam mendera sebanyak empat puluh kali, Abu Bakar empat puluh kali dan Umar delapan puluh kali. Semua itu sunnah, namun aku lebih suka yang ini (empat puluh kali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1707)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4480</td></tr><tr><td>Arabic No</td><td>4480</td></tr><tr><td>Reference</td><td>Book 40 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Худайн ибн аль-Мунзир ар-Ракаши, то есть Абу Сасан сказал: «Я видел, как к ‘Усману ибн ‘Аффану привели аль-Валида ибн ‘Укбу (наместник Куфы, смещённый халифом ‘Усманом). Против аль-Валида свидетельствовал Хумран (вольноотпущенник ‘Усмана ибн ‘Аффана) и ещё один человек, и один из них сказал, что он видел, как тот пил вино, другой же засвидетельствовал, что видел, как его стошнило вином. ‘Усман сказал: “Его стошнило вином только после того, как он выпил его”, а потом велел ‘Али, да будет доволен им Аллах: “Подвергни его установленному наказанию”. ‘Али сказал (своему сыну) Хасану: “Подвергни его установленному наказанию”. Хасан сказал: “Поручи горячее тому же, кому досталось прохладное”. ‘Али сказал ‘Абдуллаху ибн Джа‘фару: “Подвергни его установленному наказанию”. И тот взял плеть и стал наносить аль-Валиду удары, ‘Али же считал их. Дойдя до сорока, он велел: “Хватит”, а потом сказал: “(По велению) Пророка ﷺ наносили сорок ударов (здесь передатчик сказал: «И кажется, он сказал ещё…») и (по велению) Абу Бакра наносили сорок ударов, а (по велению) ‘Умара наносили восемьдесят, и всё это сунна, но мне больше нравятся (сорок)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1707)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4480</td></tr><tr><td>Arabic No</td><td>4480</td></tr><tr><td>Reference</td><td>Book 40 Hadith 130</td></tr></tbody></table></div>
 

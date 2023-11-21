@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When any one amongst you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] -dalam jalur lain- Dan telah menceritakan kepada kami [Amru An Naqid] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] keduanya dari [Suhail] dari [bapaknya] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa di antara kalian yang ingin menunaikan shalat setelah shalat Jum'at, maka hendaklah ia shalat empat raka'at." Sedangkan di dalam hadits Jarir tidak terdapat kata, "diantara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2038</td></tr><tr><td>Arabic No</td><td>881.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Тот из вас, кто будет совершать (дополнительную молитву) после пятничной молитвы, пусть совершает четыре (рак‘ата)”».В хадисе Джарира нет (слова) «из вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2038</td></tr><tr><td>Arabic No</td><td>881.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 88</td></tr></tbody></table></div>
 

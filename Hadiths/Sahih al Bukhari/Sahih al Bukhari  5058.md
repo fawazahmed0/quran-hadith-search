@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:I heard Allah's Messenger (ﷺ) saying, "There will
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari [Muhammad ibn Ibrahim bin Al Harits At Taimi] dari [Abu Salamah bin Abdurrahman] dari [Abu Said Al Khudri] radliallahu 'anhu, ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan ada suatu kaum yang berada ditengah-tengah kalian, dan kalian akan meremehkan shalat kalian bila melihat shalat mereka, begitu juga dengan shaum kalian jika melihat shaum mereka, serta amal kalian jika melihat amal mereka. Akan tetapi, mereka membaca Al Qur'an, namun bacaan mereka tidak sampai melewati batas tenggorokan, mereka keluar dari Din, sebagaimana meluncurnya anak panah dari busurnya. Ia melihat pada ujung panahnya, namun ia tidak mendapatkan sesuatu, kemudian melihat pada lubangnya, juga tak menemukan sesuatu, lalu ia melihat pada bulunya juga tidak melihat sesuatu. Ia pun saling berselisih akan ujung panahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5058</td></tr><tr><td>Arabic No</td><td>5058</td></tr><tr><td>Reference</td><td>Book 66 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Появятся среди вас люди, молитвы, посты и дела которых заставят вас презирать ваши собственные молитвы, посты и дела, (однако) они станут читать Коран так, что чтение это не распространится дальше их глоток, и они отойдут от религии подобно стреле, выпущенной из лука, когда (стрелок) смотрит на лезвие, но ничего не видит, смотрит на неоперённую часть стрелы, но ничего не видит, смотрит на оперение, но ничего не видит, а потом смотрит на пятку стрелы(, надеясь увидеть что-то)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5058</td></tr><tr><td>Arabic No</td><td>5058</td></tr><tr><td>Reference</td><td>Book 66 Hadith 83</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama b. Zaid reported that Allah's Messenger (ﷺ) had said:Plague is the sign 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab] dan [Qutaibah bin Sa'id] keduanya berkata; Telah mengabarkan kepada kami [Al Mughir] dan dia nasabkan dengan Ibnu Qa'nab. Ibnu 'Abdur Rahman Al Quraisy berkata; dari [Abu An Nadhr] dari ['Amir bin Sa'd bin Abu Waqqash] dari [Usamah bin Zaid] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tha'un (penyakit menular/wabah kolera) adalah suatu peringatan dari Allah Subhanahu Wa Ta'ala untuk menguji hamba-hamba-Nya dari kalangan manusia. Maka apabila kamu mendengar penyakit itu berjangkit di suatu negeri, janganlah kamu masuk ke negeri itu. Dan apabila wabah itu berjangkit di negeri tempat kamu berada, jangan pula kamu lari daripadanya." Dan Hadits Qutaibah seperti itu juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5773</td></tr><tr><td>Arabic No</td><td>2218.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5773</td></tr><tr><td>Arabic No</td><td>2218.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 125</td></tr></tbody></table></div>
 

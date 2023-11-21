@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id al-Khudri: The Messenger of Allah (ﷺ) recited surah Sad on the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Shalih] telah menceritakan kepada Kami [Ibnu Wahb], telah mengkhabarkan kepadaku ['Amr yaitu Ibnu Al Harits] dari [Ibnu Abu Hilal] dari ['Iyadh bin Abdullah bin Sa'd bin Abu Sarh] dari [Abu Sa'id Al Khudri] bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam di atas mimbar membaca Surat Shaad. Kemudian tatkala beliau telah sampai pada ayat as sajdah beliau turun kemudian sujud, dan orang-orang pun bersujud bersamanya. Kemudian tatkala pada hari yang lainnya beliau membacanya, lalu tatkala telah sampai pada ayat as sajdah orang-orang bersiap-siap untuk bersujud. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ayat tersebut adalah taubat seorang nabi, akan tetapiaku melihat kalian telah bersiap-siap untuk bersujud, lalu beliau bersujud dan mereka pun bersujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1410</td></tr><tr><td>Arabic No</td><td>1410</td></tr><tr><td>Reference</td><td>Book 7 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ читал суру «Сад», стоя на минбаре. Дойдя до аята, при чтении которого нужно было совершить земной поклон, он спустился с минбара и совершил земной поклон, и люди совершили земной поклон вместе с ним. А в следующий раз, когда он читал суру «Сад» и дошёл до аята, при чтении которого нужно было совершить земной поклон, люди приготовились совершить земной поклон, и тогда Пророк ﷺ сказал: «Поистине, это покаяние пророка… Однако я вижу, что вы приготовились совершить земной поклон». И он спустился (с минбара) и совершил земной поклон, и люди тоже совершили земной поклон
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1410</td></tr><tr><td>Arabic No</td><td>1410</td></tr><tr><td>Reference</td><td>Book 7 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) got up at night to offer the night pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] saya mendengar [Sulaiman bin Abu Muslim] dari [Thawus] dari [Ibnu Abbas] bahwa; "Apabila Nabi shallallahu 'alaihi wasallam hendak bangun Tahajjud pada malam hari, beliau membaca: "ALAAHUMA LAKAL HAMDU, ANTA NUURUSSAMAWAATI WAL ARDH WAMAN FIIHINNA, WALAKAL HAMDU ANTA QAYYIMUSSAWAATI WAL ARDH WAMAN FIIHINNA, WALAKAL HAMDU ANTAL HAQQU, WAWA'DUKA HAQQ, WAQAULUKA HAQQ, WALIQAA'UKA HAQQ, WALJANNATU HAQQ, WANNAARU HAQQ, WASSAA'ATU HAQQ, WANNABIYUUN HAQQ, WAMUHAMMADUN HAQQ. ALLAAHUMMA LAKA ASLAMTU WABIKA AAMANTU WAILAIKA TAWAKKALTU, WAILAIKA ANABTU, WABIKA KHAASHAMTU, WAILAIKA HAAKAMTU, FAHGHFIRLII MA QADDAMMTU WAMAA AKHKHARTU, WAMA ASRARTU WAMAA A'LANTU, ANTAL MUQADDIM WA ANTAL MU'AKHIR LAA-ILAAHA ILLAA ANTA -atau- LAA ILAAHA ILLA GHAIRUKA (Ya Allah, bagi-Mu lah segala puji, Engkau cahaya langit dan bumi dan sesuatu yang berada di antara keduanya, bagiMu segala puji, Engkau adalah pemelihara langit dan bumi dan siapa saja yang menghuninya, Engkau adalah benar, dan janji-Mu benar, firman-Mu benar, pertemuan dengan-Mu benar, surga-Mu benar, neraka-Mu benar, kiamat benar, para nabi benar, dan Muhammad adalah benar. Ya Allah, kepada-Mu aku berserah, kepada-Mu aku beriman, kepada-Mu aku bertawakkal, kepada-Mu aku menyandarkan diri, karena-Mu aku memusuhi, dan kepada-Mu aku meminta penghakiman, maka ampunilah bagiku apa yang telah aku perbuat dan apa yang belum aku lakukan, apa yang aku lakukan secara sembunyi-sembunyi dan apa yang aku lakukan secara terang-terangan, Engkaulah Dzat Yang Maha terdahulu dan Engkaulah Dzat Yang Maha terakhir, tiada sesembahan yang hak selain Engkau atau tiada sesembahan selain Engkau)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6317</td></tr><tr><td>Arabic No</td><td>6317</td></tr><tr><td>Reference</td><td>Book 80 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+[‘Абдуллах] ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что обычно, когда Пророк ﷺ поднимался ночью для совершения молитвы, он говорил: «О Аллах, лишь Тебе хвала, Ты — Свет небес и земли и тех, кто там обитает, хвала Тебе. Ты — Распорядитель небес и земли и тех, кто там обитает, хвала Тебе. Ты — Истина, и обещание Твоё — истина, и слово Твоё — истина, и встреча с Тобой — истина, и Рай — истина, и Огонь — истина, и Час этот — истина, и пророки — истина, и Мухаммад — истина! О Аллах, Тебе я покоряюсь, на Тебя уповаю, в Тебя верую, Тебе приношу покаяние, благодаря Тебе веду споры и к Тебе на суд обращаюсь, так прости же мне мои прошлые и будущие грехи, прости совершённое мной тайно и сделанное открыто! Ты — Выдвигающий вперёд, и Ты — Отодвигающий, нет бога достойного поклонения, кроме Тебя (или: помимо Тебя)!»\n/Аллахумма, ля-кя-ль-хамду, Анта нуру-с-самаввати, ва-ль-арди ва ман фи-хинна, ва ля-кя-ль-хамду, Анта Каййиму-с-самаввати, ва-ль-арди ва ман фи-хинна, ва ля-кя-ль-хамду, Анта-ль-Хакку, ва ва‘ду-кя-ль-хакку, ва каулюка хакк, ва ликау-кя хакк, ва-ль-джаннату хакк, ва-н-нару хакк, ва-с-са‘ату хакк, ва-н-набиййуна хакк, ва Мухаммадун хакк! Аллахумма, ля-кя аслямту, ва ‘аляй-кя таваккяльту, ва би-кя аманту, ва иляй-кя анабту, ва би-кя хасамту ва иляй-кя хакямту, фа-гфир ли ма каддамту, ва ма аххарту, ва ма асрарту ва ма а‘лянту! Анта-ль-Мукаддиму ва Анта-ль-Муаххыр, ля иляха илля Анта (или: ля иляха гайру-кя)/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6317</td></tr><tr><td>Arabic No</td><td>6317</td></tr><tr><td>Reference</td><td>Book 80 Hadith 14</td></tr></tbody></table></div>
 

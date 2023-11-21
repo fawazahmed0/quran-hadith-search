@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Some people of the tribe of 'Ukl and 'Uraina arrived at Medina to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul A'la bin Hammad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] bahwa [Anas radliallahu 'anhu] bercerita kepada mereka, bahwa serombongan dari suku 'Ukail dan 'Urainah mengunjungi Madinah untuk bertemu Nabi shallallahu 'alaihi wasallam untuk menyatakan keIslamannya. Mereka berkata; "Wahai Nabiyullah, sesungguhnya kami adalah orang-orang yang pandai memerah susu (beternak) dan bukan pandai bercocok tanam." Ternyata mereka tidak suka tinggal di Madinah karena suhunya (hingga menyebabkan sakit). Akhirnya Rasulullah shallallahu 'alaihi wasallam menunjuki mereka untuk menemui pengembala dan beberapa ekor untanya supaya dapat minum susu dan air seni unta-unta tersebut. Sesampainya mereka di distrik Harrat, mereka kembali kufur setelah keIslamannya, membunuh pengembala Nabi shallallahu 'alaihi wasallam dan merampas unta-unta beliau. Ketika peristiwa ini sampai kepada Nabi shallallahu 'alaihi wasallam, beliau langsung mengutus seseorang untuk mengejar mereka melalui jejak perjalanan mereka. (Setelah berhasil ditangkap), beliau memerintahkan agar mencungkil mata mereka dengan besi panas, memotong tangan-tangan mereka dan membiarkan mereka di bawah sengatan matahari sampai mati dalam kondisi seperti itu." Qatadah berkata; telah sampai kepada kami, bahwa setelah peristiwa itu, Nabi shallallahu 'alaihi wasallam menganjurkan untuk bersedekah (membagikan harta-harta mereka) dan melarang memutilasi." [Syu'bah], [Aban] dan [Hammad] mengatakan dari [Qatadah]; "...rombongan dari 'Urainah". Sedangkan [Yahya bin Abu Katsir] dan [Ayyub] mengatakan dari [Abu Qilabah] dari [Anas]; "..datang rombongan dari suku 'Ukul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4192</td></tr><tr><td>Arabic No</td><td>4192</td></tr><tr><td>Reference</td><td>Book 64 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В своё время люди из племени ‘укль и ‘урайна приехали к Пророку ﷺ в Медину и приняли ислам. Они сказали: “О Пророк Аллаха! Мы владельцы дойного скота, а не садов”. Климат Медины не подошёл им (и они стали болеть). Тогда Посланник Аллаха ﷺ приказал выделить для них дойных верблюдиц и пастуха, также он приказал им отправиться из Медины и пить верблюжье молоко и мочу. Они отправились туда и, достигнув аль-Харры, вернулись в неверие после принятия ислама, убили пастуха Пророка ﷺ и угнали верблюдов. Когда эта весть дошла до Пророка ﷺ, он отправил за ними погоню. (Когда их привели к Пророку ﷺ) по его велению им выжгли глаза, отрубили руки (и ноги) и оставили их в аль-Харре, пока они не умерли в таком состоянии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4192</td></tr><tr><td>Arabic No</td><td>4192</td></tr><tr><td>Reference</td><td>Book 64 Hadith 232</td></tr></tbody></table></div>
 

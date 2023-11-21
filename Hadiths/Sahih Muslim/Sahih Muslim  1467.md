@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:My friend (the Holy Prophet) bade me to hear and obey (the ru
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dari [Syu'bah] dari [Abu Imran] dari [Abdullah bin Shamit] dari [Abu Dzar] dia berkata; Kekasihku mewasiatkanku untuk selalu mendengar dan taat sekalipun kepada seorang budak yang cacat, dan agar aku mendirikan shalat tepat pada waktunya, kalaupun kamu menemukan suatu kaum yang telah mendirikan shalat, berarti kamu telah menjaga shalatmu, kalaulah tidak, maka kamu akan memperoleh pahala sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1467</td></tr><tr><td>Arabic No</td><td>648.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 300</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «Поистине, мой любимейший друг завещал мне, чтобы я слушался и повиновался, даже если (правителем) будет раб с отрубленными частями (тела), и чтобы я совершал (каждую обязательную) молитву в (лучшее для неё) время, (добавив следующее): “А если ты застанешь людей (в мечети) уже совершившими (коллективную) молитву, то ты уже достиг (цели) своей молитвы, в противном же случае, (эта молитва зачтётся тебе как) дополнительная”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1467</td></tr><tr><td>Arabic No</td><td>648.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 300</td></tr></tbody></table></div>
 

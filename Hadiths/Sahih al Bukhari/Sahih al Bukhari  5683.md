@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I heard the Prophet (ﷺ) saying, "If there is any 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Abdurrahman bin Al Ghasil] dari ['Ashim bin Umar bin Qatadah] dia berkata; saya mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sekiranya ada obat yang baik untuk kalian atau ada sesuatu yang baik untuk kalian jadikan obat, maka itu terdapat pada bekam atau minum madu atau sengatan api panas (terapi dengan menempelkan besi panas di daerah yang luka) dan saya tidak menyukai kay
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5683</td></tr><tr><td>Arabic No</td><td>5683</td></tr><tr><td>Reference</td><td>Book 76 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ’Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если в чём-то из ваших методов лечения и есть благо, то оно есть в насечках лезвия (при кровопускании) или в глотке мёда, или в прижигании огнём, соответственно болезни. Но я не люблю, когда мне делают прижигания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5683</td></tr><tr><td>Arabic No</td><td>5683</td></tr><tr><td>Reference</td><td>Book 76 Hadith 6</td></tr></tbody></table></div>
 

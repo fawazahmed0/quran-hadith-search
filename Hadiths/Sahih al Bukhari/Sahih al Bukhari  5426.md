@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abi Laila:We were sitting in the company of Hudhaifa 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata; telah menceritakan kepada kami [Saif bin Abu Sulaiman] ia berkata; aku mendengar [Mujahid] berkata; telah menceritakan kepadaku ['Abdurrahman bin Abu Laila] bahwasanya mereka sedang berada di sisi [Hudzaifah], lalu ia (Hudzaifah) minta minum lantas seorang Majusi memberinya minum. Ketika Majusi tersebut meletakkan gelas pada tangannya, Hudzaifah langsung membuangnya seraya berkata; "Kalau bukan karena aku telah melarang sekali atau dua kali, " seakan ia mengatakan; 'Aku tidak akan melakukan ini (membuang gelas). Sungguh, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: 'Janganlah kalian memakai sutera atau Dibaj (kain bersulam sutera), jangan minum dari bejana emas dan perak, dan jangan makan di baskom mereka, sesungguhnya barang-barang itu adalah untuk mereka di dunia dan untuk kita di akhirat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5426</td></tr><tr><td>Arabic No</td><td>5426</td></tr><tr><td>Reference</td><td>Book 70 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Не носите (одежду из) шёлка и дибаджа, не пейте из золотых и серебряных сосудов и не ешьте из золотой и серебряной посуды, ибо, поистине, всё это предназначено для них в мире этом, а для нас — в мире вечном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5426</td></tr><tr><td>Arabic No</td><td>5426</td></tr><tr><td>Reference</td><td>Book 70 Hadith 54</td></tr></tbody></table></div>
 

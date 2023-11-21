@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn as-Sa'ib: I attended the 'Id prayer along with the Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin As Shabah Al Bazzaz] telah menceritakan kepada kami [Al Fadl bin Musa As Sinani] telah menceritakan kepada kami [Ibnu Juraij] dari ['Atha'] dari [Abdullah bin As Sa'ib] dia berkata; "Aku menyaksikan shalat Ied bersama Rasulullah shallallahu 'alaihi wasallam, setelah melaksanakan shalat, beliau bersabda: "Kami akan melaksanakan khutbah, barangsiapa ingin mendengarkan khutbah, hendaklah dia duduk. Dan barangsiapa ingin pergi, silahkan pergi." Abu Daud berkata; "Hadits ini Mursal, dari 'Atha' dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1155</td></tr><tr><td>Arabic No</td><td>1155</td></tr><tr><td>Reference</td><td>Book 2 Hadith 766</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ас-Саиба, да будет доволен им Аллах: «Я был вместе с посланником Аллаха ﷺ в день праздника, и, завершив молитву, он сказал: “Поистине, мы произносим проповедь, и кто желает послушать её, пусть останется, а кто желает уйти, может уйти”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1155</td></tr><tr><td>Arabic No</td><td>1155</td></tr><tr><td>Reference</td><td>Book 2 Hadith 766</td></tr></tbody></table></div>
 

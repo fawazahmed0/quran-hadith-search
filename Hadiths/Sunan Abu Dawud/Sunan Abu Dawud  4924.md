@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Nafi' said: Ibn Umar heard a pipe, put his fingers i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ubaidullah Al Ghudani] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Sa'id bin Abdul Aziz] dari [Sulaiman bin Musa] dari [Nafi'] ia berkata, " [Ibnu Umar] mendengar suara seruling, lalu ia meletakkan jarinya pada dua telinganya seraya menjauh dari jalan. Lalu ia berkata kepadaku, "Wahai Nafi', apakah kamu mendengar sesuatu?" Aku menjawab, "Tidak." Nafi' melanjutkan; "Ibnu Umar lalu mengangkat kembali jarinya dari keduanya telinganya", lantas ia berkata, "Aku pernah bersama Nabi shallallahu 'alaihi wasallam, lalu beliau mendengar suara seperti ini dan beliau juga melakukan seperti ini." Abu Ali Al Lu'lu'I berkata, "Aku mendengar Abu Dawud berkata, "Hadits ini derajatnya munkar. Telah menceritakan kepada kami [Mahmud bin Khalid] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Muth'im Ibnul Miqdam] ia berkata; telah menceritakan kepada kami [Nafi'] ia berkata, "Aku membonceng di belakang [Ibnu Umar], maka ketika melewati seorang pengembala yang meniup seruling …lalu ia menyebutkan seperti hadits tersebut." Abu Dawud berkata, "Antara Muth'im dan Nafi' di sisipi (nama) Sulaiman bin Musa." Telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepada kami [Abdullah bin Ja'far Ar Raqqi] ia berkata; telah menceritakan kepada kami [Abul Malih] dari [Maimun] dari [Nafi'] ia berkata, "Aku bersama [Ibnu Umar], lalu ia mendengar suara orang berseruling…lalu ia menyebutkan seperti hadits tersebut." Abu Dawud berkata, "Dan inilah yang paling mungkar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4924</td></tr><tr><td>Arabic No</td><td>4924</td></tr><tr><td>Reference</td><td>Book 43 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сулеймана ибн Мусы, что (вольноотпущенник Ибн ‘Умара) Нафи‘ сказал: «(Однажды) Ибн ‘Умар (да будет доволен Аллах ими обоими) услышал (звуки) дудки». (Нафи‘) сказал: «И тогда он приставил пальцы к ушам, а затем удалившись от дороги, сказал мне: “О Нафи‘, ты слышишь что-нибудь?”» (Нафи‘) сказал: «Я сказал: “Нет”». (Нафи‘) сказал: «И, убрав пальцы с ушей, он сказал: “(Однажды) я находился вместе с Пророком ﷺ и услышав подобное, он сделал то же самое”».Абу ‘Али аль-Луълуи сказал: «Я слышал, как Абу Дауд говорил: “Этот хадис отвергаемый”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4924</td></tr><tr><td>Arabic No</td><td>4924</td></tr><tr><td>Reference</td><td>Book 43 Hadith 152</td></tr></tbody></table></div>
 

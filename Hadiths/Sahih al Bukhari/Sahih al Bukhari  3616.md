@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) paid a visit to a sick bedouin. The Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>3616</td></tr><tr><td>Reference</td><td>Book 61 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Навещая больного, Пророк ﷺ всегда говорил ему: “Не беда, очистишься, если будет угодно Аллаху /Ля баъса, тахурун ин шаъа-Ллах/”. (Как-то раз) он пришёл навестить (заболевшего) бедуина и сказал ему: “Не беда, очистишься, если будет угодно Аллаху”. Тот сказал: “Ты говоришь: очистишься? Вовсе нет, это же лихорадка, которая кипит (или: бушует) и может свести старого человека в могилу!” Тогда Пророк ﷺ сказал: “Что ж, пусть будет так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>3616</td></tr><tr><td>Reference</td><td>Book 61 Hadith 123</td></tr></tbody></table></div>
 

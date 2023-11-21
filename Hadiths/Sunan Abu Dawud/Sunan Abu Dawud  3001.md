@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said “When the Apostle of Allaah(ﷺ) had victory over Quraish in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musharrif bin 'Amr Al Ayami], telah menceritakan kepada kami [Yunus bin Bukair] ia berkata; telah menceritakan kepada kami [Muhammad bin Ishaq], telah menceritakan kepadaku [Muhammad bin Abu Muhammad] mantan budak Zaid bin Tsabit, dari [Sa'id bin Jubair], dan [Ikrimah], dari [Ibnu Abbas], ia berkata; tatkala Rasulullah shallallahu 'alaihi wasallam mengalahkah orang-orang Quraisy pada perang Badr, dan telah datang ke Madinah, beliau mengumpulkan orang-orang yahudi di pasar Bani Qainuqa' kemudian berkata; wahai orang-orang yahudi, masuklah Islam sebelum kalian tertimpa seperti apa yang menimpa orang-orang Quraisy. Mereka berkata; wahai Muhammad. Janganlah engkau berbangga diri terhadapmu karena engkau telah mampu membunuh beberapa orang Quraisy. Mereka adalah orang-orang yang tidak berpengalaman, mereka tidak pandai berperang. Sesungguhnya apabila engkau memerangi kami maka sungguh engkau akan mengerti bahwa kami adalah orang-orang yang menang dan engkau belum pernah bertemu dengan orang seperti kami. Kemudian Allah 'azza wajalla menurunkan ayat mengenai hal tersebut: "Katakanlah kepada orang-orang yang kafir: "Kamu pasti akan dikalahkan (di dunia ini).." Musharrif membaca hingga firmanNya: "Segolongan berperang di jalan Allah dan (segolongan) yang lain kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3001</td></tr><tr><td>Arabic No</td><td>3001</td></tr><tr><td>Reference</td><td>Book 20 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что после битвы при Бадре, когда Посланник Аллаха ﷺ прибыл в Медину, он собрал иудеев на рынке бану кайнука и сказал: «О иудеи! Примите ислам до того, как постигнет вас то, что постигло курайшитов!» Они сказали: «О Мухаммад! Пусть не обольщает тебя то, что ты убил несколько курайшитских юнцов, которые не умели сражаться! Поистине, если ты будешь сражаться с нами, ты узнаешь, каковы мы, и поймёшь, что ты ещё не встречал подобных нам!» После этого Всемогущий и Великий Аллах ниспослал: «Скажи тем, которые не уверовали: “Вы будете побеждены и собраны в Геенне. Как же скверно это ложе!” Знамением для вас стали две армии: одна армия сражалась на пути Аллаха, другая же состояла из неверующих» (сура 3 «Али ‘Имран», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3001</td></tr><tr><td>Arabic No</td><td>3001</td></tr><tr><td>Reference</td><td>Book 20 Hadith 74</td></tr></tbody></table></div>
 

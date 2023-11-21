@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:Allah's Messenger (ﷺ) made a small room (with a palm 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan berkata [Al Makki]; telah menceritakan kepada kami [Abdullah bin Sa'id]. diriwayatkan dari jalur lain, telah menceritakan kepadaku [Muhammad bin Ziyad] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Abdullah bin Sa'id] dia berkata; telah menceritakan kepadaku [Salim bin Abu An Nadlr] bekas budak Umar bin 'Ubaidullah, dari [Busr bin Sa'id] dari [Zaid bin Tsabit] radliallahu 'anhu dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah membuat ruangan yang dibatasi dengan sehelai kain atau tikar di masjid, lalu Rasulullah shallallahu 'alaihi wasallam keluar dan melakukan shalat. kemudian orang-orang pun ikut melakukan shalat bersama beliau. Di malam berikutnya merekapun datang, namun Rasulullah shallallahu 'alaihi wasallam tidak kunjung keluar, sambil mengeraskan suara, mereka melempar pintu beliau dengan kerikil. Tidak lama kemudian Rasulullah shallallahu 'alaihi wasallam keluar menemui mereka dalam keadaan marah seraya bersabda: "Masih saja kalian mengerjakannya (dengan berjama'ah), hingga aku mengira shalat tersebut akan diwajibkan atas kalian, hendaknya kalian melakukan shalat di rumah kalian, sesungguhnya sebaik-baik shalat seseorang adalah dirumahnya kecuali shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6113</td></tr><tr><td>Arabic No</td><td>6113</td></tr><tr><td>Reference</td><td>Book 78 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит, да будет доволен им Аллах, сказал, что однажды Посланник Аллаха ﷺ установил в мечети нечто вроде отдельной комнаты из циновок и стал молиться там (ночами). И после этого люди стали собираться возле него, совершая за ним молитву. Затем, следующей ночью они снова пришли, но Пророк ﷺ не вышел к ним, и они стали шуметь и бросать в дверь камешки. Тогда Посланник Аллаха ﷺ вышел к ним разгневанный и сказал: «Вы делали это до тех пор, пока я не начал думать, что эта молитва будет вменена вам в обязанность! Молитесь в своих домах, ибо, поистине, если не считать обязательных молитв, наилучшей молитвой является та, которую человек совершает у себя дома!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6113</td></tr><tr><td>Arabic No</td><td>6113</td></tr><tr><td>Reference</td><td>Book 78 Hadith 140</td></tr></tbody></table></div>
 

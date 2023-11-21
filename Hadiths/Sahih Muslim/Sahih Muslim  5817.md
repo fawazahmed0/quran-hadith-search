@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa reported from 'A'isha that she said that people asked Allah's Messenger (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Salamah bin Syabib]; Telah menceritakan kepada kami [Al Hasan bin A'yan]; Telah menceritakan kepada kami [Ma'qil] yaitu 'Ubaidullah dari [Az Zuhri]; Telah mengabarkan kepadaku [Yahya bin 'Urwah] bahwa dia mendengar ['Urwah] berkata; ['Aisyah] berkata; "sekelompok orang bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang praktek tukang tenung. Lalu beliau menjawab menjawab: 'Mereka itu tidak benar! ' Mereka bertanya lagi; 'Ya Rasulullah Kadang-kadang apa yang mereka katakan itu memang benar terjadi. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka: "Adapun perkataan yang nyata (benar) itu adalah perkataan yang dicuri oleh jin, kemudian ia memperdengarkannya di telinga walinya sebagaimana ia seekor ayam mendengkur, lalu mereka mencampur adukkan isinya lebih dari seratus kebohongan." Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku [Muhammad bin 'Amru] dari [Ibnu Juraij] dari [Ibnu Syihab] melalui jalur ini yang serupa dengan riwayat Ma'qil dari Az Zuhri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5817</td></tr><tr><td>Arabic No</td><td>2228.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5817</td></tr><tr><td>Arabic No</td><td>2228.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 169</td></tr></tbody></table></div>
 

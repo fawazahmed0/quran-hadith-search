@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "No prophet was sent but that he warned hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Qotadah] dari [Anas] radliallahu 'anhu mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang Nabi pun diutus selain telah memperingatkan kaumnya terhadap yang buta sebelah dan pendusta, ketahuilah bahwasanya dajjal itu buta sebelah, sedang rabb kalian tidak buta sebelah, tertulis diantara kedua matanya KAFIR." Tentang Hadits ini, juga ada riwayat dari Abu Hurairah dan Ibnu Abbas dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7131</td></tr><tr><td>Arabic No</td><td>7131</td></tr><tr><td>Reference</td><td>Book 92 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Не было такого пророка, который не предостерегал бы свою общину от этого одноглазого лжеца. Поистине, он будет кривым на один глаз, тогда как ваш Господь, поистине, одноглазым не является. И, поистине, меж глаз его будет начертано “неверующий” /кафир/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7131</td></tr><tr><td>Arabic No</td><td>7131</td></tr><tr><td>Reference</td><td>Book 92 Hadith 78</td></tr></tbody></table></div>
 

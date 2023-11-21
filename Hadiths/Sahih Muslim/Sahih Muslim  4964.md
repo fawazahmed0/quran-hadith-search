@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jabir b. 'Abdullah who said:We accompan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Isma'il bin Salim] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Sayyar]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Yahya bin Yahya] dan ini adalah lafadz dia, telah menceritakan kepada kami [Husyaim] dari [Yasar] dari [As Sya'bi] dari [Jabir bin Abdullah] dia berkata, "Kami pernah berperang bersama Nabi shallallahu 'alaihi wasallam, setelah kami tiba di Madinah, kami bermaksud hendak segera pulang ke rumah kami masing-masing. Namun beliau bersabda: "Tunggulah dahulu hingga hari agak senja, sisirlah dahulu rambut kalian yang kusut, berilah kesempatan kepada keluarga kalian untuk bersiap-siap dan berhias (untuk menyambut kedatangan kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4964</td></tr><tr><td>Arabic No</td><td>715.23</td></tr><tr><td>Reference</td><td>Book 33 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4964</td></tr><tr><td>Arabic No</td><td>715.23</td></tr><tr><td>Reference</td><td>Book 33 Hadith 259</td></tr></tbody></table></div>
 

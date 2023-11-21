@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:I along with some boys went out to receive Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Malik bin Isma'il] telah bercerita kepada kami [Ibnu 'Uyainah] dari [Az Zuhriy], berkata [as-Sa'ib bin Azid radliallahu 'anhu]; "Kami pergi untuk menemui Rasulullah Shallallahu'alaiwasallam bersama anak-anak kecil di Tsaniyati Wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3083</td></tr><tr><td>Arabic No</td><td>3083</td></tr><tr><td>Reference</td><td>Book 56 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Са‘иб бин Йазид, да будет доволен им Аллах, сказал: «(Однажды) мы с (несколькими) мальчиками пошли к Санийат аль-Вада‘ встречать Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3083</td></tr><tr><td>Arabic No</td><td>3083</td></tr><tr><td>Reference</td><td>Book 56 Hadith 287</td></tr></tbody></table></div>
 

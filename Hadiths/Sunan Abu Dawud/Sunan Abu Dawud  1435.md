@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Masruq said:I asked 'Aishah: When would the Messenger of Allah (ﷺ) observe the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Yunus], telah menceritakan kepada Kami [Abu Bakr bin 'Ayyasy] dari [Al A'masy] dari [Muslim] dari [Masruq], ia berkata; aku katakan kepada [Aisyah]; kapankah Rasulullah shallallahu 'alaihi wasallam melakukan witir? Ia berkata; semua itu telah beliau lakukan, beliau telah melakukan witir di permulaan malam, di pertengahan malam, dan di akhir malam, akan tetapi witir beliau selesai tatkala beliau akan meninggal hingga waktu pagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1435</td></tr><tr><td>Arabic No</td><td>1435</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Масрука: «Я спросил ‘Аишу, да будет доволен ею Аллах, когда Посланник Аллаха ﷺ совершал витр, и она сказала: «Посланник Аллаха ﷺ совершал витр в разное время и в начале ночи, и в её середине, и в её конце, однако в конце жизни он совершал его незадолго до рассвета»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1435</td></tr><tr><td>Arabic No</td><td>1435</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
 

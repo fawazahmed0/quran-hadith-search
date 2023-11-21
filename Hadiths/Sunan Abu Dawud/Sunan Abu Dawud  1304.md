@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: In Surat al-Muzzammil (73), the verse: "Keep vigil 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Mawarzi Ibnu Syabbuwaih] telah menceritakan kepadaku [Ali bin Husain] dari [ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] dia berkata mengenai surt Al Muzammil, yaitu; "Bangunlah (shalat) di malam hari, kecuali sedikit daripadanya, (yaitu) separuhnya." (QS Al Muzammil; 2-3). Ayat tersebut di hapus dengan surat ini, yaitu; "Allah mengetahui bahwa kamu sekali-kali tidak dapat menentukan batas-batas waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Al Qur'an." (QS Al Muzzamil; 20). Maksud dari "Nasyi'atul lail" adalah shalat tahajjudnya mereka (para sahabat) di awal malam (sebelum di mansukh)." Ibnu Abbas melanjutkan; "Tahajjud di awal malam lebih sesuai untuk kamu tentukan batas waktu bangun malam yang telah di wajibkan Allah atas kamu. Hal itu karena manusia, apabila telah tidur, ia tidak tahu kapan dirinya bangun." Maksud firman Allah; "Aqwamu qiila" ialah lebih sesuai untuk memahami AL Qur'an (ketika di baca pada malam hari) " dan maksud ayat; "Inna laka fin nahaari sabhan thawiila" ialah kesempatan yang panjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1304</td></tr><tr><td>Arabic No</td><td>1304</td></tr><tr><td>Reference</td><td>Book 5 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн ‘Аббас, да будет доволен Аллах им и его отцом, что аят «Простаивай ночь без малого, половину ночи, или чуть меньше того, или чуть больше того…» в суре «аль-Музаммиль» был отменён аятом: «Он знает, что вам не сосчитать этого, и принимает ваши покаяния. Читайте же из Корана то, что необременительно для вас». В суре упоминается начало ночи, и они (т.е. сподвижники) совершали молитву в начале ночи, поскольку это время больше подходит для того, чтобы совершать молитву должным образом на протяжении предписанного времени, потому что, если человек лёг спать, он не знает, когда проснётся. А слова «яснее по изложению» означают, что человек, совершающий молитву в это время, лучше понимает и воспринимает Коран. А слова «Воистину, днём ты бываешь подолгу занят» означают, что днём у человека есть время
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1304</td></tr><tr><td>Arabic No</td><td>1304</td></tr><tr><td>Reference</td><td>Book 5 Hadith 55</td></tr></tbody></table></div>
 

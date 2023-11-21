@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul 'Aziz bin Rufai:I asked Anas bin Malik, "Tell me what you rememb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Abdullah bin Muhammad] telah menceritakan kepada kami [Ishaq Al Azraq] telah menceritakan kepada kami [Sufyan] dari ['Abdul 'Aziz bin Rufai'] berkata; Aku bertanya kepada [Anas bin Malik radliallahu 'anhu], kataku: "Kabarkan kepadaku sesuatu yang kamu ingat dari Nabi Shallallahu'alaihiwasallam, dimanakah beliau melaksanakan shalat Zhuhur dan 'Ashar pada hari Tarwiyah?". Dia berkata: "Di Mina". Aku tanyakan lagi: "Dimana Beliau shalat 'Ashar pada hari Nafar?". Dia menjawab: "Di Al Abthoh (Al Bathha') ". Lalu dia berkata: "Kerjakanlah (manasik) sebagaimana para pemimpin, kamu telah mengerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1653</td></tr><tr><td>Arabic No</td><td>1653</td></tr><tr><td>Reference</td><td>Book 25 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абд аль-‘Азиз бин Руфай‘ сказал: «(Однажды) я попросил Анаса бин Малика, да будет доволен им Аллах: “Расскажи мне о том, что помнишь ты о пророке ﷺ (а именно): где он совершил полуденную и послеполуденную намазы в восьмой день зуль-хиджжа?” Он сказал: “В Мине”. Я спросил: “А где он совершил послеполуденный намаз в день отъезда /йаум ан-нафр/?” Он сказал: “В Абтахе”, после чего добавил: “Поступай так же, как поступают твои руководители”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1653</td></tr><tr><td>Arabic No</td><td>1653</td></tr><tr><td>Reference</td><td>Book 25 Hadith 134</td></tr></tbody></table></div>
 

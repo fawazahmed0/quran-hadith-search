@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:The Messenger of Allah (ﷺ) as saying: No one of you should wish 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Hilal], telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz bin Shuhaib] dari [Anas bin Malik], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang diantara kalian berdoa agar diberi kematian karena musibah yang menimpanya, akan tetapi hendaknya ia mengucapkan; ALLAHUMMA AHYINI MA KAANATIL HAYATU KHAIRAN LI WA TAWAFFANI IDZA KANATIL WAFATU KHAIRAN LI (ya Allah hidupkanlah aku selama hidup adalah lebih baik bagiku dan wafatkanlah aku apabila kematian adalah lebih baik bagiku." Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Abu Daud Ath Thayalisi], telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang diantara kalian mengharapkan kematian…!" kemudian ia menyebutkan hadits seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (6351) Sahih Muslim (2680)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3108</td></tr><tr><td>Arabic No</td><td>3108</td></tr><tr><td>Reference</td><td>Book 21 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ говорил: «Пусть никто не желает себе смерти из-за беды, которая постигла его, но пусть он говорит: “О Аллах, позволь мне жить до тех пор, пока жизнь будет лучше для меня, и упокой меня, когда смерть будет лучше для меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (6351) Sahih Muslim (2680)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3108</td></tr><tr><td>Arabic No</td><td>3108</td></tr><tr><td>Reference</td><td>Book 21 Hadith 20</td></tr></tbody></table></div>
 

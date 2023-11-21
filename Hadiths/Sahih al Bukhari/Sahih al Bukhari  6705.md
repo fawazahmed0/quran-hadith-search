@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:that he was asked about a man who had vowed that he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abi Bakr Al Muqaddami] telah menceritakan kepada kami [Fudhail bin Sulaiman] telah menceritakan kepada kami [Musa bin 'Uqbah] telah menceritakan kepada kami [Hakim bin Abi Hurrah Al Aslami] bahwasanya ia mendengar [Abdullah bin umar] radliallahu 'anhuma ditanya tentang seseorang yang bernadzar untuk tidak melalui hari selain melakukan puasa, kemudian bertemu dengan hari idul adha dan idul fitri. Ia menjawab dengan mengutip firman Allah; 'sesungguhnya telah ada pada diri Rasulullah sebagai teladan yang baik bagimu' (QS. Ahzab 21), beliau tidak pernah melakukan puasa di hari raya adha dan fitri, dan beliau tidak berpandangan berpuasa di kedua hari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6705</td></tr><tr><td>Arabic No</td><td>6705</td></tr><tr><td>Reference</td><td>Book 83 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаким ибн Абу Хурра аль-Аслями слышал, как однажды ‘Абдуллах ибн ‘Умара, да будет доволен Аллах им и его отцом, спросили о каком-то человеке, который дал обет поститься, не пропуская ни одного дня. И (его пост) совпал с Днём жертвоприношения или Днём разговления. Тогда (‘Абдуллах ибн ‘Умар) сказал: «“Воистину, в Посланнике Аллаха был прекрасный пример для вас” (сура “аль-Ахзаб”, аят 21). Он не постился в День жертвоприношения и в День разговления, и не считал (дозволенным) поститься в эти два дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6705</td></tr><tr><td>Arabic No</td><td>6705</td></tr><tr><td>Reference</td><td>Book 83 Hadith 82</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The Imam is to be followed. Say th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] berkata, telah menceritakan kepadaku [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Dijadikannya Imam itu untuk diikuti, jika ia takbir maka bertakbirlah kalian, jika ia rukuk maka rukuklah kalian, jika ia mengucapkan 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar orang yang memuji-Nya) ', maka ucapkanlah oleh kalian 'RABBANAA WA LAKAL HAMDU (Ya Rabb kami, milik Engkaulah segala pujian) ', jika ia sujud maka suudlah kalian, dan jika ia shalat dengan duduk maka shalatlah kalian semua dengan duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>734</td></tr><tr><td>Reference</td><td>Book 10 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— Пророк ﷺ сказал: «Имам назначается для того, чтобы (во время намаза другие) следовали его примеру. Поэтому, когда он произнесёт (слова) такбира, вы тоже произносите их. Когда он совершит поясной поклон, вы тоже поклонитесь (вслед за ним). Когда он скажет: “Да услышит Аллах того, воздал Ему хвалу!”, говорите: “Господь наш, и Тебе хвала!” /Раббана ва ляка-ль-хамд/. И когда он совершит земной поклон, вы тоже совершайте земной поклон. Если он совершает намаз сидя, то все совершайте намаз сидя (вместе с ним)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>734</td></tr><tr><td>Reference</td><td>Book 10 Hadith 128</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:There was a man from the Ansar (who was a friend of mine). If he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7256</td></tr><tr><td>Arabic No</td><td>7256</td></tr><tr><td>Reference</td><td>Book 95 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар (ибн аль-Хаттаб), да будет доволен им Аллах, сказал: «И бывало так, что если мужчина из числа ансаров (сосед ‘Умара, с которым они поочерёдно приходили к Пророку ﷺ) отсутствовал у Посланника Аллаха ﷺ, а я присутствовал у него, то я сообщал ему о том, что было у Посланника Аллаха ﷺ. А если отсутствовал я, а он присутствовал, то он приносил мне известия о том, что было у Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7256</td></tr><tr><td>Arabic No</td><td>7256</td></tr><tr><td>Reference</td><td>Book 95 Hadith 11</td></tr></tbody></table></div>
 

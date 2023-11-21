@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) is reported to have said:I intended to as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] sedangkan laflaznya dari Abu Bakar keduanya berkata; Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Yahya bin Sa'id] bahwa dia mendengar [Ubaid bin Hunain] dia adalah mantan sahaya Abbas, dia berkata; Saya mendengar [Ibnu Abbas] berkata; Saya hendak bertanya kepada [Umar] mengenai dua orang wanita (istri Rasulullah shallallahu 'alaihi wasallam) yang pernah membuat makar kepada beliau pada masa Rasulullah shallallahu 'alaihi wasallam, dan telah setahun lamanya saya belum mendapatkan jawaban hingga akhirnya saya menemani Umar ke Makkah, tatkala sampai Marru Dzahran, dia pergi ke suatu tempat untuk buang hajat, dia berkata; Siapkanlah untukku bejana yang berisi air, lantas saya memberinya, setelah dia selesai menunaikan hajatnya, dia pun kembali dan saya pergi untuk menyusulnya, kemudian saya bertanya kepadanya; Wahai amirul mukminin, siapakah dua istri (Rasulullah shallallahu 'alaihi wasallam) yang … belum sempat saya meneruskan pembicaraanku, hingga dia berkata; 'Aisyah dan Hafshah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3694</td></tr><tr><td>Arabic No</td><td>1479.04</td></tr><tr><td>Reference</td><td>Book 18 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3694</td></tr><tr><td>Arabic No</td><td>1479.04</td></tr><tr><td>Reference</td><td>Book 18 Hadith 43</td></tr></tbody></table></div>
 

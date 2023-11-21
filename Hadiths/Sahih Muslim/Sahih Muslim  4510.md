@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Khalid al-Juhani reported Allah's Messenger (ﷺ) as sayin.:He who found
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] dan [Yunus bin Abdul A'la] keduanya berkata; telah menceritakan kepada kami [Abdullah bin Wahb] dia berkata; telah mengabarkan kepadaku ['Amru bin Harits] dari [Bakr bin Sawadah] dari [Abu Salim Al Jaisyani] dari [Zaid bin Khalid Al Juhani] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa menyembunyikan barang temuan (emas atau perak), maka dia bersalah selama tidak mengumumkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>1725</td></tr><tr><td>Reference</td><td>Book 31 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>1725</td></tr><tr><td>Reference</td><td>Book 31 Hadith 12</td></tr></tbody></table></div>
 

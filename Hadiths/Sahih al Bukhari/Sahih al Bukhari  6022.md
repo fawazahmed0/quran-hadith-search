@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) said, "On every Muslim there is e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Sa'id bin Abu Burdah bin Abu Musa Al Asy'ari] dari [Ayahnya] dari [Kakeknya] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Wajib bagi setiap muslim untuk bersedekah." Para sahabat bertanya; "Bagaimana jika ia tidak mendapatkannya? ' Beliau bersabda:: 'Berusaha dengan tangannya, sehingga ia bisa memberi manfaat untuk dirinya dan bersedekah.' Mereka bertanya; 'Bagaimana jika ia tidak bisa melakukannya? ' Beliau bersabda: 'Menolong orang yang sangat memerlukan bantuan.' Mereka bertanya; 'Bagaimana jika ia tidak bisa melakukannya? ' Beliau bersabda: 'Menyuruh untuk melakukan kebaikan atau bersabda; menyuruh melakukan yang ma'ruf' dia berkata; 'Bagaimana jika ia tidak dapat melakukannya? ' Beliau bersabda: 'Menahan diri dari kejahatan, karena itu adalah sedekah baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6022</td></tr><tr><td>Arabic No</td><td>6022</td></tr><tr><td>Reference</td><td>Book 78 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Каждый мусульманин должен подавать милостыню /садака/”. (Люди) спросили: “А (что делать тому, кто) не найдёт ничего, (что он мог бы дать в качестве милостыни)?” Он ответил: “Пусть поработает своими руками, чем он принесёт пользу самому себе, а (также) раздаст милостыню (из заработанного)”. (Люди) спросили: “А если он (окажется не в состоянии работать)?” Он ответил: “(Тогда ему следует) помочь нуждающемуся, который оказался в беде”. (Люди) спросили: “А если он (окажется не в состоянии сделать и этого)?” Он ответил: “Пусть призывает к одобряемому (или: благому)”». (Люди снова) спросили: “А если он (окажется не в состоянии сделать и этого)?” Он ответил: “Тогда пусть воздерживается от совершения (всего) дурного, и это зачтётся ему как милостыня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6022</td></tr><tr><td>Arabic No</td><td>6022</td></tr><tr><td>Reference</td><td>Book 78 Hadith 53</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Shu'aib: On his father's authority, said that his grandfather t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Hasan bin Tasnim Al 'Ataki] berkata, telah menceritakan kepada kami [Muhammad bin Bakr] berkata, telah mengabarkan kepada kami [Sawwar Abu Hamzah] berkata, telah menceritakan kepada kami [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] ia berkata, "seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam sambil berteriak, ia mengatakan, "Wahai Rasulullah, budak wanitanya!" beliau bersabda: "Celaka kamu, ada apa denganmu?" ia menjawab, "Keburukkan, ia (budak) melihat budak wanita milik tuannya. Lalu tuannya cemburu hingga ia memotong kemaluannya." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Bawa kemari laki-laki itu." Laki-laki itu kemudian dicari namun tidak ketemu. Rasulullah shallallahu 'alaihi wasallam lantas bersabda: "Engkau sekarang merdeka, silahkan pergi." Ia lalu bertanya, "Wahai Rasulullah, kepada siapa aku minta pertolongan?" beliau menjawab: "Kepada setiap mukmin, atau beliau mengatakan, "Kepada setiap muslim." Abu Dawud berkata, "Budak yang dimerdekakan itu namanya adalah Rauh bin Dinar." Abu Dawud berkata lagi, "Sementara orang yang memotong kemaluan budak itu namanya adalah Zinba'." Abu Dawud berkata, "Zinba' Abu Rauh juga mantan budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>4519</td></tr><tr><td>Reference</td><td>Book 41 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что однажды один человек прибежал к Пророку ﷺ взывая о помощи, и воскликнул: «Это всё из-за его рабыни, о Посланник Аллаха!» (Посланник Аллаха ﷺ) спросил: «Горе тебе, что случилось с тобой?» Он ответил: «Зло! (Раб) посмотрел на рабыню своего господина, и тот возревновал и оскопил его!» Посланник Аллаха ﷺ сказал: «Приведите ко мне этого человека!» И он велел найти его, но его так и не смогли найти. Тогда Посланник Аллаха ﷺ сказал рабу: «Иди, ты свободен». Тот спросил: «О Посланник Аллаха, а кто поможет мне?» Посланник Аллаха ﷺ сказал: «Тебе обязан помогать каждый верующий (или: каждый мусульманин)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>4519</td></tr><tr><td>Reference</td><td>Book 41 Hadith 26</td></tr></tbody></table></div>
 

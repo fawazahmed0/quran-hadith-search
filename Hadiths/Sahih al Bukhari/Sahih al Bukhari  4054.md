@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:I saw Allah's Messenger (ﷺ) on the day of the bat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ayahnya] dari [Kakeknya] dari [Sa'd bin Abu Waqash] radliallahu 'anhu, dia berkata, "Pada perang Uhud, aku melihat Rasulullah shallallahu 'alaihi wasallam bersama dua orang laki-laki yang sedang bertempur, keduanya mengenakan pakaian putih, seolah-olah singa dalam medan pertempuran, aku belum pernah melihatnya baik sebelum mamupun sesudahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4054</td></tr><tr><td>Arabic No</td><td>4054</td></tr><tr><td>Reference</td><td>Book 64 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас, да будет доволен им Аллах, сказал: «В день (битвы при) Ухуде я видел Посланника Аллаха ﷺ вместе с двумя людьми в белых одеждах, которые отчаянно сражались (, защищая) его, и я никогда не видел их ни до, ни после этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4054</td></tr><tr><td>Arabic No</td><td>4054</td></tr><tr><td>Reference</td><td>Book 64 Hadith 100</td></tr></tbody></table></div>
 

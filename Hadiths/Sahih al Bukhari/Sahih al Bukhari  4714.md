@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Regarding the explanation of the Verse: 'Those whom they call
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin 'Ali] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepadaku [Sulaiman] dari [Ibrahim] dari [Abu Ma'mar] dari ['Abdullah] mengenai firman Allah: Orang-orang yang mereka seru itu, mereka sendiri mencari jalan kepada Tuhan mereka.., (Al Isra: 57). Abdullah berkata; Sebagian orang menyembah bangsa Jin. Lalu bangsa jin tersebut masuk Islam, sedangkan orang yang menyembahnya tetap pada keyakinan mereka. [Al Asyaj] menambahkan dari [Sufyan] dari [Al A'masy] yaitu firman Allah: Katakanlah: "Panggillah mereka yang kamu anggap (tuhan) selain Allah.., (Al Isra:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4714</td></tr><tr><td>Arabic No</td><td>4714</td></tr><tr><td>Reference</td><td>Book 65 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал об аяте «…ищут близости к своему Господу…»: «Некоторые люди поклонялись джиннам, но джинны приняли ислам, а те, кто им поклонялись остались на своей религии». \nА‘маш добавил: «Скажи: “Взывайте к тем, кого вы считаете богами наряду с Ним…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4714</td></tr><tr><td>Arabic No</td><td>4714</td></tr><tr><td>Reference</td><td>Book 65 Hadith 236</td></tr></tbody></table></div>
 

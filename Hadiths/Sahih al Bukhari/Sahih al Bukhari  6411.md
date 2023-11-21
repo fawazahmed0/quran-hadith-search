@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq:While we were waiting for 'Abdullah (bin Mas'ud). Yazid bin Muaw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] dia berkata; telah menceritakan kepadaku [Syaqiq] dia berkata; Kami pernah menunggu Abdullah, tiba-tiba Yazid bin Mu'awiyah datang, maka kami berkata kepadanya; "Tidakkah anda duduk?." Dia menjawab; 'Tidak, namun aku akan masuk dan akan mengeluarkan saudara kalian (Abdullah) kepada kalian atau kalau tidak, aku akan datang dan duduk.' Setelah itu [Abdullah] keluar dengan menggandeng tangannya Yazid, lalu dia berdiri di hadapan kami seraya berkata; 'Sesungguhnya aku telah diberitahu keadaan kalian, akan tetapi ada suatu hal yang menghalangiku untuk keluar kepada kalian. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam mengatur (penyampaian) nasehat pada kami dalam beberapa hari karena tidak mau membuat kami jemu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6411</td></tr><tr><td>Arabic No</td><td>6411</td></tr><tr><td>Reference</td><td>Book 80 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Шакык (ибн Саляма) рассказывал: «Мы ждали ‘Абдуллаха (ибн Мас‘уда), и в это время пришёл Язид ибн Му‘авия. Мы сказали ему: “Не присядешь?” Он сказал: “Нет, я войду (к Ибн Мас‘уду) и выведу вам вашего товарища. Если же мне это не удастся сделать, то выйду и посижу с вами”. После этого вышел ‘Абдуллах, держа его за руку, встал среди нас и сказал: “Что касается меня, то, поистине, мне известно о том, что вы собирайтесь (возле моего дома). Однако мешает мне выходить к вам (с увещеванием часто) то, что Посланник Аллаха ﷺ завещал нам, чтобы мы обращались к людям с увещеванием определённые дни, не желая того, чтобы наше (частое) увещевание утомляло людей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6411</td></tr><tr><td>Arabic No</td><td>6411</td></tr><tr><td>Reference</td><td>Book 80 Hadith 106</td></tr></tbody></table></div>
 

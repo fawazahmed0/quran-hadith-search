@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said The Apostle of Allaah(ﷺ) returned from ‘Arafah preserving 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah menceritakan kepada Kami [Sufyan] dari [Al A'masy]. Dan diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Wahb bin Bayan], telah menceritakan kepada Kami ['Ubaidah], telah menceritakan kepada Kami [Sulaiman Al A'masy] secara makna, dari [Al Hakam] dari [Miqsam] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bertolak dari 'Arafah dalam keadaan tenang, dan memboncengkan Usamah. Beliau mengatakan: "Wahai para manusia, hendaknya kalian dalam keadaan tenang, sesungguhnya kebaikan tidak dengan mempercepat lari kuda dan unta." Ibnu Abbas berkata; aku tidak melihatnya unta tersebut mengangkat kedua tangannya seperti biasa hingga beliau sampai ke Muzdalifah. [Wahb] menambahkan; kemudian beliau memboncengkan Al Fadhl bin Al Abbas, dan berkata: "Wahai manusia, sesungguhnya kebaikan bukanlah dengan mempercepat lari kuda dan unta, hendaknya kalian dalam keadaan tenang." Ia berkata; aku tidak melihat unta tersebut mengangkat kedua tangannya hingga beliau sampai ke Mina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1920</td></tr><tr><td>Arabic No</td><td>1920</td></tr><tr><td>Reference</td><td>Book 11 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Посланник Аллаха ﷺ покидал ‘Арафат в полном спокойствии, а позади него в седле сидел Усама, и он сказал: “О люди! Сохраняйте спокойствие! Поистине, благочестие не в том, чтобы гнать лошадей и верблюдов”. И я не видел, чтобы его верблюдица высоко поднимала ноги и бежала вплоть до того момента, когда он прибыл в Мину». В версии Вахба добавлено: «А потом он посадил в седло позади себя аль-Фадля ибн ‘Аббаса и сказал: “О люди! Поистине, благочестие не в том, чтобы гнать лошадей и верблюдов. Сохраняйте спокойствие!” И я не видел, чтобы его верблюдица высоко поднимала ноги вплоть до того момента, когда он прибыл в Мину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1920</td></tr><tr><td>Arabic No</td><td>1920</td></tr><tr><td>Reference</td><td>Book 11 Hadith 200</td></tr></tbody></table></div>
 

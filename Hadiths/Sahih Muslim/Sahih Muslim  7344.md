@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:We were along with Allah's Messenger (ﷺ) that we happened to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], teks milik Utsman, berkata Ishaq: telah mengkhabarkan kepada kami, sementara Utsman berkata: telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa'il] dari [Abdullah] berkata: Kami bersama Rasulullah Shallallahu 'alaihi wa Salam, kami melintasi anak-anak, diantara mereka ada Ibnu Shayyad. Anak-anak lari sementara Ibnu Shayyad duduk, sepertinya Rasulullah Shallallahu 'alaihi wa Salam membenci hal itu lalu nabi Shallallahu 'alaihi wa Salam bertanya padanya: "Beruntunglah kamu, apa kau bersaksi bahwa aku utusan Allah?" ia menjawab: Tidak, tapi kau bersaksi bahwa aku utusan Allah. Umar bin Al Khaththab berkata: Biarkan aku membunuhnya wahai Rasulullah. Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila yang kau lihat seperti itu, kau tidak akan mampu membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7344</td></tr><tr><td>Arabic No</td><td>2924.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7344</td></tr><tr><td>Arabic No</td><td>2924.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 108</td></tr></tbody></table></div>
 

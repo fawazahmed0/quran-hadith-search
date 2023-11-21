@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: Allah caused the day of Buath to take place before Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah] radliallahu 'anha berkata; Hari peperangan Bu'ats adalah peperangan yang ditunjukkan oleh Allah dalam kehidupan Rasulullah shallallahu 'alaihi wasallam dimana Rasulullah shallallahu 'alaihi wasallam pernah ikut terlibat pada hari bersejarah tersebut, saat para pemimpin saling bertengkar dan telah terbunuh para pembesat-pembesar yang dimuliakan kaum tersebut dan begitu juga banyak yang terluka dari mereka. Dan Allah juga telah menunjukkan kepada Rasulullah shallallahu 'alaihi wasallam tentang masuk Islamnya mereka". Dan Ibnu Wahb berkata, telah mengabarkan kepada kami 'Amru dari Bukair bin Al Asyaj bahwa Bukair, sahaya Ibnu 'Abbas bercerita keadanya, bahwa Ibnu 'Abbas radliallahu 'anhuma berkata; Sa'i dasar lembah antara bukit Shafa dan Marwah bukanlah sunnah. Karena dahulu orang-oang jahiliyyah mengerjakan sa'i juga disana dan berkata; "Kami tidak akan melewati al Bathha' melainkan dengan berlari-lari kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>3846</td></tr><tr><td>Reference</td><td>Book 63 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «День (битвы при) Бу‘асе Аллах (обратил во благо) Своему Посланнику ﷺ, ибо, когда Посланник Аллаха ﷺ прибыл (в Медину, населяющие её племена) уже не были едины, а их вожди были либо убиты, либо ранены. Таким образом, Аллах (обратил этот день во благо) Своему Посланнику ﷺ (в том смысле, что все это способствовало) тому, что они приняли ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>3846</td></tr><tr><td>Reference</td><td>Book 63 Hadith 71</td></tr></tbody></table></div>
 

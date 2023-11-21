@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdillâh (que Dieu l'agrée), Mou'âdh Ibn Jabal faisait l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Abbad] telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Jabir] dia berkata, "Muadz shalat bersama Nabi Shallallahu'alaihiwasallam, kemudian dia datang, lalu mengimami kaumnya. Maka dia melakukan shalat Isya' pada malam tersebut bersama Nabi Shallallahu'alaihiwasallam, kemudian mendatangi kaumnya, lalu mengimami mereka. Lalu dia membuka dengan surat al-Baqarah, maka seorang laki-laki berpaling lalu salam, kemudian shalat sendirian, lalu berpaling pergi. Maka mereka berkata kepadanya, 'Apakah kamu berlaku munafik wahai fulan? ' Dia menjawab, 'Tidak, demi Allah, aku akan mendatangi Rasulullah Shallallahu'alaihiwasallam, lalu aku akan mengabarkan kepada beliau. Lalu dia mendatangi Rasulullah Shallallahu'alaihiwasallam seraya berkata, 'Wahai Rasulullah, sesungguhnya para pekerja penyiram (tanaman) bekerja pada siang hari (sehingga kecapekan), dan sesungguhnya Mu'adz shalat Isya' bersamamu, kemudian dia datang kepada kami lalu shalat dengan membukanya dengan surat al-Baqarah.' Maka Rasulullah Shallallahu'alaihiwasallam menghadap Mu'adz seraya bersabda, 'Wahai Mu'adz, apakah kamu pemfitnah (yang membuat orang lari dari agama), bacalah dengan surat ini dan bacalah dengan ini' -maksudnya surat yang ringkas dan pendek--." Berkata Sufyan, maka saya berkata kepada Amru sesungguhnya [Abu az-Zubair] telah menceritakan kepada kami, dari [Jabir] bahwa dia berkata, "Bacalah 'Iqra dan asy-Syams wa Dhuhaha, serta Wa adh-dhuha wa al-Laili Idza Yaghsya dan Sabbihisma Rabbika al-A'la". Maka Amru berkata semisal ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>465.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Обычно Му‘аз молился вместе с Пророком ﷺ, а потом возвращался (к себе) и проводил молитву со своими соплеменниками в качестве имама. Однажды (Му‘аз) совершил вместе с Пророком ﷺ вечернюю молитву /‘иша/, а потом вернулся к своим соплеменникам и стал руководить (их вечерней) молитвой, начав с чтения суры “Корова”. Тогда один человек отошёл в сторону и произнёс слова таслима, после чего совершил молитву самостоятельно и ушёл. (Потом люди) стали спрашивать его: “Ты что, стал лицемером, о такой-то?” (на что) он отвечал: “Клянусь Аллахом, нет, и я непременно пойду к Посланнику Аллаха ﷺ и (обо всём) расскажу ему!” (Через некоторое время) он (действительно) явился к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха, у нас есть верблюды, на которых мы возим воду для полива. Днём мы работаем, что же касается Му‘аза, то (сначала) он совершил вместе с тобой вечернюю молитву, а потом пришёл (к нам) и начал читать суру “аль-Бакара”!” (Выслушав его), Посланник Аллаха ﷺ повернулся к Му‘азу и воскликнул: “О Му‘аз, ты что, искуситель?! Читай то-то и то-то!”».Суфьян сказал: «Я сказал ‘Амру, что Абу аз-Зубайр передал нам со слов Джабира, что (Пророк ﷺ сказал Му‘азу): “Читай: “Клянусь солнцем и его (ярким) сиянием”, “Клянусь утром”, “Клянусь ночью, когда она (всё) покрывает (мраком)” и “Славь имя твоего Высочайшего Господа””, и ‘Амр (подтвердил, что он слышал) нечто подобное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>465.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 202</td></tr></tbody></table></div>
 

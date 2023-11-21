@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Verse: "Because of the inconvenience of rain o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abu Al Hasan] Telah mengabarkan kepada kami [Hajjaj] dari [Ibnu Juraij] berkata; Telah mengabarkan kepadaku [Ya'la] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: Jika kamu mendapat sesuatu kesusahan karena hujan atau karena kamu memang sakit (An Nisa: 102) Abdurrahman bin 'Auf berkata; pada waktu itu beliau dalam keadaan terluka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 65 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас сказал относительно аята «На вас не будет греха, если вы отложите свое оружие, когда испытываете неудобство от дождя или больны...»: «‘Абдуррахман ибн ’Ауф был ранен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 65 Hadith 121</td></tr></tbody></table></div>
 

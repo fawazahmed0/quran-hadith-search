@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Manshur] dan [Abdurrahman bin Bisyr Al 'Abdi] keduanya berkata, Telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] dari [Yahya bin Sa'id] dan [Suhail bin Abu Shalih] bahwa keduanya mendengar [An Nu'man bin Abu Abbas Az Zuraqi] menceritakan dari [Abu Sa'id Al Khudri] radliallahu 'anhu, ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berpuasa sehari di jalan Allah, maka Allah akan menjauhkan wajahnya dari api neraka sejauh tujuh puluh ribu musim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2713</td></tr><tr><td>Arabic No</td><td>1153.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2713</td></tr><tr><td>Arabic No</td><td>1153.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 219</td></tr></tbody></table></div>
 

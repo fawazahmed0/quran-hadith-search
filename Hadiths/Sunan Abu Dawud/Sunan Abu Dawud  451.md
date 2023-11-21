@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'Umar reported:The mosque (of the Prophet) during his lifetime was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] dan [Mujahid bin Musa] dan ia lebih sempurna, keduanya berkata; Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [ayahku] dari [Shalih] telah menceritakan kepada kami [Nafi'] bahwasanya [Abdullah bin Umar] mengabarkannya kepadanya bahwa Masjid dahulunya pada masa Rasulullah Shallallahu alaihi wasallam terbuat dari tanah liat dan pelepah kurma. Mujahid berkata; Tiangnya dari batang pohon kurma. Abu Bakar tidak menambahkannya sedikit pun, sementara Umar menambahkan bangunan tersebut, dia membangunnya dengan bahan yang sama seperti Rasulullah Shallallahu alaihi wasallam yaitu dengan tanah liat dan pelepah kurma dan memakai ulang tiangnya. Mujahid berkata; Tiangnya terbuat dari kayu, kemudian Utsman menggantinya, dia menambahkan dengan tambahan yang banyak, dia membangun temboknya dan tiang-tiangnya dengan batu pahat dan batu kapur serta membuatkan atapnya dari kayu jati. Mujahid berkata; Utsman membuatkannya atap dari kayu jati. Abu Dawud berkata; Alqashshatu artinya batu kapur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (446)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>451</td></tr><tr><td>Arabic No</td><td>451</td></tr><tr><td>Reference</td><td>Book 2 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а о том, что ‘Абдуллах ибн ‘Умар рассказывал ему, что при жизни Посланника Аллаха ﷺ мечеть была построена из необожженного кирпича и голых пальмовых ветвей.Муджахид сказал: «А его столбы были сделаны из стволов пальм».Абу Бакр ничего не добавил к ней, а ‘Умар расширил ее, построив новое здание по образцу существовавшего при жизни Посланника Аллаха ﷺ. Он использовал необожженные кирпичи и голые пальмовые ветви и поставил новые деревянные столбы».Муджахид сказал: «Ее столбы были из дерева». Затем (эту мечеть) перестроил ‘Усман, который намного расширил ее. Он возвел стены из украшенных узорами камней (, покрыв их) гипсом /къасса/, и поставил каменные колонны с узорами, и покрыл крышу тиком».Муджахид сказал: «И ее крыша из тика».Абу Дауд сказал: «Аль-Къасса это гипс»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (446)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>451</td></tr><tr><td>Arabic No</td><td>451</td></tr><tr><td>Reference</td><td>Book 2 Hadith 61</td></tr></tbody></table></div>
 

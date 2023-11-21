@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayd ibn Firuz: I asked al-Bara' ibn Azib: What should be avoided in s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namari], telah menceritakan kepada kami [Syu'bah] dari [Sulaiman bin Abdurrahman], dari ['Ubaid bin Fairuz], ia berkata; aku pernah bertanya kepada [Al Bara' bin 'Azib]; sesuatu apakah yang tidak diperbolehkan dalam hewan kurban? Kemudian ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah berdiri diantara kami, jari-jariku lebih pendek daripada jari-jarinya dan ruas-ruas jariku lebih pendek dari ruas-ruas jarinya, kemudian beliau berkata: "Empat perkara yang tidak boleh ada di dalam hewan-hewan kurban." Kemudian belaiu berkata; yaitu; buta sebelah matanya yang jelas kebutaannya, pincang yang jelas pincangnya, sakit yang jelas sakitnya, dan pecah kakinya yang tidak memiliki sumsum. 'Ubaid berkata; aku katakan kepada Al Bara'; tidak suka pada giginya terdapat aib. Ia berkata; apa yang tidak engkau sukai maka tinggalkan dan janganlah engkau mengharamkannya kepada seseorang. Abu Daud berkata; tidak ada otak padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 16 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Убайда ибн Файруза: «Я спросил аль-Бара ибн ‘Азиба о том, каких животных нельзя использовать для жертвоприношения, и он сказал: “Посланник Аллаха ﷺ поднялся и обратился к нам с проповедью. А мои пальцы короче его пальцев, и фаланги моих пальцев короче фаланг его пальцев. И он сказал: “Четырёх животных нельзя использовать для жертвоприношения: одноглазое, уродство которого хорошо заметно, больное, болезнь которого хорошо заметна, хромое, хромота которого хорошо заметна, и истощённое животное, слабость которого очевидна””. Я сказал: “А я не желаю, чтобы недостаток был в возрасте животного”. Он же сказал: “Оставляй то, чего не желаешь, но не запрещай это никому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 16 Hadith 15</td></tr></tbody></table></div>
 

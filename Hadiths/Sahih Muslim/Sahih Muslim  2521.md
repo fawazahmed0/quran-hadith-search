@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with her) narrated that the Prophet (ﷺ) separated hims
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] -lafazh juga darinya- telah menceritakan kepada kami [Laits] dari [Abu Zubair] dari [Jabir] radliallahu 'anhu, bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah (bersumpah) meninggalkan isteri-isterinya selama satu bulan. Tiba-tiba beliau keluar menemui kami pada hari ke dua puluh sembilan, maka kami pun berkata, "Sesungguhnya hari ini baru hari ke dua puluh sembilan." Beliau bersabda: "Sesungguhnya jumlah hari dalam satu bulan itu adalah (kemudian beliau mengangkat jari-jemari tangannya tiga kali, dan menurunkan ibu jarinya pada kali yang ketiga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2521</td></tr><tr><td>Arabic No</td><td>1084.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2521</td></tr><tr><td>Arabic No</td><td>1084.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 27</td></tr></tbody></table></div>
 

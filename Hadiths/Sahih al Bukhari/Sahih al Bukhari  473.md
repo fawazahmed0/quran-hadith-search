@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:A man came to the Prophet (ﷺ) while he was delivering the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar] berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam saat beliau sedang berkhuthbah. Katanya, "Bagaimana cara shalat malam?" Beliau menjawab: "Dua rakaat dua rakaat. Apabila dikhawatirkan masuk subuh, maka shalatlah satu rakaat sebagai witir (penutup) bagi shalat yang telah kamu laksanakan sebelumnya." [Al Walid bin Katsir] berkata, telah menceritakan kepadaku ['Ubaidullah bin 'Abdullah] bahwa [Ibnu 'Umar] menceritakan kepada mereka, bahwa ada seseorang yang memanggil Nabi shallallahu 'alaihi wasallam saat beliau berada di masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>473</td></tr><tr><td>Arabic No</td><td>473</td></tr><tr><td>Reference</td><td>Book 8 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Как-то раз) один человек пришёл к Пророку ﷺ обращавшегося к людям с проповедью и сказал: “Как следует совершать ночную молитву?” Он ответил: “(Человеку, занятому такой молитвой,) следует совершать по два (рак‘ата), если же ты станешь опасаться, что скоро наступит утро, соверши ещё один (рак‘ат), чтобы общее количество того, что ты совершил стало нечётным”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>473</td></tr><tr><td>Arabic No</td><td>473</td></tr><tr><td>Reference</td><td>Book 8 Hadith 121</td></tr></tbody></table></div>
 

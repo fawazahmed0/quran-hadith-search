@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I offered the prayer with the Prophet, Abu Bakr and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] berkata, telah mengabarkan kepada saya [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata: "Aku pernah shalat bersama Nabi shallallahu 'alaihi wasallam di kota Mina dua raka'at. Begitu juga ketika aku shalat bersama Abu Bakar, 'Umar dan juga bersama 'Utsman pada awal pemerintahannya. Namun beliau di kemudian hari menyempurnakannya (empat raka'at)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1082</td></tr><tr><td>Arabic No</td><td>1082</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «В Мине я совершал намазы в два рак‘ата вместе с Пророком ﷺ Абу Бакром и ‘Умаром, а также с ‘Усманом в начале его правления, а затем он стал совершать их полностью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1082</td></tr><tr><td>Arabic No</td><td>1082</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), Je faisais route vers La Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah bin Umar Al Qawariri] dan [Muhammad bin Al Mutsanna], keduanya berkata: Telah menceritakan kepada kami [Abdula'la] telah menceritakan kepada kami [Dawud] dari [Abu An Nadhrah] dari [Abu Sa'id Al Khudri] berkata: Aku menemani Ibnu Shayyad ke Makkah, ia berkata padaku: Aku bertemu dengan sebagaian orang, mereka mengiraku Dajjal. Bukankah kau pernah mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda bahwa ia tidak punya anak? Abu Sa'id berkata: Aku menjawab: Benar. Ibnu Shayyad berkata: Sedangkan aku punya anak. Dan bukankah kau pernah mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Dajjal tidak bisa memasuki Madinah dan Makkah, Abu Sa'id berkata: Aku menjawab: Benar. Ibnu Shayyad berkata: Sementara aku dilahirkan di Madinah dan sekarang ini aku hendak ke Makkah. Abu Sa'id berkata: Setelah itu ia berkata padaku diakhir perkataannya: Ingat, demi Allah aku mengetahui kelahiran, tempat dan dimana ia (Dajjal) berada. Abu Sa'id berkata: Ia mengacaukanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7348</td></tr><tr><td>Arabic No</td><td>2927.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7348</td></tr><tr><td>Arabic No</td><td>2927.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 112</td></tr></tbody></table></div>
 

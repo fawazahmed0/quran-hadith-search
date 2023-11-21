@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:Do you (people) consider the conquest of Mecca, the Victory (re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Isra'il] dari [Abu Ishaq], dari [Al Bara' radliallahu 'anhu] ia berkata; "Kalian mengira penaklukan kota Makkah adalah kemenangan dan memang itu suatu kemenangan. Namun kami menganggap kemenganan itu bermula saat Bai'atur Ridlwan pada peristiwa Hudaibiyyah. Saat itu kami bersama Nabi shallallahu 'alaihi wasallam berjumlah seribu empat ratus orang. Hudaybiyah adalah sebuah sumur lalu kami mengambil airnya hingga tak bersisa setetespun. Setelah kejadian itu terdengar oleh Nabi shallallahu 'alaihi wasallam, beliau segera mendatangi sumur itu dan duduk di tepi sumur tersebut, selanjutnya beliau minta diambilkan bejana, beliau berwudlu' sambil berkumur-kumur, kemudian beliau berdo'a dan menuangkan airnya ke dalam sumur tersebut. Setelah kami mendiamkan sejenak, akhirnya kami dapat minum sesuka kami hingga puas, begitu juga dengan hewan-hewan tungangan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 64 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) аль-Бара, да будет доволен им Аллах, сказал: «Неужели вы считаете победой завоевание Мекки? Завоевание Мекки (действительно) было победой, но мы считаем, что (настоящей) победой была клятва, угодная Аллаху, (которую мы принесли Пророку ﷺ) в день Худайбийи. Нас было с Пророком ﷺ четырнадцать сотен (человек), что же касается (слова) “Худайбийа”, то это — название колодца, воду которого мы вычерпали, не оставив там ни единой капли. Когда об этом стало известно Пророку ﷺ он пришел к этому колодцу и сел на его край. Потом он велел принести себе сосуд с водой и совершил омовение, потом прополоскал рот и обратился с мольбой к Аллаху, а потом вылил (остатки воды) в (этот колодец). И мы подождали совсем немного, а потом (этот колодец) дал нам столько воды, сколько было нужно (всем) нам и нашим верховым животным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 64 Hadith 194</td></tr></tbody></table></div>
 

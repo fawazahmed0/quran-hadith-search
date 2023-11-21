@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Jabir ibn Samura that an unsaddled horse was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] -lafazhnya dari Yahya- Abu Bakr berkata; Telah menceritakan kepada kami -sementara Yahya berkata- telah mengabarkan kepada kami [Waki'] dari [Malik bin Mighwal] dari [Simak bin Harb] dari [Jabir bin Samurah] ia berkata; Nabi shallallahu 'alaihi wasallam diberi kuda yang tak berpelana, lalu beliau pun menaikinya usai mengurusi jenazah Ibnu Dahdah, sementara kami berjalan di sekelilingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2238</td></tr><tr><td>Arabic No</td><td>965.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «После того как Пророк ﷺ совершил заупокойную молитву по Ибн ад-Дахдаху, к нему подвели не осёдланного коня. (Пророк ﷺ) сел верхом, а мы шли рядом с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2238</td></tr><tr><td>Arabic No</td><td>965.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 115</td></tr></tbody></table></div>
 

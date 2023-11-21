@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated One of the Companion: Al-Qasim, the client of AbdurRahman, quoted one o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], ia berkata; telah menceritakan kepada kami [Abdullah bin Wahb], ia berkata; telah mengabarkan kepadaku ['Amr bin Al Harits] bahwa [Ibnu Harsyaf Al Azdi] telah menceritakan kepadanya dari [Al Qasim] mantan budak Abdurrahman dari [sebagian sahabat Nabi shallallahu 'alaihi wasallam], beliau bersabda: "Kami pernah makan unta dan kami tidak membaginya hingga kami kembali ke tempat-tempat tinggal kami, sementara bejana kami penuh dengan daging unta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2706</td></tr><tr><td>Arabic No</td><td>2706</td></tr><tr><td>Reference</td><td>Book 15 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2706</td></tr><tr><td>Arabic No</td><td>2706</td></tr><tr><td>Reference</td><td>Book 15 Hadith 230</td></tr></tbody></table></div>
 

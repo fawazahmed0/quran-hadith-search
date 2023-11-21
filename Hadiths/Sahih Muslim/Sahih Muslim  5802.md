@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There is no transitive di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir]; Telah menceritakan kepadaku [Mu'alla bin Asad]; Telah menceritakan kepada kami ['Abdul 'Aziz bin Mukhtar]; Telah menceritakan kepada kami [Yahya bin 'Atiq]; Telah menceritakan kepada kami [Muhammad bin Sirin] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada penyakit yang menular secara sendirian penyakit tanpa izin Allah, dan tidak ada pengaruh buruk karena burung, dan aku menyukai al Fa'l (kalimat yang baik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5802</td></tr><tr><td>Arabic No</td><td>2223.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5802</td></tr><tr><td>Arabic No</td><td>2223.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 154</td></tr></tbody></table></div>
 

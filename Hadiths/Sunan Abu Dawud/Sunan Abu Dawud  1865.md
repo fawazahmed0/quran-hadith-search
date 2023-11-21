@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi’ said It was Ibn ‘Umar’s habit that whenever he came to Makkah he spe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin 'Ubaid], telah menceritakan kepada Kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] bahwa [Ibnu Umar] apabila datang ke Mekkah, beliau bermalam di Dzu Thuwa hingga pagi, dan beliau mandi kemudian masuk Mekkah pada siang hari, dan ia menyebutkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau telah melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>1865</td></tr><tr><td>Reference</td><td>Book 11 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ передаёт, что Ибн ‘Умар, прибывая в Мекку, ночевал в Зу-Туве, утром совершал большое омовение и днём входил в город. При этом он говорил, что именно так поступал Пророк ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>1865</td></tr><tr><td>Reference</td><td>Book 11 Hadith 145</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Taghlib:The Prophet (ﷺ) said, "One of the portents of the Ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu An Nu'man] telah bercerita kepada kami [Jarir bin Hazim] berkata aku mendengar [Al Hasan] berkata telah bercerita kepada kami ['Amru bin Taghlab] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya diantara tanda-tanda (dekatnya) hari qiyamat adalah kalian memerangi suatu kaum yang memakai sandal bulu. Dan sesungguhnya diantara tanda-tanda (dekatnya) hari qiyamat adalah kalian memerangi suatu kaum yang berwajah lebar, seakan-akan wajah mereka seperti perisai yang melindungi (kulit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2927</td></tr><tr><td>Arabic No</td><td>2927</td></tr><tr><td>Reference</td><td>Book 56 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Амра ибн Таглиба, что Пророк ﷺ сказал: «Одним из признаков Часа будет то, что вы сразитесь с народом, который носит волосяные сандалии. И поистине из признаков Часа будет то, что вы сразитесь с народом, имеющим широкие лица, их лица подобны кожаным щитам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2927</td></tr><tr><td>Arabic No</td><td>2927</td></tr><tr><td>Reference</td><td>Book 56 Hadith 140</td></tr></tbody></table></div>
 

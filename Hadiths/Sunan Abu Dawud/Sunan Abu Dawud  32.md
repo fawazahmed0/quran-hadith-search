@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hafsah, Ummul Mu'minin: The Prophet (ﷺ) used his right hand for takin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Adam bin Sulaiman Al Mishshishi] telah menceritakan kepada kami [Ibnu Abi Za'idah] dia berkata; Telah menceritakan kepada saya [Abu Ayyub, yakni Al Ifriqi] dari ['Ashim] dari [Al Musayyab bin Rafi'] dan [Ma'bad] dari [Haritsah bin Wahb Al Khuza'i] dia berkata; Telah menceritakan kepada saya [Hafshah], [istri Nabi] shallallahu 'alaihi wasallam, bahwasanya Nabi shallallahu 'alaihi wasallam menjadikan tangan kanannya untuk makan, minum, dan berpakaian, dan menjadikan tangan kirinya untuk selain dari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>32</td></tr><tr><td>Arabic No</td><td>32</td></tr><tr><td>Reference</td><td>Book 1 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса ибн Вахб аль-Хуза‘ий сказал: «Рассказала мне Хафса, жена Пророка ﷺ о том, что Пророк ﷺ пользовался правой рукой, когда ел, пил и одевался, а левой во всех остальных случаях»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>32</td></tr><tr><td>Arabic No</td><td>32</td></tr><tr><td>Reference</td><td>Book 1 Hadith 32</td></tr></tbody></table></div>
 

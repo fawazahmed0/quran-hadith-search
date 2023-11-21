@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through another chain of transmitters on the autho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Ar Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad yaitu Ibnu Zaid] dari [Tsabit] dan [Abdul Aziz bin Shuhaib] dari [Anas] Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid, dari [Tsabit] dan [Syu'aib bin Habhab] dari [Anas]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dan [Abdul Aziz] dari [Anas]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Ghubari] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu 'Utsman] dari [Anas]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [ayahku] dari [Syu'aib bin Al Habhab] dari [Anas]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] dan [Umar bin Sa'd] serta [Abdur Razzaq] semuanya dari [Sufyan] dari [Yunus bin 'Ubaid] dari [Syu'aib bin Al Habhab] dari [Anas] dan semuanya dari Nabi shallallahu 'alaihi wasallam, bahwa beliau telah memerdekakan Shafiyyah kemudian beliau menjadikan pembebasannya itu sebagai maskawinnya. Dan dalam hadits [Mu'adz] dari [ayahnya] bahwa beliau telah menikahi Shafiyah sedangkan maskawinnya dengan memerdekakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3498</td></tr><tr><td>Arabic No</td><td>1365.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3498</td></tr><tr><td>Arabic No</td><td>1365.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 100</td></tr></tbody></table></div>
 

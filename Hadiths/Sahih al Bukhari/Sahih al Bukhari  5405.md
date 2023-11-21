@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) took out a bone with meat on it from a coo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdul Wahhab] Telah menceritakan kepada kami [Hammad] Telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengunyah bahu kambing kemudian berdiri dan shalat dengan tidak berwudlu lagi. Dan dari [Ayyub] dan [Ashim] dari [Ikrimah] dari [Ibnu Abbas] ia berkata; Nabi shallallahu 'alaihi wasallam pernah menggigit urat dari periuk kemudian beliau memakannya dan shalat dengan tidak berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5405</td></tr><tr><td>Arabic No</td><td>5405</td></tr><tr><td>Reference</td><td>Book 70 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Пророк ﷺ вынул из котелка кость с мясом, поел мясо и совершил молитву, не совершая омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5405</td></tr><tr><td>Arabic No</td><td>5405</td></tr><tr><td>Reference</td><td>Book 70 Hadith 33</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: When the Prophet (ﷺ) placed the dead in the grave,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Abu Ash Shiddiq] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam apabila meletakkan mayit dalam kuburan beliau mengucapkan: "BISMILLAAH WA 'ALAA MILLATI RASUULILLAAH" (dengan nama Allah dan berada di atas sunnah Rasulullah shallallahu 'alaihi wasallam." dan ini adalah lafazh Muslim)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3213</td></tr><tr><td>Arabic No</td><td>3213</td></tr><tr><td>Reference</td><td>Book 21 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что, когда покойного опускали в могилу, Пророк ﷺ говорил: «С именем Аллаха и согласно сунне Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3213</td></tr><tr><td>Arabic No</td><td>3213</td></tr><tr><td>Reference</td><td>Book 21 Hadith 125</td></tr></tbody></table></div>
 

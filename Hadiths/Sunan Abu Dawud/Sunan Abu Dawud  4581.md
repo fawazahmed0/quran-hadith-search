@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) gave judgment about th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dan Telah menceritakan kepada kami [Isma'il] dari [Hisyam] dan Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ya'la bin Ubaid] berkata, telah menceritakan kepada kami [Hajjaj Ash Shawwaf] semuanya dari [Yahya bin Abu Katsir] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memberi keputusan bahwa diyat Mukatib (budak yang ingin menebus dirinya supaya merdeka) yang terbunuh adalah dibayar sesuai dengan uang yang telah ia berikan untuk menebus kebebasan dirinya, dan selebihnya adalah diyat sebagai seorang budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4581</td></tr><tr><td>Arabic No</td><td>4581</td></tr><tr><td>Reference</td><td>Book 41 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ вынес следующее решение относительно убитого раба, который заключил со своим хозяином договор об освобождении за возмещение /мукатаб/: нужно сравнить то, что он уже выплатил из своего договора /мукатаба/, и то, что ещё осталось, и выплачивать соответствующую часть из компенсации /дийа/ за свободного, а оставшуюся часть из компенсации /дийа/ за раба
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4581</td></tr><tr><td>Arabic No</td><td>4581</td></tr><tr><td>Reference</td><td>Book 41 Hadith 88</td></tr></tbody></table></div>
 

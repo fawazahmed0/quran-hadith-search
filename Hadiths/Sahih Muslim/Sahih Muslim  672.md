@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. Maimun said:I asked Sulaiman b. Yasar whether the semen that gets on to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Amru bin Maimun] dia berkata, "Saya bertanya kepada [Sulaiman bin Yasar] tentang mani yang mengenai baju seorang laki-laki, apakah dia harus mencucinya (bekasnya) atau mencuci bajunya?" Maka dia menjawab, " [Aisyah] telah mengabarkan kepadaku, bahwa Rasulullah shallallahu 'alaihi wasallam dahulu mencuci mani kemudian keluar menuju shalat dengan mengenakan baju tersebut, sedangkan saya melihat bekas cuciannya itu." Dan telah menceritakan kepada kami [Abu Kamil al-Jahdari] telah menceritakan kepada kami [Abdul Wahid] -yaitu Ibnu Ziyad-. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu al-Mubarak] dan [Ibnu Abu Zaidah] mereka semua meriwayatkan dari [Amru bin Maimun] dengan isnad ini, sedangkan Ibnu Abu Zaidah maka haditsnya sebagaimana Ibnu Bisyr mengatakan, "Bahwa Rasulullah shallallahu 'alaihi wasallam mencuci mani." Sedangkan Ibnu al-Mubarak dan Abdul Wahid, maka dalam hadits mereka berdua Aisyah berkata, "Saya dahulu mencuci mani dari baju Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>289.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Маймун сказал: «Я спросил Сулеймана ибн Ясара о попадании спермы на одежду мужчины: “(Достаточно ли) смыть только её или (нужно) стирать одежду (полностью)?” И он ответил: “‘Аиша сообщила мне, что Посланник Аллаха ﷺ смывал сперму и отправлялся на молитву в этой одежде, а я еще видела следы мытья на ней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>289.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 138</td></tr></tbody></table></div>
 

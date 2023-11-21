@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:That Al-Ash'ath entered upon him while he was eating. Al-Ash'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mahmud] Telah mengabarkan kepada kami [Ubaidullah] dari [Israil] dari [Manshur] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dia berkata; bahwa suatu hari Al Asy'ats menemuinya yang pada waktu itu dia sedang makan. Maka dia berkata; Hari ini adalah hari Asyura. Abdullah berkata; Dahulu sebelum diwajibkan bulan Ramadlan, hari ini adalah hari berpuasa. Tatkala diwajibkan bulan Ramadlan, maka hari itu ditinggalkan, oleh karena itu ayo mendekat dan makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4503</td></tr><tr><td>Arabic No</td><td>4503</td></tr><tr><td>Reference</td><td>Book 65 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Абдуллаха, что аль-Аш’ас вошел к нему, когда он ел. Аль-Аш’ас сказал: «День ’Ашура». ’Абдуллах сказал: «До того, как пост в месяц рамадан был вменён в обязанность, люди постились в этот день, когда же пост в месяц рамадан стал обязательным, он был оставлен. Присаживайся поближе и ешь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4503</td></tr><tr><td>Arabic No</td><td>4503</td></tr><tr><td>Reference</td><td>Book 65 Hadith 30</td></tr></tbody></table></div>
 

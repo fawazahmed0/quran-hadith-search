@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:I heard Allah's Apostle (ﷺ) as saying three days before his dea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengkhabarkan kepada kami [Yahya bin Zakariya] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] berkata: Aku mendengar nabi Shallallahu 'alaihi wa Salam bersabda tiga hari sebelum beliau wafat: "Jangalah salah seorang dari kalian meninggal dunia kecuali ia berbaik sangka kepada Allah." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir]. Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah]. Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Isa bin Yunus] dan [Abu Mu'awiyah] semuanya dari [Al A'masy] dengan sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7229</td></tr><tr><td>Arabic No</td><td>2877.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Суфйана, что Джабир (ибн ‘Абдуллах, да будет доволен Аллах ими обоими,) сказал: «Я слышал, как за три дня до своей смерти Пророк ﷺ говорил: “Пусть никто из вас не встречает смерть иначе, как ожидая от Аллаха (только) хорошего!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7229</td></tr><tr><td>Arabic No</td><td>2877.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 98</td></tr></tbody></table></div>
 

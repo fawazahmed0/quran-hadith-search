@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported:Allah's Messenger (ﷺ) addressed us on the day of Na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Sa'id bin Shakhr Ad Darimi] telah menceritakan kepada kami [Abu Nu'man 'Arim bin Al Fadl] telah menceritakan kepada kami [Abdul Wahid] -yaitu Ibnu Ziyad- telah menceritakan kepada kami ['Ashim Al Ahwal] dari [As Sya'bi] telah menceritakan kepadaku [Al Barra' bin 'Azib] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah berkhutbah pada hari Iedul Adlha, sabdanya: "Janganlah salah seorang dari kalian menyembelih hewan kurban hingga selesai shalat (ied)." Lantas seorang laki-laki berkata, "Saya memiliki kambing dewasa yang lebih bagus dari pada dua ekor kambing biasa." Beliau bersabda: "Berkurbanlah dengannya, dan setelahmu tidak boleh lagi seseorang berkurban dengan Jad'ah (kambing usia enam bulan sampai satu tahun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5076</td></tr><tr><td>Arabic No</td><td>1961.08</td></tr><tr><td>Reference</td><td>Book 35 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5076</td></tr><tr><td>Arabic No</td><td>1961.08</td></tr><tr><td>Reference</td><td>Book 35 Hadith 13</td></tr></tbody></table></div>
 

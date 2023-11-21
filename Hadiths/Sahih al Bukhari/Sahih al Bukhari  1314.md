@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, When the funeral is r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] telah menceritakan kepada kami [Al Laits] dari [Sa'id AL Maqbariy] dari [bapaknya] bahwa dia mendengar dari [Abu Sa'id AL Khudriy radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda: "Jika jenazah diletakkan lalu dibawa oleh para laki-laki di atas pundak mereka, maka jika jenazah tersebut termasuk orang shalih (semasa hidupnya) maka dia (jenazah tersebut) berkata; "Bersegeralah kalian (membawa aku). Dan jika ia bukan dari orang shalih, maka dia akan berkata; "Celaka, kemana mereka akan membawanya?. Suara jenazah itu akan didengar oleh setiap makhluq kecuali manusia dan seandainya manusia mendengarnya, tentu dia jatuh pingsan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Если покойный, лежащий на носилках, которые мужчины несут на своих плечах, был праведным, он говорит: “(Несите) меня вперёд (побыстрее)!” Если же (покойный) праведным не был, то он говорит: “О горе (мне)! Куда вы несёте меня?!” — и его голос слышен всем, кроме человека, а если бы услышал его (человек), он лишился бы чувств»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
 

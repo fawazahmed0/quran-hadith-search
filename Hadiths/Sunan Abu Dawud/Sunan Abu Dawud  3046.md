@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubaydullah: Harb ibn Ubaydullah told on the authority of his grandfathe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Al Ahwash], telah menceritakan kepada kami ['Atho' bin As Saib], dari [Harb bin 'Ubaidullah] dari [kakeknya yaitu Abu Ummuhu] dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya membayar sepersepuluh harta adalah kewajiban atas orang-orang yahudi dan nashrani dan tidak ada kewajiban sepersepuluh atas orang-orang muslim." Telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Muharibi], telah menceritakan kepada kami [Waki'] dari [Sufyan], dari ['Atho' bin As Saib] dari [Harb bin 'Ubaidullah] dari Nabi shallallahu 'alaihi wasallam dengan maknanya, beliau bersabda: "Pajak bumi sebagai ganti sepersepuluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>3046</td></tr><tr><td>Reference</td><td>Book 20 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Харб ибн ‘Убайдуллах передаёт от своего деда по матери рассказ его отца о том, что Посланник Аллаха ﷺ сказал: «Десятина взимается с иудеев и христиан. С мусульман же десятина не взимается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>3046</td></tr><tr><td>Reference</td><td>Book 20 Hadith 119</td></tr></tbody></table></div>
 

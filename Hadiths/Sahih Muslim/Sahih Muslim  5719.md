@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), Quand quelqu'un tomba malade 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] serta [Ibnu Abu 'Umar] dan lafazh ini miliknya Ibnu Abu 'Umar dia berkata; Telah menceritakan kepada kami [Sufyan] dari ['Abdu Rabbih bin Sa'id] dari ['Amrah] dari ['Aisyah] bahwa apabila seseorang mengadukan suatu penyakit yang dideritanya kepada Rasulullah shallallahu 'alaihi wasallam, seperti sakit kudis, atau luka, maka Nabi shallallahu 'alaihi wasallam berucap sambil menggerakkan anak jarinya seperti ini -Sufyan meletakkan telunjuknya ke tanah, kemudian mengangkatnya- Bismillahi turbatu ardhina biriiqati ba'dhina liyusyfaa bihi saqiimuna bi idzni rabbina." (Dengan nama Allah, dengan debu di bumi kami, dan dengan ludah sebagian kami, semoga sembuhlah penyakit kami dengan izin Rabb kami). Ibnu Abu Syaibah berkata; ruqyah tersebut berbunyi; Yusyfaa saqiimunaa'. Dan Zuhair berkata; Doa ruqyah tersebut berbunyi; Liyusyfaa saqiimunaa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5719</td></tr><tr><td>Arabic No</td><td>2194</td></tr><tr><td>Reference</td><td>Book 39 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5719</td></tr><tr><td>Arabic No</td><td>2194</td></tr><tr><td>Reference</td><td>Book 39 Hadith 73</td></tr></tbody></table></div>
 

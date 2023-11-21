@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:Jabir said: An Ansari man made his slave a Mudabbar and he had no 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah mengabarkan kepada kami [Hammad bin Zaid] dari [Amru] dari [Jabir], ada seorang laki-laki Anshar menjanjikan kemerdekaan budaknya jika ia meninggal (mudabbar) padahal ia tidak mempunyai harta selainnya, hal itu sampai kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Siapa yang mau membelinya dariku?" Budak itu kemudian dibeli oleh Nu'aim bin Nahham seharga delapan ratus dirham. Kemudian aku mendengar Jabir bin Abdullah mengatakan; 'budak qibthi yang meninggal pada tahun pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6716</td></tr><tr><td>Arabic No</td><td>6716</td></tr><tr><td>Reference</td><td>Book 84 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что (однажды) один человек из числа ансаров решил, что после его смерти его невольник получит свободу, а другого имущества у него не было. Когда это дошло до Пророка ﷺ (он взял этого раба и) стал спрашивать: «Кто купит его у меня?» И Ну‘айм ибн ан-Наххам купил его за восемьсот дирхамов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6716</td></tr><tr><td>Arabic No</td><td>6716</td></tr><tr><td>Reference</td><td>Book 84 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) "I do not remember my parents believin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar]. [Al Laits] mengatakan; telah menceritakan kepadaku ['Uqail], [Ibnu Syihab] berkata; telah mengabarkan kepadaku ['Urwah bin Zubair] bahwa [Aisyah isteri Nabi shallallahu 'alaihi wasallam] berkata; "Saya tidak menyadari bahwa kedua orang tuaku telah memeluk suatu agama, tidak ada hari yang kami lalui kecuali Rasulullah shallaallahu 'alaihi wa sallam pasti berkunjung ke rumah kami pada pagi maupun sore hari. Dan ketika kami tengah duduk-duduk di rumah Abu Bakr pada siang hari, tiba-tiba ada seseorang berkata; "Ini Rasulullah shallallahu 'alaihi wasallam, datang di waktu yang belum pernah datang kepada kami pada saat seperti ini." Abu Bakr berkata; "Tidaklah beliau datang pada saat seperti ini kecuali ada perkara (yang sangat penting), beliau lalu bersabda: "Sesungguhnya aku telah di izinkan untuk keluar (berhijrah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6079</td></tr><tr><td>Arabic No</td><td>6079</td></tr><tr><td>Reference</td><td>Book 78 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Сколько я помнила своих родителей, они всегда исповедовали эту религию, и не было такого дня, когда бы Посланник Аллаха ﷺ не заходил к нам утром и вечером. И в один день, когда мы сидели в доме Абу Бакра в жаркий полдень, кто-то сказал: “Вот идёт Посланник Аллаха ﷺ, в такое время он обычно к нам не приходил!” Абу Бакр сказал: “В такой час его могло привести сюда только (важное) дело!” И Посланник Аллаха ﷺ сказал: “Я получил разрешение уехать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6079</td></tr><tr><td>Arabic No</td><td>6079</td></tr><tr><td>Reference</td><td>Book 78 Hadith 107</td></tr></tbody></table></div>
 

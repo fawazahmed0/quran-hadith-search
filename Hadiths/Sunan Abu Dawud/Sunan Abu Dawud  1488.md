@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salman al-Farsi: The Prophet (ﷺ) said: Your Lord is munificent and ge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muammal bin Al Fadhl Al Harrani], telah menceritakan kepada Kami [Isa yaitu Ibnu Yunus] telah menceritakan kepada Kami [Ja'far yaitu Ibnu Maimun] pemilik beberapa anmath, telah menceritakan kepadaku [Abu Utsman] dari [Salman], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Sesungguhnya Tuhan kalina Yang Maha Suci dan Maha Tinggi adalah Maha Hidup dan Mulia, Dia merasa malu dari hambanya apabila ia mengangkat kedua tanganya kepadaNya dan mengembalikannya dalam keadaan kosong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 8 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салман, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Поистине, ваш Всеблагой и Всевышний Господь стыдлив и щедр, и Он устыдится раба Своего, если тот возденет руки свои к Нему и ему придётся опустить их пустыми”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 8 Hadith 73</td></tr></tbody></table></div>
 

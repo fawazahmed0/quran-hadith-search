@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:While we were sitting in the company of the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Al Miqdam] Telah menceritakan kepada kami [Fudlail bin Sulaiman] Telah menceritakan kepada kami [Abu Hazim] Telah menceritakan kepada kami [Sahl bin Sa'd] ia berkata; Suatu ketika, kami duduk di sisi Nabi shallallahu 'alaihi wasallam, lalu beliau didatangi oleh seorang wanita yang hendak menawarkan diri pada beliau, maka beliau pun memandangi wanita itu dengan cermat, namun beliau belum juga memberi jawaban. Maka seorang laki-laki dari sahabatnya berkakta, "Nikahkanlah aku dengannya wahai Rasulullah." Beliau bertanya, "Apakah kamu memiliki sesuatu (untuk dijadikan mahar)?" laki-laki itu menjawab, "Aku tak punya apa-apa." Beliau bertanya: "Meskipun hanya cincin besi?" laki-laki itu menjawab, "Ya, meskipun hanya cincin besi. Tetapi kainku ini akan aku robek dan memberikan untuknya setengah darinya dan setengah yang lain untukku." Beliau bertanya lagi: "Apakah kamu memiliki hafalan Al Qur'an?" Laki-laki itu menjawab, "Ya." Akhirnya beliau bersabda: "Pergilah, sesungguhnya aku telah menikahkanmu dengan wanita itu dengan mahar hafalan Al Qur'anmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5132</td></tr><tr><td>Arabic No</td><td>5132</td></tr><tr><td>Reference</td><td>Book 67 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д рассказывал: «Однажды, когда мы сидели вместе с Посланником Аллаха ﷺ, к нему пришла одна женщина и предложила ему себя (чтобы он взял её замуж). Посланник Аллаха ﷺ посмотрел на неё, опустив и подняв взор, но не захотел её. Тогда один мужчина из числа его сподвижников сказал: “Выдай её замуж за меня”. Пророк ﷺ спросил его: “Есть ли у тебя что-нибудь, (что ты мог бы дать ей в качестве брачного дара)?” — на что мужчина ответил: “У меня ничего нет!” Пророк ﷺ спросил: “Даже железного кольца?” Человек ответил: “Даже железного кольца, но вот мой изар, я разрежу его пополам, одну половину я отдам ей, а вторую оставлю себе”. (Пророк ﷺ) сказал: “Нет (так не пойдёт). Ты знаешь что-нибудь из Корана (наизусть)?” Он ответил: “Да”. Тогда Пророк ﷺ сказал: “Ступай, мы выдаём её за тебя замуж за то, что ты знаешь из Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5132</td></tr><tr><td>Arabic No</td><td>5132</td></tr><tr><td>Reference</td><td>Book 67 Hadith 68</td></tr></tbody></table></div>
 

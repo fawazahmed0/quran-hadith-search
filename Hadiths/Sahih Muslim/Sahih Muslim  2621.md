@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Khalid al-Ahmar narrated from Humaid who said:I went out and was fasting; th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Humaid] ia berkata; Saya pernah keluar dalam suatu perjalan dan saat itu saya tetap berpuasa, lalu orang-orang pun berkata, "(Kalau kamu tetap berpuasa maka) pulanglah." Saya berkata, "Sesungguhnya [Anas] telah mengabarkan kepadaku, bahwa para sahabat Rasulullah shallallahu 'alaihi wasallam pernah mengadakan perjalanan, namun yang berbuka tidak mencela yang tetap berpuasa dan yang berpuasa tidak mencela yang berbuka. Kemudian saya juga telah menjumpai [Ibnu Abu Mulaikah], dan ia mengabarkan kepadaku dari [Aisyah] radliallahu 'anha, yakni dengan hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2621</td></tr><tr><td>Arabic No</td><td>1118.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2621</td></tr><tr><td>Arabic No</td><td>1118.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 127</td></tr></tbody></table></div>
 

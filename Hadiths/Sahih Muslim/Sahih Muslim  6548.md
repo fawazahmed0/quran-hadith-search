@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Verily. Allah would say o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari apa yang telah dibacakan kepadanya dari ['Abdullah bin 'Abdur Rahman bin Ma'mar] dari [Abu Al Hubab Sa'id bin Yasar] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Ta'ala berfirman pada hari kiamat kelak: "Mana orang-orang yang saling mencintai karena keagungan-Ku? Hari ini kunaungi mereka, di mana tidak ada naungan pada hari ini selain naungan-Ku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6548</td></tr><tr><td>Arabic No</td><td>2566</td></tr><tr><td>Reference</td><td>Book 45 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Поистине, в День воскрешения Аллах скажет: “Где любившие друг друга ради величия Моего? Сегодня, в тот День, когда (иной) тени, кроме тени Моей не будет, Я укрою их в Своей тени!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6548</td></tr><tr><td>Arabic No</td><td>2566</td></tr><tr><td>Reference</td><td>Book 45 Hadith 46</td></tr></tbody></table></div>
 

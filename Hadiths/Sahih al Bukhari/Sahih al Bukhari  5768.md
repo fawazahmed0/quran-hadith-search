@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Saud:The Prophet (ﷺ) said, "If somebody takes some 'Ajwa dates every 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Marwan] telah mengabarkan kepada kami [Hasyim] telah mengabarkan kepada kami ['Amir bin Sa'd] dari [Ayahnya] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa di pagi hari makan beberapa biji kurma 'ajwah setiap harinya, maka tidak akan membahayakan terhadap dirinya baik itu racun maupun sihir pada hari itu hingga malam hari." Dan yang lain mengatakan tujuh biji kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5768</td></tr><tr><td>Arabic No</td><td>5768</td></tr><tr><td>Reference</td><td>Book 76 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амир ибн Са‘д передал со слов своего отца, что Пророк ﷺ сказал: «Тому, кто каждым утром будет съедать финики (сорта) ‘аджва, в этот день не повредят ни яд, ни колдовство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5768</td></tr><tr><td>Arabic No</td><td>5768</td></tr><tr><td>Reference</td><td>Book 76 Hadith 82</td></tr></tbody></table></div>
 

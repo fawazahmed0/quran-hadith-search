@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1551)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 20 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что, когда мусульмане завоевали Хайбар, иудеи попросили Посланника Аллаха ﷺ оставить их трудиться на их земле и обязались отдавать мусульманам половину урожая. Посланник Аллаха ﷺ сказал: «Я оставляю вас на ваших землях, но на столько, на сколько мы пожелаем». После этого половину фиников Хайбара получали мусульмане, а Посланнику Аллаха ﷺ доставалась пятая часть /хумус/. Посланник Аллаха ﷺ давал каждой из своих жён из хумуса сто васков фиников и двадцать васков ячменя. Когда ‘Умар решил выселить иудеев, он послал к жёнам Посланника Аллаха ﷺ сказать им: «Если кто-то из вас желает, чтобы я выделил ей пальмы, на которых примерно сто васков фиников, и эти пальмы, земля и вода, а также участок, засеянный зерновыми, приносящий примерно двадцать васков зерна, принадлежали ей, мы сделаем это. А если кто-то желает, чтобы мы выделяли ей её долю хумуса, как было раньше, мы также сделаем это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1551)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 20 Hadith 81</td></tr></tbody></table></div>
 

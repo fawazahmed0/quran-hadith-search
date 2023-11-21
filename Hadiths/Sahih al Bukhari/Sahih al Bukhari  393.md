@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimun bin Siyah that he asked Anas bin Malik, "O Abu Hamza! What makes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nu'aim] berkata, telah menceritakan kepada kami [Ibnu Al Mubarak] dari [Humaid Ath Thawil] dari [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diperintah untuk memerangi manusia hingga mereka mengucapkan Laa ilaaha illallah (Tidak ada Tuhan yang berhak disembah selain Allah) '. Jika mereka mengucapkannya kemudian mendirikan shalat seperti shalat kita, menghadap ke kiblat kita dan menyembelih seperti cara kita menyembelih, maka darah dan harta mereka haram (suci) bagi kita kecuali dengan hak Islam dan perhitungannya ada pada Allah." [Ibnu Abu Maryam] berkata, telah mengabarkan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Humaid] telah menceritakan kepada kami [Anas] dari Nabi shallallahu 'alaihi wasallam. Dan ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Khalid bin Al Harits] berkata, telah menceritakan kepada kami [Humaid] berkata, "Maimun bin Siyah bertanya kepada [Anas bin Malik], "Wahai Abu Hamzah, apa yang menjadikan haramnya darah dan harta seorang hamba?" Ali menjawab, "Siapa yang bersaksi Laa ilaaha illallah (Tidak ada Tuhan yang berhak disembah selain Allah), menghadap ke kiblat kita, shalat sepeti shalat kita dan memakan sembelihan kita, maka dia adalah Muslim, baginya hak dan kewajiban seorang Muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>393</td></tr><tr><td>Arabic No</td><td>393</td></tr><tr><td>Reference</td><td>Book 8 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумайд сказал: «Однажды Маймун ибн Сияр задал вопрос Анасу ибн Малику: “О Абу Хамза, что делает запретным кровь и имущество раба (Аллаха)?”, — и (Анас, да будет доволен им Аллах,) сказал: “Тот, кто засвидетельствует, что нет никого достойного поклонения, кроме Аллаха, обращается к нашей кибле, совершает молитву так же, как и мы и ест то, что мы приносим в жертву, является мусульманином. Ему полагается то, что полагается мусульманину, и на нём то, что на мусульманине”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>393</td></tr><tr><td>Arabic No</td><td>393</td></tr><tr><td>Reference</td><td>Book 8 Hadith 45</td></tr></tbody></table></div>
 

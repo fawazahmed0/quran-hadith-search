@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu al-Darda: The Prophet (ﷺ) said: Allah has sent down both the dise
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubadah Al Wasithi] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Isma'il bin 'Ayyasy] dari [Tsa'labah bin Muslim] dari [Abu Imran Al Anshari] dari [Ummu Ad Darda] dari [Abu Ad Darda] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah telah menurunkan penyakit dan obat, dan menjadikan bagi setiap penyakit terdapat obatnya, maka berobatlah dan jangan berobat dengan sesuatu yang haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>3874</td></tr><tr><td>Reference</td><td>Book 29 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тарик ибн Сувайд или Сувайд ибн Тарик спросил Пророка ﷺ о вине, и тот запретил ему пить его. Тогда он снова спросил об этом, и (Посланник Аллаха ﷺ) опять запретил ему. Тогда он сказал: «О пророк Аллаха! Но ведь оно является лекарством!» Пророк ﷺ сказал: «Нет, оно болезнь!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>3874</td></tr><tr><td>Reference</td><td>Book 29 Hadith 20</td></tr></tbody></table></div>
 

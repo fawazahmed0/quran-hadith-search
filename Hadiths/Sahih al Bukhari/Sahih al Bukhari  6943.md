@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab bin Al-Art:We complained to Allah's Messenger (ﷺ) (about our 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Isma'il] telah menceritakan kepada kami [Qais] dari [Khabbab bin Al Arat] mengatakan, kami pernah mengeluhkan penderitaan kepada Rasulullah Shallallahu'alaihiwasallam yang ketika itu beliau beralaskan kain panjangnya di naungan ka'bah. Maka kami mengadu; 'Tidakkah engkau meminta pertolongan untuk kami? Tidakkah engkau berdoa untuk kami? ' maka beliau bersabda; "Sungguh sebelum kalian ada orang yang diringkus kemudian digalikan lubang baginya dan ia ditimbun disana, lantas didatangkan gergaji dan diletakkan di kepalanya, sehingga kepalanya terbelah menjadi dua, dan ada yang disisir dengan sisir besi sehingga memisahkan tulang dan dagingnya namun semua siksaan itu tidak memalingkannya dari agamanya, demi Allah, perkara ini akan sempurna sehingga seorang pengendara bisa berjalan dari Shan'a hingga Hadramaut, dan ia tidak khawatir selain kepada Allah dan srigala yang akan menerkam kambingnya, namun kalian ini orang yang suka tergesa-gesa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6943</td></tr><tr><td>Arabic No</td><td>6943</td></tr><tr><td>Reference</td><td>Book 89 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб бин аль-Аратт сказал: «(Однажды,) когда Посланник Аллаха ﷺ лежал в тени Каабы, положив себе под голову свой плащ, мы стали (жаловаться) ему, говоря: “Не попросишь ли ты помощи для нас? Не обратишься ли к Аллаху с мольбой за нас?” (В ответ на это) он сказал: “Среди живших до вас бывало так, что человека хватали, вырывали для него в земле яму, помещали туда, а потом приносили пилу, клали ему на голову и распиливали его надвое. И (бывало так, что человека) раздирали железными гребнями, отделявшими мясо от костей, но и это не (могло заставить) его отречься от своей религии! Клянусь Аллахом, Аллах обязательно приведёт это дело к завершению, и (будет так, что) всадник, направляющийся из Сан‘ы в Хадрамаут, не станет бояться никого, кроме Аллаха или (нападения) волка на своих овец, но вы (слишком) торопитесь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6943</td></tr><tr><td>Arabic No</td><td>6943</td></tr><tr><td>Reference</td><td>Book 89 Hadith 4</td></tr></tbody></table></div>
 

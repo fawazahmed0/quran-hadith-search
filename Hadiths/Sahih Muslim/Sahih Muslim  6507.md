@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazid b. Abu Habib reported that Na'im, the freed slave of Umm Salama, reported 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur]; Telah menceritakan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Yazid bin Abu Habib] bahwa [Na'im] -budak- Ummu Salamah menceritakan kepadannya, ['Abdullah bin 'Amru bin Al 'Ash] berkata; "Seorang laki-laki datang menghadap Rasulullah shallallahu 'alaihi wasallam lalu dia berkata: Aku bai'at (berjanji setia) dengan Anda akan ikut hijrah dan jihad, karena aku mengingini pahala dari Allah." Nabi shallallahu 'alaihi wasallam bertanya: "Apakah kedua orang tuamu masih hidup?" Jawab orang itu; "Bahkan keduanya masih hidup." Nabi shallallahu 'alaihi wasallam bertanya lagi: "Apakah kamu mengharapkan pahala dari Allah?" Jawabnya; "Ya!" Sabda Nabi shallallahu 'alaihi wasallam; "Pulanglah kamu kepada kedua orang tuamu, lalu berbaktilah pada keduanya dengan sebaik-baiknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6507</td></tr><tr><td>Arabic No</td><td>2549.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6507</td></tr><tr><td>Arabic No</td><td>2549.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 7</td></tr></tbody></table></div>
 

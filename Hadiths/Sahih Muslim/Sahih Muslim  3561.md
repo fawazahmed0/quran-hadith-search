@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported:We used to practise 'azl during the l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah meceritakan kepada kami [Mu'adz yaitu Ibnu Hisyam] telah menceritakan kepadaku [ayahku] dari [Abu Zubair] dari [Jabir] dia berkata; "Kami melakukan azl di masa Rasulullah shallallahu 'alaihi wasallam, kemudian hal itu disampaikan kepada Nabi shallallahu 'alaihi wasallam, namun beliau tidak melarang kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3561</td></tr><tr><td>Arabic No</td><td>1440.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3561</td></tr><tr><td>Arabic No</td><td>1440.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 163</td></tr></tbody></table></div>
 

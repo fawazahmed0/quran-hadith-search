@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Bakr As-Siddîq (que Dieu l'agrée), J'étais avec le Prophète da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abad bin Humaid] serta [Abdullah bin Abdurrahman Ad Darimi]. [Abdullah] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Habban bin Hilal] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Tsabit] Telah menceritakan kepada kami [Anas bin Malik] bahwa [Abu Bakr As Siddiq] bercerita kepadanya, dia berkata; "Aku melihat telapak kaki orang-orang Musyrikin berada di atas kami, ketika kami sedang berada di dalam Goa. Lalu aku berkata kepada Rasulullah; 'Ya Rasulullah, seandainya salah seorang dari mereka melihat ke bawah, niscaya ia akan melihat kita di dalam goa ini. Maka Beliau berkata: "Wahai Abu Bakar, tidakkah engkau sadar jika ada dua orang, sesungguhnya Allah adalah yang ketiganya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6169</td></tr><tr><td>Arabic No</td><td>2381</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что Абу Бакр ас-Сиддыкъ, рассказывая ему (историю) сказал: «Когда мы (прятались) в пещере, я увидел ноги многобожников у самых наших голов и сказал: “О Посланник Аллаха, если кто-нибудь из них посмотрит себе под ноги, то обязательно увидит нас!” (В ответ мне Пророк ﷺ) сказал: “А что думаешь ты, о Абу Бакр, о двоих, третьим для которых является Аллах?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6169</td></tr><tr><td>Arabic No</td><td>2381</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
 

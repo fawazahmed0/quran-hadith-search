@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hazm b. Ubayy b. Ka’b said that he came to mu’adh b. jabal who was leading t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>791</td></tr><tr><td>Arabic No</td><td>791</td></tr><tr><td>Reference</td><td>Book 2 Hadith 401</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом: «Обычно Му‘аз молился вместе с Пророком ﷺ, а потом возвращался и проводил молитву с нами (или: своими соплеменниками). Однажды Пророк ﷺ совершил молитву (или: вечернюю молитву /‘иша/) поздно, и Му‘аз помолился с Пророком ﷺ, а потом пришёл руководить молитвой своих соплеменников и стал читать суру “аль-Бакара”, и какой-то человек покинул ряд молящихся и помолился отдельно. Ему сказали: “Ты впал в лицемерие, о такой-то!” Он сказал в ответ: “Я не впал в лицемерие!” Он пришёл к Пророку ﷺ и сказал: “Поистине, Му‘аз совершает молитву с тобой, а потом возвращается и руководит нашей молитвой, о Посланник Аллаха ﷺ. Поистине, мы владельцы верблюдов, используемых для орошения, и работаем своими руками… А он пришёл, чтобы провести с нами молитву, и прочитал суру “аль-Бакара”!” Пророк ﷺ сказал: “О Му‘аз, не искуситель ли ты?! Не искуситель ли ты?! Читай то-то и то-то!”» Абу аз-Зубайр сказал, что Посланник Аллаха ﷺ велел ему читать суры «Славь Господа своего Высочайшего» и «Клянусь ночью, когда она покрывает». (Передатчик) сказал: «И мы спросили ‘Амра, и он сказал: “Кажется, он сказал это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>791</td></tr><tr><td>Arabic No</td><td>791</td></tr><tr><td>Reference</td><td>Book 2 Hadith 401</td></tr></tbody></table></div>
 

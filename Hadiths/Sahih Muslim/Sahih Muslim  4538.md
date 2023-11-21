@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Sa'id that the Messenger of Allah (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Abdus Shamad bin Abdul Warits] telah menceritakan kepada kami [Mustamir bin Ar Rayan] telah menceritakan kepada kami [Abu Nadlrah] dari [Abu Sa'id] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Di hari Kiamat kelak setiap pengkhianat akan membawa bendera yang dikibarkannya tinggi-tinggi sesuai dengan pengkhianatannya. Ketahuilah, tidak ada pengkhianatan yang lebih besar daripada pengkhianatan seorang penguasa terhadap rakyatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>1738.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>1738.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
 

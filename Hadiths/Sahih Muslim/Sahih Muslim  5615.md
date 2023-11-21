@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : "Il m'était né un enfant. Je le portai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Abdullah bin Barrad Al Asy'ari] dan [Abu Kuraib] ia berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] ia berkata; Aku melahirkan seorang anak laki-laki, lalu aku bawa kepada Nabi shallallahu 'alaihi wasallam, beliau menamainya dengan nama 'Ibrahim' dan beliau mengunyahkan kurma untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5615</td></tr><tr><td>Arabic No</td><td>2145</td></tr><tr><td>Reference</td><td>Book 38 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5615</td></tr><tr><td>Arabic No</td><td>2145</td></tr><tr><td>Reference</td><td>Book 38 Hadith 30</td></tr></tbody></table></div>
 

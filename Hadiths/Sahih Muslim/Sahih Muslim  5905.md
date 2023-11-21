@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu 'Umar Al Makki]; Telah menceritakan kepada kami ['Abdul Wahhab Ats Tsaqafi] dari [Ayyub As Sakhtiyani] dari [Muhammad bin Sirin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Apabila hari kiamat telah dekat, maka jarang sekali mimpi seorang Muslim yang tidak benar. Dan mimpi yang paling paling benar adalah mimpi yang selalu bicara benar. Mimpi seorang muslim adalah sebagian dari empat puluh lima macam Nubuwwah (wahyu). Mimpi itu ada tiga macam: (1) Mimpi yang baik sebagai kabar gembira dari Allah. (2) mimpi yang menakutkan atau menyedihkan, datangnya dari syetan. (3) dan mimpi yang timbul karena ilusi angan-angan, atau khayal seseorang. Karena itu, jika kamu bermimpi yang tidak kamu senangi, bangunlah, kemudian Shalatlah, dan jangan menceritakannya kepada orang lain." Ibnu Sirin berkata; 'Aku lebih suka ikatan di kaki, dari pada ikatan di leher.' Karena ikatan di kaki menunjukan keteguhan seseorang di dalam agamanya.' Perawi lain mengatakan; 'Aku tidak tahu apakah perkataan itu termasuk dalam Hadits tersebut atau hanya perkataannya Ibnu Sirin. Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] melalui jalur ini, dan dia berkata di dalam Hadits tersebut; Abu Hurairah berkata; Aku mengagumi ikatan di kaki, dan membenci ikatan di leher.' Karena ikatan di kaki menunjukan keteguhan seseorang di dalam agamanya.' Dan Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam bersabda: 'Mimpinya orang beriman adalah bagian dari empat puluh enam kenabian.' Telah menceritakan kepadaku [Abu Ar Rabi']; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid; Telah menceritakan kepada kami [Ayyub] dan [Hisyam] dari [Muhammad] dari [Abu Hurairah] berkata; 'Apabila hari kiamat sudah dekat……(dan seterusnya). -dia tidak menyebutkan Hadits tersebut dari Nabi shallallahu 'alaihi wasallam.- Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Mu'adz bin Hisyam]; Telah menceritakan kepada kami [Bapakku] dari [Qatadah] dari [Muhammad bin Sirin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. Dan Abu Hurairah menambahkan di dalam Hadits tersebut perkataaan; 'Dan Aku membenci 'Al Ghull' (ikatan di kaki) … -dan seterusnya-. Tanpa menyebutkan kalimat; 'Mimpi adalah bagian dari empat puluh enam kenabian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5905</td></tr><tr><td>Arabic No</td><td>2263.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5905</td></tr><tr><td>Arabic No</td><td>2263.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 9</td></tr></tbody></table></div>
 

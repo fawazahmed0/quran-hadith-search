@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:While 'Umar b. al-Khattab was making a speech on Friday (in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah Ar-Rabi' bin Nafi'] telah mengabarkan kepada kami [Mu'awiyah] dari [Yahya] telah mengabarkan kepada kami [Abu Salamah bin Abdurrahman] bahwasanya [Abu Hurairah] mengabarkan kepadanya bahwasanya [Umar bin Al-Khaththab], ketika berkhutbah pada hari Jum'at, tiba-tiba masuklah seorang laki-laki. Maka Umar berkata; Mengapa kamu terlambat shalat? Orang itu menjawab; Tiada yang membuatku terlambat, kecuali setelah aku mendengar adzan, lalu aku berwudhu. Umar berkata; Kamu hanya melakukan wudhu juga? Tidakkah kamu mendengar Rasulullah shallallahu 'alaihi wasallam bersabda; "Apabila salah seorang di antara kalian hendak pergi shalat Jum'at, maka mandilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (882) Sahih Muslim (845)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>340</td></tr><tr><td>Reference</td><td>Book 1 Hadith 340</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Абу Салама ибн ‘Абду-р-Рахман о том, что Абу Хурайра сообщил ему, что однажды в пятницу, когда ‘Умар ибн аль-Хаттаб обращался (к людям) с проповедью, (в мечеть) вошел один человек и ‘Умар сказал ему: «Вы опаздываете на молитву?» И этот человек сказал: «После того, как я услышал призыв, я всего лишь совершил омовение». ‘Умар сказал: «Даже омовение! Разве вы не слышали, как Посланник Аллаха ﷺ говорил: “Если кто-то из вас отправляется на пятничную молитву, пусть искупается?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (882) Sahih Muslim (845)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>340</td></tr><tr><td>Reference</td><td>Book 1 Hadith 340</td></tr></tbody></table></div>
 

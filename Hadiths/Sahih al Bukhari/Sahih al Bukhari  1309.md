@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id Al-Maqburi:That his father said, "While we were accompanying a fu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibnu Abu Dza'bi] dari [Sa'id Al Maqbariy] dari [bapaknya] berkata,: Kami pernah berada dekat jenazah, ketika itu Abu Hurairah radliallahu 'anhu memegang tangan Marwan lalu keduanya duduk sebelum diletakkan. Kemudian datang [Abu Sa'id radliallahu 'anhu] lalu memegang tangan Marwan seraya berkata,: "Berdirilah!. Demi Allah, sungguh kamu telah tahu bahwa Nabi Shallallahu'alaihiwasallam melarang kita tentang hal ini". Maka [Abu Hurairah radliallahu 'anhu] berkata,: "Dia benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 23 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид аль-Макбури передал, что его отец, да помилует его Аллах Всевышний, сказал: «(Однажды, когда) мы принимали участие в похоронной процессии, Абу Хурайра, да будет доволен им Аллах, взял Марвана за руку и они сели, прежде чем носилки были опущены на землю. Тогда (к ним) подошёл Абу Са‘ид, да будет доволен им Аллах, который (тоже) взял Марвана за руку и сказал: “Встань, ибо клянусь Аллахом, этот (человек) знает, что Пророк ﷺ запретил (поступать так)!” И Абу Хурайра, да будет доволен им Аллах, сказал: “Он говорит правду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 23 Hadith 67</td></tr></tbody></table></div>
 

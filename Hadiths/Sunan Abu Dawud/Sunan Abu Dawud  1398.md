@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: If anyone prays at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami ['Amru] bahwa [Abu Sawiyah] telah mengabarkan kepadanya, bahwa dia pernah mendengar [Ibnu Hujairah] mengabarkan dari [Abdullah bin 'Amru bin Al 'Ash] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bangun (shalat malam) dan membaca sepuluh ayat, maka dia tidak akan di catat sebagai orang-orang yang lalai. Barangsiapa bangun (shalat malam) dengan membaca seratus ayat, maka dia akan di catat sebagai orang-orang yang tunduk dan patuh, dan barangsiapa bangun (shalat malam) dengan membaca seribu ayat, maka dia akan di catat sebagai orang-orang yang dermawan." Abu Daud berkata; Ibnu Hujairah Al Ashgar adalah Abdullah bin Abdurrahman ibnu Hujairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1398</td></tr><tr><td>Arabic No</td><td>1398</td></tr><tr><td>Reference</td><td>Book 6 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто выстаивал молитву, прочитав десять аятов, не будет записан в числе небрежных. Тот, кто выстаивал молитву, прочитав сто аятов, будет записан в числе постоянных в своей покорности Аллаху. А тот, кто выстаивал молитву, прочитав тысячу аятов, будет записан в числе тех, кто получит великую награду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1398</td></tr><tr><td>Arabic No</td><td>1398</td></tr><tr><td>Reference</td><td>Book 6 Hadith 28</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported:There cropped up a difference of opinion between a group of Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Abdullah al-Anshari] telah menceritakan kepada kami [Hisyam bin Hassan] telah menceritakan kepada kami [Humaid bin Hilal] dari [Abu Burdah] dari [Abu Musa al-Asy'ari] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdul A'la] dan ini adalah haditsnya, Telah menceritakan kepada kami [Hisyam] dari [Humaid bin Hilal] dia berkata, "Dan saya tidak mengetahuinya melainkan dari riwayat [Abu Burdah] dari [Abu Musa] dia berkata, "Sejumlah Muhajirin dan Anshar berselisih dalam hal tersebut. Kaum Anshar berpendapat bahwa tidak wajib mandi kecuali disebabkan mengucurnya air mani atau keluarnya air mani. Sedangkan kaum Muhajirin berpendapat, 'Bahkan apabila seseorang telah mencampuri istrinya (sekalipun tidak keluar mani), maka dia telah wajib mandi.' Perawi berkata, "Abu Musa berkata, 'Aku adalah yang paling sehat dari pertikaian tersebut, lalu aku berdiri untuk meminta izin [Aisyah], lalu dia memberikanku izin. Lalu aku berkata kepadanya, 'Wahai ibu atau wahai Ummul Mukminin, sesungguhnya aku berkeinginan untuk menanyakan kepadamu tentang sesuatu, dan sungguh aku malu kepadamu.' Lalu dia berkata, 'Janganlah kamu malu untuk bertanya kepadaku tentang sesuatu yang kamu dahulu pernah bertanya kepada ibumu yang melahirkanmu. aku adalah ibumu.' Aku bertanya, 'Apa yang mewajibkan mandi? ' Dia menjawab, 'Sungguh telah kau temukan manusia arif terhadap pertanyaan yang kau ajukan, Rasulullah shallallahu 'alaihi wasallam bersabda, 'Apabila seorang laki-laki duduk di antara cabang empat wanita (maksudnya kedua paha dan kedua tangan) dan bertemulah kelamin laki-laki dengan kelamin wanita maka sungguh telah wajib mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «Несколько человек из числа мухаджиров и ансаров разошлись во мнениях относительно этого (относительно того, в каких случаях необходимо совершать полное омовение). Ансары говорили: “Полное омовение следует совершать только в случае семяизвержения (или: для очищения от жидкости)”, тогда как мухаджиры утверждали, что делать это обязательно (в любом случае), если (половое сношение имело место)”».(Передатчик этого хадиса сообщил, что) Абу Муса сказал: «Я избавлю вас от этого (затруднения)». (Абу Муса сказал): «После этого я встал и попросил разрешения войти к ‘Аише. Когда меня впустили, я сказал ей: “О матушка (или: мать правоверных), я хочу спросить тебя об одной вещи, но стесняюсь”. Она сказала: “Не стесняйся спрашивать о том же, о чём ты спрашивал твою мать, которая родила тебя, ведь я (тоже) твоя мать”. Тогда я спросил: “В каких случаях полное омовение становится обязательным?” (‘Аиша) сказала: “Ты обратился к тому, кто хорошо знает (об этом). Посланник Аллаха ﷺ сказал: “После того, как (мужчина) усядется меж четырёх частей (тела женщины), и места обрезания соприкоснутся друг с другом, обязательно (следует) совершить полное омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
 

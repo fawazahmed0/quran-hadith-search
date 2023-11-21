@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:'Aishah, mother of believers (ra), intended to buy a slave-gi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], ia berkata; telah dibacakan riwayat kepada Malik sementara aku menyaksikannya. [Malik] berkata; [Nafi'] telah memaparkan kepadaku dari [Ibnu Umar], bahwa Aisyah radliallahu 'anha ummul mukminin hendak membeli seorang budak wanita yang akan ia merdekakan. Kemudian tuannya berkata; kami akan menjualnya kepadamu dengan syarat perwaliaannya adalah milik kami. Kemudian Aisyah menceritakan hal tersebut kepada Rasulullah shallallahu 'alaihi wasallam, kemudian beliau berkata: "Hal tersebut tidaklah menghalangimu, sesungguhnya perwalian adalah untuk orang yang membebaskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2169) Sahih Muslim (1504)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2915</td></tr><tr><td>Arabic No</td><td>2915</td></tr><tr><td>Reference</td><td>Book 19 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды ‘Аиша, мать верующих, да будет доволен ею Аллах, решила купить рабыню, чтобы потом отпустить её на волю, но её владельцы поставили условие: «Мы продаём её, но с оговоркой: мы останемся её покровителями». ‘Аиша рассказала об этом Посланнику Аллаха ﷺ и он сказал: «Пусть это не останавливает тебя, ибо покровителем является тот, кто дарует свободу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2169) Sahih Muslim (1504)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2915</td></tr><tr><td>Arabic No</td><td>2915</td></tr><tr><td>Reference</td><td>Book 19 Hadith 31</td></tr></tbody></table></div>
 

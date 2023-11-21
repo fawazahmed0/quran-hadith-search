@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir that the Messenger of Allah (ﷺ) said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [al-Laits] dari [Abu az-Zubair] dari [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ditampakkan kepadaku para nabi, ternyata Musa adalah salah satu jenis laki-laki seperti laki-laki bani Syanu'ah, dan aku melihat Isa bin Maryam Alaihissalam, ternyata dia mirip dengan orang yang telah aku lihat memiliki kemiripan dengannya, Urwah bin Mas'ud. Dan aku melihat Ibrahim Alaihissalam, ternyata dia mirip dengan orang yang aku lihat memiliki kemiripan dengannya, yaitu sahabat kalian (maksudnya beliau sendiri). Dan aku melihat Jibril Alaihissalam, ternyata dia mirip dengan orang yang pernah aku lihat memiliki kemiripan dengannya, yaitu Dahyah." Dalam riwayat Ibnu Rumh, "Dahyah bin Khalifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 328</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Посланник Аллаха ﷺ сказал: «Мне были показаны пророки. Там был Муса, мужчина среднего телосложения (или: худощавый мужчина), похожий на людей из (племени) шану‘а. И я видел ‘Ису, сына Марьям, и среди тех, кого я повидал, больше всего на него похож ‘Урва ибн Мас‘уд. Я также видел Ибрахима, и среди тех, кого я повидал, больше всего на него похож ваш товарищ, (имея в виду себя самого.) И я видел Джибриля, и среди тех, кого я повидал, больше всего на него похож Дихья». В версий Ибн Румха говорится: «Дихья бин Халифа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 328</td></tr></tbody></table></div>
 

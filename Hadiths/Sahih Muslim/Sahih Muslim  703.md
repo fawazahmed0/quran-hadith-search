@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar said:'Umar asked the verdict of the Shari'ah from the Apostle (ﷺ) th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] dari [Ibnu Juraij] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Umar berkata, "Wahai Rasulullah, apa (boleh) salah seorang dari kita tidur sedangkan dia dalam keadaan junub?" Beliau menjawab, "Ya boleh, apabila dia berwudhu."…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>703</td></tr><tr><td>Arabic No</td><td>306.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что (однажды) ‘Умар обратился к Пророку ﷺ с просьбой вынести (религиозное) решение, сказав: «Можно ли кому-нибудь из нас засыпать в состоянии полового осквернения?» Он ответил: «Да, если хочет пусть он совершит малое омовение /вудуъ/, а потом спит до того, как совершит большое омовение /гусль/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>703</td></tr><tr><td>Arabic No</td><td>306.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 25</td></tr></tbody></table></div>
 

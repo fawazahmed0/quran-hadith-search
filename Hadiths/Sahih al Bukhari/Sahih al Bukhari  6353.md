@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Aqil:that his grandfather. 'Abdullah bin Hisham used to take him f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] dari [Abu 'Uqail] bahwa dia bersama kakeknya Abdullah bin Hisyam pernah keluar dari pasar atau menuju pasar, lalu ia membeli makanan. Selang beberapa saat, ia bertemu dengan [Ibnu Zubair] dan [Ibnu Umar], maka keduanya berkata; "Ikutkanlah kami berdua denganmu, karena Nabi Shallallahu 'alahi wasallam dulu pernah mendo'akanmu dengan keberkahan." Lalu mereka pun ikut bersamanya, dan sepertinya ia mendapatkan tunggangan lalu menghantarkannya sampai ke rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6353</td></tr><tr><td>Arabic No</td><td>6353</td></tr><tr><td>Reference</td><td>Book 80 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ‘Укайль рассказывал, что бывало так, что он выходил со своим дедушкой ‘Абдуллах ибн Хишамом из рынка (или: на рынок) для покупки еды. Когда же его встречали (‘Абдуллах) ибн аз-Зубейр и (‘Абдуллах) ибн ‘Умар, да будет доволен ими Аллах, они говорили (ему): «Возьми и нас с собой, ведь Пророк ﷺ призвал на тебя благословение». И он присоединял их к себе, (в результате чего) ему часто доставалась целая верблюдица, которую он отправлял домой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6353</td></tr><tr><td>Arabic No</td><td>6353</td></tr><tr><td>Reference</td><td>Book 80 Hadith 50</td></tr></tbody></table></div>
 

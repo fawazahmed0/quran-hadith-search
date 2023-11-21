@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: I was with the Messenger of Allah (ﷺ) wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala'] berkata, telah menceritakan kepada kami [Ibnul Mubarak] dari [Yunus] dari [Az Zuhri] ia berkata; telah menceritakan kepadaku [Nabhan] -mantan budak (yang telah dimerdekakan oleh) Ummu Salamah- dari [Ummu Salamah] ia berkata, "Aku berada di sisi Rasulullah shallallahu 'alaihi wasallam ketika Maimunah sedang bersamanya. Lalu masuklah Ibnu Ummi Maktum -yaitu ketika perintah hijab telah turun-. Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Berhijablah kalian berdua darinya." Kami bertanya, "Wahai Rasulullah, bukankah ia buta sehingga tidak bisa melihat dan mengetahui kami?" Nabi shallallahu 'alaihi wasallam balik bertanya: "Apakah kalian berdua buta? Bukankah kalian berdua dapat melihat dia?" Abu Dawud berkata, "Ini hanya khusus untuk isteri-isteri Nabi shallallahu 'alaihi wasallam, tidakkah engkau lihat bagaimana Fatimah binti Qais di sisi Ibnu Ummi Maktum! Nabi shallallahu 'alaihi wasallam pernah berkata kepada Fatimah binti Qais, 'Bukalah hijabmu di sisi Ibnu Ummi Maktum, sebab ia adalah seorang laki-laki buta, maka tidak mengapa engkau letakkan pakaianmu di sisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 34 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм Салямы, да будет доволен ею Аллах: «Мы с Маймуной сидели вместе с посланником Аллаха ﷺ и в это время пришёл Ибн Умм Мактум и попросил разрешения войти, а это было после того, как нам было ниспослано предписание о хиджабе. И Пророк ﷺ сказал: “Закройтесь от него”. Мы сказали: “О Посланник Аллаха, разве он не слепой, который не может видеть нас и не знает нас?” Тогда он сказал: “А разве вы тоже слепые? Разве вы не можете видеть его?!”» Абу Дауд сказал: «Это относится только к жёнам Посланника Аллаха ﷺ потому что известно, что Посланник Аллаха ﷺ велел Фатиме бинт Кайс провести свою ‘идду после третьего развода с мужем в доме Ибн Умм Мактума, сказав ей: “Проведи ‘идду в доме Ибн Умм Мактума, ибо, поистине, он слеп и ты сможешь спокойно снимать верхнюю одежду в его доме”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 34 Hadith 93</td></tr></tbody></table></div>
 

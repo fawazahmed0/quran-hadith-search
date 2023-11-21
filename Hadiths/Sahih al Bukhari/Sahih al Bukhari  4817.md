@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:There gathered near the House (i.e. the Ka'ba) two Quraishi p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Manshur] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah radliallahu 'anhu] dia berkata; Suatu ketika ada tiga orang berkumpul di samping Ka'bah; dua orang dari Quraisy dan satu orang dari Tsaqif atau yang dua orang dari Tsaqif dan satu orang dari Quraisy, perut mereka besar namun hati mereka sedikit memiliki ilmu, lalu salah seorang dari mereka berkata: Apakah menurut kalian Allah mendengar apa yang kita katakan? Yang lain berkata: Jika kita berbicara dengan keras Dia mendengarnya dan jika kita berkata dengan pelan Dia tidak mendengarnya, sedangkan yang lainnya lagi berkata: Jika Dia mendengar ketika kita bicara keras, pasti Dia juga mendengar ketika kita bicara pelan. kemudian Allah menurunkan ayat: "Kamu sekali-sekali tidak dapat bersembunyi dari kesaksian pendengaran, penglihatan dan kulitmu kepadamu bahkan kamu mengira bahwa Allah tidak mengetahui kebanyakan dari apa yang kamu kerjakan" (Fushshilat: 22). [Sufyan] bercerita kepada kami mengenai Hadits ini, ia berkata; Telah menceritakan kepada kami [Manshur] atau [Ibnu Abu Najih] atau [Humaid] salah satu atau dua orang dari mereka. Kemudian ia menetapkan riwayat Manshur dengan meninggalkan yang lainnya. Telah menceritakan kepada kami [Amru bin Ali] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Sufyan At Tsauri] dia berkata; Telah menceritakan kepadaku [Manshur] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah] dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4817</td></tr><tr><td>Arabic No</td><td>4817</td></tr><tr><td>Reference</td><td>Book 65 Hadith 339</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Однажды возле Дома (т.е. Каабы) встретились двое сакафитов и один курайшит (или: двое курайшитов и один сакафит). У них были большие животы, и они мало что понимали. Один из них сказал: “Как вы думаете, Аллах слышит то, что мы говорим?” Другой сказал: “Слышит, когда мы говорим вслух, но не слышит, когда мы говорим шёпотом”. Третий же сказал: “Если Он слышит, когда мы говорим вслух, то должен слышать и тогда, когда мы говорим шёпотом”. Тогда Великий и Могучий Аллах ниспослал аят: “Вы не укрывались от вашего слуха, ваших взоров и вашей кожи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4817</td></tr><tr><td>Arabic No</td><td>4817</td></tr><tr><td>Reference</td><td>Book 65 Hadith 339</td></tr></tbody></table></div>
 

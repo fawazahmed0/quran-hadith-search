@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yahya Abu 'Umar al-Nakhai reported that some people asked Ibn Abbas about the sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Ahmad bin Abi Khalaf] telah menceritakan kepada kami [Zakaria bin Adi] telah menceritakan kepada kami ['Ubaidullah] dari [Zaid] dari [Yahya Abu Umar An Nakha'i] dia berkata, "Suatu kaum bertanya kepada [Ibnu Abbas] tentang memperdagangkan khamer; membeli dan menjualnya lagi. Maka dia balik bertanya, "Apakah kalian orang-orang muslim?" Mereka menjawab, "Ya, benar." Dia berkata, "Sesungguhnya tidak boleh memperdagangkan khamer; membelinya dan menjualnya." Yahya berkata, "Kemudian mereka bertanya mengenai Nabidz (minuman yang terbuat dari perasan buah), maka Ibnu Abbas berkata, "Rasulullah shallallahu 'alaihi wasallam pernah keluar kota kemudian beliau kembali pulang, ternyata sebagian dari para sahabat beliau sedang membuat perasan di dalam Al Khantam, An Naqir dan Ad Dubba', maka beliau menyuruh untuk menumpahkannya. Setelah itu, beliau membuat perasan dari buah anggur dan air, lalu membiarkannya hingga malam. Keesokan harinya beliau meminum perasan tersebut, lalu malam harinya, lalu keesokan harinya lagi dan lusa hingga waktu sampai sore. Dan apabila di pagi harinya perasan tersebut masih tersisa, maka beliau memerintahkan untuk menumpahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5230</td></tr><tr><td>Arabic No</td><td>2004.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5230</td></tr><tr><td>Arabic No</td><td>2004.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 104</td></tr></tbody></table></div>
 

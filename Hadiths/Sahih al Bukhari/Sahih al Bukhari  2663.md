@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) heard someone praising another an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Shabbah] telah menceritakan kepada kami [Isma'il bin Zakariya'] telah menceritakan kepada kami [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam mendengar seseorang memuji seseorang dan berlebihan dalam memujinya, maka Beliau bersabda: "Kalian telah binasa atau dengan redaksi berarti kalian telah memotong punggung seseorang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2663</td></tr><tr><td>Arabic No</td><td>2663</td></tr><tr><td>Reference</td><td>Book 52 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды) услышав, как один человек восхваляет другого и превозносит его, Пророк ﷺ сказал: “Вы погубили этого человека (или: сломали этому человеку хребет)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2663</td></tr><tr><td>Arabic No</td><td>2663</td></tr><tr><td>Reference</td><td>Book 52 Hadith 27</td></tr></tbody></table></div>
 

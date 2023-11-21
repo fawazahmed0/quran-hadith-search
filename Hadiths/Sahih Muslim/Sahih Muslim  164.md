@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibrahim b. Sa'id al-Jauhari has narrated this hadith with the same words in addi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>164</td></tr><tr><td>Arabic No</td><td>42.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Этот хадис с тем же иснадом: «Посланник Аллаха ﷺ был спрошен: “Кто из мусульман является лучшим?” Затем подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>164</td></tr><tr><td>Arabic No</td><td>42.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 71</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Asma bint 'Abî Bakr (que Dieu soit satisfait d'elle), "Az-Zubayr m'ava
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala Abu Kuraib Al Mahdani]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam]; Telah mengabarkan kepadaku [Bapakku] dari [Asma' binti Abu Bakr] ia berkata; "Aku menikah dengan Zubair, sedangkan dia tidak mempunyai apa-apa. Tidak punya pelayan, harta dan sebagainya, selain hanya seekor kuda. Karena itu akulah yang memberi makan kuda, merawat dan melatihnya. Aku pula yang menumbuk biji kurma untuk makan, menyediakan makan dan minumnya, dan aku pula yang menjahit dan memasak. Tetapi aku tidak pandai membuat roti. Karena itu roti kami dibuatkan oleh tetangga kami orang-orang Anshar. Mereka adalah wanita-wanita yang baik. Kata Asma' selanjutnya; 'Aku juga menjunjung buah kurma di kepalaku dari kebun yang dijatahkan Rasulullah shallallahu 'alaihi wasallam kepada Zubair, membawanya sejauh dua farsakh. Pada suatu hari aku membawa buah kurma yang kujunjung di kepalaku. Di tengah jalan aku bertemu dengan Rasulullah shallallahu 'alaihi wasallam beserta beberapa orang sahabatnya: 'Ikh! Ikh! ' Kata beliau menghentikan dan menyuruh untanya berlutut, untuk memboncengku di belakangnya. Setelah itu Asma berkata (ketika bercerita kepada suaminya); 'Tetapi aku malu dan aku tahu bahwa engkau pencemburu.' Jawab Zubair; 'Demi Allah, sesungguhnya bebanmu menjunjung buah kurma di kepalamu, bagiku terasa lebih berat daripada engkau membonceng dengan beliau.' Kata Asma' selanjutnya; Akhirnya, sesudah kejadian itu Abu Bakar, ayahku, mengirim seorang pelayan untuk kami. Dia mengambil alih pemeliharaan kuda menggantikanku. Rasanya seolah-olah aku terbebas dari beban dan kerja berat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5692</td></tr><tr><td>Arabic No</td><td>2182.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5692</td></tr><tr><td>Arabic No</td><td>2182.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 46</td></tr></tbody></table></div>
 

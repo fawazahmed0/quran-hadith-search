@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: The above (No 868) tradition has also been reported thr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Nafi' Abu Tsaubah] dan [Musa bin Isma'il] sedangkan maksud haditsnya sama, keduanya berkata; telah menceritakan kepada kami [Ibnu Al Mubarrak] dari [Musa]. Abu Salamah Musa bin Ayyub mengatakan; dari [pamannya] dari ['Uqbah bin 'Amir] dia berkata; Ketika turun; "FASABBIH BISMIRABBIKAL 'ADZIIM (maka sucikanlah dengan nama Rabbmu yang Maha Agung)." Rasulullah shallallahu 'alaihi wasallam bersabda: "Jadikanlah ia sebagai bacaan ruku' kalian." dan ketika turun; "SABBIHISMA RABBIKAL A'LA (Sucikanlah dengan nama Rabbmu yang Maha tinggi) " maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jadikanlah ia sebagai bacaan sujud kalian." telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Al Laits yaitu Ibnu Sa'd] dari [Ayyub bin Musa atau Musa bin Ayyub] dari [seorang laki-laki dari Kaumnya] dari ['Uqbah bin 'Amir] dengan makna yang sama, dia menambahkan; Uqbah berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam ruku' beliau mengucapkan; "Subhaana rabbiyal 'azhiim wa bihamdihi (Maha suci Rabbku yang Maha Agung dengan pujian-Nya) " sebanyak tiga kali, dan apabila sujud beliau mengucapkan; "Subhaana rabbiyal a'la wa bihamdih (Maha suci Rabbku yang Maha Tinggi dengan segala pujian-Nya) " sebanyak tiga kali." Abu Daud mengatakan; "Saya khawatir tambahan ini tidak dari tambahan yang benar-benar terjaga (kebenarannya)." Abu Daud mengatakan; "Penduduk Mesir meriwayatkan dengan periwayatan tunggal mengenai dua isnad hadits ini yaitu hadits Rabi' dan hadits Ahmad bin Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>870</td></tr><tr><td>Arabic No</td><td>870</td></tr><tr><td>Reference</td><td>Book 2 Hadith 480</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Укба ибн ‘Амир, да будет доволен им Аллах, передаёт похожий хадис с добавлением о том, что Посланник Аллаха ﷺ произносил трижды в поясном поклоне: «Пречист Господь мой Великий и хвала Ему», а во время земного поклона он трижды говорил: «Пречист Господь мой Высочайший и хвала Ему».Абу Дауд сказал: «Мы опасаемся, что это добавление («… и хвала Ему») не является подтверждённым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>870</td></tr><tr><td>Arabic No</td><td>870</td></tr><tr><td>Reference</td><td>Book 2 Hadith 480</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada (a Companion of the Prophet) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dan [Qutaibah bin Said] keduanya berkata; telah menceritakan kepada kami [Malik] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Yahya bin Yahya] katanya; Aku pernah menyetorkan hapalan kepada [Malik] dari [Amir bin Abdullah bin Zubair] dari ['Amru bin Sulaim Az Zuraqi] dari [Abu Qatadah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang diantara kalian masuk masjid, shalatlah dua rakaat sebelum duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1654</td></tr><tr><td>Arabic No</td><td>714.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Катады, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас зайдёт в мечеть, пусть совершит молитву в два рак‘ата, прежде чем садиться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1654</td></tr><tr><td>Arabic No</td><td>714.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 84</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Ali:If a man visits a patient in the evening, seventy thousand angels 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Syu'bah] dari [Al Hakam] dari [Abdullah bin Nafi'] dari [Ali], ia berkata; tidaklah seorang laki-laki menjenguk orang yang saki pada sore hari melainkan akan keluar tujuh puluh ribu malaikat yang memintakan ampunan untuknya hingga pagi hari, dan baginya kebun di Surga. Dan barang siapa yang mendatanginya pada pagi hari, maka keluarg bersamanya tujuh puluh ribu malaikat yang memohonkan ampunan baginya hingga sore hari, dan baginya kebun di Surga. Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Abu Mu'awiyah], ia berkata; telah menceritakan kepada kami [Al A'masy], dari [Al Hakam] dari [Abdurrahman bin Abu Laila], dari [Ali] dari Nabi shallallahu 'alaihi wasallam dengan maknanya, ia tidak menyebutkan kebun. Abu Daud berkata; hadits tersebut diriwayatkan oleh Manshur dari Al Hakam, sebagaimana diriwayatkan oleh syu'bah. Telah menceritakan kepada kami [Ustman bin Abi Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Al Hakam] dari [Abu Ja'far Abdullah bin Nafi'], ia berkata; dan Nafi' adalah budak Al Hasan bin Ali. Ia berkata; Abu Musa telah datang kepada Al Hasan bin Ali untuk mengunjunginya. Abu Daud berkata; dan ia menyebutkan makna hadits Syu'bah. Abu Daud berkata; hadits ini disandarkan dari Ali dari Nabi shallallahu 'alaihi wasallam tidak hanya dari sisi yang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3098</td></tr><tr><td>Arabic No</td><td>3098</td></tr><tr><td>Reference</td><td>Book 21 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, сказал: «Какой бы человек ни навестил больного вечером, семьдесят тысяч ангелов обязательно выйдут с ним и станут просить прощения до самого утра, и в Раю для него будут собраны плоды. А если кто-то навестит больного утром, семьдесят тысяч ангелов обязательно выйдут с ним и станут просить для него прощения до самого вечером, а в Раю для него будут собраны плоды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3098</td></tr><tr><td>Arabic No</td><td>3098</td></tr><tr><td>Reference</td><td>Book 21 Hadith 10</td></tr></tbody></table></div>
 

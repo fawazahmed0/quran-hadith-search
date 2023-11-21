@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Allah's Messenger (ﷺ) was ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala' Al Hamdani] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [ayahnya] dari ['Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah ditanya mengenai wanita yang dinikahi laki-laki, lalu dia menceraikannya, lantas (wanita tersebut) menikah lagi dengan laki-laki lain, lalu diceraikan lagi oleh suami kedua sebelum melakukan senggama, apakah dia halal untuk suaminya yang pertama? Beliau menjawab: Tidak, sampai dia (suami kedua) merasakan madunya". Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ibnu Fudlail]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah] semuanya dari [Hisyam] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3529</td></tr><tr><td>Arabic No</td><td>1433.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3529</td></tr><tr><td>Arabic No</td><td>1433.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 131</td></tr></tbody></table></div>
 

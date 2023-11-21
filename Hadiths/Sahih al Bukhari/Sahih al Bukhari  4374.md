@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Musailima Al-Kadhdhab came during the lifetime of the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Abdullah bin Abu Husain] Telah menceritakan kepada kami [Nafi' bin Jubair] dari [Ibnu Abbas radliallahu 'anhuma] dia berkata; Pada masa Nabi shallallahu 'alaihi wasallam, Musailamah Al Kadzab pernah datang ke Madinah. Sesampainya di sana, dia berkata; 'Kalau Muhammad mau mewariskan urusan kenabiannya kepadaku, niscaya aku akan mengikuti ajarannya.' Musailamah datang ke Madinah bersama dengan beberapa orang dari kaumnya. Kemudian Rasulullah shallallahu 'alaihi wasallam dan Tsabit bin Qais bin Syammas menyambut kedatangannya, dan pada saat itu beliau sedang memegang sebilah pelepah kurma. Setelah berhadapan dengan Musailamah dan para pengikutnya, Rasulullah shallallahu 'alaihi wasallam berkata; "Hai Musailamah, seandainya kamu meminta agar aku memberikan sepotong pelepah kurma ini kepadamu, tentu aku tidak akan pernah memberikannya. Dan jika kamu meminta urusan Allah ini kepadaku, tentu aku lebih tidak akan pernah memberikannya kepadamu. Jika kamu tidak akan mematuhi perintah dan ajaran Allah, niscaya Dia pasti akan membinasakanmu. Hai Musailamah, sungguh aku telah melihat tentang kebinasaanmu, sebagaimana yang aku saksikan dalam mimpiku itu. inilah Tsabit yang akan menggantikanku untuk menjawab tantanganmu. Kemudian Rasulullah shallallahu 'alaihi wasallam meninggalkan Musailamah Al Kadzdzab. Ibnu Abbas berkata; 'Saya pernah bertanya tentang ucapan Nabi shallallahu 'alaihi wasallam tersebut, yaitu tentang mimpi beliau yang berhubungan dengan Musailamah Al Kadzdzab, maka [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Ketika aku sedang tidur, aku bermimpi bahwa di kedua tanganku ada dua buah gelang emas, hingga aku merasa cemas dengan keberadaan dua buah gelang itu. Kemudian aku diberi wahyu dalam tidurku itu agar aku meniup kedua gelang tersebut, lalu aku pun meniupnya hingga kedua gelang itu hilang. Maka dari mimpi itu aku menafsirkan bahwa dua buah gelang tersebut adalah dua orang pembohong (nabi palsu) yang akan muncul sepeninggalku kelak, yang satu adalah Al Ansi, seorang pemimpin dari Shan'a dan yang satunya adalah Musailamah, seorang pemimpin dari Yamamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4374</td></tr><tr><td>Arabic No</td><td>4374</td></tr><tr><td>Reference</td><td>Book 64 Hadith 399</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «При жизни Посланника Аллаха ﷺ (в Медину) приехал Лжец Мусайлима, который стал говорить: “Если Мухаммад (распорядится) передать мне власть после своей (смерти), я последую за ним”, а вместе с ним (в Медину) приехало и множество его соплеменников. В сопровождении Сабита ибн Кайса ибн Шаммаса к нему вышел Посланник Аллаха ﷺ, державший в руке голую пальмовую ветвь. Он остановился около Мусайлимы, которого окружали его последователи, и сказал (ему): “Если бы ты попросил у меня (даже) эту (ветвь), я не отдал бы тебе и её, и ты не никогда не сможешь пойти против (решения) Аллаха относительно тебя, если же ты станешь поступать наперекор (истине), Аллах обязательно уничтожит тебя! Поистине, я думаю, что ты и есть тот, кто был показан мне во сне, а Сабит ответит тебе вместо меня”, после чего (Пророк ﷺ) покинул его».\nИбн ‘Аббас сказал: «Я стал спрашивать о (смысле) слов Посланника Аллаха ﷺ: “Поистине, я думаю, что ты и есть тот, кто был показан мне во сне”, и Абу Хурайра сообщил мне, что Посланник Аллаха ﷺ сказал: “Однажды во сне я увидел на своей руке два золотых браслета, что обеспокоило меня, однако во сне же мне было ниспослано откровение, в котором мне было велено подуть на них. После того как я подул на них, они улетели, я же истолковал два этих браслета как двух лжецов, которые появятся после меня”, и одним из них стал аль-‘Анси, а другим — Мусайлима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4374</td></tr><tr><td>Arabic No</td><td>4374</td></tr><tr><td>Reference</td><td>Book 64 Hadith 399</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I twisted the garlands of the Hadis (i.e. animals for sacrifice)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepada saya [Malik] dari ['Abdullah bin Abu Bakar bin Hazm] dari ['Amrah binti 'Abdurrahman] bahwasanya dia mengabarkan kepadanya, ['Aisyah radliallahu 'anha] berkata: "Aku mengikatkan tali pada hewan qurban Rasulullah shallallahu 'alaihi wasallam dengan tanganku kemudian Rasulullah shallallahu 'alaihi wasallam mengikatnya kembali dengan tangan Beliau lalu mengirimnya kepada bapakku. Maka sejak itu tidak ada yang diharamkan lagi bagi Rasulullah shallallahu 'alaihi wasallam dari apa-apa yang Allah halalkan hingga hewan qurban disembelih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 40 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я своими руками свила верёвки для жертвенного скота Посланника Аллаха ﷺ потом Посланник Аллаха ﷺ собственноручно повязал ими шеи животных, после чего он отправил их с моим отцом (в Мекку), и ничто из дозволенного Аллахом не было запретным для Посланника Аллаха ﷺ до того, как их приносили в жертву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 40 Hadith 16</td></tr></tbody></table></div>
 

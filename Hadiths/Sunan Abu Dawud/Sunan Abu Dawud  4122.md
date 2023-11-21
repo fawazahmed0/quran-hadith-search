@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ma'mar said:Al-Zuhri used to deny tanning and say: Some good can be got out of i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Abdurrazaq] ia berkata; [Ma'mar] berkata; [Az Zuhri] mengingkari bolehnya kulit yang disamak, ia mengatakan, "Ia bisa dimanfaatkan dalam setiap keadaan." Abu Dawud berkata, "Al Auza'I, Yunus dan Uqail dalam hadits Az Zuhri tidak menyebutkan kata 'samak'. Sedangkan Az Zubaidi, Sa'id bin Abdul Aziz dan Hafsh Ibnul Walid, mereka menyebutkan kata 'samak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4122</td></tr><tr><td>Arabic No</td><td>4122</td></tr><tr><td>Reference</td><td>Book 34 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аз-Зухри отвергал дубление и утверждал, что шкуру можно использовать в любом случае, и в его версии хадиса дубление не упоминается. Абу Дауд сказал: аль-Авза‘и, Юнус и ‘Укайль не упоминали дубление в версии аз-Зухри, однако аз-Зубайди, Са‘ид ибн ‘Абду-ль-‘Азиз и Хафс ибн аль-Валид упоминали дубление
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4122</td></tr><tr><td>Arabic No</td><td>4122</td></tr><tr><td>Reference</td><td>Book 34 Hadith 103</td></tr></tbody></table></div>
 

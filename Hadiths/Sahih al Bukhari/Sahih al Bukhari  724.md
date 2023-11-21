@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I arrived at Medina and was asked whether I found any ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Asad] berkata, telah mengabarkan kepada kami [Al Fadll bin Musa] berkata, telah mengabarkan kepada kami [Sa'id bin 'Ubaid Ath Tha'i] dari [Busyair bin Yasar Al Anshari] dari [Anas bin Malik], bahwa dia datang ke Madinah, lalu dikatakan kepadanya, "Apakah ada sesuatu yang kamu ingkari dari perbuatan kami sejak kamu hidup bersama Rasulullah shallallahu 'alaihi wasallam?" Anas bin Malik menjawab, "Tidak ada sesuatu yang aku ingkari dari kalian kecuali kalian tidak meluruskan shaf dalam shalat." ['Uqbah bin 'Ubaid] berkata dari [Busyair bin Yasar] bahwa [Anas bin Malik] mendatangi kami di Madinah seperti keterangan riwayat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>724</td></tr><tr><td>Arabic No</td><td>724</td></tr><tr><td>Reference</td><td>Book 10 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Бушайра ибн Ясара аль-Ансари о том, что когда Анас ибн Малик приехал в Медину, у него спросили: «Что ты (находишь) у нас порицаемым (по сравнению со временем,) когда ты был с посланником Аллаха ﷺ?» Он ответил: «Ничего не (нахожу) порицаемым, если не считать того, что вы не выравниваете свои ряды (в намазе)».\nСказал ‘Укъба ибн ‘Убайд: «От Бушайра ибн Ясара: “К нам в Медину приехал Анас ибн Малик …”» (и он передал) этот хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>724</td></tr><tr><td>Arabic No</td><td>724</td></tr><tr><td>Reference</td><td>Book 10 Hadith 118</td></tr></tbody></table></div>
 

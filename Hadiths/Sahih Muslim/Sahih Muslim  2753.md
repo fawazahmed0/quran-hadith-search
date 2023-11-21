@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain (Allah be pleased with them) reported that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [keponakan Mutharrif bin Asy Syikhkhir] ia berkata, saya mendengar [Mutharrif] menceritakan dari [Imran bin Husain] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam bertanya kepada orang: "Apakah kamu telah berpuasa di akhir bulan ini (Sya'ban)?" laki-laki itu menjawab, "Tidak." Maka beliau pun bersabda kepadanya: "Jika kamu telah usai menunaikan puasa Ramadlan, maka berpuasalah sehari -atau- dua hari." Yang ragu adalah Syu'bah, ia berkata; Dan menduga bahwa beliau mengatakan: "Dua hari." Dan telah menceritakan kepadaku [Muhammad bin Qudamah] dan [Yahya Al Lu'lu'i] keduanya berkata, telah mengabarkan kepada kami [An Nadlr] telah mengabarkan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdullah bin Hani' bin Akhu Mutharrif] dalam isnad ini, dengan hadits yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2753</td></tr><tr><td>Arabic No</td><td>1161.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2753</td></tr><tr><td>Arabic No</td><td>1161.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 259</td></tr></tbody></table></div>
 

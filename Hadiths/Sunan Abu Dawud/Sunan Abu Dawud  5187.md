@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said that he went to the prophet (ﷺ) about the debt of my father. He sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Bisyr] dari [Syu'bah] dari [Muhammad Ibnul Munkadir] dari [Jabir] Bahwasanya ia pernah pergi menemui Nabi shallallahu 'alaihi wasallam untuk membicarakan hutang bapaknya. Aku lalu mengetuk pintu, beliau bertanya: "Siapa itu?" Aku menjawab, "Saya." Beliau bersabda: "Saya, saya." Seakan beliau tidak menyukai jawaban tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6250) Sahih Muslim (2155)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 43 Hadith 415</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир (бин ‘Абдуллах), да будет доволен Аллах ими обоими, сказал: «(Однажды) я пришёл к Пророку ﷺ чтобы (поговорить с ним) о долге моего отца, и постучал в дверь. Он спросил: “Кто это?” Я ответил: “Я”, он же (стал повторять): “Я, я!” (говоря это так, что мне показалось), будто (мой ответ) ему не понравился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6250) Sahih Muslim (2155)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 43 Hadith 415</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:Once, while I was sitting with the companions of the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] Telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Abu Hazim] dari [Abdullah bin Abu Qatadah As Salami] dari [bapaknya] bahwa ia berkata; Pada suatu hari, aku duduk-duduk bersama beberapa orang dari kalangan sahabat Nabi shallallahu 'alaihi wasallam, tepatnya di suatu rumah yang ada di jalan menuju Makkah, sementara Nabi shallallahu 'alaihi wasallam juga singgah di hadapan kami, sedangkan orang-orang dalam keadaan Ihram, kecuali aku. Tiba-tiba mereka melihat keledai liar, sementara aku sedang sibuk menambal sendalku, dan mereka juga tidak memberitahuku. Mereka sangat menginginkan bila aku melihatnya. Aku pun menoleh, lalu melihatnya, maka aku segera beranjak menuju kuda milikku, memasang pelananya dan menaikinya, namun aku lupa untuk membawa cambuk dan tombak. Maka kukatakanlah pada mereka, "Ambilkan cambuk dan tombak." Mereka berkata, "Tidak, Demi Allah, kami tidak akan membantumu dengan sesuatu pun untuk menangkapnya." Aku pun marah dan turun lalu mengambil keduanya lalu segera menuju himar dan menikamnya. Kemudian aku mendatanginya, dan ternyata ia telah mati. Lalu orang-orang yang muhrim pun ikut memakan dagingnya. Sesudah itu, mereka merasa bimbang karena memakannya karena mereka dalam keadaan Muhrim. Kemudian kami pun istirahat dan aku menyimpan daging bagian lengannya. Setelah itu, kami menjumpai Rasulullah shallallahu 'alaihi wasallam dan kami pun menanyakan hal itu pada beliau, maka beliau bersabda: "Apakah kalian masih mempunyai dagingnya?" Maka aku menyerahkan bagian lengannya itu pada beliau dan beliau pun memakannya hingga mengunyahnya sementara beliau sedang muhrim. [Muhammad bin Ja'far] berkata; dan Telah menceritakan kepadaku [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Qatadah] semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5407</td></tr><tr><td>Arabic No</td><td>5407</td></tr><tr><td>Reference</td><td>Book 70 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада сказал: «Однажды я сидел с некоторыми сподвижниками Пророка ﷺ, остановившись по дороге в Мекку. Посланник Аллаха ﷺ был впереди нас. Все мои спутники были в состоянии ихрама, а я — нет. (Мои товарищи) увидели дикого осла, а я был занят тем, что чинил свою обувь, и они не сказали мне о нём, но хотели, чтобы я увидел его. Повернув голову, я увидел его. Я оседлал коня и сел на него верхом, но забыл взять кнут и копьё. Я сказал своим спутникам: “Подайте мне кнут и копьё”. Но они ответили: “Нет, клянёмся Аллахом, мы ничем тебе не поможем в этом деле (охоте на дикого осла)”. Тогда я разгневался, спустился и взял их сам, затем сел снова верхом и напал на осла, ранив его. Когда я принёс его, он уже умер. Мои товарищи (приготовили его) и начали есть, но затем засомневались, разрешено ли им есть его, будучи в состоянии ихрама? После этого мы двинулись дальше, и я взял с собой ногу этого осла. Когда мы догнали Посланника Аллаха ﷺ и спросили его об этом случае, он спросил: “Вы взяли с собой его мясо?” Я ответил: “Да”. Я дал ему ногу, и он обглодал её полностью, находясь в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5407</td></tr><tr><td>Arabic No</td><td>5407</td></tr><tr><td>Reference</td><td>Book 70 Hadith 35</td></tr></tbody></table></div>
 

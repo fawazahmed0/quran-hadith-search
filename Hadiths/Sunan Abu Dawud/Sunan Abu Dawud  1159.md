@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:The Messenger of Allah (ﷺ) came out on the day of the breaking
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku ['Adi bin Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam keluar pada hari raya Fithri, kemudian shalat dia raka'at, beliau tidak shalat (sunnah) baik sebelum maupun sesudahnya. Setelah itu, beliau bersama Bilal pergi menemui kaum wanita, dan menyuruh mereka memperbanyak sedekah, maka kaum wanita melepas anting dan kalung mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (964) Sahih Muslim (884 After 890)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1159</td></tr><tr><td>Arabic No</td><td>1159</td></tr><tr><td>Reference</td><td>Book 2 Hadith 770</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ вышел в день праздника разговения и совершил два рак‘ата молитвы. И он не совершал ни до неё, ни после неё никаких других молитв. А потом он подошёл к женщинам вместе с Билялем и велел им подавать милостыню. И женщины начали бросать свои серьги и ожерелья
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (964) Sahih Muslim (884 After 890)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1159</td></tr><tr><td>Arabic No</td><td>1159</td></tr><tr><td>Reference</td><td>Book 2 Hadith 770</td></tr></tbody></table></div>
 

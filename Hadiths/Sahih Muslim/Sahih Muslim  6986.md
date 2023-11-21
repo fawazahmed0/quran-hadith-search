@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdul A'la bin Hammad] telah menceritakan kepada kami [Hammad bin Salamah] dari [Ishaq bin 'Abdullah bin Abu Thalhah] dari ['Abdurrahman bin Abu 'Amrah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dari apa yang telah dikhabarkan oleh Allah Subhanahu Wa Ta'ala, beliau bersabda: "Dahulu, ada seorang yang telah berbuat dosa. Setelah itu, ia berdoa dan bermunajat; 'Ya Allah, ampunilah dosaku! ' Kemudian Allah Subhanahu Wa Ta'ala berfirman: 'Sesungguhnya hamba-Ku mengaku telah berbuat dosa, dan ia mengetahui bahwasanya ia mempunyai Tuhan yang dapat mengampuni dosa atau memberi siksa karena dosa.' Kemudian orang tersebut berbuat dosa lagi dan ia berdoa; 'Ya Allah, ampunilah dosaku! ' Maka Allah Subhanahu Wa Ta'ala berfirman: 'Hamba-Ku telah berbuat dosa, dan ia mengetahui bahwasanya ia mempunyai Tuhan yang mengampuni dosa atau menyiksa hamba-Nya karena dosa. Oleh karena, berbuatlah sekehendakmu, karena Aku pasti akan mengampunimu (jika kamu bertaubat).' Abdul A'la berkata; 'Saya tidak mengetahui apakah Rasulullah shallallahu 'alaihi wasallam berkata: 'Berbuatlah sekehendakmu' pada kali yang ketiga atau ke empat." Abu Ahmad berkata; telah menceritakan kepadaku Muhammad bin Zanjuyah Al Qurasyi Al Qusyairi telah menceritakan kepada kami 'Abdul A'la bin Hammad An Narsi dengan sanad ini. Telah menceritakan kepadaku ['Abd bin Humaid] telah menceritakan kepadaku [Abul Walid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Ishaq bin 'Abdullah bin Abu Thalhah] dia berkata; Dulu, di Madinah ada seorang yang berkisah, dia biasa dipanggil dengan [Abdurrahman bin Abu Amrah] dia berkata; aku mendengarnya berkata; aku mendengar [Abu Hurairah] berkata; Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: Seorang hamba melakukan dosa..-yang semakna dengan Hadits Hammad bin Salamah dengan menyebutkan lafazh; - 'telah melakukan dosa, ' sebanyak tiga kali. Dan di ketiga kalinya beliau menyebutkan; 'Aku (Allah) telah mengampuni hambaku, maka berbuatlah sekehendaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6986</td></tr><tr><td>Arabic No</td><td>2758.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6986</td></tr><tr><td>Arabic No</td><td>2758.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 33</td></tr></tbody></table></div>
 

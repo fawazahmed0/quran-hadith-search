@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Some pagans who committed murders in great number and commit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] mengabarkan kepada mereka dia berkata; [Ya'laa], [Sa'id bin Jubair] telah mengabarkan kepadanya dari [Ibnu Abbas radliallahu 'anhuma], bahwa orang-orang musyrik dahulu sering membunuh, sering berzina dan lalu mereka mendatangi Nabi shallallahu 'alaihi wasallam dan berkata; wahai Muhammad, apa yang engkau katakan dan engkau serukan adalah baik jika engkau mengabarkan kepada kami bahwa apa yang telah kami perbuat ada kafaratnya, lalu Allah Azza wa jalla menurunkan ayat: Dan orang-orang yang tidak menyembah tuhan yang lain beserta Allah dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar dan tidak berzina, dan turunlah ayat: Katakanlah: "Hai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri, janganlah kamu berputus asa dari rahmat Allah. (Az Zumar:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4810</td></tr><tr><td>Arabic No</td><td>4810</td></tr><tr><td>Reference</td><td>Book 65 Hadith 332</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что однажды к Мухаммаду ﷺ пришли люди из числа многобожников, которые многих убили и много раз совершали прелюбодеяния, и сказали: «Поистине, то, что ты говоришь и к чему призываешь, и в самом деле прекрасно, но мы хотели бы, чтобы ты сказал нам, что мы должны делать для искупления (наших прошлых грехов)?» — после чего (Аллах) ниспослал (айат, в котором сказано): «…те, которые наряду с Аллахом не взывают (ни к какому иному) богу, не убивают человека, которого Аллах запретил (убивать) иначе как по праву, и не прелюбодействуют», (а также другой айат, в котором сказано): «Скажи: “О рабы Мои, которые преступили (границы дозволенного) во вред самим себе, не отчаивайтесь в милости Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4810</td></tr><tr><td>Arabic No</td><td>4810</td></tr><tr><td>Reference</td><td>Book 65 Hadith 332</td></tr></tbody></table></div>
 

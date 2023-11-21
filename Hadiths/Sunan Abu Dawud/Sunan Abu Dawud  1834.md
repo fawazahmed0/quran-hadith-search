@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm al Hussain said We performed the Farewell Pilgrimage along with the Prophet(
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Muhammad bin Salamah] dari [Abu Abdurrahim] dari [Zaid bin Abu Unaisah] dari [Yahya bin Hushain] dari [Ummu Al Hushain], ia telah menceritakan kepadanya, ia berkata; Kami telah berhaji bersama Nabi shallallahu 'alaihi wasallam pada saat haji wada', kemudian aku melihat Usamah dan Bilal, dan salah seorang dari mereka memegang tali kekang unta Nabi shallallahu 'alaihi wasallam sementara yang lain mengangkat pakaiannya agar menutupinya dari panas, hingga beliau melempar jumrah 'aqabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1298)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1834</td></tr><tr><td>Arabic No</td><td>1834</td></tr><tr><td>Reference</td><td>Book 11 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм аль-Хусайна, да будет доволен ею Аллах, что она сказала: «Мы совершали прощальный хадж вместе с Пророком ﷺ и я видела Усаму и Биляля. Один из них держал повод верблюдицы Пророка ﷺ, а второй прикрывал его одеждой от зноя до тех пор, пока Пророк ﷺ не бросил камешки в последний столб»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1298)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1834</td></tr><tr><td>Arabic No</td><td>1834</td></tr><tr><td>Reference</td><td>Book 11 Hadith 114</td></tr></tbody></table></div>
 

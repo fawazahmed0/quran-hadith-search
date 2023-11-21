@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Nafi' said: Ibn Umar made the call to prayer at Dajn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa dirinya menyerukan untuk shalat ketika di daerah Dlajnan pada malam yang sangat dingin dan berangin, di akhir seruannya dia mengatakan; "Ingatlah, shalatlah kalian di persinggahan kalian, shalatlah kalian di persinggahan." Selanjutnya dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah memerintahkan Mu'adzinnya apabila malam sangat dingin atau hujan ketika dalam perjalanan, dengan sabdanya: "Ingatlah, shalatlah kalian di persinggahan kalian masing-masing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (697)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1062</td></tr><tr><td>Arabic No</td><td>1062</td></tr><tr><td>Reference</td><td>Book 2 Hadith 673</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, однажды призвал к молитве в Даджнане в холодную и ветреную ночь и сказал в конце своего призыва: «Молитесь на своих местах! Молитесь на своих местах!» Затем он сказал: «Поистине, в холодные и дождливые ночи в пути Посланник Аллаха ﷺ обычно велел муаззину объявить: “Молитесь на своих местах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (697)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1062</td></tr><tr><td>Arabic No</td><td>1062</td></tr><tr><td>Reference</td><td>Book 2 Hadith 673</td></tr></tbody></table></div>
 

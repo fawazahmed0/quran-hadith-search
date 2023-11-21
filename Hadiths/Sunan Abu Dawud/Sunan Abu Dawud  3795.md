@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thabit ibn Wadi'ah: We were in an army with the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Aun] telah mengabarkan kepada kami [Khalid] dari [Hushain] dari [Zaid bin Wahb] dari [Tsabit bin Wadi'ah] ia berkata, "Aku pernah bersama Rasulullah shallallahu 'alaihi wasallam berada di antara pasukan, lalu kami mendapatkan beberapa ekor biawak." Tsabit berkata, "Lalu aku membakar satu ekor darinya. Kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam dan meletakkannya di hadapan beliau." Tsabit bin Wadi'ah melanjutkan, "Beliau lantas mengambil sebatang ranting dan beliau gunakan untuk menghitung jari-jarinya (biawak). Setelah itu beliau bersabda: "Sekelompok umat dari kalangan Bani Israil telah diubah menjadi hewan melata di bumi, dan aku tidak tahu hewan apakah itu?" Tsabit berkata, "Maka beliau tidak makan dan tidak melarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3795</td></tr><tr><td>Arabic No</td><td>3795</td></tr><tr><td>Reference</td><td>Book 28 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сабит ибн Вадиа, да будет доволен им Аллах, передаёт: «Мы были вместе с Посланником Аллаха ﷺ в одном из военных походов и добыли шипохвостов. Я зажарил одного, принёс его Посланнику Аллаха ﷺ и положил перед ним. Однако он взял палочку, посчитал ею пальцы ящерицы и сказал: “Поистине, одна община из числа бану Исраиль была превращена в тварей, ползающих по земле, и я не знаю, в каких именно”. И он не ел их сам, но и не запрещал другим делать это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3795</td></tr><tr><td>Arabic No</td><td>3795</td></tr><tr><td>Reference</td><td>Book 28 Hadith 60</td></tr></tbody></table></div>
 

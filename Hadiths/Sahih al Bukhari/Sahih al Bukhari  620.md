@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Bilal pronounces the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Bilal mengumandangkan adzan saat masih malam. Maka makan dan minumlah sampai ada seruan adzan oleh Ibnu Ummi Maktum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>620</td></tr><tr><td>Arabic No</td><td>620</td></tr><tr><td>Reference</td><td>Book 10 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «Поистине, Билял произносит азан ночью, поэтому (продолжайте) есть и пить, пока призыв (не начнёт) возглашать Ибн Умм Мактум»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>620</td></tr><tr><td>Arabic No</td><td>620</td></tr><tr><td>Reference</td><td>Book 10 Hadith 18</td></tr></tbody></table></div>
 

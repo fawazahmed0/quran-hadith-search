@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubida b. Samit reported Allah's Messenger (ﷺ) as saying:He who loves to meet A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Anas bin Malik] dari ['Ubadah bin Ash Shamit] bahwasanya Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa senang berjumpa dengan Allah, Allah pun senang berjumpa dengannya dan barangsiapa yang benci berjumpa dengan Allah, Allah pun benci berjumpa dengannya." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar], mereka berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata; aku mendengar [Anas bin Malik] bercerita dari ['Ubadah bin Ash Shamit] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6820</td></tr><tr><td>Arabic No</td><td>2683.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6820</td></tr><tr><td>Arabic No</td><td>2683.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 16</td></tr></tbody></table></div>
 

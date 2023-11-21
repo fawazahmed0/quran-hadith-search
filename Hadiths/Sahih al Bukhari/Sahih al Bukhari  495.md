@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aun bin Abi Juhaifa:I heard my father saying, "The Prophet (ﷺ) led u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Aun bin Abu Juhaifah] berkata, aku mendengar [Bapakku], bahwa Nabi shallallahu 'alaihi wasallam pernah melaksanakan shalat bersama para sahabat di daerah Bathha', dan di hadapan beliau ditancapkan sebuah tombak kecil. Beliau mengerjakan shalat Zhuhur dua rakaat dan shalat Ashar dua rakaat, sementara wanita dan keledai berlalu lalang di hadapannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>495</td></tr><tr><td>Arabic No</td><td>495</td></tr><tr><td>Reference</td><td>Book 8 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аун ибн Абу Джухайфа, да будет доволен им Аллах, сказал: «Я слышал, как мой отец рассказывал о том, что (однажды) Пророк ﷺ совершил с ними в Батхе полуденную и послеполуденную молитвы, каждая из которых состояла из двух рак‘атов. Перед ним находилась (воткнутая в землю) палка с острым наконечником, за которой (во время молитвы) ходили женщины и ослы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>495</td></tr><tr><td>Arabic No</td><td>495</td></tr><tr><td>Reference</td><td>Book 8 Hadith 142</td></tr></tbody></table></div>
 

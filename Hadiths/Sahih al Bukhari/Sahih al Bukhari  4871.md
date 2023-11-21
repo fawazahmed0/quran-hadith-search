@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:A man asked Al-Aswad, 'is it 'Fahal min-Muddakir' or'..Mudh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] bahwa dia mendengar seorang laki-laki bertanya kepada [Al Aswad] mengenai ayat apakah lafazhnya FAHAL MIN MUDDAKIR atau FAHAL MIN MUDZAKIR? Lalu dia menjawab; Aku mendengar [Abdullah] membacanya dengan lafazh; FAHAL MIN MUDDAKIR. Abdullah berkata; dan aku mendengar Nabi shallallahu 'alaihi wasallam membacanya dengan lafazh FAHAL MIN MUDDAKIR, menggunakan huruf Daal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 65 Hadith 392</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Исхак передал, что слышал, как один человек спросил аль-Асуада: «Фа хэль мин муддакир или муззакир?» Аль-Асуад ответил: «Я слышал, как ‘Абдуллах читал: “Найдётся ли поминающий (муддакир)?”, и я слышал, как Пророк ﷺ читал: “Найдётся ли поминающий (муддакир)?”, то есть с буквой даль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 65 Hadith 392</td></tr></tbody></table></div>
 

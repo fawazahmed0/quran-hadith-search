@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) used to leave fasting in a certain month t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepada saya [Muhammad bin Ja'far] dari [Humaid] bahwasanya dia mendengar [Anas radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam pernah tidak berpuasa selama sebulan hingga kami menduga beliau tidak pernah puasa seharipun dari bulan itu. Dan pernah juga Beliau puasa hingga seolah-olah kami menduga beliau belum pernah tidak puasa seharipun. Dan seandainya kamu ingin melihat di malam hari Beliau shalat pasti kalian akan melihat Beliau sedang shalat, namun begitu juga saat kamu ingin melihat Beliau tidur, pasti kamu akan melihat Beliau sedang tidur". Dan berkata, [Sulaiman] dari [Humaid] bahwa dia pernah bertanya kepada [Anas] tentang shaum Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1972</td></tr><tr><td>Arabic No</td><td>1972</td></tr><tr><td>Reference</td><td>Book 30 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Бывало так, что Посланник Аллаха ﷺ не постился в течение месяца (так много), что мы начинали думать, что в (этом месяце) он не постится вовсе, а иногда постился столько, что нам казалось, будто он совсем не прерывает поста. И бывало так, что, когда ты хотел увидеть его ночью на молитве, то обязательно заставал его за молитвой, а когда хотел увидеть его спящим, обязательно видел его (спящим)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1972</td></tr><tr><td>Arabic No</td><td>1972</td></tr><tr><td>Reference</td><td>Book 30 Hadith 79</td></tr></tbody></table></div>
 

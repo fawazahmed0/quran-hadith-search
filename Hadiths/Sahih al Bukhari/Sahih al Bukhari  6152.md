@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama bin 'Abdur-Rahman bin 'Auf:that he heard Hassan bin Thabit A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Saudaraku] dari [Sulaiman] dari [Muhammad bin Abu 'Atiq] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman bin Auf] bahwa dia mendengar [Hasan bin Tsabit Al Anshari] meminta persaksian kepada [Abu Hurairah], seraya berkata; "Saya bersumpah kepadamu dengan nama Allah wahai Abu Hurairah, pernahkah kamu mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Hasan, balaslah (sya'ir orang-orang kafir itu) untuk membela Rasulullah! Ya Allah, dukunglah Hasan dengan ruhul Quds (Jibril)." Abu Hurairah menjawab; "Ya, pernah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>6152</td></tr><tr><td>Reference</td><td>Book 78 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма ибн ‘Абдуррахман ибн ‘Ауф слышал, как (однажды) Хассан ибн Сабит аль-Ансари просил засвидетельствовать Абу Хурайру, говоря: «О Абу Хурайра, заклинаю тебя Аллахом, (скажи мне,) слышал ли ты, как Посланник Аллаха ﷺ сказал: “О Хассан, ответь (неверным) за Посланника Аллаха! О Аллах, поддержи его духом святым!”?» — и Абу Хурайра сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>6152</td></tr><tr><td>Reference</td><td>Book 78 Hadith 178</td></tr></tbody></table></div>
 

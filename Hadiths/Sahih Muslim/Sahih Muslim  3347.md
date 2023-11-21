@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported the Messenger of Allah (ﷺ) as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] semuanya dari [Isma'il bin Ja'far] dari [Al Ala' bin Abdurrahman] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah salah seorang dari umatku yang sanggup bersabar atas kesusahan dan kesulitan di kota Madinah ini, kecuali aku akan menjadi pembela atau saksi baginya kelak pada hari kiamat." Dan Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abu Harun Musa bin Abu Isa] bahwa ia mendengar [Abu Abdullah Al Qarrath] berkata, saya mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda. Yakni semisal hadits di atas. Dan telah menceritakan kepadaku [Yusuf bin Isa] telah menceritakan kepada kami [Al Fadllu bin Musa] telah mengabarkan kepada kami [Hisyam bin Urwah] dari [Shalih bin Abu Shalih] dari [bapaknya] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah salah seorang bersabar atas kesusahan dan kesulitan yang dideritanya di Madinah.." yakni serupa dengan hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3347</td></tr><tr><td>Arabic No</td><td>1378.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 551</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3347</td></tr><tr><td>Arabic No</td><td>1378.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 551</td></tr></tbody></table></div>
 

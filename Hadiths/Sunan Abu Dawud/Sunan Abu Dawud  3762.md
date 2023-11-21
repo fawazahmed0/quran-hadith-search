@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) came out from the vall
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Maryam] telah menceritakan kepada kami pamanku [Sa'id bin Al Hakam] telah menceritakan kepada kami [Al Laits bin Sa'd] telah mengabarkan kepadaku [Khalid bin Yazid] dari [Abu Az Zubair] dari [Jabir bin Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah datang dari jalan sebuah gunung dalam keadaan telah menyelesaikan hajatnya, sementara di hadapan kami terdapat kurma di atas tameng, kemudian kami mengundang beliau, lalu beliau makan bersama kami dan tidak menyentuh air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3762</td></tr><tr><td>Arabic No</td><td>3762</td></tr><tr><td>Reference</td><td>Book 28 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, передаёт: «Однажды Посланник Аллаха ﷺ вернулся из ущелья, в котором справлял нужду, а перед нами лежал щит с насыпанными на него финиками. И мы позвали его поесть, и он поел вместе с нами, и (перед едой) он не прикасался к воде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3762</td></tr><tr><td>Arabic No</td><td>3762</td></tr><tr><td>Reference</td><td>Book 28 Hadith 27</td></tr></tbody></table></div>
 

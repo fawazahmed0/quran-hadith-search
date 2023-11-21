@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Abbas bin Ja'far:That he heard Ibn 'Abbas reciting: "No d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad bin Shabbah] Telah menceritakan kepada kami [Hajjaj] dia berkata; [Ibnu Juraij] berkata; Telah mengabarkan kepadaku [Muhammad bin 'Abbad bin Ja'far] bahwasanya aku mendengar [Ibnu Abbas] membaca; 'Ketahuilah, sesungguhnya mereka memalingkan dada mereka (QS. Hud; 5).' Ibnu Ja'far berkata; Aku bertanya kepadanya mengenai ayat tersebut. Maka Ibnu Abbas menjawab; beberapa dari kalangan orang-orang munafik merasa malu ketika membuang hajat mereka dalam keadaan telanjang dan ketika mereka bersetubuh dengan istri-istri mereka. Maka ayat ini turun kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4681</td></tr><tr><td>Arabic No</td><td>4681</td></tr><tr><td>Reference</td><td>Book 65 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн ‘Аббас ибн Джа‘фар рассказывал: «Я слышал, как Ибн ‘Аббас читал аят: “Воистину, они сжимают свои сердца, чтобы спрятаться от Него…”. Я спросил его об этом аяте, и он сказал: “Среди нас были люди, которые стеснялись справлять нужду, (ведь в этом случае раскрывались срамные части их тела), и между ними и небесами не оставалось преграды. Они также стеснялись совершать половой акт со своими жёнами, так как в этом случае между ними и небесами не оставалось преграды. После чего о них был ниспослан этот аят”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4681</td></tr><tr><td>Arabic No</td><td>4681</td></tr><tr><td>Reference</td><td>Book 65 Hadith 203</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Do not sell fruits o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah mengabarkan kepada saya [Salim bin 'Abdullah] dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menjual kurma kecuali setelah jelas bagusnya dan janganlah kalian berjual beli kurma matang dengan kurma basah ". [Salim] berkata, dan telah mengabarkan kepada saya ['Abdullah] dari [Zaid bin Tsabit] bahwa Rasulullah shallallahu 'alaihi wasallam telah memberi kelonggaran dalam jual beli 'ariyyah yaitu kurma muda dengan kurma matang dan tidak memberi kelonggaran pada selainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2184</td></tr><tr><td>Arabic No</td><td>2184</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Кроме того,) ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, передавал со слов Зейда ибн Сабита, да будет доволен им Аллах, что после этого Посланник Аллаха ﷺ разрешил продавать ещё несобранные финики за свежие собранные или сушёные финики, не разрешив делать это в иных случаях
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2184</td></tr><tr><td>Arabic No</td><td>2184</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
 

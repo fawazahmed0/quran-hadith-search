@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman bin Sarad:Two men abused each other in front of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Adi bin Tsabit] telah menceritakan kepada kami [Sulaiman bin Shurd] dia berkata; "Ada dua orang yang saling mencerca di samping Nabi shallallahu 'alaihi wasallam, sementara kami duduk-duduk di samping beliau, salah seorang darinya mencerca temannya sambil marah, hingga wajahnya memerah, maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya saya mengetahui suatu kalimat yang apabila ia membacanya, niscaya kemarahannya akan hilang, sekiranya ia mengatakan; "A'uudzubillahi minasy syaithaanir rajiim." Lalu orang-orang berkata kepada laki-laki itu; "Apakah kamu tidak mendengar apa yang di katakan oleh Nabi shallallahu 'alaihi wasallam? Justru laki-laki itu menimpali; "Sesungguhnya aku tidaklah gila
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6115</td></tr><tr><td>Arabic No</td><td>6115</td></tr><tr><td>Reference</td><td>Book 78 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сулейман ибн Сурад сказал: «(Однажды, когда) мы находились в обществе Пророка ﷺ, двое людей вступили в перебранку друг с другом, (из-за чего) у одного из них покраснело лицо. (Увидев это,) Пророк ﷺ сказал: “Поистине, я знаю такие слова, произнеся которые, он обязательно успокоился бы. Если бы он сказал: “Прибегаю к защите Аллаха от проклятого шайтана /А‘узу би-Лляхи мин-аш-шайтани-р-раджим/”, (то перестал бы гневаться)”. Тогда люди сказали тому мужчине: “Ты разве не слышишь, что говорит Пророк ﷺ?” Он же ответил: “Я не безумец”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6115</td></tr><tr><td>Arabic No</td><td>6115</td></tr><tr><td>Reference</td><td>Book 78 Hadith 142</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nubaih bin Wahb brother of Banu Abd Al Dar said ‘Umar bin Ubaid Allah sent som
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Nubaih bin Wahb] saudara Bani Abduddar bahwa Umar bin 'Ubaidullah mengutusnya datang kepada [Aban bin Utsman bin 'Affan] untuk bertanya kepadanya, dan pada saat itu Aban adalah pemimpin haji, dan mereka berdua sedang berihram. Ia berkata; aku ingin menikahkan anak wanita Syaibah bin Jubair dengan Thalhah bin Umar, aku ingin engkau menghadirinya. Kemudian Aban mengingkari hal tersebut, dan berkata; sesungguhnya aku mendengar ayahku yaitu [Utsman bin Affan] berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Orang yang berihram tidak boleh menikah dan tidak boleh menikahkan." Telah menceritakan kepada Kami [Qutaibah bin Sa'id] bahwa [Muhammad bin Ja'far] telah menceritakan kepada mereka, telah menceritakan kepada Kami [Sa'id] dari [Mathar] dan [Ya'la bin Hakim] dari [Nafi'] dari [Nubaih bin Wahb] dari [Aban bin Utsman] dari [Utsman] bahwa Rasulullah shallAllahu wa'alaihi wa sallam ….. -ia menyebutkan seperti hadits tersebut, dan menambahkan kata: dan tidak boleh melamar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1409)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1841</td></tr><tr><td>Arabic No</td><td>1841</td></tr><tr><td>Reference</td><td>Book 11 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нубайх ибн Вахб из бану ‘Абду-д-Дар передаёт, что ‘Умар ибн ‘Убайд послал одного человека к Абану ибн ‘Усману ибн Аффану, который тогда руководил хаджем. Оба они уже облачились в ихрам. Он велел задать ему вопрос: «Я хочу женить Тальху ибн ‘Умара на дочери Шейбы ибн Джубайра и хочу, чтобы ты при этом присутствовал». Абан осудил его и сказал: Поистине, я слышал, как мой отец ‘Усман ибн ‘Аффан говорил: «Посланник Аллаха ﷺ сказал: “Паломник в состоянии ихрама не женится и не женит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1409)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1841</td></tr><tr><td>Arabic No</td><td>1841</td></tr><tr><td>Reference</td><td>Book 11 Hadith 121</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Dinar:Ibn 'Umar said, "The Prophet (ﷺ) fixed Qarn as th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7344</td></tr><tr><td>Arabic No</td><td>7344</td></tr><tr><td>Reference</td><td>Book 96 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «В качестве миката для жителей Неджда Пророк ﷺ определил Карн (гора к востоку от Мекки), для жителей Шама — Джухфу (место между Меккой и Мединой), для жителей Медины — Зу-ль-Хуляйфу (место южнее Медины)». Ибн ‘Умар сказал: «Я слышал это от Пророка ﷺ и до меня дошло, что Пророк ﷺ сказал: «Для жителей Йемена — Ялямлям». А когда его спросили об Ираке, он сказал: «В тот день Ирак не был (взят мусульманскими войсками)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7344</td></tr><tr><td>Arabic No</td><td>7344</td></tr><tr><td>Reference</td><td>Book 96 Hadith 72</td></tr></tbody></table></div>
 

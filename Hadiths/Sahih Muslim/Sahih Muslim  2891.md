@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported that a person fell down from his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam bahwa; Seorang laki-laki jatuh dari Unta lalu patah lehernya dan meninggal. Maka beliau pun bersabda: "Mandikanlah ia dengan air yang dicampur dengan daun bidara, kemudian kafani dengan kedua kain ihramnya, dan jangan tutupi kepalanya, karena Allah akan membangkitkannya kelak di hari kiamat dalam keadaan membaca Talbiyah (sedang mengerjakan haji)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>1206.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>1206.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 101</td></tr></tbody></table></div>
 

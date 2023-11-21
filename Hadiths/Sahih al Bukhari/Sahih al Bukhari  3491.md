@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Kulaib bin Wail:I asked Zainab bint Abi Salama (i.e. daughter of the wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qais bin Hafsh] telah bercerita kepada kami ['Abdul Wahid] telah bercerita kepada kami [Kulaib bin Wa'il] berkata, telah bercerita kepadaku anak tiri Nabi Shallallhu 'alaihi wa salam yaitu [Zainab binti Abu Salamah]. Kulaib berkata; "Aku pernah bertanya kepadanya; "Apa pendapat kamu tentang Nabi Shallallhu 'alaihi wa salam, apakah dia berasal dari suku Mudlar?". Zainab berkata; "Dari suku mana lagi kalau bukan suku Mudlar?. Beliau adalah keturunan Bani an-Nadlir bin Kinanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 61 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Кулейб ибн Ваиль сказал: «Я спросил Зейнаб бинт Абу Саляму, дочери жены Пророка ﷺ: “Был ли Пророк ﷺ из племени мудар?” Она ответила: “А из какого племени ему ещё быть, если не из мудар? Он был из сынов ан-Надра ибн Кинаны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 61 Hadith 3</td></tr></tbody></table></div>
 

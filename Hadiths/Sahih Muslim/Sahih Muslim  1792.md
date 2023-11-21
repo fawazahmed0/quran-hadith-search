@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I spent one night in the house of my mother's sister Maimuna
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahak] dari [Makhramah bin Sulaiman] dari [Kuraib] Maula Ibnu Abbas, dari [Ibnu Abbas] ia berkata; "Pada suatu malam saya nginap di rumah bibiku Maimunah binti Al Harits. Saya berkata kepadanya, 'Jika Rasulullah shallallahu 'alaihi wasallam bangun (malam), maka bangunkanlah aku.' Kemudian Rasulullah shallallahu 'alaihi wasallam bangun (menunaikan shalat malam), dan aku pun ikut bangun dan shalat di sisi kirinya. Namun beliau memegang tanganku dan memindahkanku ke sebelah kanannya. Jika kantuk menyerangku, beliau memegang cuping telingaku. (pada malam itu) beliau shalat sebanyak sebelas raka'at. Sesudah itu beliau berbaring hingga saya mendengar hembusan nafasnya saat beliau tidur. Ketika waktu Fajar tiba, beliau mengerjakan shalat dua raka'at ringan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1792</td></tr><tr><td>Arabic No</td><td>763.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «Однажды я остался на ночь в доме своей тётки Маймуны бинт аль-Харис. Я сказал ей: “Если Посланник Аллаха ﷺ встанет (ночью), то разбуди меня”. Посланник Аллаха ﷺ встал на молитву, а я встал слева от него, но он взял меня за руку и поставил справа от себя. Когда я засыпал, он брал меня за мочку правого уха. Он совершил одиннадцать рак‘атов, после чего завернулся одежду, (и заснул), так, что я слышал его дыхание, когда он спал. Когда же занялась заря, он совершил два лёгких рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1792</td></tr><tr><td>Arabic No</td><td>763.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 220</td></tr></tbody></table></div>
 

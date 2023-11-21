@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Um Hufaid bint Al-Harith bin Hazn presented the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibn Abbas], bahwa Ummu Hufaid binti Al Harits bin Hazin menghadiahi Nabi shallallahu 'alaihi wasallam berupa minyak samin, keju dan daging biawak. Kemudian Nabi shallallahu 'alaihi wasallam mengundang para sahabat untuk menyantap makanan itu, dan makanan itu disantap diatas meja makannya, sedang Nabi shallallahu 'alaihi wasallam meninggalkannya seolah-olah merasa jijik, kalaulah makanan itu diharamkan, niscaya tidak dimakan diatas meja makannya dan tidak pula menyuruh untuk menyantapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7358</td></tr><tr><td>Arabic No</td><td>7358</td></tr><tr><td>Reference</td><td>Book 96 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что однажды Умму Хуфейд бинт аль-Харис ибн Хазн подарила Пророку ﷺ топлёное масло, сушёный творог и шипохвостых ящериц. И Пророк ﷺ потребовал принести ящериц, и они ели их за его столом, а сам Пророк ﷺ не притронулся к ящерицам, так как питал к ним отвращение. И если бы (употреблять ящериц в пищу) было запретно, то их бы не ели за столом Пророка ﷺ и он не приказывал бы их кушать
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7358</td></tr><tr><td>Arabic No</td><td>7358</td></tr><tr><td>Reference</td><td>Book 96 Hadith 85</td></tr></tbody></table></div>
 

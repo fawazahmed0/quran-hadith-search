@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:A man from the tribe of Aslam came to the Prophet (ﷺ) and confe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mahmud] telah menceritakan kepada kami ['Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir], ada seorang laki-laki dari kabilah Aslam menemui Nabi shallallahu 'alaihi wasallam dan mengakui perzinahannya. Nabi shallallahu 'alaihi wasallam berpaling darinya hingga ia bersaksi empat kali atas dirinya. Nabi Shallallahu'alaihiwasallam bertanya: "Apa kamu terkena penyakit gila?" 'Tidak, jawabnya."Apa kamu sudah menikah?" Tanya Nabi. 'ya, ' Jawabnya. Nabi shallallahu 'alaihi wasallam pun menyuruh untuk merajamnya, dan dilangsungkan di tanah lapang. Tatkala ia merasakan kesakitan karena lemparan batu, ia kabur. Kemudian ia ditangkap dan dirajam hingga meninggal. Dan Nabi shallallahu 'alaihi wasallam mengomentari orang itu dengan ucapan-ucapan baik dan menyalatinya. Sedang [Yunus] dan [Ibnu Juraij] dari [Az Zuhri] tidak mengatakan; "beliau menyalatinya.' Abu Abdullah pernah ditanya; apakah lafadz; 'maka menyalatinya' itu benar? ' dia menjawab; 'hadits ini diriwayatkan Ma'mar.' Dan ia ditanya; 'Apa selain Ma'mar meriwayatkannya? ' 'Tidak" Jawabnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6820</td></tr><tr><td>Arabic No</td><td>6820</td></tr><tr><td>Reference</td><td>Book 86 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что однажды один мужчина из племени аслям пришёл к Пророку ﷺ и признался ему, что совершил прелюбодеяние, однако Пророк ﷺ отвернулся от него, тогда он засвидетельствовал против себя четырежды. После этого Пророк ﷺ спросил его: “Ты сумасшедший?” Он ответил: “Нет”. Пророк ﷺ спросил его: “Ты вступал в половую связь в браке?” Он ответил: “Да”. Тогда Пророк ﷺ приказал забить его камнями в том месте, где обычно совершалась молитва /мусолля/. Когда камень попал в него острым краем, он убежал, но его догнали и забили камнями до смерти. Пророк хорошо говорил о нём и совершил за него заупокойную молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6820</td></tr><tr><td>Arabic No</td><td>6820</td></tr><tr><td>Reference</td><td>Book 86 Hadith 48</td></tr></tbody></table></div>
 

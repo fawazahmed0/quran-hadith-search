@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin Abi Laila:Sahl bin Hunaif and Qais bin Sa'd were sitt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Amru bin Murrah] berkata; Aku mendengar ['Abdurrahman bin Abu Laila] berkata,: "Suatu hari [Sahal bin Hunaif] dan [Qais bin Sa'ad] sedang duduk di Qadisiyah, lalu lewatlah jenazah di hadapan keduanya, maka keduanya berdiri. Kemudian dikatakan kepada keduanya bahwa jenazah itu adalah dari penduduk asli, atau dari Ahlu dzimmah. Maka keduanya berkata,: "Nabi Shallallahu'alaihiwasallam pernah jenazah lewat di hadapan Beliau lalu Beliau berdiri. Kemudian dikatakan kepada Beliau bahwa itu adalah jenazah orang Yahudi. Maka Beliau bersabda: "Bukankah ia juga memiliki nyawa?" Dan berkata [Abu Hamzah] dari [Al A'masy] dari ['Amru] dari [Ibnu Abu Laila] berkata,: "Aku pernah bersama [Qais] dan [Sahl] Radliallahu 'anhu, lalu keduanya berkata; Kami pernah bersama Nabi Shallallahu'alaihiwasallam. Dan berkata, [Zakariya] dari [Sya'biy] dari [Ibnu Abi Laila], dulu [Abu Mas'ud] dan [Qais] berdiri untuk jenazah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1313</td></tr><tr><td>Arabic No</td><td>1313</td></tr><tr><td>Reference</td><td>Book 23 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хамза сказал:\n— От аль-А‘маша, передавшего от ‘Амра, передавшего от Ибн Абу Лейля, который сказал: «(Однажды) я находился вместе с Кайсом и Сахлем, да будет доволен ими обоими Аллах, и они сказали: “(Как-то) мы были вместе с Пророком ﷺ …”». \nЗакариййа сказал: «От аш-Ша‘би, передавшего от Ибн Абу Лейля: “Обычно, (когда проносили) погребальные носилки, Абу Мас‘уд и Къайс вставали”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1313</td></tr><tr><td>Arabic No</td><td>1313</td></tr><tr><td>Reference</td><td>Book 23 Hadith 70</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of 'Amr b. al-'As that Abu Bak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abul Khair] dari ['Abdullah bin 'Amr] dari [Abu Bakar Ash-Shiddiq radliallahu 'anhu] bahwa ia pernah berkata kepada Rasulullah shallallahu 'alaihi wasallam; "Ajari aku suatu doa yang dapat aku panjatkan dalam shalatku." Beliau Shallallallahu'alaihi wasallam bersabda: "Ucapkanlah, (Ya Allah, aku telah berbuat aniaya kepada diriku sendiri dengan aniaya yang besar, -Qutaibah berkata; yang banyak-, dan tidak ada yang mengampuni dosa-dosa selain Engkau, ampunilah aku dengan ampunan dari sisi-Mu, serta kasihinilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang." Dan telah menceritakannya kepadaku [Abu Ath Thahir] telah mengabarkan kepada kami ['Abdullah bin Wahb] telah mengabarkan kepadaku seorang laki-laki yang dia sebutkan, dan ['Amr bin Al Harits] dari [Yazid bin Abu Habib] dari [Abul Khair] bahwasanya ia mendengar ['Abdullah bin 'Amru bin Al 'Ash] berkata; bahwa [Abu Bakr Ash Shiddiq] dia berkata kepada Rasulullah: "Ajari aku suatu doa yang dapat aku panjatkan dalam shalatku dan aku panjatkan di rumahku, -lalu dian menyebutkan Hadits yang sama dengan Hadits Al Laits. Namun dia menyebutkan dengan kalimat; 'zhulman katsiran' (dengan aniaya yang banyak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6870</td></tr><tr><td>Arabic No</td><td>2705.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6870</td></tr><tr><td>Arabic No</td><td>2705.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 64</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported Allah's Messenger (ﷺ) as saying:I am a human being 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin 'Abdullah] dan [Hajjaj bin Asy Sya'ir] keduanya berkata; Telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; [Ibnu Juraij] berkata; Telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin 'Abdullah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Saya hanya seorang manusia dan saya telah meminta syarat kepada Rabbku Azza Wa Jalla agar hamba muslim mana saja yang aku cela atau aku hina maka hal itu menjadi penyuci dan pahala baginya." Telah menceritakannya kepadaku [Ibnu Abu Khalaf] Telah menceritakan kepada kami [Rauh]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami ['Abad bin Humaid]; Telah menceritakan kepada kami [Abu 'Ashim] seluruhnya dari [Ibnu Juraij] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6625</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6625</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

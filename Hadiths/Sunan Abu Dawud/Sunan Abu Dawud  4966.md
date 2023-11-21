@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If anyone is called by my n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hisyam] dari [Abu Az Zubair] dari [Jabir] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa membuat nama seperti namaku maka jangan membuat julukan seperti julukanku. Dan barangsiapa membuat julukan seperti julukanku maka jangan membuat nama seperti namaku." Abu Dawud berkata, "Dan yang meriwayatkan dengan makna seperti ini adalah [Ibnu Ajlan], dari [Bapaknya], dari [Abu Hurairah]." Diriwayatkan juga dari [Abu Zur'ah], dari [Abu Hurairah] dengan perbedaan dua riwayat. Demikian juga riwayat ['Abdurrahman bin Abu Amrah], dari [Abu Hurairah] juga berbeda dalam periwayatannya. Riwayat [Ats Tsauri] dan [Ibnu Juraij] sebagaimana hadits yang disebutkan oleh [Abu Az Zubair]. Adapun riwayat [Ma'qil bin Ubaidullah] sebagaimana hadits yang disebutkan oleh Ibnu Sirin. Dan ada dua perbedaan riwayat dalam hadits yang disebutkan oleh [Musa bin Yasar] dari [Abu Hurairah] yakni antara [Hammad bin Khalid] dan [Ibnu Fudaik]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4966</td></tr><tr><td>Arabic No</td><td>4966</td></tr><tr><td>Reference</td><td>Book 43 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4966</td></tr><tr><td>Arabic No</td><td>4966</td></tr><tr><td>Reference</td><td>Book 43 Hadith 194</td></tr></tbody></table></div>
 

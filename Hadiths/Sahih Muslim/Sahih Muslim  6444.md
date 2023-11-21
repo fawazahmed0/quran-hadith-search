@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit rapporté d'après Abou Bakra (que Dieu l'agrée) : Al-'Aqra' Ibn Hâbis 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ghundar] dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Abu Ya'qub] Aku mendengar ['Abdur Rahman bin Abu Bakrah] bercerita dari [bapaknya] bahwasanya Al Aqra' bin Habis pernah datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; "Ya Rasulullah, sesungguhnya Surraq Al Hajij dan kabilah Aslam, kabilah Ghifar, kabilah Muzainah (saya kira juga kabilah Juhainah, tapi Muhammad -salah seorang perawi hadits- meragukannya) telah membai'at engkau." Rasulullah shallallahu 'alaihi wasallam berkata: 'Tidakkah kamu tahu bahwasanya kabilah Aslam, Ghifar, dan Muzainah (menurut saya -perawi hadits ini- juga kabilah Juhainah) lebih baik daripada Bani Tamim, Bani Amir, Bani Asad dan Bani Ghathafan. Apakah mereka (kelompok akhir) itu merasa rugi dengan hal tersebut.' Al Aqra' bin Habis menjawab; 'Ya.' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Demi Dzat yang jiwaku ditangan-Nya sesungguhnya mereka (kelompok pertama) lebih baik daripada kelompok kedua.' Telah menceritakan kepadaku [Harun bin 'Abdullah]; Telah menceritakan kepada kami ['Abdush Shamad]; Telah menceritakan kepada kami [Syu'bah]; Telah menceritakan kepadaku Sayyid Bani Hatim [Muhammad bin 'Abdullah bin Abu Ya'qub Adh Dhabi] melalui jalur ini dengan Hadits yang serupa. Namun dia tidak menyebutkan kata; 'Aku kira
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6444</td></tr><tr><td>Arabic No</td><td>2522.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6444</td></tr><tr><td>Arabic No</td><td>2522.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 273</td></tr></tbody></table></div>
 

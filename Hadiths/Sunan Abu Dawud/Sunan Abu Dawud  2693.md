@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Marwan and Al Miswar bin Makhramah told that when the deputation of the Hawazin 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Maryam], telah menceritakan kepada kami [pamanku yaitu Sa'id bin Al Hakam], ia berkata; telah mengabarkan kepada kami [Al Laits bin Sa'd] dari ['Uqail] dari [Ibnu Syihab], ia berkata; dan ['Urwah bin Az Zubair] menyebutkan bahwa [Marwan] serta [Al Miswar bin Makhramah] telah mengabarkan kepadanya bahwa ketika utusan orang-orang muslim Hawazin datang kepada Rasulullah shallallahu 'alaihi wasallam dan meminta agar beliau mengembalikan harta mereka, maka beliau berkata kepada mereka: "Bersamaku orang-orang yang kalian lihat, dan perkataan yang paling aku senangi adalah yang paling benar. Maka pilihlah tawanan atau harta!" Lalu mereka berkata; kami memilih tawanan kami. Lalu Rasulullah shallallahu 'alaihi wasallam berdiri dan memuji Allah, kemudian beliau berkata: "Adapun selanjutnya, sesungguhnya saudara-saudara kalian ini telah datang dalam keadaan bertaubat dan aku ingin mengembalikan tawanan kepada mereka. Maka barangsiapa diantara kalian yang ingin merelakan hal tersebut, silahkan ia melakukannya, dan barangsiapa yang hendak mengambil bagiannya hingga kami berikan kepadanya dari pertama kali Allah memberikan fai' kepada kita, maka silahkan ia melakukannya." Kemudian orang-orang berkata; kami telah merelakan hal tersebut untuk mereka wahai Rasulullah! Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepada mereka: "Sesungguhnya kami tidak mengetahui siapakah diantara kalian yang mengizinkan dan siapakah diantara kalian yang tidak mengizinkan. Maka kembalilah, hingga para pemimpin kalian mengadukan perkara kalian kepada kami!" Lalu orang-orang tersebut kembali dan berbicara dengan para pemimpin mereka. Kemudian memereka mengabarkan kepada mereka bahwa mereka telah merelakan dan mengizinkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2307، 2308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2693</td></tr><tr><td>Arabic No</td><td>2693</td></tr><tr><td>Reference</td><td>Book 15 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2307، 2308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2693</td></tr><tr><td>Arabic No</td><td>2693</td></tr><tr><td>Reference</td><td>Book 15 Hadith 217</td></tr></tbody></table></div>
 

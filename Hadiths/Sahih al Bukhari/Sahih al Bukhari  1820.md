@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever performs Hajj to this Ka'b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menunaikan haji di Baitullah ini kemudian tidak berkata-kata kotor dan tidak berbuat fasiq maka bila dia kembali keadaannya seperti saat dilahirkan oleh ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1820</td></tr><tr><td>Arabic No</td><td>1820</td></tr><tr><td>Reference</td><td>Book 27 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1820</td></tr><tr><td>Arabic No</td><td>1820</td></tr><tr><td>Reference</td><td>Book 27 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Salih said:I narrate what I witnesses from Abu Sa'id and heard from him. Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Sulaiman bin Al-Mughirah] dari [Humaid bin Hilal] dia berkata; [Abu Shalih] berkata; Saya ceritakan kepadamu dari apa yang telah saya lihat dari [Abu Sa'id] dan saya dengar darinya. Abu Sa'id pernah berkuinjung kepada Marwan lalu berkata; Saya telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian mengerjakan shalat dengan bersutrahkan sesuatu, lalu ada seseorang yang hendak lewat di depannya, maka cegahlah (doronglah) dadanya, apabila dia enggan, maka lawanlah, karena sesungguhnya ia itu setan." Abu Dawud berkata; Sufyan Ats-Tsauri berkata; Pernah ada seorang laki-laki lewat di depanku dengan sombong, sementara saya sedang shalat, maka saya mencegahnya. Kemudian ada orang lemah lewat di depanku, maka saya tidak mencegahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (509) Sahih Muslim (505)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>700</td></tr><tr><td>Reference</td><td>Book 2 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хумайда ибн Хиляля, что Абу Салих сказал: Я поведаю тебе о том, что я видел и слышал от Абу Са‘ида. Абу Са‘ид зашёл к Мервану (ибн аль-Хакаму) и сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас станет молиться, обратившись лицом к тому, что будет отделять его от людей, а кто-то захочет пройти перед ним в это время, пусть толкнёт его в грудь, а если тот не отступит, пусть он сразится с ним, ибо это шайтан!”»Абу Дауд сказал: «Суфьян ас-Саури сказал: “Когда я молюсь и передо мной проходит горделивый человек, я не даю ему пройти, а если передо мной проходит слабый, я не мешаю ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (509) Sahih Muslim (505)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>700</td></tr><tr><td>Reference</td><td>Book 2 Hadith 310</td></tr></tbody></table></div>
 

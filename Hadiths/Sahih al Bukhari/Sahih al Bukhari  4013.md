@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:Salim bin 'Abdullah told me that Rafi' bin Khadij told 'Abdull
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4013</td></tr><tr><td>Arabic No</td><td>4013</td></tr><tr><td>Reference</td><td>Book 64 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аз-Зухри, что Салим ибн ‘Абдуллах рассказал ему о том, что Рафи’ ибн Хадидж сказал ‘Абдуллаху ибн ‘Умару, что два его дяди по отцовской линии, участвовавшие в битве при Бадре, сообщили ему, что Посланник Аллаха ﷺ запрещал сдавать землю в аренду. Я спросил Салима: «А ты сдаёшь землю в аренду?» Он ответил: «Да. Поистине, Рафи’ ошибается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4013</td></tr><tr><td>Arabic No</td><td>4013</td></tr><tr><td>Reference</td><td>Book 64 Hadith 63</td></tr></tbody></table></div>
 

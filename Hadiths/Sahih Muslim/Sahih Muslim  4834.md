@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'A'isha, the wife of the Prophet (ﷺ).
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir Ahmad bin 'Amru bin Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dia berkata; [Ibnu Syihab] berkata; telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bertanya, "Apabila para wanita yang beriman hijrah kepada Rasulullah shallallahu 'alaihi wasallam, mereka selalu diuji sebagaimana dalam firman Allah 'azza wajalla: '(Hai nabi, apabila datang kepadamu perempuan-perempuan yang beriman untuk mengadakan 'janji setia, bahwa mereka tiada akan menyekutukan Allah, tidak akan mencuri, tidak akan berzina …) ' (Qs. Mumtahanah: 12). 'Aisyah berkata, "Siapa yang memegang teguh janji-janji tersebut dengan setia, berarti mereka lulus dari ujian, dan apabila mereka telah mengingrarkan janji tersebut dengan ucapan mereka di hadapan Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka: "Pergilah, sesungguhnya kalian telah berbai'at kepadaku." Demi Allah, Rasulullah shallallahu 'alaihi wasallam tidak pernah memegang tangan seorang wanita pun, beliau membaiat mereka dengan ucapan. Aisyah melanjutkan, "Demi Allah, Rasulullah shallallahu 'alaihi wasallam tidak pernah mengambil sumpah kepada kaum wanita kecuali atas apa yang diperintahkan oleh Allah, dan beliau tidak pernah menyentuh telapak seorang wanita pun, apabila beliau membai'at mereka, beliau hanya mengucapkan; "Sesungguhnya saya telah membai'at kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4834</td></tr><tr><td>Arabic No</td><td>1866.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4834</td></tr><tr><td>Arabic No</td><td>1866.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 130</td></tr></tbody></table></div>
 

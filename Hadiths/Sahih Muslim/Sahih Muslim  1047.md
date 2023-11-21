@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:This is what Abu Huraira transmitted to us from Muha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, ini adalah sesuatu yang diceritakan [Abu Hurairah ra] kepada kami, dari Muhammad, Rasulullah shallallahu'alaihiwasallam, maka dia menyebutkan beberapa hadits darinya, dan Rasulullah shallallahu'alaihiwasallam bersabda, "Apabila salah seorang di antara kalian mendirikan shalat mengimami manusia, hendaklah dia meringankan shalat tersebut, karena di antara mereka ada orang tua dan lemah. Dan apabila dia shalat sendirian, hendaklah dia memanjangkan shalatnya sebagaimana yang dia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>467.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас станет проводить молитву с людьми, пусть облегчает её, ибо, поистине, будут среди них и пожилые и слабые. Если же он будет молиться в одиночестве, пусть молится столь долго, сколько захочет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>467.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 209</td></tr></tbody></table></div>
 

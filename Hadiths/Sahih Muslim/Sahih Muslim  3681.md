@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), Quand l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] telah menceritakan kepada kami [Ibnu wahb]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi] sedangkan lafazhnya dari dia, telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman bin Auf] bahwa [Aisyah] berata; Ketika Rasulullah shallallahu 'alaihi wasallam diperintahkan untuk memilih (cerai atau tetap bersama) para istrinya, beliau memulai denganku. Beliau bersabda: "Saya hendak memberitahukan kepadamu hal yang sangat penting, karena itu, janganlah kamu terburu-buru menjawabnya sebelum kamu bermusyawarah dengan kedua orang tuamu." Dia (Aisyah) berkata; Beliau tahu benar, kedua orang tuaku tidaka akan mengizinkanku bercerai dengan beliau. Dia (Aisyah) melanjutkan; Kemudian beliau bersabda: "Sesungguhnya Allah berfirman: 'Wahai Nabi, katakanlah kepada istri-istrimu, jika kalian menghendaki kehidupan dunia beserta perhiasannya, marilah kuberikan kepadamu suatu pemberian, kemudian kuceraikan kamu dengan cara yang baik, dan jika kalian menghendaki Allah dan Rasul-Nya serta kampung akhirat, sesungguhnya Allah menyediakan pahala yang besar bagi yang berbuat kebajikan di antara kamu'." (Aisyah) berkata; Apa pula yang harus saya musyawarahkan dengan kedua orang tuaku, sudah tentu saya menghendaki Allah dan Rasul-Nya serta kampung akhirat. (Aisyah) melanjutkan; Ternyata semua istri Rasulullah shallallahu 'alaihi wasallam juga berbuat seperti yang saya lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3681</td></tr><tr><td>Arabic No</td><td>1475</td></tr><tr><td>Reference</td><td>Book 18 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3681</td></tr><tr><td>Arabic No</td><td>1475</td></tr><tr><td>Reference</td><td>Book 18 Hadith 30</td></tr></tbody></table></div>
 

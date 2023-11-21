@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : J'ai entendu l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepadaku [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Abu Salamah bin 'Abdur Rahman]; Telah menceritakan kepadanya bahwa [Abu Hurairah] Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah orang yang paling berhak atas diri Isa, para Nabi adalah satu saudara dari satu bapak (Adam), dan antara aku dengan Isa 'Alaihis Salam tidak ada seorang Nabi pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6130</td></tr><tr><td>Arabic No</td><td>2365.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6130</td></tr><tr><td>Arabic No</td><td>2365.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 188</td></tr></tbody></table></div>
 

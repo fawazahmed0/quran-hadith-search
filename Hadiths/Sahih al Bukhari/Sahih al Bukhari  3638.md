@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The moon was split into two parts during the lifetime of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Khalaf bin Khalid Al Qurasyiy] telah bercerita kepada kami [Bakr bin Mudlar] dari [Ja'far bin Rabi'ah] dari ['Irak binMalik] dari ['Ubaidullah bin Abdullah bin Mas'ud] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa bulan pernah terbelah pada zaman Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3638</td></tr><tr><td>Arabic No</td><td>3638</td></tr><tr><td>Reference</td><td>Book 61 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что при жизни Пророка ﷺ луна раскололась на две части
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3638</td></tr><tr><td>Arabic No</td><td>3638</td></tr><tr><td>Reference</td><td>Book 61 Hadith 142</td></tr></tbody></table></div>
 

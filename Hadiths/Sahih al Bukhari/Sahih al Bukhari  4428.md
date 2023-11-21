@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: The Prophet (ﷺ) in his ailment in which he died, used to say,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4428</td></tr><tr><td>Arabic No</td><td>4428</td></tr><tr><td>Reference</td><td>Book 64 Hadith 450</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Аиша, да будет доволен ею Аллах, сказала: «Во время своей смертельной болезни Пророк ﷺ сказал: ”О ‘Аиша, то, что я съел в Хайбаре, всегда доставляло мне боль, а сейчас я чувствую, как от того яда у меня рвется аорта!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4428</td></tr><tr><td>Arabic No</td><td>4428</td></tr><tr><td>Reference</td><td>Book 64 Hadith 450</td></tr></tbody></table></div>
 

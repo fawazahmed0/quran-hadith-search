@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) used to say very often in bowing and pros
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Dluha] dari [Masruq] dari [Aisyah] radliallahu 'anhu, ia berkata: Pada saat ruku' dan sujud, Rasulullah shallallahu 'alaihi wasallam memperbanyak membaca: "ALLAHUMMA RABBANAA WABIHAMDIKA, ALLAHUMMAGHFIRLII (Ya Allah, Rabb kami, segala puji hanya bagi-Mu. Ya Allah, ampunilah aku)." Beliau menghindari bacaan Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4968</td></tr><tr><td>Arabic No</td><td>4968</td></tr><tr><td>Reference</td><td>Book 65 Hadith 490</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время совершения поясных и земных поклонов, Посланник Аллаха ﷺ многократно повторял (слова): “Субхана-кя-Ллахумма Рабба-на, ва би-хамди-кя, Аллахумма-гъфир ли! (Пречист Ты, о Аллах, Господь наш, и хвала Тебе! О Аллах, прости мне!)”, — следуя (предписанному) Кораном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4968</td></tr><tr><td>Arabic No</td><td>4968</td></tr><tr><td>Reference</td><td>Book 65 Hadith 490</td></tr></tbody></table></div>
 

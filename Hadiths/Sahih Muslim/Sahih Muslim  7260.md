@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd reported on the authority of his father that one day Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair]. Telah menceritakan kepada kami [Ibnu Numair] dan teksnya milik Ibnu Numair, telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Utsman bin Hakim] telah mengkhabarkan kepadaku [Amir bin Sa'ad] dar [ayahnya], pada suatu hari, Rasulullah Shallallahu 'alaihi wa Salam pulang dari tempat tinggi hingga saat beliau melintasi masjid bani Mu'awiyah, beliau masuk lalu shalat dua rakaat, kami shalat bersama beliau. Beliau berdoa lama sekali kepada Rabbnya, setelah itu beliau menemui kami, nabi Shallallahu 'alaihi wa Salam bersabda: "Aku meminta tiga (hal) pada Rabbku, Ia mengabulkan dua (hal) dan menolakku satu (hal). Aku meminta Rabbku agar tidak membinasakan ummatku dengan kekeringan, Ia mengabulkannya untukku, aku memintaNya agar tidak membinasakan ummatku dengan banjir, Ia mengabulkannya untukku dan aku memintaNya agar tidak membuat penyerangan diantara sesama mereka lalu Ia menolaknya." Telah menceritakannya kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Marwan bin Mu'awiyah] telah menceritakan kepada kami [Utsman bin Hakim Al Anshari] telah mengkhabarkan kepadaku [Amir bin Sa'ad] dari [ayahnya] ia pulang bersama Rasulullah Shallallahu 'alaihi wa Salam dalam sekelompok sahabat-sahabat beliau, beliau melintasi masjid bani Mu'awiyah, seperti hadits Ibnu Numair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7260</td></tr><tr><td>Arabic No</td><td>2890.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амир ибн Са‘д передал, что его отец (Са‘д ибн Абу Ваккъас, да будет доволен им Аллах, рассказывал о том,) что (однажды) Посланник Аллаха ﷺ возвращавшийся из верхней (части Медины) и проходивший мимо мечети (рода) бану му‘авия, зашёл (туда) и совершил вместе с нами намаз в два рак‘ата, после которой долго обращался с мольбами к своему Господу. Потом он ﷺ подошёл к нам и сказал: «Я обратился к моему Господу с тремя просьбами, и Он (удовлетворил) две (из них), а в одной отказал. Я попросил моего Господа не губить (всех членов) моей общины посредством засухи, и Он даровал мне это, и я попросил Его не губить (всех членов) посредством наводнения, и Он даровал мне это, и я попросил Его (удержать) их от применения силы друг против друга, но Он отказал мне в этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7260</td></tr><tr><td>Arabic No</td><td>2890.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 26</td></tr></tbody></table></div>
 

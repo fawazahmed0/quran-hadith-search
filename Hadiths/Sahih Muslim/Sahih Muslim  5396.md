@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of lbn 'Ukaim through another cha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Amru bin Sahl bin Ishaq bin Muhammad bin Al Asy'ats bin Qais] dia berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] aku mendengarnya dia menyebutkan dari [Abu Farwah], dia mendengar dari [Abdullah bin 'Ukaim] dia berkata; "Kami berada di Madain bersama [Hudzaifah]. Hudzaifah minta minum lalu diberi minum oleh pembesar negeri itu dalam bejana perak. Maka bejana itu dilemparkan oleh Hudzaifah seraya berkata; 'Ku kabarkan kepadamu bahwa aku telah memerintahkan kepadanya untuk tidak memberiku minum dalam bejana perak. Karena sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Jangan minum dalam bejana emas atau perak, dan jangan memakai sutera kembang atau sutera biasa, karena barang-barang itu untuk mereka (orang-orang kafir) di dunia, dan untuk kamu kelak di akhirat." Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari [Abu Farwah Al Juhani] ia berkata; Aku mendengar ['Abdullah bin 'Ukaim] berkata; kami bersama Hudzaifah di Madain, …… dan seterusnya dengan Hadits yang serupa, namun di dalam Haditsnya tidak di sebutkan lafazh 'hari kiamat.' Dan telah menceritakan kepadaku ['Abdul Jabbar bin Al A'la]; Telah menceritakan kepada kami [Sufyan]; Pertama kali telah menceritakan kepada kami [Ibnu Abu Najih] dari [Mujahid] dari [Ibnu Abu Laila] dari [Hudzaifah]; Kemudian telah menceritakan kepada kami [Yazid] yang dia dengar dari [Ibnu Abu Laila] dari [Hudzaifah]; Kemudian telah menceritakan kepada kami [Abu Farwah] dia berkata; Aku mendengar [Ibnu 'Ukaim], dan aku mengira bahwa [Ibnu Abu Laila] mendengarnya dari [Ibnu 'Ukaim], dia berkata; Kami bersama [Hudzaifah] di Madain……(kemudian dia menyebutkan Hadits yang serupa namun dia tidak menyebutkan 'hari kiamat'). Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] bahwa dia mendengar ['Abdur Rahman] yaitu Ibnu Abu Laila berkata; Aku melihat [Hudzaifah] meminta air ketika dia berada di Madain, kemudian datanglah kepadanya seseorang dengan membawa bejana dari perak… (kemudian dia menyebutkan Hadits yang semakna dengan Hadits Ibnu 'Ukaim dari Hudzaifah. Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki']; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Ibnu Abu 'Adi]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku ['Abdur Rahman bin Bisyr]; Telah menceritakan kepada kami [Bahz] (seluruhnya), Dari [Syu'bah] seperti Hadits Mu'adz beserta sanadnya, namun di dalam Haditsnya tidak seorangpun dari mereka yang menyebutkan 'Aku melihat Hudzaifah' selain Mu'adz saja. Yang mereka katakan adalah 'Sesungguhnya Hudzaifah meminta air minum.' Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Jarir] dari [Manshur]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Ibnu 'Aun] keduanya dari [Mujahid] dari ['Abdur Rahman bin Abu Laila] dari [Hudzaifah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits semakna yang telah kami sebutkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5396</td></tr><tr><td>Arabic No</td><td>2067.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5396</td></tr><tr><td>Arabic No</td><td>2067.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 11</td></tr></tbody></table></div>
 

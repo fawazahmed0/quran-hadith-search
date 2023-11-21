@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit:Anas was asked whether the Prophet (ﷺ) used a a hair dye or no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dia berkata; [Anas] di tanya mengenai semir rambut nabi shallallahu 'alaihi wasallam, Anas menjawab; "Beliau tidak menyemirnya, jika aku mau maka saya akan menghitung rambut hitam yang bercampur di rambut putih pada jenggot beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5895</td></tr><tr><td>Arabic No</td><td>5895</td></tr><tr><td>Reference</td><td>Book 77 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сабит сказал: «Однажды Анаса спросили об окрашивании Пророком ﷺ своих волос, и он ответил: “У него не было достаточно седых волос, чтобы красить их, (поэтому) если бы я захотел сосчитать седые волоски в его бороде (я мог бы это сделать)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5895</td></tr><tr><td>Arabic No</td><td>5895</td></tr><tr><td>Reference</td><td>Book 77 Hadith 112</td></tr></tbody></table></div>
 

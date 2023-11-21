@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:We were seated in our house in the noonday heat. Someone said t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Dawud bin Sufyan] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] ia berkata; [Az Zuhri] berkata; [Urwah] berkata, " ['Aisyah radliallahu 'anha] berkata, "Ketika kami sedang duduk di rumah kami di siang hari, seseorang berkata kepada Abu Bakar radliallahu 'anhu, "Ini adalah Rasulullah shallallahu 'alaihi wasallam, beliau datang dengan menutup kepala dan sebagian wajahnya di waktu yang tidak biasanya beliau datang ke rumah kami. Rasulullah shallallahu 'alaihi wasallam lalu datang seraya meminta izin (kepada Abu Bakar), beliau lalu diizinkan dan masuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4083</td></tr><tr><td>Arabic No</td><td>4083</td></tr><tr><td>Reference</td><td>Book 34 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Когда мы сидели в нашем доме в жаркий полдень, кто-то сказал Абу Бакру, да будет доволен им Аллах: “Это Посланник Аллаха ﷺ идёт к нам, прикрыв лицо”. А в такое время он никогда не приходил к нам. И Посланник Аллаха ﷺ подошёл к дому, спросил разрешения войти и, получив разрешение, вошёл»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4083</td></tr><tr><td>Arabic No</td><td>4083</td></tr><tr><td>Reference</td><td>Book 34 Hadith 64</td></tr></tbody></table></div>
 

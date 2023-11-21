@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:That Abu Bakr wrote for him, Zakat regulations which Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah Al Anshari] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Tsumamah bin Abdullah bin Anas] bahwasanya [Anas] menceritakan kepadanya, bahwasanya Abu Bakar menuliskan kepadanya kewajiban sedekah sebagaimana Rasulullah Shallallahu'alaihiwasallam wajibkan, hewan ternak yang terpisah tidak boleh dihimpun dan hewan yang terhimpun tidak boleh dipisah, karena takut sedekah (zakat) nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6955</td></tr><tr><td>Arabic No</td><td>6955</td></tr><tr><td>Reference</td><td>Book 90 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Абу Бакр, да будет доволен им Аллах, написал ему о предписание относительно закята, который Посланник Аллаха ﷺ вменил в обязанность: «И люди не должны объединять свои стада и, напротив, разделять их из опасения, что с них придётся выплачивать закят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6955</td></tr><tr><td>Arabic No</td><td>6955</td></tr><tr><td>Reference</td><td>Book 90 Hadith 3</td></tr></tbody></table></div>
 

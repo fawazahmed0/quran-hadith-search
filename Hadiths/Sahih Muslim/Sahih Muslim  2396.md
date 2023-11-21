@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hamza. son of 'Abdullah, reported on the authority of his father that the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la bin Abdul A'la] dari [Ma'mar] dari [Abdullah bin Muslim] saudaranya Zuhri, dari [Hamzah bin Abdullah] dari [bapaknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah salah seorang dari kalian yang terus meminta-minta, kecuali kelak di hari kiamat ia akan menemui Allah sementara di wajahnya tidak ada sepotong daging pun." Dan telah menceritakan kepadaku [Amru An Naqid] telah menceritakan kepadaku [Isma'il bin Ibrahim] telah mengabarkan kepada kami [Ma'mar] dari [saudaranya Az Zuhri] dengan isnad ini, namun ia tidak menyebutkan muz'ah (sepotong)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2396</td></tr><tr><td>Arabic No</td><td>1040.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Пророк ﷺ сказал: «Любой из вас, кто будет беспрестанно обращаться (к людям) с просьбами, встретит Аллаха, не имея ни единого кусочка плоти на лице»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2396</td></tr><tr><td>Arabic No</td><td>1040.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 133</td></tr></tbody></table></div>
 

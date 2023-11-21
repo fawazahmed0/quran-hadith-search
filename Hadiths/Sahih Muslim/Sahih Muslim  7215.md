@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Abu Ayyub through some other c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki']. Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku]. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata: Telah menceritakan kepada kami [Muhammad bin Ja'far], semuanya dari [Syu'bah] dari [Aun bin Abu Juhaifah]. Telah menceritakan kepadaku [Zuhair bin Harb], [Muhammad bin Al Mutsanna] dan [Ibnu Basyar], semuanya dari [Yahya Al Qaththan] dan teksnya milik Zuhair, telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku [Aun bin Abu Juhaifah] dari [ayahnya] dari [Al Bara'] dari [Abu Ayyub] berkata: Rasulullah Shallallahu 'alaihi wa Salam pergi setelah matahari terbenam lalu beliau mendengar suara, beliau bersabda: "Orang-orang Yahudi disiksa dikuburnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7215</td></tr><tr><td>Arabic No</td><td>2869</td></tr><tr><td>Reference</td><td>Book 53 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7215</td></tr><tr><td>Arabic No</td><td>2869</td></tr><tr><td>Reference</td><td>Book 53 Hadith 84</td></tr></tbody></table></div>
 

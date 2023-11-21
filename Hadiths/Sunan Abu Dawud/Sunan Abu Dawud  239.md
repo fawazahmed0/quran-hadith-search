@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jubair b. Mut’im reported :People made a mention of washing because of sexual 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An-Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] telah mengabarkan kepada kami [Sulaiman bin Shurad] dari [Jubair bin Muth'im] bahwasanya para sahabat pernah berbincang-bincang tentang mandi junub di sisi Rasulullah shallallahu 'alaihi wasallam. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Adapun saya, maka saya tuangkan air ke atas kepala sebanyak tiga kali." Dan beliau memberi isyarat dengan kedua tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (254) Sahih Muslim (327)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 1 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джубайра ибн Мут‘има о том, что однажды они упомянули при посланнике Аллаха ﷺ о купании из-за осквернения, и Посланник Аллаха ﷺ сказал: «Что касается меня, то я обливаю голову трижды», показывая, (что он делает это) обеими руками
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (254) Sahih Muslim (327)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 1 Hadith 239</td></tr></tbody></table></div>
 

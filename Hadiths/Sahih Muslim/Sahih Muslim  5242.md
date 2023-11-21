@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Humayd As-Sâ'idî (رضي الله عنهما) a dit : J'apportai un bol d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] dan ['Abdu bin Humaid], semuanya Dari [Abu 'Ashim], [Ibnu Al Mutsanna] berkata; Telah menceritakan kepada kami [Adh Dhahak] telah mengabarkan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Zubair]; Bahwa dia mendengar [Jabir bin 'Abdullah] berkata; Telah mengabarkan kepada kami [Abu Humaid As Sa'idi] ia berkata; Aku pernah mengunjungi Nabi shallallahu 'alaihi wasallam dengan membawa cangkir susu yang berisi minuman dari anggur dalam keadaan tidak tertutup, lalu beliau bersabda: "Tidakkah engkau menutupinya walaupun hanya dengan melintangkan sepotong kayu?." Abu Hamid berkata; 'Minuman-minuman diperintahkan untuk diikat di waktu malam (ditutup) dan pintu-pintu ditutup. Dan telah menceritakan kepadaku [Ibrahim bin Dinar], telah menceritakan kepada kami [Rauh bin Ubadah], telah menceritakan kepada kami [Ibnu Juraij] dan [Zakaria bin Ishaq] mereka berkata; Telah mengabarkan kepada kami [Abu Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata; 'Telah mengabarkan kepadaku [Abu Humaid As Saidi], bahwa dia mendatangi Nabi shallallahu 'alaihi wasallam dengan cangkir susu -dengan Hadits yang serupa- dia berkata; Zakaria tidak menyebutkan perkataan Abu Humaid mengenai di malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5242</td></tr><tr><td>Arabic No</td><td>2010.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5242</td></tr><tr><td>Arabic No</td><td>2010.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 116</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Aslam from his father:I was with Ibn 'Umar on the way to Mecca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata, telah mengabarkan kepada saya [Zaid bin Aslam] dari [bapaknya] berkata; Aku pernah bersama ['Abdullah bin 'Umar radliallahu 'anhu] pada suatu jalan di kota Makkah. Lalu sampai berita kepadanya bahwa Shafiyyah binti Abu 'Ubaid sedang menderita sakit. Maka dia mempercepat jalannya hingga apabila warna kuning dilangit telah hilang dia berhenti dan melaksanakan shalat Maghrib dan 'Isya' dengan dijama' (menggabungkan keduanya), kemudian dia berkata: "Aku melihat Nabi shallallahu 'alaihi wasallam apabila perjalanannya sedang berat dan tergesa-gesa Beliau mengakhirkan shalat Maghrib lalu menggabungkannya dengan keduanya (dengan shalat 'Isya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 26 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аслям передал, что его отец сказал: «Когда я был вместе ‘Абдуллахом ибн ‘Умаром, да будет доволен Аллах им и его отцом, в пути к Мекке, он получил известие о том, что (его жена) Сафия бинт Аби ‘Убейд сильно больна. Поэтому он ускорил шаг, а когда с неба исчезло зарево (стемнело), спешился и совершил молитвы магриб и ‘иша, объединив между ними. Затем он сказал: «Я видел, что, когда Пророк ﷺ спешил во время путешествия, он откладывал молитву магриб и соединял их вместе (то есть совершал магриб с ‘иша)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 26 Hadith 30</td></tr></tbody></table></div>
 

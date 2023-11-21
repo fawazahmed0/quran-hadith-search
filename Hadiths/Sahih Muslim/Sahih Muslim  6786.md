@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] mereka berdua berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] aku mendengar [Qatadah] bercerita dari [Anas bin Malik] dia berkata; "Ketahuilah, saya akan memberitahukan kepada kalian suatu hadits yang pernah saya dengar dari Rasulullah shallallahu 'alaihi wasallam yang tidak akan ada seorang pun yang menceritakan kembali kepada kalian sepeninggal saya kelak. Beliau telah bersabda: 'Di antara tanda-tanda kiamat adalah hilangnya ilmu (keIslaman), maraknya kebodohan, merajalelanya perzinaan, banyaknya orang yang meminum minuman keras, berkurangnya populasi kaum pria dan bertambahnya kaum wanita, hingga akhirnya seorang pria akan menjadi penanggungjawab bagi lima puluh orang wanita.' Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami ['Abdah] dan [Abu Usamah] semuanya dari [Sa'id bin Abu 'Urwah] dari [Qatadah] dari [Anas bin Malik] dari Nabi Shallalahu 'Alaihi Wasallam. Dan di dalam hadits Ibnu Bisyr dan 'Abdah disebutkan; yang tidak seorangpun menceritakannya kepada kalian sepeninggalku; Aku mendengar Rasulullah shallallahu 'alaihi wasallam berkata -lalu dia menyebutkan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6786</td></tr><tr><td>Arabic No</td><td>2671.02</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6786</td></tr><tr><td>Arabic No</td><td>2671.02</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Usama approached the Prophet (ﷺ) on behalf of a woman (who had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] telah menceritakan kepada kami [Al Laits] dari [Ibn Syihab] dari ['Urwah] dari [Aisyah], bahwa Usamah pernah mengajak Nabi shallallahu 'alaihi wasallam berdialog untuk memberi keringanan terhadap seorang wanita, maka Nabi bersabda: "hanyasanya telah binasa orang-orang sebelum, mereka menegakkan hukuman kepada orang-orang yang lemah, dan meninggalkan hukuman bagi orang bangsawan, Demi Dzat yang jiwaku berada di tangan-NYA, jika Fathimah melakukan hal itu, aku potong tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6787</td></tr><tr><td>Arabic No</td><td>6787</td></tr><tr><td>Reference</td><td>Book 86 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что однажды Усама стал ходатайствовать перед Пророком ﷺ за одну женщину, на что он ответил: «Поистине, живших до вас погубило то, что они применяли установленное наказание /хадд/ к слабому, а знатного оставляли. Клянусь Тем, в Чьей длани моя душа, если бы украла Фатыма, то я обязательно отрубил бы ей руку!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6787</td></tr><tr><td>Arabic No</td><td>6787</td></tr><tr><td>Reference</td><td>Book 86 Hadith 16</td></tr></tbody></table></div>
 

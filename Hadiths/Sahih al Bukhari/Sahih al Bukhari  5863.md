@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:The Prophet (ﷺ) forbade us to use seven things: He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Asy'ats bin Sulaim] dia berkata; saya mendengar [Mu'awiyah bin Suwaid bin Muqarrin] berkata; saya mendengar [Barra' bin 'Azib] radliallahu 'anhuma berkata; "Nabi shallallahu 'alaihi wasallam melarang kami tujuh perkara yaitu melarang mengenakan cincin dari emas atau kalung dari emas, memakai kain sutera, istibraq, dibaj, misarah, hamra', Qasiy (sejenis kain sutera campuran) dan tempat air dari perak, dan memerintahkan kami tujuh perkara, yaitu menjenguk orang sakit, mengiringi jenazah, mendo'akan orang bersin, menjawab salam, memenuhi undangan, menunaikan sumpah dan menolong orang yang terzhalimi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5863</td></tr><tr><td>Arabic No</td><td>5863</td></tr><tr><td>Reference</td><td>Book 77 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ запретил нам семь вещей. Он запретил нам носить золотые кольца, шёлк, парчу, дибадж (один из видов шёлка), использовать красные шёлковые подушки /аль-мисара аль-хамра/, кассию (льняная одежда, содержащая шёлк) и пользоваться серебряной посудой. И он приказал нам семь (других) вещей: навещать больного, провожать погребальные носилки, произносить благопожелание чихнувшему, отвечать на приветствия, принимать приглашение приглашающего, способствовать выполнению клятвы того, кто её даёт и помогать притесняемому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5863</td></tr><tr><td>Arabic No</td><td>5863</td></tr><tr><td>Reference</td><td>Book 77 Hadith 80</td></tr></tbody></table></div>
 

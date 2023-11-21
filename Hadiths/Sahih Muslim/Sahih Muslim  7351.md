@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has transmitted on the authority of Abu Sa'id that Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] telah menceritakan kepada kami [Bisyr bin Mufadhdhal] dari [Abu Maslamah] dari [Abu Nadhrah] dari [Abu Sa'id] berkata: Rasulullah Shallallahu 'alaihi wa Salam bertanya kepada Ibnu Sha'id: "Debu surga itu apa?" ia menjawab: Debu lembut putih (seharum) kesturi, wahai Abu Al Qasim. Beliau bersabda: "Kau benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7351</td></tr><tr><td>Arabic No</td><td>2928.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «(Однажды) Посланник Аллаха ﷺ спросил Ибн Саида: “Какова земля в Раю?” Тот ответил: “Она бела, как чистая мука, и (благоуханна, как) мускус, о Абуль-Къасим”. (Пророк ﷺ) сказал: “Ты сказал правду!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7351</td></tr><tr><td>Arabic No</td><td>2928.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 115</td></tr></tbody></table></div>
 

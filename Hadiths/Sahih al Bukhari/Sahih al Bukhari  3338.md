@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Shall I not tell you about t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] aku mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Maukah kalian aku ceritakan tentang ad-Dajjal yang belum pernah diceritakan oleh seorang Nabipun kepada kaumnya, yaitu bahwa dia itu buta sebelah matanya dan dia datang dengan perumpamaan surga dan neraka. Maka yang dikatakanya sebagai surga sesungguhnya adalah nereka dan aku ceritakan kepada kalian sebagaimna Nabi Nuh Alaihissalam menceritakanya kepada kaumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3338</td></tr><tr><td>Arabic No</td><td>3338</td></tr><tr><td>Reference</td><td>Book 60 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма сказал:\n— Я слышал, как Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Не рассказать ли мне вам о Даджжале то, о чём ни один пророк не рассказывал своему народу? Поистине, будет он кривым и, поистине, принесёт он с собой подобие рая и огня, и то, что он будет называть раем, (окажется) огнём. И, поистине, я предупреждаю вас о нём также, как предупредил о нём свой народ Нух!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3338</td></tr><tr><td>Arabic No</td><td>3338</td></tr><tr><td>Reference</td><td>Book 60 Hadith 13</td></tr></tbody></table></div>
 

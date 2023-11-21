@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was narrated from Al-'Abbas bin 'Abdul Muttalib that he heard the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Bakr, yaitu Ibnu Mudhar] dari [Ibnu al-Had] dari [Muhammad bin Ibrahim] dari [Amir bin Sa'ad] dari [al-Abbas bin Abdul Muthalib] bahwasanya dia mendengar Rasulullah shallallahu'alaihiwasallam bersabda, "Apabila seorang hamba bersujud, maka tujuh anggota badan sujud bersamanya, yaitu ujung wajah, kedua telapak tangan, kedua lutut, dan kedua telapak kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1100</td></tr><tr><td>Arabic No</td><td>491</td></tr><tr><td>Reference</td><td>Book 4 Hadith 262</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от аль-‘Аббаса ибн ‘Абдульмутталиба, что он слышал, как Посланник Аллаха ﷺ сказал: «Когда раб совершает земной поклон, вместе с ним земной поклон совершают семь частей тела: его лицо, кисти рук, колени и ступни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1100</td></tr><tr><td>Arabic No</td><td>491</td></tr><tr><td>Reference</td><td>Book 4 Hadith 262</td></tr></tbody></table></div>
 

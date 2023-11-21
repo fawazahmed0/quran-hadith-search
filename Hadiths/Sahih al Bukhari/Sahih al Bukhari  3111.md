@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Al-Hanafiya:If 'Ali had spoken anything bad about 'Uthman then he w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Sufyan] dari [Muhammad bin Suwqah] dari [Mundzir] dari [Ibnu Al Hanafiyyah] berkata; 'Seandainya 'Ali radliallahu 'anhu mengingat 'Utsman radliallahu 'anhu, maka ia teringat tentangnya saat orang-orang datang kepadanya mengadukan perilaku para 'amil (petugas zakat) 'Utsman. Maka ['Ali] berkata kepadaku; "Pergilah kamu menemui 'Utsman dan kabarkan kepadanya bahwa itu adalah shadaqah Rasulullah Shallallahu'alaiwasallam dan perintahkanlah para 'amilmu untuk melaksanakan sesuai ketentuannya". Maka aku menemui 'Utsman dengan membawa pesan 'Ali tersebut. 'Utsman berkata; "Singkirkanlah sedekah itu dari kami". Kemudian kutemui 'Ali dengan membawa sedekah yang seharusnya untuk 'Utsman, lalu kukabarkan kejadiannya, maka dia berkata; "Biarkanlah zakat itu sebagaimana ditempat kamu mengambilnya". [Al Humaidiy] berkata, telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Muhammad bin Suwqah] berkata aku mendengar [Mundzir Ats-Tsauriy] dari [Ibnu Al Hanafiyyah] berkata; " [Bapakku] mengutusku dan berkata; peganglah surat ini dan bawa kepada 'Utsman karena didalamnya ada ketentuan perintah Nabi Shallallahu'alaihiwasallam tentang masalah shadaqah (zakat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3111</td></tr><tr><td>Arabic No</td><td>3111</td></tr><tr><td>Reference</td><td>Book 57 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн аль-Ханафия сказал: «Если бы ‘Али говорил что-нибудь плохое об ‘Усмане, то он упомянул бы тот день, когда некоторые люди пришли к нему и пожаловались на сборщиков закята ‘Усмана. Тогда ‘Али сказал мне: “Иди к ‘Усману и скажи ему: “В этом свитке записано то, куда Посланник Аллаха ﷺ расходовал милостыню, поэтому прикажи своим сборщикам закята действовать в соответствие с этим”. Я отнёс этот свиток ‘Усману, но он сказал: “Забери его”. Я вернулся с ним к ‘Али и сообщил ему об этом. Он сказал: “Положи его туда, откуда ты его взял”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3111</td></tr><tr><td>Arabic No</td><td>3111</td></tr><tr><td>Reference</td><td>Book 57 Hadith 20</td></tr></tbody></table></div>
 

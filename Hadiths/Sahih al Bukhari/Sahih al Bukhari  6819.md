@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:A Jew and a Jewess were brought to Allah's Messenger (ﷺ) on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Utsman bin Karamah] telah menceritakan kepada kami [Khalid bin Makhlad] dari [Sulaiman] telah menceritakan kepadaku [Abdullah bin Dinar] dari [Ibnu Umar] radliallahu 'anhuma mengatakan, Rasulullah Shallallahu'alaihiwasallam diserahi laki-laki yahudi dan wanita yahudi yang berzina, lantas beliau mengatakan kepada orang-orang yahudi: "Hukum apa yang kalian temukan dalam kitab suci kalian?" Mereka menjawab; 'Biarawan-biarawan kami biasanya menghukum mereka dengan menghitami wajahnya, kemudian dinaikkan keatas kendaraan, dengan punggung saling membelakangi.' Abdullah bin Salam menyela; 'ya Rasulullah, ajaklah mereka untuk berhukum dengan kitab taurat.' Kitab taurat pun didatangkan, kemudian salah seorang dari mereka menutupi ayat-ayat yang menetapkan hukum rajam dengan tangannya sehingga yang ia baca hanyalah tulisan sebelum atau sesudahnya, maka Abdullah bin Salam menegur; 'angkat tanganmu! ' Maka ayat yang berisi perintah rajam pun kelihatan dibawah tangannya. Rasulullah Shallallahu'alaihiwasallam pun memerintahkan keduanya untuk dirajam, maka hukuman itu pun di laksanakan. Ibnu Umar mengatakan; keduanya dirajam di lantai, dan kulihat si yahudi membungkukkan punggungnya untuk melindungi teman kencangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6819</td></tr><tr><td>Arabic No</td><td>6819</td></tr><tr><td>Reference</td><td>Book 86 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды к Посланнику Аллаха ﷺ привели иудея и иудейку, которые совершили прелюбодеяние, и он спросил их: “Что говорится в вашей Книге (о совершивших прелюбодеяние)?” Они ответили: “Наши учёные придумали очернять их лица и подвергать бичеванию”. ‘Абдуллах ибн Салям сказал: “О Посланник Аллаха, вели им принести Тору”. Когда её принесли, один из них положил руку на место, в котором говорилось о побивании камнями, и начал читать то, что было написано до и после этого места. Тогда ‘Абдуллах ибн Салям сказал ему: “Убери руку!” (И когда он убрал свою руку,) там оказался аят о побивании камнями. После этого по велению Посланника Аллаха ﷺ совершившие прелюбодеяние были побиты камнями. Они были забиты камнями в Балате (место между рынком и мечетью Пророка ﷺ), и я видел, как тот иудей (наклонялся,) закрывая собой женщину (от камней)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6819</td></tr><tr><td>Arabic No</td><td>6819</td></tr><tr><td>Reference</td><td>Book 86 Hadith 47</td></tr></tbody></table></div>
 

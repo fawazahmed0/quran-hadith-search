@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a still difterent chain of transmitters) by Anas t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas], bahwa ketika perang Khandaq para sahabat Muhammad shallallahu 'alaihi wasallam pernah mengatakan, "Kami adalah orang-orang yang pernah berbaiat kepada muhammad atas Islam, sehingga hayat masih dikandung badan, -atau dia mengatakan- 'atas jihad, ' Hammad ragu-ragu. Sedangkan Nabi shallallahu 'alaihi wasallam bersabda: "Ya Allah, sesungguhnya tidak ada kebaikan yang abadi melainkan kebaikan akhirat, maka ampunilah kaum Anshar dan Muhajirin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4676</td></tr><tr><td>Arabic No</td><td>1805.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4676</td></tr><tr><td>Arabic No</td><td>1805.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 158</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Messenger (ﷺ) made a mention of Ramadan and he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Ubaidullah] dar [Nafi'] dari [Ibnu Umar] radliallahu 'anhumaa bahwa Rasulullah shallallahu 'alaihi wasallam menyebutkan bulan Ramadlan dan beliau menepukkan kedua tangannya seraya bersabda: "Hitungan bulan itu begini, bigini dan begini (beliau menekuk jempolkan pada kali yang ketiga). Karena itu, berpuasalah kalian setelah melihat (hilal) -nya, dan berbukalah pada saat kaliat melihatnya (terbit kembali). Dan jika bulan tertutup dari pandanganmu, maka hitunglah menjadi tiga puluh hari." Dan Telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Ubaidullah] dengan isnad ini dan Ibnu 'Abbas RAa menyebutkan; "Dan apabila (hilal itu) tidak tampak atas kalian (terhalang mendung), maka sempurnakanlah menjadi tiga puluh hari." Yakni sebagaimana haditsnya Abu Usamah. Dan Telah menceritakan kepada kami [Ubaidullah bin Sa'id] Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] dengan isnad ini. Dan berkata; Rasulullah shallallahu 'alaihi wasallam menyebutkan bulan Ramadlan seraya bersabda: "Hitungan bulan itu adalah dua puluh sembilan. Hitungan bulan itu adalah begini, begini dan begini." Dan ia juga menyebutkan: "Sempurnakanlah." Dan tidak menyebutkan: "Tiga puluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2499</td></tr><tr><td>Arabic No</td><td>1080.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2499</td></tr><tr><td>Arabic No</td><td>1080.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 5</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman, the son of Abu Sa'id al-Khudri, reported from his father:The Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Zaid bin al-Hubab] dari [adh-Dhahhak bin Utsman] dia berkata, telah mengabarkan kepadaku [Zaid bin Aslam] dari [Abdurrahman bin Abi Sa'id al-Khudri] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Tidaklah (boleh) seorang laki-laki melihat aurat laki-laki, dan perempuan melihat aurat perempuan, dan tidaklah (boleh) seorang laki-laki bersatu dengan laki-laki lain dalam satu baju. Dan tidaklah (boleh) seorang wanita bersatu dengan wanita lain dalam satu baju." Dan telah menceritakannya kepadaku tentangnya [Harun bin Abdullah] dan [Muhammad bin Rafi'] keduanya berkata, telah menceritakan kepada kami [Ibnu Abi Fudhaik] telah mengabarkan kepada kami [adh-Dhahhak bin Utsman] dengan isnad ini dan keduanya berkata dengan menggantikan kata "aurat" dengan "telanjang" seorang laki-laki dan perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>768</td></tr><tr><td>Arabic No</td><td>338.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, что Посланник Аллаха ﷺ сказал: «Пусть мужчина не смотрит на ‘аурат (срамные места) мужчины, а женщина на ‘аурат женщины, и пусть мужчина не ложится под одно покрывало с мужчиной, а женщина не ложится под одно покрывало с женщиной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>768</td></tr><tr><td>Arabic No</td><td>338.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 90</td></tr></tbody></table></div>
 

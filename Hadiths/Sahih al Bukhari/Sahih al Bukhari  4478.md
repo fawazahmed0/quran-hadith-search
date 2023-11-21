@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Zaid:Allah's Messenger (ﷺ) said, "The Kam'a (i.e. a kind of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari ['Abdul Malik] dari ['Amru bin Huraits] dari [Sa'id bin Zaid radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Al Kam-at (cendawan) adalah sejenis manna (sejenis makanan yang diturunkan Allah Ta'ala kepada Bani Israil), airnya mengandung obat bagi penyakit mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4478</td></tr><tr><td>Arabic No</td><td>4478</td></tr><tr><td>Reference</td><td>Book 65 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Зейд, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Трюфели из манны, а (выделяемая ими) жидкость является лекарством для глаз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4478</td></tr><tr><td>Arabic No</td><td>4478</td></tr><tr><td>Reference</td><td>Book 65 Hadith 5</td></tr></tbody></table></div>
 

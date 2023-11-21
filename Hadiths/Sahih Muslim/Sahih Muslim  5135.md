@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported I was serving wine to Abu Talha, and Abu Dujana. and Mu'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu 'Ulayyah], dia berkata; dan telah mengabarkan kepada kami [Sa'id bin Abu 'Arubah] dari [Qatadah] dari [Anas bin Malik] dia berkata, "Aku pernah menuangkan (minuman) untuk Abu Thalhah, Abu Dujanah dan Mu'adz bin Jabal disekumpulan orang-orang Anshar, tiba-tiba seseorang masuk menemui kami sambil berseru, "Ada kabar baru! khamer telah diharamkan." Seketika itu kami langsung menumpahkannya, sedangkan khamer waktu itu terbuat dari campuran busr (kurma muda) dan tamr (kurma kering)." [Qatadah] berkata, " [Anas bin Malik] berkata, "Sungguh, khamer telah diharamkan, sedangkan pada umumnya khamer waktu itu terbuat dari campuran busr dan tamr." Dan telah menceritakan kepada kami [Abu Ghassan Al Misma'i] dan [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] mereka berkata; telah mengabarkan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Anas bin Malik] dia berkata, "Sungguh, saya pernah menuangkan (minuman) campuran busr dan tamr kepada Abu Thalhah, Abu Dujanah dan Suhail bin Baidla' dari geriba besar....sebaimana haditsnya Sa'id
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>1980.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>1980.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 9</td></tr></tbody></table></div>
 

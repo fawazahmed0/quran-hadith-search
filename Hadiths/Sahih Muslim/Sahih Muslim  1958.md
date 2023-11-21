@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Les gens venaient par légions à la p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] dan [Ahmad bin Isa] keduanya berkata. Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Ubaidullah bin Ja'far] bahwa [Muhammad bin Ja'far] telah menceritakan kepadanya dari [Urwah bin Zubair] dari [Aisyah] bahwa ia berkata; "Ada orang-orang yang bergiliran datang untuk menunaikan shalat Jum'at dari rumah-rumah mereka di pegunungan. Mereka datang dengan memakai mantel lalu dipenuhi debu (hingga berbau tidak sedap). Beberapa orang di antara mereka mendatangi Rasulullah shallallahu 'alaihi wasallam yang ketika itu beliau berada di dekatku. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda kepada mereka: "Alangkah baiknya, jika kalian pada hari ini mandi yang bersih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1958</td></tr><tr><td>Arabic No</td><td>847.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «По пятницам люди один за другим приходили (на молитву) из своих жилищ, а также из ‘Авали (поселения за пределами Медины). Они приходили в шерстяных накидках /‘аба/, покрытые пылью и с (неприятным) запахом (пота). (Как-то) один из них пришёл к Посланнику Аллаха ﷺ, когда он находился у меня, и Посланник Аллаха ﷺ сказал: “Было бы хорошо, если бы вы обмывались в этот ваш день!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1958</td></tr><tr><td>Arabic No</td><td>847.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
 

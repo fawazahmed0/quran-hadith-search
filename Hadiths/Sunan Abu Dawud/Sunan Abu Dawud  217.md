@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aba Sa’id al-Khudri reported :The Messenger of Allah (May peace be upon him) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami ['Amru] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Sa'id Al-Khudri] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Air (mandi janabat) itu disebabkan karena keluarnya air (mani)." Dan Abu Salamah melakukan demikian (yakni, dia tidak berpendapat wajibnya mandi bagi suami yang telah memasukkan kemaluannya pada kemaluan istrinya namun tidak keluar air mani, dan dia berpendapat dengan hadits bahwa air (mandi) itu disebabkan karena keluarnya air (mani)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что Посланник Аллаха ﷺ сказал: «Водой от воды». И Абу Салама поступал таким образом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
 

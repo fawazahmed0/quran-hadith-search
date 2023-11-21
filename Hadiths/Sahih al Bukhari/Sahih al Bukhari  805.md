@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) fell from a horse and the right 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] tidak hanya sekali dari [Az Zuhri] berkata, "Aku mendengar [Anas bin Malik] radliallahu 'anhu berkata, "Rasulullah shallallahu 'alaihi wasallam terjatuh dari kudanya, dimungkinkan Sufyan juga menyebutkan, "Beliau jatuh dari kudanya hingga bagian lambung kananannya terluka. Lalu kami pun menjenguk beliau, tidak lama kemudian masuk waktu shalat, beliau lalu shalat mengimami kami sambil duduk, kemudian kami shalat di belakangnya dengan duduk." Sekali waktu waktu Sufyan menyebutkan, "Kami shalat dengan duduk. Setalah selesai shalat beliau bersabda: "Hanyasanya dijadikannya imam adalah agar diikuti, jika dia takbir maka takbirlah, jika dia rukuk maka rukuklah, jika ia mengangkat kepala maka angkatlah kepala kalian, dan jika ia mengucapkan 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar pujian orang yang memuji-Nya) ', maka ucapkanlah oleh kalian 'RABBANAA WA LAKAL HAMDU (Ya Rabb kami, milik Engkaulah segala pujian) '. Dan jika dia sujud maka sujudlah kalian." Sufyan berkata, "Apakah begitu yang dibawa oleh Ma'mar? Aku jawab, "Ya." Lalu Sufyan berkata, "Sungguh dia telah menjaga (memelihara) masalah ini." Az Zuhri berkata, "Segala puji bagi Engkau ya Allah. Sungguh aku masih ingat bahwa beliau terhempas pada bagian kanan lambungnya." Setelah kami berpisah dari Az Zuhri, [Ibnu Juraij] berkata, "Saat itu aku ada di sisi beliau, lalu terjatuhlah beliau pada lambung bagian kanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>805</td></tr><tr><td>Arabic No</td><td>805</td></tr><tr><td>Reference</td><td>Book 10 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что Анас ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ упал с лошади и его правый бок был поцарапан. Мы зашли к нему, чтобы навестить его, и настало время молитвы. Он совершил с нами молитву сидя, и мы тоже совершили сидя. После того как он завершил молитву, он сказал: «Поистине, имам назначается для того, чтобы (во время молитвы) другие следовали за ним, поэтому если он произнесёт такбир, то и вы произносите такбир, если он совершит поясной поклон, то и вы поклонитесь, если он поднимет (голову с поклона), то и вы поднимайте, если он скажет: «Сами‘а-Ллаху лиман хамидах» /Да услышит Аллах того, кто его восхваляет/, то говорите: «Раббана уа лякаль-хамд» /Господь наш и Тебе хвала/, если он совершит земной поклон, то и вы совершайте земной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>805</td></tr><tr><td>Arabic No</td><td>805</td></tr><tr><td>Reference</td><td>Book 10 Hadith 200</td></tr></tbody></table></div>
 

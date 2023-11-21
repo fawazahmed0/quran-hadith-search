@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:Anas said, "The Prophet (ﷺ) forbade the selling of dates till 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam melarang menjual buah kurma hingga sempurna. Kami bertanya kepad Anas; "Apa tanda sempurnanya?" Dia menjawab: "Apabila menjadi memerah dan menguning. Bagaimana pendapatmu jika Allah menghalangi buah hanya karena kamu menghalalkan harta saudaramu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2208</td></tr><tr><td>Arabic No</td><td>2208</td></tr><tr><td>Reference</td><td>Book 34 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Хумейда, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил (продавать) финики, пока они не созреют». Мы спросили Анаса: «Что значит созреют?» Он ответил: «Пока они не покраснеют или не пожелтеют». Анас добавил: «Скажи мне, если Аллах погубит эти плоды, то как продавец может считать дозволенными деньги своего брата!?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2208</td></tr><tr><td>Arabic No</td><td>2208</td></tr><tr><td>Reference</td><td>Book 34 Hadith 154</td></tr></tbody></table></div>
 

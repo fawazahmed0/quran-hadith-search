@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: A blind man had a slave-mother who used to abuse th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbad bin Musa Al Khuttali] berkata, telah mengabarkan kepada kami [Isma'il bin Ja'far Al madani] dari [Isra'il] dari [Utsman Asy Syahham] dari [Ikrimah] ia berkata, [Ibnu Abbas] pernah bercerita kepada kami; "Seorang laki-laki buta mempunyai Ummul Walad (budak wanita yang dijadikan isteri) yang menghina Nabi shallallahu 'alaihi wasallam, dan ia benar-benar telah melakukannya (penghinaan). Laki-laki itu melarang dan mengancamnya namun ia tidak berhenti dan ia terus melarangnya namun wanita itu tidak menggubris. Ibnu Abbas melanjutkan ceritanya, "Pada suatu malam wanita itu kembali mencela Nabi shallallahu 'alaihi wasallam, maka laki-laki itu mengambil sebuah pisau tajam dan meletakkan di atas perut wanita itu seraya menusuknya. Laki-laki itu membunuhnya, sementara antara kedua kaki wanita tersebut lahir seorang banyi mungil hingga ia pun berlumuran darah. Ketika hari telah pagi, kejadian tersebut disampaikan kepada Nabi shallallahu 'alaihi wasallam. Beliau lantas mengumpulkan orang-orang dan bersabda: "Aku bersumpah kepada Allah atas seorang laki-laki, ia telah melakukan suatu perbuatan karena aku, ia dalam kebenaran." Kemudian laki-laki buta itu melangkah di antara manusia hingga ia duduk di hadapan nabi shallallahu 'alaihi wasallam. Ia lalu berkata, "Wahai Rasulullah, aku adalah suaminya. Namun ia mencela dan menghinamu, aku telah melarang dan mengancamnya, namun ia tidak berhenti atau menggubrisnya. Darinya aku telah dikaruniakan dua orang anak yang cakep layaknya bintang yang bersinar, wanita itu sangat sayang kepadaku. Namun, tadi malam ia mencela dan menghinamu, lantas aku mengambil pisau tajam, pisau itu aku letakkan di atas perutnya dan aku tusukkan hingga ia mati." Nabi shallallahu 'alaihi wasallam lalu bersabda: "Ketahuilah, bahwa darah wanita itu adalah sia-sia (halal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4361</td></tr><tr><td>Arabic No</td><td>4361</td></tr><tr><td>Reference</td><td>Book 40 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что у одного слепого была рабыня, от которой у него были дети и которая постоянно поносила и ругала Пророка ﷺ. Он запрещал ей делать это, но она всё равно поступала по-своему, и он предостерегал её, но она не слушала его. Однажды ночью, когда она снова начала поносить Пророка ﷺ этот слепой взял кинжал, вонзил ей в живот и навалился на нее, убив её. Тогда же между ног её упал ребёнок (судя по всему, он не умер). Когда настало утро, об этом стало известно Посланнику Аллаха ﷺ и он собрал людей и сказал: “Я заклинаю Аллахом человека, который сделал то, что сделал, и в отношении которого я имею право, встать!” Этот слепой встал и стал неуклюже пробираться между людьми, покачиваясь из стороны в сторону, пока не сел перед Пророком ﷺ. Он сказал: “О Посланник Аллаха! Я и есть тот человек… Она ругала и поносила тебя, и я запрещал ей, но она не слушалась, и предостерегал её, но она продолжала делать своё… У меня два сына от неё, подобные жемчужинам, и она была добра ко мне… И вот вчера она начала поносить и ругать тебя, а я взял кинжал, вонзил ей в живот и навалился на него, пока не убил её”. Тогда Пророк ﷺ сказал: “Засвидетельствуйте, что за её кровь не полагается отмщение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4361</td></tr><tr><td>Arabic No</td><td>4361</td></tr><tr><td>Reference</td><td>Book 40 Hadith 11</td></tr></tbody></table></div>
 

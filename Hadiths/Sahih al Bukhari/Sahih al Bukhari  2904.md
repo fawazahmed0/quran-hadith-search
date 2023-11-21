@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:The properties of Bani An-Nadir which Allah had transferred to Hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] dari ['Amru] dari [Az Zuhriy] dari [Malik bin Aus bin Al Hadatsan] dari [Umar] radliallahu 'anhu berkata; Harta harta Bani An-Nadhir yang Allah berikan kepada Rosul-Nya berupa fa'i merupakan harta rampasan perang yang didapatkan oleh Kaum Muslimin tanpa mengerahkan pasukan berkuda dan menunggang unta. Dan Rasulullah shallallahu 'alaihi wasallam mendapat bagian secara khusus yang Beliau jadikan sebagai nafkah untuk keluarga selama setahun dan sisanya berupa senjata dan perisai Beliau jadikan sebagai peralatan perang fi sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>2904</td></tr><tr><td>Reference</td><td>Book 56 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «Имущество (племени) бану ан-надир было даровано Аллахом Его посланнику ﷺ, так как мусульманам не пришлось из-за этого бросать в бой лошадей и верблюдов. (Это имущество) принадлежало только Посланнику Аллаха ﷺ, который расходовал из него что-то на ежегодное содержание своих жён, а оставшееся тратил на оружие и лошадей(, готовясь к сражениям) на пути Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2904</td></tr><tr><td>Arabic No</td><td>2904</td></tr><tr><td>Reference</td><td>Book 56 Hadith 118</td></tr></tbody></table></div>
 

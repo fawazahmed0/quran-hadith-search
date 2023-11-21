@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah (ra):A boy was born to one of our men, the Ansar, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Sulaiman] dan [Manshur] dan [Qatadah] mereka mendengar [Salim bin Abi Al Ja'di] dari [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; "Seorang dari kami Kaum Anshar dikaruniakan anak lalu dia hendak memberi nama dengan Muhammad". [Syu'bah] berkata dalam hadits riwayat [Manshur]; 'Bahwa ada seorang Anshar berkata; "Aku bawa anak itu dengan kugendong diatas tengkukku untuk kutemui Nabi Shallallahu'alaihiwasallam". Dan dalam hadits Sulaiman; "Seseorang dikaruniakan anak lalu dia hendak memberi nama dengan Muhammad". Beliau Shallallahu'alaihiwasallam bersabda: "Berikanlah nama dengan namaku tapi jangan dengan panggilanku sebab aku dinamakan sebagai Qasim karena aku adalah yang membagi-bagi di antara kalian". Dan berkata [Hushain]: "Aku diutus sebagai Qasim yaitu yang membagi-bagikan di antara kalian". Berkata ['Amru] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] berkata aku mendengar [Salim] dari [Jabir]; "Ada seseorang yang berkehendak menamakan anaknya dengan Al Qasim maka Nabi Shallallahu'alaihiwasallam bersabda: "Berilah nama dengan namku tapi jangan memberi julukan dengan julukan aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 57 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Когда у одного человека из нас ансаров родился мальчик, он хотел назвать его Мухаммадом. Тот человек из ансаров (отец ребёнка) сказал: “Я принёс (этого мальчика) к Пророку ﷺ на своей шее. Пророк ﷺ сказал: называйте (детей) моим именем, но не пользуйтесь моей куньей, ибо я был сделан касимом (распределяющим), и я распределяю между вами (наследство, военную добычу и так далее)”».\nХусайн сказал, что Пророк ﷺ сказал: «Я был послан распределяющим, и я распределяю между вами».\nСообщается, что Джабир сказал: «Он хотел назвать его аль-Касимом, но Пророк ﷺ сказал: “Называйте (детей) моим именем, но не пользуйтесь моей куньей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 57 Hadith 23</td></tr></tbody></table></div>
 

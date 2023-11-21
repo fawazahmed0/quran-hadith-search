@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) saw a man driving a Badana (a camel for sacrific
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam melihat seorang laki-laki yang menuntun unta, lalu beliau bersabda: "Naikilah" laki-laki tersebut menjawab; "Ia hanya seekor unta?" beliau bersabda: "Naikilah." Laki-laki itu tetap berkata; "Sesungguhnya ia hanya seekor unta." Beliau bersabda: "Naikilah, celaka kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6159</td></tr><tr><td>Arabic No</td><td>6159</td></tr><tr><td>Reference</td><td>Book 78 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах, что когда Пророк ﷺ увидел какого-то человека, который гнал своего верблюда, он сказал ему: «Сядь на него верхом». (Человек) сказал: «Это ведь жертвенный верблюд!» Пророк ﷺ снова повторил: «Сядь на него верхом». (Человек) снова сказал: «Это ведь жертвенный верблюд!» Тогда Пророк ﷺ сказал: «Садись же, горе тебе!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6159</td></tr><tr><td>Arabic No</td><td>6159</td></tr><tr><td>Reference</td><td>Book 78 Hadith 185</td></tr></tbody></table></div>
 

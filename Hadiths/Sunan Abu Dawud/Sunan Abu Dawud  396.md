@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'Amr reported the Prophet (ﷺ) as saying:The time of the Zuhr pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia mendengar [Abu Ayyub] dari [Abdullah bin Amru] dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau bersabda: "Waktu Zhuhur adalah selama belum datang waktu Ashar, waktu Ashar selama matahari belum menguning, waktu Maghrib selama sinar merah belum tenggelam, waktu Isya hingga pertengahan malam, dan waktu shalat Shubuh selama matahari belum terbit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (612)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>396</td></tr><tr><td>Arabic No</td><td>396</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра о том, что Пророк ﷺ сказал: «Время полуденной молитвы продолжается, пока не начнется время послеполуденной молитвы. Время послеполуденной молитвы продолжается, пока не пожелтеет солнце. Время закатной молитвы продолжается, пока не исчезнут сумерки. Время вечерней молитвы продолжается до полуночи, а время утренней молитвы продолжается, пока не взойдет солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (612)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>396</td></tr><tr><td>Arabic No</td><td>396</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
 

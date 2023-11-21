@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Al-Hasan bin 'Ali took a date from the dates given in chari
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muhammad bin Ziyad] berkata; Aku mendengar [Abu Hurairah radliallahu 'anhu] berkata; "Suatu hari Al Hasan bin 'Ali radliallahu 'anhuma mengambil kurma dari kurma-kurma shadaqah (zakat) lalu memasukkannya ke dalam mulutnya, maka Nabi Shallallahu'alaihiwasallam bersabda: "Hei, hei". Maksudnya supaya ia membuangnya dari mulutnya. Selanjutnya Beliau bersabda: "Tidakkah kamu menyadari bahwa kita tidak boleh memakan zakat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1491</td></tr><tr><td>Arabic No</td><td>1491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды аль-Хасан ибн ‘Али взял финик, который был предназначен для милостыни, и положил его в рот. Пророк ﷺ сказал: “Выплюнь, выплюнь! Разве ты не знал, что мы не едим милостыню?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1491</td></tr><tr><td>Arabic No</td><td>1491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 91</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Jarir]
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4931.2</td></tr><tr><td>Arabic No</td><td>4931.2</td></tr><tr><td>Reference</td><td>Book 65 Hadith 452</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Когда мы находились с Посланником Аллаха ﷺ в пещере, ему начали ниспосылаться (аяты, в которых говорилось): “Клянусь посылаемыми…”, и, поистине, он произносил (эти аяты), а мы слышали их (непосредственно) из его уст. Внезапно из своей норы вылезла змея, и Посланник Аллаха ﷺ велел: “Убейте её!” Мы кинулись к ней, но она уползла, и тогда Пророк ﷺ сказал: “Её защитили от вашего зла, как и вас защитили от её зла”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4931</td></tr><tr><td>Arabic No</td><td>4931</td></tr><tr><td>Reference</td><td>Book 65 Hadith 451</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4931.2</td></tr><tr><td>Arabic No</td><td>4931.2</td></tr><tr><td>Reference</td><td>Book 65 Hadith 452</td></tr></tbody></table></div>

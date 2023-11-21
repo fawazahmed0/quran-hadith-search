@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zuhayr bin Harb narrated to me, Ismā’īl, rather, Ibn Ulayyah narrated to us,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ismail] -yaitu Ibnu 'Ulayyah- dari [Abdul Aziz bin Shuhaib] dari [Anas bin Malik] bahwasanya dia berkata, 'Sesungguhnya sesuatu yang menghalangiku untuk menceritakan hadits yang banyak kepada kalian adalah, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang sengaja melakukan kedustaan atas namaku, maka hendaklah dia menempati tempat duduknya dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3</td></tr><tr><td>Reference</td><td>Book 0 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Поистине, мне не позволяет рассказать вам многие хадисы лишь то, что Посланник Аллаха ﷺ сказал: “Кто возведет на меня ложь преднамеренно, пусть займет свое место в огне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3</td></tr><tr><td>Reference</td><td>Book 0 Hadith 3</td></tr></tbody></table></div>
 

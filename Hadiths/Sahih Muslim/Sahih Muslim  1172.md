@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:That is what Abu Huraira reported to us from the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, 'Ini adalah sesuatu yang telah diceritakan kepada kami [Abu Hurairah radhiyallahu'anhu] dari Rasulullah shallallahu'alaihiwasallam, lalu dia menyebutkan beberapa hadits, di antaranya, "Dan Rasulullah Shallallahu'alaihiwasallam bersabda, 'Aku ditolong dengan rasa takut (yang dihunjamkan di dada-dada musuhku), dan aku diberi Jawami' al-Kalim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1172</td></tr><tr><td>Arabic No</td><td>523.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Мне была оказана помощь страхом, и мне была дарована (способность говорить с людьми, произнося) немного слов, в которые вкладывается много смысла /джавами‘ аль-кялим/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1172</td></tr><tr><td>Arabic No</td><td>523.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 12</td></tr></tbody></table></div>
 

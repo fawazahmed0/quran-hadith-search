@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nabaisha reported that Khalid said:I met Abu Malih and asked him and he narrated
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Suraij bin Yunus] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Khalid] dari [Abu Malih] dari [Nubaisyah Al Hudzali] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari-hari Tasyriq adalah hari makan-makan dan minum." Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Isma'il] yakni Ibnu Ulayyah dari [Khalid Al Hadzdza'] telah menceritakan kepadaku [Abu Qilabah] dari [Abu Al Malih] dari [Nubaisyah]. Khalid berkata; Saya menjumpai Abu Malih dan bertanya kepadanya, maka ia pun menceritakannya kepadaku, lalu ia menyebutkan dari Nabi shallallahu 'alaihi wasallam dengan hadits yang serupa dengan haditsnya Husyaim dan ia menambahkan; Dan dzikir kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2678</td></tr><tr><td>Arabic No</td><td>1141.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2678</td></tr><tr><td>Arabic No</td><td>1141.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 184</td></tr></tbody></table></div>
 

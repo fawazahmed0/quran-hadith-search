@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that the Messenger of Allah (ﷺ) wits the best among peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Syaiban bin Farukh] dan [Abu Rabi'], keduanya dari [Abdul Warits]. [Syaiban] mengatakan; telah menceritakan kepada kami [Abdul Warits] dari [Abu Tayyah] dari [Anas bin Malik], katanya; Rasulullah shallallahu 'alaihi wasallam adalah sosok manusia yang terbaik akhlaknya, ketika waktu shalat tiba dan beliau di rumah kami, maka beliau memerintahkan agar dibentangkan tikar yang ada dibawahnya. Kemudian disapu dan diperciki air. Lalu Rasulullah shallallahu 'alaihi wasallam mengimami, sementara kami berdiri di belakang beliau, lalu beliau shalat bersama kami. Dan tikar mereka ketika itu terbuat dari pelepah kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>659</td></tr><tr><td>Reference</td><td>Book 5 Hadith 333</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Посланник Аллаха ﷺ был самым добронравным из людей, и бывало так, что время молитвы наступало, когда он был у нас дома. Тогда, по его велению подметали подстилку, которая был под ним, затем её брызгали водой. После этого Посланник Аллаха ﷺ вставал вперёд, а мы вставали за ним, и он совершал с нами молитву. И (эта) подстилка была (изготовлена) из пальмовых ветвей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>659</td></tr><tr><td>Reference</td><td>Book 5 Hadith 333</td></tr></tbody></table></div>
 

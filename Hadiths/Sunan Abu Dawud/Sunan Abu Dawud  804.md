@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu sa’id al Khudri said:We used to estimate how long the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad yaitu An Nufaili] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Manshur] dari [Al Walid bin Muslim Al Hujaimi] dari [Abu As Shiddiq An Najji] dari [Abu Sa'id Al Khudri] dia berkata; "Kami pernah memperkirakan berapa lama Rasulullah shallallahu 'alaihi wasallam berdiri ketika shalat Dzuhur dan Ashar, yaitu perkirakan kami pada dua raka'at pertama shalat Dzuhur seperti lamanya membaca kira-kira tiga puluh ayat, seperti membaca; "Alif Lam Mim Tanziilul (surat as Sajadah), dan kami memperkirakan lama berdiri beliau pada dua raka'at terakhir, seperti setengah dari dua raka'at yang pertama. Lalu kami memperkirakan lama berdiri beliau dalam dua raka'at pertama shalat Ashar, sama dengan lama berdiri beliau dalam dua raka'at terakhir shalat Dzuhur, dan kami memperkirakan lama berdiri beliau dalam dua raka'at yang terakhir dalam shalat Ashar seperti separuh dari lamanya pada dua raka'at pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (452)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>804</td></tr><tr><td>Arabic No</td><td>804</td></tr><tr><td>Reference</td><td>Book 2 Hadith 414</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах: «Мы оценили стояние Посланника Аллаха ﷺ во время полуденной /зухр/ и послеполуденной /аср/ молитвы и обнаружили, что в первых двух рак‘атах полуденной молитвы он стоял столько, сколько достаточно, чтобы прочитать тридцать аятов или суру “Земной поклон”. И мы обнаружили, что его стояние в оставшихся двух рак‘атах было вдвое короче стояния в первых двух. А в первых двух рак‘атах послеполуденной молитвы его стояние соответствовало стоянию в двух последних рак‘атах полуденной молитвы, а его стояние в оставшихся двух рак‘атах послеполуденной молитвы было вдвое меньше стояния в первых двух»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (452)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>804</td></tr><tr><td>Arabic No</td><td>804</td></tr><tr><td>Reference</td><td>Book 2 Hadith 414</td></tr></tbody></table></div>
 

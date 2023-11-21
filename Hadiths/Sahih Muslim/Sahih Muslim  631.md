@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa b. Mughira reported his father having said:I was one night with the Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Zakariya'] dari [Amir] dia berkata, telah mengabarkan kepadaku [Urwah bin al-Mughirah] dari [bapaknya] di berkata, "Saya bersama Nabi shallallahu 'alaihi wasallam pada suatu malam dalam perjalanan, maka beliau bersabda kepadaku: 'Apakah kamu memiliki air? ' Aku menjawab, 'Ya.' Lalu beliau turun dari kendaraannya, lalu berjalan hingga tersembunyi dalam gelapnya malam, kemudian beliau datang kembali, lalu aku menuangkan air dari geriba untuknya, beliau pun membasuh muka, karena memakai jubah wool yang kedua lengannya sempit, maka beliau pun merasa kesusahan untuk mengelurkan kedua tangannya, beliau lalu mengeluarkannya lewan bawah jubahnya. Lalu beliau membasuh kedua lengannya dan mengusap kepala. Kemudian aku jongkok untuk melepas kedua khufnya, maka beliau bersabda: 'Biarkanlah keduanya, karena aku memasukkan kedua kakiku padanya dalam keadaan suci'. Dan beliau mengusap bagian atas dari kedua khufnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>631</td></tr><tr><td>Arabic No</td><td>274.06</td></tr><tr><td>Reference</td><td>Book 2 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Мугыра ибн Шу‘ба сказал: «Однажды ночью, когда я сопровождал Пророка ﷺ в пути, он спросил меня: “Есть ли у тебя вода?” и я сказал: “Да”. Тогда (Пророк ﷺ сидевший верхом на своей верблюдице), спешился, пошёл (вперёд) и скрылся из виду в ночной тьме. Когда он вернулся, я стал лить для него (воду) из сосуда, и он омыл лицо. На (Пророке ﷺ) была шерстяная джубба, и, поскольку он не смог обнажить руки до лок­тей, ему пришлось просунуть их снизу. (Сделав это), он омыл руки до локтей и провёл (влажными руками) по голове, а потом я нагнулся, чтобы снять с него кожаные носки, но он сказал: “Оставь их, ибо я на­дел (носки) на чистые (ноги)”, после чего обтёр их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>631</td></tr><tr><td>Arabic No</td><td>274.06</td></tr><tr><td>Reference</td><td>Book 2 Hadith 98</td></tr></tbody></table></div>
 

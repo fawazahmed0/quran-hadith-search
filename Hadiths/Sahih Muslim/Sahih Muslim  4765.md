@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu 'Abd al-Rahman from 'Ali that the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Ibnu Basyar] sedangkan lafadznya dari Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Zubaid] dari [Sa'd bin 'Ubaidah] dari [Abu Abdurrahman] dari [Ali], bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengirim suatu pasukan dan mengangkat seorang laki-laki menjadi komandannya. Kemudian ia menyalakan api (unggun) seraya berkata, "Masuklah kalian ke dalam api tersebut." Maka sebagian anak buahnya hendak masuk ke dalam api tersebut, sedangkan sebagian anak buahnya yang lain mengatakan, "Kita harus menjauhi api tersebut." Kemudian peristiwa tersebut dilaporkan kepada Rasulullah shallallahu 'alaihi wasallam, lantas beliau bersabda kepada orang-orang yang hendak melompat ke dalam api tersebut: "Sekiranya kalian masuk ke dalam api tersebut, maka kalian akan senantiasa di dalamnya hingga hari Kiamat." Kemudian beliau berkata pula kepada yang lain dengan lemah lembut, sabdanya: "Tidak ada ketaatan dalam kemaksiatan kepada Allah, hanyasanya ketaatan itu di dalam kebajikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4765</td></tr><tr><td>Arabic No</td><td>1840.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4765</td></tr><tr><td>Arabic No</td><td>1840.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 63</td></tr></tbody></table></div>
 

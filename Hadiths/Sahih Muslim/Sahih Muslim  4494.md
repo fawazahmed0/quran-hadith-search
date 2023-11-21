@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Khalid al-Juhani reported Allah's Apostle (ﷺ) as saying:Should I not t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku bacakan di hadapan [Malik]; dari [Abdullah bin Abu Bakar] dari [ayahnya] dari [Abdullah bin Amru bin Utsman] dari [Ibnu Abu 'Amrah Al Anshari] dari [Zaid bin Khalid Al Juhani], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Maukah aku beritahukan kepada kalian mengenai saksi yang paling baik? Yaitu orang yang datang memberi kesaksian sebelum diminta (untuk bersaksi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4494</td></tr><tr><td>Arabic No</td><td>1719</td></tr><tr><td>Reference</td><td>Book 30 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4494</td></tr><tr><td>Arabic No</td><td>1719</td></tr><tr><td>Reference</td><td>Book 30 Hadith 25</td></tr></tbody></table></div>
 

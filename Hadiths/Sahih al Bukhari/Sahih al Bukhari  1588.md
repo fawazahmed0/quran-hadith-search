@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Usama bin Zaid:I asked, "O Allah's Messenger (ﷺ)! Where will you sta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh] berkata, telah mengabarkan kepada saya [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] dari ['Ali bin Husain] dari ['Amru bin 'Utsman] dari [Usamah bin Zaid radliallahu 'anhum] bahwa dia berkata: "Wahai Rasulullah, dimana anda akan singgah di Makkah ini?". Beliau berkata: "Apakah 'Uqail meninggalkan rumah yang luas atau rumah-rumah?". 'Uqail dan Tholib mendapatkan warisan dari Abu Tholib sedangkan Ja'far dan 'Ali radliallahu 'anhuma tidak mewarisi sedikitpun karena keduanya adalah Muslim sedangkan 'Uqail dan Tholib kafir. Dan adalah 'Umar bin Al Khaththob radliallahu 'anhu berkata: "Seorang mu'min tidak mewariskan kepada orang yang kafir". Ibnu Syihab berkata: "Mereka menafsirkan firman Allah Ta'ala QS Al Anfal ayat 72 (yang artinya): ("Sesungguhnya orang-orang yang beriman, orang-orang yang berhijrah dan orang-orang yang berjihad dengan harta dan jiwa mereka di jalan Allah dan orang-orang yang memberikan tempat kediaman dan menolong (orang yang berhijrah) mereka itu satu sama lain saling melindungi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1588</td></tr><tr><td>Arabic No</td><td>1588</td></tr><tr><td>Reference</td><td>Book 25 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Усамы бин Зейда, да будет доволен Аллах ими обоими, что он спросил (Пророка ﷺ): «О Посланник Аллаха, где ты остановишься? Не в своём ли доме в Мекке?» (Пророк ﷺ) сказал: «А разве ‘Акиль оставил какие-нибудь строения (или: дома)?» Что касается ‘Акиля, то он стал наследником Абу Талиба вместе с Талибом, тогда как ни Джа‘фар, ни ‘Али, да будет доволен Аллах ими обоими, ничего не унаследовали от него, поскольку они были мусульманами, а ‘Акиль и Талиб — неверными.\nПеревод не до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1588</td></tr><tr><td>Arabic No</td><td>1588</td></tr><tr><td>Reference</td><td>Book 25 Hadith 74</td></tr></tbody></table></div>
 

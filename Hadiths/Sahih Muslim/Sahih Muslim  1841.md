@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:What a wretched person is he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] -Ishaq- berkata, telah mengabarkan kepada kami -dua orang yang lain- berkata telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Alangkah buruknya seorang yang berkata, 'Aku lupa ayat ini dan itu.' Akan tetapi ia telah dilupakan Allah. Sering-seringlah mengingat (membaca) Al Qur'an, karena ia lebih cepat hilangnya dari dada seseorang, daripada unta yang lepas dari ikatannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1841</td></tr><tr><td>Arabic No</td><td>790.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Плохо, когда кто-то из вас говорит: “Я забыл такой-то и такой-то аят” (ибо не сам он забыл), а заставил его забыть (Аллах). Вспоминайте Коран (постоянно), ибо он ускользает из сердец людей быстрее, чем верблюды высвобождаются из пут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1841</td></tr><tr><td>Arabic No</td><td>790.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 269</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin ‘Abd Allah said The Prophet(ﷺ) performed the circumambulation of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Yahya] dari [Ibnu Juraij], telah mengabarkan kepadaku [Abu Az Zubair] bahwa ia mendengar [Jabir bin Abdullah] berkata; Nabi shallallahu 'alaihi wasallam melaksanakan thawaf mengelilingi pada haji wada' di Ka'bah dan Shafa serta Marwa di atas kendaraannya agar orang-orang melihatnya dan untuk membimbing dan agar orang-orang bertanya kepadanya. Karena sesungguhnya orang-orang telah mengelilingi beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1273)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1880</td></tr><tr><td>Arabic No</td><td>1880</td></tr><tr><td>Reference</td><td>Book 11 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ во время прощального хаджа объезжал вокруг Каабы и совершал пробег между холмами Сафа и Марва на своей верблюдице, чтобы люди могли видеть его и чтобы он был высоко и чтобы они могли задавать вопросы, поскольку его окружало великое множество людей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1273)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1880</td></tr><tr><td>Arabic No</td><td>1880</td></tr><tr><td>Reference</td><td>Book 11 Hadith 160</td></tr></tbody></table></div>
 

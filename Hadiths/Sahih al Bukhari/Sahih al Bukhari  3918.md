@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Al-Bara added:I then went with Abu Bakr into his home (carrying that saddle) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3918</td></tr><tr><td>Arabic No</td><td>3918</td></tr><tr><td>Reference</td><td>Book 63 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Далее аль-Бара сказал: «Затем я зашёл с Абу Бакром в его дом, и увидел там его дочь ‘Аишу, лежащую в постели из-за сильной лихорадки. И я увидел, как её отец Абу Бакр поцеловал её в щёку и сказал: “Как ты, доченька?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3918</td></tr><tr><td>Arabic No</td><td>3918</td></tr><tr><td>Reference</td><td>Book 63 Hadith 143</td></tr></tbody></table></div>
 

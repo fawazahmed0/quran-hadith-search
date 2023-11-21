@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a different chain of tranmitters) on the authority
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Ja'far- telah menceritakan kepada kami [Syu'bah] dari ['Ashim] dari [Sya'bi] dari [Jabir bin Abdullah] dia berkata, "Jika seorang laki-laki lama meninggalkan rumah, maka Rasulullah shallallahu 'alaihi wasallam melarangnya untuk masuk rumah (saat kembali) di waktu malam." Dan telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Syu'bah] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4967</td></tr><tr><td>Arabic No</td><td>715.26</td></tr><tr><td>Reference</td><td>Book 33 Hadith 262</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4967</td></tr><tr><td>Arabic No</td><td>715.26</td></tr><tr><td>Reference</td><td>Book 33 Hadith 262</td></tr></tbody></table></div>
 

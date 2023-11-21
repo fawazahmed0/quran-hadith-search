@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When Allah's Messenger (ﷺ) was on his death-bed and in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami [Hisyam] dari [Ma'mar] dan dari jalur lain telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Tatkala Rasulullah shallallahu 'alaihi wasallam mendekati ajalnya, sedangkan di rumah beliau telah hadir beberapa orang, diantaranya adalah Umar bin Khattab, maka Nabi shallallahu 'alaihi wasallam bersabda: "Kemarilah, saya akan menulis suatu catatan yang kalian tidak akan tersesat sepeninggalku." Lalu Umar berkata; "Tampaknya sakit beliau bertambah parah, bukankah di sisi kalian terdapat Al Qur'an? Cukuplah bagi kita Kitabullah." Orang-orang yang berada di sekitar beliau ketika itu berbeda pendapat, lalu mereka saling berbantah-bantahan. Ada yang mengatakan; "Mendekatlah kepada beliau, supaya Rasulullah shallallahu 'alaihi wasallam dapat menuliskan suatu wasiat buat kalian, agar kalian tidak tersesat sepeninggalnya." Dan yang lain berpendapat seperti perkataan Umar, sehingga mereka menjadi ribut di sekitar Rasulullah shallallahu 'alaihi wasallam. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Berdirilah kalian semua (maksudnya pergi dari sisi beliau)." Ubaidullah mengatakan; Ibnu Abbas berkata; "Kerugian besar (bagi kaum Muslimin), mereka gagal menuliskan pesan terakhir Rasulullah shallallahu 'alaihi wasallam karena mereka saling berbantah-bantahan di sekitar Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5669</td></tr><tr><td>Arabic No</td><td>5669</td></tr><tr><td>Reference</td><td>Book 75 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Когда к Пророку ﷺ приблизилась смерть, в доме находились мужчины, среди которых был ‘Умар ибн аль-Хаттаб, и Пророк ﷺ сказал: «Подойдите, и я запишу то, благодаря чему впоследствии вы никогда не собьётесь с пути». Умар сказал: «Поистине, Пророк ﷺ сломлен болезнью! У вас же есть Коран! Нам достаточно Книги Аллаха!” Присутствовавшие в доме разошлись во мнении и стали спорить друг с другом. Некоторые из них говорили: «Принесите (бумагу), пусть Пророк ﷺ напишет для вас то, благодаря чему вы не собьётесь». Некоторые стали высказывать мнение ‘Умара. Когда шума и полемики стало слишком много возле Пророка ﷺ он сказал: “Покиньте меня”».\n‘Убейдуллах передал, что Ибн ‘Аббас, да будет доволен им Аллах, говорил: «Поистине, вся беда в том, что по причине их шума и полемик, Посланник Аллаха ﷺ не написал им ту бумагу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5669</td></tr><tr><td>Arabic No</td><td>5669</td></tr><tr><td>Reference</td><td>Book 75 Hadith 29</td></tr></tbody></table></div>
 

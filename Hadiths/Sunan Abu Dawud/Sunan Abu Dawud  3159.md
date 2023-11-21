@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Husayn ibn Wahwah: Talhah ibn al-Bara' fell ill and the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahim bin Mutharrif Ar Ruasi Abu Sufyan] dan [Ahmad bin Janab], mereka berkata; telah menceritakan kepada kami [Isa]. Abu Daud berkata; ia adalah Ibnu Yunus dari [Sa'id bin Utsman Al Balwi], dari ['Urwah bin Sa'id Al Anshari], dari [ayahnya] dari [Al Hushain bin Wahwah] bahwa Thalhah bin Al Bara' sakit, kemudian Nabi shallallahu 'alaihi wasallam mengunjunginya. Lalu beliau berkata: "Sesungguhnya aku melihat Thalhah telah mendekati kematiannya, maka beritahukan kematiannya dan bersegeralah untuk mengurus jenazahnya, karena sesungguhnya tidak layak jasad seorang muslim ditahan diantara keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3159</td></tr><tr><td>Arabic No</td><td>3159</td></tr><tr><td>Reference</td><td>Book 21 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хусейн ибн Вахвах передаёт, что Тальха ибн аль-Бара заболел и Пророк ﷺ пришёл навестить его и сказал: «Поистине, я считаю, что Тальха при смерти, поэтому сообщите мне, как только он скончается, и поспешите, потому что тело покойного мусульманина не должно задерживаться среди членов его семьи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3159</td></tr><tr><td>Arabic No</td><td>3159</td></tr><tr><td>Reference</td><td>Book 21 Hadith 71</td></tr></tbody></table></div>
 

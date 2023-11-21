@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A Jew whose face had been slapped (by someone), cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Amru bin Yahya Al Mazini] dari [ayahnya] dari [Abu Sa'id Al Khudzri] mengatakan, seorang laki-laki yahudi mendatangi Nabi shallallahu 'alaihi wasallam yang ketika itu wajahnya telah ditempeleng, ia berujar; 'Hai Muhammad, salah seorang sahabatmu dari Anshar telah menempeleng wajahku.' Nabi bersabda; "panggil dia!" Lantas para sahabat memanggilnya, dan Nabi bertanya: "Mengapa kau tempeleng wajahnya?" dia menjawab; 'ya Rasulullah, aku melewati orang-orang yahudi, lalu aku mendengar dia mengatakan; 'Demi Dzat yang memilih Musa diatas semua manusia.' Saya berujar; 'Dan diatas Muhammad Shallallahu'alaihiwasallam.' Maka pada saat itu aku terbawa amarah, sehingga aku menempelengnya.' Nabi terus bersabda: "Jangan kalian memilih-memilih aku diantara para nabi, sebab padahari kiamat nanti manusia pingsan, dan aku yang pertama-tama sadarkan diri, namun ternyata Musa telah memegang penyangga arsy, saya tidak tahu, apakah dia siuman sebelumku ataukah ia telah memperoleh pembalasan dari kepingsanannya di bukit Tursina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6917</td></tr><tr><td>Arabic No</td><td>6917</td></tr><tr><td>Reference</td><td>Book 87 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Однажды к Пророку ﷺ пришёл иудей, которого ударили по лицу, и сказал: “О Мухаммад, один человек из числа твоих сподвижников, ансаров, ударил меня по лицу”. Пророк ﷺ сказал: “Позовите его!” Когда тот пришёл, Пророк ﷺ спросил его: “Почему ты ударил его по лицу?” Он ответил: “О Посланник Аллаха, проходя мимо иудеев, я услышал, как он клялся, говоря: “Я клянусь Тем, Кто дал превосходство Мусе над всеми людьми!” Я сказал: “Даже над Мухаммадом!?” Меня охватил гнев, и я ударил его по лицу”. Тогда Пророк ﷺ сказал: “Не превозносите меня над другими пророками! Поистине, в День воскресения люди будут поражены, и я буду первым, кто воскреснет, и я увижу Мусу, который будет держаться за один из столпов Трона Аллаха. И мне будет неизвестно, был ли он оживлён до меня, или же ему было воздано поражением на (горе) Тур (в этой жизни)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6917</td></tr><tr><td>Arabic No</td><td>6917</td></tr><tr><td>Reference</td><td>Book 87 Hadith 55</td></tr></tbody></table></div>
 

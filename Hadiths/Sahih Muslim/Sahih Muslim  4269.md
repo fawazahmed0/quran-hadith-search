@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa al-Ash'ari reported:We came to Allah's Messenger (ﷺ) requesting him t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Sulaiman At Taimi] dari [Dluraib bin Nuqair Al Qaisi] dari [Zahdam] dari [Abu Musa Al Asy'ari] dia berkata; "Kami pernah menemui Rasulullah shallallahu 'alaihi wasallam untuk meminta supaya beliau dapat membantu membawakan perbekalan (peperangan). Maka beliau bersabda: "Aku tidak dapat membantu membawakan perbekalan kalian, demi Allah, aku tidak dapat membantu membawa perbekalan kalian." Setelah beberapa saat, beliau mengutus seseorang kepada kami dengan membawa tiga ekor unta yang semuanya berwarna putih, maka kami berkata; "Tadi kami menemui Rasulullah shallallahu 'alaihi wasallam dengan meminta bentuan supaya beliau dapat membawa perbekalan kami, lalu beliau bersumpah bahwa beliau tidak mampu membantu membawakan perbekalan kami, kemudian kami mendatangi beliau dan mengabarkan hal itu kepadanya." Lantas beliau bersabda: "Sungguh, sekiranya aku terlanjur bersumpah, kemudian aku melihat ada sesuatu yang lebih baik dari sumpahku itu, maka aku akan melakukan sesuatu yang lebih baik dari sumpahku." Telah menceritakan kepada kami [Muhammad bin Abdul A'la At Taimi] telah menceritakan kepada kami [Al Mu'tamir] dari [ayahnya] telah menceritakan kepada kami [Abu As Salil] dari [Zahdam] bahwa dia pernah menceritakan kepadanya dari [Abu Musa] dia berkat; "kami termasuk dari tentara yang berjalan kaki, lalu kami menemui Nabi Allah shallallahu 'alaihi wasallam dan meminta agar supaya beliau dapat membantu membawakan perbekalan kami …" seperti hadits Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4269</td></tr><tr><td>Arabic No</td><td>1649.07</td></tr><tr><td>Reference</td><td>Book 27 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4269</td></tr><tr><td>Arabic No</td><td>1649.07</td></tr><tr><td>Reference</td><td>Book 27 Hadith 16</td></tr></tbody></table></div>
 

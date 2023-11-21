@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:We were in the company of the Prophet (ﷺ) on a journey, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Utsman] dari [Abu Musa] radliallahu 'anhu dia berkata; "Kami bersama Nabi shallallahu 'alaihi wasallam di suatu perjalanan, apabila kami berjalan ke tempat yang agak tinggi, kami pun bertakbir, maka Nabi shallallahu 'alaihi wasallam bersabda: 'Saudara-saudara sekalian, rendahkanlah suara kalian! Sesungguhnya kalian tidak berdoa kepada Dzat yang tuli dan jauh. Tetapi kalian berdoa kepada Dzat Yang Maha Mendengar dan Maha Dekat.' Kemudian beliau mendatangiku, sedangkan diriku tengah membaca; 'Laa haula wa laa quwwata ilIa billaah' (Tiada daya dan upaya kecuali dengan pertolongan AlIah). Kemudian beliau bersabda: 'Hai Abdullah bin Qais, 'Ucapkanlah: Laa haula wala quwwata illaa billaah, karena itu adalah salah satu dari perbendaharaan surga -atau beliau bersabda; 'Maukah aku tunjukkan kepadamu suatu kalimat, yang termasuk salah satu dari perbendaharaan surga? Yaitu; Laa haula walaa quwwata illaa billah' (Tiada daya dan upaya kecuali dengan pertolongan AIIah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6384</td></tr><tr><td>Arabic No</td><td>6384</td></tr><tr><td>Reference</td><td>Book 80 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Абу Муса, да будет доволен им Аллах, сказал: «Однажды мы были вместе с Пророком ﷺ в одной из поездок, и когда мы поднимались (на возвышенность), то возвеличивали Аллаха, и тогда Пророк ﷺ сказал: “О люди! Умерьте свой пыл! Поистине, вы взываете не к глухому и не к отсутствующему, однако, вы взываете к Слышащему, Видящему”. Затем пришёл ‘Али, а я говорил себе: “Нет силы и мощи ни у кого, кроме Аллаха”, и тогда он сказал: “О ‘Абдуллах ибн Кайс, произноси: ‹Нет силы и мощи ни у кого, кроме Аллаха /Ля хауля ва ля куввата илля би-Ллях/›, ибо, поистине, эти слова являются одним из сокровищ Рая”. Или он сказал: “Не указать ли мне тебе на такие слова, которые относятся к числу сокровищ Рая? (Слова) ‹Нет силы и мощи ни у кого, кроме Аллаха /Ля хауля ва ля куввата илля би-Ллях/›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6384</td></tr><tr><td>Arabic No</td><td>6384</td></tr><tr><td>Reference</td><td>Book 80 Hadith 79</td></tr></tbody></table></div>
 

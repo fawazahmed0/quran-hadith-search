@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(mother of the believers) After the death of Allah 's Apostle Fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] berkata telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah, Ummul Mu'minin radliallahu 'anha] mengabarkan kepadanya bahwa Fathimah Alaihimassalam, putri Rasulullah Shallallahu'alaiwasallam meminta kepada [Abu Bakr ash-Shiddiq] setelah wafatnya Rasulullah Shallallahu'alaiwasallam agar membagi untuknya bagian harta warisan yang ditinggalkan Rasulullah Shallallahu'alaiwasallam dari harta fa'i yang Allah karuniakan kepada Beliau. Abu Bakr katakan; " Rasulullah Shallallahu'alaiwasallam telah bersabda: "Kami tidak mewariskan dan apa yang kami tinggalkan semuanya sebagai shadaqah". Maka Fathimah binti Rasulullah Shallallahu'alaiwasallam marah dan tidak menegur Abu Bakr setelah itu hingga dia wafat. Fathimah hidup setelah kepergian Rasulullah Shallallahu'alaiwasallam selama enam bulan". 'Aisyah radliallahu 'anha berkata; "Fathimah pernah meminta Abu Bakr bagian dari harta yang ditinggalkan Rasulullah Shallallahu'alaiwasallam berupa tanah di Khaibar dan di Fadak (nama tempat, dekat Madinah) dan shadaqah Beliau di Madinah namun Abu Bakr mengabaikannya dan berkata; "Aku bukanlah orang yang meninggalkan apapun yang pernah dikerjakan Rasulullah Shallallahu'alaiwasallam melainkan aku akan selalu mengerjakannya. Sungguh aku takut menjadi sesat jika meninggalkan apa yang diperintahkan Beliau. Adapun shadaqah Beliau di Madinah telah diberikan oleh 'Umar kepada 'Ali dan 'Abbas sementara tanah di Khaibar dan Fadak telah dipertahankan oleh 'Umar dan mengatakannya bahwa keduanya adalah shadaqah Rasulullah Shallallahu'alaiwasallam yang hak-haknya akan diberikan kepada yang mengurus dan mendiaminya sedangkan urusannya berada dibawah keputusan pemimpin". Abu Bakar berkata; "Dan keadaannya tetap seperti itu hingga hari ini". Berkata Abu 'Abdullah Al Bukhariy; Kata ta'ruu diatas seperti dalam firman Allah QS Yunus ayat 54 yang berbunyi I'tarooka diambil sebagai pola "ifta'alta" berasal dari kata 'Aroutuhu yang ashobtuhu (aku mendapatkannya). Seperti juga pola kata ya'ruuhu dan I'tarooniii
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3092</td></tr><tr><td>Arabic No</td><td>3092</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урвы ибн аз-Зубайра о том, что мать правоверных ‘Аиша, да будет доволен ею Аллах, сообщила ему, что Фатима, мир ей, дочь Посланника Аллаха ﷺ обратилась к Абу Бакру ас-Сиддику после смерти Посланника Аллаха ﷺ, чтобы он выделил для неё долю её наследства из того, что оставил Посланник Аллаха ﷺ из той добычи, что Аллах даровал ему из фай‘а
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3092</td></tr><tr><td>Arabic No</td><td>3092</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

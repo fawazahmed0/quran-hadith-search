@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul 'Aziz:It was said to Anas "What did you hear the Prophet (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz] ia berkata; Ditanyakan kepada [Anas], "Apakah kamu pernah mendengar Nabi shallallahu 'alaihi wasallam menyebutkan tentang buah bawang?" Beliau mengatakan: "Barangsiapa memakannya, maka jangan sekali-kali ia mendekati tempat shalat kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>5451</td></tr><tr><td>Reference</td><td>Book 70 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что один человек спросил Анаса: «Что ты слышал от Пророка ﷺ относительно чеснока?» Он ответил: «Пусть тот, кто поел его, не приближается к нашей мечети!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>5451</td></tr><tr><td>Reference</td><td>Book 70 Hadith 80</td></tr></tbody></table></div>
 

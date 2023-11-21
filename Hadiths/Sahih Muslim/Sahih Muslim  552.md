@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:Verily the Messenger of Allah (ﷺ) said: The five (daily) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ath-Thahir] dan [Harun bin Sa'id al-Aili] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahab] dari [Abu Shakhr] bahwa [Umar bin Ishaq] mantan budak Zaidah, telah menceritakan kepadanya, dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat lima waktu dan shalat Jum'at ke Jum'at berikutnya, dan Ramadlan ke Ramadlan berikutnya adalah penghapus untuk dosa antara keduanya apabila dia menjauhi dosa besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>552</td></tr><tr><td>Arabic No</td><td>233.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Совершение) пяти (ежедневных обязательных) молитв, (участие в каждой следующей) пятничной молитве (после предыдущей), (соблюдение поста в каждый следующий) рамадан (после предыдущего) служат искуплением прегрешений, совершённых между ними, если человек не совершит больших грехов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>552</td></tr><tr><td>Arabic No</td><td>233.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman bin Surad:A man from the companions of the Prophet (ﷺ) said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] dia berkata; telah menceritakan kepadaku ['Adi bin Tsabit] dia berkata; saya mendengar [Sulaiman bin Shurd] -seorang dari sahabat nabi shallallahu 'alaihi wasallam- dia berkata; "Dua orang laki-laki saling mencaci maki di sisi Nabi shallallahu 'alaihi wasallam. Ternyata salah seorang di antara keduanya sangat marah hingga mukanya berubah menjadi merah. Lalu Rasulullah bersabda: 'Sungguh aku mengetahui satu kalimat yang seandainya diucapkan, maka marahnya akan hilang." Lalu orang yang mendengar ucapan beliau beranjak pergi dan mengabarkan kepadanya sabda Nabi shallallahu 'alaihi wasallam, katanya; "Berlindunglah kepada Allah dari Syetan." laki-laki yang marah tersebut berkata; 'Apakah kamu menganggap saya ada masalah, sudah gilakah saya, pergilah?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6048</td></tr><tr><td>Arabic No</td><td>6048</td></tr><tr><td>Reference</td><td>Book 78 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сулейман ибн Сурад сказал: «(Однажды) в присутствии Пророка ﷺ двое мужчин вступили в перебранку друг с другом, и один из них разгневался так сильно, что лицо его вздулось и изменилось. (Увидев это,) Пророк ﷺ сказал: “Поистине, я знаю такие слова, произнеся которые (гнев) этого (человека) обязательно прошёл бы”. Тогда к этому (гневающемуся) человеку подошёл другой человек и сообщил ему о том, что сказал Пророк ﷺ, сказав: “Прибегай к защите Аллаха от шайтана”. (Услышав это), этот человек сказал: “Ты (что,) считаешь меня больным?! Я что одержимый (безумец)?! Уходи!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6048</td></tr><tr><td>Arabic No</td><td>6048</td></tr><tr><td>Reference</td><td>Book 78 Hadith 78</td></tr></tbody></table></div>
 

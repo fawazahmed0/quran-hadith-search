@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:some of the people from among the Companions of the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Asma' Adl Dluba'i] Telah menceritakan kepada kami [Mahdi bin Maimun] Telah menceritakan kepada kami [Washil] maula Abu Uyainah, dari [Yahya bin Uqail] dari [Yahya bin Ya'mar] dari [Abul Aswad Ad Dili] dari [Abu Dzar] bahwa beberapa orang dari sahabat Nabi shallallahu 'alaihi wasallam bertanya kepada beliau, "Wahai Rosulullah, orang-orang kaya dapat memperoleh pahala yang lebih banyak. Mereka shalat seperti kami shalat, puasa seperti kami puasa dan bersedekah dengan sisa harta mereka." Maka beliau pun bersabda: "Bukankah Allah telah menjadikan berbagai macam cara kepada kalian untuk bersedekah? Setiap kalimat tasbih adalah sedekah, setiap kalimat takbir adalah sedekah, setiap kalimat tahmid adalah sedekah, setiap kalimat tahlil adalah sedekah, amar ma'ruf nahi munkar adalah sedekah, bahkan pada kemaluan seorang dari kalian pun terdapat sedekah." Mereka bertanya, "Wahai Rasulullah, jika salah seorang diantara kami menyalurkan nafsu syahwatnya, apakah akan mendapatkan pahala?" beliau menjawab: "Bagaimana sekiranya kalian meletakkannya pada sesuatu yang haram, bukankah kalian berdosa? Begitu pun sebaliknya, bila kalian meletakkannya pada tempat yang halal, maka kalian akan mendapatkan pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2329</td></tr><tr><td>Arabic No</td><td>1006</td></tr><tr><td>Reference</td><td>Book 12 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «(Однажды) люди из числа сподвижников Пророка ﷺ сказали Пророку ﷺ: “О Посланник Аллаха, тем, кто обладает большими богатствами, достанутся (все) награды, (ведь) молятся они так же, как и мы, и постятся так же, как и мы, но они ещё и дают милостыню /садака/ из излишков своего имущества!” (В ответ им Пророк ﷺ) сказал: “А разве не определил Аллах и вам того, из чего вы (могли бы) давать милостыню? Поистине, каждое произнесение слов “Пречист Аллах” /Субхана-Ллах/ есть милостыня /садака/, и каждое произнесение слов “Аллах велик” /Аллаху акбар/ есть милостыня, и каждое произнесение слов “Хвала Аллаху” /аль-хамду ли-Ллях/ есть милостыня, и каждое произнесение слов “Нет бога, достойного поклонения, кроме Аллаха” /Ля иляха илля-Ллах/ есть милостыня, и побуждение к (совершению того, что) одобряется (шариатом), есть милостыня, и удержание от порицаемого (шариатом) есть милостыня, и (даже совершение) любым из вас (полового сношения с женой) есть милостыня!” Они стали спрашивать: “О Посланник Аллаха, разве и за то, что кто-нибудь из нас удовлетворит своё желание, он получит награду?!” (В ответ им Пророк ﷺ) сказал: “Скажите мне, разве не совершит грех тот, кто (удовлетворит своё желание) запретным (образом)? Но так же (и с этим) если (человек удовлетворит своё желание) дозволенным (образом), ему достанется награда!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2329</td></tr><tr><td>Arabic No</td><td>1006</td></tr><tr><td>Reference</td><td>Book 12 Hadith 66</td></tr></tbody></table></div>
 

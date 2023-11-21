@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: The Prophet (ﷺ) said: Glorifying Allah involves s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Ash Shawwaf] berkata, telah menceritakan kepada kami [Abdullah bin Humran] berkata, telah mengabarkan kepada kami [Auf bin Abu Jamilah] dari [Ziyad bin Mikhraq] dari [Abu Kinanah] dari [Abu Musa Al Asy'ari] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Termasuk dari keagungan Allah adalah dimuliakannya seorang muslim yang telah beruban, para pembaca Al-Qur'an yang tidak bersikap belebihan di dalamnya (dalam membacanya memahaminya dengan mengikuti ayat-ayat mutsyabihat) dan tidak pula bersikap jauh darinya (dari membacanya, memahami maknanya dan mengamalkannya) dan penguasa yang adil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4843</td></tr><tr><td>Arabic No</td><td>4843</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, признаками возвеличивания Всевышнего Аллаха является проявление уважения по отношению к седому мусульманину; к человеку, знающему Коран наизусть, который не впадает в излишество относительно него и не забрасывает его; и к справедливому правителю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4843</td></tr><tr><td>Arabic No</td><td>4843</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
 

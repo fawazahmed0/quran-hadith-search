@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha said that she sent a message to the players (of this armed fight) saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ibrahim bin Dinar] dan [Uqbah bin Murqam Al Amiy] dan [Abdu bin Humaid] semuanya dari [Abu Ashim] -sementara lafazhnya dari Uqbah- ia berkata, Telah menceritakan kepada kami [Abu Ashim] dari [Ibnu Juraij] ia berkata, telah mengabarkan kepadaku [Atha'] telah mengabarkan kepadaku [Ubaid bin Umair] telah mengabarkan kepadaku [Aisyah] bahwa ia berkata berkenaan dengan orang sedang bermain-main, "Saya ingin melihat mereka." Maka Rasulullah shallallahu 'alaihi wasallam berdiri dan saya pun ikut berdiri di atas pintu sehingga saya melihat di antara kedua telinga dan pundak beliau, sementara mereka bermain-main di masjid. Atha' bertanya; Orang-orang Faris ataukah Habasyi? Dan Ibnu 'Atiq berkata kepadaku; Bahkan mereka adalah orang-orang Habasyi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2068</td></tr><tr><td>Arabic No</td><td>892.08</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Убайда ибн ‘Умайра, что ‘Аиша сказала про тех, кто играл: «Я хотела бы посмотреть на них». ‘Аиша сказала: «Тогда Посланник Аллаха ﷺ встал, а я встала в дверях (позади него) и смотрела между его ушами и плечом как они играли в мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2068</td></tr><tr><td>Arabic No</td><td>892.08</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
 

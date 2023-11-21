@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) invoked evil upon those (people) who k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] dia berkata, "Nabi shallallahu 'alaihi wasallam mendo'akan kebinasaan terhadap kaum yang telah membunuh para sahabat beliau di Bi'rul Ma'unah selama tiga puluh hari, beliau mendo'akan (kebinasaan) terhadap Ri'l, Lahyan dan 'Ushayyah yang durhaka kepada Allah dan Rasul-Nya shallallahu 'alaihi wasallam." Anas mengatakan, "Lalu Allah Ta'ala menurunkan ayat untuk memberitahukan kepada Nabi-Nya shallallahu 'alaihi wasallam mengenai orang-orang yang terbunuh di peristiwa Bi'rul Ma'unah, dan ayat tersebut sempat kami baca hingga akhirnya dimansukh, ayat itu adalah '(Sesungguhnya kami telah berjumpa dengan Rabb kami, dan Rabb kamipun ridla terhadap kami, dan kamipun ridla terhadap-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4095</td></tr><tr><td>Arabic No</td><td>4095</td></tr><tr><td>Reference</td><td>Book 64 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «В течении тридцати дней Пророк ﷺ призывал Аллаха против тех, кто убил его сподвижников, возле Биър Ма‘уна. Он призывал Аллаха против ри‘ль, ляхьян и ‘усаййа, которые ослушались Аллаха и Его Посланника ﷺ. Затем Всевышний Аллах ниспослал Своему Пророку ﷺ в отношении тех, кто был убит возле Биър Ма‘уна, аяты Корана, которые мы читали, но затем они были отменены: “Передайте нашему народу, что мы встретили нашего Господа, и Он доволен нами, а мы довольны Им”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4095</td></tr><tr><td>Arabic No</td><td>4095</td></tr><tr><td>Reference</td><td>Book 64 Hadith 139</td></tr></tbody></table></div>
 

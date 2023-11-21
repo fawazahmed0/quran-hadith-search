@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:It (i.e., the imagined smoke) was because, when the Quraish r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim] dari [Masruq] dia berkata; [Abdullah] berkata; sesungguhnya ayat ini adalah bagi orang-orang Quraisy tatkala mereka durhaka kepada Nabi shallallahu 'alaihi wasallam. lalu beliau mendoakan mereka agar tertimpa kelaparan seperti kaum Yusuf. Mereka tertimpa kemarau dan penderitaan hingga seseorang melihat ke langit, ia melihat seperti wujud kabut antara dirinya dan langit, hingga mereka memakan tulang karena musim kemarau itu. Maka Allah menurunkan ayat: "Maka tunggulah hari ketika langit membawa kabut yang nyata, yang meliputi manusia." (Ad Dukhaan: 10). Seseorang kemudian mendatangi nabi shallallahu 'alaihi wasallam dan berkata: Wahai Rasulullah, mintakan hujan pada Allah untuk Mudlar karena mereka telah binasa. Beliau bersabda kepada Mudlar: "Sesungguhnya kau gegabah." Maka Nabi shallallahu 'alaihi wasallam berdoa meminta hujan untuk mereka lalu Allah 'azza wajalla menurunkan hujan, lalu turunlah ayat: "Sesungguhnya (kalau) kami akan melenyapkan siksaan itu agak sedikit. Sesungguhnya kamu akan kembali (ingkar)." (Ad Dukhaan: 10-15). Dan saat mereka mendapatkan kemakmuran, mereka kembali lagi seperti semula. Lalu Allah 'azza wajalla menurunkan: (Ingatlah) hari (ketika) Kami menghantam mereka dengan hantaman yang keras. Sesungguhnya Kami adalah Pemberi balasan. (Ad Dukhaan: 16). Abdullah berkata: Maksudnya yaitu perang Badar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4821</td></tr><tr><td>Arabic No</td><td>4821</td></tr><tr><td>Reference</td><td>Book 65 Hadith 343</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах рассказывал: «Дело было в том, что когда курайшиты воспротивились Пророку ﷺ, он призвал на них засуху, подобную засухе (времён пророка) Юсуфа. Вследствие этой мольбы курайшитов охватила засуха и голод такой степени, что им пришлось есть кости. Их голод был настолько силён, что когда один из них смотрел на небеса, ему казалось, что они затянуты дымом. Тогда Всевышний Аллах ниспослал: “Подожди же того дня, когда небо придёт с ясным дымом, который окутает людей. Это будут мучительные страдания!” Тогда люди привели Посланника Аллаха ﷺ и сказали ему: “О Посланник Аллаха! Попроси у Аллаха дождя для племени мудар, ведь они (практически) погибли”. (Услышав это), Пророк ﷺ переспросил: “Для племени мудар? Как же ты дерзок”. Когда же он попросил для них дождя и дождь действительно пошёл, Всевышний ниспослал: “Мы избавим вас от страданий ненадолго, но (после этого) вы вернётесь к неверию”. Когда же их постигла благодать, они вернулись к своему первому положению. И тогда Всевышний Аллах ниспослал: “В тот день, когда Мы схватим вас величайшей хваткой, Мы будем мстить”, то есть в день (битвы) при Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4821</td></tr><tr><td>Arabic No</td><td>4821</td></tr><tr><td>Reference</td><td>Book 65 Hadith 343</td></tr></tbody></table></div>
 

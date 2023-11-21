@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:Allah's Messenger (ﷺ) said, "The example of a Bel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata; telah menceritakan kepada kami [Abu Awanah] dari [Qatadah] dari [Anas] dari [Abu Musa Al Asy'ari] ia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Perumpamaan seorang Mukmin yang suka membaca Al Qur'an seperti buah Utrujah, baunya harum dan rasanya enak. Perumpamaan seorang Mukmin yang tidak suka membaca Al Qur'an seperti buah kurma, tidak berbau namun rasanya manis. Perumpamaan seorang Munafik yang suka membaca Al Qur'an seperti buah raihanah, baunya harum tapi rasanya pahit. Dan Perumpamaan seorang Munafik yang tidak suka membaca Al Qur'an seperti buah hanzhalah, tidak berbau dan rasanya pahit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5427</td></tr><tr><td>Arabic No</td><td>5427</td></tr><tr><td>Reference</td><td>Book 70 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Со слов Абу Мусы, да будет доволен им Аллах, сообщается, что Посланник Аллаха ﷺ сказал: «Верующий, который читает Коран и поступает в соответствии с его установлениями, подобен сладкому лимону, обладающему приятным запахом и вкусом, а верующий, который не читает Коран, но поступает в соответствии с его установлениями, подобен финику, приятному на вкус, но не обладающему запахом. Лицемер, который читает Коран, подобен рейхану, обладающему приятным запахом, но горькому на вкус, а лицемер, который не читает Коран, подобен растению колоквинта, отвратительному на вкус и пахнущему горечью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5427</td></tr><tr><td>Arabic No</td><td>5427</td></tr><tr><td>Reference</td><td>Book 70 Hadith 55</td></tr></tbody></table></div>
 

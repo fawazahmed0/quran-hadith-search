@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:when the Prophet (May peace be upon him) turned towards the Ka
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] dan [Utsman bin Abu Syaibah] secara makna, keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Ketika Nabi shallallahu 'alaihi wasallam (Shalat) menghadap ke arah Ka'bah orang-orang bertanya, "Wahai Rasulullah, bagaimana dengan orang-orang yang telah meninggal, sementara mereka (dahulu) shalat menghadap ke arah Baitul Maqdis?" Maka Allah Azza Wa Jalla kemudian menurunkan ayat: '(dan Allah tidak akan menyia-nyiakan imanmu) ' -Qs. Al Baqarah:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 42 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умамы, что Посланник Аллаха ﷺ сказал: «Кто любил ради Аллаха, ненавидел ради Аллаха, давал ради Аллаха и воспрещал ради Аллаха, тот довёл свою веру до совершенства»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 42 Hadith 85</td></tr></tbody></table></div>
 

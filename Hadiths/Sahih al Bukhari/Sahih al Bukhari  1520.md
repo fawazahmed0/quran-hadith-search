@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the mother of the faithful believers) I said, "O Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Al Mubarak] telah menceritakan kepada kami [Khalid] telah mengabarkan kepada kami [Habib bin Abu 'Amrah] dari [Aisyah binti Tholhah] dari ['Aisyah Ummul Mukminin radliallahu 'anha] ia berkata: "Wahai Rasulullah, kami memandang bahwa jihad adalah sebaik-baiknya amal, maka apakah kami tidak boleh berjihad?". Beliau bersabda: "Tidak, namun sebaik-baik jihad bagi kalian (para wanita) adalah haji mabrur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов матери правоверных ‘Аиши, да будет доволен ею Аллах, что (однажды) она сказала: «О Посланник Аллаха, мы считаем наилучшим делом джихад, так не принять ли нам в нём участие?» (Пророк ﷺ) сказал: «Нет! Наилучшим джихадом для вас является безупречный /мабрур/ хадж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
 

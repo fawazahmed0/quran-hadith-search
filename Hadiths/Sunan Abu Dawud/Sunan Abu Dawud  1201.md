@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yahya b. Yazid al-Hannani:I asked Anas b. Malik about the shortening of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Yahya bin Yazid Al Huna'i] dia berkata; saya bertanya kepada Anas bin Malik tentang mengqashr shalat, maka [Anas] menjawab; "Apabila Rasulullah shallallahu 'alaihi wasallam bepergian sejauh perjalanan tiga mil atau tiga farsakh -Syu'bah ragu- maka beliau shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (691)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1201</td></tr><tr><td>Arabic No</td><td>1201</td></tr><tr><td>Reference</td><td>Book 4 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Яхьи ибн Язида аль-Хунаи: «Я спросил Анаса ибн Малика, да будет доволен им Аллах, о сокращении молитвы. И Анас сказал: “Когда Посланник Аллаха ﷺ отправлялся в путь, то проехав три мили или три фарсаха, он уже совершал два рак‘ата (вместо четырёх)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (691)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1201</td></tr><tr><td>Arabic No</td><td>1201</td></tr><tr><td>Reference</td><td>Book 4 Hadith 4</td></tr></tbody></table></div>
 

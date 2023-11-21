@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I said, "O Allah's Messenger (ﷺ)! Who will be the luckies
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6570</td></tr><tr><td>Arabic No</td><td>6570</td></tr><tr><td>Reference</td><td>Book 81 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) я спросил: “О Посланник Аллаха, кто (из людей) обретёт наивысшее счастье благодаря твоему заступничеству в День воскресения?” (В ответ) Посланник Аллаха ﷺ сказал (мне): “О Абу Хурайра, я так и думал, что никто не спросит об этом раньше тебя, поскольку я видел, как ты стремишься слушать (мои) слова! В День воскрешения счастливейшим из людей благодаря моему заступничеству станет тот, кто скажет: “Нет божества, достойного поклонения, кроме Аллаха”, будучи искренним в душе своей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6570</td></tr><tr><td>Arabic No</td><td>6570</td></tr><tr><td>Reference</td><td>Book 81 Hadith 158</td></tr></tbody></table></div>
 

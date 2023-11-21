@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik Al-Ansari:Allah's Messenger (ﷺ) rode a horse and fell 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Anas bin Malik Al Anshari], bahwa pada suatu hari Rasulullah shallallahu 'alaihi wasallam mengendarai kudanya dan terjatuh terhempas pada lambung kanannya." Anas? radliallahu 'anhu berkata, "Maka pada suatu hari Beliau shalat mengimami kami di antara shalat-shalatnya dengan duduk. Maka kamipun shalat di belakang Beliau dengan duduk. Beliau kemudian bersabda: "Sesungguhnya imam dijadikan untuk diikuti. Jika ia shalat dengan berdiri maka shalatlah kalian dengan berdiri, jika ia rukuk maka rukuklah kalian, jika ia mengangkat kepala maka angkatlah kepala kalian, jika ia sujud maka sujudlah kalian, jika ia mengucapkan SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar orang yang memuji-Nya) ', maka ucapkanlah oleh kalian: 'RABBANAA WA LAKAL HAMDU (Ya Rabb kami, milik Engkaulah segala pujian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 10 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Абуль-Яман, который сказал:\n— Сообщил нам Шу‘айб от аз-Зухри, который сказал: «Сообщил мне Анас ибн Малик аль-Ансари, да будет доволен им Аллах, о том, что (однажды) Посланник Аллаха ﷺ ехал верхом на коне (и упав с него) оцарапал свой правый бок».\nАнас, да будет доволен им Аллах, сказал:\n— И один из намазов, который он совершал с нами, он совершил сидя, и мы тоже совершали намаз за ним сидя, а после того, как он произнёс слова приветствия (в конце намаза,) он сказал: «Поистине, имам назначается для того, чтобы (во время намаза) другие следовали его примеру. Если он совершает намаз стоя, то вы (тоже) совершайте стоя. Если он совершит поясной поклон, то поклонитесь и вы, если он выпрямляется (после поясного поклона,) то вы тоже выпрямляйтесь, если он совершит земной поклон, то совершайте земной поклон и вы, а когда он скажет: “Да услышит Аллах того, кто воздал Ему хвалу” /Сами‘а-Ллаху ли-ман хамидаху/, говорите: “Господь наш, и Тебе хвала” /Раббана ва лякаль-хамд/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 10 Hadith 126</td></tr></tbody></table></div>
 

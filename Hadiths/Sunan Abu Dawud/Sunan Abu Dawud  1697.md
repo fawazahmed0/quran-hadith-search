@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah bin 'Amr said :(Sufyan said : The version of the narrator Sulaiman doe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibnu Katsir], telah mengabarkan kepada Kami [Sufyan] dari [Al A'masy] dan [Al Hasan bin 'Amr], serta [Fithr] dari [Mujahid] dari [Abdullah bin 'Amr], Sufyan berkata; dan Sulaiman tidak menisbatkan perkataan tersebut kepada Nabi shallallahu 'alaihi wasallam sedangkan Fithir serta Al Hasan menisbatkannya kepada beliau. Ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Orang yang menyambung bukanlah orang yang membalas kebaikan orang akan tetapi ia adalah orang yang apabila hubungan kekerabatannya diputuskan maka ia menyambungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5991)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 9 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Не тот поддерживает родственные связи должным образом, кто делает это в ответ. По-настоящему поддерживает их тот, кто поддерживает связь с теми, кто отказывается поддерживать связь с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5991)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 9 Hadith 142</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Apostle of Allah (ﷺ) said: When anyone amongst you wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>278.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Когда кто-то из вас просыпается, пусть нальёт на руку (воду) три раза, прежде чем погрузит её в сосуд, ибо, поистине, не знает он, где ночевала его рука»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>278.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 112</td></tr></tbody></table></div>
 

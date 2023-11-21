@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid bin 'Asim:When Allah gave to His Apostle the war boo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] Telah menceritakan kepada kami [Wuhaib] Telah menceritakan kepada kami [Amru bin Yahya] dari [Abbad bin Tamim] dari [Abdullah bin Zaid bin Ashim] katanya, ketika Allah memberi Rasul-Nya shallallahu 'alaihi wasallam rampasan (fai) pada perang Hunain, beliau membagi rampasan itu untuk orang-orang yang hatinya masih perlu ditarbiyah (muallaf), dan beliau sama sekali tidak memberi bagian sahabat anshar. Rupanya sahabat anshar ini emosi karena tidak memperoleh bagian sebagaimana yang lain memperolehnya. Maka kemudian Rasulullah menyampaikan pidato: "Hadirin kaum Anshar, bukankah aku dahulu menjumpai kalian dalam keadaan sesat lantas Allah memberi kalian petunjuk dengan perantaraanku? Dahulu kalian dalam keadaan terpecah-belah lantas Allah mendamaikan kalian dengan perantaraanku? Dan kalian dalam keadaan miskin lantas Allah mengayakan kalian dengan perantaraanku? Setiap kali Nabi menyampaikan sesuatu, mereka jawab; "Allah dan rasul-Nya lebih terpercaya." Beliau meneruskan: "Lantas alasan apa yang menghalangi kalian menerima Rasulullah shallallahu 'alaihi wasallam?" Kata Zaid, setiap kali Rasulullah mengatakan sesuatu mereka jawab; "Allah dan rasul-Nya lebih terpercaya!" Kata Nabi: "Silahkan kalian mengatakan; Anda datang kepada kami dengan demikian dan demikian." Tidakkah kalian puas manusia membawa kambing dan unta, sedang kalian membawa Nabi shallallahu 'alaihi wasallam kalian shallallahu 'alaihi wasallam ke persinggahan kalian? kalaulah bukan karena hijrah, aku pasti menjadi orang Anshar, kalaulah manusia mengarungi sebuah lembah dan lereng, niscaya aku mengarungi lembah dan lereng Anshar. Anshar adalah pakaian luar -maksudnya primer dan utama- sedang manusia lain hanyalah pakaian dalam -maksudnya sekunder, kurang utama- sepeninggalku, akan kalian temui sikap-sikap egoistis dan individualistis, maka bersabarlah kalian hingga kalian menemuiku di telaga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 64 Hadith 359</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Зейд ибн ‘Асым сказал: «Когда Аллах даровал Своему Посланнику добычу в день битвы при Хунайне, он разделил её между теми, чьи сердца он хотел склонить к исламу, ничего не дав ансарам. И как будто им стало не по себе из-за того, что им не досталось того, что досталось тем людям. И Пророк ﷺ обратился к ним с речью, сказав: “О ансары! Разве не были вы заблудшими, когда я пришёл к вам, а потом Аллах вывел вас на путь истинный посредством меня? И разве не были вы врагами друг другу, а потом Аллах объединил ваши сердца посредством меня? И разве не были вы бедны, а потом Аллах обогатил вас посредством меня?!” И всякий раз, когда он говорил что-то, они говорили: “Все милости принадлежат Аллаху и Его Посланнику!” Он спросил: “Что же мешает вам ответить Посланнику Аллаха?” Они сказали: “Все милости принадлежат Аллаху и Его Посланнику”. Пророк ﷺ сказал: “Если бы вы пожелали, то сказали бы: ‹Ты пришёл к нам в таком-то и таком-то положении›! Так неужели вы недовольны тем, что эти люди вернутся домой с верблюдами и овцами, а вы вернётесь с Пророком? Если бы не переселение, я был бы одним из ансаров. И если бы люди пошли одним ущельем или одной дорогой, то я бы обязательно пошёл ущельем и дорогой ансаров! Ансары — это “внутренняя одежда (прилегающая к телу)”, а все остальные люди — “внешняя одежда (как, например, накидка)”. Поистине, после моей (смерти) вы столкнётесь с тем, что предпочтение станут отдавать другим. Терпите же, пока не встретитесь со мной у водоёма!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 64 Hadith 359</td></tr></tbody></table></div>
 

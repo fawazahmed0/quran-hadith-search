@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "None will enter Paradise but will 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6569</td></tr><tr><td>Arabic No</td><td>6569</td></tr><tr><td>Reference</td><td>Book 81 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не войдёт в Рай ни один (человек), пока не покажут ему его место в огне, (которое он занял бы,) если бы совершал дурное, чтобы он благодарил ещё больше, и не войдёт в огонь ни один (человек), пока не покажут ему его место в Раю, (которое он занял бы,) если бы совершал благое, чтобы тоска его (была ещё сильнее)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6569</td></tr><tr><td>Arabic No</td><td>6569</td></tr><tr><td>Reference</td><td>Book 81 Hadith 157</td></tr></tbody></table></div>
 

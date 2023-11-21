@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) once passed by two graves and said, "They 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Mujahid] dari [Thowus] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa: Nabi Shallallahu'alaihiwasallam berjalan melewati dua kuburan lalu Beliau bersabda: "Keduanya sungguh sedang disiksa, dan tidaklah keduanya disiksa disebabkan karena berbuat dosa besar. Kemudian Beliau bersabda: "Demikianlah. Adapun yang satu disiksa karena selalu mengadu domba sedang yang satunya lagi tidak bersuci setelah kencing." Ibnu 'Abbas radliallahu 'anhu: "Kemudian Beliau mengambil sebatang dahan kurma lalu membelahnya menjadi dua bagian kemudian menancapkannya pada masing-masing kuburan tersebut seraya berkata,: "Semoga diringankan (siksanya) selama batang pohon ini masih basah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1378</td></tr><tr><td>Arabic No</td><td>1378</td></tr><tr><td>Reference</td><td>Book 23 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды Пророк ﷺ проходил мимо двух могил и сказал: «Поистине, они подвергаются мучениям, и их мучают не за что-то большое, хотя эти поступки и являются большим. Что касается первого, то он разносил сплетни, а что касается второго, то он не укрывался от собственной мочи». Затем он взял свежую, голую пальмовую ветвь, разломал её пополам после чего воткнул одну часть на одну могилу, а вторую на другую. Затем он сказал: «Возможно, это облегчит им наказание, пока эти ветки не высохнут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1378</td></tr><tr><td>Arabic No</td><td>1378</td></tr><tr><td>Reference</td><td>Book 23 Hadith 130</td></tr></tbody></table></div>
 

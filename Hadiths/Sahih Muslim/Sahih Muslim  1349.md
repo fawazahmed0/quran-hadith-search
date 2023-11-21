@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b b. 'Ujra reported Allah's Messenger (ﷺ) as saying:There are certain ejacu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Al Hasan bin Isa] telah mengabarkan kepada kami [Ibnul Al Mubarak] telah mengabarkan kepada kami [Malik bin Mighwal] katanya; Aku mendengar [Al Hakam bin 'Utaibah] menceritakan dari [Abdurrahman bin Abu Laila] dari [Ka'b bin 'Ujrah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Beberapa amalan penyerta, siapa saja yang mengucapkan dan mengamalkannya, maka dirinya tidak akan merugi, yaitu mengucapkan tasbih tiga puluh tiga kali, tahmid tiga puluh tiga kali, dan takbir tiga puluh empat kali setiap usai shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1349</td></tr><tr><td>Arabic No</td><td>596.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ка‘ба ибн ‘Уджры, что Посланник Аллаха ﷺ сказал: «Не разочаруется (такой человек, который) в конце каждой обязательной молитвы будет произносить (определённые) завершающие слова, по тридцать три раза говоря “Слава Аллаху” и “Хвала Аллаху”, и по тридцать четыре “Аллах велик”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1349</td></tr><tr><td>Arabic No</td><td>596.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 186</td></tr></tbody></table></div>
 

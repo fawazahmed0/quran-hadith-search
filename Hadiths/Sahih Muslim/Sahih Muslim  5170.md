@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Apostle (ﷺ) said to the group of Abd al-Qais
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nahsr bin Ali Al Jahdlami] telah mengabarkan kepada kami [Nuh bin Qais] telah menceritakan kepada kami [Ibnu 'Aun] dari [Muhammad] dari [Abu Hurairah], bahwa Nabi shallallahu 'alaihi wasallam bersabda kepada delegasi Abdul Qais: "Saya telah melarang kalian dari Ad Dubba, Al Hantam, An Naqir, Al Muqayyar, Al Hantam dan guci tempat penyimpanan air yang memabukkan, akan tetapi minumlah dari wadah air minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5170</td></tr><tr><td>Arabic No</td><td>1993.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5170</td></tr><tr><td>Arabic No</td><td>1993.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 44</td></tr></tbody></table></div>
 

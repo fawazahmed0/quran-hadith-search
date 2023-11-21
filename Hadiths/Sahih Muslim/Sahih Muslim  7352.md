@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id reported that Ibn Sayyad asked Allah's Messenger (ﷺ) about the earth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7352</td></tr><tr><td>Arabic No</td><td>2928.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что Ибн Сайяд спросил Пророка ﷺ о том, какова земля в Раю, и (Пророк ﷺ) сказал: «Она бела, как чистая мука, и (благоуханна), как чистый мускус»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7352</td></tr><tr><td>Arabic No</td><td>2928.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 116</td></tr></tbody></table></div>
 

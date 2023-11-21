@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Awn said “I wrote to Nafi’ asking him about summoning the polytheists
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Isma'il bin Ibrahim], telah mengabarkan kepada kami [Ibnu 'Aun], ia berkata; aku menulis surat kepada [Nafi'], aku bertanya kepadanya mengenai doa orang-orang musyrik ketika berperang, kemudian ia menulis surat kepadaku bahwa hal tersebut terjadi pada awal Islam. Nabi shallallahu 'alaihi wasallam telah menyerang Bani Al Mushthaliq sementara mereka sedang lalai, dan hewan-hewan ternak mereka sedang diberi minum. Kemudian beliau membunuh wanita yang berperang diantara mereka dan menawan tawanan mereka, dan pada saat itu beliau menawan Juwairiyah binti Al Harits. Telah menceritakan kepadaku dengan hal tersebut Abdullah, dan pada saat itu ia berada diantara pasukan tersebut. Abu Daud berkata; hadits ini adalah hadits yang sangat baik, diriwayatkan oleh Ibnu 'Aun, dari [Nafi'] dan tidak ada seorangpun yang bersamanya dalam hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2541) Sahih Muslim (1730)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2633</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 15 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2541) Sahih Muslim (1730)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2633</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 15 Hadith 157</td></tr></tbody></table></div>
 

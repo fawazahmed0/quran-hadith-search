@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We used to say in the prayer: 'AsSalam be on Allah, As-Salam 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Abdullah] radliallahu 'anhu dia berkata; "Kami biasa membaca (shalawat); 'Assalaamu 'alallahi, assalaamu 'alaa fulaan (Semoga keselamatan terlimpahkan kepada Allah, semoga keselamatan terlimpah kepada fulan)." Maka suatu hari Nabi shallallahu 'alaihi wasallam bersabda kepada kami: 'Sesungguhnya Allah adalah Salam, apabila salah seorang dari kalian duduk dalam shalat (tahiyyat), hendaknya mengucapkan; 'AT-TAHIYYATUT LILLAHI -hingga sabdanya- SHAALIHIIN, (penghormatan, rahmat dan kebaikan hanya milik Allah -hingga sabdanya- hamba-hamba Allah yang shalih). Sesungguhnya jika ia mengucapkannya, maka hal itu sudah mencakup seluruh hamba-hamba yang shalih baik di langit maupun di bumi, ' (lalu melanjutkan); 'ASYHADU ALLAAILAAHA ILLALLAH WA ASYHADU AN NAMUHAMMADAN 'ABDUHU WA RASUULUH (Aku bersaksi bahwa tiada Dzat yang berhak disembah selain Allah, dan Muhammad adalah hamba dan utusan-Nya).' Setelah itu ia boleh memilih pujian yang ia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6328</td></tr><tr><td>Arabic No</td><td>6328</td></tr><tr><td>Reference</td><td>Book 80 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас’уд), да будет доволен им Аллах, сказал: «Совершая молитвы мы обычно говорили (сидя): “Мир /ас-салям/ Аллаху, и мир такому-то”, но однажды Посланник Аллаха ﷺ сказал: “Поистине, Аллах это и есть Мир, а поэтому, когда кто-нибудь из вас сядет во время молитвы (для чтения ташаххуда), пусть говорит: “Ат-тахиййату ли-Лляхи, ва-с-салаввату ва-т-таййибату, ас-саляму ‘алейка, аййуха-н-набиййю, ва рахмату-Ллахи ва баракятуху, ас-саляму ‘алейна ва ‘аля ‘ибади-Лляхи-с-салихин /Приветствия, молитвы и (всё) благое Аллаху, мир тебе, о пророк, милость Аллаха и благословения Его, мир нам и всем праведным рабам Аллаха/”, и, поистине, если вы произнесёте (эти слова), они коснутся каждого праведного раба Аллаха на небесах и на земле. (И также говорите): “Ашхаду ан ля иляха илля-Ллаху ва ашхаду анна Мухаммадан ‘абдуху ва расулюху /Свидетельствую, что нет бога достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад − Его раб и Его посланник/”, а затем пусть выберет ту мольбу, которая ему больше нравится, (и обратится с ней к Аллаху)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6328</td></tr><tr><td>Arabic No</td><td>6328</td></tr><tr><td>Reference</td><td>Book 80 Hadith 25</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:That he heard the Prophet (ﷺ) saying, "It is not permissib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Sufyan] dari ['Amru] dari [Abu Ma'bad] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah sekali-kali seorang laki-laki berkholwat (berduaan) dengan seorang wanita dan janganlah sekali-kali seorang wanita bepergian kecuali bersama mahramnya". Lalu ada seorang laki-laki yang bangkit seraya berkata: "Wahai Rasulullah, aku telah mendaftarkan diriku untuk mengikutu suatu peperangan sedangkan istriku pergi menunaikan hajji". Maka Beliau bersabda: "Tunaikanlah hajji bersama istrimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3006</td></tr><tr><td>Arabic No</td><td>3006</td></tr><tr><td>Reference</td><td>Book 56 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что он слышал, как (однажды) Пророк ﷺ сказал: «Ни в коем случае не следует мужчине оставаться наедине с (посторонней) женщиной и ни в коем случае не следует женщине пускаться в путь без сопровождения близкого родственника!» (Услышав эти слова,) один человек поднялся (со своего места) и сказал: «О Посланник Аллаха, я зачислен (в войско для участия) в таком-то походе, а моя жена (собралась) отправиться в хадж». (На это Пророк ﷺ) сказал: «Отправляйся в хадж вместе со своей женой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3006</td></tr><tr><td>Arabic No</td><td>3006</td></tr><tr><td>Reference</td><td>Book 56 Hadith 215</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: The Prophet (ﷺ) said: There must be no shouting or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Khalaf], telah menceritakan kepada kami [Abdul Wahhab bin Abdul Majid], telah menceritakan kepada kami ['Anbasah], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal], dari [Humaid Ath Thawil], seluruhnya dari [Al Hasan] dari [Imran bin Hushain] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak ada jalab (seseorang meminta orang lain mengikuti kudanya untuk menghardiknya supaya berlari cepat), janab (mengiringkan kuda lain di samping kuda yang digunakan untuk lomba kemudian apabila telah lelah maka ia berpindah kepada kuda yang lain)." Yahya menambahkan dalam haditsnya; dalam pacuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2581</td></tr><tr><td>Arabic No</td><td>2581</td></tr><tr><td>Reference</td><td>Book 15 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2581</td></tr><tr><td>Arabic No</td><td>2581</td></tr><tr><td>Reference</td><td>Book 15 Hadith 105</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: while she was on a journey along with the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Al Anthoki Mahbub bin Musa], telah mengabarkan kepada kami [Al Fazari], dari [Hisyam bin 'Urwah], dari [ayahnya], dan dari [Abu Salamah], dari [Aisyah], radliallahu 'anha, bahwa ia pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, ia berkata; kemudian aku berlomba dengan beliau, lalu aku mendahului beliau dengan berjalan kaki. Kemudian setelah gemuk aku berlomba dengan beliau kemudian beliau mendahuluiku. Beliau berkata: "Ini menggantikan kekalahan pada perlombaan terdahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2578</td></tr><tr><td>Arabic No</td><td>2578</td></tr><tr><td>Reference</td><td>Book 15 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2578</td></tr><tr><td>Arabic No</td><td>2578</td></tr><tr><td>Reference</td><td>Book 15 Hadith 102</td></tr></tbody></table></div>
 

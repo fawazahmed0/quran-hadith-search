@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Sa'd al-Ansari: Abdullah asked the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Muhammad bin Bakkar] telah menceritakan kepada kami [Marwan bin Muhammad] telah menceritakan kepada kami [Al Haitsam bin Humaid] telah menceritakan kepada kami [Al-'Ala' bin Al Harits] dari [Haram bin Hakim] dari [Pamannya] bahwasanya dia pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang apa saja yang halal dilakukan olehku terhadap istriku yang sedang haidh? Beliau menjawab: "Boleh apa saja yang di atas kain (selain jimak) ", dan dia (perawi) juga menyebutkan tentang perihal makan dengan wanita yang sedang haidl, dan dia sebutkan haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>212</td></tr><tr><td>Arabic No</td><td>212</td></tr><tr><td>Reference</td><td>Book 1 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Харама ибн Хакима о том, что его дядя, (‘Абдуллах ибн Са‘д аль-Ансари) спросил Посланника Аллаха ﷺ: «Насколько мне дозволена моя жена, когда у нее менструации?» Он ответил: «Тебе дозволено все то, что выше изара». И также он упомянул о совместном приеме пищи с женщиной в период менструации, и далее он передал этот хадис полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>212</td></tr><tr><td>Arabic No</td><td>212</td></tr><tr><td>Reference</td><td>Book 1 Hadith 212</td></tr></tbody></table></div>
 

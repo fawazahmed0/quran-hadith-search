@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A man from the Companions of the Prophet: Ubaydullah ibn Salman reporte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Nafi'], telah menceritakan kepada kami [Mu'awiyah bin Sallam] dari [Zaid bin Sallam] bahwa ia mendengar [Abu Sallam] berkata; telah menceritakan kepadaku ['Ubaidullah bin Salman] bahwa [seorang sahabat] Nabi shallallahu 'alaihi wasallam telah menceritakan kepadanya, ia berkata; tatkala kami menaklukkan Khaibar mereka mengeluarkan rampasan perang dari barang dan tawanan perang. Kemudian orang-orang menjual rampasan perang mereka. Lalu terdapat seorang laki-laki yang datang ketika Rasulullah shallallahu 'alaihi wasallam telah melakukan shalat dan berkata; wahai Rasulullah, sungguh aku telah mendapatkan keuntungan yang tidak ada seorangpun penghuni bukit ini yang mendapatkan keuntungan seperti itu hari ini. Beliau mengatakan; keuntungan apa yang telah engkau dapatkan? Ia berkata; aku terus berjual beli hingga mendapatkan keuntungan tiga ratus uqiyah. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku akan memberitahukan kepadamu mengenai orang mendapatkan keuntungan yang terbaik." Ia berkata; apakah itu wahai Rasulullah? Beliau berkata: "Shalat dua raka'at setelah melakukan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2785</td></tr><tr><td>Arabic No</td><td>2785</td></tr><tr><td>Reference</td><td>Book 15 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2785</td></tr><tr><td>Arabic No</td><td>2785</td></tr><tr><td>Reference</td><td>Book 15 Hadith 309</td></tr></tbody></table></div>
 

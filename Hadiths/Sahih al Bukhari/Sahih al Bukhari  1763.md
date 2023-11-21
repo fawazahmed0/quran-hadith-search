@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul-Aziz bin Rufai:I asked Anas bin Malik, "Tell me something you ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ishaq bin Yusuf] telah menceritakan kepada kami [Sufyan Ats-Tsauriy] dari ['Abdul 'Aziz bin Rufai'] berkata; Aku bertanya kepada [Anas bin Malik radliallahu 'anhu]: "Kabarkan kepadaku sesuatu yang kamu ingat dari Nabi shallallahu 'alaihi wasallam, dimana Beliau melaksanakan shalat Zhuhur pada hari Tarwiyah?" Dia menjawab: " Di Mina". Aku bertanya lagi, dimana Beliau melaksanakan shalat 'Ashar pada hari Nafar?" Dia menjawab: " Di Al Abthoh (Al Bathha'). Kerjakanlah (manasik) sebagaimana para pemimpin kamu telah mengerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1763</td></tr><tr><td>Arabic No</td><td>1763</td></tr><tr><td>Reference</td><td>Book 25 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуль‘азиз ибн Руфаййи‘ сказал: «Я спросил Анаса ибн Малика: “Сообщи мне что-то из того, что ты понял от Посланника Аллаха ﷺ: где он совершал полуденную молитву /зухр/ в восьмой день месяца зуль-хиджжа /йаум ат-тарвийа/?” Он ответил: “В Мине”. Я спросил: “А где он совершал послеполуденную молитву /‘аср/ в день возвращения?” Он ответил: “В Абтахе”, — и добавил: “Поступай так же, как поступают твои предводители”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1763</td></tr><tr><td>Arabic No</td><td>1763</td></tr><tr><td>Reference</td><td>Book 25 Hadith 239</td></tr></tbody></table></div>
 

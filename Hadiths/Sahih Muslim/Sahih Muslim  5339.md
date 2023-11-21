@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd b. Abu Waqqas reported Allah's Messenger (ﷺ) as saying:He who ate
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], Telah menceritakan kepada kami [Abu Usamah] dari [Hasyim bin Hasyim] dia berkata; Aku mendengar ' [Amir bin Sa'd bin Abu Waqqash] berkata; 'AKu mendengar [Sa'd] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang makan tujuh butir kurma 'Ajuwa pada pagi hari, maka pada hari itu dia tidak akan celaka oleh racun maupun sihir. Dan telah menceritakannya pula kepada kami [Ibnu Abu 'Umar] telah menceritakan kepada kami [Marwan Bin Mu'awiyah Al Fazari] Dan telah menceritakannya pula kepada kami [Ishaq bin Ibrahim], telah mengabarkan kepada kami [Abu Badr Syuja' bin Al Walid], keduanya dari [Hasyim bin Hasyim] dengan jalur ini, dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa, keduanya tidak mengatakan 'Aku mendengar Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5339</td></tr><tr><td>Arabic No</td><td>2047.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5339</td></tr><tr><td>Arabic No</td><td>2047.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 213</td></tr></tbody></table></div>
 

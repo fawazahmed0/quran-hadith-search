@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qays ibn Asim: I came to the Prophet (ﷺ) with the intention of embrac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir Al 'Abdi] telah mengabarkan kepada kami [Sufyan] telah menceritakan kepada kami [Al Aghar] dari [Khalifah bin Hushain] dari [kakeknya, Qais bin 'Ashim] dia berkata; Saya pernah menemui Nabi shallallahu 'alaihi wasallam untuk masuk Islam, maka beliau memerintahkanku untuk mandi dengan air dan daun bidara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>355</td></tr><tr><td>Reference</td><td>Book 1 Hadith 355</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Халифы ибн Хусайна о том, что его дед Къайс ибн ‘Асым сказал: «Я явился к Пророку ﷺ с намерением принять Ислам и он велел мне искупаться водой (смешанной) с сидром»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>355</td></tr><tr><td>Reference</td><td>Book 1 Hadith 355</td></tr></tbody></table></div>
 

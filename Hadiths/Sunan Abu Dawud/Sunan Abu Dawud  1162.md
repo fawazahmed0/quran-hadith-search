@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abbad b. Tamim al Mazini said on the authority of his uncle (Abd Allah b. Zaid b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] dan [Sulaiman bin Daud] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Ibnu Abu Dzi'b] dan [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku ['Abbad bin Tamim Al Mazini] bahwa dia mendengar [pamannya] -dia termasuk dari salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam- dia berkata; "Pada suatu hari, Rasulullah shallallahu 'alaihi wasallam keluar untuk memohon hujan, lalu beliau membalikkan punggungnya dari orang-orang, beliau berdo'a kepada Allah 'azza wajalla." Sulaiman bin Daud mengatakan; "Dengan menghadap ke arah Kiblat, kemudian beliau merubah posisi selendangnya, lalu shalat dua raka'at." Ibnu Abu Dzi'b berkata; "…… dalam dua raka'at tersebut, beliau membaca (surat Al Qur'an)." Ibnu Sarh menambahkan; "Maksudnya dengan jelas." Telah menceritakan kepada kami [Muhammad bin 'Auf] dia berkata; "Aku membaca di kitabnya ['Amru bin Al Harits yaitu Al Himshi] dari [Abdullah bin Salim] dari [Az Zubaidi] dari [Muhammad bin Muslim] seperti hadits ini berserta sanadnya, namun dia tidak menyebutkan 'Shalat', katanya; "Kemudian beliau merubah posisi selendangnya, hingga ujung selendang kanannya di sebelah pundak kiri, dan ujung selendang di sebelah kiri menjadi di sebelah kanan, kemudian beliau berdo'a kepada Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1023) Sahih Muslim (894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1162</td></tr><tr><td>Arabic No</td><td>1162</td></tr><tr><td>Reference</td><td>Book 3 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аббад ибн Тамим аль-Мазини передаёт со слов своего дяди, который был сподвижником Посланника Аллаха ﷺ что однажды Посланник Аллаха ﷺ вышел, чтобы молить о ниспослании дождя, и при этом он повернулся спиной к людям и стал обращаться к Всемогущему и Великому Аллаху с мольбой. (Передатчик) Сулейман ибн Дауд сказал: «Обратившись в сторону киблы, Посланник Аллаха ﷺ перевернув перед этим свой плащ обратной стороной, а потом совершил молитву в два рак‘ата». В версии Ибн Абу Зиба говорится: «…и в них он читал аяты». В версии Ибн ас-Сарха: «То есть вслух»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1023) Sahih Muslim (894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1162</td></tr><tr><td>Arabic No</td><td>1162</td></tr><tr><td>Reference</td><td>Book 3 Hadith 2</td></tr></tbody></table></div>
 

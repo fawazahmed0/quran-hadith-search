@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:I heard the Prophet (ﷺ) saying, "Our Lord Allah will lay ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Al Laits] dari [Khalid bin Yazid] dari [Sa'id bin Abu Hilal] dari [Zaid bin Aslam] dari [Atha' bin Yasar] dari [Abu Sa'id radliallahu 'anhu] ia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Rabb kita menampakkan betisnya, maka sujudlah setiap orang mukmin dan mukminah, sehingga yang tersisa hanyalah orang-orang yang ketika di dunia ia sujud karena riya' dan sum'ah. Mereka mencoba untuk sujud, namun punggung mereka kembali tegak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4919</td></tr><tr><td>Arabic No</td><td>4919</td></tr><tr><td>Reference</td><td>Book 65 Hadith 439</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Господь наш обнажит Свою голень, и склонятся в земном поклоне перед Ним все верующие мужчины и женщины, а (каждый из тех,) кто в мире этом совершал земные поклоны напоказ или ради доброй славы, останется, и (каждый из них) захочет склониться, но хребет его превратится в (сплошную) единую (кость, и он не сможет сделать этого)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4919</td></tr><tr><td>Arabic No</td><td>4919</td></tr><tr><td>Reference</td><td>Book 65 Hadith 439</td></tr></tbody></table></div>
 

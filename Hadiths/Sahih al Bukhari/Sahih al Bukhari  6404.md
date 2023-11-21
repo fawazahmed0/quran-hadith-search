@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Maimun:Whoever recites it (i.e., the invocation in the above H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Abdul Malik bin 'Amru] telah menceritakan kepada kami [Umar bin Abu Za'idah] dari [Abu Ishaq] dari ['Amru bin Maimun] dia berkata; "Barangsiapa mengucapkannya (Laa ilaaha illallahu wahdahuu laa syariikalah lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai'in qadir) sebanyak sepuluh kali, maka seolah-olah ia telah membebaskan budak dari keturunan Isma'il." Umar bin Abu Za'idah mengatakan; telah menceritakan kepada kami [Abdullah bin Abu Safar] dari [Asy Sya'bi] dari [Rabi' bin Khutsaim] seperti hadits tersebut. Lalu aku berkata kepada Rabi' 'Dari manakah kamu mendengar hadits tersebut? ' Dia menjawab; 'Dari [Amru bin Maimun], lalu aku mendatangi 'Amru bin Maimun, lalu aku bertanya; 'Dari manakah kamu mendengar hadits tersebut? ' Dia menjawab; 'Dari [Ibnu Abu Laila], lalu aku pun mendatangi Ibnu Abu Laila dan bertanya; 'Dari manakah kamu mendengar hadits tersebut? ' Dia menjawab; 'Dari [Abu Ayyub Al Anshari] dia pernah bercerita dari Nabi shallallahu 'alaihi wasallam.' [Ibrahim bin Yusuf] juga pernah berkata; dari [Ayahnya] dari [Abu Ishaq] telah menceritakan kepadaku ['Amru bin Maimun] dari [Abdurrahman bin Abu Laila] dari [Abu Ayyub] perkataannya dari Nabi shallallahu 'alaihi wasallam. [Musa] mengatakan; telah menceritakan kepada kami [Wuhaib] dari [Daud] dari ['Amir] dari [Abdurrahman bin Abu Laila] dari [Abu Ayyub] dari Nabi shallallahu 'alaihi wasallam. [Isma'il] mengatakan dari [Asy Sya'bi] dari [Ar Rabi'] pada perkataannya. [Adam] mengatakan; telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdul Malik bin Maisarah] saya mendengar [Hilal bin Yasaf] dari [Ar Rabi' bin Khutsaim], dan ['Amru bin Maimun] dari [Ibnu Mas'ud] pada perkataannya. [Al A'masy] dan [Hushain] juga mengatakan; dari [Hilal] dari [Ar Rabi'] dari [Abdullah] pada perkataannya. Dan diriwayatkan pula oleh [Abu Muhammad Al Hadlrami] dari [Abu Ayyub] dari Nabi shallallahu 'alaihi wasallam: 'Seperti orang yang membebaskan budak dari keturunan Isma'il.' Abu Abdullah mengatakan; 'Yang benar adalah yang dikatakan oleh Abdul Malik bin 'Amru
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6404</td></tr><tr><td>Arabic No</td><td>6404</td></tr><tr><td>Reference</td><td>Book 80 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Аййюба аль-Ансари и Ибн Мас‘уда, да будет доволен Аллах ими обоими, передававших этот же хадис, что Пророк ﷺ сказал: «Повторивший (эти слова) десять раз подобен тому, кто освободил раба из числа потомков Исма‘иля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6404</td></tr><tr><td>Arabic No</td><td>6404</td></tr><tr><td>Reference</td><td>Book 80 Hadith 99</td></tr></tbody></table></div>
 

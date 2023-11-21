@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:I said, "O Allah's Messenger (ﷺ)! Shall I get a reward (in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Wuhaib] Telah mengabarkan kepada kami [Hisyam] dari [bapaknya] dari [Zainab binti Abu Salamah] dari [Ummu Salamah], Aku bertanya, "Wahai Rasulullah, apakah aku mendapatkan pahala bila aku berinfak kepada anak-anak Abu Salamah, dan aku tidak meninggalkan mereka dalam banyak hal. Sesungguhnya mereka adalah anak-anakku." Beliau menjawab: "Ya, kamu akan mendapatkan pahala atas apa yang kamu nafkahkan pada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 69 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «(Однажды) я спросила (Пророка ﷺ): “О Посланник Аллаха, полагается ли мне награда за то, что я трачу на детей Абу Салямы, не оставляя их в таком-то и таком-то (положении), ведь они являются и моими детьми?” (В ответ на это) он сказал: “Да, тебя ждёт награда за то, что ты потратишь на них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 69 Hadith 19</td></tr></tbody></table></div>
 

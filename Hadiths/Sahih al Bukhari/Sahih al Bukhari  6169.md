@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:A man came to Allah's Messenger (ﷺ) and said, "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa'il] dia berkata; [Abdullah bin Mas'ud] radliallahu 'anhu berkata; "Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam seraya bertanya; "Wahai Rasulullah, bagaimana anda mengatakan mengenai seseorang yang mencintai suatu kaum, namun dia sendiri belum pernah bertemu dengan kaum tersebut?" maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Seseorang akan bersama dengan yang di cintainya." Hadits ini juga diperkuat oleh [Jarir bin Hazim] dan [Sulaiman bin Qarm] serta [Abu 'Awanah] dari [Al A'masy] dari [Abu Wa'il] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6169</td></tr><tr><td>Arabic No</td><td>6169</td></tr><tr><td>Reference</td><td>Book 78 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Как-то раз) к Посланнику Аллаха ﷺ пришёл один человек и спросил его: “О Посланник Аллаха, что скажешь о том человеке, который любит (других) людей, но он ещё не присоединился к ним?” (На это) Посланник Аллаха ﷺ сказал: “Человек будет с теми, кого полюбил”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6169</td></tr><tr><td>Arabic No</td><td>6169</td></tr><tr><td>Reference</td><td>Book 78 Hadith 195</td></tr></tbody></table></div>
 

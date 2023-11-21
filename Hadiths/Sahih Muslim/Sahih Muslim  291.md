@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Hammam b, al-Harith that a man used to carry 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr as-Sa'di] dan [Ishaq bin Ibrahim] berkata [Ishaq] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Hammam bin al-Harits] dia berkata, "Seorang laki-laki menukil pembicaraan kepada seorang amir, sedangkan kami sedang duduk di masjid. Maka orang-orang pun berkata, "Ini orang yang menukilkan pembicaraan kepada amir tersebut." Perawi berkata, "Maka dia datang hingga duduk menghadap kami, [Hudzaifah] lantas berkata, 'Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan masuk surga pengadu domba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>291</td></tr><tr><td>Arabic No</td><td>105.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Хаммам ибн аль-Харис сказал: «Один человек передавал правителю разговоры (которые происходили между людьми), и (однажды), когда мы сидели в мечети, кто-то сказал: “Этот человек передаёт разговоры (людей) правителю”. Затем этот человек пришёл, сел с нами, и Хузейфа сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Сплетник /каттат/ не войдёт в Рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>291</td></tr><tr><td>Arabic No</td><td>105.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 197</td></tr></tbody></table></div>
 

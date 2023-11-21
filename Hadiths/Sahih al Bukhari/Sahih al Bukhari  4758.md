@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aishah:May Allah bestow His Mercy on the early emigrant women. When Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4758</td></tr><tr><td>Arabic No</td><td>4758</td></tr><tr><td>Reference</td><td>Book 65 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Да помилует Аллах первых женщин, совершивших переселение! Когда Аллах ниспослал аят “И пусть они закрывают своими покрывалами вырезы на груди”, они разорвали свои шерстяные покрывала и покрыли ими головы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4758</td></tr><tr><td>Arabic No</td><td>4758</td></tr><tr><td>Reference</td><td>Book 65 Hadith 280</td></tr></tbody></table></div>
 

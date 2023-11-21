@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) said:He who likes that his s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Abdul Malik bin Syu'aib bin Al Laits]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku]; Telah menceritakan kepadaku ['Uqail bin Khalid] dia berkata; [Ibnu Syihab] berkata; Telah mengabarkan kepadaku [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang ingin dilapangkan rezkinya, dan ingin dipanjangkan usianya, maka hendaklah dia menyambung silaturrahmi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6524</td></tr><tr><td>Arabic No</td><td>2557.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6524</td></tr><tr><td>Arabic No</td><td>2557.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 24</td></tr></tbody></table></div>
 

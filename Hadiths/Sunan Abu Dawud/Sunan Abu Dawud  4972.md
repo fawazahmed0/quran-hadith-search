@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mas’ud asked Abu ‘Abu Allah, or Abu Abd Allah asked Abu Mas’ud; what d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki'] dari [Al Auza'i] dari [Yahya] dari [Abu Qilabah] ia berkata, " [Abu Mas'ud] berkata kepada [Abu Abdullah], atau Abu Abdullah berkata kepada Abu Mas'ud, "Apakah kamu mendengar Rasulullah shallallahu 'alaihi wasallam mengatakan tentang ucapan 'menurut sangkaan mereka'? ia menjawab, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Seburuk-buruk ucapan yang digunakan oleh seseorang sebagai kendaraan adalah ungkapan 'menurut sangkaan mereka' (maksudnya; seseorang menyampaikan berita kepada orang lain hanya berdasarkan dari berita yang tidak jelas, atau sangkaan-sangkaan orang saja)." Abu Dawud berkata, "Abu Abdullah maksudnya adalah Hudzaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4972</td></tr><tr><td>Arabic No</td><td>4972</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Къилябы о том, что однажды Абу Мас‘уд сказал Абу ‘Абдуллаху или Абу ‘Абдуллах сказал Абу Мас‘уду (да будет доволен им Аллах): «Что ты слышал, как Посланник Аллаха ﷺ говорил относительно (выражения) “утверждают”?» Он ответил: «Я слышал, как Посланник Аллаха ﷺ говорил: “Сколь плохим верховым животным является для человека (слово) “утверждают”!”».Абу Дауд сказал: «Этот Абу ‘Абдуллах Хузайфа (ибн аль-Яман)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4972</td></tr><tr><td>Arabic No</td><td>4972</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
 

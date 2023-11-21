@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : Sa'd Ibn 'Ubâda tomba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yunus bin Abdul A'la Ash Shadafi] dan [Amru bin Sawwad Al Amiri] keduanya berkata, telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Sa'd bin Al Harits Al Anshari] dari [Abdullah bin Umar] ia berkata; Sa'ad bin Ubadah pernah mengeluhkan rasa sakit yang dideritanya, sehingga Rasulullah shallallahu 'alaihi wasallam bersama Abdur Rahman bin 'Auf, Sa'ad bin Abi Waqqash, dan Abdullah bin Mas'ud menjenguknya. Ketika beliau hendak masuk ternyata ia sedang dikerumuni keluarganya, maka beliau pun bertanya: "Apakah ia telah meninggal dunia?" Para sahabat menjawab, "Belum wahai Rasulullah." Maka Rasulullah shallallahu 'alaihi wasallam meneteskan air mata. Melihat beliau menangis, para sahabatpun ikut menangis. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Dengarkanlah oleh kalian, sesungguhnya Allah tidak mengadzab seseorang karena disebabkan tangisan atau perasaan sedih (dari orang yang ditinggalkannya) akan tetapi Dia mengadzab karena disebabkan oleh ini (beliau memberi isyarat pada lisannya), atau Dia akan mengasihinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2137</td></tr><tr><td>Arabic No</td><td>924</td></tr><tr><td>Reference</td><td>Book 11 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «Когда Са‘д ибн ‘Убада заболел, Посланник Аллаха ﷺ пришёл навестить его вместе с ‘Абдуррахманом ибн ‘Ауфом, Са‘дом ибн Аби Ваккасом и ‘Абдуллахом ибн Мас‘удом. Зайдя к (больному, Пророк ﷺ) увидел, что тот лишился чувств, и спросил: “Он уже умер?” (Ему) ответили: “Нет, о Посланник Аллаха”, и тогда Посланник Аллаха ﷺ заплакал. Увидев, что Посланник Аллаха ﷺ плачет, заплакали и другие, а (Пророк ﷺ) сказал: “Разве вы не слышите? Поистине, Аллах не подвергает мучениям ни за слёзы, (текущие из) глаз, ни за печаль сердца, однако Он подвергает мучениям за это, и он указал на свой язык или милует (за это)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2137</td></tr><tr><td>Arabic No</td><td>924</td></tr><tr><td>Reference</td><td>Book 11 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zaynab daughter of AbuSalamah: AbuSalamah said: Zaynab daughter of AbuS
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Amru bin Abi Al-Hajjaj, Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] dari [Al-Husain] dari [Yahya bin Abi Katsir] dari [Abu Salamah] dia berkata; telah mengabarkan kepadaku [Zainab binti Abi Salamah] bahwasanya ada seorang wanita yang sering keluar darah (darah penyakit), ia adalah istri Abdurrahman bin Auf, bahwasanya Rasululah shallallahu 'alaihi wasallam memerintahkannya untuk mandi pada setiap kali shalat dan dia shalat. Dan dia telah mengabarkan kepadaku bahwasanya [Ummu bakr] telah mengabarkan kepadanya, bahwasanya [Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda tentang wanita yang melihat darah yang keluar yang membuatnya ragu setelah dia bersuci, "Sesungguhnya darah itu hanyalah darah penyakit". Atau beliau bersabda: Itu darah-darah peyakit (dengan bentuk jamak). Abu Dawud berkata; Di dalam hadits Ibnu Aqil disebutkan kedua-duanya. Dan beliau bersabda: "Jika kamu kuat (mampu), maka mandilah untuk setiap kali akan shalat, dan kalau tidak mampu, maka jamaklah". Sebagaimana dikatakan oleh Al-Qasim di dalam hadits riwayatnya; Dan ucapan ini telah diriwayatkan dari Sa'id bin Jubair dari Ali dan Ibnu Abbas radliallahu 'anhuma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>293</td></tr><tr><td>Arabic No</td><td>293</td></tr><tr><td>Reference</td><td>Book 1 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Салама сказал: «Зайнаб бинт Абу Салама, сообщила мне о том, что у одной женщины, которая являлась женой ‘Абду-р-Рахмана ибн ‘Ауфа, было хроническое кровотечение, и Посланник Аллаха ﷺ велел ей, чтобы она купалась перед каждой молитвой, и затем совершала молитву».(Йахйа ибн Абу Касир сказал): «И он рассказал мне о том, что Умм Бакр сообщила ему о том, что ‘Аиша сказала: “Посланник Аллаха ﷺ сказал о женщине, у которой после очищения, появляются подозрения: “Поистине это” – или он сказал: “Поистине - это вена”, или он сказал: “вены”».Абу Дауд сказал: «В хадисе переданном Ибн ‘Акилем оба этих действия объединены и он сказал: “Если сможешь, купайся для каждой молитвы. Если же не сможешь, (то искупайся один раз) и объединяй (две) молитвы”. Как сказал аль-Касим в своем хадисе: “Эти слова передаются от Са‘ида ибн Джубайра со слов ‘Али и Ибн ‘Аббаса, да будет доволен ими Аллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>293</td></tr><tr><td>Arabic No</td><td>293</td></tr><tr><td>Reference</td><td>Book 1 Hadith 293</td></tr></tbody></table></div>
 

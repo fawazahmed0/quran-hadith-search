@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) sent Mu'adh to Yemen and said, "Invite the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim Adh-Dlohhak bin Makhlad] dari [Zakariya' bin Ishaq] dari [Yahya bin 'Abdullah bin Shayfiy] dari [Abu Ma'bad] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa ketika Nabi Shallallahu'alaihiwasallam mengutus Mu'adz radliallahu 'anhu ke negeri Yaman, Beliau berkata,: "Ajaklah mereka kepada syahadah (persaksian) tidak ada ilah yang berhak disembah kecuali Allah dan bahwa aku adalah utusan Allah. Jika mereka telah mentaatinya, maka beritahukanlah bahwa Allah mewajibkan atas mereka shalat lima waktu sehari semalam. Dan jika mereka telah mena'atinya, maka beritahukanlah bahwa Allah telah mewajibkan atas mereka shadaqah (zakat) dari harta mereka yang diambil dari orang-orang kaya mereka dan diberikan kepada orang-orang faqir mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>1395</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что когда Пророк ﷺ посылал в Йемен Му‘аза, да будет доволен им Аллах, он сказал ему: «Призови их (принести) свидетельство о том, что нет истинного бога, кроме Аллаха, и что я — Посланник Аллаха, и если они подчинятся этому, то уведоми их о том, что Аллах вменил им в обязанность (совершение) пяти молитв ежедневно, если же они подчинятся и этому, то уведоми их о том, что Аллах обязал их выплачивать садаку, которую следует брать у богатых и отдавать бедным из их числа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>1395</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
 

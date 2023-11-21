@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ja'far reported on the authority of his father:that he asked Jabir b. 'Abdullah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Al Qasim bin Zakariya] telah menceritakan kepada kami [Khalid bin Makhlad] -dalam jalur lain- Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah menceritakan kepada kami [Yahya bin Hassan] keduanya berkata, telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Ja'far] dari [bapaknya] bahwa ia bertanya kepada [Jabir], "Kapan Rasulullah shallallahu 'alaihi wasallam menunaikan shalat Jum'at?" Ia menjawab, "Bisanya beliau shalat Jum'at, kemudian setelah itu kami pulang ke ternak unta kami, dan mengistirahatkannya." Abdullah menambahkan di dalam haditsnya; "Saat matahari tergelincir, yakni setelah unta diberi minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>858.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джа‘фара, что его отец спросил Джабира ибн ‘Абдуллаха: «В какое время Посланник Аллаха ﷺ совершал пятничную молитву?» Он ответил: «После того, как он совершал (с нами) молитву, мы возвращались к своим верблюдам и давали им отдохнуть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>858.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 40</td></tr></tbody></table></div>
 

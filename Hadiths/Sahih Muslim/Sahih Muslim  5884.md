@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that when Ibn Umar wanted fumigation he got it from aloeswood wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] dan [Abu Thahir] dan [Ahmad bin 'Isa]. [Ahmad] berkata; Telah menceritakan kepada kami. Dan yang lainnya berkata; Telah mengabarkan kepada kami [Ibnu Wahab] Telah mengabarkan kepadaku [Makhramah] dari [Bapaknya] dari [Nafi'] dia berkata; "Jika [Ibnu Umar] ingin menggunakan wewangian, ia memakai Al aluwwah (kayu wangi yang dibakar) tanpa campuran, terkadang juga memakai kapur yang dicampur dengan Al aluwwah. Lalu ia berkata, "Beginilah kebiasaan Rasulullah shallallahu 'alaihi wasallam saat memakai minyak wangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5884</td></tr><tr><td>Arabic No</td><td>2254</td></tr><tr><td>Reference</td><td>Book 40 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «Воскуряя благовония, Ибн ‘Умар, да будет доволен Аллах ими обоими, использовал дерево алоэ, не смешанное ни с какими другими благовониями, и камфарное дерево, (куски) которого бросал (в огонь) вместе с (кусками) алоэ, после чего говорил: “Так воскурял благовония Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5884</td></tr><tr><td>Arabic No</td><td>2254</td></tr><tr><td>Reference</td><td>Book 40 Hadith 23</td></tr></tbody></table></div>
 

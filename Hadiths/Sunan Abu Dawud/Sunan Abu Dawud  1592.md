@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Explaining the meaning of Jalab and janab Muhammad bin Ishaq said The meaning of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Ibnu Abu 'Adi] dari [Ibnu Ishaq] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam beliau bersabda; "Tidak ada jalab dan janab dan tidaklah zakat mereka diambil kecuali di rumah-rumah mereka." Telah menceritakan kepada Kami Al Hasan bin Ali, telah menceritakan kepada Kami Ya'qub bin Ibrahim, ia berkata; saya mendengar ayahku berkata; dari Muhammad bin Ishaq mengenai sabda beliau: "Tidak ada jalab dan tidak ada janab, " ia berkata; yaitu hewan ternak dizakatkan di tempat-tempatnya, dan tidak dibawa kepada petugas zakat, sedangkan janab mengenai selain kewajiban ini, juga para pemilik zakat tidak diperlakukan janab kepadanya. Ia mengatakan; seseorang (petugas zakat) tidak berada di tempat terjauh orang yang menunaikan zakat kemudian zakat tersebut dibawa kepadanya, akan tetapi hendaknya zakat tersebut diambil di tempatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 9 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн Исхак сказал, объясняя понятия «джаляб» и «джанаб»: «Закят со скота должен взиматься на том месте, где находится скот, и владелец скота не обязан гнать его к сборщику закята. “Джанаб” это тоже о закяте. Это о том случае, когда человек находится очень далеко от того места, где находятся сборщики: его не вынуждают приходить к ним, а взимают закят в том месте, где находится он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 9 Hadith 37</td></tr></tbody></table></div>
 

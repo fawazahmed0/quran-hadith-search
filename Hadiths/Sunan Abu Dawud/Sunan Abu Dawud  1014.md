@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported; The Prophet (ﷺ) offered the noon prayer and he gave the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dia mendengar [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam mengerjakan shalat dluhur kemudian salam di raka'at kedua, maka di beritahukan kepadanya; "Apakah anda mengurangi jumlah raka'at shalat?" kemudian beliau melanjutkan dua raka'at lagi lalu sujud dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (715)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 2 Hadith 625</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что однажды Пророк ﷺ совершал полуденную молитву и произнёс слова таслима после двух рак‘атов. Его спросили: «Молитва сократилась?» Тогда он домолился оставшиеся два рак‘ата, после чего совершил два земных поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (715)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 2 Hadith 625</td></tr></tbody></table></div>
 

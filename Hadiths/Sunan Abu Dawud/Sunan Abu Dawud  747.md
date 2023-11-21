@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Messenger of Allah (ﷺ) taught us how to pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Idris] dari ['Ashim bin Kulaib] dari [Abdurrahman bin Al Aswad] dari ['Alqamah] dia berkata; [Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam mengajari kami shalat, beliau takbir sambil mengangkat kedua tangannya, dan ketika ruku', beliau mencengkramkan kedua tangannya pada kedua lututnya." Kata 'Alqamah; "ternyata hal itu sampai kepada Sa'd, maka dia berkata; "Saudaraku benar, kami memang melakukan hal itu, kemudian kami diperintahkan untuk mengerjakannya yaitu memegang kedua lutut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>747</td></tr><tr><td>Arabic No</td><td>747</td></tr><tr><td>Reference</td><td>Book 2 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькъама сказал: «‘Абдуллах (ибн Мас‘уд) сказал: “Посланник Аллаха ﷺ учил нас молитве и произнося слова «Аллаху акбар» он поднял руки. (Затем,) когда он совершил поясной поклон, он сложил руки между коленями”».(‘Алькъама) сказал: «И (когда) это дошло до Са‘да (ибн Абу Ваккъаса,) он сказал: “Правду сказал мой брат! Мы действительно так поступали, но затем нам велели это”, имея в виду, держать (руки) на коленях»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>747</td></tr><tr><td>Arabic No</td><td>747</td></tr><tr><td>Reference</td><td>Book 2 Hadith 357</td></tr></tbody></table></div>
 

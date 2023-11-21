@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Abu-l-Qasim (the Prophet) said, "By Him in Whose Hand Muham
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] telah memberitakan kepada kami [Hisyam yaitu bin Yusuf] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah] menuturkan; Abul qasim Shallallahu'alaihi wa sallam bersabda: "Demi Dzat yang jiwa Muhammad berada di Tangan-Nya, kalaulah kalian tahu yang kutahu, sungguh kalian banyak menangis dan sedikit tertawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6637</td></tr><tr><td>Arabic No</td><td>6637</td></tr><tr><td>Reference</td><td>Book 83 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Абу аль-Касим ﷺ сказал: “Клянусь Тем, в Чьей Руке душа Мухаммада, если бы вы знали то, что известно мне, то, конечно же, плакали бы много, а смеялись мало!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6637</td></tr><tr><td>Arabic No</td><td>6637</td></tr><tr><td>Reference</td><td>Book 83 Hadith 16</td></tr></tbody></table></div>
 

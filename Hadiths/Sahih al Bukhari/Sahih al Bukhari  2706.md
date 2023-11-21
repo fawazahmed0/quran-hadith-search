@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b bin Malik from Ka'b bin Malik:'Abdullah bin Abu Hadr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari [Ja'far bin Rabi'ah] dari [Al A'raj] berkata telah bercerita kepadaku ['Abdullah bin Ka'ab bin Malik] dari [Ka'ab bin Malik] bahwa dia mempunyai sangkutan harta dengan 'Abdullah bin Abi Hadrad Al Aslamiy lalu dia menemuinya dan menagihnya hingga terjadi pertengkaran yang ditandai dengan suara keras dari keduanya. Lalu Nabi shallallahu 'alaihi wasallam lewat di hadapan keduanya seraya bersabda: "Wahai Ka'ab, lalu Beliau memberi isyarat dengan tangan Beliau seakan Beliau berkata setengahnya. Maka Ka'ab mengambil serengah dari hartanya dan meninggalkan setengahnya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2706</td></tr><tr><td>Arabic No</td><td>2706</td></tr><tr><td>Reference</td><td>Book 53 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ка‘ба ибн Малика, что (однажды), он принялся требовать у ‘Абдуллаха ибн Абу Хадрада аль-Аслями вернуть ему долг, так что их голоса стали звучать громко, Пророк ﷺ, проходивший мимо них сказал: “О Ка‘б!” И он сделал рукой знак, означавший, что долг следовало уменьшить наполовину. Таким образом он забрал у него половину долга и простил другую половину
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2706</td></tr><tr><td>Arabic No</td><td>2706</td></tr><tr><td>Reference</td><td>Book 53 Hadith 16</td></tr></tbody></table></div>
 

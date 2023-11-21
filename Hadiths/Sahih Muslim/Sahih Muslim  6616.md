@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:O Allah, I am a human bei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah saya hanya manusia, orang muslim mana saja yang aku cela, atau aku laknat atau aku cambuk, maka jadikanlah baginya sebagai penyuci atau rahmat. Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Al A'masy] dari [Abu Sufyan] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Hanya saja dia menggunakan lafazh; penyuci dan pahala. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Isa bin Yunus] keduanya dari [Al A'masy] dengan sanad 'Abdullah bin Numair yang serupa dengan Haditsnya. Hanya saja dia menggunakan lafazh; 'semoga dijadikan baginya sebagai pahala.' Sedangkan di dalam Hadits Abu Hurairah dan Jabir dengan menggunakan lafazh; 'semoga dijadikan baginya sebagai rahmat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6616</td></tr><tr><td>Arabic No</td><td>2601.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6616</td></tr><tr><td>Arabic No</td><td>2601.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 114</td></tr></tbody></table></div>
 

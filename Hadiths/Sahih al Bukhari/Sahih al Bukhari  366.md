@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:A person asked Allah's Messenger (ﷺ), "What should a Muhrim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ashim bin 'Ali] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Az Zuhri] dari [Salim] dari [Ibnu 'Umar] berkata, "Ada seseorang bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Apa yang harus dikenakan oleh seseorang saat ihram?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Dia tidak boleh mengenakan baju, celana, mantel dan tidak boleh pula pakaian yang diberi minyak wangi atau wewangian dari daun tumbuhan. Dan siapa yang tidak memiliki sandal, ia boleh mengenakan sepatu tapi hendaklah dipotong hingga berada dibawah mata kaki." Dan dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam seperti ini juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>366</td></tr><tr><td>Arabic No</td><td>366</td></tr><tr><td>Reference</td><td>Book 8 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен им Аллах, сказал: «(Однажды) какой-то человек спросил Посланника Аллаха ﷺ: “Что должен надевать на себя (паломник, желающий) облачиться в ихрам?” Он ответил: “Ему не следует надевать ни рубаху, ни шаровары, ни бурнус, ни одежду, окрашенную шафраном или жёлтым деревом. Если он не найдёт сандалии, пусть оденет кожаные носки, обрезав их так, чтобы (верхние края) были ниже лодыжек”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>366</td></tr><tr><td>Arabic No</td><td>366</td></tr><tr><td>Reference</td><td>Book 8 Hadith 18</td></tr></tbody></table></div>
 

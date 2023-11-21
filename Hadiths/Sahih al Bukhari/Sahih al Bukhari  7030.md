@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I was a young unmarried man during the lifetime of the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] mengatakan, aku anak muda lajang di masa Nabi shallallahu 'alaihi wasallam, dan aku tidur di masjid. Dahulu ada satu kebiasan, siapa yang bermimpi, maka ia menceritakan mimpinya kepada Nabi Shallallahu'alaihiwasallam. Maka aku panjatkan doa; 'Ya Allah, jikalau aku mempunyai kebaikan disisi-Mu, maka perlihatkanlah kepadaku dalam mimpi sehingga Rasulullah Shallallahu'alaihiwasallam dapat mentakwilkan mimpiku.' aku pun tertidur, dan kulihat dua malaikat mendatangiku dan membawaku. kemudian ada malaikat lain menemui keduanya dan berujar keadaku; 'jangan khawatir, sebab kamu laki-laki shalih.' Lantas kedua malaikat itu membawaku ke neraka, ternyata neraka itu digulung seperti gulungan sumur, dan disana ada sebagian orang yang kukenal, lantas keduanya menggandengku ke sebalah kanan. Di pagi hari aku ceritakan mimpiku kepada [Hafshah], dan Hafshah mengaku telah menceritakannya kepada Nabi shallallahu 'alaihi wasallam, maka Nabi bersabda: "Abdullah adalah laki-laki shalih, sekiranya ia memperbanyak shalat malam." Kata Az Zuhri, setelah peristiwa itu, Abdullah memperbanyak shalat malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7030</td></tr><tr><td>Arabic No</td><td>7030</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн 'Умар, да будет доволен Аллах им и его отцом, сказал: «Я был молодым, неженатым юношей во времена Пророка ﷺ и ночевал в мечети. И бывал так, что когда кто-либо видел сон, он (непременно) рассказывал его Пророку ﷺ, и я сказал: “О Аллах, если мне полагается у Тебя благо, то покажи мне сон, который истолкует мне посланник Аллаха ﷺ”, — а затем лёг спать. И вдруг я увидел во сне, как ко мне пришли два ангела и повели меня. Тогда этих двух ангелов встретил другой ангел и сказал мне: “Не бойся, поистине, ты праведный человек”. Они отправились со мной к Аду и вдруг оказалось, что огонь подобен колодцу с двумя рогами, какие обычно бывают у колодцев. В нём я увидел людей, некоторых из которых я знал. После этого ангелы увели меня в правую сторону. Проснувшись, я упомянул об этом Хафсе. Хафса же утверждала, что она рассказала о сне Пророку ﷺ, который сказал: “Поистине, ‘Абдуллах — праведный человек, если бы много молился по ночам”». \nАз-Зухри сказал: «И после это ‘Абдуллах стал совершать много молитв по ночам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7030</td></tr><tr><td>Arabic No</td><td>7030</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

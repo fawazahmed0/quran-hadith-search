@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:Bilal summoned to prayer as the sun declined but did no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Simak bin Harb] dari [Jabir bin Samurah] dia berkata; "Bilal pernah mengumandangkan adzan ketika matahari condong ke sebelah barat, sementara ia tidak mengumandangkan iqamat hingga Nabi shallallahu 'alaihi wasallam muncul. Ketika beliau muncul, maka Bilal mengumandangkan iqamat yaitu ketika ia melihat beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>606</td></tr><tr><td>Reference</td><td>Book 5 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «Обычно Биляль возглашал призыв к (полуденной) молитве, как только солнце начинало клониться к закату, и не объявлял о её начале, пока не появлялся Пророк ﷺ. Увидев же, что Пророк ﷺ вышел, (Биляль) объявлял о начале молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>606</td></tr><tr><td>Reference</td><td>Book 5 Hadith 204</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Alqamah:I asked 'Abd Allaah b Mas'ud: Which of you was in the company 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] dari [Dawud] dari ['Amir] dari [Alqamah] dia berkata; Saya bertanya kepada [Abdullah bin Mas'ud]; "Siapakah di antara kalian yang bersama Rasulullah shallallahu 'alaihi wasallam pada malam jin?" Maka dia menjawab; "Tidak seorang pun di antara kami yang bersama beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (450)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>85</td></tr><tr><td>Arabic No</td><td>85</td></tr><tr><td>Reference</td><td>Book 1 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькъама сказал: «(Однажды) я сказал ‘Абдулле ибн Мас‘уду: “Кто из вас был с Посланником Аллаха ﷺ в ту ночь, когда (Пророка ﷺ посетили) джинны?” Он сказал: “Не было с ним из нас никого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (450)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>85</td></tr><tr><td>Arabic No</td><td>85</td></tr><tr><td>Reference</td><td>Book 1 Hadith 85</td></tr></tbody></table></div>
 

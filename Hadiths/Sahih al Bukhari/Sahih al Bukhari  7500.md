@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:Sa'id bin Al-Musaiyab, 'Alqama bin Waqqas and 'Ubai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Abdullah bin Umar An Numairi] telah menceritakan kepada kami [Yunus bin Yazid Al Aili] mengatakan, aku mendengar [Azzuhri] berkata, Aku mendengar ['Urwah bin Zubair] dan [Sa'id bin Musayyab] dan ['Alqamah bin Waqqash] dan [Ubaidullah bin Abdullah] dari hadis [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ketika penyebar-penyebar kebohongan menyebarluaskan kebohongan terhadapnya. Kemudian Allah menyucikannya dari kebohongan yang mereka katakan, dan kesemuanya menceritakan kepadaku sekumpulan hadis yang masing-masing mereka riwayatkan dari Aisyah, Aisyah berkata, "Akan tetapi demi Allah, aku sama sekali tak punya perkiraan Allah akan menurunkan wahyu terhadap berita kesucianku, sungguh urusanku terhadap diriku lebih remeh daripada Allah berbicara tentangku dengan wahyu yang dibacakan, yang kuharap ketika itu hanyalah sekiranya Rasulullah shallallahu 'alaihi wasallam bermimpi dalam tidurnya, yang menceritakan berita kesucianku dari ghosip yang disebarkan orang-orang. Lantas Allah menurunkan ayat: '(sesungguhnya orang-orang yang datang dengan membawa berita bohong) ', (Qs. An Nuur: 11), dan seterusnya hingga sepuluh ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7500</td></tr><tr><td>Arabic No</td><td>7500</td></tr><tr><td>Reference</td><td>Book 97 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что аз-Зухри сказал:— Я слышал от ‘Урвы ибн аз-Зубайра, Са‘ид ибн аль-Мусаййаба, ‘Алькама ибн Ваккаса и ‘Убайдуллах ибн ‘Абдуллаха хадис о ‘Аише, жене Пророка ﷺ в котором упоминается, как люди, распространявшие клевету, говорили о ней то, что говорили, и как Аллах оправдал её от того, что на неё наговаривали. И каждый (из этих четырёх передатчиков) рассказал мне часть хадиса, в котором он передал мне от ‘Аиши, что она сказала: «Но я, клянусь Аллахом, не думала, что Аллах ниспошлёт откровение в оправдании меня, которое будет читаться. И клянусь, я никогда не считала себя достойной того, чтобы Аллах говорил относительно моего дела в откровении, которое будет читаться. Однако я надеялась, что Посланник Аллаха ﷺ увидит сон, в котором Аллах оправдает меня. И Всевышний Аллах ниспослал десять аятов, (начиная с аята): “Те, которые возвели навет” (сура “ан-Нур”, аяты 11-20)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7500</td></tr><tr><td>Arabic No</td><td>7500</td></tr><tr><td>Reference</td><td>Book 97 Hadith 125</td></tr></tbody></table></div>
 

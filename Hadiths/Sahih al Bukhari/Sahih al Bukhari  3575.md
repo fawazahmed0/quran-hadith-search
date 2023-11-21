@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:Anas bin Malik said, "Once the time of the prayer became due and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abdullah binMunir] dia mendengar [Yazid] telah mengabarkan kepada kami [Humaid] dari [Anas radliallahu 'anhu] berkata; "Waktu shalat tiba lalu orang yang rumahnya dekat dengan masjid pergi untuk berwudlu' dan tinggal beberapa orang (yang belum berwudlu') lalu kepada Nabi shallallahu 'alaihi wasallam disodorkan bejana (yang biasa digunakan untuk mencuci) yang berisi air lalu beliau letakkan telapak tangan beliau pada bejana tersebut, namun bejana itu terlalu kecil sehingga beliau tidak dapat memasukkan tangan beliau ke dalamnya, namun akhirnya beliau rapatkan jari beliau dan beliau masukkan ke dalam bejana tersebut. Orang-orang pun dapat berwudlu semuanya". Aku (Humaid) bertanya; "Berapa jumlah mereka saat itu? '. Dia (Anas) menjawab; "Delapan puluh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3575</td></tr><tr><td>Arabic No</td><td>3575</td></tr><tr><td>Reference</td><td>Book 61 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хумейда, что Анас, да будет доволен им Аллах, сказал: «Когда настало время молитвы, люди, чьи дома были рядом с мечетью, разошлись по своим домам, чтобы совершить омовение, в то время как остальные остались. Пророку ﷺ принесли каменное корыто с водой, и он хотел опустить в него руку, но корыто было слишком мало, чтобы он мог раскрыть в нём ладонь. Тогда он сжал пальцы и опустил руку в корыто. Затем все люди совершили омовение (этой водой)». Я спросил Анаса: «Сколько их было?» Он ответил: «Восемьдесят человек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3575</td></tr><tr><td>Arabic No</td><td>3575</td></tr><tr><td>Reference</td><td>Book 61 Hadith 84</td></tr></tbody></table></div>
 

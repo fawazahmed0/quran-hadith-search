@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said:When the Messenger of Allah (ﷺ) seated himself on the pulpit on a F
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'kub bin Ka'b Al Anthaki] telah menceritakan kepada kami [Makhlad bin Yazid] telah menceritakan kepada kami [Ibnu Juraij] dari ['Atha'] dari [Jabir] dia berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam duduk diatas mimbar pada hari Jum'at, beliau bersabda: "Duduklah kalian!." ucapan itu di dengar oleh Abdullah bin Mas'ud, maka dia segera duduk di dekat pintu pintu Masjid, ketika Rasulullah shallallahu 'alaihi wasallam melihatnya, beliau berseru kepadanya: "Kemarilah wahai Abdullah bin Mas'ud!." Abu Daud berkata; "Hadits ini terkenal mursal, karena orang-orang meriwayatkan dari 'Atha' dari Nabi shallallahu 'alaihi wasallam, sementara Makhlad adalah seorang syaikh (maksudnya adalah haditsnya boleh ditulis)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1091</td></tr><tr><td>Arabic No</td><td>1091</td></tr><tr><td>Reference</td><td>Book 2 Hadith 702</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом: «Когда Посланник Аллаха ﷺ сел на минбар в пятницу, он сказал: “Сядьте”. Услышав эти слова, ибн Мас‘уд сел прямо у входа в мечеть. Увидев его, Посланник Аллаха ﷺ сказал: “Иди сюда, о ‘Абдуллах ибн Мас‘уд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1091</td></tr><tr><td>Arabic No</td><td>1091</td></tr><tr><td>Reference</td><td>Book 2 Hadith 702</td></tr></tbody></table></div>
 

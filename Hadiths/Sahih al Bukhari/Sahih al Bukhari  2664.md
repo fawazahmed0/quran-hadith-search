@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) called me to present myself in front 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'id] telah menceritakan kepada kami [Abu Usamah] berkata, telah menceritakan kepadaku ['Ubaidullah] berkata, telah menceritakan kepadaku [Nafi'] telah menceritakan kapadaku [Ibnu'Umar radliallahu 'anhuma] bahwa dia pernah menawarkan diri kepada Rasulullah shallallahu 'alaihi wasallam untuk ikut dalam perang Uhud, saat itu umurnya masih empat belas tahun namun Beliau tidak mengijinkannya. Kemudian ia menawarkan lagi pada perang Khandaq saat itu usiaku lima belas tahun dan Beliau mengijinkanku". Nafi' berkata; "Aku menemui 'Umar bin 'Abdul 'aziz saat itu dia adalah khalifah lalu aku menceritakan hadis ini, dia berkata: "Ini adalah batas antara anak kecil dan orang dewasa". Maka kemudian dia menetapkan pegawainya untuk mewajibkan kepada siapa saja yang telah berusia lima belas tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2664</td></tr><tr><td>Arabic No</td><td>2664</td></tr><tr><td>Reference</td><td>Book 52 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что в день битвы при Ухуде, когда ему было четырнадцать лет, Посланник Аллаха ﷺ производивший смотр (своих сил, видел и) его, но не разрешил ему (принять участие в бою), а во время битвы у рва, когда ему уже исполнилось пятнадцать, (Пророк ﷺ также) произвёл смотр и (на этот раз) позволил ему (сражаться)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2664</td></tr><tr><td>Arabic No</td><td>2664</td></tr><tr><td>Reference</td><td>Book 52 Hadith 28</td></tr></tbody></table></div>
 

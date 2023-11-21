@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:Once the Prophet (ﷺ) brought out Al-Hasan and took him up t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3629</td></tr><tr><td>Arabic No</td><td>3629</td></tr><tr><td>Reference</td><td>Book 61 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ вывел аль-Хасана и, поднявшись вместе с ним на минбар, сказал: “Этот мой сын является господином, и может быть Аллах примирит через него две большие группы мусульман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3629</td></tr><tr><td>Arabic No</td><td>3629</td></tr><tr><td>Reference</td><td>Book 61 Hadith 133</td></tr></tbody></table></div>
 

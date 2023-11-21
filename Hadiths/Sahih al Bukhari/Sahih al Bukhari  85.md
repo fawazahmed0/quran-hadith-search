@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "(Religious) knowledge will be take
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] berkata, telah mengabarkan kepada kami [Hanzhalah bin Abu Sufyan] dari [Salim] berkata; aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ilmu akan diangkat dan akan tersebar kebodohan dan fitnah merajalela serta banyak timbul kekacauan". Ditanyakan kepada Beliau shallallahu 'alaihi wasallam: "Wahai Rasulullah, apa yang dimaksud dengan kekacauan?" Maka Rasul shallallahu 'alaihi wasallam menjawab: "Begini". Nabi shallallahu 'alaihi wasallam memberi isyarat dengan tangannya lalu memiringkannya. Seakan yang dimaksudnya adalah pembunuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>85</td></tr><tr><td>Arabic No</td><td>85</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим сказал: «Я слышал, как Абу Хурайра, да будет доволен им Аллах, рассказывал, что (однажды) Пророк ﷺ сказал: «(Со временем) исчезнет знание, распространятся невежество и бедствия, и умножится хардж». Его спросили: «О Посланник Аллаха, а что такое хардж?» — и в ответ он сделал знак рукой, повернув её так, будто убивал кого-то»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>85</td></tr><tr><td>Arabic No</td><td>85</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
 

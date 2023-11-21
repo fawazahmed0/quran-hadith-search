@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said :The Prophet(ﷺ) sent Umar b. al-Khattab to collect sadaqa (A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Hasan bin Ash Shabbah], telah menceritakan kepada Kami [Syababah] dari [Warqa'] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Nabi shalla Allahu 'alaihi wa sallam mengutus Umar bin Khathab radliallahu 'anhu untuk mengambil zakat, lalu Ibnu Jamil, Khalid bin Walid dan Al Abbas menolak untuk membayar, maka Rasulullah shallla Allahu 'alaihi wa sallam berkata: "Tidaklah Ibnu jamil membalas dendam kecuali ia dahulu adalah orang yang miskin lalu Allah memberikannya kekayaan, adapun Khalid bin Al Walid, maka sesungguhnya kalian telah mendzalimi Khalid, sungguh ia telah menahan baju-baju besinya dan perlengkapan perangnya dijalan Allah, adapun Al Abbas paman Rasulullah shallla Allahu 'alaihi wa sallam, maka zakatnya dan yang sepertinya menjadi kewajibanku. Kemudian beliau berkata: "Tidakkah engkau merasakan bahwa paman seseorang adalah saudara sebapak atau saudara bapaknya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1468) Sahih Muslim (983)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1623</td></tr><tr><td>Arabic No</td><td>1623</td></tr><tr><td>Reference</td><td>Book 9 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что однажды Пророк ﷺ отправил ‘Умара ибн аль-Хаттаба собирать закят, и Ибн Джамиль, Халид ибн аль-Валид и аль-‘Аббас ибн ‘Абдульмутталиб отказались выплачивать закят. Посланник Аллаха ﷺ сказал: «Что касается Ибн Джамиля, то нет у него оправдания, кроме того, что раньше он был нищим, а потом Аллах даровал ему богатство… Что же до Халида, то вы поступаете с ним несправедливо, ибо он держит свои кольчуги, оружие и снаряжение для сражений на пути Аллаха. Что же касается аль-‘Аббаса, то я сам выплачу за него закят и ещё столько же», затем он сказал: «Разве ты не знаешь, что дядя человека подобен его отцу?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1468) Sahih Muslim (983)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1623</td></tr><tr><td>Arabic No</td><td>1623</td></tr><tr><td>Reference</td><td>Book 9 Hadith 68</td></tr></tbody></table></div>
 

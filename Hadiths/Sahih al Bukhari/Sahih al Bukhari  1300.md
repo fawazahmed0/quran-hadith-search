@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When the reciters of Qur'an were martyred, Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin "Ali] telah menceritakan kepada kami [Muhammad bin Fudhail] telah menceritakan kepada kami ['Ashim Al Ahwal] dari [Anas radliallahu 'anhu] berkata,: "Rasulullah Shallallahu'alaihiwasallam melaksanakan do'a qunut selama sebulan pada waktu terbunuhnya para Qurra' (penghafal AL Qur'an). Dan belum pernah aku melihat Rasulullah Shallallahu'alaihiwasallam sedemikian sedih yang melebihi kesedihannya pada waktu itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1300</td></tr><tr><td>Arabic No</td><td>1300</td></tr><tr><td>Reference</td><td>Book 23 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда были убиты чтецы [Корана], Посланник Аллаха ﷺ в течении месяца обращался к Аллаху с мольбой кунут. И я никогда не видел его таким печальным, как в тот день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1300</td></tr><tr><td>Arabic No</td><td>1300</td></tr><tr><td>Reference</td><td>Book 23 Hadith 58</td></tr></tbody></table></div>
 

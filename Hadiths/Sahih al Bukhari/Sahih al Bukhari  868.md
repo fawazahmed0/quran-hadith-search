@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada Al-Ansari:My father said, "Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Miskin] berkata, telah menceritakan kepada kami [Bisyir bin Bakar] telah mengabarkan kepada kami [Al Auza'i] telah menceritakan kepadaku [Yahya bin Abu Katsir] dari ['Abdullah bin Abu Qatadah Al Anshari] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku pernah berdiri melaksanakan shalat dan aku ingin memanjangkannya, namun kemudian aku mendengar tangisan bayi. Maka aku pendekkan shalatku karena aku khawatir akan memberatkan ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>868</td></tr><tr><td>Arabic No</td><td>868</td></tr><tr><td>Reference</td><td>Book 10 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Къатады, что Посланник Аллаха ﷺ сказал: «Поистине, приступая к молитве, я хочу проводить её долго, но, когда слышу плач ребёнка, сокращаю ее, ибо не желаю доставлять затруднения его матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>868</td></tr><tr><td>Arabic No</td><td>868</td></tr><tr><td>Reference</td><td>Book 10 Hadith 259</td></tr></tbody></table></div>
 

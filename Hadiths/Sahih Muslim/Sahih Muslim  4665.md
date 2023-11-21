@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas that the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] -yaitu Ibnu 'Ulayyah- dari [Abdul 'Aziz bin Shuhaib] dari [Anas], bahwa Rasulullah shallallahu 'alaihi wasallam hendak memerangi Khaibar, ketika kami hampir tiba di kota terebut, kami melaksanakan shalat subuh sementara hari masih agak gelap. Lantas Nabi shallallahu 'alaihi wasallam menaiki kendaraannya kemudian diikuti oleh Abu Thalhah, sedangkan aku membonceng di belakang Abu Thalhah. Nabi shallallahu 'alaihi wasallam terus saja berjalan memasuki jalan-jalan kecil di Khaibar, sehingga lututku bersentuhan dengan paha Nabi shallallahu 'alaihi wasallam, bahkan pernah kain beliau sampai tersingkap, sehingga kelihatan olehku putih paha Nabi shallallahu 'alaihi wasallam. Ketika memasuki perkampungan, beliau bersabda: "Allahu Akbar, takluklah Khaibar, takluklah Khaibar, apabila kami menduduki suatu negeri, '(maka amat buruklah pagi hari yang di alami oleh orang-orang yang di peringatkan itu)." Beliau mengulanginya hingga tiga kali." Anas berkata, "Ketika orang-orang kampung keluar menuju tempat mereka bekerja, mereka lalu berteriak, "Muhammad telah tiba." Abdul Aziz berkata, "Sebagian sahabat kami menyebutkan, "Dan tentaranya." Anas mengatakan, "(Khaibar) kami rebut dengan kekerasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4665</td></tr><tr><td>Arabic No</td><td>1365.07</td></tr><tr><td>Reference</td><td>Book 32 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4665</td></tr><tr><td>Arabic No</td><td>1365.07</td></tr><tr><td>Reference</td><td>Book 32 Hadith 147</td></tr></tbody></table></div>
 

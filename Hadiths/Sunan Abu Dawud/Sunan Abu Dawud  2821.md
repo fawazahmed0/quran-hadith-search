@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' b. Khadij:I came to the Messenger of Allah (ﷺ) and said: Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Al Ahwash], telah menceritakan kepada kami [Sa'id bin Masruq], dari ['Abayah bin Rifa'ah] dari [ayahnya], dari [kakeknya yaitu Rafi' bin Khadij], ia berkata; aku datang kepada Rasulullah shallallahu 'alaihi wasallam lalu aku katakan; wahai Rasulullah, sesungguhnya kita akan bertemu musuh besok, dan kita tidak memiliki pisau. Bolehkah kami menyembelih menggunakan marwah (batu putih yang dibuat seperti pisau) dan belahan tongkat? Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Percepat dan segeralah, apa yang dapat mengalirkan darah dan telah disebutkan nama Allah, maka makanlah, selama bukan gigi atau kuku dan akan saya ceritakan mengenai hal tersebut; adapun gigi maka itu adalah tulang, adapun kuku maka itu adalah pisau orang-orang Habasyah." Kemudian orang-orang terdepan maju dan cepat-cepat mereka menyembelih kambing, sementara Rasulullah shallallahu 'alaihi wasallam berada di belakang orang-orang. Kemudian mereka meletakkan bejana-bejana mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam melewati bejana-bejana tersebut dan memerintahkan untuk dipenuhi dan beliau membagikan daging tersebut diantara mereka. Beliau menyetarakan satu ekor unta sama dengan sepuluh kambing. Kemudian salah satu unta orang-orang tersebut kabur, dan mereka tidak membawa kuda. Kemudian seseorang memanahnya dan Allah menghentikannya. Lalu Nabi shallallahu 'alaihi wasallam berkata: "Sesungguhnya hewan-hewan ternak ini memiliki hewan-hewan yang menjadi liar seperti liarnya hewan yang liar, apa yang dilakukan orang ini terhadapnya (unta yang kabur tersebut), maka lakukanlah seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5498) Sahih Muslim (1968)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2821</td></tr><tr><td>Arabic No</td><td>2821</td></tr><tr><td>Reference</td><td>Book 16 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Рафи‘а ибн Хадиджа, да будет доволен им Аллах: «Я пришёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха! Поистине, мы опасаемся, что завтра здесь будет враг, а у нас нет ножей, так можно ли нам резать скот кремниевыми камнями и острыми палками?” Посланник Аллаха ﷺ сказал: “Используйте (или: быстро используйте) всё, с помощью чего можно выпустить кровь, и ешьте то, над чем было произнесено имя Аллаха, но не закалывайте животных клыками и когтями, и я скажу вам почему. Что касается зубов, то это кости. Что же касается когтей, то они используются как ножи эфиопами (, которые были неверующими)”. Потом те, кто двигался впереди, захватили верблюдов и овец. Пророк ﷺ находился позади людей, которые поспешили, стали закалывать животных и ставить котлы на огонь (, потому что их мучил голод). Через некоторое время он подошёл к ним, велел опрокинуть котлы и стал делить добычу, приравняв десять овец к одному верблюду. При этом один верблюд убежал, и люди гонялись за ним, пока не лишились сил, так как в то время лошадей у них не было. В конце концов один из них пустил в этого верблюда стрелу, и так Аллах остановил его. Потом Посланник Аллаха ﷺ сказал: “Поистине, некоторые из этих животных одичали и стали подобны диким зверям, и если с одним из них произойдёт это, то поступайте с ним так же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5498) Sahih Muslim (1968)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2821</td></tr><tr><td>Arabic No</td><td>2821</td></tr><tr><td>Reference</td><td>Book 16 Hadith 34</td></tr></tbody></table></div>
 

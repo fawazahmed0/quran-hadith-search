@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:A person came to the Messenger of Allah (ﷺ) and said: Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala'] telah menceritakan kepada kami [Khalid] -yaitu Ibnu Makhlad- telah menceritakan kepada kami [Muhammad bin Ja'far] dari [al-Ala' bin Abdurrahman] dari [bapaknya] dari [Abu Hurairah] dia berkata, "Seorang laki-laki mendatangi Rasulullah shallallahu 'alaihi wasallam seraya berkata, 'Wahai Rasulullah, bagaimana pendapatmu jika ada seorang lelaki yang ingin merampas harta bendaku? ' Beliau menjawab: 'Jangan kamu berikan hartamu kepadanya! ' Laki-laki itu bertanya lagi, 'Lalu bagaimana jika dia hendak membunuhku? ' Beliau menjawab: 'Bunuhlah dia! ' Laki-laki itu bertanya lagi, 'Lalu bagaimana pendapatmu kalau dia berhasil membunuhku? ' Beliau menjawab: 'Maka kamu syahid'. Dia bertanya lagi, 'Bagaimana pendapatmu jika aku yang berhasil membunuhnya? ' Beliau menjawab: 'Dia yang akan masuk ke dalam api neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>360</td></tr><tr><td>Arabic No</td><td>140</td></tr><tr><td>Reference</td><td>Book 1 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) один человек пришёл к Посланнику Аллаха ﷺ и спросил: “О Посланник Аллаха, скажи, (что я должен делать), если (ко мне) явится человек, желающий отобрать моё имущество?” (Пророк ﷺ) сказал: “Не отдавай ему своё имущество”. (Этот человек) спросил: “А если он (нападёт) на меня?” (Пророк ﷺ) сказал: “Сразись с ним”. (Человек) спросил: “Скажи, а если он убьёт меня?” (Пророк ﷺ) сказал: “Тогда ты (станешь) шахидом”. (Человек) спросил: “А если я убью его?” (Пророк ﷺ) сказал: “Тогда он (окажется) в Огне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>360</td></tr><tr><td>Arabic No</td><td>140</td></tr><tr><td>Reference</td><td>Book 1 Hadith 267</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard Allah's Messenger (ﷺ) (p.b.u.h) while he was on the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata; Aku mendengar Nabi Shallallahu'alaihiwasallam. Dan telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhua] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda ketika berada di atas mimbar, diantaranya Beliau menyebut tentang shadaqah dan masalah tangan yang diatas lebih baik dari pada tangan yang di bawah. Tangan yang diatas adalah yang memberi (mengeluarkan infaq) sedangkan tangan yang di bawah adalah yang meminta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1429</td></tr><tr><td>Arabic No</td><td>1429</td></tr><tr><td>Reference</td><td>Book 24 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Однажды Посланник Аллаха ﷺ (произносивший проповедь) с минбара, упомянул о милостыне, стремлении к воздержанию и нищенстве и сказал: “Высшая рука лучше руки низшей. Высшая рука — это рука расходующего, а низшая — рука просящего”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1429</td></tr><tr><td>Arabic No</td><td>1429</td></tr><tr><td>Reference</td><td>Book 24 Hadith 32</td></tr></tbody></table></div>
 

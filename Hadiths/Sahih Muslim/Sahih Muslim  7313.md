@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The Last Hour would not c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Kiamat tidak terjadi hingga kaum muslimin memerangi Turki, kaum dengan wajah seperti perisai ditambal, mereka berbaju rambut dan berjalan mengenakan rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7313</td></tr><tr><td>Arabic No</td><td>2912.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7313</td></tr><tr><td>Arabic No</td><td>2912.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 79</td></tr></tbody></table></div>
 

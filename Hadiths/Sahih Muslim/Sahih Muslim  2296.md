@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah al-Ansari reported Allah's Messenger (ﷺ) as saying:The owne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdurrazaq] -dalam jalur lain- Dan telah menceritakan kepadaku [Muhammad bin Rafi'] -lafazh miliknya- Telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah Al Anshari] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang pemilik unta yang tidak menunaikan haknya, kecuali ia akan datang pada hari kiamat dengan jumlah yang banyak, lalu dia ditelakkan pada suatu tanah datar, kemudian ternak itu menginjak-injaknya dengan kukunya. Dan tidak pula pemilik sapi yang tidak menunaikan haknya, kecuali sapi itu akan datang pada hari kiamat dengan jumlah yang banyak, lalu dia diletakkan pada tanah datar kemudian sapi-sapi itu menanduknya dengan tanduk-tanduknya dan menginjaknya dengan kuku-kukunya. Dan tidaklah seorang pemilik kambing yang tidak menunaikan haknya, kecuali kambing itu akan datang pada hari kiamat dengan jumlah yang banyak, lalu ia pun diletakkan pada suatu tanah datar, dan kambing-kambing itu pun menanduknya dan menginjaknya dengan kuku-kukunya. Di antara binatang ternak itu tidak ada yang tidak bertanduk dan tidak pula patah tanduknya. Tidak seorang pun pemilik harta benda yang tidak membayar zakatnya, melainkan hartanya itu berubah menjadi ular besar dan berbisa, yang mengikuti pemiliknya ke mana saja ia pergi, sedangkan dia sendiri selalu lari dari ular itu. Lalu dikatakanlah kepadanya: 'Ambillah hartamu ini yang kamu simpan, sesungguhnya Aku Maha Kaya darinya.' Setelah dia tahu bahwa dia tidak dapat lari dari ular itu, maka dimasukkannya tangannya ke mulut ular itu, lalu ular itu menggigitnya seperti hewan jantan menggigit." [Abu Zubair] berkata; Saya mendengar [Ubaid bin Umair] mengatakan ungkapan ini. kemudian kami bertanya kepada Jabir bin Abdullah tentang hal itu, maka ia pun mengatakan sebagaimana apa yang dikatakan oleh Ubaid bin Umair. [Abu Zubair] berkata; saya mendengar [Ubaid bin Umair] berkata; Seorang laki-laki berkata; "Wahai Rasulullah, apakah hak unta itu?" beliau menjawab: "Yaitu membawanya ke air (untuk minum), memperternakkan betinanya, membibitkan jantannya, memerah susunya dan mempergunakannya di jalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2296</td></tr><tr><td>Arabic No</td><td>988.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдиллях аль-Ансари рассказывал о том, что Посланник Аллаха ﷺ сказал: «Если владелец верблюдов не будет отдавать с них должного, то в День воскресения эти верблюды явятся (к нему) в ещё большем количестве. Этот человек сядет перед ними на широкой равнине, и они пробегут (по нему), (топча) его своими ногами. Если владелец коров не будет отдавать с них должного, то в День воскресения эти коровы явятся (к нему) в ещё большем количестве. Этот человек сядет перед ними на широкой равнине, и они начнут бодать его своими рогами и топтать его своими ногами. Если владелец овец не будет отдавать с них должного, то в День воскресения эти овцы явятся (к нему) в ещё большем количестве. Этот человек сядет перед ними на широкой равнине, и они начнут бодать его своими рогами и топтать его своими копытами. Среди них не окажется ни безрогих, ни животных с поломанными рогами. Если владелец сокровищ не будет отдавать с них должного, то в День воскресения его сокровище явится в образе плешивой змеи, которая будет следовать за ним с открытым ртом. Когда она будет подходить к нему, он начнёт убегать, а она будет громко взывать: “Возьми сокровище, которое ты приобрел, ибо я не нуждаюсь в нём”. Когда же человек поймёт, что ему придётся взять своё сокровище, он засунет свою руку в рот этой змеи и она откусит её так, как кусает самец (верблюда)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2296</td></tr><tr><td>Arabic No</td><td>988.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 33</td></tr></tbody></table></div>
 

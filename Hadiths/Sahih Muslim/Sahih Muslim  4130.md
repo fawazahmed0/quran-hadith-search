@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya bacakan di hadapan [Malik]; dari [Ibnu Syihab] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang dari kalian melarang tetangganya menyandarkan papan kayu di temboknya." Al A'raj berkata, "Lalu Abu Hurairah berkata, "Kenapa aku lihat kalian berpaling dari permasalahan ini? Demi Allah, saya akan melemparkannya di antara pundak-pundak kalian." Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Sufyan bin 'Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] semuanya dari [Az Zuhri] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4130</td></tr><tr><td>Arabic No</td><td>1609.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не препятствуйте своему соседу забить доску на его стену [то есть пристроить ­что-нибудь со своей стороны к уже готовому общему забору или стене]». Затем Абу Хурайра сказал: «Что с вами? Я вижу, что вы отворачиваетесь [от этой Сунны или вам не нравится этот хадис]? Клянусь Аллахом, я брошу её [Сунну или, по мнению других, доску, которую они запрещали забить] между вашими плечами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4130</td></tr><tr><td>Arabic No</td><td>1609.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 169</td></tr></tbody></table></div>
 

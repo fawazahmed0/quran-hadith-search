@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Messenger of Allah (ﷺ) listened to the recitation of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abdah] dan [Abu Mu'awiyah] dari [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam mendengar bacaan seorang laki-laki di Masjid, maka beliau pun bersabda: "Semoga Allah memberinya rahmat. Dia telah mengingatkanku akan suatu ayat, yang aku telah dilupakan daripadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1838</td></tr><tr><td>Arabic No</td><td>788.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 266</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «(Однажды) Пророк ﷺ слушал, как какой-то человек читает (Коран) в мечети, и сказал: “Да помилует его Аллах! Он напомнил мне аят, который меня заставили забыть”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1838</td></tr><tr><td>Arabic No</td><td>788.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 266</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said, "Seventy-thousand or seven-hundre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Abu Ghassan] mengatakan, telah menceritakan kepadaku [Abu Hazim] dari [Sahal bin Sa'd] mengatakan; Nabi Shallallahu'alaihiwasallam bersabda: "Diantara umatku ada tujuh puluh ribu orang" atau "tujuh ratus ribu orang -Sahal ragu kepastiannya-"masuk surga dengan tanpa hisab, mereka saling berhimpitan, satu sama lain saling bergandengan, dari yang pertama-tama hingga yang terakhir masuk surga, wajah mereka bercahaya bulan di malam purnama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6543</td></tr><tr><td>Arabic No</td><td>6543</td></tr><tr><td>Reference</td><td>Book 81 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да, что Пророк ﷺ сказал: «Войдёт в Рай из моей общины семьдесят тысяч (или семьсот тысяч) держась друг за друга, и не войдут первые из них пока не войдут последние. Их лица будут подобны луне в ночь полнолуния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6543</td></tr><tr><td>Arabic No</td><td>6543</td></tr><tr><td>Reference</td><td>Book 81 Hadith 132</td></tr></tbody></table></div>
 

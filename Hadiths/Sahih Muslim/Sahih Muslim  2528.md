@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Kuraib reported that Umm Fadl, daughter of Harith, sent him (Fadl, i.e. her son)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] -Yahya bin Yahya berakata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- telah menceritakan kepada kami [Isma'il, yakni anak Ja'far] dari [Muhammad bin Abu Harmalah] dari [Kuraib] bahwasanya; Ummul Fadhl binti Al Harits mengutusnya menghadap Mu'awiyah di Syam. Kuraib berkata; Aku pun datang ke Syam dan menyampaikan keperluannya kepadanya. Ketika itu aku melihat hilal awal Ramadhan pada saat masih berada di Syam, aku melihatnya pada malam Jum'at. Kemudian aku sampai di Madinah pada akhir bulan. Maka [Abdullah bin Abbas] bertanya kepadaku tentang hilal, ia bertanya, "Kapan kalian melihatnya?" Aku menjawab, "Kami melihatnya pada malam Jum'at." Ia bertanya lagi, "Apakah kamu yang melihatnya?" Aku menjawab, "Ya, orang-orang juga melihatnya sehingga mereka mulai melaksanakan puasa begitu juga Mu'awiyah." Ibnu Abbas berkata, "Akan tetapi kami melihatnya pada malam Sabtu. Dan kamipun sekarang masih berpuasa untuk menggenapkannya menjadi tiga puluh hari atau hingga kami melihat hilal." Aku pun bertanya, "Tidakkah cukup bagimu untuk mengikuti ru'yah Mu'awiyah dan puasanya?" Ia menjawab, "Tidak, beginilah Rasulullah shallallahu 'alaihi wasallam memerintahkan kepada kami." Dalam lafazh "NAKTAFI" (tidak cukupkah bagi kami?) atau "TAKTAFI" (tidak cukupkah bagimu?), Yahya bin Yahya agak ragu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>1087</td></tr><tr><td>Reference</td><td>Book 13 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>1087</td></tr><tr><td>Reference</td><td>Book 13 Hadith 34</td></tr></tbody></table></div>
 

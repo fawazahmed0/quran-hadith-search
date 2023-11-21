@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yusuf bin Mahak:Marwan had been appointed as the governor of Hijaz by M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] Telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Yusuf bin Mahik] dia berkata; Mu'awiyah mengangkat Marwan untuk pemimpin di Hijaz. Lalu Marwan menyebut-nyebut kebaikan Yazid bin Mu'wiyah agar ia dibai'at setelah bapaknya. Kemudian Abdurrahman bin Abu Bakr berkata sesuatu kepadanya yang membuat ia marah. Maka Marwan berkata; Tangkaplah ia. Abdurrahman pun masuk ke rumah Aisyah hingga mereka tidak mampu menangkapnya. Marwan berkata; Rumah ini adalah rumah yang di dalamnya Allah menurunkan ayat: Dan orang yang berkata kepada dua orang ibu bapaknya: "Cis bagi kamu keduanya, apakah kamu keduanya memperingatkan kepadaku bahwa aku akan dibangkitkan, padahal sungguh telah berlalu beberapa umat sebelumku?, (Al Ahqaf: 17). Maka [Aisyah] pun berkata dibalik tabir; Allah tidak menurunkan sesuatu pun dari Al Qur'an kepada kami, kecuali Dia hanya menurunkan tentang udzurku (pembebasanku) mengenai berita bohong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827</td></tr><tr><td>Arabic No</td><td>4827</td></tr><tr><td>Reference</td><td>Book 65 Hadith 349</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Юсуф ибн Махак сказал: «Когда Му‘авия назначил Марвана своим наместником в Хиджазе, он (Марван) выступил с речью, в которой упомянул Язида ибн Му‘авию и призвал людей дать ему клятву верности после его отца. ‘Абдуррахман ибн Аби Бакр сказал ему что-то (в ответ), на что Марван приказал своим людям арестовать его. Однако он вошел в дом ‘Аиши, и они не смогли схватить его. Марван сказал: “Это о нём Аллах ниспослал: “А есть такой, который говорит своим родителям: “Тьфу вам! Неужели вы угрожаете мне)!””. На что ‘Аиша ответила из-за занавеса: “Аллах ничего не ниспослал о нас в Коране, кроме аятов о моей невиновности”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827</td></tr><tr><td>Arabic No</td><td>4827</td></tr><tr><td>Reference</td><td>Book 65 Hadith 349</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:I visited the Prophet (ﷺ) while he was having a high fever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abdul Aziz bin Muslim] telah menceritakan kepada kami [Sulaiman] dari [Ibrahim Attaimi] dari [Al Harits bin Suwaid] dari [Ibnu Mas'ud] radliallahu 'anhu mengatakan; "Aku menemui Nabi shallallahu 'alaihi wasallam ketika beliau sedang menderita demam yang sangat berat, lantas kupegang dengan tanganku. Aku berujar; 'Sepertinya engkau terkena sakit dan demam yang sedemikian serius'. Beliau menjawab: "Benar, rasa sakit yang menimpaku ini sama seperti rasa sakit yang menimpa dua orang dari kalian." Aku berujar; "Oh, kalau begitu anda mendapatkan pahala dua kali lipat?! Jawab beliau: 'Engkau benar, tidaklah seorang muslim terkena gangguan, baik itu sakit atau lainnya, melainkan Allah akan menghapus kesalahan-kesalahannya karena sakitnya sebagaimana pohon mengugurkan daunnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 75 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас’уд, да будет доволен им Аллах, сказал: «(Однажды) я зашёл к Пророку ﷺ, когда он болел лихорадкой. Я прикоснулся к нему своей рукой и сказал: “О Посланник Аллаха, какая у тебя сильная лихорадка!” На что Посланник Аллаха ﷺ сказал: “Да, и, поистине, болею я подобно (сразу) двоим из вас!” Я спросил: “Это потому, что тебе предназначена двойная награда?” Он ответил: “Да. Если кого-либо из мусульман постигает болезнь или что-то, доставляющее ему страдания, Аллах непременно удаляет этим его прегрешения подобно тому, как дерево сбрасывает свои листья”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 75 Hadith 27</td></tr></tbody></table></div>
 

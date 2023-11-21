@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Musaddad's version
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Musaddad] secara makna, keduanya berkata; telah menceritakan kepada kami [Hammad] dari [Khalid] dari [Al Qasim bin Rabi'ah] dari [Uqbah bin Aus] dari [Abdullah bin Amru] bahwa Rasulullah shallallahu 'alaihi wasallam -Musaddad menyebutkan 'berkhutbah saat hari pembukaan (penaklukan) kota Makkah- lalu keduanya sepakat pada lafadz, lalu beliau mengatakan: "Ketahuilah, setiap peninggalan masa Jahilliyah, baik itu yang diperoleh karena diyat pembunuhan atau pencurian, maka semua itu ada di bawah kakiku (bathil), kecuali apa-apa yang dihasilkan dari usaha memberi minum jamaah haji dan pengabdian kepada ka'bah." Kemudian beliau meneruskan: "Ketahuilah, sesungguhnya diyat pembunuhan semi sengaja, yang dilakukan dengan cambuk atau tongkat adalah seratus unta, yang di antaranya terdiri dari empat puluh unta yang sedang hamil." Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] dari [Khalid] dengan sanad dan makna ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 41 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал (или: сказал, произнося речь в день покорения Мекки): «Поистине, всё, что служило предметом хвастовства и поводом для высокомерия во времена невежества, будь то пролитая кровь или имущество, у меня под ногами, за исключением поения паломников и служения Дому». Далее (Посланник Аллаха ﷺ) сказал: «Поистине, компенсация /дийа/ за неумышленное убийство, похожее на умышленное, совершённое палкой или кнутом, сто верблюдов, причём сорок верблюдиц должны быть беременными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 41 Hadith 95</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: If only one day of this wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] bahwa [Umar bin Ubaid] menceritakan kepada mereka. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al 'Ala] berkata, telah menceritakan kepada kami [Abu Bakr] -maksudnya Abu Bakar bin 'Ayyasy-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepada kami [Ubaidullah bin Musa] berkata, telah mengabarkan kepada kami [Zaidah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepadaku [Ubaidullah bin Musa] dari [Fithr] dengan makna hadits yang sama. Dan semuanya dari [Ashim] dari [Zir] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sekiranya dunia ini tidak tersisa kecuali hanya sehari, Zaidah menyebutkan dalam haditsnya, "maka Allah akan memanjangkan hari itu, " kemudian mereka bersepakat -dalam menyebutkan lafadz- hingga Allah mengutus seorang laki-laki dariku, atau dari keluargaku; namanya mirip dengan namaku, dan nama bapaknya juga mirip dengan nama bapakku. Dalam hadits Fithr ditambahkan, "Ia akan memenuhi bumi dengan keadilan, sebagaimana kezhaliman dan kelaliman pernah memenuhinya." Dalam hadits riwayat Sufyan beliau mengatakan: "(Dunia) tidak akan pergi, atau tidak akan hancur hingga seorang laki-laki dari ahli baitku menguasai Arab; namanya seperti namanku." Abu Daud berkata; "lafadz hadits Umar dan Abu Bakar semakna dengan lafadz Abu Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4282</td></tr><tr><td>Arabic No</td><td>4282</td></tr><tr><td>Reference</td><td>Book 38 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха (ибн Мас‘уда), да будет доволен им Аллах, что Пророк ﷺ сказал: «Если бы осталось миру существовать всего один день, Аллах продлил бы этот день, чтобы послать в него человека из моего потомства (или из людей дома моего). Имя его будет совпадать с моим именем, а имя его отца будет совпадать с именем моего отца (, то есть его будут звать Мухаммад ибн ‘Абдуллах). Он наполнит землю справедливостью после того, как наполнилась она притеснением и несправедливостью». А в версии Суфьяна (ас-Саури) говорится: «Не исчезнет мир этот до тех пор, пока не станет предводителем арабов человек из моей семьи, имя которого будет совпадать с моим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4282</td></tr><tr><td>Arabic No</td><td>4282</td></tr><tr><td>Reference</td><td>Book 38 Hadith 4</td></tr></tbody></table></div>
 

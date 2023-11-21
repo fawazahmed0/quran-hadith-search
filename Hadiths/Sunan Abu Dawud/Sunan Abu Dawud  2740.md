@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mus’ab bin Sa’d reported on the authority of his father (Sa’ad bin Abi Waq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] dari [Abu Bakr] dari ['Ashim] dari [Mush'ab bin Sa'd] dari [ayahnya], ia berkata; aku datang kepada Nabi shallallahu 'alaihi wasallam pada saat perang Badr dengan membawa sebuah pedang. Lalu aku katakan; wahai Rasulullah, sesungguhnya pada hari ini Allah telah mengobati dadaku dari musuh. Maka berikanlah pedang ini kepadaku. Beliau berkata: "Sesungguhnya pedang ini bukan milikku dan bukan milikmu." Kemudian aku pergi dan aku katakan; pada hari ini pedang itu akan diberikan kepada orang yang tidak mendapatkan musibah seperti musibahku. Ketika aku dalam keadaan seperti itu, tiba-tiba seorang utusan datang kepadaku lalu berkata; sambutlah panggilan beliau! Lalu aku menyangka bahwa telah turun sesuatu mengenaiku karena ucapanku. Lalu aku datang dan Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Sesungguhnya engkau telah meminta pedang ini kepadaku, dan pedang tersebut bukanlah milikku dan bukan milikmu. Dan sesungguhnya Allah telah memberikannya kepadaku. Pedang tersebut untukmu." Kemudian beliau membacakan ayat: "Mereka menanyakan kepadamu tentang (pembagian) harta rampasan perang. Katakanlah: "Harta rampasan perang kepunyaan Allah dan Rasul….." hingga akhir ayat. Abu Daud berkata; sedangkan qira'ah (cara membaca) Ibnu Mas'ud adalah; YAS-ALUUNAKAN NAFLA
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1748)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2740</td></tr><tr><td>Arabic No</td><td>2740</td></tr><tr><td>Reference</td><td>Book 15 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1748)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2740</td></tr><tr><td>Arabic No</td><td>2740</td></tr><tr><td>Reference</td><td>Book 15 Hadith 264</td></tr></tbody></table></div>
 

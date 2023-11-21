@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I said, "O Allah's Messenger (ﷺ)! A virgin feels shy." He said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ar Rabi' bin Thariq] ia berkata; Telah mengabarkan kepada kami [Al Laits] dari [Ibnu Abu Mulaikah] dari [Abu Amru] bekas budak Aisyah, dari [Aisyah] bahwa ia berkata, "Wahai Rasulullah, sesungguhnya seorang gadis itu pemalu." Beliau pun bersabda: "Keridla'annya adalah diamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5137</td></tr><tr><td>Arabic No</td><td>5137</td></tr><tr><td>Reference</td><td>Book 67 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) ‘Аиша, да будет доволен ею Аллах, сказала (Пророку ﷺ): «О Посланник Аллаха, поистине, девственница стыдится». (В ответ ей) он сказал: «Её согласие (выражается в) её молчании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5137</td></tr><tr><td>Arabic No</td><td>5137</td></tr><tr><td>Reference</td><td>Book 67 Hadith 73</td></tr></tbody></table></div>
 

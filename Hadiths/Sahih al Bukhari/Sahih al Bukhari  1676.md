@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:'Abdullah bin 'Umar used to send the weak among his family early 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab], [Salim] berkata; " ['Abdullah bin 'Umar radliallahu 'anhua] mendahulukan orang-orang yang lemah dari keluarganya lalu mereka berdiam (wuquf) di Al Masy'aril Haram di Muzdalifah pada malam hari. Disana mereka berdzikir (mengingat) semampu mereka kemudian mereka kembali sebelum imam berhenti (wuquf) dan sebelum bertolak. Diantara mereka ada yang menuju Mina untuk shalat Shubuh disana dan diantara mereka ada yang menuju kesana setelah shalat Shubuh. Jika mereka sudah sampai, mereka melempar jumrah. Kemudian Ibnu'Umar radliallahu 'anhuma berkata: "Rasulullah Shallallahu'alaihiwasallam telah memberi keringanan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1676</td></tr><tr><td>Arabic No</td><td>1676</td></tr><tr><td>Reference</td><td>Book 25 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим рассказывал: «‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, отправлял пораньше слабых (женщин, детей и пожилых) своей семьи из Муздалифы в Мину. Они стояли ночью на аль-Маш‘ар аль-Харам в Муздалифе, и поминали Аллаха столько, сколько считали нужным, затем отправлялись в Мину до того, как имам начнет стоять (на аль-Маш‘ар аль-Харам) и отправляться (в Мину). Таким образом некоторые из них достигали Мины во время утренней молитвы, а некоторые позже. Достигнув Мины, они бросали камешки в Джамарат. Ибн ‘Умар говорил: “Посланник Аллаха ﷺ разрешил им поступать так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1676</td></tr><tr><td>Arabic No</td><td>1676</td></tr><tr><td>Reference</td><td>Book 25 Hadith 156</td></tr></tbody></table></div>
 

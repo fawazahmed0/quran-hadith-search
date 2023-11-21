@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu sa’id al-khudri reported the Messenger of Allah (May peace be upon him) as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala'] dan [Ibrahim bin Musa Ar razi] keduanya berkata; telah mengabarkan kepada kami [Abu Usamah] dari [Umar] -Ibrahim berkata; dia adalah Umar bin Hamzah bin Abdullah Al umari- dari ['Abdurrahman bin Sa'd] ia berkata, "Aku mendengar [Abu Sa'id Al Khudri] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebesar-besar amanah di sisi Allah pada hari kiamat adalah seorang laki-laki yang bersetubuh dengan isterinya, kemudian ia menyebarkan rahasianya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1437)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 43 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1437)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 43 Hadith 98</td></tr></tbody></table></div>
 

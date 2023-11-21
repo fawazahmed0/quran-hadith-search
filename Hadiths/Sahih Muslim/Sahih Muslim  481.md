@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira that there was placed before the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>194.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 387</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Перед Посланником Аллаха ﷺ поставили блюдо с саридом и мясом, и он взял верхнюю часть бараньей ноги а он больше всего любил именно её, откусил от неё кусочек и сказал: “Я буду господином людей в Судный день”. Потом снова откусил от неё кусочек и сказал: “Я буду господином людей в Судный день”. Увидев, что его сподвижники ни о чём не спрашивают, он сказал: “Вы не спрашиваете, как?” Тогда они спросили: “Как, о Посланник Аллаха?” Он сказал: “Люди предстанут пред Господом миров…”. Далее следует хадис, очень похожий на приведённый выше, только к истории Ибрахима добавлено: «И он упомянет о том, как он сказал о звезде: “Это мой Господь!” (Сура «аль-Ан’ам», аят 76) и его слова о разрушении их идолов: “Это сделал их старший!” (Сура «аль-Анбия», аят 63) и его слова: “Поистине, я болен” (Сура «ас-Саффат», аят 89). Клянусь тем, в Чьей длани душа Мухаммада, Поистине, между каждыми двумя створками райских врат, от косяка до косяка, такое же расстояние, как между Меккой и Хаджаром (или между Хаджаром и Меккой)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>194.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 387</td></tr></tbody></table></div>
 

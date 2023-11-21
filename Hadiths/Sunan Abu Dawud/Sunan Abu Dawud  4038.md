@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd: I saw a man riding on a white mule and he had a black turban of s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Muhammad Al Anmathi Al Bashari] berkata, telah menceritakan kepada kami ['Abdurrahman bin Abdullah Ar Razi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin 'Abdurrahman Ar Razi] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah mengabarkan kepadaku bapakku [Abdullah bin Sa'd] dari bapaknya [Sa'd] ia berkata, "Di Bukhara aku melihat [seorang laki-laki] di atas bighal putih mengenakan imamah (semacam surban yang lilitkan pada kepala) hitam bersulam sutera, laki-laki itu lantas berkata, "Rasulullah shallallahu 'alaihi wasallam mengenakanku imamah ini." Ini adalah lafadz Utsman dalam haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ‘Абдуллах ибн Са‘д передаёт от своего отца Са‘да: «В Бухаре я видел человека на белой мулице, на котором была чёрная чалма из шерстяной ткани с примесью шёлка, и он сказал: “Её надел на меня Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
 

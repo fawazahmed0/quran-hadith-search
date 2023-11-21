@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) having said:Hasten to do good deeds
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub], [Qutaibah bin Sa'id] dan [Ibnu Hujr] mereka berkata: Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Al Ala'] dari [ayahnya] dari [Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Segeralah beramal sebelum (munculnya) enam (hal): terbitnya matahari dari barat, kabut, Dajjal, binatang, kekhususan salah seorang dari kalian (kematian) atau urusan umum (kiamat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7397</td></tr><tr><td>Arabic No</td><td>2947.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7397</td></tr><tr><td>Arabic No</td><td>2947.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 158</td></tr></tbody></table></div>
 

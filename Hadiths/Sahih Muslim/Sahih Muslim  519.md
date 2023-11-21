@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. 'As reported:I heard it from the Messenger of Allah (ﷺ) quite audibly a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Hambal] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ismail bin Abu Khalid] dari [Qais] dari [Amru bin al-'Ash] dia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda dengan terang-terangan: 'Sesungguhnya keluarga ayahku, yaitu Si Fulan, bukanlah sebagai wali bagiku, para waliku adalah Allah dan orang-orang Mukmin yang shalih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>519</td></tr><tr><td>Arabic No</td><td>215</td></tr><tr><td>Reference</td><td>Book 1 Hadith 425</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>519</td></tr><tr><td>Arabic No</td><td>215</td></tr><tr><td>Reference</td><td>Book 1 Hadith 425</td></tr></tbody></table></div>
 

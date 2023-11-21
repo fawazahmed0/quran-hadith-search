@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "(On the Day of Resurrection) camel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Nafi'] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] bahwa ['Adur Rahman bin Hurmuz Al A'raj] menceritakan kepadanya bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata; Telah bersabda Nabi Shallallahu'alaihiwasallam: "(Pada hari qiyamat nanti) akan datang seekor unta dalam bentuknya yang paling baik kepada pemiliknya yang ketika di dunia dia tidak menunaikan haknya (zakatnya). Maka unta itu akan menginjak-injaknya dengan kakinya. Begitu juga akan datang seekor kambing dalam bentuknya yang paling baik kepada pemiliknya yang ketika di dunia dia tidak menunaikan haknya (zakatnya). Maka kambing itu akan menginjak-injaknya dengan kakinya dan menyeruduknya dengan tanduknya". Dan Beliau berkata,: "Dan diantara haknya adalah memerah air susunya (lalu diberikan kepada faqir miskin) ". Beliau Shallallahu'alaihiwasallam melanjutkan: "Dan pada hari qiyamat tidak seorangpun dari kalian yang datang membawa seekor kambing di pundaknya kecuali kambing tersebut terus bersuara, lalu orang itu berkata,: "Wahai Muhammad!". Maka aku menjawab: "Aku sedikitpun tidak punya kekuasaan atasmu karena aku dahulu sudah menyampaikan (masalah zakat ini). Dan tidak seorangpun dari kalian yang datang membawa seekor unta di pundaknya kecuali unta tersebut terus bersuara, lalu orang itu berkata,: "Wahai Muhammad!". Maka aku berkata: "Aku sedikitpun tidak punya kekuasaan atasmu karena aku dahulu sudah menyampaikan (masalah zakat ini)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1402</td></tr><tr><td>Arabic No</td><td>1402</td></tr><tr><td>Reference</td><td>Book 24 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(В День воскресения) верблюды придут к своему хозяину в наилучшем виде, который они имели (в этом мире), и если он не отдавал с них должного, они станут топтать его своими ногами, и овцы придут к своему хозяину в наилучшем виде, который они имели (в этом мире), и если он не отдавал с них должного, они станут топтать его своими копытами и бодать своими рогами». (Пророк ﷺ также) сказал: «И они имеют право на то, чтобы во время доения перед ними была вода». (Пророк ﷺ также) сказал: «И пусть в День воскресения никто из вас не является ко мне с блеющей овцой на шее и не говорит: “О Мухаммад!” — ибо я скажу: “У меня ничего для тебя нет, ведь я довёл (до твоего сведения послание Аллаха)!” И пусть никто не является ко мне с ревущим верблюдом на шее и не говорит: “О Мухаммад!” — ибо я скажу: “У меня ничего для тебя нет, ведь я довёл (до твоего сведения послание Аллаха)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1402</td></tr><tr><td>Arabic No</td><td>1402</td></tr><tr><td>Reference</td><td>Book 24 Hadith 7</td></tr></tbody></table></div>
 

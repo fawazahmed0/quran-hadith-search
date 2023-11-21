@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:Allah's Messenger (ﷺ) went out to answer the ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami ['Abdul Wahid] telah bercerita kepada kami [Al A'masy] dari [Abu Adh Dhuhaa Muslim, dia adalah putra Shubaih] dari [Masruq] berkata telah bercerita kepadaku [Al Mughirah bin Syu'bah] berkata: Rasulullah shallallahu 'alaihi wasallam pergi untuk menunaikan hajat kemudian kembali lalu aku temui Beliau dengan membawakan air kemudian Beliau berwudhu'. Saat itu Beliau membawa baju jubah yang lebar (yang gunakan untuk menutup dirinya). Maka Beliau berkumur, memasukkan air ke hidung lalu mencuci muka. Kemudian Beliau berusaha mengeluarkan tangannya dari lubang lengan jubahnya, tapi terlalu sempit. Lalu Beliau mengeluarkan tangannya lewat bawah jubahnya, lalu Beliau membasuh kedua lengannya dan mengusap kepala serta sepatunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2918</td></tr><tr><td>Arabic No</td><td>2918</td></tr><tr><td>Reference</td><td>Book 56 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира ибн Шу‘ба сказал: «Как-то раз Посланник Аллаха ﷺ вышел, чтобы справить нужду. Затем, когда он вернулся, я ждал его с водой. Он совершил омовение, будучи одетым в джуббу из Шама. Сполоснув рот и нос и омыв лицо, он хотел вынуть руки из её рукавов, но оказалось, что они слишком узки, тогда он продел руки снизу, помыл их и протёр (влажными руками) голову и кожаные носки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2918</td></tr><tr><td>Arabic No</td><td>2918</td></tr><tr><td>Reference</td><td>Book 56 Hadith 131</td></tr></tbody></table></div>
 

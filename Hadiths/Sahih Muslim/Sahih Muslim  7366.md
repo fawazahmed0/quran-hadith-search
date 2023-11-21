@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported that Allah's Messenger (ﷺ) said:Dajjal is blind of left eye 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair], [Muhammad bin Al Ala'] dan [Ishaq bin Ibrahim], berkata Ishaq: Telah mengkhabarkan kepada kami, sementara yang lain berkata: Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari [Hudzaifah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Dajjal, buta mata sebelah kanan, berambut ikal, bersamanya ada surga dan neraka, nerakanya adalah surga dan surganya adalah neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7366</td></tr><tr><td>Arabic No</td><td>2934.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа (ибн аль-Яман) сказал: «Посланник Аллаха ﷺ сказал: “У Даджаля не будет левого глаза, он будет волосатым и будут у него Рай и Огонь, но Огонь его (окажется) Раем, а Рай Огнём”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7366</td></tr><tr><td>Arabic No</td><td>2934.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 128</td></tr></tbody></table></div>
 

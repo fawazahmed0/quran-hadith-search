@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:Anas bin Malik said, "The Prophet (ﷺ) and Zaid bin Thabit took
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Shabbah] telah mendengar [Rauh bin 'Ubadah] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas bin Malik], bahwa Nabi shallallahu 'alaihi wasallam dan Zaid bin Tsabit makan sahur bersama. Setelah keduanya selesai makan sahur, beliau lalu bangkit melaksanakan shalat." Kami bertanya kepada Anas, "Berapa rentang waktu antara selesainya makan sahur hingga keduanya melaksanakan shalat?" Anas bin Malik menjawab, "Kira-kira waktu seseorang membaca lima puluh ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>576</td></tr><tr><td>Arabic No</td><td>576</td></tr><tr><td>Reference</td><td>Book 9 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что (однажды) Пророк ﷺ и Зейд ибн Сабит поели перед рассветом во время рамадана /сухур/, и когда они завершили сухур, Пророк ﷺ встал на молитву и помолился.\n(Передатчик этого хадиса сказал): «Мы спросили Анаса: “А сколько (времени) прошло между завершением их сухура и приступанием к молитве?” Он ответил: “(Время, за которое) человек может прочитать пятьдесят аятов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>576</td></tr><tr><td>Arabic No</td><td>576</td></tr><tr><td>Reference</td><td>Book 9 Hadith 52</td></tr></tbody></table></div>
 

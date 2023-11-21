@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Qais bint Mihsin:I brought my young son, who had not started eating 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] dari [Ummu Qais binti Mihshan], bahwa dia datang menemui Rasulullah shallallahu 'alaihi wasallam dengan membawa anaknya yang masih kecil dan belum makan makanan. Rasulullah lalu mendudukkan anak kecil itu dalam pangkuannya sehingga ia kencing dan mengenai pakaian beliau. Beliau kemudian minta diambilkan air lalu memercikkannya dan tidak mencucinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>223</td></tr><tr><td>Arabic No</td><td>223</td></tr><tr><td>Reference</td><td>Book 4 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Къайс бинт Михсан, да будет доволен ею Аллах, что однажды она пришла к Посланнику Аллаха ﷺ со своим грудным сыном. Посланник Аллаха ﷺ посадил ребёнка себе на колени, а (через некоторое время) он помочился на его одежду, и тогда (Пророк ﷺ) велел принести воды и обрызгал ею это место, не став застирывать его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>223</td></tr><tr><td>Arabic No</td><td>223</td></tr><tr><td>Reference</td><td>Book 4 Hadith 89</td></tr></tbody></table></div>
 

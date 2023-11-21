@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazid reported:Salama sought to say prayer near the pillar which was by that pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakannya kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Makki], berkata [Yazid], telah mengabarkan kepada kami, dia berkata, "Dahulu [Salamah] memilih shalat di sisi menara yang di sisi mushaf (Utsman), lalu aku katakan kepadanya, 'Wahai Abu Muslim, aku melihatmu memilih shalat di sisi menara ini.' Dia menjawab, 'Aku melihat Nabi Shallallahu'alaihiwasallam memilih shalat di sisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1136</td></tr><tr><td>Arabic No</td><td>509.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Язид сказал: «(Обычно) Саляма стремился совершать молитву возле колонны, которая находилась рядом с мусхафом. Я сказал ему: “О Абу Муслим, я вижу, что ты стремишься совершать молитву возле этой колонны”. Он ответил: “Я видел, как Пророк ﷺ стремился совершать молитву возле неё”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1136</td></tr><tr><td>Arabic No</td><td>509.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 298</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said to Gabriel, "What prevents you from v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami ['Umar bin Dzar] dia berkata; Aku mendengar [ayahku] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bertanya kepada Jibril 'Alaihissalam: "Mengapa engkau tidak sering lagi mengunjungiku sebagaimana biasanya?" Lalu turunlah ayat: Dan tidaklah kami (Jibril) turun, kecuali dengan perintah Tuhanmu. kepunyaan-Nyalah apa-apa yang ada di hadapan kita, dan apa-apa yang ada di belakang kita. (Maryam:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>4731</td></tr><tr><td>Reference</td><td>Book 65 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал Джибрилю: «Что мешает тебе посещать нас чаще, чем ты делаешь это?», — и был ниспослан (аят, в котором говорится): «Мы нисходим только по велению твоего Господа. Ему принадлежит то, что перед нами, и то, что позади нас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>4731</td></tr><tr><td>Reference</td><td>Book 65 Hadith 253</td></tr></tbody></table></div>
 

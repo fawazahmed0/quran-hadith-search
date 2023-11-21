@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safiya bint Huyai:The wife of the Prophet (ﷺ) that she went to Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Saudaraku] dari [Sulaiman] dari [Muhammad bin Abu 'Atiq] dari [Ibnu Syihab] dari [Ali bin Al Hasan] bahwa [Shafiyah binti Huyay isteri Nabi] shallallahu 'alaihi wasallam telah mengabarkan kepadanya, bahwa dia pernah datang mengunjungi Rasulullah shallallahu 'alaihi wasallam saat beliau tengah beri'tikaf di Masjid pada sepuluh hari terakhir bulan Ramadlan. Lalu dia berbincang-bincang dengan Nabi hingga menjelang Isya', setelah itu dia beranjak untuk kembali pulang, maka Nabi shallallahu 'alaihi wasallam ikut pergi bersamanya hingga ketika sampai agak jauh dari pintu masjid dan dekat rumah Ummu Salamah, istri Nabi shallallahu 'alaihi wasallam, dua orang laki-laki kaum Anshar lewat dan keduanya memberi salam kepada Rasulullah shallallahu 'alaihi wasallam, kemudian bergegas pergi. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada keduanya: "Kenapa terburu-buru? sesungguhnya dia adalah Shafiyah binti Huyay." Kedua orang itu berkata; "Maha suci Allah, wahai Rasulullah." Maka dengan ucapan dua orang tersebut, beliau jadi tercengang. (sabdanya): "Sesungguhnya syetan masuk kepada manusia lewat aliran darah dan aku khawatir bila syetan telah membisikkan sesuatu dalam hati kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6219</td></tr><tr><td>Arabic No</td><td>6219</td></tr><tr><td>Reference</td><td>Book 78 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов жены Пророка ﷺ Сафиййи бинт Хуйайй, что однажды она пришла навестить Посланника Аллаха ﷺ, когда он неотлучно находился в мечети в последние десять (дней) рамадана. (Поговорив с ним некоторое время,) она поднялась, чтобы вернуться к себе, а Пророк ﷺ поднялся вместе с ней, чтобы проводить её. Когда она дошла до ворот мечети, находившихся у дверей Умм Салямы, жены Пророка ﷺ , мимо прошли двое ансаров, которые поприветствовали Посланника Аллаха ﷺ и пошли дальше. Посланник Аллаха ﷺ сказал им: «Не спешите! Это ведь Сафиййа бинт Хуйайй!» Они сказали: «Преславен Аллах /Субхана-Ллах/, о Посланник Аллаха!» — и им было тяжело (слышать эти его слова). Тогда Посланника Аллаха ﷺ сказал: «Поистине, шайтан передвигается внутри человека подобно крови, и, поистине, я побоялся, что он сможет заронить в ваши сердца (что-нибудь дурное)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6219</td></tr><tr><td>Arabic No</td><td>6219</td></tr><tr><td>Reference</td><td>Book 78 Hadith 243</td></tr></tbody></table></div>
 

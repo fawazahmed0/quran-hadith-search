@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma':"My mother who was a Mushrikah (pagan, etc.), came with her fathe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5979</td></tr><tr><td>Arabic No</td><td>5979</td></tr><tr><td>Reference</td><td>Book 78 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма сказала: «После заключения мирного договора курайшитов с Пророком ﷺ ко мне в сопровождении своего сына приехала моя мать, которая была многобожницей. Я обратилась за советом к Пророку ﷺ, сказав: “Поистине, ко мне приехала моя мать, которая чего-то хочет, так следует ли мне поддерживать с ней отношения?” — (на что) он ответил: “Да, поддерживай отношения с своей матерью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5979</td></tr><tr><td>Arabic No</td><td>5979</td></tr><tr><td>Reference</td><td>Book 78 Hadith 10</td></tr></tbody></table></div>
 

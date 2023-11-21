@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ata' b. Abu Rabah reported:Abu Sa'id al-Khudri (Allah be pleased with them) met 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Musa] telah menceritakan kepada kami [Hiql] dari [Al Auza'i] dia berkata; telah menceritakan kepadaku ['Atha bin Abu Rabah] bahwa Abu Sa'id Al Khudri bertemu [Ibnu Abbas], lalu dia berkata kepadanya, "Bagaimana pendapatmu dalam jual beli sharf (yaitu jual beli barang sejenis), apakah kamu pernah mendengarnya dari Rasulullah shallallahu 'alaihi wasallam ataukah kamu pernah mendapatinya di dalam kitabullah Azza wa Jalla?" Ibnu Abbas menjawab, "Sekali-kali tidak, saya tidak berkata dari Rasulullah shallallahu 'alaihi wasallam sedangkan kamu lebih mengetahuinya, dan saya juga tidak mengetahuinya hal itu ada dalam kitabullah, akan tetapi telah menceritakan kepadaku [Usamah bin Zaid], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Riba itu bisa terjadi dalam pembayaran yang ditangguhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4091</td></tr><tr><td>Arabic No</td><td>1596.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4091</td></tr><tr><td>Arabic No</td><td>1596.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 130</td></tr></tbody></table></div>
 

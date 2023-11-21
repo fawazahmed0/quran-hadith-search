@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) as having s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] semuanya dari [Yahya Al Qatthan], [Zuhair] mengatakan; Telah menceritakan kepada kami [Yahya] dari [Ubaidillah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah seseorang membeli barang yang telah ditawar oleh saudaranya, dan janganlah seseorang meminang wanita yang telah dipinang oleh saudaranya kecuali telah mendapatkan izin darinya." Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Ubaidillah] dengan isnad ini, dan telah menceritakan kepadaku [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dari [Nafi'] dengan isnad seperti ini juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3455</td></tr><tr><td>Arabic No</td><td>1412.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3455</td></tr><tr><td>Arabic No</td><td>1412.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 58</td></tr></tbody></table></div>
 

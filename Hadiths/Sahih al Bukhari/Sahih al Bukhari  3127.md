@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Mulaika:Some silken cloaks with golden buttons were p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin 'Abdul Wahhab] telah bercerita kepada kami [Hammad bin Zaid] dari [Ayub] dari ['Abdullah bin Abi Mulaikah] bahwa Nabi Shallallahu'alaihiwasallam dihadiahi beberapa potong baju terbuat dari sutera yang berkancing emas lalu Beliau membagi-bagikannya kepada orang-orang dari shahabat Beliau dan menyisakan satu potong untuk Makhramah bin Naufal. Maka dia datang bersama anaknya, [Al Miswar bin Makhramah] lalu berdiri di depan pintu seraya berkata; "Panggilkan Beliau untukku" Nabi Shallallahu'alaihiwasallam mendengar suaranya lalu Beliau mengambil baju yang tersisa, dan beliau berikan kepadanya seraya memperlihatkan kebagusan baju tersebut serta berkata: "Wahai, Abu Al Miswar, sengaja aku sisakan untukmu, wahai, Abu Al Miswar, sengaja aku sisakan untukmu". Abu Al Miswar memang tabi'at suaranya keras. Dan [Ibnu 'Ulayyah] meriwayatkan dari [Ayyub]. Dan berkata [Hatim bin Wardan] telah bercerita kepada kami [Ayub] dari [Ibnu Abi Mulaikah] dari [Al Miswar bin Makhramah]; "Kepada Nabi Shallallahu'alaihiwasallam didatangkan beberapa potong baju". Hadits ini diikuti pula oleh [Al Laits] dari [Ibnu Abi Mulaikah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 57 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдулла[ ибн Абу Муляйка сказал: «(Однажды) Пророку ﷺ подарили несколько шёлковых плащей с золотыми пуговицами. И он раздал их некоторым сподвижникам, а один отложил для Махрамы ибн Науфаля. Позже Махрама пришёл вместе со своим сыном аль-Мисваром ибн Махрамой, встал у дверей и сказал (своему сыну): “Позови его ко мне”. Услышав его голос Пророк ﷺ взял шёлковый плащ и вышел к нему, выставив вперёд золотые пуговицы, и сказал: “О Абу-ль-Мисвар! Я отложил это для тебя! О Абу-ль-Мисвар! Я отложил это для тебя!” Махрама был человеком с суровым характером»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 57 Hadith 36</td></tr></tbody></table></div>
 

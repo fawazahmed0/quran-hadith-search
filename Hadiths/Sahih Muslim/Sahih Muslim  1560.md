@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that when the Messenger of Allah (ﷺ) returned from the ex
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dari [Abu Hurairah], bahwa ketika Rasulullah shallallahu 'alaihi wasallam kembali dari perang Khaibar, beliau terus berjalan di malam hari, ketika beliau diserang kantuk, maka beliau singgah. Beliau bersabda kepada Bilal "Hendaknya kamu yang mengawasi tidur kami malam ini!." Bilal pun shalat sekemampuan yang ditakdirkan, sementara Rasulullah shallallahu 'alaihi wasallam tidur. Begitu juga dengan para sahabatnya. Ketika mendekati fajar, Bilal bersandar kepada unta tunggangannya, rupanya kedua mata Bilal terasa berat hingga ketiduran, dengan posisi bersandar kepada untanya. Di pagi harinya Rasulullah shallallahu 'alaihi wasallam belum juga bangun, demikian juga Bilal, dan tak satupun dari sahabatnya yang bangun hingga mereka terbangun oleh sinar matahari yang menyengat. Rasulullah shallallahu 'alaihi wasallam akhirnya yang pertama-tama bangun. Rasulullah Shallallahu 'alahi wasallam merasa kaget dan menyeru: "Hei Bilal!" Bilal Menjawab; "Wahai Rasulullah, tadi nyawaku telah dipegang Dzat yang memegang nyawamu, demi ayah dan ibuku sebagai tebusanmu! Beliau lalu bersabda: "Mari tuntunlah hewan tunggangan kalian." Para sahabat pun menuntun hewan tunggangannya, sesaat kemudian Rasulullah shallallahu 'alaihi wasallam berwudhu". Beliau lalu memerintahkan Bilal supaya mengumandangkan iqamat shalat. Setelah itu Beliau mengimami shalat subuh bersama mereka. Selesai shalat, beliau bersabda: "Siapa yang terlupa shalat, lakukanlah ketika ingat, sebab Allah ta'ala berfirman "Dirikanlah shalat untuk mengingat-Ku." QS. Toha 14. Yunus berkata; sedangkan Ibnu Syihab membacanya dengan lidzdzikraa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1560</td></tr><tr><td>Arabic No</td><td>680.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 393</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что когда Посланник Аллаха ﷺ возвращался с похода на Хайбар, он передвигался ночью, пока его не одолела дремота. Он остановился на ночлег и сказал Билялю: «Охраняй нас этой но­чью».(Абу Хурайра) сказал: «И Биляль совершал молитву столько, сколько было предопределено ему, а Посланник Аллаха ﷺ и его сподвижники уснули. Когда рассвет приблизился, Биляль опёрся на своё верховое животное, направившись в сторону рассвета, и одолели его глаза, и он заснул, опершись на своё верховое животное, и не проснулся ни Пророк ﷺ, ни Биляль и ни один из его сподвижников, пока их не стало обжигать солнце. Послан­ник Аллаха ﷺ был первым, кто проснулся, и встревоженный (этим), Посланник Аллаха ﷺ сказал: “О Биляль!” (Биляль) ответил: “О Посланник Аллаха! Ты мне дороже моих родителей, меня одолело то же, что и тебя!” Посланник Аллаха ﷺ сказал: “Отведите (верблюдов)!” И они немного отвели своих верблюдов, после чего Пророк ﷺ совершил омовение, отдал распоряжение Билялю, и тот сделал второй призыв на молитву /икама/. (Затем) он совершил вместе с ними утреннюю молит­ву, а после того, как закончил её, он сказал: “Кто забыл (совершить) молитву, пусть совершит её, когда вспомнит о ней, ведь, Аллах Всевышний сказал: “Выстаивай молитву для поминания!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1560</td></tr><tr><td>Arabic No</td><td>680.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 393</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:that he saw a silver ring on the hand of Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab] dia berkata; telah menceritakan kepadaku [Anas bin Malik] radliallahu 'anhu bahwa dia pernah melihat Rasulullah shallallahu 'alaihi wasallam memakai cincin perak di tangannya selama satu hari, kemudian orang-orang pun ikut membuat cincin dari perak dan memakainya, lalu Rasulullah shallallahu 'alaihi wasallam pun membuang cincin tersebut dan orang-orang pun ikut membuang cincin yang mereka kenakan." Hadits ini juga diperkuat dengan riwayat [Ibrahim bin Sa'd], [Ziyad] dan [Syu'aib] dari [Az Zuhri]. [Ibnu Musafir] mengatakan; dari [Az Zuhri] bahwa pendapatku itu adalah cincin yang terbuat dari perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5868</td></tr><tr><td>Arabic No</td><td>5868</td></tr><tr><td>Reference</td><td>Book 77 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что он увидел в один из дней на руке Посланника Аллаха ﷺ серебряный перстень. Затем люди тоже изготовили себе такие перстни и надели их. Потом Посланник Аллаха ﷺ отказался от его ношения, и люди также отказались от ношения своих перстней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5868</td></tr><tr><td>Arabic No</td><td>5868</td></tr><tr><td>Reference</td><td>Book 77 Hadith 85</td></tr></tbody></table></div>
 

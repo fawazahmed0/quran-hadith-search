@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qais b Sakan reported that al-Ash'ath b. Qais went to 'Abdullah on the day of 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dan [Yahya bin Sa'id Al Qaththan] dari [Sufyan] -dalam riwayat lain- Dan telah menceritakan kepadaku [Muhammad bin Hatim] -lafazh juga miliknya- Telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Zubaid Al Yami] dari [Umarah bin Umair] dari [Qais bin Sakn] bahwa Al Asy'ats bin Qais menemui [Abdullah] pada hari 'Asyura dan saat itu Abdullah sedang makan. Maka Abdullah pun berkata, "Wahai Abu Muhammad, marilah makan." Ia menjawab, "Saya sedang berpuasa." Abdullah berkata, "Dulu, kami berpuasa 'Asyura', namun kemudian kami meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2650</td></tr><tr><td>Arabic No</td><td>1127.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2650</td></tr><tr><td>Arabic No</td><td>1127.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 156</td></tr></tbody></table></div>
 

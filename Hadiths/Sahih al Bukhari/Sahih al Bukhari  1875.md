@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sufyan b. Abu Zuhair:I heard Allah's Messenger (ﷺ) saying, "Yemen wil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Abdullah bin Az Zubair] dari [Sufyan bin Abu Zuhair radliallahu 'anhu] bahwa dia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Nanti negeri Yaman akan ditaklukkkan lalu akan datang suatu kaum yang menggiring hewan tunggangan mereka secara perlahan-lahan menuju lokasi tersebut dengan membawa keluarga dan orang-orang yang menaati mereka. Dan Madinah lebih baik bagi mereka seandainya merka mengetahui. Kemudian negeri Syam akan ditaklukkan, lalu akan datang suatu kaum yang menggiring hewan tunggangan mereka secara perlahan-lahan menuju negeri tersebut dengan membawa keluarga dan orang-orang yang menaati mereka. Padahal Madinah lebih baik bagi mereka seandainya merka mengetahui. Kemudian negeri 'Iraq akan ditaklukkan lalu akan datang suatu kaum yang menggiring hewan tunggangan mereka secara perlahan-lahan menuju negeri tersebut dengan membawa keluarga dan orang-orang yang mentaati mereka. Padahal Madinah lebih baik bagi mereka seandainya merka mengetahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1875</td></tr><tr><td>Arabic No</td><td>1875</td></tr><tr><td>Reference</td><td>Book 29 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суфйан бин Абу Зухайр, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Будет завоёван Йемен, и (некоторые) люди станут погонять своих верблюдов, (направляясь туда и) уводя с собой свои семьи и тех, кто им подчиняется, тогда как Медина лучше для них, если бы они только знали! И будет завоёван Шам, и (некоторые) люди станут погонять своих верблюдов, (направляясь туда и) уводя с собой свои семьи и тех, кто им подчиняется, тогда как Медина лучше для них, если бы они только знали! И будет завоёван Ирак, и (некоторые) люди станут погонять своих верблюдов, (направляясь туда и) уводя с собой свои семьи и тех, кто им подчиняется, тогда как Медина лучше для них, если бы они только знали!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1875</td></tr><tr><td>Arabic No</td><td>1875</td></tr><tr><td>Reference</td><td>Book 29 Hadith 9</td></tr></tbody></table></div>
 

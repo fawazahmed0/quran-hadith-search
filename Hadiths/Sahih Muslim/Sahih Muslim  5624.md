@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Mughîra Ibn Chu'ba (que Dieu l'agrée) a dit : Personne n'a posé des questi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Abu 'Umar]; lafazh ini milik Ibnu Abu 'Umar dia berkata; Telah menceritakan kepada kami [Yazid bin Harun] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dari [Al Mughirah bin Syu'bah] dia berkata; "Tidak ada orang bertanya kepada Rasulullah shallallahu 'alaihi wasallam perihal Dajjal yang lebih banyak dari pertanyaanku." Karena itu Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: 'Hai anakku! Engkau tak usah terlalu risau memikirkannya. Dia tidak akan mencelakakanmu! ' Kataku; 'Orang-orang menganggap bahwa Dajjal itu mempunyai sungai yang mengalir dan bukit roti.' Beliau bersabda: 'Itu sangat mudah bagi Allah Ta'ala menciptakannya.' Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata; Telah menceritakan kepada kami [Waki']; Demikian juga diriwayatkan dari jalur lainnya; Dan telah menceritakan kepada kami [Suraij bin Yunus]; Telah menceritakan kepada kami [Husyaim]; Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Jarir]; Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami [Abu Usamah] seluruhnya dari [Isma'il] melalui jalur ini. Dan di semua Hadits mereka tidak ada ucapan Nabi shallallahu 'alaihi wasallam kepada Al Mughirah; 'Wahai anakku.' Kecuali pada Hadits Yazid saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5624</td></tr><tr><td>Arabic No</td><td>2152.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5624</td></tr><tr><td>Arabic No</td><td>2152.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 39</td></tr></tbody></table></div>
 

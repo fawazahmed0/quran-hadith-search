@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Shu'aib on his father's authority said that his grandfather (Abdullah ibn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid As Sulami], telah menceritakan kepada kami [Al Walid] dari [Abu 'Amr Al Auza'i], telah menceritakan kepadaku ['Amr bin Syu'aib], dari [ayahnya] dari [kakeknya yaitu Abdullah bin 'Amr] bahwa seorang wanita berkata; wahai Rasulullah, sesungguhnya anakku ini, perutku adalah tempatnya, dan putting susuku adalah tempat minumnya, dan pangkuanku adalah rumahnya, sedangkan ayahnya telah menceraikannya dan ingin merampasnya dariku. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepadanya; engkau lebih berhak terhadapnya selama engkau belum menikah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2276</td></tr><tr><td>Arabic No</td><td>2276</td></tr><tr><td>Reference</td><td>Book 13 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что одна женщина сказала: «О Посланник Аллаха! Это мой сын. Живот мой был для него вместилищем, грудь моя была для него источником, а колени мои уютным прибежищем. А теперь его отец развёлся со мной и хочет забрать его у меня». Посланник Аллаха ﷺ сказал ей: «Ты имеешь больше прав на него, пока не выйдешь замуж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2276</td></tr><tr><td>Arabic No</td><td>2276</td></tr><tr><td>Reference</td><td>Book 13 Hadith 102</td></tr></tbody></table></div>
 

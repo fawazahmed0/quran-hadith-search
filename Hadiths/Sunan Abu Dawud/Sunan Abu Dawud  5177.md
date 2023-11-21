@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rib'i: A man of Banu Amir told that he asked the Prophet (ﷺ) for perm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abul Ahwash] dari [Manshur] dari [Rib'i] ia berkata; telah menceritakan kepada kami [seorang laki-laki dari Bani Amir] Bahwasanya ia pernah minta izin kepada Nabi shallallahu 'alaihi wasallam saat beliau di dalam rumah. Ia berkata, "Bolehkah saya masuk?" Nabi shallallahu 'alaihi wasallam lalu berkata kepada pelayannya: "Temuilah orang ini dan ajari dia cara minta izin. Suruh dia mengucapkan 'Assalamu 'Alaikum, bolehkah saya masuk?" laki-laki itu mendengar perkataan Nabi hingga ia pun mengucapkan, "Assalamu 'Alaikum, bolehkah saya masuk?" Akhirnya Nabi shallallahu 'alaihi wasallam memberi izin, dan ia pun masuk." Telah menceritakan kepada kami [Hannad bin As Sari] dari [Abul Ahwash] dari [Manshur] dari [Rib'I bin Hirasy] ia berkata; [Aku mendapat cerita] bahwa ada seorang laki-laki dari bani Amir memohon izin kepada Nabi shallallahu 'alaihi wasallam.. maka ia menceritakan dengan makna yang sama dengan hadits tersebut. Abu Dawud berkata, "Seperti itu pula, telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Manshur] dari [Rib'i] dan ia tidak menyebutkan 'dari seorang laki-laki bani Amir'. Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Rib'i] dari [seorang laki-laki bani Amir] Bahwasanya ia memohon izin kepada Nabi shallallahu 'alaihi wasallam, dengan makna yang sama. Ia berkata, "Aku mendengar ucapan beliau, maka aku pun mengucapkan, "Assalamu 'Alaikum, bolehkah aku masuk?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5177</td></tr><tr><td>Arabic No</td><td>5177</td></tr><tr><td>Reference</td><td>Book 43 Hadith 405</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Риб‘и (бин Хираш) сказал: Один человек из (племени) бану амир рассказал нам, что как-то раз он попросил у находившегося у себя дома Пророка ﷺ разрешения войти, сказав: «Могу ли я войти?» Тогда Посланник Аллаха ﷺ велел своему слуге: «Выйди к этому (человеку), научи его, как следует спрашивать разрешения, и скажи ему, чтобы он говорил: “Мир вам /ас-Саляму ‘алейкум/, можно ли мне войти?”» И этот человек выслушал его, а потом сказал: «Мир вам /ас-Саляму ‘алейкум/, можно ли мне войти?», после чего Пророк ﷺ разрешил ему войти и он вошёл
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5177</td></tr><tr><td>Arabic No</td><td>5177</td></tr><tr><td>Reference</td><td>Book 43 Hadith 405</td></tr></tbody></table></div>
 

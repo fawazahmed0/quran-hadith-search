@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet (ﷺ) said thrice, "Should I inform you out the g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyir bin Al Mufadhdhol] telah menceritakan kepada kami [Al Jurairiy] dari ['Abdurrahman bin Abi Bakrah] dari [bapaknya radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata: "Apakah kalian mau aku beritahu dosa besar yang paling besar?" Beliau menyatakannya tiga kali. Mereka menjawab: "Mau, wahai Rasulullah". Maka Beliau bersabda: "Menyekutukan Allah, durhaka kepada kedua orangtua". Lalu Beliau duduk dari sebelumnya berbaring kemudian melanjutkan sabdanya: "Ketahuilah, juga ucapan keji (curang) ". Dia berkata: "Beliau terus saja mengatakannya berulang-ulang hingga kami mengatakannya ' Duh sekiranya Beliau diam". Dan berkata, [Isma'il bin Ibrahim] telah menceritakan kepada kami [Al Jurairiy] dari ['Abdurrahman]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 52 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ спросил (людей): “Не сообщить ли вам о (том, какие) грехи являются наиболее тяжкими?” — (и повторил этот вопрос) трижды. Они сказали: “Конечно, о Посланник Аллаха!” (Тогда) он сказал: “(Это — ) многобожие и непочтительность по отношению к родителям”. (Говоря это, Пророк ﷺ) лежал на боку, а потом он сел и сказал: “И, поистине, (это — ) клеветнические речи!” — и он продолжал повторять (эти слова), пока мы не стали говорить: “О, если бы он умолк!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 52 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The law of Qisas (i.e. equality in punishment) was prescribe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Amru] dia berkata; Aku mendengar [Mujahid] berkata; Aku mendengar [Ibnu Abbas radliallahu 'anhuma] berkata; "Dahulu pada Bani Israil terdapat hukum qishas namun tidak ada diyah pada mereka, lalu Allah Azza wa jalla menurunkan ayat: "Hai orang-orang yang beriman, diwajibkan atas kamu qishaash berkenaan dengan orang-orang yang dibunuh; orang merdeka dengan orang merdeka, hamba dengan hamba, dan wanita dengan wanita. Maka barangsiapa yang mendapat suatu pema'afan dari saudaranya, hendaklah (yang mema'afkan) mengikuti dengan cara yang baik, dan hendaklah (yang diberi ma'af) membayar (diat) kepada yang memberi ma'af dengan cara yang baik (pula). (QS. Albaqarah 178). Pemberian maaf itu maksudnya adalah menerima diyat pada pembunuhan dengan sengaja. mengikuti dengan cara yang baik yaitu ia mengikuti ini dengan cara yang ma'ruf, dan membayar dengan cara yang baik serta melaksanakan ini dengan kebaikan. Yang demikian itu adalah suatu keringanan dari Tuhan kamu dan suatu rahmat (QS. Albaqarah 178) dari apa yang telah diwajibkan atas kaum sebelum kalian, sesungguhnya hal tersebut adalah qishas bukan diyah. Barang siapa yang melampui batas setelah itu, maka baginya Adzab yang pedih.' Yaitu membunuh setelah menerima diyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4498</td></tr><tr><td>Arabic No</td><td>4498</td></tr><tr><td>Reference</td><td>Book 65 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «”Кысас” (возмездие за убийство) был у сынов Исраиля, но “дии” (имущественная компенсация) не было. Поэтому Аллах сказал этой общине (мусульманам): “Вам предписано возмездие за убитых: свободный — за свободного, раб — за раба, женщина — за женщину. Если же убийца прощен своим братом” (сура “аль-Бакара”, аят 178). Прощение заключается в том, чтобы принять “дия” за преднамеренное убийство. “…то следует поступить по справедливости и уплатить ему выкуп надлежащим образом” (сура “аль-Бакара”, аят 178), то есть поступает хорошо и платит ему надлежащим образом. “Таково облегчение от вашего Господа и милость” (сура “аль-Бакара”, аят 178), то есть из того, что было предписано для тех, кто был до вас. “А кто преступит границы дозволенного после этого, того постигнут мучительные страдания” (сура “аль-Бакара”, аят 178), то есть убьёт после того, как примет “дия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4498</td></tr><tr><td>Arabic No</td><td>4498</td></tr><tr><td>Reference</td><td>Book 65 Hadith 25</td></tr></tbody></table></div>
 

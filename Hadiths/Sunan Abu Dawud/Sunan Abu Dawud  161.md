@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: The Messenger of Allah (ﷺ) wiped over the so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash-Shabbah Al-Bazzaz] telah menceritakan kepada kami [Abdurrahman bin Abu Az-Zinad] dia berkata; [Ayahku] menyebutkan, dari ['Urwah bin Az-Zubair] dari [Al-Mughirah bin Syu'bah] bahwasanya Rasulullah shallallahu 'alaihi wasallam biasa mengusap kedua khuf. Sedangkan selain Muhammad menyebutkan; Beliau mengusap bagian atas kedua khuf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Аль-Мугъиры ибн Шу‘ба: «Посланник Аллаха ﷺ обтирал по кожаным носкам /хуффайн/».Другие помимо Мухаммада (ибн Саббаха) сказали: «Поверх кожаных носков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
 

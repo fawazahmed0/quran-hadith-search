@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah:My father said, "I heard Allah's Messenger (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah Al Uwaisi] berkata, telah menceritakan kepadaku [Ibrahim bin Sa'ad] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] dari [Bapaknya] ia mengabarkan kepadanya, bahwa dia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya keberadaan kalian dibandingakan ummat-ummat sebelum kalian seperti masa antara shalat 'Ashar dan terbenamnya matahari. Ahlu Taurat diberikan Kitab Taurat, kemudian mereka mengamalkannya hingga apabila sampai pertengahan siang hari mereka menjadi lemah (tidak kuat sehingga melalaikannya). Maka mereka diberi pahala satu qirath satu qirath. Kemudian Ahlu Injil diberikan Kitab Injil, lalu mereka mengamalkannya hingga waktu shalat 'Ashar, dan mereka pun melemah. Maka merekapun diberi pahala satu qirath satu qirath. Sedangkan kita diberikan Al Qur'an, lalu kita mengamalkannya hingga matahari terbenam, maka kita diberi pahala dua qirath dua qirath. kedua Ahlul Kitab tersebut berkata, 'Wahai Rabb kami, bagaimana Engkau memberikan mereka dua qirath dua qirath dan Engkau beri kami satu qirath satu qirath. Padahal kami lebih banyak beramal! ' Beliau melanjutkan kisahnya: "Maka Allah 'azza wajalla bertanya: 'Apakah Aku menzhalimi sesuatu dari bagian pahala kalian? ' Mereka menjawab, 'Tidak'. Maka Allah 'azza wajalla berfirman: 'Itulah karunia-Ku yang Aku berikan kepada siapa yang Aku kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>557</td></tr><tr><td>Arabic No</td><td>557</td></tr><tr><td>Reference</td><td>Book 9 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что он слышал, как Посланник Аллаха ﷺ сказал: «Поистине, время вашего существования по сравнению (со временем существования) предыдущих религиозных общин подобно промежутку между послеполуденной молитвы и заходом солнца. (В своё время) людям Торы была дана Тора, и они действовали (в соответствии с её установлениями), пока не обессилели к полудню, после чего им было даровано по кырату (награды). Затем людям Евангелия было дано Евангелие, и они действовали (в соответствии с его установлениями), пока не обессилели ко (времени) послеполуденной молитвы, после чего им было даровано по кырату (награды). А потом нам был дан Коран, и мы станем действовать (в соответствии с его установлениями) до захода солнца, после чего нам будет даровано по два кырата (награды), и тогда люди обоих Писаний скажут: “О Господь наш! Ты даровал им по два кырата, а нам — по одному, хотя мы сделали больше!” И Всемогущий и Великий Аллах скажет: “Разве Я обидел вас в чём-нибудь, вознаграждая вас?” Они ответят: “Нет”. Тогда Он скажет: “А (дарованное им) есть милость Моя, которую оказываю Я, кому пожелаю!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>557</td></tr><tr><td>Arabic No</td><td>557</td></tr><tr><td>Reference</td><td>Book 9 Hadith 34</td></tr></tbody></table></div>
 

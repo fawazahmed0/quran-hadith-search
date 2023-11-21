@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Charity is obligatory everyday on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Nashr] telah bercerita kepada kami ['Abdur Rozzaq] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Pada setiap ruas tulang ada kewajiban shadaqah. Setiap hari dimana seseorang terbantu dengan tunggangannya yang mengangkat atau mengangkut barang-barangnya di atasnya adalah shadaqah. Ucapan yang baik adalah shadaqah dan setiap langkah yang dilakukan seseorang menuju shalat adalah shadaqah dan orang yang menunjuki jalan adalah shadaqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 56 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «На каждом суставе человека лежит обязанность раздавать милостыню каждый день. Оказание им помощи человеку, которого он подсадит на его верховое животное или которому подаст его поклажу, есть садака, и доброе слово садака, и за каждый шаг, который он делает на пути к молитве, (ему записывается) садака, и объяснение дороги (тому, кто в этом нуждается), есть садака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 56 Hadith 106</td></tr></tbody></table></div>
 

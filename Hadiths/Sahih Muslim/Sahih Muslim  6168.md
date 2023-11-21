@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Utba b. Mas, ud reported that 'Abdullah b. 'Abbas contended with Hurr b. Qais b.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Ubaidillah bin 'Abdullah bin 'Utbah bin Mas'ud] dari ['Abdullah bin Abbas] bahwa dia dan Al Hurr bin Qais bin Hisn Al Fazari berdebat tentang sahabat Musa 'alaihissalam yang bertanya tentang jalan untuk bertemu dengannya, Ibnu Abbas mengatakan bahwa kawan yang dimaksud itu ialah Khidhir, sedangkan Hurr mengatakan bukan. Kemudian lewatlah [Ubay bin Ka'ab al-Anshari] di depan mereka. Ibnu Abbas lalu memanggilnya kemudian berkata, "Hai Abu Thufail kemarilah, sesungguhnya aku berselisih pendapat dengan sahabatku ini siapa kawan Musa yang olehnya ditanyakan mengenai jalan untuk menuju tempatnya itu, agar dapat bertemu dengannya. Apakah kamu pernah mendengar hal-ihwalnya yang kamu dengar sendiri dari Nabi shallallahu 'alaihi wasallam?" Ubay bin Ka'ab menjawab, "Ya, saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Ketika Musa duduk bersama beberapa orang Bani Israel, tiba-tiba seorang laki-laki datang dan bertanya kepadanya (Musa), 'Adakah seseorang yang lebih pandai daripada kamu? ' Musa menjawab, 'Tidak." Maka, Allah menurunkan wahyu kepada Musa, "Ada, yaitu hamba Kami Khidhir." Musa bertanya kepada (Allah) bagaimana jalan ke sana. Maka, Allah menjadikan ikan sebagai sebuah tanda baginya dan dikatakan kepadanya, 'Apabila ikan itu hilang darimu, maka kembalilah (ke tempat di mana ikan itu hilang) karena engkau akan bertemu dengannya (Khidhir). 'Maka, Musa pun mengikuti jejak ikan laut dengan kehendak Allah. Lalu Musa berkata kepada muridnya; Ayolah kita makan siang dulu, mana makanannya. Murid Musa berkata kepadanya ketika dia menanyakan makan siang, 'Adakah kamu melihat Ikan itu ketika kita beristirahat di batu besar. Sesungguhnya aku terlupa kepada ikan hiu itu dan tiada yang membuat aku lupa tentang hal itu, melainkan setan.' Musa berkata, 'Kalau demikian, memang itulah tempat yang kita cari.' Lalu keduanya kembali, mengikuti jejak mereka semula. Kemudian mereka bertemu dengan Khidhir. Maka, apa yang terjadi pada mereka selanjutnya telah diceritakan Allah Azza wa Jalla di dalam Kitab-Nya." Hanya saja Yunus berkata dengan lafazh; 'lalu Musa mengikuti jejak ikan Hiu di laut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6168</td></tr><tr><td>Arabic No</td><td>2380.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6168</td></tr><tr><td>Arabic No</td><td>2380.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 226</td></tr></tbody></table></div>
 

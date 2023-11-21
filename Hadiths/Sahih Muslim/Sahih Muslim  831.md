@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:When the Messenger of Allah (ﷺ) entered the privy, and in the ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Hammad bin Zaid] dan [Yahya] berkata juga telah mengabarkan kepada kami [Husyaim] keduanya meriwayatkan dari [Abdul Aziz bin Shuhaib] dari [Anas] dalam hadits Hammad, "Dahulu Rasulullah shallallahu 'alaihi wasallam apabila masuk WC" --Sedangkan dalam hadis Husyaim dengan redaksi "Bahwa Rasulullah apabila masuk tempat buang hajat--, maka beliau membaca, 'ALLOOHUMMA INNI A'UUDZU BIKA MINAL KHUBUTSI WALKHOBA'ITS" Ya Allah, sesungguhnya aku berlindung kepadaMu dari setan laki-laki dan setan perempuan'." Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Ismail, yaitu Ibnu Ulayyah] dari [Abdul Aziz] dengan sanad ini, dan dia berkata, ' A'UUDZU BILLAH MINAL KHUBUTSI WALKHOBA'ITS Aku berlindung kepada Allah dari gangguan setan laki-laki dan setan perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>831</td></tr><tr><td>Arabic No</td><td>375.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что (собираясь) зайти в отхожее место, Посланник Аллаха ﷺ обычно говорил: «О Аллах, поистине, я прибегаю к Твоей защите от шайтанов мужского и женского пола /Аллахумма, инни а‘узу би-кя мин аль-хубуси ва-ль-хабаъис/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>831</td></tr><tr><td>Arabic No</td><td>375.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 152</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported Allah's Apostle (ﷺ) as saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abd bin Humaid] dan [Muhammad bin Rafi'], Abd mengatakan; Telah mengabarkan kepada kami, sedangkan Ibnu Rafi' mengatakan; Telah menceritakan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [ayahnya] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika seseorang memberikan tanah ladangnya kepada saudaranya (untuk ditanami), maka itu lebih baik daripada harus memungut ini dan ini dengan imbalan tertentu." Thawus berkata; Ibnu Abbas berkata; "Ia adalah haql, namun dalam bahasanya orang-orang Anshar adalah muhaqalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3960</td></tr><tr><td>Arabic No</td><td>1550.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3960</td></tr><tr><td>Arabic No</td><td>1550.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 159</td></tr></tbody></table></div>
 

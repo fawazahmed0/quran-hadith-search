@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id Al Khudri said “The Apostle of Allaah(ﷺ) sent an expedition towa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah mengabarkan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku ['Amr bin Al Harits], dari [Yazid bin Abu Habib], dari [Yazid bin Abu Sa'id] mantan budak Al Mahri, dari [ayahnya], dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam telah mengirim utusan kepada Bani Lahyan, dan berkata: "Hendaknya diantara dua orang ada satu orang yang keluar!" Kemudian beliau berkata kepada orang yang tidak berperang: "Barangsiapa yang menggantikan orang yang keluar menjaga keluarga dan hartanya dengan baik maka baginya seperti setengah pahala orang yang keluar berperang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1896)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2510</td></tr><tr><td>Arabic No</td><td>2510</td></tr><tr><td>Reference</td><td>Book 15 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1896)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2510</td></tr><tr><td>Arabic No</td><td>2510</td></tr><tr><td>Reference</td><td>Book 15 Hadith 34</td></tr></tbody></table></div>
 

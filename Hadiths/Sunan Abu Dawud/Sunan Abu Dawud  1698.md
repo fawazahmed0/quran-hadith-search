@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) preached and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hafsh bin Umar], telah menceritakan kepada Kami [Syu'bah] dari ['Amr bin Murrah], dari [Abdullah bin Al Harits] dari [Abu Katsir] dari [Abdullah bin 'Amr], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam berkhutbah, beliau bersabda: "Jauhilah sifat pelit, karena sesungguhnya yang membinasakan orang sebelum kalian adalah sifat pelit. Mereka diperintahkan untuk bersifat bakhil maka merekapun bersifat bakhil dan mereka diperintahkan untuk memutuskan hubungan kekerabatan maka merekapun memutuskan hubungan kekerabatan, dan mereka diperintahkan untuk berbuat dosa maka merekapun berbuat dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1698</td></tr><tr><td>Arabic No</td><td>1698</td></tr><tr><td>Reference</td><td>Book 9 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ как-то обращался к людям с речью и сказал: «Остерегайтесь скаредности, ибо она погубила живших до вас. Она велела им быть скупыми, и они стали скупыми. Она велела им порывать родственные связи, и они стали порывать родственные связи. Она велела им творить нечестие, и они стали творить нечестие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1698</td></tr><tr><td>Arabic No</td><td>1698</td></tr><tr><td>Reference</td><td>Book 9 Hadith 143</td></tr></tbody></table></div>
 

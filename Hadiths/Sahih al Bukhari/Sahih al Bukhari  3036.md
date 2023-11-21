@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:Allah's Messenger (ﷺ) did not screen himself from me since my e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin 'Abdullah bin Numair] telah bercerita kepada kami [Ibnu Idris] dari [Isma'il] dari [Qois] dari [Jarir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam tidak pernah melarangku untuk bertemu beliau semenjak aku masuk Islam dan tidaklah beliau melihat aku melainkan beliau tersenyum ke wajahku. Dan sungguh aku pernah mengadu kepada beliau bahwa aku tidak pandai dalam menunggang kuda lalu beliau memukul dadaku dengan tangan beliau lalu mendo'akan aku: "ALLOOHUMMA TSABBIT-HU WAJ'ALHU HAADIYAN MURSYIDAN, Ya Allah, teguhkanlah dia, dan jadikanlah dia pemberi petunjuk yang lurus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3036</td></tr><tr><td>Arabic No</td><td>3036</td></tr><tr><td>Reference</td><td>Book 56 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Сообщается, что Джарир ибн ‘Абдуллах аль-Баджали, да будет доволен им Аллах, сказал): «(Однажды) я пожаловался ему, (Пророку ﷺ) что не могу хорошо держаться на коне, (и узнав об этом,) он ударил меня рукой по груди и сказал: «О Аллах, укрепи его и сделай его ведущим и ведомым по правильному пути!/Аллахумма, саббит-ху ва-дж‘аль-ху хадийан махдийан!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3036</td></tr><tr><td>Arabic No</td><td>3036</td></tr><tr><td>Reference</td><td>Book 56 Hadith 242</td></tr></tbody></table></div>
 

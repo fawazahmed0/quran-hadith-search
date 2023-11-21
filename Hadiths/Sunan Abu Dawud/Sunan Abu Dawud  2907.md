@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Makhul: The Messenger of Allah (ﷺ) assigned the estate of a child of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid], dan [Musa bin 'Amir], mereka berkata; telah menceritakan kepada kami [Al Walid], telah mengabarkan kepada kami [Ibnu Jabir], telah menceritakan kepada kami [Makhul], Ia berkata; Rasulullah shallallahu 'alaihi wasallam memberikan warisan anak wanita yang melakukan li'an kepada ibunya serta para pewaris ibunya setelahnya. Telah menceritakan kepada kami [Musa bin Amir], telah menceritakan kepada kami [Al Walid], telah mengabarkan kepadaku [Isa Abu Muhammad] dari [Al 'Ala' bin Al Harits] dari ['Amr bin Syu'aib] dari [ayahnya], dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2907</td></tr><tr><td>Arabic No</td><td>2907</td></tr><tr><td>Reference</td><td>Book 19 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Макхуля, да будет доволен им Аллах, что Посланник Аллаха ﷺ постановил, что человеку, который становился объектом ли‘ана, наследует его мать, а после неё её наследники
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2907</td></tr><tr><td>Arabic No</td><td>2907</td></tr><tr><td>Reference</td><td>Book 19 Hadith 23</td></tr></tbody></table></div>
 

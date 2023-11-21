@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha and Ibn 'Abbas:The Prophet (ﷺ) stayed for ten years in Mecca wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari ['Aisyah] dan [Ibnu 'Abbas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam "Rasulullah menetap di Makkah selama sepuluh tahun, ketika itu Al Qur'an sudah turun kepadanya. Dan di Madinah selama sepuluh tahun juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4464</td></tr><tr><td>Arabic No</td><td>4464</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Аишы и Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что в течении десяти лет Пророку ﷺ ниспосылался Коран, пока он был в Мекке, а затем, в течении десяти лет, Коран ниспосылался в Медине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4464</td></tr><tr><td>Arabic No</td><td>4464</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

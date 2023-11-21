@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah (bin 'Abdullah) bin 'Umar said to his father, "Stay her
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] berkata; ['Abdullah bin 'Abdullah bin 'Umar radliallahu 'anhum] berkata, kepada [bapaknya]: "Bangkitlah karena aku tidak dapat menjamin bahwa kamu tidak akan dihalangi untuk thawaf di Ka'bah Baitullah". Maka dia berkata: "Kerjakanlah seperti apa yang telah dilakukan Rasulullah Shallallahu'alaihiwasallam karena Allah subhanahu wata'ala telah berfirman: ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah"). Dan aku bersaksi kepada kalian bahwa aku telah mewajibkan diriku sendiri untuk melaksanakan 'umrah lalu aku berihram untuk 'umrah dari rumah". Dia berkata: "Tidaklah pelaksanaan hajji dan 'umrah itu kecuali satu". Lalu dia membeli hewan qurban di Qudaid lalu masuk (makkah) dan thawaf utnuk hajji dan 'umrah sejali thawaf dan tifdak bertahallul hingga telah selesai (tahallul) dari keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1693</td></tr><tr><td>Arabic No</td><td>1693</td></tr><tr><td>Reference</td><td>Book 25 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что ‘Абдуллах ибн ‘Абдуллах ибн ‘Умар сказал своему отцу: «Останься! Я боюсь, что тебе воспрепятствуют (совершение тавафа вокруг) Каабы». Ибн ‘Умар сказал: «Тогда я поступлю так же, как поступил Посланник Аллаха ﷺ ведь Аллах сказал: “В посланнике Аллаха был прекрасный пример для вас”. (сура “аль-Ахзаб”, аят 21)». Затем он добавил: «Я делаю вас свидетелями того, что я намерился совершить ‘умру». Затем он произнёс тальбию, намереваясь совершить ‘умру из дома. Затем он отправился в путь и, достигнув аль-Байда, он сделал намерение совершить хадж с ‘умрой, сказав: «Положения хаджа и ‘умры одинаковы». Затем он купил жертвенный скот в Кудейде. Прибыв в Мекку, он совершил один таваф для хаджа и ‘умры, и не выходил из ихрама до тех пор, пока не закончил оба обряда (хадж и ‘умра)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1693</td></tr><tr><td>Arabic No</td><td>1693</td></tr><tr><td>Reference</td><td>Book 25 Hadith 172</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Sa'b b. Jaththama that the Prophet of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Sa'id bin Manshur] dan [Amru An Naqid] semuanya dari [Ibnu 'Uyainah]. [Yahya] berkata; telah mengabarkan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Ubaidullah] dari [Ibnu Abbas] dari [Ash Sha'b bin Jatsamah] dia berkata, "Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai anak-anak dan wanita Musyrikin yang terbunuh ketika terjadi serangan malam." Beliau menjawab: "Mereka termasuk dari golongan musuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4549</td></tr><tr><td>Arabic No</td><td>1745.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4549</td></tr><tr><td>Arabic No</td><td>1745.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) went on carrying (i.e. the earth) and saying,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Abu Ishaq] aku mendengar [Al Bara' radliallahu 'anhu]: "Adalah Nabi shallallahu 'alaihi wasallam turut mengangkut (tanah dalam penggalian parit pada perang Khandaq) sambil bersya'ir: "Kalaulah bukan karena Engkau ya Allah, tentu kami tidak akan mendapat petunjuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2836</td></tr><tr><td>Arabic No</td><td>2836</td></tr><tr><td>Reference</td><td>Book 56 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара, да будет доволен им Аллах, передаёт, что Пророк ﷺ, носил (землю) и говорил: «Если бы не Ты, не встали бы мы на прямой путь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2836</td></tr><tr><td>Arabic No</td><td>2836</td></tr><tr><td>Reference</td><td>Book 56 Hadith 52</td></tr></tbody></table></div>
 

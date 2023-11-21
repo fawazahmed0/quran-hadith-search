@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), Le jour du Fossé, un Qoraychite no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Al 'Ala Al Hamdani] keduanya dari [Ibnu Numair], [Ibnu 'Ala] berkata; telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Hisyam] dari [ayahnya] dari ['Aisyah] dia berkata, "Pada waktu perang Khandaq Sa'd dipanah oleh seorang laki-laki Quraisy bernama Ibnu 'Ariqah, dia terkena panah tepat pada urat nadinya. Akhirnya Rasulullah shallallahu 'alaihi wasallam mendirikan kemah untuknya yang letaknya berdekatan dengan masjid, sehingga sewaktu-waktu beliau dapat menjenguknya. Sekembalinya dari perang Khandaq, Rasulullah shallallahu 'alaihi wasallam langsung meletakkan senjatanya, saat beliau mandi dan membersihkan badannya, Jibril datang dan meniup kepala beliau dari debu. Jibril bertanya, "Apakah anda meletakkan senjata (untuk berdamai)? Demi Allah, kita tidak boleh meletakkan senjata, keluar dan perangilah mereka." Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Kemana aku harus keluar?" Jibril lalu memberikan isyarat kepada beliau untuk pergi ke perkampungan kaum Yahudi Bani Quraizhah. Kemudian Rasulullah shallallahu 'alaihi wasallam bersama dengan kaum Muslimin memerangi mereka. Akhirnya mereka takluk dan tunduk kepada keputusan Rasulullah shallallahu 'alaihi wasallam, akan tetapi Rasulullah shallallahu 'alaihi wasallam menyerahkan keputusan tersebut kepada Sa'd. Selanjutnya Sa'd berkata, "Sesungguhnya aku memutuskan untuk membunuh semua yang turut serta dalam peperangan, menawan anak-anak dan kaum wanita, serta membagi-bagikan harta benda mereka." Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Hisyam] dia berkata; [ayahku] berkata, "Aku lalu kabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, kamu telah menghukumi perkara mereka dengan hukum Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>1769.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>1769.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 79</td></tr></tbody></table></div>
 

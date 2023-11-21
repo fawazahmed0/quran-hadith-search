@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata, "Saya mendengar [Anas bin Malik] menceritakan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak satupun seseorang yang masuk surga ingin kembali ke dunia, sekalipun seluruh dunia dan isinya diberikan kepadanya, kecuali orang yang mati syahid. Sesungguhnya ia berangan-angan hendak kembali (ke dunia) kemudian terbunuh hingga sepuluh kali, karena ia melihat mulianya mati syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4868</td></tr><tr><td>Arabic No</td><td>1877.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4868</td></tr><tr><td>Arabic No</td><td>1877.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 164</td></tr></tbody></table></div>
 

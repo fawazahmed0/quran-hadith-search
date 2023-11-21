@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Ukaz, Mijanna and Dhul-Majaz were markets during the Pre-is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] dia berkata; Telah mengabarkan kepadaku [Ibnu Uyainah] dari [Amru] dari [Ibnu Abbas radliallahu 'anhuma] dia berkata; Ukazh, Majanah, Dzul Majaz adalah pasar-pasar yang ada pada masa jahiliyah. Mereka merasa takut berdosa bila berjualan pada musim haji. Maka turunlah ayat; Bukanlah suatu dosa bagimu sekalian mencari karunia dari Rabb kalian. (QS. Albaqarah 198). Yaitu pada musim haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>4519</td></tr><tr><td>Reference</td><td>Book 65 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «‘Указ, Маджанна и Зуль-Маджаз были рынками людей в доисламский период невежества /джахилиййи/. (Когда же пришёл ислам, мусульмане) стали считать греховным торговлю на этих рынках во время хаджа до тех пор, пока не был ниспослан (аят, в котором говорится): “На вас нет греха, если вы ищете милость от своего Господа” (сура “аль-Бакара”, аят 198), то есть в сезон хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>4519</td></tr><tr><td>Reference</td><td>Book 65 Hadith 44</td></tr></tbody></table></div>
 

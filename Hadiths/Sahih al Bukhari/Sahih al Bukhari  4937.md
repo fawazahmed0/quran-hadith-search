@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) said, "Such a person as recites the Qur'an and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Qatadah] ia berkata; Aku mendengar [Zurarah bin Aufa] menceritakan dari [Sa'd bin Hisyam] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Perumpamaan orang membaca Al Qur'an sedangkan ia menghafalnya, maka ia akan bersama para Malaikat mulia. Sedangkan perumpamaan seorang yang membaca Al Qur'an dengan tekum, dan ia mengalami kesulitan atasnya, maka dia akan mendapat dua ganjaran pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 65 Hadith 458</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Читающий Коран и знающий его наизусть будет с благородными и покорными писцами (ангелами), а тому, кто читает Коран, запинаясь и испытывая при этом затруднения, уготована двой­ная награда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 65 Hadith 458</td></tr></tbody></table></div>
 

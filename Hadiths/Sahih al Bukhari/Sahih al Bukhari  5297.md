@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi A'ufa:We were with Allah's Messenger (ﷺ) on a journ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Jarir bin Abdul Hamid] dari [Abu Ishaq Asy Syaibani] dari [Abdullah bin Abu Aufa] ia berkata; Kami pernah berada dalam suatu perjalanan bersama Rasulullah shallallahu 'alaihi wasallam. Ketika matahari telah tenggelam beliau berkata kepada salah seorang laki-lakir: "Turun dan siapkanlah makanan untukku." Laki-laki itu berkata, "Wahai Rasulullah, seandainya Anda mau menunggu agak sore lagi." Beliau bersabda lagi: "Turun dan siapkanlah makanan untukku." Laki-laki berkomentar lagi, "Wahai Rasulullah, sekiranya Anda mau menunggu agak sore sedikit, sesungguhnya hari masih terang." Beliau bersabda: "Turun dan siapkanlah makanan." Maka laki-laki itu pun turun dan menyiapkan makanan untuk beliau. Rasulullah shallallahu 'alaihi wasallam pun minum. Setelah itu, beliau menunjuk dengan tangannya ke arah timur seraya bersabda: "Jika kalian telah melihat malam mulai menyingsing dari arah ini, maka seorang yang berpuasa sudah boleh berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5297</td></tr><tr><td>Arabic No</td><td>5297</td></tr><tr><td>Reference</td><td>Book 68 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби Ауфа сказал: «(Однажды) мы находились в пути вместе с Посланником Аллаха ﷺ, (который постился) и, когда солнце зашло, он сказал (одному человеку): “Спешься и размешай для нас (еду)”. Он ответил: “О Посланник Аллаха! Может дождаться наступления вечера?” (Посланник Аллаха ﷺ) сказал: “Спешься и размешай для нас (еду)”. Он сказал: “ О Посланник Аллаха! Может дождаться наступления вечера, ведь ещё день!” Посланник Аллаха ﷺ сказал: “Спешься и размешай для нас (еду)”. Тогда он спешился и размешал еду. Посланник Аллах ﷺ попил, указал рукой на восток и сказал: “Если вы увидите, что ночь наступает отсюда, то постящийся становится разговевшимся (или: постящемуся следует разговляться)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5297</td></tr><tr><td>Arabic No</td><td>5297</td></tr><tr><td>Reference</td><td>Book 68 Hadith 46</td></tr></tbody></table></div>
 

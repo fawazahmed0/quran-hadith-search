@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Rafi: Abu Huraira said, "A man or a woman used to clean the mosque.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Waqid] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah], "Seorang laki-laki atau perempuan mengurusi (kebersihan) Masjid, dan aku tidak melihat kecuali bahwa ia adalah seorang wanita. Lalu dia menyebutkan hadits Nabi shallallahu 'alaihi wasallam bahwa beliau shalat di atas kuburnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>460</td></tr><tr><td>Arabic No</td><td>460</td></tr><tr><td>Reference</td><td>Book 8 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что (в своё время) негр /или: негритянка/, подметавший полы в мечети … (Один из передатчиков этого хадиса сказал: «И я думаю, что это точно была женщина». И затем он привёл хадис о том, что Пророк ﷺ совершил над ним (заупокойную) молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>460</td></tr><tr><td>Arabic No</td><td>460</td></tr><tr><td>Reference</td><td>Book 8 Hadith 108</td></tr></tbody></table></div>
 

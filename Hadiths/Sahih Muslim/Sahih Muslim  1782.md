@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:He who prayed on the Lailat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Syababah] telah menceritakan kepadaku [Warqa'] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang menegakkan (shalat dengan mengharap) malam Lailatul Qadr, lalu ia mendapatinya, -menurutku ia mengatakan- dengan penuh keimanan dan pengharapan (akan pahala dari Allah), maka ia akan diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>760.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Кто провёл ночь предопределения (в молитвах) с верой и надеждой (на награду Аллаха), (намереваясь застать её) и (действительно) застал её, тому будут прощены (все его предыдущие грехи)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>760.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 210</td></tr></tbody></table></div>
 

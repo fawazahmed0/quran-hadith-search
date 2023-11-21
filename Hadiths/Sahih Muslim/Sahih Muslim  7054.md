@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) took hold of my hands and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suraij bin Yunus] dan [Harun bin 'Abdullah] mereka berdua berkata; telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; [Ibnu Juraij] berkata; telah mengabarkan kepada kami [Isma'il bin Umayyah] dari [Ayyub bin Khalid] dari ['Abdullah bin Rafi'] -budak- Ummu Salamah dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam memegang tangannya, lalu beliau bersabda: 'Allah Azza wa Jalla menjadikan tanah pada hari Sabtu, menancapkan gunung pada hari Ahad, menumbuhkan pohon-pohon pada hari Senin, menjadikan bahan-bahan mineral pada hari Selasa, menjadikan cahaya pada hari Rabu, menebarkan binatang pada hari Kamis, dan menjadikan Adam 'Alaihis Salam pada hari Jum'at setelah ashar, yang merupakan penciptaan paling akhir yaitu saat-saat terakhir di hari jum'at antara waktu ashar hingga malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7054</td></tr><tr><td>Arabic No</td><td>2789</td></tr><tr><td>Reference</td><td>Book 52 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7054</td></tr><tr><td>Arabic No</td><td>2789</td></tr><tr><td>Reference</td><td>Book 52 Hadith 10</td></tr></tbody></table></div>
 

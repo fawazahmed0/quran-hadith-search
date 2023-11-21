@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: A man who was beautiful came to the Prophet (ﷺ). He said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Musa Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Abdul Wahhab] berkata, telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Abu Hurairah] ia berkata, "Seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam -laki-laki itu seorang yang tampan- dan berkata, "Wahai Rasulullah, aku menyukai keindahan, dan aku juga diberi keindahan sebagaimana yang engkau lihat, sampai-sampai aku tidak suka jika ada seseorang yang melebihiku -mungkin ia mengatakan, 'meskipun berupa sandal atau tali sandal'-, apakah itu bagian dari rasa sombong?" Beliau menjawab: "Tidak. Akan tetapi Sombong adalah menolak kebenaran dan meremehkan orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4092</td></tr><tr><td>Arabic No</td><td>4092</td></tr><tr><td>Reference</td><td>Book 34 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что однажды к Пророку ﷺ пришёл один красивый человек и сказал: «О Посланник Аллаха, я человек, любящий красоту, и мне даровано из неё то, что ты видишь. И я не люблю, когда кто-то превосходит меня даже ремешком своих сандалий. Является ли это высокомерием?» (Пророк ﷺ) ответил: «Нет. Высокомерие это отказ принимать истину и презрительное отношение к людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4092</td></tr><tr><td>Arabic No</td><td>4092</td></tr><tr><td>Reference</td><td>Book 34 Hadith 73</td></tr></tbody></table></div>
 

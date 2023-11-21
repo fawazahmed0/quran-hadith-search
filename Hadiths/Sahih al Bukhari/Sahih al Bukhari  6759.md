@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When Aisha intended to buy Barira, she said to the Prophet, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Hammam] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma mengatakan; Aisyah ingin membeli Barirah, kemudian dia berkata kepada Nabi shallallahu 'alaihi wasallam; 'Mereka memberi syarat wala'nya tetap milik mereka'. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Belilah ia, hanyasanya wala' bagi yang memerdekakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6759</td></tr><tr><td>Arabic No</td><td>6759</td></tr><tr><td>Reference</td><td>Book 85 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллаха им и его отцом, сказал: «Однажды ‘Аиша захотела выкупить Бариру, и сказала Пророку ﷺ: “Поистине, её владельцы сделали условием её продажи то, что право наследовать освобожденного /уаля/ останется за ними”. Тогда Пророк ﷺ сказал: “Выкупи её, ведь право наследовать вольноотпущенника /аль-уаля/ принадлежит только тому, кто освободил его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6759</td></tr><tr><td>Arabic No</td><td>6759</td></tr><tr><td>Reference</td><td>Book 85 Hadith 36</td></tr></tbody></table></div>
 

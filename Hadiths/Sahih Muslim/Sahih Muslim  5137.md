@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik is reported to have said that Allah's Messenger (ﷺ) had forbidde
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir Ahmad bin 'Amru bin Sarh] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku ['Amru bin Al Harits] bahwa [Qatadah bin Di'amah] telah menceritakan kepadanya, bahwa dia pernah mendengar [Anas bin Malik] berkata, "Sesugguhnya Rasulullah shallallahu 'alaihi wasallam melarang minuman dengan mencapur antara kurma masak dengan kurma muda, sebab hal itu adalah awal kali khamer diharamkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5137</td></tr><tr><td>Arabic No</td><td>1981</td></tr><tr><td>Reference</td><td>Book 36 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5137</td></tr><tr><td>Arabic No</td><td>1981</td></tr><tr><td>Reference</td><td>Book 36 Hadith 11</td></tr></tbody></table></div>
 

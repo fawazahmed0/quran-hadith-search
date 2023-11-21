@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ammar ibn Yasir: They (the Companions of the Prophet) wiped with pure e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ubaidullah bin Abdillah bin Utbah] telah menceritakan kepadanya dari [Ammar bin Yasir] bahwasanya dia pernah menceritakan, bahwasanya mereka (para sahabat) mengusap (anggota tayamum) dengan debu tanah untuk melaksanakan shalat Shubuh, sedangkan mereka itu bersama Rasulullah shallallahu 'alaihi wasallam. Mereka menepuk debu tanah dengan telapak tangan, kemudian mengusap muka mereka sekali, lalu mereka menepuk debu tanah dengan telapak tangan mereka sekali lagi, terus mereka usapkan pada tangan mereka semuanya sampai ke pundak dan ketiak dari bagian dalam tangan mereka. Telah menceritakan kepada kami [Sulaiman bin Dawud Al-Mahri] dan [Abdul Malik bin Syu'aib] dari [Ibnu Wahb] seperti hadits ini. Dia berkata; Kaum Muslimin menepukkan telapak tangan mereka ke tanah tanpa menggenggam tanah sedikit pun. Lalu dia menyebutkan hadits semisalnya tanpa menyebutkan perihal pundak dan ketiak. Ibnu Al-Laits berkata; Sampai di atas siku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 1 Hadith 318</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Аммар ибн Йасир рассказывал: «Когда они были с посланником Аллаха ﷺ перед утренней молитвой они обтирали землей (руки и лица). Они ударяли о землю ладонями и обтирали свои лица один раз, после чего повторно ударяли ладонями о землю и обтирали руки до плеч и подмышек с внутренней стороной рук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 1 Hadith 318</td></tr></tbody></table></div>
 

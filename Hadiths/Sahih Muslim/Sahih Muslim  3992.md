@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ahmad bin Abu Khalaf] dan [Hajjaj bin Sya'ir] keduanya berkata; telah menceritakan kepada kami [Abu Salamah Al Khuza'i] -Hajjaj Manshur bin Salamah berkata; telah mengabarkan kepada kami- [Sulaiman bin Bilal] dari [Khutsaim bin 'Irak] dari [Ayahnya] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang (pedagang) bangkrut, kemudian orang lain (pemilik modal) mendapati barangnya masih ada pada dia, maka dirinya (pemilik modal) lebih berhak atas barang tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3992</td></tr><tr><td>Arabic No</td><td>1559.06</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3992</td></tr><tr><td>Arabic No</td><td>1559.06</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qais reported:I said to 'Ammar: What is your opinion about that which you have d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Aswad bin 'Amir] telah menceritakan kepada kami [Syu'bah bin Al Hajjaj] dari [Qatadah] dari [Abu Nadhrah] dari [Qais] dia berkata; Saya pernah bertanya kepada Ammar, 'Bagaimanakah pendapatmu tentang peperangan melawan Ali? Atau, bagaimana pesan Rasulullah yang telah disampaikan kepadamu? ' [Ammar] menjawab; 'Rasulullah shallallahu 'alaihi wasallam tidak pernah menyampaikan pesan kepada kami suatu pesan yang tidak beliau sampaikan juga kepada semua orang.' 'Saya diberitahu oleh [Hudzaifah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Di kalangan sahabatku ada dua belas orang munafik. Di antara mereka ada delapan orang yang tidak akan masuk surga hingga ada seekor unta yang dapat masuk ke dalam lubang jarum. Delapan orang di antara mereka pasti akan tertimpa Dubailah, sedangkan yang empat lagi aku tidak hafal apa yang dikatakan Syu'bah tentang mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7035</td></tr><tr><td>Arabic No</td><td>2779.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7035</td></tr><tr><td>Arabic No</td><td>2779.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin Samura:Allah's Messenger (ﷺ) said, "When Khosrau is ruined,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq] dia mendengar [Jarir] dari ['Abdul Malik] dari [Jabir bin Samrah Radliallahu 'anhu] berkata; Rasulullah Shallallahu'alaiwasallam bersabda: "Jika Kisra (Raja Persia) binasa maka tidak akan ada lagi Kisra lain sesudahnya dan jika Qaishar (Raja Romawi) binasa maka tidak akan ada lagi Qaishar lain sesudahnya. Dan demi Dzat yang jiwaku berada di tangan-Nya, sungguh kalian akan mengambil perbendaharaan kekayaan keduanya (sebagai ghanimah) di jalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3121</td></tr><tr><td>Arabic No</td><td>3121</td></tr><tr><td>Reference</td><td>Book 57 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн Самуры, да будет доволен им Аллах, что Посланник Аллаха, да благословит его Аллах и приветствует, сказал: «После того как погибнет хосрой, не будет другого хосроя после него, и после того как погибнет кесарь, не будет кесаря после него. Клянусь Тем, в Чьих руках моя душа, их сокровища непременно будут израсходованы на пути Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3121</td></tr><tr><td>Arabic No</td><td>3121</td></tr><tr><td>Reference</td><td>Book 57 Hadith 30</td></tr></tbody></table></div>
 

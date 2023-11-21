@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari [Ibrahim bin Abdullah bin Hunain] dari [ayahnya] bahwa Abdullah bin Abbas serta Al Miswar bin Makhramah telah berselisih di Abwa'. Ibnu Abbas berkata; orang yang berihram boleh mencuci kepalanya, sedangkan Al Miswar berkata; tidak boleh orang yang berihram mencuci rambut kepalanya. Kemudian Abdullah bin Abbas mengutusku kepada [Abu Ayyub Al Anshari], kemudian aku mendapatinya sedang mandi di antara dua dinding sumur, dan ia ditutupi menggunakan kain. Abdullah bin Hunain berkata; kemudian aku mengucapkan salam kepadanya, ia berkata; siapakah ini? Aku katakan; saya, Abdullah bin Hunain, Abdullah bin Abbas telah mengutusku kepada anda untuk bertanya kepada anda; bagaimana Rasulullah shallAllahu wa'alaihi wa sallam mencuci kepalanya sementara beliau dalam keadaan berihram? Abdullah bin Hunain berkata; kemudian Abu Ayyub meletakkan tangannya pada kain dan merendahkan hingga nampak kepalanya, kemudian kemudian ia berkata kepada seseorang agar menuangkan air ke kepalanya; tuangkan! Umar berkata; kemudian ia menungankan pada kepalannya kemudian Abu Ayyub menggerakkan kepalanya dengan kedua tangannya, ia menggerakkan kedepan dan ke belakang. Kemudian berkata; demikianlah aku melihat beliau shallallahu 'alaihi wasallam melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1840) Sahih Muslim (1205)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1840</td></tr><tr><td>Arabic No</td><td>1840</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Хунайн передаёт со слов своего отца: «‘Абдуллах ибн ‘Аббас и аль-Мисвар ибн Махрама в Абве разошлись во мнениях. Ибн ‘Аббас сказал: “Паломник в состоянии ихрама может мыть голову”. А аль-Мисвар ибн Махрама сказал: “Ему не разрешается мыть голову”. Тогда Ибн ‘Аббас послал меня к Абу Айюбу аль-Ансари. Я пришёл к нему, когда он мылся между двумя столбами, прикрываемый одеждой. Я поприветствовал его. Он спросил: “Кто это?” Я ответил: “‘Абдуллах ибн Хунайн. Меня послал к тебе ‘Абдуллах ибн ‘Аббас, чтобы я спросил тебя, как Посланник Аллаха ﷺ мыл голову в состоянии ихрама”. Абу Айюб положил руку на одежду, чтобы мне была видна его голова, и сказал человеку, который поливал ему: “Лей”, и тот полил ему на голову, а Абу Айюб потёр голову руками и провел ими вперёд и назад, после чего сказал: “Я видел, что Посланник Аллаха ﷺ поступал так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1840) Sahih Muslim (1205)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1840</td></tr><tr><td>Arabic No</td><td>1840</td></tr><tr><td>Reference</td><td>Book 11 Hadith 120</td></tr></tbody></table></div>
 

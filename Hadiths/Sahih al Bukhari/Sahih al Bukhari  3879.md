@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) offered the funeral prayer for As
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] dari [Sulaim bin Hayyan] telah menceritakan kepada kami [Sa'id bin Minaa'] dari [Jabir bin Abdullah] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat atas meninggalnya an Najasyi, beliau bertakbir sebanyak empat kali. Hadits ini di perkuat pula oleh ['Abdush Shamad]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3879</td></tr><tr><td>Arabic No</td><td>3879</td></tr><tr><td>Reference</td><td>Book 63 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Когда Пророк ﷺ совершил заупокойную молитву за Асхама ан-Наджаши, он произнёс четыре такбира (слова “Аллах велик /Аллаху акбар/”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3879</td></tr><tr><td>Arabic No</td><td>3879</td></tr><tr><td>Reference</td><td>Book 63 Hadith 104</td></tr></tbody></table></div>
 

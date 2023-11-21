@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ubaida:I asked 'Aisha 'regarding the verse:--'Verily we have grante
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Yazid Al Kahili] Telah menceritakan kepada kami [Isra'il] dari [Abu Ishaq] dari [Abu Ubaidah] dari [Aisyah] radliallahu 'anha. Aku pernah bertanya kepadanya tentang firman Allah Ta'ala, "INNAA A'THAINAAKAL KAUTSAR." Maka Aisyah pun menjawab, "Itu adalah sungai yang telah diberikan kepada Nabi kalian shallallahu 'alaihi wasallam. Kedua tepinya terdapat mutiara yang berlubang. Bejana-bejana sejumlah bintang di langit. Hadits ini juga diriwayatkan oleh [Zakaria], [Abu Al Ahwash] dan [Mutharrif] dari [Abu Ishaq]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4965</td></tr><tr><td>Arabic No</td><td>4965</td></tr><tr><td>Reference</td><td>Book 65 Hadith 487</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что в ответ на вопрос о словах Всевышнего “Поистине, Мы даровали тебе аль-Каусар”. ‘Аиша, да будет доволен ею Аллах, сказала: «(Аль-Каусар — это) река, которая дарована вашему Пророку ﷺ и на берегах которой находятся (шатры из) полого жемчуга и сосуды, столь же многочисленные, как и звёзды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4965</td></tr><tr><td>Arabic No</td><td>4965</td></tr><tr><td>Reference</td><td>Book 65 Hadith 487</td></tr></tbody></table></div>
 

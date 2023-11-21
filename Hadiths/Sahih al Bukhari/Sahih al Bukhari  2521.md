@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Whoever manumits a slave owned by tw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Salim] dari [bapaknya] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang membebaskan seorang budak yang dimiliki dua orang secara berserikat, maka apabila ada kelapangan hendaklah budak itu ditaksir harganya secara adil lantas dibebankan kepadanya, lantas di budak dibebaskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2521</td></tr><tr><td>Arabic No</td><td>2521</td></tr><tr><td>Reference</td><td>Book 49 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим передал от своего отца, что Пророк ﷺ сказал: «Если раб принадлежит двоим и один из них освободил свою долю, то, если он достаточно состоятелен, он должен выплатить второму оставшуюся часть стоимости раба, после чего тот считается свободным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2521</td></tr><tr><td>Arabic No</td><td>2521</td></tr><tr><td>Reference</td><td>Book 49 Hadith 5</td></tr></tbody></table></div>
 

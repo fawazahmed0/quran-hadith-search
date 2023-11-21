@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ya'lâ Ibn 'Umayya (que Dieu l'agrée) un homme, portant une tunique pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu Ali Ubaidullah bin Abdul Majid] telah menceritakan kepada kami [Rabah bin Abu Ma'ruf] ia berkata, saya mendengar [Atha'] berkata, telah mengabarkan kepadaku [Shafwan bin Ya'la] dari [bapaknya] radliallahu 'anhu, ia berkata; Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba seorang laki-laki yang mengenakan Jubah dan telah terlumuri oleh Khaluq mendatangi beliau seraya berkata, "Wahai Rasulullah, saya telah berihram dengan niat Umrah, lalu bagaimana saya harus melakukannya?" Namun beliau kemudian terdiam dan tidak menjawab pertanyaan laki-laki itu. kemudian Umar pun menutupi (menyelimuti) beliau, demikianlah ketika wahtu turun. Maka saya pun berkata kepada Umar radliallahu 'anhu, "Saya ingin memasukkan kepalaku dalam selimut itu pada saat wahyu diturunkan kepada beliau." Dan ketika diturunkannya wahyu pada beliau, maka Umar langsung menyelimuti beliau dan aku pun datang dan memasukkan kepala ke dalam selimut, sehingga aku dapat melihat beliau. Ketika siuman, beliau bertanya: "Mana orang yang bertanya tentang Umrah tadi?" Kemudian laki-laki itu pun beranjak menuju kepada beliau. Maka beliau pun bersabda: "Tanggalkanlh jubahmu, dan cucilah bekas Khaluq yang masih berbekas pada dirimu. Kemudian lakukanlah di dalam Umrahmu sebagaimana apa yang kamu lakukan dalam hajimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>1180.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>1180.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 12</td></tr></tbody></table></div>
 

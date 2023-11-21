@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sauda:(the wife of the Prophet) One of our sheep died and we tanned its
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepadaku [Abdullah] Telah mengabarkan kepada kami [Isma'il bin Abi Khalid] dari [Asy Sya'bi] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma dari [Saudah] isteri Nabi shallallahu 'alaihi wasallam; "seekor kambing kami mati, kemudian kami menyamak kulitnya, dan kami gunakan untuk geriba minuman hingga geriba itu usang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6686</td></tr><tr><td>Arabic No</td><td>6686</td></tr><tr><td>Reference</td><td>Book 83 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сауда жена Пророка ﷺ сказала: «Однажды у нас издохла овца, и мы выдубили её шкуру, а затем мы делали в ней настой фиников (набиз), пока она не превратилась в ветхий бурдюк»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6686</td></tr><tr><td>Arabic No</td><td>6686</td></tr><tr><td>Reference</td><td>Book 83 Hadith 63</td></tr></tbody></table></div>
 

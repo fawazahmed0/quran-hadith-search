@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id reported that Allah's Messenger (ﷺ) met him (Ibn Sayyad) and so did 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Salim bin Nuh] dari [Al Jurairi] dari [Abu Nadhrah] dari [Abu Sa'id] berkata: Rasulullah Shallallahu 'alaihi wa Salam, Abu Bakar dan Umar berpapasan dengannya (Ibnu Shayyad) disalah satu jalanan Madinah lalu Rasulullah Shallallahu 'alaihi wa Salam bertanya padanya: "Apa kau bersaksi bahwa aku utusan Allah?" ia balik bertanya: Apa kau bersaksi bahwa aku utusan Allah? Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Aku beriman kepada Allah, malaikat dan kitab-kitabNya." Beliau bertanya: "Apa yang kau lihat?" ia menjawab: Aku melihat singgasana di atas air. Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Kau melihat singgasana iblis di atas laut." Beliau bertanya: "Apa yang kau lihat?" ia menjawab: Dua orang yang jujur dan seorang pendusta, atau dua orang pendusta dan seorang yang juju. Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Ia dikaburkan, biarkanlah dia." Telah menceritakan kepada kami [Yahya bin Hubaib] dan [Muhammad bin Abdula'la], keduanya berkata: Telah menceritakan kepada kami [Mu'tamir] berkata: Aku mendengar [ayahku] berkata: Telah menceritakan kepada kami [Abu Nadhrah] dari [Jabir bin Abdullah] berkata: Nabi Allah subhanahu wata'ala Rasulullah Shallallahu 'alaihi wa Salam bertemu Ibnu Shayyad, beliau bersama Abu Bakar dan Umar, sementara Ibnu Shayyad bersama anak-anak, ia menyebut seperti hadits Al Jurairi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7346</td></tr><tr><td>Arabic No</td><td>2925</td></tr><tr><td>Reference</td><td>Book 54 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7346</td></tr><tr><td>Arabic No</td><td>2925</td></tr><tr><td>Reference</td><td>Book 54 Hadith 110</td></tr></tbody></table></div>
 

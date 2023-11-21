@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amir b. Rabi'a has reported on the authority of his father that he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Sawwad] dan [Harmalah] katanya; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abdullah bin 'Amir bin Rabiah] bahwa dia telah mengabarkan kepadanya, bahwa [Ayahnya] telah mengabarkan kepadanya, bahwa dia pernah melihat Rasulullah shallallahu 'alaihi wasallam shalat sunnah malam hari, ketika dalam perjalanan di atas punggung hewan tunggangannya, kearah mana saja beliau menghadap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 6 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Амра ибн Раби‘а, что его отец видел Посланника Аллаха ﷺ совершающим ночью добровольную молитву, сидя верхом на своей верблюдице и направляясь в ту сторону, куда она обращалась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 6 Hadith 50</td></tr></tbody></table></div>
 

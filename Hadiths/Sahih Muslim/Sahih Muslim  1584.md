@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jubair b. Nufair reported:I went along with Shurahbil b. al-Simt to a village wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1584</td></tr><tr><td>Arabic No</td><td>692.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Нуфайр сказал: «Однажды я отправился вместе с Шурахбилем ибн ас-Симтом в селение, которое было расположено на расстоянии семнадцати или восемнадцати миль, и он совершил молитву в два рак‘ата. Я сказал ему (об этом), и он ответил: “Я видел, как ‘Умар совершил два рак‘ата в Зуль-Хулейфе, и я (тоже) сказал ему (об этом), а он ответил: “Я делаю то же самое, что, как я видел, делал Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1584</td></tr><tr><td>Arabic No</td><td>692.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 15</td></tr></tbody></table></div>
 

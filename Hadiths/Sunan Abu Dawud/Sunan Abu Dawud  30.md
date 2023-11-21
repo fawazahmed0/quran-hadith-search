@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When the Prophet (ﷺ) came out of the privy, he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Muhammad An Naqid] telah menceritakan kepada kami [Hasyim bin Al Qasim] telah menceritakan kepada kami [Isra'il] dari [Yusuf bin Abu Burdah] dari [Ayahnya] telah menceritakan kepada saya [Aisyah] radliallahu 'anha bahwasanya Rasulullah shallallahu 'alaihi wasallam apabila keluar dari WC, beliau mengucapkan: "GHUFRAANAKA (Aku mohon ampunanMu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>30</td></tr><tr><td>Arabic No</td><td>30</td></tr><tr><td>Reference</td><td>Book 1 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Предают со слов Юсуфа ибн Абу Бурды и его отца о том, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «Когда Пророк ﷺ выходил из отхожего места, он говорил: “Прошу Твоего прощения” /гъуфранак/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>30</td></tr><tr><td>Arabic No</td><td>30</td></tr><tr><td>Reference</td><td>Book 1 Hadith 30</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported (that whenever it was her turn for Allah's Messenger [may peace 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Syarik, yaitu anaknya Abu Namir] dari [Atha' bin Yasar] dari [Aisyah] bahwa ia berkata; Pada malam gilirannya bersama Rasulullah shallallahu 'alaihi wasallam, di akhir malam beliau keluar ke Bagi' dan mengucapkan: "Semoga keselamatan atas kalian wahai para penghuni (kuburan) dari kaum mukminin. Apa yang dijanjikan Allah kepada kalian niscaya akan kalian dapati esok (pada hari kiamat), dan kami Insya Allah akan menyusul kalian. Ya Allah ampunilah penduduk Baqi' yang mati tenggelam." Qutaibah tidak menyebutkan; "Wa Ataakum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2255</td></tr><tr><td>Arabic No</td><td>974.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что каждый раз, как Посланник Аллаха ﷺ проводил ночь у неё, в конце её он выходил на аль-Баки‘ и говорил: «Мир вам, о (пребывающие в) обители верующих, пришло к вам то, что было вам обещано, а завтра наступит (наш) срок, и, поистине, если будет угодно Аллаху, мы присоединимся к вам. О Аллах, прости лежащим на Бакы‘ аль-Гаркад!” /Ас-саляму ‘аляйкум, дара каумин муъминина, ва ата-кум ма ту‘адуна, гадан муаджжалюна, ва инна, ин шаа-Ллаху, би-кум ляхыкуна. Аллахумма-гфир ли-ахли Бакы‘и-ль-Гаркад!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2255</td></tr><tr><td>Arabic No</td><td>974.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 131</td></tr></tbody></table></div>
 

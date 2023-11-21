@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il (b. Hujr):A man brought an Abyssinian to the Prophet (ﷺ) and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Auf Ath Tha'i] berkata, telah menceritakan kepada kami [Abdul Qudus Ibnul Hajjaj] berkata, telah menceritakan kepada kami [Yazid bin Atha Al Wasithi] dari [Simak] dari [Alqamah bin Wail] dari [Bapaknya] ia berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dengan membawa seorang habsyi, ia berkata, "Sesungguhnya orang habsyi ini telah membunuh anak saudaraku!" Beliau bertanya kepada habsyi tersebut: "Bagaimana kamu membunuhnya?" Ia menjawab, "Aku memukul kepalanya dengan kapak, tetapi aku tidak bermaksud membunuhnya." Beliau bertanya lagi: "Apa kamu mempunyai harta untuk membayar tebusan?" Ia menjawab, "Tidak." Beliau bertanya lagi: "Bagaimana menurutmu jika aku bebaskan kamu, lalu kamu mencari bantuan dana kepada orang-orang?" Ia menjawab, "Tidak perlu." Beliau bertanya lagi: "Apa barangkali wali-walimu yang akan memberikan uang tebusannya?" Ia menjawab, "Tidak." Beliau lalu bersabda kepada laki-laki (wali korban): "Bawalah ia." Maka laki-laki membawa pergi orang habsyi tersebut untuk dibunuh. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Sebenarnya jika laki-laki itu membunuh orang habsyi tersebut, maka kedudukannya akan sama dengan orang habsyi itu." Ucapan Rasulullah itu akhirnya sampai ke telinganya laki-laki tersebut, ia lalu berkata, "Ini aku serahkan kembali. Maka berilah perintah sesukamu." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Bebaskanlah orang habsyi itu." Dalam riwayat lain beliau mengatakan, "Biarkanlah, maka ia akan menanggung dosa temannya (korban) dan dosanya sendiri. Lalu ia akan masuk ke dalam neraka." Wali korban itu lantas membebaskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4501</td></tr><tr><td>Arabic No</td><td>4501</td></tr><tr><td>Reference</td><td>Book 41 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Алькама ибн Ваиль передаёт от своего отца, что один человек привёл к Пророку ﷺ эфиопа и сказал: «Этот человек убил сына моего брата!» Пророк ﷺ спросил: «Как ты убил его?» Тот ответил: «Я ударил его топором по голове, однако я не хотел убивать его». (Пророк ﷺ) спросил: «Есть ли у тебя деньги, чтобы выплатить компенсацию /дийа/?» Он ответил: «Нет». (Пророк ﷺ) спросил: «А если я отпущу тебя сейчас, ты сможешь, прося у людей, собрать компенсацию?» Он ответил: «Нет». (Пророк ﷺ) спросил: «Смогут ли твои хозяева заплатить за тебя?» Он ответил: «Нет». Тогда (Пророк ﷺ) сказал покровителю убитого: «Забирай его». И он забрал его и повёл, собираясь казнить, а Посланник Аллаха ﷺ сказал: «Если он убьёт его, то сам уподобится ему». Услышав это, (покровитель убитого), привёл его назад и сказал: «Вот он. Отдай относительно него любое распоряжение». Посланник Аллаха ﷺ сказал: «Отпусти его (или: оставь его), и тогда он понесёт бремя и своего греха, и греха своего товарища и станет одним из обитателей Огня». И тот отпустил его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4501</td></tr><tr><td>Arabic No</td><td>4501</td></tr><tr><td>Reference</td><td>Book 41 Hadith 8</td></tr></tbody></table></div>
 

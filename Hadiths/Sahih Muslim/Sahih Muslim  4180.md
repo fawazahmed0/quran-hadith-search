@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported that his father had donated a slave to him. Allah's Ap
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Hisyam bin 'Urwah] dari [Ayahnya] dia berkata; telah menceritakan kepada kami [An Nu'man bin Basyir] dia berkata, "Dahulu ayahnya pernah memberinya seorang hamba sahaya, maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Siapakah sahaya ini?" dia menjawab, "Sahaya ini adalah pemberian dari ayahku." Beliau bertanya: "Apakah setiap saudaramu mendapatkan hal yang sama sebagaimana yang telah diberikan kepadamu?" dia menjawab, "Tidak." Beliau bersabda: "Kembalikanlah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4180</td></tr><tr><td>Arabic No</td><td>1623.04</td></tr><tr><td>Reference</td><td>Book 24 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4180</td></tr><tr><td>Arabic No</td><td>1623.04</td></tr><tr><td>Reference</td><td>Book 24 Hadith 18</td></tr></tbody></table></div>
 

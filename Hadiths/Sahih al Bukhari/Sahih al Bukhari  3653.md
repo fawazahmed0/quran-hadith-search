@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr:I said to the Prophet (ﷺ) while I was in the Cave. "If any o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Hammam] dari [Tsabit] dari [Anas] dari [Abu Bakr radliallahu 'anhu] berkata; "Aku berkata kepada Nabi shallallahu 'alaihi wasallam saat berada di gua; "Seandainya salah seorang dari mereka melihat ke bawah kedua kakinya pasti dia melihat kita". Maka beliau berkata: "Tidakkah engkau beranggapan wahai Abu Bakr, bahwa jika ada dua orang, maka Allah yang ketiganya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3653</td></tr><tr><td>Arabic No</td><td>3653</td></tr><tr><td>Reference</td><td>Book 62 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр, да будет доволен им Аллах, сказал: «Находясь в пещере, я сказал Пророку ﷺ: “Если кто-нибудь из них посмотрит под ноги, то увидит нас!” (В ответ мне Пророк ﷺ) сказал: “А что думаешь ты, о Абу Бакр, о двоих, третьим для которых является Аллах?“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3653</td></tr><tr><td>Arabic No</td><td>3653</td></tr><tr><td>Reference</td><td>Book 62 Hadith 5</td></tr></tbody></table></div>
 

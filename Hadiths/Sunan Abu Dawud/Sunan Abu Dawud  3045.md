@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Yunus bin Yazid?], dari [Ibnu Syihab], dari ['Urwah bin Az Zubair] bahwa [Hisyam bin Hakim bin Hizam] telah mendapati seorang laki-laki pemimpin Himsh menjemur beberapa orang dari Qibth (penduduk Mesir) di bawah terik matahari, dalam menunaikan jizyah. Kemudian Hisyam berkata; ada apa ini? Aku telah mendengar Rasulullah shallallahu 'alaihi wasallam berkata; sesungguhnya Allah akan menyiksa orang-orang yang menyiksa manusia di dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3045</td></tr><tr><td>Arabic No</td><td>3045</td></tr><tr><td>Reference</td><td>Book 20 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы ибн аз-Зубайра, что Хишам ибн Хаким ибн Хизам увидел в Хомсе человека, который заставлял несколько человек из числа набатеев стоять под палящим солнцем из-за неуплаты джизьи, и воскликнул: «Что это?! Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, Аллах подвергнет наказанию тех, кто мучает людей в этом мире”!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3045</td></tr><tr><td>Arabic No</td><td>3045</td></tr><tr><td>Reference</td><td>Book 20 Hadith 118</td></tr></tbody></table></div>
 

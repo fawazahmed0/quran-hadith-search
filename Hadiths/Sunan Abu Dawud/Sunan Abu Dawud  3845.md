@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said that when the Messenger of Allah (ﷺ) ate food, he licked hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam jika makan makanan, beliau menjilat jari-jarinya sebanyak tiga kali, beliau bersabda: "Jika suapan salah seorang dari kalian jatuh, maka hendaknya ia membersihkannya dari kotoran dan memakannya, dan janganlah ia membiarkannya untuk setan!" Dan beliau memerintahkan kami agar mengusap piring. Beliau bersabda: "Sesungguhnya tidak seorangpun di antara kalian mengetahui dibagian makanan makanakah ia diberi berkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2034)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3845</td></tr><tr><td>Arabic No</td><td>3845</td></tr><tr><td>Reference</td><td>Book 28 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ ел, он облизывал три пальца и говорил: «Если у кого-нибудь из вас упадёт кусок пищи, пусть он возьмёт его, очистит от всего лишнего и съест, не оставляя его шайтану». [Он сказал:] «И Посланник Аллаха ﷺ велел нам начисто вытирать блюдо, говоря: “Поистине, не знаете вы, в каком куске вашей пищи сокрыта благодать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2034)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3845</td></tr><tr><td>Arabic No</td><td>3845</td></tr><tr><td>Reference</td><td>Book 28 Hadith 110</td></tr></tbody></table></div>
 

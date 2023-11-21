@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) stayed in Mecca for 19 days during which h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami ['Ashim] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhu katanya, Nabi shallallahu 'alaihi wasallam pernah diam di Makkah selama sembilan belas hari dan selama itu pula beliau lakukan shalat dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>4298</td></tr><tr><td>Reference</td><td>Book 64 Hadith 331</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Находясь в Мекке девятнадцать дней, Пророк ﷺ совершал молитвы в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>4298</td></tr><tr><td>Reference</td><td>Book 64 Hadith 331</td></tr></tbody></table></div>
 

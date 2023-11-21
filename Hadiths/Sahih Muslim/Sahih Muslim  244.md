@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that when, the son of Adam recite
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila manusia membaca surat as-Sajdah, lalu dia sujud, maka setan menjauh menyendiri untuk menangis seraya berkata, 'Celakalah'." Dan dalam riwayat Abu Kuraib, "Celakalah aku, manusia disuruh bersujud maka mereka bersujud sehingga dia mendapatkan surga, sedangkan aku disuruh bersujud, lalu aku enggan, sehingga aku mendapatkan neraka'." Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [al-A'masy] dengan sanad ini semisalnya, hanya saja dia menyebutkan, 'Lalu aku durhaka sehingga aku mendapatkan neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>81.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Если сын Адама прочтёт (аят, после чтения которого совершается) земной поклон и совершит земной поклон, то шайтан удаляется, плача и восклицая: “О горе ему…” (В версии, которую передают со слов Абу Курайба, сообщается, что шайтан говорит: “О горе мне!) Сыну Адама было велено совершать земные поклоны, и он совершает их и ему (за это воздаянием станет) Рай, а мне было велено склониться до земли, но я отказался, и теперь меня ожидает (адский) Огонь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>81.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 151</td></tr></tbody></table></div>
 

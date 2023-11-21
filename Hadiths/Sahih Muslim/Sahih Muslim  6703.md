@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that a woman came to Allah's Apostle (ﷺ) with her child a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], [Muhammad bin 'Abdullah bin Numair], [Abu Sa'id Al Asyaj] lafazh ini milik Abu Bakr dia berkata; Telah menceritakan kepada kami [Hafsh] yaitu Ibnu Ghiyats; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats]; Telah menceritakan kepada kami [Bapakku] dari Kakekku [Thalq bin Mu'awiyah] dari [Abu Zur'ah bin'Amru bin Jarir] dari [Abu Hurairah] dia berkata; "Seorang wanita datang menemui Rasulullah shallallahu 'alaihi wasallam dengan membawa anaknya yang sedang sakit seraya berkata; 'Wahai Rasulullah shallallahu 'alaihi wasallam, do'akanlah kepada Allah kesembuhan untuknya, karena sungguh aku telah mempersembahkan tiga anak'. Beliau bertanya; "Benarkah sudah tiga anak? Wanita itu menjawab; 'Ya.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh engkau telah terhalang dengan tabir yang kuat dari api neraka." Umar berkata; dari antara mereka, dari kakeknya. Sedangkan yang lainnya berkata; dari Thalq -tanpa menyebutkan dari kakeknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6703</td></tr><tr><td>Arabic No</td><td>2636.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6703</td></tr><tr><td>Arabic No</td><td>2636.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 199</td></tr></tbody></table></div>
 

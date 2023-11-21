@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Maimunah said:When the Prophet(ﷺ) prostrated himself, he kept his arms so far 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Sufyan] dari ['Ubaidullah bin Abdullah] dari [pamannya Yazid bin Al Asham] dari [Maimunah] bahwa apabila Nabi shallallahu 'alaihi wasallam sujud, beliau merenggangkan antara kedua tangannya sehingga seandainya ada seekor anak kambing yang hendak lewat di bawah kedua tangan beliau, tentu ia akan melewatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (496)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>898</td></tr><tr><td>Arabic No</td><td>898</td></tr><tr><td>Reference</td><td>Book 2 Hadith 508</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Маймуны, да будет доволен ею Аллах, что Пророк ﷺ совершая земной поклон, расставлял руки так широко, что, если бы ягнёнок захотел пройти под его руками, он бы смог сделать это
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (496)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>898</td></tr><tr><td>Arabic No</td><td>898</td></tr><tr><td>Reference</td><td>Book 2 Hadith 508</td></tr></tbody></table></div>
 

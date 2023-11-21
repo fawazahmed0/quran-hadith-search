@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that Ibn 'Urnar used to kill all types of snakes until Abu Lubaba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Jarir bin Hazim]; Telah menceritakan kepada kami [Nafi'] dia berkata; Ibnu 'Umar pernah membunuh semua ular hingga kemudian [Abu Lubabah bin Al Mundzir Al Badri] menceritakan kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang membunuh ular-ular kecil yang berada di rumah. Maka Ibnu Umar pun tidak membunuhnya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5829</td></tr><tr><td>Arabic No</td><td>2233.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5829</td></tr><tr><td>Arabic No</td><td>2233.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 180</td></tr></tbody></table></div>
 

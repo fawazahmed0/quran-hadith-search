@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:We said, "O Allah's Messenger (ﷺ)! You send us out an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] radliallahu 'anhu bahwa dia berkata; "Kami bertanya; "Wahai Rasulullah, sesungguhnya anda mengutus kami, lalu kami singgah di suatu kaum, namun mereka tidak melayani kami, bagaimana menurut anda?" maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami: "Jika kalian singgah di suatu kaum, lalu mereka melayani kalian sebagaimana layaknya seorang tamu, maka terimalah layanan mereka. Jika mereka tidak melayani kalian, maka kalian boleh mengambil dari mereka hak tamu yang pantas mereka berikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6137</td></tr><tr><td>Arabic No</td><td>6137</td></tr><tr><td>Reference</td><td>Book 78 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн ‘Амир, да будет доволен им Аллах, сказал: «(Однажды) мы сказали (Пророку ﷺ): “О Посланник Аллаха, ты посылаешь нас, а мы останавливаемся у людей, не оказывающих нам (гостеприимства). Что ты об этом скажешь?” (В ответ) Посланник Аллаха ﷺ сказал нам: “Если остановитесь у кого-либо и будет велено (принимать вас), как положено (принимать гостя), то примите это, если же они этого не сделают, сами берите с них то, что полагается гостю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6137</td></tr><tr><td>Arabic No</td><td>6137</td></tr><tr><td>Reference</td><td>Book 78 Hadith 164</td></tr></tbody></table></div>
 

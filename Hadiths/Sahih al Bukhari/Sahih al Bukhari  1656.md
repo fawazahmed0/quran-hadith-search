@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Haritha bin Wahab Al-Khuza'i:The Prophet (ﷺ) led us in a two-rak'at p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq Al Hamdaniy] dari [Haritsah bin Wahb Al Akhza'iy radliallahu 'anhu] berkata: "Nabi Shallallahu'alaihiwasallam shalat bersama kami, saat itu jumlah kami belum pernah sebanyak itu, sebagaimana Beliau selalu lakukan seperti saat di Mina hanya dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>1656</td></tr><tr><td>Reference</td><td>Book 25 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса ибн Вахб аль-Хуза‘и, да будет доволен им Аллах, сказал: «Пророк ﷺ совершал с нами молитвы в Мине в два рак‘ата, хотя в то время нас было больше, чем когда-либо, и мы были в большей безопасности, чем когда-либо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>1656</td></tr><tr><td>Reference</td><td>Book 25 Hadith 137</td></tr></tbody></table></div>
 

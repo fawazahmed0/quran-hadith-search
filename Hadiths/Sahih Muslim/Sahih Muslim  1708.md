@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported:I asked 'A'isha whether the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Sa'id Al Jurairi] dari [Abdulah bin Syaqiq], katanya; saya bertanya kepada ['Aisyah]; "Pernahkah Nabi shallallahu 'alaihi wasallam shalat dengan duduk?" 'Aisyah menjawab; "Benar, setelah beliau merasa dirinya lemah karena lanjut usia." Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Kahmas] dari [Abdullah bin Syaqiq] katanya; Aku bertanya kepada ['Aisyah], lalu ia menyebutkan dari Nabi shallallahu 'alaihi wasallam seperti hadits semisal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1708</td></tr><tr><td>Arabic No</td><td>732.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Шакык сказал: «Я спросил ‘Аишу: “Совершал ли Пророк ﷺ молитву сидя?”, и она сказала: “Да, когда он состарился (из-за) людей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1708</td></tr><tr><td>Arabic No</td><td>732.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 138</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. Abu Salama reported:I was under the care of Allah's Messenger (way peace
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Abu 'Umar] -semuanya- dari [Sufyan]; Abu Bakr berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Al Walid bin Katsir] dari [Wahb bin Kaisan] yang dia dengar dari ['Umar bin Abu Salamah] ia berkata; Dulu aku berada di pangkuan Rasulullah shallallahu 'alaihi wasallam, lantas tanganku memegang piring, maka beliau bersabda kepadaku: "Wahai anak, sebutlah nama Allah, dan makanlah dengan tangan kananmu, serta makanlah yang ada di hadapanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5269</td></tr><tr><td>Arabic No</td><td>2022.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5269</td></tr><tr><td>Arabic No</td><td>2022.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 143</td></tr></tbody></table></div>
 

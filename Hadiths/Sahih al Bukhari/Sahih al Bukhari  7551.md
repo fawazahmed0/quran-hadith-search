@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran:I said, "O Allah's Messenger (ﷺ)! Why should a doer (people) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits], [Yazid] berkata; telah menceritakan kepadaku [Mutharrif bin Abdullah] dari [Imran] ia berkata, "Aku bertanya, 'Lalu untuk apa orang-orang beramal? ' Beliau menjawab: 'Setiap orang akan dimudahkan (menuju jalan) penciptaannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7551</td></tr><tr><td>Arabic No</td><td>7551</td></tr><tr><td>Reference</td><td>Book 97 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Имрана (ибн Хусайна), да будет доволен им Аллах, что он сказал: «Я спросил: “О Посланник Аллаха! Так ради чего же (люди стараются) делать (добрые дела, если всё уже предопределено)?” Он ответил: “Каждому будет облегчено совершение того, ради чего он был создан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7551</td></tr><tr><td>Arabic No</td><td>7551</td></tr><tr><td>Reference</td><td>Book 97 Hadith 176</td></tr></tbody></table></div>
 

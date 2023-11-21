@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Quand l'Envoyé de Dieu (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari ['Umarah bin Qa'Qa] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam bertakbir ketika shalat, maka beliau diam sejenak sebelum membaca Al Fatihah, lalu aku bertanya; "Wahai Rasulullah, demi ayah dan ibuku, apa yang engkau baca saat engkau diam antara takbir dan membaca Al Fatihah?" beliau menjawab: "ALLAAHUMMA BAA'ID BAINII WABAINA KHATHAYAAYA KAMAA BAA'ADTA BAINAL MASYRIQI WAL MAGHRIB, ALLAAHUMMA NAQQINII MIN KHOTHAAYAAYA KAMAA YUNAQQATS TSAUBUL ABYADHU MINAD DANASI, ALLAAHUMMAGH SIL NII MIN KHATHAAYAAYA BITSTSALJI WALMAA'I WALBARAD (Ya Allah, jauhkanlah antara aku dan kesalahanku sebagaimana Engkau jauhkan antara timur dan barat, Ya Allah, bersihkanlah aku dari kesalahanku sebagaimana baju putih dibersihkan dari kotoran, Ya Allah, cucilah aku dari kesalahanku dengan es, air dan embun)." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata, telah menceritakan kepada kami [Ibnu Fudhail] (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Abdul Wahid yaitu Ibn Ziyad], keduanya dari ['Umarah bin Qa'qa'] dengan isnad ini seperti hadis Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1354</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Обычно Посланник Аллаха ﷺ умолкал на короткий промежуток времени между произнесением слов “Аллах велик” /Аллаху Акбар/ и (началом) чтения (“аль-Фатихи”), и я сказал: “О Посланник Аллаха, да станут мои отец и мать выкупом за тебя, ты молчишь между такбиром и чтением (“аль-Фатихи”), (скажи), что ты говоришь (в это время)?” Он сказал: “Я говорю: “О Аллах, удали меня от прегрешений моих, как удалил Ты восток от запада! О Аллах, очисть меня от прегрешений моих, как (очищают) белую одежду от грязи! О Аллах, омой меня снегом, водой и градом! /Аллахумма, ба‘ид байни ва байна хатайайа кя-ма ба’адта байна-ль-машрики ва-ль-магриб. Аллахумма, наккы-ни мин аль-хатайа кя-ма йунакка-с-саубу-ль-абйаду мин ад-данас. Аллахумма-гъсильни мин хатайайа би-с-сальджи, ва-ль-маи, ва-ль-баради!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1354</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

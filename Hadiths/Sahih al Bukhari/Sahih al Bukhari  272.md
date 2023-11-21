@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham bin 'Urwa:(on the authority of his father) 'Aisha said, "Wheneve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah] berkata,: "Adalah Nabi Rasulullah shallallahu 'alaihi wasallam. jika mandi janabat, mencuci tangannya dan berwudlu' sebagaimana wudlu' unmtuk shalat. Kemudian mandi dengan menggosok-gosokkan tangannya ke rambut kepalanya hingga bila telah yakin merata mengenai dasar kulit kepalanya Beliau mengguyurkan air ke atasnya tiga kali. Lalu membasuh seluruh badannya". 'Aisyah berkata,: "Aku pernah mandi bersama Rasulullah shallallahu 'alaihi wasallam. dari satu bejana dimana kami saling mengambil (menciduk) air bersamaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 5 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Совершая большое омовение после осквернения /джанаба/, Посланник Аллаха ﷺ (сначала) мыл кисти рук и совершал такое же омовение, как и перед молитвой, затем омывал тело полностью, а затем прочёсывал рукой волосы; почувствовав же, что кожа (головы) увлажнилась, он трижды обливал (голову) водой, после чего омывал прочие (части) тела»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 5 Hadith 25</td></tr></tbody></table></div>
 

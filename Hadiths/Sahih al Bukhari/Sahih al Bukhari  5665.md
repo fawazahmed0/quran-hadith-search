@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin 'Ujara:The Prophet (ﷺ) passed by me while I was kindling a f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dan [Ayyub] dari [Mujahid] dari [Abdurrahman bin Abu Laila] dari [Ka'b bin 'Ujrah] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam pernah melewatiku sementara aku sedang menyalakan api di bawah periuk, lalu beliau bertanya: "Apakah kepalamu terganggu (dengan kutu)?" Aku menjawab; "Ya." Lalu beliau memanggil tukang cukur dan mencukurnya, kemudian beliau memerintahkanku membayar fidyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5665</td></tr><tr><td>Arabic No</td><td>5665</td></tr><tr><td>Reference</td><td>Book 75 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн ‘Уджра, да будет доволен им Аллах, сказал: «(Однажды), когда я разжигал огонь под котлом, мимо меня прошёл Пророк ﷺ и спросил: “Тебя мучают вши?” Я ответил: “Да”. Тогда Пророк ﷺ позвал цирюльника, чтобы он обрил (мне голову), и приказал совершить искупление»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5665</td></tr><tr><td>Arabic No</td><td>5665</td></tr><tr><td>Reference</td><td>Book 75 Hadith 25</td></tr></tbody></table></div>
 

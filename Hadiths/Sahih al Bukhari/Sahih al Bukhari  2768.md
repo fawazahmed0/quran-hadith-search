@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When Allah's Messenger (ﷺ) came to Medina; he did not have any s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ya'qub bin Ibrahim bin Katsir] telah bercerita kepada kami [Ibnu 'Ulayyah] telah bercerita kepada kami ['Abdul 'Aziz] dari [Anas radliallahu 'anhu] berkata; Saat tiba di Madinah Rasulullah shallallahu 'alaihi wasallam tidak mempunyai pembantu lalu Abu Thalhah menggandeng tanganku untuk menemui Rasulullah shallallahu 'alaihi wasallam lalu dia berkata: "Wahai Rasulullah, sesungguhnya Anas ini adalah seorang anak yang cerdas dan dia siap melayani Tuan". Maka aku melayani Beliau baik saat bepergian maupun muqim (tinggal), dan Beliau tidak pernah berkata kepadaku terhadap apa yang aku lakukan,: "Kenapa kamu berbuat begini begitu" dan tidak pernah juga mengatakan terhadap sesuatu yang tidak aku lakukan,: "Kenapa kamu tidak berbuat begini begitu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2768</td></tr><tr><td>Arabic No</td><td>2768</td></tr><tr><td>Reference</td><td>Book 55 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ прибыл в Медину, у него не было слуги. Абу Тальха привёл меня к Посланнику Аллаху ﷺ, взяв за руку и сказал: “О Посланник Аллаха! Поистине, Анас смышлёный мальчик, так пусть же он прислуживает тебе”. Итак, я прислуживал Пророку ﷺ в путешествиях и дома, и если я делал что-то, он никогда не спрашивал меня: “Почему ты сделал так?” И если я не делал чего-то, он не спрашивал меня: “Почему ты этого не сделал?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2768</td></tr><tr><td>Arabic No</td><td>2768</td></tr><tr><td>Reference</td><td>Book 55 Hadith 31</td></tr></tbody></table></div>
 

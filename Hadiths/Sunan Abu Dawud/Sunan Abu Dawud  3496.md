@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) as saying: If anyone buys grain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr] serta [Utsman] keduanya adalah anak Abu Syaibah, mereka berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ibnu Thawus] dari [Ayahnya] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membeli makanan, maka janganlah ia menjualnya hingga menakarnya." Abu Bakr menambahkan, "Ia berkata, "Kemudian aku sampaikan kepada Ibnu Abbas dengan apa yang ia katakan, "Tidakkah engkau melihat bahwa mereka melakukan jual beli dengan dengan emas, sementara makanan tersebut tertunda (belum diserahkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1525)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3496</td></tr><tr><td>Arabic No</td><td>3496</td></tr><tr><td>Reference</td><td>Book 24 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто купил съестное, пусть не продаёт его, пока не отмерит». Передатчик Абу Бакр сказал: «Я спросил Ибн Аббаса: “Почему?” Он ответил: “Разве ты не видишь, что иначе люди будут менять золото на золото, а получение товара будет откладываться?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1525)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3496</td></tr><tr><td>Arabic No</td><td>3496</td></tr><tr><td>Reference</td><td>Book 24 Hadith 81</td></tr></tbody></table></div>
 

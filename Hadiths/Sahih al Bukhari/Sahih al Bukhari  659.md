@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The angels keep on asking fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Para Malaikat berdo'a untuk salah seorang dari kalian selama dia masih pada posisi shalatnya dan belum berhadats, 'Ya Allah ampunilah dia. Ya Allah rahmatilah dia'. Dan seseorang dari kalian senantiasa dihitung dalam keadaan shalat selama dia menanti palaksanaan shalat. Dimana tidak ada yang menghalangi dia untuk kembali kepada keluarganya kecuali shalat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>659</td></tr><tr><td>Arabic No</td><td>659</td></tr><tr><td>Reference</td><td>Book 10 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Ангелы возносят мольбы за любого из вас всё то время, в которое он пребывает на месте совершения молитвы, пока не осквернится. (Ангелы говорят): “О Аллах, прости ему (грехи), о Аллах помилуй его!” И каждый из вас будет продолжать находиться в молитве всё то время, пока молитва будет удерживать его (в мечети), и ничто не удерживает его вернуться к своей семье, кроме молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>659</td></tr><tr><td>Arabic No</td><td>659</td></tr><tr><td>Reference</td><td>Book 10 Hadith 53</td></tr></tbody></table></div>
 

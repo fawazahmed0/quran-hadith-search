@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Warrad:(the clerk of Al-Mughira bin Shu'ba) Muawiya wrote to Al-Mughira
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Muslim] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami tidak hanya satu orang, diantaranya adalah [Mughirah] dan fulan dan satu orang lagi, dari [Asy Sya'bi] dari [Warrad] sekretaris Mughirah bin Syu'bah, bahwa Mu'awiyah berkirim surat kepada Mughirah "Tulislah untukku hadits yang pernah kamu dengar dari Rasulullah shallallahu 'alaihi wasallam! Warrad berkata; Lantas [Mughirah] menjawab suratnya; "Sesungguhnya aku pernah mendengar beliau salalu mengucapkan do'a sehabis shalat yaitu; LAA-ILAAHA ILLALLAAH, WAHDAHU LAA SYARIIKA LAHU, LAHUL MULKU WALAHUL HAMDU WAHUWA 'ALAA KULLI SYAI'IN QADIIR, (Tiada sesembahan yang hak selain Allah, tiada sekutu bagi-Nya, Milik-Nya lah segala kerajaan dan bagi-Nya segala puji dan Dia maha berkuasa atas segala sesuatu)." Beliau mengucapkannya hingga tiga kali. Dan beliau juga melarang desas desus (ghosip), banyak bertanya dan menghambur-hamburkan harta, beliau juga melarang mendurhakai ibu, menghalangi orang lain memperoleh kemanfaatan dan mengubur hidup-hidup anak perempuan serta." Dan dari [Husyaim] telah mengabarkan kepada kami [Abdul Malik bin Umair], dia berkata; saya mendengar [Warrad] menceritakan hadits ini dari [Al Mughirah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6473</td></tr><tr><td>Arabic No</td><td>6473</td></tr><tr><td>Reference</td><td>Book 81 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Варрада, (который был) писарем аль-Мугъиры ибн Шу‘ба о том, что (однажды) Му‘авия написал аль-Мугъире: «Напиши мне какой-нибудь хадис, который ты слышал от Посланника Аллаха ﷺ». \n(Варрад) сказал:\n— И аль-Мугъира написал ему в ответ: «Я слышал, как в конце обязательной молитвы он трижды говорил: “Нет бога, достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища. Ему принадлежит владычество, и Ему хвала, и Он всё может!» /Ля иляха илля-Ллаху вахдаху ля шарийка ляху, ляхуль-мульку, ва ляхуль-хамду ва хува ‘аля кулли шайъин къадир!/\n(Аль-Мугъира) сказал: «И он запрещал заниматься пересудами, обращаться (к людям со) множеством просьб и вопросов, понапрасну расточать (своё) имущество, отказывать и (говорить) “Давай!”, проявлять непочтительность по отношению к матерям и закапывать заживо новорожденных девочек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6473</td></tr><tr><td>Arabic No</td><td>6473</td></tr><tr><td>Reference</td><td>Book 81 Hadith 62</td></tr></tbody></table></div>
 

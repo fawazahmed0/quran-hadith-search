@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Thalhah bin Yahya] dari ['Aisyah binti Thalhah] dari ['Aisyah] Ummul Mukminin, ia berkata, "Anak anak kecil dari kaum Anshar (yang telah meninggal) dibawa ke hadapan Nabi shallallahu 'alaihi wasallam, lalu beliau menshalatinya. 'Aisyah berkata, "Aku bertanya, "Wahai Rasulullah, beruntung sekali anak kecil ini, ia belum pernah melakukan keburukan dan belum mengenalnya." Beliau balik berkata, "Atau, bahkan tidak demikian wahai 'Aisyah. sesungguhnya Allah menciptakan surga dan menciptakan pula orang-orang yang bakal menghuninya. Allah menciptakan surga bagi mereka di saat mereka masih berada di dalam sulbi orang tua mereka. Allah menciptakan neraka dan menciptakan pula orang-orang yang bakal menghuninya. Allah menciptakan neraka bagi mereka di saat mereka masih berada di dalam sulbi orang tua mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2662)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4713</td></tr><tr><td>Arabic No</td><td>4713</td></tr><tr><td>Reference</td><td>Book 42 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от матери верующих ‘Аиши, да будет доволен ею Аллах: «К Пророку ﷺ принесли для совершения погребальной молитвы тело маленького сына одного из ансаров. Я сказала: “Блажен этот мальчик, ведь он никогда не делал зла и не знал, что это такое”. Он сказал: “Не сказать ли тебе иное, о ‘Аиша? Поистине, Аллах создал Рай и создал для него обитателей. Он создал его для них, когда они ещё были в поясницах отцов своих. И Аллах создал Огонь и создал обитателей для него. Он создал его для них, когда они ещё были в поясницах отцов своих”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2662)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4713</td></tr><tr><td>Arabic No</td><td>4713</td></tr><tr><td>Reference</td><td>Book 42 Hadith 118</td></tr></tbody></table></div>
 

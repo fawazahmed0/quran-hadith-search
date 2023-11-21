@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) took a camel of special age from somebody
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Syu'bah] dari [Salamah Kuhail] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, bahwa pernah Beliau mengambil seekor anak unta lalu datang pemiliknya menagih. Orang-orang pun memberi komentar yang negatif terhadap orang yang menagih itu. Lalu beliau bersabda: "Sesungguhnya bagi pemilik kebenaran boleh menyatakan terus terang keinginannya". Lalu Beliau membayar dengan anak unta yang umurnya lebih tua daripada unta orang itu lalu bersabda: "Sesungguhnya yang terbaik diantara kalian adalah yang paling baik menunaikan janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2609</td></tr><tr><td>Arabic No</td><td>2609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ взял у одного человека верблюда в долг, и в один день он пришёл требовать возврата долга. Пророк ﷺ сказал: “Тот, кому причитается (долг), имеет право высказаться”, после чего он отдал ему верблюда, который был лучше того, сказав: “Поистине, лучшими из вас являются те, кто лучше всех отдаёт (должное другим)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2609</td></tr><tr><td>Arabic No</td><td>2609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 42</td></tr></tbody></table></div>
 

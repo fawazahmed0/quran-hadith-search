@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said, "Allah's Messenger (ﷺ) said, 'If the supper is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhu] berkata,; Telah bersabda Rasulullah shallallahu 'alaihi wasallam: "Apabila makan malam seseorang dari kalian sudah dihidangkan sedangkan shalat sudah didirikan, maka dahulukanlah makan malam dan janganlah tergesa-gesa hingga dia menuntaskannya". Ibnu 'Umar juga pernah dihidangkan padanya suatu makanan sedangkan shalat sedang dilaksanakan, namun dia tidak mengikuti shalat tersebut hingga selesai, padahal saat itu dia juga mendengar bacaan imam. Berkata [Zuhair] dan [Wahab bin 'Utsman] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhu] berkata,; Telah bersabda Nabi shallallahu 'alaihi wasallam: "Apabila seseorang dari kalian sedang makan janganlah dia tergesa-gesa hingga dia menyelesaikan kebutuhan (makan) nya sekalipun shalat jama'ah sedang dilaksanakan". Diriwayatkan oleh [Ibrahim bin Al Mundzir] dari [Wahab bin 'Utsman], dan Wahab adalah penduduk Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 10 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал:«Посланник Аллаха ﷺ сказал: «Если кому-либо из вас подадут ужин и в это время будет объявлено о начале намаза, то начинайте с ужина, и пусть торопится, пока он не закончит (есть)».\nИ обычно, когда перед Ибн ‘Умаром ставили еду во время объявления о начале намаза, он не являлся на (коллективный намаз), пока не заканчивал (есть), хотя определённо слышал чтение (Корана) имамом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 10 Hadith 67</td></tr></tbody></table></div>
 

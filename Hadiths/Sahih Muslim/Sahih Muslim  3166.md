@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd Al-'Azîz Ibn Rufay' a dit : J'interrogeai Anas Ibn Mâlik, le priant de m'i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Ishaq bin Yusuf Al Azraq] telah mengabarkan kepada kami [Sufyan] dari [Abdul Aziz bin Rufai'] ia berkata; Aku bertanya kepada [Anas bin Malik], aku katakan, "Beritahukanlah padaku tentang sesuatu yang telah Anda pahami dari Rasulullah shallallahu 'alaihi wasallam. Di manakah beliau shalat Zhuhur pada hari Tarwiyah?" Anas menjawab, "Di Mina." Aku bertanya lagi, "Lalu di mana beliau shalat Ashar pada hari Nafar?" Anas menjawab, "Di Abthah." Kemudian Anas pun berkata, "lakukanlah, apa yang telah dilakukan oleh para pemimpinmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3166</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 15 Hadith 370</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3166</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 15 Hadith 370</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported that he (said to his companions to conceal their c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali]; Telah mengabarkan kepada kami ['Abdah bin Sulaiman]; Telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari ['Abdullah] bahwa ketika ia membaca ayat yang berbunyi: 'Barang siapa berkhianat dalam urusan harta rampasan perang, maka ia akan datang pada hari kiamat dengan membawa harta yang dikhianatinya itu. (Qs. Ali lmran: 161) Setelah itu dia berkata; Sesuai dengan qiraat orang-orang yang mengajari saya, maka saya tashhihkan qiraat saya kepada Rasulullah shallallahu 'alaihi wasallam sebanyak tujuh puluh surat lebih. Para sahabat Rasulullah shallallahu 'alaihi wasallam mengetahui bahwasanya saya paling pandai di antara mereka tentang Al Qur'an. Seandainya saya tahu bahwa ada orang yang lebih pandai daripada saya dalam ilmu Al Qur'an, maka saya pasti akan mengunjungi untuk berguru kepadanya." Syaqiq berkata; "Lalu saya duduk di halaqah (majlis) para sahabat RasuIullah, tetapi saya tidak mendengar seorang pun yang menyanggah ucapan Abdullah bin Mas'ud dan tiada pula yang mencelanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6332</td></tr><tr><td>Arabic No</td><td>2462</td></tr><tr><td>Reference</td><td>Book 44 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6332</td></tr><tr><td>Arabic No</td><td>2462</td></tr><tr><td>Reference</td><td>Book 44 Hadith 162</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zaid b. Thabit:The Messenger of Allah (ﷺ) forbade mukhabarah. I asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah?], telah menceritakan kepada kami [Umar bin Ayyub], dari [Ja'far bin Buqan], dari [Tsabit bin Al Hajjaj], dari [Zaid bin Tsabit], ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang dari mukhabarah. Aku katakan; apakah mukhabrah itu? Ia berkata; engkau mengambil tanah dengan upah setengah atau sepertiga atau seperempat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3407</td></tr><tr><td>Arabic No</td><td>3407</td></tr><tr><td>Reference</td><td>Book 23 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Сабит, да будет доволен им Аллах, передаёт: «Посланник Аллаха ﷺ запретил мухабару. Я спросил: “А что такое мухабара?” Он ответил: “Возделывание земли в обмен на половину, треть или четверть урожая”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3407</td></tr><tr><td>Arabic No</td><td>3407</td></tr><tr><td>Reference</td><td>Book 23 Hadith 82</td></tr></tbody></table></div>
 

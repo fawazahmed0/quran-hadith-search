@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) went out to answer the call of nature and a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] berkata -Abu 'Ubaidah tidak menyebutkannya tetapi- ['Abdurrahman bin Aswad] dari [Bapaknya] bahwa ia mendengar ['Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam pergi ke WC, lalu beliau memerintahkan aku membawakan tiga buah batu. Aku hanya mendapatkan dua batu, lalu aku mencari batu yang ketiga, namun aku tidak mendapatkannya hingga aku pun mengambil kotoran hewan yang sudah kering. Kemudian semua itu aku bahwa ke hadapan Nabi. Namun beliau hanya mengambil dua batu dan membuang kotoran hewan yang telah kering tersebut seraya bersabda: "Ini najis." [Ibrahim bin Yusuf] berkata dari [Bapaknya] dari [Abu Ishaq] berkata, telah menceritakan kepadaku ['Abdurrahman]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>156</td></tr><tr><td>Arabic No</td><td>156</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ вышедший (из дома) для того, чтобы удовлетворить большую нужду, велел мне принести ему три камня. Я нашёл два и стал искать третий, но найти его мне не удалось. Тогда я подобрал кусок сухого навоза, который и принёс ему, а он взял эти два камня, отбросил навоз (в сторону) и сказал: “Это − мерзость”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>156</td></tr><tr><td>Arabic No</td><td>156</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
 

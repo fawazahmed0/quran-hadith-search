@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever purposely throws himself f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdul Wahhab] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dia berkata; saya mendengar [Dzakwan] menceritakan dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa menjatuhkan diri dari gunung, hingga membunuh jiwanya (bunuh diri), maka ia akan jatuh ke neraka jahannam, ia kekal serta abadi di dalamnya selama-lamanya. Barangsiapa menegak racun, hingga meninggal dunia, maka racun tersebut akan berada di tangannya, dan ia akan menegaknya di neraka jahannam, ia kekal serta abadi di dalamnya selama-lamanya. Dan barang siapa bunuh diri dengan (menusuk dirinya dengan) besi, maka besi itu akan ada di tangannya, dengannya ia akan menghujamkan ke perutnya di neraka jahannam, ia kekal dan abadi di dalamnya selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>5778</td></tr><tr><td>Reference</td><td>Book 76 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Тот, кто (намеренно) бросится с горы и погубит себя, будет всё время лететь вниз в (пламени) ада(, куда он будет помещён) навечно; тот, кто (намеренно) выпьет яд и погубит себя, будет держать в руке этот яд и всё время пить его в (пламени) ада(, куда он будет помещён) навечно; тот, кто убьёт себя железом, будет держать это железо в руке, поражая им себя в живот в (пламени) ада(, куда он будет помещён) навечно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>5778</td></tr><tr><td>Reference</td><td>Book 76 Hadith 90</td></tr></tbody></table></div>
 

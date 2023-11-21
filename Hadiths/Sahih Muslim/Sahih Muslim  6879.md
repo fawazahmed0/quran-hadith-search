@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Khaula bint Hakim Sulamiyya reported:I heard Allah's Messenger (ﷺ) as saying: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Abu Ath Thahir] keduanya dari [Ibnu Wahb] -dan lafadh ini milik Harun-; telah menceritakan kepada kami 'Abdullah bin Wahb dia berkata; dan telah mengabarkan kepada kami ['Amru bin Al Harits] bahwasanya [Yazid bin Abu Habib] dan [Al Harits bin Ya'qub] menceritakannya kepada kami dari [Ya'qub bin 'Abdullah bin Al Asyaj] dari [Busr bin Sa'id] dari [Sa'd bin Abi Waqqash] dari [Khaulah bintu Hakim As Sulamiyyah] bahwasanya ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Apabila salah seorang dari kalian singgah di suatu tempat maka hendaklah dia berdo'a: 'A'AUUDZU BI KALIMAATILLAHIT TAAMMAH MIN SYARRI MAA KHALAQ (AKu berlindung dengan kalimat Allah yang sempurna dari kejelekan apa saja yang Dia ciptakan), ' niscaya tidak akan ada yang membahayakannya hingga di pergi dari tempat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6879</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6879</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

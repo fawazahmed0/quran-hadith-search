@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "Noah will be called 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Rasyid] Telah menceritakan kepada kami [Jarir] dan [Abu Usamah] dan lafazh ini milik Jarir dari [Al A'masy] dari [Abu Shalih], Abu Usamah berkata; Telah menceritakan kepada kami Abu Shalih dari [Abu Sa'id Al Khudri] berkata; Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Pada hari kiamat, Nuh akan dipanggil (Allah) dan ia akan menjawab: 'Labbaik dan Sa'daik, wahai TuhanKu! ' lalu Allah bertanya: 'Apakah telah kau sampaikan pesan Kami? ' Nuh menjawab: 'Ya'. Kemudian Allah akan bertanya kepada bangsa (umat) Nuh: 'Apakah ia telah menyampaikan pesan kami kepadamu sekalian? ' Mereka akan berkata; 'Tidak ada yang memberikan peringatan kepada kami.' Maka Allah bertanya: 'Siapa yang menjadi saksimu? ' Nuh menjawab: 'Muhammad shallallahu 'alaihi wasallam dan para pengikutnya.' Maka mereka (umat muslim) akan bersaksi bahwa Nuh telah menyampaikan pesan (Allah). Kemudian Rasul (Muhammad shallallahu 'alaihi wasallam) akan menjadi saksi untukmu sekalian dan itulah maksud dari firman Allah: 'Demikianlah kami jadikan kalian sebagai umat yang adil supaya kamu menjadi saksi atas manusia. Dan Rasul menjadi saksi atas kalian." (QS. Al Baqarah (2):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4487</td></tr><tr><td>Arabic No</td><td>4487</td></tr><tr><td>Reference</td><td>Book 65 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «В День воскресения будет призван Нух, и он скажет: “Я здесь, о Господь мой, и готов служить Тебе!” (Аллах) спросит: “Довёл ли ты?” — и он скажет: “Да!” Тогда его соплеменников спросят: “Довёл ли он до вас?” Они ответят: “Не являлся к нам увещатель!” (Аллах) спросит (Нуха): “Кто засвидетельствует твою (правоту)?” Он скажет: “Мухаммад и (члены) его общины”, и (мусульмане) засвидетельствуют, что он (действительно) довёл (послание Аллаха). Что же касается посланника, то он станет свидетелем о вас, и в этом смысл слов (Всевышнего), да будет велика слава Его: “И так сделали Мы вас общиной срединной, чтобы стали вы свидетелями о людях, а посланник стал свидетелем о вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4487</td></tr><tr><td>Arabic No</td><td>4487</td></tr><tr><td>Reference</td><td>Book 65 Hadith 14</td></tr></tbody></table></div>
 

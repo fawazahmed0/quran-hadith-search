@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, quoted his grandfather as s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari ['Amru bin Syu'aib] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: …" dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Sahl bin Shalih] telah menceritakan kepada kami [Ali bin Qadim] telah mengabarkan kepada kami [Sufyan] dari [Yahya bin Sa'id] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya] dia berkata; "Apabila Nabi shallallahu 'alaihi wasallam memohon turunnya hujan, beliau mengucapkan: "Ya Allah, hujanilah hamba-hamba-Mu, binatang-binatang ternak-Mu dan tebarkanlah rahmat-Mu serta hidupkanlah tanah-Mu yang tandus." Lafadz ini dari hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1176</td></tr><tr><td>Arabic No</td><td>1176</td></tr><tr><td>Reference</td><td>Book 3 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Посланник Аллаха ﷺ обращаясь к Всевышнему с мольбой о ниспослании дождя, говорил: «О Аллах, напои Твоих рабов и Твои бессловесные создания и распространи милость Твою и оживи Твою мёртвую землю! /Аллахумма-скы ‘ибада-ка ва бахаима-ка ва-ншур рахмата-ка ва ахйи баляда-ка-ль-маййит/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1176</td></tr><tr><td>Arabic No</td><td>1176</td></tr><tr><td>Reference</td><td>Book 3 Hadith 16</td></tr></tbody></table></div>
 

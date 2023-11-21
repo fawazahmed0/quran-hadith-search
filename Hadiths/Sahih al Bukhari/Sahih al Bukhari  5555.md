@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:that the Prophet (ﷺ) gave him some sheep to distribut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Khalid] telah menceritakan kepada kami [Al Laits] dari [Yazid] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam pernah menyerahkan sejumlah kambing kepadanya untuk dibagi-bagikan kepada para sahabat beliau sebagai binatang kurban, setelah dibagi-bagikan ternyata masih tinggal seekor anak kambing yang masih sangat muda, lalu hal itu diberitahukan kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Berkurbanlah kamu dengan kambing tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5555</td></tr><tr><td>Arabic No</td><td>5555</td></tr><tr><td>Reference</td><td>Book 73 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Укбы ибн ‘Амира, да будет доволен им Аллах, что однажды Пророк ﷺ передал ему (стадо) овец, чтобы он разделил их между его сподвижниками, и они принесли их в жертву. После (того, как ‘Укба сделал это,) остался один ягнёнок, и он сообщил об этом Пророку ﷺ, который сказал: «Принеси его в жертву сам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5555</td></tr><tr><td>Arabic No</td><td>5555</td></tr><tr><td>Reference</td><td>Book 73 Hadith 11</td></tr></tbody></table></div>
 

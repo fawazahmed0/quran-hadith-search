@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakrah: The Prophet (ﷺ) offered the noon prayer in time of danger.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al Asy'Ats Tsauri] dari [A Hasan] dari [Abu Bakrah] dia berkata; "Nabi shallallahu 'alaihi wasallam pernah mengerjakan shalat khauf pada waktu Dluhur, sebagian kelompok berbaris di belakang beliau dan sebagian kelompok yang lain menghadapi musuh, beliau shalat dua raka'at dengan mereka (kelompok pertama), kemudian salam. Lalu kelompok yang tadinya shalat dengan beliau pindah menempati tempat para sahabat mereka (kelompok kedua), kemudian mereka (kelompok kedua) datang dan shalat di belakang beliau, maka beliau shalat dua raka'at bersama mereka, lalu salam. Sehingga Rasulullah shallallahu 'alaihi wasallam shalat empat raka'at, sementara para sahabat beliau shalat dua raka'at-dua raka'at." Demikianlah yang di fatwakan oleh Al Hasan. Abu Daud mengatakan; "Demikian pula dalam shalat Maghrib, maka imam enam raka'at, sementara setiap kelompok tiga raka'at-tiga raka'at." Abu Daud mengatakan; "Demikian pula yang di riwayatkan oleh [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam. [Sulaiman Al Yasykuri] berkata; dari [Jabir] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1248</td></tr><tr><td>Arabic No</td><td>1248</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Бакры, да будет доволен им Аллах, что однажды Пророк ﷺ совершал полуденную молитву /зухр/, когда мусульманам грозила опасность. Позади него выстроился ряд, а другие стояли напротив врага. Он совершил два рак‘ата и произнёс таслим. После этого совершившие молитву заняли место своих товарищей, а те пошли к Посланнику Аллаха ﷺ и он совершил с ними два рак‘ата и произнёс слова приветствия. Таким образом, Посланник Аллаха ﷺ совершил четыре рак‘ата, а его товарищи по два. Аль-Хасан давал такую фетву. Абу Дауд сказал: «И так же при совершении закатной молитвы /магъриб/ имам совершает шесть рак‘атов, а люди по три». Абу Дауд сказал: «Так передал его Яхья ибн Абу Касир от Абу Салямы от Джабира от Пророка ﷺ и также передал Сулейман аль-Яшкури от Джабира от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1248</td></tr><tr><td>Arabic No</td><td>1248</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
 

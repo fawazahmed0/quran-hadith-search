@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that a person said:Allah's Messenger, how the non-believe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abdu bin Humaid], teks milik Zuhair, keduanya berkata: Telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban] dari [Qatadah] telah menceritakan kepada kami [Anas bin Malik], seseorang bertanya: Wahai Rasulullah, bagaiaman orang kafir dikumpulkan (dengan berjalan) di atas wajahnya pada hari kiamat? Beliau menjawab: "Bukankah Yang membuatnya berjalan dengan dua kaki di dunia mampu untuk membuatnya berjalan di atas wajahnya pada hari kiamat?" Qatadah menjawab: Benar, demi kemuliaan Rabb kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7087</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 52 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7087</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 52 Hadith 41</td></tr></tbody></table></div>
 

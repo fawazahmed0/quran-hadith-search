@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Buraidah said A woman came to the Messenger of Allah (SAWS) and said I gave a sl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Abdullah bin Yunus], telah menceritakan kepada Kami [Zuhair], telah menceritakan kepada Kami [Abdullah bin 'Atha'] dari [Abdullah bin Buraidah] dari [ayahnya yaitu Buraidah] bahwa seorang wanita datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan berkata; saya bersedekah kepada ibuku dengan seorang budak perempuan. Kemudian ia meninggal dan meninggalkan budak tersebut. Beliau bersabda: "Telah tetap pahalamu dan budak tersebut kembali kepadamu dalam warisan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1149)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>1656</td></tr><tr><td>Reference</td><td>Book 9 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Бурайда, да будет доволен им Аллах, передаёт, что одна женщина пришла к Посланнику Аллаха ﷺ и сказала: «Я отдала своей матери в качестве подаяния девочку-рабыню, а потом моя мать умерла, оставив после себя эту рабыню». Он сказал: «Тебе запишется твоя награда, а рабыня возвращается к тебе в качестве наследства»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1149)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>1656</td></tr><tr><td>Reference</td><td>Book 9 Hadith 101</td></tr></tbody></table></div>
 

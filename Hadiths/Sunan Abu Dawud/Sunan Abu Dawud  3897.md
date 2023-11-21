@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Kharijah b. al-Salt quoted his parental uncle as saying that he passed (some peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3897</td></tr><tr><td>Arabic No</td><td>3897</td></tr><tr><td>Reference</td><td>Book 29 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариджа ибн ас-Сальт, да будет доволен им Аллах, передаёт от своего дяди, что он проходил (мимо этих людей) и заговаривал сумасшедшего посредством «аль-Фатихи» в течение трёх дней утром и вечером, и каждый раз, заканчивая чтение, сплёвывал, и больной будто освободился от оков, и они дали ему что-то в награду, и он отправился к Пророку ﷺ. Далее он упомянул историю, подобную приведённой выше
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3897</td></tr><tr><td>Arabic No</td><td>3897</td></tr><tr><td>Reference</td><td>Book 29 Hadith 43</td></tr></tbody></table></div>
 

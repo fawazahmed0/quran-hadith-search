@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar Abdullah bin 'Amr bin Abu Al Hajjaj], telah menceritakan kepada kami [Abdul Warits] dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] bahwa Nabi Shallallahu 'alaihi sallam tatkala tiba di Mekkah, beliau menolak untuk masuk ke Ka'bah selama di dalamnya masih terdapat patung-patung yang disembah, maka beliau memerintahkan untuk mengeluarkan patung-patung tersebut, maka dikeluarkanlah patung-patung tersebut. Ibnu Abbas berkata; kemudian dikeluarkanlah patung berbentuk Nabi Ibrahim dan Ismail yang di tangan kedua patung tersebut terdapat anak-anak panah. Kemudian Rasulullah shlallallahu 'alaihi wa sallam berkata; semoga Allah memerangi mereka (orang musyrikin)! Demi Allah, sesungguhnya mereka (orang-orang musyrik) mengetahui bahwasanya mereka berdua tidak pernah mengundi nasib dengannya. Kemudian beliau masuk ke dalam ka'bah dan mengucapkan takbir pada penjuru-penjuru serta pojok-pojoknya, kemudian beliau keluar dan melakukan shalat di luar Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1601)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 11 Hadith 307</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Пророк ﷺ вступил в Мекку в год её покорения, он отказался входить в Каабу, пока в ней находились идолы. По его велению их вынесли оттуда. Он сказал: «И там было изображение (пророков) Ибрахима и Исма‘иля, державших в руках гадальные стрелы. Посланник Аллаха ﷺ сказал: “Да поразит их Аллах, клянусь Аллахом, ведь они знали, что они никогда не занимались гаданиями по стрелам!” А потом он вошёл в Каабу и произнёс слова “Аллах велик”, повернувшись к каждой из её сторон, и вышел, не совершив там молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1601)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 11 Hadith 307</td></tr></tbody></table></div>
 

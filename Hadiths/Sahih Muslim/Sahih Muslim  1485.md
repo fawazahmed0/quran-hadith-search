@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying about people who are absent 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] dari [Abu Al Ahwash] bahwa Abu Ishaq mendengar darinya, dari [Abdullah], bahwsanya Nabi shallallahu 'alaihi wasallam bersabda kepada orang-orang yang ketinggalan shalat jumat; "Sungguh aku berkeinginan untuk menyuruh seseorang mengimami manusia, kemudian kusuruh untuk membakar rumah-rumah orang-orang yang ketinggalan (shalat) jumat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1485</td></tr><tr><td>Arabic No</td><td>652</td></tr><tr><td>Reference</td><td>Book 5 Hadith 318</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, что (однажды) Посланник Аллаха ﷺ сказал о людях, которые не являлись на пятничную молитву: «(Бывало так, что) я хотел велеть кому-нибудь провести молитву с людьми, а потом сжечь дома тех, кто не является на пятничную молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1485</td></tr><tr><td>Arabic No</td><td>652</td></tr><tr><td>Reference</td><td>Book 5 Hadith 318</td></tr></tbody></table></div>
 

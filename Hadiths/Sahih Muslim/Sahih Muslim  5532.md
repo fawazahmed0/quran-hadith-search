@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of Allah's Messenger (ﷺ), reported that she had hung a curtai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harun bin Ma'ruf]; Telah menceritakan kepada kami [Ibnu Wahb]; Telah menceritakan kepada kami ['Amru bin Al Harits] bahwa [Bukair] bercerita kepadanya, ['Abdurrahman bin Al Qasim] telah bercerita kepadanya, bahwa [bapaknya] berkata kepadanya, dari [Aisyah] istri Nabi shallallahu 'alaihi wasallam, suatu ketika membentangkan tirai yang bergambar. Lalu Rasulullah shallallahu 'alaihi wasallam masuk dan beliau mencabutnya. Aisyah berkata; 'Maka aku potong tirai tersebut untuk di jadikan dua bantal. Seorang laki - laki yang pada waktu itu dia di panggil Rabi'ah bin Atha' -budak dari bani Zuhrah- bertanya dalam sebuah Majilis; 'Apakah kamu mendengar Abu Muhammad -yaitu Abu Bakr As Shiddiq- menyebutkan bahwa 'Aisyah berkata; 'Rasulullah shallallahu 'alaihi wasallam bersandar pada dua bantal tersebut?.' Ibnu Al Qasim berkata; 'Tidak.' Dia berkata; Akan tetapi aku telah mendengarnya. -maksudnya dari (Al Qasim bin Muhammad)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5532</td></tr><tr><td>Arabic No</td><td>2107.13</td></tr><tr><td>Reference</td><td>Book 37 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5532</td></tr><tr><td>Arabic No</td><td>2107.13</td></tr><tr><td>Reference</td><td>Book 37 Hadith 145</td></tr></tbody></table></div>
 

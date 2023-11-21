@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: If anyone begs when he has 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id] serta [Hisyam bin 'Ammar], mereka berkata; telah menceritakan kepada Kami [Abdurrahman bin Abu Ar Rijal] dari ['Umarah bin Ghaziyyah] dari [Abdurrahman bin Abu Sa'id Al Khudri] dari [ayahnya yaitu Abu Sa'id], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang meminta-minta sedangkan ia memiliki harta senilai satu uqiyah maka sungguh ia telah mendesak dalam meminta." Maka aku katakan; untaku yang bernama Al Yaqutah lebih baik dari pada satu uqiyah, -Hisyam berkata; lebih baik daripada empat puluh dirham-, kemudian aku kembali dan tidak lagi meminta kepada beliau sesuatupun. Hisyam berkata dalam haditsnya; satu uqiyah pada masa Rasulullah shallAllahu wa'alaihi wa sallam adalah empat puluh dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+ПЕредается от Абу Са‘ид (аль-Худри), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот из вас, кто просит, имея стоимость окии, просит без нужды». Он сказал: «И я подумал, что моя верблюдица аль-Йакута лучше окии (или: лучше, чем сорок дирхемов), и вернулся, так ничего и не попросив». [Передатчик] Хишам добавлял, что во времена Посланника Аллаха ﷺ окия равнялась сорока дирхемам
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
 

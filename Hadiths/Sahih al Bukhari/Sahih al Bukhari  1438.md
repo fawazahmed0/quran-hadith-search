@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "An honest Muslim storekeeper who carr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Alaa'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa] dari Nabi Shallallahu'alaihiwasallam bersabda: "Seorang bendahara muslim yang amanah adalah orang yang melaksanakan tugasnya (dengan baik) ". Dan seolah Beliau bersabda: "Dia melaksanakan apa yang diperintahkan kepadanya dengan sempurna dan jujur serta memiliki jiwa yang baik, dia mengeluarkannya (shadaqah) kepada orang yang berhak sebagaimana diperintahkan adalah termasuk salah satu dari Al Mutashaddiqin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Хранитель (хозяйского добра), который является мусульманином, отличается верностью и полностью выполняет (или: отдаёт) то, что ему было велено, испытывая при этом добрые чувства и вручая это тому, на кого ему было указано, становится одним из двоих подающих милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) was presented a bowl of milk and a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] dari [Sa'id bin Musayyib] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Di malam isra', Rasulullah shallallahu 'alaihi wasallam pernah di beri segelas susu dan segelas khamr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5603</td></tr><tr><td>Arabic No</td><td>5603</td></tr><tr><td>Reference</td><td>Book 74 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «В ту ночь, когда Посланник Аллаха ﷺ был перенесён (аль-исра), ему принесли два сосуда, в одном из них было молоко, а в другом — вино»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5603</td></tr><tr><td>Arabic No</td><td>5603</td></tr><tr><td>Reference</td><td>Book 74 Hadith 29</td></tr></tbody></table></div>
 

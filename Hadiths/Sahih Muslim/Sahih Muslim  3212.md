@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:Someone happened to pass by Allah's Apostle (ﷺ) with a sacrifici
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Waki'] dari [Mis'ar] dari [Bukair bin Al Akhnas] dari [Anas] ia berkata; Saya mendengarnya berkata; Seorang laki-laki pernah melewati Nabi shallallahu 'alaihi wasallam dengan menuntun hewan kurbannya, maka beliau pun bersabda: "Kendarailah." Laki-laki itu berkata, "Hewan ini adalah hewan untuk kurban." Beliau bersabda: "Meskipun hewan kurban." Dan Telah menceritakannya kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] telah menceritakan kepadaku [Bukair bin Al Akhnas] ia berkata, saya mendengar [Anas] berkata; "Nabi shallallahu 'alaihi wasallam pernah dilewati oleh seseorang yang menuntun hewan kurbannya.." Maka ia pun menyebutkan hadits yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>1323.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 416</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>1323.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 416</td></tr></tbody></table></div>
 

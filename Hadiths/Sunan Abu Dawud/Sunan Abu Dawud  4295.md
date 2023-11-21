@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: The Prophet (ﷺ) said: The greatest war, the conques
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufail] berkata, telah menceritakan kepada kami [Isa bin Yunus] dari [Abu Bakr bin Abu Maryam] dari [Al Walid bin Sufyan Al Ghassani] dari [Yazid bin Qutaib As Sakuni] dari [Abu Bahriyah] dari [Mu'adz bin Jabal] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Peperangan besar, pembukaan Konstantinopel dan keluarnya Dajjal terjadi selama tujuh bulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4295</td></tr><tr><td>Arabic No</td><td>4295</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Му‘аза ибн Джабаля, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Великое сражение, завоевание Константинополя и появление ад-Даджжаля всё это произойдёт за семь месяцев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4295</td></tr><tr><td>Arabic No</td><td>4295</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
 

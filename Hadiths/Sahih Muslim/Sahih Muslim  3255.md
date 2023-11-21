@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Karaib reported:A woman lifted a child and said: Messenger of Allah, would he be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdurrahman] Telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Uqbah] dari [Kuraib] bahwasanya; Ada seorang wanita yang sedang menggendong anaknya dan berkata, "Apakah bagi anak ini juga memiliki keharusan haji?" beliau menjawab: "Ya, dan kamu juga menjadapkan ganjaran pahala." Dan Telah menceritakan kepada kami [Ibnul Mutsanna] Telah menceritakan kepada kami [Abdurrahman] Telah menceritakan kepada kami [Sufyan] dari [Muhammad bin Uqbah] dari [Kuraib] dari [Ibnu Abbas] semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3255</td></tr><tr><td>Arabic No</td><td>1336.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 459</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3255</td></tr><tr><td>Arabic No</td><td>1336.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 459</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Qur'anic Verse: 'O you who believe! You are fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6948</td></tr><tr><td>Arabic No</td><td>6948</td></tr><tr><td>Reference</td><td>Book 89 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал (об аяте) «О те, которые уверовали! Вам не дозволено наследовать женщин против их воли! Не препятствуйте тому, что они захотят уйти с частью того, что вы им дали» (сура “ан-Ниса, аят 19): «Раньше, когда умирал человек, его родственники считали себя правомочными распоряжаться его женой на своё усмотрение. Если кто-либо из них желал её взять в жёны, то брал. Если хотел выдать за кого-то, выдавал. Если не хотел выдавать вообще, не выдавал. Они имели больше прав на неё, чем её собственные родственники. Этот аят был послан в связи с этим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6948</td></tr><tr><td>Arabic No</td><td>6948</td></tr><tr><td>Reference</td><td>Book 89 Hadith 9</td></tr></tbody></table></div>
 

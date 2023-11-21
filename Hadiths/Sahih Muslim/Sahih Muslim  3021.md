@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that Mu'awiya had said to them:Do you know that I clipped som
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Hisyam bin Hujr] dari [Thawus] ia berkata, [Ibnu Abbas] berkata; [Mu'awiyah] berkata kepadaku, "Tahukah Anda, bahwa aku telah menggunting rambut Rasulullah shallallahu 'alaihi wasallam di Marwa?" aku menjawab, "Aku tidak tahu akan ini kecuali ia merupakan hujjah yang bakalan menuntutmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>1246.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>1246.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 229</td></tr></tbody></table></div>
 

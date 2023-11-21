@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger, (ﷺ) as saying:I sought permission to b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Muhammad bin Abbad] -lafazhnya milik Yahya- keduanya berkata, telah menceritakan kepada kami [Marwan bin Mu'awiyah] dari [Yazid yaitu Ibnu Kaisan] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku mohon izin kepada Rabb-ku untuk memohonkan ampun bagi ibuku, tetapi tidak diperkenankan. Kemudian aku meminta izin untuk menziarahi kuburnya, maka diperkenankan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2258</td></tr><tr><td>Arabic No</td><td>976.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Я попросил разрешения у своего Господа просить для своей матери прощения, но Он не позволил мне это. И я попросил разрешения навестить её могилу, и Он позволил мне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2258</td></tr><tr><td>Arabic No</td><td>976.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 134</td></tr></tbody></table></div>
 

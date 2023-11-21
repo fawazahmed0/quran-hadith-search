@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uthman b. Hakim al-Ansari said:I asked Sa'id b. Jubair about fasting In Rajab, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Utsman bin Hakim Al Anshari] ia berkata; Saya bertanya kepada [Sa'id bin Jubair] mengenai puasa Rajab, dan saat itu kami berada di bulan. Maka ia pun menjawab; Saya telah mendengar [Ibnu Abbas] radliallahu 'anhuma berkata; Dulu Rasulullah shallallahu 'alaihi wasallam pernah berpuasa hingga kami berkata berkata bahwa beliau tidak akan berbuka. Dan beliau juga pernah berbuka hingga kami berkata bahwa beliau tidak akan puasa." Dan telah meceritakannya kepadaku [Ali bin Hujr] telah menceritakan kepada kami [Ali bin Mushir] -dalam riwayat lain- Dan telah menceritakan kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Isa bin Yunus] keduanya dari [Utsman bin Hakim] di dalama isnad ini, yakni dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2726</td></tr><tr><td>Arabic No</td><td>1157.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2726</td></tr><tr><td>Arabic No</td><td>1157.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 232</td></tr></tbody></table></div>
 

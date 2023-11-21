@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said to Ubai, "Allah has ordered me to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] berkata, aku mendengar [Syu'bah], aku mendengar [Qatadah] dari [Anas bin Maik radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam berkata kepada Ubbay: " Allah memerintahkanku agar membacakan "lam yakunil ladziina kafaruu min ahlil kitaab".. -al-Qur'an Surah al-Bayyinah--. Ubay bertanya; "Apakah Allah menyebut namaku?". Beliau mejawab: "Ya". Ubbay pun menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3809</td></tr><tr><td>Arabic No</td><td>3809</td></tr><tr><td>Reference</td><td>Book 63 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал Убаййу: “Поистине, Аллах велел мне прочитать тебе (следующий аят): “Не расставались те, которые не уверовали из (числа) людей Писания и многобожников (со своим неверием), пока не явилось к ним ясное доказательство...”” (Убайй, да будет доволен им Аллах,) спросил: “И Он назвал моё имя?” (Пророк ﷺ) сказал: “Да”, и (, услышав это, Убайй, да будет доволен им Аллах,) заплакал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3809</td></tr><tr><td>Arabic No</td><td>3809</td></tr><tr><td>Reference</td><td>Book 63 Hadith 34</td></tr></tbody></table></div>
 

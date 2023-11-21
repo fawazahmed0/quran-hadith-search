@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:Once I went to Abu- Sa'id Al-Khudri and asked him, "Won't yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] berkata, telah menceritakan kepada kami [Hammam] dari [Yahya] dari [Abu Salamah] berkata, Aku pergi menemui [Abu Sa'id Al Khudri], lalu aku bertanya kepadanya, "Maukah anda pergi bersama kami ke bawah pohon kurma lalu kita berbincang-bincang di sana?" Ia pun pergi dan bercakap-cakap bersama kami. Aku kemudian berkata, "Ceritakanlah kepadaku apa yang pernah anda dengar dari Nabi shallallahu 'alaihi wasallam tentang Lailatul Qadar." Dia lalu menjelaskan, "Rasulullah shallallahu 'alaihi wasallam melaksanakan i'tikaf pada sepuluh malam yang awal dari Ramadan, dan kami juga ikut beri'tikaf bersama beliau. Lalu datanglah Malaikat Jibril berkata, "Sesungguhnya apa yang kamu cari ada di depan kamu (pada malam berikutnya)." Maka Beliau beri'tikaf pada sepuluh malam pertengahannnya dan kami pun ikut beri'tikaf bersama Beliau. Kemudian Malaikat Jibril datang lagi dan berkata, "Sesungguhnya apa yang kamu cari ada di depan kamu (pada malam berikutnya)." Maka Nabi shallallahu 'alaihi wasallam berdiri memberi khuthbah kepada kami pada pagi hari di hari ke dua puluh dari bulan Ramadan, sabdanya: "Barangsiapa sudah beri'tikaf bersama Nabi shallallahu 'alaihi wasallam maka pulanglah, karena aku diperlihatkan (dalam mimpi) Lailatul Qadar namun aku dilupakan waktunya yang pasti. Namun dia ada pada sepuluh malam-malam akhir dan pada malam yang ganjil. Sungguh aku melihat dalam mimpi, bahwa aku sujud di atas tanah dan air (yang becek)." Pada masa itu atap masjid masih terbuat dari daun dan pelepah pohon kurma, dan kami tidak melihat sesuatu di atas langit hingga kemudian datang awan dan turunlah air hujan. Maka Nabi shallallahu 'alaihi wasallam shalat bersama kami hingga aku melihat sisa-sisa tanah dan air pada wajah dan ujung hidung Rasulullah shallallahu 'alaihi wasallam sebagai bukti kebenaran mimpi beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Салямы, что он сказал: \n— Я отправился к Абу Са‘иду аль-Худри и сказал ему: «Не пойти ли тебе с нами к пальме, чтобы поговорить?» Он вышел, и я сказал: «Расскажи мне, что ты слышал от Пророка ﷺ про ночь предопределения!» Он сказал: «Однажды, когда мы совершали уединения /и‘тикяф/ в мечети вместе с Посланником Аллаха ﷺ в первые десять дней рамадана, к нему пришел Джибриль и сказал: “Поистине, то, что ты ищешь, впереди тебя!” Утром двадцатого рамадана Пророк ﷺ встал и обратился к нам с проповедью, сказав: “Пусть тот, кто совершал и‘тикяф с Пророком ﷺ вернется (к и‘тикяфу), ведь, поистине, мне была показана ночь предопределения, но затем она была забыта мной. Поистине, она в одной из нечетных десяти последних ночей (этого месяца). И я видел, как я совершаю земной поклон на глину и воду”. Крыша мечети была сделана из голых пальмовых веток, и мы не видели в небе ничего (из облаков), как вдруг пришли тучи и пошел дождь. Пророк ﷺ совершил с нами молитву так, что я увидел следы глины и воды на его лбу и на кончике его носа в подтверждение его сна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 208</td></tr></tbody></table></div>
 

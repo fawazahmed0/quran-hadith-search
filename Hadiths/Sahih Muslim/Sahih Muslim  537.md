@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih who is the brother of Wahb b. Munabbih said:This is what has 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq bin Hammam] telah menceritakan kepada kami [Ma'mar bin Rasyid] dari [Hammam bin Munabbih] saudara Wahab bin Munabbih, dia berkata, "Inilah sesuatu yang diceritakan oleh [Abu Hurairah] kepada kami, dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Tidak akan diterima shalat seseorang yang berhadas sehingga dia berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>537</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 2 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаммам ибн Мунаббих брат Вахба ибн Мунаббиха сказал: «Это то, что рассказал нам Абу Хурайра от Мухаммада ﷺ. И он упомянул хадисы из этого числа: “Посланник Аллаха ﷺ сказал: “Не будет принята молитва ни одного из вас если он осквернится, пока не совершит омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>537</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 2 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salma:I saw Abu Huraira reciting Idha-Sama' un-Shaqqat and he prost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] dan [Mu'adz bin Fadhalah] keduanya berkata, telah mengabarkan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] berkata; "Aku melihat [Abu Hurairah radliallahu 'anhu] membaca idzas samaa-unsyaqqat (QS Al Insyiqaq) lalu dia sujud tilawah. Kemudian aku bertanya kepadanya: "Wahai Abu Hurairah mengapa anda melakukan sujud?" Maka dia menjawab: "Seandainya aku tidak melihat Nabi shallallahu 'alaihi wasallam sujud, tentu aku tidak akan sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1074</td></tr><tr><td>Arabic No</td><td>1074</td></tr><tr><td>Reference</td><td>Book 17 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Салама, да помилует его Аллах Всевышний, сказал: «(Однажды,) увидев, как Абу Хурайра, да будет доволен им Аллах, читавший “Когда небо расколется…”, совершил земной поклон, я спросил: “О Абу Хурайра, ты и в самом деле совершил земной поклон?” (В ответ) он сказал: “Я бы не поклонился, если бы не видел, что (в подобных обстоятельствах) так же поступил и Пророк ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1074</td></tr><tr><td>Arabic No</td><td>1074</td></tr><tr><td>Reference</td><td>Book 17 Hadith 8</td></tr></tbody></table></div>
 

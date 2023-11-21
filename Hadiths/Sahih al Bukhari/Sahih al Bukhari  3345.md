@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I heard the Prophet (ﷺ) reciting: "Fahal Min Muddakir." (Se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khalid bin Yazid] telah bercerita kepada kami [Isra'il] dari [Abu Ishaq] dari [Al Aswad] berkata aku mendengar ['Abdullah] berkata aku mendengar Nabi shallallahu 'alaihi wasallam membaca "Fahal mim muddakir". (QS. Alqamar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 60 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Я слышал, как Пророк ﷺ читал “Найдётся ли поминающий?” (сура “аль-Камар”, аят 15)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 60 Hadith 20</td></tr></tbody></table></div>
 

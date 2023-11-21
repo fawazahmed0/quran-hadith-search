@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata:One night the Prophet (ﷺ) delayed the 'Isha' prayer whereupon 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali] telah menceritakan kepada kami [Sufyan], ['Amru] mengatakan, telah menceritakan kepada kami ' [Atho'] mengatakan, Nabi shallallahu 'alaihi wasallam menangguhkan shalat isya' agak malam, maka Umar keluar (dari masjid) dan mengatakan; 'Mari tegakkan shalat ya Rasulullah, wanita dan anak-anak telah tidur! ' Nabi muncul dari kamarnya dan kepalanya meneteskan air sambil berkata: "Kalaulah tidak memberatkan umatku -atau dengan redaksi; tidak memberatkan manusia -, " sedangkan Sufyan mengatakan; atas umatku - niscaya kuperintahkan kepada mereka untuk shalat dengan waktu seperti ini." [Ibnu Juraij] mengatakan, dari ['Atho'] dari [Ibnu 'Abbas] menuturkan; Nabi shallallahu 'alaihi wasallam menangguhkan shalat ini, maka Umar datang dan mengatakan; 'Ya Rasulullah, para wanita dan anak-anak telah tertidur' lantas beliau muncul sedang beliau sambil mengusap air dari lambungnya sambil mengatakan; "inilah waktu untuk shalat isya', kalau saja tidak memberatkan umatku." Dan [Amru] mengatakan telah menceritakan kepada kami ['Atho], dalam sanadnya tidak menyebutkan Ibnu Abbas. Amru mengatakan; kepalanya meneteskan (air). sedang Ibnu Juraij mengatakan; mengusap air dari lambungnya. Dan Amru mengatakan; "Kalaulah tidak memberatkan atas umatku." Sedang Ibnu Juraij mengatakan; "sungguh ini adalah waktu semestinya, kalaulah tidak memberatkan umatku." Sedang [Ibrahim bin Al Mundzir] mengatakan, telah menceritakan kepada kami [Ma'an], telah menceritakan kepadaku [Muhammad bin Muslim] dari ['Amru] dari ['Atho'] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7239</td></tr><tr><td>Arabic No</td><td>7239</td></tr><tr><td>Reference</td><td>Book 94 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Атаъ (ибн Абу Рабах) сказал: «Однажды Пророк ﷺ медлил с совершением вечерней /‘ишаъ/ молитвы, и тогда ‘Умар вышел и сказал: “Молитва, о Посланник Аллаха! Женщины и дети уже заснули!” — после чего он вышел (к людям) и с его головы капала вода, и он сказал: “Если бы я не обременил (этим) членов своей общины, (или: людей), то повелел бы им совершать молитву в это время».\nИбн Джурайдж передаёт от ‘Атаъ, что ибн ‘Аббас сказал: «Пророк ﷺ отложил (совершение) этой молитвы, и тогда пришёл ‘Умар и сказал: “О, Посланник Аллаха! Женщины и дети уже заснули!” — после чего он вышел (к людям), протирая воду со своих боков и сказал: “Поистине, если бы я не обременил (этим) членов своей общины, то это бы время (я установил для совершения вечерней молитвы)”».\nСообщается, что ‘Амр (ибн Динар) сказал: «Нам рассказал ‘Атаъ», и в его цепочке рассказчиков не присутствовал Ибн ‘Аббас. А что касается ‘Амр (ибн Динара), то он сказал: «С его головы капала вода». А ибн Джурайдж сказал: «Протирая воду со своих боков». ‘Амр (ибн Динар) сказал: «Если бы я не обременил (этим) членов своей общины», а Ибн Джурайдж сказал: «Поистине, если бы я не обременил (этим) членов своей общины, то это бы время (я установил для совершения вечерней молитвы)». А Ибрахим ибн аль-Мунзир сказал: «Нас рассказал Ма‘н, сказавший: «Мне рассказал Мухаммад ибн Муслим от ‘Амра от ‘Атаъ от Ибн ‘Аббаса от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7239</td></tr><tr><td>Arabic No</td><td>7239</td></tr><tr><td>Reference</td><td>Book 94 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Abu Taiba cupped Allah's Messenger (ﷺ) so he ordered t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Humaid] dari [Anas bin Malik radliallahu 'anhu] berkata; Abu Thoybah membekam Rasulullah shallallahu 'alaihi wasallam lalu Beliau membayar dia dengan satu sha' kurma dan memerintahkan keluarganya untuk meringankan pajaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2102</td></tr><tr><td>Arabic No</td><td>2102</td></tr><tr><td>Reference</td><td>Book 34 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Абу Тайба пустил кровь Посланнику Аллаха ﷺ и он велел дать ему (за это один) са‘ фиников, а его хозяевам он велел снизить (взимаемую) с него плату»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2102</td></tr><tr><td>Arabic No</td><td>2102</td></tr><tr><td>Reference</td><td>Book 34 Hadith 55</td></tr></tbody></table></div>
 

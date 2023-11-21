@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that Allah's Messenger (ﷺ) prohibited eating of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Ar rabi' Al 'Ataki] dan [Qutaibah bin Sa'id] dan ini adalah lafadz Yahya, Yahya berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan; telah menceritakan kepada kami [Hammad bin Ziad] dari ['Amru bin Dinar] dari [Muhammad bin Ali] dari [Jabir bin Abdullah], bahwa ketika perang Khaibar, Rasulullah shallallahu 'alaihi wasallam melarang makan daging keledai jinak dan membolehkan memakan daging kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5022</td></tr><tr><td>Arabic No</td><td>1941.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5022</td></tr><tr><td>Arabic No</td><td>1941.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 51</td></tr></tbody></table></div>
 

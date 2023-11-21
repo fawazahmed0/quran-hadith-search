@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zubair bin Al-'Awwam:The Prophet (p.b.u.h) said, "It is better for a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Az Zubair bin Al 'Awam radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Demi Dzat yang jiwaku berada di tanganNya, sungguh seorang dari kalian yang mengambil talinya lalu dia mencari seikat kayu bakar dan dibawa dengan punggungnya kemudian dia menjualnya lalu Allah mencukupkannya dengan kayu itu lebih baik baginya daripada dia meminta-minta kepada manusia, baik manusia itu memberinya atau menolaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>1471</td></tr><tr><td>Reference</td><td>Book 24 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Зубайра ибн аль-‘Ауама , да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, для любого из вас взять верёвку, принести вязанку дров на спине и продать её, благодаря чему Аллах избавит его (от необходимости просить), лучше, чем обращаться с просьбами к людям, которые могут дать ему (что-нибудь), а могут и отказать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>1471</td></tr><tr><td>Reference</td><td>Book 24 Hadith 73</td></tr></tbody></table></div>
 

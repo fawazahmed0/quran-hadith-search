@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once the Prophet (ﷺ) was narrating (a story), while a bed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada kami [Fulaih] telah menceritakan kepada kami [Hilal]. Dan diriwaatkan pula, telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Abu 'Amir] telah menceritakan kepada kami [Fulaih] dari [Hilal bin 'Ali] dari ['Atha' bin Yasar] dari [Abu Hurairah radliallahu 'anhu] bahwa pada suatu hari Nabi shallallahu 'alaihi wasallam berbicara dan disamping Beliau ada seorang laki-laki penduduk Baduy: "Ada seorang dari penduduk surga meminta izin kepada Rabbnya untuk bercocok tanam. Maka Rabbnya berkata, kepadanya: "Bukankah kamu bebas melakukan apa saja yang kamu mau?" Orang itu berkata: "Benar, tapi aku suka bercocok tanam". Beliau berkata: "Maka orang itu bersegera menanam benih sehingga tumbuh berkembang dengan sangat banyak hingga ketika panen hasilnya sebanyak gunung. Maka Allah berfirman: "Tidak ada yang melebihi kamu wahai anak Adam". Maka laki-laki Baduy itu berkata: "Demi Allah, tidak akan anda temui orang seperti itu selain Kaum Quraisy dan Anshar karena mereka para petani sedangkan kami bukanlah petani". Maka Nabi shallallahu 'alaihi wasallam tertawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2348</td></tr><tr><td>Arabic No</td><td>2348</td></tr><tr><td>Reference</td><td>Book 41 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— Однажды, когда у Пророка ﷺ находился какой-то бедуин, он рассказал (следующее): «Один из тех, кто окажется в раю, попросит своего Господа разрешить ему возделывать землю. (Господь) спросит его: “Разве не (имеешь) ты всё, чего хочешь?” Он скажет: “Да, но я люблю возделывать землю!”» (Затем Пророк ﷺ) сказал: «(Ему будет позволено делать это,) и он посеет семена, которые станут вырастать во мгновение ока, созревать и давать урожай, (плоды же его) окажутся подобными горам, а потом Аллах скажет: “Бери их, о сын Адама, поистине, ничто не может удовлетворить тебя!”» Тут этот бедуин сказал: «Клянусь Аллахом(, этот человек) обязательно будет либо курайшитом, либо ансаром, ибо они возделывают землю, а мы — нет!» — и Пророк ﷺ рассмеялся
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2348</td></tr><tr><td>Arabic No</td><td>2348</td></tr><tr><td>Reference</td><td>Book 41 Hadith 26</td></tr></tbody></table></div>
 

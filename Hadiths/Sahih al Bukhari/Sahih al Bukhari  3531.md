@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once Hassan bin Thabit asked the permission of the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Utsman bin Abu Syaibah] telah bercerita kepada kami ['Abdah] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; "Hassan (Ibnu Al Mundzir bin 'Amru bin Haram Al Anshariy Al Khazrajiy) meminta ijin kepada Nabi shallallahu 'alaihi wasallam untuk mengejek kaum Musyrikin (Quraisy) lalu beliau berkata: "Tapi bagaimana dengan nasab (keturunan) ku?". Maka Hassan berkata; "Aku pasti akan mengeluarkan (menyelamatkan) baginda dari mereka sebagaimana rambut dikeluarkan dari adonan". Dan dari bapaknya berkata; "Aku pergi untuk mencela Hassan dihadapan 'Aisyah radliallahu 'anha, maka dia berkata; "(Jangan kamu lakukan) karena dia pernah menyelamatkan (melindungi) Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3531</td></tr><tr><td>Arabic No</td><td>3531</td></tr><tr><td>Reference</td><td>Book 61 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что однажды Хассан попросил Пророка ﷺ разрешить ему высмеивать многобожников. Пророк ﷺ сказал: «А как же мои родственники?», на что Хассан ответил: «Я извлеку тебя из их числа подобно тому, как извлекают волосок из теста».\nОт Абу Хишама сообщается, что он сказал: «Как-то начал я ругать Хассана в присутствии ‘Аиши, да будет доволен ею Аллах, на что она сказала: “Не ругай его, ибо он защищал Пророка ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3531</td></tr><tr><td>Arabic No</td><td>3531</td></tr><tr><td>Reference</td><td>Book 61 Hadith 40</td></tr></tbody></table></div>
 

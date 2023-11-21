@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu'adh al-Juhani reported the Messenger of Allah (ﷺ) as saying:If anyone recit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin 'Amr bin As Sarh] telah mengabarkan kepada Kami [Ibnu Wahb] telah mengabarkan kepada Kami [Yahya bin Ayyub] dari [Zabban bin Faid] dari [Sahl bin Muadz Al Juhani] dari [ayahnya] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barangsiapa yang membaca AlQur'an dan melaksanakan apa yang terkandung di dalamnya, maka kedua orang tuanya pada hari kiamat nanti akan dipakaikan mahkota yang sinarnya lebih terang dari pada sinar matahari di dalam rumah-rumah didunia, jika matahari tersebut ada diantara kalian, maka bagaimana perkiraan kalian dengan orang yang melaksanakan isi Al Qur'an?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1453</td></tr><tr><td>Arabic No</td><td>1453</td></tr><tr><td>Reference</td><td>Book 8 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Му‘аз аль-Джухани передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «На родителей того, кто читал Коран и поступал в соответствии с ним, возложат венец, сияние которого будет прекраснее солнечного света, проникающего в дома в нашем мире. Так что вы думаете о тех, кто поступает так?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1453</td></tr><tr><td>Arabic No</td><td>1453</td></tr><tr><td>Reference</td><td>Book 8 Hadith 38</td></tr></tbody></table></div>
 

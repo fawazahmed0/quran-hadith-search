@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Walid ibn Uqbah: When the Prophet of Allah (ﷺ) conquered Makkah. T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ayyub bin Muhammad Ar Raqqi] berkata, telah menceritakan kepada kami [Umar bin Ayyub] dari [Ja'far bin Burqan] dari [Tsabit Ibnul Hajjaj] dari [Abdullah Al Hamdani] dari [Al Walid bin Uqbah] ia berkata, "Ketika Nabi Allah shallallahu 'alaihi wasallam membuka kota Makkah, penduduk Makkah datang kepada beliau dengan membawa anak-anak mereka, lalu beliau mendoakan keberkahan bagi mereka dan mengusap kepala mereka." Al Walid berkata, "Aku lalu dibawa menghadap beliau sementara aku penuh dengan Za'faran, maka beliau pun tidak mengusapku karena alasan Za'faran tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4181</td></tr><tr><td>Arabic No</td><td>4181</td></tr><tr><td>Reference</td><td>Book 35 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Валид ибн ‘Укба, да будет доволен им Аллах, передаёт: «Когда Пророк Аллаха ﷺ покорил Мекку, жители Мекки начали приводить к нему своих детей, и он призывал на них благословение и проводил рукой по их головам. Что касается меня, то на мне были следы шафрана и он не стал прикасаться ко мне из-за этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4181</td></tr><tr><td>Arabic No</td><td>4181</td></tr><tr><td>Reference</td><td>Book 35 Hadith 23</td></tr></tbody></table></div>
 

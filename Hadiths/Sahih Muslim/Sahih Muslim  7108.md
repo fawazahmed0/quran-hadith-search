@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported that Allah's Messenger (ﷺ) said:There is none amon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], berkata [Ishaq]: Telah mengkhabarkan kepada kami, sedangkan [Utsman] berkata: Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Salim bin Abu Al Ja'd] dari [ayahnya] dari [Abdullah bin Mas'ud] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidaklah seorang pun dari kalian melainkan dikuasai pendamping dari kalangan jin." Mereka bertanya: Tuan juga, wahai Rasulullah? beliau menjawab: "Aku juga, hanya saja Allah membantuku mengalahkannya lalu ia masuk Islam, ia hanya memerintahkan kebaikan padaku." Telah menceritakan kepada kami [Ibnu Abi Al Mutsanna] dan [Ibnu Basyar] keduanya berkata: Telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan]. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Adam] dari [Ammar bin Ruzaiq] keduanya dari [Manshur] dengan sanad jarir seperti haditsnya, hanya saja dalam hadits Sufyan disebutkan: "Melainkan dikuasai pendamping dari kalangan jin dan dari kalangan malaikat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7108</td></tr><tr><td>Arabic No</td><td>2814.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Нет никого из вас, чтобы не было с ним спутника из числа джиннов!» Его спросили: «И с тобой, о Посланник Аллаха?!» Он ответил: «И со мной, однако Аллах помог мне против него и он принял Ислам, и не велит мне ничего, кроме благого!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7108</td></tr><tr><td>Arabic No</td><td>2814.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 62</td></tr></tbody></table></div>
 

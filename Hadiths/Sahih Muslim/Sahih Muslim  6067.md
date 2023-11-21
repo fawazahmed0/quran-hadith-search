@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qatâda a dit : "J'interrogeai Anas Ibn Mâlik comment étaient les cheveux de l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Jarir bin Hazim]; Telah menceritakan kepada kami [Qatadah] dia berkata; Aku bertanya kepada [Anas bin Malik] bagaimana keadaan rambut Rasulullah shallallahu 'alaihi wasallam? Dia menjawab; Beliau berambut ikal, tidak lurus dan tidak pula terlalu keriting, panjang rambutnya sampai antara kedua telinganya dan bahunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6067</td></tr><tr><td>Arabic No</td><td>2338.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6067</td></tr><tr><td>Arabic No</td><td>2338.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 125</td></tr></tbody></table></div>
 

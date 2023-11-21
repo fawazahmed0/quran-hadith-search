@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr (Allah be pleased with them) reported:The Messenger of Allah (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Qasim bin Zakariya] telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Yahya] dari [Muhammad bin Abdurrahman] Maula Bani Zuhrah, dari [Abu Salamah] ia berkata, dan saya menyangka bahwa saya telah mendengarnya dari [Abu Salamah] dari [Abdullah bin Amru] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepdaku: "Bacalah (Khatamkanlah) Al Quran sekali pada setiap bulannya." Saya berkata, "Saya masih kuat dari itu." beliau bersabda: "Kalau begitu, pada setiap dua puluh hari sekali." Saya berkata lagi, "Saya masih kuat kurang dari itu." beliau bersabda: "Kalau begitu, bacalah (khatamkanlah) pada setiap tujuh hari sekali, dan jangan kamu menguranginya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2732</td></tr><tr><td>Arabic No</td><td>1159.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2732</td></tr><tr><td>Arabic No</td><td>1159.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 238</td></tr></tbody></table></div>
 

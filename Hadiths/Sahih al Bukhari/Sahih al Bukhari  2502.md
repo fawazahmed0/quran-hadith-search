@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Hisham:that his mother Zainab bint Humaid took him to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh bin Al Faraj] berkata, telah menceritakan kepadaku ['Abdullah bin Wahb] berkata, telah menceritakan kepadaku [Sa'id] dari [Zuhrah bin Ma'bad] dari [kakeknya, 'Abdullah bin Hisyam] dimana dia semasa hidupnya pernah bersama Nabi shallallahu 'alaihi wasallam. Suatu hari ibunya Zainab binti Humaid menemui Rasulullah shallallahu 'alaihi wasallam lalu berkata: "Wahai Rasulullah, bai'atlah dia?". Maka Beliau berkata: "Dia masih kecil". Lalu Beliau mengusap kepalanya serta mendo'akannya. Dan dari [Zuhrah bin Ma'bad] bahwa dia pernah pergi bersama kakeknya ['Abdullah bin Hisyam] ke pasar untuk membeli makanan lalu di sana dia bertemu dengan [Ibnu 'Umar] dan [Ibnu Az Zubair] radliallahu 'anhuma, lalu keduanya berkata kepadanya: "Sertakanlah kami karena Nabi shallallahu 'alaihi wasallam telah mendo'akan keberkahan untukmu. Maka akhirnya dia menyertakan mereka. Apabila dia menempuh perjalanan dia diminta untuk singgah di tempat tinggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2502</td></tr><tr><td>Arabic No</td><td>2502</td></tr><tr><td>Reference</td><td>Book 47 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Хишама, да будет доволен им Аллах, который застал в живых Пророка ﷺ что (однажды) его мать Зайнаб бинт Хумайд отвела его к Посланнику Аллаха ﷺ и сказала: «О Посланник Аллаха, прими его клятву». (Пророк ﷺ) сказал: «Он (ещё слишком) мал», после чего погладил его по голове и обратился к Аллаху с мольбой (о благословении) для него. (Что касается ‘Абдуллаха бин Хишама, то) обычно он сам ходил на рынок и покупал себе еду, когда же его встречали Ибн ‘Умар и Ибн аз-Зубайр, да будет доволен ими Аллах, они говорили ему: «Возьми и нас с собой, ведь Пророк ﷺ призвал на тебя благословение». И он присоединялся к ним, (в результате чего) ему часто доставалась целая верблюдица, которую он отправлял домой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2502</td></tr><tr><td>Arabic No</td><td>2502</td></tr><tr><td>Reference</td><td>Book 47 Hadith 18</td></tr></tbody></table></div>
 

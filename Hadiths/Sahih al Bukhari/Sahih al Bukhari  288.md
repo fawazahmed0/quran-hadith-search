@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever the Prophet (ﷺ) intended to sleep while he was Junub,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Ubaidullah bin Abu Ja'far] dari [Muhammad bin 'Abdurrahman] dari ['Urwah] dari ['Aisyah] berkata, "Jika Nabi shallallahu 'alaihi wasallam hendak tidur saat dirinya dalam kondisi junub, maka beliau membasuh kemaluannya dan berwudlu sebagaimana wudlu untuk shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>288</td></tr><tr><td>Arabic No</td><td>288</td></tr><tr><td>Reference</td><td>Book 5 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда Пророк ﷺ хотел лечь спать в состоянии полового осквернения, он мыл свои половые органы и совершал омовение (которое обычно совершал) для молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>288</td></tr><tr><td>Arabic No</td><td>288</td></tr><tr><td>Reference</td><td>Book 5 Hadith 40</td></tr></tbody></table></div>
 

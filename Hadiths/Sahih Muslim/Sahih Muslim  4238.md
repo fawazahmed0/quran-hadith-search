@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported Allah's Apostle (ﷺ) as saying:The vow neither hastens anythi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami Muhammad bin Yahya telah menceritakan kepada kami [Yazid bin Abu Hakim] dari [Sufyan] dari [Abdullah bin Dinar] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Nadzar itu tidak dapat mempercepat datangnya sesuatu dan tidak pula melambatkannya, hanyasanya ia untuk mengeluarkan sesuatu dari orang bakhil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>1639.02</td></tr><tr><td>Reference</td><td>Book 26 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>1639.02</td></tr><tr><td>Reference</td><td>Book 26 Hadith 4</td></tr></tbody></table></div>
 

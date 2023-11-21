@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ma'dan b. Talha reported:I met Thauban, the freed slave. of Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [al-Walid bin Muslim] dia berkata, "Saya mendengar [al-Auza'i] berkata, telah menceritakan kepadaku [al-Walid bin Hisyam al-Mu'aithi] telah menceritakan kepadaku [Ma'dan bin Abi Thalhah al-Ya'mari] dia berkata, "Aku bertemu [Tsauban], maula Rasulullah Shallallahu'alaihiwasallam, lalu aku bertanya, 'Kabarkanlah kepadaku dengan suatu amal yang jika kukerjakan niscaya Allah akan memasukkanku ke dalam surga disebabkan amal tersebut, -atau dia berkata, aku berkata, 'Dengan amalan yang paling disukai Allah-, lalu dia diam, kemudian aku bertanya kepadanya, lalu dia diam kemudian dia bertanya kepadanya yang ketiga kalinya.' Dia menjawab, 'Aku telah menanyakan hal tersebut kepada Rasulullah Shallallahu'alaihiwasallam, maka dia menjawab, 'Hendaklah kamu memperbanyak sujud kepada Allah, karena tidaklah kamu bersujud kepada Allah dengan suatu sujud melainkan Allah akan mengangkatmu satu derajat dengannya, dan menghapuskan dosa darimu dengannya'." [Ma'dan] berkata, "Kemudian aku bertemu [Abu ad-Darda'], lalu aku bertanya kepadanya, maka dia menjawabku seperti sesuatu yang dikatakan Tsauban kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>488</td></tr><tr><td>Reference</td><td>Book 4 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ма‘дан ибн Абу Тальха аль-Я‘мури сказал: «(Однажды) я встретил вольноотпущенника Посланника Аллаха ﷺ Саубана и попросил его: “Скажи мне, за какое дело, которое я (могу) совершать, Аллах введёт меня в Рай (или: Скажи мне, какое дело Аллах любит больше всего)”, однако он промолчал. Я попросил его об этом во второй раз, но он снова промолчал, когда же я обратился с этой просьбой в третий раз, он сказал: “(Когда-то) я попросил об этом Посланника Аллаха ﷺ, и он сказал: “Ты должен совершать множество земных поклонов пред Аллахом, ибо, поистине, за каждый земной поклон, совершённый тобой ради Аллаха, Аллах возвысит тебя на (одну) ступень и снимет с тебя (бремя одного) прегрешения”».Ма‘дан сказал: «Потом я встретил Абу ад-Дарду, к которому обратился с такой же просьбой, и он сказал мне то же, что и Саубан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>488</td></tr><tr><td>Reference</td><td>Book 4 Hadith 255</td></tr></tbody></table></div>
 

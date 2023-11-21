@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Angels do not accompany t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Fudhail bin Husain Al Jahdari]; Telah menceritakan kepada kami [Bisyr] yaitu Ibnu Mufadhdhal; Telah menceritakan kepada kami [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Malaikat tidak mau menemani orang-orang yang di rumah mereka ada anjing dan lonceng." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] demikian juga diriwayatkan dari jalur lain, dan telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abdul Aziz] yaitu Ad Darawardi keduanya dari [Suhail] melalui sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5546</td></tr><tr><td>Arabic No</td><td>2113.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5546</td></tr><tr><td>Arabic No</td><td>2113.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 157</td></tr></tbody></table></div>
 

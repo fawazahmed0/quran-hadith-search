@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Sa'id Khudri that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Utsman bin Muhammad bin Abu Syaibah] telah menceritakan kepada kami [Jarir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Salamah] keduanya dari [al-A'masy] dari [Abu Shalih] dari [Abu Sa'id] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan membenci kaum Anshar, seorang laki-laki yang beriman kepada Allah dan hari akhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>77</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са’ида, что Посланник Аллаха ﷺ сказал: «Человек, который верует в Аллаха и в Последний день, не испытывает ненависти к ансарам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>77</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:that when Allah's Messenger (ﷺ) sent him and Mu'adh bin Jaba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [An Nadlr] telah mengabarkan kepada kami [Syu'bah] dari [Sa'id bin Abu Burdah] dari [Ayahnya] dari [Kakeknya] dia berkata; "Ketika beliau mengutusnya bersama Mu'adz bin Jabal, beliau bersabda kepada keduanya: "Mudahkanlah setiap urusan dan janganlah kamu mempersulit, berilah kabar gembira dan jangan kamu membuatnya lari, dan bersatu padulah! Lantas Abu Musa berkata; "Wahai Rasulullah, di daerah kami sering dibuat minuman dari rendaman madu yang biasa di sebut dengan Al Bit'u dan minuman dari rendaman gandum yang biasa di seut Al Mizru. Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Setiap yang memabukkan adalah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6124</td></tr><tr><td>Arabic No</td><td>6124</td></tr><tr><td>Reference</td><td>Book 78 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бурда сказал: «Посланник Аллаха ﷺ послал Абу Мусу и Му’аза в Йемен, сказав: “Облегчайте, а не затрудняйте, приносите радость, а не внушайте отвращение (к исламу) и подчиняйтесь друг другу!” Абу Муса сказал: “О Посланник Аллаха! Поистине, на нашей земле изготовляют напиток из мёда, называемый аль-бит’, а также напиток из ячменя, называемый аль-мирз”. На это Посланник Аллаха ﷺ ответил: “Всё опьяняющее запретно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6124</td></tr><tr><td>Arabic No</td><td>6124</td></tr><tr><td>Reference</td><td>Book 78 Hadith 151</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Sulaiman b. Bilal with the sam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi], telah mengabarkan kepadaku [Yahya bin Hassan] telah mengabarkan kepada kami [Sulaiman bin Bilal] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sebaik-baik lauk pauk adalah cuka. Dan Telah menceritakannya pula kepada kami [Musa bin Quraisy bin Nafi' At Tamimi], Telah menceritakan kepada kami [Yahya bin Shalih Al Wuhazhi], Telah menceritakan kepada kami [Sulaiman bin Bilal] dengan sanad ini, dan dia berkata; 'Sebaik-baik lauk pauk -dengan tidak ada keraguan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5351</td></tr><tr><td>Arabic No</td><td>2051.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5351</td></tr><tr><td>Arabic No</td><td>2051.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 225</td></tr></tbody></table></div>
 

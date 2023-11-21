@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais bin Ubad:I heard Abu Dhar swearing that these Holy Verses were rev
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ja'far] telah mengabarkan kepada kami [Waki'] dari [Sufyan] dari [Abu Hasyim] dari [Abu Mijlaz] dari [Qais bin 'Ubad] aku mendengar [Abu Dzarr] radliallahu 'anhu bersumpah; "Sungguh ayat itu turun tentang enam orang itu pada perang Badar". Atau semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 64 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Кайс ибн ‘Убада сказал: «Я слышал, как Абу Зарр, да будет доволен им Аллах, клялся, что те аяты были ниспосланы относительно тех шестерых человек, в день Бадра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 64 Hadith 21</td></tr></tbody></table></div>
 

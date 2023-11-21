@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Khalid al-Juhani: The Messenger of Allah (ﷺ) distributed sac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Shudran], telah menceritakan kepada kami [Abdul A'la bin Abdul A'la], telah menceritakan kepada kami [Muhammad bin Ishaq], telah menceritakan kepadaku ['Umarah bin Abdullah bin Thu'mah], dari [Sa'id bin Al Musayyab], dari [Zaid bin Khalid Al Juhani], ia berkata; Rasulullah shallallahu 'alaihi wasallam membagikan kurban beliau kepada para sahabatnya, beliau memberiku kambing kecil yang berumur satu tahun. Kemudian aku membawanya kembali kepada beliau dan aku katakan kepadanya; kambing itu adalah kambing yang berumur satu tahun. Kemudian beliau berkata: "Berkurbanlah dengannya!" kemudian aku berkurban dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2798</td></tr><tr><td>Arabic No</td><td>2798</td></tr><tr><td>Reference</td><td>Book 16 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Халида аль-Джухани, да будет доволен им Аллах: «Посланник Аллаха ﷺ разделил между своими сподвижниками жертвенных животных и дал мне годовалую козу. Я пришёл к нему и сказал: “Но ведь ей только год”. (Посланник Аллаха ﷺ) сказал: “Принеси её в жертву”. И я принёс её в жертву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2798</td></tr><tr><td>Arabic No</td><td>2798</td></tr><tr><td>Reference</td><td>Book 16 Hadith 11</td></tr></tbody></table></div>
 

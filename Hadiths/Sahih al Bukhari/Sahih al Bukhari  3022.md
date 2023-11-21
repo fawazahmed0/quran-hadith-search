@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib:Allah's Messenger (ﷺ) sent a group of Ansari men to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin Muslim] telah bercerita kepada kami [Yahya bin Zakariya' bin Abi Za'idah] berkata telah bercerita kepadaku [bapakku] dari [Abu Ishaq] dari [Al Bara' bin 'Azib radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam mengirim serambongan pasukan dari kalangan Anshor menemui Abu Rofi' untuk membunuhnya. Lalu seseorang dari mereka pergi dan memasuki benteng mereka. Dia berkata: "Maka aku masuk di tempat mereka mengikat hewan terrnak mereka". Dia berkata: "Dan mereka menutup pintu benteng". Kemudian mereka merasa kehilangan seekor keledai mereka, merekapun keluar mencarinya. Maka akupun keluar bersama orang-orang yang keluar dan aku memperlihatkan kepada mereka bahwa aku juga mencarinya bersama mereka. Akhirnya mereka mendapatkannya, lalu aku dan mereka masuk ke benteng serta menutup pintu pada malam hari. Kemudian mereka meletakkan kunci-kunci di lobang pintu seperti yang aku lihat. Ketika mereka tidur aku mengambil kunci-kunci itu dan membuka pintu. Lalu aku menemuinya dan aku berkata: "Wahai Abu Rofi'". Aku merubah suaraku. Dia menjawabku: "Siapa kamu, celakalah bagi ibumu". Aku katakan: "Ada apa denganmu?" Dia menjawab: "Aku tidak tahu. Siapa orang yang masuk kepadaku?" Maka dia memukulku. Dia berkata: "Maka aku meletakkan pedangku diatas perutnya lalu aku membelah perutnya hingga patah tulang-tulangnya. Kemudian aku keluar, namun aku bingung hingga aku mendatangi tangga milik mereka agar aku dapat turun dari benteng itu. Namun aku terjatuh dan kakiku terkilir. Lalu aku keluar dan menemui para sahabatku. Aku berkata: "Tadi malam aku bangun karena mendengar suara rintihan, aku bangun karena mendengar suara rintihan Abu Rofi', seorang pedagang dari ahli Hijaz. Kemudian aku berdiri tapi aku merasa sakit qolabah (akibat terkilir) hingga aku menemui Nabi shallallahu 'alaihi wasallam lalu kami mengabarkan peristiwa itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 56 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «(В свое время) Посланник Аллаха ﷺ послал несколько человек из числа ансаров убить (иудея) Абу Рафи‘а. Один из этих людей отправился к нему и вошёл в крепость (иудеев). Он сказал: “Я вошёл в стойло для их животных. Они закрыли ворота крепости. Позже они потеряли своего осла и отправились на его поиски. Я тоже вышел вместе с ними, делая вид, что ищу его. Они нашли осла и вошли в свою крепость. И я тоже вошёл вместе с ними. Они закрыли ворота крепости на ночь и положили ключи в отверстие в стене, и я увидел это. Когда они уснули, я взял ключи и открыл ворота крепости. Затем я вошёл к Абу Рафи’у и сказал: “О Абу Рафи‘!”, и он отозвался. Тогда я пошёл на его голос и ударил его. Он закричал, и я вышел, а затем вернулся, притворившись помощником. Я сказал: “О Абу Рафи‘!”, изменив свой голос. Он спросил меня: “Чего ты хочешь, горе твоей матери?” Я спросил его: “Что с тобой случилось?” Он сказал: “Я не знаю, кто-то пришёл ко мне и ударил меня”. Затем я вонзил свой меч ему в живот и сильно толкнул его, пока он не коснулся кости. Затем я вышел растерянным и направился к лестнице, чтобы спуститься, но упал и вывихнул ногу. Я подошёл к своим спутникам и сказал: “Я не уйду, пока не услышу плач женщин”. Итак, я не уходил, пока не услышал, как женщины оплакивают Абу Рафи’а, торговца Хиджаза. Затем я встал, не чувствуя никакой боли, мы пришли к Пророку ﷺ и сообщили ему обо всём»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 56 Hadith 231</td></tr></tbody></table></div>
 

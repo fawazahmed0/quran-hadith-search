@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Zhafar Abdussalam] berkata, telah menceritakan kepada kami [Ja'far] dari [Auf] ia berkata; Aku mendengar [Al Hajjaj] berkhutbah, ia mengatakan, "Permisalan Utsman di sisi Allah seperti Isa putra Maryam, lalu ia membaca ayat ini dan mentafsirkannya: '(Ingatlah), ketika Allah berfirman: "Hai Isa, sesungguhnya Aku akan menyampaikan kamu kepada akhir ajalmu dan mengangkat kamu kepada-Ku serta membersihkan kamu dari orang-orang yang kafir…) ' -Qs. Ali Imran: 55- lalu dengan tangannya ia menunjuk ke arah kami dan ke arah penduduk Syam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4641</td></tr><tr><td>Arabic No</td><td>4641</td></tr><tr><td>Reference</td><td>Book 42 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Ауфа: «Я слышал, как аль-Хаджжадж однажды обратился к людям с речью и сказал: “Поистине, ‘Усман пред Аллахом подобен ‘Исе ибн Марьям”, после чего прочитал аят: “Вот сказал Аллах: “О ‘Иса (Иисус)! Я упокою тебя и вознесу тебя к Себе. Я очищу тебя от тех, кто не уверовал””. При этом он, разъясняя смысл аята, указывал на нас и жителей Шама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4641</td></tr><tr><td>Arabic No</td><td>4641</td></tr><tr><td>Reference</td><td>Book 42 Hadith 46</td></tr></tbody></table></div>
 

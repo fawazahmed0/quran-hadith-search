@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:We were with Allah's Messenger (ﷺ) when the sun eclipsed. A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepada kami [Khalid] dari [Yunus] dari [Al Hasan] dari [Abu Bakrah] berkata, "Kami pernah duduk-duduk bersama Rasulullah shallallahu 'alaihi wasallam lalu terjadi gerhana matahari. Maka Nabi shallallahu 'alaihi wasallam berdiri menjulurkan selendangnya hingga masuk ke dalam masjid, kamipun ikut masuk ke dalam Masjid, beliau lalu mengimami kami shalat dua rakaat hingga matahari kembali nampak bersinar. Setelah itu beliau bersabda: "Sesungguhnya matahari dan bulan tidak akan mengalami gerhana disebabkan karena matinya seseorang. Jika kalian melihat gerhana keduanya, maka dirikanlah shalat dan banyaklah berdoa hingga selesai gerhana yang terjadi pada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «(Однажды, когда) мы находились у Посланника Аллаха ﷺ началось солнечное затмение. Пророк ﷺ поднялся (со своего места, направился к мечети), волоча за собой свою накидку, и вошёл туда. Мы также вошли (в мечеть, где) он совершал с нами молитву в два рак‘ата до тех пор, пока солнце не появилось снова, (закончив же молитву, Пророк ﷺ ) сказал: “Поистине, солнечные и лунные затмения происходят не потому, что кто-то (из людей) умирает, и поэтому, когда вы увидите (подобное), совершайте молитву и взывайте к Аллаху, пока затмение не закончится”».\nВ другой версии этого хадиса сообщается, что Пророк ﷺ сказал: «…но посредством этого Аллах Всевышний устрашает Своих рабов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
 

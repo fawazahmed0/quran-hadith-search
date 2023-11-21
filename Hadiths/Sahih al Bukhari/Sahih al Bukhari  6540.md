@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:The Prophet (ﷺ) said, "Protect yourself from the Fire.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] mengatakan, telah menceritakan kepadaku [Al A'masy] mengatakan, telah menceritakan kepadaku [Khaitsumah] dari ['Adi bin Hatim] menuturkan, Nabi shallallahu 'alaihi wasallam bersabda: "Tiada seorang pun diantara kalian selain Allah akan mengajaknya bicara padahari kiamat, tidak ada juru penerjemah antara dia dan Allah, kemudian ia memperhatikan dan tidak ia lihat apapun di hadapannya, lantas ia melihat depannya, selanjutnya ia didatangi oleh api, maka siapa diantara kalian mampu, hindarilah neraka sekalipun hanya dengan sebiji kurma." Kata [Al A'masy], telah menceritakan kepadaku ['Amru] dari [Khaitusmah] dari ['Adi bin Hatim] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Jagalah diri kalian dari api neraka sekalipun hanya dengan sebiji kurma." Kemudian beliau berpaling dan menyingkir, kemudian beliau bersabda lagi: "jagalah diri kalian dari neraka", kemudian beliau berpaling dan menyingkir (tiga kali) hingga kami beranggapan bahwa beliau melihat neraka itu sendiri, selanjutnya beliau bersabda: "Jagalah diri kalian dari neraka sekalipun hanya dengan sebiji kurma, kalaulah tidak bisa, lakukanlah dengan ucapan yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6540</td></tr><tr><td>Arabic No</td><td>6540</td></tr><tr><td>Reference</td><td>Book 81 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим сказал: «(Однажды) Пророк ﷺ сказал: “Защищайтесь от Огня!” Затем отвернулся (так, будто смотрел на него) и (снова) сказал: “Защищайтесь от Огня!” Это повторилось трижды, и мы подумали, что он смотрит на него (на Огонь). Затем он сказал: “Защищайтесь от Огня хотя бы с помощью половинки финика, а тот, кто не найдёт и этого, то с помощью доброго слова!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6540</td></tr><tr><td>Arabic No</td><td>6540</td></tr><tr><td>Reference</td><td>Book 81 Hadith 129</td></tr></tbody></table></div>
 

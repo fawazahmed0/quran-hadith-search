@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with, her) reported that it had been revealed in the Ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Abdullah bin Abu Bakar] dari ['Amrah] dari ['Aisyah] dia berkata: "Dahulu dalam Al Qur'an susuan yang dapat menyebabkan menjadi mahram ialah sepuluh kali penyusuan, kemudian hal itu dinasakh (dihapus) dengan lima kali penyusuan saja. Lalu Rasulullah shallallahu 'alaihi wasallam wafat, dan ayat-ayat Al Qur'an masih tetap di baca seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3597</td></tr><tr><td>Arabic No</td><td>1452.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В од­ном) из ниспосланных (свыше аятов) Корана было (сказано, что если) известно, что (одна и та же кормилица) десять раз покормила грудью (мальчика и девочку, то им) запрещается (вступать в брак). Впоследст­вии (слово “десять”) было отменено (и заменено) на “пять” (когда же) Посланник Аллаха ﷺ скончался, (слова “десять раз” некоторое время) читались (людьми среди прочего, что читается) из Корана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3597</td></tr><tr><td>Arabic No</td><td>1452.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 30</td></tr></tbody></table></div>
 

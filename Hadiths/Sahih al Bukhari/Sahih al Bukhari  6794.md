@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A thief's hand was not cut off for stealing something worth less
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yusuf bin Musa] telah menceritakan kepada kami [Abu usamah], dia menuturkan; [Hisyam bin Urwah] telah mengabarkan kepada kami dari [ayahnya] dari ['Aisyah] radliallahu 'anha menuturkan; "Tangan pencuri tidak dipotong semasa Nabi shallallahu 'alaihi wasallam jika kurang dari senilai harga perisai yang dinamakan mijan atau perisai yang dinamakan hajafah, keduanya mempunyai harga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6794</td></tr><tr><td>Arabic No</td><td>6794</td></tr><tr><td>Reference</td><td>Book 86 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «При жизни Пророка ﷺ руку вора не отрубали за (кражу) того, что стоило меньше щита, который имел ценность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6794</td></tr><tr><td>Arabic No</td><td>6794</td></tr><tr><td>Reference</td><td>Book 86 Hadith 23</td></tr></tbody></table></div>
 

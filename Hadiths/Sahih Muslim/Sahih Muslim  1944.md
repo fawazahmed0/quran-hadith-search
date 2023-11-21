@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that the Messenger of Allah (ﷺ) observed prayer in danger on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Adam] dari [Sufyan] dari [Musa bin Uqbah] dari [Nafi'] dari [Ibnu Umar] ia berkata; "Pada suatu hari Rasulullah shallallahu 'alaihi wasallam pernah mengimami shalat khauf. Mula-mula beliau shalat satu raka'at dengan satu kelompok pasukan, sedangkan pasukan yang lain berjaga-jaga menghadapi musuh. Usai satu raka'at, kelompok pertama berjaga-jaga dan kelompok kedua shalat mengikuti Rasulullah shallallahu 'alaihi wasallam satu raka'at. Sesudah itu, masing-masing kelompok menyempurnakan shalat mereka satu raka'at lagi." Ibnu Umar berkata, "Apabila situasi kemanan lebih parah dari itu, maka beliau shalat di atas kendaraan atau sambil berdiri, dengan cara menggunakan isyarat (kepala atau mata)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1944</td></tr><tr><td>Arabic No</td><td>839.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 372</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «В один день Посланник Аллаха ﷺ совершил молитву, (совершаемую под воздействием) страха /салят аль-хауф/ (следующим образом): одна группа людей встала с ним, а другая встала перед врагом, и он совершил с теми, которые были с ним один рак‘ат, после чего они ушли, а (люди из) другой группы подошли. Он совершил с ними один рак‘ат, а затем каждая из двух групп самостоятельно совершила оставшийся один рак‘ат».Ибн ‘Умар сказал: «Если же страх будет сильнее этого, то совершай молитву сидя верхом или стоя указывая жестами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1944</td></tr><tr><td>Arabic No</td><td>839.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 372</td></tr></tbody></table></div>
 

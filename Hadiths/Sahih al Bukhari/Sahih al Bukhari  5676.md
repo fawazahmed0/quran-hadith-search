@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) came to me while I was ill. He pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Al Munkadir] dia berkata; saya mendengar [Jabir bin Abdullah] radliallahu 'anhu berkata; "Nabi shallallahu 'alaihi wasallam menjengukku ketika saya sakit, lalu beliau berwudlu' dan memercikkan air wudlu'nya kepadaku, atau bersabda: "percikkanlah (air) padanya." lantas saya pun tersadar, lalu saya berkata; "Wahai Rasulullah, saya tidak ada yang mewarisiku kecuali hanya kalalah (ahli warits sendirian), bagaimana aku harus membagi harta peninggalanku? Setelah itu turunlah ayat tentang fara'idl (harta peninggalan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5676</td></tr><tr><td>Arabic No</td><td>5676</td></tr><tr><td>Reference</td><td>Book 75 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Однажды, когда я заболел, Пророк ﷺ пришёл ко мне, совершил омовение и вылил на меня воду, (оставшуюся после омовения), после чего я пришёл в себя и сказал: “У меня нет близких родственников, что же будет с моим наследством?” Тогда после чего был ниспослан аят о наследовании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5676</td></tr><tr><td>Arabic No</td><td>5676</td></tr><tr><td>Reference</td><td>Book 75 Hadith 36</td></tr></tbody></table></div>
 

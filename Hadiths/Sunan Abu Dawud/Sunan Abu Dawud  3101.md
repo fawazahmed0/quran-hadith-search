@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:When Sa'd b. Mu'adh suffered affliction on the day of Trench (i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?] telah menceritakan kepada kami [Abdullah bin Numair], dari [Hisyam bin 'Urwah] dari [ayahnya], dari [Aisyah] ia berkata; tatkala Sa'd bin Mu'adz terkena musibah pada saat perang Khandaq karena ia dipanah oleh seorang laki-laki pada otot tengah lengan, maka Rasulullah shallallahu 'alaihi wasallam mendirikan tenda di Masjid agar beliau dapat mengunjunginya dari jarak yang dekat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (463) Sahih Muslim (1769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3101</td></tr><tr><td>Arabic No</td><td>3101</td></tr><tr><td>Reference</td><td>Book 21 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что, когда Са‘да ибн Му‘аза ранили в день битвы у Рва один человек выпустил стрелу и попал ему в руку, повредив сосуд (, и в последствии от этой тяжёлой раны он скончался), Посланник Аллаха ﷺ велел поставить для него палатку в мечети, чтобы тот находился поблизости и навещал его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (463) Sahih Muslim (1769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3101</td></tr><tr><td>Arabic No</td><td>3101</td></tr><tr><td>Reference</td><td>Book 21 Hadith 13</td></tr></tbody></table></div>
 

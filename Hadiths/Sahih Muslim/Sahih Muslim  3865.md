@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadau [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Yahya bin Sa'id] dari [Nafi'] dari [Ibnu Umar] dia berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Janganlah kalian membeli buah-buahan hingga tampak matangnya dan terbebas dari kerusakan." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Abi Umar] keduanya berkata; Telah menceritakan kepada kami [Abdul Wahhab] dari [Yahya] dengan isnad seperti ini, hingga terlihat matangnya, dan tidak menyebutkan setelahnya. Telah menceritakan kepada kami [Ibnu Rafi'] telah menceritakan kepada kami [Ibnu Abi Fudaik] telah mengabarkan kepada kami [Adh Dhahhak] dari [Nafi'] dari [Ibnu Umar] dari Nabi Shallallu 'alaihi wa sallam seperti hadits Abdul Wahhab. Telah menceritakan kepada kami [Suwaid bin Sa'id] telah menceritakan kepada kami [Hafsh bin Maisarah] telah menceritakan kepadaku [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar] dari Nabi Shallallu 'alaihi wa sallam seperti hadits Malik dan Ubaidillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3865</td></tr><tr><td>Arabic No</td><td>1534.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3865</td></tr><tr><td>Arabic No</td><td>1534.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 64</td></tr></tbody></table></div>
 

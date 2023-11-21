@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Aflah b. Qu'ais sought permission fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidillah bin Mu'adz Al Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Hakam] dari ['Irak bin Malik] dari ['Urwah] dari [Aisyah] dia berkata; "Aflah bin Al Qu'ais meminta izin kepadaku untuk masuk menemuiku, namun saya enggan memberikan izin dia masuk menemuiku, lalu datanglah Rasulullah shallallahu 'alaihi wasallam, lantas saya memberitahukan hal itu kepadanya. Maka beliau bersabda kepadaku: "Suruhlah dia masuk, karena dia adalah pamanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3580</td></tr><tr><td>Arabic No</td><td>1445.10</td></tr><tr><td>Reference</td><td>Book 17 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3580</td></tr><tr><td>Arabic No</td><td>1445.10</td></tr><tr><td>Reference</td><td>Book 17 Hadith 13</td></tr></tbody></table></div>
 

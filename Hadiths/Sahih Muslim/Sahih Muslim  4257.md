@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Umar) reported that Allah's Messenger (ﷺ) found, Umar b. al-Khatt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] sedangkan lafadznya dari dia, telah mengabarkan kepada kami [Laits] dari [Nafi'] dari [Abdullah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau pernah melihat Umar bin Khattab sedang berkendaraan, saat itu dia bersumpah dengan menyebut nama bapaknya, maka Rasulullah shallallahu 'alaihi wasallam menyeru mereka seraya bersabda: "Ketahuilah, sesungguhnya Allah Azza Wa Jalla melarang kalian bersumpah dengan menyebut nama bapak kalian, siapa yang bersumpah hendaklah dia bersumpah dengan menyebut nama Allah atau diam." Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Yahya] -yaitu Al Qatthan- dari [Ubaidullah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Bisyr bin Hilal] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Ayyub]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Katsir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Isma'il bin Umayyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Rafi'] telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahak] dan [Ibnu Abu Dzi'b]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Rafi'] dari [Abdurrazaq] dari [Ibnu Juraij] telah mengabarkan kepadaku [Abdul Karim] mereka semua dari [Nafi'] dari [Ibnu Umar] seperti cerita ini, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4257</td></tr><tr><td>Arabic No</td><td>1646.04</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4257</td></tr><tr><td>Arabic No</td><td>1646.04</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
 

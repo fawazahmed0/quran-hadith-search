@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "I have been given fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] berkata, telah menceritakan kepada kami [Husyaim] berkata, telah menceritakan kepada kami [Sayyarah] -yaitu Abu Al Hakam- berkata, telah menceritakan kepada kami [Yazid Al Faqir] berkata, telah menceritakan kepada kami [Jabir bin 'Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diberikan lima perkara yang tidak diberikan kepada seorangpun dari Nabi-Nabi sebelumku; aku ditolong melawan musuhku dengan ketakutan mereka sepanjang sebulan perjalanan, bumi dijadikan untukku sebagai tempat sujud dan suci; maka dimana saja seorang laki-laki dari ummatku mendapati waktu shalat hendaklah ia shalat. Dihalalkan harta rampasan untukku, para Nabi sebelumku diutus khusus untuk kaumnya sedangkan aku diutus untuk seluruh manusia, dan aku diberikah (hak) syafa'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Мне были дарованы пять (вещей), которые не были дарованы никому из пророков до меня: мне была оказана помощь страхом(, который охватил сердца моих врагов, живущих от меня) на расстоянии месяца пути; (вся) земля была сделана для меня местом совершения намазов и средством очищения, и поэтому, где бы ни застало человека, принадлежащего к моей общине, (время) намаза, пусть совершает намаз (на этом месте); военная добыча, (которую не разрешалось брать никому из пророков до меня,) была дозволена мне; (раньше) каждый пророк направлялся только к своему народу, я же был направлен ко всем людям и (кроме всего этого), мне было даровано право заступничества”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 87</td></tr></tbody></table></div>
 

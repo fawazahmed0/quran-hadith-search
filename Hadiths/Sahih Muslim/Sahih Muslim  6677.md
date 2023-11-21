@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Ibn 'Umar through another chai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepadaku [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepada kami ['Abdul A'laa] dari ['Ubaidullah bin 'Umar] dari [Nafi'] dari [Ibnu 'Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang wanita disiksa lantaran seekor kucing yang diikatnya. Ia tidak memberinya makan atau minum. Juga tidak melepasnya sehingga mencari makan dari serangga bumi."Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepada kami ['Abdul A'laa] dari ['Ubaidullah] dari [Sa'id Al Maqburi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6677</td></tr><tr><td>Arabic No</td><td>2242.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6677</td></tr><tr><td>Arabic No</td><td>2242.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 174</td></tr></tbody></table></div>
 

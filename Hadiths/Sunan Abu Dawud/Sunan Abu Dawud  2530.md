@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: A man emigrated to the Messenger of Allah (ﷺ) fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abdullah bin Wahb], telah mengabarkan kepadaku ['Amr bin Al Harits], bahwa [Darraj Abu As Samh] telah menceritakan kepadanya dari [Abu Al Haitsam], dari [Abu Sa'id Al Khudri], bahwa seorang laki-laki berhijrah kepada Rasulullah shallallahu 'alaihi wasallam dari Yaman dan berkata; apakah engkau memiliki seseorang di Yaman? Ia berkata; kedua orang tuaku. Beliau berkata: "Apakah mereka berdua mengizinkanmu?" Ia berkata; tidak. Beliau berkata: "Kembalilah kepada mereka berdua dan mintalah izin kepada mereka, apabila mereka mengizinkan maka berjihadlah dan jika tidak maka berbaktilah kepada mereka berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2530</td></tr><tr><td>Arabic No</td><td>2530</td></tr><tr><td>Reference</td><td>Book 15 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2530</td></tr><tr><td>Arabic No</td><td>2530</td></tr><tr><td>Reference</td><td>Book 15 Hadith 54</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubai bin Ka'b:Allah's Messenger (ﷺ) said, "Moses the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] bahwa [Ibnu Juraij] mengabarkan kepadanya, berkata telah bercerita kepadaku [Ya'laa bin Muslim] dan ['Amru bin Dinar] dari [Sa'id bin Jubair] dimana satu sama lain saling menambahkan dan begitu juga para perawi selain keduanya, sungguh aku pernah mendengarnya bercerita kepadanya dari [Sa'id bin Jubair] berkata; Kami sedang bermajelis dengan [Ibnu 'Abbas radliallahu 'anhuma] ia berkata, telah bercerita kepadaku [Ubay bin Ka'ab] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Musa Rasulullah Alaihis Salam, lalu dia menyebutkan hadits. Kisahnya dalam firman Allah Surah al-Kahfi; 72: (Nabi Hidzir AS berkata: "Bukankah telah aku katakan bahwa kamu tidak akan sanngup untuk bersabar bersamaku"). Pertanyaan dari Musa yang pertama adalah karena lupa, yang kedua syarat yang diajukannya sedangkan yang ketiga adalah kesengajaan. (Musa AS berkata: "Janganlah kamu menghukum aku karena kelupaanku dan janganlah kamu membebani aku dengan sesuatu kesulitan dalam urusanku"). -Al Kahfi; 73- ("..hingga tatkala keduanya berjumpa dengan seorang anak.") -Al Kahfi; 74- Lalu keduanya berjalan hingga mendapatkan (…dalam negeri itu dinding rumah yang hampir raboh..) -Al Kahfi; 77- Ibnu 'Abbas membacakannya; "sedang didepan mereka ada seorang raja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2728</td></tr><tr><td>Arabic No</td><td>2728</td></tr><tr><td>Reference</td><td>Book 54 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Убая ибн Ка‘ба, что Посланник Аллаха ﷺ сказал: «Муса — посланник Аллаха», а затем рассказал историю о нём: «Он сказал: “Разве я не говорил, что ты не сможешь сохранить терпение рядом со мной?”» (сура «аль-Кяхф», аят 72) — в первый раз это было по забывчивости, второй раз — условием, а в третий раз намеренно. «Он сказал: “Не наказывай меня за то, что я позабыл, и не возлагай на меня тяжелое бремя”» (сура «аль-Кяхф», аят 73), «Они встретили мальчика, и он убил его» (сура «аль-Кяхф», аят 74). Затем они отправились и обнаружили «...стену, которая была готова обрушиться, и он выпрямил её» (сура «аль-Кяхф», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2728</td></tr><tr><td>Arabic No</td><td>2728</td></tr><tr><td>Reference</td><td>Book 54 Hadith 16</td></tr></tbody></table></div>
 

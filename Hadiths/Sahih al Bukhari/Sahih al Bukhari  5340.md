@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:We were forbidden to mourn for more than three days except f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Bisyr] Telah menceritakan kepada kami [Salamah bin 'Alqamah] dari [Muhammaad bin Sirin] bahwa [Ummu 'Athiyyah] berkata, "Kami dilarang untuk berkabung lebih dari tiga hari kecuali terhadap suami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5340</td></tr><tr><td>Arabic No</td><td>5340</td></tr><tr><td>Reference</td><td>Book 68 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Мухаммада ибн Сирина, что Умм ‘Атыйя сказала: «Нам было запрещено находиться в состоянии траура более трёх дней по кому-то, кроме мужа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5340</td></tr><tr><td>Arabic No</td><td>5340</td></tr><tr><td>Reference</td><td>Book 68 Hadith 85</td></tr></tbody></table></div>
 

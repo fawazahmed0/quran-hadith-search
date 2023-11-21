@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:The Messenger of Allah (ﷺ) struck my thigh and said: How wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Hubaib Al Haritsi], telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Syu'bah] dari [Budail] dia berkata; aku mendengar [Abu Aliyah] menceritakan dari [Abdullah bin Shamit] dari [Abu Dzar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda -sambil menepuk pahanya- "Bagaimana jika engkau masih hidup ditengah suatu kaum yang suka menunda-nunda shalat dari waktunya?" Abu Dzar justeru bertanya; "Menurut engkau, apa yang engkau perintahkan kepada kami?" Beliau menjawab; "Tunaikanlah shalat tepat pada waktunya, kemudian tunaikan keperluanmu, jika shalat diiqamati sedang kamu berada di masjid, ikutlah shalat bersama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1468</td></tr><tr><td>Arabic No</td><td>648.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ас-Самита, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ слегка ударив меня по бедру, спросил: “Как ты (поступишь), если останешься среди людей, которые будут откладывать совершение молитвы в (начале) её времени?”»(‘Абдуллах ибн ас-Самит) сказал: «(Абу Зарр) спросил: “А что ты мне велишь (делать)?” (Пророк ﷺ) ответил: «Совершай молитву в положенное (предпочтительное) время, а потом отправляйся по своим делам, а если объявят о проведении (этой же) молитвы, когда ты находишься в мечети, то помолись (с ними)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1468</td></tr><tr><td>Arabic No</td><td>648.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 301</td></tr></tbody></table></div>
 

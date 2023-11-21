@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has also been transmitted through a different chain of narrators 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] serta [Ahmad bin Hanbal], mereka berkata; telah menceritakan kepada Kami [Sufyan] dari [Az Zuhri] dari [Salim] dari [ayahnya], ia berkata; seorang laki-laki bertanya kepada Rasulullah shallAllahu wa'alaihi wa sallam; pakaian apakah yang ditinggalkan oleh orang yang berihram? Kemudian beliau bersabda: "Ia tidak boleh memakai jubah, dan baju panjang yang bertutup kepala, celana panjang, sorban, dan baju yang diusap waras, dan kunyit, serta dua sepatu. Kecuali bagi orang yang tidak mendapatkan sandal, maka orang yang tidak mendapatkan sandal hendaknya ia memotong kedua sepatu tersebut hingga di bawah kedua mata kaki." Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam secara makna. Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Al Laits] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam secara makna. Dan ia tambahkan kata; dan tidak boleh seorang wanita yang berihram memakai niqab (penutup wajah), dan tidak boleh memakai kaos tangan. Abu Daud berkata; hadits ini diriwayatkan oleh [Hatim bin Isma'il] dan [Yahya bin Ayyub] dari [Musa bin 'Uqbah] dari [Nafi'] sebagaimana yang dikatakan Al Laits. Dan hadits tersebut diriwayatkan oleh [Musa bin Thariq] dari [Musa bin 'Uqbah] secara mauquf kepada [Ibnu Umar]. Begitu juga hadits tersebut diriwayatkan oleh ['Ubaidullah bin Umar] serta [Malik] dan [Ayyub] secara mauquf, dan [Ibrahim bin Sa'id Al Madini] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam: "Wanita yang berihram tidak boleh memakai niqab (penutup wajah) dan tidak boleh memakai kaos tangan." Abu Daud berkata; Ibrahim bin Sa'id Al Madini adalah seorang Syekh dari penduduk Madinah, ia tidak memiliki hadits yang banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 11 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт от Пророка ﷺ похожий хадис с добавлением: «Женщина в состоянии ихрама не должна закрывать лицо никабом и надевать перчатки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 11 Hadith 105</td></tr></tbody></table></div>
 

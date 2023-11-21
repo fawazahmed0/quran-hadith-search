@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayy ibn Ka'b: The Messenger of Allah (ﷺ) led us in the dawn prayer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Abdullah bin Abu Bashir] dari [Ubay bin Ka'ab] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat Shubuh bersama kami, lalu beliau bersabda: "Apakah si fulan hadir?" Mereka (para sahabat) menjawab; Tidak. Beliau bersabda: "Apakah si fulan hadir?" Para sahabat menjawab; Tidak. Beliau bersabda: "Dua shalat ini (Shubuh dan Isya) adalah shalat yang paling berat bagi orang orang munafik. Andaikata kalian mengetahui apa (keutamaan) yang ada pada keduanya, niscaya kalian akan menghadirinya sekalipun dengan merangkak, dan sesungguhnya shaf pertama adalah seperti shaf para malaikat. Seandainya kalian mengetahui keutamaan shaf pertama, niscaya kalian akan memperebutkannya. Sesungguhnya shalat seseorang yang berjamaah dengan satu orang, adalah lebih baik daripada shalat sendirian. Dan shalatnya bersama dua orang jamaah, adalah lebih baik daripada shalat bersama seorang jamaah. Semakin banyak jama'ahnya, maka semakin dicintai oleh Allah Ta'ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>554</td></tr><tr><td>Arabic No</td><td>554</td></tr><tr><td>Reference</td><td>Book 2 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Убайй ибн Ка‘б сказал: «Однажды Посланник Аллаха ﷺ совершил с нами утреннюю молитву, и затем спросил: “Присутствует ли (здесь) такой-то?” (Люди) сказали: “Нет”. Он (снова) спросил: “А присутствует ли такой-то?” (Люди) ответили: “Нет”. (И тогда Посланник Аллаха ﷺ) сказал: “Поистине, эти две молитвы самые тяжелые молитвы для лицемеров. Если бы вы знали какое (вознаграждение) есть в них, то являлись бы на них даже на четвереньках. Поистине, первый ряд, подобен ряду ангелов, и если бы вы знали о его достоинстве, то вы состязались бы в этом. Поистине, молитва одного человека совместно с другим превосходит (по вознаграждению), чем его молитва в одиночку, а его молитва с двумя, лучше молитвы с одним. И чем больше (людей совершают молитву вместе), тем это любимее Аллаху Всевышнему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>554</td></tr><tr><td>Arabic No</td><td>554</td></tr><tr><td>Reference</td><td>Book 2 Hadith 164</td></tr></tbody></table></div>
 

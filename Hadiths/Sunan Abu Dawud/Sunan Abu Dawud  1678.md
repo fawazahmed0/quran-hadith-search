@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: The Messenger of Allah (ﷺ) commanded us one day 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Shalih] serta [Utsman bin Abu Syaibah bin Abu Syaibah], dan ini adalah haditsnya, mereka berkata; telah menceritakan kepada Kami [Al Fadhl bin Dukain], telah menceritakan kepada Kami [Hisyam bin Sa'd] dari [Zaid bin Aslam] dari [ayahnya], ia berkata: aku mendengar [Umar bin Al Khathab radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan Kami agar bersedekah, dan hal tersebut bertepatan dengan keberadaan harta yang saya miliki. Lalu saya mengatakan; apabila aku dapat mendahului Abu Bakr pada suatu hari maka hari ini aku akan mendahuluinya. Kemudian saya datang dengan membawa setengah hartaku, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah yang engkau tinggalkan untuk keluargamu?" Saya katakan; harta yang sama seperti itu. Ia berkata; kemudian Abu Bakar datang dengan membawa seluruh yang ia miliki. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Abu Bakr, apakah yang engkau tinggalkan untuk keluargamu?" Ia berkata; saya tinggalkan untuk mereka Allah dan RasulullahNya. Maka saya katakan; saya tidak akan dapat mendahuluimu kepada sesuatupun selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1678</td></tr><tr><td>Arabic No</td><td>1678</td></tr><tr><td>Reference</td><td>Book 9 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ велел нам делать пожертвования, а у меня в то время как раз были деньги. Я сказал себе: «Если я когда-нибудь опережу Абу Бакра, то это случится сегодня!» И я принёс половину того, что у меня было. Посланник Аллаха ﷺ спросил меня: «Что ты оставил своей семье?» Я ответил: «Ещё столько же». А Абу Бакр принёс всё своё состояние. Посланник Аллаха ﷺ спросил его: «Что ты оставил своей семье?» Он ответил: «Я оставил им Аллаха и Его Посланника». Тогда я сказал: «Я никогда не стану соревноваться с тобой ни в чём!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1678</td></tr><tr><td>Arabic No</td><td>1678</td></tr><tr><td>Reference</td><td>Book 9 Hadith 123</td></tr></tbody></table></div>
 

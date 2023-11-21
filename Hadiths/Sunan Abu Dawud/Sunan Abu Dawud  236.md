@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) was asked about a person who f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad bin Khalid Al-Khyyath] telah menceritakan kepada kami [Abdullah Al-'Umari] dari [Ubaidullah] dari [Al-Qasim] dari [Aisyah] dia berkata; Rasulullah Shallallahu alaihi wasallam pernah ditanya tentang seorang laki-laki yang mendapatkan dirinya basah sementara dia tidak ingat telah mimpi, beliau menjawab: "Dia wajib mandi". Dan beliau juga ditanya tentang seorang laki-laki yang bermimpi tetapi tidak mendapatkan dirinya basah, beliau menjawab: "Dia tidak wajib mandi". Kemudian Ummu Sulaim bertanya kepada beliau; Wanita mimpi sebagaimana laki-laki, apakah dia juga wajib mandi? Beliau menjawab: "Ya, sesungguhnya wanita adalah saudara kandung laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>236</td></tr><tr><td>Arabic No</td><td>236</td></tr><tr><td>Reference</td><td>Book 1 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланника Аллаха ﷺ спросили о человеке, который нашел влажность (на теле или одежде) но не может вспомнить поллюции. Он ответил: “Ему следует искупаться”. Его спросили о человеке, который видел возбуждающий сон, но не нашел поллюции, и он ответил: “Он не обязан купаться”. Умм Сулейм тогда спросила: “Если женщина увидит подобное во сне, обязана ли она купаться?” Он ответил: “Да. Поистине, женщины подобны мужчинам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>236</td></tr><tr><td>Arabic No</td><td>236</td></tr><tr><td>Reference</td><td>Book 1 Hadith 236</td></tr></tbody></table></div>
 

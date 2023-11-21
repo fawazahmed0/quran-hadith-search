@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Quand le Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Abu Umar] - [Ibnul Mutsanna] berkata- telah menceritakan kepada kami [Abdul Wahhab] ia berkata, saya mendengar [Yahya bin Sa'id] berkata, telah mengabarkan kepadaku [Amrah] bahwa ia telah mendengar [Aisyah] berkata; Ketika berita mengenai tewasnya Ibnu Haritsah dan Ja'far bin Abi Thalib, dan Abdullah bin Rawahah sampai kepada Rasulullah shallallahu 'alaihi wasallam, beliau duduk dan terlihat tanda kesedihan di wajah beliau. Kata 'Aisyah selanjutnya; Aku melihat dari celah-celah pintu, seorang laki-laki datang kepada beliau seraya berkata, "Wahai Rasulullah, isteri Ja'far menangis." Rasulullah shallallahu 'alaihi wasallam menyuruh orang itu agar mendiamkannya. Lalu orang itu pergi. Tidak berapa lama kemudian orang itu datang kembali dan mengatakan kepada beliau, bahwa mereka tidak mau didiamkan. Nabi shallallahu 'alaihi wasallam menyuruhnya pula kembali, namun tidak berapa lama, ia kembali lagi dan berkata, "Demi Allah, mereka tidak mau didiamkan dan tidak mengindahkanku wahai Rasulullah." Aisyah mengira bahwa Rasulullah shallallahu 'alaihi wasallam menyuruh orang itu pergi dengan mengatakan: "Pergilah! Dan sumpalkan tanah ke dalam mulutnya!" Dan Aisyah pun berkata, "Celaka kamu, Demi Allah, kamu belum melaksanakan dengan baik apa yang diperintahkan Rasulullah shallallahu 'alaihi wasallam kepadamu, sehingga kamu biarkan Rasulullah shallallahu 'alaihi wasallam dalam kesulitan." Dan telah menceritakannya kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam jalur lain- Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] dari [Mu'awiyah bin Shalih] -dalam jalur lain- telah menceritakan kepadaku [Ahmad bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Abdush Shamad] Telah menceritakan kepada kami [Abdul Aziz bin Muslim] dari [Yahya bin Sa'id] dengan isnad ini semisalnya. Dan di dalam hadits Abdul Aziz; "Dan kamu telah meninggalkan keletihan bagi Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2161</td></tr><tr><td>Arabic No</td><td>935.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Узнав о гибели Ибн Харисы, Джа’фара ибн Аби Талиба и ‘Абдуллаха ибн Равахи, Посланник Аллаха ﷺ сел, и по нему было заметно, что он глубоко опечален, а я в это время смотрела на него через щель в двери. (Через некоторое время) к нему пришёл какой-то человек и сказал: “О Посланник Аллаха Поистине, женщины Джа’фара…”, (после чего) упомянул о том, что они (громко) плачут. (Пророк ﷺ) велел ему пойти и запретить им делать это, и тот ушёл, а затем вернулся к нему и сказал, что они его не послушались. (Пророк ﷺ снова) велел ему пойти и запретить им делать это, тот ушёл, а затем вернулся к нему и сказал: “Клянусь Аллахом, они одолели нас, о Посланник Аллаха!”».И (‘Аиша) утверждала, что на это Посланник Аллаха ﷺ сказал: «(Тогда) иди и насыпь в их рты землю!» ‘Аиша сказала: «Тогда я сказала: “Да покроет Аллах твоё лицо пылью! Клянусь Аллахом, ты не сделал то, что повелел тебе Посланник Аллаха ﷺ, и не оставил Посланника Аллаха ﷺ в покое!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2161</td></tr><tr><td>Arabic No</td><td>935.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 39</td></tr></tbody></table></div>
 

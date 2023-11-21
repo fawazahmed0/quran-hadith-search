@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) came to visit Sa'd ibn Ubaydah, and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam datang kepada Sa'd bin 'Ubadah, lalu Sa'd menyuguhkan roti dan minyak samin. Nabi shallallahu 'alaihi wasallam kemudian memakannya, setelah itu beliau bersabda: "Telah berbuka di rumahmu orang-orang yang berpuasa, dan telah makan makananmu orang-orang yang baik, dan bershalawat kepadamu para Malaikat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>3854</td></tr><tr><td>Reference</td><td>Book 28 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что Пророк ﷺ пришёл к Са‘ду ибн ‘Убаде и тот подал ему хлеб и растительное масло. Пророк ﷺ поел, а потом сказал: «Пусть у вас совершают разговение постящиеся, и пусть едят еду вашу благочестивые, и пусть ангелы призывают на вас благословение /Афтара ‘инда-куму-с-саимуна ва акаля та‘амакуму-ль-абрару ва саллят ‘аляйкуму-ль-маляика/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>3854</td></tr><tr><td>Reference</td><td>Book 28 Hadith 119</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:said When the Messenger of Allah(ﷺ) sent Mu’adh to Yemen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal] telah menceritakan kepada Kami [Waki'], telah menceritakan kepada Kami [Zakariya bin Ishaq Al Makki] dari [Yahya bin Abdullah bin Shaifi] dari [Abu Ma'bad] dari [Ibnu Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam mengutus Mu'adz ke Yaman, kemudian beliau mengatakan: "Sesungguhnya engkau akan mendatangi suatu kaum dari ahli kitab, maka ajaklah mereka untuk bersaksi bahwa tidak ada tuhan kecuali Allah dan aku adalah Rasulullah, kemudian apabila mereka mentaatimu untuk itu maka beritahukan kepada mereka bahwa Allah telah mewajibkan atas mereka melakukan shalat lima waktu dalam sehari semalam, kemudian apabila mereka mentaatimu untuk itu maka beritahukan kepda mereka bahwa Allah telah mewajibkan atas mereka sedekah pada harta mereka yang diambil dari orang-orang kaya mereka dan dikembalikan kepada orang-orang miskin mereka, kemudian apabila mereka mentaatimu untuk itu maka jauhilah harta-harta mereka yang berharga, dan berhati-hatilah terhadap doa orang yang dizhalimi, sesungguhnya tidak ada penghalang antara doa tersebut dengan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2448) Sahih Muslim (19)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1584</td></tr><tr><td>Arabic No</td><td>1584</td></tr><tr><td>Reference</td><td>Book 9 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что, отправляя Му‘аза (ибн Джабаля) в Йемен, Посланник Аллаха ﷺ сказал ему: «Ты придёшь к народу, который относится к людям Писания, и пусть первым, к чему ты призовёшь их, будет свидетельство того, что нет бога [заслуживающего поклонение], кроме Аллаха. Если они покорятся тебе в этом, то дай им знать, что Аллах обязал их совершать пять ежедневных молитв. Если они покорятся тебе и в этом, то дай им знать, что Аллах обязал их богатых делать пожертвования в пользу их бедных. Если они покорятся тебе и в этом, то не смей посягать на их лучшее имущество и бойся мольбы притеснённого, ибо между ней и Аллахом нет преграды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2448) Sahih Muslim (19)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1584</td></tr><tr><td>Arabic No</td><td>1584</td></tr><tr><td>Reference</td><td>Book 9 Hadith 29</td></tr></tbody></table></div>
 

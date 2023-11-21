@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Abbas reported that Allah's Messenger (ﷺ) saw a person wearing a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Sahl At Tamimi]; Telah menceritakan kepada kami [Ibnu Abu Maryam]; Telah mengabarkan kepadaku [Muhammad bin Ja'far]; Telah mengabarkan kepadaku [Ibrahim bin 'Uqbah] dari [Kuraib] -budak- Ibnu 'Abbas dari ['Abdullah bin 'Abbas]; Bahwa Rasulullah shallallahu 'alaihi wasallam bahwa Rasulullah shallallahu 'alaihi wasallam pernah melihat sebuah cincin emas di tangan seorang laki-laki. Lalu beliau mencopot cincin tersebut dan langsung melemparnya seraya bersabda: "Salah seorang di antara kalian menginginkan bara api neraka dan meletakkannya di tangannya?." Setelah Rasulullah shallallahu 'alaihi wasallam pergi, seseorang berkata kepada laki-laki itu; 'Ambilah cincin itu untuk kamu ambil manfaat darinya.' Lelaki tersebut menjawab; 'Tidak, Demi Allah aku tidak akan mengambil cincin itu selamanya, karena cincin itu telah di buang oleh Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5472</td></tr><tr><td>Arabic No</td><td>2090</td></tr><tr><td>Reference</td><td>Book 37 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (как-то раз) Посланник Аллаха ﷺ, увидевший на руке одного человека золотой перстень, снял его, выбросил прочь и сказал: «Один из вас сам стремится к раскалённому угольку из пламени (ада) и кладёт его себе на руку!» А когда Посланник Аллаха ﷺ ушёл, кто-то сказал этому человеку: «Возьми свой перстень и используй его (как-нибудь)», (на что) он ответил (следующим образом): «Нет, клянусь Аллахом, я никогда не возьму (этот перстень), раз его выбросил Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5472</td></tr><tr><td>Arabic No</td><td>2090</td></tr><tr><td>Reference</td><td>Book 37 Hadith 87</td></tr></tbody></table></div>
 

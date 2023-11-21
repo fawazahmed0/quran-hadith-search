@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that two persons, one from amongst the Jews and the other f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abu Bakr bin An Nadhr] keduanya berkata; Telah menceritakan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Bapakku] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdur Rahman] dan ['Abdur Rahman Al A'raj] dari [Abu Hurairah] dia berkata; dua orang laki-laki saling mencela, satu orang dari muslim dan satu orang lagi dari yahudi. Laki-laki muslim berkata; "Dan demi Dzat yang telah memilih Muhammad di atas penduduk alam." Dan laki-laki dari yahudi berkata; "dan demi Dzat yang telah memilih Musa di atas penduduk alam." Maka marahlah laki-laki muslim tersebut seraya memukul wajahnya, lalu laki-laki yahudi tersebut mendatangi Rasulullah Shallallahu 'alaihi wa Salam dan mengabarkan dengan apa yang telah terjadi di antara keduanya, Kemudian Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Janganlah engkau mengutamakan aku atas Musa, sesungguhnya pada hari kiamat kelak manusia akan pingsan dan akulah orang yang pertama kali tersadar, tetapi aku dapati Musa tengah berdiri di dekat 'Arsy, hingga aku tidak tahu apakah ia termasuk orang yang pingsan kemudian ia tersadar sebelum aku, atau memang ia termasuk yang Allah Azza Wa Jalla kecualikan untuk tidak pingsan." Dan telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi] dan [Abu Bakr bin Ishaq] keduanya berkata; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] dan [Sa'id bin Al Musayyab] dari [Abu Hurairah] dia berkata; dua orang laki-laki saling mencela, satu orang dari muslim dan satu orang lagi dari yahudi. -sebagaimana Hadits Ibrahim bin Sa'ad dari Ibnu Syihab Dan telah menceritakan kepadaku [Amru An Naqid] Telah menceritakan kepada kami [Abu Ahmad Az Zubaidi] Telah menceritakan kepada kami [Sufyan] dari [Amru bin Yahya] dari [Bapaknya] dari [Abu Sa'id Al Khudri] dia berkata; seorang Yahudi yang telah dipukul wajahnya datang kepada Nabi shallallahu 'alaihi wasallam -dan seterusnya yang semakna dengan Hadits Az Zuhri, hanya saja dia berkata dengan kalimat; 'hingga aku tidak tahu apakah ia termasuk orang yang pingsan kemudian ia tersadar sebelum aku, atau memang ia sudah cukup dengan pingsannya ketika di bukit Thur hingga tidak pingsan lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6153</td></tr><tr><td>Arabic No</td><td>2373.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6153</td></tr><tr><td>Arabic No</td><td>2373.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 211</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "If anyone of you is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bih Yusuf] Telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian diundang ke acara walimahan, hendaklah ia datang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 67 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Если кого-нибудь из вас пригласят на свадебное угощение, пусть он придёт на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 67 Hadith 108</td></tr></tbody></table></div>
 

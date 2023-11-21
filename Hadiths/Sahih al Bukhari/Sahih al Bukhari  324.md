@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiyub:Hafsa said, 'We used to forbid our young women to go out for the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Salam- berkata, telah mengabarkan kepada kami ['Abdul Wahhab] dari [Ayyub] dari [Hafshah] berkata, "Dahulu kami melarang anak-anak gadis remaja kami ikut keluar untuk shalat pada dua hari raya. Hingga suatu hari ada seorang wanita mendatangi desa Qashra Banu Khalaf, wanita itu menceritakan bahwa suami dari saudara perempuannya pernah ikut berperang bersama Nabi shallallahu 'alaihi wasallam sebanyak dua belas peperangan, ia katakan, 'Saudaraku itu hidup bersama suaminya selama enam tahun.' Ia menceritakan, "Dulu kami sering mengobati orang-orang yang terluka dan mengurus orang yang sakit.' Saudara perempuanku bertanya kepada Nabi shallallahu 'alaihi wasallam, "Apakah berdosa bila seorang dari kami tidak keluar (mengikuti shalat 'Ied) karena tidak memiliki jilbab?" Beliau menjawab: "Hendaklah kawannya memakaikan jilbab miliknya untuknya (meminjamkan) agar mereka dapat menyaksikan kebaikan dan mendo'akan Kaum Muslimin." Ketika [Ummu 'Athiyah] tiba aku bertanya kepadanya, "Apakah kamu mendengar langsung dari Nabi shallallahu 'alaihi wasallam?" Ummu 'Athiyah menjawab, "Ya. Demi bapakku!" Ummu 'Athiyah tidak mengatakan tentang Nabi shallallahu 'alaihi wasallam kecuali hanya mengatakan 'Demi bapakku, aku mendengar beliau bersabda: "Hendaklah para gadis remaja dan wanita-wanita yang dipingit di rumah, dan wanita yang sedang haid ikut menyaksikan kebaikan dan mendo'akan Kaum Muslimin, dan wanita-wanita haid menjauh dari tempat shalat." Hafshah, "Aku katakan, "Wanita haid?" Wanita itu menjawab, "Bukankah mereka juga hadir di 'Arafah, begini dan begini?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>324</td></tr><tr><td>Arabic No</td><td>324</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «Я слышала, как Посланник Аллаха ﷺ сказал: “Пусть молодые девушки, и сидящие за занавесками, и женщины, у которых начались месячные, выходят (из своих домов) и принимают участие в благих делах и обращениях верующих к Аллаху со своими мольбами, однако тем, у кого начались месячные, желательно держаться в стороне от места молитвы”».\n(Умм ‘Атыййу) спросили: «(Ты говоришь,) и женщины, у которых начались месячные?» Она сказала: «А разве во время месячных они не принимают участия в стоянии на ‘Арафате и не делают то-то и то-то?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>324</td></tr><tr><td>Arabic No</td><td>324</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
 

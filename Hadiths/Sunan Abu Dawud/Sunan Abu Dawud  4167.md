@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Humaid b. 'Adb al-Rahman:That he heard Mu'awiyah b. Abi Sufyan say duri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] Bahwasanya ia mendengar [Mu'awiyah bin Abu Sufyan] berkata di atas mimbar pada tahun haji -saat itu ia memegang wig yang berada di tangan penjaga, "Wahai penduduk Madinah, di mana ulama kalian! Aku mendengar Rasulullah shallallahu 'alaihi wasallam melarang dari perkara semacam ini, beliau bersabda: "Hanyasanya orang-orang bani Isra'il hancur karena wanita-wanita mereka menggunakan barang ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3468) Sahih Muslim (2127)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4167</td></tr><tr><td>Arabic No</td><td>4167</td></tr><tr><td>Reference</td><td>Book 35 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хумайд ибн Абдуррахман передаёт, что он слышал, как в год своего хаджа Му‘авия ибн Абу Суфьян поднялся на минбар, взял локон волос, который держал его стражник, и сказал: «О жители Медины! Где ваши учёные? Я слышал, как Посланник Аллаха ﷺ запретил подобное, сказав: “Поистине, бану исраиль погибли, когда их женщины начали делать подобное (, нарушив запрет)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3468) Sahih Muslim (2127)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4167</td></tr><tr><td>Arabic No</td><td>4167</td></tr><tr><td>Reference</td><td>Book 35 Hadith 9</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia mendengar ['Uqbah bin 'Abdul Ghafir] berkata; aku mendengar [Abu Sa'id Al Khudri] bercerita dari Nabi shallallahu 'alaihi wasallam bahwasanya beliau menyebutkan; "Ada seseorang sebelum kalian yang Allah berikan kepadanya harta dan anak. Sebelum ajalnya tiba, dia berkata kepada anaknya; 'Kamu harus melaksanakan apa yang aku perintahkan atau kamu adalah orang yang berhak menerima warisanku dari yang lainnya. Apabila aku meninggal maka bakarlah jasadku Abu Sa'id berkata; menurutku dia berkata; hingga jika aku telah menjadi arang hancurkanlah dan taburkanlah di angin. Karena sungguh aku tidak mempunyai amalan kebaikan yang banyak di sisi Allah. Dan sungguh Allah maha kuasa untuk menyiksaku. Nabi bersabda: "Lalu ia mengambil janji anak-anaknya untuk melakukan hal itu, dan demi Rabbku, mereka pun melaksanakannya. Lalu Allah berfirman kepadanya: "Wahai hamba-Ku, apa yang mendorongmu untuk melakukan seperti itu?" ia menjawab, "Wahai Rabb, aku takut kepada-Mu, Beliau bersabda: "Ia tidak pernah melakukan amalan selain itu hingga dengannya Allah memberinya rahmat." Dan telah menceritakannya kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; berkata kepadaku [bapakku] telah menceritakan kepada kami [Qatadah] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Al Hasan bin Musa] telah menceritakan kepada kami [Syaiban bin 'Abdurrahman] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Abul Walid] telah menceritakan kepada kami [Abu 'Awanah] keduanya dari [Qatadah], mereka semua menyebutkan dengan sanad Syu'bah dengan Hadits yang serupa. Di dalam Hadits Syaiban dan Abu 'Awanah disebutkan dengan lafazh; ' Ada seseorang yang Allah beri harta dan anak." Sedangkan di Hadits At Taimi disebutkan dengan lafazh; 'Lam Yabta ir.' (tidak mempunyai investasi kebaikan) Dia berkata; Qatadah menafsirkannya dengan; 'tidak mempunyai tabungan amal kebaikan di sisi Allah.' Adapun di Hadits Ibnu Syaiban menggunakan lafazh; mab ta'ara (simpanan). Dan di Hadits Abu 'Awanah dengan lafazh; 'mam ta'ara.' (Tidak mempunyai isvestasi kebaikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6984</td></tr><tr><td>Arabic No</td><td>2757.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6984</td></tr><tr><td>Arabic No</td><td>2757.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 31</td></tr></tbody></table></div>
 

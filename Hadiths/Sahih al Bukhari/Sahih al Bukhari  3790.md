@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Usaid:That he heard the Prophet (ﷺ) saying, "The best of the Ansa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'ad bn Hafsh ath-Thalhiy] telah bercerita kepada kami [Syaiban] dari [Yahya], berkata [Abu Salamah] telah mengabarkan kepadaku [Abu Usaid] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sebaik-baik Anshar", atau beliau bersabda,: "Kampung tempat tinggal Anshar yang paling baik adalah Bani an-Najjar, Bani 'Abdil Asyhal, Bani Al Harits bin Khazraj dan Bani Sa'idah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3790</td></tr><tr><td>Arabic No</td><td>3790</td></tr><tr><td>Reference</td><td>Book 63 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Усайида, что Пророк ﷺ сказал: «Лучшие из семей ансаров — это бану ан-наджжар, бану абд аль-ашхаль, бану аль-харис и бану са‘ида»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3790</td></tr><tr><td>Arabic No</td><td>3790</td></tr><tr><td>Reference</td><td>Book 63 Hadith 15</td></tr></tbody></table></div>
 

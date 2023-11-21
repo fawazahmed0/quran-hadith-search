@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' ibn Khadij: AbuRafi' came to us from the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah?], telah menceritakan kepada kami [Waki'], telah menceritakan kepada kami [Umar bin Dzar] dari [Mujahid] dari [Ibnu Rafi' bin Khadij], dari [ayahnya], ia berkata; [Abu Rafi'] telah datang kepada kami dari sisi Rasulullah shallallahu 'alaihi wasallam kemudian berkata; Rasulullah shallallahu 'alaihi wasallam melarang kami dari suatu perkara yang beliau berikan keringanan kepada kami, dan ketaatan kepada Allah serta RasulNya lebih ringan bagi kami. Beliau melarang salah seorang diantara kami untuk menanam kecuali tanah yang ia miliki atau pemberian yang telah diberikan seseorang kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3397</td></tr><tr><td>Arabic No</td><td>3397</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сын Рафи‘ ибн Хадиджа передаёт от своего отца: «Абу Рафи‘ пришёл к нам и сказал: “Посланник Аллаха ﷺ запретил нам нечто, приносившее нам пользу, но покорность Аллаху и Его Посланнику полезнее для нас… Он запретил любому из нас возделывать любую землю, за исключением той, которая принадлежит ему, или той, которую дал ему в бесплатное пользование другой человек”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3397</td></tr><tr><td>Arabic No</td><td>3397</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
 

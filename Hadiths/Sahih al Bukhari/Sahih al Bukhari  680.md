@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:Anas bin Malik Al-Ansari, told me, "Abu Bakr used to lead the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Anas bin Malik Al Anshari] salah seorang dari sahabat yang pernah mengikuti, melayani dan mendampingi Rasulullah shallallahu 'alaihi wasallam. Bahwa Abu Bakar pernah mengimami mereka shalat di saat sakitnya Nabi shallallahu 'alaihi wasallam yang membawanya pada kewafatannya. Hingga pada suatu hari, pada hari Senin, saat orang-orang sudah berada pada barisan (shaf) shalat, Nabi shallallahu 'alaihi wasallam menyingkap tabir kamar dan memandang ke arah kami sambil berdiri, sementara wajah beliau pucat seperti kertas. Beliau tersenyum dan tertawa. Hampir saja kami terkena fitnah (keluar dari barisan) karena sangat gembiranya melihat Nabi shallallahu 'alaihi wasallam. Abu Bakar lalu berkeinginan untuk berbalik masuk ke dalam barisan shaf karena menduga Nabi shallallahu 'alaihi wasallam akan keluar untuk shalat. Namun Nabi shallallahu 'alaihi wasallam memberi isyarat kepada kami agar: "Teruskanlah shalat kalian." Setelah itu beliau menutup tabir dan wafat pada hari itu juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>680</td></tr><tr><td>Arabic No</td><td>680</td></tr><tr><td>Reference</td><td>Book 10 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что во время той болезни Пророка ﷺ от которой он умер, с ними проводил намазы Абу Бакр, да будет доволен им Аллах, и это продолжалось вплоть до понедельника. (Когда в этот день люди) выстроились рядами для намаза, Пророк ﷺ лицо которого было подобно листу бумаги (с аятами) Корана, поднял занавеску своей комнаты и стал смотреть на них, стоя (у дверей). А потом он улыбнулся, и при виде Пророка ﷺ люди были готовы вскочить со своих мест от радости. (Тем временем) Абу Бакр отошёл назад, чтобы совершить намаз в (общем) ряду, решив, что Пророк ﷺ выйдет на намаз. Однако Пророк ﷺ сделал присутствующим знак(, означавший, что они должны) закончить намаз, после чего опустил занавеску, и в тот же день он скончался
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>680</td></tr><tr><td>Arabic No</td><td>680</td></tr><tr><td>Reference</td><td>Book 10 Hadith 74</td></tr></tbody></table></div>
 

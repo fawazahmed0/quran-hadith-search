@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:A person visited his brothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdul A'laa bin Hammad]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, "Pada suatu ketika ada seorang lelaki yang mengunjungi saudaranya di desa lain. Kemudian Allah pun mengutus seorang malaikat untuk menemui orang tersebut. Ketika orang itu ditengah perjalanannya ke desa yang dituju, maka malaikat tersebut bertanya; 'Hendak pergi ke mana kamu? ' Orang itu menjawab; 'Saya akan menjenguk saudara saya yang berada di desa lain.' Malaikat itu terus bertanya kepadanya; 'Apakah kamu mempunyai satu perkara yang menguntungkan dengannya? ' Laki-laki itu menjawab; 'Tidak, saya hanya mencintainya karena Allah Azza wa Jalla.' Akhirnya malaikat itu berkata; 'Sesungguhnya aku ini adalah malaikat utusan yang diutus untuk memberitahukan kepadamu bahwasanya Allah akan senantiasa mencintaimu sebagaimana kamu mencintai saudaramu karena Allah.' Berkata Syaikh Abu Ahmad; Telah mengabarkan kepadaku Abu Bakr Muhammad bin Zanjuyah Al Qusyairi; Telah menceritakan kepada kami 'Abdul A'laa bin Hammad; Telah menceritakan kepada kami Hammad bin Salamah melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6549</td></tr><tr><td>Arabic No</td><td>2567.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6549</td></tr><tr><td>Arabic No</td><td>2567.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 47</td></tr></tbody></table></div>
 

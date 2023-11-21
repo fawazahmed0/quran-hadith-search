@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman:While we were with 'Utba. 'Umar wrote to us: The Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [At Taimi] dari [Abu Utsman] dia berkata; "Ketika kami tengah bersama Utbah, [Umar] radliallahu 'anhu menulis surat kepadanya bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang mengenakan kain sutera ketika di dunia, melainkan tidak akan dikenakan kepadanya kelak di Akhirat." Telah menceritakan kepada kami [Al Hasan bin Umar] telah menceritakan kepada kami [Mu'tamir] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Abu Utsman] kemudian Abu Utsman mengisyaratkan dengan jari telunjuknya dan jari tengahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5830</td></tr><tr><td>Arabic No</td><td>5830</td></tr><tr><td>Reference</td><td>Book 77 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ’Усман сказал: «Когда мы с были ’Утбой, ’Умар написал ему, что Пророк ﷺ сказал: “Тот, кто будет носить шелка в этом мире, не наденет их в Жизни Последней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5830</td></tr><tr><td>Arabic No</td><td>5830</td></tr><tr><td>Reference</td><td>Book 77 Hadith 47</td></tr></tbody></table></div>
 

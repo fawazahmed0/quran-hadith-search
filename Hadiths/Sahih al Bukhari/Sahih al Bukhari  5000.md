@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq bin Salama:Once 'Abdullah bin Mas'ud delivered a sermon before u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Syaqiq bin Salamah] ia berkata; [Abdullah bin Mas'ud] menyampaikan khuthbah kepada kami, ia berkata, "Aku telah mendapatkan dari bibir Rasulullah shallallahu 'alaihi wasallam sebanyak tujuh puluh lebih surat. Dan demi Allah, para sahabat Rasulullah shallallahu 'alaihi wasallam pun telah mengetahui bahwa aku adalah orang yang paham mengenai kitabullah, namun aku bukanlah orang yang terbaik di antara mereka." Syaqiq berkata, "Suatu ketika aku duduk di suatu Halaqah, lalu aku pun mendengar apa yang mereka katakan. Dan aku tidak mendapati seorang pun yang membantahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5000</td></tr><tr><td>Arabic No</td><td>5000</td></tr><tr><td>Reference</td><td>Book 66 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «Клянусь Аллахом, я научился читать более семидесяти сур непосредственно у Посланника Аллаха ﷺ и, клянусь Аллахом, сподвижникам Пророка ﷺ известно, что я отношусь к числу лучших знатоков Книги Аллаха среди них, но тем не менее лучшим из них я не являюсь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5000</td></tr><tr><td>Arabic No</td><td>5000</td></tr><tr><td>Reference</td><td>Book 66 Hadith 22</td></tr></tbody></table></div>
 

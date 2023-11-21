@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Zaid bin Thabit said, "We took the Suhur with the Prophet (ﷺ) . 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas] dari [Zaid bin Tsabit radliallahu 'anhu] berkata: "Kami pernah makan sahur bersama Nabi shallallahu 'alaihi wasallam kemudian Beliau pergi untuk melakanakan shalat. Aku bertanya: "Berapa antara adzan (Shubuh) dan sahur?". Dia menjawab: "Sebanyak ukuran bacaan lima puluh ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, что Зейд бин Сабит, да будет доволен им Аллах, сказал: «(Однажды) во время рамадана мы поели перед рассветом вместе с Пророком ﷺ, а потом он встал на намаз». (Анас сказал): «Я спросил: “А сколько времени прошло между азаном и сухуром?” Он сказал: “Столько(, что можно было прочитать) пятьдесят аятов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
 

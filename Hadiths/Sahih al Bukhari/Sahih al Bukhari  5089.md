@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) entered upon Dubaa bint Az-Zubair and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Ismail] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam menemui Dlubabah binti Az Zubair, maka beliau bersabda: "Sepertinya kamu ingin menunaikan ibadah haji." Ia pun berkata, "Demi Allah, tidak ada yang menghalangiku kecuali sakit." Beliau pun bersabda: "Tunaikanlah haji, dan berilah syarat. Bacalah: 'ALLAHUMMA MAHILLII HAITSU HABASTANII (Ya Allah, tempat miqatku adalah di tempat Engkau merintangiku).'" Saat itu, ia adalah isteri daripada Miqdad bin Al Aswad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5089</td></tr><tr><td>Arabic No</td><td>5089</td></tr><tr><td>Reference</td><td>Book 67 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:\n— (Однажды) Посланник Аллаха ﷺ пришёл к Дуба‘а бинт аз-Зубайр и спросил её: «Наверное, ты хочешь совершить хадж?» (В ответ ему) она сказала: «Клянусь Аллахом, я плохо себя чувствую!» (Тогда Пророк ﷺ) сказал: «Отправляйся в хадж, но сделай оговорку и скажи: “О Аллах, я сниму ихрам там, где Ты задержишь меня /Аллахумма, махилли хайсу хабаста-ни/”». Она была женой аль-Микдада бин аль-Асвада
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5089</td></tr><tr><td>Arabic No</td><td>5089</td></tr><tr><td>Reference</td><td>Book 67 Hadith 27</td></tr></tbody></table></div>
 

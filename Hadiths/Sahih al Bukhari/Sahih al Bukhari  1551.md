@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) offered four rak'at of Zuhr pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari [Abu Qalabah] dari [Anas radliallahu 'anhu] berkata; Bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat Zhuhur, sedangkan kami bersama Beliau, di Madinah empat raka'at dan shalat 'Ashar di Dzul Hulaifah dua raka'at. Kemudian Beliau Shallallahu'alaihiwasallam bermalam disana hingga pagi. Kemudian mengendara tunggangannya hingga siang hari saat tiba di adang sahara lalu Beliau memuji Allah, bertasbih dan bertakbir kemudian berihram (berniat) hajji dan 'umrah begitu juga orang-orang ikut berihran. Ketika kami telah tiba (di Makkah), Beliau memerintahkan orang-orang agar bertahallul hingga tiba hari tarwiah (tanggal 8 Dzul Hijjah), orang-orang berihram untuk niat hajji. Anas radliallahu 'anhu berkata: "Kemudian Nabi shallallahu 'alaihi wasallam berqurban dua ekor sapi dengan tangan Beliau sendiri sambil berdiri. Rasulullah shallallahu 'alaihi wasallam juga menyembelih dua ekor kambing yang gemuk". Berkata, Abu 'Abdullah Al Bukhari; Sebagian mereka berkata, hadits ini dari Ayyub dari seseorang dari Anas radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1551</td></tr><tr><td>Arabic No</td><td>1551</td></tr><tr><td>Reference</td><td>Book 25 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В Медине мы вместе с посланником Аллаха ﷺ совершили полуденный намаз в четыре рак‘ата, а в Зу-ль-Хуляйфе (он совершил) послеполуденный намаз в два рак‘ата, после чего остался там на ночь. Утром (Пророк ﷺ) сел на свою верблюдицу, когда же она достигла аль-Байды, он произнёс слова „Хвала Аллаху /Аль-хамду ли-Ллях/“, „Пречист Аллах /Субхана-Ллах/“ и „Аллах велик /Аллаху акбар/“, после чего стал произносить тальбийу, объявляя о своём намерении совершить хадж и умру, и эти слова (вслед за ним) произносили и (другие) люди. Когда мы достигли (Мекки), люди по его велению вышли из состояния ихрама, а в восьмой день месяца зуль-хиджжа /йаум ат-тарвийа/ они (снова) стали входить в состояние ихрама для хаджа».\n(Анас) сказал: «И Пророк ﷺ своими руками принёс в жертву множество стоявших верблюдов, а в Медине Посланник Аллаха ﷺ принёс в жертву двух рогатых чёрно-белых баранов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1551</td></tr><tr><td>Arabic No</td><td>1551</td></tr><tr><td>Reference</td><td>Book 25 Hadith 37</td></tr></tbody></table></div>
 

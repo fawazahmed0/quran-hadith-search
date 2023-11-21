@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit rapporté d'après Ibn 'Abbâs (رضي الله عنهما) : Le Prophèt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Ubaidullah bin Mu'adz] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Muslim Al Qurri] ia mendengar [Ibnu Abbas] radliallahu 'anhuma berkata; "Nabi shallallahu 'alaihi wasallam ihram untuk umrah, sedangkan para sahabatnya ihram untuk haji, maka Nabi shallallahu 'alaihi wasallam tidak tahallul dan tidak pula mereka yang membawa hadya (hewan kurban). Sedangkan sisanya tahallul, dan Thalhah bin Ubaidullah termasuk mereka yang membawa hadya, sehingga ia tidak tahallul." Dan Telah meceritakannya kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dengan isnad ini, hanya saja ia berkata; Dan di antara mereka yang tidak membawa hadya adalah Thalhah bin Zubair dan laki-laki lain namun keduanya tahallul (berhenti ihram)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3007</td></tr><tr><td>Arabic No</td><td>1239.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3007</td></tr><tr><td>Arabic No</td><td>1239.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 215</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : Pendant que je marchais dans
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Giyats] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepadaku [Ibrahim] dari [Alqamah] dari [Abdullah] berkata: "Saat aku berjalan dengan nabi Shallallahu 'alaihi wa Salam disuatu ladang sementara beliau tengah bersandar, tiba-tiba beberapa orang Yahudi lewat, mereka saling berkata satu sama lain: 'Tanyakan padanya tentang ruh.' Mereka berkata: 'Apa yang meragukan kalian (hingga bertanya padanya) agar ia tidak menyambut dengan sesuatu yang tidak kalian sukai.' Mereka berkata, 'Bertanyalah padanya.' Kemudian sebagaian dari mereka menghampiri beliau lalu bertanya tentang ruh pada beliau'." Abdullah berkata: "Nabi Shallallahu 'alaihi wa Salam diam dan tidak menjawab apa pun. Aku tahu beliau tengah diberi wahyu. Aku berdiri dari tempatku. Saat wahyu turun, beliau bersabda: 'Dan mereka bertanya kepadamu tentang roh. Katakanlah: 'Roh itu termasuk urusan Tuhan-ku, dan tidaklah kamu diberi pengetahuan melainkan sedikit." (Al Israa': 85) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Sa'id Al Asyuj] telah menceritakan kepada kami [Waki']. Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Ali bin Khasyram] keduanya berkata: Telah mengkhabarkan kepada kami [Isa bin Yunus] keduanya dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] berkata: Aku berjalan bersama nabi Shallallahu 'alaihi wa Salam di sebuah ladang Madinah, seperti hadits Hafsh, hanya saja dalam hadits Waki' disebutkan: "Dan tidaklah kamu diberi pengetahuan melainkan sedikit." (Al Israa': 85) dan dalam hadits Isa bin Yunus disebutkan: "Dan tidaklah kamu diberi." Dari Rasulullah Ibnu Khasyram. Telah menceritakan kepada kami [Abu Sa'id Al Asyujj] berkata: Aku mendengar [Abdullah bin Idris] berkata: Aku mendengar [Al A'masy] meriwayatkannya dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah] berkata: Nabi Shallallahu 'alaihi wa Salam berada di kebun kurma, beliau telah bersandar pada pangkal kurma, Abdullah menyebut hadits yang sama seperti hadits dari Al A'masy dan ia berkata dalam riwayatnya: "dan tidaklah kamu diberi pengetahuan melainkan sedikit." (Al Israa':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7059</td></tr><tr><td>Arabic No</td><td>2794.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7059</td></tr><tr><td>Arabic No</td><td>2794.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 15</td></tr></tbody></table></div>
 

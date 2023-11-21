@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Ibrahim:A meal was brought to 'Abdur-Rahman bin 'Auf while he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah menceritakan kepada kami [Abdullah] telah mengabarkan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dari ayahnya [Ibrahim] bahwa saat [Abdurrahman bin 'Auf] sedang berpusa ia pernah diberi hidangan makanan, kemudiandia berkata, "Muhs'ab bin 'Umari telah gugur, padahal dia lebih mulia daripadaku, dia di kafani dengan kain burdah, apabila kepalanya ditutup maka kakinya akan tersingkap, dan jika kakinya ditutup maka kepalanya akan tersingkap. -dan seingatku dia mengatakan- Hamzah gugur padahal dia lebih baik daripadaku, setelah itu (kenikmatan) dunia dibentangkan untuk kami -atau dia mengatakan-, Kami telah diberi (kenikmatan) dunia sebagaimana yang telah diberikan kepada kami, aku khawatir bahwa itu adalah (balasan) kebaikan kami yang didahulukan, " kemudian ia menangis dan meninggalkan hidangan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4045</td></tr><tr><td>Arabic No</td><td>4045</td></tr><tr><td>Reference</td><td>Book 64 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Ибрахим передал от своего отца Ибрахима, что однажды ‘Абдуррахману ибн ‘Ауфу, принесли еду, когда он постился, и он сказал: «Когда Мус‘аб ибн ‘Умайр был убит, а он был лучше меня, он был завернут в плащ. Когда мы покрывали им голову, неприкрытыми оставались ноги, когда же мы покрывали им ноги, то неприкрытой оставалась голова. И Хамза был убит, и он тоже был лучше меня. Затем нам было даровано из благ этого мира то, что было даровано. Я боюсь, что может быть так что, награда за наши деяния уже дана нам в этом мире (и не осталась для следующей жизни)». Затем он начал плакать и оставил еду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4045</td></tr><tr><td>Arabic No</td><td>4045</td></tr><tr><td>Reference</td><td>Book 64 Hadith 91</td></tr></tbody></table></div>
 

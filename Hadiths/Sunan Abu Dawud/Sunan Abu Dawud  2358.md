@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Zuhrah: The Prophet of Allah (ﷺ) used to say when he broke
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Husyaim], dari [Hushain] dari [Mu'adz bin Zuhrah], bahwa telah sampai kepadanya bahwa Nabi shallallahu 'alaihi wasallam apabila berbuka beliau mengucapkan: ALLAAHUMMA LAKA SHUMTU WA 'ALAA RIZQIKA AFTHARTU (Ya Allah, untukMu aku berpuasa, dan dengan rizqiMu aku berbuka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2358</td></tr><tr><td>Arabic No</td><td>2358</td></tr><tr><td>Reference</td><td>Book 14 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Му‘аз ибн Зухра передаёт, что ему передавали, что Пророк ﷺ говорил при разговении: «О Аллах, ради Тебя я постился и уделом от Тебя разговелся /Аллахумма ляка сумту ва аля ризкыка афтарту/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2358</td></tr><tr><td>Arabic No</td><td>2358</td></tr><tr><td>Reference</td><td>Book 14 Hadith 46</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) said, "When nightfalls, then keep your children
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 59 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира, да будет доволен им Аллах, что Пророк ﷺ сказал: «Держите ваших детей (поближе к себе) с наступлением ночи, ибо, поистине, в этот период (по земле) расходятся шайтаны, а по прошествии некоторого времени можете отпускать (детей). И закрывай (ночью) двери (своего дома), поминая имя Аллаха, и гаси свой светильник, поминая имя Аллаха, и завязывай свой мех, поминая имя Аллаха, и прикрывай свой сосуд, поминая имя Аллаха, (а если прикрыть нечем), положи что-нибудь поперёк него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 59 Hadith 89</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) performed Tawaf of the Ka'ba riding a came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid bin 'Abdullah] telah menceritakan kepada kami [Khalid Al Hadzdza'] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi Shallallahu'alaihiwasallam melaksanakan thawaf di Ka'bah Baitullah diatas untanya dan setiap kali Beliau melewati Ar-Rukun (Al Hajar Al Aswad) Beliau memberi isyarat kepadanya dengan sesuatu yang ada pada Beliau lalu bertakbir". Hadits ini juga diikuti oleh [Ibrahim bin Thahran] dari [Khalid Al Hadzdza]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1613</td></tr><tr><td>Arabic No</td><td>1613</td></tr><tr><td>Reference</td><td>Book 25 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ совершал таваф сидя верхом на верблюде, и всякий раз, когда он проходил мимо угла (в котором Чёрный камень), он указывал на него чем-нибудь, что было у него с собой, и произносил слова такбира»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1613</td></tr><tr><td>Arabic No</td><td>1613</td></tr><tr><td>Reference</td><td>Book 25 Hadith 99</td></tr></tbody></table></div>
 

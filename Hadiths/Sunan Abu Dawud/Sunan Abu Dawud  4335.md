@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A similar tradition has also been transmitted by Ibrahim (al-Nakha’l) through 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Muhammad] -maksudnya Muhammad bin Amru- dari [Abu Salamah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan datang hari kiamat hingga muncul tiga puluh Dajjal pendusta, mereka semua berdusta kepada Allah dan Rasul-Nya." Telah menceritakan kepada kami [Abdullah Ibnul Jarrah] dari [Jarir] dari [Mughirah] dari [Ibrahim] ia berkata; [Ubaidah As Sulami] menyebutkan dengan hadits ini. ia berkata, "Lalu ia menyebutkan sebagaimana hadits tersebut." Aku (Ibrahim) lalu berkata kepada Ubaidah, "Apakah engkau mengira bahwa orang ini -Al Mukhtar- berasal dari mereka (para dajjal pendusta)?" Ubaidah menjawab, "(Bahkan) Ia dari pembesarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4335</td></tr><tr><td>Arabic No</td><td>4335</td></tr><tr><td>Reference</td><td>Book 39 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибрахим передаёт: «‘Убайда ас-Сальмани передал этот хадис, а я спросил его: “Ты думаешь, он (аль-Мухтар) из них?” ‘Убайда ответил: “Он один из главных”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4335</td></tr><tr><td>Arabic No</td><td>4335</td></tr><tr><td>Reference</td><td>Book 39 Hadith 45</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Iyas b. Salama narrated from his father that the Apostle (ﷺ) observed:He who d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata, telah menceritakan kepada kami [Mush'ab] -yaitu Ibnu al-Miqdam- telah menceritakan kepada kami [Ikrimah bin Ammar] dari [Iyas bin Salamah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam, "Barangsiapa menghunuskan pedang untuk menyerang kami, maka dia bukan dari golongan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>281</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ияс ибн Саляма передал от своего отца, что Пророк ﷺ сказал: «Тот, кто поднял на нас меч, не имеет к нам отношения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>281</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 187</td></tr></tbody></table></div>
 

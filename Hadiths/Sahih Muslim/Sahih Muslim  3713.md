@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fatima bint Qais (Allah be pleased with her) reported:My husband Abu 'Amr b. Haf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dari [Abu Bakar bin Abu Al Jahm] dia berkata; Saya mendengar [Fathimah binti Qais] berkata; Suatu hari suamiku, yaitu Abu Amru bin Hafsh bin Al Mughirah mengutus Ayyasy bin Abi Rabi'ah untuk menceraikanku dengan membawa lima sha' kurma dan lima sha' gandum. Maka saya berkata; "Saya hanya diberi nafkah segini, tidakkah kamu mengizinkanku menunggu masa iddah di rumah kalian?" Ayyash menjawab; "Tidak." Fathimah melanjutnya ceritanya; Kemudian saya mengenakan bajuku dan bergegas menemui Rasulullah shallallahu 'alaihi wasallam. Beliau bertanya: "Sudah berapa kali dia menceraikanmu?" Saya menjawab; "Tiga kali." Beliau bersabda: "Dia benar, memang kamu tidak berhak lagi mendapatkan nafkah darinya, oleh karena itu, tunggulah masa iddahmu di tempat anak pamanmu yaitu Ibnu Ummi Maktum, sebab dia telah buta sehingga kamu bebas apabila hendak menanggalkan pakaianmu, jika telah berakhir masa iddahmu, maka beritahukanlah kepadaku." Fathimah berkata; Tidak lama kemudian, beberapa orang melamarku, di antaranya adalah Mu'awiyah dan Abu Jahm. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Mu'awiyah adalah orang yang susah sedangkan Abu Jahm adalah orang yang keras terhadap wanita atau suka mukul wanita atau berkata seperti itu, akan tetapi menikahlah dengan Usamah bin Zaid." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Sufyan Ats Tsauri] telah menceritakan kepadaku [Abu Bakar bin Abi Jahm] dia berkata; Saya dan Abu Salamah bin Abdirrahman menemui [Fathimah binti Qais] dan bertanya kepadanya. Dia menceritakan; Mulanya saya adalah istri Abu 'Amru bin Hafsh bin Mughirah, kemudian dia pergi berperang pada perang Najran…, kemudian dia meneruskan hadits tersebut seperti hadits Ibnu Mahdi, namun dia menambahkan; Fathimah berkata; Kemudian saya menikah dengannya, maka Allah memuliakanku dengan Abu Zaid." Dan telah menceritakan kepada kami [Ubaidillah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku [Abu Bakar] dia berkata; Saya dan Abu Salamah menemui [Fathimah binti Qais] ketika pemerintahan Ibnu Zubair, kemudian dia menceritakan kepada kami bahwa suaminya pernah menceraikannya dengan talak tiga…, seperti hadits Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3713</td></tr><tr><td>Arabic No</td><td>1480.17</td></tr><tr><td>Reference</td><td>Book 18 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3713</td></tr><tr><td>Arabic No</td><td>1480.17</td></tr><tr><td>Reference</td><td>Book 18 Hadith 61</td></tr></tbody></table></div>
 

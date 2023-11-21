@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) used to say at a time of distress, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Hisyam bin Abu Abdullah] dari [Qatadah] dari [Abu 'Aliyah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam biasa berdo'a ketika dalam kesulitan, beliau mengucapkan: "LAA ILAAHA ILLALLAHUL 'ADZIIM AL HALIIM LAA ILAAHA ILLALLAH RABBUL 'ARSYIL 'AZHIIM, LAA ILAAHA ILLALLAH RABBUS SAMAAWATI WA RABBUL ARDLI WA RABBUL ASRSYL KARIIM (Tiada Tuhan selain Allah Yang Maha Agung dan Maha Penyantun. Tiada Tuhan selain Allah, Tuhan Penguasa arasy yang agung. Tiada Tuhan selain Allah, Tuhan langit dan bumi serta Tuhan arasy yang mulia)." Dan berkata [Wahb] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6346</td></tr><tr><td>Arabic No</td><td>6346</td></tr><tr><td>Reference</td><td>Book 80 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что когда посланником Аллаха ﷺ овладевала скорбь, он обычно говорил: «Нет божества достойного поклонения, кроме Аллаха Великого, Выдержанного, нет божества достойного поклонения, кроме Аллаха, Господа великого Трона, нет божества достойного поклонения, кроме Аллаха, Господа небес, и Господа земли и Господа благородного Трона!». \n/Ля иляха илля-Ллаху-ль-‘Азымуль-Халим, ля иляха илля-Ллаху, Раббуль-‘аршиль‘азым, ля иляха илля-Ллаху, Раббу-с-самаввати, ва Раббуль-арди, ва Раббуль-‘аршиль кярим/ \nИ Вахб сказал: «Нам рассказал Шу‘ба от Катады похожий хадис»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6346</td></tr><tr><td>Arabic No</td><td>6346</td></tr><tr><td>Reference</td><td>Book 80 Hadith 43</td></tr></tbody></table></div>
 

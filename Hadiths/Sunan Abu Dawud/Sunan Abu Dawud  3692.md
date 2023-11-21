@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:The deputation of 'Abd al-Qais came to Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Muhammad bin 'Ubaid] mereka berkata; telah menceritakan kepada kami [Hammad]. (Dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abbad bin 'Abbad] dari [Abu Jamrah] ia berkata; aku mendengar [Ibnu Abbas] berkata -Musaddad menyebutkan dari Ibnu Abbas; ini adalah hadits Sulaiman- Ibnu Abbas berkata, "Delegasi Abdul Qais datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya kami orang-orang kampung Rabi'ah, antara kami dan anda terhalangi oleh orang-orang kafir Mudlar, dan kami tidak dapat dengan bebas pergi kepada anda kecuali pada Bulan Muharram. Maka perintahkanlah sesuatu kepada kami sehingga kami dapat lakukan dan sampaikan kepada orang-orang yang ada di belakang kami." Beliau bersabda: "Aku perintahkan kalian untuk melakukan empat perkara dan aku larang kalian dari melakukan empat perkara. Yaitu beriman kepada Allah, bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah…." dan beliau menghitung dengan satu tangan beliau. [Musaddad] menyebutkan, 'Beriman kepada Allah', kemudian beliau menafsirkannya kepada mereka, 'Yaitu bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan Muhammad adalah Rasulullah, mendirikan shalat, membayar zakat, dan menunaikan seperlima dari rampasan perang yang kalian dapatkan. Dan aku larang kalian dari Ad dubba', Al hantam, Al muzzaffat dan Al muqayyar." Sedangkan Ibnu 'Ubaid menyebutkan, 'An Naqir sebagai ganti muqayyar. ' Dan Musaddad menyebutkan, 'An naqir dan Al muqayyar tanpa menyebutkan Al muzaffat." Abu Daud berkata, "Abu Hamzah adalah Nashr bin Imran Adl Dluba'i
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (523) Sahih Muslim (17 After 1995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3692</td></tr><tr><td>Arabic No</td><td>3692</td></tr><tr><td>Reference</td><td>Book 27 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что когда к Посланнику Аллаха ﷺ прибыла делегация племени ‘абдулькайс, они сказали: «О Посланник Аллаха, мы люди из племени раби‘а, и нас отделяют от тебя неверующие из племени мудар, и мы можем приезжать к тебе только в заповедный месяц. Дай же нам что-то, чего мы придерживались бы сами и к чему призывали бы тех, кого оставили дома». Он сказал: «Я велю вам четыре вещи, и запрещаю четыре других: (то, что я велю вам, это) вера в Аллаха, свидетельство о том, что нет божества достойного поклонения, кроме Аллаха (он жестом показал, что это одно) (или: вера в Аллаха, то есть свидетельство о том, что нет божества достойного поклонения, кроме Аллаха) и что Мухаммад Посланник Аллаха, совершение молитвы, выплата закята, соблюдение поста в рамадане и выделение вами пятой части /хумус/ военной добычи. А запрещаю я вам (использовать сосуды) дуббу, хантам, музаффат и мукаййар (или: накыр)». А в версии Мусаддада упомянуты накыр и мукаййар, но не упомянут музаффат
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (523) Sahih Muslim (17 After 1995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3692</td></tr><tr><td>Arabic No</td><td>3692</td></tr><tr><td>Reference</td><td>Book 27 Hadith 24</td></tr></tbody></table></div>
 

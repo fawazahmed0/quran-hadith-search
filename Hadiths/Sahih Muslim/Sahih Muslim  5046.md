@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Abu Ya'fur with the same chain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Ya'fur] dari ['Abdullah bin Abu Aufa] dia berkata, "Kami berperang bersama Rasulullah shallallahu 'alaihi wasallam dalam tujuh peperangan, di mana kami pernah memakan belalang." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Ibnu Abu 'Umar] semunya dari [Ibnu 'Uyaianah] dari [Abu Ya'fur] dengan isnad ini. Abu Bakar menyebutkan dalam riwayatnya, "Tujuh peperangan." Dan Ishaq menyebutkan, "Enam peperangan." Dan Ibnu Umar menyebutkan, "Enam atau tujuh peperangan." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Basysyar] dari [Muhammad bin Ja'far] keduanya dari [Syu'bah] dari [Abu Ya'fur] dengan isnad ini. Dia berkata, "Tujuh kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5046</td></tr><tr><td>Arabic No</td><td>1952.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5046</td></tr><tr><td>Arabic No</td><td>1952.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 75</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:The Prophet (ﷺ) talked about war prisoners of Badr 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Muhammad bin Jubair] dari [bapaknya radliallahu 'anhu] bahwa Nabi Shallallahu'alaihiwasallam berkata di hadapan para tawanan perang Badar: "Seandainya Al Muth'im bin 'Adiy masih hidup lalu dia berbicara kepadaku untuk pembebasan orang-orang busuk ini pasti aku lepaskan mereka kepadanya tanpa tebusan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3139</td></tr><tr><td>Arabic No</td><td>3139</td></tr><tr><td>Reference</td><td>Book 57 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джубайра ибн Мут‘има, да будет доволен им Аллах, что Пророк ﷺ сказал о людях, захваченных в плен в битве при Бадре, (следующее): «Если бы аль-Мут‘им ибн ‘Адий был жив и обратился ко мне с ходатайством за этих (людей), от которых исходит зловоние, я бы обязательно (отпустил) их ради него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3139</td></tr><tr><td>Arabic No</td><td>3139</td></tr><tr><td>Reference</td><td>Book 57 Hadith 47</td></tr></tbody></table></div>
 

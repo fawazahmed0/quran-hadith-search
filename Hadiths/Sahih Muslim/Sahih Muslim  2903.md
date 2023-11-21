@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Allah's Apostle (ﷺ) went (to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha, ia berkata; Nabi shallallahu 'alaihi wasallam datang ke rumah Dluba'ah binti Zubair bin Abdul Muthalib. Lalu Dluba'ah pun berkata, "Ya Rasulullah, aku bermaksud hendak menunaikan ibadah haji, tetapi aku sakit, bagaimana itu?" maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Hajilah dan syariatkan dalam niatmu akan tahallul (berhenti) jika tak sanggup meneruskannya karena sakit." Dan telah meceritakan kepadaku [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2903</td></tr><tr><td>Arabic No</td><td>1207.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2903</td></tr><tr><td>Arabic No</td><td>1207.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 112</td></tr></tbody></table></div>
 

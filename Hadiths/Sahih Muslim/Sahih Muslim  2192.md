@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:He who offered prayer over 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepadaku [Suhail] dari [bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang menshalatkan jenazah, namun ia tidak sampai ikut mengantarnya maka baginya pahala satu qirath. Dan jika ia turut mengantarnya, maka baginya pahala dua qirath." Kemudian ditanyakanlah, "Seperti apakah dua qirath itu?" beliau menjawab: "Yang paling kecil di antaranya adalah seperti gunung uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>945.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Тот, кто совершит заупокойную молитву, но не проводит (похоронную процессию), получит один кырат, а если он проводит её, то получит два кырата». Люди спросили: «А что это за два кырата?» и (Пророк ﷺ) сказал: «Наименьший из них подобен (горе) Уход»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>945.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 70</td></tr></tbody></table></div>
 

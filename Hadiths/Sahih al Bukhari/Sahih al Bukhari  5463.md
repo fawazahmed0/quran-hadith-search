@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik: The Prophet (ﷺ) said, If supper is served and the Iqa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] berkata, telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Abu Qilabah] dari [Anas bin Malik] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika makan malam telah tersedia dan iqamat dikumandangkan, maka dahulukanlah makan malam." Dan dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti ini." Dan dari Ayyub dari Nafi' dari Ibnu Umar bahwa suatu kali ia pernah makan malam sementara ia mendengar suara bacaan Imam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5463</td></tr><tr><td>Arabic No</td><td>5463</td></tr><tr><td>Reference</td><td>Book 70 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если будет подан ужин, и в это время будет объявлено о начале молитвы, то начинайте с ужина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5463</td></tr><tr><td>Arabic No</td><td>5463</td></tr><tr><td>Reference</td><td>Book 70 Hadith 92</td></tr></tbody></table></div>
 

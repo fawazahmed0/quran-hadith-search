@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I heard Allah's Messenger (ﷺ) as saying: He who saw me in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Abu Syihab]; Telah menceritakan kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa [Abu Hurairah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa bermimpi melihatku dalam tidurnya, maka sesungguhnya dia akan melihatku ketika dia bangun, atau seakan-akan dia melihatku ketika dia bangun. Karena setan itu tidak dapat menyerupai bentukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5920</td></tr><tr><td>Arabic No</td><td>2266.02</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5920</td></tr><tr><td>Arabic No</td><td>2266.02</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
 

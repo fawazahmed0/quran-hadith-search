@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dharr:When the Prophet (ﷺ) went to bed at night, he used to say: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] telah menceritakan kepada kami [Syaiban] dari [Manshur] dari [Rib'I bin Khirasy] dari [Kharasyah bin Alhurr] dari [Abu Dzar] berkata, "Nabi shallallahu 'alaihi wasallam jika mendatangi tempat tidurnya (tidur) di malam hari, maka beliau memanjatkan doa: 'BISMIKA NAMUUTU WA NAHYAA (Dengan nama-Mu kami mati dan hidup), dan apabila bangun beliau membaca doa: ALHAMDULILLAAHILLDAZII AHYAANAA BA'DA MAA AMAATANAA WAILAIHINNUSYUUR (Segala puji bagi Allah yang telah menghidupkan kami setelah Dia mematikan kami dan kepada-Nya kita dibangkitkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7395</td></tr><tr><td>Arabic No</td><td>7395</td></tr><tr><td>Reference</td><td>Book 97 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ укладывался ночью в постель, он говорил: “С именем Твоим, мы умираем и оживаем”, — когда же он просыпался, то говорил: “Вся хвала Аллаху, Который оживил нас после того, как умертвил нас, и к Нему возвращение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7395</td></tr><tr><td>Arabic No</td><td>7395</td></tr><tr><td>Reference</td><td>Book 97 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah 's Apostle said, " I have been ordered to fight with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] telah bercerita kepada kami [Sa'id bin Al Musayyab] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka mengucapkan Laa ilaaha illallah (tidak ada ilah kecuali Allah). Maka barang siapa yang telah mengucapkan laa ilaaha illallah, sungguh telah terlindung jiwa dan hartanya dariku kecuali dengan haqnya dan perhitunganya kepada Allah". Diriwayatkan oleh 'Umar dan Ibnu 'Umar dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2946</td></tr><tr><td>Arabic No</td><td>2946</td></tr><tr><td>Reference</td><td>Book 56 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Мне было велено сражаться с (этими) людьми до тех пор, пока они не засвидетельствуют, что нет бога, достойного поклонения, кроме Аллаха, тот же, кто скажет: “Нет бога, достойного поклонения, кроме Аллаха”, этим он защитит от меня свою жизнь и своё имущество, если только (не совершит ничего такого, за что можно будет лишить его имущества или жизни) по праву, и тогда (лишь) Аллах (сможет потребовать) от него отчёта”!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2946</td></tr><tr><td>Arabic No</td><td>2946</td></tr><tr><td>Reference</td><td>Book 56 Hadith 158</td></tr></tbody></table></div>
 

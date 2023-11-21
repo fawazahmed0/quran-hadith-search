@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) forbade the selling of fruits unless they get r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepada kami [Ibnu Juraij] dari ['Atho'] dan [Abu Az Zubair] dari [Jabir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam melarang menjual buah (dari pohon) kecuali telah nampak baiknya dan tidak boleh dijual sesuatupun darinya kecuali dengan dinar dan dirham kecuali 'ariyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2189</td></tr><tr><td>Arabic No</td><td>2189</td></tr><tr><td>Reference</td><td>Book 34 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Пророк ﷺ запрещал продавать финики, пока они не созреют, и никакие из них не (должны были) продаваться иначе как за динары и дирхемы, кроме несобранных фиников, которые нуждающимся разрешалось покупать за сушёные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2189</td></tr><tr><td>Arabic No</td><td>2189</td></tr><tr><td>Reference</td><td>Book 34 Hadith 136</td></tr></tbody></table></div>
 

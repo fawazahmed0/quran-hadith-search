@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:That Sa'd b. 'Ubadah said: Messenger of Allah! If a man fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abdul Wahhab bin Najdah Al Hauthi] dengan satu makna, keduanya berkata; telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa Sa'd bin Ubadah berkata, "Wahai Rasulullah, jika seorang laki-laki mendapati laki-laki (lain) bersama isterinya, apakah ia boleh membunuhnya?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak." Sa'd berkata, "Baiklah, demi Dzat yang memuliakanmu dengan kebenaran." Nabi shallallahu 'alaihi wasallam bersabda: "Dengarkanlah apa yang disampikan oleh pemimpinmu." Abdul Wahhab berkata dengan redaksi, "Yakni kepada apa yang disampaikan oleh Sa'd
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1498)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4532</td></tr><tr><td>Arabic No</td><td>4532</td></tr><tr><td>Reference</td><td>Book 41 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Са‘д ибн ‘Убада, да будет доволен им Аллах, сказал: «О Посланник Аллаха, если мужчина застанет свою жену с каким-нибудь мужчиной, может ли он убить его?» Посланник Аллаха ﷺ сказал: «Нет». Са‘д воскликнул: «О нет, клянусь Тем, Кто почтил тебя истиной!» Пророк ﷺ сказал: «Слушайте, что говорит ваш господин (или: Са‘д)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1498)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4532</td></tr><tr><td>Arabic No</td><td>4532</td></tr><tr><td>Reference</td><td>Book 41 Hadith 39</td></tr></tbody></table></div>
 

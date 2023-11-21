@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:'Abdul Malik wrote to Al-Hajjaj that he should not differ from Ib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Salim] berkata; "'Abdul Malik menulis surat kepada Al Hajjaj agar tidak berbeda pendapat dengan [Ibnu 'Umar] tentang masalah haji. Lalu datanglah Ibnu 'Umar radliallahu 'anhu ketika aku bersamanya pada hari Arafah setelah matahari condong, lalu dia berteriak kepada pengawal Al Hajjaj. Maka ia (Al Hajjaj) keluar dengan mengenakan mantel kuning lalu berkata; "Ada apa denganmu wahai Abu 'Abdurrahman?". Ia menjawab: "Pergilah diakhir siang jika engkau ingin mengikuti sunnah". Ia bertanya: "Apakah harus waktu ini?". Ia menjawab: "Ya, benar". Dia berkata: "Tunggulah aku hingga aku membasahi kepalaku, lalu aku akan keluar". Lalu ia ('Abdullah) berhenti hingga Al Hajjaj keluar, kemudian ia berjalan diantara aku dan bapakku. Aku berkata, kepadanya (Al Hajjaj): "Jika kamu ingin mengikuti sunah maka pendekkanlah khutbah, dan percepatlah wukuf". Kemudian ia melihat 'Abdullah. Ketika 'Abdullah melihat hal itu, ia berkata: "Dia benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1660</td></tr><tr><td>Arabic No</td><td>1660</td></tr><tr><td>Reference</td><td>Book 25 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что однажды в день (стояния на) ‘Арафате, как только солнце стало клониться к закату, Ибн ‘Умар, да будет доволен Аллах ими обоими, явился к палатке аль-Хаджжаджа и принялся громко кричать. (Услышав этот крик, аль-Хаджжадж,) на котором была большая накидка, окрашенная диким шафраном, вышел наружу и спросил: «Что случилось, о Абу ‘Абд ар-Рахман?» Он сказал: «Если хочешь (следовать) сунне, отправляйся (к ‘Арафату)». (Аль-Хаджжадж) спросил: «В это время?» (Ибн ‘Умар) ответил: «Да». Он сказал: «Подожди, я полью голову водой, а потом выйду», после чего (Ибн ‘Умар) спешился (и оставался там), пока аль-Хаджжадж не вышел.\nСалим сказал: «И когда он прошёл между мной и моим отцом, я сказал: “Если хочешь (следовать) сунне, произнеси короткую проповедь и поспеши (к ‘Арафату)”. Тогда он стал смотреть на ‘Абдуллаха, который, заметив это, сказал: “Он сказал правду”. Что же касается ‘Абд аль-Малика, то он написал аль-Хаджжаджу, чтобы тот ни в чём не перечил Ибн ‘Умару во время хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1660</td></tr><tr><td>Arabic No</td><td>1660</td></tr><tr><td>Reference</td><td>Book 25 Hadith 141</td></tr></tbody></table></div>
 

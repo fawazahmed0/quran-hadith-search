@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama Ibn Al-'Akwa' (que Dieu l'agrée) a dit : 'Alî avait manqué à l'appel 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Hatim] yaitu Isma'il dari [Yazid bin Abu 'Ubaid] dari [Salamah bin Al Akwa'] dia berkata; "Suatu ketika Ali tidak ikut bersama rombongan Rasulullah shallallahu 'alaihi wasallam dalam perang Khaibar sebab sa'at itu ia sedang sakit mata. Ia pun berkata: 'Aku tidak ikut bersama Rasulullah shallallahu 'alaihi wasallam.' Lalu Ali bertemu dengan Nabi shallallahu 'alaihi wasallam. Pada sore harinya, yang pada pagi hari selanjutnya Allah memberikan kemenangan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh besok aku akan memberikan bendera ini kepada seorang lelaki yang dicintai oleh Allah dan RasulNya atau beliau mengatakan; yang mencintai Allah dan RasulNya, dan Allah akan memenangkannya. Dan perkiraan kami pun tertuju kepada Ali sehingga kami tidak mengharapkannya lagi. lalu mereka berkata: 'Ini dia Ali, maka Rasulullah shallallahu 'alaihi wasallam pun memberikan bendera itu kepadanya, dan Allah memenangkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6224</td></tr><tr><td>Arabic No</td><td>2407</td></tr><tr><td>Reference</td><td>Book 44 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6224</td></tr><tr><td>Arabic No</td><td>2407</td></tr><tr><td>Reference</td><td>Book 44 Hadith 54</td></tr></tbody></table></div>
 

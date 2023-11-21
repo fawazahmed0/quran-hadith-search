@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Wahb:We were with Hudhaifa and he said, "None remains of the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Isma'il] Telah menceritakan kepada kami [Zaid bin Wahb] dia berkata; Kami pernah bersama [Hudzaifah], lalu ia berkata; Tidak tersisa orang yang di sebutkan ayat ini (At Taubah: 12) kecuali hanya tiga orang. Dan tidak tersisa dari orang munafik kecuali hanya empat orang. Seorang arab badui berkata; Kalian adalah sahabat Nabi shallallahu 'alaihi wasallam, kami tidak tahu apa yang kalian kabarkan. Lalu bagaimana dengan orang-orang yang merusak rumah-rumah kami dan mencuri perhiasan kami? Hudzaifah menjawab: mereka itu adalah orang-orang yang fasik. Ya, tidak tersisa dari mereka kecuali hanya empat orang, salah satunya seorang yang sudah tua yang seandainya dia minum air dingin tentu dia tidak akan mendapatkan rasa dinginnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4658</td></tr><tr><td>Arabic No</td><td>4658</td></tr><tr><td>Reference</td><td>Book 65 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Уахб сказал: «Однажды, когда мы находились у Хузейфы, он сказал: “Из людей, описанных в этом аяте, не осталось никого, кроме троих, а из лицемеров никого, кроме четверых”. Тогда (какой-то) бедуин сказал: “Вы, сподвижники Мухаммада ﷺ, рассказываете нам что-то, а мы не понимаем вас. Каково положение тех, кто взламывает наши дома и крадет наши драгоценные вещи?” Он (Хузейфа) ответил: “Они нечестивцы, (а не неверующие или лицемеры). Действительно, из них (лицемеров) не осталось никого, кроме четверых, один из которых — очень старый человек, который, если пьет воду, не чувствует её холода”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4658</td></tr><tr><td>Arabic No</td><td>4658</td></tr><tr><td>Reference</td><td>Book 65 Hadith 180</td></tr></tbody></table></div>
 

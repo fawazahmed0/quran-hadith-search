@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée) ayant vu un homme qui ne s'était pas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Sallam al-Jumahi] telah menceritakan kepada kami [ar-Rabi'] -yaitu bin Muslim- dari [Muhammad] -yaitu Ibnu Ziyad- dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam melihat seorang laki-laki belum mencuci kedua tumitnya, maka beliau bersabda: "Celakalah tumit-tumit (yang tidak terbasuh air wudlu) dengan api neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>573</td></tr><tr><td>Arabic No</td><td>242.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра рассказывал о том, что однажды Пророк ﷺ увидел человека, который не омыл свои пятки (во время омовения), и сказал: «Горе пяткам от Огня!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>573</td></tr><tr><td>Arabic No</td><td>242.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 40</td></tr></tbody></table></div>
 

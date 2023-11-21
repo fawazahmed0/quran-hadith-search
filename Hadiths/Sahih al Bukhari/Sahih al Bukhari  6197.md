@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Name yourselves after me (by my na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] telah menceritakan kepada kami [Abu Hashin] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Namailah dengan namaku dan jangan kalian menjuluki dengan julukanku, barangsiapa melihatku dalam mimpi, maka sesungguhnya ia telah melihatku, karena syetan tidak dapat menyerupaiku, dan barangsiapa berdusta atas namaku dengan sengaja, hendaknya ia mempersiapkan tempatnya di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6197</td></tr><tr><td>Arabic No</td><td>6197</td></tr><tr><td>Reference</td><td>Book 78 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «(Вы можете) называть себя моим именем, но не используйте мою кунью, называя себя! И если кто-нибудь из вас увидит меня во сне, (это будет означать, что) он (действительно) увидел меня, ибо шайтан не может принимать мой облик. Тот же, кто станет намеренно возводить на меня ложь, пусть займёт своё место в Огне!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6197</td></tr><tr><td>Arabic No</td><td>6197</td></tr><tr><td>Reference</td><td>Book 78 Hadith 221</td></tr></tbody></table></div>
 

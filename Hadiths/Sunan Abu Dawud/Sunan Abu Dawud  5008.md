@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ One day when a man got up and spoke at length Amr ibn al-'As said If he had been
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Abdul hamid Al Bahrani] -ia membaca dalam buku Isma'il bin Ayyasy- dan telah menceritakan kepadanya [Muhammad bin Isma'il] anaknya, ia berkata; telah menceritakan kepadaku [Bapakku] ia berkata; telah menceritakan kepadaku [Dhamdham] dari [Syuraih bin Ubaid] ia berkata; telah menceritakan kepada kami [Abu Zhabyah] berkata, "Bahwa [Amr bin Al Ash] suatu hari pernah berkata -saat itu ada seorang laki-laki berdiri dan banyak berbicara- Amru berkata, "Sekiranya ia biasa saja dalam berbicara tentu itu lebih baik baginya. Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku berpandangan, atau beliau mengatakan, "Aku diperintahkan untuk sederhana dalam berbicara, sebab sederhana dalam berbicara adalah suatu kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
 

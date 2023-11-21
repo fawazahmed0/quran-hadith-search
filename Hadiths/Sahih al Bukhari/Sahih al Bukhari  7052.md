@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said to us, "You will see after me, s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Zaid bin Wahab] aku mendengar [Abdullah] mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami; "Kalian akan menyaksikan sikap-sikap egois sepeninggalku, dan beberapa perkara yang kalian ingkari." Para sahabat bertanya; 'Lantas bagaimana anda menyuruh kami ya Rasulullah! ' Nabi menjawab; "Tunaikanlah hak mereka dan mintalah kepada Allah hakmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7052</td></tr><tr><td>Arabic No</td><td>7052</td></tr><tr><td>Reference</td><td>Book 92 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Поистине, после моей (смерти) вы увидите корысть (предпочтение в мирских вещах станут отдавать другим), и многое из того, что вы не будете одобрять». (Люди) спросили: «Что же ты повелишь нам, о Посланник Аллаха?» Он сказал: «Выполняйте их права, и просите Аллаха о том, что причитается вам по праву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7052</td></tr><tr><td>Arabic No</td><td>7052</td></tr><tr><td>Reference</td><td>Book 92 Hadith 5</td></tr></tbody></table></div>
 

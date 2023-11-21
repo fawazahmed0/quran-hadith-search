@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "When you are three persons sitting t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Abdullah] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila kalian bertiga, maka janganlah dua orang berbisik-bisik tanpa menyertakan yang ketiga sebelum ia berbaur dengan yang lain, karena hal itu dapat menyinggung perasaannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6290</td></tr><tr><td>Arabic No</td><td>6290</td></tr><tr><td>Reference</td><td>Book 79 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда будете втроём, пусть двое не перешёптываются втайне от третьего, чтобы не огорчать его, пока вы не присоединитесь к другим людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6290</td></tr><tr><td>Arabic No</td><td>6290</td></tr><tr><td>Reference</td><td>Book 79 Hadith 62</td></tr></tbody></table></div>
 

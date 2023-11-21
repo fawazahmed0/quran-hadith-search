@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: When one of you bows, he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Marwan Al Ahwazi] telah menceritakan kepada kami [Abu 'Amir] dan [Abu Daud] dari [Ibnu Abu Dzi'b] dari [Ishaq bin Yazid Al Hudzali] dari ['Aun bin Abdullah] dari [Abdullah bin Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian ruku' maka ucapkanlah "Subhaana Rabbiyal 'adziim" sebanyak tiga kali. Apabila sujud, maka ucapkanlah "subhaana Rabbiyal a'la" sebanyak tiga kali." Abu Daud berkata: "Ini adalah hadits mursal, sebab 'Aun tidak pernah bertemu dengan Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>886</td></tr><tr><td>Arabic No</td><td>886</td></tr><tr><td>Reference</td><td>Book 2 Hadith 496</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда один из вас совершает поясной поклон, пусть он говорит трижды: “Пречист Господь мой Великий”, и это наименьшее число, а когда он совершает земной поклон, пусть говорит трижды: “Пречист Господь мой Высочайший”, и это наименьшее число»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>886</td></tr><tr><td>Arabic No</td><td>886</td></tr><tr><td>Reference</td><td>Book 2 Hadith 496</td></tr></tbody></table></div>
 

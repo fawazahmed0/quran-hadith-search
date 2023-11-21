@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a different chain of transmitters) on the authorit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Mahdi bin Maimun] dari [Ghailan bin Jarir] dari [Ziyad bin Riyah] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa keluar dari keta'atan dan memisahkan diri dari Jama'ah kemudian dia mati, maka matinya seperti mati jahiliyah. Barangsiapa terbunuh di bawah bendera kefanatikan, balas dendam karena kefanatikan, dan berperang karena kebangsaan, maka dia tidak termasuk dari ummatku. Dan barangsiapa keluar dari ummatku lalu (menyerang) ummatku dan membunuh orang yang baik maupun yang fajir, dan tidak memperdulikan orang mukminnya serta tidak pernah mengindahkan janji yang telah dibuatnya, maka dia tidak termasuk dari golonganku." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ghailan bin Jarir] dengan isnad ini, namun dalam hadits Ibnu Mutsanna tidak disebutkan, "Nabi shallallahu 'alaihi wasallam. Sedangkan dalam riwayat Ibnu Basyar dia menyebutkan, "Rasulullah shallallahu 'alaihi wasallam bersabda….sebagaimana hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>1848.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>1848.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 85</td></tr></tbody></table></div>
 

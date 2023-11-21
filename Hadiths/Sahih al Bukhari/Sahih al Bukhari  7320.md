@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "You will follow the ways o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdul Aziz] telah menceritakan kepada kami [Abu Umar Ash Shan'ani] dari Yaman dari [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Sa'id Al Khudzri] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sungguh, engkau akan mengikuti tradisi orang-orang sebelum kalian, sehasta demi sehasta, sejengkal demi sejengkal, hingga kalaulah mereka masuk liang biawak, niscaya kalian mengikuti mereka." Kami bertanya, "Wahai Rasulullah, Yahudi dan nasranikah?" Nabi menjawab: "Siapa lagi kalau bukan mereka?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7320</td></tr><tr><td>Arabic No</td><td>7320</td></tr><tr><td>Reference</td><td>Book 96 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худрий, да будет доволен им Аллах, что Пророк ﷺ сказал: «Вы непременно последуете обычаям /сунан/ тех, кто были прежде вас, пядь за пядью и локоть за локтем. И даже если они залезут в нору варана, то и тогда вы последуете за ними». Мы спросили: «О Посланник Аллаха, это иудеи и христиане?» Пророк ﷺ ответил: «А кто же ещё?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7320</td></tr><tr><td>Arabic No</td><td>7320</td></tr><tr><td>Reference</td><td>Book 96 Hadith 50</td></tr></tbody></table></div>
 

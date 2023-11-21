@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Masud:A man kissed a woman and then came to Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yazid] yaitu Ibnu Zura'i Telah menceritakan kepada kami [Sulaiman At Tamimi] dari [Abu 'Utsman] dari [Ibnu Mas'ud radliallahu 'anhu] bahwasanya seorang lelaki pernah mencium seorang wanita, lalu dia menemui Nabi shallallahu 'alaihi wasallam dan mengabarkannya kepada Nabi shallallahu 'alaihi wasallam. Maka turunlah ayat: "Dan dirikanlah shalat itu pada kedua tepi siang (pagi dan petang) dan pada bagian permulaan daripada malam. Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk. Itulah peringatan bagi orang-orang yang ingat." (QS Hud; 114). Abdullah berkata; laki-laki itu bertanya; "Wahai Rasulullah, apakah ayat ini hanya khusus untukku?" Beliau menjawab: "Ayat tersebut adalah untuk orang-orang yang melakukannya dari ummatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 65 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн Мас‘уда, да будет доволен им Аллах, что (в своё время) один человек поцеловал (постороннюю) женщину, а потом явился к Посланнику Аллаха ﷺ и рассказал ему обо всём, после чего Аллах ниспослал аят(, в котором было сказано): «Совершай молитву в начале и конце дня и в некоторые часы ночи. Поистине, добрые дела устраняют дурные». Этот человек спросил: «О Посланник Аллаха, это (касается только) меня?» Он ответил: «Это — для всех (членов) моей общины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 65 Hadith 209</td></tr></tbody></table></div>
 

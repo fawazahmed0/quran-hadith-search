@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kam
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2437.2</td></tr><tr><td>Arabic No</td><td>2437.2</td></tr><tr><td>Reference</td><td>Book 45 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сувайд ибн Гъафаля сказал: «Я участвовал в военном походе вместе с Сальманом ибн Раби‘а и Зейдом ибн Суханом и нашёл плеть. Они сказали мне: “Брось её!” Я сказал: “Нет, если найдётся владелец, я отдам её ему, а в противном случае сам буду пользоваться ей”. Вернувшись мы совершили хадж и, проезжая через Медину, я спросил об этом Убайя ибн Ка‘ба, да будет доволен им Аллах, и он сказал: “Однажды при жизни Пророка ﷺ я нашёл кошелёк с сотней динаров и принёс его к Пророку ﷺ, который сказал: “Объявляй об этом в течение года”. И я объявлял об этом целый год, [но не нашёл никого, кто узнал бы его], а потом снова принёс его к Пророку ﷺ. Он сказал мне: “Объявляй об этом год”. И я объявлял об этом год, [но так и не нашёл никого, кто узнал бы его], после чего принёс его к Пророку ﷺ, и он сказал мне: “Объявляй об этом год”. И я объявлял об этом год, а потом пришёл к Пророку ﷺ в четвёртый раз, и он сказал мне: “Узнай число монет, завязку от кошелька и сам кошелёк, и если его хозяин придёт, (верни ему кошелёк,) а если нет, то можешь пользоваться этими деньгами”». Шу‘ба сказал: «Я встретил Саляму (передатчик этого хадиса) в Мекке, и он сказал: “И я не знаю, сколько раз он сказал: “Объявляй об этом” — три или же один”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2437</td></tr><tr><td>Arabic No</td><td>2437</td></tr><tr><td>Reference</td><td>Book 45 Hadith 12</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2437.2</td></tr><tr><td>Arabic No</td><td>2437.2</td></tr><tr><td>Reference</td><td>Book 45 Hadith 13</td></tr></tbody></table></div>

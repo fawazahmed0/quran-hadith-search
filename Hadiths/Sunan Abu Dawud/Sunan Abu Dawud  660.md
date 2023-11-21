@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:we used to pray along with the Messenger of Allah (ﷺ) in in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Bisyr bin Al-Mufadldlal] telah menceritakan kepada kami [Ghalib] dari [Bakr bin Abdullah] dari [Anas bin Malik] dia berkata; Kami pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam di waktu yang sangat panas, apabila salah seorang dari kami tidak sanggup menempelkan dahinya di tanah, dia menghamparkan kainnya lalu bersujud di atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (385) Sahih Muslim (620)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>660</td></tr><tr><td>Arabic No</td><td>660</td></tr><tr><td>Reference</td><td>Book 2 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Обычно мы молились вместе с посланником Аллаха ﷺ в сильную жару, и если невозможно было прикоснуться лицом к земле, некоторые из нас расстилали свою одежду и совершали земной поклон на ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (385) Sahih Muslim (620)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>660</td></tr><tr><td>Arabic No</td><td>660</td></tr><tr><td>Reference</td><td>Book 2 Hadith 270</td></tr></tbody></table></div>
 

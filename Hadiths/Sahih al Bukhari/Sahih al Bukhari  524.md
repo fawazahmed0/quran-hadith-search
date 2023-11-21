@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir bin 'Abdullah:I gave the pledge of allegiance to Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Qais] dari [Jarir bin 'Abdullah] berkata, "Aku membai'at Rasulullah shallallahu 'alaihi wasallam untuk menegakkan shalat, menunaikan zakat dan untuk setia kepada setiap Muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Я поклялся Посланнику Аллаха ﷺ в том, что буду совершать молитву, выплачивать закят и сердечно относиться к каждому мусульманину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
 

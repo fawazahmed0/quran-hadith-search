@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:Truth leads one to Paradise 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan ['Utsman bin Abu Syaibah] serta [Ishaq bin Ibrahim]. [Ishaq] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dari ['Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kejujuran itu akan membimbing pada kebaikan. Dan kebaikan itu akan membimbing ke surga. Seseorang yang senantiasa berlaku jujur maka ia akan dicatat sebagai orang yang jujur. Dan sesungguhnya dusta itu akan mengantarkan pada kejahatan. Dan sesungguhnya kejahatan itu akan menggiring ke neraka. Seseorang yang memelihara kedustaan, maka ia akan dicatat sebagai pendusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6637</td></tr><tr><td>Arabic No</td><td>2607.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6637</td></tr><tr><td>Arabic No</td><td>2607.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 134</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Abi Talib:The Prophet (ﷺ) gave me a silk suit. I went out we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik bin Maisarah] dari [Zaid bin Wahb] dari [Ali bin Abu Thalib] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam memberiku sejenis mantel yang bersulam sutera, kemudian aku keluar dengan mengenakannya, namun aku melihat kemarahan di wajah beliau, maka baju itu kubagikan kepada para saudara-saudara perempuanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5840</td></tr><tr><td>Arabic No</td><td>5840</td></tr><tr><td>Reference</td><td>Book 77 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Абу Талиб, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ подарил мне одежду с полосками шёлка /сираъ/, и я вышел, надев её, однако, увидев по его лицу, что он гневается, я разорвал её на куски и отдал своим женщинам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5840</td></tr><tr><td>Arabic No</td><td>5840</td></tr><tr><td>Reference</td><td>Book 77 Hadith 57</td></tr></tbody></table></div>
 

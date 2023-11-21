@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : Le Prophète (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1274</td></tr><tr><td>Arabic No</td><td>572.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Однажды Посланник Аллаха ﷺ совершил молитву. (Передатчик) Ибрахим сказал: “И я не знаю, добавил он что-то (в ней) или убавил”. А после того как (в конце её) он произнёс слова таслима, его спросили: “О Посланник Аллаха! В молитву было внесено что-то новое?” Он ответил: “Почему вы так решили?” Люди сказали: “Ты помолился так-то и так-то”. Тогда Посланник Аллаха ﷺ преклонил колени, обратился к кибле, совершил два земных поклона и (снова) произнёс слова таслима, а затем повернувшись к нам, сказал: “Если бы в молитву были внесены какие-нибудь изменения, я бы сообщил вам об этом… Дело в том, что я человек и забываю, подобно вам, и если я забуду что-нибудь, напомните мне. И если кто-нибудь из вас засомневается в своей молитве, пусть выберет то, что кажется ему наиболее вероятным, и продолжает на основании этого, а после таслима совершит два земных поклона”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1274</td></tr><tr><td>Arabic No</td><td>572.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 112</td></tr></tbody></table></div>
 

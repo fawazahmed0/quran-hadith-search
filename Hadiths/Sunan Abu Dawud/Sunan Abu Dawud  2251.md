@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sahl bin Sa’ad said “The version of Musaddad has “I witnessed the invoking
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], [Wahb bin Bayan], dan [Ahmad bin 'Amr bin As Sarh], serta ['Amr bin Utsman], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sahl bin Sa'd], ia berkata; Musaddad berkata; aku menyaksikan dua orang yang saling melaknat pada zaman Rasulullah shallallahu 'alaihi wasallam sementara aku adalah orang yang berumur lima belas. Kemudian Rasulullah shallallahu 'alaihi wasallam memisahkan diantara mereka berdua ketika mereka saling melaknat. Dan selesailah hadits Musaddad, sementara yang lain mengatakan; sesungguhnya ia menyaksikan Nabi shallallahu 'alaihi wasallam memisahkan antara kedua orang yang saling melaknat, kemudian orang laki-laki yang saling melakukan laknat berkata; saya berdusta terhadapnya wahai Rasulullah, apabila saya menahannya. Dan sebagian mereka tidak mengatakan; terhadapnya. Abu Daud berkata; tidak ada seorang pun yang menyetujui Ibnu 'Uyainah bahwa beliau memisahkan antara kedua orang yang saling melaknat. Telah menceritakan kepada kami [Sulaiman bin Daud Al 'Ataki], telah menceritakan kepada kami [Fulaih] dari [Az Zuhri] dari [Sahl bin Sa'd] dalam hadits ini; dan wanita tersebut telah hamil, kemudian suaminya mengingkari janin yang ia kandung, dan anak wanita tersebut dinisbatkan kepadanya. Kemudian berlakulah sunah dalam hal warisan, bahwa anak tersebut mewarisinya dan wanita tersebut mewarisi anak itu sesuai yang telah Allah 'azza wajalla tetapkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6854)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2251</td></tr><tr><td>Arabic No</td><td>2251</td></tr><tr><td>Reference</td><td>Book 13 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сахля ибн Са‘да, да будет доволен им Аллах: «Я видел обменивающихся клятвами /ли‘ан/ супругов во времена Посланника Аллаха ﷺ, а мне тогда было пятнадцать лет, и после этого он объявил их брак расторгнутым». А в других версиях упоминается, что он видел, как Пророк ﷺ объявил расторгнутым брак обменявшихся клятвами супругов, и мужчина сказал: «О Посланник Аллаха! Если я удержу её при себе, получится, будто я оклеветал её (или: солгал)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6854)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2251</td></tr><tr><td>Arabic No</td><td>2251</td></tr><tr><td>Reference</td><td>Book 13 Hadith 77</td></tr></tbody></table></div>
 

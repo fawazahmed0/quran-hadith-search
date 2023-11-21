@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas (ra):The Prophet (ﷺ) called the Ansar so as to grant them a port
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>2377</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «(Когда) Пророк ﷺ позвал ансаров нарезать (участки земли) в Бахрейне, ансары сказали: “О Посланник Аллаха! Если ты сделаешь это, то запиши и для наших братьев из числа курайшитов (такие же участки) как и для нас”. Этого (желания) не было у Пророка ﷺ (тогда Пророк ﷺ) сказал (ансарам): “После (моей смерти) вы увидите, что предпочтение (станут отдавать другим), терпите же, пока не встретитесь со мной!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>2377</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
 

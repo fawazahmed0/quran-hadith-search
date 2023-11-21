@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:While we were returning from a Ghazwa (Holy Battle)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Husyaim] Telah menceritakan kepada kami [Sayyar] dari [Asy Sya'bi] dari [Jabir bin Abdullah] ia berkata; Kami pulang dari peperangan bersama Rasulullah shallallahu 'alaihi wasallam, maka aku segera memacu untaku yang berjalan pelan. Kemudian seorang pengendara menyusulku dari belakang dan mencucuk Unta milikku dengan tongkat sehingga laju Untaku pun menjadi lamban seperti lambannya Unta yang kantuk. Dan ternyata orang itu adalah Nabi shallallahu 'alaihi wasallam, beliau bertanya: "Apa yang menyebabkanmu tergesa-gesa?" aku menjawab, "Karena aku baru saja memenikah." Beliau bertanya lagi: "Gadis ataukah janda?" aku menjawab, "Janda." Beliau bersabda: "Kenapa bukan gadis sehingga kamu dapat bercanda dengannya dan ia pun dapat bermain-main denganmu?" Maka saat kami berangkat, beliau bersabda: "Berjalanlah dengan santai, hinga kalian sampai tepat pada malam hari -yakni Isya'- dan agar keluarga yang masih kusut rambutnya dapat bersisir, dan juga bisa mempersiapkan diri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5079</td></tr><tr><td>Arabic No</td><td>5079</td></tr><tr><td>Reference</td><td>Book 67 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах рассказывал: «Когда мы возвращались вместе с Пророком ﷺ с одного из военных походов, я стал гнать своего медленного верблюда. Вдруг меня догнал какой-то всадник и уколол моего верблюда коротким копьём, тогда мой верблюд помчался как скакун. Оказалось, что это был Пророк ﷺ, он спросил меня: “Почему ты так спешишь?” Я ответил: “Я недавно женился”. Он спросил: “(Ты женился) на девственнице или на той, что уже была замужем?” Я ответил: “На той, что была замужем”. Он спросил: “Почему же не на девственнице, с которой ты мог бы играть, и которая играла бы с тобой?” Когда мы уже собирались войти в Медину, Пророк ﷺ сказал: “Подождите, мы зайдём (в город) ночью, чтобы непричёсанная привела свои волосы в порядок, и та, чей муж отсутствовал, сбрила (себе волосы на теле)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5079</td></tr><tr><td>Arabic No</td><td>5079</td></tr><tr><td>Reference</td><td>Book 67 Hadith 17</td></tr></tbody></table></div>
 

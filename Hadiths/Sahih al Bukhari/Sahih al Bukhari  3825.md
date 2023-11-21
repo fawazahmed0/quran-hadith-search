@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aishah (ra):Hind bint 'Utba came and said, "O Allah's Messenger! (Befo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3825</td></tr><tr><td>Arabic No</td><td>3825</td></tr><tr><td>Reference</td><td>Book 63 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды к Пророку ﷺ) пришла Хинд бинт ‘Утба и сказала (ему): “О Посланник Аллаха, прежде не было на земле семьи, которой я желала бы познать унижение так же (сильно), как твоей семье, а сегодня нет такой семьи на земле, которой я желала бы такой же славы, как твоей семье!” (На это Пророк ﷺ) сказал (ей): “Клянусь Тем, в Чьей длани душа моя, и ещё!” (Потом Хинд, да будет доволен ею Аллах,) сказала: “О Посланник Аллаха, поистине, Абу Суфйан — человек скупой, так не будет ли грехом, если я стану расходовать его средства на наших детей (без его ведома)?” (На это Пророк ﷺ) сказал: “Я не думаю, (что это позволительно,) если только (не станешь ты расходовать на необходимое)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3825</td></tr><tr><td>Arabic No</td><td>3825</td></tr><tr><td>Reference</td><td>Book 63 Hadith 50</td></tr></tbody></table></div>
 

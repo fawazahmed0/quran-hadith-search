@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that he heard Allah's Messenger (ﷺ) as saying (in a state) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. Telah menceritakan kepadaku [Muhammad bin Rumh] telah mengkhabarkan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu Umar] ia mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda sementara beliau menghadap timur: "Ingat, sesungguhnya fitnah itu disini, sesungguhnya fitnah itu disini dari arah terbitnya tanduk setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7292</td></tr><tr><td>Arabic No</td><td>2905.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7292</td></tr><tr><td>Arabic No</td><td>2905.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 58</td></tr></tbody></table></div>
 

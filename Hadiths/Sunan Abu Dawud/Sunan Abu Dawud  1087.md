@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Sa'ib b. Yazid said:During the time of the Prophet (ﷺ) and Abu Bakr and 'Um
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [As Sa'ib bin Yazid] bahwa pada mulanya, adzan pertama pada hari Jum'at ketika imam duduk di atas mimbar yaitu di masa Nabi shallallahu 'alaihi wasallam, Abu Bakar dan Umar radliallahu 'anhuma, ketika Utsman menjabat Khilafah, sementara orang-orang semakin banyak jumlahnya, maka Utsman memerintahkan untuk mengumandangkan adzan ketiga di hari Jum'at, maka di kumandangkanlah adzan di atas Zaura'(tempat ketinggian di pasar Madinah), lalu perkara tersebut menjadi tetap." Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Az Zuhri] dari [As Sa'ib bin Yazid] dia berkata; "Mu'adzin mengumandangkan adzan di hadapan Rasulullah Shallallahu shallallahu 'alaihi wasallam pada hari Jum'at, yaitu ketika beliau telah duduk di atas mimbar, sedangkan Abu Bakar dan Umar berada di depan pintu masjid…" kemudian dia melanjutkan hadits tersebut sebagaimana hadits Yunus. Telah menceritakan kepada kami [Hannad bin As Sarri] telah menceritakan kepada kami ['Abdah] dari [Muhammad yaitu Ibnu Ishaq] dari [Az Zuhri] dari [As Sa'ib] dia berkata; "Rasulullah tidak memiliki Mu'adzin (tetap) kecuali satu orang, yaitu Bilal…" kemudian dia menyebutkan makna haditsnya." Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Ya'kub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Syihab] bahwa [As Sa'ib bin Yazid sepupunya Namir] telah mengabarkan kepadanya, katanya; "Rasulullah shallallahu 'alaihi wasallam tidak memiliki selain satu Mu'adzin…" kemudian dia melanjutkan hadits tersebut, namun tidak sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (916)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1087</td></tr><tr><td>Arabic No</td><td>1087</td></tr><tr><td>Reference</td><td>Book 2 Hadith 698</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Пережается от Ас-Саиба ибн Язида, что во времена Пророка ﷺ Абу Бакра и ‘Умара первый азан раздавался, когда имам усаживался на минбар в пятницу. А во времена ‘Усмана, когда людей стало много, ‘Усман велел произносить третий призыв, который произносили в Аз-Зауре, и так оно и продолжалось в будущем
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (916)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1087</td></tr><tr><td>Arabic No</td><td>1087</td></tr><tr><td>Reference</td><td>Book 2 Hadith 698</td></tr></tbody></table></div>
 

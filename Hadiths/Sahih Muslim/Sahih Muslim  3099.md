@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Kuraib, the freed slave of Ibn Abbas, narrated from Usama b. Zaid (Allah be plea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Musa bin Uqbah] dari [Kuraib] Maula Ibnu Abbas, dari [Usamah bin Zaid] bahwa ia telah mendengarnya berkata; Rasulullah shallallahu 'alaihi wasallam berangkat dari Arafah. Ketika sampai di suatu Bukit, beliau turun hendak buang air kecil dan sesudah itu beliau wudlu dengan sederhana. Lalu aku bertanya kepada beliau, "Apakah sekarang Anda akan shalat?" beliau menjawab: "Nanti saja, pada perhentian berikutnya." Kemudian beliau naik kendaraan kembali. setelah sampai di Muzdalifah beliau turun, lalu wudlu dengan sempurna. Kemudian iqamat, lalu beliau shalat Maghrib, dan semua orang berhenti di situ. Lalu diiqamatkan pula shalat isyak, tanpa shalat sunnah antara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>1280.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>1280.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 304</td></tr></tbody></table></div>
 

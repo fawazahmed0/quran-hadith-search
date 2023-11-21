@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Rib'i bin Hirasy] bahwasanya dia mendengar [Ali] berkhuthbah, dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian berdusta atas namaku, karena siapa yang berdusta atas namaku niscaya dia masuk neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Риб‘ий ибн Хираша о том, что он слышал, как во время проповеди ‘Али, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Не возводите на меня ложь, ибо, поистине, тот, кто возведет на меня ложь, попадет в огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 2</td></tr></tbody></table></div>
 

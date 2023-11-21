@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The qunut [supplication before going down for prostration] used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Abu Al Aswad] berkata, telah menceritakan kepada kami [Isma'il] dari [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Anas bin Malik] radliallahu 'anhu berkata, "Doa qunut itu ada dalam shalat Maghrib dan Shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>798</td></tr><tr><td>Arabic No</td><td>798</td></tr><tr><td>Reference</td><td>Book 10 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Кылябы, что Анас ибн Малик, да будет доволен им Аллах сказал: «Кунут был во время закатной и утренней молитв»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>798</td></tr><tr><td>Arabic No</td><td>798</td></tr><tr><td>Reference</td><td>Book 10 Hadith 193</td></tr></tbody></table></div>
 

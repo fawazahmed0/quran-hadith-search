@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Said bin Jubair:Ibn 'Abbas was asked, "How old were you when the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] telah mengabarkan kepada kami ['Abbad bin Musa] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Isra'il] dari [Abu Ishaq] dari [Sa'id bin Jubair] dia berkata; [Ibnu Abbas] ditanya; "Seperti apakah kamu ketika Nabi shallallahu 'alaihi wasallam wafat?" Dia menjawab; 'Waktu itu saya telah dikhitan.' Dia juga berkata; 'Dan orang-orang tidak dikhitan kecuali setelah mereka dewasa (baligh).' Dan berkata [Ibnu Idris] dari [ayahnya] dari [Abu Ishaq] dari [sa'id bin Jubair] dari [Ibnu Abbas] ketika Nabi shallallahu 'alaihi wasallam wafat saya telah dihitan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6299</td></tr><tr><td>Arabic No</td><td>6299</td></tr><tr><td>Reference</td><td>Book 79 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубайр рассказывал: «Однажды (люди) спросили Ибн ‘Аббаса: “Сколько тебе было, когда скончался Пророк ﷺ?” Он сказал: “В тот день я уже был обрезанный”». И один из передатчиков этого хадиса сказал: «Они не совершали обрезания, пока не достигали половой зрелости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6299</td></tr><tr><td>Arabic No</td><td>6299</td></tr><tr><td>Reference</td><td>Book 79 Hadith 71</td></tr></tbody></table></div>
 

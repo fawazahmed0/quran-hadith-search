@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaidullah Al-Khaulani:I heard 'Uthman bin 'Affan saying, when people 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepadaku [Ibnu Wahb] telah mengabarkan kepadaku ['Amru] bahwa [Bukair] menceritakan kepadanya, bahwa ['Ashim bin 'Umar bin Qatadah] menceritakan kepadanya, bahwa dia mendengar ['Ubaidullah Al Khaulani] mendengar ['Utsman bin 'Affan] berkata di tengah pembicaraan orang-orang sekitar masalah pembangunan masjid Rasulullah shallallahu 'alaihi wasallam, ia katakan, "Sungguh, kalian telah banyak berbicara, padahal aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang membangun masjid -Bukair berkata, "Menurutku beliau mengatakan- karena mengharapkah ridla Allah, maka Allah akan membangun untuknya yang seperti itu di surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>450</td></tr><tr><td>Arabic No</td><td>450</td></tr><tr><td>Reference</td><td>Book 8 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда люди (слишком затянули обсуждение намерения) ‘Усмана ибн ‘Аффана, да будет доволен им Аллах, перестроить мечеть посланника ﷺ он сказал: «Поистине, вы слишком много (говорите), а я слышал, как Пророк ﷺ сказал: “Для того, кто построит мечеть, стремясь к лику Аллаха, Аллах построит нечто подобное в раю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>450</td></tr><tr><td>Arabic No</td><td>450</td></tr><tr><td>Reference</td><td>Book 8 Hadith 99</td></tr></tbody></table></div>
 

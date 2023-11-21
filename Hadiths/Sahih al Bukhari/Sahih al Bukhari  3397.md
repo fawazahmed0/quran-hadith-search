@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) came to Medina, he found (the Jews) f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Ayyub as-Sakhtiyaniy] dari [Ibnu Sa'id bin Jubair] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam ketika tiba di Madinah, Beliau mendapatkan mereka (orang Yahudi) malaksanakan shaum hari 'Asyura (10 Muharam) dan mereka berkata; "Ini adalah hari raya, yaitu hari ketika Allah menyelamatkan Musa dan menenggelamkan Fir'aun. Lalu Nabi Musa 'Alaihissalam mempuasainya sebagai wujud syukur kepada Allah". Maka Beliau bersabda: "Akulah yang lebih utama (dekat) terhadap Musa dibanding mereka". Maka Beliau berpuasa pada hari itu dan memerintahkan ummat Beliau untuk mempuasainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3397</td></tr><tr><td>Arabic No</td><td>3397</td></tr><tr><td>Reference</td><td>Book 60 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Прибыв в Медину, Пророк ﷺ увидел, что они (иудеи) постятся в день ‘Ашуры. (Когда он спросил их об этом), они сказали: “Это великий день, в этот день Аллах спас Мусу и потопил Фараона, и (поэтому) Муса стал соблюдать пост в этот день из благодарности к Аллаху”. (На это Пророк ﷺ) сказал: “Я имею больше прав на Мусу, чем они!” — после чего стал соблюдать пост в этот день сам и велел делать это всем остальным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3397</td></tr><tr><td>Arabic No</td><td>3397</td></tr><tr><td>Reference</td><td>Book 60 Hadith 70</td></tr></tbody></table></div>
 

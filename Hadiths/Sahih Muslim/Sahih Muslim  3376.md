@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:Prayer in the mosque of Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Isa bin Al Mundzir Al Himshu] telah menceritakan kepada kami [Muhammad bin Harb] telah menceritakan kepada kami [Az Zubaidi] dari [Az Zuhri] dari [Abu Salamah bin Abdurrahman] dan [Abu Abdullah Al Agharr] -Maula Al Juhaniyyin, dan ia termasuk sahabat Abu Hurairah- bahwa keduanya mendengar [Abu Hurairah] berkata; "Shalat di Masjid Rasulullah shallallahu 'alaihi wasallam adalah lebih utama daripada seribu shalat di masjid lain selain Masjidil Haram, karena Rasulullah shallallahu 'alaihi wasallam adalah penutup para Nabi sedangkan Masjidnya juga Masjid terakhir." Abu Salamah dan Abu Abdullah berkata; Kami tidaklah ragu bahwa Abu Hurairah berkata berdasarkan dari hadits Rasulullah shallallahu 'alaihi wasallam, namun kami masih terhalang untuk memastikan bahwa Abu Hurairah menyampaikan hadits itu dari beliau. Dan ketika Abu Hurairah meninggal, barulah kami teringat hal itu dan kami pun saling mencela kenapa kami tidak mengatakannya kepada Abu Hurairah sehingga ia menyandarkannya kepada Rasulullah shallallahu 'alaihi wasallam jika memang ia mendengarnya langsung dari beliau. Karena dalam keadaan seperti itu, akhirnya kami duduk bermajelis bersama [Abdullah bin Ibrahim bin Qarizh], maka kami pun menuturkan hadits itu kepadanya dan juga apa yang terlewatkan oleh kami di dalam teks hadits Abu Hurairah. Maka Abdullah bin Ibrahim berkata kepada kami, "Aku bersaksi, bahwa aku telah mendengar Abu Hurairah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku adalah Nabi shallallahu 'alaihi wasallam terakhir, dan masjidku juga merupakan masjid yang terakhir dari masjid-masjid (mereka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>1394.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 580</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>1394.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 580</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:In the presence of 'Aisha some people mentioned that the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Amru bin Zurarah] telah mengabarkan kepada kami [Isma'il] dari [Ibnu 'Aun] dari [Ibrahim] dari [Al Aswad] berkata: "Orang-orang menyebutkan di hadapan ['Aisyah] bahwa 'Ali radliallahu 'anhuma menerima wasiat (kekhalifahan) ". Maka dia bertanya: "Kapan Beliau memberi wasiat itu kepadanya padahal aku adalah orang yang selalu menyandarkan Beliau di dadaku" (saat menjelang wafat Beliau). Atau dia berkata: "berada dalam pangkuanku", dimana Beliau meminta air dalam wadah (terbuat dari tembaga) hingga Beliau jatuh dalam pangkuanku dan aku tidak sadar kalau Beliau sudah wafat. Jadi kapan Beliau memberi wasiat kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2741</td></tr><tr><td>Arabic No</td><td>2741</td></tr><tr><td>Reference</td><td>Book 55 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Асуад сказал: «Однажды в присутствии ‘Аиши некоторые люди упомянули, что Пророк ﷺ завещал ‘Али быть его преемником. ‘Аиша сказала: “Когда он завещал ему это!? Поистине, умирая, он лежал у меня на груди, и он попросил принести таз, а затем испустил душу у меня на груди, а я даже не почувствовала, что он умер. Так когда же он завещал ему это!?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2741</td></tr><tr><td>Arabic No</td><td>2741</td></tr><tr><td>Reference</td><td>Book 55 Hadith 4</td></tr></tbody></table></div>
 

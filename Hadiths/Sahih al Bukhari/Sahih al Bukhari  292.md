@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid Al-Juhani:I asked 'Uthman bin 'Affan about a man who en
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] dari [Al Husain], [Yahya] berkata, dan telah mengabarkan kepadaku [Abu Salamah] bahwa ['Atha' bin Yasar] mengabarkan kepadanya, bahwa [Zaid bin Khalid Al Juhaini] mengabarkan kepadanya, bahwa dia bertanya kepada ['Utsman bin 'Affan], "Bagaimana pendapatmu bila seseorang berhubungan dengan isterinya tapi tidak keluar air mani?" 'Utsman bin 'Affan menjawab, "Hendaknya ia berwudlu sebagaimana wudlu untuk shalat, lalu mencuci kemaluannya." 'Utsman lalu melanjutkan ucapannya, "Aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam, dan aku juga pernah bertanya kepada 'Ali bin Abu Thalib, Az Zubair bin Al 'Awam, Thalhah bin 'Ubaidullah dan Ubay bin Ka'b? radliallahu 'anhum. Mereka semua memerintahkan seperti itu." [Yahya] berkata, telah mengabarkan kepadaku [Abu Salamah] bahwa ['Urwah bin Az Zubair] mengabarkan kepadanya, bahwa [Abu Ayyub] mengabarkan kepadanya, bahwa ia mendengar seperti itu dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>292</td></tr><tr><td>Arabic No</td><td>292</td></tr><tr><td>Reference</td><td>Book 5 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зейда ибн Халида о том, что (однажды) он спросил ‘Усмана ибн ‘Аффана, да будет доволен им Аллах: «Как ты думаешь, (что следует делать) мужчине, если он совокупился со своей женой, но не испустил семя?» ‘Усман ответил: «Он должен совершить такое же омовение /вуду/, какое совершает перед молитвой, и помыть свой половой орган».\n‘Усман (также) сказал: «Я слышал это от Посланника Аллаха ﷺ».\n(Зейд сказал): «И я спрашивал об этом ‘Али ибн Абу Талиба, аз-Зубайра ибн аль-‘Аввама, Тальху ибн ‘Убайдуллах и Убаййа ибн Ка‘ба, да будет доволен ими Аллах, и все они велели (поступать) именно так». \nЯхйа сказал: «Сообщил мне Абу Саляма о том, что ‘Урва ибн аз-Зубайр сообщил ему, что Абу Аййюб рассказал ему о том, что он слышал это от Посланника Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>292</td></tr><tr><td>Arabic No</td><td>292</td></tr><tr><td>Reference</td><td>Book 5 Hadith 44</td></tr></tbody></table></div>
 

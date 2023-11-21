@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: The supplication w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin 'Amru bin As Sarh], telah menceritakan kepada Kami [Ibnu Wahb], telah menceritakan kepadaku [Abdurrahman bin Ziyad] dari [Abu Abdurrahman] dari [Abdullah bin 'Amr bin Al 'Ash] bahwa Rasulullah shallla Allahu 'alaihi wa sallam bersabda: "Sesungguhnya do'a yang paling cepat dikabulkan adalah do'a orang yang ghaib (tidak hadir) untuk saudaranya yang tidak hadir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Ас, да будет доволен ими Аллах, о том, что Посланник Аллаха ﷺ сказал: «Поистине, быстрее всех отвечают на такую мольбу, когда один отсутствующий обращается с мольбой за другого (отсутствующего)». Этот хадис передали аль-Бухари в «Адабуль-муфрад» 623, Абу Дауд 1535, ат-Тирмизи 1981.Шейх аль-Албани назвал хадис слабым. См. «Мишкат аль-масабих» 2247.Иснад этого хадиса является слабым из-за слабой памяти передатчика по имени ‘Абдуррахмана ибн Зияда ибн Ан‘ум аль-Ифрикъи, о чем сказал хафиз Ибн Хаджар. См. «Да‘иф Сунан Абу Дауд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) , while in a tent (on the day of the battl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada kami ['Abdul Wahhab] telah bercerita kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda ketika berada di Qubbah: "Ya Allah, sungguh aku benar-benar memohon kepada-Mu akan perjanjian dan janji-Mu. Ya Allah, jika Engkau menghendaki (kehancuran pasukan Islam ini) maka Engkau tidak akan disembah lagi setelah hari ini". Maka Abu Bakar memegangi tangan Beliau dan berkata: "Cukup wahai Rasulullah. Sungguh Tuan telah bersungguh-sungguh meminta dengan terus mendesak kepada Robb Tuan". Saat itu Beliau mengenakan baju besi lalu tampil sambil bersabda: "Kesatuan musuh itu pasti akan diceari beraikan dan mereka akan lari tunggang langgang. Akan tetapi sebenarnya hari qiyamat itulah hari yang dijanjikan kepada mereka (siksaan) dan hari qiyamat itu lebih dahsyat dan lebih pahit". (QS al-Qomar ayat 45 - 46). Dan berkata [Wuhaib] telah bercerita kepada kami [Khalid]: "Kejadian diatas saat perang Badar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2915</td></tr><tr><td>Arabic No</td><td>2915</td></tr><tr><td>Reference</td><td>Book 56 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Находясь в шатре (перед началом битвы при Бадре), Пророк ﷺ сказал: “О Аллах, заклинаю Тебя (выполнить) Твоё обещание! О Аллах, если Ты пожелаешь, то после этого дня уже никто не будет поклоняться Тебе!” После этого Абу Бакр взял за руку Пророка ﷺ, на котором уже были его доспехи, и сказал: “Этого достаточно, о Посланник Аллаха! Ты (взываешь) к своему Господу (уж слишком) настойчиво!” И после этого (Пророк ﷺ) вышел наружу, произнося (такие аяты): “Скоро будет разбита эта толпа, и они обратятся в бегство, но Час этот, что является назначенным им сроком, окажется ещё ужаснее и горше!”»В другой версии (этого хадиса сказано также): «И это было в день (битвы при) Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2915</td></tr><tr><td>Arabic No</td><td>2915</td></tr><tr><td>Reference</td><td>Book 56 Hadith 128</td></tr></tbody></table></div>
 

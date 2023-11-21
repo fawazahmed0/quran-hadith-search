@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id al-Khudri:Once Bilal brought Barni (i.e. a kind of dates) to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Yahya bin Shalih] telah menceritakan kepada kami [Mu'awiyah, dia adalah Ibnu Sallam] dari [Yahya] berkata; Aku mendengar ['Uqbah bin 'Abdul Ghofir] bahwasanya dia mendengar [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata: "Bilal datang menemui Nabi shallallahu 'alaihi wasallam dengan membawa kurma Barni (jenis kurma terbaik) maka Nabi shallallahu 'alaihi wasallam berkata, kepadanya: "Dari mana kurma ini?" Bilal menjawab: "Kami memiliki kurma yang jelek lalu kami jual dua sha' kurma tersebut dengan satu sha' kurma yang baik agar kami dapat menghidangkannya kepada Nabi shallallahu 'alaihi wasallam. Maka saat itu juga Nabi shallallahu 'alaihi wasallam berkata: "Celaka celaka, ini benar-benar riba. Janganlah kamu lakukan seperti itu. Jika kamu mau membeli kurma maka juallah kurmamu dengan harga tertentu kemudian belilah kurma yang baik ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2312</td></tr><tr><td>Arabic No</td><td>2312</td></tr><tr><td>Reference</td><td>Book 40 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Однажды) Билял привёз Пророку ﷺ финики (сорта) барни, и Пророк ﷺ спросил его: “Откуда это?” Билял ответил: “У меня были плохие финики, и я обменял их (на хорошие, отдав) по два са‘ (плохих) за один, чтобы их ел Пророк ﷺ ”. (Услышав это,) Пророк ﷺ воскликнул: “Ах, ах, это же и есть ростовщичество, это же и есть ростовщичество! Не делай (этого больше), а если захочешь купить (финики получше), то продай (плохие) финики (за деньги или за что-нибудь другое) и купи на них (хорошие)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2312</td></tr><tr><td>Arabic No</td><td>2312</td></tr><tr><td>Reference</td><td>Book 40 Hadith 12</td></tr></tbody></table></div>
 

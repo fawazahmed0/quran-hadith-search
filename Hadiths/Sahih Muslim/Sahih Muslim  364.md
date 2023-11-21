@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hasan reported:Ubaidullah b. Ziyad went to see Ma'qil b. Yasir and he was ailing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Yunus] dari [al-Hasan] dia berkata, "Ubaidullah bin Ziyad mengunjungi [Ma'qal bin Yasar] yang sedang sakit, Ubaidullah kemudian meminta sebuah hadits, maka Ma'qil pun berkata, "Aku akan menyampaikan sebuah hadits yang belum pernah aku sampaikan kepadamu. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah Allah Ta'ala menyerahkan suatu urusan rakyat kepada seorang hamba lalu ketika menjelang ajalnya dia masih saja berkhianat kepadanya melainkan Allah pasti akan mengharamkan surga atasnya." Ubadidullah berkata, "Bukankah kemarin kamu telah menyampaikan hadits ini kepadaku?" Ma'qil menjawab, "Aku belum pernah menyampaikan hadits ini kepadamu." Dan telah menceritakan kepadaku [Al-Qasim bin Zakariya] telah menceritakan kepada kami [Husain] -yakni Al-Ja'fiy- dari [Zaidah] dari [Hisyam] dia berkata, [Al-Hasan] berkata, "Ketika kami sedang menjenguk [Ma'qil bin Yasar], datanglah Ubaidullah bin Ziyad. Ma'qil lalu berkata kepadanya, 'Aku akan menyampaikan sebuah hadits yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam….kemudian dia menyebutkan sebuah hadits yang semakna dengan hadits mereka berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>142.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Хасан сказал: «‘Убайдуллах ибн Зияд зашёл к Ма‘кылю ибн Ясару, когда тот болел, попросил его (рассказать хадис), и Ма‘кыль сказал: “Поистине, я расскажу тебе хадис, который я тебе ещё рассказывал. Поистине, Посланник Аллаха ﷺ сказал: “Если Аллах отдаст под опеку кому-либо (из Своих) рабов подданных, а тот умрёт, обманывая их, то Аллах непременно сделает Рай запретным для него”. (‘Убайдуллах) спросил: “Разве ты не рассказывал мне этот хадис раньше?” (Ма‘кыль) ответил: “Нет, я тебе его не рассказывал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>142.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib:My aunt took me to Allah's Messenger (ﷺ) and said, "O Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] telah menceritakan kepada kami [Hatim yaitu Ibnu Isma'il] dari [Al Ju'aid] dia berkata; aku mendengar [As Sa'ib] berkata; aku bersama bibiku pernah datang kepada Rasulullah shallallahu 'alaihi wasallam, lalu dia berkata; "Wahai Rasulullah, sesungguhnya anak saudaraku ini sedang menderita sakit." Lalu beliau memegang kepalaku dan mendo'akan keberkahan kepadaku, kemudian beliau berwudlu dan aku pun minum dari sisa air wudlu' tersebut, setelah itu aku berdiri di belakang beliau hingga aku sempat melihat setempel kenabiannya berada di antara kedua pundak beliau seperti biji kancing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5670</td></tr><tr><td>Arabic No</td><td>5670</td></tr><tr><td>Reference</td><td>Book 75 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Са‘иб сказал: «(Однажды) моя тётка со стороны матери привела меня к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, сын моей сестры заболел!”, — а он погладил меня по голове и призвал на меня благословение. Затем (Пророк ﷺ) совершил омовение, а я выпил остаток воды, которую он использовал, после чего встал у него за спиной и увидел у него между лопаток печать пророчества, по виду подобную яйцу куропатки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5670</td></tr><tr><td>Arabic No</td><td>5670</td></tr><tr><td>Reference</td><td>Book 75 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas: I spent a night with the Prophet (sal Allaahu alayhi wa sal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Hushain] dari [Habib bin Abi Tsabit] dari [Muhammad bin Ali bin Abdullah bin Abbas] dari [Ayahnya] dari [Kakeknya, Abdullah bin Abbas] dia berkata; "Pada suatu malam saya bermalam di sisi Nabi shallallahu 'alaihi wasallam, tatkala bangun dari tidur, beliau mengambil air untuk bersuci, lalu beliau mengambil siwak dan bersiwak, kemudian beliau membaca ayat ini, (yang artinya): "Sesungguhnya dalam penciptaan langit-langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal, " (Ali Imran: 190), beliau membacanya hingga hampir menghatamkan surat tersebut, atau beliau menghatamkannya, lalu beliau berwudhu, kemudian mendatangi tempat shalatnya dan shalat dua rakaat. Lalu beliau kembali ke tempat tidurnya dan tidur hingga apa yang dikehendaki Allah. Kemudian bangun dan melakukan seperti itu lagi, lalu kembali ke tempat tidurnya dan tidur kembali. Kemudian bangun dan melakukan seperti itu lagi. Lalu beliau kembali ke tempat tidurnya dan tidur kembali. Kemudian bangun dan melakukan seperti itu lagi, setiap kali beliau bangun, beliau bersiwak dan shalat dua rakaat, kemudian beliau melakukan shalat witir." Abu Dawud berkata; Diriwayatkan oleh [Ibnu Fudlail] dari [Hushain], dia (Ibnu Abbas) berkata; "Beliau bersiwak dan berwudhu lalu membaca ayat (yang artinya): "Sesungguhnya dalam penciptaan langit-langit dan bumi", hingga beliau menghatamkan surat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Arabic No</td><td>58</td></tr><tr><td>Reference</td><td>Book 1 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Микъдам ибн Шурайх сообщил, что его отец сказал: «(Однажды) я спросил у ‘Аиши: “С чего начинал Посланник Аллаха ﷺ когда он заходил к себе домой?” Она ответила: “С (использования) зубочистки”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Arabic No</td><td>58</td></tr><tr><td>Reference</td><td>Book 1 Hadith 58</td></tr></tbody></table></div>
 

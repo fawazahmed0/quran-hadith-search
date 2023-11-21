@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When it was the day of (the battle of) Hunain, the Prophet (ﷺ) c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Azhar] dari [Ibnu Aun] Telah memberitakan kepada kami [Hisyam bin Zaid bin Anas] dari [Anas] radliallahu 'anhu katanya; ketika perang Hunain, bani Hawazin ketika itu bertemu Nabi shallallahu 'alaihi wasallam beserta sahabatnya yang jumlahnya sekitar sepuluh ribu orang beserta para tawanan yang dibebaskan. Lantas Hawazin kocar-kacir melarikan diri. Kata Nabi: "Wahai segenap anshar! Mereka menjawab; "Baik ya Rasulullah, dan kami memenuhi ajakanmu dengan senang hati, dan selalu siap!" Lantas Nabi shallallahu 'alaihi wasallam singgah sambil mengucapkan: "Aku adalah hamba Allah dan Rasul-Nya!" Orang-orang musyrik pun kocar-kacir. Selanjutnya Rasulullah memberi bagian orang-orang yang dimerdekakan dan kaum muhajirin, namun beliau sama sekali tidak memberi orang Anshar." Maka orang-orang Anshar pun melakukan protes dan kritik atas kebijakan Nabi. Atas kelakuan mereka ini, Nabi memanggil mereka dan mengajak mereka ke dalam sebuah kubah (ruangan), lantas Nabi sampaikan: "Tidakkah kalian ridha jika orang-orang pulang membawa kambing dan unta, sedang kalian pulang membawa Rasulullah Shallallahu'alaihiwasallam? Beliau juga bersabda: "Kalaulah orang-orang mengarungi sebuah lembah dan anshar mengarungi lembah lain, niscaya kupilih lembah yang dikarungi kaum Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4333</td></tr><tr><td>Arabic No</td><td>4333</td></tr><tr><td>Reference</td><td>Book 64 Hadith 362</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В день Хунайна, Пророк ﷺ столкнулся с племенем хавазин, в то время как с Пророком ﷺ было десять тысяч (мужчин), а также “освобождённые” (те, кого Пророк ﷺ освободил в день завоевания Мекки). Когда мусульмане стали отступать, Пророк ﷺ сказал: “О ансары!” Они ответили: “Мы здесь, о Посланник Аллаха, в твоём распоряжении, мы здесь перед тобой”. Затем Пророк ﷺ слез (со своего мула) и сказал: “Я — раб Аллаха и Его Посланник”. После этого многобожники были побеждены, и Пророк ﷺ раздал военную добычу “освобождённым” и мухаджирам, ничего не дав ансарам. Тогда ансары стали говорить об этом (выражая недовольство), и он позвал их в кожаный шатёр, и сказал: “Разве вы недовольны тем, что эти люди вернутся домой с верблюдами и овцами, а вы вернётесь с Посланником Аллаха?” Так же он сказал: “Если бы люди пошли по долине, а ансары — ущельем, я бы обязательно пошёл ущельем ансаров!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4333</td></tr><tr><td>Arabic No</td><td>4333</td></tr><tr><td>Reference</td><td>Book 64 Hadith 362</td></tr></tbody></table></div>
 

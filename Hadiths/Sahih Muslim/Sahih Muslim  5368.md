@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:I heard Allah'. s Messenger (ﷺ) as saying: Food fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Rauh 'Ubadah]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepadaku [Yahya bin Habib]; Telah menceritakan kepada kami [Rauh]; Telah menceritakan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair]; Bahwasanya dia telah mendengar [Jabir bin 'Abdullah] berkata; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Makanan untuk seorang cukup untuk dua orang, makanan dua orang cukup untuk empat orang, dan makanan empat orang cukup untuk delapan orang." Dan di dalam riwayat Ishaq, Rasulullah shallallahu 'alaihi wasallam bersabda: … (dengan tidak menyebutkan lafazh 'Aku mendengar Rasulullah shallallahu 'alaihi wasallam'..). Telah menceritakan kepada kami [Ibnu Numair], Telah menceritakan kepada kami [Bapakku], Telah menceritakan kepada kami [Sufyan]. Demikian juga diriwayatkan dari jalur lain, dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna], Telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dari [Abu Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam seperti Hadits yang diriwayatkan Ibnu Juraij
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>2059.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>2059.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 242</td></tr></tbody></table></div>
 

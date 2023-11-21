@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:Allah's Messenger (ﷺ) was asked about the eating of (the fl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] dari [Isma'il], [Yahya bin Yahya] berkata; telah mengabarkan kepada kami [Isma'il bin Ja'far] dari [Abdullah bin Dinar] bahwa dia mendengar [Ibnu Umar] berkata, "Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai daging biawak, beliau menjawab: "Saya tidak memakannya dan juga tidak mengharamkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>1943.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>1943.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
 

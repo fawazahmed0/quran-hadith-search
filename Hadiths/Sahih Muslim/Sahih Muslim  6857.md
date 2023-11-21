@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported that Mu'awiya went to a circle in the mosque and said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Marhum bin 'Abdul 'Aziz] dari [Abu Na'amah As Sa'di] dari [Abu 'Utsman] dari [Abu Sa'id Al Khudri] dia berkata; "Pada suatu hari Mu'awiyah melewati sebuah halaqah (majlis) di masjid. Kemudian ia bertanya; 'Majelis apakah ini? ' Mereka menjawab; 'Kami duduk di sini untuk berzikir kepada Allah Azza wa Jalla.' Mu'awiyah bertanya lagi; 'Demi Allah, benarkah kalian duduk-duduk di sini hanya untuk itu? ' Mereka menjawab; 'Demi Allah, kami duduk hanya untuk itu.' Kata [Mu'awiyah] selanjutnya; 'Sungguh saya tidak menyuruh kalian bersumpah karena mencurigai kalian. Karena tidak ada orang yang menerima hadits dari Rasulullah shallallahu 'alaihi wasallam yang lebih sedikit daripada saya.' Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah melewati halaqah para sahabatnya. Lalu Rasulullah shallallahu 'alaihi wasallam bertanya: 'Majelis apa ini? ' Mereka menjawab; 'Kami duduk untuk berzikir kepada Allah dan memuji-Nya atas hidayah-Nya berupa Islam dan anugerah-Nya kepada kami.' Rasulullah shallallahu 'alaihi wasallam bertanya lagi: 'Demi Allah, apakah kalian duduk di sini hanya untuk ini? ' Mereka menjawab; 'Demi Allah, kami duduk-duduk di sini hanya untuk ini.' Kata Rasulullah selanjutnya: 'Sungguh aku menyuruh kalian bersumpah bukan karena mencurigai kalian. Tetapi karena aku pernah didatangi Jibril alaihis-salam. Kemudian ia memberitahukan kepadaku bahwasanya Allah Azza wa Jalla membanggakan kalian di hadapan para malaikat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6857</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 48 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6857</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 48 Hadith 51</td></tr></tbody></table></div>
 

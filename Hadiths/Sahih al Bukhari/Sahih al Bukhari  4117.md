@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Prophet (ﷺ) returned from Al-Khandaq (i.e. Trench) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Numair] dari [Hisyam] dari [Bapaknya] dari ['Aisyah radliallahu 'anha], ia berkata; Ketika Nabi shallallahu 'alaihi wasallam kembali dari perang Khandaq, setelah beliau meletakkan senjata dan mandi, malaikat Jibril 'alaihis salam datang menemui beliau seraya berkata: "Apakah anda hendak meletakan senjata? Demi Allah kami tidak akan meletakkannya. Keluarlah anda (untuk memerangi) mereka." Beliau bertanya: "Kemana?" Jibrilmenjawab: "Kesana." Jibril memberi isyarat (untuk pergi memerangi) Bani Quraizhah. Maka Nabi shallallahu 'alaihi wasallam berangkat menyerbu mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4117</td></tr><tr><td>Arabic No</td><td>4117</td></tr><tr><td>Reference</td><td>Book 64 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ вернулся домой после битвы у рва, снял с себя оружие и совершил большое омовение, к нему явился Джибриль, и сказал: “Ты уже снял (своё) оружие? Клянусь Аллахом, мы не снимали его! Отправляйся к ним!” Посланник Аллаха ﷺ спросил: “Куда?” (Джибриль) сказал: “Сюда”, и указал (в сторону жилищ племени) бану курайза, (после чего) Пророк ﷺ направился к ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4117</td></tr><tr><td>Arabic No</td><td>4117</td></tr><tr><td>Reference</td><td>Book 64 Hadith 161</td></tr></tbody></table></div>
 

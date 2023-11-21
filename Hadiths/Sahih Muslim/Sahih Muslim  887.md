@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ lmrin b. Husain reported:The Messenger of Allah (may peace beupon him) led us In
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] keduanya meriwayatkan dari [Abu 'Awanah] berkata [Sa'id], telah menceritakan kepada kami [Abu 'awanah] dari [Qatadah] dari [Zurarah bin Aufa] dari [Imran bin Hushain] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melakukan shalat zhuhur atau ashar bersama kami, seraya bersabda, 'Siapakah di antara kalian yang membaca Sabbihisma Rabbikal A'la di belakangku? ' Maka seorang laki-laki berkata, 'Saya (yang membaca), dan saya tidak menginginkannya melainkan kebaikan.' Beliau bersabda, 'Sungguh aku telah mengetahui bahwa sebagian kalian menyelesihiku padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>887</td></tr><tr><td>Arabic No</td><td>398.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн сказал: «(Однажды) Посланник Аллаха ﷺ провёл с нами полуденную (или: послеполуденную) молитву, (по завершении которой) спросил: “Кто из вас читал “Славь имя твоего Высочайшего Господа”, находясь позади меня?” Один человек ответил: “Я. Однако (делая это), я стремился только к благому”, (Пророк ﷺ же) сказал: “Я почувствовал, что кто-то из вас соперничает со мной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>887</td></tr><tr><td>Arabic No</td><td>398.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 49</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:An Ansari woman said to Allah's Messenger (ﷺ), "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami ['Abdul Wahid bin Ayman] dari [bapaknya] dari [Jabir bin 'Abdullah radliallahu 'anhu] bahwa ada seorang wanita kaum Anshar berkata, kepada Rasulullah shallallahu 'alaihi wasallam: "Tidakah sebaiknya aku buatkan sesuatu yang bisa baginda pergunakan untuk karena aku punya anak yang pekerjaannya sebagai tukang kayu?" Beliau menjawab: "Silakan bila kamu kehendaki". Sahal berkata: "Maka wanita itu membuatkan mimbar. Ketika hari Jum'at Nabi shallallahu 'alaihi wasallam duduk diatas mimbar yang telah dibuat tersebut. Lalu batang pohon kurma yang biasanya beliau berkhathbah di atasnya berteriak hingga hampir-hampir batang pohon itu terbelah. Maka Nabi shallallahu 'alaihi wasallam turun menghampiri batang kayu tersebut lalu memegang dan memeluknya hingga akhirnya batang kayu tersebut merintih dengan perlahan seperti bayi hingga akhirnya berhenti dan menjadi tenang. Beliau berkata: "Batang kayu itu menangis karena dzikir yang pernah didengarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2095</td></tr><tr><td>Arabic No</td><td>2095</td></tr><tr><td>Reference</td><td>Book 34 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, о том, что (однажды) женщина из ансаров сказала Посланнику Аллаха ﷺ: «О Посланник Аллаха, не сделать ли мне для тебя что-нибудь, на чём ты будешь сидеть, ведь у меня есть раб-плотник?» Он ответил: «Если хочешь!» И (по её велению) был изготовлен минбар для него. Когда настала пятница, Пророк ﷺ сел на этот минбар, и тогда пальмовый пень, на котором он раньше проводил проповеди, начал издавать такой крик, что чуть не раскололся. Тогда Пророк ﷺ спустился (с минбара), взял его и прижал к себе, после чего (эта пальма) принялась стонать как ребёнок, которого (стараются) успокоить, (и стонала), пока не затихла (после чего Пророк ﷺ) сказал: «Она плакала (тоскуя) по (словам) поминания (Аллаха), которые слышала (раньше)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2095</td></tr><tr><td>Arabic No</td><td>2095</td></tr><tr><td>Reference</td><td>Book 34 Hadith 48</td></tr></tbody></table></div>
 

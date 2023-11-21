@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) passed by a boy who was skinning 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al-'Ala'] dan [Ayyub bin Muhammad Ar Raqqi] dan [Amru bin Utsman Al Himshi] secara makna, mereka mengatakan; Telah menceritakan kepada kami [Marwan bin Mu'awiyah] telah mengabarkan kepada kami [Hilal bin Maimun Al-Juhani] dari ['Atha' bin Yazid Al-Laitsi] berkata [Hilal]; Saya tidak mengetahuinya kecuali dari [Abu Sa'id]. [Ayyub] dan [Amru] berkata; Saya berpendapat hadits ini dari [Abu Sa'id] bahwasanya Nabi shallallahu 'alaihi wasallam pernah melewati seorang anak sedang menguliti domba, maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Minggirlah, saya akan mengajarkan kamu (bagaimana cara menguliti domba)." Lalu beliau memasukkan tangannya di antara kulit dan daging, kemudian beliau menekannya dengan kuat hingga terus mengulitinya sampai tangan beliau tersembunyi di balik ketiak (domba itu), kemudian beliau pergi lalu shalat mengimami orang-orang dan tidak berwudhu. Abu Dawud berkata; Amru menambahkan dalam riwayat haditsnya; Beliau tidak menyentuh air. Dan dia mengatakan dari Hilal bin Maimun Ar-Ramli. Abu Daud berkata; Dan diriwayatkan dari [Abdul Wahid bin Ziyad] dan [Abu Mu'awiyah] dari [Hilal] dari ['Atha'] dari Nabi shallallahu 'alaihi wasallam secara mursal tanpa menyebutkan Abu Sa'id
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>185</td></tr><tr><td>Arabic No</td><td>185</td></tr><tr><td>Reference</td><td>Book 1 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида (аль-Худри) о том, что «однажды Пророк ﷺ проходил мимо одного мальчика, который снимал шкуру с овцы и Посланник Аллаха ﷺ сказал ему: “Отойди! Я покажу тебе”. И (Пророк ﷺ) засунул свою руку между кожей и мясом так, что она исчезла вплоть до подмышки. Затем он ушел, и совершил молитву с людьми, не совершая омовение».Абу Дауд сказал: «В риваяте этого хадиса переданного со слов ‘Амра добавлено, что «он не касался воды».(‘Амр ибн ‘Усман в своем риваяте) сказал: «Передают от Хилала ибн Маймуны ар-Рамлиййи, также его передал ‘Абдул-Вахид ибн Зийад и Абу Му‘авийа от Хилала, передавшего от ‘Атаъ, передавшего от Пророка ﷺ (хадис в форме) «мурсаль» не упомянув Абу Са‘ида»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>185</td></tr><tr><td>Arabic No</td><td>185</td></tr><tr><td>Reference</td><td>Book 1 Hadith 185</td></tr></tbody></table></div>
 

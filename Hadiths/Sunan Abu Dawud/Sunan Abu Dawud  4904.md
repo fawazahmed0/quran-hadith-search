@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: Sahl ibn AbuUmamah said that he and his father (AbuUmam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] ia berkata; telah mengabarkan kepadaku [Sa'id bin 'Abdurrahman bin Abul Amya'] bahwa [Sahl bin Abu Umamah] menceritakan kepadanya, bahwa dia bersama bapaknya pernah menemui [Anas bin Malik] di Madinah pada masa pemerintahan Umar bin Abdul Aziz -waktu itu Anas sebagai sorang gubernur di Madinah-. Saat itu Anas melaksanakan shalat yang sangat singkat seakan shalatnya seorang musafir atau kurang lebih seperti itu. Ketika Anas selesai salam, bapakku berkata, "Semoga Allah merahmatimu. Menurutmu apakah tadi shalat maktubah (wajib) atau shalat nafilah?" Anas menjawab, "Itu adalah shalat maktubah, dan itulah shalat yang pernah dilaksanakan oleh Rasulullah shallallahu 'alaihi wasallam. Aku tidak menyalahi sesuatu pun darinya, kecuali sesuatu yang aku lupa darinya." Anas lalu berkata, "Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Janganlah kalian perberat diri kalian hingga Allah akan memperberatmu. Sungguh, ada suatu kaum yang suka memperberat diri mereka lalu Allah memperberat bagi mereka. Itulah pewaris-pewaris mereka yang ada di dalam biara-biara dan tempat peribadatan. Firman Allah: '(Dan mereka mengada-adakan rahbaniyyah padahal kami tidak mewajibkannya….) ' -Qs. Al hadid: 27- Keesokan harinya Abu Umamah (bapakku) pergi menemui Anas, Anas lalu berkata, "Tidakkah kamu berkendaraan hingga kamu dapat melihat dan mengambil pelajaran?" Abu Umamah menjawab, "Baiklah." Lalu mereka pergi, dan ternyata mereka berada pada sebuah perkampungan yang penduduknya telah binasa, dan musnah, atap-atap pada bangunannya juga telah berjatuhan. Anas bertanya, "Apakah kamu tahu kampung ini?" aku (Abu Umamah) menjawab, "Aku tidak tahu tentang kampung dan penduduk daerah ini." Anas menerangkan, "Ini ada perkampungan suatu kaum yang Allah telah membinasakan mereka karena sifat melampaui batas (kedhaliman) dan hasad (dengki). Sesungguhnya hasad dapat memadamkan cahaya kebaikan, dan sifat melampaui bataslah (kedhaliman) yang akan membenarkan hal itu atau mendustakannya. Mata berzina, maka tangan, kaki, dan badan, lisan dan kemaluanlah yang akan membenarkan hal itu atau mendustakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4904</td></tr><tr><td>Arabic No</td><td>4904</td></tr><tr><td>Reference</td><td>Book 43 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4904</td></tr><tr><td>Arabic No</td><td>4904</td></tr><tr><td>Reference</td><td>Book 43 Hadith 132</td></tr></tbody></table></div>
 

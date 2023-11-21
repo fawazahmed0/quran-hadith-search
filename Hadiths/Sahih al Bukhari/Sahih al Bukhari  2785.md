@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) and said, "Instruct m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami ['Affan] telah bercerita kepada kami [Hammam] telah bercerita kepada kami [Muhamad bin Juhadah] berkata telah bercerita kepadaku [Abu Hashin] bahwa [Dzakwan] bercerita kepadanya bahwa [Abu Hurairah radliallahu 'anhu] bercerita kepadanya, katanya: "Datang seseorang kepada Rasulullah shallallahu 'alaihi wasallam lalu bertanya: "Tunjukkan kepadaku suatu amal yang dapat menyamai jihad?" Beliau menjawab: "Aku tidak menemukannya ". Beliau melanjutkan: "Apakah kamu sanggup jika seorang mujahid keluar berjihad sedangkan kamu masuk ke dalam masjidmu lalu kamu tegakkan ibadah tanpa henti dan kamu berpuasa tanpa berbuka?" Orang itu berkata: "Mana ada orang yang sanggup berbuat begitu". Abu Hurairah radliallahu 'anhu berkata: "Sesunguhnya kuda seorang mujahid yang dikekang talinya untuk berperang akan ditulis sebagai kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2785</td></tr><tr><td>Arabic No</td><td>2785</td></tr><tr><td>Reference</td><td>Book 56 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек пришёл к Посланнику Аллаха ﷺ и попросил: “Укажи мне на такое дело, которое равно джихаду”. (Сначала Пророк ﷺ) сказал: “Я (не могу) назвать (такое дело”, а спустя некоторое время) спросил: “Сможешь ли ты войти в свою мечеть и (непрерывно) молиться, не ослабевая, (а также непрерывно) поститься, не разговляясь после того, как участник джихада отправится (на войну)?” (В ответ ему этот человек) сказал: “Да кто же сможет (делать) это?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2785</td></tr><tr><td>Arabic No</td><td>2785</td></tr><tr><td>Reference</td><td>Book 56 Hadith 4</td></tr></tbody></table></div>
 

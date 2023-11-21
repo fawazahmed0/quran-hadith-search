@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. al Sa'ib reported:I asked Abdullah b. Ma'qil about Muzara'a (cultiva
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdul Wahid bin Ziyad]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ali bin Mushir] keduanya dari [As Syaibani] dari [Abdullah As Sa'ib] dia berkata; Saya bertanya kepada [Abdullah bin Ma'qil] mengenai muzara'ah. Dia menjawab; Telah mengabarkan kepadaku [Tsabit bin Dlahhak] bahwa Rasulullah shallallahu 'alaihi wasallam melarang praktek muzara'ah (yaitu mengelola tanah perkebunan orang lain dengan imbalan sebagian dari hasil panennya)." Dan dalam riwayatnya Ibnu Abi Syaibah dikatakan; Beliau melarang praktek tersebut. Dan dia berkata; Saya bertanya kepada Ibnu Ma'qil. Tidak menyebutkan nama Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>1549.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>1549.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 154</td></tr></tbody></table></div>
 

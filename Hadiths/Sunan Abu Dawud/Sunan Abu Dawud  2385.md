@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: I got excited, so I kissed while I was fasting, I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Al Laits], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Isa bin Hammad], telah mengabarkan kepada kami [Al Laits bin Sa'd] dari [Bukair bin Abdullah], dari [Abdul Malik bin Sa'id] dari [Jabir bin Abdullah], ia berkata; [Umar bin Al Khathab] berkata; aku merasakan senang lalu aku mencium (istriku) sementara aku dalam keadaan berpuasa. Lalu aku katakan; wahai Rasulullah, pada hari ini aku telah melakukan suatu perkara yang besar. Saya mencium (istriku) sementara saya sedang berpuasa. Beliau berkata: "Bagaimana pendapatmu apabila engkau berkumur-kumur menggunakan air sementara engkau sedang berpuasa?" Isa bin Hammad berkata dalam haditsnya; aku katakan; tidak mengapa. Kemudian keduanya bersepakat mengatakan; beliau berkata; tahanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2385</td></tr><tr><td>Arabic No</td><td>2385</td></tr><tr><td>Reference</td><td>Book 14 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «На радостях я поцеловал (жену) во время поста и сказал: “О Посланник Аллаха! Сегодня я сделал нечто страшное: я поцеловал (жену) во время поста!” Он сказал: «Если бы ты прополоскал рот водой во время поста, что бы было?”» В версии Хаммада ибн Исы говорится: «Я сказал: “Я не вижу в этом ничего страшного”. Посланник Аллаха ﷺ сказал: “Так же и это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2385</td></tr><tr><td>Arabic No</td><td>2385</td></tr><tr><td>Reference</td><td>Book 14 Hadith 73</td></tr></tbody></table></div>
 

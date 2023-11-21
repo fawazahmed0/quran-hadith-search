@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sufyan al-Thawri said:The Caliphs are five: Abu Bakr, ‘Umar, ‘Uthman, ‘All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Abbad As Sammak] ia berkata, "Aku mendengar [Sufyan Ats Tsauri] berkata, "Khalifah (pemimpin) itu ada lima; Abu Bakar, Umar, Utsman, Ali dan Umar bin Abdul Aziz radliallahu 'anhum (semoga Allah meridhoi mereka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Суфьян ас-Саури говорил: «(Праведных) халифов пять: Абу Бакр, ‘Умар, ‘Усман, ‘Али и ‘Умар ибн ‘Абдуль‘азиз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
 

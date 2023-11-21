@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Musa asked Ata':Did Jabir b. 'Abdullah (Allah be pleased with them) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Hammam] dia berkata; Sulaiman bin Musa bertanya kepada ['Atha'] dia bekata; Apakah [Jabir bin Abdullah] pernah menceritakan kepadamu bahwa Nabi Shallallu 'alaihi wa sallam telah bersabda: "Barangsiapa yang memiliki tanah, hendaklah dia menanaminya atau meminjamkan saudaranya untuk ditanami dan janganlah menyewakannya."? Dia menjawab; "Ya, pernah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3921</td></tr><tr><td>Arabic No</td><td>1536.16</td></tr><tr><td>Reference</td><td>Book 21 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3921</td></tr><tr><td>Arabic No</td><td>1536.16</td></tr><tr><td>Reference</td><td>Book 21 Hadith 120</td></tr></tbody></table></div>
 

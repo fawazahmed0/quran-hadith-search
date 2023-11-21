@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Sa'd al-Ansari: I asked the Messenger of Allah (ﷺ) as to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Abdullah bin Wahb] telah menceritakan kepada kami [Mu'awiyah bin Shalih] dari [Al-'Ala' bin Al Harits] dari [Haram bin Hakim] dari [Pamannya, Abdullah bin Sa'd Al Anshari] dia berkata; Saya pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang apa-apa yang mewajibkan mandi, dan tentang air yang keluar setelah keluarnya air (mani). Maka beliau shallallahu 'alaihi wasallam bersabda: "Itu adalah madzi, dan setiap pria mengeluarkan madzi. Karena itu cukuplah kamu membasuh kemaluan dan kedua biji kemaluanmu, lalu berwudhulah sebagaimana kamu berwudhu untuk shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>211</td></tr><tr><td>Arabic No</td><td>211</td></tr><tr><td>Reference</td><td>Book 1 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Харама ибн Хакима о том, что его дядя, ‘Абдуллах ибн Са‘д аль-Ансари сказал: «Я спросил Посланника Аллаха ﷺ о том, что обязывает меня купаться, и о воде, которая появляется за водой, и он ответил: “Это (называется) аль-мазью и выделяется каждым мужчиной. (Если она у тебя появится) то помой свои половой орган и мошонку и соверши (такое же) омовение, которое ты совершаешь для молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>211</td></tr><tr><td>Arabic No</td><td>211</td></tr><tr><td>Reference</td><td>Book 1 Hadith 211</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: The mu'adhdhin will receive forgiv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An-Namari] telah menceritakan kepada kami [Syu'bah] dari [Musa bin Abi Utsman] dari [Abu Yahya] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Muadzin itu mendapat ampunan sejauh suaranya itu (terdengar), dan semua makhluk hidup dan benda mati akan menjadi saksi baginya, dan orang yang menghadiri shalat tersebut (ikut berjamaah) dicatat baginya ganjaran dua puluh lima shalat, dan dihapus dari dosanya antara kedua shalat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>515</td></tr><tr><td>Arabic No</td><td>515</td></tr><tr><td>Reference</td><td>Book 2 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Муаззину прощаются грехи (столько), на сколько достигает его голос, и это засвидетельствует для него всё живое и неживое. Тому же, кто присутствует (на совместной) молитве, записывается двадцать пять молитв, и ему прощаются те (из грехов,) которые он совершил между ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>515</td></tr><tr><td>Arabic No</td><td>515</td></tr><tr><td>Reference</td><td>Book 2 Hadith 125</td></tr></tbody></table></div>
 

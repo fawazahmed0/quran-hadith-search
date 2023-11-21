@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama b. Kuhail reported:I heard from Jundub, but I did not hear him say this: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Salamah bin Kuhail] berkata: Aku mendengar [Jundub Al Alaqi] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Barangsiapa memperdengarkan (amalannya) niscaya Allah memperdengarkan dengannya dan barangsiapa memperlihatkan (amalannya) niscaya Allah memperlihatkan dengannya." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami [Al Mula'i] telah menceritakan kepada kami [Sufyan] dengan sanad ini, ia menambahkan -dan aku tidak mendengar seorang pun selainnya mengatakan: Rasulullah Shallallahu 'alaihi wa Salam bersabda. Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'atsi] telah mengkhabarkan kepada kami [Sufyan] dari [Al Walid bin Harb] berkata Sa'id: Aku kira ia berkata: Berkata Ibnu Al Harits bin Abu Musa: Aku mendengar [Salamah bin Kuhail] berkata: Aku mendengar [Jundub] dan aku tidak mendengar seorang pun selain dia berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda seperti hadits Ats Tsauri. Telah menceritakannya kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami Ash Shaduq Al Amin [Al Walid bin Harb] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7479</td></tr><tr><td>Arabic No</td><td>2987.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7479</td></tr><tr><td>Arabic No</td><td>2987.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 62</td></tr></tbody></table></div>
 

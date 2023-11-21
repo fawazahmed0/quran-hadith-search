@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A man got up and said, O Allah's Messenger (ﷺ)! What do you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari [Abdullah] dia berkata; seorang laki-laki berdiri dan berkata; "Wahai Rasulullah, pakaian apakah yang engkau perintahkan untuk kami kenakan ketika berihram?" beliau bersabda: "Janganlah kalian mengenakan gamis (jubah), celana panjang, surban, baju panjang yang bertutup kepala dan tidak pula sepatu kecuali jika seseorang tidak mendapatkan sandal, maka ia boleh mengenakan sepatu di bawah mata kaki, dan janganlah kalian mengenakan pakaian yang dicampuri dengan minyak za'faran dan tidak juga wars (sejenis tumbuhan yang berwarna kuning atau kunyit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5805</td></tr><tr><td>Arabic No</td><td>5805</td></tr><tr><td>Reference</td><td>Book 77 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Однажды) какой-то человек встал и сказал: “О Посланник Аллаха! Что ты прикажешь нам надевать в состоянии ихрама?” Пророк ﷺ ответил: “Вам не следует надевать ни рубаху, ни брюки, ни чалму, ни бурнус (головной убор), если же кто-то из вас не найдёт сандалии, то пусть оденет кожаные носки, (обрезав их так, чтобы верхние края) были ниже щиколоток. Также не следует надевать одежду, на которую нанесен шафран или уарс (один из видов благовоний)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5805</td></tr><tr><td>Arabic No</td><td>5805</td></tr><tr><td>Reference</td><td>Book 77 Hadith 23</td></tr></tbody></table></div>
 

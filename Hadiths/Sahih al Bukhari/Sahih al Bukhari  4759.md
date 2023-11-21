@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safiya bint Shaiba:'Aisha used to say: "When (the Verse): "They should 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Ibrahim bin Nafi'] dari [Al Hasan bin Muslim] dari [Shafiyyah binti Syaibah] bahwa ['Aisyah radliallahu 'anha] pernah berkata; Tatkala turun ayat: Dan hendaklah mereka menutupkan kain kudung kedadanya.. (An Nuur: 31). Maka mereka langsung mengambil sarung-sarung mereka dan menyobeknya dari bagian bawah lalu menjadikannya sebagai kerudung mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4759</td></tr><tr><td>Arabic No</td><td>4759</td></tr><tr><td>Reference</td><td>Book 65 Hadith 281</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда был ниспослан аят “И пусть они закрывают своими покрывалами вырезы на груди”, они разорвали края своих изаров и покрылись ими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4759</td></tr><tr><td>Arabic No</td><td>4759</td></tr><tr><td>Reference</td><td>Book 65 Hadith 281</td></tr></tbody></table></div>
 

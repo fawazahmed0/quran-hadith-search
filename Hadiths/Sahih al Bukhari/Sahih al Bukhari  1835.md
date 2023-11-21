@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) was cupped while he was in a state o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata; ['Amru] berkata, kepada kami: "Hal yang pertama kali aku dengar dari ['Atho'] adalah saat dia berkata: Aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Rasulullah shallallahu 'alaihi wasallam berbekam saat sedang ihram". Kemudian aku mendengar dia berkata, telah menceritakan kepada saya [Thowus] dari [Ibnu 'Abbas radliallahu 'anhuma]. Maka aku katakan: "Barangkali dia mendengarnya dari keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1835</td></tr><tr><td>Arabic No</td><td>1835</td></tr><tr><td>Reference</td><td>Book 28 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророку ﷺ сделали кровопускание, когда он был в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1835</td></tr><tr><td>Arabic No</td><td>1835</td></tr><tr><td>Reference</td><td>Book 28 Hadith 15</td></tr></tbody></table></div>
 

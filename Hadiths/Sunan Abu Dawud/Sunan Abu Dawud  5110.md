@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: AbuZumayl said: I asked Ibn Abbas, saying: What is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas bin Abdul Azhim] berkata, telah menceritakan kepada kami [An Nadhr bin Muhammad] berkata, telah menceritakan kepada kami [Ikrimah] -maksudnya Ikrimah bin Ammar- ia berkata. (Dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Zumail] ia berkata, "Aku pernah bertanya kepada [Ibnu Abbas], aku katakan kepadanya, "Aku mendapati sesuatu dalam hatiku." Ibnu Abbas bertanya, "Apakah itu?" Aku menjawab, "Demi Allah, aku tidak akan mengatakannya." Abu Zumail berkata, "Ibnu Abbas lalu bertanya lagi, "Apakah itu sesuatu yang meragukan?" Abu Zumail berkata, "Ibnu Abbas tertawa lalu berkata, "Tidak akan ada yang selamat dari hal itu." Abu Zumail berkata, "Hingga akhirnya turunlah ayat Allah: '(Maka jika kamu (Muhammad) berada dalam keragu-raguan tentang apa yang Kami turunkan kepadamu, maka tanyakanlah kepada orang-orang yang membaca kitab sebelum kamu…) ' -Qs. Yunus: 94-. Abu Zumail berkata, "Ibnu Abbas lalu berkata kepadaku, "Jika kamu mendapati sesuatu yang meragukan dalam hatimu maka bacalah: '(Dialah Yang Awal dan Yang Akhir Yang Zhahir dan Yang Bathin; dan Dia Maha Mengetahui segala sesuatu) ' -Qs. Al Hadid:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5110</td></tr><tr><td>Arabic No</td><td>5110</td></tr><tr><td>Reference</td><td>Book 43 Hadith 338</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5110</td></tr><tr><td>Arabic No</td><td>5110</td></tr><tr><td>Reference</td><td>Book 43 Hadith 338</td></tr></tbody></table></div>
 

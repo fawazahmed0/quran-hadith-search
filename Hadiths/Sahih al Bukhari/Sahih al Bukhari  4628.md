@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:When this Verse was revealed: "Say: He has power to send torment 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] Telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru bin Dinar] dari [Jabir radliallahu 'anhu] dia berkata; tatkala turun ayat: "Katakanlah: "Dialah yang berkuasa untuk mengirimkan azab kepadamu dari atas kamu." Rasulullah shallallahu 'alaihi wasallam bersabda: "Saya berlindung dengan Wajah-Mu." tatkala turun ayat, "atau dari bawah kakimu." Rasulullah shallallahu 'alaihi wasallam bersabda: "Saya berlindung dengan Wajah-Mu." Tatkala turun ayat: 'Atau dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebahagian kamu keganasan sebahagian yang lain.' Beliau bersabda: "Ini adalah lebih ringan dan lebih mudah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4628</td></tr><tr><td>Arabic No</td><td>4628</td></tr><tr><td>Reference</td><td>Book 65 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал:\n— Когда был ниспослан этот аят: «Скажи: “Он может наслать на вас наказание сверху…”», Посланник Аллаха ﷺ воскликнул: «Прибегаю к защите лика Твоего! /А‘узу би-ваджхи-Кя!/» Когда (Аллах Всевышний) сказал: «…и из-под ног ваших…», Посланник Аллаха ﷺ воскликнул: «Прибегаю к защите лика Твоего!» — (когда же было сказано): «…или разделить вас на группы и дать одним из вас вкусить силу других», Посланник Аллаха ﷺ сказал: «Это легче»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4628</td></tr><tr><td>Arabic No</td><td>4628</td></tr><tr><td>Reference</td><td>Book 65 Hadith 150</td></tr></tbody></table></div>
 

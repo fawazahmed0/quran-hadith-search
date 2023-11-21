@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) as saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata, Telah menceritakan kepada kami [Yahya Al Qaththan] dari [Ubaidullah] ia berkata, telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Satu shalat (yang dikerjakan) di dalam Masjidku ini, adalah lebih utama daripada seribu shalat di masjid lain, kecuali Masjidil Haram." Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Numair] dan [Abu Usamah] -dalam riwayat lain- Dan Telah menceritakannya kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] -dalam riwayat lain- Dan Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] semuanya dari [Ubaidullah] dengan isnad ini, Dan telah menceritakan kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Ibnu Abu Za'idah] dari [Musa Al Juhani] dari [Nafi'] dari [Ibnu Umar] ia berkata; Saya mendengar bersabda. Yakni dengan hadits semisalnya. Dan telah menceritakan kepadaku [Ibnu Abu Umar] telah mengabarkan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, yakni dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3379</td></tr><tr><td>Arabic No</td><td>1395.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 583</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3379</td></tr><tr><td>Arabic No</td><td>1395.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 583</td></tr></tbody></table></div>
 

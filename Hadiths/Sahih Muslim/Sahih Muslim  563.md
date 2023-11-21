@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been transmitted by Abu Huraira and Abu Sa'id al-Khudri (both of them the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membacakannya di hadapan [Malik]; dari [Ibnu Syihab] dari bapakku [Idris al-Khaulani] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berwudlu hendaklah beristintsar (mengeluarkan air dari hidungnya), dan barangsiapa beristijmar (bersuci dengan batu) hendaklah mengganjilkan bilangannya." Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Hassan bin Ibrahim] telah menceritakan kepada kami [Yunus bin Yazid]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abu Idris al-Khaulani] bahwa dia mendengar [Abu Hurairah] dan [Abu Sa'id al-Khudri] keduanya berkata, "Rasulullah shallallahu 'alaihi wasallam berkata seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>563</td></tr><tr><td>Arabic No</td><td>237.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра и Абу Са‘ид аль-Худри передали от Посланника Аллаха ﷺ хадис, подобный предыдущему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>563</td></tr><tr><td>Arabic No</td><td>237.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Tikhfat al-Ghifari: Ya'ish ibn Tikhfat al-Ghifari said: My father was o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] ia berkata; telah menceritakan kepadaku [Bapakku] dari [Yahya bin Abu Katsir] ia berkata; telah menceritakan kepada kami [Abu Salamah bin 'Abdurrahman] dari [Ya'isy bin Thakhfah bin Qais Al Ghifari] ia berkata, "Bapakku termasuk ahli suffah." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Ikutlah bersamaku ke rumah 'Aisyah radliallahu 'anha." Kami lalu ikut pergi bersamanya. Beliau bersabda: "Wahai 'Aisyah, berilah kami makanan." 'Aisyah kemudian membawa Hasyisyah (sejenis makanan yang terbuat dari biji gandum yang dilembutkan lalu ditaburi daging atau kurma), lalu kami pun memakannya." Beliau kemudian bersabda lagi: "Wahai 'Aisyah, berilah kami makanan." 'Aisyah kemudian membawa Haisah (sejenis makanan yang terbuat dari kurma, terigu dan minyak samin) yang berbentuk seperti burung, lalu kami pun memakannya." Beliau kemudian bersabda: "Wahai 'Aisyah, berilah kami minum." 'Aisyah kemudian membawa bejana yang berisi susu, lalu kami pun meminumnya." Beliau kemudian bersabda lagi: "Wahai 'Aisyah, berilah kami minum." 'Aisyah kemudian membawa bejana kecil, lalu kami pun meminumnya." Beliau kemudian bersabda: "Jika kalian mau silahkan menginap (di sini), dan jika mau silahkan tidur di dalam masjid." Perawai berkata, "Ketika aku tidur dalam masjid dengan telungkup, tiba-tiba di waktu sahur seseorang membangunkan aku dengan kakinya. Laki-laki itu berkata, "Ini adalah cara tidur yang dibenci oleh Allah." Aku lalu melihatnya, dan ternyata laki-laki itu adalah Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5040</td></tr><tr><td>Arabic No</td><td>5040</td></tr><tr><td>Reference</td><td>Book 43 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Мухаммад ибн аль-Мусанна: Рассказал нам Му‘аз ибн Хишам, который сказал: Рассказал мне мой отец от Яхйи ибн Аби Касира, который сказал: Рассказал нам Абу Саляма ибн ‘Абдуррахман от Йа‘иша ибн Тыхфа ибн Къайса аль-Гъифари, который сказал: «Мой отец был из числа людей живших под навесом мечети и (как-то) Посланник Аллаха ﷺ сказал (нам): “Пойдемте с нами в дом ‘Аиши, да будет доволен ею Аллах”, и мы отправились (вместе с ним, и когда мы пришли), он сказал: “О ‘Аиша, накорми нас!”, и тогда она принесла нам хашишу, и мы поели. Затем он опять сказал: “О ‘Аиша, накорми нас!”, и она принесла хейс, размером с куропатку (т.е немного), и мы поели (её). Затем он сказал: “О ‘Аиша, напои нас!”, и тогда она принесла нам кубок молока, и мы попили (его). Затем он (снова) сказал: “О Аиша, напои нас!”, и она принесла нам маленький котелок, и мы попили, после чего он сказал: “Если вы хотите, то можете заночевать (здесь), а если хотите, то можете отправиться в мечеть!”» (Мой отец) сказал: «И когда я лежал в мечети на животе из-за болезни легких, какой-то человек пошевелил меня своей ногой и сказал: “Поистине Аллах ненавидит, когда так лежат!”, и я посмотрел (на верх), и оказалось, что (этим человеком был) Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5040</td></tr><tr><td>Arabic No</td><td>5040</td></tr><tr><td>Reference</td><td>Book 43 Hadith 268</td></tr></tbody></table></div>
 

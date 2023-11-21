@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: One day the Messenger of Allah (ﷺ) entered the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1555</td></tr><tr><td>Arabic No</td><td>1555</td></tr><tr><td>Reference</td><td>Book 8 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: Как-то раз, войдя в мечеть, Посланник Аллаха ﷺ увидел там одного человека из числа ансаров, которого звали Абу Умама, и спросил (его): “О Абу Умама, почему я вижу, что ты сидишь в мечети в такое время, когда в ней не проводится молитва?” Тот сказал: “О Посланник Аллаха, мне не дают покоя беспокойство и долги”. (Пророк ﷺ) спросил: “Так не научить ли тебя таким словам, благодаря которым Аллах избавит Тебя от забот и долга, если ты станешь произносить их?” (Абу Умама) сказал: “Конечно, о Посланник Аллаха!” (Тогда Пророк ﷺ) сказал: “Говори по утрам и вечерам: “О Аллах, поистине, я прибегаю к Твоей защите от беспокойства и грусти, и я прибегаю к Твоей защите от слабости и нерадения, и я прибегаю к Твоей защите от скупости и малодушия, и я прибегаю к Твоей защите от бремени долга и притеснения людей /Аллахумма, инни а‘узу бика миналь-хамми валь-хазани, ва а‘узу бика миналь-‘аджзи валь-касали, ва а‘узу бика миналь-бухли валь-джубни, ва а‘узу бика мин гъалябати-д-дайни ва къахри-р-риджаль/”».(Абу Умама) сказал: «Я так и сделал, и Аллах развеял мои печали и помог мне рассчитаться с долгами». Этот хадис передал Абу Дауд
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1555</td></tr><tr><td>Arabic No</td><td>1555</td></tr><tr><td>Reference</td><td>Book 8 Hadith 140</td></tr></tbody></table></div>
 

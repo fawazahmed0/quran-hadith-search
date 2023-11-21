@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée) : Un jour, Jurayj était en train de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah]; Telah menceritakan kepada kami [Humaid bin Hilal] dari [Abu Rafi'] dari [Abu Hurairah] dia berkata; "Suatu ketika Juraij beribadah di tempat ibadahnya." Lalu ibunya datang -Hamid berkata; Abu Rafi menggambarkan sifat Abu Hurairah ketika mencontohkan Rasulullah shallallahu 'alaihi wasallam tatkala ibunya memanggil Juraij seraya meletakkan tangannya pada bulu matanya lalu mengangkat kepalanya memanggil Juraij; 'Wahai Juraij, saya ibumu jawablah!"Ternyata ibunya mendapati Juraij sedang shalat. Juraij pun berkata; 'Ya Allah, ibuku atau shalatku yang harus aku penuhi? ' maka Juraij memilih untuk meneruskan shalatnya. Kemudian ibunya kembali mendatanginya (di tempat shalat), dan masih mendapati Juraij sedang shalat, ia berkata; 'Wahai Juraij, aku ini ibumu, jawablah.' Juraij berkata dalam hatinya; 'Ya Allah, ibuku atau shalatku, ' maka ia tetap memilih shalatnya. Lalu ibunya mendatanginya dan mendapatinya sedang shalat, ia berkata; 'Wahai Juraij, aku ini ibumu, jawablah aku, ' Juraij berkata dalam hatinya; 'Ya Allah, ibuku atau shalatku, ' maka ia tetap memilih shalatnya. Dan akhirnya Ibunya berkata; 'Ya Allah, Juraij ini adalah anakku, aku telah mengajaknya berbicara (memanggilnya) tetapi ia tidak menjawabku, Ya Allah, janganlah Engkau matikan ia sebelum ia bertemu dengan seorang wanita pelacur.' sekiranya ia berdoa supaya Juraij mendapatkan fitnah, maka Juraij pasti akan mendapatkan fitnah itu." Abu Hurairah berkata; "Ada seorang penggembala kambing yang bernaung di rumah ibadahnya, " Abu Hurairah berkata; "lalu wanita pelacur itu keluar dan berzina dengan penggembala kambing tersebut hingga melahirkan seorang bayi laki-laki, " maka ditanyakan kepada wanita tersebut; 'Bayi ini anak siapa? ' wanita pelacur itu menjawab; 'Anak pemilik rumah ibadah.' lalu orang-orang pun mendatangi rumah ibadah Juraij dengan membawa kapak dan sekop mereka, mereka memanggil Juraij namun ia ternyata sedang shalat dan enggan untuk menjawabnya. Akhirnya mereka menghancurkan rumah ibadahnya. Melihat hal itu, maka turunlah Juraij menemui mereka, mereka berkata; 'Bertanyalah kepada wanita ini.'" Abu Hurairah berkata; "Juraij tersenyum, lalu mengusap kepala bayi itu seraya bertanya; 'Siapa bapakmu? ' maka bayi itu menjawab; 'Bapakku adalah penggembala kambing.' Setelah mendengar hal itu dengan serta merta mereka berkata; 'Wahai Juraij, kami akan membangun kembali rumah ibadahmu yang telah hancur dengan emas dan perak, ' tetapi Juraij menjawab; 'Tidak, bangunlah dengan tanah kembali, ' lalu mereka pun melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6508</td></tr><tr><td>Arabic No</td><td>2550.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6508</td></tr><tr><td>Arabic No</td><td>2550.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 8</td></tr></tbody></table></div>
 

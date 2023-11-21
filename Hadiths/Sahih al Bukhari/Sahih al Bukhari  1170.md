@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:While delivering a sermon, Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah mengabarkan kepada kami [Syu'bah] telah mengabarkan kepada kami ['Amru bin Dinar] berkata; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anhua] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda ketika Beliau sedang menyampaikan khathbah: "Jika seorang dari kalian memasuki masjid sedang imam sedang berkhuthbah atau dia telah keluar (kemudian masuk lagi) maka hendaklah dia shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 19 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ совершал по ночам тринадцать рак‘атов. Затем, когда он слышал призыв на утреннюю молитву, он совершал два легких рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 19 Hadith 49</td></tr></tbody></table></div>
 

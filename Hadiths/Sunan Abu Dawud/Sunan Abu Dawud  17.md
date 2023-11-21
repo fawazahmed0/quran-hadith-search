@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhajir ibn Qunfudh: Muhajir came to the Prophet (ﷺ) while he was uri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Al Hasan] dari [Hudhain bin Al Mundzir Abi Sasan] dari [Al Muhajir bin Qunfudz] Bahwasanya dia pernah menemui Nabi shallallahu 'alaihi wasallam ketika beliau sedang buang air kecil, lalu dia mengucapkan salam kepada Nabi, namun beliau tidak menjawab salamnya hingga berwudhu, kemudian beliau meminta maaf seraya bersabda: "Sesungguhnya aku tidak suka menyebut Nama Allah Ta'ala kecuali dalam keadaan suci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Arabic No</td><td>17</td></tr><tr><td>Reference</td><td>Book 1 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды аль-Мухаджир ибн Кунфуз пришёл к Пророку ﷺ, когда тот мочился, и поприветствовал его, но Пророк ﷺ не ответил ему, пока не совершил омовение. Затем он извинился перед ним и сказал: «Поистине, не люблю я поминать Аллаха кроме, как будучи чистым», или он сказал: «В состоянии (ритуальной) чистоты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Arabic No</td><td>17</td></tr><tr><td>Reference</td><td>Book 1 Hadith 17</td></tr></tbody></table></div>
 

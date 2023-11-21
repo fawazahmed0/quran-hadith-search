@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: Muhammad ibn al-Ash'ath said: Al-Ash'ath bought sl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [Ayahku] dari [Abu 'Umais] telah mengabarkan kepadaku [Abdurrahman bin Qais bin Muhammad bin Al Asy'ats] dari [Ayahnya] dari [Kakeknya] ia berkata, "Al Asy'ats membeli seorang budak (bagian dari seperlima harta ghanimah) dari Abdullah dengan harga dua puluh ribu. Kemudian Abdullah mengirim seseorang kepada Al Asy'ats untuk meminta harga budak tersebut. Al Asy'ats pun berkata, "Aku membelinya dengan harga sepuluh ribu." Lalu Abdullah berkata, "Pilihlah seorang penengah antara diriku dan dirimu!" Al Asy'ats berkata, "Engkau adalah penengah antara aku dan dirimu." Abdullah berkata, "Sesungguhnya aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila dua orang yang saling berjual beli berselisih dan di antara mereka tidak ada bukti, maka yang kuat adalah perkataan pemilik barang (penjual), atau mereka berdua membatalkan jual beli." Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Ibnu Abu Laila] dari [Al Qasim bin Abdurrahman] dari [Ayahnya] bahwa [Ibnu Mas'ud] telah menjual budak kepada Al Asy'ats bin Qais…. kemudian ia menyebutkan makna hadits tersebut, sementara pembicaraan itu adakalanya mengalami penambahan dan pengurangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3511</td></tr><tr><td>Arabic No</td><td>3511</td></tr><tr><td>Reference</td><td>Book 24 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн аль-Аш‘ас передаёт, что аль-Аш‘ас, да будет доволен им Аллах, купил рабов из пятой части военной добычи у ‘Абдуллаха за двадцать тысяч. А когда ‘Абдуллах послал к нему, чтобы забрать деньги, аль-Аш‘ас сказал: «Я купил их за десять тысяч!» ‘Абдуллах сказал: «Выбери человека, который рассудил бы нас с тобой». Аль-Аш‘ас сказал: «Рассуди же нас ты сам». ‘Абдуллах сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если продавец и покупатель разногласят и ни у кого из них нет доказательства своей правоты, то за основу принимается мнение владельца товара или же они могут расторгнуть сделку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3511</td></tr><tr><td>Arabic No</td><td>3511</td></tr><tr><td>Reference</td><td>Book 24 Hadith 96</td></tr></tbody></table></div>
 

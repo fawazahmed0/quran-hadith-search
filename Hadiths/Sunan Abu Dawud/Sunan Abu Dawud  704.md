@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Ikrimah reported on the authority of Ibn Abbas, say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isma'il] bekas budak Bani Hasyim Al Bashri, telah menceritakan kepada kami [Mu'adz] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari ['Ikrimah] dari [Ibnu Abbas] dia berkata; saya kira (hadits ini) dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Apabila salah seorang dari kalian shalat tanpa ada sutrah (pembatas), maka anjing, keledai, babi, orang Yahudi dan wanita dapat memutuskan shalatnya (apabila lewat di depannya), dan cukuplah baginya (apabila mereka hendak lewat di hadapannya) untuk melempar dengan batu." Abu Daud mengatakan; "Menurutku hadits ini ada masalah, ketika aku menyebutkan hadits tersebut kepada Ibrahim, maka ia tidak pernah tahu seorang pun yang datang (meriwayatkan) dari Haisyam dan dia juga tidak mengetahuinya, begitu juga aku tidak pernah melihat seorang pun yang pernah meriwayatkan dari Hisyam, saya kira Ibnu Abu Saminah yaitu Muhammad bin Isma'il Al Bashri bekas budak Bani Hasyim, terdapat keraguan (dalam riwayatnya) dan kemungkaran, karena ia menyebutkan; "Orang Majusi" dan "Melemparnya dengan batu" (dalam riwayatnya pula) dia menyebutkan "babi" sehingga (riwayatnya) munkar, Abu Daud berkata; "Aku tidak pernah mendengar hadits ini kecuali dari Muhammad bin Isma'il bin Abu Saminah, dan saya kira dia banyak keraguan karena dia meriwayatkan kepada kami dari hafalannya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>704</td></tr><tr><td>Arabic No</td><td>704</td></tr><tr><td>Reference</td><td>Book 2 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Икрима сообщил, что Ибн ‘Аббас сказал: «И я думаю, что (он передал это) от Посланника Аллаха ﷺ который сказал: “Если кто-то из вас станет совершать молитву не устанавливая перед собой сутру, то, поистине, его молитву (может) прервать собака, осёл, свинья, иудей, огнепоклонник и женщина. Но ему будет достаточно, если они пройдут перед ним на расстоянии брошенного камня».Также этот хадис передали аль-Байхакъи 2/275 и ат-Тахауи 1/265. Абу Дауд сказал: «Мне в душу что-то закралось из-за этого хадиса, и я думаю, что это ошибка от Ибн Абу Самины т.е. Мухаммада ибн Исма‘иля аль-Басри, вольноотпущенника бану Хашим и упоминание в нём огнепоклонника является отвергаемым, а также упоминание в нём свиньи является неприемлемым».Абу Дауд сказал: «Я слышал этот хадис только от Мухаммада ибн Исма‘иля, и думаю, что он ошибся, поскольку он рассказывал его нам по памяти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>704</td></tr><tr><td>Arabic No</td><td>704</td></tr><tr><td>Reference</td><td>Book 2 Hadith 314</td></tr></tbody></table></div>
 

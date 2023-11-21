@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah says: 'I am just as My slave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Hafs] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] aku mendengar [Abu Shalih] dari [Abu Hurairah] radliyallahu'anhu berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Aku berada dalam prasangka hamba-Ku, dan Aku selalu bersamanya jika ia mengingat-Ku, jika ia mengingat-Ku dalam dirinya, maka Aku mengingatnya dalam diri-Ku, dan jika ia mengingat-Ku dalam perkumpulan, maka Aku mengingatnya dalam perkumpulan yang lebih baik daripada mereka, jika ia mendekatkan diri kepada-Ku sejengkal, maka Aku mendekatkan diri kepadanya sehasta, dan jika ia mendekatkan diri kepada-Ku sehasta, Aku mendekatkan diri kepadanya sedepa, jika ia mendatangi-Ku dalam keadaan berjalan, maka Aku mendatanginya dalam keadaan berlari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7405</td></tr><tr><td>Arabic No</td><td>7405</td></tr><tr><td>Reference</td><td>Book 97 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: \n— Пророк ﷺ сказал: «Аллах Всевышний говорит: “Я буду таким, каким считает Меня раб Мой, и Я нахожусь вместе с ним, когда он поминает Меня. Если он помянет Меня в душе, то и Я помяну его про Себя, а если он помянет Меня в обществе (других людей), то Я помяну его среди тех, кто лучше их. Если раб приблизится ко Мне на пядь, Я приближусь к нему на локоть, если Он приблизится ко Мне на локоть, Я приближусь к нему на сажень, а если он направится ко Мне шагом, то Я брошусь к нему бегом!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7405</td></tr><tr><td>Arabic No</td><td>7405</td></tr><tr><td>Reference</td><td>Book 97 Hadith 34</td></tr></tbody></table></div>
 

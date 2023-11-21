@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Sa'd reported:I bowed and my hands were in this state, i. e. they were put t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dari [Ismail bin Abi Khalid] dari [az-Zubair bin 'Adi] dari [Mush'ab bin Sa'd] dia berkata, "Aku rukuk, lalu aku berkata dengan tanganku demikian, maksudnya membuka keduanya dan meletakkan keduanya di antara kedua pahanya. Lalu [bapakku] berkata, 'Dahulu kami melakukan ini, kemudian kami diperintahkan untuk memegang lutut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1196</td></tr><tr><td>Arabic No</td><td>535.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Мус‘аб ибн Са‘д сказал: «Совершая поясной поклон, я соединил ладони и поместил их между колен, и (увидев это,) мой отец сказал: “Мы (тоже) так делали, но затем нам было велено (класть руки) на колени”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1196</td></tr><tr><td>Arabic No</td><td>535.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 36</td></tr></tbody></table></div>
 

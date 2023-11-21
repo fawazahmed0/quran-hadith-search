@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported that the Messenger of Allah (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Abdullah bin Thawus] dari [bapaknya] dari [Ibnu Abbas] radliallahu 'anhuma, bahwa Rasulullah shallallahu 'alaihi wasallam menetapkan miqat bagi penduduk Madinah di Dzulhulaifah, bagi penduduk Syam di Juhfah, untuk penduduk Najed di Qarnalmanazil, dan bagi penduduk Yaman di Yalamlam. Tempat-tempat itu adalah bagi penduduk negeri-negeri tersebut dan juga bagi mereka yang datang dari tempat lain melewati tempat itu untuk melakukan haji atau umrah. Dan siapa saja yang tidak berada di tempat-tempat, maka ia memulai ihram dari tempat domisilinya hingga Makkah, maka penduduknya memulai ihram dari Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2804</td></tr><tr><td>Arabic No</td><td>1181.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2804</td></tr><tr><td>Arabic No</td><td>1181.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
 

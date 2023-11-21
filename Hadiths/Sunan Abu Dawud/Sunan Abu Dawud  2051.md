@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: Marthad ibn AbuMarthad al-Ghanawi used to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Muhammad At Taimi], telah menceritakan kepada kami [Yahya], dari ['Ubaidullah bin Al Akhnas] dari ['Amr bin Syu'aib] dari [ayahnya], dari [kakeknya] bahwa Martsad bin Abu Martsad Al Ghanawi membawa tawanan dari Mekkah dan di Mekkah terdapat seorang pelacur yang dikenal dengan nama 'Anaq dan dia dahulu adalah teman wanitanya. Martsad berkata; Aku menemui Nabi Shallallahu 'alaihi sallam lalu aku berkata; wahai Rasulullah, bolehkah aku menikahi 'Anaq? Martsad berkata; kemudian beliau diam, lalu turun ayat: " Seorang wanita pezina tidaklah boleh dinikahi kecuali oleh seorang laki-laki pezina atau orang musyrik". Lalu beliau memanggilku dan membacakan ayat tersebut di hadapanku seraya bersabda, "Janganlah kamu menikahinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>2051</td></tr><tr><td>Reference</td><td>Book 12 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда (да будет доволен Аллах им и его отцом) о том, что Марсад ибн Абу Марсад аль-Ганави занимался продажей невольников в Мекке, а в Мекке была блудница по имени ‘Анак, с которой он дружил. Марсад рассказывал: «Я пришёл к Пророку ﷺ и спросил: “О Посланник Аллаха, могу я жениться на ‘Анак?” Он ничего не ответил мне. А потом было ниспослано: “Прелюбодей женится только на прелюбодейке или многобожнице…” (сура 24 «Свет», аят 3). (Посланник Аллаха ﷺ) позвал меня, прочитал мне этот аят и сказал: “Не женись на ней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>2051</td></tr><tr><td>Reference</td><td>Book 12 Hadith 6</td></tr></tbody></table></div>
 

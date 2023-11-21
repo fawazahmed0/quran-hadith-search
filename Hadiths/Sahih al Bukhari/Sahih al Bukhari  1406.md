@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Wahab:I passed by a place called Ar-Rabadha and by chance I me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abu Hasyim] dia mendengar [Husyaim] yang telah mengabarkan kepada kami [Hushain] dari [Zaid bin Wahab] berkata; "Saat aku melewati Zabdah, aku bertemu dengan [Abu Dzar] radliallahu 'anhu, lalu aku bertanya kepadanya; "Apa yang menyebabkanmu sampai menetap di tempat ini?". Dia menjawab: "Sebelumnya aku tinggal di Syam, namun aku berselisih dengan Mu'awiyah tentang ayat; "walladziina yaknizuunadz dzahaba wal fidhdhata walaa yunfiquunahaa fii sabiilillah". Muawiyah berkata, ayat ini turun pada Ahli kitab, sedangkan aku berkata, ayat ini turun kepada kita dan mereka. Hal inilah yang menjadikan aku berselisih dengannya. Lalu dia mengirim surat kepada 'Utsman radliallahu 'anhu mengeluhkanku. Akhirnya 'Utsman radliallahu 'anhu mengirim surat kepadaku agar aku datang ke Madinah. Lalu aku mendatanginya, kemudian orang-orang mengerumuniku seakan-akan mereka belum pernah melihatku sebelumnya, lalu aku mengabarkan hal itu kepada Utsman. Lalu ia mengatakan kepadaku: "Jika engkau mau, engkau boleh meninggalkannya, dan engkau akan menjadi lebih dekat (denganku) ". Kejadian itulah yang menjadikan aku tinggal disini. Seandainya seorang budak Habsyi memerintahku, sungguh aku akan mendengar dan mentaatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1406</td></tr><tr><td>Arabic No</td><td>1406</td></tr><tr><td>Reference</td><td>Book 24 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Уахб рассказывал: «Проезжая мимо Рабазы, я встретил Абу Зарра, да будет доволен им Аллах, и спросил его: “Почему ты поселился здесь?” Он ответил: “Когда я находился в Шаме, между мной и Муавией возникло разногласие по поводу аятов: “А те, которые накапливают золото и серебро и не расходуют его на пути Аллаха…” (сура “ат-Тауба”, аят 34). Муавия сказал: “Они были ниспосланы в отношении людей Писания”. Я сказал: “Они были ниспосланы в отношении нас и них”. Итак, между мной и ним возник конфликт, и он написал ‘Усману, да будет доволен им Аллах, письмо, в котором пожаловался на меня. Затем ‘Усман отправил мне письмо, в котором велел мне приехать в Медину. Когда я приехал туда, люди стали навещать меня так часто, словно они никогда прежде не видели меня. Затем я рассказал обо всем ‘Усману, и он сказал мне: “Если хочешь, то уединись где-нибудь вблизи (Медины)”. Вот почему я поселился здесь. И даже если мной будет править эфиоп, я все равно буду слушать его и повиноваться ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1406</td></tr><tr><td>Arabic No</td><td>1406</td></tr><tr><td>Reference</td><td>Book 24 Hadith 11</td></tr></tbody></table></div>
 

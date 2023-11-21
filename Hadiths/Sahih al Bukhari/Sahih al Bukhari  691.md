@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Isn't he who raises his head befor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] berkata, telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Ziyad], "Aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidakkah salah seornag dari kalian takut, atau apakah salah seorang dari kalian tidak takut, jika ia mengangkat kepalanya sebelum Imam, Allah akan menjadikan kepalanya seperti kepala keledai, atau Allah akan menjadikan rupanya seperti bentuk keledai?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>691</td></tr><tr><td>Arabic No</td><td>691</td></tr><tr><td>Reference</td><td>Book 10 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Разве тот из вас, кто поднимает свою голову раньше имама, не боится, что Аллах превратит его голову в ослиную или уподобит его обличье ослиному?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>691</td></tr><tr><td>Arabic No</td><td>691</td></tr><tr><td>Reference</td><td>Book 10 Hadith 86</td></tr></tbody></table></div>
 

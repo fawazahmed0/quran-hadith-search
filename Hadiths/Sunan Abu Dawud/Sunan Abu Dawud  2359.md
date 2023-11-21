@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asma' daughter of Abu Bakr :We broke the fast one during Ramadan when i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] dan [Muhammad bin Al 'Ala'] secara makna, mereka berkata; telah menceritakan kepada kami [Abu Usamah], telah menceritakan kepada kami [Hisyam bin 'Urwah], dari [Fathimah binti Al Mundzir], dari [Asma' binti Abu Bakr], ia berkata; pada suatu hari kami berbuka pada Bulan Ramadhan dalam cuaca yang mendung pada zaman Rasulullah shallallahu 'alaihi wasallam kemudian matahari nampak. Abu Usamah berkata; aku katakan kepada Hisyam; apakah mereka diperintahkan untuk mengqadha'? Ia menjawab, Ia harus mengqadha'nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1959)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2359</td></tr><tr><td>Arabic No</td><td>2359</td></tr><tr><td>Reference</td><td>Book 14 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Асма бинт Абу Бакр, да будет доволен ею Аллах, сказала: «Однажды при жизни Посланника Аллаха ﷺ в пасмурный день рамадана мы совершили разговение, а потом выглянуло солнце». Абу Усама сказал: «Я сказал Хишаму: “А было ли велено восполнить пост?” Он сказал: “Может ли быть иначе?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1959)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2359</td></tr><tr><td>Arabic No</td><td>2359</td></tr><tr><td>Reference</td><td>Book 14 Hadith 47</td></tr></tbody></table></div>
 

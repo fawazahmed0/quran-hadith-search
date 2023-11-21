@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Hani: On the days of the conquest of Mecca, when Mecca was captured
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Jarir bin Abdul Hamid], dari [Yazid bin Abu Ziyad] dari [Abdullah bin Al Harits], dari [Ummu Hani'], ia berkata; pada saat penaklukan Mekkah Fathimah datang dan duduk di sebelah kiri Rasulullah shallallahu 'alaihi wasallam sementara Ummu Hani' di sisi kanan beliau. Ummu Hani' berkata; kemudian datanglah seorang anak wanita membawa bejana berisi air minum, kemudian ia memberikannya kepada beliau. Lalu beliau minum sebagian darinya kemudian beliau memberikannya kepada Ummu Hani', lalu ia meminum sebagian darinya dan berkata; wahai Rasulullah, sungguh saya telah berbuka, tadinya aku sedang berpuasa. Kemudian beliau berkata kepadanya: " Apakah engkau mengqadha' puasa?" Ia berkata; tidak. Lalu beliau berkata: "Hal itu tidak mengapa bagimu apabila puasa sunah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2456</td></tr><tr><td>Arabic No</td><td>2456</td></tr><tr><td>Reference</td><td>Book 14 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Хани, да будет доволен ею Аллах: «В день покорения Мекки пришла Фатима и села слева от Посланника Аллаха ﷺ». А сама Умм Хани сидела справа от него. И девочка принесла чашу с напитком и дала его Посланнику Аллаха ﷺ. Он попил и дал его Умм Хани. Она попила и сказала: «О Посланник Аллаха, я постилась, а сейчас прервала свой пост». Он спросил: «Ты сегодня восполняла какой-нибудь пост?» Она ответила: «Нет». Тогда Посланник Аллаха ﷺ сказал: «Если это был добровольный пост, тогда ничего страшного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2456</td></tr><tr><td>Arabic No</td><td>2456</td></tr><tr><td>Reference</td><td>Book 14 Hadith 144</td></tr></tbody></table></div>
 

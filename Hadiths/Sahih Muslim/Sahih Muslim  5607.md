@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the name of Zainab was Barra. It was said of her:She p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] serta [Muhammad bin Basysyar] mereka berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Atha bin Abu Maimunah], Aku mendengar [Abu Rafi'] berkata; dari [Abu Hurairah]. Demikian juga telah diriwayatkan dari jalur yang lain, Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari ['Atha bin Abu Maimunah] dari [Abu Rafi'] dari [Abu Hurairah] bahwa dulu Zainab bernama 'Barrah', lalu di katakan kepadanya; 'Apakah kamu mau menganggap dirimu telah suci? ' maka kemudian Nabi shallallahu 'alaihi wasallam menggantinya dengan nama Zainab. Lafazh Hadits mereka ini tidak menyebutkan Ibnu Basyar, dan Ibnu Abu Syaibah berkata; Telah menceritakan kepada kami Muhammad bin Ja'far dari Syubah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>2141</td></tr><tr><td>Reference</td><td>Book 38 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>2141</td></tr><tr><td>Reference</td><td>Book 38 Hadith 22</td></tr></tbody></table></div>
 

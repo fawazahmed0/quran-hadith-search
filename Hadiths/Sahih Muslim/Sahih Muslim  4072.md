@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Habib reported that he heard Abu Minhal as saying:I asked al-Bara' b. Azib about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Habib] bahwa dia mendengar [Abu Minhal] berkata; saya bertanya kepada [Barra' bin 'Azib] mengenai jual beli emas atau perak, dia menjawab, "Coba tanyakan kepada [Zaid bin Arqam], sebab dia lebih mengetahui." Lalu saya bertanya kepada Zaid, dia menjawab, "Coba kamu tanyakan kepada Barra' sebab dia lebih mengetahui." Kemudian kedua-duanya berkata, "Rasulullah shallallahu 'alaihi wasallam melarang jual beli perak dengan emas dengan pembayaran yang ditangguhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4072</td></tr><tr><td>Arabic No</td><td>1589.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4072</td></tr><tr><td>Arabic No</td><td>1589.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 111</td></tr></tbody></table></div>
 

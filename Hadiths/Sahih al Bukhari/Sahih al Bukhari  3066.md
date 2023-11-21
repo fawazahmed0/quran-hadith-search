@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) performed 'Umra, setting out from Al-Jarana wher
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hudbah bin Khalid] telah bercerita kepada kami [Hammam] dari [Qatadah] bahwa [Anas] mengabarkan kepadanya, dia berkata; Nabi Shallallahu'alaihiwasallam melaksanakan 'umrah dari Al Ji'ranah ketika (selesai) membagikan ghanimah perang Hunain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Пророк ﷺ совершил умру, отправившись из аль-Джи‘раны, где он распределил военную добычу Хунайна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
 

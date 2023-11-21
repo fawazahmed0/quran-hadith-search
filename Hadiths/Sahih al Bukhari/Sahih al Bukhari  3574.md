@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) went out on one of his journeys with s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abdurrahman bin Mubarak] telah bercerita kepada kami [Hazm] berkata; Aku mendengar [Al Hasan] berkata, telah bercerita kepada kami [Anas bin Malik radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bepergian diantara kepergiannya beliau, saat itu turut bersama beliau beberapa orang sahabat. Mereka berangkat dan melakukan perjalanan, waktu shalat pun tiba namun mereka tidak mendapatkan air untuk berwudlu'. Lalu ada seorang laki-laki dari suatu kaum datang dengan membawa segelas air. Lalu Nabi shallallahu 'alaihi wasallam mengambil gelas air tersebut dan beliau pergunakan untuk wudlu', lalu beliau buka keempat jari beliau dan beliau (letakkan) di atas gelas tersebut dan beliau sabdakan: "Bangunlah kalian untuk berwudlu'". Maka rombongan itu berwudlu' hingga memenuhi keinginan semua orang yang hendak berwudlu'. Saat itu jumlah mereka tujuh puluh orang atau sekitar itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 61 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды, когда) Пророк ﷺ вышел в путь с некоторыми из сподвижников, настало время молитвы, но у них не было воды, чтобы совершить омовение. Тогда один человек отправился искать воду и принёс небольшой сосуд, в котором было немного воды. Пророк ﷺ взял его и совершил омовение, затем протянул четыре своих пальца над горшком и сказал: “Встаньте и совершите омовение!” После чего люди совершили омовение, и их было около семидесяти человек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 61 Hadith 83</td></tr></tbody></table></div>
 

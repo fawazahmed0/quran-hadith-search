@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(the wife of the Prophet) In the lifetime of Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami ['Utsman bin 'Umar] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] berkata, telah menceritakan kepadaku [Hind binti Al Harits] bahwa [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya, bahwa para wanita di zaman Rasulullah shallallahu 'alaihi wasallam jika mereka telah selesai dari shalat fardlu, maka mereka segera beranjak pergi. Sedangkan Rasulullah shallallahu 'alaihi wasallam dan kaum laki-laki yang shalat bersama beliau tetap diam di tempat sampai waktu yang Allah kehendaki. Ketika Rasulullah shallallahu 'alaihi wasallam berdiri dan beranjak pergi maka mereka pun mengikutinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 10 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Хинд бинт аль-Харис, что Умм Саляма, жена Пророка ﷺ сообщила ей, что женщины во время Посланника Аллаха ﷺ вставали после обязательной молитвы после того, как произносили слова таслима, а Посланник Аллаха ﷺ оставался на своем месте и те кто совершал молитву из числа мужчин, столько сколько желал Аллах, а когда вставал Посланник Аллаха ﷺ то и мужчины вставали
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 10 Hadith 257</td></tr></tbody></table></div>
 

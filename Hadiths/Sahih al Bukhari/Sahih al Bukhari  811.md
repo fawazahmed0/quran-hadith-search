@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:(He was not a liar) We used to pray behind the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Isra'il] dari [Abu Ishaq] dari ['Abdullah bin Yazid Al Khaththami] telah menceritakan kepada kami [Al Bara' bin 'Azib] -dan dia bukanlah pendusta- bahwa dia berkata, "Kami pernah shalat di belakang Nabi shallallahu 'alaihi wasallam, ketika beliau mengucapkan: 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar pujian orang yang memuji-Nya) ', tidak seorang pun dari kami yang membungkukkan punggungnya hingga Nabi shallallahu 'alaihi wasallam meletakkan keningnya di atas tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>811</td></tr><tr><td>Arabic No</td><td>811</td></tr><tr><td>Reference</td><td>Book 10 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Бараа ибн ‘Азиб сказал: «Мы совершали молитву позади Пророка ﷺ и когда он говорил: «Сами‘а-Ллаху лиман хамидах», никто из нас не сгибал спины, пока Пророк ﷺ не опускал свой лоб на землю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>811</td></tr><tr><td>Arabic No</td><td>811</td></tr><tr><td>Reference</td><td>Book 10 Hadith 206</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:I heard Um Ad-Darda' saying, "Abu Ad-Darda' entered the house in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Al A'masy] berkata, aku mendengar [Salim] berkata, "Aku mendengar [Ummu Darda'] berkata, " [Abu Darda'] datang menemuiku dalam keadaan marah. Aku lalu bertanya kepadanya, 'Apa yang membuatmu marah? ' Maka dia menjawab, "Demi Allah, tidak ada yang aku kenal dari umat Muhammad kecuali bahwa mereka selalu shalat berjama'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 10 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ад-Дардаъ сказала: «(Однажды) ко мне зашёл Абу ад-Дардаъ, который был разгневан, и я сказала: “Что разгневало тебя?” Он ответил: “Клянусь Аллахом, я узнаю из (дел) уммы Мухаммада лишь то, что они совершают намаз вместе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 10 Hadith 47</td></tr></tbody></table></div>
 

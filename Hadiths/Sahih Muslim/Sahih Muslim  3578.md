@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:My foster-uncle Abu'l Ja'd (kunya of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Al Hasan bin Ali Al Hulwani] dan [Muhammad bin Rafi'] keduanya berkata; Telah mengabarkan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ibnu Juraij] dari ['Atha'] telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwasannya [Aisyah] telah mengabarkan kepadanya, dia berkata; Pamanku dari sesusuan yaitu Abu Ja'd meminta izin menemuiku, namun saya menolaknya. Hisyam berkata kepadaku; Dia adalah Abu Al Qu'ais, ketika Nabi shallallahu 'alaihi wasallam datang, saya menceritakan hal itu kepadanya, beliau bersabda: "Beruntunglah kamu, tidakkah kamu mengizinkannya masuk untuk menemuimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3578</td></tr><tr><td>Arabic No</td><td>1445.08</td></tr><tr><td>Reference</td><td>Book 17 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3578</td></tr><tr><td>Arabic No</td><td>1445.08</td></tr><tr><td>Reference</td><td>Book 17 Hadith 11</td></tr></tbody></table></div>
 

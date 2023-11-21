@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’d b. Abl Waqqas reported the prophet (ﷺ) as saying:He who has a morning m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hasyim bin Hasyim] dari ['Amir bin Sa'd bin Abu Waqqash] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa pada pagi hari makan tujuh butir kurma 'ajwah, maka pada hari itu ia tidak akan terkena racun dan sihir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн Са‘д ибн Абу Ваккас передаёт от своего отца, что Пророк ﷺ сказал: «Кто съедает с утра (, до того, как он съест что-то другое,) семь фиников сорта аджва, тому не повредит в этот день ни яд, ни колдовство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nabaih b. Wahb reported that Umar b. 'Ubaidullah b. Ma'mar intended to marry his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [ayahku] dari [kakekku] telah menceritakan kepadaku [Khalid bin Yazid] telah menceritakan kepadaku [Sa'id bin Abi Hilal] dari [Nubaih bin Wahb] bahwa Umar bin Ubaidillah bin Ma'mar hendak menikahkan anaknya yaitu Thalhah dengan putri Syaibah bin Jubair pada waktu haji, sedangkan [Aban bin Utsman] waktu itu menjadi amirul haji (pemandu jama'ah haji), lalu dia mengutus seseorang kepada Aban seraya berkata; Sesungguhnya saya hendak menikahkan Thalhah bin Umar, saya suka jika kamu menghadiri pernikahan tersebut, lantas Aban berkata kepadanya; Tidaklah saya menganggapmu orang iraq yang bermadzhab (namun tidak tahu sunnah), sesungguhnya saya mendengar [Utsman bin 'Affan] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang berihram tidak diperbolehkan untuk menikah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3450</td></tr><tr><td>Arabic No</td><td>1409.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3450</td></tr><tr><td>Arabic No</td><td>1409.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 53</td></tr></tbody></table></div>
 

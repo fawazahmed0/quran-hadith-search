@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Quraish used to fast on the day of 'Ashura' in the Pre-Islamic pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] bahwa ['Aisyah radliallahu 'anha] berkata: "Orang-orang Quraisy pada masa Jahiliyah melaksanakan puasa hari 'Asyura' dan Rasulullah shallallahu 'alaihi wasallam melaksanakannya. Ketika Beliau sudah tinggal di Madinah Beliau tetap melaksanakannya dan memerintahkan orang-orang untuk melaksanakannya pula. Setelah diwajibklan puasa Ramadhan Beliau meninggalkannya. Maka siapa yang mau silakan berpuasa dan siapa yang tidak mau silakan meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2002</td></tr><tr><td>Arabic No</td><td>2002</td></tr><tr><td>Reference</td><td>Book 30 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2002</td></tr><tr><td>Arabic No</td><td>2002</td></tr><tr><td>Reference</td><td>Book 30 Hadith 107</td></tr></tbody></table></div>
 

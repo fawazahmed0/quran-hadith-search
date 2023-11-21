@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uthman ibn Abul'As: The Prophet (nay peace be upon him) commanded him t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Raja' bin Al Murajja] telah menceritakan kepada kami [Abu Hammam Ad Dallal, Muhammad bin Muhabbab] telah menceritakan kepada kami [Sa'id bin As Sa'ib] dari [Muhammad bin Abdullah bin 'Iyadl] dari [Utsman bin Abu Al Ash] bahwasanya Nabi Shallallahu alaihi wasallam pernah memerintahkannya untuk menjadikan masjid bagi penduduk Thaif di tempat yang dahulunya (untuk menyimpan) patung-patung mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>450</td></tr><tr><td>Arabic No</td><td>450</td></tr><tr><td>Reference</td><td>Book 2 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Усмана ибн Абуль-‘Аса: «Пророк ﷺ велел ему построить мечеть в Таифе, несмотря на то, что там ещё были идолы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>450</td></tr><tr><td>Arabic No</td><td>450</td></tr><tr><td>Reference</td><td>Book 2 Hadith 60</td></tr></tbody></table></div>
 

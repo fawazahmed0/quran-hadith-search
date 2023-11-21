@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah: A man said: Messenger of Allah, allow tourism for me. The Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Utsman At Tanukhi Abu Al Jamahir], telah menceritakan kepada kami [Al Haitsam bin Humaid], telah mengabarkan kepadaku [Al 'Ala' bin Al Harits] dari [Al Qasim bin Abdurrahman] dari [Abu Umamah], bahwa seorang laki-laki berkata; wahai Rasulullah, izinkan aku untuk berkelana! Nabi shallallahu 'alaihi wasallam berkata: "Sesungguhnya pengelanaan (pengembaraan) umatku adalah berjihad di jalan Allah ta'ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2486</td></tr><tr><td>Arabic No</td><td>2486</td></tr><tr><td>Reference</td><td>Book 15 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Умамы, да будет доволен им Аллах, что (как-то раз один) человек сказал: «О Посланник Аллаха, позволь мне отправиться в путешествие», (на что) Пророк ﷺ сказал (ему): «Поистине, путешествием для (членов) моей общины является борьба на пути Всемогущего и Великого Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2486</td></tr><tr><td>Arabic No</td><td>2486</td></tr><tr><td>Reference</td><td>Book 15 Hadith 10</td></tr></tbody></table></div>
 

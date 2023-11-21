@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Rabbihi b. Sa'id al-Ansari said:'Ariyyah means that a man gives another man 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] telah menceritakan kepada kami [Ibnu Wahb], ia berkata; telah mengabarkan kepadaku [Amr bin Al Harits] dari [Abdu Rabbihi bin Sa'id Al Anshari] bahwa ia berkata; 'ariyah adalah seseorang menyewakan pohon kurma atau seseorang mengecualikan satu atau dua pohon kurma dari hartanya yang ia makan dan menjualnya dengan kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3365</td></tr><tr><td>Arabic No</td><td>3365</td></tr><tr><td>Reference</td><td>Book 23 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абд Раббихи ибн Са‘ид аль-Ансари, да будет доволен им Аллах, сказал: «‘Ариййа это когда один человек отдаёт другому пальму, или же человек выбирает из своих пальм одну или две пальмы, с которых он ест, и продаёт [свежие плоды] за сушёные финики»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3365</td></tr><tr><td>Arabic No</td><td>3365</td></tr><tr><td>Reference</td><td>Book 23 Hadith 40</td></tr></tbody></table></div>
 

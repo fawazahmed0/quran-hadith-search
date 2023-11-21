@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:The Prophet (ﷺ) said, "Who-ever loves to meet All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Anas] dari [Ubadah bin Shamit] dari Nabi shallallahu 'alaihi wasallam, bersabda: "Barangsiapa Mencintai perjumpaan dengan Allah, Allah juga mencintai perjumpaan dengannya, sebaliknya barangsiapa membenci perjumpaan dengan Allah, Allah juga membenci perjumpaan dengannya." Kontan 'Aisyah atau sebagian isteri beliau berkomentar 'kami juga cemas terhadap kematian! ' Nabi lantas bersabda: "Bukan begitu maksudnya, namun maksud yang benar, seorang mukmin jika kematian menjemputnya, ia diberi kabar gembira dengan keridhaan Allah dan karamah-Nya, sehingga tak ada sesuatu apapun yang lebih ia cintai daripada apa yang dihadapannya, sehingga ia mencintai berjumpa Allah, dan Allah pun mencintai berjumpa kepadanya. Sebaliknya orang kafir jika kematian menjemputnya, ia diberi kabar buruk dengan siksa Allah dan hukuman-Nya, sehingga tidak ada yang lebih ia cemaskan daripada apa yang di hadapannya, ia membenci berjumpa Allah, sehingga Allah pun membenci berjumpa dengannya." [Abu Daud] dan [Amru] meringkasnya dari [Syu'bah] dan [Said] mengatakan dari [Qatadah] dari [Zurarah] dari [Sa'd] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6507</td></tr><tr><td>Arabic No</td><td>6507</td></tr><tr><td>Reference</td><td>Book 81 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убады ибн ас-Самита, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Аллах желает встречи с тем, кто желает встретиться с Ним, что же касается не желающего встречи с Аллахом, то и Аллах не желает встречи с ним». (Услышав эти слова,) ‘Аиша (или: одна из жён Пророка ﷺ) сказала: «Но мы ведь не желаем смерти!» — (на что Пророк ﷺ) сказал: «(Речь идёт) не об этом, (а о том, что,) когда к верующему приходит смерть, ему сообщают радостную весть о благоволении Аллаха по отношению к нему и том, что Он почтил Его, и нет для него (в этот момент) ничего дороже того, что (его ожидает), и он желает встречи с Аллахом, а Аллах желает встречи с ним. Что же касается неверного, то, поистине, когда смерть приходит к нему, ему сообщают дурные вести о том, что Аллах подвергнет его мукам и наказанию, и нет для него (в этот момент) ничего ненавистнее того, что (его ожидает), и он не желает встречи с Аллахом, а Аллах не желает встречи с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6507</td></tr><tr><td>Arabic No</td><td>6507</td></tr><tr><td>Reference</td><td>Book 81 Hadith 96</td></tr></tbody></table></div>
 

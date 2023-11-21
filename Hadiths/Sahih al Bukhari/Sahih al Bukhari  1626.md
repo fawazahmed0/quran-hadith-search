@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(the wife of the Prophet) I informed Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Muhammad bin 'Abdurrahman] dari ['Urwah] dari [Zainab] dari [Ummu Salamah radliallahu 'anha]; "Aku mengadu kepada Rasulullah Shallallahu'alaihiwasallam ". Dan diriwayatkan pula, telah menceritakan kepada saya [Muhammad bin Harb] telah menceritakan kepada kami [Abu Marwan Yahya bin Abu Zakariya' Al Ghossaniy] dari [Hisyam] dari ['Urwah] dari [Ummu Salamah radliallahu 'anhah], isteri Nabi Shallallahu'alaihiwasallam, bahwa Rasulullah Shallallahu'alaihiwasallam berkata, ketika Beliau berada di Makkah dan hendak keluar darinya, sedangkan Ummu Salamah belum melaksanakan thawaf di Ka'bah Baitullah dan dia juga hendak keluar (dari Makkah), Rasulullah Shallallahu'alaihiwasallam berkata kepadanya: "Jika shalat Shubuh sudah dibacakan iqamatnya maka thawaf lah kamu diatas untamu saat orang-orang sedang melaksanakan shalat". Maka aku laksanakan perintah itu dan aku tidak shalat (sunnah thawaf) hingga aku keluar (dari Baitullah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1626</td></tr><tr><td>Arabic No</td><td>1626</td></tr><tr><td>Reference</td><td>Book 25 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «(Во время хаджа) я пожаловалась Посланнику Аллаха ﷺ на болезнь». Через другую цепочку передатчиков сообщается, что Умм Саляма, жена Пророка ﷺ рассказала, что когда Посланник Аллаха ﷺ был в Мекке и решил покинуть её (Мекку), она (Умм Саляма) ещё не совершила таваф вокруг Каабы, и хотела уехать вместе с людьми. Посланник Аллаха ﷺ сказал ей: «Когда будет совершаться утренняя молитва, соверши таваф верхом на верблюде, пока люди молятся». Она так и сделала. И она не совершала молитву (два рак‘ата, совершаемые после тавафа), пока не вышла из мечети
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1626</td></tr><tr><td>Arabic No</td><td>1626</td></tr><tr><td>Reference</td><td>Book 25 Hadith 110</td></tr></tbody></table></div>
 

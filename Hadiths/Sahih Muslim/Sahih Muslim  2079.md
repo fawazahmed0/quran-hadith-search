@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The people were in the grip of famine during the lifetime
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2079</td></tr><tr><td>Arabic No</td><td>897.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «(Однажды) при жизни Посланника Аллаха ﷺ людей поразила засуха. Как-то раз, когда Посланник Аллаха ﷺ произносил пятничную проповедь, стоя на минбаре (со своего места) поднялся один бедуин и сказал: “О Посланник Аллаха! (Наше) имущество пропало, а дети голодают…”.Далее он привёл хадис подобно предыдущему, но в этой версии также говорится: «…он (Пророк ﷺ) сказал: “О Аллах, вокруг нас, а не на нас”. И после этого куда бы он ни указал своей рукой, тучи там расходились, и очистившееся (небо над) Мединой стало подобно дыре среди (окружавших город) туч. Что же касается долины Канат, то вода в нём (после этого) текла ещё целый месяц, и (впоследствии) каждый человек, откуда бы он ни приезжал (в Медину), обязательно рассказывал об этом сильнейшем дожде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2079</td></tr><tr><td>Arabic No</td><td>897.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) called for the Ansar and gathered them
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [Anas bin Malik] dan [Al Laits] mengatakan; telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Anas bin Malik] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam menyuruh seseorang menemui orang-orang Anshar, sementara mereka tengah berkumpul di dalam kemah besar yang terbuat dari kulit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5860</td></tr><tr><td>Arabic No</td><td>5860</td></tr><tr><td>Reference</td><td>Book 77 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ послал за ансарами и собрал их в кожаном шатре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5860</td></tr><tr><td>Arabic No</td><td>5860</td></tr><tr><td>Reference</td><td>Book 77 Hadith 77</td></tr></tbody></table></div>
 

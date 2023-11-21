@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:We used to say the greeting, name and greet each o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Isa] telah menceritakan kepada kami [Abu 'Abdush Shamad 'Abdul 'Aziz bin 'Abdush Shamad] telah menceritakan kepada kami [Hushain bin 'Abdurrahman] dari [Abu Wa'il] dari ['Abdullah bin Mas'ud radliallahu 'anhu] berkata; "Kami pernah membaca at-tahiyat dalam shalat, yang dalam tersebut kami menyebut nama dan memberi salam kepada beberapa diantara kami. Hal ini kemudian didengar oleh Rasulullah shallallahu 'alaihi wasallam hingga akhirnya Beliau bersabda: "Bacalah: "Attahiyyaatu lillahi washshalawaatu waththayyibaat. Assalaamu 'alaika ayyuhannabiyyu wa rahmatullohi wa barakaatuh. Assalaamu 'alainaa wa 'alaa 'ibaadillahish shaolihiin. Asyhadu allaa ilaaha illallah wa asyhadu anna Muhammadan 'abduhu wa rasuuluh" " (Segala penghormatan hanya milik Allah, juga segala pengagungan dan kebaikan. Semoga kesejahteraan terlimpahkan kepada engkau wahai Nabi dan juga rahmat dan berkahNya. Dan juga semoga kesejahteraan terlimpahkan kepada kami dan kepada hamba-hamba Allah yang shalih. Aku bersaksi tidak ada ilah yang berhaq disembah selain Allah dan aku bersaksi bahwa Muhammad adalah hamba dan utusanNya"). Karena apabila kalian melakukan seperti ini, maka berarti kalian telah mengucapkan salam kepada seluruh hanba Allah yang shalih yang ada di langit dan bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1202</td></tr><tr><td>Arabic No</td><td>1202</td></tr><tr><td>Reference</td><td>Book 21 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: \n— Совершая молитвы, мы обычно произносили приветствие /тахиййа/, называя друг друга по имени, и приветствовали друг друга в молитве. И Посланник Аллаха ﷺ услышал это и сказал: «Говорите: “Приветствия, молитвы и всё благое Аллаху, мир тебе, о Пророк, милость Аллаха и благословения Его, мир нам и всем праведным рабам Аллаха. Свидетельствую, что нет бога [заслуживающего поклонение], кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник /Ат-тахиййату ли-Лляхи, ва-с-салявату ва-т-таййибату, ас-саляму ‘аляй-ка, аййуха-н-набиййу, ва рахмату-Ллахи ва баракату-ху, ас-саляму ‘аляй-на ва ‘аля ‘ибади-Лляхи-с-салихин. Ашхаду алля иляха илля-Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху /”. Поистине, если вы сделаете это, вы пошлете приветствие каждому праведному рабу на небе и на земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1202</td></tr><tr><td>Arabic No</td><td>1202</td></tr><tr><td>Reference</td><td>Book 21 Hadith 6</td></tr></tbody></table></div>
 

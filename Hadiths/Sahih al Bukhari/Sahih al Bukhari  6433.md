@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I brought water to 'Uthman bin 'Affan to perform the ablutio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Muhammad bin Ibrahim Al Qurasiy] dia berkata; telah mengabarkan kepadaku [Mu'adz bin Abdurrahman] bahwa [Humran bin Aban] telah mengabarkan kepadanya, dia berkata; Aku mendatangi [Utsman bin 'Affan] ketika sedang bersuci, dia duduk di atas bangku lalu berwudlu' dengan membaguskan wudlu'nya, kemudian dia berkata; "Saya pernah melihat Nabi shallallahu 'alaihi wasallam berwudlu di tempat ini, beliau membaguskan wudlu'nya lalu beliau bersabda: 'Barangsiapa berwudlu seperti ini kemudian mendatangi masjid dan shalat dua raka'at, lalu duduk, maka akan terampuni dosa-dosanya yang telah lalu.'" Ustman berkata; Nabi shallallahu 'alaihi wasallam juga bersabda: 'Dan janganlah kalian tertipu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6433</td></tr><tr><td>Arabic No</td><td>6433</td></tr><tr><td>Reference</td><td>Book 81 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал Ибн Абан, да будет доволен им Аллах: «Я принёс Усману ибн ‘Аффану воду для совершения омовения, когда он сидел на своём месте. Он совершил омовение совершенным образом и сказал: “Я видел, как Пророк ﷺ, совершал омовение в этом месте, и он совершил его совершенным образом и сказал: “Кто совершит омовение, как я в этот раз (его совершил), а затем отправится в мечеть и совершит двухрак‘атную молитву, а затем сядет, тому будут прощены его прошлые грехи”. И сказал (далее добавил) Пророк ﷺ: “Не обольщайтесь (думая, что ваши грехи будут прощены из-за вашей молитвы, этим самым пренебрегая грехами)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6433</td></tr><tr><td>Arabic No</td><td>6433</td></tr><tr><td>Reference</td><td>Book 81 Hadith 22</td></tr></tbody></table></div>
 

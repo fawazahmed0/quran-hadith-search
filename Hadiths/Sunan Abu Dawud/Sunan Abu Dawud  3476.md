@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buhaisah:On the authority of her father: My father asked the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Kahmas] dari [Sayyar bin Manzhur] seorang laki-laki dari Bani Fazarah, dari [Ayahnya] dari seorang wanita yang dipanggil [Buhaisah] dari [Ayahnya] ia berkata, "Ayahku minta izin kepada Nabi shallallahu 'alaihi wasallam, kemudian ia masuk di antara badan dan jubahnya, lalu mencium dan merangkulnya. Kemudian ia berkata, "Wahai Nabi Allah, apakah yang tidak boleh untuk ditahan?" Beliau menjawab: "Air." Ia bertanya lagi, "Wahai Nabi Allah, apakah yang tidak boleh untuk ditahan?" Beliau menjawab: "Garam." Ia bertanya lagi, "Wahai Nabi Allah, apakah yang tidak boleh untuk ditahan?" Beliau menjawab: "Engkau berbuat kebaikan lebih baik bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3476</td></tr><tr><td>Arabic No</td><td>3476</td></tr><tr><td>Reference</td><td>Book 24 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Женщина по имени Бухайса передаёт: «Мой отец попросил у Пророка ﷺ разрешения и поцеловал его и обнял его под его рубашкой, а потом спросил: “О Пророк Аллаха! В чём нельзя отказывать другим?” Он ответил: “В воде”. Он снова спросил: “О Пророк Аллаха! В чём нельзя отказывать другим?” (Посланник Аллаха ﷺ) ответил: “В соли”. Он снова спросил: “О Пророк Аллаха! В чём нельзя отказывать другим?” (Посланник Аллаха ﷺ) ответил: “Лучше тебе делать добро”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3476</td></tr><tr><td>Arabic No</td><td>3476</td></tr><tr><td>Reference</td><td>Book 24 Hadith 61</td></tr></tbody></table></div>
 

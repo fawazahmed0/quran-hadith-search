@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Duba'ah daughter of az-Zubayr ibn AbdulMuttalib: Al-Miqdad went to Baqi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ja'far bin Musafir] telah menceritakan kepada kami [ibnu Abu Fudaik], telah menceritakan kepada kami [Az Zam'i], dari [bibinya yaitu Quraibah binti Abdullah bin Wahb] dari [ibunya yaitu karimah binti Al Miqdad] dari [Dhuba'ah binti Az Zubair bin Abdul Muththalib bin Hasyim] bahwa ia telah mengabarkan kepadanya, ia berkata; Al Miqdad pergi untuk suatu keperluannya di Baqi' Al Khabkhabah, tiba-tiba terdapat tikus yang mengeluarkan dari lubangnya uang satu dinar, kemudian terus mengeluarkan satu dinar-satu dinar hingga ia mengeluarkan tujuh belas dinar. Kemudian tikus tersebut mengeluarkan secarik kain berwarna merah yang berisi dinar. Sehingga dinar tersebut berjumlah tujuh belas. Kemudian Al Miqdad membawanya kepada Nabi shallallahu 'alaihi wasallam dan mengabarkan hal tersebut kepadanya. dan beliau berkata: "Ambillah sedekahnya." Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Apakah engkau engkau memasukkan tanganmu ke lubang?" ia berkata; tidak. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepadanya: "Semoga Allah memberimu berkah padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Arabic No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 20 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Дуба‘и бинт аз-Зубайр ибн Абду-ль-Мутталиб ибн Хашим, да будет доволен ею Аллах: «Аль-Микдад отправился по нужде в Бакы‘-аль-Хабхабу и там увидел, как крысы вытаскивают из норы динар. Потом они вытащили один за другим семнадцать динаров, а потом кусочек красной ткани, в которую также был завернут динар. То есть всего было восемнадцать динаров. Он взял эти динары, отнёс Пророку ﷺ и рассказал ему обо всём. Он сказал ему: “Возьми их милостыню”. Пророк ﷺ спросил: “Ты залезал в нору?” Он сказал: “Нет”. Посланник Аллаха ﷺ сказал ему: “Да сделает Аллах их благословенными для тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Arabic No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 20 Hadith 160</td></tr></tbody></table></div>
 

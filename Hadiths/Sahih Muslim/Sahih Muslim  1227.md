@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (raa), l'Envoyé de Dieu (paix et bénédiction de Dieu sur lui
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dalam sesuatu yang dibacakan di hadapannya dari [Hisyam bin Urwah] dari [Bapaknya] dari [Aisyah ra] bahwa Nabi Shallallahu'alaihiwasallam melihat ludah atau ingus atau dahak pada dinding masjid arah kiblat, lalu beliau mengeriknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>549</td></tr><tr><td>Reference</td><td>Book 5 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что (однажды) Посланник Аллаха ﷺ увидел на стене (мечети, направленной в сторону) киблы плевок (или: … мокроту; или: … слизь), и соскоблил его (собственноручно)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>549</td></tr><tr><td>Reference</td><td>Book 5 Hadith 65</td></tr></tbody></table></div>
 

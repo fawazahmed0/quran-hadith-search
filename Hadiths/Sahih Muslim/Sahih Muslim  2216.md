@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abd al-Rahman b. Abu Laila that Zaid used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] mereka berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] - [Abu Bakr] berkata- dari [Syu'bah] dari [Amru bin Murrah] dari [Abdurrahman bin Abu Laila] ia berkata; [Zaid] biasa bertakbir empat kali (menshalati) jenazah kami. Namun suatu ketika ia bertakbir sebanyak lima kali, maka saya pun bertanya padanya. Ia menjawab, "Sebanyak itulah Rasulullah shallallahu 'alaihi wasallam bertakbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2216</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 11 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Аби Лейля сказал: «Обычно Зейд четырежды произносил слова “Аллах велик” над нашими покойниками, но (однажды) он произнёс их пять раз. Я спросил его, почему он поступил так, и (Зейд) сказал: “(Иногда) Посланник Аллаха ﷺ произносил их (пять раз)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2216</td></tr><tr><td>Arabic No</td><td>957</td></tr><tr><td>Reference</td><td>Book 11 Hadith 94</td></tr></tbody></table></div>
 

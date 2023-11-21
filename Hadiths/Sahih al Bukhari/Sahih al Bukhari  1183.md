@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah Al-Muzni:The Prophet (ﷺ) said, "Pray before the Maghrib (co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] dari [Al Hasan] dari ['Abdullah bin Buraidah] berkata, telah menceritakan kepada saya ['Abdullah Al Muzaniy] dari Nabi shallallahu 'alaihi wasallam bersabda: "Shalatlah sebelum shalat Maghrib!". Beliau berkata, pada kali ketiganya: "Bagi siapa yang mau". Hal ini Beliau sampaikan karena khawatir nanti orang-orang akan menjadikannya sebagai sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1183</td></tr><tr><td>Arabic No</td><td>1183</td></tr><tr><td>Reference</td><td>Book 19 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха аль-Музани, да будет доволен им Аллах, что как-то раз Пророк ﷺ трижды сказал: «Совершайте молитву перед закатной молитвой», а на третий раз добавил: «(Это) для тех, кто захочет», не желая, чтобы люди считали это (обязательной) сунной
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1183</td></tr><tr><td>Arabic No</td><td>1183</td></tr><tr><td>Reference</td><td>Book 19 Hadith 60</td></tr></tbody></table></div>
 

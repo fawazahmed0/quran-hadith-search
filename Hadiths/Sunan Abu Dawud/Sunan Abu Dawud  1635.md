@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ata ibn Yasar: The Prophet (ﷺ) said: Sadaqah may not be given to rich
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tidak halal zakat bagi orang kaya kecuali bagi lima orang, yaitu orang yang berperang di jalan Allah, atau petugas zakat, atau orang yang berhutang, atau seseorang yang membelinya dengan hartanya, atau orang yang memiliki tetangga miskin kemudian orang miskin tersebut diberi zakat, lalu ia memberikannya kepada orang yang kaya." Telah menceritakan kepada Kami [Al Hasan bin Ali], telah menceritakan kepada Kami [Abdurrazzaq], telah mengabarkan kepada Kami [Ma'mar] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Sa'id Al Khudri], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: ……. sama dengan makna hadits tersebut. Abu Daud berkata; [Ibnu 'Uyainah] telah meriwayatkannya dari [Zaid] sebagaimana yang dikatakan Malik. Dan Ats Tsauri telah meriwayatkannya dari Zaid, ia berkata; telah menceritakan kepadaku Ats Tsabtu dari Nabi shallallahu 'alaihi wasallam …
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1635</td></tr><tr><td>Arabic No</td><td>1635</td></tr><tr><td>Reference</td><td>Book 9 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Ата ибн Йасар, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Никому из состоятельных не разрешается брать из закята, за исключением пяти. Это сражающийся на пути Аллаха, сборщик закята, должник, человек, купивший это на свои деньги, и человек, у которого был бедный сосед, и ему подали, а тот подарил это ему, состоятельному»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1635</td></tr><tr><td>Arabic No</td><td>1635</td></tr><tr><td>Reference</td><td>Book 9 Hadith 80</td></tr></tbody></table></div>
 

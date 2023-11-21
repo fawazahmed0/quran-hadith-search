@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that the Messenger of Allah (ﷺ) gathered the Ansar and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] - [Ibnul Mutsanna] berkata- telah menceritakan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepada kami [Syu'bah] ia berkata, saya mendengar [Qatadah] dari [Anas bin Malik] ia berkata; Rasulullah shallallahu 'alaihi wasallam mengumpulkan orang-orang Anshar, kemudian beliau bersabda: "Adakah orang lain yang ikut berkumpul bersama kalian?" mereka menjawab, "Tidak, kecuali anak-anak perempuan kami." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Anak saudara perempuan suatu kaum adalah termasuk kaum itu sendiri." Kemudian beliau melanjutkan sabdanya: "Sesungguhnya orang-orang Quraisy itu baru saja keluar dari masa Jahiliyah dan musibah. Karena itu, aku bermaksud untuk menghibur dan mengikat hati mereka. Apakah kalian tidak rela mereka pulang dengan harta benda dunia, sedangkan kalian pulang bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam? kalaulah mereka melewati suatu lembah, dan orang-orang Anshar melewati bukit lain, niscaya aku akan mengikuti jalan bukit yang dilalui oleh kaum Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2439</td></tr><tr><td>Arabic No</td><td>1059.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «Однажды Посланник Аллаха ﷺ собрал ансаров и спросил: “Есть ли среди вас кто-то, не относящийся к вам?” Они ответили: “Нет, если не считать сына одной из наших сестёр”. Тогда Посланник Аллаха ﷺ сказал: “Сын сестры кого-либо из людей относится к ним”. Затем он сказал: “Поистине, курайшиты только недавно приняли ислам и претерпели (немало) лишений, а мне хочется помочь им и добиться их расположения, так не согласитесь ли вы на то, чтобы люди вернулись к себе домой с (благами) этого мира, а вы с Посланником Аллаха? Если люди пойдут долиной, а ансары ущельем, я обязательно пойду ущельем ансаров!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2439</td></tr><tr><td>Arabic No</td><td>1059.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 176</td></tr></tbody></table></div>
 

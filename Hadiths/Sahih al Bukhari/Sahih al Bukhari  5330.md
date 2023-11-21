@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Hasan:Ma'qil gave his sister in marriage and later her husband divor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] Telah mengabarkan kepada kami [Abdul Wahhab] Telah menceritakan kepada kami [Yunus] dari [Al Hasan] ia berkata; Ma'qil telah menikahkan saudara perempuannya, lalu sang suami menceraikannya dengan talak satu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5330</td></tr><tr><td>Arabic No</td><td>5330</td></tr><tr><td>Reference</td><td>Book 68 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Хасан сказал: «Ма‘кыль выдал замуж свою сестру, а затем её муж дал ей один развод»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5330</td></tr><tr><td>Arabic No</td><td>5330</td></tr><tr><td>Reference</td><td>Book 68 Hadith 75</td></tr></tbody></table></div>
 

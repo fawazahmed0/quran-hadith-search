@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ali bin Hujr] -Yahya berkata- telah mengabarkan kepada kami -sementara yang lain berkata- Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Abdullah bin Dinar] bahwa ia mendengar [Ibnu Umar] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan penduduk Madinah untuk melakukan Ihram dari Dzulhulaifah, bagi penduduk Syam dari Juhfah, dan bagi penduduk Najed dari Qar. Dan Abdullah bin Umar radliallahu 'anhuma berkata; Dan telah dikabarkan kepadaku bahwa beliau bersabda: "Dan penduduk Yaman melakukan Ihram dari Yalamlam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2807</td></tr><tr><td>Arabic No</td><td>1182.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2807</td></tr><tr><td>Arabic No</td><td>1182.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The Last Hour would not c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Mu'alla bin Manhsur] telah menceritakan kepada kami [Sulaiman bin Bilal] telah menceritakan kepada kami [Suhail] dari [ayahnya] dari [Abu Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidak akan terjadi hari kiamat hingga bangsa Romawi turun ke medan perang di suatu tempat bernama A'maq atau Dabiq, sehingga ada sekelompok pasukan dari Madinah yang keluar menghadapi mereka. Mereka adalah sebaik-baik penduduk bumi ketika itu. Dan tatkala mereka berhadapan, pasukan Romawi berkata: 'Biarkanlah kami memerangi orang-orang yang menawan kami! ' Kaum muslimin menjawab: 'Tidak, demi Allah, kami tidak akan membiarkan kalian memerangi saudara-saudara kami.' Maka terjadilah peperangan antara mereka. Lalu ada sepertiga yang kalah dimana Allah tidak akan mengampuni dosa mereka untuk selamanya, dan sepertiga lagi terbunuh sebagai sebaik-baik para syuhada' di sisi Allah, dan sepertiga lagi Allah memberikan kemenangan kepada mereka. Mereka tidak akan ditimpa sebuah fitnah untuk selamanya, lalu selanjutnya mereka menaklukkan kostantinopel. Dan ketika mereka sedang membagi-bagi harta rampasan perang dan tengah menggantungkan pedang-pedang mereka pada pohon zaitun, tiba-tiba setan meneriaki mereka 'Sesungguhnya Al Masih telah muncul di tengah-tengah keluarga kalian, ' merekapun berhamburan keluar, dan ternyata itu hanyalah kebohongan belaka. Ketika mereka mendatangi Syam, ia muncul. Dan ketika mereka sedang mempersiapkan peperangan dan sedang merapikan barisan, tiba-tiba datanglah waktu shalat, dan turunlah Nabi Isa bin Maryam Shallallahu 'alaihi wa Salam, lalu ia mengimami mereka. Dan apabila musuh Allah (Dajjal) melihatnya, niscaya ia akan meleleh sebagaimana garam yang mencair di dalam air, meskipun seandainya saja ia membiarkannya nantinya ia juga akan meleleh lalu binasa akan tetapi Allah menginginkan ia membunuhnya dengan tangannya lalu memperlihatkan kepada mereka darahnya yang berada di ujung tombaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7278</td></tr><tr><td>Arabic No</td><td>2897</td></tr><tr><td>Reference</td><td>Book 54 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7278</td></tr><tr><td>Arabic No</td><td>2897</td></tr><tr><td>Reference</td><td>Book 54 Hadith 44</td></tr></tbody></table></div>
 

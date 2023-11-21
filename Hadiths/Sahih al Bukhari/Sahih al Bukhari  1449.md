@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I am a witness that Allah's Messenger (ﷺ) offered the Id p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari ['Atha' bin Abu Rabah] berkata; [Ibnu 'Abbas radliallahu 'anhu] berkata,: "Aku ikut menyaksikan Rasulullah Shallallahu'alaihiwasallam melaksanakan shalat 'Ied sebelum khuthbah dan Beliau menganggap bahwa khuthbahnya tidak terdengar oleh jama'ah wanita. Akhirnya Beliau mendatangi mereka bersama Bilal yang membentangkan pakainnya lalu Beliau memberi nasehat kepada mereka serta memerintahkan mereka untuk bershadaqah. Maka ada seorang wanita diantara mereka yang memberi shadaqah". Ayyub menunjuk pada telinga dan tenggorokannya" (maksudnya bersedekah dengan anting dan kalung)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1449</td></tr><tr><td>Arabic No</td><td>1449</td></tr><tr><td>Reference</td><td>Book 24 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я был свидетелем того, как Посланник Аллаха ﷺ совершил (праздничную) молитву до произнесения проповеди. Затем он понял, что женщины его не слышат, и отправился к ним с Билялем, который расстелил свою одежду. Пророк ﷺ произнес проповедь, в которой приказал, давать милостыню и женщины начали кидать свои украшения». И Аюб (передатчик) указал на свои уши и шею, (имея в виду, что они давали украшения из этих мест, такие как серьги и ожерелья)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1449</td></tr><tr><td>Arabic No</td><td>1449</td></tr><tr><td>Reference</td><td>Book 24 Hadith 52</td></tr></tbody></table></div>
 

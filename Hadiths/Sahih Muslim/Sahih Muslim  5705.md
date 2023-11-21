@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), une juive avait offert une brebis empoisonné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi]; Telah menceritakan kepada kami [Khalid bin Al Harits]; Telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] dari [Anas] bahwa seorang perempuan Yahudi mengantarkan daging yang telah dibubuhi racun kepada Nabi shallallahu 'alaihi wasallam, lalu beliau makan sebagian. Kemudian perempuan itu dipanggil ke hadapan Rasulullah shallallahu 'alaihi wasallam, lalu beliau menanya kepadanya tentang racun itu. Jawabnya; 'Aku sengaja hendak membunuh Anda.' Sabda Nabi shallallahu 'alaihi wasallam: 'Tidak mungkin Allah Subhanahu Wa Ta'ala akan memberi wewenang kepadamu untuk berbuat demikian.' Para sahabat bertanya; 'Bolehkah kami membunuh perempuan itu? ' Jawab beliau: 'Jangan! ' Kata Anas selanjutnya; 'Kami melihat jelas bekas racun itu kelihatan di leher Rasulullah shallallahu 'alaihi wasallam.' Dan telah menceritakan kepada kami [Harun bin 'Abdullah]; Telah menceritakan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Syu'bah] Aku mendengar; [Hisyam bin Zaid] Aku mendengar; [Anas bin Malik] berkata; bahwa seorang perempuan Yahudi menaruh racun dalam sepotong daging lalu dia membawanya kehadapan Rasulullah shallallahu 'alaihi wasallam sebagaimana Hadits Khalid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5705</td></tr><tr><td>Arabic No</td><td>2190.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5705</td></tr><tr><td>Arabic No</td><td>2190.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 59</td></tr></tbody></table></div>
 

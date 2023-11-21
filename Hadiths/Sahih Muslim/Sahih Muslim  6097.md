@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Allah's Messenger (ﷺ) stayed in Mecca for thirteen ye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Bisyr bin As Sari]; Telah menceritakan kepada kami [Hammad] dari [Abu Jamrah Adh Dhuba'i] dari [Ibnu Abbas] dia berkata; "Rasulullah menetap di Makkah setelah menjadi Nabi selama tiga belas tahun, sedangkan di Madinah selama sepuluh tahun dan beliau meninggal ketika berusia enam puluh tiga tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6097</td></tr><tr><td>Arabic No</td><td>2351.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6097</td></tr><tr><td>Arabic No</td><td>2351.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
 

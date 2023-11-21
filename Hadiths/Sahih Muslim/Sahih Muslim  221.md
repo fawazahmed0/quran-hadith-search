@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abdullah b. Mas'ud that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Muhammad bin Bakkar bin ar-Rayyan] dan [Aun bin Sallam] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Thalhah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Sufyan]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] setiap mereka berasal dari [Zubaid] dari [Abu Wa'il] dari [Abdullah bin Mas'ud] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Mencela seorang muslim adalah kefasikan, dan membunuhnya adalah kekufuan." Zubaid berkata, "Aku lalu berkata kepada Abu Wail, "Apakah kamu mendengarnya dari Abdullah, yang ia meriwayatkannya dari Rasulullah shallallahu 'alaihi wasallam?" Abu Wail menjawab, "Ya, " padahal tidak ada dalam hadits Syu'bah perkataan Zubaid kepada Abu Wail." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu al-Mutsanna] dari [Muhammad bin Ja'far] dari [Syu'bah] dari [Manshur]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Syu'bah] dari [al-A'masy] keduanya berasal dari [Abu Wail] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>221</td></tr><tr><td>Arabic No</td><td>64.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Мас‘уда, что Посланник Аллаха ﷺ сказал: «Поношение мусульманина это нечестие, а сражение с ним неверие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>221</td></tr><tr><td>Arabic No</td><td>64.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 127</td></tr></tbody></table></div>
 

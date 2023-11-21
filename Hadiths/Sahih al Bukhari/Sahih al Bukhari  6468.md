@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once Allah's Messenger (ﷺ) led us in prayer and then (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Muhammad bin Fulaih] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Hilal bin Ali] bahwa aku mendengar [Anas bin Malik] radliallahu 'anhu berkata; Suatu hari Rasulullah shallallahu 'alaihi wasallam mengimami kami shalat, kemudian menuju mimbar dan memberi isyarat dengan tangannya ke arah kiblat masjid lalu bersabda: "Sungguh telah diperlihatkan kepadaku sekarang ini surga dan neraka tergambar jelas pada dinding ini sejak saya shalat bersama kalian. Saya tidak pernah melihat kebaikan dan kejelekan seperti hari ini, Saya tidak pernah melihat kebaikan dan kejelekan seperti hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6468</td></tr><tr><td>Arabic No</td><td>6468</td></tr><tr><td>Reference</td><td>Book 81 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ совершил с нами молитву, а затем (после её завершения) взошёл на минбар, указал рукой на киблу мечети и сказал: “Пока я совершал сейчас с вами молитву, передо мной в направлении этой стены были показаны Рай и Ад. Я никогда не видел лучшего (чем Рай) и худшего (чем Ад), как сегодня, я никогда не видел лучшего и худшего, как сегодня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6468</td></tr><tr><td>Arabic No</td><td>6468</td></tr><tr><td>Reference</td><td>Book 81 Hadith 57</td></tr></tbody></table></div>
 

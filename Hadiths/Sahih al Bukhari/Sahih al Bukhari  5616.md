@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nazzal bin Sabra:'Ali offered the Zuhr prayer and then sat down in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdul Malik bin Maisarah] saya mendengar [An Nazzal bin Sabrah] bercerita dari [Ali] radliallahu 'anhu bahwa setelah melaksanakan shalat zhuhur dia duduk untuk memenuhi kebutuhan orang-orang di Rahbah sampai tiba shalat ashar, kemudian ia diberi air dan meminumnya, selebihnya ia gunakan untuk membasuh mukanya, wajahnya, kedua tangannya -perawi juga menyebutkan kepala dan kedua kakinya- lalu dia berdiri dan meminum sisa (air wudlu'nya) sambil berdiri, kemudian dia berkata; Sesungguhnya orang-orang merasa tidak suka minum sambil berdiri, padahal Nabi shallallahu 'alaihi wasallam pernah melakukan sebagaimana yang aku perbuat saat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 74 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Наззаль ибн Сабра рассказывал, что (однажды) ‘Али, да будет доволен им Аллах, совершил полуденную молитву /зухр/, после чего сел во дворе мечети Куфы, чтобы заняться нуждами людей. Когда настало время послеполуденной молитвы /‘аср/, ему принесли воду, и он попил её, омыл лицо и руки, а также голову и ноги. Затем стоя, он выпил остатки воды, после чего сказал: «Поистине, людям не нравится питьё стоя, но, поистине, Пророк ﷺ делал то же, что (сейчас) сделал я»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 74 Hadith 42</td></tr></tbody></table></div>
 

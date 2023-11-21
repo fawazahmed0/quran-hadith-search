@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Sai’ib bin Yazid said “When the Prophet(ﷺ) turned from the battle of Ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri], dari [As Saib bin Yazid], ia berkata; tatkala Nabi shallallahu 'alaihi wasallam datang ke Madinah dari perang Tabuk, orang-orang menemui beliau, sementara aku menemui beliau bersama anak-anak kecil di atas Tsaniyah Al Wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2779</td></tr><tr><td>Arabic No</td><td>2779</td></tr><tr><td>Reference</td><td>Book 15 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Са‘иб бин Йазид, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ вернулся из похода на Табук, люди встречали его, а я вместе (с другими) детьми встречал его на Санийат аль-Вада‘»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2779</td></tr><tr><td>Arabic No</td><td>2779</td></tr><tr><td>Reference</td><td>Book 15 Hadith 303</td></tr></tbody></table></div>
 

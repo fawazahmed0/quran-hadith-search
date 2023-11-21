@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The (good) dream of a faithf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Az Zuhri] dari [Sa'id bin Musayyab] dari [Abu Hurairah] radliallahu 'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Mimpi seorang mukmin adalah bagian dari enam atau empat puluh enam bagian kenabian." Dan hadits ini diriwayatkan oleh [Tsabit], [Humaid], [Ishaq bin Abdullah] dan [Syu'aib] dari [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6988</td></tr><tr><td>Arabic No</td><td>6988</td></tr><tr><td>Reference</td><td>Book 91 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Сновидение верующего является одной из сорока шести частей пророчества».\nТакже этот хадис передали Сабит (аль-Бунани), Хумайд (ат-Тавиль), Исхак ибн ‘Абдуллах и Шу‘айб (аль-Азди) от Анаса (ибн Малика) от Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6988</td></tr><tr><td>Arabic No</td><td>6988</td></tr><tr><td>Reference</td><td>Book 91 Hadith 7</td></tr></tbody></table></div>
 

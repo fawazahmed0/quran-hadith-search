@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jundub reported that Allah's Messenger (ﷺ) stated that a person said:Allah wou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suwaid bin Sa'id] dari [Mu'tamir bin Sulaiman] dari [Bapaknya]; Telah menceritakan kepada kami [Abu 'Imran Al jauni] dari [Jundab] bahwa Rasulullah shallallahu 'alaihi wasallam telah bercerita: "Pada suatu ketika ada seseorang yang berkata; 'Demi Allah, sesungguhnya Allah tidak akan mengampuni si fulan.' Sementara Allah berfirman: 'Siapa yang bersumpah dengan kesombongannya atas nama-Ku bahwasanya Aku tidak akan mengampuni si fulan? Ketahuilah, sesungguhnya Aku telah mengampuni si fulan dan telah memutuskan amal perbuatanmu." Kurang lebih begitulah sabda Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6681</td></tr><tr><td>Arabic No</td><td>2621</td></tr><tr><td>Reference</td><td>Book 45 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Джундаба ибн ‘Абдуллах, да будет доволен им Аллах, что Посланник Аллаха ﷺ рассказывал: «(Как-то раз) один человек сказал: “Клянусь Аллахом, не простит Аллах такого-то!”, и тогда Всемогущий и Великий сказал: “Кто клянётся Мною, что Я не прощу такого-то? Поистине, Я уже простил такого-то, а твои дела сделал тщетными!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6681</td></tr><tr><td>Arabic No</td><td>2621</td></tr><tr><td>Reference</td><td>Book 45 Hadith 178</td></tr></tbody></table></div>
 

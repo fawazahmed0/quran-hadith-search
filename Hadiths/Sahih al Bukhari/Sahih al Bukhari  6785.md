@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah Apostle said in Hajjat-al-Wada', "Which month (of the y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdullah] telah menceritakan kepada kami ['Ashim bin Ali] telah menceritakan kepada kami ['Ashim bin Muhammad] dari [Waqid bin Muhammad], aku mendengar [Ayahku] mengatakan; ['Abdullah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda ketika haji wada'; "ketahuilah, bulan apa yang kalian ketahui yang paling mulia?" Para sahabat menjawab; 'bulan kita ini, ' Nabi bertanya: "ketahuilah, negeri mana yang kalian ketahui paling mulia?" Para sahabat menjawab; 'negeri kita ini.' Nabi bertanya; "ketahuilah, hari apa yang kalian ketahui paling mulia?" Para sahabat menjawab; 'Hari kita ini.' Nabi melanjutkan; "Sesungguhnya Allah tabaaraka wata'ala telah mengharamkan atas kalian darah-darah kalian, harta-harta kalian, dan kehormatan-kehormatan kalian, kecuali dengan haknya, sebagaimana kehormatan hari kalian ini, negeri kalian ini, dan bulan kalian ini, bukankah telah kusampaikan?" (Nabi mengulangi pertanyaannya tiga kali). Semua pertanyaannya, di jawab oleh para sahabat dengan; 'Benar.' kemudian Nabi meneruskan: "celakalah kalian -atau- binasalah kalian, jangan sampai kalian sepeninggalku kembali menjadi kafir, sebagian kalian memenggal leher sebagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6785</td></tr><tr><td>Arabic No</td><td>6785</td></tr><tr><td>Reference</td><td>Book 86 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах рассказал: «Во время прощального паломничества Посланник Аллаха ﷺ сказал: “Какой месяц вы считаете самым священным?” Люди ответили: “Этот наш месяц”. Он сказал: “Какой город вы считаете самым священным?” Люди ответили: “Этот наш город”. Тогда он сказал: “Какой день вы считаете самым священным?” Люди ответили: “Этот наш день”. Тогда он сказал: “Поистине, Великий и Могучий Аллах сделал запретными для вас ваши жизни, ваше имущество и вашу честь, так же, как запретными для вас является этот ваш день, в этом вашем городе, в этом вашем месяце!” Затем трижды спросил: “Довёл ли я до вас?!” И люди каждый раз отвечали: “Да” Затем он сказал: “Горе вам, не становитесь после меня неверными, которые рубят друг другу головы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6785</td></tr><tr><td>Arabic No</td><td>6785</td></tr><tr><td>Reference</td><td>Book 86 Hadith 14</td></tr></tbody></table></div>
 

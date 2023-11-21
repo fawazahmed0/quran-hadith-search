@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Messenger of Allah (ﷺ), said:I tried to dissuade the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin al-Laits] telah menceritakan kepadaku [bapakku] dari [kakekku], telah menceritakan kepadaku [Uqail bin Khalid] dia berkata, berkata [Ibnu Syihab], telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] bahwa [Aisyah], istri Nabi shallallahu 'alaihi wasallam berkata, "Sungguh aku telah kembali mengunjungi Rasulullah shallallahu 'alaihi wasallam pada waktu tersebut. Tidak ada yang membawaku untuk sering mengunjungi Rasulullah melainkan karena tidak terdetik dalam hatiku bahwa manusia akan mencintai pemimpin setelah meninggalnya beliau yang dapat menggantikan kedudukannya selamanya, dan bila tidak demikian, karena aku menduga bahwa tidaklah seseorang menggantikan kedudukannya melainkan manusia akan merasa bosan dengannya. Maka aku ingin agar Rasulullah shallallahu 'alaihi wasallam melimpahkan (kursi kepemimpinan) itu kepada Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>418.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша, жена Пророка ﷺ сказала: «Я просила Посланника Аллаха ﷺ пересмотреть его решение. Настаивать на этом меня заставило моё опасение, что люди никогда не будут любить того, кто занял место Пророка ﷺ. Я полагала, что кто бы ни встал на место Пророка ﷺ, это будет сочтено людьми как дурной знак. Именно поэтому я и хотела, чтобы Посланник Аллаха ﷺ назначил кого-нибудь другого вместо Абу Бакра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>418.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 101</td></tr></tbody></table></div>
 

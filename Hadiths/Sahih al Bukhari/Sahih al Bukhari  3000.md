@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aslam:While I was in the company of 'Abdullah bin 'Umar on the way to M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata telah mengabarkan kepadaku [Zaid, dia adalah putra dari Aslam] dari [bapaknya] berkata; "Aku pernah bersama ['Abdullah bin 'Umar radliallahu 'anhuma] di suatu jalan menuju kota Makkah lalu sampai berita kepadanya bahwa Shofiyah binti Abi 'Ubaid menderita sakit keras. Maka dia mempercepat jalannya hingga ketika syafaq (warna merah di langit) telah hilang dia berhenti lalu shalat Maghrib dan 'Atmah ('Isya') dengan menjama' keduanya kemudian berkata: "Aku melihat Nabi shallallahu 'alaihi wasallam apabila mendesak perjalanannya, Beliau mengakhirkan shalat Maghrib lalu menjama' keduanya (dengan 'Isya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 56 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аслям передал, что его отец сказал: «Когда я был вместе ‘Абдуллахом ибн ‘Умаром, да будет доволен Аллах им и его отцом, в пути к Мекке, он получил известие о том, что (его жена) Сафия бинт Аби ‘Убейд сильно больна. Поэтому он ускорил шаг, а когда с неба исчезло зарево (стемнело), спешился и совершил молитвы магриб и ‘иша, объединив между ними. Затем он сказал: «Я видел, что, когда Пророк ﷺ спешил во время путешествия, он откладывал молитву магриб и соединял их вместе (то есть совершал магриб с ‘иша)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 56 Hadith 209</td></tr></tbody></table></div>
 

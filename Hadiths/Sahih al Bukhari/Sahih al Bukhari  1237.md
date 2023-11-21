@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:Allah's Messenger (ﷺ) said, "Someone came to me from my Lord
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Mahdiy bin Maymun] telah menceritakan kepada kami [Washil Al Ahdab] dari [Al Ma'rur bin Suaid] dari [Abu Dzar radliallahu 'anhu] berkata; Telah bersabda Rasulullah shallallahu 'alaihi wasallam: "Baru saja datang kepadaku utusan dari Rabbku lalu mengabarkan kepadaku" atau Beliau bersabda: "Telah datang mengabarkan kepadaku bahwa barangsiapa yang mati dari ummatku sedang dia tidak menyekutukan Allah dengan suatu apapun maka dia pasti masuk surga". Aku tanyakan: "Sekalipun dia berzina atau mencuri?" Beliau menjawab: "Ya, sekalipun dia berzina atau mencuri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1237</td></tr><tr><td>Arabic No</td><td>1237</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Ко мне явился некто от Господа моего и сообщил мне (или: порадовал меня вестью) о том, что войдёт в рай любой из членов моей общины, который умрёт, не поклонявшись ничему, кроме Аллаха”. Я спросил: “Даже если он прелюбодействовал и воровал?” Он ответил: “Даже если он прелюбодействовал и воровал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1237</td></tr><tr><td>Arabic No</td><td>1237</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
 

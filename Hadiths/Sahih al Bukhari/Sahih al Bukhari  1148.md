@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I did not see the Prophet (ﷺ) reciting (the Qur'an) in the nig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam] berkata, [bapakku] telah mengabarkan kepadaku dari ['Aisyah radliallahu 'anha] berkata: "Tidak pernah aku melihat Nabi shallallahu 'alaihi wasallam membaca surat dalam shalat malam dalam keadaan duduk kecuali ketika Beliau sudah berusia lanjut, ketika usia tua itu Beliau membaca dalam keadaan duduk. Namun bila surat yang dibacanya tinggal tersisa sekitar tiga puluh atau empat puluh ayat, maka Beliau berdiri dan melanjutkan bacaannya itu dengan berdiri. Kemudian Beliau ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1148</td></tr><tr><td>Arabic No</td><td>1148</td></tr><tr><td>Reference</td><td>Book 19 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Аиша, да будет доволен ею Аллах, сказала: «Я никогда не видела, чтобы Пророк ﷺ совершал свою ночную молитву сидя, пока он не вступил в преклонный возраст. Тогда он стал молиться сидя, а когда от его обычного чтения оставалось тридцать или сорок аятов, он вставал и дочитывал их стоя, после чего совершал поясной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1148</td></tr><tr><td>Arabic No</td><td>1148</td></tr><tr><td>Reference</td><td>Book 19 Hadith 29</td></tr></tbody></table></div>
 

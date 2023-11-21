@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:Allah's Messenger (ﷺ) passed by some people from the tribe of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Yazid bin Abu 'Ubaid] dari Anas telah bercerita kepada kami [Salamah radliallahu 'anhu] berkata; "Rasulullah shallallahu 'alaihi wasallam berjalan melewati beberapa orang dari suku Aslam yang sedang menunjukkan keahlian bermain panah di pasar, maka beliau bersabda: "Memanahlah wahai Bani Isma'il, karena nenek moyang kalian adalah ahli memanah dan aku berlatih bersama Bani Fulan" (satu diantara dua golongan yang sedang berlatih) ". Lalu mereka (satu kelompok yang lain) menahan tangan-tangan mereka (berhenti berlatih), maka beliau memprotes: "Mengapa mereka tidak terus berlatih?". Mereka menjawab: "Bagaimana kami harus berlatih sedangkan baginda berlatih bersama Bani Fulan?". Maka beliau bersabda: "Berlatihlah, aku bersama kalian semuanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3507</td></tr><tr><td>Arabic No</td><td>3507</td></tr><tr><td>Reference</td><td>Book 61 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ проходил мимо группы (людей из племени) аслям, которые упражнялись в стрельбе из лука на рынке, и Пророк ﷺ сказал: “Стреляйте, о сыны Исмаила, ибо, поистине, отец ваш был (хорошим) стрелком, что же касается меня, то я (на стороне людей из) такого-то (племени)”. (Услышав это,) люди одной из этих двух групп прекратили стрелять, а Посланник Аллаха ﷺ спросил: “Почему же вы не стреляете?” Они сказали: “Как же мы будем стрелять, если ты с ними?” Тогда Пророк ﷺ сказал: “Стреляйте, ибо я — со всеми вами!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3507</td></tr><tr><td>Arabic No</td><td>3507</td></tr><tr><td>Reference</td><td>Book 61 Hadith 17</td></tr></tbody></table></div>
 

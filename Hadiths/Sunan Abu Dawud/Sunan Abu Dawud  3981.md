@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah] telah menceritakan kepada kami [Al Mughirah bin Salamah] telah menceritakan kepada kami [Ibnu Al Mubarak] dari [Al Ajlah] telah menceritakan kepadaku [Abdullah bin Abdurrahman bin Abza] dari [ayahnya] dari [Ubai] bahwa Nabi shallallahu 'alaihi wasallam pernah membaca ayat: BIFADHLILLAAHI WA RAHMATIHI, FABIDZAALIKA FAL TAFRAHUU, HUWA KHAIRUN MIMMAA TAJMA'UUN (Katakanlah: "Dengan karunia Allah dan rahmat-Nya, hendaklah dengan itu kalian bergembira. Karunia Allah dan rahmat-Nya itu adalah lebih baik dari apa yang kalian kumpulkan.");
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3981</td></tr><tr><td>Arabic No</td><td>3981</td></tr><tr><td>Reference</td><td>Book 32 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Убай, да будет доволен им Аллах, передаёт, что Пророк ﷺ прочитал аят «Это милость и милосердие Аллаха. И да возрадуйтесь /ва-ль-тафраху/ этому, ибо это лучше того, что вы накапливаете /таджма‘уна/» (сура «Юнус», аят 58), («пусть они возрадуются» /фа-ль-йафраху/ и «они накапливают» /йаджма‘уна)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3981</td></tr><tr><td>Arabic No</td><td>3981</td></tr><tr><td>Reference</td><td>Book 32 Hadith 13</td></tr></tbody></table></div>
 

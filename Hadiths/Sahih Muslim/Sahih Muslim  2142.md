@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported that Hafsa wept for 'Umar (when he was about to die).
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2142</td></tr><tr><td>Arabic No</td><td>927.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, что когда Хафса стала оплакивать (смертельно раненого) ‘Умара, он сказал ей: «Постой, о доченька! Разве ты не знаешь, что Посланник Аллаха ﷺ сказал: “Поистине, умершего подвергают мучениям за плач живых”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2142</td></tr><tr><td>Arabic No</td><td>927.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 20</td></tr></tbody></table></div>
 

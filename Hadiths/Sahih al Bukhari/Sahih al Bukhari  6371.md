@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) used to seek refuge with Allah s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz bin Shuhaib] dari [Anas bin Malik] radliallahu 'anhu dia berkata; "Rasulullah Shallallahu 'alahi wasallam sering meminta perlindungan, beliau mengucapkan: "ALLAHUMMA INNI A'UUDZUBIKA MINAL KASALI WA A'UUDZUBIKA MINAL JUBNI WA A'UUDZUBIKA MINAL HARAMI WA A'UUDZUBIKA MINAL BUKHLI (Ya Allah, aku berlindung kepada-Mu dari sifat malas, dan berlindung kepada-Mu dari sifat pengecut, dan berlindung kepada-Mu dari sifat pikun dan aku berlindung kepada-Mu dari sifat kikir)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6371</td></tr><tr><td>Arabic No</td><td>6371</td></tr><tr><td>Reference</td><td>Book 80 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ часто просил у Аллаха защиты говоря: «О Аллах, поистине, я ищу у тебя защиты от лени, и я прошу у Тебя защиты от трусости, и я прошу у Тебя защиты от старческой дряхлости, и я прошу у Тебя защиты от скупости / Аллахумма, инни а‘узу бика мина-ль-касали, ва а‘узу бика мин аль-джубни, ва а‘узу бика мин аль-харами, ва а‘узу бика мин аль-бухли/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6371</td></tr><tr><td>Arabic No</td><td>6371</td></tr><tr><td>Reference</td><td>Book 80 Hadith 68</td></tr></tbody></table></div>
 

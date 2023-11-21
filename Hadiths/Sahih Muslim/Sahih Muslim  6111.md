@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) granted permission for doing a thin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah memberikan keringanan kepada kaum muslimin dalam suatu masalah, tetapi mereka tidak mau menerimanya. Akhirnya berita itu sampai kepada Rasulullah shallallahu 'alaihi wasallam hingga membuat beliau marah -dan kemarahan itu tampak pada wajah beliau." Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Mengapa orang-orang tidak mau menerima keringanan yang telah diberikan kepada mereka melalui perantaraku? Demi Allah, aku adalah orang yang paling mengenal Allah dan yang paling dekat kepada Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6111</td></tr><tr><td>Arabic No</td><td>2356.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6111</td></tr><tr><td>Arabic No</td><td>2356.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 169</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abd Allah b. Zaid al Mazini:Abd Allah b. Zaid al Mazini said: The Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abdullah bin Abu Bakr] bahwa dia mendengar ['Abbad bin Tamim] berkata; saya mendengar [Abdullah bin Zaid Al Mazini] berkata; "Rasulullah shallallahu 'alaihi wasallam keluar menuju mushalla (tempat shalat), kemudian beliau (berdo'a) memohon di turunkannya hujan, beliau merubah posisi selendangnya sambil menghadap ke Kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1023) Sahih Muslim (894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1167</td></tr><tr><td>Arabic No</td><td>1167</td></tr><tr><td>Reference</td><td>Book 3 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Зейда аль-Мазини, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ вышел к месту совершения молитвы и обратился к Аллаху с мольбой о ниспослании дождя. Обратившись в сторону кыбли, он перевернул свой плащ обратной стороной
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1023) Sahih Muslim (894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1167</td></tr><tr><td>Arabic No</td><td>1167</td></tr><tr><td>Reference</td><td>Book 3 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Messenger of Allah (ﷺ) said: Beware of the wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi], telah menceritakan kepada kami [Ibnu Abu Fudaik], telah menceritakan kepada kami [Az Zam'i], dari [Az Zubair bin Utsman bin Abdullah bin Suraqah], bahwa [Muhammad bin Abdurrahman bin Tsauban], telah mengabarkan kepadanya bahwa [Abu Sa'id Al Khudri] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: hendaklah kalian menjauhi qosamah. Ia berkatal lalu kami berkata; apakah qosamah itu? Beliau bersabda: suatu (pembunuhan tanpa bukti) yang terjadi di antara manusia kemudian (keluarganya) datang dan minta diadakan qishas darinya. Telah menceritakan kepada kami [Abdullah Al Qo'nabi] telah menceritakan kepada kami [Abdul Aziz yaitu Ibnu Muhammad] dari [Syarik yaitu Ibnu Abi Namir] dari ['Atha' bin Yasar] dari Nabi shallallahu 'alaihi wasallam seperti itu. Perawi berkata; seorang laki-laki yang berada di tengah-tengah perkumpulan manusia kemudian meminta tuntutan dari perkara ini dan perkara ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2783</td></tr><tr><td>Arabic No</td><td>2783</td></tr><tr><td>Reference</td><td>Book 15 Hadith 307</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2783</td></tr><tr><td>Arabic No</td><td>2783</td></tr><tr><td>Reference</td><td>Book 15 Hadith 307</td></tr></tbody></table></div>
 

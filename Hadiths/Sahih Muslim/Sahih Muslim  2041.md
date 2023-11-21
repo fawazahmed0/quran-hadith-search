@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim narrated on the authority of his father that the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ibnu Numair] -Zhuhair berkata- telah menceritakan kepada kami [Sufyan bin Uyainah] telah menceritakan kepada kami [Amru] dari [Az Zuhri] dari [Salim] dari [bapaknya] bahwa Nabi shallallahu 'alaihi wasallam biasanya shalat dua raka'at setelah shalat Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2041</td></tr><tr><td>Arabic No</td><td>882.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Салим передал со слов своего отца, что Пророк ﷺ совершал после пятничной молитвы два рак‘ата
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2041</td></tr><tr><td>Arabic No</td><td>882.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 91</td></tr></tbody></table></div>
 

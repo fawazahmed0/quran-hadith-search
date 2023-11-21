@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that Allah's Messenger (ﷺ) said:May Allah have mercy upon t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami Abu Ishaq Ibrahim bin Muhammad bin Sufyan dari Muslim bin Al Hajjaj ia berkata, Telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah merahmati mereka yang mencukur rambutnya." Lalu mereka berkata, "Dan juga bagi mereka yang menggunting rambutnya ya Rasulullah." Beliau berdo'a lagi: "Semoga Allah merahmati mereka yang mencukur rambutnya." Mereka berkata lagi, "Dan juga bagi mereka yang menggunting rambutnya ya Rasulullah." Namun beliau tetap berdo'a: "Semoga Allah merahmati mereka yang mencukur rambutnya." Mereka berkata lagi, "Dan juga bagi mereka yang menggunting rambutnya ya Rasulullah." Kemudian beliau berdo'a: "Dan juga (semoga Allah merahmati) bagi mereka yang menggunting rambutnya." Dan Telah menceritakannya kepada kami [Ibnul Mutsanna] Telah menceritakan kepada kami [Abdul Wahhab] Telah menceritakan kepada kami [Ubaidullah] dengan isnad ini, dan ia berkata di dalam hadits itu; Maka pada kali yang ketiga beliau berdo'a: "Dan semoga Allah juga merahmati mereka yang menggunting rambut (memendekkan rambut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>1301.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 350</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что (после завершения обрядов хаджжа) Посланник Аллаха ﷺ сказал: «О Аллах, помилуй сбривших волосы». (Люди) сказали: «(Обратись с мольбой) и за укоротивших, о Посланник Аллаха!» Он (снова) сказал: «О Аллах, помилуй сбривших волосы». (Люди) сказали: «(Обратись с мольбой) и за укоротивших, о Посланник Аллаха!» Он (снова) сказал: «О Аллах, помилуй сбривших волосы». (Люди снова) сказали: «(Обратись с мольбой) и за укоротивших, о Посланник Аллаха!» − (и тогда) он сказал: “И укоротивших”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>1301.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 350</td></tr></tbody></table></div>
 

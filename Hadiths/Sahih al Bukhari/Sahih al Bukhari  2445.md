@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muawiya bin Suwaid:I heard Al-Bara' bin 'Azib saying, "The Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ar Rabi'] telah menceritakan kepada kami [Syu'bah] dari [Al Asy'ats bin Sulaim] berkata, aku mendengar [Mu'awiyah bin Suwaid] aku mendengar [Al Bara' bin 'Azib radliallahu 'anhuma] berkata; "Nabi shallallahu 'alaihi wasallam memerintahkan kami tujuh perkara dan melarang kami dari tujuh perkara pula". Maka Beliau menyebutkan: "Menjenguk orang sakit, mengiringi jenazah, mendoakan orang yang bersin, membalas salam, menolong orang yang dizholimi, memunuhi undangan dan berbuat adil dalam pembagian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 46 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен им Аллах, сказал: «Пророк ﷺ велел нам делать семь (вещей) и запретил нам семь (других)». Затем он упомянул следующее: «(Он велел) навещать больного, провожать погребальные носилки, произносить благопожелание чихнувшему, отвечать на приветствие, помогать притесняемому, принимать приглашения, способствовать выполнению клятвы того, кто её даёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 46 Hadith 6</td></tr></tbody></table></div>
 

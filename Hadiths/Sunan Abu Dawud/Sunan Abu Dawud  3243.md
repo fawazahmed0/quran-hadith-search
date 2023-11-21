@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Messenger of Allah (ﷺ) said: He who swears a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] dan [Hannad bin As Sari], mereka berdua berkata; telah menceritakan kepada kami [Abu Mu'awiyah], telah menceritakan kepada kami [Al A'masy], dari [Syaqiq] dari [Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bersumpah dalam keadaan berbuat dosa untuk memutuskan harta orang muslim, maka ia akan berjumpa dengan Allah dalam keadaan dimurkai." Al Asy'ats berkata; mengenai diriKu. Demi Allah, antara diriku dan antara seseorang yahudi terdapat lahan yang diperselisihkan, kemudian ia mengingkariku. Lalu aku datang bersamanya kepada Nabi shallallahu 'alaihi wasallam, kemudian Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Apakah engkau memiliki bukti?" aku katakan; tidak. Beliau berkata kepada orang yahudi tersebut: "Bersumpahlah!" Aku katakan; wahai Rasulullah, jika demikian ia akan bersumpah dan pergi membawa hartaku. Kemudian Allah ta'ala menurunkan ayat: "Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit….." hinggga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2416، 2417) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3243</td></tr><tr><td>Arabic No</td><td>3243</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто принёс ложную клятву (Аллахом), чтобы таким образом присвоить имущество мусульманина, тот встретит Аллаха разгневанным на него». Аль-Аш‘ас сказал: «Клянусь Аллахом, я стал причиной ниспослания аята (на эту тему). Мы с одним иудеем вели тяжбу из-за участка земли, и он отрицал мои права на эту землю, и тогда я пришёл с ним к Пророку ﷺ. Пророк ﷺ спросил меня: “Есть ли у тебя доказательство?” Я ответил: “Нет”. Тогда он сказал иудею: “Поклянись”. Я возразил: “О Посланник Аллаха! Но ведь он сейчас поклянётся и присвоит моё имущество!” Тогда Всевышний Аллах ниспослал: “Воистину, тем, которые продают завет с Аллахом и свои клятвы за ничтожную цену, нет доли в Последней жизни. Аллах не станет говорить с ними, не посмотрит на них в День воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2416، 2417) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3243</td></tr><tr><td>Arabic No</td><td>3243</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
 

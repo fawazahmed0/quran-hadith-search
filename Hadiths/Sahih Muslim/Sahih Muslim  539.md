@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humran, the freed slave of 'Uthman said:I saw Uthman call for a vessel (of water
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [bapakku] dari [Ibnu syihab] dari ['Atha' bin Yazid al-Laitsi] dari [Humran] budak Utsman, bahwa dia melihat [Utsman] meminta air wudlu, lalu dia menuangkannya pada kedua telapak tangannya tiga kali lalu mencuci kedua tangannya. Kemudian ia memasukkan tangan kanannya ke wadah air, lalu berkumur, memasukkan air ke dalam hidung dan membuangnya, kemudian membasuh wajahnya tiga kali, kemudian membasuh dua tangan kanannya sampai siku tiga kali, kemudian mengusap kepalanya, kemudian membasuh kedua kakinya sampai mata kaki tiga kali. Kemudian dia berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berwudlu seperti wudluku ini, kemudian melakukan shalat dua raka'at, di mana dia tidak berbicara di dalamnya pada dirinya (tentang perkara dunia), niscaya dia diampuni dosa-dosanya yang terdahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>539</td></tr><tr><td>Arabic No</td><td>226.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хумрана,вольноотпущенника ‘Усмана о том, что он видел, как (однажды) ‘Усман попросил сосуд (с водой) и три раза налил на руки и помыл их. Затем он опустил правую руку в сосуд и прополоскал рот и втянув воду в нос высморкался. Затем он помыл лицо три раза, и три раза помыл руки до локтей, затем обтер голову, после чего помыл ноги по три раза (каждую) а потом сказал: «Посланник Аллаха ﷺ сказал: “Простятся прошлые грехи тому, кто совершит омовение, подобное этому моему омовению, а потом совершит молитву в два рак‘ата, в которой не станет беседовать с самим собой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>539</td></tr><tr><td>Arabic No</td><td>226.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
 

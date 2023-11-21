@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ata' b. Yasar reported, on the authority of Abu Huraira, the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Muhammad bin Mutharrif] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa berangkat pagi atau sore hari ke masjid, maka Allah akan mempersiapkan persinggahan baginya di surga, Itu dilakukan-Nya setiapkali keberangkatan pagi atau sore hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 5 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Для того, кто отправляется в мечеть в начале дня и в конце его, Аллах готовит угощение в Раю каждый раз, как он (делает это)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 5 Hadith 357</td></tr></tbody></table></div>
 

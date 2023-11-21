@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Some (of the Ansar) used to present date palm trees to the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Al Aswad] telah menceritakan kepada kami [Mu'tamir]. -Dan diriwayatkan dari jalur lain- telah menceritakan kepadaku [Khalifah] telah menceritakan kepada kami [Mu'tamir], ia berkata; aku mendengar [Bapakku] dari [Anas radliallahu 'anhu], ia berkata; 'Seseorang memberikan kebun kurma kepada Nabi shallallahu 'alaihi wasallam, ketika Bani Quraizhah dan Bani Nazhir dapat ditaklukkan. Orang itu berkata; "Sesungguhnya keluargaku menyuruh aku untuk menemui Nabi shallallahu 'alaihi wasallam lalu meminta apa yang telah aku berikan atau sebagiannya." Sementara Nabi shallallahu 'alaihi wasallam telah memberikan kebun kurma itu kepada Ummu Aiman. Lalu Ummu Aiman datang dan meletakkan kain di leherku seraya berkata; "Sekali-kali tidak. Demi Dzat Yang tidak ada sesembahan selain Dia, janganlah tuan berikan kepada mereka karena tuan telah memberikannya kepadaku." Atau sebagaimana yang telah dikatakan. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kamu mendapatkan bagian segini." Ummu Aiman berkata; "Tidak, demi Allah." Akhirnya beliau memberikan kepadanya. Perawi berkata; "Aku kira dia Anas berkata; "Sepuluh kali lipat atau sekitar itu atau sebagaimana yang telah dikatakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4120</td></tr><tr><td>Arabic No</td><td>4120</td></tr><tr><td>Reference</td><td>Book 64 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Некоторые люди дарили Пророку ﷺ некоторые свои финиковые пальмы, пока он не завоевал курайза и ан-надыр (тогда он вернул им их пальмы). Люди из моей семьи приказали мне попросить Пророка ﷺ вернуть им их пальмы или их часть, которую они ему подарили, но Пророк ﷺ отдал её Умм Айман. Тогда пришла Умм Айман, схватила меня за накидку у шеи, и сказала: “Нет, клянусь Тем, кроме которого нет божества, достойного поклонения, он (Пророк ﷺ) не вернёт вам эти пальмы, он дал их мне”. Пророк ﷺ сказал (ей): “Верни их, и я дам тебе столько-то (других пальм, вместо этих)”. Но она продолжала отказываться, говоря: “Нет, клянусь Аллахом”, пока он не дал ей в десять раз больше её пальм»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4120</td></tr><tr><td>Arabic No</td><td>4120</td></tr><tr><td>Reference</td><td>Book 64 Hadith 164</td></tr></tbody></table></div>
 

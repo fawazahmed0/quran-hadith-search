@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:No Sadaqa is paya
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] mereka berkata, Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Isma'il bin Umayyah] dari [Muhammad bin Yahya bin Habban] dari [Yahya bin Umarah] dari [Abu Sa'id Al Khudri] ia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak wajib dizakati kurma dan biji-bijian yang kurang dari lima wasq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2267</td></tr><tr><td>Arabic No</td><td>979.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Не выплачивается закят (с урожая) фиников или зерновых менее чем в пять “васков”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2267</td></tr><tr><td>Arabic No</td><td>979.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 5</td></tr></tbody></table></div>
 

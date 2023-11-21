@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:On 'Id ul Fitr or 'Id ul Adha Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata, telah mengabarkan kepada saya [Zaid] dia adalah putra Aslam dari ['Iyadh bin 'Abdullah] dari [Abu Sa'id Al Khurdri radliallahu 'anhu]; Rasulullah Shallallahu'alaihiwasallam keluar menuju lapangan tempat shalat untuk melaksanakan shalat 'Iedul Adhha atau 'Iedul Fithri. Setelah selesai Beliau memberi nasehat kepada manusia dan memerintahkan mereka untuk menunaikan zakat seraya bersabda: "Wahai manusia, bershadaqahlah (berzakatlah) ". Kemudian Beliau mendatangi jama'ah wanita lalu bersabda: "Wahai kaum wanita, bershadaqahlah. Sungguh aku melihat kalian adalah yang paling banyak akan menjadi penghuni neraka". Mereka bertanya: "Mengapa begitu, wahai Rasulullah?". Beliau menjawab: "Kalian banyak melaknat dan mengingkari pemberian (suami). Tidaklah aku melihat orang yang lebih kurang akal dan agamanya melebihi seorang dari kalian, wahai para wanita". Kemudian Beliau mengakhiri khuthbahnya lalu pergi. Sesampainya Beliau di tempat tinggalnya, datanglah Zainab, isteri Ibu Mas'ud meminta izin kepada Beliau, lalu dikatakan kepada Beliau; "Wahai Rasulullah Shallallahu'alaihiwasallam, ini adalah Zainab". Beliau bertanya: "Zainab siapa?". Dikatakan: "Zainab isteri dari Ibnu Mas'ud". Beliau berkata,: "Oh ya, persilakanlah dia". Maka dia diizinkan kemudian berkata,: "Wahai Nabi Allah, sungguh anda hari ini sudah memerintahkan shadaqah (zakat) sedangkan aku memiliki emas yang aku berkendak menzakatkannya namun Ibnu Mas'ud mengatakan bahwa dia dan anaknya lebih berhak terhadap apa yang akan aku sedekahkan ini dibandingkan mereka (mustahiq). Maka Nabi Shallallahu'alaihiwasallam bersabda: "Ibnu Mas'ud benar, suamimu dan anak-anakmu lebih barhak kamu berikan shadaqah dari pada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1462</td></tr><tr><td>Arabic No</td><td>1462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Однажды,) в день жертвоприношения (или: разговения) Посланник Аллаха ﷺ вышел к месту намаза, покинув которое стал увещать мужчин и повелевать им давать милостыню. Он сказал: “О люди, подавайте милостыню!” — после чего подошёл к женщинам и сказал: “О женщины, подавайте милостыню, ибо, поистине, я видел, что вы составляете собой большинство обитателей ада!” Они спросили: “Почему же, о Посланник Аллаха?” Он сказал: “Вы часто проклинаете (людей) и проявляете неблагодарность по отношению к своим мужьям, а из тех, кому недостаёт ума и кто не в состоянии в полной мере выполнять свои религиозные обязанности, я не видел никого, кто в большей мере, чем любая из вас, был бы способен заставить благоразумного мужчину утратить разум, о женщины!” Затем (Пророк ﷺ) удалился, а когда он вернулся к себе домой, пришла жена Ибн Мас‘уда Зайнаб и попросила разрешения войти к нему. (Ему) сказали: “О Посланник Аллаха, это Зайнаб”. Он спросил: “Какая именно?” (Ему) сказали: “Жена Ибн Мас‘уда”. Он сказал: “Да, позвольте ей войти”, и её впустили. (Войдя в дом,) она сказала: “О Посланник Аллаха, сегодня ты велел подавать милостыню, а у меня были украшения, которые я хотела отдать бедным, но Ибн Мас‘уд сказал, что он сам и его дети имеют на это больше прав, чем кто бы то ни было!” (На это) Пророк ﷺ сказал: “Ибн Мас‘уд сказал правду: твой муж и твои дети действительно имеют на это больше прав, чем те, кому ты отдала бы это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1462</td></tr><tr><td>Arabic No</td><td>1462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 64</td></tr></tbody></table></div>
 

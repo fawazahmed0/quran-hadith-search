@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) returned after performing his Hajj, h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Yazid bin Zurai'] telah mengabarkan kepada kami [Habib Al Mu'allim] dari ['Atho'] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Ketika Nabi shallallahu 'alaihi wasallam kembali dari pelaksanaan hajinya, Beliau berkata kepada Ummu Sinan Al Anshariyyah: "Apa yang menghalangimu untuk menunaikan haji?". Wanita itu berkata: "Bapak si fulan, yang ia maksud suaminya, memiliki dua ekor unta yang salah satunya sering digunakan untuk menunaikan haji sedangn unta yang satunya lagi digunakan untuk mencari air minum buat kami". Beliau bersabda: "'Umrah pada bulan Ramadhan sebanding dengan haji atau haji bersamaku". Ini diriwayatkan oleh [Ibnu Juraij] dari ['Atho']; Aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam. Dan ['Ubaidullah] berkata, dari ['Abdul Karim] dari ['Atho'] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 28 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Вернувшись после совершения хаджа, Пророк ﷺ спросил у Умм Синан аль-Ансарийи: “Что помешало тебе совершить хадж?” Она ответила: “Такой-то”, имея в виду своего мужа. “У него было (только) два верблюда, на одном из которых он отправился в хадж, а второй используется для орошения нашей земли”. (На это Пророк ﷺ) сказал (ей): “(Соверши) умру в рамадане и, поистине, она будет равнозначна совершению хаджа со мной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 28 Hadith 43</td></tr></tbody></table></div>
 

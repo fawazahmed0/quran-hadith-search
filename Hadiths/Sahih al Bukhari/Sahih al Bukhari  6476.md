@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Shuraih Al-Khuza'i:My ears heard and my heart grasped (the statemen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Laits] telah menceritakan kepada kami [Sa'id Al Maqburi] dari [Abu Syuraih Al Khuza'i] dia berkata; "Aku telah mendengar dengan kedua telingaku dan meresap dalam hatiku ketika Nabi shallallahu 'alaihi wasallam bersabda: "Bertamu itu tiga hari dengan menjamunya, " beliau di tanya; 'Apa yang di maksud dengan menjamunya?" beliau menjawab: "yaitu pada siang dan malam harinya. Barang siapa beriman kepada Allah dan hari akhir, hendaknya dia memuliakan tamunya, dan barangsiapa beriman kepada Allah dan hari Akhir hendaknya berkata baik atau diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6476</td></tr><tr><td>Arabic No</td><td>6476</td></tr><tr><td>Reference</td><td>Book 81 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Шурайха аль-Хуза‘и, который сказал: «Услышали мои уши, а сердце моё запомнило, что Пророк ﷺ сказал: “Гостеприимство длится три дня. Давайте ему его дар”. Его спросили: “Что является его даром?” Он сказал: “Один день и ночь. Пусть тот, кто верует в Аллаха и в Последний день, хорошо принимает своего гостя. Пусть тот, кто верует в Аллаха и в Последний день, говорит благое или молчит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6476</td></tr><tr><td>Arabic No</td><td>6476</td></tr><tr><td>Reference</td><td>Book 81 Hadith 65</td></tr></tbody></table></div>
 

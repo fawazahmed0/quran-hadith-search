@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. al. Qasim reported on the authority of his father:'A'isha (Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al 'Ala'] sedangkan lafazhnya dari Zuhair, keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Hisyam bin Urwah] dari [Abdurrahman bin Qasim] dari [ayahnya] dari ['Aisyah] dia berkata; Barirah memiliki tiga perkata, yaitu tuannya menginginkan untuk menjualnya dengan syarat perwaliannya untuk mereka, lantas hal itu saya sampaikan kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Belilah dan bebaskanlah dia, karena sesungguhnya perwalian itu bagi orang yang memerdekakannya." Aisyah melanjutkan; Kemudian dia dibebaskan, setelah itu Rasulullah shallallahu 'alaihi wasallam memberikan pilihan (antara dirinya atau tetap bersama suaminya yang masih budak), namun dia memilih dirinya. Aisyah melanjutkan; Suatu ketika orang-orang bersedekah kepadanya, dan dia menghadiahkannya kepada kami, lalu saya memberitahukan hal itu kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Hal itu buatnya adalah sedekah, namun buat kalian adalah hadiah darinya, maka makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3781</td></tr><tr><td>Arabic No</td><td>1504.06</td></tr><tr><td>Reference</td><td>Book 20 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3781</td></tr><tr><td>Arabic No</td><td>1504.06</td></tr><tr><td>Reference</td><td>Book 20 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) offered the Maghrib and 'Isha' prayers toge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu Dza'bi] dari [Az Zuhriy] dari [Salim bin 'Abdullah] dari [Ibnu'Umar radliallahu 'anhuma] berkata; "Nabi Shallallahu'alaihiwasallam menjama' shalat Maghrib dan 'Isya' di Jama' (Muzdalifah), pada setiap shalat tersebut dibacakan iqamat namun beliau tidak shalat sunnat diantara keduanya dan juga tidak setelah keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 25 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ объединил закатную молитву /магъриб/ с вечерней /‘иша/ в Муздалифе. Для каждой молитвы произносилась икама, и ни между ними, ни после какой-либо из молитв не совершалось никакой (дополнительной) молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 25 Hadith 153</td></tr></tbody></table></div>
 

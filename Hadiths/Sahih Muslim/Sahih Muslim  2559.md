@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abi Aufa reported:We were with the Messenger of Allah (ﷺ) on a jou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Abu Ishaq Asy Syaibani] dari [Abdullah bin Abu Aufa] radliallahu 'anhu, ia berkata; Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan di bulan Ramadlan. Ketika matahari telah terbenam, beliau bersabda: "Hai fulan! Turunlah, dan siapkan makan kita." Maka orang itu pun berkata, "Hari masih siang ya Rasulullah!" beliau bersabda lagi: "Turunlah dan siapkan makan kita." Abdullah berkata; Maka orang itu pun turun dan segera menyiapkannya kepada Rasulullah shallallahu 'alaihi wasallam dan kemudian langsung minum. Kemudian beliau bersabda sambil menunjuk dengan tangannya: "Apabila matahari telah terbenam di sana, dan malam telah datang di sini, maka orang yang berpuasa sudah boleh berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>1101.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>1101.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 65</td></tr></tbody></table></div>
 

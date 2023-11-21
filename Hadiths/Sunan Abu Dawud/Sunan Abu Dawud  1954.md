@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Harmas ibn Ziyad al-Bahili: I saw the Prophet (ﷺ) addressing the peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Harun bin Abdullah], telah menceritakan kepada Kami [Hisyam bin Abdul Malik], telah menceritakan kepada Kami [Ikrimah], telah menceritakan kepadaku [Al Hirmas bin Ziyad Al Bahili], ia berkata; aku melihat Nabi shallallahu 'alaihi wasallam berkhutbah kepada Nabi shallallahu 'alaihi wasallam di atas untanya yaitu Al 'Adhba' pada hari Raya Adhha di Mina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 11 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хирмас ибн Зияд аль-Бахили, да будет доволен им Аллах, передаёт: «Я видел, как Пророк ﷺ обращался к людям с проповедью, сидя на своей верблюдице по кличке Адба в день жертвоприношения в Мине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 11 Hadith 234</td></tr></tbody></table></div>
 

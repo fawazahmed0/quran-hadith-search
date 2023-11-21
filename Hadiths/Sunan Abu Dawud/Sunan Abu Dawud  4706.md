@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubayy b. Ka’b said :I heard the Messenger of Allah (May peace be upon him) exp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] berkata, telah menceritakan kepada kami [Al firyabi] dari [Isra'il] berkata, telah menceritakan kepada kami [Abu Ishaq] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata; Telah menceritakan kepada kami [Ubay bin Ka'b] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda tentang firman Allah: (dan adapun anak itu, maka kedua orangtuanya adalah orang-orang mukmin) -Qs. Al Kahfi: 80-. Beliau mengatakan: "Anak itu telah ditakdirkan untuk menjadi kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>4706</td></tr><tr><td>Reference</td><td>Book 42 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убайа ибн Ка‘ба: «Я слышал, как Посланник Аллаха ﷺ сказал о словах Всевышнего “Что же касается мальчика, то его родители были верующими”: “Он же был сотворён неверующим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>4706</td></tr><tr><td>Reference</td><td>Book 42 Hadith 111</td></tr></tbody></table></div>
 

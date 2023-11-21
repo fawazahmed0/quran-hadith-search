@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: When the morning came, the Prophet (ﷺ) stood at the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Yahya bin Adam], telah menceritakan kepada Kami [Sufyan] dari [Abdurrahman bin 'Ayyasy] dari [Zaid bin Ali] dari [ayahnya] dari ['Ubaidullah bin Abu Rafi'] dari [Ali] ia berkata; ketika pagi hari Nabi shalla Allahu 'alaihi wa sallam berdiri di Quzah lalu berkata: "Ini adalah Quzah dan merupakan tempat wukuf, dan Muzdalifah seluruhnya adalah tempat berwukuf, aku menyembelih disini dan Mina semuanya adalah tempat menyembelih, maka sembelihlah ditempat kalian tinggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 11 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али, да будет доволен им Аллах, что утром Пророк ﷺ остановился в Кузахе и сказал: «Это Кузах, и это место стояния, однако вся Муздалифа является местом стояния, и я зарезал жертвенный скот здесь, однако вся Мина является местом жертвоприношения. Режьте свой скот у своей поклажи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 11 Hadith 215</td></tr></tbody></table></div>
 

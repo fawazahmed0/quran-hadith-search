@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUbaydah ibn al-Jarrah: I heard the Prophet (ﷺ) say: There has been
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Khalid Al Hadzdza] dari [Abdullah bin Syaqiq] dari [Abdullah bin Suraqah] dari [Abu Ubaidah Ibnul Jarrah] ia berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada seorang Nabi pun setelah Nuh kecuali telah mengingatkan umatnya tentang Dajjal, dan sesungguhnya aku memperingatkan kalian darinya." Rasulullah shallallahu 'alaihi wasallam kemudian menshifati (memberikan gambaran) Dajjal kepada kami, beliau bersabda: "Bisa jadi orang yang melihat dan mendengarku akan melihat Dajjal." Para sahabat bertanya, "Wahai Rasulullah, bagaimana dengan kondisi hati kami waktu itu, apakah seperti sekarang ini?" Beliau menjawab: "Ya, baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4756</td></tr><tr><td>Arabic No</td><td>4756</td></tr><tr><td>Reference</td><td>Book 42 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу ‘Убайды ибн аль-Джарраха: «Я слышал, как Пророк ﷺ сказал: “Поистине, каждый пророк после Нуха обязательно предостерегал свой народ от ад-Даджжаля, и я тоже предостерегаю вас от него”. И он описал его, а потом сказал: “Возможно, застанут его те, кто видел меня и слышал мои слова”. Люди спросили: “О Посланник Аллаха, какими будут тогда наши сердца? Такими же, как и сейчас?” Он сказал: “Может быть, даже лучше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4756</td></tr><tr><td>Arabic No</td><td>4756</td></tr><tr><td>Reference</td><td>Book 42 Hadith 161</td></tr></tbody></table></div>
 

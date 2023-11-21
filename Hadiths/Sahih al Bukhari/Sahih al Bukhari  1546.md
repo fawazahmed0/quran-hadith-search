@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) offered four rak'at in Medina and then
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Abdullah bin Muhammad] telah menceritakan kepada kami [Hisam bin Yusuf] telah mengabarkan kepada kami [Ibnu Juraij] telah menceritakan kepada kami [Muhammad bin Al Munkadir] dari [Anas bin Malik radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam melaksanakan shalat di Madinah empat raka'at dan di Dzul Hulaifah dua raka'at kemudian bermalam di Dzul Hulaifah sampai pagi. Ketika Beliau berangkat dengan tunggangannya dan sampai siang hari, Beliau memulai ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>1546</td></tr><tr><td>Reference</td><td>Book 25 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ совершил четыре рак‘ата в Медине. А потом в Зуль-Хулейфе он совершил два рак‘ата. Потом он провёл ночь в Зуль-Хулейфе, а утром, когда он сел на свою верблюдицу и она поднялась с ним, он произнёс тальбию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>1546</td></tr><tr><td>Reference</td><td>Book 25 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:For the children of Israel the punishment for crime was Al-Q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Mujahid] dari [Ibnu 'Abbas] radliallahu 'anhuma mengatakan; 'Di kalangan bani israil hanya berlaku hukum qisas dan tidak ada hukum tebusan (diyat), sehingga Allah menurunkan ayat ini 'Diwajibkan atas kalian qisas dalam pembunuhan (QS. ALbaqarah 178) Hingga ayat ini; kecuali jika ia mendapat pemaafan dari saudara (QS. Albaqarah 178), kata Ibn Abbas; istilah maaf maksudnya menerima diyat secara tulus. Dan Ibnu Abbas berkata perihal kutipan ayat; 'fattibaa'un bil ma'ruuf (Maka hendaklah ia mengikutinya dengan baik), ' maksudnya hendaklah betu-betul meminta maaf dan melakukannya dengan sebaik-baiknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6881</td></tr><tr><td>Arabic No</td><td>6881</td></tr><tr><td>Reference</td><td>Book 87 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Возмездие за убийство /кысас/ был у сынов Исраиля, но имущественной компенсации /дия/ не было. Поэтому Аллах сказал этой общине (мусульманам): “Вам предписано возмездие за убитых: свободный — за свободного, раб — за раба, женщина — за женщину. Если же убийца прощен своим братом” (сура “аль-Бакара”, аят 178). Прощение заключается в том, чтобы принять имущественной компенсации /дия/ за преднамеренное убийство. “…то следует поступить по справедливости и уплатить ему выкуп надлежащим образом” (сура “аль-Бакара”, аят 178), то есть требует (выплату) по справедливости и платит ему надлежащим образом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6881</td></tr><tr><td>Arabic No</td><td>6881</td></tr><tr><td>Reference</td><td>Book 87 Hadith 20</td></tr></tbody></table></div>
 

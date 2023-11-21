@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:"Once a delegation of 'Abdul Qais came to Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami ['Abbad] -yaitu Ibnu 'Abbad- dari [Abu Hamzah] dari [Ibnu 'Abbas] berkata, "Utusan 'Abdul Qais datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Sesungguhnya kami dari suku Rabi'ah, dan kami tidak dapat mengunjungi tuan kecuali pada bulan haram. Maka perintahlah kepada kami dengan sesuatu yang kami ambil dari tuan dan dapat kami sampaikan kepada penduduk kami. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Aku perintahkan kalian dengan empat perkara dan aku larang dari empat perkara; Iman kepada Allah. Lalu Nabi shallallahu 'alaihi wasallam menjelaskan kepada mereka; yaitu persaksian bahwa tidak ada Tuhan yang berhak disembah selain Allah dan Muhammad adalah utusan Allah, menegakkan shalat, menunaikan zakat, pusa Ramadan dan kalian kelurakan seperlima dari harta rampasan perang. Dan aku larang kalian dari Ad Duba', Al Hantam, Al Muqayyar dan An Naqir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>523</td></tr><tr><td>Arabic No</td><td>523</td></tr><tr><td>Reference</td><td>Book 9 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, что к Посланнику Аллаха ﷺ прибыла делегация из племени ‘абдулькайс и они сказали: «Поистине, мы из района Раби‘а, и мы не можем приезжать к тебе, кроме как только в запретный (харам) месяц. Так, прикажи же нам что-нибудь, мы примем это от тебя и будем призывать к этому других». Тогда Пророк ﷺ сказал: «Я повелеваю вам четыре вещи и запрещаю четыре вещи: вера в Аллаха (затем он истолковал это им, сказав: “Это — свидетельство, что нет божества, достойного поклонения, кроме Аллаха, и что я — Посланник Аллаха”), совершение молитвы, выплата закята и выделение вами мне пятой части военной добычи. А запрещаю я вам (использовать сосуды) дуббу, хантам, мукаййар и накыр
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>523</td></tr><tr><td>Arabic No</td><td>523</td></tr><tr><td>Reference</td><td>Book 9 Hadith 2</td></tr></tbody></table></div>
 

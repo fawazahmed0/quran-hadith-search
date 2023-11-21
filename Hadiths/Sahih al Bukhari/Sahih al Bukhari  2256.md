@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The people used to sell camels on the basis of Habal-al-Habal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah mengabarkan kepada kami [Juwairiyah] dari [Nafi'] dari ['Abdullah radliallahu 'anhu] berkata: "Dahulu orang-orang Jahiliyah mempraktekkan jual beli apa yang ada didalam perut unta hingga unta itu melahirkan kemudian Nabi shallallahu 'alaihi wasallam melarangnya. Nafi' menafsirkan yang dimaksud dengan Al Jazur adalah: Unta melahirkan apa yang ada didalam perutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2256</td></tr><tr><td>Arabic No</td><td>2256</td></tr><tr><td>Reference</td><td>Book 35 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Раньше люди продавали верблюдов на основе “хабаль аль-хабаля” (продажа приплода приплода, находящегося в утробе верблюдицы), но Пророк ﷺ запретил это». Нафи‘ разъяснил это сказав: «До тех пор, пока верблюдица не родит то, что у неё утробе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2256</td></tr><tr><td>Arabic No</td><td>2256</td></tr><tr><td>Reference</td><td>Book 35 Hadith 16</td></tr></tbody></table></div>
 

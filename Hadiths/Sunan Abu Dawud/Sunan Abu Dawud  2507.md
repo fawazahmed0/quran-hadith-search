@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid bin Thabit said “I was beside the Apostle of Allaah(ﷺ) when the divinel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abdurrahman bin Abu Az Zinad], dari [ayahnya], dari [Kharijah bin Zaid] dari [Zaid bin Tsabit], ia berkata; aku pernah berada di sisi Rasulullah shallallahu 'alaihi wasallam, kemudian beliau diliputi oleh ketenangan, kemudian paha Rasulullah shallallahu 'alaihi wasallam terjatuh di atas pahaku, dan tidaklah aku mendapatkan sesuatu yang lebih berat daripada paha Rasulullah shallallahu 'alaihi wasallam. Kemudian rasa berat tersebut hilang dari beliau. Kemudian beliau berkata: "Tulislah!" Kemudian aku tuliskan di tulang pundak hewan firman Allah: "Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) dengan orang-orang yang berjihad di jalan Allah……" hingga akhir ayat. Kemudian Ibnu Ummi Maktum orang yang buta berdiri tatkala ia mendengar keutamaan orang-orang yang berjihad dijalan Allah, lalu berkata; wahai Rasulullah, bagaimana dengan orang mukmin yang tidak mampu untuk berjihad? Kemudian tatkala ia telah selesai berbicara maka Rasulullah shallallahu 'alaihi wasallam diliputi rasa tenang kemudian pahanya terjatuh di atas pahaku dan aku merasakan beratnya lagi sebagaimana aku merasakannya pada kali pertama. Kemudian rasa berat tersebut hilang dari Rasulullah shallallahu 'alaihi wasallam. Beliau berkata: "Bacalah wahai Zaid!" kemudian aku membaca: "Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) …" kemudian beliau berkata: "Selain orang-orang yang berudzur." Zaid berkata; Allah menurunkan ayat tersebut tersendiri, kemudian aku menggabungkannya. Demi Dzat yang jiwaku ada di tanganNya, sungguh sepertinya aku melihat gabungannya pada belahan tulang pundak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
 

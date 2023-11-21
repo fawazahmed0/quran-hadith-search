@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Ata' ibn AbuRabah asked Aisha: Can women offer p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Muhammad bin Syu'aib] dari [An Nu'man bin Al Mundzir] dari ['Atha' bin Abu Rabah] bahwa dia bertanya kepada [Aisyah] radliallahu 'anha; "Apakah kaum wanita di beri keringanan untuk mengerjakan shalat di atas kendaraan (binatang tunggangan)?" dia menjawab; "Tidak ada keringanan bagi mereka mengenai hal itu, baik dalam keadaan susah atau lapang." Muhammad mengatakan; "Larangan ini merupakan larangan dalam shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1228</td></tr><tr><td>Arabic No</td><td>1228</td></tr><tr><td>Reference</td><td>Book 4 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Атаъ ибн Абу Рабаха, что он спросил ‘Аишу, да будет доволен ею Аллах: «Разрешалось ли женщинам совершать молитву верхом?» Она ответила: «Им не разрешалось поступать так ни в дни тягот, ни в благополучные дни». Мухаммад сказал: «Речь идёт об обязательной молитве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1228</td></tr><tr><td>Arabic No</td><td>1228</td></tr><tr><td>Reference</td><td>Book 4 Hadith 31</td></tr></tbody></table></div>
 

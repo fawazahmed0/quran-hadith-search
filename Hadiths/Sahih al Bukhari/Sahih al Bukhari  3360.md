@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When the Verse:--"It is those who believe and do not confuse 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>3360</td></tr><tr><td>Reference</td><td>Book 60 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда был ниспослан (аят, в котором сказано): “Те, которые уверовали и не облекли свою веру в несправедливость…“ (сура “аль-Анам”, аят 82). Мы сказали: “О Посланник Аллаха, а кто же из нас не поступал несправедливо?“ Он ответил: “Это не то, о чём вы говорите. “…и не облекли свою веру в несправедливость” — то есть в многобожие. Разве вы не слышали слова Лукмана своему сыну: “О сын мой! Не приобщай к Аллаху сотоварищей, ибо многобожие является великой несправедливостью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>3360</td></tr><tr><td>Reference</td><td>Book 60 Hadith 35</td></tr></tbody></table></div>
 

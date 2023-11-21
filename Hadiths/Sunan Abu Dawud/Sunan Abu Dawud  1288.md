@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah: The Prophet (ﷺ) said: Prayer followed by a prayer with no 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'] telah menceritakan kepada kami [Al Haitsam bin Humaid] dari [Yahya bin Al Harits] dari [Al Qasim bin Abdurrahman] dari [Abu Umamah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Suatu shalat yang di kerjakan setelah shalat, yang antara kedua shalat tersebut tidak ada perkataan yang sia-sia, melainkan akan menjadi suatu catatan amal kelak di 'Iliyyin (nama surga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1288</td></tr><tr><td>Arabic No</td><td>1288</td></tr><tr><td>Reference</td><td>Book 5 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умамы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Молитва за молитвой без пустословия в промежутках между ними запись в ‘Иллиюне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1288</td></tr><tr><td>Arabic No</td><td>1288</td></tr><tr><td>Reference</td><td>Book 5 Hadith 39</td></tr></tbody></table></div>
 

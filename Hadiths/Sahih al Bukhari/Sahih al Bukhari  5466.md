@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I know (about) the Hijab (the order of veiling of women) more than
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim] ia berkata; telah menceritakan kepadaku [Bapakku] dari [Shalih] dari [Ibnu Syihab] bahwa [Anas] berkata, "Aku adalah orang yang paling paham dengan hijab, Ubai bin Ka'b pernah menanyakannya kepadaku. Rasulullah shallallahu 'alaihi wasallam menjadi pengantin dengan Zainab binti Jahsy, beliau menikahinya di Madinah. Beliau lalu mengundang para sahabat untuk menghadiri jamuan makan setelah siang hari. Rasulullah shallallahu 'alaihi wasallam kemudian duduk bersama beberapa orang setelah orang-orang pergi. Rasulullah shallallahu 'alaihi wasallam lalu berjalan pergi dan aku mengikutinya, hingga beliau sampai di depan pintu kamar Aisyah. Beliau mengira bahwa para sahabat tersebut sudah pulang, maka aku pun mengikuti beliau keluar dan ternyata mereka masih duduk-duduk di tempat mereka. Beliau lantas kembali masuk ke dalam, dan aku tetap mengikuti untuk yang kedua kalinya, hingga ketika sampai di depan pintu kamar Aisyah, beliau kembali keluar, dan aku tetap mengikutinya. Dan ternyata mereka semua telah pergi, kemudian beliau memasang hijab antara aku dengannya, lalu turunlah ayat hijab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5466</td></tr><tr><td>Arabic No</td><td>5466</td></tr><tr><td>Reference</td><td>Book 70 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Я лучше всех (остальных) людей знаю о завесе, и об этом меня спрашивал Убайй бин Ка‘б. (В своё время) Посланник Аллаха ﷺ женился на Зайнаб бинт Джахш в Медине, а когда наступил день, он пригласил людей на угощение. (Через некоторое время) Посланник Аллаха ﷺ вместе с некоторыми из них остался сидеть, а часть людей ушла. Потом встал и вышел Посланник Аллаха, а я пошёл вместе с ним. Он дошёл до дверей комнаты ‘Аиши и, подумав, что люди ушли, вернулся, и я вернулся вместе с ним, однако они всё ещё сидели на своих местах. Тогда он снова вернулся и я вернулся вместе с ним; дойдя же до дверей ‘Аиши, он вернулся обратно и я вернулся вместе с ним, и оказалось, что они уже ушли. А затем (Пророк ﷺ) опустил передо мной занавеску, после чего и был ниспослан (аят о) завесе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5466</td></tr><tr><td>Arabic No</td><td>5466</td></tr><tr><td>Reference</td><td>Book 70 Hadith 95</td></tr></tbody></table></div>
 

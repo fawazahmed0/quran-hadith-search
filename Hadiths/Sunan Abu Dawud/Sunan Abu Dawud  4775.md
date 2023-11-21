@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) used to sit with us in meetin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Abu Amir] berkata, telah menceritakan kepada kami [Muhammad bin Hilal] Bahwasanya ia mendengar [Bapaknya] menceritakan, ia berkata; [Abu Hurairah] menceritakan, ia mengatakan, "Rasulullah shallallahu 'alaihi wasallam duduk bersama kami membacakan hadits, ketika beliau berdiri kami pun ikut berdiri. hingga kami melihat beliau masuk ke salah satu rumah isterinya. Kemudian beliau membacakan hadits kepada kami di hari yang lain. lalu kami berdiri saat beliau berdiri, lantas kami melihat ke arah seorang Arab badui yang berpapasan dengan beliau. Badui itu menarik selendang beliau hingga lehernya merah." [Abu Hurairah] berkata, "Selendang Nabi tersebut terbuat dari kain yang kasar, beliau lalu menoleh ke belakang. Badui itu berkata, "Berikan kepadaku bekal (muatan) pada dua untaku ini. Maka sesungguhnya kamu tidak akan mampu memberikan bekal kepadaku baik dari hartamu sendiri maupun harta bapakmu." Nabi shallallahu 'alaihi wasallam kemudian bersabda: "Tidak. Dan aku memohon ampun kepada Allah, Tidak. Dan aku memohon ampun kepada Allah, Tidak. Dan aku memohon ampun kepada Allah. Aku tidak akan memberimu hingga engkau memberiku hak qishas karena tarikanmu terhadapku." Dan setiap itu pula, orang Arab badui itu berkata, "Demi Allah, aku tidak akan memberimu hak qishah untuk itu." Lalu perawi menyebutkan hadits secara lengkap. Abu Hurairah berkata, "Kemudian Rasulullah memanggil seorang laki-laki dan berkata kepadanya: "Berikanlah bekal (muatan) kepadanya di atas dua untanya ini, berilah gandum untuk seekor unta dan kurma unta unta yang lainnya." Setelah itu beliau berpaling ke arah kami, beliau bersabda: "Pergilah dengan berkah dari Allah Ta'ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4775</td></tr><tr><td>Arabic No</td><td>4775</td></tr><tr><td>Reference</td><td>Book 43 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что он сказал: «Пророк ﷺ часто сидел с нами в собрании, рассказывая нам о чём-то, а когда он вставал, мы тоже вставали и задерживались, пока не видели, что он зашёл в один из домов своих жён. И в один день, когда он рассказывал нам о чём-то и мы встали после того, как он встал, мы обратили внимание на бедуина, который догнал его и резко потянул его за плащ, отчего шея у него (Пророка ﷺ) покраснела».Абу Хурайра сказал: «И этот плащ был грубым. Он обернулся и этот бедуин сказал ему: “Загрузи мне этих двух моих верблюдов, ибо, ты загрузишь мне ни твоё имущество, и не имущество своего отца!” Но Пророк ﷺ ответил: “Нет, и прошу прощения у Аллаха! Нет, и прошу прощения у Аллаха! Нет, и прошу прощения у Аллаха! Я не загружу тебе, пока ты не позволишь мне отомстить тебе за то, что ты так дёрнул меня!” Однако бедуин всякий раз говорил ему: “Клянусь Аллахом, я не позволю тебе отомстить мне за это”».И далее он (Абу Хурайра) передал этот хадис и сказал: «Затем (Пророк ﷺ) подозвал какого-то человека и сказал ему: “Загрузи оба этих его верблюда: одного верблюда ячменём, а другого сухими финиками”. После этого он повернулся к нам и сказал: “Ступайте, с благословения Всевышнего Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4775</td></tr><tr><td>Arabic No</td><td>4775</td></tr><tr><td>Reference</td><td>Book 43 Hadith 3</td></tr></tbody></table></div>
 

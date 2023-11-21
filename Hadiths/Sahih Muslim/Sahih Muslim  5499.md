@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Allah's Messenger (ﷺ) forbade that a man should eat with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari [Abu Az Zubair] dari [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam melarang makan dengan tangan kiri, berjalan dengan sandal sebelah, berpakaian dengan menyelimuti seluruh tubuh (tanpa tangan dan tanpa baju dalam), dan duduk mencangkung (duduk dengan meninggikan lutut ke dada) dengan pakaian selapis sehingga auratnya kelihatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5499</td></tr><tr><td>Arabic No</td><td>2099.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5499</td></tr><tr><td>Arabic No</td><td>2099.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 114</td></tr></tbody></table></div>
 

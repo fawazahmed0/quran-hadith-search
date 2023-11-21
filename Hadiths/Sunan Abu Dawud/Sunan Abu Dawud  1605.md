@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbdurRahman ibn Mas'ud said:Sahl ibn Abu Hathmah came to our gathering. He said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hafsh bin Umar], telah menceritakan kepada Kami [Syu'bah] dari [Khubaib bin Abdurrahman] dari [Abdurrahman bin Mas'ud], ia berkata; [Sahl bin Abu Hatsmah] telah datang ke majelis Kami, ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam telah memerintahkan Kami, beliau bersabda: "Apabila kalian telah memperkirakan buah yang ada di pohon maka potonglah dan biarkan sepertiganya, apabila kalian tidak membiarkan atau tidak memotong sepertiga maka tinggalkan seperempat." Abu Daud berkata; orang yang memperkirakan meninggalkan sepertiga untuk pekerjaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1605</td></tr><tr><td>Arabic No</td><td>1605</td></tr><tr><td>Reference</td><td>Book 9 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Абу Хасма передаёт: «Посланник Аллаха ﷺ велел нам: “Определяйте количество плодов приблизительно, а потом оставляйте треть, а если не оставите или не обнаружите треть, то оставляйте четверть”». Абу Давуд сказал: «Человек, определяющий количество плодов приблизительно, оставляет упомянутую треть до времени сбора урожая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1605</td></tr><tr><td>Arabic No</td><td>1605</td></tr><tr><td>Reference</td><td>Book 9 Hadith 50</td></tr></tbody></table></div>
 

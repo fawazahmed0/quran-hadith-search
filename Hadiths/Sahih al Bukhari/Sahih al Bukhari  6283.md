@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Whenever Allah's Messenger (ﷺ) went to Quba, he used t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] bahwa dia mendengar [Anas bin Malik] radliallahu 'anhu berkata; "Apabila Nabi shallallahu 'alaihi wasallam pergi ke Quba', maka ia akan menemui Ummu Haram binti Milhan, dan Ummu Haram pun akan menjamunya, -dia adalah isteri dari 'Ubadah bin Shamit-. Suatu hari beliau menemui Ummu Haram, lantas ia menghidangkan makanan untuk beliau. Setelah itu Rasulullah shallallahu 'alaihi wasallam tertidur, tiba-tiba beliau terbangun sambil tertawa. Kata Ummu Haram, saya bertanya; 'Apa yang menyebabkanmu tertawa wahai Rasulullah? ' Beliau menjawab: 'Sekelompok umatku diperlihatkan (Allah) kepadaku, mereka berperang di jalan Allah mengarungi lautan seperti para raja di atas singgasana atau bagaikan para raja di atas singgasana.' -Ishaq ragu antara keduanya- Aku berkata; 'Wahai Rasulullah, do'akanlah semoga saya termasuk diantara mereka.' Kemudian beliau mendo'akannya. Setelah itu beliau meletakkan kepalanya hingga tertidur. Tiba-tiba beliau terbangun sambil tertawa. Lalu saya bertanya; 'Wahai Rasulullah, apa yang membuatmu tertawa? ' Beliau menjawab: 'Sekelompok umatku diperlihatkan (Allah) kepadaku, mereka berperang di jalan Allah mengarungi lautan seperti para raja di atas singgasana atau bagaikan para raja di atas singgasana.' Lalu saya berkata; 'Wahai Rasulullah, do'akanlah saya semoga termasuk diantara mereka! ' Beliau bersabda: 'Kamu termasuk dari rombongan pertama.' Pada masa (pemerintahan) Mu'awiyah, Ummu Haram turut dalam pasukan Islam berlayar ke lautan (untuk berperang di jalan Allah), ketika mendarat, dia terjatuh dari kendaraannya hingga meninggal dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6283</td></tr><tr><td>Arabic No</td><td>6283</td></tr><tr><td>Reference</td><td>Book 79 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6283</td></tr><tr><td>Arabic No</td><td>6283</td></tr><tr><td>Reference</td><td>Book 79 Hadith 56</td></tr></tbody></table></div>
 

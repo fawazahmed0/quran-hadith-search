@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mas'ud reported:The Messenger of Allah (may peace he upon him) used to touch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dan [Abu Muawiyah] serta [Waki'] dari [al-A'masy] dari [Umarah bin Umair at-Taimi] dari [Abu Ma'mar] dari [Abu Mas'ud] dia berkata, "Dahulu Rasulullah shallallahu 'alaihi wasallam mengusap pundak kami dalam shalat seraya bersabda, 'Luruskanlah, dan jangan berselisih sehingga hati kalian bisa berselisih. Hendaklah yang tepat di belakangku orang yang dewasa yang memiliki kecerdasan dan orang yang sudah berakal di antara kalian, kemudian orang yang sesudah mereka kemudian orang yang sesudah mereka'." [Abu Mas'ud] berkata, "Kamu sekarang, sangat berselisih." Dan telah menceritakannya kepada kami [Ishaq] telah mengabarkan kepada kami [Jarir] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Khasyram] telah mengabarkan kepada kami [Isa, yaitu Ibnu Yunus] dia berkata, --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Ibnu Uyainah] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>972</td></tr><tr><td>Arabic No</td><td>432.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд сказал: «Обычно (перед началом) молитвы Посланник Аллаха ﷺ брал нас за плечи и говорил: “Вырав­нивайтесь и не нарушайте единообразия, иначе не будет согласия между вашими сердцами. Пусть становятся за мной из вас зрелые и разумные мужчины, потом те, кто следует за ними, а потом те, кто следует за ними”».Абу Мас‘уд сказал: «Ныне же в разногласиях между собой вы дошли до крайности»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>972</td></tr><tr><td>Arabic No</td><td>432.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 134</td></tr></tbody></table></div>
 

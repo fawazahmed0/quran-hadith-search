@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir al-Juhani: Uqbah said to the Prophet (ﷺ): My sister ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syu'aib bin Ayyub], telah menceritakan kepada kami [Mu'awiya bin Hisyam] dari [Sufyan] dari [ayahnya], dari [Ikrimah] dari ['Uqbah bin 'Amir Al Juhani] bahwa ia berkata kepada Nabi shallallahu 'alaihi wasallam; sesungguhnya saudariku bernadzar untuk berjalan menuju Ka'bah. Kemudian beliau berkata: "Sesungguhnya Allah tidak berbuat sesuatu dengan berjalannya saudarimu ke Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3304</td></tr><tr><td>Arabic No</td><td>3304</td></tr><tr><td>Reference</td><td>Book 22 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от его отца рассказ его деда о том, что к Пророку ﷺ пришла одна женщина и сказала: «О Посланник Аллаха, я дала обет ударить в бубен пред тобой». (Посланник Аллаха ﷺ) сказал: «Выполни свой обет». Она также сказала: «И я дала обет зарезать животное в том месте, в котором обычно приносили в жертву животных во времена невежества». Посланник Аллаха ﷺ спросил: «Для истукана?» Она ответила: «Нет». Посланник Аллаха ﷺ спросил: «Для идола?» Она ответила: «Нет». Тогда (Посланник Аллаха ﷺ) сказал: «Выполни свой обет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3304</td></tr><tr><td>Arabic No</td><td>3304</td></tr><tr><td>Reference</td><td>Book 22 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said:The Messenger of Allah (ﷺ) sent us on an expedition and made Abu �
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] ia berkata, "Rasulullah shallallahu 'alaihi wasallam mengutus kami dan menjadikan Abu 'Ubaidah bin Al Jarrah sebagai pemimpin untuk menghadang rombongan pedagang Quraisy, beliau membekali kami dengan sekantung kurma yang kami tidak mengetahui beliau mempuyai kurma selain itu. Abu Ubaidah lalu membagikan kepada kami setiap satu butir untuk satu orang, dan kami hanya mengulum kurma tersebut sebagaimana seorang bayi mengulum. Kemudian kami minum air yang ada padanya, maka kurma tersebut cukup bagi kami pada hari itu hingga malam hari. Dan kami menggugurkan daun menggunakan tongkat kami, lalu kami membasahinya menggunakan air dan memakannya. Kami pergi ke tepi laut, kemudian kami mendapati sesuatu yang bentuknya seperti gundukan pasir yang besar. Kemudian kami mendatanginya, ternyata benda tersebut adalah hewan yang disebut paus. Abu 'Ubaidah berkata, "Itu adalah bangkai, tidak halal bagi kita!" Kemudian ia berkata, "Tidak, melainkan kita adalah para utusan Rasulullah shallallahu 'alaihi wasallam, dan berada di jalan Allah. Kalian dalam keadaan terdesak untuk memakannya, maka makanlah!" Kami kemudian memakannya selama satu bulan sedangkan jumlah kami adalah tiga ratus orang, hingga kami menjadi gemuk. Kemudian tatkala kami sampai kepada Rasulullah shallallahu 'alaihi wasallam, maka hal tersebut kami ceritakan kepada beliau. Beliau lalu bersabda: "Itu adalah rizki yang telah Allah keluarkan untuk kalian. Apakah kalian membawa sebagian dagingnya, hingga kalian berikan kepada kami?" Kemudian kami mengirimkan sebagiannya kepada Rasulullah shallallahu 'alaihi wasallam, dan beliau pun menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2483) Sahih Muslim (1935)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 28 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен Аллах им и его отцом, сказал: «Однажды Посланник Аллаха ﷺ послал нас в поход, назначив командиром Абу ‘Убайду ибн аль-Джарраха и поручив нам перехватить караван курайшитов. Не найдя ничего другого, он дал нам с собой только кожаный мешок с финиками, и Абу ‘Убайда выдавал каждому бойцу по одному финику в день. Мы сосали их, как это делают дети, а потом запивали водой, и этого нам хватало на целый день до наступления ночи. Кроме того, мы сбивали палками листья с кустов, которые едят верблюды, а потом размачивали их в воде и ели. Добравшись до берега моря, мы увидели там подобие огромного песчаного холма. Когда мы приблизились к нему, оказалось, что это туша кашалота. Сначала Абу ‘Убайда сказал: “Это мертвечина”, но потом он сказал: “Нет, мы посланцы Посланника Аллаха ﷺ и мы на пути Аллаха. Вы вынуждены делать это, поэтому ешьте”. Нас было триста человек, и мы провели рядом с ним целый месяц, питаясь его мясом, пока не располнели. А когда приехали в Медину, пришли к Посланнику Аллаха ﷺ и рассказали ему обо всём. Он сказал: “Это удел, который послал вам Аллах. Осталось ли у вас что-нибудь от этого мяса и для нас?” После этого мы послали Посланнику Аллаха ﷺ часть этого мяса, и он ел его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2483) Sahih Muslim (1935)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 28 Hadith 105</td></tr></tbody></table></div>
 

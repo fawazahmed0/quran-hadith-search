@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Dinar:On traveling, 'Abdullah bin 'Umar used to offer the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami ['Abdul 'Aziz bin Muslim] berkata, telah menceritakan kepada kami ['Abdullah bin Dinar] berkata: ['Abdullah bin 'Umar radliallahu 'anhu] pernah mengerjakan shalat dalam safarnya diatas hewan tunggangannya kearah manapun ia menghadap dengan cara memberi isyarat. Dan dia memberitakan bahwa Nabi shallallahu 'alaihi wasallam juga pernah mengerjakan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>1096</td></tr><tr><td>Reference</td><td>Book 18 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Динар сказал, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, совершал молитву в путешествии, сидя верхом на своей верблюдице, направляясь в ту сторону, куда она обращалась, наклоняя при этом свою голову [вместо поясных и земных поклонов]. И ‘Абдуллах упомянул, что Пророк ﷺ делал так
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>1096</td></tr><tr><td>Reference</td><td>Book 18 Hadith 16</td></tr></tbody></table></div>
 

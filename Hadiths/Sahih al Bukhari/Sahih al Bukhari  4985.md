@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Ya'la bin Umaiya:Ya'la used to say, "I wish I could see Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Hamam] Telah menceritakan kepada kami ['Atha'] sementara [Musaddad] berkata; Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] ia berkata; Telah mengabarkan kepadaku ['Ahta'] ia berkata; Telah mengabarkan [Shafwan bin Ya'la bin Umayyah] bahwa [Ya'laa] berkata; Duh sekiranya aku dapat melihat gelagat Rasulullah shallallahu 'alaihi wasallam ketika wahyu diturunkan pada beliau. Maka ketika Nabi shallallahu 'alaihi wasallam berada di Ji'ranah, beliau bernaung di bawah kain yang beliau kenakan dan beliau ditemani oleh beberapa orang sahabatnya. Tiba-tiba beliau didatangi oleh seseorang yang telah mengenakan wewangian. Laki-laki itu bertanya, "Wahai Rasulullah, bagaimakah pendapat Anda terhadap seorang laki-laki yang melakukan ihram dengan mengenakan Jubah setelah melumurinya dengan wewangian." Sesaat kemudian, datanglah Ya'la, lalu ia pun memasukkan kepalanya, ternyata ia mendapati wajah Rasulullah shallallahu 'alaihi wasallam yang telah memerah. Keadaan itu berlangsung sesaat, lalu kembali seperti semula. Kemudian beliau bertanya: "Manakah orang yang tadi bertanya kepadaku tentang Umrah?" Maka laki-laki itu pun dicari dan dihadapkan pada Nabi shallallahu 'alaihi wasallam, maka beliau pun bersabda: "Mengenai wewangiat yang masih melekat pada tubuhmu, maka cucilah sebanyak tiga kali, sedangkan jubah itu lepaskanlah. Lakukanlah pada umrahmu sebagaimana apa kamu lakukan pada ibadah hajimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4985</td></tr><tr><td>Arabic No</td><td>4985</td></tr><tr><td>Reference</td><td>Book 66 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сафуана ибн Йа‘ля ибн Умайя, что Йа‘ля говорил: «Увидеть бы Посланника Аллаха ﷺ в тот момент, когда ему ниспосылается откровение». Йа‘ля добавил: «Когда Пророк ﷺ был в Джи‘ране, прикрывшись от солнца в тени одежды, вместе с некоторыми его сподвижниками, к нему подошёл человек со следами шафранового благовония, и сказал: “О Посланник Аллаха, что ты скажешь о человеке, который вошёл в состояние ихрама в джуббе (кафтан), умастившись благовониями?” Пророк ﷺ подождал некоторое время, а затем ему стало приходить откровение. Тогда ‘Умар подал знак Йа‘ле, чтобы он подошёл. Подойдя, Йа‘ля заглянул внутрь и обнаружил, что лицо Пророка ﷺ покраснело, а сам он издавал звук, похожий на храп, так продолжалось некоторое время, а затем, когда это прекратилось, (очнувшись), он сказал: “Где тот, кто спрашивал недавно об ‘умре?” — когда этого человека нашли и привели, Пророк ﷺ сказал: “Что касается благовония, которое на тебе, то трижды смой его (со своего тела), а что касается джуббы, то сними её, а затем делай во время ‘умры то же самое, что делаешь во время хаджа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4985</td></tr><tr><td>Arabic No</td><td>4985</td></tr><tr><td>Reference</td><td>Book 66 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We set out with the Prophet (ﷺ) for Hajj and when we reached S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepadaku ['Abdul 'Aziz bin Abu Salamah] dari ['Abdurrahman bin 'Abdullah Al Qasim] dari [Al Qasim bin Muhammad] dari ['Aisyah] ia berkata, "Kami keluar bersama Nabi shallallahu 'alaihi wasallam dan tidak ada yang kami ingat kecuali untuk menunaikan hajji. Ketika kami sampai di suatu tempat bernama Sarif aku mengalami haid. Lalu Nabi shallallahu 'alaihi wasallam masuk menemuiku saat aku sedang menangis. Maka beliau bertanya: "Apa yang membuatmu menangis?" Aku jawab, "Demi Allah, pada tahun ini aku tidak bisa melaksanakan haji!" Beliau berkata: "Barangkali kamu mengalami haid?" Aku jawab, "Benar." Beliau pun bersabda: "Yang demikian itu adalah perkara yang sudah Allah tetapkan buat puteri-puteri keturunan Adam. Maka lakukanlah apa yang dilakukan orang yang berhaji kecuali thawaf di Ka'bah hingga kamu suci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>305</td></tr><tr><td>Arabic No</td><td>305</td></tr><tr><td>Reference</td><td>Book 6 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мы отправились в путь вместе с Пророком ﷺ и не говорили ни о чём, кроме паломничества. Когда мы приехали в местечко (с названием) Сариф, у меня начались месячные. Пророк ﷺ зашёл ко мне, а я (в это время) плакала, и спросил: “Что заставило тебя плакать?” Я ответила: “Клянусь Аллахом, лучше бы я не отправлялась в паломничество в этом году!” Он сказал: “Наверное, у тебя началось кровотечение”. Я ответила: “Да”. Тогда он сказал: “Поистине, это то, что предписал Аллах (всем) дочерям Адама, посему делай всё, что совершают паломники, но не совершай обхода вокруг Дома до тех пор, пока не очистишься”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>305</td></tr><tr><td>Arabic No</td><td>305</td></tr><tr><td>Reference</td><td>Book 6 Hadith 10</td></tr></tbody></table></div>
 

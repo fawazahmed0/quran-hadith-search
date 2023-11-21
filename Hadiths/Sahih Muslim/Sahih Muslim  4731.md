@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Malik that Ubaidullah b. Ziyad visi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Ghassan Al Misma'i] dan [Ishaq bin Ibrahim] dan [Muhammad bin Mutsanna], Ishaq berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan; telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [ayahku] dari [Qatadah] dari [Abu Al Malih], bahwa Ubaidullah bin Yizad menjenguk [Ma'qil bin Yasar] ketika sakit, Ma'qil lalu berkata kepadanya, "Sungguh saya akan menceritakan kepadamu suatu hadits, sekiranya saya tidak diambang kematian niscaya saya tidak akan menceritakannya kepadamu. Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang pemimpin yang mengurusi perkara kaum Muslimin sedang dia tidak bersungguh-sungguh dan tidak jujur, melainkan ia tidak akan dimasukkan bersama mereka ke dalam surga." Dan telah menceritakan kepada kami ['Uqbah bin Mukram Al 'Ammi] telah menceritakan kepada kami [Ya'qub bin Ishaq] telah mengabarkan kepadaku [Sawadah bin Abu Al Aswad] telah menceritakan kepadaku [ayahku] bahwa [Ma'qil bin Yasar] jatuh sakit, lantas Ubaidullah bin Ziyad datang menjenguknya… seperti haditsnya Hasan dari Ma'qil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>142.07</td></tr><tr><td>Reference</td><td>Book 33 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>142.07</td></tr><tr><td>Reference</td><td>Book 33 Hadith 30</td></tr></tbody></table></div>
 

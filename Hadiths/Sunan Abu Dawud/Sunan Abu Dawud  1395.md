@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: Wahb ibn Munabbih said: Abdullah ibn Amr a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nuh bin Habib] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Simak bin Al Fadl] dari [Wahb bin Munabbih] dari [Abdullah bin 'Amru] bahwa dia bertanya kepada Nabi shallallahu 'alaihi wasallam; "Berapa lamakah Al Qur'an di baca (hingga khatam)?" beliau bersabda: "Dalam jangka waktu empat puluh hari." Kemudian beliau bersabda: "Dalam jangka waktu sebulan." Kemudian beliau bersabda: "Dalam jangka waktu dua puluh hari." Kemudian beliau bersabda: "Dalam jangka waktu lima belas hari." Kemudian beliau bersabda: "Dalam jangka waktu sepuluh hari." Kemudian beliau bersabda: "Dalam jangka waktu tujuh hari, dan tidak kurang dari tujuh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>1395</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что он спросил Пророка ﷺ: «За сколько следует прочитывать Коран полностью?» Он ответил: «За сорок дней». Потом он сказал: «За месяц». Потом он сказал: «За двадцать дней». Потом он сказал: «За пятнадцать дней». Потом он сказал: «За десять дней». Потом он сказал: «За семь дней». И он не называл срока меньшего, чем семь дней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>1395</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
 

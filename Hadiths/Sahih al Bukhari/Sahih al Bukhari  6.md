@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: Allah's Messenger (ﷺ) was the most generous of all the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] dia berkata, telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] dan dengan riwayat yang sama, telah menceritakan pula kepada kami [Bisyir bin Muhammad] berkata, telah mengabarkan kepada kami [Abdullah] berkata, telah mengabarkan kepada kami [Yunus] dan [Ma'mar] dari [Az Zuhri] seperti lainnya berkata, telah mengabarkan kepada kami [Ubaidullah bin Abdullah] dari [Ibnu 'Abbas] berkata, bahwa Rasulullah shallallahu 'alaihi wasallam adalah manusia yang paling lembut terutama pada bulan Ramadlan ketika malaikat Jibril 'Alaihis Salam menemuinya, dan adalah Jibril 'Alaihis Salam mendatanginya setiap malam di bulan Ramadlan, dimana Jibril 'Alaihis Salam mengajarkan Al Qur'an. Sungguh Rasulullah shallallahu 'alaihi wasallam jauh lebih lembut daripada angin yang berhembus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Arabic No</td><td>6</td></tr><tr><td>Reference</td><td>Book 1 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Убейдуллаха ибн ‘Абдуллаха, что Ибн ‘Аббаса сказал:\n— Посланник Аллаха ﷺ был щедрейшим из людей, а наибольшую щедрость проявлял он в рамадане, когда с ним встречался Джибрил, и он встречался с ним каждую ночь рамадана, обучая его Корану, и, поистине, по этой причине Посланник Аллаха ﷺ был более щедрым на всё благое, чем вольный ветер
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Arabic No</td><td>6</td></tr><tr><td>Reference</td><td>Book 1 Hadith 6</td></tr></tbody></table></div>
 

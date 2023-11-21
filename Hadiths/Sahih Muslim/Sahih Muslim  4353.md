@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Malîk (que Dieu l'agrée), des gens de vinrent à Médine tro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dab [Abu Bakar bin Abu Syaibah] keduanya dari [Husyaim] dan ini adalah lafadz Yahya, dia berkata; telah mengabarkan kepada kami Husyaim dari [Abdul Aziz bin Shuhaib] dan [Humaid] dari [Anas bin Malik], bahwa beberapa orang dari kabilah 'Urainah pergi ke Madinah untuk menemui Rasulullah shallallahu 'alaihi wasallam. Setibanya di Madinah, mereka sakit karena udara Madinah tidak sesuai dengan kesehatan mereka. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka "Jika kalian mau, pergilah kepada unta-unta sedekah (unta zakat), lalu minum air susu dan kencingnya." Lalu mereka melakukan apa yang dianjurkan oleh Nabi shallallahu 'alaihi wasallam, sehingga mereka sehat kembali. Tetapi selang beberapa saat, mereka menyerang para penggembala unta dan mereka membunuhnya. Sesudah itu mereka murtad dari agama Islam, mereka juga rampas unta-unta Rasulullah shallallahu 'alaihi wasallam. Peristiwa tersebut dilaporkan kepada Rasulullah shallallahu 'alaihi wasallam, kemudian beliau memerintahkan supaya mengejar mereka sampai dapat. Setelah mereka di hadapan beliau, beliau memerintahkan supaya tangan dan kaki mereka dipotong, lalu mata mereka dicukil, sesudah itu mereka dibiarkan diterik matahari yang panas sampai mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>1671.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>1671.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abu Bakr:We were one-hundred and thirty persons accom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Al Mu'tamir bin Sulaiman] dari [bapaknya] dari [Abu 'Utsman] dari ['Abdurrahman bin Abu Bakar radliallahu 'anhuma] berkata; "Kami pernah bersama Nabi shallallahu 'alaihi wasallam (dalam perjalanan) berjumlah seratus tiga puluh orang lalu Beliau berkata: "Apakah diantara kalian yang memiliki makanan?" Maka jika ada sebanyak satu sha'makanan atau sejenisnya, dibuatlah adonan. Kemudian datang seorang musyrik yang berambut panjang namun agak semrawut membawa kambing yang digiringnya. Nabi shallallahu 'alaihi wasallam berkata: "Apakah kambing ini untuk dijual atau untuk dihadiahkan?" atau Beliau berkata dengan redaksi: "Atau dihibahkan?" Orang itu menjawab: "Tidak, tapi untuk dijual". Maka Beliau membeli seekor darinya". Lalu kambing itu dimasak dan Nabi shallallahu 'alaihi wasallam memerintahkan agar hatinya dibagi-bagikan. Demi Allah, tidak ada dari kami yang berjumlah seratus tiga puluh orang melainkan telah diberikan oleh Nabi shallallahu 'alaihi wasallam potongan jantung dari isi perut kambing tersebut. Jika ada yang hadir disitu, musti diberi, dan jika sedang tidak ada, disisakan baginya. Maka dibuat dalam dua kuali, lalu mereka makan semuanya dan kami merasa kenyang dan masih tersisa dua kuali lalu kami bawa diatas unta, atau sebagaimana dikatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2618</td></tr><tr><td>Arabic No</td><td>2618</td></tr><tr><td>Reference</td><td>Book 51 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Абу Бакр, да будет доволен Аллах ими обоими, сказал: «(Однажды, когда) мы в количестве ста тридцати человек находились вместе с Пророком ﷺ он спросил: “Есть ли у кого-нибудь из вас еда?” — и оказалось, что у какого-то человека есть около одного са‘ (муки), из которой было замешено тесто. А потом очень высокий человек с растрёпанными волосами из числа многобожников пришёл (к нам) и привёл с собой овец. Пророк ﷺ спросил (его): “(Ты) продаёшь (их нам) или даришь?” Он ответил: “Не (дарю), а продаю”, и (Пророк ﷺ) купил у него одну овцу, которая была забита и разделана, после чего Пророк ﷺ велел зажарить её потроха. И, клянусь Аллахом, среди этих ста тридцати человек не осталось ни одного, которому Пророк ﷺ не отрезал бы куска от этих потрохов, давая его каждому присутствовавшему и откладывая (кусок) для отсутствовавшего. А потом Пророк ﷺ положил (её мясо) на два больших блюда, и все люди наелись досыта, после чего на этих блюдах ещё осталось (мясо) и мы погрузили это на верблюда».\nИли же (‘Абдуррахман) сказал нечто подобное
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2618</td></tr><tr><td>Arabic No</td><td>2618</td></tr><tr><td>Reference</td><td>Book 51 Hadith 50</td></tr></tbody></table></div>
 

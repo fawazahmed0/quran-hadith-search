@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar (Allah be pleased with them) reported Allah's Massenger (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata; Telah mengabarkan kepada kami [Al Laits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Salim bin Abdullah bin Umar] dari [Abdullah bin Umar] dia berkata; Saya mendengar Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa menjual pohon kurma setelah dikawinkan, maka buahnya untuk orang yang menjual kecuali jika disyaratkan untuk pembeli. Barangsiapa menjual budak, maka hartanya (budak) bagi yang menjual kecuali disyaratkan untuk pembeli." Dan Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb], Yahya mengatakan; Telah mengabarkan kepada kami, sedangkan yang dua mengatakan; Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dengan isnad seperti ini. Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Salim bin Abdullah bin Umar] bahwa [ayahnya] berkata; Saya mendengar Rasulullah Shallallu 'alaihi wa sallam bersabda seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3905</td></tr><tr><td>Arabic No</td><td>1543.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3905</td></tr><tr><td>Arabic No</td><td>1543.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 104</td></tr></tbody></table></div>
 

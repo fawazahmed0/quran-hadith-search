@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:We were in the company of Allah's Messenger (ﷺ) when he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7439</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 55 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик (да будет доволен им Аллах) сказал: (Однажды, когда) мы находились у Посланника Аллаха ﷺ он рассмеялся и спросил: «Знаете ли вы из-за чего я смеюсь?» Мы сказали: «Аллах и Посланник Его знают об этом лучше». (Тогда Пророк ﷺ) сказал: «Из-за разговора раба (Аллаха) со своим Господом, (Которого в День воскрешения) он спросит: “О Господь мой, разве Ты не (обещал) мне защитить меня от несправедливости?” (Господь) скажет: “Да”. (Раб) скажет: “Но только я один могу свидетельствовать о себе”. (Гос­подь) скажет: “Сегодня достаточно того, что ты сам будешь свидетельст­вовать против себя вместе с благородными писцами”. (После этого чело­век) будет лишён дара речи, а (каждой из) частей его тела скажут: “Говори” и (каждая из них) расскажет о его делах, а потом ему вернут дар речи, и он воскликнет: “Чтоб вы пропали, ведь я хотел (защитить) вас!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7439</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 55 Hadith 23</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mahmud b. Labid reported:When 'Uthman b. 'Affan intended to build the mosque (of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin al-Mutsanna] dan lafazh tersebut milik Ibnu al-Mutsanna, keduanya berkata, telah menceritakan kepada kami [adh-Dhahhak bin Makhlad] telah mengabarkan kepada kami [Abdul Hamid bin Ja'far] telah menceritakan kepadaku [Bapakku] dari [Mahmud bin Labid] bahwa [Utsman bin Affan] bermaksud hendak merenovasi masjid, tetapi dicegah oleh orang banyak. Mereka lebih suka membiarkan masjid itu sebagaimana adanya. Maka dia berkata, "Aku mendengar Rasulullah shallallahu'alaihiwasallam, bersabda 'Siapa yang membangun masjid karena Allah, maka Allah membuatkan (rumah yang mulia) di surga untuknya seperti masjid itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1190</td></tr><tr><td>Arabic No</td><td>533.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Махмуда ибн Лябида, что ‘Усман ибн ‘Аффан захотел перестроить мечеть (Пророка ﷺ), однако людям это не понравилось, и они пожелали, чтобы он оставил её в прежнем виде. Тогда (‘Усман) сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Аллах построит дом в Раю для того, кто построит мечеть ради Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1190</td></tr><tr><td>Arabic No</td><td>533.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 30</td></tr></tbody></table></div>
 

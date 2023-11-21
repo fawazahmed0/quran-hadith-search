@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The people of Yemen have come to y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] Telah menceritakan kepada kami [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Telah datang penduduk Yaman, mereka adalah orang-orang yang perasaan (sensitive) dan hatinya paling lembut, kefaqihan dari Yaman, hikmah ada pada orang Yaman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 64 Hadith 413</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Пришли к вам люди из Йемена, сердца которых являются более тонкими и мягкими, (чем сердца других людей). Вера в Йемене и мудрость в Йемене, гордость и высокомерие свойственны владельцам верблюдов, а спокойствием и степенством отличаются владельцы овец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 64 Hadith 413</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu 'Ubaid, the freed slave of Ibn Azhar, reported that he said 'Id (prayer) wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Abu 'Ubaid] bekas budak Ibnu Azhar, bahwa dia pernah menghadiri shalat 'Iedul Adlha bersama-sama Umar bin Khaththab." Abu Ubaid berkata, "Aku juga pernah shalat bersama [Ali bin Abu Thalib], dia shalat sebelum khutbah. Setelah itu ia berkhutbah di hadapan orang-orang, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam melarang kalian memakan daging kurban sesudah tiga hari, jika lebih dari tiga hari, maka janganlah kalian mamakannya.'" Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami sepupuku [Ibnu Syihab]. (dalam jalur lain disebtkan) Telah menceritakan kepada kami [Hasan Al Khulwani] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [ayahku] dari [Shalih]. (dalam jalur lain disebtkan) Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] semuanya dari [Az Zuhri] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5098</td></tr><tr><td>Arabic No</td><td>1969.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5098</td></tr><tr><td>Arabic No</td><td>1969.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 35</td></tr></tbody></table></div>
 

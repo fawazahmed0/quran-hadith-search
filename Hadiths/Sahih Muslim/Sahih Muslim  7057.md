@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [bapakku] dari [kakekku] telah menceritakan kepada kami [Khalid bin Yazid] dari [Sa'id bin Abu Hilal] dari [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Sa'id Al Khudri] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Pada hari kiamat bumi itu akan seperti satu potong roti yang akan di ratakan oleh Allah dengan tangan-Nya hingga menjadi seimbang. Sebagaimana roti yang diratakan oleh salah seorang dari kalian diperjalanannya. sebagai hidangan bagi penghuni surga. Kemudian seorang laki-laki dari yahudi datang, ia berkata kepada beliau; "semoga Allah memberkahi kepadamu wahai Abu Qasim, beliau berkata kepadanya; maukah kamu kuberitahu tentang hidangan penghuni surga pada hari kiamat? Dia menjawab; 'Ya.' Beliau bersabda: bumi akan menjadi satu potong roti -sebagaimana sabda Rasulullah shallallahu 'alaihi wasallam tadi.- maka Rasulullah shallallahu 'alaihi wasallam melihat kepada kami dan tertawa hingga terlihat gigi serinya. Beliau shallallahu 'alaihi wasallam bertanya; maukah kuberitahukan kepadamu tentang lauk pauk mereka. Dia menjawab; lauknya adalah balaam (bahasa Ibarahin) dan nun. Para sahabat bertanya; apakah itu? Beliau menjawab; yaitu seekor sapi, sedangkan nun adalah daging yang paling baik dari hatinya yang akan dimakan oleh tujuh puluh ribu penghuni surga yang masuk tanpa hisab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7057</td></tr><tr><td>Arabic No</td><td>2792</td></tr><tr><td>Reference</td><td>Book 52 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7057</td></tr><tr><td>Arabic No</td><td>2792</td></tr><tr><td>Reference</td><td>Book 52 Hadith 13</td></tr></tbody></table></div>
 

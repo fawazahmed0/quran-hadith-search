@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] dari [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti Abdurrahman] bahwasanya dia telah mengabarkan kepadanya bahwasanya [Aisyah], istri Nabi shallallahu 'alaihi wasallam berkata; Seandainya Rasulullah shallallahu 'alaihi wasallam mendapati apa yang terjadi pada kaum wanita saat ini, niscaya beliau akan melarang mereka pergi ke masjid, sebagaimana kaum wanita bani Israil dilarang. Berkata Yahya; Saya bertanya kepada Amrah; Apakah kaum wanita bani Israil dilarang ke masjid? Dia menjawab; Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (869) Sahih Muslim (445)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>569</td></tr><tr><td>Arabic No</td><td>569</td></tr><tr><td>Reference</td><td>Book 2 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Яхйи ибн Са‘ида о том, что ‘Амра бинт ‘Абду-р-Рахман сообщила ему, что ‘Аиша, жена Пророка ﷺ сказала: «Если бы Посланник Аллаха ﷺ увидел, что творят (сейчас) женщины, то он непременно запретил бы им (посещать) мечеть, как это было запрещено женщинам сынов Исраила».Яхйа сказал: «Я спросил у ‘Амры: “Разве женщинам сынов Исраила это было запрещено?”. Она ответила: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (869) Sahih Muslim (445)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>569</td></tr><tr><td>Arabic No</td><td>569</td></tr><tr><td>Reference</td><td>Book 2 Hadith 179</td></tr></tbody></table></div>
 

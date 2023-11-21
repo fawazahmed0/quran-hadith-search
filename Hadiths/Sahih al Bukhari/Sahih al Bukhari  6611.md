@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:That the Prophet (ﷺ) said, "No Caliph is appointe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] telah memberitakan kepada kami [Abdullah] telah memberitakan kepada kami [Yunus] dari [Az Zuhri] menuturkan; telah menceritakan kepadaku [Abu Salamah] dari [Abu Sa'id Al Khudzri] dari Nabi shallallahu 'alaihi wasallam, bersabda: "tidaklah seorang khalifah dilantik melainkan ia mempunyai dua kubu, kubu yang memerintahkan dan mendorongnya melakukan kebaikan, dan kubu yang memerintahkan dan mendorongnya melakukan keburukan, dan orang yang terjaga adalah yang dijaga Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6611</td></tr><tr><td>Arabic No</td><td>6611</td></tr><tr><td>Reference</td><td>Book 82 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Какого бы халифа ни избрали (после меня), у него обязательно будут две группы приспешников: одни станут советовать ему благое и побуждать его к этому, другие же станут советовать ему дурное и побуждать его к этому, а хранимым будет тот, кого сохранит Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6611</td></tr><tr><td>Arabic No</td><td>6611</td></tr><tr><td>Reference</td><td>Book 82 Hadith 17</td></tr></tbody></table></div>
 

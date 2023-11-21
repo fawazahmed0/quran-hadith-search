@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(as regards the explanation of Hadith 454). 'Indeed, it (Hel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] Telah menceritakan kepada kami [Abdurrahman bin Abis] ia berkata; Aku mendengar [Ibnu Abbas] menjelaskan ayat: "INNAHAA TARMII BISYARARIN KALQASHR." Ia berkata, "Biasanya kami mengangkat papan setinggi tiga hasta atau lebih rendah dari itu dengan tongkat guna memasuki musim dingin, lalu kami pun menamakannya Al Qashr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4932</td></tr><tr><td>Arabic No</td><td>4932</td></tr><tr><td>Reference</td><td>Book 65 Hadith 453</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Абис сказал: «Я слышал, что Ибн ‘Аббас сказал об этом аяте “…а он бросает искры, подобные замку (аль-каср)”: “Мы собирали брёвна на зиму, длиной в три локтя, или чуть короче. Такие куски мы называли аль-каср”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4932</td></tr><tr><td>Arabic No</td><td>4932</td></tr><tr><td>Reference</td><td>Book 65 Hadith 453</td></tr></tbody></table></div>
 

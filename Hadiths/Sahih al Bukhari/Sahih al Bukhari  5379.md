@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A tailor invited Allah's Messenger (ﷺ) to a meal which
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] bahwa ia mendengar [Anas bin Malik] berkata; Sesungguhnya Khayyath mengundang Rasulullah shallallahu 'alaihi wasallam untuk menyantap makanan yang dibuatnya. Anas berkata; Maka aku pun pergi bersama Rasulullah shallallahu 'alaihi wasallam, lalu aku melihat beliau mencari-cari labu dari sekitar piring. Maka sejak hari itu, aku pun mulai menyukai labu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5379</td></tr><tr><td>Arabic No</td><td>5379</td></tr><tr><td>Reference</td><td>Book 70 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(В своё время один) портной пригласил Посланника Аллаха ﷺ отведать еды, которую он приготовил. Я пошёл (на это угощение) вместе с Посланником Аллаха ﷺ, и видел, как Пророк ﷺ выискивал и брал (ломтики) тыквы со (всех) краёв блюда». (Анас) сказал: «И с того дня я полюбил тыкву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5379</td></tr><tr><td>Arabic No</td><td>5379</td></tr><tr><td>Reference</td><td>Book 70 Hadith 7</td></tr></tbody></table></div>
 

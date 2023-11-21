@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once the Prophet (ﷺ) set out in the month of Ramadan. He o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] berkata telah bercerita kepadaku [Az Zuhriy] dari ['Ubaidullah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam keluar bepergian di bulan Romadhan dan tetap melaksanakan shoum (puasa) hingga ketika sampai di Al Kadid, Beliau berbuka". Berkata Sufyan, Az Zuhriy berkata telah bercerita kepadaku 'Ubaidullah dari Ibnu 'Abbas radliallahu 'anhu lalu dia menyebutkan hadits ini. Berkata Abu 'Abdullah Al Bukhariy: "Ini merupakah ucapannya Az Zuhriy. Sedangkan disebutkan di Akhir adalah perbuatan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2953</td></tr><tr><td>Arabic No</td><td>2953</td></tr><tr><td>Reference</td><td>Book 56 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Когда Посланник Аллаха ﷺ отправился (в Мекку) во время рамадана, он соблюдал пост (в течение определённого времени), но, достигнув аль-Кадида, (Пророк ﷺ) прервал пост, и люди перестали поститься (вместе с ним)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2953</td></tr><tr><td>Arabic No</td><td>2953</td></tr><tr><td>Reference</td><td>Book 56 Hadith 165</td></tr></tbody></table></div>
 

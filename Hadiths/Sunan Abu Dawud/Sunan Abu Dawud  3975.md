@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Thabit: The Prophet (ﷺ) used to read: "Not equal are those b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Ibnu Abu Az Zinad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Abu Az Zinad Asyba'] dari [Ayahnya] dari [Kharijah bin Zaid bin Tsabit] dari [Ayahnya], bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: (yang tidak mempunyai 'uzur…) ' (Qs. An Nisaa; 95). Sa'id tidak menyebutkan kata, 'membaca
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3975</td></tr><tr><td>Arabic No</td><td>3975</td></tr><tr><td>Reference</td><td>Book 32 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариджа ибн Зейд ибн Сабит передаёт от своего отца, что Пророк ﷺ читал: «Не испытывая тягот /гайру ули-д-дарар/» (сура «ан-Ниса», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3975</td></tr><tr><td>Arabic No</td><td>3975</td></tr><tr><td>Reference</td><td>Book 32 Hadith 7</td></tr></tbody></table></div>
 

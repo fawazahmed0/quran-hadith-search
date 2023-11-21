@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] bahwa [Ibnu Syihab] telah mengabarkan kepadanya, ia berkata, telah mengabarkan kepadaku ['Atha' bin Yazid Al Laitsi] bahwa ia mendengar [Abu Sa'id Al Khudri] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh shalat sesudah Ashar hingga matahari terbenam dan tidak boleh shalat sesudah shalat Fajar hingga matahari terbit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1923</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 6 Hadith 351</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Не следует совершать (добровольные) молитвы после послеполуденной молитвы /‘аср/ до захода солнца, и не следует совершать (добровольные) молитвы после утренней молитвы /фаджр/, пока не взойдёт солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1923</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 6 Hadith 351</td></tr></tbody></table></div>
 

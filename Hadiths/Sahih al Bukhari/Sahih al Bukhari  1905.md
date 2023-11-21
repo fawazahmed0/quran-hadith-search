@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Alqama:While I was walking with 'Abdullah he said, "We were in the com
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] berkata; Ketika aku sedang berjalan bersama ['Abdullah radliallahu 'anhu], dia berkata: Kami pernah bersama Nabi shallallahu 'alaihi wasallam yang ketika itu Beliau bersabda: "Barangsiapa yang sudah mampu (menafkahi keluarga), hendaklah dia kawin (menikah) karena menikah itu lebih bisa menundukkan pandangan dan lebih bisa menjaga kemaluan. Barangsiapa yang tidak sanggup (manikah) maka hendaklah dia berpuasa karena puasa itu akan menjadi benteng baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1905</td></tr><tr><td>Arabic No</td><td>1905</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «(Однажды, когда) мы были вместе с Пророком ﷺ, он сказал: “Пусть женится тот, кто может (жениться), поскольку это в наибольшей степени способствует потуплению взоров и защите половых органов; тому же, кто жениться не может, следует поститься, ибо пост для него (будет подобен) холощению”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1905</td></tr><tr><td>Arabic No</td><td>1905</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
 

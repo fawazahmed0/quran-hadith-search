@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik reported:When the Apostle of Allaah (sal Allahu alayhi wa sallam) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Hammad bin Zaid] dan [Abdul Warits] dari [Abdul Aziz bin Shuhaib] dari [Anas] dia berkata; Rasulullah shallallahu 'alaihi wasallam apabila hendak masuk WC -dia (Musaddad) meriwayatkan dari Hammad- beliau mengucapkan: "Ya Allah, sesungguhnya aku berlindung kepadamu" -sedangkan yang dia riwayatkan dari Abdul Harits- beliau mengucapkan: "Aku berlindung kepada Allah dari setan jantan dan setan betina." Abu Dawud mengatakan; Syu'bah meriwayatkan dari Abdul Aziz (dengan lafazh); "Ya Allah, sesungguhnya aku berlindung kepadaMu", dalam kesempatan lain dia meriwayatkan (dengan lafazh); "Aku berlindung kepada Allah", dan Wuhaib menyebutkan; "Hendaklah dia berlindung kepada Allah." Telah menceritakan kepada kami [Al Hasan bin Amru, yakni As Sadusi] telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Abdul Aziz, yaitu Ibnu Shuhaib] dari [Anas] dengan lafazh hadits ini, dia (Syu'bah) meriwayatkan (dari Abdul Aziz dengan lafazh); "Ya Allah, sesungguhnya aku berlindung kepadaMu." Syu'bah mengatakan; Abdul Aziz dalam kesempatan lain meriwayatkan (dengan lafazh); "Aku berlindung kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (142) Sahih Muslim (375)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4</td></tr><tr><td>Arabic No</td><td>4</td></tr><tr><td>Reference</td><td>Book 1 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Когда Посланник Аллаха ﷺ заходил в отхожее место…».(Мусаддад) сказал: «Передают со слов Хаммада (ибн Зейда о том, что Пророк ﷺ) сказал: “О Аллах, я прибегаю к Твоей защите” /Аллахумма инни а‘узу бика/».(Мусаддад также) передал от ‘Абдуль-Вариса о том, что (Пророк ﷺ) сказал: «Прибегаю к Аллаху от шайтанов мужского и женского пола /А‘узу би-Лляхи мин-аль-хубуси ва-ль-хабаиси/».Вухайб передал со слов ‘Абдуль-‘Азиза (о том, что Посланник Аллаха ﷺ сказал): «Пусть прибегает к защите Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (142) Sahih Muslim (375)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4</td></tr><tr><td>Arabic No</td><td>4</td></tr><tr><td>Reference</td><td>Book 1 Hadith 4</td></tr></tbody></table></div>
 

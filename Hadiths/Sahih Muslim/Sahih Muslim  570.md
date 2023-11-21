@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Amr (رضي الله عنهما) a dit : A notre retour de La Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Hilal bin Yisaf] dari [Abu Yahya] dari [Abdullah bin Amru] dia berkata, "Suatu hari, kami pulang bersama Rasulullah shallallahu 'alaihi wasallam dari Makkah menuju Madinah. Di pertengahan jalan, ketika kami tiba di suatu tempat yang mempunyai air, maka kami dapati sekelompok manusia dalam keadaan tergesa-gesa mengambil wudlu karena waktu Ashar hampir habis. Ketika kami menghampiri mereka, kami dapati tumit-tumit mereka kering tidak dibasahi air. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Celakalah bagi tumit-tumit (yang tidak terbasuh dengan air wudlu) dengan api Neraka. Sempurnakanlah wudlu kalian dengan baik." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata, telah menceritakan kepada kami [Syu'bah] keduanya dari [Manshur] dengan sanad ini, dan pada hadits Syu'bah tidak ada lafazh, "Sempurnakanlah wudlu kalian." Dan dalam haditsnya dari [Abu Yahya al-A'raj]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>570</td></tr><tr><td>Arabic No</td><td>241.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «Однажды мы возвращались вместе с Посланником Аллаха ﷺ из Мекки в Медину. Когда мы добрались до (источника) воды, приблизилось время послеобеденной молитвы /‘аср/, и люди в спешке принялись за совершение омовения. Когда мы с (Пророком ﷺ) дошли до них, их пятки блестели, ибо их не коснулась вода. (Увидев это,) Посланник Аллаха ﷺ сказал: “Горе пяткам от Огня! Совершайте омовение должным образом!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>570</td></tr><tr><td>Arabic No</td><td>241.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 37</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) was the (most handsome), most generous and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Hammad] dari [Tsabit] dari [Anas radliallahu 'anhu] berkata; Rasulullah Shallallahu'alaiwasallam adalah manusia yang paling baik, paling baik rupa penampilannya dan paling berani". Anas berkata: "Pernah penduduk Madinah ketakutan di malam hari ketika mereka mendengar suara huru-hara. Langsung Nabi Shallallahu'alaihiwasallam mendatangi mereka dengan menunggang kuda milik Abu Tholhah tanpa pelana dengan pedang tergantung di badan Beliau. Beliau berkata: "Janganlah kalian takut, janganlah kalian takut". Kemudian Beliau berkata lagi: "Sungguh kudapatkan kuda ini sangat cepat larinya". Yang Beliau maksudkan adalah kuda (yang ditunggangi Beliau padahal sebelumnya kuda itu sangat lamban)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3040</td></tr><tr><td>Arabic No</td><td>3040</td></tr><tr><td>Reference</td><td>Book 56 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ был лучшим и самым смелым из людей. Однажды, когда люди в Медине испугались, услышав какой-то шум, навстречу к ним вышел Пророк ﷺ, (который уже узнал в чём дело). Он ехал на неоседланном коне Абу Тальхи с мечом, перекинутым через плечо, говоря: “Не бойтесь! Не бойтесь!” А затем он сказал: “Я обнаружил, что этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3040</td></tr><tr><td>Arabic No</td><td>3040</td></tr><tr><td>Reference</td><td>Book 56 Hadith 246</td></tr></tbody></table></div>
 

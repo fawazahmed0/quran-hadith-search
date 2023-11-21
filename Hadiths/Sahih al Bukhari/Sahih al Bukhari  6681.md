@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Musaiyab:When the death of Abu Talib approached, Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] menuturkan; telah mengabarkan kepadaku [Sa'id bin Musayyab] dari [ayahnya] berkata; Ketika abu thalib menghadapi wafatnya, Rasulullah Shallallahu'alaihiwasallam mendatanginya dan berujar: "Ucapkan laa-ilaaha-illallah, kalimat yang dapat aku jadikan sebagai hujjah disisi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6681</td></tr><tr><td>Arabic No</td><td>6681</td></tr><tr><td>Reference</td><td>Book 83 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Са‘ида ибн аль-Мусаййиба, да помилует Его Аллах Всевышний, что его отец (аль-Мусаййиб ибн Хазн), да будет доволен им Аллах, сказал: «Когда Абу Талиб был уже близок к смерти, к нему пришёл Посланник Аллаха ﷺ и сказал: «Произнеси слова: “Нет бога, достойного поклонения, кроме Аллаха /Ля иляха илля-Ллах/”, благодаря чему я смогу свидетельствовать за тебя пред Аллахом!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6681</td></tr><tr><td>Arabic No</td><td>6681</td></tr><tr><td>Reference</td><td>Book 83 Hadith 58</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: While the Messenger of Allah (ﷺ) was walking a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Marwazi], telah menceritakan kepadaku [Ali bin Husain], telah menceritakan kepadaku [ayahku], telah menceritakan kepadaku [Abdullah bin Buraidah], ia berkata; saya mendengar [Buraidah], berkata; ketika Rasulullah shallallahu 'alaihi wasallam berjalan, terdapat seorang laki-laki yang datang membawa seekor keledai dan berkata; wahai Rasulullah, naiklah! Dan orang tersebut berhenti. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak, engkau lebih berhak terhadap hewan tungganganmu, kecuali engkau memberikannya kepadaku." Ia berkata; aku telah memberikannya kepada engkau. Kemudian beliau menaiki keledai tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2572</td></tr><tr><td>Arabic No</td><td>2572</td></tr><tr><td>Reference</td><td>Book 15 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2572</td></tr><tr><td>Arabic No</td><td>2572</td></tr><tr><td>Reference</td><td>Book 15 Hadith 96</td></tr></tbody></table></div>
 

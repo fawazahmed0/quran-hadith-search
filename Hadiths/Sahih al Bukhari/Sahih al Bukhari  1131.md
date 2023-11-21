@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:Allah's Messenger (ﷺ) told me, "The mos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru bin Dinar] bahwa ['Amru bin Aus] mengabarkannya bahwa ['Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhu'anhuma] mengabarkannya bahwa Rasulullah shallallahu 'alaihi wasallam pernah berkata kepadanya: "Shalat yang paling Allah cintai adalah shalatnya Nabi Daud Alaihissalam dan shaum (puasa) yang paling Allah cintai adalah shaumnya Nabi Daud alaihissalam. Nabi Daud Alaihissalam tidur hingga pertengahan malam lalu shalat pada sepertiganya kemudian tidur kembali pada seperenam akhir malamnya. Dan Nabi Daud Alaihissalam shaum sehari dan berbuka sehari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1131</td></tr><tr><td>Arabic No</td><td>1131</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах ими обоими, что однажды Посланник Аллаха ﷺ сказал ему: «Самой любимой молитвой для Аллаха является молитва Дауда, мир ему, и самым любимым постом для Аллаха является пост Дауда, который всегда спал половину ночи, (потом) совершал молитву треть её, а (потом) спал шестую часть ночи, постился же он через день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1131</td></tr><tr><td>Arabic No</td><td>1131</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
 

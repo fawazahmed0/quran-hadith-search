@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), Abou Jahl dit : "Seigneur, si cela
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Anbari] telah menceritakan kepada kami [ayahku] dari [Syu'bah] dari [Abdul Hamid Az Ziyadi], ia mendengar [Anas bin Malik] berkata: Abu Jahal pernah berkata: Ya Allah, jika memang ini benar-benar berasal dariMu maka turunkanlah hujan batu atas kami dari langit atau datanglah adzab yang pedih kepada kami. Maka turunlah ayat: "Dan Allah sekali-kali tidak akan mengazab mereka, sedang kamu berada di antara mereka. dan tidaklah (pula) Allah akan mengazab mereka, sedang mereka meminta ampun. Kenapa Allah tidak mengazab mereka padahal mereka menghalangi orang untuk (mendatangi) Masjidil haram." (Al Anfaal: 33) hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7064</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 52 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7064</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 52 Hadith 20</td></tr></tbody></table></div>
 

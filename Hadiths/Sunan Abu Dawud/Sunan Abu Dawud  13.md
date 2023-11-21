@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet of Allah (ﷺ) forbade us to face the q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [ayahku] dia berkata; Saya pernah mendengar [Muhammad bin Ishaq] menceritakan hadits dari [Aban bin Shalih] dari [Mujahid] dari [Jabir bin Abdullah] dia berkata; Nabiyullah shallallahu 'alaihi wasallam telah melarang kita menghadap kiblat tatkala buang air kecil, kemudian saya melihat beliau setahun sebelum wafat, buang air kecil menghadap kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Пророк Аллаха ﷺ запретил нам поворачиваться в сторону киблы во время справления малой нужды, и я видел, как за год до своей смерти он поворачивался в её (киблы) сторону (справляя нужду)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
 

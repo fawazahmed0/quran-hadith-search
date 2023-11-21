@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Najiyah al-Aslami: The Messenger of Allah (ﷺ) sent sacrificial camels
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Abu Sufyan] dari [Hisyam] dari [ayahnya] dari [Najiyah Al Aslami] bahwa Rasulullah shallAllahu wa'alaihi wa sallam telah mengirim unta kurban bersamanya. Beliau berkata: "Apabila sebagiannya telah mendekati kematian maka sembelihlah hewan tersebut, kemudian celupkan sandal kakinya ke dalam darahnya, kemudian biarkan dimanfaatkan orang-orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1762</td></tr><tr><td>Arabic No</td><td>1762</td></tr><tr><td>Reference</td><td>Book 11 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Наджия аль-Аслями, да будет доволен им Аллах, что Посланник Аллаха ﷺ отправил с ним свой жертвенный скот, сказав: «Если какое-нибудь животное заболеет, зарежь его, затем пометь его повязку с сандалиями его кровью, а потом оставь его людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1762</td></tr><tr><td>Arabic No</td><td>1762</td></tr><tr><td>Reference</td><td>Book 11 Hadith 42</td></tr></tbody></table></div>
 

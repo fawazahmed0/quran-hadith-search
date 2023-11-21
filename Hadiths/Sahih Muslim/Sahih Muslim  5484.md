@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that one day he saw on the finger of Allah's Messenger (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Abdillah bin Numair]; Telah menceritakan kepada kami [Rauh]; Telah mengabarkan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Ziyad]; Bahwa [Ibnu Syihab]; Telah mengabarkan kepadanya [Anas bin Malik]; Telah mengabarkan kepadanya, Bahwasanya pada suatu hari dia melihat di tangan Rasulullah shallallahu 'alaihi wasallam sebuah cincin dari perak. Kemudian para sahabat pun saling membuat cincin dari perak dan memakainya. Tatkala Nabi shallallahu 'alaihi wasallam membuang cincinnya, para sahabat pun ikut membuang cincin mereka. Telah menceritakan kepada kami ['Uqbah bin Mukram Al 'Ammi]; Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] melalui jalur ini dengan sanad yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5484</td></tr><tr><td>Arabic No</td><td>2093.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5484</td></tr><tr><td>Arabic No</td><td>2093.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 99</td></tr></tbody></table></div>
 

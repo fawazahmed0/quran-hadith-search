@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid:A bedouin came to the Prophet (ﷺ) whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ashim bin 'Ali] telah menceritakan kepada kami [Ibnu Abi dzi'b] dari [Az Zuhri] dari [Ubaidullah] dari [Abu Hurairah] dan [Zaid bin Khalid]; ada seorang laki-laki dari arab badui menemui Nabi shallallahu 'alaihi wasallam yang ketika itu beliau sedang duduk, ia berseru; 'Ya Rasulullah, Putuskanlah dengan kitabullah! ' berdirilah lawan sengketanya dan berujar; 'Ia benar, putuskanlah baginya ya Rasulullah dengan kitabullah. Anakku menjadi pekerja laki-laki ini, ia kemudian berzina dengan isterinya, orang-orang mengabariku bahwa anakku harus dirajam, maka aku menebusnya dengan seratus ekor kambing dan satu hamba sahaya, kemudian aku bertanya kepada para ahlu ilmu dan mereka nyatakan bahwa anakku harus didera seratus kali dan diasingkan selama setahun.' Maka Nabi bersabda: "Demi Dzat yang jiwaku berada di tangan-NYA, aku akan memutuskan perkara diantara kalian berdua dengan kitabullah, adapun kambing dan hamba sahaya itu, dikembalikan kepadamu, sedang anakmu harus didera seratus kali dan diasingkan selama setahun, adapun engkau hai Unais, datanglah ke istri lelaki ini, dan rajamlah dia." Maka Unais mendatangi (istri lelaki tersebut) dan merajamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6835</td></tr><tr><td>Arabic No</td><td>6835</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра и Зейд ибн Халид, да будет доволен Аллах ими обоими, передают: «(Как-то раз) один человек из числа бедуинов пришёл к Пророку ﷺ когда он находился в сидячем положение и сказал: “О Посланник Аллаха, рассуди согласно Книге Аллаха!” Человек же, с которым у него была тяжба, поднялся и сказал: “Он изрёк истину, рассуди его согласно Книге Аллаха, о Посланник Аллаха! Поистине, мой сын был наёмным работником у этого человека и совершил прелюбодеяние с его женой. Мне сказали, что за это моего сына следует подвергнуть побиванию камнями, но я отдал сто овец и рабыню в качестве выкупа за него. А потом я спросил (об этом) обладающих знанием и они сказали мне, что мой сын должен получить сто ударов и отправиться в изгнание на год”. Тогда Пророк ﷺ сказал: “Клянусь Тем, в Чьей руке моя душа, я обязательно рассужу вас согласно Книге Аллаха! Рабыня и овцы должны быть возвращены тебе, а что касается твоего сына, то ему необходимо нанести сто ударов и отправить его в изгнание на год. А что касается тебя о Унайс, то отправляйся к жене этого (человека) и побей её камнями”. (После этого) Унайс пошёл к ней и он побил её камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6835</td></tr><tr><td>Arabic No</td><td>6835</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

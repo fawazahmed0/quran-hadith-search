@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said to Ubai (bin Ka'b). "Allah has or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Qatadah] dari [Anas bin Malik] radliallahu 'anhu, ia berakta; Nabi shallallahu 'alaihi wasallam bersabda kepada Ubbay bin Ka'ab, "Sesungguhnya Allah telah memerintahkanku untuk membacakan Al Qur'an kepadamu. Yaitu ayat: 'LAM YAKUNIL LADZIINA KAFARUU..'" Ubbay bertatanya, "Apakah Allah juga menyebut namaku?." Beliau menjawab: "Ya." Akhirnya, Ubbay pun menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4959</td></tr><tr><td>Arabic No</td><td>4959</td></tr><tr><td>Reference</td><td>Book 65 Hadith 481</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал Убаййу: “Поистине, Аллах велел мне прочитать тебе (следующий аят): “Не расставались те, которые не уверовали...”. (Убайй) спросил: “И Он назвал моё имя?” (Пророк ﷺ) сказал: “Да”, и (, услышав это, Убайй) заплакал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4959</td></tr><tr><td>Arabic No</td><td>4959</td></tr><tr><td>Reference</td><td>Book 65 Hadith 481</td></tr></tbody></table></div>
 

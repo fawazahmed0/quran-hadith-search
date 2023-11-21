@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ayyub Al-Ansari:It was said" "O Allah's Messenger! Inform me of a d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5982</td></tr><tr><td>Arabic No</td><td>5982</td></tr><tr><td>Reference</td><td>Book 78 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Аййюба о том, что (как-то раз) один человек (попросил Пророка ﷺ): «О Посланник Аллаха, назови мне такое дело, которое поможет мне попасть в Рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5982</td></tr><tr><td>Arabic No</td><td>5982</td></tr><tr><td>Reference</td><td>Book 78 Hadith 13</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Ad-Dajjal was mentioned in the presence of the Prophet. The P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari ['Abdullah] berkata, "Dajjal disebut-sebut di sisi Nabi shallallahu 'alaihi wasallam, lantas beliau berkomentar" 'Allah tidak samar bagi kalian, Allah tidak buta sebelah -sambil beliau mendemontrasikan dengan tangannya ke matanya- 'dan bahwasanya al masih addajjal buta sebelah kanan, seolah-olah matanya anggur yang menjorok
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7407</td></tr><tr><td>Arabic No</td><td>7407</td></tr><tr><td>Reference</td><td>Book 97 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (Ибн ‘Умар), да будет доволен Аллах им и его отцом, передаёт, что однажды в присутствии Пророка ﷺ упомянули об Даджжале, и он сказал: “Поистине, Аллах не останется скрытым от вас. Поистине, Аллах не является одноглазым”, — он указал рукой на свой глаз. — “И, поистине, аль-Масих Даджжаль — кривой на правый глаз. Глаз его подобен выступающей виноградине”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7407</td></tr><tr><td>Arabic No</td><td>7407</td></tr><tr><td>Reference</td><td>Book 97 Hadith 36</td></tr></tbody></table></div>
 

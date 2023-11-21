@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), Des polythéistes qui avaient
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim bin Maimun] dan [Ibrahim bin Dinar] dan lafazh tersebut milik Ibrahim, keduanya berkata, telah menceritakan kepada kami [Hajjaj] -yaitu Ibnu Muhammad- dari [Ibnu Juraij] dia berkata, telah mengabarkan kepadaku [Ya'la bin Muslim] bahwa dia mendengar [Sa'id bin Jubair] menceritakan dari [Ibnu Abbas] bahwa orang-orang dari kaum musyrikin melakukan pembunuhan, dan hal itu semakin merajalela, dan mereka melakukan perzinahan, dan hal itupun semakin merajalela. Kemudian mereka mendatangi Nabi Muhammad shallallahu 'alaihi wasallam dan berkata, 'Sungguh sesuatu yang selalu engkau katakan dan engkau serukan adalah baik adanya, sekiranya engkau mengabarkan kepada kami bahwa amalan-amalan jelek yang telah kami perbuat dapat terhapus, maka turunlah ayat: '(Dan orang-orang yang tidak menyembah tuhan yang lain beserta Allah dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar, dan tidak berzina, barang siapa yang melakukan yang demikian itu, niscaya dia mendapat (pembalasan) dosa(nya)) ' (Qs. Al Furqan: 68). Lalu turunlah ayat: '(Katakanlah, 'Hai hamba-hambaKu yang malampaui batas terhadap diri mereka sendiri, janganlah kamu berputus asa dari rahmat Allah) ' (Qs. Az Zumar:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>122</td></tr><tr><td>Reference</td><td>Book 1 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что некие люди из числа многобожников, которые (прежде) много убивали и часто прелюбодействовали, явились к Мухаммаду ﷺ и сказали: «Поистине, то, что ты говоришь и к чему призываешь, прекрасно, так не скажешь ли ты, как нам искупить то, что мы совершили?» (После этого) был ниспослан (аят, в котором говорится): “Они не взывают помимо Аллаха к другим богам, не убивают людей вопреки запрету Аллаха, если только они не имеют права на это, и не прелюбодействуют. А тот, кто поступает так, получит наказание” (сура “аль-Фуркан”, аят 68), и (другой аят, где сказано): “Скажи Моим рабам, которые излишествовали во вред самим себе: «Не отчаивайтесь в милости Аллаха»” (сура “аз-Зумар”, 53)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>122</td></tr><tr><td>Reference</td><td>Book 1 Hadith 229</td></tr></tbody></table></div>
 

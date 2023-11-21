@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-As:This Verse: 'Verily We have sent you (O Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] Telah menceritakan kepada kami [Abdul 'Aziz bin Abu Salamah] dari [Hilal bin Abu Hilal] dari ['Atha bin Yasar] dari [Abdullah bin Amru bin Al 'Ash radliallahu 'anhuma] bahwa ayat yang di dalam Al Qur'an ini: "Hai Nabi, sesungguhnya Kami mengutusmu untuk jadi saksi, dan pembawa kabar gembira dan pemberi peringatan.., " (Al Fathu: 8). Sama dengan ayat yang ada di dalam Taurat berbunyi: "Hai Nabi, sesungguhnya Kami mengutusmu untuk jadi saksi, dan pembawa kabar gembira dan pemberi peringatan dan pelindung bagi orang-orang 'Arab, kamu adalah hamba-Ku dan Rasul-Ku, dan Aku menamaimu Al Mutawakkil (orang yang bertawakkal tinggi). Engkau bukan orang yang berperangai buruk, juga bukan berwatak keras dan bukan sakhkhob (orang yang cerewet, berteriak keras-keras) di pasar." Dan beliau tidak membalas kejahatan dengan kejahatan serupa akan tetapi beliau mema'afkan dan mengampuninya, dan Allah tidak akan mewafatkan beliau sampai beliau meluruskan Millah (dien) Nya yang bengkok, hingga manusia mengucapkan Laa Ilaaha IllAllah, sehingga dengannya beliau dapat membukakan mata yang buta, telinga yang tuli dan hati yang lalai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 65 Hadith 359</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом сказал: «Этот аят из Корана “О Пророк! Мы отправили тебя свидетелем, добрым вестником и предостерегающим увещевателем” в Торе звучит так: “О пророк, поистине, Мы послали тебя в качестве свидетеля, и вестника радости, и защитника для неграмотных. Ты — Мой раб и Мой посланник. Я назвал тебя уповающим /аль-мутаваккиль/. Он не является ни грубым, ни жёстким, ни кричащим на рынках и не воздаёт дурным за дурное, но милует и прощает. Аллах не заберёт его (к Себе) до тех пор, пока не выпрямит через него искривившуюся общину, чтобы (люди) говорили: “Нет бога, достойного поклонения, кроме Аллаха”, и благодаря этой религии откроются слепые глаза, и глухие уши, и жестокие сердца”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 65 Hadith 359</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:' Aisha said, We went out with the Prophet (from Medina) with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha]; "Kami berangkat bersama Nabi shallallahu 'alaihi wasallam dan setahu kami, tidaklah beliau berangkat melainkan untuk melaksanakan hajji. Ketika kami telah sampai (di Makkah), kami melaksanakan thowaf di Baitulloh, maka kemudian Nabi shallallahu 'alaihi wasallam memerintahkan siapa yang tidak membawa hewan qurban agar bertahallul. Maka orang yang tidak membawa hewan qurban bertahallul begitu juga isteri-isteri Beliau yang tidak membawa hewan qurban mereka bertahallul". 'Aisyah radliallahu 'anha berkata: "Kemudian aku mengalami haidh sedangkan aku belum melaksanakan thowaf di Baitulloh. Ketika pada malam saat para hujjaj keluar dari (Makkah setelah hari-hari Tasyriq), 'Aisyah radliallahu 'anha berkata: "Wahai Rasulullah, orang-orang kembali dengan 'umrah dan hajji sedangkan aku hanya kembali dengan hajji". Beliau berkata: "Apakah kamu melaksanakan thowaf pada malam-malam bulan hajji ketika kita sampai di Makkah?". Aku jawab: "Tidak". Beliau berkata: "Pergilah kamu bersama saudaramu ke Tan'im dan mulailah dari sana berihram untuk 'umrah kemudian tempat kamu begini begini". Shafiyyah berkata: "Aku tidak melihat kecuali dia ('Aisyah radliallahu 'anha) telah menjadikan orang-orang tertahan (perjalanan pulangnya) ". Beliau Shallallahu'alaihiwasallam berkata: "Celaka" atau "Apakah kamu tidak thowaf pada hari Nahar". 'Aisyah radliallahu 'anha menjawab: "Benar" Beliau berkata: "Tidak apa, nafarlah (keluar dari Mina setelah menuntaskan manasik hajji) ". 'Aisyah radliallahu 'anha berkata: "Kemudian aku menemui Nabi shallallahu 'alaihi wasallam saat Beliau tiba dari Makkah sedangkan aku sudah lebih dulu singgah atau aku baru tiba sedang Beliau sudah singgah dari Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1561</td></tr><tr><td>Arabic No</td><td>1561</td></tr><tr><td>Reference</td><td>Book 25 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса) сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мы выехали (из Медины) вместе с Пророком ﷺ намереваясь совершить только хадж. Достигнув (Мекки), мы совершили обход вокруг Каабы, а потом Пророк ﷺ велел тем, кто не гнал с собой жертвенный скот, выйти из состояния ихрама, и (люди,) не гнавшие с собой скот, сделали это. Жёны Пророка ﷺ не гнали с собой скот, и поэтому они также вышли из состояния ихрама, (а через некоторое время) Сафиййа сказала: “Я думаю, что обязательно задержу их”. (Пророк ﷺ) воскликнул: “Это плохо! Разве ты не совершила обход в День жертвоприношения?” Она сказала: “Совершила”. (Тогда) он сказал: “Не беда, уезжай (вместе со всеми)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1561</td></tr><tr><td>Arabic No</td><td>1561</td></tr><tr><td>Reference</td><td>Book 25 Hadith 47</td></tr></tbody></table></div>
 

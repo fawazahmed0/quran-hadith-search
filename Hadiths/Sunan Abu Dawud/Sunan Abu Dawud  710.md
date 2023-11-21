@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I was sleeping in front of the Prophet (ﷺ) wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dari ['Urwah] dari [Aisyah] dia berkata; "Aku pernah berada di antara Nabi dan Kiblat." Syu'bah berkata; "Aku mengira Aisyah mengatakan; "Padahal aku sedang haidh." Abu Daud berkata; 'Hadits ini di riwayatkan pula oleh [Az Zuhri], ['Atha'], [Abu Bakar bin Hafsh], [Hisyam bin 'Urwah], ['Irak bin Malik], [Abu Al Aswad] dan [Tamim bin Salamah], mereka semuanya dari ['Urwah] dari [Aisyah]. Sedangkan [Ibrahim] dari [Al Aswad] dari [Aisyah], dan [Abu Dluha] dari [Masruq] dari [Aisyah], sedangkan [Al Qasim bin Muhammad] dan [Abu Salamah] dari [Aisyah], namun mereka tidak menyebutkan; "Padahal aku sedang haidh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (383) Sahih Muslim (512)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>710</td></tr><tr><td>Arabic No</td><td>710</td></tr><tr><td>Reference</td><td>Book 2 Hadith 320</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Как-то) я находилась между Пророком ﷺ и его киблой».Шу‘ба сказал: «И я думаю, что она сказала: “(И в это время) у меня были месячные”».Абу Дауд сказал: «Этот хадис также передали аз-Зухри, ‘Атаъ, Абу Бакр ибн Хафс, Хишам ибн ‘Уруа, ‘Ирак ибн Малик, Абуль-Асуад, Тамим ибн Саляма и все они сообщили его со слов ‘Уруы, который передал его от ‘Аиши. (Также его передали) Ибрахим со слов аль-Асуада, сообщившего от ‘Аиши; Абу ад-Духа со слов Масрукъа, сообщившего от ‘Аиши; аль-Къасим ибн Мухаммад и Абу Саляма, сообщившие от ‘Аиши, и они не упоминали (слова): “(И в это время) у меня были месячные”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (383) Sahih Muslim (512)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>710</td></tr><tr><td>Arabic No</td><td>710</td></tr><tr><td>Reference</td><td>Book 2 Hadith 320</td></tr></tbody></table></div>
 

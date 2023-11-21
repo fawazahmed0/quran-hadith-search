@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A man heard another man reciting: Surat-ul-Ikhlas (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6643</td></tr><tr><td>Arabic No</td><td>6643</td></tr><tr><td>Reference</td><td>Book 83 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида (аль-Худри), да будет доволен им Аллах, что один человек, услышавший, как другой много раз повторяет суру «Скажи: “Он, Аллах, Единственный…”», наутро пришёл к Посланнику Аллаха ﷺ и стал рассказывать ему об этом, говоря так, будто он считал её слишком маленькой. Тогда Посланник Аллаха ﷺ сказал: «Клянусь Тем, в Чьей руке душа моя, поистине, она соответствует трети Корана!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6643</td></tr><tr><td>Arabic No</td><td>6643</td></tr><tr><td>Reference</td><td>Book 83 Hadith 22</td></tr></tbody></table></div>
 

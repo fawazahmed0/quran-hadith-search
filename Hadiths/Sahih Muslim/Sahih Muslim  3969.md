@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported that Allah's Apostle (ﷺ) visited Um
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah mengabarkan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Ibnu Zubair] dari [Jabir] bahwasannya Nabi shallallahu 'alaihi wasallam menemui Ummu Mubasyir Al Anshariyah di kebun kurma miliknya, lantas Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Siapakah yang menanam pohon kurma ini? Apakah ia seorang muslim atau kafir? Dia menjawab, "Seorang Muslim." Beliau bersabda: "Tidaklah seorang Muslim yang menanam pohon atau menanam tanaman lalu tanaman tersebut dimakan oleh oleh manusia, binatang melata atau sesuatu yang lain kecuali hal itu berniali sedekah untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3969</td></tr><tr><td>Arabic No</td><td>1552.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира о том, что (однажды) Пророк ﷺ зашёл в пальмовый сад принадлежавший Умм Мубашшир аль-Ансари и Пророк ﷺ спросил её: «Кто посадил эти пальмы мусульманин или неверный?» Она ответила: «Нет, мусульманин!» Тогда он сказал: «Если мусульманин посадит дерево или засеет поле, а потом (выросшее) поест человек, животное или кто-нибудь ещё, это обязательно зачтётся ему как садакъа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3969</td></tr><tr><td>Arabic No</td><td>1552.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet(ﷺ) as saying:Come to prayer with calmness an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid Ath-Thayalisi] telah menceritakan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dia berkata; Saya pernah mendengar [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Datangilah shalat berjama'ah dan hendaklah kalian tenang, lalu kerjakanlah apa yang kalian dapatkan dengan jamaah dan genapilah yang tertinggal." Abu Dawud berkata; Dan demikian pula disebutkan oleh [Ibnu Sirin] dari [Abu Hurairah] dengan lafazh; Dan beresilah. Dan demikian pula disebutkan oleh [Abu Rafi'] dari [Abu Hurairah]. Sedangkan Abu Dzarr meriwayatkan dari beliau dengan lafazh; Maka sempurnakanlah dan beresilah. Namun itu diperselisihkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>573</td></tr><tr><td>Arabic No</td><td>573</td></tr><tr><td>Reference</td><td>Book 2 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Приходите на молитву, сохраняя спокойствие, и совершайте ту часть молитвы, которую вы застали, а то что пропустили восполняйте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>573</td></tr><tr><td>Arabic No</td><td>573</td></tr><tr><td>Reference</td><td>Book 2 Hadith 183</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:By Allah, I shall offer prayer like that of the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Daud bin Umayyah], telah menceritakan kepada Kami [Mu'adz yaitu Ibnu Hisyam], telah menceritakan kepadaku [ayahku] dari [Yahya bin Abu Katsir] ia berkata; telah menceritakan kepadaku [Abu Salamah bin Abdurrahman], telah menceritakan kepada Kami [Abu Hurairah], ia berkata; Demi Allah aku akan mendekatkan bagi kalian shalat Rasulullah shallAllahu wa'alaihi wa sallam. Abu Salamah berkata; Abu Hurairah melakukan qunut pada raka'at terakhir pada shalat Zhuhur, shalat Isya', dan shalat Subuh. Ia mendoakan orang-orang mukmin dan melaknat orang-orang kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (797) Sahih Muslim (676)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>1440</td></tr><tr><td>Reference</td><td>Book 8 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Клянусь Аллахом, я покажу вам, как совершал молитву Посланник Аллаха ﷺ!» (Передатчик) сказал: «И Абу Хурайра совершал кунут в последнем рак‘ате полуденной, вечерней и утренней молитв обращался к Аллаху с мольбами за верующих и проклинал неверующих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (797) Sahih Muslim (676)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>1440</td></tr><tr><td>Reference</td><td>Book 8 Hadith 25</td></tr></tbody></table></div>
 

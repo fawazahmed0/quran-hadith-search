@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported Allah's Messenger (ﷺ) as saying:When any one of you eats f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin 'Abdullah]; Telah menceritakan kepada kami [Hajjaj bin Muhammad]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami ['Abdu bin Humaid]; Telah menceritakan kepadaku [Abu 'Ashim] -seluruhnya- dari [Ibnu Juraij]; Demikian juga telah diriwayatkan dari jalur yang lain, dan telah menceritakan kepada kami [Zuhair bin Harb]; dan lafazh ini miliknya; Telah menceritakan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Ibnu Juraij] ia berkata; Aku mendengar ['Atha] berkata; Aku mendengar [Ibnu Abbas] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang diantara kalian makan, maka janganlah dia mengusap tangannya hingga menjilatinya dahulu atau dijilati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5295</td></tr><tr><td>Arabic No</td><td>2031.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5295</td></tr><tr><td>Arabic No</td><td>2031.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 169</td></tr></tbody></table></div>
 

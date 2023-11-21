@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:I asked Um Ruman, 'Aisha's mother about the accusation forged ag
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Ibnu Fudlail] telah bercerita kepada kami [Hushain] dari [Syaqiq] dari [Masruq] berkata; "Aku bertanya kepada [Ummu Ruman], dia adalah ibu 'Aisyah radliallahu 'anha tentang apa yang diperbincangkan orang tentang diri 'Aisyah radliallahu 'anha (ketika terjadi fitnah terhadapnya). Ummu Ruman berkata; "Ketika aku bersama 'Aisyah radliallahu 'anha sedang duduk-duduk, tiba-tiba datang kepada kami seorang wanita dari kalangan Anshar sambil berkata; "Semoga Allah bertindak atas si fulan". Ummu Ruman berkata; Aku bertanya; "Memangnya ada apa?". Wanita itu berkata; "Orang itu telah terlibat menyebut-nyebut peristiwa (fitnah) ". Lalu 'Aisyah radliallahu 'anha bertanya; "Peristiwa apa?". Maka wanita itu menceritakan peristiwa yang terjadi kepadanya. Kemudian 'Aisyah radliallahu 'anha bertanya lagi; "Apakah Abu Bakr dan Rasulullah shallallahu 'alaihi wasallam telah mendengarnya?". Wanita itu berkata; "Ya". Seketika itu pula 'Aisyah radliallahu 'anha jatuh pingsan dan tidak sadarkan diri melainkan setelah sakit demam panasnya mereda. Kemudian Nabi shallallahu 'alaihi wasallam datang seraya berkata; "Sakit apa yang dideritanya?". Aku katakan; "Sakit demam panas karena peristiwa fitnah (maksudnya isu dusta bahwa ia dikabarkan selingkuh degan Shafwan). Kemudian 'Aisyah radliallahu 'anha duduk lalu berkata; "Demi Allah, seandainya aku bersumpah pasti kalian tidak akan percaya kepadaku dan seandainya aku mengajukan alasan kalian pun tidak akan menerimanya. Maka bagiku peristiwa antara aku dan kalian ini bagaikan peristiwa Nabi Ya'qub 'Alaihissalam bersama anak-anaknya, (yang berkata); "Dan Allah sajalah tempat memohon pertolongan atas apa yang kalian ceritakan". Kemudian Nabi shallallahu 'alaihi wasallam pergi meninggalkannya lalu Allah menurunkan firman-Nya. Kemudian Beliau mengabarkan kepada 'Aisyah radliallahu 'anha. 'Aisyah radliallahu 'anha berkata; "Dengan segala puji bagi Allah dan tidak ada pujian bagi seorangpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 60 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал: \n— Я спросил Умм Руман, мать ‘Аиши, о том, в чём её обвинили, и она рассказала: «Когда я сидела с ‘Аишей, к нам зашла женщина из числа ансаров и сказала: “Да поступит Аллах так-то с таким-то”. Я спросила её: “Почему (ты так говоришь)?” Она ответила: “Потому что он распространил (клеветническую) историю”. ‘Аиша спросила: “Какую историю?” Затем женщина рассказала ей. ‘Аиша спросила: “Абу Бакр и Посланник Аллаха ﷺ слышали об этом?” Она сказала: “Да”. И ‘Аиша упала без чувств (услышав это), а когда она пришла в себя, у неё уже была лихорадка с ознобом. Пророк ﷺ пришёл и спросил: “Что с ней?” Я сказала: “У неё лихорадка из-за слухов, которые рассказываются”. ‘Аиша села и сказала: “Клянусь Аллахом! Даже если бы я дам клятву, вы не поверите мне, и, если я стану оправдываться, вы меня не оправдаете меня. Я и вы подобны Я’кубу и его сыновьям: “Только Аллаха следует просить о помощи против того, что вы рассказали””. Пророк ﷺ ушёл, а затем Аллах ниспослал то, что ниспослал (аяты, в которых говорилось о её невиновности), а когда Пророк ﷺ сообщил ей об этом, она сказала: “Хвала Аллаху, и не кому другому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 60 Hadith 62</td></tr></tbody></table></div>
 

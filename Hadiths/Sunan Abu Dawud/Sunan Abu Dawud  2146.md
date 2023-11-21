@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Iyas ibn Abdullah ibn Abu Dhubab reported the Messenger of Allah (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Khalaf], serta [Ahmad bin 'Amr bin As Sarh], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abdullah bin Abdullah], Ibnu As Sarh 'Ubaidullah bin Abdullah berkata; dari [Iyas bin Abdullah bin Abu Dzubab], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian memukul hamba-hamba wanita Allah (yakni, istri-istri kalian)!" Kemudian Umar datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; para wanita berani kepada suami-suami mereka. Kemudian beliau memberikan keringanan untuk memukul meraka. Kemudian terdapat banyak wanita yang mengelilingi keluarga Rasulullah shallallahu 'alaihi wasallam, mereka mengeluhkan para suami mereka. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh telah terdapat wanita banyak yang mengelilingi keluarga Muhammad dan mengeluhkan para suami mereka. Mereka bukanlah orang pilihan (terbaik) diantara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2146</td></tr><tr><td>Arabic No</td><td>2146</td></tr><tr><td>Reference</td><td>Book 12 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ияса ибн ‘Абдуллаха ибн Абу Зубаба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не бейте рабынь Аллаха!» Тогда ‘Умар пришёл к Посланнику Аллаха ﷺ и сказал: «Женщины осмелели и восстают против мужей!» Тогда он разрешил ударять их. После этого к жёнам Посланника Аллаха ﷺ пришло много женщин, которые жаловались на своих мужей. Тогда Пророк ﷺ сказал: «Поистине, к жёнам Мухаммада пришло множество женщин. Они жаловались на своих мужей, которые лучшими из вас не являются!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2146</td></tr><tr><td>Arabic No</td><td>2146</td></tr><tr><td>Reference</td><td>Book 12 Hadith 101</td></tr></tbody></table></div>
 

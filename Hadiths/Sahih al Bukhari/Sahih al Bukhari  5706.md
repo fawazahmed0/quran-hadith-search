@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:The husband of a lady died and her eyes became sore and the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] dia berkata; telah menceritakan kepadaku [Humaid bin Nafi'] dari [Zainab] dari [Ummu Salamah] radliallahu 'anha bahwa seorang wanita ditinggal mati oleh suaminya, hingga matanya menjadi bengkak (karena sering menangis), lantas orang-orang mengadukan hal itu kepada Nabi shallallahu 'alaihi wasallam dan mereka juga menyebutkan supaya wanita itu menggunakan celak karena khawatir matanya akan semakin parah, maka beliau bersabda: "Sungguh dahulu salah seorang dari kalian pernah tinggal di rumah yang paling jelek -atau di sejelek-jelek rumah- (perawi ragu mengenai redaksi haditsnya), jika ada seekor anjing yang lewat, maka dia akan melemparnya dengan kotoran, kenapa tidak cukup waktu hanya empat bulan sepuluh hari untuk tinggal di rumahnya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 76 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Умм Салямы, что (близкие) одной женщины, у которой умер муж, испытывавшие беспокойство за её глаза, пришли к Пророку ﷺ и попросили у него разрешения на (то, чтобы лечить её с помощью) сурьмы, однако он сказал: «(Когда во времена джахилиййи женщина) оставалась вдовой, она носила самую плохую одежду (или: жила в худшей части дома), а если по прошествии года мимо неё проходила собака, она бросала в неё навозом! Не следует ей (пользоваться сурьмой) раньше, чем через четыре месяца и десять (дней)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 76 Hadith 26</td></tr></tbody></table></div>
 

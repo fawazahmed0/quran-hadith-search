@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: When three are on a journey, they 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Bahr], telah menceritakan kepada kami [Hatim bin Isma'il], telah menceritakan kepada kami [Muhammad bin 'Ajlan], dari [Nafi'], dari [Abu Salamah], dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila terdapat tiga orang dalam sebuah perjalanan, maka hendaknya mereka menunjuk salah seorang dari mereka sebagai pemimpin." Nafi' berkata; kemudian kami katakan kepada Abu Salamah; maka engkau adalah pemimpin kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2609</td></tr><tr><td>Arabic No</td><td>2609</td></tr><tr><td>Reference</td><td>Book 15 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен ими Аллах, о том, что Посланник Аллаха ﷺ сказал: «Если трое выйдут в путь, то пусть они назначат одного из них амиром»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2609</td></tr><tr><td>Arabic No</td><td>2609</td></tr><tr><td>Reference</td><td>Book 15 Hadith 133</td></tr></tbody></table></div>
 

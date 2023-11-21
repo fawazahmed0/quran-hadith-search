@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported that Abu Burda slaughtered the animal as a sacrifice 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Ja'far- telah menceritakan kepada kami [Syu'bah] dari [Salamah] dari [Abu Juhaifah] dari [Al Barra' bin 'Azib] dia berkata, "Abu Burdah pernah menyembelih hewan kurban sebelum shalat (Ied), lantas Nabi shallallahu 'alaihi wasallam bersabda: "Gantilah (berkurbanlah lagi)." Dia berkata, "Wahai Rasulullah, saya tidak memiliki lagi selain Jad'ah (kambing usia enam bulan sampai setahun)!" Syu'bah berkata, "Menurutku dia juga mengatakan: "Dan dia lebih bagus daripada musinnah (kambing usia satu tahun lebih)." Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Sembelihlah ia sebagai ganti (dari kurbanmu), dan tidak boleh untuk orang setelahmu." Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepadaku [Wahb bin Jarir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abu 'Amir Al 'Aqadi] telah menceritakan kepada kami [Syu'bah] dengan isnad ini, namun dia tidak menyebutkan akan adanya keraguan dalam perkataannya yaitu, "Ia lebih baik daripada musinnah (kambing yang berusia satu tahun lebih)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>1961.09</td></tr><tr><td>Reference</td><td>Book 35 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>1961.09</td></tr><tr><td>Reference</td><td>Book 35 Hadith 14</td></tr></tbody></table></div>
 

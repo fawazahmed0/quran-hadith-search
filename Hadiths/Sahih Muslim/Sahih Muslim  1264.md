@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Buraida narrated it on the authority of his father that a Bedouin came when 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dari [Abu Sinan] dari [Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [Bapaknya] bahwa Nabi Shallallahu'alaihiwasallam ketika shalat, maka seorang laki-laki berdiri seraya berkata, 'Barangsiapa yang bisa menunjukkan kepadaku kepada unta merah (yang hilang)? ' Maka Nabi Shallallahu'alaihiwasallam bersabda, 'Semoga kamu tidak mendapatkannya, karena masjid hanya dibangun untuk manfaat yang khusus diperuntukkan baginya'." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Muhammad bin Syaibah] dari [Alqamah bin Martsad] dari [Ibnu Buraidah] dari [Bapaknya] dia berkata, "Seorang Badui datang setelah Nabi Shallallahu'alaihiwasallam shalat shubuh, lalu dia memasukkan kepalanya dari pintu masjid." Lalu dia menyebutkan hadits seperti hadits keduanya. Muslim berkata, "Dia adalah Syaibah bin Na'amah, Abu Na'amah. Mis'ar, Husyaim, Jarir dan selain mereka dari kalangan perawi Kufah meriwayatkan darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1264</td></tr><tr><td>Arabic No</td><td>569.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Бурайда сказал: «(Однажды) после того, как Пророк ﷺ совершил утреннюю молитву /фаджр/, пришёл какой-то бедуин и, просунув голову в дверь мечети… Далее подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1264</td></tr><tr><td>Arabic No</td><td>569.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 102</td></tr></tbody></table></div>
 

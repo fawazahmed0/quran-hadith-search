@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Um Sulaim said (to the Prophet), "Anas is your servant; so please 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Zaid Sa'id bin Ar Rabi'] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata; saya mendengar [Anas] radliallahu 'anhu dia berkata; Ummu Sulaim berkata; "(Do'akanlah) pelayanmu Anas!." Beliau lalu mengucapkan: 'Ya Allah, karuniailah ia banyak harta dan anak, dan berkahilah terhadap sesuatu yang telah Engkau berikan padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6380</td></tr><tr><td>Arabic No</td><td>6380</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, передаёт, что (однажды его мать) Умм Сулейм, да будет доволен ею Аллах, сказала: «Анас — твой слуга». И (Пророк ﷺ) сказал: «О Аллах! Умножь его богатство и детей, и даруй ему благодать в том, что Ты ему даруешь!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6380</td></tr><tr><td>Arabic No</td><td>6380</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

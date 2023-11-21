@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Saib:I remember I went out with the boys to Thaniyat-ul-Wada' to rec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [As Saaib] aku ingat bahwa aku pernah keluar bersama anak-anak menemui Nabi shallallahu 'alaihi wasallam ke bukit wada' setelah beliau pulang dari perang Tabuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4427</td></tr><tr><td>Arabic No</td><td>4427</td></tr><tr><td>Reference</td><td>Book 64 Hadith 449</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саъиб сказал: «Помню как однажды мы с (несколькими) мальчиками пошли к Санийат аль-Вада‘ встречать Пророка ﷺ с похода на Табук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4427</td></tr><tr><td>Arabic No</td><td>4427</td></tr><tr><td>Reference</td><td>Book 64 Hadith 449</td></tr></tbody></table></div>
 

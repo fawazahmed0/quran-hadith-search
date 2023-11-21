@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Murra:(the freed slave of Um Hani) Um Hani, the daughter of Abi Tal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abu Uwais] berkata, telah menceritakan kepadaku [Malik bin Anas] dari [Abu An Nadlar] mantan budak 'Umar bin 'Abdullah bahwa [Abu Murrah] mantan budak Ummu Hani' binti Abu Thalib mengabarkan kepadanya, bahwa ia mendengar [Ummu Hani' binti Abu Thalib] berkata, "Aku berkunjung kepada Rasulullah shallallahu 'alaihi wasallam pada hari pembebasan Makkah, aku dapati beliau mandi sementara Fatimah, puteri beliau menutupinya dengan tabir." Ummu Hani' binti Abu Thalib berkata, "Aku lantas memberi salam kepada beliau, lalu beliau bertanya: "Siapakah ini?" Aku menjawab, "Aku Ummu Hani' binti Abu Thalib." Lalu beliau bertanya, "Selamat datang wahai Ummu Hani'." Setelah selesai mandi beliau shalat delapan rakaat dengan berselimut pada satu baju. Setelah selesai shalat aku berkata, "Wahai Rasulullah, anak ibuku mengatakan dia telah membunuh seseorang dan aku telah memberi ganti rugi kepada seseorang yakni Abu Hubairah." Maka Rasulullah shallallahu 'alaihi wasallam: "Kami telah setuju apa yang engkau berikan wahai Ummu Hani'!" Ummu Hani' berkata, "Saat itu adalah waktu dluha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>357</td></tr><tr><td>Arabic No</td><td>357</td></tr><tr><td>Reference</td><td>Book 8 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Хани бинт Абу Талиб, да будет доволен ею Аллах, сказала: «B год завоевания Мекки я отправилась к Посланнику Аллаха ﷺ (войдя) к нему в то время, когда он совершал большое омовение, а его дочь Фатима прикрывала его».\n(Умм Хани) сказала: «Я обратилась к нему с приветствием. Он спросил: “Кто эта (женщина)?”, — а я отозвалась: “Я, Умм Хани бинт Абу Талиб”. Он сказал: “Добро пожаловать, Умм Хани!”, — а после того, как закончил своё омовение, совершил молитву в восемь рак‘атов, завернувшись в одну одежду. Когда он закончил (молиться), я сказала: “О Посланник Аллаха, мой брат грозится убить одного человека по имени такой-то, сын Хубайра, которого я взяла под свою защиту!” Посланник Аллаха ﷺ сказал: “Мы берём под свою защиту того, кого взяла под свою защиту ты, о Умм Хани”».\nУмм Хани сказала: «И это было утром /духа/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>357</td></tr><tr><td>Arabic No</td><td>357</td></tr><tr><td>Reference</td><td>Book 8 Hadith 9</td></tr></tbody></table></div>
 

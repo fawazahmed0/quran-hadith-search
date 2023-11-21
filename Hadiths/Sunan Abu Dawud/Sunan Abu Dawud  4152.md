@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: The angels do not enter a hou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Ali bin Mudrik] dari [Abu Zur'ah bin Amru bin Jarir] dari [Abdullah bin Nujay] dari [Bapaknya] dari [Ali radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Malaikat tidak akan masuk ke rumah yang di dalamnya ada gambar, atau anjing, atau orang junub (yang tidak bersuci dari dari junubnya dan menjadikannya kebiasaan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4152</td></tr><tr><td>Arabic No</td><td>4152</td></tr><tr><td>Reference</td><td>Book 34 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али (ибн Абу Талиба), да будет доволен им Аллах, что Пророк ﷺ сказал: «Ангелы не входят в дом, в котором есть изображение (живого существа), собака или осквернившийся человек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4152</td></tr><tr><td>Arabic No</td><td>4152</td></tr><tr><td>Reference</td><td>Book 34 Hadith 133</td></tr></tbody></table></div>
 

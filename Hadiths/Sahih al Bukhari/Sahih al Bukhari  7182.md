@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) 'Utba bin Abi Waqqas said to his broth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] mengatakan, telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari ['Urwah bin Zubair] dari [Aisyah, isteri Nabi shallallahu 'alaihi wasallam] mengatakan, Utbah bin Abu Waqqash melimpahkan kuasa kepada saudaranya, Sa'd bin Abu waqqash yang isinya; 'anak laki-laki dari budak perempuan Zam'ah adalah bagian dariku (anakku), maka tolong ambillah.' Tatkala penaklukan Mekah, maka Sa'd mengambilnya dengan mengatakan; 'Ini adalah anak laki-laki saudaraku, ia telah melimpahkan urusan tentangnya kepadaku.' Spontan Abd bin Zam'ah berdiri menghadapinya seraya berujar; 'Bahkan ia adalah saudaraku dan anak laki-laki dari hamba sahaya ayahku, ia dilahirkan di kasurnya, ' keduanya lantas melaporkan kasusnya kepada Rasulullah Shallallahu'alaihiwasallam. Sa'd bin Abu Waqqash kemudian mengatakan; 'Hai Rasulullah, ia adalah anak laki-laki saudaraku yang telah ia limpahkan wewenangnya kepadaku.' Abd bin Zam'ah tak mau kalah seraya mengatakan; 'Bahkan ia adalah saudaraku, dan anak laki-laki dari hamba sahaya ayahku, ia dilahirkan di kasurnya.' Lantas Rasulullah Shallallahu'alaihiwasallam bersabda; "dia milkmu wahai Abd bin Zam'ah, " kemudian Rasulullah Shallallahu'alaihiwasallam bersabda: "Anak adalah pemilik ranjang, dan pezina harus dihukum dengan batu (rajam), " kemudian beliau bersabda kepada Saudah binti Zam'ah: "Berhijablah engkau daripadanya!" karena ada kemiripannya dengan Utbah, sehingga anak laki-laki dari hamba sahaya Zam'ah itu tidak melihat Saudah selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7182</td></tr><tr><td>Arabic No</td><td>7182</td></tr><tr><td>Reference</td><td>Book 93 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, жена Пророка ﷺ сказала: «(В своё время) ‘Утба ибн Абу Ваккас дал своему брату, Са‘ду ибн Абу Ваккасу, поручение, (сказав:) “Сын невольницы(, хозяином которой является) Зам‘а, (рождён) от меня, возьми же его под свою (опеку)”. И в год завоевания Мекки Са‘д (ибн Абу Ваккас), взял его и сказал: “(Это —) сын моего брата, поручившего мне (взять) его”. Тогда ‘Абд ибн Зам‘а встал и сказал: “Он мой брат и сын невольницы моего отца, рождённый на его постели”, после чего оба они отправились к Посланнику Аллаха ﷺ. Са‘д сказал: “О Посланник Аллаха, он сын моего брата, который поручил мне забрать его”, а ‘Абд бин Зам‘а сказал: “Он мой брат и сын невольницы моего отца, рождённый на его постели”. (Выслушав их,) Посланник Аллаха ﷺ сказал: “Он твой, о ‘Абд бин Зам‘а”, после чего Посланник Аллаха ﷺ сказал: “Ребёнок принадлежит постели, а прелюбодею — позор и лишения (прав на ребёнка)”. И потом Пророк ﷺ сказал Сауде бинт Зам‘а: “Закрывайся от него”, так как он увидел, что (юноша действительно) похож на ‘Утбу, и тот до самой своей смерти больше не увидел её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7182</td></tr><tr><td>Arabic No</td><td>7182</td></tr><tr><td>Reference</td><td>Book 93 Hadith 45</td></tr></tbody></table></div>
 

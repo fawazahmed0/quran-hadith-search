@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:The Prophet (ﷺ) used to say, "Nobody should be flogged more
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepadaku [Yazid bin Abu Hubaib] dari [Bukair bin Abdullah] dari [Sulaiman bin Yasar] dari ['Abdurrahman bin Jabir bin Abdullah] dari [Abu Burdah] radliallahu 'anhu, mengatakan; Nabi Shallallahu'alaihi wasallam bersabda: "Tak boleh menjilid melebihi sepuluh kali selain dalam salah hukuman had (yang) Allah (tetapkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6848</td></tr><tr><td>Arabic No</td><td>6848</td></tr><tr><td>Reference</td><td>Book 86 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бурды аль-Ансари, да будет доволен им Аллах, что Пророк ﷺ не раз говорил: «Не следует давать человеку свыше десяти ударов, если только (он не заслуживает) одного из установленных Аллахом наказаний /худуд/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6848</td></tr><tr><td>Arabic No</td><td>6848</td></tr><tr><td>Reference</td><td>Book 86 Hadith 70</td></tr></tbody></table></div>
 

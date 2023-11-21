@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. 'Umar) reported from his father that while he was addressing the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Salim bin Abdullah] dari [bapaknya] bahwa; Ketika [Umar bin Al Khaththab] sedang berkhuthbah pada hari jum'at dihadapan jama'ah, masuklah seorang laki-laki dari sahabat Rasulullah shallallahu 'alaihi wasallam, lalu Umar pun memanggilnya seraya bertanya, "Sudah jam berapakah ini?" Laki-laki itu menjawab, "Aku sangat sibuk hari ini. Aku tidak sempat pulang, sehingga ketika kedengaran adzan, tidak ada yang dapat aku lakukan kecuali berwudlu." Umar berkata, "Engkau hanya berwudlu?. Bukankah Engkau tahu bahwa Rasulullah shallallahu 'alaihi wasallam juga memerintahkan untuk mandi?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>845.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, что однажды в пятницу, когда ‘Умар ибн аль-Хаттаб стоял обращаясь к людям (с проповедью, в мечеть) вошел один из сподвижников Посланника Аллаха ﷺ, и ‘Умар сказал ему: «Какое сейчас время?!» Этот человек сказал: «Я был занят и вернулся домой только после того, как услышал призыв, и я совершил только малое омовение». ‘Умар сказал: «Ещё и только малое омовение…?! А ведь ты знаешь, что, Посланник Аллаха ﷺ приказывал совершать большое омовение!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>845.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
 

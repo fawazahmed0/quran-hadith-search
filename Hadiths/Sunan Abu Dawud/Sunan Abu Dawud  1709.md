@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Iyad ibn Himar: The Prophet (ﷺ) said: He who finds something should c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Khalid yaitu Ath Thahhan], dan telah diriwayatkan dari jalu yang lain: Telah menceritakan kepada Kami [Musa bin Isma'il], telah menceritakan kepada Kami [Wuhaib] secara makna, dari [Khalid Al Hadzdza'] dari [Abu Al 'Ala'] dari [Mutharrif yaitu Ibnu Abdullah] dari ['Iyadh bin Himar], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang mendapatkan barang temuan, maka hendaknya ia memperlihatkan kepada orang yang adil dan tidak menyembunyikannya, kemudian apabila pemiliknya telah datang maka hendaknya ia mengembalikannya kepadanya. Jika tidak maka itu adalah harta Allah 'azza wajalla yang diberikan kepada orang yang Dia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1709</td></tr><tr><td>Arabic No</td><td>1709</td></tr><tr><td>Reference</td><td>Book 10 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ияда ибн Химара, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто нашёл утерянную кем-то вещь, тот должен призвать в свидетели одного (или: двух) справедливых мужей и запомнить, в чём находилась найденная вещь и чем она была перевязана. Он не должен скрывать её или прятать, и если объявится владелец утерянной вещи, то он должен вернуть её. Если же он не объявится, то ведь это имущество Всемогущего и Великого Аллаха, Который одаряет им, кого пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1709</td></tr><tr><td>Arabic No</td><td>1709</td></tr><tr><td>Reference</td><td>Book 10 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn al-Azhar: A man who had drunk wine was brought before t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] ia berkata; Aku mendapatkan dalam buku pamanku ['Abdurrahman bin Abdul hamid] dari [Uqail] dari [Ibnu Syihab] mengabarkan kepadanya, bahwa [Abdullah bin 'Abdurrahman Ibnul Azhar] mengabarkan kepadanya dari [Bapaknya] ia berkata, "Saat Nabi shallallahu 'alaihi wasallam berada di Hunain, seorang peminum khamer dihadapkan kepada beliau, maka beliau melemparkan pasir ke wajah laki-laki itu. Kemudian beliau memerintahkan kepada para sahabatnya untuk (memberi hukuman), maka mereka pun memukulinya dengan sandal dan apa saja yang ada di tangan mereka, hingga beliau mengatakan: "Cukup!" mereka pun berhenti. Ketika Rasulullah shallallahu 'alaihi wasallam wafat, Abu Bakar mendera peminum khamer sebanyak empat puluh kali, Umar juga mendera sebanyak empat puluh kali pada awal pemerintahannya, kemudian mendera sebanyak delapan puluh kali pada akhir masa pemerintahannya. Kemudian Utsman melaksanakan kedua hukuman tersebut (empat puluh dan delapan puluh). Setelah itu Mu'awiyah menetapkan jumlahnya menjadi delapan puluh kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4488</td></tr><tr><td>Arabic No</td><td>4488</td></tr><tr><td>Reference</td><td>Book 40 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн Азхара, что однажды к Пророку ﷺ привели человека, пившего вино, а это было в Хунайне, и (Пророк ﷺ) бросил ему в лицо землёй, а потом велел своим сподвижникам побить его сандалиями и тем, что было у них в руках. И они били его до тех пор, пока (Посланник Аллаха ﷺ) не сказал: «Остановитесь». И они остановились. После смерти Посланника Аллаха ﷺ пившему вино по велению Абу Бакра наносили сорок ударов. В начале правления ‘Умара пившему вино также наносили сорок ударов, а в конце он велел наносить таким людям уже восемьдесят ударов. ‘Усман применял и то, и другое наказание, а Му‘авия постановил, что пившему вино следует наносить восемьдесят ударов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4488</td></tr><tr><td>Arabic No</td><td>4488</td></tr><tr><td>Reference</td><td>Book 40 Hadith 138</td></tr></tbody></table></div>
 

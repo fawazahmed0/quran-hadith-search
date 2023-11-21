@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd b. Abi Waqqas reported on the authority of his father that Muawiya 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin 'Abbad], lafazh keduanya tidak jauh berbeda. keduanya berkata; Telah menceritakan kepada kami [Hatim] yaitu Ibnu Isma'il dari [Bukair bin Mismar] dari ['Amir bin Sa'ad bin Abi Waqqash] dari [Bapaknya] dia berkata; Mu'awiyah bin Abu Sufyan pernah menyuruh Sa'ad dan menanyakan kepadanya tentang sikapnya kepada Ali, dia berkata; 'Kenapa kamu tidak mau menyalahkan Ali? Dia menjawab; 'Aku teringat kepada tiga hal tentang kedudukan Ali yang pernah di ucapkan oleh Rasulullah shallallahu 'alaihi wasallam, maka aku selamanya tidak akan mencelanya karena tiga hal tersebut. Sesungguhnya salah satu dari tiga hal tersebut lebih aku sukai dari pada seekor sapi yang mahal. Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam berkata kepada Ali, -ketika beliau mengangkatnya sebagai pengganti (di Madinah) dalam beberapa peperangan beliau. Ali bertanya; "Apakah anda meninggalkanku bersama para wanita dan anak-anak!" beliau menjawab: "Wahai Ali, tidakkah kamu rela bahwa kedudukanmu denganku seperti kedudukan Harun dengan Musa? hanya saja tidak ada Nabi setelahku." Dan saya juga mendengar beliau bersabda pada Perang Khaibar; "Sungguh, saya akan memberikan bendera ini kepada seorang laki-laki yang mencintai Allah dan RasulNya dan Allah dan RasulNya juga mencintainya." Maka kami semuanya saling mengharap agar mendapatkan bendera itu. Beliau bersabda: "Panggilllah Ali!" kemudian dia dihadirkan dalam keadaan sakit matanya. Lantas beliau meludahi matanya dan menyerahkan bendera tersebut kepadanya, kemudian Allah memberi kemenangan kepadanya. Tatkala turun ayat: (Marilah kita memanggil anak-anak kami dan anak-anak kamu.) Rasulullah shallallahu 'alaihi wasallam memanggil Ali, Fatimah, Hasan dan Husain dan bersabda: "Ya Allah, mereka adalah keluargaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6220</td></tr><tr><td>Arabic No</td><td>2404.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6220</td></tr><tr><td>Arabic No</td><td>2404.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 50</td></tr></tbody></table></div>
 

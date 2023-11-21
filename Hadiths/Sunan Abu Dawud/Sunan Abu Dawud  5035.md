@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Abu Hurairah through 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Ibnu Ajlan] ia berkata; telah menceritakan kepadaku [Sa'id bin Abu Sa'id] dari [Abu Hurairah] ia berkata, "Jawablah bersin saudaramu hingga tiga kali, jika lebih dari itu berarti ia sakit pilek." Telah menceritakan kepada kami [Isa bin hammad Al Mishri] berkata, telah mengabarkan kepada kami [Al laits] dari [Ibnu Ajlan] dari [Sa'id bin Abu Sa'id] dari [Abu Hurairah] ia berkata, "Aku tidak mengetahui kecuali bahwa ia telah memarfu'kan hadits itu kepda Nabi shallallahu 'alaihi wasallam dengan makna yang sama." Abu Dawud berkata, " [Abu Nu'aim] meriwayatkannya dari [Musa bin Qais], dari [Muhammad bin Ajlan], dari [Sa'id], dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>5035</td></tr><tr><td>Reference</td><td>Book 43 Hadith 263</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>5035</td></tr><tr><td>Reference</td><td>Book 43 Hadith 263</td></tr></tbody></table></div>
 

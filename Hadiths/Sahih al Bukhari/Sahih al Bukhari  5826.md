@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:On the day of the battle of Uhud, on the right and on the left of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Mis'ar] dari [Sa'd bin Ibrahim] dari [Ayahnya] dari [Sa'd] dia berkata; saya melihat di samping kanan dan kiri Nabi shallallahu 'alaihi wasallam dua orang laki-laki tengah mengenakan pakaian serba putih pada waktu perang Uhud, aku tidak pernah melihat sebelum dan sesudahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5826</td></tr><tr><td>Arabic No</td><td>5826</td></tr><tr><td>Reference</td><td>Book 77 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д сказал: «В день (битвы при) Ухуде я видел Пророка ﷺ вместе с двумя людьми в белых одеждах, которых я никогда не видел ни до, ни после этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5826</td></tr><tr><td>Arabic No</td><td>5826</td></tr><tr><td>Reference</td><td>Book 77 Hadith 43</td></tr></tbody></table></div>
 

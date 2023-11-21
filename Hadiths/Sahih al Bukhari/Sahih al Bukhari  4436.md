@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Prophet (ﷺ) fell ill in his fatal illness, he started
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad] dari [Urwah] dari [Aisyah] dia berkata; "Tatkala beliau sakit yang menyebabkan kematiannya, beliau bersabda: "Ar Rafiiqul A'laa." (Ya Allah, sekarang aku memilih kekasihku yang tertinggi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 64 Hadith 457</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Во время той болезни, от которой Пророк ﷺ умер, он стал произносить слова: “(О Аллах, позволь мне оказаться) в высшем обществе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 64 Hadith 457</td></tr></tbody></table></div>
 

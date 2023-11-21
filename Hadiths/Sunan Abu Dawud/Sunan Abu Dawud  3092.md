@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm al-Ala: The Messenger of Allah (ﷺ) visited me while I was sick. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Bakkar], dari [Abu 'Awanah] dari [Abdul Malik bin 'Umair] dari [Ummu Al 'Ala'] ia berkata; Rasulullah shallallahu 'alaihi wasallam menjengukku sementara aku sedang sakit. Kemudian beliau berkata: "Bergembiralah wahai Ummu Al 'Ala', karena sesungguhnya sakit seorang mukmin karena Allah menghilangkan dosa-dosanya sebagaimana api menghilangkan kotoran emas dan perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3092</td></tr><tr><td>Arabic No</td><td>3092</td></tr><tr><td>Reference</td><td>Book 21 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм аль-‘Аля, да будет доволен ею Аллах, передаёт: «Посланник Аллаха ﷺ навестил меня, когда я болела, и сказал: “Радуйся, о Умм аль-‘Аля, ибо посредством болезни Аллах очищает мусульманина от грехов подобно тому, как огонь очищает золото и серебро от окалины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3092</td></tr><tr><td>Arabic No</td><td>3092</td></tr><tr><td>Reference</td><td>Book 21 Hadith 4</td></tr></tbody></table></div>
 

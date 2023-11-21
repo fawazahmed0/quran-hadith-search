@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that Banu Salama decided to shift near the mosque (as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ashim bin Nadar At Taimi] telah menceritakan kepada kami [Mu'tamir] katanya; Aku mendengar [Kahmas] menceritakan dari [Abu Nadlrah] dari [Jabir bin Abdullah] katanya; Bani Salamah berkeinginan pindah ke dekat masjid. Jabir melanjutkan; "Ketika itu, ada beberapa lahan yang masih kosong. Ketika berita ini sampai ke Nabi shallallahu 'alaihi wasallam, beliau lalu bersabda; "Wahai Bani Salamah, Pertahankanlah rumah kalian, sebab langkah kalian akan dicatat." Selanjutnya mereka berkata; "Setelah itu kami tak ingin lagi pindah rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>665.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 353</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «Когда освободилось место вокруг мечети, люди из племени бану салима захотели перебраться (на жительство) поближе к мечети. Когда известие об этом дошло до Пророка ﷺ, он сказал им: “О бану салима, (оставайтесь) в своих домах, ибо следы ваши записываются!” Тогда они сказали: “Наше переселение не принесло бы нам радости!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>665.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 353</td></tr></tbody></table></div>
 

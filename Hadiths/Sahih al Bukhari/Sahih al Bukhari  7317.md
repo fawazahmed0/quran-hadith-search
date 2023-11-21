@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:'Umar bin Al-Khattab asked (the people) about the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Hisyam] dari [Ayahnya] dari [Mughirah bin Syu'bah] berkata, "Umar bin Khattab pernah bertanya tentang imlash, yaitu perut seorang wanita yang sedang hamil dipukul agar janinnya keguguran. Umar tanyakan, "Siapa di antara kalian yang mendengar nabi shallallahu 'alaihi wasallam bersabda tentang hal itu?" Aku menjawab, "Aku." Umar bertanya, 'Bagaimana menurutmu? ' Aku jawab, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda tentangnya, yaitu membayar sepuluh diyat yang nilainya setara satu budak atau satu hamba sahaya." Umar lantas berkata, "Tolong kamu jangan pergi jauh-jauh hingga engkau membawaku penegasan yang kamu katakan!" Lantas aku keluar dan kutemukan [Muhammad bin Maslamah], aku membawanya dan ia bersaksi bersamaku bahwa ia mendengar Nabi shallallahu 'alaihi wasallam bersabda tentangnya, yaitu membayar sepuluh diyat yang senilai satu budak atau hamba sahaya." Hadits ini diperkuat oleh [Ibn Abu Az Zinad] dari [ayahnya] dari [Urwah] dari [Mughirah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7317</td></tr><tr><td>Arabic No</td><td>7317</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аль-Мугира ибн Шу‘ба, да будет доволен им Аллах, сказал: \n— Однажды ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, спросил относительно того случая, когда кто-то ударил по животу женщины, и это стало причиной выкидыша, сказав: «Кто из вас, слышал что-либо об этом от Пророка ﷺ?» Я же ответил: «Я». Он сказал: «Что (ты слышал)?» Я ответил: «Я слышал, что Пророк ﷺ сказал: “В этом случае, необходимо выплатить компенсацию за плод — раба или рабыню”». Тогда ‘Умар, да будет доволен им Аллах, сказал: «Ты не покинешь место до тех пор, пока не приведёшь мне того, кто засвидетельствует в пользу твоих слов». И когда я вышел, то повстречал Мухаммада ибн Масляму, и привёл его к ‘Умару, и тот засвидетельствовал в мою пользу, что он слышал, как Пророк ﷺ сказал: «В этом случае, необходимо выплатить компенсацию за плод — раба или рабыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7317</td></tr><tr><td>Arabic No</td><td>7317</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

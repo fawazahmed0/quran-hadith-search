@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) said to me: Get me the mat from the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] serta [Abu Kuraib], Yahya berkata, telah mengabarkan kepada kami, sedangkan dua orang lainnya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dari [Tsabit bin Ubaid] dari [al-Qasim bin Muhammad] dari [Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Ambillah untukku minyak wangi dari masjid." Aisyah lalu menjawab, "Sesungguhnya aku sedang haid!" Beliau pun bersabda: "Sesungguhnya haidmu tidak terletak pada tanganmu (maksudnya tidak akan mengotori)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>689</td></tr><tr><td>Arabic No</td><td>298.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Посланник Аллаха ﷺ сказал мне: “Передай мне коврик из мечети”. Я сказала: “У меня месячные”. (На что) Посланник Аллаха ﷺ сказал: “Но ведь твои месячные у тебя не на руке”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>689</td></tr><tr><td>Arabic No</td><td>298.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
 

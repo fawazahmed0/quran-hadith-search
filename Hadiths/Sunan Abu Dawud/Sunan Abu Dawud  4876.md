@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id ibn Zayd: The Prophet (ﷺ) said: The most prevalent kind of usur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Auf] berkata, telah menceritakan kepada kami [Abul Yaman] berkata, telah menceritakan kepada kami [Syu'aib] berkata, telah menceritakan kepada kami [Abdullah bin Abu Husain] berkata, telah menceritakan kepada kami [Naufal bin Musahiq] dari [Sa'id bin Zaid] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya seburuk-buruk riba adalah merusak kehormatan orang lain dengan cara yang tidak dibenarkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн Зейда, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, наихудшее ростовщичество /ар-риба/ это посягательство на честь мусульманина, без всякого права на это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
 

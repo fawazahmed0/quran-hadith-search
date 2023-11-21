@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Messenger of Allah (ﷺ) as saying:The adoration of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] telah menceritakan kepadaku [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] aku mendengar [Mujahid] menceritakan dari [Ibnu Umar] dari Rasulullah shallallahu 'alaihi wasallam tentang tasyahud, yaitu: "Attahiyyatu lillah Asshalawatut-thayyibat Assalamu 'alaika ayyuhannabiyyu warahmatullahi wabarakatuh" Ibnu Umar berkata bahwa aku menambahkan "wabarakatuh assalamu 'alaina wa'ala 'ibadillahis-shalihin Asyhadu alla ilaha illallah" Ibnu Umar berkata bahwa aku menambahkan "wahdahu la syarikalah wa asyhadu anna muhammadan abduhu warasuluhu" (Segala penghormatan dan kebaktian yang baik hanya bagi Allah, kesejahteraan, rahmat Allah dan berkah-Nya tetap terlimpah kepadamu wahai Nabi, semoga kesejahteraan atas kami dan hamba-hamba Allah yang Shalih, aku bersaksi tidak ada ilah (yang berhak di sembah) kecuali Allah, tidak ada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>971</td></tr><tr><td>Arabic No</td><td>971</td></tr><tr><td>Reference</td><td>Book 2 Hadith 582</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ говорил, совершая ташаххуд: «Благие приветствия и молитвы Аллаху, мир тебе, о Пророк, милость Аллаха и благословения Его”». (Ибн ‘Умар говорил: «Я добавил “И Его благословения”». И он продолжил): «Мир нам и праведным рабам Аллаха. Свидетельствую, что нет бога [заслуживающего поклонение], кроме Аллаха». Ибн ‘Умар говорил: «Я добавил “И Его благословения”». (И он продолжил): «И свидетельствую, что Мухаммад Его раб и Его Посланник /Ат-тахиййату ли-Лляхи, ас-салявату-ат-таййибату; ас-саляму ‘аляй-ка, аййуха-н-набиййу, ва рахмату-Ллахи ва баракяту-ху, ас-саляму ‘аляй-на ва ‘аля ‘ибади-Лляхи-с-салихин. Ашхаду алля иляха илля-Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>971</td></tr><tr><td>Arabic No</td><td>971</td></tr><tr><td>Reference</td><td>Book 2 Hadith 582</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiyub:Abu Qilaba said, "Malik bin Huwairith came to us and led us in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'allaa bin Asad] berkata, telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Abu Qilabah] berkata, " [Malik bin Al Huwairits] datang kepada kami lalu shalat bersama di masjid milik ini, kemudian berkata, "Aku bukan ingin melaksanakan shalat, tapi aku akan menerangkan kepada kalian bagaimana Nabi shallallahu 'alaihi wasallam melaksanakan shalat." Ayyub berkata, "Lalu aku bertanya kepada Abu Qilabah, "Bagaimana cara shalat dia?" Abu Qilabah menjawab, "Seperti shalatnya guru (syaikh) kita ini, yaitu 'Amru bin Salamah." Ayyub berkata, "Guru kita itu selalu menyempurnakan takbir. Dan jika mengangkat kepalanya dari sujud yang kedua dia duduk di atas tanah, kemudian baru berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>824</td></tr><tr><td>Arabic No</td><td>824</td></tr><tr><td>Reference</td><td>Book 10 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Кыляба сказал: «Однажды к нам пришел Малик ибн Хууэйрис и совершил с нами молитву в этой нашей мечети, затем сказал: “Поистине, я совершаю с вами молитву не потому, что хочу совершить ее, однако я хочу показать вам, как я видел Пророка ﷺ совершающего ее”». \nАюб сказал: «Я спросил Абу Кылябу: “Как он совершил молитву?” Он ответил: “Подобно молитве этого нашего шейха”, — то есть ‘Амра ибн Абу Салимы». Аюб продолжил: «Этот шейх произносил все такбиры, и когда он поднимал голову после второго земного поклона, он сидел, затем он вставал, опираясь на руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>824</td></tr><tr><td>Arabic No</td><td>824</td></tr><tr><td>Reference</td><td>Book 10 Hadith 218</td></tr></tbody></table></div>
 

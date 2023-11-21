@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Sharik:That the Prophet (ﷺ) ordered her to kill Salamanders
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Shadaqah bin Al Fadlal] telah mengabarkan kepada kami [Ibnu 'Uyaynah] telah bercerita kepada kami ['Abdul Hamid bin Jubair bin Syaibah] dari [Sa'id bin Al Musayyab] bahwa [Ummu Syarik] mengabarkan kepadanya bahwa Nabi shallallahu 'alaihi wasallam memerintahkan untuk membunuh cecak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3307</td></tr><tr><td>Arabic No</td><td>3307</td></tr><tr><td>Reference</td><td>Book 59 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Умм Шарик, да будет доволен ею Аллах, что Пророк ﷺ приказал ей убивать ящериц
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3307</td></tr><tr><td>Arabic No</td><td>3307</td></tr><tr><td>Reference</td><td>Book 59 Hadith 115</td></tr></tbody></table></div>
 

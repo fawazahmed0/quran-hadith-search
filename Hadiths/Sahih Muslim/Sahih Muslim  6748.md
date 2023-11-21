@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported a hadith like this through another chain of transmitters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin 'Amru bin 'Abdullah bin Sarh]; Telah menceritakan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Abu Hani Al Khalwani] dari [Abu 'Abdur Rahman Al Hubuli] dari ['Abdullah bin 'Amru bin Al 'Ash] dia berkata; "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah telah menentukan takdir bagi semua makhluk lima puluh tahun sebelum Allah menciptakan langit dan bumi.' Rasulullah menambahkan: 'Dan arsy Allah itu berada di atas air." Telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Al Muqri]; Telah menceritakan kepada kami [Haiwah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin Sahl At Tamimi]; Telah menceritakan kepada kami [Ibnu Abu Maryam]; Telah mengabarkan kepada kami [Nafi'] yaitu Ibnu Yazid keduanya dari [Abu Hani] melalui jalur ini dengan Hadits yang serupa. Namun keduanya tidak menyebutkan lafazh: "Dan 'arsy Allah itu berada di atas air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6748</td></tr><tr><td>Arabic No</td><td>2653.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6748</td></tr><tr><td>Arabic No</td><td>2653.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 26</td></tr></tbody></table></div>
 

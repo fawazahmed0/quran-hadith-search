@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'idi:While I was (sitting) among the people in the c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Aku mendengar [Abu Hazim] berkata; Aku mendengar [Sahl bin Sa'd As Sa'idi] berkata; Aku pernah berada di tengah-tengah suatu kaum yang tengah berada di sisi Rasulullah shallallahu 'alaihi wasallam, tiba-tiba berdirilah seorang wanita seraya berkata, "Wahai Rasulullah, sesungguhnya ia telah menyerahkan dirinya untuk Anda, karena itu berilah keputusan padanya." Namun beliau tidak memberi jawaban apa pun, kemudian wanita itu pun berdiri dan berkata lagi, "Wahai Rasulullah, sesungguh ia telah menyerahkan dirinya untuk Anda, karena itu berilah putusan padanya." Ternyata ia belum juga memberi putusan apa-apa. Kemudian wanita itu berdiri lagi pada kali yang ketiga seraya berkata, "Wahai Rasulullah, sesungguhnya ia telah menyerahkan dirinya untuk Anda, karena itu berilah keputusan padanya." Maka berdirilah seorang laki-laki dan berkata, "Wahai Rasulullah, nikahkanlah aku dengannya." Beliau pun bertanya: "Apakah kamu memiliki sesuatu (untuk dijadikan mahar)?" laki-laki itu menjawab, "Tidak." Beliau bersabda: "Pergi dan carilah sesuatu meskipun hanya cincin dari emas." Kemudian laki-laki itu pergi dan mencari sesuatu untuk mahar, kemudian ia kembali lagi dan berkata, "Aku tidak mendapatkan apa-apa, meskipun hanya cincin dari emas." Lalu beliau bertanya: "Apakah kamu mempunyai hafalan Al Qur'an?" laki-laki itu menjawab, "Ya, aku hafal surat ini dan ini." Akhirnya beliau bersabda: "Pergilah, telah menikahkanmu dengan wanita itu dan maharnya adalah hafalan Al Qur'anmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5149</td></tr><tr><td>Arabic No</td><td>5149</td></tr><tr><td>Reference</td><td>Book 67 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д ас-Са‘идий сказал: «Однажды, когда я находился в обществе Посланника Аллаха ﷺ, какая-то женщина встала и сказала: “О Посланник Аллаха! Я дарю тебе себя, что ты об этом думаешь?” Однако он ничего ей не ответил. Затем она снова встала и сказала: “О Посланник Аллаха! Я дарю тебе себя, что ты об этом думаешь?” Однако он снова ничего ей не ответил. Она встала в третий раз и сказала: “О Посланник Аллаха! Я дарю тебе себя, что ты об этом думаешь?” Тогда один человек встал и сказал: “О Посланник Аллаха, жени меня на ней”. Посланник Аллаха ﷺ спросил: “У тебя есть что-нибудь (в качестве брачного дара)?” Человек ответил: “Нет”. Пророк ﷺ сказал: “Иди, поищи хотя бы железный перстень”. (Этот человек) ушёл, поискал, а потом вернулся и сказал: “Я не нашёл ничего, даже железного перстня”. Затем Пророк ﷺ спросил его: “Ты знаешь что-нибудь из Корана (наизусть)?” Он ответил: “Такую-то и такую-то суру”. Тогда Пророк ﷺ сказал (ему): “Ступай, я выдаю её за тебя замуж за то, что ты знаешь из Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5149</td></tr><tr><td>Arabic No</td><td>5149</td></tr><tr><td>Reference</td><td>Book 67 Hadith 84</td></tr></tbody></table></div>
 

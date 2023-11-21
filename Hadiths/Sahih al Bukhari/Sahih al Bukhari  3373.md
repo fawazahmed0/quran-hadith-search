@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':The Prophet (ﷺ) passed by some persons of the tri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Hatim] dari [Yazid bin Abi 'Ubaid] dari [Salamah bin Al Akwa' radliallahu 'anhu] berkata; 'Nabi shallallahu 'alaihi wasallam berjalan melewati beberapa orang dari suku Aslam yang sedang menunjukkan keahlian bermain panah, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Memanahlah wahai Bani Isma'il, karena nenek moyang kalian adalah ahli memanah. Memanahlah dan aku berlatih bersama Bani Fulan". Salamah berkata: "Lalu salah satu dari dua kelompok ada yang menahan tangan-tangan mereka (berhenti berlatih), maka Nabi Shallallahu'alaihiwasallam bertanya: "Mengapa kalian tidak terus berlatih memanah?". Mereka menjawab: "Bagaimana kami harus berlatih sedangkan baginda berlatih bersama mereka?". Maka Nabi Shallallahu'alaihiwasallam bersabda: "Berlatihlah, karena aku bersama kalian semuanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3373</td></tr><tr><td>Arabic No</td><td>3373</td></tr><tr><td>Reference</td><td>Book 60 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салама бин аль-Аква‘, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ проходил мимо группы (людей из племени) аслам, которые упражнялись в стрельбе из лука, и Посланник Аллаха ﷺ сказал: “Стреляйте, о сыны Исмаила, ибо, поистине, отец ваш был (хорошим) стрелком, что же касается меня, то я (на стороне людей из) такого-то (племени)”. (Услышав это,) люди одной из этих двух групп прекратили стрелять, а Посланник Аллаха ﷺ спросил: “Почему же вы не стреляете?” Они сказали: “О Посланник Аллаха, как же мы будем стрелять, если ты с ними?” Тогда (Пророк ﷺ) сказал: “Стреляйте, ибо я — со всеми вами!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3373</td></tr><tr><td>Arabic No</td><td>3373</td></tr><tr><td>Reference</td><td>Book 60 Hadith 47</td></tr></tbody></table></div>
 

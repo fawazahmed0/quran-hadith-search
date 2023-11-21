@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:A man praised another man in front of the Prophet (ﷺ) . The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Khalid Al Khadzdza'] dari ['Abdurrahman bin Abu Bakrah] dari [bapaknya] berkata; Ada seseorang menyanjung orang lain di hadapan Nabi shallallahu 'alaihi wasallam maka Beliau berkata: "Celaka kamu, kamu telah memenggal leher sahabatmu, kamu telah mememggal leher sahabatmu". Kalimat ini diucapkan oleh Beliau berulang kali, kemudian Beliau bersabda: "Siapa diantara kalian yang ingin memuji saudaranya tidak pada tempatnya hendaklah ia mengucapkan; Aku mengira si fulan, demi Allah aku menduga dia, dan aku tidak menganggap suci seorangpun di hadapan Allah, aku mengira dia begini begini, sekalipun dia mengetahui tentang diri saudaranya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2662</td></tr><tr><td>Arabic No</td><td>2662</td></tr><tr><td>Reference</td><td>Book 52 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал:\n— (Как-то раз) один человек стал хвалить другого в присутствии Пророка ﷺ и (Пророк ﷺ) воскликнул: «Горе тебе, ты перерезал горло своему брату, ты перерезал горло своему брату!» (Он повторил эти слова) несколько раз, а потом сказал: «Пусть тот из вас, кому придётся хвалить своего брата, скажет: “Я считаю такого-то (таким-то, правду же о) нём знает (только Аллах), и я никого не восхваляю пред Аллахом, а (только) считаю его таким-то и таким-то”, если он (действительно) уверен в том(, что говорит) о нём”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2662</td></tr><tr><td>Arabic No</td><td>2662</td></tr><tr><td>Reference</td><td>Book 52 Hadith 26</td></tr></tbody></table></div>
 

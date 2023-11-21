@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That during the Mina days, Abu Bakr came to her, while there whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa Abu Bakr radliallahu 'anhu datang kepada ('Aisyah radliallahu 'anha) saat di sisinya ada dua orang budak wanita yang sedang bernyanyi pada hari-hari Mina sementara Nabi shallallahu 'alaihi wasallam menutup wajahnya dengan kainnya. Kemudian Abu Bakar radliallahu 'anhu melarang dan menghardik kedua sahaya itu. Maka Nabi shallallahu 'alaihi wasallam melepas kain yang menutupi wajahnya dan berkata: "Biarkanlah wahai Abu Bakar. Karena ini adalah Hari Raya 'Ied". Hari-hari itu adalah hari-hari Mina (Tasyriq). Dan berkata 'Aisyah radliallahu 'anha; "Aku melihat Nabi shallallahu 'alaihi wasallam menutupi aku dengan (badannya) sedangkan aku menyaksikan budak-budak dari Habasyah itu bermain di dalam masjid. Tiba-tiba dia ('Umar radliallahu 'anhu) menghentikan mereka. Maka Nabi Shallallahu'alaihiwasallam berkata: "Biarkanlah mereka dengan jaminan Bani Arfidah, yaitu keamanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3529</td></tr><tr><td>Arabic No</td><td>3529</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что однажды во время пребывания в Мине Абу Бакр, да будет доволен им Аллах, зашёл к ней тогда, когда у неё находились две девушки, игравшие на бубне, а также Пророк ﷺ, прикрывшийся своей одеждой. Абу Бакр резко заговорил с ними, но Пророк ﷺ открыл лицо и сказал: «Оставь их, о Абу Бакр, ведь это — дни праздника, дни (пребывания) в Мине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3529</td></tr><tr><td>Arabic No</td><td>3529</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

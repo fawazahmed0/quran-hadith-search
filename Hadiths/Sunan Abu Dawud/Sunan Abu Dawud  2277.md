@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hilal ibn Usamah quoted Abu Maimunah Salma, client of the people of Medina, as s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali Al Hulwani], telah menceritakan kepada kami [Abdurrazzaq], dan [Abu 'Ashim] dari [Juraij], telah mengabarkan kepadaku [Ziyad] dari [Hilal bin Usamah], bahwa [Abu Maimunah] mantan budak penduduk Madinah adalah orang yang jujur, ia berkata; tatkala aku sedang duduk bersama [Abu Hurairah], datang kepadanya seorang wanita Persia yang membawa anaknya -keduanya mengklaim lebih berhak terhadap anak tersebut-, dan suaminya telah menceraikannya. Wanita tersebut berkata menggunakan bahasa Persia; wahai Abu Hurairah, suamiku ingin pergi membawa anakku. Kemudian Abu Hurairah berkata kepadanya menggunakan bahasa asing; undilah anak tersebut. Kemudian suaminya datang dan berkata; siapakah yang menyelisihiku mengenai anakku? Kemudian Abu Hurairah berkata; Ya Allah, aku tidak mengatakan hal ini kecuali karena aku telah mendengar seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam sementara aku duduk di sisinya, kemudian ia berkata; wahai Rasulullah shallallahu 'alaihi wasallam, sesungguhnya suamiku hendak pergi membawa anakku, sementara ia telah membantuku mengambil air dari sumur Abu 'Inabah, dan ia telah memberiku manfaat. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Undilah anak tersebut!" kemudian suaminya berkata; siapakah yang akan menyelisihiku mengenai anakku? Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Ini adalah ayahmu dan ini adalah ibumu, gandenglah tangan salah seorang diantara mereka yang engkau kehendaki!" kemudian ia menggandengang tangan ibunya, lalu wanita tersebut pergi membawanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Маймуна Сальма, вольноотпущенник из числа жителей Медины, человек, достойный доверия, передаёт: «Однажды, когда я сидел вместе с Абу Хурайрой, к нему подошла персиянка со своим сыном. Муж дал ей развод и теперь каждый из них желал оставить ребёнка себе. Она сказала по-персидски: “Мой муж хочет забрать моего сына”. Абу Хурайра сказал ей по-персидски: “Тяните жребий”. Тогда пришёл её муж и сказал: “Кто оспаривает моё право на сына?” Абу Хурайра сказал: “Я говорю это лишь потому, что слышал, как к Посланнику Аллаха ﷺ пришла одна женщина, когда я сидел у него, и сказала: “О Посланник Аллаха! Мой муж хочет забрать у меня сына, а ведь мой сын уже подрос, и может принести воды из колодца Абу Инабы, и помогает мне!” Посланник Аллаха ﷺ сказал: “Тяните жребий”. Её муж сказал: “Кто оспаривает моё право на сына?” Тогда Пророк ﷺ сказал: “Это твой отец, а это твоя мать. Возьми за руку кого хочешь”. Ребёнок взял мать за руку, и она ушла вместе с ним”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
 

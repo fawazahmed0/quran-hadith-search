@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Maimunah daughter of Al Harith said “When the Apostle of Allaah(ﷺ) intended 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] dan [Musaddad], mereka berkata; telah menceritakan kepada kami [Hafsh] dari [Asy Syaibani] dari [Abdullah bin Syaddad] dari [bibinya yaitu Maimunah binti Al Harits] bahwa Rasulullah shallallahu 'alaihi wasallam apabila hendak menggauli isterinya yang sedang haid beliau memerintahkannya agar memakai kain, kemudian beliau menggaulinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (303) Sahih Muslim (293)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2167</td></tr><tr><td>Arabic No</td><td>2167</td></tr><tr><td>Reference</td><td>Book 12 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Маймуны бинт аль-Харис, да будет доволен ею Аллах, что, если Посланник Аллаха ﷺ хотел ласкать кого-то из своих жён, когда у той была менструация, он велел ей надеть изар, а потом прикасался к ней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (303) Sahih Muslim (293)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2167</td></tr><tr><td>Arabic No</td><td>2167</td></tr><tr><td>Reference</td><td>Book 12 Hadith 122</td></tr></tbody></table></div>
 

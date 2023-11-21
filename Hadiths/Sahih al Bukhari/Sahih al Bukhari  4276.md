@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) left Medina (for Mecca) in the company of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mahmud], Telah mengabarkan kepada kami ['Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] katanya, telah mengabarkan kepadaku [Azzuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] radliallahu 'anhuma, bahwasanya Nabi shallallahu 'alaihi wasallam pernah berangkat di bulan Ramadhan dari Madinah bersama sepuluh ribu sahabatnya, itu terjadi tahun kedelapan setengah semenjak tiba beliau di Madinah. Beliau dan kaum muslimin yang bersamanya berangkat ke Makkah berpuasa dan para sahabat juga turut berpuasa, hingga ketika beliau sampai di Kadid yaitu sebuah sumber mata air antara 'Usfan dan Qudaid beliau membatalkan puasanya dan para sahabat juga turut membatalkan puasanya. Komentar Azzuhri, perintah Rasulullah shallallahu 'alaihi wasallam yang diambil (dijadikan pedoman) adalah yang akhir, maka yang terakhir itulah yang dijadikan pedoman amal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4276</td></tr><tr><td>Arabic No</td><td>4276</td></tr><tr><td>Reference</td><td>Book 64 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ выступил из Медины вместе с десятитысячным (войском) во время рамадана, и это было через восемь с половиной лет после его приезда в Медину. Вместе с сопровождавшими его мусульманами он направился в Мекку, соблюдая пост, и они соблюдали его, но, когда (Пророк ﷺ) достиг Кадида, источника, находящегося между Усфаном и Кудайдом, он перестал поститься, и (мусульмане последовали его примеру)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4276</td></tr><tr><td>Arabic No</td><td>4276</td></tr><tr><td>Reference</td><td>Book 64 Hadith 310</td></tr></tbody></table></div>
 

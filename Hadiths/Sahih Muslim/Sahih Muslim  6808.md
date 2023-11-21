@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) was travelling along the path 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umayyah bin Bistham Al 'Aisyi] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Rauh bin Al Qasim] dari [Al 'Ala] dari [bapaknya] dari [Abu Hurairah] dia berkata; "Pada suatu ketika Rasulullah shallallahu 'alaihi wasallam pergi ke Makkah melewati sebuah gunung yang bernama Jumdan. Kemudian beIiau bersabda: 'Ayo jalanlah! Inilah Jumdan. Telah menang para mufarridun.' Para sahabat bertanya; 'Ya Rasulullah, apakah yang dimaksud dengan mufarridun? ' Beliau menjawab: 'Yaitu orang-orang (laki-laki/perempuan) yang banyak berdzikir kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6808</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 48 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6808</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 48 Hadith 4</td></tr></tbody></table></div>
 

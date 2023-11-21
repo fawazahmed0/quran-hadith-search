@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported on the authority of his father (Allah be pleased with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Harun bin Abdullah] dan [Ya'qub Ad Dauraqi] mereka berkata, telah mengabarkan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Abdul Aziz bin Abu Usamah] dari [Amru bin Husain] dari [Abdullah bin Abu Salamah] dari [Abdullah bin Abdullah bin Umar] dari [bapaknya] ia berkata; Pagi hari di Arafah, kami bersama Rasulullah shallallahu 'alaihi wasallam. Dan di antara rombongan kami ada yang membaca talbiyah, namun kami membaca takbir." Maka aku pun berkata, "Demi Allah, sungguh mengherankan kalian ini, kenapa kalian tidak bertanya kepadanya, "Apa yang diperbuat Rasulullah shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>1284.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>1284.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 301</td></tr></tbody></table></div>
 

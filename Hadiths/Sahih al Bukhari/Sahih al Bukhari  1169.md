@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar Abu:I offered with Allah's Messenger (ﷺ) a two ra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Salim] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; "Aku pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam dua raka'at sebelum shalat Zhuhur, dua raka'at sesudah shalat Zhuhur, dua raka'at sesudah shalat Jum'at, dua raka'at sesudah shalat Maghrib dan dua raka'at sesudah shalat 'Isya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1169</td></tr><tr><td>Arabic No</td><td>1169</td></tr><tr><td>Reference</td><td>Book 19 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Аиша, да будет доволен ею Аллах, сказала: «Ни один из дополнительных намазов Пророк ﷺ не совершал столь неуклонно, как намаз в два рак‘ата утром»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1169</td></tr><tr><td>Arabic No</td><td>1169</td></tr><tr><td>Reference</td><td>Book 19 Hadith 48</td></tr></tbody></table></div>
 

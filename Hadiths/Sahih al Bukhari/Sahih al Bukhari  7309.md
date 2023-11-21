@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I fell ill, Allah's Messenger (ﷺ) and Abu Bakr ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] berkata, aku mendengar [Ibnul Munakdir] berkata, aku mendengar [Jabir bin Abdullah] mengatakan, "Saat aku sakit Rasulullah shallallahu 'alaihi wasallam dan Abu Bakar membesukku dengan berjalan kaki. Keduanya menjengukku sedang aku dalam keadaan pingsan. Lantas Rasulullah shallallahu 'alaihi wasallam berwudlu dan menuangkan wudlunya kepadaku sehingga aku siuman. Kemudian aku katakan, "Wahai Rasulullah, " dan terkadang Sufyan menyebutkan "Hai Rasulullah (bukan Wahai namun Hai), bagaimana harus aku putuskan masalah hartaku? Dan bagaimana yang harus kuperbuat terhadap hartaku?" Jabir berkata, "Beliau tidak menjawabku dengan suatu apapaun hingga ayat tentang waris diturunkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7309</td></tr><tr><td>Arabic No</td><td>7309</td></tr><tr><td>Reference</td><td>Book 96 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, передаёт: «Однажды я заболел, и Пророк ﷺ вместе с Абу Бакром пришли пешком, чтобы навестить меня. Когда они пришли ко мне, я лежал без сознания. Тогда Посланник Аллаха ﷺ совершил омовение и вылил на меня воду, оставшуюся после омовения, и я пришёл в себя и спросил: “О Посланник Аллаха, как мне распорядиться своим имуществом? (— или: Как мне поступить со своим имуществом?)” (Затем) Джабир сказал: “Тогда он мне ничего не ответил, пока не был ниспослан аят о наследовании”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7309</td></tr><tr><td>Arabic No</td><td>7309</td></tr><tr><td>Reference</td><td>Book 96 Hadith 40</td></tr></tbody></table></div>
 

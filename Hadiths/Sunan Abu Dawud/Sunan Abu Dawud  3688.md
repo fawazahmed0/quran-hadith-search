@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Ghanam: Malik ibn AbuMaryam said: AbdurRahman ibn Ghana
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Zaid bin Al Hubab] telah menceritakan kepada kami [Mu'awiyah bin Shalih] dari [Hatim bin Huraits] dari [Malik bin Abu Maryam] ia berkata, " [Abdurrahman bin Ghanm] masuk menemui kami, lalu kami menyebutkan Thila' (minuman yang dimasak hingga mengental). Ia kemudian berkata, " [Abu Malik Al Asy'ari] menceritakan kepadaku bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh akan ada beberapa orang dari umatku yang minum khamer, mereka menamakannya dengan selain namanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3688</td></tr><tr><td>Arabic No</td><td>3688</td></tr><tr><td>Reference</td><td>Book 27 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Малика ибн Абу Марьям: «К нам зашёл ‘Абду-р-Рахман ибн Ганм, и мы заговорили о тыля, и он сказал: “Абу Малик аль-Аш‘ари, да будет доволен им Аллах, рассказывал мне, что он слышал, как Посланник Аллаха ﷺ сказал: “Люди из моей общины будут пить вино, называя его другими именами””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3688</td></tr><tr><td>Arabic No</td><td>3688</td></tr><tr><td>Reference</td><td>Book 27 Hadith 20</td></tr></tbody></table></div>
 

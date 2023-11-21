@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:I asked Anas, "Was it a custom of the companions of the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ashim] telah menceritakan kepada kami [Hammam] dari [Qatadah] dia berkata; aku bertanya kepada [Anas]; "Apakah diantara para sahabat Nabi shallallahu 'alaihi wasallam sering berjabat tangan?" dia menjawab; "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6263</td></tr><tr><td>Arabic No</td><td>6263</td></tr><tr><td>Reference</td><td>Book 79 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Катада сказал: «Я спросил Анаса: “Пожимали ли друг другу руки сподвижники Посланника Аллаха ﷺ?” — и он ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6263</td></tr><tr><td>Arabic No</td><td>6263</td></tr><tr><td>Reference</td><td>Book 79 Hadith 37</td></tr></tbody></table></div>
 

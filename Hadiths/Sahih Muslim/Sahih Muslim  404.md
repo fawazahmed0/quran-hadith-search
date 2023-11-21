@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of 'A'isha with another chain of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>404</td></tr><tr><td>Arabic No</td><td>160.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Ниспослание откровений Посланнику Аллаха ﷺ началось…». Затем он привёл хадис полностью подобно предыдущему с той лишь разницей, что в этой версии он сказал: «…Клянусь Аллахом, Аллах никогда не опечалит тебя…», а также он передал, что Хадиджа сказала: «О сын моего дяди, выслушай сына своего брата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>404</td></tr><tr><td>Arabic No</td><td>160.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
 

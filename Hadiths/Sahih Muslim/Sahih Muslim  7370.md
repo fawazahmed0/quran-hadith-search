@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa and Ibn Mas'ud met together. Hudhaifa said:I know more than you as to w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr] telah menceritakan kepada kami [Syu'aib bin Shafwan] dari [Abdulmalik bin Umair] dari [Rib'I bin Hirays] dari [Uqbah bin Amru Abu Mas'ud Al Anshari] berkata: Aku pergi bersamanya untuk menemui [Hudzaifah bin Al Yaman], lalu Uqbah berkata padanya: Ceritakanlah kepadaku apa yang kau dengar dari Rasulullah Shallallahu 'alaihi wa Salam tentang Dajjal! Ia berkata: Dajjal muncul bersama air dan api. Yang dilihat manusia berupa air adalah api yang membakar dan yang dilihat manusia berupa api adalah air dingin tawar. Siapa pun diantara kalian yang menjumpainya, hendaklah memilih yang terlihat seperti api, karena sesungguhnya itu adalah air tawar yang baik. Uqbah berkata: Aku pernah mendengarnya, sebagai pembenaran untuk Hudzaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7370</td></tr><tr><td>Arabic No</td><td>2935.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(34) Сообщается, что Риб‘ий ибн Хираш сказал: «(Однажды) мы вместе с ‘Укъбой ибн ‘Амр Абу Мас‘удом аль-Ансари пошли к Хузайфе ибн аль-Яману, да будет доволен ими всеми Аллах, и ‘Укъба попросил его: “Расскажи мне, что слышал ты от Посланника Аллаха ﷺ о Даджале”. (Хузайфа) сказал: “Поистине, (когда) появится Даджаль, будут с ним вода и огонь,и то, что будет представляться людям водой, (на самом деле окажется) жгучим огнём, а то, что будет представляться им огнём, (на самом деле окажется) прохладной и приятной водой, и пусть тот из вас, кто доживёт до этого, бросается в то, что покажется ему огнём, (так как на самом деле) это будет сладкой и приятной водой”. (А потом) ‘Укъба сказал: “И я слышал это (от Пророка ﷺ)”, подтвердив (слова) Хузайфы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7370</td></tr><tr><td>Arabic No</td><td>2935.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 132</td></tr></tbody></table></div>
 

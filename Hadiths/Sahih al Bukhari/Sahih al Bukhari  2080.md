@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:We used to be given mixed dates (from the booty) and used to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Abu Sa'id radliallahu 'anhu] berkata: "Kami diberikan kurma yang bercampur (antara yang baik dan yang jelek) dan kami menjual dua sha' dengan satu sha'". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Tidak boleh menjual dua sha' dibayar satu sha' dan dua dirham dengan satu dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2080</td></tr><tr><td>Arabic No</td><td>2080</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, сказал: «Обычно нам выдавали финики вперемешку, а мы отдавали по два са‘ (этих фиников) за один са‘ (более хороших), но (потом) Пророк ﷺ сказал: “Не (следует отдавать) по два са‘ за один и не (следует отдавать) по два дирхема за один”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2080</td></tr><tr><td>Arabic No</td><td>2080</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
 

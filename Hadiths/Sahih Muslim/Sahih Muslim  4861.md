@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira who said:Allah has undertak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Al Mughirah bin Abdurrahman Al Hizami] dari [Abu Az Zinnad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Allah akan menjamin bagi siapa yang berjihad (berjuang) di jalan-Nya, ia tidak keluar dari rumahnya kecuali untuk berjuang di jalan-Nya dan menegakkan kalimat-Nya, (maka Saya menjamin baginya) untuk masuk kedalam surga atau mengembalikannya pulang ke rumahnya dengan membawa sesuatu yang ia dapat berupa pahala dan ghanimah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>1876.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>1876.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 157</td></tr></tbody></table></div>
 

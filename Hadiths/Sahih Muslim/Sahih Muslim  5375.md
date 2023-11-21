@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), "Le Prophète (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdurrahman] dari [Sufyan] dari [Abu Zubair] dari [Jabir] dan [Ibnu 'Umar]; Bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang mukmin makan dengan satu usus (perut) sedangkan orang kafir makan dengan tujuh usus (perut)." Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Sufyan] dari [Abu Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa, namun dia tidak menyebutkan Ibnu Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5375</td></tr><tr><td>Arabic No</td><td>2061.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5375</td></tr><tr><td>Arabic No</td><td>2061.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 249</td></tr></tbody></table></div>
 

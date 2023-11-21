@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah bin 'Umar said, "Allah's Messenger (ﷺ) said, 'The peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhua] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagi penduduk Madinah bertalbiyah (memulai hajji) di Dzul Hulaifah, bagi penduduk Syam bertalbiyah di Al Juhfah, bagi penduduk Najed di Qarnul Manazil". Berkata, 'Abdullah; telah sampai berita kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam juga bersabda: "Dan bagi penduduk Yaman di Yalamlam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1525</td></tr><tr><td>Arabic No</td><td>1525</td></tr><tr><td>Reference</td><td>Book 25 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Жители Медины заходят в состояние ихрама в Зуль-Хулейфе, жители Шама — в аль-Джухфе, а жители Неджда — у Карна».\n‘Абдуллах также сказал: «До меня дошло, что Посланник Аллаха ﷺ сказал: “И жители Йемена заходят в состояние ихрама у Йалямляма”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1525</td></tr><tr><td>Arabic No</td><td>1525</td></tr><tr><td>Reference</td><td>Book 25 Hadith 13</td></tr></tbody></table></div>
 

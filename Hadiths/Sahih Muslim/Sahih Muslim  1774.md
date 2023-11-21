@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When half of the night or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abul Mughirah] telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika pertengahan malam atau sepertiga malam telah berlalu, Allah Tabaraka wa Ta'ala turun ke langit dunia dan berfirman, 'Adakah orang yang meminta hingga diberi, adakah orang yang berdo'a hingga dikabulkan, dan adakah orang yang memohon ampun hingga dosanya diampuni.' Demikian itu terjadi hingga waktu Shubuh datang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1774</td></tr><tr><td>Arabic No</td><td>758.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда проходит половина ночи или третья её часть, Всеблагой и Всевышний Аллах нисходит к нижнему небу и говорит: “Есть ли тот, кто просит (Меня), чтобы Я даровал ему? Есть ли тот, кто обращаться ко Мне с мольбами, чтобы Я ответил ему? Есть ли тот, кто молит Меня о прощении, чтобы Я простил его?” И так продолжается до тех пор, пока не засверкает утренняя заря»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1774</td></tr><tr><td>Arabic No</td><td>758.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 203</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said (to me), "You were shown to me in a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepadaku: "Aku melihatmu di alam mimpiku. Kamu dibawa oleh Malaikat dengan bertutupkan kain sutera, lalu Malaikat itu pun berkata padaku, 'Ini adalah isterimu.' Maka aku pun menyingkap kain yang menutupi wajahmu, dan ternyata wanita itu adalah kamu. Maka aku pun berkata, 'Kalau hal ini datangnya dari Allah, maka Allah pasti akan menjadikan kenyataan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5125</td></tr><tr><td>Arabic No</td><td>5125</td></tr><tr><td>Reference</td><td>Book 67 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, передаёт, что Посланник Аллаха ﷺ сказал ей: «(До женитьбы на тебе,) я видел тебя во сне. Ангел приносил тебя (ко мне) в куске (хорошего) шёлка и говорил: “Это твоя жена”. Я открывал её лицо, и оказывалось, что это ты, а я говорил: “Если это — от Аллаха, Он приведёт это к завершению”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5125</td></tr><tr><td>Arabic No</td><td>5125</td></tr><tr><td>Reference</td><td>Book 67 Hadith 61</td></tr></tbody></table></div>
 

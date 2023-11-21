@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas : The Prophet (sal Allaahu alayhi wa sallam ) passed by two 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Hannad bin As Sari] mereka berdua berkata; Telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dia berkata; Saya mendengar [Mujahid] menceritakan dari [Thawus] dari [Ibnu Abbas] dia berkata; Nabi shallallahu 'alaihi wasallam pernah melewati dua kuburan lalu bersabda: "Sesungguhnya keduanya sedang diadzab, dan keduanya tidak diadzab karena dosa besar. Adapun yang ini, maka karena dia tidak bersuci dari kencing, sedangkan yang ini, karena dia berjalan dengan namimah." Kemudian beliau menyuruh seseorang mengambil dahan kurma basah, lalu dibelah menjadi dua, kemudian beliau menanamkannya pada kuburan ini dan menanamkan satunya pada kuburan yang lain, dan beliau bersabda: "Semoga ia dapat meringankan keduanya selama ia belum kering." Hannad meriwayatkan dengan lafazh yastatir pada tempat yastanzih. Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, yang semakna dengan lafazh di atas, dia menyebutkan; "dia tidak menutup diri dari kencingnya", sedangkan Mu'awiyah menyebutkan; "dia tidak bersuci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6052) Sahih Muslim (292)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>20</td></tr><tr><td>Arabic No</td><td>20</td></tr><tr><td>Reference</td><td>Book 1 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Однажды) Посланник Аллаха ﷺ проходил мимо двух могил и сказал: “Поистине, они подвергаются мучениям, и их мучают не из-за больших грехов. Что касается этого, то он не очищал себя от своей мочи, а что касается этого (второго), то он распространял слухи /намима/”. Затем он попросил принести ему свежую, голую пальмовую ветвь, разломал её пополам и после чего воткнул одну часть на одну могилу и одну на другую и сказал: “Возможно, что это облегчит им наказание, пока эти ветки не высохнут”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6052) Sahih Muslim (292)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>20</td></tr><tr><td>Arabic No</td><td>20</td></tr><tr><td>Reference</td><td>Book 1 Hadith 20</td></tr></tbody></table></div>
 

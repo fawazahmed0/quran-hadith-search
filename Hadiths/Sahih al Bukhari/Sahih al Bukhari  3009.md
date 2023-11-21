@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:On the day (of the battle) of Khaibar the Prophet (ﷺ) said, "Tom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Ya'qub bin 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abdul Qoriy] dari [Abu Hazim] berkata telah mengabarkan kepadaku [Sahal radliallahu 'anhu, yakni putra dari Sa'ad] berkata; Nabi shallallahu 'alaihi wasallam bersabda ketika perang Khaibar: "Sungguh bendera perang ini akan aku berikan esok hari kepada seseorang yang peperangan ini akan dimenangkan melalui tangannya. Orang itu mencintai Allah dan Rosul-Nya dan Allah dan Rosul-Nya juga mencintainya". Maka orang-orang melalui malam mereka dengan bertanya-tanya siapa yang akan diberikan kepercayaan itu. Keesokan harinya setiap orang dari mereka berharap diberikan kepercayaan itu. Maka Beliau berkata: "Mana 'Ali?" Dijawab: "Dia sedang sakit kedua matanya". Maka (setelah 'Ali datang) Beliau meludahi kedua matanya lalu mendo'akannya hingga sembuh seakan-akan belum pernah terkena penyakit sedikitpun. Lalu Beliau memberikan bendera perang kepadanya kemudian bersabda: "Perangilah mereka hingga mereka menjadi seperti kita (Muslim) ". Beliau melanjutkan: "Melangkahlah ke depan hingga kamu memasuki tempat tinggal mereka lalu serulah mereka ke dalam Islam dan beritahu kepada mereka tentang apa yang diwajibkan atas mereka. Demi Allah, bila ada satu orang saja yang mendapat petunjuk melalui dirimu maka itu lebih baik bagimu dari pada unta-unta merah (yang paling bagus)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3009</td></tr><tr><td>Arabic No</td><td>3009</td></tr><tr><td>Reference</td><td>Book 56 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да, да будет доволен им Аллах, что в день Хайбара Пророк ﷺ сказал: «Завтра я непременно вручу это знамя тому человеку, через которого Аллах дарует (нам) победу, который любит Аллаха и Его Посланника, и которого любят Аллах и Его Посланник». (Сахль, да будет доволен им Аллах, сказал): «(Услышав это, сподвижники Пророка ﷺ) всю ночь обсуждали, кому же из них вручат это знамя, а наутро они направились (к Пророку ﷺ) и каждый из них хотел, чтобы (знамя) вручили ему, однако он спросил: “Где ‘Али?” Ему сказали, что у него болят глаза. (Когда ‘Али явился, Пророк ﷺ) поплевал ему на глаза, обратился за него (к Аллаху) с мольбой, и он сразу же выздоровел, будто с ним ничего и не было. Затем он дал ему знамя, а ‘Али спросил: “Следует ли нам сражаться с ними, пока они не станут такими же, как мы?” Тогда (Пророк ﷺ) сказал: “Иди не спеша, пока не встретишься с ними, а потом призови их к исламу и сообщи им о том, что является для них обязательным. И клянусь Аллахом, если Аллах через тебя выведет на прямой путь (хотя бы) одного человека, это будет для тебя лучше (обладания) красными верблюдами!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3009</td></tr><tr><td>Arabic No</td><td>3009</td></tr><tr><td>Reference</td><td>Book 56 Hadith 218</td></tr></tbody></table></div>
 

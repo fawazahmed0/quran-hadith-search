@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:(As above, No. 354, but added) Then Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «После того как Аллах создал (всё) сотворённое, (со своего места) поднялись (родственные связи и взялись за пояс Милостивого), Который спросил: “В чём дело?” Они сказали: “Это — место того, кто прибегает к Твоей защите от разрыва”. (Тогда Аллах) спросил: “Удовольствуетесь ли вы тем, что Я награжу того, кто станет вас поддерживать, и порву с тем, кто станет порывать вас?” Они ответили: “Да, о Господь мой!” — (и Аллах) сказал: “Да будет так!”» (Передав это,) Абу Хурайра сказал: «Прочтите, если желаете(, айат, в котором сказано): “И может ли случиться так, что если власть будет принадлежать вам, то станете вы распространять нечестие по земле и порывать родственные связи?”» В другой версии (этого хадиса, также передаваемой со слов Абу Хурайры), да будет доволен им Аллах, сообщается, что Посланник Аллаха ﷺ сказал: «Прочтите, если желаете, (аят, в котором сказано): “И может ли случиться так…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
 

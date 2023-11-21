@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that Ibn 'Umar saw a poor man. He placed food before him and he a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Khallad Al Bahili]; Telah menceritakan kepada kami [Muhammad bin Jabir'far]; Telah menceritakan kepada kami [Syu'bah] dari [Waqid bin Muhammad bin Zaid] bahwa dia mendengar [Nafi'] berkata; "Ibnu Umar melihat seorang miskin, kemudian dia menyuguhkan makanan kepadanya, lalu menyuguhkan lagi, orang itu makan dengan banyak, maka [Ibnu Umar] berkata; "Orang ini tidak boleh datang kepadaku karena Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang kafir makan dengan tujuh usus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5374</td></tr><tr><td>Arabic No</td><td>2060.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5374</td></tr><tr><td>Arabic No</td><td>2060.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 248</td></tr></tbody></table></div>
 

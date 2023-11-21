@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn AbuWaqqas: On the day of the conquest of Mecca, Abdullah ibn S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ahmad bin Al Mufadhdhal] berkata, telah menceritakan kepada kami [Asbath bin Nashr] ia berkata; [As Sudi] menyakini bahwa ia meriwayatkan dari [Mush'ab bin Sa'd] dari [Sa'd] ia berkata, "Saat terjadi pembukaan (penaklukan) kota Makkah, Abdullah bin Sa'd bin Abu Sarh bersembunyi di belakang Utsman bin Affan (minta perlindungan). Utsman lantas membawanya menghadap Nabi shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, baiatlah Abdullah." Beliau kemudian mengangkat kepalanya dan memandang ke arahnya sebanyak tiga kali, setiap kali itu pula beliau enggan menerimanya. Namun pada kali ketiganya beliau menerima dan membaiatnya. Setelah itu beliau berbalik menghadap para sahabat, beliau bersabda: "Bukankah telah ada di antara kalian seorang yang bijaksana (yang percaya dengan keputusan Rasulullah) yang berdiri menuju orang ini (untuk memohon jaminan perlindungan), yang jika sekiranya ia melihatku menahan tanganku untuk membaiatnya maka ia akan membunuhnya." maka mereka (para sahabat) berkata; "Kami tidak mengetahui apa yang ada dalam dirimu wahai Rasulullah jika engkau tidak memberikan isyarat kepada kami dengan mata, Rasulullah shallallahu 'alaihi wasallam bersabda; "Sesungguhnya tidak layak bagi seorang Nabi tidak jujur dengan isyarat matanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4359</td></tr><tr><td>Arabic No</td><td>4359</td></tr><tr><td>Reference</td><td>Book 40 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘да, что в день покорения Мекки ‘Абдуллах ибн Са‘д ибн Сарх спрятался у ‘Усмана ибн ‘Аффана, а потом тот привёл его, поставил перед Пророком ﷺ и сказал: «О Посланник Аллаха! Прими присягу ‘Абдуллаха!» (Посланник Аллаха ﷺ) поднял голову и трижды посмотрел на него, каждый раз отказываясь принимать его присягу, но после этого всё же принял её. Позже он обратился к своим сподвижникам со словами: «Неужели не нашлось среди вас разумного человека, который, увидев, что я не протягиваю руку, (чтобы принять его присягу), поднялся бы и убил его?» Люди сказали: «Но мы же не знаем, о Посланник Аллаха, что у тебя на душе. Почему же ты не подал нам знак глазами?» (Посланник Аллаха ﷺ) сказал: «Не пристало пророку совершать вероломство глазами!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4359</td></tr><tr><td>Arabic No</td><td>4359</td></tr><tr><td>Reference</td><td>Book 40 Hadith 9</td></tr></tbody></table></div>
 

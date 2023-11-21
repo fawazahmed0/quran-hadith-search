@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I heard the Prophet (ﷺ) , who was resting against me, saying, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Hsiyam] dari ['Abbad bin Abdullah bin Az Zubair] dia berkata; saya mendengar [Aisyah] radliallahu 'anha berkata; saya mendengar Nabi shallallahu 'alaihi wasallam ketika beliau sedang berada di pangkauanku, sabdanya: "Ya Allah, ampunalah aku, rahmatilah aku serta pertemukanlah daku dengan Ar Rafiq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5674</td></tr><tr><td>Arabic No</td><td>5674</td></tr><tr><td>Reference</td><td>Book 75 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я слышала, как прислонившись ко мне спиной, Пророк ﷺ сказал: “О Аллах, прости меня и помилуй меня, и присоедини меня к высшему обществу!”».\n/Аллахумма-гъфир ли ва-рхам-ни ва альхыкъ-ни би-р-рафики-ль-а‘ля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5674</td></tr><tr><td>Arabic No</td><td>5674</td></tr><tr><td>Reference</td><td>Book 75 Hadith 34</td></tr></tbody></table></div>
 

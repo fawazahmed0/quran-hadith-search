@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar (while on a journey) used to offer the prayer and the w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'a'laa bin Hammad] berkata, telah menceritakan kepada kami [Wuhaib] berkata, telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] berkata; " [Ibnu 'Umar radliallahu 'anhumaa] pernah mengerjakan shalat diatas hewan tunggangannya dan juga shalat witir dan dia mengabarkan bahwa Nabi shallallahu 'alaihi wasallam mengerjakannya pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 18 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «Ибн ‘Умар, да будет доволен Аллах им и его отцом, совершал молитву, сидя верхом на своей верблюдице, и совершал на ней молитву «витр». И он говорил, что Пророк ﷺ делал так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 18 Hadith 15</td></tr></tbody></table></div>
 

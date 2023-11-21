@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Somebody said to the Prophet (during his last Hajj), "I did 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, Telah menceritakan kepada kami [Wuhaib] berkata, telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas]; bahwa Nabi shallallahu 'alaihi wasallam ditanya seseorang tentang haji yang dilakukannya, orang itu bertanya: "Aku menyembelih hewan sebelum aku melempar jumrah". Beliau memberi isyarat dengan tangannya, yang maksudnya "tidak apa-apa"."Dan aku mencukur sebelum menyembelih". Beliau memberi isyarat dengan tangannya yang maksudnya "tidak apa-apa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Arabic No</td><td>84</td></tr><tr><td>Reference</td><td>Book 3 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Икрима передал со слов Ибн ‘Аббаса, да буде доволен ими обоими Аллах, о том, что во время хаджа, Пророку ﷺ задали вопрос. (Спрашивающий) сказал: «Я заколол (жертвенное животное) до того, как бросать (камешки)». И (Пророк ﷺ) сделав знак рукой сказал: «Ничего». (Затем другой человек) сказал: «Я сбрил волосы до того, как заколол (жертвенное животное)». И (Пророк ﷺ) сделав знак рукой (сказал): «Ничего»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Arabic No</td><td>84</td></tr><tr><td>Reference</td><td>Book 3 Hadith 26</td></tr></tbody></table></div>
 

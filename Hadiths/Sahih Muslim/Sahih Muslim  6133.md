@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdul A'laa] dari [Ma'mar] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Tidaklah seorang bayi dilahirkan kecuali syetan pasti menikamnya hingga ia menangis keras karena tikaman tersebut, kecuali Ibnu Maryam (Isa) dan ibunya." Kemudian Abu Hurairah berkata: Jika kalian mau bacalah ayat ini: "INNII U'IIDZUHAA BIKA WA DZURRIYYATAHAA MINAS SYAITHAANIR RAJIM (Sesungguhnya aku mohon perlindungan untuknya serta anak-anak keturunannya kepada (pemeliharaan) Engkau daripada syaitan yang terkutuk)." Dan telah menceritakannya kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku ['Abdullah bin 'Abdur Rahman Ad Darimi] Telah menceritakan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] seluruhnya dari [Az Zuhri] melalui jalur ini keduanya berkata; 'disentuhnya oleh syetan ketika di lahirkan, hingga dia menangis keras karena sentuhannya tersebut kepadanya.' Dan di dalam Hadits Syu'aib dengan lafazh; 'dari sentuhan syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6133</td></tr><tr><td>Arabic No</td><td>2366.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6133</td></tr><tr><td>Arabic No</td><td>2366.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 191</td></tr></tbody></table></div>
 

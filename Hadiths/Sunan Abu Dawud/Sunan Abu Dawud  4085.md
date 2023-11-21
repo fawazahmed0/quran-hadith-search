@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:The Messenger of Allah (ﷺ) as saying: If anyone trails his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufail] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Musa bin Uqbah] dari [Salim bin Abdullah] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menjulurkan kainnya karena sombong, maka Allah tidak akan melihatnya pada hari kiamat." Abu Bakar berkata, "Sesungguhnya salah satu ujung pakaianku ada yang menjulur, padahal aku telah berjanji untuk tidak melakukannya!" beliau bersabda: " kamu bukan termasuk orang yang melakukannya karena sombong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5784)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 34 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим ибн ‘Абдуллах передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «Кто волочит по земле подол своей одежды из высокомерия, на того не посмотрит Аллах в Судный день». Тогда Абу Бакр сказал: «Мой изар съезжает с одной стороны (, так как худой), если я вовремя не поправлю его». (Посланник Аллаха, Подними свой изар до середины голени, а если не желаешь так, тогда до щиколоток. И ни за что не опускай изар ещё ниже, ведь это признак высокомерия, а, поистине, Аллах не любит проявления высокомерия) сказал: «Ты не из тех, кто делает это из высокомерия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5784)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 34 Hadith 66</td></tr></tbody></table></div>
 

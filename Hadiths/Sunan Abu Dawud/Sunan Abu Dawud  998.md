@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. Samurah said:When we prayed behind the Messenger of Allah(ﷺ), one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Zakariya] dan [Waki'] dari [Mis'ar] dari ['Ubaidullah bin Al Qibthiyah] dari [Jabir bin Samurah] dia berkata; "Apabila kami shalat di belakang Rasulullah shallallahu 'alaihi wasallam, maka salah seorang dari kami memberi salam seraya memberi isyarat dengan tangannya kepada orang yang berada di kanan dan kirinya, ketika beliau selesai mengerjakan shalat, beliau bersabda: 'Kenapa salah seorang dari kalian masih saja memberi isyarat dengan tangannya seperti ekor kuda yang bergerak-gerak?, cukuplah salah seorang dari kalian -atau- tidak cukupkah salah seorang dari kalian melakukannya seperti ini saja." beliau memberi isyarat dengan jarinya dengan memberi salam kepada saudaranya yang ada di kanan dan kirinya." Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Abu Nu'aim] dari [Mis'ar] dengan isnad dan makna yang sama, sabdanya: "Cukuplah salah seorang dari kalian -atau dari mereka- meletakkan tangannya di atas pahanya kemudian dia memberi salam kepada saudaranya yang berada di kanan dan kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (431)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>998</td></tr><tr><td>Arabic No</td><td>998</td></tr><tr><td>Reference</td><td>Book 2 Hadith 609</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн Самуры, да будет доволен им Аллах: «Когда мы молились под руководством Посланника Аллаха ﷺ и каждый из нас произносил слова таслима, он указывал рукой направо, а потом налево. Совершив молитву, (Посланник Аллаха ﷺ) сказал: “Отчего каждый из вас двигает рукой туда-сюда подобно норовистой лошади, размахивающей хвостом? Разве не достаточно вам делать так?”. И он сделал жест указательным пальцем, (говоря): “И поприветствовать брата, находящегося справа от него, и брата, находящегося слева от него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (431)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>998</td></tr><tr><td>Arabic No</td><td>998</td></tr><tr><td>Reference</td><td>Book 2 Hadith 609</td></tr></tbody></table></div>
 

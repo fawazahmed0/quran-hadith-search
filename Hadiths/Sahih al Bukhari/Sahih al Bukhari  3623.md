@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once Fatima came walking and her gait resembled the gait of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3623</td></tr><tr><td>Arabic No</td><td>3623</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды к Пророку ﷺ пришла Фатыма, походка которой была похожа на походку Пророка ﷺ. Пророк ﷺ сказал ей: “Добро пожаловать моей дочери!”, — потом усадил её справа (или: … слева) от себя, а потом что-то сказал ей на ухо, и она заплакала. Я спросила её: “Почему ты плачешь?” Затем он снова что-то сказал ей на ухо, и она засмеялась, а я сказала: “Я никогда не видела, чтобы радость была так близко к печали, как сегодня”. А затем я спросила её о том, что он сказал её, а она ответила: “Я не выдам тайны Посланника Аллаха ﷺ!” Когда же Пророк ﷺ умер, я снова спросил её об этом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3623</td></tr><tr><td>Arabic No</td><td>3623</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

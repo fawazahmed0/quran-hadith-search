@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Sa'd as-Sa'idi reported:I was in the company of Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Harun bin Sa'id Al Aili] keduanya berkata: Telah menceritakan kepada kami [Ibnu Wahab] telah menceritakan kepadaku [Abu Shakhr] bahwa [Abu Hazim] telah menceritakan kepadanya, ia berkata: Aku mendengar [Sahl bin Sa'id As Sa'idi] berkata: Aku menghadiri majlis Rasulullah Shallallahu 'alaihi wa Salam, dimajlis itu beliau menggambarkan surga hingga usai, diakhir pembicaraan beliau bersabda: "Didalamnya ada sesuatu yang belum pernah dilihat mata, belum pernah didengar telinga dan tidak pernah terlintas dibenak manusia." Setelah itu beliau membaca: "Lambung mereka jauh dari tempat tidurnyadan mereka selalu berdoa kepada Rabbnya dengan penuh rasa takut dan harap, serta mereka menafkahkan apa apa rezki yang kami berikan. Tak seorangpun mengetahui berbagai nikmat yang menanti, yang indah dipandang sebagai balasan bagi mereka, atas apa yang mereka kerjakan." (As Sajdah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7135</td></tr><tr><td>Arabic No</td><td>2825</td></tr><tr><td>Reference</td><td>Book 53 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7135</td></tr><tr><td>Arabic No</td><td>2825</td></tr><tr><td>Reference</td><td>Book 53 Hadith 6</td></tr></tbody></table></div>
 

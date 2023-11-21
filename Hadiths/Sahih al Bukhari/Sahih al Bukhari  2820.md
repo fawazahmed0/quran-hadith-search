@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) was the best, the bravest and the most generous 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin 'Abdullah bin Waqid] telah bercerita kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam adalah orang yang paling baik, paling berani dan paling dermawan. Sungguh pernah terjadi gempa bumi menimpa penduduk Madinah dan Nabi shallallahu 'alaihi wasallam orang yang mendahului mereka (mencari sumber gempa) dengan menunggang kuda kemudian berkata: "Kami temui (gempa itu) hanyalah lautan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2820</td></tr><tr><td>Arabic No</td><td>2820</td></tr><tr><td>Reference</td><td>Book 56 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ был лучшим, самым смелым и самым щедрым из людей. Однажды, когда люди в Медине (стали ощущать) какой-то страх, Пророк ﷺ опередил всех, поскакав на коне, а затем сказал: “Мы обнаружили, что этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2820</td></tr><tr><td>Arabic No</td><td>2820</td></tr><tr><td>Reference</td><td>Book 56 Hadith 36</td></tr></tbody></table></div>
 

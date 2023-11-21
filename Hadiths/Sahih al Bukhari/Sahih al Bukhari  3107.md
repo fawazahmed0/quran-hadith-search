@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Isa bin Tahman:Anas brought out to us two worn out leather shoes witho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [Muhammad bin 'Abdullah Al Asadiy] telah bercerita kepada kami ['Isa bin Thahman] berkata; 'Anas pernah memperlihatkan kepada kami sepasang sandal yang terbuat bukan dari kulit yang memiliki tali di ujung depannya (untuk mengikat jari) ". Kemudian setelah itu [Tsabit Al Bunaniy] bercerita kepadaku dari [Anas] bahwa sandal itu adalah sandal Nabi Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 57 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анас, да будет доволен им Аллах, достал сандалии из дублёной кожи с кожаными ремнями и сказал, что эти сандалии принадлежали Пророку ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 57 Hadith 16</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:We were with the Prophet (ﷺ) and fresh dates of a palm tree
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] berkata, telah berkata kepadaku [Ibnu Abu Najih] dari [Mujahid] berkata; aku pernah menemani [Ibnu Umar] pergi ke Madinah, namun aku tidak mendengar dia membicarakan tentang Rasulullah shallallahu 'alaihi wasallam kecuali satu kejadian dimana dia berkata: Kami pernah bersama Nabi shallallahu 'alaihi wasallam lalu Beliau dipertemukan dengan jama'ah. Kemudian Beliau bersabda: "Sesungguhnya diantara pohon ada suatu pohon yang merupakan perumpamaan bagi seorang muslim". Aku ingin mengatakan bahwa itu adalah pohon kurma namun karena aku yang termuda maka aku diam. Maka kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Itu adalah pohon kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 3 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид сказал:\n— Я сопровождал Ибн ‘Умара в Медину и услышал как он рассказывал всего лишь один хадис от Посланника Аллаха ﷺ. (Ибн ‘Умар, да будет доволен Аллах ими обоими), сказал: «Однажды, когда мы находились у Пророка ﷺ принесли джуммар, и Пророк ﷺ сказал: “Поистине, есть среди деревьев такое, которое подобно мусульманину”. Я хотел сказать, что это пальма, (но вспомнил, что) я самый младший из присутствующих, и промолчал, Пророк же ﷺ сказал: “Это — пальма”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 3 Hadith 14</td></tr></tbody></table></div>
 

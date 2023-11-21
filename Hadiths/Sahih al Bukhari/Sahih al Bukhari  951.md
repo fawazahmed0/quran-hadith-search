@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':I heard the Prophet (p.b.u.h) delivering a Khutba saying, "The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku [Zubaid] berkata, Aku mendengar ['Asy Sya'bi] dari [Al Bara'] berkata, Aku mendengar Nabi shallallahu 'alaihi wasallam menyampaikan khutbah, sabdanya: "Pertama kali yang akan kita kerjakan pada hari ini adalah shalat, kemudian kembali pulang dan menyembelih hewan kurban. Maka barangsiapa mengerjakan seperti ini bararti dia telah memenuhi sunnah kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>951</td></tr><tr><td>Reference</td><td>Book 13 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Я слышал, как однажды Пророк ﷺ произносивший проповедь, сказал: “Поистине, прежде всего в этот наш день нам следует совершить молитву, а потом — вернуться и заколоть (жертвенных животных). Поступивший так поступит в соответствии с нашей сунной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>951</td></tr><tr><td>Reference</td><td>Book 13 Hadith 3</td></tr></tbody></table></div>
 

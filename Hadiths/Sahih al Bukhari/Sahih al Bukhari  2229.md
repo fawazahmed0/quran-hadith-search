@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:that while he was sitting with Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Ibnu Muhairiz] bahwa [Abu Sa'id Al Khudriy radliallahu 'anhu] mengabarkannya bahwa ketika dia bermajelis bersama Nabi shallallahu 'alaihi wasallam dia berkata: "Wahai Rasulullah, kami mendapatkan tawanan, hanya kami juga masih menyukai harganya, bagaimana pendapat anda bila kami melakukan 'azal?. Maka Beliau shallallahu 'alaihi wasallam bersabda: "Apakah kalian melakukannya?. Tidak dosa kalian untuk melakukannya, namun tidak ada satu nyawapun yang telah Allah tetapkan akan keluar (jadi) kecuali dia pasti akan muncul juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>2229</td></tr><tr><td>Reference</td><td>Book 34 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, однажды сидел у Пророка ﷺ и сказал: «О, Посланник Аллаха! Поистине, мы захватили пленных и любим богатство. Как ты считаешь, можно ли извергать семя вне лона?» И Посланник Аллаха ﷺ сказал: «Разве вы делаете это? Вам ничем не повредит, если вы не станете делать этого, ибо, поистине, всякая душа, которой суждено появиться, непременно появится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>2229</td></tr><tr><td>Reference</td><td>Book 34 Hadith 176</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "When a human being is laid in his grave a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy] telah menceritakan kepada kami ['Abdul A'laa] telah menceritakan kepada kami [Sa'id] berkata; dan telah berkata, kepadaku [Khalifah] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Jika suatu jenazah sudah diletakkan didalam kuburnya dan teman-temannya sudah berpaling dan pergi meninggalkannya, dia mendengar gerak langkah sandal sandal mereka, maka akan datang kepadanya dua malaikat yang keduanya akan mendudukkannya seraya keduanya berkata, kepadanya: "Apa yang kamu komentari tentang laki-laki ini, Muhammad Shallallahu'alaihiwasallam?". Maka jenazah itu menjawab: "Aku bersaksi bahwa dia adalah hamba Allah dan utusanNya". Maka dikatakan kepadanya: "Lihatlah tempat dudukmu di neraka yang Allah telah menggantinya dengan tempat duduk di surga". Nabi Shallallahu'alaihiwasallam selanjutnya berkata,: "Maka dia dapat melihat keduanya". Adapun (jenazah) orang kafir atau munafiq akan menjawab: "Aku tidak tahu, aku hanya berkata, mengikuti apa yang dikatakan kebanyakan orang". Maka dikatakan kepadanya: "Kamu tidak mengetahuinya dan tidak mengikuti orang yang mengerti". Maka kemudian dia dipukul dengan palu godam besar terbuat dari besi diantara kedua telinganya sehingga mengeluarkan suara teriakan yang dapat didengar oleh yang ada di sekitarnya kecuali oleh dua makhluq (jin dan manusia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1338</td></tr><tr><td>Arabic No</td><td>1338</td></tr><tr><td>Reference</td><td>Book 23 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «После того как раба Аллаха положат в его могилу, а его товарищи повернутся и уйдут, и он даже услышит стук их сандалий, к нему явятся два ангела, усадят его и спросят его: “Что говорил ты об этом человеке, Мухаммаде ﷺ ?” Он ответит: “Я свидетельствую, что он — раб Аллаха и Его посланник”, после чего ему скажут: “Посмотри на место своё в огне: Аллах заменил его для тебя на место в раю”».\n(Затем) Пророк ﷺ сказал: «И он увидит оба этих места. Что же касается неверного (или: лицемера), то он ответит (ангелам): “Не знаю, я лишь повторял то, что говорили люди”. Тогда ему скажут: “Ты не знал и не читал!” — а потом ему нанесут удар железным молотком между ушей, и он издаст такой крик, который услышат все те, кто окажется поблизости от него, кроме людей и джиннов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1338</td></tr><tr><td>Arabic No</td><td>1338</td></tr><tr><td>Reference</td><td>Book 23 Hadith 93</td></tr></tbody></table></div>
 

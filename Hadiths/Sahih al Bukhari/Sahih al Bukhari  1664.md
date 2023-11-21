@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Jubair bin Mut'im:My father said, "(Before Islam) I was lo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru] telah menceritakan kepada kami [Muhammad bin Jubair bin Muth'im] dari [bapaknya]: "Aku mencari seekor unta milikku". Dan diriwayatkan pula, telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] dari ['Amru] dia mendangar [Muhammad bin Jubair] dari bapaknya, [Jabir bin Muth'im] berkata: "Aku kehilangan seekor unta milikku, maka aku keluar mencarinya pada hari 'Arafah. Disana aku melihat Nabi Shallallahu'alaihiwasallam sedang wuquf di 'Arafah. Aku berkata: "Demi Allah, dia dari Al Humus (Quraisy), apa yang dilakukannya disini?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1664</td></tr><tr><td>Arabic No</td><td>1664</td></tr><tr><td>Reference</td><td>Book 25 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр бин Мут‘им, да будет доволен им Аллах, сказал: «В день стояния на ‘Арафате у меня потерялся верблюд и я отправился на его поиски, а когда увидел стоявшего на ‘Арафате Пророка ﷺ то сказал (себе): “Клянусь Аллахом, он ведь из числа ахмаситов, так что же он здесь делает?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1664</td></tr><tr><td>Arabic No</td><td>1664</td></tr><tr><td>Reference</td><td>Book 25 Hadith 145</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) came to Medina and the people used to pay 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Ibnu Abi Najih] dari ['Abdullah bin Katsir] dari [Abu Al Minhal] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah orang-orang mempraktekkan jual beli buah-buahan dengan sistim salaf, yaitu membayar dimuka dan diterima barangnya setelah kurun waktu dua atau tiga tahun. Maka Beliau bersabda: "Lakukanlah jual beli salaf pada buah-buahan dengan takaran sampai waktu yang diketahui (pasti) ". Dan berkata ['Abdullah bin Al Walid] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ibnu Abi Najih] dan berkata: "dengan takaran dan timbangan yang diketahui (pasti)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2253</td></tr><tr><td>Arabic No</td><td>2253</td></tr><tr><td>Reference</td><td>Book 35 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ прибыл в Медину, а местные жители продавали финики за год, два и даже три будущих года, и он сказал: “Оплачивайте плоды заранее, если оговорена мера и срок (получения товара покупателем)”». Ибн Аби Наджих сказал: «если известна мера и вес»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2253</td></tr><tr><td>Arabic No</td><td>2253</td></tr><tr><td>Reference</td><td>Book 35 Hadith 14</td></tr></tbody></table></div>
 

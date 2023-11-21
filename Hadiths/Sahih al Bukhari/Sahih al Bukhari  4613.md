@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:This Verse: "Allah will not punish you for what is unintentional
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Salamah] Telah menceritakan kepada kami [Malik bin Su'air] Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] Ayat ini: Allah tidak menghukum kamu disebabkan sumpah-sumpahmu yang tidak dimaksud (untuk bersumpah), tetapi Dia menghukum kamu disebabkan sumpah-sumpah yang kamu sengaja.. (Al Maidah: 79), diturunkan berkenaan dengan perkataan seseorang: Tidak demi Allah, iya demi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4613</td></tr><tr><td>Arabic No</td><td>4613</td></tr><tr><td>Reference</td><td>Book 65 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Аят в котором сказано): “Аллах не станет взыскивать с вас за непреднамеренные клятвы…”, — был ниспослан в отношение слов тех, (кто часто говорит): “Нет, клянусь Аллахом!”, и: “Да, клянусь Аллахом!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4613</td></tr><tr><td>Arabic No</td><td>4613</td></tr><tr><td>Reference</td><td>Book 65 Hadith 135</td></tr></tbody></table></div>
 

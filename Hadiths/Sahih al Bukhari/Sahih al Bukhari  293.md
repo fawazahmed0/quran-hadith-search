@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubai bin Ka'b:I asked Allah's Messenger (ﷺ) about a man who engages i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Hisyam bin 'Urwah] berkata, telah mengabarkan kepadaku [Bapakku] ia berkata, telah mengabarkan kepadaku [Abu Ayyub] berkata, telah mengabarkan kepadaku [Ubay bin Ka'b] bahwa ia berkata, "Wahai Rasulullah, bagaimana jika seseorang berhubungan dengan isterinya namun tidak keluar (mani)?" beliau menjawab: "Hendaklah ia cuci apa yang mengenai isterinya (kemaluan), lalu wudlu dan shalat." Abu 'Abdullah Al Bukhari berkata, "Mandi adalah sikap yang lebih berhati-hati." Inilah akhir dari penjelasan bab ini, dan kami telah menerangkan perbedaan pendapat mereka (para imam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>293</td></tr><tr><td>Arabic No</td><td>293</td></tr><tr><td>Reference</td><td>Book 5 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам ибн ‘Урва сказал: \n— Рассказал мне мой отец (‘Урва ибн аз-Зубайр), который сказал: Рассказал мне Абу Аййюб (ибн Зейд), который сказал: Рассказал мне Убайй ибн Ка‘б о том, что (однажды) он сказал: «О Посланник Аллаха, (как поступить), если мужчина совокупится со своей женой и у него не произойдет семяизвержение?» (Посланник Аллаха ﷺ) сказал: «Он смоет с себя то, что попало на него от жены, затем совершит омовение /вуду/ и помолится». \nАбу ‘Абдуллах (имам аль-Бухари) сказал: «Купаться безопаснее и это последнее (веление), а мы указываем на их разногласия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>293</td></tr><tr><td>Arabic No</td><td>293</td></tr><tr><td>Reference</td><td>Book 5 Hadith 45</td></tr></tbody></table></div>
 

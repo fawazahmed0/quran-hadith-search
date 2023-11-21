@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Uqbah bin 'Amir: The Messenger of Allah (ﷺ) as saying: The atonement
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin 'Abbad Al Azdi] telah menceritakan kepada kami [Abu Bakr bin 'Ayyasy] dari [Muhammad] mantan budak Al Mughirah, ia berkata; telah menceritakan kepadaku [Ka'bin bin 'Alqamah] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kafarah nadzar adalah kafarah sumpah." Abu Daud berkata; dan hadits tersebut telah diriwayatkan ['Amr bin Al Harits] dari [Ka'b bin 'Alqamah] dari [Ibnu Syimasah] dari ['Uqbah], telah menceritakan kepada kami [Muhammad bin 'Auf] bahwa [Sa'id bin Al Hakam] telah menceritakan kepada mereka; telah mengabarkan kepada kami [Yahya yaitu Ibnu Ayyub] telah menceritakan kepadaku [Ka'b bin 'Alqamah] bahwa ia mendengar [Ibnu Syimasah] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3323</td></tr><tr><td>Arabic No</td><td>3323</td></tr><tr><td>Reference</td><td>Book 22 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии от ‘Икримы сказано, что Посланник Аллаха ﷺ сказал: «Клянусь Аллахом, я пойду войной на курайшитов!» После чего он добавил: «Если пожелает Аллах». А потом он сказал: «Клянусь Аллахом, я пойду войной на курайшитов, если пожелает Аллах!» А потом он сказал: «Клянусь Аллахом, я пойду войной на курайшитов!» Он замолчал, после чего добавил: «Если пожелает Аллах». Аль-Валид ибн Муслим передал от Шарика: «А потом он не пошёл на них войной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3323</td></tr><tr><td>Arabic No</td><td>3323</td></tr><tr><td>Reference</td><td>Book 22 Hadith 82</td></tr></tbody></table></div>
 

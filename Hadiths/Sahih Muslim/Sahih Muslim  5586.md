@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that person at Baqi' called another person as" Abu'l- Qasim," and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kuraib Muhammad bin Al A'llaa'] dan [Ibnu Abu 'Umar] [Abu Kuraib] berkata; Telah mengabarkan kepada kami, dan berkata [Ibnu Abu 'Umar]; Telah menceritakan kepada kami dan lafazh ini miliknya ia berkata; Telah menceritakan kepada kami [Marwan] yaitu Al Fazari dari [Humaid] dari [Anas] dia berkata; "Ada seseorang memanggil-manggil (orang lain) di Baqi', katanya; 'Ya Abal Qasim! ' Lalu Rasulullah shallallahu 'alaihi wasallam menoleh kepadanya. Kata orang itu; 'Ya Rasulullah! Bukan Anda yang ku maksud. Sesungguhnya aku memanggil si Fulan.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda: 'Silahkan kalian memberi nama dengan namaku, tetapi jangan kalian memberi gelar dengan gelaranku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5586</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 38 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5586</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 38 Hadith 1</td></tr></tbody></table></div>
 

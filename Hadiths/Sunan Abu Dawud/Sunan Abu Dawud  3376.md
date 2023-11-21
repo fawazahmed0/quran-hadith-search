@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Prophet (ﷺ) forbade the type of sale which involves 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr] dan [Utsman] dua anak Abu Syaibah?, mereka berkata; telah menceritakan kepada kami [Ibnu Idris] dari ['Ubaidullah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam melarang menjual secara ghaghar (transaksi jual beli yang mengandung unsur ketidakjelasan, penipuan, pertaruhan, dan hal-hal yang merugikan), sedang Utsman menambahkan dan hashah (transaksi jual beli yang dilakukan oleh dua orang tetapi barangnya belum jelas, kemudian untuk menentukannya salah satu dari mereka melempar hashat (kerikil), maka barang yang terkena kerikil itulah yang dijual
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1513)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>3376</td></tr><tr><td>Reference</td><td>Book 23 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ запретил продажу-гарар. А передатчик ‘Усман добавил: «…и продажу с камешками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1513)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>3376</td></tr><tr><td>Reference</td><td>Book 23 Hadith 51</td></tr></tbody></table></div>
 

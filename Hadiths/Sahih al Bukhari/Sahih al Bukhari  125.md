@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:While I was going with the Prophet (ﷺ) through the ruins of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qais bin Hafsh] berkata, telah menceritakan kepada kami ['Abdul Wahid] berkata, telah menceritakan kepada kami [Al A'masy Sulaiman bin Mihran] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] berkata, "Ketika aku berjalan bersama Nabi shallallahu 'alaihi wasallam di sekitar pinggiran Kota Madinah, saat itu beliau membawa tongkat dari batang pohon kurma. Beliau lalu melewati sekumpulan orang Yahudi, maka sesama mereka saling berkata, "Tanyakanlah kepadanya tentang ruh!" Sebagian yang lain berkata, "Janganlah kalian bicara dengannya hingga ia akan mengatakan sesuatu yang kalian tidak menyukainya." Lalu sebagian yang lain berkata, "Sungguh, kami benar-benar akan bertanya kepadanya." Maka berdirilah seorang laki-laki dari mereka seraya bertanya, "Wahai Abul Qasim, ruh itu apa?" Beliau diam. Maka aku pun bergumam, "Sesungguhnya beliau sedang menerima wahyu." Ketika orang itu berpaling, beliau pun membaca: '(Dan mereka bertanya kepadamu tentang ruh. Katakanlah: "Ruh itu termasuk urusan Rabbku, dan tidaklah kamu diberi pengetahuan melainkan sedikit) ' (Qs. Al Israa': 85). Al A'masy berkata, "Seperti inilah dalam qira'ah kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>125</td></tr><tr><td>Arabic No</td><td>125</td></tr><tr><td>Reference</td><td>Book 3 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Однажды,) когда мы вместе с Пророком ﷺ опиравшимся на голую пальмовую ветвь, шли через развалины Медины, нам повстречалась группа иудеев. Некоторые из них стали говорить другим: “Спросите его о духе”, а некоторые (другие) говорили: “Не спрашивайте его, ибо что бы он ни сказал, вам это не понравится!» Иные же сказали: “Мы обязательно спросим его!” − после чего один из них встал и спросил: “О Абуль-Къасим, что такое дух?” (Пророк ﷺ) промолчал, а я сказал себе: “Ему ниспосылается откровение”, и встал (между ним и иудеями, чтобы они не мешали ему), когда же (ниспослание откровения) ему закончилось, он сказал: “Они станут спрашивать тебя о душе. Скажи: “Душа возникла по повелению моего Господа. Вам дано знать об этом очень мало”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>125</td></tr><tr><td>Arabic No</td><td>125</td></tr><tr><td>Reference</td><td>Book 3 Hadith 67</td></tr></tbody></table></div>
 

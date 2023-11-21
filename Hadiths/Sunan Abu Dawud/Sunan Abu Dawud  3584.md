@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Salamah said:Two men came to the Messenger of Allah (ﷺ) who were disputing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Hisyam bin 'Urwah] dari ['Urwah] dari [Zainab binti Ummu Salamah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku hanyalah seorang manusia, dan kalian mengadukan permasalahannya kepadaku. Bisa jadi sebagian kalian lebih pandai dalam berdalih dari sebagian yang lain, sehingga aku memberikan keputusan untuknya sesuai dengan apa yang aku dengar darinya. Maka barangsiapa yang aku berikan suatu keputusan baginya dengan mengambil hak dari saudaranya maka janganlah ia mengambil sedikitpun darinya, karena sesungguhnya aku potongkan (api) baginya dari potongan (api) Neraka." Telah menceritakan kepada kami [Ar Rabi' bin Nafi' Abu Taubah] telah menceritakan kepada kami [Ibnu Al Mubarak] dari [Usamah bin Zaid] dari [Abdullah bin Rafi'] mantan budak Ummu Salamah, dari [Ummu Salamah] ia berkata, "Dua orang laki-laki berselisih mengenai warisan mereka berdua, sementara mereka tidak memiliki bukti kecuali pengakuan mereka saja. Lalu Nabi shallallahu 'alaihi wasallam bersabda…lalu ia menyebutkan sebagaimana hadits tersebut. Kedua laki-laki tersebut kemudian menangis, lalu setiap dari mereka berkata, 'Hakku untukmu. ' Kemudian Nabi shallallahu 'alaihi wasallam berkata kepada mereka berdua: "Adapun apabila kalian berdua melakukan apa yang telah kalian lakukan, maka bagi dan berusahalah untuk bersikap benar (adil)." Kemudian mereka mengundi mana bagian mereka, dan mereka saling menghalalkan untuk yang lainnya." Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah mengabarkan kepada kami [Isa] telah menceritakan kepada kami [Usamah] dari [Abdullah bin Rafi'] ia berkata, "Aku mendengar [Ummu Salamah] dari Nabi shallallahu 'alaihi wasallam sebagaimana dalam hadits tersebut. Ia berkata, "Mereka berdua berseteru mengenai harta warisan dan beberapa perkara yang telah usang. Kemudian beliau bersabda: "Aku memberi putusan untuk kalian berdasarkan pendapatku semata, sesuatu yang aku belum mendapatkan wahyu tentangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3584</td></tr><tr><td>Arabic No</td><td>3584</td></tr><tr><td>Reference</td><td>Book 25 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Салямы, да будет доволен ею Аллах: «Однажды к Посланнику Аллаха ﷺ пришли два человека, которые вели тяжбу по поводу наследства, однако ни у кого из них не было доказательств, подтверждающих его слова. Пророк ﷺ сказал нечто подобное упомянутому в предыдущем хадисе. Тогда оба они заплакали и каждый из них сказал: “Я уступаю тебе своё право!” Пророк ﷺ сказал им: “Если уж вы сделали то, что сделали, тогда определите размер полагающегося вам и тяните жребий, а потом выразите друг другу согласие с результатом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3584</td></tr><tr><td>Arabic No</td><td>3584</td></tr><tr><td>Reference</td><td>Book 25 Hadith 14</td></tr></tbody></table></div>
 

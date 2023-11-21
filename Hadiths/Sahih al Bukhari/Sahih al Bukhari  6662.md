@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:I heard 'Urwa bin Az-Zubair, Sa'id bin Al-Musaiyab, 'Alqama bi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Uwaisi] telah menceritakan kepada kami [Ibrahim] dari [Shalih] dari [Ibnu Syihab] -lewat jalur periwayatan lain- telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Abdullah bin Umar an Numairi] telah menceritakan kepada kami [Yunus] menuturkan; pernah kudengar ['Urwah bin Zubair], [Sa'id bin Musayyab], [Alqomah bin Waqqash] dan [Ubaidullah bin Abdillah] tentang hadits ' [Aisyah], isteri Nabi shallallahu 'alaihi wasallam ketika orang-orang yang menyebarkan berita bohong menuduhnya berzina, maka Allah menyatakan berita kesuciannya -dan masing-masing menceritakan kepadaku sekumpulan hadits- yang isinya; maka Nabi shallallahu 'alaihi wasallam berdiri dan meminta Abdullah bin Ubai menyatakan permohonan maaf. Lantas Usaid bin Khudair berdiri dan mengatakan kepada Sa'd bin Ubadah: 'Demi Allah, kami akan membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6662</td></tr><tr><td>Arabic No</td><td>6662</td></tr><tr><td>Reference</td><td>Book 83 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «Я слышал как ‘Урва ибн аз-Зубайр, Са‘ид ибн аль-Мусайяб, ‘Алькама ибн Ваккас и ‘Убайдуллах ибн ‘Абдуллах передали хадис о жене Пророка ‘Аише, да будет доволен ею Аллах, (в котором упоминается, как) люди, распространявшие клевету, говорили о ней то, что говорили, и как Аллах оправдал (её, указав на несостоятельность того, что они говорили). Каждый передал мне часть хадиса, в котором говорится: «(После этого) Пророк ﷺ поднялся (на минбар) и попросил, чтобы кто-нибудь помог (ему) наказать ‘Абдуллаха ибн Убайя. Тогда поднялся Усайд ибн Худайр и сказал Са‘ду ибн ‘Убаде: “Клянусь Аллахом, мы непременно убьём его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6662</td></tr><tr><td>Arabic No</td><td>6662</td></tr><tr><td>Reference</td><td>Book 83 Hadith 40</td></tr></tbody></table></div>
 

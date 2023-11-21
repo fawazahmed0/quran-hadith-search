@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl Ibn Sa'd (que Dieu l'agrée) a dit : "J'ai vu des hommes qui avaient noué 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Hazim] dari [Sahl bin Sa'd] dia berkata, "Sungguh aku melihat para lelaki mengikat sarung mereka pada leher mereka seperti anak-anak kecil karena sempitnya sarung di belakang Nabi Shallallahu'alaihiwasallam, maka seseorang berkata, 'Wahai kaum wanita, janganlah kalian mengangkat kepala kalian hingga kaum lelaki mengangkat kepala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>987</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Я видел мужчин, которые находились позади Пророка ﷺ во время молитвы, словно мальчишки, подвязывавших свои изары на своих шеях из-за того, что их изары были тесными, и (поэтому) некто сказал: “О женщины! Не поднимайте свои головы, пока мужчины не поднимут свои!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>987</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 149</td></tr></tbody></table></div>
 

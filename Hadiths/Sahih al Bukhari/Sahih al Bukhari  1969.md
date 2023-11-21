@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to fast till one would say that he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu An-Nadhar] dari [Abu Salamah] dari ['Aisyah radliallahu 'anha] berkata: "Rasulullah shallallahu 'alaihi wasallam sedemikian sering melaksanakan shaum hingga kami mengatakan seolah-olah beliau tidak pernah berbuka (tidak shaum), namun beliau juga sering tidak shaum sehingga kami mengatakan seolah-olah Beliau tidak pernah shaum. Dan aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam menyempurnakan puasa selama sebulan penuh kecuali puasa Ramadhan dan aku tidak pernah melihat Beliau paling banyak melaksanakan puasa (sunnat) kecuali di bulan Sya'ban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 30 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Иногда Посланник Аллаха ﷺ постился так долго, что мы говорили, что он вообще не прерывает поста, а иногда он не постился так долго, что мы говорили, что он вообще не постится. И я не видела, чтобы Посланник Аллаха ﷺ постился в течение целого месяца, если не считать рамадана, как не видела я, чтобы (в каком-нибудь месяце) постился он больше, чем в ша‘бане».1970 — Сообщается также, что ‘Аиша, да будет доволен ею Аллах, сказала: «Ни в одном месяце Пророк ﷺ не постился больше, чем в ша‘бане, и бывало так, что он постился в течение всего ша‘бана, и он часто говорил: “Беритесь за такие дела, которые вам по силам, ибо, поистине, Аллах не устанет, пока сами вы не устанете”. Что же касается любимого намаза Пророка ﷺ то им был такой намаз, что совершался постоянно, даже если и был коротким, и если он (один раз) совершал какой-нибудь намаз, то потом обычно совершал его постоянно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 30 Hadith 76</td></tr></tbody></table></div>
 

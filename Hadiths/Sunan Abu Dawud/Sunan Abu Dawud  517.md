@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The imam is responsible and the mu'adhdhin is trusted, O A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Muhammad bin Fudlail] telah menceritakan kepada kami [Al-A'masy] dari [seorang lelaki] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Imam itu menjamin (bertanggung jawab terhadap shalat makmumnya), sedangkan muadzin orang yang dipercaya. Ya Allah, berilah petunjuk kepada para imam dan ampunilah para muadzin." Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami [Ibnu Numair] dari [Al-A'masy] dia berkata; Telah [diberitakan] kepadaku dari [Abu Shalih] dia berkata; Dan saya tidak beranggapan kecuali saya mendengarnya darinya dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda dengan lafazh semisal di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>517</td></tr><tr><td>Arabic No</td><td>517</td></tr><tr><td>Reference</td><td>Book 2 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Имам поручитель, а муаззин тот, кому оказано доверие. О Аллах, веди имамов по прямому пути и прости (грехи) муаззинам!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>517</td></tr><tr><td>Arabic No</td><td>517</td></tr><tr><td>Reference</td><td>Book 2 Hadith 127</td></tr></tbody></table></div>
 

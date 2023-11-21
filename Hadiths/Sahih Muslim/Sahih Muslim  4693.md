@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Zaid b. Arqam that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] dari [Zaid bin Arqam] ia mendengarnya darinya, bahwa Rasulullah shallallahu 'alaihi wasallam pernah berperang sebanyak sembilan belas kali peperangan. Dan setelah hijrah, beliau hanya melakukan haji hanya sekali, beliau belum pernah melakukan haji selain haji Wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>1254.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>1254.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 175</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:When the Ka'ba was rebuilt, the Prophet (ﷺ) and '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mahmud] telah menceritakan kepada kami [Abdurrazzaq] berkata, telah mengabarkan kepadaku [Ibnu Juraij] berkata, telah mengabarkan kepadaku ['Amru bin Dinar] dia mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; Ketika Ka'bah dibangun (diperbaiki) Nabi shallallahu 'alaihi wasallam dan 'Abbas mengangkut bebatuan. Saat itu Al 'Abbas berkata kepada Nabi shallallahu 'alaihi wasallam: "Ikatlah kain sarungmu pada lehermu karena dapat melindungimu dari bebatuan". Tiba-tiba beliau tersungkur ke tanah (jatuh pingsan) dengan kedua matanya terbelalak menengadah ke langit. Kemudian beliau sadar dan berkata: " sarungku, sarungku". Kemudian beliau mengikatkan kain sarungnya kembali (dengan kuat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3829</td></tr><tr><td>Arabic No</td><td>3829</td></tr><tr><td>Reference</td><td>Book 63 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Когда строилась Кааба, Пророк ﷺ и ‘Аббас носили камни. ‘Аббас сказал Пророку ﷺ: “Положи изар себе на плечо, чтобы было легче носить камни!” (Когда Пророк ﷺ снял его,) он упал на землю (без сознания), а его взор был устремлён в небо. Очнувшись он сказал: “Дай мне мой изар!” И завязал его на себе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3829</td></tr><tr><td>Arabic No</td><td>3829</td></tr><tr><td>Reference</td><td>Book 63 Hadith 54</td></tr></tbody></table></div>
 

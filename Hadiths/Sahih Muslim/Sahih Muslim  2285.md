@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Abu Sarh heard Abu Sa'id al-Khudri as saying:We, on behalf of young or o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Isma'il bin Umayyah] ia berkata, telah mengabarkan kepadaku [Iyadl bin Abdullah bin Sa'd bin Abu Sarh] bahwa ia mendengar [Sa'id Al Khudri] berkata; Kami mengeluarkan zakat Fithrah pada masa Rasulullah shallallahu 'alaihi wasallam yakni dari setiap anak kecil dan besar, merdeka atau hamba sahaya, berupa tiga bahan makanan pokok yaitu, satu sha' kurma, atau satu sha' keju atau satu sha' gandum. Kami senantiasa membayarnya seperti itu hingga pada masa pemerintahan Mu'awiyah. Menurutnya, bahwa dua Mud gandum Syam adalah setara dengan satu sha' kurma. Abu Sa'id Al Khudri berkata, "Adapun saya, maka saya tetap saja membayarnya seperti biasanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2285</td></tr><tr><td>Arabic No</td><td>985.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Са‘ид аль-Худри сказал: «При жизни Посланника Аллаха ﷺ мы раздавали закят аль-фитр за каждого: за ребёнка и взрослого, свободного и раба, три вида (продуктов): са‘ фиников, са‘ сушёного творога и са‘ ячменя. Так мы поступали до тех пор, пока не приехал Му‘авия (и не сказал, что) считает, что два мудда пшеницы соответствуют одному са‘ фиников». Абу Са‘ид сказал: «Что же касается меня, то я продолжаю раздавать его так же, (как раздавал раньше)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2285</td></tr><tr><td>Arabic No</td><td>985.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 23</td></tr></tbody></table></div>
 

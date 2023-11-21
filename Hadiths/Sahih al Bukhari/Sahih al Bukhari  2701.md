@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) set out for the 'Umra but the pagans 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Rofi'] telah bercerita kepada kami [Suraij bin an-Nu'man] telah bercerita kepada kami [Fulaih] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam keluar untuk melaksanakan 'umrah namun dihadang oleh orang-orang Kafir Quraisy menuju Baitulloh. Akhirnya Beliau menyembelih hewan kurbannya, mencukur rambut di Hudaibiyah lalu membuat perjanjian dengan mereka dengan ketentuan bahwa Beliau baru boleh melaksanakan 'umrah tahun depan dan tidak boleh membawa senjata kecuali pedang dan tidak boleh tinggal di Makkah kecuali terserah apa yang mereka suka. Maka Beliau melaksanakan 'umrah pada tahun depannya lalu Beliau memasuki kota Makkah sebagaimana isi perjanjian dengan mereka. Ketika Beliau sudah tinggal disana selama tiga hari maka mereka memerintahkan agar Beliau keluar. Maka Beliau pun keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 53 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что когда Посланник Аллаха ﷺ отправился в умру, неверные курайшиты встали между ним и Каабой. Тогда Пророк ﷺ зарезал жертвенный скот и обрил голову в Худайбиййи. Так же он договорился с ними, что совершит умру на следующий год, и что при нём не будет оружия, кроме меча, и что они будут находится в Мекке только то время, которое они захотят. На следующий год он совершил умру и вошёл туда так, как они договорились, и после того, как он пробыл там три дня, многобожники приказали ему уйти, и он ушёл»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 53 Hadith 11</td></tr></tbody></table></div>
 

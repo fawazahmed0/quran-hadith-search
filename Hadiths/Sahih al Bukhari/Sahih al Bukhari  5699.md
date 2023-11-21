@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Buhaina:Allah's Messenger (ﷺ) was cupped on the middle 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Sulaiman] dari ['Alqamah] bahwa dia mendengar [Abdurrahman Al A'raj] bahwa dia mendengar [Abdullah bin Buhainah] menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam pernah berbekam di tengah-tengah kepalanya ketika di lahyil jamal yaitu ketika hendak menuju Makkah, sementara beliau sedang berihram." [Al Anshari] berkata; telah mengabarkan kepada kami [Hisyam bin Hasan] telah menceritakan kepada kami [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam pernah berbekam di kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 76 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланнику Аллаха ﷺ сделали по его просьбе кровопускание на голове
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 76 Hadith 20</td></tr></tbody></table></div>
 

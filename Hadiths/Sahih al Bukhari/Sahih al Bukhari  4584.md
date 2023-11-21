@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Verse: "Obey Allah and Obey the Apostle and those of you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Juraij] dari [Ya'la bin Muslim] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: Ta'atilah kalian kepada Allah dan Rasul-Nya serta kepada pemimpin kalian. Ibnu Abbas berkata; Ayat ini turun berkenaan dengan Abdullah bin Hudzafah bin Qais ketika Nabi shallallahu 'alaihi wasallam mengutusnya dalam sebuah sariyah (peperangan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 65 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн Джубайра, да помилует его Аллах, что (относительно аята): «Повинуйтесь Аллаху, повинуйтесь Посланнику и обладателям власти среди вас» (сура «ан-Ниса», аят 59), Ибн ‘Аббас, да будет доволен ими обоими Аллах, сказал: «(Этот аят) был ниспослан по поводу ‘Абдуллаха ибн Хузафы ибн Къайса ибн ‘Ади, когда Пророк ﷺ отправил его в поход (во главе мусульманского отряда)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 65 Hadith 106</td></tr></tbody></table></div>
 

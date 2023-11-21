@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abi Mas'ud:The Prophet (ﷺ) said, "From this side from the east, affli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] dari [Isma'il] dari [Qais] dari [Abu Mas'ud] yang dia terima dari Nabi Shallallhu 'alaihi wa salam bersabda: "Dari arah sana timbulnya fitnah yaitu arah Timur. Dan tabi'at kasar serta keras ada pada diri orang-orang yang mengembala dan pemilik unta atau para penggembala, yaitu orang yang suka tinggal di pelosok, yaitu orang-orang yang suka mengikuti belakang ekor unta dan sapi di kabilah Rabi'ah dan Mudlar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3498</td></tr><tr><td>Arabic No</td><td>3498</td></tr><tr><td>Reference</td><td>Book 61 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас‘уда, да будет доволен им Аллах, что, указав в сторону востока, Пророк ﷺ сказал: «С этой стороны придут смуты. Что же касается чёрствости и жестокосердия, то (эти качества) присущи громко кричащим бедуинам, которые живут в палатках из шерсти, и занятые своими верблюдами и коровами, (а именно — в племенах) раби‘а и мудар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3498</td></tr><tr><td>Arabic No</td><td>3498</td></tr><tr><td>Reference</td><td>Book 61 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:I asked Ibn 'Abbas, "What is the meaning of, 'No town dweller sho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami ['Abdul A'laa] telah menceritakan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Bapaknya] berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma]; "Apa arti sabda Beliau "Janganlah sekali-kali orang kota menjual kepada orang desa". Dia menjawab: "Janganlah seseorang jadi perantara (broker, calo) bagi orang kota
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2163</td></tr><tr><td>Arabic No</td><td>2163</td></tr><tr><td>Reference</td><td>Book 34 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Таус сказал: «Я спросил Ибн ‘Аббас, да будет доволен Аллах им и его отцом: “Что значит “Пусть оседлый житель не продаёт за бедуина?” Ибн ‘Аббас ответил: “(Это значит, что) он не должен становиться его посредником”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2163</td></tr><tr><td>Arabic No</td><td>2163</td></tr><tr><td>Reference</td><td>Book 34 Hadith 114</td></tr></tbody></table></div>
 

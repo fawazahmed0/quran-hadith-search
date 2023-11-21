@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Qais:I went to Allah's Messenger (ﷺ) along with a a son of mine wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] telah mengabarkan kepadaku ['Ubaidullah bin Abdullah] dari [Ummu Qais] dia berkata; Aku mengunjungi Nabi shallallahu 'alaihi wasallam bersama anakku yang baru saja saya obati kerongkongannya dengan tanganku, maka beliau bersabda: "Dengan maksud apa kamu mengobati penyakit tenggorokan anakmu dengan memasukkan jemari tangan? Gunakanlah kayu India, karena padanya terdapat tujuh ragam penyembuhan, dan dapat di masukkan sebagai obat tetes hidung untuk menyembuhkan penyakit kerongkongan dan dapat pula menjadi penyembuh dari penyakit radang selaput dada." Aku mendengar Az Zuhri berkata; "Dua hal telah dijelaskan kepadaku, namun aku belum mendapatkan penjelasan mengenai yang lima hal lagi, lalu aku berkata kepada Sufyan, sesungguhnya Ma'mar pernah berkata dengan lafazh; 'A'laqtu 'alaihi', perawi berkata; "Bahwa Ma'mar belum pernah mendengarnya, karena Sufyan hanya mengatakan dengan redaksi; "A'laqtu 'anhu, aku pernah mendengarnya langsung dari mulut Az Zuhri bahwa Sufyan mensifati seorang anak kecil yang ditahnik (mengunyahkan kurma kemudian dimasukkan ke dalam mulut bayi) dengan jari, kemudian Sufyan memasukkan jarinya ke kerongkongan, maka maksud dari hadits di atas adalah mengangkat kerongkongan dengan jari-jari (yaitu dengan memasukkan jari-jari melalui mulut), dan dia tidak mengatakan; "Menggantungkan sesuatu padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5713</td></tr><tr><td>Arabic No</td><td>5713</td></tr><tr><td>Reference</td><td>Book 76 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Кайс сказала: «Как-то раз я пришла к Посланнику Аллаха ﷺ со своим сыном, сжимая пальцами припухлость на воспалённом горле младенца, (надеясь, что нарыв прорвётся и ему станет легче). (Пророк ﷺ) сказал: “Зачем вы (мучаете) своих детей этим надавливанием? Вам следует использовать этот индийский ладан, ибо он исцеляет от семи недугов, один из которых — плеврит. От воспаления горла его вводят в нос, а от плеврита заливают в уголок рта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5713</td></tr><tr><td>Arabic No</td><td>5713</td></tr><tr><td>Reference</td><td>Book 76 Hadith 30</td></tr></tbody></table></div>
 

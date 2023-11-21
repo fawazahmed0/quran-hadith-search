@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Apostle (ﷺ) as saying:There would be left some space in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah mengkhabarkan kepada kami [Tsabit] berkata: Aku mendengar [Anas] berkata: Dari nabi Shallallahu 'alaihi wa Salam bersabda: "Surga tersisa seperti yang dikehendaki Allah kemudian Allah menciptakan makhluk untuknya dari sesuatu yang Ia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7180</td></tr><tr><td>Arabic No</td><td>2848.04</td></tr><tr><td>Reference</td><td>Book 53 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7180</td></tr><tr><td>Arabic No</td><td>2848.04</td></tr><tr><td>Reference</td><td>Book 53 Hadith 49</td></tr></tbody></table></div>
 

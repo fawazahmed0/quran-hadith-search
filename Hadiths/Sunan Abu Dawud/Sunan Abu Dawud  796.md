@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Bakr yaitu ibnu mudlar] dari [Ibnu 'Ajlan] dari [Sa'id Al Maqburi] dari ['Umar bin Hakam] dari [Abdullah bin 'Anamah Al Muzanni] dari ['Ammar bin Yasir] dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ada seseorang yang benar-benar mengerjakan shalat, namun pahala shalat yang tercatat baginya hanyalah sepersepuluh (dari) shalatnya, sepersembilan, seperdelapan, sepetujuh, seperenam, seperlima, seperempat, sepertiga, dan seperduanya saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>796</td></tr><tr><td>Arabic No</td><td>796</td></tr><tr><td>Reference</td><td>Book 2 Hadith 406</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда кто-то из вас совершает молитву с людьми, пусть облегчает, потому что среди них есть больные, старые и те, у кого неотложные дела»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>796</td></tr><tr><td>Arabic No</td><td>796</td></tr><tr><td>Reference</td><td>Book 2 Hadith 406</td></tr></tbody></table></div>
 

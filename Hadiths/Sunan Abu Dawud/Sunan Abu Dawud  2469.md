@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:The Messenger of Allah (ﷺ) used to observe I'tikaf in the mosque a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], dan [Musaddad], mereka berkata; telah menceritakan kepada kami [Hammad bin Zaid], dari [Hisyam bin 'Urwah], dari [ayahnya], dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah beri'tikaf di Masjid, kemudian beliau memberikan kepalanya kepadaku melalui celah-celah kamar, lalu aku mencuci kepada beliau. Musaddad berkata; lalu aku menyisir rambutnya sementara aku dalam keadaan haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (295، 2030، 5925) Sahih Muslim (297)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2469</td></tr><tr><td>Arabic No</td><td>2469</td></tr><tr><td>Reference</td><td>Book 14 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Во время неотлучного пребывания в мечети Посланник Аллаха ﷺ просовывал голову в мою комнату и я мыла ему голову». Мусаддад передаёт, что ‘Аиша, да будет доволен ею Аллах, сказала также: «И я расчёсывала его волосы, а у меня в это время была менструация»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (295، 2030، 5925) Sahih Muslim (297)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2469</td></tr><tr><td>Arabic No</td><td>2469</td></tr><tr><td>Reference</td><td>Book 14 Hadith 157</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam al-Kindi: The Prophet (ﷺ) said: If anyone leaves a debt or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Syu'bah] dari [Budail] dari [Ali bin Abu Thalhah], dari [Rasyid bin Sa'd], dari [Abu 'Amir Al Hauzani Abdullah bin Luhai] dari [Al Miqdam], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang meninggalkan kall (keluarga dan hutang) maka menjadi tanggunganku." Dan terkadang beliau mengatakan: "Menjadi tanggungan Allah dan rasulNya." "Dan barangsiapa yang meninggalkan harta maka untuk para pewarisnya, dan aku adalah pewaris orang yang tidak memiliki pewaris. Aku menanggung diyatnya dan mewarisinya. Paman (dari pihak ibu) adalah pewaris orang yang tidak memiliki pewaris, ia menanggung diyatnya dan mewarisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2899</td></tr><tr><td>Arabic No</td><td>2899</td></tr><tr><td>Reference</td><td>Book 19 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Микдама, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кто-то оставил бремя, то это моя забота (или: Аллах и Его посланник позаботятся об этом), а если кто-то оставил имущество, оно принадлежит его наследникам. Я наследник того, у кого нет наследников: я плачу компенсацию вместо него и наследую ему. И дядя по матери наследник того, у кого нет наследников: он платит компенсацию вместо него и наследует ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2899</td></tr><tr><td>Arabic No</td><td>2899</td></tr><tr><td>Reference</td><td>Book 19 Hadith 15</td></tr></tbody></table></div>
 

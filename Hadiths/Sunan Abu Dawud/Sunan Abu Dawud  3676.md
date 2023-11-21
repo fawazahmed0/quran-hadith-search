@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated An-Nu'man ibn Bashir: The Prophet (ﷺ) said: from grapes wine is made,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Israil] dari [Ibrahim bin Muhajir] dari [Asy Sya'bi] dari [An Nu'man bin Basyir] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya anggur bisa jadi khamer, kurma bisa jadi khamer, madu bisa jadi khamer, gandum bisa jadi khamer dan jewawut juga bisa jadi khamer
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3676</td></tr><tr><td>Arabic No</td><td>3676</td></tr><tr><td>Reference</td><td>Book 27 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ан-Ну‘ман ибн Башира, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Вино делают и из винограда, и из фиников, и из мёда, и из пшеницы, и из ячменя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3676</td></tr><tr><td>Arabic No</td><td>3676</td></tr><tr><td>Reference</td><td>Book 27 Hadith 8</td></tr></tbody></table></div>
 

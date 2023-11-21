@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:Allah's Messenger (ﷺ) said, "O so-and-so, whenever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abul Ahwash] telah menceritakan kepada kami [Abu Ishaq Al Hamdani] dari [Barra' bin Azib] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Hai fulan, jika engkau mendatangi kasurmu, maka panjatkanlah doa: "ALLAAHUMMA ASLAMTU NAFSII ILAIKA, WAWAJJAHTU WAJHII ILAIKA, WAFAWWADLTU AMRII ILAIKA, WA ALJA"TU ZHAHRII ILAIKA, RUGHBTAN WA RUHBATAN ILAIKA, LAA MALJA'A WA LAA MANJAA MINKA ILLAA ILAIKA, AAMANTU BIKITAABIKAL LADZII ANZALTA WABINABIYYIKAL LADZII ARSALTA '(Ya Allah, aku pasrahkan jiwaku kepada-Mu, dan kuhadapkan wajahku kepada-Mu, dan aku serahkan urusanku kepada-Mu, dan aku sandarkan punggungku kepada-Mu, dengan berharap-harap cemas kepada-Mu, sesungguhnya tidak ada tempat bersandar dan tempat keselamatan selain kepada-Mu, saya beriman kepada kitab-Mu yang Engkau turunkan dan nabi-Mu yang Engkau utus) '. Maka sekiranya engkau meninggal di malammu, engkau meninggal di atas fitrah, dan jika engkau meninggal pagi harinya, engkau peroleh pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7488</td></tr><tr><td>Arabic No</td><td>7488</td></tr><tr><td>Reference</td><td>Book 97 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара ибн ‘Азиб, да будет доволен им Аллах, передал, что Посланник Аллаха ﷺ сказал (одному человеку): «О такой-то, если захочешь лечь в постель, скажи: “О Аллах, я подчинил Тебе душу свою, обратил к Тебе лик свой и вручил Тебе дело своё, и на Тебя положился из стремления к (награде) Твоей и из страха перед (наказанием) Твоим. Нет убежища и нет спасения от Тебя, кроме (обращения) к Тебе! Уверовал я в Писание Твоё, которое Ты ниспослал, и в пророка Твоего, которого Ты послал” \n/Аллахумма, инни аслямту нафси иляй-кя, ва ваджжахту ваджхи иляй-кя, ва фаввадту амри иляй-кя ва альджаъту захри иляй-кя рагбатан ва рахбатан иляй-кя. Ля мальджаъа ва ля манджа мин-кя илля иляй-кя! Аманту би-китаби-кя аллязи анзальта ва би-набиййи-кя аллязи арсальта/.\nИ, поистине, если ты умрёшь этой ночью, то умрёшь в присущем тебе от рождения состоянии (фитра), а если доживёшь до утра, то обретёшь награду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7488</td></tr><tr><td>Arabic No</td><td>7488</td></tr><tr><td>Reference</td><td>Book 97 Hadith 114</td></tr></tbody></table></div>
 

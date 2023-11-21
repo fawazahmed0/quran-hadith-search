@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:That he differed with Al-Hur bin Qais Al-Fazari regarding th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Amru bin Muhammad] telah bercerita kepada kami [Ya'qub bin Ibrahim] berkata telah bercerita kepadaku [bapakku] dari [Shalih] dari [Ibnu Syihab] bahwa ['Ubaidullah bin 'Abdullah] mengabarkan kepadanya dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa dia (Ibnu 'Abbas radliallahu 'anhuma) dan Al Hurru bin Qais Al Fazariy beselisih pendapat tentang teman Nabi Musa 'Alaihissalam. Ibnu 'Abbas radliallahu 'anhuma berkata: "Dia adalah Khadlir". Di tengah perselisihan itu, [Ubbay bin Ka'ab] lewat di hadapan keduanya maka Ibnu 'Abbas memanggilnya seraya berkata; "Aku sedang berbeda pendapat dengan temanku ini tentang teman Nabi Musa 'Alaihissalam yang beliau menanyakan jalan agar bisa bertemu dengannya. Apakah anda pernah mendengar Rasulullah shallallahu 'alaihi wasallam menceritakan hal ini?". Ubay berkata; "Ya. Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika Musa 'Alaihissalam berada di tengah-tengah pembesar Bani Isra'il tiba-tiba ada seorang laki-laki yang datang lalu berkata; "Apakah kamu mengetahui ada orang yang lebih pandai darimu?." Nabi Musa menjawab; "Tidak". Kemudian Allah Ta'ala mewahyukan kepada Musa 'Alaihissalam: "Bahkan ada, yaitu Hamba Kami yang bernama Khadlir." Lalu Musa menanyakan jalan untuk dapat bertemu dengannya. Maka dijadikanlah ikan sebagai tanda dan dikatakan kepadanya: "Jika kamu kehilangan ikan itu, kembalilah karena dengan begitu kamu bertemu dengannya". Maka Musa menyusuri jejak ikan itu dari tepi laut. Kemudian muridnya berkata kepada Musa; "Tahukah kamu tatkala kita berlkindung di balik batu itu, sebenarnya aku lupa menceritakan tentang ikan itu dan tidak ada yang melupakan aku untuk menceritakannya melainkan setan". Maka Musa 'Alaihissalam berkata; "Itulah tempat yang kita cari". Lalu keduanya kembali mengikuti jejak mereka semula". Akhirnya Musa bertemu dengan Khadlir. Itulah kejadian yang dialami keduanya sebagaimana Allah Ta'ala menceritakannya dalam Kitab-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3400</td></tr><tr><td>Arabic No</td><td>3400</td></tr><tr><td>Reference</td><td>Book 60 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн Шихаба о том, что ‘Убайдуллах ибн ‘Абдуллах сообщил ему о том, что однажды Ибн ‘Аббас поспорил с аль-Хурр ибн Кайс ибн Хисн аль-Фазари на счёт человека, с которым встречался Муса. Ибн ‘Аббас сказал: «Это (был) Хадыр!» И когда мимо них проходил Убай ибн Ка‘б, Ибн ‘Аббас позвал его и сказал: «Мы поспорили с этим моим товарищем относительно товарища Мусы, с которым он хотел встретиться и просил указать дорогу к нему. Слышал ли ты, чтобы Посланник Аллаха ﷺ упоминал об этом?» (Убай) сказал: «Да я слышал, как Посланник Аллаха ﷺ говорил: “Когда Муса был в собрании сынов Исраиля, к нему подошёл человек и спросил: „Знаешь ли ты кого-нибудь, кто знает больше тебя?“ Муса ответил: „Нет“. Тогда Аллах ниспослал ему откровение: „Это не так! (Есть) Наш раб Хадыр“. Муса попросил показать ему путь к нему, и Аллах сделал для него знамением рыбу. И (Мусе) было сказано: „Когда ты потеряешь рыбу, то вернись, и ты встретишь его“. Муса (мир ему) следил за рыбой у моря. Затем слуга Мусы сказал ему: „Помнишь, как мы укрылись под скалой? Я забыл о рыбе, и только шайтан заставил меня забыть о ней“. Муса сказал: „Это — то, чего мы желали!“ (сура “аль-Кяхф”, аят 64). Они вдвоём вернулись назад по своим следам. И они нашли Хадыра, а потом с ними произошло всё, о чём рассказал Аллах в Своей Книге”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3400</td></tr><tr><td>Arabic No</td><td>3400</td></tr><tr><td>Reference</td><td>Book 60 Hadith 73</td></tr></tbody></table></div>
 

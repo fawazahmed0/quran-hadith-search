@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) said:The Fire said to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahab] telah mengabarkan kepada kami [Haiwah], dia berkata; telah menceritakan kepadaku [Yazid bin Abdullah bin Usamah bin Hadi] dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Neraka berkata; 'Ya Rabbi, kami memakan satu sama lainnya, maka ijinkanlah kami untuk bernapas! ' maka Allah mengijinkan untuk bernapas dua kali, napas ketika musim dingin dan napas ketika musim panas, maka dingin atau dingin membeku yang kalian dapatkan diantara napas jahannam, dan panas atau panas menyengat yang kalian dapatkan adalah napas jahannam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1403</td></tr><tr><td>Arabic No</td><td>617.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Адское) пламя сказало: “О Господь мой, одна часть меня поглотила другую, так позволь же мне делать два выдоха!” И (Аллах) позволил ему делать два выдоха: один выдох зимой, а другой летом. (Поэтому,) наиболее сильный холод, который вы ощущаете, является выдохом Ада, и наиболее сильная жара, которую вы ощущаете, является выдохом Ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1403</td></tr><tr><td>Arabic No</td><td>617.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 237</td></tr></tbody></table></div>
 

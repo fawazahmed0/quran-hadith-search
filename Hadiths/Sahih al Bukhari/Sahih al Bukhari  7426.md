@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) used to say at the time of difficulty, 'La
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib] dari [Sa'id] dari [Qatadah] dari [Abul 'Aliyah] dari [Ibn Abbas] radliyallahu'anhuma berkata, "Jika susah, Nabi shallallahu 'alaihi wasallam memanjatkan doa: 'LAA-ILAAHA ILLALLAHUL 'ALIIMUL HALIIM, LAA-ILAAHA ILLALLAH RABBUL'ARSYIL 'AZHIIMI LAA-ILAAHA ILLALLAH RABBUS SAMAAWAATI WARABBUL ARDLI RABBUL'ASYIL KARIIMI (Tiada sesembahan yang hak selain Allah Yang Maha Mengetahui lagi Maha Bijaksana, tiada sesembahan yang hak selain Allah, Tuhan pemelihara arsy Yang Maha Agung, tiada sesembahan yang hak selain Allah Yang memelihara langit dan bumi, Tuhan pemelihara arsy yang mulia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7426</td></tr><tr><td>Arabic No</td><td>7426</td></tr><tr><td>Reference</td><td>Book 97 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что когда посланником Аллаха ﷺ овладевала скорбь, он обычно говорил: «Нет божества достойного поклонения, кроме Аллаха Знающего, Выдержанного, нет божества достойного поклонения, кроме Аллаха, Господа великого Трона, нет божества достойного поклонения, кроме Аллаха, Господа небес, и Господа земли и Господа благородного Трона!». \n/Ля иляха илля-Ллаху-ль-‘Алимуль-Халим, ля иляха илля-Ллаху, Раббуль-‘аршиль‘азым, ля иляха илля-Ллаху, Раббу-с-самаввати, ва Раббуль-арди, ва Раббуль-‘аршиль кярим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7426</td></tr><tr><td>Arabic No</td><td>7426</td></tr><tr><td>Reference</td><td>Book 97 Hadith 54</td></tr></tbody></table></div>
 

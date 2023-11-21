@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, aku membacakannya di hadapan [Malik]; dari [Abu az-Zinad] dari [al-A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam berkata, "Puncak kekafiran berada pada arah timur (daerah kaum majusi), dan kebanggaan dan kesombongan ada pada pemilik kuda dan unta yang menggembala, yaitu kaum Badui, sedangkan ketenangan ada pada penggembala kambing (maksudnya penduduk Yaman)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>185</td></tr><tr><td>Arabic No</td><td>52.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Вершина неверия (находится) на востоке, гордость и высокомерие свойственны громко кричащим владельцам лошадей и верблюдов (бедуинам-кочевникам), которые живут в палатках из шерсти, а спокойствием отличаются владельцы овец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>185</td></tr><tr><td>Arabic No</td><td>52.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Allah's Messenger (ﷺ) burnt and cut down the palm trees of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Laits] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, bahwasanya Rasulullah shallallahu 'alaihi wasallam membakar pepohonan kurma Bani Nadlir dan juga memotongnya, yakni Al Buwairah, maka Allah Ta'ala pun menurunkan ayat, "Pepohonan (kurma) yang telah kalian tebang atau yang kalian biarkan berdiri tegak di atas pokoknya adalah atas dasar izin dari Allah, dan untuk menghinakan orang-orang yang fasik." (QS. Alhasyr)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4884</td></tr><tr><td>Arabic No</td><td>4884</td></tr><tr><td>Reference</td><td>Book 65 Hadith 404</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ сжёг и вырубил пальмы бану ан-надыр в аль-Бувайре, а потом Всевышний Аллах ниспослал (аят, в котором говорится): “Срубили ли вы финиковые пальмы или оставили их стоять на их стволах — на то было соизволение Аллаха, дабы опозорить нечестивцев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4884</td></tr><tr><td>Arabic No</td><td>4884</td></tr><tr><td>Reference</td><td>Book 65 Hadith 404</td></tr></tbody></table></div>
 

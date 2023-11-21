@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Alqam reported:I am not going to say anything but only that which Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Muhammad bin 'Abdullah bin Numair] -dan lafadh ini milik Ibnu Numair- Ishaq berkata; Telah mengabarkan kepada kami, sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Ashim] dari [Abdullah bin Al Harits] dan dari [Abu Utsman An Nahdi] dari [Zaid bin Arqam] dia berkata; "Saya tidak akan mengatakan kepada kalian kecuali seperti apa yang pernah diucapkan Rasulullah shallallahu 'alaihi wasallam dalam doanya yang berbunyi: "ALLOOHUMMA INNII A'UUDZU BIKA MINAL 'AJZI WAL KASALI, WAL JUBNI WAL BUKHLI WAL HAROMI, WA'ADZAABIL QOBRI, ALLOOHUMMA AATI NAFSII TAQWAAHAA, WAZAKKIHAA ANTA KHOIRU MAN ZAKKAAHAA, ANTA WALIYYUHAA WAMAULAAHAA, ALLOOHUMMA INNII A'UUDZU BIKA MIN 'ILMIN LAA YANFA'U WAMIN QOLBIN LAA YAKHSYA'U WAMIN NAFSIN LAA TASYBA'U WAMIN DA'WATIN LAA YUSTAJAABA LAHU' Ya Allah ya Tuhanku, aku berlindung kepada-Mu dari kelemahan, kemalasan, ketakutan, kekikiran, kepikunan, dan siksa kubur. Ya Allah ya Tuhanku, berikanlah ketakwaan kepada jiwaku, sucikanlah ia, sesungguhnya Engkaulah sebaik-baik Dzat yang dapat mensucikannya, Engkaulah yang menguasai dan yang menjaganya. Ya Allah ya Tuhanku, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak berguna, hati yang tidak khusyu', diri yang tidak pernah puas, dan doa yang tidak terkabulkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6906</td></tr><tr><td>Arabic No</td><td>2722</td></tr><tr><td>Reference</td><td>Book 48 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6906</td></tr><tr><td>Arabic No</td><td>2722</td></tr><tr><td>Reference</td><td>Book 48 Hadith 99</td></tr></tbody></table></div>
 

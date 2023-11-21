@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al-Barâ' (que Dieu l'agrée), Quand les 'Ansâr accomplissaient le gra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7549</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 56 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Исхакъ сказал: Я слышал, как аль-Бара (ибн ‘Азиб) сказал: «Возвращаясь (в Медину) после хаджжа, ансары входили к себе домой только сзади, когда же один человек из (их числа) вернулся и вошёл (в свой дом) через ворота, ему (указали) на это, (и тогда) был ниспослан аят, в кото­ром сказано: “Не в том благочестие, чтобы входили вы в (свои) дома сзади” (аль-Бакъара, 2:189)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7549</td></tr><tr><td>Arabic No</td><td>3026</td></tr><tr><td>Reference</td><td>Book 56 Hadith 27</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : J'ai assisté à la prière de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abdu bin Humaid] semuanya dari [Abdurrazaq] - [Ibnu Rafi'] - berkata, telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Al Hasan bin Muslim] dari [Thawus] dari [Ibnu Abbas] ia berkata; "Saya pernah menghadiri shalat Idul Fithri bersama Rasulullah shallallahu 'alaihi wasallam, Abu Bakar, Umar dan Utsman, mereka semua shalat terlebih dahulu sebelum khutbah." Kemudian Ibnu Abbas mengatakan bahwa Rasulullah shallallahu 'alaihi wasallam turun dari mimbar, sepertinya aku sempat melihat beliau ketika menyuruh orang-orang lelaki duduk dengan isyarat tangan beliau lalu beliau lewat di tengah sehingga beliau mendatangi kaum wanita disertai Bilal, dan beliau membaca ayat: "Hai nabi, apabila datang kepadamu perempuan-perempuan yang beriman untuk mengadakan janji setia, bahwa mereka tiada akan menyekutukan Allah…" beliau membaca ayat itu hingga selesai. Setelah itu, beliau bertanya: "Apakah kalian ingin termasuk seperti yang disebutkan ayat itu?" seorang wanita menjawab -ketika itu tidak ada wanita lain yang menjawab-, "Benar, wahai Nabiyullah." Saat itu, beliau tidak tahu siapa perempuan itu. Beliau bersabda: "Kalau demikian, bersedekahlah." Lalu Bilal membentangkan kainnya, kemudian ia mengatakan, "Ayolah! Sungguh, sedekah ini menjadi penebus kalian dari (siksa neraka)." Akhirnya para wanita itu pun meletakkan cincinnya di atas kain yang dihamparkan Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>884.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Во время праздников разговения я присутствовал на молитвах, которые проводили Пророк ﷺ, Абу Бакр, ‘Умар и ‘Усман, и каждый из них проводил молитву перед хутбой, а хутбу произносил потом. (Однажды) Пророк ﷺ спустился (с минбара), и я будто и сейчас вижу, как он делает людям знаки рукой, чтобы они уселись, а потом проходит через их (ряды) вместе с Билялем и подходит к женщинам. (Подойдя к ним), он прочитал весь (аят, в котором сказано): “О пророк! Если придут к тебе верующие женщины, чтобы поклясться, что они не станут ничему поклоняться наряду с Аллахом…” (Сура “аль-Мумтахина”, аят 12). Закончив (читать) его, он спросил: “Придерживаетесь ли вы этого?” Никто из них не ответил ему, кроме одной женщины, которая сказала: “Да, о Пророк Аллаха”, но кто именно (дал ответ) неизвестно. (Тогда Пророк ﷺ) призвал: “Так подавайте же милостыню”, а Биляль подставил (полу) своей одежды и сказал: “Подходите, да станут отец мой и мать выкупом за вас!” после чего они принялись бросать в (полу) одежды Биляля большие кольца и перстни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>884.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
 

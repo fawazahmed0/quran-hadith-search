@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was the most generous amongst the people, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Ibrahim bin Sa'ad] telah mengabarkan kepada kami [Ibnu Syihab] dari ['Ubaidallah bin 'Uqbah] bahwa [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam adalah orang yang paling lembut (dermawan) dalam segala kebaikan. Dan kelembutan Beliau yang paling baik adalah saat bulan Ramadhan ketika Jibril alaihissalam datang menemui Beliau. Dan Jibril Alaihissalam datang menemui Beliau pada setiap malam di bulan Ramadhan (untuk membacakan Al Qur'an) hingga Al Qur'an selesai dibacakan untuk Nabi shallallahu 'alaihi wasallam. Apabila Jibril Alaihissalam datang menemui Beliau, maka Beliau adalah orang yang paling lembut dalam segala kebaikan melebihi lembutnya angin yang berhembus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1902</td></tr><tr><td>Arabic No</td><td>1902</td></tr><tr><td>Reference</td><td>Book 30 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ был щедрейшим из людей, а наибольшую щедрость он проявлял он в рамадан, когда с ним встречался Джибрил. И он встречался с ним каждую ночь рамадана, Пророк ﷺ читал ему Коран. И когда он встречал Джибриля, он был более щедрым на всё благое, чем вольный ветер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1902</td></tr><tr><td>Arabic No</td><td>1902</td></tr><tr><td>Reference</td><td>Book 30 Hadith 12</td></tr></tbody></table></div>
 

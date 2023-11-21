@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "We are more liable to be in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Shalih] telah bercerita kepada kami [Ibnu Wahb] berkata telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdur Rahman] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kami lebih patut untuk ragu dibanding Ibrahim ketika dia berkata; (Ya Rabbku, tunjukkan kepadaku bagaimana caranya Engkau menghidupkan makhluq yang sudah mati. Allah berfirman; "Apakah kamu tidak beriman (belum yakin)?" Ibrahim berkata; "Aku telah meyakininya akan tetapi untuk memantapkan hatiku"). Dan semoga Allah merahmati Nabi Luth 'Alaihissalam yang telah berlindung kepada keluarga yang kuat. Dan seandainya aku dipenjara dan mendekam didalamnya dalam masa tertentu sebagaimana Nabi Yusuf 'Alaihissalam mengalaminya tentu aku sudah bersegera memenuhi permintaan (orang yang akan membebaskan aku) ". (QS. Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3372</td></tr><tr><td>Arabic No</td><td>3372</td></tr><tr><td>Reference</td><td>Book 60 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал:\n— Мы имеем больше оснований для сомнений, чем Ибрахим, который сказал: «“Господь мой! Покажи мне, как Ты оживляешь покойников”. Спросил Он: “Разве ты не уверовал?” Он ответил: “Да, (уверовал,) но чтобы успокоилось сердце моё!”» И да помилует Аллах Лута: поистине, он опирался на прочную основу! А если бы провёл я в темнице столько же времени, сколько и Йусуф, то ответил бы на призыв
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3372</td></tr><tr><td>Arabic No</td><td>3372</td></tr><tr><td>Reference</td><td>Book 60 Hadith 46</td></tr></tbody></table></div>
 

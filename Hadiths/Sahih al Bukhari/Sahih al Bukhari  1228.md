@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada ka
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1228.2</td></tr><tr><td>Arabic No</td><td>1228.2</td></tr><tr><td>Reference</td><td>Book 22 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ однажды завершил молитву, совершив два рак‘ата. Тогда Зуль-Йадайн спросил его: «Молитва была сокращена или ты забыл, о Посланник Аллаха?» Посланник Аллаха ﷺ спросил людей: «Правда ли то, что говорит Зуль-Йадайн?» Люди ответили: «Да!» Тогда Посланник Аллаха ﷺ встал и совершил два других рак‘ата, затем совершил «таслим», затем произнес такбир и совершил земной поклон, подобно обычному земному поклону или длиннее, затем поднялся
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1228</td></tr><tr><td>Arabic No</td><td>1228</td></tr><tr><td>Reference</td><td>Book 22 Hadith 5</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1228.2</td></tr><tr><td>Arabic No</td><td>1228.2</td></tr><tr><td>Reference</td><td>Book 22 Hadith 6</td></tr></tbody></table></div>

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sirma reported that when the time of the death of Abu Ayyub Ansari drew near
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Muhammad bin Qais] menceritakan kepada 'Umar bin 'Abdul 'Aziz dari [Abu Shirmah] dari [Abu Ayyub] bahwasanya dia berkata ketika menjelang kematiannya; Aku telah menyembunyikan kepada kalian perkara yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya kamu sekalian tidak mempunyai dosa sedikit niscaya Allah akan menciptakan suatu kaum yang melakukan dosa untuk diberikan ampunan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6963</td></tr><tr><td>Arabic No</td><td>2748.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Аййюб (да будет доволен им Аллах) сказал, когда подступила к нему смерть: «Я (до сих пор) скрывал от вас кое что, что слышал от Посланника Аллаха ﷺ. Я слышал, как Посланник Аллаха ﷺ говорил: “Если бы вы не грешили, то Аллах обязательно сотворил бы творения, которые стали бы совершать грехи, а Он прощал бы их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6963</td></tr><tr><td>Arabic No</td><td>2748.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 11</td></tr></tbody></table></div>
 

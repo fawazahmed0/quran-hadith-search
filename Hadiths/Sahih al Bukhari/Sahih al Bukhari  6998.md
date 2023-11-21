@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "I have been given the keys of eloq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Al Miqdam Al 'ijli] telah menceritakan kepada kami [Muhammad bin Abdurrahman Ath Thufawi] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah] mengatakan, Nabi Shallallahu'alaihiwasallam bersabda: "Aku diberi kunci-kunci al kalim, aku diberi pertolongan dengan ketakutan yang dihunjamkan kedalam dada musuh-musuhku, ketika aku tidur tadi malam, tiba-tiba aku diberi kunci-kunci perbendaharaan bumi hingga diletakkan dalam tanganku." Abu Hurairah mengatakan; 'Rasulullah Shallallahu'alaihiwasallam lantas pergi sedang kalian memindahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6998</td></tr><tr><td>Arabic No</td><td>6998</td></tr><tr><td>Reference</td><td>Book 91 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Были дарованы мне ключи к кратким словам, в которые вкладывается много смысла, и мне была оказана помощь страхом, а когда я спал вчера, мне принесли ключи от сокровищниц земли и вложили их мне в руку». \nАбу Хурайра сказал: «И Посланник Аллаха ﷺ ушёл, а вы передаёте эти сокровища (с места на место)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6998</td></tr><tr><td>Arabic No</td><td>6998</td></tr><tr><td>Reference</td><td>Book 91 Hadith 17</td></tr></tbody></table></div>
 

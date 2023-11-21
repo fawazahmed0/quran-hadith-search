@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:One of the mothers of the faithful believers (i.e. the wives of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Mu'tamir] dari [Khalid] dari ['Ikrimah] dari ['Aisyah] berkata, "Sebagian Ummul Mukminin melakukan iktikaf sementara mereka mengeluarkan darah istihadlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>311</td></tr><tr><td>Arabic No</td><td>311</td></tr><tr><td>Reference</td><td>Book 6 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах: «Некоторые из матерей правоверных совершали затворничество в мечети /и‘тикаф/ в то время, когда у них было хроническое кровотечение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>311</td></tr><tr><td>Arabic No</td><td>311</td></tr><tr><td>Reference</td><td>Book 6 Hadith 16</td></tr></tbody></table></div>
 

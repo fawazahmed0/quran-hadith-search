@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once I stayed overnight in the house of my aunt Maimuna bint
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Al Fadl bin 'Anbasah] telah mengabarkan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyr]. Dan di riwayatkan dari jalur lain, telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Saya pernah bermalam di rumah bibiku yaitu Maimunah binti Al Harits, sementara Rasulullah shallallahu 'alaihi wasallam malam itu berada di sampingnya, Ibnu Abbas melanjutkan; "Lalu beliau mengerjakan shalat malam dan akupun ikut shalat di sebelah kirinya, Ibnu Abbas menuturkan; "Kemudian beliau memegang rambutku yang terkuncir dan memposisikanku di sebelah kanannya." Telah menceritakan kepada kami ['Amru bin Muhammad] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyr] dengan hadits ini, dia mengatakan; "(memegang) kuncir rambutku atau kepalaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5919</td></tr><tr><td>Arabic No</td><td>5919</td></tr><tr><td>Reference</td><td>Book 77 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) я остался на ночь (в доме) своей тёти Маймуны бинт аль-Харис, когда у неё ночевал Посланник Аллаха ﷺ. (Ночью) Посланник Аллаха ﷺ встал и стал совершать ночную молитву, а я встал слева от него, но он взял меня за чёлку и поставил справа от себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5919</td></tr><tr><td>Arabic No</td><td>5919</td></tr><tr><td>Reference</td><td>Book 77 Hadith 134</td></tr></tbody></table></div>
 

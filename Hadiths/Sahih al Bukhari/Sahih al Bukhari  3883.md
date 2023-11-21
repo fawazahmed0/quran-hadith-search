@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Abbas bin 'Abdul Muttalib:That he said to the Prophet (ﷺ) "You hav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada kami ['Abdul Malik] telah menceritakan kepada kami [Abdullah bin Al Harits] telah menceritakan kepada kami [Al 'Abbas bin 'Abdul Muthallib] radliallahu 'anhu, dia berkata kepada Nabi shallallahu 'alaihi wasallam; "Mengapa anda tidak menolong pamanmu padahal dia yang melindungimu dan marah demi membelamu?". Beliau bersabda: "Dia berada di tepian neraka. Seandainya bukan karena aku, dia tentu sudah berada di dasar neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3883</td></tr><tr><td>Arabic No</td><td>3883</td></tr><tr><td>Reference</td><td>Book 63 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) аль-‘Аббас ибн ‘Абдульмутталиб, да будет доволен им Аллах, сказал Пророку ﷺ: «Ты ничем не помог твоему дяде (Абу Талибу), несмотря на то что он всегда защищал тебя и гневался из-за тебя», (на что Пророк ﷺ) ответил: «Он находится в верхнем слое огня, а если бы не я, то он обязательно оказался бы на самом дне его!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3883</td></tr><tr><td>Arabic No</td><td>3883</td></tr><tr><td>Reference</td><td>Book 63 Hadith 108</td></tr></tbody></table></div>
 

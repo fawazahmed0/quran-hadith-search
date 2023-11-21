@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Un homme étant venu réclamer rudem
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar bin Utsman Al 'Abdi] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Salamah bin Kuhail] dari [Abu Salamah] dari [Abu Hurairah] dia berkata, "Seorang laki-laki pernah menagih hutang kepada Rasulullah shallallahu 'alaihi wasallam dengan cara kasar, sehingga menjadikan para sahabat tidak senang. Nabi shallallahu 'alaihi wasallam lalu bersabda: "Sesungguhnya orang yang berpiutang berhak untuk menagih." Kemudian beliau bersabda: "Belikanlah dia seekor unta muda, kemudian berikan kepadanya." Kata para sahabat, "Sesungguhnya kami tidak mendapatkan unta yang muda, yang ada adalah unta dewasa dan lebih bagus daripada untanya." Rasulullah shallallahu 'alaihi wasallam bersabda: "Belilah, lalu berikanlah kepadanya. Sesungguhnya sebaik-baik kalian adalah yang paling baik dalam melunasi hutang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>1601.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>1601.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 149</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said to the Ansar, "After me you will 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Hisyam] berkata, aku mendengar [Anas bin Malik radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata kepada kaum Anshar: " sepeninggalku nanti, akan kalian jumpai sikap atsarah (sikap egoism, individualis, orang yang mementingkan dirinya sendiri). Maka bersabarlah kalian hingga kalian berjumpa denganku dan tempat yang dijanjikan untuk kalian adalah telaga al-Haudl (di surga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>3793</td></tr><tr><td>Reference</td><td>Book 63 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал одному из ансаров: «Воистину, после меня вы повстречаете корысть (предпочтение будет отдаваться другим над ними в мирских вещах), терпите же, пока не встретитесь со мной у водоёма, а ваша встреча у водоема»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>3793</td></tr><tr><td>Reference</td><td>Book 63 Hadith 18</td></tr></tbody></table></div>
 

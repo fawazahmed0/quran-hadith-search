@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "The example of guidance and knowledge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] berkata, telah menceritakan kepada kami [Hammad bin Usamah] dari [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Perumpamaan petunjuk dan ilmu yang Allah mengutusku dengan membawanya adalah seperti hujan yang lebat yang turun mengenai tanah. Diantara tanah itu ada jenis yang dapat menyerap air sehingga dapat menumbuhkan tumbuh-tumbuhan dan rerumputan yang banyak. Dan di antaranya ada tanah yang keras lalu menahan air (tergenang) sehingga dapat diminum oleh manusia, memberi minum hewan ternak dan untuk menyiram tanaman. Dan yang lain ada permukaan tanah yang berbentuk lembah yang tidak dapat menahan air dan juga tidak dapat menumbuhkan tanaman. perumpamaan itu adalah seperti orang yang faham agama Allah dan dapat memanfa'atkan apa yang aku diutus dengannya, dia mempelajarinya dan mengajarkannya, dan juga perumpamaan orang yang tidak dapat mengangkat derajat dan tidak menerima hidayah Allah dengan apa yang aku diutus dengannya". Berkata Abu Abdullah; [Ishaq] berkata: "Dan diantara jenis tanah itu ada yang berbentuk lembah yang dapat menampung air hingga penuh dan diantaranya ada padang sahara yang datar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Arabic No</td><td>79</td></tr><tr><td>Reference</td><td>Book 3 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, руководство и знание, с которыми Аллах послал меня (к людям), подобны выпавшему на землю дождю. Часть этой земли была плодородной, она впитала в себя воду, и на ней выросло много всяких растений и травы. (Другая часть) её была плотной, она задержала (на себе) воду, и Аллах обратил её на пользу людям, которые стали употреблять эту воду для питья, поить ею скот и использовать её для орошения. (Дождь) выпал также и на другую часть земли, представлявшую собой равнину, которая не задержала воду и на которой ничего не выросло. (Эти части земли) подобны тем людям, которые постигли религию Аллаха, получили пользу от того, с чем послал меня Аллах, сами приобрели знание и передали его (другим), а также тем, кто не обратился к этому сам и не принял руководства Аллаха, с которым я был (направлен) к людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Arabic No</td><td>79</td></tr><tr><td>Reference</td><td>Book 3 Hadith 21</td></tr></tbody></table></div>
 

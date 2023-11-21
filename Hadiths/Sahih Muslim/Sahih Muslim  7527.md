@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tariq b. Shihab reported that a Jew came to 'Umar and said:Commander of the Fait
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdu bin Humaid] telah mengkhabarkan kepada kami [Ja'far bin Aun] telah mengkhabarkan kepada kami [Abu Umais] dari [Qais bin Muslim] dari [Thariq bin Syihab] berkata: Seorang Yahudi mendatangi [Umar] lalu berkata: Wahai Amirul Mu'minin, ada satu ayat didalam kitab kalian yang kalian baca, andai ayat itu turun pada kami kaum Yahudi, pasti kami menjadikan hari itu sebagai hari. Umar bertanya: Ayat apa? Ia menjawab: "Pada hari Ini telah Ku-sempurnakan untuk kamu agamamu, dan telah Ku-cukupkan kepadamu nikmatKu, dan telah Ku-ridhai Islam itu jadi agama bagimu." (Al Maa'idah: 3) Umar berkata: Sesungguhnya aku tahu hari dan tempat ayat ini diturunkan, ayat itu turun pada Rasulullah Shallallahu 'alaihi wa Salam di Arafah pada hari jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7527</td></tr><tr><td>Arabic No</td><td>3017.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7527</td></tr><tr><td>Arabic No</td><td>3017.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 5</td></tr></tbody></table></div>
 

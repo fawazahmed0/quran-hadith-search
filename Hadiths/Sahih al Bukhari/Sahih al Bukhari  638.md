@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada: My father said, "Allah's Messenger (ﷺ) said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika iqamah telah dikumandangkan maka janganlah berdiri hingga kalian melihat aku, dan hendaklah kalian melakukannya dengan tenang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>638</td></tr><tr><td>Arabic No</td><td>638</td></tr><tr><td>Reference</td><td>Book 10 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “После объявления о начале молитвы не поднимайтесь (со своих мест), пока не увидите меня (перед собой), и вам следует вести себя тихо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>638</td></tr><tr><td>Arabic No</td><td>638</td></tr><tr><td>Reference</td><td>Book 10 Hadith 35</td></tr></tbody></table></div>
 

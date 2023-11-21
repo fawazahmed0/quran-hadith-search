@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The most true words said by a poet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari ['Abdul Malik] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kalimat yang paling benar yang dikatakan seorang penyair adalah kalimat yang dikatakan oleh Labid. Dia bersya'ir; "Segala sesuatu selain Allah adalah bathil". Dan hampir saja Umayyah bin Abu ash Shalt masuk Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3841</td></tr><tr><td>Arabic No</td><td>3841</td></tr><tr><td>Reference</td><td>Book 63 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Самыми правдивыми словами, которые (когда-либо) произносил поэт, являются слова Лябида(, который сказал): “Разве не является несостоятельным все, кроме Аллаха?” — (что же касается) Умаййи ибн Аби-с-Сальта, то он был близок к тому, чтобы принять ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3841</td></tr><tr><td>Arabic No</td><td>3841</td></tr><tr><td>Reference</td><td>Book 63 Hadith 66</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd al-Rahman b. Yazid said:I asked Abu Mas'ud while he was making circumambulat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah mengabarkan kepada kami [Syu'bah] dari [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] dia berkata; aku pernah bertanya kepada [Abu Mas'ud] ketika dia sedang Thawaf di Ka'bah, dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membaca dua ayat dari akhir surat Al Baqarah pada malam harinya, maka dianggap cukup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5008) Sahih Muslim (807)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1397</td></tr><tr><td>Arabic No</td><td>1397</td></tr><tr><td>Reference</td><td>Book 6 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн Язида: «Я спрашивал Абу Мас‘уда, да будет доволен им Аллах, когда он совершал обход вокруг Каабы, и он ответил, что Посланник Аллаха ﷺ сказал: “Кто прочитывает ночью два последних аята из суры “аль-Бакара”, тому будет достаточно их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5008) Sahih Muslim (807)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1397</td></tr><tr><td>Arabic No</td><td>1397</td></tr><tr><td>Reference</td><td>Book 6 Hadith 27</td></tr></tbody></table></div>
 

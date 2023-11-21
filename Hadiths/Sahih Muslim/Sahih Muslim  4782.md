@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Alqama b. Wai'l al-Hadrami who learnt t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dari ['Alqamah bin Al Wa'il Al Hadlrami] dari [ayahnya] dia berkata, "Salamah bin Yazid Al Ja'fi pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Nabi Allah, bagaimanakah pendapatmu jika para penguasa yang memimpin kami selalu menuntut hak mereka atas kami tapi mereka tidak mau memenuhi hak kami, sikap apa yang anda anjurkan kepada kami?" Maka beliau berpaling, lalu ditanyakan lagi kepada beliau dan beliaupun tetap enggan menjawabnya hingga dua atau tiga kali pertanyaan itu diajukan kepada beliau, kemudian Al Aty'ats bin Qa'is menarik Salamah bin Zayid. Beliau lalu bersabda: "Dengarkan dan taatilah, sesungguhnya mereka akan mempertanggung jawabkan atas semua perbuatan mereka sebagaimana kalian juga akan mempertanggung jawabkan semua perbuatan kalian." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Syu'bah] dari [Simak] dengan sanad seperti ini, ia mengatakan, "Lalu Al Asy'ats bin Qa'is menarik Usamah bin Zayid, lantas beliau menjawab: "Dengarkan dan taatilah, sesungguhnya mereka akan mempertanggung jawabkan semua perbuatan mereka sebagaimana kalian juga akan mempertanggung jawabkan semua perbuatan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4782</td></tr><tr><td>Arabic No</td><td>1846.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4782</td></tr><tr><td>Arabic No</td><td>1846.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 79</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : Hassân Ibn Thâbit ayant demand
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Yahya bin Zakaria] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dia berkata; Hassan berkata; Ya Rasulullah! Izinkanlah saya melawan Abu Sufyan dengan dengan bait syairku. Rasulullah menjawab; bagaimana kalau kamu lawan dia mengenai kekerabatanku dengannya? Hassan berkata; Demi Dzat yang telah memuliakan engkau, saya pasti akan mampu mencabut engkau dari kelompok mereka sebagaimana tercabutnya sebutir gandum dari adonannya." Lalu Hassan melantunkan syairnya ini; "Sesungguhnya kemuliaan dari keluarga Hasyim adalah putra-putri Makhzum, sedangkan bapakmu adalah seorang hamba sahaya." Telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdah]; Telah menceritakan kepada kami [Hisyam bin 'Urwah] melalui jalur ini. Aisyah berkata; Hassan bin Tsabit meminta izin kepada Nabi shallallahu 'alaihi wasallam untuk menghinakan orang-orang musyrik dengan syairnya. -perawi tidak menyebutkan Abu Sufyan dan mengganti kalimat 'al khamir' dengan 'al 'Ajiin.' (adonan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6393</td></tr><tr><td>Arabic No</td><td>2489.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6393</td></tr><tr><td>Arabic No</td><td>2489.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 223</td></tr></tbody></table></div>
 

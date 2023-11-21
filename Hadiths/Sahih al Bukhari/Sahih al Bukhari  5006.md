@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Mu'alla:While I was praying, the Prophet (ﷺ) called me b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Yahya bin Sa'id] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepadaku [Khubaib bin Abdurrahman] dari [Hafsh bin Ashim] dari [Abu Sa'id Al Mu'alla] ia berkata; Suatu ketika aku sedang shalat, tiba-tiba Rasulullah shallallahu 'alaihi wasallam memanggilku namun aku tidak menjawab panggilannya. Seusai shalat, aku berkata kepada beliau, "Wahai Rasulullah, sesungguhnya tadi aku sedang shalat." Beliau bersabda: "Bukankah Allah telah berfirman: 'Penuhilah panggilan Allah dan panggilan Rasul-Nya bila ia mengajak kalian..'" kemudian beliau bersabda: "Maukah kamu aku ajari satu surat yang paling agung yang terdapat dalam Al Qur'an sebelum kamu keluar dari Masjid?" Lalu beliau memegang tanganku, dan ketika kami hendak keluar, aku berkata, "Wahai Rasulullah, sesungguhnya Anda telah berkata, 'Sungguh, aku akan mengajarkan padamu suatu surat yang paling agung dari Al Qur'an.'" Beliau pun bersabda: "Yaitu: 'AL HAMDULILLAHI RABBIL 'AALAMIIN..' ia adalah As Sab'u Al Matsaanii dan Al Qur'an yang agung yang telah diberikan kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5006</td></tr><tr><td>Arabic No</td><td>5006</td></tr><tr><td>Reference</td><td>Book 66 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида ибн аль-Му‘алля: «(Однажды) я молился, и меня позвал Посланник Аллаха ﷺ, но я не ответил ему. Когда я завершил молитву и подошёл к нему, он спросил: “Что помешало тебе прийти ко мне?” Я ответил: “О Посланник Аллаха, я молился”. (Посланник Аллаха ﷺ) сказал: “Разве Аллах не сказал: “О те, которые уверовали! Отвечайте Аллаху и Его посланнику, когда он призывает вас к тому, что дарует вам жизнь”? Затем Он ﷺ сказал: “Я непременно научу тебя самой великой суре в Коране, прежде чем ты выйдешь из мечети”. И он взял меня за руку. Когда он собрался выйти из мечети я сказал ему: “О Посланник Аллаха, поистине, ты сказал: “Я непременно научу тебя самой великой суре из Корана”. Он ﷺ ответил: “(Это —) Аль-хамду ли-Лляхи Раббиль-‘алямин, семь часто повторяющихся аятов и Великий Коран, который был мне дарован”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5006</td></tr><tr><td>Arabic No</td><td>5006</td></tr><tr><td>Reference</td><td>Book 66 Hadith 28</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Messenger of Allah (ﷺ), reported:The prayer was prescr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>685.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, жена Пророка ﷺ сказала: «(Вначале мусульманам) было предписано совершать молитву из двух рак‘атов независимо от того, совершается ли она там, где человек живёт постоянно, или в пути; впоследствии же молитва, совершаемая в пути, была оставлена неизменной, а молитва, совершаемая на постоянном месте жительства, была увеличена»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>685.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 1</td></tr></tbody></table></div>
 

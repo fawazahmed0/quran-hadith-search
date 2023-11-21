@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: I am commanded to fight with me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id? bin Ya'qub Ath Thalqani], telah menceritakan kepada kami [Abdullah bin Al Mubarak] dari [Humaid] dari [Anas], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata: "Aku diperintahkan agar memerangi manusia hingga mereka bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah, dan Muhammad adalah hamba dan rasulNya, menghadap ke kiblat kita, makan sembelihan kita, dan melakukan shalat kita. Apabila mereka melakukan hal tersebut maka telah haram atas kita darah dan harta mereka kecuali dengan haknya. Bagi mereka apa yang menjadi hak orang-orang muslim, dan kewajiban mereka apa yang menjadi kewajiban orang-orang muslim." Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Yahya bin Ayyub], dari [Humaid Ath Thawil], dari [Anas bin Malik], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diperintahkan untuk memerangi orang-orang musyrik…. Seperti makna hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (392)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2641</td></tr><tr><td>Arabic No</td><td>2641</td></tr><tr><td>Reference</td><td>Book 15 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (392)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2641</td></tr><tr><td>Arabic No</td><td>2641</td></tr><tr><td>Reference</td><td>Book 15 Hadith 165</td></tr></tbody></table></div>
 

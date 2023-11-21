@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. Zaid said:The Messenger of Allah (pbuh)prayed for rain wearing a bl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] dari ['Umarah bin Ghaziyah] dari ['Abbad bin Tamim] bahwa [Abdullah bin Zaid] berkata; "Rasulullah shallallahu 'alaihi wasallam memohon di turunkannya hujan, sedangkan waktu itu beliau memakai pakaian berwarna hitam, beliau keberatan ketika hendak meletakkan bagian kain yang ada di bawah ke atas, maka beliau membaliknya di atas pundak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1164</td></tr><tr><td>Arabic No</td><td>1164</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Зейда, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ обратился к Всевышнему с мольбой о ниспослании дождя. При этом он был одет в чёрную одежду и захотел перевернуть её так, чтобы верхняя её часть оказалась на месте нижней, но потом, обнаружив, что это трудно, развернул её на плечах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1164</td></tr><tr><td>Arabic No</td><td>1164</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:The Prophet (ﷺ) was given a silken Farruj [??] as a p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] berkata, "Nabi shallallahu 'alaihi wasallam diberi hadiah berupa kain yang terbuat dari sutra, lalu beliau memakainya dan shalat. Setelah selesai, beliau menyingkirkannya dengan keras seakan tidak suka, beliau bersabda: "Ini tidak patut bagi orang yang bertakwa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 8 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укъба ибн ‘Амир, да будет доволен им Аллах, сказал: «(Однажды) Пророку ﷺ подарили шёлковую одежду с разрезом сзади. Он надел её и совершил в ней молитву, закончив же (молиться), быстро скинул её с себя как нечто ненавистное ему и воскликнул: “Не следует богобоязненным (носить) это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 8 Hadith 27</td></tr></tbody></table></div>
 

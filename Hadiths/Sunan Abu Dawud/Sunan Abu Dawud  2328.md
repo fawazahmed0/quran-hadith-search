@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Imran bin Husain:The Messenger of Allah (ﷺ) asked a man: Did you fas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Mutharrif] dari ['Imran bin Hushain] serta [Sa'id Al Jurairi], dari [Abu Al 'Ala'], dari [Mutharrif] dari [Imran bin Hushain] bahwa Rasulullah shallallahu 'alaihi wasallam berkata kepada seorang laki-laki; apakah engkau berpuasa pada Bulan Sya'ban? Ia berkata; tidak. Beliau berkata; apabila engkau berbuka maka berpuasalah satu hari. Salah seorang diantara mereka berdua mengatakan; dua hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1983) Sahih Muslim (1161)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2328</td></tr><tr><td>Arabic No</td><td>2328</td></tr><tr><td>Reference</td><td>Book 14 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ спросил одного человека: «Соблюдал ли ты пост в конце ша‘бана?» Тот ответил: «Нет». (Посланник Аллаха ﷺ) сказал: «Когда закончишь соблюдать пост (в рамадане), соблюдай пост ещё один день». Один из двух передатчиков этого хадиса утверждал, что Посланник Аллаха ﷺ сказал: «Два дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1983) Sahih Muslim (1161)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2328</td></tr><tr><td>Arabic No</td><td>2328</td></tr><tr><td>Reference</td><td>Book 14 Hadith 16</td></tr></tbody></table></div>
 

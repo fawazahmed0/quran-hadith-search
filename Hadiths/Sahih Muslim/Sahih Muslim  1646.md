@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been reported by Ishaq with the same chain of transmitter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Zakariya bin Ishaq] telah menceritakan kepada kami ['Amru bin Dinar] katanya; aku mendengar ['Atha' bin Yasar] mengatakan dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika iqamat telah dikumandangkan, maka tidak ada shalat selain shalat wajib." Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Zakariya bin Ishaq] dengan sanad seperti ini. Telah menceritakan kepada kami [Hasan Al Hulwani] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammad bin Zaid] dari [Ayyub] dari ['Amru bin Dinar] dari [Atha' bin Yasar] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas. [Hammad] mengatakan; "Aku pernah menemui ['Amr], lalu dia Menceritakan kepadaku, namun dia tidak memarfu'kannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1646</td></tr><tr><td>Arabic No</td><td>710.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «После объявления о начале молитвы не (следует совершать) никакой иной молитвы, кроме предписанной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1646</td></tr><tr><td>Arabic No</td><td>710.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 77</td></tr></tbody></table></div>
 

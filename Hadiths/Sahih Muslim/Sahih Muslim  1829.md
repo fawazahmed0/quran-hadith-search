@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alqama reported:I asked 'A'isha, the mother of the believers, saying O mother of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] -Zuhari berkata- telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Alqamah] ia berkata; Saya bertanya kepada Ummul mukminin [Aisyah], "Wahai Ummul mukminin, bagaimanah amalan Rasulullah shallallahu 'alaihi wasallam? Apakah beliau mengkhususkan suatu amalan pada hari tertentu?" Aisyah menjawab, "Tidak, amalan beliau adalah terus menerus. Dan siapa pun kalian, pasti akan mampu melakukan amalan yang Rasulullah shallallahu 'alaihi wasallam mampu melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1829</td></tr><tr><td>Arabic No</td><td>783.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама сказал: «(Однажды) я спросил мать правоверных ‘Аишу: «О мать правоверных, какими были деяния Посланника Аллаха ﷺ? Выделял ли он (для этого) какие-то особые дни?» Она ответила: «Нет, его деяния были постоянными, но кто из вас может совершать то, что совершал Посланник Аллаха ﷺ?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1829</td></tr><tr><td>Arabic No</td><td>783.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 257</td></tr></tbody></table></div>
 

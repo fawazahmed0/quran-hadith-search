@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once Allah's Messenger (ﷺ); offered the morning prayer an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Abu 'Abdur Razzaq-Zanad] dari [Al A'raj] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; "Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat Shubuh (setelah selesai) Beliau menghadap kepada jama'ah lalu bersabda: bersabda: "Ada orang yang sedang menggiring sapi betina lalu ketika ditungganginya dia memukul sapi tersebut, lalu sapi itu berbicara; "Aku diciptakan bukan untuk dipukuli seperti ini, tapi aku diciptakan untuk membantu pengembangan sawah ladang". Lalu orang-orang berkata; "Maha suci Allah, sapi dapat berbicara?". Beliau shallallahu 'alaihi wasallam bersabda: "Aku beriman tentang kejadian itu, begitu juga Abu Bakar dan 'Umar". Saat itu keduanya tidak hadir disana. Dan ada pula seseorang yang sedang bersama kambingnya lalu ada seekor serigala yang akan memangsa kambingnya dan ketika serigala itu membawanya kabur, orang itu mencarinya seakan dia mengawasi kambingnya dari ancaman serigala maka serigala itu berbicara kepadanya; "Kini kamu merasa menjaganya dari aku tapi siapa yang menjaganya pada hari berburu saat tidak ada pengembala yang mengawasinya?". Lalu orang-orang berkata; "Maha suci Allah, serigala dapat berbicara?". Beliau shallallahu 'alaihi wasallam bersabda: "Aku beriman tentang kejadian itu, begitu juga Abu Bakar dan 'Umar". Saat itu keduanya tidak hadir disana. Dan telah bercerita kepada kami ['Ali] telah bercerita kepada kami [Sufyan] dari [Mis'ar] dari [Sa'ad bin Ibrahim] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3471</td></tr><tr><td>Arabic No</td><td>3471</td></tr><tr><td>Reference</td><td>Book 60 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды, совершив утреннюю молитву, Пророк ﷺ повернулся к людям, и сказал: “(Как-то раз,) когда (один) человек гнал корову, он сел на неё верхом и ударил. Она сказала: “Мы были созданы не для этого, мы были созданы для пахоты”. Тогда люди сказали (удивившись): “Пречист Аллах! Корова разговаривает!”. (А Пророк ﷺ) сказал: “Я верю в это. И Абу Бакр с ‘Умаром тоже верят, хотя ни один из них там не находился”. (Затем Пророк ﷺ) сказал: “(Однажды) когда пастух был со своим овцами, на них напал волк и схватил овцу. Человек погнался за ним, а когда он забрал у него свою овцу, волк сказал: “Ты спас её от меня, но кто спасёт её в (тот) день (, когда появятся) дикие звери, и не будет для них иного пастуха, кроме меня?” Люди сказали (удивившись): “Пречист Аллах! Волк разговаривает!”. (А Пророк ﷺ) сказал: “Я верю в это. И Абу Бакр с ‘Умаром тоже верят, хотя ни один из них там не находился”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3471</td></tr><tr><td>Arabic No</td><td>3471</td></tr><tr><td>Reference</td><td>Book 60 Hadith 138</td></tr></tbody></table></div>
 

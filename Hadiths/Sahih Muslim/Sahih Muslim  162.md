@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir that he heard the (Holy Prophet) say:A 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan al-Hulwani] dan [Abd bin Humaid] semuanya dari [Abu Ashim], [Abd] berkata, telah memberitakan kepada kami [Abu Ashim] dari [Ibnu Juraij] bahwa dia mendengar [Abu az-Zubair] dia berkata, "Saya mendengar [Jabir] berkata, 'Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Seorang muslim (yang sejati) adalah orang yang mana kaum muslimin lainnya selamat dari (bahaya) lisan dan tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>162</td></tr><tr><td>Arabic No</td><td>41</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Пророк ﷺ сказал: «Мусульманин это тот (человек), от зла языка и рук которого мусульмане находятся в безопасности»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>162</td></tr><tr><td>Arabic No</td><td>41</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
 

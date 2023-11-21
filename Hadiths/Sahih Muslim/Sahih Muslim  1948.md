@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazid b. Ruman told on the authority of Salih b. Khawwat on the authority of one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Yazid bin Ruman] dari [Shalih bin Khawwat] dari [seorang] yang pernah shalat Khauf bersama Rasulullah shallallahu 'alaihi wasallam pada hari Dzatur Riqa'. Bahwa satu kelompok berbaris satu shaf di belakang beliau, sementara kelompok yang lain berjaga-jaga dengan menghadap ke arah musuh. Maka beliau pun shalat satu raka'at bersama kelompok pertama, kemudian beliau berdiri dan tetap berdiri, lalu kelompok pertama tadi menyempurnakan shalatnya masing-masing dan bubar kemudian membuat shaf untuk menghadapi musuh. Setelah itu, datanglah kelompok kedua sehingga beliau shalat bersama mereka satu raka'at, kemudian beliau duduk, sementara mereka menyempurnakan shalatnya masing-masing, baru kemudian beliau salam bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1948</td></tr><tr><td>Arabic No</td><td>842</td></tr><tr><td>Reference</td><td>Book 6 Hadith 376</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Хавват передал от того, кто совершал молитву, (совершаемую под воздействием) страха /салят аль-хауф/ вместе с Посланником Аллаха ﷺ в день Зат-ар-Рика‘, что одна группа (людей) выстроилась в ряды вместе с ним, а другая противостояла неприятелю, и (Пророк ﷺ) совершил один рак‘ат молитвы вместе с теми, кто был с ним, а потом выпрямился и остался в таком положении, а (второй рак‘ат эти люди) совершили сами, после чего ушли и выстроились против рядов врага. Затем (их место) заняла другая группа, и (Пророк ﷺ) совершил с ними рак‘ат, оставшийся от его молитвы, и остался сидеть, а (второй рак‘ат эти люди) совершили сами, после чего (Пророк ﷺ) произнес с ними слова таслима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1948</td></tr><tr><td>Arabic No</td><td>842</td></tr><tr><td>Reference</td><td>Book 6 Hadith 376</td></tr></tbody></table></div>
 

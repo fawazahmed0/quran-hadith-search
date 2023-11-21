@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported Allah's Messenger (ﷺ) as saying:Telling of truth i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Hannad Bin As Sari] keduanya berkata; Telah menceritakan kepada kami [Abu Al Ahwash] dari [Manshur] dari [Abu Wail] dari ['Abdullah bin Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kejujuran itu adalah kebaikan. Dan kebaikan itu akan membimbing ke surga. Seseorang yang senantiasa berlaku jujur dan memelihara kejujuran, maka ia akan dicatat sebagai orang yang jujur di sisi Allah. Dan sesungguhnya dusta itu adalah kejahatan. Dan sesungguhnya kedustaan itu akan menggiring ke neraka. Seseorang yang memelihara kedustaan, maka ia akan dicatat sebagai pendusta di sisi Allah." Ibnu Abu Syaibah berkata dalam meriwayatkan Hadits tersebut; dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6638</td></tr><tr><td>Arabic No</td><td>2607.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6638</td></tr><tr><td>Arabic No</td><td>2607.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 135</td></tr></tbody></table></div>
 

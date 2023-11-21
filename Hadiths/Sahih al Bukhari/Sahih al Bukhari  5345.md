@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Um Salama:When Um Habiba bint Abi Sufyan was informed of he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Sufyan] dari [Abdullah bin Abu Bakr bin Amru bin Hazm] Telah menceritakan kepadaku [Humaid bin Nafi'] dari [Zainab binti Ummu Salamah] dari [Ummu Habibah binti Abu Sufyan] bahwa ketika berita kematian bapaknya sampai padanya, ia minta diambilnya wewangian dan berkata, "Aku tak berhajat untuk memakai wewangian sekiranya aku tak mendengar Nabi shallallahu 'alaihi wasallam bersabda: 'Tidak halal bagi seorang wanita yang beriman kepada Allah dan hari akhir untuk berkabung lebih dari tiga hari kecuali terhadap suaminya, maka ia berkabung selama empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5345</td></tr><tr><td>Arabic No</td><td>5345</td></tr><tr><td>Reference</td><td>Book 68 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейнаб бинт Аби Саляма, рассказывала: «Когда к Умм Хабибе, дочери Абу Суфьяна пришла новость о смерти отца, она велела принести жёлтые благовония и нанесла их себе на руки, а потом сказала: “Нет мне нужды в этих благовониях, однако я слышала, как Пророк ﷺ сказал: “Не дозволено женщине, верующей в Аллаха и в Последний день, соблюдать траур свыше трёх дней по кому-то, кроме мужа, — по нему она должна соблюдать траур четыре месяца и десять дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5345</td></tr><tr><td>Arabic No</td><td>5345</td></tr><tr><td>Reference</td><td>Book 68 Hadith 90</td></tr></tbody></table></div>
 

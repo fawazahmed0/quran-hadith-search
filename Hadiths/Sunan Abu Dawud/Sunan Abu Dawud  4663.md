@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hudhayfah: There is no one who will be overtaken by trial regarding who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Yazid] berkata, telah mengabarkan kepada kami [Hisyam] dari [Muhammad] ia berkata; [Hudzaifah] berkata, "Tidak seorang pun dari manusia yang menemui fitnah kecuali aku akan mencemaskannya, kecuali Muhammad bin Maslamah. Sungguh aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Fitnah tidak akan membahayakanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4663</td></tr><tr><td>Arabic No</td><td>4663</td></tr><tr><td>Reference</td><td>Book 42 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Хузайфа: «Для каждого человека боюсь я смуты, кроме Мухаммада ибн Масламы, ибо поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Смута не причинит тебе вреда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4663</td></tr><tr><td>Arabic No</td><td>4663</td></tr><tr><td>Reference</td><td>Book 42 Hadith 68</td></tr></tbody></table></div>
 

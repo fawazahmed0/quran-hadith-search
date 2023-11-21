@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hurairah (ra):I heard Allah's Messenger (ﷺ) saying, "An ant bit a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [A-Laits] dari [Yunus] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dan [Abu Salamah] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada semut yang menggigit seorang Nabi dari Nabi-Nabi terdahulu lalu Nabi itu memerintahkan agar membakar sarang semut-semut itu maka kemudian Allah mewahyukan kepadanya, firman-Nya: "Hanya karena gigitan sesekor semut makai kamu telah membakar suatu kaum yang bertasbih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3019</td></tr><tr><td>Arabic No</td><td>3019</td></tr><tr><td>Reference</td><td>Book 56 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “(Как-то раз) муравей укусил одного из пророков, и он велел сжечь муравейник, и Аллах ниспослал ему откровение: “Неужели из-за того, что тебя укусил муравей, ты сжёг одну из общин, прославлявшую (Аллаха)?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3019</td></tr><tr><td>Arabic No</td><td>3019</td></tr><tr><td>Reference</td><td>Book 56 Hadith 228</td></tr></tbody></table></div>
 

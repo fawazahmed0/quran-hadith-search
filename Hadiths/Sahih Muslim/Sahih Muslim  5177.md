@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ishaq b. Suwaid reported through the same chain of transmitters but for the diff
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu Ulayyah] telah menceritakan kepada kami [Ishaq bin Suwaid] dari [Mu'adzah] dari ['Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang Ad Duba, Al Hantam, An Naqir dan Al Muzaffat." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdul Wahhab At Tsaqafi] telah menceritakan kepada kami [Ishaq bin Suwaid] dengan isnad ini, hanya saja lafadz Al Muzaffat menjadi Al Muqayyar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5177</td></tr><tr><td>Arabic No</td><td>1995.06</td></tr><tr><td>Reference</td><td>Book 36 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5177</td></tr><tr><td>Arabic No</td><td>1995.06</td></tr><tr><td>Reference</td><td>Book 36 Hadith 51</td></tr></tbody></table></div>
 

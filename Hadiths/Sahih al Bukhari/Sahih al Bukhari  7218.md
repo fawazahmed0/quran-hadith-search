@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:It was said to 'Umar, "Will you appoint your succes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah mengabarkan kepada kami [Sufyan] dari [Hisyam bin Urwah] dari [ayahnya] dari [Abdullah bin Umar] radliallahu 'anhuma, ia mengatakan, [Umar] ditanya; 'mengapa engkau tidak mengangkat pengganti (untuk menjadi) khalifah? ' Umar menjawab; 'Kalaulah aku mengangkat pengganti (untuk menjadi) khalifah, sungguh orang yang lebih baik dari diriku Abu Bakar telah mengangkat pengganti (untuk menjadi) khalifah, dan kalaulah aku tinggalkan, orang yang lebih baik dari diriku juga telah meninggalkannya, yaitu Rasulullah Shallallahu'alaihiwasallam.' maka para sahabat memujinya, sehingga Umar mengatakan; 'Sungguh aku berharap-harap cemas, saya berharap sendainya aku selamat dari bahaya kekhilafahan ini dalam keadaan netral, tidak mendapat ganjaran, tidak juga mendapat dosa yang harus saya tanggung, baik ketika hidupku maupun kematianku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7218</td></tr><tr><td>Arabic No</td><td>7218</td></tr><tr><td>Reference</td><td>Book 93 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(Однажды) ‘Умара спросили: “Не назначишь ли ты преемника себе?” — на что он сказал: “Если я назначу его, то так поступил и тот, кто был лучше меня, (а именно — ) Абу Бакр, и если я не сделаю этого, то отказывался от этого и тот, кто был лучше меня, (а именно — ) Посланник Аллаха ﷺ”. Затем его похвалили, и он сказал: “Со страхом и надеждой я пожелал, чтобы это меня ни как не затронуло, ни за меня, ни против меня, ведь я не переношу (похвалу), будь то живым или мертвым”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7218</td></tr><tr><td>Arabic No</td><td>7218</td></tr><tr><td>Reference</td><td>Book 93 Hadith 78</td></tr></tbody></table></div>
 

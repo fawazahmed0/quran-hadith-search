@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':That 'Abdullah and Salim said to 'Abdullah bin 'Umar, "(You shoul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdurrahim] telah mengabarkan kepada kami [Abu Badar Suja'] dari ['Umar bin Muhammad Al 'Umariy] berkata; dan [Nafi'] telah menceritakan bahwa 'Abdullah dan Salim keduanya berbicara kepada ['Abdullah bin 'Umar radliallahu 'anhuma], maka dia ('Abdullah bin 'Umar radliallahu 'anhu) berkata: "Kami pernah keluar bersama Nabi shallallahu 'alaihi wasallam untuk melaksanakan 'umrah lalu orang-orang Kafir Quraisy menghalangi kami dari Baitullah. Maka Rasulullah shallallahu 'alaihi wasallam menyembelih hewan sembelihannya lalu mencukur rambut Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1812</td></tr><tr><td>Arabic No</td><td>1812</td></tr><tr><td>Reference</td><td>Book 27 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что ‘Абдуллах и Салим говорили с ‘Абдуллахом ибн ‘Умаром, да будет доволен Аллах им и его отцом, сказав ему: «Мы вышли в путь вместе с Пророком ﷺ для совершения ‘умры, но неверующие курайшиты преградили нам дорогу к Каабе. Тогда Посланник Аллаха ﷺ зарезал жертвенный скот и обрил голову»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1812</td></tr><tr><td>Arabic No</td><td>1812</td></tr><tr><td>Reference</td><td>Book 27 Hadith 7</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa b. al-Yaman reported:By Allah, I have the best knowledge amongst people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya At Tujibi] telah mengkhabarkan kepada kami [Ibnu Wahb] telah mengkhabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Abu Idris Al Khaulani] berkata: [Hudzaifah bin Al Yaman] berkata: Demi Allah, sesungguhnya aku adalah orang yang paling tahu tentang fitnah yang terjadi antara aku hingga kiamat. Itu karena Rasulullah Shallallahu 'alaihi wa Salam memberitahukan sesuatu tentang hal itu secara rahasia, beliau tidak menceritakannya pada selainku, tapi Rasulullah Shallallahu 'alaihi wa Salam bercerita tentang fitnah kepada majlis dimana aku berada disana, Rasulullah Shallallahu 'alaihi wa Salam bersabda, beliau menghitung fitnah-fitnah, diantaranya ada tiga fitnah yang hampir tidak meninggalkan apa pun, ada fitnah-fitnah seperti angin musim panas, ada yang kecil dan ada yang besar. Hudzaifah berkata: Lalu mereka pergi semua kecuali aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7262</td></tr><tr><td>Arabic No</td><td>2891.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7262</td></tr><tr><td>Arabic No</td><td>2891.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 28</td></tr></tbody></table></div>
 

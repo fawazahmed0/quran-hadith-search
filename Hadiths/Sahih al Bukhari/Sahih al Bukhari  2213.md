@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Allah's Messenger (ﷺ) gave preemption (to the partner) in every
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Mahmud] telah menceritakan kepada kami ['Abdur Razzaaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari [Abu Salamah] dari [Jabir radliallahu 'anhu]; Rasulullah shallallahu 'alaihi wasallam menjadikan Asy-Syuf'ah pada setiap harta yang belum dibagi. Apabila terdapat pembatas dan jalan yang terpisah maka tidak ada syuf'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2213</td></tr><tr><td>Arabic No</td><td>2213</td></tr><tr><td>Reference</td><td>Book 34 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира, да будет доволен им Аллах, что Посланник Аллаха ﷺ предоставлял преимущественное право покупки любого неделимого имущества (совладельцу), однако если границы и пути были размечены, то преимущественным правом покупки (совладелец имущества воспользоваться не мог)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2213</td></tr><tr><td>Arabic No</td><td>2213</td></tr><tr><td>Reference</td><td>Book 34 Hadith 159</td></tr></tbody></table></div>
 

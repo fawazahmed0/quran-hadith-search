@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "If anyone of you, when having sexua
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] Telah menceritakan kepada kami [Syaiban] dari [Manshur] dari [Salim bin Abul Ja'd] dari [Kuraib] dari [Ibnu Abbas] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sekiranya saat mereka mendatangi isterinya membaca: 'BISMILLAHI ALLAHUMMA JANNIBNISY SYAITHAANA WA JANNIBISY SYAITHAANA MA RAZAQTANAA.' Lalu mereka pun ditakdirkan mendapat keturunan dari hasil pergaulan itu, atau mereka dikaruniyai anak, maka ia tidak akan diganggu oleh syetan selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5165</td></tr><tr><td>Arabic No</td><td>5165</td></tr><tr><td>Reference</td><td>Book 67 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Если перед совершением полового сношения со своей женой любой (мусульманин) скажет: “С именем Аллаха, о Аллах, удали шайтана от меня и удали шайтана от того, чем Ты наделил нас! /Би-сми-Лляхи, Аллахумма, джанниб-ни-ш-шайтана ва джанниби-ш-шайтана ма разакта-на!/” — и если им было суждено иметь ребёнка, то шайтан уже никогда не сможет повредить ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5165</td></tr><tr><td>Arabic No</td><td>5165</td></tr><tr><td>Reference</td><td>Book 67 Hadith 100</td></tr></tbody></table></div>
 

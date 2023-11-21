@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Suwayd ibn Hanzalah: We went out intending (to visit) the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin Muhammad An Naqid] telah menceritakan kepada kami [Abu Ahmad Az Zubairi], telah menceritakan kepada kami [Israil] dari [Ibrahim bin Al A'la], dari [neneknya] dari [ayahnya yaitu Suwaid bin Hanzhalah], ia berkata; kami keluar menuju kepada Rasulullah shallallahu 'alaihi wasallam dan kami bersama Wail bin Hujr. Kemudian ia ditangkap musuhnya, kemudian orang-orang enggan untuk bersumpah, dan aku bersumpah bahwa ia adalah saudaraku, kemudian ia melepaskannya. Lalu kami datang kepada Rasulullah shallallahu 'alaihi wasallam dan mengabarkan kepadanya bahwa orang-orang enggan bersumpah, dan aku bersumpah bahwa ia adalah saudaraku. Beliau bersabda: "Engkau telah benar, seorang muslim adalah saudara muslim yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3256</td></tr><tr><td>Arabic No</td><td>3256</td></tr><tr><td>Reference</td><td>Book 22 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сабита ибн ад-Даххака, да будет доволен им Аллах, что он приносил Посланнику Аллаха ﷺ присягу под деревом и Посланник Аллаха ﷺ сказал: «Кто поклялся какой-нибудь религией, кроме ислама, ложно, тот таков, как он сам сказал, и кто убил себя посредством какого-то предмета, того будут мучить этим предметом в Судный день, и человек не должен соблюдать обет, связанный с тем, чем он не владеет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3256</td></tr><tr><td>Arabic No</td><td>3256</td></tr><tr><td>Reference</td><td>Book 22 Hadith 15</td></tr></tbody></table></div>
 

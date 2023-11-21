@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim:A woman from the offspring of Ja'far was afraid lest her guard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Al Qasim]; bahwa seorang wanita dari anak Ja'far merasa ketakutan (waswas) walinya menikahkannya sedang dia tidak suka, maka ia segera mengutus seseorang menemui dua syaikh dari kalangan anshar, [Abdurrahman] dan [Mujamma'], dua anak Jariyah. Maka keduanya berkata; janganlah khawatir, sebab Khansa' binti Khidzam pernah dinikahkan ayahnya sedang dia tidak suka, maka Nabi shallallahu 'alaihi wasallam menolak pernikahannya. [Sufyan] mengatakan; sedang [Abdurrahman] aku mendengarnya berkata; dari [ayahnya] dengan redaksi; Sesungguhnya Khansa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6969</td></tr><tr><td>Arabic No</td><td>6969</td></tr><tr><td>Reference</td><td>Book 90 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Касима (ибн Мухаммада ибн Абу Бакра ас-Сиддика) о том, что как-то одна женщина из числа детей Джа‘фара испугалась, что её опекун выдаст её замуж против её воли, и она отправила (человека спросить об этом) к двум старцам из числа ансаров: ‘Абдуррахману и Муджамми‘у — сыновьям Джарии, которые (в ответ) сказали: «Не бойся! Поистине, отец Хансаъ бинт Хизам выдал её замуж против её воли, и Пророк ﷺ расторг этот (брак)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6969</td></tr><tr><td>Arabic No</td><td>6969</td></tr><tr><td>Reference</td><td>Book 90 Hadith 16</td></tr></tbody></table></div>
 

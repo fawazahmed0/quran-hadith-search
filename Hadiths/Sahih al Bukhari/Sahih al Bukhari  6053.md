@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Usaid As-Sa'idi:The Prophet (ﷺ) said, "The best family among the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinnad] dari [Abu Salamah] dari [Abu Usaid As Sa'idi] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sebaik-baik pemukiman orang Anshar adalah pemukiman Bani Najjar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6053</td></tr><tr><td>Arabic No</td><td>6053</td></tr><tr><td>Reference</td><td>Book 78 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Усайда ас-Са‘иди, что Пророк ﷺ сказал: «Лучшие из семей ансаров — это бану ан-наджжар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6053</td></tr><tr><td>Arabic No</td><td>6053</td></tr><tr><td>Reference</td><td>Book 78 Hadith 83</td></tr></tbody></table></div>
 

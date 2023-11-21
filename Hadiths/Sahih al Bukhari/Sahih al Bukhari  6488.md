@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Paradise is nearer to any of you tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Musa bin Mas'ud] telah menceritakan kepada kami [Sufyan] dari [Manshur] dan [Al A'masy] dari [Abu Wail] dari [Abdullah] radliallahu 'anhu menuturkan, Nabi shallallahu 'alaihi wasallam bersabda: "Surga lebih dekat kepada salah seorang dari kalian daripada tali sandalnya, neraka juga seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6488</td></tr><tr><td>Arabic No</td><td>6488</td></tr><tr><td>Reference</td><td>Book 81 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха (ибн Мас‘уда), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Рай ближе к каждому из вас, чем ремни его сандалий, и столь же (близок к каждому) огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6488</td></tr><tr><td>Arabic No</td><td>6488</td></tr><tr><td>Reference</td><td>Book 81 Hadith 77</td></tr></tbody></table></div>
 

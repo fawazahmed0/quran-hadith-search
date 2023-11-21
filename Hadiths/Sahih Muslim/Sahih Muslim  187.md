@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira:I heard the Messenger of Allah sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] dia berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kebanggaan dan kesombongan ada pada kaum penggembala, yaitu kaum Badui, sedangkan ketenangan ada pada penggembala kambing (maksudnya penduduk Yaman)." Dan telah menceritakan kepada kami [Abdullah bin Abdurrahman ad-Darimi] telah mengabarkan kepada kami [Abu al-Yaman] telah mengabarkan kepada kami [Syu'aib] dari [az-Zuhri] dengan sanad ini semisalnya, dan dia menambahkan, "Iman itu ada pada orang Yaman, dan hikmah pada orang Yaman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>52.06</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Гордость и высокомерие свойственны громко кричащим (бедуинам-кочевникам), которые живут в палатках из шерсти, а спокойствием отличаются владельцы овец”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>52.06</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
 

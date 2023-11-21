@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Al-Harith:Once on a rainy muddy day, Ibn 'Abbas delivered
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad] dari [Ayyub] dan ['Abdul Hamid] sahabat Az Zayadi, dan ['Ashim Al Ahwal] dari ['Abdullah bin Al Harits] berkata, "Pada suatu hari ketika jalan penuh dengan air dan lumpur (becek) akibat hujan, [Ibnu 'Abbas] pernah menyampaikan khuthbah kepada kami. Ketika mu'adzin sampai pada ucapan: 'Hayya 'Alash shalaah (Marilah mendirikan shalat) ' ia perintahkan mu'adzin tersebut untuk menyerukan: 'Shalatlah di tempat tinggal masing-masing'. Lalu orang-orang saling memandang satu sama lain karena heran. Maka Abdullah bin Al Harits pun berkata, "Hal yang demikian ini pernah dilakukan oleh orang yang lebih baik darinya, dan itu merupakan kewajiban Mu'akkad (yang ditekankan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>616</td></tr><tr><td>Arabic No</td><td>616</td></tr><tr><td>Reference</td><td>Book 10 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аль-Харис сказал: «(Однажды) днём, когда (на улице) была грязь и слякоть, Ибн ‘Аббас обращался к нам с проповедью, и когда муаззин дошёл до слов “Спешите на молитву /Хаййа ‘аля-с-саля/”, он велел ему воззвать: “Молитва в (своих) домах /ас-Саляту фи-р-рихаль/”. И когда люди посмотрели друг на друга (из-за этих слов), он сказал: “Это делал тот, кто был лучше него! Поистине, он является обязательным”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>616</td></tr><tr><td>Arabic No</td><td>616</td></tr><tr><td>Reference</td><td>Book 10 Hadith 14</td></tr></tbody></table></div>
 

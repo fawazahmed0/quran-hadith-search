@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl (bin Sa'd):The distance between the Musalla of Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Zurarah] berkata, telah mengabarkan kepada kami ['Abdul 'Aziz bin Abu Hazim] dari [Bapaknya] dari [Sahl bin Sa'd] berkata, "Jarak antara tempat shalat Rasulullah shallallahu 'alaihi wasallam dengan dinding (pembatas) adalah selebar untuk jalan kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль, да будет доволен им Аллах, сказал: «Между тем местом, на котором во время молитвы находился Посланник Аллаха ﷺ и стеной оставалось (расстояние, достаточное для того, чтобы там могла) пройти овца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
 

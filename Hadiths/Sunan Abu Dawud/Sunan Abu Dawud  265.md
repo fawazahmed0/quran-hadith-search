@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:If one has intercourse in the beginning of the menses,(one sho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdus Salam bin Muthahhir] telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [Ali bin Al-Hakam Al-Bunani] dari [Abu Al-Hasan Al-Jazari] dari [Miqsam] dari [Ibnu Abbas] dia berkata; Apabila sang suami menyetubuhinya pada waktu keluar darah, maka dia harus membayar satu dinar, namun apabila dia menyetubuhinya pada waktu terputusnya darah, maka dia harus membayar setengah dinar. Abu Dawud berkata; Demikian pula dikatakan oleh [Ibnu Juraij] dari [Abdul Karim] dari [Miqsam]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>265</td></tr><tr><td>Reference</td><td>Book 1 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Если он совокупится с ней в начальный период менструаций, пусть раздаст (в качестве милостыни) динар. А если совокупится с ней в конце, то пусть раздаст полдинара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>265</td></tr><tr><td>Reference</td><td>Book 1 Hadith 265</td></tr></tbody></table></div>
 

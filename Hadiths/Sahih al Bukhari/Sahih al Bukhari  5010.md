@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) ordered me to guard the Zakat reven
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Syu'bah] dari [Sulaiman] dari [Ibrahim] dari [Abdurrahman] dari [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang membaca dua ayat.." Dan Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Abu Mas'ud] radliallahu 'anhu ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang membaca dua ayat terakhir dari surat Al Baqarah pada suatu malam, niscaya kedua ayat itu akan mencukupinya." Utsmana bin Al Haitsam berkata; Telah menceritakan kepada kami 'Auf dari Muhammad bin Sirin dari Abu Hurairah radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam menugaskanku untuk menjaga harta zakat. Lalu pada suatu hari ada seseorang yang menyusup hendak mengambil makanan, maka aku pun menyergapnya seraya berkata, "Aku benar-benar akan menyerahkanmu kepada Rasulullah shallallahu 'alaihi wasallam.." lalu ia bercerita dan berkata, "Jika kamu hendak beranjak ke tempat tidur maka bacalah ayat kursi, niscaya Allah akan senantiasa menjagamu dan syetan tidak akan mendekatimu hingga pagi." Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Ia telah berkata benar padamu, padahal ia adalah pendusta. Si penyusup tadi sebenarnya adalah syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5010</td></tr><tr><td>Arabic No</td><td>5010</td></tr><tr><td>Reference</td><td>Book 66 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, рассказал: «(Однажды) Посланник Аллаха ﷺ поручил мне охранять закят, (собранный в месяце) рамадан, а (через некоторое время) ко мне пришёл (какой-то человек,) который принялся пригоршнями набирать себе еду. Я сказал: “Я непременно отведу тебя к Посланнику Аллаха ﷺ!”».\nДалее он рассказал всю историю, в конце которой тот человек сказал: «Когда будешь ложиться спать, читай Аят Трона /Аяту-ль-Курси/, (и если ты станешь делать это,) с тобой будет хранитель от Аллаха, а шайтан не (сможет) приблизиться к тебе до самого утра!» (Выслушав этот рассказ,) Пророк ﷺ сказал: «Он действительно сказал тебе правду (, несмотря) на то, что он — отъявленный лжец! Это (был) шайтан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5010</td></tr><tr><td>Arabic No</td><td>5010</td></tr><tr><td>Reference</td><td>Book 66 Hadith 32</td></tr></tbody></table></div>
 

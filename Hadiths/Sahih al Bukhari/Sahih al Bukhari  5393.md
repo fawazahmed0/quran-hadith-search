@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar never used to take his meal unless a poor man was calle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Abdush Shamad] Telah menceritakan kepada kami [Syu'bah] dari [Waqid bin Muhammad] dari [Nafi'] ia berkata; Biasanya [Ibnu Umar] tidak makan hingga didatangnya kepadanya seorang miskin lalu makan bersamanya. Maka aku pun memasukkan seorang laki-laki untuk makan bersamanya, lalu laki-laki itu makan banyak, maka ia pun berkata, "Wahai Nafi', jangan kamu masukkan orang ini. sesungguhnya aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Seorang mukmin itu makan dengan satu usus, sedangkan orang kafir makan dengan tujuh usus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5393</td></tr><tr><td>Arabic No</td><td>5393</td></tr><tr><td>Reference</td><td>Book 70 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, никогда не садился есть, пока к нему не приводили какого-нибудь бедняка, который разделял с ними трапезу. Нафи‘, передававший хадисы с его слов, сказал:\n— (Однажды) я привёл с собой какого-то человека, чтобы он поел вместе с ним, и (этот человек) ел очень много, а потом (Ибн ‘Умар, да будет доволен Аллах ими обоими,) сказал: «О Нафи‘, больше не приводи ко мне этого (человека, ибо) я слышал, как Пророк ﷺ сказал: “Верующий наполняет одну кишку, а неверный — семь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5393</td></tr><tr><td>Arabic No</td><td>5393</td></tr><tr><td>Reference</td><td>Book 70 Hadith 21</td></tr></tbody></table></div>
 

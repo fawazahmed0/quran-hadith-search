@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) went out along with a group of his c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Abu Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah keluar bersama sekelompok orang dari sahabatnya menuju Pasar 'Ukazh. Sedangkan para setan telah dihalangi untuk mencuri berita langit. Bahkan, mereka dilempari dengan bintang (meteor) dan mereka pun kembali. Maka mereka (sahabat setan) pun bertanya, "Ada apa dengan kalian?" Mereka menjawab, "Kami telah dihalangi untuk mencuri berita langit. Dan kami juga dilempari dengan bintang (meteor)." Mereka berkata, "Tidaklah kalian dihalangi untuk mencuri berita langit kecuali karena suatu kejadian. Karena itu, cermatilah ke seluruh penjuru bumi dari barat dan timur, lihatlah peristiwa apa yang sebenarnya telah terjadi." Akhirnya mereka pun pergi menelusuri penjuru bumi, barat dan timur guna melihat peristiwa apa yang telah terjadi sehingga menghalangi antara mereka dan berita langit. Mereka berjalan ke arah Tihamah menuju Rasulullah shallallahu 'alaihi wasallam yang sedang berada pada sebatang pohon kurma hendak menuju ke pasar 'Ukazh. Saat itu, beliau sedang shalat Fajar (Shalat subuh) bersama para sahabatnya. Maka ketika para setan mendengar Al Qur'an, mereka pun menyimaknya dan berkata, "Inilah yang menghalangi antara kalian dan berita langit." Akhirnya mereka kembali kepada kaumnya dan berkata, "Wahai kamu kami (Sesungguhnya kami telah mendengar Al Qur'an yang begitu menakjubkan, yang memberi petunjuk kepada jalan yang benar, hingga kami pun beriman kepadanya dan kami tidak akan menyekutukan Rabb kami dengan sesuatu apa pun)." (QS. Aljin 1-2). Dan Allah 'azza wajalla pun menurunkan wahyu kepada Nabi-Nya shallallahu 'alaihi wasallam, "Katakanlah: 'Telah diwahyukan kepadaku, bahwasanya sekelompok jin telah mendengarkan (Al Qur'an).'" (QS. Aljin 1). Yang diwahyukan kepada beliau adalah perkataan Jin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4921</td></tr><tr><td>Arabic No</td><td>4921</td></tr><tr><td>Reference</td><td>Book 65 Hadith 441</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Посланник Аллаха ﷺ вместе с группой своих сподвижников двинулся в путь, намереваясь посетить ярмарку в ‘Укáзе. (В то время) шайтанам был преграждён доступ к известиям с небес, и (некоторые из них) были поражены небесным огнём. Тогда шайтаны вернулись к своему народу, и (их) спросили: “Что с вами?” Они сказали: “(Что-то) преградило нам доступ к известиям с небес, и мы были поражены небесным огнём”. (Им) сказали: “Преградой между вами и известиями с небес могло стать только что-то новое, отправляйтесь же на восток и на запад земли и посмотрите, что помешало вам (узнавать эти) известия”. И те из них, что направились в сторону Тихамы, (прошли рядом) с Посланником Аллаха ﷺ, который направлялся на рынок в ‘Укáзе и совершавшим в это время утреннюю молитву вместе со своими сподвижниками в Нахле. И когда они услышали (чтение) Корана, они стали прислушиваться к нему и (стали) говорить: “Это то, что преградило вам доступ к известиям с небес!” — а потом, когда они вернулись к своему народу, они сказали: “О народ наш! Воистину, мы слышали удивительный Коран. Он наставляет на прямой путь, и мы уверовали в него и не будем приобщать сотоварищей к нашему Господу”, после чего Аллах ниспослал Своему Пророку ﷺ (аят, в котором говорится): «Скажи: “Внушено мне откровением (от Аллаха)…”» И ему действительно было ниспослано в откровении (содержание) разговоров джиннов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4921</td></tr><tr><td>Arabic No</td><td>4921</td></tr><tr><td>Reference</td><td>Book 65 Hadith 441</td></tr></tbody></table></div>
 

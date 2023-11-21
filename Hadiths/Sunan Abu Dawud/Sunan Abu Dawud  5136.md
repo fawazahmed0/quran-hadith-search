@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) wrote a letter to Heraclius: "Fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Muhammad bin yahya] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Az Zuhri] dari [Ubaidullah bin Abdullah bin Utbah] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam pernah menulis surat kepada Hiraklius yang berbunyi 'Dari Muhammad shallallahu 'alaihi wasallam kepada Hiraklius pembesar Ramawi; keselamatan bagi yang mengikuti petunjuk'." [Ibnu Yahya] berkata dari [Ibnu Abbas] bahwa [Abu Sufyan] memberitahunya, ia berkata; "kami menemui Heraklius lalu dia mempersilahkan kami duduk di depannya, kemudian ia meminta surat Rasulullah shallallahu 'alaihi wasallam dan ternyata di dalamnya tertulis "bismillah (dengan menyebut nama Allah) dari Muhammad utusan Allah kepada Heraklius pembesar Romawi, keselamatan bagi siapa saja yang mengikuti petunjuk, amma ba'du (adapun sesudahnya aku katakan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7) Sahih Muslim (1773)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5136</td></tr><tr><td>Arabic No</td><td>5136</td></tr><tr><td>Reference</td><td>Book 43 Hadith 364</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7) Sahih Muslim (1773)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5136</td></tr><tr><td>Arabic No</td><td>5136</td></tr><tr><td>Reference</td><td>Book 43 Hadith 364</td></tr></tbody></table></div>
 

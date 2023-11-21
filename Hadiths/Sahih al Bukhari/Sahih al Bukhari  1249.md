@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The women requested the Prophet, "Please fix a day for us." S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Abdurrahman bin Al Ashbahaaniy] dari [Dzakwan] dari [Abu Sa'id] radliallahu 'anhu bahwa para wanita pernah berkata, kepada Nabi shallallahu 'alaihi wasallam; "Sediakanlah satu hari untuk kami!". Maka kemudian Beliau memberikan pelajaran untuk mereka dan diantaranya bersabda: "Siapa saja dari wanita yang ditinggal mati oleh tiga orang anaknya melainkan mereka akan menjadi hijab (pembatas) dari api neraka". Seorang wanita berkata: "Bagaimana kalau ditinggal mati oleh dua orang anak? Beliau menjawab: "Dan juga oleh dua orang". Dan berkata, [Syarik] dari [Al Ashbahaaniy] telah menceritakan kepada saya [Abu Shalih] dari [Abu Sa'id] dan [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam. Berkata, Abu Hurairah radliallahu 'anhu: "Bila mereka belum baligh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1249</td></tr><tr><td>Arabic No</td><td>1249</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, сказал: «(Однажды) женщины сказали Пророку ﷺ: “Выдели для нас (особый) день!” (Он выделил для них такой день, с наступлением которого встретился с ними) и стал наставлять их. Он сказал им: “Для любой из вас, у которой умрут трое её детей, они обязательно послужат защитой от огня”. Одна женщина спросила: “А (если их будет) двое?” Он ответил: “И двое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1249</td></tr><tr><td>Arabic No</td><td>1249</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

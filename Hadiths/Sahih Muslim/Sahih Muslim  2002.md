@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar and Abu Huraira said that they heard Allah's Messenger (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Al Hasan bin Ali Al Hulwani] telah menceritakan kepada kami [Abu Taubah] telah menceritakan kepada kami [Mu'awiyah] yaitu Ibnu Sallam dari [Zaid] yakni saudaranya, bahwa ia mendengar [Abu Sallam] ia berkata, telah menceritakan kepadaku [Al Hakam bin Mina'] bahwa [Abdullah bin Umar] dan [Abu Hurairah] keduanya telah menceritakan kepadanya, bahwa keduanya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda di atas mimbarnya: "Hendaklah orang yang suka meninggalkan shalat Jum'at menghentikan perbuatannya, ataukah mereka ingin Allah membutakan hati mereka, dan sesudah itu mereka benar-benar menjadi orang yang lalai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2002</td></tr><tr><td>Arabic No</td><td>865</td></tr><tr><td>Reference</td><td>Book 7 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Хакам ибн Мина передал со слов ‘Абдуллаха ибн ‘Умара и Абу Хурайры, что они слышали, как Посланник Аллаха ﷺ, (стоявший) на своём деревянном минбаре, сказал: «Либо люди прекратят пропускать пятничные молитвы, либо Аллах запечатает их сердца, после чего они непременно окажутся в числе беспечных»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2002</td></tr><tr><td>Arabic No</td><td>865</td></tr><tr><td>Reference</td><td>Book 7 Hadith 52</td></tr></tbody></table></div>
 

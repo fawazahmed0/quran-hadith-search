@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Usamah bin Zaid said:The Apostle of Allaah(ﷺ) returned from ‘Arafah. When he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Musa bin 'Uqbah] dari [Kuraib] mantan budak Abdullah bin Abbas, dari [Usamah bin Zaid] bahwa ia mendengarnya berkata; Rasulullah shallAllahu wa'alaihi wa sallam bertolak dari 'Arafah hingga ketika sampai di jalan bukit, beliau turun dan buang air kecil lalu berwudhu, dan beliau tidak melebihkan wudhu. Aku katakan kepada beliau; Shalat! Beliau mengatakan: Shalat ada di depanmu. Kemudian beliau naik kendaraan dan tatkala telah sampai di Muzdalifah beliau turun dan berwudhu dan tidak melebihkan wudhunya. Kemudian didirikan shalat dan beliau melakukan shalat Maghrib, kemudian setiap orang menderumkan untanya di tempat persinggahannya, kemudian didirikan Shalat Isya', lalu beliau melaksanakan shalat tersebut dan tidak melakukan shalat apapun diantara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan Sahih Bukhari (1672) Sahih Muslim (1280 After 1285)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1925</td></tr><tr><td>Arabic No</td><td>1925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Усама ибн Зейд, да будет доволен Аллах им и его отцом, передаёт: «Уезжая с ‘Арафата, Посланник Аллаха ﷺ доехал до ущелий, спустился, помочился и совершил омовение, но не тщательное. Я сказал ему: “Молитва!” Посланник Аллаха ﷺ сказал: “Молитва впереди”. И он сел в седло и отправился в путь. Добравшись до Муздалифы, Посланник Аллаха ﷺ спустился на землю и совершил тщательное омовение, после чего было объявлено о начале молитвы и он совершил закатную молитву (магриб). После этого каждый человек поставил своего верблюда на колени на том месте, где остановился, а потом было объявлено о начале вечерней молитвы (‘иша) и он совершил молитву. И он не совершал между ними никакой молитвы».Аш-Шарид [ибн Сувайд], да будет доволен им Аллах, передаёт: «Я уходил вместе с Посланником Аллаха ﷺ и его ноги не касались земли, пока он не приехал в Муздалифу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan Sahih Bukhari (1672) Sahih Muslim (1280 After 1285)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1925</td></tr><tr><td>Arabic No</td><td>1925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 205</td></tr></tbody></table></div>
 

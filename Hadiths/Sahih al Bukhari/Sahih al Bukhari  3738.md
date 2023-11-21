@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:If a man saw a dream during the lifetime of the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Nashr] telah bercerita kepada kami ['Abdur Razzaq] dari [Ma'mar] dari [Az Zuhriy] dari [Salim] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; "; "Seseorang pada masa hidup Nabi shallallahu 'alaihi wasallam bila bermimpi, biasanya dia menceritakannya kepada Rasulullah shallallahu 'alaihi wasallam. Aku pun berharap bermimpi hingga aku dapat mengisahkannya kepada Rasulullah shallallahu 'alaihi wasallam. Saat itu aku masih remaja. Pada suatu hati di zaman Rasulullah shallallahu 'alaihi wasallam aku tidur di masjid, lalu aku bermimpi ada dua malaikat memegangku lalu membawaku ke dalam neraka, aku melihat neraka yang teryata ada lubang besar bagaikan lubang sumur (atau jurang). Neraka memiliki tanduk dan aku melihat di dalamnya ada orang-orang yang sebelumnya aku sudah mengenal mereka. Karena melihat mereka membuat aku berkata; "Aku berlindung kepada Allah dari neraka" Dia berkata; "Kemudian kami berjumpa dengan malaikat lain lalu yang berpesan kepadaku; "Janganlah kamu takut". Kemudian aku ceritakan mimpiku itu kepada Hafshah, lalu Hafshah menceritakannya kepada Rasulullah shallallahu 'alaihi wasallam. Maka Beliau pun bersabda: "Sungguh 'Abdullah (bin "Umar) adalah seorang yang beruntung (bahagia) bila dia mendirikan shalat malam". Setelah peristiwa ini 'Abdullah bin 'Umar tidak tidur malam kecuali sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3738</td></tr><tr><td>Arabic No</td><td>3738</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Когда при жизни Пророка ﷺ кто-либо видел сон, он обычно рассказывал его Пророку ﷺ, и я тоже захотел увидеть что-нибудь во сне, чтобы рассказать ему об этом. При жизни Пророка ﷺ я был неженатым юношей и часто оставался спать в мечети. (Однажды) я увидел во сне, как два ангела схватили меня и подвели к огню. Со всех сторон (этот огонь) был обложен камнями подобно колодцу, по бокам у него стояли два столба, а в огне находились люди, которых я знал, и тогда я стал повторять: “Прибегаю к защите Аллаха от огня! /А‘узу би-Лляхи мин ан-нар!/” А потом нас повстречал другой ангел, который сказал мне: “Не бойся!” И я рассказал об этом сне Хафсе
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3738</td></tr><tr><td>Arabic No</td><td>3738</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

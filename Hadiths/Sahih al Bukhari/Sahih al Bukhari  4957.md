@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) returned to Khadija and said, "Wrap me! Wrap me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] ia berkata; Aku mendengar [Urwah] berkata; [Aisyah] radliallahu 'anha berkata; Kemudian, Nabi shallallahu 'alaihi wasallam pun kembali kepada Khadijah seraya berkata, "Selimutilah aku, selimutilah aku." Lalu ia pun menyebutkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4957</td></tr><tr><td>Arabic No</td><td>4957</td></tr><tr><td>Reference</td><td>Book 65 Hadith 479</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «Тогда Пророк ﷺ вернулся к Хадидже (домой), и сказал: “Укройте меня, укройте меня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4957</td></tr><tr><td>Arabic No</td><td>4957</td></tr><tr><td>Reference</td><td>Book 65 Hadith 479</td></tr></tbody></table></div>
 

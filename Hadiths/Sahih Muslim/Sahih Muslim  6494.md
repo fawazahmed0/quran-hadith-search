@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported Allah's Messenger (ﷺ) as saying:You would soon conquer Egyp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan ['Ubaidullah bin Sa'id] keduanya berkata; Telah menceritakan kepada kami [Wahb bin Jarir]; Telah menceritakan kepada kami [Bapakku]; Aku mendengar [Harmalah Al Mishri] bercerita dari ['Abdur Rahman bin Syimamah] dari [Abu Bashrah] dari [Abu Dzar] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Sesungguhnya kamu sekalian (kaum Muslimin) pasti akan dapat menaklukkan negeri Mesir, yaitu suatu wilayah yang terkadang dinamakan Al Qirath. Apabila kalian telah dapat menguasai negeri Mesir, maka berbuat baiklah kepada para penduduknya! Karena, bagaimanapun, mereka memiliki hak untuk dilindungi, sebagaimana kaum kafir dzimmi ataupun karena hubungan tali saudara (atau sebagai dzimmi dan hubungan keluarga dari jalur pernikahan). Apabila kalian melihat dua orang yang sedang bertikai di Mesir pada lokasi batu bata, maka keluarlah dari tempat itu! ' Abu Dzar berkata; 'Ternyata saya melihat Abdurrahman bin Syurahbil bin Hasanah dan saudaranya yang laki-laki, yaitu Rabi'ah sedang bertengkar di tempat batu bata, maka saya pun keluar dan tempat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6494</td></tr><tr><td>Arabic No</td><td>2543.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 323</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6494</td></tr><tr><td>Arabic No</td><td>2543.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 323</td></tr></tbody></table></div>
 

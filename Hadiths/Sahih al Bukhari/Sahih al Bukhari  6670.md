@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Buhaina:Once Allah's Messenger (ﷺ) led us in prayer, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kami [Ibnu Abi dzi'b] dari [Az Zuhri] dari [Al A'raj] dari [Abdullah bin Buhainah], ia menuturkan; Nabi shallallahu 'alaihi wasallam shalat mengimami kami dan berdiri setelah dua rakaat pertama sebelum duduk, beliau teruskan shalatnya. Selesai beliau mendirikan shalatnya, para sahabat menunggu-nunggu beliau mengucapkan salam, tetapi beliau bertakbir dan sujud sebelum salam, kemudian beliau angkat kepalanya kemudian bertakbir dan bersujud, kemudian beliau mengangkat kepalanya dan mengucapkan salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6670</td></tr><tr><td>Arabic No</td><td>6670</td></tr><tr><td>Reference</td><td>Book 83 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Бухайна, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ совершил с нами молитву, и прежде чем сесть, он встал после совершения двух рак‘атов и продолжил совершение молитвы. Когда он закончил молиться и люди ожидали слов приветствия, он сначала произнёс такбир и совершил земной поклон до произнесения приветствия. Потом он поднял голову, затем возвеличил Аллаха и совершил земной поклон. Потом он поднял голову и произнёс приветствие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6670</td></tr><tr><td>Arabic No</td><td>6670</td></tr><tr><td>Reference</td><td>Book 83 Hadith 48</td></tr></tbody></table></div>
 

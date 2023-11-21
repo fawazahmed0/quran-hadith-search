@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "In a dream I saw myself migrating fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3622</td></tr><tr><td>Arabic No</td><td>3622</td></tr><tr><td>Reference</td><td>Book 61 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, что Пророк ﷺ сказал: «(Однажды) мне приснилось, что я переселяюсь из Мекки на землю, где (растут) финиковые пальмы, и я подумал, что (этой землёй будет) Ямама или Хаджар, но оказалось, что это — Медина, (то есть) Ясриб. В том же сне я видел, как потряс меч, после чего его передняя часть обломилась, — и оказалось, (что это было указанием на то,) что постигло верующих, (которые погибли в битве при) Ухуде. После этого я потряс этот меч ещё раз, и он вернулся в состояние лучшее, чем был до этого, — и оказалось, что это было указанием на победу, дарованную Аллахом и объединению верующих. Так же во сне я видел коров, — благом же (является то, что делает) Аллах, — и, оказалось, (что этот сон был указанием на) тех верующих, (которые погибли в битве при) Ухуде. Благом же стало то, что Аллах даровал потом, из добра и правдивой награды, дарованной нам Аллахом после дня Бадра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3622</td></tr><tr><td>Arabic No</td><td>3622</td></tr><tr><td>Reference</td><td>Book 61 Hadith 128</td></tr></tbody></table></div>
 

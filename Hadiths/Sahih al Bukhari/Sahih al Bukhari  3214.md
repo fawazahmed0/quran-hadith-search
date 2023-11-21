@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:as below. Narrated Humaid bin Hilal: Anas bin Malik said, "As if 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Jarir]. Dan diriwayatkan pula, telah bercerita kepadaku [Ishaq] telah mengabarkan kepada kami [Wahb bin Jarir] telah bercerita kepada kami [bapakku] berkata aku mendengar [Humaid bin Hilal] dari [Anas bin Malik radliallahu 'anhu] berkata; "Aku seolah melihat debu-debu berkilauan di lorong-lorong jalan suku Bani Ghanmin". Musa menambahkan; "Ini merupakan bukti keterlibatan Jibril 'alaihissalam dalam perang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>3214</td></tr><tr><td>Reference</td><td>Book 59 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Как будто я и сейчас вижу облако пыли, поднятое в переулке бану ганм». \nМуса (передатчик хадиса) добавил: «Это была конница Джибриля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>3214</td></tr><tr><td>Reference</td><td>Book 59 Hadith 25</td></tr></tbody></table></div>
 

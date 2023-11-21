@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:There passed a bier (being carried by people) and it was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ali bin Hujr As Sa'di] semuanya dari [Ibnu Ulayyah] -sedangkan lafazhnya milik Yahya- telah mengabarkan kepada kami [Abdul Aziz bin Shuhaib] dari [Anas bin Malik] ia berkata; Suatu ketika iringan jenazah lewat di hadapan Rasulullah shallallahu 'alaihi wasallam, mayit itu dipuji dengan kebaikan, maka beliau pun bersabda: "Telah wajib baginya, telah wajib baginya, telah wajib baginya." Kemudian lewatlah iringan jenazah lain di hadapan beliau, namun mayat itu dicaci dengan keburukan, maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Telah wajib baginya, telah wajib baginya, telah wajib baginya." Maka Umar berkata, "Ibu dan ayahku menjadi tebusan bagimu, telah lewat iringan jenazah lalu mayit itu dipuji dengan kebaikan kemudian Anda mengatakan: 'Telah wajib baginya, telah wajib baginya, telah wajib baginya.' Setelah itu, lewatlah jenazah lain, dan mayit itu dicaci dengan keburukan lalu Anda pun mengatakan: 'Telah wajib baginya, telah wajib baginya, telah wajib baginya.'" Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Siapa yang telah kalian puji dengan kebaikan, maka telah wajib baginya surga. Dan siapa yang telah kalian cela dengan keburukan, maka telah wajib pula baginya neraka. Kalian adalah Syuhada'ullahi (para saksi Allah) di muka bumi, kalian adalah Syuhada'ullahi (para saksi Allah) di muka bumi." Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad] yakni Ibnu Zaid -dalam jalur lain- Dan telah menceritakan kepadaku [Yahya bin Yahya] telah mengabarkan kepada kami [Ja'far bin Sulaiman] keduanya dari [Tsabit] dari [Anas] ia berkata; Suatu ketika iringan jenazah lewat di hadapan Rasulullah shallallahu 'alaihi wasallam. Ia pun menyebutkan makna hadits Abdul Aziz, dari Anas. Hanya saja haditsnya Abdul Aziz lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2200</td></tr><tr><td>Arabic No</td><td>949.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды, когда мимо нас) пронесли носилки с покойником, и (люди) отозвались о нём хорошо, Пророк Аллаха ﷺ сказал: “Стало обязательным! Стало обязательным! Стало обязательным!” Затем пронесли (другие) носилки с покойником, (но на этот раз) люди стали отзываться о покойном плохо, и Пророк Аллаха ﷺ (снова) сказал: “Стало обязательным! Стало обязательным! Стало обязательным!” Тогда ‘Умар сказал: “Да станут отец мой и мать выкупом за тебя! (Когда) пронесли первые носилки с покойником и (люди) отозвались о нём хорошо, ты сказал: ‹Стало обязательным! Стало обязательным! Стало обязательным!› Потом пронесли другие носилки с покойником, и (люди стали) отзываться о нём плохо, (но ты снова) сказал: ‹Стало обязательным! Стало обязательным! Стало обязательным!›”. (В ответ ему) Посланник Аллаха ﷺ сказал: “Тому, о ком вы отзывались хорошо, стал обязательным Рай, тому же, о ком вы отзывались плохо, стал обязательным (Адский) Огонь. Вы свидетели Аллаха на земле, вы свидетели Аллаха на земле, вы свидетели Аллаха на земле!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2200</td></tr><tr><td>Arabic No</td><td>949.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 78</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub], [Qutaibah bin Sa'id] dan [Ali bin Hujr As Sa'di] mereka berkata: Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Al Ala'] dari [ayahnya] dari [Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Menguap itu dari setan, bila salah seorang dari kalian menguap hendaklah menahannya semampunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7490</td></tr><tr><td>Arabic No</td><td>2994</td></tr><tr><td>Reference</td><td>Book 55 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7490</td></tr><tr><td>Arabic No</td><td>2994</td></tr><tr><td>Reference</td><td>Book 55 Hadith 73</td></tr></tbody></table></div>
 

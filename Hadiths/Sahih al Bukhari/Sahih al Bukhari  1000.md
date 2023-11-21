@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) used to offer (Nawafil) prayers on his Rahi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Juwairiyyah bin Asma'] dari [Nafi'] dari [Ibnu 'Umar] berkata, "Jika Nabi shallallahu 'alaihi wasallam dalam perjalanan, maka beliau mengerjakan shalat di atas tunggangannya kemana saja hewan itu menghadap, beliau mengerjakannya dengan isyarat, kecuali shalat fardlu. Dan beliau juga mengerjakan shalat witir di atas kendaraannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Пророк ﷺ находясь в пути, совершал ночную молитвы, сидя верхом на своей верблюдице, направляясь в ту сторону, куда она обращалась, наклоняя при этом свою голову [вместо поясных и земных поклонов], но обязательные молитвы (он так не совершал). И он совершал витр сидя на ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
 

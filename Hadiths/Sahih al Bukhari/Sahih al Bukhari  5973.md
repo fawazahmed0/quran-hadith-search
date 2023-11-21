@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) said. "It is one of the grea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ayahnya] dari [Humaid bin Abdurrahman] dari [Abdullah bin 'Amru] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya termasuk dari dosa besar adalah seseorang melaknat kedua orang tuanya sendiri, " beliau ditanya; "Kenapa hal itu bisa terjadi wahai Rasulullah?" beliau menjawab: "Seseorang mencela (melaknat) ayah orang lain, kemudian orang tersebut membalas mencela ayah dan ibu orang yang pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5973</td></tr><tr><td>Arabic No</td><td>5973</td></tr><tr><td>Reference</td><td>Book 78 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Амра, да будет доволен Аллах ими обоими, что (однажды) Посланник Аллаха ﷺ сказал: «Поистине, проклиная своих родителей, человек совершает один из тягчайших грехов!» (Люди) спросили: «О Посланник Аллаха, как же (может) человек проклинать собственных родителей?» Он сказал: «(Так может получиться, если) станет он поносить отца (другого) человека, а тот примется ругать его отца, и (если) станет он поносить мать (другого) человека, а тот примется ругать его мать!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5973</td></tr><tr><td>Arabic No</td><td>5973</td></tr><tr><td>Reference</td><td>Book 78 Hadith 4</td></tr></tbody></table></div>
 

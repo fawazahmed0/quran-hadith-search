@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said Talbiyah uttered by the Apostle of Allaah(ﷺ) was Labbaik(alwa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa talbiyah Rasulullah shallAllahu wa'alaihi wa sallam adalah: "LABBAIKALLAAHUMMA LABBAIK, LABBAIKA LAA SYARIIKALAKA LABBAIK, INNAL HAMDA WAN NI'MATA LAKA WAL MULKA LAA SYARIIKALAK (aku memenuhi seruanMu ya Allah, aku memenuhi seruanMu, tidak ada sekutu bagiMu, aku memenuhi seruanMu. Sesunggguhnya segala puji dan kenikmatan, serta seluruh kerajaan adalah milikMu, tidak ada sekutu bagiMu). Nafi' berkata; dan Abdullah bin Umar menambahkan dalam talbiyah; LABBAIKA, LABBAIKA, LABBAIK, WA SA'DAIK, WAL KHAIRU BIYADAIK, WAR RAGHBU ILAIKA WAL 'AMALU (aku memenuhi seruanMu, aku memenuhi seruanMu, aku memenuhi seruanMu, dan dalam rangka untuk menyenangkanMu, segala kebaikan ada di tanganMu, harapan dan amalan tertuju kepadaMu). Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Yahya bin Sa'id], telah menceritakan kepada Kami [Ja'far], telah menceritakan kepada Kami [ayahku] dari [Jabir bin Abdullah], ia berkata; dan orang-orang menambahkan kata; Dzal ma'arij, dan semisalnya. Sedang Nabi shallallahu 'alaihi wasallam mendengar dan tidak mengatakan sesuatupun kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1549) Sahih Muslim (1184)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1812</td></tr><tr><td>Arabic No</td><td>1812</td></tr><tr><td>Reference</td><td>Book 11 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ произносил тальбию следующим образом: «Вот я перед Тобой, о Аллах, вот я перед Тобой, вот я перед Тобой, нет у Тебя сотоварища, вот я перед Тобой, поистине, хвала Тебе, и милость принадлежит Тебе, и владычество, нет у Тебя сотоварища! (Ляббай-ка, Аллахумма, ляббай-ка, ляббай-ка, ля шарика ля-ка, ляббай-ка, инна-ль-хамда, ва-н-ни‘мата ля-ка ва-ль-мульк, ля шарика ля-ка!)» А ‘Абдуллах ибн ‘Умар добавлял к этим словам: «Вот я перед Тобой! Вот я перед Тобой! Вот я перед Тобой и готов служить Тебе! Всё благо в Твоих Руках, к Тебе обращены все просьбы и дела! (Ляббай-ка, ляббай-ка, ляббай-ка ва садайка ва-ль-хайру би-йадайка ва-р-рагба иляйка ва-ль-амаль)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1549) Sahih Muslim (1184)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1812</td></tr><tr><td>Arabic No</td><td>1812</td></tr><tr><td>Reference</td><td>Book 11 Hadith 92</td></tr></tbody></table></div>
 

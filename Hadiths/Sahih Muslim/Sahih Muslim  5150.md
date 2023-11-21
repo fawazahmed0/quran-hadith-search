@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id reported that Allah's Messenger (ﷺ) prohibited us to mix grapes and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu Ulayyah] telah menceritakan kepada kami [Sa'id bin Zaid Abu Maslamah] dari [Abu Nadlrah] dari [Abu Sa'id] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang kami membuat perasan dengan mencampurkan antara anggur dan kurma, antara kurma muda dan kurma masak." Telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] telah menceritakan kepada kami [Bisyr] -yaitu Ibnu Mufadlal- dari [Abu Maslamah] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5150</td></tr><tr><td>Arabic No</td><td>1987.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5150</td></tr><tr><td>Arabic No</td><td>1987.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir Al-Juhani:that the Prophet (ﷺ) distributed among his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Ba'jah Al Juhani] dari ['Uqbah bin 'Amir Al Juhani] dia berkata; Nabi shallallahu 'alaihi wasallam pernah membagi-bagikan binatang kurban kepada para sahabatnya, sementara 'Uqbah sendiri hanya mendapatkan Jad'ah (anak kambing yang berusia dua tahun), maka kataku selanjutnya; "Wahai Rasulullah, aku hanya mendapatkan jad'ah (anak kambing yang berusia dua tahun)?" beliau bersabda: "Berkurbanlah dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>5547</td></tr><tr><td>Reference</td><td>Book 73 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укъба ибн ‘Амир, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ распределил жертвенные животные между своими сподвижниками, и ‘Укъбе достался ягнёнок /джаза‘а/. Я (‘Укъба) сказал: “О, Посланник Аллаха, мне достался ягнёнок”. (Пророк ﷺ) сказал: “Принеси его в жертву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>5547</td></tr><tr><td>Reference</td><td>Book 73 Hadith 3</td></tr></tbody></table></div>
 

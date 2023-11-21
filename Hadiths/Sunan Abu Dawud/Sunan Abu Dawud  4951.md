@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said; I took ‘Abd Allah b. Abi Talhah, when he was born, to the Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] ia berkata, "Ketika Abdullah bin Abu Thalhah dilahirkan, aku membawanya menghadap nabi shallallahu 'alaihi wasallam. saat itu beliau sedang memberi makan untanya, beliau lalu bertanya: "Apakah kamu membawa kurma?" Aku menjawab, "Ya." Anas berkata, "Aku lantas memberikan beberapa butir kurma, beliau kemudian mengunyah kurma itu di dalam mulutnya. Setelah itu beliau membuka mulutnya dan menyuapkannya ke dalam mulut Abdullah, hingga bayi (Abdullah) itu menjilatinya." Nabi shallallahu 'alaihi wasallam lalu bersabda: "Kesukaan orang Anshar adalah kurma." Beliau kemudian memberi nama bayi itu dengan Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2144)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 43 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2144)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 43 Hadith 179</td></tr></tbody></table></div>
 

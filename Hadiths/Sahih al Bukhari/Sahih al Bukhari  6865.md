@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miqdad bin 'Amr Al-Kindi:An ally of Bani Zuhra who took part in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah menceritakan kepada kami ['Abdullah] telah menceritakan kepada kami [Yunus] dari [Az Zuhri] telah menceritakan kepada kami ['Atho' bin Yazid], bahwasanya [Ubaidullah bin Adi] menceritakan kepadanya, [Al Miqdad bin 'Amru Al Kindi] sekutu bani Zuhrah menceritakan kepadanya -ia termasuk orang yang ikut perang badar bersama Nabi shallallahu 'alaihi wasallam - ia berkata; 'ya Rasulullah, saya menjumpai orang kafir, kemudian terjadi duel antara kami. Ia berhasil menyabet tanganku dengan pedang sehingga tanganku putus. Ia kemudian bersembunyi dariku di sebuah pohon dan mengatakan; 'Saya telah masuk Islam karena Allah', bolehkah saya membunuhnya setelah ia mengucapkan kalimah laa-ilaaha-illallah? ' Rasulullah Shallallahu'alaihiwasallam menjawab: "kamu tidak boleh membunuhnya." Miqdad melanjutkan; 'ya Rasulullah, ia telah menghilangkan salah satu tanganku, kemudian ia mengucapkan kalimat itu setelah memutuskannya, bolehkah saya membunuhnya? ' Nabi menjawab; "kamu tidak boleh membunuhnya, jika kamu tetap membunuhnya berarti dia berada di posisimu ketika kamu belum membunuhnya, sedang kamu berada diposisi dia ketika sebelum ia mengucapkannya." Sedang Habib bin Abi 'Amrah mengatakan; dari Sa'id dari Ibn 'Abbas mengatakan, Nabi shallallahu 'alaihi wasallam berkata kepada Miqdad: "Jika seorang mukmin menyembunyikan keimanannya bersama komunitas orang kafir selanjutnya ia menyatakan terus terang keimanannya, dan engkau kemudian membunuhnya, kamu dahulu juga seperti itu, dahulu kamu menyembunyikan keimananmu di Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6865</td></tr><tr><td>Arabic No</td><td>6865</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) аль-Микдад ибн ‘Амр аль-Кинди, союзник племени бану зухра и один из тех, кто вместе с Пророк ﷺ участвовал в битве при Бадре, сказал: «О Посланник Аллаха, (скажи мне,) если я встречу кого-нибудь из неверных, и мы сразимся с ним, и он отрубит мне руку мечом, а потом (попытается) спастись от меня, заберётся на дерево и скажет: “Я покорился Аллаху!” — то могу ли я убить его, после того, как он скажет это?» Посланник Аллаха ﷺ сказал: «Тебе не следует убивать его». (Аль-Микдад) воскликнул: «О Посланник Аллаха, но ведь он отрубил мне руку и произнёс эти слова только после того, как сделал это!» (На это) Посланник Аллаха ﷺ сказал: «Тебе не следует убивать его, ибо если ты убьёшь его, он станет таким же, каким был ты до его убийства, а ты станешь таким же, каким был он до того, как произнёс эти слова!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6865</td></tr><tr><td>Arabic No</td><td>6865</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

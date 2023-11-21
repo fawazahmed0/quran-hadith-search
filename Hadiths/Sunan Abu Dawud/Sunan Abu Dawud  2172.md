@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhairiz said “I entered the mosque and saw Abu Sa’id Al Khudri . I sat with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Rabi'ah bin Abu Abdurrahman] dari [Muhammad bin Yahya bin Habban] dari [Ibnu Muhairiz], ia berkata; aku pernah memasuki masjid dan melihat [Abu Sa'id Al Khudri], kemudian aku duduk di sampingnya dan bertanya mengenai 'azl. Abu Sa'id berkata; aku pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam ketika perang bersama Bani Mushthaliq, kemudian kami mendapatkan wanita tawanan Arab dan kami menginginkan wanita dan terasa berat kondisi kami yang kurang melakukan jima', sementara kami menginginkan tebusan, maka kami hendak melakukan 'azl. Kemudian kami mengatakan; apakah kita akan melakukan 'azl sementara Rasulullah shallallahu 'alaihi wasallam berada diantara kita sebelum kita bertanya kepada beliau mengenai hal tersebut? Lalu kami bertanya kepada beliau mengenai hal tersebut, lalu beliau berkata: "Kalian tidak akan tertimpa sesuatu yang membahayakan kalian meski tidak melakukan 'azl, tidaklah suatu jiwa yang tercipta hingga hari Kiamat melainkan jiwa tersebut memang harus tercipta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2542) Sahih Muslim (1438)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2172</td></tr><tr><td>Arabic No</td><td>2172</td></tr><tr><td>Reference</td><td>Book 12 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн Мухайриза: «Я зашёл в мечеть и увидел Абу Саида аль-Худри. Я сел возле него и спросил его о прерывании полового акта. Абу Са‘ид сказал: “Мы отправились вместе с посланником Аллаха ﷺ в поход против бану аль-Мусталик и захватили пленных из числа арабов. И мы возжелали женщин холостая жизнь стала тяготить нас но при этом мы хотели получить выкуп и потому захотели извергать семя вне лона, но потом решили: Посланник Аллаха ﷺ среди нас, и неужели мы будем делать это, не спросив его? Мы спросили об этом Посланника Аллаха ﷺ и он сказал: “Вам ничем не повредит, если вы не станете делать этого, ибо, поистине, всякая душа, которой суждено существование, до самого Судного дня, непременно появится””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2542) Sahih Muslim (1438)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2172</td></tr><tr><td>Arabic No</td><td>2172</td></tr><tr><td>Reference</td><td>Book 12 Hadith 127</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that 'Abd al-Rahman married a woman for a datestone weigh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Syu'bah] namanya adalah [Abdurrahman bin Abi Abdillah] dari [Anas bin Malik] bahwasannya Abdurrahman menikahi seorang wanita dengan maskawin emas seberat biji kurma. Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Wahb] telah mengabarkan kepada kami [Syu'bah] dengan isnad ini namun dia menyebutkan; Maka seorang laki-laki dari anaknya Abdurrahman bin Auf berkata; "Dari emas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3495</td></tr><tr><td>Arabic No</td><td>1427.06</td></tr><tr><td>Reference</td><td>Book 16 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3495</td></tr><tr><td>Arabic No</td><td>1427.06</td></tr><tr><td>Reference</td><td>Book 16 Hadith 97</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:The night prayer consists o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] ia berkata, saya mendengar [Uqbah bin Huraits] ia berkata, saya mendengar [Ibnu Umar] menceritakan bahwasanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat malam itu dua raka'at dua raka'at. Jika kamu telah merasa bahwa waktu Shubuh akan segera masuk, maka shalat witirlah dengan satu raka'at." Kemudian ditanyakanlah kepada Ibnu Umar, "Apa artinya dua-dua?" Ibnu Umar menjawab, "Yaitu, kamu mengucapkan salam setiap dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1763</td></tr><tr><td>Arabic No</td><td>749.09</td></tr><tr><td>Reference</td><td>Book 6 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар передал, что Посланник Аллаха ﷺ сказал: «Ночная молитва (состоит из) парных (рак‘атов), если же ты увидешь, (что скоро наступит) утро, соверши молитву в один рак‘ат».Ибн ‘Умара спросили: «Что значит “парные рак‘аты”?» Он ответил: «(Значит) произносить слова таслима после каждых двух рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1763</td></tr><tr><td>Arabic No</td><td>749.09</td></tr><tr><td>Reference</td><td>Book 6 Hadith 192</td></tr></tbody></table></div>
 

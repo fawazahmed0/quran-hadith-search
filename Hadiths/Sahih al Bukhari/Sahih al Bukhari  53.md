@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Jamra: I used to sit with Ibn 'Abbas and he made me sit on his sitt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Al Ja'di] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Abu Jamrah] berkata: aku pernah duduk bersama [Ibnu 'Abbas] saat dia mempersilahkan aku duduk di permadaninya lalu berkata: "Tinggallah bersamaku hingga aku memberimu bagian dari hartaku". Maka aku tinggal mendampingi dia selama dua bulan, lalu berkata: Ketika utusan Abu Qais datang menemui Nabi shallallahu 'alaihi wasallam, Beliau bertanya kepada mereka: "Kaum manakah ini atau utusan siapakah ini? Mereka menjawab: "Rabi'ah!" Beliau shallallahu 'alaihi wasallam bersabda: "selamat datang wahai para utusan dengan sukarela dan tanpa menyesal". para utusan itu berkata: "ya Rasulullah, kami tidak dapat mendatangimu kecuali di bulan suci, karena antara kami dan engkau ada suku Mudlor yang kafir. Oleh karena itu ajarkanlah kami dengan satu pelajaran yang jelas yang dapat kami amalkan dan dapat kami ajarkan kepada orang-orang di kampung kami, yang dengan begitu kami dapat masuk surga." kemudian mereka bertanya kepada Nabi shallallahu 'alaihi wasallam tentang minuman, maka Nabi shallallahu 'alaihi wasallam memerintahkan mereka dengan empat hal dan melarang dari empat hal, memerintahkan mereka untuk beriman kepada Allah satu-satunya, kemudian bertanya: "Tahukah kalian apa arti beriman kepada Allah satu-satunya?" Mereka menjawab: "Allah dan Rasul-Nya yang lebih mengetahui." Nabi shallallahu 'alaihi wasallam menjelaskan: Persaksian tidak ada ilah kecuali Allah dan bahwa Muhammad adalah utusan Allah, menegakkan shalat, menunaikan zakat, berpuasa pada bulan Ramadlan dan mengeluarkan seperlima dari harta rampasan perang". Dan Nabi shallallahu 'alaihi wasallam melarang mereka dari empat perkara, yaitu janganlah kalian meminum sesuatu dari al hantam, ad Dubbaa', an naqir dan al Muzaffaat. Atau Beliau shallallahu 'alaihi wasallam menyebut muqoyyir (bukan naqir). Nabi shallallahu 'alaihi wasallam bersabda: "jagalah semuanya dan beritahukanlah kepada orang-orang di kampung kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>53</td></tr><tr><td>Arabic No</td><td>53</td></tr><tr><td>Reference</td><td>Book 2 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда к Пророку ﷺ прибыла делегация (племени) ‘абд аль-къайс, он спросил: “Кто эти люди?” Они ответили: “Раби‘а”. Он сказал: “Добро пожаловать (вам, о) люди! Не будете вы посрамлены и не станете сожалеть!” Они сказали: “О Посланник Аллаха, мы можем приезжать к тебе только в священный месяц, ведь нас отделяют от тебя неверные из племени мудар, так дай же нам решающее веление, чтобы мы передали его оставшимся за нами и благодаря этому вошли в рай!” И они спросили его о напитках, а он велел им (делать) четыре (дела) и запретил им четыре (других). Он велел им верить в одного лишь Аллаха и спросил: “Знаете ли вы, что такое вера в одного лишь Аллаха?” Они ответили: “Аллах и посланник Его знают (об этом) лучше”. Тогда он сказал: “Это — свидетельство о том, что нет бога достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища, и что Мухаммад — Посланник Аллаха, совершение молитвы, выплата закята, соблюдение поста в рамадане и выделение вами пятой части военной добычи”. И он запретил им четыре (вещи): хантам, дуббy, накыр и музаффат (или: мукаййар), а затем он сказал: “Запомните это и передайте тем, кто остался за вами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>53</td></tr><tr><td>Arabic No</td><td>53</td></tr><tr><td>Reference</td><td>Book 2 Hadith 46</td></tr></tbody></table></div>
 

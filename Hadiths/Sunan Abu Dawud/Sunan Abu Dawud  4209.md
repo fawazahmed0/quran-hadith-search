@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Thabit said that Anas was asked about the hair-dye of the Prophet (ﷺ). He repl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] Bahwasanya ia pernah ditanya tentang warna cat (rambut) Nabi shallallahu 'alaihi wasallam. Lalu ia menyebutkan bahwa Rasulullah tidak pernah mengecat rambutnya, hanya saja hal itu pernah dilakukan oleh Abu Bakar dan Umar radliallahu 'anhuma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сабит ([аль-Бунани) передаёт, что когда Анаса (ибн Малика) спросили о том, красился ли Пророк ﷺ он ответил, что он не красился, но Абу Бакр и ‘Умар (да будет доволен Аллах ими обоими) красились
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
 

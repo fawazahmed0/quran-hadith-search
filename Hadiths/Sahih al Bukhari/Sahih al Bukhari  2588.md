@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:Ubaidullah bin 'Abdullah told me that 'Aisha had said, "When t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] dari [Az Zuhriy] berkata, telah menceritakan kepadaku ['Ubaidullah bin 'Abdullah]; ['Aisyah radliallahu 'anha] berkata; "Ketika Nabi shallallahu 'alaihi wasallam menderita sakit dan terasa bertambah berat, Beliau meminta izin kepada isteri-isteri Beliau agar Beliau dirawat di rumahku lalu Beliau diijinkan. Beliau keluar dengan berjalan tertatih, dan kedua kaki Beliau diseret di atas tanah. Saat itu Beliau dibantu oleh Al 'Abbas dan seseorang yang lain". ['Ubaidullah] berkata: "Aku menceritakan kepada [Ibnu 'Abbas] apa yang diceritakan oleh 'Aisyah. Maka dia berkata, kepadaku: "Tahukah kamu siapa orang yang lain itu, yang tidak disebut namannya oleh 'Aisyah?". Aku katakan: "Aku tidak tahu". Dia berkata: "Orang itu adalah 'Ali bin Abi Tholib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2588</td></tr><tr><td>Arabic No</td><td>2588</td></tr><tr><td>Reference</td><td>Book 51 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ тяжело заболел и страдания его стали усиливаться, он попросил своих жён, чтобы за ним ухаживали в моём доме, и они позволили ему это. И (однажды) он вышел между двумя мужчинами, (которые поддерживали его справа и слева,) задевая ногами землю, а находился он между ‘Аббасом и другим мужчиной”».\n‘Убайдуллах сказал: «И я упомянул Ибн ‘Аббасу о том, что сказала ‘Аиша и он сказал мне: “Знаешь ли ты, кто был тот мужчина, имя которого не назвала ‘Аиша?” Я сказал: “Нет”. (Ибн ‘Аббас) сказал: “Это (был) ‘Али ибн Абу Талиб”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2588</td></tr><tr><td>Arabic No</td><td>2588</td></tr><tr><td>Reference</td><td>Book 51 Hadith 22</td></tr></tbody></table></div>
 

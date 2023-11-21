@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported that when it was evening Allah's Messenger (ﷺ) used to suppl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al Hasan bin 'Ubaidullah] dari [Ibrahim bin Suwaid] dari ['Abdurrahman bin Yazid] dari ['Abdullah] dia berkata; "Apabila sore hari, Rasulullah shallallahu 'alaihi wasallam mengucapkan do'a yang berbunyi: 'AMSAINAA WA AMSAL MULKU LILLAAH, WALHAMDULILLAAH, LAA-ILAAHA ILLALLAH, WAHDAHUU LAA SYARIIKA LAHU "Kami memasuki sore hari dan pada sore ini jagad raya tetap milik Allah. Segala puji bagi Allah tiada Tuhan selain Allah, Dialah yang Esa, tiada sekutu bagi-Nya. Abdullah berkata; beliau juga mengucapkan: 'WALAHUL HAMDU WAHUWA 'ALAA KULLISYAIN QODIIRUN, ROBBII AS'ALUKA KHOIRO MAA FII HADZIHILLAILATA WAKHOIRO MAA BA'DAHAA WA A'UUDZUBIKA MIN SYARRI MAA FII HAADZIHILLAILATI WASYARRI MAA BA'DAHAAA, ROBBI A'UUDZUBIKA MINAL KASALI WASUU'IL KIBARI, ROBBI A'UUDZUBIKA MIN 'ADZAABIKA MIN 'ADZAABIN FINNAARI WA'ADZAABIN FIL QOBRI Bagi-Nyalah semua kekuasaan dan pujian, dan Dialah yang berkuasa atas segala sesuatu. Ya Allah, aku mohon kepada-Mu dari kebaikan malam ini dan kebaikan sesudahnya. Aku berlindung kepada-Mu dari kejahatan yang ada pada malam ini dan kejahatan sesudahnya. Dan aku berlindung kepada-Mu dari kemalasan, kesengsaraan di masa tua. Ya Allah, Aku berlindung kepada-Mu dari adzab neraka dan adzab di dalam kubur. 'Apabila pagi hari, Rasulullah shallallahu 'alaihi wasallam juga mengucapkan doa tersebut dengan diganti bagian pertamanya menjadi Ashbahnaa wa ashbahal mulku Iillah (Kami memasuki pagi hari dan pada pagi hari ini jagad raya dan seisinya tetap menjadi milik Allah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6908</td></tr><tr><td>Arabic No</td><td>2723.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6908</td></tr><tr><td>Arabic No</td><td>2723.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 101</td></tr></tbody></table></div>
 

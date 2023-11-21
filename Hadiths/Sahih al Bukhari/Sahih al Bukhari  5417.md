@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) that whenever one of her relatives die
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] Telah menceritakan kepada kami ['Uqail] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam bahwasanya; Bila salah seorang dari keluarganya meninggal, dan kaum wanita pun berkumpul lalu bubar kecuali pihak keluarganya, maka ia menyuruh untuk menyediakan periuk berisikan bubur yang dimasak dari gandum lembut. Kemudian ia membuat campuran daging dan roti dan menuangkan gandum lembut. Setelah itu, Aisyah berkata; Makanlah darinya, karena aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Bubur gandum lembut bisa menghimpun hati yang sakit yang menghilangkan kesedihan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5417</td></tr><tr><td>Arabic No</td><td>5417</td></tr><tr><td>Reference</td><td>Book 70 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что, когда кто-нибудь из её родственников умирал, собирались женщины, которые потом расходились, за исключением родных и близких подруг, и тогда по её велению готовили котелок тальбины, после чего готовили сарид, который приправляли этой тальбиной, а она говорила (им): «Ешьте, ибо я слышала, как Посланник Аллаха ﷺ сказал: “Тальбина успокаивает сердце больного и уносит с собой часть (его) печали”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5417</td></tr><tr><td>Arabic No</td><td>5417</td></tr><tr><td>Reference</td><td>Book 70 Hadith 45</td></tr></tbody></table></div>
 

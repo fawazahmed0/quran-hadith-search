@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama (Allah be pleased with her), the wife of Allah's Apostle (ﷺ), said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harun bin Sa'id Al Aili] dan [Ahmad bin Isa] keduanya berkata; Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Mahramah bin Bukair] dari [ayahnya] dia berkata; Saya mendengar [Abdullah bin Muslim] dia berkata; Saya mendengar [Muhammad bin Muslim] berkata; Saya mendengar [Humaid bin Abdirrahman] berkata; Saya mendengar [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam berkata: Pernah ditanyakan kepada Rasulullah shallallahu 'alaihi wasallam; Wahai Rasulullah, apa statusmu dari anak perempuan Hamzah? Atau ditanyakan kepada beliau: Kenapakah anda tidak meminang anak gadis Hamzah bin Abdul Muththalib? Lantas beliau menjawab: "Sesungguhnya Hamzah adalah saudara sepersusuan denganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3585</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 17 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3585</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 17 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) was neither a Fahish (one who had a bad to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada kami [Fulaih bin Sulaiman] telah menceritakan kepada kami [Hilal bin Ali] dari [Anas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam tidak pernah berkata keji, melaknat dan mencela, apabila beliau hendak mencela, maka beliau akan berkata: "Mengapa dahinya berdebu (dengan bahasa sindiran)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6046</td></tr><tr><td>Arabic No</td><td>6046</td></tr><tr><td>Reference</td><td>Book 78 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Посланник Аллаха ﷺ не говорил ничего непристойного, никого не проклинал и не имел привычки ругать (людей), а если хотел выразить кому-нибудь своё порицание, то говорил: “Что это с ним?! Да покроется пылью его лоб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6046</td></tr><tr><td>Arabic No</td><td>6046</td></tr><tr><td>Reference</td><td>Book 78 Hadith 76</td></tr></tbody></table></div>
 

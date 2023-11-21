@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:The Messenger of Allah (ﷺ) entered upon Umm Haram. The people (in he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengunjungi Ummu Haram, kemudian mereka memberikan beliau samin dan kurma, maka beliau bersabda: "Kembalikan ini ke tempatnya dan ini ke tempatnya, sesungguhnya aku sedang berpuasa." Kemudian beliau shalat sunnah dua rakaat bersama kami. Ummu Sulaim dan Ummu Haram berdiri di belakang kami. Tsabit berkata; Saya tidak mengetahuinya kecuali mengatakan; Beliau memberdirikanku di sebelah kanannya di atas permadani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>608</td></tr><tr><td>Arabic No</td><td>608</td></tr><tr><td>Reference</td><td>Book 2 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса о том, что однажды Посланник Аллаха ﷺ зашел к Умм Харам, и когда ему принесли масло и финики он сказал: «Залейте это (масло) обратно в свой сосуд, а эти (финики) в бурдюк, ибо, поистине, я соблюдаю пост».Затем он встал и совершил с нами дополнительную молитву в два рак‘ата, а Умм Сулейм и Умм Харам встали за нами.Сабит (аль-Бунани) сказал: «И я знаю только то, что он (Анас) сказал: “Он поставил меня на ковре справа от себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>608</td></tr><tr><td>Arabic No</td><td>608</td></tr><tr><td>Reference</td><td>Book 2 Hadith 218</td></tr></tbody></table></div>
 

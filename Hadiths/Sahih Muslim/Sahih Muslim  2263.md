@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (way peace be upon him) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru bin Muhammad bin Bukair An Naqid] Telah menceritakan kepada kami [Sufyan bin Uyainah] ia berkata, saya bertanya kepada [Amru bin Yahya bin Umarah] lalu ia mengabarkan kepadaku dari [bapaknya] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak wajib dizakati bahan makanan pokok yang kurang dari lima Wasq (lima wasaq sama dengan enam puluh sha'), tidak pula pada binatang ternak yang kurang dari lima ekor, dan emas perak yang kurang dari lima uqiyah (lima uqiyah sama dengan dua ratus dirham)." Dan telah menceritakan kepada kami [Muhammad bin Rumh bin Al Muhajir] telah mengabarkan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepadaku [Amru An Naqid] Telah menceritakan kepada kami [Abdullah bin Idris] keduanya dari [Yahya bin Sa'id] dari [Amru bin Yahya] dengan isnad ini hadits yang semisal. Dan telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Amru bin Yahya bin Umarah] dari [bapaknya] Yahya bin Umarah, ia berkata, saya mendengar [Abu Sa'id Al Khudri] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda. Dan Nabi shallallahu 'alaihi wasallam memberi isyarat dengan tangannya beserta lima jari-jemarinya. Kemudian ia menyebutkan hadits yang serupa dengan haditsnya Ibnu Uyainah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2263</td></tr><tr><td>Arabic No</td><td>979.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Пророк ﷺ сказал: «Не выплачивается закят (с урожая) менее чем в пять “васков” (Прим. пер. мера объёма, один васк равен шестидесяти са‘); и не выплачивается закят со стада, состоящего менее чем из пяти верблюдов; и не выплачивается закят с менее чем пяти “окый” (Прим. пер. мера веса, один окый равен сорока дирхамом) серебра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2263</td></tr><tr><td>Arabic No</td><td>979.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 1</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Buraid bin 'Abdullah] dari [Kakeknya] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al A'laa Al Mahdani] dan lafazh ini miliknya; Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya perumpamaan teman dekat yang baik dan teman dekat yang buruk adalah seperti penjual minyak wangi dan tukang pandai besi. Seorang penjual minyak wangi terkadang mengoleskan wanginya kepada kamu dan terkadang kamu membelinya sebagian atau kamu dapat mencium semerbak harumnya minyak wangi itu. Sementara tukang pandai besi adakalanya ia membakar pakaian kamu ataupun kamu akan menciumi baunya yang tidak sedap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6692</td></tr><tr><td>Arabic No</td><td>2628</td></tr><tr><td>Reference</td><td>Book 45 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6692</td></tr><tr><td>Arabic No</td><td>2628</td></tr><tr><td>Reference</td><td>Book 45 Hadith 189</td></tr></tbody></table></div>
 

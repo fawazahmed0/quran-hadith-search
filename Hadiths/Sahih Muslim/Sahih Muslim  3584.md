@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this is narrated on the authority of Hammam, Sa'id, Bishr b 'Umar,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Haddab bin Khalid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Jabir bin Zaid] dari [Ibnu Abbas] bahwasannya Nabi shallallahu 'alaihi wasallam ditawari dengan putrinya Hamzah, maka beliau bersabda: "Sesungguhnya dia tidak halal untukku, kerena dia adalah putri saudara sesusuanku, dan menjadi mahram (saudara) dari sesusuan sebagaimana menjadi mahram (saudara) dari keturunan." Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Yahya yaitu Al Qatthan]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Yahya bin Mihran Al Qutha'i] telah menceritakan kepada kami [Bisyr bin Umar] semuanya dari [Syu'bah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Sa'id bin Abu 'Arubah] keduanya dari [Qatadah] dengan isnadnya Hammam, keduanya sama, hanya saja hadits riwayat Syu'bah selesai pada perkataanya; "Putri saudara sesusuanku." Dan dalam hadits Sa'id; "Menjadi mahram (saudara) dari sesusuan sebagaimana menjadi mahram (saudara) dari keturunan." Dan dalam riwayat Bisyr bin umar, saya mendengar Jabir bin Zaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3584</td></tr><tr><td>Arabic No</td><td>1447.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3584</td></tr><tr><td>Arabic No</td><td>1447.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 17</td></tr></tbody></table></div>
 

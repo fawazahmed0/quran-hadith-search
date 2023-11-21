@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (ﷺ) as saying:If anyone emancipates a share 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban Al 'Aththar] telah menceritakan kepada kami [Qatadah] dari [An Nadlr bin Anas] dari [Basyir bin Nuhaik] dari [Abu Hurairah] ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa membebaskan bagian kepemilikannya pada diri seorang budak, maka hendaklah ia membebaskan seluruhnya jika ia memiliki harta, jika tidak maka hendaklah budak tersebut diminta untuk berusaha (membebaskan diri) dengan tanpa diperberat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3937</td></tr><tr><td>Arabic No</td><td>3937</td></tr><tr><td>Reference</td><td>Book 31 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто освободил принадлежавшую ему часть раба, тот должен освободить его целиком, если у него достаточно денег. Если же денег недостаточно, можно дать рабу работу, чтобы он сам отработал остаток своего освобождения, не возлагая при этом на него ничего непосильного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3937</td></tr><tr><td>Arabic No</td><td>3937</td></tr><tr><td>Reference</td><td>Book 31 Hadith 12</td></tr></tbody></table></div>
 

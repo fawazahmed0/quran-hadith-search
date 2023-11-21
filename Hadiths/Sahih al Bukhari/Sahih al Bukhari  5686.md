@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The climate of Medina did not suit some people, so the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas] radliallahu 'anhu bahwa sekelompok orang sedang menderita sakit ketika berada di Madinah, maka Nabi shallallahu 'alaihi wasallam memerintahkan mereka supaya menemui penggembala beliau dan meminum susu dan kencing unta, mereka lalu pergi menemui sang penggembala dan meminum air susu dan kencing unta tersebut sehingga badan-badan mereka kembali sehat, setelah badan mereka sehat mereka justru membunuh penggembala dan merampok unta-untanya, setelah kabar itu sampai ke nabi shallallahu 'alaihi wasallam, beliau pun memerintahkan untuk mengejar mereka, kemudian mereka di bawa ke hadapan Nabi, lantas Nabi memotong tangan dan kaki mereka serta mencongkel mata mereka." Qatadah berkata; telah menceritakan kepadaku Muhammad bin Sirin bahwa peristiwa tersebut terjadi sebelum turunnya ayat tentang hudud (hukuman)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5686</td></tr><tr><td>Arabic No</td><td>5686</td></tr><tr><td>Reference</td><td>Book 76 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(В своё время) люди (из племени ‘укль или: ‘урайна) приехали в Медину, где почувствовали недомогание из-за её климата. Пророк ﷺ велел им отправляться к верблюдам и пить их молоко и мочу. Они отправились, (куда им было сказано,) а когда выздоровели, убили пастуха и угнали верблюдов. Узнав об этом, Пророк ﷺ отправил за ними (погоню). (Когда их привели к Пророку ﷺ по его велению) им отрубили руки и ноги и выжгли глаза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5686</td></tr><tr><td>Arabic No</td><td>5686</td></tr><tr><td>Reference</td><td>Book 76 Hadith 9</td></tr></tbody></table></div>
 

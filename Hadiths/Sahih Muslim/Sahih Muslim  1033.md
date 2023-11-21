@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:Umm al-Fadl daughter of al-Harith heard him reciting:" By tho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, "Saya membaca di hadapan [Malik], dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] dia berkata, "Sesungguhnya [Ummu al-Fadhal binti al-Harits] mendengar Ibnu Abbas sedang membaca surat al-Mursalat secara baik. Maka dia berkata, 'Wahai anakku, sungguh kamu telah mengingatkanku dengan bacaanmu terhadap surat ini, ia adalah akhir surat yang aku dengar Rasulullah membacanya di Maghrib'." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru an-Naqid] keduanya berkata, telah menceritakan kepada kami [Sufyan] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abd bin Humaid] keduanya berkata, telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Amru an-Naqid] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [Bapakku] dari [Shalih] semuanya meriwayatkan dari [az-Zuhri] dengan isnad ini dan dia menambahkan, "Kemudian beliau tidak shalat setelah itu hingga Allah mewafatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1033</td></tr><tr><td>Arabic No</td><td>462.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что, услышав, как он читает: «Клянусь посылаемыми поочерёдно», (его мать) Умм аль-Фадль бинт аль-Харис сказала: «О сынок, чтением этой суры ты напомнил мне, что (её слова) были последними услышанными мной (словами) Посланника Аллаха ﷺ, читавшего её во время закатной /магриб/ молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1033</td></tr><tr><td>Arabic No</td><td>462.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 195</td></tr></tbody></table></div>
 

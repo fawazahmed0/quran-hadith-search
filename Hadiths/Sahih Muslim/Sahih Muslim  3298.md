@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-'Ala' b. al-Hadrami reported Allah's Messenger (ﷺ) as saying:The Muhijir sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Abdurrahman bin Humaid] ia berkata, saya mendengar Umar bin Abdul Aziz berkata kepada anggota majelisnya, "Apa yang kalian dengar di pemukiman Makkah?" Kemudian berkatalah [As Sa'ib bin Yazid]; Aku mendengar [Al Ala' bin Al Hadlrami] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang muhajir hendaklah bermukim di Makkah selama tiga hari setelah menunaikan Manasik hajinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3298</td></tr><tr><td>Arabic No</td><td>1352.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 502</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3298</td></tr><tr><td>Arabic No</td><td>1352.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 502</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab:Mahmud bin Ar-Rabi' who was the person on whose face the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] berkata, telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] berkata, [Mahmud bin Ar Rabi'] mengabarkan kepadaku, ia berkata, "Dialah orang yang diberkahi oleh Rasulullah shallallahu 'alaihi wasallam di wajahnya saat dia masih kecil dari sumur mereka." Dan 'Urwah menyebutkan dari Al Miswar, dan Selainnya -setiap dari keduanya saling membenarkan satu sama lain-, bahwa ketika Nabi shallallahu 'alaihi wasallam berwudlu, hampir saja mereka berkelahi memperebutkan bejana bekas wudlu beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>189</td></tr><tr><td>Arabic No</td><td>189</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб сказал: «Рассказал мне Махмуд ибн ар-Раби‘, да будет доволен им Аллах, а это тот, кому Посланник Аллаха ﷺ набрав в рот воды и прыснул ему в лицо из ихнего колодца, когда (Махмуд) был ещё мальчиком». Он сказал: «А когда Пророк ﷺ совершал омовение, (его сподвижники) были готовы сражаться друг с другом из-за воды, которую он использовал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>189</td></tr><tr><td>Arabic No</td><td>189</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
 

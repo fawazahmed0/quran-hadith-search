@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. Tha'labah or Tha'labah bin 'Abd Allah bin Abu Su'air reported on hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] dan [Sulaiman bin Daud Al 'Ataki], mereka berkata; telah menceritakan kepada Kami [Hammad bin Zaid] dari [An Nu'man bin Rasyid] dari [Az Zuhri]. [Musaddad] berkata dari [Tsa'labah bin Abdullah bin Abu Shu'air] dari [ayahnya], dan [Sulaiman bin Daud] berkata; dari [Abdullah bin Tsa'labah] atau [Tsa'labah bin Abdullah bin Abu Shu'air] dari [ayahnya], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Satu sha' gandum atas setiap anak kecil dan orang dewasa, yang merdeka dan budak, laki-laki atau perempuanl. Adapun orang kaya kalian maka Allah menzakatinya, dan adapun orang fakir kalian maka Allah mengembalikan kepadanya lebih banyak daripada apa yang telah ia berikan." Sulaiman menambahkan dalam haditsnya; orang kaya maupun miskin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>1619</td></tr><tr><td>Reference</td><td>Book 9 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передает Са‘ляба ибн ‘Абдиллях ибн Аби Су‘айр от своего отца, что Посланник Аллаха ﷺ сказал: «Один са‘ пшеницы дается за каждых двоих: ребенка или взрослого, свободного или невольника, мужчины или женщины. Что касается богатого, то Аллах очистит его; а что же касается бедного, то Аллах вернет ему больше, чем он дал (в качестве закята аль-фитр)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>1619</td></tr><tr><td>Reference</td><td>Book 9 Hadith 64</td></tr></tbody></table></div>
 

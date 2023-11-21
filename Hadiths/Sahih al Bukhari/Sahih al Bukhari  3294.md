@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:Once 'Umar asked the leave to see Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3294</td></tr><tr><td>Arabic No</td><td>3294</td></tr><tr><td>Reference</td><td>Book 59 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Абу Ваккас сказал: «Однажды ‘Умар попросил разрешения войти к Посланнику Аллаха ﷺ. В это время у Посланника Аллаха ﷺ сидели женщины-курайшитки, которые разговаривали с ним и громко просили его дать им больше того, что он уже дал. Когда ‘Умар попросил разрешения войти, женщины встали и поспешили спрятаться за занавеской, а Посланник Аллах ﷺ позволил ему войти. Заметив, что Посланник Аллаха ﷺ улыбается, ‘Умар сказал: “Да продлит Аллах радость твою, о Посланник Аллаха!” Посланник Аллаха ﷺ сказал: “Я дивлюсь женщинам, которые сидели у меня, — услышав твой голос, они поспешили спрятаться за занавеской”. ‘Умар сказал: “О Посланник Аллаха, ты более достоин того, чтобы тебя боялись”. Потом ‘Умар сказал: “О враги самих себя, неужели вы боитесь меня и не боитесь Посланника Аллаха ﷺ?!” Женщины сказали: “Да, потому что, в отличие от Посланника Аллаха ﷺ ты груб и суров!” После этого Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей руке душа моя, встретив тебя на дороге, шайтан всегда переходит на другую дорогу и идёт по ней!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3294</td></tr><tr><td>Arabic No</td><td>3294</td></tr><tr><td>Reference</td><td>Book 59 Hadith 103</td></tr></tbody></table></div>
 

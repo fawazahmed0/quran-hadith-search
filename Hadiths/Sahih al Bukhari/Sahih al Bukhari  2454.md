@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father (i.e. 'Abdullah):The Prophet (ﷺ) said, "Whoever takes 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami ['Abdullah bin Al Mubarak] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Salim] dari [bapaknya] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang mengambil sesuatu (sebidang tanah) dari bumi yang bukan haknya maka pada hari qiyamat nanti dia akan dibenamkan sampai tujuh bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2454</td></tr><tr><td>Arabic No</td><td>2454</td></tr><tr><td>Reference</td><td>Book 46 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Салима, что его отец (‘Абдуллах ибн ‘Умар), да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Тот, кто захватит часть (чужой) земли без права на это, в День воскрешения будет ввергнут в (глубины) семи земель”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2454</td></tr><tr><td>Arabic No</td><td>2454</td></tr><tr><td>Reference</td><td>Book 46 Hadith 15</td></tr></tbody></table></div>
 

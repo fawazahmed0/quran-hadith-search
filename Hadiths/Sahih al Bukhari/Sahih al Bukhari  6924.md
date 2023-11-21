@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When the Prophet (ﷺ) died and Abu Bakr became his success
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin 'Utbah], bahwasanya [Abu Hurairah] mengatakan; Tatkala Nabi shallallahu 'alaihi wasallam wafat dan Abu Bakar diangkat menjadi khalifah, beberapa orang arab menjadi kafir, lalu [Umar] bertanya; 'Hai Abu bakar, bagaimana engkau memerangi manusia padahal Rasulullah Shallallahu'alaihiwasallam bersabda; "Saya diperintahkan memerangi manusia hingga mereka mengucapkan laa-ilaaha-illallah, siapa yang telah mengucapkan laa-ilaaha-illallah, berarti ia telah menjaga kehormatan darahnya dan jiwanya kecuali karena alasan yang dibenarkan dan hisabnya kepada Allah." [Abu Bakar] menjawab; 'Demi Allah, saya akan terus memerangi siapa saja yang memisahkan antara shalat dan zakat, sebab zakat adalah hak harta, Demi Allah, kalaulah mereka menghalangiku dari anak kambing yang pernah mereka bayarkan kepada Rasulullah Shallallahu'alaihiwasallam, niscaya aku perangi mereka karena tidak membayarnya.' Umar kemudian berkata; 'Demi Allah, tiada lain kuanggap memang Allah telah melapangkan Abu Bakar untuk memerangi dan aku sadar bahwa yang dilakukannya adalah benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6924</td></tr><tr><td>Arabic No</td><td>6924</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ умер, Абу Бакр стал (халифом), а некоторые из арабов вернулись к неверию, ‘Умар спросил: “О Абу Бакр, как же ты можешь сражаться с этими людьми?! Ведь Посланник Аллаха ﷺ сказал: “Мне было велено сражаться с этими людьми, пока они не скажут: “Нет бога, достойного поклонения, кроме Аллаха”, — а кто произнесёт (эти слова, тем самым) защитит от меня своё имущество и свою жизнь, если только (не совершит ничего такого, за что можно будет лишить его имущества или жизни) по праву, и тогда (лишь) Аллах (сможет потребовать) от него отчёта”!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6924</td></tr><tr><td>Arabic No</td><td>6924</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, 'Spend (O man), 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] Telah menceritakan kepada kami [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Azza wa Jalla berfirman: 'Berinfaklah, maka aku akan berinfak kepadamu.' Dan Nabi shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya tangan Allah terisi penuh, pemberian-Nya siang maupun malam tidak pernah menguranginya." Juga beliau bersabda: "Tidakkah kalian melihat bagaimana Allah telah memberikan nafkah (rezeki) semenjak Dia mencipta langit dan bumi. Sesungguhnya Allah tidak pernah berkurang apa yang ada pada tangan kanan-Nya." Beliau bersabda: "Dan 'Arsy-Nya ada di atas air, di tangan-Nya yang lain terdapat neraca, Dia merendahkan dan meninggikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4684</td></tr><tr><td>Arabic No</td><td>4684</td></tr><tr><td>Reference</td><td>Book 65 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Всемогущий и Великий Аллах сказал: “Расходуй, и Я стану расходовать на тебя”».\nИ (Пророк ﷺ) сказал: «Рука Аллаха полна, и не опустошат её непрерывные траты ночью и днём». \nИ он сказал: «Разве вы не видите, сколько израсходовал Он с тех пор, как создал небеса и землю? Однако, поистине, это не уменьшило того, что есть в Его руке, а престол Его был над водой, и в руке Его были Весы, посредством которых Он принижает и возвышает (людей)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4684</td></tr><tr><td>Arabic No</td><td>4684</td></tr><tr><td>Reference</td><td>Book 65 Hadith 206</td></tr></tbody></table></div>
 

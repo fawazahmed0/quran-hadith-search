@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuAyyub al-Ansari: AbuAyyub heard the Messenger of Allah (ﷺ) say: Ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada kami, dan telah diriwayatkan melalui jalur yang lain: Telah menceritakan kepada kami ['Amr bin Utsman], telah menceritakan kepada kami [Muhammad bin Harb] secara makna, dan aku lebih yakin kepada haditsnya, dari [Abu Salamah Sulaiman bin Sulaim], dari [Yahya bin Jabir Ath Tha'i], dari [anak saudara Abu Ayyub Al Anshari], dari [Abu Ayyub] bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Akan ditaklukkan untuk kalian berbagai negari dan akan ada tentara-tentara yang bersatu, akan ditunjuk diantara tentara tersebut beberapa pasukan, kemudian diantara kalian terdapat orang yang tidak mau keluar berperang, kemudian ia lari dari kaumnya kemudian ia menyelidiki kabilah-kabilah dan menawarkan dirinya kepada mereka. Orang tersebut berkata; siapakah yang menyewaku untuk keluar berperang demikian? Siapakah yang menyewaku untuk keluar berperang demikian? Ketahuilah ia adalah orang sewaan, ketahuilah ia adalah orang sewaan hingga tetesan darah terakhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2525</td></tr><tr><td>Arabic No</td><td>2525</td></tr><tr><td>Reference</td><td>Book 15 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2525</td></tr><tr><td>Arabic No</td><td>2525</td></tr><tr><td>Reference</td><td>Book 15 Hadith 49</td></tr></tbody></table></div>
 

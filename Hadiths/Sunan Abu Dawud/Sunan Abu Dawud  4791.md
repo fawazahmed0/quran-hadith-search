@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’isha said :A man asked permission to see the Prophet (ﷺ), and he said: He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan] dari [Ibnul Munkadir] dari [urwah] dari ['Aisyah] ia berkata, "Seorang laki-laki minta izin kepada Nabi shallallahu 'alaihi wasallam, beliau lalu bersabda: "Ia adalah orang yang jelek dalam kaumnya, atau beliau mengatakan, "Ia adalah laki-laki jelek dalam kaumnya." Setelah itu beliau mengatakan: "Biarkan ia masuk." Dan ketika laki-laki tersebut telah masuk, beliau melembutkan tutur katakanya kepada laki-laki itu. 'Aisyah bertanya, "Wahai Rasulullah, kenapa engkau melembutkan tutur kata kepadanya?, padahal engkau telah mengatakan tentang orang itu sebagaimana yang telah engkau katakan?" beliau menjawab: "Seburuk-buruk manusia di sisi Allah pada hari kiamat adalah seseorang yang ditinggalkan oleh manusia karena ingin menghindari keburukkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6054) Sahih Muslim (2591)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6054) Sahih Muslim (2591)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
 

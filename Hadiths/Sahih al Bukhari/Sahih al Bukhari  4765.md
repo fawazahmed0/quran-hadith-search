@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:Ibn Abza said to me, "Ask Ibn 'Abbas regarding the Sta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'ad bin Hafsh] Telah menceritakan kepada kami [Syaiban] dari [Manshur] dari [Sa'id bin Jubair] dia berkata; Ibnu Abza berkata; tanyakanlah kepada [Ibnu 'Abbas] mengenai firman Allah: "Dan barangsiapa yang membunuh orang mu'min secara sengaja maka balasannya adalah jahanam, ia kekal didalamnya." (An Nisaa': 93) dan firman Allah: dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar.. hingga ayat kecuali orang-orang yang bertaubat... (Al Furqan: 68-70). maka aku pun menanyakannya, Ia menjawab: 'Tatkala ayat ini turun, penduduk Makkah berkata; kami telah berpaling dari Allah, kami membunuh jiwa yang diharamkan Allah dan kami telah melakukan perbuatan-perbuatan keji. Lalu Allah 'azza wajalla menurunkan: "Kecuali orang-orang yang bertaubat, beriman dan mengerjakan amal shalih..." Hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4765</td></tr><tr><td>Arabic No</td><td>4765</td></tr><tr><td>Reference</td><td>Book 65 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубайр сказал: «Однажды ибн Абза сказал мне: “Спроси Ибн ‘Аббаса об этих двух аятах “Если же кто-либо убьёт верующего преднамеренно, то возмездием ему будет Геенна, в которой он пребудет вечно” и “…и не убивают душу вопреки запрету Аллаха, а только по праву…”. Я спросил его о них, и он ответил: “Когда были ниспосланы эти аяты, мекканцы сказали: “Мы взывали к другим богам помимо Аллаха, и убивали вопреки запрету Аллаха, без права, и совершали мерзости!” Тогда Аллах ниспослал: “Это не относится к тем, которые раскаялись, уверовали и поступали праведно. Их злые деяния Аллах заменит добрыми, ибо Аллах — Прощающий, Милующий”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4765</td></tr><tr><td>Arabic No</td><td>4765</td></tr><tr><td>Reference</td><td>Book 65 Hadith 287</td></tr></tbody></table></div>
 

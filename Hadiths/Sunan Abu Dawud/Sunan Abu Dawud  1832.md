@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Bara’ (bin Azib) said When the Apostle of Allaah(ﷺ) concluded the treaty 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Muhammad bin Ja'far], telah menceritakan kepada Kami [Syu'bah] dari [Abu Ishaq], ia berkata; saya mendengar [Al Bara'] berkata; tatkala Rasulullah shallAllahu wa'alaihi wa sallam berdamai dengan penduduk Hudaibiyah, beliau berdamai agar mereka tidak masuk Hudaibiyah kecuali dengan julban as silah, kemudian aku bertanya kepadanya mengenai julban as silah, beliau berkata: "Sarung pedang dengan isinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2298) Sahih Muslim (1783)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1832</td></tr><tr><td>Arabic No</td><td>1832</td></tr><tr><td>Reference</td><td>Book 11 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара, да будет доволен им Аллах, передаёт: «Посланник Аллаха ﷺ заключил с язычниками в Худайбии мирный договор о том, что они не войдут туда иначе как с ножнами». (Передатчик сказал): «Я спросил: “А что значит: с ножнами?” Он ответил: “Оружие [должно было быть убрано] в ножны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2298) Sahih Muslim (1783)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1832</td></tr><tr><td>Arabic No</td><td>1832</td></tr><tr><td>Reference</td><td>Book 11 Hadith 112</td></tr></tbody></table></div>
 

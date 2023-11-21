@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) never fasted a full month except the month
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: " Nabi shallallahu 'alaihi wasallam tidak pernah sekalipun melaksanakan shaum sebulan penuh kecuali puasa Ramadhan. Dan beliau seseorang yang rajin puasa sehingga sehingga ada yang berkomentar; "Tidak, demi Allah, beliau belum pernah tidak shaum". Namun sering-sering beliau juga tidak puasa sehingga ada seorang yang berkata; "Tidak, demi Allah, Beliau belum pernah shaum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1971</td></tr><tr><td>Arabic No</td><td>1971</td></tr><tr><td>Reference</td><td>Book 30 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ никогда не постился полный месяц, кроме месяца рамадан. Иногда он постился так, что люди говорили: “Нет, клянусь Аллахом! Он вообще не разговляется”. А иногда он не постился так, что люди говорили: “Нет, клянусь Аллахом! Он вообще не поститься”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1971</td></tr><tr><td>Arabic No</td><td>1971</td></tr><tr><td>Reference</td><td>Book 30 Hadith 78</td></tr></tbody></table></div>
 

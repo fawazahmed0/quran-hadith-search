@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Anas that the Prophet of Allah (may peace and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Yahya bin Abu Umar] serta [Muhammad bin Basysyar] semuanya dari [ats-Tsaqafi] berkata [Ibnu Abu Umar] telah menceritakan kepada kami [Abdul Wahhab] dari [Ayyub] dari [Abu Qilabah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, dia berkata, "Tiga perkara jika itu ada pada seseorang maka ia akan merasakan manisnya iman; orang yang mana Allah dan Rasul-Nya lebih dia cintai daripada selain keduanya, mencintai seseorang yang ia tidak mencintainya kecuali karena Allah, dan benci untuk kembali kepada kekafiran setelah Allah menyelamatkannya dari kekafiran tersebut sebagaimana ia benci untuk masuk neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>165</td></tr><tr><td>Arabic No</td><td>43.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Пророк ﷺ сказал: «Сладость веры ощутит тот, кому (присущи) три (качества): тот, кто любит Аллаха и посланника Его больше всего остального, и любит (того или иного) человека только ради Аллаха, и не желает возвращения к неверию после того, как Аллах спас его от (неверия), как не желает, чтобы его ввергли в огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>165</td></tr><tr><td>Arabic No</td><td>43.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
 

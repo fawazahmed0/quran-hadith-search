@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:I said to Tawus, "I wish you would give up Mukhabara (Sharecroppin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata, ['Amru]; Aku berkata, kepada [Thowus]: "Mengapa tidak kau tinggalkan sewa-menyewa sementara mereka beranggapan bahwa Nabi shallallahu 'alaihi wasallam melarang mereka?" Dia, yaitu 'Amru berkata: "Sungguh aku telah memberi dan mengenalkan pengetahuan yang cukup kepada mereka dan sesungguhnya orang yang paling mengerti dari mereka telah mengabarkan kepadaku, yakni [Ibnu 'Abbas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam tidak melarang dari itu tetapi Beliau bersabda: "Seorang dari kalian memberikan kepada saudaranya lebih baik baginya dari pada dia mengambil dengan upah tertentu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр, да помилует его Аллах Всевышний, сказал: «(Однажды) я сказал Таусу, да помилует его Аллах: “Если ты откажешься от издольщины, (люди) станут утверждать, что Пророк ﷺ запретил заниматься этим”».\n‘Амр сказал: «Поистине, я даю им и избавляю их от нужды, и самый знающий из них сообщил мне, что Пророк ﷺ не запрещал этого, а (только) сказал: “Любому из вас предоставлять своему брату (землю) бесплатно лучше, чем отдавать её в аренду за определённую долю (урожая)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Ya'la bin Umaiya:that his father said, "I participated in Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'id] Telah menceritakan kepada kami [Muhammad bin Bakr] Telah mengabarkan kepada kami [Ibnu Juraij] dia berkata; Aku mendengar ['Atha'] mengabarkan seraya berkata; Telah mengabarkan kepadaku [Shafwan bin Ya'la bin Umayyah] dari [Bapaknya] dia berkata; saya pernah ikut perang bersama Rasulullah shallallahu 'alaihi wasallam pada perang 'Usrah. Ya'al berkata; Perang itu merupakan amalanku yang paling kuat dalam diriku. Atha berkata; Shafwan berkata; selanjutnya Ya'ala berkata; dan saya memiliki orang upahan, kemudian ia berkelahi dengan seseorang, salah seorang dari mereka menggigit tangan lawannya, Atha berkata; Shafwan telah mengabarkan kepadaku siapakah yang menggigit tangan lawannya, namun aku lupa. kemudian yang digigit menarik tangannya dari mulut yang menggigit hingga melepaskan gigi serinya. Lalu keduanya menemui Nabi shallallahu 'alaihi wasallam. Maka beliau membentak orang yang lepas gigi serinya. Atha berkata; Aku mengira Shafwan berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Apakah ia akan membiarkan tangannya ada dalam mulutmu dan engkau menggigitnya seperti pejantan yang sedang menggigit?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 64 Hadith 439</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Йа‘ля ибн Умайя, да будет доволен им Аллах, сказал: «Я принимал участие в походе на Табук вместе с Пророком ﷺ и считаю это одним из лучших своих дел. И у меня был наёмный работник, который подрался с каким-то человеком, и один из них укусил другого (за руку, а укушенный) вырвал руку из его рта, вырвав ему при этом передний зуб. После этого человек, (лишившийся зуба,) явился к Пророку ﷺ (с жалобой,) но он не удовлетворил (его просьбу) и воскликнул: “Ты что же, хочешь, чтобы он положил руку тебе в рот, и ты укусил её, как кусает верблюд?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 64 Hadith 439</td></tr></tbody></table></div>
 

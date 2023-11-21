@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:(regarding the revelation) Truly he (Muhammad) did see of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari [Abdullah radliallahu 'anhu] mengenai firman Allah: Sesungguhnya dia telah melihat sebahagian tanda-tanda (kekuasaan) Tuhannya yang paling besar, (An Najm: 18). Abdullah berkata; Rasulullah shallallahu 'alaihi wasallam melihat karpet berwarna hijau telah menutupi bagian ufuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4858</td></tr><tr><td>Arabic No</td><td>4858</td></tr><tr><td>Reference</td><td>Book 65 Hadith 379</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что о словах Всевышнего «И видел он из знамений своего Господа величайшее!» ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал следующее: «(Пророк ﷺ) видел зелёное покрывало (или ткань), закрывший собой (весь) горизонт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4858</td></tr><tr><td>Arabic No</td><td>4858</td></tr><tr><td>Reference</td><td>Book 65 Hadith 379</td></tr></tbody></table></div>
 

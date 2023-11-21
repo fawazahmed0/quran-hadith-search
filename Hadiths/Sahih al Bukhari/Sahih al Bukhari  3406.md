@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:We were with Allah's Messenger (ﷺ) picking the fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari [Yunus] dari [Ibnu Sihab] dari [Abu Salamah bin 'Abdur Rahman] bahwa [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam memetik akar pohon (al-arak, biasanya untuk siwak) dan saat itu Rasulullah shallallahu 'alaihi wasallam bersabda: "Petiklah yang berwarna hitam karena ia yang paling baik". Mereka bertanya; "Apakah baginda dahulu mengembala kambing?". Beliau menjawab: "Tidak ada seorang Nabi pun melainkan dia pernah mengembala kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3406</td></tr><tr><td>Arabic No</td><td>3406</td></tr><tr><td>Reference</td><td>Book 60 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Однажды, когда) мы с посланником Аллаха ﷺ собирали спелые плоды арака, Посланник Аллаха ﷺ сказал: “Берите из них чёрные, ибо они являются наилучшими”. (Люди) спросили (Пророка ﷺ): “Пас ли ты овец?” (В ответ) он сказал: “А разве был хоть один пророк, который не пас их?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3406</td></tr><tr><td>Arabic No</td><td>3406</td></tr><tr><td>Reference</td><td>Book 60 Hadith 79</td></tr></tbody></table></div>
 

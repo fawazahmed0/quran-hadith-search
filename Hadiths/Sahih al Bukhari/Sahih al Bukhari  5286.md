@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: The pagans were of two kinds as regards their relationship 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam] dari [Ibnu Juraij] dan telah berkata ['Atha'] dari [Ibnu Abbas] ia berkata: "Orang-orang musyrik terbagi menjadi dua bila dilihat dari kedudukan mereka dari Nabi shallallahu 'alaihi wasallam dan kaum mukminin. Yang pertama, Ahlul Harb. Yaitu orang-orang musyrik yang Nabi shallallahu 'alaihi wasallam memerangi mereka dan mereka juga memerangi beliau. Dan yang kedua, Ahlu 'Ahd. Yakni, kaum musyrikin yang tidak diperangi oleh Rasulullah dan mereka juga tidak memerangi beliau. Dan apabila ada salah seorang wanita berhijrah dari Ahlul Harb, maka wanita itu tidak boleh dinikahi hingga ia haid hingga suci kembali. Setelah suci, maka menikah dengannya pun menjadi halal. Apabila suaminya juga ikut berhijrah sebelum wanita itu dinikahi, maka wanita itu akan dikembalikan padanya. Kemudian, apabila yang berhijrah adalah seorang hamba sahaya laki-laki atau pun perempuan, maka keduanya akan menjadi merdeka serta berhak untuk mendapatkan hak sebagaimana yang didapatkan oleh kaum muhajirin yang lain." Kemudian disebutkan pula Ahlul 'Ahd sebagaimana haditsnya Mujahid: "Apabila seorang budak yang berhijrah baik laki-laki atau pun perempuan kepada orang-orang musyrik Ahlul 'Ahd, maka mereka tidak akan dikembalikan, namun yang dikembalikan adalah tebusan harga mereka." Dan 'Atha' berkata; dari Ibnu Abbas bahwasanya; Qaribah binti Abu Umayyah adalah isteri Umar bin Al Khaththab, lalu ia menceraikannya. Kemudian wanita itu dinikahi oleh Mu'awiyah bin Abu Sufyan, sedangkan Ummul Hakam binti Abu Sufyan adalah isteri dari 'Iyadl bin Ghanm Al Fihri dan kemudian ia pun menceraikannya, lalu dinikahi oleh Abdullah bin Utsman Ats Tsaqafi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5286</td></tr><tr><td>Arabic No</td><td>5286</td></tr><tr><td>Reference</td><td>Book 68 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Многобожники по отношению к Пророку ﷺ и верующим делились на две категории: те, с которыми они сражались и которые сражались с ними /ахлюль-харб/, и те, с которыми они не сражались и которые не сражались с ними /ахлюль-‘ахд/. И если некая женщина совершала переселение от тех, с кем воевали, то к ней не сватались до тех пор, пока она не очистится от следующих месячных. И только после очищения ей разрешалось выйти замуж. Но если её муж совершал переселение до того, как она успевала выйти замуж, она возвращалась к нему. И если какой-либо раб или рабыня переселялись от них (к мусульманам), то они считались свободными и имели те же права, что и другие переселенцы. Если же раб или рабыня переселились от таких многобожников, с которыми был заключён мирный договор /ахлюль-‘ахд/, то их не возвращали, но оплачивали их стоимость»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5286</td></tr><tr><td>Arabic No</td><td>5286</td></tr><tr><td>Reference</td><td>Book 68 Hadith 35</td></tr></tbody></table></div>
 

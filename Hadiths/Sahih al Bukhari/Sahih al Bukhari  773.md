@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) set out with the intention of going to Suq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musadad] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] -dia adalah Ja'far bin Abu Wahsyiyyah- dari [Sa'id bin Jubair] dari ['Abdullah bin 'Abbas] berkata, "Nabi shallallahu 'alaihi wasallam bersama sekelompok sahabat berangkat menuju pasar 'Ukazh. Saat itu telah ada penghalang antara setan dan berita-berita langit dimana telah dikirim kabut kepada setan sebagai penghalang. Maka setan-setan kembali menemui kaumnya, lalu kaumnya berkata, "Apa yang terjadi dengan kalian?" Setan-setan tersebut menjawab, "Telah ada penghalang antara kami dan berita-berita langit dengan dikirimnya kabut." Kaumnya berkata, "Tidak ada penghalang antara kalian dan berita-berita langit kecuali telah ada sesuatu yang terjadi. Pergilah kalian ke seluruh penjuru timur bumi dan baratnya, lalu perhatikanlah apa penghalang yang ada antara kalian dan berita-berita langit!" Maka berangkatlah setan-setan yang ada di Tihamah untuk mendatangi Nabi shallallahu 'alaihi wasallam dan para sahabat Beliau yang sedang berada di pasar 'Ukazh. Saat itu beliau dan para sahabat sedang melaksanakan shalat fajar. Ketika setan-setan itu mendengar Al Qur'an, mereka menyimaknya dengan baik hingga mereka pun berkata, "Demi Allah, inilah yang menjadi penghalang antara kalian dan berita-berita langit." Dan perkataan ini pula yang disampaikan ketika mereka kembali kepada kaum mereka. Lantas mereka berkata kepada kaumnya, "Wahai kaum kami, sesungguhnya kami telah mendengarkan Al Quran yang menakjubkan. (Yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan seseorangpun dengan Tuhan kami) ' (Qs. Al Jin: 1-2). Maka kemudian Allah menurunkan wahyu kepada Nabi-Nya shallallahu 'alaihi wasallam: '(Katakanlah (hai Muhammad): "Telah diwahyukan kepadamu bahwasanya: telah mendengarkan sekumpulan jin (akan Al Qur'an)) ' (Qs. Al Jin: 1). Yakni diwahyukan kepada beliau perkataan jin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 10 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал:\n— (Однажды) Пророк ﷺ вместе с группой своих сподвижников двинулся в путь, намереваясь посетить ярмарку в ‘Укáзе. (В то время) шайтанам был преграждён доступ к известиям с небес и (некоторые из них) были поражены небесным огнём. Тогда шайтаны вернулись к своему народу, и (их) спросили: «Что с вами?» Они сказали: «(Что-то) преградило нам доступ к известиям с небес, и мы были поражены небесным огнём». (Им) сказали: «Преградой между вами и известиями с небес могло стать только что-то новое, отправляйтесь же на восток и на запад земли и посмотрите, что помешало вам (узнавать эти) известия». И те из них, что направились в сторону Тихамы, (прошли рядом) с Пророком ﷺ который направлялся на рынок в ‘Укáзе и совершавшим в это время утренний намаз вместе со своими сподвижниками в Нахле. И когда они услышали (чтение) Корана, они стали прислушиваться к нему и (стали) говорить: «Клянёмся Аллахом, это то, что преградило вам доступ к известиям с небес!» — а потом, когда они вернулись к своему народу, они сказали: «О народ наш! Воистину, мы слышали удивительный Коран. Он наставляет на прямой путь, и мы уверовали в него и не будем приобщать сотоварищей к нашему Господу», после чего Аллах ниспослал Своему Пророку ﷺ (аят, в котором говорится): «Скажи: “Внушено мне откровением (от Аллаха)…”» И ему действительно было ниспослано в откровении (содержание) разговоров джиннов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 10 Hadith 167</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:I heard Sa'id bin Zaid saying to the people, "If you but saw me an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Qais] berkata, aku mendengar [Sa'id bin Zaid] berkata kepada suatu kaum; "Sesungguhnya aku melihat diriku bahwa 'Umar adalah orang yang mengikatku karena (aku masuk) Islam, aku dan saudara perempuanku, sebelum 'Umar masuk Islam. Dan seandainya gunung Uhud bisa lenyap dari tempatnya, tentu akan lenyap karena perbuatan kalian terhadap 'Utsman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 63 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Зейд говорил людям: «Если бы вы только видели, как ‘Умар связал меня и свою сестру за то, что мы приняли ислам, (этого было) до того, как ‘Умар сам принял ислам. И если бы гора Ухуд могла сдвинуться со своего места за то, что вы сделали с ‘Усманом, то она так и сделала бы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 63 Hadith 92</td></tr></tbody></table></div>
 

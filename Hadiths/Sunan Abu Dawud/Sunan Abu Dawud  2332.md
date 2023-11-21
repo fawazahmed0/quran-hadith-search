@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Kuraib:That Umm al-Fadl, daughter of al-Harith, sent him to Mu'aqiyah i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Isma'il bin Ja'far], telah mengabarkan kepadaku [Muhammad bin Abu Harmalah], telah mengabarkan kepadaku [Kuraib], bahwa Ummu Al Fadhl binti Al Harits telah mengutusnya pergi kepada Mu'awiyah di Syam. Ia berkata; aku datang ke Syam, dan menunaikan keperluannya, kemudian telah nampak hilal Ramadhan sementara aku berada di Syam. Kami melihat hilal pada malam Jum'at kemudian aku datang ke Madinah pada akhir bulan. Lalu Ibnu Abbas bertanya kepadaku. -kemudian ia menyebutkan hilal. Kemudian [Ibnu Abbas] berkata; kapan kalian melihat hilal? Aku katakan; aku melihatnya pada malam Jum'at. Ia berkata; apakah engkau melihatnya? Aku katakan; ya, dan orang-orang melihatnya. Mereka berpuasa dan Mu'awiyah pun berpuasa. Ibnu Abbas berkata; akan tetapi kami melihatnya pada malam sabtu, dan kami masih berpuasa hingga kami menyempurnakan tiga puluh hari atau kami melihat hilal. Aku katakan; tidakkah engkau cukup dengan (ru'yah) yang dilihat Mu'awiyah dan puasanya? Ia berkata; tidak, demikianlah Rasulullah shallallahu 'alaihi wasallam memerintahkan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1087)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2332</td></tr><tr><td>Arabic No</td><td>2332</td></tr><tr><td>Reference</td><td>Book 14 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Курайба, что однажды Умм аль-Фадль бинт аль-Харис, да будет доволен ею Аллах, послала его к Му‘авии в Шам. Он сказал: «Я прибыл в Шам, выполнил её поручение. Начало рамадана застало меня в Шаме. Мы увидели народившийся месяц в ночь на пятницу. Я прибыл в Медину в конце месяца, и Ибн ‘Аббас спросил меня о народившемся месяце: “Когда вы увидели народившийся месяц?” Я ответил: “Я видел его в ночь на пятницу”. Он спросил: “Ты его видел?” Я ответил: “Да. И люди видели его и начали поститься. И Му‘авия тоже”. Он сказал: “Но мы видели его в ночь на субботу и до сих пор постимся и будем поститься, пока не закончится тридцатый день или пока не увидим народившийся месяц”. Я сказал: “Почему бы тебе не ограничиться тем, что Му‘авия видел его, и не удовольствоваться его постом?” Ибн ‘Аббас сказал: “Нет, так велел нам поступать Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1087)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2332</td></tr><tr><td>Arabic No</td><td>2332</td></tr><tr><td>Reference</td><td>Book 14 Hadith 20</td></tr></tbody></table></div>
 

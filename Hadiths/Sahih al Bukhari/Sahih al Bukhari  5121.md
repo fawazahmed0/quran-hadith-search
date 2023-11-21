@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A woman presented herself to the Prophet (for marriage). 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] Telah menceritakan kepada kami [Abu Ghassan] ia berkata; Telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] bahwasanya; Ada seorang wanita menawarkan dan menghibahkan dirinya kepada Nabi shallallahu 'alaihi wasallam, lalu seorang laki-laki pun berkata pada beliau, "Wahai Rasulullah, nikahkanlah aku dengannya." Beliau bertanya, "Apa yang kamu punyai?" laki-laki itu menjawab, "Aku tidak punya apa-apa." Beliau bersabda: "Pergi dan carilah meskipun hanya cincin besi." Maka laki-laki itu pun pergi, kemudian kembali dan berkata, "Tidak, demi Allah aku mendapatkan sesuatu apa pun, kecuali sarungku ini, biarlah wanita itu mendapat setengahnya." Sahl berkata; Laki-laki itu tidak memiliki baju atas. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Apa yang dapat kamu perbuat dengan kainmu itu. Jika kamu memakainya, maka badanmu tidak tertutup, dan bila nanti isterimu memakainya, badan atasnya juga tak tertutup." Akhinya laki-laki itu pun duduk hingga agak lama, lalu beranjak. Kemudian Nabi shallallahu 'alaihi wasallam melihatnya, maka beliau pun memanggilnya -atau dipanggilkan untuknya- lalu bertanya padanya: "Apa saja yang telah kamu hafal dari Al Qur'an?" laki-laki itu menjawab, "Aku hafal surat ini dan ini." Ia menghitungnya. Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Kami telah menikahkanmu dengan wanita itu dengan mahar hafalan Al Qur'anmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 67 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля (ибн Са‘да), да будет доволен им Аллах, что одна женщина предложила себя (в жёны) Пророку ﷺ, и кто-то из мужчин сказал ему: «О Посланник Аллаха, (если она не подходит тебе,) выдай её замуж за меня!» (Пророк ﷺ) спросил: «А что у тебя есть?» Он ответил: «У меня нет ничего». (Тогда Пророк ﷺ) велел: «Ступай и постарайся найти хотя бы железное кольцо». (И этот человек) ушёл, а потом вернулся и сказал: «Клянусь Аллахом, я не нашёл ничего, даже железного кольца, но вот мой изар, и пусть ей будет половина от него».\nСахль сказал: «А у него не было даже накидки. (Выслушав его,) Пророк ﷺ сказал: “А что ей делать с твоим изаром? Если его будешь носить ты, ничего не останется ей, а если его будет носить она, ничего не достанется тебе!” Тогда этот человек сел, а просидев долгое время, поднялся (со своего места). Это увидел Пророк ﷺ, который подозвал его (или: и его позвали к нему) и спросил: “Что из Корана ты знаешь (наизусть)?” Он ответил: “Такую-то и такую-то суру”, упомянув (названия этих сур), и тогда Пророк ﷺ сказал (ему): “Мы выдаём её за тебя замуж за то, что ты знаешь из Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 67 Hadith 57</td></tr></tbody></table></div>
 

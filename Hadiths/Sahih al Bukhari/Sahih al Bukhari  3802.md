@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:A silken cloth was given as a present to the Prophet (ﷺ) . Hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Abu Ishaq] berkata, aku mendengar [Al Bara' radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam diberi hadiah pakaian terbuat dari sutera, para shahabat beliau merabanya dan mereka terkagum-kagum dengan kehalusan kain tersebut. Maka beliau berkata; "Apakah kalian terkagum-kagum dengan kehalusan kain ini?. Sungguh sapu tangan Sa'ad bin Mu'adz (di surga) lebih baik darinya atau lebih halus". Diriwayatkan juga oleh [Qatadah] dan [Az Zuhriy] yang keduanya mendengar [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3802</td></tr><tr><td>Arabic No</td><td>3802</td></tr><tr><td>Reference</td><td>Book 63 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «(Однажды) Пророку ﷺ подарили шёлковую одежду, и люди стали трогать ей и восхищаться её мягкостью. Тогда Посланник Аллаха ﷺ сказал: “Вы восхищайтесь мягкостью этой (одежды)? Поистине, носовые платки Са‘да ибн Му‘аза лучше этого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3802</td></tr><tr><td>Arabic No</td><td>3802</td></tr><tr><td>Reference</td><td>Book 63 Hadith 27</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:We were with the Prophet (ﷺ) on a journey, and whenever we a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Usman] dari [Abu Musa] berkata, "Pernah kami bersama Nabi shallallahu 'alaihi wasallam dalam sebuah safar, jika kami menaiki tempat yang tinggi maka kami bertakbir, dan beliau bersabda: 'Sederhanakanlah kalian dalam berdoa, sebab kalian tidak menyeru Dzat yang tuli dan tidak pula yang ghaib, sesungguhnya kalian menyeru Tuhan yang Maha mendengar lagi Maha melihat dan Maha dekat." Kemudian beliau mendatangiku sedang aku berkata dalam hati: 'Laa haula walaa quwwata illaa billaah (Tiada daya dan kekuatan kecuali dengan pertolongan Allah) ', maka beliau berkata: "Wahai Abdullah bin Qais, ucapkanlah laa haula walaa quwwata illaa billaah, sebab bacaan itu adalah perbendaharaan surga, atau beliau berkata dengan redaksi, 'Maukah aku tunjukkan ucapan itu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7386</td></tr><tr><td>Arabic No</td><td>7386</td></tr><tr><td>Reference</td><td>Book 97 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Абу Муса, да будет доволен им Аллах, сказал: «Однажды мы были вместе с Пророком ﷺ в одной из поездок, и когда мы поднимались (на возвышенность), то возвеличивали Аллаха, и тогда Пророк ﷺ сказал: “О люди! Умерьте свой пыл! Поистине, вы взываете не к глухому и не к отсутствующему, однако, вы взываете к Слышащему, Видящему”. Затем пришёл ‘Али, а я говорил себе: “Нет силы и мощи ни у кого, кроме Аллаха”, и тогда он сказал: “О ‘Абдуллах ибн Кайс, произноси: ‹Нет силы и мощи ни у кого, кроме Аллаха /Ля хауля ва ля куввата илля би-Ллях/›, ибо, поистине, эти слова являются одним из сокровищ Рая!” (Или он сказал: “Не указать ли мне тебе...”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7386</td></tr><tr><td>Arabic No</td><td>7386</td></tr><tr><td>Reference</td><td>Book 97 Hadith 16</td></tr></tbody></table></div>
 

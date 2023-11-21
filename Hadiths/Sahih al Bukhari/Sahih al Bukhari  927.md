@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once the Prophet (ﷺ) ascended the pulpit and it was the la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Aban] berkata, telah menceritakan kepada kami [Ibnu Al Ghasil] berkata, telah menceritakan kepada kami ['Ikrimah] dari [Ibnu 'Abbas] berkata, "Nabi shallallahu 'alaihi wasallam menaiki mimbar -yang merupakan kali terakhir beliau duduk di situ- dalam keadaan berselimut yang diletakkannya di atas kedua pundaknya dan mengikat kepalanya dengan ikat kepala berwarna hitam. Setelah memuji Allah dan mensucikan-Nya, beliau bersabda: "Amma ba'du, wahai sekalian manusia berkumpullah di hadapanku." Maka orang-orang berkumpul mengelilingi beliau. Kemudian beliau melanjutkan: "Amma ba'du, sesungguhnya orang yang masih hidup dari kalangan Anshar semakin sedikit, sedangkan orang-orang lain (selain Anshar) terus bertambah banyak. Maka barangsiapa mengurus sesuatu dari urusan ummat Muhammad lalu dia mampu mendatangkan madlarat kepada seseorang atau memberi manfaat kepada seseorang, maka terimalah orang-orang baik mereka (kaum Anshar) dan maafkanlah orang yang keliru dari kalangan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>927</td></tr><tr><td>Arabic No</td><td>927</td></tr><tr><td>Reference</td><td>Book 11 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал:«Во время последнего собрания с участием Пророка ﷺ на плечи которого был накинут плащ, а голова перевязана промасленной повязкой, он поднялся на минбар. (Пророк ﷺ) воздал хвалу Аллаху, возблагодарил его, а потом велел: “О люди, подойдите ко мне!” — когда же они собрались вокруг него, он сказал: “А затем, (начиная с этого времени,) ансаров будет становиться меньше, а (других)людей — больше, так пусть же тот, кто получит власть над общиной Мухаммада и сможет приносить вред или причинять пользу (людям), принимает(благое) от совершающего благое из (числа ансаров) и прощает тому из них, кто совершит что-нибудь плохое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>927</td></tr><tr><td>Arabic No</td><td>927</td></tr><tr><td>Reference</td><td>Book 11 Hadith 51</td></tr></tbody></table></div>
 

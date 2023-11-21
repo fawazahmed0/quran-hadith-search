@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:That once Allah's Messenger (ﷺ) (p.b.u.h) said, "Your bro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syuihab] telah mengabarkan kepada saya [Al Haitsam bin Abu Sinan] bahwasanya dia mendengar [Abu Hurairah radliallahu 'anhu] mengisahkan pengalamannya, dia menyebutkan bahwa Rasulullah shallallahu 'alaihi wasallam berkata,: "Sesungguhnya saudara kalian ini tidak pernah berkata, rafats (kotor) ". Yang dimaksud Beliau adalah 'Abdullah bin Rawahah yang penah bersya'ir: "Bersama kita ada Rasulullah shallallahu 'alaihi wasallam yang membacacakan Al Qur'an, ketika fajar yang sudah dikenal itu menyingsing, Kita melihat petunjuk setelah sebelumnya kita buta, hati kita meyakini bahwa apa yang disabdakannya adalah benar adanya. Di malam hari Beliau menjauhkan diri dari tempat tidurnya, saat orang-orang musyrik tertidur lelap". Hadits ini dikuatkan oleh ['Uqail] dan berkata, [Az Zubaidiy] telah mengabarkan kepada saya [Az Zuhriy] dari [Sa'id] dan [Al A'raj] dari [Abu Hurairah radliallahu 'anhu]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1155</td></tr><tr><td>Arabic No</td><td>1155</td></tr><tr><td>Reference</td><td>Book 19 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Абу Хурайра, да будет доволен им Аллах, передававший один из своих рассказов (людям), упомянул, что Посланник Аллаха ﷺ сказал: «Поистине, брат ваш не говорит (ничего) непристойного», имея в виду ‘Абдуллаха бин Раваху (и его стихи): \nИ среди нас — Посланник Аллаха, читающий Книгу Его, \nкогда занимается яркая заря.\nОн показал нам правильный путь после слепоты, и сердца наши \nубеждены, что сказанное им верно.\nОн проводит ночи, не касаясь боками своими постели, \nтогда как многобожники спят глубоким сном
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1155</td></tr><tr><td>Arabic No</td><td>1155</td></tr><tr><td>Reference</td><td>Book 19 Hadith 36</td></tr></tbody></table></div>
 

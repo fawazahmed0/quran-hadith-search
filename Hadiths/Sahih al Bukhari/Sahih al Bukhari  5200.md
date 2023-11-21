@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "All of you are guardians and are res
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Musa bin Uqbah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Setiap kalian adalah pemimpin. Dan setiap kalian akan dimintai pertanggungjawaban terhadap yang dipimpinnya. Seorang Amir adalah pemimpin. Seorang suami juga pemimpin atas keluarganya. Seorang wanita juga pemimpin atas rumah suaminya dan anak-anaknya. Maka setiap kalian adalah pemimpin dan setiap kalian akan dimintai pertanggungjawaban atas yang dipimpinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5200</td></tr><tr><td>Arabic No</td><td>5200</td></tr><tr><td>Reference</td><td>Book 67 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Каждый из вас является пастырем, и каждый из вас несёт ответственность за свою паству. Правитель является пастырем (для своих подданных), мужчина является пастырем для своей семьи, женщина является пастырем в доме своего мужа и для его детей, и так, каждый из вас является пастырем и (каждый из вас) несёт ответственность за свою паству»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5200</td></tr><tr><td>Arabic No</td><td>5200</td></tr><tr><td>Reference</td><td>Book 67 Hadith 134</td></tr></tbody></table></div>
 

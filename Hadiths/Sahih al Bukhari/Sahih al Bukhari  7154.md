@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit Al-Bunani:Anas bin Malik said to a woman of his family, "Do you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] Telah mengabarkan kepada kami [Abdushshamad] Telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Tsabit Al Bunani] mengatakan, aku mendengar [Anas bin Malik] berkata kepada seorang wanita dari keluarganya; 'Apakah kamu kenal si wanita A? ' 'Tahu' Jawabnya. Anas melanjutkan; sesungguhnya Nabi shallallahu 'alaihi wasallam pernah melewati wanita itu saat ia menangis di suatu kuburan, lantas beliau menasehatinya: 'Bertakwalah kepada Allah, dan bersabarlah! ' Si wanita itu malah menjawab; 'Sana kau menjauh, sebab kamu tidak mengalami seperti musibahku ini! ' Kata Anas, Nabi pun segera menjauh dan pergi. Lantas ada seseorang yang melewati wanita itu seraya mengatakan; 'Apa yang disabdakan Rasulullah kepadamu? ' Si wanita tadi menjawab; 'Saya tidak tahu kalau orang tadi Rasulullah.' laki-laki itu mengatakan; "Orang tadi itu Rasulullah.!" Anas berkata; si wanita terus datang ke pintu rumah Nabi dan ia tidak menemukan seorang penjaga pintunya, lantas mengatakan; 'Wahai Rasulullah, Demi Allah, aku mengenalmu! ' Lantas Nabi shallallahu 'alaihi wasallam bersabda; "Kesabaran itu terlihat pada saat pertama kali benturan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7154</td></tr><tr><td>Arabic No</td><td>7154</td></tr><tr><td>Reference</td><td>Book 93 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сабит аль-Бунани сказал: «Я слышал, как однажды Анас Ибн Малик спросил одну женщину из его семьи: “Знаешь ли ты такую-то?” Она ответила: “Да!” Он сказал: “Поистине, Пророк ﷺ проходил мимо неё, и она плакала у могилы, и сказал (ей): “Бойся Аллаха и терпи (в надежде на награду от Аллаха)”. Она же сказала ему в ответ: “Оставь меня, ведь поистине, тебя не постигло моё горе!”».\nАнас сказал: «И (Пророк ﷺ) ничего не ответив ей пошёл дальше. И (после этого) мимо неё проходил один человек и сказал: “Что тебе сказал Посланник Аллаха?” Она ответила: “Я не узнала его”. (Этот человек) сказал: “Поистине, это Посланник Аллаха ﷺ”».\nАнас сказал: «И тогда она пришла к дверям (дома) его и не обнаружила у его дверей привратников. Она сказала ему: “О Посланник Аллаха! Клянусь Аллахом, я не узнала тебя!” И Пророк ﷺ сказал (ей): “Поистине, терпение (больше всего необходимо) проявлять в самом начале потрясения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7154</td></tr><tr><td>Arabic No</td><td>7154</td></tr><tr><td>Reference</td><td>Book 93 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We used to consider miracles as Allah's Blessings, but you pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Al Mutsannaa] telah bercerita kepada kami [Abu Ahmad Az Zubairiy] telah bercerita kepada kami [Isra'il] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] berkata; "Kami dahulu menganggap tanda-tanda luar biasa (seperti Mu'jizat) sebagai barakah sedangkan kalian menganggapnya sebagai sesuatu yang menakutkan. Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan kemudian persediaan air menipis, maka beliau bersabda: "Carilah sedikit air". Maka mereka datang dengan membawa sebuah bejana berisi air yang sedikit lalu beliau memasukkan tangan beliau ke dalam bejana itu kemudian bersabda: "Kemarilah bersuci dengan penuh keberkahan dan keberkahan itu datang hanya dari Allah". Sungguh aku melihat air memancar dari sela-sela jari Rasulullah shallallahu 'alaihi wasallam dan sungguh kami pun pernah mendengar makanan bertasbih ketika sedang dimakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 61 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Мы считали знамения благословением, а вы считаете их (средством) устрашения. (Однажды, когда) мы вместе с Посланником Аллаха ﷺ находились в пути и вода у нас стала (подходить к концу), он сказал: “Соберите всю оставшуюся воду”, и ему принесли сосуд, в котором было немного воды. (После этого) он опустил руку в этот сосуд и сказал: “Поспешите к благословенной воде, а благодать — от Аллаха!” — и я увидел, как вода бьёт ключом меж пальцев посланника Аллаха ﷺ. И мы не раз слышали, как еда, которую ел (Пророк ﷺ) прославляет Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 61 Hadith 88</td></tr></tbody></table></div>
 

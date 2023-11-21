@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu'l-'Aliyat al-Bara reported:Ibn Ziyad delayed the prayer. 'Abdullah b. Samit 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ibrahim] dari [Ayyub] dari [Abu Aliyah Al Barra'] dia berkata; Ibnu Ziyad pernah mengakhirkan shalat, lantas [Abdullah bin Shamit] datang menemuiku, lalu aku berikan kursi untuknya, setelah duduk, aku menceritakan kepadanya apa yang dilakukan oleh Ibnu Ziyad, Abdullah lalu menggigit bibirnya dan beliau tepuk pahaku sambil berkata; "Aku pernah bertanya kepada [Abu Dzar] sebagaimana engkau bertanya kepadaku, Abu Dzar menepuk pahaku sebagaimana aku menepuk pahamu, lalu dia berkata; "Aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam sebagaimana engkau bertanya kepadaku, lalu beliau menepuk pahaku sebagaimana aku menepuk pahamu, dan beliau berpesan; "Tunaikanlah shalat tepat pada waktunya, jika kamu mendapati shalat bersama mereka, maka shalatlah (bersama mereka), jangan kamu katakan "Maaf, aku telah melakukan shalat, maka aku tak akan shalat lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1469</td></tr><tr><td>Arabic No</td><td>648.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абуль-‘Алия аль-Барраъ сказал: (Однажды, когда) Ибн Зияд отложил молитву (на более позднее время,) ко мне пришёл ‘Абдуллах ибн ас-Самит и я подал ему стул, на который он сел. Я рассказал ему о том, что сделал Ибн Зияд, и он прикусил губу, ударил меня по бедру и сказал: Поистине, я спрашивал Абу Зарра также, как ты спросил меня, и он ударив меня по бедру, как я ударил по твоему, сказал: Поистине, я спрашивал Посланника Аллаха ﷺ также, как ты спросил меня, и он ударив меня по бедру, как я ударил по твоему, сказал: «Совершай молитву в положенное (для) неё время, а если (время) молитвы застанет тебя с ними, то помолись (вместе с людьми), и не говори: “Я уже помолился, поэтому не стану совершать молитву (снова)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1469</td></tr><tr><td>Arabic No</td><td>648.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 302</td></tr></tbody></table></div>
 

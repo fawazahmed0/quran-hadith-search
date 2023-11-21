@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the husband of Barira was a slave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] semuanya dari [Abu Hisyam]. [Ibnu Al Mutsanna] berkata; Telah menceritakan kepada kami [Mughirah bin Salamah Al Makhzumi Abu Hisyam] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami ['Ubaidullah] dari [Yazid bin Ruman] dari [Urwah] dari ['Aisyah] bahwa suami Barirah adalah seorang budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3785</td></tr><tr><td>Arabic No</td><td>1504.10</td></tr><tr><td>Reference</td><td>Book 20 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3785</td></tr><tr><td>Arabic No</td><td>1504.10</td></tr><tr><td>Reference</td><td>Book 20 Hadith 16</td></tr></tbody></table></div>
 

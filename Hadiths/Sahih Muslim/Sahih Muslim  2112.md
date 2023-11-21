@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Apostle of Allah (ﷺ) observed prayer while it was (sol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Abu Bakr bin Khallad] keduanya dari [Yahya Al Qaththan] - [Ibnul Mutsanna] berkata- telah menceritakan kepada kami [Yahya] dari [Sufyan] ia berkata, telah menceritakan kepada kami [Habib] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau menunaikan shalat gerhana. Beliau membaca (ayat), kemudian ruku', kemudian membaca lagi, kemudian beliau ruku', kemudian beliau membaca lagi, kemudian ruku' kemudian beliau membaca lagi, kemudian ruku' dan setelah itu, beliau ruku'. Ia berkata; Dan yang lain meriwayatkan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2112</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 10 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Ибн ‘Аббаса о том, что Пророк ﷺ совершая молитву по поводу затмения солнца, прочитал в ней (Коран) и затем совершил поясной поклон. Затем он (опять) прочитал (Коран) и затем совершил поясной поклон, затем он (опять) прочитал (Коран) и затем совершил поясной поклон, затем он (опять) прочитал (Коран) и затем совершил поясной поклон, после чего он совершил земной поклон.(Ибн ‘Аббас) сказал: «И другой (рак‘ат он совершил) таким же образом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2112</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 10 Hadith 21</td></tr></tbody></table></div>
 

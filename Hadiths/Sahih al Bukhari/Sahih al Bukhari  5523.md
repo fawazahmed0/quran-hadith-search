@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:Allah's Messenger (ﷺ) prohibited Al-Mut'a marriage and the eatin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Abdullah] dan [Al Hasan] keduanya anak Muhammad bin Ali, dari [Bapak keduanya] dari [Ali] radliallahu 'anhum, ia berkata, "Saat penaklukan Khaibar Rasulullah shallallahu 'alaihi wasallam melarang dari nikah mut'ah dan makan daging keledai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5523</td></tr><tr><td>Arabic No</td><td>5523</td></tr><tr><td>Reference</td><td>Book 72 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил временные браки /мут‘а/ и употребление в пищу мяса домашних ослов в год битвы при Хайбаре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5523</td></tr><tr><td>Arabic No</td><td>5523</td></tr><tr><td>Reference</td><td>Book 72 Hadith 49</td></tr></tbody></table></div>
 

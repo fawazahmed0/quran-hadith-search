@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:The nearest a serva
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], [Ahmad bin 'Amru bin As Sarh] dan [Muhammad bin Salamah] mereka mengatakan; telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami ['Amru yaitu Ibnu Al Harits] dari ['Umarah bin Ghaziyah] dari [Sumayya bekas budak Abu Bakr] bahwa dia mendengar [Abu Shalih Dzakwan] menceritakan dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Saat paling dekat bagi seorang hamba dengan Rabbnya adalah ketika dia sujud, karena itu perbanyaklah berdo'a ketika sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (482)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 2 Hadith 485</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Ближе всего к своему Господу раб оказывается во время совершения земного поклона, так почаще же обращайтесь к Нему с мольбами (в такие моменты)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (482)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 2 Hadith 485</td></tr></tbody></table></div>
 

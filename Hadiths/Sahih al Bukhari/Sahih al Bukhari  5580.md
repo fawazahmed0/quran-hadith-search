@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:"Alcoholic drinks were prohibited at the time we could rarely find
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Syihab Abdu Rabbihi bin Nafi'] dari [Yunus] dari [Tsabit Al Bunani] dari [Anas] dia berkata; "Khamr telah diharamkan atas kami, katika hal itu diharamkan maka kami tidak mendapati jenis khamr dari (perasan) anggur di Madinah kecuali hanya sedikit, ketika itu kebanyakan khamr kami terbuat dari perasan busr (kurma yang masih muda) dan tamr (kurma kering)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5580</td></tr><tr><td>Arabic No</td><td>5580</td></tr><tr><td>Reference</td><td>Book 74 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Когда опьяняющие напитки были запрещены, в Медине редко можно было найти вино из винограда, так как большинство наших опьяняющих напитков изготавливалось из незрелых и спелых фиников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5580</td></tr><tr><td>Arabic No</td><td>5580</td></tr><tr><td>Reference</td><td>Book 74 Hadith 6</td></tr></tbody></table></div>
 

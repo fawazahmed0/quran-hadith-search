@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik reported the Prophet (ﷺ) as saying:No prophet was sent who had n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qatadah] ia berkata; Aku mendengar [Anas bin Malik] menceritakan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tiada seorang Nabi yang diutus kecuali ia telah menjelaskan kepada umatnya tentang dajjal, si buta sebelah dan pendusta. Ketahuilah, bahwa ia benar-benar buta sebelah, dan Rabb kalian tidak buta sebelah. Antara kedua matanya tertulis 'kafir'." Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] dari [Muhammad bin Ja'far] dari [Syu'bah] berkata, "Bertuliskan Kaf-Fa'-Ra." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdul Warits] dari [Syu'aib Ibnul Habhab] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam sebagaimana dalam hadits, beliau mengatakan: "Setiap muslim akan dapat membacanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7131) Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4316</td></tr><tr><td>Arabic No</td><td>4316</td></tr><tr><td>Reference</td><td>Book 39 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не было такого пророка, который не предостерегал бы свою общину от Даджжаля одноглазого лжеца. Поистине, он будет кривым на один глаз, тогда как ваш Господь, поистине, одноглазым не является. И, поистине, меж глаз его будет начертано “неверующий” /кафир/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7131) Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4316</td></tr><tr><td>Arabic No</td><td>4316</td></tr><tr><td>Reference</td><td>Book 39 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar: "Alcoholic drinks are prepared from five things, i.e., raisins, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu As Safar] dari [As Sya'bi] dari [Ibnu Umar] dari [Umar] dia berkata; "Khamr itu terbuat dari lima jenis, yaitu dari kismis, tamr (kurma kering), hinthah (biji gandum), tepung, dan (perasan) madu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5589</td></tr><tr><td>Arabic No</td><td>5589</td></tr><tr><td>Reference</td><td>Book 74 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что ‘Умар сказал: «Вино делается из пяти вещей: изюма, фиников, пшеницы, ячменя и мёда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5589</td></tr><tr><td>Arabic No</td><td>5589</td></tr><tr><td>Reference</td><td>Book 74 Hadith 15</td></tr></tbody></table></div>
 

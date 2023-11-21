@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuRafi': One day the Prophet (ﷺ) had intercourse with all his wives.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Abdurrahman bin Abu Rafi'] dari [Bibinya, Salma] dari [Abu Rafi'] bahwasanya Nabi shallallahu 'alaihi wasallam pada suatu hari pernah menggilir istri-istri beliau, beliau mandi tiap kali selesai berhubungan bersama ini dan ini. Aku bertanya; Ya Rasulullah, tidakkah engkau menjadikannya sekali mandi saja? Beliau menjawab: "Yang seperti itu lebih suci dan lebih baik serta lebih bersih." Abu Dawud berkata; Hadits Anas lebih shahih daripada hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>219</td></tr><tr><td>Reference</td><td>Book 1 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Рафи‘а: «Однажды Пророк ﷺ обошел всех своих жен, купаясь у каждой из них.(Абу Рафи‘) сказал: «Я сказал ему: “О Посланник Аллаха, почему бы тебе не искупаться один раз?” Он ответил: “Это лучше, прекрасней и чище”».Абу Дауд сказал: «Но хадис Анаса лучше, чем этот»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>219</td></tr><tr><td>Reference</td><td>Book 1 Hadith 219</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sulaiman al-A’mash said:I prayed the Friday prayer with al-Hajjaj and he addre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qathan bin Nusair] berkata, telah menceritakan kepada kami [Ja'far] -maksudnya Ja'far bin Sulaiman- berkata, telah menceritakan kepada kami [Dawud bin Sulaiman] dari [Syarik] dari [Sulaiman Al A'masy] ia berkata, "Aku shalat jum'at bersama [Al Hajjaj], lalu ia berkhutbah…. kemudian ia menyebutkan hadits Abu Bakar bin Ayyasy. Al Hajjaj mengatakan dalam khutbahnya, "Dengarkan dan patuhilah khalifah dan kekasih Allah, Abdul Malik bin Marwan. Kemudian perawi menyebutkan hadits selanjutnya, "Al Hajjaj berkata, "Sekiranya aku hukum Rabi'ah di Mudhar…dan ia tidak menyebutkan kisah Al Hamra
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4645</td></tr><tr><td>Arabic No</td><td>4645</td></tr><tr><td>Reference</td><td>Book 42 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-А‘маша: «Я присутствовал, когда аль-Хаджжадж обращался к людям с речью». И он упомянул хадис Абу Бакра ибн ‘Айяша и упомянул о том, что он сказал: «Слушайте и повинуйтесь халифу и избраннику Аллаха ‘Абдульмалику ибн Марвану», а также: «Если бы я взыскал с (племени) раби‘ за (вред, нанесённый в своё время племени) мудар…» И он не упоминал историю с неарабами-мавали
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4645</td></tr><tr><td>Arabic No</td><td>4645</td></tr><tr><td>Reference</td><td>Book 42 Hadith 50</td></tr></tbody></table></div>
 

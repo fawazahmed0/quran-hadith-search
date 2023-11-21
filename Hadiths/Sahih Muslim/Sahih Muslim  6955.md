@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : J'ai entendu le Prophète (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] -dan lafadh ini milik 'Utsman- Ishaq berkata; telah mengabarkan kepada kami, dan 'Utsman berkata; telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari ['Umarah bin 'Umair] dari [Al Harits bin Suwaid] dia berkata; "Saya pernah datang berkunjung ke rumah Abdullah untuk menjenguknya ketika ia sedang sakit. Lalu ia menuturkan kepada saya tentang dua hal: yang satu tentang dirinya dan yang satu lagi mengenai Rasulullah shallallahu 'alaihi wasallam." [Abdullah] berkata; 'Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Allah merasa bergembira karena taubatnya seorang hamba yang beriman melebihi kegembiraan seseorang berada di gurun sahara yang mencekam dengan ditemani hewan tunggangannya serta perbekalan makanan dan minuman, kemudian ia tertidur. Ketika ia terbangun dari tidurnya, ternyata hewan tunggangannya terlepas dengan membawa perbekalan makanan dan minumannya. Kemudian orang tersebut mencari hewan tunggangannya tersebut ke sana kemari hingga ia merasa haus. Setelah itu, ia pun berkata; 'Sebaiknya aku kembali saja ke tempat tidurku semula sampai aku mati.' Tak lama kemudian orang tersebut telah membaringkan tubuhnya dengan meletakkan kepalanya di atas lengannya dan bersiap-siap untuk mati. Ketika ia terbangun, ternyata hewan tunggangannya itu telah berada di sisinya dengan membawa bekal makanan dan minumannya. Sunguh ke gembiraan Allah karena taubatnya seorang hamba-Nya yang beriman melebihi kegembiraan orang yang hewan tunggangannya terlepas lalu kembali dengan membawa perbekalan makanan dan minumannya ini." Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Adam] dari [Quthbah bin 'Abdul 'Aziz] dari [Al A'masy] dengan sanad ini, dan dia berkata; dari seorang laki-laki yang berada di sebuah gurun yang mencekam.' Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami ['Umarah bin 'Umair] dia berkata; aku mendengar [Al Harits bin Suwaid] dia berkata; telah menceritakan kepadaku ['Abdullah] mengenai dua buah hadits. Salah satunya dari Rasulullah shallallahu 'alaihi wasallam, sedangkan yang satu lagi tentang dirinya. Dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Allah sangat gembira dengan taubatnya seorang hamba yang beriman'. -yang serupa dengan Hadits Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6955</td></tr><tr><td>Arabic No</td><td>2744.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6955</td></tr><tr><td>Arabic No</td><td>2744.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 4</td></tr></tbody></table></div>
 

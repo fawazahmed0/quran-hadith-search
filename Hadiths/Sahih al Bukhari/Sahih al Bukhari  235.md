@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:Allah's Messenger (ﷺ) was asked regarding ghee (cooking butte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepadaku [Malik] dari [Ibnu Syihab Az Zuhri] dari [Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas] dari [Maimunah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang bangkai tikus yang jatuh ke dalam lemak (minyak samin). Maka Beliau menjawab: "Buanglah bangkai tikus itu ada apa yang ada di sekitarnya, lalu makanlah lemak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>235</td></tr><tr><td>Arabic No</td><td>235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас передал со слов Маймуны, да будет доволен ею Аллах, что однажды Посланника Аллаха ﷺ спросили о (том, что следует делать с) маслом, в которое попала мышь, и он сказал: «Достаньте и выбросьте мышь со всем тем, что вокруг неё есть, а (остальное) своё масло (можете) употребить в пищу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>235</td></tr><tr><td>Arabic No</td><td>235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 101</td></tr></tbody></table></div>
 

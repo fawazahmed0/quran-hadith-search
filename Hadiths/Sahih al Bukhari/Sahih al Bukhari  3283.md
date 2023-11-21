@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "If anyone of you, on having sexual 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3283</td></tr><tr><td>Arabic No</td><td>3283</td></tr><tr><td>Reference</td><td>Book 59 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если бы кто-нибудь из вас, пожелав вступить в половую близость со своей женой скажет: “Удали меня от шайтана, и удали шайтана от того, кем Ты наделишь меня!” /Джаннибни-ш-шайтана, ва джанниби-ш-шайтана ма разакътани!/, — и после этого (эти супруги) будут наделены ребёнком, то шайтан не сможет причинить ему вред и не будет иметь власть над ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3283</td></tr><tr><td>Arabic No</td><td>3283</td></tr><tr><td>Reference</td><td>Book 59 Hadith 92</td></tr></tbody></table></div>
 

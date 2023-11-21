@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever is made wealthy by A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Hasyim bin Aal Qasim] telah menceritakan kepada kami ['Abdurrahman bin 'Abdullah bin Dinar] dari [bapaknya] dari [Abu Shalih As-Saman] dari [Abu Hurairah radliallahu 'anhu] berkata,: Rasulullah Shallallahu'alaihiwasallam telah bersabda: "Barangsiapa yang Allah berikan harta namun tidak mengeluarkan zakatnya maka pada hari qiyamat hartanya itu akan berubah wujud menjadi seekor ular jantan yang bertanduk dan memiliki dua taring lalu melilit orang itu pada hari qiyamat lalu ular itu memakannya dengan kedua rahangnya, yaitu dengan mulutnya seraya berkata,: 'Aku inilah hartamu, akulah harta simpananmu". Kemudian Beliau membaca firman Allah subhanahu wata'ala QS Alu 'Imran ayat 180 yang artinya "(Sekali-kali janganlah orang-orang yang bakhil dengan harta yang Allah berikan kepada mereka dari karuniaNya menyangka, ……)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1403</td></tr><tr><td>Arabic No</td><td>1403</td></tr><tr><td>Reference</td><td>Book 24 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «В День воскресения богатство, дарованное Аллахом тому, кто не выплачивал с него закят, предстанет перед ним в образе плешивого ядовитого змея с двумя чёрными пятнами на глазах, который обовьётся вокруг него, вопьётся ему в щёки и скажет: “Я — твоё богатство, я — твоё сокровище”», а потом (Пророк ﷺ) прочитал (следующий аят): «И пусть скупящиеся на то, что даровал им Аллах по милости Своей, ни в коем случае не считают, что это лучше для них, напротив, это для них хуже: в День воскресения обязательно закуют их в ошейники из того, на что они скупились. Аллаху принадлежит наследие небес и земли, и Аллах ведает о том, что вы творите» (сура «Али ‘Имран»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1403</td></tr><tr><td>Arabic No</td><td>1403</td></tr><tr><td>Reference</td><td>Book 24 Hadith 8</td></tr></tbody></table></div>
 

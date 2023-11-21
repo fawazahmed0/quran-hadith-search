@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) sent Usayd ibn Huda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An-Nufaili] telah mengabarkan kepada kami [Abu Mu'awiyah] Al-Hadits. Dan Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah mengabarkan kepada kami ['Abdah] dengan makna yang sama, dari [Hisyam bin Urwah] dari [Ayahnya] dari [Aisyah] dia berkata; Rasululah shallallahu 'alaihi wasallam pernah mengutus Usaid bin Hudlair dan beberapa orang bersamanya untuk mencari kalung Aisyah yang hilang. Setelah waktu shalat tiba, mereka mengerjakan shalat tanpa berwudhu (karena tidak mendapatkan air). Kemudian ketika mereka kembali menghadap Rasulullah shallallahu 'alaihi wasallam, mereka utarakan hal itu kepada beliau, lalu turunlah ayat tentang tayamum. Ibnu Nufail menambahkan; Maka Usaid bin Hudlair berkata kepada Aisyah; Semoga Allah melimpahkan rahmat kepadamu. Tidaklah terjadi sesuatu yang tidak kamu inginkan, melainkan Allah telah menjadikannya suatu kelapangan untuk kaum Muslimin dan kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (336) Sahih Muslim (367)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>317</td></tr><tr><td>Arabic No</td><td>317</td></tr><tr><td>Reference</td><td>Book 1 Hadith 317</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Посланник Аллаха ﷺ отправил Усайда ибн Худайра и с ним ещё несколько человек, чтобы поискать ожерелье, которое я потеряла. И когда подошло время молитвы, они помолились не совершив омовение /вудуъ/. Когда они вернулись к Пророку ﷺ то рассказали ему об этом, и был ниспослан аят об очищении песком.Ибн Нуфайль (в своем риваяте) добавил: «Усайд ибн Худайр сказал ей: “Да помилует тебя Аллах! Не не было так, чтобы с тобой происходило нечто неприятное, без того, чтобы Аллах не облегчал его и верующим и тебе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (336) Sahih Muslim (367)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>317</td></tr><tr><td>Arabic No</td><td>317</td></tr><tr><td>Reference</td><td>Book 1 Hadith 317</td></tr></tbody></table></div>
 

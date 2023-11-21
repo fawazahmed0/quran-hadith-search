@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir bin ‘Abdullah :That his father died and left a debt of thirty w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] bahwa [Syu'aib bin Ishaq] telah menceritakan kepada mereka dari [Hisyam bin 'Urwah] dari [Wahb bin Kaisan], dari [Jabir bin Abdullah], bahwa ia telah mengabarkan kepadanya bahwa ayahnya telah meninggal dan meninggalkan untuknya hutang tiga puluh wasaq kepada seorang yahudi. Kemudian Jabir meminta penangguhan kepadanya, dan orang yahudi tersebut menolak. Lalu Jabir berbicara kepada Nabi shallallahu 'alaihi wasallam agar beliau menjadi perantaranya kepada orang yahudi tersebut dan berbicara kepada orang yahudi agar ia mengambil buah pohon kurmanya untuk menggantikan apa yang menjadi kewajibannya kepada orang yahudi tersebut. Dan Rasulullah shallallahu 'alaihi wasallam berbicara kepadanya agar memberinya tangguhan, namun orang yahudi tersebut menolak. Dan ia pun menyebutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2396)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2884</td></tr><tr><td>Arabic No</td><td>2884</td></tr><tr><td>Reference</td><td>Book 18 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что его отец умер, задолжав одному иудею тридцать васков плодов. Джабир попросил его подождать, однако тот отказался. Тогда Джабир поговорил с Пророком ﷺ чтобы тот попросил иудея подождать. Посланник Аллаха ﷺ пришёл и поговорил с заимодавцем о том, чтобы он взял плоды его пальм вместо того, что ему причитается, но иудей не согласился. Тогда Посланник Аллаха ﷺ попросил его подождать намного, но тот снова отказался. И он привёл хадис полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2396)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2884</td></tr><tr><td>Arabic No</td><td>2884</td></tr><tr><td>Reference</td><td>Book 18 Hadith 23</td></tr></tbody></table></div>
 

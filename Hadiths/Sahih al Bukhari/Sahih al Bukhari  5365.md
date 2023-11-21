@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The best women among the cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Ibnu Thawus] dari [bapaknya] dan [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik wanita yang mengendarai Unta adalah wanita Quraisy." Dan yang lain berkata: "Sebaik-baik wanita Quraisy adalah sifat lembutnya terhadap anak di masa kecilnya, dan kepandaiannya menjaga harta suaminya." Dan sisebutkan pula dari Mu'awiyah dan Ibnu Abbas dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5365</td></tr><tr><td>Arabic No</td><td>5365</td></tr><tr><td>Reference</td><td>Book 69 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Лучшие женщины, которые когда-либо садились верхом на верблюда, — праведные женщины из числа курайшитов. Они самые добрые к детям в их детстве и самые ответственные в отношении имущества их мужей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5365</td></tr><tr><td>Arabic No</td><td>5365</td></tr><tr><td>Reference</td><td>Book 69 Hadith 15</td></tr></tbody></table></div>
 

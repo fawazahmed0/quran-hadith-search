@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: The Messenger of Allah (ﷺ) said to us: When one of you beco
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] berkata, telah menceritakan kepada kami [Dawud bin Abu Hind] dari [Abu Harb bin Abul Aswad] dari [Abu Dzar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami: "Jika salah seorang dari kalian marah dan ia dalam keadaan berdiri, hendakah ia duduk. Jika rasa marahnya hilang (maka itu yang dikehendaki), jika tidak hendaklah ia berbaring." Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] dari [Dawud] dari [Bakr] bahwa Nabi shallallahu 'alaihi wasallam mengutus Abu Dzar dengan membawa pesan hadits ini." Abu Dawud berkata, "Hadits ini adalah yang paling shahih di antara dua hadits yang ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4782</td></tr><tr><td>Arabic No</td><td>4782</td></tr><tr><td>Reference</td><td>Book 43 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «Поистине, Посланник Аллаха ﷺ сказал нам: “Когда кто-нибудь из вас разгневается и он (в это время) стоит, пусть сядет. Если же его гнев не пройдёт, пусть ляжет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4782</td></tr><tr><td>Arabic No</td><td>4782</td></tr><tr><td>Reference</td><td>Book 43 Hadith 10</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:We knew the finishing of the prayer of the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru bin Dinar] dari [Abu Ma'bad] mantan budak Ibnu Abbas, bahwa dia pernah mendengar Abu Ma'bad mengabarkan dari [Ibn Abbas] katanya; "Kami tidak mengetahui usai shalat Rasulullah shallallahu 'alaihi wasallam selain dengan takbir." ['Amru] mengatakan; kemudian aku sebutkan kepada Abu Ma'bad, namun dia memungkirinya seraya berujar; "Aku belum pernah menceritakan kepadamu seperti ini." Kata 'Amru; "Padahal sebelum itu, sungguh ia pernah mengabariku tentang hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1317</td></tr><tr><td>Arabic No</td><td>583.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «Мы узнавали об окончании молитвы Посланника Аллаха ﷺ только (слыша), как он произносил слова “Аллаху акбар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1317</td></tr><tr><td>Arabic No</td><td>583.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 155</td></tr></tbody></table></div>
 

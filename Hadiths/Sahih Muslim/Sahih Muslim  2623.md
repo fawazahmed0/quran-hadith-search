@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported that the Messenger of Allah (ﷺ) was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Hafsh] dari [Ashim Al Ahwal] dari [Muwarriq] dari [Anas] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengadakan suatu perjalanan, maka sebagian sahabat ada yang berpuasa dan ada pula yang berbuka. Maka pada hari itu mereka yang berbuka begitu semangat dalam beramal, sementara mereka yang berpuasa terasa lemas dan malas untuk melakukan beberapa pekerjaan. Maka beliau pun bersabda: "Mereka yang berbuka pada hari telah meraih pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2623</td></tr><tr><td>Arabic No</td><td>1119.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2623</td></tr><tr><td>Arabic No</td><td>1119.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 129</td></tr></tbody></table></div>
 

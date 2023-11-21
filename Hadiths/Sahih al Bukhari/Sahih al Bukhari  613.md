@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya as above (586) and added:"Some of my companions told me that Hish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Rahawaih] berkata, telah menceritakan kepada kami [Wahab bin Jarir] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] seperti itu, Yahya berkata, dan telah menceritakan kepadaku [Sebagian saudara kami] bahwa dia berkata, "Jika mu'adzin mengucapkan, 'Hayya 'Alash shalah '(Marilah melaksanakan shalat) ', dia menjawab, "Laa Haula Walaa Quwwata Illaa Billah '(Tidak ada daya dan kekuatan melainkan dengan izin Allah) '. Dia berkata, "Demikianlah kami mendengar Nabi kalian shallallahu 'alaihi wasallam bersabda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>613</td></tr><tr><td>Arabic No</td><td>613</td></tr><tr><td>Reference</td><td>Book 10 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Яхйа (ибн Абу Касир) сказал:\n— И некоторые наши братья рассказали мне о том, что он сказал: «И когда (муаззин) сказал: “Cпешите на молитву!” — (Му‘авийа не повторил его слова, а) сказал: “Нет мощи и силы ни у кого, кроме Аллаха /Ля хауля ва ля къуввата илля би-Ллях/”, добавив к этому: “Мы слышали, как таким образом произносил эти (слова) ваш Пророк ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>613</td></tr><tr><td>Arabic No</td><td>613</td></tr><tr><td>Reference</td><td>Book 10 Hadith 11</td></tr></tbody></table></div>
 

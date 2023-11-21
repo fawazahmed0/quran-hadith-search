@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alî Ibn 'Abî Tâlib (que Dieu l'agrée) a dit : J'ai obtenu comme butin une vi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Juraij] telah menceritakan kepadaku [Ibnu Syihab] dari [Ali bin Husain bin Ali] dari ayahnya [Husain bin Ali] dari [Ali bin Abu Thalib] dia berkata, "Dahulu saya pernah mendapatkan satu ekor unta dari hasil rampasan perang Badr bersama Rasulullah shallallahu 'alaihi wasallam, lalu Rasulullah shallallahu 'alaihi wasallam menambahku lagi dengan satu ekor unta. Suatu hari saya menambatkan kedua hewan tersebut di depan pintu rumah milik orang Anshar, aku ingin membawa idzkhir dan meletakkannya di atas kedua punggung hewan tersebut untuk saya jual, sedangkan aku bersama seorang laki-laki penjual emas dari Bani Qainuqa'. Dan hasil dari penjualan itu akan aku pergunakan untuk menyelenggarakan pesta pernikahan Fatimah. Ternyata dalam rumah tersebut terdapat Hamzah bin Abdul Mutthalib sedang meminum minuman keras, dia sedang dihibur oleh seorang penyanyi perempuan yang dalam salah satu nyanyiannya terselip kata-kata, "Wahai Hamzah, ingatlah pada unta-unta yang montok." Maka Hamzah pun berdiri dengan membawa pedang terhunus. Lalu dia memotong punuk kedua unta tersebut, lalu membelah perutnya dan mengambil hati yang ada di dalamnya." Saya lalu bertanya kepada Ibnu Syihab, "Dan dua punuknya?" dia menjawab, "Dan dia telah memotong kedua punuk unta tersebut." Ibnu Syihab berkata, "Ali berkata, "Saya melihat pemandangan yang mengejutkan bagiku, lantas saya langsung mendatangi Nabi shallallahu 'alaihi wasallam, dan di samping beliau terdapat Zaid bin Haritsah. Lalu saya memberitahukan kepada beliau apa yang terjadi. Setelah itu beliau keluar bersama Zaid bin Tsabit, dan saya pun ikut bersama beliau. Kemudian beliau menemui Hamzah dan memarahinya. Ternyata Hamzah memandangi beliau sambil berkata, "Kalian ini tidak lain hanyalah para budak bapakku." Akhirnya Rasulullah shallallahu 'alaihi wasallam kembali pulang dan meninggalkan mereka." Dan telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepadaku [Abdurrazaq] telah mengabarkan kepadaku [Ibnu Juraij] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5127</td></tr><tr><td>Arabic No</td><td>1979.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5127</td></tr><tr><td>Arabic No</td><td>1979.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 1</td></tr></tbody></table></div>
 

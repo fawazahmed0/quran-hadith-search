@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':One of 'Abdullah's sons said to 'Abdullah (bin 'Umar) "I wish you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4185</td></tr><tr><td>Arabic No</td><td>4185</td></tr><tr><td>Reference</td><td>Book 64 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что один из сыновей ‘Абдуллаха сказал ему: «Останься в этом году! Я боюсь, что тебе воспрепятствуют (совершение тавафа вокруг) Каабы». Ибн ‘Умар ответил: «Мы вышли в путь вместе с Пророком ﷺ для совершения ‘умры, но неверующие курайшиты преградили нам дорогу к Каабе. Тогда Пророк ﷺ зарезал жертвенный скот и обрил голову, а его сподвижники постригли волосы». Так же он сказал: «Я делаю вас свидетелями того, что я намерился совершить ‘умру, и если мне будет позволено достичь Каабы, я совершу таваф, если же мне помешают достичь Каабы, то я поступлю так же, как поступил Посланник Аллаха ﷺ». Затем, пройдя некоторую часть пути, он сказал: «Положения хаджа и ‘умры одинаковы. Я делаю вас свидетелями того, что я намерился совершить хадж вместе с ‘умрой». Затем он совершил один таваф и один са’и (обход между Сафой и Марвой) для ‘умры и хаджа, и вышел из ихрама умры и хаджа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4185</td></tr><tr><td>Arabic No</td><td>4185</td></tr><tr><td>Reference</td><td>Book 64 Hadith 225</td></tr></tbody></table></div>
 

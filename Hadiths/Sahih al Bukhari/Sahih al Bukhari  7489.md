@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi 'Aufa:Allah's Messenger (ﷺ) said on the Day of (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari [Ismail bin Abu Khalid] dari [Abdullah bin Abu Aufa] berkata, "Dalam perang Ahzab, Rasulullah Shallallhu'alaihiwasallam berdoa: "ALLAAHUMMA MUNZILAL KITAAB, SARII'AL HISAAB, AHZIMIL AHZAAB, WAZALZIL BIHIM (Ya Allah yang menurunkan kitab, yang cepat perhitungan-Nya, hancur leburkanlah pasukan ahzab, guncangkanlah mereka) '. Sedang [Humaidi] menambahkan; telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ibnu Abu Khalid] aku mendengar ['Abdullah] aku mendengar nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7489</td></tr><tr><td>Arabic No</td><td>7489</td></tr><tr><td>Reference</td><td>Book 97 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Ауфа, да будет доволен им Аллах, передаёт, что что в один из дней битвы с союзными племенами Посланник Аллаха ﷺ сказал: «О Аллах, ниспосылающий Писание и скорый в расчёте, нанеси поражение союзным племенам и потряси их!»\nАль-Хумайди добавил (и сказал): Нам рассказал Суфьян (ибн ‘Уейна), который сказал: Нам рассказал ибн Абу Халид, который сказал: Я слышал ‘Абдуллах (ибн Абу Ауфа), который сказал: Я слышал Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7489</td></tr><tr><td>Arabic No</td><td>7489</td></tr><tr><td>Reference</td><td>Book 97 Hadith 115</td></tr></tbody></table></div>
 

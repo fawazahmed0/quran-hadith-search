@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "Allah will say to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Asad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Malik bin Anas] dari [Zaid bin Aslam] dari ['Atho' bin yasar] dari [Abu Said Al Khudzri] mengatakan, Rasulullah Shallallahu'alaihi wasalalm bersabda: "Allah tabaraka wata'ala berfirman kepada penghuni surga; 'Wahai penghuni surga! ' 'Baik, dan kami penuhi panggilan-Mu, ' Jawab penghuni surga. Allah berfirman; 'telah puaskah kalian? ' mereka menjawab; 'Bagaimana mungkin kami tidak puas, sementara Engkau telah memberi kami yang belum pernah Engkau berikan kepada seorang pun dari makhluk-Mu.' Maka Allah berrfirman; 'Sekarang Aku beri kalian suatu yang lebih utama daripada itu.' Penghuni surga bertanya; 'Wahai rabbi, apa yang lebih utama dari kesemuanya? ' Allah berfirman; 'Kuhalalkan keridhaan-Ku untuk kalian, dan Aku tidak murka kepada kalian selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6549</td></tr><tr><td>Arabic No</td><td>6549</td></tr><tr><td>Reference</td><td>Book 81 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Всеблагой и Всевышний Аллах обратится к обитателям Рая: “О обитатели Рая!” — и они скажут: “Мы здесь, Господь наш, и готовы служить Тебе!” Тогда Он спросит: “Довольны ли вы?” — и они скажут: “А чем же нам быть недовольными, ведь Ты даровал нам то, чего не даровал никому из Твоих созданий!” Тогда Он скажет: “Я дарую вам и нечто лучшее, чем это!” Они скажут: “О Господь наш, а что же лучше этого?” — и Он скажет: “Я дарую вам Своё благоволение, и после этого уже никогда не буду гневаться на вас!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6549</td></tr><tr><td>Arabic No</td><td>6549</td></tr><tr><td>Reference</td><td>Book 81 Hadith 138</td></tr></tbody></table></div>
 

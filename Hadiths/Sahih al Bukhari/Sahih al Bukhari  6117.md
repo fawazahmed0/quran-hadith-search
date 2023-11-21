@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu As-Sawar Al-Adawi:'Imran bin Husain said: The Prophet (ﷺ) said, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu As Sawwar Al 'Adawi] dia berkata; saya mendengar ['Imran bin Hushain] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sifat malu itu tidak datang kecuali dengan kebaikan." Maka Busyair bin Ka'b berkata; "Telah tertulis dalam hikmah, sesungguhnya dari sifat malu itu terdapat ketenangan, sesungguhnya dari sifat malu itu terdapat ketentraman." Maka Imran berkata kepadanya; "Aku menceritakan kepadamu dari Rasulullah shallallahu 'alaihi wasallam, sementara kamu menceritakan kepadaku dari catatanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6117</td></tr><tr><td>Arabic No</td><td>6117</td></tr><tr><td>Reference</td><td>Book 78 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Имрана бин Хусайна, да будет доволен им Аллах, что Пророк ﷺ сказал: «Стыдливость не приносит ничего, кроме блага»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6117</td></tr><tr><td>Arabic No</td><td>6117</td></tr><tr><td>Reference</td><td>Book 78 Hadith 144</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yusair bin 'Amr:I asked Sahl bin Hunaif, "Did you hear the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Asy Syaibani] telah menceritakan kepada kami [Yusair bin Amru] mengatakan, aku bertanya kepada [Sahal bin Hunaif]; 'apakah engkau mendengar Nabi shallallahu 'alaihi wasallam bersabda tentang Khawarij? ' Ia menjawab; aku mendengar beliau bersabda; -sambil beliau arahkan tangannya menuju Irak- "Dari sanalah muncul sekelompok kaum yang membaca al Qur'an tidak melebihi kerongkongan mereka, mereka keluar dari Islam sebagaimana anak panah keluar dari busurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6934</td></tr><tr><td>Arabic No</td><td>6934</td></tr><tr><td>Reference</td><td>Book 88 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Юсейр ибн ‘Амр рассказывал: «(Однажды) я спросил Сахля ибн Хунайфа: “Слышал ли ты, как Пророк ﷺ говорил что-нибудь о хариджитах?” Он ответил: “Я слышал, как он говорил, указав рукой в сторону Ирака: “Там появятся люди, которые станут читать Коран, однако он не выйдет за пределы их ключиц, они вылетят из ислама подобно тому, как стрела вылетает через дичь (пробив её насквозь)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6934</td></tr><tr><td>Arabic No</td><td>6934</td></tr><tr><td>Reference</td><td>Book 88 Hadith 16</td></tr></tbody></table></div>
 

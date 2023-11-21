@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar commanded a person that as he went to bed, he should say:" O A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Uqbah bin Mukram Al 'Ammi] dan [Abu Bakr bin Nafi'] mereka berdua berkata; telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Khalid] dia berkata; aku mendengar ['Abdullah bin Al Harits] bercerita dari ['Abdullah bin 'Umar] bahwasanya dia pernah memerintahkan seseorang yang hendak tidur untuk membaca doa; "ALLOOHUMMA KHOLAQTA NAFSII, WA ANTA TAWAFFAAHAA LAKA, MAMAATUHAA WAMAHYAAHAA, IN-AHYAITAHAA FAHFAZH-HAA WAIN AMATTAHAA FAGHFIRLAHAA, ALLOOHUMMA INNII AS-AULKA AL'AAFIYATA "Ya Allah, Engkau telah menciptakan diriku dan Engkaulah yang akan mematikannya. Matiku dan hidupku hanyalah untuk-Mu. Apabila Engkau menghidupkan diriku, maka jagalah. Dan apabila Engkau mematikan diriku, maka ampunilah. Ya Allah, aku memohon kepada-Mu kesehatan yang sempurna." Abdullah bin Umar pernah ditanya oleh seseorang; 'Hai Abdullah, apakah kamu mendengar bacaan doa ini dari Umar? ' Abdullah bin Umar menjawab; 'Saya memperolehnya dari orang yang Iebih mulia dan utama dari Umar yaitu Rasululiah shallallahu 'alaihi wasallam.' Ibnu Nafi' berkata dalam riwayatnya dari 'Abdullah bin Al Harits tanpa menyebutkan lafazh; 'Sami'tu (aku mendengar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6888</td></tr><tr><td>Arabic No</td><td>2712</td></tr><tr><td>Reference</td><td>Book 48 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6888</td></tr><tr><td>Arabic No</td><td>2712</td></tr><tr><td>Reference</td><td>Book 48 Hadith 81</td></tr></tbody></table></div>
 

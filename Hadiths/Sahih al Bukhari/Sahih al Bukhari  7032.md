@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard Allah's Messenger (ﷺ) saying, "While I wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Hamzah bin Abdullah] dari [Abdullah bin Umar] radliallahu 'anhuma mengatakan, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, aku diberi segelas susu, lalu aku meminumnya, kemudian aku berikan sisanya kepada Umar bin khattab." Mereka bertanya; 'bagaimana engkau takwilkan mimpimu ya Rasulullah? ' Beliau menjawab; "ilmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7032</td></tr><tr><td>Arabic No</td><td>7032</td></tr><tr><td>Reference</td><td>Book 91 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “(Однажды) я увидел во сне, что мне поднесли кубок молока, которое я пил до тех пор, после чего отдал остаток ‘Умару бин аль-Хаттабу“. Люди спросили: “Как же ты истолковал (этот сон), о Посланник Аллаха?“ — на что он ответил: “(Это —) знание“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7032</td></tr><tr><td>Arabic No</td><td>7032</td></tr><tr><td>Reference</td><td>Book 91 Hadith 47</td></tr></tbody></table></div>
 

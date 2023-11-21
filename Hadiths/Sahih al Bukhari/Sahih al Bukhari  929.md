@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When it is a Friday, the angels st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Az Zuhri] dari [Abu 'Abdullah Al Aghar] dari [Abu Hurairah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Pada hari Jum'at para Malaikat hadir di pintu Masjid mencatat siapa orang yang datang paling awal dan seterusnya. Orang yang paling awal datang ke Masjid seperti orang yang berkurban dengan seekor unta, kemudian seperti orang yang berkurban dengan seekor sapi, kemudian seperti orang yang berkurban seekor kambing yang bertanduk, kemudian seperti orang yang berkurban seekor ayam, kemudian seperti orang yang berkurban sebutir telur. Dan apabila Imam sudah keluar (untuk memberi khutbah), maka para Malaikat menutup buku catatan mereka kemudian mendengarkan dzikir (khutbah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда наступает пятница на дверях мечети располагаются ангелы, которые (по порядку) записывают (людей, приходящих в мечеть) одного за другим: тот, кто пришел рано, подобен тому, кто принес в жертву верблюда; тот, кто пришел после него, подобен тому, кто принес в жертву корову; затем — барана, затем — курицу, затем — яйцо. А когда выходит имам, то они сворачивают свои свитки и слушают напоминание (хутбу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
 

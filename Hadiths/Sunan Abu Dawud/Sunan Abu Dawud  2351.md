@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Umar:The Prophet (ﷺ) as saying: When the night approaches from this 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Waki'], telah menceritakan kepada kami [Hisyam], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdullah bin Daud] dari [Hisyam] secara makna, Hisyam bin 'Urwah berkata; dari [ayahnya], dari ['Ashim bin Umar], dari [ayahnya], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Apabila Malam telah datang dari sini dan siang telah pergi -Musaddad menambahkan; dan matahari telah tenggelam- maka sungguh orang yang berpuasa telah berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1954) Sahih Muslim (1100)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2351</td></tr><tr><td>Arabic No</td><td>2351</td></tr><tr><td>Reference</td><td>Book 14 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Умара, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если отсюда наступает ночь, а отсюда уходит день (А Мусаддад добавлял: «…и скрылось солнце»), постящийся становится разговевшимся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1954) Sahih Muslim (1100)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2351</td></tr><tr><td>Arabic No</td><td>2351</td></tr><tr><td>Reference</td><td>Book 14 Hadith 39</td></tr></tbody></table></div>
 

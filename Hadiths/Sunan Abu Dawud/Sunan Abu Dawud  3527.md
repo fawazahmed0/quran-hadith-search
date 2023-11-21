@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: reported the Prophet (ﷺ) as saying: There are pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Utsman bin Abu Syaibah] mereka berkata; telah menceritakan kepada kami [Jarir] dari ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah bin 'Amru bin Jarir] bahwa [Umar bin Al Khathab] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara hamba-hamba Allah terdapat beberapa manusia yang bukan para nabi dan orang-orang yang mati syahid. Para nabi dan orang-orang yang mati syahid merasa iri kepada mereka pada Hari Kiamat karena kedudukan mereka di sisi Allah Ta'ala." Mereka berkata, "Wahai Rasulullah, apakah anda akan mengabarkan kepada kami siapakah mereka? Beliau bersabda: "Mereka adalah orang-orang yang saling mencintai dengan ruh dari Allah tanpa ada hubungan kekerabatan di antara mereka, dan tanpa adanya harta yang saling mereka berikan. Demi Allah, sesungguhnya wajah mereka adalah cahaya, dan sesungguhnya mereka berada di atas cahaya, tidak merasa takut ketika orang-orang merasa takut, dan tidak bersedih ketika orang-orang merasa bersedih." Dan beliau membaca ayat ini: "Ingatlah, sesungguhnya wali-wali Allah itu, tidak ada kekhawatiran terhadap mereka dan tidak (pula) mereka bersedih hati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3527</td></tr><tr><td>Arabic No</td><td>3527</td></tr><tr><td>Reference</td><td>Book 24 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, есть среди рабов Аллаха такие люди: они не пророки и не мученики, но в Судный день пророки и мученики позавидуют им из-за их положения у Всевышнего Аллаха». Люди попросили: «О Посланник Аллаха, скажи нам, кто они!» Посланник Аллаха ﷺ сказал: «Это люди, которые полюбили друг друга ради Аллаха, не по причине кровного родства и не по причине имущества. Клянусь Аллахом, поистине, их лица свет и то, чего придерживаются они, свет. Они не будут бояться, когда будут бояться другие, и не будут печалиться, когда будут печалиться другие». Сказав это, он прочитал аят: «Воистину, приближённые Аллаха не познают страха и не будут опечалены» (сура «Йунус», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3527</td></tr><tr><td>Arabic No</td><td>3527</td></tr><tr><td>Reference</td><td>Book 24 Hadith 112</td></tr></tbody></table></div>
 

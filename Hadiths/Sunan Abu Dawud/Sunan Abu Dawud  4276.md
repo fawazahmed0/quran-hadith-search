@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ About the verse "If a man kills a believer intentionally" Abu Mijlaz said:This i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Abu Syihab] dari [Sulaiman At Taimi] dari [Abu Mijlaz] tentang firman Allah: (Dan barangsiapa membunuh seorang mukmin dengan sengaja, maka balasannya ialah Jahannam..) -Qs. An Nisa: 93- ia berkata, "Itu adalah ganjaran baginya, jika Allah akan mengampuninya, maka Allah akan melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4276</td></tr><tr><td>Arabic No</td><td>4276</td></tr><tr><td>Reference</td><td>Book 37 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Миджляз сказал о словах Всевышнего «Если же кто-либо убьёт верующего преднамеренно, то возмездием ему будет Геенна»: «Это его воздаяние, но Аллах, если пожелает, избавит его от этого воздаяния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4276</td></tr><tr><td>Arabic No</td><td>4276</td></tr><tr><td>Reference</td><td>Book 37 Hadith 37</td></tr></tbody></table></div>
 

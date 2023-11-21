@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après ‘Anas Ibn Mâlik (que Dieu l'agrée), un couturier invita le Prophèt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] seperti yang telah dibacakan kepadanya, dari [Ishaq bin Abdullah bin Abu Thalhah] bahwa dia mendengar [Anas bin Malik] berkata; "Seorang tukang jahit (pakaian) mengundang Rasulullah shallallahu 'alaihi wasallam untuk makan yang telah dibuatnya sendiri. Aku ikut pergi bersama Rasulullah Shallallah 'Alaihi Wa Sallam. Roti dari gandum dan kuah pun di hidangkan dan didekatkan kepada Rasulullah shallallahu 'alaihi wasallam, yang di dalamnya ada labu dan dendeng daging. Anas berkata; 'Aku melihat Rasulullah terus menerus mencari-cari labu yang berada di sekeliling piring besar, sehingga sejak saat itu aku menjadi senang dengan labu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5325</td></tr><tr><td>Arabic No</td><td>2041.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5325</td></tr><tr><td>Arabic No</td><td>2041.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 199</td></tr></tbody></table></div>
 

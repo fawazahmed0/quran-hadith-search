@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever Allah's Messenger (ﷺ) paid a visit to a patient, or a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Ibrahim] dari [Masruq] dari [Aisyah] radliallahu 'anha bahwa apabila Rasulullah shallallahu 'alaihi wasallam menjenguk orang sakit atau ada orang yang sakit datang kepada beliau, beliau berdo'a: "ADZHIBIL BA'SA RABBAN NAASI ISYFII WA ANTA SYAAFI LAA SYIFAA'A ILLA SYIFAA'UKA SYIFAA'A LAA YUGHAADIRU SAQAMA (Hilangkanlah penyakit wahai Rab sekalian manusia, sembuhkanlah wahai dzat Yang Maha Menyembuhkan, tidak ada yang dapat menyembuhkan melainkan kesembuhan dari-Mu, yaitu kesembuhan yang tidak membawa rasa sakit)." ['Amru bin Abu Qais], [Ibrahim bin Thahman] mengatakan dari [Manshur] dari [Ibrahim] dan [Abu Adl Dluha] dengan redaksi "Apabila ada orang yang sakit datang kepada beliau." Sementara [Jarir] mengatakan dari [Manshur] dari [Abu Adl Dluha] saja, dia berkata; "Apabila beliau menjenguk orang sakit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5675</td></tr><tr><td>Arabic No</td><td>5675</td></tr><tr><td>Reference</td><td>Book 75 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что, когда Посланник Аллаха ﷺ приходил к больному или когда (больного) приносили к нему, он говорил: «Удали эту болезнь, Господь людей, и исцели! Ты — целитель, нет исцеления, кроме Твоего исцеления, (исцели же так, чтобы после этого) не осталось болезни!» \n/Азхиби-ль-ба‘са, Рабба-н-наси,-шфи ва Анта-ш-шафи, ля шифа‘а илля шифа‘у-кя шифа‘ан ля йугадиру сакаман
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5675</td></tr><tr><td>Arabic No</td><td>5675</td></tr><tr><td>Reference</td><td>Book 75 Hadith 35</td></tr></tbody></table></div>
 

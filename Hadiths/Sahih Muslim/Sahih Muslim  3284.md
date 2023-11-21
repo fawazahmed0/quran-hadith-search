@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that when 'Abdullah b. 'Umar returned from Hajj or 'Umra he made 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Ishaq Al Musayyibi] telah menceritakan kepadaku [Anas] yakni Abu Dlamrah, dari [Musa bin Uqbah] dari [Nafi'] bahwasanya; Apabila [Abdullah bin Umar] keluar untuk haji atau umrah, ia selalu menambatkan kendaraannya di Bathha' yang bertempat di Dzulhulaifah, yang demikian karena Rasulullah shallallahu 'alaihi wasallam biasa menambatkan untanya di situ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3284</td></tr><tr><td>Arabic No</td><td>1257.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 488</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3284</td></tr><tr><td>Arabic No</td><td>1257.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 488</td></tr></tbody></table></div>
 

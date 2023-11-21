@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I saw Allah's Messenger (ﷺ) at the 'time when the 'Asr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik radliallahu 'anhu] bahwa dia berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam saat waktu shalat 'Ashar hampir masuk. Orang-orang mencari air wudlu' namun mereka tidak mendapatkannya. Langsung saja Rasulullah shallallahu 'alaihi wasallam diberi bejana air untuk wudlu', lalu Rasulullah shallallahu 'alaihi wasallam meletakkan tangan beliau di atas bejana tersebut, kemudian beliau perintahkan orang-orang agar berwudlu' dari air tersebut. Maka kulihat air mengalir dari balik sela-sela jari beliau, dan orang-orang pun berwudlu' hingga orang yang paling akhir dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3573</td></tr><tr><td>Arabic No</td><td>3573</td></tr><tr><td>Reference</td><td>Book 61 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды, когда) я находился рядом с Посланником Аллаха ﷺ и настало время послеполуденной /‘аср/ молитвы, люди стали искать воду для омовения, но не сумели найти её. (Через некоторое время) Посланнику Аллаха ﷺ принесли сосуд с водой для омовения, и он опустил в этот сосуд руку, повелев людям совершать своё омовение (водой) из него». (Анас, да будет доволен им Аллах,) сказал: «И я увидел, как вода стала бить из-под его пальцев ключом, (что продолжалось до тех пор,) пока омовение не совершили все до последнего»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3573</td></tr><tr><td>Arabic No</td><td>3573</td></tr><tr><td>Reference</td><td>Book 61 Hadith 82</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. Abdullah reported his father (Allah be pleased with him) saying:I saw A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Salim bin Abdullah] dari [bapaknya] ia berkata; Aku melihat Rasulullah shallallahu 'alaihi wasallam masuk ke dalam Ka'bah beserta Usamah bin Zaid, Bilal dan Utsman bin Thalhah. Tidak ada orang lain yang masuk selain mereka, lalu mereka pun menutup pintunya. [Abdullah bin Umar] berkata; Lalu [Bilal] atau [Utsman] mengabarkan padaku bahwa Rasulullah shallallahu 'alaihi wasallam shalat di dalam Ka'bah yakni di antara dua tiang Yamani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3236</td></tr><tr><td>Arabic No</td><td>1329.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 440</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3236</td></tr><tr><td>Arabic No</td><td>1329.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 440</td></tr></tbody></table></div>
 

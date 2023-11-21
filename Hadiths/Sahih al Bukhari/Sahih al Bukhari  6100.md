@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) divided and distributed something as he use
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] dia berkata; saya mendengar [Syaqiq] berkata; [Abdullah] berkata; "Nabi shallallahu 'alaihi wasallam pernah membagikan sesuatu sebagaimana sebagian (mendapatkan) pembagian dari beliau, tiba-tiba seorang laki-laki dari Anshar berkata; "Demi Allah, sepertinya pembagian ini tidak untuk mencari ridla Allah." maka aku pun berkata (dalam hati); "Sungguh aku akan melaporkannya kepada Nabi shallallahu 'alaihi wasallam, lalu aku mendatangi beliau ketika beliau berada bersama para sahabatnya, kemudian aku mengatakannya dengan suara pelan, Nabi shallallahu 'alaihi wasallam pun merasa berat hati hingga wajahnya berubah karena marah, sampai aku berharap jika tadi aku tidak jadi memberitahukan kepada beliau, kemudian belaiu bersabda: "Sungguh Musa juga pernah disakiti lebih daripada ini namun dia tetap bersabar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6100</td></tr><tr><td>Arabic No</td><td>6100</td></tr><tr><td>Reference</td><td>Book 78 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас’уд) сказал: «(Однажды) Пророк ﷺ разделил (между людьми военную добычу,) как он это обычно и делал (и, увидев это,) один человек из ансаров воскликнул: “Клянусь Аллахом, поистине, такой раздел (был сделан) не ради Аллаха!” Тогда я сказал: “Я обязательно сообщу об этом Пророку ﷺ!” Я пришёл к нему, когда он сидел со своими сподвижниками, и тайно рассказал ему (о произошедшем). (После услышанного), Пророку ﷺ стало тяжело, цвет его лица изменился, и он разгневался, и я пожалел о том, что рассказал ему. Затем он сказал: “Муса подвергался ещё большим обидам, чем этим, но он терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6100</td></tr><tr><td>Arabic No</td><td>6100</td></tr><tr><td>Reference</td><td>Book 78 Hadith 127</td></tr></tbody></table></div>
 

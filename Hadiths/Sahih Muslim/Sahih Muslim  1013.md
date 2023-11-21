@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported it on the authority of his father:The Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammam] dan [Aban bin Yazid] dari [Yahya bin Abi Katsir] dari [Abdullah bin Abi Qatadah] dari [bapaknya] "Bahwa Nabi shallallahu 'alaihi wasallam dahulu membaca al-fatihah dan satu surat dalam dua rakaat pertama dari shalat zhuhur dan ashar, dan terkadang memperdengarkan ayat, dan beliau membaca al-fatihah pada dua rakaat yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1013</td></tr><tr><td>Arabic No</td><td>451.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Катада сказал: «Когда Посланник Аллаха ﷺ совершал с нами первые два рак‘ата полуденной /зухр/ и послеполуденной /‘аср/ молитв, он обычно читал “аль-Фатиху” и ещё какую-нибудь суру, иногда читая (тот или иной) аят так, что его слова были слышны (людям, которые молились вместе с ним). Совершая же вторые два рак‘ата, он читал (только) “аль-Фатиху”».Глава: Удлинение двух первых рака’атов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1013</td></tr><tr><td>Arabic No</td><td>451.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 175</td></tr></tbody></table></div>
 

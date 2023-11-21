@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Um Salama told Allah's Messenger (ﷺ) about a church which she 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah], bahwa Ummu Salamah menceritakan kepada Rasulullah shallallahu 'alaihi wasallam sebuah gereja yang dia lihat di suatu tempat di negeri Habasyah (Eithofia) yang disebut Mariyah. Kemudian dia ceritakan apa yang dilihatnya bahwa didalamnya ada gambar (patung). Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Mereka adalah suatu kaum yang jika ada hamba shalih atau laki-laki shalih dari mereka meninggal, mereka membangun masjid di atas kuburannya dan membuatkan patung untuknya. Maka mereka itulah seburuk-buruk makhluk di sisi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>434</td></tr><tr><td>Arabic No</td><td>434</td></tr><tr><td>Reference</td><td>Book 8 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши о том, что однажды Умм Саляма рассказала Посланнику Аллаха ﷺ о церкви, которую она видела в Эфиопии и которая именовалась (церковью) Марии. И когда она упомянула о том, что видела там изображения, Посланник Аллаха ﷺ сказал: «Это люди, которые, когда умирает праведный раб (или: праведный человек) из их числа, возводят над его могилой храм и расписывают его подобными изображениями. Такие люди являются наихудшими людьми пред Аллахом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>434</td></tr><tr><td>Arabic No</td><td>434</td></tr><tr><td>Reference</td><td>Book 8 Hadith 84</td></tr></tbody></table></div>
 

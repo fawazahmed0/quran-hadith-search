@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: A man asked permission to see the Prophet (ﷺ),
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Muhammad bin Amru] dari [Abu Salamah] dari ['Aisyah radliallahu 'anha] ia berkata, "Seorang laki-laki minta izin kepada Nabi shallallahu 'alaihi wasallam, lalu Nabi shallallahu 'alaihi wasallam bersabda: "Ia adalah sejelek-jelek saudara dalam kaumnya." Maka ketika laki-laki itu masuk, Rasulullah shallallahu 'alaihi wasallam berbicara dengannya dan menampakkan wajah keceriaan. Ketika laki-laki itu telah keluar, aku bertanya, "Wahai Rasulullah, kenapa engkau izinkan ia masuk, padahal sebelum itu engkau mengatakan 'Ia adalah sejelek-jelek saudara dalam kaumnya'? Dan ketika ia telah masuk wajahmu ceria?" beliau lalu menjawab: "Wahai 'Aisyah, sesungguhnya Allah tidak menyukai orang yang keji dan ucapan keji." Telah menceritakan kepada kami [Abbas Al Anbari] berkata, telah menceritakan kepada kami [Aswad bin Amir] berkata, telah menceritakan kepada kami [Syarik] dari [Al A'masy] dari [Mujahid] dari ['Aisyah] tentang kisah ini, ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Wahai 'Aisyah, sesungguhnya seburuk-buruk manusia adalah orang-orang yang diberi kemuliaan agar mereka (manusia) bisa terhindar dari keburukkan lisannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 43 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 43 Hadith 20</td></tr></tbody></table></div>
 

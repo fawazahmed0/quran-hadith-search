@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:The Prophet (ﷺ) sent for a woman from the emigrants and she had 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi Maryam] telah menceritakan kepada kami [Abu Ghossan] berkata, telah menceritakan kepadaku [Abu HAzim] dari [Sahal radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam mengutus seorang wanita Muhajirin yang wanita ini memiliki ghulam yang pandai olah mengolah kayu. Beliau berkata kepadanya; "Perintahkanlah sahayamu agar membuatkan mimbar untuk kami". Maka wanita itu memerintahkan ghulamnya. Maka ghulam itu pergi mencari kayu di hutan lalu dia membuat mimbar untuk Beliau. Ketika dia telah menyelesaikan pekerjaannya wanita itu mengirim mimbar tersebut kepada Nabi shallallahu 'alaihi wasallam. Beliau shallallahu 'alaihi wasallam berkata: "Bawalah mimbar itu kepadaku". Lalu orang-orang datang dengan membawa mimbar tersebut kemudian Nabi shallallahu 'alaihi wasallam menempatkan mimbar tersebut pada tempat yang sekarang kalian lihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2569</td></tr><tr><td>Arabic No</td><td>2569</td></tr><tr><td>Reference</td><td>Book 51 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль, да будет доволен им Аллах, сказал, что Пророк ﷺ послал (человека) к женщине из числа мухаджиров, у которой был раб-плотник, (чтобы ей передали): «Вели своему рабу (плотнику), чтобы он сделал для меня минбар из дерева». И она отдала распоряжение (своему рабу), который сделал (этот минбар) из лесного тамариска. Когда минбар был готов, она сообщила об этом Пророку ﷺ. Тогда Пророк ﷺ сказал: «Отправь его ко мне!» Когда минбар принесли, Пророк ﷺ поднял его и поставил на то место, где вы его видите (сейчас)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2569</td></tr><tr><td>Arabic No</td><td>2569</td></tr><tr><td>Reference</td><td>Book 51 Hadith 4</td></tr></tbody></table></div>
 

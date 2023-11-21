@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:A necklace of mine was lost at Al-Baida' and we were on our way t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; Telah menceritakan kepadaku [Ibnu Wahb] dia berkata; Telah mengabarkan kepadaku ['Amru] bahwa ['Abdur Rahman bin Al Qasim] Telah menceritakan kepadanya dari [Bapaknya] dari ['Aisyah radliallahu 'anha], Kalungku pernah hilang di Baida, yang pada waktu itu kami sudah masuk ke Kota Madinah, maka Rasulullah shallallahu 'alaihi wasallam memberhentikan untanya dan turun. Lalu beliau menyandarkan kepalanya dipangkuan sambil tiduran. Abu Bakr datang kepadaku seraya marah mencelaku, dia berkata; 'Kamu telah menahan orang-orang dari melanjutkan perjalanan kerena mencari kalung.' Aku diam seperti orang mati, karena takut mengganggu Rasulullah shallallahu 'alaihi wasallam, padahal Abu Bakr telah menyakitiku. Kemudian Rasulullah shallallahu 'alaihi wasallam bangun dari tidurnya dan tibalah waktu shalat shubuh, maka beliau mencari air, namun beliau tidak mendapatkannya. Lalu turunlah ayat: Hai orang-orang yang beriman, apabila kamu hendak mengerjakan shalat…. (Al Maidah: 6). Maka Usaid bin Hudlair berkata; 'Sungguh Allah telah memberkahi orang-orang karena kalian wahai keluarga Abu Bakr. Tidaklah kalian berada kecuali telah memberikan keberkahan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4608</td></tr><tr><td>Arabic No</td><td>4608</td></tr><tr><td>Reference</td><td>Book 65 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Аиша, да будет доволен ею Аллах, сказала: «(Однажды), когда мы уже достигли Байды, подъезжая к Медине, я уронила своё ожерелье. (Узнав об этом,) Пророк ﷺ остановился, спешился, положил голову мне на колени и заснул. Затем пришёл Абу Бакр, сильно толкнул меня в грудь и сказал: “Ты задержала людей из-за ожерелья?” Я оставалась неподвижной из-за того, что Посланник Аллаха ﷺ спал на мне, хотя он (Абу Бакр) причинил мне боль. Когда (наутро) Пророк ﷺ проснулся и настало время утренней молитвы, люди стали искать воду, но не нашли, тогда было ниспослано: “О те, которые уверовали! Когда вы встаете на молитву…”. Тогда Усайд ибн Худайр воскликнул: “О семейство Абу Бакра! Аллах благословил вами людей. Вы являетесь благословением для них!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4608</td></tr><tr><td>Arabic No</td><td>4608</td></tr><tr><td>Reference</td><td>Book 65 Hadith 130</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Tawus, in his version said:If anyone is killed. Ibn 'Ubaid in his version said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah menceritakan kepada kami [Sufyan] -dan ini adalah haditsnya- dari [Amru] dari [Thawus] ia berkata, "Barangsiapa terbunuh dalam keadaan gelap (tidak jelas siapa pembunuh dan bagaimana caranya), yaitu ketika saling lempar di antara mereka, baik itu dengan batu, cambuk, atau tongkat, maka itu adalah pembunuhan karena kesalahan, dan diyatnya adalah diyat (tebusannya) pembunuhan karena salah. Maka barangsiapa membunuh dengan sengaja, diyatnya adalah qishas - [Ibnu Ubaid] menyebutkan dalam riwayat lain- "qishas dengan tangan. Kemudian riwayat itu sepakat pada lafadz, "Barangsiapa menghalangi terlaksananya qishas, maka ia akan mendapat laknat dan murka Allah, serta tidak akan diterima ibadahnya baik amalam sunnah atau wajib." Dan hadits Sufyan redaksinya lebih lengkap. Telah menceritakan kepada kami [Muhammad bin Abu Ghalib] berkata, telah menceritakan kepada kami [Sa'id bin Sulaiman] dari [Sulaiman bin Katsir] berkata, telah menceritakan kepada kami [Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, lalu ia menyebutkan makna hadits Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>4539</td></tr><tr><td>Reference</td><td>Book 41 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тавус сказал: «Если кто-то был убит…» А Ибн ‘Убайд передал, что Посланник Аллаха ﷺ сказал: «Если кто-то был убит в толпе, в которой люди бросали друг в друга камнями или били друг друга плетьми или палками, его убийство считается неумышленным и за него должна быть выплачена компенсация /дийа/, как за неумышленное убийство. А за преднамеренное убийство полагается воздаяние равным. А кто помешал воздать убийце равным, на того ляжет проклятие Аллаха и Его гнев, и не будет от него принято ни обязательное, ни дополнительное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>4539</td></tr><tr><td>Reference</td><td>Book 41 Hadith 46</td></tr></tbody></table></div>
 

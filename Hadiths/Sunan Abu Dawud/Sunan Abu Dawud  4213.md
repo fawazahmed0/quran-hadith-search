@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: When the Messenger of Allah (ﷺ) went on a journey, the last 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdul Warits bin Sa'id] dari [Muhammad bin Juhadah] dari [Humaid Asy Syami] dari [Sulaiman Al Munabbihi] dari [Tsauban] mantan budak (yang telah dimerdekakan oleh) Rasulullah shallallahu 'alaihi wasallam, ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam melakukan safar, maka orang yang paling akhir beliau beri nasihat dari keluarganya adalah Fatimah, dan orang yang pertama kali beliau temui saat datang adalah Fatimah. Satu kali beliau tiba dari peperangan yang dilakukannya, sementara Fatimah telah memasang satir di pintunya dan memasang perhiasan gelang perak pada hasan dan husain. Beliau datang namun tidak masuk, hal itu menjadikan Fatimah berperasangka bahwa tidak masuknya Rasulullah adalah karena apa yang beliau lihat dari yang ia lakukan. Lalu ia menyobek tirai dan melepas dua gelang yang ada pada kedua anaknya. Setelah itu ia membawa kedua anaknya yang masih menangis untuk menemui Rasulullah shallallahu 'alaihi wasallam. Beliau lantas meraih gelang tersebut dari keduanya dan bersabda: "Wahai Tsauban, pergilah dengan membawa ini (gelang) ke keluarga fulan -ahlu bait di Madinah-, mereka (keluarga Fathimah) adalah ahli baitku, aku tidak ingin mereka makan dengan enak dalam kehidupan mereka di dunia. Wahai Tsauban, belikanlah Fatimah kalung dari ashab (sejenis tumbuhan) dan dua gelang dari gading
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4213</td></tr><tr><td>Arabic No</td><td>4213</td></tr><tr><td>Reference</td><td>Book 35 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Саубан, да будет доволен им Аллах, вольноотпущенник Посланника Аллаха ﷺ передаёт: «Когда Посланник Аллаха ﷺ отправлялся в путешествие, последним человеком из членов его семьи, с которым он прощался, была Фатима. А возвращаясь из путешествия, он первым делом заходил к ней. Вернувшись из одного военного похода, он направился к дому Фатимы. А она повесила занавеску на свою дверь и украсила (своих сыновей) аль-Хасана и аль-Хусейна серебряными браслетами. Посланник Аллаха ﷺ подошёл (к её двери), но не вошёл. Она решила, что он поступил так из-за того, что увидел, и порвала занавеску и сняла с мальчиков браслеты и разделила их между ними. Они, плача, побежали к Посланнику Аллаха ﷺ, а он взял у них браслеты и сказал: “О Саубан! Отнеси это семье такого-то”, назвав при этом какую-то семью, живущую в Медине. А потом он добавил: “Поистине, это мои домочадцы, и я не хочу, чтобы они использовали свои блага в этой жизни. О Саубан, купи Фатиме ожерелье из жил и два браслета из слоновой кости”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4213</td></tr><tr><td>Arabic No</td><td>4213</td></tr><tr><td>Reference</td><td>Book 35 Hadith 55</td></tr></tbody></table></div>
 

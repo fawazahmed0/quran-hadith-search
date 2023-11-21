@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safwan b. Ya'la b. Umayya thus reported from his father:I participated in the ex
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Ibnu Juraij] telah menceritakan kepadaku ['Atha] telah menceritakan kepadaku [Shafwan bin Ya'la bin Umayyah] dari [Ayahnya] dia berkata, "Kami pernah ikut serat bersama Nabi shallallahu 'alaihi wasallam dalam perang Tabuk, Shafwan berkata, "Ya'la mengatakan, "Peperangan itu adalah peperangan yang paling berat bagiku." 'Atha berkata; Shafwan berkata; Ya'la melanjutkan, "Aku memiliki seorang pembantu, lalu dia berkelahi dengan laki-laki lain, salah satu dari mereka menggigit tangan yang lainnya." 'Atha berkata, "Shafwan mengabarkan kepadaku bahwa salah satu dari keduanya menggigit tangan lawannya, kemudian orang yang digigit itu menarik tangannya hingga menyebabkan gigi depan orang yang menggigit tanggal, kemudian kedua orang tersebut datang kepada Nabi shallallahu 'alaihi wasallam hingga ia pun balas memecahkan giginya." Dan telah menceritakannya kepada kami [Amru bin Zurarah] telah mengabarkan kepada kami [Ismail bin Ibrahim] berkata; telah mengabarkan kepada kami [Ibnu Juraij] dengan sanad ini seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4372</td></tr><tr><td>Arabic No</td><td>1674.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4372</td></tr><tr><td>Arabic No</td><td>1674.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 31</td></tr></tbody></table></div>
 

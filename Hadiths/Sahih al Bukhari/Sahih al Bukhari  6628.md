@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The oath of the Prophet (ﷺ) used to be: "No, by Him who tur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Sufyan] dari [Musa bin 'Uqbah] dari [Salim] dari [Ibnu Umar] mengatakan, sumpah Nabi shallallahu 'alaihi wasallam adalah: "tidak, demi Dzat yang membolak-balikkan hati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6628</td></tr><tr><td>Arabic No</td><td>6628</td></tr><tr><td>Reference</td><td>Book 83 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Клятва Пророка ﷺ была такова: “Нет, клянусь Переворачивающим сердца!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6628</td></tr><tr><td>Arabic No</td><td>6628</td></tr><tr><td>Reference</td><td>Book 83 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qatadah:We asked Anas b. Malik: Which cloth was dearer to the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid Al Azdi] berkata, telah menceritakan kepada kami [Hammam] dari [Qatadah] ia berkata, "Kami berkata kepada [Anas] -maksudnya Anas Ibnu Malik-, "Baju apa yang paling disukai atau dikagumi oleh Rasulullah shallallahu 'alaihi wasallam?" ia menjawab, "Kain hibarah (yaitu kain halus yang berasal dari yaman menurut orang-orang yaman ini adalah kain terbaik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5812) Sahih Muslim (2079)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4060</td></tr><tr><td>Arabic No</td><td>4060</td></tr><tr><td>Reference</td><td>Book 34 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Катады: «Мы спросили Анаса ибн Малика, какую одежду Посланник Аллаха ﷺ любил больше всего (или: какая одежда нравилась Посланнику Аллаха ﷺ больше всего), и он ответил: “Хлопковую йеменскую одежду с полосами /хибара/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5812) Sahih Muslim (2079)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4060</td></tr><tr><td>Arabic No</td><td>4060</td></tr><tr><td>Reference</td><td>Book 34 Hadith 41</td></tr></tbody></table></div>
 

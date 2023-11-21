@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:Allah's Messenger (ﷺ) said to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepadaku [Al Auza'i] telah menceritakan kepadaku [Az Zuhri] telah menceritakan kepadaku [Abu Salamah] Telah menceritakan kepada kami [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami saat berada di Mina: "Esok hari, Insya Allah, kita akan singgah di Khaif (daerah perbukitan) Bani Kinanah, sebuah tempat yang mereka pergunakan untuk bersumpah dan mengadakan perjanjian di atas kekufuran." Pastinya, dulu, orang-orang Quraisy dan Bani Kinanah telah mengadakan perjanjian atas Bani Hasyim dan Bani Al Muththalib, bahwa mereka tidak akan menikahi wanita-wanita mereka dan tidak pula berbai'at kepada mereka, hingga mereka menyerahkan Rasulullah shallallahu 'alaihi wasallam yakni di Al Muhashshab (tempat pelemparan Jumrah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3175</td></tr><tr><td>Arabic No</td><td>1314.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 379</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3175</td></tr><tr><td>Arabic No</td><td>1314.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 379</td></tr></tbody></table></div>
 

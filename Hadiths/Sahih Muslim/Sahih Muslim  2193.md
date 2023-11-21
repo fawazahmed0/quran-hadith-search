@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who offers prayer for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Yazid bin Kaisan] telah menceritakan kepadaku [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang menshalatkan jenazah, maka baginya pahala satu qirath, dan siapa yang mengantarnya hingga jenazah itu di letakkan di liang kubur, maka baginya pahala dua qirath." Saya bertanya, "Wahai Abu Hurairah, seperti apakah dua qirath itu?" ia menjawab, "Yaitu seperti gunung Uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2193</td></tr><tr><td>Arabic No</td><td>945.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Тот, кто совершит заупокойную молитву, получит один кырат, а тот, кто проводит (похоронную процессию), пока (покойного) не поместят в могилу, (получит) два кырата».(Абу Хазм) сказал: «Я спросил: “О Абу Хурайра, а что за кырат?”, он ответил: “(Он) подобен (горе) Ухуд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2193</td></tr><tr><td>Arabic No</td><td>945.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 72</td></tr></tbody></table></div>
 

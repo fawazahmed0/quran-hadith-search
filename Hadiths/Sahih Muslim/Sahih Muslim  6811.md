@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:When one of you makes supplicati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dari [Ibnu 'Ulayyah], Abu Bakr berkata; telah menceritakan kepada kami Isma'il bin 'Ulayyah dari ['Abdul 'Aziz bin Shuhaib] dari [Anas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian berdoa hendaklah benar-benar mantap dalam mengharap, dan janganlah mengatakan; 'ALLAHUMMA IN SYI'TA FA'THINI (Ya Allah jika Engkau menghendaki maka berikanlah untukku), karena sesungguhnya Allah 'azza wajalla tidak ada yang bisa memaksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6811</td></tr><tr><td>Arabic No</td><td>2678</td></tr><tr><td>Reference</td><td>Book 48 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6811</td></tr><tr><td>Arabic No</td><td>2678</td></tr><tr><td>Reference</td><td>Book 48 Hadith 7</td></tr></tbody></table></div>
 

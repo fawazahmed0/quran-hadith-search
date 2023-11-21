@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The example of a believer is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada kami [Fulaih] telah menceritakan kepada kami [Hilal bin Ali] dari ['Atha' bin Yasar] dari [Abu Hurairah] radliyallahu'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan orang mukmin adalah bagai dahan tumbuhan yang daunnya miring sesuai tempat datangnya angin, namun jika telah tenang, dahan itu bisa kembali lurus. Demikian pula seorang mukmin, terkadang dalam keadaan miring karena ujian. Sebaliknya perumpamaan orang kafir bagaikan pohon padi yang lurus dan keras, sehingga Allah (dengan mudah) mematahkannya kapan saja sekehendak-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7466</td></tr><tr><td>Arabic No</td><td>7466</td></tr><tr><td>Reference</td><td>Book 97 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Верующий подобен только что прозревшему ростку, листья которого сгибаются, когда подует ветер, переворачивая их, а когда ветер стихает, росток выпрямляется, и таким же образом верующий подвергается испытаниям. Что же касается неверного, то он подобен кедру, который остаётся твёрдым и несгибаемым, пока Аллах не сломает его, когда пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7466</td></tr><tr><td>Arabic No</td><td>7466</td></tr><tr><td>Reference</td><td>Book 97 Hadith 92</td></tr></tbody></table></div>
 

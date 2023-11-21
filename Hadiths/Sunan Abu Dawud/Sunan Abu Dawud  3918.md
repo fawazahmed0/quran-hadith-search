@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Ata:People said: safar is a pain within the belly. I asked: What is ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Khalaf] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Ibnu Juraij] dari ['Atha] orang-orang berkata, "Shafar adalah sebuah penyakit yang ada dalam perut." Kemudian aku tanyakan, 'Apakah hamah itu? ' 'Atha melanjutkan, "Orang-orang menjawab, 'Burung hantu yang berteriak itu sebenarnya arwah orang-orang. ' Padahal itu bukan nyawa manuisa, sesungguhnya hammah adalah binatang melata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3918</td></tr><tr><td>Arabic No</td><td>3918</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн Джурайджа: «‘Ата сказал: “Люди говорят, что сафар это болезнь живота”. Я спросил: “А что такое хама?” Он ответил: “Люди (в которых сохранились представления и убеждения времён невежества) говорят, что сова, которая кричит, это дух умерших людей. Однако на самом деле это не дух умершего. Это (просто) животное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3918</td></tr><tr><td>Arabic No</td><td>3918</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
 

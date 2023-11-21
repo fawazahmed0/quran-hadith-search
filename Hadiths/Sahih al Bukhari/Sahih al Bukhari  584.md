@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) forbade two kinds of sales, two kin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Ubaidullah] dari [Khubaib bin 'Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam melarang dari dua macam jual beli, dua cara berpakaian dan dua shalat. Beliau melarang shalat setelah Shubuh sampai terbit matahari dan setelah 'Ashar sampai matahari terbenam. Melarang dari pakaian shama' dan duduk ihtiba' dengan satu kain sehingga menghadapkan kemaluannya ke langit. Dan beliau juga melarang dari jual beli Al Munabadzah dan Al Mulasamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>584</td></tr><tr><td>Arabic No</td><td>584</td></tr><tr><td>Reference</td><td>Book 9 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил два вида торговых сделок и два способа ношения одежды, (о чём уже говорилось выше).\nТакже (Пророк ﷺ запретил) два (вида) молитв: молиться после (совершения обязательной) утренней молитвы, пока не взойдёт солнце, а также после (совершения) послеполуденной молитвы, пока солнце не исчезнет (за горизонтом. И он запретил) закутываться в свою одежду наглухо и (запретил) мужчине, одетому только в одну одежду, сидеть на ягодицах, поднимая колени, которые он обхватывает руками, и оставляя неприкрытыми свои срамные части, а (также он запретил сделки заключаемые после) бросания /мунабаза/ и касания /мулямаса
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>584</td></tr><tr><td>Arabic No</td><td>584</td></tr><tr><td>Reference</td><td>Book 9 Hadith 59</td></tr></tbody></table></div>
 

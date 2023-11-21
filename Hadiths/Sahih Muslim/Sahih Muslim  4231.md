@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aswad b. Yazid reported:It was mentioned before A'isha that will had been made (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan ini adalah lafadz Yahya, dia berkata; telah mengabarkan kepada kami [Isma'il bin 'Ulayah] dari [Ibnu 'Aun] dari [Ibrahim] dari [Al Aswad bin Yazid] dia berkata, "Orang-orang sama berbicara di samping ['Aisyah], bahwa 'Ali menerima wasiat dari Rasulullah shallallahu 'alaihi wasallam, maka dia berkata, "Kapankah beliau berwasiat kepadanya? Padahal ketika beliau sakit, beliau bersandar di dadaku -atau berkata- di pangkuanku. Kemudian beliau meminta bejana, sesudah itu beliau rebahan di pangkuanku dan saya tidak sadar jika beliau telah tiada. Maka kapankah beliau berwasiat kepadanya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4231</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4231</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 28</td></tr></tbody></table></div>
 

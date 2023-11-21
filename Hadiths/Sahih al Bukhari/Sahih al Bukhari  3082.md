@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:Ibn Az-Zubair said to Ibn Ja'far "Do you remember when 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Abi Al Aswad] telah bercerita kepada kami [Yazid bin Zurai'] dan [Humaid bin Al Aswad] dari [Habib bin asy-Syahid] dari [Ibnu ABi Mulaikah], berkata [Ibnu Az Zubair] kepada Ibnu Ja'far radliallahu 'anhum; apakah kamu ingat ketika kita berjumpa dengan Rasulullah Shallallahu'alaiwasallam, aku, kamu dan Ibnu 'Abbas?". Dia (Ibnu Ja'far) berkata; "Ya, lalu Beliau mengajakku naik kendaraan dan meninggalkan kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3082</td></tr><tr><td>Arabic No</td><td>3082</td></tr><tr><td>Reference</td><td>Book 56 Hadith 286</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн аз-Зубайра, да будет доволен Аллах ими обоими, что (однажды) он сказал Ибн Джа‘фару, да будет доволен Аллах ими обоими: «Помнишь ли ты, как мы вместе с тобой и Ибн ‘Аббасом встречали Посланника Аллаха ﷺ ?» (Ибн Джа‘фар, да будет доволен Аллах ими обоими,) сказал: «Да». (Ибн аз-Зубайр, да будет доволен Аллах ими обоими,) сказал: «И (Посланник Аллаха ﷺ) посадил нас (верхом позади себя), а тебя оставил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3082</td></tr><tr><td>Arabic No</td><td>3082</td></tr><tr><td>Reference</td><td>Book 56 Hadith 286</td></tr></tbody></table></div>
 

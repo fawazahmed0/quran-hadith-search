@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr bin Shu'aib on his father's authority said that his grandfather reported: A 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Kamil] dan [Humaid bin Mas'adah] secara makna bahwa [Khalid bin Al Harits] telah menceritakan kepada mereka; telah menceritakan kepada Kami [Husain] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa seorang wanita datang kepada Rasulullah shallAllahu wa'alaihi wa sallam membawa anak wanitanya, dan di tangan anak wanita tersebut terdapat dua gelang tebal yang terbuat dari emas, kemudian beliau berkata kepadanya: "Apakah engkau memberikan zakat emas ini?" Wanita tersebut berkata; tidak. Beliau bersabda: "Apakah engkau senang karena kedua gelang tersebut Allah memberimu gelang dari api pada Hari Kiamat?" Khalid berkata; kemudian wanita tersebut melepas kedua gelang tersebut dan melemparkannya kepada Nabi shallallahu 'alaihi wasallam dan berkata; kedua gelang itu untuk Allah 'azza wajalla dan rasulNya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1563</td></tr><tr><td>Arabic No</td><td>1563</td></tr><tr><td>Reference</td><td>Book 9 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб со слов отца и деда рассказывал:«Однажды некая женщина явилась к Посланнику Аллаха ﷺ в сопровождении дочери. На руке у дочери были две массивных застежки из золота, и Посланник Аллаха ﷺ спросил девушку: “Ты выплатила с этого закят?” Девушка ответила: “Нет”. Тогда он сказал ей: “Ты обрадуешься, если Аллах наденет на тебя такие же браслеты из огня в день Воскресения?!”» (Передатчик этого хадиса) сказал: «И девушка сняла браслеты и передала их Пророку ﷺ и сказала: “Это для Великого и Всемогущего Аллаха и Его посланника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1563</td></tr><tr><td>Arabic No</td><td>1563</td></tr><tr><td>Reference</td><td>Book 9 Hadith 8</td></tr></tbody></table></div>
 

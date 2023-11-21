@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qais b. 'Ubaida reported:I was (sitting) in a company in which there were (besid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Amru bin 'Abbad bin Jabalah bin Abu Rawwad]; Telah menceritakan kepada kami [Harami bin 'Umarah]; Telah menceritakan kepada kami [Qurrah bin Khalid] dari [Muhammad bin Sirin] dia berkata; [Qais bin 'Ubad] berkata; Pada suatu hari aku berada di sebuah majlis yang di dalamnya terdapat Sa'ad bin Malik, Ibnu Umar. lalu [Abdullah bin salam] melewati mereka. Orang-orang berkata; Orang itu termasuk penghuni surga. Aku pun berdiri menemuinya dan aku katakan kepadanya; orang-orang berkata seperti ini dan itu. Abdullah bin Salam berkata; Subhaanallaah, tidak sepatutnya orang mengatakan sesuatu yang tidak diketahui. Aku hanya bermimpi sesuatu seakan-akan sebuah tiang di letakan di sebuah taman yang hijau, lalu di tancapkan ke dalamnya. Di atas tiang itu ada tali sedangkan di bawahnya ada seorang pelayan. lalu dikatakan kepadaku: Naiklah. Aku pun naik hingga aku meraih tali. kemudian aku ceritakan mimpi tersebut kepada Rasulullah shallallahu 'alaihi wasallam maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Abdullah akan meninggal dalam keadaan memegang tali yang kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6382</td></tr><tr><td>Arabic No</td><td>2484.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6382</td></tr><tr><td>Arabic No</td><td>2484.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 212</td></tr></tbody></table></div>
 

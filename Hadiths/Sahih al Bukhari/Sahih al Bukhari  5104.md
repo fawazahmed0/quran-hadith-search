@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:I married a woman and then a black lady came to us 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Isma'il bin Ibrahim] Telah mengabarkan kepada kami [Ayyub] dari [Abdullah bin Abu Mulaikah] ia berkata; Telah menceritakan kepadaku [Ubaidah bin Maryam] dari [Uqbah bin Al Harits] -Abu Mulaikah berkata; Dan aku telah mendengarnya dari Uqbah, tetapi hadits Ubaid lebih aku hafal- ia berkata; Aku menikahi seorang wanita, lalu seorang wanita berkulit hitam mendatangi kami seraya berkata, "Sesungguhnya aku pernah menyusui kalian berdua." Lalu aku pun segera mendatangi Nabi shallallahu 'alaihi wasallam. Aku berkata, "Aku telah menikahi si Fulanah binti Fulan, lalu kami didatangi oleh seorang wanita berkulit hitam seraya berkata padaku, 'Sesungguhnya aku pernah menyusui kalian berdua.' Wanita itu pembohong." Lalu beliau pun berpaling dariku, lalu aku menghadap lagi ke wajah beliau dan berkata, "Sesungguhnya wanita itu adalah pembohong." Beliau bersabda: "Apa salah wanita itu, dan bukankah ia telah berkata yang sesungguhnya, bahwa ia benar-benar telah menyusui kalian berdua. Tinggalkanlah si Fulanah itu." Isma'iI memberikan isyarat dengan jari telunjuk dan jari tengahnya saat mengkisahkannya kepada Ayyub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5104</td></tr><tr><td>Arabic No</td><td>5104</td></tr><tr><td>Reference</td><td>Book 67 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укъба ибн аль-Харис, да будет доволен им Аллах, сказал:\n— (Когда) я женился на одной женщине, к нам пришла темнокожая женщина и сказала: «Я кормила вас обоих грудью». И тогда я пришёл к Пророку ﷺ и сказал: «Я женился на такой-то, дочери такого-то, но к нам пришла темнокожая женщина и сказала мне: “Я кормила вас обоих грудью”, но она лжёт!» Он отвернулся от меня, но я обошёл его и (встав) перед его лицом (снова) сказал: «Поистина, она лжёт!» (Пророк ﷺ) сказал: «Как же быть с ней, ведь она утверждает, что кормила грудью вас обоих?! Расстанься с ней (с женой)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5104</td></tr><tr><td>Arabic No</td><td>5104</td></tr><tr><td>Reference</td><td>Book 67 Hadith 42</td></tr></tbody></table></div>
 

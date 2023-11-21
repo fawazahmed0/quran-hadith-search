@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: If anyone hears him who makes the call to prayer an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Abu Janab] dari [Maghra' Al-'Abdi] dari ['Adi bin Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Barangsiapa yang mendengarkan adzan dan tidak punya alasan sehingga tidak menjawabnya (tidak mendatanginya) -para sahabat bertanya; Apakah alasan (udzur) itu? Beliau menjawab: "Takut atau sakit-, maka tidak diterima shalat yang dia kerjakan. Abu Dawud berkata; Abu Ishaq meriwayatkan dari Maghra
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>551</td></tr><tr><td>Reference</td><td>Book 2 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Если кто-то услышит (муаззина) призывающего (на молитву) и не помешает ему последовать за ним уважительная причина, то молитва, которую он совершит не будет от него принята”. (Сподвижники) спросили: “А что это за уважительная причина?” Он ответил: “Страх или болезнь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>551</td></tr><tr><td>Reference</td><td>Book 2 Hadith 161</td></tr></tbody></table></div>
 

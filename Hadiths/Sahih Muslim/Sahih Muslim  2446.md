@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Zaid reported that when the Messenger of Allah (ﷺ) conquered Hunai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syuraij bin Yunus] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Amru bin Yahya bin Umarah] dari [Abbad bin Tamim] dari [Abdullah bin Zaid] bahwasanya ketika Rasulullah shallallahu 'alaihi wasallam menaklukkan Hunain, beliau membagi-bagikan harta ghanimah, lalu beliau pun memberikannya kepada para Muallaf. Kemudian sampailah kabar kepada beliau bahwa kaum Anshar juga ingin mendapatkan bagian sebagaimana yang diperoleh umumnya orang-orang. Maka Rasulullah shallallahu 'alaihi wasallam pun berdiri dan berkhutbah kepada mereka. Beliau memuji Allah dan membaca sanjungan atas-Nya, kemudian beliau bersabda: "Wahai kaum Anshar, bukankah aku telah mendapati kalian dalam keadaan sesat lalu Allah memberikan hidayah kepada kalian melalui perantaraku? Bukankah dulu kalian dalam keadaan miskin lalu Allah mencukupi kalian melalui aku? Dan bukanlah dulu kalian dalam keadaan bercerai-berai lalu Allah mempersatukan kalian lantaranku?" Maka mereka pun berkata, "Allah dan Rasul-Nya yang lebih menentramkan." Kemudian beliau bersabda lagi: "Tidakkah kalian mencintaiku?" mereka berkata, "Allah dan Rasul-Nya yang lebih menentramkan (hati kami)." Beliau bersabda lagi: "Sesungguhnya, jika kalian mau mengatakan begini dan begitu." Amru menduga bahwa ia tidak menghafalnya. Kemudian beliau bersabda lagi: "Tidakkah kalian ridla, bila orang-orang pergi dengan membawa kambing dan unta-unta sedangkan kalian pulang dengan membawa Rasulullah ke rumah-rumah kalian? Kaum Anshar adalah syi'ar (baju dalam) sedangkan umumnya manusia adalah ditsar (baju luar). Sekiranya bukan karena Hijrah, niscaya aku termasuk golongan Anshar. Dan seandainya orang-orang menempuh suatu lembah dan jalan bukit, niscaya aku akan melalui lembah dan jalan bukit yang dilalui kaum Anshar. Sesungguhnya sepeninggalku nanti, kalian akan menemui atsarah (keutamaan), karena itu bersabarlah hingga kalian menemuiku di telagaku (Al Haudl)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2446</td></tr><tr><td>Arabic No</td><td>1061</td></tr><tr><td>Reference</td><td>Book 12 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Зейда, что покорив Хунайн, Посланник Аллаха ﷺ разделил добычу между теми, чьи сердца он хотел склонить к исламу, (ничего не дав ансарам). Затем, когда до него дошло, что ансары хотели получить то, что получили (другие) люди, Посланник Аллаха ﷺ обратился к ним с речью. Он прославил и восхвалил Аллаха и сказал: “О ансары! Разве не были вы заблудшими, когда я пришёл к вам, а потом Аллах вывел вас на путь истинный посредством меня? И разве не были вы бедны, а потом Аллах обогатил вас посредством меня? И разве не были вы врагами друг другу, а потом Аллах объединил ваши сердца посредством меня?!” (И всякий раз, когда он говорил что-то,) они говорили: “Все милости принадлежат Аллаху и Его Посланнику!” Он спросил: “Не ответите ли вы мне?” Они сказали: “Все милости принадлежат Аллаху и Его Посланнику”. Пророк ﷺ сказал: “Если бы вы пожелали, то сказали бы: ‹Ты пришёл к нам в таком-то и таком-то положении›! Так неужели вы недовольны тем, что эти люди вернутся с овцами и верблюдами, а вы вернётесь домой с Посланником Аллаха? Ансары это “внутренняя одежда (прилегающая к телу)”, а все остальные люди “внешняя одежда (как, например, накидка)”. Если бы не переселение, я был бы одним из ансаров. И если бы люди пошли (одной) долиной и ущельем, то я бы обязательно пошёл долиной и ущельем ансаров! Поистине, после моей (смерти) вы столкнётесь с тем, что предпочтение станут отдавать другим. Терпите же, пока не встретитесь со мной у водоёма!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2446</td></tr><tr><td>Arabic No</td><td>1061</td></tr><tr><td>Reference</td><td>Book 12 Hadith 183</td></tr></tbody></table></div>
 

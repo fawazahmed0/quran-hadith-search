@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported:We used to get land (on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] dan [Ahmad bin Isa] semuanya dari [Ibnu Wahb]. [Ibnu Isa] mengatakan; Telah menceritakan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Hisyam bin Sa'ad] bahwa [Abu Zubair Al Makki] telah menceritakan kepadanya, dia berkata; Saya mendengar [Jabir bin Abdullah] berkata; "Di zaman Rasulullah Shallallu 'alaihi wa sallam kami terbiasa menyewakan tanah dengan bayaran sepertiga atau seperempat (dari hasil panen) yang disepanjang saluran air (parit), maka Rasulullah Shallallu 'alaihi wa sallam bersabda dalam kasus ini: "Barangsiapa yang memiliki tanah, hendaklah ditanaminya sendiri, jika dia tidak sanggup menanaminya sendiri hendaklah dipinjamkan kepada saudaranya (supaya ditanaminya), jika tidak hendaknya dibiarkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>1536.20</td></tr><tr><td>Reference</td><td>Book 21 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>1536.20</td></tr><tr><td>Reference</td><td>Book 21 Hadith 124</td></tr></tbody></table></div>
 

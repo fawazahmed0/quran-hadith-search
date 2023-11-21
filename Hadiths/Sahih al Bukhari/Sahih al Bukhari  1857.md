@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:I came riding on my she-ass and had (just) then at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [anak saudaraku, Ibnu Syihab] dari [pamannya] telah mengabarkan kepada saya ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] bahwa ['Abdullah bin 'Abbas radliallahu 'anhu] berkata; "Pada suatu hari aku datang, saat itu usiaku mendekati baligh dengan menunggang keledai betina milikku sedangkan Rasulullah shallallahu 'alaihi wasallam saat itu sedang shalat (berjama'ah) di Mina hingga aku sampai di hadapan sebagian shaf pertama kemudian aku turun dari keledaiku lalu ia mencari makan sesukanya. Kemudian aku masuk kedalam shaf jama'ah di belakang Rasulullah shallallahu 'alaihi wasallam ". Dan berkata, [Yunus] dari [Ibnu Syihab]: "Di Mina pada pelaksanaan Haji Wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1857</td></tr><tr><td>Arabic No</td><td>1857</td></tr><tr><td>Reference</td><td>Book 28 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды, незадолго до своего совершеннолетия я приехал верхом на ослице в Мину, где Посланник Аллаха ﷺ в это время совершал молитву с людьми. И я прошёл перед частью ряда (молившихся), слез с ослицы и отпустил её пастись, затем встал в ряд с людьми, позади Посланника Аллаха ﷺ». \nИбн Шихаб добавил: «Это было в Мине во время прощального хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1857</td></tr><tr><td>Arabic No</td><td>1857</td></tr><tr><td>Reference</td><td>Book 28 Hadith 37</td></tr></tbody></table></div>
 

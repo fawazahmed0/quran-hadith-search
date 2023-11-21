@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Amr:We asked Jabir bin 'Abdullah about the prayers of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dari [Muhammad bin 'Amru] -yaitu Ibnu Al Hasan bin 'Ali- ia berkata, "Kami pernah bertanya kepada [Jabir bin 'Abdullah] tentang shalatnya Nabi shallallahu 'alaihi wasallam. Ia lalu menjawab, "Beliau melaksanakan shalat Zhuhur jika matahari sudah condong, shalat 'Ashar saat matahari masih terasa panasnya (masih terang), shalat Maghrib ketika matahari sudah tenggelam, sedangkan shalat 'Isya; jika orang-orang sudah berkumpul maka beliau segerakan, dan jika belum maka beliau akhirkan. Dan waktu untuk shalat Subuh saat pagi masih gelap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>565</td></tr><tr><td>Arabic No</td><td>565</td></tr><tr><td>Reference</td><td>Book 9 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн ‘Амр ибн аль-Хасан ибн ‘Али сказал: «(Однажды) мы спросили Джабира ибн ‘Абдуллах о молитве Пророка ﷺ, и он сказал: “Обычно он совершал полуденную молитву в полдень, послеполуденную — когда солнце было ещё ярким, закатную — когда оно уже садилось, а вечернюю — (в разное время. Если он видел,) что людей уже много, то начинал (молитву) пораньше, а если (видел,) что их мало, то откладывал (его). (Что же касается) утренней молитвы, то он совершал её в предрассветном сумраке”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>565</td></tr><tr><td>Arabic No</td><td>565</td></tr><tr><td>Reference</td><td>Book 9 Hadith 42</td></tr></tbody></table></div>
 

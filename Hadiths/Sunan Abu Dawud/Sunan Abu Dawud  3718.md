@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nazzal b. Samurah said :‘Ali asked for water and he drank it while standing. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Mis'ar bin Kidam] dari [Abdul Malik bin Maisarah] dari [An Nazzal bin Saburah] bahwa [Ali] minta diambilkan air minum, lalu ia meminumnya sambil berdiri, kemudian ia berkata, "Banyak orang membenci untuk membenci untuk melakukan seperti ini, padahal aku pernah melihat Rasulullah shallallahu 'alaihi wasallam melakukan apa yang kalian lihat aku melakukannya (minum sambil berdiri)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5615)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3718</td></tr><tr><td>Arabic No</td><td>3718</td></tr><tr><td>Reference</td><td>Book 27 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ан-Наззаля ибн Сабры, что однажды ‘Али велел принести себе воды и выпил её стоя, после чего сказал: «Поистине, некоторые считают нежелательным делать это, однако я видел, как Посланник Аллаха ﷺ делает то же, что сделал сейчас я на ваших глазах!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5615)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3718</td></tr><tr><td>Arabic No</td><td>3718</td></tr><tr><td>Reference</td><td>Book 27 Hadith 50</td></tr></tbody></table></div>
 

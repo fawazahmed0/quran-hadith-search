@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Nafi' reported: Ibn Umar made the call to prayer at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Hisyam] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dri [Nafi'] dia berkata; [Ibnu Umar] pernah menyerukan untuk shalat ketika di Dlajnan, kemudian dia berseru; "Shalatlah kalian di persinggahan kalian." Dalam hadits ini, dia juga berkata; "Kemudian Ibnu Umar menuturkan dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau menyuruh mu'adzinnya untuk menyerukan shalat, kemudian seseorang menyeru; 'Hendaknya kalian shalat di persinggahan kalian ketika malam yang dingin mencekam, dan ketika malam hujan, serta dalam perjalanan." Abu Daud mengatakan; "Di riwayatkan pula oleh [Hammad bin Salamah] dari [Ayyub] dan ['Ubaidullah], dalam hadits tersebut dia mengatakan; " yaitu ketika dalam perjalanan dan di saat dinginnnya malam atau hujan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1061</td></tr><tr><td>Arabic No</td><td>1061</td></tr><tr><td>Reference</td><td>Book 2 Hadith 672</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, однажды призвал к молитве в Даджнане, а потом объявил: «Молитесь на своих местах! Молитесь на своих местах!» Затем он сказал, что в холодные и дождливые ночи в пути Посланник Аллаха ﷺ обычно велел муаззину произнести призыв к молитве, а потом объявить: «Молитесь на своих местах».Абу Дауд сказал: «Это передаёт и Хаммад ибн Саляма от Айюба и ‘Убайдуллаха, и он сказал в нём: “…в пути в очень холодную или дождливую ночь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1061</td></tr><tr><td>Arabic No</td><td>1061</td></tr><tr><td>Reference</td><td>Book 2 Hadith 672</td></tr></tbody></table></div>
 

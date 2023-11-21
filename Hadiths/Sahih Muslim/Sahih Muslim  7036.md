@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qais b. 'Ubad reported:We said to 'Ammar: Was your fighting (on the side of 'Ali
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] -dan lafadh ini milik Al Mutsanna- mereka berdua berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Nadlrah] dari [Qais bin 'Ubad] dia berkata; "Saya pernah bertanya kepada Ammar, 'Bagaimanakah pendapatmu tentang peperanganmu? Sesungguhnya pendapat itu bisa salah dan bisa pula benar. Atau, bagaimana pesan Rasulullah yang telah disampaikan kepadamu? ' Ammar menjawab; 'Rasulullah shallallahu 'alaihi wasallam tidak pernah menyampaikan pesan kepada kami suatu pesan yang tidak beliau sampaikan juga kepada semua orang.' [Ammar] berkata; 'Sesungguhnya Rasulullah pernah bersabda: 'Sesungguhnya di kalangan umatku (Syu'bah) berkata; 'Menurut saya Ammar berkata; 'Saya diberitahu oleh [Hudzaifah] …' Ghundar berkata; 'Saya pernah melihat Rasulullah ketika beliau bersabda: '(Di kalangan umatku) ada dua belas orang munafik yang tidak akan masuk surga. Bahkan mereka tidak akan dapat mencium harumnya surga kecuali jika ada seekor unta yang dapat masuk ke dalam lubang jarum. Delapan orang di antara mereka pasti akan tertimpa Dubailah, yaitu pijaran api yang menyengat bagian belakang pundak sehingga tembus ke dada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7036</td></tr><tr><td>Arabic No</td><td>2779.02</td></tr><tr><td>Reference</td><td>Book 51 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7036</td></tr><tr><td>Arabic No</td><td>2779.02</td></tr><tr><td>Reference</td><td>Book 51 Hadith 13</td></tr></tbody></table></div>
 

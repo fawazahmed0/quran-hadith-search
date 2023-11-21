@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta [Ali bin Hujr] mereka berkata, telah menceritakan kepada kami [Ismail, dan dia adalah Ibnu Ja'far] dari [al-'Ala'] dari [Bapaknya] dari [Abu Hurairah ra] bahwa Rasulullah shallallahu'alaihiwasallam telah bersabda, "Aku diberi keutamaan atas para nabi dengan enam perkara: pertama, aku diberi Jawami' al-Kalim. Kedua, aku ditolong dengan rasa takut (yang dihunjamkan di dada-dada musuhku). Ketiga, ghanimah dihalalkan untukku. Keempat, bumi dijadikan suci untukku dan juga sebagai masjid. Kelima, aku diutus kepada seluruh makhluk. Keenam, para nabi ditutup dengan kerasulanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1167</td></tr><tr><td>Arabic No</td><td>523.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Мне было отдано предпочтение перед (другими) пророками в шести (отношениях): мне была дарована (способность говорить с людьми, произнося) немного слов, в которые вкладывается много смысла; мне была оказана помощь страхом, (который охватил сердца моих врагов, живущих от меня на расстоянии месяца пути); мне было дозволено (брать) военную добычу; (вся) земля была сделана для меня местом совершения молитв и средством очищения; я был направлен ко всем людям и я стал последним пророком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1167</td></tr><tr><td>Arabic No</td><td>523.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 7</td></tr></tbody></table></div>
 

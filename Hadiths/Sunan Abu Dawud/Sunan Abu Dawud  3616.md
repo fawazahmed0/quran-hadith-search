@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: Two men disputed about some property and brought the case 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Minhal] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Ibnu Abu 'Arubah] dari [Qatadah] dari [Khilas] dari [Abu Rafi'] dari [Abu Hurairah] bahwa dua orang laki-laki mengadukan perselisihan tentang sebuah barang kepada Nabi shallallahu 'alaihi wasallam, sementara keduanya tidak memiliki bukti. Lalu Nabi shallallahu 'alaihi wasallam bersabda: "Undilah untuk melakukan sumpah!" Baik keduanya menyukai hal tersebut atau membencinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>3616</td></tr><tr><td>Reference</td><td>Book 25 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что два человека обратились к Пророку ﷺ по поводу имущества: каждый утверждал, что оно принадлежит ему, однако ни один из них не мог представить доказательства. Пророк ﷺ сказал им: «Бросайте жребий, и тот, кому выпадет жребий, должен поклясться (, что это его имущество), хотите вы того или нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>3616</td></tr><tr><td>Reference</td><td>Book 25 Hadith 46</td></tr></tbody></table></div>
 

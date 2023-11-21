@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:Allah's Messenger (ﷺ) said, "Noah and his nation will come 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami ['Abdul Wahid bin Ziyad] telah bercerita kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "(Pada hari qiyanat) Nabi Nuh 'alaihissalam dan ummatnya datang lalu Allah Ta'ala berfirman: "Apakah kamu telah menyampaikan (ajaran)?. Nuh 'Alaihissalam menjawab: "Sudah, wahai Rabbku". Kemudian Allah bertanya kepada ummatnya: "Apakah benar dia telah menyampaikan kepada kalian?". Mereka menjawab; "Tidak. Tidak ada seorang Nabi pun yang datang kepada kami". Lalu Allah berfirman kepada Nuh 'alaihissalam: "Siapa yang menjadi saksi atasmu?". Nabi Nuh Alaihissalam berkata; "Muhammad shallallahu 'alaihi wasallam dan ummatnya". Maka kami pun bersaksi bahwa Nabi Nuh 'alaihissalam telah menyampaikan risalah yang diembannya kepada ummatnya. Begitulah seperti yang difirmankan Allah Yang Maha Tinggi (QS al-Baqarah ayat 143 yang artinya), ("Dan demikianlah kami telah menjadikan kalian sebagai ummat pertengahan untuk menjadi saksi atas manusia.."). al-washathu artinya al-'adl (adil)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3339</td></tr><tr><td>Arabic No</td><td>3339</td></tr><tr><td>Reference</td><td>Book 60 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид (аль-Худри), да будет доволен им Аллах, сказал:\n— Посланник Аллаха ﷺ сказал:\n— (В День воскрешения) явится Нух и его община и Всевышний Аллах спросит: «Довёл ли ты?» — и он скажет: «Да, о мой Господь!» Тогда Он спросит членов его общины: «Довёл ли он до вас?» Они ответят: «Нет, к нам не приходил пророк!» (Аллах) спросит (Нуха): «Кто засвидетельствует твою (правоту)?» Он скажет: «Мухаммад ﷺ и (члены) его общины», и мы (мусульмане) засвидетельствуем, что он (действительно) довёл (послание Аллаха), и об этом слова (Всевышнего), да будет велика слава Его: «И так сделали Мы вас общиной срединной, чтобы стали вы свидетелями о людях». Придерживаться середины — (это) справедливость
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3339</td></tr><tr><td>Arabic No</td><td>3339</td></tr><tr><td>Reference</td><td>Book 60 Hadith 14</td></tr></tbody></table></div>
 

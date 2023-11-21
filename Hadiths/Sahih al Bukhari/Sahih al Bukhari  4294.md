@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Umar used to admit me (into his house) along with the old m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Said bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, Umar Pernah mengajakku dalam sebuah majlis orang dewasa, sehingga sebagian sahabat bertanya "Mengapa si anak kecil ini kau ikut sertakan, kami juga punya anak-anak kecil seperti dia?" Umar menjawab; "Kalian maklum, anak ini punya "kualitas" tersendiri." Kata Ibnu Umar, maka suatu hari Umar mengundang mereka dan mengajakku bersama mereka. Seingatku, Umar tidak mengajakku saat itu selain untuk mempertontonkan kepada mereka kualitas keilmuanku. Lantas Umar bertanyal; "Bagaimana komentar kalian tentang ayat "Seandainya pertolongan Allah dan kemenangan datang (1) dan kau lihat manusia masuk agama Allah dengan berbondong-bondong (2) -hingga ahkir surat (QS. Alfath 1-3). Sebagian sahabat berkomentar; "Tentang ayat ini, setahu kami, kita diperintahkan agar memuji Allah dan meminta ampunan kepada-Nya, tepatnya ketika kita diberi pertolongan dan diberi kemenangan." Sebagian lagi berkomentar; "kalau kami nggak tahu." Atau bahkan tidak berkomentar sama sekali. Lantas Umar bertanya kepadaku; "Wahai Ibnu Abbas, beginikah kamu berkomentar mengenai ayat tadi?"TIDAK" Jawabku."Lalu komentarmu? Tanya Umar. Ibnu Abbas menjawab; "Surat tersebut adalah pertanda wafat Rasulullah shallallahu 'alaihi wasallam sudah dekat, Allah memberitahunya dengan ayatnya: "Jika telah datang pertolongan Allah dan kemenangan', itu berarti penaklukan Makkah dan itulah tanda ajalmu (Muhammad), karenanya "Bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan, sesungguhnya Dia Maha Menerima taubat. Kata Umar, "Aku tidak tahu penafsiran ayat tersebut selain seperti yang kamu (Ibnu Abbas) ketahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4294</td></tr><tr><td>Arabic No</td><td>4294</td></tr><tr><td>Reference</td><td>Book 64 Hadith 327</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «‘Умар, да будет доволен им Аллах, приглашал меня к себе вместе со старцами, принимавшими участие в битве при Бадре. (В конце концов) некоторые из них сказали: “Почему он входит (к тебе) вместе с нами, ведь он не старше наших сыновей?!” (В ответ им) ‘Умар сказал: “Вы же знаете о его положении!” И однажды он позвал меня вместе с ними, и я думаю, что в тот день он сделал это лишь для того, чтобы показать им. ‘Умар спросил: “Что вы можете сказать о словах Аллаха: “Когда придёт помощь Аллаха и победа и увидишь ты людей, присоединяющихся к религии Аллаха толпами…”?” Один из (присутствовавших) ответил: “Нам было велено воздавать хвалу Аллаху и просить Его о прощении, когда нам будет оказана помощь и дарована победа”, — другие же промолчали, не сказав ничего. Тогда он обратился (с вопросом) ко мне: “И ты скажешь то же самое, о Ибн ‘Аббас?” Я ответил: ”Нет”. Он спросил: “Что же ты скажешь?” Я ответил: “Здесь (имеется в виду) срок (жизни) Посланника Аллаха ﷺ, о (близости завершения которого) сообщил Аллах. (Аллах) сказал, что “Когда придёт помощь Аллаха и победа“, победа — это завоевание Мекки, это будет признаком (близости) твоего срока, и тогда “… прославляй Господа твоего хвалою и проси у Него прощения, ведь Он — Приемлющий покаяние””. (Выслушав мой ответ,) ‘Умар сказал: “Я (тоже) ничего не знаю об этой суре, кроме того, что говоришь ты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4294</td></tr><tr><td>Arabic No</td><td>4294</td></tr><tr><td>Reference</td><td>Book 64 Hadith 327</td></tr></tbody></table></div>
 

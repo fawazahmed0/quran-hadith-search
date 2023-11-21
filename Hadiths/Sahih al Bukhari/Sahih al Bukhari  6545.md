@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, " It will be said to the people of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah] mengatakan, telah bersabda Nabi Shallallahu'alaihiwasallam: "(dihari kiamat), penduduk surga dipanggil: 'Wahai penduduk surga, kalian hidup abadi dan tak ada lagi kematian', dan penduduk neraka dipanggil; 'Wahai penduduk neraka, kalian hidup abadi dan tak ada kematian lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6545</td></tr><tr><td>Arabic No</td><td>6545</td></tr><tr><td>Reference</td><td>Book 81 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Обитателям Рая будет сказано: “О обитатели Рая, (теперь будет) вечность, смерти (больше) нет!” И обитателям Огня будет сказано: “О обитатели Огня, (теперь будет) вечность, смерти (больше) нет!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6545</td></tr><tr><td>Arabic No</td><td>6545</td></tr><tr><td>Reference</td><td>Book 81 Hadith 134</td></tr></tbody></table></div>
 

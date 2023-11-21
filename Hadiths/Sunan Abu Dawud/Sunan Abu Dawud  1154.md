@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubaid Allah b. 'Abd Allah b. 'Utbah b. Mas'ud said:'Umar b. al-Khattab asked Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Dlamrah bin Sa'id Al Mazini] dari ['Ubaidullah bin Abdullah bin 'Utbah bin Mas'ud] bahwa Umar bin Khattab bertanya kepada [Abu Waqid Al Laitsi]; "Apa yang biasa di baca oleh Rasulullah shallallahu 'alaihi wasallam pada waktu shalat iedul Adha dan Fithri?" dia menjawab; "Pada shalat dua hari raya tersebut, beliau biasa membaca; "Qaaf wal quraanil majiid" dan "Waqtarabatis saa'ah wan syaqqal Qamar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (891)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1154</td></tr><tr><td>Arabic No</td><td>1154</td></tr><tr><td>Reference</td><td>Book 2 Hadith 765</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Убайдуллаха ибн ‘Абдуллаха ибн ‘Утбы ибн Мас‘уда, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, спросил Абу Вакыда аль-Лейси, что Посланник Аллаха ﷺ читал в праздник жертвоприношения и в праздник разговения, и тот ответил, что Посланник Аллаха ﷺ читал суры «Каф. Клянусь славным Кораном!» и «Приблизился Час, и раскололась луна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (891)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1154</td></tr><tr><td>Arabic No</td><td>1154</td></tr><tr><td>Reference</td><td>Book 2 Hadith 765</td></tr></tbody></table></div>
 

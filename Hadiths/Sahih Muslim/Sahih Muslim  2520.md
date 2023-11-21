@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zuhri reported that (once) the Messenger of Allah (ﷺ) took an oath that he wou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] bahwa Nabi shallallahu 'alaihi wasallam pernah bersumpah untuk tidak memasuki isteri-isterinya selama satu bulan. [Az Zuhri] berkata; Telah mengabarkan kepadaku [Urwah] dari [Aisyah] radliallahu 'anha, ia berkata; Tatkala lewat dua puluh sembilan malam, yang aku menghitungnya sendiri, Rasulullah shallallahu 'alaihi wasallam mulai masuk ke rumahku. Maka aku bertanya kepada beliau, "Wahai Rasulullah! bukankah Tuan telah bersumpah untuk tidak masuk menemui kami selama sebulan? Menurut hitunganku sekarang baru dua puluh sembilan hari." Maka beliau pun bersabda: "Sesungguhnya jumlah hari dalam satu bulan itu (ada kalanya) dua puluh sembilan hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2520</td></tr><tr><td>Arabic No</td><td>1083</td></tr><tr><td>Reference</td><td>Book 13 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2520</td></tr><tr><td>Arabic No</td><td>1083</td></tr><tr><td>Reference</td><td>Book 13 Hadith 26</td></tr></tbody></table></div>
 

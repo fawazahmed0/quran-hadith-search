@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada bin Rabi Al-Ansari;:The Prophet (ﷺ) said, "If anyone of yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] dari ['Abdullah bin Sa'id] dari ['Amir bin 'Abdullah bin Az Zubair] dari ['Amru bin Sulaim Az Zuraqiy] dia mendengar [Abu Qatadah bin Rib'iy Al Anshariy radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang dari kalian masuk ke dalam masjid maka janganlah dia duduk sebelum shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1167</td></tr><tr><td>Arabic No</td><td>1167</td></tr><tr><td>Reference</td><td>Book 19 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид рассказывал: «Однажды один человек пришел домой к Ибн ‘Умару, да будет доволен Аллах им и его отцом, и сказал: “Посланник Аллаха ﷺ вошел в Каабу”. Ибн ‘Умар сказал: “Я подошел и обнаружил, что Посланник Аллаха ﷺ уже вышел и обнаружил Биляля, стоящим у ворот Каабы. Я сказал: “О, Биляль! Молился ли Посланник Аллаха ﷺ внутри Каабы?” Он ответил: “Да”. Я спросил его: “Где (он молился?)” Он ответил: “Между этими двумя колоннами”. Затем он вышел и совершил два рак‘ата перед Каабой». \nАбу Хурайра сказал: «Пророк ﷺ заповедовал мне совершать два рак‘ата молитвы ад-духа». ‘Итбан сказал: «После восхода солнца ко мне пришли Посланник Аллаха ﷺ и Абу Бакр, да будет доволен им Аллах, мы выстроились позади него, и он совершил два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1167</td></tr><tr><td>Arabic No</td><td>1167</td></tr><tr><td>Reference</td><td>Book 19 Hadith 46</td></tr></tbody></table></div>
 

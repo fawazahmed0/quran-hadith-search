@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:I applied perfume to the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abbad] telah mengabarkan kepada kami [Sufyan] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha, ia berkata; "Aku pernah memakaikan harum-haruman pada baju Ihram Rasulullah shallallahu 'alaihi wasallam tatkala beliau hendak berihram dan sesudah tahallul sebelum tawaf di Baitullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>1189.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>1189.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 34</td></tr></tbody></table></div>
 

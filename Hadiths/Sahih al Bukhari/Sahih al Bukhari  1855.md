@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas (ra):Al Fadl was riding behind the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Sulaiman bin Yasar] dari [Ibnu 'Abbas Radliallahu 'anhu] berkata; Ketika AL Fadhal membonceng Nabi shallallahu 'alaihi wasallam tiba-tiba datang seorang wanita dari suku Khats'am sehingga Al Fadhal memandangnya dan wanita itupun memandang kepadanya, maka Nabi shallallahu 'alaihi wasallam mengalihkan wajah Al Fadhah ke arah yang lain. Wanita itu berkata: "Sesungguhnya kewajiban yang telah Allah tetapkan sampai kepada bapakku ketika dia sudah berusia lanjut sehingga dia tidak mampu untuk menempuh perjalanannya, apakah boleh aku menghajikannya?". Beliau menjawab: "Ya". Peristiwa ini terjadi pada Haji Wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1855</td></tr><tr><td>Arabic No</td><td>1855</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказал: «Аль-Фадль сидел в седле позади Пророка ﷺ и к ним подошла женщина из хас‘ама. Аль-Фадль стал смотреть на неё, а она — на него. Тогда Пророк ﷺ отвернул его лицо в другую сторону. Женщина сказала: “Обязанность совершать хадж, которую возложил Аллах на Своих рабов, застала моего отца глубоким стариком, и он не способен удержаться на верблюдице, так могу ли я совершить хадж вместо него?” Он сказал: “Да”. Всё это произошло в прощальном хадже»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1855</td></tr><tr><td>Arabic No</td><td>1855</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
 

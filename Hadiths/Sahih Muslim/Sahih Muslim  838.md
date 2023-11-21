@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:Bilal was commanded (by the Messenger of Allah) to repeat (the phr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalaf bin Hisyam] telah menceritakan kepada kami [Hammad bin Zaid] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Ismail bin Ulayyah] semuanya meriwayatkan dari [Khalid al-Hadzdza'] dari [Abu Qilabah] dari [Anas] dia berkata, "Bilal diperintahkan untuk menggenapkan adzan, dan mengganjilkan iqamah." [Yahya] menambahkan dalam haditsnya, dari [Ibnu Ulayyah], lalu aku menceritakannya pada [Ayyub], maka dia berkata, "Kecuali iqamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>838</td></tr><tr><td>Arabic No</td><td>378.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Билялю было велено повторять слова азана чётное число раз, а слова икамы нечётное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>838</td></tr><tr><td>Arabic No</td><td>378.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 2</td></tr></tbody></table></div>
 

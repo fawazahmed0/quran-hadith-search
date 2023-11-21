@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The prayer was prescribed as consisting of two r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Shalih bin Kaisan] dari ['Urwah bin Zubair] dari [Aisyah radliallahu 'anha] dia berkata; "Shalat di wajibkan dua raka'at-dua raka'at, baik ketika mukim atau dalam perjalanan, di tetapkan dua raka'at dalam perjalanan, dan di tambah (raka'atnya) ketika mukim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (350) Sahih Muslim (685)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1198</td></tr><tr><td>Arabic No</td><td>1198</td></tr><tr><td>Reference</td><td>Book 4 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказала ‘Аиша, да будет доволен ею Аллах: «Изначально было предписано совершать молитву в два рак‘ата и дома и в пути, а потом молитва в пути так и осталась, а в молитву дома были добавлены два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (350) Sahih Muslim (685)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1198</td></tr><tr><td>Arabic No</td><td>1198</td></tr><tr><td>Reference</td><td>Book 4 Hadith 1</td></tr></tbody></table></div>
 

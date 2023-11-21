@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that there were some persons with Allah's Apostle (ﷺ) from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Mua'dz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Taubah Al 'Anbari] dia mendengar [Sya'bi] bahwa dia mendengar [Ibnu Umar], bahwa Nabi shallallahu 'alaihi wasallam bersama dengan para sahabatnya, termasuk di dalamnya adalah Sa'd. Lalu dihidangkan daging biawak untuk mereka, tiba-tiba seorang wanita dari isteri Nabi shallallahu 'alaihi wasallam menyeru, "Itu adalah daging biawak." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Makanlah karena daging itu adalah halal, namun ia tidak dari makanan yang biasa saya makan." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Taubah Al 'Anbari] dia berkata; [As Sya'bi] pernah berkata kepadaku, "Bagaimana pendapatmu mengenai hadits Al Hasan dari Nabi shallallahu 'alaihi wasallam? Padahal saya pernah mendampingi [Ibnu Umar] kurang lebih dua tahun atau setahun setengah, namun saya tidak pernah mendengar dia meriwayatkan dari Nabi shallallahu 'alaihi wasallam selain hadits ini." Dia menjawab, "Sekelompok orang dari sahabat Nabi shallallahu 'alaihi wasallam yang di antaranya adalah Sa'd…seperti hadits Mu'adz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032</td></tr><tr><td>Arabic No</td><td>1944.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032</td></tr><tr><td>Arabic No</td><td>1944.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 61</td></tr></tbody></table></div>
 

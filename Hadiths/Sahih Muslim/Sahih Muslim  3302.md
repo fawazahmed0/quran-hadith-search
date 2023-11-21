@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Thawus] dari [Ibnu Abbas] ia berkata; Pada hari penaklukan kota Makkah, Rasulullah shallallahu 'alaihi wasallam bersabda: "Makkah telah ditaklukkan. Mulai sekarang tidak ada lagi hijrah. Yang ada hanyalah jihad dan niat menegakkan agama Allah. Bila kamu diperintahkan berangkat, maka berangkatlah. Makkah telah ditaklukkan. Sesungguhnya tanah ini diharamkan Allah sejak terciptanya langit dan bumi. Maka negeri ini negeri haram, karena diharamkannya Allah hingga hari kiamat. Siapa pun tidak boleh berperang di negeri ini, baik orang yang sebelumku maupun aku sendiri, kecuali hanya satu saat di siang hari bagiku. Negeri adalah negeri haram karena diharamkan Allah sampai hari kiamat. Di negeri ini tidak boleh seseorang memotong pohon berduri, tidak boleh memburu binatang-binatangnya, tidak boleh memungut barang hilang karena tercecer, kecuali untuk diumumkan, dan tidak boleh memotong rerumputnya." Kemudian berkatalah Abbas, "Wahai Rasulullah, selain Idzkhir, karena Idzkhir diperlukan untuk tukang pencelup dan pembangun rumah." Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Melainkan Idzkhir." Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Al Mufadldlal] dari [Manshur] dalam isnad ini, semisalnya. Dan ia tidak menyebutkan; Pada hari, ketika Dia menciptakan langit dan bumi." Kemudian ia menggantikan kata Al Qital dengan Al Qatlu dan ia juga menyebutkan; "Tidak boleh memungut barang hilang karena tercecer, kecuali untuk diumumkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3302</td></tr><tr><td>Arabic No</td><td>1353.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 506</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3302</td></tr><tr><td>Arabic No</td><td>1353.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 506</td></tr></tbody></table></div>
 

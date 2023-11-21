@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ja'far bin 'Amr bin Umaiya:My father said, "I saw Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepada kami [Ibrahim] dari [Shalih] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Ja'far bin 'Amru bin Umayyah] bahwanya [bapaknya] telah berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam memakan daging paha lalu memotongnya. Kemudian beliau diserukan untuk shalat. Maka Beliau berdiri lalu meletakkan pisau kemudian shalat tanpa berwudlu' lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>675</td></tr><tr><td>Arabic No</td><td>675</td></tr><tr><td>Reference</td><td>Book 10 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Собщается, что Ибн Шихаб (аз-Зухри) сказал:«Джа‘фар ибн ‘Амр ибн Умаййа сообщил мне о том, что отец его сказал: “Я видел, как Посланник Аллаха ﷺ ел (баранью) лопатку, отрезая от неё (ножом куски мяса). И когда в это время прозвучал призыв к намазу, он встал, бросил нож и совершил намаз, не совершив омовения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>675</td></tr><tr><td>Arabic No</td><td>675</td></tr><tr><td>Reference</td><td>Book 10 Hadith 69</td></tr></tbody></table></div>
 

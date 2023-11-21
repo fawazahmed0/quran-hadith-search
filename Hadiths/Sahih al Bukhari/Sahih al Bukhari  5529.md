@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:I said to Jabir bin Zaid, "The people claim that Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], ['Amru] berkata; aku berkata kepada [Jabir bin Zaid] bahwa orang-orang menganggap Rasulullah shallallahu 'alaihi wasallam telah melarang makan daging keledai jinak, lantas Jabir menjawab; [Hakam bin 'Amru Al Ghifari] juga pernah mengatakan seperti itu di sisi kami ketika berada di Bashrah, akan tetapi sang lautan (ilmu) yaitu [Ibnu Abbas] tidak membenarkan pernyataan itu sambil mengutip ayat "Katakanlah: "Tiadalah Aku peroleh dalam wahyu yang diwahyukan kepadaku, sesuatu yang diharamkan bagi orang yang hendak memakannya QS Al An'am;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5529</td></tr><tr><td>Arabic No</td><td>5529</td></tr><tr><td>Reference</td><td>Book 72 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр сказал: «Я сказал Джабиру ибн Зайду: “Люди утверждают, что Посланник Аллаха ﷺ запретил есть мясо осла”. Он сказал: “Аль-Хакам ибн ‘Амр аль-Гифари говорил так, когда был с нами, но Ибн ‘Аббас, великий религиозный ученый, отвергал это и процитировал: “Скажи (о, Посланник): “В том, что дается мне откровением (от Аллаха), я не нахожу запретным” (сура “аль-Ан‘ам”, аят 145)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5529</td></tr><tr><td>Arabic No</td><td>5529</td></tr><tr><td>Reference</td><td>Book 72 Hadith 54</td></tr></tbody></table></div>
 

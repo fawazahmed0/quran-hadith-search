@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id ibn Zayd: The Prophet (ﷺ) said: He who is killed while protecti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Abu Dawud Ath Thayalisi] dan [Sulaiman bin Dawud] -maksudnya Sulaiman Abu Ayyub Al Hasyimi- dari [Ibrahim bin Sa'd] dari [Bapaknya] dari [Abu Ubaidah bin Muhammad bin Ammar bin Yasir] dari [Thalhah bin Abdullah] dari [Sa'id bin Zaid] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Siapa yang dibunuh karena membela hartanya maka ia syahid, siapa yang dibunuh karena membela keluarganya maka ia syahid, atau karena membela darahnya, atau karena membela agamanya maka ia syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4772</td></tr><tr><td>Arabic No</td><td>4772</td></tr><tr><td>Reference</td><td>Book 42 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘ида ибн Зейда, что Пророк ﷺ сказал: «Кто погиб, защищая своё имущество, тот мученик /шахид/. И кто погиб, защищая свою семью, или защищая свою жизнь, или защищая свою религию, тот мученик /шахид/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4772</td></tr><tr><td>Arabic No</td><td>4772</td></tr><tr><td>Reference</td><td>Book 42 Hadith 177</td></tr></tbody></table></div>
 

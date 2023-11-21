@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah Al-Ansari:I saw the Prophet (ﷺ) offering his Nawa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu Dzi'b] telah menceritakan kepada kami ['Utsman bin Abdullah bin Suraqah] dari [Jabir bin Abdullah Al Anshari] ia berkata; "Pada saat perang Anmar, aku melihat Nabi shallallahu 'alaihi wasallam shalat sunnah di atas tunggangannya menghadap ke arah timur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4140</td></tr><tr><td>Arabic No</td><td>4140</td></tr><tr><td>Reference</td><td>Book 64 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах аль-Ансари, да будет доволен Аллах ими обоими, сказал: «Я видел, как во время похода на (бану) анмар Пророк ﷺ сидевший на своей верблюдице лицом к востоку, совершал добровольный намаз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4140</td></tr><tr><td>Arabic No</td><td>4140</td></tr><tr><td>Reference</td><td>Book 64 Hadith 184</td></tr></tbody></table></div>
 

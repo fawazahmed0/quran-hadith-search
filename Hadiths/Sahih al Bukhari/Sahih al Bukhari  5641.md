@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri and Abu Huraira:The Prophet (ﷺ) said, "No fatigue
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Abdul Malik bin 'Amru] telah menceritakan kepada kami [Zuhair bin Muhammad] dari [Muhammad bin 'Amru bin Halhalah] dari ['Atha' bin Yasar] dari [Abu Sa'id Al Khudri] dan dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidaklah seorang muslim tertimpa suatu penyakit dan keletihan, kehawatiran dan kesedihan, dan tidak juga gangguan dan kesusahan bahkan duri yang melukainya melainkan Allah akan menghapus kesalahan-kesalahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5641</td></tr><tr><td>Arabic No</td><td>5641</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри и Абу Хурайры, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Что бы ни постигло мусульманина, будь то утомление, болезнь, тревога, печаль, неприятность, скорбь (или) даже укол колючки, Аллах непременно простит ему за это (что-нибудь) из его грехов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5641</td></tr><tr><td>Arabic No</td><td>5641</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

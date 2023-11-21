@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: Attend the sermon (on Frida
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Mu'adz bin Hisyam] dia berkata; aku mendapati dalam kitabnya [ayahku] dengan tulisannya sendiri, namun aku belum pernah mendengar darinya, [Qatadah] mengatakan, dari [Yahya bin Malik] dari [Samurah bin Jundub] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Hadirilah peringatan (khutbah) dan mendekatlah kepada imam, karena seseorang yang selalu menjauh darinya hingga ia akan di akhirkan masuk surga, meskipun ia memasukinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 2 Hadith 719</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Самуры ибн Джундуба о том, что Пророк ﷺ сказал: «Приходите на проповедь и будьте ближе к имаму! Поистине, человек не перестанет удаляться (от имама), пока не удалится и в Раю, даже если зайдет в него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 2 Hadith 719</td></tr></tbody></table></div>
 

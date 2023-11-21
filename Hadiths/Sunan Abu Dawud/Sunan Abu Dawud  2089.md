@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: About the Qur'anic verse: "It is not lawful for you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Mani'], telah menceritakan kepada kami [Asbath bin Muhammad], Telah menceritakan kepada kami [Asy Syaibani] dari [Ikrimah] dari [Ibnu Abbas], [Asy Syaibani] berkata; dan telah disebutkan oleh ['Atha' Abu Al Hasan As Suwai], dan aku kira berasal dari [Ibnu Abbas] mengenai ayat: "Tidak halal bagi kamu mempusakai (mewariskan) wanita dengan jalan paksa dan janganlah kamu menyusahkan mereka." Ia berkata; dahulu apabila seorang laki-laki meninggal, maka para walinya lebih berhak terhadap istrinya daripada wali wanita tersebut, apabila sebagian mereka berkehendak maka mereka akan menikahkannya dan apabila mereka berkehendak maka mereka tidak menikahkannya. Kemudian turunlah ayat ini mengenai hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4579، 6948)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2089</td></tr><tr><td>Arabic No</td><td>2089</td></tr><tr><td>Reference</td><td>Book 12 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Вам не дозволено наследовать женщин против их воли. Не чините им препятствия…» (сура 4 «Женщины», аят 19): «Раньше, когда мужчина умирал, считалось, что его покровители имеют больше прав на неё, чем её собственные покровители. Они могли, если желали, выдать её замуж или, напротив, не выдавать, и этот аят был ниспослан как раз в связи с этим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4579، 6948)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2089</td></tr><tr><td>Arabic No</td><td>2089</td></tr><tr><td>Reference</td><td>Book 12 Hadith 44</td></tr></tbody></table></div>
 

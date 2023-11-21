@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:A lady came to Allah's Messenger (ﷺ) and she talked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah bin Sa'd bin Ibrahim] telah menceritakan kepada kami [Ayahku] dan [pamanku] berkata telah menceritakan kepada kami [Ayahku] dari [Ayahnya] telah menceritakan kepadaku [Muhammad bin Jubair] bahwa bapaknya [Jubair bin Muth'im] mengabarkan kepadanya, bahwa seorang wanita menemui Rasulullah Shallallahu'alaihiwasallam dan mengajak beliau bicara tentang sesuatu. Lantas si wanita tadi berkata, 'Menurut anda bagaimana ya rasulullah sekiranya aku datang lagi namun tidak bertemu dengan baginda? ' Nabi menjawab: "Kalaulah engkau tidak menemuiku, temuilah Abu Bakar." [Al Humaidi] menambahkan untuk kami dari [Ibrahim bin sa'd] yang wanita maksudkan, adalah, sekiranya ia temukan nabi telah wafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7360</td></tr><tr><td>Arabic No</td><td>7360</td></tr><tr><td>Reference</td><td>Book 96 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Мут‘им, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ пришла какая-то женщина и поговорила с ним о чём-то, и он велел ей совершить какое-то дела. Она спросила: “Скажи мне, о Посланник Аллаха, а что если я не найду тебя?” Пророк ﷺ сказал: “Если не найдешь меня, ступай к Абу Бакру”». \nАль-Хумайдий добавил от Ибрахима ибн Са‘да, что как-будто бы она имела в виду смерть
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7360</td></tr><tr><td>Arabic No</td><td>7360</td></tr><tr><td>Reference</td><td>Book 96 Hadith 87</td></tr></tbody></table></div>
 

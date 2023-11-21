@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: During the time of the Messenger of Allah (ﷺ) a man u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah Al Aruzzi] dan [Ibrahim bin Khalid Abu Tsaur Al Kalbi] secara makna, mereka berkata; telah menceritakan kepada kami [Abdul Wahhab], Muhammad Abdul Wahhab bin 'Atha berkata; telah mengabarkan kepada kami [Sa'id] dari [Qatadah] dari [Anas bin Malik] bahwa pada masa Rasulullah shallallahu 'alaihi wasallam ada seorang laki-laki membeli sesuatu sementara dia adalah seorang yang akalnya lemah. Kemudian keluarganya datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Nabi Allah, batalkanlah jual belinya, sebab ia melakukan transaksi jual beli padahal akalnya lemah." Nabi shallallahu 'alaihi wasallam kemudian memanggil dan melarangnya melakukan berjual beli. Lalu ia berkata; wahai Nabi Allah, sesungguhnya aku tidak bisa bersabar untuk berjual beli. Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila engkau tidak dapat meninggalkan jual beli, maka lakukanlah dengan kontan dan tidak ada penipuan." [Abu Tsaur] menyebutkan dari [Sa'id]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3501</td></tr><tr><td>Arabic No</td><td>3501</td></tr><tr><td>Reference</td><td>Book 24 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что во времена Посланника Аллаха ﷺ один человек занимался торговлей, но у него плохо получалось, потому что его часто обманывали. И его домочадцы пришли к Пророку Аллаха ﷺ и сказали: «О Пророк Аллаха! Запрети такому-то распоряжаться своим имуществом, ибо он занимается торговлей, но у него очень плохо получается!» Пророк ﷺ позвал этого человека и запретил ему заниматься торговлей, однако этот человек сказал: «О Пророк Аллаха! Я не могу удержаться от торговли!» Посланник Аллаха ﷺ сказал: «Если уж ты не можешь оставить торговлю, говори: “Из рук в руки и без обмана!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3501</td></tr><tr><td>Arabic No</td><td>3501</td></tr><tr><td>Reference</td><td>Book 24 Hadith 86</td></tr></tbody></table></div>
 

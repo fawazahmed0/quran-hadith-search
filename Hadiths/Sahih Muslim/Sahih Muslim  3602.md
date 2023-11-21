@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abu Mulaika reported that al-Qasim b. Muhammad b. Abu Bakr had narrated to h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Rafi'] sedangkan lafazhnya dari Ibnu Rafi' dia berkata; Telah menceritakan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepada kami [Ibnu Abi Mulaikah] bahwasannya [Qasim bin Muhammad bin Abu Bakar] telah mengabarkannya bahwa [Aisyah] telah mengabarkannya bahwa Sahlah binti Suhail bin Amru datang menemui Nabi shallallahu 'alaihi wasallam, dia berkata; "Wahai Rasulullah, sesungguhnya Salim, yaitu Salim budak Abu Hudzaidah (tinggal) bersama di rumah kami, sesungguhnya dia telah tumbuh dewasa sebagaimana layaknya orang laki-laki dan berpikiran sebagaimana pikiran orang dewasa." Beliau bersabda: "Susuilah dia, maka dia akan menjadi mahrammu." (Perawi) berkata; Kemudian saya tinggal selama setahun atau kurang dari setahun, saya tidak lagi meriwayatkan hadits, kemudian saya bertemu dengan Qasim dan berkata; Sungguh kamu telah menceritakan kepadaku suatu hadits yang tidak lagi saya ceritakan setelahnya, dia bertanya; Hhadits apakah itu? Lantas saya kabaran kepadanya. Dia berkata; Telah menceritakan kepadaku bahwa Aisyahlah yang mengabarkannya padaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3602</td></tr><tr><td>Arabic No</td><td>1453.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3602</td></tr><tr><td>Arabic No</td><td>1453.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 35</td></tr></tbody></table></div>
 

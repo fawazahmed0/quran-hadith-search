@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:The Prophet (ﷺ) said, "Whoever sees me (in a dream) then h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Khali] telah menceritakan kepada kami [Muhammad bin Harb] telah menceritakan kepadaku [Az Zubaidi] dari [Az Zuhri], [Abu Salamah] mengatakan; [Abu Qatadah] radliallahu 'anhu mengatakan, Nabi Shallallahu'alaihiwasallam bersabda: "Barangsiapa melihatku berarti telah melihat yang sebenarnya." Hadis ini dikuatkan oleh [Yunus] dan [Ibnu Akhi Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6996</td></tr><tr><td>Arabic No</td><td>6996</td></tr><tr><td>Reference</td><td>Book 91 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Катада, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Кто увидел меня (во сне), тот увидел истину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6996</td></tr><tr><td>Arabic No</td><td>6996</td></tr><tr><td>Reference</td><td>Book 91 Hadith 15</td></tr></tbody></table></div>
 

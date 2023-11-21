@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fadl reported that a woman of Banu Khath'am said:Messenger of Allah, my father i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Khasyram] telah mengabarkan kepada kami [Isa] dari [Ibnu Juraij] dari [Ibnu Syihab] Telah menceritakan kepada kami [Sulaiman bin Yasar] dari [Ibnu Abbas] dari [Al Fadll] bahwasanya; Seorang wanita dari Khats'am berkata, "Wahai Rasulullah, sesungguhnya bapakku adalah seorang yang sudah tua renta, ia masih memiliki kewajiban haji, sementara ia tidak mampu lagi menunggang di atas Untaranya." Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Kalau begitu, hajikanlah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3252</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 15 Hadith 456</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3252</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 15 Hadith 456</td></tr></tbody></table></div>
 

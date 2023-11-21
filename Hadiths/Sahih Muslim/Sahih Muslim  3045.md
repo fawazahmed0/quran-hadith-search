@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that Ibn Umar (Allah be pleased with them) did not enter Mecca wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] Telah menceritakan kepada kami [Hammad] Telah menceritakan kepada kami [Ayyub] dari [Nafi'] bahwa [Ibnu Umar] tidak pernah memasuki kota Makkah kecuali ia bermalam terlebih dahulu di Dzi Thuwa sampai waktu pagi datang. Setelah itu, ia mandi dan baru memasuki kota Makkah pada siang harinya. Ia menyebutkan bahwa hal tersebut dari Nabi shallallahu 'alaihi wasallam, bahwa beliau melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3045</td></tr><tr><td>Arabic No</td><td>1259.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3045</td></tr><tr><td>Arabic No</td><td>1259.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 251</td></tr></tbody></table></div>
 

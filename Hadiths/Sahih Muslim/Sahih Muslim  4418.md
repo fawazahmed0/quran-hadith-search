@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Omar Ibn Al-Khattâb (que Dieu l'agrée) a dit : Dieu envoya Muhammad (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu At Thahir] dan [Harmalah bin Yahya] keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; telah menceritakan kepadaku [Ubaidullah bin Abdullah bin 'Utbah] bahwa dia pernah mendengar [Abdullah bin Abbas] berkata, " [Umar bin Khattab] berkata sambil duduk di atas mimbar Rasulullah shallallahu 'alaihi wasallam, "Sesungguhnya Allah telah mengutus Muhammad shallallahu 'alaihi wasallam dengan kebenaran, dan Dia juga telah menurunkan kitab kepadanya, di antara ayat yang diturunkan kepadanya, yang kita semua telah membacanya, mempelajari dan berusaha memahaminya adalah ayat tentang rajam. Rasulullah shallallahu 'alaihi wasallam telah melaksanakan hukuman rajam tersebut, begitu juga kita akan tetap melaksanakan hukum tersebut setelah kepergian beliau. Aku khawatir, jika semakin lama, maka akan ada yang berkata, 'Di dalam al Qur'an tidak kita dapati ayat mengenai hukum rajam'. Lantas mereka tersesat karena meninggalkan hukum wajib itu yang telah diturunkan oleh Allah Ta'la. Sesungguhnya hukuman rajam yang terdapat dalam kitabullah, wajib dijalankan atas orang laki-laki dan perempuan yang telah menikah melakukan perzinahan apabila ada saksi, ada bukti dan juga ada pengakuan." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ibnu Abu Umar] mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4418</td></tr><tr><td>Arabic No</td><td>1691.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4418</td></tr><tr><td>Arabic No</td><td>1691.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
 

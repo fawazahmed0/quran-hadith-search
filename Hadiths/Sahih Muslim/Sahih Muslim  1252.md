@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Katsir bin Hisyam] dari [Hisyam ad-Dastawa'i] dari [Abu az-Zubair] dari [Jabir] dia berkata, "Rasulullah Shallallahu'alaihiwasallam melarang makan bawang merah dan bawang bakung, tetapi kami sangat membutuhkannya, maka kami makan sebagian darinya, lalu beliau bersabda, 'Barangsiapa makan sebagian dari pohon berbau busuk ini, maka janganlah dia mendekati masjid kami, karena malaikat merasa tersakiti sesuatu yang karenanya manusia juga merasa tersakiti (disebabkan baunya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1252</td></tr><tr><td>Arabic No</td><td>563</td></tr><tr><td>Reference</td><td>Book 5 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Посланник Аллаха ﷺ запретил есть лук и лук-порей, но однажды голод вынудил нас поесть их. Тогда он (Посланник Аллаха ﷺ) сказал: “Пусть тот, кто поел это зловонное растение, не приближается к нашей мечети, ибо, поистине, ангелам причиняет страдания то же, что и людям”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1252</td></tr><tr><td>Arabic No</td><td>563</td></tr><tr><td>Reference</td><td>Book 5 Hadith 89</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:Umm Salamah asked the Messenger of Allah (ﷺ) permission for get
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ibnu Mauhab] keduanya berkata; telah menceritakan kepada kami [Al Laits] dari [Abu Az Zubair] dari [Jabir] berkata, "Bahwasanya Ummu Salamah memohon izin kepada Rasulullah shallallahu 'alaihi wasallam untuk berbekam, maka beliau menyuruh Abu Thaibah untuk membekamnya." Perawi berkata, "Aku mengira bahwa Jabir mengatakan, "Abu Thaibah adalah saudara persusuan Ummu Salamah, atau ia mengatakan, "anak kecil yang belum mimpi basah (balig)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2206)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4105</td></tr><tr><td>Arabic No</td><td>4105</td></tr><tr><td>Reference</td><td>Book 34 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что Умм Саляма попросила у Посланника Аллаха ﷺ разрешения сделать себе кровопускание и Посланник Аллаха ﷺ велел Абу Тайбе сделать ей кровопускание. Передатчик сказал: «И, кажется, он сказал: “А он был, как говорят, либо её молочным братом, либо несовершеннолетним”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2206)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4105</td></tr><tr><td>Arabic No</td><td>4105</td></tr><tr><td>Reference</td><td>Book 34 Hadith 86</td></tr></tbody></table></div>
 

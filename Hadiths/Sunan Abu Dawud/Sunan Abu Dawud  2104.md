@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibrahim bin Maisarah reported from his maternal aunt who reported on the authori
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2104</td></tr><tr><td>Arabic No</td><td>2104</td></tr><tr><td>Reference</td><td>Book 12 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибрахим ибн Майсара передаёт от своей тётки со стороны матери, что достойная доверия женщина рассказала ей: «Когда мой отец был в составе войска во времена невежества, солнце стало жечь так, что один человек сказал: “Кто отдаст мне свои сандалии, а я выдам за него первую дочь, которая у меня родится?” Мой отец снял сандалии и бросил ему. А потом у того человека родилась дочь и достигла совершеннолетия…» И она пересказала историю, подобную приведённой выше, только без упоминания седины
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2104</td></tr><tr><td>Arabic No</td><td>2104</td></tr><tr><td>Reference</td><td>Book 12 Hadith 59</td></tr></tbody></table></div>
 

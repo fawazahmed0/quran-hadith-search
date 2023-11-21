@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(as regards) Allah's Statement: "Move not your tongue concer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Musa bin Abu Aisyah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] terkait dengan firman Allah: "LAA TUHARRIK LISAANAKA LITA'JALA BIHI." Ibnu Abbas berkata; Ketika Jibril turun membawa wahyu, biasa Rasulullah shallallahu 'alaihi wasallam menggerakkan lisan dan kedua bibirnya, dan bisa diketahui bahwa beliau berat dalam menerimanya. Maka Allah menurunkan ayat: "LAA UQSIMU BIYAMIL QIYAAMAH. LAA TUHARRIK BIHI LISAANAKA LITA'JALA BIH INNA 'ALAINAA JAM'AHU WA QUR'AANAH
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4929</td></tr><tr><td>Arabic No</td><td>4929</td></tr><tr><td>Reference</td><td>Book 65 Hadith 449</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘ида ибн Джубайра, что, толкуя слова Всевышнего «Не шевели языком своим, (повторяя его,) чтобы ускорить это…», Ибн ‘Аббас сказал: «Когда Джибриль спускался с откровением, Посланник Аллаха ﷺ всегда испытывал напряжение, что заставляло его шевелить языком и губами, и это было заметно по нему. Тогда Аллах ниспослал (аяты, в которых говорилось): “Не шевели языком своим, (повторяя его,) чтобы ускорить это! Поистине, это Нам надлежит собрать и прочесть его”».\nИбн ‘Аббас сказал: «(Это значит:) собрать его для тебя в твоём сердце». (Что же касается слов Всевышнего Аллаха): «А когда Мы прочитаем его, следуй его чтению», то Ибн ‘Аббас сказал: «(Это значит:) когда мы ниспосылаем его, слушай внимательно». (Аллах Всевышний сказал): «Далее, поистине, надлежит Нам разъяснить его». (Ибн ‘Аббас сказал: «Это значит:) далее, Нам надлежит разъяснить его через тебя». Ибн ‘Аббас сказал: «И после этого, когда Джибриль приходил к Посланнику Аллаха ﷺ, он слушал (его), а когда Джибриль уходил, Пророк ﷺ читал (аяты Корана) так, как и обещал ему Великий и Могучий Аллах. (А слова Всевышнего): “Горе тебе, горе!” — это угроза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4929</td></tr><tr><td>Arabic No</td><td>4929</td></tr><tr><td>Reference</td><td>Book 65 Hadith 449</td></tr></tbody></table></div>
 

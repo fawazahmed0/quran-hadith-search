@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Qatâda (que Dieu l'agrée) a dit : "Durant les deux premières rak'a des p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna al-Anazi] telah menceritakan kepada kami [Ibnu Abi Adi] dari [al-Hajjaj, yaitu ash-Shawwaf] dari [Yahya, yaitu Ibnu Abi Katsir] dari [Abdullah bin Abi Qatadah] dan [Abu Salamah] dari [Abu Qatadah] dia berkata, "Dahulu Rasulullah shalat bersama kami (sebagai imam), lalu membaca al-fatihah dan dua surat dalam shalat zhuhur dan ashar pada dua raka'at yang pertama. Dan terkadang beliau memperdengarkan (bacaan) ayat. Beliau memanjangkan raka'at pertama dari shalat zhuhur dan memendekkan yang kedua. Dan demikian juga dalam shalat shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1012</td></tr><tr><td>Arabic No</td><td>451.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада сказал: «Посланник Аллаха ﷺ руководил нашей молитвой, и во время полуденной /зухр/ и послеполуденной /‘аср/ молитв он читал в первых двух рак‘атах “аль-Фатиху” и две суры, причём некоторые аяты иногда он читал так, что мы тоже слышали их. При этом он удлинял первый рак‘ат полуденной молитвы и укорачивал второй, и так же он поступал при совершении утренней /фаджр/ молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1012</td></tr><tr><td>Arabic No</td><td>451.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 174</td></tr></tbody></table></div>
 

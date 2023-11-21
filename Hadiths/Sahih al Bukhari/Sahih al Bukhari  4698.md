@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:While we were with Allah's Messenger (ﷺ) he said, "Tell me 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Ubaidillah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dia berkata; ketika kami bersama Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Beritahukan padaku suatu pohon yang mirip seorang muslim, daunnya tidak berguguran, dan ia tidak berbuah setiap waktu." Ibnu Umar berkata: Hatiku mengatakan bahwa pohon itu adalah pohon kurma. Aku melihat Abu Bakar dan Umar tidak berbicara sehingga aku tidak mau berbicara atau mengatakan apa pun. Tatkala para sahabat tidak ada yang menjawab sedikitpun, Rasulullah shallallahu 'alaihi wasallam bersabda: 'Yaitu pohon kurma.' Ketika kami sudah beranjak pergi, aku berkata kepada Umar; Wahai bapakku, dalam hatiku juga mengatakan bahwa itu adalah pohon kurma. Lalu ia berkata; Kenapa kamu tidak mengatakannya tadi? Ibnu Umar menjawab; 'Aku melihat kalian semua tidak menjawab, maka aku pun tidak mau menjawab atau mengatakan sesuatu pun. Umar berkata: 'Andai kau mengatakannya, itu lebih aku sukai dari ini dan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4698</td></tr><tr><td>Arabic No</td><td>4698</td></tr><tr><td>Reference</td><td>Book 65 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам аль-Бухари сказал):\n— Рассказал мне ‘Убайд ибн Исма‘иль от Абу Усамы, (передавшего) от ‘Убайдуллы, (передавшего) от Нафи‘а, (передавшего) от (‘Абдуллаха) ибн ‘Умара (да будет доволен Аллах ими обоими, который) сказал: «(Однажды, когда) мы находились с посланником Аллаха ﷺ он спросил: “Расскажите мне о дереве, похожем (или он сказал: подобному) мусульманину. Листья его не опадают, и не … не … не …, но оно плодоносит в любое время?”» \nИбн ‘Умар (да будет доволен Аллах ими обоими) сказал: «Мне пришло в голову, что это пальма, но увидев, что Абу Бакр и ‘Умар молчат, я не захотел говорить. Когда Посланник Аллаха ﷺ (увидел), что они ничего не говорят, он сказал: “Это — пальма”. Когда мы поднялись, (чтобы уйти), я сказал ‘Умару: “О, отец, клянусь Аллахом, я подумал, что это пальма”. Он сказал: “Что же помешало тебе высказаться?” (‘Абдуллах) ответил: “Я увидел, что вы молчите, и не захотел что-либо говорить”. (Тогда) ‘Умар сказал: “Если бы ты сказал это, мне было бы это милее, чем то-то и то-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4698</td></tr><tr><td>Arabic No</td><td>4698</td></tr><tr><td>Reference</td><td>Book 65 Hadith 220</td></tr></tbody></table></div>
 

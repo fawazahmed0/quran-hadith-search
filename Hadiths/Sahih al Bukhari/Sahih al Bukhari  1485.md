@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Dates used to be brought to Allah's Messenger (ﷺ) immedia
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Muhammad bin Al Hasan Al Asadi] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ibrahim bin Thahman] dari [Muhammad bin Ziyad] dari [Abu Hurairah radliallahu 'anhu] berkata; "Suatu hari Rasulullah Shallallahu'alaihiwasallam pernah diberikan (menerima) zakat kurma ketika masa panen yang ketika itu seseorang membawa zakat kurmanya dan yang lain juga membawa zakat kurmanya sehingga kurma-kurma itu menumpuk karena sangat banyaknya. Tumpukan itu menjadi tempat bermainnya Hasan dan Husein radliallahu 'anhuma. Satu diantara kedua anak itu lantas mengambil sebutir kurma tersebut lalu memasukkannya ke dalam mulutnya. Lalu Rasulullah Shallallahu'alaihiwasallam melihatnya kemudian mengeluarkannya dari mulutnya seraya bersabda: "Tidak tahukah kamu bahwa keluarga Muhammad Shallallahu'alaihiwasallam tidak boleh memakan shadaqah (zakat)?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1485</td></tr><tr><td>Arabic No</td><td>1485</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Финики Посланнику Аллаха ﷺ всегда приносили во время сбора урожая. Их приносил то один, то другой (человек), пока рядом с (Пророком ﷺ) не набиралась целая куча (плодов. Однажды) аль-Хасан и аль-Хусайн, да будет доволен Аллах ими обоими, принялись играть этими финиками и кто-то из них взял один финик, положив его себе в рот. Тогда Посланник Аллаха ﷺ посмотрел на него, достал (этот финик) у него изо рта и сказал: “Разве ты не знаешь, что члены семьи Мухаммада не едят (того, что предназначено для) садаки?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1485</td></tr><tr><td>Arabic No</td><td>1485</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
 

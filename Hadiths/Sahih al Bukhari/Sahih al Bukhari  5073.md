@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:Allah's Messenger (ﷺ) forbade 'Uthman bin Maz'un 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami [Ibrahim bin Sa'd] Telah mengabarkan kepada kami [Ibnu Syihab] ia mendengar [Sa'id bin Al Musayyab] berkata; Aku mendengar [Sa'd bin Abu Waqqash] berkata; Rasulullah shallallahu 'alaihi wasallam telah melarang Utsman bin Mazh'un untuk hidup membujang. Dan sekiranya beliau mengizinkannya, niscaya kami akan mengebiri. Telah menceritakan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa ia mendengar [Sa'd bin Abu Waqqash] berkata; Sesungguhnya Nabi shallallahu 'alaihi wasallam telah melarang Abdullah bin Mazh'un untuk melakukan hal itu, sekiranya beliau melakukannya, niskami kami telah mengebiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5073</td></tr><tr><td>Arabic No</td><td>5073</td></tr><tr><td>Reference</td><td>Book 67 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил ‘Усману ибн Маз‘уну [обрекать себя на] безбрачие, и если бы он ему позволил, то мы кастрировали бы сами себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5073</td></tr><tr><td>Arabic No</td><td>5073</td></tr><tr><td>Reference</td><td>Book 67 Hadith 11</td></tr></tbody></table></div>
 

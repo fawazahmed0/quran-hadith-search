@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b Thabit (Allah be pleased with him) reported that Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rumh bin Al Muhajir] telah menceritakan kepada kami [Al Laits] dari [Yahya bin Sa'id] dari [Nafi'] dari [Abdullah bin Umar] telah mengabarkan kepadaku [Zaid bin Tsabit] bahwa Rasulullah Shallallu 'alaihi wa sallam memberi keringanan dalam transaksi 'Ariyyah dengan takaran kurma kering. [Yahya] berkata; Transaksi 'Ariyyah adalah seseorang membeli dengan cara menaksir kurma ruthab (masih dipohon) dengan kurma kering
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3883</td></tr><tr><td>Arabic No</td><td>1539.07</td></tr><tr><td>Reference</td><td>Book 21 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3883</td></tr><tr><td>Arabic No</td><td>1539.07</td></tr><tr><td>Reference</td><td>Book 21 Hadith 82</td></tr></tbody></table></div>
 

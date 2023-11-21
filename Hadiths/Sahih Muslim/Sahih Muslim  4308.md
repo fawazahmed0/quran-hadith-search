@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mas'ud al-Ansari reported:When I was beating my servant, I heard a voice beh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Ibrahim At Taimi] dari [Ayahnya] dari [Abu Mas'ud Al Anshari] dia berkata, "Aku pernah memukul seorang budak milikku, lalu aku mendengar suara seseorang menyeru dari belakang, "Ketahuilah wahai Abu Mas'ud, sesungguhnya Allah lebih berkuasa atas dirimu daripada kuasamu atas dia." Setelah aku menoleh, ternyata itu adalah Rasulullah shallallahu 'alaihi wasallam. Maka Aku pun berkata, "Wahai Rasulullah, dia sekarang aku bebaskan karena Allah." Beliau bersabda: "Seandainya kamu tidak membebaskanya, maka kamu akan dilahap oleh api neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4308</td></tr><tr><td>Arabic No</td><td>1659.03</td></tr><tr><td>Reference</td><td>Book 27 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Бадри, да будет доволен им Аллах, сказал: «(Как-то раз) избивая своего невольника, я услышал позади себя голос: “Знай, о Абу Мас‘уд, что, поистине, Аллах может сделать с тобой больше, чем ты с ним!” И когда я повернулся, оказалось, что это был Посланник Аллаха ﷺ и тогда я сказал: “О Посланник Аллаха, он свободен ради лика Аллаха!”, (что же касается Пророка ﷺ то) он воскликнул: “Поистине, не сделай ты этого, тебя обязательно опалил бы огонь! (или: … коснулся бы огонь!)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4308</td></tr><tr><td>Arabic No</td><td>1659.03</td></tr><tr><td>Reference</td><td>Book 27 Hadith 55</td></tr></tbody></table></div>
 

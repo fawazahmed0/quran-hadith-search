@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported:When I was married. Allah's Messenger (ﷺ) asked me 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah] ia berkata; "Ketika aku telah menikah, Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: 'Hai Jabir, apakah kamu menggunakan permadani? ' lalu aku balik bertanya; 'Dimana saya akan memperoleh permadani? ' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Ingat, sesungguhnya permadani itu akan ada! Jabir berkata; 'Istriku ternyata mempunyai sehelai permadani. Ketika aku berkata; 'Singkirkanlah permadani itu dariku! ' Maka ia berkata; 'Bukankah Rasulullah pernah bersabda; 'Sesungguhnya permadani itu akan ada.' Telah menceritakan kepadanya [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdurrahman]; Telah menceritakan kepada kami [Sufyan] melalui jalur ini, dengan sedikit tambahan, 'Maka aku tidak memakainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5450</td></tr><tr><td>Arabic No</td><td>2083.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5450</td></tr><tr><td>Arabic No</td><td>2083.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 65</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:That the Prophet (ﷺ) sent his (i.e. Abu Burda's) grandfathe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] Telah menceritakan kepada kami [Syubah] Telah menceritakan kepada kami [Said bin Abu Burdah] dari [ayahnya] katanya, Nabi shallallahu 'alaihi wasallam mengutus kakeknya, alias Abu Musa dan Mu'adz ke Yaman dan beliau pesan: "Hendaklah kalian mempermudah, jangan mempersulit, berilah kabar gembira jangan kalian jadikan manusia lari (alergi terhadap agama), dan bersatu padulah." Lantas Abu Musa bertanya; "Wahai Nabiyullah, wilayah kami disana ada minuman dari tepung yang sering diistilahkan almizru dan ada minuman dari kurma yang sering diistilahkan albit"u? Lantas beliau bersabda: "Setiap yang memabukkan adalah haram." Keduanya pun berangkat. lalu Mu'adz berkata kepada Abu Musa; "Bagaimana engkau membaca Al Quran? Jawab Abu Musa; "Baik dalam keadaan berdiri, duduk, atau saat aku diatas hewan tungganganku, namun terkadang aku masih menambah." Sedang Muadz mengatakan; "Jika aku, kadang aku tidur dan shalat malam, aku perkirakan waktu tidurku seperti waktu aku shalat malam, masing-masing terus membuat kemah dan keduanya silih berganti melakukan kunjungan. Suatu kali Mu'adz mengunjungi Abu Musa, tak tahunya ada seorang laki-laki yang diikat. Mu'adz bertanya; "Siapa laki-laki ini sebenarnya? Abu Musa menjawab "Dia seorang yahudi yang masuk Islam, kemudian murtad. Maka Mu'adz menjawab; "Kalau aku, sungguh akan kupenggal tengkuknya." Hadits ini dikuatkan jalur perawinya oleh [Al'Aqdi] dan [Wahab] dari [Syu'bah] dan [Waki'], [Nadhr] dan [Abu Dawud] mengatakan dari [Syu'bah] dari [Said] dari [ayahnya] dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam. Dan [Jarir bin Abdul Hamid] meriwayatkannya dari [Asy Syaibani] dari [Abu Burdah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4345</td></tr><tr><td>Arabic No</td><td>4345</td></tr><tr><td>Reference</td><td>Book 64 Hadith 372</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бурда сказал: «Пророк ﷺ послал Абу Мусу и Му’аза в Йемен, сказав: “Облегчайте, а не затрудняйте, приносите радость, а не внушайте отвращение (к исламу) и подчиняйтесь друг другу!” Абу Муса сказал: “О Пророк Аллаха! Поистине, на нашей земле изготовляют напиток из ячменя, называемый аль-мирз, а также из мёда, называемый аль-бит’”. На это (Пророк ﷺ) ответил: “Всё опьяняющее запретно”. После этого мы отправились в путь. Му’аз спросил Абу Мусу: “Как ты читаешь Коран?” Он ответил: “Стоя, сидя и сидя на верховом животном, и делю его на части”. Тогда Му’аз сказал: “Что касается меня, то я сплю (первую часть ночи), потом встаю, и я надеюсь на награду Аллаха как за свой сон, так и за своё бодрствование”. Затем каждый из них установил шатёр, и они стали навещать друг друга. Однажды, придя к Абу Мусе, Му’аз увидел закованного человека и спросил: “Что это?” Абу Муса ответил: “Он был иудеем, который принял ислам, а затем стал вероотступником”. Тогда Му’аз сказал: “Я непременно отрублю ему голову”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4345</td></tr><tr><td>Arabic No</td><td>4345</td></tr><tr><td>Reference</td><td>Book 64 Hadith 372</td></tr></tbody></table></div>
 

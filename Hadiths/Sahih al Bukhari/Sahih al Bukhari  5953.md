@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Zur'a:l entered a house in Medina with Abu Huraira, and he saw a ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami ['Umarah] telah menceritakan kepada kami [Abu Zar'ah] dia berkata; saya masuk rumah (milik salah seorang) penduduk Madinah bersama [Abu Hurairah], lalu dia melihat ke atap rumah ada sesuatu yang bergambar, dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Dan siapakah yang lebih lalim dari pada orang-orang yang pergi untuk membuat ciptaan seperti halnya ciptaan-Ku. Maka hendaklah mereka menciptakan jagung, atau biji-bijian atau biji gandum'"!. Kemudian Abu Hurairah meminta tempat air wudlu dan beliaupun berwudlu, mencuci kedua tangannya hingga ketiaknya, saya bertanya; "Wahai Abu Hurairah, apakah anda mendengar sesuatu dari Rasulullah shallallahu 'alaihi wasallam (tentang hal ini)? Dia menjawab: "inilah yang akan menjadi cahaya di hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5953</td></tr><tr><td>Arabic No</td><td>5953</td></tr><tr><td>Reference</td><td>Book 77 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Аллах Всевышний сказал: “А кто более несправедлив, чем тот, кто пытался создать нечто подобное Моему творению? Пусть создадут они зёрнышко, пусть создадут они муравья!”».\nВ другой версии этого хадиса сказано также: «…пусть создадут они ячменное зерно!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5953</td></tr><tr><td>Arabic No</td><td>5953</td></tr><tr><td>Reference</td><td>Book 77 Hadith 169</td></tr></tbody></table></div>
 

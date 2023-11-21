@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Amru bin Yahya Al-Mazini] dari [Ayahnya] bahwasanya dia berkata kepada [Abdullah bin Zaid bin 'Ashim] dia adalah kakek Amru bin Yahya Al-Mazini; Apakah kamu bisa memperlihatkan kepadaku bagaimana Rasulullah shallallahu 'alaihi wasallam berwudhu? Maka Abdullah bin Zaid menjawab; Ya. Lalu dia minta untuk didatangkan air wudhu, kemudian dia menuangkannya pda kedua tangannya, dia membasuh kedua tangannya, lalu berkumur dan (bersitinsyaq dan) beristintsar tiga kali, kemudian membasuh mukanya tiga kali, lalu membasuh kedua tangannya dua kali dua kali hingga siku, kemudian mengusap kepalanya dengan kedua tangannya; dia mengusapkan keduanya ke depan dan ke belakang, dia mulai dengan bagian depan kepala kemudian mengusapkan keduanya sampai ke tengkuknya, lalu mengembalikan keduanya hingga sampai di tempat di mana dia mulai darinya, kemudian membasuh kedua kakinya. Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid] dari [Amru bin Yahya Al-Mazini] dari [Ayahnya] dari [Abdullah bin Zaid bin 'Ashim] dengan hadits ini, dia menyebutkan; Kemudian dia berkumur dan beristinsyaq (dan beristintsar) dari satu telapak tangan, dia melakukannya tiga kali, lalu dia menyebutkan lafazh semisal di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (185) Sahih Muslim (235)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>118</td></tr><tr><td>Arabic No</td><td>118</td></tr><tr><td>Reference</td><td>Book 1 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Амр ибн Яхйа аль-Мазини сообщил, что его отец сказал ‘Абдулле ибн Зейду ибн ‘Асыму, который являлся дедом ‘Амра ибн Яхйи аль-Мазини: «Можешь ли ты показать мне, как совершал омовение Посланник Аллаха ﷺ?» ‘Абдуллах ибн Зейд сказал: «Да». И он попросил принести воды для омовения, налил её на свои руки и помыл их. Затем он прополоснул рот и нос по три раза, затем помыл три раза лицо, затем по два раза помыл руки с локтями включительно, после чего обтёр голову руками, начав с передней части (головы,) пока не достиг затылка. Затем он провёл ими в обратном направлении, пока не достиг того места, откуда начал, после чего помыл свои ноги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (185) Sahih Muslim (235)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>118</td></tr><tr><td>Arabic No</td><td>118</td></tr><tr><td>Reference</td><td>Book 1 Hadith 118</td></tr></tbody></table></div>
 

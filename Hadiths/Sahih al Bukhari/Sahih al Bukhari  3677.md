@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:While I was standing amongst the people who were invoking Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3677</td></tr><tr><td>Arabic No</td><td>3677</td></tr><tr><td>Reference</td><td>Book 62 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда я находился среди людей, которые обращались к Аллаху с мольбами за лежавшего на своем смертном одре ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, какой-то человек, стоявший позади меня, оперся локтями о мои плечи и стал говорить: “Да помилует тебя Аллах! Я всегда надеялся, что Аллах соединит тебя с двумя твоими товарищами, ибо я часто слышал, как Посланник Аллаха ﷺ говорит: “Вместе с Абу Бакром и ‘Умаром я был (там-то), вместе с Абу Бакром и ‘Умаром я сделал (то-то), вместе с Абу Бакром и ‘Умаром я отправился (туда-то), и (поэтому) я всегда надеялся, что Аллах соединит тебя с ними!” Тут я повернулся, и оказалось, что это был ‘Али ибн Аби Талиб, да будет доволен им Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3677</td></tr><tr><td>Arabic No</td><td>3677</td></tr><tr><td>Reference</td><td>Book 62 Hadith 27</td></tr></tbody></table></div>
 

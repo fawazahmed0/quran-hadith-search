@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever the Prophet (ﷺ) took the bath of Janaba (sexual relat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Abu 'Ashim] dari [Hanzhalah] dari [Al Qasim] dari ['Aisyah] berkata, "Jika Nabi shallallahu 'alaihi wasallam mandi janabat, beliau minta diambilkan bejana sebesar bejana yang digunakan untuk memerah susu. Beliau lalu mengambil air dengan telapak tangannya dan mengguyurkannya dimulai dari sisi sebelah kanan lalu sebelah kiri. Kemudian menuangkan dengan keduanya pada bagian tengah kepala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 5 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ (хотел) совершить большое омовение после осквернения, он повелевал принести какой-нибудь (сосуд объёмом) с подойник, после чего зачёрпывал (воду) рукой и начинал (омовение) с правой стороны головы, потом (переходил) к левой (части), а потом зачёрпывал воду обеими руками и лил её на голову (сверху)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 5 Hadith 11</td></tr></tbody></table></div>
 

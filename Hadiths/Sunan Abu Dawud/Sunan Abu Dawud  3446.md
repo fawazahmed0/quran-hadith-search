@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: If anyone buys a sheep whose
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil], telah menceritakan kepada kami [Abdul Wahid], telah menceritakan kepada kami [Shadaqah bin Sa'id], dari [Jumai' bin 'Umair At Taimi], ia berkata; aku mendengar [Abdullah bin Umar] berkata; Rasulullah shallallahu 'alaihi wasallam berkata; "Barangsiapa yang membeli hewan yang tidak diperah susunya, maka ia memiliki hak memilih selama tiga hari, apabila ia mengembalikannya maka ia mengembalikannya disertai gandum seperti susu tersebut atau dua kali susunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3446</td></tr><tr><td>Arabic No</td><td>3446</td></tr><tr><td>Reference</td><td>Book 24 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто купил долго не доенное животное, тот имеет право отказаться от своей покупки в течение трёх дней, и если он решил вернуть животное владельцу, он должен отдать вместе с ним количество пшеницы, соответствующее (или в два раза превосходящее) количеству молока, (которое он надоил от животного)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3446</td></tr><tr><td>Arabic No</td><td>3446</td></tr><tr><td>Reference</td><td>Book 24 Hadith 31</td></tr></tbody></table></div>
 

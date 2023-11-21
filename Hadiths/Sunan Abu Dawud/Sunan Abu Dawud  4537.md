@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Firas: 'Umar b. al-Khattab (ra) addressed us and said: I did not se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih] berkata, telah mengabarkan kepada kami [Abu Ishaq Al Fazari] dari [Al Jurairi] dari [Abu Nadhrah] dari [Abu firas] ia berkata, " [Umar Ibnul Khaththab] radliallahu 'anhu berkhutbah di hadapan kami, ia mengatakan, "Aku tidak mengutus para petugasku untuk memukul badan atau mengambil harta kalian, maka siapa di antara kalian yang mendapatkan perlakukan seperti itu hendaklah ia datang kepadaku, sehingga aku dapat mengqishasnya." Amru Ibnul Ash berkata, "Jika ada seorang laki-laki yang mendidik (dengan memukul) sebagian orang yang ada dalam pengawasannya apakah ada qishasnya?" Umar menjawab, "Benar. Demi Dzat yang jiwaku ada dalam tangan-Nya, aku tetap akan mengqishasnya. Sebab aku pernah melihat Rasulullah shallallahu 'alaihi wasallam mengqishas karena (kesalahan) dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4537</td></tr><tr><td>Arabic No</td><td>4537</td></tr><tr><td>Reference</td><td>Book 41 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Фираса: «Однажды ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, обратился к нам с речью, сказав: “Поистине, я посылаю своих работников не для того, чтобы они били вас, и не для того, чтобы они забирали ваше имущество. И пусть тот, с кем поступили подобным образом, обращается ко мне, и я добьюсь для него воздаяния равным”. ‘Амр ибн аль-‘Ас спросил: “Если человек преподаст урок кому-нибудь из своих подопечных, ты и для него добьёшься воздаяния равным?” Он ответил: “Да, клянусь Аллахом, ибо я видел, как Посланник Аллаха ﷺ воздавал равным даже самому себе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4537</td></tr><tr><td>Arabic No</td><td>4537</td></tr><tr><td>Reference</td><td>Book 41 Hadith 44</td></tr></tbody></table></div>
 

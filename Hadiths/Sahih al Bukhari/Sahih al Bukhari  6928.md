@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "When the Jews greet anyone of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] dan [Malik bin Anas] mengatakan, telah menceritakan kepada kami [Abdullah bin Dinar] mengatakan, aku mendengar [Ibnu Umar] radliallahu 'anhu mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kaum yahudi mengucapkan salam kepada salah seorang diantara kalian, kemudian mereka katakan; Saamun 'alaika (kiranya kamu tertimpa kematian), maka katakanlah; wa'alaika (bahkan untukmu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6928</td></tr><tr><td>Arabic No</td><td>6928</td></tr><tr><td>Reference</td><td>Book 88 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Когда вас приветствуют иудеи, то некоторые из них говорят: “Смерть тебе! /Ас-саму ‘алейкя/”, так ответь: “Тебе! /‘алейкя/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6928</td></tr><tr><td>Arabic No</td><td>6928</td></tr><tr><td>Reference</td><td>Book 88 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Safwan bin Umayyah: I was sleeping in the mosque on a cloak mine whose 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Amru bin Hammad bin Thalhah] berkata, telah menceritakan kepada kami [Asbath] dari [Simak bin Harb] dari [Humaid bin Ukhti Shafwan] dari [Shafwan bin Umayyah] ia berkata, "Aku tidur di dalam masjid dengan berselimut kain seharga tiga puluh dirham. Lalu datang seorang laki-laki dan mencuri kain tersebut dariku. laki-laki itu tertangkap dan dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam. Beliau lantas memerintahkan untuk memotong tangannya. Aku mendatangi beliau dan bertanya, "Apakah engkau akan memotongnya hanya karena tiga puluh dirham? Padahal bisa saja aku jual kain itu dan pembayarannya ditangguhkan?" Beliau bersabda: "kenapa hal tersebut tidak kamu lakukan sebelum kamu membawanya kepadaku?" Abu Dawud berkata, "Hadits ini juga diriwayatkan oleh [Zaidah] dari [Simak], dari [Ju'aid bin hujair], ia berkata, " [Shafwan] tidur…" [Mujahid] dan [Thawus] juga meriwayatkan, bahwasanya Shafwan tertidur, lalu datang seorang pencuri dan mengambil kain dari bahwa kepalanya." [Abu Salamah bin 'Abdurrahman] juga meriwayatkan, ia berkata, "Maling itu mengambilnya dari bawah kepalanya, tetapi Shafwan terbangun dan berteriak sehingga maling itu tertangkap." [Az Zuhri] meriwayatkannya dari [Shafwan bin Abdullah], ia berkata, "Shafwan tidur di masjid, dan ia menjadikan kain selendangnya sebagai bantal. Lalu datang maling mengambil selendangnya tersebut, tetapi maling itu tertangkap dan dibawa ke hadapan Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4394</td></tr><tr><td>Arabic No</td><td>4394</td></tr><tr><td>Reference</td><td>Book 40 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сафвана ибн Умайи: «Я спал в мечети на одежде стоимостью в тридцать дирхемов, и один человек подошёл и тихо утащил её у меня. Его поймали, привели к Посланнику Аллаха ﷺ и он велел отрубить ему руку (после признания вором своей вины, либо его вина была доказана иным способом)». Он сказал: «Я пришёл к (Посланнику Аллаха ﷺ) и спросил: «Неужели ты отрубишь ему руку из-за тридцати дирхемов? Лучше я продам ему её, а заплатит он позже». (Посланник Аллаха ﷺ) сказал: «Вот если бы это (продажа одежды) произошло до того, как ты привёл ко мне…» А в версии Муджахида и Тавуса говорится, что он спал, и пришёл вор и украл ворсистую ткань из-под его головы. А в версии Абу Салямы говорится, что он вытянул эту ткань из-под его головы, а тот проснулся, крикнул и вора поймали. А в версии аз-Зухри от Сафвана ибн ‘Абдуллаха говорится, что он уснул в мечети, подложив под голову свой плащ, а вор подошёл и утащил его плащ, а потом вора схватили и привели к Пророку ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4394</td></tr><tr><td>Arabic No</td><td>4394</td></tr><tr><td>Reference</td><td>Book 40 Hadith 44</td></tr></tbody></table></div>
 

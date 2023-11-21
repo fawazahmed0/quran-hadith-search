@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abi Bakr:A woman asked Allah's Messenger (ﷺ), "O Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisam bin 'Urwah] dari [Fatimah binti Al Mundzir] dari [Asma' binti Abu Bakar Ash Shiddiq] berkata, "Seorang wanita bertanya kepada Rasulullah shallallahu 'alaihi wasallam, katanya, "Wahai Rasulullah, bagaimana pendapatmu bila seorang dari kami bajunya terkena darah haid. Apa yang harus dilakukannya?" Rasulullah shallallahu 'alaihi wasallam lalu menjawab: "Jika darah haid mengenai pakaian seorang dari kalian, maka hendaklah ia bersihkan darah yang mengenainya, lalu hendaklah ia percikkan air padanya, kemudian hendaklah ia shalat dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>307</td></tr><tr><td>Arabic No</td><td>307</td></tr><tr><td>Reference</td><td>Book 6 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Фатимы бинт аль-Мунзир о том, что Асмаъ бинт Абу Бакр сказала: «(Однажды) какая-то женщина задавала вопрос Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, как ты думаешь, что делать одной из нас, если на её одежду попадёт менструальная кровь?” Посланник Аллаха ﷺ сказал: “Если на одежду одной из вас попадёт менструальная кровь, пусть растирает её кончиками пальцев, затем побрызгает водой и потом помолится в ней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>307</td></tr><tr><td>Arabic No</td><td>307</td></tr><tr><td>Reference</td><td>Book 6 Hadith 12</td></tr></tbody></table></div>
 

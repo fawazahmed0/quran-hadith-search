@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbulAzhar al-Mughirah ibn Farwah and Yazid ibn AbuMalik reported:Mu'awiyah perfo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Al-Fadl Al Harrani] telah menceritakan kepada kami [Al-Walid bin Muslim] telah menceritakan kepada kami [Abdullah bin Al-'Ala] telah menceritakan kepada kami [Abu Al Azhar Al-Mughirah bin Farwah] dan [Yazid bin Abu Malik] bahwasanya [Mu'awiyah] pernah berwudhu di depan orang-orang sebagaimana dia melihat Rasulullah shallallahu 'alaihi wasallam berwudhu. Tatkala dia sampai pada gerakan mengusap kepala, dia mengambil seciduk air, lalu mengambilnya dengan tangan kirinya hingga menyiramkannya pada bagian tengah kepalanya, sampai air itu mengucur atau hampir saja mengucur. Kemudian dia mengusap kepala dari bagian depannya sampai bagian belakangnya, dan dari bagian belakangnya sampai bagian depannya. Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Al-Walid] dengan sanad ini, dia berkata; Dia berwudhu tiga kali- tiga kali, dan membasuh kakinya tanpa hitungan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>124</td></tr><tr><td>Arabic No</td><td>124</td></tr><tr><td>Reference</td><td>Book 1 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абуль-Азхара аль-Мугъиры ибн Фарва и Язида ибн Абу Малика о том, что (однажды) Му‘авия совершил омовение для людей так же, как видел, что его совершал Посланник Аллаха ﷺ. Когда он дошёл до головы, он зачерпнул пригоршню воды и, соединив её с левой рукой, вылил на середину головы так, что она стала капать (или же: вотвот должна была закапать с неё), после чего обтёр её, (начиная) спереди, и (переходя) к затылку, и с затылка (возвращая руки) обратно к передней части (головы)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>124</td></tr><tr><td>Arabic No</td><td>124</td></tr><tr><td>Reference</td><td>Book 1 Hadith 124</td></tr></tbody></table></div>
 

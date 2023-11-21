@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-As:While the Prophet (ﷺ) was delivering a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Al Haitsam] atau [Muhammad] darinya, dari [Ibnu Juraij] menuturkan; aku mendengar [Ibnu Syihab] menuturkan; telah menceritakan kepadaku [Isa bin Thalhah], bahwasanya [Abdullah bin Amru bin 'Ash] menceritakan kepadanya, bahwa Nabi shallallahu 'alaihi wasallam ketika berkhutbah di hari raya kurban, seorang lak-laki mendatanginya dan berujar; 'Ya Rasulullah, aku kira (melakukan) seperti ini dan seperti ini (dahulu) sebelum melakukan ini dan ini.' Kemudian yang lainnya berdiri dan berkata; 'ya Rasulullah, aku kira seperti ini dan seperti ini.' (menyebutkan) tiga amalan (pada hari mina). Maka Nabi shallallahu 'alaihi wasallam bersabda: "Lakukanlah, dan tak mengapa untuk melakukan semua amalan (manasik) di hari itu.' Tidaklah beliau ditanya tentang sesuatu ketika itu, melainkan beliau menjawab: "lakukanlah, dan tak mengapa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6665</td></tr><tr><td>Arabic No</td><td>6665</td></tr><tr><td>Reference</td><td>Book 83 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом, рассказывал, что как-то раз Пророк ﷺ рассказывал проповедь в День жертвоприношения, и вдруг один человек подошёл к нему и сказал: «Я думал, о Посланник Аллаха, что то-то совершается прежде, чем то-то…». Затем встал другой и сказал: «О Посланник Аллаха, я думал, что так-то и так-то». (Ибн Джурайдж указал) на эти три (действия, а это — бритьё головы, жертвоприношение и бросание камешек). Тогда Пророк ﷺ сказал: «Делай так, ничего страшного», — на все эти (действия) в тот день. И о чём бы ни спросили его в тот день, он отвечал: «Делай так, ничего страшного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6665</td></tr><tr><td>Arabic No</td><td>6665</td></tr><tr><td>Reference</td><td>Book 83 Hadith 43</td></tr></tbody></table></div>
 

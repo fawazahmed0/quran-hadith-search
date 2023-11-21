@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:'Ali demanded the hand of the daughter of Abu Ja
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah bercerita kepadaku ['Ali bin Husain] bahwa [Al Miswar bin Makhramah] berkata; "'Ali pernah meminang putri Abu Jahal lalu hal itu didengar oleh Fathimah. Maka Fathimah menemui Rasulullah shallallahu 'alaihi wasallam dan berkata; "Kaummu berkata bahwa baginda tidak marah demi putri baginda. Sekarang 'Ali hendak menikahi putri Abu Jahal". Maka Rasulullah shallallahu 'alaihi wasallam berdiri dan aku mendengar ketika beliau bersyahadat bersabda: "Hadirin, aku telah menikahkan Abu Al 'Ash bin ar-Rabi' lalu dia bercerita kepadaku dan membenarkan aku. Dan sesungguhnya Fathimah adalah bagian dari diriku dan sungguh aku tidak suka bila ada orang yang menyusahkannya. Demi Allah, tidak akan berkumpul putri Rasulullah shallallahu 'alaihi wasallam dan putri dari musuh Allah pada satu orang laki-laki". Maka 'Ali membatalkan pinangannya. [Muhammad bin 'Amru bin Halhalah] menambahkan dari [Ibnu Syihab] dari ['Ali bin Al Husain] dari [Miswar] aku mendengar Nabi shallallahu 'alaihi wasallam yang beliau sebutkan kerabat beliau dari Bani 'Abdu Syams lalu beliau memujinya dalam hubungan kekerabatan yang baik tersebut. Beliau bersabda: "Dia membenarkan aku, berjanji kepadaku lalu memenuhi janjinya kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3729</td></tr><tr><td>Arabic No</td><td>3729</td></tr><tr><td>Reference</td><td>Book 62 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар бин Махрама, да будет доволен им Аллах, сказал: «(В свое время) ‘Али, да будет доволен им Аллах, посватался к дочери Абу Джахля. Об этом услышала Фатима, которая пришла к Посланнику Аллаха ﷺ и сказала: “Твои люди станут говорить, что ты не (способен) разгневаться из-за своих дочерей, ибо ‘Али собирается жениться на дочери Абу Джахля!” Тогда Посланник Аллаха ﷺ поднялся (со своего места), а после того как он произнес слова свидетельства, я услышал, как он сказал: “А затем, я выдал замуж свою дочь за Абу-ль-‘Аса бин ар-Раби‘а, который был правдив в том, что он говорил мне. Что же касается Фатимы, то она является частицей меня самого, и я не хочу, чтобы ей доставляли огорчения! Клянусь Аллахом, дочь Посланника Аллаха и дочь врага Аллаха не могут быть женами одного и того же человека!” — и (после этого) ‘Али отказался от своего сватовства».\nСообщается также, что аль-Мисвар бин Махрама, да будет доволен им Аллах, сказал: «Я слышал, как (однажды) Пророк ﷺ упомянувший о своем зяте из (племени) бану ‘абд шамс, отозвался о нем с похвалой и сказал: “Когда он говорил мне (что-нибудь), то говорил правду, обещая же мне (что-нибудь), он выполнял (свои обещания)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3729</td></tr><tr><td>Arabic No</td><td>3729</td></tr><tr><td>Reference</td><td>Book 62 Hadith 76</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:Hudhaifa said, "The Verse:-- "And spend (of your wealth) in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah mengabarkan kepada kami [An Nadlr] Telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dia berkata; Aku mendengar [Abu Wa'il] dari [Hudzaifah] mengenai ayat; "Dan infaqkanlah hartamu di jalan Allah, dan janganlah kamu jatuhkan dirimu sendiri kedalam kebinasaan dengan tanganmu sendiri." Ayat ini turun tentang memberi nafkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4516</td></tr><tr><td>Arabic No</td><td>4516</td></tr><tr><td>Reference</td><td>Book 65 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузейфа сказал: «“Делайте пожертвования на пути Аллаха и не обрекайте себя на гибель” (сура “аль-Бакара”, аят 195) — этот аят был ниспослан по поводу пожертвований»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4516</td></tr><tr><td>Arabic No</td><td>4516</td></tr><tr><td>Reference</td><td>Book 65 Hadith 41</td></tr></tbody></table></div>
 

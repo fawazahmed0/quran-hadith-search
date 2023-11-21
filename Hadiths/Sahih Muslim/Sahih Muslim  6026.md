@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:I have never seen anyone more kind to one's family than A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Abdullah bin Numair] lafazh ini milik Zuhair keduanya berkata; Telah menceritakan kepada kami [Ismail] yaitu Ibnu 'Ulayyah dari [Ayyub] dari [Amru bin Sa'id] dari [Anas bin Malik] dia berkata; "Tidak pernah kulihat orang yang lebih penyayang terhadap keluarganya melebihi Rasulullah shallallahu 'alaihi wasallam. Anas berkata; Ibrahim (anak beliau) disusukan pada suatu keluarga di sebuah kampung di perbukitan Madinah. Pada suatu hari beliau pergi menengoknya, dan kami ikut bersama beliau. Beliau masuk ke rumah yang kala itu penuh dengan asap, karena orang tua pengasuh Ibrahim adalah seorang tukang pandai besi. Kemudian Nabi shallallahu 'alaihi wasallam menggendong Ibrahim seraya menciumnya, setelah itu beliau pun pulang. Kata 'Amru; "Tatkala Ibrahim wafat, Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Ibrahim adalah anakku. Dia meninggal dalam usia menyusu. Kedua orang tua pengasuhnya akan menyempurnakan susuannya nanti di surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6026</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 43 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6026</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 43 Hadith 84</td></tr></tbody></table></div>
 

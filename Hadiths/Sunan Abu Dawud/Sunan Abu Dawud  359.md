@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: Bakkar ibn Yahya said that his grandmother
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Bakkar bin Yahya] telah menceritakan kepadaku [nenekku], dia berkata; Saya pernah menemui [Ummu Salamah], kemudian ada seorang wanita dari bangsa Quraisy bertanya kepadanya tentang shalat dengan mengenakan baju yang terkena darah haidl? Maka Dia menjawab; Salah seorang di antara kami (para istri Rasulullah shallallahu 'alaihi wasallam) pernah mendapatkan haidl pada masa Rasulullah Shallallahu alaihi wasallam, maka dia memakai baju (yang dipakainya waktu) haidl, ketika sudah suci dia melihat bajunya, apabila terkena darah haidl; kami mencucinya lalu kami pakai untuk melaksanakan shalat, dan apabila tidak terkena darah kami membiarkannya dan hal itu tidak menghalangi kami untuk melaksanakan shalat mengenakan baju tersebut. Adapun berkaitan dengan bersisir, salah seorang di antara kami bersisir, dan apabila dia mandi junub, dia tidak mengurainya (rambut yang dipintal) akan tetapi cukup diguyur saja dengan tiga kali guyuran, apabila dia mendapatkan pangkal rambutnya sudah basah, dia memijat-mijatnya kemudian dia mengguyur seluruh tubuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>359</td></tr><tr><td>Reference</td><td>Book 1 Hadith 359</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Баккара ибн Йахйа о том, что его бабушка рассказывала ему: «Однажды я зашла к Умм Саламе, (и там присутствовала) одна женщина из числа курайшиток, которая спросила ее о совершении молитвы в одежде, которую женщина носила во время менструаций и Умм Салама сказала: “Когда при жизни Посланника Аллаха ﷺ у нас начинались менструации, каждая из нас воздерживалась от молитвы в течение менструального цикла. Когда же она очищалась, то осматривала одежду, в которую она была одета (в этот период), и если на неё попадала кровь, мы стирали ее и молились в ней. Если на ней не было ничего, то мы оставляли ее, и ничто не мешало нам молиться в ней. Что же касается женщины, у которой волосы были заплетены а у некоторых из нас были заплетенные волосы то когда она купалась, она не расплетала волосы. Вместо этого она наливала три пригоршни воды на свою голову, и когда чувствовала, что смочила корни волос, она массировала их, после чего наливала воду на все свое тело”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>359</td></tr><tr><td>Reference</td><td>Book 1 Hadith 359</td></tr></tbody></table></div>
 

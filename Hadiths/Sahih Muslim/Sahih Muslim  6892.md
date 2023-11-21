@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Musa Al Anshari] telah menceritakan kepada kami [Anas bin 'Iyadh] telah menceritakan kepada kami ['Ubaidulah] telah menceritakan kepadaku [Sa'id bin Abu Sa'id Al Maqburi] dari [Bapaknya] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Apabila seseorang hendak berbaring, maka hendaklah ia mengambil alat pembersih untuk membersihkan alas tidurnya dan sebutlah nama Allah, karena ia tidak tahu apa yang terdapat di atas kasurnya setelah dipakai tidur. Apabila seseorang hendak tidur, maka hendaknya ia tidur dengan miring ke kanan dan mengucapkan doa: "SUBHAANAKA, ALLOOHUMMA ROBBII, BIKA WADHO'TU JANBII, WABIKA ARFA'UHU, IN AMSAKTA NAFSII FAGHFIR LAHAA WAIN ARSALTAHAA, FAHFAZH-HAA BIMAA TAHFAZHU BIHI 'IBAADAKASH SHOOLIHIINA' 'Maha suci Engkau ya Allah, Tuhanku. Dengan nama-Mu aku baringkan tubuhku dan karena-Mu lah aku bangun dari tidur. Apabila Engkau mematikanku, maka berilah ampunan dan apabila Engkau menghidupkanku, maka peliharalah sebagaimana Engkau memelihara hamba-hamba-Mu yang shalih.' Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami ['Abdah] dari ['Ubaidullah bin 'Umar] dengan sanad ini. Dan beliau bersabda: kemudian ucapkanlah; "BISMIKA ROBBII WADHO'TU JANBII FAIN AHYAITA NAFSII FARHAMHAA 'Dengan menyebut nama-Mu, ya Rabbku aku letakkan pinggangku ini, apabila Engkau hendak menghidupkan jiwaku, maka rahmatilah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6892</td></tr><tr><td>Arabic No</td><td>2714.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6892</td></tr><tr><td>Arabic No</td><td>2714.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 85</td></tr></tbody></table></div>
 

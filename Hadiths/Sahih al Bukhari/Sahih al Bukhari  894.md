@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard Allah's Messenger (ﷺ) saying, "Anyone of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah menceritakan kepadaku [Salim bin 'Abdullah] bahwa dia mendengar ['Abdullah bin 'Umar] radliallahu 'anhuma berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa di antara kalian yang mendatangi shalat Jum'at, maka hendaklah dia mandi?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>894</td></tr><tr><td>Arabic No</td><td>894</td></tr><tr><td>Reference</td><td>Book 11 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен ими обоими Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Тот из вас, кто (решит) прийти на пятничный намаз, пусть совершает большое омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>894</td></tr><tr><td>Arabic No</td><td>894</td></tr><tr><td>Reference</td><td>Book 11 Hadith 19</td></tr></tbody></table></div>
 

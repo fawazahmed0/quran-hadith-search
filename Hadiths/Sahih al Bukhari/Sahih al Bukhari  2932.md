@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) used to recite the following invocations 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari [Ibnu Dzakwan] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata; Adalah Nabi shallallahu 'alaihi wasallam membaca do'a qunut (yang artinya): "Ya Allah, tolonglah Hisyam. Ya Allah tolonglah Al Walid bin Al Walid. Ya Allah, tolonglah 'Ayyasy bin Abi Rabi'ah. Ya Allah, tolonglah orang-orang yang lemah dari kalangan orang-orang beriman. Ya Allah, keraskanlah siksaan-Mu kepada (suku) Mudhar. Ya Allah timpakanlah kepada mereka kekeringan sebagaimana kekeringan yang menimpa (kaum) Nabi Yusuf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2932</td></tr><tr><td>Arabic No</td><td>2932</td></tr><tr><td>Reference</td><td>Book 56 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Во время молитвы, Пророк ﷺ говорил, обращаясь к Аллаху мольбами: “О Аллах, спаси Саляму ибн Хишама и аль-Валида ибн аль-Валида, и ‘Аййаша Ибн Абу Раби‘у! О Аллах, спаси слабых из числа верующих! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Юсуфа!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2932</td></tr><tr><td>Arabic No</td><td>2932</td></tr><tr><td>Reference</td><td>Book 56 Hadith 145</td></tr></tbody></table></div>
 

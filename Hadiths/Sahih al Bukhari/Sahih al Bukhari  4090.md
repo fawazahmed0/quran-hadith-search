@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:(The tribes of) Ril, Dhakwan, 'Usaiya and Bani Lihyan as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul A'la bin Hammad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas bin Malik] radliallahu 'anhu, bahwa Dzakwan, 'Ushayyah dan bani Lahyan meminta bantuan kepada Rasulullah shallallahu 'alaihi wasallam untuk menghadapi musuh, lalu beliau mengirim bala bantuan tujuh puluh sahabat Anshar, kami menyebut mereka sebagai al Qurra' di zaman mereka. Mereka biasa mencari kayu bakar di siang hari dan shalat malam di malam harinya, ketika mereka tiba di Bi'rul Ma'unah, mereka (orang-orang kafir) membunuh dan mengkhianati mereka. Ketika peristiwa itu sampai kepada Nabi shallallahu 'alaihi wasallam, beliau melaksanakan qunut selama sebulan dalam shalat shubuh, beliau mendo'akan kecelakaan terhadap penduduk di antara penduduk-penduduk Arab, yaitu Ri'l, Dzakwan, 'Ushayyah serta bani Lahyan." Anas berkata, "Maka kami membaca (kisah mereka yang diabadikan) dalam al Quran, namun kemudian itu dimasukh (dihapus), yaitu ayat yang berbunyi 'Sampaikanlah kisah kami kepada kaum kami, bahwa kami telah berjumpa dengan Rabb kami, Dia meridlai kami dan kamipun ridla dengan-Nya'." Dan dari [Qatadah] dari [Anas bin Malik] dia menceritakan kepadanya, bahwa Nabiyullah shallallahu 'alaihi wasallam melaksanakan qunut dishalat shubuh selama sebulan, beliau mendo'akan kebinasaan beberapa perampungan Arab seperti Ri'l, Dzakwan, 'Ushayyah dan bani Lahyan." [Khalifah] menambahkan; telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] telah menceritakan kepada kami [Anas] bahwa ketujuh puluh sahabat Anshar tersebut dibunuh di Bi'rul Ma'unah (kami membaca) dalam Al Qur'an...sebagaimana riwayat di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 64 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) люди из племён ри‘ль, закван, ‘усаййа и бану ляхьян попросили у Посланника Аллаха ﷺ помощи против их врагов, и он отправил к ним на помощь семьдесят человек из числа ансаров. Мы называли их аль-курра (чтецами), днём они собирали дрова (и продавали их), а ночью выстаивали ночные молитвы. Когда они достигли места под названием Биър Ма‘уна, (те люди) вероломно убили их. После того, как это дошло до Пророка ﷺ, он в течении месяца во время утренней молитвы молил Аллаха покарать племена ри‘ль, закван, ‘усаййа и бану ляхьян».\nАнас сказал, что они читали аяты, в которых говорилось: «“Передайте нашему народу, что мы встретили нашего Господа, и Он доволен нами, а мы довольны Им”, но затем они были отменены»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 64 Hadith 134</td></tr></tbody></table></div>
 

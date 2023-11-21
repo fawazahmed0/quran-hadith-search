@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), Une femme vint trouver l'En
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari Fudhail bin Husain]; Telah menceritakan kepada kami [Abu 'Awanah] dari ['Abdur Rahman bin Al Ashbahani] dari [Abu Shalih Dzakwan] dari [Abu Sa'id Al Khudri] dia berkata; Bahwasanya para wanita datang kepada Rasulullah seraya berkata; "Wahai Rasulullah, kaum laki-laki telah biasa mendengarkan petuah-petuahmu, maka berilah kami satu hari, sehingga kami bisa bermajlis denganmu, engkau ajarkan kepada kami dari ilmu yang telah Allah sampaikan kepadamu. Beliau bersabda: 'Baiklah, berkumpullah kalian pada hari ini dan ini.' Lalu mereka pun berkumpul pada hari yang telah ditentukan. Rasulullah shallallahu 'alaihi wasallam mengajari mereka ilmu yang telah Allah berikan kepada beliau. Kemudian beliau bersabda: "Tidak ada seorang dari kalian yang ditinggal mati oleh tiga orang dari anaknya kecuali mereka akan menjadi hijab (penghalang) baginya dari neraka." Maka berkatalah salah satu dari mereka; 'Bagaimana kalau dua orang? ' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Atau dua orang.' Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari ['Abdur Rahman bin Al Ashbahani] melalui jalur ini dengan Hadits yang semakna. Namun ada tambahan; -seluruhnya- dari [Syubah] dari [Abdurrahman bin Al Ashbahani] dia berkata; Aku mendengar [Abu Hazim] bercerita dari [Abu Hurairah] dia berkata; 'Tiga anak yang belum baligh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6699</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 45 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Как-то раз) одна женщина пришла к Посланнику Аллаха ﷺ и сказала (ему): “О Посланник Аллаха, с тобой разговаривают одни только мужчины, назначь же и для нас какой-нибудь день, когда мы станем приходить к тебе, а ты будешь учить нас тому, чему научил тебя Аллах!” (В ответ ей Пророк ﷺ) сказал: “Соберитесь в такой-то день”, и (женщины) собрались, что же касается Пророка ﷺ то он пришёл к ним и стал учить их тому, чему научил его Аллах, а потом он сказал им: “Любую из вас, которая представит троих (умерших у неё) детей, они обязательно оградят от огня”. Одна женщина спросила: “А (если их будет) двое?”, и Посланник Аллаха ﷺ ответил: “И двое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6699</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 45 Hadith 196</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once Allah's Messenger (ﷺ) delayed the 'Isha' prayer till 'Uma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengakhirkan shalat 'Isya' ketika malam sudah larut." ['Ayyasy] berkata; telah menceritakan kepada kami ['Abdul A'la] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] radliallahu 'anhuma, berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengakhirkan shalat 'Isya' ketika malam sudah larut, hingga akhirnya 'Umar berseru kepada Beliau, "Para wanita dan anak-anak sudah tidur." Beliau lalu keluar seraya bersabda: "Tidak ada seorangpun dari penduduk bumi mengerjakan shalat ini selain kalian." Dan pada saat itu tidak ada satu orangpun yang melaksanakan shalat selain penduduk Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>862</td></tr><tr><td>Arabic No</td><td>862</td></tr><tr><td>Reference</td><td>Book 10 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) ночью Посланник Аллаха ﷺ откладывал вечернюю молитву, пока ‘Умар не сказал ему: “Женщины и дети уже заснули”. После чего он вышел и сказал: “Никто из живущих на земле, не совершает эту молитву, кроме вас!” И в то время молитву совершали только в Медине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>862</td></tr><tr><td>Arabic No</td><td>862</td></tr><tr><td>Reference</td><td>Book 10 Hadith 253</td></tr></tbody></table></div>
 

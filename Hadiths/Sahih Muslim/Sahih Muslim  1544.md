@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama b. 'Abd al-Rahman is reported to have said that he had heard Abu Hura
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Yahya bin Abu Katsir], katanya; telah menceritakan kepada kami [Abu Salamah bin Abdurrahman], ia mendengar [Abu Hurairah] mengatakan; "Demi Allah, akan aku akan berusaha mendekatkan kalian dengan Shalat Rasulullah shallallahu 'alaihi wasallam." Selanjutnya Abu Hurairah melakukan qunut dalam shalat zhuhur, isya', dan shalat subuh, mendoakan kebaikan untuk orang-orang mukmin dan melaknat orang-orang kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>676</td></tr><tr><td>Reference</td><td>Book 5 Hadith 377</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Абу Хурайра сказал: «Клянусь Аллахом, я буду проводить с вами молитву, как (делал это) Посланник Аллаха ﷺ». И во время полуденных, вечерних и утренних молитв Абу Хурайра стоя обращался к Аллаху с мольбами за верующих и проклинал неверных
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>676</td></tr><tr><td>Reference</td><td>Book 5 Hadith 377</td></tr></tbody></table></div>
 

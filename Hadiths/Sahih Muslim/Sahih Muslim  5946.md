@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that a person came to Allah's Apostle (ﷺ) and asked for food. A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salamah bin Syabib] Telah menceritakan kepada kami [Al Hasan bin A'yan] Telah menceritakan kepada kami [Ma'qil] dari [Abu Zubair] dari [Jabir radliallahu 'anhu] katanya: "Ada seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam meminta makanan, lalu beliau memberinya setengah gantang gandum. Maka orang tersebut makan setiap hari dari gandum itu bersama-sama dengan isteri dan tamu-tamunya, sehingga pada suatu ketika dia menakar gandum itu. Lalu dia datang kepada Nabi shallallahu 'alaihi wasallam. Maka beliau bersabda: "Seandainya engkau tidak menakarnya, engkau akan dapat makan gandum itu selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5946</td></tr><tr><td>Arabic No</td><td>2281</td></tr><tr><td>Reference</td><td>Book 43 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5946</td></tr><tr><td>Arabic No</td><td>2281</td></tr><tr><td>Reference</td><td>Book 43 Hadith 9</td></tr></tbody></table></div>
 

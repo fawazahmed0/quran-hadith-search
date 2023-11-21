@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Houdhayfa (que Dieu l'agrée) : Un jour que j'étais en compagnie du Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan kepada kami [Abu Khaitsamah] dari [al-A'masy] dari [Syaqiq] dari [Hudzaifah] dia berkata, "Aku pernah berjalan bersama Nabi shallallahu 'alaihi wasallam, saat kami sampai di suatu tempat pembuangan sampah suatu kaum beliau kencing sambil berdiri, maka aku pun menjauh dari tempat tersebut. Setelah itu beliau bersabda: 'Kemarilah.' Aku pun menghampiri beliau hingga aku berdiri di samping kedua tumitnya. Beliau lalu berwudlu dengan menyapu atas sepasang khuf beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>273.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузейфа сказал: «(Однажды) я был вместе с Пророком ﷺ, и он пришёл на свалку, (куда) люди (сбрасывали) мусор и помочился стоя, а я отошёл в сторону. Но (Пророк ﷺ) сказал: “Подойди!”, и я подошёл так близко к нему, что встал у него за пятками. Затем он совершил омовение и обтёр свои кожаные носки /хуффы/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>273.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 91</td></tr></tbody></table></div>
 

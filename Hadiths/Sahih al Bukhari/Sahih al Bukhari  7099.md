@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:During the battle of Al-Jamal, Allah benefited me with a Word
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Al Haitsam] telah menceritakan kepada kami ['Auf] dari [Al Hasan] dari [Abu Bakrah] mengatakan; Dikala berlangsung hari-hari perang jamal, aku telah memperoleh pelajaran dari pesan baginda Nabi, tepatnya ketika beliau Shallallahu'alaihiwasallam tahu kerajaan Persia mengangkat anak perempuan Kisra sebagai raja, beliau langsung bersabda: "Tak akan baik keadaan sebuah kaum yang mengangkat wanita sebagai pemimpin urusan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7099</td></tr><tr><td>Arabic No</td><td>7099</td></tr><tr><td>Reference</td><td>Book 92 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакра, да будет доволен им Аллах, сказал: «Аллах сделал так, что слова, (которые я слышал от Посланника Аллаха ﷺ) пошли мне на пользу в дни (, предшествовавшие) Верблюжьей битве. (Дело в том, что) когда Пророку ﷺ стало известно, что персы вручили власть над собой дочери хосроя, он сказал: “Никогда не преуспеют люди, вручившие женщине власть над собой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7099</td></tr><tr><td>Arabic No</td><td>7099</td></tr><tr><td>Reference</td><td>Book 92 Hadith 50</td></tr></tbody></table></div>
 

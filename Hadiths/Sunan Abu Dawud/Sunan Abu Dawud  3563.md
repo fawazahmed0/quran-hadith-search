@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Some people: AbdulAziz ibn Rufay' narrated on the authority of some peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Abdul Aziz bin Rufai'] dari [beberapa orang dari keluarga Abdullah bin Shafwan] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Shafwan, apakah engkau memiliki senjata?" Shafwan menjawab, "Sebagai pinjaman atau perampasan?" Beliau menjawab: "Bukan perampasan, melainkan peminjaman." Kemudian ia meminjamkan kepada beliau antara tiga puluh hingga empat puluh baju besi. Kemudian Rasulullah shallallahu 'alaihi wasallam memerangi Hunain. Ketika orang-orang musyrik dapat dikalahkan, maka baju-baju besi milik Shafwan dikumpulkan, namun beliau kehilangan beberapa baju zirah. Rasulullah shallallahu 'alaihi wasallam kemudian berkata kepada Shafwan: "Sesungguhnya kami kehilangan sebagian baju besimu, apakah kami menanggung untukmu?" Shafwan menjawab, "Tidak, wahai Rasulullah! Karena dalam hatiku pada hari ini terdapat sesuatu yang tidak ada pada saat itu." Abu Daud berkata, " Ia memberi pinjaman itu sebelum ia masuk Islam." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Al Ahwash] telah menceritakan kepada kami [Abdul Aziz bin Rufai'] dari ['Atha] dari [beberapa orang keluarga Shafwan] ia berkata, "Nabi shallallahu 'alaihi wasallam meminjam….. kemudian ia menyebutkan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 24 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Люди из семьи ‘Абдуллаха ибн Сафвана передали, что Посланник Аллаха ﷺ спросил: «О Сафван, есть ли у тебя что-нибудь из оружия?» Сафван спросил: «Ты берёшь в пользование или отбираешь?» Посланник Аллаха ﷺ ответил: «Конечно, беру в пользование». И он дал ему от тридцати до сорока кольчуг. Посланник Аллаха ﷺ отправился в поход на Хунайн, а когда язычники потерпели поражение, кольчуги Сафвана были собраны и обнаружилось, что некоторые утрачены. Посланник Аллаха ﷺ сказал Сафвану: «Мы потеряли некоторые из твоих кольчуг. Возместить их тебе?» Сафван ответил: «Нет, о Посланник Аллаха ﷺ потому что сейчас в моём сердце есть то, чего не было тогда». Абу Дауд сказал: «А дело было в том, что Сафван дал Посланнику Аллаха ﷺ кольчуги, ещё когда был язычником, а этот вопрос Посланник Аллаха ﷺ задал Сафвану, уже когда тот принял ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 24 Hadith 148</td></tr></tbody></table></div>
 

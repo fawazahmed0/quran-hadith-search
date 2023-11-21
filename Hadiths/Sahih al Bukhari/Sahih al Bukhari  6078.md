@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, " I know whether you are angry or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abdah] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku mengetahui bila kamu ridla dan ketika kamu sedang marah." Aisyah berkata; "Bagaimana Anda bisa mengetahui hal itu wahai Rasulullah?" beliau bersabda: "Sesungguhnya jika kamu sedang ridla maka kamu akan mengatakan; "Tentu, demi Rabb Muhammad, " sementara bila kamu sedang marah, maka kamu akan mengatakan; "Tidak, demi Rabb Ibrahim." Aisyah berkata; lalu kataku; "Benar, aku tidak merasa jengkel kecuali dengan namamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>6078</td></tr><tr><td>Reference</td><td>Book 78 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ сказал мне: “Поистине, я знаю, когда ты довольна (мной), а когда сердишься (на меня)”. Я спросила: “Откуда же ты знаешь это, о Посланник Аллаха?” Он ответил: “Когда ты (мной) довольна, ты говоришь: “Нет, клянусь Господом Мухаммада!” — а когда сердишься, говоришь: “Нет, клянусь Господом Ибрахима!” Я сказала: “Да, но, я не изменяю ничего, кроме твоего имени”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>6078</td></tr><tr><td>Reference</td><td>Book 78 Hadith 106</td></tr></tbody></table></div>
 

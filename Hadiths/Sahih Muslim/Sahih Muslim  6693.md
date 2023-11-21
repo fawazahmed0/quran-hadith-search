@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : Une femme accompagnée de ses de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Quhzadz]; Telah menceritakan kepada kami [Salamah bin Sulaiman]; Telah mengabarkan kepada kami ['Abdullah]; Telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Syihab]; Telah menceritakan kepadaku ['Abdullah bin Abu Bakr bin Hazm] dari ['Urwah] dari ['Aisyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku ['Abdullah bin 'Abdur Rahman bin Bihram] dan [Abu Bakr bin Ishaq] dan lafazh ini milik mereka berdua, keduanya berkata; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah menceritakan kepadaku ['Abdullah bin Abu Bakr] bahwa ['Urwah bin Az Zubair]; Telah mengabarkan kepadanya bahwa ['Aisyah] istri Nabi shallallahu 'alaihi wasallam berkata; "Saya pernah dikunjungi oleh seorang wanita yang mempunyai dua orang anak perempuan. Kemudian wanita tersebut meminta makanan kepada saya. Sayangnya, pada saat itu, saya sedang tidak mempunyai makanan kecuali sebiji kurma yang langsung saya berikan kepadanya. Kemudian wanita itu menerimanya dengan senang hati dan membagikannya kepada dua orang anak perempuannya tanpa sedikitpun ia makan. Setelah itu, wanita tersebut bersama dua orang anak perempuannya pergi. Tak lama kemudian Rasulullah shallallahu 'alaihi wasallam masuk ke dalam rumah. Lalu saya menceritakan kepada beliau tentang wanita dan kedua anak perempuannya itu. Mendengar cerita saya ini, Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barang siapa diuji dalam pengasuhan anak-anak perempuan, lalu ia dapat mengasuh mereka dengan baik, maka anak perempuannya itu akan menjadi penghalangnya dari api neraka kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6693</td></tr><tr><td>Arabic No</td><td>2629</td></tr><tr><td>Reference</td><td>Book 45 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6693</td></tr><tr><td>Arabic No</td><td>2629</td></tr><tr><td>Reference</td><td>Book 45 Hadith 190</td></tr></tbody></table></div>
 

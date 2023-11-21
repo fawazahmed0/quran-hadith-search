@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: A man wearing two red garments passed the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Huzabah] berkata, telah menceritakan kepada kami [Ishaq] -maksudnya Ishaq bin manshur- berkata, telah menceritakan kepada kami [Isra'il] dari [Abu Yahya] dari [Mujahid] dari [Abdullah bin Amru] ia berkata, "Seorang laki-laki yang mengenakan dua kain berwarna merah lewat di depan Nabi shallallahu 'alaihi wasallam seraya mengucapkan salam, namun Nabi shallallahu 'alaihi wasallam tidak menjawab salamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Мимо Пророка ﷺ проходил один человек, на котором были две красные одежды, и он поприветствовал его, но Пророк ﷺ не ответил на его приветствие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salamah bin Al Akwa’ said “On the day of the battle of the Khaibar, my broth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Abdullah bin Wahb], telah mengabarkan kepadaku [Yunus], dari [Ibnu Syihab], ia berkata; telah mengabarkan kepadaku [Abdurrahman] dan Abdullah bin Ka'bin bin Malik, Abu Daud berkata; [Ahmad] berkata; demikianlah yang dikatakan [Ibnu Wahb], serta ['Anbasah bin Khalid], semuanya berasal dari [Yunus], Ahmad berkata; dan yang benar adalah Abdurrahman bin Abdullah. Bahwa [Salamah bin Al Akwa'] berkata; tatkala ada hari terjadinya perang Khaibar saudaraku berperang dengan perang yang sengit, kemudian pedangnya berbalik kemudian membunuhnya. Kemudian para sahabat Rasulullah shallallahu 'alaihi wasallam berkata mengenai hal tersebut dan mereka merasa ragu; ia adalah orang yang mati dengan senjatanya. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Ia meninggal dalam keadaan bersungguh-sungguh dan berjihad." [Ibnu Syihab] berkata; kemudian aku bertanya kepada [anak Salamah bin Al Akwa'], kemudian ia menceritakan dari [ayahnya], seperti itu hanya saja ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Mereka telah berdusta, ia meninggal dalam keadaan bersungguh-sungguh dan berjihad, dan baginya pahala dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1802)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2538</td></tr><tr><td>Arabic No</td><td>2538</td></tr><tr><td>Reference</td><td>Book 15 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1802)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2538</td></tr><tr><td>Arabic No</td><td>2538</td></tr><tr><td>Reference</td><td>Book 15 Hadith 62</td></tr></tbody></table></div>
 

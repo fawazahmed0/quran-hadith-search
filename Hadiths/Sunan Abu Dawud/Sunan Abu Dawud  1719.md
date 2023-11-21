@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Yazid bin Khalid bin Mauhib] serta [Ahmad bin Shalih], mereka berkata; telah menceritakan kepada Kami [Ibnu Wahb], telah mengabarkan kepadaku ['Amr] dari [Bukair] dari [Yahya bin Abdurrahman bin Hathib] dari [Abdurrahman bin Utsman At Taimi] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melarang dari barang temuan dari orang yang melakukan haji. Ahmad berkata; Ibnu Wahb berkata mengenai barang temuan dari orang yang melakukan haji; ia tinggalkan hingga ditemukan pemiliknya. Ibnu Mauhib berkata; dari 'Amr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1719</td></tr><tr><td>Arabic No</td><td>1719</td></tr><tr><td>Reference</td><td>Book 10 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуррахмана ибн ‘Усмана ат-Тейми, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил подбирать вещь, потерянную кем-то из паломников. Ибн Вахб сказал, что такую вещь нужно оставить на месте, чтобы её владелец сам нашёл её
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1719</td></tr><tr><td>Arabic No</td><td>1719</td></tr><tr><td>Reference</td><td>Book 10 Hadith 19</td></tr></tbody></table></div>
 

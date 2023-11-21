@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) said, "Fever is from the heat of the (Hell) Fir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Malik bin Ibrahim] telah bercerita kepada kami [Zuhair] telah bercerita kepada kami [Hisyam] dari ['Urwah] dari ['Aisyah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Penyakit panas (demam) berasal dari didihan api jahannam maka redakanlah dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3263</td></tr><tr><td>Arabic No</td><td>3263</td></tr><tr><td>Reference</td><td>Book 59 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Горячка (начинается) от жара геенны, охлаждайте же её водой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3263</td></tr><tr><td>Arabic No</td><td>3263</td></tr><tr><td>Reference</td><td>Book 59 Hadith 73</td></tr></tbody></table></div>
 

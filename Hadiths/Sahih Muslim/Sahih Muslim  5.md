@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Sa'id bin 'Ubaid] telah menceritakan kepada kami [Ali bin Rabi'ah] dia berkata, "Aku mendatangi masjid sedangkan al-Mughirah, gubernur Kufah. Ia berkata, "Lalu [al-Mughirah] berkata, 'Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya berdusta atas namaku tidaklah sama dengan berdusta atas nama seseorang, barangsiapa berdusta atas namaku secara sengaja maka hendaklah dia menempati tempat duduknya dari neraka." Dan telah menceritakan kepadaku [Ali bin Hujr as Sa'di] telah menceritakan kepada kami [Ali bin Mushir] telah mengabarkan kepada kami [Muhammad bin Qais al Asdi] dari [Ali bin Rabi'ah al Asdi] dari [al-Mughirah bin Syu'bah] dari Nabi shallallahu 'alaihi wasallam dengan semisal hadits tersebut, hanya saja dia tidak menyebut, "Sesungguhnya berdusta atas namaku tidaklah sama dengan berdusta atas nama seseorang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Раби‘а сказал: «Однажды, я пришел в мечеть Куфы, когда амиром там был аль-Мугъира». (‘Али ибн Раби‘а) сказал: «И аль-Мугъира сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Поистине, возведение на меня лжи, не подобно возведению лжи на кого-то другого. И тот, кто возведет на меня ложь преднамеренно, пусть займет свое место в огне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Reference</td><td>Book 0 Hadith 5</td></tr></tbody></table></div>
 

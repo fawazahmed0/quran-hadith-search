@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Zuhri with other chains of tra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Ath Thahir] dan [Harmalah bin Yahya] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Hamzah] dan [Salim] -kedua anak- ['Abdullah bin 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada penyakit yang menular secara sendirian, tidak ada pengaruh atau alamat jahat pada suara burung. Dan adakalanya pengaruh jahat (kecelakaan atau kesialan) itu terdapat pada tiga perkara: 'Dalam diri wanita, pada kuda, dan dalam rumah tangga." Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim] dan [Hamzah] -kedua anak- 'Abdullah bin Umar dari [Bapak mereka berdua] dari Nabi shallallahu 'alaihi wasallam; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Yahya] dan ['Amru bin An Naqid] dan [Az Zuhair bin Harb] dari [Sufyan] dari [Az Zuhri] dari [Salim] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] dari [Salim] dan [Hamzah] -kedua anak- 'Abdullah bin 'Umar dari ['Abdullah bin 'Umar] dari Nabi shallallahu 'alaihi wasallam; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku ['Abdul Malik bin Syu'aib bin Al Laits bin Sa'd]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku]; Telah menceritakan kepadaku ['Uqail bin Khalid]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Bisyr Al Mufadhdhal] dari ['Abdur Rahman bin Ishaq]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abul Yaman]; Telah mengabarkan kepada kami [Syu'aib] seluruhnya dari [Az Zuhri] dari [Salim] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam mengenai 'kesialan.' Sebagaimana Hadits Malik. Mereka semua tidak menyebutkan tentang 'penularan dan Tathayyur' di dalam Hadits Ibnu Umar kecuali Yunus bin Yazid saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5806</td></tr><tr><td>Arabic No</td><td>2225.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5806</td></tr><tr><td>Arabic No</td><td>2225.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 158</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim bin Maimun] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Suhail] dari [bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Sesungguhnya Allah Yang Maha Suci dan Maha Tinggi mempunyai beberapa malaikat yang terus berkeliling mencari majelis dzikir. Apabila mereka telah menemukan majelis dzikir tersebut, maka mereka terus duduk di situ dengan menyelimutkan sayap sesama mereka hingga memenuhi ruang antara mereka dan langit yang paling bawah. Apabila majelis dzikir itu telah usai, maka mereka juga berpisah dan naik ke langit.' Kemudian Rasulullah meneruskan sabdanya: 'Selanjutnya mereka ditanya Allah Subhanahu wa Ta'ala, Dzat Yang sebenarnya Maha Tahu tentang mereka: 'Kalian datang dari mana? ' Mereka menjawab; 'Kami datang dari sisi hamba-hamba-Mu di bumi yang selalu bertasbih, bertakbir, bertahmid, dan memohon kepada-Mu ya Allah.' Lalu Allah Subhanahu wa Ta'ala bertanya: 'Apa yang mereka minta? ' Para malaikat menjawab; 'Mereka memohon surga-Mu ya Allah.' Allah Subhanahu wa Ta'ala bertanya lagi: 'Apakah mereka pernah melihat surga-Ku? ' Para malaikat menjawab; 'Belum. Mereka belum pernah melihatnya ya Allah.' Allah Subhanahu wa Ta'ala berkata: 'Bagaimana seandainya mereka pernah melihat surga-Ku? ' Para malaikat berkata; 'Mereka juga memohon perlindungan kepada-Mu ya Allah.' Allah Subhanahu wa Ta'ala balik bertanya: 'Dari apa mereka meminta perlindungan kepada-Ku? ' Para malaikat menjawab; 'Mereka meminta perlindungan kepada-Mu dari neraka-Mu ya Allah.' Allah Subhanahu wa Ta'ala bertanya: 'Apakah mereka pernah melihat neraka-Ku? ' Para malaikat menjawab; 'Belum. Mereka belum pernah melihat neraka-Mu ya Allah.' Allah Subhanahu wa Ta'ala berkata: 'Bagaimana seandainya mereka pernah melihat neraka-Ku? ' Para malaikat berkata; 'Ya Allah, sepertinya mereka juga memohon ampun (beristighfar) kepada-Mu? ' Maka Allah Subhanahu wa Ta'ala menjawab: 'Ketahuilah hai para malaikat-Ku, sesungguhnya Aku telah mengampuni mereka, memberikan apa yang mereka minta, dan melindungi mereka dari neraka.' Para malaikat berkata; 'Ya Allah, di dalam majelis mereka itu ada seorang hamba yang berdosa dan kebetulan hanya lewat lalu duduk bersama mereka.' Maka Allah menjawab: 'Ketahuilah bahwa sesungguhnya Aku akan mengampuni orang tersebut. Sesungguhnya mereka itu adalah suatu kaum yang teman duduknya tak bakalan celaka karena mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6839</td></tr><tr><td>Arabic No</td><td>2689</td></tr><tr><td>Reference</td><td>Book 48 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6839</td></tr><tr><td>Arabic No</td><td>2689</td></tr><tr><td>Reference</td><td>Book 48 Hadith 35</td></tr></tbody></table></div>
 

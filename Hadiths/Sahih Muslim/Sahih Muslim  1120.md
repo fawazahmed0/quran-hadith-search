@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Juhaifa reported on the authority of his father:I saw the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Umar bin Abi Zaidah] telah menceritakan kepada kami ['Aun bin Abi Juhaifah] bahwa [bapaknya] melihat Rasulullah shallallahu'alaihiwasallam memakai jubah merah dari kulit, dan aku melihat Bilal mengeluarkan air wudhu, lalu aku melihat orang-orang bersegera mendatangi air wudhu itu (berebutan). Maka barangsiapa mendapatkan sedikit darinya maka dia mengusap dengannya, dan barangsiapa yang tidak mendapatkannya maka dia mengambil air tersebut dari basahan tangan temannya. Kemudian aku melihat Bilal mengeluarkan tombak, lalu menancapkannya. Dan Rasulullah Shallallahu'alaihiwasallam memakai mantel merah yang lengannya dilipat, lalu beliau shalat mengimami orang-orang menghadap tombak tersebut dua rakaat. Dan aku melihat orang-orang dan hewan ternak berjalan di depan tombak." Telah menceritakan kepadaku [Ishaq bin Manshur] dan ['Abd bin Humaid] keduanya berkata, telah mengabarkan kepada kami [Ja'far bin 'Aun] telah mengabarkan kepada kami [Abu Umais] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [al-Qasim bin Zakariya'] telah menceritakan kepada kami [Husain bin Ali] dari [Zaidah] dia berkata, telah menceritakan kepada kami [Malik bin Mighwal] keduanya meriwayatkan dari ['Aun bin Abi Juhaifah] dari [Bapaknya] dari Nabi Shallallahu'alaihiwasallam dengan semisal hadits Sufyan. Dan Umar bin Abi Zaidah menambahkan, "Sebagian mereka atas sebagian yang lain." Dan dalam Hadits Malik bin Mighwal, "Ketika beliau berada pada terik siang, maka Bilal keluar lalu melakukan adzan untuk shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1120</td></tr><tr><td>Arabic No</td><td>503.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 282</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Ауна ибн Аби Джухайфы, что его отец сказал: «Я видел Посланника Аллаха ﷺ, находившегося в красной кожаной палатке, и я видел, как Биляль вынес воду (, остававшуюся после совершения омовения) Посланником Аллаха ﷺ. И я видел, как люди бросились к этой воде, опережая друг друга, и те, кому досталось что-нибудь, растирали её (по своим телам), те же, кому ничего не досталось, прикасались к влажным рукам своих товарищей. А потом я увидел, как Биляль взял палку с наконечником и воткнул её в землю(, после чего из палатки) вышел Посланник Аллаха ﷺ в одежде красного цвета, подобранной (до середины голеней), и совершил с людьми молитву в два рак‘ата (, обратившись лицом в сторону) этой палки. И я видел, как люди и животные проходили перед этой палкой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1120</td></tr><tr><td>Arabic No</td><td>503.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 282</td></tr></tbody></table></div>
 

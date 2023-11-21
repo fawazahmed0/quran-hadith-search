@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu sa’Id al-Khudri said:I head the Messenger of Allah (ﷺ) say: If any one y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] dan [Hannad bin As Sari] keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Isma'il bin Raja] dari [Bapaknya] dari [Abu Sa'id] dan dari [Qais bin Muslim] dari [Thariq bin Syihab] dari [Abu Sa'id Al Khudri] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa dari kalian melihat kemungkaran lalu ia mampu mengubahnya dengan tangan, hendaklah ia ubah kemungkaran tersebut dengan tangannya." Hannad kemudian memotong (tidak melanjutkan) sisa hadits tersebut. Kemudian [Ibnul 'Ala] melengkapinya, "jika ia tidak mampu hendaklah dengan lisannya, jika tidak mampu dengan lisan hendaklah dengan hatinya, dan itu adalah selemah-lemah iman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (49)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4340</td></tr><tr><td>Arabic No</td><td>4340</td></tr><tr><td>Reference</td><td>Book 39 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Пусть тот из вас, кто увидит порицаемое и способен изменить его собственноручно, изменит это собственноручно”». Версия Ханнада на этом заканчивается, а Ибн аль-А‘ля передаёт завершение этого хадиса: «Если же он не сможет, пусть изменит это своим языком, а если не сможет и этого, то хотя бы своим сердцем, и это будет наиболее слабым проявлением веры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (49)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4340</td></tr><tr><td>Arabic No</td><td>4340</td></tr><tr><td>Reference</td><td>Book 39 Hadith 50</td></tr></tbody></table></div>
 

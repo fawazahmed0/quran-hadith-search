@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha and Ibn 'Umar:Nobody was allowed to fast on the days of Tashriq 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] aku mendengar ['Abdullah bin 'Isa bin Abu Laila] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah] dan dari [Salim] dari [Ibnu 'Umar radliallahu 'anhuma] keduanya berkata: "Tidak diperkenankan untuk berpuasa pada hari tasyriq kecuali bagi siapa yang tidak mendapatkan hewan korban (Al Hadyu) ketika menunaikan haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 30 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Аиша и Ибн ‘Умар, да будет доволен ими Аллах, говорили: «Не разрешалось поститься в дни ташрика никому, кроме тех, кто не мог найти скота для жертвоприношения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 30 Hadith 103</td></tr></tbody></table></div>
 

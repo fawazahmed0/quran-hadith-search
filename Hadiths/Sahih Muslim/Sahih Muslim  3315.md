@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rafi' b. Khadij reported Allah's Messenger (ﷺ) as saying:Ibrahim declared Mecc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Bakr] yakni Ibnu Mudlar dari [Ibnul Hadi] dari [Abu Bakr bin Muhammad] dari [Abdullah bin Amr bin Utsman] dari [Rafi' bin Khadij] ia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Nabi Ibrahim telah mengharamkan kota Makkah. Dan sesungguhnya aku mengharamkan daerah yang terletak di atanta kedua Labah (daerah bebatuan hitam) -nya." Maksudnya adalah Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3315</td></tr><tr><td>Arabic No</td><td>1361.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 519</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3315</td></tr><tr><td>Arabic No</td><td>1361.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 519</td></tr></tbody></table></div>
 

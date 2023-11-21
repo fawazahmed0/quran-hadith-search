@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:'Aisha said to 'Abdullah bin Az-Zubair, "Bury me with m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7328</td></tr><tr><td>Arabic No</td><td>7328</td></tr><tr><td>Reference</td><td>Book 96 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва ибн аз-Зубейр передаёт, что однажды ‘Умар направил (посланца) к ‘Аише, сказав: «Разрешишь ли ты мне, чтобы меня похоронили рядом с двумя моими спутниками?», — и ‘Аиша сказала: «Да, клянусь Аллахом». ‘Урва сказал: «И когда кто-либо из сподвижников отправлял к ней (просьбу о том, чтобы его похоронили рядом с ними), ‘Аиша отвечала: «Нет, клянусь Аллахом. Я никогда не отдам предпочтение кому-то, чтобы его похоронили с ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7328</td></tr><tr><td>Arabic No</td><td>7328</td></tr><tr><td>Reference</td><td>Book 96 Hadith 57</td></tr></tbody></table></div>
 

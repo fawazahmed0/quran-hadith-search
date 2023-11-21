@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: Safinah said: I was a slave of Umm Salamah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Abdul Warits] dari [Sa'id bin Jumhan] dari [Safinah] ia berkata, "Aku dahulu adalah seorang budak milik [Ummu Salamah], lalu ia berkata, 'Aku akan membebaskanmu dan aku meminta syarat kepadamu agar melayani Rasulullah shallallahu 'alaihi wasallam selama engkau hidup'. Lalu aku katakan, 'Walaupun engkau tidak mensyaratkan kepadaku, aku tidak akan meninggalkan Rasulullah shallallahu 'alaihi wasallam selama aku hidup. ' Lalu Ummu Salamah membebaskanku dan memberikan syarat kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3932</td></tr><tr><td>Arabic No</td><td>3932</td></tr><tr><td>Reference</td><td>Book 31 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сафины, да будет доволен им Аллах: «Я был невольником Умм Салямы, да будет доволен ею Аллах, и она сказала мне: “Я освобожу тебя с условием, что ты до конца жизни будешь служить Посланнику Аллаха ﷺ”. Я сказал: “Даже если ты не поставишь мне такого условия, я никогда не расстанусь с посланником Аллаха ﷺ пока буду жив!” И она освободила меня с этим условием»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3932</td></tr><tr><td>Arabic No</td><td>3932</td></tr><tr><td>Reference</td><td>Book 31 Hadith 7</td></tr></tbody></table></div>
 

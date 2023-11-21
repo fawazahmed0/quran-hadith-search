@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When Allah's Messenger (ﷺ) returned on the day (of the battle)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam ketika kembali dari peperangan Khandaq dan meletakkan senjata lalu mandi, Beliau didatangi oleh Malaikat Jibril dalam keadaan kepalanya dipenuhi dengan debu lalu berkata: "Engkau telah meletakkan senjata? Sungguh, demi Allah, aku belum meletakkannya". Maka Rasulullah shallallahu 'alaihi wasallam bertanya: "Kemana lagi?" Jibril berkata: "Itu dia disana". Sambil memberi isyarat ke kampung Bani Quraizhoh. Maka Rasulullah shallallahu 'alaihi wasallam pun keluar untuk menghadapi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2813</td></tr><tr><td>Arabic No</td><td>2813</td></tr><tr><td>Reference</td><td>Book 56 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что, когда Посланник Аллаха ﷺ вернулся домой после битвы у рва, снял с себя оружие и совершил большое омовение, к нему явился Джибрил, голова которого была покрыта пылью, и сказал: «Ты уже снял (своё) оружие, я же, клянусь Аллахом, не снимал его!» Тогда Посланник Аллаха ﷺ спросил: «Куда?» (Джибрил) сказал: «Сюда», и указал (в сторону жилищ племени) бану курайза, (после чего) Посланник Аллаха ﷺ направился к ним
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2813</td></tr><tr><td>Arabic No</td><td>2813</td></tr><tr><td>Reference</td><td>Book 56 Hadith 29</td></tr></tbody></table></div>
 

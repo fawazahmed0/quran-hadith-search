@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Pendant que l'Envoyé de Dieu (paix et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Laits bin Sa'd] telah menceritakan kepadaku [ayahku] dari [kakekku] dia berkata; telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman bin 'Auf] dan [Sa'id bin Musayyab] dari [Abu Hurairah] bahwa dia berkata, "Seorang laki-laki Muslim datang kepada Rasulullah shallallahu 'alaihi wasallam saat beliau berada di Masjid. Laki-laki itu berkata, "Wahai Rasulullah, aku telah berzina!" Namun beliau berpaling, lalu laki-laki itu pindah dan menghadap wajah beliau seraya berkata, "Wahai Rasulullah, aku telah berzina!" Beliau tetap memalingkan muka ke arah lain hingga hal itu terjadi berulang sampai empat kali, setelah laki-laki itu mengakui sampai empat kali bahwa dirinya telah berzina, Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Apakah kamu gila?" Jawab orang itu, "Tidak." Beliau bertanya kepadanya lagi: "Apakah kamu telah menikah?" dia menjawab, "Ya." Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabat: "Bawa orang ini, kemudian rajamlah dia." [Ibnu Syihab] berkata; telah menceritakan kepadaku dari [orang] yang pernah mendengar [Jabir bin Abdullah] berkata, "Dan aku termasuk dari orang yang merajamnya, lalu kami merajamnya di dekat Mushalla, ketika bebatuan menimpanya maka dia berusaha kabur, lalu kami dapatkan dia di bawah terik (matahari), kemudian kami merajamnya lagi." Dan telah diriwayatkan juga oleh [Laits] dari [Abdurrahman bin Khalid bin Musafir] dari [Ibnu Syihab] dengan isnad seperti ini." Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah menceritakan kepada kami [Abu Al Yaman] telah menceritakan kepada kami [Syua'ib] dari [Az Zuhri] dengan isnad ini juga, dan dalam hadits keduanya, [Ibnu Syihab] berkata; telah menceritakan kepada dari orang yang pernah mendengar [Jabir bin Abdullah] sebagaimana yang telah di sebutkan oleh 'Uqail." Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya] keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dan [Ibnu Juraij] semuanya dari [Az Zuhri] dari [Abu salamah] dari [Jabir bin Abdullah] dari Nabi shallallahu 'alaihi wasallam seperti riwayatnya 'Uqail dari Az Zuhri dari Sa'id dan Abu Salamah dari Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>1691.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>1691.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 23</td></tr></tbody></table></div>
 

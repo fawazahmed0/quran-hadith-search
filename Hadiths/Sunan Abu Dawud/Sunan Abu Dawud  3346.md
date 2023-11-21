@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Rafi':The Messenger of Allah (ﷺ) borrowed a young camel, and when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Rafi'], ia berkata; Rasulullah shallallahu 'alaihi wasallam menghutang seekor unta muda, kemudian terdapat unta zakat yang datang kepada beliau. Lalu beliau memerintahkanku agar mengembalikan unta muda tersebut kepada yang punya. Lalu aku katakan; saya tidak mendapatkan di antara unta tersebut selain unta pilihan yang berumur empat tahun. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Berikan kepadanya, sesungguhnya sebaik-baik orang adalah yang terbaik dalam menunaikan hutang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1600)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3346</td></tr><tr><td>Arabic No</td><td>3346</td></tr><tr><td>Reference</td><td>Book 23 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Рафи‘ передаёт: «Однажды Посланник Аллаха ﷺ взял в долг молодого верблюда, и когда к нему привели верблюдов, собранных в качестве закята, он велел мне отдать тому человеку молодого верблюда. Я сказал: “Мне удалось найти только хорошего взрослого верблюда”. Пророк ﷺ сказал: “Дай ему такого, ибо, поистине, лучшие из людей те, кто возвращает долг наиболее достойным образом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1600)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3346</td></tr><tr><td>Arabic No</td><td>3346</td></tr><tr><td>Reference</td><td>Book 23 Hadith 21</td></tr></tbody></table></div>
 

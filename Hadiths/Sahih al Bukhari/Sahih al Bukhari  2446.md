@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "A believer to another believer is lik
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Alaa'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Orang beriman terhadap orang beriman lainnya bagaikan satu bangunan yang satu sama lain saling menguatkan". Dan Beliau mendemontrasikannya dengan cara mengepalkan jari jemari Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2446</td></tr><tr><td>Arabic No</td><td>2446</td></tr><tr><td>Reference</td><td>Book 46 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Верующий по отношению к другому верующему подобны строению, отдельные части которого укрепляют друг друга». (Сказав это,) он переплёл между собой пальцы рук
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2446</td></tr><tr><td>Arabic No</td><td>2446</td></tr><tr><td>Reference</td><td>Book 46 Hadith 7</td></tr></tbody></table></div>
 

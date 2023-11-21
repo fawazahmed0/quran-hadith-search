@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) said:Three are the decions (of the Shari'ah t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Hisyam bin Urwah] dari [Abdurrahman bin Qasim] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Telah terjadi tiga peristiwa pada diri Barirah. Banyak orang bersedekah kepadanya dan ia memberikannya kepada kami. Lalu kusampaikan hal itu kepada Nabi shallallahu 'alaihi wasallam, maka beliau pun bersabda: "Untuk Barirah hal itu adalah sedekah, sedangkan bagi kalian adalah hadiah. Karena itu, makanlah." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Za'idah] dari [Simak] dari [Abdurrahman bin Al Qasim] dari [bapaknya] dari [Aisyah] -Dalam riwayat lain- Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] ia berkata, Aku mendengar [Abdurrahman bin Al Qasim] ia berkata; Aku mendengar [Al Qasim] menceritakan dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam dengan hadits semisal itu. Dan telah menceritakan kepadaku [Abu Thahir] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Malik bin Anas] dari [Rabi'ah] dari [Al Qasim] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam dengan hadits seperti itu. Hanya saja, ia menyebutkan; "Dan makanan itu adalah hadiah darinya untuk kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2487</td></tr><tr><td>Arabic No</td><td>1075.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказ ала: «С Барирой связаны три предписания (шариата), (одним из которых было то, что) люди давали ей милостыню, а она дарила её нам. Когда я упомянула об этом Пророку ﷺ, он сказал: “Для неё это милостыня, а для вас подарок, так что ешьте это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2487</td></tr><tr><td>Arabic No</td><td>1075.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 224</td></tr></tbody></table></div>
 

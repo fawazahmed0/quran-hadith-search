@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuRafi': The Prophet (ﷺ) said: Let me not find one of you reclining 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] dan [Abdullah bin Muhammad An nufaili] keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Abu An Nadhr] dari [Ubaidullah bin Abu Rafi'] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sungguh, akan ada salah seorang dari kalian duduk di atas kursi santainya, lalu datang kepadanya perkara yang aku perintahkan atau aku larang kemudian ia berkata, "Aku tidak tahu! Apa yang kami dapatkan dalam Kitabullah selalu kami ikuti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4605</td></tr><tr><td>Arabic No</td><td>4605</td></tr><tr><td>Reference</td><td>Book 42 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убайдуллах ибн Абу Рафи‘ передаёт от своего отца, что Пророк ﷺ сказал: «Да не случится никому из вас оказаться (в таком положении): он возлежит на ложе своём, а когда ему сообщают о каком-нибудь моём велении из того, что я повелел, или из того, что я запретил, он говорит: “Ничего не знаем… Мы следуем тому, что обнаружили в Книге Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4605</td></tr><tr><td>Arabic No</td><td>4605</td></tr><tr><td>Reference</td><td>Book 42 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah (b. Mas'ud) said:The Messenger of Allah (ﷺ) said to me: recite Surat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Al A'masy] dari [Ibrahim] dari ['Abidah] dari [Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Bacakan kepadaku Surat An Nisa!" Aku katakan, "Apakah aku akan membacakan kepadamu sementara Al Qur'an turun kepadamu?" Beliau bersabda: "Aku senang untuk mendengarnya dari selainku." Abdullah berkata, "Kemudian aku membacakan Al Qur'an kepadanya hingga sampai pada firman-Nya: '(Maka bagaimanakah (halnya orang kafir nanti), apabila Kami mendatangkan seseorang saksi (rasul) …) ' (Qs. An Nisa: 41) Kemudian aku angkat kepalaku dan ternyata kedua mata beliau telah berurai dengan air mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5049) Sahih Muslim (800)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3668</td></tr><tr><td>Arabic No</td><td>3668</td></tr><tr><td>Reference</td><td>Book 26 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ сказал мне: “Прочитай мне суру “ан-Ниса””. Я спросил: “Мне прочитать её тебе при том, что именно тебе она была ниспослана?” Посланник Аллаха ﷺ сказал: “Поистине, я желаю послушать её от другого”. И я прочитал ему её, и, когда я дошёл до слов “Что же произойдёт, когда Мы приведём по свидетелю от каждой общины, а тебя приведём свидетелем против этих?” (сура “ан-Ниса”, аят 41), я поднял голову и увидел, что из глаз Посланника Аллаха ﷺ текут слёзы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5049) Sahih Muslim (800)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3668</td></tr><tr><td>Arabic No</td><td>3668</td></tr><tr><td>Reference</td><td>Book 26 Hadith 28</td></tr></tbody></table></div>
 

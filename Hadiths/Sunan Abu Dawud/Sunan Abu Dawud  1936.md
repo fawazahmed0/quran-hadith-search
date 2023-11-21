@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir reported the Prophet (ﷺ) as saying “I halted here in ‘Arafah and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Hafsh bin Ghiyats] dari [Ja'far bin Muhammad] dari [ayahnya] dari [Jabir] bahwa Nabi shalla Allahu 'alaihi wa sallam berkata: "Aku berwukuf disini, yaitu di Arafah, dan Arafah seluruhnya adalah tempat wukuf dan aku berwukuf di sini, yaitu di Muzdalifah dan Muzdalifah seluruhnya adalah tempat berwukuf. Aku menyembelih disini dan Mina semuanya adalah tempat menyembelih, maka sembelihlah kalian ditempat kalian tinggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1936</td></tr><tr><td>Arabic No</td><td>1936</td></tr><tr><td>Reference</td><td>Book 11 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен Аллах им и его отцом, передаёт слова Пророка ﷺ о том, что, когда он стоял на ‘Арафате, он сказал: «Я встал вот здесь, однако весь ‘Арафат является местом стояния [, за исключением долины ‘Урана]. И я встал вот здесь, однако вся Муздалифа является местом стояния [, кроме долины Мухассир]. И я зарезал жертвенный скот вот здесь, однако вся Мина является местом жертвоприношения. И режьте [жертвенных животных] возле вашей поклажи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1936</td></tr><tr><td>Arabic No</td><td>1936</td></tr><tr><td>Reference</td><td>Book 11 Hadith 216</td></tr></tbody></table></div>
 

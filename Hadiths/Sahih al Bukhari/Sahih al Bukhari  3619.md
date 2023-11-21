@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin Samura:The Prophet (ﷺ) said, "When Khosrau perishes, there 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3619</td></tr><tr><td>Arabic No</td><td>3619</td></tr><tr><td>Reference</td><td>Book 61 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что передавая слова Посланника Аллаха ﷺ Джабир ибн Самура, да будет доволен им Аллах, сказал: «Когда погибнет хосрой, то не будет другого хосроя после него, и когда погибнет император, то не будет императора после него». И приведя этот хадис он сказал: «Вы непременно будете расходовать их сокровища на пути Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3619</td></tr><tr><td>Arabic No</td><td>3619</td></tr><tr><td>Reference</td><td>Book 61 Hadith 126</td></tr></tbody></table></div>
 

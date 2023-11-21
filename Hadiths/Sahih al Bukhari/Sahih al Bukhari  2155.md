@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) came to me and I told him about the slav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy], berkata, ['Urwah bin Az Zubair] telah berkata, ['Aisyah radliallahu 'anha]: "Rasulullah shallallahu 'alaihi wasallam datang menemuiku lalu aku ceritakan bahwa aku telah membeli budak, hanya keluarganya mensyaratkan bahwa wala" tetap milik mereka. Kontan Rasulullah shallallahu 'alaihi wasallam bersabda "Belilah, dan merdekakanlah, dan hak wala" bagi yang memerdekakannya." Kemudian Nabi shallallahu 'alaihi wasallam berdiri menegakkan ibadah malam hari lalu memuji Allah sebagaimana menjadi hakNya kemudian berkata: "Bagaimana bisa orang-orang membuat syarat-syarat yang tidak ada dalam Kitab Allah. Siapa yang membuat syarat yang tidak ada pada Ktab Allah maka merupakan syarat yang batal sekalipun dia membuat seratus syarat. Karena syarat yang dibuat Allah lebih hak dan lebih kokoh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2155</td></tr><tr><td>Arabic No</td><td>2155</td></tr><tr><td>Reference</td><td>Book 34 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Ко мне пришёл Посланник Аллаха ﷺ, и я рассказал ему (о рабыне Барире). Посланник Аллаха ﷺ сказал: “Купи её и освободи, ведь покровителем может быть только тот, кто освободил раба”. Затем, после полудня, Пророк ﷺ встал и восхвалил Аллаха, как Он того заслуживает, а затем сказал: “Почему люди ставят такие условия, которых нет в Книге Аллаха? Тот, кто ставит условия, о которых ничего не говорится в Книге Аллаха, выдвигает недействительные условия, даже если он сделает это сто раз, а условия Аллаха являются самыми достойными исполнения и самыми надёжными”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2155</td></tr><tr><td>Arabic No</td><td>2155</td></tr><tr><td>Reference</td><td>Book 34 Hadith 106</td></tr></tbody></table></div>
 

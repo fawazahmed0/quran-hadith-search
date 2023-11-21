@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah bin 'Umar said: "A man got up in the mosque and said: O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits bin Sa'd] telah menceritakan kepada kami [Nafi'] mantan budak 'Abdullah bin 'Umar bin Al Khaththab, dari ['Abdullah bin 'Umar], bahwa ada seorang laki-laki datang berdiri di masjid lalu bertanya, "Wahai Rasulullah, dari mana Tuan memerintahkan kami untuk bertalbiyah?" Rasulullah shallallahu 'alaihi wasallam lalu menjawab: "Bagi penduduk Madinah bertalbiyah dari Dzul Hulaifah, penduduk Syam dari Al Juhfah, dan penduduk Najed dari Qarn." Ibnu Umar berkata, "Orang-orang mengklaim bahwa Rasulullah shallallahu 'alaihi wasallam akan mengatakan bahwa penduduk Yaman bertalbiyah dari Yalamlam." Sementara Ibnu Umar berkata, "Aku tidak yakin bahwa (yang terakhir) ini dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>133</td></tr><tr><td>Arabic No</td><td>133</td></tr><tr><td>Reference</td><td>Book 3 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал:«(Однажды) какой-то человек поднялся со своего места в мечети и спросил: “О Посланник Аллаха, с какого места ты повелишь нам входить в состояние ихрама?” (В ответ ему) Посланник Аллаха ﷺ сказал: “Жители Медины должны делать это в Зуль-Хулейфе, жители Шама − в аль-Джухфе, а жители Неджда − у Къарна”». \nИбн ‘Умар также сказал: «И утверждают, что Посланник Аллаха ﷺ сказал: “И жители Йемена делают это у Йалямляма”».\nИбн ‘Умар обычно говорил: «Однако лично я не помню, чтобы Посланник Аллаха ﷺ говорил это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>133</td></tr><tr><td>Arabic No</td><td>133</td></tr><tr><td>Reference</td><td>Book 3 Hadith 75</td></tr></tbody></table></div>
 

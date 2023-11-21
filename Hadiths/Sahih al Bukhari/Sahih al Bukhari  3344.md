@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:'Ali sent a piece of gold to the Prophet (ﷺ) who distribute
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin 'Ar'arah] telah bercerita kepada kami [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: ""Aku ditolong dengan perantaraan angin yang berhembus dari timur (belakang pintu Ka'bah) sedangkan kaum 'Aad dibinasakan dengan angin yang berhembus dari barat". Perawi berkata; Dan Ibnu Katsir berkata dari Sufyan dari bapaknya dari Ibnu Abi Nu'im dari Abu Sa'id radliallahu 'anhu berkata; 'Ali mengirim perhiasan emas kepada Nabi shallallahu 'alaihi wasallam lalu Beliau membagikannya kepada empat orang, yaitu kepada Al Aqra' bin Habis Al Hanzhaliy, yang kemudian sebutannya menjadi Al Mujasyi'iy, 'Uyaynah bin Badr Al Fazariy, Zaid ath-Tha'iy kemudian dia menjadi salah seorang suku Bani Nabhan dan 'Alqamah bin 'Ulatsah yang kemudian menjadi salah seorang suku Bani Kilab. Orang-orang Qurais dan Kaum Anshar menjadi marah. Mereka berkata; "Beliau telah memberi para pahlawan penduduk Nejed dan malah mengabaikan kita". Beliau berkata: "Aku memberi mereka dengan tujuan agar menjinakkan hati mereka" (ke dalam Islam). Lalu datanglah seseorang yang kedua matanya menjorok ke dalam, wajahnya kusut dengan jenggotnya dicukur seraya berkata: "Bertaqwalah kamu kepada Allah, wahai Muhammad". Maka Beliau berkata: "Siapakah yang dapat bertaqwa kepada Allah seandainya aku saja mendurhakai-Nya. Apakah patut Allah memberi kepercayaan kepadaku untuk penduduk bumi sementara kalian tidak mempercayai aku?". Kemudian ada seseorang, aku kira dia adalah Khalid bin Al Walid, yang meminta izin untuk membunuh orang itu namun Beliau melarangnya. Setelah orang itu pergi, Beliau bersabda: "Sesungguhnya dari asal orang ini atau di belakang orang ini (keturunan) akan ada satu kaum yang mereka membaca al-Qur'an namun tidak sampai ke tenggorokan mereka. Mereka keluar dari agama bagaikan keluarnya anak panah dari busurnya dan mereka membunuh pemeluk Islam dan membiarkan para penyembah berhala. Seandainya aku bertemu dengan mereka pasti aku akan bunuh mereka sebagaimana kaum "Ad dibantai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3344</td></tr><tr><td>Arabic No</td><td>3344</td></tr><tr><td>Reference</td><td>Book 60 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида, да будет доволен им Аллах, что однажды ‘Али, да будет доволен им Аллах, отправил Пророку ﷺ золотой самородок, и он разделил его на четверых. Это аль-Акра‘ ибн Хабис аль-Ханзали аль-Муджаши‘, ‘Уяйна ибн Бадр аль-Фазари и Зейд ат-Таи из бану набхан, (четвёртым же был) ‘Алькама ибн ‘Уляса аль-Амири из бану киляб. (Узнав об этом,) курайшиты и ансары возмутились: «Неужели он даёт предводителям жителей Неджда, а нас оставляет ни с чем?» Пророк ﷺ сказал: «Поистине, я лишь склоняю их (сердца к исламу)». Тут пришёл человек с впалыми глазами, выступающими скулами, выпуклым лбом, густой бородой и бритой головой. Он воскликнул: «Побойся Аллаха, о Мухаммад!» (Посланник Аллаха ﷺ) сказал: «Если я ослушиваюсь Аллаха, то кто же тогда покорен Ему? Аллах доверил мне (передать Его послание) обитателям земли, а вы не доверяете мне?» Один человек (возможно, это был Халид ибн аль-Валид) попросил у Посланника Аллаха ﷺ разрешения казнить этого человека, но (Посланник Аллаха ﷺ) запретил ему. А когда тот удалился, (Посланник Аллаха ﷺ) сказал: «Поистине, среди потомков или товарищей этого человека появятся люди, которые станут читать Книгу Аллаха, но дальше их глоток такое чтение проходить не будет, и они выйдут из религии, подобно стреле, которая пронзает дичь и выходит с другой стороны. Они будут убивать мусульман и оставлять в живых язычников. Поистине, если я застану их, то непременно буду убивать их, как были убиты адиты!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3344</td></tr><tr><td>Arabic No</td><td>3344</td></tr><tr><td>Reference</td><td>Book 60 Hadith 19</td></tr></tbody></table></div>
 

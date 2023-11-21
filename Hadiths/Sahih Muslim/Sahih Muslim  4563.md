@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith has been narrated by Salim who learnt it from his father and said:The M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Suraij bin Yunus] dan [Amru An Naqid] sedangkan lafadz haditnya dari Suraij, keduanya berkata; telah menceritakan kepada kami [Abdullah bin Raja'] dari [Yunus] dari [Az Zuhri] dari [Salim] dari [ayahnya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah membagi harta rampasan perang selain dari bagian kita yang seperlima, saat itu aku mendapatkan jatah seekor unta -yaitu unta yang telah berumur-." Dan telah menceritakan kepada kami [Hannad bin As Sari] telah menceritakan kepada kami [Ibnu Mubarrak]. (dalam riwayat lain disebutkan) Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] keduanya dari [Yunus] dari [Ibnu Syihab] dia berkata; [telah sampai kepadaku] dari [Ibnu Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah membagi harta rampasan perang kepada prajurit...seperti hadits riwayat Ibnu Raja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4563</td></tr><tr><td>Arabic No</td><td>1750.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4563</td></tr><tr><td>Arabic No</td><td>1750.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 44</td></tr></tbody></table></div>
 

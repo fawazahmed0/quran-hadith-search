@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (p.b.u.h) recited Talbiya when he had mounted his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepada saya [Shalih bin Kaisan] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; "Nabi shallallahu 'alaihi wasallam berihram ketika hewan tunggangannya sedang berdiri tegak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1552</td></tr><tr><td>Arabic No</td><td>1552</td></tr><tr><td>Reference</td><td>Book 25 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ произнес тальбию, когда сел на свою верблюдицу, и она поднялась с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1552</td></tr><tr><td>Arabic No</td><td>1552</td></tr><tr><td>Reference</td><td>Book 25 Hadith 38</td></tr></tbody></table></div>
 

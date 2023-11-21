@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the delegate of 'Abd Al-Qais came to Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Al Ja'd] telah mengabarkan kepada kami [Syu'bah]. (dalam jalur lain disebutkan) telah menceritakan kepadaku [Ishaq] telah mengabarkan kepada kami [An Nadlr] telah mengabarkan kepada kami [Syu'bah] dari [Abu Jamrah] ia berkata, " [Ibnu Abbas] mendudukkan aku di atas tempat tidurnya dan berkata kepadaku, "Utusan Abdul Qais tatkala mendatangi Rasulullah shallallahu 'alaihi wasallam, beliau bertanya: 'Siapa utusan-utusan ini? ' Mereka menjawab, "Rabi'ah!" Nabi kemudian mengucapkan: "Selamat datang wahai para utusan -atau sepertinya mengucapkan-, Selamat datang kaum, dengan tanpa terhinakan dan penyesalan." Mereka katakan, "Ya Rasulullah, antara kami dan engkau ada orang-orang kafir Mudlar, maka suruhlah kami dengan sebuah perintah yang karenanya kami bisa masuk surga dan bisa kami kabarkan kepada orang-orang yang di belakang kami." Lantas mereka bertanya perihal minuman-minuman. Kemudian Rasul melarang mereka empat hal, dan memerintahkan mereka empat hal. Memerintahkan mereka beriman kepada Allah. Beliau bertanya: "Tahukah kalian iman kepada Allah?" Mereka menjawab, "Allah dan Rasul-Nya lah yang lebih tahu!" Beliau menjawab: "Yaitu persaksian bahwa tidak ada sesembahan yang hak selain Allah semata yang tiada sekutu bagi-Nya, dan bahwasanya Muhammad adalah utusan Allah, mendirikan shalat, membayar zakat -dan aku taksir dalam perintahnya ada puasa bulan ramadhan-, dan kalian bayarkan seperlima bagian ghanimah." Dan nabi melarang mereka dari duba', hantam, muzaffat, naqir, dan rupanya beliau juga berkata almuqayyar. Nabi meneruskan: "Jagalah itu semua, dan sampaikan itu semua kepada orang yang berada di belakang kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>7266</td></tr><tr><td>Reference</td><td>Book 95 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Джамра передаёт, что однажды ибн ‘Аббас, да будет доволен Аллах ими обоими, посадил меня на своё ложе и сказал: «Поистине, когда к Пророку ﷺ прибыла делегация (племени) ‘абд аль-къайс, он спросил: “Кто эти люди?” Они ответили: “Раби‘а”. Он сказал: “Добро пожаловать (вам, о) люди! Не будете вы посрамлены и не станете сожалеть!” Они сказали: “О Посланник Аллаха, нас отделяют от тебя неверные из племени мудар, так дай же нам решающее веление, чтобы мы благодаря этому вошли в Рай и передали его оставшимся за нами!” И они спросили его о напитках, а он запретил им четыре (дела) и велел им (делать) четыре (других). Он велел им верить в Аллаха и спросил: “Знаете ли вы, что такое вера в Аллаха?” Они ответили: “Аллах и посланник Его знают (об этом) лучше”. Тогда он сказал: “Это — свидетельство о том, что нет божества достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища, и что Мухаммад — Посланник Аллаха, совершение намаза, выплата закята (, — я думаю, что он сказал “соблюдение поста в месяц Рамадан”, —) и выделение вами пятой части военной добычи”. И он запретил им (использовать следующие виды сосудов): хантам, дуббy, накыр и музаффат (или: мукъаййар), а затем он сказал: “Запомните это и передайте тем, кто остался за вами”».\nДубба — сосуды из высушенных тыкв.\nХантам — кувшины из глины. В таких сосудах в Медину привозили вино.\nНакыр — сосуды, выдолбленные из дерева.\nМузаффат — сосуд, бока которого обмазывались смолой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>7266</td></tr><tr><td>Reference</td><td>Book 95 Hadith 20</td></tr></tbody></table></div>
 

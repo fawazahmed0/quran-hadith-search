@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) (p.b.u.h) said, "When the Imam is d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah menceritakan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kamu berkata kepada temanmu pada hari Jum'at 'diamlah', padahal Imam sedang memberikan khutbah maka sungguh kamu sudah berbuat sia-sia (tidak mendapat pahala)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>934</td></tr><tr><td>Arabic No</td><td>934</td></tr><tr><td>Reference</td><td>Book 11 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если ты скажешь находящемуся рядом с тобой человеку: “Слушай (внимательно)!” — в пятницу во время проповеди имама, то скажешь нечто неподобающее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>934</td></tr><tr><td>Arabic No</td><td>934</td></tr><tr><td>Reference</td><td>Book 11 Hadith 58</td></tr></tbody></table></div>
 

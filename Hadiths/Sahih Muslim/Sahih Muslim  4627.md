@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abdullah b. Muti' who heard from his fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dan [Waki'] dari [Zakaria] dari [As Sya'bi] dia mengatakan; telah mengabarkan kepadaku [Abdullah bin Muthi'] dari [ayahnya] dia berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda ketika penaklukan kota Makkah: "Orang-orang Quraisy tidak akan dibunuh dengan cara diikat dan dilempari batu sampai mati, setelah hari ini hingga hari kiamat." Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Zakaria] dengan isnad ini, dengan tambahan, "Dan tidak ada seorang pun yang selamat dari orang-orang Quraisy yang keras permusuhannya dengan beliau selain Muthi', dan asal namanya adalah Al 'Ashi (pelaku maksiat), lantas Rasulullah shallallahu 'alaihi wasallam menamainya Muthi' (orang yang taat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4627</td></tr><tr><td>Arabic No</td><td>1782.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4627</td></tr><tr><td>Arabic No</td><td>1782.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 109</td></tr></tbody></table></div>
 

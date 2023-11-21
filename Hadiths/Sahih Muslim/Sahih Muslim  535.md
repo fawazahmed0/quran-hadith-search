@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was narrated from Simak bin Harb, that Mus'ab bin Sa'd said:'" 'Abdullah bin 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] serta [Abu kamil al-Jahdari] sedang lafazh milik Said, mereka berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Simak bin Harb] dari [Mush'ab bin Sa'd] dia berkata, " [Abdullah bin Umar] menemui Ibnu Amir untuk menjenguknya yang saat itu sedang sakit. Ibnu Amir lalu berkata, 'Tidakkah engkau mendoakanku wahai Ibnu Umar'. Ibnu Umar menjawab, 'Sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak diterima shalat tanpa bersuci, dan tidak diterima sedekah dari pengkhiatan (harta ghanimah) ', dan kamu ketika itu berada di Bashrah." Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Zaidah]. (dalam riwayat lain disebutkan) [Abu Bakar] dan [Waki'] berkata dari [Israil], semuanya dari [Simak bin Harb] dengan isnad ini dari Nabi shallallahu 'alaihi wasallam dengan hadits yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>224.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мус‘аб ибн Са‘д сказал: «(Однажды) ‘Абдуллах ибн ‘Умар зашёл наведать Ибн ‘Амира, когда он болел и (Ибн ‘Амир) сказал: “О Ибн ‘Умар! Не обратишься ли ты к Аллаху с мольбой за меня!?” (Ибн ‘Умар) сказал: “Я слышал, как Посланник Аллаха ﷺ говорил: “Не принимается молитва без очищения, и не (принимается) милостыня с украденного трофея /гъулюль/”, а ты был наместником Басры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>224.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 2</td></tr></tbody></table></div>
 

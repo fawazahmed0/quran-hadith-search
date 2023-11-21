@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ayyub al-Ansari (Allah be pleased with him) reported Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ali bin Hujr] semuanya dari [Isma'il] - [Ibnu Ayyub] berkata- Telah menceritakan kepada kami [Isma'il bin Ja'far] telah mengabarkan kepadaku [Sa'd bin Sa'id bin Qais] dari [Umar bin Tsabit bin Harits Al Khazraji] dari [Abu Ayyub Al Anshari] radliallahu 'anhu, bahwa ia telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang berpuasa Ramadlan kemudian diiringinya dengan puasa enam hari di bulan Syawwal, maka yang demikian itu seolah-olah berpuasa sepanjang masa." Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Sa'd Sa'id] saudaranya Yahya bin Sa'id, telah mengabarkan kepada kami [Umar bin Tsabit] telah mengabarkan kepada kami [Ayyub Al Anshari] radliallahu 'anhu, ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda. Yakni dengan hadits semisalnya. Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Mubarak] dari [Sa'd bin Sa'id] ia berkata, saya mendengar [Umar bin Tsabit] ia berkata, saya mendengar [Abu Ayyub] radliallahu 'anhu. Berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: yakni dengan hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2758</td></tr><tr><td>Arabic No</td><td>1164.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2758</td></tr><tr><td>Arabic No</td><td>1164.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 264</td></tr></tbody></table></div>
 

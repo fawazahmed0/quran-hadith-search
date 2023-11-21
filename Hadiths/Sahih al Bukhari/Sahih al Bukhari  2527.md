@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever frees his portion of a com
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abi Raja'] telah menceritakan kepada kami [Yahya bin Abu Adam] telah menceritakan kepada kami [Jarir bin HAzim] aku mendengar [Qatadah] berkata, telah menceritakan kepadaku [An-Nadhar bin Anas bin Malik] dari [Basyir bin Nahik] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang membebaskan hak kepemilikan budak". Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [YAzid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [An-Nadhar bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam berkata: "Siapa yang membebaskan bagian atau hak kepemilikan budak yang dimilki secara berserikat, maka pembebasan total budak itu menjadi kewajibannya jika ia mempunyai harta. Jikalah tidak, maka harga budak tersebut ditaksir secara adil, lantas budak diusahakan untuk dibebaskan dengan tanpa membebani orang yang telah membebaskan hak kepemilikannya. Hadis ini diperkuat oleh [Hajjaj bin Hajjaj] dan [Abban] dan [Musa bin Khalaf] dari [Qatadah] yang diringkas oleh [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2527</td></tr><tr><td>Arabic No</td><td>2527</td></tr><tr><td>Reference</td><td>Book 49 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Тот, кто освобождает свою долю раба, он должен освободить его полностью, если у него хватило средств, в противном случае он должен оценить его и найти для него посильную работу (, чтобы он мог выплатить остаток)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2527</td></tr><tr><td>Arabic No</td><td>2527</td></tr><tr><td>Reference</td><td>Book 49 Hadith 11</td></tr></tbody></table></div>
 

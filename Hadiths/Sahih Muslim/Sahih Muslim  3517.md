@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) having said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Umar bin Muhammad] dari [Nafi'] dari [Ibnu Umar] bahwasannya Nabi shallallahu 'alaihi wasallam bersabda: "Jika kalian diundang ke kura' (hidangan kambing), maka penuhilah undangan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3517</td></tr><tr><td>Arabic No</td><td>1429.09</td></tr><tr><td>Reference</td><td>Book 16 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3517</td></tr><tr><td>Arabic No</td><td>1429.09</td></tr><tr><td>Reference</td><td>Book 16 Hadith 120</td></tr></tbody></table></div>
 

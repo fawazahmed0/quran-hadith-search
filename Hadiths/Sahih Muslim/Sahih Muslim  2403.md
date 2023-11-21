@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Malik al-Ashja'i reported:We, nine, eight or seven men, were in the company of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] dan [Salamah bin Syabib] -Salamah berkata- telah menceritakan kepada kami -sementara Ad Darimi berkata- telah mengabarkan kepada kami [Marwan bin Muhammad Ad Dimasyqi] telah menceritakan kepada kami [Sa'id, ia adalah anak Abdul Aziz] dari [Rabi'ah bin Yazid] dari [Abu Idris Al Khaulani] dari [Abu Muslim Al Khaulani] ia berkata; Telah menceritakan kepadaku Al Habib (orang yang aku cintai) dan Al Amin (orang yang aku percayai) [Auf bin Malik Al Asyja'i] ia berkata; Kami pernah berada dekat Rasulullah shallallahu 'alaihi wasallam selama sembilan atau delapan atau tujuh hari. Saat kami hendak berpisah, beliau bersabda: "Apakah kalian tidak berbai'at kepada Rasulullah?" Ketika itu kami baru saja berbai'at kepada beliau, maka kami pun menjawab, "Sesungguhnya kami telah berbai'at kepadamu wahai Rasulullah." Kemudian beliau bertanya lagi: "Apakah kalian tidak berbai'at kepada Rasulullah?" kami menjawab, "Sungguh, kami telah berbai'at kepada Anda wahai Rasulullah." Beliau mengulangi pertanyaannya: "Apakah kalian tidak berbai'at kepada Rasulullah?" Maka kami pun mengulurkan tangan sambil berujar, "Sesungguhnya kami telah berbai'at kepada Tuan, lalu atas apa lagi kami berbai'at kepada Tuan wahai Rasulullah?" beliau menjawab, "Bahwa kalian akan menyembah Allah dan tidak menyekutukan-Nya dengan sesuatupun juga, akan menegakkan shalat lima waktu, akan berlaku patuh kemudian beliau melirihkan perkataannya: dan tidak akan meminta sesuatupun kepada orang banyak." Auf berkata; Aku pernah melihat sebagian dari mereka itu suatu saat cambuknya jatuh, tetapi ia tidak meminta tolong sedikit pun kepada orang lain untuk mengambilkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2403</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 12 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ауф ибн Малик аль-Ашджа‘и рассказывал: «Однажды мы находились возле Посланника Аллаха ﷺ, и нас было девять, либо восемь, либо семь (человек), и он сказал (нам): “Почему бы вам не присягнуть Посланнику Аллаху?” а мы совсем недавно уже присягали ему. Мы сказали: “Но мы уже присягали тебе, о Посланник Аллаха!” Он (снова) сказал: “Почему бы вам не присягнуть Посланнику Аллаху?” Мы сказали: “Но мы уже присягали тебе, о Посланник Аллаха!” (Но) он (снова) сказал: “Почему бы вам не присягнуть Посланнику Аллаху?” Тогда мы протянули свои руки и сказали: “Мы уже присягали тебе, о Посланник Аллаха! Относительно чего нам присягнуть тебе (сейчас)?” Он ответил: “(Присягните мне на то,) что будете поклонятся Аллаху и не будете придавать Ему в сотоварищи ничего, (будете выстаивать) пять молитв и будете подчинятся (правителю)”, после чего шепотом добавил: “И ничего не будете просить у людей”. (После этого) я видел, как некоторые из этих (присягнувших) не просили подать им выроненную ими из рук плеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2403</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 12 Hadith 140</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A cloud came and it rained till the roof started le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] berkata, "Aku bertanya kepada [Abu Sa'id Al Khudri] (tentang Lailatul Qadar)." Ia lalu menjawab, "Pada suatu hari ada banyak awan (mendung) lalu turun hujan lebat hingga atap Masjid menjadi bocor oleh air hujan. Waktu itu atap masih terbuat dari daun pohon kurma. Ketika shalat dilaksanakan, aku melihat Rasulullah shallallahu 'alaihi wasallam sujud di atas air dan lumpur hingga tampak sisa tanah becek pada dahi beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 10 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма сказал:«(Как-то) я спросил у Абу Са‘ида аль-Худри (о ночи предопределения) и он сказал: “(Однажды), когда появилась туча и полил (такой) дождь, что протекла крыша (мечети), которая была сделана из голых пальмовых ветвей, а когда сделали второй призыв к намазу, я увидел, как Посланник Аллаха совершает земные поклоны в воде и глине, и я даже видел на его лбу следы от глины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>669</td></tr><tr><td>Reference</td><td>Book 10 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:that while the Prophet (ﷺ) was with her, there was an effem
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] Telah menceritakan kepada kami [Abdah] dari [Hisyam bin Urwah] dari [bapaknya] dari [Zainab binti Ummu Salamah] dari [Ummu Salamah] bahwasanya; Suatu ketika Nabi shallallahu 'alaihi wasallam berada di rumahnya. Sementara di dalam rumah ada Mukhannats (seorang laki-laki yang bertingkah laku seperti perempuan, waria). Sang Mukhannats berkata kepada saudara laki-laki Ummu Salamah yakni Abdullah bin Abu Umayyah, "Jika Allah memberi kekuatan pada kalian untuk menaklukkan Tha'if esok hari, maka aku akan menunjukkan padamu anak wanita Ghailan, sesungguhnya ia akan menerima dengan empat dan akan berpaling dengan delapan." Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Janganlah sekali-kali orang ini menemui kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5235</td></tr><tr><td>Arabic No</td><td>5235</td></tr><tr><td>Reference</td><td>Book 67 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма рассказала, что (однажды) Пророк ﷺ зашёл к ней в то время, когда у неё находился один женоподобный мужчина /муханнас/. Женоподобный мужчина сказал брату Умм Салямы, ‘Абдуллаху ибн Аби Умаййе: “Если завтра Аллах поможет вам взять Таиф, то советую тебе взять (в жёны) дочь Гайляна, ибо, поистине, (эта девушка столь красива и полна, что, (когда) она поворачивается (к тебе) лицом (, видны) четыре (складки на её теле, когда же поворачивается спиной, то видны) восемь (складок)”. И (после этого) Пророк ﷺ сказал: “Пусть он (больше) не заходит к вам!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5235</td></tr><tr><td>Arabic No</td><td>5235</td></tr><tr><td>Reference</td><td>Book 67 Hadith 168</td></tr></tbody></table></div>
 

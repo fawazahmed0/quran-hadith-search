@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou 'Ishâq a dit : Je demandai à Zayd Ibn Arqam : "A combien d'expéditions a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah meceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Al Hasan bin Musa] telah mengabarkan kepada kami [Zuhair] dari [Abu Ishaq] ia berkata; saya bertanya kepada [Zaid bin Arqam], "Berapa kali Anda berperang bersama dengan Rasulullah shallallahu 'alaihi wasallam?" Ia menjawab, "Tujuh belas kali." Abu Ishaq berkata; Dan telah menceritakan kepadaku Zaid bin Arqam bahwa Rasulullah shallallahu 'alaihi wasallam telah berperang sebanyak sembilan belas kali, dan setelah hijrah beliau mengerjakan haji hanya sekali, yaitu haji wada'. Abu Ishaq berkata; Dan lain lagi ketika beliau masih di Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
 

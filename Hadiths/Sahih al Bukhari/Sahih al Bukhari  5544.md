@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:While we were with the Prophet. on a journey, one of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Umar bin 'Ubaid Ath Thanafisi] dari [Sa'id bin Masruq] dari ['Abayah bin Rifa'ah] dari kakeknya [Rafi' bin Khadij] radliallahu 'anhu dia berkata; "Kami bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, tiba-tiba seekor unta kabur, Rafi' melanjutkan; lalu seseorang membidiknya dengan tombak hingga berhasil menangkapnya, Rafi' melanjutkan; kemudian beliau bersabda: "Sesungguhnya ia memiliki sifat-sifat seperti yang di miliki oleh binatang liar, oleh karenanya jika kalian kewalahan, hendaknya kalian lakukan seperti itu." Rafi' berkata; lalu aku bertanya; "Wahai Rasulullah, bagaimana jika kami berada dalam suatu ekspedisi atau perjalanan sedangkan kami hendak menyembelih sembelihan, sementara kami tidak memiliki pisau?" Beliau menjawab: "Gunakanlah sesuatu yang dapat mengalirkan darah dan sebutlah nama Allah kemudian makanlah, selama -yang digunakan menyembelih- selain gigi dan kuku, karena gigi adalah tulang sedangkan kuku adalah pisaunya orang-orang Habsyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5544</td></tr><tr><td>Arabic No</td><td>5544</td></tr><tr><td>Reference</td><td>Book 72 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж, да будет доволен им Аллах, сказал: «Когда мы были с Пророком ﷺ в путешествии, один из верблюдов убежал, и после чего человек пустил (в этого верблюда) стрелу, и (Аллах) остановил его. (Пророк ﷺ) сказал: “Поистине, некоторые из этих верблюдов одичали и стали подобны диким зверям, и если какой-нибудь из них совершит подобное, поступайте с ним так же (т.е. пустите в него стрелу)”. Я сказал: “О Посланник Аллаха! Иногда, когда мы сражаемся или путешествуем, мы желаем забить (животных), но у нас не бывает ножа”. Он сказал: “Поторопись (с забоем животного, дабы оно не умерло от удушья). (Пользуйся) всем, с помощью чего можно выпустить кровь, и ешь всё то, над чем было произнесено имя Аллаха, но не (закалывай животных) клыками и когтями: что касается зубов, то это — кости, что же касается когтей, то они используются как ножи эфиопами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5544</td></tr><tr><td>Arabic No</td><td>5544</td></tr><tr><td>Reference</td><td>Book 72 Hadith 69</td></tr></tbody></table></div>
 

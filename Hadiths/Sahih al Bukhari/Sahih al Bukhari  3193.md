@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah the Most Superior said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Abu Syaibah] dari [Abu Ahmad] dari [Sufyan] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Aku diperlihatkan ketika Allah berfirman: "Anak Adam mencaciku padahal tidak pantas dia mencaci-KU dan dia mendustakan-KU padahal tidak patut baginya. Caciannya kepadaKU yaitu ucapannya yang mengatakan bahwa AKU punya anak dan pendustaannya adalah ucapannya yang mengatakan bahwa tidak ada yang dapat mengemballikannya (setelah hancur dimakan tanah/mati) sebagaimana awal penciptaan-KU
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 59 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— Пророк ﷺ сказал:\n— Аллах Всевышний сказал: «Сын Адама оскорбляет Меня, тогда как не следует ему оскорблять Меня, и он возводит на Меня ложь, тогда как не следует ему делать этого. Что касается его оскорблений, то (суть их в том, что) он говорит, будто у Меня есть сын, что же касается возведения им лжи на Меня, то (суть её в том, что) он говорит: “Он не вернёт меня (к жизни) подобно тому, как Он создал меня (в первый раз)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 59 Hadith 4</td></tr></tbody></table></div>
 

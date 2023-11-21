@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "When anyone of you dies, his d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar] radliallahu 'anhuma mengatakan, Rasulullah shallallahu'alaihiwasallam bersabda: "Jika salah seorang diantara kalian meninggal, huniannya akan diperlihatkan baginya diwaktu pagi dan sore, entah neraka ataukah surga, lantas dikatakan kepadanya 'Ini hunianmu' yang demikian terus berlaku hingga kiamat tiba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6515</td></tr><tr><td>Arabic No</td><td>6515</td></tr><tr><td>Reference</td><td>Book 81 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Поистине, каждому из вас после смерти будут показывать место его по утрам и вечерам, либо Огонь, либо Рай, и ему скажут: “Это будет твоим местом до тех пор, пока ты не будешь воскрешён (в День Воскресения)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6515</td></tr><tr><td>Arabic No</td><td>6515</td></tr><tr><td>Reference</td><td>Book 81 Hadith 104</td></tr></tbody></table></div>
 

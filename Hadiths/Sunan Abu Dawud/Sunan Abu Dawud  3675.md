@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said :Abu Talhah asked the prophet (ﷺ) about the orphans who had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Hazb] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [As Saddi] dari [Abu Hubairah] dari [Anas bin Malik] bahwa Abu Thalhah bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai anak-anak yatim yang mewarisi khamer. Beliau bersabda: "Tumpahkanlah khamer tersebut!" Abu Thalhah bertanya, "Bolehkah aku jadikan cuka?" Beliau menjawab: "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1983)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3675</td></tr><tr><td>Arabic No</td><td>3675</td></tr><tr><td>Reference</td><td>Book 27 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, передаёт, что Абу Тальха спросил Пророка ﷺ о сиротах, которым в качестве наследства досталось вино, и он сказал: «Вылей его». Он спросил: «Может, сделать из него уксус?» (Посланник Аллаха ﷺ) сказал: «Нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1983)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3675</td></tr><tr><td>Arabic No</td><td>3675</td></tr><tr><td>Reference</td><td>Book 27 Hadith 7</td></tr></tbody></table></div>
 

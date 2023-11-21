@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), Deux hommes éternuèrent en prés
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Abdullah bin Numair], teks milik Zuhair, keduanya berkata: Telah menceritakan kepada kami [Al Qasim bin Malik] dari [Ashim bin Kulaib] dari [Abu Burdah] berkata: Aku bertamu ke [Abu Musa] saat berada di rumah putri Al Fadhl bin Abbas, aku bersin tapi ia tidak mendoakanku, putri Al Fadhl bersin lalu ia mendoakannya. Aku kembali ke ibuku lalu aku memberitahukannya. Saat mendatanginya, ia berkata: Anakku bersin didekatmu tapi kau tidak mendoakannya, dan ia (putri Al Fadhl) bersin lalu kau mendoakannya. Abu Hurairah berkata: Putramu bersin dan tidak membaca hamdalah, karena itu aku tidak mendoakannya, sementara ia (putri Al Fadhl) bersin dan membaca hamdalah, karena itu aku mendoakannya. Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila salah seorang dari kalian bersin lalu memuji Allah, doakanlah dia tapi bila tidak memuji Allah, jangan didoakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7488</td></tr><tr><td>Arabic No</td><td>2992</td></tr><tr><td>Reference</td><td>Book 55 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7488</td></tr><tr><td>Arabic No</td><td>2992</td></tr><tr><td>Reference</td><td>Book 55 Hadith 71</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Al 'Abbas bin 'Abdul-Muttalib asked the permission of Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Abu Al Aswad] telah menceritakan kepada kami [Abu Dhamrah] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata; Al 'Abbas bin 'Abdul Mutholib radliallahu 'anhuma meminta ijin kepada Rasulullah Shallallahu'alaihiwasallam untuk bermalam di Makkah selama malam-malam Mina untuk (melayani) menyediakan minum buat Beliau. Maka Beliau mengizinkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1634</td></tr><tr><td>Arabic No</td><td>1634</td></tr><tr><td>Reference</td><td>Book 25 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Аль-‘Аббас бин ‘Абд аль-Мутталиб, да будет доволен им Аллах, попросил Посланника Аллаха ﷺ разрешить ему оставаться в Мекке в те ночи(, которые паломники проводят в) Мине, для того, чтобы снабжать их водой, и он разрешил ему это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1634</td></tr><tr><td>Arabic No</td><td>1634</td></tr><tr><td>Reference</td><td>Book 25 Hadith 117</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) was on a journey and a slave named Anjasha was c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] dan [Ayyub] dari [Abu Qilabah] dari [Anas] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam pernah dalam suatu perjalanan, sementara seorang hamba sahayanya bernama Anjasyah mengawal para wanita, maka Nabi shallallahu 'alaihi wasallam bersabda: "Pelan-pelanlah wahai Anjasyah, karena kamu tengah mengawal sesuatu yang mudah pecah." Abu Qilabah mengatakan; maksudnya adalah (mengawal) para wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6210</td></tr><tr><td>Arabic No</td><td>6210</td></tr><tr><td>Reference</td><td>Book 78 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ находился в одной из своих поездок, а раб по имени Анджаша подгонял верблюдов пением, и Пророк ﷺ сказал ему: “Горе тебе, О Анджаша, (веди верблюдов) медленнее, (будто везёшь) бутылки”». Абу Къыляба сказал: «То есть женщины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6210</td></tr><tr><td>Arabic No</td><td>6210</td></tr><tr><td>Reference</td><td>Book 78 Hadith 234</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:Five are the acts quite akin to the Fitra, or five are the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru an-Naqid] serta [Zuhair bin Harb] semuanya dari [Sufyan], [Abu Bakar] berkata, telah menceritakan kepada kami [Ibnu Uyainah] dari [az-Zuhri] dari [Sa'id bin al-Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Fithrah itu ada lima, atau ada lima fithrah yaitu: khitan, mencukur bulu kemaluan, memotong kuku, mencabut bulu ketiak, dan mencukur kumis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>257.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Пять (вещей) являются естественными /фитра/: обрезание, сбривание волос с лобка, подстригание ногтей, выщипывание волос под мышками и подстригание усов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>257.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 64</td></tr></tbody></table></div>
 

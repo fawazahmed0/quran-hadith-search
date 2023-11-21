@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu’Uthman al-Nahdl said that he offered the sunset prayer behind Ibn mas’ud
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] dari [Qurrah] dari [An Nazal bin 'Ammar] dari [Abu Utsman An Nahdi] bahwa dia shalat Maghrib di belakang Ibnu Mas'ud, maka [Ibnu Mas'ud] membaca surat Al Ikhlash "Qul Huwallahu Ahad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу ‘Усмана ан-Нахди, что он совершал закатную молитву под руководством Ибн Мас‘уда, и тот прочитал суру «Скажи: Он Аллах Единственный»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
 

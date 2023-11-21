@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Kaladah ibn Hanbal: Safwan ibn Umayyah sent him with some milk, a young
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Basysyar] berkata, telah menceritakan kepada kami [Abu Ashim] berkata, telah menceritakan kepada kami [Ibnu Juraij]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [yahya bin habib] berkata, telah menceritakan kepada kami [Rauh] dari [Ibnu Juraij] ia berkata; telah mengabarkan kepadaku [Amru bin Abu Sufyan] bahwa [Amru bin Abdullah bin Shafwan] mengabarkan kepadanya dari [Kaldah bin Hanbal] bahwa Shafwan bin Umayyah mengutusnya menemui Rasulullah shallallahu 'alaihi wasallam membawa susu, anak kijang dan anak rubah. Saat itu Nabi shallallahu 'alaihi wasallam sedang berada di perbukitan Makkah. Lalu aku masuk tanpa mengucapkan salam terlebih dahulu, maka beliau pun bersabda: "Kembali dan ucapkanlah; Assalamu Alaikum." Kejadian itu setelah Shafwan bin Umayyah masuk Islam.", [Amru] berkata; " [Ibnu Shafwan] memberitahukan ini semua kepadaku dari [Kaladah bin Hanbal], dan ia tidak berkata; aku mendengarnya darinya (Kaldah).", Abu Dawud berkata; "Yahya bin Habib mengatakan; Umayyah bin Shafwan tidak mengatakan; aku mendengarnya dari Kaldah bin Hanbal, dan Yahya juga berkata; Amru bin Abdullah bin Shafwan memberitahunya bahwa Kaldah bin Al Hanbal telah mengabarkan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5176</td></tr><tr><td>Arabic No</td><td>5176</td></tr><tr><td>Reference</td><td>Book 43 Hadith 404</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5176</td></tr><tr><td>Arabic No</td><td>5176</td></tr><tr><td>Reference</td><td>Book 43 Hadith 404</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been narrated by Jabir through a differen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Az Zubair], bahwa ia mendengar [Jabir] berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam melarang untuk duduk di atas kuburan dan mengecatnya serta membangun di atasnya. Telah menceritakan kepada kami [Musaddad] dan [Utsman bin Abu Syaibah?] mereka berkata; telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Ibnu Juraij] dari [Sulaiman bin Musa], dan dari [Abu Az Zubair] dari [Jabir] dengan hadits ini. Abu Daud berkata; Utsman berkata; atau ditambahkan sesuatu di atasnya. Sedang Sulaiman bin Musa berkata; atau dituliskan sesuatu di atasnya. Dan Musaddad tidak menyebutkan dalam hadits tersebut; atau ditambahkan sesuatu di atasnya. Abu Daud berkata; dan tidak aku ketahui dari hadits Musaddad satu huruf yaitu wa an (dan untuk)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3226</td></tr><tr><td>Arabic No</td><td>3226</td></tr><tr><td>Reference</td><td>Book 21 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Приведя этот хадис от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, Абу Дауд сказал: «‘Усман передал: “…или добавлять к ней что-то”. А в версии Сулеймана ибн Мусы имеется добавление: “…или делать надписи на ней”. А Мусаддад не упоминал в своей версии: “…или добавлять к ней что-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3226</td></tr><tr><td>Arabic No</td><td>3226</td></tr><tr><td>Reference</td><td>Book 21 Hadith 138</td></tr></tbody></table></div>
 

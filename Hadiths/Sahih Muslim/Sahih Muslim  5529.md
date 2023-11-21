@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported she had a cloth havinc, pictures upon it and it was hanging upon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Abdurrahman bin Al Qasim] ia berkata; Aku mendengar [Al Qasim] bercerita dari ['Aisyah] bahwa Aisyah memiliki kain bergambar yang membentang sampai ke raknya. Dan Nabi shallallahu 'alaihi wasallam pernah hendak shalat menghadapnya, maka kemudian beliau bersabda: "Singkirkanlah dariku. Aisyah berkata; 'Kemudian aku menyingkirkannya.' Setelah itu aku jadikan kain itu menjadi bantal-bantal. Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim] dan ['Uqbah bin Mukram] dari [Sa'id bin 'Amir]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Abu 'Amir Al 'Aqadi] seluruhnya dari [Syu'bah] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5529</td></tr><tr><td>Arabic No</td><td>2107.10</td></tr><tr><td>Reference</td><td>Book 37 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5529</td></tr><tr><td>Arabic No</td><td>2107.10</td></tr><tr><td>Reference</td><td>Book 37 Hadith 142</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Nous, Abou Talha et moi, rentrions e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Yahya bin Abu Ishaq] ia berkata, [Anas bin Malik] berkata; Kami pernah kembali pulang bersama Rasulullah shallallahu 'alaihi wasallam yakni, saya dan Abu Thalhah serta Shafiyyah yang membonceng di atas Untanya. Dan ketika kami tiba di depan kota Madinah, beliau membaca do'a: "AAYIBUUNA TAA'IBNUUNA 'AABIDUUNA LIRABBINAA HAAMIDUUNA (Kami kembali dengan bertaubat, tetap beribadah dan selalu memuji Rabb kami)." Dan beliau terus membacanya hingga kami sampai di kota Madinah. Dan Telah menceritakan kepada kami [Humaid bin Mas'adah] Telah menceritakan kepada kami [Bisyr Al Mufadldlal] Telah menceritakan kepada kami [Yahya bin Abu Ishaq] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>1345.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 484</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>1345.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 484</td></tr></tbody></table></div>
 

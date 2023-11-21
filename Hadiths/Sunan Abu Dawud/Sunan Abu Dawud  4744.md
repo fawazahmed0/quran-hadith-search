@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) said: When Allah created Para
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Muhammad bin Amru] dari [Abu Salamah] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika selesai menciptakan surga, Allah berfirman kepada Jibril: "Pergi dan lihatlah surga itu." Jibril kemudian pergi dan melihat surga, setelah itu ia kembali lagi seraya berkata, "Wahai Rabb, demi kemuliaan-Mu, tidak seorang pun yang mendengar tentangnya kecuali ia ingin memasukinya." Kemudian Allah menutupi (merintangi) surga dengan hal-hal yang tidak disukai (oleh manusia). Lantas Allah berfirman: "Wahai Jibril, pergi dan lihatlah surga itu." Jibril kemudian pergi dan melihat surga, setelah itu ia kembali lagi seraya berkata, "Wahai Rabb, demi kemuliaan-Mu, aku kawatir tidak ada seorang pun yang hendak memasukinya." Beliau bersabda: "Ketika selesai menciptakan neraka, Allah berfirman: "Wahai Jibril, pergi dan lihatlah neraka itu." Jibril kemudian pergi dan melihat neraka, setelah itu ia kembali lagi seraya berkata, "Wahai Rabb, demi kemuliaan-Mu, tidak seorang pun yang mendengar tentangnya kemudian timbul keinginan untuk memasukinya." Allah kemudian menutupi neraka dengan syahwat (kesenangan atau yang disukai manusia), lantas Allah berfirman: "Wahai Jibril, pergi dan lihatlah neraka." kemudian Jibril pergi dan melihat neraka, setelah itu ia kembali lagi dan berkata, "Wahai Rabb, demi kemuliaan-Mu, aku kawatir tidak ada seorang pun yang bakal tersisa (selamat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4744</td></tr><tr><td>Arabic No</td><td>4744</td></tr><tr><td>Reference</td><td>Book 42 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Сотворив Рай, Аллах сказал Джибрилю: “Пойди и посмотри на него”. Он пошёл и посмотрел на него, а вернувшись, сказал: “Господи! Клянусь могуществом Твоим, войдёт туда каждый, кто услышит о нём!” Тогда Аллах сокрыл Рай за тем, что неприятно и ненавистно, и снова сказал: “О Джибриль, пойди и посмотри на него”. Он пошёл и посмотрел на него, а вернувшись, сказал: “Господи! Клянусь могуществом Твоим, я боюсь, что теперь туда вообще никто не войдёт!” Сотворив Ад, Аллах сказал: “О Джибриль, пойди и посмотри на него”. Он пошёл и посмотрел на него, а вернувшись, сказал: “Господи! Клянусь могуществом Твоим, не войдёт туда никто из тех, кто услышит о нём!” Тогда Аллах сокрыл Ад за страстями и снова сказал: “О Джибриль, пойди и посмотри на него”. Он пошёл и посмотрел на него, а вернувшись, сказал: “Господи! Клянусь могуществом Твоим, я боюсь, что теперь не останется того, кто не попадёт туда!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4744</td></tr><tr><td>Arabic No</td><td>4744</td></tr><tr><td>Reference</td><td>Book 42 Hadith 149</td></tr></tbody></table></div>
 

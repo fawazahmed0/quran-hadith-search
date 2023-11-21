@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain (Allah be pleased with them) reported that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abdullah bin Muhammad bin Asma' Adl Dluba'] telah menceritakan kepada kami [Mahdi] ia dalah Ibnu Maimun, Telah menceritakan kepada kami [Ghailan bin Jarir] dari [Mutharrif] dari [Imran bin Hushain] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam bertanya kepadanya atau kepada seorang laki-laki sementara ia mendengarnya: "Wahai Fulan, apakah kamu telah puasa di akhir bulan (Sya'ban) ini?" laki-laki itu menjawab, "Tidak." Beliau bersabda: "Jika kamu telah usai menunaikah puasa Ramadlan, maka berpuasalah dua hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2745</td></tr><tr><td>Arabic No</td><td>1161.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2745</td></tr><tr><td>Arabic No</td><td>1161.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 251</td></tr></tbody></table></div>
 

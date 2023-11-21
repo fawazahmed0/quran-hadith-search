@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Dinar narrated that he heard Ibn 'Umar (Allah be pleased with them) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr]. Yahya bin Yahya mengatakan; Telah mengabarkan kepada kami, sedangkan yang lain mengatakan; Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Abdullah bin Dinar] bahwa dia mendengar [Ibnu Umar] berkata; Seorang laki-laki mengadukan kepada Rasulullah Shallallu 'alaihi wa sallam bahwa dirinya telah ditipu orang dalam dalam jual beli, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian berjual beli, maka katakanlah kepada penjual; Jangan menipu." Setelah itu, apabila dia melakukan jual beli, dia selalu mengatakan; "Jangan menipu." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] keduanya dari [Abdullah bin Dinar] dengan isnad seperti ini, namun dalam hadits keduanya disebutkan; "Bahwa apabila dia melakukan jual beli, dia mengatakan; "Jangan menipu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3860</td></tr><tr><td>Arabic No</td><td>1533.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3860</td></tr><tr><td>Arabic No</td><td>1533.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 59</td></tr></tbody></table></div>
 

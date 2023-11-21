@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: We used to salute during prayer and talk about our
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami ['Ashim] dari [Abu Wa'il] dari [Abdullah] dia berkata; "Kami pernah memberi salam dalam shalat dan memerintahkan supaya hajat kami di penuhi, kemudian kami datang menemui Rasulullah shallallahu 'alaihi wasallam, ketika itu beliau sedang mengerjakan shalat, lantas aku pun memberi salam kepadanya, namun beliau tidak menjawab salamku, sehingga aku teringat dengan masa laluku dan masa sekarang,. Ketika shalat selesai, Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menetapkan perintah-Nya sesuai kehendak-Nya, dan Allah Jalla wa 'Azza telah menetapkan perintah-Nya yaitu janganlah kamu berbicara ketika sedang shalat." kemudian beliau menjawab salamku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>924</td></tr><tr><td>Arabic No</td><td>924</td></tr><tr><td>Reference</td><td>Book 2 Hadith 535</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал ‘Абдуллах, да будет доволен им Аллах: «Во время молитвы мы приветствовали и отдавали нужные веления. И вот я прибыл к Посланнику Аллаха ﷺ когда он совершал молитву, и поприветствовал его, однако он не ответил на моё приветствие. Я принялся думать о том, что такого я мог сделать, давно и недавно. Завершив молитву, Посланник Аллаха ﷺ сказал: “Поистине, Всемогущий и Великий Аллах велит, что пожелает, и, поистине, Всевышний Аллах повелел, чтобы во время молитвы вы не разговаривали”. После этого он ответил на моё приветствие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>924</td></tr><tr><td>Arabic No</td><td>924</td></tr><tr><td>Reference</td><td>Book 2 Hadith 535</td></tr></tbody></table></div>
 

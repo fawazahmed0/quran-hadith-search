@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yali:I participated in the Ghazwa of Tabuk along with Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Ibnu Juraij] dari ['Atha'] dari [Shofwan binYa'laa] dari [bapaknya radliallahu 'anhu] berkata: "Aku ikut berperang bersama Rasulullah shallallahu 'alaihi wasallam dalam perang Tabuk dimana aku menshadaqahkan seekor unta muda yang ini menjadi amalku yang paling kokoh tertanam dalam jiwaku. Kemudian aku memberi upah seseorang lalu dia berperang melawan musuhnya sehingga salah satu dari keduanya menggigit tangan lawannya lalu memuntahkannya dari mulutnya hingga jarina putus. Lalu dia menemui Nabi shallallahu 'alaihi wasallam dan mengadukan persoalannya itu, maka Beliau berkata: "Apakah dia melepaskan tangannya kepadamu lalu kamu menggigitnya seperi unta menggigit?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2973</td></tr><tr><td>Arabic No</td><td>2973</td></tr><tr><td>Reference</td><td>Book 56 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Йа‘ля бин Умаййа, да будет доволен им Аллах, сказал: «Я принимал участие в походе на Табук вместе с посланником Аллаха ﷺ и дал верблюда (другому), что я считаю одним из лучших своих дел. И я нанял работника, который подрался с каким-то человеком, и один из них укусил другого (за руку, а укушенный) вырвал руку из его рта вместе с передним зубом укусившего. (После этого человек, лишившийся зуба,) явился к Пророку ﷺ (с жалобой,) но он не удовлетворил (его просьбу) и воскликнул: “Что же, теперь ты должен дать ему свою руку, чтобы он укусил её подобно тому, как это делает верблюд?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2973</td></tr><tr><td>Arabic No</td><td>2973</td></tr><tr><td>Reference</td><td>Book 56 Hadith 182</td></tr></tbody></table></div>
 

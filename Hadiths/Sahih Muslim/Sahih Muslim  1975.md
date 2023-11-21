@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burda b. Abu Musa al-Ash'ari reported:'Abdullah b. Umar said to me: Did you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Ali bin Khasyram] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] dari [Makhramah bin Bukair] -dalam jalur lain- Dan telah menceritakan kepada kami [Harun bin Sa'id Al Aili] dan [Ahmad bin Isa] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Makhramah] dari [bapaknya] dari [Abu Burdah bin Abu Musa Al Asy'ari] ia berkata; Abdullah bin Umar bertanya padaku, "Apakah kamu pernah mendengar [ayahmu] meriwayatkan hadits dari Rasulullah shallallahu 'alaihi wasallam perihal satu waktu (yang mustajab) pada hari Jum'at?" Abu Burdah berkata; Saya menjawab, "Ya, aku mendengarnya berkata: Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Waktunya ialah antara imam duduk (di mimbar) hingga selesai shalat Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1975</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бурда ибн Абу Муса аль-Аш‘ари сказал: «(Как-то раз) ‘Абдуллах ибн ‘Умар спросил (меня): “Не приходилось ли тебе слышать, как твой отец передавал слова Посланника Аллаха ﷺ об одном периоде пятницы?” Я сказал: “Да, я слышал, как он сказал, что слышал, как Посланник Аллаха ﷺ сказал: ‹(Этот период начинается с того момента, когда) имам усаживается (на минбаре), и продолжается до завершения молитвы›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1975</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
 

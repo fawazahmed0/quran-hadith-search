@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Salman who said:I heard the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdurrahman bin Bahram Ad Darimi] telah menceritakan kepada kami [Abu Al Walid At Thayalisi] telah menceritakan kepada kami [Laits] -yaitu Ibnu Sa'd- dari [Ayyub bin Musa] dari [Makhul] dari [Syurahbil bin As Simth] dari [Salman] dia berkata, "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ribath (berjaga-jaga di perbatasan) sehari semalam lebih baik daripada puasa dan shalat malam sebulan penuh, jika dia meninggal maka amalannya senantiasa mengalir sebagaimana yang pernah dia amalkan, mengalir pula rizkinya dan terbebas dari fitnah." Telah menceritakan kepada kami [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Abdurrahman bin Syuraih] dari [Abdul Karim bin Al Harits] dari [Abu 'Ubaidah bin 'Uqbah] dari [Syurahbil bin As Simth] dari [Salman Al Khair] dari Rasulullah shallallahu 'alaihi wasallam semakna dengan haditsnya Laits dari Ayyub bin Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4938</td></tr><tr><td>Arabic No</td><td>1913.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4938</td></tr><tr><td>Arabic No</td><td>1913.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 233</td></tr></tbody></table></div>
 

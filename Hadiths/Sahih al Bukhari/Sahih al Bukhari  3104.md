@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) stood up and delivered a sermon, and pointi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Juwairiyah] dari [Nafi'] dari ['Abdullah radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam berdiri menyampaikan khutbah kepada kami lalu memberi isyarat ke arah tempat tinggal 'Aisyah seraya bersabda: "Disana ada fitnah, sebanyak tiga kali, Disanalah tempat munculnya tanduk syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3104</td></tr><tr><td>Arabic No</td><td>3104</td></tr><tr><td>Reference</td><td>Book 57 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, да будет доволен им Аллах, что (однажды) Пророк ﷺ встал, обратившись к людям и указав в сторону дома ‘Аиши (на восток), сказал: «Смута — вот здесь», трижды. (Пророк ﷺ:) «Откуда выходит рог шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3104</td></tr><tr><td>Arabic No</td><td>3104</td></tr><tr><td>Reference</td><td>Book 57 Hadith 13</td></tr></tbody></table></div>
 

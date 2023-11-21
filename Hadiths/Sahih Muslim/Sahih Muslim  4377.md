@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Muhammad bin Al Mutsanna] dan ini adalah lafadz Ahmad, keduanya berkata; telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah berdiri di tengah-tengah kami seraya bersabda: "Demi Dzat yang tidak ada tuhan yang berhak disembah selain Dia. Tidak halal darah seorang muslim yang telah bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan aku adalah utusan Allah, kecuali dari tiga orang berikut ini; seseorang yang murtad dari Islam dan meninggalkan jama'ah, atau dari jama'ah -Ahmad ragu dalam riwayatnya-, orang yang telah menikah yang berzina dan seseorang yang membunuh orang lain." [A'masy] berkata; aku telah menceritakan hadits ini kepada [Ibrahim], lalu ia menceritakan kepadaku dari [Al Aswad] dari ['Aisyah] seperti itu." Dan telah menceritakan kepadaku [Hajjaj bin Sya'ir] dan [Qasim bin Zakaria] keduanya berkata; telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Syaiban] dari [Al A'masy] dengan menggunakan kedua sanad mereka, seperti hadits Sufyan. Namun keduanya tidak menyebutkan dalam haditsnya sabda Nabi: 'Demi Dzat yang tidak ada tuhan yang berhak disembah selian Dia (allah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4377</td></tr><tr><td>Arabic No</td><td>1676.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4377</td></tr><tr><td>Arabic No</td><td>1676.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 36</td></tr></tbody></table></div>
 

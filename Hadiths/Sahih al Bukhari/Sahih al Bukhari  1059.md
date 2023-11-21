@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The sun eclipsed and the Prophet (ﷺ) got up, being afraid th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa] berkata, "Ketika terjadi gerhana matahari, Nabi shallallahu 'alaihi wasallam berdiri dengan tergesa-gesa seolah akan terjadi hari kiamat. Beliau lantas mendatangi masjid dan shalat dengan berdiri, rukuk dan sujud yang paling panjang, yang pernah aku lihat dari yang beliau pernah lakukan. Kemudian beliau bersabda: "Inilah dua tanda-tanda yang Allah kirimkan, ia tidak terjadi karena hidup atau matinya seseorang, tetapi '(Dia, Allah mempertakuti hamba-hambaNya dengannya) ' (Qs. Az ZUmar: 16). Maka jika kalian melihat sesuatu padanya (gerhana), maka segeralah untuk mengingat Allah, berdoa dan minta ampunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1059</td></tr><tr><td>Arabic No</td><td>1059</td></tr><tr><td>Reference</td><td>Book 16 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «Когда произошло солнечное затмение, Пророк ﷺ в страхе встал (со своего места), опасаясь, что настал Час этот, пришёл в мечеть и стал совершать намаз, и я никогда прежде не видел, чтобы он стоял и склонялся в поясных и земных поклонах так долго, (а потом) он сказал: “Ни смерть, ни жизнь никого (из людей) не (может) служить причиной этих знамений, посылаемых Аллахом, но ими Аллах внушает страх Своим рабам, а поэтому, когда вы увидите что-нибудь подобное, начинайте поминать Его, взывать к Нему с мольбами и просить Его о прощении”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1059</td></tr><tr><td>Arabic No</td><td>1059</td></tr><tr><td>Reference</td><td>Book 16 Hadith 18</td></tr></tbody></table></div>
 

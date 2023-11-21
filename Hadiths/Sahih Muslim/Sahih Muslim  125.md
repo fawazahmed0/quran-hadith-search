@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira that the Messenger of Allah said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu ath-Thahir] dan [Harmalah bin Yahya] serta [Ahmad bin Isa], [Ahmad] berkata, 'Telah menceritakan kepada kami'. Sedangkan dua orang lainnya berkata, 'Telah mengabarkan kepada kami [Ibnu Wahb] dia berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah menceritakan kepadaku [Sa'id bin al-Musayyab] bahwa [Abu Hurairah] mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka mengucapkan, 'Tidak ada tuhan (yang berhak disembah) melainkan Allah', maka barangsiapa yang mengucapkan, 'Tidak ada tuhan (yang berhak disembah) melainkan Allah', maka sungguh dia telah menjaga harta dan jiwanya dari (seranganku) kecuali dengan hak Islam, dan hisabnya diserahkan kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>125</td></tr><tr><td>Arabic No</td><td>21.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб сказал: «Рассказал мне Са‘ид ибн аль-Мусаййаб о том, что Абу Хурайра, да будет доволен им Аллах, сообщил ему, что Посланник Аллаха ﷺ сказал: “Мне было велено сражаться с этими людьми до тех пор, пока они не скажут: “Нет бога, достойного поклонения, кроме Аллаха/Ля иляха илля-Ллах/”, а кто скажет Ля иляха илля-Ллах (тем самым) защитит от меня своё имущество и свою жизнь, если только (не совершит ничего такого, за что можно будет лишить его имущества или жизни) по праву, и тогда (лишь) Аллах (сможет потребовать) от него отчёта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>125</td></tr><tr><td>Arabic No</td><td>21.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 33</td></tr></tbody></table></div>
 

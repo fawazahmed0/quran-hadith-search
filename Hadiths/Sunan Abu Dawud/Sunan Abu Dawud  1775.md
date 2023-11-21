@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn Abi Waqqas: When the Prophet of Allah (peace be upon him0 unde
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Basysyar], telah menceritakan kepada Kami [Wahb yaitu Ibnu Jarir], ia berkata; telah menceritakan kepada Kami [ayahku], ia berkata; saya mendengar [Muhammad bin Ishaq] menceritakan dari [Abu Az Zinad] dari [Aisyah binti Sa'd bin Abu Waqqash], ia berkata; [Sa'd bin Abu Waqqash] berkata; Nabi Shalla Allahu 'alaihi wa sallam apabila melewati jalan Al Fur' beliau bertalbiyah apabila kendaraannya sudah berada pada tempat yang tinggi, dan apabilla melewati jalan Uhud beliau bertalbiyah apabila sudah naik di atas gunung Baida
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1775</td></tr><tr><td>Arabic No</td><td>1775</td></tr><tr><td>Reference</td><td>Book 11 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши бинт Са‘д ибн Абу Ваккаса, что Са‘д ибн Абу Ваккас сказал: «Проезжая по дороге, ведущей в Аль-Фур (место между Меккой и Мединой), Пророк Аллаха ﷺ произносил тальбию, когда верблюдица поднималась с ним и трогалась с места, а выехав на дорогу, ведущую к Ухуду, он произносил тальбию, когда поднимался на холм Байды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1775</td></tr><tr><td>Arabic No</td><td>1775</td></tr><tr><td>Reference</td><td>Book 11 Hadith 55</td></tr></tbody></table></div>
 

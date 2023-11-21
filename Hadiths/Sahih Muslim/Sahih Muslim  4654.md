@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jundub b. Sufyan who said:A finger of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] keduanya dari [Abu 'Awanah], [Yahya] berkata; telah mengabarkan kepada kami [Abu 'Awanah] dari [Al Aswad bin Qais] dari [Jundub bin Sufyan] dia berkata, "Jari Rasulullah shallallahu 'alaihi wasallam pernah terluka dalam suatu peperangan, maka beliau bersabda: "Bukankah engkau hanya sebatang jari yang berdarah? Dan ini terjadi ketika engkau ikut berjihad fi sabilillah." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari [Ibnu 'Uyainah] dari [Al Aswad bin Qais] dengan isnad ini, dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah masuk ke dalam goa, tiba-tiba salah satu jari beliau mengalirkan darah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4654</td></tr><tr><td>Arabic No</td><td>1796.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4654</td></tr><tr><td>Arabic No</td><td>1796.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 136</td></tr></tbody></table></div>
 

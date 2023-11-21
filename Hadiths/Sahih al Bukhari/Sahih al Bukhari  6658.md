@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) was asked, "Who are the best people?" He re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] telah menceritakan kepada kami [Syaiban] dari [Manshur] dari [Ibrahim] dari ['Abidah] dari ['Abdullah] mengatakan, Pernah Nabi shallallahu 'alaihi wasallam ditanya; "Siapakah manusia yang terbaik?" Nabi menjawab: "yaitu generasiku, kemudian generasi sesudah mereka, kemudian generasi sesudah mereka, kemudian akan datang suatu kaum yang kesaksian mereka mendahului sumpahnya, dan sumpahnya mendahului kesaksian mereka." Kata Ibrahim; 'dan kawan-kawan kami -ketika itu kami masih kecil-melarang kami bersumpah untuk melaksanakan kesaksian dan janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6658</td></tr><tr><td>Arabic No</td><td>6658</td></tr><tr><td>Reference</td><td>Book 83 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) Пророка ﷺ спросили: “Кто является лучшим из людей?” (Пророк ﷺ) сказал: «Мои современники, затем — следующие за ними, а затем — следующие за ними. А потом придут люди, свидетельство каждого из которых будет опережать их клятву, а их клятва (будет опережать) их свидетельство». \nИбрахим (ан-Наха‘и) сказал: «Когда мы были маленькими, наши товарищи запрещали нам клясться словами свидетельства и обещания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6658</td></tr><tr><td>Arabic No</td><td>6658</td></tr><tr><td>Reference</td><td>Book 83 Hadith 37</td></tr></tbody></table></div>
 

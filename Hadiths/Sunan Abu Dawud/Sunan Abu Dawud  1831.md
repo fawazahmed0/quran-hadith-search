@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Salim ibn Abdullah said: Abdullah ibn Umar used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Ibnu Abu 'Adi] dari [Muhammad bin Ishaq], ia berkata; aku menyebutkan kepada [Ibnu Syihab], ia berkata; telah menceritakan kepadaku [Salim bin Abdullah] bahwa [Abdullah bin Umar] melakukan hal tersebut yaitu memotong sepatu untuk seorang wanita yang berihram, kemudian [Shafiyyah binti Abu 'Ubaid] menceritakan kepadanya bahwa [Aisyah] telah menceritakan kepadanya bahwa Rasulullah shallAllahu wa'alaihi wa sallam memberikan keringanan kepada para wanita untuk memakai sepatu, kemudian Ibnu meninggalkan hal tersebut (memotong sepatu untuk wanita)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>1831</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт, что ‘Абдуллах ибн ‘Умар поступал так, то есть обрезал хуффы для женщин, пребывающих в состоянии ихрама, а потом Сафийя бинт Абу ‘Убайд (жена Ибн ‘Умара) сообщила ему, что ‘Аиша, да будет доволен ею Аллах, сказала ей, что Посланник Аллаха ﷺ дал женщинам разрешение относительно хуффов, и он перестал делать это
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>1831</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) started ascending a high place or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abu Al Hasan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Sulaiman At Taimi] dari [Abu Utsman] dari [Abu Musa Al Asy'ari] dia berkata; "Nabi shallallahu 'alaihi wasallam pernah lewat di suatu bukit atau berkata; di suatu lembah, tatkala (kondisi jalan) agak naik, salah seorang berseru sambil mengangkat suaranya; "Laa illaha illallah Allahu Akbar (Tidak ada Tuhan yang berhak disembah kecuali Allah, Allah Maha Besar)." Abu Musa melanjutkan; 'Ketika itu Rasulullah shallallahu 'alaihi wasallam tengah berada di atas hewan tunggangannya, lalu beliau bersabda: 'Sesungguhnya kalian tidak berdoa kepada Dzat yang tuli dan jauh.' Kemudian beliau bersabda: 'Wahai Abu Musa, -atau- wahai Abdullah, maukah aku tunjukkan kepadamu suatu kalimat yang termasuk dari perbendaharaan surga? ' Aku menjawab; 'Tentu.' Beliau bersabda: 'Laa haula wa laa quwwata ilIa billaah' Tiada daya dan upaya kecuali dengan pertolongan AlIah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6409</td></tr><tr><td>Arabic No</td><td>6409</td></tr><tr><td>Reference</td><td>Book 80 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ следовал по горной тропе (или: по склону горы), и один человек, поднявшись на гору, воскликнул, повысив свой голос: “Нет божества, достойного поклонения, кроме Аллаха, и Аллах Велик!” И Посланник Аллаха ﷺ сидя верхом на своей белой мулице сказал: “Поистине, вы взываете не к глухому и не к отсутствующему”. Затем (Посланник Аллаха ﷺ) сказал: “О Абу Муса (или: О ‘Абдуллах), не указать ли мне тебе на одно из сокровищ Рая?” Я сказал: “Да” Он сказал: “Слова ‹Нет силы и способности изменить что-либо ни у кого, кроме как от Аллаха /Ля хауля ва ля куввата илля би-Ллях/›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6409</td></tr><tr><td>Arabic No</td><td>6409</td></tr><tr><td>Reference</td><td>Book 80 Hadith 104</td></tr></tbody></table></div>
 

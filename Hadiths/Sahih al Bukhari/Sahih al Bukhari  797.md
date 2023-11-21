@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:Abu Hurairah said, "No doubt, my Salat is similar to that of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] dari [Abu Hurairah] berkata, "Aku akan contohkan shalatnya Nabi shallallahu 'alaihi wasallam." Abu Hurairah? radliallahu 'anhu membaca do'a qunut pada rakaat terakhir dalam shalat Zhuhur, shalat 'Isya dan shalat Shubuh setelah mengucapkan 'SAMI'ALLAHU LIMAN HAMIDAH (semoga Allah mendengar pujian orang yang memuji-Nya) '." Maka dia mendo'akan Kaum Mu'minin dan melaknat orang-orang kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>797</td></tr><tr><td>Arabic No</td><td>797</td></tr><tr><td>Reference</td><td>Book 10 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Салямы, что Абу Хурайра, сказал: «Я непременно покажу вам, как совершал молитву Посланник Аллаха ﷺ!» (Абу Саляма) сказал: «И Абу Хурайра совершал кунут в последнем рак‘ате полуденной /зухр/, вечерней /‘Иша/ и утренней /субх/ молитв после слов: “Сами‘а Аллаху лиман хамидах”, обращался к Аллаху с мольбами за верующих и проклинал неверующих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>797</td></tr><tr><td>Arabic No</td><td>797</td></tr><tr><td>Reference</td><td>Book 10 Hadith 192</td></tr></tbody></table></div>
 

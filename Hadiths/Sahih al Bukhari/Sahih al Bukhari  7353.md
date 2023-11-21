@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubai bin 'Umar:Abu Musa asked permission to enter upon 'Umar, but seei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] telah menceritakan kepadaku ['Atha] dari ['Ubaid bin Umair] berkata, " [Abu Musa] meminta ijin Umar, lantas ia temukan seolah-olah Umar sangat sibuk sehingga Abu musa pulang. Maka Umar berkata, 'Tidakkah aku mendengar suara Abdullah bin Qais? Tolong berilah dia ijin (masuk).' Lantas Abdullah pun diundang. Kata Umar, 'Apa yang mendorongmu melakukan yang kau lakukan? ' Abdullah menjawab, 'Kami diperintahkan yang demikian.' Umar berkata, 'Berilah aku bukti atau aku akan mengerjaimu! ' Lantas Abdullah bertolak ke sebuah majlis anshar, lalu mereka katakan, 'Tidak ada yang bersaksi selain anak-anak muda kami! Lantas [Abu Sa'id alkhudzri] datang dan bersaksi, 'Kami diperintah demikian.' Lantas Umar berkata, 'Sayang, saya tidak mendapat penjelasan yang jelas dari tuntunan Nabi shallallahu 'alaihi wasallam dalam hal ini, aku dilalaikan oleh bisnisku di pasar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7353</td></tr><tr><td>Arabic No</td><td>7353</td></tr><tr><td>Reference</td><td>Book 96 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убайдуллаха ибн ‘Умайра, что однажды Абу Муса, да будет доволен им Аллах, попросил позволения войти к ‘Умару, да будет доволен им Аллах, но не получил его, так как (‘Умар), кажется, был чем-то занят, и Абу Муса вернулся к себе. (Освободившись), ‘Умар сказал: «Я слышал голос ‘Абдуллаха ибн Кайса, не так ли? Впустите же его». И когда его позвали, ‘Умар спросил: «Что побудило тебя поступить так?» Абу Муса ответил «Поистине, нам всегда велели поступать так». (‘Умар) сказал: «Предоставь мне доказательство этого, иначе я непременно сделаю с тобой (то-то и то-то)» — после чего (Абу Муса) отправился к месту встреч ансаров, и они сказали: «Засвидетельствовать это для тебя сможет только самый младший из нас». Тогда встал Абу Са‘ид аль-Худри и сказал: «Нам велели поступать так». И тогда ‘Умар воскликнул: «Это веление Пророка ﷺ осталось скрытым от меня, и отвлекло меня хлопанье на рынках!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7353</td></tr><tr><td>Arabic No</td><td>7353</td></tr><tr><td>Reference</td><td>Book 96 Hadith 80</td></tr></tbody></table></div>
 

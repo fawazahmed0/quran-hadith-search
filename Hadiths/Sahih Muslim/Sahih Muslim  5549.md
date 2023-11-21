@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bashir Ansari reported that he had had (the opportunity of accompanying Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; Aku membaca Hadits [Malik] dari ['Abdullah bin Abu Bakr] dari ['Abbad bin Tamim] bahwa [Abu Basyir Al Anshari] telah mengabarkan kepada kepadanya, sesungguhnya dia pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan. Dia berkata; suatu ketika Rasulullah shallallahu 'alaihi wasallam mengutus seorang utusan, -Abdullah bin Abu Bakr berkata; 'Aku kira Abu Basyir berkata seperti itu- sedangkan para sahabat berada di tempat penginapan mereka, yaitu untuk menyampaikan sabda beliau: "Putuskanlah semua kalung dari tali yang berada di leher unta.!" Malik berkata; 'Aku mengira larangan itu berlaku jika kalung tersebut bertujuan untuk menolak penyakit 'Ain (disebabkan mata)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5549</td></tr><tr><td>Arabic No</td><td>2115</td></tr><tr><td>Reference</td><td>Book 37 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5549</td></tr><tr><td>Arabic No</td><td>2115</td></tr><tr><td>Reference</td><td>Book 37 Hadith 160</td></tr></tbody></table></div>
 

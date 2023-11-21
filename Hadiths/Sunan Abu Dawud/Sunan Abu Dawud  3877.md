@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Qasis, daughter of Mihsan said :I brought my son to the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Hamid bin Yahya] mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ummu Qais binti Mihshan] ia berkata, "Aku pernah menemui Rasulullah shallallahu 'alaihi wasallam membawa anakku yang telah aku obati dari penyakit radang kelenjar leher (amandel). Kemudian beliau berkata: "Atas dasar apakah kalian menekan dan mengangkat tenggorokan anak kalian dengan mengangkat dagu mereka? Hendaknya kalian menggunakan gaharu India, karena sesungguhnya padanya terdapat tujuh macam obat, diantaranya adalah obat penyakit tulang rusuk, digunakan sebagai obat radang amandel yang dimasukkan dari hidung, serta obat penyakit rusuk yang dimasukkan lewat mulut." Abu Daud berkata, "Yang dimaksud dengan 'ud adalah gaharu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5713) Sahih Muslim (2214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3877</td></tr><tr><td>Arabic No</td><td>3877</td></tr><tr><td>Reference</td><td>Book 29 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Кайс бинт Михсан: «Как-то раз я пришла к Посланнику Аллаха ﷺ со своим сыном, которого ещё не отлучила от груди, сжимая пальцами припухлость на воспалённом горле младенца, (надеясь, что нарыв прорвётся и ему станет легче). (Пророк ﷺ) сказал: “Зачем вы (мучаете) своих детей этим надавливанием? Вам следует использовать это индийское алоэ, ибо оно исцеляет от семи недугов, в том числе и от воспаления горла, и от плеврита. От воспаления горла его вводят в нос, а от плеврита заливают в уголок рта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5713) Sahih Muslim (2214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3877</td></tr><tr><td>Arabic No</td><td>3877</td></tr><tr><td>Reference</td><td>Book 29 Hadith 23</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Three principles were established because of Barira: (i) When Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Rabi'ah bin Abu Abdurrahman] dari [Al Qasim bin Muhammad] dari [Aisyah] radliallahu 'anha, ia berkata; Pada Barirah terdapat tiga sunnah. Ia dimerdekakan, lalu diberi pilihan. Dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya hak waris kepemilikan budak (wala') itu adalah bagi yang memerdekakan." Kemudian suatu ketika, Rasulullah shallallahu 'alaihi wasallam masuk sementara periuk berada di atas api, lalu beliau pun disuguhkan roti beserta lauk. Maka beliau bersabda: "Bukankah tadi aku melihat periuk?" dikatakanlah pada beliau, "Periuk itu berisikan daging yang disedekahkan kepada Barirah, sementara Anda tidak makan sedekah." Beliau bersabda: "Baginya sedekah, tetapi bagi kita adalah hadiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 67 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «С Барирой связаны три сунны (предписания шариата). (Во-первых), после освобождения ей был предоставлен выбор (остаться с мужем или расстаться с ним). (Во-вторых), Посланник Аллаха ﷺ сказал (в отношении неё): “Право наследовать вольноотпущенника /аль-уаля/ принадлежит тому, кто освободил его”. (В-третьих), однажды, когда Посланник Аллаха ﷺ вошёл домой, на огне стоял котёл (с мясом), ему же принесли хлеб с домашней приправой. Он спросил: “Разве я не видел (на огне) котёл (с мясом)?” Ему ответили: “Это (мясо) было дано Барире в качестве милостыни, а ты ведь не ешь то, что было дано в качестве милостыни”. Тогда он сказал: “Для неё это милостыня, а для нас — подарок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 67 Hadith 35</td></tr></tbody></table></div>
 

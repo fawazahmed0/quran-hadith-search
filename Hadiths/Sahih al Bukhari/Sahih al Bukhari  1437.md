@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "When a woman gives in charity fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa'il] dari [Masruq] dari ['Aisyah radliallahu 'anha] berkata; Rasulullah Shallallahu'alaihiwasallam bersabda: "Jika seorang wanita bershadaqah dari makanan suaminya dan bukan bermaksud menimbulkan kerusakan maka baginya pahala atas apa yang diinfaqkan, dan bagi suaminya pahala atas apa yang diusahakannya. Demikian juga bagi seorang penjaga harta/bendahara (akan mendapatkan pahala)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1437</td></tr><tr><td>Arabic No</td><td>1437</td></tr><tr><td>Reference</td><td>Book 24 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Если женщина подаст в качестве милостыни что-то из еды, которую добыл её муж, не нанося при этом ущерба (имуществу), она получит награду за то, что отдаст, её муж получит награду за то, что он заработал, и такую же награду получит кладовщик»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1437</td></tr><tr><td>Arabic No</td><td>1437</td></tr><tr><td>Reference</td><td>Book 24 Hadith 40</td></tr></tbody></table></div>
 

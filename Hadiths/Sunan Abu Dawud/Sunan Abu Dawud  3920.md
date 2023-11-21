@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Prophet (ﷺ) did not take omens from anythi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Abdullah bin Buraidah] dari [Ayahnya], bahwa Nabi shallallahu 'alaihi wasallam tidak melakukan tathuyyur dari sesuatupun, beliau apabila telah mengutus seorang pekerja maka beliau bertanya mengenai namanya, apabila tertarik dengan namanya maka beliau senang dan terlihat kesenangan kepada hal tersebut pada wajah beliau. Dan apabila tidak menyukai namanya maka terlihat ketidak senangan kepada hal tersebut pada wajah beliau. Apabila beliau memasuki sebuah kampung maka beliau bertanya mengenai namanya, apabila tertarik dengan namanya maka beliau senang dan terlihat kesenangan kepada hal tersebut pada wajah beliau. Dan apabila beliau tidak menyukai nama tersebut maka terlihat ketidak senangan kepada hal tersebut pada wajah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3920</td></tr><tr><td>Arabic No</td><td>3920</td></tr><tr><td>Reference</td><td>Book 30 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абдуллах ибн Бурайда передаёт от своего отца, что Пророк ﷺ ничто не считал дурной приметой, однако, посылая кого-то по делу, он спрашивал о его имени, и если оно ему нравилось, он радовался и это было заметно по его лицу, а если имя ему не нравилось, это также было видно по его лицу. Входя в селение, он также спрашивал, как оно называется, и если название ему нравилось, он радовался и это было заметно по его лицу, а если название ему не нравилось, это также было заметно по его лицу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3920</td></tr><tr><td>Arabic No</td><td>3920</td></tr><tr><td>Reference</td><td>Book 30 Hadith 17</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A similar hadith is narrated on Jabir's authority in which the following words a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>109</td></tr><tr><td>Arabic No</td><td>15.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Ан-Ну‘ман ибн Къаукъаль сказал: “О Посланник Аллаха ....”, и (передаётся) нечто схожее, в котором он добавил: “И ничего не добавлю к этому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>109</td></tr><tr><td>Arabic No</td><td>15.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 17</td></tr></tbody></table></div>
 

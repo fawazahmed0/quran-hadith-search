@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: that the Prophet (ﷺ) forbade payment for a cat. I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Muhammad bin Abdul Malik] mereka berkata; telah menceritakan kepada kami [Abdurrazzaq] dari [Umar bin Zaid Ash Shan'ani] bahwa ia mendengar [Abu Az Zubair] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam telah melarang menjual kucing." Ibnu Abdul Malik menyebutkan, "Memakan daging kucing dan memakan hasil penjualannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>3807</td></tr><tr><td>Reference</td><td>Book 28 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ запретил использовать деньги, полученные за кошку. А в версии Ибн Абдульмалика говорится, что он запретил есть мясо кошки и использовать полученную за неё цену
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>3807</td></tr><tr><td>Reference</td><td>Book 28 Hadith 72</td></tr></tbody></table></div>
 

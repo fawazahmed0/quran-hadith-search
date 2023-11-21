@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Aflah, the brother of Abi Al-Qu'ais, asked permission to visit m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] Telah menceritakan kepadaku [Urwah bin Jubair] bahwa ['Aisyah radliallahu 'anha] berkata; bahwa Aflah, saudara Abu Al Qu'ais datang meminta izin untuk menemuinya setelah turunnya ayat hijab, Abu Al Qu'ais adalah ayah 'Aisyah dari susuan, Aisyah berkata; saya tidak akan mengizinkan Aflah masuk menemuiku sehingga saya meminta izin Rasulullah shallallahu 'alaihi wasallam terlebih dahulu. Karena bukan saudara Abu Al Qu'ais yang menyusuiku, tetapi istrinya yang menyusuiku. Setelah Rasulullah shallallahu 'alaihi wasallam datang, saya berkata; Wahai Rasulullah, sesungguhnya Aflah, yaitu saudara Abu Al Qu'ais telah datang minta izin untuk menemuiku, namun saya menolak mengizinkannya sebelum aku meminta izin kepada engkau. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Apa yang menghalangimu dari mengizinkan pamanmu?" Aisyah berkata; Ya Rasulullah, dia bukanlah yang menyusuiku, tapi istri Abu Al Qu'aislah yang menyusuiku. Lalu Nabi shallallahu 'alaihi wasallam bersabda: 'Izinkanlah ia, karena sesungguhnya ia adalah pamanmu, maka kamu akan beruntung.' Urwah berkata; Oleh karena itu Aisyah berkata; "Jadikanlah mahram saudara dari sesusuan sebagaimana kalian menjadikan mahram saudara dari keturunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4796</td></tr><tr><td>Arabic No</td><td>4796</td></tr><tr><td>Reference</td><td>Book 65 Hadith 318</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Как-то раз) после ниспослания (веления о) завесе разрешения войти ко мне попросил Афлях, брат Абу-ль-Ку‘айса. Я сказала: “Я не позволю ему (войти), пока не спрошу разрешения Пророка ﷺ на это, поскольку вскормил меня не его брат Абу-ль-Ку‘айс, а жена Абу-ль-Ку‘айса”. И когда Пророк ﷺ зашёл ко мне, я сказала ему: “О Посланник Аллаха, Афлях, брат Абу-ль-Ку‘айса, попросил разрешения войти ко мне, но я отказалась впустить его, пока не получу разрешения от тебя”. (На это) Пророк ﷺ сказал: “Что же помешало тебе разрешить ему (войти), он же — твой дядя?!” Я (снова) сказала: “О Посланник Аллаха, но вскормил-то меня не этот человек, а жена Абу-ль-Ку‘айса!” — и (тогда Пророк ﷺ) воскликнул: “Впусти же его, ведь он — твой дядя, да покроется пылью твоя правая рука!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4796</td></tr><tr><td>Arabic No</td><td>4796</td></tr><tr><td>Reference</td><td>Book 65 Hadith 318</td></tr></tbody></table></div>
 

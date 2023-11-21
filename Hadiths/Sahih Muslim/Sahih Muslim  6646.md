@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Surad reported that two persons abused each other in the presence of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Al A'laa] keduanya berkata; [Yahya] Telah mengabarkan kepada kami dan berkata [Ibnu Al A'laa]; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari ['Adi bin Tsabit] dari [Sulaiman bin Shurad] dia berkata; "Pada suatu hari ada dua orang laki-laki yang saling mencaci maki di sisi Rasulullah shallallahu 'alaihi wasallam. Kemudian salah seorang di antara keduanya merah kedua matanya (karena marah) dan keringatnya bercucuran. Lalu Rasulullah melihatnya dan berkata: 'Sungguh aku mengetahui satu kalimat yang seandainya diucapkan, maka marahnya akan hilang. Audzu billahi minasy-syaithaainir rajiim (Aku berlindung kepada Allah dari godaan syetan yang terkutuk).' ' Orang laki-laki yang marah tersebut berkata; 'Apakah kamu menganggap saya sudah gila? Ibnu Al 'Alaa'i berkata; Apakah kamu menganggap saya sudah gila? -tanpa menyebutkan kalimat 'ar rajul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6646</td></tr><tr><td>Arabic No</td><td>2610.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6646</td></tr><tr><td>Arabic No</td><td>2610.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 143</td></tr></tbody></table></div>
 

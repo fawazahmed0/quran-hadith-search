@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn Ubadah: Sa'd asked: Messenger of Allah, Umm Sa'd has died; wha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Israil], [Abu Ishaq] dari seorang [laki-laki], dari [Sa'd bin 'Ubadah], bahwa ia berkata; wahai Rasulullah, sesungguhnya ibuku yaitu Ummu Sa'd telah meninggal, maka sedekah apakah yang paling utama? Beliau bersabda: "Air." Orang tersebut mengatakan; kemudian Sa'd menggali sebuah sumur dan mengatakan; ini adalah untuk Ummu Sa'd
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1681</td></tr><tr><td>Arabic No</td><td>1681</td></tr><tr><td>Reference</td><td>Book 9 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘да ибн ‘Убады, да будет доволен им Аллах, что он сказал: «О Посланник Аллаха, поистине, мать Са‘да скончалась… Какая милостыня является наилучшей?» (Посланник Аллаха ﷺ) сказал: «Вода». И он выкопал колодец от имени матери
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1681</td></tr><tr><td>Arabic No</td><td>1681</td></tr><tr><td>Reference</td><td>Book 9 Hadith 126</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Should I not suggest to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] semuanya dari [Ismail bin Ja'far], [Ibnu Ayyub] berkata, telah menceritakan kepada kami [Ismail] telah mengabarkan kepada kami [Al Ala'] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Maukah kalian untuk aku tunjukkan atas sesuatu yang dengannya Allah menghapus kesalahan-kesalahan dan mengangkat derajat?" Mereka menjawab, "Tentu, wahai Rasulullah." Beliau bersabda: "Menyempurnakan wudlu pada sesuatu yang dibenci (seperti keadaan yang sangat dingin pent), banyak berjalan ke masjid, dan menunggu shalat berikutnya setelah shalat. Maka itulah ribath." Telah menceritakan kepadaku [Ishaq bin Musa Al Anshari] telah menceritakan kepada kami [Ma'n] telah menceritakan kepada kami [Malik]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] semuanya dari [Al Ala' bin Abdurrahman] dengan sanad ini. Hanya saja dalam hadits Syu'bah tidak disebutkan, 'ribath'. Sedangkan dalam hadits Malik disebutkan dua kali, 'Itulah ribath, itulah ribath
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>587</td></tr><tr><td>Arabic No</td><td>251.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (как-то раз) Посланник Аллаха ﷺ спросил (людей): «Не указать ли вам на то, посредством чего Аллах стирает прегрешения и возвышает степени (людей)?» Они стали говорить: «Конечно, о посланник Аллаха!» Тогда он сказал: «Это полноценное совершение омовения, невзирая на неприятное, множество шагов (по направлению) к мечетям и ожидание (следующей) молитвы после (совершения предыдущей), и это будет для вас (равносильно пребыванию в) рибате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>587</td></tr><tr><td>Arabic No</td><td>251.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 54</td></tr></tbody></table></div>
 

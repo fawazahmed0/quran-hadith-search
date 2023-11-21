@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported that the Messenger of Allah (ﷺ) obse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashim bin Nadlr At Taimi] telah menceritakan kepada kami [Khalid, yakni putra Al Harits] telah menceritakan kepada kami [Humaid] dari [Tsabit] dari [Anas] radliallahu 'anhu ia berkata; Rasulullah shallallahu 'alaihi wasallam melakukan puasa Wishal pada awal bulan Ramadlan sehingga orang-orang ikut melakukannya. Ketika hal itu sampai kepada beliau, beliau bersabda: "Sekiranya bulan itu dipanjangkan lagi, niscaya kami akan terus melakukan puasa wishal sehingga mereka yang berlebih-lebihan akan meninggalkan sikap berlebih-lebihannya itu. Sesungguhnya kalian tidaklah sebagaimana aku -atau beliau mengatakan- sesungguhnya aku tidaklah sebagaimana kalian, Rabb-ku senantiasa memberiku makan dan minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>1104.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>1104.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 77</td></tr></tbody></table></div>
 

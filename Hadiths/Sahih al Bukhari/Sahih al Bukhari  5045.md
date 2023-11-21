@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:I asked Anas bin Malik about the recitation of the Prophet. He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] Telah menceritakan kepada kami [Jarir bin Hazim Al Azdi] Telah menceritakan kepada kami [Qatadah] ia berkata; Aku pernah bertanya kepada [Anas bin Malik] mengenai bacaan Nabi shallallahu 'alaihi wasallam, maka ia pun menjawab, "Bacaan beliau adalah memanjangkan sehingga bisa dibaca
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5045</td></tr><tr><td>Arabic No</td><td>5045</td></tr><tr><td>Reference</td><td>Book 66 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Катада рассказал: «Я спросил Анаса ибн Малика о чтении Корана Пророком ﷺ? Он ответил: “Он удлинял определённые звуки”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5045</td></tr><tr><td>Arabic No</td><td>5045</td></tr><tr><td>Reference</td><td>Book 66 Hadith 69</td></tr></tbody></table></div>
 

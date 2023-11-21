@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:'Ali happened to stay behind the Prophet (ﷺ) and (did not join
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Hatim] dari [Yazid bin Abu 'Ubaid] dari [Salamah] berkata; 'Ali pernah tertinggal dari Nabi shallallahu 'alaihi wasallam dalam perang Khaibar karena saat itu dia terkena penyakit mata. Dia berkata; "Aku tertinggal dari Rasulullah shallallahu 'alaihi wasallam". Kemudian 'Ali keluar menyusul dan bertemu dengan Nabi shallallahu 'alaihi wasallam. Pada waktu malam hari dimana kemudian pada pagi harinya Allah memenangkan Kaum Muslimin, Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku akan memberikan bendera komando perang ini kepada seorang laki-laki", atau "Bendera ini akan diambil besok pagi oleh seorang laki-laki yang Allah dan Rasul-Nya mencintainya" atau sabda beliau: "Laki-laki itu mencintai Allah dan Rasul-Nya dan Allah akan memberi kemenangan ini lewat tangannya". Ketika kami bersama 'Ali padahal kami tidak menginginkan keberadaannya, mereka berkata; "Ini 'Ali". Maka Rasulullah shallallahu 'alaihi wasallam memberikan bendera itu kepadanya lalu Allah memberi kemenangan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 62 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма сказал: «В день Хайбара ‘Али отстал от Пророка ﷺ по причине боли в глазах. Затем ‘Али сказал: “Неужели я отстану от Посланника Аллаха ﷺ (только из-за боли в глазах)?!” Таким образом он отправился в путь (и ехал) пока не догнал Пророка ﷺ. Накануне дня завоевания Хайбара, Посланник Аллаха ﷺ сказал: “(Завтра) я непременно вручу это знамя тому человеку, который любит Аллаха и Его Посланника, и которого любят Аллах и Его Посланник, и которому Аллах дарует победу”. И вдруг мы увидели ‘Али, хотя мы и не ожидали его увидеть. Люди сказали: “Это ‘Али!” Посланник Аллаха ﷺ дал ему знамя и Аллах даровал ему победу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 62 Hadith 52</td></tr></tbody></table></div>
 

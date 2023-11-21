@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Keeping horses may be a sour
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik bin Anas] dari [Zaid bin Aslam] dari [Abu Shalih As Samman] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kuda itu ada yang bagi seseorang membawa pahala, ada yang menjadi penyelesaian atau solusi hidup dan ada yang mendatangkan dosa. Adapun orang yang mendapatkan pahala adalah orang yang menggunakan kudanya di jalan Allah dengan dia rawat dan pelihara kudanya di ladang hijau atau rerumputan yang setiap kali tali ikatannya mengenai tanaman atau rerumputan itu maka baginya hasanah (kebaikan) dan seandainya talinya terputus lalu kuda itu lari menjauh lalu mendaki satu atau dua bukit maka bekas dan apa yang diinjaknya menjadi kebaikan baginya dan seandainya kuda itu melewati sungai lalu minum dari air sungai tersebut sedangkan dia tidak berkehendak memberinya minum maka baginya hasanah dan itulah pahala baginya. Yang kedua, seorang yang menjadikan kudanya seagai alat untuk mencari kebutuhan hidup, namun dia tidak melupakan hak Allah pada kaki dan punggung kudanya maka kuda itu menjadi pelindung baginya. Dan yang ketiga, seorang yang menjadikan kudanya sebagai kebanggaan, pamer dan untuk permusuhan melawan Ummat Islam maka baginya mendatangkan dosa". Kemudian Rasulullah shallallahu 'alaihi wasallam ditanya tentang keledai maka beliau menjawab: "Tidak ada wahyu yang diturunkan kepadaku tentang hal itu melainkan firman Allah yang mencakup manfaat yang besar yaitu QS. Al Zalzalah ayat 7 dan 8 (yang artinya): ("Barangsiapa yang mengerjakan kebaikan seberat biji sawi sekalipun, niscaya dia akan melihat (balasan) nya. Dan barangsiapa yang mengerjakan kejahatan sebesar seberat biji sawi sekalipun, niscaya dia akan melihat (balasan) nya pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2371</td></tr><tr><td>Arabic No</td><td>2371</td></tr><tr><td>Reference</td><td>Book 42 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «За содержание лошадей один (человек может получить) награду, для другого они (могут стать) защитой, а для третьего — бременем. Что касается того, кто получит (за них) награду, то им является человек, который содержит лошадей на пути Аллаха, привязывая их (длинными верёвками) на пастбище или в саду, а (количество) добрых дел, которые запишутся такому человеку, будет соответствовать длине тех верёвок(, за которые он станет привязывать лошадей) на пастбище или в саду. Если оборвут они свою привязь и перейдут через один или два холма, то их владельцу (запишется) столько добрых дел, сколько следов и навоза они оставят, если же они пройдут мимо реки и напьются из неё, это также будет записано ему как добрые дела, даже если он и не намеревался поить (их), и за это он получит награду. И такая лошадь будет приносить такому (человеку) награду. (Другим) человеком является тот, кто содержит лошадей, обходясь тем, что он имеет, воздерживаясь (от обращений с просьбами к другим) и не забывая (отдавать) должное Аллаху в том, что касается их шей и спин. Для такого они послужат защитой. (Третьим является такой) человек, который держит лошадей только из гордости, напоказ другим или для борьбы с людьми, исповедующими Ислам: для такого они станут бременем». А затем Посланнику Аллаха ﷺ задали вопрос об ослах(, на что) он (дал такой ответ): «Мне не было ниспослано о них ничего (особого), если не считать этого всеобъемлющего и исключительного аята, (в котором сказано): “Тот, кто сделал добро весом в мельчайшую частицу, увидит его. И тот, кто сделал зло весом в мельчайшую частицу, увидит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2371</td></tr><tr><td>Arabic No</td><td>2371</td></tr><tr><td>Reference</td><td>Book 42 Hadith 19</td></tr></tbody></table></div>
 

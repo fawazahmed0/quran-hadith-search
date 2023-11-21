@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab:We migrated with the Prophet..(This narration is related in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Sufyan] dari [Al A'masy] dari [Abu Wa'il] dari [Khabbab] radliallahu 'anhu dia berkata; "Kami berhijrah bersama Rasulullah shallallahu 'alaihi wasallam..." Lalu perawi menceritakan (sambungan) hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6432</td></tr><tr><td>Arabic No</td><td>6432</td></tr><tr><td>Reference</td><td>Book 81 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Ваиля, что Хаббаб, да будет доволен им Аллах, сказал: «Мы переселились вместе с Пророком ﷺ».\n(Этот хадис приводится у имама аль-Бухари под номером 3897 в главе «Переселение в Медину Пророка ﷺ и его сподвижников, да будет доволен ими Аллах»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6432</td></tr><tr><td>Arabic No</td><td>6432</td></tr><tr><td>Reference</td><td>Book 81 Hadith 21</td></tr></tbody></table></div>
 

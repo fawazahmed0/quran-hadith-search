@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Jews used to greet the Prophet (ﷺ) by saying, "As-Samu 'Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari [Aisyah] radliallahu 'anha dia berkata; "Orang-orang Yahudi menyalami Nabi shallallahu 'alaihi wasallam dengan mengatakan; 'Assaamu'alaikum' Semoga kebinasaan atasmu. Ternyata Aisyah memahami ucapan mereka, lalu dia berkata; 'Wa'alaikumus saam wal la'nat Semoga kecelakaan dan laknat tertimpa atas kalian).' Lalu Nabi shallaallahu 'alaihi wa sallam bersabda: 'Pelan-pelanlah wahai Aisyah, sesungguhnya Allah mencintai sikap lemah lembut pada setiap perkara.' Aisyah berkata; 'Wahai Rasulullah! Apakah engkau tidak mendengar apa yang telah mereka katakan? ' Beliau menjawab: 'Apakah kamu tidak mendengar bahwa saya telah menjawab ucapan mereka, aku berkata; 'WA 'ALAIKUM' Dan semoga atas kalian juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6395</td></tr><tr><td>Arabic No</td><td>6395</td></tr><tr><td>Reference</td><td>Book 80 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что ‘Аиша, да будет доволен ею Аллах, сказала: «Иудеи приветствовали Пророка ﷺ, говоря: “Ас-саму ‘алейка /Смерть тебе!/” ‘Аиша, поняв их слова, сказала: “Это вам смерть и проклятие (Аллаха)!” Но Пророк ﷺ сказал (мне): “Постой, о ‘Аиша, поистине, Аллах любит (проявления) доброты во всём”. Она сказала: «О пророк Аллаха, разве ты не слышал, что они сказали?» Он сказал: «А разве ты не слышала, что я сказал им в ответ: “И вам (того же)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6395</td></tr><tr><td>Arabic No</td><td>6395</td></tr><tr><td>Reference</td><td>Book 80 Hadith 90</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salim bin 'Abdullah b. 'Umar: Ibn 'Umar used to let out his land till i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits], telah menceritakan kepadaku [ayahku] dari [kakekku yaitu Al Laits], telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab], telah mengabarkan kepadaku [Salim bin Abdullah bin Umar] bahwa [Ibnu Umar] dahulu menyewakan tanahnya hingga sampai kepadanya bahwa [Rafi' bin Khadij Al Anshari] telah menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang menyewakan tanah, kemudian Abdullah bertemu dengannya dan berkata; wahai Ibnu Khadij, apa yang engkau ceritakan dari Rasulullah shallallahu 'alaihi wasallam mengenai penyewaan tanah? Rafi' berkata kepada Abdullah bin Umar; aku mendengar [dua pamanku] dan mereka adalah orang-orang yang menghadiri perang Badr, mereka menceritakan kepada penghuni rumah bahwa Rasulullah shallallahu 'alaihi wasallam melarang dari penyewaan tanah. Abdullah berkata; Demi Allah, sungguh pada masa Rasulullah shallallahu 'alaihi wasallam aku mengetahui bahwa tanah boleh disewakan. Kemudian Abdullah khawatir Rasulullah shallallahu 'alaihi wasallam telah melakukan sesuatu yang baru yang tidak ia ketahui. Maka ia meninggalkan penyewaan tanah. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Ayyub], ['Ubaidullah], [Katsir bin Farqad], dan [Malik] dari [Nafi'] dari [Rafi'] dari Nabi shallallahu 'alaihi wasallam. Dan telah diriwayatkan oleh [Al Auza'i] dari [Hafsh bin 'Inan Al Hanafi], dari [Nafi'], dari [Rafi'], ia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam ….. Dan begitu juga diriwayatkan oleh [Zaid bin Abu Unaisah], dari [Al Hakam] dari [Nafi'] dari [Ibnu Umar] bahwa ia datang kepada [Rafi'] dan berkata; apakah engkau mendengar Rasulullah shallallahu 'alaihi wasallam? kemudian ia berkata; ya. Dan begitulah yang dikatakan [Ikrimah bin 'Ammar] dari [Abu An Najasyi] dari [Rafi' bin Khadij], ia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam. Dan telah diriwayatkan oleh [Al Auza'i] dari [Abu An Najasyi] dari [Rafi' bin Khadij] dari [pamannya yaitu Zhahir bin Rafi'] dari Nabi shallallahu 'alaihi wasallam. Abu Daud berkata; Abu An Najasyi adalah 'Atha' bin Shuhaib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2345) Sahih Muslim (1547)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 23 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Салима, сына ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Ибн ‘Умар отдавал свою землю для возделывания до тех пор, пока не услышал о том, что Рафи‘ ибн Хадидж аль-Ансари передаёт, что Посланник Аллаха ﷺ запретил издольщину. ‘Абдуллах встретился с ним и сказал: «О Ибн Хадидж! Что ты передаёшь от Посланника Аллаха ﷺ о запрете издольщины?» Рафи‘ сказал ‘Абдуллаху ибн ‘Умару: «Я слышал от двух своих дядей по отцу, которые участвовали в битве при Бадре, как они пересказывали своим домочадцам, что Посланник Аллаха ﷺ запретил издольщину». ‘Абдуллах сказал: «Клянусь Аллахом, во времена Посланника Аллаха ﷺ я знал случаи издольщины!» Потом ‘Абдуллах отказался от издольщины, опасаясь, что Посланник Аллаха ﷺ мог оставить какое-то постановление относительно издольщины, которого он не знал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2345) Sahih Muslim (1547)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 23 Hadith 69</td></tr></tbody></table></div>
 

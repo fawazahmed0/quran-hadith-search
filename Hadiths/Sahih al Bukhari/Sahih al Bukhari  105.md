@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet (ﷺ) said. No doubt your blood, property, the su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] berkata, telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Muhammad] dari [Ibnu Abu Bakrah] dari [Abu Bakrah] Nabi shallallahu 'alaihi wasallam menyebutkan: "Sesungguhnya darah kalian, harta kalian, Muhammad berkata; menurutku beliau mengatakan, "dan kehormatan kalian adalah haram atas kalian sebagaimana haramnya hari kalian ini di bulan kalian ini. Hendaklah yang hadir menyampaikan kepada yang tidak hadir." Dan Muhammad berkata, "Benarlah Rasulullah shallallahu 'alaihi wasallam seperti apa yang disabdakannya, 'Bukankah aku telah menyampaikannya? ' beliau ulangi hingga dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>105</td></tr><tr><td>Arabic No</td><td>105</td></tr><tr><td>Reference</td><td>Book 3 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакры, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Поистине, ваша кровь, ваше имущество [Мухаммад (ибн Сирин — один из передатчиков этого хадиса) сказал: “И я думаю, что он (ещё) сказал: и ваша честь”] (должны быть) для вас столь же священными, сколь священным является этот ваш день, в этом вашем месяце! Пусть присутствующий из вас известит отсутствующего!», — повторив это дважды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>105</td></tr><tr><td>Arabic No</td><td>105</td></tr><tr><td>Reference</td><td>Book 3 Hadith 47</td></tr></tbody></table></div>
 

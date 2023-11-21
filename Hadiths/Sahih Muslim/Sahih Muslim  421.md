@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu al-'Aliya narrated it on the authority of Ibn 'Abbas that he said:We travell
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>421</td></tr><tr><td>Arabic No</td><td>166.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 326</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «(Однажды) мы вместе с Посланником Аллаха ﷺ были в пути и находились между Меккой и Мединой. Когда мы проезжали мимо одной долины /вади/, (Пророк ﷺ) спросил: “Что это за долина?” (Люди) сказали: “Вади аль- Азрак”, и тогда он сказал: “Я будто вижу Мусу, который приложил пальцы к ушам и громко произносил тальбию, обращаясь к Всевышнему Аллаху, когда проезжал мимо этой долины”. Потом мы поехали дальше, а когда добрались до одного горного перевала, (Пророк ﷺ) спросил: “Что это за перевал?” (Люди) сказали: “Харша (или: Лифт)” и тогда он сказал: “Я будто вижу одетого в шерстяную джуббу Юнуса он сидел на своей рыжей верблюдице, поводья которой были сделаны из пальмовых волокон, и произносил тальбию, проезжая мимо этой долины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>421</td></tr><tr><td>Arabic No</td><td>166.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 326</td></tr></tbody></table></div>
 

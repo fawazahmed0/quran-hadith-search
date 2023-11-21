@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Regarding the explanation of the following verse:-- "If a wife fe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhamamad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] tentang ayat ini QS An-Nisaa: 128): ("Apabila seorang isteri takut suaminya akan berbuat nusyuz (tidak mau menggaulinya) atau berlaku kasar terhadapnya"), dia ('Aisyah radliallahu 'anha) berkata: "Yaitu jika seorang suami yang memiliki isteri namun dia tidak lagi mencintai dan menggaulinya serta berkehendak untuk menceraikanya lalu isterinya berkata, "aku persilakan kamu meninggalkan aku namun jangan ceraikan aku", maka turunlah ayat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2450</td></tr><tr><td>Arabic No</td><td>2450</td></tr><tr><td>Reference</td><td>Book 46 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала относительно аята: «“Если женщина опасается, что муж будет проявлять к ней неприязнь или отворачиваться от неё…” (сура “ан-Ниса”, аят 128) — мужчина перестал испытывать потребность в своей жене и хочет развести её, и она говорит: “Я отказываюсь от своих прав”. По этому поводу был ниспослан этот аят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2450</td></tr><tr><td>Arabic No</td><td>2450</td></tr><tr><td>Reference</td><td>Book 46 Hadith 11</td></tr></tbody></table></div>
 

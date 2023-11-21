@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We provoked a rabbit at Marr Az-Zahran till it started j
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] ia berkata; telah menceritakan kepadaku [Hisyam bin Zaid] dari [Anas bin Malik] radliallahu 'anhu, ia berkata, "Kami mengejar kelinci di Marru Zhahran (nama tempat), orang-orang berusaha untuk menangkapnya hingga mereka pun kelelahan. Maka aku pun ikut mengejarnya hingga aku dapat menangkapnya, kemudian kelinci itu aku bawa kepada Abu Thalhah. Setelah itu ia mengirimkan kedua kaki atau paha kelinci tersebut kepada Nabi shallallahu 'alaihi wasallam, dan beliau pun menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5489</td></tr><tr><td>Arabic No</td><td>5489</td></tr><tr><td>Reference</td><td>Book 72 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Однажды мы вспугнули кролика в Марр аз-Захране. Люди гонялись за ним, пока не устали. Затем я поймал его и принёс Абу Тальхе, который зарезал его, а затем отправил обе его ноги (или бедра) Пророку ﷺ, и он принял (подарок)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5489</td></tr><tr><td>Arabic No</td><td>5489</td></tr><tr><td>Reference</td><td>Book 72 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:We came upon the Prophet (ﷺ) after he had conquered Khaibar.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 64 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Мы приехали к Пророку ﷺ после того, как он завоевал Хайбар, и он выделил (нам долю военной) добычи, не выделив её больше никому из тех, кто не был свидетелем этой победы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 64 Hadith 271</td></tr></tbody></table></div>
 

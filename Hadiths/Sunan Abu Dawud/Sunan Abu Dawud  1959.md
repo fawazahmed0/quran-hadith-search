@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:Al-'Abbas sought permission from the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Ibnu Numair] dan [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar], ia berkata; Al Abbas meminta idzin kepada Rasulullah shallAllahu wa'alaihi wa sallam untuk bermalam di Mekkah pada malam-malam hari di Mina karena tugasnya untuk memberi minum (orang-orang yang berhaji), kemudian beliau memberikan idzin kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1745) Sahih Muslim (1315)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1959</td></tr><tr><td>Arabic No</td><td>1959</td></tr><tr><td>Reference</td><td>Book 11 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что аль-‘Аббас попросил у Посланника Аллаха ﷺ разрешения провести ночи Мины в Мекке ради поения людей, и Посланник Аллаха ﷺ разрешил ему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1745) Sahih Muslim (1315)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1959</td></tr><tr><td>Arabic No</td><td>1959</td></tr><tr><td>Reference</td><td>Book 11 Hadith 239</td></tr></tbody></table></div>
 

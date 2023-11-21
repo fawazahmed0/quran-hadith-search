@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Ubaid reported that Harith b. 'Abdullah led a deputation to 'Abd al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] ia berkata, saya mendengar [Abdullah bin Ubaid bin Umair] dan [Al Walid bin Atha'] keduanya menceritakan dari [Al Harits bin Abdullah bin Abu Rabi'ah] -Abdullah bin Ubaid berkata- Al Harits bin Abdullah datang sebagai utusan kepada Abdul Malik bin Marwan pada masa pemerintahannya. Abdul Malik berkata, "Aku tidak menduga bahwa Abu Khubaib yakni Ibnu Zubair mendengar dari Aisyah, yang ia berdalih bahwa ia mendengarnya dari Aisyah." Al Harits berkata, "Benar, saya juga telah mendengar tentang hal itu dari Aisyah. [Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya kaummu telah memperkecil bangunan Baitullah. Sekiranya bukan karena mereka baru saja meninggalkan kesyirikan, niscaya saya akan mengembalikan apa yang mereka tinggalkan. Maka jika kaummu akan membangunnya sepeninggalku, maka kemarilah akan kuperlihatkan seberapa panjang yang mereka tinggalkan itu.' Maka aku pun melihatnya, yakni kurang lebih sepanjang tujuh hasta." Ini adalah haditsnya Abdullah bin Ubaid. Kemudian Al Walid bin Atha' menambahkan; Nabi shallallahu 'alaihi wasallam bersabda: "Dan aku benar-benar akan membuatkannya dua pintu yang keduanya sampai ke tanah. Yakni sebelah Timur dan Barat. Tahukah kamu, kenapa kaummu meninggikan pintunya?" Aisyah berkta; Aku menjawab, "Tidak." Beliau bersabda: "Yaitu, agar tidak ada yang dapat masuk ke dalamnya kecuali orang-orang tertentu yang mereka izinkan. Jika ada seseorang yang ingin masuk ke dalamnya, mereka membiarkannya memanjat hingga hampir saja akan memasukinya, baru kemudian mereka menghalanginya hingga orang tersebut terjatuh." Abdul Malik bertanya kepada Al Harits, "Apakah kamu mendengar Aisyah mengatakan hal ini?" Al Harits menjawab, "Ya." Kemudian Abdul Malik pun memukul-mukulkan tongkatnya sesaat lalu berkata, "Aku lebih suka kalau aku meninggalkannya dan apa yang menjadi bebannya." Dan Telah menceritakannya kepada kami [Muhammad bin Amru bin Jablah] Telah menceritakan kepada kami [Abu Ashim] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazzaq] keduanya dari [Ibnu Juraij] dengan isnad ini, yakni sebagaimana hadits Ibnu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3246</td></tr><tr><td>Arabic No</td><td>1333.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 450</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3246</td></tr><tr><td>Arabic No</td><td>1333.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 450</td></tr></tbody></table></div>
 

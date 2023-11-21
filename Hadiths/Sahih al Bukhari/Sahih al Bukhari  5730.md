@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amir:'Umar went to Sham and when he reached Sargh, he go
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Abdullah bin 'Amir] bahwa Umar pernah bepergian menuju Syam, ketika dia sampai di daerah Sargha, diberitahukan kepadanya bahwa negeri Syam sedang terjangkiti wabah penyakit menular, lantas [Abdurrahman bin 'Auf] memberitahukan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian mendengar wabah tersebut menjangkiti suatu negeri, maka janganlah kalian menuju ke sana, namun jika dia menjangkiti suatu negeri dan kalian berada di dalamnya, maka janganlah kalian keluar dan lari darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5730</td></tr><tr><td>Arabic No</td><td>5730</td></tr><tr><td>Reference</td><td>Book 76 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Абдуллаха ибн ’Амира, что (в своё время) ‘Умар выступил в поход на Шам, когда же он достиг селения Сарга, ему сообщили, что в Шаме началась эпидемия чумы. И тогда ‘Абдуррахман ибн ‘Ауф сообщил ему, что Посланник Аллаха ﷺ сказал: “Если вы услышите, что она (чума) распространилась на какой-нибудь земле, то не входите туда, а если она распространится на той земле, в которой находитесь вы, то не покидайте её, убегая от чумы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5730</td></tr><tr><td>Arabic No</td><td>5730</td></tr><tr><td>Reference</td><td>Book 76 Hadith 45</td></tr></tbody></table></div>
 

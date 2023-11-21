@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umair, A Companion of the Prophet (ﷺ) said:A man asked him (the Prophet): Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2875</td></tr><tr><td>Arabic No</td><td>2875</td></tr><tr><td>Reference</td><td>Book 18 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убайд ибн ‘Умайр передаёт от своего отца, который был сподвижником Посланника Аллаха ﷺ что один человек спросил его: «О Посланник Аллаха, что такое тяжкие грехи?» Он ответил: «Их девять». И он упомянул те же грехи, что и в предыдущем хадисе, и добавил: «И неуважение к родителям-мусульманам, и попрание святости Заповедного дома киблы для вас, живых и мёртвых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2875</td></tr><tr><td>Arabic No</td><td>2875</td></tr><tr><td>Reference</td><td>Book 18 Hadith 14</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported that Umar (Allah be pleased with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] bahwa [Umar] mencium Hajar Aswad, lalu ia berkata, "Aku benar-benar menciummu, dan aku juga tahu pasti bahwa kamu hanyalah batu, akan tetapi aku telah melihat Rasulullah shallallahu 'alaihi wasallam menciummu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3068</td></tr><tr><td>Arabic No</td><td>1270.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3068</td></tr><tr><td>Arabic No</td><td>1270.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 274</td></tr></tbody></table></div>
 

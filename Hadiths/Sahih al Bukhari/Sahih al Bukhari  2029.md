@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Allah's Messenger (ﷺ) used to let hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari ['Urwah] dan ['Amrah binti 'Abdurrahman] bahwa ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam berkata: "Sungguh Nabi shallallahu 'alaihi wasallam pernah menjulurkan kepala Beliau kepadaku ketika sedang berada di masjid lalu aku menyisir rambut Beliau. Dan Beliau tidaklah masuk ke rumah kecuali ketika ada keperluan (buang hajat) apabila Beliau sedang beri'tikaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2029</td></tr><tr><td>Arabic No</td><td>2029</td></tr><tr><td>Reference</td><td>Book 33 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Находясь в мечети, Посланник Аллаха ﷺ просовывал ко мне свою голову, а я приводила её в порядок, и когда он неотлучно оставался в мечети, то приходил домой только по необходимости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2029</td></tr><tr><td>Arabic No</td><td>2029</td></tr><tr><td>Reference</td><td>Book 33 Hadith 5</td></tr></tbody></table></div>
 

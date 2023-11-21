@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: We proceeded in the company of the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah Ar-Rabi' bin Nafi'] telah menceritakan kepada kami [Ibnu Al-Mubarak] dari [Muhammad bin Ishaq] telah menceritakan kepada saya [Shadaqah bin Yasar] dari ['Aqil bin Jabir] dari [Jabir] dia berkata; Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam, yakni pada perang Dzat Ar-Riqa', kemudian ada seseorang (dari kaum Muslimin) yang menangkap istri seorang laki-laki kaum musyrikin. Maka dia (sang suami) bersumpah dengan berujar; "Saya tidak akan henti-hentinya membalas, sehingga aku dapat menumpahkan darah seseorang dari kalangan sahabat Muhammad." Maka dia pun pergi mengikuti jejak Nabi shallallahu 'alaihi wasallam. Setelah Nabi shallallahu 'alaihi wasallam singgah di suatu tempat, beliau bersabda, "Siapa yang akan menjaga kita?" Maka seorang dari kaum Muhajirin dan seorang dari Anshar memenuhinya. Lalu beliau bersabda, "Berjagalah kalian berdua di mulut celah kedua bukit itu!" Jabir berkata; Tatkala kedua orang tersebut pergi ke celah bukit tersebut, laki-laki dari Muhajirin itu berbaring (tidur), sedangkan laki-laki dari Anshar berdiri (melaksanakan shalat), lalu laki-laki musyrik itu datang. Tatkala si musyrik itu melihat sosok orang Anshar tersebut, dia mengetahui bahwa orang Anshar itu adalah perintis pasukan, maka dia pun melemparkan anak panah ke arahnya dan mengenainya. Maka orang Anshar itu mencabut anak panah tersebut, sampai si musyrik memanahnya dengan tiga anak panah, lalu orang Anshar itu rukuk dan sujud. Kemudian sahabatnya (orang Muhajirin) terbangun. Tatkala si musyrik itu mengetahui bahwa para sahabat telah mengetahuinya, maka dia pun lari. Pada saat laki-laki muhajirin itu melihat tubuh laki-laki Anshar itu berlumuran darah, dia berkata; Subhaanallah (Maha suci Allah), mengapa kamu tidak membangunkanku ketika dia memanahmu pertama kali? Dia menjawab, Waktu itu saya sedang membaca suatu surah, sementara aku tidak suka memotong bacaan tersebut (hingga selesai)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>198</td></tr><tr><td>Arabic No</td><td>198</td></tr><tr><td>Reference</td><td>Book 1 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Однажды, мы выехали с посланником Аллаха ﷺ в поход «Зат ар-Рика‘», и (в это время,) один из мусульман убил жену одного из многобожников. И тот поклялся, что не отдохнет до тех пор, пока не убьет одного из сподвижников Мухаммада и отправился вслед за Пророком ﷺ. Остановившись в каком-то месте, Пророк ﷺ сказал: “Кто будет охранять нас?” И отозвались два человека: один из числа мухаджиров, а другой - из ансаров. Он сказал (им): “Будьте у входа в ущелье”.(Передатчик этого хадиса) сказал: “Когда они отправились в ущелье, тот мухаджир лег спать, а ансар встал и начал молиться. И (туда) пришел тот человек (из числа их врагов). Когда он увидел того (ансара), то поняв, что это охранник мусульман, он пустил в него стрелу и поразил цель. Однако тот (вытащил стрелу и) отбросил её (в сторону). (И так продолжалось) пока он не пустил три стрелы. Тогда (мусульманин) совершил поясной и земной поклоны, и затем разбудил своего товарища. Когда тот почувствовал, что мусульмане узнали о его присутствии, он убежал. Мухаджир увидев, что ансар истекает кровью, спросил его: “Свят Аллах!/Субханаллах/ Почему же ты не разбудил меня, когда он стрельнул в тебя первый раз?” Он ответил: “Я был занят чтением одной суры и не захотел прерывать её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>198</td></tr><tr><td>Arabic No</td><td>198</td></tr><tr><td>Reference</td><td>Book 1 Hadith 198</td></tr></tbody></table></div>
 

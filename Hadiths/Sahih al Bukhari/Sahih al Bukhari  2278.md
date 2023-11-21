@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) was cupped, he paid the man who cuppe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thowus] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam berbekam dan memberi upah tukang bekamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 37 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророку ﷺ сделали кровопускание /хиджама/, и он заплатил за это цирюльнику»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 37 Hadith 18</td></tr></tbody></table></div>
 

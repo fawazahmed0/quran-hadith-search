@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Ka'b b. Malik reported on the authority of his father that he saw Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Muhammad bin Hatim] mereka berkata; Telah menceritakan kepada kami [Ibnu Mahdi] dari [Sufyan] dari [Sa'd bin Ibrahim] dari [Ibnu Ka'b bin Malik] dari [Bapaknya] ia berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam menjilati ketiga jarinya dari sisa makanan." Namun Ibnu Hatim tidak menyebutkan 'ketiga'. Dan Ibnu Syaibah berkata dalam meriwayatkannya; dari Abdurrahman bin Ka'ab dari Bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5296</td></tr><tr><td>Arabic No</td><td>2032.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5296</td></tr><tr><td>Arabic No</td><td>2032.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 170</td></tr></tbody></table></div>
 

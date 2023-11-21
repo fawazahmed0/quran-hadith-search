@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa menjual pohon kurma yang telah dikawinkan, maka buahnya bagi penjual, kecuali jika pembeli mensyaratkan (buahnya untuknya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3901</td></tr><tr><td>Arabic No</td><td>1543.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3901</td></tr><tr><td>Arabic No</td><td>1543.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 100</td></tr></tbody></table></div>
 

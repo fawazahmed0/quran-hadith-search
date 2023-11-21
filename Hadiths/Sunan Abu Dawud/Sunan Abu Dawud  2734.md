@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmrah (al-Ansari?): We four persons, came to the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdullah bin Yazid], telah menceritakan kepadaku [Al Mas'udi], telah menceritakan kepadaku [Abu 'Amrah] dari [ayahnya], ia berkata; kami telah datang kepada Rasulullah shallallahu 'alaihi wasallam berjumlah empat orang, dan kami membawa kuda. Kemudian beliau memberi setiap dari kami satu saham dan untuk kuda dua saham. Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Umayyah bin Khalid], telah menceritakan kepada kami [Al Mas'udi], dari [seorang laki-laki dari keluarga Abu 'Amrah], dari [Abu 'Amrah] seperti makna hadits tersebut hanya saja ia berkata; tiga orang. Ia menambahkan; untuk kuda tiga saham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2734</td></tr><tr><td>Arabic No</td><td>2734</td></tr><tr><td>Reference</td><td>Book 15 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2734</td></tr><tr><td>Arabic No</td><td>2734</td></tr><tr><td>Reference</td><td>Book 15 Hadith 258</td></tr></tbody></table></div>
 

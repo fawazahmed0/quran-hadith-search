@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Mughîra Ibn Chu'ba (que Dieu l'agrée) a dit : Personne n'a interrogé le Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syihab bin Abbad Al Abdi] telah menceritakan kepada kami [Ibrahim bin Humaid Ar Ru'asi] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dari [Al Mughirah bin Syu'bah] berkata: Tidak ada seorang pun yang lebih banyak bertanya tentang Dajjal kepada nabi Shallallahu 'alaihi wa Salam melebihiku. Beliau bertanya: "Apa yang memberatkanmu darinya, sesungguhnya ia tidak membahayakanmu." aku menjawab: Wahai Rasulullah, sesungguhnya mereka mengatakan bahwa bersamanya ada makanan dan sungai. Beliau bersabda: "Itu lebih mudah bagi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7378</td></tr><tr><td>Arabic No</td><td>2939.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7378</td></tr><tr><td>Arabic No</td><td>2939.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 139</td></tr></tbody></table></div>
 

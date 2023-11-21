@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Dawud: Abu Dawud and others have said: When a she-camel enters four
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Muhammad bin Abdullah] berkata, telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Abdu Rabbih] dari [Abu Iyadh] dari [Utsman bin Affan] dan [Zaid bin Tsabit] tentang pembunuhan semi sengaja adalah empat puluh Jadz'ah, tiga puluh hiqqah, dan tiga puluh bintu labun. Sedangkan pembunuhan tidak sengaja adalah tiga puluh hiqqah, tiga puluh bintu labun dan dua puluh banu labun laki-laki dan dua puluh bintu makhadh." Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Muhammad bin Abdullah] berkata, telah menceritakan kepada kami [Said] dari [Qatadah] dari [Sa'id Ibnul Musayyab] dari [Zaid bin Tsabit] tentang tebusan pembunuhan semi sengaja. Lalu beliau menyebutkan persis sebagaimana hadits tersebut." Abu Dawud berkata, "Abu Ubaid dan beberapa orang lainnya menyebutkan, "Jika umur unta telah masuk pada tahun keempat maka ia disebut hiqqun atau hiqqah, sebab ia telah boleh untuk membawa barang atau ditunggangi. Jika umurnya telah masuk pada tahun kelima, maka ia disebut Jadza' atau jadz'ah. Jika umurnya telah masuk pada tahun keenam dan gigi serinya telah tanggal, maka ia disebut tsaniyun atau tsaniyah. Jika umurnya telah masuk pada tahun ketujuh, maka ia disebut ruba' atau ruba'iyah. Jika umurnya telah masuk pada tahun kedelapan dan gigi setelah gigi gerahamnya telah tanggal, maka ia disebut sadis atau sadas. Jika umurnya telah masuk pada tahun kesembilan dan gigi taringnya telah tanggal namun tumbuh kembali, maka ia disebut dengan bazil. Jika umurnya telah masuk pada tahun kesepuluh, maka ia disebut mukhlif. Dan setelah itu tidak ada lagi penyebutan secara khusus, akan tetapi cukup disebut dengan bazil 'am (bazil lebih setahun) atau bazil 'ammaini (bazil lebih dua tahun), mukhlif 'am (Mukhlif lebih setahun) atau mukhlif 'ammaini (mukhlif lebih dua tahun) dan seterusnya." An Nadhr bin Syumail berkata, "Bintu makhadh untuk unta yang berumur satu tahun, bintu labun untuk unta yang berumur dua tahun, hiqqah untuk unta yang berumur tiga tahun, jadza' untuk unta yang berumur empat tahun, tsaniyun untuk unta yang berumur lima tahun, raba' untuk unta yang berumur enam tahun, sadis untuk unta yang berumur tujuh tahun, dan bazil untuk unta yang berumur delapan tahun." Abu Dawud berkata, "Abu Hatim dan Al Ashma'ie berkata, "Al Judzu'ah adalah untuk waktu, bukan umur." Abu Hatim berkata, "Sebagian ulama berkata, "Jika unta tersebut telah tanggal gigi gerahamnya maka ia disebut raba', dan jika gigi serinya telah tanggal maka ia disebut tsaniyun." Abu Ubaid berkata, "Jika ia telah siap menerima seperma maka disebut khalifah, dan hal itu tetap berlangsung hingga berlalu sepuluh bulan. Jika telah lewat sepuluh bulan maka ia disebut dengan 'usyara." Abu Hatim berkata, "Jika telah tanggal gigi serinya maka disebut tsaniyun, dan jika gigi derahamnya telah tanggal maka disebut raba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4555</td></tr><tr><td>Arabic No</td><td>4555</td></tr><tr><td>Reference</td><td>Book 41 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн аль-Мусайяб передаёт от Зейда ибн Сабита такой же хадис относительно отягощённой компенсации /дийа/ за убийство
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4555</td></tr><tr><td>Arabic No</td><td>4555</td></tr><tr><td>Reference</td><td>Book 41 Hadith 62</td></tr></tbody></table></div>
 

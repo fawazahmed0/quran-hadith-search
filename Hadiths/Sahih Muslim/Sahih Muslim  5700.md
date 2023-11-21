@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id reported that Gabriel came to Allah's Messenger (ﷺ) and said:Muhamma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Hilal Ash Shawaf]; Telah menceritakan kepada kami ['Abdul Warits]; Telah menceritakan kepada kami ['Abdul 'Aziz bin Shuhaib] dari [Abu Nadhrah] dari [Abu Sa'id] bahwa Jibril mendatangi Nabi shallallahu 'alaihi wasallam kemudian berkata; "Hai Muhammad, apakah kamu sakit? Rasulullah shallallahu 'alaihi wasallam menjawab: 'Ya. Aku sakit. Lalu Jibril meruqyah beliau dengan mengucapkan; 'Dengan nama Allah aku meruqyahmu dari segala sesuatu yang menyakitimu dan dari kejahatan segala makhluk atau kejahatan mata yang dengki. Allah lah yang menyembuhkanmu. Dengan nama Allah aku meruqyahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5700</td></tr><tr><td>Arabic No</td><td>2186</td></tr><tr><td>Reference</td><td>Book 39 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5700</td></tr><tr><td>Arabic No</td><td>2186</td></tr><tr><td>Reference</td><td>Book 39 Hadith 54</td></tr></tbody></table></div>
 

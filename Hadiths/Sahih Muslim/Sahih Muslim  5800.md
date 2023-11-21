@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), le Prophète (paix et bénédiction de Dieu s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid]; Telah menceritakan kepada kami [Hammam bin Yahya]; Telah menceritakan kepada kami [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak penyakit menular tanpa izin Allah, tidak ada pengaruh dikarenakan seekor burung, Tetapi yang mengagumkanku ialah Al Fa'l, yaitu kalimah hasanah atau kalimat thayyibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5800</td></tr><tr><td>Arabic No</td><td>2224.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5800</td></tr><tr><td>Arabic No</td><td>2224.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 152</td></tr></tbody></table></div>
 

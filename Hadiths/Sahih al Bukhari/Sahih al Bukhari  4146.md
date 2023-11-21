@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:We went to 'Aisha while Hassan bin Thabit was with her reciting 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Bisyir bin Khalid] telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Abu Adl Dluha] dari [Masruq] ia berkata; "Aku menemui 'Aisyah sementara Hassan bin Tsabit di sampingnya tengah melantunkan bait-bait sya'ir untuk memujinya. Hassan bersya'ir; "Yang memelihara dirinya, teguh dan tidak mudah terperdaya, Jadilah ia sasaran orang-orang yang lalai." ['Aisyah] berkata kepadanya; "Tetapi kamu tidak termasuk seperti itu." Masruq berkata; aku bertanya kepada 'Aisyah; "Mengapa anda mengizinkan dia menemuimu, padahal Allah telah berfirman; "Dan orang yang berperan besar diantara mereka baginya akan mendapatkan siksa yang besar". QS An Nur; 11. 'Aisyah berkata; "Siksa apakah yang lebih berat dari kebutaan?." 'Aisyah melanjutkan; "Sungguh dia pernah membela Rasulullah shallallahu 'alaihi wasallam untuk mencaci musuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4146</td></tr><tr><td>Arabic No</td><td>4146</td></tr><tr><td>Reference</td><td>Book 64 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал: «Мы вошли к ’Аише, да будет доволен им Аллах, когда Хассан ибн Сабит находился у неё, и читал ей некоторые свои стихи, говоря: “Целомудренная, мудрая, в которой нет сомнений, просыпается с желудком, в котором нет мяса целомудренных женщин (то есть она не злословит о них)”. ‘Аиша сказала: “Однако ты не такой (имея ввиду, что он злословил о ней, когда её оклеветали)”. Масрук сказал: “Почему ты впускаешь его, ведь Всевышний Аллах сказал: “А тому из них, кто взял на себя большую часть этого, уготованы великие мучения”?” (сура “ан-Нур”, аят 11) ‘Аиша ответила: “А какое наказание сильнее, чем слепота?” Она добавила: “Хасан защищал или отвечал (стихами) за Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4146</td></tr><tr><td>Arabic No</td><td>4146</td></tr><tr><td>Reference</td><td>Book 64 Hadith 190</td></tr></tbody></table></div>
 

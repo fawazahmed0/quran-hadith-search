@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) said: Straighten your rows. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, "Saya mendengar [Qatadah] bercerita dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, 'Samakanlah shaf-shaf kalian, karena penyamaan shaf termasuk kesempurnaan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>975</td></tr><tr><td>Arabic No</td><td>433</td></tr><tr><td>Reference</td><td>Book 4 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анас ибн Малика, что Посланник Аллаха ﷺ сказал: «Выравнивайте свои ряды, ибо, поистине, выравнивание ряда является одним из признаков совершенства молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>975</td></tr><tr><td>Arabic No</td><td>433</td></tr><tr><td>Reference</td><td>Book 4 Hadith 137</td></tr></tbody></table></div>
 

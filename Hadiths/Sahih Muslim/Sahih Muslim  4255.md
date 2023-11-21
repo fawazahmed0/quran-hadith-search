@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Zuhri except that in the ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadau [Abu At Thahir Ahmad bin 'Amru bin Sarh] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [ayahnya] dia berkata; aku mendengar [Umar bin Khattab] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Azza Wa Jalla melarang kalian bersumpah dengan menyebut nama bapak-bapak kalian." Selanjutnya Umar berkata, "Demi Allah, aku tidak pernah lagi bersumpah dengan menyebut nama bapak-bapak setelah aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam, beliau melarang baik untuk orang lain atau diri sendiri." Dan telah menceritakan kepadaku [Abdul Malik bin Syua'ib bin Al Laits] telah menceritakan kepadaku [Bapakku] dari [kakekku] telah menceritakan kepadaku ['Uqail bin Khalid] (dalam jalur lain disebutkan) Dan telah menceritakan kepadaku [Ishaq bin Ibrahim] dan [Abd bin Humaid] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] dengan isnad seperti ini, namun dalam haditsnya 'Uqail disebutkan, "Semenjak aku mendengar hal itu telah dilarang oleh Rasulullah shallallahu 'alaihi wasallam, maka aku tidak pernah bersumpah lagi dengan sumpah seperti itu, dan tidak pula berkata-kata dengan itu." Dan tidak mengatakan, "Baik untuk diri sendiri atau orang lain." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid] serta [Zuhair bin Harb] mereka berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Salim] dari [Ayahnya] dia berkata, "Nabi shallallahu 'alaihi wasallam pernah mendengar Umar yang sedang bersumpah dengan bapaknya…" seperti riwayatnya Yunus dan Ma'mar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4255</td></tr><tr><td>Arabic No</td><td>1646.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4255</td></tr><tr><td>Arabic No</td><td>1646.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 2</td></tr></tbody></table></div>
 

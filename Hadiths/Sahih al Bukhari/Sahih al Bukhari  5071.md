@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Masud:We used to fight in the holy battles in the company of the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku [Qais] dari [Ibnu Mas'ud] radliallahu 'anhu, ia berkata; Kami pernah berperang bersama-sama dengan Nabi shallallahu 'alaihi wasallam, saat itu kami tidak mempunyai isteri, maka kami pun berkata, "Wahai Rasulullah, apakah kami harus mengebiri?." Namun, beliau melarang kami untuk melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 67 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, который сказал: «Мы были с Посланником Аллаха ﷺ в военном походе и с нами не было женщин. Тогда мы сказали: “О Посланник Аллаха, не сделать ли нам кастрацию самим себе?” Но он запретил нам подобное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 67 Hadith 9</td></tr></tbody></table></div>
 

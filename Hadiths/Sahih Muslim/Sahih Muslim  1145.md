@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I was sleeping in front of the Mcsseinger ef Allah (ﷺ) with my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, "Saya membaca di hadapan [Malik] dari [Abu an-Nadhar] dari [Abu Salamah bin Abdurrahman] dari [Aisyah ra] dia berkata, "Aku biasa tidur di hadapan Rasulullah shallallahu'alaihiwasallam, sedangkan kedua kakiku berada di arah kiblat beliau. Apabila beliau sujud maka beliau meraba (dengan ujung jarinya) kakiku lalu aku menarik kedua kakiku. Apabila beliau berdiri, aku menjulurkan kedua kakiku kembali." Dia berkata lagi, "Ketika itu rumah tersebut tidak ada lampu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1145</td></tr><tr><td>Arabic No</td><td>512.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 307</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Салямы ибн ‘Абдуррахмана, что ‘Аиша сказала: «Обычно я спала перед Посланником Аллаха ﷺ (протягивая) ноги в направлении его киблы. Совершая земной поклон, он касался меня (рукой), и тогда я подбирала свои ноги, а когда он вставал, (снова) вытягивала их». (‘Аиша) добавила: «В то время в домах не было ламп»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1145</td></tr><tr><td>Arabic No</td><td>512.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 307</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I have never heard the Prophet (ﷺ) mentioning both his father an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Mis'ar] dari [Sa'd] dari [Ibnu Syaddad] dia berkata, aku mendengar ['Ali] radliallahu 'anhu berkata, "Aku belum pernah mendengar Nabi shallallahu 'alaihi wasallam menyertakan kedua orangtuanya sebagai tebusan kepada seseorang selain Sa'd
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4058</td></tr><tr><td>Arabic No</td><td>4058</td></tr><tr><td>Reference</td><td>Book 64 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Я не слышал, чтобы ради кого-нибудь Пророк ﷺ упомянул своих обоих родителей, кроме Са‘да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4058</td></tr><tr><td>Arabic No</td><td>4058</td></tr><tr><td>Reference</td><td>Book 64 Hadith 104</td></tr></tbody></table></div>
 

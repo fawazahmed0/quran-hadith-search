@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "My similitude in compariso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Salim bin Hayyan] telah bercerita kepada kami [Sa'id bin Miyna'] dari [Jabir bin 'Abdullah Raa] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Perumpamaan aku dan nabi-nabi sebelumku seperti seseorang yang membangun suatu rumah lalu dia menyempurnakannya dan memperindahnya kecuali ada satu labinah (tempat lubang batu bata yang tertinggal belum diselesaikan) lalu manusia memasuki rumah tersebut dan mereka terkagum-kagum sambil berkata; 'Duh seandainya saja labinah ini disempurnakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3534</td></tr><tr><td>Arabic No</td><td>3534</td></tr><tr><td>Reference</td><td>Book 61 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «Примером меня и остальных пророков является человек, который строил себе дом. И он завершил строительство, кроме одного кирпича. Люди же, входя в этот дом, восхищались им и говорили: “(Было бы прекрасно), если бы не место одного кирпича”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3534</td></tr><tr><td>Arabic No</td><td>3534</td></tr><tr><td>Reference</td><td>Book 61 Hadith 43</td></tr></tbody></table></div>
 

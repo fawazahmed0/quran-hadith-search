@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Umayyah ash-Sha'bani said:I asked AbuTha'labah al-Khushani: What is your opi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Sulaiman bin Dawud Al 'Ataki] berkata, telah menceritakan kepada kami [Ibnul Mubarak] dari [Utbah bin Abu Hakim] ia berkata; telah menceritakan kepadaku [Amru bin Jariyah Al Lakhmi] berkata, telah menceritakan kepadaku [Abu Umayyah Asy Sya'bani] ia berkata, "Aku pernah bertanya kepada [Abu Tsa'labah Al Khusyani], aku katakan kepadanya, "Wahai Abu Tsa'labah, apa pendapatmu tentang ayat ini: '(.. jagalah dirimu..) -Al Maidah: 105-?" Ia menjawab, "Demi Allah, engkau telah menanyakan hal itu kepada orang yang tepat. Aku pernah menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, beliau lalu menjawab: "Bahkan perintahkanlah kepada perkara yang ma'ruf dan cegahlah dari perkara yang munkar, sehingga ketika engkau melihat sifat kikir ditaati, hawa nafsu diikuti, dunia lebih diutamakan (dari urusan agama), dan setiap orang bangga dengan pendapatnya sendiri, maka hendaklah engkau jaga dirimu sendiri, dan jauhilah orang-orang awam (bodoh). Sebab di belakang kalian ada hari-hari (yang kalian wajib) bersabar, sabar pada saat itu seperti seseorang yang memegang bara api, dan orang yang beramal pada saat itu pahalanya sebanding dengan lima puluh kali amalan orang yang beramal seperti amalnya, ia menambahkan untukku, "seperti amalan selainnya." Abu Tsa'labah bertanya, "Wahai Rasulullah, seperti pahala lima puluh orang dari mereka!" beliau menjawab: "(Bahkan) seperti pahala lima puluh orang dari kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4341</td></tr><tr><td>Arabic No</td><td>4341</td></tr><tr><td>Reference</td><td>Book 39 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Умайя аш-Ша‘бани сказал: Я спросил Абу Са‘лябу аль-Хушани: «О Абу Са‘ляба, что ты можешь сказать об аяте “Позаботьтесь о себе” (сура “аль-Маида”, аят 105)?» Он ответил: «Клянусь Аллахом, спросил ты у знающего... Я спрашивал об этом Посланника Аллаха ﷺ и он сказал: “О нет, побуждайте к одобряемому и удерживайте от порицаемого. А когда увидишь, что люди повинуются скупости, следуют своим страстям и предпочитают этот мир (миру вечному) и что каждый человек довольствуется своим мнением и считает его правильным, тогда уже заботься о себе и не обращай внимания на остальных. Ибо, поистине, впереди у вас дни терпения (это упоминание о днях терпения достоверно). В эти дни терпение будет подобно сжиманию в руке раскалённого угля, и того, кто будет совершать благие дела в эти дни, ожидает награда пятидесяти человек, совершающих такие же дела”. Люди спросили: “О Посланник Аллаха награда пятидесяти из них?” Он ответил: “Награда пятидесяти из вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4341</td></tr><tr><td>Arabic No</td><td>4341</td></tr><tr><td>Reference</td><td>Book 39 Hadith 51</td></tr></tbody></table></div>
 

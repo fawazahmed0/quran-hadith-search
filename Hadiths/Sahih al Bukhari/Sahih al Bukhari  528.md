@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "If there was a riv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] berkata, telah menceritakan kepadaku [Ibnu Abu Hazim] dan [Ad Darawardi] dari [Yazid] -yakni Ibnu 'abdullah bin Al Hadi- dari [Muhammad bin Ibrahim] dari [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah], bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagaimana pendapat kalian seandainya ada sungai di depan pintu rumah salah seorang dari kalian, lalu dia mandi lima kali setiap hari? Apakah kalian menganggap masih akan ada kotoran (daki) yang tersisa padanya?" Para sahabat menjawab, "Tidak akan ada yang tersisa sedikitpun kotoran padanya." Lalu beliau bersabda: "Seperti itu pula dengan shalat lima waktu, dengannya Allah akan menghapus semua kesalahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>528</td></tr><tr><td>Arabic No</td><td>528</td></tr><tr><td>Reference</td><td>Book 9 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что он слышал, как Посланник Аллаха ﷺ говорил: «Скажите, если бы у дверей (дома) любого из вас протекала река и он купался в ней по пять раз ежедневно, остался ли бы он грязным после этого?» Они ответили: «От грязи не осталось бы и следа». Тогда (Пророк ﷺ) сказал: «А это подобно пяти молитвам, посредством которых Аллах стирает прегрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>528</td></tr><tr><td>Arabic No</td><td>528</td></tr><tr><td>Reference</td><td>Book 9 Hadith 7</td></tr></tbody></table></div>
 

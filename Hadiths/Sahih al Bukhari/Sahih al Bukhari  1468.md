@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) (p.b.u.h) ordered (a person) to col
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah Shallallahu'alaihiwasallam memerintahkan untuk menunaikan shadaqah (zakat). Lalu dikatakan kepada Beliau bahwa Ibnu Jamil, Khalid bin Al Walid dan 'Abbas bin 'Abdul Muthalib tidak mau mengeluarkan zakat. Maka Nabi Shallallahu'alaihiwasallam bersabda: "Apa yang bisa mengingkari Ibnul jamil tidak mengeluarkan zakatnya sebab dahulunya dia faqir namun kemudian Allah dan RasulNya menjadikannya kaya? Adapun Khalid, sungguh kalian telah menzhalimi Khalid, padahal dia telah menghabiskan baju-baju besi dan peralatan perangnya untuk berjuang di jalan Allah. Adapun 'Abbas bin 'Abdul Muthalib dia adalah paman Rasulullah Shallallahu'alaihiwasallam, namun demikian dia tetap wajib berzakat dan juga kewajiban lain serupa zakat (sebagai kemuliaan) ". Dan hadits ini diperkuat oleh [Ibnu Abu Az Zinad] dari [Bapaknya], dan [Ibnu Ishaq] berkata dari [Abu Az Zinad]; "Baginya tetap wajib berzakat dan juga kewajiban lain serupa zakat", dan [Ibnu Juraij] berkata; "Telah diriwayatkan kepadaku dari Al A'raj dengan hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1468</td></tr><tr><td>Arabic No</td><td>1468</td></tr><tr><td>Reference</td><td>Book 24 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ велел (одному человеку собрать) садаку, а (через некоторое время этот человек вернулся и сказал ему): “Ибн Джамиль, Халид бин аль-Валид и ‘Аббас бин ‘Абд аль-Мутталиб отказались (платить закят)”. Тогда Пророк ﷺ сказал: “Что мешает Ибн Джамилю (выплатить закят), ведь он был беден, а Аллах и посланник Его обогатили его? Что касается Халида, то вы несправедливы по отношению к нему, ведь у него имеются доспехи и (прочее) военное снаряжение (для сражений) на пути Аллаха. Что же касается ‘Аббаса бин ‘Абд аль-Мутталиба, то он является дядей Посланника Аллаха, и ему следует (не только выплатить) закят, но и прибавить к нему ещё столько же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1468</td></tr><tr><td>Arabic No</td><td>1468</td></tr><tr><td>Reference</td><td>Book 24 Hadith 70</td></tr></tbody></table></div>
 

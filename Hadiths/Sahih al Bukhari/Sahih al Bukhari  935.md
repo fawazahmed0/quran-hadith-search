@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) (p.b.u.h) talked about Friday and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam membicarakan perihal hari Jum'at. Beliau mengatakan: "Pada hari Jum'at itu ada satu saat, tidaklah seorang hamba Muslim mengerjakan shalat lalu dia berdo'a tepat pada saat tersebut melainkan Allah akan mengabulkan do'anya tersebut." Kemudian beliau memberi isyarat dengan tangannya yang menunjukkan sedikitnya saat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>935</td></tr><tr><td>Reference</td><td>Book 11 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ упомянул (в разговоре с людьми) о пятнице и сказал: «Есть в (этот день определенный) час, и если раб (Аллаха), являющийся мусульманином и совершающий (в это время) намаз попросит о чем-нибудь Аллаха Всевышнего, то Он обязательно дарует ему это», после чего сделал рукой знак, желая указать, что этот промежуток времени крайне мал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>935</td></tr><tr><td>Reference</td><td>Book 11 Hadith 59</td></tr></tbody></table></div>
 

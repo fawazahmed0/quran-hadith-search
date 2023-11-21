@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra bint 'Abdur-Rahman from 'Aisha:Allah's Messenger (ﷺ) mentioned 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abu Al Hasan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Al Awza'iy] berkata, telah menceritakan kepada saya [Yahya bin Sa'id] berkata, telah menceritakan kepada saya ['Amrah binti 'Abdurrahman] dari ['Aisyah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam memberitahu bahwa Beliau akan beri'tikaf pada sepuluh hari terakhir bulan Ramadhan. Lalu 'Aisyah radliallahu 'anha meminta izin kepada Beliau (untuk membuat bangunan (tenda) khusus) maka dia diijinkan. Kemudian Hafshah meminta 'Aisyah radliallahu 'anha agar memintakan izin kepada Beliau untuknya lalu dilakukan oleh 'Aisyah radliallahu 'anha. Ketika melihat hal itu, Zainab binti Jahsy memerintahkan pula untuk membuatkan tenda, maka tenda itu dibuat untuknya. 'Aisyah radliallahu 'anha berkata: Adalah Rasulullah shallallahu 'alaihi wasallam bila telah selesai dari shalat, Beliau kembali ke tempat khusus i'tikaf. Maka Beliau melihat ada banyak tenda, lalu berkata: "Apa ini?" Mereka menjawab: "Ini tenda-tenda milik 'Aisyah, Hafshah dan Zainab". Maka Beliau bersabda: "Apakah mereka mengharapkan kebajikan dengan tenda-tenda ini?. Aku tidak akan beri'tikaf". Maka Beliau pulang ke rumah. Setelah Lebaran 'Iedul Fithri Beliau i'tikaf sepuluh hari di bulan Syawal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2045</td></tr><tr><td>Arabic No</td><td>2045</td></tr><tr><td>Reference</td><td>Book 33 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал, что будет совершать и‘тикяф в последние десять дней рамадана. ‘Аиша попросила его разрешения совершать и‘тикяф, и он разрешил ей. Затем Хафса попросила ‘Айшу спросить Пророка ﷺ разрешения тоже совершать и‘тикяф, и она так и сделала. Увидев это, Зейнаб бинт Джахш приказала установить для неё палатку, и она была установлена. Закончив утреннюю молитву, Посланник Аллаха ﷺ отправился к своей палатке, и увидев эти палатки, спросил: «Что это?» Ему ответили: «Это палатки ‘Аиши, Хафсы и Зейнаб». Тогда Посланник Аллаха ﷺ сказал: «Они сделали это из благочестия? Я не буду совершать и‘тикяф». И вернулся домой, а когда закончился рамадан, он совершил и‘тикяф в течение десяти дней в месяце шавваль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2045</td></tr><tr><td>Arabic No</td><td>2045</td></tr><tr><td>Reference</td><td>Book 33 Hadith 20</td></tr></tbody></table></div>
 

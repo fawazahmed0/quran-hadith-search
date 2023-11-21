@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id al-Khudri reported the Messenger of Allah (ﷺ) as saying:When one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] dari [Malik] dari [Zaid bin Aslam] dari [Abdurrahman bin Abi Sa'id Al-Khudri] dari [Abu Sa'id Al-Khudri] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian mengerjakan shalat, maka janganlah dia membiarkan orang lewat di depannya, dan hendaklah dia mencegahnya semampunya. Jika dia menolak, maka lawanlah, sesungguhnya dia itu setan." Telah menceritakan kepada kami [Muhammad bin Al-'Ala'] telah menceritakan kepada kami [Abu Khalid] dari [Ibnu 'Ajlan] dari [Zaid bin Aslam] dari [Abdurrahman bin Abu Sa'id Al-Khudri] dari [Ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian shalat, maka hendaklah dia menghadap sutrah dan mendekatlah padanya", kemudian dia melanjutkan hadits itu secara makna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (505)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>697</td></tr><tr><td>Reference</td><td>Book 2 Hadith 307</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас будет совершать молитву, пусть никому не позволяет пройти перед собой и оттолкнет его (проходящего) на столько, насколько сможет, а если тот станет упря­миться, то пусть сразится с ним, ибо, поистине, это – шайтан».Шейх аль-Альбани сказал: «Достоверный хадис /сахих/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (505)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>697</td></tr><tr><td>Reference</td><td>Book 2 Hadith 307</td></tr></tbody></table></div>
 

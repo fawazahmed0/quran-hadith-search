@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Sa'd al-Sa'idi reported:The Apostle of Allah (ﷺ) went to Bani Amr b. '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>421.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Сахль ибн Са‘д ас-Са‘иди сказал: «(Однажды) Пророк Аллаха ﷺ отправился, чтобы примирить (людей из племени) ‘амр ибн ‘ауф…» подобно предыдущим хадисам, но здесь он добавил: «…тем временем пришёл Посланник Аллаха ﷺ, он пробрался между рядами и встал в (первый) ряд». Также здесь он сказал, что Абу Бакр стал пятится назад
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>421.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 113</td></tr></tbody></table></div>
 

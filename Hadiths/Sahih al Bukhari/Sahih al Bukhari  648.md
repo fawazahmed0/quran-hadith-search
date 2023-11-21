@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama bin 'Abdur Rahman:Abu Huraira said, "I heard Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdurrahman] bahwa [Abu Hurairah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat berjama'ah lebih utama dibanding shalatnya salah seorang dari kalian dengan sendirian dengan dua puluh lima bagian. Dan Malaikat malam dan Malaikat siang berkumpul pada shalat fajar." Abu Hurairah kemudian berkata, "Jika mau silahkan baca: '(Sesungguhnya shalat fajar disaksikan (oleh para Malaikat) ' (Qs. Al Israa: 78). [Syu'aib] berkata; telah menceritakan kepadaku [Nafi'] dari ['Abdullah bin 'Umar] ia berkata, "(Shalat berjama'ah) dilebihkan dengan dua puluh tujuh derajat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 10 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ говорил: «Коллективный намаз превосходит намаз, совершаемый любым из вас в одиночестве, на двадцать пять ступеней, и ангелы ночи встречаются с ангелами дня во время утреннего намаза».\nЗатем Абу Хурайра сказал: «И читайте, если пожелаете(, тот аят, где сказано): “…поистине, (чтение) Корана утром будет иметь свидетелей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 10 Hadith 45</td></tr></tbody></table></div>
 

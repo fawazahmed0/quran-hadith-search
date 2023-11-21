@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh (رضي الله عنهما) a dit : J'étais en voyage a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>766</td></tr><tr><td>Reference</td><td>Book 6 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Однажды,) когда я был в пути вместе с Посланником Аллаха ﷺ и мы достигли водопоя, он сказал: “Ты не войдёшь (в этот водоём), о Джабир?”, я ответил: “Конечно (войду)”. После этого Посланник Аллаха ﷺ спешился, а я вошёл (в водоём на верховом животном). Затем он пошёл, чтобы справить нужду, а я приготовил ему воду для омовения.Затем он вернулся и совершил омовение, а затем встал и помолился в одной одежде, краями которой он (покрывал себе плечи,) накидывая их друг на друга. Я встал позади него, а он взял меня за ухо и поставил справа от себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>766</td></tr><tr><td>Reference</td><td>Book 6 Hadith 233</td></tr></tbody></table></div>
 

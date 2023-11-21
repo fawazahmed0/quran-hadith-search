@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:Allah's Messenger (ﷺ) said, "None has more sense
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Abu Wail] dari ['Abdullah radliallahu 'anhu] dia berkata; apakah kamu mendengarnya dari Abdullah? Dia menjawab; Ya, secara marfu' dia berkata; "Tidak ada yang lebih pencemburu dari Allah. Karena itulah Dia mengharamkan segala yang keji baik yang nampak maupun yang tidak nampak. Dan tidak ada yang lebih suka dipuji selain Allah karena itulah Dia memuji diri-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4637</td></tr><tr><td>Arabic No</td><td>4637</td></tr><tr><td>Reference</td><td>Book 65 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (Ибн Масуд), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Нет никого ревнивее, чем Аллах. Именно поэтому Он запретил совершать мерзкие поступки, как явные, так и скрытые. И никто не любит прославления больше, чем Аллах. Именно поэтому Он прославляет Себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4637</td></tr><tr><td>Arabic No</td><td>4637</td></tr><tr><td>Reference</td><td>Book 65 Hadith 159</td></tr></tbody></table></div>
 

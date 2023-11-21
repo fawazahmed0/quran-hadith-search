@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (p.b.u.h) said, "The best charity is that which
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] dari [Yunus] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Sa'id bin Al Musayyab] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam berkata,: "Shadaqah yang paling baik adalah dari orang yang sudah cukup (untuk kebutuhan dirinya). Maka mulailah untuk orang-orang yang menjadi tanggunganmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 24 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Лучшая милостыня — та, которая оставляет человека состоятельным, или та, которую человек подаёт, будучи состоятельным. И начинай с тех, кто находится на твоём содержании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 24 Hadith 30</td></tr></tbody></table></div>
 

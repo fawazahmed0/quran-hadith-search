@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Buraida reported on the authority of his father that Allah's Apostle (ﷺ) said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] dari [Sufyan] dari ['Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barang Siapa yang bermain dengan permainan Nardasyir (sejenis catur), maka seolah-olah ia telah melumuri tangannya dengan daging dan darah babi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5896</td></tr><tr><td>Arabic No</td><td>2260</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5896</td></tr><tr><td>Arabic No</td><td>2260</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
 

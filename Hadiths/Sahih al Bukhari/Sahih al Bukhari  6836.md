@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid:A bedouin came to the Prophet (ﷺ) whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ashim bin 'Ali] telah menceritakan kepada kami [Ibnu Abi dzi'b] dari [Az Zuhri] dari [Ubaidullah] dari [Abu Hurairah] dan [Zaid bin Khalid]; ada seorang laki-laki dari arab badui menemui Nabi shallallahu 'alaihi wasallam yang ketika itu beliau sedang duduk, ia berseru; 'Ya Rasulullah, Putuskanlah dengan kitabullah! ' berdirilah lawan sengketanya dan berujar; 'Ia benar, putuskanlah baginya ya Rasulullah dengan kitabullah. Anakku menjadi pekerja laki-laki ini, ia kemudian berzina dengan isterinya, orang-orang mengabariku bahwa anakku harus dirajam, maka aku menebusnya dengan seratus ekor kambing dan satu hamba sahaya, kemudian aku bertanya kepada para ahlu ilmu dan mereka nyatakan bahwa anakku harus didera seratus kali dan diasingkan selama setahun.' Maka Nabi bersabda: "Demi Dzat yang jiwaku berada di tangan-NYA, aku akan memutuskan perkara diantara kalian berdua dengan kitabullah, adapun kambing dan hamba sahaya itu, dikembalikan kepadamu, sedang anakmu harus didera seratus kali dan diasingkan selama setahun, adapun engkau hai Unais, datanglah ke istri lelaki ini, dan rajamlah dia." Maka Unais mendatangi (istri lelaki tersebut) dan merajamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6836</td></tr><tr><td>Arabic No</td><td>6836</td></tr><tr><td>Reference</td><td>Book 86 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6836</td></tr><tr><td>Arabic No</td><td>6836</td></tr><tr><td>Reference</td><td>Book 86 Hadith 60</td></tr></tbody></table></div>
 

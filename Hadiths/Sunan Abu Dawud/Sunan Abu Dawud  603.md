@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: The imam is appointed only to be f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Muslim dan Ibrahim] dengan makna, dari [Wuhaib] dari [Mush'ab bin Muhammad] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Imam itu dijadikan hanyalah untuk diikuti, apabila dia bertakbir maka bertakbirlah kalian dan janganlah kalian bertakbir hingga dia bertakbir, apabila dia rukuk maka rukuklah kalian dan janganlah kalian rukuk hingga dia rukuk, apabila dia mengucapkan, 'Sami'allaahu liman hamidah' (Allah mendengar kepada orang yang memujiNya), maka ucapkanlah, 'Allahumma Rabbanaa Walakal Hamdu' (Ya Allah, wahai Rabb Kami, segala puji hanya bagiMu). Muslim menyebutkan (dengan lafazh); Walakalhamdu. Apabila dia sujud maka sujudlah kalian dan janganlah kalian sujud hingga dia sujud, apabila dia shalat dengan berdiri maka shalatlah kalian dengan berdiri dan apabila dia shalat dengan duduk maka shalatlah kalian semua dengan duduk." Abu Dawud menyebutkan; Allahumma Rabbana Lakalhamdu, telah memahamkan saya sebagian sahabat kami, dari [Sulaiman] telah menceritakan kepada kami [Muhammad bin Adam Al-Mishshishi] telah menceritakan kepada kami [Abu Khalid] dari [Ibnu 'Ajlan] dari [Zaid bin Aslam] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya imam itu dijadikan hanyalah untuk diikuti, " dengan hadits ini, dan dia menambahkan; Dan apabila dia (imam) membaca (Al Quran) maka diamlah kalian. Abu Dawud berkata; Tambahan ini, yakni, "Dan apabila dia (imam) membaca (Al Quran) maka diamlah kalian", tidaklah terhafal, dan kesalahan pada kami dari Abu Khalid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>603</td></tr><tr><td>Arabic No</td><td>603</td></tr><tr><td>Reference</td><td>Book 2 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Имам назначается для того, чтобы (во время молитвы) другие следовали за ним. Поэтому, если он возвеличит Аллаха, то и вы возвеличьте Его, и не делайте этого раньше него. Когда он совершит поясной поклон, вы тоже поклонитесь, и не делайте это раньше него. Когда он скажет: “Да услышит Аллах того, кто Его восхваляет!” - говорите: “О Аллах, Господь наш! Хвала Тебе!” (Аллахумма раббана лякаль-хамд). И когда он совершит земной поклон, вы тоже совершайте земной поклон, и не делайте этого раньше него. Если он совершает молитву стоя, то молитесь стоя, а если он совершает молитву сидя, то и вы молитесь сидя вместе с ним”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>603</td></tr><tr><td>Arabic No</td><td>603</td></tr><tr><td>Reference</td><td>Book 2 Hadith 213</td></tr></tbody></table></div>
 

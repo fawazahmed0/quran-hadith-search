@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usaid b. Zuhair: Rafi' b. Khadij came to us and said: The Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Manshur], dari [Mujahid] bahwa [Usaid bin Zhuhair] berkata; [Rafi' bin Khudaij] telah datang kepada kami dan berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kalian dari suatu perkara yang dahulu memberikan manfaat kepada kalian, sedang ketaatan kepada Allah dan Rasulullah shallallahu 'alaihi wasallam adalah lebih bermanfaat bagi kalian. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam melarang kalian dari haql (menjual gandum dalam bulirnya dengan gandum yang bersih dalam timbangan tertentu), beliau bersabda: "Barangsiapa yang tidak membutuhkan tanahnya maka hendaknya ia memberikannya kepada saudaranya atau membiarkannya!" Abu Daud berkata; dan demikianlah hadits tersebut diriwayatkan oleh [Syu'bah] dan [Mufadhdhal bin Muhalhal], dari [Manshur]. Syu'bah berkata; Usaid adalah anak saudara Rafi' bin Khadij
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3398</td></tr><tr><td>Arabic No</td><td>3398</td></tr><tr><td>Reference</td><td>Book 23 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Усайд ибн Зухайр передаёт: К нам пришёл Рафи‘ ибн Хадидж и сказал: «Посланник Аллаха ﷺ запретил вам нечто, приносившее вам пользу, но покорность Аллаху и Его Посланнику намного полезнее для вас. Посланник Аллаха ﷺ запретил вам издольщину и сказал: “Кто не нуждается в земле, которую имеет, пусть даст её брату своему в бесплатное пользование или просто оставит”». Шу‘ба говорил, что Усайд сын брата Рафи‘
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3398</td></tr><tr><td>Arabic No</td><td>3398</td></tr><tr><td>Reference</td><td>Book 23 Hadith 73</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hafsa, daughter of 'Abd al-Rahman b. Abu Bakr, reported that 'A'isha narrated to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Laits] dari [Yazid] dari ['Irak] dari [Hafshah binti Abdurrahman bin Abi Bakar] sedangkan dia ketika itu menjadi istri al-Mundzir bin az-Zubair bahwa [Aisyah] mengabarkan kepadanya bahwa dia mandi bersama Nabi shallallahu 'alaihi wasallam dalam satu bejana yang lebarnya tiga mud atau mendekati itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>730</td></tr><tr><td>Arabic No</td><td>321.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша рассказывала о том, что она совершала полное омовение вместе с Пророком ﷺ, (черпая воду) из одного и того же сосуда, вмещавший в себя три мудда или близко к этому
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>730</td></tr><tr><td>Arabic No</td><td>321.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 52</td></tr></tbody></table></div>
 

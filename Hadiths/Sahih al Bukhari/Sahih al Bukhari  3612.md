@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab bin Al-Arat:We complained to Allah's Messenger (ﷺ) (of the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3612</td></tr><tr><td>Arabic No</td><td>3612</td></tr><tr><td>Reference</td><td>Book 61 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб бин аль-Аратт, да будет доволен им Аллах, сказал: «(Однажды,) когда Посланник Аллаха ﷺ лежал в тени Каабы, положив себе под голову свой плащ, мы стали (жаловаться) ему, говоря: “Не попросишь ли ты помощи для нас? Не обратишься ли к Аллаху с мольбой за нас?” (В ответ на это) он сказал: “Среди живших до вас бывало так, что человека хватали, вырывали для него в земле яму, помещали туда, а потом приносили пилу, клали ему на голову и распиливали его надвое, (однако и) это не (могло заставить) его отречься от своей религии, и (бывало так, что человека) раздирали железными гребнями, отделявшими мясо от костей (или: нервов), но и это не (могло заставить) его отречься от своей религии! Клянусь Аллахом, Аллах обязательно приведёт это дело к завершению, и (будет так, что) всадник, направляющийся из Сан’ы в Хадрамаут, не станет бояться никого, кроме Аллаха или (нападения) волка на своих овец, но вы (слишком) торопитесь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3612</td></tr><tr><td>Arabic No</td><td>3612</td></tr><tr><td>Reference</td><td>Book 61 Hadith 119</td></tr></tbody></table></div>
 

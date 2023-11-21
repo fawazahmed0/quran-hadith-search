@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Apostle (ﷺ) as saying:Everyone who is reckoned thoroug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdurrahman bin Bisyr bin Al Hakam Al Abdi] telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan] telah menceritakan kepada kami [Abu Yunus Al Qusyairi] telah menceritakan kepada kami [Ibnu Abi Mulaikah] dari [Al Qasim] dari [Aisyah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Tidaklah seseorang dihisab melaikan ia pasti binasa." Aku bertanya: Wahai Rasulullah, bukankah Allah berfirman: "Maka dia akan diperiksa dengan pemeriksaan yang mudah." (Al Insyiqaaq: 8) beliau menjawab: "Itu adalah pemeriksaan, tapi orang yang dibantah (saat) penghisaban, ia binasa." Telah menceritakan kepadaku [Abdurrahman bin Bisyr] telah menceritakan kepadaku [Yahya Al Qaththan] dari [Utsman bin Al Aswad] dari [Ibnu Abi Mulaikah] dari [Aisyah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Barangsiapa dibantah (saat) penghisaban, ia binasa." Lalu ia menyebut seperti hadits Abu Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7227</td></tr><tr><td>Arabic No</td><td>2876.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7227</td></tr><tr><td>Arabic No</td><td>2876.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 96</td></tr></tbody></table></div>
 

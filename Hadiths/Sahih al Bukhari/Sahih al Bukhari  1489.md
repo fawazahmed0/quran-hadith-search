@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:'Umar bin Al-Khattab gave a horse in charity in All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Salim] bahwa ['Abdullah bin 'Umar radliallahu 'anhua] menceritakan bahwa 'Umar bin Al Khaththab radliallahu 'anhu menshadaqahkan kudanya yang digunakannya untuk berperang di jalan Allah, lalu dia mendapatkan shadaqah kudanya itu dijual. Kemudian dia berkendak membelinya kembali. Maka dia menemui Nabi Shallallahu'alaihiwasallam dengan tujuan meminta saran. Maka Beliau Shallallahu'alaihiwasallam bersabda: "Jangan kamu mengambil kembali shadaqahmu". Oleh karena itu 'Abdullah bin 'Umar radliallahu 'anhuma tidak pernah membeli kembali apa yang telah dishadaqahkannya karena sudah dijadikannya sebagai shadaqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 24 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, отдал коня в качестве милостыни на пути Аллаха, а потом обнаружил, что этого коня продают, и хотел купить его. Он спросил об этом Посланника Аллаха ﷺ и тот сказал: «Не бери назад свою милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 24 Hadith 89</td></tr></tbody></table></div>
 

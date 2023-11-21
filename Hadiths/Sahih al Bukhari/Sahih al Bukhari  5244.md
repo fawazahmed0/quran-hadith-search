@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "When anyone of you i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ashim bin Sulaiman] dari [Asy Sya'bi] bahwa ia mendengar [Jabir bihn Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian pergi agak lama, maka janganlah ia mendatangi keluarganya secara mendadak di malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 67 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдилляха, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас будет долго отсутствовать (дома), не следует ему возвращаться к своей семье ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 67 Hadith 177</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu'l-Bakhtari reported:We saw the new moon of Ramadan as we were at Dhit-i-'Irq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepada kami [Syu'bah] dari [Amru bin Murrah] ia berkata, saya mendengar [Abul Bakhtari] ia berkata; Ketika kami berada di Dzat 'Irq, kami melihat Hilal bulan Ramadlan. Lalu kami utus seorang laki-laki kepada [Ibnu Abbas] untuk menanyakannya. Maka Ibnu Abbas pun berkata; Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Sesungguhnya Allah telah membentangkannya untuk dilihat. Jika bulan itu tertutup dari pandanganmu, maka sempurnakanlah bilangannya (tiga puluh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2530</td></tr><tr><td>Arabic No</td><td>1088.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2530</td></tr><tr><td>Arabic No</td><td>1088.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
 

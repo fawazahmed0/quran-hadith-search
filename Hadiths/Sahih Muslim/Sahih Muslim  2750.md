@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada Ansari (Allah be pleased with him) reported that Allah's Massenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Mahdi bin Maimun] dari [Ghailan] dari [Abdullah bin Ma'bad Az Zimani] dari [Abu Qatadah Al Anshari] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam pernah ditanya mengenai puasa pada hari Senin, maka beliau pun menjawab: "Di hari itulah saya dilahirkan, dan pada hari itu pula, wahyu diturunkan atasku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2750</td></tr><tr><td>Arabic No</td><td>1162.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Къатады аль-Ансари, да будет доволен им Аллах, о том, что (как-то раз) Посланника Аллаха ﷺ спросили о соблюдении поста в понедельник и он сказал: «В этот день я родился и (в этот) день мне было ниспослано (первое откровение)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2750</td></tr><tr><td>Arabic No</td><td>1162.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 256</td></tr></tbody></table></div>
 

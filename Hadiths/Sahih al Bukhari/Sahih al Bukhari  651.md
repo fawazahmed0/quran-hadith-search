@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "The people who get tremendous reward 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Abu Usmah] dari [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang paling banyak mendapatkan pahala dalam shalat adalah mereka yang paling jauh (jarak rumahnya ke masjid), karena paling jauh dalam perjalanannya menuju masjid. Dan orang yang menunggu shalat hingga dia melaksanakan shalat bersama imam lebih besar pahalanya dari orang yang melaksanakan shalat kemudian tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651</td></tr><tr><td>Arabic No</td><td>651</td></tr><tr><td>Reference</td><td>Book 10 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Наибольшую награду за совершение намаза получат те (люди), которые проходят наибольшее (расстояние до мечети), а награда дожидающегося намаза, чтобы совершить его вместе с имамом, будет больше награды того, кто совершает намаз, а потом засыпает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651</td></tr><tr><td>Arabic No</td><td>651</td></tr><tr><td>Reference</td><td>Book 10 Hadith 48</td></tr></tbody></table></div>
 

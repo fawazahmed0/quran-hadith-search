@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuAyyash: The Messenger of Allah (ﷺ) said: If anyone says in the mor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dan [Wuhaib] seperti itu, dari [Suhail] dari [Bapaknya] dari [Ibnu Abu Aisy]. - [Hammad] berkata; - dari [Abu Ayyasy] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa di waktu pagi membaca: LAA ILAAHA ILLAALLAHU WAHDAHU LAA SYARIIKALAH LAHUL MULKU WA LAHUL HAMDU WA HUWA 'ALA KULLU SYAI'IN QADIIR (Tidak ada Tuhan selain Allah semata, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan pujian. Dan Dia Maha Kuasa atas segala sesuatu). Maka ia akan mendapatkan pahala senilai memerdekakan seorang budak dari keturunan Isma'il, akan dituliskan untuknya sepuluh kebaikan, dihapus darinya sepuluh dosa, dan ia akan dinaikkan sepuluh derajat. Dia juga akan dijaga dari setan hingga datang waktu sore. Jika pada waktu sore ia membaca doa itu maka ia akan mendapatkan yang seperti itu hingga tiba waktu pagi." Dalam hadits [Hammad] disebutkan, "Seorang laki-laki melihat Rasulullah shallallahu 'alaihi wasallam dalam mimpi, laki-laki itu berkata, "Wahai Rasulullah, Abu Ayyasy menceritakan tentangmu begini dan begini!" Beliau bersabda: "Abu Ayyasy benar." Abu Dawud berkata, " [Isma'il bin Ja'far], [Musa Az Zam'I] dan [Abdullah bin Ja'far] meriwayatkannya dari [Suhail], dari [bapaknya], dari [Ibnu 'A'isy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 43 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 43 Hadith 305</td></tr></tbody></table></div>
 

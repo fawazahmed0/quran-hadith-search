@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id Ibn Zaid:The Prophet (ﷺ) said, "Al-Kam'a is like the Mann (swee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] Telah menceritakan kepada kami [Syu'bah] dari ['Abdul Malik] dari ['Amru bin Huraits] dari [Sa'id bin Zaid] dari Nabi shallallahu 'alaihi wasallam bersabda: "Al Kam'ah (cendawan) itu sejenis Manna, airnya adalah obat untuk penyakit mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4639</td></tr><tr><td>Arabic No</td><td>4639</td></tr><tr><td>Reference</td><td>Book 65 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘ида ибн Зейда, что Пророк ﷺ сказал: «Трюфели из манны, а (выделяемая ими) жидкость является лекарством для глаз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4639</td></tr><tr><td>Arabic No</td><td>4639</td></tr><tr><td>Reference</td><td>Book 65 Hadith 161</td></tr></tbody></table></div>
 

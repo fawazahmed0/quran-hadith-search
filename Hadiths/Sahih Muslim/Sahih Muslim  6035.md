@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Simak b. Harb reported:I said to Jabir b. Samura: Did you have the privilege of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Khaitsamah] dari [Simak bin Harb] dia berkata; 'Aku bertanya kepada [Jabir bin Samurah]; "Pernahkah kamu duduk bersama Rasulullah shallallahu 'alaihi wasallam?" Jawab Jabir; "Bahkan sering. Beliau biasanya belum berdiri dari tempat shalat (di mana beliau shalat) shubuh, sebelum terbit matahari. Apabila matahari telah terbit barulah beliau berdiri. Selama duduk-duduk itu, para sahabat ada yang bercakap-cakap membicarakan urusan masa jahiliyah, lalu mereka tertawa, sedangkan beliau hanya tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6035</td></tr><tr><td>Arabic No</td><td>2322</td></tr><tr><td>Reference</td><td>Book 43 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6035</td></tr><tr><td>Arabic No</td><td>2322</td></tr><tr><td>Reference</td><td>Book 43 Hadith 93</td></tr></tbody></table></div>
 

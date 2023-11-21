@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:I have held covenant with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan ['Abad bin Humaid] keduanya berkata; [Zuhair] Telah menceritakan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami anak saudaraku yaitu [Ibnu Syihab] dari [Pamannya]; Telah menceritakan kepadaku [Sa'id bin Al Musayyab] dari [Abu Hurairah] dia berkata; "Ya Allah, sesungguhnya aku telah membuat perjanjian dengan-Mu yang Engkau tidak akan menyelisihinya. Maka mukmin mana saja yang pernah aku cela, atau aku cambuk, hendaklah hal itu Engkau gantikan untuknya sebagai penghapus dosa pada hari kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6624</td></tr><tr><td>Arabic No</td><td>2601.07</td></tr><tr><td>Reference</td><td>Book 45 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6624</td></tr><tr><td>Arabic No</td><td>2601.07</td></tr><tr><td>Reference</td><td>Book 45 Hadith 122</td></tr></tbody></table></div>
 

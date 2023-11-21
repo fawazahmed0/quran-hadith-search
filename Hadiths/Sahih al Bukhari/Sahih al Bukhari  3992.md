@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rifaa:(who was one of the Badr warriors) Gabriel came to the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Yahya bin Sa'id] dari [Mu'adz bin Rifa'ah bin Rafi' Az Zuraqiy] dari [bapaknya] dimana bapaknya adalah orang yang ikut perangBAdar, berkata; "Jibril 'alaihis salam datang kepada Nabi shallallahu 'alaihi wasallam lalu berkata; "Siapakah diantara kalian yang kamu siapkan untuk pasukan Badar?"Beliau menjawab: "Mereka adalah kalangan muslim yang terbaik". Atau kalimat serupa itu. Maka Jibril berkata: "Begitu juga yang ikut perang Badar dari kalangan malaikat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3992</td></tr><tr><td>Arabic No</td><td>3992</td></tr><tr><td>Reference</td><td>Book 64 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рифа‘а ибн Рафи‘ аз-Зураки, да будет доволен им Аллах, отец которого был участником битвы при Бадре, сказал: «(Однажды) Джибриль явился к Пророку ﷺ и спросил: “Кем вы считаете тех из вас, кто участвовал в битве при Бадре?” (Пророк ﷺ) ответил: “Лучшими из мусульман”, или же (он сказал) что-то подобное. (Джибриль) сказал: “Такими же являются и ангелы, принимавшие участие в битве при Бадре”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3992</td></tr><tr><td>Arabic No</td><td>3992</td></tr><tr><td>Reference</td><td>Book 64 Hadith 43</td></tr></tbody></table></div>
 

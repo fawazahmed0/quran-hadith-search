@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:While we were with Allah's Messenger (ﷺ) in a holy battle, w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Muqatil Abul Hasan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Khalid Al Hadzdza'] dari [Abu Utsman an Nahdi] dari [Abu Musa] menuturkan; kami pernah bersama Rasulullah Shallallahu'alaihiwasallam dalam suatu peperangan, kami tidak menaiki tanah mendaki atau tanah tinggi atau menuruni lembah selain kami meninggikan suara kami dengan takbir. Kata Abu Musa, kemudian Rasulullah shallallahu 'alaihi wasallam mendekati kami dan bersabda: "Hai manusia, rendahkanlah suara kalian ketika berdoa, sebab kalian tidak menyeru dzat yang tuli lagi tidak ghaib, hanyasanya kalian menyeru kepada Dzat yang Maha mendengar lagi Maha melihat." Kemudian beliau bersabda: "hai Abdullah bin Qais, maukah kamu kuajari kalimat yang menjadi harta karun surga?, yaitu ucapan laa-haula walaa quwwata illa billah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6610</td></tr><tr><td>Arabic No</td><td>6610</td></tr><tr><td>Reference</td><td>Book 82 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Абу Муса, да будет доволен им Аллах, сказал: «Однажды мы были вместе с посланником Аллаха ﷺ в одном из военных походов, каждый раз, поднимаясь и восходя на возвышенность или спускаясь в низину, мы возвышали свои голоса, возвеличивая Аллаха, и тогда к нам подошел Посланник Аллаха ﷺ и сказал: “О люди! Умерьте свой пыл! Поистине, вы взываете не к глухому и не к отсутствующему. Поистине, вы взываете к Слышащему, Видящему”. Затем он сказал: “О ‘Абдуллах ибн Кайс, не научить ли мне тебя слову из сокровищ Рая: ‹Нет силы и мощи ни у кого, кроме Аллаха /Ля хауля уа ля куввата илля би-Ллях/›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6610</td></tr><tr><td>Arabic No</td><td>6610</td></tr><tr><td>Reference</td><td>Book 82 Hadith 16</td></tr></tbody></table></div>
 

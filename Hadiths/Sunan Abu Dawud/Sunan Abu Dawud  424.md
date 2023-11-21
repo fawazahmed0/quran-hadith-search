@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Rafi' b. Khadij reported the Messenger of Allah (ﷺ) as saying:Offer Fajr praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il] telah menceritakan kepada kami [Sufyan] dari [Ibnu 'Ajlan] dari ['Ashim bin Umar bin Qatadah bin An Nu'man] dari [Mahmud bin Labid] dari [Rafi' bin Khadij] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Laksanakanlah shalat Shubuh ketika pagi telah tiba, karena itu lebih besar pahalanya bagi kalian, atau lebih agung pahalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>424</td></tr><tr><td>Arabic No</td><td>424</td></tr><tr><td>Reference</td><td>Book 2 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж сказал: «Посланник Аллаха ﷺ сказал: “Совершайте рассветную молитву, когда уже заблистает заря, ибо поистине, это самое большое ваше вознаграждение» или (он сказал): “больше по вознаграждению”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>424</td></tr><tr><td>Arabic No</td><td>424</td></tr><tr><td>Reference</td><td>Book 2 Hadith 34</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: People with a bier passed by the Messenger of Allah (ﷺ).
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Syu'bah] dari [Ibrahim bin 'Amir], dari ['Amir bin Sa'd] dari [Abu Hurairah] ia berkata; orang-orang melewati Rasulullah shallallahu 'alaihi wasallam dengan membawa seorang jenazah, kemudian mereka memuji jenazah tersebut dengan baik, lalu beliau berkata: "Telah wajib baginya surga." Kemudian mereka lewat dengan jenazah yang lain dan mereka lewat dengan membawa jenazah yang lain, dan mereka memberikan persaksian akan keburukannya. Lalu beliau berkata: "Telah wajib baginya neraka." Kemudian beliau berkata: "Sesungguhnya sebagian kalian adalah saksi bagi sebagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3233</td></tr><tr><td>Arabic No</td><td>3233</td></tr><tr><td>Reference</td><td>Book 21 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что однажды мимо Посланника Аллаха ﷺ пронесли погребальные носилки, люди хорошо отозвались о покойном и (Посланник Аллаха ﷺ) сказал: «(Попадание в Рай) стало обязательным». А потом мимо пронесли другие погребальные носилки, люди плохо отозвались о покойном и (Посланник Аллаха ﷺ) сказал: «(Пребывание в Аду) стало обязательным». Затем он сказал: «Поистине, одни из вас являются свидетелями в отношении других»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3233</td></tr><tr><td>Arabic No</td><td>3233</td></tr><tr><td>Reference</td><td>Book 21 Hadith 145</td></tr></tbody></table></div>
 

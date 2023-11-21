@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu Huraira further said: "Allah's Messenger (ﷺ) made them (i.e. the Muslims) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan dari [Shalih] pula, dari [Ibnu Syihab] berkata, telah menceritakan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] radliallahu 'anhu mengabarkan kepada mereka, bahwa Rasulullah shallallahu 'alaihi wasallam mengatur mereka dalam shaf di tempat shalat, lalu beliau menyolati jenazah dengan bertakbir sebanyak empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3881</td></tr><tr><td>Arabic No</td><td>3881</td></tr><tr><td>Reference</td><td>Book 63 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ вышел к месту совершения молитвы, построил (людей) рядами и совершил с ними заупокойную молитву (за ан-Наджаши), произнеся четыре такбира (слова “Аллах велик /Аллаху акбар/”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3881</td></tr><tr><td>Arabic No</td><td>3881</td></tr><tr><td>Reference</td><td>Book 63 Hadith 106</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported the Messenger of Allah (ﷺ) as saying:The best day on whic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Al Mughirah] yakni Al Hizami, dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sebaik-baik hari adalah hari Jum'at, karena pada hari itulah Adam diciptakan. Pada hari itu pula ia dimasukkan ke dalam surga dan pada hari itu pula ia dikeluarkan daripadanya. Dan hari kiamat tidak terjadi kecuali pada hari Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1977</td></tr><tr><td>Arabic No</td><td>854.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Лучшим из дней, в которые (когда-либо) поднималось солнце, является пятница в (этот день) был создан Адам, в (этот день) он был введён в Рай, в (этот день) он был удалён оттуда, и Час этот наступит не иначе как в пятницу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1977</td></tr><tr><td>Arabic No</td><td>854.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 27</td></tr></tbody></table></div>
 

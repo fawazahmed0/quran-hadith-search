@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab:I came to Al-'Asi bin Wail As-Sahmi and demanded something whic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Adl Dluha] dari [Masruq] dia berkata; Aku mendengar [Khabbab] dia berkata; Aku menemui Al 'Ash bin Wail As Sahmi untuk menuntut hakku padanya lalu ia mengatakan "Aku tidak akan memberikannya sehingga kamu kafir terhadap Muhammad." Maka kukatakan; "Tidak, sampai kamu mati dan dibangkitkan kembali." Dia berkata; "Apakah jika aku mati akan dibangkitkan kembali?" 'ya, ' jawabku."Sesungguhnya aku masih memiliki harta dan anak karena itu akan aku bayarkan padamu." Maka turunlah (ayat): Maka apakah kamu telah melihat orang yang kafir kepada ayat-ayat Kami dan ia mengatakan: "Pasti aku akan diberi harta dan anak". (Maryam: 77). diriwayatkan oleh [Ats Tsauri], [Syu'bah], [Hafsh], [Abu Mu'awiyah] dan [Waki'] dari [Al A'masy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4732</td></tr><tr><td>Arabic No</td><td>4732</td></tr><tr><td>Reference</td><td>Book 65 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб, да будет доволен им Аллах, сказал: «Аль-‘Ас Ибн Ва‘иль задолжал мне, и (однажды) я пришёл к нему, чтобы потребовать возврата долга. Он сказал: “Я (ничего) не отдам тебе, пока ты не перестанешь верить в Мухаммада!” Я воскликнул: “Я не перестану верить в него до тех пор, пока ты не умрёшь и не воскреснешь!” Он сказал: “Значит я умру, а потом воскресну?” Я ответил: “Да”. Он сказал: “Тогда, когда у меня будут там имущество и дети, я верну тебе долг!” После этого был ниспослан этот аят: “Видел ли ты того, кто не уверовал в Наши знамения и сказал: “Я непременно буду одарен богатством и детьми?”” (сура “Марьям”, аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4732</td></tr><tr><td>Arabic No</td><td>4732</td></tr><tr><td>Reference</td><td>Book 65 Hadith 254</td></tr></tbody></table></div>
 

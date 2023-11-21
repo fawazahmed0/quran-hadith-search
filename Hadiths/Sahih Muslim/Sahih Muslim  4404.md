@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : "Du temps de l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Humaid bin Abdurrahman Ar Ru'asi] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari ['Aisyah] dia berkata, "Pada zaman Rasulullah shallallahu 'alaihi wasallam tangan pencuri belum bisa dipotong jika (ia mencuri) kurang dari seharga tameng atau perisai yang keduanya punya nilai." Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah mengabarkan kepada kami ['Abdah bin Sulaiman] dan [Humaid bin Abdurrahman]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdurrahim bin Sulaiman]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] semuanya dari [Hisyam] dengan isnad ini, seperti hadits Ibnu Numair, dari Humaid bin Abdurrahman Ar Ru'asi. Dan dalam hadits Abdurrahim dan Abu Usamah disebutkan, "keduanya mempunyai nilai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4404</td></tr><tr><td>Arabic No</td><td>1685.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4404</td></tr><tr><td>Arabic No</td><td>1685.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
 

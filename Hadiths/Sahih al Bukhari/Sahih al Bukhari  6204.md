@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The most beloved names to 'Ali was Abu Turab, and he used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepada kami [Sulaiman] dia berkata; telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] dia berkata; "Bahwa di antara nama-nama yang paling disukai oleh Ali adalah Abu Turab, dan dia lebih suka apabila dipanggil dengan sebutan Abu Turab. Dan tidaklah ia dijuluki Abu Turab melainkan suatu hari Nabi shallallahu 'alaihi wasallam (mengetahui) bahwa antara dia dengan Fathimah ada sedikit permasalahan, lalu dia keluar dan tidur di masjid, ternyata Nabi shallallahu 'alaihi wasallam membuntutinya dan hendak menemuinya, lalu beliau bersabda: "ini dia sedang berbaring di masjid." Kemudian Nabi shallallahu 'alaihi wasallam menemuinya sementara dirinya tengah berbaring hingga banyak debu menempel di punggungnya, maka Nabi shallallahu 'alaihi wasallam membersihkan debu dari punggungnya dan bersabda: "Duduklah wahai Abu Turab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6204</td></tr><tr><td>Arabic No</td><td>6204</td></tr><tr><td>Reference</td><td>Book 78 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Поистине, самым любимым именем ‘Али, да будет доволен им Аллах, было Абу Тураб (пыльный), и он радовался, когда его так называли. (В первый раз) Абу Турабом его назвал Пророк ﷺ. Однажды ‘Али рассердился на (свою жену) Фатыму, вышел (из дома) и лёг у стены в мечети. Когда Пророк ﷺ пришёл в поисках него, (кто-то) сказал: “Он там, лежит у стены”. Когда Пророк ﷺ подошёл к нему, (он увидел, что) его (‘Али) спина была покрыта пылью. Тогда Пророк ﷺ стал стряхивать пыль с его спины, приговаривая: “Вставай, о Абу Тураб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6204</td></tr><tr><td>Arabic No</td><td>6204</td></tr><tr><td>Reference</td><td>Book 78 Hadith 228</td></tr></tbody></table></div>
 

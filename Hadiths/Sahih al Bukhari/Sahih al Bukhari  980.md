@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiyub:Hafsa bint Seereen said, "On Id we used to forbid our girls to go
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Ayyub] dari [Hafshah binti Sirin] berkata, "Dahulu kami melarang anak-anak gadis remaja kami keluar untuk ikut melaksanakan shalat di Hari Raya 'Ied. Lalu datanglah seorang wanita ke kampung Bani Khalaf, maka aku pun menemuinya. Lalu ia menceritakan bahwa suami dari saudara perempuannya pernah ikut perang bersama Nabi shallallahu 'alaihi wasallam sebanyak dua belas peperangan, dan saudara perempuannya itu pernah mendampingi suaminya dalam enam kali peperangan." Ia (saudara wanitanya itu) berkata, "Kami merawat orang yang sakit dan mengobati orang-orang yang terluka." Saudara perempuanku bertanya kepada Rasulullah, "Wahai Rasulullah, apakah berdosa bila seorang dari kami tidak keluar karena tidak memiliki jilbab?" Beliau menjawab: "Hendaklah temannya meminjamkan jilbabnya, sehingga mereka dapat menyaksikan kebaikan dan mendo'akan Kaum Muslimin." Hafshah berkata, "Ketika [Ummu 'Athiyyah] datang, aku menemuinya dan kutanyakan kepadanya, 'Apakah kamu pernah mendengar tentang ini dan ini? ' Dia menjawab, 'Iya. Demi bapakku'. Dan setiap kali dia menceritakan tentang Nabi shallallahu 'alaihi wasallam, dia selalu mengatakan 'Demi bapakku'. Beliau bersabda: "Keluarkanlah para gadis remaja yang dipingit dalam rumah." Atau beliau bersabda: "Para gadis remaja dan wanita-wanita yang dipingit dalam rumah -Ayyub masih ragu- dan wanita yang sedang haid. Dan hendaklah wanita yang sedang haid dijauhkan dari tempat shalat, agar mereka dapat menyaksikan kebaikah dan mendo'akan Kaum Muslimin." Hafshah berkata, "Aku bertanya kepadanya, 'Wanita yang sedang haid juga? ' Dia menjawab, 'Bukankah mereka juga hadir di 'Arafah dan menyaksikan ini dan itu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>980</td></tr><tr><td>Arabic No</td><td>980</td></tr><tr><td>Reference</td><td>Book 13 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хафса бинт Сирин сказала: «(Раньше) мы запрещали нашим девочкам выходить в день праздника, (но однажды) во дворец бани халафа приехала одна женщина, и я отправилась к ней. Она рассказала, что муж ее сестры участвовал в двенадцати битвах вместе с Пророком ﷺ и что ее сестра была со своим мужем в шести из них. Она (т.е. сестра) сказала: “Мы ухаживали за больными и лечили раненых”. Однажды она спросила: “О Посланник Аллаха! Если у женщины нет джильбаба (покрывало), будет ли на ней грех, если она не выйдет (в день праздника)?” Пророк ﷺ ответил: “Пусть ее подруга поделится с ней своим, и пусть принимают участие в благих делах и обращениях верующих к Аллаху (со своими мольбами)”». \nХафса добавила: «Когда пришла Умм ‘Атыя, я подошла к ней и спросила: “Ты слышала что-нибудь о том-то и о том-то?” Она ответила: “Да, пусть мой отец будет выкупом (за Пророка ﷺ)”. И практически всякий раз, когда она упоминала имя Пророка ﷺ она говорила: “Пусть мой отец будет выкупом за него”. Пророк ﷺ сказал: “Пусть молодые девушки и сидящие за занавесками и те, у которых начались месячные, выходят (в день праздника). Однако те, у кого начались месячные, должны держаться в стороне от места совершения молитвы, и пусть они принимают участие в благих делах и обращениях верующих к Аллаху (со своими мольбами)”». \nХафса сказала: «Я спросила ее: “(Даже) те, у кого начались месячные…?” Она ответила: “Да. А разве во время месячных они не принимают участия в стоянии на ‘Арафате и присутствуют там-то и там-то?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>980</td></tr><tr><td>Arabic No</td><td>980</td></tr><tr><td>Reference</td><td>Book 13 Hadith 29</td></tr></tbody></table></div>
 

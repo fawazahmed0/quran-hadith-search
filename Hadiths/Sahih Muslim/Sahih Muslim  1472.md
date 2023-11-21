@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Prayer said in a congrega
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] katanya; pernah aku menyetorkan kepada [Malik] dari [Ibnu Syihab] dari [Said bin Musayyab] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat jama'ah lebih utama dua puluh lima derajat daripada shalat salah seorang diantara kalian dengan sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1472</td></tr><tr><td>Arabic No</td><td>649.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Коллективная молитва на двадцать пять (ступеней) превосходит молитву, совершаемую любым из вас в одиночестве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1472</td></tr><tr><td>Arabic No</td><td>649.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 305</td></tr></tbody></table></div>
 

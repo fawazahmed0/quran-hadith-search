@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ jabir b. Samurah reported the Messenger of Allah (ﷺ) as saying:Why do you stan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An-Nufaili] telah menceritakan kepada kami [Zuhair] dia berkata; Saya pernah bertanya kepada [Sulaiman Al-A'masy] tentang hadits Jabir bin Samurah dalam hal shaf terdepan, maka dia menceritakan kepada kami dari [Al-Musayyab bin Rafi'] dari [Tamim bin Tharafah] dari [Jabir bin Samurah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidakkah kalian ingin berbaris sebagaimana para malaikat berbarls di hadapan Rabb mereka Azza wa Jalla?" Kami berkata; Bagaimana para malaikat berbaris di hadapan Rabb mereka? Baliau bersabda: "Mereka menyempurnakan shaf shaf yang terdepan, dan mereka saling merapatkan shaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (430)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>661</td></tr><tr><td>Arabic No</td><td>661</td></tr><tr><td>Reference</td><td>Book 2 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Почему вы не выстраиваетесь в ряды так, как делают это ангелы перед своим Могучим и Великим Господом?”. Мы спросили: “А как ангелы выстраиваются перед Господом своим?”. Он сказал: “Они заполняют первые ряды и стоят в ряду вплотную друг к другу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (430)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>661</td></tr><tr><td>Arabic No</td><td>661</td></tr><tr><td>Reference</td><td>Book 2 Hadith 271</td></tr></tbody></table></div>
 

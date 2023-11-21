@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "If anyone of you feels drowsy whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian mengantuk saat shalat hendaklah ia tidur hingga hilang kantuknya, karena bila shalat dalam keadaan mengantuk ia tidak menyadari, mungkin ia bermaksud beristighfar padahal bisa jadi ia mencaci dirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>212</td></tr><tr><td>Arabic No</td><td>212</td></tr><tr><td>Reference</td><td>Book 4 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал:«Когда кого-нибудь из вас во время молитвы станет одолевать дремота, пусть поспит, пока сон его не пройдёт, ибо, поистине, если кто-нибудь из вас станет молиться, засыпая, он не будет знать(, что говорит), и может случиться так, что(, желая) попросить прощения у Аллаха, он (вместо этого) станет поносить самого себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>212</td></tr><tr><td>Arabic No</td><td>212</td></tr><tr><td>Reference</td><td>Book 4 Hadith 78</td></tr></tbody></table></div>
 

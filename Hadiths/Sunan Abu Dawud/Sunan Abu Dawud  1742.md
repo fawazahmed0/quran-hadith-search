@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Harith ibn Amr as-Sahmi: I came to the Messenger of Allah (ﷺ) when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Ma'mar Abdullah bin 'Amr bin Abu Al Hajjaj], telah menceritakan kepada Kami [Abdul Warits], telah menceritakan kepada Kami ['Utbah bin Abdul Malik As Sahmi], telah menceritakan kepadaku [Zurarah bin Kuraim] bahwa [Al Harits bin 'Amr As Sahmi] telah menceritakan kepadanya, ia berkata; saya datang kepada Rasulullah shallAllahu wa'alaihi wa sallam, sementara beliau berada di Mina atau 'Arafah, dan orang-orang telah mengelilingi beliau. Al Harits bin 'Amr berkata; kemudian beberapa orang badui datang dan melihat wajah beliau, mereka berkata; ini adalah wajah yang mendapat berkah. Al Harits berkata; dan beliau menetapkan Dzatu 'Irq sebagai miqat bagi penduduk Irak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1742</td></tr><tr><td>Arabic No</td><td>1742</td></tr><tr><td>Reference</td><td>Book 11 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Харис ибн ‘Амр ас-Сахми, да будет доволен им Аллах, передаёт: «Я пришёл к Посланнику Аллаха ﷺ когда он был в Мине или на ‘Арафате. А люди подходили к нему. Когда приходили бедуины, они, увидев его лицо, говорили: “Это благодатное лицо!” И Посланник Аллаха ﷺ сделал микатом жителей Ирака Зат-‘Ирк»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1742</td></tr><tr><td>Arabic No</td><td>1742</td></tr><tr><td>Reference</td><td>Book 11 Hadith 22</td></tr></tbody></table></div>
 

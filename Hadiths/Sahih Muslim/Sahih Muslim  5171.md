@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali reported that Allah's Messenger (ﷺ) forbade to prepare Nabidh in gourd and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Amru Al Asy'atsi] telah mengabarkan kepada kami ['Abtsar]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Bisyr bin Khalid] telah mengabarkan kepada kami [Muhammad] -yaitu Ibnu Ja'far- dari [Syu'bah] semuanya dari [Al A'masy] dari [Ibrahim At Taimi] dari [Al Harits bin Suwaid] dari [Ali] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang membuat perasan dalam Ad Dubba dan Al Muzaffat." Ini adalah hadits riwayat Jarir, dan dalam hadits 'Abtsar dan Syu'bah disebutkan, bahwa Nabi shallallahu 'alaihi wasallam melarang dari Ad Dubba dan Al Muzaffat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5171</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 36 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5171</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 36 Hadith 45</td></tr></tbody></table></div>
 

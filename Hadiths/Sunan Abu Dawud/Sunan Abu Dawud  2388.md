@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah and Umm Salamah, wives of the Prophet (ﷺ): The Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Abdullah bin Muhammad bin Ishaq Al Adzrami], telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Malik] dari [Abdu Rabbih bin Sa'id] dari [Abu Bakr bin Abdurrahman bin Al Harits bin Hisyam] dari [Aisyah] dan [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam bahwa mereka berdua mengatakan; Rasulullah shallallahu 'alaihi wasallam pernah pada suatu pagi dalam keadaan junub. Abdulllah bin Al Adzrami dalam haditsnya, pada Bulan Ramadhan karena jima' bukan karena mimpi, kemudian beliau berpuasa. Abu Daud berkata; betapa sedikit orang yang mengucapkan kata ini yaitu pada suatu pagi dalam keadaan junub pada Bulan Ramadhan. Sesungguhnya hadits tersebut adalah; bahwa Nabi shallallahu 'alaihi wasallam pada suatu pagi dalam keadaan junub, sementara beliau sedang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1109)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2388</td></tr><tr><td>Arabic No</td><td>2388</td></tr><tr><td>Reference</td><td>Book 14 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша и Умм Саляма, да будет доволен Аллах ими обеими, супруги Пророка ﷺ сказали: «Посланнику Аллаха ﷺ случалось вставать утром в состоянии полового осквернения». ‘Абдуллах аль-Аздрами сказал в своей версии хадиса: «…в рамадане по причине полового сношения, а не поллюции, и он постился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1109)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2388</td></tr><tr><td>Arabic No</td><td>2388</td></tr><tr><td>Reference</td><td>Book 14 Hadith 76</td></tr></tbody></table></div>
 

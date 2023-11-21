@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham:My father told me that Hakim bin Hizam manumitted one-hundred sl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] telah menceritakan kepadaku [bapakku] bahwa [Hakim bin Hizam radliallahu 'anhu] pada zaman jahiliyah membebaskan seratus budak dan membawa tebusannya dengan seratus unta. Setelah dia masuk Islam dia membawa seratus unta untuk membebaskan seratus budak. Dia berkata; aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam, aku katakan: 'Wahai Rasulullah, bagaimana pendapat Anda tentang sesuatu perbuatan yang aku pernah mengerjakannya di zaman jahiliyah, aku pernah bertahannuts (mengasingkan diri) untuk mencari kebaikan". Dia berkata; Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau kamu Islam, kamu akan mendapat dari kebaikan yang kamu lakukan dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2538</td></tr><tr><td>Arabic No</td><td>2538</td></tr><tr><td>Reference</td><td>Book 49 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урва бин аз-Зубайр, да будет доволен им Аллах, что во времена джахилийи Хаким бин Хизам освободил сто рабов и раздал сто верблюдов, а после того как он принял ислам, он (также) раздал сто верблюдов и освободил сто рабов. (Хаким, да будет доволен им Аллах,) сказал: «Я обратился к Посланнику Аллаха ﷺ с вопросом и сказал: “О Посланник Аллаха, скажи мне, что ты думаешь о тех делах благочестия, которыми я занимался во времена джахилийи?” (В ответ на это) Посланник Аллаха ﷺ сказал: “Ты принял ислам вместе со (всеми) благими делами(, совершёнными тобой) прежде”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2538</td></tr><tr><td>Arabic No</td><td>2538</td></tr><tr><td>Reference</td><td>Book 49 Hadith 22</td></tr></tbody></table></div>
 

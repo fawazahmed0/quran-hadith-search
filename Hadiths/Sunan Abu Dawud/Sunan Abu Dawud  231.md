@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hudhaifah reported :The Messenger of Allah (ﷺ) met me on one of the street
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dan [Bisyr] dari [Humaid] dari [Bakr] dari [Abu Rafi'] dari [Abu Hurairah] dia berkata; bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah bertemu denganku di salah satu jalan Madinah, sedang saya dalam keadaan junub. Maka saya menyelinap, lalu pergi untuk mandi. Kemudian saya datang menghadap beliau. Beliau bersabda: "Di mana kamu tadi wahai Abu Hurairah?" Abu Hurairah menjawab; Sesungguhnya tadi saya sedang junub, karena itu saya tidak suka duduk bersamamu dalam keadaan tidak suci. Maka beliau bersabda: "Subhaanallah (Maha Suci Allah), sesungguhnya Muslim itu tidak najis. Dan dia berkata di dalam hadits Bisyr; Telah menceritakan kepada kami Humaid telah menceritakan kepadaku Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (283) Sahih Muslim (371)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>231</td></tr><tr><td>Arabic No</td><td>231</td></tr><tr><td>Reference</td><td>Book 1 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Однажды я встретил Посланника Аллаха ﷺ на одной из улиц Медины, будучи в состоянии большого осквернения. И я спрятался (от него) и ушёл (домой), а затем искупавшись, вернулся, а он сказал: “Ты где был о Абу Хурайра?”(Абу Хурайра) сказал: “Я сказал: “Я был в состоянии большого осоквернения и не захотел находиться рядом с тобой без очищения”. И (Посланник Аллаха ﷺ) сказал: “Свят Аллах! /Субханаллах/ Поистине, мусульманин (никогда) не бывает нечистым”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (283) Sahih Muslim (371)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>231</td></tr><tr><td>Arabic No</td><td>231</td></tr><tr><td>Reference</td><td>Book 1 Hadith 231</td></tr></tbody></table></div>
 

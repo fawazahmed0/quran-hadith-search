@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Originally, two rak'at were prescribed in every prayer. When the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] radliallahu 'anha berkata; "Pada awalnya, shalat diwajibkan dua raka'at, setelah Nabi shallallahu 'alaihi wasallam berhijrah, shalat diwajibkan menjadi empat raka'at dan dilanggengkan (dua raka'at) shalat dalam perjalanan (safar) sebagaimana ketika pertama kali diwajibkan." Hadits ini diperkuat pula oleh [Abdurrazzaq] dari [Ma'mar]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3935</td></tr><tr><td>Arabic No</td><td>3935</td></tr><tr><td>Reference</td><td>Book 63 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В начале Аллах) вменил в обязанность, молитву из двух рак‘атов. После того, как Пророк ﷺ переселился (в Медину), обязательными стали четыре рак‘ата, молитва же путника осталась как и была в начале (то есть два рак‘ата)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3935</td></tr><tr><td>Arabic No</td><td>3935</td></tr><tr><td>Reference</td><td>Book 63 Hadith 160</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported:Allah's Messenger (ﷺ) gave 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi], ['Ashim bin Nadlr At Taimi] dan [Muhammad bin Abdul A'la] semuanya dari [Mu'tamir bin Sulaiman] dia berkata; Saya mendengar [ayahku] telah menceritakan kepada kami [Abu Mijlaz] dari [Anas bin Malik] dia berkata; "Ketika Nabi shallallahu 'alaihi wasallam menikahi Zainab binti Jahsy, beliau mengundang orang-orang, lalu beliau menjamu mereka, mereka pun menikmati hidangan tersebut, kemudian mereka duduk dan berbincang-bincang." Anas berkata; "Lalu beliau merubah posisi seakan-akan ingin berdiri, namun orang-orang tidak juga berdiri, ketika beliau berdiri maka orang-orang pun ikut beridiri." Ashim dan Ibnu Abdil A'la menambahkan dalam haditsnya, Anas berkata; Lantas beliau berulang-ulang duduk sampai tiga kali, sesungguhnya Nabi shallallahu 'alaihi wasallam datang dan hendak masuk ke kamar Zainab, namun orang-orang masih tetap duduk-duduk, setelah itu mereka berdiri dan beranjak pergi, Anas berkata; Lalu saya mengabarkan kepada Nabi shallallahu 'alaihi wasallam bahwa mereka sudah beranjak pergi." Anas berkata; "Kemudian beliau masuk dan saya mengikuti beliau masuk, lantas beliau menurunkan kain tirainya antara saya dengan beliau." Anas berkata; "Lalu Allah Azza Wa Jalla menurunkan (ayat): "Wahai orang-orang yang beriman, janganlah kalian masuk ke rumah Nabi kecuali kecuali bila kamu telah diizinkan masuk untuk makan, tanpa menunggu makanan tersebut terhidang -hingga firman-Nya- Sesungguhnya yang demikian itu sangatlah besar di sisi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3505</td></tr><tr><td>Arabic No</td><td>1428.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3505</td></tr><tr><td>Arabic No</td><td>1428.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 107</td></tr></tbody></table></div>
 

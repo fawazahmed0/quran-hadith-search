@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:We used to estimate how long Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abi Syaibah] semuanya meriwayatkan dari [Husyaim] berkata [Yahya], telah mengabarkan kepada kami [Husyaim] dari [Manshur] dari [al-Walid bin Muslim] dari [Abu ash-Shiddiq] dari [Abu Sa'id al-Khudri] dia berkata, "Kami memperkirakan (kadar waktu) berdirinya Rasulullah shallallahu 'alaihi wasallam dalam shalat zhuhur dan ashar. Maka kami memperkirakannya dalam dua rakaat pertama dari shalat zhuhur sekitar bacaan alim lam mim tanzil (yaitu surat as-Sajdah), dan kami memperkirakan waktu berdirinya beliau pada dua rakaat lainnya sekitar setengah dari hal tersebut. Dan kami memperkirakan berdirinya beliau pada dua rakaat pertama shalat ashar setengah dari hal tersebut." Dan Abu Bakar tidak menyebutkan dalam riwayatnya alif lam mim tanzil (yaitu surat as-Sajdah), namun dia mengatakan sekitar tiga puluh ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>452.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри (да будет доволен им Аллах) передал: «Мы пытались определить, как же долго Посланник Аллаха ﷺ читает Коран во время полуденной (зухр) и послеполуденной (‘аср) молитв. В результате мы определили, что в первых двух рак‘атах полуденной молитвы он простаивал столько времени, что мог прочесть суру “ас-Саджда”, а в последних двух рак‘атах этой молитвы он простаивал половину этого времени. В первых двух рак‘атах послеполуденной молитвы он простаивал столько же, сколько и во время последних двух рак‘атов полуденной молитвы, а в последних двух рак‘атах послеполуденной молитвы он простаивал половину этого времени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>452.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 176</td></tr></tbody></table></div>
 

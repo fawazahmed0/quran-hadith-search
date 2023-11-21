@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:The Messenger of Allah (ﷺ) forbade eating of onions and leek. W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu ath-Thahir] dan [Harmalah] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah menceritakan kepadaku ['Atha' bin Abi Rabah] bahwa [Jabir bin Abdullah] berkata, dan dalam riwayat Harmalah, "Dan dia mengklaim bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, 'Barangsiapa yang makan bawang putih atau bawang merah, maka hendaklah dia memisahkan diri dari kami atau memisahkan diri dari masjid kami, dan hendaklah dia duduk di rumahnya, dan beliau pernah dibawakan satu keranjang berisi sayur mayur berupa bawang merah, lalu beliau mendapatkan ia mempunyai bau, lalu beliau bertanya, maka beliau diberitahu sebab di dalamnya berisi bawang merah. Maka beliau bersabda, 'Dekatkanlah ia kepada sebagian pemiliknya. Ketika beliau melihatnya, maka beliau membenci untuk memakannya. Beliau bersabda, 'Makanlah, karena aku membisiki malaikat yang mana kamu tidak membisikinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто ел чеснок или лук, сторонится нас (или наших мечетей) и сидит в своём доме». (Джабир также рассказал), что (однажды) Посланнику Аллаха ﷺ принесли блюдо с овощами. Почувствовав исходящий от них запах (лука или чеснока), он спросил о том, что находится на блюде, и ему перечислили названия овощей, которые там были. Тогда он велел кому-то из (находившихся вместе с ним) сподвижников: “Принесите (этот котёл)”. Увидев же, что (в нём находится), он отказался есть это, а ему сказал: “Ешь, а я (не ем этого по той причине, что) веду тайные беседы с теми, с кем не можешь беседовать ты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
 

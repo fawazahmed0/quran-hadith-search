@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Safiya bin Huyai, the wife of the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] Telah menceritakan kepadaku ['Urwah bin Az Zubair] dan [Abu Salamah bin 'Abdur Rahman] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam Telah mengabarkan kepada mereka; "Shafiyah binti Huyai -istri Nabi shallallahu 'alaihi wasallam- kedatangan haid saat haji wada'." Maka Rasulullah bersabda: "Apakah hal itu menghalangi dari kita?" Saya berkata; "Wahai Rasulullah! Dia telah melakukan thawaf ifadlah dan thawaf di ka'bah. Rasulullah shalallahu'alaihi wa sallam pun bersabda: 'Kalau begitu Kembalilah (kembali dari Mina ke Madinah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4401</td></tr><tr><td>Arabic No</td><td>4401</td></tr><tr><td>Reference</td><td>Book 64 Hadith 424</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша сообщила, что во время Прощального хаджа у Сафийи бинт Хуйайй начались месячные, и Пророк ﷺ спросил: «Она нас задержит?» ‘Аиша ответила: «О Посланник Аллаха, она совершила обход вокруг Каабы /таваф аль-ифада/». Тогда Пророк ﷺ сказал: «Значит пусть уезжает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4401</td></tr><tr><td>Arabic No</td><td>4401</td></tr><tr><td>Reference</td><td>Book 64 Hadith 424</td></tr></tbody></table></div>
 

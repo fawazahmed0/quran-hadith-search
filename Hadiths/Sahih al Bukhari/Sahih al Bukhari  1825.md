@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:From As-Sa'b bin Jath-thama Al-Laithi that the lat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Uqbah bin Mas'ud] dari ['Abdullah bin 'Abbas] dari [Ash-Sha'bi bin Jatstsamah Al Laitsiy] bahwa dia (Ash-Sha'bi) memberi hadiah kepada Rasulullah shallallahu 'alaihi wasallam berupa seekor keledai yang liar saat beliau berada di Abwa' atau di Waddan. Lalu Beliau mengembalikan hadiah itu kepadanya. Ketika Beliau melihat apa yang ada di wajahnya, Beliau berkata: "Kami tidak bermaksud menolak hadiah darimu, namun ini tidak lain karena aku sedang berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 28 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Аббаса, да будет доволен Аллах ими обоими, что, когда Посланник Аллаха ﷺ находился в Абве (или: Ваддане), ас-Са‘б бин Джассама аль-Ляйси, да будет доволен им Аллах, подарил ему дикого осла, однако он вернул ему (этот подарок); заметив же по его лицу, (что тот огорчён этим,) Пророк ﷺ сказал: «Поистине, мы вернули его тебе только потому, что находимся в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 28 Hadith 5</td></tr></tbody></table></div>
 

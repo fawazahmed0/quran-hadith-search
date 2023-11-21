@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim:The companions of 'Abdullah (bin Mas'ud) came to Abu Darda', (a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] ia berkata; Para sahabat Abdullah datang menemui Abu Darda'. Ia mencari mereka dan akhirnya menemukan mereka. Maka [Abu Darda'] bertanya kepada mereka, "Siapakah di antara kalian yang membaca dengan bacaan [Abdullah]" salah seorang menjawab, "Kami semua membaca dengan bacaannya Abdullah." Ia bertanya lagi, "Lalu siapa di antara kalian yang paling baik bacaannya?" Maka mereka pun menunjuk ke arah 'Alqamah. Abu Darda' pun bertanya padanya, "Bagaimana kamu mendengarnya membaca ayat: 'WAL LAILI IDZAA YAGHSYAA.'?" [Alqamah] menjawab, "WADZ DZAKARI WAL UNTSAA." Abu Darda' berkata, "Demi Allah, aku telah mendengar Nabi shallallahu 'alaihi wasallam membacanya seperti ini. Akan tetapi mereka itu, menginginkan agar aku membacanya: 'WAMAA KHALAQADZ DZAKARA WAL UNTSAA.' Demi Allah, aku tidak akan mengikuti mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 65 Hadith 465</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим сказал: «Когда сподвижники ‘Абдуллаха (ибн Мас‘уда) прибыли к Абу ад-Дарде, он разыскал их и спросил: “Кто из вас читает Коран чтением ‘Абдуллаха?” Они ответили: “Все мы”. Он спросил: “А кто из вас заучил больше (или лучше)?” Тогда люди указали на ‘Алькаму. Он сказал: “Как ты слышал его чтение: “Клянусь ночью, когда она (всё) покрывает (мраком)”?” ‘Алькама ответил: “Клянусь мужчиной и женщиной”. Тогда Абу ад-Дарда сказал: “Свидетельствую, что я слышал, как Пророк ﷺ читал его так же, а они (жители Шама) хотят, чтобы я читал: “Клянусь Тем, Кто создал мужчину и женщину!” Клянусь Аллахом, я не последую за ними (в этом)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 65 Hadith 465</td></tr></tbody></table></div>
 

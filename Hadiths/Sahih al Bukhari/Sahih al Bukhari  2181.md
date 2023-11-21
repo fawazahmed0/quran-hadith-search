@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Minhal:I asked Al-Bara' bin 'Azib and Zaid bin Arqam about money
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepada saya [Habib bin Abu Tsabit] berkata, aku mendengar [Abu Al Minhal] berkata; AKu bertanya kepada [Al Bara' bin 'Azib] dan [Zaid bin Arqam radliallahu 'anhum] tentang sharf (jual beli emas dengan dirham atau sebaliknya). Masing-masing dari keduanya berkata: "Ini baik menurutku dan keduanya berkata: "Rasulullah shallallahu 'alaihi wasallam telah melarang jual beli emas dengan uang kertas sebagai hutang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 34 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу-ль-Минхаль, да помилует его Аллах Всевышний, сказал: «(В своё время) я задал аль-Бара бин ‘Азибу и Зейду бин Аркаму, да будет доволен ими Аллах, вопрос об обмене денег, и каждый из них сказал: “Он (знает) лучше меня ”, и оба они говорили: “Посланник Аллаха ﷺ запретил продавать золото за серебро в долг”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 34 Hadith 129</td></tr></tbody></table></div>
 

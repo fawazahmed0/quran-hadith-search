@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu 'Aufa:A man displayed some goods in the market and sw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Muhammad] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Al 'Awwam] dari [Ibrahim bin 'Abdurrahman] dari ['Abdullah bin Abi Aufa radliallahu 'anhu] bahwa ada seseorang menyiapkan barang dagangan dipasar, lalu ia bersumpah atas nama Allah, sesungguhnya ia telah memberikan barang tersebut dengan apa yang tidak ada padanya kepada seseorang dari kaum muslimin, lalu turunlah ayat: ("Sesungguhnya orang-orang yang menukar janjinya dengan Allah dan sumpah-sumpah mereka dengan harga yang sedikit"). (QS Al 'Imran:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2088</td></tr><tr><td>Arabic No</td><td>2088</td></tr><tr><td>Reference</td><td>Book 34 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Аби Ауфа, да будет доволен Аллах им и его отцом, сказал: «Как-то один человек, находившийся на рынке, назначил конкретную сумму за свой товар, принося клятву Аллахом, что он отдал за него цену, которую не давал, чтобы убедить в (покупке этого товара) человека из числа мусульман. И тогда был ниспослан (следующий аят из Корана): “Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2088</td></tr><tr><td>Arabic No</td><td>2088</td></tr><tr><td>Reference</td><td>Book 34 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:We slaughtered a horse (by Nahr) during the lifetim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Hisyam] dari [Fatimah bin Al Mundzir] bahwa [Asma binti Abu Bakar] radliallahu 'anhuma berkata, "Pada masa Rasulullah shallallahu 'alaihi wasallam kami pernah berkurban dengan menyembelih kuda, lalu kami memakannya." Hadits ini dikuatkan oleh [Waki'] dan [Ibnu Uyainah] dari [Hisyam] tentang penyembelihan kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5512</td></tr><tr><td>Arabic No</td><td>5512</td></tr><tr><td>Reference</td><td>Book 72 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр, да будет доволен Аллах ими обоими, сказала: «Мы закололи лошадь при жизни Посланника Аллаха ﷺ и съели ее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5512</td></tr><tr><td>Arabic No</td><td>5512</td></tr><tr><td>Reference</td><td>Book 72 Hadith 38</td></tr></tbody></table></div>
 

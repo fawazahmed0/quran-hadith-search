@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : Une femme vint trouver le Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Umar Al Waki'i] telah menceritakan kepada kami [Husain bin Ali] dari [Za'idah] dari [Sulaiman] dari [Muslim Al Bathin] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, "Sesungguhnya ibuku telah meninggal, padahal ia memiliki hutang puasa selama satu bulan. Apakah saya harus membayarkan untuknya?" beliau menjawab: "Sekiranya ibumu memiliki hutang uang, apakah kamu harus membayarnya?" laki-laki itu menjawab, "Ya, tentu." Beliau bersabda: "Kalau begitu, maka hutang kepada Allah adalah lebih berhak untuk dilunasi." Sualaiman berkata; Dan juga telah berkata; Al Hakam dan Salamah bin Kuhail semuanya. Dan kami dalam posisi duduk saat Muslim menceritakan hadits ini. Keduanya berkata, kami mendengar Mujahid menyebutkan hadits ini dari Ibnu Abbas. Dan Telah menceritakan kepada kami [Abu Sa'id Al Asyajj] telah menceritakan kepada kami [Abu Khalid Al Ahmar] telah menceritakan kepada kami [Al A'masy] dari [Salamah bin Kuhail] dan [Al Hakam bin Utaibah] dan [Muslim Al Bathin] dari [Sa'id bin Jubair] dan [Mujahid] dan [Atha'] dari [Ibnu Abbas] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2694</td></tr><tr><td>Arabic No</td><td>1148.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2694</td></tr><tr><td>Arabic No</td><td>1148.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 200</td></tr></tbody></table></div>
 

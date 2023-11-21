@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of ('Abdullah) son of Umar (may Allah be pleased
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair al-Hamdani] telah menceritakan kepada kami [Abu Khalid] -yaitu Sulaiman bin Hayyan al-Ahmar- dari [Abu Malik al-Asyja'i] dari [Sa'ad bin Ubaidah] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Islam dibangun di atas lima dasar: Yaitu agar Allah diesakan, mendirikan shalat, menunaikan zakat, berpuasa Ramadlan, dan haji." Seorang laki-laki bertanya, 'Apakah haji dan (lalu) puasa Ramadlan'. Beliau menjawab: 'Tidak, puasa Ramadlan dan (lalu) haji.' Demikianlah aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>111</td></tr><tr><td>Arabic No</td><td>16.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Пророк ﷺ сказал: «Ислам основывается на пяти (столпах): признание единственности Аллаха
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>111</td></tr><tr><td>Arabic No</td><td>16.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 19</td></tr></tbody></table></div>
 

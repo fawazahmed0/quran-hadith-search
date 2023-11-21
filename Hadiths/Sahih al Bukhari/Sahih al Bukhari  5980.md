@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sufyan:That Heraclius sent for him and said, "What did he, i.e. the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah] bahwa [Abdullah bin Abbas] telah mengabarkan kepadanya, bahwa [Abu Sufyan] telah mengabarkan kepadanya bahwa Heraklius pernah mengutusnya kepada Nabi, lalu beliau yaitu Nabi shallallahu 'alaihi wasallam bersabda: "Kami di perintahkan (oleh Allah) untuk menegakkan shalat, bersedekah, mema'afkan dan menjaling hubungan persaudaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5980</td></tr><tr><td>Arabic No</td><td>5980</td></tr><tr><td>Reference</td><td>Book 78 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аббас сказал: «Абу Суфьян сообщил мне, что когда Хиракль послал за ним, Абу Суфьян сказал ему: “Пророк ﷺ велит нам совершать молитву, подавать милостыню /садака/, быть целомудренными и поддерживать хорошие отношения с родственниками”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5980</td></tr><tr><td>Arabic No</td><td>5980</td></tr><tr><td>Reference</td><td>Book 78 Hadith 11</td></tr></tbody></table></div>
 

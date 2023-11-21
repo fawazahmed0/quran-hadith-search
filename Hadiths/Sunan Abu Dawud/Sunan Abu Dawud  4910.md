@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik reported the Messenger of Allah (May peace be upon him) as saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian saling marah, saling hasad, dan saling membelakangi. Jadilah kalian hamba-hamba Allah yang bersaudara. Dan tidak halal seorang muslim menjauhi (mendiamkan) saudaranya lebih dari tiga malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6075) Sahih Muslim (2559)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4910</td></tr><tr><td>Arabic No</td><td>4910</td></tr><tr><td>Reference</td><td>Book 43 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Откажитесь от ненависти по отношению друг к другу, не завидуйте друг другу, не поворачивайтесь спиной друг к другу, не порывайте (отношений) друг с другом и будьте братьями, о рабы Аллаха! Не разрешается мусульманину покидать брата своего (на срок,) превышающий три дня!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6075) Sahih Muslim (2559)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4910</td></tr><tr><td>Arabic No</td><td>4910</td></tr><tr><td>Reference</td><td>Book 43 Hadith 138</td></tr></tbody></table></div>
 

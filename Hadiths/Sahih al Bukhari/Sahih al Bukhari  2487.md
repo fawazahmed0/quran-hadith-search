@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:that Abu Bakr As-Siddiq wrote to him the law of Zakat which was ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Al Mutsannaa] berkata, telah menceritakan kepadaku [bapakku] berkata, telah menceritakan kepadaku [Tsumamah bin 'Abdullah bin Anas] bahwa [Anas] menceritakan kepadanya bahwa Abu Bakar radliallahu 'anhu menetapkan kewajiban shadaqah kepadanya sebagaimana Rasulullah shallallahu 'alaihi wasallam telah mewajibkannya. Dia berkata: "Dan dua orang yang telah bercampur (hewan ternak keduanya) hendaklah keduanya berdamai dengan menanggung beban yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2487</td></tr><tr><td>Arabic No</td><td>2487</td></tr><tr><td>Reference</td><td>Book 47 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр, да будет доволен им Аллах, написал (Анасу, да будет доволен им Аллах, письмо, в котором изложил то), что было вменено в обязанность закят посланником Аллаха ﷺ. (В этом письме говорилось): «А с того, что принадлежит совладельцам, они должны выплачивать закят поровну»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2487</td></tr><tr><td>Arabic No</td><td>2487</td></tr><tr><td>Reference</td><td>Book 47 Hadith 5</td></tr></tbody></table></div>
 

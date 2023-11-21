@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : L'Ange de la mort ayant été envoyé 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abad bin Humaid]. [Abad] berkata; Telah mengabarkan kepada kami sedangkan [Ibnu Rafi'] berkata; Telah menceritakan kepada kami [Abdur Razaq] Telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Bapaknya] dari [Abu Hurairah], dia berkata; "Malaikat maut diutus (oleh Allah Allah Azza Wa Jalla) kepada Musa, maka ketika ia tiba dihadapannya, Musa langsung memukulnya hingga dia mencongkel matanya, lalu ia kembali kepada Tuhannya Allah Azza Wa Jalla seraya berkata; 'Engkau telah mengutusku kepada seorang hamba yang tidak menginginkan (disegerakan) kematiannya.'" Abu Hurairah berkata; "Maka Allah Azza Wa Jalla mengembalikan matanya dan berfirman: 'Kembalilah dan katakan padanya agar ia meletakkan tangannya di atas punggung sapi, maka pada setiap bulu yang ia sentuh dengan tangannya akan ditangguhkan satu tahun dari umurnya, ' maka Musa berkata; 'Wahai Tuhanku kemudian apa lagi setelah itu? ' Allah Azza Wa Jalla berfirman: 'Kemudian akan datang kematian.' Musa berkata; 'Kalau begitu sekarang saja.' Lalu iapun memohon kepada Allah agar (kuburnya) didekatkan dengan bumi Qudus dengan jarak sejauh lemparan batu." Abu Hurairah berkata; Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Jika saya ada di sana niscaya akan saya beritahukan kepada kalian letak kuburannya, yaitu pada sisi jalan di bawah pasir yang merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6148</td></tr><tr><td>Arabic No</td><td>2372.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6148</td></tr><tr><td>Arabic No</td><td>2372.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 206</td></tr></tbody></table></div>
 

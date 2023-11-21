@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: A man came to the Prophet (ﷺ) and said: My son has 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Hammam], dari [Qatadah] dari [Al Hasan] dari [Imran bin Hushain], bahwa seorang laki-laki telah datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; sesungguhnya cucu laki-laki saya meninggal, maka berapakah warisan untuk saya? Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Engkau mendapatkan seperenam." Kemudian tatkala laki-laki tersebut pergi beliau berkata: "Engkau mendapat seperenam yang lain." Kemudian tatkala orang tersebut pergi beliau berkata: "Seperenam yang lain adalah makanan." Qatadah berkata; mereka tidak mengetahui bersama siapakah beliau memberinya warisan tersebut. Qatadah berkata; bagian minimal yang diperoleh seorang kakek adalah seperenam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2896</td></tr><tr><td>Arabic No</td><td>2896</td></tr><tr><td>Reference</td><td>Book 19 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что один человек пришёл к Пророку ﷺ и сказал: «Сын моего сына умер. Полагается ли мне наследство от него?» Он ответил: «Тебе полагается шестая часть». Когда он уже собрался уходить, Посланник Аллаха ﷺ позвал его и сказал: «Тебе полагается ещё одна шестая часть как остаток (после основных наследников)». Когда он снова собрался уходить, Посланник Аллаха ﷺ позвал его и сказал: «Вторая шестая часть добавка». Катада сказал: «Они не знали, вместе с кем из наследников он получил это наследство». Катада также сказал: «Наименьшая доля, которую получает дед, одна шестая часть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2896</td></tr><tr><td>Arabic No</td><td>2896</td></tr><tr><td>Reference</td><td>Book 19 Hadith 12</td></tr></tbody></table></div>
 

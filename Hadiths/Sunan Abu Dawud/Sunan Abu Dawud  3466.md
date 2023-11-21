@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn AbuAwfa ibn AbuAwfa al-Aslami: We made a journey to Syria 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mushaffa] telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Abdul Malik bin Abu Ghaniyyah] telah menceritakan kepadaku [Abu Ishaq] dari [Abdullah bin Abu Aufa Al Aslami] ia berkata, "Kami berperang bersama Rasulullah shallallahu 'alaihi wasallam di Syam. Dahulu para pedagang Syam datang kepada kami, lalu kami menjual gandum dan minyak secara salam dengan harga yang diketahui, dan tempo yang diketahui." Ia ditanya, "Dari mana ia mendapatkan riwayat itu?" Ia menjawab, "Kami tidak bertanya kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3466</td></tr><tr><td>Arabic No</td><td>3466</td></tr><tr><td>Reference</td><td>Book 24 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Ауфа аль-Аслями, да будет доволен им Аллах, передаёт: «Мы покоряли Шам вместе с Посланником Аллаха ﷺ и к нам приходили набатеи из числа набатеев Шама, и мы покупали у них заранее пшеницу и масло по известной цене с условием передачи купленного в определённый срок». Люди спросили: «А у них это имелось?» Он ответил: «Мы не спрашивали их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3466</td></tr><tr><td>Arabic No</td><td>3466</td></tr><tr><td>Reference</td><td>Book 24 Hadith 51</td></tr></tbody></table></div>
 

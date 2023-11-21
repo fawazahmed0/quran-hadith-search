@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "A Muslim is a brothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] bahwa [Salim] mengabarkannya bahwa ['Abdullah bin 'Umar radliallahu 'anhuma] mengabarkannya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang muslim adalah saudara bagi muslim lainnya, dia tidak menzhaliminya dan tidak membiarkannya untuk disakiti. Siapa yang membantu kebutuhan saudaranya maka Allah akan membantu kebutuhannya. Siapa yang menghilangkan satu kesusahan seorang muslim, maka Allah menghilangkan satu kesusahan baginya dari kesusahan-kesusahan hari qiyamat. Dan siapa yang menutupi (aib) seorang muslim maka Allah akan menutup aibnya pada hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2442</td></tr><tr><td>Arabic No</td><td>2442</td></tr><tr><td>Reference</td><td>Book 46 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Мусульманин мусульманину брат, и он (не должен) ни притеснять, ни предавать его. Тому, кто (поможет) своему брату в нужде его, Аллах (поможет) в его собственной нужде, того, кто избавит мусульманина от печали, Аллах избавит от одной из печалей Дня воскресения, а (грехи) того, кто покроет (грехи) мусульманина, Аллах покроет в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2442</td></tr><tr><td>Arabic No</td><td>2442</td></tr><tr><td>Reference</td><td>Book 46 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aun bin Abi Juhaifa:that he had heard his father saying, "Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami ['Aun bin Abu Juhaifah] berkata, "Aku mendengar [Bapakku] berkata, "Nabi shallallahu 'alaihi wasallam keluar menemui kami saat terik matahari. Kemudian beliau diberi bejana berisi air, lalu beliau berwudlu dan mengerjakan shalat Zhuhur dan 'Ashar bersama kami. Sementara itu dihadapannya ditancapkan sebuah tonggak, sementara para wanita dan keledai berlalu lalang di belakang tonggak kayu tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>499</td></tr><tr><td>Arabic No</td><td>499</td></tr><tr><td>Reference</td><td>Book 8 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аун ибн Джухайфа сказал: «(Однажды) в полдень, Посланник Аллаха ﷺ вышел к нам и ему принесли воды для омовения, с которой он совершил омовение. (Затем) он совершил с нами полуденную и послеполуденную молитвы, и перед ним была (воткнута в землю) палка с заостренным концом, а женщины и собаки (свободно) проходили перед ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>499</td></tr><tr><td>Arabic No</td><td>499</td></tr><tr><td>Reference</td><td>Book 8 Hadith 146</td></tr></tbody></table></div>
 

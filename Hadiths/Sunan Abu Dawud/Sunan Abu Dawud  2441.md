@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm al-Fadl, daughter of al-Harith, said:On the day of 'Arafah some people near 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abu An Nadhr] dari ['Umair] mantan budak Abdullah bin Abbas, dari [Ummu Al Fadhl binti Al Harits] bahwa beberapa orang berselisih di hadapannya pada Hari 'Arafah mengenai puasa Rasulullah shallallahu 'alaihi wasallam, kemudian sebagian mereka mengatakan; beliau berpuasa, dan sebagian mereka mengatakan; beliau tidak berpuasa. Kemudian Ummu Al Fadhl mengirimkan mangkuk yang berisi susu kepada beliau sementara beliau sedang berada di atas untanya di 'Arafah lalu beliau meminumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1988) Sahih Muslim (1123)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2441</td></tr><tr><td>Arabic No</td><td>2441</td></tr><tr><td>Reference</td><td>Book 14 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм аль-Фадль бинт аль-Харис, да будет доволен ею Аллах, что однажды люди поспорили в её присутствии в день ‘Арафата, и одни утверждали, что Посланник Аллаха ﷺ постится, а другие считали, что он не постится. Тогда она послала ему кувшин молока. А он в это время как раз находился на ‘Арафате, сидя на своём верблюде. И он попил
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1988) Sahih Muslim (1123)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2441</td></tr><tr><td>Arabic No</td><td>2441</td></tr><tr><td>Reference</td><td>Book 14 Hadith 129</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. Samurah said:The Messenger of Allah (ﷺ) used to deliver the sermon st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili Abdullah bin Muhammad] telah menceritakan kepada kami [Zuhair] dari [Simak] dari [Jabir bin Samurah] bahwa Rasulullah shallallahu 'alaihi wasallam khutbah dengan berdiri, lalu duduk, setelah itu beliau berdiri lagi dan menyampaikan khutbahnya. Barangsiapa menyampaikan kepadamu bahwa beliau berkhutbah dengan duduk, sungguh dia telah berdusta." Jabir berkata; "Sungguh, aku shalat bersama beliau lebih dari dua ribu shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (862)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>1093</td></tr><tr><td>Reference</td><td>Book 2 Hadith 704</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн Самуры, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ произносил проповедь стоя, затем садился, затем снова произносил проповедь стоя, и кто скажет тебе, что он произносил проповедь сидя, тот лжёт». И он сказал: «И, клянусь Аллахом, я совершил вместе с ним более двух тысяч молитв»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (862)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>1093</td></tr><tr><td>Reference</td><td>Book 2 Hadith 704</td></tr></tbody></table></div>
 

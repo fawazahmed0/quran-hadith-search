@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:That he was in the company of the Prophet (ﷺ) in one of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Utsman bin Ghiyats] telah menceritakan kepada kami [Abu Utsman] dari [Abu Musa] bahwa dia pernah bersama Nabi shallallahu 'alaihi wasallam berada di suatu kebun di antara kebun-kebun yang ada di Madinah, ketika itu beliau tengah membawa dahan dan memukul-mukulkan antara air dan tanah, tiba-tiba datang seorang laki-laki meminta izin, maka Nabi shallallahu 'alaihi wasallam bersabda: "Bukakanlah dan berilah kabar gembira kepadanya dengan surga". Maka aku pergi, ternyata laki-laki itu adalah Abu Bakr, lalu aku pun membukakan pintu untuknya dan kusampaikan kabar gembira dengan surga. Kemudian datang lagi laki-laki lain meminta dibukakan pintu, maka beliau bersabda: "Bukakanlah dan sampaikan kabar gembira kepadanya dengan surga." Ternyata dia adalah Umar, maka aku membukakan pintu dan aku sampaikan kabar gembira dengan surga. Kemudian datang lagi laki-laki lain meminta dibukakan pintu, ketika itu beliau tengah berbaring, kemudian beliau duduk dan bersabda: "Bukakanlah dan sampaikan kabar gembira kepadanya dengan surga atas ujian yang menimpanya atau yang akan menimpanya." Lalu aku beranjak pergi, ternyata laki-laki itu adalah 'Utsman lalu aku berdiri dan membukakan pintu untuknya, dan menyampaikan kepadanya kabar gembira dengan surga serta memberitahukan sebagaimana yang di sabdakan beliau. 'Utsman lalu berkata; "Allah sajalah dzat yang dimintai pertolongan-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6216</td></tr><tr><td>Arabic No</td><td>6216</td></tr><tr><td>Reference</td><td>Book 78 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «Однажды я был вместе с Пророком ﷺ в одном из садов Медины. Пророк ﷺ держал в руке палку, которой он бил по воде и глине. (Через некоторое время туда) пришёл какой-то человек и попросил разрешения войти, а Пророк ﷺ сказал: “Открой ему (врата) и обрадуй его Раем”. Оказалось, что это был Абу Бакр. Я открыл ему и обрадовал его Раем. Затем пришёл другой человек и попросил разрешения войти. Пророк ﷺ сказал: “Открой ему (врата) и обрадуй его Раем”. Я открыл, и оказалось, что это был ‘Умар, и я обрадовал его Раем. Затем пришёл другой человек и попросил разрешения войти. Пророк ﷺ лежал, оперевшись, но тут он сел и сказал: “Открой ему (врата) и обрадуй его Раем после беды, которая постигнет его”. Оказалось, что это был ‘Усман. Я открыл ему, обрадовал его Раем и рассказал о том, что сказал Посланник Аллаха ﷺ, а он сказал: “Лишь к Аллаху следует обращаться за помощью!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6216</td></tr><tr><td>Arabic No</td><td>6216</td></tr><tr><td>Reference</td><td>Book 78 Hadith 240</td></tr></tbody></table></div>
 

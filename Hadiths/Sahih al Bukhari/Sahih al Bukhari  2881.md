@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tha'laba bin Abi Malik:'Umar bin Al-Khattab distributed some garments a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] berkata [Tsa'labah bin Abu Malik] bahwa ['Umar bin Al Khaththab radliallahu 'anhu] membagikan kain selimut terbuat dari wol kepada para wanita Madinah lalu tersisa satu kain selimut yang baik. Maka sebagian orang yang berada di dekatnya berkata: "Wahai Amirul Mu'minin, berikanlah ini kepada cucu Rasulullah shallallahu 'alaihi wasallam yang berada disisi anda itu". Yang mereka maksud adalah Ummu Kultsum binti 'Ali. Maka 'Umar berkata: "Ummu Salith lebih berhak". Ummu Salith adalah wanita Anshor yang berbai'at kepada Rasululloh Shallallhu 'Alaihi Wasallam. 'Umar selanjutnya berkata: "Sesungguhnya ia pernah membawakan qirab untuk kami ketika perang Uhud". Abu 'Abdullah Al Bukhariy berkata: "tazfiru artinya takhithu', " yaitu menjahitkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2881</td></tr><tr><td>Arabic No</td><td>2881</td></tr><tr><td>Reference</td><td>Book 56 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) ‘Умар, да будет доволен им Аллах, разделил между женщинами Медины плащи, после чего остался один хороший плащ, и один из тех, кто находился рядом с (‘Умаром, да будет доволен им Аллах,) сказал: «О повелитель правоверных, отдай этот плащ дочери Посланника Аллаха ﷺ на которой ты женат», имея в виду дочь ‘Али Умм Кульсум. (На это) ‘Умар сказал: «Умм Салит имеет больше прав на него», а Умм Салит была из числа ансаров и (в своё время) принесла Пророку ﷺ клятву (на верность исламу). ‘Умар сказал: «И, поистине, в день (битвы при) Ухуде она приносила нам бурдюки (с водой)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2881</td></tr><tr><td>Arabic No</td><td>2881</td></tr><tr><td>Reference</td><td>Book 56 Hadith 96</td></tr></tbody></table></div>
 

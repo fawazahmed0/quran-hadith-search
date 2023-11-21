@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Those who have made their Scripture into parts are the peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Husyaim] Telah mengabarkan kepada kami [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: "yaitu orang-orang yang telah menjadikan Al Quran itu terbagi-bagi." (Al Hijr: 91). Ibnu Abbas berkata; Mereka adalah ahlu kitab, mereka telah membagi Al Qur'an menjadi beberapa bagian, kemudian mereka beriman dengan sebagiannya dan kafir dengan sebagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 65 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал, объясняя аят «Которые поделили Коран на части»: «Это обладатели Писания, они разделили его на части, уверовали в одну часть и не уверовали в другую»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 65 Hadith 227</td></tr></tbody></table></div>
 

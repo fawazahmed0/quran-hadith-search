@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim:Once a meal was brought to 'Abdur-Rahman bin 'Auf and he was fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Syu'nah] dari [Sa'ad bin Ibrahim] dari bapaknya [Ibrahim] bahwa; "Pada suatu hari ['Abdurrahman bin 'Auf] dihidangkan makanan kepadanya saat itu ia sedang berpuasa. Lalu ia berkata, Mus'ab bin Umair telah terbunuh. Ia adalah orang yang lebih baik dariku, namun saat (hendak dikafani) tidak ada kain kafan yang bisa membungkusnya kecuali hanyalah burdah (kain bergaris) yang apabila kepalanya akan ditutup, kakinya terbuka (karena kain yang pendek) dan bila kakinya yang hendak ditutup kepalanyalah yang terbuka. Dan aku melihat dia berkata, pula; "Hamzah pun atau orang lain yang lebih baik dariku telah terbunuh. Kemudian setelah itu dunia telah dibukakan buat kami atau katanya kami telah diberi kenikmatan dunia dan sungguh kami khawatir bila kebaikan-kebaikan kami disegerakan balasannya buat kami (berupa kenikmatan dunia). Lalu ia pun mulai menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1275</td></tr><tr><td>Arabic No</td><td>1275</td></tr><tr><td>Reference</td><td>Book 23 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д передал от своего отца Ибрахима, что однажды ‘Абдуррахману ибн ‘Ауфу, да будет доволен им Аллах, принесли еду, когда он постился и он сказал: «Когда Мус‘аб ибн ‘Умайр был убит, а он был лучше меня, он был завернут в плащ. Когда мы покрывали им голову, неприкрытыми оставались ноги, когда же мы покрывали им ноги, то неприкрытой оставалась голова. И Хамза был убит, и он тоже был лучше меня. Затем нам было даровано из благ этого мира то, что было даровано. Я боюсь, что может быть так что, награда за наши деяния уже дана нам в этом мире (и не осталась для следующей жизни)». Затем он начал плакать и оставил еду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1275</td></tr><tr><td>Arabic No</td><td>1275</td></tr><tr><td>Reference</td><td>Book 23 Hadith 36</td></tr></tbody></table></div>
 

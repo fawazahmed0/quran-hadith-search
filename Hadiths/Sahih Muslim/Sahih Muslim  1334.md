@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thauban reported:When the Messenger of Allah (ﷺ) finished his prayer. He begge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Dawud bin Rusyaid] telah menceritakan kepada kami [Al Walid] dari [Auza'i] dari [Abu 'Ammar namanya Syaddad bin Abdullah] dari [Abu Asma'] dari [Tsauban] dia berkata; "Jika Rasulullah shallallahu 'alaihi wasallam selesai shalat, beliau akan meminta ampunan tiga kali dan memanjatkan doa ALLAAHUMMA ANTAS SALAAM WAMINKAS SALAAM TABAARAKTA DZAL JALAALIL WAL IKROOM (Ya Allah, Engkau adalah Dzat yang memberi keselamatan, dan dari-Mulah segala keselamatan, Maha Besar Engkau wahai Dzat Pemilik kebesaran dan kemuliaan." Kata [Walid]; maka kukatakan kepada [Auza'i] "Lalu bagaimana bila hendak meminta ampunan?" Jawabnya; 'Engkau ucapkan saja Astaghfirullah, Astaghfirullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1334</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 5 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саубан сказал: «Закончив молиться, Посланник Аллаха ﷺ всегда трижды просил Аллаха о прощении, а потом говорил: “О Аллах, Ты Мир, и от Тебя мир, благословен Ты, о Обладатель величия и щедрости!” /Аллахумма Анта-с-Саляму ва мин-кя-с-саляму, табаракта, йа За-ль-джаляли ва-ль-икрам!/».Аль-Валид (один из передатчиков) сказал: «Я спросил аль-Ауза’и: “Как (следует) просить Аллаха о прощении?”, (на что) он ответил: «Говори: “Прошу Аллаха о прощении, прошу Аллаха о прощении”. /Астагфиру-Ллаха, астагфиру-Ллаха/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1334</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 5 Hadith 171</td></tr></tbody></table></div>
 

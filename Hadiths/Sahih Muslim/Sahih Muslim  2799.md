@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safwan b. Ya'la reported on the authority of his father (who said):A person came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ibnu Abu Umar] ia berkata, Telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Atha'] dari [Shafwan bin Ya'la] dari [bapaknya] ia berkata; Seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam saat beliau berada di Ji'ranah sementara saya ada di Nabi shallallahu 'alaihi wasallam. laki-laki itu memakai jubah dan ia telah melumuri dirinya dengan Khaluq, ia berkata, "Sesungguhnya saya telah berniat untuk Ihram, sementara saya mengenakan jubah ini dan tubuhku telah berlumuran dengan Khaluq (sejenis wewangian)." Maka Nabi shallallahu 'alaihi wasallam pun bersabda kepadanya: "Lakukanlah sebagaimana yang kamu lakukan dalam hajimu." Laki-laki itu berkata, "Kalau begitu, aku harus melepaskan pakaian ini, dan membersihkan bekas Khaluq ini." Nabi shallallahu 'alaihi wasallam bersabda lagi: "Apa yang kamu lakukan dalam hajimu, maka lakukan pula dalam Umrahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2799</td></tr><tr><td>Arabic No</td><td>1180.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2799</td></tr><tr><td>Arabic No</td><td>1180.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 9</td></tr></tbody></table></div>
 

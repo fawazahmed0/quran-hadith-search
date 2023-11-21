@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Yunus, the freed slave of 'A'isha said:'A'isha ordered me to transcribe a co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] katanya; aku menyetorkan hapalanku kepada [Malik] dari [Zaid bin Aslam] dari [Alqa'qa' bin Hakim] dari [Abu Yunus] mantan budak Aisyah, katanya; [Aisyah] pernah memrintahkanku untuk menulis mushaf. Lalu dia berpesan; "Jika sampai ayat ini "Jagalah oleh kalian seluruh shalat yang ada dan shalat wustha" (QS. Albaqarah 238), maka beritahukanlah kepadaku, " Ketika aku sampai ayat itu, aku lalu memberitahukan kepadanya, seketika itu pula dia mendiktekan kepadaku "Jagalah oleh kalian seluruh shalat yang ada dan shalat wustha, " yatiu shalat ashar, "Dan berdirilah kepada Allah dengan penuh kepatuhan" (QS. Albaqarah 283), kata Aisyah; aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1427</td></tr><tr><td>Arabic No</td><td>629</td></tr><tr><td>Reference</td><td>Book 5 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Йунус, вольноотпущенник ‘Аиши, сказал: «‘Аиша велела мне записать для неё (Коран в) мусхаф и сказала: “Позови меня, когда дойдешь до этого аята “Оберегайте молитвы, и особенно среднюю молитву” (Сура «аль-Бакара», аят 238). Когда я дошёл до этого аята, я позвал её, и она продиктовала мне (следующее): “Оберегайте молитвы, и особенно, среднюю молитву и молитву послеполуденную и стойте перед Аллахом смиренно”(Сура «аль-Бакара», аят 238). Затем ‘Аиша сказала: “Я слышала это от Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1427</td></tr><tr><td>Arabic No</td><td>629</td></tr><tr><td>Reference</td><td>Book 5 Hadith 261</td></tr></tbody></table></div>
 

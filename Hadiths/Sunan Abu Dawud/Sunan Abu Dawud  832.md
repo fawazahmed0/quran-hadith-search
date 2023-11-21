@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn AbuAwfa: A man came to the Prophet (ﷺ) and said: I canno
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Waki' bin Al Jarrah] telah menceritakan kepada kami [Sufyan Ats Tsauri] dari [Abu Khalid Ad Dalani] dari [Ibrahim As Saksaki] dari [Abdullah bin Abu Aufa] dia berkata; seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; "Sesungguhnya aku tidak dapat mempelajari Al Qur'an sedikit pun, maka ajarilah aku sesuatu yang dapat memadai untukku sebagai gantinya." Beliau bersabda: "Ucapkanlah; "SUBHANALLAH WAL HAMDULILLAH WALAA ILAAHA ILLALLAH WALLAAHU AKBAR WALAA HAULAA WALAA QUWWATA ILLA BILLAHIL 'ALIYYIL 'AZHIIM (Maha suci Allah, segala puji bagi Allah, tidak ada ilah yang hak kecuali Allah dan Allah Maha besar, tidak ada daya dan upaya kecuali kecuali dengan pertolongan Allah yang Maha Luhur lagi Maha Agung)." Laki-laki itu berkata; "wahai Rasulullah, ungkapan ini untuk Allah Azza Wa Jalla, lantas (ungkapan) manakah yang untuk saya?" beliau bersabda: "katakanlah; "ALLAHUMMARHAMNII WARZUQNII WA'AAFINII WAHDINII (Ya Allah, rahmatilah aku, berilah aku rizki, kesejahteraan, dan petunjuk." Ketika orang itu berdiri (shalat), maka dia memberi isyarat dengan tangannya seperti ini (yaitu membaca sambil menghitungnya) maka Rasulullah shallallahu 'alaihi wasallam bersabda: " Orang ini tangannya telah di penuhi dengan kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>832</td></tr><tr><td>Arabic No</td><td>832</td></tr><tr><td>Reference</td><td>Book 2 Hadith 442</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Абу Ауфа, да будет доволен им Аллах, что однажды к Пророку ﷺ пришёл один человек и сказал: «Поистине, я не могу запомнить ничего из Корана. Научи же меня тому, чего мне будет достаточно». Пророк ﷺ сказал ему: «Пречист Аллах и хвала Ему, и нет божества, кроме Него, и Аллах Велик, и нет силы и способности изменить что-либо ни у кого, кроме как от Возвышенного, Великого Аллаха /Субхана-Ллахи, уа-ль-хамду ли-Лляхи, уа ля иляха илля-Ллаху, уа-Ллаху акбар! Уа ля хауля уа ля куввата илля би-Ллях/». Тот человек сказал: «О Посланник Аллаха! Это для Всемогущего и Великого Аллаха, а что же для меня?» (Пророк ﷺ) сказал: «Говори: “О Аллах, помилуй меня, и даруй мне удел, и даруй мне благополучие, и веди меня прямым путём!” /Аллахумма-рхам-ни уа ‘афини уа-хдини/». Когда он поднялся, то сделал жест рукой, и Посланник Аллаха ﷺ сказал: “Что до этого, то он наполнил руку свою благом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>832</td></tr><tr><td>Arabic No</td><td>832</td></tr><tr><td>Reference</td><td>Book 2 Hadith 442</td></tr></tbody></table></div>
 

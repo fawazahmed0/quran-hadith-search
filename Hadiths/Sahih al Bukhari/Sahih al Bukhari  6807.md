@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said, "Whoever guarantees me (the chast
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abi Bakar] Telah menceritakan kepada kami [Umar bin Ali] -lewat jalur periwayatan lain- telah menceritakan kepadaku [Khalifah] telah menceritakan kepada kami [Umar bin 'Ali] telah menceritakan kepada kami [Abu Hazim] dari [Sahl bin Sa'd As Sa'idi], Nabi Shallallahu'alaihiwasallam bersabda: "Barangsiapa menjamin untukku keselamatan apa yang ada diantara kedua kaki dan apa yang diantara kedua jenggotnya, maka aku jamin untuknya dengan surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6807</td></tr><tr><td>Arabic No</td><td>6807</td></tr><tr><td>Reference</td><td>Book 86 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да ас-Са‘идий, что Пророк ﷺ сказал: «Тому, кто поручится мне за то, что находится между двух его ног и между его двух челюстей, я поручусь за (то, что он войдёт в) Рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6807</td></tr><tr><td>Arabic No</td><td>6807</td></tr><tr><td>Reference</td><td>Book 86 Hadith 36</td></tr></tbody></table></div>
 

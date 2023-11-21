@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa from Usama bin Zaid:Allah's Messenger (ﷺ) rode a donkey on whic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Abu Shofwan] dari [Yunus bin Yazid] dari [Ibnu Syihab] dari ['Urwah] dari [Usamah bin Zaid radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam mengendarai keledai diatas pelana yang terbuat dari kain yang lebar lalu memboncengkan Usamah dibelakangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2987</td></tr><tr><td>Arabic No</td><td>2987</td></tr><tr><td>Reference</td><td>Book 56 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Усамы бин Зейда, да будет доволен Аллах ими обоими, что (однажды) Посланник Аллаха ﷺ сел верхом на осла, седло которого было покрыто ворсистой тканью, а позади него уселся Усама
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2987</td></tr><tr><td>Arabic No</td><td>2987</td></tr><tr><td>Reference</td><td>Book 56 Hadith 196</td></tr></tbody></table></div>
 

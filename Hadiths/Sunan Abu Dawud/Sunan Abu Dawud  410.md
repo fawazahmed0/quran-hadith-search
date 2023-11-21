@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Yunus, the freed slave of 'Aishah said:'Aishah commanded me to write for her
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Zaid bin Aslam] dari [Al Qa'qa' bin Hakim] dari [Abu Yunus] mantan sahaya Aisyah radliallahu 'anha, bahwasanya dia mengatakan; [Aisyah] pernah menyuruhku untuk menulis mushaf, kemudian dia berkata; Apabila engkau sampai pada ayat, "Peliharalah semua shalat dan shalat Wushtha", beritahu saya. Maka tatkala saya telah sampai pada ayat tersebut, saya memberitahunya, lantas dia mendiktekan kepadaku, "Peliharalah semua shalat dan shalat Wushtha dan shalat Ashar, dan laksanakanlah shalat karena Allah dengan khusyuk." Kemudian dia berkata; Saya telah mendengarnya dari Rasulullah Shallalahu alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (629)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>410</td></tr><tr><td>Arabic No</td><td>410</td></tr><tr><td>Reference</td><td>Book 2 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Абу Йунус вольноотпущенник ‘Аиши, да будет доволен ею Аллах, сказал: «‘Аиша велела мне записать для нее Коран и сказала: “Позови меня, когда дойдешь до этого аята: “Оберегайте молитвы, и особенно среднюю молитву”. Когда я дошел до этого аята, я позвал её, и она продиктовала мне (следующее): “Оберегайте молитвы, и особенно, среднюю молитву и молитву послеполуденную и стойте перед Аллахом смиренно”. Затем ‘Аиша сказала: “Я слышала это от Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (629)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>410</td></tr><tr><td>Arabic No</td><td>410</td></tr><tr><td>Reference</td><td>Book 2 Hadith 20</td></tr></tbody></table></div>
 

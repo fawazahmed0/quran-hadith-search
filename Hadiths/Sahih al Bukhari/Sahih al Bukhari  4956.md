@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The commencement of (the Divine Inspirations to) Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Abdurrazzaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] -dalam riwayat lain- Dan [Al Laits] berkata; Telah menceritakan kepadaku ['Uqail] ia berkata; Telah berkata [Muhammad] Telah mengabarkan kepadaku [Urwah] dari [Aisyah] radliallahu 'anha. Wahyu yang pertama kali diturunkan kepada Rasulullah shallallahu 'alaihi wasallam adalah Ar Ru'yah Ash Shadiqah (mimpi yang benar). Ketika itu, Malaikat mendatanginya seraya berkata, "IQRA' BISMI RABBIKAL LADZII KHALAQ, KHALAQAL INSAANA MIN 'ALAQ, IQRA' WARABBUKAL AKRAM ALLADZII 'ALLAMAL BIL QALAM
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>4956</td></tr><tr><td>Reference</td><td>Book 65 Hadith 478</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «Ниспослание откровений Посланнику Аллаха ﷺ началось с правдивого видения во сне, затем к нему пришёл ангел и сказал: “Читай во имя Господа твоего, Который сотворил, сотворил человека из сгустка! Читай, ведь Господь твой — Наищедрейший. Который обучил посредством пера”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>4956</td></tr><tr><td>Reference</td><td>Book 65 Hadith 478</td></tr></tbody></table></div>
 

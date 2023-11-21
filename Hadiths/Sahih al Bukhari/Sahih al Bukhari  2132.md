@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:Ibn 'Abbas said, "Allah's Messenger (ﷺ) forbade the selling of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] dari [Ibnu Thawus] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam melarang seseorang menjual makanan (yang dibelinya) hingga telah menjadi miliknya secara sah. Aku bertanya kepada Ibnu 'Abbas: "Bagaimana maksudnya?" Dia menjawab: "Hal itu bila dirham dengan dirham dan pembayaran makanannya ditangguhkan". Abu 'Abdullah Al Bukhariy berkata: Murjauna maknanya sama dengan mu"akhkhoruuna, artinya ditangguhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2132</td></tr><tr><td>Arabic No</td><td>2132</td></tr><tr><td>Reference</td><td>Book 34 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ запрещал человеку продавать еду, пока он полностью не выполнит (всего необходимого)». Ибн ‘Аббаса спросили: «Как это?» Он сказал: «(Это значит, что нельзя было отдавать) дирхемы за дирхемы, а еду задерживать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2132</td></tr><tr><td>Arabic No</td><td>2132</td></tr><tr><td>Reference</td><td>Book 34 Hadith 84</td></tr></tbody></table></div>
 

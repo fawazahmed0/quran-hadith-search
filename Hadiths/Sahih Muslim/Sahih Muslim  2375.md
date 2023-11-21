@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma', daughter of Abu Bakr (Allah be pleased with him), reported:The Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Hisyam] dari [Fathimah binti Al Mundzir] dari [Asma' binti Abu Bakar] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepadaku: "Bersedekahlah kamu dan jangan menghitung-hitung, karena Allah akan menghitung-hitung pula pemberian-Nya kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>1029.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Аби Бакр, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ сказал мне: “Раздавай (милостыню) и не подсчитывай, а иначе Аллах лишит тебя (излишков твоего имущества)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>1029.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 112</td></tr></tbody></table></div>
 

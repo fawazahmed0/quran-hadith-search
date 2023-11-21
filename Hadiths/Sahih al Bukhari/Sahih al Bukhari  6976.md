@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) has decreed that preemption is va
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir bin Abdullah] mengatakan, 'hanyasanya Nabi shallallahu 'alaihi wasallam menetapkan syuf'ah untuk suatu yang belum dibagi, namun jika batas-batas tanah dan jalan pekarangan telah ditetapkan, tak ada syuf'ah lagi.' Sebagian orang berpendapat; 'bahwa syuf'ah bagi tetangga', kemudian dia berpegang dengan perkara yang dia perkuat, sehingga ia membatalkannya. Dan dia berkata; Jika seseorang membeli rumah dan khawatir tetangganya menguasainya dengan syuf'ah, maka dia membeli satu saham dari seratus saham yang ada, kemudian ia sendiri membeli saham sisanya, maka si tetangga hanya memperoleh syuf'ah pada satu saham yang pertama, dan tidak berhak syuf'ah pada saham rumah sisanya, dan dia boleh mensiasati hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>6976</td></tr><tr><td>Reference</td><td>Book 90 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Пророк ﷺ предоставил преимущественное право покупки /шуф‘а/ любого неделимого имущества, однако если границы и пути были размечены, то преимущественное право покупки уже не действовало»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>6976</td></tr><tr><td>Reference</td><td>Book 90 Hadith 23</td></tr></tbody></table></div>
 

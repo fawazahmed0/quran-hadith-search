@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aslam:'Umar said, "Were it not for those Muslims who have not come to e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Shadaqah] telah mengabarkan kepada kami ['Abdur Rahman] dari [Malik] dari [Zaid bin Aslam] dari [bapaknya] berkata, ['Umar bin radliallahu 'anhu] berkata; "Kalaulah tidak (memikirkan) Kaum Muslimin yang lain tentulah aku sudah membagi-bagikan setiap wilayah yang aku taklukan sebagaimana Nabi Shallallahu'alaihiwasallam telah membagi-bagikan tanah Khoibar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3125</td></tr><tr><td>Arabic No</td><td>3125</td></tr><tr><td>Reference</td><td>Book 57 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «Если бы не (будущие поколения) мусульман, я бы непременно делил между (воинами земли каждого) завоёванного мною селения подобно тому, как (раньше) Пророк ﷺ разделил (земли) Хайбара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3125</td></tr><tr><td>Arabic No</td><td>3125</td></tr><tr><td>Reference</td><td>Book 57 Hadith 34</td></tr></tbody></table></div>
 

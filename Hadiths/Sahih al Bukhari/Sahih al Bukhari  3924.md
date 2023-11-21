@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The first people who came to us (in Medina) were Mus'ab bin 'Um
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] ia berkata, telah memberitakan kepada kami [Abu Ishaq] dia mendengar [Al Bara'] radliallahu 'anhu berkata; "Orang yang pertama kali datang kepada kami (dari kaum Muhajirin) adalah Mush'ab bin 'Umair dan Ibnu Ummi Maktum kemudian 'Ammar bin Yasir dan Bilal radliallahu 'anhum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3924</td></tr><tr><td>Arabic No</td><td>3924</td></tr><tr><td>Reference</td><td>Book 63 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Первыми из тех, кто приехал к нам, были Мус‘аб ибн ‘Умайр и Ибн Умм Мактум, потом (к нам) приехали ‘Аммар ибн Йасир и Биляль, да будет доволен ими Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3924</td></tr><tr><td>Arabic No</td><td>3924</td></tr><tr><td>Reference</td><td>Book 63 Hadith 149</td></tr></tbody></table></div>
 

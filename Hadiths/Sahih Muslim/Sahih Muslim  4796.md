@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'Arfaja who said:I have heard the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Bakar bin Nafi'] dan [Muhammad bin Basyar], [Ibnu Nafi'] berkata; telah menceritakan kepada kami [Ghundar], dan [Ibnu Basyar] berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ziyad bin 'Ilaqah] dia berkata; saya mendengar ['Arfajah] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Suatu saat nanti akan terjadi bencana dan kekacauan, maka siapa saja yang hendak memecah belah persatuan ummat ini penggallah dengan pedangmu, siapa pun orangnya." Dan telah menceritakan kepada kami [Ahmad bin Khirasy] telah menceritakan kepada kami [Habban] telah menceritakan kepada kami [Abu 'Awanah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Al Qasim bin Zakaria] telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Syaiban]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Mush'ab bin Al Miqdam Al Khats'ami] telah menceritakan kepada kami [Isra'il] (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Hajjaj] telah menceritakan kepada kami ['Arim bin Fadhl] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami ['Abdullah bin Al Mukhtar] dan seorang laki-laki, mereka semua dari [Ziyad bin 'Ilaqah] dari ['Arfajah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas, namun dalam hadits mereka disebutkan, "Maka bunuhlah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4796</td></tr><tr><td>Arabic No</td><td>1852.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4796</td></tr><tr><td>Arabic No</td><td>1852.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 93</td></tr></tbody></table></div>
 

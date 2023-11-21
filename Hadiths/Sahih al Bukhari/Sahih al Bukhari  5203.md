@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:One morning we saw the wives of the Prophet (ﷺ) weeping, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Marwan bin Mu'awiyah] Telah menceritakan kepada kami [Abu Ya'fur] ia berkata; Kami bermudzakarah di sisi [Abu Dluha] maka ia pun berkata; Telah menceritakan kepada kami [Ibnu Abbas] ia berkata; Pada suatu hari saat kami memasuki waktu pagi, ternyata isteri-isteri Nabi shallallahu 'alaihi wasallam menangis, dan di samping setiap orang dari mereka terdapat keluarganya. Lalu aku pun keluar menuju Masjid, ternyata masjid telah dipenuhi oleh kerumunan orang-orang. Kemudian datanglah Umar bin Al Khaththab, dan naik hendak menemui Nabi shallallahu 'alaihi wasallam yang tengah berada di dalam kamarnya. Ia pun mengucapkan salam, namun tak seorang pun yang membalas salamnya, lalu ia mengucapkan salam kembali, namun tak juga ada yang menjawabnya. Akhirnya ia pun dipanggil dan menemui Nabi shallallahu 'alaihi wasallam seraya bertanya, "Apakah Anda telah menceraikan isteri-isteri Anda?" beliau menjawab: "Tidak, tetapi aku telah bersumpah untuk tidak menemui mereka selama satu bulan." Setelah dua puluh sembilan hari berlalu, beliau pun menemui mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5203</td></tr><tr><td>Arabic No</td><td>5203</td></tr><tr><td>Reference</td><td>Book 67 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас рассказывал: «Однажды утром (мы обнаружили, что) жёны Пророка ﷺ плакали, и с каждой из них были её родные. Я пошёл в мечеть и увидел, что она была переполнена людьми. Затем пришел ‘Умар ибн аль-Хаттаб и поднялся к Пророку ﷺ, который был в своей комнате. Он поприветствовал, но никто ему не отвечал, он снова поприветствовал, но никто ему не отвечал, он снова поприветствовал, но никто ему не отвечал. Затем его позвали, и войдя к Пророку ﷺ, ‘Умар спросил: “Ты развел своих жён?” Пророк ﷺ ответил: “Нет, однако я поклялся не приближаться к ним в течение месяца”. Он не приближался к своим жёнам в течение двадцать девять дней, а затем он вошёл к ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5203</td></tr><tr><td>Arabic No</td><td>5203</td></tr><tr><td>Reference</td><td>Book 67 Hadith 137</td></tr></tbody></table></div>
 

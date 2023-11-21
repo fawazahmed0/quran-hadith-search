@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When the Messenger of Allah (ﷺ) prayed over a dead perso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Marwan Ar Raqqi] telah menceritakan kepada kami [Syu'aib bin Ishaq] dari [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam penah menshalati jenazah kemudian beliau mengucapkan: ALLAAHUMMAGHFIR LIHAYYINAA WA MAYYITINA, WA SHAGHIIRINAA WA KABIIRINAA WA DZAKARINAA WA UNTSAANAA, WA SYAHIDINAA WA GHAAIBINAA. ALLAAHUMMA, MAN AHYAITAHU MINNAA FA AHYIHI 'ALAL IIMAAN WA MAN TAWAFFAITAHU MINNAA FATAWAFFAHU 'ALAL ISLAAM. ALLAHUMMA LAA TAHRIMAN AJRAHU WA LAA TUDHILLANAA BA'DAHU (ya Allah, ampunilah orang-orang yang masih hidup diantara kami, dan yang telah mati, anak kecil dan yang dewasa kami, laki-laki kami dan wanita kami, orang-orang yang hadir diantara kami dan yang tidak hadir. Ya Allah, siapapun diantara kami yang Engkau hidupkan maka hidupkanlah di atas keimanan dan siapapun diantara kami yang Engkau wafatkan maka wafatkanlah dalam keadaan beragama Islam, ya Allah, janganlah Engkau halangi kami dari mendapatkan pahalanya dan janganlah Engkau sesatkan kami setelah kematiannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3201</td></tr><tr><td>Arabic No</td><td>3201</td></tr><tr><td>Reference</td><td>Book 21 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что однажды, совершая погребальную молитву, Посланник Аллаха ﷺ сказал: «О Аллах, прости нашим живым и мёртвым, юным и старым, мужчинам и женщинам, присутствующим и отсутствующим. О Аллах, кого из нас Ты оставляешь в живых, тот пусть живёт с верой, а кого из нас Ты упокоеваешь, тех упокой мусульманами. О Аллах, не лишай нас его награды и не вводи нас в заблуждение после него» /Аллахумма-гфир ли-хаййина ва маййитина, ва шахиди-на ва гаиби-на, ва сагырина ва кабири-на, ва закари-на ва унса-на, Аллахумма, ман ахйайта-ху мин-на фа-ахйи-хи аля-ль-ислям, ва ман таваффайта-ху мин-на фа-таваффа-ху ‘аля-ль-иман, Аллахумма ля тахрим-на аджра-ху ва ля тудылля-на ба‘да-ху
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3201</td></tr><tr><td>Arabic No</td><td>3201</td></tr><tr><td>Reference</td><td>Book 21 Hadith 113</td></tr></tbody></table></div>
 

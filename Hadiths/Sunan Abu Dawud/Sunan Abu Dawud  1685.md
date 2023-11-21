@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah reported The Messenger of Allah (ﷺ) as saying When a woman gives (so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abu 'Awanah] dari [Manshur] dari [Syaqiq] dari [Masruq] dari [Aisyah] radliallahu 'anha, ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Apabila seorang wanita berinfak dari harta suaminya tanpa membuat kerusakan maka baginya pahala apa yang telah ia infakkan, dan bagi suaminya pahala apa yang ia usahakan, dan bagi orang menyimpannya mendapatkan pahala seperti itu tanpa sebagian mereka mengurangi pahala sebagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1425) Sahih Muslim (1024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1685</td></tr><tr><td>Arabic No</td><td>1685</td></tr><tr><td>Reference</td><td>Book 9 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Если женщина подаст в качестве милостыни что-то из того, что имеется у неё дома, не нанося никому ущерба, она получит награду за то, что отдаст, её муж получит награду за то, что он заработал, и такую же награду получит кладовщик. И награда любого из них никак не уменьшит награды других»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1425) Sahih Muslim (1024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1685</td></tr><tr><td>Arabic No</td><td>1685</td></tr><tr><td>Reference</td><td>Book 9 Hadith 130</td></tr></tbody></table></div>
 

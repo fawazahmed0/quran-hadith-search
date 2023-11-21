@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':When Ibrahim (the son of Prophet) expired, Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari ['Adiy bin Tsabit] bahwa dia mendengar [Al Bara' radliallahu 'anhu] berkata; Ketika Ibrahim (putra Nabi Shallallahu'alaihiwasallam) meninggal dunia, Rasulullah shallallahu 'alaihi wasallam bersabda: "Baginya akan ada yang menyusuinya di surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>1382</td></tr><tr><td>Reference</td><td>Book 23 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Когда скончался Ибрахим, Посланник Аллаха ﷺ сказал: “Поистине, в раю у него есть кормилица”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>1382</td></tr><tr><td>Reference</td><td>Book 23 Hadith 134</td></tr></tbody></table></div>
 

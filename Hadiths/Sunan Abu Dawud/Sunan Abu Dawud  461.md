@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: The rewards of my people were p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Abdul Hakam Al Khazzaz] telah mengabarkan kepada kami [Abdul Majid bin Abdul Aziz bin Abu Rawwad] dari [Ibnu Juraij] dari [Al Muththalib bin Abdullah bin Hanthab] dari [Anas bin Malik] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Telah diperlihatkan kepadaku pahala-pahala umatku hingga perbuatan seseorang yang mengeluarkan kotoran dari masjid, dan juga diperlihatkan kepadaku dosa-dosa umatku, dan saya tidak mendapatkan dosa yang lebih besar yang dikerjakan umatku daripada dosa seorang yang telah menghafal suatu surat atau ayat dari Al Quran yang kemudian dia melupakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>461</td></tr><tr><td>Arabic No</td><td>461</td></tr><tr><td>Reference</td><td>Book 2 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Посланник Аллаха ﷺ сказал: “Мне были показаны вознаграждения, уготовленные для членов моей уммы, (и среди них была награда) даже за соринку, которую человек выносит из мечети. И были мне показаны грехи членов моей уммы, и я не видел большего греха, чем тот, который совершил человек, которому была дарована сура или аят из Корана, а он позабыл их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>461</td></tr><tr><td>Arabic No</td><td>461</td></tr><tr><td>Reference</td><td>Book 2 Hadith 71</td></tr></tbody></table></div>
 

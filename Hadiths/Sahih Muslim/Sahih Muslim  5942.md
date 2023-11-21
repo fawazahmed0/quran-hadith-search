@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:I saw Allah's Messenger (ﷺ) during the time of the afte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Musa Al Anshari] Telah menceritakan kepada kami [Ma'an] Telah menceritakan kepada kami [Malik] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Abu Thahir] Telah mengabarkan kepada kami [Ibnu Wahab] dari [Malik bin Anas] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] bahwa dia berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam -ketika waktu Ashar telah tiba- dan orang-orang sedang mencari air wudlu, namun mereka belum mendapatkannya. Lantas dibawakan air wudlu kepada Rasulullah Shallallahu'alaihi wasallam, maka Rasulullah Shallallahu'alaihi wasallam meletakkan tangannya kedalam bejana tersebut. beliau pun memerintahkan orang-orang untuk berwudlu'darinya. Anas berkata; "Aku melihat air mengalir dari bawah jari-jari beliau, sehingga mereka berwudlu'sampai orang yang terakhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5942</td></tr><tr><td>Arabic No</td><td>2279.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5942</td></tr><tr><td>Arabic No</td><td>2279.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 5</td></tr></tbody></table></div>
 

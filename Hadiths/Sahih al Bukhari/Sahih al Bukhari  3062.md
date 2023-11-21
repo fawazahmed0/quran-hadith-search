@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:as follows in Hadith 297. Narrated Abu Huraira: We were in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy]. Dan diriwayatkan pula, telah bercerita kepadaku [Mahmud bin Ghailan] telah bercerita kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari [Ibnu Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] berkata; "Ketika kami sedang ikut dalam suatu peperangan bersama Rasulullah Shallallahu'alaiwasallam, Beliau berkata kepada seseorang yang mengaku dirinya telah masuk Islam; "Orang ini termasuk penduduk neraka". Ketika terjadi peperangan orang tadi berperang dengan sangat berani lalu dia terluka kemudian dikatakan (kepada Beliau); "Wahai Rasulullah, orang yang Baginda maksudkan tadi sebagai penduduk neraka, dia telah berperang hari ini dengan sangat berani dan dia telah gugur". Maka Nabi Shallallahu'alaihiwasallam berkata: "Dia akan masuk neraka". (Abu Hurairah) berkata; "Orang-orang semuanya jadi Ragu. Ketika dalam keraguan seperti itu, ada orang yang mengabarkan bahwa orang yang berperang tadi tidaklah mati melainkan setelah mendapatkan luka yang sangat parah namun ketika pada malam harinya dia tidak shabar atas luka yang dideritanya hingga akhirnya dia bunuh diri. Kejadian ini kemudian dikabarkan kepada Nabi Shallallahu'alaihiwasallam, maka Nabi Shallallahu'alaihiwasallam bersabda: "Allahu Akbar, aku bersaksi bahwa aku ini hamba Allah dan Rasul-Nya". Kemudian Beliau memerintahkan Bilal agar menyerukan manusia bahwa tidak akan masuk surga melainkan jiwa yang pasrah dan Allah bisa jadi menolong agama ini melalui seorang yang berdosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3062</td></tr><tr><td>Arabic No</td><td>3062</td></tr><tr><td>Reference</td><td>Book 56 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Мы были (в Хайбаре) вместе с Посланником Аллаха ﷺ, и он сказал о человеке, который утверждал, что он мусульманин: “Этот (человек) из числа обитателей Огня”. Когда началось сражение, этот человек яростно сражался, пока не был ранен. Тогда один из сподвижников сказал: “О Посланник Аллаха! Тот человек, о котором ты сказал, что он из числа обитателей Огня, сражался яростно на пути Аллаха, пока не умер”. И Пророк ﷺ сказал: “Он войдёт в Огонь!” Некоторые мусульмане уже стали сомневаться (в словах Пророка ﷺ), но тут один из присутствующих сказал: “Он не умер, однако он тяжело ранен”. Когда настала ночь он не смог выдержать боль от ран и убил себя. Когда Пророку ﷺ сообщили об этом, он сказал: “Аллаху Акбар (Аллах Велик)! Свидетельствую, что я раб Аллаха и Его Посланник!” Затем он велел Билялю объявить среди людей: “В Рай войдёт только мусульманин! И поистине, Аллах поддерживает эту религию даже с помощью грешного человека!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3062</td></tr><tr><td>Arabic No</td><td>3062</td></tr><tr><td>Reference</td><td>Book 56 Hadith 267</td></tr></tbody></table></div>
 

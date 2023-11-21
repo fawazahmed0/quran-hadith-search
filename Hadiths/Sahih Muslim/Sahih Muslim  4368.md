@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported that a person bit the arm of another person; he pulled 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'adz] -yaitu Ibnu Hisyam- telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Zurarah bin Aufa] dari ['Imran bin Hushain], bahwa seorang laki-laki menggigit lengan laki-laki lain, lalu laki-laki yang digigit menarik lengannya hingga orang yang menggigit tanggal gigi depannya. Permasalahan itu kemudian sampai kepada Nabi shallallahu 'alaihi wasallam, namun beliau tidak mengambil diat, bahkan beliau bersabda: "Apakah kamu ingin memakan dagingnya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4368</td></tr><tr><td>Arabic No</td><td>1673.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4368</td></tr><tr><td>Arabic No</td><td>1673.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 27</td></tr></tbody></table></div>
 

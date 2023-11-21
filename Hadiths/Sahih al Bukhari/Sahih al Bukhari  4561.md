@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib:The Prophet (ﷺ) appointed 'Abdullah bin Jubair as th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid] Telah menceritakan kepada kami [Zuhair] Telah menceritakan kepada kami [Abu Ishaq] berkata; Aku mendengar [Al Bara' bin 'Azib radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam menjadikan Abdullah bin Jubair sebagai komandan pasukan yang berjalan kaki pada perang Uhud. Lalu mereka lari berpencaran, itulah yang dimaksud dengan firman Allah: "Ingatlah) ketika kamu lari dan tidak menoleh kepada seseorangpun, sedang Rasul yang berada di antara kawan-kawanmu yang lain memanggil kamu...." pada waktu itu tidak ada yang bersama Rasulullah shallallahu 'alaihi wasallam kecuali hanya dua belas orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4561</td></tr><tr><td>Arabic No</td><td>4561</td></tr><tr><td>Reference</td><td>Book 65 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «В день битвы при Ухуде Пророк ﷺ поставил ‘Абдуллаха ибн Джубайра во главе пехотинцев. Затем они были разбиты, об этом говорится в аяте: “…тогда как Посланник призывал вас, находясь в последних (ближайших к противнику) рядах…”. И с Пророком ﷺ тогда осталось только двенадцать человек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4561</td></tr><tr><td>Arabic No</td><td>4561</td></tr><tr><td>Reference</td><td>Book 65 Hadith 83</td></tr></tbody></table></div>
 

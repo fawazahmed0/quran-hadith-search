@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn AbuAwfa: Muhammad ibn AbulMujahid reported Abdullah ibn Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], telah menceritakan kepada kami [Abu Mu'awiyah], telah menceritakan kepada kami [Abu Ishaq Asy Syaibani], dari [Muhammad bin Abu Mujalid] dari [Abdullah bin Abu Aufa], ia berkata; aku katakan; apakah kalian membagi makanan menjadi lima pada zaman Rasulullah shallallahu 'alaihi wasallam? Kemudian ia berkata; kami pernah mendapatkan makanan pada saat perang Khaibar, dan terdapat seseorang yang datang dan mengambil sebagian makanan tersebut seukuran yang cukup baginya kemudian ia pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2704</td></tr><tr><td>Arabic No</td><td>2704</td></tr><tr><td>Reference</td><td>Book 15 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Аби Муджалид рассказывал: «Однажды я задал ‘Абдуллаху ибн Аби Ауфе вопрос: “Выделяли ли пятую часть из продуктов, [доставшихся вам в качестве трофеев], при жизни Посланника Аллаха ﷺ?”, на что он ответил: “В день (битвы за) Хайбар нам досталось еда, и (каждый) из нас приходил и брал из неё столько, сколько, ему было достаточно, а затем уходил”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2704</td></tr><tr><td>Arabic No</td><td>2704</td></tr><tr><td>Reference</td><td>Book 15 Hadith 228</td></tr></tbody></table></div>
 

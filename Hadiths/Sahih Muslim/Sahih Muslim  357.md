@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Mas'ud says:I heard the Messenger of Allah observing: He who took an oath on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abu Umar al-Makki] telah menceritakan kepada kami [Sufyan] dari [Jami' bin Abu Rasyid] dan [Abdul Malik bin A'yan] keduanya mendengar [Syaqiq bin Salamah] berkata, saya mendengar [Ibnu Mas'ud] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah atas harta seorang muslim tanpa haknya, niscaya dia menemui Allah, sedangkan Dia dalam keadaan marah kepadanya." Abdullah berkata, "Kemudian Rasulullah membacakan untuk kami dalilnya dari Kitabullah: '(Sesungguhnya orang-orang yang menjual janji Allah dan sumpah mereka dengan harga yang murah…) ' (Qs. Ali Imran: 77), hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>357</td></tr><tr><td>Arabic No</td><td>138.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн Мас‘уд рассказал, что он слышал, как Посланник Аллаха ﷺ сказал: «Тот, кто даст (лживую) клятву с целью присвоения имущества мусульманина безо всякого права, встретит Аллаха так, что Аллах будет на него в гневе». ‘Абдуллах сказал: «Затем Посланник Аллаха ﷺ зачитал нам подтверждение этих слов в Книге Аллаха: “Воистину, тем, которые продают завет с Аллахом и свои клятвы за ничтожную цену, нет доли в Последней жизни. Аллах не станет говорить с ними, не посмотрит на них в День воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>357</td></tr><tr><td>Arabic No</td><td>138.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 264</td></tr></tbody></table></div>
 

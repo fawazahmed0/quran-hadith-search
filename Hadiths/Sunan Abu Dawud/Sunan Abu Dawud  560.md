@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: Prayer in congregation is equivalent to twenty-five
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hilal bin Maimun] dari ['Atha' bin Yazid] dari [Abu Sa'id Al-Khudri] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat yang dikerjakan secara berjamaah menyamai dua puluh lima kali shalat (secara sendirian). Apabila dia mengerjakannya di tanah lapang, lalu dia menyempurnakan ruku dan sujudnya, maka shalatnya sampai lima puluh kali pahala shalat". Abu Dawud berkata; [Abdul Wahid bin Ziyad] menyebutkan di dalam hadits ini; "Shalat seseorang yang dikerjakan di tanah lapang, dilipatgandakan pahalanya daripada shalatnya secara berjamaah", selanjutnya dia menyebutkan Hadits itu secara lengkap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>560</td></tr><tr><td>Arabic No</td><td>560</td></tr><tr><td>Reference</td><td>Book 2 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саи‘д аль-Худри сказал: «Посланник Аллаха ﷺ сказал: “Молитва в джама‘ате равняется (по вознаграждению) двадцати пяти молитвам, а если (человек) совершит её в пустыни, совершая должным образом поясные и земные поклоны, то (по степени вознаграждения) она достигнет пятидесяти молитв”».Абу Дауд сказал: «‘Абдуль-Вахид ибн Зияд сказал в этом хадисе: “Молитва человека в пустыне два раза превосходит его молитву в джама‘ате”, и далее он привёл этот хадис до конца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>560</td></tr><tr><td>Arabic No</td><td>560</td></tr><tr><td>Reference</td><td>Book 2 Hadith 170</td></tr></tbody></table></div>
 

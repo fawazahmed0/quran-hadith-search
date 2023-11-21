@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abdullah b. 'Umar that the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abdul Malik bin Shu'aib bin Laits] telah menceritakan kepadaku [ayahku] dari [kakekku] dia berkata; telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] dari [Salim] dari [Abdullah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah memberikan tambahan bagian dari harta rampasan perang kepada para anggota pasukan selain dari pembagian secara umum, sedangkan seperlima bagian dari seluruh harta rampasan wajib dibagikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4565</td></tr><tr><td>Arabic No</td><td>1750.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4565</td></tr><tr><td>Arabic No</td><td>1750.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 46</td></tr></tbody></table></div>
 

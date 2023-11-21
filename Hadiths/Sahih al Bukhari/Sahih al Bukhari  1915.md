@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:It was the custom among the companions of Muhammad that if any 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Isra'il] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu] berkata; "Diantara para sahabat Muhammad shallallahu 'alaihi wasallam ada seseorang apabila sedang shaum lalu tiba waktu berbuka dia pergi tidur sebelum berbuka sehingga dia tidak memakan sesuatu pada malam dan siang hari hingga petang hari. Dan pada suatu ketika Qais bin Shirmah Al Anshariy ketika sedang melaksanakan shaum lalu tiba waktu berbuka dia mendatangi isterinya seraya berkata, kepada isterinya: "Apakah kamu punya makanan?" Isterinya berkata: "Tidak, namun aku akan keluar mencari makanan buatmu". Kemudian di siang harinya dia bekerja keras hingga mengantuk lalu tertidur. Kemudian isterinya datang. Ketika isterinya melihat dia (sedang tertidur), isterinya berkata: "Rugilah kamu". Kemudian pada tengah harinya Qais jatuh pingsan. Lalu persoalan ini diadukan kepada Nabi shallallahu 'alaihi wasallam, maka turunlah firman Allah Ta'ala QS Al Baqarah ayat 197 yang artinya: ("Dihalalkan bagi kalian pada malam bulan puasa bercampur dengan isttri-isteri kalian"). Dengan turunnya ayat ini para sahabat merasa sangat senang, hingga kemudian turun sambungan ayatnya: ("Dan makan minumlah kalian hingga terang bagi kalian benang putih dari benang hitam yaitu di waktu fajar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1915</td></tr><tr><td>Arabic No</td><td>1915</td></tr><tr><td>Reference</td><td>Book 30 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Обычно, когда кто-нибудь из сподвижников Мухаммада ﷺ постился и наступало время разговения, а он засыпал, не разговевшись, то он уже не ел ни этой ночью, ни весь (следующий) день до вечера. И (однажды) Кайс бин Сирма аль-Ансари постился, когда же наступило время разговения, он пришёл к своей жене и спросил её: “Есть ли у тебя какая-нибудь еда?” Она сказала: “Нет, но я пойду и поищу что-нибудь для тебя”. Он весь день работал, и поэтому его одолел сон, а через некоторое время его жена вернулась к нему и, увидев его, сказала: “Тебе не посчастливилось!” А к середине (следующего) дня он упал в обморок и об этом сообщили Пророку ﷺ, после чего был ниспослан этот айат: “Разрешается вам в ночь поста близость с вашими жёнами(, ведь) они являются одеянием для вас, а вы — одеянием для них. Аллаху известно, что вы обманывали самих себя, и Он обратился к вам и простил вас, и сейчас вы (можете) соединяться с ними. И стремитесь к тому, что предписал вам Аллах…” И они очень обрадовались этому, а затем было ниспослано следующее: “…и ешьте и пейте, пока заря не позволит вам отличить белую нить от чёрной…” (сура «аль-Бакара, аят 187)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1915</td></tr><tr><td>Arabic No</td><td>1915</td></tr><tr><td>Reference</td><td>Book 30 Hadith 25</td></tr></tbody></table></div>
 

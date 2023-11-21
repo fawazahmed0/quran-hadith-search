@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported that a person came to Allah's Messenger (ﷺ) and said to Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], [Ishaq] berkata; Telah mengabarkan kepada kami. Sedangkan ['Utsman] berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wail] dari ['Abdullah] dia berkata; seorang laki datang kepada Rasulullah shallallahu 'alaihi wasallam seraya bertanya; Ya Rasulullah, bagaimana menurut anda tentang seseorang yang mencintai suatu kaum namun dia tidak bisa bertemu dengan mereka? Maka jawab Rasulullah shallallahu 'alaihi wasallam: "Seseorang itu akan bersama dengan orang yang dia cintai." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Ibnu Abu 'Adi]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepadaku [Bisyr bin Khalid]; Telah mengabarkan kepada kami [Muhammad] yaitu Ibnu Ja'far keduanya dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Abu Al Jawwab]; Telah menceritakan kepada kami [Sulaiman bin Qarm] -secara keseluruhan- dari [Sulaiman] dari [Abu Wail] dari ['Abdullah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Abu Mu'awiyah] dan [Muhammad bin 'Ubaid] dari [Al A'masy] dari [Syaqiq] dari [Abu Musa] dia berkata; seseorang datang kepada Nabi shallallahu 'alaihi wasallam, -lalu dia menyebutkan Hadits yang serupa dengan Hadits Jarir dari Al A'masy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6718</td></tr><tr><td>Arabic No</td><td>2640.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6718</td></tr><tr><td>Arabic No</td><td>2640.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 213</td></tr></tbody></table></div>
 

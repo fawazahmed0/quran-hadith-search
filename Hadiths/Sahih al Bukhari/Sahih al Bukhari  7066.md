@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Near the establishment of the Hour, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Washil] dari [Abu Wa'il] dari [Abdullah] dan setahu saya dia memarfukkannya, mengatakan; "Menjelang kiamat tiba, terdapat hari-hari Alharaj, ketika itu ilmu lenyap, kebodohan merajalela." [Abu Musa] mengatakan alharaj maknanya adalah pembunuhan, istilah ini adalah istilah orang Habsyi (Ethiopia). Sedang [Abu 'Awanah] mengatakan, dari ['Ashim] dari [Abu Wail] dari [Al Asy'ari] bahwasanya ia berkata kepada 'Abdullah 'Kamu tahu hari-hari yang disebut Nabi shallallahu 'alaihi wasallam tentang hari-hari al haraj (pembunuhan)? ' semisal hadits diatas. Sedang [Ibnu Mas'ud] mengatakan, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda; "Manusia yang paling jelek adalah manusia yang mendapati hari kiamat ketika dia masih hidup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7066</td></tr><tr><td>Arabic No</td><td>7066</td></tr><tr><td>Reference</td><td>Book 92 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Ваиль передаёт от ‘Абдуллах (ибн Мас‘уда), да будет доволен им Аллах. (И Абу Ваиль сказал:) Мне кажется, что ‘Абдуллах (ибн Мас‘уд) передал эти слова от Пророка ﷺ который сказал: «Незадолго до наступления Часа настанут дни многочисленных убийств, в которые исчезнет знание и появится невежество».\nАбу Муса (аль-Аш‘ари) сказал: «(Слово) “хардж” с эфиопского языка означает “убийство”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7066</td></tr><tr><td>Arabic No</td><td>7066</td></tr><tr><td>Reference</td><td>Book 92 Hadith 17</td></tr></tbody></table></div>
 

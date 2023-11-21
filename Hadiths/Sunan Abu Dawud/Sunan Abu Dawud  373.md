@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sulaiman b. Yasar reported:I heard 'Aishah say that she would wash semen from th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Zuhair] (demikian juga diriwayat dari jalur lian), Dan telah menceritakan kepada kami [Muhammad bin Ubaid bin Hisab Al Bashri] telah menceritakan kepada kami [Sulaim bin Akhdlar] secara makna. Dan riwayat dari hadits [Sulaim] mereka berdua mengatakan; Telah menceritakan kepada kami [Amru bin Maimun bin Mihran] saya telah mendengar [Sulaiman bin Yasar] berkata; Saya telah mendengar [Aisyah] berkata bahwasanya dia mencuci mani dari pakaian Rasulullah shallallahu 'alaihi wasallam. Katanya; Kemudian saya melihat pada pakaian itu ada bagian (dari bekas mani itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (229) Sahih Muslim (289)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 1 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра ибн Маймуна ибн Михрана о том, что он слышал, как Сулейман ибн Йасар говорил: «Я слышал, как ‘Аиша рассказывала, что она смывала сперму с одежды Посланника Аллаха ﷺ».(‘Аиша) сказала: «Затем я видела на ней пятно или мокрое (место)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (229) Sahih Muslim (289)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 1 Hadith 373</td></tr></tbody></table></div>
 

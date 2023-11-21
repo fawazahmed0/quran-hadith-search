@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Hakam ibn Uyaynah said that he went along with some people to Abdullah ibn Uk
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isma'il] -mantan budak bani Hasyim- berkata, telah menceritakan kepada kami [At Tsaqafi] dari [Khalid] dari [Al Hakam bin Utaibah] Bahwasanya ia dan beberapa orang menemui [Abdullah bin Ukaim] -seorang laki-laki dari Juhainah-. Al Hakam berkata, "Mereka lalu masuk sementara aku duduk di depan pintu, kemudian mereka keluar menemuiku mengabarkan kepadaku bahwa Abdullah bin Ukaim telah mengabarkan kepada mereka, bahwa Rasulullah shallallahu 'alaihi wasallam telah menulis surat kepada orang-orang Juhainah sebulan sebelum beliau wafat, yaitu: "Janganlah kalian memanfaatkan kulit atau tanduk bangkai.” Abu Daud berkata; An Nadhar bin Syumail mengatakan; "dinamakan ihab (kulit bangkai) jika belum disamak, namun jika telah disamak maka tidak dinamakan lagi ihab (kulit bangkai), akan tetapi dinamakan griba (wadah dari kulit).”
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4128</td></tr><tr><td>Arabic No</td><td>4128</td></tr><tr><td>Reference</td><td>Book 34 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Хакама ибн ‘Утайбы, что он отправился вместе с другими людьми к ‘Абдуллаху ибн ‘Укайму, человеку из племени Джухайна. Аль-Хакам сказал: «И они вошли, а я сел у двери, а потом они вышли и сообщили мне, что ‘Абдуллах ибн ‘Укайм сообщил им, что Посланник Аллаха ﷺ написал (племени) джухайна за месяц до своей смерти: “Не используйте шкуру и жилы мертвечины”». Абу Дауд сказал: «После дубления шкура уже не называется словом “ихаб”, а называется “шанн” или “кырба”». Ан-Надр ибн Шумайль сказал: «Шкура называется “ихаб”, пока она не подвергнется дублению»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4128</td></tr><tr><td>Arabic No</td><td>4128</td></tr><tr><td>Reference</td><td>Book 34 Hadith 109</td></tr></tbody></table></div>
 

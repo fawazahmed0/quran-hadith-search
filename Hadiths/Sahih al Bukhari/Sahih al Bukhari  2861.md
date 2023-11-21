@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muslim from Abu 'Aqil from Abu Al-Mutawakkil An-Naji:I called on Jabir 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muslim] telah bercerita kepada kami [Abu 'Aqil] telah bercerita kepada kami [Abu Al Mutawakkil An-Najiy] berkata; Aku menemui [Jabir bin 'Abdullah Al Anshoriy] lalu aku katakan kepadanya: "Ceritakanlah kepadaku apa yang kamu dengar dari Rasulullah shallallahu 'alaihi wasallam". Dia berkata: "Aku pernah bepergian bersama Beliau dalam suatu perjalanan safar yang Beliau lakukan". Abu 'Aqil berkata: "Aku tidak tahu apakah perjalanan untuk peperangan atau 'umrah"."Setelah kami hampir akan kembali, Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang ingin bersegera menemui keluarganya silakan". Jabir berkata: "Maka kami kembali dimana aku mengendarai untaku yang warnanya merah kehitaman dan sangat lambat. Sementara itu orang-orang ada di belakangku. Ketika dalam keadaan seperti itu, tiba-tiba Nabi shallallahu 'alaihi wasallam menghampiriku dan bersabda kepadaku: "Wahai Jabir, berhentilah sebentar". Lalu Beliau mecambuk untaku dengan cemeti sekali cambuk, hingga untaku melompat dari posisinya. Kemudian Beliau berkata: "Apakah kamu akan menjual unta ini?" Aku jawab: "Iya". Setelah kami sampai di Madinah dan Nabi shallallahu 'alaihi wasallam memasuki masjid di tengah-tengah kerumunan para sahabat dan akupun masuk mengikuti Beliau dan aku telah mengikat unta di tempat penambatannya maka aku berkata kepada Beliau: "Ini unta Tuan". Maka Beliau keluar lalu menuntun unta itu seraya berkata: "Unta ini adalah unta kita". Lalu Beliau mengirim beberapa awaq (mata uang) berupa emas dan berkata: "Berikan emas ini kepada Jabir". Kemudian Beliau berkata: "Apakah kamu sudah menerima uang penjualannya? Aku katakan: 'Ya, sudah". Lalu Beliau berkata: "Uang itu dan unta buat kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2861</td></tr><tr><td>Arabic No</td><td>2861</td></tr><tr><td>Reference</td><td>Book 56 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аль-Мутаваккиль ан-Наджи сказал: «Я пришёл к Джабиру ибн ‘Абдуллаху аль-Ансари и сказал ему: “Расскажи мне, что ты слышал от Посланника Аллаха ﷺ”. Он сказал: “Я сопровождал его в одном из путешествий”, и Абу ‘Акиль (один из передатчиков) сказал: “Я не знаю, было ли это путешествие с целью сражения или умры”. Джабир продолжил: “Когда мы возвращались, Пророк ﷺ сказал: “Тот, кто хочет вернуться побыстрее к своей семье, пусть поторопится”. Мы отправились, я был на чёрном верблюде, на котором нет пятен, а люди были позади меня. Пока мы так ехали, верблюд внезапно остановился (из-за усталости). Пророк ﷺ сказал мне: “О Джабир, держись (покрепче)!” Затем он ударил его один раз своей плетью, и верблюд соскочил со своего места. Затем Пророк ﷺ сказал: “Ты продашь верблюда?” Я ответил: “Да”. Когда мы прибыли в Медину, и Пророк ﷺ зашёл в мечеть вместе со своими спутниками, я тоже зашёл, привязав верблюда к булыжнику. Я сказал ему: “Это твой верблюд”. Он вышел, начал осматривать верблюда и говорить: “Это наш верблюд”. Затем Пророк ﷺ послал несколько окий золота, сказав: “Отдайте это Джабиру”. Затем он спросил: “Ты получил полную стоимость (верблюда)?” Я ответил: “Да”. Он сказал: “Стоимость верблюда и сам верблюд остаются у тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2861</td></tr><tr><td>Arabic No</td><td>2861</td></tr><tr><td>Reference</td><td>Book 56 Hadith 77</td></tr></tbody></table></div>
 

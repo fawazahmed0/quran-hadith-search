@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported that Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami ['Ubaidullah bin Abdul Majid] telah menceritakan kepada kami [Rabah bin Ma'ruf] dia berkata; Saya mendengar ['Atha'] dari [Jabir bin Abdullah] dia berkata; "Rasulullah Shallallu 'alaihi wa sallam melarang menyewakan tanah dan mengontrakkannya hanya beberapa tahun dan melarang menjual buah-buahan hingga nyata benar baiknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
 

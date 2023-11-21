@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:I asked Sahl bin Sa'd, "Did Allah's Messenger (ﷺ) ever eat 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Ya'qub] dari [Abu Hazim] ia berkata; Aku bertanya kepada [Sahl], "Apakah Rasulullah shallallahu 'alaihi wasallam makan gandum yang ditapis?" Sahl menjawab, "Rasulullah shallallahu 'alaihi wasallam tidak pernah melihat gandum yang ditapis sejak Allah mengutusnya hingga mewafatkannya." Aku bertanya lagi, "Apakah di zaman Rasulullah shallallahu 'alaihi wasallam kalian mempunyai ayakan?" Ia menjawab, "Rasulullah shallallahu 'alaihi wasallam tidak pernah melihat ayakan sejak Allah mengutusnya hingga mewafatkannya." Aku bertanya lagi, "Lalu bagaimana kalian memakan gandum yang belum terayak?" ia menjawab, "Kami menggiling dan meniupnya hingga terbanglah apa yang dapat terbang, sedangkan yang tersisa kami basahi dan memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5413</td></tr><tr><td>Arabic No</td><td>5413</td></tr><tr><td>Reference</td><td>Book 70 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хазим передаёт: «Я спросил Сахля ибн Са‘да: “Ел ли Посланник Аллаха ﷺ хлеб из очищенной белой муки?” Он ответил: “Посланник Аллаха ﷺ не видел белого хлеба с тех пор, как Аллах послал его к людям, и до тех пор, пока Он не забрал его из этого мира”. Я спросил: “А были ли у вас во времена Посланника Аллаха ﷺ сита?” Он ответил: “Посланник Аллаха ﷺ не видел сита с тех пор, как Аллах послал его к людям, и до тех пор, пока Он не забрал его из этого мира”. Я спросил: “Как же вы ели ячмень, не просеивая муку через сито?” Он ответил: “Мы мололи его, дули на него, и что улетало, то улетало, а из остального мы замешивали тесто и пекли хлеб, после чего ели его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5413</td></tr><tr><td>Arabic No</td><td>5413</td></tr><tr><td>Reference</td><td>Book 70 Hadith 41</td></tr></tbody></table></div>
 

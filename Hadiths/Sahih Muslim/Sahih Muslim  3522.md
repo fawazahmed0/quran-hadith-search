@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sufyan reported:I said to Zuhri: Abu Bakr, what does this hadith mean:" The wors
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Ibnu Syihab] dari [Al A'raj] dari [Abu Hurairah] bahwa dia berkata; Seburuk-buruk jamuan adalah jamuan pesta pernikahan, apabila yang diundang ke pesta tersebut hanya orang-orang kaya saja dengan mengabaikan orang-orang miskin. Siapa yang tidak mendatangi suatu undangan, sungguh ia telah durhaka kepada Allah dan Rasul-Nya. Dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] dia berkata; Saya berkata kepada [Az Zuhri]; Wahai Abu Bakar, bagaimana menurutmu hadits ini, yaitu: "Seburuk-buruk jamuan adalah jamuan dalam pesta pernikahan." Maka dia tertawa, dan berkata; Bukan itu, maksudnya yaitu seburuk-buruk jamuan adalah jamuan arang kaya. Sufyan berkata; Ayahku adalah orang yang kaya, maka saya terkejut setelah mendengar hadits tersebut, lantas saya menanyakan kepada Az Zuhri, maka dia berkata; Telah menceritakan kepadaku [Abdurrahman Al A'raj] bahwa dia pernah mendengar [Abu Hurairah] berkata; Seburuk-buruk jamuan adalah jamuan dalam pesta pernikahan, kemudian dia menyebutkan seperti hadits Malik. Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abd bin Humaid] dari [Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Musayyab]. Dan diriwayatkan dari jalur lain, dari [Al A'raj] dari [Abu Hurairah] dia berkata; Seburuk-buruk jamuan makanan adalah jamuan dalam pesta pernikahan, seperti hadits Malik. Dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] dari [Abu Az Zannad] dari [Al A'raj] dari [Abu Hurairah] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3522</td></tr><tr><td>Arabic No</td><td>1432.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3522</td></tr><tr><td>Arabic No</td><td>1432.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 125</td></tr></tbody></table></div>
 

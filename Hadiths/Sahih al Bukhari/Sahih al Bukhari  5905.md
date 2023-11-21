@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:l asked Anas bin Malik about the hair of Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Ali] telah menceritakan kepada kami [Wahb bin Jarir] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Qatadah] dia berkata; saya bertanya kepada [Anas bin Malik] radliallahu 'anhu mengenai rambut Rasulullah shallallahu 'alaihi wasallam, dia berkata; "Rambut Rasulullah shallallahu 'alaihi wasallam tidak lurus dan tidak pula keriting yaitu (menjuntai) antara kedua telinga hingga bahu beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5905</td></tr><tr><td>Arabic No</td><td>5905</td></tr><tr><td>Reference</td><td>Book 77 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Волосы Посланника Аллаха ﷺ были волнистыми, не гладкими и не курчавыми, и опускались ниже мочек его ушей, не доходя до плеч»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5905</td></tr><tr><td>Arabic No</td><td>5905</td></tr><tr><td>Reference</td><td>Book 77 Hadith 122</td></tr></tbody></table></div>
 

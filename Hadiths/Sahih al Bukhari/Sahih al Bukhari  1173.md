@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I offered with the Prophet (ﷺ) two rak'at before the Zuhr a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] berkata, telah mengabarkan kepada kami [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Aku pernah shalat bersama Nabi shallallahu 'alaihi wasallam dua sujud (raka'at) sebelum shalat Zhuhur dan dua raka'at sesudah shalat Zhuhur, dua raka'at sesudah shalat Maghrib, dua raka'at sesudah shalat 'Isya', dan dua raka'at sesudah shalat Jum'at. Adapun untuk Maghrib dan 'Isya' Beliau melaksanaannya di rumah Beliau". Dan telah menceritakan kepadaku saudara perempuanku [Hafshah] bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat dua raka'at dengan ringan setelah terbitnya fajar dan ketika itu aku tidak menemui Nabi shallallahu 'alaihi wasallam ". Dan berkata, [Ibnu Abu Az Zanad] dari [Musa bin 'Uqbah] dari [Nafi']: "Beliau shallallahu 'alaihi wasallam mengerjakan shalat sunnat setelah 'Isya di rumah keluarganya". Hadits ini diperkuat pula oleh [Katsir bin Farqad] dan [Ayyub] dari [Nafi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1173</td></tr><tr><td>Arabic No</td><td>1173</td></tr><tr><td>Reference</td><td>Book 19 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар сказал: «Мне рассказала моя сестра Хафса, что Пророк ﷺ совершал два легких рак‘ата после наступления рассвета (до обязательной утренней молитвы), это было время, в которое я не заходил к Пророку ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1173</td></tr><tr><td>Arabic No</td><td>1173</td></tr><tr><td>Reference</td><td>Book 19 Hadith 51</td></tr></tbody></table></div>
 

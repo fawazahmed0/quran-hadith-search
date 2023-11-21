@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) had a gold ring made for himself, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu 'Umar] radliyallahu'anhuma, bahwasanya Rasulullah Shallallahu'alaihiwasallam membuat cincin dari bahan emas. Cincin itu sering beliau pakai, dan beliau letakkan mata cincinnya di bagian dalam telapak tangannya. Orang-orang pun menirunya dan membuat cincin, kemudian beliau duduk diatas minbar dan mencopot cincinnya seraya mengatakan: "sesungguhnya aku selalu memakai cincin ini, dan aku meletakkan mata cincinnya di bagian dalam" kemudian beliau melemparkannya, sambil berkata: "Demi Allah, saya tidak akan memakainya selama-lamanya." Kontan para sahabat membuang cincin-cincin mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6651</td></tr><tr><td>Arabic No</td><td>6651</td></tr><tr><td>Reference</td><td>Book 83 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от (‘Абдуллаха) ибн 'Умара, да будет доволен Аллах им и его отцом, что (однажды) Посланник Аллаха ﷺ попросил изготовить кольцо из золота, и когда он надевал его, то поворачивал камень к внутренней стороне ладони, и люди тоже сделали себе перстни. (А через некоторое время Пророк ﷺ) сел на минбаре, снял (этот перстень) и сказал: «Я носил этот перстень, поворачивая его камнем внутрь», а потом выбросил его и сказал: «Клянусь Аллахом, я больше никогда его не надену!» — и люди тоже выбросили свои перстни
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6651</td></tr><tr><td>Arabic No</td><td>6651</td></tr><tr><td>Reference</td><td>Book 83 Hadith 30</td></tr></tbody></table></div>
 

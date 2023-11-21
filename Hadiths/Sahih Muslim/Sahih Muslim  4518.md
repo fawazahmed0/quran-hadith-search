@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Salama Ibn Al-'Akwa' (que Dieu l'agrée), nous sortîmes dans une expé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Yusuf Al Azdi] telah menceritakan kepada kami [An Nadlr] -yaitu Ibnu Muhamamd Al Yamami- telah menceritakan kepada kami [Ikrimah] -yaitu Ibnu 'Ammar- telah menceritakan kepada kami [Iyas bin Salamah] dari [ayahnya] dia berkata, "Suatu ketika, kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam dalam sebuah peperangan, lalu kami mendapat kesulitan sampai-sampai kami berniat untuk mengorbankan sebagian dari unta tunggangan kami. Lalu Nabi shallallahu 'alaihi wasallam menyuruh kami untuk mengumpulkan semua perbekalan kami, lalu kamipun membentangkan sebuah tikar hingga semua perbekalan kami terkumpul di atas tikar tersebut." Salamah berkata, "Lalu aku berusaha menghitung jumlah anggota pasukan saat itu, seperti halnya seorang pengembala kambing, dan ternyata kami saat itu berjumlah seratus empat belas." Salamah melanjutkan, "Kemudian kami makan hingga kami semua merasa kenyang, lalu kami mengisi kantong kulit kami. Kemudian Nabi Allah shallallahu 'alaihi wasallam bersabda: "Adakah air untuk berwudlu?" Maka datanglah seorang lelaki dengan membawa kantong airnya, lalu beliau menuangkannya ke dalam ember, hingga kami semua yang saat berjumlah seratus empat belas orang dapat berwudlu dengannya." Salamah melanjutkan, "Setelah itu ada delapan orang yang datang dan menanyakan, "Apakah masih ada air untuk bersuci?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Air wudlu telah habis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4518</td></tr><tr><td>Arabic No</td><td>1729</td></tr><tr><td>Reference</td><td>Book 31 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4518</td></tr><tr><td>Arabic No</td><td>1729</td></tr><tr><td>Reference</td><td>Book 31 Hadith 20</td></tr></tbody></table></div>
 

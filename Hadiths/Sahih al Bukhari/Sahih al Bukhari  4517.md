@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Maqal:I sat with Ka'b bin Ujra in this mosque, i.e. Kufa 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman bin Al Ashbahani] dia berkata; Aku mendengar [Abdullah bin Ma'qil] dia berkata; Aku duduk mendekati [Ka'ab bin Ujrah] di masjid Kufah, lalu aku bertanya kepada Ka'ab tentang fidyah puasa. Saya pernah dibawa menghadap Rasulullah shallallahu 'alaihi wasallam sementara kutu-kutu telah bertebaran di wajahku. Maka beliau berkata: "Saya lihat penyakitmu sudah demikian parah, apakah kamu mempunyai seekor kambing?" saya menjawab; "Tidak." Beliau bersabda: 'Berpuasalah tiga hari, atau memberi makan kepada enam orang miskin yakni sebanyak tetengah sha' untuk setiap orang dan cukurlah rambutmu." Ka'ab berkata; Maka ayat ini turun khusus berkenaan denganku, namun bagi kalian bersifat umum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4517</td></tr><tr><td>Arabic No</td><td>4517</td></tr><tr><td>Reference</td><td>Book 65 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Ма‘кыль сказал: «Однажды, когда я сидел с Ка‘бом ибн ‘Уджрой в этой мечети (имея ввиду мечеть в Куфе), я спросил его об аяте искуплении, и он ответил: “Меня принесли к Пророку ﷺ, а вши падали на мое лицо, тогда Пророк ﷺ сказал: “Я не думал, что твоя болезнь достигла такой степени. У тебя есть овца?” Я ответил: “Нет”. Тогда он сказал: “Постись три дня или накорми шесть бедняков, каждому бедняку половину са‘а (еды), и обрей голову”. Таким образом, этот аят был ниспослан из-за меня, но касается он всех вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4517</td></tr><tr><td>Arabic No</td><td>4517</td></tr><tr><td>Reference</td><td>Book 65 Hadith 42</td></tr></tbody></table></div>
 

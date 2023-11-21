@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: We proceeded with the Messenger of Allah (ﷺ) on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Jami' bin Syaddad] saya telah mendengar [Abdurrahman bin Abu Alqamah] saya telah mendengar [Abdullah bin Mas'ud] dia berkata; Kami datang bersama Rasulullah Shallallahu alaihi wasallam Ketika perang Hudaibiyah. Rasulullah Shallallahu alaihi wasallam bersabda: "Siapa yang akan menjaga kita?" Bilal menjawab; Saya. Mereka pun tidur hingga matahari terbit. Kemudian Nabi Shallallahu alaihi wasallam bangun dan bersabda: "Lakukanlah (shalat sbubuh) sebagaimana biasa kalian lakukan." Dia berkata; Maka kami pun melakukannya. Beliau bersabda: 'Dan lakukanlah demikian bagi siapa saja yang tertidur atau lupa (dari shalat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>447</td></tr><tr><td>Arabic No</td><td>447</td></tr><tr><td>Reference</td><td>Book 2 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джами‘а ибн Шаддада о том, что он слышал, как ‘Абдуррахман ибн ‘Алькъама (рассказывал), что он слышал, как ‘Абдуллах ибн Мас‘уд сказал:«Однажды, когда мы были с посланником Аллаха ﷺ в походе на Худайбиййу, он сказал: “Кто будет нас охранять?” Биляль сказал: “Я”. И они проспали, пока не взошло солнце, а когда Пророк ﷺ проснулся, он сказал: “Делайте то, что вы делаете обычно”».(‘Абдуллах ибн Мас‘уд) сказал: «И мы так и поступили, (а Пророк ﷺ) сказал: “Пусть так же поступает тот, кто проспал или забыл (про молитву)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>447</td></tr><tr><td>Arabic No</td><td>447</td></tr><tr><td>Reference</td><td>Book 2 Hadith 57</td></tr></tbody></table></div>
 

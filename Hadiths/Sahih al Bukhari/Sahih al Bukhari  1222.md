@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When the Adhan for the praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Ja'far] dari [Al A'raj] berkata; Berkata, [Abu Hurairah radliallahu 'anhu]; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika panggilan shalat (adzan) dikumandangkan maka setan lari sambil mengeluarkan kentut hingga ia tidak mendengar suara adzan tersebut. Apabila panggilan adzan telah selesai maka setan kembali. Dan bila iqamat dikumandangkan setan kembali berlari dan jika iqamat telah selesai dia kembali lagi hingga senantiasa dia mengganggu seseorang seraya berkata; ingatlah sesuatu, yang semestinya harus tidak diingat, yang pada akhirnya orang itu tidak menyadari berapa raka'at yang sudah dia laksanakan dalam shalatnya". Berkata, Abu Salamah bin 'Abdurrahman; "Bila seseorang melakukan hal seperti itu, maka hendaklah dia sujud dua kali dalam posisi duduk". Dan [Abu Salamah] mendengar keterangan ini dari [Abu Hurairah radliallahu 'anhu]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1222</td></tr><tr><td>Arabic No</td><td>1222</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда произносится призыв к молитве, шайтан отступает, с шумом выпуская газы, чтобы не слышать этого призыва, а когда призыв завершается, он (снова) возвращается. И он отступает во время икамы, а когда объявление о начале молитвы завершается, он (снова) подступает, и начинает наущать человеку: “Вспомни о том-то и том-то”, о чём тот и не помышлял (до молитвы, и он делает это) для того, чтобы человек оставался (в подобном) положении, и сбился (с толку), не зная, сколько (рак‘атов) молитвы он совершил». Абу Саляма ибн ‘Абдуррахман сказал: «Если кто-то из вас сделает это (забудет количество рак‘атов), то пусть он совершит два земных поклона во время сидения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1222</td></tr><tr><td>Arabic No</td><td>1222</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
 

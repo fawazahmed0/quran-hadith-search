@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Irbad ibn Sariyah: AbdurRahman ibn Amr as-Sulami and Hujr ibn Hujr said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Tsaur bin Yazid] ia berkata; telah menceritakan kepadaku [Khalid bin Ma'dan] ia berkata; telah menceritakan kepadaku ['Abdurrahman bin Amru As Sulami] dan [Hujr bin Hujr] keduanya berkata, "Kami mendatangi [Irbadh bin Sariyah], dan ia adalah termasuk seseorang yang turun kepadanya ayat: '(dan tiada (pula dosa) atas orang-orang yang apabila mereka datang kepadamu, suapaya kami memberi mereka kendaraan, lalu kamu berkata, "Aku tidak memperoleh kendaraan orang yang membawamu) ' -Qs. At Taubah: 92- kami mengucapkan salam kepadanya dan berkata, "Kami datang kepadamu untuk ziarah, duduk-duduk mendengar sesuatu yang berharga darimu." Irbadh berkata, "Suatu ketika Rasulullah shallallahu 'alaihi wasallam shalat bersama kami, beliau lantas menghadap ke arah kami dan memberikan sebuah nasihat yang sangat menyentuh yang membuat mata menangis dan hati bergetar. Lalu seseorang berkata, "Wahai Rasulullah, seakan-akan ini adalah nasihat untuk perpisahan! Lalu apa yang engkau washiatkan kepada kami?" Beliau mengatakan: "Aku wasiatkan kepada kalian untuk bertakwa kepada Allah, senantiasa taat dan mendengar meskipun yang memerintah adalah seorang budak habsyi yang hitam. Sesungguhnya orang-orang yang hidup setelahku akan melihat perselisihan yang banyak. Maka, hendaklah kalian berpegang dengan sunahku, sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham. Jauhilah oleh kalian perkara-perkara baru (dalam urusan agama), sebab setiap perkara yang baru adalah bid'ah dan setaip bid'ah adalah sesat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн ‘Амр ас-Сулями и Худжр ибн Худжр рассказывают: «Мы пришли к аль-‘Ирбаду ибн Сарии, а он был один из тех, относительно кого было ниспослано: “Также нет греха на тех, которым, когда они пришли к тебе, чтобы ты обеспечил их верховыми животными, ты сказал: “Я не могу найти животных для вас””. Мы поприветствовали его и сказали: “Мы пришли навестить тебя и проведать, а также перенять от тебя полезное знание”. Аль-‘Ирбад (ибн Сария) сказал: “Однажды Посланник Аллаха ﷺ совершил с нами молитву, а потом увещевал нас и наставлял так, что слёзы текли из наших глаз, а сердца наши наполнялись страхом, и кто-то сказал: “О Посланник Аллаха! Это наставления человека, который прощается... Что же ты наказываешь нам?” Он сказал: “Я наказываю вам бояться Аллаха и подчиняться правителю, даже если это будет раб-эфиоп. Тот из вас, кто переживёт меня, увидит много разногласий, и потому вы должны придерживаться моей Сунны и сунны праведных халифов, ведомых правильным путём. Держитесь за неё как можно крепче. И остерегайтесь новоизобретённого, ибо каждое новшество (в религии) нововведение, а каждое нововведение заблуждение””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: Allah's Messenger (ﷺ) was asked about Al-Bit a liquor prepare
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Aisyah] radliallahu 'anha berkata; Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang bit'i yaitu (minuman keras) yang terbuat dari perasan madu dan sebagai minuman yang banyak di konsumsi oleh penduduk Yaman, maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Setiap minuman yang memabukkan hukumnya haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5586</td></tr><tr><td>Arabic No</td><td>5586</td></tr><tr><td>Reference</td><td>Book 74 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Как-то раз Посланника Аллаха ﷺ спросили о (дозволенности употребления) напитка, настаиваемого на мёде /бит‘/, который пили жители Йемена, и Посланник Аллаха ﷺ сказал: “Любой опьяняющий напиток запретен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5586</td></tr><tr><td>Arabic No</td><td>5586</td></tr><tr><td>Reference</td><td>Book 74 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Aswad:An army unit was being recruited from the people of Medina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yazid] telah menceritakan kepada kami [Haiwa] dan lainnya mengatakan, telah menceritakan kepada kami [Abul Aswad] dan [Al Laits] mengatakan dari [Abul aswad] mengatakan 'Ada sekelompok tentara dibentuk untuk menyerang penduduk Madinah (muslimin) dan namaku diikutsertakan dalam daftar. Selanjutnya aku bertemu ['Ikrimah] dan kuutarakan nasibku, lantas dia melarangku secara serius kemudian mengatakan, [Ibnu Abbas] mengabariku bahwa beberapa orang muslimin ikut serta pasukan musyrik sekedar untuk menambah jumlah pasukan demi melawan Rasulullah Shallallahu'alaihiwasallam, lantas sebagain mereka terkena anak panah sehingga meninggal, dan sebagian mereka terkena luka senjata sehingga tewas, maka Allah menurunkan ayat sebagai jawaban nasib mereka; Sesungguhnya orang-orang yang diwafatkan Allah dalam keadaan menganiaya diri mereka sendiri, " dan seterusnya sampai akhir ayat QS.Annisa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7085</td></tr><tr><td>Arabic No</td><td>7085</td></tr><tr><td>Reference</td><td>Book 92 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Мухаммад ибн ‘Абдуррахман) Абу аль-Асвад рассказывал: «Как-то раз среди жителей Медины набирали (военный) отряд и я записался в него. После этого я встретился с ‘Икримой и сообщил ему об этом, и он строжайшим образом запретил мне (участвовать в этом походе)». Затем он сказал: «Ибн ‘Аббас рассказывал мне, что при жизни Посланника Аллаха ﷺ некоторые люди из числа мусульман находились среди многобожников, увеличивая собой их количество. Иногда случалось так, что выпущенная стрела поражала и убивала кого-нибудь из (этих мусульман) или же кого-нибудь поражали (мечом), после чего он умирал. И тогда Всевышний Аллах ниспослал (аят, в котором говорится): “А (когда) ангелы будут забирать души тех, кто был несправедлив по отношению к самим себе…”» (сура «ан-Ниса», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7085</td></tr><tr><td>Arabic No</td><td>7085</td></tr><tr><td>Reference</td><td>Book 92 Hadith 36</td></tr></tbody></table></div>
 

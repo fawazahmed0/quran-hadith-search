@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:One night I missed Allah's Messenger (ﷺ) from the bed, and whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepadaku [Ubaidullah bin Umar] dari [Muhammad bin Yahya bin Habban] dari [al-A'raj] dari [Abu Hurairah ra] dari [Aisyah ra] dia berkata, "Aku kehilangan Rasulullah Shallallahu'alaihiwasallam pada suatu malam dari kasur peraduanku, lalu aku mencarinya, lalu tanganku mendapatkan bagian luar kedua telapak kakinya dalam keadaan beliau berada di masjid. Kedua telapak kakinya tegak lurus, dan beliau berdoa, 'Ya Allah, aku berlindung dengan ridhaMu dari bahaya murkaMu, dan berlindung dengan ampunanMu dari bahaya hukumanMu, dan aku berlindung kepadaMu dar adzabMu, aku tidak bisa menghitung pujian atasMu. Engkau adalah sebagaimana Engkau memuji atas diriMu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090</td></tr><tr><td>Arabic No</td><td>486</td></tr><tr><td>Reference</td><td>Book 4 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Однажды ночью я проснулась и не обнаружила рядом Посланника Аллаха ﷺ. Я стала искать его и моя рука коснулась поднятых вертикально ступней (Пророка ﷺ,) который находился в мечети и произносил (такие слова): “О Аллах, я прибегаю к защите Твоего благоволения от Твоего гнева, и к прощению Твоему от наказания Твоего и прибегаю к Твоей защите от Тебя! Не перечислить мне (всех) похвал Тебе (, которых) Ты (достоин,) так, как Сам Ты (сделал это), воздав их Себе!” /Аллахумма, а‘узу би рида-кя мин сахаты-кя, ва би-му‘афати-кя мин ‘укубати-кя, ва а‘узу би-кя мин-кя! Ля ухсы санаъан ‘аляй-кя Анта кя-ма аснайта ‘аля нафси-кя!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090</td></tr><tr><td>Arabic No</td><td>486</td></tr><tr><td>Reference</td><td>Book 4 Hadith 252</td></tr></tbody></table></div>
 

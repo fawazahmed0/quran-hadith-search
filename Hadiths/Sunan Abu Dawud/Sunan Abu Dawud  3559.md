@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Thabit: The Prophet (ﷺ) said: If anyone gives something in l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] ia berkata; aku membacakan riwayat di hadapan [Ma'qil] dari ['Amru bin Dinar] dari [Thawus] dari [Hujr] dari [Zaid bin Tsabit] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memberikan sesuatu dengan cara 'umra maka sesuatu tersebut untuk orang yang diberinya selama hidup dan matinya. Dan janganlah engkau memberikan sesuatu dengan cara ruqba, Barangsiapa memberikan sesuatu secara ruqba maka ia punya hak untuk mewariskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>3559</td></tr><tr><td>Reference</td><td>Book 24 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Зейда ибн Сабита, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кто-то подарил подарок на срок жизни, то этот подарок принадлежит тому, кому его подарили, при жизни и после смерти. И не делайте подарков на срок жизни дарителя или того, кому дарят, а если кто-то подарил такой подарок, то он становится частью наследства того, кому он подарен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3559</td></tr><tr><td>Arabic No</td><td>3559</td></tr><tr><td>Reference</td><td>Book 24 Hadith 144</td></tr></tbody></table></div>
 

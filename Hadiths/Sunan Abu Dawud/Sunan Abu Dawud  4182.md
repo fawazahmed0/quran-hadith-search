@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: A man came to the Messenger of Allah (ﷺ) and he had t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami [Salm Al 'Alawi] dari [Anas bin Malik] berkata, "Seorang laki-laki masuk menemui Rasulullah shallallahu 'alaihi wasallam, sementara pada dirinya terdapat sisa-sisa warna kuning (Za'faran). Dan jarang sekali Nabi shallallahu 'alaihi wasallam menemui seseorang dengan wajah yang kurang senang karena sesuatu, maka ketika keluar beliau bersabda: "Sekiranya kalian suruh orang ini untuk membersihkan dirinya dari sisa-sisa warna kuning
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4182</td></tr><tr><td>Arabic No</td><td>4182</td></tr><tr><td>Reference</td><td>Book 35 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что однажды к Посланнику Аллаха ﷺ зашёл человек с жёлтыми (шафрановыми) следами на теле. А Пророк ﷺ очень редко говорил людям в лицо нечто неприятное, и когда этот человек вышел, (Пророк ﷺ) сказал: «Если бы вы велели ему смыть это!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4182</td></tr><tr><td>Arabic No</td><td>4182</td></tr><tr><td>Reference</td><td>Book 35 Hadith 24</td></tr></tbody></table></div>
 

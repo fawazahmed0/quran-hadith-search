@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) was asked about things which he did not like
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] berkata, Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] berkata; Nabi shallallahu 'alaihi wasallam pernah ditanya tentang sesuatu yang Beliau tidak suka, ketika terus ditanya, Beliau marah lalu berkata kepada orang-orang: "Bertanyalah kepadaku sesuka kalian". Maka seseorang bertanya: "Siapakah bapakku?" Beliau shallallahu 'alaihi wasallam menjawab: "Bapakmu adalah Hudzafah". Yang lain bertanya: "Siapakah bapakku wahai Rasulullah shallallahu 'alaihi wasallam?: "Bapakmu Salim, sahaya Syaibah" Ketika Umar melihat apa yang ada pada wajah Beliau, dia berkata: "Wahai Rasulullah, kami bertaubat kepada Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды люди) стали задавать Пророку ﷺ такие вопросы, на которые он не хотел отвечать, однако, когда (люди, задававшие их,) принялись настаивать, он (сначала) разгневался, а потом сказал им: “Спрашивайте меня, о чём хотите”. Один человек спросил: “Кто мой отец?” (Пророк ﷺ) ответил: “Твой отец − Хузафа”. Потом встал другой человек и спросил: “Кто мой отец, о Посланник Аллаха?” Он ответил: “Твой отец − Салим, вольноотпущенник Шайбы”. А когда ‘Умар увидел по его лицу(, что Пророк ﷺ гневается), он сказал: “О Посланник Аллаха! Поистине, мы приносим своё покаяние Всемогущему и Великому Аллаху!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
 

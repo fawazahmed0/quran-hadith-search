@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Allah's Messenger (ﷺ) used to pray (optional, non-obligatory pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hisyam bin Abu 'abdullah] berkata, telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Muhammad bin 'Abdurrahman] dari [Jabir bin 'Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam shalat diatas tunggangannya menghadap kemana arah tunggangannya menghadap. Jika Beliau hendak melaksanakan shalat yang fardlu, maka beliau turun lalu shalat menghadap kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 8 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Обычно, когда Посланник Аллаха ﷺ сидевший верхом на своей верблюдице, (приступал к молитве,) он продолжал молиться, куда бы она ни поворачивалась, но если он хотел совершить обязательную молитву, то спешивался и поворачивался лицом к кибле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 8 Hadith 51</td></tr></tbody></table></div>
 

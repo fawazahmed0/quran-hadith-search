@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. 'Umar: I heard the Messenger of Allah (ﷺ) say: If any o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], telah menceritakan kepada kami [Abu Usamah], telah menceritakan kepada kami [Umar bin Hamzah] telah mengabarkan kepada kami [Salim bin Abdullah] dari [ayahnya] ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa diantara kalian yang mampu seperti takaran beras, maka hendaknya ia menjadi seperti dia!" Mereka bertanya; siapakah pemilik takaran beras itu Rasulullah? Kemudian beliau menyebutkan kisah gua ketika meruntuhi mereka, kemudian setiap mereka berkata; ingatlah amalan kalian yang terbaik! Beliau mengatakan: "Dan orang yang ketiga berkata; ya Allah, engkau mengetahui bahwa aku telah mempekerjakan orang dengan upah satu farq beras. Kemudian tatkala sore hari aku memberikan haknya kepadanya. Namun ia menolak untuk mengambil, dan ia pergi. Kemudian aku mengembangkan untuknya aku dapat mengumpulkan sapi dan para penggembalanya. Lalu ia mendatangiku dan berkata; berikan hakku kepadaku! Lalu aku katakan; pergilah kepada sapi-sapi itu dan para penggembalanya, dan ambillah! Lalu ia pergi dan menggiring sapi-sapi tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3387</td></tr><tr><td>Arabic No</td><td>3387</td></tr><tr><td>Reference</td><td>Book 23 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим ибн ‘Абдуллах передаёт от своего отца: «Я слышал, как Посланник Аллаха ﷺ сказал: “Кто из вас сможет уподобиться владельцу фарака риса, пусть так и поступит”. Люди спросили: “А кто такой владелец фарака риса, о Посланник Аллаха?” Тогда он пересказал историю троих, оказавшихся замурованными в пещере из-за большого камня, завалившего вход. Один из них сказал: “Упомяните в своих мольбах лучшие из совершённых вами дел”. И третий из них сказал: “О Аллах, ты знаешь, что я нанял работника за фарак риса. Вечером я предложил ему его плату, однако он отказался и ушёл так. Я же приумножил эту плату для него, и в конце концов она превратилась в стада коров с пастухами. И вот однажды он встретил меня и сказал: ‹Отдай мне то, что мне причитается›. Тогда я сказал ему: ‹Иди к этим коровам и их пастухам и забирай всё это›. И он забрал всё и ушёл”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3387</td></tr><tr><td>Arabic No</td><td>3387</td></tr><tr><td>Reference</td><td>Book 23 Hadith 62</td></tr></tbody></table></div>
 

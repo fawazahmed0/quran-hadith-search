@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:We said our prayer with the Messenger of Allah (ﷺ) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [al-Qasim bin Zakariya'] telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Furat, yaitu al-Qazzaz] dari [Ubaidullah] dari [Jabir bin Samurah] dia berkata, "Saya shalat bersama Rasulullah Shallallahu'alaihiwasallam. Dahulu kami apabila mengucapkan dengan tangan kami, 'Assalamu'alaikum' Lalu Rasulullah shallallahu 'alaihi wasallam melihat kepada kita seraya bersabda, 'Apa yang membuat kalian menunjuk dengan tangan kalian seakan-akan ia adalah ekor kuda yang tidak bisa berhenti. Apabila kalian mengucapkan salam, maka hendaklah kalian menoleh kepada temannya, dan bukan mengisyaratkan dengan tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>971</td></tr><tr><td>Arabic No</td><td>431.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн Самура сказал: «Совершая молитвы под руководством Посланника Аллаха ﷺ, мы произносили слова таслима и указывали рукой (направо и налево), говоря: “Мир вам /Ас-саляму ‘алейкум/, мир вам”. Увидев это, Посланник Аллаха ﷺ сказал: “Зачем вы делаете эти знаки руками подобно хвостам, (что задирают) норовистые лошади? Когда кто-то из вас приветствует своего товарища, пусть поворачивается к нему, а не делает знаки рукой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>971</td></tr><tr><td>Arabic No</td><td>431.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 133</td></tr></tbody></table></div>
 

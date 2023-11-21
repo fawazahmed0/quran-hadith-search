@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman:During one of the Ghazawat in which Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Abu Bakr Al Muqaddamiy] telah bercerita kepada kami [Mu'tamir] dari [bapaknya] dari [Abu 'Utsman] berkata; "Tidak ada yang tetap bersama Nabi shallallahu 'alaihi wasallam pada sebagian hari-hari dimana Rasulullah shallallahu 'alaihi wasallam berperang didalamya (perang Uhud) kecuali [Thalhah] dan [Sa'ad] ". Cerita ini diperoleh dari keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3722</td></tr><tr><td>Arabic No</td><td>3722</td></tr><tr><td>Reference</td><td>Book 62 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тальха бин ‘Убайдуллах, да будет доволен им Аллах, сказал: «В один из тех дней, когда Посланник Аллаха ﷺ сражался, не осталось с Пророком ﷺ никого, кроме меня и Са‘да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3722</td></tr><tr><td>Arabic No</td><td>3722</td></tr><tr><td>Reference</td><td>Book 62 Hadith 70</td></tr></tbody></table></div>
 

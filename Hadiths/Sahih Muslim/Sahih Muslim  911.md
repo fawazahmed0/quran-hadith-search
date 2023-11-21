@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Humayd As-Sâ'idî (que Dieu l'agrée) raconte que les compagnons dirent : 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Rauh] dan [Abdullah bin Nafi'] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan lafazh tersebut miliknya, dia berkata, telah mengabarkan kepada kami [Rauh] dari [Malik bin Anas] dari [Abdullah bin Abi Bakar] dari [bapaknya] dari [Amru bin Sulaim] telah mengabarkan kepadaku [Abu Humaid as-Sa'idi] bahwasanya mereka mengatakan, "Wahai Rasulullah Shallallahu'alaihiwasallam, bagaimana kami bershalawat atasmu?" Beliau bersabda, "AALLOOHUMMA SHOLLI 'ALAA MUHAMMAD WA'ALAA AZWAAJIHI WADZURRIYATIHI KAMAA SHOLLAITA 'ALAA AALI IBROOHIIMA, WABAARIK 'ALAA MUHAMMAD WA'ALAA AZWAAJIHI WADZURRIYATIHI KAMAA BAAROKTA 'ALAA AALI IBROOHIIMA, INNAKA HAMIIDUN MAJIID" Katakanlah, ya Allah, berikanlah shalawat atas Muhammad, istri-istrinya, dan keturunannya sebagaimana Engkau memberikan shalawat atas keluarga Ibrahim. Berilah berkah atas Muhammad, istri dan keturunannya, sebagaimana Engkau memberikan keberkahan kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji dan Maha Mulia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>407</td></tr><tr><td>Reference</td><td>Book 4 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хумайд ас-Са‘иди сказал: «(Однажды люди) спросили: “О Посланник Аллаха, как нам благословлять тебя?”, (на что Пророк ﷺ) ответил: “Говорите: ‹О Аллах, благослови Мухаммада, его жён и его потомство, как благословил Ты семейство Ибрахима, и пошли благословения Мухаммаду, его жёнам и его потомству, как послал Ты их семейству Ибрахима, поистине, Ты Достойный похвалы, Славный!›”»./Аллахумма, салли ‘аля Мухаммадин, ва ‘аля азваджи-хи ва зуррийати-хи кя-ма салляйта ‘аля али Ибрахима, ва барик ‘аля Мухаммадин, ва ‘аля азваджи-хи ва зуррийати-хи кя-ма баракта ‘аля али Ибрахима, инна-кя Хамидун, Маджидун
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>407</td></tr><tr><td>Reference</td><td>Book 4 Hadith 73</td></tr></tbody></table></div>
 

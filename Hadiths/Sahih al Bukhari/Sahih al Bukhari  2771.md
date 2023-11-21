@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When the Prophet (ﷺ) ordered that the mosque be built, he said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdul Warits] dari [Abu At-Tayyah] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam memerintahkan untuk membangun masjid (Nabawiy) lalu berkata: "Wahai Bani an-Najjar, tentukanlah harganya (juallah) kepadaku kebun-kebun kalian ini". Mereka berkata: "Demi Allah, kami tidak membutuhkan uangnya kecuali kami berikan untuk Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2771</td></tr><tr><td>Arabic No</td><td>2771</td></tr><tr><td>Reference</td><td>Book 55 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Приказав построить мечеть, Пророк ﷺ сказал: “О (предводители) бану ан-наджжар, назначьте мне цену за этот ваш сад”. Они ответили: “Нет, клянёмся Аллахом, мы потребуем плату за неё только от Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2771</td></tr><tr><td>Arabic No</td><td>2771</td></tr><tr><td>Reference</td><td>Book 55 Hadith 34</td></tr></tbody></table></div>
 

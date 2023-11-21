@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While we were sitting with the Prophet (ﷺ) Surat Al-Jumu'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul Aziz bin Abdullah] ia berkata, Telah menceritakan kepadaku [Sulaiman bin Bilal] dari [Tsaur] dari [Abul Ghaits] dari [Abu Hurairah radliallahu 'anhu] ia berkata; Suatu hari, kami duduk-duduk di sisi Nabi shallallahu 'alaihi wasallam, lalu diturunkanlah pada beliau surat Al Jumu'ah dan "WA 'AAKHARIINA MINHUM LAMMAA YALHAQUU BIHIM." Maka aku pun bertanya, "Siapa mereka itu wahai Rasulullah?" Namun, beliau belum juga menjawab hingga tiga orang bertanya. Di antara kami ada Salman Al Farisi. Kemudian Rasulullah shallallahu 'alaihi wasallam meletakkan tangannya pada Salman dan bersabda: "Sekiranya keimanan itu ada di gugusan bintang, niscaya keimanan itu tetap akan diperoleh oleh sekelompok atau seseorang dari mereka itu (Orang-orang Persi)." Telah menceritakan kepada kami [Abdullah bin Abdul Wahhab] Telah menceritakan kepada kami [Abdul Aziz] Telah mengabarkan kepadaku [Tsaur] dari [Abul Ghaits] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Niscaya (keimanan) itu akan diperoleh oleh sekelompok orang dari mereka (Orang Persi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4897</td></tr><tr><td>Arabic No</td><td>4897</td></tr><tr><td>Reference</td><td>Book 65 Hadith 417</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) мы сидели у Пророка ﷺ (которому в своё время) была ниспослана сура “аль-Джум‘а”. (Он стал читать нам её, когда же дошёл до аята, в котором сказано): “…и других из их числа, которые ещё не присоединились к ним”, я спросил: “А кто они, о Посланник Аллаха?” — однако он не ответил мне, пока я не спросил об этом трижды. (В это время) среди нас находился Сальман аль-Фариси, и Посланник Аллаха ﷺ положил руку (на ногу) Сальмана, а потом сказал: “Если бы вера находилась (даже близ созвездия) Плеяды, то и тогда люди (или: человек) из числа этих обрели бы её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4897</td></tr><tr><td>Arabic No</td><td>4897</td></tr><tr><td>Reference</td><td>Book 65 Hadith 417</td></tr></tbody></table></div>
 

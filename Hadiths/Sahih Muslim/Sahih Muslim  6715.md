@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:Allah's Messenger (ﷺ) and I were coming out of the mosq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim]. [Ishaq] berkata; Telah mengabarkan kepada kami. Dan berkata ['Utsman]; Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Salim bin Abu Al Ja'ad]; Telah menceritakan kepada kami [Anas bin Malik] dia berkata; Ketika aku dan Rasulullah sedang keluar dari Masjid, tiba-tiba kami bertemu dengan seorang laki-laki dari balik pintu masjid seraya bertanya; ya Rasulullah, kapankah terjadi hari kiamat? Rasulullah shallallahu 'alaihi wasallam balik bertanya: "Apa yang telah kamu siapkan untuknya? Maka seakan-akan orang tersebut merasa malu dan tunduk. Lalu dia berkata; Saya tidak mempunyai persiapan yang banyak dari shalat, puasa, atau sedekah kecuali hanya aku mencintai Allah dan RasulNya". Rasulullah Shallallahu'alaihi wasallam bersabda: "Kamu bersama dengan yang kau cintai". Telah menceritakan kepadaku [Muhammad bin Yahya bin 'Abdul 'Aziz Al Yasykuri]; Telah menceritakan kepada kami ['Abdullah bin 'Utsman bin Jabalah]; Telah mengabarkan kepadaku [Bapakku] dari [Syu'bah] dari ['Amru bin Murrah] dari [Salim bin Abu Al Ja'ad] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Telah menceritakan kepada kami [Qutaibah]; Telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] Aku mendengar [Anas]. Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Ghassan Al Misma'i] dan [Muhammad bin Al Mutsanna] keduanya berkata; Telah menceritakan kepada kami [Mu'adz] yaitu Ibnu Hisyam; Telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam mengenai Hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6715</td></tr><tr><td>Arabic No</td><td>2639.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6715</td></tr><tr><td>Arabic No</td><td>2639.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 210</td></tr></tbody></table></div>
 

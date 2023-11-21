@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah:Ibn 'Umar said, "Allah's Messenger (ﷺ) used to pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Salim bin 'Abdullah] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat sunnah diatas punggung hewan tunggangannya ke arah manapun ia menghadap dengan cara memberi isyarat dengan kepala Beliau". Dan Ibnu 'Umar radliallahu 'anhuma juga melakukan hal yang demikian itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1105</td></tr><tr><td>Arabic No</td><td>1105</td></tr><tr><td>Reference</td><td>Book 18 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал, что Посланник Аллаха ﷺ совершал молитвы, сидя верхом на своей верблюдице, направляясь в ту сторону, куда она обращалась, наклоняя при этом свою голову [вместо поясных и земных поклонов]». И Ибн ‘Умар делал так же
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1105</td></tr><tr><td>Arabic No</td><td>1105</td></tr><tr><td>Reference</td><td>Book 18 Hadith 25</td></tr></tbody></table></div>
 

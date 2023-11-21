@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarir b. 'Abdullah reported Allah's Apostle (ﷺ) as saying:He who is deprived o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami ['Abdul Wahid bin Ziyad] dari [Muhammad bin Abu Isma'il] dari ['Abdur Rahman bin Hilal] dia berkata; Aku mendengar [Jarir bin 'Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barang siapa dijauhkan dari sifat lemah lembut (kasih sayang), berarti ia dijauhkan dari kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6600</td></tr><tr><td>Arabic No</td><td>2592.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6600</td></tr><tr><td>Arabic No</td><td>2592.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 98</td></tr></tbody></table></div>
 

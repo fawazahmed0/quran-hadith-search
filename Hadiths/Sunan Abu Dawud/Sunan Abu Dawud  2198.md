@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said “The opinion of Ibn ‘Abbas has been mentioned in the followin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan perkataan Ibnu Abbas ada dalam riwayat yang diceritakan [Ahmad bin Shalih] dan [Muhammad bin Yahya] kepada kami, dan ini adalah hadits Ahmad, mereka berkata; telah menceritakan kepada kami [Abdurrazzaq] dari [Ma'mar] dari [Az Zuhri], dari [Abu Salamah bin Abdurrahman bin 'Auf] dan [Muhammad bin Abadurrahman bin Tsauban] dari [Muhammad bin Iyas] bahwa [Ibnu Abas] [Abu Hurairah] dan [Abdullah bin Amr bin 'Ash], mereka ditanya mengenai seorang gadis yang dicerai suaminya tiga kali, maka seluruh mereka mengatakan; tidak halal baginya hingga wanita tersebut menikah dengan suami yang lain. Abu Daud berkata; [Malik] telah meriwayatkan dari [Yahya bin Sa'id] dari [Bukair bin Al Asyajj] dari [Mu'awiyah bin Abu 'Ayyasy] bahwa ia menyaksikan kisah ini ketika Muhammad bin Iyas bin Al Bukair datang kepada Ibnu Az Zubair dan 'Ashim bin Umar. Kemudian ia bertanya kepada mereka berdua mengenai hal tersebut. Lalu mereka berkata; pergilah kepada [Ibnu Abbas], dan [Abu Hurairah]! Sesungguhnya aku telah meninggalkan mereka berdua bersama Aisyah radliallahu 'anha. Kemudian ia menyebutkan hadits ini. Abu Daud berkata; dan pendapat Ibnu Abbas bahwa talak tiga kali berarti seorang wanita tercerai sama sekali baik sudah digauli atau belum. Wanita tersebut tidak halal baginya hingga menikah dengan suami yang lainnya, ini seperti hadits Ash Sharf, padanya ia mengatakan; kemudian Ibnu Abbas mencabut pendapatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2198</td></tr><tr><td>Arabic No</td><td>2198</td></tr><tr><td>Reference</td><td>Book 13 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мухаммада ибн Ияса, что Ибн ‘Аббаса, Абу Хурайру и ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса спросили о девственнице, которой муж дал развод трижды. И все они сказали, что ему не дозволено жениться на ней, пока она не побывает замужем за другим.Му‘авия ибн Абу ‘Айяш передаёт, что он был свидетелем этой истории, когда Мухаммад ибн Ияс ибн аль-Букайр пришёл к Ибн аз-Зубайру и ‘Асыму ибн ‘Умару и спросил их об этом, и они сказали: «Иди к Ибн ‘Аббасу и Абу Хурайре, ибо поистине, я оставил их у ‘Аиши, да будет доволен ею Аллах…» И он привёл это сообщение.Абу Дауд также сказал, что позже Ибн ‘Аббас изменил своё мнение в этом вопросе и перестал утверждать, что, если человек три раза произнёс формулу развода, его жена, вне зависимости от того, вступал он с ней в половые отношения или не вступал, считается отделённой от него и он не может жениться на ней до тех пор, пока она не выйдет за другого и не разведётся с ним. Это подобно истории об обмене, относительно которого он тоже изменил своё мнение
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2198</td></tr><tr><td>Arabic No</td><td>2198</td></tr><tr><td>Reference</td><td>Book 13 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:The Prophet (ﷺ) mentioned the (Hell) Fire and sought r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku ['Amru] dari [Khaitsamah] dari ['Adi bin Hatim] dia berkata; "Nabi shallallahu 'alaihi wasallam menyebutkan tentang neraka, lalu beliau meminta berlindungan darinya sambil mengusap wajahnya, kemudian beliau menyebutkan tentang neraka lagi lalu meminta berlindungan darinya sambil mengusap wajahnya." -Syu'bah berkata; saya tidak ragu beliau melakukannya hingga dua kali- kemudian beliau bersabda: "Takutlah kalian kepada neraka walau dengan secuil kurma, jika tidak mendapatkan, hendaknya dengan perkataan yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6023</td></tr><tr><td>Arabic No</td><td>6023</td></tr><tr><td>Reference</td><td>Book 78 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим сказал: «(Однажды) Пророк ﷺ упомянул (Адский) Огонь, после чего обратился к Аллаху за защитой от него и отвернулся, затем он снова упомянул (Адский) Огонь, после чего снова обратился к Аллаху за защитой от него и отвернулся. А затем он сказал: “Защитите себя от Огня хотя бы с помощью половинки финика, а если не найдёт и этого, то с помощью доброго слова!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6023</td></tr><tr><td>Arabic No</td><td>6023</td></tr><tr><td>Reference</td><td>Book 78 Hadith 54</td></tr></tbody></table></div>
 

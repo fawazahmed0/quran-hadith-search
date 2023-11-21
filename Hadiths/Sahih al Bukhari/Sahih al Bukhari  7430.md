@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "If somebody gives in charit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] radliyallahu'anhu, Rasulullah Shallallahu'alaihiwasallam bersabda: "Di tengah-tengah kalian ada malaikat yang silih berganti bertugas mengiringi kalian diwaktu malam dan siang, mereka berkumpul ketika shalat 'ashr dan shalat subuh. Malaikat yang mengawasi amal kalian di malam hari naik ke langit lantas Allah bertanya mereka -dan Allah lebih tahu keadaan kalian- bagaimana kalian tinggalkan hamba-hamba-Ku? Para malaikat menjawab, 'Kami tinggalkan mereka sedang mereka tengah mendirikan shalat, dan kami datangi mereka sedang mereka mendirikan shalat'." Sedang Khalid bin Makhlad berkata, telah menceritakan kepada kami Sulaiman telah menceritakan kepadaku Abdullah bin Dinar dari Abu Shalih dari Abu Hurairah berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersedekah dengan separuh biji kurma dari penghasilan yang baik, dan tidak ada yang naik kepada Allah kecuali amal yang baik, maka Allah menerimanya dengan tangan kanan-Nya, kemudian mengembangkannya untuk pelakunya sebagaimana salah seorang diantara kalian merawat kuda piaraannya hingga sebesar gunung." Dan hadis ini diriwayatkan oleh Warqa' dari 'Abdullah bin Dinar dari Sa'id bin Yasar dari Abu Hurairah dari Nabi shallallahu 'alaihi wasallam dengan redaksi, 'Dan tidak ada yang naik kepada Allah kecuali kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7430</td></tr><tr><td>Arabic No</td><td>7430</td></tr><tr><td>Reference</td><td>Book 97 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Если кто-либо подаст милостыню размером с финик из имущества, приобретенного благим путем, а к Аллаху возносится только благое, то поистине, Аллах примет её Своей правой Рукой, после чего станет растить эту милостыню для подавшего её подобно тому, как любой из вас растит своего жеребёнка, пока не станет она величиной с гору».\nТакже этот хадис передал Варка от Абдуллах Ибн Динара от Са‘ид Ибн Ясара от Абу Хурайры от Пророка ﷺ который сказал: «А к Аллаху возносится только благое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7430</td></tr><tr><td>Arabic No</td><td>7430</td></tr><tr><td>Reference</td><td>Book 97 Hadith 57</td></tr></tbody></table></div>
 

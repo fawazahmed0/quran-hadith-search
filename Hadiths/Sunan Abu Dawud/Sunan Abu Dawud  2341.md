@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ikrimah: Once the people doubted the appearance of the moon of Ramadan,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Simak bin Harb] dari [Ikrimah] bahwa mereka pada suatu kali merasa ragu mengenai hilal Ramadhan, kemudian mereka berkeinginan untuk tidak melakukan shalat malam dan tidak berpuasa. Lalu terdapat seorang badui datang dari Al Harrah dan bersaksi bahwa ia telah melihat Hilal, kemudian ia dihadapkan kepada Nabi shallallahu 'alaihi wasallam. Beliau berkata: "Apakah engkau bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan aku adalah Rasulullah?" Orang tersebut berkata; ya. Dan ia bersaksi bahwa dia telah melihat Hilal, lalu beliau memerintahkan Bilal agar mengumumkan diantara manusia agar mereka melakukan shalat malam dan berpuasa. Abu Daud berkata; hadits tersebut diriwayatkan oleh sekelompok orang dari Simak, dari Ikrimah secara mursal, dan tidak ada seorangpun yang menyebutkan "shalat malam" kecuali Hammad bin Salamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 14 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Икримы, что однажды у них возникли сомнения относительно молодого месяца рамадана и они хотели уже не совершать молитву-таравих и не поститься. И пришёл один бедуин с лавовых полей и засвидетельствовал, что видел народившийся месяц. Его отвели к Пророку ﷺ и тот спросил его: «Свидетельствуешь ли ты, что нет бога [заслуживающего поклонение], кроме Аллаха, и что я Посланник Аллаха?» Он ответил: «Да», и засвидетельствовал, что видел народившийся месяц. Тогда (Посланник Аллаха ﷺ) велел объявить людям, чтобы они совершали молитву-таравих и постились
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 14 Hadith 29</td></tr></tbody></table></div>
 

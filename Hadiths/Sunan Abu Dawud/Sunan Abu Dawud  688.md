@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Juhaifah said:The Prophet (ﷺ) led them in prayer at al-Batha', with a staf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari ['Aun bin Abi Juhaifah] dari [Ayahnya] bahwasanya Nabi shallallahu 'alaihi wasallam pernah mengerjakan shalat bersama mereka di Bathha', sementara di depan beliau ada tongkat, beliau mengerjakan shalat Zhuhur dua rakaat dan Ashar dua rakaat, dan di belakang tongkat itu lewat seorang wanita dan seekor keledai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (495) Sahih Muslim (503)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>688</td></tr><tr><td>Reference</td><td>Book 2 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аун ибн Джухайфа со слов своего отца рассказывал: «Пророк ﷺ совершал с ними в Батхе полуденную и послеполуденную молитвы, каждая из которых состояла из двух рак‘атов и перед ним в землю была воткнута палка с острым наконечником, за которой (во время молитвы) проходили женщины и ослы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (495) Sahih Muslim (503)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>688</td></tr><tr><td>Reference</td><td>Book 2 Hadith 298</td></tr></tbody></table></div>
 

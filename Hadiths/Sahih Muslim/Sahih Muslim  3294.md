@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama b. Zaid b. Haritha (Allah be pleased with him) said to Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Yunus bin Yazid] dari [Ibnu Syihab] bahwa [Ali bin Husain] telah mengabarkan kepadanya bahwa [Amru bin Utsman bin Affan] telah mengabarkan kepadanya, dari [Usamah bin Zaid bin Haritsah] bahwa ia berkata; "Wahai Rasulullah, apakah Anda akan singgah di rumah Anda di Makkah?" Beliau bersabda: "Apakah Aqil meninggalkan rumah untuk kami?" Aqil dan Abu Thalib telah mewarisi harta Abu Thalib, sementara Ja'far dan Ali tidak, karena kedua waktu itu adalah muslim, sedangkan Aqil dan Thalib masih kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3294</td></tr><tr><td>Arabic No</td><td>1351.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 498</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3294</td></tr><tr><td>Arabic No</td><td>1351.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 498</td></tr></tbody></table></div>
 

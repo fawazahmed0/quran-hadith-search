@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Burdah:On the authority of his father: The Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abbad bin Musa] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Israil] dari [Abu Ishaq] dari [Abu Burdah] dari [ayahnya] ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami agar pergi ke Negerinya Najasyi. kemudian ia menyebutkan haditsnya, An Najisyi berkata; aku bersaksi bahwa ia adalah Rasulullah shallallahu 'alaihi wasallam dan ia adalah orang yang dikabarkan oleh Isa bin Maryam, seandainya aku tidak mengurusi kerajaan niscaya aku akan mendatanginya hingga aku membawakan kedua sandalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3205</td></tr><tr><td>Arabic No</td><td>3205</td></tr><tr><td>Reference</td><td>Book 21 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда передаёт от своего отца, да будет доволен ими Аллах: «Посланник Аллаха ﷺ велел нам отправиться в земли негуса…» И он рассказал эту историю, в которой негус сказал: «Я свидетельствую, что он Посланник Аллаха и тот, о чьём пришествии возвещал ‘Иса ибн Марьям, и если бы не моё царство, я пришёл бы к нему, чтобы понести его сандалии!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3205</td></tr><tr><td>Arabic No</td><td>3205</td></tr><tr><td>Reference</td><td>Book 21 Hadith 117</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaid b. Umair reported that Abu Musa brought permission from Umar (to enter the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan] dari [Ibnu Juraij]; Telah menceritakan kepada kami ['Atha] dari ['Ubaid bin 'Umair] bahwa [Abu Musa] pernah meminta izin kepada Umar bin Khaththab sebanyak tiga kali. Namun sepertinya dia mendapati Umar lagi sibuk hingga akhirnya dia pulang kembali. Kemudian Umar berkata kepada sahabat yang lain; apakah kamu mendengar suara Abdullah bin Qais? Izinkanlah ia untuk masuk. Maka kemudian Abu Musa dipanggil lagi. Umar berkata kepadanya; kenapa kamu melakukan hal itu (pulang kembali)? Abu Musa menjawab; kami melakukan itu sesuai dengan perintah Rasulullah shallallahu 'alaihi wasallam. Umar berkata; Sungguh kamu harus membawakan saksi atas Hadits ini, jika tidak, saya akan menghukummu! Maka Abu Musa pergi ke salah satu majlis orang-orang Anshar dan menceritakan kejadian itu kepada mereka. Lalu mereka berkata kepada Abu Musa; Tidak akan bersaksi mengenai Hadits ini kecuali orang yang paling muda di antara kita. Kemudian berangkatlah [Abu Sa'id] kepada Umar dan mengatakan; Kami memang diperintahkan Rasulullah seperti itu. Umar berkata; Ternyata saya tidak mengetahui hal ini dari Rasulullah shallallahu 'alaihi wasallam.' Berdagang di pasar-pasar telah melalaikanku dari Hadits tersebut. Telah menceritakan kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Abu 'Ashim]; Demikian juga diriwayatkan dari jalur lainnya; Dan telah menceritakan kepada kami [Husain bin Huraits]; Telah menceritakan kepada kami [An Nadhr bin Syumail] keduanya berkata secara keseluruhan; Telah menceritakan kepada kami [Ibnu Juraij] melalui jalur ini dengan Hadits yang serupa, namun di dalam Hadits An Nadhr tidak menyebutkan lafazh; 'Berdagang di pasar-pasar telah melalaikanku dari Hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5631</td></tr><tr><td>Arabic No</td><td>2153.06</td></tr><tr><td>Reference</td><td>Book 38 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5631</td></tr><tr><td>Arabic No</td><td>2153.06</td></tr><tr><td>Reference</td><td>Book 38 Hadith 46</td></tr></tbody></table></div>
 

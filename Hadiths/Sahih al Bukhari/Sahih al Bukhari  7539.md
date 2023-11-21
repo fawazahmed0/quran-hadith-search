@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said that his Lord said: "It does not befi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafs bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Qatadah]. (dalam jalur lain disebutkan) [Khalifah] berkata kepada kami; telah menceritakan kepada kami [Yazid bin Zurai'] dari [Sa'id] dari [Qatadah] dari [Abu 'Aliyah] dari [Ibn 'Abbas] radliyallahu'anhuma, dari Nabi shallallahu 'alaihi wasallam yang beliau riwayatkan dari Rabbnya, Allah berfirman: "Tak pantas seorang hamba berkata bahwa dirinya lebih baik daripada Yunus bin Mata dan ia nisbatkan dirinya kepada ayahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7539</td></tr><tr><td>Arabic No</td><td>7539</td></tr><tr><td>Reference</td><td>Book 97 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен ими обеими Аллах, что Пророк ﷺ передал от своего Господа: «Не следует рабу говорить, что он лучше, чем Йунус, сын Матты», упомянув наряду с (Йунусом) и имя его отца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7539</td></tr><tr><td>Arabic No</td><td>7539</td></tr><tr><td>Reference</td><td>Book 97 Hadith 164</td></tr></tbody></table></div>
 

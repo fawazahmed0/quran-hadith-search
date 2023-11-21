@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was asked (about rites of Hajj) on the day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Nashr bin Ali], telah mengabarkan kepada Kami [Yazid bin Zurai'], telah mengabarkan kepada Kami [Khalid] dari [Ikrimah] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam ditanya pada hari di Mina dan beliau menjawab: "Tidak mengapa". Kemudian seseorang bertanya; sesungguhnya saya telah menggundul rambutku sebelum aku menyembelih. Beliau menjawab: "Sembelihlah, tidak mengapa!" Ia berkata; saya pada sore hari belum melempar jumrah. Beliau menjawab: "Lemparlah, tidak mengapa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1983</td></tr><tr><td>Arabic No</td><td>1983</td></tr><tr><td>Reference</td><td>Book 11 Hadith 263</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророка ﷺ спрашивали в день Мины [о допущенных ошибках] и он неизменно отвечал: «Ничего страшного». Один человек сказал: «Я обрил голову до того, как зарезал жертвенное животное». Посланник Аллаха ﷺ сказал: «Режь сейчас, ничего страшного». А другой сказал: «Я не бросал камешки до самого вечера». Посланник Аллаха ﷺ сказал: «Бросай сейчас, ничего страшного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1983</td></tr><tr><td>Arabic No</td><td>1983</td></tr><tr><td>Reference</td><td>Book 11 Hadith 263</td></tr></tbody></table></div>
 

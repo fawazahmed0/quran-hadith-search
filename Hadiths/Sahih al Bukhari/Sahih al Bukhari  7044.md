@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:I used to see a dream which would make me sick till I heard 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Rabi'] telah menceritakan kepada kami [Syu'bah] dari ['Abdu Rabbihi bin Sa'id] mengatakan; aku mendengar [Abu Salamah] mengatakan; 'Pernah aku bermimpi sehingga menjadikan diriku sakit, hingga aku mendengar [Abu Qatadah] mengatakan; 'Sungguh aku juga pernah bermimpi yang menjadikan diriku sakit, hingga aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Mimpi yang baik adalah berasal dari Allah, maka jika salah seorang diantara kaian bermimpi yang disukainya, jangan menceritakannya selain kepada yang disukai, dan siapa yang bermimpi yang tidak disukainya, hendaklah meminta perlindungan kepada Allah dari kejahatannya dan dari kejahatan setan, dan hendaklah meludah tiga kali dan jangan menceritakannya kepada seorang pun, sebab yang demikian tidak membahayakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7044</td></tr><tr><td>Arabic No</td><td>7044</td></tr><tr><td>Reference</td><td>Book 91 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Саляма сказал: «(Раньше, когда) я видел (какой-нибудь) сон, то он вызывал во мне болезнь, пока я не услышал Абу Катаду, который сказал: “И я раньше, когда видел (какой-нибудь) сон, то он вызывал во мне болезнь, пока я не услышал, как Пророк ﷺ сказал: “Благое сновидение — от Аллаха. Если кто-нибудь из вас видит такие сны, которые ему нравятся, то пусть рассказывает их лишь тем, кого он любит. А если он увидит сон, который ему не понравится, то пусть обратится к Аллаху с мольбой о защите от зла этого сна, от зла шайтана, пусть сплюнет три раза и никому не рассказывает (таких снов), и тогда это ему не повредит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7044</td></tr><tr><td>Arabic No</td><td>7044</td></tr><tr><td>Reference</td><td>Book 91 Hadith 58</td></tr></tbody></table></div>
 

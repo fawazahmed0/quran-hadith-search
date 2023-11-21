@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Mughira narrated it from his father:The Apostle of Allah (ﷺ) wiped over hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umayyah bin Bistham] dan [Muhammad bin Abdul A'la] keduanya berkata, telah menceritakan kepada kami [al-Mu'tamir] dari [bapaknya] dia berkata, telah menceritakan kepada kami [Bakar bin Abdullah] dari [Ibnu al-Mughirah] dari [bapaknya] bahwa Nabi shallallahu 'alaihi wasallam mengusap bagian atas kedua khufnya, bagian depan kepalanya dan bagian atas surbannya." Dan telah menceritakan kepada kami [Muhammad bin Abd al-A'la] telah menceritakan kepada kami [al-Mu'tamir] dari [bapaknya] dari [Bakar] dari [al-Hasan] dari [Ibnu al-Mughirah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam dengan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>274.09</td></tr><tr><td>Reference</td><td>Book 2 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн аль-Мугыры, что его отец рассказывал о том, что (совершая омовение), Пророк ﷺ обтёр кожаные носки, переднюю часть головы и чалму»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>274.09</td></tr><tr><td>Reference</td><td>Book 2 Hadith 101</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira The Prophet (ﷺ) said, "A man from Bani Israel asked someo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1498</td></tr><tr><td>Arabic No</td><td>1498</td></tr><tr><td>Reference</td><td>Book 24 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды Пророк ﷺ сказал: «Один человек из числа израильтян попросил другого одолжить ему тысячу динаров, и тот дал ему (эти деньги). После этого (должник) вышел в море, (а когда подошёл срок платежа,) он не сумел найти корабль, и тогда он взял доску, выдолбил в ней углубление, вложил туда тысячу динаров и бросил её в море. (А через некоторое время) человек, одолживший ему (деньги), вышел (на берег моря), увидел эту доску и взял её на топливо для своей семьи”. Далее (Пророк ﷺ продолжил свой) рассказ (и сказал): «А когда (этот человек) распилил (доску), он обнаружил эти деньги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1498</td></tr><tr><td>Arabic No</td><td>1498</td></tr><tr><td>Reference</td><td>Book 24 Hadith 98</td></tr></tbody></table></div>
 

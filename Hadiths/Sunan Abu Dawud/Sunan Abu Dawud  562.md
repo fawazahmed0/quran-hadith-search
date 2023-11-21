@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ka'b ibn Ujrah: AbuThumamah al-Hannat said that Ka'b ibn Ujrah met him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al-Anbari] bahwasanya [Abdul Malik bin Amru] telah menceritakan kepada mereka, dari [Dawud bin Qais] dia berkata; Telah menceritakan kepadaku [Sa'd bin Ishaq] telah menceritakan kepadaku [Abu Tsumamah Al-Hannath] bahwasanya [Ka'ab bin 'Ujrah] pernah mendapatkannya hendak pergi ke masjid. Salah satunya bertemu dengan temannya. Kata Abu Tsumamah; Ka'ab mendapatiku sedang menjalin kedua tanganku, maka dia melarangku berbuat demikian dan berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian berwudlu, lalu dia membaguskan wudlunya, kemudian pergi dengan sengaja ke masjid, maka janganlah dia menjalin kedua tangannya, karena perbuatan itu dianggap himpunan ibadah shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>562</td></tr><tr><td>Arabic No</td><td>562</td></tr><tr><td>Reference</td><td>Book 2 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Сумамы аль-Ханната о том, что (однажды) Ка‘б ибн ‘Уджра настиг его, когда он отправлялся в мечеть и один из них встретил своего товарища.(Абу Сумама) сказал: И он увидев, что я переплетаю свои пальцы, запретил мне это и сказал: “Поистине, Посланник Аллаха ﷺ сказал: “Когда кто-то из вас совершит омовение и сделает это должным образом, а затем выйдет с намерением отправиться в мечеть, пусть ни в коем случае не переплетает (пальцы) рук, ибо, поистине, он (уже) находится на молитве”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>562</td></tr><tr><td>Arabic No</td><td>562</td></tr><tr><td>Reference</td><td>Book 2 Hadith 172</td></tr></tbody></table></div>
 

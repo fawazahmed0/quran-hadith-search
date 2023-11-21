@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Ahwas quoted his father saying:I came to the Prophet (ﷺ) wearing a poor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Abu Ishaq] dari [Abu Al Ahwash] dari [Bapaknya] ia berkata, "Aku mendatangi Nabi shallallahu 'alaihi wasallam dengan baju yang lusuh. Maka beliau bertanya: "Apakah engkau mempunyai harta?" Ia menjawab, "Ya." beliau bertanya lagi: "Harta apa saja?" ia menjawab, "Allah telah memberiku unta, kambing, kuda dan budak." Beliau bersabda: "Jika Allah memberimu harta maka tampakkanlah wujud dari nikimat-Nya dan pemberian-Nya itu pada dirimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 34 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-Ахвас передаёт от своего отца: «Я пришёл к Пророку ﷺ в поношенной одежде, и он спросил: “Есть ли у тебя имущество?”» Он ответил: «Да». Он спросил: «А какое имущество?» Он ответил: «Аллах даровал мне верблюдов, овец, лошадей и рабов». (Посланник Аллаха ﷺ) сказал: «Если Аллах даровал тебе имущество, пусть же на тебе будут видны следы Его милости к тебе и Его почёта»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 34 Hadith 44</td></tr></tbody></table></div>
 

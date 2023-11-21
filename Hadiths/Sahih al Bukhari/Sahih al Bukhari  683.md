@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham ibn 'Urwa's father:'Aisha said, "Allah's Messenger (ﷺ) ordered
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zakaria bin Yahya] berkata, telah menceritakan kepada kami [Ibnu Numair] berkata, telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan Abu Bakar unruk memimpin shalat jama'ah bersama orang-orang saat beliau sakit. Maka Abu Bakar pun memimpin shalat mereka." 'Urwah berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam merasakan ringan pada tubuhnya, beliau pun keluar sementara Abu Bakar sedang mengimami orang-orang shalat. Ketika Abu Bakar melihat beliau datang, dia pun berkeinginan untuk mundur. Tetapi beliau memberi isyarat kepadanya (dengan katanya): "Tetaplah kamu pada posisimu." Lalu Rasulullah shallallahu 'alaihi wasallam duduk di samping Abu Bakar, sehingga dia shalat mengikuti shalat Rasulullah shallallahu 'alaihi wasallam dan orang-orang mengikuti shalatnya Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>683</td></tr><tr><td>Arabic No</td><td>683</td></tr><tr><td>Reference</td><td>Book 10 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время своей болезни, Посланник Аллаха ﷺ велел Абу Бакру молиться с людьми и он молился с ними».\n‘Урва (ибн аз-Зубайр, который передал этот хадис от ‘Аиши, передавая её слова) сказал: «Почувствовав облегчение, Посланник Аллаха ﷺ вышел в то время, когда Абу Бакр возглавлял людей в намазе. Когда Абу Бакр увидел его, он отошёл назад, но (Пророк ﷺ) жестом указал ему, чтобы он оставался на своём месте, и Посланник Аллаха ﷺ сел рядом (со стоящим) Абу Бакром. И Абу Бакр стал молиться следуя за намазом Посланника Аллаха ﷺ, а люди следовали за намазом Абу Бакра, да будет доволен им Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>683</td></tr><tr><td>Arabic No</td><td>683</td></tr><tr><td>Reference</td><td>Book 10 Hadith 77</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Maymun ibn Mahran said:I came out to perform umrah in the year when the people o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [An Nufaili], Telah menceritakan kepada Kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari ['Amr bin Maimun], ia berkata; saya mendengar [Abu Hadhir Al Himyari] menceritakan kepada ayahku yaitu Maimun bin Mahran, ia berkata; aku keluar untuk melaksanakan umrah pada tahun ketika penduduk Syam mengepung Ibnu Az Zubair di Mekkah, dan orang-orang dari kaumku mengirim hewan kurban bersamaku, ketika Kami sampai kepada penduduk Syam, mereka melarang Kami untuk memasuki tanah suci, maka aku menyembelih binatang sembelihanku ditempatku kemudian aku bertahallul dan kembali. Ketika pada tahun berikutnya aku keluar untuk melakukan umrahku, lalu aku mendatangi [Ibnu Abbas] dan bertanya kepadanya -tentang kejadian tersebut- kemudian ia menjawab: gantilah hewan sembelihanmu, karena Rasulullah shallallahu 'alaihi wasallam memerintahkan para sahabatnya untuk mengganti hewan sembelihannya yang telah mereka sembelih pada waktu terjadi perjanjian Hudaibiyah pada peristiwa umratul qadha (mengganti umrah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1864</td></tr><tr><td>Arabic No</td><td>1864</td></tr><tr><td>Reference</td><td>Book 11 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Маймун ибн Михран передаёт: «Я отправился совершать ‘умру в год, когда жители Шама осадили Ибн аз-Зубайра в Мекке. Мои соплеменники послали со мной свой жертвенный скот. Когда мы дошли до жителей Шама, они не позволили нам войти в Заповедную мечеть, и я зарезал скот на том месте, где нас остановили, и вышел из ихрама, после чего вернулся домой. На следующий год я отправился восполнить свою ‘умру и пришёл к Ибн ‘Аббасу, чтобы спросить его, что мне делать. Он сказал: “Замени жертвенный скот, ибо, поистине, Посланник Аллаха ﷺ велел своим сподвижникам заменить жертвенный скот, который они зарезали в год Худайбии, когда они восполняли ту ‘умру”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1864</td></tr><tr><td>Arabic No</td><td>1864</td></tr><tr><td>Reference</td><td>Book 11 Hadith 144</td></tr></tbody></table></div>
 

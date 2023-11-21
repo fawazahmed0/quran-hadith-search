@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : "Lorsque le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Barrad Abu 'Amir Al Asy'ari] dan [Abu Kuraib Muhammad bin Al A'laa] lafazh ini milik Abu 'Amir dia berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Bapaknya] dia berkata; "Usai perang Hunain, Rasulullah shallallahu 'alaihi wasallam menugaskan Abu Amir untuk memimpin pasukan kaum muslimin ke Authas. Kemudian Abu Amir menyerang Duraid bin Ash-Shimmah hingga Duraid tewas terbunuh dalam peperangan itu dan Allah pun menghancurkan musuh-musuh-Nya." Abu Musa berkata; 'Rasulullah shallallahu 'alaihi wasallam pernah mengutus saya dan Abu Amir ke medan pertempuran. Pada suatu ketika, Abu Amir terkena panah yang tepat mengenai lututnya. Seorang laki-laki dari Bani Jusyam membidiknya hingga mengenai lututnya tersebut. Kemudian saya mendekatinya sambil bertanya; 'Paman, siapakah yang membidikmu? ' Abu Amir memberi isyarat kepada Abu Musa; 'Musuh yang kamu lihat di sana itulah yang telah membidikku.' Lalu saya mengejar orang tersebut hingga berhasil menyusulnya. Ketika laki-laki itu melihat saya, maka ia pun Iari menghindar. Tetapi saya terus mengejarnya dan kemudian saya katakan kepadanya; 'Tidak malukah kamu menghindar dariku? Bukankah kamu laki-laki Arab? Berhentilah dan mari kita bertarung! ' Tak lama kemudian orang tersebut berhenti dan saya pun bertarung dengannya. Setelah menyerang dua kali, maka saya berhasil membunuhnya dengan tebasan pedang saya. Setelah itu saya kembali kepada Abu Amir sambil berkata; 'Wahai paman, sesungguhnya Allah telah membunuh orang yang telah membidik paman.' Abu Amir berkata; 'Hai Abdullah (nama asli Abu Musa), cabutlah anak panah ini! ' Lalu saya mencabut anak panah yang menancap pada lutut Abu Amir itu hingga darah terus mengucur dari Iututnya. Abu Amir berkata; 'Hai kemenakanku, pergilah kamu kepada Rasulullah dan sampaikan salamku kepada beliau serta katakan kepada beliau; 'Abu Amir berpesan agar engkau mendoakannya.' Abu Musa berkata; 'SeteIah itu Abu Amir menugaskan saya untuk menggantikannya dalam memimpin pasukan kaum muslimin. Tak Iama kemudian, Abu Amir meninggal dunia.' Setelah kembali ke Madinah, saya pun langsung menemui Rasulullah di rumahnya. Pada saat itu beliau sedang berada di atas tempat tidur yang beralas tanah dengan dilapisi tikar, sementara butir-butir pasir dan debu menempel di punggung dan lambung beliau. Kemudian saya memberitahukan kepada beliau tentang berita pasukan kaum muslimin dan berita Abu Amir. Lalu saya berkata; 'Abu Amir berpesan agar Rasuluhlah bersedia mendoakan dirinya.' Lalu Rasulullah shallallahu 'alaihi wasallam minta air dan langsung berwudlu. Setelah itu beliau mengangkat kedua tangannya sambil berdoa: 'Ya AlIah, ampunilah Ubaid dan Abu Amir! ' (saya melihat putih ketiak Rasulullah ketika mengangkat tangannya). Selanjutnya beliau berdoa: 'Ya Allah, tempatkanlah Abu Amir, pada hari kiamat kelak, di atas kebanyakan makhluk-Mu! ' Aku berkata kepada Rasuluhlah; 'Ya Rasulullah, mohonkanlah ampunan untuk saya juga! ' Lalu Rasulullah berdoa: 'Ya Allah, ampunilah dosa Abdullah bin Qais (nama asli Abu Musa) dan masukkanlah ia ke tempat yang mulia pada hari kiamat! ' Abu Burdah berkata; 'Doa yang pertama untuk Abu Amir dan doa selanjutnya adalah untuk Abu Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6406</td></tr><tr><td>Arabic No</td><td>2498</td></tr><tr><td>Reference</td><td>Book 44 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6406</td></tr><tr><td>Arabic No</td><td>2498</td></tr><tr><td>Reference</td><td>Book 44 Hadith 237</td></tr></tbody></table></div>
 

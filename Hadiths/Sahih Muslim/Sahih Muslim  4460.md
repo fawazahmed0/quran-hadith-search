@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Barda Ansari reported Allah's Messenger (ﷺ) as saying:None should be given
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Isa] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku ['Amru] dari [Bukair bin Al Asyaj] dia berkata, "Ketika kami berada di sisi Sulaiman bin Yasar, tiba-tiba Abdurrahman Jabir datang lalu menceritakan (hadits) kepadanya, kemudian [Sulaiman] menghadapkan wajahnya kepada kami sambil berkata; telah menceritakan kepadaku [Abdurrahman bin Jabir] dari [ayahnya] dari [Abu Burdah Al Anshari], bahwa dia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Seseorang tidak boleh didera lebih dari sepuluh kali, melainkan hukuman yang telah jelas ditetapkan oleh Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4460</td></tr><tr><td>Arabic No</td><td>1708</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4460</td></tr><tr><td>Arabic No</td><td>1708</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
 

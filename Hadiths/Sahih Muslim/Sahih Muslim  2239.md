@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir ibn Samura reported that the Prophet (ﷺ) said (funeral) prayer on Ibn Da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] -lafazh dari Ibnul Mutsanna- keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dari [Jabir bin Samurah] ia berkata; Rasulullah shallallahu 'alaihi wasallam menshalatkan jenazah Ad Dahdah. Setelah itu, beliau diberi kuda yang tak berkelana. Kuda itu kemudian diikat oleh seseorang hingga Rasulullah shallallahu 'alaihi wasallam pun menaikinya dan berjalan pelan, sementara kami berjalan mengikuti di belakang beliau. Jabir berkata; Seorang laki-laki dari sebuah kaum bertanya: "Berapakah batang pohonkah yang tergantung di jannah yang akan diberikan untuk Dahdah?" atau Syu'bah berkata; "Untuk Abu Dahdah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>965.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн Самура сказал: «После того как Посланник Аллаха ﷺ совершил заупокойную молитву по Ибн ад-Дахдаху, к нему подвели не осёдланного коня, которого один человек взял под уздцы. (Пророк ﷺ) сел верхом и стал гарцевать на нём, а мы следовали за ним». (Джабир) сказал: «Один из (тех, кто был с нами), сказал: «Пророк ﷺ сказал: “Сколь много подвешенных (или: свешивающихся) кистей винограда /‘изк/ (приготовлено) в Раю для Ибн ад-Дахдаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>965.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
 

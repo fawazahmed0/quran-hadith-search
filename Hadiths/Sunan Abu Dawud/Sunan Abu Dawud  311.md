@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The woman having bleeding after delivery (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah mengabarkan kepada kami [Zuhair] telah menceritakan kepada kami [Ali bin Abdul A'la] dari [Abu Sahl] dari [Mussah] dari [Ummu Salamah] dia berkata; Wanita-wanita yang nifas pada masa Rasululah shallallahu 'alaihi wasallam, biasa menahan dirinya selama empat puluh hari atau empat puluh malam. Dan kami biasa mengoleskan bedak pada wajah-wajah kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>311</td></tr><tr><td>Arabic No</td><td>311</td></tr><tr><td>Reference</td><td>Book 1 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Салама сказала: «При жизни Посланника Аллаха ﷺ женщины с послеродовым кровотечением воздерживались (от молитвы) в течение сорока дней или сорока ночей. И мы мазали на свои лица смесь их жёлтого растения (варс), чтобы избавиться от веснушек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>311</td></tr><tr><td>Arabic No</td><td>311</td></tr><tr><td>Reference</td><td>Book 1 Hadith 311</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Al-Harith:Zainab, the wife of 'Abdullah said, "I was in the Mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada saya [Syaqiq] dari ['Amru bin Al Harits] dari [Zainab] isteri 'Abdullah radliallahu 'anhuma berkata,, lalu dia menceritakannya kepada Ibrahim. Dan diriwayatkan pula, telah menceritakan kepada saya [Ibrahim] dari [Abu 'Ubaidah] dari ['Amru bin Al Harits] dari [Zainab] isteri 'Abdullah radliallahu 'anhua sama seperti ini, berkata,: "Aku pernah berada di masjid lalu aku melihat Nabi Shallallahu'alaihiwasallam. Kemudian Beliau bersabda: "Bershadaqahlah kalian walau dari perhiasan kalian". Pada saat itu Zainab berinfaq untuk 'Abdullah dan anak-anak yatim di rumahnya. Dia ('Amru bin Al Harits) berkata,:; Zainab berkata, kepada 'Abdullah: "Tanyakanlah kepada Rasulullah Shallallahu'alaihiwasallam apakah aku akan mendapat pahala bila aku menginfaqkan shadaqah (zakat) ku kepadamu dan kepada anak-anak yatim dalam rumahku". Maka 'Abdullah berkata,: "Tanyakanlah sendiri kepada Rasulullah Shallallahu'alaihiwasallam ". Maka aku berangkat untuk menemui Nabi Shallallahu'alaihiwasallam dan aku mendapatkan seorang wanita Anshar di depan pintu yang sedang menyampaikan keperluannya seperti keperluanku. Kemudian Bilal lewat di hadapan kami maka kami berkata: "Tolong tanyakan kepada Nabi Shallallahu'alaihiwasallam, apakah aku akan mendapat pahala bila aku meninfaqkan shadaqah (zakat) ku kepada suamiku dan kepada anak-anak yatim yang aku tanggung dalam rumahku?". Dan kami tambahkan agar dia (Bilal) tidak menceritakan siapa kami. Maka Bilal masuk lalu bertanya kepada Beliau. Lalu Beliau bertanya: "Siapa kedua wanita itu?". Bilal berkata,: "Zainab". Beliau bertanya lagi: "Zainab yang mana?". Dikatakan: "Zainab isteri 'Abdullah". Maka Beliau bersabda: "Ya benar, baginya dua pahala, yaitu pahala (menyambung) kekerabatan dan pahala zakatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1466</td></tr><tr><td>Arabic No</td><td>1466</td></tr><tr><td>Reference</td><td>Book 24 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зайнаб, жена ‘Абдуллаха ибн Мас‘уда, да будет доволен Аллах ими обоими, сказала: «(Однажды) я была в мечети и увидела там Пророка ﷺ который сказал: “(О женщины,) подавайте милостыню, даже если вам (придётся пожертвовать для этого) своими украшениями”».\n‘Амр бин аль-Харис сказал: «А Зайнаб расходовала (свои средства) на ‘Абдуллаха и сирот, находившихся на её попечении».\n‘Амр бин аль-Харис сказал: «И она сказала ‘Абдуллаху: “Спроси Посланника Аллаха ﷺ послужит ли для меня заменой милостыни то, что я буду расходовать на тебя и на сирот, которые находятся на моём попечении?” (‘Абдуллах) сказал: “Спроси Посланника Аллаха ﷺ сама”».\n(Зайнаб сказала): «И я отправилась к Пророку ﷺ у дверей (дома) которого встретилась с одной женщиной из числа ансаров, желавшей задать ему такой же вопрос. (Спустя некоторое время) мимо нас прошёл Билял и (каждая из) нас сказала (ему): “Спроси Пророка ﷺ послужит ли для меня заменой милостыни то, что я буду расходовать на своего мужа и сирот, находящихся у меня на попечении”. Мы также сказали (Билялу): “Не говори (ему), кто мы”. После этого он вошёл (в дом) и задал этот вопрос (Пророку ﷺ), который cпросил: “Кто (эти женщины)?” (Билял) сказал: “Зайнаб”. (Пророк ﷺ) спросил: “Какая именно Зайнаб?” (Билял) сказал: “Жена ‘Абдуллаха”. (Тогда Пророк ﷺ) сказал: “Да, и ей (уготованы) две награды: одна за (поддержание связей) с родственниками, а другая за милостыню”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1466</td></tr><tr><td>Arabic No</td><td>1466</td></tr><tr><td>Reference</td><td>Book 24 Hadith 68</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Hasan said about a person who was in a certain city. He fasted on Monday, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah mengabarkan kepada kami [Ayahku] telah menceritakan kepadaku [Al Asy'ats] dari [Al Hasan] mengenai seorang laki-laki yang berada di sebuah negeri diantara beberapa negeri, kemudian ia berpuasa Hari Senin, dan dua orang laki-laki bersaksi bahwa mereka berdua telah melihat hilal pada malam Ahad. Kemudian Al Hasan berkata; tidaklah laki-laki tersebut dan penduduk negerinya mengqadha' hari tersebut kecuali mereka mengetahui bahwa penduduk suatu negeri diantara negeri-negeri muslimin telah melakukan puasa pada hari Ahad, maka mereka mengqadha'nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2333</td></tr><tr><td>Arabic No</td><td>2333</td></tr><tr><td>Reference</td><td>Book 14 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Аш‘ас передаёт от аль-Хасана историю о человеке, который был в одной из областей и постился в понедельник, и два человека засвидетельствовали, что видели народившийся месяц в воскресенье, и он сказал: «Этот день не должны восполнять ни этот человек, ни остальные жители той местности, если только не известно, что жители одной из областей мусульман постились в воскресенье в этом случае они должны восполнить этот день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2333</td></tr><tr><td>Arabic No</td><td>2333</td></tr><tr><td>Reference</td><td>Book 14 Hadith 21</td></tr></tbody></table></div>
 

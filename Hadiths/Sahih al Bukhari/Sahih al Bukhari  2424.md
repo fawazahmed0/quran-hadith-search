@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b bin Malik Al-Ansari from Ka'b bin Malik:That 'Abdull
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] telah mengabarkan kepadaku [Ja'far bin Rabi'ah] dan berkata, yang lain telah menceritakan kepadaku [Al Laits] berkata, telah menceritakan kepadaku [Ja'far bin Rabi'ah] dari ['Abdurrahman bin Hurmuz] dari ['Abdullah bin Ka'ab bin Malik Al Anshariy] dari [Ka'ab bin Malik radliallahu 'anhu] bahwa dia mempunyai piutang kepada Ibnu Abu Hadrad Al Aslamiy, lalu dia datang menemuinya untuk menagihnya kemudian terjadi pembicaraan hingga suara keduanya meninggi. Kemudian Rasulullah shallallahu 'alaihi wasallam lewat di hadapan keduanya lalu berkata: "Wahai Ka'ab!". Beliau memberi isyarat dengan tangan Beliau seakan Beliau berkata setengahnya. Maka Ka'ab mengambil setengahnya (dari Ibnu Abu Hadrad) dan membiarkan setengahnya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 44 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ка‘ба ибн Малика, да будет доволен им Аллах, о том, что ‘Абдуллах ибн Абу Хадрад аль-Аслямий задолжал ему. Однажды Ка‘б встретил его и стал неотступно следовать за ним (требуя долг), они заговорили, и их голоса стали громкими. Проходя мимо них, Пророк ﷺ сказал: «О Ка‘б!», — и он сделал рукой знак, означавший: «Уменьши свой долг наполовину!» Тогда он взял половину долга, а половину простил
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 44 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A client of Sa’ad said “Sa’ad found some slaves from the slaves of Medina 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Yazid bin Harun], telah mengabarkan kepada kami [Ibnu Abu Dzi'bin] dari [Shalih] mantan budak At Tauamah, dari [mantan budak Sa'd], bahwa [Sa'd] telah mendapati seorang budak di antara budak-budak Madinah yang menebangi pohon di Madinah. Kemudian ia mengambil barang-barang mereka dan berkata kepada para wali mereka; aku telah mendengar Rasulullah shallallahu 'alaihi wasallam melarang menebang pohon di Madinah, dan beliau berkata: "Barangsiapa yang menebang sebagian pohon di Madinah, maka sesuatu yang dilucuti darinya adalah milik orang yang menangkapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2038</td></tr><tr><td>Arabic No</td><td>2038</td></tr><tr><td>Reference</td><td>Book 11 Hadith 318</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Вольноотпущенник Са‘да передаёт, что однажды Са‘д увидел, как группа мединских рабов срезали растения Медины, и забрал их вещи, принадлежавшие их хозяевам. При этом он сказал: «Я слышал, как Посланник Аллаха ﷺ запретил срезать что-либо из растений Медины и сказал: “Кто схватит человека, срезающего что-либо из растений, тот имеет право забрать его вещи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2038</td></tr><tr><td>Arabic No</td><td>2038</td></tr><tr><td>Reference</td><td>Book 11 Hadith 318</td></tr></tbody></table></div>
 

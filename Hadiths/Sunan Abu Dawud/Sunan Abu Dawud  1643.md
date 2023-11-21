@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Thawban, the client of the Messenger of Allah (May peace be upon him), reported 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada Kami [ayahku], telah menceritakan kepada Kami [Syu'bah] dari ['Ashim] dari [Abu Al 'Aliyah] dari [Tsauban] mantan budak Rasulullah shallAllahu wa'alaihi wa sallam, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapakah yang menjamin untukku untuk tidak meminta-minta sesuatupun kepada orang lain, dan aku menjaminnya masuk Surga? Tsauban berkata; saya! Dan Tsauban tidak pernah meminta sesuatupun kepada orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1643</td></tr><tr><td>Arabic No</td><td>1643</td></tr><tr><td>Reference</td><td>Book 9 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саубан, который был вольноотпущенником Посланника Аллаха ﷺ сказал: «(Однажды) Посланник Аллаха ﷺ спросил: “Кто поручится мне за то, что ни о чём не станет просить людей(, чтобы) я поручился ему за (то, что наградой за это ему послужит) рай?”, и я сказал: “Я!” И (впоследствии) он (действительно) никого ни о чём не просил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1643</td></tr><tr><td>Arabic No</td><td>1643</td></tr><tr><td>Reference</td><td>Book 9 Hadith 88</td></tr></tbody></table></div>
 

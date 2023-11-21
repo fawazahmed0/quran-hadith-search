@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the last Verses of Surat-al-Baqara were revealed. Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Khalid] Telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman Al A'masy] Aku mendengar [Abu ADluha] bercerita dari [Masruq] dari [Aisyah] dia berkata; Tatkala turun beberapa ayat terakhir dari surat Al Baqarah, Rasulullah shallallahu 'alaihi wasallam keluar lalu membacakannya di masjid. Kemudian beliau mengharamkan jual beli minuman keras
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>4541</td></tr><tr><td>Reference</td><td>Book 65 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «После того, как были ниспосланы последние аяты из суры “аль-Бакара”, Посланник Аллаха ﷺ вышел (из дома) и прочёл их людям в мечети, после чего запретил торговать вином»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>4541</td></tr><tr><td>Reference</td><td>Book 65 Hadith 64</td></tr></tbody></table></div>
 

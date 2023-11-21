@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hisham said “The unjust vein means that a man implants a tree in the land of a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh], telah mengabarkan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Malik], ia berkata; [Hisyam]; keringat yang zhalim adalah seorang laki-laki menanamdi lahan orang lain kemudian orang lain tersebut memilikinya karena sebab tersebut. Malik berkata; dan keringat zhalim adalah setiap apa yang diambil dan digali serta ditanam dengan tanpa hak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3078</td></tr><tr><td>Arabic No</td><td>3078</td></tr><tr><td>Reference</td><td>Book 20 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хишам сказал: «Посаженное несправедливо это посаженное или посеянное на земле другого человека с целью наложить на неё руку». Малик сказал: «Это всё, что берётся, вскапывается и засевается без права»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3078</td></tr><tr><td>Arabic No</td><td>3078</td></tr><tr><td>Reference</td><td>Book 20 Hadith 151</td></tr></tbody></table></div>
 

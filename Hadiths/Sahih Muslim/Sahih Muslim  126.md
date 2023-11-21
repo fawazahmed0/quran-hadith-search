@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira that he heard the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdah adl-Dlabbi] telah mengabarkan kepada kami [Abdul Aziz] -yaitu ad-Darawardi- dari [al-Ala']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Umayyah bin Bistham] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Yazid bin Zura'i] telah menceritakan kepada kami [Rauh] dari [al-Ala' bin Abdurrahman bin Ya'qub] dari [bapaknya] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka bersaksi bahwa tidak ada tuhan (yang berhak disembah) melainkan Allah dan beriman kepadaku serta dengan al-Qur'an yang aku bawa, maka apabila mereka mengucapkan hal tersebut maka sungguh dia telah menjaga harta dan jiwanya dari (seranganku) kecuali disebabkan hak Islam. Dan hisab mereka diserahkan kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Мне было велено сражаться с этими людьми до тех пор, пока они не засвидетельствуют, что нет бога, достойного поклонения, кроме Аллаха и не уверуют в то, с чем я пришел. И если они сделают это, то защитят от меня свою кровь и своё имущество, если только (не совершат ничего такого, за что можно будет лишить их имущества или жизни) по праву, и тогда (лишь) Аллах (сможет потребовать) от них отчёта»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
 

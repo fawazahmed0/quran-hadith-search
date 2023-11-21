@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "In very hot weather delay the Zuhr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah Al Mutsanna] berkata, telah menceritakan kepada kami [Sufyan] berkata, kami telah menghafalnya dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila panas sangat menyengat maka tudalah shalat hingga panasnya mereda. Sebab panas yang sangat menyengat itu berasal dari hembusan api jahannam. Neraka jahannam mengadu kepada Rabbnya seraya berkata, 'Wahai Rabb, sebagian kami telah makan sebagian yang lain! ', maka Allah pun memberinya izin dengan dua tarikan nafas; sekali saat musim dingin dan sekali saat musim panas. Maka apa yang kalian rasakan berupa udara panas berasal darinya, begitu juga udara dingin yang kalian rasakan berasal darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>537</td></tr><tr><td>Arabic No</td><td>537</td></tr><tr><td>Reference</td><td>Book 9 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+«(Причиной же усиления жары является то, что в своё время) пламя (ада) пожаловалось своему Господу, сказав: “О Господь мой, одна часть меня поглотила другую!” И (Аллах) позволил ему делать два выдоха: выдох зимой и выдох летом, когда вы ощущаете наиболее сильную жару и наиболее сильный холод”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>537</td></tr><tr><td>Arabic No</td><td>537</td></tr><tr><td>Reference</td><td>Book 9 Hadith 14</td></tr></tbody></table></div>
 

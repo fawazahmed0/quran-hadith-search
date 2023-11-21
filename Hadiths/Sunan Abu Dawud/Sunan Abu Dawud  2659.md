@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Atik: The Prophet (ﷺ) said: There is jealousy which Allah l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], dan [Musa bin Isma'il] dan maknanya adalah satu. Mereka berkata; telah menceritakan kepada kami [Aban], ia berkata; telah menceritakan kepada kami [Yahya], dari [Muhammad bin Ibrahim], dari [Ibnu Jabir 'Atik] dari [Jabir bin 'Atik] bahwa Nabi Rasulullah shallallahu 'alaihi wasallam berkata: "Diantara rasa cemburu ada yang dicintai Allah, dan diantara rasa cemburu tersebut ada yang dibenci Allah." Adapun rasa cemburu yang Allah 'azza wajalla cintai adalah cemburu dalam keraguan, adapun rasa cemburu yang Allah 'azza wajalla benci adalah kecemburuan yang tidak dalam keraguan. Dan diantara rasa bangga ada yang Allah benci dan diantara rasa bangga ada yang Allah benci, adapun rasa bangga yang Allah 'azza wajalla cintai adalah rasa bangga seseorang kepada dirinya ketika berperang dan bersedekah, sedangkan rasa bangga yang Allah 'azza wajalla benci adalah rasa bangga dalam kebatilan." Musa berkata; dan rasa sombong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>2659</td></tr><tr><td>Reference</td><td>Book 15 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Атикъа о том, что пророк Аллаха ﷺ часто говорил: «Из числа ревности есть такая, которую Аллах любит и которую ненавидит. Что же касается ревности, которую любит Аллах, то это ревность по отношению к тому, что внушает подозрения. А что касается ревности, которую ненавидит Аллах, то это ревность в том, что не вызывает сомнений и подозрений. И поистине, в проявлении высокомерия и гордыни есть то, что ненавидит Аллах, и то, что Он любит. Что же касается того, что любимо Аллаху, то это проявление человеком высокомерия при сражении с врагом, а также (когда он раздаёт) садака. А что касается высокомерия и гордыни, которую Аллах ненавидит, то это проявление высокомерия в притеснении и самовосхищении»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>2659</td></tr><tr><td>Reference</td><td>Book 15 Hadith 183</td></tr></tbody></table></div>
 

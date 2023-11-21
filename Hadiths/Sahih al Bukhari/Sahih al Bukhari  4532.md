@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Seereen:I sat in a gathering in which the chiefs of the An
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban] Telah menceritakan kepada kami [Abdullah] Telah mengabarkan kepada kami [Abdullah bin Aun] dari [Muhammad bin Sirin] dia berkata; Aku duduk di sebuah majlis yang di dalamnya ada sekelompok orang-orang Anshar, di dalamnya ada Abdurrahman bin Abu Laila, lalu aku menyebutkan Hadits Abdullah bin Utbah yang menceritakan tentang Subaiah binti Al Harits. Maka Abdurrahman bin Abu Laila berkata; 'Akan tetapi pamannya tidak mengatakan hal itu. Lalu aku katakan, aku berani bertanggung jawab jika aku berdusta tentang orang yang berada di sisi Kufah -seraya mengeraskan suaranya-. Kemudian aku keluar dan bertemu dengan [Malik bin Amir], atau Malik bin Auf. Aku berkata; Bagaimana menurut Ibnu Mas'ud tentang orang yang telah ditinggal mati oleh suaminya padahal dia dalam keadaan hamil? Dia menjawab; [Ibnu Mas'ud] berkata; 'Apakah kamu akan memberatkannya dan tidak memberinya rukhsah, padahal sungguh telah turun surat Annisa' yang pendek setelah surat yang panjang (Al Baqarah)?. [Ayyub] berkata; dari [Muhammad] Aku bertemu dengan [Abu Atiyyah Malik bin Amir]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4532</td></tr><tr><td>Arabic No</td><td>4532</td></tr><tr><td>Reference</td><td>Book 65 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Сирин рассказывал: «Однажды я сидел на собрании, на котором присутствовали знатные ансары, среди которых был ‘Абдуррахман ибн Аби Лейла. Я упомянул хадис ‘Абдуллаха ибн ‘Утбы о Субай’и бинт аль-Харис, и ‘Абдуррахман сказал: “Но его дядя так не говорил”. Я сказал: “Я слишком храбр, если скажу неправду о человеке, который сейчас находится в Куфе”, — и повысил голос. Затем я вышел и встретил Малика ибн ‘Амира или Малика ибн ‘Ауфа и спросил: “Что Ибн Мас’уд говорил о беременной вдове, чей муж умер?” Он ответил: “Ибн Мас'уд сказал: “Почему вы проявляете к ней суровое постановление, а не облегчение?! Более короткая сура о женщинах (то есть сура “ат-Талак”) была ниспослана после более длинной суры (то есть сура “аль-Бакара”)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4532</td></tr><tr><td>Arabic No</td><td>4532</td></tr><tr><td>Reference</td><td>Book 65 Hadith 55</td></tr></tbody></table></div>
 

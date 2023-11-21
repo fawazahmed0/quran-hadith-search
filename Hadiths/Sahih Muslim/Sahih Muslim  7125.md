@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Mughira b. Shu'ba and the w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata: Telah menceritakan kepada kami [Sufyan] dari [Ziyad bin Ilaqah] ia mendengar [Al Mughirah bin Syu'bah] berkata: Nabi Shallallahu 'alaihi wa Salam shalat malam hingga kedua kaki beliau bengkak, mereka berkata: Allah telah mengampuni dosa Tuan yang telah berlalu dan yang dikemudian. Beliau bersabda: "Apakah aku tidak menjadi hamba yang bersyukur?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7125</td></tr><tr><td>Arabic No</td><td>2819.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7125</td></tr><tr><td>Arabic No</td><td>2819.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 78</td></tr></tbody></table></div>
 

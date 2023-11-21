@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:Al-Walid bin 'Abdul Malik said to me, "Have you heard that 'Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] berkata; [Hisyam bin Yusuf] membacakan kepadaku apa yang dihafalnya, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] ia berkata; Al Walid bin Abdul Malik telah bertanya kepadaku; 'Apakah 'Ali adalah termasuk orang yang menuduh 'Aisyah (berselingkuh)? ' Aku jawab; "Tidak. Akan tetapi dua orang dari kaummu yang mengabarkan kepadaku, yaitu [Abu Salamah bin Abdurrahman] dan [Abu Bakr bin Abdurrahman bin Al Harits] bahwa ['Aisyah radliallahu 'anha] pernah berkata kepada keduanya bahwa 'Ali menerima. Lalu mereka kembali bertanya tapi Az Zuhri tidak menjawabnya. Dia berkata; "Musalliman (menerima) tanpa diragukan lagi". Demikian juga makna pada asal katanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4142</td></tr><tr><td>Arabic No</td><td>4142</td></tr><tr><td>Reference</td><td>Book 64 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «(Однажды) аль-Валид ибн ‘Абдульмалик спросил меня: “Слышал ли ты, что ‘Али был одним из тех, кто оклеветал ‘Аишу?” Я ответил: “Нет, но двое мужчин из твоего племени (по имени) Абу Салама ибн ‘Абдуррахман и Абу Бакр ибн ‘Абдуррахман ибн аль-Харис сообщили мне, что ‘Аиша, да будет доволен ею Аллах, сказала им, что ‘Али хранил молчание в отношении неё”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4142</td></tr><tr><td>Arabic No</td><td>4142</td></tr><tr><td>Reference</td><td>Book 64 Hadith 186</td></tr></tbody></table></div>
 

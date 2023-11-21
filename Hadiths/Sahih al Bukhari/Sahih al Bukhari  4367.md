@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:'Abdullah bin Az-Zubair said that a group of riders bel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka dari [Ibnu Abu Mulaikah] bahwa ['Abdullah bin Az Zubair] telah mengabarkan kepada mereka; Serombongan dari bani Tamim datang kepada Nabi shallallahu 'alaihi wasallam, Abu Bakar berkata, "Angkatlah Al Qa'qa' bin Ma'bad bin Zurarah." Sedangkan Umar radliallahu 'anhu berkata, "Angkatlah Al Aqra' bin Habis." Abu Bakr berkata; 'Apakah kamu ingin menyelisihiku? ' Umar menjawab; 'Ya, aku ingin menyelisihimu.' Maka terjadilah perdebatan antara keduanya hingga suara mereka meninggi. Maka berkenaan dengan hal itu turunlah ayat: 'Hai orang-orang yang beriman, janganlah kamu mendahului Allah dan Rasulnya dan bertakwalah kepada Allah' hingga akhir ayat. (QS. Alhujurat ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4367</td></tr><tr><td>Arabic No</td><td>4367</td></tr><tr><td>Reference</td><td>Book 64 Hadith 393</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аз-Зубайр, да будет доволен Аллах ими обоими, сказал: «(Когда) к Пророку ﷺ прибыла (группа) всадников из (племени) бану тамим, Абу Бакр сказал: “Назначь (их) правителем аль-Ка‘ка‘а ибн Ма‘бада ибн Зурару”, что же касается ‘Умара, то он сказал: “Нет, назначь аль-Акра‘а ибн Хабиса!” Абу Бакр воскликнул: “Ты только хотел (сказать что-нибудь) наперекор мне!” ‘Умар сказал: “Я вовсе не хотел этого!” — а потом они стали громко спорить, в связи с чем был ниспослан (нижеследующий аят): “О те, кто уверовал! Не (пытайтесь) опередить Аллаха и Его посланника, (но) бойтесь Аллаха, (ибо,) поистине, Аллах — Слышащий, Знающий!” (сура “аль-Худжурат, аят 1)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4367</td></tr><tr><td>Arabic No</td><td>4367</td></tr><tr><td>Reference</td><td>Book 64 Hadith 393</td></tr></tbody></table></div>
 

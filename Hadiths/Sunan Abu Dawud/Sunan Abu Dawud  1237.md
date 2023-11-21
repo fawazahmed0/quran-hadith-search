@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl b. Abi Hathmah:The Prophet (ﷺ) prayed in time of danger and divi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman bin Al Qasim] dari [ayahnya] dari [Shalih bin Khawwat] dari [Sahl bin Abu Hatsmah] bahwa Nabi shallallahu 'alaihi wasallam pernah mengerjakan shalat khauf bersama para sahabatnya, beliau menjadikan mereka dua shaf di belakangnya, lalu beliau mengerjakan shalat dengan shaf yang ada di belakang beliau satu raka'at, kemudian berdiri. Beliau tetap dalam posisi berdiri sehingga orang-orang yang berada di shaf kedua shalat satu raka'at, setelah itu mereka maju ke depan, sedangkan shaf pertama mundur ke belakang, lalu Nabi shallallahu 'alaihi wasallam shalat bersama mereka satu raka'at, kemudian beliau duduk (sambil menanti) sehingga orang-orang yang tertinggal (di shaf ke dua) menyelesaikan satu raka'at yang tertinggal, kemudian beliau salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4131) Sahih Muslim (841)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1237</td></tr><tr><td>Arabic No</td><td>1237</td></tr><tr><td>Reference</td><td>Book 4 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Абу Хасмы, да будет доволен им Аллах, что, когда Пророк ﷺ совершал со своими сподвижниками молитву под воздействием страха /салят аль-хауф/, он поставил их позади себя в два ряда, после чего совершил один рак‘ат с тем рядом, который стоял сразу за ним, и поднялся. Он стоял так, пока стоявшие позади них не совершили один рак‘ат молитвы. Затем они выступили вперёд, а те, напротив, отступили, поменявшись местами, и Пророк ﷺ совершил с ними один рак‘ат, после чего сел и подождал, пока стоявшие во втором ряду совершат оставшийся рак‘ат, а потом произнёс таслим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4131) Sahih Muslim (841)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1237</td></tr><tr><td>Arabic No</td><td>1237</td></tr><tr><td>Reference</td><td>Book 4 Hadith 40</td></tr></tbody></table></div>
 

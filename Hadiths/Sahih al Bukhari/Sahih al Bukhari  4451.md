@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) expired in my house and on the day of my turn,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4451</td></tr><tr><td>Arabic No</td><td>4451</td></tr><tr><td>Reference</td><td>Book 64 Hadith 471</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «Пророк ﷺ скончался в моём доме и в мой день, лёжа между моей шеей и грудью. Когда (Посланник Аллаха ﷺ) болел, одна из нас читала ему молитвы, обращаясь (к Аллаху) и (в тот день) я тоже стала читать ему молитвы, а он поднял свою голову к небу и сказал: «В высшее общество! В высшее общество!» Затем пришел ‘Абдуррахман ибн Аби Бакр, а в его руке была влажная пальмовая ветвь (используемая им в качестве зубочистки) и Пророк ﷺ стал смотреть на неё, и я поняла, что он хочет воспользоваться ею. Я взяла её, разжевала её кончик, и дала ему. После чего он стал чистить рот так тщательно, как только можно. Закончив чистить рот, он передал сивак мне, и его рука опустилась (или: упал сивак из его руки). Аллах объединил мою слюну с его слюной в последний день его мирской жизни и в первый день его вечной жизни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4451</td></tr><tr><td>Arabic No</td><td>4451</td></tr><tr><td>Reference</td><td>Book 64 Hadith 471</td></tr></tbody></table></div>
 

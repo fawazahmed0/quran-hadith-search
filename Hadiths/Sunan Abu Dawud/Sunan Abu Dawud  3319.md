@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ka'b ibn Malik: Ka'b ibn Malik said to AbuLubabah; or someone else whom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin Umar], telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Ibnu Ka'b bin Malik] dari [ayahnya] bahwa ia berkata kepada Nabi shallallahu 'alaihi wasallam, atau [Abu Lubabah] atau orang yang Allah kehendaki; sesungguhnya diantara bukti taubatku adalah aku tinggalkan negeri kaumku yang padanya aku melakukan dosa, dan melepas sebagian dari hartaku semua sebagai sedekah. Beliau bersabda: "Cukup bagimu melepaskan sepertiga." Telah menceritakan kepada kami [Muhammad bin Al Mutawakkil] telah menceritakan kepada kami [Abdurrazzaq], ia berkata; telah mengabarkan kepadaku [Ma'mar] dari [Az Zuhri], ia berkata; telah mengabarkan kepadaku [Ibnu Ka'b bin Malik] ia berkata; [Abu Lubabah] ….. kemudian ia menyebutkan maknanya. Dan kisah mengenai Abu Lubabah dikatakan Abu Daud; telah diriwayatkan oleh [Yunus] dari [Ibnu Syihab], dari [sebagian Bani As Saib bin Abu Lubabah], dan telah diriwayatkan oleh [Az Zubaidi] dari [Az Zuhri] dari [Husain bin As Saib bin Abu Lubabah] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3319</td></tr><tr><td>Arabic No</td><td>3319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Са‘ида ибн аль-Мусайяба, что между двумя братьями из числа ансаров было наследство. И один из них попросил другого о разделе, а второй сказал: «Если ты попросишь меня о разделе снова, то пусть всё моё имущество принадлежит Каабе!» ‘Умар сказал ему: «Каабе не нужно твоё имущество. Искупи свою клятву и разговаривай с братом, ибо, поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Ты не должен соблюдать клятву или обет, предполагающие ослушание Господа или разрыв родственных связей, а также связанные с тем, над чем ты не властен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3319</td></tr><tr><td>Arabic No</td><td>3319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 78</td></tr></tbody></table></div>
 

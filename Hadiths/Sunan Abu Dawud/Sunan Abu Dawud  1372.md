@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Prophet (ﷺ) as saying: If anyone fasts during Ramad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mukhlad bin Khalid] dan [Ibnu Abu Khalaf] yang maksudnya sama, keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] yang sampai kepada Nabi shallallahu 'alaihi wasallam, sabdanya: "Barangsiapa berpuasa di bulan Ramadhan dengan keimanan dan penuh harap, maka akan di ampuni dosa-dosanya yang telah lalu. Dan barangsiapa bangun (shalat) pada malam lailatul Qadr dengan keimanan dan penuh harap, maka akan di ampuni dosa-dosanya yang telah lalu." Abu Daud berkata; "Demikian pula yang di riwayatkan [Yahya bin Abu Katsir] dari [Abu Salamah], dan [Muhammad bin 'Amru] dari [Abu salamah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2014)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1372</td></tr><tr><td>Arabic No</td><td>1372</td></tr><tr><td>Reference</td><td>Book 6 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто постился рамадан с верой и надеждой на награду от Аллаха, тому простятся его прошлые прегрешения, и кто выстаивал Ночь предопределения с верой и надеждой на награду от Аллаха, тому простятся его прошлые прегрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2014)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1372</td></tr><tr><td>Arabic No</td><td>1372</td></tr><tr><td>Reference</td><td>Book 6 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Ubaid:the freed slave of Ibn Azhar that he witnessed the Day of 'I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5571</td></tr><tr><td>Arabic No</td><td>5571</td></tr><tr><td>Reference</td><td>Book 73 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри, да помилует его Аллах Всевышний, сказал: «Абу ‘Убайд, вольноотпущенник Ибн Азхара, рассказывал мне, что ему довелось присутствовать на празднике в День жертвоприношения вместе с ‘Умаром ибн аль-Хаттабом, да будет доволен им Аллах, который совершил молитву до проповеди /хутба/, а потом обратился к людям с проповедью и сказал: “О люди, поистине, Посланник Аллаха ﷺ запретил вам поститься во время этих двух праздников! Что касается одного из них, то это — день вашего разговения после поста, что же касается другого, то это тот день, когда вы едите мясо приносимых вами жертв”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5571</td></tr><tr><td>Arabic No</td><td>5571</td></tr><tr><td>Reference</td><td>Book 73 Hadith 27</td></tr></tbody></table></div>
 

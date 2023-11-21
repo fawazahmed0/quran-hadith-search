@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) used to visit all his wives in one nig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul A'la bin Hammad] telah menceritakan kepada kami [Abdul A'la bin Abdul A'la] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] berkata, telah menceritakan kepada kami [Sa'id] dari [Qatadah] bahwa [Anas bin Malik] menceritakan kepada mereka, bahwa Nabi shallallahu 'alaihi wasallam menggilir semua isterinya dalam satu malam, padahal saat itu isteri beliau ada sembilan orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>284</td></tr><tr><td>Reference</td><td>Book 5 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Къатады о том, что Анас ибн Малик рассказывал им, что Пророк ﷺ обходил своих жён за одну ночь, и в то время у него было девять жён
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>284</td></tr><tr><td>Reference</td><td>Book 5 Hadith 36</td></tr></tbody></table></div>
 

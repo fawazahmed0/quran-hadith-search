@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] telah mengabarkan kepada saya [Abu Khalid] dari [Adi bin Tsabit Al-Anshari] telah menceritakan kepada saya [Seorang laki-laki] yang pernah bersama Ammar bin Yasir sewaktu di Mada'in, ketika iqamat shalat telah dikumandangkan, 'Ammar maju untuk menjadi imam dan dia berdiri di atas bangku panjang, sementara para makmum berada di bawahnya, lalu Hudzaifah maju dan menarik tangan 'Ammar dan 'Ammar pun mengikutinya hingga dia diturunkan ditempat yang sejajar oleh Hudzaifah. Setelah 'Ammar selesai shalat, [Hudzaifah] berkata kepadanya; Apakah kamu belum pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seseorang mengimami suatu kaum, maka janganlah dia berdiri di tempat yang lebih tinggi dari tempat mereka", atau semisal ucapan tersebut. Ammar berkata; Maka dari itu saya mengikutimu tatkala kamu menarik tanganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>598</td></tr><tr><td>Arabic No</td><td>598</td></tr><tr><td>Reference</td><td>Book 2 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Ади ибн Сабита аль-Ансари о том, что один мужчина рассказывал ему, что он был в Мадаине вместе с ‘Аммаром ибн Ясиром, и когда возвестили икаму к молитве, ‘Аммар вышел вперёд и встал на лавочку и начал молиться, а люди находились ниже него. И тогда Хузайфа вышел вперёд и взял ‘Аммара за руки, а ‘Аммар последовал за ним, пока Хузайфа не спустил его (с лавочки). Когда ‘Аммар закончил молитву, Хузайфа спросил его: «Разве ты не слышал, как Посланник Аллаха ﷺ говорил: “Если человек станет возглавлять людей (в молитве), пусть не становится на то место, которое находится выше их места”?», или (он сказал) нечто подобное. ‘Аммар ответил: «По этой причине я и последовал за тобой, когда ты взял меня за руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>598</td></tr><tr><td>Arabic No</td><td>598</td></tr><tr><td>Reference</td><td>Book 2 Hadith 208</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shu'bi:'Adi took a white rope (or thread) and a black one, and when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] Telah menceritakan kepada kami [Abu 'Awanah] dari [Hushain] dari [As Sya'bi] dari [Adi] dia berkata; Adi mengambil benang putih dan benang hitam. Hingga apabil malam tiba dia melihat pada benang tersebut, namun keduanya tidak Nampak juga. Dipagi harinya dia berkata; "Wahai Rasulullah shallallahu 'alaihi wasallam, aku telah meletakkan dibawah bantalku benang putih dan benang hitam, maka beliau bersabda: Bantalmu terlalu besar jika kau bentangkan benang hitam dan putih dibawah bantalmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4509</td></tr><tr><td>Arabic No</td><td>4509</td></tr><tr><td>Reference</td><td>Book 65 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аш-Ша‘би, что ‘Ади взял белые и чёрные путы верблюда, и когда прошла некоторая часть ночи, он принялся смотреть, однако не смог отличить их. Когда настало утро, он сказал: «О Посланник Аллаха, я положил себе под подушку два пута». На это Посланник Аллаха ﷺ сказал: «Если белая нить (рассвета) и чёрная нить (ночи) уместились под твоей подушкой, значит она у тебя (очень) широкая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4509</td></tr><tr><td>Arabic No</td><td>4509</td></tr><tr><td>Reference</td><td>Book 65 Hadith 36</td></tr></tbody></table></div>
 

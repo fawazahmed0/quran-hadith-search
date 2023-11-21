@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:Ibn 'Abbas mentioned the statement of the Prophet (ﷺ) regarding
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kepada kami [Hisyam] bahwa [Ibnu Juraij] telah mengabarkan kepada mereka, ia katakan; telah mengabarkan kepadaku [Ibrahim bin Maisarah] dari [Thawus] dari [Ibnu 'Abbas] radliallahu 'anhuma, bahwa dia menyebutkan sabda Nabi shallallahu 'alaihi wasallam perihal mandi pada hari Jum'at. Maka aku pun bertanya kepada Ibnu 'Abbas, 'Apakah beliau memakai wewangian ketika berada bersama keluarga Beliau? ' ia menjawab, 'Aku tidak tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>885</td></tr><tr><td>Arabic No</td><td>885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Тауса, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, упомянул слова Пророка ﷺ о большом омовении в пятницу. И я (Таус) спросил Ибн ‘Аббаса: «А использовать ли ему благовония, если они у него имеются?» Он ответил: «Я не знаю этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>885</td></tr><tr><td>Arabic No</td><td>885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 10</td></tr></tbody></table></div>
 

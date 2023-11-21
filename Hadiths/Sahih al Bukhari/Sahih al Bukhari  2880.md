@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:On the day (of the battle) of Uhad when (some) people retreated an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] telah bercerita kepada kami ['Abdul 'Aziz] dari [Anas radliallahu 'anhu] berkata; Ketika perang Uhud berkecamuk, orang-orang melarikan diri dari Nabi shallallahu 'alaihi wasallam. Dia berkata: "Sungguh aku melihat 'Aisyah binti Abu Bakar dan Ummu Sulaim berjalan dengan cepat hingga terlihat gelang kaki keduanya sambil membawa qirab (tempat ait terbuat dari kulit). Dan berkata perawi lain: mengangkut qirab, dengan selendang keduanya lalu menuangkan ke mulut para pasukan. Kemudian keduanya kembali untuk mengisi air kedalam qirab kemudian kembali datang menuangkan air ke mulut pasukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2880</td></tr><tr><td>Arabic No</td><td>2880</td></tr><tr><td>Reference</td><td>Book 56 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В день (битвы) при Ухуде, когда (некоторые) люди отступили и оставили Пророка ﷺ, я видел, как одежды ‘Аишы бинт Абу Бакр и Умм Сулейм поднимались так высоко, что можно было разглядеть украшения на их ногах: они носили бурдюки с водой на своих спинах и выливали воду в рот (каждого из страдавших от жажды) людей, потом возвращались и снова наполняли их, а потом возвращались и (снова поили раненых)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2880</td></tr><tr><td>Arabic No</td><td>2880</td></tr><tr><td>Reference</td><td>Book 56 Hadith 95</td></tr></tbody></table></div>
 

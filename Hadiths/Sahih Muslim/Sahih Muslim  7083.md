@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Ambari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu Imran Al Jauni] dari [Anas bin Malik] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Allah Tabaraka wa Ta'ala bertanya kepada penduduk neraka yang siksanya paling ringan: 'Andai kau memiliki dunia seisinya, apa kau akan menebusnya? ' orang itu menjawab: 'Ya.' Allah berfirman: 'Aku telah menginginkan yang lebih ringan dari (siksaan) ini saat kau masih berada ditulang rusuk Adam agar kau tidak menyekutukan -saya (Anas) kira beliau bersabda: 'Dan Aku tidak memasukkanmu ke neraka, tapi kau enggan dan tetap menyekutukan." Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Imran] berkata: Aku mendengar [Anas bin Malik] menceritakan dari nabi Shallallahu 'alaihi wa Salam sepertinya, hanya saja ia tidak menyebut: Dan Aku tidak memasukkanmu ke neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7083</td></tr><tr><td>Arabic No</td><td>2805.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7083</td></tr><tr><td>Arabic No</td><td>2805.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 37</td></tr></tbody></table></div>
 

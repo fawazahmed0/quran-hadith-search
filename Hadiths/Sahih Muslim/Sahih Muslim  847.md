@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) used to attack the enemy whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya, yaitu Ibnu Sa'id] dari [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik] dia berkata, "Kebiasaan Rasulullah shallallahu 'alaihi wasallam melakukan agresi militer (penyerbuan) apabila fajar telah terbit. Beliau memasang telinga mendengarkan adzan. Jika beliau mendengarkan adzan, niscaya beliau menahan agresi militer (penyerbuannya), namun apabila tidak, niscaya beliau akan teruskan agresi militernya. Lalu beliau mendengar seorang laki-laki mengucapkan, 'Allah Mahabesar, Allah Mahabesar. Maka Rasulullah shallallahu 'alaihi wasallam bersabda, "Dia berada pada fithrah (Islam). Kemudian dia mengucapkan, 'Saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah, saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah', maka Rasulullah shallallahu 'alaihi wasallam bersabda, 'Dia telah keluar dari neraka, lalu mereka melihat (siapa laki-laki tersebut), ternyata dia adalah penggembala kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>847</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Обычно Посланник Аллаха ﷺ нападал (на людей из того или иного племени) на заре. (Перед нападанием) он прислушивался, (надеясь услышать) азан, и, если слышал азан, воздерживался (от нападения), в противном же случае нападал. (Как-то раз), услышав, как один человек повторяет слова “Аллаху акбар, Аллаху акбар”, Посланник Аллаха ﷺ сказал: “(Он говорит то, что) соответствует естеству/фитра/”. Потом (этот человек) сказал: “Свидетельствую, что нет бога (достойного поклонения), кроме Аллаха” и Посланник Аллаха ﷺ сказал (ему): “Ты избавился от Огня!” (Люди) посмотрели на него, и оказалось, что (этим человеком) был пастух, который пас овец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>847</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
 

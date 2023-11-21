@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Harithah ibn Wahb al-Khuza'i,: I prayed along with the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [An Nufaili], telah menceritakan kepada Kami [Zuhair], telah menceritakan kepada Kami [Abu Ishaq], telah menceritakan kepadaku [Haritsah bin Wahb Al Khuza'i] dan ibunya adalah istri Umar, kemudian melahirkan 'Ubaidullah bin Umar. Haritsah berkata; aku melakukan shalat bersama Rasulullah shallAllahu wa'alaihi wa sallam di Mina sementara orang-orang sangat banyak, kemudian beliau melakukan shalat dua rakaat pada waktu haji wada'. Abu Daud berkata: Haritsah bin Khuza'ah dan rumah mereka ada di Mekkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1083) Sahih Muslim (696)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 11 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариса ибн Вахб аль-Хуза‘и, мать которого была замужем за ‘Умаром и родила ему ‘Убайдуллаха ибн ‘Умара, сказал: «Я совершал молитву под руководством Посланника Аллаха ﷺ в Мине. Людей было очень много. Посланник Аллаха ﷺ совершил с нами в прощальном хадже два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1083) Sahih Muslim (696)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 11 Hadith 245</td></tr></tbody></table></div>
 

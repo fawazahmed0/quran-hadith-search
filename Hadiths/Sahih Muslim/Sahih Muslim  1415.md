@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Râfi' Ibn Khadîj (que Dieu l'agrée) a dit : "Nous faisions avec le Prophète 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Awza'i] dari [Abu Najasy] katanya; Aku pernah mendengar [Rafi' bin Khadij] mengatakan; "Kami pernah shalat Ashar bersama Rasulullah shallallahu 'alaihi wasallam, kemudian sembelihan disembelih dan dibagi menjadi sepuluh bagian, setelah (dagingnya) dimasak, kami lalu memakannya sebelum matahari terbenam." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] dan [Syu'aib bin Ishaq Ad Dimasyqi] keduanya berkata; telah menceritakan kepada kami [Al Awza'i] dengan sanad seperti ini, hanya dia katakana; "Setelah Ashar kami menyembelih unta sembelihan di masa Rasulullah shallallahu 'alaihi wasallam, " Hanya dia tidak mengatakan; "Kami shalat bersama beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1415</td></tr><tr><td>Arabic No</td><td>625.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж сказал: «Бывало так, что мы совершали вместе с Посланником Аллаха ﷺ послеполуденную молитву, после чего закалывали верблюда. Затем его делили на десять частей, готовили, и мы ели варёное мясо, прежде чем заходило солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1415</td></tr><tr><td>Arabic No</td><td>625.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 249</td></tr></tbody></table></div>
 

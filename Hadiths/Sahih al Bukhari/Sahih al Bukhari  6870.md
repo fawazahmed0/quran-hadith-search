@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "Al-Ka'ba'ir (the biggest si
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Firas] dari [Asy Sya'bi] dari [Abdullah bin Amru] dari Nabi shallallahu 'alaihi wasallam bersabda; "Diantara dosa besar adalah, menyekutukan Allah, durhaka kepada orang tua, -atau ia mengatakan - sumpah dusta." Syu'bah ragu kepastian redaksinya. Dan [Mu'adz] mengatakan telah menceritakan kepada kami [Syu'bah] mengatakan; Dosa besar ialah menyekutukan Allah, sumpah dusta, dan durhaka kepada orang tua. Atau ia mengatakan; dan membunuh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6870</td></tr><tr><td>Arabic No</td><td>6870</td></tr><tr><td>Reference</td><td>Book 87 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Амра, что Пророк ﷺ сказал: «К числу тяжких грехов относятся придавание Аллаху сотоварища, проявление непочтительности по отношению к родителям, ложная клятва и убийство человека»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6870</td></tr><tr><td>Arabic No</td><td>6870</td></tr><tr><td>Reference</td><td>Book 87 Hadith 9</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bashair b. Yasir reported on the authority of some of the Companions of Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Sulaiman yaitu Ibnu Bilal] dari [Yahya yaitu Ibnu Sa'id] dari [Busyair bin Yasar] dari sebagian sahabat Rasulullah dari orang-orang yang berduit, di antaranya adalah [Sahl bin Abu Khaitsamah], bahwa Rasulullah shallallahu 'alaihi wasallam melarang jual beli buah dengan kurma, dia bersabda; "Itu adalah riba, itu muzabanah." Hanya saja beliau memberi keringanan dalam 'Ariyyah pada satu atau dua pohon kurma yang dilakukan suatu keluarga dengan cara memperkirakan kalau kurma tersebut akan menjadi kering, dan mereka memakannya ketika masih basah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3887</td></tr><tr><td>Arabic No</td><td>1540.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3887</td></tr><tr><td>Arabic No</td><td>1540.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 86</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar said:'Ashurah was a day on which we used to fast in pre-Islamic days. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari ['Ubaidullah], ia berkata; telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar], ia berkata; Hari 'Asyura' adalah hari kami berpuasa pada masa jahiliyah. Kemudian tatkala turun kewajiban puasa Bulan Ramadhan Rasulullah shallallahu 'alaihi wasallam bersabda: "Ini adalah hari diantara hari-hari Allah, barangsiapa yang berkeinginan (berpuasa) ia (boleh) berpuasa, dan barangsiapa yang berkeinginan (berbuka) ia (boleh) meninggalkannya (tidak berpuasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Во времена невежества мы соблюдали пост в день ‘Ашуры, и когда пост в рамадан был сделан обязательным, Посланник Аллаха ﷺ сказал: “Это один из дней Аллаха, и кто хочет, может поститься, а кто хочет, может отказаться от поста”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
 

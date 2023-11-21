@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), L'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] -sedangkan lafazhnya dari Yahya- [Yahya] berkata, telah mengabarkan kepada kami -sementara dua orang yang lain berkata- Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam dikafani dengan tiga helai kain berwarna putih, lembut dan terbuat dari kursuf (katun), tidak ada baju di dalamnya dan tidak juga serban. Sedangkan tentang Al Hullah (kain dari Yaman) membengingkan para sahabat, padahal telah dibeli untuk digunakan sebagai kain kafan beliau, maka hullah itu pun tidak digunakan. Beliau dikafankan dengan tiga helai kain putih yang lembut. Kemudian Abdullah bin Abu Bakar mengambil Hullah tersebut dan berkata, "Aku akan menyimpannya hingga aku mengkafani diriku dengan kain ini." kemudian ia berkata lagi, "Jika Allah meridlai Nabi-Nya, tentu beliau akan dikafani dengan kain ini." Akhirnya, ia pun menjualnya dan menyedekahkan uangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2179</td></tr><tr><td>Arabic No</td><td>941.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Тело покойного) Посланника Аллаха ﷺ завернули в три белых йеменских хлопчатобумажных одеяния из Сахуля, среди которых не было ни рубахи, ни чалмы. Если говорить о верхней одежде /хулля/, то относительно этого у людей не было ясности. (Эта одежда) была куплена, чтобы использовать её как саван (для Пророка ﷺ), однако от неё отказались и его завернули в три белых йеменских одеяния из Сахуля. Что же касается этой верхней одежды, то её взял ‘Абдуллах ибн Аби Бакр, который сказал: “Я сохраню (эту одежду), чтобы она послужила для меня саваном”. Но потом он сказал: “Если бы Великому и Могучему Аллаху было угодно, (чтобы её использовали в качестве савана) для Его Пророка, то его завернули бы в эту одежду” после чего продал её, а (вырученные деньги) раздал (нуждающимся)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2179</td></tr><tr><td>Arabic No</td><td>941.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 57</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundab bin Sufyan Al-Bajali:I witnessed the Prophet (ﷺ) on the Day of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al Aswad bin Qais] saya mendengar [Jundab bin Sufyan Al Bajali] berkata; aku ikut menyaksikan Nabi shallallahu 'alaihi wasallam pada hari raya kurban, lalu beliau bersabda: "Barangsiapa menyembelih binatang kurban sebelum shalat (iedul adlha), hendaknya ia mengulangi kurbannya, dan barangsiapa belum berkurban hendaknya ia berkurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5562</td></tr><tr><td>Arabic No</td><td>5562</td></tr><tr><td>Reference</td><td>Book 73 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундуб ибн Суфьян аль-Баджали сказал: «Я видел Пророка ﷺ в День жертвоприношения, который сказал: “Пусть тот, кто зарезал животное до молитвы, зарежет другое (животное) вместо того, а тот, кто не резал, пусть режет!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5562</td></tr><tr><td>Arabic No</td><td>5562</td></tr><tr><td>Reference</td><td>Book 73 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Hawalah: The Prophet (ﷺ) said: It will turn out that you will be 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih Al Hadhrami], telah menceritakan kepada kami [Baqiyyah], telah menceritakan kepadaku [Bahir], dari [Khalid] yaitu Ibnu Ma'dan dari [Ibnu Abu Qutailah] dari [Ibnu Hawalah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Keadaannya sampai kalian menjadi tentara-tentara yang terpisah-pisah, pasukan di Syam, pasukan di Yaman, dan pasukan di Irak." Ibnu Hawalah berkata; pilihkan (tempat terbaik) untukku wahai Rasulullah apabila aku mendapati hal tersebut! Beliau berkata: "Hendaknya kalian menetap di Syam karena sesungguhnya Syam adalah bumi Allah yang paling terpilih, Allah memilih hamba-hamba pilihannya menuju kepadanya. Adapun jika kalian menolak maka hendaknya kalian menetap di Yaman, dan minumlah dari telaganya, karena sesungguhnya Allah telah menjamin untukku Negeri Syam dan penduduknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2483</td></tr><tr><td>Arabic No</td><td>2483</td></tr><tr><td>Reference</td><td>Book 15 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2483</td></tr><tr><td>Arabic No</td><td>2483</td></tr><tr><td>Reference</td><td>Book 15 Hadith 7</td></tr></tbody></table></div>
 

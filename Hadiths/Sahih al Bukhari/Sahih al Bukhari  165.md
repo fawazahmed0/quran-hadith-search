@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad Ibn Ziyad:I heard Abu Huraira saying as he passed by us while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Muhammad bin Ziyad] berkata, "Aku mendengar [Abu Hurairah] berkata saat dia lewat di hadapan kami, sementara saat itu orang-orang sedang berwudlu, "Sempurnakanlah wudlu kalian! Sesungguhnya Abul Qasim shallallahu 'alaihi wasallam bersabda: "Tumit-tumit yang tidak terkena air wudlu akan masuk neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>165</td></tr><tr><td>Arabic No</td><td>165</td></tr><tr><td>Reference</td><td>Book 4 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн Зияд сказал: \n— Я слышал, как Абу Хурайра, проходя мимо совершающих омовение людей, сказал: «Тщательно совершайте омовение, поистине, Абу аль-Касим ﷺ сказал: “Горе пяткам от (мук) огня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>165</td></tr><tr><td>Arabic No</td><td>165</td></tr><tr><td>Reference</td><td>Book 4 Hadith 31</td></tr></tbody></table></div>
 

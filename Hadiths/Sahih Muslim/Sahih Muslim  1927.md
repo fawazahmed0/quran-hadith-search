@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Basra Ghifari reported:The Messenger of Allah (ﷺ) led us in the 'Asr praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Khair bin Nu'aim Al Hadlrami] dari [Ibnu Hubairah] dari [Abu Tamim Al Jaisyani] dari [Abu Bashrah Al Ghifari] ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam mengimami kami shalat Ashar di Mukhammas. Maka beliau bersabda: "Sesungguhnya shalat Ashar ini pernah diwajibkan kepada orang-orang yang sebelum kalian, tetapi mereka sia-siakan. Karena itu, siapa yang memelihara shalat ini, dia akan mendapatkan pahala ganda. Dan tidak boleh shalat sesudahnya, hingga bintang terbit." Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [bapakku] dari [Ibnu Ishaq] ia berkata, telah menceritakan kepadaku [Yazid bin Abu Habib] dari [Khair bin Nu'aim Al Hadlrami] dari [Abdullah bin Hubairah As Saba'i] -ia adalah seorang yang tsiqqah (terpercaya) - dari [Abu Tamim Al Jaisyani] dari [Abu Bashrah Al Ghifari] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah shalat Ashar bersama kami. Yakni hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1927</td></tr><tr><td>Arabic No</td><td>830.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 355</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Басра аль-Гифари сказал: «(Однажды) Посланник Аллаха ﷺ совершил с нами послеполуденную молитву /‘аср/ в аль-Мухаммасе (долина в окрестностях Мекки), а потом сказал: “Поистине, эта молитва была предложена тем, кто жил до вас, однако они не стали совершать её. Двойную награду получит тот, кто будет неуклонно совершать (эту молитву), после которой не следует совершать никаких иных (обязательных) молитв, пока не появятся звёзды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1927</td></tr><tr><td>Arabic No</td><td>830.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 355</td></tr></tbody></table></div>
 

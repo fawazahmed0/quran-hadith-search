@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas.:I proceeded along with the Prophet (ﷺ) on the day of 'Ara
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Ibrahim bin Suwaid] telah menceritakan kepada saya ['Amru bin Abu 'Amru, Maula Al Muththolib] telah mengabarkan kepada saya [Sa'id bin Jubair, maula Walibah AL Kuwfiy] telah menceritakan kepada saya [Ibnu 'Abbas radliallahu 'anhuma] bahwasanya dia bertolak bersama Nabi Shallallahu'alaihiwasallam pada hari 'Arafah. Kemudian Nabi Shallallahu'alaihiwasallam mendengar dari arah belakang Beliau suara yang keras dan bentakan serta pukulan terhadap unta. Maka Beliau memberi isyarat kepada mereka dengan cambuknya agar tenang. Beliau berkata: "Wahai manusia, kalian harus tenang, karena kebaikan bukan dengan tergesa-gesa". Kata audho'uu sama artinya dengan asro'uu yang berarti bercepat-cepat. Kata khilaalakum berasal dari kata takhallul bainakum yang artinya diantara kalian, seperti firman Allah Ta'ala Qs Al Kahfi ayat 33 yang artinya dan Kami pancarkan diantara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1671</td></tr><tr><td>Arabic No</td><td>1671</td></tr><tr><td>Reference</td><td>Book 25 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что в день стояния на ‘Арафате он возвратился оттуда вместе с Пророком ﷺ и что, услышав позади себя громкие крики, звуки от ударов и верблюжий рёв, Пророк ﷺ сделал им знак своей плетью и сказал: «О люди, вам следует сохранять спокойствие, ибо, поистине, благочестие проявляется не в спешке!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1671</td></tr><tr><td>Arabic No</td><td>1671</td></tr><tr><td>Reference</td><td>Book 25 Hadith 151</td></tr></tbody></table></div>
 

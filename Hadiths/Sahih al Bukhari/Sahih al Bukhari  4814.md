@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Between the two blowing of the tru
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Hafsh] Telah menceritakan kepada kami [Bapakku] dia berkata; Telah menceritakan kepada kami [Al A'masy] dia berkata; Aku mendengar [Abu Shalih] berkata; Aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Antara dua tiupan sangkakala terdapat empat puluh." Mereka bertanya: Hai Abu Hurairah? Empat puluh harikah? Abu Hurairah berkata: 'Aku enggan menjawab.' Mereka bertanya: Empat puluh tahunkah? Abu Hurairah berkata: Aku enggan menjawab. Mereka bertanya: 'Empat puluh bulankah? ' Abu Hurairah berkata: Aku enggan menjawab. Ia berkata: Tidak ada sesuatupu pun melainkan telah hancur kecuali satu tulang, yaitu tulang ekor. Dari situlah manusia disusun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 65 Hadith 336</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Абу Хурайра, да будет доволен им Аллах, передал (людям, что) Пророк ﷺ сказал: «Между (первым и вторым) трубными гласами (пройдёт) сорок». (Абу Хурайра сказал): «Они спросили: “О Абу Хурайра, сорок дней?” – но я отказался (отвечать). Они (снова) спросили: “Сорок лет?” – но я отказался (отвечать). Они (снова) спросили: “Сорок месяцев?”» (Абу Хурайра, да будет доволен им Аллах,) сказал: «И я отказался (отвечать», а потом добавил, что Пророк ﷺ сказал): «И истлеют все (части тела) человека, кроме копчика, с которого (Аллах) создаст его (заново)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 65 Hadith 336</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The first Friday (i.e. Jumua) prayer offered after the Frida
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Muhammad Al Ju'fi] Telah menceritakan kepada kami [Abu 'Amir 'Abdul Malik] Telah menceritakan kepada kami [Ibrahim] yaitu Ibnu Thahman dari [Abu Jamrah] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; "Shalat Jum'at pertama kali di laksanakan di masjid Rasulullah shallallahu 'alaihi wasallam, setelah itu di laksanakan di masjid Abdul Qais yaitu di Juatsa sebuah desa di Bahrain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 64 Hadith 397</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Первой пятничной молитвой после совершённой в мечети Посланника Аллаха ﷺ была пятничная молитва, совершённая в мечети (племени) ‘абд аль-кайса в Джувасе, одном из селений Бахрейна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 64 Hadith 397</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tufail reported:I visited Abu Sariha Hudhaifa b. Usaid al-Ghifari who said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Ahmad bin Abu Khalaf]; Telah menceritakan kepada kami [Yahya bin Abu Bukair]; Telah menceritakan kepada kami [Zuhair Abu Khaitsamah]; Telah menceritakan kepadaku ['Abdullah bin 'Athaa] bahwa ['Ikrimah bin Khalid]; Telah menceritakan kepadanya bahwa [Abu Ath Thufail] Telah menceritakan kepadanya dia berkata; Aku menemui [Abu Sarihah Hudzaifah bin Asid Al Ghifari] lalu dia berkata; Aku mendengar dengan kedua telingaku ini Rasulullah shallallahu 'alaihi wasallam bersabda: Sesunggunya nuthfah disimpan di dalam rahim setelah empat puluh malam. Lalu datanglah malaikat -aku kira beliau berkata; - yang akan membentuknya seraya berkata; Ya Rabb, apakah dia laki-laki atau perempuan? Lalu Allah menjadikannya laki-laki atau perempuan. Kemudian malaikat itu berkata; Ya Rabb, apakah dia menyimpang ataukah tidak? Lalu Allah menetapkan dia menyimpang dan tidaknya. Lalu malaikat berkata; Ya Rabb, bagaimana rizkinya, ajalnya, akhlaknya? Kemudian Allah menetapkan dia bahagia atau celaka. Telah menceritakan kepada kami ['Abdul Warits bin 'Abdush Shamad]; Telah menceritakan kepadaku [Bapakku]; Telah menceritakan kepada kami [Rabi'ah bin Kultsum]; Telah menceritakan kepadaku bapakku [Kultsum] dari [Abu At Thufail] dari [Hudzaifah bin Asid Al Ghifari] sahabat Rasulullah shallallahu 'alaihi wasallam -secara marfu'-; bahwa apabila Allah ingin menciptakan sesuatu dengan izin-Nya, Dia mengutus Malaikat ke dalam rahim, setelah lebih dari empat puluh malam. -kemudian dia menyebutkan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6728</td></tr><tr><td>Arabic No</td><td>2645.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6728</td></tr><tr><td>Arabic No</td><td>2645.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safiya:(the wife of the Prophet) That she came to visit Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin 'Uqair] berkata telah bercerita kepadaku [Al Laits] berkata telah bercerita kepadaku ['Abdur Rahman bin Khalid] dari [Ibnu Syihab] dari ['Ali bin Husain] bahwa [Shafiyah, istri Nabi Shallallahu'alaihiwasallam] mengabarkan kepadanya bahwa dia pernah menemui Rasulullah Shallallahu'alaiwasallam saat Beliau sedang berbaring di dalam masjid pada sepuluh hari terakhir bulan Ramadlan. Setelah itu dia berdiri untuk kembali maka Rasulullah Shallallahu'alaiwasallam ikut pergi bersamanya hingga ketika sampai sedikit di luar pintu masjid dan dekat rumah Ummu Salamah, istri Nabi Shallallahu'alaihiwasallam, ada dua orang laki-laki Kaum Anshar yang lewat lalu keduanya memberi salam kepada Rasulullah Shallallahu'alaiwasallam kemudian bergegas pergi. Maka Rasulullah Shallallahu'alaiwasallam berkata kepada keduanya: "Sebentar (perempuan ini isteriku)!". Kedua orang itu berkata; "Maha suci Allah, wahai Rasulullah". Kedua orang itu pun merasa segan terhadap ucapan beliau. Maka kemudian Rasulullah Shallallahu'alaiwasallam bersabda: "Sesungguhnya syetan masuk kepsda manusia lewat aliran darah dan aku khawatir bila syetan telah membisikkan sesuatu dalam hati kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3101</td></tr><tr><td>Arabic No</td><td>3101</td></tr><tr><td>Reference</td><td>Book 57 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов жены Пророка ﷺ Сафиййи, да будет доволен ею Аллах, что однажды она пришла навестить Посланника Аллаха ﷺ, когда он неотлучно находился в мечети в последние десять (дней) рамадана. (Поговорив с ним некоторое время,) она поднялась, чтобы вернуться к себе, а Посланника Аллаха ﷺ поднялся вместе с ней, чтобы проводить её. Когда она дошла до ворот мечети, находившихся у дверей Умм Салямы, мимо прошли двое ансаров, которые поприветствовали Посланника Аллаха ﷺ и пошли дальше. Посланника Аллаха ﷺ сказал им: «Не спешите (это моя жена)!» Они сказали: «Преславен Аллах /Субхана-Ллах/, о Посланник Аллаха!» — и им было тяжело (слышать эти его слова). Тогда Посланника Аллаха ﷺ сказал: «Поистине, шайтан передвигается внутри человека подобно крови, и, поистине, я побоялся, что он сможет заронить в ваши сердца что-нибудь (дурное)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3101</td></tr><tr><td>Arabic No</td><td>3101</td></tr><tr><td>Reference</td><td>Book 57 Hadith 10</td></tr></tbody></table></div>
 

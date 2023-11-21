@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn Abdoullah (رضي الله عنهما) a dit : "J'ai assisté à la p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Abdul Malik bin Abu Sulaiman] dari [Atha'] dari [Jabir bin Abdullah] ia berkata; "Aku pernah ikut menunaikan shalat Khauf bersama Rasulullah shallallahu 'alaihi wasallam. Kami berbaris dua shaf di belakang Rasulullah shallallahu 'alaihi wasallam, sedangkan musuh berada tepat antara kami dan kiblat (di hadapan kami). Mula-mula Nabi shallallahu 'alaihi wasallam bertakbir, lalu kami semua ikut bertakbir. Kemudian beliau ruku' dan kami pun ikut ruku' semua. Kemudian beliau I'tidal (bangkit) dari ruku', maka kami bangkit pula semuanya. Sesudah itu, beliau turun untuk sujud bersama-sama dengan shaf yang pertama, sedangkan shaf kedua tetap berdiri untuk berjaga-jaga. Ketika Nabi shallallahu 'alaihi wasallam bersama shaf pertama telah selesai sujud dan telah berdiri, barulah shaf kedua turun untuk sujud, dan mereka terus bangun kembali. Sesudah itu, shaf kedua maju ke depan, sedangkan shaf pertama mundur. Kemudian Nabi shallallahu 'alaihi wasallam ruku' dan kami ruku' pula semuanya. Kemudian beliau bangkit dari ruku', lalu kami bangkit pula semuanya. Kemudian beliau turun untuk sujud diikuti oleh shaf yang berada di belakang beliau. Sedangkan shaf yang setelahnya (tadinya shaf pertama) tetap berdiri untuk berjaga-jaga ke arah musuh. Ketika Nabi shallallahu 'alaihi wasallam dan shaf yang berada di belakangnya telah selesai sujud, barulah shaf yang kedua turun untuk sujud. Kemudian Nabi shallallahu 'alaihi wasallam mengucapkan salam, dan kami pun mengucapkan salam semuanya." Jabir berkata; Sebagaimana yang dilakukan oleh para penjaga kalian bersama para pemimpinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1945</td></tr><tr><td>Arabic No</td><td>840.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Я присутствовал на молитве, (совершаемой под воздействием) страха /салят аль-хауф/ вместе с Посланником Аллаха ﷺ (и мы совершили её следующим образом): мы выстроились в два ряда позади него, а противник в это время находился между нами и киблой. Пророк ﷺ произнёс слова “Аллаху Акбар”, и все мы сделали то же самое вслед за ним. Затем он совершил поясной поклон, и все мы тоже совершили поясной поклон. Затем он поднялся из поясного поклона, и все мы сделали то же самое. Затем он пал ниц вместе с теми, кто стоял в первом ряду. А те, кто находился во втором ряду, продолжали стоять лицом к лицу с противником. Когда Пророк ﷺ совершил земные поклоны, люди, находящиеся в первом ряду, встали, после чего земные поклоны совершили те, которые стояли во втором ряду. Когда они встали, то первый и второй ряды поменялись местами. Затем Пророк ﷺ совершил поясной поклон, и все мы тоже совершили поясной поклон. Затем он поднялся из поясного поклона, и все мы сделали то же самое. Затем он пал ниц вместе с теми, кто стоял в первом ряду. Это были люди, которые в течение первого рак‘ата находились во втором ряду. А те, кто стоял во втором ряду, продолжали стоять лицом к лицу с противником. После того как Пророк ﷺ и молящиеся в первом ряду совершили земные поклоны, ниц пали те, кто стоял во втором ряду. Они также совершили земные поклоны, после чего Пророк ﷺ произнес слова приветствия /таслим/, и все мы сделали то же самое вслед за ним».Далее Джабир сказал: «(Все было точно так,) как поступают эти ваши стражи, когда охраняют своих повелителей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1945</td></tr><tr><td>Arabic No</td><td>840.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 373</td></tr></tbody></table></div>
 

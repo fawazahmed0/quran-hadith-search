@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Five practices are character
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan], [Az Zuhri] mengatakan; telah menceritakan kepada kami dari [Sa'id bin Musayyab] dari [Abu Hurairah] secara periwayatan, (sunnah-sunnah) fitrah itu ada lima, atau lima dari sunnah-sunnah fitrah, yaitu; berkhitan, mencukur bulu kemaluan, mencabut bulu ketiak, memotong kuku dan mencukur kumis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5889</td></tr><tr><td>Arabic No</td><td>5889</td></tr><tr><td>Reference</td><td>Book 77 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что (Пророк ﷺ сказал): «Естественными /фитра/ являются пять (вещей) /или: Пять (вещей) являются естественными…/: обрезание, сбривание волос с лобка, выщипывание волос подмышками, подстригание ногтей и укорачивание усов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5889</td></tr><tr><td>Arabic No</td><td>5889</td></tr><tr><td>Reference</td><td>Book 77 Hadith 106</td></tr></tbody></table></div>
 

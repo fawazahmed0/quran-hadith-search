@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Juraij reported:I said to Nafi: What is that which you heard Ibn, Umar decla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Muhammad bin Bakr] telah menceritakan kepada kami [Ibnu Juraij] ia berkata; saya bertanya kepada [Nafi'], "Apa yang telah Anda dengar dari [Ibnu Umar] mengenai binatang yang halal untuk dibunuh saat Ihram?" maka Nafi' pun berkata kepadaku; Abdullah berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Ada lima jenis binatang yang tidak ada dosa bagi yang membunuhnya, yaitu; gagak, elang, kalajengking, tikus dan anjing gila." Dan Telah menceritakannya kepada kami [Qutaibah bin Sa'id] dan [Ibnu Rumh] dari [Laits bin Sa'd] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Jarir bin Hazim] dari [Nafi'] -dalam riwayat lain-Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] semuanya dari [Ubaidullah] -dalam riwayat lain- Dan telah menceritakan kepadaku [Abu Kamil] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Yahya bin Sa'id] semuanya dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, yakni sebagaimana haditsnya Malik dan Ibnu Juraij, namun tidak satu pun dari mereka yang menyebutkan; "Dari Nafi', dari Ibnu Umar radliallahu 'anhuma; Saya mendengar Nabi shallallahu 'alaihi wasallam" kecuali Ibnu Juraij sendiri dan Ibnu Ishaq juga mengikuti Ibnu Juraij dalam hal itu. Dan telah menceritakannya kepadaku [Fadl bin Sahl] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Muhammad bin Ishaq] dari [Nafi'] dan [Ubaidullah bin Abdullah] dari [Ibnu Umar] radliallahu 'anhuma, ia berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Ada lima jenis binatang yang tidak ada dosa dalam membunuhnya saat Ihram…" maka ia pun menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2873</td></tr><tr><td>Arabic No</td><td>1199.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2873</td></tr><tr><td>Arabic No</td><td>1199.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
 

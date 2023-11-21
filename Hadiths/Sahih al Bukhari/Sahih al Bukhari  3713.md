@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu Bakr: Look at Muhammad through his family (i.e. if you are no good to his fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin 'Abdul Wahhab] telah bercerita kepada kami [Khalid] telah bercerita kepada kami [Syu'bah] dari [Waqid] berkata; aku mendengar [bapakku] bercerita dari [Ibnu 'Umar radliallahu 'anhuma] tentang [Abu Bakr] radliallahu 'anhum yang berkata; "Peliharalah hubungan dengan Muhammad shallallahu 'alaihi wasallam dengan cara menjaga hubungan dengan ahli bait beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3713</td></tr><tr><td>Arabic No</td><td>3713</td></tr><tr><td>Reference</td><td>Book 62 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр, да будет доволен им Аллах, сказал: «Чтите Мухаммада ﷺ в том, что касается членов его семьи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3713</td></tr><tr><td>Arabic No</td><td>3713</td></tr><tr><td>Reference</td><td>Book 62 Hadith 62</td></tr></tbody></table></div>
 

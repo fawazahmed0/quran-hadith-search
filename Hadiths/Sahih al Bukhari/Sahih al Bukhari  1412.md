@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The Hour (Day of Judgment) will no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari ['Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam bersabda: "Tidak akan terjadi hari qiyamat hingga terjadi pada kalian harta yang banyak melimpah kemudian timbul kekacauan. Saat itu pemilik harta berharap ada orang yang mau menerima shadaqahnya dan hingga dia menawar-nawarkannya, lalu berkata, orang yang ditawarkan; aku tidak membutuhkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1412</td></tr><tr><td>Arabic No</td><td>1412</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не настанет Час этот до тех пор, пока не умножатся ваши богатства до такой степени, (что вам некуда будет их девать,) а обладатель богатства будет озабочен поисками того, кто принял бы от него милостыню, когда же он станет предлагать её, тот, кому он её предложит, скажет: “Я не нуждаюсь (в ней)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1412</td></tr><tr><td>Arabic No</td><td>1412</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
 

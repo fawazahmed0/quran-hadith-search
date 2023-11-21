@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:I thought about giv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An-Nufaili] telah menceritakan kepada kami [Abu Al-Malih] telah menceritakan kepadaku [Yazid bin Yazid] telah menceritakan kepadaku [Yazid bin Al-Asham] dia berkata; Saya telah mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Sungguh saya ingin sekali memerintahkan para pemudaku untuk mengumpulkan tumpukan tumpukan kayu bakar, kemudian saya pergi mendatangi kaum yang mengerjakan shalat di rumah rumah mereka tanpa udzur, lalu saya membakar rumah rumah mereka." Kata Yazid bin Yazid Saya katakan kepada Yazid bin Asham; Wahai Abu Auf, apakah Shalat Jumat yang dimaksud Nabi shallallahu 'alaihi wasallam ataukah lainnya? Dia menjawab; Kedua telingaku tersumbat, sekiranya saya tidak mendengar Abu Hurairah meriwayatkannya dari Rasulullah shallallahu 'alaihi wasallam, sama sekali beliau tidak menyebutkan shalat Jumat dan juga shalat yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (651)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>549</td></tr><tr><td>Arabic No</td><td>549</td></tr><tr><td>Reference</td><td>Book 2 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Язида ибн аль-Асамма о том, что он слышал, как Абу Хурайра говорил: «Посланник Аллаха ﷺ сказал: “Я было вознамерился велеть своим юношам собрать вязанку дров, затем пойти к людям, которые без повода молятся у себя дома и поджечь (их дома) вместе с ними”».Я сказал Язиду ибн аль-Асамму: «О Абу ‘Ауф, он имел ввиду пятничную молитву или другую?» Он ответил: «Чтоб я оглох, если я не слышал, как Абу Хурайра передавал это от Посланника Аллаха ﷺ и он не упоминал ни о пятничной молитве, ни о другой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (651)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>549</td></tr><tr><td>Arabic No</td><td>549</td></tr><tr><td>Reference</td><td>Book 2 Hadith 159</td></tr></tbody></table></div>
 

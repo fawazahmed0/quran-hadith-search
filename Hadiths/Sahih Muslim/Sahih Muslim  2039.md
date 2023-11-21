@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that when 'Abdullah (b. 'Umar) observed the Friday prayer and cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata, telah mengabarkan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits] dari [Nafi'] dari [Abdullah] bahwasanya bila ia telah menunaikan shalat Jum'at, maka ia pulang dan shalat dua raka'at di rumahnya. Kemudian ia berkata, "Rasulullah shallallahu 'alaihi wasallam biasa melakukan amalan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2039</td></tr><tr><td>Arabic No</td><td>882.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а о том, что обычно после пятничной молитвы, ‘Абдуллах (ибн ‘Умар) уходил и совершал (молитву) в два земных поклона у себя дома. Затем он сказал: «Так делал Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2039</td></tr><tr><td>Arabic No</td><td>882.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 89</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:The Prophet (ﷺ) said, "Do not wish to be like an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepadaku [Isma'il bin Abu Khalid] -dengan lafazh hadits yang lain dari yang dia ceritakan kepada kami dari Az Zuhri- berkata; aku mendengar [Qais bin Abu Hazim] berkata; aku mendengar [Abdullah bin Mas'ud] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Tidak boleh mendengki kecuali terhadap dua hal; (terhadap) seorang yang Allah berikan harta lalu dia pergunakan harta tersebut di jalan kebenaran dan seseorang yang Allah berikan hikmah lalu dia mengamalkan dan mengajarkannya kepada orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>73</td></tr><tr><td>Arabic No</td><td>73</td></tr><tr><td>Reference</td><td>Book 3 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: \n— Я слышал, как Къайс ибн Абу Хазим сказал: \n— Я слышал, как ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: „Не следует завидовать никому, кроме (обладающих) двумя качествами: человеку, которому Аллах даровал богатство и который был направлен к тому, чтобы без остатка потратить его на должное, и человеку, которому Аллах даровал мудрость и который поступает сообразно ей и передаёт её (другим)“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>73</td></tr><tr><td>Arabic No</td><td>73</td></tr><tr><td>Reference</td><td>Book 3 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ata said:When Ibn 'Umar offered the Friday prayer in Mecca he would go forward a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdul Aziz bin Abu Rizmah Al Marwazi] telah mengabarkan kepada kami [Al Fadl bin Musa] dari [Abdul Hamid bin Ja'far] dari [Yazid bin Abu Habib] dari ['Atha'] dari [Ibnu Umar] dia berkata; Apabila di Makkah, dia mengerjakan shalat Jum'at, lalu maju kemudian dia mengerjakan shalat (sunnah) dua raka'at, sesudah itu beliau maju kembali dan mengerjakan shalat empat raka'at, apabila di Madinah, dia shalat Jum'at kemudian pulang ke rumahnya lalu shalat dua raka'at, dan tidak shalat di Masjid, lalu di beritahukan kepadanya, maka dia menjawab; "Rasulullah shallallahu 'alaihi wasallam juga melakukan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>1130</td></tr><tr><td>Reference</td><td>Book 2 Hadith 741</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата рассказывал: «Когда Ибн ‘Умар находится в Мекке, он совершал пятничную молитву, а затем двигался (немного) вперёд и совершал два рак‘ата (добровольной) молитвы. Затем он (вновь) двигался (немного) вперёд и совершал (добровольную) молитву в четыре (рак‘ата). А, находясь в Медине, он совершал пятничную молитву, а затем возвращался домой и совершал два рак‘ата, не совершая (добровольных) молитв в мечети. Когда его спросили об этом, он ответил: “Так поступал Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>1130</td></tr><tr><td>Reference</td><td>Book 2 Hadith 741</td></tr></tbody></table></div>
 

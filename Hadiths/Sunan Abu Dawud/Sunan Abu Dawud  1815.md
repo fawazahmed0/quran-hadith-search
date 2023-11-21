@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Fadl bin Abbas said The Apostle of Allaah(ﷺ) uttered talbiyah till he threw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal] telah menceritakan kepada Kami [Waki'] telah menceritakan kepada Kami [Ibnu Juraij] dari ['Atha'] dari [Ibnu Abbas] dari [Al Fadhl bin Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bertalbiyah hingga melempar jumrah 'aqabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1685) Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1815</td></tr><tr><td>Arabic No</td><td>1815</td></tr><tr><td>Reference</td><td>Book 11 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Фадля ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ произносил тальбию до тех пор, пока не бросил камешки в последний столб (джамрат аль-‘акаба)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1685) Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1815</td></tr><tr><td>Arabic No</td><td>1815</td></tr><tr><td>Reference</td><td>Book 11 Hadith 95</td></tr></tbody></table></div>
 

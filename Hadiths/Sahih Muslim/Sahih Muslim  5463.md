@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraire reported that he saw a person whose lower garment bad been trailin. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Muhammad] yaitu Ibnu Ziyad ia berkata; Aku pernah mendengar [Abu Hurairah], ketika dia melihat seorang lelaki yang menyeret kainnya sambil menghentakkan kakinya ke tanah dan ternyata orang tersebut adalah seorang penguasa Bahrain, dia berkata; 'Amir datang! Amir datang! Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah tidak akan melihat kepada orang yang memanjangkan kainnya karena sombong." Dan telah menceritakan kepada kami [Muhammad bin Basyar], Telah menceritakan kepada kami [Muhammad bin Ja'far] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami [Ibnu Al Mutsanna], Telah menceritakan kepada kami [Ibnu Abu Adi] keduanya dari [Syu'bah] dengan sanad ini juga. Dan di dalam Hadits Ibnu Ja'far di sebutkan, bahwa Marwan pernah mengangkat Abu Hurairah… sedangkan di dalam Hadits Al Mutsanna disebutkan, bahwa Abu Hurairah diangkat menjadi wali di kota Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5463</td></tr><tr><td>Arabic No</td><td>2087.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5463</td></tr><tr><td>Arabic No</td><td>2087.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 78</td></tr></tbody></table></div>
 

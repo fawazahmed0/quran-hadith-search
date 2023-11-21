@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hammam:The Prophet (ﷺ) performed four 'Umra (three) in Dhi-l-Qa'da ex
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] telah menceritakan kepada kami [Hammam] dari [Qatadah] berkata; Aku bertanya kepada [Anas radliallahu 'anhu] tentang sesuatu, lalu dia berkata: "Nabi shallallahu 'alaihi wasallam melaksanakan 'umrah sebanyak empat kali. Yaitu 'umrah ketika mereka (Kaum Musyrikin) menghalangi Beliau, 'umrah pada tahun berikutnya yaitu 'umrah Al Hudaibiyah, 'umrah pada bulan Dzul Qa'dah dan 'umrah saat Beliau menunaikan haji". Telah menceritakan kepada kami [Hudbah] telah menceritakan kepada kami [Hammam] dan dia berkata: "Beliau shallallahu 'alaihi wasallam melaksanakan 'umrah sebanyak empat kali yang kesemuanya pada bulan Dzul Qa'dah kecuali 'umrah yang Beliau laksanakan bersama hajinya. Yaitu 'umrah Beliau dari Al Hudaibiyah, 'umrah pada tahun berikutnya, 'umrah Al Ji'ranah saat Beliau membagi-bagikan ghanimah (harta rampasan perang) Hunain dan 'umrah dalam 'ibadah haji Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1780</td></tr><tr><td>Arabic No</td><td>1780</td></tr><tr><td>Reference</td><td>Book 26 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаммам сказал: «Пророк ﷺ совершил четыре ‘умры в месяц зуль-ка‘да, кроме (одной) ‘умры, которую он совершил во время своего хаджа: это его ‘умра из аль-Худайбийи, и ‘умра, совершённая в следующем году, и та, которую он совершил из аль-Джи‘раны, где он распределил трофеи Хунайна, и другая ‘умра, которую он совершил вместе с хаджем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1780</td></tr><tr><td>Arabic No</td><td>1780</td></tr><tr><td>Reference</td><td>Book 26 Hadith 7</td></tr></tbody></table></div>
 

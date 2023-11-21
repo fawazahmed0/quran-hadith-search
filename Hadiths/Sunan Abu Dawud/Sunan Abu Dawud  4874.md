@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:The Messenger of Allah (ﷺ) was asked: Messenger of Allah! Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Muhammad- dari [Al 'Ala'] dari [Bapaknya] dari [Abu Hurairah] berkata, "Rasulullah pernah ditanya, "Wahai Rasulullah, apa yang dimaksud dengan ghibah?" beliau menjawab: "Engkau menyebut tentang saudaramu yang ia tidak sukai." Beliau ditanya lagi, "Bagaimana pendapatmu jika apa yang ada pada saudaraku sesuai dengan yang aku omongkan?" Beliau menjawab: "Jika apa yang engkau katakan itu memang benar-benar ada maka engkau telah berbuat ghibah, namun jika tidak maka engkau telah berbuat fitnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2589)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4874</td></tr><tr><td>Arabic No</td><td>4874</td></tr><tr><td>Reference</td><td>Book 43 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланника Аллаха ﷺ спросили: «Что такое хула /гыба/, о Посланник Аллаха?» (Пророк ﷺ) сказал: «(Это когда) упоминаешь ты о брате твоём так, что это не понравилось бы ему». (Его) спросили: «Скажи, а если присуще брату моему то, о чём я скажу?» (Пророк ﷺ) сказал: «Если ему присуще то, о чём ты скажешь, значит, ты злословишь о нём, а если он не таков, значит, ты возведёшь на него напраслину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2589)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4874</td></tr><tr><td>Arabic No</td><td>4874</td></tr><tr><td>Reference</td><td>Book 43 Hadith 102</td></tr></tbody></table></div>
 

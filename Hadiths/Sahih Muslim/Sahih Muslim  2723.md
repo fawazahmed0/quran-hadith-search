@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:The Messenger of Allah (ﷺ) did not
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Yahya bin Abu Katsir] telah menceritakan kepada kami [Abu Usamah] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam tidak pernah berpuasa banyak di bulan tertentu dalam satu tahun, melebihi puasa beliau ketika pada bulan Sya'ban. Dan beliau bersabda: "Lakukanlah amalan yang mampu kalian lakukan, karena Allah tidak akan bosan hingga kalian sendirilah yang bosan. Dan Amalah yang paling disukai Allah adalah amalan yang terus-menerus dilakukan meskipun sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2723</td></tr><tr><td>Arabic No</td><td>782.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2723</td></tr><tr><td>Arabic No</td><td>782.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 229</td></tr></tbody></table></div>
 

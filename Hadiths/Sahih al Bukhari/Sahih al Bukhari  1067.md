@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:The Prophet (ﷺ) recited Suratan-Najm (103) at Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] berkata; aku mendengar [Al Aswad] dari ['Abdullah radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam membaca surah An-Najm ketika berada di Makkah. Maka Beliau sujud tilawah begitu juga orang-orang yang bersama Beliau. Kecuali ada seorang yang tua, dia hanya mengambil segenggam kerikil atau tanah lalu menempelkannya pada mukanya seraya berkata; "bagiku cukup begini". Di kemudian hari aku melihat orang itu terbunuh dalam kekafiran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1067</td></tr><tr><td>Arabic No</td><td>1067</td></tr><tr><td>Reference</td><td>Book 17 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Как-то раз) в Мекке Пророк ﷺ читавший суру “Звезда”, совершил во время чтения земной поклон. Вместе с ним поклонились и все присутствовавшие, за исключением одного старца, который поднял с пола горсть мелких камешков или земли, поднёс их ко лбу и сказал: “Довольно с меня и этого”, а потом я видел, что его убили как неверного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1067</td></tr><tr><td>Arabic No</td><td>1067</td></tr><tr><td>Reference</td><td>Book 17 Hadith 1</td></tr></tbody></table></div>
 

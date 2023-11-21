@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abdullah b. Umar that the Apostle (may peace 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Bakar bin Khallad al-Bahili] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Waqid bin Muhammad bin Zaid] bahwa dia mendengar [bapaknya] menceritakan dari [Abdullah bin Umar] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau shallallahu 'alaihi wasallam bersabda saat haji Wada': "Celakalah kalian, " atau beliau berkata, "Neraka Wail untuk kalian, janganlah kalian kembali kafir sesudah (kematian) ku, sebagian kalian memenggal leher sebagian yang lain." Dan telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Abdullah bin Wahab] dia berkata, telah menceritakan kepadaku [Umar bin Muhammad] bahwa [bapaknya] menceritakan kepadanya dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, seperti hadits Syu'bah, dari Waqid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>225</td></tr><tr><td>Arabic No</td><td>66.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается от ‘Абдуллаха ибн ‘Умара, что во время прощального паломничества Пророк ﷺ сказал: «Горе вам, не становитесь после меня неверными, которые рубят друг другу головы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>225</td></tr><tr><td>Arabic No</td><td>66.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
 

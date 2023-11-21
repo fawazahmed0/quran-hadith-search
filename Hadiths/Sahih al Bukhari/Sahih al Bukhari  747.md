@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:(And Al-Bara was not a liar) Whenever we offered prayer with th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Syu'ah] berkata, [Abu Ishaq] memberitakan kepada kami bahwa dia berkata, "Aku mendengar ['Abdullah bin Yazid] berkhutbah; [Al Bara'] menceritakan kepada kami -dan ia bukan seorang pendusta-, "Para sahabat jika shalat bersama Nabi shallallahu 'alaihi wasallam, jika beliau mengangkat kepalanya dari rukuk, para sahabat tetap berdiri sampai mereka melihat beliau telah sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>747</td></tr><tr><td>Arabic No</td><td>747</td></tr><tr><td>Reference</td><td>Book 10 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Хаджадж:\n— Рассказал нам Шу‘ба, который сказал:\n— Поведал нам Абу Исхакъ, который сказал:\n— Я слышал, как ‘Абдуллах ибн Язид во время своей проповеди сказал: «Рассказал нам аль-Бараъ (ибн ‘Азиб), да будет доволен им Аллах, который не был лжецом, о том, что они молились с Пророком ﷺ и когда он поднимал голову с поясного поклона, они стояли до тех пор, пока они не видели, что он уже склонился в земном поклоне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>747</td></tr><tr><td>Arabic No</td><td>747</td></tr><tr><td>Reference</td><td>Book 10 Hadith 141</td></tr></tbody></table></div>
 

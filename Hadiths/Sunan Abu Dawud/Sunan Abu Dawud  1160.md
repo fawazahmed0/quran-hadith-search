@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The rain fell on the day of 'Id (festival) , so the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Al Walid] dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Ar Rabi' bin Sulaiman] telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami seorang dari pedesaan yang Ar Rabi' beri nama dalam haditsnya [Isa bin Abdul A'la bin Abi Farawwah] dia mendengar [Abu Yahya 'Ubaidullah Attaimi] mengatakan dari [Abu Hurairah] berkata; bahwa kami pernah kehujanan pada waktu pelaksanaan shalat Ied, maka Nabi shallallahu 'alaihi wasallam melaksanakannya di masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1160</td></tr><tr><td>Arabic No</td><td>1160</td></tr><tr><td>Reference</td><td>Book 2 Hadith 771</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ совершал с ними праздничную молитву в мечети в дождливый день
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1160</td></tr><tr><td>Arabic No</td><td>1160</td></tr><tr><td>Reference</td><td>Book 2 Hadith 771</td></tr></tbody></table></div>
 

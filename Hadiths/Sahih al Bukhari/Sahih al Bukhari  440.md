@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah bin 'Umar said: I used to sleep in the mosque of the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] berkata, telah menceritakan kepadaku [Nafi'] berkata, telah mengabarkan kepadaku ['Abdullah bin 'Umar], bahwa ia pernah tidur di masjid Nabi shallallahu 'alaihi wasallam saat dia masih pemuda lajang dan belum punya keluarga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>440</td></tr><tr><td>Reference</td><td>Book 8 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «‘Абдуллах (ибн ‘Умар, да будет доволен Аллах ими обоими,) рассказывал мне о том, что (при жизни Посланника Аллаха ﷺ) когда он ещё был неженатым юношей, не имевшим семьи, он часто оставался спать в мечети Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>440</td></tr><tr><td>Reference</td><td>Book 8 Hadith 89</td></tr></tbody></table></div>
 

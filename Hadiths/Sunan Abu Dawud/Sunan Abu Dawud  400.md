@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The extent of the shadow when the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abidah bin Humaid] dari [Abu Malik Al Asyja'i, Sa'd bin Thariq] dari [Katsir bin Mudrik] dari [Al Aswad] bahwasanya [Abdullah bin Mas'ud] berkata; bahwasanya Rasulullah shallallahu 'alaihi wasallam shalat Zhuhur pada musim dingin disaat sekitar panjang bayangan tiga kaki hingga lima kaki, dan apabila musim panas sekitar lima kaki hingga tujuh kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Асвада о том, что ‘Абдуллах ибн Мас‘уд сказал: «Когда Посланник Аллаха ﷺ совершал (полуденную) молитву, длина тени (отбрасываемого от предмета) равнялось от трех до пяти ступней летом и от пяти до семи ступней зимой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
 

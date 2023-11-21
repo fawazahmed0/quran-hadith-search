@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) invited a non-Muslim. Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami [Ishaq bin 'Isa]; Telah mengabarkan kepada kami [Malik] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam kedatangan tamu orang kafir. Lalu Rasulullah shallallahu 'alaihi wasallam menyuruh pembantunya memerah susu seekor kambing untuk tamu, lalu diminum habis oleh tamu tersebut. Kemudian beliau menyuguhkan lagi, dan habis pula diminumnya. Di suguhkannya lagi, ia pun masih tetap meminumnya, sehingga akhirnya dia meminum habis susu perahan tujuh ekor kambing. Beberapa waktu kemudian dia masuk Islam. Rasulullah memerintahkan supaya diperah seekor kambing untuknya. Susu itu diminumnya habis. Kemudian Nabi shallallahu 'alaihi wasallam menyuruh supaya diperah seekor lagi lalu diberikan pula kepadanya, tetapi dia tidak sanggup menghabiskannya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang mukmin minum dengan satu usus (perut), dan orang kafir minum dengan tujuh usus (perut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5379</td></tr><tr><td>Arabic No</td><td>2063</td></tr><tr><td>Reference</td><td>Book 36 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5379</td></tr><tr><td>Arabic No</td><td>2063</td></tr><tr><td>Reference</td><td>Book 36 Hadith 253</td></tr></tbody></table></div>
 

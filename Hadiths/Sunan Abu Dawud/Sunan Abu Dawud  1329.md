@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuQatadah: The Prophet (ﷺ) went out at night and found AbuBakr prayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Tsabit Al Bunani] dari Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Al Hasan bin As Shabah] telah menceritakan kepada kami [Yahya bin Ishaq] telah mengabarkan kepada kami [Hammad bin Salamah] dari [Tsabit Al Bunani] dari [Abdullah bin Rabah] dari [Abu Qatadah] bahwa pada suatu malam Nabi shallallahu 'alaihi wasallam keluar, lalu beliau mendapati Abu Bakar radliallahu 'anhu yang tengah shalat dengan memelankan suaranya." Abu Qatadah berkata; "Dan beliau juga bertemu dengan Umar bin Khattab yang tengah shalat dengan mengangkat suaranya." Abu Qatadah melanjutkan; "Ketika keduanya berkumpul di hadapan Nabi shallallahu 'alaihi wasallam, beliau bersabda kepada Abu Bakar: "Aku melawatimu ketika kamu sedang shalat dengan memelankan suara." Abu Bakar menjawab; "Suaraku hanya cukup di dengar (Allah) tempatku bermunajat wahai Rasulullah." Abu Qatadah berkata; "Lalu beliau bersabda kepada Umar: "Sedangkan kamu mengangkat suaramu." Abu Qatadah berkata; "Wahai Rasulullah, supaya saya dapat membangunkan orang tidur dan mengusir syetan." Hasan menambahkan dalam haditsnya; "Lalu Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Abu Bakar, angkatlah suaramu sedikit." Dan beliau bersabda kepada Umar: "Rendahkanlah suaramu sedikit!." Telah menceritakan kepada kami [Abu Hushain bin Yahya Ar Razi] telah menceritakan kepada kami [Asbath bin Muhammad] dari [Muhammad bin 'Amru] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan kisah seperti ini, namun dia tidak menyebutkan; "Maka beliau bersabda kepada Abu Bakar: "Angkatlah suaramu sedikit" dan bersabda kepada Umar: "Rendahkanlah suaramu sedikit." Dia menambahkan; "Aku benar-benar telah mendengarmu wahai Bilal, kamu sedang membaca surat ini dan surat ini." Bilal menjawab; "(Al Qur'an) itu adalah kalam (perkataan) yang semuanya baik, di susun oleh Allah Ta'ala dari satu bagian ke bagian yang lainnya." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kalian semua benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>1329</td></tr><tr><td>Reference</td><td>Book 5 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Катады, да будет доволен им Аллах, что однажды ночью Пророк ﷺ вышел из дома и, проходя мимо Абу Бакра, услышал, что он совершает молитву тихо, а проходя мимо ‘Умара ибн аль-Хаттаба , услышал, что он совершает молитву громко. А когда позже они оба пришли к нему, Пророк ﷺ сказал: «О Абу Бакр, проходя мимо тебя, я слышал, как ты совершаешь молитву, понизив голос». Абу Бакр сказал в ответ: «Меня слышал Тот, с Кем я веду тайную беседу». Потом Посланник Аллаха ﷺ сказал ‘Умару: «А проходя мимо тебя, я слышал, как ты совершаешь молитву, повысив голос». ‘Умар сказал в ответ: «О Посланник Аллаха! Я будил дремлющих и прогонял шайтана». Аль-Хасан добавляет в своей версии, что Пророк ﷺ сказал: «О Абу Бакр, немного повышай голос». А ‘Умару он сказал: «Понизь голос немного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>1329</td></tr><tr><td>Reference</td><td>Book 5 Hadith 80</td></tr></tbody></table></div>
 

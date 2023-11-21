@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr b. al-'As reported that Allah's Messenger (ﷺ) said:How would 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Sawwad Al Amiri] telah mengkhabarkan kepada kami [Abdullah bin Wahb] telah mengkhabarkan kepadaku [Amru bin Al Harits] bahwa [Bakr bin Sawadah] telah menceritakan kepadanya bahwa [Yazid bin Rabah Abu Firas] maula Abdullah bin Amru bin Al Ash telah menceritakan kepadanya dari [Abdullah bin Amru bin Al Ash] dari Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Apabila Persia dan Romawi telah ditaklukkan untuk kalian, maka akan menjadi kaum seperti apakah kalian?" Abdurrahman bin Auf menjawab: Kami akan mengucap yang diperintahkan Allah kepada kami. Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bukan sebaliknya?!, kalian saling berlomba-lomba, saling menghasud, saling memutuskan hubungan, saling marah-marahan, dan sejenisnya, kemudian kalian akan pergi ke tempat orang-orang miskin dari kaum muhajirin lalu menjadikan sebahagian mereka sebagai pemimpin bagi sebahagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7427</td></tr><tr><td>Arabic No</td><td>2962</td></tr><tr><td>Reference</td><td>Book 55 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса (да будет доволен Аллах ими обоими) о том, что (как- то раз) Посланник Аллаха ﷺ спросил (своих сподвижников): «Какими людьми вы станете, если вам будет дарована победа над Персией и Византией?» ‘Абдуррахман ибн ‘Ауф сказал: «Мы будем говорить то, что повелел нам Аллах». Посланник Аллаха ﷺ сказал: «А может быть, (случится) нечто иное, и станете вы (сначала) соперничать друг с другом, потом завидовать друг другу, потом отворачиваться друг от друга, потом возненавидите друг друга (или он сказал нечто подобное), а потом двинетесь к жилищам (слабых из числа) мухаджиров и сделаете одних из них повелителями других?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7427</td></tr><tr><td>Arabic No</td><td>2962</td></tr><tr><td>Reference</td><td>Book 55 Hadith 11</td></tr></tbody></table></div>
 

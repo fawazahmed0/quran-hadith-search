@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If anyone kills a gecko with the f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah Al Bazzaz] berkata, telah menceritakan kepada kami [Isma'il bin Zakariya] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membunuh cicak dengan sekali pukulan maka ia mendapatkan pahala sekian dan sekian kebaikan. Barangsiapa membunuhnya dengan dua kali pukulan maka ia mendapatkan sekian dan sekian kebaikan, lebih rendah dari yang pertama. Dan barangsiapa membunuhnya dengan tiga kali pukulan maka ia akan mendapatkan sekian dan sekian kebaikan, lebih rendah dari yang kedua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2240)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5263</td></tr><tr><td>Arabic No</td><td>5263</td></tr><tr><td>Reference</td><td>Book 43 Hadith 491</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тому, кто убьёт ящерицу с первого удара, (запишется) столько-то добрых дел, тому, кто убьёт ящерицу со второго удара, (запишется) на столько-то добрых дел меньше(, чем первому), а тому, кто убьёт ящерицу с третьего удара, (запишется) на столько-то добрых дел меньше(, чем второму)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2240)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5263</td></tr><tr><td>Arabic No</td><td>5263</td></tr><tr><td>Reference</td><td>Book 43 Hadith 491</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) was of moderate height having broad shoulders
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Bara' bin 'Azib radliallahu 'anhuma] berkata; "Nabi shallallahu 'alaihi wasallam adalah seorang yang berdada bidang, jarak antara kedua bahunya agak panjang. Beliau mempunyai rambut hingga menyentuh ujung telinga. Dan aku pernah melihat beliau mengenakan baju merah dan tidak pernah kulihat ada yang lebih bagus dari baju itu". [Yusuf bin Abu Ishaq] berkata dari [bapaknya]; "Rambut beliau terjuntai hingga menyentuh pundak beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3551</td></tr><tr><td>Arabic No</td><td>3551</td></tr><tr><td>Reference</td><td>Book 61 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ был среднего роста, (у него были) широкие плечи, а его волосы доходили до мочек ушей. (Однажды) я увидел его в одежде красного цвета, и не приходилось мне видеть никого приятнее (на вид), чем он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3551</td></tr><tr><td>Arabic No</td><td>3551</td></tr><tr><td>Reference</td><td>Book 61 Hadith 60</td></tr></tbody></table></div>
 

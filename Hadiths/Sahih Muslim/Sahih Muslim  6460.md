@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The best women who ride t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abad bin Humaid] keduanya. [Ibnu Rafi'] berkata; Telah menceritakan kepada kami. Sedangkan ['Abad] berkata; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Bapaknya] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik wanita yang mengendarai unta adalah sebaik-baik wanita Quraisyy, mereka teramat sayang dengan anak-anak di waktu kecilnya dan menta'ati suami dalam menjaga hartanya." Telah menceritakan kepadaku [Ahmad bin 'Utsman bin Hakim Al Aud]; Telah menceritakan kepada kami [Khalid] yaitu Ibnu Makhlad; Telah menceritakan kepadaku [Sulaiman] yaitu Ibnu Bilal; Telah menceritakan kepadaku [Suhail] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam yang sama dengan Hadits Ma'mar ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6460</td></tr><tr><td>Arabic No</td><td>2527.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 289</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6460</td></tr><tr><td>Arabic No</td><td>2527.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 289</td></tr></tbody></table></div>
 

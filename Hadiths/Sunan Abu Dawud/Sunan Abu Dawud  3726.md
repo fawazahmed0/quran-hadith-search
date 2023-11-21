@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:The Prophet (ﷺ) was brought milk that was mixed with water.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam pernah diberi susu yang telah dicampur dengan air, sementara di samping kanan beliau ada seorang badui, dan di samping kiri beliau ada Abu Bakr. Beliau kemudian minum dan memberikan kepada orang badui tersebut seraya berkata: "Dahulukan yang di samping kanan, dahulukan yang di samping kanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5619) Sahih Muslim (2029)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 27 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что однажды Пророку ﷺ принесли чашу молока, разведённого водой (чтобы получался прохладный напиток), и справа от него сидел какой-то бедуин, а слева Абу Бакр. Он попил и передал чашу бедуину со словами: «Нужно передавать (питьё) сидящему справа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5619) Sahih Muslim (2029)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 27 Hadith 58</td></tr></tbody></table></div>
 

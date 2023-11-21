@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi 'Aufa:We were afflicted with hunger during the besiege of Khaib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami ['Abdul Wahid] telah bercerita kepada kami [asy-Syaibaniy] berkata aku mendengar [Ibnu Abi Arfaa radliallahu 'anhu] berkata; "Kami mengalami kelaparan pada beberapa malam saat perang Khaibar. Dan ketika hari penaklukan Khaibar, kami dapatkan keledai-keledai piaraan penduduk, maka kami menyembelihnya. Ketika periuk-periuk sudah mendidih, penyeru Rasulullah Shallallahu'alaihiwasallam mengumandangkan seruan; "Tumpahkanlah periuk-periuk itu dan janganlah kalian memakan daging-daging keledai sedikitpun". 'Abdullah berkata; "Kami berpendapat bahwa Nabi Shallallahu'alaihiwasallam melarang memakannya karena belum dibagikan bagian seperlima (ghanimahnya) ". 'Abdullah berkata lagi; "Namun sebagian orang ada yang berpendapat bahwa Beliau melarangnya secara mutlak lalu aku bertanya kepada Sa'id bin Jubair, maka dia menjawab; "Beliau melarangnya secara mutlak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3155</td></tr><tr><td>Arabic No</td><td>3155</td></tr><tr><td>Reference</td><td>Book 57 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Ауфа, да будет доволен Аллах им и его отцом, сказал: «В дни завоевания Хайбара нас постиг голод, а когда наступил день (открытия) Хайбара, мы закололи домашних ослов. Когда закипели котлы (с их мясом), глашатай Посланника Аллаха ﷺ провозгласил: “Опрокиньте котлы и не ешьте ничего из мяса ослов!” ‘Абдуллах сказал: “Мы подумали, что Пророк ﷺ запретил его, потому что пятая часть этих ослов не была поделена, а другие сказали: “Он запретил есть их навсегда”. Я спросил об этом Са‘ида ибн Джубейра, а он ответил: “Он навсегда запретил есть мясо ослов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3155</td></tr><tr><td>Arabic No</td><td>3155</td></tr><tr><td>Reference</td><td>Book 57 Hadith 63</td></tr></tbody></table></div>
 

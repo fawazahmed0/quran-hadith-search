@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A Companion of the Prophet: AbuBakr ibn AbdurRahman reported on the aut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik] dari [Sumai] mantan budak Abu Bakr bin Abdurrahman, dari [Abu Bakr bin Abdurrahman] dari [sebagian sahabat Nabi shallallahu 'alaihi wasallam], beliau bersabda: "Aku melihat Rasulullah shallallahu 'alaihi wasallam memerintahkan orang-orang ketika dalam perjalanannya pada tahun penaklukan Mekkah untuk berbuka." Beliau berkata: "Perkuatlah tubuh kalian untuk menghadapi musuh!" sementara Rasulullah shallallahu 'alaihi wasallam berpuasa. Abu Bakr berkata; telah berkata orang yang telah menceritakan kepadaku; sungguh aku telah melihat Rasulullah shallallahu 'alaihi wasallam di Al 'Arj menuangkan air ke kepalanya karena haus atau panas, sementara beliau sedang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2365</td></tr><tr><td>Arabic No</td><td>2365</td></tr><tr><td>Reference</td><td>Book 14 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от одного из сподвижников Пророка ﷺ: «Я видел, как Посланник Аллаха ﷺ находясь в пути в год покорения Мекки, велел людям прервать пост и говорил: “Наберитесь сил перед встречей с врагом”. А сам Посланник Аллаха ﷺ постился». Абу Бакр сказал: «И тот, кто передал мне это, сказал: мол, я видел, как в аль-Ардже он, соблюдая пост, поливал голову водой от жажды или зноя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2365</td></tr><tr><td>Arabic No</td><td>2365</td></tr><tr><td>Reference</td><td>Book 14 Hadith 53</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:That the Prophet (ﷺ) used to take him and Al-Hasan, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Al Mu'tamir] berkata, aku mendengar [bapakku] berkata telah bercerita kepada kami [Abu 'Utsman] dari [Usamah bin Zaid radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bahwa beliau memeluk dirinya dan Al Hasan lalu bersabda: "ALLOOHUMMA INNII UHIBBUHUMAA FA-AHIBBA HUMAA Ya Allah, sungguh aku mencintai keduanya maka itu cintailah keduanya", atau sebagaimana beliau sabdakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3747</td></tr><tr><td>Arabic No</td><td>3747</td></tr><tr><td>Reference</td><td>Book 62 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Усамы ибн Зейда, да будет доволен Аллах им и его отцом, что Пророк ﷺ часто брал его и аль-Хасана (к себе на колени) и говорил: «О Аллах, полюби их, ибо, поистине, я их люблю!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3747</td></tr><tr><td>Arabic No</td><td>3747</td></tr><tr><td>Reference</td><td>Book 62 Hadith 92</td></tr></tbody></table></div>
 

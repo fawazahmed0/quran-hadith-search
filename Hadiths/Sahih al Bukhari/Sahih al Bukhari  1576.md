@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) entered Mecca from Kada' from the hig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad Al Bashriy] telah menceritakan kepada kami [Yaha] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam memasuki kota Makkah dari daerah Kada' melewati dataran yang terletak di Bathha' tinggi dan keluar melewati dataran rendah. Abu 'Abdullah Al Bukhariy berkata: Dahulu dikatakan ia adalah Musaddad sebagai namanya. Abu 'Abdullah Al Bukhariy berkata; Aku mendengar Yahya bin Ma 'in berkata, aku mendengar Yahya bin Sa'id berkata: "Seandainya aku mendatangi Musaddad di rumahnya lalu aku ceritakan tentulah dia membenarkan hal itu. Dan aku tidak peduli apakah catatanku (kitabku) ada padaku atau pada Musaddad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1576</td></tr><tr><td>Arabic No</td><td>1576</td></tr><tr><td>Reference</td><td>Book 25 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал, что Посланник Аллаха ﷺ вошёл в Мекку через Кяда из Саният аль-‘улья, которая находится в аль-Батха, а вышел через ас-Саният-ас-Суфля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1576</td></tr><tr><td>Arabic No</td><td>1576</td></tr><tr><td>Reference</td><td>Book 25 Hadith 62</td></tr></tbody></table></div>
 

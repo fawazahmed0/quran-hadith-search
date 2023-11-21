@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I bear testimony to the Messenger of Allah (ﷺ) offering pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Abu Umar] -Abu Bakar berkata- telah menceritakan kepada kami [Sufyan bin Uyainah] telah menceritakan kepada kami [Ayyub] ia berkata, saya mendengar [Atha'] berkata, saya mendengar [Ibnu Abbas] berkata; "Saya menyaksikan Rasulullah shallallahu 'alaihi wasallam shalat Ied terlebih dahulu sebelum berkhutbah. Setelah menyampaikan khutbah beliau mengira bahwa kaum wanita belum mendengarnya, maka beliau pun mendatangi mereka dan mengingatkan mereka, memberi nasehat serta memerintahkan mereka untuk bersedekah, sementara Bilal membentangkan kainnya. Akhirnya kaum wanita pun meletakkan cincin dan kalung-kalung mereka (di atas hamparan kain Bilal)." Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] Telah menceritakan kepada kami [Hammad] -dalam jalur lain- Dan telah menceritakan kepadaku [Ya'qub Ad Dauraqi] telah menceritakan kepada kami [Isma'il bin Ibrahim] keduanya dari [Ayyub] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

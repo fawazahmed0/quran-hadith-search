@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) never missed four rak'at before the Zuhr prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Ibrahim bin Muhammad bin Al Muntasyir] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa "Nabi shallallahu 'alaihi wasallam tidak pernah meninggalkan shalat sunnat empat reka'at sebelum Zhuhur dan dua raka'at sebelum shalat Shubuh". Hadits ini diriwayatkan pula oleh [Ibnu Abu 'Adiy] dan ['Amru] dari [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1182</td></tr><tr><td>Arabic No</td><td>1182</td></tr><tr><td>Reference</td><td>Book 19 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ всегда совершал (дополнительную молитву в) четыре рак‘ата перед обязательной полуденной молитвой /зухр/ и (дополнительную молитву в) два рак‘ата перед обязательной утренней молитвой /фаджр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1182</td></tr><tr><td>Arabic No</td><td>1182</td></tr><tr><td>Reference</td><td>Book 19 Hadith 59</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim, on the authority of his father. reported Allah's Apostle (ﷺ) as saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru bin Muhammad An Naqid]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Salim] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam bersabda: "Bunuhlah semua ular, terutama ular bergaris dua putih di punggungnya dan yang putus ekornya, karena keduanya dapat menggugurkan kandungan perempuan hamil dan membutakan mata." Kata Salim; 'Karena itu [Ibnu 'Umar] membunuh setiap ular yang ditemuinya. Pada suatu ketika [Abu Lubabah bin 'Abdul Mundzir] atau [Zaid bin Khaththab] melihatnya sedang mengejar ular hendak dibunuhnya. Abu Lubabah berkata; 'Sesungguhnya telah dilarang oleh Rasulullah shallallahu 'alaihi wasallam membunuh ular-ular yang bersarang di rumah-rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5825</td></tr><tr><td>Arabic No</td><td>2233.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5825</td></tr><tr><td>Arabic No</td><td>2233.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 177</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:An eclipse of the sun took place. the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Ibnu Abbas] dia berkata; "Telah terjadi gerhana Matahari, lalu Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat bersama orang-orang, beliau berdiri lama (dalam shalat) kira-kira membaca surat Al Baqarah, kemudian beliau ruku'…" kemudian (perawi) melanjutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1052) Sahih Muslim (907)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1189</td></tr><tr><td>Arabic No</td><td>1189</td></tr><tr><td>Reference</td><td>Book 3 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды произошло солнечное затмение и Посланник Аллаха ﷺ стал совершать молитву вместе с людьми. Прежде чем совершить поясной поклон, он стоял так долго, что за это время можно было успеть прочитать суру «аль-Бакара»… И он привёл хадис полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1052) Sahih Muslim (907)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1189</td></tr><tr><td>Arabic No</td><td>1189</td></tr><tr><td>Reference</td><td>Book 3 Hadith 29</td></tr></tbody></table></div>
 

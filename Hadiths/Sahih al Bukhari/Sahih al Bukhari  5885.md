@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) cursed those men who are in the simi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Allah melaknat laki-laki yang menyerupai wanita dan wanita yang meyerupai laki-laki." Hadits ini diperkuat juga dengan hadits ['Amru] telah mengabarkan kepada kami [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5885</td></tr><tr><td>Arabic No</td><td>5885</td></tr><tr><td>Reference</td><td>Book 77 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ проклял мужчин, уподобляющихся женщинам, и женщин, уподобляющихся мужчинам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5885</td></tr><tr><td>Arabic No</td><td>5885</td></tr><tr><td>Reference</td><td>Book 77 Hadith 102</td></tr></tbody></table></div>
 

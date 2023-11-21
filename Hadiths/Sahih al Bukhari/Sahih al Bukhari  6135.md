@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Shuraih Al-Ka'bi:Allah's Messenger (ﷺ) said, Whoever believes in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Abu Suraih Al Ka'bi] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa beriman kepada Allah dan hari Akhir, hendaknya ia memuliakan tamunya dan menjamunya siang dan malam, dan bertamu itu tiga hari, lebih dari itu adalah sedekah baginya, tidak halal bagi tamu tinggal (bermalam) hingga (ahli bait) mengeluarkannya." Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] seperti hadits di atas, dia menambahkan; "Barangsiapa beriman kepada Allah dan hari Akhir, hendaknya berkata baik atau diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6135</td></tr><tr><td>Arabic No</td><td>6135</td></tr><tr><td>Reference</td><td>Book 78 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Шурайха аль-Кя‘бий, что Посланник Аллаха ﷺ сказал: “Пусть тот, кто верует в Аллаха и в Последний день, оказывает почёт своему гостю в качестве дара /джаиза/ ему день и ночь, (всего же) гостеприимство (следует оказывать) в течение трёх дней, а всё, что сверх этого, будет уже милостыней /садака/ для него. И не разрешается гостю оставаться у хозяина (долго), ставя его в неудобное положение». \nМалик рассказал подобное и добавил: «Пусть тот, кто верует в Аллаха и в Последний день, говорит благое или молчит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6135</td></tr><tr><td>Arabic No</td><td>6135</td></tr><tr><td>Reference</td><td>Book 78 Hadith 162</td></tr></tbody></table></div>
 

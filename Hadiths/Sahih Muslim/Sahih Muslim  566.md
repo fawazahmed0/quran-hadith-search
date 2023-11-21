@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim, the freed slave of Shaddad, said:I came to 'A'isha, the wife of the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>240.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим рассказал (следующее): «В день, когда умер Са‘д ибн Аби Ваккас, я зашёл к ‘Аише, жене Пророка ﷺ. Также к ней зашёл ‘Абдуррахман ибн Аби Бакр и совершил у неё омовение. (Увидев это, ‘Аиша) сказала: “О ‘Абдуррахман, совершай омовение должным образом, ибо, поистине, я слышала, как Посланник Аллаха ﷺ говорил: “Горе пяткам от Огня””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>240.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
 

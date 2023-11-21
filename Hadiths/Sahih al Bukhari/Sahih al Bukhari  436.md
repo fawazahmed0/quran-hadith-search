@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha and 'Abdullah bin 'Abbas:When the last moment of the life of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [Ubaidullah bin 'Abdullah bin 'Utbah] bahwa ['Aisyah] dan ['Abdullah bin 'Abbas] keduanya berkata, "Ketika sakit Rasulullah shallallahu 'alaihi wasallam semakin parah, beliau memegang bajunya dan ditutupkan pada mukanya. Bila telah terasa sesak, beliau lepaskan dari mukanya. Ketika keadaannya seperti itu beliau bersabda: 'Semoga laknat Allah tertipa kepada orang-orang Yahudi dan Nashara, mereka menjadikan kuburan para Nabi mereka sebagai masjid.' Beliau memberi peringatan (kaum Muslimin) atas apa yang mereka lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>436</td></tr><tr><td>Arabic No</td><td>436</td></tr><tr><td>Reference</td><td>Book 8 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши и ‘Абдуллаха ибн ‘Аббаса, да будет доволен ими Аллах, о том, что перед самой своей смертью Посланник Аллаха ﷺ стал накидывать на лицо покрывало, а когда ему стало (трудно дышать), он убрал его с лица и сказал: «Да проклянёт Аллах (тех) иудеев и христиан, которые превратили могилы своих пророков в места для совершения молитв!» — предостерегая (мусульман) от повторения того, что делали (эти люди)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>436</td></tr><tr><td>Arabic No</td><td>436</td></tr><tr><td>Reference</td><td>Book 8 Hadith 85</td></tr></tbody></table></div>
 

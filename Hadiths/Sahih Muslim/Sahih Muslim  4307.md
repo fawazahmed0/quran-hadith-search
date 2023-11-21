@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authorityo A'mash but with this variation o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4307</td></tr><tr><td>Arabic No</td><td>1659.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии этого хадиса сообщается, что Абу Мас‘уд аль-Бадри, да будет доволен им Аллах, сказал: «… и плеть выпала у меня из рук из-за почтительного страха перед ним …»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4307</td></tr><tr><td>Arabic No</td><td>1659.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 54</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:I married a woman, wher
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Muharib bin Ditsar] dari [Jabir bin Abdullah] dia berkata; Saya menikah dengan seorang wanita, maka Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: "Apakah engkau telah menikah?" Saya menjawab; Ya. Beliau kembali bertanya: "Dengan gadis ataukah janda?" Saya jawab; Dengan janda. Beliau lalu bersabda: "Kenapa kamu tidak memilih gadis hingga kamu dapat bercumbu dengannya?" [Syu'bah] berkata; Kemudian saya mengemukakannya kepada ['Amru bin Dinar] Lantas dia berkata; Saya telah mendengarnya dari [Jabir]? Hanyasannya dia menyebutkan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kenapa tidak dengan anak gadis hingga kamu bisa mencuumbunya dan dia mencumbumu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3637</td></tr><tr><td>Arabic No</td><td>715.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3637</td></tr><tr><td>Arabic No</td><td>715.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 70</td></tr></tbody></table></div>
 

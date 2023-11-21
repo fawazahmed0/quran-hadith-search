@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim:Ibn 'Abbas asked 'Aisha's permission to enter. Al-Qasim then n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4754</td></tr><tr><td>Arabic No</td><td>4754</td></tr><tr><td>Reference</td><td>Book 65 Hadith 276</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Касим сказал, что Ибн ‘Аббас попросил у ‘Аиши разрешения войти. Затем аль-Касим передал весь хадис без упоминания слов: «…но я хотела бы быть забытой навсегда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4754</td></tr><tr><td>Arabic No</td><td>4754</td></tr><tr><td>Reference</td><td>Book 65 Hadith 276</td></tr></tbody></table></div>
 

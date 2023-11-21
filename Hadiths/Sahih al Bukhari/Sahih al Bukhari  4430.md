@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: 'Umar bin Al-Khattab used to let Ibn 'Abbas sit beside him,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ar'arah] Telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata; Umar bin Khaththab radliallahu 'anhu pernah mendekatiku. Maka Abdurrahman bin Auf berkata kepadanya; Sesungguhnya kita juga punya anak-anak sepertinya. Umar menjawab; kamu sendirikan tahu siapakah Ibnu Abbas. Lalu Umar bertanya kepada Ibnu Abbas tentang ayat; "Apabila pertolongan dan kemenangan Allah telah datang.(QS. Alfath 1-5) " Ibnu Abbas menjawab; "Ajal Rasulullah shallallahu 'alaihi wasallam telah memberitahukan kepada beliau bahwa dia telah datang kepadanya." Umar berkata; 'Aku tidak tahu tentang ayat itu kecuali apa yang kamu ketahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4430</td></tr><tr><td>Arabic No</td><td>4430</td></tr><tr><td>Reference</td><td>Book 64 Hadith 452</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что когда ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, приблизил его к себе, ‘Абдуррахман ибн ‘Ауф сказал: «Наши сыновья его возраста!» — (в ответ) ‘Умар сказал: «Это по причине его знаний». После этого ‘Умар спросил Ибн ‘Аббаса о следующем аяте: «Когда придёт помощь Аллаха и победа» (сура «ан-Наср», аят 1). И он сказал: «Здесь (имеется в виду) срок (жизни) Посланника Аллаха ﷺ о (близости завершения которого) сообщил Аллах. ‘Умар сказал: «Я (тоже) ничего не знаю об этой суре, кроме того, что говоришь ты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4430</td></tr><tr><td>Arabic No</td><td>4430</td></tr><tr><td>Reference</td><td>Book 64 Hadith 452</td></tr></tbody></table></div>
 

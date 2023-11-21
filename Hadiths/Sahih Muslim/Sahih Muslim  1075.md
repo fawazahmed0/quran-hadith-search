@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Abbas reported:The Messenger of Allah (ﷺ) drew aside the curtain 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1075</td></tr><tr><td>Arabic No</td><td>479.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн ‘Аббас сказал: «Посланник Аллаха ﷺ приоткрыл занавеску, а голова его была обвязана (повязкой), это было во время той болезни, от которой он умер, и сказал: “О Аллах, донёс ли я?” трижды. “Поистине, не осталось от радостных вестей пророчества ничего, кроме благих сновидений, которые будет видеть праведный раб (или: будут ему показаны)”». Затем подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1075</td></tr><tr><td>Arabic No</td><td>479.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 237</td></tr></tbody></table></div>
 

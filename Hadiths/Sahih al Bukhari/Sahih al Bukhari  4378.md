@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubaidullah bin 'Abdullah bin 'Utba:We were informed that Musailima Al-K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Muhammad Al Jarmi] Telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu 'Ubaidah bin Nasyith] di dalam riwayat lain ia bernama 'Abdullah. ['Ubaidullah bin 'Abdullah bin 'Utbah] berkata; kami mendengar bahwa Musailamah Al Kadzdzab sudah sampai di Madinah, lalu ia singgah di rumah Binti Al Harits bin Kuraiz yaitu Ibnu Abdullah bin 'Amir. Lalu Rasulullah shallallahu 'alaihi wasallam bersama Tsabit bin Qais bin Syammas -juru bicara Rasulullah shallallahu 'alaihi wasallam- menemuinya. Pada waktu itu beliau membawa sebatang tongkat. Lalu beliau berdiri dihadapannya dan berdialog dengannya. Musailamah berkata kepada beliau; Jika anda mau, kita selesaikan urusan kita. Lalu Nabi shallallahu 'alaihi wasallam berkata; 'seandainya kamu meminta tongkat ini, maka aku tidak akan memberikannya kepadamu. Dan sungguh aku melihatmu seperti apa yang telah aku lihat dalam mimpiku. Inilah Tsabit bin Qais akan menjawab tantanganmu.' Lalu beliau shallallahu 'alaihi wasallam pergi. Ubaidullah bin Abdullah berkata; Aku bertanya kepada [Ibnu Abbas] tentang mimpi Rasulullah shallallahu 'alaihi wasallam yang telah beliau sebutkan. Ibnu Abbas menjawab; Rasulullah shallallahu 'alaihi wasallam menyebutkan kepadaku, beliau bersabda: 'Ketika aku sedang tidur, aku bermimpi bahwa di kedua tanganku ada dua buah gelang emas, hingga aku merasa cemas dengan keberadaan dua buah gelang itu. Kemudian aku diberi wahyu dalam tidurku itu agar aku meniup kedua gelang tersebut, lalu akupun meniupnya hingga kedua gelang itu hilang. Maka dari mimpi itu aku menafsirkan bahwa dua buah gelang tersebut adalah dua orang pembohong (nabi palsu) yang akan muncul sepeninggalku kelak. Ubaidullah berkata; yang satu adalah Al Ansi, yang dibunuh oleh Fairuz di Yaman, dan yang satunya adalah Musailamah Al Kadzab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4378</td></tr><tr><td>Arabic No</td><td>4378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайдуллах ибн ‘Абдуллах ибн ‘Утба сказал: «Прибыв в Медину, Мусайлима аль-Каззаб (Лжец) остановился в доме дочери аль-Хариса. Дочь аль-Хариса ибн Курайза, Умм ‘Абдиллях ибн ‘Амир была его женой. Посланник Аллаха ﷺ подошёл к нему с Сабитом ибн Кайсом ибн Шаммасом, держа в руке ветку финиковой пальмы. Он остановился около Мусайлимы и заговорил с ним. Мусайлима сказал: “Оставь меня своим преемником”. Пророк ﷺ сказал: “Если бы ты попросил у меня (даже) эту (ветвь), я не отдал бы тебе и её. Я думаю, что ты и есть тот человек, которого я видел во сне. Это — Сабит ибн Кайс, он ответит тебе вместо меня”. После этого Пророк ﷺ ушёл»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4378</td></tr><tr><td>Arabic No</td><td>4378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

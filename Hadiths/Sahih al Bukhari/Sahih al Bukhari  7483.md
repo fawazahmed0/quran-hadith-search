@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Allah will say (on the Day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafs bin Ghiyats] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Abu Shalih] dari [Abu Said Al Khudzri] radliyallahu'anhu berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Allah berfirman, 'Wahai Adam! ' Adam menjawab, 'Aku penuhi panggilan-Mu! ' lantas Adam dipanggil dengan suatu suara, 'Sesungguhnya Allah Tabaraka wa Ta'ala menyuruhmu untuk mengeluarkan utusan-utusan dari anak cucumu ke neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7483</td></tr><tr><td>Arabic No</td><td>7483</td></tr><tr><td>Reference</td><td>Book 97 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Аллах скажет: “О, Адам!” Тот ответит: “Вот я перед Тобой, и счастлив служить тебе!” и тогда воззовёт глас: “Поистине, Аллах приказывает тебе вывести из твоего потомства группу, посланную в Огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7483</td></tr><tr><td>Arabic No</td><td>7483</td></tr><tr><td>Reference</td><td>Book 97 Hadith 109</td></tr></tbody></table></div>
 

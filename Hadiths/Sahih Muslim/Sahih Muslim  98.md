@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated to us on the authority of Muhammad b. 'Abdullah b. Numai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>98</td></tr><tr><td>Arabic No</td><td>9</td></tr><tr><td>Reference</td><td>Book 1 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Абу Хаййана ат-Тайми с этим же иснадом передается похожее (сообщение), исключая то, что в его версии сказано: «Рабыня родит своего господина», имея ввиду наложницу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>98</td></tr><tr><td>Arabic No</td><td>9</td></tr><tr><td>Reference</td><td>Book 1 Hadith 6</td></tr></tbody></table></div>
 

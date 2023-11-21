@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported:Umm Sulaim went to the Messenger of Allah (ﷺ) and said: Ap
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan kepada kami [Abu Muawiyah] dari [Hisyam bin Urwah] dari [Bapaknya] dari [Zainab binti Abi Salamah] dari [Ummu Salamah], dia berkata, "Ummu Sulaim mengunjungi Nabi Shallallahu'alaihiwasallam, dia berkata; 'Wahai Rasulullah! Allah tidak malu terhadap kebenaran. Apakah seorang wanita wajib mandi bila dia bermimpi? ' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Ya, apabila dia melihat air (mani).' Ummu Salamah berkata; 'Apakah Seorang wanita juga bermimpi (dan keluar mani)? ' Beliau bersabda: 'Bagaimana kamu, lantas dengan apa anaknya bisa menyerupai dirinya?" telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami [Waki']. (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Hisyam bin 'Urwah] dengan sanad dan maksud yang sama, dan dia menambahkan; "Ummu Salamah berkata; aku berkata; "Kamu telah membuka aib wanita." Dan telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [Ayahku] dari [Kakekku] telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] bahwa dia berkata; telah mengabarkan kepadaku [Urwah bin Az Zubair] bahwa ['Aisyah isteri Nabi shallallahu 'alaihi wasallam] telah mengabarkan kepadanya, bahwa Ummu Sulaim yaitu Ummu Bani Thalhah menemui Rasulullah shallallahu 'alaihi wasallam…" semakna dengan hadits Hisyam, namun dalam hadits Hisyam terdapat tambahan; 'Aisyah berkata; lalu aku berkata kepadanya; "Cukup, apakah seorang wanita juga bermimpi seperti itu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>712</td></tr><tr><td>Arabic No</td><td>313.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «(Однажды) Умм Сулейм пришла к Пророку ﷺ и сказала: “О Посланник Аллаха, поистине, Аллах не стыдится (говорить) истину, (так скажи мне,) следует ли женщине совершить полное омовение /гусль/, если у неё случится поллюция?” Посланник Аллаха ﷺ ответил: “Да, если (после пробуждения) она увидит (свои) выделения”. (Услышав это,) Умм Саляма спросила: “А разве у женщин бывают поллюции?” (В ответ ей) Пророк ﷺ сказал: “Да покроются твои руки пылью! А почему же ещё ребёнок становится похожим (на мать)?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>712</td></tr><tr><td>Arabic No</td><td>313.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 34</td></tr></tbody></table></div>
 

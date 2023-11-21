@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Harith b Abi Rabi'a and 'Abdullah b. Safwan both went to Umm Salama, the Mother 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], [Abu Bakr bin Abu Syaibah] dan [Ishaq bin Ibrahim], teks milik Qutaibah, berkata Ishaq: telah mengkhabarkan kepada kami dan yang lain berkata: Telah menceritakan kepada kami [Jarir] dari [Abdulaziz bin Rufai'] dari [Ubaidullah bin Al Qibthiyyah] berkata: Al Harits bin Abu Rabi'ah dan Abdullah bin Shafwan bertamu ke kediaman [Ummu Salamah], Ummul Mu'minin, aku bersama keduanya, keduanya bertanya tentang tentara yang dibenamkan ke bumi dan itu terjadi dimasa Ibnu Az Zubair. Ia menjawab: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Seseorang berlindung di baitulah lalu pasukan dikirim menemuinya, mereka berada disalah satu padang pasir lalu mereka dibenamkan." Aku bertanya: Wahai Rasulullah, lalu bagaimana dengan orang yang benci? Beliau menjawab: "Ia dibenamkan bersama mereka, tapi ia dibangkitkan pada hari kiamat berdasarkan niatnya." Abu Ja'far berkata: Itu di tanah lapang Madinah. Telah menceritakannya kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abdulaziz bin Rufai'] dengan sanad ini, dan dalam haditsnya disebutkan: Ia berkata: Lalu aku bertemu dengan Abu Ja'far, aku berkata: Sesungguhnya Ummu Salamah hanya mengatakan disalah satu padang pasir. Abu Ja'far berkata: Tidak, demi Allah sesungguhnya itu adalah padang pasir Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7240</td></tr><tr><td>Arabic No</td><td>2882.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7240</td></tr><tr><td>Arabic No</td><td>2882.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 6</td></tr></tbody></table></div>
 

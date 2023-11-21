@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:That when Abu Bakr became the Caliph, he sent him to Bahrain and w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Abdullah Al Anshariy] berkata telah bercerita kepadaku [bapakku] dari [Tsumamah] dari [Anas] bahwa Abu Bakr radliallahu 'anhu ketika diangkat menjadi kholifah, dia mengutus dirinya ke negeri Bahrain dan menulis surat untuknya surat ini dan memberi stempel kenabian Nabi Shallallahu'alaihiwasallam. Pada stempel tersebut ada tiga tulisan, yaitu tulisan Muhammad, Rasul dan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3106</td></tr><tr><td>Arabic No</td><td>3106</td></tr><tr><td>Reference</td><td>Book 57 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что, когда Абу Бакр, да будет доволен им Аллах, стал халифом, он послал его в Бахрейн с письмом, которое он написал, и поставил на нём печать перстнем Пророка ﷺ. На перстне были выгравированы три строки, (слово) «Мухаммад» было в строке, «Посланник» в другой строке, и «Аллах» в третьей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3106</td></tr><tr><td>Arabic No</td><td>3106</td></tr><tr><td>Reference</td><td>Book 57 Hadith 15</td></tr></tbody></table></div>
 

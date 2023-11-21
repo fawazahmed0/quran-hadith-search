@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "The selling of wheat for wheat is Ri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Abu Al Walid] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Malik bin Aus] bahwa dia mendengar ['Umar radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jual beli beras dengan beras adalah riba' kecuali begini-begini (kontan, cash), gandum dengan gandum adalah riba' kecuali begini-begini (kontan, cash), kurma dengan kurma adalah riba' kecuali begini-begini (kontan, cash)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2170</td></tr><tr><td>Arabic No</td><td>2170</td></tr><tr><td>Reference</td><td>Book 34 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Умара, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Обмен) пшеницы на пшеницу является ростовщичеством (риба), если только (пшеница не передаётся из рук в руки в равных количествах), и (обмен) ячменя на ячмень является ростовщичеством, если только (ячмень не передаётся из рук в руки в равных количествах), и (обмен) фиников на финики является ростовщичеством, если только (финики не передаются из рук в руки в равных количествах)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2170</td></tr><tr><td>Arabic No</td><td>2170</td></tr><tr><td>Reference</td><td>Book 34 Hadith 121</td></tr></tbody></table></div>
 

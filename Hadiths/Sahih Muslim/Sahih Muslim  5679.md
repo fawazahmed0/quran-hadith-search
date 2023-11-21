@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safiyya bint Huyayy (que Dieu soit satisfait d'elle) a dit : Je rendis visite un
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abad bin Humaid] lafazh keduanya tidak jauh berbeda; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Ali bin Husain] dari [Shafiyyah binti Huyay] ia berkata; "Pada suatu ketika Nabi shallallahu 'alaihi wasallam sedang I'tikaf. Aku mendatangi beliau malam hari, lalu aku berbicara kepadanya. Sesudah itu aku berdiri hendak pulang, dan beliau berdiri pula mengantarku ketika itu Shafiyah tinggal di rumah Usamah bin Zaid. Tiba-tiba lewat dua orang laki-laki Anshar. Tatkala mereka melihat Nabi shallallahu 'alaihi wasallam mereka kemudian mempercepat langkahnya. Lalu Nabi shallallahu 'alaihi wasallam berkata kepada mereka: 'Hai, pelan-pelan sajalah kalian. Ini adalah isteriku, Shafiyah binti Huyay.' Mereka menjawab; 'Subhanallah, ya Rasulullah! ' Beliau bersabda: 'Sesungguhnya setan berjalan dalam tubuh manusia melalui aliran darah. Aku khawatir kalau-kalau setan membisikkan sesuatu yang jahat ke dalam hati kalian.' Dan telah menceritakannya kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah mengabarkan kepada kami ['Ali bin Husain] bahwa [Shafiyyah] istri Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya, bahwasannya dia pernah datang kepada Nabi shallallahu 'alaihi wasallam untuk menjenguknya ketika beliau sedang I'tikaf di Masjid pada kesepuluh terakhir dari bulan RamAdhan. Lalu dia berbincang-bincang dengan beliau sejenak, lalu dia berdiri hendak pulang dan Nabi pun ikut berdiri hendak mengantarkannya. (dan seterusnya) sebagaimana yang di ceritakan di dalam Hadits Ma'mar hanya saja di dalam Hadits tersebut Nabi shallallahu 'alaihi wasallam menggunakan lafazh 'yablagh' bukan 'yajri' (mengalir)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5679</td></tr><tr><td>Arabic No</td><td>2175.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5679</td></tr><tr><td>Arabic No</td><td>2175.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 33</td></tr></tbody></table></div>
 

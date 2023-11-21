@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:When Allah fashioned Adam in Par
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Yunus bin Muhammad] dari [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Setelah membentuk tubuh Adam alaihi salam, Allah Subhanahu wa Ta'ala pun membiarkannya di surga sesuai dengan kehendak-Nya. Tak lama kemudian, iblis datang mengitari tubuh Adam sambil mengamati. Setelah mengetahui bahwasanya tubuh Adam itu mempunyai rongga, maka lblis pun mengerti bahwasanya Adam diciptakan dalam kondisi yang tidak dapat mengendalikan dirinya sendiri." Telah menceritakan kepada kami [Abu Bakr bin Nafi']; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Hammad] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6649</td></tr><tr><td>Arabic No</td><td>2611.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6649</td></tr><tr><td>Arabic No</td><td>2611.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 146</td></tr></tbody></table></div>
 

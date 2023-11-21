@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Umaiya Ad-Damri:I saw the Prophet (ﷺ) eating of a shoulder (of a shee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata telah bercerita kepadaku [Ibrahim bin Sa'ad] dari [Ibnu Syihab] dari [Ja'far bin 'Amru bin Umayyah Adh Dhomriy] dari [bapaknya] berkata: "Aku melihat Nabi shallallahu 'alaihi wasallam memakan daging paha depan (kambing) yang langsung dipotong darinya, kemudian dikumandangkan seruan shalat maka Beliau shalat tanpa berwudhu' lagi". Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy], dan dia menambahkan: "Lalu beliau melemparkan pisaunya (kepada Beliau shallallahu 'alaihi wasallam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2923</td></tr><tr><td>Arabic No</td><td>2923</td></tr><tr><td>Reference</td><td>Book 56 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джа‘фара ибн ‘Амра ибн Умаййи аль-Дамри, что его отец сказал: «Я видел, как Пророк ﷺ ел баранью лопатку, отрезая от неё ножом (куски мяса). И когда прозвучал призыв к молитве, он бросил нож и стал молиться, не совершив омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2923</td></tr><tr><td>Arabic No</td><td>2923</td></tr><tr><td>Reference</td><td>Book 56 Hadith 136</td></tr></tbody></table></div>
 

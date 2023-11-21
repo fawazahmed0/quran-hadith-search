@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Waqid: The mu'adhdhin of Ibn Umar said: prayer (i.e. the t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Muharibi] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [ayahnya] dari [Nafi'] dan [Abdullah bin Waqid] bahwa Mu'adzin [Ibnu Umar] berseru; "Telah tiba waktu shalat…!" Maka dia berkata; "Jalan terus, jalan terus." sehingga ketika mega merah hampir hilang, dia singgah lalu mengerjakan shalat Maghrib. Kemudian menunggu sampai mega merah benar-benar hilang, lalu mengerjakan shalat Isya'. Setelah itu dia berkata; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam jika terdesak oleh suatu urusan, beliau melakukan seperti yang aku lakukan tadi." Lalu dia berjalan sehari semalam, sejauh perjalanan tiga malam." Abu Daud berkata; 'Di riwayatkan pula oleh [Ibnu Jabir] dari [Nafi'] seperti hadits ini dengan sanadnya. Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah mengabarkan kepada kami [Isa] dari [Ibnu Jabir] dengan Makna hadits ini. Abu Daud mengatakan; "Di riwayatkan pula oleh [Abdullah bin Al 'Ala'] dari [Nafi'] dia berkata; "…Hingga ketika mega merah telah hilang, maka beliau singgah lalu menjama' keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1212</td></tr><tr><td>Arabic No</td><td>1212</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нафи‘а и ‘Абдуллаха ибн Вакыда, что однажды в пути муаззин Ибн ‘Умара сказал: «Молитва!» Однако тот сказал ему: «Продолжай путь!» А перед тем, как зарево исчезло с неба, он спешился и совершил закатную молитву /магъриб/. Потом, дождавшись исчезновения зарева, совершил вечернюю молитву /‘иша/. Затем он сказал: «Когда Посланник Аллаха ﷺ спешил, он поступал так же, как я сейчас». И он преодолел за сутки расстояние, которое обычно преодолевают за три дня
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1212</td></tr><tr><td>Arabic No</td><td>1212</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
 

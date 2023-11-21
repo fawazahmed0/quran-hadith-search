@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Urwah ibn Amir al-Qurashi: When taking omens was mentioned in the prese
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Abu Bakr bin Syaibah] secara makna, mereka berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Habib bin Abu Tsabit] dari ['Urwah bin 'Amir], Ahmad Al Qurasyi berkata, "Telah disebutkan thiyarah di sisi Nabi shallallahu 'alaihi wasallam, kemudian beliau bersabda: "Yang terbaik adalah sikap optimisme, dan thiyarah tidak boleh menahan kehendak seorang muslim. Apabila salah seorang di antara kalian melihat apa yang ia tidak sukai, maka hendaknya ia mengucapkan: ALLAAHUMMA LAA YA'TII BILHASANAATI ILLAA ANTA WA LAA YADFA'USSAYYIAATI ILLAA ANTA, WA LAA HAULA WA LAA QUWWATA ILLAA BIKA (Ya Allah, tidak ada yang mendatangkan kebaikan kecuali Engkau, dan tidak ada yang dapat menolak keburukan kecuali Engkau, dan tidak ada daya serta kekuatan kecuali karena-Mu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3919</td></tr><tr><td>Arabic No</td><td>3919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы ибн ‘Амир аль-Кураши, да будет доволен им Аллах, что однажды в присутствии Пророка ﷺ упомянули о вере в приметы и он сказал: «Лучше всего хорошая примета, и приметы не должны останавливать мусульманина. А если любой из вас увидит нечто неприятное, пусть скажет: “О Аллах, никто не дарует благо, кроме Тебя, и никто не отводит зло, кроме Тебя, и нет способности изменить что-либо и силы, кроме как от Тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3919</td></tr><tr><td>Arabic No</td><td>3919</td></tr><tr><td>Reference</td><td>Book 30 Hadith 16</td></tr></tbody></table></div>
 

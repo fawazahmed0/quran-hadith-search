@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A strong demon from the Jinns came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Bassyar] telah bercerita kepada kami [Muhammad binJa'far] telah bercerita kepada kami [Syu'bah] dari [Muhammad bin Ziyad] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: "Sesungguhnya 'Ifrit dari bangsa jin baru saja menggangguku untuk memutuskan shalatku namun Allah menjadikan aku dapat menundukkannya lalu aku tangkap dan hendak mengikatnya pada tiang diantara tiang-tiang masjid hingga tiap orang dari kalian dapat melihatnya. Namun aku teringat akan do'a saudaraku, Nabi Sulaiman 'Alaihissalam; ("Ya Rabb, anugerahkanlah kepadaku kerajaan yang tidak akan dimiliki oleh seorangpun setelah aku"). (QS. Shad ayat 35). Maka kulepaskan kembali setan itu dalam keadaan hina. Kata 'Ifrit (dalam QS surat an-Naml ayat 39) digunakan untuk setiap orang yang membangkang (durhaka), baik dari kalangan manusia maupun jin. Timbangan kata 'Ifriit seperti kata "zibniyah" yang jamaknya zabaniyah". Sedang 'Ifriit, bentuk jamaknya 'Afaariit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3423</td></tr><tr><td>Arabic No</td><td>3423</td></tr><tr><td>Reference</td><td>Book 60 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Пророк ﷺ сказал: «Поистине, вчера ко мне явился дух /ифрит/ из числа джиннов, чтобы прервать мою молитву, но Аллах помог мне справиться с ним и я схватил его. (Сначала) я хотел привязать его к одному из столбов мечети, чтобы утром все вы посмотрели на него, но (потом) вспомнил слова моего брата Сулеймана (, который сказал): “Господь мой! Даруй мне (такую) власть, которой после меня не будет обладать уже никто”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3423</td></tr><tr><td>Arabic No</td><td>3423</td></tr><tr><td>Reference</td><td>Book 60 Hadith 95</td></tr></tbody></table></div>
 

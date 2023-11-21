@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama, the wife of the Messenger of Allah (ﷺ), reported Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Sa'd bin Sa'id] ia berkata, telah mengabarkan kepadaku [Umar bin Katsir bin Aflah] ia berkata, saya mendengar [Ibnu Safinah] menceritakan bahwa ia mendengar [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang mukmin tertimpa musibah lalu ia membaca apa yang telah diperintahkan oleh Allah, 'INAA LILLAHI WAINNAA ILAIHI RAAJI'UUN ALLAHUMMA'JURNII FII MUSHIIBATI WA AKHLIF LII KHAIRAN MINHAA (Sesungguhnya kami adalah milik Allah dan akan kembali kepada Allah. Ya Allah, berilah kami pahala karena mushibah ini dan tukarlah bagiku dengan yang lebih baik daripadanya).' melainkan Allah menukar baginya dengan yang lebih baik." Ummu Salamah berkata; Ketika Abu Salamah telah meninggal, maka saya pun membaca sebagaimana yang diperintahkan oleh Rasulullah shallallahu 'alaihi wasallam, lalu Allah pun menggantikannya untukku dengan yang lebih baik darinya yaitu Rasulullah shallallahu 'alaihi wasallam. Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Sa'd bin Abu Sa'id] telah mengabarkan kepadaku [Umar bin Katsir] dari [Ibnu Safinah] Maula Ummu Salamah, dari [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda, yakni serupa dengan haditsnya Abu Usamah, dan ia menambahkan; (Ummu Salamah) berkata, "Siapakah yang lebih baik dari Abu Salamah sahabat Rasulullah shallallahu 'alaihi wasallam, kemudian Allah pun mengokohkan hatiku untuk mengucapkannya. Lalu aku pun menikah dengan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2127</td></tr><tr><td>Arabic No</td><td>918.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Са‘д ибн Са‘ид сказал:– Сообщил мне ‘Умар ибн Касир ибн Афлях, который сказал:– Я слышал, как Ибн Сафийна рассказывал о том, что он слышал, как жена Пророка ﷺ Умм Саляма, да будет доволен ею Аллах, говорила:– Я слышала, как Посланник Аллаха ﷺ говорил: «Если любой раб (Аллаха), которого постигнет несчастье, скажет: “Поистине, мы принадлежим Аллаху и к Нему мы вернёмся! О Аллах, вознагради меня в несчастье моём и даруй мне взамен нечто лучшее”/Инна ли-Лляхи ва инна илейхи раджи‘ун! Аллахуммаъ-джур-ни фи мусыбати ва ‘ахлиф ли ли хайран мин-ха/, Аллах непременно вознаградит (такого человека) в его несчастье и дарует ему взамен нечто лучшее».(Умм Саляма) сказала: «А когда умер (мой муж) Абу Саляма, я произнесла (слова), которые велел мне (произносить) Посланник Аллаха ﷺ и Аллах даровал мне взамен (Абу Салямы того, кто стал для меня) лучше, чем он, Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2127</td></tr><tr><td>Arabic No</td><td>918.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 5</td></tr></tbody></table></div>
 

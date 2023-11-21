@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:A bedouin came to the Prophet (ﷺ) and said, "O All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepadaku [Muhammad bin Al Husain bin Ibrahim] telah mengabarkan kepada kami [Ubaidullah bin Musa] Telah mengabarkan kepada kami [Syaiban] dari [Firas] dari [Asy Sya'bi] dari [Abdullah bin Amru] mengatakan; Seorang arab badui menemui Nabi shallallahu 'alaihi wasallam dan bertanya; 'Waya Rasulullah, apa yang dianggap dosa-dosa besar itu? ' Beliau menjawab: "Menyekutukan Allah" 'Lantas selanjutnya apa? ' Tanyanya. Nabi menjawab: "Mendurhakai orang tua." 'selanjutnya apa? ' Tanyanya. Nabi shallallahu 'alaihi wasallam menjawab: "Sumpah ghamus." Kami bertanya; 'apa makna ghamus? ' Beliau jawab; "maknanya sumpah palsu, dusta, yang karena sumpahnya ia bisa menguasai harta seorang muslim, padahal sumpahnya bohong belaka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6920</td></tr><tr><td>Arabic No</td><td>6920</td></tr><tr><td>Reference</td><td>Book 88 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен Аллах им и его отцом, рассказывал: «Однажды к Пророку ﷺ пришёл какой-то бедуин и спросил: “О Посланник Аллаха! Какие грехи являются тяжкими?” (Пророк ﷺ) ответил: “Придавание Аллаху сотоварищей”. (Бедуин) спросил: “А затем?” (Пророк ﷺ) ответил: “Затем непочтительное отношение к родителям”. (Бедуин) спросил: “А затем?” (Пророк ﷺ) ответил: “Погружающая (в Огонь) клятва”. Я спросил: “А что подразумевается под погружающей клятвой?” (Пророк ﷺ) ответил: “(Речь о человеке), который приносит лживую клятву с целью присвоить (посредством неё) имущество мусульманина”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6920</td></tr><tr><td>Arabic No</td><td>6920</td></tr><tr><td>Reference</td><td>Book 88 Hadith 3</td></tr></tbody></table></div>
 

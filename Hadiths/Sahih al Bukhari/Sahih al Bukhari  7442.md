@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Whenever the Prophet (ﷺ) offered his Tahajjud prayer, he w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Tsabit bin Muhammad] telah menceritakan kepada kami [Sufyan] dari [Ibn Juraij] dari [Sulaiman Al Ahwal] dari [Thawus] dari [Ibn Abbas] radliyallahu'anhuma berkata, "Jika Nabi shallallahu 'alaihi wasallam tahajjud di malam hari, beliau memanjatkan doa: 'ALLAAHUMA RABBANA LAKAL HAMDU ANTA QAYYIMUS SAMAAWAATI WAL ARDLI, WALAKAL HAMDU ANTA RABBUS SAMAAWAATI WAL ARDLI WAMAN FIIHINNA, WALAKAL HAMDU ANTA NUURUS SAMAAWAATI WAL ARDLI WAMAN FIIHINNA, ANTAL HAQQ, WAQULUKAL HAQQ, WAWA'DUKAL HAQQ, WALIQAA'UKA HAQQ, WAL JANNATU HAQQ, WANNAARU HAQQ, WASSAA'ATU HAQ, ALLAAHUMMA LAKA ASLAMTU, WABIKA AMANTU WA'ALAIKA TAWAKKALTU, WAILAIKA KHAASHAMTU WABIKA HAKAMTU FAGHFIRLII MAA QADDAMTU WAMAA AKHKHARTU WA ASRARTU WA A'LANTU, WAMAA ANTA A'LAMU BIHI MINNII, LAA-ILAAHA ILLAA ANTA (Ya Allah Tuhan kami, bagi-Mu segala puji, Engkau adalah pengurus langit dan bumi, bagi-Mu segala puji, Engkau adalah pemelihara langit dan bumi dan semua penghuninya, bagi-Mu segala puji, Engkau adalah cahaya langit dan bumi dan semua penghuninya, Engkau adalah benar, firman-Mu benar, janji-Mu benar dan perjumpaan kepada-Mu benar, surga benar, neraka benar, kiamat benar, Ya Allah, kepada-Mu aku berserah, kepada-Mu aku beriman, kepada-Mu aku bertawakkal, karena-Mu aku memusuhi (musuh), kepada-Mu aku berhukum, maka ampunilah bagiku apa yang telah aku lakukan dan yang belum aku lakukan, apa yang kulakukan secara sembunyi-sembunyi dan apa yang kulakukan secara terang-terangan, dan apa yang Engkau lebih tahu terhadapnya daripadaku, tiada sesembahan yang hak selain Engkau) '. Abu Abdullah berkata, [Qais bin Sa'd] dan [Abu Zubair] berkata dari [Thawus] dengan redaksi 'Qayyaam' bukan qayyum, sedang Mujahid berkata, 'Alqayyum (dengan definitif al) yang maknanya mengurus segala sesuatu, sedang Umar juga berkata Alqayyaam, dan keduanya sama-sama pujian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7442</td></tr><tr><td>Arabic No</td><td>7442</td></tr><tr><td>Reference</td><td>Book 97 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ когда совершал ночную молитву, он говорил: “О Аллах, Господь наш, хвала Тебе, Ты — Вседержитель небес и земли. Ты — Господь небес и земли, и тех, кто там обитает, и хвала Тебе. Ты — Свет небес и земли, и тех кто там обитает, и хвала Тебе. Ты — Истина, и слово Твоё — истина, и обещание Твоё — истина, и встреча с Тобой — истина, и Рай — истина, и Огонь — истина, и Час этот — истина! О Аллах, Тебе я покоряюсь, в Тебя верую, на Тебя только уповаю, Тебе приношу покаяние, благодаря Тебе веду споры и к Тебе на суд обращаюсь, так прости же мне мои прошлые и будущие грехи, прости совершённое мной тайно и сделанное открыто, а также всё то, о чём Тебе известно лучше! Нет божества достойного поклонения, кроме Тебя”».\nАбу ‘Абдуллах сказал: «Кайс ибн Са‘д и Абу аз-Зубейр передали от Тавуса (что он прочитал) “Каййам”. Муджахид сказал: “Вседержитель — это Тот, Кто поддерживает жизнь каждой вещи”. ‘Умар прочитал как “аль-Каййам”, и оба чтения (указывают на) похвалу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7442</td></tr><tr><td>Arabic No</td><td>7442</td></tr><tr><td>Reference</td><td>Book 97 Hadith 68</td></tr></tbody></table></div>
 

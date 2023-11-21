@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Make things easy for the people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] dia berkata; saya mendengar [Anas bin Malik] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Mudahkanlah setiap urusan dan janganlah kalian mempersulitnya, buatlah mereka tenang dan jangan membuat mereka lari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6125</td></tr><tr><td>Arabic No</td><td>6125</td></tr><tr><td>Reference</td><td>Book 78 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Облегчайте, а не создавайте затруднения, успокаивайте (радуя людей добрыми вестями), а не внушайте отвращение (к исламу)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6125</td></tr><tr><td>Arabic No</td><td>6125</td></tr><tr><td>Reference</td><td>Book 78 Hadith 152</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. Abu Sufyan reported:Abu Huraira said to Ka'b al-Ahbar that the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Amru bin Abu Sufyan bin Asid bin Jariyah ats-Tsaqafi] telah mengabarkan kepadanya, bahwa [Abu Hurairah] berkata kepada Ka'ab al-Ahbar, "Nabi shallallahu 'alaihi wasallam bersabda: "Setiap Nabi memiliki doa yang dia panjatkan, maka aku berkeinginan -insya Allah- untuk menyembunyikan doaku sebagai syafa'at bagi umatku pada hari kiamat." Maka Ka'ab berkata kepada Abu Hurairah, "Apakah kamu mendengar ini dari Rasulullah shallallahu 'alaihi wasallam?" Abu Hurairah menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>490</td></tr><tr><td>Arabic No</td><td>198.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 396</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал Ка‘бу аль-Ахбару о том, что Пророк Аллаха ﷺ сказал: «У каждого пророка была мольба, я же пожелал если на то будет воля Аллаха отложить мольбу свою на потом, чтобы заступиться за мою общину в День воскресения». Ка‘б спросил Абу Хурайру: «Ты слышал это от Посланника Аллаха ﷺ?» Абу Хурайра ответил: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>490</td></tr><tr><td>Arabic No</td><td>198.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 396</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aba Qatada reported:The Messenger of Allah (way peace be upon him) forbade (us) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>267.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Катады, что Пророк ﷺ запретил дышать в сосуд (во время питья), прикасаться к своим половым органам правой рукой (во время справления нужды) и подмываться правой рукой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>267.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 82</td></tr></tbody></table></div>
 

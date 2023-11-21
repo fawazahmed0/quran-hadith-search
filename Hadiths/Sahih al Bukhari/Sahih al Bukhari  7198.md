@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Allah never sends a prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam bersabda; "Tidaklah Allah mengutus seorang Nabi atau mengangkat seorang khalifah selain ia mempunyai dua kubu, kubu yang memerintahkannya kebaikan dan memotivasinya, dan kubu yang menyuruhnya berbuat keburukan dan mendorongnya, maka orang yang terjaga adalah yang dijaga Allah ta'ala." [Sulaiman] mengatakan dari [Yahya] telah mengabarkan kepadaku [Ibnu Syihab] dengan hadist ini, dan dari [Ibnu Abu 'Atiq] dan [Musa] dari [Ibnu Syihab] hadits yang sama, sedang [Syu'aib] mengatakan dari [Az Zuhri] telah menceritakan kepadaku [Abu Salamah] dari [Abu Sa'id]... seperti hadits diatas. Sedang [Al Auza'i] dan [Mu'awiyah bin Salam] mengatakan, telah menceritakan kepadaku [Az Zuhri] telah menceritakan kepadaku [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. Sedang [Ibnu Abu Husain] dan [Sa'id bin Ziyad] mengatakan, dari [Abu Salamah] dari [Abu Sa'id],,, seperti hadits diatas,, dan [Ubaidullah bin Abu Ja'far] telah menceritakan kepadaku [Shafwan] dari [Abu Salamah] dari [Abu Ayyub] mengatakan; aku mendengar Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7198</td></tr><tr><td>Arabic No</td><td>7198</td></tr><tr><td>Reference</td><td>Book 93 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Какого бы пророка Аллах ни направлял (к людям) и кого бы он ни оставлял после себя в качестве преемника, у него обязательно будут две группы приспешников: одни станут подталкивать его к одобряемому и побуждать его к этому, другие же станут советовать ему дурное и побуждать его к этому, а хранимым будет тот, кого сохранит Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7198</td></tr><tr><td>Arabic No</td><td>7198</td></tr><tr><td>Reference</td><td>Book 93 Hadith 59</td></tr></tbody></table></div>
 

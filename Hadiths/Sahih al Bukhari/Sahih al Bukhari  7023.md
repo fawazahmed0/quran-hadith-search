@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:We were sitting with Allah's Messenger (ﷺ), he said, "Whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] telah menceritakan kepadaku [Al Laits] telah menceritakan kepada kami ['Uqail] dari [Ibnu Syihab] mengatakan, telah mengabarkan kepadaku [Sa'id bin Musayyab], bahwasanya [Abu Hurairah] menuturkan; ketika kami duduk-duduk di dekat Rasulullah Shallallahu'alaihiwasallam, beliau mengatakan: "ketika aku tidur, kulihat diriku dalam surga, tiba-tiba ada seorang wanita berwudhu disamping istana. Maka saya bertanya; 'milik siapa istana ini? ' Mereka menjawab; 'Milik Umar bin Khattab! ' maka aku ingat kecemburuannya, sehingga aku berbalik ke belakang." Kata Abu Hurairah; maka Umar spontan menangis lalu berujar; 'apakah kepadamu, bapak dan ibuku sebagai tebusanmu ya Rasulullah, aku cemburu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7023</td></tr><tr><td>Arabic No</td><td>7023</td></tr><tr><td>Reference</td><td>Book 91 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, сказал: «Когда мы сидели вместе с Посланником Аллаха ﷺ, он сказал: “Мне приснилось, что я нахожусь в Раю. [Там я увидел] женщину, совершавшую малое омовение у какого-то дворца, и я спросил: “Кому принадлежит этот (дворец)?” [Мне] сказали: “‘Умару ибн аль-Хаттабу”. Тут я вспомнил о ревности ‘Умара и вернулся». Абу Хурайра сказал: «(Услышав это,) ‘Умар ибн аль-Хаттаб, заплакал, а потом сказал: “Да станут отец мой и мать выкупом за тебя, к тебе ли я могу ревновать, о Посланник Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7023</td></tr><tr><td>Arabic No</td><td>7023</td></tr><tr><td>Reference</td><td>Book 91 Hadith 40</td></tr></tbody></table></div>
 

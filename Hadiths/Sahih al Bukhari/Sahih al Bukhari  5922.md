@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I applied perfume to the Prophet (ﷺ) with my own hands when he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yahya bin Sa'id] telah mengabarkan kepada kami [Abdurrahman bin Al Qasim] dari [Ayahnya] dari [Aisyah] dia berkata; "Saya pernah meminyaki Nabi shallallahu 'alaihi wasallam ketika ihramnya, dan saya juga pernah meminyaki beliau sebelum beliau mengerjakan ifadlah (dalam haji)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5922</td></tr><tr><td>Arabic No</td><td>5922</td></tr><tr><td>Reference</td><td>Book 77 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Я умащала благовониями Пророка ﷺ перед его облачением в ихрам, а также в Мине (когда он вышел из состояния ихрама,) перед совершением обхода вокруг Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5922</td></tr><tr><td>Arabic No</td><td>5922</td></tr><tr><td>Reference</td><td>Book 77 Hadith 137</td></tr></tbody></table></div>
 

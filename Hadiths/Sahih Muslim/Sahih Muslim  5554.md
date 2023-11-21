@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Umm Sulaim gave birth to a child. She said to him:Anas, see t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepadaku [Muhammad bin Abu 'Adi] dari [Ibnu 'Aun] dari [Muhammad] dari [Anas] dia berkata; "Ketika Ummu Sulaim melahirkan dia berkata kepadaku; "Hai Anas lihatlah bayi ini! Jangan ia menelan sesuatu apapun sebelum kamu pergi membawanya kepada Rasulullah shallallahu 'alaihi wasallam, agar beliau mentahniknya (mengunyahkan ke mulutnya dengan kurma sebelum di susui). Anas berkata; 'Lalu aku pun pergi ke rumah Rasulullah. Namun ternyata beliau sedang berada di kebun, dan beliau mengenakan pakaian dari bulu berwarna hitam sedang memberi tanda pada punggung unta yang diperolehnya pada saat pembebasan kota Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5554</td></tr><tr><td>Arabic No</td><td>2119.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5554</td></tr><tr><td>Arabic No</td><td>2119.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 165</td></tr></tbody></table></div>
 

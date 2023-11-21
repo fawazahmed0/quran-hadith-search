@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: I used to teach Qur'an to 'Abdur-Rahman bin Auf. When Umar 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ubaidullah bin Abdullah] berkata, telah menceritakan kepadaku [Ibn Abbas] radliallahu 'anhu, ia berkata, "Dahulu aku membacakan Abdurrahman bin Auf. Dikala [Umar] melakukan haji yang terakhir kalinya, Abdurrahman berkata di Mina, "Sekiranya saja engkau melihat Amirul Mukminin ketika didatangi seseorang yang berkata, si A berkata, 'Kalaulah Amirul Mukminin meninggal, niscaya aku berbaiat kepada si fulan dan si fulan." Lantas Umar berkata, "Niscaya sore ini aku berdiri memberi peringatan orang-orang yang ingin merebut wewenang mereka." Abdurrahman berkata, "Hai, jangan kau lakukan! Sebab musim haji ini menghimpun para pemimpin manusia yang memenuhi majlismu!" Maka aku khawatir jangan-jangan mereka tidak menggunakan saranmu sesuai tempatnya sehingga mereka tafsirkan tidak tepat sasaran, maka tangguhkan saja hingga Madinah menjadi tempat hijrah dan tempat yang aman, serta dipenuhi oleh sahabat-sahabat Rasulullah shallallahu 'alaihi wasallam dari muhajirin dan Anshar. Kemudian mereka menjaga saran-saranmu dan menafsirkannya sesuai tempatnya." Lantas Ibn Abbas berkata, "Demi Allah, sungguh aku berdiri bersamanya di awal-awal aku berdiri bersamanya di Madinah Munawwarah." Ibn Abbas melanjutkan, "Lantas kami tiba di Madinah, dan ia katakan, "Allah telah mengutus Muhammad shallallahu 'alaihi wasallam dengan membawa kebenaran dan menurunkan al Kitab bersamanya, yang diantara ayat yang diturunkan adalah ayat rajam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7323</td></tr><tr><td>Arabic No</td><td>7323</td></tr><tr><td>Reference</td><td>Book 96 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайдуллах ибн ‘Абдуллах сказал: \n— Мне передал ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказав: «Я обучал Корану ‘Абдур-Рахмана ибн ‘Ауфа, и вот во время последнего хаджа, который совершил ‘Умар, ‘Абдур-Рахман ибн ‘Ауф находясь в Мине сказал: “Ах, если бы ты видел повелителя правоверных сегодня! К нему пришёл какой-то человек и сказал: ‹Поистине, такой-то говорит: Если бы повелитель правоверных умер, то мы присягнули бы такому-то›”. ‘Умар сказал: “Я непременно сегодня ночью выйду (к людям) и буду предостерегать от этой группы, которые желают забрать (власть) мусульман”. ‘Абдур-Рахман ибн ‘Ауф сказал: “Не делай этого. Ведь, поистине, сезон (хаджа) собирает простой люд, и их больше, чем тех, кто находится вместе с тобой, и я боюсь, (что если сегодня ты скажешь что-то), они поймут их неправильно и разнесут эти слова во все концы. Подожди до тех пор, пока не прибудешь в Медину — обитель хиджры и Сунны, ты останешься со сподвижниками Посланника Аллаха ﷺ из числа мухаджиров и ансаров, и они сохранят сказанное тобой и поймут твои слова так, как их следует понимать”. Тогда ‘Умар сказал: “Клянусь Аллахом, я непременно произнесу эти слова в первую очередь в Медине”». \nИбн ‘Аббас сказал: «Когда мы прибыли в Медину, ‘Умар сказал: «Поистине, Аллах направил Мухаммада ﷺ к людям с истиной и ниспослал ему Писание, и среди того, что Он ниспослал ему, был аят о побивании камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7323</td></tr><tr><td>Arabic No</td><td>7323</td></tr><tr><td>Reference</td><td>Book 96 Hadith 53</td></tr></tbody></table></div>
 

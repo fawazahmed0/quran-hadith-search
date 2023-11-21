@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:I heard Jabir bin 'Abdullah saying, "A man passed through the mosq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Sufyan] berkata, aku katakan kepada ['Amru], "Apakah kamu mendengar [Jabir bin 'Abdullah] berkata, "Ada seorang laki-laki berjalan di dalam masjid dengan membawa panah. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Jagalah ujung panahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>451</td></tr><tr><td>Arabic No</td><td>451</td></tr><tr><td>Reference</td><td>Book 8 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суфйан (ибн ‘Уйейна) сказал:\n— (Однажды) я сказал ‘Амру (ибн Динару):\n— Слышал ли ты, как Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, говорил: «(Как-то раз, когда) один человек, нёсший с собой стрелы, проходил по мечети, Посланник Аллаха ﷺ сказал ему: “Возьмись за их острия!”?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>451</td></tr><tr><td>Arabic No</td><td>451</td></tr><tr><td>Reference</td><td>Book 8 Hadith 100</td></tr></tbody></table></div>
 

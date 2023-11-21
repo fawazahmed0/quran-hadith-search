@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Amr Al-Aslami that his father Hamza said:'Umar (ra) sent 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2290</td></tr><tr><td>Arabic No</td><td>2290</td></tr><tr><td>Reference</td><td>Book 39 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Мухаммада ибн ‘Амра аль-Аслями, что его отец Хамза рассказал, что однажды ‘Умар, да будет доволен им Аллах, послал его в качестве сборщика закята. Один человек совершил прелюбодеяние с рабыней своей жены, и Хамза взял с этого человека поручительство, пока они не пришли к ‘Умару, и оказалось, что 'Умар уже наказал его сотней плетей. Затем ‘Умар подтвердил их утверждение (что он уже был наказан) и оправдал его за невежество.\nДжарир и аль-Аш‘ас сказали ‘Абдуллаху ибн Мас‘уду относительно вероотступников (муртаддов): «Пусть они покаются и возьми поручительства за них». Они раскаялись, и их родственники поручились за них.\nХаммад сказал: «Если кто-то поручится за другого человека, и этот человек умрёт, то человек, давший поручительство, не несёт ответственности».\nАль-Хакам сказал: «Он обязан возмещать за него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2290</td></tr><tr><td>Arabic No</td><td>2290</td></tr><tr><td>Reference</td><td>Book 39 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu’tamir reported on the authority of his father Sa’id bin Al Hassan explain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], dari [Mu'tamir], dari [ayahnya]: "Dan barangsiapa yang memaksa mereka, maka sesungguhnya Allah adalah Maha Pengampun lagi Maha Penyayang (kepada mereka) sesudah mereka dipaksa itu." Ia berkata; [Sa'id bin Abu Al Hasan] berkata; Maha Pengampun kepada para wanita yang dipaksa tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2312</td></tr><tr><td>Arabic No</td><td>2312</td></tr><tr><td>Reference</td><td>Book 13 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Му‘тамир передаёт от своего отца, что Са‘ид ибн Абу аль-Хасан сказал о словах Всевышнего «Если же кто-либо принудит их к этому, то Аллах после принуждения их будет Прощающим, Милостивым» (сура 24 «ан-Нур», аят 33): «Прощающим в отношении принуждаемых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2312</td></tr><tr><td>Arabic No</td><td>2312</td></tr><tr><td>Reference</td><td>Book 13 Hadith 138</td></tr></tbody></table></div>
 

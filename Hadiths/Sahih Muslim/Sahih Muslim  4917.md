@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Anas b. Malik that some people came to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Anas bin Malik] dia berkata, "Serombongan orang datang kepada Nabi shallallahu 'alaihi wasallam, lalu mereka berkata, "Kirimkanlah bersama kami beberapa orang untuk mengajarkan Al Qur'an dan As Sunnah kepada kami." Maka beliau mengirim tujuh puluh orang laki-laki dari golongan Anshar, mereka di namakan Al Qurra (ahli dalam membaca Al-Qur'an). Mereka adalah orang-orang yang menjauhi perkara haram, selalu membaca dan mempelajari Al-Qur'an di malam hari, sedangkan di siang hari mereka mengangkut air ke masjid sehingga bisa digunakan untuk bersuci. Selain itu mereka juga mencari kayu bakar, setelah dijual, mereka gunakan uangnya untuk membeli makanan untuk ahli suffah dan orang-orang fakir. Nabi shallallahu 'alaihi wasallam lalu mengutus mereka menyertai rombongan tersebut. Di tengah perjalanan mereka diserang oleh rombongan tersebut, dan akhirnya mereka dibunuh sebelum sampai ke tempat tujuan. Namun mereka sempat berdo'a: "Ya Allah, sampaikanlah kabar kami kepada Nabi kami, bahwa kami telah bertemu dengan-Mu. Kami ridla dengan-Mu dan Engkau ridla dengan kami." Anas melanjutkan, "Ketika itu ada seseorang yang membuntuti Haram -paman Anas- dari belakang, rupanya Haram dapat menikamnya dengan tombak hingga ia berhasil membunuhnya. Setelah itu Haram berkata, "Saya telah menang demi Rabb pemilik Ka'bah." Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: "Sesungguhnya saudara-saudara kalian telah terbunuh, dan (sebelum terbunuh) mereka sempat berkata, "Ya Allah, sampaikanlah kabar kami kepada Nabi kami, bahwa kami telah bertemu dengan-Mu. Kami ridla dengan-Mu dan Engkau ridla dengan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4917</td></tr><tr><td>Arabic No</td><td>677.11</td></tr><tr><td>Reference</td><td>Book 33 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4917</td></tr><tr><td>Arabic No</td><td>677.11</td></tr><tr><td>Reference</td><td>Book 33 Hadith 212</td></tr></tbody></table></div>
 

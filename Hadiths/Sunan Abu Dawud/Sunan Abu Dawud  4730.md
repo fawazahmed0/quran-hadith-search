@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said :The people asked : Messenger of Allah! Shall we see our lord,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il] berkata, telah menceritakan kepada kami [Sufyan] dari [Suhail bin Abu Shalih] dari [Bapaknya] Bahwasanya ia mendengarnya menceritakan dari [Abu Hurairah] ia berkata, "Seseorang bertanya kepada Rasulullah, "Wahai Rasulullah, apakah kita bisa melihat Tuhan kita pada hari kiamat?" beliau bersabda: "Apakah kalian merasa kesulitan ketika melihat matahari saat waktu zhuhur yang tidak ada awannya?" mereka menjawab, "Tidak." Beliau bertanya lagi: "Apakah kalian merasa kesulitan saat melihat rembulan di malam purnama yang tidak ada awannya?" mereka menjawab, "Tidak." Beliau bersabda: "Demi Dzat yang jiwaku ada dalam genggaman-Nya, kalian tidak akan kesulitan untuk melihat-Nya kecuali sebagaimana kalian melihat salah satu dari keduanya (matahari atau rembulan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2968)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4730</td></tr><tr><td>Arabic No</td><td>4730</td></tr><tr><td>Reference</td><td>Book 42 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что однажды люди спросили: «О Посланник Аллаха! Увидим ли мы нашего Господа в День воскресения?» Он спросил их: «Мешает ли вам что-то видеть в полдень солнце, которое не скрыто тучами?» Они ответили: «Нет». Он спросил: «Мешает ли вам что-то видеть полную луну в такую ночь, когда она не будет скрыта облаками?» Они ответили: «Нет». Тогда он сказал: «Клянусь Тем, в Чьей руке душа моя, вам ничего не помешает увидеть Его, как ничего не мешает вам видеть их!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2968)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4730</td></tr><tr><td>Arabic No</td><td>4730</td></tr><tr><td>Reference</td><td>Book 42 Hadith 135</td></tr></tbody></table></div>
 

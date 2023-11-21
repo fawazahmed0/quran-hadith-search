@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Abu Bakr came to me while Allah's Messenger (ﷺ) was sleeping w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari ['Abdurrahman bin Al Qasim] dari [ayahnya] dari ['Aisyah] mengatakan, Abu Bakar radliallahu 'anhu datang ketika Rasulullah shallallahu 'alaihi wasallam meletakkan kepalanya di pahaku, Abu Bakar berujar; 'Engkau telah menghalangi Rasulullah Shallallahu'alaihiwasallam padahal manusia tidak mendapatkan air untuk tayammum.' Abu Bakar mencelaku dan mencubit lambungku dengan tangannya dan tak ada yang menghalangiku untuk bergerak selain posisi Rasulullah Shallallahu'alaihiwasallam, maka Allah kemudian menurunkan ayat tayammum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6844</td></tr><tr><td>Arabic No</td><td>6844</td></tr><tr><td>Reference</td><td>Book 86 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Абу Бакр пришёл (ко мне), когда Посланник Аллаха ﷺ положил голову мне на ногу. Он воскликнул: “Ты задержала Посланника Аллаха ﷺ и (других) людей, (не имеющих воды,) там, где её нет!” И принялся упрекать меня, а потом стал тыкать меня рукой в бок, мне же мешало двинуться с места лишь то, что (голова) Посланника Аллаха ﷺ покоилась у меня на ноге. А затем Аллах ниспослал аят об очищении песком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6844</td></tr><tr><td>Arabic No</td><td>6844</td></tr><tr><td>Reference</td><td>Book 86 Hadith 66</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarîr Ibn 'Abdillâh (que Dieu l'agrée) a dit : Nous étions assis auprès du 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Marwan bin Muawiyah Al Fizari] telah mengabarkan kepada kami [Ismail bin Abu Khalid] telah menceritakan kepada kami [Qais bin Abu Hazim] katanya; aku mendengar [Jarir bin Abdullah] berkata; "Kami pernah duduk-duduk disisi Rasulullah shallallahu 'alaihi wasallam, tiba-tiba beliau melihat bulan di malam purnama dan berujar; "Ketahuilah, kalian akan melihat Rabb kalian sebagaimana kalian melihat bulan ini, kalian tidak kesulitan melihatnya, sekiranya kalian mampu untuk tidak keberatan mendirikan shalat sebelum terbit matahari dan sebelum terbenamnya, maksudnya shalat ashar dan shubuh (fajar)." Kemudian Jarir membacakan ayat "Dan bertasbihlah dengan memuji Tuhanmu sebelum terbit matahari dan sebelum terbenamnya." QS.Toha 130, Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Usamah] dan [Waki'] dengan sanad seperti ini, dan beliau juga bersabda; "Kalian akan dihadapkan kepada Rabb kalian sehingga kalian melihat-Nya sebagaimana kalian melihat bulan ini, " Qais mengatakan; "Kemudian Beliau membaca (ayat tersebut), dan tidak mengatakan "Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1434</td></tr><tr><td>Arabic No</td><td>633.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдуллах сказал: «Однажды в ночь полнолуния, когда мы находились вместе с Посланником Аллаха ﷺ, он посмотрел на луну и сказал: “Поистине, вы увидите Господа вашего (так же ясно), как видите эту луну, и вам не придётся собираться, чтобы увидеть Его! И если сможете вы добиться того, чтобы ничто не мешало вам совершать молитвы перед восходом солнца и перед закатом его имея в виду утреннюю /фаджр/ и послеполуденную /‘аср/ молитвы , (то совершайте их)”». После этого Джарир прочитал (аят, в котором сказано): «…и прославляй Господа твоего до восхода солнца и перед заходом» (Сура «Та Ха», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1434</td></tr><tr><td>Arabic No</td><td>633.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 267</td></tr></tbody></table></div>
 

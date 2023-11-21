@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:Shahl bin Sa'd said, "A lady came with a Burda. Sahl then ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Abu Hazim] dari [Sahl bin Sa'd] dia berkata; "Seorang wanita datang sambil membawa selimut bersulam yang ada rendanya. Sahal berkata; Apa kamu tahu selimut apakah itu? Abu Hazm menjawab: Ya, ia adalah mantel bertutup kepala yang ujungnya berenda. Wanita itu berkata; "Wahai Rasulullah! Aku menenun selimut ini dengan tanganku, aku membawanya untuk mengenakannya pada baginda. Lalu Rasulullah shallallahu 'alaihi wasallam mengambilnya karena memang membutuhkannya. Lalu beliau keluar menemui kami ternyata selimut itu berupa kain sarung, kemudian seseorang dari suatu kaum datang menemui beliau dan berkata; "Kenakanlah untukku wahai Rasulullah! Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya." Kemudian beliau duduk di majlis sebagaimana yang di kehendaki Allah, lalu pulang. Setelah itu beliau melipat kain tersebut dan memberikannya pada orang itu. Orang-orang berkata pada orang itu; "Demi Allah, kau berlaku kurang ajar. Kamu telah memintanya dia saat beliau memerlukannya, padahal kau tahu beliau tidak pernah menolak seorang peminta pun." Orang itu berkata; "Demi Allah, aku tidak memintanya melainkan untuk aku jadikan sebagai kafanku pada saat aku meninggal." Sahal berkata; "Maka selimut itu dijadikan kafannya saat ia meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5810</td></tr><tr><td>Arabic No</td><td>5810</td></tr><tr><td>Reference</td><td>Book 77 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «(Как-то раз) одна женщина принесла (в подарок Пророку ﷺ) окантованный тканный плащ /бурда/». (Рассказывавший об этом Сахль спросил слушавших его людей): «Знаете ли вы, что такое плащ?» Они ответили: «Да. Это окантованная тканная накидка /шамля/». (Далее Сахль сказал): «(Эта женщина сказала): “О Посланник Аллаха, я соткала (этот плащ) своими руками и пришла сюда, чтобы надеть его на тебя”. Посланник Аллаха ﷺ взял (этот плащ), поскольку нуждался в нём, а потом он вышел к нам, надев его на себя, как надевают изар. Один человек сказал: “О Посланник Аллаха! Надень его на меня”. Пророк ﷺ сказал: “Хорошо”. Пророк ﷺ посидел некоторое время с людьми, а затем вернулся (домой), завернул тот плащ и послал его ему. Люди сказали тому человеку: “Ты нехорошо поступил тем, что попросил его (плащ), ведь ты знаешь о том, что он никому не отказывает!” Этот человек ответил: “Клянусь Аллахом, я попросил его (дать мне этот плащ) только для того, чтобы он послужил мне саваном в день, когда я умру!”». \nСахль сказал: «И (впоследствии этот плащ действительно) послужил ему саваном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5810</td></tr><tr><td>Arabic No</td><td>5810</td></tr><tr><td>Reference</td><td>Book 77 Hadith 28</td></tr></tbody></table></div>
 

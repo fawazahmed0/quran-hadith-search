@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salmah: the maid-servant of the Messenger of Allah (ﷺ), said: No one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Wazir Ad Dimasyqi] telah menceritakan kepada kami [Yahya bin Hassan] telah menceritakan kepada kami [Abdurrahman bin Abu Al Mawali] telah menceritakan kepada kami [Faid] mantan budak 'Ubaidullah bin Ali bin Abu Rafi', dari [Ubaidullah bin Abu Rafi'] dari neneknya [Salma] pelayan Rasulullah shallallahu 'alaihi wasallam, Ia berkata, "Tidak ada seorangpun yang mengeluhkan penyakit kepada Rasulullah shallallahu 'alaihi wasallam pada kepalanya melainkan beliau berkata: "Berbekamlah!" Dan tidaklah ia mengeluhkan sakit pada kedua kakinya melainkan beliau berkata: "Warnailah dengan pacar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3858</td></tr><tr><td>Arabic No</td><td>3858</td></tr><tr><td>Reference</td><td>Book 29 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сальмы, которая прислуживала Посланнику Аллаха ﷺ: «Кто бы из нас ни пожаловался на головную боль, Посланник Аллаха ﷺ непременно говорил: “Сделай себе кровопускание”. А если кто-то из нас жаловался на боль в ногах, (Посланник Аллаха ﷺ) непременно говорил: “Покрой их хной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3858</td></tr><tr><td>Arabic No</td><td>3858</td></tr><tr><td>Reference</td><td>Book 29 Hadith 4</td></tr></tbody></table></div>
 

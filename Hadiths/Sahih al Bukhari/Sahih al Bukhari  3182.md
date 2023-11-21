@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:We were in Siffin and Sahl bin Hunaif got up and said, "O peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Yahya bin Adam] telah bercerita kepada kami [Yazid bin 'Abdul 'Aziz] dari [bapaknya] telah bercerita kepada kami [Habib bin Abu Tsabit] berkata telah bercerita kepadaku [Abu Wa'il] berkata; Kami terlibat dalam perang Shiffiin lalu [Sahal bin Hunaif] berkata; "Wahai sekalian manusia, berhati-hatilah kalian dengan diri kalian. Sungguh kami pernah bersama Rasulullah shallallahu 'alaihi wasallam pada hari Perjanjian Hudaibiyah. Seandainya saat itu kami berpendapat untuk perang pasti kami sudah berperang hingga datang 'Umar bin Al Khaththab seraya berkata; "Wahai Rasulullah, bukankah kita berada di atas kebenaran sedangkan mereka di atas kebathilan?". Beliau Shallallahu'alaihiwasallam menjawab: "Ya, benar". Lalu dia bertanya lagi; "Bukankah siapa yang gugur diantara kita akan masuk surga sedang orang yang tewas dari mereka akan masuk neraka?". Beliau Shallallahu'alaihiwasallam menjawab: "Ya, benar". 'Umar bertanya; "Lalu atas dasar alasan apa kita menimpakan kehinaan dalam agama kita ini, apakah kita akan pulang sedangkan Allah belum memutuskan perkara antara kita dan mereka?". Maka Beliau menjawab: "Wahai putra Al Khaththab, aku ini Rasulullah dan Allah sekali-kali tidak akan menyia-nyiakan aku selamanya". Kemudian 'Umar mendatangi Abu Bakr lalu mengatakan seperti yang dia katakan kepada Nabi shallallahu 'alaihi wasallam. Maka Abu Bakr berkata; "Beliau itu Rasulullah dan Allah sekali-kali tidak akan menyia-nyiakan Beliau selamanya". Maka kemudian turunlah surah al-Fath lalu Rasulullah shallallahu 'alaihi wasallam membacakannya kepada 'Umar hingga akhir surat. Lalu 'Umar bertanya; "Wahai Rasulullah, apakah (keputusan) ini tanda kemenangan?". Beliau menjawab: "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3182</td></tr><tr><td>Arabic No</td><td>3182</td></tr><tr><td>Reference</td><td>Book 58 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ваиль рассказывал: «Когда мы были в Сыффине, Сахль ибн Хунейф встал и сказал: “О люди, не упрекайте никого, кроме самих себя. Мы были с Посланником Аллаха ﷺ в день Худейбии, если бы тогда нужно было сразиться, то мы обязательно сразились бы. ‘Умар даже пришёл к Пророку ﷺ и сказал: “Разве мы не на истине, тогда как они заблуждаются?” Он ответил: “Конечно”. ‘Умар сказал: “Разве те из нас, которые погибают, не попадают в Рай, тогда как их погибшие будут ввергнуты в Ад?” Он ответил: “Конечно”. ‘Умар сказал: “Почему же мы должны унижаться в том, что касается нашей религии, возвращаясь до того, как Аллах рассудил между нами”. Он сказал: “О Ибн аль-Хаттаб, поистине, я — Посланник Аллаха, и Аллах никогда не погубит меня!” Тогда ‘Умар отправился к Абу Бакру и сказал ему то же, что и Пророку ﷺ. Абу Бакр же ответил ему: “Поистине, он — Посланник Аллаха, и Аллах никогда не погубит его”. Затем, когда была ниспослана сура “аль-Фатх”, Посланник Аллаха ﷺ прочитал её до конца ‘Умару. ‘Умар спросил: “О Посланник Аллаха, разве это было победой?” Пророк ﷺ ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3182</td></tr><tr><td>Arabic No</td><td>3182</td></tr><tr><td>Reference</td><td>Book 58 Hadith 24</td></tr></tbody></table></div>
 

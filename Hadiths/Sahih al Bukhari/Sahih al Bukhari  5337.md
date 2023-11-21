@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ I (Humaid) said to Zainab, "What does 'throwing a globe of dung when one year ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Masih dari jalur periwayatan yang sama dengan hadits sebelumnya) [Zainab] berkata; Aku mendengar [Ummu Salamah] berkata; Seorang wanita pernah datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya anak perempuanku ditinggal mati oleh suaminya, sementara matanya juga terasa perih. Bolehkah ia bercelak?" Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak." Beliau mengulanginya dua atau tiga kali. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Masa berkabungnya adalah empat bulan sepuluh hari. Sesungguhnya pada masa jahiliyah dulu, salah seorang dari kalian melempar kotoran setelah satu tahun." Humaid berkata; Aku bertanya kepada Zainab, "Apa maksud dari pernyataan bahwa, ia melempar kotoran setelah setahun?" Zainab menjawab, "Maksudnya, bila seorang wanita ditinggal mati oleh suaminya, ia masuk ke dalam gubuk, dan memakai pakaian yang paling lusuh miliknya. Ia tidak boleh menyentuh wewangian hingga berlalu satu tahun. Kemudian keledai, kambing atau sebangsa burung didatangkan kepada wanita itu agar ia mengusap kulitnya. Dan amat jarang ia mengusap suatu pun kecuali sesuatu itu akan mati. Setelah itu, ia keluar lalu diberi kotoran hewan dan ia lemparkan, setelah itu ia bebas menyentuh kembali sekehendaknya berupa wewangian atau pun yang lainnya." Malik ditanya, "Apa makna Tanfadldlu bihi?" Ia menjawab, "Yaitu, mengusap kulitnya dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5337</td></tr><tr><td>Arabic No</td><td>5337</td></tr><tr><td>Reference</td><td>Book 68 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хумайд, (один из передатчиков хадиса,) спросил Зейнаб: «А что означают его слова “Одна из вас бросала верблюжий помёт спустя год после смерти мужа”?» Зейнаб ответила: «В те времена, если у женщины умирал муж, она входила в крошечное жилище, надевала худшую одежду и не прикасалась ни к благовониям, ни к чему-то подобному, а по прошествии года к ней приводили животное. Это мог быть осёл, овца или птица, и она вытиралась об него, после чего животное редко оставалось в живых. А потом ей давали помёт, и она бросала его (, что символизировало окончание траура). После этого она снова могла использовать благовония и всё остальное, от чего отказалась в этот период»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5337</td></tr><tr><td>Arabic No</td><td>5337</td></tr><tr><td>Reference</td><td>Book 68 Hadith 82</td></tr></tbody></table></div>
 

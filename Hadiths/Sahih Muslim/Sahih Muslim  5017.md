@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : "Je ne sais si l'Envoyé de Die
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Yusuf Al Azdi] telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyast] telah menceritakan kepada kami [Bapakku] dari [Ashim] dari [Amir] dari [Ibnu Abbas] ia berkata, "Aku tidak tahu, Rasulullah shallallahu 'alaihi wasallam melarang dari memakannya apakah karena ia adalah alat transportasi sehingga beliau tidak ingin ia punah, atau beliau telah mengharamkannya pada hari khaibar (daging keledai jinak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5017</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 34 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5017</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 34 Hadith 46</td></tr></tbody></table></div>
 

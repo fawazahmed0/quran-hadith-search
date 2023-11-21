@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) arrived at Medina, the Jews were obse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, beliau melihat kaum Yahudi berpuasa pada hari Asyura', mereka berkata; "Lebih tepatnya pada hari Musa mengalahkan Fir'aun. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: "Kalian lebih berhak terhadap Musa daripada mereka, maka berpuasalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Прибыв в Медину, Пророк ﷺ увидел, что иудеи постятся в день ‘Ашуры. (Когда он спросил их об этом), они сказали: “Это — день, в который Аллах помог Мусе одержать верх над фараоном”. Тогда Пророк ﷺ сказал сподвижникам: “Вы имеете больше прав на Мусу, чем они, так поститесь же (в этот день)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
 

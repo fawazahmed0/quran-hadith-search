@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qasim bin Muhammad:Three traditions have been established because of Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata; telah menceritakan kepada kami [Ismail bin Ja'far] dari [Rabi'ah] bahwasanya ia mendengar [Al Qasim bin Muhammad] berkata; "Pada diri Barirah ada tiga sifat yang Aisyah ingin membeli lalu memerdekakannya. Keluarganya lalu berkata; 'Tetapi perwaliannya tetap untuk kami.' Maka [Aisyah] pun melaporkan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, beliau lalu bersabda: 'Jika mau, kamu bisa membuat persyaratan bagi mereka. Sesungguhnya perwalian itu adalah bagi orang yang memerdekakannya.' Al Qasim berkata; 'Kemudian Barirah dimerdekakan dan diberi pilihan untuk kembali kepada suaminya atau berpisah. Suatu ketika Rasulullah shallallahu 'alaihi wasallam masuk ke dalam rumah Aisyah, sementara di atas tungku ada periuk yang sedang mendidih. Beliau kemudian minta untuk disiapkan makanan pagi. Maka beliau pun diberi hidangan roti dan makanan pendampingnya (semacam kuah), lalu beliau pun bersabda: 'Sepertinya aku melihat daging? ' Mereka (yang ada di rumah) menjawab; 'Benar, wahai Rasulullah. Tetapi itu adalah daging yang disedekahkah kepada Barirah, lalu olehnya diberikan kepada kita! ' Beliau lantas bersabda: 'Daging itu bagi Barirah adalah sedekah, sedangkan untuk kita adalah hadiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5430</td></tr><tr><td>Arabic No</td><td>5430</td></tr><tr><td>Reference</td><td>Book 70 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Касим ибн Мухаммад сказал: «С Барирой связаны три сунны (предписания шариата). (Во-первых), когда ‘Аиша захотела купить и освободить её, её владельцы сказали: “(Хорошо), но право наследовать вольноотпущенника /аль-уаля/ останется за нами”. Когда она рассказала об этом Посланнику Аллаха ﷺ, он сказал: “Если хочешь прими их условие, но право наследовать вольноотпущенника /аль-уаля/ принадлежит тому, кто освободил его”. (Во-вторых) после освобождения ей был предоставлен выбор: остаться с мужем или расстаться с ним. (В-третьих), однажды, Посланник Аллаха ﷺ вошёл к ’Аише, а на огне кипел котёл с мясом, и, когда он попросил принести ему еды, чтобы пообедать, ему принесли хлеб с домашней приправой. Он спросил: “Разве я не видел (на огне котёл с) мясом?” Ему ответили: “Да, о Посланник Аллаха, но это мясо было дано Барире в качестве милостыни, а она подарила его нам”. Тогда он сказал: “Для неё это милостыня, а для нас подарок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5430</td></tr><tr><td>Arabic No</td><td>5430</td></tr><tr><td>Reference</td><td>Book 70 Hadith 58</td></tr></tbody></table></div>
 

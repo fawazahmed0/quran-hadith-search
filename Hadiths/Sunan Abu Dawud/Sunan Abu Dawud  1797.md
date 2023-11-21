@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: I was with Ali (may Allah be pleased with him) when 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Yahya bin Ma'in], ia berkata; telah menceritakan kepada Kami [Hajjaj], telah menceritakan kepada Kami [Yunus] dari [Abu Ishaq] dari [Al Bara' bin 'Azib], ia berkata; aku pernah bersama Ali ketika Rasulullah shallAllahu wa'alaihi wa sallam mengangkatnya sebagai pemimpin di Yaman. Ia berkata; aku bersamanya mendapatkan uang beberapa uqiyah, kemudian tatkala Ali datang dari Yaman kepada Rasulullah shallAllahu wa'alaihi wa sallam, ia berkata; aku mendapati Fathimah radliallahu 'anha memakai pakaian yang longgar, ia telah memerciki rumah dengan minyak wangi. Kemudian ia berkata; ada apa denganmu? Sesungguhnya Rasulullah shallAllahu wa'alaihi wa sallam telah memerintahkan para sahabatnya agar bertahallul. Ali berkata; aku katakan kepadanya; aku telah bertalbiyah seperti talbiyahnya Rasulullah shallAllahu wa'alaihi wa sallam. Ali berkata; kemudian aku datang kepada Nabi shallallahu 'alaihi wasallam, kemudian beliau berkata kepadaku: bagaimana engkau berbuat? Ia berkata; aku katakan; aku bertalbiyah dengan talbiyah Nabi shallallahu 'alaihi wasallam. Beliau bersabda: "Sungguh aku telah membawa hewan kurban, dan melakukan haji qiran." Ali berkata; kemudian beliau berkata kepadaku; sembelihlah enam puluh enam atau enam puluh enam unta dan tahanlah untuk dirimu tiga puluh tiga atau tiga puluh empat dan tahan untukku dari setiap unta tersebut antara tiga hingga sembilan ekor
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1797</td></tr><tr><td>Arabic No</td><td>1797</td></tr><tr><td>Reference</td><td>Book 11 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара ибн ‘Азиб, да будет доволен им Аллах, передаёт: Я сопровождал ‘Али, когда Посланник Аллаха ﷺ послал его в Йемен. Нам досталось несколько окий серебра, и когда ‘Али приехал из Йемена к Посланнику Аллаха ﷺ он сказал: «Я обнаружил, что Фатима надела разноцветную одежду и обрызгала дом душистой водой. Она спросила: “Что с тобой? Ведь Посланник Аллаха ﷺ велел своим сподвижникам снять ихрам и они сняли”. Я сказал: “Но я объявил о намерении совершить такое же паломничество, как и Посланник Аллаха ﷺ”. Затем я пришёл к Пророку ﷺ и он спросил меня: “Что ты сделал?” Я сказал: “Я объявил о намерении совершить такое же паломничество, как и Пророк ﷺ”. Посланник Аллаха ﷺ сказал: “Я пригнал жертвенный скот и соединил ‘умру с хаджем”. А потом он сказал мне: “Зарежь шестьдесят семь или шестьдесят шесть жертвенных животных, оставь себе тридцать три или тридцать четыре и оставь для меня кусок от каждой туши”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1797</td></tr><tr><td>Arabic No</td><td>1797</td></tr><tr><td>Reference</td><td>Book 11 Hadith 77</td></tr></tbody></table></div>
 

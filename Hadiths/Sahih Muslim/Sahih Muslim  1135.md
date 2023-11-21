@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama b. Akwa' reported:He sought the place (in the mosque) where the copies of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin al-Mutsanna] dan lafazh tersebut milik Ibnu al-Mutsanna. Ishaq berkata, telah mengabarkan kepada kami, sedangkan Ibnu al-Mutsanna berkata, telah menceritakan kepada kami [Hammad bin Mas'adah] dari [Yazid, yaitu Ibnu Abi Ubaid] dari [Salamah, dan dia adalah Ibnu al-Akwa'] "Dia memilih lokasi khusus tempat mushaf yang ia pergunakan untuk bertasbih (maksudnya shalat sunnah). Dan dia menyebutkan bahwa Rasulullah Shallallahu'alaihiwasallam memilih tempat tersebut. Jarak antara minbar dan kiblat sekitar jalan lewatnya kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>509.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Язида, что Саляма ибн аль-Аква‘ стремился к месту, где находился мусхаф, и там совершал (дополнительную) молитву. И он упомянул, что Посланник Аллаха ﷺ стремился (совершать молитву) в этом месте. И между минбаром и киблой было расстояние, достаточное для того, чтобы там могла пройти овца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>509.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 297</td></tr></tbody></table></div>
 

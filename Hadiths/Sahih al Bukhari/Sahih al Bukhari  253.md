@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) and Maimuna used to take a bath from a sin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Ibnu 'Uyainah] dari ['Amru] dari [Jabir bin Zaid] dari [Ibnu 'Abbas], bahwa Nabi shallallahu 'alaihi wasallam dan Maimunah mandi bersama dari satu ember." Abu 'Abdullah berkata, "Terakhir Ibnu 'Uyainah meriwayatkan dari Ibnu Abbas dari Maimunah, padahal yang benar adalah apa yang diriwayatkan oleh Abu Nu'aim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>253</td></tr><tr><td>Arabic No</td><td>253</td></tr><tr><td>Reference</td><td>Book 5 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что Пророк ﷺ и Маймуна совершали большое омовение из одного и того же сосуда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>253</td></tr><tr><td>Arabic No</td><td>253</td></tr><tr><td>Reference</td><td>Book 5 Hadith 6</td></tr></tbody></table></div>
 

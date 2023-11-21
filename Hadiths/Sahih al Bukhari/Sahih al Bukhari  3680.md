@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While we were with Allah's Messenger (ﷺ) he said, "While 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada kami [Al Laits] berkata, telah bercerita kepadaku ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah Radhiyalahu'anhu] berkata; Ketika kami sedang bersama Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Ketika tidur, aku bermimpi diriku berada didalam surga, disana ada seorang wanita yang sedang berwudlu' di samping istana. Aku bertanya: "Untuk siapakah istana itu?". Mereka menjawab; "Untuk 'Umar". Namun aku teringat kecemburuanmu, maka aku berpaling". Seketika 'Umar menangis dan berkata; "Apakah patut aku cemburu kepadamu, wahai Rasulullah?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3680</td></tr><tr><td>Arabic No</td><td>3680</td></tr><tr><td>Reference</td><td>Book 62 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды, когда) мы находились в обществе Посланника Аллаха ﷺ, он сказал: «Во сне я увидел, что нахожусь в Раю, где встретил женщину, совершавшую омовение рядом с каким-то дворцом. Я спросил: “Кому принадлежит этот дворец?” (Мне) ответили: “‘Умару”, а потом я вспомнил о ревности (‘Умара) и поспешно удалился (оттуда)». (Услышав это,) ‘Умар заплакал и сказал: «Могу ли я ревновать (, когда речь идёт о) тебе, о Посланник Аллаха?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3680</td></tr><tr><td>Arabic No</td><td>3680</td></tr><tr><td>Reference</td><td>Book 62 Hadith 30</td></tr></tbody></table></div>
 

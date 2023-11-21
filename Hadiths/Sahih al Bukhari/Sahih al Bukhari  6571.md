@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "I know the person who will be the la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6571</td></tr><tr><td>Arabic No</td><td>6571</td></tr><tr><td>Reference</td><td>Book 81 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, мне известен тот, кто последним выйдет из огня и последним войдёт в Рай. (Этот) человек выберется из огня ползком на четвереньках, и Аллах скажет ему: “Ступай и войди в Рай!” Когда он подойдёт к Раю, ему покажется, что он полон, и он вернётся и скажет: “О Господь мой, оказалось, что он уже полон!” И Аллах (снова) скажет ему: “Ступай и войди в Рай!” И он подойдёт к Раю, но ему (опять) покажется, что он полон, и он вернётся и скажет: “О Господь мой, оказалось, что он уже полон!” И тогда Аллах скажет ему: “Ступай и войди в Рай, и ты получишь всё, что вмещал (земной) мир, и в десять раз больше в придачу (или: в десять раз больше, чем (земной) мир)”. И (человек) скажет: “Ты насмехаешься (или: … смеёшься) надо мной, несмотря на то, что являешься Царём?”».\n‘Абдуллах сказал: «Я видел, как в тот момент Посланник Аллаха ﷺ рассмеялся так, что были видны его коренные зубы, и он говорил: “Этот человек займёт самую низкую ступень в Раю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6571</td></tr><tr><td>Arabic No</td><td>6571</td></tr><tr><td>Reference</td><td>Book 81 Hadith 159</td></tr></tbody></table></div>
 

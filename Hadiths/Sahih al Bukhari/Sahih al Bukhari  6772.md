@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When an adulterer commits il
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] dari [Abu bakr bin Abdurrahman] dari [Abu Hurairah], bahwasanya Rasulullah Shallallahu'alaihiwasallam bersabda: "Tidaklah berzina orang yang berzina ketika ia berzina dalam keadaan beriman, dan tidaklah mencuri orang yang mencuri ketika ia mencuri dalam keadaan beriman, tidaklah ia meminum khamr ketika meminumnya ia dalam keadaan beriman, dan tidaklah ia merampas suatu rampasan yang berharga dan menjadi daya tarik manusia dalam keadaan beriman." Dan dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dan [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan hadits semisal, tanpa menyertakan kalimat rampasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6772</td></tr><tr><td>Arabic No</td><td>6772</td></tr><tr><td>Reference</td><td>Book 86 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда прелюбодей прелюбодействует, он не является верующим, и когда (человек) распивает опьяняющие напитки, он не является верующим, и когда вор совершает кражу, он не является верующим, и тот, кто на глазах у людей отнимает у других что-нибудь ценное, не является верующим, когда делает это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6772</td></tr><tr><td>Arabic No</td><td>6772</td></tr><tr><td>Reference</td><td>Book 86 Hadith 1</td></tr></tbody></table></div>
 

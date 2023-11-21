@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khalid bin Al-Walid:Allah's Messenger (ﷺ) and I entered the house of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Abu Umamah bin Sahl] dari [Abdullah bin Abbas] radliallahu 'anhuma dari [Khalid bin Al Walid] bahwa dia bersama Rasulullah shallallahu 'alaihi wasallam pernah masuk ke rumah Maimunah, lalu dihidangkan daging biawak, ketika Rasulullah shallallahu 'alaihi wasallam hendak mengambil daging tersebut sebagian wanita berkata; "Beritahukanlah kepada Rasulullah shallallahu 'alaihi wasallam tentang makanan yang hendak beliau makan." Orang-orang pun berkata; "Wahai Rasulullah, itu adalah daging biawak, " Lalu beliau mengangkat tangannya, aku pun berkata; "Apakah daging itu haram wahai Rasulullah?" beliau bersabda: "Tidak, karena daging tersebut tidak ada pada kaumku, maka aku tidak menyukainya." Khalid berkata; "Lalu aku meraih daging tersebut dan memakannya, sementara Rasulullah shallallahu 'alaihi wasallam melihatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5537</td></tr><tr><td>Arabic No</td><td>5537</td></tr><tr><td>Reference</td><td>Book 72 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Халид ибн аль-Валид, да будет доволен им Аллах, передаёт, что однажды он вместе с Посланником Аллаха ﷺ пришёл к Маймуне (жене Пророка ﷺ). Им подали жареного шипохвоста. Когда Посланник Аллаха ﷺ протянул к нему руку, одна из женщин сказала: «Скажите Посланнику Аллаха ﷺ что вы ему подали», и они сказали: «Это ящерица, о Посланник Аллаха». Тогда Посланник Аллаха ﷺ убрал руку, а Халид ибн аль-Валид спросил: «О Посланник Аллаха, разве мясо шипохвоста запретно?» Он сказал: «Нет, но в земле моего народа их нет, и я чувствую, что мне это претит». Халид сказал: «Тогда я подвинул к себе [шипохвоста] и съел его, и Посланник Аллаха ﷺ смотрел на меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5537</td></tr><tr><td>Arabic No</td><td>5537</td></tr><tr><td>Reference</td><td>Book 72 Hadith 62</td></tr></tbody></table></div>
 

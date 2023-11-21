@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: A man came to the Prophet (ﷺ) and said: Peace be up
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Ja'far bin Sulaiman] dari [Auf] dari [Abu Raja] dari [Imran bin Hushain] ia berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan mengucapkan, "Assalamu Alaikum?" Beliau membalas salam orang tersebut lalu duduk, Nabi shallallahu 'alaihi wasallam kemudian bersabda: "Sepuluh." Setelah itu ada seseorang datang dan mengucapkan salam, "Assalamu Alaikum wa Rahmatullah." Beliau membalas salam orang tersebut lalu duduk, beliau bersabda: "Dua puluh." Setelah itu ada lagi orang datang dan mengucapakan salam, "Assalamu Alaikum Wa Rahmatullahi Wa barakatuh." Beliau membalas salam orang tersebut lalu duduk, beliau bersabda: "Tiga puluh." Telah menceritakan kepada kami [Ishaq bin Suwaid Ar Ramli] berkata, telah menceritakan kepada kami [Ibnu Abu Maryam] berkata, "Aku mengira, bahwa aku mendengar [Nafi' bin Yazid] berkata; telah mengabarkan kepadaku [Abu Marhum] dari [Sahl bin Mu'adz bin Anas] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam dengan makna yang sama. Ia menambahkan, "Kemudian datang orang lain dan mengucapkan "Assalamu Alaikum Wa Rahmatullah Wa Barakaatuhu Wa Maghfiratuh." Beliau lalu bersabda: "Empat puluh." Imran berkata, "Seperti inilah fadilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5195</td></tr><tr><td>Arabic No</td><td>5195</td></tr><tr><td>Reference</td><td>Book 43 Hadith 423</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран бин аль-Хусайн, да будет доволен Аллах ими обоими, сказал: Один человек пришёл к Пророку ﷺ и сказал: «Мир вам!», и он ответил на приветствие (этого человека), после чего тот сел, а Пророк ﷺ сказал: «Десять». Потом пришёл другой и сказал: «Мир вам и милость Аллаха!», и он ответил на приветствие (этого человека), после чего тот сел, а (Пророк ﷺ сказал): «Двадцать». Потом пришёл другой и сказал: «Мир вам, милость Аллаха и Его благословения!», и он ответил на приветствие (этого человека), после чего тот сел, а (Пророк ﷺ), сказал: «Тридцать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5195</td></tr><tr><td>Arabic No</td><td>5195</td></tr><tr><td>Reference</td><td>Book 43 Hadith 423</td></tr></tbody></table></div>
 

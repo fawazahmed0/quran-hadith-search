@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'Umar said:We remained one night waiting for the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Al Hakam] dari [Nafi'] dari [Abdullah bin Umar] dia berkata; Pernah pada suatu malam kami menunggu Rasulullah Shallallahu alaihi wasallam untuk shalat Isya. Kemudian beliau keluar menemui kami tatkala telah berlalu sepertiga malam. Kami tidak tahu apakah ada sesuatu yang menyibukkannya atau karena sebab lainnya. Tatkala keluar beliau bersabda: "Apakah kalian menunggu shalat ini. Kalau saja tidak memberatkan umatku, niscaya saya akan shalat bersama mereka pada waktu ini." Kemudian beliau memerintahkan muadzin untuk mengumandangkan iqamat shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (639)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 2 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «Однажды ночью, мы ждали по­сланника Аллаха ﷺ на вечернюю молитву /‘ишаъ/. Он вышел к нам после того, как прошла треть ночи или чуть позже, и мы не знали что его задержало, какое-то дело или что-то иное. И когда он вышел, то сказал: “Вы ожидаете эту молитву? Если бы это не было тяжело для членов моей общи­ны, то я (всегда) молился бы с ними в этот час”. Затем он отдал распоряжение муаззину и он призвал (людей) к молитве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (639)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 2 Hadith 30</td></tr></tbody></table></div>
 

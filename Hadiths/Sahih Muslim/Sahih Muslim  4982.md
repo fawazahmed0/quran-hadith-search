@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported:I asked Allah's Messenger (ﷺ) about hunting. He said: Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Abdullah bin Mubarak] telah mengabarkan kepada kami ['Ashim] dari [As Sya'bi] dari ['Adi bin Hatim] dia berkata, "Saya pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai hewan buruan, beliau menjawab: "Apabila kamu memanah maka sebutlah nama Allah, jika kamu mendapatinya telah terbunuh maka makanlah (hewan buruan tersebut), kecuali jika kamu dapati ia tenggelam di air, sebab kamu tidak tahu apakah air itu yang membunuhnya ataukah panahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>1929.11</td></tr><tr><td>Reference</td><td>Book 34 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>1929.11</td></tr><tr><td>Reference</td><td>Book 34 Hadith 11</td></tr></tbody></table></div>
 

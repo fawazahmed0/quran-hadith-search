@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:When anyone amongst us was menstruating the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [asy-Syaibani]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ali bin Hujr as-Sa'di] dan lafazh tersebut miliknya, telah mengabarkan kepada kami [Ali bin Mushir] telah mengabarkan kepada kami [Abu Ishaq] dari [Abdurrahman bin al-Aswad] dari [bapaknya] dari [Aisyah] dia berkata, "Dahulu apabila salah seorang dari kami haid, maka Rasulullah shallallahu 'alaihi wasallam memerintahkan kepadanya untuk memakai sarung, kemudian beliau mencumbunya." Aisyah berkata lagi, "Siapakah di antara kalian yang mampu menahan syahwatnya sebagaimana Rasulullah shallallahu 'alaihi wasallam menahan syahwatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>680</td></tr><tr><td>Arabic No</td><td>293.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Если у какой-нибудь из нас начинались месячные, Посланник Аллаха ﷺ повелевал ей надеть изар, когда истечение крови было наиболее сильным, а потом прикасался к ней». (‘Аиша также) сказала: «Кто из вас способен владеть собой так же, как Посланник Аллаха ﷺ?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>680</td></tr><tr><td>Arabic No</td><td>293.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 2</td></tr></tbody></table></div>
 

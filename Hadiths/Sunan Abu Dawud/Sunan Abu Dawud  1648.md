@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. ‘Umar reported that the Messenger of Allah (May peace be upon him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik], dari [Nafi'] dari [Abdullah bin Umar], bahwa Rasulullah shallAllahu wa'alaihi wa sallam di atas mimbar bersabda dan beliau menyebutkan mengenai sedekah, menahan diri darinya, serta mengenai sikap meminta-minta: "Tangan yang di atas lebih baik daripada tangan yang di bawah. Tangan yang di atas adalah yang berinfak, sedangkan tangan yang di bawah adalah yang meminta-minta." Abu Daud berkata; telah diperselisihkan pada Ayyub dari Nafi' dalam hadits ini. [Abdul Warits] mengatakan; tangan di atas adalah yang menahan diri (dari meminta-minta). [Kebanyakan mereka] mengatakan; dari [Hammad bin Zaid] dari [Ayyub]; tangan yang di atas adalah yang berinfak. [salah seorang dari mereka] mengatakan dari [Hammad]; yaitu yang menahan diri (dari meminta-minta)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1429) Sahih Muslim (1033)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1648</td></tr><tr><td>Arabic No</td><td>1648</td></tr><tr><td>Reference</td><td>Book 9 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ стоя на минбаре и говоря о подаянии и необходимости воздерживаться от просьб, сказал: «Высшая рука лучше низшей. Высшая рука рука подающего, а низшая рука просящего». ‘Абду-ль-Варис сказал, что высшая рука это рука воздерживающегося от просьб. Большинство передают от Хаммада ибн Зейда от Айюба: «Высшая рука расходующая». А Вахид передаёт от Хаммада, что высшая рука рука воздерживающегося от просьб
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1429) Sahih Muslim (1033)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1648</td></tr><tr><td>Arabic No</td><td>1648</td></tr><tr><td>Reference</td><td>Book 9 Hadith 93</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma (رضي الله عنها) a dit : "Nous égorgeâmes un cheval du vivant d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] dan [Hafsh bin Ghiyats] dan [Waki'] dari [Hisyam] dari [Fatimah] dari [Asma] dia berkata, "Kami pernah menyembelih seekor kuda pada zaman Rasulullah shallallahu 'alaihi wasallam, lalu kami memakan dagingnya." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] keduanya dari [Hisyam] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5025</td></tr><tr><td>Arabic No</td><td>1942.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5025</td></tr><tr><td>Arabic No</td><td>1942.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
 

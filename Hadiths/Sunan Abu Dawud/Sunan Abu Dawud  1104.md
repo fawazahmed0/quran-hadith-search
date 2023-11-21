@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umarah b. Ruwaibah said that he saw Bishr b. Marwan (on the pulpit) praying on F
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Za'idah] dari [Hushain bin Abdurrahman] dia berkata; ['Umarah bin Ruwaibah] melihat Bisyr bin Marwan sedang berdo'a pada hari Jum'at (dengan mengangkat tangan), maka Umarah berkata; "Semoga Allah menjadikan kedua tangan ini jelek." [Za'idah] berkata; [Hushain] berkata; telah menceritakan kepadaku ['Umarah] dia berkata; "Sungguh aku pernah melihat Rasulullah shallallahu 'alaihi wasallam ketika beliau di atas mimbar, (berdo'a) tidak lebih dari memberi isyarat dengan ini." yaitu jari telunjuk dekat ibu jari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (874)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1104</td></tr><tr><td>Arabic No</td><td>1104</td></tr><tr><td>Reference</td><td>Book 2 Hadith 715</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (874)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1104</td></tr><tr><td>Arabic No</td><td>1104</td></tr><tr><td>Reference</td><td>Book 2 Hadith 715</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrate Aisha:Abu Bakr married a woman from the tribe of Bani Kalb, called Um Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3921</td></tr><tr><td>Arabic No</td><td>3921</td></tr><tr><td>Reference</td><td>Book 63 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша рассказала о том, что Абу Бакр, да будет доволен им Аллах, женился на женщине из племени бану кяльб, по имени Умм Бакр. Когда Абу Бакр переселился в Медину, он развёл её, и на ней женился сын её дяди, поэт, который рассказывал следующее стихотворение, оплакивая неверных курайшитов:\nЧто хранится в колодце, колодце Бадра, (владельцы) посуд, украшенных верблюжьим мясом? \nЧто хранится в колодце, колодце Бадра, (владельцы) певиц и друзей благородных товарищей, которые пили вместе (вино), \nУмм Бакр приветствует нас приветствием мира, но могу ли я обрести мир после того, как мой народ ушел? \nПосланник говорит нам, что мы будем оживлены снова, но какой жизнью будут жить совы и черепа?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3921</td></tr><tr><td>Arabic No</td><td>3921</td></tr><tr><td>Reference</td><td>Book 63 Hadith 146</td></tr></tbody></table></div>
 

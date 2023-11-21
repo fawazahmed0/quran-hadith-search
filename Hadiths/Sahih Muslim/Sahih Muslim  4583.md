@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku membacakan di hadapan [Malik]; dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Harta warisanku tidak dapat dibagikan satu dinar pun. Harta yang aku tinggalkan selain untuk nafkah isteri-isteriku dan memberi upah kepada para pekerja adalah sedekah." Telah menceritakan kepada kami [Muhammad bin Yahya bin Abu Umar Al Makki] telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinad] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4583</td></tr><tr><td>Arabic No</td><td>1760.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4583</td></tr><tr><td>Arabic No</td><td>1760.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 64</td></tr></tbody></table></div>
 

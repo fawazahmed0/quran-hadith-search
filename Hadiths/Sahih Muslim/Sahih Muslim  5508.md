@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that when Abu Qubafa (father of Abu Bakr) came in the yeu of Vict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Az Zubair] dari [Jabir] ia berkata; dia berkata; "Pada tahun atau pada hari penaklukan Makkah, Abu Quhafah dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam dengan rambut dan jenggotnya yang memutih seperti pohon Tsaghamah (pohon yang daun dan buahnya putih). Maka Rasulullah shallallahu 'alaihi wasallam menyuruh kepada istrinya seraya bersabda: "Celuplah (rambut dan jenggot ini) dengan warna lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5508</td></tr><tr><td>Arabic No</td><td>2102.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5508</td></tr><tr><td>Arabic No</td><td>2102.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 123</td></tr></tbody></table></div>
 

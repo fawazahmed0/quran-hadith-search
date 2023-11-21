@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Wrath became severe on him whom the Prophet (ﷺ) ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Makhlad bin Malik] telah menceritakan kepada kami [Yahya bin Sa'id Al Amawy] telah menceritakan kepada kami [Ibnu Juraij] dari ['Amru bin Dinar] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, dia berkata, "Allah sangat murka kepada seseorang yang telah dibunuh oleh Nabi Shallallahu 'alahi wasallam (yang berperang) di jalan Allah, Allah sangat murka kepada suatu kaum yang telah membuat wajah Nabiyullah Shallallahu 'alahi wasallam berdarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4074</td></tr><tr><td>Arabic No</td><td>4074</td></tr><tr><td>Reference</td><td>Book 64 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Силён гнев Аллаха на человека, которого убил Пророк ﷺ на пути Аллаха. И силён гнев Аллаха на людей, которые окровавили лицо Пророка Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4074</td></tr><tr><td>Arabic No</td><td>4074</td></tr><tr><td>Reference</td><td>Book 64 Hadith 119</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:No doubt, (for some time) I stood for one-third of the Muslims
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Makkiy bin Ibrahim] telah bercerita kepada kami [Hasyim] dari ['Amir bin Sa'ad] dari [bapaknya] berkata; "Sungguh aku memandang bahwa diriku adalah Tsulutsul Islam (Orang ketiga yang masuk Islam dari kalangan orang merdeka yang telah baligh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 62 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д сказал: «(В течение некоторого времени) я был одним из трёх (первых) мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 62 Hadith 73</td></tr></tbody></table></div>
 

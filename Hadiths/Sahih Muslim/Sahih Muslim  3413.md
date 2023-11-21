@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah and Salama b. al-Akwa' said:There came to us the proclaimer o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Amru bin Dinar] ia berkata, saya mendengar [Al Hasan bin Muhammad] menceritakan dari [Jabir bin Abdullah] dan [Salamah bin Al Akwa'] ia berkata; utusan Rasulullah shallallahu 'alaihi wasallam datang kepada kami, lalu dia berkata, "Rasulullah shallallahu 'alaihi wasallam telah mengizinkan kalian untuk nikah mut'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3413</td></tr><tr><td>Arabic No</td><td>1405.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3413</td></tr><tr><td>Arabic No</td><td>1405.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 16</td></tr></tbody></table></div>
 

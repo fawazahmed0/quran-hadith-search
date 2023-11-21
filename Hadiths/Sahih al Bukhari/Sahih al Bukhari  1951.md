@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) said, "Isn't it true that a woman does not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah menceritakan kepada saya [Zaid] dari ['Iyadh] dari [Abu Sa'id radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Apabila (seorang wanita) sedang mengalami haidh, maka dia tidak shalat dan tidak puasa. Yang demikian itu menunjukkan kurangnya agamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1951</td></tr><tr><td>Arabic No</td><td>1951</td></tr><tr><td>Reference</td><td>Book 30 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида, да будет доволен им Аллах, что Пророк ﷺ сказал: «Разве (женщина) не перестает молиться и поститься, когда у неё начинаются месячные? Это и (указывает) на её несовершенство в (делах) религии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1951</td></tr><tr><td>Arabic No</td><td>1951</td></tr><tr><td>Reference</td><td>Book 30 Hadith 58</td></tr></tbody></table></div>
 

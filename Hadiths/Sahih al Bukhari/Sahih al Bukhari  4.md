@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah Al-Ansari (while talking about the period of pause 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4</td></tr><tr><td>Arabic No</td><td>4</td></tr><tr><td>Reference</td><td>Book 1 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Шихаб сказал: Рассказал мне Абу Саляма ибн ‘Абдуррахман то, что Джабир ибн ‘Абдуллах аль-Ансари, рассказывавший о периоде (временного) прекращения откровений, среди прочего сказал:\n— (Посланник Аллаха ﷺ сказал: «(Как-то раз) я шёл (по дороге) и вдруг услышал голос с неба. Я поднял голову и увидел явившегося ко мне (в пещеру на горе) Хира ангела, который (на этот раз) сидел на троне между небом и землёй. Я испугался его, вернулся (домой) и сказал: “Укройте меня, укройте меня!” − после чего Аллах Всевышний ниспослал (айаты, в которых говорилось): “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай, и одежды свои очисть, и скверны избегай...”». А после этого откровения возобновились с новой силой и стали приходить одно за другим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4</td></tr><tr><td>Arabic No</td><td>4</td></tr><tr><td>Reference</td><td>Book 1 Hadith 4</td></tr></tbody></table></div>
 

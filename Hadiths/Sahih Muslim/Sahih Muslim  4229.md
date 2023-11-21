@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), l'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Mu'awiyah] dari [Al A'masy]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ayahku] dan [Abu Mu'awiyah] keduanya berkata; telah menceritakan kepada kami [Al A'masy] dari [Abu Wail] dari [Masruq] dari ['Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan dinar, dirham, seekor kambing atau unta, dan tidak mewasiatkan sesuatu sama sekali." Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari [Jarir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa] -yaitu Ibnu Yunus- semuanya dari [Al A'masy] dengan sanad-sanad ini, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4229</td></tr><tr><td>Arabic No</td><td>1635.01</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4229</td></tr><tr><td>Arabic No</td><td>1635.01</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
 

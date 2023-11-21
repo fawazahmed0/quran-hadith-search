@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Bara b. ‘Azib said :The Messenger of Allah (May peace be upon him) said to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Al Mu'tamir] ia berkata; Aku mendengar [Manshur] menceritakan dari [Sa'd bin Ubaidah] ia berkata; telah menceritakan kepadaku [Al bara bin Azib] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Jika engkau ingin tidur, maka berwudhulah seperti wudhumu untuk shalat. Lalu tidurlah pada sisi sebelah kanan, dan bacalah: "Ya Allah, Ya Tuhanku, aku serahkan diriku kepada-Mu dan aku titipkan perkaraku kepada-Mu, dan aku serahkan ragaku kepada-Mu dengan penuh rasa takut (ditolak) dan rasa harap (diterima). Tidak ada tempat untuk berlindung dan menyelamatkan diri dari-Mu kecuali kepada-Mu. Aku beriman kepada kitab-Mu yang Engkau turunkan kepada Nabi-Mu yang Engkau utus)." Beliau lalu bersabda: "Jika kamu meninggal, maka kamu meninggal dalam keadaan suci di atas fitrah, dan jadikanlah itu akhir dari yang kamu ucapkan." Al Bara berkata, "Aku berkata, "Aku lalu minta agar doa itu disebutkan semuanya." Aku berkata, "dan dengan Rasul-mu yang telah Engkau utus." Beliau bersabda: "Tidak, (tapi ucapkanlah) 'Dan dengan Nabi-Mu yang telah Engaku utus'." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Fithr bin Khalifah] ia berkata; Aku mendengar [Sa'd bin Ubaidah] ia berkata; Aku mendengar [Al Bara bin Azib] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Jika kamu beranjak ke kasurmu dalam keadaan suci, maka jadikanlah tangan kananmu sebagai bantal." Kemudian ia menyebutkan sebagaimana hadits tersebut. Telah menceritakan kepada kami [Muhammad bin Abdul Malik Al Ghazzal] berkata, telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dan [Manshur] dari [Sa'd bin Ubaidah] dari [Al Bara] dari Nabi shallallahu 'alaihi wasallam dengan hadits yang sama." Sufyan berkata, "Salah seorang dari keduanya -antara Al A'masy dan Manshur- menyebutkan, "Jika kamu mendatangi kasurmu dalam keadaan suci…" sementara yang lain menyebutkan, "berwudhulah seperti wudhumu untuk shalat …lalu hadits tersebut disebutkan dengan sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6311) Sahih Muslim (2710)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5046</td></tr><tr><td>Arabic No</td><td>5046</td></tr><tr><td>Reference</td><td>Book 43 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара бин ‘Азиб, да будет доволен им Аллах, сказал: (Однажды) Посланник Аллаха ﷺ сказал мне: «Когда (захочешь) лечь спать, соверши такое же омовение, какое совершаешь ты перед молитвой, ляг на правый бок и скажи: “О Аллах, я предался Тебе, и обратился к Тебе лицом своим, и вручил Тебе дело своё, и к Тебе обратился в поисках убежища по желанию своему и из страха (перед Тобой). Нет убежища и нет спасения от Тебя, кроме обращения к Тебе! Уверовал я в Твоё Писание, которое Ты ниспослал, и в Твоего пророка, которого Ты послал. /Аллахумма, аслямту нафси иляй-кя, ва ваджжахту ваджхи иляй-кя, ва фаввадту амри иляй-кя, ва альджаъту захри иляй-кя рагбатан ва рахбатан иляй-кя. Ля мальджаъа, ва ля манджя мин-кя илля иляй-кя! Аманту би-китаби-кя аллязи анзальта ва набиййи-кя аллязи арсальта/“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6311) Sahih Muslim (2710)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5046</td></tr><tr><td>Arabic No</td><td>5046</td></tr><tr><td>Reference</td><td>Book 43 Hadith 274</td></tr></tbody></table></div>
 

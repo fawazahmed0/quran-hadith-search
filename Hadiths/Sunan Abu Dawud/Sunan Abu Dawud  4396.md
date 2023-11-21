@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: A woman borrowed jewellery through some known pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin faris] berkata, telah menceritakan kepada kami [Abu Shalih] dari [Al Laits] ia berkata; telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata; [Urwah] menceritakan bahwa ['Aisyah radliallahu 'anha] berkata, "Seorang wanita meminjam perhiasan, banyak orang yang mengetahuinya namun ia tidak tahu. Wanita itu menjual perhiasan tersebut, sehingga ia ditangkap dan dibawa ke hadapan Nabi shallallahu 'alaihi wasallam. Beliau lantas memerintahkan untuk memotong tangannya, dan wanita itulah yang pernah dimintakan amnesti oleh Usamah bin Zaid, lalu Rasulullah shallallahu 'alaihi wasallam memberi jawaban kepada Usamah sebagaimana yang beliau katakan." Telah menceritakan kepada kami [Abbas bin Abdul Azhim] dan [Muhammad bin Yahya] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Aisyah] ia berkata, "Ada seorang wanita Makhzumiyah meminjam barang kemudian mengingkarinya. Maka Nabi shallallahu 'alaihi wasallam memerintahkan untuk memotong tangannya…lalu ia menceritakan sebagaimana hadits Qutaibah, dari Al Laits, dari Ibnu Syihab. Namun dalam hadits itu ia menambahkan, "Nabi shallallahu 'alaihi wasallam lalu memotong tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2648) Sahih Muslim (1688)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4396</td></tr><tr><td>Arabic No</td><td>4396</td></tr><tr><td>Reference</td><td>Book 40 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что одна женщина брала на время драгоценности от имени известных людей, а сама при этом оставалась неизвестной, а потом продала их. Когда её поймали и привели к Пророку ﷺ он велел отрубить ей руку, и это и была та самая женщина, относительно которой ходатайствовал Усама ибн Зейд и о которой Посланник Аллаха ﷺ сказал то, что сказал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2648) Sahih Muslim (1688)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4396</td></tr><tr><td>Arabic No</td><td>4396</td></tr><tr><td>Reference</td><td>Book 40 Hadith 46</td></tr></tbody></table></div>
 

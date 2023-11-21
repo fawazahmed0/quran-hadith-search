@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mas’ud al-Ansari said :A man came to the prophet (May peace be upon him) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Amru Asy Syaibani] dari [Abu Mas'ud Al Anshari] ia berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, aku telah ditelantarkan, maka bawalah aku." Beliau menjawab: "Aku tidak mempunyai sesuatu untuk membawamu, silahkah kamu temui si fulan, semoga ia bisa membawamu." Laki-laki itu lalu mendatanginya dan ia pun dibawa. Laki-laki itu kemudian mendatangi Rasulullah shallallahu 'alaihi wasallam dan mengabarkan hal itu, Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Barangsiapa menunjukkan kepada kebaikan maka ia akan mendapatkan pahala seperti orang yang mengerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1893)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5129</td></tr><tr><td>Arabic No</td><td>5129</td></tr><tr><td>Reference</td><td>Book 43 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Мас‘уд ‘Укба бин Амр аль-Ансари аль-Бадри, да будет доволен им Аллах, сказал: «... Посланник Аллаха ﷺ сказал: “Указавшему на благое (полагается) такая же награда как и совершившему его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1893)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5129</td></tr><tr><td>Arabic No</td><td>5129</td></tr><tr><td>Reference</td><td>Book 43 Hadith 357</td></tr></tbody></table></div>
 

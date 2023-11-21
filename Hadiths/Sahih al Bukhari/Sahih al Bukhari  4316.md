@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:Al-Bara' was asked while I was listening, "Did you flee (be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq], ditanyakan kepada [Al Barra'] -dan saya mendengar langsung- apakah engkau melarikan diri bersama Nabi shallallahu 'alaihi wasallam pada perang hunain? Barra' menjawab; "Adapun Nabi shallallahu 'alaihi wasallam, beliau pantang melarikan diri dan berujar; "Aku Nabi yang tidak pernah berdusta # Aku anak Abdul Muththalib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4316</td></tr><tr><td>Arabic No</td><td>4316</td></tr><tr><td>Reference</td><td>Book 64 Hadith 347</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз один) человек спросил аль-Бара: «Вы бежали вместе с Пророком ﷺ в день (битвы при) Хунайне?» Он сказал: «Что касается Пророка ﷺ, то он не бежал. Враги были хорошими лучниками. Пророк ﷺ говорил: «Я — пророк, и нет (в этом) лжи! Я — Ибн ‘Абдульмутталиб!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4316</td></tr><tr><td>Arabic No</td><td>4316</td></tr><tr><td>Reference</td><td>Book 64 Hadith 347</td></tr></tbody></table></div>
 

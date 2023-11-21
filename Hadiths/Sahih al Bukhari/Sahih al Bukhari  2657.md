@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:Some outer garments were received the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Yahya] telah menceritakan kepada kami [Hatim bin Wardan] telah menceritakan kepada kami [Ayyub] dari ['Abdullah bin Abi Mulaikah] dari [Al Miswar bin Makhramah radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam diberi beberapa potong pakaian. Lalu bapakku, Makhramah, berkata kepadaku: "Mari kita berangkat semoga Beliau memberikan sesuatu darinya". Maka bapakku berdiri di depan pintu lalu berbicara hingga Nabi shallallahu 'alaihi wasallam mengenal suaranya kemudian Nabi shallallahu 'alaihi wasallam keluar dengan membawa baju dengan menampakkan keindahannya seraya bersabda: "Sengaja kami simpan buatmu, sengaja kami simpan buatmmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2657</td></tr><tr><td>Arabic No</td><td>2657</td></tr><tr><td>Reference</td><td>Book 52 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар ибн Махрама, да будет доволен Аллах им и его отцом, сказал: «Однажды Пророку ﷺ прибыли одежды наподобие кафтанов, и мой отец Махрама сказал мне: “Пойдём со мной к Посланнику Аллаха ﷺ может быть он и нам даст что-нибудь из этих одежд”. Мой отец встал у двери дома (Пророка ﷺ) и стал разговаривать. Узнав его голос, Пророк ﷺ вышел, держа в руке одну из этих одежд, и стал показывать ему её красоту, говоря: “Я припрятал это для тебя, я припрятал это для тебя”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2657</td></tr><tr><td>Arabic No</td><td>2657</td></tr><tr><td>Reference</td><td>Book 52 Hadith 21</td></tr></tbody></table></div>
 

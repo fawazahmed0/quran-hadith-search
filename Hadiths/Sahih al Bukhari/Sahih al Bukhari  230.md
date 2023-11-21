@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman bin Yasar:I asked 'Aisha about the clothes soiled with semen. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Yazid] berkata, telah menceritakan kepada kami ['Amru] -yaitu Ibnu Maimun- dari [Sulaiman bin Yasar] berkata, aku mendengar ['Aisyah] berkata. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdul Wahid] berkata, telah menceritakan kepada kami ['Amru bin Maimun] dari [Sulaiman bin Yasar] berkata, "Aku bertanya kepada ['Aisyah] tentang mani yang mengenai pakaian. Ia lalu menjawab, "Aku pernah mencuci air mani dari pakaian Nabi shallallahu 'alaihi wasallam, beliau lalu keluar untuk shalat sementara sisa cucian masih nampak pada pakaian beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>230</td></tr><tr><td>Arabic No</td><td>230</td></tr><tr><td>Reference</td><td>Book 4 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сулейман ибн Ясар сказал: «Однажды я спросил у ‘Аиши о семени, попавшей на одежду и она сказала: “(Обычно) я смывала её с одежды Посланника Аллаха ﷺ и он выходил на молитву, а на его одежде всё ещё были видны следы мытья”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>230</td></tr><tr><td>Arabic No</td><td>230</td></tr><tr><td>Reference</td><td>Book 4 Hadith 96</td></tr></tbody></table></div>
 

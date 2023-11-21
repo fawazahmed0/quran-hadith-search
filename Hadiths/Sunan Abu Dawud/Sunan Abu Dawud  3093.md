@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah: I said: Messenger of Allah, I know the severest verse in the Q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya], dan telah diriwayatkan dari jalur yang lain: telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Utsman bin Umar]. Abu Daud berkata; ini adalah lafazh Ibnu Basysyar, dari [Abu 'Amir Al Khazzaz], dari [Ibnu Abu Mulaikah] dari [Aisyah], ia berkata; aku katakan; wahai Rasulullah, wahai Rasulullah, sesungguhnya aku mengetahui ayat Al Qur'an yang paling keras. Beliau bertanya: "Ayat apakah itu wahai Aisyah?" Aisyah berkata; firman Allah ta'ala: "Barang siapa yang berbuat keburukan maka ia akan dibalas dengannya." Beliau bersabda: "Tahukah bahwa seorang mukmin yang tertimpa musibah atau duri hingga ia dibalas dengan amalah terburuknya. Barang siapa yang dihisab maka ia akan diadzab." Aisyah berkata; bukankah Allah telah berfirman: "Maka dia akan diperiksa dengan pemeriksaan yang mudah." Beliau bersabda: "Itu hanyalah memperlihatkan amalan wahai Aisyah. barang siapa yang dihisab maka ia akan diadzab." Abu Daud berkata; ini adalah lafazh Ibnu Basysyar, ia berkata; telah menceritakan kepadaku Ibnu Mulaikah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3093</td></tr><tr><td>Arabic No</td><td>3093</td></tr><tr><td>Reference</td><td>Book 21 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Я сказала: “О Посланник Аллаха, поистине, я знаю самый тяжкий аят в Коране”». (Посланник Аллаха ﷺ) спросил: «Что же это за аят, о Аиша?» Она ответила: «“Тому, кто совершает зло, воздастся за это” (сура 4 «Женщины», аят 123)». Он сказал: «Разве ты не знаешь, о ‘Аиша, что верующего постигают беды и колючки и так ему воздаётся за худшее из его дел, а кто подвергнется расчёту, тот подвергнется мучениям?» ‘Аиша спросила: «Но разве Аллах не сказал: “И он будет рассчитан расчётом лёгким” (сура 84 «Разверзнется», аят 8)?» (Посланник Аллаха ﷺ) сказал: «Это представление дел, о ‘Аиша, а тот, чей расчёт будет обсуждаться, подвергнется мучениям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3093</td></tr><tr><td>Arabic No</td><td>3093</td></tr><tr><td>Reference</td><td>Book 21 Hadith 5</td></tr></tbody></table></div>
 

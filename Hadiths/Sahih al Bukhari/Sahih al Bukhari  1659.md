@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Abu Bakr Al-Thaqafi:I asked Anas bin Malik while we were p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Muhammad bin Abu Bakar Ats-Tsaqafiy] bahwa dia bertanya kepada [Anas bin Malik] saat keduanya berangkat dari Mina menuju 'Arafah: "Apa yang kalian kerjakan pada hari ini bersama Rasulullah Shallallahu'alaihiwasallam?" Dia menjawab: "Diantara kami ada orang yang membaca talbiyyah, Beliau tidak mengingkarinya dan juga ada orang yang bertakbir namun Beliau juga tidak mengingkarinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 25 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Мухаммад ибн Аби Бакр ас-Сакафи спросил Анаса ибн Малика, когда они ехали из Мины на ‘Арафат: «Что вы делали (какие поминания Аллаха произносили по дороге) в этот день, когда были вместе с посланником Аллаха ﷺ?» Он ответил: «Некоторые из нас произносили тальбию, и никто их не порицал, а некоторые произносили такбир и никто их не порицал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 25 Hadith 140</td></tr></tbody></table></div>
 

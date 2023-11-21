@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:The Messenger of Allah (ﷺ) forbade qaza'. Qaza' means havin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Utsman bin Utsman] -Ahmad berkata; ia adalah seorang laki-laki yang shalih- ia berkata; telah mengabarkan kepada kami [Umar bin Nafi'] dari [Bapaknya] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang Al Qaza', Al Qaza' adalah kepala anak kecil yang dicukur sebagiannya dan dibiarkan sebagian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5920) Sahih Muslim (2120)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4193</td></tr><tr><td>Arabic No</td><td>4193</td></tr><tr><td>Reference</td><td>Book 35 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от (‘Абдуллаха) ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил частичное обривание головы. Имеется в виду тот случай, когда часть волос ребёнка сбривают, а другую оставляют
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5920) Sahih Muslim (2120)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4193</td></tr><tr><td>Arabic No</td><td>4193</td></tr><tr><td>Reference</td><td>Book 35 Hadith 35</td></tr></tbody></table></div>
 

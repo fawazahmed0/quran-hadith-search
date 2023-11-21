@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Umama bin Sahl bin Hunaif:I heard Muawiya bin Abi Sufyan (repeating
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Abu Bakar bin 'Utsman bin Sahl bin Hunaif] dari [Abu Umamah bin Sahl bin Hunaif] berkata, Aku mendengar [Mu'awiyyah bin Abu Suyan] ketika dia sedang duduk di atas mimbar dan mu'adzan sedang mengumandangkan adzan: 'Allahu Akbar Allahu Akbar', Mu'awiyyah mengucapkan, 'Allahu Akbar Allahu Akbar'. Ketika mu'adzin membaca 'Asyhadu anlaa ilaaha illallah', Mu'awiyyah dan aku mengucapkan seperti yang diucapkan mu'adzin. Dan ketika mu'adzin membaca 'Asyhadu anna Muhammadar rasulullah, ' Mu'awiyyah dan aku mengucapkan seperti yang diucapkan mu'adzin. Ketika adzan sudah selesai Mu'awiyyah berkata, "Wahai manusia, sungguh ketika adzan dikumandangkan aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam mengatakan dari tempat ini seperti yang kalian dengar dari (bacaan) ucapanku tadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>914</td></tr><tr><td>Arabic No</td><td>914</td></tr><tr><td>Reference</td><td>Book 11 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что (однажды,) когда Му‘авийа бин Абу Суфйан, да будет доволен Аллах ими обоими, сидел на минбаре в пятницу, а муаззин стал произносить азан и сказал: «Аллах велик, Аллах велик /Аллаху акбар, Аллаху акбар/», Му‘авийа, да будет доволен им Аллах, (также) сказал: «Аллаху акбар, Аллаху акбар». (После того как муаззин) произнес слова «Свидетельствую, что нет истинного бога, кроме Аллаха /Ашхаду алля иляха илля-Ллах/», Му‘авийа сказал: «И я». После того как (муаззин) произнес слова «Свидетельствую, что Мухаммад — Посланник Аллаха /Ашхаду анна Мухаммадан расулю-Ллах/», Му‘авийа сказал: «И я», когда же произнесение азана закончилось, Му‘авийа сказал: «О люди, поистине, я слышал, как Посланник Аллаха ﷺ(сидевший) на этом же (минбаре), говорил то же самое, что вы слышали сейчас от меня, когда муаззин произносил слова азана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>914</td></tr><tr><td>Arabic No</td><td>914</td></tr><tr><td>Reference</td><td>Book 11 Hadith 38</td></tr></tbody></table></div>
 

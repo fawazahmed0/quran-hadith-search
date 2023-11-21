@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Burayda, 'Abdoullâh Ibn Al-Mughaffal vit un homme de ses amis lan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Kahmas] dari [Ibnu Buraidah] dia berkata, " [Abdullah bin Mughafal] melihat seorang laki-laki dari sahabatnya sedang melempar (dengan ketapel). Lalu Abdullah berkata kepadanya, "Janganlah kamu melempar! sebab Rasulullah shallallahu 'alaihi wasallam membenci hal itu -atau dia berkata-, beliau melarang melempar, karena hal itu tidak akan mematikan buruan dan tidak pula mengalahkan musuh, tetapi hal itu hanya bisa mematahkan gigi dan membutakan mata." Setelah itu Abdullah melihat laki-laki itu melempar lagi, lantas dia berkata kepadanya, "Saya pernah memberitahukan kepadamu bahwa Rasulullah shallallahu 'alaihi wasallam membenci hal itu -atau melarang dari melempar-, kemudian saya lihat kamu melakukannya lagi. Sungguh, saya tidak akan mengatakan hal ini lagi seperti ini dan ini." Dan telah menceritakan kepadaku [Abu Daud Sulaiman bin Ma'bad] telah menceritakan kepada kami [Utsman bin Umar] telah mengabarkan kepada kami [Kahmas] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5050</td></tr><tr><td>Arabic No</td><td>1954.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5050</td></tr><tr><td>Arabic No</td><td>1954.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
 

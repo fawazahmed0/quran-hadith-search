@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdur Rahman ibn Ghanam al-Ash'ari: Abu Amir or Abu Malik told me--I sw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] berkata, telah menceritakan kepada kami [Bisyr bin Bakr] dari ['Abdurrahman bin Yazid bin Jabir] ia berkata; telah menceritakan kepada kami [Athiyah bin Qais] ia berkata; Aku mendengar ['Abdurrahman bin Ghanm Al Asy'ari] ia berkata; telah menceritakan kepadaku Abu Amir atau [Abu Malik] -demi Allah- ia tidak mendustaiku bahwasanya ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Benar-benar akan ada dari umatku orang-orang yang menghalalkan sutera." Lalu ia menyebutkan redaksi lain, beliau bersabda: "Salah seorang dari mereka diubah menjadi kera dan babi hingga hari kiamat." Abu Dawud menyebutkan, "Ada dua puluh orang atau lebih dari sahabat Rasulullah shallallahu 'alaihi wasallam mengenakan sutera, salah seorang di antara mereka adalah Anas dan Al bara bin Azib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5590)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4039</td></tr><tr><td>Arabic No</td><td>4039</td></tr><tr><td>Reference</td><td>Book 34 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абду-р-Рахмана ибн Ганма аль-Аш‘ари: «Абу ‘Амир или Абу Малик сообщил мне, и я клянусь Аллахом, что он не лгал мне, что он слышал, как Посланник Аллаха ﷺ сказал: “Появятся в моей общине люди, которые будут считать шёлк и хазз дозволенными”. Потом он сказал ещё что-то и добавил: «А другие будут превращены в обезьян и свиней и останутся такими до самого Судного дня». Абу Дауд сказал, что более двадцати человек из числа сподвижников Посланника Аллаха ﷺ, носили одежду из хазза, и среди них Анас и аль-Бара ибн ‘Азиб
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5590)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4039</td></tr><tr><td>Arabic No</td><td>4039</td></tr><tr><td>Reference</td><td>Book 34 Hadith 20</td></tr></tbody></table></div>
 

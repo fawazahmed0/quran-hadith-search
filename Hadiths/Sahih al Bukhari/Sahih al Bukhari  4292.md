@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Laila:None informed us that he saw the Prophet (ﷺ) offering t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] Telah menceritakan kepada kami [Syu'bah] dari ['Amru] dari [Ibnu Abu Laila], tak seorangpun memberitakan kepada kami bahwa ia melihat Nabi shallallahu 'alaihi wasallam shalat dluha selain ummu Hani", ialah yang menyebutkan bahwa beliau shallallahu 'alaihi wasallam pada hari penaklukan Makkah mandi di rumahnya kemudian shalat delapan rakaat. Kata [Ummu Hani] ", belum pernah kulihat beliau shalat lebih ringan daripadanya selain beliau menyempurnakan ruku' dan sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4292</td></tr><tr><td>Arabic No</td><td>4292</td></tr><tr><td>Reference</td><td>Book 64 Hadith 325</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Лейля сказал: «Никто не передавал нам, что видел, как Пророк ﷺ совершал молитву “духа”, кроме Умм Хани, которая рассказывала, что в День покорения Мекки Пророк ﷺ совершил полное омовение в её доме и молитву в восемь рак‘атов, и она сказала: “Я не видела, чтобы он совершал молитву легче этой, но при этом он завершал поясные и земные поклоны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4292</td></tr><tr><td>Arabic No</td><td>4292</td></tr><tr><td>Reference</td><td>Book 64 Hadith 325</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:One day I went to Ibn Mas'ud who said, "When Quraish delayed in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Sufyan] telah menceritakan kepada kami [Manshur] dan [Al A'masy] dari [Abu Adl Dluha] dari [Masyruq] berkata, "Aku pernah menemui [Ibnu Mas'ud], lalu ia berkata, "Orang-orang Quraisy telah berpaling dari (menolak) Islam, lalu Nabi shallallahu 'alaihi wasallam berdoa agar mereka terkena adzab. Maka terjadilah masa paceklik dimana tidak ada tumbuhan-tumbuhan yang hidup sehingga mereka memakan kulit, bangkai dan barang-barang yang telah busuk. Kemudian datang Abu Sufyan kepada beliau seraya berkata, "Ya Muhammad, kamu telah datang untuk memerintahkan orang agar menyambung silaturrahim, sekarang kaummu telah binasa. Maka mintalah kepada Allah!" Beliau kemudian membaca ayat: '(Maka tunggulah hari ketika langit membawa kabut yang nyata) ' (Qs. Adl Dlukhaan: 10). Namun kemudian mereka kembali kepada kekafiran mereka. Maka terjadilah seperti dalam firman-Nya: '(Ingatlah) hari (ketika) kami menghantam mereka dengan hantaman yang keras. Sesungguhnya kami adalah pemberi balasan) ' (Qs. Adl Dlukhaan: 16). Yakni pada saat perang Badar." Abu 'Abdullah berkata; [Asbath] menambahkan dari [Manshur], "Maka Rasulullah shallallahu 'alaihi wasallam berdoa hingga mereka mendapatkan air hujan, dan hujan tersebut menyelimuti mereka selama tujuh hari. Kemudian orang-orang mengeluh karena hujan yang lebat terus menerus. Beliau kemudian berdoa: "Ya Allah turunkanlah hujan di sekitar kami saja dan jangan membahyakan kami." Maka awan pun menyingkir dari atas kepala beliau, lalu orang-orang mendapatkan air dari sekeliling mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1020</td></tr><tr><td>Arabic No</td><td>1020</td></tr><tr><td>Reference</td><td>Book 15 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд сказал: «Когда курайшиты задержались в принятии ислама, Пророк ﷺ призвал Аллаха против них, и их поразила засуха, из-за которой многие из них умерли, и (от голода) они ели мертвечину и кости. Тогда (к Пророку ﷺ) пришел Абу Суфьян и сказал: “О Мухаммад, ты велишь людям поддерживать родственные связи, и, поистине, народ твой погибает, так обратись же к Аллаху с мольбой за них!” Пророк ﷺ прочитал: “Так жди же того дня, когда небо принесёт очевидный дым” (сура «Духан», аят 10). Затем люди снова вернулись к неверию, как в словах Всевышнего: “В тот день, когда Мы схватим вас величайшей Хваткой, Мы будем мстить” (сура «Духан», аят 16), — именно это и произошло в день битвы при Бадре». \nАсбат добавил, от Мансура: «Посланник Аллаха ﷺ воззвал к Аллаху, и пошел дождь, который не останавливался в течение семи дней. Когда люди пожаловались (Пророку ﷺ) на обильные дожди, он сказал: “О Аллах, вокруг нас, а не на нас!” Итак, тучи рассеялись над его головой, и дождь пошел на людей, которые жили вокруг Медины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1020</td></tr><tr><td>Arabic No</td><td>1020</td></tr><tr><td>Reference</td><td>Book 15 Hadith 15</td></tr></tbody></table></div>
 

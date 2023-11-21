@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Apostle of Allaah(ﷺ) as saying “ While a man was g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Sumai], mantan budak Abu Bakr dari [Abu Shalih As Samman] dari [Abu Hurairah] bahwa Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Ketika seorang laki-laki berjalan di sebuah jalan, dan ia merasakan sangat kehausan, ternyata ia mendapatkan sebuah sumur. Lalu ia menuruninya lalu minum, kemudian ia keluar dan tiba-tiba terdapat anjing yang menjulurkan lidahnya, ia makan tanah yang lembab karena kehausan. Lalu orang tersebut berkata; sungguh anjing ini telah kehausan seperti yang pernah aku rasakan. Kemudian ia turun ke sumur dan ia memenuhi sepatunya lalu ia memegangnya menggunakan mulutnya dan naik ke atas kemudian memberi minum anjing tersebut. Maka Allah berterima kasih kepadanya dan mengampuni dosanya." Kemudian mereka berkata; wahai Rasulullah, apakah kami mendapatkan pahala karena berbuat baik kepada hewan? Beliau berkata: "Dalam setiap hewan yang memiliki hati yang basah terdapat pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2363) Sahih Muslim (2244)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2550</td></tr><tr><td>Arabic No</td><td>2550</td></tr><tr><td>Reference</td><td>Book 15 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2363) Sahih Muslim (2244)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2550</td></tr><tr><td>Arabic No</td><td>2550</td></tr><tr><td>Reference</td><td>Book 15 Hadith 74</td></tr></tbody></table></div>
 

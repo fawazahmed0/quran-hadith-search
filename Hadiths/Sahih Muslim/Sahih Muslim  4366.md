@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Imrân Ibn Husayn (que Dieu l'agrée), Ya'lâ Ibn Munya - ou Ibn 'Umay
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Zurarah] dari ['Imran bin Hushain] dia berkata, "Ya'la bin Munabbih atau Ibnu Umayyah berkelahi dengan seorang laki-laki, lalu salah seorang dari keduanya menggigit tangan lawannya, ketika orang yang tangannya digigit melepaskan tangannya (dengan menarik), maka gigi orang yang mengigit itu pun tanggal. Kemudian kedua-duanya mengadu kepada Nabi shallallahu 'alaihi wasallam, beliau pun bersabda: "Mengapa kamu menggigitnya seperti kuda jantan? Tidak ada diyat dari gigitanmu itu." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari ['Atha] dari [Ibnu Ya'la] dari [Ya'la] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4366</td></tr><tr><td>Arabic No</td><td>1673.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4366</td></tr><tr><td>Arabic No</td><td>1673.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 25</td></tr></tbody></table></div>
 

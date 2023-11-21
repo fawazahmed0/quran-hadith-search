@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (p.b.u.h) said, "Whoever performs Hajj for Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Sayyar Abu Al Hakam] berkata; aku mendengar [Abu Hazim] berkata; aku mendengar [Abu Hurairah radliallahu 'anhu] berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa melaksanakan hajji lalu dia tidak berkata, -kata kotor dn tidak berbuat fasik maka dia kembali seperti hari saat dilahirkan oleh ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1521</td></tr><tr><td>Arabic No</td><td>1521</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Тот, кто совершит хадж ради Аллаха, не приблизившись к своей жене и не совершив ничего греховного и недостойного, вернётся (домой таким же), каким (был он в тот день), когда родила его мать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1521</td></tr><tr><td>Arabic No</td><td>1521</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
 

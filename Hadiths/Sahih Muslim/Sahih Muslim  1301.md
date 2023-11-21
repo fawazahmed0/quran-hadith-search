@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:We performed prostration along with the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] dia berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ayyub bin Musa] dari ['Atha' bin Mina'] dari [Abu Hurairah] dia berkata; Kami pernah sujud bersama Nabi shallallahu 'alaihi wasallam dalam surat Idzassamaa'un syaqqat dan Iqra' bismi rabbikal ladzii khalaq (maksudnya, ayat sajdah yang terdapat pada keduanya -pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1301</td></tr><tr><td>Arabic No</td><td>578.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Мы с Пророком ﷺ совершали земной поклон при чтении сур “Когда небеса расколются…” и “Читай! С именем Господа твоего…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1301</td></tr><tr><td>Arabic No</td><td>578.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 139</td></tr></tbody></table></div>
 

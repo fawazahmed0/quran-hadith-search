@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of 'Abdullah through another chai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Muhammad bin Abdullah bin Numair] semuanya dari [Waki'] dari [Al A'masy]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Abdah bin Sulaiman] dan [Waki'] dari [Al A'masy] dari [Abu Wa'il] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesuatu yang pertama kali diputuskan di antara manusia kelak di hari Kiamat adalah masalah darah." Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Khalid yaitu Ibnu Harits]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Bisyr bin Khalid] telah menceritakan kepada kami [Muhammad bin Ja'far]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Ibnu Abu 'Adi] semuanya dari [Syu'bah] dari [Al A'masy] dari [Abu Wa'il] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas. Namun sebagian mereka menyebutkan dari Syu'bah "Di putuskan", dan sebagian yang lain mengatakan, "Dihukumi di antara manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4382</td></tr><tr><td>Arabic No</td><td>1678.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4382</td></tr><tr><td>Arabic No</td><td>1678.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 41</td></tr></tbody></table></div>
 

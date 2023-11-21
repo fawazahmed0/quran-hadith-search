@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab:(daughter of Um Salama) that her mother said, "While I was (lyin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Hisyam bin Abu 'Abdullah] telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Zainab putri Ummu Salamah] dari [ibunya radliallahu 'anhuma] berkata: Ketika aku bersama Rasulullah shallallahu 'alaihi wasallam dalam satu selimut tiba-tiba aku mengalami haidh maka aku diam-diam pergi lalu aku mengambil pakaian khusus haidhku, Beliau berkata: "Ada apa denganmu, apakah kamu mengalami hadil?". Aku jawab: "Ya". Lalu aku masuk kedalam selimut bersama Beliau". Ummu Salamah dan Rasulullah shallallahu 'alaihi wasallam pernah pula mandi bersama dari satu ember air. Dan Beliau juga menciumnya padahal Beliau sedang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 30 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейнаб бинт Умм Саляма рассказала, что её мать, да будет доволен ею Аллах, сказала: «(Однажды,) когда мы лежали вместе с посланником Аллаха ﷺ, накрывшись “хамилей” (куском плотной ткани), у меня начались месячные. Я потихоньку покинула (его), взяв с собой одежду, которую я обычно носила во время месячных, (а когда вернулась,) он ﷺ спросил: “У тебя начались месячные?” Я ответила: “Да”, и (снова) легла с ним, (укрывшись) той же тканью». И она купалась вместе с посланником Аллаха ﷺ из одного и того же сосуда. И он целовал её будучи постящимся
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 30 Hadith 37</td></tr></tbody></table></div>
 

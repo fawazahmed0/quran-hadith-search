@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Nafi':That Ibn 'Umar was presented before the Prophet (ﷺ) on the day 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Yahya] dari ['Ubaidullah], telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam ditawari Ibnu Umar agar ikut perang pada waktu perang Uhud sementara ia berumur empat belas tahun, kemudian beliau tidak memperbolehkannya dan ditawari Ibnu Umar agar ikut perang pada waktu perang Khandaq, kemudian beliau memperbolehkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4097)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2957</td></tr><tr><td>Arabic No</td><td>2957</td></tr><tr><td>Reference</td><td>Book 20 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что он показал себя Пророку ﷺ в день битвы при Ухуде, а ему тогда было четырнадцать лет, но Пророк ﷺ не выделил ему жалованье. В день битвы у рва он также показал себя Пророку ﷺ. А Ибн ‘Умару в то время было уже пятнадцать лет, и Пророк ﷺ выделил ему жалованье
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4097)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2957</td></tr><tr><td>Arabic No</td><td>2957</td></tr><tr><td>Reference</td><td>Book 20 Hadith 30</td></tr></tbody></table></div>
 

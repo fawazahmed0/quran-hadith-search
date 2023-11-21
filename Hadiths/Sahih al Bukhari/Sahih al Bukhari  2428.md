@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman bin Bilal from Yahya:Yazid Maula Al-Munba'ith heard Zaid bin K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepadaku [Sulaiman bin Bilal] dari [Yahya] dari [Yazid, maula Al Munba'its] bahwa dia mendengar [Zaid bin Khalid radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam ditanya tentang barang temuan". Maka Beliau bersabda: "Kamu kenali tutup bungkus dan talinya kemudian umumkan selama satu tahun". Yazid berkata: "Dan jika tidak ada yang mengakuinya maka dapat digunakan oleh penemunya karena itu berarti titipan Allah baginya". Yahya berkata: "Inilah yang aku tidak tahu apakah kalimat ini termasuk bagian dari hadits yang disabdakan Rasulullah shallallahu 'alaihi wasallam atau hanya perkataan dari Yazid. Kemudian orang itu bertanya lagi: "Bagaimana tentang menemukan kambing?" Nabi shallallahu 'alaihi wasallam menjawab: "Ambillah karena kambing itu untuk kamu atau saudaramu atau serigala". Yazid berkata: "Untuk kambing juga diumumkan dahulu". Kemudia orang itu bertanya lagi: "Bagaimana tentang menemukan unta. Yazid berkata; maka Beliau menjawab: "Biarkanlah unta itu, karena ia selalu nampak sepatunya dan perutnya (yang terisi air) sehingga ia bisa hilir mudik mencari air dan makan rerumputan hingga ditemukan oleh pemiliknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2428</td></tr><tr><td>Arabic No</td><td>2428</td></tr><tr><td>Reference</td><td>Book 45 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Халид, да будет доволен им Аллах, сказал: «Как-то раз Пророк ﷺ был спрошен о (том, что следует делать с) найденным. Пророк ﷺ сказал: “(Сначала) узнай, как выглядит то, в чём находилось найденное и то, чем было перевязано найденное, а потом объявляй о находке (людям) в течение года”». Язид (передатчик) добавил: «Если никто не узнал находку, то нашедшему её разрешается пользоваться ею, и она считается вещью, оставленной на хранении». Яхья (один из передатчиков) сказал: «Я не знаю, является ли последнее предложение словами Пророка ﷺ или Язида?» Затем человек спросил: «А (что делать с) заблудившимися овцами?» Пророк ﷺ сказал: «Возьми их себе, ведь либо они достанутся тебе, либо твоему брату, либо волку». Язид сказал: «О них тоже нужно объявить». Затем этот человек спросил: «А что делать с заблудившимися верблюдами?» Пророка ﷺ ответил: «Оставь их, ведь у них есть копыта и вода, они приходят к воде и объедают листья с деревьев, пока хозяин не найдёт их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2428</td></tr><tr><td>Arabic No</td><td>2428</td></tr><tr><td>Reference</td><td>Book 45 Hadith 3</td></tr></tbody></table></div>
 

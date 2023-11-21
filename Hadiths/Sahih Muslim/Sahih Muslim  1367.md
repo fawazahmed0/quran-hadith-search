@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), aussitôt que le second appel à la 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Harmalah bin Yahya], keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman bin Auf], ia mendengar [Abu Hurairah] berkata; "Ketika iqamat dikumandangkan, maka kami berdiri dan kami luruskan shaff sebelum Rasulullah shallallahu 'alaihi wasallam datang, tidak lama kemudian Rasulullah shallallahu 'alaihi wasallam datang hingga beliau berdiri di tempat shalatnya sebelum bertakbir, beliau ingat sesuatu, lalu beliau pergi seraya berujar: "Tetaplah kalian berada di posisi kalian." Maka kami terus berdiri menunggu beliau hingga beliau muncul kembali, rupanya beliau mandi dan masih terlihat di kepalanya meneteskan air. Beliau pun bertakbir dan mengimami shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1367</td></tr><tr><td>Arabic No</td><td>605.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Салямы ибн ‘Абдуррахмана ибн ‘Ауфа, что он слышал, как Абу Хурайра сказал: «(Однажды), после объявления о начале молитвы мы встали и выровняли ряды ещё до того, как к нам вышел Посланник Аллаха ﷺ. Через некоторое время он пришёл и занял своё место, но, прежде чем произнести слова “Аллаху акбар”, вспомнил о чём-то и удалился, сказав нам: “Оставайтесь на своих местах”. И мы продолжали стоять, ожидая его, пока он (снова) не вышел к нам, совершив полное омовение, (что было видно) по каплям воды, которые стекали с его головы, а потом он сказал: “Аллаху акбар”, и совершил с нами молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1367</td></tr><tr><td>Arabic No</td><td>605.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 201</td></tr></tbody></table></div>
 

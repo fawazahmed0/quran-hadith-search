@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hudhaifa and Abu Mas’ud got together and Hudhaifah said:I know best what the D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Amru] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Rib'I bin Hirasy] ia berkata; [Hudzaifah] dan [Abu Mas'ud] berkumpul, lalu Hudzaifah berkata, "Aku adalah orang yang paling tahu tentang (kapan munculnya) dajjal. Sesungguhnya dajjal mempunyai lautan dari air dan sungai dari api. Apa yang kalian lihat sebagai api sebenarnya adalah air, dan apa yang kalian lihat sebagai air sebenarnya adalah api. Maka, siapa dari kalian yang mendapati hal itu dan ingin minum, hendaklah ia minum (air) yang berupa api dalam pandangannya, sebab ia akan mendapatkan air yang sesungguhnya." Abu Mas'ud Al Badri berkata, "Demikianlah aku mendengar Rasulullah shallallahu 'alaihi wasallam mengatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3450) Sahih Muslim (2934)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4315</td></tr><tr><td>Arabic No</td><td>4315</td></tr><tr><td>Reference</td><td>Book 39 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Риб‘и ибн Хираш передаёт: «Однажды вместе собрались (сподвижники) Хузайфа (ибн аль-Яман) и Абу Мас‘уд, и Хузайфа сказал: “Поистине, я знаю о том, что будет у Даджжаля, лучше него. Поистине, у него будет море из воды и река из огня, но то, что покажется вам огнём, на самом деле будет водою, а то, что покажется вам водой, на самом деле будет огнём. Кто из вас застанет это время и захочет испить воды, пусть пьёт из того, что покажется ему огнём, и он обнаружит, что на самом деле это вода”. Абу Мас‘уд аль-Бадри сказал: “Я слышал, как Посланник Аллаха ﷺ говорил то же самое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3450) Sahih Muslim (2934)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4315</td></tr><tr><td>Arabic No</td><td>4315</td></tr><tr><td>Reference</td><td>Book 39 Hadith 25</td></tr></tbody></table></div>
 

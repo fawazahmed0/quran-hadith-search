@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said to me, "Give up the prayer when your mens
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] dari [Zuhair] berkata, telah menceritakan kepada kami [Hisyam bin 'Urwah] dari ['Urwah] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Jika datang haid maka tinggalkanlah shalat, dan bila telah berakhir maka bersihkanlah darah darimu lalu shalatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>331</td></tr><tr><td>Arabic No</td><td>331</td></tr><tr><td>Reference</td><td>Book 6 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ сказал: “Когда приблизится время месячных, оставь молитву, а когда они завершатся, смой с себя кровь и совершай молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>331</td></tr><tr><td>Arabic No</td><td>331</td></tr><tr><td>Reference</td><td>Book 6 Hadith 35</td></tr></tbody></table></div>
 

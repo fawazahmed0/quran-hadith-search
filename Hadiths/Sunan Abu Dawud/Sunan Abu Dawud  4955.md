@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hani ibn Yazid: When Hani went with his people in a deputation to the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin nafi'] dari [Yazid] -maksudnya Yazid bin Al Miqdam bin Syuraih dari [Bapaknya] dari kakeknya [Syuraih] dari bapaknya [Hani] Bahwasanya ketika ia datang bersama kaumnya kepada Rasulullah shallallahu 'alaihi wasallam, beliau mendengar orang-orang memanggilnya dengan nama Abul Hakam. Maka Rasulullah shallallahu 'alaihi wasallam memanggilnya, beliau bersabda: "Sesungguhnya Allah-lah Al Hakam (penentu hukum) dan hanya kepada-Nya (kita) berhukum. Lalu kenapa kamu diberi gelar Abul Hakam?" Ia menjawab, "Sesungguhnya jika kaumku berselisih dalam satu permasalahan, mereka mendatangiku, lalu aku-lah yang memberi putusan hukum atas perselisihan mereka, dan mereka ridha." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Betapa baiknya ini! Apakah kamu mempunyai anak?" ia menjawab, "Aku mempunyai anak yang bernama Syuraih, Muslim dan Abdullah." Beliau bertanya lagi: "Di antara mereka siapa yang paling besar?" ia menjawab, "Syuraih." Beliau bersabda: "Kalau begitu namamu adalah Abu Syuraih (bapaknya Syuraih)." Abu Dawud berkata, "Syuraih ini adalah seorang laki-laki yang telah menghancurkan rantai, dan termasuk orang yang masuk ke Tustar." Abu Dawud berkata, "telah sampai kabar kepadaku bahwa Syuraih telah memecahkan pintu gerbang Tustar, dan dia masuk dari jalan bawah tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4955</td></tr><tr><td>Arabic No</td><td>4955</td></tr><tr><td>Reference</td><td>Book 43 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ханиа о том, что когда он прибыл с делегацией к Посланнику Аллаха ﷺ со своим племенем, он услышал, как они называют его Абуль-Хакамом. Посланник Аллаха ﷺ подозвал его и сказал: «По­ис­ти­не, судь­ёй яв­ля­ет­ся толь­ко Ал­лах, и ре­ша­ть име­ет пра­во толь­ко Он, так по­че­му же те­бя на­зы­ва­ют Абуль-Ха­ка­мом?» Он ответил: «Когда в среде моего племени возникает в чём-то разногласие, они приходят ко мне, и я вершу суд между ними так, что обе стороны остаются довольны». Посланник Аллаха ﷺ сказал: «Как это прекрасно! А есть ли у тебя сыновья?» Тот ответил: «У меня есть Шурайх, Муслим и ‘Абдуллах». (Пророк ﷺ) спросил: «А кто из них старший?» Я ответил: «Шурайх». (Пророк ﷺ) сказал: «Тогда ты Абу Шурайх»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4955</td></tr><tr><td>Arabic No</td><td>4955</td></tr><tr><td>Reference</td><td>Book 43 Hadith 183</td></tr></tbody></table></div>
 

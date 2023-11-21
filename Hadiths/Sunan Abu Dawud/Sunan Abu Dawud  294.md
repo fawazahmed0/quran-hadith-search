@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: A woman had a prolonged flow of blood in the tim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman bin Al-Qasim] dari [Ayahnya] dari [Aisyah] dia berkata; Ada seorang wanita pada masa Rasulullah shallallahu 'alaihi wasallam yang mengeluarkan darah penyakit, maka dia diperintahkan untuk mendahulukan shalat Ashar dan mengakhirkan shalat Zhuhur, dengan satu kali mandi untuk kedua shalat itu, dan diperintahakan juga untuk mengakhirkan shalat Maghrib, mendahulukan shalat Isya dengan satu kali mandi untuk keduanya. Dan untuk shalat Subuh, hendaknya dia mandi sekali. Kemudian saya bertanya kepada Abdurrahman; (Apakah cara ini) bersumber dari Nabi shallallahu 'alaihi wasallam? Abdurrahman menjawab; Saya tidak menceritakan sesuatu (Hadits) pun melainkan berasal dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>294</td></tr><tr><td>Arabic No</td><td>294</td></tr><tr><td>Reference</td><td>Book 1 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «При жизни Посланника Аллаха ﷺ у одной женщины, было хроническое кровотечение, и ей велели перенести на более ранний срок послеполуденную молитву /‘аср/ и задержать полуденную молитву /зухр/, и искупаться для них один раз. И также (велели) задержать закатную молитву /магъриб/ и перенести на более ранний срок вечернюю молитву /‘ишаъ/ и искупаться для них один раз, а для утренней молитвы искупаться отдельно».Я спросил у ‘Абду-р-Рахмана: «(Ты рассказываешь этот хадис) от Пророка ﷺ?» И он ответил: «Я не рассказываю тебе о чем-нибудь (кроме как) от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>294</td></tr><tr><td>Arabic No</td><td>294</td></tr><tr><td>Reference</td><td>Book 1 Hadith 294</td></tr></tbody></table></div>
 

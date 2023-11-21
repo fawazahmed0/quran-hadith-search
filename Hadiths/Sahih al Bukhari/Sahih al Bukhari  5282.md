@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Barira's husband was a black slave called Mughith, the slave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Abdul Wahhab] dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Suami Barirah adalah seorang budak yang berkulit hitam dan biasa dipanggil Mughits. Yakni, seorang budak Bani Fulan. Sepertinya aku melihat ia berkeliling di belakangnya di jalan-jalan Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5282</td></tr><tr><td>Arabic No</td><td>5282</td></tr><tr><td>Reference</td><td>Book 68 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Мужем Бариры был темнокожий раб по имени Мугыйс, который был рабом такого-то племени. Как будто я и сейчас вижу, как он ходит за ней по улицам Медины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5282</td></tr><tr><td>Arabic No</td><td>5282</td></tr><tr><td>Reference</td><td>Book 68 Hadith 31</td></tr></tbody></table></div>
 

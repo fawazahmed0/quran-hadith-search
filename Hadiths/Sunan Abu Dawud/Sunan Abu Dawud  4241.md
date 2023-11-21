@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: four (majestic) trials (fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Abu Dawud Al Hafari] dari [Badr bin Utsman] dari [Amir] dari [seorang laki-laki] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Pada umatku akan terjadi empat macam fitnah, dan yang terakhir adalah kebinasaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4241</td></tr><tr><td>Arabic No</td><td>4241</td></tr><tr><td>Reference</td><td>Book 37 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа ибн аль-Яман, да будет доволен им Аллах, сказал: «Клянусь Аллахом, я не знаю, забыли мои товарищи или просто не придали этому значения. Клянусь Аллахом, Посланник Аллаха ﷺ назвал нам всех зачинателей смут до самого конца света, за каждым из которых последует триста и более человек. Он назвал нам их имена, имена их отцов и названия их племён!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4241</td></tr><tr><td>Arabic No</td><td>4241</td></tr><tr><td>Reference</td><td>Book 37 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that he heard the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu Akhi Ibnu Syihab] dari [pamannya] dia berkata, telah mengabarkan kepadaku [Nafi'] -yaitu mantan budak Abu Qatadah al-Anshari- bahwa dia mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagaimana keadaan kalian apabila Isa putera Maryam turun pada kalian dan menjadi pemimpin kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>393</td></tr><tr><td>Arabic No</td><td>155.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Каково будет ваше состояние, когда спустится к вам сын Марьям и станет вашим предводителем?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>393</td></tr><tr><td>Arabic No</td><td>155.05</td></tr><tr><td>Reference</td><td>Book 1 Hadith 298</td></tr></tbody></table></div>
 

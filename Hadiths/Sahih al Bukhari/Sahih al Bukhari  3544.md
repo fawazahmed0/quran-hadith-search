@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Isma'il bin Abi Khalid:I heard Abii Juhaifa saying, "I saw the Prophet,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Amru bin 'Ali] telah bercerita kepada kami [Ibnu Fudlail] telah bercerita kepada kami [Isma'il bin Abu Khalid] berkata, Aku mendengar [Abu Juhaifah radliallahu 'anhu] berkata; "Aku pernah melihat Nabi shallallahu 'alaihi wasallam dan Hasan bin 'Ali 'alaihimas salam sangat mirip dengan beliau". Aku katakan kepada Abu Juhaifah; "Coba ceritakan ciri-ciri sifat beliau kepadaku!". Abu juhaifah berkata; "Beliau berkulit putih dan rambut beliau sudah banyak yang beruban dan beliau pernah memerintahkan untuk memberikan kami tiga belas anak unta". Dia melanjutkan; "Selanjutnya Nabi shallallahu 'alaihi wasallam meninggal dunia sementara kami belum sempat mengambil pemberian beliau tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3544</td></tr><tr><td>Arabic No</td><td>3544</td></tr><tr><td>Reference</td><td>Book 61 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Абу Джухайфа, да будет доволен им Аллах, сказал: «Я видел Пророка ﷺ и (могу сказать, что) аль-Хасан ибн ‘Али, да будет доволен Аллах ими обоими, похож на него». (Передатчик этого хадиса попросил Абу Джухайфу, да будет доволен им Аллах): «Опиши мне (Пророка ﷺ)». Он сказал: «Он был белокож, а чёрные волосы (его бороды) уже тронула седина. И Пророк ﷺ велел дать нам тринадцать верблюдиц, но скончался, прежде чем мы забрали их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3544</td></tr><tr><td>Arabic No</td><td>3544</td></tr><tr><td>Reference</td><td>Book 61 Hadith 53</td></tr></tbody></table></div>
 

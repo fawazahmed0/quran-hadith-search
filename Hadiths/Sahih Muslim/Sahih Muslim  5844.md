@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd reported on the authority of his father that Allah's Apostle (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abdu bin Humaid] keduanya berkata; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Amir bin Sa'd] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam memerintahkan agar membunuh Al Wazagh (cecak) dan beliau memberi nama Fuwaisiq (si fasik kecil)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5844</td></tr><tr><td>Arabic No</td><td>2238</td></tr><tr><td>Reference</td><td>Book 39 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн Са‘д (ибн Абу Ваккъас) рассказывал со слов своего отца: «Пророк ﷺ велел убивать ящериц и называл такую ящерицу фувайсикъ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5844</td></tr><tr><td>Arabic No</td><td>2238</td></tr><tr><td>Reference</td><td>Book 39 Hadith 195</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When the Prophet (ﷺ) returned from the battle of Al-Ahzab (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad bin Asma'] berkata, telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari [Ibnu 'Umar] berkata, "Nabi shallallahu 'alaihi wasallam bersabda kepada kami ketika beliau kembali dari perang Ahzab: "Jangan sekali-kali salah seorang dari kalian shalat 'Ashar keculi di perkampungan Bani Quraizhah." Lalu tibalah waktu shalat ketika mereka masih di jalan, sebagian dari mereka berkata, 'Kami tidak akan shalat kecuali telah sampai tujuan', dan sebagian lain berkata, 'Bahkan kami akan melaksanakan shalat, sebab beliau tidaklah bermaksud demikian'. Maka kejadian tersebut diceritakan kepada Nabi shallallahu 'alaihi wasallam, dan beliau tidak mencela seorang pun dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>946</td></tr><tr><td>Arabic No</td><td>946</td></tr><tr><td>Reference</td><td>Book 12 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ вернулся (в Медину) после битвы у рва, он сказал нам: “Пусть каждый совершит послеполуденную молитву только у (жилищ) бану курайза!” Некоторых из них время послеполуденной молитвы застало в пути, и тогда одни сказали: “Мы не будем совершать молитву, пока не придём туда”, другие же сказали так: “Нет, совершим (здесь), ибо не этого он хотел от нас!” А потом об этом рассказали Пророку ﷺ и он не высказал порицания никому из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>946</td></tr><tr><td>Arabic No</td><td>946</td></tr><tr><td>Reference</td><td>Book 12 Hadith 5</td></tr></tbody></table></div>
 

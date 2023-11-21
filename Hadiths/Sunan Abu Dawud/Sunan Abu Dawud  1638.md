@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Basheer b. Yasar said that a man from the Ansar called Sahi b. abu-Hatmah told h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Hasan bin Muhamad bin Ash Shabbah], telah menceritakan kepada Kami [Abu Nu'aim], telah menceritakan kepadaku [Sa'id bin 'Ubaid Ath Thai] dari [Busyair bin Yasar] ia menyangka bahwa seseorang dari kalangan anshar yang dikenal dengan nama [Sahl bin Abu Hatsmah] telah mengabarkan kepadanya bahwa Nabi shalla Allahu 'alaihi wa sallam membayar diyahnya dengan seratus unta dari unta zakat, yaitu diyah seorang anshar yang terbunuh di Khaibar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1638</td></tr><tr><td>Arabic No</td><td>1638</td></tr><tr><td>Reference</td><td>Book 9 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Человек из числа ансаров Сахль ибн Абу Хасма сообщает, что Пророк ﷺ дал ему сто верблюдов из закята, заплатив возмещение за убийство ансара, убитого в Хайбаре
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1638</td></tr><tr><td>Arabic No</td><td>1638</td></tr><tr><td>Reference</td><td>Book 9 Hadith 83</td></tr></tbody></table></div>
 

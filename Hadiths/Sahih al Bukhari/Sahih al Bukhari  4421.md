@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Al-Mughira:Al-Mughira bin Shu'ba, said, "The Prophet (ﷺ) we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab telah menceritakan kepada kami [Yahya bin Bukair] dari [Al Laits] dari ['Abdul 'Aziz bin Abu Salamah] dari [Sa'ad bin Ibrahim] dari [Nafi' bin Jubair] dari ['Urwah bin Al Mughirah] dari [Bapaknya, Al Mughirah bin Syu'bah] dia berkata; Nabi shallallahu 'alaihi wasallam pernah pergi untuk melaksanakan hajatnya. Maka aku pun menuangkan air untuknya. -Sepengetahuanku bapakku berkata pada saat perang Tabuk-. Lalu beliau membasuh wajahnya, mencuci kedua lengannya, namun lubang lengannya sangat sempit. Maka beliau mengeluarkan tangannya dari bahwa pakaiannya. Kemudian beliau mencuci lengannya dan membasuh kedua khufnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 64 Hadith 443</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира ибн Шу‘ба сказал: «Как-то раз Пророк ﷺ отправился, чтобы удовлетворить нужду, затем я стал лить ему воду — он сказал, что это было в походе на Табук — он омыл лицо, стал мыть руки до локтей, однако рукава его джуббы оказались узкими, поэтому он вытащил руки снизу и помыл, а затем он протёр свои кожаные носки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 64 Hadith 443</td></tr></tbody></table></div>
 

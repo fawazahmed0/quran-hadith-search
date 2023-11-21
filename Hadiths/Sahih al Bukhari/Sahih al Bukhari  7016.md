@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I saw in a dream a piece of silken cloth in my hand, and in w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, mengatakan; aku bermimpi dalam tidur, seolah-olah di tanganku ada sehelai kain sutera, tidaklah aku berkeinginan menuju suatu tempat dalam surga dengan membawanya melainkan kain itu menerbangkan aku. Maka kukisahkan mimpiku kepada [Hafshah], dan Hafshah mengisahkan kepada Nabi shallallahu 'alaihi wasallam dan beliau bersabda: "Saudaramu adalah laki-laki Shalih, " atau beliau bersabda: "Sesungguhnya Abdullah laki-laki Shalih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7016</td></tr><tr><td>Arabic No</td><td>7016</td></tr><tr><td>Reference</td><td>Book 91 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я увидел во сне, как-будто в моей руке кусок (хорошего) шёлка, и в каком-бы месте в раю я не пожелал оказаться, оно обязательно меня туда переносило. Я рассказал (обо всём этом) Хафсе, а Хафса рассказал Пророку ﷺ и он сказал: “Поистине, твой брат — праведный человек”, или он сказал: “Поистине, ‘Абдуллах — праведный человек”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7016</td></tr><tr><td>Arabic No</td><td>7016</td></tr><tr><td>Reference</td><td>Book 91 Hadith 33</td></tr></tbody></table></div>
 

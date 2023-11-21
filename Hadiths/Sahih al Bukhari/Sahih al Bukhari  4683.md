@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:Ibn 'Abbas recited:-- "No doubt! They fold up their breasts in ord
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami ['Amru] dia berkata; [Ibnu 'Abbas] membaca ayat: Ingatlah, sesungguhnya (orang munafik itu) memalingkan dada mereka untuk menyembunyikan diri daripadanya (Muhammad), Ingatlah, di waktu mereka menyelimuti dirinya dengan kain.. (Huud: 5). Yang lainnya berkata; dari Ibnu Abbas arti Yastagsyuuna adalah; menutup kepala mereka. Arti sii'a bihim (Huud: 77 adalah berperangsangka buruk kepada kaumnya. Dan dlaaqa bihim yaitu terhadap para tamu mereka. Sedangkan arti Qitha'i manal lail yaitu kegelapan. Mujahid berkata; arti ilaihi Unib yaitu saya kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4683</td></tr><tr><td>Arabic No</td><td>4683</td></tr><tr><td>Reference</td><td>Book 65 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Амра, что Ибн ’Аббас прочитал: «Воистину, они сворачивают свои сердца, чтобы спрятаться от Него. Воистину, даже когда они закутываются в одежду…», и сказал: «”…закутываются в одежду” — покрывают свои головы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4683</td></tr><tr><td>Arabic No</td><td>4683</td></tr><tr><td>Reference</td><td>Book 65 Hadith 205</td></tr></tbody></table></div>
 

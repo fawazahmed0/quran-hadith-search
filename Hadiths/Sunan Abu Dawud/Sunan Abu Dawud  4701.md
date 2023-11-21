@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying :
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Shalih] secara makna, ia berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru bin Dinar] ia mendengar [Thawus] berkata; Aku mendengar [Abu Hurairah] mengabarkan dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Adam dan Musa saling berargumentasi. Musa berkata, "Wahai Adam, engkau adalah bapak kami, engkau telah merugikan kami dan engkau telah menjadikan kami keluar dari surga! Adam menjawab, "Wahai Musa, Allah telah memilih dan memberimu kitab Taurat, kenapa engaku menyalahkan aku atas suatu perkara yang Allah telah tetapkan terhadapku empat puluh tahun sebelum aku diciptakan?" Maka Adam dapat mengalahkan Musa." Ahmad bin Shalih menyebutkan dari Amru, dari Thawus, ia mendengar dari Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4614) Sahih Muslim (2652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4701</td></tr><tr><td>Arabic No</td><td>4701</td></tr><tr><td>Reference</td><td>Book 42 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Пророк ﷺ сказал: «Адам вступит в спор с Мусой. Муса скажет: “О Адам! Ты наш праотец, и это ты оставил нас в убытке и вывел нас из Рая!” Адам скажет: “Ты Муса, Аллах избрал тебя, дабы говорить с тобой, и записал для тебя Тору Рукою Своей… И ты порицаешь меня за то, что я совершил нечто такое, что Аллах предопределил мне совершить за сорок лет до того, как Он создал меня?” Так Адам победит Мусу в споре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4614) Sahih Muslim (2652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4701</td></tr><tr><td>Arabic No</td><td>4701</td></tr><tr><td>Reference</td><td>Book 42 Hadith 106</td></tr></tbody></table></div>
 

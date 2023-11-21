@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: Do not fast one day or two 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Husain], dari [Zaidah] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mendahului bulan dengan puasa satu hari ataupun dua hari, kecuali salah seorang diantara kalian biasa melakukannya, dan janganlah kalian berpuasa hingga melihatnya (hilal), kemudian berpuasalah hingga kalian melihatnya. Kemudian apabila terhalang oleh awan maka sempurnakan hitungan menjadi tiga puluh hari. Kemudian berbukalah! Satu bulan adalah dua puluh sembilan." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Hatim bin Abu Shaghirah] serta [Syu'bah], dan [Al Hasan bin Shalih] dari [Simak] semakna dengannya, mereka tidak mengatakan; kemudian berbukalah! Abu Daud berkata; ia adalah Hatim bin Muslim anak Abu Shaghirah, sementara Abu Shaghirah adalah suami ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2327</td></tr><tr><td>Arabic No</td><td>2327</td></tr><tr><td>Reference</td><td>Book 14 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Не предваряйте месяц (рамадан) постом в последний день или два ша‘бана, если только речь не идёт о посте, который кто-то из вас соблюдает обычно. И не начинайте поститься, пока не увидите (народившийся месяц рамадана), а потом поститесь, пока не увидите (народившийся месяц шавваля). А если облачность помешает вам увидеть его, то доводите число дней до тридцати, а потом уже не поститесь. А в месяце может быть и двадцать девять дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2327</td></tr><tr><td>Arabic No</td><td>2327</td></tr><tr><td>Reference</td><td>Book 14 Hadith 15</td></tr></tbody></table></div>
 

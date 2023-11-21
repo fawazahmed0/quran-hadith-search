@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), 'Omar demanda le Prophète (pai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abu Bakar al-Muqaddami] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Yahya, yaitu Ibnu Sa'id] dan [Ubaidullah] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Ibnu Numair] dan lafazh tersebut milik keduanya, berkata [Ibnu Numair] telah menceritakan kepada kami [bapakku] dan berkata [Abu Bakar] telah menceritakan kepada kami [Abu Usamah] keduanya berkata, telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Umar berkata, "Wahai Rasulullah, apa (boleh) salah seorang dari kita tidur sedangkan dia dalam keadaan junub?" Beliau menjawab, "Ya boleh, apabila dia telah berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>306.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что (однажды) ‘Умар сказал: «О Посланник Аллаха, можно ли кому-нибудь из нас засыпать в состоянии полового осквернения?» И (Посланник Аллаха ﷺ) ответил: «Да, если совершит малое омовение /вудуъ/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>306.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
 

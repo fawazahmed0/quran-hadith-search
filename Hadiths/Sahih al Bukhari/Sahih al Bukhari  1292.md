@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar from his father: The Prophet (ﷺ) said, "The deceased is tor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan [bapakku] kepadaku dari [Syu'bah] dari [Qatadah] dari [Sa'id AL Musayyab] dari [Ibnu 'Umar] dari [bapaknya radliallahu 'anhuma] dari Nabi Shallallahu'alaihiwasallam bersabda: "Mayat akan disiksa didalam kuburnya disebabkan ratapan kepadanya". Hadits ini dikuatkan oleh ['Abdu Al A'laa] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] telah menceritakan kepada kami [Qatadah] dan berkata, [Adam] dari [Syu'bah]: "Sesungguhnya mayat pasti akan disiksa disebabkan tangisan orang yang masih hidup kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1292</td></tr><tr><td>Arabic No</td><td>1292</td></tr><tr><td>Reference</td><td>Book 23 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар передал от своего отца, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Умершего подвергают мучениям в его могиле за то, что над ним громко плачут с причитаниями». Сообщается от Шу‘бы: «Умершего подвергают мучениям за плач живых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1292</td></tr><tr><td>Arabic No</td><td>1292</td></tr><tr><td>Reference</td><td>Book 23 Hadith 50</td></tr></tbody></table></div>
 

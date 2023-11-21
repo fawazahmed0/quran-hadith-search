@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When the Prophet (ﷺ) said, "Sami' al-lahu liman hamidah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] telah menceritakan kepada kami [Hisyam bin Abu Abdullah] dari [Yahya] dari [Abu Salamah] dari [Abu Hurairah] Nabi shallallahu 'alaihi wasallam biasa membaca do'a qunut setelah mengucapkan: "Sami'allahu liman hamidah" -di raka'at terakhir dari shalat Isya'- yaitu; 'Ya Allah, selamatkanlah 'Ayyasy bin Abu Rabi'ah. Ya Allah, selamatkanlah Khalid bin Walid. Ya Allah, selamatkanlah Salamah bin Hisyam. Ya Allah, selamatkanlah golongan yang lemah dari kaum mukminin. Ya Allah, timpakanlah kerasnya siksa-Mu kepada Mudlar dan jadikanlah siksa-Mu untuk mereka berupa paceklik seperti paceklik yang terjadi pada zaman Nabi Yusuf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6393</td></tr><tr><td>Arabic No</td><td>6393</td></tr><tr><td>Reference</td><td>Book 80 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ говорил: “Да услышит Аллах тех, кто воздал Ему хвалу” в последнем рак‘ате вечерней молитвы, он совершал кунут (говоря): “О Аллах, спаси ‘Аййаша ибн Аби Раби‘у, о Аллах, спаси Саламу ибн Хишама, о Аллах, спаси аль-Валида ибн аль-Валида, о Аллах, спаси слабых из числа верующих! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Йусуфа!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6393</td></tr><tr><td>Arabic No</td><td>6393</td></tr><tr><td>Reference</td><td>Book 80 Hadith 88</td></tr></tbody></table></div>
 

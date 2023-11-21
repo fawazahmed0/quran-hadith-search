@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -dalam jalur lain- Dan telah menceritakannya kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] - [Ibnul Mutsanna] - berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Ibnu Abu Laila] dari [Ubay bin Ka'ab] bahwasanya Nabi shallallahu 'alaihi wasallam berada di kolam air Bani Ghifar. Kemudian beliau didatangi Jibril 'Alaihis salam seraya berkata, "Sesungguhnya Allah memerintahkanmu untuk membacakan Al Qur'an kepada umatmu dengan satu huruf (lahjah bacaan)." Beliau pun bersabda: "Saya memohon kasih sayang dan ampunan-Nya, sesungguhnya umatku tidak akan mampu akan hal itu." kemudian Jibril datang untuk kedua kalinya dan berkata, "Sesungguhnya Allah memerintahkanmu untuk membacakan Al Qur'an kepada umatmu dengan dua huruf." Beliau pun bersabda: "Saya memohon kasih sayang dan ampunan-Nya, sesungguhnya umatku tidak akan mampu akan hal itu." Lalu Jibril mendatanginya untuk ketiga kalinya seraya berkata, "Sesungguhnya Allah memerintahkanmu untuk membacakan Al Qur'an kepada umatmu dengan tiga huruf." Beliau bersabda "Saya memohon kasih sayang dan ampunan-Nya, sesungguhnya umatku tidak akan mampu akan hal itu." Kemudian Jibril datang untuk yang keempat kalinya dan berkata, "Sesungguhnya Allah memerintahkanmu untuk membacakan Al Qur'an kepada umatmu dengan tujuh huruf. Dengan huruf yang manapun yang mereka gunakan untuk membaca, maka bacaan mereka benar." Dan telah menceritakannya kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dengan isnad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>821.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 334</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Убаййа ибн Ка‘ба, что, когда Пророк ﷺ находился у владений бану гифар, к нему пришёл Джибриль (мир ему) и сказал: «Поистине, Аллах повелевает тебе (учить) свою общину читать Коран одним способом». (Посланник Аллаха ﷺ) сказал: «Прошу у Аллаха благополучия и прощения, поистине, моя община не осилит это». Потом Джибриль пришёл снова и сказал: «Поистине, Аллах повелевает тебе (учить) свою общину читать Коран двумя способами». (Посланник Аллаха ﷺ) сказал: «Прошу у Аллаха благополучия и прощения, поистине, моя община не осилит это». Затем он пришёл в третий раз и сказал: «Поистине, Аллах повелевает тебе (учить) свою общину читать Коран тремя способами». (Посланник Аллаха ﷺ) сказал: «Прошу у Аллаха благополучия и прощения, поистине, моя община не осилит это». Затем он пришёл в четвёртый раз и сказал: «Поистине, Аллах повелевает тебе (учить) свою общину читать Коран семью способами. Каким бы из них они его ни прочитали, это будет считаться правильным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>821.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 334</td></tr></tbody></table></div>
 

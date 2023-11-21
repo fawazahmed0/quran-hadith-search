@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) and his companions assumed Ihram 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami ['Abdul Wahhab bin 'Abdul Majid] dari [Habib Al Mu'alim] dari ['Atho'] telah menceritakan kepadaku [Jabir bin 'Abdullah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam dan para sahabatnya berniat untuk haji dan tidak ada satupun dari mereka yang membawa Al Hadyu (hewan qurban) kecuali Nabi shallallahu 'alaihi wasallam dan Tholhah serta 'Ali yang baru datang dari Yaman juga membawa Al Hadyu, dia berkata: "Aku berihram sebagaimana Rasulullah shallallahu 'alaihi wasallam berihram. Dan Nabi shallallahu 'alaihi wasallam mengijinkan para sahabat Beliau untuk menjadikan ihram mereka sebagai 'umrah, mereka thawaf di Ka'bah Baitullah, kemudian memotong (memendekkan) rambut lalu bertahallul kecuali siapa yang membawa Al Hadyu. Mereka berkata: "Kemudian kami berangkat menuju Mina lalu diantara kami ada yang menyebut bahwa dia menarik diri. Hal ini kemudian sampai kepada Nabi shallallahu 'alaihi wasallam, maka Beliau berkata: "Kalaulah aku bisa mengulang kembali urusanku yang telah lewat, niscaya aku tidak membawa binatang korban. Seandainya aku tidak membawa Al Hadyu, sudah pasti aku akan bertahallul". Kemudian 'Aisyah radliallahu 'anha mengalami haidh sedangkan dia sudah menyelesaikan seluruh manasik kecuali thawaf di Ka'bah Baitullah. Ketika dia sudah suci, dia melaksanakan thawaf di Ka'bah Baitullah. Dia berkata: 'Wahai Rasulullah, apakah kalian akan berangkat pulang dengan membawa haji dan 'umrah sedangkan aku dengan niat haji saja?" Maka Beliau memerintahkan 'Abdurrahman bin Abu Bakar agar berangkat bersama 'Aisyah radliallahu 'anha ke Tan'im. Maka 'Aisyah radliallahu 'anha melaksanakan 'umrah setelah melaksanakan manasik haji pada bulan Dzul Hijjah". Dan Suraqah bin Malik bin Ju'syam bertemu Nabi shallallahu 'alaihi wasallam saat Beliau berada di Al 'Aqabah sedang melempar jumrah, dia bertanya: "Apakah ini khusus buat kalian, wahai Rasulullah? Beliau berkata: "Tidak, tapi untuk selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1785</td></tr><tr><td>Arabic No</td><td>1785</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Перевод не полный) Передают со слов Джабира бин ‘Абдуллаха, да будет доволен Аллах ими обоими, что Сурака бин Малик бин Джу‘шум встретил Пророка ﷺ у “‘акабы”, когда он бросал камешки, и спросил его: «Это касается только вас, о Посланник Аллаха?» (Пророк ﷺ) сказал: «Нет, это (можно будет делать) всегда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1785</td></tr><tr><td>Arabic No</td><td>1785</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
 

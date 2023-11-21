@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Khalid bint Khalid:When I came from Ethiopia (to Medina), I was a yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ishaq bin 'as Sa'idi] dari [bapaknya] dari [Ummu Khalid binti Khalid] berkata; Aku datang dari negeri Habasyah, saat itu aku seorang anak kecil, Rasulullah shallallahu 'alaihi wasallam memakaikan selembar baju yang ada gambarnya kepadaku. Kemudian Rasulullah shallallahu 'alaihi wasallam menghapus gambar tersebut dengan tangan beliau seraya berkata: "Sanah, sanah". Al Humaidi berkata; "Maksudnya adalah hasan, hasan (baik, baik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>3874</td></tr><tr><td>Reference</td><td>Book 63 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Халид бинт Халид, да будет доволен ею Аллах, сказала: «Я была маленькой девочкой, когда приехала (в Медину) из Эфиопии. Посланник Аллаха ﷺ подарил мне рубаху, на которой были какие-то узоры, и стал гладить рукой эти узоры, приговаривая: “Санах, санах!” — что (на языке эфиопов) означает “Прекрасно, прекрасно!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>3874</td></tr><tr><td>Reference</td><td>Book 63 Hadith 99</td></tr></tbody></table></div>
 

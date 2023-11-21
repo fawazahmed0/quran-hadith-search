@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hanzala Usayyidi, who was amongst the scribes of Allah's Messenger (ﷺ). report
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Taimi] dan [Qathan bin Nusair] -dan lafadh ini milik Yahya- telah mengabarkan kepada kami [Ja'far bin Sulaiman] dari [Sa'id bin Iyas Al Jurairi] dari [Abu 'Utsman An Nahdi] dari [Hanzhalah Al Usayyidi] dia berkata; (salah seorang juru tulis Rasulullah shallallahu 'alaihi wasallam) dia berkata; "Saya pernah berjumpa dengan Abu Bakar dan ia berkata kepada saya; 'Bagaimanakah keadaanmu ya Hanzhalah? ' Saya (Hanzhalah) menjawab; 'Hanzhalah telah menjadi orang munafik.' Abu Bakar terperanjat seraya berkata; 'Subhanallah, apa maksud ucapanmu tadi hai Hanzhalah? ' Saya menjawab; 'Ketahuilah olehmu hai Abu Bakar, ketika kami berada di sisi Rasulullah, beliau sering mengingatkan kami tentang siksa neraka dan nikmat surga hingga seolah-olah kami melihatnya dengan mata kepala kami sendiri. Akan tetapi, ketika kami keluar dari sisi Rasulullah, maka kami pun berlaku kasar dan jahat kepada isteri dan anak-anak kami serta sering melakukan perbuatan yang tidak berguna. Jadi, kami ini sering lengah.' Abu Bakar berkata; 'Demi Allah, kami juga sering berbuat seperti itu hai Hanzhalah.' Kemudian saya dan Abu Bakar pergi menuju ke rumah Rasulullah shallallahu 'alaihi wasallam. Sesampainya di sana, saya berkata; 'Ya Rasulullah, Hanzhalah telah menjadi munafik.' Rasulullah shallallahu 'alaihi wasallam bertanya: 'Apa maksudmu hai Hanzhalah? ' Saya meneruskan ucapan saya; 'Ya Rasulullah, ketika saya berada di sisi engkau, kemudian engkau menerangkan kepada saya tentang siksa neraka dan nikmat surga, seolah-olah saya melihatnya dengan mata kepala saya sendiri. Akan tetapi, ketika saya telah keluar dari sisi engkau, maka saya pun berlaku kasar kepada istri dan anak-anak saya serta sering melakukan perbuatan yang tidak berguna. Jadi saya sering bersikap Iengah.' Mendengar pernyataan tersebut, Rasulullah shallallahu 'alaihi wasallam bersabda: 'Demi Dzat yang jiwaku ditangan-Nya, sungguh jika kamu senantiasa menetapi apa yang kamu lakukan ketika kamu berada di sisiku dan ketika kamu berzikir, niscaya para malaikat akan menjabat tanganmu dalam setiap langkah dan perjalananmu. Tetapi, tentunya yang demikian itu dilakukan sedikit demi sedikit (dari waktu-kewaktu, secara berkala, tidak spontanitas).' Beliau mengulangi kata-kata itu tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6966</td></tr><tr><td>Arabic No</td><td>2750.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6966</td></tr><tr><td>Arabic No</td><td>2750.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 14</td></tr></tbody></table></div>
 

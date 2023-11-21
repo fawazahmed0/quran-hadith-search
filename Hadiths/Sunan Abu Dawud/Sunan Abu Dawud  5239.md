@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Habashi: The Prophet (ﷺ) said: If anyone cuts the lote-t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah mengabarkan kepada kami [Abu Usamah] dari [Ibnu Juraij] dari [Utsman bin Abu Sulaiman] dari [Sa'id bin Muhammad bin Jubair bin Muth'im] dari [Abdullah bin Hubsyi] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menebang pohon bidara maka Allah akan membenamkan kepalanya dalam api neraka." Abu Dawud pernah ditanya tentang hadits tersebut, lalu ia menjawab, "Secara ringkas, makna hadits ini adalah bahwa barangsiapa menebang pohon bidara di padang bidara dengan sia-sia dan zhalim; padahal itu adalah tempat untuk berteduh para musafir dan hewan-hewan ternak, maka Allah akan membenamkan kepalanya di neraka." Telah menceritakan kepada kami [Makhlad bin Khalid] dan [Salamah] -maksudnya Salamah bin Syabib- keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Utsman bin Abu Sulaiman] dari [seorang laki-laki penduduk Tsaqif] dari [Urwah bin Az Zubair] dan ia memarfu'kannya kepada Nabi shallallahu 'alaihi wasallam seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5239</td></tr><tr><td>Arabic No</td><td>5239</td></tr><tr><td>Reference</td><td>Book 43 Hadith 467</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Хубши сказал: «Посланник Аллаха ﷺ сказал: “Того, кто срубит лотос, Аллах направит в (адский) Огонь головой вниз”».Абу Дауда спросили о смысле этого хадиса и он сказал: «Этот хадис сокращенный. Имеется в виду кто понапрасну срубит лотос в пустыне, под которой укрываются путники, животные, проявляя несправедливость без права, из-за чего Аллах отправит его головой вниз в(адский) Огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5239</td></tr><tr><td>Arabic No</td><td>5239</td></tr><tr><td>Reference</td><td>Book 43 Hadith 467</td></tr></tbody></table></div>
 

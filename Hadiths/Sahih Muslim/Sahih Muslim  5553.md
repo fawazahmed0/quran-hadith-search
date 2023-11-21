@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that Allah's Messenger (ﷺ) saw an ass which had been cauter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Isa]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Yazid bin Abu Habib] bahwa [Na'im Abu 'Abdillah] budak Ummu Salamah menceritakan kepadanya, dia mendengar [Ibnu 'Abbas] berkata; Rasulullah shallallahu 'alaihi wasallam pernah melihat seekor keledai yang diberi tanda pada wajahnya, maka beliau pun mengingkari hal itu. Beliau berkata: "Demi Allah, sungguh aku tidak memberi tanda padanya kecuali pada ujung wajahnya saja." Lalu beliau memerintahkan untuk memberi tanda keledai beliau pada dua sisi pahanya, dan dia adalah orang pertama yang memberi tanda pada kedua sisi paha hewan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5553</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 37 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5553</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 37 Hadith 164</td></tr></tbody></table></div>
 

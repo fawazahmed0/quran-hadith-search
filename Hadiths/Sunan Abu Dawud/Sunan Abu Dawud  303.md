@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad b. 'Uthman asked al-Qasim b. Muhammad about the woman who has a prolong
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Muhammad bin Utsman] bahwasanya dia bertanya kepada [Al-Qasim bin Muhammad] tentang Wanita mustahadlah, maka dia menjawab; Dia meninggalkan shalat pada hari-hari yang biasanya dia haidl kemudian mandi dan shalat, lalu mandi setiap hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>303</td></tr><tr><td>Arabic No</td><td>303</td></tr><tr><td>Reference</td><td>Book 1 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада ибн ‘Усмана о том, что однажды он спросил аль-Касима ибн Мухаммада о женщине с хроническим кровотечением, и он сказал: «Она должна оставить молитву во время менструального цикла, после чего должна искупаться и совершать молитву, а затем купаться в эти дни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>303</td></tr><tr><td>Arabic No</td><td>303</td></tr><tr><td>Reference</td><td>Book 1 Hadith 303</td></tr></tbody></table></div>
 

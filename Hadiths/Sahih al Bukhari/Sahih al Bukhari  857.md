@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman Ash-Shaibani:I heard Ash-Shu'bi saying, "A person who was acco
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepadaku [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] berkata, Aku mendengar [Sulaiman Asy Syaibani] berkata, Aku mendengar [Asy Sya'bi] berkata, "Telah mengabarkan kepadaku [orang yang berjalan] besama Nabi shallallahu 'alaihi wasallam melewati sebuah kuburan yang terpisah, kemudian Beliau memimpin mereka shalat dan orang-orang membuat shaf lalu shalat untuk kuburan tersebut." Maka aku tanyakan, "Wahai Abu 'Amru, siapa yang menceritakan kepadamu tentang ini?" Dia menjawab, "Ibnu 'Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>857</td></tr><tr><td>Reference</td><td>Book 10 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что однажды Пророк ﷺ прошёл мимо могилы, находившейся отдельно от других могил, и встал во главе их (для совершения заупокойного намаза), а они выстроились позади него
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>857</td></tr><tr><td>Arabic No</td><td>857</td></tr><tr><td>Reference</td><td>Book 10 Hadith 248</td></tr></tbody></table></div>
 

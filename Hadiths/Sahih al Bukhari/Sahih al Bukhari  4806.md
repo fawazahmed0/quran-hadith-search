@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Awwam:I asked Muhajid regarding the prostration in Surat Sa'd. He sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Gundar] Telah menceritakan kepada kami [Syu'bah] dari [Al 'Awwam] dia berkata; Aku bertanya kepada [Mujahid] mengenai ayat sajdah di dalam surat Shaad, lalu ia berkata; [Ibnu 'Abbas] ditanya tentang hal itu lalu ia menjawab; "Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah, maka ikutilah petunjuk mereka." (Al 'An'am: 90). Dan Ibnu Abbas sujud pada ayat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4806</td></tr><tr><td>Arabic No</td><td>4806</td></tr><tr><td>Reference</td><td>Book 65 Hadith 328</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-‘Авам сказал: «Когда я спросил Муджахида о совершении земного поклона во время чтения суры “Сад”, он ответил: “Когда об этом был спрошен Ибн ‘Аббас, он ответил: “Это — те, кого Аллах повел прямым путем. Следуй же их прямым путем”». Ибн ‘Аббас совершал земной поклон, читая эту суру
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4806</td></tr><tr><td>Arabic No</td><td>4806</td></tr><tr><td>Reference</td><td>Book 65 Hadith 328</td></tr></tbody></table></div>
 

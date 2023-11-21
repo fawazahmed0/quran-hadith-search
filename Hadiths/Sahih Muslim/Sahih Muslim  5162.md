@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh Al-Ansâri (رضي الله عنهما) a dit : "Le Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [As Syaibani] dari [Habib] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang (membuat perasan) dengan mencampur antara kurma masak dengan anggur, atau kurma muda dengan kurma masak. Kemudian beliau menulis surat kepada penduduk Jurasy melarang mereka mencampur kurma masak dengan anggur menjadi satu." Dan telah menceritakan kepadaku [Wahb bin Baqiyah] telah mengabarkan kepada kami [Khalid] -yaitu At Thahan- dari [As Syaibani] dengan sanad ini tentang (mencampur) kurma masak dengan anggur, dan ia tidak menyebutkan 'kurma muda dengan kurma masak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5162</td></tr><tr><td>Arabic No</td><td>1990.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5162</td></tr><tr><td>Arabic No</td><td>1990.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 36</td></tr></tbody></table></div>
 

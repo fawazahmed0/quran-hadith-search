@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée) : J'ai entendu l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hannad bin As Sari] telah menceritakan kepada kami [Abul Ahwash] dari [Bayan Abu Bisyr] dari [Qais bin Abu Hazim] dari [Abu Hurairah] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Berangkatnya salah seorang diantara kalian pagi-pagi kemudian pulang dengan memikul kayu bakar di punggungmu, lalu kamu bersedekah dengan itu tanpa meminta-minta kepada orang banyak, itu lebih baik bagimu daripada meminta-minta kepada orang banyak, baik ia diberi atau tidak. Sesungguhnya tangan yang memberi itu lebih mulia daripada tangan yang menerima. Dan dahulukanlah memberi kepada orang yang menjadi tanggunganmu." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Isma'il] telah menceritakan kepadaku [Qais bin Abu Hazim] ia berkata, kami mendatangi [Abu Hurairah] maka ia pun berkata; Nabi shallallahu 'alaihi wasallam pernah bersabda: "Seorang dari kalian pergi, lalu ia kembali dengan membawa kayu bakar di atas punggungnya, lalu ia menjualnya." Kemudian ia pun menyebutkan hadits yang serupa dengan hadits Bayan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2400</td></tr><tr><td>Arabic No</td><td>1042.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Любому из вас пойти и нарубить утром дров, (принести их) на спине, (продать), подать милостыню и избавиться от необходимости (обращаться с просьбами к) людям, безусловно, будет лучше, чем просить того или иного человека, который (может) дать ему (что-нибудь), а (может и) отказать. Поистине, высшая рука лучше руки низшей, начинай же (давать) с тех, кого ты (обязан) содержать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2400</td></tr><tr><td>Arabic No</td><td>1042.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 137</td></tr></tbody></table></div>
 

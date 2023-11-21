@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' (b. 'Azib), and he was no liar (but a truthful Companion of the Holy Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Ishaq] dari [Abdullah bin Yazid] dia berkata, telah menceritakan kepadaku [al-Bara'], dan dia bukanlah pendusta, bahwa mereka shalat di belakang Rasulullah Shallallahu'alaihiwasallam, lalu apabila beliau mengangkat kepalanya dari rukuk, maka aku tidak melihat seorang pun yang melengkungkan punggungnya (semuanya tegap berdiri), hingga Rasulullah Shallallahu'alaihiwasallam meletakkan keningnya pada tanah, kemudian orang yang ada di belakang beliau menyungkur sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1062</td></tr><tr><td>Arabic No</td><td>474.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ сказал: «Они (сподвижники) совершали молитву за Посланником Аллаха ﷺ, и когда он поднимал голову после поясного поклона, то я не видел, чтобы кто-то из них сгибал спину, пока Посланник Аллаха ﷺ не опускал свой лоб на землю, (лишь после этого) они они простирались в земном поклоне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1062</td></tr><tr><td>Arabic No</td><td>474.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 224</td></tr></tbody></table></div>
 

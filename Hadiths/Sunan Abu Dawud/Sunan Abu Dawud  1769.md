@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ali said :The Messenger of Allah (SWAS) commanded me to take charge of (his) sac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Amr bin 'Aun], telah mengabarkan kepada Kami [Sufyan yaitu Ibnu 'Uyainah] dari [Abdul Karim Al Jazari] dari [Mujahid] dari [Abdurrahman bin Abu Laila] dari [Ali] radliallahu 'anhu, ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam memerintahkanku menyembelih untanya dan membagikan kulitnya serta segala yang ada diatasnya, dan beliau memerintahkan agar aku tidak memberikan sesuatupun kepada orang yang menyembelih. Beliau bersabda: "Kami akan memberinya dari diri Kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1716) Sahih Muslim (1317)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1769</td></tr><tr><td>Arabic No</td><td>1769</td></tr><tr><td>Reference</td><td>Book 11 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, передаёт: «Посланник Аллаха ﷺ велел мне распоряжаться его жертвенными животными и делить их шкуры и попоны. Он также велел мне не давать ничего из этого мяснику и сказал: “Мы дадим ему от нас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1716) Sahih Muslim (1317)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1769</td></tr><tr><td>Arabic No</td><td>1769</td></tr><tr><td>Reference</td><td>Book 11 Hadith 49</td></tr></tbody></table></div>
 

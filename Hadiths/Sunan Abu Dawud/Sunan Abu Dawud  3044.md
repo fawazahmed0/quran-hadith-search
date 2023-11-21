@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man belonging to Usbadhiyin of the people of Bahr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Miskin Al Yamami], telah menceritakan kepada kami [Yahya bin Hassan], telah menceritakan kepada kami [Husyaim], telah mengabarkan kepada kami [Daud bin Abu Hindun], dari [Qusyair bin 'Amr], dari [Bajalah bin 'Abdah] dari [Ibnu Abbas], ia berkata; telah datang seorang laki-laki asbdzi dari penduduk Bahrain, mereka adalah orang-orang majusi penduduk Hajar kepada Rasulullah shallallahu 'alaihi wasallam, kemudian ia tinggal di sisi beliau kemudian keluar. Lalu aku bertanya kepada beliau; apakah yang telah Allah dan rasulNya putuskan pada diri kalian? Ia berkata; keputusan yang buruk. Aku katakan; apakah itu? Ia berkata; masuk Islam atau dibunuh. Bajalah berkata; dan Abdurrahman bin 'Auf telah menerima jizyah dari mereka. Ibnu Abbas berkata; kemudian orang-orang mengambil pendapat Abdurrahman bin 'Auf, dan meninggalkan apa yang aku dengar dari orang asbadzi tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3044</td></tr><tr><td>Arabic No</td><td>3044</td></tr><tr><td>Reference</td><td>Book 20 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн ‘Аббас, да будет доволен Аллах им и его отцом: «К Посланнику Аллаха ﷺ пришёл один человек из числа огнепоклонников, живших в Бахрейне, и пробыл с ним некоторое время, после чего вышел. Я спросил его: “Какое решение принял Аллах и Его посланник относительно вас?” Тот ответил: “Скверное”. Он сказал: “Не говори так!” Тот сказал: “Ислам или смерть”». Ибн ‘Аббас сказал: «А ‘Абду-р-Рахман ибн ‘Ауф утверждал, что Посланник Аллаха ﷺ принял от них джизью и люди последовали его словам и оставили то, что я слышал от того огнепоклонника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3044</td></tr><tr><td>Arabic No</td><td>3044</td></tr><tr><td>Reference</td><td>Book 20 Hadith 117</td></tr></tbody></table></div>
 

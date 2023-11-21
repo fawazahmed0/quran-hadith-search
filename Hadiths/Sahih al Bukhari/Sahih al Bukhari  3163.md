@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya bin Sa'id:Once the Prophet (ﷺ) called the Ansar in order to gra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Zuhair] dari [Yahya bin Sa'id] be aku mendengar [Anas radliallahu 'anhu] berkata: Nabi shallallahu 'alaihi wasallam memanggil Kaum Anshar untuk menetapkan bagian mereka (harta fa'i) negeri Bahrain, maka mereka berkata; "Tidak, demi Allah, hingga Tuan menetapkan juga (bagian yang sama) buat saudara-saudara kami dari Quraisy". Maka Beliau jawab ucapan mereka sekehendak Allah. Selanjutnya Beliau bersabda: "Kelak kalian akan melihat setelahku sikap-sikap egoism, maka bersabarlah hingga kalian berjumpa denganku di telaga al-Haudl
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3163</td></tr><tr><td>Arabic No</td><td>3163</td></tr><tr><td>Reference</td><td>Book 58 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Когда) Пророк ﷺ позвал ансаров, чтобы даровать (им участки земли) в Бахрейне, они сказали: “Нет, клянёмся Аллахом, (мы не примем их,) пока ты не даруешь нашим братьям курайшитам (мухаджирам) такие же (участки) как и нам”. Пророк ﷺ сказал: “Это будет им”. Но они продолжали настаивать на своей просьбе, и тогда Пророк ﷺ сказал (ансарам): “После (моей смерти) вы увидите, что предпочтение (станут отдавать другим), терпите же, пока не встретитесь со мной у водоёма (аль-хауд)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3163</td></tr><tr><td>Arabic No</td><td>3163</td></tr><tr><td>Reference</td><td>Book 58 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Hani ibn AbuTalib: The Messenger of Allah (ﷺ) prayed on the day o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Ahmad bin 'Amru bin As Sarh] keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku ['Ayyadl bin Abdullah] dari [Makhramah bin Sulaiman] dari [Kuraib] bekas budak Ibnu Abbas, dari [Ummu Hani' binti Abu Thalib] bahwa pada hari penaklukan kota Makkah, Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat Dhuha delapan raka'at, di setiap dua raka'at beliau salam." [Ahmad bin Shalih] berkata; "Sesungguhnya pada hari penaklukan kota Makkah, Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat Dhuha …" kemudian dia menyebutkan seperti hadits di atas." [Ibnu As Sarh] mengatakan; Sesungguhnya [Ummu Hani'] berkata; "Rasulullah shallallahu 'alaihi wasallam masuk menemuiku…" tanpa menyebutkan kalimat "Mengerjakan shalat Dhuha" dengan maksud haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1290</td></tr><tr><td>Arabic No</td><td>1290</td></tr><tr><td>Reference</td><td>Book 5 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм Хани бинт Абу Талиб, да будет доволен ею Аллах, что Посланник Аллаха ﷺ совершил в день покорения Мекки молитву-духа в восемь рак‘атов, произнося слова таслима после каждых двух рак‘атов. Ахмад ибн Салих передаёт, что Посланник Аллаха ﷺ совершил в день покорения Мекки дополнительную молитву-духа, и он передал подобное сообщение. А Ибн ас-Сарх передал, что Умм Хани сказала: «Посланник Аллаха ﷺ зашёл ко мне…» и он передал подобное сообщение без упоминания о молитве-духа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1290</td></tr><tr><td>Arabic No</td><td>1290</td></tr><tr><td>Reference</td><td>Book 5 Hadith 41</td></tr></tbody></table></div>
 

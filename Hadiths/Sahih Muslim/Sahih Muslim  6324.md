@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Au moment de la prière du matin, l'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Ya'isy] dan [Muhammad bin Al A'laa Al Mahdani] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Abu Hayyan]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] dan lafazh ini miliknya; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Abu Hayyan At Taimi Yahya bin Sa'id] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bertanya kepada Bilal ketika shalat Shubuh: "Hai Bilal, katakanlah Kepadaku apakah amalanmu yang paling besar pahalanya yang pernah kamu kerjakan dalam Islam, karena tadi malam aku mendengar derap sandalmu di dalam surga? ' Bilal menjawab; 'Ya Rasulullah, sungguh saya tidak mengerjakan amal perbuatan yang paling besar pahalanya dalam Islam selain saya bersuci dengan sempurna, baik itu pada waktu malam ataupun siang hari. lalu dengannya saya mengerjakan shalat selain shalat yang telah diwajibkan Allah kepada saya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6324</td></tr><tr><td>Arabic No</td><td>2458</td></tr><tr><td>Reference</td><td>Book 44 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6324</td></tr><tr><td>Arabic No</td><td>2458</td></tr><tr><td>Reference</td><td>Book 44 Hadith 154</td></tr></tbody></table></div>
 

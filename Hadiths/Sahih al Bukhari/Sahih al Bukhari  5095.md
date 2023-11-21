@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:Allah's Messenger (ﷺ) said, "If at all there is bad ome
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abudllah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abu Hazim] dari [Sahl bin Sa'dari] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya kesialan itu ada pada sesuatu, maka niscaya akan terdapat kuda, wanita dan rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5095</td></tr><tr><td>Arabic No</td><td>5095</td></tr><tr><td>Reference</td><td>Book 67 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да, что Посланник Аллаха ﷺ сказал: «Если оно (какое-то дурное предзнаменование) в чём-то и есть, то в лошади, женщине и доме»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5095</td></tr><tr><td>Arabic No</td><td>5095</td></tr><tr><td>Reference</td><td>Book 67 Hadith 33</td></tr></tbody></table></div>
 

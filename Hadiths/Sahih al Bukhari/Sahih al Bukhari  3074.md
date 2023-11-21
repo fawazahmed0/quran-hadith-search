@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:There was a man who looked after the family and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] dari ['Amru] dari [Salim bin Abi Al Ja'di] dari ['Abdullah bin 'Amru] berkata; Ada seseorang yang ditugaskan Nabi Shallallahu'alaihiwasallam menjaga harta (rampasan perang) bernama Kirkirah kemudian dia meninggal dunia. Lalu Beliau Rasulullah Shallallahu'alaiwasallam berkata tentang orang itu; "Dia di neraka". Maka orang-orang pergi untuk menengoknya dan ternyata mereka temukan ada barang curian (baju selimut) yang dicurinya. Abu 'Abdullah berkata, [Ibnu Salam] berkata; "Nama orang itu Karkarah (huruf Kaaf berbaris fathah), danitulah yang lebih kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 56 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен Аллах ими обоими, сказал: «Один человек по имени Киркира переносил для Пророка ﷺ тяжёлые вещи, (если в этом возникала необходимость,) а после его смерти Посланник Аллаха ﷺ сказал: “Он в Огне”. Люди пошли посмотреть на него и обнаружили у него (дома) абу, которую он утаил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 56 Hadith 279</td></tr></tbody></table></div>
 

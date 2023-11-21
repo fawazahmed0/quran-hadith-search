@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit rapporté d'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée) : L'Envoyé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] semuanya dari [Abu Mu'awiyah] - [Abu Kuraib] berkata- Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id Al Khudri] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang wanita yang beriman kepada Allah dan hari akhirat untuk mengadakan perjalanan selama tiga hari atau lebih kecuali ia bersama bapaknya atau anaknya atau suaminya atau saudaranya atau mahramnya yang lain." Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Sa'id Al Asyaj] keduanya berkata, Telah menceritakan kepada kami [Waki'] Telah menceritakan kepada kami [Al A'masy] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3270</td></tr><tr><td>Arabic No</td><td>1340.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 474</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3270</td></tr><tr><td>Arabic No</td><td>1340.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 474</td></tr></tbody></table></div>
 

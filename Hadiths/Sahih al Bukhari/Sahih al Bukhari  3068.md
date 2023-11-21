@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Once a slave of Ibn 'Umar fled and joined the Byzantine. Khalid b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami [Yahya] dari ['Ubaidullah] berkata telah mengabarkan kepadaku [Nafi'] bahwa seorang budak milik Ibnu 'Umar melarikan diri ke negeri Romawi kemudian Khalid bin Al Walid menyusulnya lalu diserahkan kembali kepada ['Abdullah] (bin 'Umar). Dan bahwa seekor kuda milik Ibnu 'Umar kabur ke negeri Romawi kemudian (Khalid bin Al Walid) menyusulnya lalu mengembalikannya kepada 'Abdullah. Abu 'Abdullah Al Bukhariy berkata; "Kata -'aaro- berasal dari kata -al'iiru- yang artinya himar liar, maksud dalam hadits ini "kabur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3068</td></tr><tr><td>Arabic No</td><td>3068</td></tr><tr><td>Reference</td><td>Book 56 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи’ рассказал: «(Однажды) раб Ибн ‘Умара сбежал и присоединился к византийцам, а потом Халид ибн аль-Валид вернул ему этого раба. А (в другой раз) конь Ибн ‘Умара убежал, и его захватили враги, а потом мусульмане одержали победу над (этими людьми) и этого коня вернули ‘Абдуллаху (ибн ‘Умару)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3068</td></tr><tr><td>Arabic No</td><td>3068</td></tr><tr><td>Reference</td><td>Book 56 Hadith 273</td></tr></tbody></table></div>
 

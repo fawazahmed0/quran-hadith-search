@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A ‘mash transmitted this tradition saying:If religion were based on opinion, i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al-'Ala] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Al A'masy] dari [Abu Ishaq] dari ['Abdu Khair] dari [Ali radliallahu 'anhu] dia berkata; Seandainya agama (Islam) itu berdasarkan hasil pikiran, niscaya bagian bawah sepatu lebih pantas untuk diusap daripada bagian atasnya, dan sungguh saya telah melihat Rasulullah shallallahu 'alaihi wasallam mengusap bagian atas kedua khufnya. Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] dia berkata; Telah menceritakan kepada kami [Yazid bin Abdul Aziz] dari [Al A'masy] dengan isnadnya, dengan hadits ini, dia (Ali) berkata; Saya tidak pernah membayangkan kecuali bahwa bagian bahwa kedua telapak kaki itu lebih pantas untuk dibasuh, sampai saya melihat Rasulullah shallallahu 'alaihi wasallam mengusap bagian atas kedua khuf beliau. Telah menceritakan kepada kami [Muhammad bin Al-'Ala'] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Al A'masy] dengan hadits ini, dia (Ali) berkata; Seandainya agama (Islam) itu berdasarkan hasil pikiran, tentulah bagian dalam kedua kaki lebih pantas untuk diusap daripada bagian atasnya. Dan sungguh Nabi shallallahu 'alaihi wasallam telah mengusap bagian atas kedua khufnya. Dan diriwayatkan oleh [Waki'] dari [Al A'masy] dengan isndanya, dia (Ali) berkata; Saya pernah berpendapat bahwa bagian bawah telapak kaki itu lebih pantas untuk diusap daripada bagian atasnya, hingga saya melihat Rasulullah shallallahu 'alaihi wasallam mengusap bagian luar (atas) keduanya. Waki' berkata; Maksudnya sepasang khuf. Dan diriwayatkan oleh [Isa bin Yunus] dari [Al A'masy] sebagaimana diriwayatkan oleh Waki' dan diriwayatkan oleh [Abu As-Sauda'] dari [Ibnu Abdi Khair] dari [Ayahnya] dia berkata; Saya pernah melihat Ali berwudhu, dia membasuh bagian luar (atas) kedua telapak kakinya dan berkata, Seandainya bukan karena aku melihat Rasulullah shallallahu 'alaihi wasallam melakukannya, … lalu dia menyebutkan Hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>164</td></tr><tr><td>Arabic No</td><td>164</td></tr><tr><td>Reference</td><td>Book 1 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От аль-А‘маша передают этот же хадис, в котором сообщается, что (‘Али ибн Абу Талиб, да будет доволен им Аллах,) сказал: «Если бы религия основывалась на суждении, то обтирать нижнюю часть ног было бы правильнее, чем верхнюю, но Пророк ﷺ обтирал свои кожаные носки сверху».Ваки‘ передал с иснадом этот же хадис от аль-А‘маша в котором сообщается, что (‘Али ибн Абу Талиб, да будет доволен им Аллах,) сказал: «Я считал, что подошвы ног более заслуживают, чтобы их обтирали, чем верхняя часть ног до тех пор, пока не увидел, что Посланник Аллаха ﷺ обтирал ноги сверху». Ваки‘ сказал: «То есть кожаные носки /хуффайн/».Также как и Ваки‘, этот хадис передал ‘Иса ибн Йунус, также его передал Абу-с-Саудаи от Ибн ‘Абду Хайра, со слов его отца, который сказал: «Я видел, как ‘Али совершил омовение, он помыл свои ноги сверху и сказал: “Если бы я не видел, что таким образом поступал Посланник Аллаха ﷺ”». И далее он привел этот хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>164</td></tr><tr><td>Arabic No</td><td>164</td></tr><tr><td>Reference</td><td>Book 1 Hadith 164</td></tr></tbody></table></div>
 

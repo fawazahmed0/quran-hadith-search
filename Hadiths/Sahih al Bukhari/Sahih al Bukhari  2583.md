@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama and Marwan:When the delegates of the tribe of Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abi Maryam] telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] berkata, bahwa ['Urwah] menyebutkan bahwa [Al Miswar bin Makhramah radliallahu 'anhu] dan [Marwan] keduanya mengabarkan bahwa Nabi shallallahu 'alaihi wasallam ketika datang kepada Beliau utusan suku HawAzin, Beliau berdiri di hadapan manusia lalu memuji Allah Dzat yang paling berhak dipuji kemudian bersabda: "Kemudian dari pada itu, bahwa saudara-saudara kalian telah datang dengan bertobat dan aku berpikir untuk mengembalikan tawanan mereka. Maka itu siapa diantara kalian yang suka berbuat baik (untuk membebaskannya) maka lakukanlah dan siapa yang ingin mendapatkan haknya maka kami akan berikan haknya kepadanya dari sejak awal harta fa'i yang Allah karuniakan kepada kita". Maka orang-orang berkata: "Kami memilih berbuat kebaikan untuk anda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар ибн Махрама и Марван, да будет доволен Аллах ими обоими, сказали: «Когда к Пророку ﷺ прибыла делегация (племени) хавазин, он встал среди (собравшихся) мусульман, должным образом воздал хвалу Аллаху, а потом сказал: “А затем, поистине, эти ваши братья пришли к нам с покаянием, и я посчитал нужным вернуть им их пленных, так пусть же тот из вас, кто захочет сделать доброе дело (вернув им их пленных), так и поступит, а кто хочет подождать (получения) своей доли до тех пор, пока мы не выделим её ему из первой же военной добычи, которую дарует нам Аллах, пусть сделает (так)”. Люди сказали: “Мы (по своей воле) отдадим им (пленных)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
 

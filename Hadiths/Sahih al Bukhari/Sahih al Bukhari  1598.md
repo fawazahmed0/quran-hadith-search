@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim that his father said:"Allah's Messenger (ﷺ), Usama bin Zaid, Bi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Salim] dari [bapaknya] bahwa dia berkata: "Rasulullah shallallahu 'alaihi wasallam masuk kedalam Ka'bah bersama Usamah, Bilal, dan 'Utsman bin Tholhah lalu mereka menutup pintunya. Ketika mereka membuka pintunya aku adalah orang pertama yang memasukinya dan aku temui [Bilal] lalu aku tanya; Apakah Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat di dalamnya?". Dia menjawab: "Ya, diantara dua tiang Yamani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1598</td></tr><tr><td>Arabic No</td><td>1598</td></tr><tr><td>Reference</td><td>Book 25 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Салима, что его отец рассказывал: «Посланник Аллаха ﷺ Усама ибн Зейд, Биляль и ‘Усман ибн Талха вошли внутрь Каабы и закрыли её двери. Когда двери открыли, я был первым, кто вошёл туда. Я встретил Биляля и спросил его: “Совершил ли Посланник Аллаха ﷺ молитву, когда находился там?” Он ответил: “Да, между двумя передними столбами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1598</td></tr><tr><td>Arabic No</td><td>1598</td></tr><tr><td>Reference</td><td>Book 25 Hadith 84</td></tr></tbody></table></div>
 

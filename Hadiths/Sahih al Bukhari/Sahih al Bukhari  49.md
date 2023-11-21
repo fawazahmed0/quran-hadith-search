@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:"Allah's Messenger (ﷺ) went out to inform the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid], Telah menceritakan kepadaku [Anas bin Malik] berkata, telah mengabarkan kepadaku ['Ubadah bin Ash Shamit], bahwa Rasulullah shallallahu 'alaihi wasallam keluar untuk menjelaskan tentang Lailatul Qodar, lalu ada dua orang muslimin saling berdebat. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Aku datang untuk menjelaskan Lailatul Qodar kepada kalian, namun fulan dan fulan saling berdebat sehingga akhirnya diangkat (lailatul qodar), dan semoga menjadi lebih baik buat kalian, maka itu intailah (lailatul qodar) itu pada hari yang ketujuh, enam dan lima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>49</td></tr><tr><td>Arabic No</td><td>49</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ вышел (из дома), чтобы поведать (людям) о ночи предопределения, но в это время двое мусульман вступили в перебранку друг с другом, и тогда он сказал: “Поистине, я вышел, чтобы поведать вам о (времени наступления) ночи предопределения, но такой-то начал ссориться с таким-то, и (то, что я знал,) исчезло. Возможно, это и лучше для вас, (а теперь) ждите её в седьмую, девятую или пятую!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>49</td></tr><tr><td>Arabic No</td><td>49</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
 

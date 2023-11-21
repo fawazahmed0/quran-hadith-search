@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) arrived at Mecca and performed Tawaf of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar] telah menceritakan kepada kami [Fudhail] telah menceritakan kepada kami [Musa bin 'Uqbah] telah mengabarkan kepada saya [Kuraib] dari ['Abdullah bin 'Abbas radliallahu 'anhuma] berkata: "Nabi Shallallahu'alaihiwasallam tiba di Makkah lalu Beliau thawaf dan sa'iy antara bukit Shafaa dan Marwah dan Beliau tidak mendekati Ka'bah setelah melaksanakan thawafnya hingga Beliau kembali dari 'Arafah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1625</td></tr><tr><td>Arabic No</td><td>1625</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Прибыв в Мекку, Пророк ﷺ совершил обход Каабы и ритуальный бег между (холмами) ас-Сафа и аль-Марва, совершив же этот обход Каабы, он уже не приближался к ней, пока не вернулся с ‘Арафата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1625</td></tr><tr><td>Arabic No</td><td>1625</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
 

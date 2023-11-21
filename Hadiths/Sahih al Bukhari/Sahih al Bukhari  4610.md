@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qilaba:That he was sitting behind 'Umar bin 'Abdul 'Aziz and the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Muhammad bin 'Abdullah Al Anshari] Telah menceritakan kepada kami [Ibnu 'Aun] dia berkata; Telah menceritakan kepadaku [Salman Abu Raja'] mantan budak Abu Qilabah dari [Abu Qilabah] bahwasanya ia pernah duduk di belakang 'Umar bin 'Abdul 'Aziz lalu mereka berbincang-bincang tentang para khalifah. Abu Qilabah berkata; para khalifah itu telah memimpin. Umar pun menoleh kepadanya -pada waktu itu Abu Qilabah berada dibelakangnya.- seraya berkata; apa yang kamu katakan wahai Abdullah bin Zaid, -atau ia mengatakan-, apa yang kamu katakan wahai Abu Qilabah? Aku menjawab; Aku tidak mengetahui seseorang jiwa boleh dibunuh dalam Islam, kecuali seseorang yang telah menikah kemudian berzina, atau ia membunuh secara tidak benar, atau ia memerangi Allah dan Rasul-Nya shallallahu 'alaihi wasallam. ['Anbasah] berkata; Telah menceritakan kepada kami [Anas] mengenai hal ini dan itu. Aku berkata; dan kepadaku Anas menceritakannya, ia berkata; suatu kaum pernah menemui Nabi shallallahu 'alaihi wasallam seraya berkata; Cuaca kota ini sudah tidak cocok bagi kami. Maka Nabi shallallahu 'alaihi wasallam bersabda: ini ada beberapa hewan ternak milik kami, maka keluarlah kalian dan minumlah dari susu dan air kencingnya. Lalu mereka pun meminum susu dan air kencing unta hingga mereka segar kembali. Lalu mereka mendekati pengembala dan membunuhnya serta mengusir bintang ternaknya. Tak lama kemudian, diantara mereka ada yang membunuh jiwa secara tidak benar, dan memerangi Allah dan Rasu-Nya serta menakut-nakuti Rasulullah shallallahu 'alaihi wasallam. kemudian Umar berkata; Maha suci Allah, lalu berkata; 'Apakah kamu menuduhku? Abu Qilabah berkata; Anas telah menceritakan kepada kami mengenai hal ini, dan dia berkata; wahai penduduk ini (Syam), sesungguhnya kalian akan senantiasa dalam kebaikan selama orang ini ada pada kalian. -atau yang serupa dengan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4610</td></tr><tr><td>Arabic No</td><td>4610</td></tr><tr><td>Reference</td><td>Book 65 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Кыляба рассказал, что он сидел позади ‘Умара ибн ‘Абдуль‘азиза, а люди упомянули («аль-касаму» — клятву, произносимую человеком, отрицающим убийство) и стали говорить об этом. Они сказали: «Халифы убивали убийцу». Тогда ‘Умар ибн ‘Абдуль‘азиз повернулся к Абу Кылябе, который находился позади него и сказал: «Что скажешь, о ‘Абдуллах ибн Зейд (или о Абу Кыляба)?» Я ответил: «Я не знаю, кого ещё разрешено убивать в исламе, кроме женатого человека, совершившего прелюбодеяние, или того, кто незаконно убил человека, или воевал с Аллахом и Его Посланником ﷺ». Тогда ‘Анбаса сказал: «Анас рассказывал нам то-то и то-то». Я сказал: «Мне он и рассказал этот хадис. Он сказал: “В своё время люди (из племени ‘укль и ‘урайна) прибыли к Пророку ﷺ и говорили с ним (о принятии ислама). Затем они сказали: “Климат этой земли (Медины) не подошёл нам (и они стали болеть)”. Пророк ﷺ сказал: “У нас есть верблюды на пастбище, отправляйтесь к ним и пейте их молоко и мочу”. Так они отправились туда и пили верблюжье молоко и мочу, а выздоровев, они напали на пастуха, убили его и угнали верблюдов. Зачем же медлить в отношении них!? Они убили человека, воевали с Аллахом и Его Посланником, и напугали Посланника Аллаха ﷺ”». ‘Анбаса сказал: «Пречист Аллах!» Абу Кыляба сказал: «Ты обвиняешь меня (в нечестности)?» ‘Анбаса сказал: «(Нет,) Анас передал нам этот хадис (в таком же виде)». Затем ‘Анбаса добавил: «О жители такого-то (города), вы будете оставаться во благе до тех пор, пока среди вас будет такой человек или подобный этому (человеку)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4610</td></tr><tr><td>Arabic No</td><td>4610</td></tr><tr><td>Reference</td><td>Book 65 Hadith 132</td></tr></tbody></table></div>
 

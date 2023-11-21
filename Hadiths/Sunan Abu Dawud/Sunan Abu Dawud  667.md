@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: Stand close together in your ro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban] dari [Qatadah] dari [Anas bin Malik] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Rapatkan shaf shaf kalian, dekatkanlah jarak antara keduanya, dan sejajarkanlah antara leher-leher. Demi Dzat yang jiwaku berada di TanganNya, sesungguhnya saya melihat setan masuk ke dalam celah celah shaf itu, tak ubahnya bagai anak kambing kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>667</td></tr><tr><td>Arabic No</td><td>667</td></tr><tr><td>Reference</td><td>Book 2 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что Посланник Аллаха ﷺ сказал: «Смыкайте ваши ряды, сближайте их друг с другом и держите шеи на одной линии. Клянусь Тем, в чьей длани душа моя, поистине, я вижу, как шайтан проникает через промежутки в рядах, подобно маленьким овцам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>667</td></tr><tr><td>Arabic No</td><td>667</td></tr><tr><td>Reference</td><td>Book 2 Hadith 277</td></tr></tbody></table></div>
 

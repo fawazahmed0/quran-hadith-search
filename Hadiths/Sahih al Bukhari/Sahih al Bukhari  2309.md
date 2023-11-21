@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I was accompanying the Prophet (ﷺ) on a journey a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] telah menceritakan kepada kami [Ibnu Juraij] dari ['Atha' nin Abi Rabah] dan sebagian diantara mereka menambahkan dan tidak seorangpun yang menyampaikan seluruhnya kepadanya dari [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Aku pernah bepergian bersama Nabi shallallahu 'alaihi wasallam dengan mengendarai unta yang lambat sehingga menjadi yang terakhir sampai diantara rambongan. Lalu Nabi shallallahu 'alaihi wasallam lewat di depanku seraya berkata: "Siapa ini?" Aku menjawab: "Jabir bin 'Abdullah". Beliau bertanya: "Ada apa dengan kamu?" Aku jawab: "Aku mengendarai unta yang lambat". Beliau bertanya: "Apakah kamu punya tongkat? Aku jawab: "Ya punya". Beliau berkata: "Berikanlah kepadaku". Maka aku berikan kepada Beliau lalu Beliau memukulkannya kepada untaku hingga dia berjalan cepat dan sejak dari tempat itu dia menjadi yang terdepan diantara rambongan. Beliau berkata: "Juallah kepadaku". Aku katakan: "Bahkan ini untuk Tuan, wahai Rasulullah". Beliau berkata: "Juallah kepadaku karena aku akan membelinya dengan empat dinar dan kamu boleh menungganginya hingga tiba di Madinah". Ketika kami hampir tiba di Madinah aku berjalan untuk pergi. Beliau bertanya: "Kamu mau kemana?" Aku katakan: "Aku hendak menikah dengan seorang wanita yang pernah berkeluarga". Beliau bertanya: "Kenapa tidak dengan seorang gadis sehingga kamu bisa bersenang-senang dengannya dan diapun bisa bersenang-sengang denganmu". Aku katakan: "Sesungguhnya bapakku telah meninggal dunia dan meninggalkan anak-anak perempuan yang masih kecil-kecil maka aku ingin menikahi seorang wanita yang sudah berpengalaman dalam berumah tangga". Beliau berkata: "Oh begitu". Ketika kami telah tiba di Madinah Beliau bersabda: "Wahai Bilal, berikanlah kepadanya dan lebihkanlah". Maka Bilal memberinya empat dinar dan ditambah dengan satu qirath. Jabir berkata: "Semoga tanbahan yang Rasulullah shallallahu 'alaihi wasallam berikan tidak berpisah dariku". Maka sejak itu pemberian qirath tersebut tidak pernah berpisah dari tas kulit Jabir bin 'Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2309</td></tr><tr><td>Arabic No</td><td>2309</td></tr><tr><td>Reference</td><td>Book 40 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «(Однажды,) я был вместе с Пророком ﷺ в пути, и я ехал на медленном верблюде, который отставал от других. Пророк ﷺ проехал мимо меня и спросил: “Кто это?” Я ответил: “Джабир ибн ‘Абдуллах”. Он спросил: “Что с тобой?” Я ответил: “Я еду на медленном верблюде”. Он спросил: “У тебя есть палка?” Я ответил: “Да”. Он сказал: “Дай мне её!” Я дал ему палку, а он ударил верблюда и погнал его, и с этого момента он (верблюд) шёл впереди. Пророк ﷺ сказал: “Продай мне его!” Я ответил: “Я дарю тебе его, о Посланник Аллаха!” Он сказал: “Продай мне его! Я покупаю его за четыре динара, и ты можешь доехать на нём до Медины”. Когда мы приблизились к Медине я начал поворачивать (к своему дому). Пророк ﷺ спросил: “Куда ты направляешься?” Я ответил: “Я женился на вдове”. Он спросил: “Почему же не на девушке, с которой ты мог бы играть, и которая играла бы с тобой?” Я сказал: “Мой отец умер, оставив дочерей, и я решил жениться на опытной, взрослой женщине (чтобы заботится о них)”. Он сказал: “Пусть будет благословенным (этот брак)!” Когда мы прибыли в Медину, он сказал: “О Биляль, заплати ему и добавь!” И он дал ему (Джабиру) четыре динара и один кырат (четверть динара). Джабир сказал: “Я не разлучаюсь с тем, что мне добавил Посланник Аллаха ﷺ”. Этот кырат всегда был в кошельке Джабира ибн ‘Абдуллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2309</td></tr><tr><td>Arabic No</td><td>2309</td></tr><tr><td>Reference</td><td>Book 40 Hadith 9</td></tr></tbody></table></div>
 

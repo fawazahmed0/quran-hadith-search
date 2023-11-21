@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir bin 'Abdullah:The Prophet (ﷺ) said, "He who is not merciful to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] dia berkata; telah menceritakan kepadaku [Zaid bin Wahb] dia berkata; saya mendengar [Jarir bin Abdullah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa tidak mengasihi maka dia tidak akan di kasihi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6013</td></tr><tr><td>Arabic No</td><td>6013</td></tr><tr><td>Reference</td><td>Book 78 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джарира ибн ‘Абдуллаха (аль-Баджали), да будет доволен им Аллах, что Пророк ﷺ сказал: «Не будет помилован тот, кто сам не проявляет милосердия (к другим)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6013</td></tr><tr><td>Arabic No</td><td>6013</td></tr><tr><td>Reference</td><td>Book 78 Hadith 44</td></tr></tbody></table></div>
 

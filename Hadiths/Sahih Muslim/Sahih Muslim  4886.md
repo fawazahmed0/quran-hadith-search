@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), un homme vint trouver l'Env
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Muzahim] telah menceritakan kepada kami [Yahya bin Hamzah] dari [Muhammad bin Walid Az Zubaidi] dari [Az Zuhri] dari ['Atha' bin Yazid Al Laitsi] dari [Abu Sa'id Al Khudri], bahwa seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam seraya bertanya, "Siapakah manusia yang paling utama?" Beliau pun menjawab: "Seorang laki-laki yang berjihad di jalan Allah dengan harta dan jiwanya." Dia bertanya lagi, "Kemudian siapa?" beliau menjawab: "Orang mukmin yang berada di suatu bukit beribadah kepada Allah dan meninggalkan untuk menghindari kejahatannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4886</td></tr><tr><td>Arabic No</td><td>1888.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4886</td></tr><tr><td>Arabic No</td><td>1888.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 182</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Neither Fara' nor 'Atira) is permi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] berkata, telah menceritakan kepada kami [Sufyan] berkata; [Az Zuhri] telah menceritakan kepada kami dari [Sa'id Ibnul Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak ada Fara' dan Atirah." Beliau lalu jelaskan: "Fara' adalah anak pertama seekor unta yang mereka sembelih untuk sesembahan mereka, dan Atirah adalah hewan (kambing) yang mereka potong di bulan rajab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5474</td></tr><tr><td>Arabic No</td><td>5474</td></tr><tr><td>Reference</td><td>Book 71 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «И фара‘, и ‘атира (являются недозволенными)». \n«Фара‘» — первый приплод, который (многобожники) приносили в жертву своим идолам; «‘атира» (_ жертва, которая приносилась в месяце) раджаб
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5474</td></tr><tr><td>Arabic No</td><td>5474</td></tr><tr><td>Reference</td><td>Book 71 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abdullah:I saw 'Abdullah bin 'Umar crossing his legs whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari ['Abdurrahman bin Al Qasim] dari ['Abdullah bin 'Abdullah] ia mengabarkan kepadanya, bahwa dia pernah melihhat ['Abdullah bin 'Umar] radliallahu 'anhuma mengerjakan shalat dengan cara bersimpuh dengan kedua kakinya ketika duduk. Maka aku juga melakukan hal serupa. Saat itu aku masih berusia muda. Namun 'Abdullah bin 'Umar melarangku berbuat seperti itu. Ia mengatakan, "Sesungguhnya yang sesuai sunnah adalah kamu menegakkan telapak kakimu yang kanan sedangkan yang kiri kamu masukkan dibawahnya (melipat)." Aku pun berkata, "Tapi aku melihat anda melakukan hal itu!" Dia menjawab, "Kakiku tidak mampu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 10 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Абдуллах ибн ‘Умар, да помилует его Аллах Всевышний, передал, что он часто видел, как ‘Абдyллах ибн ‘Умар, да будет доволен Аллах ими обоими, во время молитвы садился (для произнесения ташаххуда), скрестив ноги.\n(‘Абдуллах ибн ‘Абдуллах сказал): «И я, будучи тогда ещё молодым, поступил так же, однако ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, запретил мне (поступать так), сказав: “В соответствии с сунной, (при произнесении ташаххуда) во время молитвы необходимо ставить вертикально правую ступню, (опираясь о землю пальцами ног,) а левую ногу — сгибать”. Я сказал: “Но ты ведь делаешь это!” Он сказал: “Поистине, ноги уже не держат меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 10 Hadith 221</td></tr></tbody></table></div>
 

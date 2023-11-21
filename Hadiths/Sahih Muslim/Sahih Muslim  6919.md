@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Fatima came to Allah's Apostle (ﷺ) and asked for a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Umayyah bin Bistham Al 'Aisyi] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Rauh bin Al Qasim] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] bahwasanya Fathimah datang kepada Nabi shallallahu 'alaihi wasallam meminta seorang khadam (pelayan/pembantu) dan mengadukan bahwa dia terlalu payah bekerja. Jawab Nabi shallallahu 'alaihi wasallam: 'Engkau tidak akan mendapatkannya dari kami. Maukah engkau ku tunjukkan sesuatu yang lebih baik dari pada seorang khadam? Bacalah tasbih tiga puluh tiga kali, dan tahmid tiga puluh tiga kali, dan takbir tiga puluh empat kali ketika hendak tidur.' Dan telah menceritakannya kepadaku [Ahmad Ibnu Sa'id Ad Darimi] telah menceritakan kepada kami [Habban] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Suhail] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6919</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6919</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

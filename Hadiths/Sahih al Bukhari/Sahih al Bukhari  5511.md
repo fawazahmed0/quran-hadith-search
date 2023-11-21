@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma':We slaughtered a horse (by Dhabh) during the lifetime of Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] ia mendengar [Abdah] dari [Hisyam] dari [Fatimah] dari [Asma] ia berkata, "Pada masa Rasulullah shallallahu 'alaihi wasallam, kami pernah menyembelih kuda di Madinah dan kami pun memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5511</td></tr><tr><td>Arabic No</td><td>5511</td></tr><tr><td>Reference</td><td>Book 72 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма, да будет доволен Аллах ими обоими, сказала: «При жизни Посланника Аллаха ﷺ, когда мы были в Медине, мы зарезали (т.е. совершили забх) лошадь и съели её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5511</td></tr><tr><td>Arabic No</td><td>5511</td></tr><tr><td>Reference</td><td>Book 72 Hadith 37</td></tr></tbody></table></div>
 

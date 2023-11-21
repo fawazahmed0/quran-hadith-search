@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whilst a shepherd was amongs
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3690</td></tr><tr><td>Arabic No</td><td>3690</td></tr><tr><td>Reference</td><td>Book 62 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Однажды) когда пастух был со своим овцами, на них напал волк и схватил овцу. Когда человек догнал его и спас овцу, волк повернулся к нему, и сказал: “Кто спасёт её в (тот) день (, когда появятся) дикие звери, и не будет для них иного пастуха, кроме меня?”». Тогда люди сказали (удивившись): «Пречист Аллах!» А Пророк ﷺ сказал: «Я верю в это. И Абу Бакр с ‘Умаром тоже верят, хотя ни Абу Бакра, ни Умара не было (в том месте)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3690</td></tr><tr><td>Arabic No</td><td>3690</td></tr><tr><td>Reference</td><td>Book 62 Hadith 40</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) forbade that a Muhrim should wear clo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf]; telah mengabarkan kepada kami [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang orang yang berihram mengenakan pakaian yang dicelup dengan minyak za'faran atau wars (sejenis tanaman yang barbau harum dan berwarna kuning), dan beliau bersabda: "Barangsiapa tidak mendapatkan dua sandal hendaknya ia mengenakan sepatu dan dipotong hingga di bawah mata kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5852</td></tr><tr><td>Arabic No</td><td>5852</td></tr><tr><td>Reference</td><td>Book 77 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ запретил вошедшему в состояние ихрама надевать одежду, окрашенную шафраном или уарсом (один из видов благовоний жёлтого цвета). И он сказал: “Если он не найдёт сандалии, пусть оденет кожаные носки, обрезав их так, чтобы верхние края не доходили до щиколоток”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5852</td></tr><tr><td>Arabic No</td><td>5852</td></tr><tr><td>Reference</td><td>Book 77 Hadith 69</td></tr></tbody></table></div>
 

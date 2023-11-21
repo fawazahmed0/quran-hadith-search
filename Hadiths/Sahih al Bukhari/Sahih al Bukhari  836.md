@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:I saw Allah's Messenger (ﷺ) prostrating in mud an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] berkata, "Aku bertanya kepada [Abu Sa'id Al Khudri] (tentang Lailatul Qadar). Lalu ia menjawab, "Aku melihat Rasulullah shallallahu 'alaihi wasallam sujud di atas air dan lumpur hingga aku bisa melihat bekas lumpur itu di dahi beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>836</td></tr><tr><td>Arabic No</td><td>836</td></tr><tr><td>Reference</td><td>Book 10 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма сказал: «(Как-то) я спросил у Абу Са‘ида аль-Худри, и он сказал: “Я увидел, как Посланник Аллаха совершает земные поклоны в воде и глине, и я даже видел на его лбу следы от глины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>836</td></tr><tr><td>Arabic No</td><td>836</td></tr><tr><td>Reference</td><td>Book 10 Hadith 229</td></tr></tbody></table></div>
 

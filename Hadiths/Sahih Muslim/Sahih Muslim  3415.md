@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Uraij reported:'Ati' reported that jibir b. Abdullah came to perform 'Umra, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Al Hasan Al Hulwani] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] ia berkata, [Atha'] berkata; [Jabir bin Abdullah] kembali dari menunaikan Umrah, lalu kami pun menemuinya di rumahnya, dan orang-orang pun bertanya kepadanya tentang berbagai persoalan. Kemudian mereka pun menyebutkan tentang nikah mut'ah, maka Jabir menjawab; "Ya, kami pernah melakukan nikah mut'ah pada masa Rasulullah shallallahu 'alaihi wasallam, Abu Bakar dan Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3415</td></tr><tr><td>Arabic No</td><td>1405.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3415</td></tr><tr><td>Arabic No</td><td>1405.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 18</td></tr></tbody></table></div>
 

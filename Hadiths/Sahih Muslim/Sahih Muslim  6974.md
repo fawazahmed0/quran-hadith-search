@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : J'ai entendu l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami ['Abdul Malik] dari ['Atha] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya Allah memiliki seratus rahmat. Dari seratus rahmat tersebut, hanya satu yang di turunkan Allah kepada jin, manusia, hewan jinak dan buas. Dengan rahmat tersebut mereka saling mengasihi dan menyayangi, dan dengan rahmat itu pula binatang buas dapat menyayangi anaknya. Adapun Sembilan puluh sembilan rahmat Allah yang lain, maka hal itu ditangguhkan Allah. Karena Allah hanya akan memberikannya kepada para hamba-Nya yang shalih pada hari kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6974</td></tr><tr><td>Arabic No</td><td>2752.03</td></tr><tr><td>Reference</td><td>Book 50 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6974</td></tr><tr><td>Arabic No</td><td>2752.03</td></tr><tr><td>Reference</td><td>Book 50 Hadith 22</td></tr></tbody></table></div>
 

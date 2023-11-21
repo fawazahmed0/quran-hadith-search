@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet (ﷺ) demanding his debts and beh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Salamah bin Kuhail] aku mendengar [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] berkata; Ada seorang laki-laki yang datang menemui Nabi shallallahu 'alaihi wasallam untuk menagih apa yang dijanjikan kepadanya. Maka para sahabat marah kepadanya. Rasulullah shallallahu 'alaihi wasallam bersabda: "Biarkanlah dia karena bagi orang yang benar ucapannya wajib dipenuhi". Kemudian Beliau berkata: "Berikanlah untuknya seekor anak unta". Mereka berkata: "Wahai Rasulullah, tidakada kecuali yang umurnya lebih tua". Maka Beliau bersabda: "Berikanlah kepadanya, karena sesungguhnya yang terbaik diantara kalian adalah yang paling baik menunaikan janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2306</td></tr><tr><td>Arabic No</td><td>2306</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек пришёл к Пророку ﷺ и стал требовать с него (возвращения) долга, говоря с ним грубо. Сподвижники (Пророка ﷺ) решили (проучить его, однако) Посланник Аллаха ﷺ сказал: “Оставьте его, ибо, поистине, у имеющего право (есть право и) говорить”, после чего он сказал: “Отдайте ему верблюда такого же возраста, как и его верблюд”. (Люди) сказали: “О Посланник Аллаха, у нас есть только верблюд постарше”. Тогда (Пророк ﷺ) сказал: “Так отдайте ему (этого верблюда), ибо, поистине, лучшими из вас являются те, кто лучше всех отдаёт (должное другим)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2306</td></tr><tr><td>Arabic No</td><td>2306</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
 

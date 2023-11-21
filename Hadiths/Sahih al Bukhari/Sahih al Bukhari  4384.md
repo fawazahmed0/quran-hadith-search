@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:My brother and I came from Yemen (to Medina) and remained for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] dan [Ishaq bin Nashr] keduanya berkata; Telah menceritakan kepada kami [Yahya bin Adam] Telah menceritakan kepada kami [Ibnu Abu Zaidah] dari [Bapaknya] dari [Abu Ishaq] dari [Al Aswad bin Yazid] dari [Abu Musa] dia berkata; "Pada suatu hari, saya dan saudara laki-laki saya baru datang dari Yaman. Ketika datang, kami tidak melihat lbnu Mas'ud dan ibunya melainkan dalam keluarga Rasulullah shallallahu 'alaihi wasallam, karena seringnya mereka mondar-mandir dan berada di rumah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4384</td></tr><tr><td>Arabic No</td><td>4384</td></tr><tr><td>Reference</td><td>Book 64 Hadith 407</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «Приехав из Йемена, мы с братом в течение некоторого времени считали Ибн Мас‘уда и его мать членами семьи Пророка ﷺ. (Это потому, что мы видели,) как часто он и его мать заходили в дом Пророка ﷺ и находились с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4384</td></tr><tr><td>Arabic No</td><td>4384</td></tr><tr><td>Reference</td><td>Book 64 Hadith 407</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: When the Messenger of Allah (ﷺ) halted at a certain p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepadaku [Hamzah Al 'A'idzi] -seorang laki-laki dari Bani Dlabbah- dia berkata; saya mendengar [Anas bin Malik] berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam singgah di suatu tempat, beliau tidak melanjutkan perjalanannya sehingga beliau shalat dluhur." Maka laki-laki tersebut berkata; "Meskipun berada pada tengah hari?" Anas menjawab; "Meskipun berada di tengah hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах: «Когда Посланник Аллаха ﷺ останавливался в каком-нибудь месте, он не отправлялся в путь снова, пока не совершал полуденную молитву /зухр/». Один человек спросил: «Даже если был полдень?» Он ответил: «Даже если был полдень»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
 

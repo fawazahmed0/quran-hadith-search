@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once I passed the night in the house of my aunt Maimuna. All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepadaku [Syu'bah] dari [Al Hakam] berkata, "Aku mendengar [Sa'id bin Jubair] dari [Ibnu 'Abbas] berkata, "Aku pernah menginap di rumah bibiku, Maimunah. Rasulullah shallallahu 'alaihi wasallam pergi shalat 'Isya kemudian kembali ke rumah dan shalat sunnat empat rakaat, kemudian beliau tidur. Saat tengah malam beliau bangun dan shalat malam, aku lalu datang untuk ikut shalat bersama beliau dan berdiri di samping kiri beliau. Kemudian beliau menggeserku ke sebelah kanannya, lalu beliau shalat lima rakaat, kemudian dua rakaat, kemudian tidur hingga aku mendengar suara dengkur Beliau. Setelahitu beliau Kemudian Beliau keluar untuk shalat (shubuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>697</td></tr><tr><td>Reference</td><td>Book 10 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Однажды) я остался на ночь в доме своей тётки Маймуны (бинт аль-Харис, жены Пророка ﷺ). Посланник Аллаха ﷺ совершил вечерний намаз /‘ишаъ/ (в мечети), вернулся домой, совершил намаз в четыре рак‘ата и лёг спать. (Через некоторое время) он встал (на намаз), я же подошёл и встал слева от него, но он поставил меня справа. Он совершил пять рак‘атов намаза, а потом ещё два, после чего (снова) заснул, так, что я услышал его храп, а (ещё через некоторое время) он пошёл на (утренний) намаз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>697</td></tr><tr><td>Reference</td><td>Book 10 Hadith 92</td></tr></tbody></table></div>
 

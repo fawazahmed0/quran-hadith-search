@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abdullah b. Mas'ud that the Prophet observed:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mua'wiyah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] semuanya dari [al-A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan dari golongan kami orang yang menampar pipinya, mengoyak-ngoyak saku bajunya atau berdoa dengan doa orang-orang Jahiliyah." Ini hadits [Yahya]. Adapun [Ibnu Numair] dan [Abu Bakar], maka keduanya menyebutkan, "Mengoyak-ngoyak dan berdoa (tanpa alif)." Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Kasyram] keduanya berkata, telah menceritakan kepada kami [Isa bin Yunus] semuanya dari [al-A'masy] dengan sanad ini, dan keduanya menyebutkan, "Dan mengoyak-ngoyak dan berdoa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>103.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Не относятся к нам (люди), бьющие себя по щекам или разрывающие на себе одежду, или призывает зовом доисламского невежества /джахилия/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>103.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 191</td></tr></tbody></table></div>
 

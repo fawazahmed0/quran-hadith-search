@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:When Al-Mundhir bin Abu Usaid was born, he was brought to the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Abu Ghassan] dia berkata; telah menceritakan kepada kami [Abu Hazim] dari [Sahl] dia berkata; "Al Mundzir bin Abu Usaid di bawa ke hadapan Nabi shallallahu 'alaihi wasallam ketika ia baru dilahirkan, lalu beliau meletakkannya di pangkuan beliau, sementara Abu Usaid duduk di dekat beliau, tampaknya perhatian Nabi shallallahu 'alaihi wasallam tercurah penuh kepada sesuatu yang berada di hadapannya. Kemudian Abu Usaid menyuruh seorang untuk mengangkat anaknya dari atas paha nabi shallallahu 'alaihi wasallam dan memindahkannya. Ketika Nabi shallallahu 'alaihi wasallam selesai dari urusannya, beliau bertanya: 'Mana bayi itu? 'Abu Usaid menjawab; 'Kami telah memulangkannya, wahai Rasulullah.' Beliau bertanya: 'Siapa namanya? ' Abu Usaid menjawab; 'Fulan.' Lalu beliau bersabda: 'Tidak, tetapi namanya adalah Al Mundzir! ' Dengan demikian, beliau telah memberinya nama Al Mundzir pada hari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6191</td></tr><tr><td>Arabic No</td><td>6191</td></tr><tr><td>Reference</td><td>Book 78 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль сказал: «Когда аль-Мунзир ибн Аби Усайд родился, его принесли к Пророку ﷺ. Пророк ﷺ положил (младенца) себе на бедро, а (его отец) Абу Усайд сел рядом. Через некоторое время Пророка ﷺ что-то отвлекло, и по велению Абу Усайда младенца сняли с бедра Пророка ﷺ и отнесли (домой), а потом он вспомнил о нём и спросил: “Где же ребёнок?” Абу Усайд сказал: “Мы отнесли его домой, о Посланник Аллаха”. (Посланник Аллаха ﷺ) спросил: “Как его зовут?” (Абу Усайд) ответил: “Так-то”. (Тогда Пророк ﷺ) сказал: “Нет, его имя — аль-Мунзир”, и в тот день его назвали аль-Мунзиром»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6191</td></tr><tr><td>Arabic No</td><td>6191</td></tr><tr><td>Reference</td><td>Book 78 Hadith 215</td></tr></tbody></table></div>
 

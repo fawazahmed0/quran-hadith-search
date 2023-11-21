@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id and AbuHurayrah: The Prophet (ﷺ) said: If a man awakens his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Katsir] telah menceritakan kepada kami [Sufyan] dari [Mis'ar] dari [Ali bin Al Aqmar]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Hatim bin Bazi'] telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Syaiban] dari [Al A'masy] dari [Ali bin Al Aqmar], sedangkan maknanya dari [Al Aghar] dari [Abu Sa'id] dan [Abu Hurairah] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seseorang membangunkan isterinya di malam hari, kemudian keduanya mengerjakan shalat, atau keduanya shalat dua raka'at, maka keduanya akan di catat sebagai orang-orang yang selalu berdzikir." Namun Ibnu katsir tidak merafa'kan hadits ini, dan Abu Hurairah juga tidak menjadikan hadits tersebut dari perkataan Abu Sa'id. Abu Daud berkata; "dan di riwayatkan pula oleh [Ibnu Mahdi] dari [Sufyan] dia berkata; -aku berpendapat bahwa dia menyebutkan " [Abu Hurairah]." Abu Daud berkata; "Sedangkan hadits Sufyan mauquf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида и Абу Хурайры, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Если человек проснётся сам и разбудит ночью свою жену и они вместе совершат молитву в два рак‘ата (дополнительной молитвы), то они будут записаны в числе мужчин и женщин, поминающих Аллаха». (Передатчик) Ибн Касир не возводил эти слова к Пророку ﷺ и не упоминал Абу Хурайру, а передавал это как слова Абу Са‘ида
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
 

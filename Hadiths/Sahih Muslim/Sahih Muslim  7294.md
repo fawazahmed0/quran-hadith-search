@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. Abdullah reported on the authority of his father that Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengkhabarkan kepada kami [Ibnu Wahab] telah mengkhabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [ayahnya] Rasulullah Shallallahu 'alaihi wa Salam bersabda dan beliau menghadap ke timur: "Ingat, sesungguhnya fitnah itu disini, Ingat, sesungguhnya fitnah itu disini, Ingat, sesungguhnya fitnah itu disini, dari arah terbitnya tanduk setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7294</td></tr><tr><td>Arabic No</td><td>2905.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7294</td></tr><tr><td>Arabic No</td><td>2905.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 60</td></tr></tbody></table></div>
 

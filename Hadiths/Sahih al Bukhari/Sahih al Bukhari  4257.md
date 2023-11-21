@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) hastened in going around the Ka'ba and bet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] dari [Sufyan bin Uyainah] dari [Amru] dari ['Atha'] dari [Ibnu Abbas] radliallahu 'anhuma, katanya, Nabi shallallahu 'alaihi wasallam berlari-lari di Baitullah dan antara Shafa dan Marwa, untuk memperlihatkan kekuatannya kepada orang-orang musyrik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4257</td></tr><tr><td>Arabic No</td><td>4257</td></tr><tr><td>Reference</td><td>Book 64 Hadith 291</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ ходил вокруг Каабы быстрым шагом и между ас-Сафа и аль-Марва только для того, чтобы показать свою силу многобожникам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4257</td></tr><tr><td>Arabic No</td><td>4257</td></tr><tr><td>Reference</td><td>Book 64 Hadith 291</td></tr></tbody></table></div>
 

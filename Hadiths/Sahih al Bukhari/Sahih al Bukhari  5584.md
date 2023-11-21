@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Alcoholic drinks were prohibited. At that time these dri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah menceritakan kepada kami [Yusuf Abu Ma'syar Al Barra'] dia berkata; saya mendengar [Sa'id bin 'Ubaidullah] berkata; telah menceritakan kepadaku [Bakr bin Abdullah] bahwa [Anas bin Malik] telah menceritakan kepada mereka bahwa Khamr telah di haramkan, ketika itu khmer terbuat dari busr (minuman keras dari perasan kurma muda atau masih pentil) dan tamr (minuman keras dari perasan kurma kering)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5584</td></tr><tr><td>Arabic No</td><td>5584</td></tr><tr><td>Reference</td><td>Book 74 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, что «опьяняющие напитки были запрещены. В то время эти напитки готовились из недозрелых и сушенных фиников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5584</td></tr><tr><td>Arabic No</td><td>5584</td></tr><tr><td>Reference</td><td>Book 74 Hadith 10</td></tr></tbody></table></div>
 

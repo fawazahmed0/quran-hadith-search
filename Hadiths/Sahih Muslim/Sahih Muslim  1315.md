@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd reported:I saw the Messenger of Allah (may peace be open him) prono
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abu 'Amir Al 'Aqadi] telah menceritakan kepada kami [Abdullah bin Ja'far] dari [Isma'il bin Muhammad] dari ['Amir bin Sa'd] dari [Ayahnya] dia berkata; Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam memberi salam ke arah kanan dan kiri hingga aku melihat putihnya pipi beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1315</td></tr><tr><td>Arabic No</td><td>582</td></tr><tr><td>Reference</td><td>Book 5 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амира ибн Са‘да, что его отец сказал: «Я не раз видел, как Посланник Аллаха ﷺ совершал таслим, (поворачиваясь) направо и налево (так), что мне была видна белизна его щеки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1315</td></tr><tr><td>Arabic No</td><td>582</td></tr><tr><td>Reference</td><td>Book 5 Hadith 153</td></tr></tbody></table></div>
 

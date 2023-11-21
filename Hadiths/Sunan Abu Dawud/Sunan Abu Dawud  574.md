@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id al-Khudri: The Messenger of Allah (ﷺ) saw a person praying alon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] dari [Sulaiman Al-Aswad] dari [Abu Al-Mutawakkil] dari [Abu Sa'id Al-Khudri] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah melihat seorang laki laki sedang mengerjakan shalat sendirian, maka beliau bersabda: "Adakah seseorang yang mau bersedekah kepada orang ini dengan mengerjakan shalat bersamanya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>574</td></tr><tr><td>Arabic No</td><td>574</td></tr><tr><td>Reference</td><td>Book 2 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что однажды Посланник Аллаха ﷺ увидев человека молящегося в одиночку, сказал: «Нет ли человека, который подаст милостыню этому (мужчине) помолившись с ним?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>574</td></tr><tr><td>Arabic No</td><td>574</td></tr><tr><td>Reference</td><td>Book 2 Hadith 184</td></tr></tbody></table></div>
 

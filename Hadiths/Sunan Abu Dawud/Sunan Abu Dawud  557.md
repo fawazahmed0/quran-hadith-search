@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubayy b. Ka’b said:There was a certain person, out of all people of Medina, wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An-Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Sulaiman At-Taimi] bahwasanya [Abu Utsman] telah menceritakan kepadanya dari [Ubay bin Ka'ab] dia berkata; Ada seseorang yang menurut pengetahuan saya, tidak ada seorang pun di antara penduduk Madinah yang mengerjakan shalat menghadap kiblat, yang paling jauh rumahnya dari masjid, daripada orang itu. Dia tidak pernah ketinggalan satu shalat pun di masjid. Saya berkata; Alangkah baiknya) seandainya kamu membeli seekor keledai, yang dapat kamu tunggangi ketika matahari terik dan gelap. Maka orang itu berkata: "Saya tidak suka kalau rumahku berada di dekat masjid. Lalu hal ini sampai kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau bertanya kepada orang itu tentang perkataannya itu. Maka orang itu menjawab; Wahai Rasulullah, saya menginginkan supaya dicatat pahala kepergian saya ke masjid dan pahala kepulangan saya kepada keluarga setelah saya pulang. Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah memberikan semua itu kepadamu, semoga Allah memberi semuanya itu kepadamu sesuai keikhlasanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (663)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>557</td></tr><tr><td>Arabic No</td><td>557</td></tr><tr><td>Reference</td><td>Book 2 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Убайй ибн Ка‘б сказал: «Я не знал ни одного человека из числа жителей Медины, которые молятся обратившись в сторону киблы, кто жил бы дальше от мечети, чем этот человек, и он не пропускал совместные молитвы в мечети. (Однажды) я сказал: “Купил бы ты себе осла и ездил бы на нём в палящий зной и темноте”. Он ответил: “Я бы не хотел, чтобы мой дом стоял рядом с мечетью!” И этот разговор донесли до Посланника Аллаха ﷺ который спросил этого человека о том, что он сказал, и тот ответил: “О Посланник Аллаха, я хотел, чтобы записывалось мне мой приход в мечеть и возвращение обратно к своей семье, когда я возвращаюсь!” И тогда (Посланник Аллаха ﷺ) сказал: “Аллах даст тебе всё это, и Аллах, Великий и Всемогущий даст тебе вместе всё то, на что ты рассчитывал!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (663)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>557</td></tr><tr><td>Arabic No</td><td>557</td></tr><tr><td>Reference</td><td>Book 2 Hadith 167</td></tr></tbody></table></div>
 

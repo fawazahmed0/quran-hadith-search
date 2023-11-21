@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid:A man came and asked Allah's Messenger (ﷺ) about pick
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2429</td></tr><tr><td>Arabic No</td><td>2429</td></tr><tr><td>Reference</td><td>Book 45 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Халид, да будет доволен им Аллах, сказал: «Как-то раз один человек пришёл к Посланнику Аллаха ﷺ и спросил о (том, что следует делать с) найденным, и (Посланник Аллаха ﷺ) сказал: “(Сначала) узнай, как выглядит то, в чём находилось найденное и то, чем было перевязано найденное, а потом объявляй о находке (людям) в течение года, после чего, если (к тебе) придёт его хозяин, (тебе следует) отдать находку ему, а если нет, то можешь пользоваться ею”. (Этот человек) спросил: “А (что делать с) заблудившимися овцами?” Пророк ﷺ ответил: “Либо они достанутся тебе, либо твоему брату, либо волку”. Этот человек спросил: “А что делать с заблудившимися верблюдами?” Пророк ﷺ ответил: “Что тебе до них? Ведь у них есть вода и копыта, они приходят к воде и объедают листья с деревьев, пока хозяин не найдёт их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2429</td></tr><tr><td>Arabic No</td><td>2429</td></tr><tr><td>Reference</td><td>Book 45 Hadith 4</td></tr></tbody></table></div>
 

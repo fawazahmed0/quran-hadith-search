@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Shu'aib on his father's authority said that his grandfather (Abdullah ibn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Hisyam], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibnu Ash Shabbah] telah menceritakan kepada kami [Abdul Aziz bin Abdushshamad], mereka berdua berkata; telah menceritakan kepada kami [Mathor Al Warraq], dari ['Amr bin Syu'aib], dari [ayahnya], dari [kakeknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "TIdak ada penceraian kecuali pada apa yang engkau miliki dan tidak ada pembebasan budak kecuali pada sesuatu yang engkau miliki, tidak ada jual beli kecuali pada sesuatu yang engkau miliki." Ibnu Ash Shabbah menambahkan; dan tidak boleh memenuhi nadzar kecuali pada Sesutu yang engkau miliki. Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah mengabarkan kepada kami [Abu Usamah] dari [Al Walid bin Katsir], telah menceritakan kepadaku [Abdurrahman bin Al Harits Al Makhzumi] dari ['Amr bin Syu'aib] dengan sanadnya, sedang maknanya dengan tambahan; "Barangsiapa yang bernadlar untuk berbuat maksiat maka tidak ada sumpah baginya, dan barang siapa yang bersumpah untuk memutus tali silaturrahim maka tidak ada sumpah baginya." Telah menceritakan kepada kami [Ibnu Sarh] telah mengabarkan kepada kami [Ibnu Wahb] dari [Yahya bin Abdullah bin Salim], dari [Abdurrahman bin Al Harits Al Makhzumi] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda dalam hadits ini: "Dan tidak boleh ada nadzar kecuali dalam perkara yang diharapkan dengannya wajah Allah ta'ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 13 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Пророк ﷺ сказал: «Нельзя дать развод женщине, которая не является твоей женой. Нельзя освободить не своего раба. Нельзя продать то, что тебе не принадлежит». В версии Ибн ас-Сабаха добавлено: «Не может быть соблюдения обета, связанного с тем, что не в твоей власти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2190</td></tr><tr><td>Arabic No</td><td>2190</td></tr><tr><td>Reference</td><td>Book 13 Hadith 16</td></tr></tbody></table></div>
 

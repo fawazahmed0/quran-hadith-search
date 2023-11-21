@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Glorification of Allah i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru an-Naqid] serta [Zuhair bin Harb] mereka berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Abu Salamah] dari [Abu Hurairah ra] dari Nabi shallallahu 'alaihi wasallam --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Harmalah bin Yahya] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Sa'id bin al-Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa keduanya mendengar [Abu Hurairah ra] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, 'Tasbih untuk kaum laki-laki sedangkan tashfiq (bertepuk tangan) untuk kuam wanita." Harmalah telah menambahkan dalam riwayatnya, "Ibnu Syihab berkata, 'Aku telah melihat sekelompok laki-laki dari ahli ilmu bertasbih dan memberi isyarat'." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [al-Fudhail, yaitu Ibnu 'Iyadh] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Muawiyah] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] semuanya meriwayatkan dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah Radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam dengan yang semisalnya. Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah ra] dari Nabi shallallahu 'alaihi wasallam dengan hadits semisalnya dan menambahkan "dalam shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>954</td></tr><tr><td>Arabic No</td><td>422.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Произнесение слов: “Субхан-Аллах” /тасбих/ для мужчин, а хлопание в ладони для женщин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>954</td></tr><tr><td>Arabic No</td><td>422.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 116</td></tr></tbody></table></div>
 

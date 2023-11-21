@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported that Allah's Messenger (ﷺ) used to come to Quba', i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakannya kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwasanya; "Pada setiap hari Sabtu, Rasulullah shallallahu 'alaihi wasallam biasanya mendatangi masjid Quba' dengan berkendaraan atau berjalan kaki." Ibnu Dinar berkata; Ibnu Umar juga senantiasa melakukannya. Dan telah menceritakannya kepadaku [Abdullah bin Hasyim] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ibnu Dinar] dengan isnad ini, dan ia tidak menyebutkan; "Pada setiap hari Sabtu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>1399.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 600</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>1399.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 600</td></tr></tbody></table></div>
 

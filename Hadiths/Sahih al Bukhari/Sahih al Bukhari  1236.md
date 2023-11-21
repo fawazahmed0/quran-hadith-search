@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha the wife of the Prophet:Allah's Messenger (ﷺ) during his illne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abu Uwais] berkata, telah menceritakan kepada saya [Malik] dari [Hisyam] dari [bapaknya] dari ['Aisyah] radliallahu 'anha, isteri Nabi shallallahu 'alaihi wasallam berkata; "Rasulullah shallallahu 'alaihi wasallam pernah shalat di rumahnya. Ketika itu Beliau sedang sakit hingga shalat dengan duduk, dan orang-orang mengikuti shalat di belakang Beliau dengan berdiri. Maka Beliau memberi isyarat kepada mereka agar shalat dengan duduk. Setelah selesai Beliau bersabda: "Sesungguhnya imam diangkat untuk diikuti. Maka bila dia ruku', ruku'lah kalian dan bila dia mengangkat (kepala), agkatlah (kepala) kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1236</td></tr><tr><td>Arabic No</td><td>1236</td></tr><tr><td>Reference</td><td>Book 22 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ сказала: «(Однажды, когда) Посланник Аллаха ﷺ совершал молитву у себя дома сидя во время своей болезни, люди стали молиться за ним стоя, и он сделал им знак рукой, чтобы они сели. Закончив молитву, он сказал: “Поистине, имам назначается для того, чтобы (во время молитвы) другие следовали за ним, и если он совершает поясной поклон, то кланяйтесь вместе с ним, если он поднимет (голову), поднимайте и вы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1236</td></tr><tr><td>Arabic No</td><td>1236</td></tr><tr><td>Reference</td><td>Book 22 Hadith 14</td></tr></tbody></table></div>
 

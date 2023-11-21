@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said, "I and the person who looks after
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdul Wahab] dia berkata; telah menceritakan kepadaku [Abdul Aziz bin Abu Hazim] dia berkata; telah menceritakan kepadaku [Ayahku] dia berkata; saya mendengar [Sahl bin Sa'd] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Aku dan orang yang menanggung anak yatim berada di surga seperti ini." Beliau mengisyaratkan dengan kedua jarinya yaitu telunjuk dan jari tengah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6005</td></tr><tr><td>Arabic No</td><td>6005</td></tr><tr><td>Reference</td><td>Book 78 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да (да будет доволен им Аллах), что Пророк ﷺ сказал: «Я и опекающий сироту будем в Раю вот так же (близки)”, и, сказав это, он сделал знак указательным и средним пальцами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6005</td></tr><tr><td>Arabic No</td><td>6005</td></tr><tr><td>Reference</td><td>Book 78 Hadith 36</td></tr></tbody></table></div>
 

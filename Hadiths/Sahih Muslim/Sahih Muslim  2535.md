@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl Ibn Sa'd (que Dieu l'agrée) a dit : Quand ce verset : Mangez et buvez jusq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Sahl At Tamimi] dan [Abu Bakar bin Ishaq] keduanya berkata, telah menceritakan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Abu Ghassan] telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] radliallahu 'anhu ia berkata; Ketika turun ayat; "…dan makan minumlah hingga terang bagimu benang putih dari benang hitam, yaitu fajar…" ia berkata; Ada seorang lelaki ketika ia hendak berpuasa, ia mengambil satu benang berwarna hitam dan satu benang lagi berwarna putih, lalu ia makan (sahur) sampai keduanya terlihat jelas. Maka Allah 'azza wajalla pun menurunkan ayat; "MINAL FAJR (yaitu fajar)." Maka mereka pun mengetahui, bahwa yang dimaksud adalah kegelapan malam dan cahaya siang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2535</td></tr><tr><td>Arabic No</td><td>1091.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2535</td></tr><tr><td>Arabic No</td><td>1091.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 41</td></tr></tbody></table></div>
 

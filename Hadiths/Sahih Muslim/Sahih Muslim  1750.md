@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported:A man stood up and said. Messenger of Allah, how is t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahab] telah mengabarkan kepadaku ['Amru] bahwa [Ibnu Syihab], telah menceritakannya kepadanya, bahwa [Salim bin Abdullah bin Umar] dan [Humaid bin Abdurrahman bin 'Auf], keduanya menceritakan kepadanya dari [Abdullah bin Umar bin Khattab], dia mengatakan; "Seorang laki-laki berdiri dan berkata; "Wahai Rasulullah, Bagaimanakah tata cara shalat malam?" Beliau menjawab: "Shalat malam dua-dua, jika kamu khawatir tiba awaktu subuh, maka witirlah sekali (satu raka'at)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1750</td></tr><tr><td>Arabic No</td><td>749.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «(Однажды) один человек встал и сказал: “О Посланник Аллаха, как (следует совершать добровольную) ночную молитву?” И Посланник Аллаха ﷺ сказал: “Ночная молитва (совершается) по два рак‘ата, если же ты станешь опасаться, (что скоро наступит) утро, соверши молитву в один (рак‘ат)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1750</td></tr><tr><td>Arabic No</td><td>749.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 179</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "No doubt, you had better gat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Abu 'Ubaid, maula 'Abdurrahman bin 'Auf] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh seorang dari kalian yang memanggul kayu bakar dengan punggungnya lebih baik baginya daripada dia meminta-minta kepada seseorang, baik orang itu memberinya atau menolaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2374</td></tr><tr><td>Arabic No</td><td>2374</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, для любого из вас взять вязанку дров, понести её на своей спине (чтобы продать), лучше, чем обращаться с просьбами к людям, которые могут дать ему (что-либо), а могут и отказать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2374</td></tr><tr><td>Arabic No</td><td>2374</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
 

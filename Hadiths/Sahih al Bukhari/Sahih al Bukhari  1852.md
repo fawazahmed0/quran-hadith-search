@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A woman from the tribe of Juhaina came to the Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa ada seorang wanita dari suku Juhainah datang menemui Nabi shallallahu 'alaihi wasallam lalu berkata: "Sesungguhnya ibuku telah bernadzar untuk menunaikan haji namun dia belum sempat menunaikannya hingga meninggal dunia, apakah boleh aku menghajikannya?". Beliau menjawab: "Tunaikanlah haji untuknya. Bagaimana pendapatmnu jika ibumu mempunyai hutang, apakah kamu wajib membayarkannya?. Bayarlah hutang kepada Allah karena (hutang) kepada Allah lebih patut untuk dibayar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1852</td></tr><tr><td>Arabic No</td><td>1852</td></tr><tr><td>Reference</td><td>Book 28 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (однажды) к Пророку ﷺ пришла какая-то женщина из племени джухайна и сказала: «Моя мать дала обет совершить хадж, но умерла, так и не совершив его. Могу ли я совершить этот хадж за неё?» (Пророк ﷺ) сказал: «Да, соверши хадж за неё. Скажи, если бы у твоей матери остался долг, разве ты не заплатила бы его? Платите же долги Аллаху, ибо Он больше всех достоин (того, чтобы с Ним) рассчитывались сполна!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1852</td></tr><tr><td>Arabic No</td><td>1852</td></tr><tr><td>Reference</td><td>Book 28 Hadith 32</td></tr></tbody></table></div>
 

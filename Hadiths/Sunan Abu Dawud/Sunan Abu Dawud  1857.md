@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka’ab bin ‘Ujrah said that the Apostle of Allaah(ﷺ) said to him, If you li
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Isma'i] telah menceritakan kepada Kami [Hammad] dari [Daud] dari [Asy Sya'bi] dari [Abdurrahman bin Abu Laila] dari [Ka'b bin 'Ujrah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Apabila engkau menghendaki maka sembelihlah hewan sembelihan, dan apabila engkau menghendaki maka berpuasalah tiga hari, dan jika engkau menghendaki maka berilah makan tiga sha' kurma kepada enam orang miskin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1857</td></tr><tr><td>Arabic No</td><td>1857</td></tr><tr><td>Reference</td><td>Book 11 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ка‘ба ибн ‘Уджры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если хочешь, зарежь жертвенное животное, или соблюдай пост в течение трёх дней, или накорми тремя са‘ фиников шестерых бедняков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1857</td></tr><tr><td>Arabic No</td><td>1857</td></tr><tr><td>Reference</td><td>Book 11 Hadith 137</td></tr></tbody></table></div>
 

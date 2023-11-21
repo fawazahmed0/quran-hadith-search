@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Dharr: The Prophet (ﷺ) as saying: In the morning alms are due for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Ahmad bin Mani'] dari ['Abbad bin 'Abbad]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] sedangkan makna haditsnya dari [Washil] dari [Yahya bin 'Uqail] dari [Yahya bin Ma'mar] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Setiap pagi dari setiap ruas yang di miliki oleh ibnu Adam terdapat sedekahnya, memberi salam kepada orang yang di jumpainya adalah sedekah, memerintahkan kepada kebaikan adalah sedekah, mencegah dari kemungkaran adalah sedekah, menyingkirkan duri dari jalan adalah sedekah dan mengumpuli (bersenggama) dengan isterinya adalah sedekah, dan itu semua bisa di gantikan dengan dua raka'at shalat Dluha." Abu Daud berkata; "Haditsnya 'Abbad lebih lengkap, namun Musaddad tidak menyebutkan kalimat "Memerintahkan (yang ma'ruf) dan mencegah (dari kemungkaran) ", dalam haditsnya ada sedikit tambahan, beliau bersabda seperti ini dan ini, Ibnu Mani' menambahkan dalam haditsnya; para sahabat bertanya; "Wahai Rasulullah, apakah jika salah seorang dari kami memenuhi tuntutan syahwatnya (mengumpuli isterinya) mendapatkan sedekah?" beliau menjawab; "Bagaimana pendapatmu jika dia meletakkan syahwatnya bukan pada yang di halalkannya, apakah dia mendapatkan dosa?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>1285</td></tr><tr><td>Reference</td><td>Book 5 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Зарра, да будет доволен им Аллах, что Пророк ﷺ сказал: «Каждое утро все сочленения в теле сына Адама обязаны подавать милостыню. Приветствовать каждого встречного милостыня, побуждать к одобряемому милостыня, удерживать от порицаемого милостыня, убирать с дороги то, что мешает проходить людям милостыня, и половое сношение, которое человек совершает со своей женой милостыня. Однако всё это заменяют два рак‘ата молитвы-духа». Абу Дауд сказал: «Хадис ‘Аббада более полный, и Мусаддад не упоминал веление и запрет, и в его версии добавлено, что он сказал то-то и то-то, а в версии Ибн Мани‘ добавлено, что они сказали: “О Посланник Аллаха! Один из нас удовлетворяет свою страсть и это записывается ему как поданная милостыня?” Он ответил: “А разве если бы он делал это запретным образом, это не было бы для него грехом?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>1285</td></tr><tr><td>Reference</td><td>Book 5 Hadith 36</td></tr></tbody></table></div>
 

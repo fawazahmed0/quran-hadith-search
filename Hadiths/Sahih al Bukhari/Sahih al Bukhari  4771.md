@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) got up when the Verse:--'And warn y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdur Rahman] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam berdiri ketika diturunkan kepadanya ayat: Dan peringatkanlah keluargamu yang terdekat. (As Syu'ara: 214). Beliau bersabda: "Wahai orang-orang Quraisy, -atau ucapan yang serupa dengannya- belilah diri kalian dari Allah, saya tidak mampu menolong kalian sedikitpun dari Allah, wahai Bani Abd Manaf, saya tidak mampu menolong kalian sedikitpun dari Allah, wahai Abbas bin Abdul Muththalib, saya tidak mampu menolong kamu sedikitpun dari Allah, wahai Shafiyah bibi Rasulullah, saya tidak mampu menolong kamu sedikitpun dari Allah, wahai Fathimah binti Muhammad mintalah kepadaku apa yang engkau inginkan dari hartaku, saya tidak mampu menolong kamu sedikitpun dari Allah." Diriwayatkan pula oleh [Ashbagh] dari [Ibnu Wahab] dari [Yunus] dari [Ibnu Syihab]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4771</td></tr><tr><td>Arabic No</td><td>4771</td></tr><tr><td>Reference</td><td>Book 65 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Аллах ниспослал (аят, в котором сказано): “И увещевай своих ближайших родственников…”, Посланник Аллаха ﷺ (обратился к курайшитам,) сказав: “О курайшиты (или же он сказал нечто подобное), купите самих себя, ибо я никак не смогу избавить вас от (наказания) Аллаха! О бану ‘абд манаф, я никак не смогу избавить вас от (наказания) Аллаха! О ‘Аббас ибн ‘Абдульмутталиб, я никак не смогу избавить тебя от (наказания) Аллаха! О Сафия, тётка Посланика Аллаха, я никак не смогу избавить тебя от (наказания) Аллаха! О Фатыма, дочь Мухаммада, проси у меня чего хочешь из моего имущества, но я никак не смогу избавить тебя от (наказания) Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4771</td></tr><tr><td>Arabic No</td><td>4771</td></tr><tr><td>Reference</td><td>Book 65 Hadith 293</td></tr></tbody></table></div>
 

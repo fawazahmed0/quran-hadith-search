@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibrahim reported:'Alqama came to Syria and entered the mosque and prayed there a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1917</td></tr><tr><td>Arabic No</td><td>824.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 345</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибрахим сказал: «Прибыв в Шам, ‘Алькама зашёл в мечеть и совершил в ней молитву, а затем встал, подошёл к (месту, где люди сидели в) кругу и сел там».‘Алькама сказал: «Затем пришёл человек и я увидел, что люди стали собираться вокруг него». (‘Алькама) сказал: «Затем он сел рядом со мной и сказал: “Ты помнишь, как ‘Абдуллах читал (Коран)?”». Далее подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1917</td></tr><tr><td>Arabic No</td><td>824.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 345</td></tr></tbody></table></div>
 

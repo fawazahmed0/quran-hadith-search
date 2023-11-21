@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) decided a case of a wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Mu'awiyah bin Hisyam] telah menceritakan kepada kami [Sufyan] dari [Habib bin Abu Tsabit] dari [Humaid Al A'raj] dari [Thariq Al Makki] dari [Jabir bin Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memutuskan mengenai seorang wanita anshar yang telah diberi kebun kurma oleh anaknya kemudian wanita tersebut meninggal, lalu anaknya berkata, 'Sesungguhnya aku memberinya selama hidupnya' -Dan orang tersebut memiliki beberapa orang saudara-. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Kebun tersebut miliknya selama hidup dan matinya." Orang tersebut berkata, "Dahulu aku mensedekahkan kebun tersebut kepadanya." Maka beliau bersabda: "Yang demikian itu lebih tidak mungkin kembali kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3557</td></tr><tr><td>Arabic No</td><td>3557</td></tr><tr><td>Reference</td><td>Book 24 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ вынес следующее решение относительно женщины из числа ансаров, которой сын подарил пальмовую рощу, а когда она умерла, сказал: «Я подарил её ей до конца её жизни», а у него были братья. Посланник Аллаха ﷺ сказал: «Эта роща принадлежала ей при жизни и принадлежит ей после смерти». (Сын той женщины) сказал: «Я отдал ей её в качестве милостыни». Посланник Аллаха ﷺ сказал: «Тогда ты имеешь на неё ещё меньше прав»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3557</td></tr><tr><td>Arabic No</td><td>3557</td></tr><tr><td>Reference</td><td>Book 24 Hadith 142</td></tr></tbody></table></div>
 

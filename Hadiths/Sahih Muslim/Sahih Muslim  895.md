@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mukhtar b. Fulful reported that he had heard Anas b. Malik say that the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895</td></tr><tr><td>Arabic No</td><td>400.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «Однажды, Посланник Аллаха ﷺ ненадолго заснул…». Подобно предыдущему хадису, однако в этой версии он сказал: «Это река в Раю, обещанная мне моим Всемогущим и Великим Господом, из который проистекает водоём /хауд/…». И не упомянул слова: «…(количество) сосудов (на его берегах равно) количеству звёзд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895</td></tr><tr><td>Arabic No</td><td>400.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 57</td></tr></tbody></table></div>
 

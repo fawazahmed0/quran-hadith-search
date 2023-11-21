@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Во время прощального паломничества Посланник Аллаха ﷺ совершил ‘умру и хадж. Он гнал с собой жертвенный скот из Зуль-Хулейфы. Сначала Посланник Аллаха ﷺ произнёс тальбию для ‘умры, а потом для хаджа. И люди совершали хадж с ‘умрой вместе с посланником Аллаха ﷺ, однако некоторые из них гнали жертвенный скот, а другие нет. Посланник Аллаха ﷺ прибыл в Мекку и сказал людям: “Кто пригнал жертвенный скот, тому не разрешается ничего из того, что запрещается паломнику, пока он не закончит совершение хаджа. Что же касается того, кто не пригнал жертвенный скот, пусть совершит обход вокруг Каабы и пробег между холмами Сафа и Марва, а потом пусть укоротит волосы и снимет ихрам. Позже он должен объявить о намерении совершить хадж и принести в жертву животное. А кто не имеет возможности совершить жертвоприношение, тот должен поститься три дня в хадже и ещё семь по возвращении”. Когда Посланник Аллаха ﷺ прибыл в Мекку, он совершил обход вокруг Каабы. Сначала он приложился к йеменскому углу Каабы. Три круга он прошёл быстрым шагом, почти бегом, а оставшиеся четыре обычным шагом. После завершения обхода он совершил молитву в два рак‘ата у места стояния Ибрахима. Завершив молитву, он отправился на холм Сафа и пробежал между холмами Сафа и Марва семь раз. После этого он соблюдал все запреты, налагаемые на паломника в ихраме, до самого завершения хаджа и зарезал свой жертвенный скот в день жертвоприношения. Потом он совершил обход вокруг Каабы, после чего для него снова стало дозволенным всё, что обычно запрещается паломнику в ихраме. Люди, которые гнали жертвенный скот, поступили так же, как Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
 

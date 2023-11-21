@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) Said: The blood of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan Al bahili] berkata, telah menceritakan kepada kami [Ibrahim bin Thahman] dari [Abdul Aziz bin Rufai'] dari [Ubaid bin Umair] dari ['Aisyah radliallahu 'anha] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal darah seorang muslim yang bersaksi bahwa tidak ada Ilah -yang berhak disembah- selain Allah dan Muhammad adalah utusan Allah kecuali dengan salah satu dari tiga sebab; orang yang berzina setelah menikah, maka ia harus dirajam; seorang laki-laki yang keluar untuk memerangi Allah dan Rasul-Nya, maka ia harus dibunuh, disalib atau dibuang dari negri terebut. Serta seseorang yang membunuh orang lain maka harus dihukum mati karena membunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 40 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши (да будет доволен ею Аллах), что Посланник Аллаха ﷺ сказал: «Не разрешается проливать кровь мусульманина, свидетельствующего, что нет бога [заслуживающего поклонение], кроме Аллаха, и что Мухаммад Посланник Аллаха, за исключением троих: человека, совершившего прелюбодеяние после вступления в брак, его следует побить камнями; человека, который выступает против Аллаха и Его посланника, его казнят, распинают или ссылают; и того, кто убил человека, его казнят в качестве воздаяния равным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 40 Hadith 3</td></tr></tbody></table></div>
 

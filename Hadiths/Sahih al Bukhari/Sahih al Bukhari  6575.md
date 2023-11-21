@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "I am your predecessor at the Lake-Fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Hammad] telah menceritakan kepada kami [Abu 'Awanah] dari [Sulaiman] dari [Syaqiq] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Akulah yang mendahului kalian yang mendatangi telaga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6575</td></tr><tr><td>Arabic No</td><td>6575</td></tr><tr><td>Reference</td><td>Book 81 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «Я первым из вас (окажусь) у Водоёма»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6575</td></tr><tr><td>Arabic No</td><td>6575</td></tr><tr><td>Reference</td><td>Book 81 Hadith 163</td></tr></tbody></table></div>
 

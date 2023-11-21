@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I intended to ask 'Umar so I said, "Who were those two ladie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Yahya bin Sa'id] ia berkata; Aku mendengar [Ubaid bin Hunain] berkata; Aku mendengar [Ibnu Abbas radliallahu 'anhuma] berkata; Aku ingin bertanya kepada [Umar bin Al Khaththab] radliallahu 'anhu. Aku pun berkata, "Wahai Amirul Mukminin, siapakah dua wanita yang bantu-membantu untuk menyusahkan Rasulullah shallallahu 'alaihi wasallam?" belum selesai aku bertanya beliu sudah lebih dulu menjawab, "Yaitu Aisyah dan Hafshah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4914</td></tr><tr><td>Arabic No</td><td>4914</td></tr><tr><td>Reference</td><td>Book 65 Hadith 434</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я хотел задать вопрос ‘Умару ибн аль-Хаттабу, и сказал: “О повелитель правоверных, кто были теми двумя жёнами Посланника Аллаха ﷺ, которые сговорились против него?” И не успел я закончить свои слова, как он ответил: “Это Хафса и ‘Аиша”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4914</td></tr><tr><td>Arabic No</td><td>4914</td></tr><tr><td>Reference</td><td>Book 65 Hadith 434</td></tr></tbody></table></div>
 

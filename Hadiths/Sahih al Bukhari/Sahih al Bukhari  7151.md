@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ma'qil:Allah's Messenger (ﷺ) said, "If any ruler having the authority
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] Telah mengabarkan kepada kami [Husain Al Ju'fi], [Zaidah] mengatakan, bahwa ia menyebutkannya dari [Hisyam] dari [Al Hasan] mengatakan, kami mendatangi Ma'qil bin Yasar, lantas Ubaidullah menemui kami, lantas [Ma'qil] berujar kepadanya; Saya ceritakan hadist kepadamu yang aku mendengarnya dari Rasulullah Shallallahu'alaihiwasallam, beliau bersabda; "Tidaklah seorang pemimpin memimpin masyarakat muslimin, lantas dia meninggal dalam keadaan menipu mereka, selain Allah mengharamkan surge baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7151</td></tr><tr><td>Arabic No</td><td>7151</td></tr><tr><td>Reference</td><td>Book 93 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хасан аль-Басри сказал:\n— Однажды мы пришли навестить Ма‘киль ибн Йасара, да будет доволен им Аллах, и (в этот момент) к нам зашёл ‘Убайдуллах, и тогда Ма‘киль сказал ему: «Я расскажу тебе хадис, который я слышал от Посланника Аллаха ﷺ что он сказал: “Аллах обязательно сделает Рай запретным для любого правителя, который будет править мусульманами и умрёт, обманывая их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7151</td></tr><tr><td>Arabic No</td><td>7151</td></tr><tr><td>Reference</td><td>Book 93 Hadith 15</td></tr></tbody></table></div>
 

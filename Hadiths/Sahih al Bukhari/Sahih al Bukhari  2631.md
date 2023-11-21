@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:That Allah's Messenger (ﷺ) said, "There are forty 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Isa bin Yunus] telah menceritakan kepada kami [Al Awza'iy] dari [Hassan bin 'Athiyyah] dari [Abu Kabsyah] (Kabsyah tabi'in, tak jumpa Sahabat) -Saluliy aku mendengar ['Abdullah bin 'Amru radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada empat puluh kebiasaan baik, yang tertingginya adalah memberi seekor kambing. Tidaklah seseorang beramal dari perbuatan-perbuatan kebaikan tersebut dengan harapan dia mengharap pahala darinya dan membenarkan apa yang dijanjikan padanya, melainkan Allah memasukkannya dengan amalnya ke dalam surga". Hassan berkata: "Maka kami menghitung kebiasaan baik itu setelah pemberian kambing mulai dari menjawab salam, menjawab orang yang bersin, menyingkirkan halangan dari jalan dan yang semisalnya namun kami tidak sanggup untuk sampai pada lima belas kebiasaan baik tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2631</td></tr><tr><td>Arabic No</td><td>2631</td></tr><tr><td>Reference</td><td>Book 51 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Есть сорок (видов добрых дел), лучшим из которых является временное предоставление нуждающемуся дойной козы, и каждого (мусульманина), который совершит (хотя бы) одно (такое дело), надеясь получить за него награду (Аллаха) и твёрдо веря в то, что обещано за (его совершение, Аллах) обязательно введёт в Рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2631</td></tr><tr><td>Arabic No</td><td>2631</td></tr><tr><td>Reference</td><td>Book 51 Hadith 63</td></tr></tbody></table></div>
 

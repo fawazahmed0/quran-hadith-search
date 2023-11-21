@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:My mother and I were among the weak and oppressed. I from am
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata; ['Ubaidullah bin Abu Yazid] berkata; Aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata,: "Aku dan ibuku adalah termasuk orang-orang lemah, aku dari golongan anak-anak dan ibuku dari golongan wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1357</td></tr><tr><td>Arabic No</td><td>1357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я и моя мать были из числа слабых. Я — из детей, а моя мать — из женщин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1357</td></tr><tr><td>Arabic No</td><td>1357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 110</td></tr></tbody></table></div>
 

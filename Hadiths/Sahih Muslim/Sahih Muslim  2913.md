@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:'We went with the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha, ia berkata; Kami pernah keluar (untuk haji) bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam, lalu beliau bersabda: "Barangsiapa yang ingin berihram untuk haji dan umrah, maka hendaklah ia melakukannya. Dan siapa yang ingin ihram hanya untuk hanya, maka lakukanlah, dan siapa yang ingin ihram, hanya untuk haji, maka lakukanlah." Aisyah radliallahu 'anha berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam berihram untuk haji dan para sahabat pun ikut ihram bersamanya, dan ada juga yang ihram untuk umrah dan haji, serta ada pula yang ihram untuk umrah. Dan saya termasuk yang berihram untuk umrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2913</td></tr><tr><td>Arabic No</td><td>1211.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2913</td></tr><tr><td>Arabic No</td><td>1211.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 122</td></tr></tbody></table></div>
 

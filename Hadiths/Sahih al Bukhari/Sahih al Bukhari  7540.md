@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shu'ba:Mu'awiya bin Qurra reported that 'Abdullah bin Al-Maghaffal Al-M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Suraij] telah mengabarkan kepada kami [Syababah] telah menceritakan kepada kami [Syu'bah] dari [Mu'awiyah bin Qurrah] dari ['Abdullah bin Mughaffal Al Muzanni] berkata, "Pernah aku melihat Rasulullah shallallahu 'alaihi wasallam pada hari pembebasan Makkah di atas untanya membaca surat al Fath, atau sebagian dari surat al Fath." Abdullah bin Mughaffal berkata, "Lantas beliau mengulang-ulang suaranya dan mengeraskannya." Kemudian Mu'awiyah membaca dengan menirukan bacaan Abdullah bin Mughaffal seraya berkata, "Kalaulah manusia tidak berkumpul kepada kalian, niscaya aku mengulang-ulang bacaan dan mengeraskannya sebagaimana Ibnu Mughaffal mengulang-ulang dan mengeraskan bacaan ketika menirukan nabi shallallahu 'alaihi wasallam." Maka aku katakana kepada Mu'awiyah, "Bagaimana beliau mengulang-ulang dan mengeraskan bacaannya?" Mu'awiyah menjawab, "Dengan mengucapkan AAA (dengan bacaan panjang enam harakat), AAA (dengan bacaan panjang enam harakat), AAA (dengan bacaan panjang enam harakat), beliau ucapkan tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7540</td></tr><tr><td>Arabic No</td><td>7540</td></tr><tr><td>Reference</td><td>Book 97 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Шу‘бы, что Му‘авия ибн Къурра передал от ‘Абдуллаха ибн Мугъаффаля, что он сказал: «Я видел, как Посланник Аллаха ﷺ в день завоевания Мекки, сидя на своей верблюдице, читал суру “аль-Фатх” или ее часть нараспев». Однако затем Му‘авия (ибн Къурра) прочитал (Коран) подобно тому, как читал Ибн Мугъаффаль, говоря: «Если бы (я не опасался), что люди соберутся (вокруг меня), то я бы прочитал (Коран) нараспев подобно тому, как Ибн Мугъаффаль, читал (его) нараспев, подражая Пророку ﷺ». Я (Шу‘ба) спросил Му‘авию: «Как же он читал его нараспев?» Он три раза сказал: "Ааа"(, имитируя тон его голоса)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7540</td></tr><tr><td>Arabic No</td><td>7540</td></tr><tr><td>Reference</td><td>Book 97 Hadith 165</td></tr></tbody></table></div>
 

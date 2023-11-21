@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari ['Umar bin Hamzah] dari [Salim bin 'Abdullah] telah mengabarkan kepadaku ['Abdullah bin 'Umar] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Pada hari kiamat kelak, Allah Subhanahu wa Ta'ala akan melipat langit. Setelah itu, Allah akan menggenggamnya dengan tangan kanan-Nya sambil berkata: 'Akulah Sang Maha Raja. Di manakah sekarang orang-orang yang selalu berbuat sewenang-wenang? Dan di manakah orang-orang yang selalu sombong dan angkuh? ' Setelah itu, Allah akan melipat bumi dengan tangan kiri-Nya sambil berkata: 'Akulah Sang Maha Raja. Di manakah sekarang orang-orang yang sering berbuat sewenang-wenang? Di manakah orang-orang yang sombong?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7051</td></tr><tr><td>Arabic No</td><td>2788.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7051</td></tr><tr><td>Arabic No</td><td>2788.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 7</td></tr></tbody></table></div>
 

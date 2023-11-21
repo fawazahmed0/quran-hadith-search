@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mus'ab bin Sa'd:Once Sa'd (bin Abi Waqqas) thought that he was superior
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Muhammad bin Thalhah] dari [Thalhah] dari [Mush'ab bin Sa'ad] berkata Sa'ad menganggap bahwa dirinya memiliki kelebihan dibanding orang lain. Maka Nabi shallallahu 'alaihi wasallam berkata: "Tidaklah kalian ditolong dan diberi rezeki melainkan karena adanya (do'a) orang-orang yang lemah (diantara) kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2896</td></tr><tr><td>Arabic No</td><td>2896</td></tr><tr><td>Reference</td><td>Book 56 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мус‘аб бин Са‘д, да помилует его Аллах Всевышний, сказал: «(В своё время) Са‘д решил, что он лучше всех прочих, и тогда Пророк ﷺ сказал (ему): “Разве не благодаря одним только слабым из вашей (среды) вам оказывается помощь и даруются средства к существованию?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2896</td></tr><tr><td>Arabic No</td><td>2896</td></tr><tr><td>Reference</td><td>Book 56 Hadith 110</td></tr></tbody></table></div>
 

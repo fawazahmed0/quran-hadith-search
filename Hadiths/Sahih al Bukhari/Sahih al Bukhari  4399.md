@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A woman from the tribe of Khath'am asked for the verdict of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] dia berkata; Telah menceritakan kepadaku [Syu'aib] dari [Az Zuhri] dan [Muhammad bin Yusuf] berkata; Telah menceritakan kepada kami [Al Auza'i] dia berkata; Telah mengabarkan kepadaku [Ibnu Syihab] dari [Sulaiman bin Yasar] dari [Ibnu Abbas] bahwa ada seorang wanita dari Suku Khats'am bertanya kepada Nabi shallallahu 'alaihi wasallam pada waktu haji Wada', -pada waktu itu Al Fadl bin Abbas bersama Rasulullah.- wanita itu berkata; "Wahai Rasulullah, kewajiban berhaji yang Allah bebankan kepada para hamba-Nya telah menjumpai ayahku dalam keadaan tua renta, dia tidak mampu untuk mengendarai kendaraan, maka apakah saya boleh untuk melakukan haji untuknya?" Beliau menjawab: 'Ya, silahkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4399</td></tr><tr><td>Arabic No</td><td>4399</td></tr><tr><td>Reference</td><td>Book 64 Hadith 422</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что в год Прощального хаджа, когда аль-Фадль ибн ‘Аббас сидел верхом позади Посланника Аллаха ﷺ, женщина из племени хас‘ам спросила: «О Посланник Аллаха! Обязанность совершать хадж, которую возложил Аллах на Своих рабов, застала моего отца глубоким стариком, и он не способен держаться в седле, так могу ли я совершить хадж вместо него?» Он ответил: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4399</td></tr><tr><td>Arabic No</td><td>4399</td></tr><tr><td>Reference</td><td>Book 64 Hadith 422</td></tr></tbody></table></div>
 

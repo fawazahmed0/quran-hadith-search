@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that he heard Allah's Messenger (ﷺ) as saying:O Allah, fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dari [Abu Hurairah] dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, mukmin mana saja yang pernah aku cela, maka jadikanlah hal itu sebagai pengorbanan baginya yang dengannya ia bertaqarrub kepada-Mu pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6623</td></tr><tr><td>Arabic No</td><td>2601.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6623</td></tr><tr><td>Arabic No</td><td>2601.06</td></tr><tr><td>Reference</td><td>Book 45 Hadith 121</td></tr></tbody></table></div>
 

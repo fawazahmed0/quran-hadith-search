@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa: The Prophet (ﷺ) said: The fingers are equal: ten camels for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il] berkata, telah menceritakan kepada kami [Abdah] -maksudnya Abdah bin Sulaiman- berkata, telah menceritakan kepada kami [Said bin Abu Arubah] dari [Ghalib At Tammar] dari [Humaid bin Hilal] dari [Masruq bin Aus] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Semua jari diyatnya sama; puluh ekor unta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Компенсация /дийа/ за каждый палец одинакова по десять верблюдов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha said, "A Qaif (i.e. one skilled in recognizing the lineage 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Qaza'ah] telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] berkata; "Datang kepadaku seorang yang pandai dalam mengetahui asal usul keturunan sedangkan Nabi shallallahu 'alaihi wasallam menyaksikannya sementara Usamah bin Zaid dan Zaid bin Haritsah sedang tidur berbaring. Orang pandai asAl usul itu berkata; "Sesungguhnya kaki-kaki ini berasal dari keturunan yang satu". Perawi berkata; "Kejadian tadi menggembirakan Nabi shallallahu 'alaihi wasallam sekaligus mengagumi orang itu lalu beliau mengabarkan kepada 'Aisyah radliallahu 'anha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>3731</td></tr><tr><td>Reference</td><td>Book 62 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды, когда) Пророк ﷺ находился у меня, а Усама бин Зейд и Зейд бин Хариса спали (в моем доме), ко мне пришел ка‘иф, который сказал: “Это ступни людей, которые состоят в близком родстве”». Это порадовало и привело в восхищение Пророка ﷺ который рассказал обо всем ‘Аише
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>3731</td></tr><tr><td>Reference</td><td>Book 62 Hadith 78</td></tr></tbody></table></div>
 

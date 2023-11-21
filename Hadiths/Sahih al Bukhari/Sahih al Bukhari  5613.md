@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) and one of his companions e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Abu 'Amir] telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Sa'id bin Al harits] dari [Jabir bin Abdullah] radliallahu 'anhuma bahwa Nabi shallallahu 'alaihi wasallam bersama sahabat beliau pernah mendatangi seorang laki-laki dari Anshar. Lalu Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Apakah kamu memiliki air yang tersisa malam ini dalam griba, jika tidak kami akan menghirupnya secara langsung." Jabir bin Abdullah berkata; laki-laki itu sedang membenahi saluran airnya ke kebunnya, Jabir melanjutkan; lalu laki-laki Anshar tersebut berkata; "Wahai Rasulullah, saya masih memiliki air yang tersisa malam ini, mari kita menuju tenda." Abdullah berkata; "Lalu beliau pergi bersamanya dan menuangkan air kedalam mangkuk, kemudian dia juga memerahkan susu dari kambing piaraannya, Jabir melanjutkan; "Lantas Rasulullah shallallahu 'alaihi wasallam meminumnya begitu juga dengan sahabat yang datang bersama beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5613</td></tr><tr><td>Arabic No</td><td>5613</td></tr><tr><td>Reference</td><td>Book 74 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, что (как-то раз) Пророк ﷺ вместе с одним из своих сподвижников зашёл к кому-то из ансаров и сказал ему: «Если есть у тебя вода, оставшаяся с ночи в бурдюке, (дай нам её), а если нет, мы напьёмся из водоёма». Этот человек, занимавшийся поливом своего сада, сказал (Пророку ﷺ): «О Посланник Аллаха, у меня есть такая вода, (только) пройди к шалашу». И он повёл их (туда) и налил им воды в чашу, добавив туда козьего или овечьего молока, что же касается Посланника Аллаха ﷺ, то он выпил это, а потом напился человек, который пришёл вместе с ним
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5613</td></tr><tr><td>Arabic No</td><td>5613</td></tr><tr><td>Reference</td><td>Book 74 Hadith 39</td></tr></tbody></table></div>
 

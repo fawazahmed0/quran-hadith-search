@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yazid bin Al Asamm, Maimunah’s nephew said on Maimunah’s authority The Apost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Ismail] telah menceritakan kepada Kami [Hammad] dari [Habib bin Asy Syahid] dari [Maimun bin Mihran] dari [Yazid bin Al Asham] anak saudara laki-laki Maimunah, dari [Maimunah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam menikahiku di Saraf sementara Kami dalam keadaan tidak berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1411)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Маймуна, да будет доволен ею Аллах, передаёт: «Посланник Аллаха ﷺ женился на мне, когда мы оба были не в состоянии ихрама, и было это в Сарифе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1411)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
 

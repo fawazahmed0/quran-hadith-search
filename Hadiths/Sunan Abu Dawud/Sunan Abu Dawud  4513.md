@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Ka'b b. Malik: On the authority of his father: Umm Mubashshir said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Ka'b bin Malik] dari [Bapaknya] berkata, "Ummu Mubasysyir berkata kepada Nabi shallallahu 'alaihi wasallam pada saat sakit yang menghantarkan beliau kepada kematian, "Apa yang engkau keluhkan ya Rasulullah? Aku tidak mengeluhkan apapun atas anakku kecuali daging kambing beracun yang ia makan bersamamu waktu di Khaibar." Nabi shallallahu 'alaihi wasallam lalu menjawab: "Aku juga tidak mengeluhkan apapun selain daging kambing beracun itu, dan sekarang adalah waktu terputusnya punggungku (kematian)." Abu Dawud berkata, "Barangkali Abdurrazaq menceritakan hadits ini secara mursal dari Ma'mar, dari Az Zuhri, dari Nabi shallallahu 'alaihi wasallam. Dan barangkali ia juga menceritakan hadits dari Az Zuhri, dari 'Abdurrahman bin Ka'b bin Malik." Abdurrazaq menyebutkan bahwa Ma'mar menceritakan hadits ini kepada mereka sekali waktu secara mursal. Namun, sekali waktu mereka yang menulisnya sedangkan dia menceritakannya kepada mereka. Dan semua itu menurut kami shahih" Abdurrazaq berkata, "Ketika Ibnul Mubarak datang kepada Ma'mar, maka Ma'mar menyandarkan kepada Ibnu Mubarak beberapa hadits yang ia mauqufkan." Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Ibrahim bin Khalid] berkata, telah menceritakan kepada kami [Rabah] dari [Ma'mar] dari [Az Zuhri] dari ['Abdurrahman bin Abdullah bin ka'b bin malik] dari ibunya Ummu Mubasysyir. Abu Sa'id Ibnul A'rabi berkata; demikian ia berkata dari ibunya. Namun yang benar adalah; dari [bapaknya], dari [Ummu Mubasysyir], ia berkata, "Aku masuk menemui Nabi shallallahu 'alaihi wasallam... lalu ia menyebutkan sesuai makna hadits Makhlad bin Khalid, seperti hadits Jabir. Ia (perawi) berkata, "Bisyr Ibnul Bara bin Ma'rur meninggal, maka beliau mengutus seseorang kepada wanita Yahudi tersebut. Beliau bertanya: "Apa yang mendorongmu untuk melakukan hal itu?" -lalu ia menyebutkan seperti hadits Jabir- Rasulullah shallallahu 'alaihi wasallam lalu memerintahkan untuk menghukum wanita tersebut, maka wanita itu pun dibunuh." Dan ia tidak menyebutkan tentang cerita bekam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4513</td></tr><tr><td>Arabic No</td><td>4513</td></tr><tr><td>Reference</td><td>Book 41 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Мубашшир спросила Пророка ﷺ когда тот заболел своей предсмертной болезнью: «Что ты винишь в своей болезни, о Посланник Аллаха? Поистине, я виню в смерти сына только ту отравленную овцу, которую он ел вместе с тобой в Хайбаре». Пророк ﷺ сказал: «И я виню только её. Из-за неё у меня лопнул (жизненно важный) сосуд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4513</td></tr><tr><td>Arabic No</td><td>4513</td></tr><tr><td>Reference</td><td>Book 41 Hadith 20</td></tr></tbody></table></div>
 

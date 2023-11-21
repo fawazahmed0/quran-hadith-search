@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ali ibn Shammakh said:I was present with Marwan who asked AbuHurayrah: Did you h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar Abdullah bin 'Amr], telah menceritakan kepada kami [Abdul Warits], telah menceritakan kepada kami [Abu Al Julas 'Uqbah bin Sayyar], telah menceritakan kepadaku [Ali bin Syammakh], ia berkata; aku menyaksikan Marwan bertanya kepada [Abu Hurairah]; bagaimana engkau mendengar Rasulullah shallallahu 'alaihi wasallam menshalati jenazah? ia berkata; apakah bersamaan dengan adanya ini engkau bertanya kepadaku? Ia berkata; Iya. Ali bin Syammakh berkata; yaitu perkataan yang terjadi diantara mereka berdua sebelum itu. Abu Hurairah berkata; Ya Allah, engkau adalah Tuhan jenazah tersebut, Engkau telah menciptakannya, dan Engkau telah memberinya petunjuk untuk memeluk agama Islam, dan Engkau telah mencabut nyawanya, Engkau lebih mengetahui terhadap rahasianya dan perkaranya yang nampak. Kami datang kepadaMu sebagai perantara, maka ampunilah baginya! Abu Daud berkata; Syu'bah salah mengenal nama Ali bin Syammakh. Dalam hal tersebut Utsman bin Syammas berkata; dan aku mendengar Ahmad bin Ibrahim Al Mushili menceritakan kepada Ahmad bin Hanbal, ia berkata; aku tidak mengetahui bahwa aku duduk di sebuah majelis Hammad bin Zaid melainkan ia melarang meriwayatkan dari Abdul Warits dan Ja'far bin Sulaiman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 21 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али ибн Шимах передаёт: «Я видел, как Мерван спросил Абу Хурайру: “Как ты слышал, что Посланник Аллаха ﷺ говорил, когда совершал погребальную молитву?” Он спросил: “После того, что ты сказал (мне, ты спрашиваешь меня)?” Тот ответил: “Да”. Он имел в виду (неприятный) разговор, который состоялся у них до этого. Абу Хурайра сказал: “О Аллах, Ты его Господь, и Ты создал его, и Ты привёл его в ислам, и Ты забрал дух его, и Ты знаешь всё его тайное и явное, мы же пришли в качестве заступников. Прости же ему!” /Аллахумма, Анта раббу-ха, ва Анта халякта-ха ва Анта хадайта-ха ли-ль-ислями, ва Анта кабад-та руха-ха ва Анта а‘ляму би-сирри-ха ва ‘алянийати-ха, джи-на шуфаа‘а, фа-гфир ля-ху/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 21 Hadith 112</td></tr></tbody></table></div>
 

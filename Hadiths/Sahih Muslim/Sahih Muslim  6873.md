@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) used to say:" O Allah, I see
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu 'Ulayyah] dia berkata; dan telah mengabarkan kepada kami [Sulaiman At Taimi] telah menceritakan kepada kami [Anas bin Malik] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah berdoa: 'Ya Allah, aku berlindung kepada-Mu dari kelemahan, kemalasan, rasa takut, kepikunan, dan kekikiran. Dan aku juga berlindung kepada-Mu dari siksa kubur serta bencana kehidupan dan kematian.'" Dan telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Yazid bin Zurai'] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Muhammad bin 'Abdul A'la] telah menceritakan kepada kami [Mu'tamir], keduanya dari [At Taimi] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Namun Yazid di dalam Haditsnya tidak menyebutkan sabda Nabi shallallahu 'alaihi wasallam; serta fitnah kehidupan dan kematian.' Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] telah mengabarkan kepada kami [Ibnul Mubarak] dari [Sulaiman At Taimi] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam bahwa beliau berlindung dari beberapa hal yang beliau sebutkan, dan dari kekikiran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6873</td></tr><tr><td>Arabic No</td><td>2706.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6873</td></tr><tr><td>Arabic No</td><td>2706.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 67</td></tr></tbody></table></div>
 

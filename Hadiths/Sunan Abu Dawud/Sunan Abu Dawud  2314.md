@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Bara’ (bin Azib) said “When a man fasted and slept, he could not eat till
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali bin Nashr Al Jahdhami], telah mengabarkan kepada kami [Abu Ahmad], telah mengabarkan kepada kami [Israil] dari [Abu Ishaq], dari [Al Bara'], ia berkata; dahulu seseorang apabila telah berpuasa ia tidur dan tidak makan hingga keesokan hari. Sesungguhnya Shirmah bin Qais Al Anshari datang kepada isterinya dan ia dalam keadaan berpuasa, ia berkata; apakah engkau memiliki sesuatu? Isterinya berkata; tidak, mungkin aku bisa pergi dan mencari sesuatu untukmu. Kemudian ia pergi dan Shirmah telah tertidur, lalu isterinya datang dan berkata; merugi engkau. Kemudian sebelum tengah hari ia pingsan, dan ia pada hari itu sedang bekerja di lahan tanahnya. Kemudian ia menyebutkan hal tersebut kepada Nabi shallallahu 'alaihi wasallam. Kemudian turunlah ayat: "Dihalalkan bagi kamu pada malam hari bulan puasa bercampur dengan isteri-isteri kamu." Beliau membacanya hingga firmannya: "yaitu fajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1915)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2314</td></tr><tr><td>Arabic No</td><td>2314</td></tr><tr><td>Reference</td><td>Book 14 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара, да будет доволен им Аллах, сказал: «Если человек постился и наступало время разговения, а он засыпал, не разговевшись, то ему уже не разрешалось есть до следующего вечера. И однажды Сырма ибн Кайс аль-Ансари постился, а потом пришёл к своей жене и спросил её: “Есть ли у тебя какая-нибудь еда?” Она сказала: “Нет, но я пойду и поищу что-нибудь для тебя”. А его одолел сон, а через некоторое время его жена вернулась к нему и, увидев его, сказала: “Тебе не посчастливилось!” И ещё до истечения первой половины следующего дня он упал в обморок, а он в тот день работал на своей земле, и об этом сообщили Пророку ﷺ после чего был ниспослан этот аят: “Вам дозволено вступать в близость с вашими жёнами в ночь поста. Ваши жёны одеяние для вас, а вы одеяние для них. Аллах знает, что вы предаёте самих себя, и поэтому Он принял ваши покаяния и простил вас. Отныне вступайте с ними в близость и стремитесь к тому, что предписал вам Аллах. Ешьте и пейте, пока вы не сможете отличить белую нитку от чёрной на рассвете” (сура 2 «аль-Бакара», аят 187)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1915)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2314</td></tr><tr><td>Arabic No</td><td>2314</td></tr><tr><td>Reference</td><td>Book 14 Hadith 2</td></tr></tbody></table></div>
 

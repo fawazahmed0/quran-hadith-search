@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Maqal:'Ali led the funeral prayer of Sahl bin Hunaif and said, "He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4004</td></tr><tr><td>Arabic No</td><td>4004</td></tr><tr><td>Reference</td><td>Book 64 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Ма‘каля, что ‘Али возглавил погребальную молитву за Сахля ибн Хунайфа, сказав: «Он был одним из участников битвы при Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4004</td></tr><tr><td>Arabic No</td><td>4004</td></tr><tr><td>Reference</td><td>Book 64 Hadith 55</td></tr></tbody></table></div>
 

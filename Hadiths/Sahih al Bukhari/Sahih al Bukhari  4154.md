@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the day of Al-Hudaibiya, Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan] berkata ['Amru]; aku mendengar [Jabir bin Abdullah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami pada peristiwa Hudaibiyyah: "Kalian adalah sebaik-baiknya penduduk bumi." Saat itu kami berjumlah seribu empat ratus orang. Seandainya hari ini aku dapat melihat, pasti aku akan tunjukkan kepada kalian posisi pohon tersebut." Hadits ini juga diperkuat oleh [Al A'masy] dia mendengar [Salim] yang mendengar [Jabir] berkata; "Jumlah kami seribu empat ratus orang." ['Ubaidullah bin Mu'adz] mengatakan; telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] telah menceritakan kepadaku [Abdullah bin Abu Aufa radliallahu 'anhuma]; "Sahabat yang pernah berbai'at di bawah pohon (bai'atur ridlwan) berjumlah seribu tiga ratus orang. Sedangkan dari suku Aslam berjumlah seperdelapan dari jumlah shahabat Muhajirin." Hadits ini juga diperkuat oleh [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4154</td></tr><tr><td>Arabic No</td><td>4154</td></tr><tr><td>Reference</td><td>Book 64 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «В день Худайбиййи Посланник Аллаха ﷺ сказал нам: “Вы — лучшие люди на земле”, а было нас тысяча четыреста (человек), и если бы я мог видеть сегодня, то обязательно показал бы вам то место (, где стоит это) дерево»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4154</td></tr><tr><td>Arabic No</td><td>4154</td></tr><tr><td>Reference</td><td>Book 64 Hadith 198</td></tr></tbody></table></div>
 

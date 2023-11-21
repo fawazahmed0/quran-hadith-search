@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that he said:The people will cons
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>135.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Мухаммада, что Абу Хурайра сказал: «Люди не перестанут…» подобно предыдущему хадису, но не упомянул в нём Пророка ﷺ, однако сказал в конце хадиса: «Правду сказали Аллах и Его посланник»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>135.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 255</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "You should not say, 'Feed your lor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami ['Abdur RAzzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] menceritakan dari Nabi shallallahu 'alaihi wasallam, Beliau bersabda: "Janganlah seorang dari kalian memerintahkan (budaknya) dengan kalimat; Hidangkanlah makanan untuk rabb kamu, wudhukanlah rabbmu, sajikanlah minuman untuk rabbmu tapi hendaklah dia berkata dengan kalimat sayyidku, maulaku (pemeliharaku). Dan janganlah seorang dari kalian mengatakan 'abdiy (budak laki-laki) ku, atau amatiy (budak perempuan) ku tapi katakanlah: pemudaku, pemudiku dan ghulamku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2552</td></tr><tr><td>Arabic No</td><td>2552</td></tr><tr><td>Reference</td><td>Book 49 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть никто из вас не говорит (своему рабу) “Накорми своего господина /рабба-кя/”, (или) “Помоги совершить омовение своему господину”, (или) “Подай воды своему господину”, но пусть (раб) говорит “мой хозяин /саййиди/”, “мой покровитель /мауляйа/”. И пусть никто из вас не говорит “мой раб /‘абди/”, “моя рабыня /амати/”, а (говорит) “фатайа”, “фатати” и “гулями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2552</td></tr><tr><td>Arabic No</td><td>2552</td></tr><tr><td>Reference</td><td>Book 49 Hadith 35</td></tr></tbody></table></div>
 

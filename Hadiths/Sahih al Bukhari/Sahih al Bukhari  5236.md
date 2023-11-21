@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) was screening me with his Rida' (garment cover
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dari [Isa] dari [Al Auza'i] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha, ia berkata; "Aku melihat Nabi shallallahu 'alaihi wasallam menutupiku dengan pakaiannya, sementara aku melihat ke arah orang-orang Habasyah yang sedang bermain di dalam Masjid sampai aku sendirilah yang merasa puas. Karenanya, sebisa mungkin kalian bisa seperti gadis belia yang suka bercanda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5236</td></tr><tr><td>Arabic No</td><td>5236</td></tr><tr><td>Reference</td><td>Book 67 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ прикрыл меня своей накидкой /рида/, пока я смотрела на то, как эфиопы играли в мечети. (И я продолжала смотреть на них) пока мне это не наскучило. Поэтому считайтесь с молодыми девочками, которые любят играться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5236</td></tr><tr><td>Arabic No</td><td>5236</td></tr><tr><td>Reference</td><td>Book 67 Hadith 169</td></tr></tbody></table></div>
 

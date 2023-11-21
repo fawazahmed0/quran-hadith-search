@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:'Abdur-Rahman bin 'Auf came to Allah's Messenger (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Humaid Ath Thawil] dari [Anas bin Malik] radliallahu 'anhu, bahwasnya; Abdurrahman bin Auf datang kepada Rasulullah shallallahu 'alaihi wasallam sementara pada dirinya masih terdapat bekas-bekas warna kuning minyak wangi, maka Rasulullah shallallahu 'alaihi wasallam bertanya kepadanya, ia pun memberitahu bahwa ia telah menikahi seorang wanita dari Anshar. Beliau bertanya: "Seberapa mahar yang kamu berikan?" Abdurrahman menjawab, "satu ons emas." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Adakanlah walimah meskipun dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5153</td></tr><tr><td>Arabic No</td><td>5153</td></tr><tr><td>Reference</td><td>Book 67 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, когда ‘Абдуррахман ибн ‘Ауф пришёл к Посланнику Аллаха ﷺ, на нём были жёлтые следы (от благовоний на теле). Посланник Аллаха ﷺ спросил его об этом, и он ответил, что женился на женщине из ансаров. Пророк ﷺ спросил: “Что ты подарил ей?” Он ответил: “Золото, равное по весу (финиковой) косточке”. Тогда Посланник Аллаха ﷺ сказал: “Тебе следует устроить свадебное угощение /валима/ хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5153</td></tr><tr><td>Arabic No</td><td>5153</td></tr><tr><td>Reference</td><td>Book 67 Hadith 88</td></tr></tbody></table></div>
 

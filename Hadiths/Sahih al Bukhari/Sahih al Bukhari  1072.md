@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata' bin Yasar:I asked Zaid bin Thabit about prostration on which he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Abu Ar-Rabi'] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] berkata, telah mengabarkan kepada kami [Yazid bin Khushaifah] dari [Ibnu Qusaith] dari ['Atho' bin Basar] bahwa dia mengabarkannya, bahwa dia pernah bertanya kepada [Zaid bin Tsabit radliallahu 'anhu] (tentang sujud tilawah pada surah An-Najm). Maka dia menceritakan bahwa dia pernah membaca surah An-Najm untuk Nabi shallallahu 'alaihi wasallam namun Beliau tidak melakukan sujud tilawah padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1072</td></tr><tr><td>Arabic No</td><td>1072</td></tr><tr><td>Reference</td><td>Book 17 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аты ибн Ясара, что Зейд ибн Сабит, да будет доволен им Аллах, утверждал, что (однажды) в присутствии Пророка ﷺ он прочитал (суру) «ан-Наджм», однако (Пророк ﷺ) не совершил из-за этого земного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1072</td></tr><tr><td>Arabic No</td><td>1072</td></tr><tr><td>Reference</td><td>Book 17 Hadith 6</td></tr></tbody></table></div>
 

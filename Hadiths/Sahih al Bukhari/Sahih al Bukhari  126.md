@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aswad:Ibn Az-Zubair said to me, "Aisha used to tell you secretly a numb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Musa] dari [Isra'il] dari [Abu Ishaq] dari [Al Aswad] berkata, Ibnu Az Zubair berkata kepadaku, " ['Aisyah] banyak merahasiakan (hadits) kepadamu. Apa yang pernah dibicarakannya kepadamu tentang Ka'bah?" Aku berkata, "Aisyah berkata kepadaku, "Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Wahai 'Aisyah, kalau bukan karena kaummu masih dekat zaman mereka, Az Zubair menyebutkan, "Dengan kekufuran, maka Ka'bah akan aku rubah, lalu aku buat dua pintu untuk orang-orang masuk dan satu untuk mereka keluar." Di kemudian hari hal ini dilaksanakan oleh Ibnu Zubair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>126</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Асвад сказал:\n– Ибн аз-Зубайр (как-то) сказал мне: «‘Аиша, да будет доволен ею Аллах, многое рассказывала тебе по секрету. Что же она рассказала тебе о Ка‘бе?» Я ответил:\n– Она сказала мне: «Пророк ﷺ сказал: “О ‘Аиша, если бы твои соплеменники не были (столь) близки к прошлому (— Ибн аз-Зубайр сказал: “К неверию” —), я бы разрушил Ка‘бу и сделал бы для неё две двери: дверь, в которую бы заходили люди, и дверь, через которую бы они выходили”. И это сделал (‘Абдуллах) ибн аз-Зубайр»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>126</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
 

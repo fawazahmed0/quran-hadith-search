@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:To those also, to whom your right hand was pledged, give the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit], telah menceritakan kepadaku [Ali bin Husain], dari [ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; firman Allah: "Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya." Dahulu seorang laki-laki saling bersumpah dengan orang lain yang tidak memiliki nasab dengannya, kemudian yang satu mewarisi yang lainnya. Kemudian hal tersebut dihapuskan oleh Surat Al Anfal: "Orang-orang yang mempunyai hubungan kerabat itu sebagiannya lebih berhak terhadap sesamanya (daripada yang bukan kerabat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 19 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Отдавайте тем, с кем вы связаны клятвами, их долю»: «Если один человек заключал союз с другим, который не являлся его родственником, они наследовали друг другу. А потом это было отменено аятом из суры “аль-Анфаль”: “Однако родственники ближе друг к другу. Таково предписание Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 19 Hadith 37</td></tr></tbody></table></div>
 

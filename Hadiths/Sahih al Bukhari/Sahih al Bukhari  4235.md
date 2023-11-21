@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:By Him in Whose Hand my soul is, were I not afraid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4235</td></tr><tr><td>Arabic No</td><td>4235</td></tr><tr><td>Reference</td><td>Book 64 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Клянусь Тем, в чьей длани находится моя душа, если бы я не опасался, что (будущие поколения) мусульман останутся без ничего, я бы непременно делил между (воинами земли каждого) завоёванного мною селения подобно тому, как (раньше) Пророк ﷺ разделил (земли) Хайбара. Однако я оставляю их как запас, который они будут делить между собой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4235</td></tr><tr><td>Arabic No</td><td>4235</td></tr><tr><td>Reference</td><td>Book 64 Hadith 273</td></tr></tbody></table></div>
 

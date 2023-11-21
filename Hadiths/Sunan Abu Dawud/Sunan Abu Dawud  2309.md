@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) was asked about a m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad], dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam ditanya mengenai seorang laki-laki yang mencerai isterinya tiga kali, kemudian wanita tersebut menikah dengan laki-laki yang lain dan bertemu muka dengannya kemudian ia mencerainya sebelum mencampuri, maka apakah ia halal bagi suaminya yang pertama? Aisyah berkata; tidak. Nabi shallallahu 'alaihi wasallam berkata: "Ia tidak halal bagi suaminya yang pertama hingga ia merasakan manisnya (hubungan kenikmatan) suaminya yang lain, dan ia (sang suami) juga merasakan manisnya (hubungan kenikmatan dengannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2309</td></tr><tr><td>Arabic No</td><td>2309</td></tr><tr><td>Reference</td><td>Book 13 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Посланника Аллаха ﷺ спросили о человеке, который дал своей жене развод, после чего она вышла замуж за другого и тот уединился с ней, а потом дал ей развод, не вступив с ней в половые отношения: дозволяется ли первому мужу посвататься к ней вновь? Пророк ﷺ сказал: “Она не становится дозволенной для первого мужа, пока не познает сладость другого и он не познает её сладость”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2309</td></tr><tr><td>Arabic No</td><td>2309</td></tr><tr><td>Reference</td><td>Book 13 Hadith 135</td></tr></tbody></table></div>
 

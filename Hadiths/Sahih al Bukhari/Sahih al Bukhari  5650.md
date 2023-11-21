@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib:Allah's Messenger (ﷺ) ordered us to do seven things 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku [Asy'ats bin Sulaim] dia berkata; saya mendengar [Mu'awiyah bin Suwaid bin Muqarrin] dari [Al Barra' bin 'Azib] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami tujuh perkara dan melarang kami dari tujuh perkara, beliau melarang kami dari memakai cincin emas, mengenakan sutera, dibaj, istabraq (kain sejenis sutera), qasiy dan misarah (yaitu kain yang terbuat dari campuran sutera), dan memerintahkan kami untuk mengiringi jenazah, menjenguk orang sakit dan menebarkan salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5650</td></tr><tr><td>Arabic No</td><td>5650</td></tr><tr><td>Reference</td><td>Book 75 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб, да будет доволен ими обоими Аллах, сказал: «Посланник Аллаха ﷺ велел нам делать семь (вещей) и запретил нам семь (других). Он запретил нам носить золотые кольца, носить шёлковую одежду, парчу, истабракъ, къасси и шёлковые подушки. И он велел нам провожать погребальные носилки, навещать больного и распространять приветствия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5650</td></tr><tr><td>Arabic No</td><td>5650</td></tr><tr><td>Reference</td><td>Book 75 Hadith 10</td></tr></tbody></table></div>
 

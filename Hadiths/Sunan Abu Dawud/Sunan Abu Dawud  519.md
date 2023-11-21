@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A woman from Banu an-Najjar: Urwah ibn az-Zubayr reported on the author
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Ayyub] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Muhammad bin Ishaq] dari [Muhammad bin Ja'far bin Az-Zubair] dari [Urwah bin Az-Zubair] dari [seorang wanita dari Bani Najjar] dia berkata; Rumahku adalah rumah yang paling tinggi di antara rumah-rumah yang lain di sekitar Masjid, dan Bilal mengumandangkan adzan subuh di atasnya, dia datang pada waktu sahur lalu duduk di atas rumah untuk melihat fajar, apabila dia telah melihatnya, dia menggeliat kemudian berkata; Ya Allah, sesungguhnya saya memujiMu dan memohon pertolongan kepadaMu untuk kaum Quraisy, agar mereka menegakkan agamaMu. Wanita tersebut berkata; Kemudian Bilal mengumandangkan adzan. Katanya; Demi Allah, saya tidak melihat Bilal meninggalkannya satu malam pun, yakni kalimat-kalimat adzan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>519</td></tr><tr><td>Arabic No</td><td>519</td></tr><tr><td>Reference</td><td>Book 2 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урвы ибн аз-Зубайра о том, что одна женщина из племени бану наджар сказала: «Мой дом был одним из самых высоких домов, расположенных вокруг мечети и Билял возвещал с него азан к утренней молитве. Перед рассветом он приходил туда, садился и ждал, (пока не наступит рассвет), а когда он видел рассвет, он потягивался и затем говорил: “О Аллах, восхваляю Тебя и прошу Твоей помощи против курайшитов, и чтобы они установили Твою религию”».Она сказала: «После этого он возвещал азан».(Эта женщина также) сказала: «И клянусь Аллахом я не помню, чтобы он не произносил их хотя бы одну ночь», имея в виду эти слова
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>519</td></tr><tr><td>Arabic No</td><td>519</td></tr><tr><td>Reference</td><td>Book 2 Hadith 129</td></tr></tbody></table></div>
 

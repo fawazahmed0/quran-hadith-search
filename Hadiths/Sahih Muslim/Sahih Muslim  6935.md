@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The supplication of one o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdul Malik bin Syu'aib bin Laits] telah menceritakan kepadaku [bapakku] dari [kakekku]; telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] bahwasanya ia berkata; Telah menceritakan kepadaku [Abu Ubaid] budak Abdurrahman bin Auf yang mana dia termasuk dari para Qari (penghafal qur'an) dan Ahli fikih, dia berkata; Aku mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Doa seseorang dari kalian akan senantiasa dikabulkan selama ia tidak tergesa-gesa hingga mengatakan; 'Aku telah berdoa kepada Rabbku, namun Dia belum juga mengabulkan untukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6935</td></tr><tr><td>Arabic No</td><td>2735.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6935</td></tr><tr><td>Arabic No</td><td>2735.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 126</td></tr></tbody></table></div>
 

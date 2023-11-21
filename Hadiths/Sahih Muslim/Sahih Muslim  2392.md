@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Auf reported:I heard Mu'awiya b. Abu Sufyan saying in an addres
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata, telah menceritakan kepadaku [Humaid bin Abdurrahman bin Auf] ia berkata; saya mendengar [Mu'awiyah bin Abu Sufyan] yang sedang berkhutbah berkata; Sesungguhnya saya telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang dikehendaki Allah menjadi baik, maka ia akan diberi pengetahuan yang mendalam mengenai agama. Sesungguhnya aku ini hanyalah yang membagi-bagi, sedangkan yang memberi ialah Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>1037.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, обращаясь к людям с проповедью, Му‘авийа ибн Аби Суфьян сказал: «Я слышал, как Пророк ﷺ говорил: “Того, кому Аллах желает блага, Он наделяет пониманием религии. Поистине, я только распределяю, а дарует Аллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>1037.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
 

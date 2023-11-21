@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:We asked Ibn 'Umar: "May a man have sexual relations with his wife
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari ['Amru]: "Kami pernah bertanya kepada [Ibnu'Umar radliallahu 'anhuma]: "Apakah seorang suami boleh berhubungan dengan isterinya dalam pelaksanaan 'umrah sebelum dia melaksanakan sa'iy antara bukit Shafaa dan Marwah?". Dia menjawab: "Nabi Shallallahu'alaihiwasallam pernah datang ke Baitullah untuk hajji, Beliau thawaf di Baitullah tujuh kali putaran kemudian shalat dua raka'at di belakang Maqam (Ibrahim) lalu melakukan sa'iy antara bukit Shafaa dan Marwah. Kemudian dia membaca QS Al Ahzab ayat 21 yang artinya: ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah"). Dan aku ('Amru) pernah pula bertanya kepada [Jabir bin 'Abdullah radliallahu 'anhu] tentang hal ini. Maka katanya: "Janganlah orang itu mendekati isterinya hingga dia melaksanakan sa'iy antara bukit Shafaa dan Marwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1624</td></tr><tr><td>Arabic No</td><td>1624</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр сказал: «Я задал Джабиру ибн ‘Абдуллаху, да будет доволен Аллах им его отцом, (тот же вопрос) и он ответил: «Не разрешается ему приближаться к своей жене, пока он не закончит обход между ас-Сафа и аль-Марва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1624</td></tr><tr><td>Arabic No</td><td>1624</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
 

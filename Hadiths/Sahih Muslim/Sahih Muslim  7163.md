@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengkhabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] berkata: Inilah yang diceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah Shallallahu 'alaihi wa Salam, ia menyebut beberapa hadits diantaranya: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Allah 'azza wajalla menciptakan Adam seperti wujudnya, panjangnya enampuluh dzira'. Setelah menciptakannya, Allah berfirman: 'Pergilah lalu ucapkan salam pada mereka itu, mereka adalah kelompok malaikat yang tengah duduk lalu dengarkan jawaban mereka, itulah salammu dan salam keturunanmu." Beliau bersabda: "Adam pergi lalu mengucapkan: 'ASSLAAMU'ALAIKUM? ' Mereka menjawab: 'ASSALAAMU 'ALAIKA WA RAHMATULLAAH'." Beliau bersabda: "Mereka menambahi: 'WA RAHMATULLAAH'." Beliau bersabda: "Setiap orang yang masuk surga wujudnya seperti Adam, panjangnya enampuluh dzira' dan setelahnya (Adam) postur tubuh (manusia) terus berkurang hingga sekarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7163</td></tr><tr><td>Arabic No</td><td>2841</td></tr><tr><td>Reference</td><td>Book 53 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Хурайры (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Великий и Всемогущий Аллах создал Адама по Своему образу, рост которого составлял шестьдесят локтей, а когда он (завершил) его сотворение, Он сказал (ему): “Иди и поприветствуй эту группу (ангелов)”, имея в виду нескольких сидящих ангелов “и послушай, как они ответят тебе, и (отныне) это будет приветствием для тебя и твоих потомков”».(Посланник Аллаха ﷺ) сказал: «И он отправился (к ним) и сказал: “Мир вам!” /Ас-саляму ‘алейкум!/, они же (в ответ ему) сказали: “Мир тебе и милость Аллаха!” /Ас-саляму ‘алейка ва рахмату-Ллахи!/»(Посланник Аллаха ﷺ) сказал: «И они добавили (к его приветствию слова) “ … и милость Аллаха!”»(Посланник Аллаха ﷺ) сказал: «И каждый, кто войдёт в рай, будет в образе Адама, рост его будет (составлять) шестьдесят локтей, и с тех пор творения не переставали уменьшаться (в размерах) до нынешнего (времени)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7163</td></tr><tr><td>Arabic No</td><td>2841</td></tr><tr><td>Reference</td><td>Book 53 Hadith 32</td></tr></tbody></table></div>
 

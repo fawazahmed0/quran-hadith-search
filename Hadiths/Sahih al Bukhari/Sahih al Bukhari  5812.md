@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:I asked Anas, "What kind of clothes was most beloved to the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ashim] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas], (Qatadah) bertanya kepadanya; "Pakaian apakah yang paling disukai Nabi shallallahu 'alaihi wasallam?" dia menjawab; "Al hibarah (kain yang direnda atau bergaris)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5812</td></tr><tr><td>Arabic No</td><td>5812</td></tr><tr><td>Reference</td><td>Book 77 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Катада сказал: «Я спросил Анаса: “Какую одежду Пророк ﷺ любил носить больше всего?” И он ответил: “Хлопковую йеменскую накидку с полосами /хибара/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5812</td></tr><tr><td>Arabic No</td><td>5812</td></tr><tr><td>Reference</td><td>Book 77 Hadith 30</td></tr></tbody></table></div>
 

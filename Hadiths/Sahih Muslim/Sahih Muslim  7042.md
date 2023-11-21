@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Iyas reported on the authority of his father:We went along with Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abbas bin 'Abdul 'Azhim Al 'Anbari] telah menceritakan kepada kami [Abu Muhammad An Nadhr bin Muhammad bin Musa Al Yamani] telah menceritakan kepada kami ['Ikrimah] telah menceritakan kepada kami [Iyas] telah menceritakan kepadaku [bapakku], dia berkata; "Kami pernah menjenguk seseorang yang menderita sakit panas dan demam bersama Rasulullah shallallahu 'alaihi wasallam." Salamah berkata; 'Saya sentuhkan kedua tangan saya pada tubuh orang itu sambil berkata; 'Demi Allah, saya tidak pernah melihat orang yang menderita sakit panas seperti ini.' Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Maukah kamu aku tunjukkan orang yang lebih panas daripada orang yang sakit panas ini pada hari kiamat kelak? Itulah dua orang laki-laki yang mengendarai hewan dengan berboncengan.' Pada saat itu, beliau menunjuk kepada dua orang sahabat yang menjadi orang munafik yang sedang berlalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7042</td></tr><tr><td>Arabic No</td><td>2783</td></tr><tr><td>Reference</td><td>Book 51 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7042</td></tr><tr><td>Arabic No</td><td>2783</td></tr><tr><td>Reference</td><td>Book 51 Hadith 19</td></tr></tbody></table></div>
 

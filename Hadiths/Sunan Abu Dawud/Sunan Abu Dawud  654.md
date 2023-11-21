@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: When any of you prays, he should n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami [Utsman bin Umar] telah menceritakan kepada kami [Shalih bin Rustum, Ab 'Amir] dari [Abdurrahman bin Qais] dari [Yusuf bin Mahak] dari [Abu Hurairah] bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda: "Apabila salah seorang di antara kalian melaksanakan shalat, janganlah dia meletakkan sandalnya di sisi kanan atau kirinya sehingga menjadi di sisi kanan orang lain, kecuali di sisi kirinya tidak ada orang lain, dan hendaklah dia meletakkannya di antara kedua kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>654</td></tr><tr><td>Arabic No</td><td>654</td></tr><tr><td>Reference</td><td>Book 2 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас (захочет ) помолиться, пусть не ставит свои сандалии ни справа от себя, ни слева, так как они будут справа от кого-то другого, кроме случая, когда слева нет никого, в противном же случае, пусть ставит их между своих ног»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>654</td></tr><tr><td>Arabic No</td><td>654</td></tr><tr><td>Reference</td><td>Book 2 Hadith 264</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ While relating the tradition about Barirah A’ishah said “her husband was a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Jarir] dari [Hisyam bin Urwah], dari [ayahnya] dari [Aisyah] mengenai kisah Barirah, ia berkata; suaminya adalah seorang budak. Kemudian Rasulullah shallallahu 'alaihi wasallam memberikan pilihan kepadanya, lalu ia memilih dirinya, dan seandainya Mughits adalah orang yang merdeka, maka beliau tidak akan memberikan pilihan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2563) Sahih Muslim (1504)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2233</td></tr><tr><td>Arabic No</td><td>2233</td></tr><tr><td>Reference</td><td>Book 13 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, в истории Бариры сказала: «Её муж был рабом, и Пророк ﷺ предоставил ей выбор, и она выбрала себя». А если бы он был свободным, Пророк ﷺ не стал бы предоставлять ей выбор
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2563) Sahih Muslim (1504)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2233</td></tr><tr><td>Arabic No</td><td>2233</td></tr><tr><td>Reference</td><td>Book 13 Hadith 59</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Masud:I was with the Prophet (ﷺ) at one of the farms of Medina wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid bin Maimun] telah menceritakan kepada kami ['Isa bin Yunus] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari [Ibn Mas'ud] rahiyallahu'anhu berkata, "Pernah aku bersama nabi shallallahu 'alaihi wasallam di sebuah kebun Madinah sedang beliau menyandarkan punggung, lantas beberapa orang Yahudi lewat, dan sebagian mereka mengatakan 'Coba tanyailah dia tentang roh! ' Sebagian berkata 'Jangan kalian tanyai dia tentang itu, sebab yang kalian benci tidak bisa memperdengarkan kepada kalian.' Namun sebagian mereka berdiri dan bertanya "Wahai Abul Qasim, beritahukanlah kami tentang roh! ' Lantas beliau berdiri beberapa saat mengamat-amati, maka aku tahu bahwa beliau sedang menerima wahyu, maka aku berusaha menyingkir dari beliau, hingga wahyu terangkat, kemudian beliau bersabda mengutip ayat: '(Mereka bertanya kepadamu tentang roh, katakanlah bahwa roh itu urusan Rabbiku) ' (Qs. Al Israa':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7297</td></tr><tr><td>Arabic No</td><td>7297</td></tr><tr><td>Reference</td><td>Book 96 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) Ибн Мас‘уд, да будет доволен им Аллах, сказал: «Однажды, я вместе с Пророком ﷺ опиравшимся на голую пальмовую ветвь, шли через посевы Медины, и мы прошли мимо группы иудеев. И некоторые из них стали говорить (другим): “Спросите его о душе”, а некоторые из них говорили: “Не спрашивайте его, ибо что бы он ни сказал, вам это не понравится!” После чего один из них встал и спросил: “О Абуль-Къасим, расскажи нам о душе?” И тогда Пророк ﷺ стоял определённый промежуток времени ожидая (откровения), и я понял, что ему ниспосылается откровение, и тогда я отошёл от него (чтобы не мешать ему), и так было до тех пор, пока не закончилось ниспослание откровения, а затем он сказал: “Они станут спрашивать тебя о душе. Скажи: ‹Душа — от повеления моего Господа›” (сура «аль-Исра», аят 85)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7297</td></tr><tr><td>Arabic No</td><td>7297</td></tr><tr><td>Reference</td><td>Book 96 Hadith 28</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) having said that the Angel of Death
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah menceritakan kepada kami [Ma'mar] dari [Hamam bin Munabbih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, -kemudian dia menyebutkan beberapa Hadits yang di antaranya-; dan Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Malaikat maut datang menemui Musa 'Alaihis Salam, lalu ia berkata kepadanya; 'Penuhilah panggilan Rabbmu, ' Rasulullah Bersabda: "Lalu Musa menampar mata malaikat maut dan mencukilnya, " Rasulullah Bersabda: "Lalu malaikat maut pulang menemui Allah 'azza wajalla seraya berkata; 'Engkau telah mengutusku kepada seorang hamba-Mu yang tidak memenginginkan kematian, dan sungguh ia telah mencukil mataku.'" Rasulullah Bersabda: "Lalu Allah mengembalikan matanya, dan Allah berfirman: 'Kembalilah kepada hamba-Ku dan katakan kepadanya; 'Apakah kehidupan yang engkau inginkan? Jika engkau menginginkan kehidupan maka letakkanlah tanganmu di atas bulu sapi, maka setiap bulu yang tertutup oleh tanganmu, dengannya engkau akan mendapatkan tambahan satu tahun.' Musa berkata; 'Lalu apa setelah itu? ' malaikat maut berkata; 'Kematian.' Musa berkata; 'Maka segerakanlah, ' lalu ia berdoa; 'Ya Allah, dekatkanlah kuburku dengan tanah suci sejauh lemparan batu.'" Abu Hurairah berkata; dan Rasulullah shallallahu 'alaihi wasallam Bersabda: "Jika aku ada di sana sungguh akan aku tunjukkan kepada kalian, yaitu di sisi jalan dekat pasir merah." Telah menceritakan kepada kami Muhammad bin Yahya; Telah menceritakan kepada kami 'Abdur Razzaq; Telah mengabarkan kepada kami Ma'mar melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6149</td></tr><tr><td>Arabic No</td><td>2372.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6149</td></tr><tr><td>Arabic No</td><td>2372.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 207</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: I heard the Messenger of Allah (ﷺ) say: Allah, Most H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abdullah bin Al Mubarak], telah menceritakan kepadaku [Abdurrahman bin Yazid bin Jabir], telah menceritakan kepadaku [Abu Sallam], dari [Khalid bin Zaid] dari ['Uqbah], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya Allah memasukkan tiga orang ke dalam surga karena satu anak panah, yaitu: Pembuatnya yang menginginkan kebaikan dalam membuatnya, orang yang memanah dengannya, serta orang yang mengambilkan anak panah untuknya. Panah dan naiklah kuda, kalian memanah adalah lebih aku sukai daripada kalian menaiki kuda. Bukan termasuk hiburan (yang disunahkan) kecuali tiga perkara: seseorang melatih kudanya, bercanda dengan isterinya, dan memanah menggunakan busurnya serta anak panahnya. Dan barangsiapa yang meninggalkan memanah setelah ia mengetahuinya karena tidak senang kepadanya maka sesungguhnya hal tersebut adalah kenikmatan yang ia tinggalkan atau ia berkata: yang ia ingkari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 15 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 15 Hadith 37</td></tr></tbody></table></div>
 

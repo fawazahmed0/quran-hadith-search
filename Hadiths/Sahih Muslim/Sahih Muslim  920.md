@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When the reciter (Imam) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub yaitu Ibnu Abdurrahman] dari [Suhail] dari [bapaknya] dari [Abu Hurairah ra] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila pembaca mengucapkan, 'Ghairil Maghdhubi Alaihim wala adh-Dhallin (Bukan jalan orang yang dimurkai dan tidak pula jalan orang yang sesat) ' lalu orang yang di belakangnya mengucapkan, 'Amin' lalu perkataannya bersesuaian dengan perkataan penduduk langit, niscaya dosanya yang telah lalu diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>920</td></tr><tr><td>Arabic No</td><td>410.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если читающий (Коран) скажет: “Не тех, на кого пал гнев, и не заблудших” (Сура «аль-Фатиха», аят 7), а тот, кто (молится) за ним скажет: “Амин”, и его слова совпадут со словами обитателей небес, ему простятся его прежние грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>920</td></tr><tr><td>Arabic No</td><td>410.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 82</td></tr></tbody></table></div>
 

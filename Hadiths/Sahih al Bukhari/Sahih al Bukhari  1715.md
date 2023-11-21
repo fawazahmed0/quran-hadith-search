@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (p.b.u.h) offered four rak'at of Zuhr prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Abu Qalabah] dari [Anas bin Malik radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam melaksanakan shalat Zhuhur di Madinah empat raka'at dan shalat 'Ashar di Dzu Hulaifah dua raka'at. Dan dari Ayyub dari seseorang dari Anas radliallahu 'anhu; Kemudian Beliau bermalam sampai pagi lalu shalat Shubuh, lalu mengendarai tunggangannya hingga sampai di Al Baida', Beliau berihram untuk 'umrah sekaligus hajinya (menggabungkannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1715</td></tr><tr><td>Arabic No</td><td>1715</td></tr><tr><td>Reference</td><td>Book 25 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ совершил полуденную молитву /зухр/ в четыре рака‘ата в Медине, а потом в Зуль-Хулейфе, он совершил послеполуденную молитву /‘аср/ уже в два рак‘ата». Так же Анас, да будет доволен им Аллах, сказал: «Он переночевал там, а утром, совершив утреннюю молитву, сел верхом на свою верблюдицу, и когда она поднялась с ним, он произнёс тальбию, имея намерение на совершение ‘умры и хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1715</td></tr><tr><td>Arabic No</td><td>1715</td></tr><tr><td>Reference</td><td>Book 25 Hadith 193</td></tr></tbody></table></div>
 

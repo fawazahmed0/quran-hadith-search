@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Houdhayfa (que Dieu l'agrée), Pendant que nous étions chez le Prophè
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] serta [Abu Kuraib] dan lafazh tersebut milik Abu Kuraib, mereka berkata, telah menceritakan kepada kami [Abu Mua'wiyah] dari [al-A'masy] dari [Syaqiq] dari [Hudzaifah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda ketika kami bersamanya: "Kumpulkan untukku beberapa orang sahabat yang bisa menyatakan Islam." Hudzaifah berkata, "Kami menjawab, "Wahai Rasulullah! Apakah tuan meragukan kami, sedangkan kami berjumlah antara enam hingga tujuh ratus orang? ' Rasulullah shallallahu 'alaihi wasallam bersabda: "Kamu tidak dapat menyangka bahwa suatu hari nanti kamu akan diuji." Hudzaifah berkata, "Ujilah kami walaupun hingga sahabat-sahabat kami terpaksa mendirikan shalat secara sembunyi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>377</td></tr><tr><td>Arabic No</td><td>149</td></tr><tr><td>Reference</td><td>Book 1 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузейфа сказал: «(Однажды) когда мы находились в обществе Посланника Аллаха ﷺ, он сказал: “Подсчитайте для меня, сколько (людей) говорят, (что они приняли) ислам”. Мы стали говорить: “О посланник Аллаха, так ты боишься за нас? Ведь нас насчитывается от шестисот до семисот (человек)!” Тогда (Пророк ﷺ) сказал: “Поистине, вы не знаете, что можете подвергнуться испытаниям”. А потом мы действительно подверглись испытаниям, и некоторым из нас даже приходилось молиться только тайно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>377</td></tr><tr><td>Arabic No</td><td>149</td></tr><tr><td>Reference</td><td>Book 1 Hadith 284</td></tr></tbody></table></div>
 

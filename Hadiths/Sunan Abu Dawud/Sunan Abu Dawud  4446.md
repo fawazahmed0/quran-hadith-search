@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said:some jews came to the Messenger of Allah (ﷺ) and mentioned to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] ia berkata; aku membaca di hadapan [Malik bin Anas] dari [nafi'] dari [Ibnu Umar] Bahwasanya ia berkata, "Orang-orang yahudi datang kepada Nabi shallallahu 'alaihi wasallam, mereka menyebutkan di hadapan beliau bahwa ada seorang laki-laki dan perempuan dari kalangan mereka telah berbuat zina. Rasulullah shallallahu 'alaihi wasallam lalu bersabda kepada mereka: "Hukum apa yang kalian temukan dalam Kitab Taurat kaitannya dengan zina?" Mereka menjawab, "Kami akan mencela dan mencambuk pelakunya." Abdullah bin Salam berkata, "Kalian dusta! Dalam Taurat ada perintah rajam." Mereka lalu mendatangkan Taurat seraya membukanya. Salah seorang dari mereka lalu menutup ayat rajam dengan tangannya, kemudian ia membaca pada ayat sebelum dan sesudahnya (yakni tidak membaca pada bagian yang ditutup dengan tangan). Abdullah bin Salam lalu berkata, "Angkatlah tanganmu!" Ia pun mengangkat tangannya, maka didapatilah ayat yang berbicara tentang rajam. Mereka lantas berkata, "Wahai Muhammad, ia benar! Di dalam taurat memang ada ayat rajam." Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan untuk merajam keduanya, maka keduanya dirajam." Abdullah bin Umar berkata, "Aku melihat laki-laki itu mendekap wanitanya agar tidak terkena batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6841) Sahih Muslim (1699)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4446</td></tr><tr><td>Arabic No</td><td>4446</td></tr><tr><td>Reference</td><td>Book 40 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды к Пророку ﷺ пришли иудеи (из числа жителей Хайбара), которые сказали ему, что мужчина и женщина из их числа совершили прелюбодеяние (т.е. вступал в половую связь в законном браке). Посланник Аллаха ﷺ спросил их: «А что говорится в Торе о совершивших прелюбодеяние?» Они сказали: «Мы опозорим их и подвергнем их бичеванию». Тогда ‘Абдуллах ибн Салям воскликнул: «Вы лжёте, ибо, поистине, в ней говорится о побивании камнями!» После этого они принесли и развернули свиток Торы, а один из них прикрыл рукой то место, где говорилось о побивании камнями, и прочитал то, что там написано до и после этого, но ‘Абдуллах ибн Салям сказал ему: «Подними руку!» И когда он поднял её, оказалось, что там действительно упоминается о побивании камнями. Тогда они сказали: «Мухаммад, он сказал правду, в Торе действительно говорится о побивании камнями!» после чего по велению Посланника Аллаха ﷺ совершившие прелюбодеяние были побиты камнями. ‘Абдуллах ибн ‘Умар сказал: «И я видел, как мужчина наклонялся, закрывая собой женщину от летящих камней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6841) Sahih Muslim (1699)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4446</td></tr><tr><td>Arabic No</td><td>4446</td></tr><tr><td>Reference</td><td>Book 40 Hadith 96</td></tr></tbody></table></div>
 

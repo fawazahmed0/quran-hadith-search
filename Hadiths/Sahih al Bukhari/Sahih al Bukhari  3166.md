@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "Whoever killed a person hav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qais bin Hafsh] telah bercerita kepada kami ['Abdul Wahid] telah bercerita kepada kami [Al Hasan bin 'Amru] telah bercerita kepada kami [Mujahid] dari ['Abdullah bin 'Amru radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barang siapa yang membunuh mu'ahad (orang kafir yang terikat perjanjian) maka dia tidak akan mencium bau surga padahal sesungguhnya bau surga itu dapat dirasakan dari jarak empat puluh tahun perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3166</td></tr><tr><td>Arabic No</td><td>3166</td></tr><tr><td>Reference</td><td>Book 58 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Амра, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Убивший му‘ахада не почувствует благоухания рая, которое будет ощущаться уже на расстоянии сорока лет пути (от него)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3166</td></tr><tr><td>Arabic No</td><td>3166</td></tr><tr><td>Reference</td><td>Book 58 Hadith 8</td></tr></tbody></table></div>
 

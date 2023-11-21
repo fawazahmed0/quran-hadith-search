@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir narrated the story of mu’adh and said:The prophet (ﷺ) said to a youth:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Za'idah] dari [Sulaiman] dari [Abu Shalih] dari [sebagian sahabat Nabi shallallahu 'alaihi wasallam] katanya; Nabi shallallahu 'alaihi wasallam pernah bertanya kepada seorang laki-laki: "Bagaimana kamu berdo'a dalam shalat?" laki-laki tersebut menjawab; "Aku membaca tasyahud dan mengucapkan; "ALLAHUMMA INNI AS'ALUKAL JANNATA WA A'UUDZUBIKA MINANNAAR (Ya Allah, aku memohon kepada Engkau surga dan berlindung kepada Engkau dari api neraka). (Ma'af) kami tidak dapat memahami dengan baik gumam anda gumam Mu'adz (ketika berdo'a)." maka Nabi shallallahu 'alaihi wasallam bersabda: "Seputar itulah kami bergumam (ketika berdo'a)." Telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Muhammad bin 'Ajlan] dari ['Ubaidullah bin Miqsam] dari [Jabir] -dia menyebutkan kisahnya Mu'adz- katanya; "Nabi shallallahu 'alaihi wasallam bertanya kepada seorang pemuda: "Wahai anak saudaraku, apa yang kamu perbuat (baca) ketika mengerjakan shalat?" pemuda itu menjawab; "Aku membaca surat Al Fatihah dan memohon surga-Nya Allah dan berlindung dari api nerakanya Allah, sesungguhnya aku tidak dapat mendengar gumam anda begitu juga dengan gumam Mu'adz." Lantas Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku dan Mu'adz (juga berdo'a) sekitar dua hal itu atau seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 2 Hadith 403</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от одного из сподвижников Пророка ﷺ что Пророк ﷺ сказал одному человеку: «Что ты говоришь в молитве?» Он ответил: «Произношу ташаххуд и говорю: “О Аллах, поистине, я прошу тебя о Рае и прошу у Тебя защиты от Огня”, и я не умею делать ни так, как делаешь ты, ни так, как делает Му‘аз». Пророк ﷺ сказал: «Мы просим о (Рае)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 2 Hadith 403</td></tr></tbody></table></div>
 

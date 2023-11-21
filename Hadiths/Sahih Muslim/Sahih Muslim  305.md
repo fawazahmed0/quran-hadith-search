@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira:We participated in the Battle of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] dan [Abd bin Humaid] semuanya dari [Abdurrazzaq], [Ibnu Rafi'] berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dari [Ibnu al-Musayyab] dari [Abu Hurairah] dia berkata, "Kami bersama Rasulullah shallallahu 'alaihi wasallam sedang melakukan peperangan terhadap Hunain, maka beliau bersabda kepada seorang lelaki yang diakui sebagai seorang muslim: 'Orang ini termasuk ke dalam golongan ahli Neraka'. Saat kami sedang dalam kancah, kami lihat lelaki itu berperang dengan bersungguh-sungguh hingga menyebabkan dia terluka parah. Lalu ada yang melaporkan kepada Rasulullah shallallahu 'alaihi wasallam, 'Wahai Rasulullah! Lelaki yang tuan katakan sebelum ini, bahwa dia merupakan ahli Neraka, pada hari ini ia telah berjuang dengan penuh semangat dan dia telah mati'. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Dia akan ke Neraka'. Sebagian kaum muslimin berada dalam keraguan tersebut. Tiba-tiba datang seseorang melaporkan bahwa dia tidak mati karena berjuang, tetapi luka parah. Pada malam itu, dia tidak sabar menghadapi kesakitan lukanya, maka dia membunuh dirinya sendiri, maka hal itu dilaporkan kepada Rasulullah. Rasulullah terus bertakbir: 'Allahu Akbar, aku bersaksi bahwa aku adalah hamba Allah dan Rasul-Nya.' Lalu Rasulullah menyuruh Bilal memberitahu semua orang bahwasanya tidak akan masuk Surga kecuali jiwa atau orang yang berserah diri (kepada Allah). Dan bahwa Allah telah menguatkan lagi agama ini dengan seorang lelaki yang gagah perkasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>305</td></tr><tr><td>Arabic No</td><td>111</td></tr><tr><td>Reference</td><td>Book 1 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Мы были в Хунайне вместе с Посланником Аллаха ﷺ, и он сказал о человеке, который утверждал, что он мусульманин: “Этот (человек) из числа обитателей Огня”. Когда началось сражение, этот человек яростно сражался, пока не был ранен. Тогда один из сподвижников сказал: “О Посланник Аллаха! Тот человек, о котором ты сказал, что он из числа обитателей Огня, сражался яростно на пути Аллаха, пока не умер”. И Пророк ﷺ сказал: “Он войдёт в Огонь!” Некоторые мусульмане уже стали сомневаться (в словах Пророка ﷺ), но тут один из присутствующих сказал: “Он не умер, однако он тяжело ранен”. Когда настала ночь он не смог выдержать боль от ран и убил себя. Когда Пророку ﷺ сообщили об этом, он сказал: “Аллаху Акбар (Аллах Велик)! Свидетельствую, что я раб Аллаха и Его Посланник!” Затем он велел Билялю объявить среди людей: “В Рай войдёт только мусульманин! И поистине, Аллах поддерживает эту религию (даже) с помощью грешного человека!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>305</td></tr><tr><td>Arabic No</td><td>111</td></tr><tr><td>Reference</td><td>Book 1 Hadith 212</td></tr></tbody></table></div>
 

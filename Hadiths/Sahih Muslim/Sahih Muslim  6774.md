@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:A strong believer is bett
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] mereka berdua berkata; telah menceritakan kepada kami ['Abdullah bin Idris] dari [Rabi'ah bin 'Utsman] dari [Muhammad bin Yahya bin Habban] dari [Al A'raj] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Orang mukmin yang kuat lebih baik dan lebih dicintai oleh Allah Subhanahu wa Ta 'ala daripada orang mukmin yang lemah. Pada masing-masing memang terdapat kebaikan. Capailah dengan sungguh-sungguh apa yang berguna bagimu, mohonlah pertolongan kepada Allah Azza wa Jalla dan janganlah kamu menjadi orang yang lemah. Apabila kamu tertimpa suatu kemalangan, maka janganlah kamu mengatakan; 'Seandainya tadi saya berbuat begini dan begitu, niscaya tidak akan menjadi begini dan begitu'. Tetapi katakanlah; 'lni sudah takdir Allah dan apa yang dikehendaki-Nya pasti akan dilaksanakan-Nya. Karena sesungguhnya ungkapan kata 'law' (seandainya) akan membukakan jalan bagi godaan syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6774</td></tr><tr><td>Arabic No</td><td>2664</td></tr><tr><td>Reference</td><td>Book 46 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Сильный верующий лучше и любимее перед Аллахом, чем верующий слабый, однако в каждом из них есть благо. Будь упорным в том, что приносит тебе пользу, испрашивай помощи у Аллаха и не сдавайся. А если постигнет тебя нечто, то не говори: “Если бы я сделал так-то, то всё было бы так-то и так-то…”, отнюдь говори: “Это предопределил Аллах, и Он сделал так, как Ему было угодно”, поскольку “если бы...” открывает возможность для козней шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6774</td></tr><tr><td>Arabic No</td><td>2664</td></tr><tr><td>Reference</td><td>Book 46 Hadith 52</td></tr></tbody></table></div>
 

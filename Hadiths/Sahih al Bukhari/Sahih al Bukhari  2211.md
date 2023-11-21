@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hind, the mother of Mu'awiya said to Allah's Messenger (ﷺ), "A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari ['Urwah] dari ['Aisyah radliallahu 'anha]; Hindun, ibu dari Mu'awiyah berkata, kepada Rasulullah shallallahu 'alaihi wasallam; "Sesungguhnya Abu Sufyan adalah seorang yang kikir. Apakah dibenarkan bila aku mengambil dari hartanya secara sembunyi-sembunyi?" Maka Beliau bersabda: "Ambillah buatmu dan anak-anakmu sekedar apa yang patut untuk mencukupi kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 34 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Хинд, мать Му‘авийи, сказала Посланнику Аллаха ﷺ: “Поистине, Абу Суфйан — человек скупой, так будет ли грехом, если я стану брать (что-то) из его денег тайно?” Он сказал: “Бери то, чего для тебя и твоим сыновьям будет достаточно, сообразно обычаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 34 Hadith 157</td></tr></tbody></table></div>
 

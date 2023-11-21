@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amra daughter of 'Abd al Rahman narrated that she heard (from) 'A'isha and made 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] -terkait dengan hadits yang telah dibacakan kepadanya- dari [Abdullah bin Abu Bakar] dari [bapaknya] dari [Amrah binti Abdurrahman] bahwa ia telah mengabarkan kepadanya bahwa ia telah mendengar [Aisyah] dan telah dituturkan kepadanya bahwa Ibnu Umar berkata, "Sesungguhnya mayit itu benar-benar akan disiksa lantaran tangisan mereka yang masih hidup." Maka Aisyah pun berkata, "Semoga Allah mengampuni Abu Abdurrahman, sesungguhnya ia tidaklah berdusta, namun ia telah lupa atau salah. Peristiwa sebenarnya adalah; suatu ketika Rasulullah shallallahu 'alaihi wasallam melewati jenazah wanita Yahudi dan ditangisi, maka beliau pun bersabda: 'Mereka benar-benar menangisinya, dan mayit itu benar-benar akan disiksa di dalam kuburnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2156</td></tr><tr><td>Arabic No</td><td>932.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Амра бинт ‘Абдуррахман, передала, что она слышала, как в присутствии ‘Аиши кто-то упомянул, что ‘Абдуллах ибн ‘Умар говорит: «Поистине, покойный подвергается мучениям из-за плача живого». (Услышав это), ‘Аиша сказала: «Да простит Аллах Абу ‘Абдуррахмана, ибо, поистине, он не солгал, а забыл или ошибся. (На самом деле однажды) Посланник Аллаха ﷺ, проходивший мимо (могилы) какой-то иудейки, которую оплакивали (её родные), сказал: “Поистине, они оплакивают её, а ведь она (и так) подвергается мучениям в своей могиле!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2156</td></tr><tr><td>Arabic No</td><td>932.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 34</td></tr></tbody></table></div>
 

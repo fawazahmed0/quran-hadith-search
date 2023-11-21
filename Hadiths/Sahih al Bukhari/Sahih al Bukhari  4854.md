@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:I heard the Prophet (ﷺ) reciting Surat at-Tur in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] dia berkata; mereka menceritakan kepadaku dari [Az Zuhri] dari [Muhammad bin Jubair bin Muth'im] dari [Bapaknya radliallahu 'anhu] dia berkata; AKu mendengar Nabi shallallahu 'alaihi wasallam membaca surat At Thuur pada shalat Maghrib. Tatkala sampai ayat ini; Apakah mereka diciptakan tanpa sesuatupun ataukah mereka yang menciptakan (diri mereka sendiri)? Ataukah mereka telah menciptakan langit dan bumi itu?; sebenarnya mereka tidak meyakini (apa yang mereka katakan). Ataukah di sisi mereka ada perbendaharaan Tuhanmu atau merekakah yang berkuasa?. (At Thuur: 35-37). Beliau bersabda: 'Hatiku hampir saja akan terbang.' Sufyan berkata; Adapun aku mendengar hal itu dari Az Zuhri ia bercerita dari Muhammad bin Jubair bin Muth'im dari Bapaknya aku mendengar Nabi shallallahu 'alaihi wasallam membaca surat At Thuur pada shalat Maghrib, dan aku tidak mendengarnya ada tambahan lagi dari apa yang mereka katakan kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4854</td></tr><tr><td>Arabic No</td><td>4854</td></tr><tr><td>Reference</td><td>Book 65 Hadith 375</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Мут‘им, да будет доволен им Аллах, сказал: «(Однажды) я услышал, как во время закатной молитвы Пророк ﷺ читает (суру) “ат-Тур”, и когда он дошёл до тех аятов(, в которых говорится): “Неужели они были сотворены сами по себе (или просто так)? Или же они сами являются творцами? Или же это они сотворили небеса и землю? О нет! Просто они лишены убежденности. Неужели у них находятся сокровищницы твоего Господа? Или же они сами являются владыками?” — сердце моё было готово улететь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4854</td></tr><tr><td>Arabic No</td><td>4854</td></tr><tr><td>Reference</td><td>Book 65 Hadith 375</td></tr></tbody></table></div>
 

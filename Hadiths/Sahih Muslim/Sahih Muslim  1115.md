@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), lorsqu'il sortait, le jour de f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdullah bin Numair] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] "Bahwa Rasulullah shallallahu'alaihiwasallam dahulu apabila keluar pada hari raya, maka beliau memerintahkan (pembantunya) membawa tombak, lalu diletakkan di hadapan beliau, lalu beliau shalat menghadap kepadanya, sedangkan orang-orang shalat di belakangnya. Beliau melakukan hal terse but dalam sebuah perjalanan, dari sana para pemimpin menjadikan tombak sebagai acuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1115</td></tr><tr><td>Arabic No</td><td>501.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что, выходя (на молитву) в день праздника, Посланник Аллаха ﷺ приказывал, чтобы (в землю) перед ним воткнули короткое копьё, после чего совершал перед ним молитву, а люди молились позади него. Так же он поступал, находясь в пути, а потом этот обычай переняли и другие правители
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1115</td></tr><tr><td>Arabic No</td><td>501.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 277</td></tr></tbody></table></div>
 

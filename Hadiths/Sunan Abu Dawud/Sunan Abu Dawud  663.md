@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Nu’man b. Bashir said:the prophet (ﷺ) used to straighten us in the rows o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Simak bin Harb] dia berkata; Saya telah mendengar [An-Nu'man bin Basyir] berkata; Nabi shallallahu 'alaihi wasallam biasa meluruskan shaf kami, sebagaimana beliau meluruskan anak panah, sehingga setelah beliau merasa bahwa kami telah memenuhi perintahnya dan memahami benar benar, tiba tiba pada suatu hari beliau menghadapkan wajahnya kepada kami dan melihat masih ada seseorang yang menonjolkan dadanya ke depan, maka beliau bersabda: "Hendaklah kalian meratakan shaf, atau (kalau tidak), maka Allah akan merubah wajah-wajah kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (436)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>663</td></tr><tr><td>Arabic No</td><td>663</td></tr><tr><td>Reference</td><td>Book 2 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Симак ибн Харб сказал: «Я слышал, как ан-Ну‘ман ибн Башир говорил: “Пророк ﷺ всегда выравнивал наши ряды так тщательно, будто собирался проверять по ним прямоту стрел, и он делал это до тех пор, пока не убеждался, что мы поняли, чего он (от нас добивается). Однажды он повернулся лицом к людям и увидев, что грудь одного из присутствовавших выдаётся вперёд, сказал: “Вам следует выравнивать свои ряды, или Аллах обязательно изменит ваши лица”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (436)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>663</td></tr><tr><td>Arabic No</td><td>663</td></tr><tr><td>Reference</td><td>Book 2 Hadith 273</td></tr></tbody></table></div>
 

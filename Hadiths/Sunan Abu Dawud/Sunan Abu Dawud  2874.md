@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Messenger of Allah (ﷺ) as saying: Refrain from seve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani], telah menceritakan kepada kami [Ibnu Wahb] dari [Sulaiman bin Bilal] dari [Tsaur bin Zaid] dari [Abu Al Ghaits] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jauhilah tujuh perkara yang membinasakan!" Beliau ditanya; wahai Rasulullah, apakah perkara tersebut? Beliau berkata: ""Mensekutukan Allah, sihir, membunuh jiwa yang Allah haramkan kecuali dengan haq, memakan riba, memakan harta anak yatim, lari dari peperangan, menuduh seorang wanita mukmin yang suci dan baik berbuat zina." Abu Daud berkata; Abu Al Ghaits Salim adalah mantan budak Ibnu Muthi'. Telah menceritakan kepada kami [Ibrahim bin Ya'qub Al Juzajani], telah menceritakan kepada kami [Mu'adz bin Hani'], telah menceritakan kepada kami [Harb bin Syaddad], telah menceritakan kepada kami [Yahya bin Abu Katsir], dari [Abdul Hamid bin Sinan] dari ['Ubaid bin 'Umair], dari [ayahnya], bahwa ia telah menceritakan kepadanya, dan ia pernah menyertai Rasulullah shallallahu 'alaihi wasallam. Bahwa seorang laki-laki pernah bertanya kepada Nabi shallallahu 'alaihi wasallam, ia berkata; wahai Rasulullah, apakah dosa-dosa besar itu? Kemudian beliau berkata: "Dosa-dosa besar tersebut ada sembilan." Kemudian ia menyebutkan maknanya, dan ia tambahkan; dan durhaka kepada kedua orang tua muslim, dan menghalalkan hal-hal yang haram dilakukan di Baitul Haram kiblat kalian (seperti berburu, memotoh pepohonan), baik yang hidup maupun yang mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2874</td></tr><tr><td>Arabic No</td><td>2874</td></tr><tr><td>Reference</td><td>Book 18 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Избегайте семи губительных грехов». Кто-то спросил: «О Посланник Аллаха, а что это за грехи?» Он сказал: «Придавание Аллаху сотоварищей /ширк/, колдовство, убийство человека, которого Аллах запретил убивать иначе, как по праву, ростовщичество, проедание имущества сироты, отступление в день наступления и обвинение в прелюбодеянии целомудренных верующих женщин, даже не помышляющих о подобном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2874</td></tr><tr><td>Arabic No</td><td>2874</td></tr><tr><td>Reference</td><td>Book 18 Hadith 13</td></tr></tbody></table></div>
 

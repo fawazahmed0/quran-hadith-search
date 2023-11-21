@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Hawalah al-Azdi: The Messenger of Allah (ﷺ) sent us on f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Asad bin Musa], telah menceritakan kepada kami [Mu'awiyah bin Shalih], telah menceritakan kepadaku [Dhamrah] bahwa [Ibnu Zughb Al Iyadi] telah menceritakan kepadanya, ia berkata; [Abdullah bin Hawalah Al Azdi] singgah di tempatku, lalu ia berkata kepadaku; Rasulullah shallallahu 'alaihi wasallam mengutus kami untuk mendapat rampasan perang dengan berjalan kaki. Kemudian kami tidak mendapatkan sesuatu, dan beliau mengetahui kondisi berat pada wajah kami. Kemudian beliau berdiri dan berdoa: ALLAAHUMMA LAA TAKILHUM ILAYYA FA-ADH'UFA 'ANHUM, WA LAA TAKILHUM ILAA ANFUSIHIM FAYA'JIZUU ANHAA, WA LAA TAKILHUM ILAN NAASI FAYASTA'RUU 'ALAIHIM (Ya Allah, janganlah engkau serahkan mereka kepadaku sehingga aku lemah (tidak kuat) menanggung mereka, dan janganlah Engkau serahkan diri mereka kepada mereka sehingga mereka tidak mampu menanggung diri mereka. Dan janganlah Engkau serahkan mereka kepada orang-orang sehingga mereka mementingkan diri mereka atas diri mereka."kemudian beliau meletakkan tanganku di atas kepalaku. Kemudian beliau berkata: "Wahai anak Hawalah, apabila engkau melihat kekhilafahan telah turun di bumi yang disucikan maka sungguh telah dekat bencana gempa dan berbagai kesedihan serta perkara-perkara besar. Pada saat itu Hari Kiamat lebih dekat kepada orang-orang daripada tanganku ini dari kepalaku." Abu Daud berkata; Abdullah bin Hawalah adalah orang Himsh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2535</td></tr><tr><td>Arabic No</td><td>2535</td></tr><tr><td>Reference</td><td>Book 15 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2535</td></tr><tr><td>Arabic No</td><td>2535</td></tr><tr><td>Reference</td><td>Book 15 Hadith 59</td></tr></tbody></table></div>
 

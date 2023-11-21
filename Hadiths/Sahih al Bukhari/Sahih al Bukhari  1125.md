@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundab bin 'Abdullah:Gabriel did not come to the Prophet (for some time
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Al Aswad bin Qais] dari [Jundab bin 'Abdullah radliallahu 'anhu] berkata; "Malaikat Jibril Alaihissalam sekian lama tidak datang menyampaikan wahyu kepada Nabi shallallahu 'alaihi wasallam hingga kemudian ada seorang wanita Quraisy berkata; "Syetannya telah meninggalkannya". Maka turunlah surah Adh-Dhuha: "Wadh dhuhaa wal laili idza sajaa. Maa wadda'aka rabbuka wa qalaa" (Demi waktu dhuha (matahari sepenggalahan naik) dan demi malam apabila telah sunyi (gelap). Rabbmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu") (QS. Adhdhuha)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>1125</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундаб ибн ‘Абдуллах сказал: «(Однажды) Джибриль ﷺ не приходил к Пророку ﷺ (в течение некоторого времени), и одна из курайшитских женщин сказала: “Запоздал его шайтан”. Тогда снизошло: “Клянусь утром! Клянусь ночью, когда она густеет! Не покинул тебя твой Господь и не возненавидел”(сура “ад-Духа”, аят 2)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>1125</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Maula al-Mahri reported that he came to Abu Sa'id al-Khudri during the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [Abu Sa'id] Maula Al Mahri bahwa ia menjumpai [Abu Sa'id Al Khudri] pada malam-malam yang panas, dan meminta petunjuk dalam menghadapi kesulitan hidup di Madinah, juga mengadukan padanya tentang mahalnya biaya hidup dan banyaknya keluarga yang ditanggung, serta memberitahukan bahwa dia tidak mampu bersabar lagi menghadapi kesulitan hidup di Madinah. Jadi Abu Sa'id Al Khudri berkata kepada Abu Sa'id (mantan budak Al Mahri itu), "Sungguh rugi kamu, aku tidak menyuruhmu begitu. Sungguhnya aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidaklah seseorang bersabar terhadap kesulitan hidup di Madinah lalu dia mati, melainkan aku akan menjadi penolongnya (atau saksinya) kelak pada hari kiamat, jika orang tersebut adalah seorang muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3339</td></tr><tr><td>Arabic No</td><td>1374.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 543</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3339</td></tr><tr><td>Arabic No</td><td>1374.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 543</td></tr></tbody></table></div>
 

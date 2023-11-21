@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Umama al-Bahili:I saw some agricultural equipment and said: "I hear
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada saya ['Abdullah bin Salim Al Himshiy] telah menceritakan kepada kami [Muhammad bin Zaiyad Al Alhaniy] dari [Abu Umamah Al Bahiliy] berkata, ketika ia melihat cangkul atau sesuatu dari alat bercocok tanam, lalu ia berkata, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barang seperti ini tidak masuk kerumah suatu kaum kecuali Allah akan memberikan kehinaan padanya". Abu Abdullah Al Bukhariy berkata: "Dan nama Abu Umamah adalah Shuday bin 'Ajlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>2321</td></tr><tr><td>Reference</td><td>Book 41 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Абу Умама аль-Бахили, да будет доволен им Аллах, увидевший плуг и какие-то другие орудия, предназначенные для вспахивания земли, сказал: «Я слышал, как Пророк ﷺ сказал: “(После того как) это появляется в доме (кого-нибудь из) людей, Аллах обязательно приводит (в этот дом и) унижение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>2321</td></tr><tr><td>Reference</td><td>Book 41 Hadith 2</td></tr></tbody></table></div>
 

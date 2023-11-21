@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Hani b. Abu Talib reported:It was the day of the conquest (of Mecca) that sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabarkan kepada kami [al-Laits] dari [Yazid bin Abi Habib] dari [Sa'id bin Abi Hind] bahwa [Abu Murrah, maula 'Aqil] telah menceritakan kepadanya "Bahwa [Ummu Hani' bintu Abi Thalib] telah menceritakan kepadanya bahwa dia ketika tahun Fath al-Makkah mendatangi Rasulullah Shallallahu'alaihiwasallam, sedangkan beliau di bagian dataran teratas dari Makkah, Rasulullah sedang mandi, lalu Fathimah menutupinya, kemudian beliau mengambil bajunya, lalu berselimut dengannya, kemudian shalat delapan raka'at pada pagi dhuha." Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [al-Walid bin Katsir] dari [Sa'id bin Abi Hind] dengan sanad ini, seraya dia berkata, 'Lalu putrinya, Fathimah menutupinya dengan bajunya, ketika beliau telah mandi maka beliau mengambil bajunya dan berselimut dengannya, kemudian melakukan shalat delapan sujud, dan itulah shalat dhuha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>336.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается Умм Хани бинт Аби Талиб передала, что, когда в год победы она пришла к Посланнику Аллаха ﷺ, находившемуся в верхней части Мекки, он совершал полное омовение, а Фатима прикрывала его (одеждой). Потом он взял свою одежду и завернулся в неё, а потом совершил (дополнительную) утреннюю /духа/ молитву в восемь рак‘атов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>336.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 87</td></tr></tbody></table></div>
 

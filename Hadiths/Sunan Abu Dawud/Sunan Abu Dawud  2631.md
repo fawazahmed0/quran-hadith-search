@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salim Abu Al Nadr, client of ‘Umar bin ‘Ubaid Allaah that is Ibn Ma’mar wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa], telah mengabarkan kepada kami [Abu Ishaq Al Fazari], dari [Musa bin 'Uqbah] dari [Salim Abu An Nadhr] mantan budak Umar bin 'Ubaidullah bin Ma'mar, dan ia dahulu adalah sekretarisnya. Ia berkata; [Abdullah bin Abu Aufa] telah menulis surat kepadanya ketika ia keluar menuju Al Haruriyyah, bahwa Rasulullah shallallahu 'alaihi wasallam pada beberapa hari ketika bertemu dengan musuh beliau berkata: "Wahai manusia, janganlah kalian berharap bertemu dengan musuh, dan mohonlah keselamatan kepada Allah ta'ala. Apabila kalian telah bertemu dengan mereka maka bersabarlah, dan ketahuilah bahwa Surga di bawah naungan pedang." Kemudian beliau berdoa: "Ya Allah, Yang menurunkan Al Qur'an, Yang menjalankan awan, dan Yang mengalahkan kelompok-kelompok musuh, kalahkan mereka dan menangkan kami atas mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3024) Sahih Muslim (1742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2631</td></tr><tr><td>Arabic No</td><td>2631</td></tr><tr><td>Reference</td><td>Book 15 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3024) Sahih Muslim (1742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2631</td></tr><tr><td>Arabic No</td><td>2631</td></tr><tr><td>Reference</td><td>Book 15 Hadith 155</td></tr></tbody></table></div>
 

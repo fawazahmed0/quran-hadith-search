@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakrah: Sa'id ibn AbulHasan said: When AbuBakrah came to us to give 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abdu Rabbih bin Sa'id] dari [Abu Abdullah] -mantan budak keluarga burdah- dari [Sa'id bin Abu Al Hasan] ia berkata, " [Abu Bakrah] datang dalam sebuah pertemuan, lalu ada seorang laki-laki berdiri dari tempat duduknya, namun Abu Bakrah enggan untuk menempati tempat duduknya. Kemudian ia berkata, "Nabi shallallahu 'alaihi wasallam melarang dari hal yang semacam ini, dan beliau juga melarang seseorang mengelap tangannya dengan kain milik seseorang yang ia juga belum mengenakannya (maksudnya menggunakan harta milik orang lain)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827</td></tr><tr><td>Arabic No</td><td>4827</td></tr><tr><td>Reference</td><td>Book 43 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4827</td></tr><tr><td>Arabic No</td><td>4827</td></tr><tr><td>Reference</td><td>Book 43 Hadith 55</td></tr></tbody></table></div>
 

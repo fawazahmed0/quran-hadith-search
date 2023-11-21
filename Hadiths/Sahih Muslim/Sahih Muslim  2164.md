@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya reported that the Messenger of Allah (ﷺ) took pledge from us (incl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Asbath] telah menceritakan kepada kami [Hisyam] dari [Hafshah] dari [Ummu 'Athiyah] ia berkata; "Rasulullah shallallahu 'alaihi wasallam telah membai'at kami untuk tidak melakukan Niyahah (meratapi mayit). Maka tidak seorang wanita pun dari kami yang wafat (lalu kami meratapinya) kecuali lima orang, termasuk di antaranya adalah Ummu Sulaim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2164</td></tr><tr><td>Arabic No</td><td>936.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Умм ‘Атыййа сказала: «Принимая от нас клятву (на верность), Посланник Аллаха ﷺ взял с нас обещание не причитать по покойным, но никто из нас не выполнил его, кроме пяти (женщин) одна из которых Умм Суляйм»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2164</td></tr><tr><td>Arabic No</td><td>936.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 42</td></tr></tbody></table></div>
 

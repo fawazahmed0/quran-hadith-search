@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Miswar bin Makhramah and al-Marwan said the Messenger of Allah (SWAS) proceed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdul A'la bin Hammad], telah menceritakan kepada Kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Urwah] dari [Al Miswar bin Makhramah] serta [Marwan bin Al Hakam], bahwa mereka berdua berkata; Rasulullah shallallahu 'alaihi wasallam keluar pada tahun Hudaibiyah, tatkala beliau telah sampai di Dzul Hulaifah beliau mengalungi hewan kurbannya dan melukainya serta berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1754</td></tr><tr><td>Arabic No</td><td>1754</td></tr><tr><td>Reference</td><td>Book 11 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Аль-Мисвара ибн Махрама и Марвана ибн аль-Хакама, да будет доволен Аллах ими обоими, что в год Худайбии Посланник Аллаха ﷺ отправился в путь и, когда он добрался до Зуль-Хулейфы, он пометил жертвенный скот повязками и кровью и облачился в ихрам
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1754</td></tr><tr><td>Arabic No</td><td>1754</td></tr><tr><td>Reference</td><td>Book 11 Hadith 34</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) sent us who were three-hund
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Sufyan] dia berkata; yang kami hafal dari ['Amru bin Dinar] dia berkata; Aku mendengar [Jabir bin 'Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam mengutus kami sebanyak tiga ratus penunggang kuda dan pemimpin kami ketika itu adalah Abu Ubaidah bin Jarrah untuk mengintai unta milik orang Qurais. Kemudian kami bermukim di pantai selama setengah bulan. Hingga kami merasa sangat lapar. akhirnya kami memakan daun-daunan yang gugur. Karena itu pasukan kami tersebut dinamai pasukan Khabat (Khabat artinya daun yang gugur). Tiba-tiba laut melemparkan ikan yang disebut Al Anbar. Kami pun makan dari ikan tersebut selama setengah bulan. Dari tubuhnya yang penuh lemak, kami oleskan ke sejujur tubuh kami hingga tubuh kami pulih kembali. Kemudian Abu Ubaidah mengambil tulang rusuk ikan itu, lalu ia pancangkan seukuran orang yang paling tinggi. Sufyan berkata; ia memancangkan tulang rusak itu, lalu memerintahkan seseorang dan untanya melewati dibawahnya. Jabir berkata; di antara pasukan ada yang menyembelih tiga hewan tunggangan, kemudian menyembelih tiga lagi, kemudian menyembelih lagi tiga, lalu hal itu dilarang oleh Abu Ubaidah. Sedangkan 'Amru berkata; Telah mengabarkan kepada kami Abu Shalih bahwa Qais bin Sa'ad berkata kepada Bapaknya; Aku bersama pasukan, lalu mereka kelaparan, kemudian kami disuruh menyembelih binatang, kami pun menyembelih lagi. Namun setelah itu kami kelaparan lagi, hingga kami disuruh menyembelih sampai empat kali. Setelah itu kami dilarang menyembelih lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4361</td></tr><tr><td>Arabic No</td><td>4361</td></tr><tr><td>Reference</td><td>Book 64 Hadith 387</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса сообщается, что Джабир), да будет доволен им Аллах, сказал: «Море выбросило нам животное, именуемое “‘анбар”, и мы полмесяца ели (его мясо) и натирались его жиром, пока наши тела (не пришли в свое обычное состояние)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4361</td></tr><tr><td>Arabic No</td><td>4361</td></tr><tr><td>Reference</td><td>Book 64 Hadith 387</td></tr></tbody></table></div>
 

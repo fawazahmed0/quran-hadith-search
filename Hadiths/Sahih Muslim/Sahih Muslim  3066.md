@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) is reported to have said that he did not
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Amru bin Harits] bahwa [Qatadah bin Di'amah] telah menceritakan kepadanya bahwa [Abu Thufail Al Bakri] telah menceritakan kepadanya, bahwa ia mendengar [Ibnu Abbas] berkata; "Saya tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam mencium (bagian dari Baitullah) kecuali dua rukun Yamani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
 

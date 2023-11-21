@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:Allah's Messenger (ﷺ) proceeded from 'Arafat till when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Musa bin 'Uqbah] dari [Kuraib] mantan budak Ibnu 'Abbas, dari [Usamah bin Zaid] bahwa ia mendengarnya berkata, "Rasulullah shallallahu 'alaihi wasallam bertolak meninggalkan 'Arafah hingga setelah sampai di lembah (jalan di sisi gunung) beliau turun buang air kecil, kemudian beliau berwudlu namun dengan wudlu' yang ringan. Aku lalu bertanya, "Apakah akan shalat wahai Rasulullah? ' beliau menjawab: "Shalat masih ada di depanmu." Beliau lalu mengendarai tunggangannya hingga sampai di Muzdalifaah beliau turun dan wudlu' secara sempurna, kemudian iqamah dikumandangkan, dan beliau pun melaksanakan shalat Maghrib. Kemudian orang-orang menambatkan unta-unta mereka pada tempatnya, lalu iqamat isya' dikumandangkan, beliau lalu mengerjakan shalat isya' tanpa mengerjakan shalat yang lain di antara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>139</td></tr><tr><td>Arabic No</td><td>139</td></tr><tr><td>Reference</td><td>Book 4 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд, да будет доволен Аллах ими обоими, сказал:\n«Когда Посланник Аллаха ﷺ двинувшийся с ‘Арафата (в Муздалифу), достиг ущелья, он спешился и помочился, после чего совершил облегчённое омовение. Я спросил: “(Настало время) молитвы, о Посланник Аллаха?” — а он ответил: “(Место) молитвы перед тобой”. Затем (Пророк ﷺ) сел верхом, достигнув же Муздалифы, он спешился и совершил омовение уже самым тщательным образом. После этого было объявлено о начале молитвы, и он совершил закатную /магъриб/ молитву. Затем каждый человек заставил своего верблюда опуститься на колени на своём месте, а после этого было объявлено о начале вечерней /‘ишаъ/ молитвы, и (Пророк ﷺ) совершил эту молитву, а между этими двумя (обязательными молитвами дополнительных молитв) он не совершал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>139</td></tr><tr><td>Arabic No</td><td>139</td></tr><tr><td>Reference</td><td>Book 4 Hadith 5</td></tr></tbody></table></div>
 

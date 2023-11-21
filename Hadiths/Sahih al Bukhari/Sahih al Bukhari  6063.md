@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) continued for such-and-such period imagining t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; "Nabi shallallahu 'alaihi wasallam tetap termenung seperti ini dan ini, sehingga beliau dibuat seakan-akan telah melakukan sesuatu terhadap isterinya padahal beliau tidak melakukannya." Aisyah melanjutkan; "Sampai di suatu hari beliau bersabda: "Wahai Aisyah, apakah kamu telah merasakan bahwa Allah telah memberikan fatwa (menghukumi) dengan apa yang telah aku fatwakan (hukumi)? Dua orang laki-laki telah datang kepadaku, lalu salah seorang dari keduanya duduk di kakiku dan satunya lagi di atas kepalaku. Kemudian orang yang berada di kakiku berkata kepada orang yang berada di atas kepalaku; "Kenapakah laki-laki ini?" temannya menjawab; "Dia terkena sihir.' Salah seorang darinya bertanya; "Siapakah yang menyihirnya?" temannya menjawab; "Labid bin Al A'sham." Salah satunya bertanya; "Dengan benda apakah dia menyihir?" temannya menjawab; "Dengan seladang mayang kurma dan rambut yang terjatuh ketika disisir yang diletakkan di bawah batu dalam sumur Dzarwan." Kemudian Nabi shallallahu 'alaihi wasallam mendatanginya, lalu bersabda: "Inilah sumur yang diperlihatkan kepadaku, seakan-akan pohon kurmanya bagaikan kepala syetan dan seolah-olah airnya berubah bagaikan rendaman pohon inai." Lalu Nabi shallallahu 'alaihi wasallam memerintahkan untuk mengeluarkannya, kemudian barang tersebut pun dikeluarkan. Aisyah berkata; "aku bertanya; "Wahai Rasulullah, tidakkah anda menjampinya (meruqyahnya)?" maka Nabi shallallahu 'alaihi wasallam menjawab: "Tidak, sesungguhnya Allah telah menyembuhkanku dan aku hanya tidak suka memberikan kesan buruk kepada orang lain dari peristiwa itu." Aisyah berkata; "Labid bin A'sham adalah seorang laki-laki dari Bani Zuraiq yang memiliki hubungan dengan orang-orang Yahudi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>6063</td></tr><tr><td>Reference</td><td>Book 78 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время) Пророк ﷺ (был околдован до такой степени, что) ему стало казаться, будто он вступал в половую близость со своими жёнами, хотя (на самом деле) он этого не делал. И в один день он сказал мне: “О ‘Аиша, поистине, Аллах дал мне совет относительно того, о чём я просил у Него совета. (Во сне) ко мне явились два человека, один из которых сел у меня в ногах, а другой — у моего изголовья, после чего тот, кто сидел у меня в ногах спросил того, кто сидел у изголовья: “Что с этим человеком?” Тот ответил: “Он околдован”. Он спросил: “Кто же околдовал его?” Тот ответил: “Лябид ибн аль-А‘сам”. Он спросил: “Что (он для этого использовал)?” Тот ответил: “Гребень и очёски волос, которые находятся в кожуре пыльцы пальмы мужского рода под камнем в колодце Заруан”. И Пророк ﷺ пришёл (к колодцу) и сказал: “Это колодец, который был показан мне (во сне), пальмы, (растущие около) него, подобны головам шайтанов, а (по цвету) его вода подобна настою хны”. Затем по его велению это было извлечено оттуда. Я сказала: “О Посланник Аллаха, почему ты не развязал его (сняв колдовство)?” Он сказал: “Аллах уже исцелил меня, и я не хочу, чтобы зло распространялось на кого-то из людей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>6063</td></tr><tr><td>Reference</td><td>Book 78 Hadith 93</td></tr></tbody></table></div>
 

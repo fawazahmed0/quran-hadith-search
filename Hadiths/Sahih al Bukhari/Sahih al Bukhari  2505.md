@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (along with his companions) reached Mecca in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] telah mengabarkan kepada kami ['Abdul Malik bin Juraij] dari ['Atha'] dari [Jabir] dan [Thowus] serta [Ibnu 'Abbas] radliallahu 'anhuma, keduanya berkata; Nabi shallallahu 'alaihi wasallam dan para shahabat Beliau berangkat pada waktu pagi tanggal empat belas Dzul Hijjah untuk melaksanakan hajji dan tidak ada sesuatupun yang menghalangi mereka. Ketika kami telah sampai, Beliau memerintahkan kami untuk menjadikannya sebagai niat 'umrah lalu kami boleh mencampuri isteri-isteri kami. Kemudian sabda Beliau tersebut tersebar. 'Atha' berkata; Maka Jabir berkata: "Lalu ada seorang diantara kami yang pergi menuju Mina kemudian dia menceritakan bahwa dia mengeluarkan air mani". Jabir berkata, agar orang itu merahasiakan kejadiannya. Namun kemudian peristiwa itu sampai juga kepada Nabi shallallahu 'alaihi wasallam lalu Beliau berdiri menyampaikan khatbah kepada kami, sabda Beliau: "Telah sampai kepadaku berita bahwa ada sebagian orang yang berkata, begini begini. Demi Allah, akulah orang yang paling baik dan paling taqwa kepada Allah diantara mereka. Seandainya aku bisa mengulang kembali urusanku yang telah kulakukan niscaya aku tidak membawa sembelihan, dan seandainya aku tidak membawa hewan sembelihan (Al hadyu) tentu aku akan bertahallul". Maka Suraqah bin Malik bin Ju'tsum berkata: "Wahai Rasulullah, ketentuan itu berlaku khusus untuk kami saja atau untuk selamanya?" Beliau bersabda: "Tidak, tapi untuk selamanya". Jabir berkata: "Kemudian datang 'Ali bin Abu Tholib". Lalu seorang dari keduanya berkata; 'Ali berkata: "Labbaik, aku berniat hajji sebagaimana Rasulullah shallallahu 'alaihi wasallam bertalbiyah (berniat hajji). Dan dia berkata: Berkata, yang lain: "Labbaik, aku berniat hajji seperti hajjinya Rasulullah shallallahu 'alaihi wasallam." Maka Nabi shallallahu 'alaihi wasallam memerintahkan untuk mengenakan ihramnya dan mengambil bagian pada hewan sembelihannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2505</td></tr><tr><td>Arabic No</td><td>2505</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен им Аллах, сказал: «Пророк ﷺ прибыл вместе со своими сподвижниками (в Мекку) утром четвертого числа месяца зуль-хиджжа, произнеся тальбию, с намерением совершать только хадж. Когда мы прибыли, он приказал нам изменить намерение на совершение умры, и после выхода из ихрама мы могли совершать половую близость с нашими женщинами. Люди начали говорить об этом. Джабир сказал: “Неужели мы отправимся в Мину, тогда как с полового органа каждого из нас капает семя!?” И Джабир указал рукой (изобразив это). Когда это дошло до Пророка ﷺ, он обратился к людям, сказав: “До меня дошло, что некоторые говорят то-то и то-то. Клянусь Аллахом, я более покорен Аллаху и более богобоязнен, чем они! Поистине, если бы я знал заранее то, что я узнал потом, я не стал бы гнать с собой жертвенный скот, и если бы со мной не было жертвенного скота, я бы вышел из состояния ихрама!” Тогда Сурака ибн Малик ибн Джуπшум встал, и сказал: “О Посланник Аллаха! Это касается только нас или навсегда?” (Пророк ﷺ) сказал: “Нет, это навсегда”. А (потом из Йемена) прибыл ‘Али ибн Абу Талиб. И Джабир передал, что ’Али сказал: “Я объявил о таком же намерении, что и Посланник Аллаха ﷺ!” Ибн Аббас передал, что он сказал: “Я намереваюсь совершить такое же паломничество, что и Посланник Аллаха ﷺ!” И Пророк ﷺ приказал ему оставаться в ихраме и сделал его соучастником в жертвенных животных»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2505</td></tr><tr><td>Arabic No</td><td>2505</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

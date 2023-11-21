@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Musa Al Faari] berkata, telah menceritakan kepada kami [Syarik] dari [Abu Hushain] dari [Umair bin Sa'id] dari [Ali radliallahu 'anhu] ia berkata, "Aku tidak pernah menerapkan hukuman had kecuali pada peminum khamer, sebab Rasulullah shallallahu 'alaihi wasallam tidak memberi contoh dalam hal itu sesuatu pun. Tetapi itu hanyalah (suatu) perkataan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4486</td></tr><tr><td>Arabic No</td><td>4486</td></tr><tr><td>Reference</td><td>Book 40 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал‘Али: «Если я подвергну человека установленному Шариатом наказанию и он умрёт, то возмещение мне придётся платить только за пившего вино, потому что относительно него Посланник Аллаха ﷺ не оставил никакого предписания это только нечто, сказанное нами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4486</td></tr><tr><td>Arabic No</td><td>4486</td></tr><tr><td>Reference</td><td>Book 40 Hadith 136</td></tr></tbody></table></div>
 

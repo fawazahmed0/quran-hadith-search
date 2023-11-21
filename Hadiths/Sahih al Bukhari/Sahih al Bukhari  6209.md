@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once the Prophet (ﷺ) was on one of his journeys, and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Tsabit Al Bunani] dari [Anas bin Malik] dia berkata; Nabi shallallahu 'alaihi wasallam pernah dalam berada di suatu perjalanan, dan di kawal oleh seorang pengawal, lalu Nabi shallallahu 'alaihi wasallam bersabda: "Pelan-pelanlah wahai Anjasyah jika mengawal para wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>6209</td></tr><tr><td>Reference</td><td>Book 78 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды), когда Пророк ﷺ находился в одной из своих поездок, погонщик начал подгонять (верблюдов) пением, и Пророк ﷺ сказал ему: “(Веди верблюдов) медленнее, о Анджаша, (будто везёшь) бутылки! Горе тебе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>6209</td></tr><tr><td>Reference</td><td>Book 78 Hadith 233</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Qasim ibn Muhammad ibn AbuBakr: I said to Aisha! Mother, show me the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Ibnu Abu Fudaik], telah mengabarkan kepadaku ['Amr bin Utsman bin Hani'] dari [Al Qasim], ia berkata; aku menemui [Aisyah] kemudian aku katakan; wahai ibuku, perlihatkan kepadaku kuburan Nabi shallallahu 'alaihi wasallam, dan kedua sahabatnya radliallahu 'anhuma! Kemudian ia memperlihatkan tiga kuburan kepadaku yang tidak tinggi dan tidak rata dengan tanah di Bathha' halaman yang berwarna merah. Abu Ali berkata; dikatakan; sesungguhnya Rasulullah shallallahu 'alaihi wasallam di depan dan Abu Bakr di sisi kepalanya, sedang Umar berada di sisi kedua kakinya, kepalanya di sisi kedua kaki Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 21 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Касим передаёт: «Я зашёл к ‘Аише и сказал: “Матушка, покажи мне могилу Посланника Аллаха ﷺ и двух его товарищей, да будет доволен ими Аллах”. И она показала мне три могилы, не высоких, но и не низких, обложенных кучками красной обожжённой глины». Абу ‘Али сказал: «Говорят, что Абу Бакр похоронен рядом с Посланником Аллаха ﷺ так, что голова его (чуть ниже) головы Посланника Аллаха ﷺ, а голова (похороненного рядом) ‘Умара на уровне ног Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3220</td></tr><tr><td>Arabic No</td><td>3220</td></tr><tr><td>Reference</td><td>Book 21 Hadith 132</td></tr></tbody></table></div>
 

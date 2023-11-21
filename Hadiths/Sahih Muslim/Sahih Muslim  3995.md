@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying:A 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik bin Umair] dari [Rib'i bin Hirasy] dari [Hudzaifah] dari Nabi shallallahu 'alaihi wasallam, bahwa seorang laki-laki meninggal dunia kemudian dia dimasukkan ke surga, lantas dikatakan kepadanya, 'Apa amalanmu (sewaktu di dunia)? ' -ia menyebutkan atau disebutkan- Beliau bersabda: "Sesungguhnya dahulu saya pernah transaksi dengan orang-orang, lalu saya memberi tangguh kepada orang yang kesusahan dan mempermudah dalam urusan keuangan atau dalam pembayaran, oleh karena itu dosanya di ampuni." [Abu Mas'ud] berkata, "Dan saya mendengar hal itu dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3995</td></tr><tr><td>Arabic No</td><td>1560.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3995</td></tr><tr><td>Arabic No</td><td>1560.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 34</td></tr></tbody></table></div>
 

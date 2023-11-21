@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When the slave of anyone 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] telah menceritakan kepada kami [Daud bin Qais] dari [Musa bin Yasar] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila budakmu membuatkan makanan untukmu, kemudian ia membawakannya ke hadapanmu dalam keadaan matang dan telah mendapatkan lelahnya, maka suruhlah dia duduk dan makan bersama. Jika makanan itu hanya sedikit, maka letakkanlah di tanganya sesuap atau dua suap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>1663</td></tr><tr><td>Reference</td><td>Book 27 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>1663</td></tr><tr><td>Reference</td><td>Book 27 Hadith 64</td></tr></tbody></table></div>
 

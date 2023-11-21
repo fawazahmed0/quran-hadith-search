@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Dinar:We asked Ibn 'Umar whether a man who, while performing '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Amru bin Dinar] berkata: "Kami pernah bertanya kepada [Ibnu'Umar radliallahu 'anhuma] tentang seseorang yang thawaf di Ka'bah Baitullah keetika melaksanakan 'umrah namun belum melakukan sa'iy antara bukit Ash-Shafaa dan Al Marwah, apakah dia boleh berhubungan dengan isterinya?". Dia menjawab: "Nabi Shallallahu'alaihiwasallam pernah datang ke Baitullah untuk haji, Beliau thawaf di Baitullah tujuh kali putaran kemudian shalat dua raka'at di belakang Maqam (Ibrahim) lalu melakukan sa'iy antara bukit Shafa dan Marwah tujuh kali. ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah"). Dan kami pernah pula bertanya kepada [Jabir bin 'Abdullah radliallahu 'anhua] tentang hal ini. katanya: "Janganlah orang itu mendekati isterinya hingga dia melaksanakan sa'iy antara bukit Shafa dan Marwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1646</td></tr><tr><td>Arabic No</td><td>1646</td></tr><tr><td>Reference</td><td>Book 25 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И мы спросили Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, и он сказал: «Пусть ни за что не приближается к ней, пока не пробежит между (холмами) ас-Сафа и аль-Марва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1646</td></tr><tr><td>Arabic No</td><td>1646</td></tr><tr><td>Reference</td><td>Book 25 Hadith 127</td></tr></tbody></table></div>
 

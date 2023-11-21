@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: Al-Hajjaj ibn Hassan said: We entered upon Anas ibn Mal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah menceritakan kepada kami [Al Hajjaj bin Hassan] ia berkata; Kami masuk menemui [Anas bin Malik], lalu [saudara pererempuan Al Mughirah] menceritakan kepadaku, ia berkata, "Dahulu kamu masih bocah, dan kamu mempunyai dua tanduk (jambul), lalu Anas mengusap kepalamu dan mendoakan keberkahan untukmu. Ia lalu berkata, "cukurlah atau pangkaslah dua jambul ini, karena ini adalah hiasan orang-orang yahudi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4197</td></tr><tr><td>Arabic No</td><td>4197</td></tr><tr><td>Reference</td><td>Book 35 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хаджжадж ибн Хассан передаёт: Мы зашли как-то к Анасу ибн Малику, и моя сестра аль-Мугира рассказывала мне: «Ты был тогда маленьким мальчиком, и волосы твои были заплетены в две косы (или же у него было два хохолка), и Анас погладил тебя по голове, призвал на тебя благодать и сказал: “Сбрейте (или: обрежьте) это, ибо так ходят иудеи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4197</td></tr><tr><td>Arabic No</td><td>4197</td></tr><tr><td>Reference</td><td>Book 35 Hadith 39</td></tr></tbody></table></div>
 

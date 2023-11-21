@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) had big hands and feet, and I have not seen anyb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Jarir bin Hazim] dari [Qatadah] dari [Anas] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam adalah seseorang yang lengan dan kakinya besar, bagus wajahnya, saya belum pernah melihat orang yang menyerupainya baik sebelum dan sesudahnya, telapak tangan beliau juga lebar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5907</td></tr><tr><td>Arabic No</td><td>5907</td></tr><tr><td>Reference</td><td>Book 77 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «У Пророка ﷺ были крупные кисти рук и ступни, он был красив лицом, и не видел я ни раньше, ни позже подобного ему, и были у него мягкие руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5907</td></tr><tr><td>Arabic No</td><td>5907</td></tr><tr><td>Reference</td><td>Book 77 Hadith 124</td></tr></tbody></table></div>
 

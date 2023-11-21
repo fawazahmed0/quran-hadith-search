@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Yazid:'Abdullah;- performed the Hajj and we reached A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] berkata; Aku mendengar ['Abdurrahman bin Yazid] berkata: " ['Abdullah] (bin Mas'ud) radliallahu 'anhu melaksanakan hajji dan kami tiba di Muzdalifah ketika terdengar adzan tanda masuk waktu 'Isya' atau sekitar itu. Maka dia memerintahkan seseorang untuk mengumandangkan adzan lalu iqamat, lalu dia shalat Maghrib, lalu shalat sunnat dua raka'at sesudahnya, lalu dia mengajak makan malam, lalu dia menikmati makannya kemudian memerintahkan seseorang, aku kira dia memerintahkan seseorang untuk adzan dan iqamat, 'Amru berkata: Aku tidak mengetahui adanya keraguan kecuali dari Zuhair, kemudian dia shalat 'Isya' dua raka'at. Ketika fajar telah terbit dia berkata: "Sesungguhnya Nabi Shallallahu'alaihiwasallam tidak pernah shalat kecuali pada waktu seperti ini, di tempat ini (saat berada di Muzdalifah dan pada hari ini". Berkata, 'Abdullah (bin Mas'ud) radliallahu 'anhu: "Itulah dua shalat yang ditangguhkan waktu pelaksanaannya, yaitu shalat Maghrib dilaksanakan setelah orang-orang tiba di Al Muzdalifah dan shalat Shubuh ketika fajar telah terbit". Dia berkata: "Aku melihat Nabi Shallallahu'alaihiwasallam melaksanaknnya seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1675</td></tr><tr><td>Arabic No</td><td>1675</td></tr><tr><td>Reference</td><td>Book 25 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Язид рассказал: «Когда ‘Абдуллах совершал хадж, мы прибыли в Муздалифу во врем азана ‘иша, или близко к этому времени, и он приказал одному человеку произнести азан и икаму, затем он совершил молитву магъриб, а после неё совершил два рак‘ата. Затем он попросил принести ему ужин и поужинал. Затем он приказал произнести азан и икаму и совершил молитву ‘иша в два рак‘ата. Когда рассвело, ‘Абдуллах сказал: “В это время, в этом месте и в этот день Пророк ﷺ не совершал никакой другой молитвы, кроме этой”. ‘Абдуллах добавил: “Эти две молитвы сдвигаются со своего (привычного) времени: молитва магъриб совершается, когда люди достигают Муздалифу, и утренняя молитва на ранней заре”. Так же он добавил: “Я видел, как Пророк ﷺ делал так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1675</td></tr><tr><td>Arabic No</td><td>1675</td></tr><tr><td>Reference</td><td>Book 25 Hadith 155</td></tr></tbody></table></div>
 

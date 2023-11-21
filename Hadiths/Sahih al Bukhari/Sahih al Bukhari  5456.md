@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, 'When you eat, do not wipe your hand
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] berkata, telah menceritakan kepada kami [Sufyan] dari [Amru bin Dinar] dari [Atha] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian makan, maka janganlah ia mengelap tangannya hingga ia menjilatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5456</td></tr><tr><td>Arabic No</td><td>5456</td></tr><tr><td>Reference</td><td>Book 70 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Когда кто-нибудь из вас поест, пусть не вытирает руку, пока не оближет её сам или не даст облизать другому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5456</td></tr><tr><td>Arabic No</td><td>5456</td></tr><tr><td>Reference</td><td>Book 70 Hadith 85</td></tr></tbody></table></div>
 

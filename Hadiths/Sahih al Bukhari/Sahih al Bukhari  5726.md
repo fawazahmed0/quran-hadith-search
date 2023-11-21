@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:I heard Allah's Messenger (ﷺ) saying, "Fever is from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Al Ahwash] telah menceritakan kepada kami [Sa'id bin Masruq] dari ['Abayah bin Rifa'ah] dari kakeknya [Rafi' bin Khadij] dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Demam berasal dari hembusan nerakan Jahannam maka dinginkanlah ia dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5726</td></tr><tr><td>Arabic No</td><td>5726</td></tr><tr><td>Reference</td><td>Book 76 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Рафи‘ ибн Хадиджа, что Пророк ﷺ сказал: «Лихорадка — это (проявление) жара Геенны, поэтому охлаждайте её водой!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5726</td></tr><tr><td>Arabic No</td><td>5726</td></tr><tr><td>Reference</td><td>Book 76 Hadith 41</td></tr></tbody></table></div>
 

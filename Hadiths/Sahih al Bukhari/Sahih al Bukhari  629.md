@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:We were in the company of the Prophet (ﷺ) on a journey and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al Muhajir Abu Al Hasan] dari [Zaid bin Wahb] dari [Abu Dzar Al Ghifari] berkata, "Kami pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan. Ketika ada mu'adzin yang hendak mengumandangkan adzan, beliau berkata kepadanya: "Tundalah." Sesaat kemudian mu'adzin itu kembali akan melakukan adzan, beliau kembali berkata,: "Tundalah." Kemudian ketika mu'adzin itu kembali hendak melakukan adzan untuk ketiga kalinya, beliau kembali berkata: "Tundalah hingga kita melihat bayang-bayang bukit." Setelah itu Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya panas yang sangat menyengat itu berasal dari hembusan api jahannam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>629</td></tr><tr><td>Arabic No</td><td>629</td></tr><tr><td>Reference</td><td>Book 10 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «(Однажды) мы находились в пути с Пророком ﷺ, и когда муаззин захотел возвести азан (к полуденной молитве), он сказал ему: “Отложи!” Затем (позже) он захотел возвести азан, но он (снова) сказал ему: “Отложи!” Затем (позже) он (опять) захотел возвести азан, но он (снова) сказал ему: “Отложи!” (И это продолжалось) до тех пор, пока тени холмов не сравнились с ними, после чего Пророк ﷺ сказал: “Поистине, жара усиливается из-за расширения ада”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>629</td></tr><tr><td>Arabic No</td><td>629</td></tr><tr><td>Reference</td><td>Book 10 Hadith 26</td></tr></tbody></table></div>
 

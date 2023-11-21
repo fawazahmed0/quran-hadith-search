@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Whenever anyone of you is in prayer, he i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] berkata; Aku mendengar [Qatadah] dari [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika seseorang sedang berdiri shalat, sesungguhnya dia sedang berhadapan dengan Rabnya, maka janganlah dia meludah ke arah depannya dan jangan pula ke arah kanannya tetapi lakukanlah ke arah kirinya dibawah kaki (kirinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1214</td></tr><tr><td>Arabic No</td><td>1214</td></tr><tr><td>Reference</td><td>Book 21 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Человек, во время совершения молитвы ведет тайную беседу со своим Господом, так пусть же никто из вас не плюет перед собой и справа от себя, однако (если ему захочется сплюнуть,) пусть сплюнет налево себе под ноги!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1214</td></tr><tr><td>Arabic No</td><td>1214</td></tr><tr><td>Reference</td><td>Book 21 Hadith 18</td></tr></tbody></table></div>
 

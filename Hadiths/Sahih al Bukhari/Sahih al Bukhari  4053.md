@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:That his father was martyred on the day of the batt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Abu Suraij] telah mengabarkan kepada kami ['Ubaidullah bin Musa] telah menceritakan kepada kami [Syaiban] dari [Firas] dari [Asy Sya'bi] dia berkata, telah menceritakan kepadaku [Jabir bin Abdullah] radliallahu 'anhuma, bahwa ayahnya syahid pada perang Uhud dan meninggalkan hutang serta enam orang putri, ketika datang masa panen kurma Jabir berkata, "Aku menemui Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, anda mengetahui bahwa ayahku syahid pada perang Uhud, ia meninggalkan hutang yang banyak, dan aku ingin agar orang-orang yang memberi hutang melihatmu." Beliau bersabda: "Pergi dan kumpulkanlah kurma-kurma disetiap ujung, " lalu saya melakukannya, aku kemudian memanggil beliau, ketika mereka melihat beliau, seakan-akan mereka terus memintaku saat itu, ketika beliau melihat apa yang mereka perbuat, beliau mengelilingkan tempat menebah di sekitar tumpukan kurma yang paling banyak, sebanyak tiga kali, lalu beliau duduk di atasnya dan bersabda: "Panggillah para sahabatmu, " maka beliau masih menakar untuk mereka hingga Allah menunaikan amanat ayahku dan aku ridla jika Allah menunaikan amanat ayahku, (meski) aku kembali ke saudara-saudara perempuanku tanpa membawa kurma, lalu Allah memberikan tumpukan kurma semuanya, sehingga aku melihat pada tumpukan kurma yang ada di sisi Nabi shallallahu 'alaihi wasallam, seakan-akan tidak terkurangi satu kurmapun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 64 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал, что его отец был убит в день битвы при Ухуде, оставив шесть дочерей и не расплатившись с долгами. Джабир сказал: «Когда пришло время собирать финики, я пошёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха! Ты знаешь, что мой отец был убит в день битвы при Ухуде, оставив много долгов, и я хотел бы, чтобы заимодавцы увидели тебя”. Пророк ﷺ сказал: “Иди и разложи свои финики по сортам”. Я так и сделал, а затем позвал его. Увидев его, заимодавцы начали настойчиво требовать свои права. Когда Пророк ﷺ увидел, как они ведут себя, он трижды обошёл самую большую кучу, сел над ней и сказал: “Позови своих спутников (то есть заимодавцев)”. Затем он стал мерить и раздавать им финики, пока Аллах не избавил моего отца от долгов. И клянусь Аллахом, что я был рад тому, что Аллах избавил моего отца от долгов, хоть я и не принёс бы своим сёстрам ни одного финика, однако, клянусь Аллахом, все кучи были полными, и даже та куча, над которой сидел Пророк ﷺ, как будто из неё не взяли ни одного финика»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 64 Hadith 99</td></tr></tbody></table></div>
 

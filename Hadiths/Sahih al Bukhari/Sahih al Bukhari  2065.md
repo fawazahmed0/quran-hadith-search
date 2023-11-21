@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "If a woman gives in charity from her ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Masruq] dari ['Aisyah radliallahu 'anha] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang isteri menginfaqkan (bershadaqah) makanan keluarganya yang tujuannya bukan mencari kerusakan maka baginya pahala dari apa yang diinfaqkan itu dan begitu juga pahala bagi suaminya dari harta hasil usahanya itu. Dan begitu juga seorang penjaga gudang akan mendapatkan pahala tanpa dikurangi sedikitpun pahala masing-masingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2065</td></tr><tr><td>Arabic No</td><td>2065</td></tr><tr><td>Reference</td><td>Book 34 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Если женщина подаст в качестве милостыни что-нибудь из еды, (которая имеется у) неё дома, не нанося никому ущерба, она получит награду за то, что отдаст, её муж получит награду за то, что он заработал, и такую же награду получит хранитель, и награда любого из них никак не уменьшит награды другого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2065</td></tr><tr><td>Arabic No</td><td>2065</td></tr><tr><td>Reference</td><td>Book 34 Hadith 18</td></tr></tbody></table></div>
 

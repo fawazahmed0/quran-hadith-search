@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:We went to 'Abdullah in the morning and a man said, "Yesterday
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Mahdi bin Maimun] Telah menceritakan kepada kami [Washil] dari [Abu Wa'il] dari [Abdullah] ia berkata; Kami pergi menemui Abdullah, lalu seorang laki-laki berkata, "Semalam aku membaca Al Mufashshal." Maka Abdullah berkata, "Bacalah sebagaimana pembacaan Sya'ir. Sesungguhnya kami telah mendengar bacaan itu. Dan aku benar-benar telah menghafal Al Quran yang biasa dibaca oleh Nabi shallallahu 'alaihi wasallam, yakni delapan belas surat dari Al Mufashshal, dari dua surat dari 'Aali Haamiim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5043</td></tr><tr><td>Arabic No</td><td>5043</td></tr><tr><td>Reference</td><td>Book 66 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Уаиль, рассказывал: «Однажды утром мы пришли к ‘Абдуллаху (ибн Мас‘уду), и один человек сказал: “Сегодня ночью я прочитал (все суры) “аль-муфассаль” (короткие суры, начиная с суры “Каф” и до конца Корана)”. На это ‘Абдуллах сказал: “С быстротой подобной тому, как читают стихи…?! Я знаю суры похожие друг на друга, между которыми Пророк ﷺ объединял (в молитве), это восемнадцать сур из “аль-муфассаль” и две суры, начинающимися словами “Ха Мим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5043</td></tr><tr><td>Arabic No</td><td>5043</td></tr><tr><td>Reference</td><td>Book 66 Hadith 67</td></tr></tbody></table></div>
 

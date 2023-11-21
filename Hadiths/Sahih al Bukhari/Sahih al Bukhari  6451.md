@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Prophet (ﷺ) died, nothing which can be eaten by a liv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hisyam] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; "Sungguh Nabi shallallahu 'alaihi wasallam telah wafat, sementara tidak ada sesuatupun di rumahku yang dapat dimakan oleh makhluk yang bernyawa (manusia atau hewan) kecuali sedikit gandum yang ada pada rak makanan milikku, lalu aku memakannya sebagian hingga beberapa lama, kemudian aku timbang dan akhirnya rusak (habis)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6451</td></tr><tr><td>Arabic No</td><td>6451</td></tr><tr><td>Reference</td><td>Book 81 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказала ‘Аиша: «Когда Пророк ﷺ умер, на моей полке не осталось ничего, что могло быть съедено живым существом, кроме как некоторого количества ячменя. Я ела его в течение долгого времени, а когда же отмерила, оно закончилось»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6451</td></tr><tr><td>Arabic No</td><td>6451</td></tr><tr><td>Reference</td><td>Book 81 Hadith 40</td></tr></tbody></table></div>
 

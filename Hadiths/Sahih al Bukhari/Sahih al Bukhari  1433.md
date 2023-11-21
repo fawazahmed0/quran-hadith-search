@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:The Prophet (ﷺ) said to me, "Do not withhold your money, (for if
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadhal] telah mengabarkan kepada kami ['Abdah] dari [Hisyam] dari [Fathimah] dari [Asma' radliallahu 'anha] berkata; Nabi Shallallahu'alaihiwasallam berkata, kepadaku: "Janganlah kamu tahan tanganmu dari berinfaq karena takut miskin, sebab nanti Allah menyempitkan reziki bagimu". Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dari ['Abdah] dan Beliau Shallallahu'alaihiwasallam berkata,: "Janganlah kamu menghitung-hitung untuk bershadaqah karena takut miskin, sebab nanti Allah menyempitkan rezeki bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1433</td></tr><tr><td>Arabic No</td><td>1433</td></tr><tr><td>Reference</td><td>Book 24 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр, да будет доволен Аллах ими обоими, сказала: «(Однажды) Посланник Аллаха ﷺ сказал мне: “Не завязывай (свой мех), ибо тогда и для тебя (его) завяжут”».\nВ другой версии этого хадиса (сообщается, что Пророк ﷺ) сказал: «Не подсчитывай, ибо тогда и Аллах сочтёт для тебя (всё)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1433</td></tr><tr><td>Arabic No</td><td>1433</td></tr><tr><td>Reference</td><td>Book 24 Hadith 36</td></tr></tbody></table></div>
 

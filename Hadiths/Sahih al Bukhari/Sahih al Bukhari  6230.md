@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When we prayed with the Prophet (ﷺ) we used to say: As-Sala
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] dia berkata; telah menceritakan kepadaku [Syaqiq] dari [Abdullah] dia berkata; "Ketika kami membaca shalawat di belakang Nabi shallallahu 'alaihi wasallam, maka kami mengucapkan: "ASSALAAMU 'ALALLAHI QABLA 'IBAADIHI, ASSALAAMU 'ALAA JIBRIIL, ASSSALAAMU 'ALAA MIKAA'IIL, ASSALAAMU 'ALAA FULAAN WA FULAAN (Semoga keselamatan terlimpahkan kepada Allah, semoga keselamatan terlimpah kepada Jibril, Mika'il, kepada fulan dan fulan)." Ketika Nabi shallallahu 'alaihi wasallam selesai melaksanakan shalat, beliau menghadapkan wajahnya kepada kami dan bersabda: "Sesungguhnya Allah adalah As salam, apabila salah seorang dari kalian duduk dalam shalat (tahiyyat), hendaknya mengucapkan; "AT-TAHIYYATUT LILLAHI WASH-SHALAWAATU WATH-THAYYIBAATU, ASSALAAMU 'ALAIKA AYYUHAN-NABIYYU WA RAHMATULLAHI WA BARAKAATUH, ASSALAAMU 'ALAINAA WA 'ALA 'IBAADILLAAHISH SHAALIHIIN, (penghormatan, rahmat dan kebaikan hanya milik Allah. Semoga keselamatan, rahmat, dan keberkahan tetap ada pada engkau wahai Nabi. Keselamatan juga semoga ada pada hamba-hamba Allah yang shalih. Sesungguhnya jika ia mengucapkannya, maka hal itu sudah mencakup seluruh hamba-hamba yang shalih baik di langit maupun di bumi, lalu melanjutkan; "ASYHADU ALLAA ILAAHA ILLALLAH WA ASYHADU ANNA MUHAMMADAN 'ABDUHU WA RASUULUH (Aku bersaksi bahwa tiada Dzat yang berhak disembah selain Allah, dan Muhammad adalah hamba dan utusan-Nya)." Setelah itu ia boleh memilih do'a yang ia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6230</td></tr><tr><td>Arabic No</td><td>6230</td></tr><tr><td>Reference</td><td>Book 79 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Совершая молитву вместе с Пророком ﷺ, мы говорили: “Мир /ас-салям/ Аллаху прежде Его рабов, мир Джибрилю и Микаилю, мир такому-то и такому-то», но (однажды) закончив молитву, Пророк ﷺ повернулся к нам и сказал: “Поистине, Аллах это и есть Мир /ас-салям/, а поэтому, когда кто-нибудь из вас сядет, совершая молитву, пусть говорит: “Приветствия, молитвы и (всё) благое Аллаху, мир тебе, о Пророк, милость Аллаха и благословения Его, мир нам и всем праведным рабам Аллаха /Ат-тахиййату ли-Лляхи, ва-с-саляввату ва-т-таййибату, ас-саляму ‘аляй-кя, аййу-ха-н-набию, ва рахмату-Ллахи ва баракяту-ху, ас-саляму ‘аляй-на ва ‘аля ‘ибади-Лляхи-с-салихин/”, ибо если он произнесёт (эти слова), они коснутся каждого праведного раба Аллаха на небесах и на земле. (И говорите): “Свидетельствую, что нет бога [заслуживающего поклонение], кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник /Ашхаду алля иляха илля-Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху/” После чего человек можем выбрать слова мольбы, которые пожелает, (и обратиться с ними к Аллаху)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6230</td></tr><tr><td>Arabic No</td><td>6230</td></tr><tr><td>Reference</td><td>Book 79 Hadith 4</td></tr></tbody></table></div>
 

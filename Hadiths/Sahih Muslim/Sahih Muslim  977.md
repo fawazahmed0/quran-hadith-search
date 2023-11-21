@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:This is what was transmitted to us by Abu Huraira fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, ini adalah sesuatu yang diceritakan kepada kami oleh [Abu Hurairah] dari Rasulullah Shallallahu'alaihiwasallam, maka dia menyebutkan beberapa hadits darinya, dan berkata, "Luruskanlah shaf dalam shalat, karena meluruskan shaf termasuk tanda kebagusan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>435</td></tr><tr><td>Reference</td><td>Book 4 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Выравнивайте ряд в молитве, ибо, выравнивание ряда из совершенства молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>435</td></tr><tr><td>Reference</td><td>Book 4 Hadith 139</td></tr></tbody></table></div>
 

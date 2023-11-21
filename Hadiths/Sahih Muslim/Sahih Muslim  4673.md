@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas b. Malik that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] sedangkan lafadznya dari Ibnu Mutsanna, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Mu'awiyah bin Qurrah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Ya Allah, tidak ada kehidupan yang hakiki melainkan kehidupan Akhirat, maka ampunilah kaum Anshar dan Muhajirin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4673</td></tr><tr><td>Arabic No</td><td>1805.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4673</td></tr><tr><td>Arabic No</td><td>1805.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 155</td></tr></tbody></table></div>
 

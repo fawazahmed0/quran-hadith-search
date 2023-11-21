@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) sent a Sariya (an army detachment) consisting of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ar Rabi'] telah menceritakan kepada kami [Abu Al Ahwash] dari ['Ashim] dari [Anas] radliallahu 'anhu; Nabi shallallahu 'alaihi wasallam pernah mengutus suatu pasukan, yang terkenal dengan qurra' (para penghafal Al Qur'an), lalu mereka dibunuh, maka belum pernah kulihat Nabi Shallallahu'alaihi wasallam bersedih atas suatu bencana seperti halnya kesedihan beliau atas kematian sahabatnya tersebut. Lalu beliau qunut selama sebulan di shalat shubuh sambil mengucapkan; "Sesungguhnya 'Ushayyah telah bermaksiat terhadap Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6394</td></tr><tr><td>Arabic No</td><td>6394</td></tr><tr><td>Reference</td><td>Book 80 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ отправил (в поход) отряд, которых называли чтецами, но они были (вероломно) убиты. И я не видел, чтобы Пророк ﷺ печалился за кого-то так, как печалился за них. И он в течение месяца совершал кунут во время утренней молитвы и говорил: “Поистине, ‘усайя ослушались Аллаха и Его посланника!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6394</td></tr><tr><td>Arabic No</td><td>6394</td></tr><tr><td>Reference</td><td>Book 80 Hadith 89</td></tr></tbody></table></div>
 

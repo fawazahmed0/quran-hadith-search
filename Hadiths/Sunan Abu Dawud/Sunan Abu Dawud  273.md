@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said; The Messenger of Allah (May peace be upon him) would ask us in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Jarir] dari [Asy-Syaibani] dari [Abdurrahman bin Al-Aswad] dari [Ayahnya] dari [Aisyah radliallahu 'anha] dia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami pada waktu haidl agar memakai kain sarung, kemudian beliau bercumbu dengan kami. Namun siapakah di antara kalian yang sanggup menahan dorongan seksualnya sebagaimana Rasulullah shallallahu 'alaihi wasallam sanggup menahannya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (302) Sahih Muslim (293)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>273</td></tr><tr><td>Reference</td><td>Book 1 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда у нас начинались менструации, Посланник Аллаха ﷺ повелевал нам надеть изар и затем прикасался к нам. И кто же из вас способен сдерживать свое желание, как был способен сдерживать свое желание Посланник Аллаха ﷺ?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (302) Sahih Muslim (293)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>273</td></tr><tr><td>Reference</td><td>Book 1 Hadith 273</td></tr></tbody></table></div>
 

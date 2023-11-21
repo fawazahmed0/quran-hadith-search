@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that the Messenger of Allah (ﷺ) observed in Medina seven (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru bin Dinar] dari [Jabir bin Zaid] dari [Ibnu Abbas], bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat tujuh dan delapan rakaat, zhuhur dan ashar, maghrib dan isya' ketika di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1635</td></tr><tr><td>Arabic No</td><td>705.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что (иногда) в Медине Посланник Аллаха ﷺ совершал молитвы в семь и восемь рак‘атов (, объединяя) полуденную молитву с послеполуденной, а закатную с вечерней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1635</td></tr><tr><td>Arabic No</td><td>705.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 66</td></tr></tbody></table></div>
 

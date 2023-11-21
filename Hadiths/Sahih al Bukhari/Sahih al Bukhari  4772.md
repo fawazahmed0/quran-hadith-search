@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Musaiyab:When Abu Talib was on his death bed, Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dari [bapaknya] dia berkata; 'Saat Abu Thalib sekarat, nabi shallallahu 'alaihi wasallam masuk dan di dekatnya ada Abu Jahal dan 'Abdullah bin Abu Umaiyah, nabi shallallahu 'alaihi wasallam bersabda: "Paman! Ucapkan: LAA ILAAHA ILLALLAAH sebuah kalimat yang akan aku jadikan sebagai pembela untukmu disisi Allah 'azza wajalla." Abu jahal dan 'Abdullah bin Abu Umaiyah berkata: Hai Abu Thalib! Apa kau membenci agama 'Abdul Muththallib? Keduanya terus mengucapkannya hingga Abu Thalib mengucapkan sesuatu diakhir kata-katanya yang menunjukkan ia berada diatas agama 'Abdul Muththallib lalu nabi shallallahu 'alaihi wasallam bersabda: "Aku akan memintakan ampunan untukmu selama aku tidak dilarang darimu." Kemudian turunlah ayat "Tidak patut bagi nabi dan orang-orang yang beriman memintakan ampunan kepada orang-orang musyrik meski mereka memiliki kekerabatan setelah jelas bagi mereka bahwa mereka adalah para penghuni neraka jahim." (At-Taubah: 113). Dan berkenaan dengan Abu Thalib Allah menurunkan kepada Nabi shallallahu 'alaihi wasallam ayat; "Sesungguhnya engkau tidaklah memberi petunjuk kepada orang yang kau cinta." (Al Qashash:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4772</td></tr><tr><td>Arabic No</td><td>4772</td></tr><tr><td>Reference</td><td>Book 65 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘ида ибн аль-Мусаййиба, что его отец сказал: «Когда Абу Талиб был уже близок к смерти, к нему пришёл Посланник Аллаха ﷺ и обнаружил, что у него находились Абу Джахль и ‘Абдуллах ибн Аби Умайя ибн аль-Мугыра. Он сказал: “О дядя, произнеси слова “Ля иляха илля Ллах” (Нет бога, достойного поклонения, кроме Аллаха), благодаря чему я смогу свидетельствовать за тебя пред Аллахом!” (Услышав это,) Абу Джахль и ‘Абдуллах ибн Умайя воскликнули: “О Абу Талиб, неужели же ты отступишься от религии ‘Абдульмутталиба?!” И после этого Посланник Аллаха ﷺ продолжал предлагать ему (произнести эти слова), а они повторяли своё, пока в конце концов Абу Талиб не произнёс свои последние слова, (подтвердив, что) он не отступится от религии ‘Абдульмутталиба, отказавшись произнести: “Ля иляха илля Ллах” (Нет бога, достойного поклонения, кроме Аллаха)”. Тогда Посланник Аллаха ﷺ воскликнул: “Я обязательно стану просить прощения для тебя, пока мне не будет запрещено делать это!” Тогда Аллах ниспослал аят: “Пророку и верующим не подобает просить прощения для многобожников…”. А также Аллах ниспослал об Абу Талибе, сказав Посланнику Аллаха ﷺ: “Воистину, ты не сможешь наставить на прямой путь тех, кого возлюбил. Только Аллах наставляет на прямой путь тех, кого пожелает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4772</td></tr><tr><td>Arabic No</td><td>4772</td></tr><tr><td>Reference</td><td>Book 65 Hadith 294</td></tr></tbody></table></div>
 

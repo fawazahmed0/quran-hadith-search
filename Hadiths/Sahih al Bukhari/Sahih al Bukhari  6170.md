@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:It was said to the Prophet; , "A man may love some people but 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Al A'masy] dari [Abu Wa'il] dari [Abu Musa] dia berkata; diberitahukan kepada Nabi shallallahu 'alaihi wasallam bahwa ada seseorang yang mencintai suatu kaum, namun dia sendiri belum pernah berjumpa dengan kaum tersebut, beliau bersabda: "Seseorang akan bersama dengan orang yang di cintainya." Hadits ini di perkuat juga oleh [Abu Mu'awiyah] dan [Muhammad bin 'Ubaid]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6170</td></tr><tr><td>Arabic No</td><td>6170</td></tr><tr><td>Reference</td><td>Book 78 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, что (как-то) Пророка ﷺ спросили: «(Что скажешь о том) человеке, который любит (других) людей, но он ещё не присоединился к ним?» (На это Посланник Аллаха ﷺ) сказал: «Человек будет с теми, кого полюбил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6170</td></tr><tr><td>Arabic No</td><td>6170</td></tr><tr><td>Reference</td><td>Book 78 Hadith 196</td></tr></tbody></table></div>
 

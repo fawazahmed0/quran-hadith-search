@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), comme le Prophète (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Suraij bin Yunus] keduanya berkata, telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Dawud bin Abu Hind] dari [Abu al-Aliyah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam berjalan melalui sebuah Lembah al-Azraq. Beliau bertanya: "Lembah apakah ini?" Para Sahabat menjawab, "Inilah Lembah al-Azraq." Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku seakan-akan memandang kepada Nabi Musa yang sedang menuruni sebuah bukit sambil memohon dari Allah dengan suara yang keras melalui talbiyah." Kemudian ketika sampai di Bukit Harsya beliau pun bertanya: "Bukit apa ini?" Para Sahabat menjawab, "Bukit Harsya." Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Seolah-olah aku melihat Yunus bin Matta berada di atas seekor unta gemuk berwarna merah yang dilengkapi dengan kain bulu dan tali kekang untanya sementara dia sentiasa bertalbiah." Ibnu Hanbal berkata dalam haditsnya, "Husyaim berkata, 'Yaitu sabut spons
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>166.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 325</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что проезжая мимо долины «вади аль-Азрак», Посланник Аллаха ﷺ спросил: «Что это за долина?» (Люди) сказали: «Вади аль-Азрак», тогда он сказал: «Я будто вижу Мусу, который спускается с горного перевала, громко обращаясь к Аллаху, произнося тальбию». Затем он достиг горного перевала Харша и спросил: «Что это за перевал?» (Люди) сказали: «Перевал Харша». Тогда (Пророк ﷺ) сказал: «Я будто вижу Юнуса, сына Матты, который сидит на красной, крепкой (сложением) верблюдице, облаченный в шерстяную джуббу. Поводья его верблюдицы сделаны из пальмовых волокон, а он произносит тальбию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>166.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 325</td></tr></tbody></table></div>
 

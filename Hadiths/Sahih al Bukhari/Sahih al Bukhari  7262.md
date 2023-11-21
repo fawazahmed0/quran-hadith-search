@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) entered a garden and told me to guard its ga
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Utsman] dari [Abu Musa], bahwa Nabi shallallahu 'alaihi wasallam pernah masuk kebun dan menyuruhku untuk menjaga pintu. Setelah itu datanglah seseorang dan minta ijin untuk masuk, nabi kemudian berkata: "Berilah ia ijin, dan berilah kabar gembira kepadanya dengan surga!" Tak tahunya yang datang adalah Abu Bakar. Kemudian Umar datang dan nabi berkata: "Berilah ijin dia, dan berilah kabar gembira dengan surga." Kemudian Utsman datang dan nabi berkata: "Berilah ia ijin, dan berilah kabar gembira dengan surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7262</td></tr><tr><td>Arabic No</td><td>7262</td></tr><tr><td>Reference</td><td>Book 95 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, передаёт, что однажды Пророк ﷺ вошёл в сад и повелел мне охранять ворота, и тогда пришёл некий человек и попросил разрешения войти, и (Пророк ﷺ) сказал: «Впусти его и порадуй вестью о том, что его ждёт Рай», — и тогда (я увидел), что это был Абу Бакр. Затем пришёл ‘Умар, и (Пророк ﷺ), сказал: «Впусти его и порадуй вестью о том, что его ждёт Рай!» После пришёл ‘Усман, и (Пророк ﷺ), сказал: «Впусти его и порадуй вестью о том, что его ждёт Рай!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7262</td></tr><tr><td>Arabic No</td><td>7262</td></tr><tr><td>Reference</td><td>Book 95 Hadith 16</td></tr></tbody></table></div>
 

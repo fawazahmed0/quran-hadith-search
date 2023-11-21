@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Said Al-Khudri: The Prophet (ﷺ) said, "When the people of Paradis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Malik] dari ['Amru bin Yahya Al Mazani] dari [bapaknya] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ahlu surga telah masuk ke surga dan Ahlu neraka telah masuk neraka. Lalu Allah Ta'ala berfirman: "Keluarkan dari neraka siapa yang didalam hatinya ada iman sebesar biji sawi". Maka mereka keluar dari neraka dalam kondisi yang telah menghitam gosong kemudian dimasukkan kedalam sungai hidup atau kehidupan. -Malik ragu. - Lalu mereka tumbuh bersemi seperti tumbuhnya benih di tepi aliran sungai. Tidakkah kamu perhatikan bagaimana dia keluar dengan warna kekuningan."Berkata [Wuhaib] Telah menceritakan kepada kami ['Amru]: "Kehidupan". Dan berkata: "Sedikit dari kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>22</td></tr><tr><td>Arabic No</td><td>22</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «(После того как) обитатели Рая войдут в Рай, а обитатели Огня отправятся в Огонь, Аллах Всевышний скажет: “Выведите тех, у кого в сердце было веры хоть на вес горчичного зерна”, и их выведут оттуда почерневшими, а потом бросят в реку(, которая образуется из-за) дождя (или: в реку жизни; это место внушало сомнения Малику), и они станут расти подобно тому, как прорастает семя, оказавшееся близ берега потока. Разве не видел ты, как появляются (из-под земли) жёлтые и искривленные (ростки)?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>22</td></tr><tr><td>Arabic No</td><td>22</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
 

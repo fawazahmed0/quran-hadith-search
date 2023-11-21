@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Hilal bin Umaiyya accused his wife of illegal sexual interco
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ibnu Abu Adi] dari [Hisyam bin Hassan] Telah menceritakan kepada kami [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, bahwasanya; Hilal bin Umayyah menuduh isterinya berzina, dan ia mengaku menyaksikannya. Dan Nabi shallallahu 'alaihi wasallam pun bersabda: "Sesungguhnya Allah tahu bahwa salah seorang dari kalian berdua berdusta. Apakah salah seorang ada yang mau bertaubat?" Lalu sang isteri berdiri dan bersaksi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5307</td></tr><tr><td>Arabic No</td><td>5307</td></tr><tr><td>Reference</td><td>Book 68 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что (в своё время) Хиляль ибн Умаййа обвинил свою жену в совершении прелюбодеяния. Когда он пришёл, чтобы свидетельствовать (против своей жены,) Пророк ﷺ сказал: “Поистине, Аллаху известно, что один из вас лжёт, но принесёт ли кто-нибудь из вас покаяние?” После этого (со своего места) поднялась (жена Хиляля) и стала свидетельствовать (о том, что она не виновна)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5307</td></tr><tr><td>Arabic No</td><td>5307</td></tr><tr><td>Reference</td><td>Book 68 Hadith 56</td></tr></tbody></table></div>
 

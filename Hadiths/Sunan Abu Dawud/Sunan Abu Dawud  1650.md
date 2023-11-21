@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuRafi': The Prophet (ﷺ) sent a man of the Banu Makhzum to collect s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir] telah mengabarkan kepada Kami [Syu'bah] dari [Al Hakam] dari [Ibnu Abu Rafi'] dari [Abu Rafi'] bahwa Nabi shallallahu 'alaihi wasallam mengutus seorang laki-laki aga mengambil zakat dari Bani Makhzum, kemudian ia berkata kepada Abu Rafi'; temani aku, sesungguhnya engkau akan memperoleh sebagian darinya. Ia berkata; hingga aku datang kepada Nabi shallallahu 'alaihi wasallam dan meminta kepada beliau. Kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan meminta kepadanya, lalu beliau bersabda: "Mantan budak sebuah kaum adalah bagian dari mereka, dan sesungguhnya tidak halal zakat bagi Kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1650</td></tr><tr><td>Arabic No</td><td>1650</td></tr><tr><td>Reference</td><td>Book 9 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Рафи‘а (вольноотпущенника Пророка), да будет доволен им Аллах, что однажды Пророк ﷺ послал одного человека собрать закят с бану махзум и он предложил Абу Рафи‘: «Пойдём со мной, и ты получишь часть этих средств». Абу Рафи‘ отказался и сказал: «Я не пойду, пока не спрошу об этом у Пророка ﷺ». Он пришёл к нему и спросил об этом, и тогда (Посланник Аллаха ﷺ) сказал: «Вольноотпущенник людей является одним из них, а нам не разрешается принимать пожертвования»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1650</td></tr><tr><td>Arabic No</td><td>1650</td></tr><tr><td>Reference</td><td>Book 9 Hadith 95</td></tr></tbody></table></div>
 

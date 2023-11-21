@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Khabbab reported that Al-'As b. Wa'il owed debt to me. I came to him in order to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abdullah bin Sa'id Al Asyujj], teks hadits milik Abdullah, keduanya berkata: Telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Abu Adh Dhuha] dari [Masruq] dari [Khabbab] berkata: Al 'Ash memiliki hutang padaku, aku mendatanginya untuk memperkarakannya, ia berkata padaku: Aku tidak akan membayar (hutang) mu sebelum kau kufur terhadap Muhammad. Aku berkata padanya: Aku tidak akan kufur terhadap Muhammad hingga kau mati lalu dibangkitkan lagi. Ia berkata: Bila kau bangkit lagi setelah mati, aku akan melunasi (hutang) mu bila aku kembali lagi ke harta dan anakku. Waki' berkata: Demikian Al A'masy berkata: Lalu ayat ini turun: "Maka apakah kamu telah melihat orang yang kafir kepada ayat-ayat kami dan ia mengatakan: 'Pasti Aku akan diberi harta dan anak" hingga firmanNya: "Dan ia akan datang kepada kami dengan seorang diri." (Maryam: 77-80). Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah]. Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku]. Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Jarir]. Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan]. Semuanya dari [Al A'masy] dengan sanad ini seperti hadits Waki'. Dalam hadits Jarir disebutkan: Dimasa jahiliyah, aku budak milik Al Ash bin Wa'il, aku bekerja lalu mendatanginya untuk memperkarakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7062</td></tr><tr><td>Arabic No</td><td>2795.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7062</td></tr><tr><td>Arabic No</td><td>2795.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 18</td></tr></tbody></table></div>
 

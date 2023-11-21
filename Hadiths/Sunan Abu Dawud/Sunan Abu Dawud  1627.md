@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari ['Atho' bin Yasar] dari [seorang laki-laki dari Bani Asad] bahwa ia berkata; aku dan keluargaku singgah di Baqi' yang terdapat padanya pohon Gharqad. Kemudian keluargaku berkata; pergilah kepada Rasulullah shallAllahu wa'alaihi wa sallam dan mintakan kepada Rasulullah shallAllahu wa'alaihi wa sallam untuk kita sesuatu yang dapat kita makan. Kemudian mereka menyebutkan sebagian dari keperluan mereka, lalu aku pergi kepada Rasulullah shallAllahu wa'alaihi wa sallam dan aku dapati seorang laki-laki sedang meminta-minta kepada beliau sementara Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Aku tidak memiliki sesuatu yang dapat aku berikan kepadamu." Kemudian orang tersebut pergi dari beliau dalam keadaan marah, dan berkata; demi umurku, sungguh engkau memberi orang yang engkau kehendaki. Maka Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Ia marah kepadaku karena aku tidak mendapatkan sesuatu yang dapat aku berikan kepadanya. Barang siapa diantara kalian yang meminta-minta sedangkan ia memiliki satu uqiyah atau yang setara dengannya maka sungguh ia telah meminta-minta dengan mendesak." Al Asadi berkata; sungguh unta Kami yang hampir melahirkan lebih baik daripada satu uqiyah. Satu uqiyah adalah empat puluh dirham. Laki-laki tersebut berkata; kemudian aku kembali dan tidak meminta-minta kepada beliau. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam setelah itu datang membawa gandum, dan kismis. Kemudian beliau membagikannya kepada Kami, atau sebagaimana ia katakana, hingga Allah 'azza wajalla memberikan kecukupan kepada Kami. Abu Daud berkata; demikianlah [Ats Tsauri] meriwayatkan sebagaimana yang dikatakan oleh Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ата ибн Йасар передаёт от человека из бану асад: «Вместе со своей семьёй я поселился в Бакы‘-аль-Гаркаде, и моя семья сказала мне: “Сходи к Посланнику Аллаха ﷺ попроси для нас чего-нибудь съестного”. После этого они стали жаловаться на нужду, и я отправился к Посланнику Аллаха ﷺ чтобы попросить у него что-нибудь. Придя к нему, я застал у него человека, который просил у него, а он говорил: “Мне нечего дать тебе”. Потом этот человек вышел разгневанным со словами: “Клянусь, ты даёшь только тем, кому хочешь!” Посланник Аллаха ﷺ сказал: “Он гневается оттого, что мне нечего дать ему… Тот из вас, кто просит, имея окию или её стоимость, просит без нужды”. Я сказал себе: “Дойная верблюдица, которая есть у нас, лучше окии”. А окия это сорок дирхемов. И я вернулся домой, не став ни о чём просить. А потом Посланнику Аллаха ﷺ привезли ячмень и изюм, и он выделил нам долю, а потом Аллах избавил нас от необходимости просить»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
 

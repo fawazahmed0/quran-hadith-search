@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) (p.b.u.h) saying, "We (Musl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] berkata, telah menceritakan kepada kami [Abu Az Zinad] banwa ['Abdurrahman bin Hurmuz Al A'raj] mantan budak Rabi'ah bin Al Harits, menceritakan kepadanya bahwasanya dia mendengar [Abu Hurairah] radliallahu 'anhu, bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kita datang terakhir dan pertama pada hari kiamat, meskipun mereka diberi Kitab sebelum kita. Dan ini adalah hari dimana mereka mendapat kewajiban, namun kemudian mereka berselisih di dalamnya. Allah lalu memberi hidayah kepada kita, maka semua manusia akan mengikuti kita (hari ini), besok hari untuk Yahudi dan Nashrani hari setelahnya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>876</td></tr><tr><td>Arabic No</td><td>876</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передал, что он слышал, как Посланник Аллаха ﷺ говорил: «Мы — последние, (но) в День воскресения (мы станем) первыми, хотя им Писание было даровано раньше нас. Далее, это — их день, (почитать) который обязал их Аллах, а они разошлись во мнениях о нём, тогда как нам Аллах указал путь к нему, и в этом отношении люди следуют за нами: иудеи (почитают) следующий день, а христиане — тот, что следует за ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>876</td></tr><tr><td>Arabic No</td><td>876</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
 

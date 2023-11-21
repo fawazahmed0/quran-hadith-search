@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard Allah's Messenger (ﷺ) saying, "Everyone o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] berkata, dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Salim bin 'Abdullah] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Setiap kalian adalah pemimpin dan setiap pemimpin akan diminta pertanggung jawaban atas yang dipimpinnya. Imam (kepala Negara) adalah pemimpin yang akan diminta pertanggung jawaban atas rakyatnya. Seorang suami dalam keluarganya adalah pemimpin dan akan diminta pertanggung jawaban atas keluarganya. Seorang isteri adalah pemimpin di dalam urusan rumah tangga suaminya dan akan diminta pertanggung jawaban atas urusan rumah tangga tersebut. Seorang pembantu adalah pemimpin dalam urusan harta tuannya dan akan diminta pertanggung jawaban atas urusan tanggung jawabnya tersebut". Dia ('Abdullah bin 'Umar radliallahu 'anhuma) berkata: "Aku mendengar semua itu dari Rasulullah shallallahu 'alaihi wasallam dan aku munduga Nabi shallallahu 'alaihi wasallam juga bersabda"; "Dan seorang laki-laki pemimpin atas harta bapaknya dan akan diminta pertanggung jawaban atasnya dan setiap kalian adalah pemimpin dan setiap pemimpin akan diminta pertanggung jawaban atas yang dipimpinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2409</td></tr><tr><td>Arabic No</td><td>2409</td></tr><tr><td>Reference</td><td>Book 43 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, что он слышал, как Посланник Аллаха ﷺ сказал: «Каждый из вас является пастырем, и каждый из вас несет ответственность за свою паству. Правитель является пастырем (для своих подданных) и несет ответственность за свою паству, мужчина является пастырем для своей семьи и несет ответственность за свою паству, женщина является пастырем в доме своего мужа и несет ответственность за свою паству, слуга является пастырем для имущества своего хозяина и несет ответственность за свою паству”». (Передатчик этого хадиса) сказал: «И я считаю, что (Ибн ‘Умар, да будет доволен Аллах ими обоими, также) сказал: “…и мужчина является пастырем для имущества своего отца и несет ответственность за свою паству, и так, каждый из вас является пастырем и (каждый из вас) несет ответственность за свою паству”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2409</td></tr><tr><td>Arabic No</td><td>2409</td></tr><tr><td>Reference</td><td>Book 43 Hadith 24</td></tr></tbody></table></div>
 

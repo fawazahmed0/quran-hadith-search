@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Mulaika:Muawiya offered one rak'a witr prayer after the 'Isha p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Hasan bin Bisyir] telah bercerita kepada kami [Al Mu'afiy] dari ['Utsman bin Al Aswad] dari [Ibnu Abu Mulaikah] berkata; "Mu'awiyah melaksanakan shalat witir setelah 'Isya' sebanyak satu raka'at sementara itu di sebelahnya ada maula Ibnu 'Abbas. Lalu maula ini menemui Ibnu 'Abbas. Maka [Ibnu 'Abbas] berkata; "Biarkanlah dia, karena dia telah mendampingi (bershahabat) dengan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3764</td></tr><tr><td>Arabic No</td><td>3764</td></tr><tr><td>Reference</td><td>Book 62 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Мулейка сказал: «Однажды Му‘авия совершил молитву витр в один рак‘ат после молитвы ‘иша в то время, когда у него находился вольноотпущенник Ибн ‘Аббаса. Затем он (вольноотпущенник) пришёл к Ибн ‘Аббасу (и рассказал ему, об увиденном). Ибн ‘Аббас сказал: “Оставь его, ведь он сопровождал Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3764</td></tr><tr><td>Arabic No</td><td>3764</td></tr><tr><td>Reference</td><td>Book 62 Hadith 109</td></tr></tbody></table></div>
 

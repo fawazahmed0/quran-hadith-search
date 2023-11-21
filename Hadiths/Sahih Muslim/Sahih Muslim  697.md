@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported it from 'Ali:We sent al-Miqdad b. al-Aswad to the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id al-Aili] dan [Ahmad bin Isa] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah bin Bukair] dari [bapaknya] dari [Sulaiman bin Yasar] dari [Ibnu Abbas] dia berkata, " [Ali bin Abi Thalib] berkata, 'Kami mengutus al-Miqdad bin al-Aswad kepada Rasulullah Shallallahu'alaihiwasallam, lalu dia menanyakan beliau tentang madzi yang keluar dari manusia, apa yang (harus) ia perbuat? ' Maka Rasulullah shallallahu 'alaihi wasallam bersabda, 'Berwudhulah, dan siramlah kemaluanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>303.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Али ибн Аби Талиб сказал: «(Однажды) мы отправили аль-Микъдада ибн аль-Асвада к Посланнику Аллаха ﷺ, чтобы он спросил его о том, что делать человеку с выделениями /мазий/, которые выходят из него. (Он спросил, и) Посланник Аллаха ﷺ ответил: “Соверши малое омовение /вудуъ/ и помой свой половой орган”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>697</td></tr><tr><td>Arabic No</td><td>303.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
 

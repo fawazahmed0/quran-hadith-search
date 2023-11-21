@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:There was a Christian who embraced Islam and read Surat-al-Baqara 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3617</td></tr><tr><td>Arabic No</td><td>3617</td></tr><tr><td>Reference</td><td>Book 61 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(В своё время) один христианин, принявший ислам, стал читать суры “аль-Бакара” (корова) и “Али ‘Имран” (семейство ‘Имрана) и записывать для Пророка ﷺ (ниспосылавшиеся ему откровения), а потом он снова принял христианство и стал говорить: “Мухаммад знает лишь то, что я записал для него”. Через некоторое время Аллах лишил его жизни, и он был похоронен, а на следующее утро оказалось, что земля извергла его. (Люди) сказали: “Это сделал Мухаммад со своими товарищами после того, как он убежал от них: они разрыли (могилу) нашего товарища и выбросили его!” И они вырыли для него глубокую яму, но наутро оказалось, что земля (снова) извергла его. (Люди опять) сказали: “Это сделал Мухаммад со своими товарищами: они разрыли (могилу) нашего товарища и выбросили его после того, как он убежал от них!” После этого они вырыли для него самую глубокую яму, которую только могли, но наутро оказалось, что земля (снова) извергла его, и тогда, поняв, что (делают это) не люди, они оставили его (лежать на земле)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3617</td></tr><tr><td>Arabic No</td><td>3617</td></tr><tr><td>Reference</td><td>Book 61 Hadith 124</td></tr></tbody></table></div>
 

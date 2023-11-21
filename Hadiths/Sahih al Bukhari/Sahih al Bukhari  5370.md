@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hind (bint 'Utba) said, "O Allah's Messenger (ﷺ)! Abu Sufyan i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha, bahwa Hindun berkata, "Wahai Rasulullah, sesungguhnya Abu Sufyan adalah seorang laki-laki yang pelit. Maka apakah aku berdosa bila mengambil sesuatu dari hartanya yang dapat menutupi kebutuhanku dan juga anakku?" beliau menjawab: "Ambillah dengan cara yang wajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5370</td></tr><tr><td>Arabic No</td><td>5370</td></tr><tr><td>Reference</td><td>Book 69 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Хинд сказала (Пророку ﷺ): “О Посланник Аллаха, поистине, Абу Суфйан — человек скупой, так будет ли грехом, если я стану брать из его денег, то чего будет достаточно для меня и моих детей?” Он сказал: “Бери сообразно обычаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5370</td></tr><tr><td>Arabic No</td><td>5370</td></tr><tr><td>Reference</td><td>Book 69 Hadith 20</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu 'Atiyyah:I and Masruq entered upon 'Aishah and we said: Mother of b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Mu'awiyah], dari [Al A'masy], dari ['Umarah bin 'Umair] dari [Abu 'Athiyyah], ia berkata; aku menemui [Aisyah] radliallahu 'anhu bersama dengan Masruq, lalu kami katakana; wahai Ummul mukminin, ada dua orang sahabat Muhammad shallallahu 'alaihi wasallam, salah seorang diantara mereka menyegerakan berbuka dan menyegerakan shalat, sedangkan yang lain menunda berbuka dan menunda shalat. Aisyah berkata; siapakah diantara mereka berdua yang menyegerakan berbuka dan menyegerakan shalat? Kami katakan; Abdullah. Ia berkata; demikianlah dahulu Rasulullah shallallahu 'alaihi wasallam melakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1099)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2354</td></tr><tr><td>Arabic No</td><td>2354</td></tr><tr><td>Reference</td><td>Book 14 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ‘Атыйя сказал: «Однажды мы с Масруком пришли к ‘Аише, да будет доволен ею Аллах, и сказали ей: “О мать верующих! Есть два человека из числа сподвижников Мухаммада ﷺ один из которых старается приступать к разговению и совершать закатную молитву как можно быстрее, а другой откладывает, и разговение, и закатную молитву”. ‘Аиша спросила: “Кто же старается приступать к разговению и совершать молитву быстрее?” Мы ответили: “‘Абдуллах”, и тогда она сказала: “Так поступал и Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1099)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2354</td></tr><tr><td>Arabic No</td><td>2354</td></tr><tr><td>Reference</td><td>Book 14 Hadith 42</td></tr></tbody></table></div>
 

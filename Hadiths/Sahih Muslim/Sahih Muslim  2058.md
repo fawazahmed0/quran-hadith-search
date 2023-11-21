@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that the Messenger of Allah (ﷺ) went out on the day of Adh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Adi] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam keluar pada hari raya Idul Adlha atau idul Fithri, lalu beliau shalat dua raka'at, beliau tidak mengerjakan shalat sebelum atau sesudahnya. Setelah itu, beliau mendatangi kaum wanita bersama Bilal. Kemudian beliau memerintahkan kepada mereka untuk bersedekah. Maka mereka (para wanita) pun memberikan anting-anting dan kalungnya. Dan telah menceritakannya kepadaku [Amru An Naqid] telah menceritakan kepada kami [Ibnu Idris] -dalam jalur lain- Dan telah menceritakan kepadaku [Abu Bakar bin Nafi'] dan [Muhammad bin Basysyar] semuanya dari [Ghundar] keduanya dari [Syu'bah] dengan sanad-sanad ini yang semisal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

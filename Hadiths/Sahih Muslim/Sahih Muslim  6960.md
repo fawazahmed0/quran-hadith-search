@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah] dan [Zuhair bin Harb] mereka berdua berkata; telah menceritakan kepada kami ['Umar bin Yunus] telah menceritakan kepada kami ['Ikrimah bin 'Ammar] telah menceritakan kepada kami [Ishaq bin 'Abdullah bin Abu Thalhah] telah menceritakan kepada kami [Anas bin Malik] -dan dia adalah pamannya- dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Sungguh kegembiraan Allah karena taubatnya hamba-Nya melebihi kegembiraan salah seorang dari kalian terhadap hewan tunggangannya di sebuah padang pasir yang luas, namun tiba-tiba hewan tersebut lepas, padahal di atasnya ada makanan dan minuman hingga akhirnya dia merasa putus asa untuk menemukannya kembali. kemudian ia beristirahat di bawah pohon, namun di saat itu, tiba-tiba dia mendapatkan untanya sudah berdiri di sampingnya. Ia pun segera mengambil tali kekangnya kemudian berkata; 'Ya Allah Engkau hambaku dan aku ini Tuhan-Mu.' Dia telah salah berdo'a karena terlalu senang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6960</td></tr><tr><td>Arabic No</td><td>2747.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6960</td></tr><tr><td>Arabic No</td><td>2747.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 9</td></tr></tbody></table></div>
 

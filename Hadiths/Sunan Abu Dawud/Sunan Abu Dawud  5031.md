@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salim ibn Ubayd: Hilal ibn Yasar said: We were with Salim ibn Ubayd whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Hilal bin Yasaf] ia berkata; Kami bersama [Salim bin Ubaid], lalu ada seorang laki-laki bersin dan mengucapkan, "Assalamu Alaikum (semoga keselamatan atas kamu)." Salim menjawab, "(semoga) untukmu dan untuk ibumu juga." Setelah itu Salim berkata lagi, "Semoga engkau akan mendapatkan apa yang aku ucapkan untukmu." Laki-laki itu ganti berkata, "Aku sangat berharap jika kamu tidak menyebutkan kebaikan atau pun keburukkan untuk ibuku." Salim berkata, "Aku hanya mengatakan sesuatu yang pernah dikatakan oleh Rasulullah shallallahu 'alaihi wasallam. Ketika kami sedang bersama Rasulullah shallallahu 'alaihi wasallam, lalu ada seorang laki-laki yang bersin. Laki-laki itu kemudian mengucapkan, "Assalamu Alaikum (semoga keselamatan atas kamu)." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "(semoga) untukmu dan untuk ibumu juga." Kemudian beliau bersabda: "Jika salah seorang dari kalian bersin hendaklah memuji Allah (mengucapkan 'Al hamdulillah') -Lalu menyebutkan beberapa kata lafadz pujian-. Lalu hendaklah orang yang ada di sisinya mengucapkan 'YARHAMUKAALLAH (semoga Allah merahmatimu). Dan hendaklah ia ganti mengucapkan kepada mereka YAGHFIRULLAHU LANA WA LAKUM (semoga Allah mengampuni kami dan kalian)." Telah menceritakan kepada kami [Tamim Ibnul Muntashir] berkata, telah menceritakan kepada kami [Ishaq] -yaitu Ibnu Yusuf- dari [Abu Bisyr Warqa] dari [Manshur] dari [Hilal bin Yasaf] dari [Khalid bin Arfajah] dari [Salim bin Ubaid Al Asyja'i] dengan hadits yang sama, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>5031</td></tr><tr><td>Reference</td><td>Book 43 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>5031</td></tr><tr><td>Reference</td><td>Book 43 Hadith 259</td></tr></tbody></table></div>
 

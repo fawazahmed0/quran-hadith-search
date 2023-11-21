@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id bin Jamil bin Tharif bin 'Abdullah Ats Tsaqafi] dan [Muhammad bin 'Abbad] keduanya berkata; Telah menceritakan kepada kami [Hatim] yaitu Ibnu Isma'il dari [Mu'awiyah] yaitu Ibnu Abu Muzarrid -budak- dari Bani Hasyim; Telah menceritakan kepadaku Pamanku, [Abu Al Hubab Sa'id bin Yasar] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Setelah Allah Azza wa Jalla menciptakan semua makhluk, maka rahim pun berdiri sambil berkata; 'Inikah tempat bagi yang berlindung dari terputusnya silaturahim (Menyambung silaturahim).' Allah Subhanahu wa Ta'ala menjawab: 'Benar. Tidakkah kamu rela bahwasanya Aku akan menyambung orang yang menyambungmu dan memutuskan yang memutuskanmu? ' Rahim menjawab; 'Tentu.' Allah berfirman: 'ltulah yang kamu miliki.' Setelah itu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Jika kamu mau, maka bacalah ayat berikut ini: Maka apakah kiranya jika kamu berkuasa kamu akan berbuat kerusakan di muka bumi dan memutuskan hubungan kekeluargaan? Mereka itulah orang-orang yang dilaknat oleh Allah dan ditulikan telinga mereka serta dibutakan penglihatan mereka. Maka apakah mereka tidak memperhatikan Al Qur'an ataukah hati mereka terkunci? (QS. Muhammad)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6518</td></tr><tr><td>Arabic No</td><td>2554</td></tr><tr><td>Reference</td><td>Book 45 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6518</td></tr><tr><td>Arabic No</td><td>2554</td></tr><tr><td>Reference</td><td>Book 45 Hadith 18</td></tr></tbody></table></div>
 

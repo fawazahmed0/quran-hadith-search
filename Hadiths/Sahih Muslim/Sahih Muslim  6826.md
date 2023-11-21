@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who loves meeting Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Amr Al Asy'atsi] telah mengabarkan kepada kami ['Abtsar] dari [Mutharrif] dari ['Amir] dari [Syuraih bin Hani'] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa senang berjumpa dengan Allah, maka Allah pun senang berjumpa dengannya; dan barangsiapa yang benci berjumpa dengan Allah, maka Allah pun benci berjumpa dengannya." Syuraih berkata; Aku kemudian menemui Aisyah, lalu aku bertanya; "Wahai Ummul Mukminin! Aku mendengar Abu Hurairah menyebutkan suatu hadits dari Rasulullah shallallahu 'alaihi wasallam. Jika demikian sungguh kita akan binasa!" Aisyah berkata; sesungguhnya orang yang binasa itu adalah orang yang dikatakan binasa oleh Rasulullah. Lalu Aisyah bertanya, "Apa yang dikatakanya itu?" Syuraikh menjawab; "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Siapa senang berjumpa dengan Allah, Allah pun senang berjumpa dengannya dan barangsiapa benci berjumpa dengan Allah, Allah pun benci berjumpa dengannya'. Tetapi tidak ada seorangpun di antara kita kecuali benci dengan kamatian!" Ia (Aisyah) berkata; "Sungguh hal itu telah disabdakan oleh Rasulullah shallallahu 'alaihi wasallam, dan tidak seperti yang kamu pahami, tetapi -yang dimaksud adalah- tatkala pandangan terangkat, dada berdetak dan dada menggigil, saat itulah orang yang senang berjumpa dengan Allah, maka Allah pun senang berjumpa dengannya; dan barangsiapa benci berjumpa dengan Allah, maka Allah pun benci berjumpa dengannya?!" Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepadaku [Jarir] dari [Mutharrif] dengan sanad ini seperti hadits 'Abtsar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6826</td></tr><tr><td>Arabic No</td><td>2685.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6826</td></tr><tr><td>Arabic No</td><td>2685.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 22</td></tr></tbody></table></div>
 

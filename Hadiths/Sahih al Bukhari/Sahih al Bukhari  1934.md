@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humran:I saw 'Uthman performing ablution; he washed his hands thrice, r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] berkata, telah menceritakan kepada saya [Az Zuhriy] dari ['Atho' bin Yazid] dari [Humran] (berkata,): "Aku melihat ['Utsman bin 'Affan] berwudhu', dia menuangkan air ke telapak tangannya (untuk membasuh kedua telapak tangannya) tiga kali. Kemudian berkumur-kumur dan membasuh hidung lalu mengeluarkan (air) darinya. Kemudian membasuh mukanya tiga kali lalu membasuh lengannya yang kanan hingga ke siku dan lengannya yang kiri hingga ke siku tiga kali kemudian berkata: "Aku melihat Rasulullah shallallahu 'alaihi wasallam berwudhu' seperti wudhu'ku ini lalu Beliau bersabda: "Barangsiapa berwudhu' seperti wudhu'ku ini kemudian dia shalat dua raka'at dan tidak berbicara apapun antara keduanya, maka Allah mengampuni dosanya yang lalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1934</td></tr><tr><td>Arabic No</td><td>1934</td></tr><tr><td>Reference</td><td>Book 30 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумран сказал: «Я видел, как (однажды) ‘Усман, да будет доволен им Аллах, совершал омовение (следующим образом): он трижды слил воду из сосуда себе на руки. Затем он прополоскал рот и промыл нос, затем трижды омыл лицо, затем правую руку до локтей три раза, затем помыл левую руку до локтей три раза, затем провёл (влажными руками) по голове, затем трижды помыл правую ногу, затем левую ногу три раза, а затем сказал: “Я видел, как Посланник Аллаха ﷺ совершил такое же омовение, как это сделал я, и сказал: “Тому, кто совершит омовение, подобное этому моему омовению, а потом совершит молитву в два рак‘ата, не думая при этом ни о чём постороннем, будут прощены его предыдущие прегрешения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1934</td></tr><tr><td>Arabic No</td><td>1934</td></tr><tr><td>Reference</td><td>Book 30 Hadith 41</td></tr></tbody></table></div>
 

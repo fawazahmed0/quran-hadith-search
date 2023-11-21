@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:During the lifetime of the Prophet (ﷺ) we used to avoid cha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Abdullah bin Dinar] dari [Ibnu Umar] radliallahu 'anhuma, ia berkata; Di masa Nabi shallallahu 'alaihi wasallam, Dahulu kami khawatir untuk menasehati dan memberi arahan pada isteri-isteri kami dan kami juga khawatir jangan-jangan wahyu turun berkenaan dengan kami. Maka ketika Nabi shallallahu 'alaihi wasallam wafat, kami pun berani angkat bicara dan memberi arahan pada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 67 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 67 Hadith 121</td></tr></tbody></table></div>
 

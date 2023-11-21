@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Tamim bin Salamah] dari ['Urwah bin Zubair] dari ['Aisyah] katanya; "Jika Rasulullah shallallahu 'alaihi wasallam shalat malam, dan telah melaksanakan shalat witir, maka beliau berseru: "Witirlah wahai 'Aisyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1734</td></tr><tr><td>Arabic No</td><td>744.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ совершал ночную молитву, а когда оставалось (совершить только) витр, он говорил: “Поднимись и соверши витр, о ‘Аиша!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1734</td></tr><tr><td>Arabic No</td><td>744.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 163</td></tr></tbody></table></div>
 

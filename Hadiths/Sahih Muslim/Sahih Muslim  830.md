@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas, reported:The Apostle of Allah (ﷺ) came out of the privy after relie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Amru bin Abbad bin Jabalah] telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dia berkata, telah menceritakan kepada kami [Sa'id bin Huwairits] bahwa dia mendengar [Ibnu Abbas] berkata, " Nabi shallallahu 'alaihi wasallam membuang hajatnya dari WC, lalu didekatkan kepadanya makanan, lalu beliau makan tanpa mengusap air (wudhu)." Dia berkata, dan menambahkan kepadaku [Amru bin Dinar] dari [Sa'id bin al-Huwairits] bahwa Nabi shallallahu 'alaihi wasallam dikatakan kepada beliau, "Kamu belum berwudhu." Beliau menjawab, "Aku tidak berkeinginan untuk shalat, maka (mengapa aku harus) berwudhu?." Amru mengklaim bahwa dia mendengar dari Sa'id bin al-Huwairits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>374.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «(Однажды) после того, как Посланник Аллаха ﷺ справил нужду в отхожем месте, ему принесли еду, и он поел её, не притронувшись к воде».‘Амр ибн Динар передал от Са‘ида ибн аль-Хувайриса, что кто-то сказал Пророку ﷺ: «Ты не совершил омовения». На что он ответил: «Я не собираюсь молится, чтобы совершать омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>374.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 151</td></tr></tbody></table></div>
 

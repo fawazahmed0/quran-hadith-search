@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakr: AbutTufayl said: Fatimah came to AbuBakr asking him for the in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Muhammad bin Al Fudhail], dari [Al Walid bin Jumai'] dari [Abu Ath Thufail], ia berkata; Fathimah radliallahu 'anhu datang kepada Abu Bakr radliallahu 'anhu, ia meminta warisannya dari Nabi shallallahu 'alaihi wasallam, kemudian [Abu Bakr] radliallahu 'anhu berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah apabila memberikan makan kepada seorang nabi maka makanan tersebut adalah untuk orang menggantikan setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2973</td></tr><tr><td>Arabic No</td><td>2973</td></tr><tr><td>Reference</td><td>Book 20 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу ат-Туфайля: «Фатима, да будет доволен ею Аллах, пришла к Абу Бакру, да будет доволен им Аллах, чтобы попросить у него своё наследство от Пророка ﷺ и Абу Бакр, да будет доволен им Аллах, сказал: “Я слышал, как Посланник Аллаха ﷺ сказал: “Всё, что даровал Всемогущий и Великий Аллах пророку, переходит к тому, кто придёт на его место””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2973</td></tr><tr><td>Arabic No</td><td>2973</td></tr><tr><td>Reference</td><td>Book 20 Hadith 46</td></tr></tbody></table></div>
 

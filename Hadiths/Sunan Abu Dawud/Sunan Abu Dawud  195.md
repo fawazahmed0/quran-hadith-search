@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Habibah: AbuSufyan ibn Sa'id ibn al-Mughirah reported that he enter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban] dari [Yahya bin Abu Katsir] dari [Abu Salamah] bahwasanya [Abu Sufyan bin Sa'id bin Al-Mughirah] telah menceritakan kepadanya bahwa dia pernah menemui [Ummu Habibah], lalu dia menyuguhkannya semangkuk makanan dari tepung, lau dia meminta air kemudian dia berkumur-kumur dengannya. Maka Ummu Habibah berkata kepadanya; Wahai anak saudariku, tidakkah kamu berwudhu? Sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: "Berwudhulah kalian karena memakan yang menjadi berubah karena api, -atau beliau bersabda- apa yang disentuh oleh api." Abu Dawud berkata; di dalam hadits Az-Zuhri disebutkan; Wahai anak saudaraki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>195</td></tr><tr><td>Arabic No</td><td>195</td></tr><tr><td>Reference</td><td>Book 1 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Саламы о том, что Абу Суфьян ибн Са‘ид ибн аль-Мугъира рассказывал, что однажды он зашел к Умм Хабибе, которая подала ему кубок с савиком, а он попросил воды и прополоснул свой рот. Она сказала: «O сын моей сестры, разве ты не совершишь омовение?Поистине, Пророк ﷺ сказал: “Совершайте омовение после (после употребления в пищу еды) приготовленной на огне“, или он сказал: “от той (еды) которой касался огонь“».Абу Дауд сказал: «В хадисе переданном со слов аз-Зухри (сообщается, что она сказала): “… о сын моего брата…“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>195</td></tr><tr><td>Arabic No</td><td>195</td></tr><tr><td>Reference</td><td>Book 1 Hadith 195</td></tr></tbody></table></div>
 

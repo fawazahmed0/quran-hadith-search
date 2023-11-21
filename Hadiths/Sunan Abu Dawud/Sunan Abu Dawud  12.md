@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allaah b. 'Umar :I ascended the roof of the house and saw the Apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] dari [pamannya, Wasi' bin Habban] dari [Abdullah bin Umar] dia berkata; "Sungguh, saya pernah naik atap rumah, lalu saya melihat Rasulullah shallallahu 'alaihi wasallam di atas dua batu bata menghadap Baitul Maqdis dalam keadaan buang hajatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (145) Sahih Muslim (266)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 1 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «(Однажды) когда я поднялся на крышу дома, я увидел, как Посланник Аллаха ﷺ справлял нужду (сидя) на двух саманных кирпичах, повернувшись в сторону “Байту-ль-Макъдис”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (145) Sahih Muslim (266)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Arabic No</td><td>12</td></tr><tr><td>Reference</td><td>Book 1 Hadith 12</td></tr></tbody></table></div>
 

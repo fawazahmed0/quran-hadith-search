@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:We went out with the Prophet (ﷺ) to Khaibar. A man (from the c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makki bin Ibrahim] telah menceritakan kepada kami [Yazid bin Abi 'Ubaid] dari [Salamah bin Al Akwa'] mengatakan, Dahulu kami berangkat bersama Nabi Shallallahu'alaihiwasallam ke Khaibar. Salah seorang pasukan berujar; 'Wahai Amir, perdengarkan syair-syairmu kepada kami! ' Lantas Amir Ibn Al Akwa' memperdengarkan bait-bait syairnya sehingga terdengar oleh mereka. Selanjutnya Nabi shallallahu 'alaihi wasallam bertanya; "Siapa yang menggiring unta-unta kita?" 'Sahabat kita, Amir bin Al akwa' Jawab para sahabat. Nabi Terus memanjatkan doa: "Semoga Allah merahmati dia!" Para sahabat berujar; 'Ya Rasulullah, apakah engkau memberi kami kenyamanan lewat perantaraannya' pagi harinya ia meninggal, selanjutnya para sahabat berkomentar (mengenai peristiwa 'Amir); 'Sungguh amir sia-sia amalnya, ia telah membunuh dirinya.' Ketika aku pulang, para sahabat berbincang-bincang dengan mengatakan bahwa Amir bin Al Akwa' sia-sia amalnya karena telah membunuh dirinya sendiri. Maka kudatangi Nabi shallallahu 'alaihi wasallam dan aku berkata; 'ya Nabiyullah, demi ayahku dan ibuku menjadi tebusanmu, orang-orang beranggapan bahwa saudaraku, Amir, sia-sia amalnya! ' maka Beliau bersabda: "Bohong semua yang mengatakan seperti itu, bahkan ia memperoleh dua pahala, sungguh ia orang yang bersungguh-sungguh sekaligus menjadi mujahid, mana ada pembunuhan yang lebih sadis dari seperti yang dialaminya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6891</td></tr><tr><td>Arabic No</td><td>6891</td></tr><tr><td>Reference</td><td>Book 87 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма, да будет доволен им Аллах, сказал: «Мы выступили (из Медины) на Хайбар вместе с Пророком ﷺ, и один из (воинов) сказал: “О ‘Амир, прочти нам что-нибудь из (твоих стихов)?” После этого ‘Амир прочитал им нараспев, подгоняя своим пением верблюдов. (Услышав это,) Пророк ﷺ спросил: “Кто этот погонщик?” (Люди) ответили: “‘Амир”, и (Пророк ﷺ) воскликнул: “Да помилует его Аллах!” Люди сказали: “О Посланник Аллаха, позволь нам и дальше наслаждаться его обществом!” Следующим утром ‘Амир был убит, и люди сказали: “Его дела стали тщетны, поскольку он покончил с собой”. Когда я вернулся, а люди говорили о том, что дела ‘Амира стали тщетны, я пришёл к Пророку ﷺ и сказал: “О Пророк Аллаха, да станут отец мой и мать выкупом за тебя! (Люди) утверждают, что дела ‘Амира тщетны!” (На это) Пророк ﷺ сказал: “Солгал тот, кто сказал это, ибо он получит двойную награду! Ведь, поистине, был он стойким борцом (за веру), и кто из убитых мог бы сделать больше него?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6891</td></tr><tr><td>Arabic No</td><td>6891</td></tr><tr><td>Reference</td><td>Book 87 Hadith 29</td></tr></tbody></table></div>
 

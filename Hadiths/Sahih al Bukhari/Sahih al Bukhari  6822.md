@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: A man came to the Prophet (ﷺ) in the mosque and said, "I am b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu; ada seorang laki-laki menyetubuhi isterinya di bulan Ramadhan, maka ia bertanya kepada Rasulullah Shallallahu'alaihiwasallam, tetapi Nabi bertanya; 'Apa kamu mempunyai seorang budak? ' 'Tidak' Jawabnya. Tanya Nabi; 'Apa kamu bisa berpuasa dua bulan berturut-turut? ' 'Tidak' jawabnya. Nabi bersabda: "kamu beri makan enam puluh orang miskin." Dan [Al Laits] mengatakan dari ['Amru bin Al Harits] dari ['Abdurrahman bin Al Qasim] dari [Muhammad bin Ja'far bin Zubair] dari ['Abbad bin 'Abdullah bin Zubair] dari ['Aisyah] dengan redaksi; ada seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam di masjid dan mengatakan; 'Aku terbakar? ' Nabi bertanya: "kenapa bisa demikian?" ia menjawab: 'aku telah menyetubuhi isteriku di siang ramadhan.' Nabi berujar; 'bersedekahlah! ' Orang tadi menjawab; 'Saya tak punya apa-apa! ' Lantas ia duduk dan didatangi seseorang yang menuntun keledai sambil membawa makanan. -Abdurrahman mengatakan 'Saya tidak tahu apakah ia menemui Nabi shallallahu 'alaihi wasallam ataukah tidak.- maka Nabi berujar; "Mana orang yang terbakar tadi?" Orang itu menjawab: 'aku orangnya! ' Nabi berujar: "Ambil ini dan sedekahkanlah! ' Orang tadi menjawab; 'Untuk orang yang lebih membutuhkan daripada aku? Sungguh keluargaku tak punya makanan! ' maka Nabi bersabda: "makanlah." Abu Abdullah mengatakan, hadits pertama lebih jelas yaitu dengan sabda beliau Shallallahu'alaihiwasallam: "Berilah makanan untuk keluargamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6822</td></tr><tr><td>Arabic No</td><td>6822</td></tr><tr><td>Reference</td><td>Book 86 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что однажды в мечеть к Пророку ﷺ пришёл какой-то человек и сказал: “Я сгорел!” Пророк ﷺ спросил его: “Что с тобой случилось?” Тот человек ответил: “Я вступил в половую близость (с женой днём) в рамадане”. Пророк ﷺ сказал: “Подай милостыню”. Человек сказал: “У меня ничего нет”. После чего этот человек сел, а в это время другой человек привёз Пророку ﷺ съестное, навьюченное на осла. Посланник Аллаха ﷺ спросил: “Где наш сгоревший?” Этот человек сказал: “Вот он я”. Посланник Аллаха ﷺ сказал: “Возьми это и раздай в качестве милостыни”. Этот человек спросил: “(Должен ли я раздать это) тем, кто беднее меня, у моей семьи нет еды”. Пророк ﷺ сказал: “Съешьте это (сами)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6822</td></tr><tr><td>Arabic No</td><td>6822</td></tr><tr><td>Reference</td><td>Book 86 Hadith 50</td></tr></tbody></table></div>
 

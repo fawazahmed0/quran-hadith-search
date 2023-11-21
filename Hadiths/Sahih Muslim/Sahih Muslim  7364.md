@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) said:There would be written 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basyar], teks milik Ibnu Al Mutsanna, keduanya berkata: Telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [ayahku] dari [Qatadah] telah menceritakan kepada kami [Anas bin Malik] nabi Allah Shallallahu 'alaihi wa Salam bersabda: "Dajjal, diantara kedua matanya tertulis K A F I R, yaitu kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7364</td></tr><tr><td>Arabic No</td><td>2933.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Къатада передал, что Анас рассказывал им о том, что Пророк ﷺ сказал: «Меж глаз Даджаля будут начертаны (буквы) “каф”, “фа” и “ра”, то есть кафир /неверный/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7364</td></tr><tr><td>Arabic No</td><td>2933.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 126</td></tr></tbody></table></div>
 

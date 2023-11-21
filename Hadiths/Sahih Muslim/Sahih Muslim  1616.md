@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Dinar reported on the authority of Ibn 'Umar that the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] katanya; "Aku pernah menyetorkan hapalan di hadapan [Malik] dari [Abdullah bin Dinar] dari [Ibnu Umar] dia mengatakan; "Rasulullah shallallahu 'alaihi wasallam pernah shalat diatas hewan tunggangannya ke arah manapun hewan tunggangannya menghadap." [Abdullah bin Dinar] berkata; Dan [Ibnu Umar] juga pernah melakukan seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1616</td></tr><tr><td>Arabic No</td><td>700.07</td></tr><tr><td>Reference</td><td>Book 6 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ совершал молитву сидя верхом на своей верблюдице, (направляясь в ту сторону), куда она обращалась».‘Абдуллах ибн Динар сказал: «Ибн ‘Умар (тоже) так поступал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1616</td></tr><tr><td>Arabic No</td><td>700.07</td></tr><tr><td>Reference</td><td>Book 6 Hadith 47</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée) l'Envoyé de Dieu (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dan ini hadits Abu Bakar, dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga rolongan yang Allah tidak mengajak mereka berbicara, tidak melihat kepada mereka, tidak mensucikan mereka dan bagi mereka siksa yang pedih: Seorang laki-laki yang memiliki sisa air di padang sahara sedangkan dia melarang musafir mengambilnya, seorang laki-laki yang menjual barang kepada orang lain setelah Ashar, dan dia bersumpah atas nama Allah bahwa modal ia membelia barang tersebut sekian dan sekian sehingga pembeli tersebut mempercayainya, padahal dia tidak demikian. Kedua, seorang laki-laki yang membaiat seorang pemimpin yang mana dia tidak membaiatnya melainkan untuk urusan dunia, jika pemimpin tersebut memberinya dengan sesuatu maka dia penuhi janji setianya dan jika tidak maka dia tidak memenuhinya." Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Sa'id bin Amru al-Asy'atsi] telah mengabarkan kepada kami [Abtsar] keduanya dari [al-A'masy] dengan sanad ini semisalnya, hanya saja dalam hadits Jarir disebutkan, 'seorang laki-laki menawar barang dari orang lain'. Dan telah menceritakan kepadaku [Amru an-Naqid] telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, saya menduganya marfu', dia menyebutkan, "Ada tiga orang yang Allah tidak mengajaknya berbicara, tidak melihat kepadanya, dan bagi mereka siksa yang pedih: yaitu seorang laki-laki bersumpah setelah shalat Ashar atas harta seorang muslim, lalu dia merampasnya." Dan sisa haditsnya semisal hadits al-A'masy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>297</td></tr><tr><td>Arabic No</td><td>108.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «С тремя не заговорит Аллах в День воскресения, не посмотрит на них, не очистит их, и им (уготовано) мучительное наказание. (К числу их относятся) человек, который имеет в пустыне излишки воды, но отказывает в ней путнику, и человек, который с наступлением послеполуденного времени /‘аср/ заключает с другим человеком сделку (по продаже) товара и клянётся ему Аллахом, что сам он купил его за столько-то и столько-то, а тот верит ему, (хотя на самом деле) это не так, и человек, который приносит клятву (на верность) правителю только ради мирских (благ) и хранит верность (этому правителю), если тот дарует ему (эти блага), но нарушает (клятву), если (правитель) не дарует их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>297</td></tr><tr><td>Arabic No</td><td>108.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 203</td></tr></tbody></table></div>
 

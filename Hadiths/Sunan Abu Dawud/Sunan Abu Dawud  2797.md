@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:The Messenger of Allah (ﷺ) as saying: Sacrifice only a full-gro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani], telah menceritakan kepada kami [Zuhair bin Mu'awiyah], telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menyembelih kecuali domba yang berumur tiga tahun, kecuali kalian kesulitan mendapatkannya maka sembelihlah domba yang berumur satu tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Приносите в жертву только взрослое животное, а если для вас это окажется слишком трудным, тогда полугодовалую овцу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
 

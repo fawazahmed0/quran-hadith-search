@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah ibn Qurrah: The Messenger of Allah (ﷺ) forbade these two pl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas bin Abdul 'Azhim] telah menceritakan kepada kami [Abu 'Amir Abdul Malik bin 'Amru] telah menceritakan kepada kami [Khalid bin Maisarah Al 'Aththar] dari [Mu'awiyah bin Qurrah] dari [Ayahnya] bahwa Nabi shallallahu 'alaihi wasallam telah melarang dari dua pohon ini, beliau bersabda: "Barangsiapa memakan keduanya maka janganlah ia mendekati masjid kami!" Dan beliau bersabda: "Apabila kalian harus memakannya maka hilangkan bau keduanya dengan dimasak!" Qurrah berkata, "Yaitu bawang merah dan bawang putih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3827</td></tr><tr><td>Arabic No</td><td>3827</td></tr><tr><td>Reference</td><td>Book 28 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Му‘авия ибн Курра передаёт от своего отца, что Пророк ﷺ запретил есть эти два растения, сказав: «Кто поел их, пусть не приближается к нашей мечети. А если уж вам так необходимо есть их, то лишайте их запаха путём варки». Подразумеваются лук и чеснок
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3827</td></tr><tr><td>Arabic No</td><td>3827</td></tr><tr><td>Reference</td><td>Book 28 Hadith 92</td></tr></tbody></table></div>
 

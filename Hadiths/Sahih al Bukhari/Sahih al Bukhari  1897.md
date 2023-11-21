@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever gives two kinds (of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada saya [Ma'an] berkata, telah menceritakan kepada saya [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdur Rahman] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menginfaqkan dua jenis (berpasangan) dari hartanya di jalan Allah, maka dia akan dipanggil dari pintu-pintu surga; (lalu dikatakan kepadanya): "Wahai 'Abdullah, inilah kebaikan (dari apa yang kamu amalkan). Maka barangsiapa dari kalangan ahlu shalat dia akan dipanggil dari pintu shalat dan barangsiapa dari kalangan ahlu jihad dia akan dipanggil dari pintu jihad dan barangsiapa dari kalangan ahlu shiyam (puasa) dia akan dipanggil dari pintu ar-Rayyan dan barangsiapa dari kalangan ahlu shadaqah dia akan dipanggil dari pintu shadaqah". Lantas Abu Bakar Ash-Shidiq radliallahu 'anhu: "Demi bapak dan ibuku (sebagai tebusan) untukmu wahai Rasulullah, demi ayah dan ibuku, jika seseorang dipanggil diantara pintu-pintu yang ada, itu sbeuah kepastian, namun apakah mungkin seseorang akan dipanggil dari semua pintu?". Beliau shallallahu 'alaihi wasallam menjawab: "Benar, dan aku berharap kamu termasuk diantara mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1897</td></tr><tr><td>Arabic No</td><td>1897</td></tr><tr><td>Reference</td><td>Book 30 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Расходовавшего (по) две вещи на пути Аллаха призовут из врат рая: “О раб Аллаха! Это — благо!” Совершавших молитвы призовут из врат молитвы, принимавших участие в джихаде призовут из врат джихада, постившихся призовут из врат “ар-Раййан”, а раздававших садаку призовут из врат садаки». (Услышав это,) Абу Бакр, да будет доволен им Аллах, сказал: «Да станут мои родители выкупом за тебя, о Посланник Аллаха! Ни в чём не будут нуждаться те, кого призовут из этих врат, но найдутся ли такие, кого станут призывать изо всех этих врат?» (Пророк ﷺ) сказал: «Да, и я надеюсь, что ты окажешься среди них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1897</td></tr><tr><td>Arabic No</td><td>1897</td></tr><tr><td>Reference</td><td>Book 30 Hadith 7</td></tr></tbody></table></div>
 

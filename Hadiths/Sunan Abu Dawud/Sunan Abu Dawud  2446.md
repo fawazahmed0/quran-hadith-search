@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Hakam b. al-A'raj said:I came to Ibn 'Abbas who was leaning against his sheet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya bin Sa'id], dari [Mu'awiyah bin Ghallab]. Dan telah diriwayatkan dari jalur yang lain: dan telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Isma'il], telah mengabarkan kepadaku [Hajib bin Umar] secara makna, dari [Al Hakam bin Al A'raj], ia berkata; aku mendatangi [Ibnu Abbas], sementara ia sedang berbantalkan pakaiannya di Masjid Haram kemudian aku bertanya kepada mengenai puasa Hari 'Asyura'. Kemudian ia berkata; apabila engkau melihat hilal Bulan Muharram maka hitunglah, kemudian apabila pada hari yang kesembilan. Kemudian pada paginya beliau berpuasa. Aku katakan; begitulah Muhammad shallallahu 'alaihi wasallam berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1133)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2446</td></tr><tr><td>Arabic No</td><td>2446</td></tr><tr><td>Reference</td><td>Book 14 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хакам ибн аль-А‘радж сказал: «Однажды я подошёл к Ибн ‘Аббасу, который лежал в мечети аль-Харам, подложив под голову свою накидку, и попросил его: “Расскажи мне, как следует соблюдать пост в день ‘Ашуры”. Он сказал: “Когда увидишь молодой месяц в начале мухаррама, считай и начинай соблюдать пост в девятый день мухаррама”. Я спросил его: “Так постился Мухаммад ﷺ?” Он сказал: “Да, Мухаммад ﷺ постился так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1133)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2446</td></tr><tr><td>Arabic No</td><td>2446</td></tr><tr><td>Reference</td><td>Book 14 Hadith 134</td></tr></tbody></table></div>
 

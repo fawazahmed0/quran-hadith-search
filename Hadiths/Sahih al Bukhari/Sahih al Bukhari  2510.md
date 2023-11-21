@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "Who would kill Ka'b 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata, ['Amru] aku mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang bersedia untuk (membunuh) Ka'ab bin Al Asyraf karena dia telah menghina Allah dan Rasul-Nya shallallahu 'alaihi wasallam?. Lalu Muhammad Bin Maslamah berkata: "Aku bersedia". Kemudian Muhammad bin Maslamah menemui Ka'ab bin Al Asyraf, lalu berkata: "Kami ingin engkau agar meminjamiku satu atau dua wasaq kurma". Dia (Ka'ab) menjawab: "Gadaikan dulu isteri-isteri kalian". Para sahabat Maslamah menjawab: "Bagaimana mungkin kami menggadaikan isteri-isteri kami sedangkan engkau orang arab yang paling tampan?". Dia berkata: "Kalau begitu gadaikan anak-anak kalian." Mereka berkata: "Bagaimana kami menggadaikan anak-anak kami, padahal nantinya mereka mendapat cemoohan: "Duh, anaknya digadaikan hanyalah untuk sekedar menadapat satu atau dua wasaq, itu adalah celaan bagi kami, namun kami akan menggadaikan kamu dengan lakmah". Sufyan berkata: "Maksud lakmah adalah pedang". Maka Maslamah berjanji kepadanya untuk menemuinya, lalu mereka membunuhnya kemudian mereka temui Nabi shallallahu 'alaihi wasallam lalu mereka kabarkan kejadiannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2510</td></tr><tr><td>Arabic No</td><td>2510</td></tr><tr><td>Reference</td><td>Book 48 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Кому (можно поручить убить) Ка‘ба ибн аль-Ашрафа, который нанёс обиду Аллаху и Его посланнику?» Мухаммад ибн Масляма сказал: «Мне». После этого он (и ещё несколько человек) пришёл к нему (к Ка‘бу ибн аль-Ашрафу) и сказал: «Мы хотим одолжить у тебя один или два васка (продуктов)». Он ответил: «Оставьте мне в залог ваших женщин». Они возразили: «Как же мы можем оставить тебе в залог наших женщин, когда ты являешься самым красивым из арабов?!» (Ка‘б) сказал: «Тогда оставьте мне в залог ваших сыновей». Они возразили: «Как же мы можем оставить тебе в залог наших сыновей, ведь потом (люди) станут поносить их и скажут: “(Такого-то) заложили за один или два васка еды!” — а это будет для нас позором! (Лучше) мы оставим тебе в залог (наше) оружие». И он договорился с (Ка‘бом), что (Мухаммад ибн Масляма) придёт к нему, и они убили его, а потом явились к Пророку ﷺ и обо всем рассказали ему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2510</td></tr><tr><td>Arabic No</td><td>2510</td></tr><tr><td>Reference</td><td>Book 48 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail from 'Abdullah:The Prophet (ﷺ) said, "Whoever takes a false 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Khalid] telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Abu Wa'il] dari ['Abdullah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang bersumpah palsu (berdusta) yang dengan sumpahnya itu dia bermaksud mengambil harta orang lain atau Beliau bersabda dengan redaksi 'saudaranya', maka dia berjumpa Allah sedang Allah murka kepadanya". Lalu Allah menurunkan ayat Al Qur'an sebagai pembenaran atas sabda Beliau ini yang artinya: ("Sesungguhnya orang-orang yang menjual janjinya kepada Allah dan sumpah mereka dengan harga yang murah.. hingga firman-Nya …siksa yang pedih) (QS. Ali'Imran 77). Kemudian [Al Asy'ats] menemuiku seraya berkata: "Apa yang diceritakan 'Abdullah kepada kalian hari ini?" Aku katakan: "Begini-begini". Maka dia berkata: "Ayat itu turun berkenaan dengan aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2677</td></tr><tr><td>Arabic No</td><td>2677</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Кто принёс ложную клятву (Аллахом), чтобы таким образом присвоить имущество человека [или он сказал: своего брата], тот встретит Аллаха разгневанным на него», — и в подтверждение этих слов Аллах ниспослал аят в Коране, (в котором сказано): “Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)».\n(Абу Ваиль) сказал: «Я встретил аль-Аш‘аса, и он сказал: “Что рассказал вам сегодня ‘Абдуллах?” Я ответил: “То-то и то-то”. Он сказал: “(Этот аят) был ниспослан в отношении меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2677</td></tr><tr><td>Arabic No</td><td>2677</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

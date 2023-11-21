@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah Al-Ansari:Once a man was driving two Nadihas (camel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Muharib bin Ditsar] berkata, Aku mendengar [Jabir bin 'Abdullah Al Anshari] berkata, "Seoranglaki-laki datang dengan membawa dua unta yang baru saja diberinya minum saat malam sudah gelap gulita. Laki-laki itu kemudian tinggalkan untanya dan ikut shalat bersama Mu'adz. Dalam shalatnya Mu'adz membaca surah Al Baqarah atau surah An Nisaa' sehingga laki-laki tersebut meninggalkan Mu'adz. Maka sampailah kepadanya berita bahwa Mu'adz mengecam tindakannya. Akhirnya laki-laki tersebut mendatangi Nabi shallallahu 'alaihi wasallam dan mengadukan persoalannya kepada beliau. Nabi shallallahu 'alaihi wasallam lalu bersabda: "Wahai Mu'adz, apakah kamu membuat fitnah?" Atau kata Beliau: "Apakah kamu menjadi pembuat fitnah? -Beliau ulangi perkataannya tersebut hingga tiga kali- "Mengapa kamu tidak membaca saja surat 'Sabbihisma rabbika', atau dengan 'Wasysyamsi wa dluhaahaa' atau 'Wallaili idzaa yaghsyaa'? Karena yang ikut shalat di belakangmu mungkin ada orang yang lanjut usia, orang yang lemah atau orang yang punya keperluan." Perawi berkata, "Menurutku sampai inilah kalimat hadits ini." Abu 'Abdullah berkata; hadits ini dikuatkan oleh [Sa'id bin Masruq] dan [Mis'ar] dan [Asy Syaibani]. [Amru] dan [Ubaidullah bin Miqsam] dan [Abu Az Zubair] dari [Jabir] bahwa dalam shalat Isya Mu'adz membaca surat Al Baqarah. Dan hadits ini dikuatkan oleh [Al A'masy] dari [Muharib]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>705</td></tr><tr><td>Reference</td><td>Book 10 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, передавая хадис о Му‘азе, Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, добавлял, что Пророк ﷺ сказал ему: «Лучше бы во время молитвы ты читал “Славь имя Господа твоего…”, и “Клянусь солнцем и его сиянием…‘‘, и “Клянусь ночью, когда она покрывает…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>705</td></tr><tr><td>Reference</td><td>Book 10 Hadith 100</td></tr></tbody></table></div>
 

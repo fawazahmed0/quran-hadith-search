@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jarir ad-Dabbi reported:I saw Ali (Allah be pleased with him) catching hold of h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Qudamah yaitu Ibnu A'yan] dari [Abu Badr] dari [Abu Thalut Abdussalam] dari [Ibnu Jarir Ad Dhabbi] dari [ayahnya] dia berkata; "Aku melihat tangan kanan [Ali radliallahu 'anhu] memegang tangan kirinya pada pergelangannya diatas pusar." Abu Daud berkata; "Dan diriwayatkan dari Sa'id bin Jubair "diatas pusar". Abu Mijlaz mengatakan; "dibawah pusar." Dan di riwayatkan dari Abu Hurairah, namun sanadnya tidak kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>757</td></tr><tr><td>Arabic No</td><td>757</td></tr><tr><td>Reference</td><td>Book 2 Hadith 367</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Джарир ад-Даббий передал со слов своего отца, который сказал: «Я видел, как ‘Али, да будет доволен им Аллах, правой рукой держал за запястье свою левую руку, над пупком».Абу Дауд сказал: «Передается от Са‘ида ибн Джубайра о том, что (руки следует держать) над пупком. Абу Миджляз сказал, что следует ставить под пупком. Также об этом сообщается и от Абу Хурайры, однако этот хадис является не сильным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>757</td></tr><tr><td>Arabic No</td><td>757</td></tr><tr><td>Reference</td><td>Book 2 Hadith 367</td></tr></tbody></table></div>
 

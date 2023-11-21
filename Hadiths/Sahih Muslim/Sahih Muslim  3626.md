@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), Selon la Sunna, quand un homme mar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Khalid] dari [Abu Qilabah] dari [Anas bin Malik] dia berkata; Apabila seorang laki-laki menikahi seorang gadis, maka dia tinggal bersamanya selama tujuh hari, dan jika seorang laki-laki menikahi janda, maka dia tinggal bersamanya selama tiga hari. Khalid berkata; Seandainya saya katakan (kepada Anas) bahwa hadits tersebut saya marfu'kan, niscaya dia akan membenarkanku, akan tetapi dia berkata; Demikianlah yang sesuai dengan sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3626</td></tr><tr><td>Arabic No</td><td>1461.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3626</td></tr><tr><td>Arabic No</td><td>1461.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 59</td></tr></tbody></table></div>
 

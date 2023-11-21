@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Bilal: The Messenger of Allah (ﷺ) said to Bilal: Do not call adhan un
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhari bin Harb] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Ja'far bin Burqan] dari [Syaddad, mantan sahaya 'Iyadl bin Amir] dari [Bilal] bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda kepadanya: "Janganlah kamu mengumandangkan adzan sehingga nampak jelas bagimu fajar seperti ini", seraya beliau membentangkan tangannya ke samping. Abu Daud berkata; Syaddad, mantan sahaya 'Iyadh tidak bertemu dengan Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Биляла о том, что (однажды) Посланник Аллаха ﷺ сказал ему: «Не возвещай азан до тех пор, пока не станет для тебя ясным, что наступил рассвет, вот так”, и он развел руки в стороны (указывая на ширину)».Абу Дауд сказал: «Вольноотпущенник ‘Ияда (по имени) Шаддад не застал Биляла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
 

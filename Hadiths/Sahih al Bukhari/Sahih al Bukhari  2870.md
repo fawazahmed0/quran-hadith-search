@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq from Musa bin 'Uqba from Mafia from Ibn 'Umar who said:"All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah] telah bercerita kepada kami [Abu Ishaq] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam berlomba pacuan kuda dengan kuda yang disiapkan sebagai kuda pacuan dimana Beliau melepasnya dari al-Hafya' dan batas akhirnya di Tsaniyatul Wada'. Aku bertanya kepada Musa: "Berapa jaraknya? ' Dia berkata: "Antara enam atau tujuh mil. Dan Beliau juga berlomba pacuan dengan kuda yang bukan kuda pacuan dari Tsaniyatul Wada' sampai batas akhirnya di masjid Bani Zurai'. Aku bertanya: "Berapa jaraknya? ' Dia berkata: "Satu mil atau sekitar itu". Dan Ibnu 'Umar radliallahu 'anhuma adalah termasuk orang yang ikut dalam pacuan kuda itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2870</td></tr><tr><td>Arabic No</td><td>2870</td></tr><tr><td>Reference</td><td>Book 56 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ устраивал скачки на лошадях. И рысистых лошадей отправляли от аль-Хафйи до местечка Санийят аль-Вада‘». Передатчик хадиса сказал: «Я спросил Мусу: “Какое это было расстояние?” а он ответил: “Шесть или семь миль”». (Ибн ‘Умар:) «А скачки на молодых скакунах проходили от местечка Санийят аль-Вада‘ до мечети Бану Зурейк». Передатчик хадиса сказал: «Я спросил: “Какое это было расстояние?” а он ответил: “Миль или около того”». И ‘Абдуллах ибн ‘Умар был одним их тех, кто принимал участие в этих скачках
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2870</td></tr><tr><td>Arabic No</td><td>2870</td></tr><tr><td>Reference</td><td>Book 56 Hadith 86</td></tr></tbody></table></div>
 

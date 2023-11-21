@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If I had gold equal to the m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Syabib bin Sa'id] telah menceritakan kepada kami [bapakku] dari [Yunus] berkata, [Ibnu Syihab] telah menceritakan kepadaku ['Ubaidullah bin 'Abdullah bin 'Utbah] berkata, [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya aku memiliki emas sebesar bukit Uhud yang membuat aku senang tentu tidak akan bersamaku melebihi tiga hari dan bagiku tidak akan ada yang tersisa kecuali satu saja yang aku siapkan untuk membayar hutang". Hadits ini juga diriwayatkan oleh [Shalih] dan ['Uqail] dari [Az Zuhriy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2389</td></tr><tr><td>Arabic No</td><td>2389</td></tr><tr><td>Reference</td><td>Book 43 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если бы у меня было золото величиной с гору Ухуд, то я был бы рад, если бы через три дня не осталось у меня от неё ничего, кроме того, что я приберёг бы для уплаты долга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2389</td></tr><tr><td>Arabic No</td><td>2389</td></tr><tr><td>Reference</td><td>Book 43 Hadith 5</td></tr></tbody></table></div>
 

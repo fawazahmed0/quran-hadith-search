@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Jamra Ad-Dabi:I used to sit with Ibn 'Abbas in Mecca. Once I had a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [Abu 'Amir, dia adalahal-'Aqadiy] telah bercerita kepada kami [Hammam] dari [Abu Jamrah adl-Dluba'iy] berkata; "Aku pernah bermajelis dengan [Ibnu 'Abbas] di Makkah kemudian aku terkena penyakit panas, maka dia berkata; "Dinginkanlah penyakit itu dari kamu dengan mengunakan air zamzam karena Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Penyakit panas (demam) berasal dari hembusan api jahannam maka itu redakanlah dengan air", atau Beliau bersabda: "Dengan air zamzam". Dalam hal ini Hammam ragu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3261</td></tr><tr><td>Arabic No</td><td>3261</td></tr><tr><td>Reference</td><td>Book 59 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джамра ад-Дуба’и сказал: «Я часто сидел с Ибн Аббасом в Мекке, но однажды меня постигла лихорадка, и он сказал (мне): «Охлади свою лихорадку водой замзама, ведь Посланник Аллаха ﷺ сказал: “Лихорадка — это (проявление) жара Геенны, охлаждайте же её водой (или водой замзама)””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3261</td></tr><tr><td>Arabic No</td><td>3261</td></tr><tr><td>Reference</td><td>Book 59 Hadith 71</td></tr></tbody></table></div>
 

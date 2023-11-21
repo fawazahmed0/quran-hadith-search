@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakr b. 'Abd al-Rahman b. al-Harith b. Hisham reported on the authority of '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abdu Rabbihi bin Sa'id] dari [Abu Bakar bin Abdurrahman bin Al Harits bin Hisyam] dari [Aisyah] dan [Ummu Salamah] kedua isteri Rasulullah shallallahu 'alaihi wasallam, bahwa keduanya berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mendapati waktu Subuh dalam keadaan junud karena jima', bukan karena mimpi di bulan Ramadlan, kemudian beliau tetapi berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2592</td></tr><tr><td>Arabic No</td><td>1109.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2592</td></tr><tr><td>Arabic No</td><td>1109.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 98</td></tr></tbody></table></div>
 

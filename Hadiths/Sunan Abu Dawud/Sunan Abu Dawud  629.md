@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Talq ibn Ali al-Hanafi: We came to the Prophet (ﷺ), and a man came an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mulazim bin Amru Al-Hanafi] telah menceritakan kepada kami [Abdullah bin Badr] dari [Qais bin Thalq] dari [Ayahnya] dia berkata; Kami pernah datang kepada Nabi shallallahu 'alaihi wasallam, lalu datang seorang laki laki seraya berkata; Wahai Nabi Allah, bagaimana pendapat Anda tentang shalat dengan memakai sehelai kain? Katanya; Rasulullah shallallahu 'alaihi wasallam lalu melepaskan kain selimut beliau kemudian dipergunakannya untuk berselimut, lalu Nabi shallallahu 'alaihi wasallam berdiri mengerjakan shalat bersama kami, setelah mengerjakan shalat, beliau bersabda: "Apakah setiap kalian mempunyai dua pakaian?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>629</td></tr><tr><td>Arabic No</td><td>629</td></tr><tr><td>Reference</td><td>Book 2 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Къайса ибн Талькъа о том, что его отец (Талькъ ибн ‘Али) сказал: «(Однажды) когда мы приехали к Пророку ﷺ к нему явился какой-то мужчина и сказал: “О пророк Аллаха, что ты думаешь о совершении молитвы в одной одежде?”».(Талькъ) сказал: «И Посланник Аллаха ﷺ развязал свой изар и, сложив его вместе со своей накидкой, обвернул их (вокруг талии). Затем пророк Аллаха ﷺ встал и помолился с нами, а когда закончил молитву, он сказал: “А разве у каждого из вас есть по две одежды?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>629</td></tr><tr><td>Arabic No</td><td>629</td></tr><tr><td>Reference</td><td>Book 2 Hadith 239</td></tr></tbody></table></div>
 

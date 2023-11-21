@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) sent some horsemen to Najd and they broug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepada kami [Sa'id bin Abu Sa'id] bahwa ia mendengar [Abu Hurairah] berkata, "Nabi shallallahu 'alaihi wasallam pernah mengirim pasukan berkuda mendatangi Najed, pasukan itu lalu kembali dengan membawa seorang laki-laki dari bani Hanifah yang bernama Tsumamah bin Utsal. Mereka kemudian mengikat laki-laki itu di salah satu tiang masjid. Rasulullah shallallahu 'alaihi wasallam lalu keluar menemuinya dan bersabda: "Lepaskanlah Tsumamah." Tsumamah kemudian masuk ke kebun kurma dekat Masjid untuk mandi. Setelah itu ia kembali masuk ke Masjid dan mengucapkan, "Aku bersaksi bahwa tidak ada Tuhan yang berhak disembah selian Allah dan Muhammad adalah utusan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>462</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(В своё время) Пророк ﷺ отправил в сторону Неджда (отряд) всадников, которые привезли с собой человека по имени Сумама ибн Усаль из (племени) бану ханифа и привязали его к одному из столбов мечети. Пророк ﷺ вышел к нему и сказал: “Отпустите Сумаму!” После этого (Сумама) направился в пальмовую рощу, которая находилась поблизости от мечети, совершил полное омовение, а затем вошёл в мечеть и сказал: “Свидетельствую, что нет бога, достойного поклонения, кроме Аллаха, и что Мухаммад — Посланник Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>462</td></tr><tr><td>Arabic No</td><td>462</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
 

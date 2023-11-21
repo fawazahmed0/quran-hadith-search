@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: The Messenger of Allah (ﷺ) said: Gabriel (ﷺ) le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Abdurrahman bin Fulan bin Abu Rabi'ah] dari [Hakim bin Hakim] dari [Nafi' bin Jubair bin Muth'im] dari [Ibnu Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jibril Alaihis salam telah mengimamiku di sisi Baitullah dua kali. Dia shalat Zhuhur bersamaku tatkala matahari tergelincir (condong) ke barat sepanjang tali sandal, kemudian shalat Ashar denganku tatkala panjang bayangan suatu benda sama dengannya, lalu shalat Maghrib bersamaku tatkala orang yang berpuasa berbuka, kemudian shalat Isya bersamaku tatkala awan merah telah hilang, dan shalat Shubuh bersamaku tatkala orang yang berpuasa dilarang makan dan minum. Besok harinya, dia shalat Zhuhur bersamaku tatkala bayangan suatu benda sama dengannya, lalu shalat Ashar bersamaku tatkala bayangan suatu benda sepanjang dua kali benda itu, kemudian shalat Maghrib bersamaku tatkala orang yang berpuasa berbuka, lalu shalat Isya bersamaku hingga sepertiga malam, dan shalat Shubuh bersamaku tatkala waktu pagi mulai bercahaya. Kemudian Jibril menoleh kapadaku seraya berkata; 'Wahai Muhammad, inilah waktu shalat para nabi sebelum kamu, dan jarak waktu untuk shalat adalah antara dua waktu ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>393</td></tr><tr><td>Arabic No</td><td>393</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ сказал: “Джибриль, мир ему, будучи имамом, молился со мной у Дома два раза. И он совершил со мной полуденную молитву, когда солнце прошло зенит, и тень в зените была размером со шнурок сандалий. И он совершил со мной послеполуденную молитву тогда, когда тень (отбрасываемая от предмета) была такой же (длины). (Затем) он совершил со мной закатную молитву в то время, когда разговлялись соблюдающие пост. (Затем) он совершил со мной вечернюю молитву, когда исчезли сумерки. И он совершил со мной утреннюю молитву в то время, когда постящимся уже запрещено есть и пить. На следующий день, он (опять) совершил со мной полуденную молитву в то время, когда тень (отбрасываемая от предмета) была такой же (длины). (Затем) он совершил со мной послеполуденную молитву, когда тень (отбрасываемая от предмета) была два раза длиннее. (Затем) он совершил со мной закатную молитву в то время, когда соблюдающие пост уже разговелись. (Затем) он совершил со мной вечернюю молитву, когда прошла первая часть ночи. И он совершил со мной утреннюю молитву когда заблистала заря. Затем он повернулся ко мне и сказал: “О Мухаммад, это времена (молитв) пророков, которые были до тебя, и время молитв длится между этими двумя временами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>393</td></tr><tr><td>Arabic No</td><td>393</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
 

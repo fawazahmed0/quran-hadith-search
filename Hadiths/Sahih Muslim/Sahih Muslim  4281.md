@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Samura reported that Allah's Messenger (ﷺ) said to me:Abd al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Al Hasan] telah menceritakan kepada kami [Abdurrahman bin Samurah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepadaku: "Wahai Abdurrahman bin Samurah, janganlah kamu meminta-minta jabatan, karena meminta jabatan resikonya sangatlah berat, namun jika kamu diserahi jabatan tanpa kamu minta, maka kamu akan ditolong dalam jabatanmu. Dan apabila kamu bersumpah dengan suatu sumpah, kemudian kamu melihat ada sesuatu yang lebih baik dari sumpahmu itu, maka bayarlah kafarah (denda) dari sumpahmu itu dan lakukanlah sesuatu yang lebih baik dari sumpahmu." Abu Ahmad Al Jaludi berkata; telah menceritakan kepada kami Abu Al abbas Al Masarjasi telah menceritakan kepada kami Syaiban bin Farruh dengan hadits ini, telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Husyaim] dari [Yunus] dan [Manshur] dan [Humaid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Hammad bin Zaid] dari [Simak bin 'Athiyah] dan [Yunus bin 'Ubaid] dan [Hisyam bin Hassan] dalam riwayat lain. (dalam jalur lain disebutkan) Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Al Mu'tamir] dari [Ayahnya]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami ['Uqbah bin Mukram Al 'Ammi] telah menceritakan kepada kami [Sa'id bin 'Amir] dari [Sa'id] dari [Qatadah] semuanya dari [Al Hasan] dari [Abdurrahman bin Samurah] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini, dan dalam hadits Mu'tamir dari ayahnya tidak di sebutkan tentang "Jabatan (Imarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4281</td></tr><tr><td>Arabic No</td><td>1652.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4281</td></tr><tr><td>Arabic No</td><td>1652.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 28</td></tr></tbody></table></div>
 

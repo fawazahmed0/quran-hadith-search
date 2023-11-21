@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The people of (the tribe of) Quraiza agreed upon to accept th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dari [Abu Umamah bin Sahl bin Hunaif] dari [Abu Sa'id] bahwa penduduk Bani Quraidlah telah menetapkan hukum yang akan diputuskan oleh Sa'ad. Maka Nabi shallallahu 'alaihi wasallam mengutus seseorang untuk memanggilnya, ketika dia datang beliau bersabda: "Berdirilah kalian untuk menghormati orang terbaik kalian -atau beliau bersabda- pemimpin kalian." Lalu Sa'd duduk di dekat Nabi shallallahu 'alaihi wasallam, setelah itu beliau melanjutkan: "Sesungguhnya mereka telah setuju dengan keputusan yang akan kamu tetapkan." Sa'ad berkata; "Aku akan memutuskan kepada mereka agar para tentara perang mereka dibunuh dan anak-anak serta wanita mereka dijadikan tawanan." Maka beliau bersabda: "Sungguh kamu telah memutuskan hukum kepada mereka dengan hukum Allah (Raja diraja)." Abu Abdullah berkata; "Sebagian sahabatku telah memahamkanku dari Al Walid dari perkataannya Abu Sa'id hingga perkataan "…dengan keputusan yang kamu putuskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6262</td></tr><tr><td>Arabic No</td><td>6262</td></tr><tr><td>Reference</td><td>Book 79 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов от Абу Са‘ида, что после того как люди (из племени бану курайза) согласились, чтобы их судьбу решил Са‘д, Пророк ﷺ послал за ним. Когда он приехал, Пророк ﷺ велел (ансарам): «Встаньте (и подойдите) к вашему господину (или: к лучшему из вас)!». (Са‘д) сел рядом с Пророком ﷺ, который сказал: «Они согласились с твоим решением». Тогда Са‘д сказал: «Мое решение следующее — убить тех, кто принимал участие в сражении, а их женщин и детей пленить», на что Пророк ﷺ сказал: «Ты вынес такое же решение относительно них, как и решение аль-Малика (Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6262</td></tr><tr><td>Arabic No</td><td>6262</td></tr><tr><td>Reference</td><td>Book 79 Hadith 36</td></tr></tbody></table></div>
 

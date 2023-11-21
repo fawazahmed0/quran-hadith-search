@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Aisha wanted to buy a slave-girl in order to manumi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; "'Aisyah, Ummul Mu'minin berniat membeli seorang budak wanita untuk dibebaskannya. Maka tuan dari budak tersebut berkata bahwa perwalian budak tersebut tetap milik kami. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Hal itu janganlah menghalangi kamu, karena perwalian menjadi milik orang yang membebaskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2562</td></tr><tr><td>Arabic No</td><td>2562</td></tr><tr><td>Reference</td><td>Book 50 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды ‘Аиша, мать правоверных захотела выкупить рабыню, чтобы освободить её, однако её владельцы сказали: «Мы согласны, но с условием, что её «уаля» (право наследовать освобожденного) останется за нами». Тогда Посланник Аллаха ﷺ сказал: «Пусть тебя это не беспокоит, ведь, “уаля” принадлежит тому, кто освободил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2562</td></tr><tr><td>Arabic No</td><td>2562</td></tr><tr><td>Reference</td><td>Book 50 Hadith 3</td></tr></tbody></table></div>
 

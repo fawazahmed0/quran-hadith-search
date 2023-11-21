@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:When the Prophet (ﷺ) arrived at Medina, he noticed that some
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad atau Muhammad bin 'Ubaidullah Al Ghudani] telah menceritakan kepada kami [Hammad bin Usamah] telah mengabarkan kepada kami [Abu Al 'Umais] dari [Qais bin Muslim] dari [Thariq bin Syihab] dari [Abu Musa] radliallahu 'anhu ia berkata; "Ketika Nabi shallallahu 'alaihi wasallam tiba di Madinah, orang-orang Yahudi mengagungkan hari 'Aasyura (tanggal sepuluh Muharam) dengan berpuasa, maka Nabi shallallahu 'alaihi wasallam bersabda: "Kita lebih berhak untuk berpuasa." Lantas beliau memerintahkan untuk melaksanakan puasa hari 'Aasyura
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3942</td></tr><tr><td>Arabic No</td><td>3942</td></tr><tr><td>Reference</td><td>Book 63 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «Прибыв в Медину, Пророк ﷺ обнаружил, что иудеи возвеличивали день ‘Ашура и постились в этот день. Пророк ﷺ сказал (мусульманам): “Мы имеем больше прав на пост в этот день пост”. И приказал поститься в этот день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3942</td></tr><tr><td>Arabic No</td><td>3942</td></tr><tr><td>Reference</td><td>Book 63 Hadith 166</td></tr></tbody></table></div>
 

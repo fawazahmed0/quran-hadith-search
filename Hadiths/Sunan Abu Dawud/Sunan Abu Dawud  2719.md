@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal], ia berkata; telah menceritakan kepada kami [Al Walid bin Muslim], ia berkata; telah menceritakan kepadaku [Shafwan bin 'Amr] dari [Abdurrahman bin Jubair bin Nufair], dari [ayahnya] dari ['Auf bin Malik Al Asyja'i], ia berkata; aku keluar bersama Zaid bin Haritsah pada perang Muktah. Kemudian aku disertai bala bantuan dari penduduk Yaman dengan hanya membawa pedangnya. Kemudian salah seorang muslim menyembelih unta dan seorang bala bantuan meminta kulit unta tersebut, kemudian ia memberikan kepadanya. Lalu orang-orang tersebut menjadikannya seperti tameng. Dan kami berjalan dan bertemu dengan orang-orang Romawi, dan diantara mereka terdapat seorang laki-laki yang menunggang kuda berwarna blonde padanya terdapat pelana emas serta senjata yang dilapisi emas. Kemudian orang Romawi tersebut menyerang muslimin dengan tiba-tiba. Kemudian seorang bala bantuan tersebut menunggunya di balik batu besar, kemudian orang Romawi tersebut lewat, lalu orang bala bantuan tersebut memotong kaki kudanya, maka orang Romawi tersebut terjatuh dan salah seorang bala bantuan tersebut membunuhnya dan mengumpulkan kuda serta senjatanya. Kemudian tatkala Allah 'azza wajalla memenangkan untuk orang-orang muslim, khalid bin Al Walid mengirim utusan kepadanya dan mengambil sebagian dari salab tersebut. 'Auf berkata; kemudian aku mendatangi Khalid dan berkata; wahai Khalid, bukanlah engkau telah mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam memutuskan bahwa salab adalah untuk orang yang yang membunuh? Ia berkata; benar. Akan tetapi aku menganggapnya terlalu banyak. Maka aku katakan; sungguh engkau kembalikan kepadanya aku akan memberitahukanmu di hadapan Rasulullah shallallahu 'alaihi wasallam. Kemudian ia enggan untuk mengembalikannya. 'Auf berkata; kemudian kami berkumpul di sisi Rasulullah shallallahu 'alaihi wasallam, lalu aku ceritakan kisah orang bantuan tersebut kepada beliau dan apa yang dilakukan Khalid. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Wahai Khalid apa yang mendorongmu untuk melakukan apa yang telah engkau perbuat?" ia berkata; wahai Rasulullah, sungguh aku menganggapnya sudah terlalu banyak. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Khalid, kembalikan kepadanya apa yang telah engkau ambil!" Lalu aku katakan kepadanya; sebentar wahai Khalid, bukankah aku telah memenuhi janjiku kepadamu? Kemudian Rasulullah shallallahu 'alaihi wasallam berkata; apakah itu? Kemudian aku beritahukan kepada beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam marah dan berkata: "Wahai Khalid, jangan engkau kembalikan kepadanya! Apakah kalian akan meninggalkan para pemimpinku? Kalian mendapatkan urusan mereka yang telah bersih dan bagi mereka urusan yang masih keruh." Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal], ia berkata; telah menceritakan kepada kami [Al Walid], ia berkata; saya bertanya kepada [Tsaur] mengenai hadits ini. Kemudian ia menceritakan kepadaku dari [Khalid bin Ma'dan], dari [Jubair bin Nufair] dari ['Auf bin Malik Al Asyja'i] seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said "We are the last (to come amo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Wuhaib] berkata, telah menceritakan kepada kami [Ibnu Thawus] dari [Bapaknya] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kita datang terakhir dan akan pertama pada hari kiamat. Mereka diberi Kitab sebelum kita dan kita diberi sesudah mereka. Inilah hari (Jum'at) dimana mereka berselisih tentangnya namun Allah memberi petunjuk kepada kita. Maka esok hari untuk Yahudi dan lusa untuk Nashrani." Beliau lalu diam, setelah itu beliau bersabda lagi: "Sudah menjadi kewajiban bagi setiap Muslim untuk mandi pada satu hari dari setiap tujuh hari, pada hari itu dia basuh kepala dan tubuhnya." Diriwayatkan oleh [Aban bin Shalih] dari [Mujahid] dari [Thawus] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagi setiap Muslim sudah menjadi kewajiban karena Allah Ta'ala untuk mandi pada satu hari dari setiap tujuh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>896</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Мы — последние, (но) в День воскресения (мы станем) первыми, хотя им Писание было даровано раньше нас, а нам — позже них. Далее, это — их день, (почитать) который обязал их Аллах, а они разошлись во мнениях о нём, тогда как нам Аллах указал путь к нему, и в этом отношении люди следуют за нами: иудеи (почитают) следующий день, а христиане — тот, что следует за ним”. После этого он помолчал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>896</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

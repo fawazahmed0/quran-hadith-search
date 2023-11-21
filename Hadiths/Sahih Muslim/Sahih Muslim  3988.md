@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Yahya b. Sa'id with the same c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] telah mengabarkan kepadaku [Abu Bakar bin Muhammad bin Amru bin Hazm] bahwa [Umar bin Abdul Aziz] telah mengabarkan bahwa [Abu Bakar bin Abdurrahman bin Harits bin Hisyam] telah mengabarkan kepadanya, bahwa dia pernah mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, atau saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendapatkan hartanya ada pada orang yang telah mengalami kebangkrutan -atau seseorang yang telah bangkrut-, maka dirinya lebih berhak atas harta tersebut daripada orang lain." Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Rumh] semuanya dari [Laits bin Sa'ad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Ar Rabi'] dan [Yahya bin Habib Al Haritsi] keduanya berkata; telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Sufyan bin Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Abdul Wahab] dan [Yahya bin Sa'id] dan [Hafsh bin Ghiyats] semuanya dari [Yahya bin Sa'id] dalam sanad-sanad ini, dengan makna hadits Zuhair. [Ibnu Rumh] berkata; dari riwayat di antara mereka: "Siapa saja yang (hartanya) dibangkrutkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3988</td></tr><tr><td>Arabic No</td><td>1559.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3988</td></tr><tr><td>Arabic No</td><td>1559.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 27</td></tr></tbody></table></div>
 

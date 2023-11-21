@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: The Messenger of Allah (ﷺ) said: If anyone fights i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin Khalid Abu Marwan], dan [Ibnu Al Mushaffa], mereka berkata; telah menceritakan kepada kami [Baqiyyah] dari [Ibnu Tsauban], dari [ayahnya], dan dikembalikan kepada [Makhul], kepada [Malik bin Yukhamir], bahwa [Mu'adz bin Jabal], telah menceritakan kepada mereka bahwa ia telah mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang berperang di jalan Allah di atas unta maka telah wajib Surga baginya, dan barang siapa yang memohon kepada Allah agar terbunuh dengan niat yang benar, kemudian ia meninggal atau terbunuh maka baginya pahala orang yang mati syahid." Ibnu Al Mushaffa menambahkan dari sini; dan barangsiapa yang terluka di jalan Allah, atau tertimpa musibah maka sesungguhnya musibah tersebut akan datang pada Hari Kiamat seperti darah yang paling deras, warnanya adalah warna za'faran dan baunya adalah bau minyak kasturi. Barangsiapa yang padanya keluar bisul di jalan Allah maka sesungguhnya padanya terdapat stempel sebagai orang syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2541</td></tr><tr><td>Arabic No</td><td>2541</td></tr><tr><td>Reference</td><td>Book 15 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2541</td></tr><tr><td>Arabic No</td><td>2541</td></tr><tr><td>Reference</td><td>Book 15 Hadith 65</td></tr></tbody></table></div>
 

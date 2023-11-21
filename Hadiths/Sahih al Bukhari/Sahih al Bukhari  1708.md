@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar intended to perform Hajj in the year of the Hajj of Al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Abu Dhamrah] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] berkata; Bahwa [Ibnu'Umar radliallahu 'anhuma] hendak melaksanakan hajji pada tahun hajinya Kauk Al Haruriyyah pada zaman kekuasaan Ibnu Az Zubair radliallahu 'anhuma lalu dikatakan kepadanya: "Seungguhnya telah terjadi peperangan di tengah manusia dan aku khawatir mereka akan menghalangimu". Maka dia berkata, ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah"). Maka aku akan melakukan sebagaimana Rasulullah Shallallahu'alaihiwasallam telah melakukannya dan sungguh aku bersaksi kepada kalian bahwa aku sudah mewajibkan (meniatkan) diriku untuk 'umrah":. Kemudian ketika dia tiba di Al Baida' (padang sahara) dia berkata: "Tidaklah pelaksanaan hajji dan 'umrah itu kecuali satu dan aku bersaksi kepada kalian bahwa aku telah menggabungkan hajji dan 'umrahku dan aku membawa hewan qurban yang aku beli dan telah aku ikat dan tandai. Maka dia ber thawaf di Ka'bah Baitullah dan sa'iy di bukit Ash-Shafaa dan tidak lebih dari itu, tidak bertahallul dari sesuatu yang diharamkan hingga hari Nahar. Maka pada hari Nahar itu dia mencukur rambutnya lalu menyembelih hewan qurbannya dan dia memandang telah menyelesaikan thawaf hajji dan 'umrahnya cukup dengan thawaf nya yang pertama, kemudian dia berkata: "Begitulah apa yang dikerjakan Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1708</td></tr><tr><td>Arabic No</td><td>1708</td></tr><tr><td>Reference</td><td>Book 25 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, захотел совершить хадж в год хаджа харуритов во время правления Ибн аз-Зубейра, да будет доволен Аллах им и его отцом. Люди сказали Ибн ‘Умару: «Между людьми будет сражение, и мы боимся, что они тебе воспрепятствуют». Ибн ‘Умар ответил: «“В посланнике Аллаха был прекрасный пример для вас” (сура “аль-Ахзаб”, аят 21). Поэтому я поступлю так же, как поступил Посланник Аллаха ﷺ. Я делаю вас свидетелями того, что я намерился совершить ‘умру». Затем он отправился в путь, и достигнув аль-Байда, сказал: «Положения хаджа и ‘умры одинаковы. Я делаю вас свидетелями того, что я намерился совершить хадж вместе с ‘умрой». И погнал жертвенный скот с повязанной шеей, который он купил. Прибыв в Мекку, он совершил таваф вокруг Каабы и ас-Сафы и аль-Марвы, и ничего к этому не добавил. И он не выходил из ихрама до тех пор, пока не настал День жертвоприношения. Когда же он настал, он побрил голову и зарезал жертвенное животное. И он считал, что выполнил таваф хаджа и ‘умры, совершив первый таваф (аль-Ифада). Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Так делал Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1708</td></tr><tr><td>Arabic No</td><td>1708</td></tr><tr><td>Reference</td><td>Book 25 Hadith 186</td></tr></tbody></table></div>
 

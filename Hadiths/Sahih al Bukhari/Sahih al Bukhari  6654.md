@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) ordered us to help others to fulfill the oath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Asy'ats] dari [Mu'awiyah bin Suwaid bin Muqarrin] dari [Al Barra'] dari Nabi shallallahu 'alaihi wasallam -lewat jalur periwayatan lain- dan telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Asy'ats] dari [Mu'awiyah bin Suwaid bin Muqarrin] dari [Al Barra'] radliyallahu'anhu mengatakan, Nabi shallallahu 'alaihi wasallam memerintahkan kami untuk menunaikan sumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6654</td></tr><tr><td>Arabic No</td><td>6654</td></tr><tr><td>Reference</td><td>Book 83 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара (ибн 'Азиб), да будет доволен им Аллах, сказал: «Пророк ﷺ велел нам выполнять клятвы того, кто их даёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6654</td></tr><tr><td>Arabic No</td><td>6654</td></tr><tr><td>Reference</td><td>Book 83 Hadith 33</td></tr></tbody></table></div>
 

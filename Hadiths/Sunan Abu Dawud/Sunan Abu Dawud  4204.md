@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir bin ‘Abdullah :Abu Quhafah was brought on the day of the conque
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] dan [Ahmad bin Sa'id Al Hamdani] keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir bin Abdullah] ia berkata, "Pada saat pembukaan kota Makkah, Abu Kuhafah dihadapkan kepada Rasulullah, sementara rambut dan janggutnya putih seperti bunga berwarna putih, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Rubahlah warna rambutmu ini dengan sesuatu, dan jauhilah warna hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2102)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4204</td></tr><tr><td>Arabic No</td><td>4204</td></tr><tr><td>Reference</td><td>Book 35 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, передаёт: «В день покорения Мекки привели Абу Кухафу. При этом его голова и борода его были белыми, как (цветы растения) сагама, и Посланник Аллаха ﷺ сказал: “Измените эту (седину) чем-нибудь, но избегайте чёрного цвета”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2102)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4204</td></tr><tr><td>Arabic No</td><td>4204</td></tr><tr><td>Reference</td><td>Book 35 Hadith 46</td></tr></tbody></table></div>
 

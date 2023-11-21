@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:While the Prophet (ﷺ) was delivering the Khutba on a Friday, a m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari ['Abdul 'Aziz bin Shuhaib] dari [Anas] dan dari [Yunus] dari [Tsabit] dari [Anas] berkata, "Ketika Nabi shallallahu 'alaihi wasallam sedang menyampaikan khutbah pada hari Jum'at, tiba-tiba ada seorang laki-laki berdiri dan berkata, "Wahai Rasulullah, telah binasa binatang ternak (unta) dan telah binasa kehidupan (telah menjadi sulit), maka berdo'alah kepada Allah agar menurunkan air untuk kami." Rasulullah lalu menengadahkan kedua telapak tangan dan berdo'a
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>932</td></tr><tr><td>Arabic No</td><td>932</td></tr><tr><td>Reference</td><td>Book 11 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Однажды) когда Пророк ﷺ произносил пятничную проповедь, со своего места поднялся один человек и сказал: “О, Посланник Аллаха! Наше имущество пропало и скот погиб, так обратись же к Аллаху с мольбой, чтобы Он ниспослал дождь!” (Посланник Аллаха ﷺ) поднял руки и обратился к Аллаху с мольбой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>932</td></tr><tr><td>Arabic No</td><td>932</td></tr><tr><td>Reference</td><td>Book 11 Hadith 56</td></tr></tbody></table></div>
 

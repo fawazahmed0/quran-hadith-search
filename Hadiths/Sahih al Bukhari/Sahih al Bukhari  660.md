@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah will give shade, to seven, o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar Bundar] berkata, telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] berkata, telah menceritakan kepadaku [Khubaib bin 'Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada tujuh golongan manusia yang akan mendapat naungan Allah pada hari yang tidak ada naungan kecuali naungan-Nya; pemimpin yang adil, seorang pemuda yang menyibukkan dirinya dengan 'ibadah kepada Rabbnya, seorang laki-laki yang hatinya terpaut dengan masjid, dua orang laki-laki yang saling mencintai karena Allah; mereka tidak bertemu kecuali karena Allah dan berpisah karena Allah, seorang laki-laki yang diajak berbuat maksiat oleh seorang wanita kaya lagi cantik lalu dia berkata, 'Aku takut kepada Allah', dan seorang yang bersedekah dengan menyembunyikannya hingga tangan kirinya tidak mengetahui apa yang diinfakkan oleh tangan kanannya, serta seorang laki-laki yang berdzikir kepada Allah dengan mengasingkan diri hingga kedua matanya basah karena menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>660</td></tr><tr><td>Arabic No</td><td>660</td></tr><tr><td>Reference</td><td>Book 10 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал:«Семерых укроет Аллах в тени Своей в тот День, когда не будет иной тени, кроме тени Его: справедливого правителя; юношу, росшего в поклонении своему Господу; человека, сердце которого подвешено в мечетях; тех двоих, которые любят друг друга ради Аллаха, встречаясь и расставаясь (только) ради Него; мужчину, которого пожелала знатная и красивая женщина и который сказал: “Поистине, я боюсь Аллаха!”; того, кто подаёт милостыню (настолько) тайно, что его левая рука не ведает, сколько тратит правая, а (также) того, чьи глаза наполняются слезами, когда он в одиночестве поминает Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>660</td></tr><tr><td>Arabic No</td><td>660</td></tr><tr><td>Reference</td><td>Book 10 Hadith 54</td></tr></tbody></table></div>
 

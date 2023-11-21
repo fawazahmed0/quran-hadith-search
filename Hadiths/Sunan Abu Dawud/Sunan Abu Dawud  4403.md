@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: There are three (persons) who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] dari [Khalid] dari [Abu Adh Dhuha] dari [Ali Alais Salam] dari nabi shallallahu 'alaihi wasallam, beliau bersabda: "Pena pencatat amal dan dosa itu diangkat dari tiga golongan; orang tidur hingga ia bangun, anak kecil hingga ia bermimpi dan orang gila hingga ia berakal." Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Ibnu Juraij], dari [Al Qasim bin Yazid] dari [Ali radliallahu 'anhu], dari Nabi shallallahu 'alaihi wasallam." Ia menambahkan di dalamnya, "dan kharif (orang yang kurang akalnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4403</td></tr><tr><td>Arabic No</td><td>4403</td></tr><tr><td>Reference</td><td>Book 40 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али, что Пророк ﷺ сказал: «Подняты перья от троих: спящего, пока он не проснётся, ребёнка, пока он не достигнет совершеннолетия, и умалишённого, пока разум не вернётся к нему». Абу Дауд сказал, что в другой версии Ибн Джурайджа от аль-Касима ибн Язида от ‘Али от Пророка ﷺ добавлено: «…и страдающего старческим слабоумием»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4403</td></tr><tr><td>Arabic No</td><td>4403</td></tr><tr><td>Reference</td><td>Book 40 Hadith 53</td></tr></tbody></table></div>
 

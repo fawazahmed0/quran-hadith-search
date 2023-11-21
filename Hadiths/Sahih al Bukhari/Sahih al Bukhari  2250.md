@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Bakhtari:I asked Ibn 'Umar about Salam for dates. Ibn 'Umar repl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin BAsysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari ['Amru] dari [Abu Al Bakhtariy]: "Aku bertanya kepada [Ibnu'Umar radliallahu 'anhuma] tentang As-Salam pada pohon kurma. Maka dia berkata: "Nabi shallallahu 'alaihi wasallam telah melarang menjual buah-buahan hingga buahnya telah baik dan melarang menjual emas dengan emas dengan cara tempo". Dan aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhu], maka dia berkata: "Nabi shallallahu 'alaihi wasallam melarang jual beli pohon kurma hingga buahnya bisa dimakan atau dapat dimakan dan hingga ditimbang". Aku bertanya: "Bagaimana caranya ditimbang?" Berkata seseorang yang ada di sebelahnya: "Hingga bisa dipelihara (disimpan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2250</td></tr><tr><td>Arabic No</td><td>2250</td></tr><tr><td>Reference</td><td>Book 35 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аль-Бахтари сказал: «Я спросил Ибн ‘Умара, да будет доволен Аллах им и его отцом, о предварительной оплате (салям) за финики на пальмах, и он ответил: “Пророк ﷺ запретил продавать финики на пальмах до тех пор, пока они не станут пригодны для еды, а также он запретил продажу серебра за золото в рассрочку”. И я спросил Ибн ‘Аббаса, и он ответил: “Пророк ﷺ запретил продавать финики на пальмах до тех пор, пока они не станут пригодны для еды и не будут взвешены”. Я сказал: “А как же их взвесить!?” Человек, сидевший рядом с Ибн ‘Аббасом, сказал: “Это значит, пока он не будут собраны и сохранены”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2250</td></tr><tr><td>Arabic No</td><td>2250</td></tr><tr><td>Reference</td><td>Book 35 Hadith 11</td></tr></tbody></table></div>
 

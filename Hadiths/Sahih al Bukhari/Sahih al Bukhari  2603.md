@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Jabir (ra) said, "I went to the Prophet (ﷺ) in the mosque and he paid me my ri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Tsabit] telah menceritakan kepada kami [Mis'ar] dari [Muharib] dari [Jabir radliallahu 'anhu] berkata: "Aku menemui Nabi shallallahu 'alaihi wasallam saat Beliau berada di masjid, lalu Beliau membayar hutangnya kepadaku dan memberi lebih kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2603</td></tr><tr><td>Arabic No</td><td>2603</td></tr><tr><td>Reference</td><td>Book 51 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен Аллах им и его отцом, сказал: «Я пришёл к Пророку ﷺ в мечеть, и он оплатил мне то, что был должен и добавил ещё сверх этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2603</td></tr><tr><td>Arabic No</td><td>2603</td></tr><tr><td>Reference</td><td>Book 51 Hadith 37</td></tr></tbody></table></div>
 

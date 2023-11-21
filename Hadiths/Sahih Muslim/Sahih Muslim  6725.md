@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa b. Usaid reported directly from Allah's Messenger (ﷺ) that he said:Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] dan [Zuhair bin Harb], lafazh ini milik Ibnu Numair keduanya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru bin Dinar] dari [Abu Ath Thufail] dari [Hudzaifah bin Asid] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya malaikat akan mendatangi nuthfah yang telah menetap dalam rahim selama empat puluh atau empat puluh lima malam seraya berkata; 'Ya Tuhanku, apakah nantinya ia ini sengsara atau bahagia? ' Maka ditetapkanlah (salah satu dari) keduanya. Kemudian malaikat itu bertanya lagi; 'Ya Tuhanku, apakah nanti ia ini laki-laki ataukah perempuan? ' Maka ditetapkanlah antara salah satu dari keduanya, ditetapkan pula amalnya, umurnya, ajalnya, dan rezekinya. Setelah itu catatan ketetapan itu dilipat tanpa ditambah ataupun dikurangi lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6725</td></tr><tr><td>Arabic No</td><td>2644</td></tr><tr><td>Reference</td><td>Book 46 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6725</td></tr><tr><td>Arabic No</td><td>2644</td></tr><tr><td>Reference</td><td>Book 46 Hadith 3</td></tr></tbody></table></div>
 

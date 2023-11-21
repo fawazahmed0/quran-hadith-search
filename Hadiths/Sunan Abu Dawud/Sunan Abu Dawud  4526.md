@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abu Salamah b. 'Abd al-Rahman and Sulaiman b. Yasar: On the authority 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah bin 'Abdurrahman] dan [Sulaiman bin Yasar] dari [Beberapa lelaki] Anshar bahwa Nabi shallallahu 'alaihi wasallam bersabda kepada orang-orang Yahudi, dan beliau memulai dari mereka, "Apakah ada lima puluh orang dari kalian yang mau bersumpah?" namun mereka tidak ada yang bersedia. Lalu beliau berkata kepada orang-orang Anshar: "Kalian berhak (untuk balas bersumpah)." Mereka bertanya, "Wahai Rasulullah, apakah kami harus bersumpah untuk sesuatu yang kami tidak ketahui!" Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa diyat itu menjadi tanggungan bagi orang-orang Yahudi, sebab korban pembunuhan itu ada pada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4526</td></tr><tr><td>Arabic No</td><td>4526</td></tr><tr><td>Reference</td><td>Book 41 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Люди из числа ансаров передают, что Пророк ﷺ сказал иудеям: «(Согласны ли) пятьдесят человек из вашего числа принести клятву?» Однако они отказались. Тогда он сказал ансарам: «Докажите их вину». Они сказали в ответ: «Как же мы можем поклясться в том, чего не знаем, о Посланник Аллаха?» Тогда Посланник Аллаха ﷺ велел иудеям выплатить компенсацию /дийа/, потому что убитого нашли у них
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4526</td></tr><tr><td>Arabic No</td><td>4526</td></tr><tr><td>Reference</td><td>Book 41 Hadith 33</td></tr></tbody></table></div>
 

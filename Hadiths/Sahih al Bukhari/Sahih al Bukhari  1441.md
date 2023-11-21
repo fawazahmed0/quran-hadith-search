@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "When a woman gives in charity from her 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yanya bin Yahya] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Saqiq] dari [Masruq] dari ['Aisyah radliallahu 'anha] dari Nabi Shallallahu'alaihiwasallam berkata,: "Jika seorang wanita (isteri) berinfaq dari makanan rumahnya dan bukan bermaksud menimbulkan kerusakan maka baginya pahala dan bagi suaminya (pahala) dari yang diusahakannya dan juga bagi seorang penjaga harta/bendahara akan mendapatkan pahala seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
 

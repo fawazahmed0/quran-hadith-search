@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Salamah reported Umm Habibah said “Are you interested in my sister, Apostl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Zuhair], dari [Hisyam bin 'Urwah] dari ['Urwah] dari [Zainab binti Ummu Salamah] bahwa [Ummu Salamah] berkata; wahai Rasulullah, apakah engkau memiliki keinginan terhadap saudariku? Beliau berkata: "Apa yang meski aku lakukan?" Ia berkata; engkau menikahinya. Beliau berkata: "Saudarimu?" Ia berkata; Iya. Beliau berkata: "Apakah engkau menginginkan hal tersebut?" Ia berkata; bukan aku saja yang memilikimu, dan orang yang paling aku sukai untuk bersekutu denganku dalam kebaikan adalah saudariku. Beliau bersabda: "Ia tidak halal bagiku." Ummu Habibah berkata; sungguh aku telah diberitahu bahwa engkau hendak meminang Durrah atau Dzurrah -Zuhair merasa ragu dalam hal tersebut- binti Abu Salamah. Beliau berkata: "Binti Ummu Salamah?" Ia berkata; Iya. Beliau berkata: "Ketahuilah, demi Allah, seandainya ia bukan anak isteriku yang ada dalam pemeliharaanku, tidaklah ia halal bagiku, karena ia adalah anak saudaraku sepersusuan. Aku dan ayahnya telah disusui oleh Tsuwaibah, maka janganlah kalian menawarkan anak-anak dan saudara-saudara wanita kalian kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>2056</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Салямы, да будет доволен ею Аллах: «Умм Хабиба, да будет доволен ею Аллах, как-то сказала: “О Посланник Аллаха, как насчёт моей сестры?”. Он спросил: “Что мне сделать?” Она ответила: “Жениться на ней”. Он сказал: “На твоей сестре?” Она ответила: “Да”. Он спросил: “Ты хочешь этого?” Она сказала: “Да, ведь я не единственная твоя жена, и больше всего я хочу, чтобы моя сестра разделила со мной благо”. Тогда Пророк ﷺ сказал: “Поистине, она мне не дозволена”. Она сказала: “Но, клянусь Аллахом, мне сказали, что ты хочешь взять в жёны Дурру (или: Зарру), дочь Абу Салямы”. Пророк ﷺ спросил: “То есть дочь Умм Салямы?” Она сказала: “Да”. Тогда Пророк ﷺ сказал: “Клянусь Аллахом, даже если бы она не была моей падчерицей, находящейся на моём попечении, то мне нельзя было бы жениться на ней, ибо она дочь моего молочного брата. Меня и её отца кормила своим молоком Сувайба... Поэтому не предлагайте мне ни ваших дочерей, ни ваших сестёр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>2056</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
 

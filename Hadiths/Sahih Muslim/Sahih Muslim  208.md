@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad b. Rafi', Abdur-Razzaq, Sufyan, A'mash narrated this hadith like one na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Syu'bah] dari [Sulaiman] dari [Dzakwan] dari [Abu Hurairah] berkata, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang pezina saat berzina dsebut sebagai mukmin, dan tidaklah seorang pencuri saatmencuri dusebut mukmin, dan tidaklah seorang yang menimum khamer saat meminumnya disebut mukmin. Sedangkan pintu taubat akan selalu terbuka." Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Sufyan] dari [al-A'masy] dari [Dzakwan] dari [Abu Hurairah] yang merafa'kan-Nya. Dia berkata, "Tidaklah seorang pezina saat berzina, " kemudian dia menyebutkan seperti hadits Syu'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>57.07</td></tr><tr><td>Reference</td><td>Book 1 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается от Абу Хурайры, что Пророк ﷺ сказал: «Не совершает прелюбодей прелюбодеяния, будучи верующим, и не совершает вор кражи, будучи верующим, и не пьёт человек вина, будучи верующим, однако у него есть возможность покаяться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>57.07</td></tr><tr><td>Reference</td><td>Book 1 Hadith 115</td></tr></tbody></table></div>
 

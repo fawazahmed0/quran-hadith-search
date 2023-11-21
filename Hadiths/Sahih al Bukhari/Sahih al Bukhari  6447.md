@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'id:A man passed by Allah's Messenger (ﷺ) and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Abdul Aziz bin Abu Hazim] dari [Ayahnya] dari [Sahl bin Sa'd As Sa'idi] bahwa seorang laki-laki melintasi Rasulullah shallallahu 'alaihi wasallam, lantas Nabi shallallahu 'alaihi wasallam bersabda kepada orang yang duduk di dekat beliau: "Apa pendapat kalian dengan laki-laki ini?" Maka seorang yang terpandang menjawab; 'Demi Allah, bahwa dari bangsawan, bila dia meminang, pasti akan diterima, dan bila dimintai bantuan pasti akan dibantu.' Nabi shallallahu 'alaihi wasallam diam. Beberapa saat kemudian, lewatlah seorang laki-laki lain, lalu Rasulullah shallallahu 'alaihi wasallam bertanya kepadanya: 'Apa pendapatmu dengan orang ini? ' Dia menjawab; 'Wahai Rasulullah, menurutku; orang ini adalah orang termiskin dari kalangan kaum Muslimin, apabila ia meminang sudah pantas pinangannya untuk ditolak, dan jika dimintai pertolongan dia tidak akan ditolong, dan apabila berkata, maka perkataannya tidak akan didengar.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sungguh orang ini (orang yang terlihat miskin) lebih baik dari dunia dan seisinya daripada orang yang ini (yaitu orang yang kelihatanya bangsawan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6447</td></tr><tr><td>Arabic No</td><td>6447</td></tr><tr><td>Reference</td><td>Book 81 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля бин Са‘д ас-Са‘ида: однажды мимо Посланника Аллаха ﷺ прошёл человек, и тогда (Пророк ﷺ) спросил сидящего рядом с ним человека: «Каково твоё мнение об этом (прошедшем человеке)?» Тогда он сказал: «Этот (прошедший человек) — из благородных (знатных) людей. Клянусь Аллахом, если он попросит руки женщины, то за него выдадут её замуж, а если он заступится за кого-нибудь, то его заступничество будет принято». Посланник Аллаха ﷺ промолчал, а потом мимо прошёл другой человек, и Посланник Аллаха ﷺ снова спросил того же человека: «Каково твоё мнение об этом (втором)?» Тогда он сказал: «О Посланник Аллаха ﷺ! Этот человек — один из бедных мусульман. Если он попросит руки женщины, никто не примет его, и если он будет ходатайствовать за кого-то, никто не примет его ходатайства, и если он будет говорить, никто не будет слушать его речи». Тогда Посланник Аллаха ﷺ сказал: «Этот (бедняк) лучше, чем Земля, наполненная такими (т.е. знатными людьми)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6447</td></tr><tr><td>Arabic No</td><td>6447</td></tr><tr><td>Reference</td><td>Book 81 Hadith 36</td></tr></tbody></table></div>
 

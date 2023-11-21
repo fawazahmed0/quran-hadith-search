@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Fatima and Al-'Abbas came to Abu Bakr, claiming their inheritanc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] bahwa Fatimah 'alaihis salam dan 'Abbas menemui [Abu Bakr], keduanya menuntut bagian harta warisan mereka, yaitu berupa tanah di Fadak dan saham dari perang Khaibar, maka Abu Bakar berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Kami tidak diwarisi, harta yang kami tinggalkan menjadi sedekah, keluarga Muhammad hanya makan dari harta ini." Maka demi Allah, kerabat Rasulullah shallallahu 'alaihi wasallam lebih aku cintai untuk aku jalin hubungan dengannya daripada kerabatku sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4035</td></tr><tr><td>Arabic No</td><td>4035</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала, что когда Фатыма и аль-Аббас пришли к Абу Бакру и стали просить их наследство: землю Пророка ﷺ в Фадаке и его долю от Хайбара
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4035</td></tr><tr><td>Arabic No</td><td>4035</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

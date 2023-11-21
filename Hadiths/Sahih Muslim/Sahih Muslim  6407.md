@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al Allaa] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Buraid] dari [Abu Burdah] dari [Abu Musa] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya saya mengenali alunan suara kaum Asy'ariyyin yang membaca Al Qur'an ketika mereka memasuki waktu malam hari. Dan saya mengenali rumah-rumah mereka dan alunan suara mereka ketika membaca Al Qur'an pada malam hari, meskipun saya tidak pernah melihat rumah mereka pada siang hari ketika mereka berada di rumah. Di antara mereka adalah Hakim yang ketika bertemu pasukan musuh ia berkata; 'Sesungguhnya para sahabatku menyuruh kalian untuk menghadapi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6407</td></tr><tr><td>Arabic No</td><td>2499</td></tr><tr><td>Reference</td><td>Book 44 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6407</td></tr><tr><td>Arabic No</td><td>2499</td></tr><tr><td>Reference</td><td>Book 44 Hadith 238</td></tr></tbody></table></div>
 

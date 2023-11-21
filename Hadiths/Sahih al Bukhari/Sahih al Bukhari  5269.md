@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah has forgiven my followers th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] Telah menceritakan kepada kami [Hisyam] Telah menceritakan kepada kami [Qatadah] dari [Zurarah bin Aufa] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya Allah memaafkan apa yang dikatakan oleh hati mereka, selama tidak melakukan atau pun mengungkapnya." Qatadah berkata, "Bila ia menceraikan dengan suara hatinya saja, maka hal itu tidaklah berpengaruh sedikit pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5269</td></tr><tr><td>Arabic No</td><td>5269</td></tr><tr><td>Reference</td><td>Book 68 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах простит (членам) моей общины то, что станут внушать им их души, если только (кто-нибудь из них) не станет говорить об этом или делать этого».\nКатада сказал: «Если он разведётся в душе, то это ничего из себя не представляет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5269</td></tr><tr><td>Arabic No</td><td>5269</td></tr><tr><td>Reference</td><td>Book 68 Hadith 19</td></tr></tbody></table></div>
 

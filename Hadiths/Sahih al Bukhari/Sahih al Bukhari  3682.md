@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "In a dream I saw myself dr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Abdullah bin Numair] telah bercerita kepada kami [Muhammad bin Bisyir] telah bercerita kepada kami ['Ubaidullah] berkata, telah bercerita kepadaku [Abu Bakr bin Salim] dari [Salim] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Dalam tidurku, aku bermimpi menarik timba (mengambuil air) untuk memberi minum unta dari suatu sumur. Kemudian Abu Bakr datang lalu menarik (mengambil air) satu atau dua timba dan pada tarikannya itu ada kelemahan dan Allah mengampuninya. Kemudian 'Umar bin Al Khaththab datang lalu mengambil timba tersebut sehingga dapat mengambil air yang banyak. Aku belum pernah melihat di kalangan manusia ada orang yang berbuat saperti apa yang diperbuat olehnya lalu memberi minum unta-unta hingga manusia menjadi puas karenanya". Ibnu Jubair berkata; Al 'Abqariy artinya ladang luas yang indah". Yahya berkata az-Zaraabiyyu artinya permadani-permadani yang bersabut halus pada permukaannya yang (mabtsuutsah) terhampar sangat banyak. Dalam firman Allah Ta'ala QS Al Ghasyiyah ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3682</td></tr><tr><td>Arabic No</td><td>3682</td></tr><tr><td>Reference</td><td>Book 62 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Во сне я увидел, как черпаю воду ведром из колодца. Тут (ко мне) подошёл Абу Бакр и вытащил (из источника) одно или два ведра воды, но в некоторых его (движениях) была слабость, да простит его Аллах! Затем пришёл ‘Умар ибн аль-Хаттаб, и ведро в его руках превратилось в огромную бадью. И я не видел среди людей другого вождя, который делал бы своё дело так искусно и властно как он, (и это продолжалось,) пока (все) люди (не напились сами и не напоили своих верблюдов), отведя их от водопоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3682</td></tr><tr><td>Arabic No</td><td>3682</td></tr><tr><td>Reference</td><td>Book 62 Hadith 32</td></tr></tbody></table></div>
 

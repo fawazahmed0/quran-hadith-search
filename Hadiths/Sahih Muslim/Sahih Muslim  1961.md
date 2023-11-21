@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tawus reported that Ibn Abbas narrated the words of the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan Al Hulwani] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Ibnu Juraij] -dalam jalur lain- Dan telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibrahim bin Maisarah] dari [Thawus] dari [Ibnu Abbas] bahwa ia menyebutkan sabda Nabi shallallahu 'alaihi wasallam mengenai mandi pada hari Jum'at. [Thawus] berkata; Lalu saya bertanya kepada [Ibnu Abbas], "Apakah beliau memakai wewangian atau minyak wangi saat berada bersama keluarganya?" Ibnu Abbas menjawab, "Saya tidak tahu." Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Muhammad bin Bakar] -dalam jalur lain- Dan Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Adl Dlahhak bin Makhlad] keduanya dari [Ibnu Juraij] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1961</td></tr><tr><td>Arabic No</td><td>848.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Тавуса, что (однажды) Ибн ‘Аббас упомянул слова Пророка ﷺ о совершении полного омовения в пятницу, и я спросил Ибн ‘Аббаса: «Следует ли ему использовать благовония или (наносить на волосы и бороду) масло, если они найдутся у членов его семьи?» (В ответ на это) он сказал: «Я не знаю об этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1961</td></tr><tr><td>Arabic No</td><td>848.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Minhal:I used to practice money exchange, and I asked Zaid bin '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Amru bin Dinar] dari [Abu Al Minhal] berkata: "Aku berdagang penukaran uang lalu aku bertanya kepada [Zaid bin Arqam radliallahu 'anhu], maka dia berkata, bahwa Nabi shallallahu 'alaihi wasallam telah bersabda". Dan diriwayatkan pula, telah menceritakan kepada saya [Al Fadhal bin Ya'qub] telah menceritakan kepada kami [Al Hajjaj bin Muhamamd] telah berkata, [Ibnu Juraij] telah mengabarkan kepada saya ['Amru bin Dinar] dan ['Amir bin Mush'ab] bahwa keduanya mendengar [Abu Al Minhal] berkata; Aku bertanya kepada [Al Bara' bin 'Azib] dan [Zaid bin Arqam] tentang pertukaran uang, maka dia berkata: "Kami dahulu adalah para pedagang di zaman Rasulullah shallallahu 'alaihi wasallam dan kami pernah pula bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang pertukaran uang, maka Beliau bersabda: "Jika transaksi langsung (cash) tidak mengapa namun bila tunda (penangguhan di belakang) maka tidak boleh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2060</td></tr><tr><td>Arabic No</td><td>2060</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара бин ‘Азиб и Зейд бин Аркам, да будет доволен Аллах ими обоими, говорили: «При жизни Посланника Аллаха ﷺ мы были купцами, и (однажды) мы спросили Посланника Аллаха ﷺ об обмене, (на что) он сказал: “Если (деньги передаются) из рук в руки, то в этом нет ничего дурного, откладывать же (расчёт) не годится”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2060</td></tr><tr><td>Arabic No</td><td>2060</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

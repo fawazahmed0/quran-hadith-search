@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'All who said:The Mersenger of Allah (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan [Zuhair bin Harb] dan [Abu Sa'id Al Asyaj] sedangkan lafadznya saling berdekatan, mereka berkata; telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Sa'd bin 'Ubaidah] dari [Abu Abdurrahman] dari ['Ali] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengutus suatu ekspedisi dan mengangkat seorang laki-laki dari Anshar sebagai pemimpinnya, mereka diperintahkan untuk taat dan mendengar kepadanya, suatu ketikan pemimpinnya marah terhadap anak buahnya karena suatu perkara, dia berkata, "Kumpulkanlah kayu bakar." Setelah kayu bakar terkumpul dia berkata, "Bukankah Rasulullah shallallahu 'alaihi wasallam telah memerintahkan kepada kalian untuk mendengarkanku dan mentaatiku?" mereka menjawab, "Ya." Dia berkata, "Oleh karena itu, masuklah kalian ke dalam api tersebut." Ali berkata, "Lalu sebagian yang lain saling memandang kepada yang lainnya, sambil berkata, "Kita harus lari kepada Rasulullah shallallahu 'alaihi wasallam dari api tersebut." Anak buahnya masih saja (dalam kebimbangan) seperti itu, hingga kemarahannya mereda dan api dimatikan. Ketika mereka kembali, mereka memberitahukan peristiwa itu kepada Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda: "Sekiranya kalian masuk ke dalamnya, niscaya kalian tidak akan dapat keluar dari api tersebut, ketaatan itu hanya dalam kebajikan." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dan [Abu Mu'awiyah] dari [Al A'masy] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4766</td></tr><tr><td>Arabic No</td><td>1840.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4766</td></tr><tr><td>Arabic No</td><td>1840.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 64</td></tr></tbody></table></div>
 

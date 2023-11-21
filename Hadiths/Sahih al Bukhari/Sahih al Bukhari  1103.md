@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Laila:Only Um Hani told us that she had seen the Prophet (p.b.u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Ibnu Abu Laila] berkata, telah mengabarkan kepada kami seseorang bahwasanya dia melihat Nabi shallallahu 'alaihi wasallam mengerjakan shalat dhuha. Sedangkan [Ummu Hani'] menceritakan bahwa Nabi shallallahu 'alaihi wasallam saat hari Penaklukan Makkah, Beliau mandi di rumahnya kemudian shalat delapan raka'at. (Katanya): "Aku belum pernah sekalipun melihat Beliau melaksanakan shalat yang lebih ringan dari pada saat itu, namun Beliau tetap menyempurnakan ruku' dan sujudnya". Berkata, Al Laits telah menceritakan kepada saya Yunus dari Ibnu Syihab berkata, telah menceritakan kepada saya 'Abdullah bin 'Amir bin Rabi'ah bahwa bapaknya mengabarkan kepadanya bahwa dia melihat Nabi shallallahu 'alaihi wasallam mengerjakan shalat sunnat dalam perjalanan (safarnya) di atas punggung hewan tunggangannya ke mana saja arah menghadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1103</td></tr><tr><td>Arabic No</td><td>1103</td></tr><tr><td>Reference</td><td>Book 18 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Абу Лейля сказал: «Никто не передавал нам, что видел, как Пророк ﷺ совершал молитву “духа”, кроме Умм Хани, которая рассказывала, что в День покорения Мекки Пророк ﷺ совершил полное омовение в её доме и молитву в восемь рак‘атов, и она сказала: “Я не видела, чтобы он совершал молитву легче этой, но при этом он завершал поясные и земные поклоны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1103</td></tr><tr><td>Arabic No</td><td>1103</td></tr><tr><td>Reference</td><td>Book 18 Hadith 23</td></tr></tbody></table></div>
 

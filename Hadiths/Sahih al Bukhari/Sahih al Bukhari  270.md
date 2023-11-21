@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Al-Muntathir:on the authority of his father that he had as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu AN-Nu'man] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Ibrahim bin Muhammad bin Al Muntasyir] dari [bapaknya]: "Aku bertanya kepada ['Aisyah radliallahu 'anhu] lalu aku ceritakan tentang ucapan Ibnu 'Umar radliallahu 'anhu yang mengatakan: "aku tidak suka bila berpakaian ihram juga memakai wewangian". Maka 'Aisyah radliallahu 'anhu berkata,: "Sungguh aku pernah memberikan wewangian kepada Rasulullah shallallahu 'alaihi wasallam. lalu Beliau mendatangi isteri-isterinya. Kemudian Beliau mengenakan pakain ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>270</td></tr><tr><td>Arabic No</td><td>270</td></tr><tr><td>Reference</td><td>Book 5 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим ибн Мухаммад ибн аль-Мунташир передал со слов своего отца, который сказал: «(Однажды) я задавал вопрос ‘Аише, да будет доволен ею Аллах, и упомянул ей слова Ибн ‘Умара: “Я не люблю утром надевать ихрам, когда с меня исходит аромат благовоний”, — и ‘Аиша сказала: “Я умащала благовониями Посланника Аллаха ﷺ после чего он обходил своих жён, а наутро надевал ихрам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>270</td></tr><tr><td>Arabic No</td><td>270</td></tr><tr><td>Reference</td><td>Book 5 Hadith 23</td></tr></tbody></table></div>
 

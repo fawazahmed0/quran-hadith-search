@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This Tradition has been narrated on the Authority of al-Zuhri through a differen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Qutaibah bin Sa'id] mereka berdua berkata; Telah menceritakan kepada kami [Sufyan] dari [Az-Zuhri] dari [Abu Salamah] dari [Aisyah] bahwasanya Nabi shallallahu 'alaihi wasallam bahwasanya Nabi Shallallahu'alaihiwasallam apabila hendak tidur sedang beliau dalam keadaan junub, maka beliau berwudhu dahulu sebagaimana wudhu beliau ketika hendak shalat. Telah menceritakan kepada kami [Muhammad bin Ash-Shabbah Al-Bazzaz] telah menceritakan kepada kami [Ibnu Al-Mubarak] dari [Yunus] dari [Az-Zuhri] dengan isnad dan maknanya, dia menambahkan; dan apabila beliau hendak makan, sedang beliau dalam keadaan junub, maka beliau mencuci kedua tangannya terlebih dahulu. Abu Dawud berkata; Dan diriwayatkan oleh [Ibnu Wahb] dari [Yunus], dia menjadikan kisah makan sebagai perkataan [Aisyah] secara singkat. Dan diriwayatkan oleh [Shalih bin Abu Al Akhdlar] dari [Az-Zuhri] sebagaimana yang dikatakan oleh Ibnu Al-Mubarak, hanya saja dia mengebutkan; dari [Urwah] atau [Abu Salamah]. Dan diriwayatkan oleh [Al Auza'i] dari [Yunus] dari [Az-Zuhri] dari Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam, sebagaimana yang dikatakan oleh Ibnu Al-Mubarak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>223</td></tr><tr><td>Arabic No</td><td>223</td></tr><tr><td>Reference</td><td>Book 1 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Со слов аз-Зухри передается хадис с таким же иснадом и смыслом (что и у предыдущего) с дополнением: «А если он хотел поесть будучи в состоянии большого осквернения, он мыл свои руки».Абу Дауд сказал: «Этот хадис также передал Ибн Вахб со слов Йунуса, в котором он ограничился рассказом ‘Аиши о приеме пищи. Также этот хадис передал Салих ибн Абу-ль-Ахдар со слов аз-Зухри, как об этом сказал Ибн аль-Мубарак, не считая того, что он сказал: “От ‘Урвы или Абу Саламы”. Также его передал аль-Ауза‘и со слов Йунуса, от аз-Зухри, от Пророка ﷺ как об этом сказал Ибн аль-Мубарак»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>223</td></tr><tr><td>Arabic No</td><td>223</td></tr><tr><td>Reference</td><td>Book 1 Hadith 223</td></tr></tbody></table></div>
 

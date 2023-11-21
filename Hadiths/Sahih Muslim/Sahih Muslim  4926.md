@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abdullah b. Amr (through a different ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Sahl At Tamimi] telah menceritakan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Nafi' bin Yazid] telah menceritakan kepadaku [Abu Hani'] telah menceritakan kepadaku [Abu Abdurrahman Al Hubuli] dari [Abdullah bin 'Amru] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang yang berperang lalu dia memperoleh ghanimah dan mengambil (haknya), melainkan dia telah mengambil sepertiga dari pahalanya, dan tidaklah seseorang yang berperang dan mendapatkan ghanimah, namun ia tidak mengambil (haknya), melainkan pahalanya masih tetap sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4926</td></tr><tr><td>Arabic No</td><td>1906.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4926</td></tr><tr><td>Arabic No</td><td>1906.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 221</td></tr></tbody></table></div>
 

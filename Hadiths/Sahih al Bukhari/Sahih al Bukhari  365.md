@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man stood up and asked the Prophet (ﷺ) about praying in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah] berkata, "Seorang laki-laki datang dan bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang shalat dengan menggunakan satu lembar baju. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Apakah setiap kalian memiliki dua helai baju?" Kemudian ada seseorang bertanya kepada 'Umar, lalu ia menjawab, "Jika Allah memberi kelapangan (kemudahan), maka pergunakanlah." Bila seseorang memiliki banyak pakaian, maka dia shalat dengan pakaiannya itu. Ada yang shalat dengan memakai kain dan rida (selendang besar), ada yang memakai kain dan gamis (baju panjang sampai kaki), ada yang memakai kain dan baju, ada yang memakai celana panjang dan rida', ada yang memakai celana panjang dan gamis, ada yang memakai celana panjang dan baju, ada yang memakai celana pendek dan rida', ada yang memakai celana pendek dan gamis." Abu Hurairah berkata, "Menurutku 'Umar mengatakan, "Dan ada yang memakai celana pendek dan rida
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>365</td></tr><tr><td>Arabic No</td><td>365</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) какой-то человек подошёл к Пророку ﷺ спросил о (допустимости совершения) молитвы в одной одежде, (и в ответ ему Посланник Аллаха ﷺ) сказал: “А разве каждый из вас имеет по две одежды?” Затем, один мужчина спросил (об этом) ‘Умара и он сказал: “Если Аллах увеличил (вам дары), то и вы увеличьте. Человек может совмещать свои одежды, либо помолиться в изаре и накидке, или в изаре и рубахе, или в изаре и кафтане (халат), или в шароварах и плаще, или в шароварах и рубахе, или в шароварах и кафтане, или в шортах и кафтане или в шортах и рубахе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>365</td></tr><tr><td>Arabic No</td><td>365</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
 

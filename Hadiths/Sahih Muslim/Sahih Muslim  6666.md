@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:Abu'l-Qasim (the kunya of Allah's Messenger, may peace be u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru An Naqid] dan [Ibnu Abu 'Umar], ['Amru] berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ayyub] dari [Ibnu Sirin] Aku mendengar [Abu Hurairah] berkata; Abu Qasim shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mengacungkan senjata kepada saudaranya, maka malaikat akan melaknatinya hingga ia menurunkannya kembali. Walaupun dia saudara sebapak atau saudara seibu. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Yazid bin Harun] dari [Ibnu 'Aun] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6666</td></tr><tr><td>Arabic No</td><td>2616.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра рассказывал: «Абу-ль-Касим ﷺ сказал: “Если кто-либо направит на своего брата что-либо железное, ангелы будут проклинать его, пока он не прекратит, даже если это его брат по отцу и матери”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6666</td></tr><tr><td>Arabic No</td><td>2616.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 163</td></tr></tbody></table></div>
 

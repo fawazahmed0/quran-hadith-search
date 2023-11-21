@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) or Abul-Qasim said, "If the Ansar took th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Muhammad bin Ziyad] dari [Abu Hurairah Radhiyalahu'anhu] dari Nabi shallallahu 'alaihi wasallam atau Abu Al Qasim shallallahu 'alaihi wasallam bersabda: " Seandainya orang-orang Anshar mengarungi lembah atau celah di bebukitan pasti aku akan mengarungi lembah yang ditempuh kaum Anshar. Seandainya tidak ada hijrah pasti aku menjadi seorang Anshar (penolong) ". Maka Abu Hurairah Radhiyalahu'anhu berkata; "Beliau tidaklah melampaui batas (dalam berbicara). Demi bapak dan ibuku (yang menjadi tebusannya), sungguh kaum Anshar telah memberi tempat kepada beliau, dan menolong beliau". Atau ucapan yang serupa dengan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3779</td></tr><tr><td>Arabic No</td><td>3779</td></tr><tr><td>Reference</td><td>Book 63 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ (или: Абу аль-Касим ﷺ), сказал: «Если бы ансары пошли по одной долине (или: ущелью), то я бы обязательно последовал долиной ансаров. Если бы не хиджра, я непременно был бы одним из ансаров».\nАбу Хурайра сказал: «(Пророк ﷺ) не поступил несправедливо (произнеся эти слова), да станут мои отец и мать выкупом за него. (Ведь ансары) приютили его и оказали ему помощь». Либо (Абу Хурайра) произнёс другие слова (вместе с этими словами)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3779</td></tr><tr><td>Arabic No</td><td>3779</td></tr><tr><td>Reference</td><td>Book 63 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Muttalib: When Uthman ibn Maz'un died, he was brought out on his bie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] telah menceritakan kepada kami [Sa'id bin Salim], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Yahya bin Al Fadhl As Sijistani] telah menceritakan kepada kami [Hatim bin Isma'il] dengan maknanya; dari [Katsir bin Zaid Al Madani], dari [Al Muththalib], ia berkata; tatkala Utsman bin Mazh'un meninggal maka jenazahnya dikeluarkan dan dikuburkan. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan seseorang agar datang kepadanya membawa batu, namun ia tidak mampu membawanya. Kemudian beliau pergi menuju batu tersebut dan menyingsingkan kedua lengannya. -Katsir berkata; Al Muththalib berkata; telah berkata [orang yang mengabarkan hal tersebut kepadaku] dari Rasulullah shallallahu 'alaihi wasallam; sepertinya aku melihat putih kedua lengan Rasulullah shallallahu 'alaihi wasallam ketika beliau menyinsingkan keduanya. Kemudian beliau membawanya dan meletakkannya di sisi kepalanya. Beliau berkata: aku belajar menguburkan saudaranya dengannya dan kepadanya aku menguburkan keluarganya yang meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3206</td></tr><tr><td>Arabic No</td><td>3206</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мутталиб передаёт, что, когда умер ‘Усман ибн Маз‘ун и его вынесли на погребальных носилках и похоронили, Посланник Аллаха ﷺ велел одному человеку принести ему большой камень, однако тот не смог поднять его, и тогда Посланник Аллаха ﷺ дошёл к нему и засучил рукава. Касир передаёт от аль-Мутталиба: Мне рассказал тот, кто передавал мне это от Посланника Аллаха ﷺ: «И я и сейчас как будто смотрю на белизну предплечий Посланника Аллаха ﷺ когда он засучил рукава, а потом сам принёс камень и положил в изголовье могилы со словами: “Так я узнаю могилу моего брата и смогу похоронить возле него его близких”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3206</td></tr><tr><td>Arabic No</td><td>3206</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
 

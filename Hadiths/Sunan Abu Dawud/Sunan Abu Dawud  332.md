@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dharr said:A few goats got collected with the Messenger of Allah (ﷺ). He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Aun] telah mengabarkan kepada kami [Khalid Al-Wasithi] dari [Khalid Al-Hadzdza'] dari [Abu Qilabah] Al-Hadits. Dan telah menceritakan kepada kami [Musaddad] telah mengabarkan kepada kami [Khalid bin Abdullah Al-Wasithi] dari [Khalid Al-Hadzdza'] dari [Abu Qilabah] dari [Amru bin Bujdan] dari [Abu Dzarr] dia berkata; Beberapa kambing sedekah dikumpulkan pada Rasulullah shallallahu 'alaihi wasallam, lalu beliau bersabda: Wahai Abu Dzarr, kirimkan dia ke perkampungan badui. Lalu saya pun mengirimkannya ke Rabadzah. Lalu saya junub, sehingga saya tinggal lima atau enam hari shalat tanpa bersuci. Lalu saya mendatangi Nabi shallallahu 'alaihi wasallam. Beliau memanggil: "Wahai Abu Dzarr!" Namun saya terdiam. Maka beliau bersabda: Hus, wahai Abu Dzarr!" Lalu beliau memanggil seorang budak wanita hitam, dia datang dengan membawa baskom berisi air, lalu dia menutupiku dengan kain dan saya menutup diri dengan unta, lalu saya mandi, seakan-akan aku lempar tanah gunung dariku (karena tujuh hari tak bersuci dengan air). Beliau lantas bersabda: "Tanah yang suci adalah alat wudlu seorang muslim meskipun dia tidak menemukan air hingga sepuluh tahun. Apabila kamu dapati air, maka berwudhu dan mandilah, karena itu lebih baik bagimu. Musaddad berkata; Beberapa kambing sedekah. Abu Dawud berkata; Hadits Amru lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>332</td></tr><tr><td>Reference</td><td>Book 1 Hadith 332</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «Однажды перед посланником Аллаха ﷺ собрали добычу, и он сказал: “О Абу Зарр, отправляйся в пустыню с добычей”. И я отправился в Рабазу, где меня постигло осквернение, и пребывал в этом состоянии в течение пяти или шести дней, а когда я вернулся к Пророку ﷺ он сказал: “Абу Зарр?” Я промолчал, а он сказал: “Да лишится тебя мать о Абу Зарр! Горе твоей матери!” И он позвал для меня свою чернокожую служанку, которая принесла сосуд с водой. (Затем) она прикрыла меня одеждой и я спрятавшись за верблюдом искупался, (после чего почувствовал такое облегчение) как будто (избавился от ноши) величиной с гору.(Посланник Аллаха ﷺ) сказал: “Чистый песок (или земля) является средством очищения для мусульманина, даже если (он не найдет воды) в течение десяти лет. И когда ты найдешь воды, то пусть она коснется твоей кожи, воистину это лучше (или хорошо)”».Абу Дауд сказал: «Хадис ‘Амра совершеннее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>332</td></tr><tr><td>Reference</td><td>Book 1 Hadith 332</td></tr></tbody></table></div>
 

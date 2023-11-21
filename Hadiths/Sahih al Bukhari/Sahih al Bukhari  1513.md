@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Al-Fadl (his brother) was riding behind Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Sulaiman bin Yasar] dari ['Abdullah bin 'Abbas radliallahu 'anhu] berkata: "Suatu saat Al Fadhal membonceng di belakang Rasulullah shallallahu 'alaihi wasallam lalu datang seorang wanita dari suku Khasy'am yang membuat Al Fadhal memandang kepada wanita tersebut. Maka Nabi shallallahu 'alaihi wasallam memalingkan wajah Al Fadhal ke arah yang lain. Wanita itu berkata: "Wahai Rasulullah, sesungguhnya kewajiban dari Allah untuk berhajji bagi hamba-hambaNya datang saat bapakku sudah tua renta dan dia tidak akan kuat menempuh perjalanannya. Apakah aku boleh menghajjikan atas namanya?". Beliau menjawab: "Boleh". Peristiwa ini terjadi ketika hajji wada' (perpisahan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1513</td></tr><tr><td>Arabic No</td><td>1513</td></tr><tr><td>Reference</td><td>Book 25 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Когда) аль-Фадль сидел верхом позади Посланника Аллаха ﷺ подошла какая-то женщина из племени хас‘ам, и аль-Фадль принялся смотреть на неё, а она — на него, что же касается Пророка ﷺ то он стал поворачивать лицо аль-Фадля в другую сторону. (Эта женщина) сказала: “О Посланник Аллаха, Аллах обязал Своих рабов совершать хадж в то время, когда мой отец достиг уже глубокой старости и был не в состоянии твёрдо держаться в седле, так могу ли я совершить хадж за него?” Он сказал: “Да”, а было это во время прощального паломничества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1513</td></tr><tr><td>Arabic No</td><td>1513</td></tr><tr><td>Reference</td><td>Book 25 Hadith 1</td></tr></tbody></table></div>
 

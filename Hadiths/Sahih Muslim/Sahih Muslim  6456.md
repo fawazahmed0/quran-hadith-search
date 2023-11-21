@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya, dan dari [Ibnu Thawus] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik wanita adalah yang mengendarai unta." Perawi berkata; di antaranya adalah wanita Quraisyy yang baik. Sedangkan yang lainnya mengatakan; wanita Quraisyy adalah wanita yang paling penyayang kepada anak sejak mereka masih yatim, dan paling perhatian kepada suaminya. Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari [Ibnu Thawus], dari [Bapaknya] yang sampai kepada Nabi shallallahu 'alaihi wasallam -dengan Hadits yang serupa.- namun dia berkata; perhatian kepada anaknya ketika masih kecil. Dia tidak mengatakan anak yatim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6456</td></tr><tr><td>Arabic No</td><td>2527.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6456</td></tr><tr><td>Arabic No</td><td>2527.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 285</td></tr></tbody></table></div>
 

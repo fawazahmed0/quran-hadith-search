@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Barza reported that Allah's Messenger (ﷺ) sent a person to a tribe amongst
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id Al Manshur]; Telah menceritakan kepada kami [Mahdi bin Maimun] dari [Abu Al Wazi' Jabir bin 'Amru Ar Rabisi]; Aku mendengar [Abu Barzah] berkata; "RasuIuIlah shallallahu 'alaihi wasallam menugaskan seorang sahabat untuk berdakwah ke salah satu perkampungan Arab. Tetapi, sesampainya di sana para penduduk kampung tersebut malah mencaci dan memukulinya. Kemudian sahabat tersebut kembali kepada Rasulullah shallallahu 'alaihi wasallam menceritakan kejadiannya. Setelah itu, Rasulullah shallallahu 'alaihi wasallam bersabda: 'Seandainya yang kamu datangi itu adalah para penduduk negeri Oman, niscaya mereka tidak akan mencaci ataupun memukulimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6495</td></tr><tr><td>Arabic No</td><td>2544</td></tr><tr><td>Reference</td><td>Book 44 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6495</td></tr><tr><td>Arabic No</td><td>2544</td></tr><tr><td>Reference</td><td>Book 44 Hadith 324</td></tr></tbody></table></div>
 

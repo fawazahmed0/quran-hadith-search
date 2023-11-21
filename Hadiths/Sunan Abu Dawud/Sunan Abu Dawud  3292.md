@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Messenger of Allah (ﷺ) as saying: No vow must be taken to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] telah menceritakan kepada kami [Ayyub bin Sulaiman] dari [Abu Bakr bin Abu Uwais] dari [Sulaiman bin Bilal] dari [Ibnu Abu 'Atiq] dan [Musa bin 'Uqbah] dari [Ibnu Syihab] dari [Sulaiman bin Arqam] bahwa [Yahya bin Abu Katsir] telah mengabarkan kepadanya dari [Abu Salamah] dari [Aisyah radliallahu 'anha], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh ada nadzar dalam berbuat maksiat, dan kafarahnya adalah kafarah sumpah." Ahmad bin Muhammad Al Marwazi berkata; sesungguhnya hadits tersebut adalah hadits [Ali bin Al Mubarak] dari [Yahya bin Abu Katsir] dari [Muhammad bin Az Zubair] dari [ayahnya] dari [Imran bin Hushain] dari Nabi shallallahu 'alaihi wasallam. Yang ia maksudkan adalah bahwa Sulaiman bin Arqam telah salah dalam hadits tersebut. Az Zuhri membawakan hadits tersebut darinya dan ia memursalkannya dari Abu Salamah dari Aisyah rahimahullah. Abu Daud berkata; [Baqiyyah] telah meriwayatkan dari [Al Auza'i] dari [Yahya] dari [Muhammad bin Az Zubair] dengan sanad Ali bin Al Mubarak seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3292</td></tr><tr><td>Arabic No</td><td>3292</td></tr><tr><td>Reference</td><td>Book 22 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что один человек пришёл к Пророку ﷺ и сказал: «О Посланник Аллаха, моя сестра дала обет совершить хадж пешком». Пророк ﷺ сказал: «Поистине, Аллаху не нужны страдания твоей сестры (и никакой награды ей за это самоистязание не будет). Пусть же она совершит хадж верхом и искупит свою клятву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3292</td></tr><tr><td>Arabic No</td><td>3292</td></tr><tr><td>Reference</td><td>Book 22 Hadith 51</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn al-'As: Do not confuse us about his Sunnah. Ibn al-Muthanna sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] bahwa [Muhammad bin Ja'far] telah menceritakan kepada mereka. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibnu Al Mutsanna], telah menceritakan kepada kami [Abdul A'la], dari [Sa'id] dari [Mathar] dari [Raja' bin Haiwah], dari [Qabishah bin Dzuaib] dari ['Amr bin Al 'Ash], ia berkata; janganlah kalian kaburkan sunah atas kami! -Ibnu Al Mutsanna berkata; sunah Nabi kita shallallahu 'alaihi wasallam-, 'iddah orang yang wanita yang ditinggal mati suaminya adalah empat bulan sepuluh hari, yang dimaksud adalah Ummu Al Walad (budak wanita yang melahirkan anak tuannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2308</td></tr><tr><td>Arabic No</td><td>2308</td></tr><tr><td>Reference</td><td>Book 13 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом, сказал: «Не вводите нас в заблуждение относительно его сунны (или: сунны нашего Пророка ﷺ): ‘идда вдовы четыре месяца и десять дней», имея в виду невольницу, которая рожает хозяину детей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2308</td></tr><tr><td>Arabic No</td><td>2308</td></tr><tr><td>Reference</td><td>Book 13 Hadith 134</td></tr></tbody></table></div>
 

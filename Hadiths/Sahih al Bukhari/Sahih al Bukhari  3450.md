@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rabi bin Hirash:'Uqba bin 'Amr said to Hudhaifa, "Won't you relate to u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 'Awanah] telah bercerita kepada kami ['Abdul Malik] dari [Rab'iy bin Hirasy] berkata, ['Uqbah bin 'Amru] berkata kepada [Hudzaifah]; "Tidakkah kamu bersedia untuk menceritakan apa yang pernah kamu dengar dari Rasulullah shallallahu 'alaihi wasallam?". Hudzaifah berkata; "Sungguh aku pernah mendengar beliau besabda: " Dajjal keluar dengan membawa air dan api. Adapun apa yang dilihat manusia sebagai api sebenarnya adalah air yang dingin, dan yang dilihat manusia sebagai air sesungguhnya dia adalah api yang membakar. Maka siapa di antara kalian yang berjumpa dengannya hendaklah mengambil yang di tangannya yang nampak seperti api karena itu adalah air yang segar lagi dingin". Hudzaifah berkata pula; "Dan aku juga pernah mendengar beliau shallallahu 'alaihi wasallam besabda: "Ada seorang dari kaum sebelum kalian didatangi malaikat untuk mencabut nyawanya lalu ditanyakan kepadanya; "Apakah kamu pernah beramal kebaikan?". Orang itu menjawab; "Aku tidak tahu". Dikatakan kepadanya; "Coba kamu ingat-ingat". Orang itu kembali menjawab; "Aku tidak tahu apapun, kecuali aku pernah melakukan transaksi jual beli sesama manusia, terhadap yang diberi kelonggaran hartanya pun aku memberi toleransi waktu untuk membayar hutangnya, dan terhadap yang kesulitan aku memaafkan. Allah pun kemudian memasukkannya ke surga". Lalu Hudzaifah berkata lagi; "Dan aku juga pernah mendengar beliau shallallahu 'alaihi wasallam: "Ada seseorang ketika kematiannya sudah hampir dekat dan sudah tidak punya harapan untuk bertahan hidup, dia berwasiat kepada keluarganya; "Jika nanti aku meninggal dunia, kumpulkanlah kayu bakar yang banyak lalu nyalakanlah api pada kayu-kayu itu (untuk membakarku) hingga apabila api telah melumat dagingku dan menghancurkan tulang belulangku, hingga setelah menjadi abu maka ambillah, kumpulkanlah abu jasadku itu lalu lihatlah suatu hari ketika angin berhembus kencang, maka kalian hanyutkanlah abu jasadku itu ke sungai. Keluarganya pun melakukan wasiatnya. Pada hari qiyamat Allah memgumpulkan kembali abu jasadnya itu lalu dihidupkan, kemudian dia ditanya: "Mengapa kamu lakukan itu?". Orang itu menjawab: "Karena aku takut kepada-Mu". Maka Allah mengampuni orang itu". 'Uqbah bin 'Amru; "Dan aku mendengar beliau shallallahu 'alaihi wasallam besabda seperti itu dan disebutkan bahwa orang yang dimaksud itu pekerjaannya sebagai tukang penggali kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3450</td></tr><tr><td>Arabic No</td><td>3450</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хузейфы, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Поистине, когда появится Антихрист, будут у него вода и огонь, и то, что будет представляться людям огнём, (на самом деле окажется) прохладной водой, а то, что будет представляться им прохладной водой, (на самом деле окажется) жгучим огнём, и пусть тот из вас, кто доживёт до этого, бросается в то, что покажется ему огнём, ибо на самом деле это будет прохладной и приятной водой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3450</td></tr><tr><td>Arabic No</td><td>3450</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

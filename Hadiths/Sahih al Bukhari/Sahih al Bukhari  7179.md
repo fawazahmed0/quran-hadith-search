@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ)s said, "The worst of all mankind is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Hubaib] dari [Irak] dari [Abu Hurairah], ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia yang paling buruk adalah yang bermuka dua (OPORTUNIS), yang mendatangi kaum dengan muka tertentu dan mendatangi lainnya dengan muka yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7179</td></tr><tr><td>Arabic No</td><td>7179</td></tr><tr><td>Reference</td><td>Book 93 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, слышал как Посланник Аллаха ﷺ сказал: «Поистине, худшим из людей является двуличный, который к одним приходит с одним лицом, а к другим — с другим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7179</td></tr><tr><td>Arabic No</td><td>7179</td></tr><tr><td>Reference</td><td>Book 93 Hadith 42</td></tr></tbody></table></div>
 

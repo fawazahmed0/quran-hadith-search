@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Qatâda (que Dieu l'agrée) a dit : J'ai entendu le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] dan [Ishaq bin Ibrahim] serta [Ibnu Abu 'Umar] seluruhnya dari [Ibnu 'Uyainah] dan lafazh ini milik Ibnu Abu 'Umar; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Salamah] dia berkata; 'Aku bermimpi sesuatu yang menyebabkan aku sakit dan waktu itu aku tidur tanpa selimut. Lalu aku bertemu dengan [Abu Qatadah] lalu aku menyampaikan hal itu kepadanya hingga kemudian dia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Mimpi yang baik datang dari Allah dan mimpi yang buruk datang dari setan. Apabila kamu bermimpi sesuatu yang tidak kamu senangi, maka meludahlah ke kiri tiga kali, kemudian berlindunglah kepada Allah dari bahaya kejahatannya, niscaya dia tidak akan membahayakan." Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari [Muhammad bin 'Abdur Rahman] -seorang budak dari keluarga- Thalhah dan ['Abdu Rabbih] dan [Yahya Ibnu Sa'id] dan [Muhammad bin 'Amru bin 'Alqamah] dari [Abu Salamah] dari [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Namun dia tidak menyebutkan perkataan Abu Salamah. Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abdu bin Humaid] keduanya berkata; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] melalui jalur ini. Dan di dalamnya tidak ada perkataan Abu Salamah. Di dalam Hadits Yunus ada tambahan; 'Maka meludahlah ke kiri ketika dia bangun tidur sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5897</td></tr><tr><td>Arabic No</td><td>2261.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5897</td></tr><tr><td>Arabic No</td><td>2261.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 1</td></tr></tbody></table></div>
 

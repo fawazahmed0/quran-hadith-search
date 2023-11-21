@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Asim ibn Humayd said: I asked Aisha: By what wor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Zaid bin Al Hubbab] telah mengabarkan kepadaku [Mu'awiyah bin Shalih] telah mengabarkan kepadaku [Azhar bin Sa'id Al Harazi] dari ['Ashim bin Humaid] dia berkata; "Aku bertanya kepada [Aisyah]; "Dengan apakah Rasulullah shallallahu 'alaihi wasallam memulai shalat malamnya?" Aisyah menjawab; "Sungguh kamu telah menanyakan kepadaku sesuatu yang belum pernah di tanyakan seseorang sebelummu, apabila beliau mengerjakan (shalat malam) beliau memulai dengan takbir sepuluh kali, memuji Allah sepuluh kali, bertasbih sepuluh kali, lalu beliau mengucapkan; "ALLAHUMMAGHFIRLII WAHDINII WARZUQNII WA'AAFINII (Ya Allah, ampunilah daku, berilah aku petunjuk, berilah aku rizki dan anugerahkanlah kesehatan padaku), kemudian beliau juga berlindung dari sempitnya kedudukan pada hari Kiamat." Abu Daud mengatakan; "Dan di riwayatkan pula oleh [Khalid bin Ma'dan] dari [Rabi'ah Al Jurasyi] dari [Aisyah] seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>766</td></tr><tr><td>Arabic No</td><td>766</td></tr><tr><td>Reference</td><td>Book 2 Hadith 376</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Асым ибн Хумайд сказал: (Однажды) я спросил у ‘Аиши: «Какими (словами мольбы) начинал ночную молитву Посланник Аллаха ﷺ?» Она ответила: «Ты спросил у меня о том, о чём никто до тебя не спрашивал. Когда он становился (на молитву), он произносил слова “Аллаху акбар/Аллах велик/ десять раз, “Аль-хамду ли-Ллях”/Хвала Аллаху/ десять раз, и десять раз говорил: “Субхана-Ллах”/Пречист Аллах/, десять раз произносил слова “Ля иляха илля-Ллах”/ Нет бога, достойного поклонения, кроме Аллаха/, и десять раз “Астагъфиру-Ллах”/Прошу прошения у Аллаха/, а затем говорил: “Аллахумма-гъфир ли, ва-хдини, ва-рзукъни, ва ‘афини”/О Аллах, прости меня, веди меня по прямому пути, и дай мне средства к существованию и даруй мне благополучие/. И так же он прибегал к защите Аллаха от тесноты места в День воскрешения».Абу Дауд сказал: «Похожий на него хадис передал Халид ибн Ма‘дан со слов Раби‘а аль-Джураши от ‘Аиши»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>766</td></tr><tr><td>Arabic No</td><td>766</td></tr><tr><td>Reference</td><td>Book 2 Hadith 376</td></tr></tbody></table></div>
 

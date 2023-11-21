@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: We counted that the Messenger of Allah (ﷺ) would s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Hasan bin Ali], telah menceritakan kepada Kami [Abu Usamah] dari [Malik bin Mighwal] dari [Muhammad bin Suqah] dari [Nafi'] dari [Ibnu Umar], ia berkata; sungguh Kami telah menghitung ucapan Rasulullah shallla Allahu 'alaihi wa sallam dalam satu majlis beliau "RABBIGHFIRLII WA TUB 'ALAYYA, INNAKAT TAWWAABUR RAHIIM" (Ya Tuhanku, ampunilah aku dan terimalah taubatku sesungguhnya Engkau adalah Dzat yang Maha menerima taubat lagi Maha Penyayang) sebanyak seratus kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>1516</td></tr><tr><td>Reference</td><td>Book 8 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «По нашим подсчётам, за время одной встречи с людьми Посланнику Аллаха ﷺ случалось по сто раз произносить слова: “Господь мой, прости меня и прими моё покаяние, поистине, Ты Принимающий покаяние, Милостивый! /Рабби-гфир ли ва туб ‘аляййа, инна-ка Анта-т-Таввабу-р-Рахиму/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>1516</td></tr><tr><td>Reference</td><td>Book 8 Hadith 101</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah that his father said:"I have not seen the Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] dari [bapaknya] radliallahu 'anhuma berkata: "Aku tidak melihat Nabi Shallallahu'alaihiwasallam menyentuh sesuatu dari Ka'bah kecuali dua rukun Yamani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1609</td></tr><tr><td>Arabic No</td><td>1609</td></tr><tr><td>Reference</td><td>Book 25 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим ибн ‘Абдуллах передал, что его отец сказал: «Я не видел, чтобы Пророк ﷺ касался каких-либо углов Каабы, кроме двух йеменских»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1609</td></tr><tr><td>Arabic No</td><td>1609</td></tr><tr><td>Reference</td><td>Book 25 Hadith 95</td></tr></tbody></table></div>
 

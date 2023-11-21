@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:Allah's Messenger (ﷺ) was asked about things whic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa Al Asy'ari] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang beberapa perkara yang tidak beliau sukai, tatkala mereka memperbanyak pertanyaan, maka beliau marah dan mengatakan: "Bertanyalah kalian kepadaku." Lantas ada seseorang berdiri dan bertanya, 'Ya Rasulullah, Siapa ayahku? ' Rasulullah menjawab: "Ayahmu Hudzafah." Kemudian ada laki-laki lain berdiri dan bertanya, "Wahai Rasulullah, siapa ayahku? ' Rasulullah menjawab: "Ayahmu Salim, budak Syaibah." Dikala Umar melihat apa yang terjadi pada wajah Rasulullah shallallahu 'alaihi wasallam karena marah, Umar berkata, "Kami bertaubat kepada Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7291</td></tr><tr><td>Arabic No</td><td>7291</td></tr><tr><td>Reference</td><td>Book 96 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды люди) стали задавать Посланнику Аллаха ﷺ такие вопросы, на которые он не хотел отвечать, однако, когда (люди, задававшие их,) принялись настаивать, он (сначала) разгневался, а потом сказал им: “Спрашивайте меня”. И в этот момент встал один человек и спросил: “О Посланник Аллаха, кто мой отец?” (Пророк ﷺ) ответил: “Твой отец — Хузафа”. Потом встал другой человек и спросил: “О Посланник Аллаха, кто мой отец?” Он ответил: “Твой отец — Салим, вольноотпущенник Шейбы”. А когда ‘Умар увидел по лицу, что Посланник Аллаха ﷺ гневается, он сказал: “Поистине, мы приносим своё покаяние Всемогущему и Великому Аллаху!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7291</td></tr><tr><td>Arabic No</td><td>7291</td></tr><tr><td>Reference</td><td>Book 96 Hadith 22</td></tr></tbody></table></div>
 

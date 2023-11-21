@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Prophet (ﷺ) said: to Ali: Do not give a se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Musa Al Fazari], telah mengabarkan kepada kami [Syarik] dari [Abu Rabi'ah Al Iyadi] dari [Ibnu Buraidah] dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada Ali: "Wahai Ali, janganlah engkau ikutkan pandangan pertama dengan pandangan yang lain (berikutnya), sesungguhnya bagimu pandangan yang pertama tidak pandangan yang lainnya (berikutnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2149</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 12 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бурайды, да будет доволен им Аллах: «Посланник Аллаха ﷺ сказал ‘Али, да будет доволен им Аллах: “О ‘Али! Взглянув (случайно) раз, не гляди снова, ибо первый взгляд тебе дозволен, но второй уже нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2149</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 12 Hadith 104</td></tr></tbody></table></div>
 

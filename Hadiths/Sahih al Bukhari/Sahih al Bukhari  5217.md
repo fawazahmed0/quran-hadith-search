@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:that during his fatal ailment, Allah's Messenger (ﷺ), used to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku [Sulaiman bin Bilal] Telah berkata [Hisyam bin Urwah] Telah mengabarkan kepadaku [bapakku] dari [Aisyah] radliallahu 'anha, bahwa Rasulullah shallallahu 'alaihi wasallam bertanya di saat beliau sakit yang menyebabkan kematiannya, "Di mana aku esok hari, dimana aku esok hari?" Rupanya beliau menginginkan hari esoknya adalah untuk Aisyah, maka para isteri-isterinya pun mengizinkan untuk memilih siapa saja yang dikehendakinya, maka ia memilih di rumah Aisyah hingga meninggal di tempat di sisinya. Aisyah berkata, "Beliau meninggal tepat di hari yang beliau inginkan untuk berada di rumahku. Allah mewafatkannya sementara kepala beliau berada antara dada dan paru-paruku dan air liurnya bercampur dengan air liurku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5217</td></tr><tr><td>Arabic No</td><td>5217</td></tr><tr><td>Reference</td><td>Book 67 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что, заболев той болезнью, от которой он умер, Посланник Аллаха ﷺ спрашивал: «Где я буду завтра? Где я буду завтра?» — желая, чтобы поскорее настал день ‘Аиши. И его жёны согласились на то, чтобы он сам выбрал, где ему быть, и он выбрал дом ‘Аиши, где и скончался. ‘Аиша рассказывала: «Он скончался в тот день, который он должен провести у меня, в моём доме. Аллах забрал его (душу), когда его голова покоилась между моей шеей и грудью. И (в тот день) слюна его смешалась с моей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5217</td></tr><tr><td>Arabic No</td><td>5217</td></tr><tr><td>Reference</td><td>Book 67 Hadith 150</td></tr></tbody></table></div>
 

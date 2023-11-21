@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet of Allah (ﷺ) took silk and held it in h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Aflah Al Hamdani] dari [Abdullah bin Zurair] -yaitu Al Aghafiqi- Bahwasanya ia mendengar [Ali bin Abu Thalib radliallahu 'anhu] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mangambil sutera lalu meletakkannya pada sisi kanannya, dan mengambil emas lalu meletakkannya pada sisi kirinya. Kemudian beliau bersabda: "Sesugguhnya dua barang ini haram bagi umatku yang laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4057</td></tr><tr><td>Arabic No</td><td>4057</td></tr><tr><td>Reference</td><td>Book 34 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али ибн Абу Талиба, да будет доволен им Аллах: «Поистине, Пророк Аллаха ﷺ взял шёлк в правую руку и золото в левую, а потом сказал: “Поистине, эти две вещи запретны для мужчин моей общины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4057</td></tr><tr><td>Arabic No</td><td>4057</td></tr><tr><td>Reference</td><td>Book 34 Hadith 38</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Khalid b. Umair reported:I heard Uqba b. Ghazwan as saving: I found myself as th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al Ala'] telah menceritakan kepada kami [Waki'] dari [Qurrah bin Khalid] dari [Humaid bin Hilal] dari [Khalid bin Umair] berkata: Aku mendengar [Utbah bin Ghazwan] berkata: Aku melihatku orang ketujuh dari tujuh orang bersama Rasulullah Shallallahu 'alaihi wa Salam, makanan kami tidak lain hanya dedaunan anggur hingga sudut mulut kami terluka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7437</td></tr><tr><td>Arabic No</td><td>2967.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7437</td></tr><tr><td>Arabic No</td><td>2967.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 21</td></tr></tbody></table></div>
 

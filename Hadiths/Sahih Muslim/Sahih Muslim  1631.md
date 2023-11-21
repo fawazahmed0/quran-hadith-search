@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'adh reported:We set out with the Messenger of Allah (ﷺ) on the Tabuk expedi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Zubair] dari [Abu Thufail Amir] dari [Mu'adz] katanya; "Kami berangkat bersama Rasulullah shallallahu 'alaihi wasallam ketika perang Tabuk, lalu beliau melakukan shalat zhuhur dan ashar sekaligus, maghrib dan isya' sekaligus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1631</td></tr><tr><td>Arabic No</td><td>706.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз сказал: «Мы выступили (из Медины) вместе с Посланником Аллаха ﷺ в поход на Табук, который объединял молитвы (в пути) и совершал полуденную молитву вместе с послеполуденной, а закатную с вечерней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1631</td></tr><tr><td>Arabic No</td><td>706.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 62</td></tr></tbody></table></div>
 

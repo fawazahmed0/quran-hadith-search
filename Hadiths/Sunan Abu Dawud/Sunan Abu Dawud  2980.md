@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jubair b. Mu'tim:On the day of Khaibar the Messenger of Allah (ﷺ) div
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Husyaim] dari [Muhammad bin Ishaq], dari [Az Zuhri] dari [Sa'id bin Al Musayyab], telah mengabarkan kepadaku [Jubair bin Muth'im], ia berkata; tatkala pada saat perang Khaibar, Rasulullah shallallahu 'alaihi wasallam meletakkan saham kaum kerabat pada Bani Hasyim dan Bani Abdul Muththalib, dan beliau meninggalkan Bani Naufal serta Bani Abdu Syams. Kemudian aku dan Utsman bin Affan pergi hingga datang kepada Nabi shallallahu 'alaihi wasallam, lalu kami berkata; wahai Rasulullah, mereka Bani Hasyim, kami tidak mengingkari keutamaan mereka karena posisi yang Allah tempatkan anda diantara mereka, namun bagaimana dengan saudara-saudara kami Bani Abdul Muththalib? Anda telah memberikan kepada mereka dan meninggalkan kami, sementara kerabat kami adalah satu. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kami dan Bani Al Muththalib tidak berpisah pada masa jahiliyah dan pada masa Islam, sesungguhnya kami dan mereka adalah sesuatu yang satu." Dan beliau menjalin jari-jari beliau shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>2980</td></tr><tr><td>Reference</td><td>Book 20 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джубайра ибн Мут‘има, да будет доволен им Аллах: «Во время похода на Хайбар Посланник Аллаха ﷺ распределил долю близких Посланника Аллаха ﷺ из хумуса между бану хашим и бану аль-мутталиб, ничего не дав бану ‘абд шамс и бану науфаль. Мы с ‘Усманом отправились к Пророку ﷺ и сказали: “О Посланник Аллаха, мы не отрицаем достоинств бану хашим, которыми Аллах наделил их из-за их родства с тобой. Но почему ты даёшь нашим братьям бану аль-мутталиб, но не даёшь нам, хотя все мы родственники?” Посланник Аллаха ﷺ сказал: “Мы с бану аль-мутталиб не расходились ни во времена невежества, ни в исламе, мы с ними одно целое”». Сказав это, Посланник Аллаха ﷺ переплёл пальцы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>2980</td></tr><tr><td>Reference</td><td>Book 20 Hadith 53</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Anas that the Messenger of Allah (ﷺ) said:T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, Saya mendengar [Qatadah] menceritakan hadits dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tiga perkara jika itu ada pada seseorang maka ia akan merasakan manisnya iman; orang yang mencintai orang lain, ia tidak mencintainya kecuali karena Allah, orang yang Allah dan Rasul-Nya lebih ia cintai daripada selain keduanya, dan orang yang lebih suka untuk dilemparkan kepada api daripada dia kembali kepada kekafiran setelah Allah menyelamatkannya dari kekafiran tersebut." Telah menceritakan kepada kami [Ishaq bin Manshur] telah memberitakan kepada kami [an-Nadlar bin Syumail] telah memberitakan kepada kami [Hammad] dari [Tsabit] dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda sebagaimana hadits mereka, hanya saja dia menyebutkan, 'Daripada dia kembali dalam keadaan Yahudi atau Nashrani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>43.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что Посланник Аллаха ﷺ сказал: «Вкус веры ощутит тот, кому (присущи) три (качества): тот, кто любит (того или иного) человека только ради Аллаха, и любит Аллаха и посланника Его больше всего остального, и для кого любимее быть брошенным в огонь, чем вернутся к неверию после того, как Аллах спас его от (неверия)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>43.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 73</td></tr></tbody></table></div>
 

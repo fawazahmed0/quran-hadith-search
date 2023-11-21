@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: A man of the Ansar called him and AbdurRahman ibn Awf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada kami ['Atha bin As Saib] dari [Abu Abdurrahman As Sulami] dari [Ali bin Abu Thalib] bahwa seorang laki-laki Anshar memanggil dirinya dan Abdurrahman bin 'Auf, lalu ia memberi mereka minum khamer sebelum khamer diharamkan. Setelah itu Ali mengimami mereka dalam Shalat Maghrib. Ketika ia membaca Surat Al Ikhlash dan terbolak-balik dalam membacanya, maka turunlah ayat: '(Hai orang-orang yang beriman, janganlah kamu shalat, sedang kamu dalam keadaan mabuk, sehingga kamu mengerti apa yang kamu ucapkan…) ' (Qs. An Nisaa':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3671</td></tr><tr><td>Arabic No</td><td>3671</td></tr><tr><td>Reference</td><td>Book 27 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али ибн Абу Талиба, да будет доволен им Аллах, что один человек из числа ансаров пригласил их с ‘Абду-р-Рахманом ибн ‘Ауфом в гости и напоил их вином это было до ниспослания запрета. ‘Али совершил с ними закатную молитву /магъриб/ и, читая суру «аль-Кафирун», запутался в ней. И в связи с этим случаем был ниспослан аят: «О те, которые уверовали! Не приближайтесь к молитве, будучи пьяными, пока не начнёте понимать, что говорите» (сура “ан-Ниса”, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3671</td></tr><tr><td>Arabic No</td><td>3671</td></tr><tr><td>Reference</td><td>Book 27 Hadith 3</td></tr></tbody></table></div>
 

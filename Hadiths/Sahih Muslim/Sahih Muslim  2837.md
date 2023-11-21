@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:I still seem to perceive the glisten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Malik bin Mighwal] dari [Abdurrahman bin Al Aswad] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; "Saya benar-benar melihat kemilau harum-haruman di kepala Rasulullah shallallahu 'alaihi wasallam saat beliau sedang melakukan Ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>1190.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>1190.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
 

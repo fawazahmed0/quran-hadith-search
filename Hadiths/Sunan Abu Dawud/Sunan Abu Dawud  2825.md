@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbulUshara': AbulUshara' reported on the authority of his father: He as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Hammad bin Salamah], dari [Abu Al 'Usyara'] dari [ayahnya], bahwa ia berkata; wahai Rasulullah, apakah menyembelih itu harus dari labbah (leher bagian bawah) atau tenggorokan? Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Seandainya engkau tusuk pada pahanya niscaya sah bagimu." Abu Daud berkata; dan hal ini tidak boleh dilakukan kecuali pada hewan yang terjatuh dari atas dan hewan yang menjadi liar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2825</td></tr><tr><td>Arabic No</td><td>2825</td></tr><tr><td>Reference</td><td>Book 16 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-‘Ушара передаёт от своего отца, что он сказал: «О Посланник Аллаха ﷺ чтобы животное стало дозволенным для употребления в пищу, его кровь при заклании должна быть обязательно выпущена через горло?» Посланник Аллаха ﷺ сказал: «Если бы ты проткнул её бедро, этого было бы достаточно». Абу Дауд сказал, что это предписание касается только животного, которое упало в колодец, или одичавшего животного
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2825</td></tr><tr><td>Arabic No</td><td>2825</td></tr><tr><td>Reference</td><td>Book 16 Hadith 38</td></tr></tbody></table></div>
 

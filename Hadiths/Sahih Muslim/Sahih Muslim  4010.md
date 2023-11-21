@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this is reported on the authority of Abu Mas'ud through another ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya bacakan di hadapan [Malik]; dari [Ibnu Syihab] dari [Abu Bakar bin Abdurrahman] dari [Abu Mas'ud Al Anshari], bahwasannya Rasulullah shallallahu 'alaihi wasallam melarang menggunakan uang hasil menjual anjing, hasil dari usaha pelacuran dan upah perdukunan." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Rumh] dari [Laits bin Sa'd]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin Uyainah] keduanya dari [Zuhri] dengan sanad-sanad ini seperti hadits tersebut. Dan dalam hadits Laits dari riwayatnya Ibnu Rumh, bahwa dia mendengar dari Abu Mas'ud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4010</td></tr><tr><td>Arabic No</td><td>1567.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4010</td></tr><tr><td>Arabic No</td><td>1567.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
 

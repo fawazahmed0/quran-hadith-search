@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) got some ornaments presented b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Nufail] berkata, telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] ia berkata; telah menceritakan kepadaku [Yahya bin Abbad] dari bapaknya [Abbad bin Abdullah] dari ['Aisyah radliallahu 'anha] ia berkata, "Nabi shallallahu 'alaihi wasallam mendapat kiriman perhiasan dari An Najasyi sebagai hadiah. Di antara perhiasan tersebut terdapat sebuah cincin emas yang mata cincinnya dari habasyah. 'Aisyah berkata, "Rasulullah shallallahu 'alaihi wasallam lalu mengambilnya dengan sebatang kayu, atau jarinya karena tidak suka. Beliau kemudian memanggil Umamah binti Abu Al Ash, anak perempuan dari puterinya Zainab, beliau bersabda: "Wahai anakku, pakailah perhiasan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4235</td></tr><tr><td>Arabic No</td><td>4235</td></tr><tr><td>Reference</td><td>Book 36 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша (да будет доволен ею Аллах) передаёт, что однажды Пророку ﷺ привезли украшения, которые подарил ему негус (правитель Эфиопии). Среди них был золотой перстень с эфиопским камнем. Посланник Аллаха ﷺ взял его палочкой, отвернувшись от него, или же он взял его кончиками пальцев, после чего позвал Умаму бинт Абу аль-‘Ас, дочь его дочери Зейнаб, и сказал: «Укрась себя этим, доченька»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4235</td></tr><tr><td>Arabic No</td><td>4235</td></tr><tr><td>Reference</td><td>Book 36 Hadith 22</td></tr></tbody></table></div>
 

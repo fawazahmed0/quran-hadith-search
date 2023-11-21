@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: May Allah have mercy on the early immigrant wome
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Sulaiman bin Dawud Al Mahri] dan [Ibnu As Sarh] dan [Ahmad bin Sa'id Al Hamdani] mereka berkata; telah mengabarkan kepada kami [Ibnu Wahb] berkata; telah mengabarkan kepadaku [Qurrah bin 'Abdurrahman Al Ma'arifi] dari [Ibnu Syihab] dari [Urwah bin Az Zubair] dari ['Aisyah] radliallahu 'anha, Bahwasanya ia pernah berkata, "Semoga Allah merahmati wanita-wanita muhajirat (wanita-wanita yang berhijrah ke Madinah) yang terdahulu, ketika Allah menurunkan ayat: (Dan hendaklah mereka menutupkan kerudung ke dadanya..), mereka memotong (kain) lengan, [Ibnu Shalih] menyebutkan, "(mereka memotong) kelebihan kain mereka untuk menutupi wajah mereka." Telah menceritakan kepada kami [Ibnu As Sarh] ia berkata, "Aku melihat dalam buku [pamanku]; dari [Uqail] dari [Ibnu Syihab] dengan sanad dan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4102</td></tr><tr><td>Arabic No</td><td>4102</td></tr><tr><td>Reference</td><td>Book 34 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Да помилует Аллах первых женщин, совершивших переселение! Когда был ниспослан аят “И пусть они закрывают своими покрывалами вырезы на груди”, они разорвали свои самые плотные изары и обмотали ими головы и шеи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4102</td></tr><tr><td>Arabic No</td><td>4102</td></tr><tr><td>Reference</td><td>Book 34 Hadith 83</td></tr></tbody></table></div>
 

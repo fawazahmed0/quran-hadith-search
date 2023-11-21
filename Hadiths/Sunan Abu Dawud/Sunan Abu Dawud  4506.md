@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Shu'aib: On his father's authority said that his grandfather re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] berkata, telah menceritakan kepada kami [Muhammad bin rasyid] berkata, telah menceritakan kepada kami [Sulaiman bin Musa] dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang mukmin tidak boleh dibunuh karena orang kafir (sebagai qishas). Maka barangsiapa membunuh seorang mukmin dengan sengaja, perkaranya diserahkan kepada wali korban; jika mereka berkehendak maka mereka boleh balas membunuh, dan jika mereka berkehendak maka mereka boleh minta tebusan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4506</td></tr><tr><td>Arabic No</td><td>4506</td></tr><tr><td>Reference</td><td>Book 41 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Пророк ﷺ сказал: «Не убивают верующего за неверующего, а тот, кто убил верующего умышленно, выдаётся покровителям убитого, и они могут казнить его, если пожелают, либо принять от него компенсацию /дийа/, если пожелают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4506</td></tr><tr><td>Arabic No</td><td>4506</td></tr><tr><td>Reference</td><td>Book 41 Hadith 13</td></tr></tbody></table></div>
 

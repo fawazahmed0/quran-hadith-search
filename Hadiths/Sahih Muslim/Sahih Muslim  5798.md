@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I heard Allah's Messenger (ﷺ) as saying: There is no divi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abd bin Humaid]; Telah menceritakan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Ubaidullah bin 'Abdillah bin 'Utbah] bahwa [Abu Hurairah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada pengaruh jahat karena burung. Dan yang paling baik adalah Al Fa'l. Lalu beliau ditanya; 'Apa itu Al Fa'l, Ya Rasulullah? ' Jawab beliau; 'Kalimah shalihah (baik) yang di dengar oleh salah seorang di antara kalian.' Telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Laits] Telah menceritakan kepadaku [Bapakku] dari [Kakekku], Telah menceritakan kepadaku [Uqail bin Khalid] Demikian juga diriwayatkan dari jalur lainnya, dan Telah menceritakannya kepadaku [Abdullah bin Abdurrahman Ad Darimi] Telah mengabarkan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] keduanya dari [Az Zuhri] melalui jalur ini dengan Hadits yang serupa. Dan di dalam Hadits 'Uqail dari Rasulullah shallallahu 'alaihi wasallam, namun dia tidak menyebutkan 'Aku mendengar dari.' Dan di dalam Hadits Syu'aib dia berkata; 'Aku mendengar Nabi shallallahu 'alaihi wasallam' sebagaimana Hadits Ma'mar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5798</td></tr><tr><td>Arabic No</td><td>2223.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5798</td></tr><tr><td>Arabic No</td><td>2223.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 150</td></tr></tbody></table></div>
 

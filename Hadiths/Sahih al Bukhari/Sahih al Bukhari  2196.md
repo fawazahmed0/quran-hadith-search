@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) forbade the s of (date) fruits ti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddaad] telah menceritakan kepada kami [Yahya bin Yusuf] dari [Salim bin Hayyan] telah menceritakan kepada kami [Sa'id bin Mina]; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anhu] berkata: Nabi shallallahu 'alaihi wasallam telah melarang menjual buah-buahan hingga 'tusyaqqah' alias sempurna. Ditanyakan apa ang dimaksud dengan 'tusyaqqah'. Dia menjawab: "Jadi kemerahan dan kekuningan sehingga dapat dimakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2196</td></tr><tr><td>Arabic No</td><td>2196</td></tr><tr><td>Reference</td><td>Book 34 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ запрещал продавать финики, пока они не краснели или не желтели, когда их уже можно было есть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2196</td></tr><tr><td>Arabic No</td><td>2196</td></tr><tr><td>Reference</td><td>Book 34 Hadith 143</td></tr></tbody></table></div>
 

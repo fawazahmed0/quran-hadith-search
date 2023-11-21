@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) having said:When the wings o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur]; Telah mengabarkan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku ['Atha]; bahwa dia mendengar [Jabir bin 'Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bila hari telah senja laranglah anak-anak keluar rumah, karena ketika itu setan berkeliaran. Dan bila waktu malam tiba biarkanlah mereka. Kuncilah pintu dan sebut nama Allah, karena setan tidak dapat membuka pintu yang terkunci (dengan menyebut nama Allah). Tutup semua bejanamu dengan menyebut nama Allah, sekalipun dengan membentangkan sesuatu di atasnya, dan padamkan lampu (ketika hendak tidur)." Telah menceritakan kepadaku [Ishaq bin Manshur]; Telah mengabarkan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku ['Amru bin Dinar]; dia mendengar [Jabir bin Abdullah] berkata sebagimana yang telah dikabarkan oleh 'Atha, hanya saja dia tidak menyebutkan kalimat 'Sebutlah nama Allah Azza Wa Jalla'. Dan telah menceritakan kepada kami [Ahmad bin 'Utsman An Naufali]; Telah menceritakan kepada kami [Abu 'Ashim]; Telah mengabarkan kepada kami [Ibnu Juraij] dengan Hadits ini. Dari ['Atha] dan ['Amru bin Dinar] sebagaimana riwayat Rauh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5250</td></tr><tr><td>Arabic No</td><td>2012.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5250</td></tr><tr><td>Arabic No</td><td>2012.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 124</td></tr></tbody></table></div>
 

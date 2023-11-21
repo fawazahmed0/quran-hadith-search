@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: When a man comes t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid? bin Khalid Ar Ramli], telah menceritakan kepada kami [Ibnu Wahb] dari [Huyai bin Abdullah] dari [Abu Abdurrahman Al Hubuli], dari [Ibnu Amru], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Apabila ada seseorang datang menjenguk orang yang sakit, hendaknya ia mengucapkan (doa); ALLAAHUMMASYFI 'ABDAKA YANKA'U LAKA 'ADUWWAN AU YAMSYII LAKA ILAA JANAZATIN (ya Allah, sembuhkanlah hambaMu yang akan mengalahkan musuhMu, atau berjalan karenaMu mengantarkan jenazah). Abu Dawud berkata, Ibnu Sarj berkata, Menuju shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 21 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Амра, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Когда человек приходит навестить больного, пусть он скажет: “О Аллах, исцели раба Твоего, и он будет сражаться с Твоими врагами и участвовать в похоронных процессиях ради Тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3107</td></tr><tr><td>Arabic No</td><td>3107</td></tr><tr><td>Reference</td><td>Book 21 Hadith 19</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir (que Dieu l'agrée) : Deux jeunes hommes, l'un des Muhâjirûn e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Abdullah bin Yunus]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] dia berkata; "Pada suatu hari, ada dua orang pemuda sedang berkelahi, masing-masing dari kaum Muhajirin dan kaum Anshar. Pemuda Muhajirin itu berteriak; 'Hai kaum Muhajirin, (berikanlah pembelaan untukku!) ' Pemuda Anshar pun berseru; 'Hai kaum Anshar, (berikanlah pembelaan untukku!) ' Mendengar itu, Rasulullah shallallahu 'alaihi wasallam keluar dan bertanya: 'Ada apa ini? Bukankah ini adalah seruan jahiliah? ' Orang-orang menjawab; 'Tidak ya Rasulullah. Sebenarnya tadi ada dua orang pemuda yang berkelahi, yang satu mendorong yang lain.' Kemudian Rasulullah bersabda: 'Baiklah. Hendaklah seseorang menolong saudaranya sesama muslim yang berbuat zhalim atau yang sedang dizhalimi. Apabila ia berbuat zhalim/aniaya, maka cegahlah ia untuk tidak berbuat kezhaliman dan itu berarti menolongnya. Dan apabila ia dizalimi/dianiaya, maka tolonglah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6582</td></tr><tr><td>Arabic No</td><td>2584.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6582</td></tr><tr><td>Arabic No</td><td>2584.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 80</td></tr></tbody></table></div>
 

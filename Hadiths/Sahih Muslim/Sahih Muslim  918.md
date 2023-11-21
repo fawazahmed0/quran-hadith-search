@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Harare reported:The Messenger of Allah (ﷺ) said: When anyone amongst you u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah al-Qa'nabi] telah menceritakan kepada kami [al-Mughirah] dari [Abu az-Zinad] dari [al-'A'raj] dari [Abu Hurairah ra] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila salah seorang dari kalian mengucapkan, 'Amin' sedangkan malaikat di langit mengucapkan, 'Amin' lalu satu dengan lainnya bersesuaian, niscaya dosanya yang telah lalu diampuni." Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah ra] dari Nabi Shallallahu'alaihiwasallam dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>918</td></tr><tr><td>Arabic No</td><td>410.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас скажет “Амин”, и ангелы на небесах (также) скажут: “Амин”, и совпадёт (то, что скажет) один (с тем, что скажут) другие, ему простятся его прежние грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>918</td></tr><tr><td>Arabic No</td><td>410.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 80</td></tr></tbody></table></div>
 

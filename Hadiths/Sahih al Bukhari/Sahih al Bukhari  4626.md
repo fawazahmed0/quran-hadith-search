@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "You will be gathered (on the Day of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Al Mughirah bin An Nu'man] dia berkata; Telah menceritakan kepadaku [Sa'id bin Jubair] dari [Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kalian akan dikumpulkan pada hari kiamat, dan sesungguhnya ada orang-orang yang ditarik kekiri. Maka aku aku mengucapkan seperti perkataan seorang hamba shalih: 'Aku menjadi saksi atas mereka selagi aku bersama mereka namun tatkala Engkau wafatkan aku, Engkaulah yang mengawasi mereka dan Engkau Maha menyaksikan terhadap segala sesuatu.' (Al Maa'idah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4626</td></tr><tr><td>Arabic No</td><td>4626</td></tr><tr><td>Reference</td><td>Book 65 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что (однажды) Пророк ﷺ сказал: «Поистине, (в День суда) вы будете собраны, затем (некоторых из) моих сподвижников отведут налево, а я скажу то же, что сказал праведный раб: “Я был свидетелем о них, пока находился среди них. Когда же Ты упокоил меня, то уже только Ты наблюдал за ними. Воистину, Ты — Свидетель всякой вещи. Если Ты подвергнешь их мучениям, то ведь они — Твои рабы. Если же Ты простишь им, то ведь Ты — Могущественный, Мудрый”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4626</td></tr><tr><td>Arabic No</td><td>4626</td></tr><tr><td>Reference</td><td>Book 65 Hadith 148</td></tr></tbody></table></div>
 

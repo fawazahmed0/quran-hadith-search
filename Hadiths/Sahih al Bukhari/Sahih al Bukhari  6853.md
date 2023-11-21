@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) never took revenge for his own self in a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] Telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] telah mengabarkan kepadaku ['Urwah] dari ['Aisyah] radliallahu 'anha mengatakan; Rasulullah Shallallahu'alaihiwasallam tidak pernah marah terhadap seseorang untuk dirinya sendiri karena suatu kasus yang berkaitan pribadinya, hingga jika kehormatan Allah dilecehkan, maka beliau marah karena Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6853</td></tr><tr><td>Arabic No</td><td>6853</td></tr><tr><td>Reference</td><td>Book 86 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ (никогда) не мстил за себя лично, и только если совершалось что-нибудь запрещённое Аллахом, он мстил за Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6853</td></tr><tr><td>Arabic No</td><td>6853</td></tr><tr><td>Reference</td><td>Book 86 Hadith 75</td></tr></tbody></table></div>
 

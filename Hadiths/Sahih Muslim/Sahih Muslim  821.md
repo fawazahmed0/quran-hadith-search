@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Abza mnated it on the authority of his father that a man came t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>821</td></tr><tr><td>Arabic No</td><td>368.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуррахмана ибн Абзы, что однажды к ‘Умару пришел один человек и сказал: «Я осквернился и не смог найти воды». Далее он рассказал хадис полностью, добавив: «‘Аммар сказал: “О повелитель правоверных, из-за права, данного тебе Аллахом надо мной, если ты пожелаешь, то я никому не стану рассказывать этот хадис”». Глава: Совершение таяммума для того, чтобы ответить на приветствие /салям/ не будучи в пути
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>821</td></tr><tr><td>Arabic No</td><td>368.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 142</td></tr></tbody></table></div>
 

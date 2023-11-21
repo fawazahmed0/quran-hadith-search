@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yahya heard 'Ali saying that the Messenger of Allah (ﷺ) said on the day (of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami hadits diatas [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb], keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Al Hakam] dari [Yahya bin Al Jazzar] dari [Ali] (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] sedangkan lafadznya berasal dari dia, katanya; telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Yahya], ia mendengar [Ali] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda pada perang Ahzab, ketika beliau duduk diatas tepi parit; "Pasukan musuh benar-benar telah menyibukkan kita dari shalat wustha (ashar) hingga matahari terbenam, semoga Allah memenuhi kuburan dan rumah mereka -atau dengan redaksi lain- kuburan dan lembah mereka dengan api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1424</td></tr><tr><td>Arabic No</td><td>627.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Али, что, сидя в одном из отверстий рва в День (нашествия союзных) племён, Посланник Аллаха ﷺ сказал: «Они отвлекли нас от совершения средней молитвы (так, что уже) закатилось солнце! Да наполнит Аллах их могилы, дома (или он сказал: их могилы и утробы) огнём!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1424</td></tr><tr><td>Arabic No</td><td>627.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 258</td></tr></tbody></table></div>
 

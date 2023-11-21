@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) said:He who loves to meet Allah, Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah Ar Ruzzi] telah menceritakan kepada kami [Khalid bin Al Harits Al Hujaimi] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Zurarah] dari [Sa'd bin Hisyam] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa senang berjumpa dengan Allah, maka Allah pun senang berjumpa dengannya dan barangsiapa yang benci berjumpa dengan Allah, maka Allahpun benci berjumpa dengannya." Lalu aku bertanya; "Wahai Rasulullah, apakah itu maksudnya juga benci kepada kematian, padahal setiap kita membenci kematian?" Beliau bersabda: "Bukan begitu, tetapi seorang mukmin apabila telah diberi kabar gembira dengan rahmat dan ampunan Allah, ia senang berjumpa dengan Allah dan Allah pun senang berjumpa dengannya. Dan sesungguhnya orang kafir apabila telah diberi kabar dengan siksa Allah dan marah-Nya, maka ia benci berjumpa dengan Allah dan Allah pun benci berjumpa dengannya." Dan telah menceritakan kepada kami tentang hadits ini [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Bakr] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6822</td></tr><tr><td>Arabic No</td><td>2684.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6822</td></tr><tr><td>Arabic No</td><td>2684.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 18</td></tr></tbody></table></div>
 

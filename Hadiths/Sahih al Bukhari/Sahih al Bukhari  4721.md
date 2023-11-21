@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:While I was in the company of the Prophet (ﷺ) on a farm and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Al A'masy] dia berkata; Telah menceritakan kepadaku [Ibrahim] dari ['Alqamah] dari ['Abdullah radliallahu 'anhu] dia berkata; "ketika aku bersama nabi shallallahu 'alaihi wasallam disuatu ladang sementara beliau tengah bersandar, tiba-tiba beberapa orang Yahudi lewat, mereka saling berkata satu sama lain: 'Tanyakan padanya tentang ruh sehingga ia kembali bertanya 'bagaimana pendapat kalian tentangnya! Namun sebagian mengatakan "Jangan sampai ia meminta kalian mendatangkan sesuatu yang kalian sen diri tidak menyukainya.' Mereka berkata, 'Bertanyalah padanya.' Kemudian sebagian dari mereka menghampiri beliau, lalu bertanya tentang roh'." Nabi shallallahu 'alaihi wasallam diam dan tidak menjawab apa pun. Aku tahu beliau tengah diberi wahyu. Aku berdiri dari tempatku. Saat wahyu turun, beliau bersabda: 'Dan mereka bertanya kepadamu tentang roh. Katakanlah: 'Roh itu termasuk urusan Tuhan-ku, dan tidaklah kamu diberi pengetahuan melainkan sedikit." (Al Israa':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4721</td></tr><tr><td>Arabic No</td><td>4721</td></tr><tr><td>Reference</td><td>Book 65 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Однажды, когда мы вместе с Пророком ﷺ, опиравшимся на голую пальмовую ветвь, шли через посевы Медины, мимо нас прошли иудеи. И некоторые из них стали говорить (другим): “Спросите его о душе”, а некоторые из них говорили: “Не спрашивайте его, ибо что бы он ни сказал, вам это не понравится!” После чего они спросили его (о душе). Пророк ﷺ промолчал, ничего не ответив, и я понял, что он получает откровение. Когда откровение ниспослалось, он сказал: “Они станут спрашивать тебя о душе. Скажи: “Душа — от повеления моего Господа, а вам дано знать об этом очень мало”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4721</td></tr><tr><td>Arabic No</td><td>4721</td></tr><tr><td>Reference</td><td>Book 65 Hadith 243</td></tr></tbody></table></div>
 

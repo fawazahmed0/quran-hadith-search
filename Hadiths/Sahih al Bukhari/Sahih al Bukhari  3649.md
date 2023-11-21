@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:"Allah's Messenger (ﷺ) said, "A time will come up
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin Abdullah] telah bercerita kepada kami [Sufyan] dari ['Amru] berkata, aku mendengar [Jabir bin Abdullah radliallahu 'anhu] berkata, telah bercerita kepada kami [Abu Sa'id Al Khudriy] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan datang kepada manusia suatu zaman yang ketika itu ada sekelompok orang yang berperang lalu orang-orang bertanya kepada mereka; "Apakah diantara kalian ada orang yang bersahabat (mendampingi) Rasulullah shallallahu 'alaihi wasallam?". Kelompok itu menjawab; "Ya ada". Maka mereka diberi kemenangan. Kemudian akan datang lagi kepada manusia suatu zaman yang ketika itu ada sekelompok orang yang berperang lalu ditanyakan kepada mereka; "Apakah diantara kalian ada orang yang bershahabat dengan shahabat Rasulullah shallallahu 'alaihi wasallam?". Mereka menjawab; "Ya ada". Maka mereka diberi kemenangan. Kemudian akan datang lagi kepada manusia suatu zaman yang ketika itu ada sekelompok orang yang berperang lalu ditanyakan kepada mereka; "Apakah diantara kalian ada orang yang bershahabat dengan orang yang bershahabat dengan shahabat Rasulullah shallallahu 'alaihi wasallam?". Mereka menjawab; "Ya ada". Maka mereka diberi kemenangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 62 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Наступит для людей такое время, когда группа людей отправится в военный поход и (их) спросят: “Есть ли среди вас такие, кто был сподвижником Посланника Аллаха ﷺ?” — и (они) ответят: “Да”, и им будет дарована победа. Потом наступит (другое) время, и (отправившихся в военный поход) спросят: “Есть ли среди вас такие, кто встречался со сподвижниками Посланника Аллаха ﷺ?” — и (они) ответят: “Да”, и им будет дарована победа. Потом наступит для людей такое время, когда группа людей отправится в военный поход и (их) спросят: “Есть ли среди вас такие, кто встречался с теми, кто встречался со сподвижниками Посланника Аллаха ﷺ?” — и (они) ответят: “Да”, и им будет дарована победа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 62 Hadith 1</td></tr></tbody></table></div>
 

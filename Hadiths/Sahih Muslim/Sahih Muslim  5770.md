@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), un homme vint trouver le Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar]; Dan lafazh ini miliknya Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Al Mutawakkil] dari [Abu Sa'id Al Khudri] dia berkata; "Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam lalu dia berkata; 'Saudaraku sakit perut sehingga dia buang-buang air.' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Minumkan madu kepadanya! ' Lalu diminumkan madu kepadanya. Kemudian dia datang lagi kepada Nabi shallallahu 'alaihi wasallam lalu katanya: 'Telah kuminumkan madu kepadanya, tetapi sakitnya bertambah.' Nabi shallallahu 'alaihi wasallam menyuruhnya pula meminumkan madu sampai berulang tiga kali. Dia datang untuk keempat kalinya, Nabi shallallahu 'alaihi wasallam tetap menyuruhnya meminumkan madu. Kata orang itu; 'Aku telah meminumkannya, ya Rasulullah, namun sakitnya bertambah juga.' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Allah Maha Benar! Perut saudaramu itulah yang dusta.' Lalu diminumkannya pula madu dan sembuhlah dia.' Dan telah menceritakannya kepada kami ['Amru bin Zurarah]; Telah mengabarkan kepada kami ['Abdul Wahhab] yaitu Ibnu 'Atha dari [Sa'id] dari [Qatadah] dari [Abu Al Mutawakkil An Naji] dari [Abu Sa'id Al Khudri] bahwa seseorang datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; 'Saudaraku perutnya sakit, maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: 'Minumkanlah kepadanya madu.' (yang semakna dengan Hadits Syu'bah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5770</td></tr><tr><td>Arabic No</td><td>2217.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5770</td></tr><tr><td>Arabic No</td><td>2217.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 122</td></tr></tbody></table></div>
 

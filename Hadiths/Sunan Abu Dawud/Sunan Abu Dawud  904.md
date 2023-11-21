@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn ash-Shikhkhir: I saw the Messenger of Allah (ﷺ) praying 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Muhammad bin Salam] telah menceritakan kepada kami [Yazid yaitu Ibnu Harun] telah mengabarkan kepada kami [Hammad yaitu Ibnu Salamah] dari [Tsabit] dari [Mutharif] dari [ayahnya] dia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat, sedang dalam dada beliau terdengar bunyi seperti batu penggiling gandum karena tangisan beliau shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>904</td></tr><tr><td>Arabic No</td><td>904</td></tr><tr><td>Reference</td><td>Book 2 Hadith 514</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мутарриф передаёт со слов своего отца: «Я видел, как Посланник Аллаха ﷺ молился, и при этом из груди его доносился звук, похожий на шум мельничных жерновов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>904</td></tr><tr><td>Arabic No</td><td>904</td></tr><tr><td>Reference</td><td>Book 2 Hadith 514</td></tr></tbody></table></div>
 

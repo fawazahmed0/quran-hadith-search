@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:(The people) stood up for prayer and the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Muadz al-'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Abdul Aziz bin Shuhaib] dia mendengar [Anas bin Malik] berkata, "Shalat telah diiqamatkan, sedangkan Nabi shallallahu 'alaihi wasallam membisiki seorang laki-laki, lalu beliau terus membisikinya hingga para sahabatnya tertidur, lalu beliau datang dan shalat mengimami mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>834</td></tr><tr><td>Arabic No</td><td>376.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «(Однажды) о начале молитвы было объявлено в то время, когда Пророк ﷺ беседовал с каким-то человеком с глазу на глаз, и (Пророк ﷺ) продолжал разговаривать с ним, пока его сподвижники не заснули, а потом он пришёл и провёл с ними молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>834</td></tr><tr><td>Arabic No</td><td>376.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 155</td></tr></tbody></table></div>
 

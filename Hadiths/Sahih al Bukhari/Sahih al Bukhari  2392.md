@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet (ﷺ) and demanded a camel (the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Sufyan] berkata, telah menceritakan kepadaku [Salamah bin Kuhail] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] bahwa ada seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam untuk menagih unta yang dijanjikan kepadanya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Berikanlah". Mereka berkata: "Kami tidak mendapatkannya kecuali yang umurnya lebih tua". Orang itu berkata: "Berikanlah kepadaku nanti Allah akan membalasnya". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Berikanlah kepadanya, karena yang terbaik diantara manusia adalah mereka yang paling baik menunaikan janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что (как-то раз) один человек пришёл к Пророку ﷺ требовать у него верблюда (определённого возраста), которого он ему задолжал. Посланник Аллаха ﷺ сказал: «Отдайте ему (верблюда)!» (Люди) сказали: «У нас есть только верблюд старше его верблюда». Тот человек сказал: «Ты отдал мне мое право полностью. Да воздаст тебе Аллах сполна!» Посланник Аллаха ﷺ сказал: «Отдайте ему (этого верблюда), ибо, поистине, лучшими из людей являются те, кто лучше всех отдаёт (должное другим)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
 

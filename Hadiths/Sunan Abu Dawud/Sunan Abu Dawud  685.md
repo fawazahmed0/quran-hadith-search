@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Talhah b. 'Ubaid Allah reported the Messenger of Allah (ﷺ) as saying:When you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir Al-'Abdi] telah menceritakan kepada kami [Isra'il] dari [Simak] dari [Musa bin Thahah] dari [Ayahnya, Thahah bin Ubaidillah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kamu memasang sutrah (pembatas) di depanmu seperti kayu di belakang binatang kendaraan, maka tidak akan memudharatkanmu orang yang lewat di depanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (499)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>685</td></tr><tr><td>Arabic No</td><td>685</td></tr><tr><td>Reference</td><td>Book 2 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тальха ибн ‘Убайдуллах сказал: «Посланник Аллаха ﷺ сказал: “Если ты установишь перед собой нечто (высотой) с заднюю часть седла (верблюда), то тебе не помешает тот, кто пройдет перед тобой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (499)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>685</td></tr><tr><td>Arabic No</td><td>685</td></tr><tr><td>Reference</td><td>Book 2 Hadith 295</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sâlim Ibn 'Abdoullâh rapporte que 'Abdoullâh Ibn 'Omar envoyait en avant, dan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Ibnu Yunus] dari [Ibnu Syihab] bahwa [Salim bin Abdillah] telah mengkabarkan kepadanya, bahwasanya; [Abdullah bin Umar] selalu mendahulukan anggota keluarganya yang lemah hingga mereka dapat berhenti (beristirahat) di Masy'aril Haram di Muzdalifah di malam hari dan mereka dapat berdzikir kepada Allah di sana, kemudian setelah itu mereka dapat melanjutkan perjalanan lagi sebelum imam berdiri dan melanjutkan perjalanannya, sehingga di antara mereka ada yang telah sampai di Mina pada sa'at shalat fajar dan ada pula yang sampai setelahnya, dan jika telah sampai mereka segera melempar jumrah. Ibnu Umar berkata: Rasulullah shallallahu 'alaihi wasallam telah memberi rukhshah (pengecualian) kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>1295</td></tr><tr><td>Reference</td><td>Book 15 Hadith 334</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>1295</td></tr><tr><td>Reference</td><td>Book 15 Hadith 334</td></tr></tbody></table></div>
 

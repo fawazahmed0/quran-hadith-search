@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:Allah's Messenger (ﷺ) set out for Tabuk. appointing 'Ali as his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Al Hakam] dari [Mush'ab bin Sa'ad] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah menugasi Ali bin Abu Thalib untuk menjaga kaum muslimin ketika terjadi perang Tabuk." Ali berkata; "Ya Rasulullah, mengapa engkau hanya menugasi saya untuk menjaga kaum wanita dan anak-anak?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak inginkah kamu hai Ali memperoleh posisi di sisiku seperti posisi Harun di sisi Musa, padahal sesudahku tidak akan ada nabi lagi?" [Abu Daud] berkata; Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] Aku mendengar [Mus'ab]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4416</td></tr><tr><td>Arabic No</td><td>4416</td></tr><tr><td>Reference</td><td>Book 64 Hadith 438</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘да ибн Аби Ваккаса, да будет доволен им Аллах, что, отправившись (в поход) на Табук, Посланник Аллаха ﷺ оставил (в Медине) вместо себя ‘Али, который спросил: «Неужели ты (хочешь) оставить меня среди женщин и детей?» — (на что Пророк ﷺ) сказал: «Разве не согласен ты занять при мне такое же место, какое Харун занимал при Мусе, с той лишь разницей, что после меня пророков уже не будет?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4416</td></tr><tr><td>Arabic No</td><td>4416</td></tr><tr><td>Reference</td><td>Book 64 Hadith 438</td></tr></tbody></table></div>
 

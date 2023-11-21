@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Harith reported that Ibn 'Abbas commanded the Mu'adhdhin to (summon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1607</td></tr><tr><td>Arabic No</td><td>699.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн аль-Харис сказал: «(Однажды) в пятницу, в дождливый день муаззин Ибн ‘Аббаса произнёс азан…». Далее подобно предыдущему хадису.В этой версии Ибн ‘Аббас сказал: «…мне не хотелось, чтобы вы шли по грязи и слякоти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1607</td></tr><tr><td>Arabic No</td><td>699.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 38</td></tr></tbody></table></div>
 

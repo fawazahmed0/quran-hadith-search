@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (ﷺ) as saying:When the slave-woman of any of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Ubaidullah] berkata, telah menceritakan kepadaku [Sa'id bin Abu Sa'id Al Maqburi] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika budak wanita salah seorang dari kalian berbuat zina maka tegakkanlah hukuman had dan jangan kalian cela dia -beliau ulangi hal itu hingga tiga kali-. Jika ia tetap mengulanginya pada kali keempat, maka cambuk dan juallah meskipun seharga tali rambut." Telah menceritakan kepada kami [Ibnu Nufail] berkata, telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan hadits yang sama. Setiap kali budak itu melakukan zina beliau bersabda: "Hukumilah dengan Kitabullah dan jangan engkau cela." Maka pada kali keempat, beliau bersabda: "Jika ia tetap mengulanginya, maka hukumilah dengan kitabullah, setelah itu juallah meski seharga tali rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1703)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4470</td></tr><tr><td>Arabic No</td><td>4470</td></tr><tr><td>Reference</td><td>Book 40 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Пророк ﷺ сказал: «Если рабыня одного из вас совершит прелюбодеяние, пусть он подвергнет её установленному наказанию и не порицает её. И так три раза. Если же она совершит прелюбодеяние и в четвёртый раз, пусть он подвергнет её бичеванию, а потом продаст за плетённую верёвку или за волосяную верёвку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1703)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4470</td></tr><tr><td>Arabic No</td><td>4470</td></tr><tr><td>Reference</td><td>Book 40 Hadith 120</td></tr></tbody></table></div>
 

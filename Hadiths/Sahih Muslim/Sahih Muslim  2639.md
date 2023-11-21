@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported. In the pre-Islamic days fast was ob
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru An Naqid] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha, bahwa pada hari 'Asyura' di masa Jahiliyah orang-orang Quraisy berpuasa. Maka ketika Islam datang, pada hari 'Asyura siapa pun boleh berpuasa dan juga boleh meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2639</td></tr><tr><td>Arabic No</td><td>1125.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2639</td></tr><tr><td>Arabic No</td><td>1125.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 145</td></tr></tbody></table></div>
 

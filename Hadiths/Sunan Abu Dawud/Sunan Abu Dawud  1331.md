@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah: A man got up at night and recited the Qur'an in a loud voice. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Hisyam bin 'Urwah] dari [Urwah] dari [Aisyah] radliallahu 'anha, bahwa seorang laki-laki sedang mengerjakan shalat malam, lalu membaca Al Qur'an dengan mengangkat suaranya, keesokan harinya, Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah merahmati fulan, dia telah mengingatkanku terhadap ayat Al Qur'an yang aku lupa ayat tersebut." Abu Daud berkata; "di riwayatkan pula oleh Harun An Nahwi dari Hammad bin Salamah mengenai surat Ali Imran pada ayat; "Dan berapa banyak dari para Nabi…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 5 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что однажды ночью какой-то человек совершал дополнительную молитву и громко читал аяты Корана. Утром Посланник Аллаха ﷺ сказал: «Да помилует Аллах такого-то! Он напомнил мне этой ночью пропущенный мною (в чтении) аят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 5 Hadith 82</td></tr></tbody></table></div>
 

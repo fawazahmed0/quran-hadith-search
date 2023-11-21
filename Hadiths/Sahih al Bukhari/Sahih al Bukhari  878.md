@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:While 'Umar bin Al-Khattab was standing and delivering the se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad bin Asma'] berkata, telah mengabarkan kepada kami [Juwairiyah bin Asma'] dari [Malik] dari [Az Zuhri] dari [Salim bin 'Abdullah bin 'Umar] dari [Ibnu Umar] radliallahu 'anhuma, bahwa ketika ['Umar bin Al Khaththab] berdiri khuthbah pada hari Jum'at, tiba-tiba ada seorang laki-laki Muhajirin Al Awwalin (generasi pertama), sahabat Nabi shallallahu 'alaihi wasallam, masuk (ke dalam Masjid). Maka 'Umar pun bertanya, "Jam berapakah ini?" Sahabat tersebut menjawab, "Aku sibuk, dan aku belum sempat pulang ke rumah hingga akhirnya aku mendengar adzan dan aku hanya bisa berwudlu." Umar berkata, "Hanya berwudlu' saja! Sungguh kamu sudah mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk mandi (di hari Jum'at)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>878</td></tr><tr><td>Arabic No</td><td>878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды в пятницу, когда ‘Умар ибн аль-Хаттаб стоял обращаясь (к людям) с проповедью, (в мечеть) вошел один из сподвижников Пророка ﷺ из числа первых «мухаджиров», и ‘Умар сказал ему: «Какое сейчас время?!» Этот человек сказал: «Я был занят, и вернулся домой только после того, как услышал призыв, и я совершил только малое омовение». ‘Умар сказал: «Еще и только малое омовение…?! А ведь ты знаешь, что, Посланник Аллаха ﷺ приказывал совершать большое омовение!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>878</td></tr><tr><td>Arabic No</td><td>878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
 

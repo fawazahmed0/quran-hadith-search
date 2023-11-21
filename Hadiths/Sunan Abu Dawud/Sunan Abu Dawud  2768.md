@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir reported:The Messenger of Allah ( may peace be upon him) said : Who will p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Sufyan] dari ['Amr bin Dinar] dari [Jabir], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapakah yang bersedia membunuh Ka'b bin Al Asyraf? Karena sesungguhnya ia telah mengganggu Allah dan RasulullahNya." Kemudian Muhammad bin Maslamah berdiri dan berkata; saya wahai Rasulullah. Apakah engkau ingin aku membunuhnya? Beliau berkata: "Ya." Ia berkata; izinkan saya untuk mengatakan sesuatu! Beliau berkata: "Ya." Kemudian ia datang kepada Ka'b dan berkata; sesungguhnya orang ini telah meminta sedekah kepada kami dan telah memberatkan kami. Ia berkata; dan juga niscaya engkau akan merasa bosan dengannya. Ia berkata; kami mengikutinya sementara kami tidak ingin meninggalkannya hingga kami melihat ke manakah urusannya akan berakhir. Sungguh kami ingin agar engkau memberi kami hutang satu wasaq atau dua wasaq. Ka'b berkata; apakah yang akan kalian gadaikan kepadaku? ia berkata; apa yang engkau inginkan dari kami? Ia berkata; para wanita kalian. Mereka berkata; subhanallah, engkau adalah orang Arab yang paling tampan, apakah kami akan menggadaikan para wanita kami kepadamu, hingga hal tersebut menjadi sebuah cela atas kami? Ia berkata; kalian gadaikan kepadaku anak-anak kalian. Mereka berkata; subhanallah, anak salah seorang dari kami akan dicela. Kemudian dikatakan; akan digadaikan kepadamu satu atau dua wasaq. Mereka berkata; kami akan menggadaikan senjata kepadamu. Ia bekata; ya. kemudian tatkala Muhammad bin Maslamah datang kepadanya, maka ia memanggilnya. Lalu ia keluar dengan memakai minyak wangi, kepalanya menebarkan bau wangi. Kemudian tatkala ia datang kepadanya sementara Muhammad bin Maslamah telah datang bersama tiga atau empat orang. Kemudian mereka menyebutkan hal tersebut kepadanya, ia berkata; aku memiliki Fulanah, ia adalah wanita yang paling wangi. Muhammad bin Maslamah berkata; apakah engkau menizinkanku untuk mencium? Ia berkata; ya. kemudian ia memasukkan tangannya ke kepalannya dan menciumnya. Ia berkata; apakah aku boleh mengulangi? Ia berkata; ya. kemudian ia memasukkan tangannya ke dalam kelapanya. Kemudian tatkala Muhammad bin Maslamah memungkinkan untuk membunuhnya ia berkata; tangkaplah dia! Kemudian mereka menebasnya hingga mereka membunuh Ka'b
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3031) Sahih Muslim (1801)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2768</td></tr><tr><td>Arabic No</td><td>2768</td></tr><tr><td>Reference</td><td>Book 15 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3031) Sahih Muslim (1801)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2768</td></tr><tr><td>Arabic No</td><td>2768</td></tr><tr><td>Reference</td><td>Book 15 Hadith 292</td></tr></tbody></table></div>
 

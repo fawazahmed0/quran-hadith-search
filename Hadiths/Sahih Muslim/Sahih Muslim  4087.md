@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Nadra reported:I asked Ibn Umar and Ibn Abbas (Allah be pleased with them) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdul A'la] telah mengabarkan kepada kami [Daud] dari [Abu Nadlrah] dia berkata, "Saya pernah bertanya kepada Ibnu Umar dan Ibnu Abbas mengenai jual beli barang yang sejenis, dan keduanya menganggap hal itu tidak mengapa. Suatu saat saya duduk di samping [Abu Sa'id Al Khudri], lalu saya bertanya mengenai jual beli barang yang sejenis, dia menjawab, "Jika dilebihkan maka hal itu adalah riba." Kemudian saya mengingkari perkataannya, karena perkataan Ibnu Abbas dan Ibnu Umar (yang menganggap tidak mengapa). Maka Abu Sa'id pun berkata, "Saya tidak akan mengatakan kepadamu melainkan apa yang pernah saya dengar dari Rasulullah shallallahu 'alaihi wasallam. Suatu ketika seorang pemilik kebun kurma datang kepada beliau dengan membawa satu sha' kurma yang berkwalitas, sedangkan kurma beliau sendiri berada di bawah kwalitas kurma tersebut, Rasulullah shallallahu 'alaihi wasallam kemudian bertanya: "Dari mana kamu memperoleh kurma ini?" pemilik kebun itu menjawab, "Pada mulanya saya membawa dua sha' kurma, setelah itu saya tukar satu sha' kurma tersebut dengan dua sha' kurma yang saya miliki, karena harga kurma yang bagus ini dipasaran adalah sekian dan kurma yang jelek ini harganya hanya sekian." Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Celaka kamu! Kamu telah melakukan riba, apabila kamu menginginkan kurma yang baik ini, maka jualah kurmamu kemudian (uang hasil penjualan kurma tersebut) kamu membeli kurma apa saja yang kamu sukai." Abu Sa'id berkata, "Dan kurma dengan kurma lebih bisa dikatakan riba daripada perak dengan perak." Abu Nadlrah berkata, "Setelah itu saya menemui Ibnu Umar dan dia pun melarangku melakukannya, namun saya tidak menemui Ibnu Abbas." Perawi berkata; telah menceritakan kepadaku Abu Ash Shahba', bahwa dia pernah bertanya kepada Ibnu Abbas mengenai hal itu ketika dia di Makkah, dan Ibnu Abbas juga membenci praktek semacam itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>1594.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>1594.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 126</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah: I heard the Messenger of Allah (ﷺ) say: Migration will not
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada kami [Isa] dari [Hariz bin Utsman] dari [Abdurrahman bin Abu 'Auf] dari [Abu Hindun], dari [Mu'awiyah], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah hijrah terputus hingga taubat terputus, dan tidaklah taubat terputus hingga matahari terbit dari barat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 15 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘авия сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Не прервётся хиджра, пока не перестанет приниматься покаяние, а покаяние не перестанет приниматься, пока солнце не взойдёт с запада”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 15 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: I heard the Messenger of Allah (ﷺ) say: Allah is plea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Ibnu Wahb] dari ['Amru bin Al harits] bahwa [Abu 'Usyanah Al Ma'afiri] telah menceritakan dari ['Uqbah bin 'Amir] dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Rabb kalian kagum terhadap seorang yang mengumandangkan shalat di atas bukit, kemudian dia shalat, maka Allah Azza wa Jalla berfirman; "Lihatlah kepada hamba-Ku ini, dia mengumandangkan adzan lalu shalat karena takut kepada-Ku, Aku telah mengampuni dosa hamba-Ku dan memasukkannya ke dalam surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1203</td></tr><tr><td>Arabic No</td><td>1203</td></tr><tr><td>Reference</td><td>Book 4 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Укбы ибн ‘Амира, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, ваш Всемогущий и Великий Господь дивится пастуху овец на горном хребте, который произносит азан и совершает молитву. И Всемогущий и Великий Аллах говорит: “Посмотрите на Моего раба! Он произносит азан и икаму для молитвы, и он боится Меня… Я простил Моему рабу и ввёл его в Рай!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1203</td></tr><tr><td>Arabic No</td><td>1203</td></tr><tr><td>Reference</td><td>Book 4 Hadith 6</td></tr></tbody></table></div>
 

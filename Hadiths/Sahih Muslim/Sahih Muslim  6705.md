@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya apabila Allah Subhanahu wa Ta'ala mencintai seseorang, maka Dia akan memanggil malaikat Jibril alaihi salam seraya berseru: 'Hai Jibril, sesungguhnya Aku mencintai si fulan. Oleh karena itu, cintailah ia! ' Rasulullah bersabda: 'Akhirnya orang tersebut pun dicintai Jibril. Setelah itu, Jibril berseru di atas langit; 'Sesungguhnya Allah Subhanahu wa Ta'ala mencintai si fulan. OIeh karena itu, cintailah ia! ' Kemudian para penghuni langit pun mulai mencintainya pula.' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Setelah itu para penghuni bumi juga mencintainya.' Sebaliknya, apabila Allah Subhanahu wa Ta'ala membenci seseorang, maka Dia akan memanggil malaikat Jibril dan berseru kepadanya: 'Sesungguhnya Aku membenci si fulan. Oleh karena itu, bencilah ia.' Rasulullah shallallahu 'alaihi wasallam berkata: 'Lalu malaikat Jibril berseru di langit; 'Sesungguhnya Allah Subhanahu wa Ta'ala membenci si fulan. OIeh karena bencilah ia!" Kemudian para penghuni langit membencinya. Setelah itu para penghuni dan penduduk bumi juga membencinya. Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu 'Abdur Rahman Al Qari. [Qutaibah] berkata; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ad Darawardi; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami [Sa'id bin 'Amru Al Asy'atsi]; Telah mengabarkan kepada kami ['Abtsar] dari [Al 'Alaa bin Al Musayyab]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili]; Telah menceritakan kepada kami [Ibnu Wahb]; Telah menceritakan kepadaku [Malik] yaitu Ibnu Anas seluruhnya dari [Suhail] melalui jalur ini. Hanya saja di dalam Hadits Al 'Alaa bin Al Musayyab tidak disebutkan tentang perkataan membenci. Telah menceritakan kepadaku ['Amru An Naqid]; Telah menceritakan kepada kami [Yazid bin Harun]; Telah mengabarkan kepada kami ['Abdul 'Aziz bin 'Abdullah bin Abu Salamah Al Majisyun] dari [Suhail bin Abu Shalih] dia berkata; Ketika kami berada di Arafah, 'Umar bin 'Abdul 'Aziz lewat di hadapan kami yang pada waktu dia sebagai pemimpin rombongan Haji. Orang-orang pun berdiri melihat kepadanya. Lalu aku berkata kepada bapakku; 'Wahai bapakku, aku kira Allah telah mencintai Umar bin Abdul Aziz. Bapakku berkata; 'Kenapa demikian? Jawabku; karena aku lihat orang-orang telah mencintainya. Lalu bapakku berkata; demi bapakmu, Akupun telah mendengar [Abu Hurairah] bercerita dari Rasulullah shallallahu 'alaihi wasallam..-kemudian dia menyebutkan Hadits yang serupa dengan Hadits Jarir dari Suhail
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6705</td></tr><tr><td>Arabic No</td><td>2637.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6705</td></tr><tr><td>Arabic No</td><td>2637.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 201</td></tr></tbody></table></div>
 

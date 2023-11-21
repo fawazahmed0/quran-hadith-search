@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that when the Messenger of Allah (ﷺ) sat for tashahhud he p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abd bin Humaid]. Abd mengatakan; telah mengabarkan kepada kami, sementara Ibnu Rafi' mengatakan; telah menceritakan kepada kami [Abdurrazaq], telah mengabarkan kepada kami [Ma'mar] dari ['Ubaidullah bin Umar] dari [Nafi'] dari [Ibn Umar], bahwa apabila Nabi shallallahu 'alaihi wasallam duduk dalam shalat, beliau meletakkan kedua tangannya diatas kedua lututnya, dan beliau angkat jari kanan sebelah jempolnya (telunjuk) sambil memanjatkan doa, sementara tangan kirinya diatas lutut kirinya sambil dibuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>580.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что, когда Пророк ﷺ садился во время молитвы (для совершения ташаххуда), он возлагал ладони на колени и поднимал правый указательный палец, который следует за большим, и взывал (таким образом, обращаясь к Аллаху). Левая же его рука была разложена на колено
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>580.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 147</td></tr></tbody></table></div>
 

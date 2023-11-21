@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a still different chain of transmitters) on the au
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Yazid bin Abu Habib] dari [Yazid bin Abu Sa'id bekas budak Al Mahri] dari [ayahnya] dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengirim utusan ke Bani Lahyan, agar setiap dua orang laki-laki (dari satu rumah) keluar satu orang laki-laki (untuk berperang), kemudian beliau bersabda kepada orang yang tidak ikut berperang: "Kalian yang tidak ikut berperang, hendaknya mengurusi keluarga dan harta orang yang ikut berperang dengan baik, maka ia akan mendapatkan pahala setengah dari orang yang ikut berperang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4907</td></tr><tr><td>Arabic No</td><td>1896.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4907</td></tr><tr><td>Arabic No</td><td>1896.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 202</td></tr></tbody></table></div>
 

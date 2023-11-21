@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yazid:(the Maula of Munba'ith) The Prophet (ﷺ) was asked regarding th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] dari [Yahya bin Sa'id] dari [Yazid Maula Al Munba'its] bahwasanya; Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai kambing yang tersesat, maka beliau pun bersabda: "Sesungguhnya kambing itu adalah milikmu, atau milik saudaramu atau pun milik srigala." Kemudian beliau ditanya mengenai Unta yang hilang, maka wajah beliau memerah dan bersabda: "Kenapa kamu ini, bukankah Unta punya sepatu dan tempat minum yang ia pergunakan untuk mencari minum?. Dan bukankah ia juga dapat makan tumbuh-tumbuhan hingga ia menemui pemiliknya?" setelah itu, beliau ditanya tentang barang temuan. Maka beliau bersabda: "Tolong tandai tali dan tutupnya, dan umumkanlah barang itu selama satu tahun. Jika ada seseorang yang datang dan mengetahuinya berikanlah dan jika tidak, maka kamu boleh mencampurkannya dengan hartamu." [Sufyan] berkata; Lalu aku menemui [Rabi'ah bin Abu Abdurrahman]. Sufyan berkata; Aku tidak menghafal sesuatu pun darinya selain ini; Aku berkata, "Bagaimana pendapat Anda mengenai hadits Yazid Maula Al Munba'its terkait dengan barang yang hilang. Hadits itu dari Yazid bin Khalid?" Ia menjawab; Ya. [Yahya] berkata; [Rabi'ah] berkata; dari [Yazid] budak Al munba'its dari [Zaid bin Khalid]. Sufyan berkata; Maka aku pun menemui Rabi'ah dan bertanya padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5292</td></tr><tr><td>Arabic No</td><td>5292</td></tr><tr><td>Reference</td><td>Book 68 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Язид рассказывал о том, что, когда Пророка ﷺ спросили про заблудившихся овцах, он ответил: «Возьми их себе, ведь либо они достанутся тебе, либо твоему брату, либо волку». Когда его спросили о потерявшемся верблюде, он разгневался так, что покраснели его щёки, и сказал: «Что тебе до них? Ведь у них есть копыта и вода, они пьют воду и объедают листья с деревьев, пока хозяин не найдёт их». Когда его спросили о (том, что следует делать с) найденным, он ответил: «(Сначала) узнай, как выглядит то, в чём находилось найденное и то, чем было перевязано найденное, а потом объявляй о находке (людям) в течение года, после чего, если (к тебе) придёт его хозяин, (тебе следует) отдать находку ему, а если нет, то можешь пользоваться ей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5292</td></tr><tr><td>Arabic No</td><td>5292</td></tr><tr><td>Reference</td><td>Book 68 Hadith 41</td></tr></tbody></table></div>
 

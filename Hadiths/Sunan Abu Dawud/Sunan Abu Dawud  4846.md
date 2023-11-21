@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: When the Messenger of Allah (ﷺ) sat, he had his k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Salamah bin Syabib] berkata, telah menceritakan kepada kami [Abdullah bin Ibrahim] ia berkata; telah menceritakan kepadaku [Ishaq bin Muhammad Al Anshari] dari [Rubaih bin 'Abdurrahman] dari [Bapaknya] dari kakeknya [Abu Sa'id Al Khudri] ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam duduk, beliau mendekap tangannya." Abu Dawud berkata, "Abdullah bin Ibrahim adalah seorang Syaikh yang munkar dalam hal periwayatan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4846</td></tr><tr><td>Arabic No</td><td>4846</td></tr><tr><td>Reference</td><td>Book 43 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4846</td></tr><tr><td>Arabic No</td><td>4846</td></tr><tr><td>Reference</td><td>Book 43 Hadith 74</td></tr></tbody></table></div>
 

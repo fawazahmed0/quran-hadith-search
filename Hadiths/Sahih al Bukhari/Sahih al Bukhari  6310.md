@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) used to pray eleven rak'at in the late part of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari [Aisyah] radliallahu 'anha, bahwa Nabi shallallahu 'alaihi wasallam biasa mengerjakan shalat malam sebelas raka'at, apabila terbit fajar, beliau shalat dua raka'at ringan, lalu beliau berbaring ke sebelah kanan hingga mu'adzin datang untuk mengumandangkan adzan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6310</td></tr><tr><td>Arabic No</td><td>6310</td></tr><tr><td>Reference</td><td>Book 80 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что Пророк ﷺ совершал по ночам молитву в одиннадцать рак‘атов, а когда занималась заря, он совершал дополнительную молитву в два лёгких рак‘ата, после чего лежал на правом боку до тех пор, пока не приходил муаззин, возвещавший ему (о наступлении времени обязательной молитвы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6310</td></tr><tr><td>Arabic No</td><td>6310</td></tr><tr><td>Reference</td><td>Book 80 Hadith 7</td></tr></tbody></table></div>
 

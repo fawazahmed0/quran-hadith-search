@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : "Je n'ai jamais vu l'E
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah] - [Abu Thahir] berkata- telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim] dari [bapaknya] ia berkata; "Rasulullah shallallahu 'alaihi wasallam belum pernah mencium sujud-sujud Baitullah, kecuali rukun Aswad dan yang berada di dekatnya yakni rukun Yamani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3062</td></tr><tr><td>Arabic No</td><td>1267.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3062</td></tr><tr><td>Arabic No</td><td>1267.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 268</td></tr></tbody></table></div>
 

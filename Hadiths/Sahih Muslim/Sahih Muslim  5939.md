@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported Allah's Messenger (ﷺ) as saying:I recognise the stone
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Yahya bin Abu Bukair] dari [Ibrahim bin Thahman] Telah menceritakan kepadaku [Simak bin Harb] dari [Jabir bin Samurah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya akulah yang paling mengenal batu di Makkah. Batu-batu itu memberi salam kepadaku sebelum aku diutus menjadi Rasul. Kini aku ingat peristiwa itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5939</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 43 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «Посланник Аллаха ﷺ сказал: “Поистине, я знаю в Мекке один камень, который приветствовал меня ещё до того, как я был послан (к людям в качестве пророка), и мне известно, (где этот камень находится) ныне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5939</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 43 Hadith 2</td></tr></tbody></table></div>
 

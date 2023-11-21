@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) used to invoke Allah, saying, "Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami ['Ubaidullah bin Abdul Majid] telah menceritakan kepada kami [Isra'il] telah menceritakan kepada kami [Abu Ishaq] dari [Abu Bakr bin Abu Musa] dan [Abu Burdah] aku mengiranya dari [Abu Musa Al Asy'ari] dari Nabi shallallahu 'alaihi wasallam bahwa beliau biasa berdo'a; "ALLAHUMMAGHFIRLII KHATHI'ATHII WAJAHLII WA ISRAFII FII AMRII WAMAA ANTA A'LAMU BIHI MINNI ALLAHUMMAGHFIRLII HAZLII WAJIDDII WAKHATHAYAAYA WA'AMDI WAKULLU DZAALIKA 'INDI Ya Allah, ampunilah aku, kesalahan-kesalahanku, kebodohanku, perbuatanku yang melampaui batas di setiap urusanku yang Engkau lebih mengetahui daripadaku. Ya Allah, ampunilah aku, canda tawaku, kesungguhanku, kesalahanku, kesengajaanku dan setiap perkara yang ada padaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6399</td></tr><tr><td>Arabic No</td><td>6399</td></tr><tr><td>Reference</td><td>Book 80 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Пророк ﷺ часто обращался к Аллаху с (нижеследующей) мольбой: «О Аллах, прости мне мой грех, и (совершённое) мной по незнанию, и то, в чём я преступил границы (умеренности), и то, о чём Ты знаешь лучше меня! О Аллах, прости мне (то, что я сделал) в шутку и всерьёз, мои ошибки и (то, что я сделал) намеренно, ибо всё это есть во мне!»\n/Аллахумма,-гъфир ли хатыати, ва джахли, ва исрафи фи амри, ва ма Анта а‘ляму би-хи мин-ни! Аллахумма,-гъфир ли хазли, ва джидди, ва хатайайа, ва ‘амди ва куллю заликя ‘инди
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6399</td></tr><tr><td>Arabic No</td><td>6399</td></tr><tr><td>Reference</td><td>Book 80 Hadith 94</td></tr></tbody></table></div>
 

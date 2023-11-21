@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (may peace he upon him) as saying:Many a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suwaid bin Sa'id]; Telah menceritakan kepadaku [Hafsh bin Maisarah] dari [Al A'laa bin 'Abdur Rahman] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Berapa banyak orang yang rambutnya kusut, tampak dihinakan dan di usir oleh orang-orang, namun apabila dia berdo'a kepada Allah, pasti Allah akan mengambulkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6682</td></tr><tr><td>Arabic No</td><td>2622</td></tr><tr><td>Reference</td><td>Book 45 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6682</td></tr><tr><td>Arabic No</td><td>2622</td></tr><tr><td>Reference</td><td>Book 45 Hadith 179</td></tr></tbody></table></div>
 

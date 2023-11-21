@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The last Verse that was revealed was: 'They ask you for a legal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; Aku mendengar [Al Bara' radliallahu 'anhu] berkata; Ayat yang terakhir kali turun adalah ayat: Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah: "Allah memberi fatwa kepadamu tentang kalalah. (An Nisa: 176). Sedangkan surat yang terakhir kali turun adalah surat Bara'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4654</td></tr><tr><td>Arabic No</td><td>4654</td></tr><tr><td>Reference</td><td>Book 65 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Последней сурой, которая была ниспослана (полностью) была сура “ат-Тауба”, а последним аятом был ниспослан аят: “Они просят тебя вынести решение. Скажи: “Аллах вынесет для вас решение относительно тех, кто не оставляет после себя родителей или детей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4654</td></tr><tr><td>Arabic No</td><td>4654</td></tr><tr><td>Reference</td><td>Book 65 Hadith 176</td></tr></tbody></table></div>
 

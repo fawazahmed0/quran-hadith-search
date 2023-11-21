@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Barza reported that Allah's Apostle (ﷺ) was there in a battlefield that Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin 'Umar bin Salith]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Kinanah bin Nu'aim] dari [Abu Barzah] bahwa pada suatu ketika Rasulullah shallallahu 'alaihi wasallam dan kaum muslimin bertempur melawan musuh hingga memperoIeh harta rampasan perang. Usai pertempuran, Rasulullah shallallahu 'alaihi wasallam bertanya kepada para sahabat: "Apakah kalian kehilangan seorang sahabat kalian?" Para sahabat menjawab; "Ya. Kami telah kehilangan fulan, fulan, dan fulan." Rasulullah bertanya lagi: "Apakah kalian kehilangan seorang sahabat kalian?" Para sahabat menjawab, "Ya, kami telah kehilangan Fulan, fulan, dan fulan.' Sekali lagi Rasulullah bertanya; "Apakah kalian merasa kehilangan seorang dari sahabat kalian?" Para sahabat menjawab; "Ya, Kami telah kehilangan fulan, fulan dan fulan." Kemudian Rasulullah melanjutkan pernyataannya dan berkata: "Tapi aku sungguh telah kehilangan Julaibib. Oleh karena itu, tolong cari di manakah ia?" Lalu para sahabat berupaya mencari jasad Julaibib di tengah-tengah korban pertempuran. Akhirnya mereka menemukan jasadnya di sebelah tujuh orang kafir yang telah dibunuhnya, hingga ia sendiri gugur sebagai syahid di tangan orang-orang kafir. Tak lama kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi mayat Julaibib dan berdiri di atasnya seraya berkata: "Sesungguhnya Julaibib telah membunuh tujuh orang kafir dan mereka membunuhnya. Julaibib ini termasuk dalam kelompokku dan aku termasuk dalam kelompoknya. Julaibib ini termasuk dalam kelompokku dan aku termasuk dalam kelompoknya." Abu Barzah berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam meletakkan mayat Julaibib di atas kedua Iengannya. Tidak ada alas bagi jasad Julaibib kala itu selain kedua lengan Rasulullah. Lalu para sahabat menggali kubur untuk jasad Julaibib dan dimasukkan ke dalamnya serta tidak disebutkan tentang mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6358</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 44 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Барзы, да будет доволен им Аллах, что во время одного из военных походов с участием Пророка ﷺ Аллах даровал (мусульманам) добычу без боя, и (Пророк ﷺ) спросил своих сподвижников: «Не (отсутствует) ли кто-нибудь из вас?» (Ему) сказали: «Да, такой-то, такой-то и такой-то». После этого он спросил: «Не (отсутствует) ли кто-нибудь из вас?» (Ему) сказали: «Да, такой-то, такой-то и такой-то». После этого он (снова) спросил: «Не (отсутствует) ли кто-нибудь из вас?» и ему сказали: «Нет». Тогда (Пророк ﷺ сказал: «А я (вижу, что) не хватает Джулейбиба, так поищите же его». (Джулейбиба) стали искать среди павших и нашли рядом с семью (врагами), которых он убил, после чего (другие) убили его. (Узнав об этом), Пророк ﷺ подошёл к (телу Джу­лейбиба), остановился около него и сказал: «Он убил семерых, а по­том убили его самого, и этот (человек подобен) мне, а я ему, этот (человек подобен) мне, а я ему!» Потом он взял его на руки, и (никто не помогал) Пророку ﷺ (нести его), а потом для (Джулейбиба) вырыли могилу и положили его туда, а об обмывании (тела покойного Абу Барза) ничего не говорил
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6358</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 44 Hadith 188</td></tr></tbody></table></div>
 

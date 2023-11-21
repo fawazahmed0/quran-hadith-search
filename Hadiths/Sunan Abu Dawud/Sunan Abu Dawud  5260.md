@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman Ibn AbuLayla: The Messenger of Allah (ﷺ) was asked about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Sulaiman] dari [Ali bin Hasyim] ia berkata; telah menceritakan kepada kami [Ibnu Abu Laila] dari [Tsabit Al Bunani] dari ['Abdurrahman bin Abu Laila] dari [Bapaknya] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang membunuh ular yang ada dalam rumah, beliau pun bersabda; "Jika salah seorang dari kalian melihat mereka berada di rumah-rumah kalian, maka katakanlah kepada mereka, 'Aku sumpahi kalian atas janji yang pernah Nuh ambil dari kalian, aku sumpahi kalian atas janji yang pernah Sulaiman ambil dari kalian; yakni agar kalian tidak mengganggu kami, jika mereka tetap kembali maka bunuhlah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5260</td></tr><tr><td>Arabic No</td><td>5260</td></tr><tr><td>Reference</td><td>Book 43 Hadith 488</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5260</td></tr><tr><td>Arabic No</td><td>5260</td></tr><tr><td>Reference</td><td>Book 43 Hadith 488</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrted Ibn 'Abbas:Allah's Messenger (ﷺ) said, "You will be resurrected (and a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3447</td></tr><tr><td>Arabic No</td><td>3447</td></tr><tr><td>Reference</td><td>Book 60 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что (однажды) Посланник Аллаха ﷺ сказал: «Поистине, (в День суда) вы будете собраны босыми, нагими и необрезанными». Затем он прочитал (аят, в котором сказано): “Так же, как Мы начали первое сотворение, Мы повторим его (снова). Таково Наше обещание! Поистине, Мы (всегда) выполняем (обещанное)!” (сура “аль-Анбия”, аят 104). (После чего сказал): “Первым, кого оденут (в День воскресения), будет Ибрахим, затем (некоторых из) моих сподвижников отведут направо и налево, а я воскликну: “Это мои сподвижники!”, но (Аллах) ответит: “Они не переставали отступать (от установлений ислама) с тех самых пор, как ты покинул их!” — и тогда я скажу то же, что сказал праведный раб, ‘Иса сын Марьям: “Я был свидетелем о них, пока находился среди них. Когда же Ты упокоил меня, то уже только Ты наблюдал за ними. Воистину, Ты — Свидетель всякой вещи. Если Ты подвергнешь их мучениям, то ведь они — Твои рабы. Если же Ты простишь им, то ведь Ты — Могущественный, Мудрый” (сура “аль-Маида”, аят 118)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3447</td></tr><tr><td>Arabic No</td><td>3447</td></tr><tr><td>Reference</td><td>Book 60 Hadith 117</td></tr></tbody></table></div>
 

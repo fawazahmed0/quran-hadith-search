@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Rarely did the Prophet (ﷺ) fail to visit Abu Bakr's house every
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Farwah bin Abu Al Maghra'] telah mengabarkan kepada kami ['Ali bin Mushir] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; "Sangat jarang tiba sebuah hari selain di hari tersebut beliau shallallahu 'alaihi wasallam menemui rumah Abu Bakar pada dua ujung siang. Maka ketika Beliau diizinkan untuk berhijrah ke Madinah, tidaklah Beliau meninggalkan kami melainkan Beliau mendatangi kami ketika zhuhur, lalu Abu Bakar diberitahu tentang kedatangan beliau shallallahu 'alaihi wasallam. Maka Abu Bakar berkata: "Tidaklah Nabi shallallahu 'alaihi wasallam menemui kami pada saat seperti ini melainkan pasti karena ada suatu peristiwa yang terjadi". Ketika Beliau telah menemui Abu Bakar, Beliau berkata: "Keluarkanlah orang orang yang ada di rumahmu!". Abu bakar berkata: "Wahai Rasulullah, kedua orang itu adalah dua anak puteriku, yaitu 'Aisyah dan Asma'". Beliau bertanya: "Apakah kamu sudah tahu bahwa aku telah diizinkan untuk keluar (berhijrah)?" Abu Bakar berkata: Ash-Shuhbah (kita berangkat bersama) wahai Rasulullah". Beliau bertanya: "Benar, kita berangkat bersama". Abu bakar berkata: "Wahai Rasulullah, sesungguhnya aku punya dua ekor unta yang telah aku siapkan keduanya untuk keluar hijrah maka ambillah salah satunya". Maka Beliau berkata: "Aku sudah mengambil salah satunya dan kamu terima harga jualnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2138</td></tr><tr><td>Arabic No</td><td>2138</td></tr><tr><td>Reference</td><td>Book 34 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Пророк ﷺ посещал дом Абу Бакра каждый день, утром или вечером. Когда ему было разрешено переселиться в Медину, он внезапно пришёл к нам в полдень. Когда Абу Бакру сообщили о его приходе, он сказал: «Пророк ﷺ пришёл к нам в это время по какому-то срочному делу». Зейдя в дом, он сказал Абу Бакру: «Пусть все, кто есть дома выйдут». Абу Бакр сказал: «О Посланник Аллаха! Здесь присутствуют только две мои дочери (то есть ‘Аиша и Асма)». Пророк ﷺ сказал: «Знаешь ли ты, что мне было разрешено переселение?» Абу Бакр сказал: «Я буду сопровождать тебя, о Посланник Аллаха!» Пророк ﷺ сказал: «Ты будешь сопровождать меня». Тогда Абу Бакр сказал: «О Посланник Аллаха! У меня есть две верблюдицы, которых я специально приготовил для переселения, возьми одну из них!» Пророк ﷺ сказал: «Я беру её за стоимость (то есть я оплачу её стоимость)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2138</td></tr><tr><td>Arabic No</td><td>2138</td></tr><tr><td>Reference</td><td>Book 34 Hadith 90</td></tr></tbody></table></div>
 

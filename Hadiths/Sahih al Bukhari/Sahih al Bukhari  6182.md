@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Don't call the grapes Al-Karm, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah kalian menamakan 'inab (anggur) sebagai karam (kemuliaan), dan janganlah kalian mengatakan "alangkah sialnya masa" karena sesungguhnya Allah adalah masa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6182</td></tr><tr><td>Arabic No</td><td>6182</td></tr><tr><td>Reference</td><td>Book 78 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не называйте виноград “карм” и не говорите “Неудачное время”, ибо Аллах — Он время»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6182</td></tr><tr><td>Arabic No</td><td>6182</td></tr><tr><td>Reference</td><td>Book 78 Hadith 206</td></tr></tbody></table></div>
 

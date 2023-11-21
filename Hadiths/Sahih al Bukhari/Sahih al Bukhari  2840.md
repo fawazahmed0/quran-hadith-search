@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:I heard the Prophet (ﷺ) saying, "Indeed, anyone who fasts f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Nashr] telah bercerita kepada kami ['Abdur Rozzaq] telah mengabarkan kepada kami [Ibnu Juraij] berkata telah bercerita kepadaku [Yahya Sa'id] dan [Suhail bin Abi Shalih] bahwa keduanya mendengar [an Nu'man bin Abi 'Ayyasy] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda; "Barang siapa yang shoum (berpuasa) satu hari di jalan Allah, maka Allah akan menjauhkan wajahnya dari neraka sejauh tujuh puluh musim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2840</td></tr><tr><td>Arabic No</td><td>2840</td></tr><tr><td>Reference</td><td>Book 56 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Аллах удалит от огня лицо того, кто один день постился на пути Аллаха, на семьдесят лет (пути)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2840</td></tr><tr><td>Arabic No</td><td>2840</td></tr><tr><td>Reference</td><td>Book 56 Hadith 56</td></tr></tbody></table></div>
 

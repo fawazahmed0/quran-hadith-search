@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "While I was sleeping
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [Salim bin Abdullah bin Umar], bahwasanya [Abdullah bin Umar] radliallahu 'anhuma mengatakan, Rasulullah Shallallahu'alaihiwasallam bersabda: "ketika aku tidur, kulihat diriku thawaf di ka'bah, tiba-tiba ada seseorang yang kulitnya sawo matang, berambut lurus diantara dua orang, kepalanya meneteskan air, maka saya bertanya; 'Siapakah ini? ' Mereka menjawab; 'Ini Isa bin Maryam, ' kemudian aku menoleh, tiba-tiba ada seseorang yang kulitnya merah, berbadan besar, rambut kepalanya keriting, matanya buta sebelah kanan, matanya seolah-olah anggur yang menjorok, maka saya bertanya; 'Siapakah ini? ' Mereka menjawab; 'Ini dajjal, ' manusia yang paling mirip dengannya adalah Ibnu Qathan, " dan Ibnu Qattan adalah seorang laki-laki dari Bani musthaliq dari Khuza'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7026</td></tr><tr><td>Arabic No</td><td>7026</td></tr><tr><td>Reference</td><td>Book 91 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Однажды я увидел во сне, что обхожу Каабу, как вдруг передо мной показался смуглый человек с прямыми волосами, шедший рядом с двумя людьми, с головы же его капала вода. Я спросил: “Кто это?“ (Люди) сказали: “Сын Марьям“. Затем я повернулся, как вдруг увидел дородного, румяного человека с кудрявыми волосами, кривого на правый глаз. Глаз его был похож на выпуклую виноградину. (Люди) сказали: “Это Даджаль“. Больше всего из людей походил на него (‘Абдуль‘узза) ибн Катан». (Ибн Катан был) человеком из рода бану аль-мусталик из племени хуза‘а»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7026</td></tr><tr><td>Arabic No</td><td>7026</td></tr><tr><td>Reference</td><td>Book 91 Hadith 43</td></tr></tbody></table></div>
 

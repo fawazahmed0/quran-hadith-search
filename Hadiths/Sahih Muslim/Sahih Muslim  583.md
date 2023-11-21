@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported:The Messenger of Allah (ﷺ) said: My Cistern is bigger than t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Sa'd bin Thariq] dari [Rib'i bin Hirasy] dari [Hudzaifah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya telagaku sejauh jarak antara Ailah dengan Adn. Demi Dzat yang jiwaku berada di tangan-Nya, sesungguhnya aku menghalau beberapa orang darinya sebagaimana seorang laki-laki menghalau unta lain dari telaganya." Mereka bertanya, 'Wahai Rasulullah, apakah engkau mengenal kami? ' Beliau menjawab: 'Ya. Kalian menemuiku dalam keadaan putih bersinar disebabkan bekas air wudlu yang mana tidak seorang pun memilikinya selain kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>583</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 2 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хузейфы, что Посланник Аллаха ﷺ сказал: «Поистине, (расстояние между берегами) моего водоёма больше, чем (расстояние) между Айлой и Аденом. Клянусь Тем, в чьей длани душа моя, поистине, я буду отгонять людей от него подобно тому, как человек отгоняет чужого верблюда от своего водоёма. (Люди) спросили: «О Посланник Аллаха! А ты узнаешь нас?» Он сказал: «Да. Вы придёте ко мне с сияющим следом на лице, а также на руках и ногах от следов омовения, (с особой приметой), которой не будет ни у кого (из общин), кроме вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>583</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 2 Hadith 50</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said The Apostle of Allaah(ﷺ) and his companions came to Makkah on the f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Isma'il], telah menceritakan kepada Kami [Hammad], dari [Qais bin Sa'd] dari ['Atho' bin Abu Rabah] dari [Jabir], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam datang bersama para sahabatnya selama empat malam selain malam Bulan Dzul Hijjah. Kemudian tatkala mereka telah melakukan thawaf di Ka'bah dan Shafa serta Marwa, Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Jadikanlah umrah, kecuali orang yang membawa hewan kurban." Kemudian pada saat Hari Tarwiyah, mereka bertalbiyah untuk melakukan haji. Dan ketika Hari Nahr mereka datang dan melakukan thawaf di Ka'bah, dan tidak berthawaf di Shafa serta Marwa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1788</td></tr><tr><td>Arabic No</td><td>1788</td></tr><tr><td>Reference</td><td>Book 11 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен им Аллах, передаёт: «Посланник Аллаха ﷺ и его сподвижники прибыли в Мекку по прошествии четырёх дней с начала месяца зуль-хиджжа. И, когда они совершили обход вокруг Каабы и пробег между холмами Сафа и Марва, Посланник Аллаха ﷺ сказал: “Пусть это будет ‘умра для всех, кроме тех, кто пригнал жертвенный скот”. А в восьмой день месяца зуль-хиджжа они объявили о намерении совершить хадж. А в день жертвоприношения они совершили обход вокруг Каабы, но не совершали пробег между холмами Сафа и Марва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1788</td></tr><tr><td>Arabic No</td><td>1788</td></tr><tr><td>Reference</td><td>Book 11 Hadith 68</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: I heard the Messenger of Allah (ﷺ) say: The game 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Ya'qub yaitu Al Iskandarani Al Qari] dari ['Amr] dari [Al Muththalib] dari [Jabir bin Abdullah] radliallahu 'anhu berkata: aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Hewan buruan darat adalah halal bagi kalian selama kalian bukan yang berburu atau tidak diburu untuk kalian." Abu Daud berkata; apabila dua hadits dari Nabi Shalla Allahu 'alaihi wa sallam bertentangan maka dilihat manakah uang diambil para sahabatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 11 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Дичь, добытая на суше, разрешена вам, если только не вы её добыли и она была добыта не для вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 11 Hadith 131</td></tr></tbody></table></div>
 

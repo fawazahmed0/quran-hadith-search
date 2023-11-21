@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Oum Salama (رضي الله عنها), l'Envoyé de Dieu (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Urwah bin Zubair] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam, bahwa Rasulullah shallallahu 'alaihi wasallam mendengar suara orang yang sedang adu mulut di depan pintu kamar beliau, lalu beliau keluar menemui mereka seraya bersabda: "Aku ini hanya seorang manusia biasa, namun banyak orang yang membawa perkaranya kepadaku, sedangkan satu pihak di antara mereka ada yang lebih pandai berbicara sehingga aku mengira dialah yang benar, lalu kuputuskan dialah yang menang atas lawannya, oleh karena itu, siapa yang aku menangkan perkaranya di atas hak seorang muslim, sesungguhnya itu merupakan sepotong api dari neraka. Maka ia boleh membawanya atau meninggalkannya." Telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [ayahku] dari [Shalih]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] dengan isnad ini seperti hadits Yunus, dan dalam hadits Ma'mar disebutkan, 'Zainab berkata, "Nabi shallallahu 'alaihi wasallam pernah mendengar suara persengketaan di depan pintu rumah Ummu Salamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4475</td></tr><tr><td>Arabic No</td><td>1713.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4475</td></tr><tr><td>Arabic No</td><td>1713.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 4</td></tr></tbody></table></div>
 

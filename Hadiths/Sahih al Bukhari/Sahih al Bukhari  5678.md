@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There is no disease that Allah has
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu Ahmad Az Zubairi] telah menceritakan kepada kami ['Umar bin Sa'id bin Abu Husain] dia berkata; telah menceritakan kepadaku ['Atha' bin Abu Rabah] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Allah tidak akan menurunkan penyakit melainkan menurunkan obatnya juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5678</td></tr><tr><td>Arabic No</td><td>5678</td></tr><tr><td>Reference</td><td>Book 76 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Какую бы болезнь ни ниспослал Аллах, Он обязательно ниспосылает и средство её исцеления»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5678</td></tr><tr><td>Arabic No</td><td>5678</td></tr><tr><td>Reference</td><td>Book 76 Hadith 1</td></tr></tbody></table></div>
 

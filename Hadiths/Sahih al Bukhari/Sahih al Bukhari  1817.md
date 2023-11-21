@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abu Layla:(Reporting the speech of Ka'b bin Umra) All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Rauh] telah menceritakan kepada saya [Syibil] dari [Ibnu Abu Najih] dari [Mujahid] berkata, telah menceritakan kepada saya ['Abdurrahman bin Abu Laila] dari [Ka'ab bin 'Ujrah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam melihatnya sedang pada wajahnya banyak berjatuhan serangga. Beliau bertanya: "Barangkali kamu terkena serangga (kutu di kepala)?". Dia menjawab: "Benar". Maka Beliau memerintahkannya agar mencukur rambutnya. Saat itu Beliau sedang berada di Hudaibiyah dan belum menjelaskan kepada mereka bahwa mereka harus bertahallul disana sedangkan Beliau sangat ingin agar mereka dapat memasuki Makkah. Maka Allah menurunkan ayat tentang fidyah. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkannya agar bershadaqah sebanyak faraq (tiga sha') atau berqurban dengan seekor kambing atau shaum tiga hari. Dan dari [Muhammad bin Yusuf] telah menceritakan kepada kami [Warqa'] dari [Ibnu Abu Najih] dari [Mujahid] telah mengabarkan kepada kami ['Abdurrahman bin Abu Laila] dari [Ka'ab bin 'Ujrah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam melihatnya (Ka'ab bin 'Ujrah radliallahu 'anhu) dalam keadaan wajahnya dipenuhi kutu yang berjatuhan, dan terus seperti diatas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1817</td></tr><tr><td>Arabic No</td><td>1817</td></tr><tr><td>Reference</td><td>Book 27 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ка‘ба ибн ‘Уджры, да будет доволен им Аллах, что Посланник Аллаха ﷺ увидел, как вши падают ему на лицо, и сказал: «Тебя мучают вши?» Он ответил: «Да». Тогда Пророк ﷺ приказал ему обрить голову, когда он был в Худайбии. В то время им ещё не было ясно, что они выйдут из ихрама там (в Худайбии), и они ещё надеялись войти в Мекку. Когда же Аллах ниспослал аяты об искуплении, Посланник Аллаха ﷺ приказал ему накормить «фараком» (мера объёма) еды шестерых бедняков, или зарезать жертвенное животное, или поститься три дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1817</td></tr><tr><td>Arabic No</td><td>1817</td></tr><tr><td>Reference</td><td>Book 27 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qilaba:Anas said, "Bilal was ordered to pronounce the wording of Ad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Khalid] dari [Abu Qilabah] dari [Anas bin Malik] berkata, "Bilal diperintahkan untuk mengumandangkan kalimat adzan dengan genap (dua kali dua kali) dan mengganjilkan iqamat." [Isma'il] berkata, "Aku sampaikan masalah ini kepada [Ayyub], lalu ia berkata, 'Kecuali kalimat iqamat 'Qad qaamatish shalah (shalat telah dikumandangkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 10 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Билялу было велено повторять слова азана чётное число раз, а слова икамы — нечётное». Исма‘иль (ибн Ибрахим) сказал: «Я рассказал (об этом хадисе) Аййюбу и он сказал: “Кроме икамы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 10 Hadith 5</td></tr></tbody></table></div>
 

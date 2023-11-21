@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Narrated Shuba:A similar Hadith (i e. No. 762) with this addition: And if he (i.
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562.2</td></tr><tr><td>Arabic No</td><td>3562.2</td></tr><tr><td>Reference</td><td>Book 61 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Пророк ﷺ был стыдлив в большей степени, чем девушка, сидящая за своей занавеской». В другой версии (этого хадиса сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, также сказал): «…а если ему что-то не нравилось, это было заметно по (выражению) его лица»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562</td></tr><tr><td>Arabic No</td><td>3562</td></tr><tr><td>Reference</td><td>Book 61 Hadith 71</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3562.2</td></tr><tr><td>Arabic No</td><td>3562.2</td></tr><tr><td>Reference</td><td>Book 61 Hadith 72</td></tr></tbody></table></div>

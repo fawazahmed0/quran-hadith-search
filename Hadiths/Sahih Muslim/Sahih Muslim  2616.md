@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been narrated on the authority of Qatada with the same ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid] telah menceritakan kepada kami [Hammam bin Yahya] telah menceritakan kepada kami [Qatadah] dari [Abu Nadlrah] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, ia berkata; "Kami ikut berperang bersama Rasulullah shallallahu 'alaihi wasallam pada tanggal enam belas Ramadlan. Di antara kami ada yang berpuasa dan ada pula yang berbuka. Namun mereka yang berpuasa tidaklah mencela orang yang berbuka dan yang berbuka tidak mencela yang berpuasa." Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] telah menceritakan kepada kami [Yahya bin Sa'id] dari [At Taimi] -dalam jalur lain- Dan telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Mahdi] telah menceritakan kepada kami [Syu'bah] -dalam jalur lain- Berkata [Ibnul Mutsanna] telah menceritakan kepada kami [Abu Amir] telah menceritakan kepada kami [Hisyam] -dan [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Salim bin Nuh] telah menceritakan kepada kami [Umar] yakni Ibnu Amir -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Basysyar] dari [Sa'id] semuanya dari [Qatadah] dengan isnad ini sebagaimana haditsnya Hammam, hanya saja di dalam hadits At Taimi dan Umar bin Amir dan Hisyam tercantum tanggal delapan belas. Sementara dalam hadits Sa'id adalah tanggal dua belas. Dan menurut Syu'bah; tanggal tujuh belas atau sembilan belas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2616</td></tr><tr><td>Arabic No</td><td>1116.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2616</td></tr><tr><td>Arabic No</td><td>1116.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 122</td></tr></tbody></table></div>
 

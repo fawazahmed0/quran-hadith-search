@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Al-Fadl:that the people were in doubt whether the Prophet (ﷺ) was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Abbas] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Salim Abu An Nadlr] dari ['Umair] bekas budak Ummu Fadl, dari [Ummu Fadl] bahwa orang-orang ragu-ragu mengenai puasa Nabi shallallahu 'alaihi wasallam di hari 'Arafah, lantas Ummu Fadl mengirimkan semangkuk susu untuk beliau, lalu beliau meminumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5636</td></tr><tr><td>Arabic No</td><td>5636</td></tr><tr><td>Reference</td><td>Book 74 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм аль-Фадль сказала: «В день (стояния на) ‘Арафате у людей возникли сомнения относительно того, постится Пророк ﷺ или нет, и тогда я послала ему чашу молока, а он выпил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5636</td></tr><tr><td>Arabic No</td><td>5636</td></tr><tr><td>Reference</td><td>Book 74 Hadith 62</td></tr></tbody></table></div>
 

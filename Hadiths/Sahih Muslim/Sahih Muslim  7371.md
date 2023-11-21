@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr As Sa'di] dan [Ishaq bin Ibrahim], teks milik Ibnu Hujr, berkata Ishaq: Telah mengkhabarkan kepada kami, sementara Ibnu Hujr berkata: Telah menceritakan kepada kami [Jarir] dari [Al Mughirah] dari [Nu'aim bin Abu Hind] dari [Rib'I bin Hirasy] berkata: [Hudzaifah] dan [Abu Mas'ud] berkumpul, Hudzaifah berkata: Aku paling tahu ada yang ada bersama Dajjal, sesungguhnya bersamanya ada sungai dari air dan sungai dari api. Yang kalian lihat seperti api adalah air dan yang kalian lihat seperti air adalah api. Siapapun dari kalian yang menjumpainya lalu menginginkan air, hendalah minum dari sungai yang terlihat api karena ia akan menemukannya berupa air. Abu Mas'ud berkata: Seperti itu sabda yang aku dengar dari nabi Shallallahu 'alaihi wa Salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7371</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Риб‘ий ибн Хираш сказал: «(Однажды,) когда встретились Хузайфа (ибн аль-Яман) и Абу Мас‘уд (‘Укъба ибн ‘Амр), да будет доволен ими Аллах, Хузайфа сказал: “Поистине, я лучше самого Даджаля знаю, что у него будет. Будет с ним река с водой и река с огнём. Что касается той, что представится (глазу) огнём, будет водой, а та, что представится водой, будет огнём. Пусть же тот из вас, кто доживёт до этого и захочет воды, напьётся из той (реки), что представится ему огнём, ибо, поистине, он найдёт, (что это) вода”».Абу Мас‘уд сказал: «Так я слышал, как говорил (об этом) Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7371</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

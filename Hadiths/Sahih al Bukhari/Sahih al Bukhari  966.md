@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:I was with Ibn 'Umar when a spear head pierced the sol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zakaria bin Yahya Abu As Sukain] berkata, telah menceritakan kepada kami [Al Muharibi] berkata, telah menceritakan kepada kami [Muhammad bin Suqah] dari [Sa'id bin Jubair] berkata, "Aku pernah besama Ibnu 'Umar saat dia terkena ujung panah pada bagian lekuk telapak kakinya. Dia lalu merapatkan kakinya pada tunggangannya, lalu aku turun dan melepaskannya. Kejadiaan itu terjadi di Mina. Kemudian peristiwa ini didengar oleh Al Hajjaj, maka dia pun menjenguknya seraya berkata, "Seandainya kami ketahui siapa yang membuatmu terkena mushibah ini!" Maka [Ibnu 'Umar] menyahut, "Engkaulah yang membuat aku terkena mushibah ini." Al Hajjaj berkata, "Bagaimana bisa!" Ibnu 'Umar menjawab, "Engkau yang membawa senjata di hari yang tidak diperbolehkan membawanya. Dan engkau pula yang membawa masuk senjata ke dalam Masjidil Haram padahal tidak diperbolehkan membawa masuk senjata ke dalam Masjidil Haram pada hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>966</td></tr><tr><td>Arabic No</td><td>966</td></tr><tr><td>Reference</td><td>Book 13 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Са‘ида ибн Джубайра, что он сказал: «Я был вместе с Ибн ‘Умаром, когда наконечник копья пронзил подошву его ступни. Его нога застряла в седле, я спустился и вытащил его (наконечник) из его ноги, и это произошло в Мине. Аль-Хаджадж, узнав об этом, пришел навестить его и сказал: “Если бы мы только знали кто тебя ранил…?” Ибн ‘Умар сказал: “Это ты меня ранил”. Аль-Хаджадж сказал: “Как это?” Ибн ‘Умар сказал: “Ты разрешил носить оружие в тот день, когда его никто не носил, и ты разрешил заносить оружие в аль-Харам, хотя раньше оружие не заносилось в аль-Харам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>966</td></tr><tr><td>Arabic No</td><td>966</td></tr><tr><td>Reference</td><td>Book 13 Hadith 15</td></tr></tbody></table></div>
 

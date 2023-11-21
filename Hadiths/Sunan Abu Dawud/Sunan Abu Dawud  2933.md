@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam ibn Ma'dikarib: The Messenger of Allah (ﷺ) struck him on hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Utsman], telah menceritakan kepada kami [Muhammad bin Harb], dari [Abu Salamah Sulaiman bin Sulaim], dari [Yahya bin Jabir] dari [Shalih bin Yahya bin Al Miqdam] dari [kakeknya yaitu Al Miqdam bin Ma'dikarib] bahwa Rasulullah shallallahu 'alaihi wasallam menepuk pundaknya kemudian berkata kepadanya: "Engkau telah beruntung wahai Qudaim, apabila engkau meninggal dan tidak menjadi seorang pemimpin, sekretaris, dan 'arif (orang yang bertugas mengatur permasalahan dan kemaslahatan umat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 20 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салих ибн Яхья ибн аль-Микдам передаёт от своего деда аль-Микдама ибн Мадийкариба, что однажды Посланник Аллаха ﷺ хлопнул его по плечу со словами: «О Кудайм, преуспеешь ты, если умрёшь, не побывав ни предводителем, ни писцом (при нём), ни старостой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 20 Hadith 6</td></tr></tbody></table></div>
 

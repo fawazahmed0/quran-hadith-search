@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Abi al-Sha'tha' reported:I came to Ibrahim al-Nakha'I and Ibrah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Jarir] dari [Bayan] dari [Abdurrahman bin Abu Sya'tsa'] ia berkata; Aku mendatangi Ibrahim An Nakha'i dan Ibrahim At Taimi. Aku pun berkata, "Sesungguhnya ingin menggabungkan umrah dan haji pada tahun ini." Maka [Ibrahim An Nakha'i] berkata, "Akan tetapi bapakmu tidak pernah berkeinginan melakukan hal itu." [Qutaibah] berkata, Telah menceritakan kepada kami [Jarir] dari [Bayan] dari [Ibrahim At Tamimi] dari [bapaknya] bahwa ia melewati [Abu Dzar] radliallahu 'anhu di Rabadzah, lalau ia menyebutkan hal itu padanya, dan Abu Dzar pun berkata, "Sesungguhnya itu hanyalah khusus bagi kami (dulu) dan bukan untuk kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2968</td></tr><tr><td>Arabic No</td><td>1224.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2968</td></tr><tr><td>Arabic No</td><td>1224.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 177</td></tr></tbody></table></div>
 

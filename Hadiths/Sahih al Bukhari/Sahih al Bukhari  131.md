@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Once Allah's Messenger (ﷺ) said, "Amongst the tre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara pohon-pohon ada satu pohon yang tidak jatuh daunnya, dan itu adalah perumpamaan bagi seorang Muslim. Ceritakan kepadaku pohon apakah itu?" Maka orang-orang menganggapnya sebagai pohon-pohon yang ada di lembah, sedangkan menurut perkiraanku bahwa itu adalah pohon kurma." 'Abdullah berkata, "Tetapi aku malu (untuk mengungkapkannya). Lalu orang-orang berkata, "Wahai Rasulullah, beritahukan kami pohon apakah itu?" Maka Rasulullah shallallahu 'alaihi wasallam pun menjawab: "Dia adalah pohon kurma." 'Abdullah berkata, "Kemudian aku ceritakan hal itu kepada bapakku, Maka bapakku berkata, "Aku lebih suka bila engkau ungkapkan saat itu dari pada aku memiliki begini dan begini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>131</td></tr><tr><td>Arabic No</td><td>131</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара о том, что (однажды) Посланник Аллаха ﷺ сказал:«Есть среди деревьев такое, листья которого не опадают, и, поистине, оно подобно мусульманину, а (теперь) скажите мне, что это (за дерево)?» Люди стали вспоминать, какие деревья растут в пустыне, а мне пришло в голову, что это пальма».\n(‘Абдуллах) сказал: «Но я постеснялся, а потом они попросили: “Скажи нам, что это (за дерево), о Посланник Аллаха?” И тогда Посланник Аллаха ﷺ сказал: “Это − пальма”».\n(‘Абдуллах) сказал: «И (позже) я рассказал своему отцу (‘Умару) о том, что пришло мне (тогда) в голову и он сказал: “Если бы ты это сказал, то это было бы для меня любимее чем то-то и то-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>131</td></tr><tr><td>Arabic No</td><td>131</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
 

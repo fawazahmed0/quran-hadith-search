@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ma'qil ibn Yasar: A man came to the Prophet (ﷺ) and said: I have foun
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim], telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Mustalim bin Sa'id anak saudari Manshur bin Zadzan], dari [Manshur bin Zadzan] dari [Mu'awiyah bin Qurrah] dari [Ma'qil bin Yasar], ia berkata; seorang laki-laki datang kepada Nabi Shallallahu 'alaihi sallam lalu berkata; sesungguhnya aku mendapati seorang wanita yang mempunyai keturunan yang baik dan cantik, akan tetapi dia mandul, apakah aku boleh menikahinya? Beliau menjawab: "Tidak." Kemudian dia datang lagi kedua kalinya dan beliau melarangnya, kemudian ia datang ketiga kalinya lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Nikahkanlah wanita-wanita yang penyayang dan subur (banyak keturunan), karena aku akan berbangga kepada umat yang lain dengan banyaknya kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2050</td></tr><tr><td>Arabic No</td><td>2050</td></tr><tr><td>Reference</td><td>Book 12 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Макыля ибн Ясара, да будет доволен им Аллах, что один человек пришёл к Пророку ﷺ и сказал: «Я нашёл женщину из знатной семьи и к тому же красивую, но она не может иметь детей. Жениться ли мне на ней?» Пророк ﷺ сказал: «Нет». Потом он пришёл к нему второй раз, и (Пророк ﷺ снова) запретил ему. Потом он пришёл в третий раз, но Пророк ﷺ сказал ему: «Женитесь на любящих и плодовитых, и, поистине, я превзойду (другие общины) вашей численностью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2050</td></tr><tr><td>Arabic No</td><td>2050</td></tr><tr><td>Reference</td><td>Book 12 Hadith 5</td></tr></tbody></table></div>
 

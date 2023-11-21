@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:Um-Sulaim came to Allah's Messenger (ﷺ) and said, "Verily, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami [Abu Mu'awiyah] berkata, telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Bapaknya] dari [Zainab] puteri Ummu Salamah, dari [Ummu Salamah] ia berkata, "Ummu Sulaim datang menemui Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya Allah tidak malu dalam perkara yang hak. Apakah bagi wanita wajib mandi jika ia bermimpi?" Nabi shallallahu 'alaihi wasallam menjawab: "Ya, jika dia melihat air." Ummu Salamah lalu menutupi wajahnya seraya bertanya, "Wahai Rasulullah, apakah seorang wanita itu bermimpi?" Beliau menjawab: "Ya. Celaka kamu. (jika tidak) Lantas dari mana datangnya kemiripan seorang anak itu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 3 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала:\n«(Однажды) Умм Сулейм пришла к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, поистине, Аллах не стыдится (говорить) истину, ( так скажи мне,) следует ли женщине совершить полное омовение/гъусль/, если во сне она увидит, что совокупилась с мужчиной, и у неё случится поллюция?” Пророк ﷺ ответил: “Да, если (после пробуждения) она увидит (свои) выделения”. (Услышав это,) Умм Саляма прикрыла своё лицо и спросила: “О Посланник Аллаха, а разве у женщин бывают поллюции?” (В ответ ей Пророк ﷺ) сказал: “Что за вопрос, конечно! А почему же ещё сын становится похожим на мать?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 3 Hadith 72</td></tr></tbody></table></div>
 

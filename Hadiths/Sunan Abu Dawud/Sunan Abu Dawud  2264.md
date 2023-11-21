@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: There is no prostitution in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim], telah menceritakan kepada kami [Mu'tamir] dari [Salm bin Abu Az Zinad], telah menceritakan kepadaku [sebagian sahabat kami], dari [Sa'id bin Jubair] dari [Ibnu Abbas], bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada perzinahan dalam Islam, barangsiapa yang melakukan zina pada masa jahiliyah maka sungguh ia telah menisbatkan anak yang terlahir kepada walinya, dan barangsiapa yang mengklaim seorang anak tanpa pernikahan yang benar, maka ia tidak mewarisi dan tidak diwarisi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2264</td></tr><tr><td>Arabic No</td><td>2264</td></tr><tr><td>Reference</td><td>Book 13 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Нет прелюбодеяния в исламе. Если некто совершал прелюбодеяние во времена невежества, дети, рождённые от этого прелюбодеяния, считаются его детьми. А если некто утверждает, что у него есть ребёнок от прелюбодеяния, то они не наследуют друг другу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2264</td></tr><tr><td>Arabic No</td><td>2264</td></tr><tr><td>Reference</td><td>Book 13 Hadith 90</td></tr></tbody></table></div>
 

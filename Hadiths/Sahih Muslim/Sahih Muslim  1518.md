@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah narrated:Our houses were situated far away from the mosque; w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Hajjaj bin Asy Syair] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Zakariya bin Ishaq] telah menceritakan kepada kami [Abu Zubair] katanya; aku mendengar [Jabir bin Abdullah] mengatakan; "Rumah kami terpencil dari masjid, maka kami ingin menjual rumah kami dengan harapan untuk kami pindahkan dekat masjid, maka Rasulullah shallallahu 'alaihi wasallam melarang kami seraya berujar: "Setiap langkah, kamu akan memperoleh pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1518</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 5 Hadith 351</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Наши дома были далеко от мечети, и (однажды) мы захотели продать наши дома и поселится ближе к мечети, но Посланник Аллаха ﷺ запретил нам (делать) это, сказав: “Поистине, за каждый (сделанный) вами шаг (возвышается) ваша степень”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1518</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 5 Hadith 351</td></tr></tbody></table></div>
 

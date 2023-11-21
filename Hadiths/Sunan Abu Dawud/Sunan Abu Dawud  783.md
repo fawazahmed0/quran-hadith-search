@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits bin Sa'id] dari [Husain Al Mu'allim] dari [Budail bin Maisarah] dari [Abu Al Jauza'] dari [Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam memulai shalatnya dengan takbir dan membaca "AL HAMDULILLAHI RABBIL 'AALAMIIN", dan apabila hendak ruku', beliau tidak menengadah dan tidak pula terlalu menunduk, akan tetapi pertengahan antara keduanya. Apabila mengangkat kepala dari ruku' (i'tidal), beliau tidak langsung sujud sehingga diri beliau berdiri tegap, dan di setiap dua raka'at beliau biasa membaca; "AT TAHIYYAT." Apabila duduk, beliau duduk di atas kaki kiri dan menegakkan kaki kanannya, beliau juga melarang duduknya syetan (yaitu duduk di atas tumit) dan melarang menghamparkan kedua telapak tangan dan hasta seperti binatang buas (ketika sujud), beliau menutup shalatnya dengan salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (498)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>783</td></tr><tr><td>Arabic No</td><td>783</td></tr><tr><td>Reference</td><td>Book 2 Hadith 393</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала: «Обычно Посланник Аллаха ﷺ начинал молитву (произношением слов) “Аллаху акбар” и чтением (суры, начинающейся словами) “Хвала Аллаху, Господу миров”. Совершая поясной поклон, он не поднимал голову (высоко) и не опускал (её низко,) а (держал её) между этим. Когда он поднимал голову после поясного поклона, он не совершал земной поклон, пока полностью не выпрямлялся стоя, а поднимая голову после земного поклона, он не совершал (следующий) земной поклон, пока не выпрямлялся сидя. После каждых двух рак‘атов он произносил: “Ат-тахиййату…”. Когда же он усаживался, он (садился на) левую ногу и ставил стопу правой ноги вертикально. И он запрещал садиться (так, как садится) шайтан, и запрещал (во время совершения земного поклона) класть на землю локти, подобно дикому зверю, а завершал он молитву словами приветствия /таслим/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (498)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>783</td></tr><tr><td>Arabic No</td><td>783</td></tr><tr><td>Reference</td><td>Book 2 Hadith 393</td></tr></tbody></table></div>
 

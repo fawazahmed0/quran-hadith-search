@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said to me, "If the revenue
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Sufyan], [Ibnu Al Munkadir] mendengar [Jabir bin Abdullah radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Kalau harta benda dari Bahrain telah sampai kepada kita, maka aku akan memberimu sekian dan sekian (sebanyak tiga kali).' Jabir berkata; dan memang hal itu beliau berikan kepadaku. Jabir berkata; Setelah beliau wafat, aku bertemu dengan Abu Bakr, lalu aku meminta harta itu, namun dia tidak memberikannya, kemudian aku minta lagi, ia pun tetap tidak memberikannya hingga tiga kali aku menemuinya. Maka aku tanyakan kepadanya; 'Aku berkali-kali menemuimu namun kamu tidak memberikannya kepadaku. Apakah kamu akan memberikannya kepadaku ataukah kamu memang merasa kikir untuk memberikannya kepadaku?. Abu Bakr menjawab; 'Apakah kamu mengatakanku sebagai orang yang kikir, padahal penyakit apakah yang lebih parah dari kikir? (Abu Bakr mengatakannya sebanyak tiga kali). Tidaklah aku menahannya kecuali aku pasti akan memberikannya kepadamu! Sedangkan dari jalur lain, dari [Amru] dari [Muhammad bin Ali] aku mendengar [Jabir bin Abdullah] berkata; kemudian aku menemui Abu Bakr, dia berkata kepadaku; 'Hitunglah! Lalu sayapun menghitungnya. Ternyata hanya ada lima ratus. Maka Abu Bakr berkata; 'Ambillah dua kali lipat dari itu (agar sesuai dengan janji Rasulullah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 64 Hadith 406</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Посланник Аллаха ﷺ сказал (мне): “Если бы доставили деньги из Бахрейна, я дал бы тебе то-то и то-то”, (однако) при жизни Посланника Аллаха ﷺ денег из Бахрейна больше не привозили, а когда их доставили, по велению Абу Бакра (было объявлено): “Пусть придёт ко мне тот, кому Пророк ﷺ остался должен или обещал что-нибудь!” Тогда я пришёл к Абу Бакру и рассказал ему, что Пророк ﷺ сказал: “Если бы доставили деньги из Бахрейна, я дал бы тебе то-то, то-то и то-то”, и он дал мне. Когда я встретил Абу Бакра в другой раз и попросил его, он не дал мне. Затем я снова пришёл к нему, но он не дал мне. Затем я пришёл к нему в третий раз, но он снова не дал мне, и я сказал ему: “Я пришёл к тебе, но ты не дал мне, затем я пришёл к тебе (во второй раз), и ты не дал мне, затем я пришёл к тебе (в третий раз), но ты не дал мне. Либо ты дашь мне, либо проявишь скупость в отношении меня”. Абу Бакр сказал: “Ты говоришь мне, что я проявляю скупость в отношении тебя? Есть ли болезнь хуже скупости?! — повторив это трижды, — Но на самом деле, всякий раз, когда я отказывал тебе, я хотел дать их тебе”». \nВ другой версии Джабир добавил: «Он отсыпал мне одну горсть (денег) и сказал: “Посчитай их”. Я пересчитал (эти монеты), и оказалось, что их было пятьсот (штук, после чего) он сказал (мне): “Возьми ещё два раза по столько же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 64 Hadith 406</td></tr></tbody></table></div>
 

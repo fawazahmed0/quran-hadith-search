@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Judama daughter of Wahb, sister of Ukkasha (Allah be pleased with her). reported
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Sa'id] dan [Muhammad bin Abu Umar] keduanya berkata; Telah menceritakan kepada kami [Al Muqri'] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] telah menceritakan kepadaku [Abu Al Aswad] dari [Urwah] dari [Aisyah] dari [Judamah binti Wahb] saudarinya Ukasyah, dia berkata; Saya hadir waktu Rasulullah bersama orang-orang, sedangkan beliau bersabda: "Sungguh saya bertekad untuk melarang ghilah, setelah saya perhatikan orang-orang Romawi dan Persia, mereka melakukan ghilah, ternyata hal itu tidak membahayakan anak-anak mereka sedikit pun." Kemudian mereka bertanya mengenai azl, Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Itu adalah pembunuhan secara tidak langsung." [Ubaidullah] menambahkan dalam haditsnya dari [Al Muqri'] yaitu Firman Allah: "Jika bayi-bayi yang dibunuh ditanya." Dan telah menceritakan kepada kami [Abu bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Ishaq] telah menceritakan kepada kami [Yahya bin Ayyub] dari [Muhammad bin Abdurrahman bin Naufal Al Qurasyi] dari [Urwah] dari [Aisyah] dari [Judamah binti Wahb Al Asadiyyah] bahwa dia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam, kemudian dia menyebutkan seperti hadits Sa'id bin Ayyub tentang azl dan ghilah, namun dia menggunakan kata Al Ghiyal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3565</td></tr><tr><td>Arabic No</td><td>1442.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3565</td></tr><tr><td>Arabic No</td><td>1442.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 167</td></tr></tbody></table></div>
 

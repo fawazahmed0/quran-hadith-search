@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl Ibn Sa'd (que Dieu l'agrée) a dit : J'ai entendu l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dan [Abdulaziz bin Abu Hazim] dari [Abu Hazim] dari [Sahal bin Sa'id] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda. Telah menceritakan kepada kami [Qutaibah bin Sa'id], teks miliknya, telah menceritakan kepada kami [Ya'qub] dari [Abu Hazim] bahwa ia mendengar [Sahal] berkata: Aku mendengar nabi Shallallahu 'alaihi wa Salam menunjuk dengan jari telunjuk dan jari tengah, beliau bersabda: "Aku diutus dan kiamat seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7403</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 54 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хазима о том, что он слышал, как Сахль (ибн Са‘д) говорил: «Я слышал, как Пророк ﷺ указывая тем пальцем, что следует за большим, а так же средним, говорил: “Я был отправлен вместе с этим Часом вот так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7403</td></tr><tr><td>Arabic No</td><td>2950</td></tr><tr><td>Reference</td><td>Book 54 Hadith 164</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dharr said:"The Messenger of Allah (ﷺ) asked me: 'How will you act, Abu Dh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari [Abu Imran Al Jauni] dari [Abdullah bin Ash Shamit] dari [Abu Dzarr] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda kepadaku: "Wahai Abu Dzarr, apa yang engkau lakukan apabila memiliki para pemimpin yang mematikan shalat, atau beliau bersabda: mengakhirkan shalat?" Saya menjawab; Wahai Rasulullah, lalu apa yang engkau perintahkan kepadaku? Beliau menjawab: "Shalatlah pada waktunya, dan apabila engkau mendapati shalat bersama mereka, maka laksanakanlah, karena ia menjadi pahala shalat nafilah bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (648)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>431</td></tr><tr><td>Arabic No</td><td>431</td></tr><tr><td>Reference</td><td>Book 2 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «(Однажды) Посланник Аллаха ﷺ сказал мне: “О Абу Зарр, какого будет тебе, когда стоящие над тобой правители умерт­вят молитву?” или он сказал: “Будут откладывать молитву?” Я сказал: “О Посланник Аллаха, и как ты приказываешь мне (поступить в таком случае)?” Он сказал: “Совершай молитву в установленное для неё время, а если застанешь их во время совершения (молитвы), то помолись (вместе с ними), и поистине, она будет для тебя дополнительной /нафиля/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (648)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>431</td></tr><tr><td>Arabic No</td><td>431</td></tr><tr><td>Reference</td><td>Book 2 Hadith 41</td></tr></tbody></table></div>
 

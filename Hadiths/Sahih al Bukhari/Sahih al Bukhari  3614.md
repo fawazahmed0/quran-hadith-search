@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:A man recited Surat-al-Kahf (in his prayer) and in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3614</td></tr><tr><td>Arabic No</td><td>3614</td></tr><tr><td>Reference</td><td>Book 61 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах ими обоими, сказал: «(Как-то раз) один человек (во время молитвы) стал читать суру “аль-Кяхф”. В это время во дворе (его дома) находилась лошадь, которая стала прыгать, испугавшись (чего-то), когда же (этот человек) произнёс слова таслима (и закончил молиться), его неожиданно окутало нечто вроде тумана или облака. (После этого он) обо всём рассказал Пророку ﷺ, который сказал: “Читай, о такой-то, ибо это было спокойствие /сакина/, которое снизошло свыше благодаря (чтению) Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3614</td></tr><tr><td>Arabic No</td><td>3614</td></tr><tr><td>Reference</td><td>Book 61 Hadith 121</td></tr></tbody></table></div>
 

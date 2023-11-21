@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:We used to cultivate land on rent during the lifetim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] dia berkata; "Di zaman Rasulullah Shallallu 'alaihi wa sallam kami terbiasa menyewakan tanah kemudian kami memungut dari hasil tanamannya. Maka Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa yang memiliki tanah hendaklah dia menanaminya atau meminjamkan kepada saudaranya supaya ditanaminya, jika dia enggan, hendaknya membiarkan tanah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3924</td></tr><tr><td>Arabic No</td><td>1536.19</td></tr><tr><td>Reference</td><td>Book 21 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3924</td></tr><tr><td>Arabic No</td><td>1536.19</td></tr><tr><td>Reference</td><td>Book 21 Hadith 123</td></tr></tbody></table></div>
 

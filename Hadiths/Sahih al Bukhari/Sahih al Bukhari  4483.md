@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:'Umar said, "I agreed with Allah in three things," or said, "My Lo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Yahya bin Sa'id] dari [Humaid] dari [Anas] dia berkata; ['Umar] berkata; Aku telah menepati Rabbku dalam tiga hal, atau Rabbku telah menyetujuiku dalam tiga hal. Aku berkata; "Wahai Rasulullah seandainya engkau menjadikan Maqam Ibrahim sebagai tempat shalat." Aku berkata; "Wahai Rasulullah, sesungguhnya yang menemuimu adalah orang-orang yang baik dan yang jahat, seandainya engkau perintahkan kepada para Ummul Mukminin supaya memakai hijab." maka turunlah ayat hijab. Dan suatu ketika aku mendengar Rasulullah shallallahu 'alaihi wasallam mempersalahkan sebagian istri-istrinya, maka akupun mengunjungi mereka dan berkata; "Berhentilah kalian dari berbuat masalah dengan Nabi atau boleh jadi Allah akan memberi ganti kepadanya dengan isteri yang lebih baik dari pada kalian." Ketika aku menemui salah seorang istrinya, ia berkata kepadaku; wahai Umar! Bukankah Rasulullah shallallahu 'alaihi wasallam lebih berhak menasihati istri-istrinya daripada kamu? Maka turunlah ayat; "Boleh jadi jika ia ceraikan kamu, Tuhannya akan memberinya ganti istri-istri yang lebih baik dari pada kamu -perempuan yang berserah diri.- (QS At Tahrim: 5)." Dan [Ibnu Abu Maryam] berkata; Telah mengabarkan kepada kami [Yahya bin Ayub] Telah menceritakan kepadaku [Humaid] Aku mendengar [Anas] dari [Umar]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 65 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что ‘Умар, да будет доволен им Аллах, сказал: «(Моё мнение) совпало с (тем, что впоследствии повелел) Аллах в трёх (случаях. Однажды) я сказал: “О Посланник Аллаха, (было бы хорошо,) если бы ты избрал место стояния Ибрахима местом для молитв”. И я сказал: “О Посланник Аллаха, к тебе приходят и благочестивые, и нечестивые, (и было бы хорошо,) если бы ты велел матерям правоверных (говорить с посторонними из-за) занавески”, после чего Аллах ниспослал аят о преграде. (Как-то раз,) узнав о том, что Пророк ﷺ порицал некоторых из своих жён, я пришёл к ним и сказал: “Либо вы прекратите (досаждать Пророку ﷺ), либо Аллах дарует Своему посланнику (жён), которые будут лучше вас!” А потом я пришёл к одной из его жён, и она сказала: “О ‘Умар, разве Посланник Аллаха ﷺ сам не в состоянии увещевать своих жён, что их увещеваешь ты?” — и после этого Аллах ниспослал (аят, в котором сказано): “Если он разведётся со (всеми) вами, то может быть так, что Господь его даст ему взамен жён, которые будут лучше вас, исповедующих ислам…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 65 Hadith 10</td></tr></tbody></table></div>
 

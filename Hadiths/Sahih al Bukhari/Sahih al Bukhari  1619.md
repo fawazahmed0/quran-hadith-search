@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(the wife of the Prophet) I informed Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari [Muhammad bin 'Abdurrahman bin Nawfal] dari ['Urwah bin Az Zubair] dari [Zainab binti Abu Salamah] dari [Ummu Salamah radliallahu 'anhaa] isteri Nabi Shallallahu'alaihiwasallam berkata: "Aku mengadu kepada Rasulullah Shallallahu'alaihiwasallam bahwa kondisiku sedang lemah, maka Beliau berkata: "Thawaflah dari belakang orang banyak dengan mengendarai tunggangan". Maka aku thawaf sedang Rasulullah Shallallahu'alaihiwasallam saat itu shalat disisi Ka'bah Baitullah dan Beliau membaca Surah Ath-Thur (Surah ke)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>1619</td></tr><tr><td>Reference</td><td>Book 25 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, жена Пророка ﷺ рассказывала: «Я пожаловалась Посланнику Аллаха ﷺ на то, что болею, и он сказал: «Совершай таваф позади людей, сидя верхом». И я так и сделала, а Посланник Аллаха ﷺ в это время совершал молитву рядом с Каабой и читал: “Клянусь горой! Клянусь начертанным Писанием!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1619</td></tr><tr><td>Arabic No</td><td>1619</td></tr><tr><td>Reference</td><td>Book 25 Hadith 104</td></tr></tbody></table></div>
 

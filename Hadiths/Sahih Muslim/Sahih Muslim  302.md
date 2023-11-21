@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thabit b. Dahhak reported that he pledged allegiance to the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Mu'awiyah bin Sallam bin Abu Sallam ad-Dimasyqi] dari [Yahya bin Abu Katsir] bahwa [Abu Qilabah] telah mengabarkan kepadanya, bahwa [Tsabit bin adl-Dlahhak] telah mengabarkan kepadanya, bahwa Rasulullah membaiatnya di bawah pohon, Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dengan agama selain agama Islam secara dusta maka keadaannya adalah seperti ucapannya. Barangsiapa membunuh dirinya sendiri dengan sesuatu (alat) maka dia akan disiksa dengan alat tersebut pada Hari Kiamat. Seorang lelaki tidak layak bernazar dengan sesuatu yang mana dia tidak memilikinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>302</td></tr><tr><td>Arabic No</td><td>110.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сабит ибн ад-Даххак (да будет доволен им Аллах) рассказал, что он давал Посланнику Аллаха ﷺ клятву под деревом, и что Посланник Аллаха ﷺ сказал: «Тот, кто намеренно дал ложную клятву, поклявшись не исламом, а иной религией, является таким, как он (сам себя назвал); и лишившего себя жизни (каким-либо предметом в этом мире) в День воскресения будут подвергать мучениям (этим же предметом); и не следует человеку давать такие обеты, которые касаются того, что ему не принадлежит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>302</td></tr><tr><td>Arabic No</td><td>110.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 208</td></tr></tbody></table></div>
 

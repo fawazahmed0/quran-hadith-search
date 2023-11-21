@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Buhaina:The Prophet, while in the state of Ihram, was cupped at the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada kami [Sulaiman biun Bilal] dari ['Alqamah] dari ['Abdurrahman Al A'raj] dari [Ibnu Buhainah] radliallahu 'anhu berkata: "Nabi shallallahu 'alaihi wasallam berbekam saat sedang ihram ketika berada di Lahyi Jamal pada begian tengah kepala Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 28 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Бухайна, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ находившийся в состоянии ихрама, был в Ляхйи Джамаль, ему отворили кровь(, сделав разрез) на темени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 28 Hadith 16</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Allah's Messenger (ﷺ) forbade the (preparation of Nab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [As Syaibani] dari [Habib] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang Ad Dubba, Al Hantam, Al Muzaffat dan An Naqir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5179</td></tr><tr><td>Arabic No</td><td>17.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5179</td></tr><tr><td>Arabic No</td><td>17.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 53</td></tr></tbody></table></div>
 

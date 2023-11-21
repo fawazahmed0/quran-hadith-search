@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "(The people will be thrown into Hell ( Fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibn Abu Al Aswad] telah menceritakan kepada kami [Harami] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Terus saja -penghuninya- dimasukkan ke dalam Neraka." (dalam jalur lain disebutkan) Dan telah berkata kepadaku [Khalifah] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] dan dari [Mu'tamir] aku mendengar [bapakku] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam bersabda: "Terus saja -penghuninya- dimasukkan ke dalam Neraka '(sehingga ia berkata 'Masih adakah tambahan?" (Qs. Qaaf: 30), hingga Allah Rabbul 'alamin meletakkan telapak kaki-Nya sehingga satu sama lain saling berdesak-desakan, hingga neraka berkata, 'Cukup-cukup' demi kemuliaan dan kehormatan-Mu. Sedangkan surga masih saja terlalu longgar sehingga Allah menciptakan makhluk baru dan meletakkan mereka ke dalam surga yang masih senggang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7384</td></tr><tr><td>Arabic No</td><td>7384</td></tr><tr><td>Reference</td><td>Book 97 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «В Огонь будут беспрестанно бросать людей».\nПо другому пути передачи сообщается от Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «В Огонь будут беспрестанно бросать людей, а он будет повторять: “Есть ли добавка?” — пока Господь миров не наступит на него Своей стопой так, что одна часть Ада войдёт в другую. И тогда Ад скажет: “Всё, всё, клянусь Твоим могуществом и Твоей щедростью”. В Раю же будут оставаться свободные места, пока Аллах не создаст для них иные творения и не заселит ими свободные места»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7384</td></tr><tr><td>Arabic No</td><td>7384</td></tr><tr><td>Reference</td><td>Book 97 Hadith 14</td></tr></tbody></table></div>
 

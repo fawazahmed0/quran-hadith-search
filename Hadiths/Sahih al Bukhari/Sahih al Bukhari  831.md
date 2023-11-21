@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq bin Salama:'Abdullah said, "Whenever we prayed behind the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Al A'masy] dari [Syaqiq bin Salamah] berkata, berkata, " [Abdullah] berkata, "Jika kami shalat di belakang Nabi shallallahu 'alaihi wasallam, kami membaca: 'ASSALAAMU 'ALAA JIBRIL WA MIKAA'IL. ASSALAAMU 'ALAA FULAN WA FULAN (Semoga kesejahteraan terlimpahkan kepada malaikat Jibril dan Mika'il, dan semoga kesejahteraan terlimpahkan kepada si anu dan si anu) '. Lalu Rasulullah shallallahu 'alaihi wasallam menoleh ke arah kami seraya bersabda: "Sesungguhnya Allah, Dialah As-Salaam. Maka jika seseorang dari kalian shalat, hendaklah ia membaca: 'ATTAHIYYAATU LILLAHI WASHSHALAWAATU WATHTHAYYIBAAT. ASSALAAMU 'ALAIKA AYYUHANNABIYYU WA RAHMATULLAHI WA BARAKAATUH. ASSALAAMU 'ALAINAA WA 'ALAA 'IBAADILLAHISH SHAALIHIIN (Segala penghormatan hanya milik Allah, juga segala pengagungan dan kebaikan. Semoga kesejahteraan terlimpahkan kepada engkau wahai Nabi dan juga rahmat dan berkah-Nya. Dan juga semoga kesejahteraan terlimpahkan kepada kami dan kepada hamba-hamba Allah yang shalih) '. Sesungguhnya jika kalian mengucapkan seperti ini, maka kalian telah mengucapkan salam kepada seluruh hamba Allah yang shalih di langit maupun di bumi. (Dan lanjutkanlah dengan bacaan): 'ASYHADU ALLAA ILAAHA ILLALLAH WA ASYHADU ANNA MUHAMMADAN 'ABDUHU WA RASUULUH (Aku bersaksi tidak ada tuhan yang berhak disembah selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>831</td></tr><tr><td>Arabic No</td><td>831</td></tr><tr><td>Reference</td><td>Book 10 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал:\n— Совершая намаз позади Пророка ﷺ мы обычно говорили (сидя): «Мир /ас-салям/ Аллаху, мир Джибрилу и Микаилу, мир такому-то и такому-то», но однажды Посланник Аллаха ﷺ повернулся к нам и сказал: «Поистине, Аллах это и есть Мир, а поэтому, когда кто-нибудь из вас станет совершать намаз, пусть говорит: “Приветствия, молитвы и (всё) благое Аллаху, мир тебе, о пророк, милость Аллаха и благословения Его, мир нам и всем праведным рабам Аллаха /Ат-тахиййату ли-Лляхи, ва-с-саляввату ва-т-таййибату, ас-саляму ‘аляй-кя, аййу-ха-н-наби, ва рахмату-Ллахи ва баракяту-ху, ас-саляму ‘аляй-на ва ‘аля ‘ибади-Лляхи-с-салихин/”, и, поистине, если вы произнесёте (эти слова), они коснутся каждого праведного раба Аллаха на небесах и на земле. (И говорите): “Свидетельствую, что нет истинного бога, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Его посланник /Ашхаду алля иляха илля-Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>831</td></tr><tr><td>Arabic No</td><td>831</td></tr><tr><td>Reference</td><td>Book 10 Hadith 225</td></tr></tbody></table></div>
 

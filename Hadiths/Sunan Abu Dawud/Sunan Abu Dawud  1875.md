@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Umar was informed about the statement of Aisha that a part of al-Hijr is inc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Makhlad bin Khalid], telah menceritakan kepada Kami [Abdurrazzaq], telah mengabarkan kepada Kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] bahwa ia telah diberi kabar mengenai perkataan Aisyah radliallahu 'anha; sesungguhnya Hajar Aswad sebagiannya merupakan bagian dari Ka'bah. Kemudian Ibnu Umar berkata; demi Allah sungguh aku mengira apabila Aisyah mendengar hal ini dari Rasulullah shallAllahu wa'alaihi wa sallam sesungguhnya aku yakin Rasulullah shallAllahu wa'alaihi wa sallam tidak meninggalkan untuk mengusap keduanya, hanya saja keduanya tidak berada di atas pondasi Ka'bah, dan orang-orang tidak akan berthawaf di belakang hajar kecuali karena hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1875</td></tr><tr><td>Arabic No</td><td>1875</td></tr><tr><td>Reference</td><td>Book 11 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Когда [‘Абдуллах] ибн ‘Умар, да будет доволен Аллах им и его отцом, узнал о том, что ‘Аиша считает часть Хиджра частью Каабы, он сказал: «Думаю, ‘Аиша слышала это от Посланника Аллаха ﷺ и думаю, что Посланник Аллаха ﷺ не прикасался к ним как раз потому, что они не стояли на фундаменте Каабы, и поэтому люди, совершая обход, проходят позади Хиджра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1875</td></tr><tr><td>Arabic No</td><td>1875</td></tr><tr><td>Reference</td><td>Book 11 Hadith 155</td></tr></tbody></table></div>
 

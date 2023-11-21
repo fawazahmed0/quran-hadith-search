@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that when 'Umar b. Khattab was wounded Hafsa lamented for him. Upo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru An Naqid] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa ketika [Umar] ditikam, maka Hafshah pun menangisinya dengan suara yang keras, maka seketika itu Umar berkata, "Wahai Hafshah, tidakkah kamu mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Orang yang ditangisi, akan disiksa.'" Kemudian Shuhaib pun ikut menangis dengan mengangkat suara, maka Umar berkata, "Wahai Shuhaib, tidakkah kamu tahu bahwa orang yang ditangisi akan diadzab?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2148</td></tr><tr><td>Arabic No</td><td>927.07</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас рассказывал, что, когда ‘Умар ибн аль-Хаттаб был ранен, Хафса стала (плакать и) кричать над ним, но ‘Умар сказал ей: «О Хафса! Разве ты не слышала, как Посланник Аллаха ﷺ говорил: “Тот, над кем кричат (и плачут), будет подвергнут наказанию”?!» После этого над ним стал (плакать и) кричать Сухайб, и ‘Умар сказал: «О Сухайб! Разве ты не знал, что тот, над кем кричат (и плачут), будет подвергнут наказанию?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2148</td></tr><tr><td>Arabic No</td><td>927.07</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: The Prophet (ﷺ) said: Allah, the Most High, continues to tu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; saya mendengar [Abu Al Ahwash] telah menceritakan kepada kami ketika di Majlis Ibnu Al Musayyab, dia berkata; [Abu Dzar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Azza wa Jalla senantiasa menghadap kepada seorang hamba dalam shalatnya selama dia tidak menoleh, apabila ia menoleh, maka Allah pun berpaling darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 2 Hadith 520</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Зарра, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Всемогущий и Великий Аллах обращён к Своему молящемуся рабу до тех пор, пока тот не посмотрит в сторону, и тогда Он покидает его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 2 Hadith 520</td></tr></tbody></table></div>
 

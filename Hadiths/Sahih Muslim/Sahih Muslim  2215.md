@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] dan [Abu Kamil Fudlail bin Husain Al Jahdari] -dan lafazhnya milik Abu Kamil- keduanya berkata, telah menceritakan kepada kami [Hammad, yaitu anaknya Zaid] dari [Tsabit Al Bunani] dari [Abu Rafi'] dari [Abu Hurairah] bahwa seorang wanita berkulit hitam atau seorang pemuda biasanya menyapu Masjid. Suatu ketika Rasulullah shallallahu 'alaihi wasallam kehilangan orang itu, sehingga beliau pun menanyakannya. Para sahabat menjawab, "Orang itu telah meninggal." Beliau bersabda: "Kenapa kalian tidak memberitahukan kepadaku?" Sepertinya mereka menganggap remeh urusan kematiannya. Beliau pun bersabda: "Tunjukkanlah kepadaku di mana letak kuburannya." Maka para sahabat pun menunjukkan kuburannya, dan akhirnya beliau menshalatkannya. Ssetelah itu, beliau bersabda: "Sesungguhnya kuburan-kuburan ini telah dipenuhi kegelapan bagi penghuninya. Dan Allah benar-benar akan memberikan mereka cahaya karena shalat aku kerjakan atas mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2215</td></tr><tr><td>Arabic No</td><td>956</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что в свое время одна чернокожая женщина (или: один мужчина), подметала полы в мечети, и однажды Посланник Аллаха ﷺ потерял её (или: его) из виду, а когда он спросил о ней (или: о нём), ему сказали: «Он умер». Услышав об этом, он воскликнул: «И вы не сообщили мне о ней (или: о нём)?» и получилось так, будто они сочли то, что её (или: его) касалось, чем-то незначительным. А потом он сказал: «Покажите мне её (или: его) могилу!» И его привели к этой могиле, над которой он совершил заупокойную молитву /джаназа/, после чего сказал: «Поистине, эти могилы погружены во мрак, окутывающий тех, кто в них находится, и, поистине, Всевышний Аллах озарит их для них посредством моей молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2215</td></tr><tr><td>Arabic No</td><td>956</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
 

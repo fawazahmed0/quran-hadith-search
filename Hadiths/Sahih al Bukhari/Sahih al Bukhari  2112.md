@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "Both the buyer and the seller 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari Rasulullah shallallahu 'alaihi wasallam bahwa Beliau bersabda: "Jika dua orang melakukan jual beli maka masing-masingnya punya hak khiyar (pilihan) atas jual belinya selama keduanya belum berpisah. Jika keduanya sepakat atau salah satu dari keduanya memilih lalu dilakukan transaksi maka berarti jual beli telah terjadi dengan sah, dan seandainya keduanya berpisah setelah transaksi sedangkan salah seorang dari keduanya tidak membatalkan transaksi maka jual beli sudah sah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2112</td></tr><tr><td>Arabic No</td><td>2112</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Когда два человека заключают сделку, то каждый из них имеет право выбора завершить или отменить сделку, пока они находятся вместе до того, как они расстанутся, или один из них не даст другому возможность выбора и они оба согласятся на это (условие). В этом случае сделка будет считаться заключённой. Если же после заключения сделки они расстанутся, и никто из них не откажется от неё, то сделка будет считаться заключённой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2112</td></tr><tr><td>Arabic No</td><td>2112</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
 

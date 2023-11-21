@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by al-Zuhri through a di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Ibrahim Abu Ma'mar], telah menceritakan kepada kami [Abdullah bin Al Mubarak], dari [Yunus] dari [Az Zuhri] dari [Abu Salamah] dari [Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak boleh ada nadzar dalam bermaksiat, dan kafarahnya adalah kafarah sumpah." Telah menceritakan kepada kami [Ibnu As Sarah], ia berkata; telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] dengan makna dan sanadnya. Abu Daud berkata; aku mendengar Ahmad berkata; Ibnu Al Mubarak telah mengabarkan kepadaku dalam hadits ini; Abu Salamah telah menceritakan ……… Hal tersebut menunjukkan bahwa Az Zuhri tidak menengarnya dari Abu Salamah. Ahmad bin Muhammad berkata; dan yang membenarkan hal tersebut adalah apa yang telah diceritakan Ayyub bin Sulaiman. Abu Daud berkata; aku telah mendengar Ahmad bin Hanbal berkata; mereka telah merusak hadits ini terhadap kami. Dikatakan kepadanya; perusakan itu benar menurutmu, apakah ada yang meriwayatkannya selain Ibnu Abu Uwais? Ia berkata; Ayyub, ia paling mirip dengannya. Yaitu Ayyub bin Sulaiman bin Bilal, dan hadits tersebut telah diriwayatkan oleh Ayyub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3291</td></tr><tr><td>Arabic No</td><td>3291</td></tr><tr><td>Reference</td><td>Book 22 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии ‘Икримы говорится, что сестра ‘Укбы ибн ‘Амира… В этой версии говорится: «Вели своей сестре ехать верхом». В этой версии не упомянут жертвенный скот
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3291</td></tr><tr><td>Arabic No</td><td>3291</td></tr><tr><td>Reference</td><td>Book 22 Hadith 50</td></tr></tbody></table></div>
 

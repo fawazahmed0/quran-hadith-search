@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:Allah's Messenger (ﷺ) made a small room in the month 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami ['Abdul A'la bin Hammad] berkata, telah menceritakan kepada kami [Wuhaib] berkata, telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Salim Abu An Nadlr] dari [Busr bin Sa'id] dari [Zaid bin Tsabit], bahwa Rasulullah shallallahu 'alaihi wasallam membuat satu ruangan." Busr berkata, "Aku menduga Zaid bin Tsabit berkata, 'Membuat tikar pada bulan Ramadan, lalu beliau melaksakan shalat malam di (kamar atau tikar) tersebut dalam beberapa malam. Kemudian para sahabat mengikuti shalat beliau. Ketika mengetahui apa yang mereka lakukan beliau pun berdiam di rumah, setelah itu beliau keluar seraya berkata kepada mereka: "Sungguh aku telah mengetahui sebagaimana aku lihat apa yang kalian lakukan. Wahai manusia, shalatlah kalian di rumah-rumah kalian, sesungguhnya shalat yang paling utama adalah shalatnya seseorang yang dilakukannya di rumahnya, kecuali shalat fardlu." ['Affan] berkata, telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Musa] aku mendengar [Abu An Nadlr] dari [Busr] dari [Zaid] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>731</td></tr><tr><td>Arabic No</td><td>731</td></tr><tr><td>Reference</td><td>Book 10 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зейда ибн Сабита, да будет доволен им Аллах, что (однажды) во время рамадана Посланник Аллаха ﷺ устроил для себя (нечто вроде отдельной) комнаты и стал молиться там ночами, а люди из числа его сподвижников молились, следуя его примеру. Узнав об этом, он стал оставаться (дома), а потом вышел к ним и сказал: «Я видел то, что вы делали, и понял это. О люди, молитесь в своих домах, ибо, поистине, если не считать обязательных намазов, наилучшим намазом является тот, который человек совершает у себя дома!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>731</td></tr><tr><td>Arabic No</td><td>731</td></tr><tr><td>Reference</td><td>Book 10 Hadith 125</td></tr></tbody></table></div>
 

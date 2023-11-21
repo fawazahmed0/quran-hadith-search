@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Aiyub:A man said to the Prophet (ﷺ) "Tell me of such a deed as wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin 'Utsman bin 'Abdullah bin Mawhab] dari [Musa bin Thalhah] dari [Abu Ayyub radliallahu 'anhu]; Bahwa ada seseorang laki-laki berkata, kepada Nabi Shallallahu'alaihiwasallam: "Kabarkan kepadaku suatu amal yang akan memasukkan aku kedalam surga". Dia berkata,: "Apakah itu, apakah itu?. Dan Nabi Shallallahu'alaihiwasallam bersabda: "Dia membutuhkannya. Yaitu kamu menyembah Allah dengan tidak menyekutukanNya dengan suatu apapun, kamu mendirikan shalat, kamu tunaikan zakat, kamu sambung hubungan kerabat (shilaturrahim) ". Dan berkata, [Bahz] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muhammad bin 'Utsman] dan bapaknya ['Utsman bin 'Abdullah] bahwa keduanya mendengar [Musa bin Thalhah] dari [Abu Ayyub] dari Nabi Shallallahu'alaihiwasallam dengan lafadz seperti ini. Berkata, Abu 'Abdullah Al Bukhariy: "Aku ragu bahwa Muhammad bin 'Utsman yang menghafalnya dari (Syu'bah) akan tetapi yang benar adalah 'Amru bin 'Utsman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1396</td></tr><tr><td>Arabic No</td><td>1396</td></tr><tr><td>Reference</td><td>Book 24 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Аййюба, да будет доволен им Аллах, о том, что (как-то раз) один человек попросил Пророка ﷺ:«Назови мне такое дело, которое поможет мне попасть в рай». (Люди) стали говорить: «Что с ним, что с ним?» — а Пророк ﷺ сказал: «Он хочет (узнать о том, что ему необходимо)! Поклоняйся Аллаху и ничему более, совершай молитву, выплачивай закят и поддерживай родственные связи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1396</td></tr><tr><td>Arabic No</td><td>1396</td></tr><tr><td>Reference</td><td>Book 24 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al Bara:The Prophet (ﷺ) said to Hassan, "Lampoon them (i.e. the pagan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'bah] dari ['Adiy binTsabit] dari [Al Bara' radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam berkata kepada Hassan: "Cacilah mereka, atau dengan redaksi Lipatgandakanlah cacianmu (untuk melawan orang musyrik), karena jibril selalu bersamamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3213</td></tr><tr><td>Arabic No</td><td>3213</td></tr><tr><td>Reference</td><td>Book 59 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Бара ибн ‘Азиба, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал Хассану (ибн Сабиту), да будет доволен им Аллах: «Подвергни их осмеянию и поношению (или: ответь им тем же), а Джибриль (будет) с тобой!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3213</td></tr><tr><td>Arabic No</td><td>3213</td></tr><tr><td>Reference</td><td>Book 59 Hadith 24</td></tr></tbody></table></div>
 

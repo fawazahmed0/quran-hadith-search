@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Apostle (ﷺ) went out one norning wearing a stripe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdillah bin Numair] dan lafazh ini milik Abu Bakr keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Zakaria] dari [Mush'ab bin Syaibah] dari [Shafiyyah binti Syaibah] dia berkata; ['Aisyah] berkata; "Pada suatu pagi, Rasulullah shallallahu 'alaihi wasallam keluar dari rumahnya dengan mengenakan kain bulu hitam yang berhias. Tak lama kemudian, datanglah Hasan bin Ali. Lalu Rasulullah menyuruhnya masuk ke dalam rumah. Kemudian datanglah Husain dan beliau pun masuk bersamanya ke dalam rumah. Setelah itu datanglah Fatimah dan beliau pun menyuruhnya masuk ke dalam rumah. Akhirnya, datanglah Ali dan beliau pun menyuruhnya masuk ke dalam rumah. Lalu beliau membaca ayat Al Qur'an yang berbunyi: "Sesungguhnya Allah bermaksud hendak menghilangkan dosa darimu hai ahlul bait dan membersihkanmu sebersih-bersihnya." (Al Ah zaab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6261</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 44 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6261</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 44 Hadith 91</td></tr></tbody></table></div>
 

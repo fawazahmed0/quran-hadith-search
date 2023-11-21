@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah (bin Mas'ud):Allah's Messenger (ﷺ) said (to me), "Recite th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Sulaiman] dari [Ibrahim] dari [Abidah] dari [Abdullah] - [Yahya] berkata, sebagian hadits dari [Amru bin Murrah] - ia berkata; Nabi shallallahu 'alaihi wasallam bersabda padaku.. Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Abidah] dari [Abdullah] - [Al A'masy] berkata; dan sebagian hadits- Telah menceritakan kepadaku [Amru bin Murrah] dari [Ibrahim] dari [bapaknya] dari [Abu Dluhaa] dari [Abdulalh] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bacakanlah Al Qur'an padaku." Aku pun berkata, "Aku membacakannya untuk Anda, padahal kepada Andalah ia diturunkan?" beliau bersabda: "Sesungguhnya aku suka mendengarnya dari orang lain." Akhirnya aku pun membacakan surat An-Nisa' dan ketika sampai pada ayat: "Dan bagaimanakah sekiranya Kami mendatangkan manusia dari seluruh umat dengan seorang saksi, lalu kami mendatangkanmu sebagai saksi atas mereka." Maka beliau pun bersabda padaku: "Cukuplah." Lalu aku pun melihat kedua mata beliau meneteskan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5055</td></tr><tr><td>Arabic No</td><td>5055</td></tr><tr><td>Reference</td><td>Book 66 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах рассказал: «(Однажды) Посланник Аллаха ﷺ велел мне: “Почитай мне (Коран)”. Я сказал: “Как же я буду читать его тебе, когда тебе он был ниспослан?!” — (однако Пророк ﷺ) сказал: “Поистине, я желаю послушать (, как его читают) другие”. И я стал читать ему суру “ан-Ниса”, а когда дошёл до (того аята, в котором говорится): “А как же, когда приведём мы от каждой общины свидетеля и приведём тебя как свидетеля против них?!” (сура “ан-Ниса”, аят 41) — он сказал: “Хватит или: достаточно”, (и тут я увидел, что) из глаз (Пророка ﷺ) текут слёзы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5055</td></tr><tr><td>Arabic No</td><td>5055</td></tr><tr><td>Reference</td><td>Book 66 Hadith 80</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever the Prophet (ﷺ) come to me after the 'Asr prayer, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] berkata, Aku melihat [Al Aswad] dan [Masruq] bersaksi atas ['Aisyah] ia berkata, "Tidaklah Nabi shallallahu 'alaihi wasallam mendatangiku dalam suatu hari setelah 'Ashar kecuali beliau shalat dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>593</td></tr><tr><td>Arabic No</td><td>593</td></tr><tr><td>Reference</td><td>Book 9 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Исхакъ сказал: «Я видел, как аль-Асвад и Масрукъ свидетельствовали о том, что ‘Аиша, да будет доволен ею Аллах, сказала: “Когда Пророк ﷺ приходил ко мне днём после послеполуденной молитвы, он всегда совершал молитву в два рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>593</td></tr><tr><td>Arabic No</td><td>593</td></tr><tr><td>Reference</td><td>Book 9 Hadith 68</td></tr></tbody></table></div>
 

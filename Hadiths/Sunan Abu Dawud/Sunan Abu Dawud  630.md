@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sahl b. Sa’d said:I saw the people tying their wrappers over their necks like 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al-Anbari] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Hazim] dari [Sahl bin Sa'd] dia berkata; Sungguh saya melihat kaum lelaki yang mengikat kain selimutnya di leher mereka karena sempit sedang mengerjakan shalat di belakang Rasulullah shallallahu 'alaihi wasallam seperti anak kecil. Lalu ada seseorang berkata; Wahai kaum wanita, janganlah kalian mengangkat kepala sehingga kaum pria (terlebih dahulu) mengangkat kepala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (362) Sahih Muslim (441)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>630</td></tr><tr><td>Arabic No</td><td>630</td></tr><tr><td>Reference</td><td>Book 2 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Я видел мужчин, которые находились позади Посланника Аллаха ﷺ во время молитвы, словно мальчишки, подвязывавших свои изары на своих шеях из-за того, что их изары были тесными, и (поэтому) некто сказал: “О женщины! Не поднимайте свои головы, пока мужчины не поднимут свои!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (362) Sahih Muslim (441)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>630</td></tr><tr><td>Arabic No</td><td>630</td></tr><tr><td>Reference</td><td>Book 2 Hadith 240</td></tr></tbody></table></div>
 

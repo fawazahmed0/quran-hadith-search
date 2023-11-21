@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:I witnessed the Prophet (ﷺ) when he was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Yahya bin Sa'id] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ibnu Juraij] telah menceritakan kepada saya [Az Zuhriy] dari ['Isa bin Tholhah] bahwa ['Abdullah bin 'Amru bin Al 'Ash] radliallahu 'anhu menceritakan kepadanya bahwa ketika Nabi shallallahu 'alaihi wasallam sedang menampaikan khathbah pada hari Nahar, datang seorang laki-laki berdiri di hadapan Beliau lalu berkata: "Aku mengira amal ini sebelum ini". Kemudian datang orang lain dan berkata: "Aku mengira amal ini sebelum ini, yaitu aku mencukur rambut sebelum aku menyembelih hewan qurban, dan aku menyembelih qurban sebelum aku melempar jumrah dan hal hal serupa itu". Maka Nabi shallallahu 'alaihi wasallam berkata: "Lakukanlah dan tidak dosa", kepada mereka semua. Dan tidaklah Beliau ditanya pada hari itu tentang sesuatu melainkan Beliau selalu menjawab: "Lakukanlah dan tidak dosa". Telah menceritakan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] telah menceritakan kepada saya ['Isa bin Tholhah bin 'Ubaidullah] bahwa dia mendengar ['Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhuma] berkata: "Rasulullah shallallahu 'alaihi wasallam berhenti diatas unta Beliau" Lalu dia menceritakan hadits ini. Ini dikuatkan pula oleh [Ma'mar] dari [Az Zuhriy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1737</td></tr><tr><td>Arabic No</td><td>1737</td></tr><tr><td>Reference</td><td>Book 25 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом, рассказывал, что он видел, как Пророк ﷺ рассказывал проповедь в День жертвоприношения, и один человек подошёл к нему и сказал: «Я думал, что то-то совершается прежде, чем то-то…» Затем подошёл другой и сказал: «Я думал, что то-то совершается прежде, чем то-то, я обрил голову прежде, чем совершить жертвоприношение, я совершил жертвоприношение до того, как бросить камешки…», — и тому подобное. Тогда Пророк ﷺ сказал: «Делай так, ничего страшного», — и так на все вопросы. И о чём бы ни спросили его в тот день, он отвечал: «Делай так, ничего страшного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1737</td></tr><tr><td>Arabic No</td><td>1737</td></tr><tr><td>Reference</td><td>Book 25 Hadith 215</td></tr></tbody></table></div>
 

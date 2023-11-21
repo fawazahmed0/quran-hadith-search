@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Messenger (ﷺ) observed the circumambulation of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam berangkat pada hari Nahr, kemudian beliau kembali dan shalat di Mina. Nafi' berkata; Maka Ibnu Umar juga berangkat di hari Nahr (sepuluh Dzulhijjah), kemudian ia kembali dan menunaikan shalat Zhuhur di Mina. Sesudah itu, ia menuturkan bahwa Nabi shallallahu 'alaihi wasallam telah berbuat demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3165</td></tr><tr><td>Arabic No</td><td>1308</td></tr><tr><td>Reference</td><td>Book 15 Hadith 369</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3165</td></tr><tr><td>Arabic No</td><td>1308</td></tr><tr><td>Reference</td><td>Book 15 Hadith 369</td></tr></tbody></table></div>
 

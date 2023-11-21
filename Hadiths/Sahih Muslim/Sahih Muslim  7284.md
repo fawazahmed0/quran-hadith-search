@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' b. Utba reported:We were with Allah's Messenger (ﷺ) in an expedition tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Abdulmalik bin Umair] dari [Jabir bin Samurah] dari [Nafi' bin Utbah] berkata: Kami bersama Rasulullah Shallallahu 'alaihi wa Salam dalam suatu peperangan. Ia berkata: Suatu kaum mendatangi nabi Shallallahu 'alaihi wa Salam dari maghrib, mereka mengenakan baju wool, mereka menemui beliau didekat suatu bukit. Mereka berdiri sementara Rasulullah Shallallahu 'alaihi wa Salam duduk. Ia (Nafi') berkata: Hatiku berkata: Datangilah mereka dan berdirilah diantara mereka dan Rasulullah Shallallahu 'alaihi wa Salam agar mereka tidak menyerang beliau lalu aku berkata: Mungkin beliau berbicara lirih dengan mereka. Aku mendatangi mereka lalu aku berdiri diantara mereka dan beliau. Aku menghafal empat kalimat dari beliau, aku menghitungnya dengan tanganku. Beliau bersabda: "Kalian akan memerangi jazirah arab lalu Allah menaklukkannya, setelah itu Persia lalu Allah menaklukkannya, kemudian kalian memerangi Romawi lalu Allah menaklukkannya, selanjutnya kalian memerangi Dajjal lalu Allah menaklukkannya." Kemudian Nafi' berkata: Hai Jabir, kami tidak berpendapat Dajjal muncul hingga Romawi ditaklukkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7284</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 54 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7284</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 54 Hadith 50</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The people will fall down unconsci
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman], telah memberitakan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dihari kiamat Allah menggenggam bumi dan melipat langit dengan tangan kanan-Nya seraya mengatakan; 'Akulah Sang Raja, mana yang mendakwakan diri raja-raja bumi?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6518</td></tr><tr><td>Arabic No</td><td>6518</td></tr><tr><td>Reference</td><td>Book 81 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Когда люди будут поражены, то я буду первым кто очнётся, и я увижу Мусу, держащегося за Трон. И я не знаю, был ли он среди тех, кто был поражён».\nЭтот хадис передал Абу Са‘ид от Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6518</td></tr><tr><td>Arabic No</td><td>6518</td></tr><tr><td>Reference</td><td>Book 81 Hadith 107</td></tr></tbody></table></div>
 

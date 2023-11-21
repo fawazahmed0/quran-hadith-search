@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundub:The Prophet (ﷺ) said, "He who lets the people hear of his good
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Salamah bin Kuhail]. lewat jalur periwayatan lain, telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Salamah] mengatakan; aku mendengar [Jundab] menuturkan, Nabi shallallahu 'alaihi wasallam bersabda, -dan aku tak mendengar seorang pun (selainnya) mengatakan dengan redaksi 'Nabi shallallahu 'alaihi wasallam bersabda, maka aku dekati dia, dan kudengar dia menuturkan, Nabi shallallahu 'alaihi wasallam bersabda; - "Barangsiapa yang beramal karena sum'ah, Allah akan menjadikannya dikenal sum'ah, sebaliknya barangsiapa yang beramal karena riya', Allah akan menjadikannya dikenal riya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6499</td></tr><tr><td>Arabic No</td><td>6499</td></tr><tr><td>Reference</td><td>Book 81 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма сказал:\n— Я слышал, как Джундаб говорил: \n— Пророк ﷺ сказал. И я не слышал ни одного, кто говорил бы: «Пророк ﷺ сказал», кроме него. Когда я приблизился к нему, я услышал, как он говорил: «Пророк ﷺ сказал: “Аллах обесславит того, кто будет рассказывать, и выставит напоказ того, кто будет делать что-либо напоказ другим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6499</td></tr><tr><td>Arabic No</td><td>6499</td></tr><tr><td>Reference</td><td>Book 81 Hadith 88</td></tr></tbody></table></div>
 

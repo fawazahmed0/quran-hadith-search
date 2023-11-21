@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:The Prophet (ﷺ) said to me during Hajjat-al-Wida': Let the peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepadaku ['Ali bin Mudrik] dari [Abu Zur'ah bin 'Amru] dari [Jarir], bahwa Nabi shallallahu 'alaihi wasallam bersabda kepadanya saat beliau diminta untuk memberi nasihat kepada orang-orang waktu haji wada' "Janganlah kalian kembali menjadi kafir, sehingga kalian saling membunuh satu sama lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>121</td></tr><tr><td>Arabic No</td><td>121</td></tr><tr><td>Reference</td><td>Book 3 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джарира (ибн ‘Абдуллах), да будет доволен им Аллах, что во время прощального паломничества Пророк ﷺ велел ему: «Скажи людям, чтобы они молчали и слушали!», – после чего он сказал: «Не становитесь после меня неверными, которые рубят друг другу головы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>121</td></tr><tr><td>Arabic No</td><td>121</td></tr><tr><td>Reference</td><td>Book 3 Hadith 63</td></tr></tbody></table></div>
 

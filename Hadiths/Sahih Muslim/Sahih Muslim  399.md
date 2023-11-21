@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Dharr (que Dieu l'agrée), Le Prophète (paix et bénédiction de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Ishaq bin Ibrahim] semuanya dari [Ibnu Ulayyah], [Ibnu Ayyub] berkata, telah menceritakan kepada kami [Ibnu Ulayyah] telah menceritakan kepada kami [Yunus] dari [Ibrahim bin Yazid at-Tamimi] dia mendengarnya pada sesuatu yang paling diketahui dari [bapaknya] dari [Abu Dzar] bahwa Nabi shallallahu 'alaihi wasallam bersabda suatu hari: "Apakah kalian tahu, ke mana matahari ini pergi?" Mereka menjawab, "Allah dan Rasul-Nya lebih tahu." Beliau bersabda: "Sesungguhnya ini lari beredar hingga berhenti pada tempatnya di bawah Arsy lalu menyungkur sujud, ia tetap demikian hingga dikatakan kepadanya, 'Kamu naiklah dan kembalilah pada tempat dari mana kamu datang.' Lalu ia kembali sehingga menjadi terbit dari tempat terbitnya, kemudian lari beredar di mana ia membuat manusia tidak mengingkarinya sedikit pun hingga ia berhenti pada tempat beredarnya yaitu di bawah Arsy, lalu dikatakan kepadanya, 'Naiklah dan terbitlah pagi hari dari barat'. Lalu ia terbit dari barat." Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Apakah kalian tahu, kapankah itu terjadi, itu terjadi ketika iman seseorang tidak berguna bagi dirinya selama dia tidak beriman sebelumnya, atau berbuat baik dalam imannya'." Dan telah menceritakan kepada kami [Abd al-Hamid bin Bayan al-Wasithi] telah mengabarkan kepada kami [Khalid] -yaitu Ibnu Abdullah- dari [Yunus] dari [Ibrahim at-Taimi] dari [bapaknya] dari [Abu Dzar] bahwa suatu hari Nabi shallallahu 'alaihi wasallam bersabda: "Apakah kalian tahu ke mana matahari ini pergi'....sebagaimana makna hadits Ibnu Ulayyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>399</td></tr><tr><td>Arabic No</td><td>159.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Зарра, что однажды Пророк ﷺ спросил: «Знаете ли вы, куда уходит это солнце?» (Люди) сказали: «Аллах и посланник Его знают (об этом) лучше». (Тогда Посланник Аллаха ﷺ) сказал: «Поистине, оно (движется), пока не достигает места своего пребывания под престолом (Аллаха, где) падает ниц и остаётся в подобном (положении), пока ему не говорят: “Поднимайся и возвращайся (туда, откуда) ты пришло”, (после чего) оно возвращается и утром восходит оттуда, откуда восходит (всегда). Потом оно (снова движется), пока не достигает места своего пребывания под престолом (Аллаха, где) падает ниц и остаётся в подобном (положении), пока ему не говорят: “Поднимайся и возвращайся (туда, откуда) ты пришло” (после чего) оно возвращается и утром восходит оттуда, откуда восходит (всегда). Потом оно (снова движется), люди же не (видят в его поведении никаких изменений, и так продолжа­ется), пока оно (снова) не достигает места своего пребывания под престолом (Аллаха. Но когда-нибудь) ему будет сказано: “Утром взойди оттуда, где ты заходишь”, и утром оно взойдёт оттуда, где заходит».(После этого) Посланник Аллаха ﷺ спросил: «Знаете ли вы, когда (это случится? Это случится) тогда, когда “не принесёт человеку пользы вера его, если не уверует он раньше и не обретёт блага в вере своей” (сура “аль-Ан‘ам”, аят 158)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>399</td></tr><tr><td>Arabic No</td><td>159.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 304</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When the Prophet (ﷺ) finished two rak'ahs of an obligato
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Asad] telah mengabarkan kepada kami [Syababah] telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam beranjak pergi setelah selesai dari dua raka'at shalat wajib, maka seorang laki-laki bertanya kepada beliau; "Apakah shalat telah di qashar wahai Rasulullah ataukah anda lupa?" beliau menjawab; "Semua itu tidak aku lakukan." Maka orang-orang berkata; "Anda telah melakukan hal itu wahai Rasulullah!." Kemudian beliau mengerjakan dua raka'at yang tertinggal, lalu beliau beranjak pergi tanpa mengerjakan sujud sahwi dua kali." Abu Daud mengatakan; "Hadits ini di riwayatkan pula oleh [Daud bin Al Hushain] dari [Abu Sufyan bekas budak Ibnnu Abu Ahmad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan kisah seperti ini, katanya; "kemudian beliau sujud dua kali dan duduk setelah memberi salam." Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Hasyim bin Al Qasim] telah menceritakan kepada kami [Ikrimah bin 'Ammar] dari [Dlamdlam bin Jaus Al Hiffani] telah menceritakan kepadaku [Abu Hurairah] dengan hadits seperti ini, katanya; "Kemudian beliau sujud sahwi setelah memberi salam." Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit] telah menceritakan kepada kami [Abu Usamah], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah mengabarkan kepada kami [Abu Usamah] telah mengabarkan kepadaku ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata; "Rasulullah shallallahu 'alaihi wasallam shalat bersama kami, kemudian beliau salam di raka'at kedua…" kemudian ia menyebutkan seperti hadits Ibnu Sirin dari Abu Hurairah dia berkata; "Kemudian beliau salam lalu sujud sahwi dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Shadh</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1015</td></tr><tr><td>Arabic No</td><td>1015</td></tr><tr><td>Reference</td><td>Book 2 Hadith 626</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ однажды совершил всего два рак‘ата обязательной молитвы и один человек спросил: «О Посланник Аллаха, молитва была сокращена или ты забыл?» (Посланник Аллаха ﷺ) сказал: «Я ничего из этого не делал». Люди возразили: «Нет, ты это сделал, о Посланник Аллаха». Тогда он совершил ещё два рак‘ата, после чего ушёл, не совершив двух земных поклонов во искупление своей оплошности
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Shadh</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1015</td></tr><tr><td>Arabic No</td><td>1015</td></tr><tr><td>Reference</td><td>Book 2 Hadith 626</td></tr></tbody></table></div>
 

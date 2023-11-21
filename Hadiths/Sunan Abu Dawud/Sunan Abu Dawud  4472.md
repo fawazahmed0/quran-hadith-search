@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Umamah b. Sahl Hunaif: AbuUmamah ibn Sahl ibn Hunayf said that some
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata; telah mengabarkan kepadaku [Abu Umamah bin Sahl bin Hanif] Bahwasanya [sebagian sahabat] Rasulullah shallallahu 'alaihi wasallam dari kalangan Anshar pernah mengabarkan kepadanya, bahwa ada seorang laki-laki Anshar terserang penyakit hingga tubuhnya hanya kulit dan tulang saja. Kemudian budak wanita salah seorang dari mereka masuk menemuinya, hingga ia berhasrat kepada budak itu dan mensetubuhinya. Maka, ketika para sahabatnya datang menjenguk, hal itu ia kabarkan kepada mereka. Ia berkata, "Mintakanlah aku fatwa kepada Rasulullah shallallahu 'alaihi wasallam; aku telah mensetubuhi budak wanita yang masuk menemuiku." Lalu mereka menceritakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, mereka berkata, "Kami tidak pernah melihat seorang pun dari manusia yang mengalami sakit separah itu, jika kami membawanya kehadapanmu maka tulangnya akan berserakan. Sungguh, ia kini tinggal kulit pembungkus tulang!" Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan mereka untuk mengambil seratus biji adas, agar mereka melemparkannya kepada laki-laki tersebut dengan sekali lemparan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4472</td></tr><tr><td>Arabic No</td><td>4472</td></tr><tr><td>Reference</td><td>Book 40 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умамы ибн Сахля ибн Хунайфа, что один из сподвижников Посланника Аллаха ﷺ из числа ансаров рассказал ему, что один человек из их числа заболел и исхудал так, что стал напоминать скелет, обтянутый кожей. А потом к нему зашла чья-то рабыня и он обрадовался ей так, что совершил с ней прелюбодеяние. Позже, когда его соплеменники пришли навестить его, он рассказал им обо всём, сказав: «Спросите Посланника Аллаха ﷺ что мне теперь делать, ибо я совершил прелюбодеяние с рабыней, которая зашла ко мне». Они рассказали обо всём Посланнику Аллаха ﷺ и сказали: «Мы никогда не видели человека, который бы так тяжело болел. Если бы мы принесли его к тебе, его кости просто рассыпались бы! Он представляет собой кожу да кости!» Тогда Посланник Аллаха ﷺ велел взять сто прутов и ударить его ими всеми один раз
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4472</td></tr><tr><td>Arabic No</td><td>4472</td></tr><tr><td>Reference</td><td>Book 40 Hadith 122</td></tr></tbody></table></div>
 

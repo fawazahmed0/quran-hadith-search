@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That she borrowed a necklace from Asma' and it was lost. Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ubaid bin Isma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa dia meminjam kepada Asma' sebuah kalung lalu kalung itu rusak. Maka Rasulullah perintahkan orang-orang dari para shahabat beliau untuk mencarinya. Kemudian waktu shalat tiba dan akhirnya mereka shalat tanpa berwudlu'. Ketika mendatangi Nabi shallallahu 'alaihi wasallam mereka mengadukan kejadian tersebut. Maka kemudian turunlah ayat tentang perintah bertayamum. Lalu Usaid bin Hudlair berkata; "Semoga Alah memberi balasan kebaikan kepada anda ('Aisyah). Demi Allah, tidalah datang problem kepada anda melainkan Allah memberikan jalan keluarnya dan menjadikan hal itu sebagai barakah buat kaum muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3773</td></tr><tr><td>Arabic No</td><td>3773</td></tr><tr><td>Reference</td><td>Book 62 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) она одолжила у Асмы ожерелье, которое (через некоторое время) потерялось. Посланник Аллаха ﷺ послал (несколько) своих сподвижников на его поиски, в ходе которых их застало время молитвы, и им пришлось совершить молитву без омовения. Вернувшись к Пророку ﷺ, они пожаловались ему на это, после чего был ниспослан аят о (допустимости) очищения песком, и (тогда) Усайд ибн Худайр сказал (‘Аише): «Да воздаст тебе Аллах благом! Клянусь Аллахом, когда бы ни попадала ты в (трудное положение), Аллах всегда не только указывал тебе выход из него, но и делал это благословенным для (всех) мусульман!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3773</td></tr><tr><td>Arabic No</td><td>3773</td></tr><tr><td>Reference</td><td>Book 62 Hadith 118</td></tr></tbody></table></div>
 

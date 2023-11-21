@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'And (b. al-'As) said:The Messenger of Allah (ﷺ) said to me: The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], serta [Muhammad bin Isa], dan [Musaddad], pengabaran ada dalam hadits Ahmad, mereka berkata; telah menceritakan kepada kami [Sufyan], ia berkata; saya mendengar ['Amr] berkata; telah mengabarkan kepadaku ['Amr bin Aus], ia mendengarnya dari [Abdullah bin 'Amr], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Puasa yang paling Allah ta'ala senangi adalah puasa Daud, dan shalat yang Allah ta'ala senangi adalah shalat Daud, ia tidur setengahnya dan melakukan shalat sepertiganya, dan tidur seperenamnya, dan beliau berbuka satu hari dan berpuasa satu hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1131) Sahih Muslim (1159)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2448</td></tr><tr><td>Arabic No</td><td>2448</td></tr><tr><td>Reference</td><td>Book 14 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ сказал мне: “Самым любимым постом для Аллаха был пост пророка Дауда, а самой любимой молитвой молитва Дауда. Он спал половину ночи и молился треть её, а потом спал шестую часть ночи. А постился он через день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1131) Sahih Muslim (1159)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2448</td></tr><tr><td>Arabic No</td><td>2448</td></tr><tr><td>Reference</td><td>Book 14 Hadith 136</td></tr></tbody></table></div>
 

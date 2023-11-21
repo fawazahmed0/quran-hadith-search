@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We used to travel with the Prophet (ﷺ) and neither did
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Humaid Ath-Thowil] dari [Anas bin Malik] berkata; "Kami pernah bepergian bersama Nabi shallallahu 'alaihi wasallam, yang berpuasa tidak mencela yang berbuka dan yang berbuka juga tidak mencela yang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1947</td></tr><tr><td>Arabic No</td><td>1947</td></tr><tr><td>Reference</td><td>Book 30 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Мы часто находились в пути вместе с Пророком ﷺ и постившийся не порицал несоблюдавшего пост, а несоблюдавший пост — постившегося»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1947</td></tr><tr><td>Arabic No</td><td>1947</td></tr><tr><td>Reference</td><td>Book 30 Hadith 54</td></tr></tbody></table></div>
 

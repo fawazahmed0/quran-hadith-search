@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that the Muslims neither looked to Abu Sufyan (with respect) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abbas bin Abdul Adhim Al Anbari] dan [Ahmad bin Ja'far Al Ma'qiri] keduanya berkata; Telah menceritakan kepada kami [An Nadhr] yaitu Ibnu Muhammad Al Yamami Telah menceritakan kepada kami [Ikrimah] Telah menceritakan kepada kami [Abu Zumail] Telah menceritakan kepadaku [Ibnu Abbas] dia berkata; 'Dulu kaum muslimin tidak menghargai dan tidak memberikan kedudukan yang layak bagi Abu Sufyan. Oleh karena itu, pada suatu hari ia (Abu Sufyan) berkata kepada Rasulullah shallallahu 'alaihi wasallam; 'Ya Rasulullah, berilah aku tiga permintaan! Rasulullah menjawab: 'Ya.' Abu Sufyan melanjutkan pembicaraannya; 'Pertama, saya mempunyai seorang puteri yang terbaik dan tercantik di negeri Arab, yaitu Ummu Habibah. Saya ingin menikahkannya dengan engkau.' Rasulullah menjawab: 'Ya.' 'Kedua, lanjut Abu Sufyan; 'Saya berharap engkau menjadikan Muawiyah bin Abu Sufyan sebagai juru tulis engkau yang selalu mendampingi engkau.' Rasulullah menjawab: 'Ya.' Abu Sufyan mengakhiri permintaannya; 'Ketiga, saya harap engkau menugaskan saya untuk bertempur di medan perang melawan orang-orang kafir, sebagaimana dulu -sebelum masuk Islam- saya memerangi kaum muslimin.' Rasulullah pun menjawab: 'Ya.' Abu Zumail berkata; 'Seandainya saja Abu Sufyan tidak meminta hal tersebut kepada Rasulullah, maka Rasulullah pasti tidak akan memberikannya. Karena, bagaimana pun juga, Rasulullah tidak pernah menjawab selain 'ya' jika beliau diminta tentang sesuatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6409</td></tr><tr><td>Arabic No</td><td>2501</td></tr><tr><td>Reference</td><td>Book 44 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6409</td></tr><tr><td>Arabic No</td><td>2501</td></tr><tr><td>Reference</td><td>Book 44 Hadith 240</td></tr></tbody></table></div>
 

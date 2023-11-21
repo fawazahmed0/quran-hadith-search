@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: Anas ibn Hakim ad-Dabbi said that he feared Ziyad or Ibn Z
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Yunus] dari [Al Hasan] dari [Anas bin Hakim Adl Dlabbi] dia berkata; "Dirinya pernah takut kepada Ziyad atau Ibnu Ziyad kemudian pergi ke Madinah, di sana ia bertemu dengan Abu Hurairah, katanya; dia menasabkan aku kepadanya dan aku pun menyatakan nasab kepadanya." [Abu Hurairah] berkata; "Wahai anak muda, maukah kamu kuceritakan suatu hadits?" kata Anas; kataku; "Ya, semoga Allah merahmati anda." Yunus berkata; "Aku kira dia menyebutkan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya yang pertama kali akan di hisab dari amal perbuatan manusia pada hari kiamat adalah shalatnya, Allah Jalla wa 'Azza berfirman kepada Malaikat -Dan Dia lebih mengetahui (amalan seseorang) -; "Periksalah shalat hamba-Ku, sempurnakah atau justru kurang? Sekiranya sempurna, maka catatlah baginya dengan sempurna, dan jika terdapat kekurangan, Allah berfirman; "Periksalah lagi, apakah hamba-Ku memiliki amalan shalat sunnah? Jikalau terdapat shalat sunnahnya, Allah berfirman; "Cukupkanlah kekurangan yang ada pada shalat wajib hamba-Ku itu dengan shalat sunnahnya." Selanjutnya semua amal manusia di hisab dengan cara demikian." Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Humaid] dari [Al Hasan] dari [seorang laki-laki dari Bani Salith] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas. Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Daud bin Abu Hind] dari [Zurarah bin Aufa] dari [Tamim Ad Dari] dari Nabi shallallahu 'alaihi wasallam dengan makna seperti ini, beliau bersabda: "Kemudian zakat, (di hisab) seperti itu juga, kemudian semua amalan di hisab seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>864</td></tr><tr><td>Arabic No</td><td>864</td></tr><tr><td>Reference</td><td>Book 2 Hadith 474</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хасан передаёт от Анаса ибн Хакима ад-Дабби, что он, опасаясь (наместника) Зияда или Ибн Зияда, прибыл в Медину и встретился с Абу Хурайрой. Он рассказал: «Он спросил меня о моём происхождении, и я сказал ему, и тогда он сказал: “О юноша! Не пересказать ли тебе хадис?” Я ответил: “Конечно, да помилует тебя Аллах!”» Передатчик Юнус сказал: «И, насколько я знаю, он возвёл эти слова к Пророку ﷺ: “Первое из деяний, о котором будут спрошены люди в Судный день, молитва. Наш Всемогущий и Великий Господь говорит ангелам, хотя Сам Он знает обо всём: “Посмотрите на молитву Моего раба: совершенна она или имеет недостатки?” Если она совершенна, то и записана она будет как совершенная. Если же в ней были недостатки, то Всевышний Аллах говорит: “Посмотрите, совершал ли Мой раб дополнительные молитвы”. Если они у него были, Всевышний Аллах говорит: “Дополните обязательные молитвы Моего раба дополнительными”. А потом все остальные его деяния будут оцениваться так же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>864</td></tr><tr><td>Arabic No</td><td>864</td></tr><tr><td>Reference</td><td>Book 2 Hadith 474</td></tr></tbody></table></div>
 

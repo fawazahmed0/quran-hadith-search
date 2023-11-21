@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) said that Allah's Messenger (ﷺ) prohibit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Nafi'] dari [Ibnu 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam melarang nikah syighar, yaitu seseorang menikah dengan putri orang lain dengan syarat putrinya harus menikah dengannya tanpa ada maskawin. Dan telah menceritakan kepadaku [Zuhair bin Harb] [Muhammad bin Al Mutsanna] dan [Ubaidullah bin Sa'id] mereka berkata; telah menceritakan kepada kami [Yahya] dari [Ubaidillah] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas, namun dalam hadits Ubaidillah dia menyebutkan; Saya bertanya kepada Nafi'; "Apa yang dimaksud dengan nikah syighar?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3465</td></tr><tr><td>Arabic No</td><td>1415.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3465</td></tr><tr><td>Arabic No</td><td>1415.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 67</td></tr></tbody></table></div>
 

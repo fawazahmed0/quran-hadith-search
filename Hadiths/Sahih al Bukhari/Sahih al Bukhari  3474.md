@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) I asked Allah's Messenger (ﷺ) about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa binIsma'il] telah bercerita kepada kami [Daud bin Abu Al Furat] telah bercerita kepada kami ['Abdullah bin Buraidah] dari [Yahya bin Ya'mar] dari ['Aisyah radliallahu 'anhu, istri Nabi shallallahu 'alaihi wasallam] berkata; "Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang masalah tha'un lalu beliau mengabarkan aku bahwa tha'un (penyakit sampar, pes, lepra) adalah sejenis siksa yang Allah kirim kepada siapa yang Dia kehendaki dan sesungguhnya Allah menjadikan hal itu sebagai rahmat bagi kaum muslimin dan tidak ada seorangpun yang menderita tha'un lalu dia bertahan di tempat tinggalnya dengan sabar dan mengharapkan pahala dan mengetahui bahwa dia tidak terkena musibah melainkan karena Allah telah mentaqdirkannya kepadanya, maka dia mendapatkan pahala seperti pahala orang yang mati syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3474</td></tr><tr><td>Arabic No</td><td>3474</td></tr><tr><td>Reference</td><td>Book 60 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) я задала Посланнику Аллаха ﷺ вопрос о чуме, и он сообщил мне (следующее: “Это — ) наказание, которое Аллах насылает, на кого пожелает, (однако) для верующих Аллах сделал (чуму) милостью, ибо любой (из них), кто останется на (своей земле, когда там) начнётся чума, будет проявлять терпение, надеяться на награду Аллаха и помнить, что поразить его может лишь предопределённое ему Аллахом, обязательно получит такую же награду, как и шахид”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3474</td></tr><tr><td>Arabic No</td><td>3474</td></tr><tr><td>Reference</td><td>Book 60 Hadith 141</td></tr></tbody></table></div>
 

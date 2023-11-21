@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qaz'a reported:I came to Abu Sa'id al-Khudri and he was surrounded by people. Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Muawiyah bin Shalih] dari [Rabi'ah] dia berkata, telah menceritakan kepadaku [Qaz'ah] dia berkata, "Saya mendatangi [Abu Sa'id al-Khudri], dan dia dalam keadaan dikelilingi banyak orang. Ketika manusia telah berpencar darinya, maka aku berkata, ' aku tidak akan menanyakan kepadamu sesuatu yang ditanyakan oleh manusia lainnya.' Aku berkata lagi, 'Aku menanyakan kepadamu tentang shalat Rasulullah Shallallahu'alaihiwasallam.' Maka dia menjawab, 'Kamu tidak memiliki kebaikan sedikit pun dalam masalah shalat (bila dibandingkan dengan shalat beliau karena panjangnya shalat tersebut) '. Lalu dia mengulangi pertanyaan tersebut kepadanya, maka dia menjawab, "Dahulu shalat zhuhur diiqamatkan, lalu salah seorang dari kami pergi ke al-Baqi' (tempat buang hajat dekat Madinah) lalu dia menunaikan hajatnya, kemudian dia mendatangi keluarganya, lalu berwudhu, kemudian dia kembali ke masjid Nabawi, tetapi Rasulullah shallallahu 'alaihi wasallam masih berada pada rakaat pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1021</td></tr><tr><td>Arabic No</td><td>454.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Раби‘а ибн Язида, что Каза‘а сказал: «(Однажды) я пришёл к Абу Са‘иду аль-Худри, у которого собралось много людей. Когда эти люди покинули его, я сказал: “Поистине, я не стану спрашивать тебя о том, о чём тебя спрашивали эти (люди)”, (после чего) задал ему вопрос о молитве Посланника Аллаха ﷺ, и он ответил: “Нет в этом для тебя ничего хорошего”». Когда он (Каза‘а) спросил ещё раз, он ответил: «Когда объявляли о начале полуденной /зухр/ молитвы, и (если в это время) кто-нибудь из нас отправлялся в аль-Бакы’, справлял свою нужду, а затем приходил домой, совершал омовение и возвращался в мечеть, то заставал Посланника Аллаха ﷺ (всё ещё совершающим) первый рак‘ат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1021</td></tr><tr><td>Arabic No</td><td>454.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 183</td></tr></tbody></table></div>
 

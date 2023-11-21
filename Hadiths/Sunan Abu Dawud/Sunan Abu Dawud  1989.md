@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Ma'qil: When the Messenger of Allah (ﷺ) performed the Farewell Pi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin 'Auf Ath Thai], telah menceritakan kepada Kami [Ahmad bin Khalid Al Wahbi], telah menceritakan kepada Kami [Muhammad bin Ishaq] dari [Isa bin Ma'qil bin Ummu Ma'qil Al Asadi] yaitu Asad Khuzaimah, telah menceritakan kepadaku [Yusuf bin Abdullah bin Salam] dari [Neneknya yaitu Ummu Ma'qil], ia berkata; tatkala Rasulullah shallAllahu wa'alaihi wa sallam melakukan haji wada', dan Kami memiliki seekor unta, Abu Ma'qil menjadikannya di jalan Allah sementara Kami terserang penyakit. Dan Abu Ma'qil meninggal. Nabi shallallahu 'alaihi wasallam meninggal, dan tatkala telah selesai dari hajinya aku datang kepada beliau, lalu beliau berkata: "Wahai Ummu Ma'qil, apa yang menghalangimu untuk keluar bersama Kami?" ia berkata; sungguh saya telah bersiap-siap namun Abu Ma'qil meninggal, dan Kami memiliki seekor unta yang Kami gunakan untuk berhaji. Kemudian Abu Ma'qil berwasiat agar unta tersebut untuk di jalan Allah. Beliau berkata: "Tidakkah engkau keluar dengan mengendarainya? Sesungguhnya haji adalah di jalan Allah, adapun apabila engkau telah tertinggal haji ini bersama Kami maka lakukanlah umrah pada Bulan Ramadhan, karena sesungguhnya umrah tersebut seperti haji." Ummu Ma'qil pernah berkata; haji adalah haji dan umrah adalah umrah. Dan Rasulullah shallAllahu wa'alaihi wa sallam telah mengatakan hal ini kepadaku, aku tidak tahu apakah hal khusus untukku?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1989</td></tr><tr><td>Arabic No</td><td>1989</td></tr><tr><td>Reference</td><td>Book 11 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Ма‘кыль, да будет доволен ею Аллах, передаёт: «Когда Посланник Аллаха ﷺ совершал прощальный хадж, у нас был верблюд, и Абу Ма‘кыль отдал его для использования на пути Аллаха. Потом мы заболели, и Абу Ма‘кыль скончался. Пророк ﷺ как раз отправился в хадж, и, когда он вернулся, я пришла к нему. Посланник Аллаха ﷺ спросил: “О Умм Ма‘кыль, что помешало тебе сопровождать нас?” Я ответила: “Мы приготовились отправиться в путь, но Абу Ма‘кыль скончался. У нас был верблюд, на котором мы собирались отправиться в хадж, но Абу Ма‘кыль завещал отдать его в пользование на пути Аллаха”. Посланник Аллаха ﷺ сказал: “Так что же ты не отправилась в путь на этом верблюде? Ведь хадж тоже совершается на пути Аллаха! А поскольку ты пропустила этот хадж с нами, соверши ‘умру в рамадан, и это будет подобно хаджу”». Она говорила: «Хадж есть хадж, а ‘умра есть ‘умра, но Посланник Аллаха ﷺ сказал мне это, и я не знаю, касалось ли это предписание меня одной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1989</td></tr><tr><td>Arabic No</td><td>1989</td></tr><tr><td>Reference</td><td>Book 11 Hadith 269</td></tr></tbody></table></div>
 

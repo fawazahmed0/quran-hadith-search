@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada on the authority of his father:The Prophet (p.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepadaku [Abu Qutaibah] berkata, telah menceritakan kepada kami [Ibnu Al Mubarak] dari [Yahya bin Abu Katsir] dari ['Abdullah bin Abu Qatadah] yang aku tidak mengetahuinya kecuali dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah kalian berdiri hingga kalian melihat aku. Dan wajib bagi kalian (mengerjakannya dengan) tenang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 11 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Абу Къатады о том, что его отец рассказывал, что Пророк ﷺ сказал: «Не вставайте (со своих мест), пока не увидите меня, и сохраняйте спокойствие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>909</td></tr><tr><td>Reference</td><td>Book 11 Hadith 33</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: A son of Adi ibn Adi al-Kindi said that Umar ibn A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid], telah menceritakan kepada kami [Muhammad bin 'Aidz], telah menceritakan kepada kami [Al Walid], telah menceritakan kepada kami [Isa bin Yunus], telah menceritakan kepadaku [diantara yang telah diceritakan Ibnu Adi bin Adi Al Kindi] bahwa [Umar bin Abdul Aziz] telah menulis: Sesunguhnya barang siapa yang menanyakan tempat-tempat penyaluran far' maka hal itu adalah apa yang telah diputuskan oleh [Umar bin Al Khathab] radliallahu 'anhu, dan telah dilihat orang-orang mukmin sebagai keadilan yang sesuai dengan sabda Nabi shallallahu 'alaihi wasallam: "Allah telah menjadikan kebenaran berada pada lisan Umar dan hatinya." Ia telah mewajibkan pemberian kepada orang-orang muslim, dna menjalin hubungan keamanan bagi para pemeluk agama dengan apa ganti jizyah yang telah ia wajibkan atas mereka. Ia tidak memperlakukan seperlima pada jizyah tersebut juga bukan sebagai rampasan perang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2961</td></tr><tr><td>Arabic No</td><td>2961</td></tr><tr><td>Reference</td><td>Book 20 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от сына ‘Ади ибн ‘Ади аль-Кинди, что ‘Умар ибн ‘Абду-ль-‘Азиз написал: «Если кто-то спросит о распределении имущества, полученного без боя /файъ/, то оно должно распределяться так же, как распределялось во времена ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах. Верующие считали его справедливым и успешным правителем, поскольку Пророк ﷺ сказал: “Аллах сделал так, что на устах и в сердце ‘Умара истина!” Он назначил содержание (мусульманам) и предоставил последователям других религий покровительство с условием, что они будут выплачивать джизью, не взимал с этих средств пятую часть /хумус/ и не брал из них ничего для себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2961</td></tr><tr><td>Arabic No</td><td>2961</td></tr><tr><td>Reference</td><td>Book 20 Hadith 34</td></tr></tbody></table></div>
 

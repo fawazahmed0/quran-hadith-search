@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tariq:(The tree where the Ridwan Pledge of allegiance was taken by the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4165</td></tr><tr><td>Arabic No</td><td>4165</td></tr><tr><td>Reference</td><td>Book 64 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тарик сказал: «Когда в присутствии Са‘ида ибн аль-Мусаййиба упомянули дерево, (под которым давалась клятва,) он засмеялся, сказав: “Мой отец сообщил мне (об этом), он был свидетелем этого (клятвы)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4165</td></tr><tr><td>Arabic No</td><td>4165</td></tr><tr><td>Reference</td><td>Book 64 Hadith 207</td></tr></tbody></table></div>
 

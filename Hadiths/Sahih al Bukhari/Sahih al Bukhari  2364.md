@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abi Bakr:The Prophet (ﷺ) prayed the eclipse prayer, and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi Maryam] telah menceritakan kepada kami [Nafi' bin 'Umar] dari [Ibnu Abi Mulaikah] dari [Asma' binti Abi Bakar RAa] bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat kusuf (gerhana) lalu bersabda: "Neraka didekatkan kepadaku hingga aku berkata; "wahai Rabb, aku bersama mereka. Manakala saat itu aku melihat seorang wanita". Nafi' berkata: Aku menduga dia (Ibnu Abu Mulaikah) mengatakan: "dicakar-cakar oleh seekor kucing". Aku bertanya: "Apa yang menyebabkan demikian? Mereka menjawab: "Wanita tersebut menahan kucing tersebut hingga mati karena kelaparan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2364</td></tr><tr><td>Arabic No</td><td>2364</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Асмы бинт Абу Бакр, да будет доволен Аллах ими обоими, что, закончив молитву аль-кусуф (совершаемую во время солнечного затмения), Пророк ﷺ сказал: «Ко мне приблизился Огонь так близко, что я сказал: “О Господь мой, неужели и я окажусь вместе с ними?!” И тут я вдруг увидел какую-то женщину [», — я думаю, что он сказал: «…которую царапала кошка»,] и спросил: “Что она сделала?” (В ответ мне) сказали: “Она держала (кошку) взаперти, пока та не подохла от голода”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2364</td></tr><tr><td>Arabic No</td><td>2364</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
 

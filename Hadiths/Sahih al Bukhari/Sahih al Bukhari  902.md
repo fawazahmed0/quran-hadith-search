@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:(the wife of the Prophet) The people used to come from their abod
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami ['Abdullah bin Wahab] berkata, telah mengabarkan kepadaku ['Amru bin Al Harits] dari ['Ubaidullah bin Abu Ja'far] bahwa [Muhammad bin Ja'far bin Az Zubair] menceritakan kepadanya dari ['Urwah bin Az Zubair] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata, "Orang-orang datang berbondong-bondong pada hari Jum'at dari tempat tinggal mereka dan pinggiran kota yang jauh, mereka datang melewati padang pasir yang berdebu sehingga mereka pun berdebu dan berkeringat. Lalu seorang dari mereka mendatangi Rasulullah shallallahu 'alaihi wasallam yang saat itu beliau sedang bersamaku, beliau lantas bersabda: "Seandainya kalian mandi dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>902</td></tr><tr><td>Arabic No</td><td>902</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «По пятницам люди постоянно приходили (на молитву) из своих жилищ, а также из ‘Авали. Они добирались (до мечети) по пыли, покрывавшей их вместе с потом, и пот выступал на их (телах). Один из них пришёл к Посланнику Аллаха ﷺ, когда он находился у меня, и Пророк ﷺ сказал: “Если бы только вы обмывались в этот ваш день!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>902</td></tr><tr><td>Arabic No</td><td>902</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
 

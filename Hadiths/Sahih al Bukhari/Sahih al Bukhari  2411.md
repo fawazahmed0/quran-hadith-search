@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Two persons, a Muslim and a Jew, quarreled. The Muslim said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Ibnu Syihab] dari [Abu Salamah] dan ['Abdurrahman Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata; Ada dua orang laki-laki yang sedang saling mencaci, yang satunya seorang Muslim dan satunya lagi orang Yahudi. Berkata, laki-laki Muslim: "Demi Dzat yang telah memilih Muhammad untuk seluruh alam". Dan berkata, laki-laki Yahudi: "Demi Dzat yang telah memilih Musa untuk seluruh alam". Seketika itu laki-laki muslim mengangkat tangannya dan menampar wajah orang Yahudi itu. Maka orang Yahudi itu pergi menemui Nabi shallallahu 'alaihi wasallam dan mengabarkan peristiwa yang terjadi antara dirinya dan orang Muslim itu. Kemudian Nabi shallallahu 'alaihi wasallam memanggil orang Muslim itu dan bertanya tentang kejadian itu, lalu orang Muslim itu memberitahukan Beliau. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kamu lebihkan aku terhadap Musa karena nanti saat seluruh manusia dimatikan pada hari qiyamat, aku pun akan dimatikan bersama mereka dan akulah orang yang pertama kali dibangkitkan (dihidupkan) namun saat itu aku melihat Musa sedang berpegangan di sisi 'Arsy. Aku tidak tahu apakah dia termasuk orang yang dimatikan lalu bangkit lebih dahulu daripada aku, atau dia termasuk diantara orang-orang yang dikecualikan (tidak dimatikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2411</td></tr><tr><td>Arabic No</td><td>2411</td></tr><tr><td>Reference</td><td>Book 44 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то) раз два человека, один из которых был мусульманином, а другой — иудеем, поругались друг с другом. Мусульманин сказал: “Клянусь Тем, кто избрал Мухаммада среди (всех обитателей) миров!” — что же касается иудея, то он сказал: “Клянусь Тем, кто избрал Мусу среди (всех обитателей) миров!” Тогда мусульманин поднял руку и ударил иудея по лицу, а иудей пошёл к Пророку ﷺ и рассказал ему о том, что произошло между ним и мусульманином. (Выслушав его,) Пророк ﷺ послал за мусульманином, стал расспрашивать его о (случившемся) и тот (обо всём) ему рассказал, после чего Пророк ﷺ сказал (ему): “Не отдавайте мне предпочтение перед Мусой, ибо, поистине, в День воскресения (все) люди будут поражены (насмерть), и я буду поражён вместе со всеми, (однако) я оживу первым и увижу Мусу, (который будет) держаться за край престола (Аллаха). И мне неизвестно, будет ли он поражён (подобно другим) и оживёт ли раньше меня, или же он будет среди тех, для кого (Аллах) сделает исключение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2411</td></tr><tr><td>Arabic No</td><td>2411</td></tr><tr><td>Reference</td><td>Book 44 Hadith 2</td></tr></tbody></table></div>
 

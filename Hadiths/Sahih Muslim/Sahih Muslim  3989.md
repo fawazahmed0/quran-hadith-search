@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) saying ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Hisyam bin Sulaiman] dia adalah Ibnu Ikrimah bin Khalid Al Mahzumi, dari [Ibnu Juraij] telah menceritakan kepadaku [Ibnu Abu Husain] bahwa [Abu Bakar bin Muhammad bin Amru bin Hazm] telah mengabarkan kepadanya, bahwa [Umar bin Abdul Aziz] telah menceritakan kepadanya dari [Abu Bakar bin Abdurrahman] dari hadits [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam tentang seorang (pedagang) yang jatuh miskin (bangkrut), jika ditemukan barang dagangan pada orang yang mengutangnya masih ada, maka barang dagangan diserahkan kepada pemilik modal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3989</td></tr><tr><td>Arabic No</td><td>1559.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3989</td></tr><tr><td>Arabic No</td><td>1559.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Shuraih al-Ka’bi reported the Messenger of Allah(ﷺ) as sayings:He who be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Sa'id Al Maqburi] dari [Abu Syuraih Al Ka'bi] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa beriman kepada Allah dan Hari Akhir, hendaknya ia muliakan tamunya, wajibnya (memberi jamuan) adalah satu hari satu malam, dan penjamuan tamu adalah tiga hari, setelah itu adalah sedekah. Dan seorang tamu tidak boleh bermalam, sehingga ia diusir." Abu Daud berkata; telah dibacakan riwayat di hadapan Al Harits bin Miskin dan aku menyaksikannya. Telah mengabarkan kepada kalian Asyhab Ia berkata, "Malik ditanya tentang sabda Nabi shallallahu 'alaihi wasallam 'wajibnya (memberi jamuan) adalah satu hari satu malam', Anas menjawab, "Memuliakan, berbuat baik dan menjaganya selama satu hari satu malam. Dan bertamu itu selama tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6135) Sahih Muslim (48 After 1726)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3748</td></tr><tr><td>Arabic No</td><td>3748</td></tr><tr><td>Reference</td><td>Book 28 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Шурайх аль-Ка‘би передаёт, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто верует в Аллаха и в Последний день, оказывает особое почтение своему гостю день и ночь. Вообще же гостеприимство следует оказывать в течение трёх дней, а всё, что сверх этого, будет уже милостыней для него. И не разрешается гостю оставаться у (принявшего его столь долго), что он начнёт создавать ему затруднения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6135) Sahih Muslim (48 After 1726)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3748</td></tr><tr><td>Arabic No</td><td>3748</td></tr><tr><td>Reference</td><td>Book 28 Hadith 13</td></tr></tbody></table></div>
 

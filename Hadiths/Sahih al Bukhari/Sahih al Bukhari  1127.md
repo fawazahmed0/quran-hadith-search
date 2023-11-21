@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Abi Talib:One night Allah's Messenger (ﷺ) came to me and Fat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya ['Ali bin Husain] bahwa [Husain bin 'Ali] mengabarkannya bahwa ['Ali bin Abu Tholib radliallahu 'anhu] menceritakan kepadanya bahwa pada suatu malam Rasulullah shallallahu 'alaihi wasallam membangunkan dia dan Fathimah putri Nabi shallallahu 'alaihi wasallam lalu berkata: "Mengapa kalian tidak shalat malam? Maka aku (Ali) menjawab: "Wahai Rasulullah, jiwa-jiwa kami ada di tangan Allah, jika Dia menghendaki membangunkan kami pasti kami akan bangun juga". Maka Beliau shallallahu 'alaihi wasallam berpaling pergi ketika kami mengatakan seperti itu dan Beliau tidak berkata sepatah katapun. Kemudian aku mendengar ketika Beliau pergi sambil memukul pahanya berkata: "Memang manusia adalah makhluk yang paling banyak membantah. (QS Al Kahfi:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1127</td></tr><tr><td>Arabic No</td><td>1127</td></tr><tr><td>Reference</td><td>Book 19 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али бин Абу Талиб, да будет доволен им Аллах, сказал: «Однажды ночью Посланник Аллаха ﷺ пришёл ко мне и Фатиме, дочери Пророка, мир ему, и спросил: “Разве вы не совершаете молитву?” Я сказал: “О Посланник Аллаха, души наши в руках Аллаха, и если Он пожелает разбудить нас, то разбудит”. После того как я сказал это, он ушёл, не промолвив в ответ ни слова, а потом я услышал, как, удаляясь и хлопая себя рукой по бедру, он говорил: “…но человек больше всего склонен спорить”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1127</td></tr><tr><td>Arabic No</td><td>1127</td></tr><tr><td>Reference</td><td>Book 19 Hadith 7</td></tr></tbody></table></div>
 

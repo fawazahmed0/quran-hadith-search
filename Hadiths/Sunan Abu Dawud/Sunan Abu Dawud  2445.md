@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:When the Prophet (ﷺ) on the day of 'Ashurah and commanded us t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Yahya bin Ayyub], bahwa [Isma'il bin Umayyah Al Qurasyi] telah menceritakan kepadanya bahwa ia telah mendengar [Abu Ghatafan] berkata; saya mendengar [Abdullah bin Abbas] ketika Nabi shallallahu 'alaihi wasallam berpuasa pada hari 'Asyura ia berkata; dan beliau memerintahkan kami agar berpuasa pada hari tersebut. Para sahabat kertanya; wahai Rasulullah, itu adalah hari dimana orang-orang yahudi dan nashrani mengagungkannya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila tahun depan maka kita akan berpuasa pada hari kesembilan." Kemudian belum datang tahun depan Rasulullah shallallahu 'alaihi wasallam telah meninggal dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1134)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 14 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Когда Пророк ﷺ стал поститься в день ‘Ашуры и велел нам сделать то же самое, люди сказали: “О Посланник Аллаха! Но ведь этот день чтят иудеи и христиане”. Посланник Аллаха ﷺ сказал: “В следующем году будем поститься и в девятый день”. Однако следующий год Посланник Аллаха ﷺ уже не застал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1134)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2445</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 14 Hadith 133</td></tr></tbody></table></div>
 

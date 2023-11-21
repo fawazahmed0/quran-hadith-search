@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:That a man came to him (while two groups of Muslims were figh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin 'Abdul 'Aziz] Telah menceritakan kepada kami ['Abdullah bin Yahya] Telah menceritakan kepada kami [Haiwah] dari [Bakr bin 'Amru] dari [Bukair] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa seseorang datang kepadanya seraya berkata; 'Wahai Abu Abdurrahman, apakah anda tidak mendengar apa yang Allah sebutkan di dalam kitabnya: Dan kalau ada dua golongan dari mereka yang beriman itu berperang hendaklah kamu damaikan antara keduanya, (Al Hujurat: 9). Lalu apa yang menghalangi anda dari berperang sebagaimana yang telah Allah perintahkan? Ibnu Umar menjawab; 'Wahai anak saudaraku, apakah aku akan menipu dengan ayat ini, tidak berperang bagiku lebih aku sukai dari pada aku harus menipu dengan ayat ini. Bukankah Allah juga berfirman; Dan barangsiapa yang membunuh seorang mukmin dengan sengaja maka balasannya ialah Jahannam… (An Nisa: 93). Selanjutnya orang itu berkata; 'Sesungguhnya Allah berfirman; Dan perangilah mereka, supaya jangan ada fitnah.. (Al Anfal: 39). Ibnu Umar menjawab; 'Kami telah melaksanakannya pada masa Rasulullah shallallahu 'alaihi wasallam yaitu ketika Islam masih sedikit hingga diantara mereka agamanya terancam dan difitnah baik itu di bunuh atau pun di ikat hingga akhirnya Islam semakin besar dan tidak ada fitnah lagi. Tatkala orang itu melihat Ibnu Umar tidak setuju dengan pendapatnya, orang itu bertanya; 'Lalu apa pendapatmu mengenai Ali dan Utsman? Ibnu Umar menjawab; pendapatku tentang Ali dan Utsman; adapun Utsman ia adalah orang yang telah dimaafkan Allah, sedangkan kalian tidak mau memaafkannya. Adapun Ali, maka dia adalah putra paman Rasulullah shallallahu 'alaihi wasallam, dan menantunya -kemudian Ibnu Umar menunjuk dengan tangannya- dan inilah putrinya sebagaimana yang kamu lihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4650</td></tr><tr><td>Arabic No</td><td>4650</td></tr><tr><td>Reference</td><td>Book 65 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Нафи‘а, что (однажды) к Ибн ‘Умару, да будет доволен Аллах им и его отцом, пришёл человек и сказал: «О Абу ‘Абдуррахман, разве ты не слышал, что Аллах сказал в своей Книге: “Если две группы верующих сражаются между собой, то примирите их. Если же одна из них покушается на другую, то сражайтесь против той, которая покушается, пока она не вернется к повелению Аллаха” (сура “аль-Худжурат”, аят 9), что удерживает тебя от того, чтобы сражаться как Аллах упомянул в Своей Книги?!» Он ответил: «О сын моего брата! Я предпочел бы, чтобы меня обвинили в том, что я не сражаюсь из-за этого аята, чем в том, что меня обвинят из-за другого аята, где Аллах говорит: “Если же кто-либо убьёт верующего преднамеренно…” (сура “аль-Ниса”, аят 93)». Тот человек сказал: «Но Аллах говорит: “И сражайтесь с ними, пока не исчезнет искушение”». Ибн ‘Умар ответил: «Мы делали так во время Посланника Аллаха ﷺ, когда ислам ещё не был силён. Тогда искушением в религии было то, что человека или пытали, или убивали. Сейчас же ислам распространился, и искушения больше нет». Когда этот человек понял, что он не соглашается с его мнением, то сказал: «Что же ты скажешь о ‘Али и ‘Усмане?» Ибн ‘Умар ответил: «Что я скажу о ‘Али и ‘Усмане? Что касается ‘Усмана, то Аллах простил его, вы же не желаете, прощать его. Что же касается ‘Али, то он был сыном дяди Посланника Аллаха ﷺ и его зятем». А затем он указал рукой, сказав: «Вот (дом) его дочери, вы видите его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4650</td></tr><tr><td>Arabic No</td><td>4650</td></tr><tr><td>Reference</td><td>Book 65 Hadith 172</td></tr></tbody></table></div>
 

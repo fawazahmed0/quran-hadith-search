@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Masruq Who said:We asked 'Abdullah abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] keduanya dari [Abu Mu'awiyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dan [Isa bin Yunus] semuanya dari [Al A'masy]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] sedangkan lafadznya dari dia, telah menceritakan kepada kami [Asbath] dan [Abu Mu'awiyah] keduanya berkata; telah menceritakan kepada kami [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dia berkata, "Kami pernah bertanya kepada [Abdullah] perihal ayat ini: '(Dan janganlah kalian mengira bahwa orang-orang yang terbunuh di jalan Allah itu (memang) mati, akan tetapi sebenarnya mereka itu hidup di sisi Rabb mereka dan diberi rezeki (yang melimpah) ' (Qs. Ali Imran: 169) Dia berkata, "Kami dulu pernah menanyakan hal itu, dan beliau menjawab: "Ruh mereka berada di dalam rongga burung hijau yang mempunyai banyak pelita yang bergantungan di 'Arsy, ia dapat keluar masuk surga sesuka hati kemudian beristirahat lagi di pelita-pelita itu, kemudian Rabb mereka menengok mereka seraya berkata: 'Apakah kalian menginginkan sesuatu? ' Mereka menjawab, 'Apa lagi yang kami inginkan kalau kami sudah dapat keluar masuk ke surga sesuka hati kami? ' Lalu Allah terus mengulangi pertanyaan itu hingga tiga kali. Ketika mereka melihat kalau mereka tidak akan ditinggalkan sebelum menjawab pertanyaan itu, maka merekapun menjawab, 'Duhai Rabb, kami menginginkan ruh kami dikembalikan lagi ke jasad kami hingga kami dapat berperang lagi di jalan-Mu untuk kesekian kalinya.' Ketika Allah melihat kalau mereka tidak lagi membutuhkan sesuatu, akhirnya mereka ditinggal pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>1887</td></tr><tr><td>Reference</td><td>Book 33 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>1887</td></tr><tr><td>Reference</td><td>Book 33 Hadith 181</td></tr></tbody></table></div>
 

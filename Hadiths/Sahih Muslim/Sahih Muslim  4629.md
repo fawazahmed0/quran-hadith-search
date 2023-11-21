@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of al-Bara' b. 'Azib who said:'Ali b. Abu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin Mua'd Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; aku mendengar [Al Barra bin 'Azzib] berkata, "Ali bin Abu Thalib pernah menuliskan perjanjian damai antara Nabi shallallahu 'alaihi wasallam dengan orang-orang Musyrik (Makkah) ketika perjanjian Hudaibiyyah. Ali menuliskan, "Ini adalah perjanjian yang ditulis oleh Muhammad Rasulullah." Lantas mereka berkata, "Jikalau kami tahu bahwa kamu adalah Rasulullah, tentu kami tidak akan memerangimu." Maka Nabi shallallahu 'alaihi wasallam bersabda kepada Ali: "Hapus kata-kata itu (tulisan 'Rasulullah')." Ali menjawab, "Aku tidak mau menghapusnya." Maka Nabi shallallahu 'alaihi wasallam yang menghapusnya dengan tangannya sendiri." Al Barra' berkata, "Isi perjanjian itu antara lain menetapkan bahwa kaum Muslimin boleh masuk dan tinggal di kota Makkah selama tiga hari. Tidak boleh membawa senjata kecuali diletakkan dalam sarungnya." Aku bertanya kepada Abu Ishaq, "Apa yang dimaksud dengan sarung pedang?" dia menjawab, "Yaitu sarung pedang dan sesuatu yang ada di dalamnya." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; aku mendengar [Al Barra' bin 'Azib] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengadakan perjanjian Hudaibiyyah, lantas Ali menulis suatu catatan di anatara mereka." Al Barra' berkata, "Lalu dia menulis; Muhammad Rasulullah...kemudian dia menyebutkan seperti hadits Mu'adz, namun dalam haditsnya dia tidak menyebutkan, "Ini adalah perjanjian yang ditulis olehnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>1783.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>1783.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 111</td></tr></tbody></table></div>
 

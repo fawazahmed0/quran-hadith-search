@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Yazid Al-Ansari that he went out with Al-Bara' bin 'Azib,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah berbicara kepada kami [Abu Nu'aim] dari [Zuhair] dari [Abu Ishaq], ['Abdullah bin Yazid Al Anshari] keluar menuju lapangan bersama Al Bara' bin 'Azib dan Zaid bin Arqam? radliallahu 'anhum untuk melaksanakan shalat istisqa' (minta hujan). 'Abdullah bin Yazid Al Anshari lalu berdiri di atas kedua kakinya dan tidak di atas mimbar. Dia lalu beristighfar dan melaksanakan shalat dua rakaat dengan mengeraskan bacaannya, tanpa dengan adzan atau pun iqamah." Abu Ishaq berkata, "'Abdullah bin Yazid Al Anshari pernah melihat Nabi shallallahu 'alaihi wasallam (melaksanakan seperti itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1022</td></tr><tr><td>Arabic No</td><td>1022</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды ‘Абдуллах ибн Язид Аль-Ансари, вышел с Аль-Бараъ ибн ‘Азибом и Заидом ибн Аркамом, да будет доволен ими Аллах, и попросил дождь. Он (‘Абдуллах ибн Язид) встал, но не на минбар, и попросил у Аллаха прощения, а затем совершил молитву в два рак'ата, читая вслух, без произнесения азана и икамы. Абу Исхак сказал, что ‘Адбуллах ибн Язид видел Пророка ﷺ (делающего то же самое)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1022</td></tr><tr><td>Arabic No</td><td>1022</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
 

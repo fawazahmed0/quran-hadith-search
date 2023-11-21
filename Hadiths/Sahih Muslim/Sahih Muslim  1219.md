@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'aiqib quoted the Messenger of Allah (ﷺ) mentioning the removal of pebbles f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Hisyam ad-Dastawai] dari [Yahya bin Abi Katsir] dari [Abu Salamah] dari [Mu'aiqib] dia berkata, "Nabi Shallallahu'alaihiwasallam pernah berkata tentang menyapu (kerikil) pada tempat sujud ketika shalat, (untuk membersihkannya). Beliau bersabda, 'Jika kamu memang harus melakukannya maka cukup sekali saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>546.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му’айкыб сказал: «(Однажды в присутствии) Пророка ﷺ кто-то упомянул об очищении места совершения земных поклонов от мелких камешков, и он сказал: “Если тебе необходимо сделать это (во время молитвы, сделай), но (только) один раз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>546.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 59</td></tr></tbody></table></div>
 

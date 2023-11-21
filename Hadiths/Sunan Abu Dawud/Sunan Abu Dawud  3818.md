@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: I wish I had a white loaf ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdul Aziz bin Abu Rizmah] telah mengabarkan kepada kami [Al Fadll bin Musa] dari [Husain bin Waqid] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku berharap memiliki roti putih yang terbuat dari gandum yang dicampur dengan mentega dan susu." Kemudian seorang laki-laki dari salah seorang mereka berdiri dan lalu membuatnya uantuk kemudian membawanya kepada beliau. Beliau kemudian bertanya: "Di tempat apakah mentega ini sebelumnya?" Laki-laki itu menjawab, "Berada dalam bejana yang terbuat dari kulit biawak." Beliau bersabda: "Angkatlah makanan tersebut!" Abu Daud berkata, "Hadits ini adalah hadits mungkar." Abu Daud berkata, "Ayyub bukanlah As Sakhtinyani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3818</td></tr><tr><td>Arabic No</td><td>3818</td></tr><tr><td>Reference</td><td>Book 28 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Хотелось бы мне, чтобы был у меня белый хлеб из тёмной пшеницы с маслом и молоком». Тогда один человек принёс ему такого хлеба. Посланник Аллаха ﷺ спросил: «Где это лежало?» Он ответил: «В сосуде из кожи ящерицы-шипохвоста». Посланник Аллаха ﷺ сказал: «Убери это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3818</td></tr><tr><td>Arabic No</td><td>3818</td></tr><tr><td>Reference</td><td>Book 28 Hadith 83</td></tr></tbody></table></div>
 

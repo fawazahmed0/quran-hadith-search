@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Prophet (ﷺ) came to Mecca he entered from its higher 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidiy] dan [Muhammad bin Al Mutsanna] keduanya berkata, telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam ketika datang ke kota Makkah, Beliau memasukinya lewat dataran tingginya dan keluar melewati dataran rendahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1577</td></tr><tr><td>Arabic No</td><td>1577</td></tr><tr><td>Reference</td><td>Book 25 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что когда Пророк ﷺ вошёл в Мекку, он вошёл с верхней части (Мекки), а вышел из нижней её части
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1577</td></tr><tr><td>Arabic No</td><td>1577</td></tr><tr><td>Reference</td><td>Book 25 Hadith 63</td></tr></tbody></table></div>
 

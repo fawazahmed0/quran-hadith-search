@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:Once (on a journey) our provisions diminished and the people wer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Marhum] telah menceritakan kepada kami [Hatim bin Isma'il] dari [YAzid bin Abu 'Ubaid] dari [Salamah radliallahu 'anhu] berkata: "Perbekalan kaum menipis dan mereka kekurangan air dan makanan, lalu mereka mendatangi Nabi shallallahu 'alaihi wasallam meminta ijin untuk menyembelih unta mereka, Beliau pun mengijinkannya. Lalu 'Umar datang menemui mereka dan mereka mengabari hal itu padanya, lalu ia berkata; "Apakah kalian akan dapat hidup setelah unta kalian habis, ia pun menemui Nabi shallallahu 'alaihi wasallam lalu berkata: "Wahai Rasulullah, apakah mereka dapat bertahan hidup setelah mereka menyembelih unta mereka?". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Panggillah orang-orang agar mereka membawa sisa-sisa bekal mereka kemari". Maka dihamparkan lembaran kulit lalu bekal bekal mereka diletakkan diatasnya. Kemudian Rasulullah shallallahu 'alaihi wasallam berdiri dan berdo'a serta memohon berkah untuknya, lalu Beliau perintahkan mereka membawa bejana mereka masing-masing. Maka orang-orang pun mengambil bagiannya hingga mereka mendapatkan semua, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku bersaksi bahwa tidak ada Ilah yang berhak disembah kecuali Allah dan aku adalah Rasululloh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2484</td></tr><tr><td>Arabic No</td><td>2484</td></tr><tr><td>Reference</td><td>Book 47 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салама бин аль-Аква‘, да будет доволен им Аллах, сказал: «(Однажды, когда) люди находились в пути, их припасы стали подходить к концу и у них почти ничего не осталось. Тогда они пришли к Пророку ﷺ (стали просить его разрешения на то, чтобы) заколоть их верблюдов, и он разрешил им сделать это. А потом их встретил ‘Умар, которому они рассказали обо всём, и он воскликнул: “Как же вы (сможете) выжить(, если заколете) своих верблюдов?!” — после чего пошёл к Пророку ﷺ и сказал: “О Посланник Аллаха, как же они выживут(, если заколют) своих верблюдов?!” Тогда Посланник Аллаха ﷺ велел (‘Умару): “Объяви людям, чтобы они принесли остатки своих припасов”, и для этих (остатков) расстелили кожаную подстилку, а (люди) сложили на неё (всю свою еду. Когда это было сделано,) Посланник Аллаха ﷺ встал, обратился с мольбой к Аллаху и призвал благословение (на эту еду), после чего велел людям подходить со своими сосудами, и они набирали еду пригоршнями, пока (каждый не взял столько, сколько ему было нужно, чтобы насытиться), а затем Посланник Аллаха ﷺ сказал: “Свидетельствую, что нет истинного бога, кроме Аллаха, и что я — Посланник Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2484</td></tr><tr><td>Arabic No</td><td>2484</td></tr><tr><td>Reference</td><td>Book 47 Hadith 2</td></tr></tbody></table></div>
 

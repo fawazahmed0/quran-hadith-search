@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported so many abidith from Allah's Messenger (ﷺ) and he reporte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razaq]; Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; "Inilah yang telah diceritakan [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam. Lalu dia menyebutkan beberapa Hadits di antaranya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Penyakit yang timbul dari pengaruh jahat pandangan mata memang ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5701</td></tr><tr><td>Arabic No</td><td>2187</td></tr><tr><td>Reference</td><td>Book 39 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5701</td></tr><tr><td>Arabic No</td><td>2187</td></tr><tr><td>Reference</td><td>Book 39 Hadith 55</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdur Razaq] Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, -kemudian dia menyebutkan beberapa Hadits yang di antaranya-; dan Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Isa 'Alaihis Salam melihat seorang laki-laki mencuri, lalu Isa berkata kepadanya; 'kamu mencuri'? maka dia menjawab; 'Tidak, dan demi Dzat yang tidak ada Ilah kecuali Dia, ' Isa berkata; 'Aku beriman kepada Allah dan aku dustakan kedua mataku atas diriku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6137</td></tr><tr><td>Arabic No</td><td>2368</td></tr><tr><td>Reference</td><td>Book 43 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6137</td></tr><tr><td>Arabic No</td><td>2368</td></tr><tr><td>Reference</td><td>Book 43 Hadith 195</td></tr></tbody></table></div>
 

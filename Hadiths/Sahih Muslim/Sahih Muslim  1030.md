@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:The Apostle of Allah (ﷺ) used to recite in the noon p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Dawud ath-Thayalisi] dari [Syu'bah] dari [Simak] dari [Jabir bin Samurah] bahwa Nabi Shallallahu'alaihiwasallam membaca dalam shalat zhuhur surat Sabbihisma Rabbikal al-A'la (QS. Al-a'la), sedangkan dalam shalat shubuh dengan surat yang lebih panjang darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>460</td></tr><tr><td>Reference</td><td>Book 4 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн Самуры, что во время полуденной /зухр/ Пророк ﷺ читал: «Славь имя Господа твоего Всевышнего», а во время утренней молитвы /фаджр/, суры длиннее этой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>460</td></tr><tr><td>Reference</td><td>Book 4 Hadith 192</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:While we were in the company of the Prophet (ﷺ) in a tent h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Amru bin Maimun] dari [Abdullah] menuturkan; 'Suatu saat kami bersama Nabi dalam sebuah hunian dari tanah liat, tiba-tiba Nabi berujar: "Puaskah kalian menjadi seperempat penghuni surga?" 'ya', Jawab kami. Nabi berujar lagi: "Puaskah kalian menjadi sepertiga penghuni surga?" 'ya, ' Jawab kami. Nabi berujar lagi: "Puaskah kalian menjadi separoh penghuni surga?" 'ya, ' Jawab kami. Nabi bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya, sungguh aku berharap kalian menjadi separoh penghuni surga, dan surga tak dimasuki selain seorang muslim, dan perbandingan kalian diantara pemeluk kesyirikan tak lain hanyalah seperti rambut putih di kulit sapi hitam" atau dengan redaksi; "seperti sehelai rambut hitam di kulit sapi merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6528</td></tr><tr><td>Arabic No</td><td>6528</td></tr><tr><td>Reference</td><td>Book 81 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Однажды, когда мы были вместе с Пророком ﷺ в шатре, он спросил: “Хотели бы вы составить четверть обитателей Рая?” Мы ответили: “Да!” Он спросил: “А хотели бы вы составлять собой треть обитателей Рая?” Мы ответили: “Да!” Он спросил: “А хотели бы вы составлять собой половину обитателей Рая?” Мы ответили: “Да!” Тогда он сказал: “Клянусь Тем, в Чьей руке душа Мухаммада, поистине, я надеюсь, что вы составите собой половину обитателей Рая! Это потому, что не войдёт в Рай никто, кроме покорившейся души, а ваше количество по сравнению с совершающими неверие подобно белому волосу на шкуре чёрного буйвола, или же чёрному волосу на шкуре красного буйвола”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6528</td></tr><tr><td>Arabic No</td><td>6528</td></tr><tr><td>Reference</td><td>Book 81 Hadith 117</td></tr></tbody></table></div>
 

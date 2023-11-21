@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira said:The Prophet of Allah (ﷺ) said: There is for every apostle a p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan lafazh tersebut milik Abu Kuraib, keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap Nabi memiliki doa yang mustajab, maka setiap nabi menyegerakan doanya, dan sesungguhnya aku menyembunyikan doaku sebagai syafa'at bagi umatku pada hari kiamat. Dan insya Allah syafa'atku akan mencakup orang yang mati dari kalangan umatku yang tidak mensyirikkan Allah dengan sesuatu apa pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>491</td></tr><tr><td>Arabic No</td><td>199.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 397</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Каждому пророку дарована была мольба, которая не остаётся без ответа. Все пророки поспешили со своей мольбой, а я отложил её на День воскресения, чтобы заступиться за свою общину, и она объемлет если будет на то воля Аллаха всех тех из моей общины, кто умер, никого и ничего не придавая Аллаху в сотоварищи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>491</td></tr><tr><td>Arabic No</td><td>199.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 397</td></tr></tbody></table></div>
 

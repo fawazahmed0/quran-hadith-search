@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jarir that he observed I gave pledge of alleg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Usamah] dari [Ismail bin Abu Khalid] dari [Qais] dari [Jarir] dia berkata, "Aku berbaiat kepada Rasulullah shallallahu 'alaihi wasallam untuk mendirikan shalat, menunaikan zakat dan menasihati setiap muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>199</td></tr><tr><td>Arabic No</td><td>56.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир (ибн ‘Абдуллах, да будет доволен им Аллах,) сказал: «Я поклялся Посланнику Аллаха ﷺ в том, что буду совершать молитвы, выплачивать закят и сердечно относиться к каждому мусульманину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>199</td></tr><tr><td>Arabic No</td><td>56.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 106</td></tr></tbody></table></div>
 

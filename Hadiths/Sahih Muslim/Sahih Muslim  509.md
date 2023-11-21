@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith was narrated by A'mash on the authority of the same chain of narrato
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>509</td></tr><tr><td>Arabic No</td><td>208.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 415</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса он сказал: «В один день Посланник Аллаха ﷺ поднялся на (холм) ас-Сафа…». Далее подобно предыдущему хадису, но без упоминания ниспослания аята: “И увещевай своих ближайших родственников” (Сура «аш-Шу‘ара», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>509</td></tr><tr><td>Arabic No</td><td>208.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 415</td></tr></tbody></table></div>
 

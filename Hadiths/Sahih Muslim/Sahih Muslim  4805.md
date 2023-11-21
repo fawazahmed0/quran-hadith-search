@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Auf b. Malik al-Ashja'i who said that h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Daud bin Rusyaid] telah menceritakan kepada kami [Al Walid] -yaitu Ibnu Muslim- telah menceritakan kepada kami [Abdurrahman bin Yazid bin jabir] telah mengabarkan kepadaku bekas budak Bani Fazarah [Ruzaiq bin Hayyan] bahwa dia mendengar [Muslim bin Qardzah bin 'Ammi 'Auf bin Malik Al Asyja'i] dia berkata; saya mendengar ['Auf bin Malik Al Asyja'i] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik pemimpin kalian adalah kalian mencintai mereka dan mereka mencintai kalian, kalian mendo'akan mereka dan mereka mendo'akan kalian. Sedangkan sejelek-jelek pemimpin kalian adalah kalian membenci mereka dan mereka membenci kalian, kalian mengutuk mereka dan mereka pun mengutuk kalian." Mereka berkata, "Kemudian kami bertanya, "Wahai Rasulullah, tidakkah kami memerangi mereka ketika itu?" beliau menjawab: "Tidak, selagi mereka mendirikan shalat bersama kalian, tidak selagi mereka masih mendirikan shalat bersama kalian. Dan barangsiapa dipimpin oleh seorang pemimpin, kemudian dia melihat pemimpinnya bermaksiat kepada Allah, hendaknya ia membenci dari perbuatannya dan janganlah ia melepas dari ketaatan kepadanya." Ibnu Jabir berkata, "Lalu aku bertanya kepada Ruzaiq, yaitu ketika dia menceritakan kepadaku hadits ini, 'Demi Allah wahai Abu Miqdam, apakah dia menceritakan ini kepadamu? ', Atau, Apakah kamu mendengar ini dari Muslim bin Qardlah, bahwa dia berkata, 'Saya mendengar 'Auf berkata, 'Saya mendengar Rasulullah shallallahu 'alaihi wasallam? ' dia menjawab, "kemudian dia duduk bertumpu di atas kedua lututnya dan menghadapkan ke kiblat sambil berkata, "Demi Allah yang tidak ada tuhan yang berhak disembah selain Dia, sungguh saya pernah mendengarnya dari Muslim bin Qardlah berkata, 'Saya mendengar 'Auf bin Malik berkata, 'Saya mendengar Rasulullah shallallahu 'alaihi wasallam." Dan telah menceritakan kepada kami [Ishaq bin Musa Al Anshari] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Ibnu Jabir] dengan isnad ini, Ruzaiq bekas budak Bani Fazarah. Muslim berkata; dan telah meriwayatkannya [Mu'awiyah bin Shalih] dari [Rabi'ah bin Yazid] dari [Muslim bin Qardlah] dari ['Auf bin Malik] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>1855.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>1855.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 102</td></tr></tbody></table></div>
 

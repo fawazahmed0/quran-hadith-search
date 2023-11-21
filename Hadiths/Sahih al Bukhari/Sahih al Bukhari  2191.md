@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Abu Hathma:Allah's Messenger (ﷺ) forbade the selling of frui
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata,, berkata, [Yahya bin Sa'id]; aku mendengar [Busyair] berkata; aku mendengar [Sahal bin Abi Hatmah] bahwa Rasulullah shallallahu 'alaihi wasallam melarang menjual kurma masak dengan kurma basah, damun Beliau memberi kelonggaran pada 'ariyyah untuk dijual dengan cara taksiran untuk dimakan ruthobnya (kurma basah yang masih muda) oleh pemilikya. Dan Sufyan berkata pada suatu kali; selain Beliau memberi keringanan pada 'ariyah, yang pemiliknya menjualnya dengan cara ditaksir, yang mereka boleh memakan ruthob. Ia berkata, itu sama saja. Sufyan berkata; lalu aku berkata kepada Yahya dan ketika itu aku masih remaja, sungguh orang-orang Makkah mengatakan bahwa Nabi shallallahu 'alaihi wasallam membolehkan menjual 'ariyah. Ia berkata; apa yang dimaksud penduduk Makkah? Aku menjawab; mereka meriwayatkannya dari Jabir, lalu ia terdiam. Sufyan berkata, hanyasanya yang aku maksud bahwa Jabir itu adalah orang Madinah. Lalu dikatakan kepada Sufyan; Apakah tidak ada larangan untuk menjual buah-buahan hingga benar-benar baik keadaannya? Ia menjawab: tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2191</td></tr><tr><td>Arabic No</td><td>2191</td></tr><tr><td>Reference</td><td>Book 34 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сахля ибн Абу Хасмы, что Посланник Аллаха ﷺ запретил продавать свежие финики за сушёные, но разрешил обменивать несобранный урожай свежих фиников на сухие в количестве, соответствующем урожаю сухих фиников (‘арайа), чтобы их новые владельцы (покупатели) могли есть свои финики свежими. Суфьян сказал: «Когда я был ещё мальчиком, я сказал Яхье: “Поистине, мекканцы говорят, что Пророк ﷺ дозволил торговлю “‘арайа””. Яхья спросил: “Откуда мекканцы знают об этом?” Я ответил: “Они передают это от Джабира”. Тогда он замолчал». Суфьян сказал: «Я хотел этим сказать, что Джабир был жителем Медины». Суфьяна спросили: «Был ли в хадисе Джабира какой-либо запрет на продажу плодов до того, как станет ясно, что они годны к употреблению?» Он ответил: «Нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2191</td></tr><tr><td>Arabic No</td><td>2191</td></tr><tr><td>Reference</td><td>Book 34 Hadith 138</td></tr></tbody></table></div>
 

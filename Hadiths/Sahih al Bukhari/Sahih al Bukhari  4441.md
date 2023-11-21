@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:'Aisha said, "The Prophet (ﷺ) said during his fat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4441</td></tr><tr><td>Arabic No</td><td>4441</td></tr><tr><td>Reference</td><td>Book 64 Hadith 462</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что во время болезни, от которой он уже не оправился, Пророк ﷺ сказал: «Аллах проклял (или: да проклянет Аллах) иудеев и христиан за то, что они сделали могилы своих пророков местами для поклонения».\n‘Аиша добавила: «И если бы не это, то его могилу обязательно сделали бы заметной, он боялся, что его могилу превратят в место поклонения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4441</td></tr><tr><td>Arabic No</td><td>4441</td></tr><tr><td>Reference</td><td>Book 64 Hadith 462</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':On the day of Khaibar the Prophet (ﷺ) saw fires b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim Adh-Dhohhak bin Makhlad] dari [Yazid bin Abu 'Ubaid] dari [Salamah bin Al Akwa' radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam melihat api yang dinyalakan pada perang Khaibar. Beliau bertanya: "Untuk apa api itu dinyalakan?" Mereka menjawab: "Untuk daging keledai piaraan manusia". Beliau berkata: "Hancurkan dan bakarlah". Mereka bertanya: "Apakah kita bakar lalu kita cuci (bersihkan)?" Beliau berkata: "Bersihkanlah". Berkata, Abu 'Abdullah Al Bukhariy: Ibnu Abu Uwais berkata, Al Humur Al Insiyah dengan huruf alif dan nun manshub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2477</td></tr><tr><td>Arabic No</td><td>2477</td></tr><tr><td>Reference</td><td>Book 46 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘, да будет доволен им Аллах, сказал: «В день Хайбара, Пророк ﷺ увидел разожжённые костры и спросил: “Для чего разжигаются эти костры?” Люди ответили: “Для (приготовления мяса) домашних ослов”. Пророк ﷺ сказал: “Разбейте (котлы) и вылейте (это варево)!” Люди спросили: “А можно ли нам вылить (похлебку) и вымыть котлы (вместо того, чтобы разбить их)?” Он ответил: “Вымойте!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2477</td></tr><tr><td>Arabic No</td><td>2477</td></tr><tr><td>Reference</td><td>Book 46 Hadith 38</td></tr></tbody></table></div>
 

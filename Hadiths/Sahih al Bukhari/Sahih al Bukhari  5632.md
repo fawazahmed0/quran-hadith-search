@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Laila:While Hudhaita was at Mada'in, he asked for water. The ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibnu Abu Laila] dia berkata; Ketika [Hudzaifah] di Madayin (Mada'in), dia pernah meminta air untuk minum, lalu Dihqan memberinya air minum di dalam bejana yang terbuat dari perak, maka ia membuangnya sambil berkata; "Sesungguhnya aku tidak bermaksud membuangnya melainkan aku telah melarangnya (menggunakan tempat yang terbuat dari perak) namun tetap saja ia menggunakannya, sesungguhnya Nabi shallallahu 'alaihi wasallam melarang kami memakai kain sutera, dibaj (sejenis sutera) dan tempat minum yang terbuat dari emas dan perak, beliau bersabda: "Itu semua untuk mereka (orang kafir) di dunia, dan untuk kalian di akhirat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5632</td></tr><tr><td>Arabic No</td><td>5632</td></tr><tr><td>Reference</td><td>Book 74 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Аби Лейлы, что, когда Хузейфа был в Мадаине и попросил воды, деревенский староста /дехкан/ принёс ему серебряную чашу, и Хузейфа бросил её в него со словами: «Поистине, я бросил её в него только потому, что я запретил ему, а он не прекратил… Поистине, Пророк ﷺ запретил шёлк и парчу и запретил пользоваться золотой и серебряной посудой, сказав: “Это предназначено для них в этом мире, а для вас — в мире вечном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5632</td></tr><tr><td>Arabic No</td><td>5632</td></tr><tr><td>Reference</td><td>Book 74 Hadith 58</td></tr></tbody></table></div>
 

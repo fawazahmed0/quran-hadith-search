@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asma' daughter of AbuBakr: I heard the Messenger of Allah (ﷺ) say: On
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutawakkil Al 'Asqalani] telah menceritakan kepada kami [Abdurrazaq] telah memberitakan kepada kami [Ma'mar] dari [Abdullah bin Muslim saudaranya Az Zuhri] dari [Bekas budaknya Asma' binti Abu Bakar] dari [Asma' binti Abu Bakar] dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa di antara kalian (para wanita) beriman kepada Allah dan hari akhir, janganlah mengangkat kepalanya terlebih dahulu sehingga kaum laki-laki mengangkat kepala mereka, karena di khawatirkan mereka melihat aurat kaum laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>851</td></tr><tr><td>Arabic No</td><td>851</td></tr><tr><td>Reference</td><td>Book 2 Hadith 461</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Асма бинт Абу Бакр, да будет доволен Аллах им и его отцом, передаёт: «Я слышала, как Посланник Аллаха ﷺ сказал: “Кто из вас верует в Аллаха и в Последний день, пусть не поднимает голову из поклона, пока мужчины не поднимут голову”. Ему не хотелось, чтобы женщины случайно увидели срамные места мужчин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>851</td></tr><tr><td>Arabic No</td><td>851</td></tr><tr><td>Reference</td><td>Book 2 Hadith 461</td></tr></tbody></table></div>
 

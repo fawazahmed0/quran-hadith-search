@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I was with Allah's Messenger (ﷺ) in one of the Markets of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim Al Handlali] telah mengabarkan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Warqa'bin Umar] dari ['Ubaidullah bin Abu Yazid] dari [Nafi' bin Jubair] dari [Abu Hurairah] radliallahu 'anhu dia berkata; "Aku pernah bersama Nabi shallallahu 'alaihi wasallam di salah satu pasar Madinah, lalu beliau pergi dan akupun ikut pergi bersama beliau, kemudian beliau bersabda: 'Dimanakah anak kecil, -beliau memangil-manggil sampai tiga kali- Panggillah Al Hasan bin Ali Lalu datanglah Al Hasan bin Ali sambil berjalan, sementara pada lehernya terdapat sikha' (benang yang dibentuk semacam kalung), maka Rasulullah shallallahu 'alaihi wasallam mendekapnya dan ia juga mendekap, lalu beliau bersabda: 'Ya Allah, sesungguhnya aku mencintainya maka cintailah ia dan cintailah orang-orang yang mencintainya.' Abu Hurairah mengatakan; 'Maka tidak ada seorang pun yang lebih aku cintai daripada Al Hasan bin Ali setelah aku mendengar sabda Rasulullah shallallahu 'alaihi wasallam tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5884</td></tr><tr><td>Arabic No</td><td>5884</td></tr><tr><td>Reference</td><td>Book 77 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды я был вместе с посланником Аллаха ﷺ на одном из рынков Медины. Мы шли вместе, и он сказал: «Где этот негодник?» Он повторил это трижды и добавил: «Позови аль-Хасана ибн ‘Али». Аль-Хасан ибн ‘Али пришёл, и у него на шее было ожерелье из бусин. Пророк ﷺ простёр руки, и аль-Хасан тоже простёр руки, и они обнялись. Пророк ﷺ сказал: «О Аллах, поистине, я люблю его, полюби его и полюби тех, кто любит его». Абу Хурайра, да будет доволен им Аллах, сказал: «После этих слов Посланника Аллаха ﷺ я никого не любил больше, чем аль-Хасана ибн ‘Али»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5884</td></tr><tr><td>Arabic No</td><td>5884</td></tr><tr><td>Reference</td><td>Book 77 Hadith 101</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin 'Abis:Ibn 'Abbas was asked whether he had joined the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepadaku ['Abdurrahman bin 'Abis] berkata, aku mendengar [Ibnu 'Abbas] ketika dikatakan kepadanya, "Apakah engkau pernah menghadiri shalat 'Ied bersama Nabi shallallahu 'alaihi wasallam?" Dia menjawab, "Ya. Kalau seandainya bukan karena kedudukanku yang masih kecil, tentu aku tak akan turut serta, hingga beliau mendatangi tanda yang ada di sisi rumah Katsir bin Ash Shalt. Beliau lalu shalat dan memberikan khutbah. Setelah itu beliau mendatangi jama'ah para wanita bersama Bilal, beliau memberi pelajaran kepada para wanita tersebut, mengingatkan mereka dan memerintahkan agar bersedekah. Maka aku menyaksikan para wanita tersebut memberikan apa yang ada pada tangan mereka (emas perhiasan), mereka meletakkannya ke dalam kain yang di bawa oleh Bilal. Setelah itu beliau dan Bilal pergi menuju rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 13 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас спросили: «Ты присутствовал на празднике вместе с Пророком ﷺ?» Он ответил: «Да, но если бы не мое близкое положение (относительно Пророка ﷺ), то я бы не присутствовал там, ведь я был ещё маленьким. Пророк ﷺ пришел к обозначенному месту, возле дома Кясира ибн Сальта, совершил молитву, затем обратился с проповедью. После этого он пришел к женщинам вместе с Билялем, сделал им наставление и напоминание, и приказал им давать милостыню. И я видел, как они тянут свои руки и бросают (милостыню) в одежду Биляля. Затем он отправился домой вместе с Билялем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 13 Hadith 26</td></tr></tbody></table></div>
 

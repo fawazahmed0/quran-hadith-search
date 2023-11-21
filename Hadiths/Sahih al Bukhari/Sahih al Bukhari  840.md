@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mahmud bin Ar-Rabi':I remember Allah's Messenger (ﷺ) and also the mou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Mahmud bin Ar Rabi'], dia mengklaim bahwa ia telah membuat perjanjian dengan Rasulullah shallallahu 'alaihi wasallam dan meminta keberkahan kewat air yang diambil dari sumur yang ada di dalam mereka. Dia berkata, Aku mendengar ['Itban bin Malik Al Anshari] kemudian seseorang dari suku Bani Salim berkata, "Aku pernah memimpin shalat kaumku, Bani Salim. Pada kemudian hari aku menemui Nabi shallallahu 'alaihi wasallam, lalu aku berkata kepada beliau, "Wahai Rasulullah, aku adalah orang yang sudah lemah penglihatan sedangkan genangan-genangan dari saluran air sering menghalangi antara aku dan masjid kaumku. Seandainya tuan berkenan, bolehlah tuan datang berkunjung lalu shalat di rumahku pada suatu tempat yang akan aku jadikan masjid." Maka Beliau berkata, "Aku akan datang, Insyaallah." Kemudian beliau datang kepadaku bersama Abu Bakar di waktu siang yang terik. Nabi shallallahu 'alaihi wasallam lalu minta izin masuk dan aku pun mengizinkannya. Sebelum duduk beliau langsung bersabda: "Mana tempat yang kau sukai untuk aku shalat padanya di rumahmu ini?" Maka Itban memberi isyarat kepada Beliau tempat yang disukainya supaya Beliau shalat di tempat tersebut. Beliau lalu berdiri shalat dan kamipun berdiri shalat mengatur shaf di belakangnya. Kemudian Beliau mengakhiri shalat dengan salam, maka kamipun mengucapkan salam setelah Beliau salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Он сказал: «Я слышал ‘Итбана ибн Малика аль-Ансари, затем одного человека из бану салим, который сказал: «Обычно я проводил молитвы с людьми из моего племени бану салим, и (однажды) я пришёл к Пророку ﷺ и сказал ему: “Поистине, мое зрение ослабло, а потоки реки отделяют меня от мечети моего племени. И я хотел бы, чтобы ты пришёл (ко мне) и помолился где-нибудь в моём доме (, а потом) я сделаю (место, где ты помолишься) местом для своих молитв”. (На это) Посланник Аллаха ﷺ сказал: “Я сделаю это, если пожелает Аллах!” На следующее утро, когда солнце поднялось уже высоко, Посланник Аллаха ﷺ пришёл ко мне вместе с Абу Бакром. Пророк ﷺ попросил разрешения войти, и я разрешил ему. (Войдя внутрь) он не стал садиться, а (сразу) спросил: “Где ты хотел бы чтобы я совершил молитву в твоем доме?”, — и он показал ему место, выбранное им для молитвы. Затем он (Пророк ﷺ) встал, мы же встали за ним, выстроившись в ряд. Затем он произнес слова таслима, и мы произнесли, когда произнес он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>840</td></tr><tr><td>Arabic No</td><td>840</td></tr><tr><td>Reference</td><td>Book 10 Hadith 232</td></tr></tbody></table></div>
 

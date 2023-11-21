@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "I saw (in a dream) a black woman wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Isma'il bin Abdullah] telah menceritakan kepadaku [Saudaraku, Abdul Hamid] dari [Sulaiman bin Bilal] dari [Musa bin 'Uqbah] dari [Salim bin Abdullah] dari [ayahnya], bahwasanya Nabi shallallahu 'alaihi wasallam bersabda; "Aku bermimpi melihat wanita hitam, rambutnya acaka-acakan keluar dari madinah hingga berdiri di Mahya'ah yaitu Juhfah, maka aku takwilkan bahwa wabah penyakit Madinah telah dipindahkan kesana
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7038</td></tr><tr><td>Arabic No</td><td>7038</td></tr><tr><td>Reference</td><td>Book 91 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Я увидел во сне, как чёрная женщина с растрёпанными волосами вышла из Медины и остановилась в Махйа‘а, и истолковал (этот сон) как то, что туда были перенесены (эпидемии) чумы(, которые прежде разражались) в Медине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7038</td></tr><tr><td>Arabic No</td><td>7038</td></tr><tr><td>Reference</td><td>Book 91 Hadith 52</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:Some lady said, "O Allah's Messenger (ﷺ)! My husband has another
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam] dari [Fathimah] dari [Asma'] dari Nabi shallallahu 'alaihi wasallam. - dalam riwayat lain- Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya] dari [Hisyam] dari [Fathimah] dari [Asma'] bahwa seroang wanita bertanya, "Wahai Rasulullah, sesungguhnya aku memiliki madu (isteri lain dari suaminya), karena itu apakah aku akan mendapat dosa, bila aku menampak-nampakkan kepuasan dari suamiku dengan suatu hal yang tak diberikannya kepadaku?" Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang yang menampakkan kepuasan dengan sesuatu yang tidak diberikan kepadanya adalah seperti halnya seorang yang memakai pakaian kepalsuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5219</td></tr><tr><td>Arabic No</td><td>5219</td></tr><tr><td>Reference</td><td>Book 67 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Асмы, да будет доволен ею Аллах, что (как-то раз) одна женщина сказала: «О Посланник Аллаха, у моего мужа есть ещё одна жена, так совершу ли я грех, если буду рассказывать о том, что он подарил мне то, чего на самом деле не дарил?» (В ответ на это) Посланник Аллаха ﷺ сказал: «Заявляющий о получении того, чего на самом деле ему не давали, подобен человеку, одевшему две чужие одежды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5219</td></tr><tr><td>Arabic No</td><td>5219</td></tr><tr><td>Reference</td><td>Book 67 Hadith 152</td></tr></tbody></table></div>
 

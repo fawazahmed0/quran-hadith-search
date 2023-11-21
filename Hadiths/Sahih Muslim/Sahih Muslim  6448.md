@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakra reported on the authority of his father that Allah's Messenger (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] lafazh ini milik Abu Bakr. Keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari ['Abdul Malik bin 'Umair] dari ['Abdur Rahman bin Abu Bakrah] dari [Bapaknya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagaimana pendapatmu jika kabilah Juhainah, Aslam, dan Ghifar, lebih baik dari Bani Tamim, bani Abdullah bin Ghathafan dan Amir bin Sha'sha'ah (beliau dengan memanjangkan suaranya).' Para sahabat menjawab; 'Ya Rasulullah, bukankah mereka sudah kalah dan rugi? Beliau bersabda: namun mereka lebih baik. Sedangkan di dalam riwayat Abu Kuraib: Apa pendapat kalian jika Juhainah, Muzainah, Aslam, dan Ghifar?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6448</td></tr><tr><td>Arabic No</td><td>2522.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6448</td></tr><tr><td>Arabic No</td><td>2522.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 277</td></tr></tbody></table></div>
 

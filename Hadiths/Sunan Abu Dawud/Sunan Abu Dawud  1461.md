@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id al-Khudri said:A man heard another man reciting "Say, He is Allah, One
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Abdurrahman bin Abdullah bin Abdurrahman] dari [Ayahnya] dari [Abu Sa'id Al Khudri] bahwa seorang laki-laki mendengar orang lain membaca; QUL HUWALLAAHU AHAD, ia mengulang-ulangnya. Kemudian tatkala pagi hari ia datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan menyebutkannya kepada beliau, seolah-olah orang tersebut menganggapnya sedikit. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku ada di tangannya, sesungguhnya ayat tersebut sama dengan sepertiga Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5013)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1461</td></tr><tr><td>Arabic No</td><td>1461</td></tr><tr><td>Reference</td><td>Book 8 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что один человек, услышавший, как другой много раз повторяет суру «Скажи: “Он, Аллах, Единственный…”», наутро пришёл к Посланнику Аллаха ﷺ и стал рассказывать ему об этом, говоря так, будто он считал её слишком маленькой. Тогда Пророк ﷺ сказал: «Клянусь Тем, в Чьей руке душа моя, поистине, она соответствует трети Корана!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5013)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1461</td></tr><tr><td>Arabic No</td><td>1461</td></tr><tr><td>Reference</td><td>Book 8 Hadith 46</td></tr></tbody></table></div>
 

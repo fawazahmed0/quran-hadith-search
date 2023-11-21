@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um-'Atiya:That the Prophet (ﷺ) at the time of washing his deceased da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Khalid] dari [Hafshah] dari [Ummu 'Athiyah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda kepada mereka saat memandikan puterinya: "Hendaklah kalian mulai dari yang sebelah kanan dan anggota wudlunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «Когда они обмывали тело его дочери, да будет доволен ею Аллах, Пророк ﷺ сказал им: “Начинайте (обмывать тело) с правой стороны и с тех его частей, которые необходимо омывать при омовении /вудуъ/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
 

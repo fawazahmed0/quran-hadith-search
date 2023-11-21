@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakr: AbuBarzah said: I was with AbuBakr. He became angry at a man a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Yunus] dari [Humaid bin Hilal] dari Nabi shallallahu 'alaihi wasallam. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Abdullah] dan [Nushair Ibnul Faraj] keduanya berkata; telah menceritakan kepada kami [Abu Usamah] dari [Yazid bin Zurai'] dari [Yunus bin Ubaid] dari [Humaid bin Hilal] dari [Abdullah bin Mutharrif] dari [Abu Barzah] ia berkata, "Aku pernah di dekat [Abu Bakar radliallahu 'anhu], ia marah kepada seorang laki-laki dan amarahnya semakin memuncak. Aku lalu berkata, "Wahai Khalifah Rasulullah shallallahu 'alaihi wasallam, bolehkan aku memenggal kepalanya?" Abu Barzah berkata, "Kata-kataku itu menjadikan amarahnya hilang. Ia lalu berdiri dan masuk ke dalam rumah. Kemudian Abu Bakar mengutus utusan (untuk memanggilku), Abu Bakar berkata, "Apa yang kamu katakan tadi?" aku menjawab, "Tadi aku minta izin untuk memenggal lehernya." Abu Bakar berkata lagi, "Apakah kamu akan melakukannya jika aku perintahkan untuk itu?" Aku menjawab, "Tentu." Abu Bakr lalu berkata, "Demi Allah, tidak! Tidak ada seorang pun boleh melebihi (petuah) Muhammad shallallahu 'alaihi wasallam." Abu Dawud berkata, "Ini adalah lafadz Yazid. Ahmad bin Hanbal berkata, "Maksudnya, Abu Bakar tidak akan membunuh seorang pun kecuali dengan salah satu dari tiga sebab (dibolehkannya membunuh seorang muslim) sebagaimana yang dikatakan oleh Rasulullah shallallahu 'alaihi wasallam. Yakni; kafir setelah beriman, zina setelah menikah dan membunuh jiwa. Itulah alasan yang dibolehkan Nabi shallallahu 'alaihi wasallam untuk membunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4363</td></tr><tr><td>Arabic No</td><td>4363</td></tr><tr><td>Reference</td><td>Book 40 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Барзы: «Я был у Абу Бакра, да будет доволен им Аллаха, и он сильно разгневался на одного человека. Тогда я сказал: “О преемник Посланника Аллаха! Может, мне отрубить ему голову?” От моих слов гнев Абу Бакра сразу испарился. Он встал, зашёл к себе, послал за мной и спросил: “Что ты сказал только что?” Я ответил: “Разреши мне отрубить ему голову”. Он спросил: “Ты бы сделал это, если бы я тебе приказал?” Я ответил: “Да”. Он сказал: “Нет, клянусь Аллахом, никто после Мухаммада ﷺ не имеет права поступать так!”». Абу Дауд сказал, что это версия Язида, а имам Ахмад сказал, поясняя последние слова Абу Бакра: «То есть не имеет права Абу Бакр убивать человека, кроме как в трёх случаях, упомянутых посланником Аллаха ﷺ: неверие после веры (вероотступничество), прелюбодеяние после вступления в брак и убийство человека не в качестве воздаяния равным за убийство, тогда как сам Посланник Аллаха ﷺ имел право казнить по другим причинам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4363</td></tr><tr><td>Arabic No</td><td>4363</td></tr><tr><td>Reference</td><td>Book 40 Hadith 13</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Salamah reported on the authority of Fatimah daughter of Qays who said to hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid Ar Ramli], Telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Abu Salamah] dari [Fathimah binti Qais] ia telah mengabarkan kepadanya bahwa ia dahulu adalah isteri Abu Hafsh bin Al Mughirah, dan Abu Hafsh bin Al Mughirah telah mencerainya ketiga kalinya, dan Fathimah mengaku bahwa ia datang kepada Rasulullah shallallahu 'alaihi wasallam serta meminta fatwa kepada beliau mengenai keluarnya dia dari rumahnya. Lalu beliau memerintahkannya agar berpindah ke rumah Ibnu Ummi Maktum orang yang buta. Lalu Marwan menolak mempercayai hadits Fathimah mengenai keluarnya wanita yang dicerai dari rumahnya. 'Urwah berkata; dan Aisyah radliallahu 'anha mengingkari Fathimah binti Qais. Abu Daud berkata; begitu pula hadits tersebut diriwayatkan oleh [Shalih bin Kaisan], serta [Ibnu Juraij], dan [Syu'aib bin Abu Hamzah] seluruh mereka berasal dari [Az Zuhri]. Abu Daud berkata; dan Syu'aib bin Abu Hamzah, sedangkan nama Abu Hamzah adalah Dinar, ia adalah mantan budak Ziyad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2289</td></tr><tr><td>Arabic No</td><td>2289</td></tr><tr><td>Reference</td><td>Book 13 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Фатимы бинт Кайс, да будет доволен ею Аллах, что она была женой Абу Хафса ибн аль-Мугиры и что Абу Хафс дал ей третий развод. После этого она пришла к Посланнику Аллаха ﷺ чтобы посоветоваться с ним относительно переезда в другой дом, и Посланник Аллаха ﷺ велел ей переехать в дом слепого Ибн Умм Мактума. Мерван отказывался верить в правдивость сообщения Фатимы, согласно которому разведённой женщине было разрешено покинуть свой дом. ‘Урва сказал: «‘Аиша порицала Фатиму бинт Кайс за это сообщение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2289</td></tr><tr><td>Arabic No</td><td>2289</td></tr><tr><td>Reference</td><td>Book 13 Hadith 115</td></tr></tbody></table></div>
 

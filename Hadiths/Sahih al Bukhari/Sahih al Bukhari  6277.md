@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The news of my fasting was mentioned to the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Khalid]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami ['Amru bin 'Aun] telah menceritakan kepada kami [Khalid] dari [Khalid] dari [Abu Qilabah] dia berkata; telah mengabarkan kepadaku [Abu Al Malih] dia berkata; "Aku bersama ayahmu Zaid pernah menemui [Abdullah bin 'Amru] kemudian dia menceritakan kepada kami bahwa Nabi shallallahu 'alaihi wasallam pernah mendengar kabar tentang puasaku, lalu beliau menemuiku, maka aku langsung menghamparkan bantal kulit yang dalamnya terbuat dari serabut, namun beliau duduk di atas tanah, hingga bantal tersebut berada antara aku dan beliau, beliau bersabda kepadaku: 'Tidakkah cukup bagimu (berpuasa) tiga hari setiap bulan? ' Jawabku; 'Wahai Rasulullah (aku mampu lebih dari itu -red).' Beliau bersabda: 'Kalau begitu lima hari (setiap bulan).' Jawabku; 'Wahai Rasulullah (aku masih mampu lebih dari itu -red).' Beliau bersabda: 'Kalau begitu tujuh hari (setiap bulan).' Jawabku; 'Wahai Rasulullah (aku mampu lebih dari itu -red).' Beliau bersabda: 'Kalau begitu sebelas hari (setiap bulan).' Aku berkata; 'Wahai Rasulullah, (aku mampu lebih dari itu).' Beliau bersabda: 'Tidak ada puasa lebih dari puasanya (nabi) Daud yaitu setengah masa, puasa sehari dan berbuka sehari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6277</td></tr><tr><td>Arabic No</td><td>6277</td></tr><tr><td>Reference</td><td>Book 79 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «Когда Пророку ﷺ рассказали о моем посте, он пришёл ко мне, и я положил для него кожаную подушку, набитую пальмовыми волокнами, но он сел на землю, и подушка осталась между мной и ним. И он сказал: “Разве тебе недостаточно, если ты будешь поститься по три дня в месяц?” Я ответил: “О Посланник Аллаха! (я могу поститься больше)”. Тогда он сказал: “Пять (дней в месяц)?” Я ответил: “О Посланник Аллаха! (я могу поститься больше)”. Тогда он сказал: “Семь (дней)?” Я ответил: “О Посланник Аллаха! (я могу поститься больше)”. Тогда он сказал: “Девять (дней)?” Я ответил: “О Посланник Аллаха! (я могу поститься больше)”. Тогда он сказал: “Одиннадцать (дней)”. Я ответил: “О Посланник Аллаха! (я могу поститься больше)”. Тогда Пророк ﷺ сказал: “Нет поста (лучше), чем пост Дауда, мир ему, постись через день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6277</td></tr><tr><td>Arabic No</td><td>6277</td></tr><tr><td>Reference</td><td>Book 79 Hadith 51</td></tr></tbody></table></div>
 

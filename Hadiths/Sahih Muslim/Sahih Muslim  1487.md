@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported:I have seen the time when no one stayed away from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], telah menceritakan kepada kami [Muhammad bin Bisyr Al 'Abdi], telah menceritakan kepada kami [Zakariya bin Abu Zaidah] telah menceritakan kepada kami [Abdul Malik bin Umair] dari [Abu Al Ahwash] katanya; [Abdullah] mengatakan; "Kami dahulu berpendapat, bahwa tidaklah seseorang yang tidak menghadiri shalat (jamaah) melainkan ia seorang munafik yang telah jelas kemunafikannya, atau kalaulah ia sakit, maka ia berjalan dengan cara dipapah diantara dua orang hingga ia hadiri shalat." Abdullah bin Mas'ud berkata; Rasulullah shallallahu 'alaihi wasallam telah mengajari kami sunnah-sunnah petunjuk, dan diantara sunnah petunjuk adalah shalat wajib di masjid yang karenanya dikumandangkan adzan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>654.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 320</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Никто из нас не пропускал (коллективную) молитву, кроме лицемера, известного своим лицемерием, или больного, (но иногда), чтобы прийти на (коллективную) молитву, (больной) передвигался (с помощью) двух человек». (‘Абдуллах также) сказал: «Поистине, Посланник Аллаха ﷺ учил нас обычаям /сунан/ правильного пути, а (совершение коллективной) молитвы в мечети, в которой возглашается азан, относится к числу обычаев правильного пути»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>654.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 320</td></tr></tbody></table></div>
 

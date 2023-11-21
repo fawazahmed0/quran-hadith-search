@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "Whoever died and he ought to have
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Khalid] telah menceritakan kepada kami [Muhammad bin Musa bin A'yan] telah menceritakan kepada kami [bapakku] dari ['Amru bin Al Harits] dari ['Ubaidullah bin Abu Ja'far] bahwa [Muhammad bin Ja'far] menceritakan kepadanya dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa meninggal dunia dan memiliki hutang puasa maka walinya (boleh) berpuasa untuknya". Hadits ini dikuatkan pula oleh [Ibnu Wahab] dari ['Amru]. Dan [Yahya bin Ayyub] meriwayatkannya dari [Ibnu Abu Ja'far]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 30 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Пусть за умершего, которому предстояло соблюдать пост, постится (кто-нибудь из его) близких»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 30 Hadith 59</td></tr></tbody></table></div>
 

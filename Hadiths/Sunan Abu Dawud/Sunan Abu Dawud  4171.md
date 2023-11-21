@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa'id b. Jubair said:There is no harm in fastening the hair with silk or woollen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ja'far bin Ziyad] ia berkata; telah menceritakan kepada kami [Syarik] dari [Salim] dari [Sa'id bin Jubair] ia berkata, "Benang sutera tidak apa-apa." Abu Dawud berkata, "Seakan-akan ia berpendapat bahwa yang dilarang adalah rambut wanita." Abu Dawud berkata, "Ahmad berkata, "Benang dari sutera tidak ada masalah (boleh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4171</td></tr><tr><td>Arabic No</td><td>4171</td></tr><tr><td>Reference</td><td>Book 35 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн Джубайр сказал, что разрешается подвязывать (к волосам) искусственные косы (, например, косы из шёлковых или шерстяных нитей). Абу Давуд сказал: «Вероятно, он считал, что запрет распространяется только на настоящие женские волосы, а всё остальное, что подвязывают, не является запретным». Абу Давуд сказал: «Ахмад говорил, что косы из искусственных материалов не являются запретными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4171</td></tr><tr><td>Arabic No</td><td>4171</td></tr><tr><td>Reference</td><td>Book 35 Hadith 13</td></tr></tbody></table></div>
 

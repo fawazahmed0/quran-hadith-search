@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:Allah, the Exalted, would awaken the Messenger of Allah (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin Yazid Al Kufi] telah menceritakan kepada kami [Hafsh] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa di bangunkan oleh Allah Azza wa Jalla di setiap malam, dan tidaklah datang waktu sahur melainkan beliau telah menyelesaikan (bacaan) wiridnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1316</td></tr><tr><td>Arabic No</td><td>1316</td></tr><tr><td>Reference</td><td>Book 5 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах: «Поистине, Всемогущий и Великий Аллах будил Посланника Аллаха ﷺ в определённое время ночью и он всегда успевал совершить свою обычную молитву до наступления последней шестой части»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1316</td></tr><tr><td>Arabic No</td><td>1316</td></tr><tr><td>Reference</td><td>Book 5 Hadith 67</td></tr></tbody></table></div>
 

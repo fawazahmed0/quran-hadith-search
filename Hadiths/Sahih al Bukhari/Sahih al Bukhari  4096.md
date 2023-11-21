@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Asim Al-Ahwal:I asked Anas bin Malik regarding Al-Qunut during the pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4096</td></tr><tr><td>Arabic No</td><td>4096</td></tr><tr><td>Reference</td><td>Book 64 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Асым ибн аль-Ахуаль сказал: «(Однажды) я спросил у Анаса ибн Малика, да будет доволен им Аллах, об обращениях к Аллаху с мольбами (кунут) во время молитвы, и (в ответ) он сказал: “Да (кунут был)!” Я спросил: “До совершения поясного поклона или после?” Он ответил: “До него”. Он сказал: “А такой-то сообщил мне, что ты сказал, будто это имело место после совершения поясного поклона”. (Тогда Анас) сказал: “Он солгал. Посланник Аллаха ﷺ обращался с такими мольбами после поясных поклонов только в течение одного месяца. (Дело в том, что в своё время Пророк ﷺ) отправил семьдесят человек, которых называли “чтецами”, к людям из числа многобожников, с которыми у Посланника Аллаха ﷺ был (мирный) договор. Однако они нарушили этот договор, и после этого Посланник Аллаха ﷺ в течение месяца обращался (к Аллаху с мольбами) кунут, после поясного поклона покарать их (за это)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4096</td></tr><tr><td>Arabic No</td><td>4096</td></tr><tr><td>Reference</td><td>Book 64 Hadith 140</td></tr></tbody></table></div>
 

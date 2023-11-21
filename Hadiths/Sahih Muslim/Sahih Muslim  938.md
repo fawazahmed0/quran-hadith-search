@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Apostle (ﷺ), said:When the Messenger of Allah (ﷺ) fe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin al-Laits] telah menceritakan kepadaku [Bapakku] dari [Kakekku] dia berkata, telah menceritakan kepadaku [Uqail bin Khalid] [Ibnu Syihab] berkata, telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] bahwa [Aisyah], istri Nabi shallallahu 'alaihi wasallam berkata, "Ketika Rasululllah shallallahu 'alaihi wasallam merasa berat, dan sakitlah telah parah, maka beliau meminta izin para istrinya untuk menderita sakit di rumahku. Lalu mereka memberikan izin kepada beliau, lalu beliau keluar di papah di antara dua orang laki-laki, kedua kakinya tidak bisa berjalan di tanah, yaitu di antara Abbas bin Abdul Muththalib dan seorang laki-laki lainnya." [Ubaidullah] berkata, "Lalu aku mengabarkan kepada Abdullah hadits yang dikatakan oleh Aisyah, maka [Abdullah bin Abbas] berkata kepadaku, 'Apakah kamu tahu, siapakah laki lain yang tidak disebutkan namanya oleh Aisyah.' Perawi berkata, "Aku berkata, 'Tidak, aku tidak tahu'. Ibnu Abbas berkata, "Dia adalah Ali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>418.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Когда Посланнику Аллаха ﷺ стало (совсем) тяжко, и его страдания усилились, он попросил своих жён, чтобы за ним ухаживали в моём доме, и они дали на это своё согласие. И (однажды) он вышел между двумя мужчинами, (которые поддерживали его справа и слева,) задевая ногами землю, а находился он между ‘Аббасом ибн ‘Абдульматталибом и другим мужчиной”».‘Убайдуллах (передатчик хадиса) сказал: «Я сообщил ‘Абдуллаху о том, что сказала ‘Аиша и ‘Абдуллах ибн ‘Аббас сказал мне: “Знаешь ли ты, кто был этим другим человеком, которого не назвала ’Аиша?” Я ответил: “Нет”. Ибн ‘Аббас сказал: “(Им был) ‘Али”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>418.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 100</td></tr></tbody></table></div>
 

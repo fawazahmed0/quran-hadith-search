@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: Mujahid said that Abdullah ibn Amr slaught
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] berkata, telah menceritakan kepada kami [Sufyan] dari [Basyir Abu Isma'il] dari [Mujahid] dari [Abdullah bin Amru] Bahwasanya ia pernah menyembelih kambing, lalu ia berkata, "Hendaklah kalian beri tetanggaku yang Yahudi. Sesungguhnya aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jibril senantiasa memberiku nasihat agar aku berbuat baik kepada tetanggaku, hingga aku punya perkiraaan bahwa dia menjadi ahli warisnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5152</td></tr><tr><td>Arabic No</td><td>5152</td></tr><tr><td>Reference</td><td>Book 43 Hadith 380</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5152</td></tr><tr><td>Arabic No</td><td>5152</td></tr><tr><td>Reference</td><td>Book 43 Hadith 380</td></tr></tbody></table></div>
 

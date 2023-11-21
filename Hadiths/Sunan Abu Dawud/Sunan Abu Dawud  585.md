@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Ayyub] dari [Amru bin Salamah] dia berkata; Kami pernah berada di suatu tempat yang sering dilewati oleh orang orang yang datang menghadap kepada Nabi shallallahu 'alaihi wasallam. Apabila mereka pulang, mereka melewati kami, lalu mereka memberitahukan kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam bersabda begini dan begini. Saya adalah seorang pemuda yang kuat hafalannya, karena itu saya telah mampu menghafal banyak ayat-ayat Al Quran. Ayahku pernah datang menghadap kepada Rasulullah shallallahu 'alaihi wasallam bersama beberapa orang sebagai utusan kaumnya. Lalu beliau mengajarkan kepada mereka tentang shalat, beliau bersabda: "Yang berhak menjadi imam kalian (dalam shalat) adalah yang paling ahli dalam membaca Al Quran." (Pada saat itu) sayalah yang paling ahli dalam membaca Al Quran di antara mereka, karena saya sudah dapat menghafalnya, lalu mereka mengajukanku (untuk menjadi imam). Maka saya pun menjadi imam mereka dengan memakai kain yang kecil berwarna kuning, sehingga kalau saya sujud, terbuka auratku sedikit Lalu seorang wanita di antara mereka berkata; Tutupilah dari kami aurat ahli Al Quran (yang jadi imam) kalian. Lalu mereka pun membelikan untukku baju buatan Oman, sehingga tidak pernah saya bahagia setelah masuk Islam seperti bahagiaku dengannya. Saya menjadi imam mereka, sedang usiaku baru tujuh atau delapan tahun. Telah menceritakan kepada kami [An-Nufaili] telah menceritakan kepada kami [Zhair] telah menceritakan kepada kami ['Ashim Al-Ahwal] dari [Amru bin Salamah] dengan hadits ini, dia berkata; Saya mengimami mereka dengan hanya memakai pakaian tambalan yang sobek, sehingga apabila saya bersujud, pantatku terlihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (54)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>585</td></tr><tr><td>Arabic No</td><td>585</td></tr><tr><td>Reference</td><td>Book 2 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Салима сказал: «(Когда) мы находились в поселении, мимо нас проезжали люди, которые направлялись к Пророку ﷺ, а когда они возвращались, они опять проезжали мимо нас и сообщали нам о том, что Посланник Аллаха ﷺ сказал то-то и то-то. Я был (в это время) мальчиком с хорошей памятью и запоминал из того, что (они рассказывали) много (аятов из) Корана. И когда мой отец отправился с делегацией к Посланнику Аллаха ﷺ с группой из числа его племени, и он научив их молитве, сказал: “Пусть будет имамом для вас тот, кто лучше всех вас знает Коран”. И я больше всех из них знал Коран из-за того, что я запомнил его и они поставили меня впереди (в качестве имама).Возглавляя их (в молитве), на мне была короткая накидка жёлтого цвета, и когда я совершал земной поклон, она задиралась, и одна из женщин сказала: “Прикройте ‘аурат вашего чтеца, (чтобы нам не видеть его)!”, после чего (люди) купили мне оманскую рубаху, и ничему я не радовался (тогда так сильно), после Ислама, как этой (рубахе). И я возглавлял их в молитве, когда мне было семь или восемь лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (54)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>585</td></tr><tr><td>Arabic No</td><td>585</td></tr><tr><td>Reference</td><td>Book 2 Hadith 195</td></tr></tbody></table></div>
 

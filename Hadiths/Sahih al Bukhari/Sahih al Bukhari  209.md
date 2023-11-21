@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Suwaid bin Al-Nu'man:In the year of the conquest of Khaibar I went with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari [Busyair bin Yasar] mantan budak Bani Haritsah, bahwa [Suwaid bin An Nu'man] mengabarkan kepadanya, bahwa ia pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam pada tahun pendudukan Khaibar, hingga ketika mereka sampai di Shahba', suatu wilayah di pinggiran Khaibar, beliau mengerjakan shalat Ashar. Lalu beliau minta diambilkan makanan dari perbekalan yang mereka bawa, namun tidak didapatkan kecuali makanan yang terbuat dari kurma dan gandum. Beliau kemudian memerintahkan untuk menghidangkannya, maka dicampurlah makanan tersebut dengan air hingga menjadi adonan, Rasulullah shallallahu 'alaihi wasallam makan dan kami pun ikut makan. Setelah itu beliau berdiri untuk shalat Maghrib, beliau lalu berkumur-kumur dan kami juga ikut berkumur-kumur, lalu beliau shalat tanpa berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>209</td></tr><tr><td>Arabic No</td><td>209</td></tr><tr><td>Reference</td><td>Book 4 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сувайд ибн ан-Ну‘ман, да будет доволен им Аллах, передал, что в год Хайбара он вместе с посланником Аллаха ﷺ выступил (из Медины). Когда они достигли Сахбы, расположенной поблизости от Хайбара, (Пророк ﷺ) совершил послеполуденную /‘аср/ молитву, а затем велел принести еду, однако подать могли только савик, который по его велению увлажнили. Затем Посланник Аллаха ﷺ и все остальные поели, после чего он поднялся с места для совершения закатной /магъриб/ молитвы и прополоскал рот, что сделали и все остальные, а потом он приступил к молитве, не совершив омовения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>209</td></tr><tr><td>Arabic No</td><td>209</td></tr><tr><td>Reference</td><td>Book 4 Hadith 75</td></tr></tbody></table></div>
 

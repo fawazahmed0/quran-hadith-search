@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "I give to Quraish people in order to let 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Qatadah] dari [Anas radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam bersabda: "Sungguh aku membagikan (ghanimah) kepada Quraisy untuk mengikat mereka (dalam Islam) karena mereka masih sangat dekat dengan masa-masa (kebiasaan) jahiliyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>3146</td></tr><tr><td>Reference</td><td>Book 57 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, я делаю курайшитам подарки, чтобы добиться их расположения, ибо они ещё близки к джахилийи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>3146</td></tr><tr><td>Reference</td><td>Book 57 Hadith 54</td></tr></tbody></table></div>
 

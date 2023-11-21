@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported that Abu Lubaba had informed him that Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami [Ishaq bin Musa Al Anshari]; Telah menceritakan kepada kami [Anas bin 'Iyadh]; Telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari ['Abdullah bin 'Umar] dari [Abu Lubabah] dari Nabi shallallahu 'alaihi wasallam. Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku ['Abdullah bin Muhammad bin Asma' Adh Dhuba'i] Telah menceritakan kepada kami [Juwariyah] dari [Nafi'] dari ['Abdullah] bahwa [Abu Lubabah] Telah mengabarkan kepadanya; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang membunuh ular-ular kecil yang berada di rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5831</td></tr><tr><td>Arabic No</td><td>2233.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5831</td></tr><tr><td>Arabic No</td><td>2233.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 182</td></tr></tbody></table></div>
 

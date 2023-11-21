@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Huzayl: A man came. Uthman's version has: Sa'd ibn AbuWaqqas came. He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Hafsh] dari [Al A'masy] dari [Thalhah] dari [Huzail] ia berkata, "Seorang laki-laki datang - [Sa'd] berkata; - dan berhenti di depan pintu Nabi shallallahu 'alaihi wasallam untuk minta izin masuk, maka ia pun berdiri di depan pintu -Utsman menyebutkan; menghadap ke arah pintu-. Lalu Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Jauhilah olehmu seperti ini (berdiri di depan pintu). Atau beliau mengatakan: "Seperti ini jangan kamu lakukan, hanyasanya diperintahkan untuk izin karena menjaga dari pandangan." Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Abu Dawud Al Hafari] dari [Sufyan] dari [Al A'masy] dari [Thalhah bin Musharrif] dari [seorang laki-laki] dari [Sa'd] seperti itu, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5174</td></tr><tr><td>Arabic No</td><td>5174</td></tr><tr><td>Reference</td><td>Book 43 Hadith 402</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5174</td></tr><tr><td>Arabic No</td><td>5174</td></tr><tr><td>Reference</td><td>Book 43 Hadith 402</td></tr></tbody></table></div>
 

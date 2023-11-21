@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Sulaiman b. Yasar who said:People dispe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Yunus bin Yusuf] dari [Sulaiman bin Yasar] dia berkata, "Orang-orang berpencar dari hadapan [Abu Hurairah], setelah itu Natil, seorang penduduk Syam, bertanya, "Wahai Syaikh, ceritakanlah kepada kami hadits yang pernah kamu dengar dari Rasulullah shallallahu 'alaihi wasallam!" dia menjawab, "Ya, saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya manusia yang pertama kali dihisap pada hari Kiamat ialah seseorang yang mati syahid, lalu diperlihatkan kepadanya kenikmatan sehingga ia mengetahuinya dengan jelas, lantas Dia bertanya: 'Apa yang telah kamu lakukan di dunia wahai hamba-Ku? Dia menjawab: 'Saya berjuang dan berperang demi Engkau ya Allah sehingga saya mati syahid.' Allah berfirman: 'Dusta kamu, sebenarnya kamu berperang bukan karena untuk-Ku, melainkan agar kamu disebut sebagai orang yang berani. Kini kamu telah menyandang gelar tersebut.' Kemudian diperintahkan kepadanya supaya dicampakkan dan dilemparkan ke dalam neraka. Dan didatangkan pula seseorang yang belajar Al-Qur'an dan mengajarkannya, lalu diperlihatkan kepadanya kenikmatan sehingga ia mengetahuinya dengan jelas, Allah bertanya: 'Apa yang telah kamu perbuat? ' Dia menjawab, 'Saya telah belajar ilmu dan mengajarkannya, saya juga membaca Al Qur'an demi Engkau.' Allah berfirman: 'Kamu dusta, akan tetapi kamu belajar ilmu dan mengajarkannya serta membaca Al Qur'an agar dikatakan seorang yang mahir dalam membaca, dan kini kamu telah dikatakan seperti itu, kemudian diperintahkan kepadanya supaya dia dicampakkan dan dilemparkan ke dalam neraka. Dan seorang laki-laki yang di beri keluasan rizki oleh Allah, kemudian dia menginfakkan hartanya semua, lalu diperlihatkan kepadanya kenikmatan sehingga ia mengetahuinya dengan jelas.' Allah bertanya: 'Apa yang telah kamu perbuat dengannya? ' dia menjawab, 'Saya tidak meninggalkannya sedikit pun melainkan saya infakkan harta benda tersebut di jalan yang Engkau ridlai." Allah berfirman: 'Dusta kamu, akan tetapi kamu melakukan hal itu supaya kamu dikatakan seorang yang dermawan, dan kini kamu telah dikatakan seperti itu.' Kemudian diperintahkan kepadanya supaya dia dicampakkan dan dilemparkan ke dalam neraka." Dan telah menceritakan kepadaku [Ali bin Khasyram] telah mengabarkan kepada kami [Al Hajjaj] -yaitu Ibnu Muhammad- dari [Ibnu Juraij] telah menceritakan kepadaku [Yunus bin Yusuf] dari [Sulaiman bin Yasar] dia berkata, "Orang-orang berpencar dari hadapan [Abu Hurairah], lantas Natil As Syami …kemudian dia menyebutkan hadits tersebut seperti haditsnya Khalid bin Al Harits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>1905.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>1905.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 218</td></tr></tbody></table></div>
 

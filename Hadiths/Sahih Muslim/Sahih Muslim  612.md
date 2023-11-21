@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar said:I went up to the roof of the house of my sister Hafsa and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman] -yaitu Ibnu Bilal- dari [Yahya bin Sa'id] dari [Muhammad bin Yahya] dari pamannya [Wasi' bin Habban] dia berkata, "Aku melakukan shalat di masjid, sementara [Abdullah bin Umar] menyandarkan punggungnya ke kiblat. Ketika aku telah menyelesaikan shalatku, maka aku bergerak kepadanya dari sisiku. Abdullah lalu berkata, 'Orang bilang, 'Apabila kamu duduk untuk buang air besar, maka janganlah kamu menghadap ke arah kiblat atau menghadap ke arah Baitul Maqdis.' Abdullah melanjutkan ucapannya, 'Sungguh, aku pernah naik ke atas loteng rumah, lalu aku melihat Rasulullah shallallahu 'alaihi wasallam duduk di atas dua batu dengan menghadap ke Baitul Maqdis saat buang air besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>266.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «(Однажды) я поднялся на крышу дома моей сестры Хафсы и увидел Посланника Аллаха ﷺ, присевшего по своей нужде, повернувшись лицом в сторону Шама, спиной в сторону киблы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>266.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 79</td></tr></tbody></table></div>
 

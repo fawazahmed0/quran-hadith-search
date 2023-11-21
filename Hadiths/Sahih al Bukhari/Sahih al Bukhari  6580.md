@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "The width of my Lake-Foun
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] mengatakan, telah menceritakan kepadaku [Ibnu Wahab] dari [Yunus], [Ibnu Syihab] mengatakan; telah menceritakan kepadaku [Anas bin Malik] radliyallahu'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Luas telagaku bagaikan antara Eiliya dan Shan'a di Yaman, dan berisikan kendi-kendi yang jumlahnya bagaikan jumlah bintang di langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6580</td></tr><tr><td>Arabic No</td><td>6580</td></tr><tr><td>Reference</td><td>Book 81 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Размеры) моего Водоёма сравнимы с (расстоянием) между Айлой и йеменской Саной, а кувшины(, имеющиеся на его берегах,) по численности своей подобны небесным звёздам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6580</td></tr><tr><td>Arabic No</td><td>6580</td></tr><tr><td>Reference</td><td>Book 81 Hadith 168</td></tr></tbody></table></div>
 

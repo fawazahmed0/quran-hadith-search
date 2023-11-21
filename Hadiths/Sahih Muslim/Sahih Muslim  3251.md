@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Abbas reported that while al-Fadl b. Abbas had been riding behind A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Sulaiman bin Yasar] dari [Abdullah bin Abbas] bahwa ia berkata; Fadl bin Abbas pernah membonceng di belakang Rasulullah shallallahu 'alaihi wasallam, tiba-tiba seorang wanita dari Khats'am meminta fatwa kepada beliau. Fadll menengok kepada perempuan itu dan perempuan itu pun menengok Fadll. Maka Rasulullah shallallahu 'alaihi wasallam memalingkan wajah Fadll ke arah lain. Perempuan itu berkata, "Wahai Rasulullah! Kewajiban untuk menunaikan haji terpikul atas bapakku yang sudah tua renta. Ia tidak lagi sanggup duduk di atas kendaraan. Bolehkah aku menggantikannya?" beliau menjawab: "Boleh." Dan hal itu terjadi pada saat haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3251</td></tr><tr><td>Arabic No</td><td>1334</td></tr><tr><td>Reference</td><td>Book 15 Hadith 455</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3251</td></tr><tr><td>Arabic No</td><td>1334</td></tr><tr><td>Reference</td><td>Book 15 Hadith 455</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the same authority by Ubaidullah. And in the na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata, Telah menceritakan kepada kami [Yahya Al Qaththan] dari [Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang wanita tidak boleh bepergian selama tiga hari kecuali disertai mahramnya." Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Usamah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [bapakku] dari [Ubaidullah] dengan isnad ini. Dan di dalam riwayatnya Abu Bakr tercantum; "Di atas tiga (hari)." Dan ia juga berkata di dalam riwayatnya, dari bapaknya; "Kecuali bila ia bersama mahramnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3259</td></tr><tr><td>Arabic No</td><td>1338.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 463</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3259</td></tr><tr><td>Arabic No</td><td>1338.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 463</td></tr></tbody></table></div>
 

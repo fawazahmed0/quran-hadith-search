@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama Ibn Al-'Akwa' (que Dieu l'agrée) a dit : "Quand le soleil quitta le mér
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Ishaq bin Ibrahim] keduanya berkata, telah mengabarkan kepada kami [Waki'] dari [Ya'la bin Al Harits Al Maharibi] dari [Iyas bin Salamah bin Al Akwa'] dari [bapaknya] ia berkata; "Kami shalat Jum'at bersama Rasulullah shallallahu 'alaihi wasallam ketika matahari tergelincir. Setelah itu kami pulang dalam keadaan masih perlu mencari-cari naungan untuk tempat berlindung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1992</td></tr><tr><td>Arabic No</td><td>860.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘ сказал: «Обычно мы приступали к пятничной молитве с Посланником Аллаха ﷺ тогда, когда солнце начинало клониться к закату, а затем возвращались и пытались найти послеполуденную тень»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1992</td></tr><tr><td>Arabic No</td><td>860.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 42</td></tr></tbody></table></div>
 

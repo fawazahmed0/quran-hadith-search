@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "A person is considered in pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] telah menceritakan kepada kami [Sa'id Al Maqburi] dari [Abu Hurairah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Seorang hamba akan selalu dihitung shalat selama ia di masjid menunggu shalat dan tidak berhadats." Lalu ada seorang laki-laki non-Arab berkata, "Apa yang dimaksud dengan hadats wahai Abu Hurairah?" Abu Hurairah menjawab, "Suara." Yaitu kentut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>176</td></tr><tr><td>Arabic No</td><td>176</td></tr><tr><td>Reference</td><td>Book 4 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Если раб (Аллаха) не осквернится, молитва его будет продолжаться всё то время, которое он проведёт в мечети в ожидании (следующей) молитвы”».\nОдин чужестранец спросил: «А что такое осквернение о Абу Хурайра?» Он ответил: «Звук», имея в виду выпускание кишечных газов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>176</td></tr><tr><td>Arabic No</td><td>176</td></tr><tr><td>Reference</td><td>Book 4 Hadith 42</td></tr></tbody></table></div>
 

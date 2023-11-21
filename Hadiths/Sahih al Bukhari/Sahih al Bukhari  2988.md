@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi' from 'Abdullah:Allah's Messenger (ﷺ) came to Mecca through its 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] berkata [Yunus] telah mengabarkan kepadaku [Nafi'] dari ['Abdullah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam datang pada Hari Penaklukan dari ujung Makkah dengan menunggang hewan tunggangannya dengan membonceng Usamah bin Zaid dan bersama Beliau ada Bilal, 'Utsman bin Thalhah sekembalinya dari Al Hajbah (juru kunci dan pengurus Ka'bah) kemudian Belia menyuruh untanya berlutut di depan masjid, lalu Beliau memerintahkan agar membawakan kunci Baitullah (Ka'bah) kemudian Rasulullah shallallahu 'alaihi wasallam membukanya lalu masuk bersama Usamah dan Bilal serta 'Utsman. Beliau berada didalamnya sepanjang siang itu lalu keluar. Maka orang-orang berebut untuk dapat masuk dan 'Abdullah bin 'Umar adalah orang yang pertama masuk dari mereka lalu dia mendapatkan Bilal di balik pintu sedang berdiri maka dia menanyakannya dimana Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat. Maka Bilal memberi isyarat ke suatu tempat dimana Beliau shalat". 'Abdullah berkata: "Aku lupa bertanya kepada Bilal berapa raka'at Beliau melaksanakan shalat di dalam Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2988</td></tr><tr><td>Arabic No</td><td>2988</td></tr><tr><td>Reference</td><td>Book 56 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что в день овладения Меккой Посланник Аллаха ﷺ подъехал к городу со стороны его верхней части. Он ехал верхом на своей верблюдице, позади него сидел Усама бин Зейд, а Билял и ‘Усман бин Тальха, один из служителей (Каабы), сопровождали его, пока он не опустил (свою верблюдицу) на колени на (территории) мечети, где велел (Тальхе) принести ключи (от храма. Когда Тальха) открыл (двери,) Посланник Аллаха ﷺ вместе с Усамой, Билялом и ‘Усманом вошёл внутрь в дневное время и долго оставался там. Потом он вышел, после чего люди поспешили (к Каабе), и первым из вошедших туда был ‘Абдуллах бин ‘Умар. За воротами он увидел стоявшего Биляла, которого спросил: “Где совершил намаз Посланник Аллаха ﷺ ?” и (Билял) показал ему место, где совершал намаз (Пророк ﷺ ). ‘Абдуллах (бин ‘Умар, да будет доволен Аллах ими обоими,) сказал: «И я забыл спросить его, сколько земных поклонов он совершил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2988</td></tr><tr><td>Arabic No</td><td>2988</td></tr><tr><td>Reference</td><td>Book 56 Hadith 197</td></tr></tbody></table></div>
 

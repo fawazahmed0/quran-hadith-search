@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu bakr b. ‘Abd al-Rahman and abu Salamah said:Abu Hurairah would utter the t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Utsman] telah menceritakan kepada kami [Ubay] dan [Baqiyah] dari [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Abu Bakar bin Abdurrahman] dan [Abu Salamah] bahwa [Abu Hurairah] selalu bertakbir di setiap shalat wajib maupun shalat sunnah, dia bertakbir ketika berdiri, bertakbir ketika ruku' kemudian mengucapkan; "SAMI'ALLAAHU LIMAN HAMIDAH" Lalu mengucapkan; "RABBANA WALAKAL HAMDU (wahai Rabb kami, bagi-Mu lah segala pujian) " yaitu sebelum sujud, setelah itu dia mengucapkan; "Allahu akbar" ketika tersungkur sujud, bertakbir ketika bangun dari sujud, bertakbir ketika sujud (kedua), bertakbir ketika bangun dari sujud, bertakbir ketika bangun dari duduknya pada raka'at kedua, yang demikian itu di lakukannya pada setiap raka'at hingga selesai shalat. seusai shalat dia mengucapkan; "Demi dzat yang jiwaku berada di tangan-Nya, sesungguhnya shalatku lah yang paling menyerupai shalat Rasulullah shallallahu 'alaihi wasallam, Sesungguhnya shalat yang seperti ini merupakan shalat Rasulullah shallallahu 'alaihi wasallam sehingga beliau meninggal dunia." Abu Daud berkata; "Ini adalah perkataan terakhir yang di jadikan oleh [Malik] dan [Zubaidi] serta yang lain sebagai (perkataannya) Az Zuhri dari [Ali bin Husain] yang di sepakati oleh [Abdul A'la] dari [Ma'mar Syu'aib bin Abu Hamzah] dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (803)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>836</td></tr><tr><td>Arabic No</td><td>836</td></tr><tr><td>Reference</td><td>Book 2 Hadith 446</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакр ибн ‘Абду-р-Рахман и Абу Саляма передают, что Абу Хурайра, да будет доволен им Аллах, произносил такбиры во всех молитвах, как в обязательных, так и во всех остальных. Он произносил такбир, когда стоял и когда совершал поясной поклон, потом говорил: «Да услышит Аллах того, кто восхваляет Его», а потом: «Господь наш, хвала Тебе!» Затем он произносил такбир перед земным поклоном, когда поднимался из него, перед совершением второго земного поклона, когда поднимался из него. Он также произносил такбир, когда поднимался после совершения второго рак‘ата. Так он поступал в каждом рак‘ате, пока не завершал молитву. Перед уходом он говорил: «Клянусь Тем, в Чьей руке душа моя, моя молитва ближе к молитве Посланника Аллаха ﷺ чем молитва любого из вас. Такой была его молитва до тех пор, пока он не покинул мир этот».Абу Дауд сказал: «Эти последние слова Малик, аз-Зубайди и другие передают от аз-Зухри, от ‘Али ибн Хусейна. И ‘Абду-ль-А‘ля передаёт от Мамара Шу‘айба ибн Абу Хамзы от аз-Зухри»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (803)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>836</td></tr><tr><td>Arabic No</td><td>836</td></tr><tr><td>Reference</td><td>Book 2 Hadith 446</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet; said, "A slave (of Allah) may utter a word whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Munir] dia mendengar [Abu An Nadlr] telah menceritakan kepada kami [Abdurrahman bin Abdullah yaitu Ibnu Dinar] dari [Ayahnya] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sungguh seorang hamba akan mengucapkan sebuah kalimat yang diridlai Allah, suatu kalimat yang ia tidak mempedulikannya, namun dengannya Allah mengangkatnya beberapa derajat. Dan sungguh, seorang hamba akan mengucapkan sebuah kalimat yang dibenci oleh Allah, suatu kalimat yang ia tidak meperdulikannya, namun dengannya Allah melemparkannya ke dalam neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6478</td></tr><tr><td>Arabic No</td><td>6478</td></tr><tr><td>Reference</td><td>Book 81 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, раб может сказать что-нибудь угодное Аллаху Всевышнему, чему сам он и не придаст значения, но за что Аллах возвысит (его) на (много) ступеней. И, поистине, раб может сказать что-нибудь такое, что вызовет ярость Аллаха Всевышнего, чему сам (сказавший это) и не придаст значения, но из-за чего он будет ввергнут в Ад»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6478</td></tr><tr><td>Arabic No</td><td>6478</td></tr><tr><td>Reference</td><td>Book 81 Hadith 67</td></tr></tbody></table></div>
 

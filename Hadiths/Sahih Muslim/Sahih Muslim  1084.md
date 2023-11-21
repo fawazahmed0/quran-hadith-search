@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) used to say while prostrating 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu ath-Thahir] dan [Yunus bin Abdul A'la] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yahya bin Ayyub] dari [Umarah bin Ghaziyyah] dari [Sumai, maula Abu Bakar] dari [Abu Shalih] dari [Abu Hurairah Radhiyallahu'anhu] bahwa Rasulullah Shallallahu'alaihiwasallam dalam sujudnya mengucapkan do'a, "Allahummaghfirli Dzanbi Kullahu Diqqahu Wajullahu Wa Awwalahu Wa Akhirahu Wa 'Alaniyatahu Wa Sirrahu (Ya Allah, ampunilah semua dosa-dosaku, yang kecil maupun yang besar, yang awal maupun yang akhir, dan yang terang-terangan maupun yang sembunyi-sembunyi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1084</td></tr><tr><td>Arabic No</td><td>483</td></tr><tr><td>Reference</td><td>Book 4 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что во время совершения земных поклонов Посланник Аллаха ﷺ говорил: «О Аллах, прости мне все мои грехи: малые и большие, первые и последние, явные и тайные!» /Аллахумма-гфир ли занби кулля-ху: дыкка-ху ва джилля-ху, ва авваля-ху ва ахыра-ху, ва ‘алянийата-ху ва сирра-ху
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1084</td></tr><tr><td>Arabic No</td><td>483</td></tr><tr><td>Reference</td><td>Book 4 Hadith 246</td></tr></tbody></table></div>
 

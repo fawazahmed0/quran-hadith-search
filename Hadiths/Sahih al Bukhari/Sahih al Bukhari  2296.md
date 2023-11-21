@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Once the Prophet (ﷺ) said (to me), "If the money 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru] dia mendengar [Muhammad bin 'Ali] dari [Jabir bin 'Abdullah radliallahu 'anhum] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Seandainya tiba kepada kita harta dari negeri Bahrain aku pasti memberikan kepadamu sekian, sekian dan sekian". namun harta dari Bahrain tidak kunjung datang hingga Nabi shallallahu 'alaihi wasallam wafat. Ketika harta dari Bahrain datang Abu Bakar memerintahkan dan berseru: "Siapa yang telah dijanjikan sesuatu atau dihutangi oleh Nabi shallallahu 'alaihi wasallam hendaklah menemui kami". Maka aku mendatanginya dan aku katakan bahwa Nabi shallallahu 'alaihi wasallam telah berkata kepadaku begini dan begitu, lalu ia (Abu Bakar) memberiku setangkup, lalu aku menghitungnya ternyata ia berjumlah lima ratus, lalu ia berkata; "Ambillah dua kali lagi seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2296</td></tr><tr><td>Arabic No</td><td>2296</td></tr><tr><td>Reference</td><td>Book 39 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ сказал (мне): “Если бы доставили деньги из Бахрейна, я дал бы тебе то-то, то-то и то-то”, (однако) при жизни Пророка ﷺ денег из Бахрейна больше не привозили, а когда их доставили, по велению Абу Бакра (было объявлено): “Пусть придёт к нам тот, кому Пророк ﷺ обещал что-нибудь (или: тот, кому Пророк ﷺ остался должен)”. Тогда я пришёл к (Абу Бакру) и сказал: “Поистине, Пророк ﷺ обещал (дать) мне то-то и то-то”, и он отсыпал мне пригоршню (монет). Я пересчитал (эти монеты), и оказалось, что их было пятьсот (штук, после чего) он сказал (мне): “Возьми ещё два раза по столько”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2296</td></tr><tr><td>Arabic No</td><td>2296</td></tr><tr><td>Reference</td><td>Book 39 Hadith 7</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Ibn 'Abbas that the messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Rabi'] telah menceritakan kepada kami [Hammad bin Zaid] dari [Al Ja'd Abu Utsman] dari [Abu Raja'] dari riwayatnya [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa melihat pada diri pemimpinnya ada sesuatu yang ia benci hendaknya ia bersabar, sebab siapa yang memisahkan diri dari Jama'ah walau sejengkal kemudian dia mati, maka matinya seperti mati Jahiliyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4790</td></tr><tr><td>Arabic No</td><td>1849.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4790</td></tr><tr><td>Arabic No</td><td>1849.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 87</td></tr></tbody></table></div>
 

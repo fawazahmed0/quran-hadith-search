@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (way peace be upon him) as saying:There w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] dan [Ibrahim bin Dinar] dan [Ibnu Abu 'Umar Al Makki] dan [Ahmad bin 'Abdah Adh Dhabbi] seluruhnya dari [Ibnu 'Uyainah] dan lafazh ini milik Ibnu Hatim dan Ibnu Dinar keduanya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Thawus] dia berkata; Aku mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Adam dan Musa 'Alaihimas Salam saling berdebat. Musa berkata: 'Wahai Adam, engkau adalah bapak kami. Engkau telah mengecewakan kami dan mengeluarkan kami dari surga karena dosamu.' Adam menjawab: 'Wahai Musa, Allah telah memilihmu dengan kalam-Nya dan menulis Taurat untukmu dengan tangan-Nya. Apakah kamu mencelaku atas perkara yang telah Allah tentukan terhadapku empat puluh tahun sebelum Dia menciptakanku.' Maka Nabi shallallahu 'alaihi wasallam bersabda: 'Maka argumentasi Adam mengalahkan Musa, maka argumentasi Adam mengalahkan Musa.' Dan di dalam Hadits Ibnu Abu Umar dan Abdah salah seorang dari mereka berkata dengan lafazh; 'Khattha.' (mencatat). Sedangkan yang lainnya mengatakan; 'Dia telah menuliskan untukmu kitab Taurat dengan tangan-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6742</td></tr><tr><td>Arabic No</td><td>2652.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Таус сказал: Я слышал, как Абу Хурайра, да будет доволен им Аллах, говорил: Посланник Аллаха ﷺ сказал: «Адам вступил в спор с Мусой и Муса сказал: “О Адам, ты наш праотец! Ты разочаровал нас и вывел из рая!” Адам ответил ему: “Ты Муса, которого Аллах избрал Своей речью, начертил для тебя (Таурат) Своей рукой, а ты упрекаешь меня в поступке, который Аллах предопределил для меня ещё за сорок лет до того, как сотворил меня?!”»Пророк ﷺ сказал: «Так Адам убедил Мусу своими доводами, так Адам убедил Мусу своими доводами».В хадисе Ибн Абу ‘Умара и Ибн ‘Абды один из них сказал: «Начертил», а другой сказал: «Написал для тебя Таурат Своей рукой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6742</td></tr><tr><td>Arabic No</td><td>2652.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 20</td></tr></tbody></table></div>
 

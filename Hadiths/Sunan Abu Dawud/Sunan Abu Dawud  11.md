@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Marwan al-Asfar said:I saw Ibn Umar make his camel kneel down facing the qiblah,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Shafwan bin Isa] dari [Al Hasan bin Dzakwan] dari [Marwan Al Ashfar] dia berkata; Saya pernah melihat [Ibnu Umar] menderumkan untanya menghadap kiblat, lalu dia duduk dan buang air kecil dalam keadaan menghadapnya, lalu saya bertanya; "wahai Abu Abdurrahman, bukankah hal ini telah dilarang?" Dia menjawab; "Benar, akan tetapi hal itu dilarang jika dilakukan di tempat terbuka, apabila antara dirimu dan kiblat ada sesuatu yang menutupimu, maka itu tidaklah mengapa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Arabic No</td><td>11</td></tr><tr><td>Reference</td><td>Book 1 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Arabic No</td><td>11</td></tr><tr><td>Reference</td><td>Book 1 Hadith 11</td></tr></tbody></table></div>
 

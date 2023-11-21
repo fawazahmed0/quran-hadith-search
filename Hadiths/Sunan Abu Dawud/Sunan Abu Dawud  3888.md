@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl ibn Hunayf: I passed by a river. I entered it and took a bath in i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Utsman bin Hakim] telah menceritakan kepadaku [Nenekku] ia berkata; Aku pernah mendengar [Sahl bin Hunaif] berkata, "Kami pernah melewati sebuah air yang mengalir (banjir), kemudian aku mencebur dan mandi di dalamnya, setelah itu aku keluar dan dalam keadaan terserang demam. Hal itu lalu sampai kepada Rasulullah shallallahu 'alaihi wasallam hingga beliau pun bersabda: "Perintahkan Abu Tsabit agar membaca ta'awwudz!" Nenekku berkata, "Lalu aku katakan, "Wahai tuanku, apakah jampi diperbolehkan?" Beliau bersabda: "Tidak ada jampi kecuali karena pengaruh perbuatan dengki, atau racun, atau sengatan hewan." Abu Daud berkata, "(Yaitu) racun ular dan apa yang menyengat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3888</td></tr><tr><td>Arabic No</td><td>3888</td></tr><tr><td>Reference</td><td>Book 29 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сахля ибн Хунайфа, да будет доволен им Аллах: «Мы проходили мимо потока, и я зашёл в него и совершил полное омовение, а потом у меня начался жар. Когда об этом сообщили Посланнику Аллаха ﷺ он сказал: “Велите Абу Сабиту просить защиты у Аллаха”. Я спросил: “О господин! А заклинание /рукъя/ поможет?” Он сказал: “Рукъю используют только в случае сглаза, укуса и ужаления”». Абу Дауд сказал, что под укусом подразумевается укус змеи и всего, что жалит
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3888</td></tr><tr><td>Arabic No</td><td>3888</td></tr><tr><td>Reference</td><td>Book 29 Hadith 34</td></tr></tbody></table></div>
 

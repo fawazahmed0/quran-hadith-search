@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Qatada:That his father said "We proceeded with the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ar-Rabi'] telah menceritakan kepada kami ['Ali bin Al Mubarak] dari [Yahya] dari ['Abdullah bin Abu Qatadah] bahwa [bapaknya] menceritakan kepadanya, katanya: Kami berangkat bersama Nabi shallallahu 'alaihi wasallam pada tahun Perjanjian Hudaibiyah lalu para sahabat berihram sedangkan aku tidak. Lalu kami mendapatkan berita bahwa para musuh sudah berada di Ghoiqah. Kami berangkat menghadapi mereka. Dalam perjalanan para sahabatku melihat ada seekor keledai liar yang menjadikan mereka tertawa satu sama lain. Maka aku intai lalu aku ikuti dengan kudaku lalu aku tikam dan ikat sehingga tidak bergerak lagi. Aku meminta bantuan kepada mereka namun mereka enggan untuk membantuku. Lalu kami memakan dagingnya. Kemudian aku berusaha menyusul Rasulullah shallallahu 'alaihi wasallam karena kami khawatir ada musuh. Maka aku terkadang memacu lari kudaku dan terkadang aku memperlambatnya. Kemudian aku berjumpa dengan seseorang dari Bani Ghifar pada tengah malam lalu aku bertanya kepadanya: "Dimana kamu meninggalkan Nabi Rasulullah shallallahu 'alaihi wasallam?". Dia berkata: "Tadi aku meninggalkan Beliau di daerah Ta'han yang Beliau beristirahat siangnya di Suqya". Akhirnya aku berjumpa dengan Rasulullah shallallahu 'alaihi wasallam hingga aku hampiri, lalu aku berkata: "Wahai Rasulullah, para sahabat baginda menyampaikan salam dan rahmat serta barakah Allah buat baginda. Mereka sedang khawatir menghadapi musuh tanpa mendampingi baginda, maka tunggulah mereka". Maka Beliau menunggu mereka. Aku katakan pula kepada Beliau: "Wahai Rasulullah, kami telah berburu keledai liar dan kami masih menyisakan dagingnya". Maka Rasulullah shallallahu 'alaihi wasallam berkata, kepada para sahabat Beliau: "Makanlah". Sedang saat itu mereka sedang berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 28 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада сказал: «В год Худайбии мы двинулись в путь вместе с Пророком ﷺ и при этом его сподвижники вошли в состояние ихрама, а я — нет. Нам сообщили, что в Гайке находятся враги, и мы направились к ним. (По дороге) мои товарищи увидели дикого осла, что рассмешило некоторых из них. Взглянув (в его сторону), я (тоже) увидел его, погнался за ним на коне, нанёс ему удар и схватил его. После этого я обратился (к своим товарищам) за помощью, но они отказались помочь мне. И мы поели его (мяса), а потом я стал догонять Посланника Аллаха ﷺ так как мы боялись оказаться отрезанными (от остальных), и иногда я гнал лошадь галопом, а иногда ехал медленней. Посреди ночи я встретил человека из племени бану гифар и спросил (его): “Где ты оставил Посланника Аллаха ﷺ?” Он сказал: “Я расстался с ним у Та‘хина, а для дневного отдыха он намеревался остановиться в Сукйе”. И я продолжал следовать за посланником Аллаха ﷺ пока не догнал его. (Встретившись с ним,) я сказал: “О Посланник Аллаха, твои сподвижники послали (меня) с пожеланиями тебе мира, милости Аллаха и Его благословений, и ещё они опасались, что враги отрежут их от тебя, так дождись же их”. Он так и сделал, а потом я сказал: “О Посланник Аллаха, мы добыли на охоте дикого осла, и у нас ещё осталось его (мясо)”. Тогда Посланник Аллаха ﷺ сказал своим сподвижникам: “Ешьте!” И (все они) были в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 28 Hadith 2</td></tr></tbody></table></div>
 

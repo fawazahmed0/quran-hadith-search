@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam memanggil kaum muslimin untuk menunaikan (shalat ghaib) untuk raja Najasyi, pada hari wafatnya. Maka beliau pun keluar menuju mushalla (tanah lapang) bersama mereka dan bertakbir sebanyak empat kali takbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2204</td></tr><tr><td>Arabic No</td><td>951.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сообщил людям о кончине негуса /ан-Наджаши/ (правитель Эфиопии) в тот же день, когда тот умер. (После этого Пророк ﷺ) вышел с ними к месту молитвы и четырежды произнёс слова «Аллаху акбар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2204</td></tr><tr><td>Arabic No</td><td>951.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 82</td></tr></tbody></table></div>
 

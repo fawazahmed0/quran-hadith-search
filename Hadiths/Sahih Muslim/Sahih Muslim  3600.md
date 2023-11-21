@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), Sahla bint Suhayl vint dire au Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] dan [Ibnu Abi Umar] keduanya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abdurrahman bin Qasim] dari [ayahnya] dari [Aisyah] dia berkata; Sahlah binti Suhail datang menemui Nabi shallallahu 'alaihi wasallam, dia berkata; "Wahai Rasulullah, sesungguhnya saya melihat di wajah Abu Hudzaifah (ada sesuatu) karena keluar masuknya Salim ke rumah, padahal dia adalah pelayannya." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Susuilah dia." Dia (Sahlah) berkata; "Bagaimana mungkin saya menyusuinya, padahal dia telah dewasa?" Maka Rasulullah shallallahu 'alaihi wasallam terenyum sambil bersabda: "Sungguh saya telah mengetahuinya kalau dia telah dewasa." Dalam haditsnya 'Amru menambahkan; Bahwa dia telah ikut serta dalam perang Badr. Dan dalam riwayatnya Ibnu Abu Umar lantas Rasulullah shallallahu 'alaihi wasallam tertawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3600</td></tr><tr><td>Arabic No</td><td>1453.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3600</td></tr><tr><td>Arabic No</td><td>1453.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
 

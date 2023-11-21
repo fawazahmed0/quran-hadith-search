@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn AbuWaqqas: Ibn Sa'd said: My father (Sa'd ibn AbuWaqqas) heard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Musaddad], telah menceritakan kepada Kami [Yahya] dari [Syu'bah] dari [Ziyad bin Mikhraq] dari [Abu Na'amah] dari [anak Sa'd] bahwa ia berkata; [ayahku] mendengarku berkata; ya Allah, aku memohon kepadaMu Surga dan kenikmatannya, keindahannya dan demikian dan demikian…. dan aku berlindung kepadaMu dari Neraka, rantai serta belenggu-belenggunya, dan demikian dan demikian.. Kemudian ia berkata; wahai anakku, sesungguhnya aku mendengar Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Akan ada sebuah kaum berlebihan dalam berdoa." Maka hati-hatilah engkau menjadi bagian dari mereka, sesungguhnya apabila engkau diberi Surga maka engkau telah diberi kebaikan yang ada padanya, dan apabila engkau dilindungi dari Neraka maka engkau telah dilindungi darinya dan dari keburukan yang ada padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1480</td></tr><tr><td>Arabic No</td><td>1480</td></tr><tr><td>Reference</td><td>Book 8 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от сына Са‘да, да будет доволен Аллах ими обоими: «Однажды отец услышал, как я говорю: “О Аллах, поистине, я прошу у Тебя Рая, его наслаждений, его великолепия, и того-то, и того-то… И я прошу у Тебя защиты от Огня, и его цепей, и его оков, и того-то, и того-то…” Он сказал: “Сынок, поистине, я слышал, как Посланник Аллаха ﷺ сказал: “В моей общине появятся люди, излишествующие в обращении к Аллаху с мольбами”. Поэтому опасайся оказаться в их числе. Поистине, если тебе будет дарован Рай, то будут тебе дарованы и блага, которые в нём, и если ты будешь убережён от Огня, то ты будешь убережён и от зла, которое в нём”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1480</td></tr><tr><td>Arabic No</td><td>1480</td></tr><tr><td>Reference</td><td>Book 8 Hadith 65</td></tr></tbody></table></div>
 

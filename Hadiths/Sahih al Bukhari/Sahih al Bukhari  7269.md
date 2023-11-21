@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:That he heard 'Umar speaking while standing on the pulpi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibn Syihab] telah mengabarkan kepadaku [Anas bin Malik], ia mendengar [Umar] sehari setelah kewafatan Nabi, ketika kaum muslimin berbaiat kepada Abu Bakar dan berdiri di atas mimbar Rasulullah shallallahu 'alaihi wasallam, Umar memberi kesaksian sebelum Abu Bakar seraya berkata, "Amma ba'du. Allah memilih untuk Rasul-Nya shallallahu 'alaihi wasallam apa yang berada di sisi-Nya, untuk mengatasi apa yang berada di sisi kalian, dan kitab inilah yang dengannya Allah memberi petunjuk kepada rasul kalian, maka ambillah sebagai petunjuk, niscaya kalian mendapatkan petunjuk, hanyasanya dengan kitab itulah Allah memberi petunjuk (hidayah) rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7269</td></tr><tr><td>Arabic No</td><td>7269</td></tr><tr><td>Reference</td><td>Book 96 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, слышал как ‘Умар на следующий день (после смерти Пророка ﷺ), когда мусульмане присягнули Абу Бакру, поднялся на минбар Посланника Аллаха ﷺ произнёс слова свидетельства о единобожии прежде Абу Бакра и сказал: «А затем. Аллах избрал для Своего посланника ﷺ то, что у Него над тем, что у вас. И это Писание посредством которого Аллах направил вашего посланника на прямой путь. Так придерживайтесь же его, и вы последуете прямым путём. И, поистине, Аллах направил посредством этого Писания Своего посланника на прямой путь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7269</td></tr><tr><td>Arabic No</td><td>7269</td></tr><tr><td>Reference</td><td>Book 96 Hadith 2</td></tr></tbody></table></div>
 

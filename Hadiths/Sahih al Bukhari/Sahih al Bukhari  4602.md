@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:While we were sitting in a circle in 'Abdullah's gathering, Hu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Al A'masy] dia berkata; Telah menceritakan kepadaku [Ibrahim] dari [Al Aswad] dia berkata; Kami pernah berada di majlis Abdullah, tiba-tiba [Hudzaifah] datang seraya mengucapkan salam, lalu dia berkata sambil berdiri; 'Sungguh telah diturunkan ayat nifak atas suatu kaum yang terbaik dari kalian. Al Aswad berkata; 'Maha Suci Allah, sesungguhnya Allah berfirman: "Sesunguhnya orang-orang munafik akan berada di dasar neraka yang paling bawah. Maka Abdullah tersenyum dan Hudzaifah pun duduk di pojok mesjid. Tiba-tiba Abdullah berdiri, ketika para sahabatnya sudah pergi. Lalu ia melempariku dengan kerikil-kerikil kecil. Maka aku pun menghampirinya. Hudzaifah berkata; Aku heran dengan ketawanya, sungguh dia telah mengetahui apa yang aku ucapkan mengenai ayat nifak telah diturunkan atas suatu kaum yang terbaik dari kalian lalu mereka bertaubat dan Allah pun menerima taubat mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4602</td></tr><tr><td>Arabic No</td><td>4602</td></tr><tr><td>Reference</td><td>Book 65 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Асвад сказал: «Однажды, когда мы сидели в обществе ’Абдуллаха, к нам подошёл Хузейфа, поприветствовал нас, а затем сказал: “Лицемерие настигло людей, которые были лучше вас”. Аль-Асвад сказал: “Пречист Аллах! Поистине, Аллах говорит: “Воистину, лицемеры окажутся на нижайшей ступени Огня””. Тогда ’Абдуллах улыбнулся, а Хузейфа сел где-то в мечети. Затем ‘Абдуллах встал, и его товарищи (сидевшие вокруг него) разошлись. Затем Хузейфа бросил в меня камешек (чтобы привлечь моё внимание), я подошёл к нему, и он сказал: “Я был удивлён улыбкой 'Абдуллаха, ведь он понял, что я сказал. Лицемерие настигло людей, которые были лучше вас, а затем они покаялись, и Аллах простил их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4602</td></tr><tr><td>Arabic No</td><td>4602</td></tr><tr><td>Reference</td><td>Book 65 Hadith 124</td></tr></tbody></table></div>
 

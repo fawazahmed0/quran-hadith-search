@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abbad b. Tamim (al-Muzini) reported on the authority of his uncle:The Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Mawarzi] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Abbad bin Tamim] dari [pamannya] bahwa Rasulullah shallallahu 'alaihi wasallam keluar bersama orang-orang untuk memohon hujan, lalu beliau shalat dua raka'at dengan mengeraskan bacaan pada raka'at tersebut, beliau membalik kain selendangnya sambil berdo'a dan memohon supaya di turunkan hujan dengan menghadap ke arah Kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1023) Sahih Muslim (894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1161</td></tr><tr><td>Arabic No</td><td>1161</td></tr><tr><td>Reference</td><td>Book 3 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аббад ибн Тамим передаёт от своего дяди, что однажды Посланник Аллаха ﷺ вышел вместе с людьми, чтобы обратиться к Аллаху с мольбой о ниспослании дождя. Он совершил с ними молитву в два рак‘ата, читая аяты Корана вслух, а потом надел свою накидку наоборот и обратился к Аллаху с мольбой о ниспослании дождя, обратившись в сторону киблы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1023) Sahih Muslim (894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1161</td></tr><tr><td>Arabic No</td><td>1161</td></tr><tr><td>Reference</td><td>Book 3 Hadith 1</td></tr></tbody></table></div>
 

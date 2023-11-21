@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b:I heard Ka'b bin Malik talking about the story of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Abdur Rahman bin 'Abdullah bin Ka'ab bin Malik] dari ['Abdullah bin Ka'ab bin Malik] -dia adalah penuntun Ka'ab bin Malik- dia berkata; Aku mendengar [Ka'ab bin Malik] bercerita mengenai ketertinggalannya dari perang Tabuk. Demi Allah, setahu saya tidak ada seorang muslim yang telah di uji Allah dalam kejujuran ucapannya, yang ia lebih baik dari pada apa yang telah diujikan Allah kepada saya sejak saya ceritakan hal ini kepada Rasulullah shallallahu 'alaihi wasallam, saya tidak pernah bermaksud untuk berdusta kepada Rasulullah hingga sekarang ini. Allah Azza wa Jalla berfirman kepada Rasulullah-Nya shallallahu 'alaihi wasallam: "Sesungguhnya Allah telah menerima taubat Nabi, orang-orang Muhajirin, dan orang-orang Anshar… hingga ayat: 'dan hendaklah kamu bersama orang-orang yang jujur.' (Qs. At-Taubah (9):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4678</td></tr><tr><td>Arabic No</td><td>4678</td></tr><tr><td>Reference</td><td>Book 65 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, рассказывая о своём отсутствии в походе на Табук, Ка‘б ибн Малик сказал: «И клянусь Аллахом, я не знаю, чтобы Аллах испытал кого-то в правдивости лучше, чем Он испытал меня. С тех пор, как я сказал это Посланнику Аллаха ﷺ, и до сего дня я ни разу не солгал намеренно. И Великий и Могучий Аллах ниспослал Своему Посланнику ﷺ: “Аллах принял покаяния Пророка, мухаджиров и ансаров…” (сура ат-Тауба, аят 117) до слов “…и будьте с правдивыми” (сура ат-Тауба, аят 119)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4678</td></tr><tr><td>Arabic No</td><td>4678</td></tr><tr><td>Reference</td><td>Book 65 Hadith 200</td></tr></tbody></table></div>
 

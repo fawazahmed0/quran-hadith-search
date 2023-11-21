@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Buraida reported on the authority of his father that Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar Al Makki] telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Humaid bin Abdurrahman bin 'Auf] bahwa dia mendengar [Sa'id bin Musayyab] menceritakan dari [Ummu Salamah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika telah tiba sepuluh (dzul Hijjah) dan salah seorang dari kalian hendak berkurban, maka janganlah mencukur rambut atau memotong kuku sedikitpun." Dikatakan kepada [Sufyan], "Sebagian orang tidak memarfu'kan (hadits ini)?" Sufyan menjawab, "Akan tetapi saya memarfu'kannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5117</td></tr><tr><td>Arabic No</td><td>1977.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Умм Салямы (да будет доволен ею Аллах), что Пророк ﷺ сказал: «Когда наступят (первые) десять (дней зуль-хиджжи) и кто-то из вас захочет принести в жертву животное, пусть ничего не трогает из волос и кожи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5117</td></tr><tr><td>Arabic No</td><td>1977.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 50</td></tr></tbody></table></div>
 

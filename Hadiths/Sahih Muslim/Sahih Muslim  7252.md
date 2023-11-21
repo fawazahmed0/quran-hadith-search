@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ahnaf b. Qais reported:I set out with the intention of helping this person (Hadr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil Fudhail bin Husain Al Jahdari] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dan [Yunus] dari [Al Hasan] dari [Al Ahnaf bin Qais] berkata: Aku pergi untuk menemui orang ini lalu [Abu Bakrah] menemuiku, ia bertanya: Kamu mau kemana wahai Ahnaf? Aku menjawab: Aku hendak menemui Nashr putra paman Rasulullah Shallallahu 'alaihi wa Salam -maksudnya Ali. Lalu ia berkata: Wahai Ahnaf, kembalilah karena aku pernah mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila dua orang muslim berhadapan dengan pedang, pembunuh dan yang terbunuh ada dineraka." Aku berkata: Atau dikatakan: Wahai Rasulullah, ia yang membunuh (pantas masuk neraka), lalu bagaimana dengan yang terbunuh? Beliau menjawab: "Sesungguhnya ia ingin membunuh kawannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7252</td></tr><tr><td>Arabic No</td><td>2888.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Ахнаф ибн Къайс сказал: «Однажды, я вышел желая помочь этому человеку и меня (по дороге) встретил Абу Бакра, который сказал: “Ты куда идёшь, о Ахнаф?” Я сказал: “Хочу помочь сыну дяди Посланника Аллаха ﷺ имея ввиду ‘Али”. Тогда он сказал мне: “О Ахнаф, вернись, ибо, поистине, я слышал, как однажды Посланник Аллаха ﷺ говорил:“Если два мусульманина сойдутся (в бою, скрестив) свои мечи, то и убивший, и убитый окажутся в Огне (ада)”. Я спросил (или: Кто-то сказал): “О Посланник Аллаха, (будет справедливо, если туда попадёт) этот убивший, но почему же и убитый?!” Он ответил: “Ведь и он хотел убить своего товарища!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7252</td></tr><tr><td>Arabic No</td><td>2888.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 18</td></tr></tbody></table></div>
 

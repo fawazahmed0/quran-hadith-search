@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b bin Malik:Who was Ka'b's guide from among his sons w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Abdurrahman bin Abdullah bin Ka'b bin Malik], bahwasanya [Abdullah bin Ka'b bin Malik], ia termasuk anaknya yang menuntun Ka'ab ketika telah buta (tuna netra), Abdullah mengatakan, aku mendengar [Ka'b bin Malik] mengatakan tatkala ketinggalan (duduk berpangku tangan) dari Rasulullah Shallallahu'alaihiwasallam dalam perang Tabuk. Ia menceritakan hadistnya yang panjang, dan menyebutkan bahwa; 'Rasulullah Shallallahu'alaihi wa sallam melarang kaum muslimin mengajak kami bicara, dan itu terus terjadi pada diri kami hingga lima puluh malam, dan Rasulullah Shallallahu'alaihiwasallam mengumumkan pengampunan Allah terhadap taubat kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7225</td></tr><tr><td>Arabic No</td><td>7225</td></tr><tr><td>Reference</td><td>Book 93 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Ка‘б ибн Малик, который был одним из сыновей Ка‘ба (ибн Малика) и его поводырём, когда тот ослеп, передаёт, что он слышал, как Ка‘б ибн Малик сказал, (пересказывая историю) своего уклонения от участия в походе на Табук вместе с посланником Аллаха ﷺ и упомянув хадис (он сказал): «Посланник Аллаха ﷺ запретил мусульманам разговаривать с нами, и в подобном положении мы провели пятьдесят ночей. И Посланник Аллаха ﷺ объявил (людям о том, что) Аллах принял наше покаяние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7225</td></tr><tr><td>Arabic No</td><td>7225</td></tr><tr><td>Reference</td><td>Book 93 Hadith 84</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Zayd Ibn Khâlid Al-Juhanî (que Dieu l'agrée), Un homme vint trouver 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dia berkata; aku bacakan di hadapan [Malik]; dari [Rabi'ah bin Abu Abdurrahman] dari [Yazid] bekas budak Al Munba'is, dari [Zaid bin Khalid Al Juhani] bahwa dia berkata, "Seseorang datang kepada Nabi shallallahu 'alaihi wasallam dan menanyakan mengenai barang temuan." Lalu beliau bersabda: "Kenalilah wadah dan talinya, setelah itu umumkanlah kepada khalayak ramai, apabila pemiliknya datang maka berikanlah barang tersebut kepadanya." Kemudian orang itu juga bertanya, "Wahai Rasulullah, bagaimana jika yang ditemukan adalah kambing?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Mungkin ia dapat menjadi milikmu atau milik saudaramu atau bahkan menjadi milik serigala." Dia berkata, "Wahai Rasulullah, bagaimana jika yang ditemukan adalah unta?" beliau menjawab: "Apa urusanmu dengan unta yang hilang? Ia telah membawa sepatu (punya kaki) dan wadah airnya sendiri. Ia dapat mendatangi mata air dan makan dedaunan sampai ia bertemu pemiliknya." Yahya berkata, "Sepertinya aku membaca 'iffashaha (wadahnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4498</td></tr><tr><td>Arabic No</td><td>1722.01</td></tr><tr><td>Reference</td><td>Book 31 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4498</td></tr><tr><td>Arabic No</td><td>1722.01</td></tr><tr><td>Reference</td><td>Book 31 Hadith 1</td></tr></tbody></table></div>
 

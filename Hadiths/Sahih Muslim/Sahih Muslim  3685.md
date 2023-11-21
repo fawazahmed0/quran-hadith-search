@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported:I do not mind if I give option to my wife (to get divorce) once,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Isma'il bin Abu Khalid] dari [As Sya'bi] dari [Masruq] dia berkata; Saya tidak menganggap sebagai talak, yaitu tawaran saya terhadap istriku, apakah satu kali atau seratus kali bahkan sampai seribu kali setelah istri saya tetap memilih untuk menjadi istriku, sebab saya pernah bertanya kepada ['Aisyah], lantas dia menjawab; Sungguh Rasulullah shallallahu 'alaihi wasallam pernah memberikan pilihan kepada kami, maka apakah hal itu dianggap sebagai talak?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3685</td></tr><tr><td>Arabic No</td><td>1477.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3685</td></tr><tr><td>Arabic No</td><td>1477.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 34</td></tr></tbody></table></div>
 

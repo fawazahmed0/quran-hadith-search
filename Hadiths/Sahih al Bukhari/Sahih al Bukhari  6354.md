@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mahmud bin Ar-Rabi:On whose face Allah's Messenger (ﷺ) had thrown wat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih bin Kaisan] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Mahmud bin Ar Rabi'] -ia adalah orang yang Rasulullah Shallallahu 'alahi wasallam pernah mengguyurkan air ke mukanya dari sumur mereka, ketika ia masih kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6354</td></tr><tr><td>Arabic No</td><td>6354</td></tr><tr><td>Reference</td><td>Book 80 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Мухаммад) ибн Шихаб сказал: «Рассказал мне Махмуд ибн ар-Раби’, да будет доволен им Аллах, а это тот, кому Посланник Аллаха ﷺ, набрав в рот воды, прыснул ему в лицо из их колодца, когда (Махмуд) был ещё мальчиком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6354</td></tr><tr><td>Arabic No</td><td>6354</td></tr><tr><td>Reference</td><td>Book 80 Hadith 51</td></tr></tbody></table></div>
 

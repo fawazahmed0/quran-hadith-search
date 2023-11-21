@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh (رضي الله عنهما) a dit : Comme j'étais tomb�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Muhammad bin Bukair An Naqid] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Muhammad bin Al Munkadir] dia mendengar [Jabir bin Abdullah] berkata, "Saat aku sakit Rasulullah shallallahu 'alaihi wasallam dan Abu Bakar menjengukku dengan berjalan kaki, dan saat itu aku sedang pingsan. Lalu beliau berwudlu dan memercikkan air wudlunya kepadaku sehingga aku pun sadar. Kemudian aku berkata, "Wahai Rasulullah, bagaimana seharusnya saya mengatur hartaku?" Sedikitpun beliau tidak menjawabnya, hingga turunlah ayat tentang waris: '(Mereka meminta fatwa kepadamu (wahai Muhammad) tentang kalalah (yaitu seseorang yang meninggal dunia tanpa meninggalkan ayah dan anak), katakanlah, Allah lah yang memberi fatwa kepadamu tentang kalalah…) ' (Qs. An Nisaa:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4145</td></tr><tr><td>Arabic No</td><td>1616.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4145</td></tr><tr><td>Arabic No</td><td>1616.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 6</td></tr></tbody></table></div>
 

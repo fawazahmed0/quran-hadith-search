@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The pillow of the Messenger of Allah (ﷺ) on which he slept at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ahmad bin Mani'] keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hisyam bin Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] ia berkata, "Bantal Rasulullah shallallahu 'alaihi wasallam, -Ibnu Mani' menyebutkan-, 'yang beliau gunakan untuk tidur di waktu malam' dari kulit dan isinya dari serabut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2082)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4146</td></tr><tr><td>Arabic No</td><td>4146</td></tr><tr><td>Reference</td><td>Book 34 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что подушка, на которой Посланник Аллаха ﷺ спал ночью, была из кожи, а набита она была пальмовым волокном
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2082)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4146</td></tr><tr><td>Arabic No</td><td>4146</td></tr><tr><td>Reference</td><td>Book 34 Hadith 127</td></tr></tbody></table></div>
 

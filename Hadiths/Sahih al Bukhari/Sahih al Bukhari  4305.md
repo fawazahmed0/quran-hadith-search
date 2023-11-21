@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Majashi:I took my brother to the Prophet (ﷺ) after the Conquest (of M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Khalid] Telah menceritakan kepada kami [Zuhair] Telah menceritakan kepada kami ['Ashim] dari [Abu Utsman] katanya, telah menceritakan kepadaku [Mujasyi'] katanya, aku menemui Nabi shallallahu 'alaihi wasallam dengan sauadaraku setelah penaklukan Makkah, kukatakan: "Wahai Rasulullah, aku menemuimu dengan saudaraku agar engkau membaiatnya untuk hijrah. Jawab Nabi; "Pelaku-pelaku hijrah telah membawa semua ganjarannya." Lantas saya bertanya; "Lalu untuk apa engkau membaiatnya? beliau jawab; "Saya membaiatnya untuk Islam, iman dan jihad. diKemudian hari kutemui [Ma'bad] yang ia lebih dewasa diantara keduanya. Ia menjawab "Mujasyi' memang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4305</td></tr><tr><td>Arabic No</td><td>4305</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджаши‘ сказал: «Мы вместе с моим братом пришли к Пророку ﷺ после завоевания (Мекки), и я сказал: “О Посланник Аллаха! Я привёл к тебе брата, чтобы он принёс клятву в том, что совершит хиджру”. (Пророк ﷺ) сказал: “(Время) совершения хиджры прошло”. Я спросил: “Так в чём же ему тогда поклясться тебе?” Он сказал: “Я принимаю его клятву в том, что он будет исповедовать ислам, веру и в том, что он будет принимать участие в сражениях”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4305</td></tr><tr><td>Arabic No</td><td>4305</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

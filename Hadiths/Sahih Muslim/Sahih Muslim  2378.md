@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Asma bint 'Abî Bakr (رضي الله عنها), le Prophète (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Harun bin Abdullah] keduanya berkata, telah menceritakan kepada kami [Hajjaj bin Muhammad] ia berkata; [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Ibnu Abu Mulaikah] bahwa [Abbad bin Abdullah bin Zubair] telah mengabarkan kepadanya, dari [Asma' binti Abu Bakar] bahwa ia mendatangi Nabi shallallahu 'alaihi wasallam dan bertanya, "Wahai Nabiyullah, aku tidak punya apa-apa untuk disedekahkan selain yang diberikan Zubair (suamiku) kepadaku (untuk belanja rumah tangga). Berdosakah aku apabila uang belanja itu aku sedekahkan alakadarnya?" maka beliau pun menjawab: "Sedekahkanlah ala kadarnya sesuai dengan kemampuanmu, dan jangan menghitung-hitung, karena Allah akan menghitung-hitung pula pemberian-Nya kepadamu, dan jangan pula kikir sehingga Allah akan menyempitkan rizkimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2378</td></tr><tr><td>Arabic No</td><td>1029.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Асмы бинт Аби Бакр, что (однажды) она пришла к Пророку ﷺ и сказала: «О Пророк Аллаха, у меня есть лишь, то, что даёт мне аз-Зубайр, так не совершу ли я грех, если буду выделять небольшие средства (для помощи бедным) из того, что он мне даёт?» (Пророк ﷺ) сказал: «Давай, что можешь, и не откладывай (на хранение), а иначе Аллах спрячет (то, что предназначено) для тебя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2378</td></tr><tr><td>Arabic No</td><td>1029.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 115</td></tr></tbody></table></div>
 

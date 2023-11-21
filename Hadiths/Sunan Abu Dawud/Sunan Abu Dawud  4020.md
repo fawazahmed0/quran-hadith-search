@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: When the Messenger of Allah (ﷺ) put on a new garm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Aun] berkata, telah mengabarkan kepada kami [Ibnul Mubarak] dari [Al Jurairi] dari [Abu Nadhrah] dari [Abu Sa'id Al Khudri] ia berkata, "Rasulullah shallallahu 'alaihi wasallam jika mencoba baju baru beliau memulai dengan menyebutkan namanya (baju tersebut), baik itu kemeja atau imamah (semacam surban yang diikatkan pada kepala). Kemudian beliau membaca doa: 'ALLAHUMMA LAKAL HAMDU ANTA KASAUTANI AS'ALUKA MIN KHAIRIHI WA KHAIRI MAA SHUNI'A LAHU WA A'UUDZU BIKA MIN SYARRIHI WA SYARRI MAA SHUNI'A LAHU (Ya Allah, hanya milik-Mu segala puji, Engkaulah yang memberikan pakaian ini kepadaku. Aku memohon kepada-Mu untuk memperoleh kebaikannya dan kebaikan yang terbuat karenanya (untuk beribadah dan ketaatan kepada Allah). Aku berlindung kepada-Mu dari kejahatannya dan kejahatan yang terbuat karenanya (untuk bermaksiat kepada Allah). ' Abu Nadhrah berkata; "Dan biasanya para sahabat Nabi shallallahu 'alaihi wasallam, jika salah seorang dari mereka memakai baju baru, dikatakatan kepadanya, "Semoga tahan lama hingga Allah menggantinya dengan yang baru (yakni do'a panjang umur)." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isa bin Yunus] dari [Al Jurairi] dengan sanad yang sama. Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Muhammad bin Dinar] dari [Al Jurairi] dengan sanad dan makna hadits yang sama. Abu Dawud berkata, " [Abdul Wahhab Ats Tsaqafi] tidak menyebutkan dalam sanadnya nama Abu Sa'id dan [Hammad bin Salamah]. Ia menyebutkan dari [Al Jurairi], dari [Abul 'Ala], dari Nabi shallallahu 'alaihi wasallam." Abu Dawud berkata, "Hammad bin Salamah dan Ats Tsaqafi sumber periwayatan keduanya adalah satu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4020</td></tr><tr><td>Arabic No</td><td>4020</td></tr><tr><td>Reference</td><td>Book 34 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Надры, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ облачаясь в новую одежду, упоминал её название, будь то рубаха или чалма, говоря: “О Аллах, Тебе хвала, Ты надел на меня это, прошу Тебя о благе её и о благе того, для чего она была изготовлена, и прошу у тебя защиты от зла её и от зла того, для чего она была изготовлена”». Абу Надра сказал: «Когда кто-то из сподвижников Пророка ﷺ надевал новую одежду, ему говорили: “Сноси, и да заменит Всевышний Аллах тебе её (новой одеждой)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4020</td></tr><tr><td>Arabic No</td><td>4020</td></tr><tr><td>Reference</td><td>Book 34 Hadith 1</td></tr></tbody></table></div>
 

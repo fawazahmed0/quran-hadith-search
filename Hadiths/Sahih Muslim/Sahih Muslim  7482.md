@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The servant speaks words 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakannya kepada kami [Muhammad bin Abu Umar Al Makki] telah menceritakan kepada kami [Abdulaziz Ad Darawardi] dari [Yazid bin Al Had] dari [Muhammad bin Ibrahim] dari [Isa bin Thalhah] dari [Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya hamba mengucapkan kalimat tanpa diteliti yang karenanya ia terlempar ke neraka sejauh antara timur dan barat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7482</td></tr><tr><td>Arabic No</td><td>2988.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7482</td></tr><tr><td>Arabic No</td><td>2988.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 65</td></tr></tbody></table></div>
 

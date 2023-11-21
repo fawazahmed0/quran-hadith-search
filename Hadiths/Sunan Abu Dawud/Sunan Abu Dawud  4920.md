@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Humaid b. 'Abd al-Rahman quoted his mother as saying:The Prophet (ﷺ) said: He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah mengabarkan kepada kami [Sufyan] dari [Az Zuhri]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Muhammad bin Syabbuwaih Al Marwazi] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Humaid bin 'Abdurrahman] dari [Ibunya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak dikatakan dusta orang yang berbohong untuk mendamaikan antara dua orang." Ahmad bin Muhammad dan Musaddad menyebutkan, "Tidak dikatakan berdusta orang yang memperbaiki antara dua orang, ia mengatakan suatu kebaikan atau memindah (ucapan baik) seseorang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2692) Sahih Muslim (2605)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4920</td></tr><tr><td>Arabic No</td><td>4920</td></tr><tr><td>Reference</td><td>Book 43 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2692) Sahih Muslim (2605)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4920</td></tr><tr><td>Arabic No</td><td>4920</td></tr><tr><td>Reference</td><td>Book 43 Hadith 148</td></tr></tbody></table></div>
 

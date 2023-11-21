@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:from his father from his grandfather that the Prophet (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Sa'id bin Abu Burdah] dari [bapaknya] dari [kakeknya] dari Nabi Shallallahu'alaihiwasallam bersabda: "Wajib bagi setiap muslim bershadaqah". Mereka (para sahabat) bertanya: "Wahai Nabi Allah, bagaimana kalau ada yang tidak sanggup?". Beliau menjawab: "Dia bekerja dengan tangannya sehingga bermanfaat bagi dirinya lalu dia bershadaqah". Mereka bertanya lagi: "Bagaimana kalau tidak sanggup juga?". Beliau menjawab: "Dia membantu orang yang sangat memerlukan bantuan". Mereka bertanya lagi: "Bagaimana kalau tidak sanggup juga?". Beliau menjawab: "Hendaklah dia berbuat kebaikan (ma'ruf) dan menahan diri dari keburukan karena yang demikian itu berarti shodaqah baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1445</td></tr><tr><td>Arabic No</td><td>1445</td></tr><tr><td>Reference</td><td>Book 24 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Каждый мусульманин должен подавать милостыню”. (Люди) спросили: “О пророк Аллаха, а (что делать тому, кто ничего не имеет)?” Он ответил: “Он должен зарабатывать своим трудом, принося пользу самому себе и подавая милостыню (из заработанного)”. (Люди) спросили: “А если он (окажется не в состоянии подавать милостыню и в этом случае)?” Он ответил: “(Тогда ему следует) помочь нуждающемуся, который оказался в беде”. (Люди снова) спросили: “А если он (окажется не в состоянии сделать и этого)?” Он ответил: “Тогда пусть совершает одобряемое шариатом и воздерживается от (всего) дурного, и это зачтётся ему как садака”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1445</td></tr><tr><td>Arabic No</td><td>1445</td></tr><tr><td>Reference</td><td>Book 24 Hadith 48</td></tr></tbody></table></div>
 

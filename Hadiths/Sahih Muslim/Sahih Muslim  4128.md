@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir (que Dieu l'agrée), L'Envoyé de Dieu (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] dan [Ishaq bin Ibrahim], dan ini adalah lafadz Ibnu Numair. Ishaq berkata; telah mengabarkan kepada kami, dan yang dua mengatakan; telah menceritakan kepada kami [Abdullah bin Idris] telah menceritakan kepada kami [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam telah menetapkan bahwa Syuf'ah benda milik bersama yang tidak dapat dibagi berupa rumah ataupun kebun. Seseorang tidak halal menjual bagiannya sebelum meminta izin kepada rekannya, jika rekannya berkenan maka dia dapat membelinya, dan jika rekannya tidak berkenan maka boleh membiarkannya. Jika ia menjualnya tanpa memberitahukan rekannya, maka rekannya lebih berhak (terhadap bagian yang dijual)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4128</td></tr><tr><td>Arabic No</td><td>1608.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4128</td></tr><tr><td>Arabic No</td><td>1608.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 167</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: When the Messenger of Allah (ﷺ) sat on his camel t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], Telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij], telah mengabarkan kepadaku [Abu Az Zubair], bahwa [Ali Al Azdi] telah mengabarkan kepadanya bahwa [Ibnu Umar] telah memberitahukan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam apabila telah berada di atas untanya keluar untuk melakukan safar, beliau bertakbir tiga kali, kemudian mengucapkan: SUBHAANALLADZII SAKHKHARA LANAA HAADZAA WA MAA KUNNAA LAHUU MUQRINIIN, WA INNAA ILAA RABBINAA LAMUNQALIBUUN. ALLAAHUMMA HAWWIN 'ALAINAA SAFARANAA HAADZAA, ALLAAHUMMATHWI LANAL BU'DA. ALLAAHUMMA ANTASH SHAAHIBU FIS SAFARI WAL KHALIIATU FIL AHLI WAL MAALI (Maha Suci Dzat yang telah menundukkan untuk kami hewan ini, dan tidaklah kami dapat memaksakannya, dan kepada Tuhan kami niscaya kami akan kembali. Ya Allah, permudahlah bagi kami perjananan ini, dan dekatkanlah jarak yang jauh. Ya Allah, Engkau adalah Teman diperjalanan dan pengganti berada diantara keluarga serta harta kami). Dan apabila kembali beliau mengucapkan hal tersebut ditambah: "AAYIBUUNA, TAAIBUUNA 'AABIDUUNA LIRABBINAA HAAMIDUUN" (Kami kembali, kami bertaubat, kami menyembah, dan kepada Tuhan kami, kami memuji). Dan Rasulullah shallallahu 'alaihi wasallam serta para pasukannya apabila menaiki tempat yang tinggi mereka bertakbir dan apabila turun mereka bertasbih, kemudian shalat ditetapkan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
 

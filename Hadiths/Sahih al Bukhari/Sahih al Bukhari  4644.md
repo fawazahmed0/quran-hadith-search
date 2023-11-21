@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abdullah bin Az-Zubair said:Allah ordered His Prophet to forgive the people thei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Hisyam] dari [Bapaknya] dari ['Abdullah bin Az Zubair] mengenai firman Allah; Jadilah engkau pema'af dan suruhlah orang mengerjakan yang ma'ruf (Al A'raf: 199). Dia berkata; Tidaklah Allah menurunkannya kecuali mengenai akhlak manusia. ['Abdullah bin Barrad] berkata; Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Abdullah bin Az Zubair] dia berkata; 'Allah menyuruh Nabi shallallahu 'alaihi wasallam agar memaafkan kesalahan manusia kepada beliau.' -atau kurang lebih demikianlah apa yang ia katakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4644</td></tr><tr><td>Arabic No</td><td>4644</td></tr><tr><td>Reference</td><td>Book 65 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аз-Зубайр, да будет доволен Аллах ими обоими, сказал: «Аллах велел Своему Пророку ﷺ избрать из нравственных качеств людей (способность) прощать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4644</td></tr><tr><td>Arabic No</td><td>4644</td></tr><tr><td>Reference</td><td>Book 65 Hadith 166</td></tr></tbody></table></div>
 

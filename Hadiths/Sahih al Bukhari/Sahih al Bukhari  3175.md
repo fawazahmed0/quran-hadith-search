@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Once the Prophet (ﷺ) was bewitched so that he began to imagine 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada kami [Yahya] telah bercerita kepada kami [Hisyam] berkata telah bercerita kepadaku [bapakku] dari ['Aisyah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam pernah disihir sehingga terbayang oleh beliau melakukan sesuatu padahal tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3175</td></tr><tr><td>Arabic No</td><td>3175</td></tr><tr><td>Reference</td><td>Book 58 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды Пророк ﷺ был околдован настолько, что ему начинало представляться, что он сделал что-то, тогда как на самом деле он этого не делал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3175</td></tr><tr><td>Arabic No</td><td>3175</td></tr><tr><td>Reference</td><td>Book 58 Hadith 17</td></tr></tbody></table></div>
 

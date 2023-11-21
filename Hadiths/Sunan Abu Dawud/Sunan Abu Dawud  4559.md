@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: The fingers are equal and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas Al 'Anbari] berkata, telah menceritakan kepada kami [Abdu Ash Shammad bin Abdul Warits] berkata, telah menceritakan kepadaku [Syu'bah] dari [Qatadah] dari [Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Semua jari itu sama (diyatnya), semua gigi sama (diyatnya), gigi seri dan gigi geraham sama, serta ini dan ini diyatnya sama." Abu Dawud berkata, " [An Nadhr bin Syumail] meriwayatkannya dari [Syu'bah] dengan makna [Abdu Ash Shamad]." Abu Dawud berkata lagi, " [Ad Darimi] meriwayatkan kepada kami dari [An Nadhr]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>4559</td></tr><tr><td>Reference</td><td>Book 41 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «(Компенсация /дийа/ за все) пальцы одинакова, и (компенсация за все) зубы одинакова, компенсация за передний и за задний зуб одинакова, (компенсация) за этот и этот одинакова»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>4559</td></tr><tr><td>Reference</td><td>Book 41 Hadith 66</td></tr></tbody></table></div>
 

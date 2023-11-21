@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It his been narrated on the authority of Umair b. Umm Hani who said:I heard Mu'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abu Muzahim] telah menceritakan kepada kami [Yahya bin Hamzah] dari [Abdurrahman bin Yazid bin Jabir] bahwa ['Umair bin Hani'] menceritakan kepadanya, dia berkata, "Saya mendengar [Mu'awiyah] berkata di atas mimbar, "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan senantiasa ada sekelompok dari ummatku yang menegakkan perintah Allah, tidak ada yang membahayakannya orang yang menghinakan atau menyelisihi mereka sampai datangnya hari Kiamat, dan mereka akan selalu menang atas manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4955</td></tr><tr><td>Arabic No</td><td>1037.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4955</td></tr><tr><td>Arabic No</td><td>1037.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 250</td></tr></tbody></table></div>
 

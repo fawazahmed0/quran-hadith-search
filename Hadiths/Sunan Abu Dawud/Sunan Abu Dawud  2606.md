@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sakhr al-Ghamidi: The Prophet (ﷺ) said: "O Allah, bless my people in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur?], telah menceritakan kepada kami [Husyaim], telah menceritakan kepada kami [Ya'la bin 'Atho'], telah menceritakan kepada kami ['Umarah bin Hadid], dari [Shakhr Al Ghamidi], dari Nabi shallallahu 'alaihi wasallam, beliau mengucapkan: "ALLAAHUMMA BAARIK LI UMMATII FII BUKUURIHAA (Ya Allah, berkahilah umatku di pagi hari mereka). Dan beliau apabila mengirim expedisi atau pasukan beliau mengirim mereka di awal siang. Dan Shakhr adalah seorang pedagang dan ia mengirim perdagangannya di awal siang, maka hartanya bertambah banyak. Abu Daud berkata; ia adalah Shakhr bin Wada'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2606</td></tr><tr><td>Arabic No</td><td>2606</td></tr><tr><td>Reference</td><td>Book 15 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахра аль-Гамиди, что Пророк ﷺ сказал: «О Аллах! Даруй благодать (членам) моей общины в их раннем утре!», и что обычно, когда (Посланник Аллаха ﷺ) отправлял военный отряд или войско, он отправлял их в начале дня.(Передатчик этого хадиса рассказывал): «Сахр был торговцем и отправлял свой товар (на рынки) в начале дня. Он разбогател и его имущество увеличилось».Абу Дауд сказал: «Его имя Сахр ибн Уада‘а»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2606</td></tr><tr><td>Arabic No</td><td>2606</td></tr><tr><td>Reference</td><td>Book 15 Hadith 130</td></tr></tbody></table></div>
 

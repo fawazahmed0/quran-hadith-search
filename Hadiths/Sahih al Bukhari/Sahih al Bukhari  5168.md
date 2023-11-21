@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) did not give a better wedding banquet on the occ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] ia berkata; Nabi shallallahu 'alaihi wasallam tidak pernah mengadakan walimah terhadap seorang pun dari isteri-isterinya sebagaimana walimah yang beliau adakan atas pernikahannya dengan Zainab. Saat itu, beliau mengadakan walimah dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5168</td></tr><tr><td>Arabic No</td><td>5168</td></tr><tr><td>Reference</td><td>Book 67 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Лучшим свадебным угощением Пророка ﷺ было то, которое он устроил по случаю бракосочетания с Зайнаб. Он приготовил угощение из одной овцы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5168</td></tr><tr><td>Arabic No</td><td>5168</td></tr><tr><td>Reference</td><td>Book 67 Hadith 103</td></tr></tbody></table></div>
 

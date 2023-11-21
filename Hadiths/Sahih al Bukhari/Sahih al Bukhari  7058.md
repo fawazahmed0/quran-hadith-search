@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard the truthful and trusted by Allah (i.e., the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Amru bin Yahya bin Sa'id bin Amru bin Sa'id] mengatakan, telah mengabarkan kepadaku [ayahku] mengatakan, pernah aku duduk bersama [Abu Hurairah] di masjid Nabi shallallahu 'alaihi wasallam di Madinah. Pada saat itu kami juga bersama Marwan. Abu Hurairah mengatakan; 'Aku mendengar seorang yang jujur menyampaikan, dan berita yang dibawanya adalah benar (Muhammad) mengatakan: "Kebinasaan umatku di tangan anak-anak muda Qurays." Spontan Marwan berseru; 'Kiranya laknat Allah tertimpa kepada mereka, anak-anak muda itu! ' Lantas Abu Hurairah mengatakan 'Kalau aku berkenan mengatakan bani fulan, bani fulan, niscaya kulakukan! ' Kemudian aku keluar (mengadakan perjalanan) bersama kakekku ke bani marwan ketika menjadi raja-raja Syam, dan jika ia melihat mereka, mereka adalah anak-anak muda yang masih belia, ia mengatakan kepada kami; 'bisa jadi mereka itu adalah diantara mereka itu (yang disebutkan dalam sabda Nabi).' Maka kami menjawab; 'Engkau lebih tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7058</td></tr><tr><td>Arabic No</td><td>7058</td></tr><tr><td>Reference</td><td>Book 92 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Яхья ибн Са‘ид ибн ‘Амр ибн Са‘ид рассказывал, что его дед рассказывал ему следующую историю: \n— (Однажды) я сидел вместе с Абу Хурайрой в мечети Пророка ﷺ в Медине, и вместе с нами ещё был Марван. И тут Абу Хурайра сказал: «Я слышал, как правдивый и достойный доверия, говорил: “Погибель моей общины от рук юнцов из числа курайшитов”». Тогда Марван сказал: «Да проклянёт Аллах этих юнцов!» И Абу Хурайра сказал: «Если бы я хотел назвать их по именам, то обязательно сделал бы это!» \n(‘Амр ибн Яхья сказал:) «Когда потомки Марвана получили власть над Шамом, мы приходили к ним с моим дедом, и когда мы видели, что у власти из них находятся молодые юнцы, дед говорил нам: “Быть может они и есть те, о ком говорил (Пророк ﷺ)!”, а мы отвечали: “Тебе знать лучше!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7058</td></tr><tr><td>Arabic No</td><td>7058</td></tr><tr><td>Reference</td><td>Book 92 Hadith 10</td></tr></tbody></table></div>
 

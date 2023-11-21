@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) said, "He who has a slave-girl an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Shalih] dari [Asy-Sya'biy] dari [Abu Burdah] dari [Abu Musa Al Asy'ariy radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Siapa saja dari seseorang yang memiliki seorang budak wanita lalu dididiknya dengan sebaik-baik pendidikan, kemudian dibebaskannya lalu dinikahinya maka baginya mendapat dua pahala, dan siapa saja dari seorang hamba yang menunaikan hak Allah dan hak tuannya maka baginya mendapat dua pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 49 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Пророк ﷺ сказал: “Тот, у кого была рабыня, которую он воспитывал должным образом, а потом освободил её и женился на ней, получит двойную награду. И тот раб, который соблюдал право Аллаха, и право своего господина, получит двойную награду”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 49 Hadith 30</td></tr></tbody></table></div>
 

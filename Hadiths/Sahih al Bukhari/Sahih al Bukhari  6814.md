@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah Al-Ansari:A man from the tribe of Bani Aslam came t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] mengatakan; telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] dari [Jabir bin Abdullah Al Anshary], ada seorang laki-laki dari kabilah Aslam menemui Rasulullah Shallallahu'alaihiwasallam, ia menceritakkanya bahwa laki-laki itu telah berzina dan ia sendiri bersaksi empat kali, maka Rasulullah Shallallahu'alaihiwasallam memerintahkan untuk merajamnya, karena laki-laki itu telah menikah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6814</td></tr><tr><td>Arabic No</td><td>6814</td></tr><tr><td>Reference</td><td>Book 86 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха аль-Ансари, что (однажды) один мужчина из племени аслям пришёл к Посланнику Аллаха ﷺ и рассказал ему, что совершил прелюбодеяние и засвидетельствовал против себя четырежды, тогда Посланник Аллаха ﷺ приказал забить его камнями. И этот человек был тем, кто вступал в половую связь в браке /мухсын
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6814</td></tr><tr><td>Arabic No</td><td>6814</td></tr><tr><td>Reference</td><td>Book 86 Hadith 43</td></tr></tbody></table></div>
 

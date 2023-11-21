@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rafi b. Khadij (Allah be pleased with him) reported:We used to give on rent land
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ali bin Hujr As Sa'di] dan [Ya'qub bin Ibrahim] keduanya berkata; Telah menceritakan kepada kami [Isma'il yaitu Ibnu 'Ulayyah] dari [Ayyub] dari [Ya'la bin Hakim] dari [Sulaiman bin Yasar] dari [Rafi' bin Khadij] dia berkata; "Dulu di zaman Rasulullah shallallahu 'alaihi wasallam kami biasa melakukan muhaqalah tanah perkebunan, oleh karena itu kami biasa menyewakannya dengan bayaran sepertiga atau seperempat (dari hasil panen) atau dengan bayaran makanan tertentu. Hingga pada suatu ketika, salah seorang pamanku datang seraya berkata; 'Rasulullah shallallahu 'alaihi wasallam telah melarang usaha kita yang menguntungkan ini, tetapi mematuhi perintah Allah dan Rasul-Nya lebih bermanfa'at bagi kita. Beliau melarang kita menyewakan tanah dengan memungut sepertiga atau seperempat hasil tanaman atau makanan tertentu. Dan Allah memerintahkan kita supaya menanaminya sendiri atau ditanami orang lain tanpa memungut sewa atau yang semisal itu'." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Hammad bin Zaid] dari [Ayyub] dia berkata; [Ya'la bin Hakim] menulis sesuatu kepada kami, dia berkata; Saya mendengar [Sulaiman bin Yasar] telah bercerita dari [Rafi' bin Khadij] dia berkata; Dahulu kami biasa menyewakan tanah perkebunan dengan bayaran sepertiga atau seperempat, kemudian dia menyebutkan seperti hadits Ibnu 'Ulayyah. Dan telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Khalid bin Al Harits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Abdul A'la]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami ['Abdah] semuanya dari [Ibnu Abi 'Arubah] dari [Ya'la bin Hakim] dengan isnad ini. Telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Jarir bin Hazim] dari [Ya'la bin Hakim] dengan isnad ini, dari [Rafi' bin Khadij] dari Nabi shallallahu 'alaihi wasallam, dan dia tidak mengatakan; "Dari salah seorang pamannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3945</td></tr><tr><td>Arabic No</td><td>1548.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3945</td></tr><tr><td>Arabic No</td><td>1548.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 144</td></tr></tbody></table></div>
 

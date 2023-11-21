@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abi Ghallab Yunus bin Jubair:I asked Ibn 'Umar,"(What is said regarding
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Hammam bin Yahya] dari [Qatadah] dari [Abu Ghallab Yunus bin Jubair] ia berkata; Aku berkata kepada [Ibnu Umar], "Bagaimana dengan seorang laki-laki yang menceraikan isterinya dalam keadaan haidl?" Ia pun berkata, "Apakah kamu kenal Ibnu Umar? Sesungguhnya Ibnu Umar pernah menceraikan isterinya dalam keadaan haidl, lalu Umar pun mendatangi Nabi shallallahu 'alaihi wasallam dan menuturkan hal itu. Maka beliau pun memerintahkannya untuk meruju'nya kembali. Jika wanita itu suci dan ia ingin untuk menceraikannya, maka ia boleh menceraikannya." Aku bertanya, "Apakah itu terhitung talak?" ia berkata; "Apakah kamu kira ia tak mampu atau pandir?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 68 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Галляб Юнус ибн Джубайр сказал: «Я спросил Ибн ‘Умара: “Что если мужчина дал жене развод во время менструации?” Он ответил: “Знаешь ли ты Ибн ‘Умара? Ибн ‘Умар дал развод своей жене, когда у неё была менструация, и ‘Умар пошёл к Пророку ﷺ и спросил его об этом, а Пророк ﷺ велел ему вернуть её, а когда она очистится, то если он захочет развести её, пусть разводит”. Я спросил: “А засчитался ли этот развод?” Он ответил: “А как думаешь, (разве это оправдание), что он проявил слабость и глупость?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 68 Hadith 8</td></tr></tbody></table></div>
 

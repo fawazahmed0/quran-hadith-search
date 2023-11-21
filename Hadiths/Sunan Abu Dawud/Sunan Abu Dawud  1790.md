@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas reported the Prophet (ﷺ) as saying This is an ‘Umrah from which
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah] bahwa [Muhammad bin Ja'far] telah menceritakan kepada mereka dari [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda: "Ini adalah umrah yang kita nikmati, barang siapa yang tidak membawa hewan kurban maka hendaknya ia bertahallul secara menyeluruh, sungguh umrah telah masuk dalam haji hingga hari Kiamat." Abu Daud berkata; ini adalah hadits munkar, hal tersebut adalah perkataan Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1241)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1790</td></tr><tr><td>Arabic No</td><td>1790</td></tr><tr><td>Reference</td><td>Book 11 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Мы воспользовались этой ‘умрой, поэтому пусть тот, кто не гнал жертвенный скот, полностью выйдет из состояния ихрама. Поистине, ‘умра вошла в хадж до самого Судного дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1241)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1790</td></tr><tr><td>Arabic No</td><td>1790</td></tr><tr><td>Reference</td><td>Book 11 Hadith 70</td></tr></tbody></table></div>
 

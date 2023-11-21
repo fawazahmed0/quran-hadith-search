@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We poured medicine into the mouth of the Prophet (ﷺ) during hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali bin Bahr] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Musa bin Abi Aisyah] dari [Ubaidullah bin Abdillah] dari [Aisyah] radliallahu 'anha, mengatakan; Pernah kami memasukkan obat di mulut Nabi shallallahu 'alaihi wasallam ketika sakitnya, namun beliau berpesan: "Janganlah kalian memasukkan obat dalam mulutku!" Kami hanya saling mengatakan; 'Itu hanyalah kebiasaan orang sakit yang enggan minum obat'. Ketika beliau sadar, beliau bersabda: "Tidak ada diantara kalian kecuali mulutnya harus diminumi obat, kecuali Abbas, sebab ia tidak ikut serta bersama kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6886</td></tr><tr><td>Arabic No</td><td>6886</td></tr><tr><td>Reference</td><td>Book 87 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время болезни Пророка ﷺ мы положили ему в рот лекарство, но сказал: “Не делайте этого!”, — мы же сказали: “(Это потому что ни один) больной не хочет (принимать) лекарства”. Но когда (Пророк ﷺ) очнулся, он сказал: “Пусть дадут лекарство каждому (из присутствовавших в доме), кроме аль-‘Аббаса, ибо его среди вас не было!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6886</td></tr><tr><td>Arabic No</td><td>6886</td></tr><tr><td>Reference</td><td>Book 87 Hadith 25</td></tr></tbody></table></div>
 

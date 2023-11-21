@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of Allah's Apostle (ﷺ), reported Allah's Messenger (ﷺ) as h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Salim bin Abdullah] bahwa [Abdullah bin Muhammad bin Abu Bakr Ash Shiddiq] telah mengabarkan kepada [Abdullah bin Umar] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa Rasulullah shallallahu 'alaihi wasallam bertanya: "Tidakkah kamu lihat, bahwa ketika kaummu membangun Ka'bah, mereka mempersempitnya dari Asas Ibrahim?" Aisyah berkata; Kukatakan, "Apakah Anda akan mengembalikannya pada Asas Ibrahim?" maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Sekiranya bukan karena kaummu yang baru saja meninggalkan kekufuran, niscaya aku akan melakukannya." Abdullah bin Umar berkata; Duh sekiranya Aisyah mendengar hal ini langsung dari Rasulullah shallallahu 'alaihi wasallam!" Setahuku Rasulullah shallallahu 'alaihi wasallam tidak pernah terlihat meninggalkan pengusapan dua rukun dekat Hijr, hanya saja pembangunan Baitullah di atas Asas Ibrahim belum sempurna ketika itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>1333.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 446</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>1333.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 446</td></tr></tbody></table></div>
 

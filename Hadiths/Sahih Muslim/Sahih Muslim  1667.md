@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Abu Laila reported:No one has ever narrated to me that he saw t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Abdurrhman bin Abu Laila] katanya; "Tidak ada seorangpun yang mengabariku bahwa ia melihat Nabi shallallahu 'alaihi wasallam melakukan shalat dhuha, selain [Ummu Hani'], dialah yang menceritakan bahwa Nabi shallallahu 'alaihi wasallam pernah masuk rumahnya ketika Penaklukan kota Makkah, lalu beliau shalat delapan rakaat, dan aku belum pernah melihat beliau melakukan shalat yang lebih ringan daripada shalat ketika itu, beliau menyempurnakan rukuk dan sujudnya." Namun dalam haditsnya, Ibnu Basyar tidak menyebutkan ucapannya sama sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1667</td></tr><tr><td>Arabic No</td><td>336.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Абу Лейля сказал: «Никто не передавал нам, что видел, как Пророк ﷺ совершал молитву “ад-духа”, кроме Умм Хани, которая рассказывала, что в день покорения Мекки Пророк ﷺ совершил в её доме молитву в восемь рак‘атов. И она сказала: “Я не видела, чтобы он совершал молитву легче этой, но при этом он завершал поясные и земные поклоны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1667</td></tr><tr><td>Arabic No</td><td>336.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 97</td></tr></tbody></table></div>
 

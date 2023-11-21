@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said “The Qur’anic verse “Unless you go forth, He will punish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi], telah menceritakan kepadaku [Ali bin Al Husain], dari [ayahnya], dari [Yazid An Nahwi], dari [Ikrimah] dari [Ibnu Abbas], ia berkata; "Jika kamu tidak berangkat untuk berperang, niscaya Allah menyiksa kamu dengan siksa yang pedih." "Tidaklah sepatutnya bagi penduduk Madinah……." hingga firman Allah "……yang telah mereka kerjakan." Ayat tersebut telah digantikan dengan ayat yang berikutnya: "Tidak sepatutnya bagi mukminin itu pergi semuanya (ke medan perang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2505</td></tr><tr><td>Arabic No</td><td>2505</td></tr><tr><td>Reference</td><td>Book 15 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2505</td></tr><tr><td>Arabic No</td><td>2505</td></tr><tr><td>Reference</td><td>Book 15 Hadith 29</td></tr></tbody></table></div>
 

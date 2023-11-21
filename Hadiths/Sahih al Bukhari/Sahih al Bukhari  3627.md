@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:About Ibn 'Abbas: 'Umar bin Al-Khattab used to treat I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3627</td></tr><tr><td>Arabic No</td><td>3627</td></tr><tr><td>Reference</td><td>Book 61 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что когда ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, приблизил его к себе, ‘Абдуррахман ибн ‘Ауф сказал: «Наши сыновья его возраста!» — (в ответ) ‘Умар сказал: «Это по причине его знаний». После этого ‘Умар спросил Ибн ‘Аббаса о следующем аяте: «Когда придёт помощь Аллаха и победа» (сура «ан-Наср», 1). И он сказал: «Здесь (имеется в виду) срок (жизни) Посланника Аллаха ﷺ о (близости завершения которого) сообщил Аллах. ‘Умар сказал: «Я (тоже) ничего не знаю об этой суре, кроме того, что говоришь ты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3627</td></tr><tr><td>Arabic No</td><td>3627</td></tr><tr><td>Reference</td><td>Book 61 Hadith 131</td></tr></tbody></table></div>
 

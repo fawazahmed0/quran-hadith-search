@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraidah:The Messenger of Allah (ﷺ) as saying: I forbade you to visit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Mu'arrif bin Washil] dari [Muharib bin Ditsar] dari [Ibnu Buraidah] dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku telah melarang kalian menziarahi kuburan, sekarang berziarahlah ke kuburan, karena dalam berziarah itu terdapat peringatan (mengingatkan kematian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (977)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3235</td></tr><tr><td>Arabic No</td><td>3235</td></tr><tr><td>Reference</td><td>Book 21 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Бурайды, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Ранее я запретил вам посещать могилы, а теперь посещайте их, ибо их посещение становится напоминанием»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (977)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3235</td></tr><tr><td>Arabic No</td><td>3235</td></tr><tr><td>Reference</td><td>Book 21 Hadith 147</td></tr></tbody></table></div>
 

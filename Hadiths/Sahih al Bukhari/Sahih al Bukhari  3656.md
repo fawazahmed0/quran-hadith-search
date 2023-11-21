@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "If I were to take a Khalil, I would
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muslim bin Ibrahim] telah bercerita kepada kami [Wuhaib] telah bercerita kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Seandainya aku diperbolehkan menjadikan diantara ummatku sebagai puncak kekasih pastilah aku pilih Abu Bakr. Akan tetapi dia hanyalah saudaraku sekaligus sahahabatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3656</td></tr><tr><td>Arabic No</td><td>3656</td></tr><tr><td>Reference</td><td>Book 62 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если бы мне пришлось выбирать “халиля” (любимца) из числа (членов) моей общины, я непременно выбрал бы Абу Бакра, однако он мой брат и соратник!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3656</td></tr><tr><td>Arabic No</td><td>3656</td></tr><tr><td>Reference</td><td>Book 62 Hadith 8</td></tr></tbody></table></div>
 

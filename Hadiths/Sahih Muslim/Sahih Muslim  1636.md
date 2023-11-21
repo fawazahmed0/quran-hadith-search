@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported:Ibn 'Abbas one day addressed us in the afternoon (af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad] dari [Zubair bin Khirrit] dari [Abdullah bin Syaqiq] katanya; Suatu hari [Ibnu Abbas] pernah berpidato di hadapan kami, yaitu setelah ashar hingga matahari terbenam dan bintang-bintang mulai bermunculan, maka orang-orang berseru; "Shalat, shalat!" Tidak lama kemudian seorang laki-laki bani Tamim, seorang yang tak pernah loyo dan juga tak pernah malas datang; "Shalat, shalat." Ibnu Abbas berkata; "Apakah engkau hendak mengajariku sunnah, celaka kamu! Selanjutnya dia berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam menjamak antara Zhuhur dan Ashar, Maghrib dan Isya'." [Abdullah bin Syaqiq] berkata; Maka dalam hatiku ada sesuatu yang mengganjal, sehingga aku menemui [Abu Hurairah] dan kutanyakan masalah ini kepadanya, ternyata ia membenarkan ucapan Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>705.07</td></tr><tr><td>Reference</td><td>Book 6 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн Шакык сказал: «Однажды после послеполуденной молитвы /‘аср/ Ибн ‘Аббас обратился к нам с проповедью, (и говорил) до тех пор, пока не зашло солнце и не показались звёзды. Люди стали говорить: “Молитва, молитва…”. Затем к нему подошёл человек из (племени) бану тамим, и стал настойчиво и неуклонно повторять: “Молитва, молитва…”. Тогда Ибн ‘Аббас сказал: “Ты учишь меня Сунне, да лишится тебя твоя мать?!” Затем он сказал: “Я видел, как Посланник Аллаха ﷺ совместил полуденную молитву с послеполуденной, а закатную с вечерней”».‘Абдуллах ибн Шакык сказал: «Из-за этого в моём сердце возникло некое сомнение, и я пришёл к Абу Хурайре и спросил его (об этом), а он подтвердил то, что сказал Ибн ‘Аббас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>705.07</td></tr><tr><td>Reference</td><td>Book 6 Hadith 67</td></tr></tbody></table></div>
 

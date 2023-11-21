@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Shu'ba reported from Habib:While we were in Medina we heard of plague having bro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Syu'bah] dari [Habib] dia berkata; Ketika kami sedang berada di Madinah, tiba-tiba sampai kepadaku berita bahwa wabah Tha'uun sedang berjangkit di Kufah. Maka [Atha bin Yasar] dan yang lainnya berkata kepadaku; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Apabila kamu berada di suatu tempat dan wabah tersebut ada di dalamnya, maka janganlah kamu keluar darinya. Dan apabila kamu mendengar wabah tersebut ada di suatu tempat, maka janganlah kamu mendatangi tempat itu." Aku bertanya; dari siapa kamu dapat berita tersebut? Mereka menjawab; 'Dari [Amir bin Sa'ad]. Aku berkata; Aku akan menemuinya. Mereka berkata; 'Dia sedang tidak ada.' Maka aku menemui saudaranya, [Ibrahim bin Sa'ad]. Lalu aku tanyakan kepadanya, dan dia menjawab; 'Aku melihat [Usamah] bercerita kepada Sa'ad seraya berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Penyakit Tha'uun ini adalah adzab atau suatu peringatan, atau sisa dari Adzab yang dengannya Allah menyiksa sekelompok umat sebelum kalian. Maka apabila kamu mendengar wabah itu berjangkit di suatu negeri, dan kamu berada di dalamnya, janganlah kamu keluar darinya. Dan apabila wabah itu berjangkit di suatu negeri, maka janganlah kalian mendatanginya." [Habib] berkata; Aku tanyakan kepada [Ibrahim]; Apakah kamu mendengar [Usamah] mengatakannya kepada Sa'ad dan dia tidak mengingkarinya? Ibrahim menjawab; 'Ya.' Dan telah menceritakannya kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] melalui jalur ini, namun pada awal Haditsnya dia tidak menyebutkan kisah ['Atha bin Yasar]. Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Habib] dari [Ibrahim bin Sa'd] dari [Sa'd bin Malik] dan [Khuzaimah bin Tsabit] dan [Usamah bin Zaid] mereka berkata; Rasulullah shallallahu 'alaihi wasallam bersabda seperti Hadits yang semakna dengan Hadits Syu'bah. Dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] keduanya dari [Jarir] dari [Al A'masy] dari [Habib] dari [Ibrahim bin Sa'd bin Abi Waqqash] dia berkata; [Usamah bin Zaid] dan [Sa'd] duduk-duduk berdua sedang membicarakan sesuatu. Lalu keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: (dengan Hadits yang serupa). Telah menceritakannya kepadaku; [Wahb bin Baqiyah]; Telah mengabarkan kepada kami [Khalid] yaitu Ath Thahan dari [Asy Syaibani] dari [Habib bin Abu Tsabit] dari [Ibrahim bin Sa'd bin Malik] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5779</td></tr><tr><td>Arabic No</td><td>2218.08</td></tr><tr><td>Reference</td><td>Book 39 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5779</td></tr><tr><td>Arabic No</td><td>2218.08</td></tr><tr><td>Reference</td><td>Book 39 Hadith 131</td></tr></tbody></table></div>
 

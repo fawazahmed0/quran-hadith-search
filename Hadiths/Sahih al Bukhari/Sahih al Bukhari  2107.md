@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "The buyer and the seller have the op
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah] telah mengabarkan kepada kami ['Abdul Wahhab] berkata, aku mendengar [Yahya bin Sa'id] berkata, aku mendengar [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Dua orang yang melakukan jual beli boleh melakukan khiyar (pilihan untuk melangsungkan atau membatalkan) dalam jual beli selama keduanya belum berpisah, atau jual beli menjadi khiyar (terjadi dengan pilihan) ". Nafi' berkata: "Adalah Ibnu 'Umar radliallahu 'anhuma bila membeli sesuatu, baru menganggapnya telah terjadi jual beli bila sudah berpisah dari penjualnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2107</td></tr><tr><td>Arabic No</td><td>2107</td></tr><tr><td>Reference</td><td>Book 34 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Поистине, продавец и покупатель имеют право выбора завершить или отменить сделку до тех пор, пока не расстанутся, кроме продажи с условием выбора».\nНафи‘ сказал: «Когда Ибн ‘Умар покупал вещь, которая ему нравилась, он покидал продавца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2107</td></tr><tr><td>Arabic No</td><td>2107</td></tr><tr><td>Reference</td><td>Book 34 Hadith 60</td></tr></tbody></table></div>
 

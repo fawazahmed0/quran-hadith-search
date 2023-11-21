@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Dharr: The Messenger of Allah (ﷺ) said to me: Abu Dharr, I see yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abu Abdurrahman Al Muqri'], telah menceritakan kepada kami [Sa'id bin Abu Ayyub], dari ['Ubaidullah bin Abu Ja'far], dari [Salim bin Abu Salim Al Jaisyani], dari [ayahnya], dari [Abu Dzar], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abu Dzar, aku melihat engkau adalah orang yang lemah dan aku mencintai sesuatu untukmu sebagaimana yang aku cintai untuk diriku. Maka janganlah engkau memimpin dua orang dan jangan engkau mengurusi harta anak yatim." Abu Daud berkata; hadits tersebut hanya diriwayatkan penduduk Mesir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1826)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2868</td></tr><tr><td>Arabic No</td><td>2868</td></tr><tr><td>Reference</td><td>Book 18 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Зарра, да будет доволен им Аллах: «Посланник Аллаха ﷺ сказал мне: “О Абу Зарр, поистине, я вижу, что ты слаб, и, поистине, я желаю тебе того же, чего желаю самому себе. Не становись же правителем (даже) для двоих и не берись распоряжаться имуществом сироты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1826)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2868</td></tr><tr><td>Arabic No</td><td>2868</td></tr><tr><td>Reference</td><td>Book 18 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:the Prophet (ﷺ) said, "He who slaps his cheeks, tears his c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Zubaid Al Yamiy] dari [Ibrahim] dari [Masruq] dari ['Abdullah radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam telah bersabda: "Bukan dari golongan kami siapa yang menampar-nampar pipi, merobek-robek baju dan menyeru dengan seruan jahiliyyah (meratap)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1294</td></tr><tr><td>Arabic No</td><td>1294</td></tr><tr><td>Reference</td><td>Book 23 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Не относится к нам тот, кто бьёт себя ладонями по щекам, разрывает на себе одежду и говорит то, что говорили во времена джахилийи!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1294</td></tr><tr><td>Arabic No</td><td>1294</td></tr><tr><td>Reference</td><td>Book 23 Hadith 52</td></tr></tbody></table></div>
 

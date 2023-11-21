@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Humran said :I saw ‘Uthman b. ‘Affan performing ablution. He then narrated t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>107</td></tr><tr><td>Arabic No</td><td>107</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумран (да помилует его Аллах) сказал: «Я видел, как ‘Усман ибн ‘Аффан (да будет доволен им Аллах) совершал омовение», и далее он привёл то же самое, (что было сказано в предыдущем хадисе,) и не упомянул о прополаскивании рта /мадмада/ и очищении носа водой /истиншакъ/. Он также сказал в нём: Он обтёр свою голову трижды, затем трижды помыл ноги, после чего сказал: «Я видел, как Посланник Аллаха ﷺ совершил омовение таким образом и сказал: “Тому, кто совершит омовение меньше этого, будет этого достаточно”».И он не упомянул о (совершении двух рак‘атов) молитвы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>107</td></tr><tr><td>Arabic No</td><td>107</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
 

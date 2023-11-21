@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported:When I and my brother came from Yemen we used to consider Ibn 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Muhammad bin Rafi'] dan lafazh ini milik Ibnu Rafi'. Berkata [Ishaq]; Telah mengabarkan kepada kami dan berkata [Ibnu Rafi']; Telah menceritakan kepada kami [Yahya bin Adam]; Telah menceritakan kepada kami [Ibnu Abu Zaidah] dari [Bapaknya] dari [Abu Ishaq] dari [Al Aswad bin Yazid] dari [Abu Musa] dia berkata; "Pada suatu hari, saya dan saudara laki-laki saya baru datang dari Yaman. Ketika datang, kami tidak melihat lbnu Mas'ud dan ibunya melainkan dalam keluarga Rasulullah shallallahu 'alaihi wasallam, karena seringnya mereka masuk dan berada di rumah beliau." Dan telah menceritakannya kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Ishaq bin Manshur]; Telah menceritakan kepada kami [Ibrahim bin Yusuf] dari [Bapaknya] dari [Abu Ishaq] bahwa dia mendengar [Al Aswad] berkata; Aku mendengar [Abu Musa] berkata; "Aku dan saudaraku datang dari Yaman. (dan seterusnya dengan Hadits yang serupa). Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] mereka berkata; Telah menceritakan kepada kami ['Abdur Rahman] dari [Sufyan] dari [Abu Ishaq] dari [Al Aswad] dari [Abu Musa] dia berkata; 'Aku menemui Rasulullah shallallahu 'alaihi wasallam, dan aku menyangka Abdullah bin Mas'ud termasuk dari ahlul baitnya.' -atau dia menyebutkan lafazh yang serupa dengan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6326</td></tr><tr><td>Arabic No</td><td>2460.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6326</td></tr><tr><td>Arabic No</td><td>2460.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 156</td></tr></tbody></table></div>
 

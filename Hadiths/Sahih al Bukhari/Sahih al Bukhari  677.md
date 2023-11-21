@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiyub:Abu Qilaba said, "Malik bin Huwairith came to this Mosque of ours
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] berkata, telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] berkata, " [Malik bin Al Huwairits] datang menemui kami di Masjid kami ini, ia lalu berkata, "Aku akan melaksanakan shalat dengan kalian. Dan aku tidak ingin mengerjakan suatu shalat selain cara shalat yang pernah aku lihat Nabi shallallahu 'alaihi wasallam melaksanakannya." Aku pun bertanya kepada kepada Abu Qilabah, "Bagaimanakah cara shalat Nabi shallallahu 'alaihi wasallam?" Ia menjawab, "Seperti guru kita ini. Setelah mengangkat kepalanya dari sujud, ia duduk sebentar sebelum bangkit di rakaat pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>677</td></tr><tr><td>Arabic No</td><td>677</td></tr><tr><td>Reference</td><td>Book 10 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Къилаба сказал:«Однажды к нам в эту мечеть пришёл Малик ибн аль-Хувайрис, да будет доволен им Аллах, и сказал (людям): “Поистине, я совершаю с вами намаз не потому, что хочу совершить его. Я молюсь (точно так же, как) я видел (собственными глазами), как молился Пророк ﷺ”».\n(Аййюб ас-Сахтияни) сказал: «Я спросил у Абу Къилабы: “А как он совершал намаз?” Он ответил: “Так же, как этот наш шейх”. Он сказал: “Шейх садился, когда поднимал голову с земного поклона, перед тем, как подняться с первого рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>677</td></tr><tr><td>Arabic No</td><td>677</td></tr><tr><td>Reference</td><td>Book 10 Hadith 71</td></tr></tbody></table></div>
 

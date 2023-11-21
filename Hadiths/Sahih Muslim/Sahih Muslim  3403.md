@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), un groupe des compagnons du Proph�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakar bin Nafi' Al Abdi] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa sekelompok orang dari kalangan sahabat Nabi shallallahu 'alaihi wasallam bertanya kepada isteri-isteri Nabi shallallahu 'alaihi wasallam mengenai amalan beliau yang tersembunyi. Maka sebagian dari mereka pun berkata, "Saya tidak akan menikah." Kemudian sebagian lagi berkata, "Aku tidak akan makan daging." Dan sebagian lain lagi berkata, "Aku tidak akan tidur di atas kasurku." Mendengar ucapan-ucapan itu, Nabi shallallahu 'alaihi wasallam memuji Allah dan menyanjung-Nya, kemudian beliau bersabda: "Ada apa dengan mereka? Mereka berkata begini dan begitu, padahal aku sendiri shalat dan juga tidur, berpuasa dan juga berbuka, dan aku juga menikahi wanita. Maka siapa yang saja yang membenci sunnahku, berarti bukan dari golonganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>1401</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>1401</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
 

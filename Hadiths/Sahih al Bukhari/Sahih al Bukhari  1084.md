@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin Yazid:We offered a four rak'at prayer at Mina behind 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami ['Abdul Wahid bin Ziyad] dari [Al A'masy] berkata, telah menceritakan kepada kami [Ibrahim] berkata; Aku mendengar ['Abdurrahman bin Yazid] berkata; 'Usman bin 'Affan radliallahu 'anhu pernah shalat bersama kami di Mina sebanyak empat raka'at. Kemudian hal ini disampaikan kepada [Ibnu Mas'ud radliallahu 'anhu] maka dia mengucapkan istirja' (innaa lillahi wa innaa ilahi raji'un) kemudian berkata: "Sungguh aku selalu shalat bersama Rasulullah shallallahu 'alaihi wasallam di Mina sebanyak dua raka'at. Begitu juga aku shalat bersama Abu Bakat Ash-Shiddiq radliallahu 'anhu di Mina sebanyak dua raka'at. Juga aku pernah shalat 'Umar bin Al Khaththob radliallahu 'anhu di Mina sebanyak dua raka'at. Namun aku berharap shalat yang empat raka'at maupun dua raka'at keduanya diterima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1084</td></tr><tr><td>Arabic No</td><td>1084</td></tr><tr><td>Reference</td><td>Book 18 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда ‘Абдулле ибн Мас‘уду, да будет доволен им Аллах, сказали: «‘Усман бин ‘Аффан, да будет доволен им Аллах, совершил с нами намаз в четыре рак‘ата», он воскликнул: «Поистине, мы принадлежим Аллаху, и, поистине, к Нему мы вернёмся!» — потом сказал: «Я совершил в Мине намаз в два рак‘ата с посланником Аллаха ﷺ и я совершил в Мине намаз в два рак‘ата с Абу Бакром, да будет доволен им Аллах, и я совершил в Мине намаз в два рак‘ата с ‘Умаром бин аль-Хаттабом, да будет доволен им Аллах», (после чего добавил): «О, если бы выпало мне счастье совершить четыре таких рак‘ата, (хотя бы) два из которых будут приняты!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1084</td></tr><tr><td>Arabic No</td><td>1084</td></tr><tr><td>Reference</td><td>Book 18 Hadith 5</td></tr></tbody></table></div>
 

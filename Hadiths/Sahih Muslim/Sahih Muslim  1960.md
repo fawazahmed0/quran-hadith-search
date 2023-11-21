@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman son of Abd Sa'id al-Khudri reported on the authority of his father
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Amru bin Sawwad Al Amiri] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepada kami [Amru bin Harits] bahwa [Sa'id bin Abu Hilal] dan [Bukair bin Al Asyaj] keduanya telah menceritakan kepadanya dari [Abu Bakr bin Al Munkadir] dari [Amru bin Sulaim] dari [Abdurrahman bin Abu Sa'id Al Khudri] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Mandi pada hari jum'at adalah wajib bagi setiap muslim yang muhtalim (telah dewasa). Begitu pula menggosok gigi, memakai wewangian sekedar yang dapat ia lakukan." Kemudian Bukair tidak menyebutkan Abdurrahman. Dan ia berkata, berkenaan dengan wewangian; "Meskipun dengan wewangian wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1960</td></tr><tr><td>Arabic No</td><td>846.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «В пятницу полное омовение и использование зубочистки обязательны для каждого (мусульманина), достигшего половой зрелости. (Кроме того, каждому), по возможности, следует использовать благовония»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1960</td></tr><tr><td>Arabic No</td><td>846.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 10</td></tr></tbody></table></div>
 

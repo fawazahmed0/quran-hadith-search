@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported:I asked Allah's Messenger (ﷺ) about hunting the game wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Zakaria] dari ['Amir] dari [Adi bin Hatim] dia berkata, "Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang buruan yang mati dengan senjata Mi'radl." Beliau pun menjawab: "Jika yang mengenai adalah pada bagian yang tajam maka makanlah, namun jika yang mengenai adalah pada sisi yang tumpul maka itu adalah buruan yang mati karena pukulan." Kemudian saya bertanya kepada beliau tentang anjing buruan, beliau menjawab: "Apa yang ditangkap anjing itu sedangkan ia tidak memakannya, maka makanlah buruan tersebut sebab kamu telah menyembelih dengan cara yang syar'i, jika kamu mendapatinya bersama anjing yang lain, maka di khawatirkan yang membunuh buruan tersebut adalah anjing yang lain, maka janganlah kamu memakan buruan itu. Hanyasanya kamu menyebut nama Allah untuk anjingmu bukan untuk anjing yang lain." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Zakaria bin Abu Zaidah] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4977</td></tr><tr><td>Arabic No</td><td>1929.06</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4977</td></tr><tr><td>Arabic No</td><td>1929.06</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
 

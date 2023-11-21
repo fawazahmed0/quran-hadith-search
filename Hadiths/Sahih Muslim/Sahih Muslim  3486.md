@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:A man came to Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in] telah menceritakan kepada kami [Marwan bin Mu'awiyah Al Fazari] telah menceritakan kepada kami [Yazid bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah] dia berkata; "Seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Sesungguhnya saya akan menikahi wanita dari Anshar." Lantas Nabi shallallahu 'alaihi wasallam balik bertanya kepadanya: "Apakah kamu telah melihatnya? karena di mata orang-orang Anshar ada sesuatu. Dia menjawab; "Ya saya telah melihatnya." Beliau bertanya lagi; "Dengan maskawin berapa kamu menikahinya?" Dia mejawab; "Dengan empat uqiyah". Lantas Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Dengan empat uqiyyah? seakan-akan kalian memahat perak dari sisi gunung ini. Kami tidak memiliki sebanyak itu untuak diberikan kepadamu, namun suatu saat kami akan mengutusmu mengikuti suatu peperangan sehingga kamu bisa mendapatkan ghanimah." Maka tatkala beliau mengutus rombongan perang ke Bani Abs, beliau mengutus orang itu bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3486</td></tr><tr><td>Arabic No</td><td>1424.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3486</td></tr><tr><td>Arabic No</td><td>1424.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 88</td></tr></tbody></table></div>
 

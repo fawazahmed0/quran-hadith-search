@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar used to rent his farms in the time of Abu Bakr, 'Umar, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] bahwa [Ibnu'Umar radliallahu 'anhuma] mempraktekkan sistim upah bagi penggarap ladang pada masa Nabi shallallahu 'alaihi wasallam, Abu Bakar, 'Umar, 'Utsman dan di awal pemerintahan Mu'awiyah kemudian diceritakan dari [Rafi' bin Khudaij] bahwa Nabi shallallahu 'alaihi wasallam melarang menyewakan ladang lalu Ibnu'Umar radliallahu 'anhuma pergi menemui Rafi' dan aku pergi besamanya, lalu bertanya kepadanya maka dia menjawab bahwa Nabi shallallahu 'alaihi wasallam melarang menyewakan ladang maka Ibnu'Umar radliallahu 'anhuma berkata: "Sungguh kamu telah mengetahui bahwa kami menyewakan ladang pada masa Rasulullah shallallahu 'alaihi wasallam dengan bagian seperempat atau dengan jerami yang harus kami bayarkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2343</td></tr><tr><td>Arabic No</td><td>2343</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘, да помилует его Аллах Всевышний, сказал: «Ибн ‘Умар, да будет доволен Аллах ими обоими, сдавал свои сельскохозяйственные угодья в аренду при жизни Пророка ﷺ во время (правления) Абу Бакра, ‘Умара и ‘Усмана и в начале (периода правления) Му‘авийи, а потом ему передали, что Рафи‘ бин Хадидж говорит, что Пророк ﷺ запрещал сдавать в аренду землю. (Услышав об этом,) Ибн ‘Умар пошёл к Рафи‘у, а я пошёл вместе с ним. И он спросил его (об этом, на что Рафи‘ дал такой ответ): “Пророк ﷺ запретил сдавать землю в аренду”. Тогда Ибн ‘Умар сказал: “Ты же знаешь, что мы всегда сдавали в аренду нашу землю при жизни Посланника Аллаха ﷺ за (урожай с того, что вырастало возле) потоков и за (определённое количество) соломы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2343</td></tr><tr><td>Arabic No</td><td>2343</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

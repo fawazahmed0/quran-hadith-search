@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:Allah's Messenger (ﷺ) addressed the people saying, "Don't y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Qurrah bin Khalid] telah menceritakan kepada kami [Ibnu Sirin] dari [Abdurrahman bin Abi Bakrah] dari [Abu Bakrah] dan dari seorang lainnya yang dia lebih utama menurutku daripada Abdurrahman bin Abi Bakrah, dari Abu bakrah, Bahwasanya Rasulullah shallallahu 'alaihi wasallam berpidato di hadapan sahabat dan bertanya: "Tahukah kalian hari apa ini?" 'Allah dan Rasul-Nya lebih tahu' Jawab mereka. Kata Abu Bakrah; Hingga kami ketika itu menyangka bahwa Nabi menamakannya dengan nama lain. Kemudian Nabi bertutur: "Bukankah sekarang hari nahar (korban)?" Kami menjawab; 'betul Ya Rasulullah!.' Rasulullah bertanya: "Negeri manakah ini, bukankah negeri haram?" 'Benar ya Rasulullah' Jawab kami. Rasulullah Shallallahu'alaihiwasallam bersabda: "Sesungguhnya darah kalian, harta kalian, kehormatan kalian, dan kulit kalian adalah haram sebagaimana kehormatan hari kalian ini, dalam bulan kalian ini, dan negeri kalian ini, bukankah telah kusampaikan?" 'Betul' Jawab kami. Nabi melanjutkan: "Ya Allah, saksikanlah, hendaklah yang hadir menyampaikan berita ini kepada yang tidak hadir, berapa banyak orang yang menyampaikan berita kepada orang yang lebih paham." Selanjutnya beliau sampaikan pula sabdanya: "Janganlah kalian menjadi kafir sepeninggalku, sebagian kalian memenggal leher sebagian lainnya." Dan dikala Ibnul khadrami dibakar oleh seorang hamba sahaya Ibnu Qudamah, Abdurrahman mengatakan; 'Tolong kalian lihat Abu bakrah dari tempat yang tinggi! ' lantas mereka mengatakan 'Ini Abu Bakrah melihatmu hai hamba sahaya! ' Abdurrahman berkata; 'ibuku menceritakan kepadaku dari Abu Bakrah, bahwasanya ia mengatakan; 'Kalaulah mereka menemuiku, aku pun tidak akan menohok mereka dengan tongkatku ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7078</td></tr><tr><td>Arabic No</td><td>7078</td></tr><tr><td>Reference</td><td>Book 92 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакра, да будет доволен им Аллах, рассказывал: «Как-то раз Посланник Аллаха ﷺ обратился к людям с проповедью и сказал: “Знаете ли вы, какой это день?” (Люди) сказали: “Аллах и Его посланник знают об этом лучше”, — и (после этого Пророк ﷺ хранил молчание так долго,) что мы подумали, что он назовёт его как-нибудь иначе(, однако) он спросил: “Разве это не День жертвоприношения?” Мы ответили: “Да, о Посланник Аллаха!” Тогда он спросил: “А что это за город? Разве это не священный город?” Мы ответили: “Да, о Посланник Аллаха!” Тогда он сказал: “Поистине, ваша жизнь, ваше имущество, ваша честь и ваша кожа являются столь же священными для вас, как и этот ваш день в этом вашем месяце в этом вашем городе. Довёл ли я (это до вас)?“ Мы сказали: “Да”. Тогда он сказал: “О Аллах! Засвидетельствуй! Присутствующий да известит об этом отсутствующего, ибо, поистине, возможно такое, что доносящий донесёт (мои слова) до того, кто усвоит их лучше“. Также он сказал: “Не становитесь после меня неверными, которые рубят друг другу головы”».\nА в тот день, когда был сожжён (‘Абдуллах) ибн аль-Хадрами, а сжёг его Джария ибн Кудама, (Джария) сказал: «Отправляйтесь к Абу Бакре». (Люди) сказали: «Вот Абу Бакра, он видел то, что сделал ты (с ибн аль-Хадрами)».‘Абдуррахман (ибн Абу Бакра) сказал: «Моя мать рассказала мне, что Абу Бакра сказал: “Если бы они вошли ко мне, я бы не сопротивлялся им даже веткой тростника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7078</td></tr><tr><td>Arabic No</td><td>7078</td></tr><tr><td>Reference</td><td>Book 92 Hadith 29</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The poor person is not the one for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Maryam] Telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata; Telah menceritakan kepadaku [Syarik bin Abu Namir] bahwa [Atha bin Yasar] dan [Abdurrahman bin Abu 'Amrah Al Anshari] keduanya berkata; Kami mendengar [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang miskin bukanlah orang yang merasa telah cukup dengan satu atau dua buah kurma, atau sesuap atau dua suap makanan. Tetapi orang miskin adalah orang yang tidak meminta-minta dan menunjukan kemiskinannya kepada orang lain. Jika kalian mau, bacalah firman Allah: "Mereka tidak meminta-minta kepada orang lain." (Al Baqarah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>4539</td></tr><tr><td>Reference</td><td>Book 65 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не тот беден, кому (довольно) одного-двух фиников или куска-другого еды, лишь тот беден, кто воздерживается, читайте же, если хотите», имея в виду (тот аят, в котором есть) слова Всевышнего “они не просят людей, приставая (к ним)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>4539</td></tr><tr><td>Reference</td><td>Book 65 Hadith 62</td></tr></tbody></table></div>
 

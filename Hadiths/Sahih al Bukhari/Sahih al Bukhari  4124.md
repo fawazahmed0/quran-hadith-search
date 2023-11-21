@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Al-Bara' bin 'Azib said (through another chain of sub-narrators):"On the day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hajjaj bin Minhal] telah mengabarkan kepada kami [Syu'bah] ia berkata; telah mengabarkan kepadaku ['Adi] dia mendengar [Al Bara' radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda kepada Hassan: "Seranglah mereka, atau hancurkanlah mereka, karena jibril selalu bersamamu". Dan [Ibrahim bin Thahman] menambahkan dari [Asy Syaibani] dari ['Adi bin Tsabit] dari [Al Bara' bin 'Azib] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada Hasaan bin Tsabit pada perang Quraizhah: "Seranglah kaum musyrikin, karena jibril selalu bersamamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4124</td></tr><tr><td>Arabic No</td><td>4124</td></tr><tr><td>Reference</td><td>Book 64 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Бара ибн ‘Азиба, что в день (завоевания) бану курайзы, Посланник Аллаха ﷺ сказал Хассану ибн Сабиту: «Подвергни осмеянию и поношению многобожников, ведь с тобой Джибриль!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4124</td></tr><tr><td>Arabic No</td><td>4124</td></tr><tr><td>Reference</td><td>Book 64 Hadith 168</td></tr></tbody></table></div>
 

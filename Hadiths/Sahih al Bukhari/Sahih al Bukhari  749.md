@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) led us in prayer and then went up to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] berkata, telah menceritakan kepada kami [Fulaih] berkata, telah menceritakan kepada kami [Hilal bin 'Ali] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam pernah memimpin shalat kami, kemudian Beliau naik ke atas mimbar lalu memberi isyarat (menunjuk) dengan tangannya ke arah kiblat masjid seraya bersabda: "Sejak aku memimpin shalat kalian hingga sekarang, aku diperlihatkan surga dan neraka secara bersamaan di hadapan dinding ini. Dan aku belum pernah melihat kebaikan dan keburukan seperti hari ini." Beliau mengucapkannya tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>749</td></tr><tr><td>Arabic No</td><td>749</td></tr><tr><td>Reference</td><td>Book 10 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ совершил с нами намаз, затем поднялся на минбар, указал рукой в сторону киблы мечети и сказал: “Сейчас, когда я совершал с вами намаз, я увидел рай и ад, которые были представлены мне на нише этой стены, и никогда не видел я (ничего более) хорошего и (ничего более) дурного, чем сегодня”, повторив это трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>749</td></tr><tr><td>Arabic No</td><td>749</td></tr><tr><td>Reference</td><td>Book 10 Hadith 143</td></tr></tbody></table></div>
 

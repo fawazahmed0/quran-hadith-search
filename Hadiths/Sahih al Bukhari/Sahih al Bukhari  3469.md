@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Amongst the people preceding you t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [bapaknya] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh telah ada pada setiap umat-umat sebelum kalian para muhaddits (orang-orang yang selalu berpandangan lurus/punya firasat tinggi) dan seandainya mereka ada pada umatku ini tentu dia adalah 'Umar bin Al Khaththab radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3469</td></tr><tr><td>Arabic No</td><td>3469</td></tr><tr><td>Reference</td><td>Book 60 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Среди народов, живших до вас, были “мухаддасун” (люди, в сердца, которых внушалась истина), и если есть такой и в моей общине, то им является ‘Умар бин аль-Хаттаб»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3469</td></tr><tr><td>Arabic No</td><td>3469</td></tr><tr><td>Reference</td><td>Book 60 Hadith 136</td></tr></tbody></table></div>
 

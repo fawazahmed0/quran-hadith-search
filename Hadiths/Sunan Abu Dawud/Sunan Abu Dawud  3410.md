@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) conquered Khaibar, and stipulat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ayyub bin Muhammad Ar Raqqi], telah menceritakan kepada kami [Umar bin Ayyub], telah menceritakan kepada kami [Ja'far bin Burqan], dari [Maimun bin Mahran], dari [Miqsam] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam menaklukkan Khaibar dan beliau memberi syarat bahwa tanah dan seluruh emas dan perak adalah untuk beliau. Penduduk Khaibar berkata; kami lebih mengetahui mengenai tanah tersebut daripada kalian, maka berikan kepada kami dan kalian mendapatkan setengah buahnya dan kami mendapatkan setengah. Ibnu Abbas mengaku bahwa beliau memberikan tanah tersebut kepada mereka dengan syarat hal tersebut. Kemudian tatkala telah sampai waktu pemotongan kurma, beliau mengutus kepada mereka Abdullah bin Rawahah. Kemudian ia memperkirakan kurma untuk mereka yang penduduk Madinah namakan khirsh. Kemudian ia berkata; dalam pohon-pohon ini terdapat sekian dan sekian. Mereka berkata; engkau telah memperbanyak atas kami wahai Ibnu Rawahah! Maka ia berkata; aku yang menaksirkan dan memberi kepada kalian setengah yang aku katakan. Mereka berkata; ini adalah benar, dan dengannya langit dan bumi tegak. Kami rela mengambilnya sesuai dengan apa yang engkau katakan. Telah menceritakan kepada kami [Ali bin Sahl Ar Ramli], telah menceritakan kepada kami [Zaid bin Abu Az Zarqa'] dari [Ja'far bin Burqan] dengan sanad dan maknanya. Ia berkata; kemudian Abdullah bin Rawahah menaksir. Dan ia berkata ketika mengatakan; dan seluruh yang kuning dan putih; yaitu emas dan perak untuknya. Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari], telah menceritakan kepada kami [Katsir bin Hisyam] dari [Ja'far bin Burqan], telah menceritakan kepada kami [Maimun] dari [Miqsam], bahwa Nabi shallallahu 'alaihi wasallam ketika menaklukkan Khaibar…. Kemudian ia menyebutkan seperti hadits Zaid. Ia berkata; kemudian ia menaksir pohon kurma tersebut, dan ia berkata; aku yang memotong kurma, dan memberi kalian setengah yang aku katakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 23 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Когда Посланник Аллаха ﷺ завоевал Хайбар, он поставил условие о том, что земля, а также всё жёлтое и белое (золото и серебро) принадлежат ему, а жители Хайбара сказали: “Мы лучше разбираемся в земледелии, чем вы. Отдай нам её с условием, что вам будет принадлежать половина урожая, а нам вторая половина”. И Посланник Аллаха ﷺ согласился. Когда на пальмах появились плоды, Посланник Аллаха ﷺ отправил к ним ‘Абдуллаха ибн Раваху, чтобы он оценил приблизительно количество плодов, и он сказал им: “С этих пальм нужно отдать столько-то”. (Не соглашаясь с его оценкой и желая дать меньше,) они сказали: “О Ибн Раваха! Это слишком много!” Он сказал: “Тогда оставьте мне плоды, и я отдам вам половину названного мною количества”. Они сказали: “(О нет!) Это истина и на ней держатся небеса и земля. Мы согласны с тем, что ты сказал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 23 Hadith 85</td></tr></tbody></table></div>
 

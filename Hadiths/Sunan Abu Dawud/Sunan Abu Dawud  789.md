@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah reported the Messenger of Allah (ﷺ) as saying:I stand up to pray a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Ibrahim] telah menceritakan kepada kami [Umar bin Abdul Wahid] dan [Bisr bin Bakr] dari [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abdullah bin Abu Qatadah] dari [ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku hendak memanjangkan (bacaan) ketika aku mengerjakan shalat, lalu aku mendengar tangisan anak kecil, maka aku mempersingkat (bacaan shalat) karena aku tidak ingin memberatkan (hati) ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (707)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>789</td></tr><tr><td>Arabic No</td><td>789</td></tr><tr><td>Reference</td><td>Book 2 Hadith 399</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Катада передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «Поистине, приступая к молитве, я хочу проводить её долго, но, когда слышу плач ребёнка, сокращаю её, не желая доставлять затруднения его матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (707)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>789</td></tr><tr><td>Arabic No</td><td>789</td></tr><tr><td>Reference</td><td>Book 2 Hadith 399</td></tr></tbody></table></div>
 

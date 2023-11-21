@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abi Waih:Hudhaifa bin Al-Yaman said, 'The hypocrites of today are worse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kami [Syu'bah] dari [Washil Al Ahdab] dari [Abu Wa'il] dari [Khudzaifah bin Yaman] mengatakan; 'kaum munafikin hari ini jauh lebih buruk daripada mereka yang hidup di masa Nabi shallallahu 'alaihi wasallam, sebab dahulu mereka sembunyi-sembunyi, namun sekarang mereka lakukan secara terang-terangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7113</td></tr><tr><td>Arabic No</td><td>7113</td></tr><tr><td>Reference</td><td>Book 92 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа ибн аль-Яман, да будет доволен им Аллах, сказал: «Поистине, сегодня лицемеры хуже, чем те, которые были во времена Пророка ﷺ. В то время они скрывали (лицемерие), а сегодня открыто (его) показывают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7113</td></tr><tr><td>Arabic No</td><td>7113</td></tr><tr><td>Reference</td><td>Book 92 Hadith 60</td></tr></tbody></table></div>
 

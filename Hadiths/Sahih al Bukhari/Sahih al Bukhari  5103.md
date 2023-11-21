@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:that Aflah the brother of Abu Al-Qu'ais, her foster uncle, came, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Urwah bin Az Zubair] dari [Aisyah] bahwa setelah turunnya perintah hijab, Aflah saudara Abu Al Qu'aisi datang dan meminta izin padanya, dan ia adalah paman sesusuannya. Aisyah berkata; Maka aku pun menolak untuk memberi izin padanya, dan ketika Rasulullah shallallahu 'alaihi wasallam datang, aku mengabarkan apa yang kulakukan, maka beliau memerintahkanku untuk mengizinkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5103</td></tr><tr><td>Arabic No</td><td>5103</td></tr><tr><td>Reference</td><td>Book 67 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Как-то раз) после ниспослания (веления о) хиджабе, Афлях, брат Абуль-Ку‘айса, (который был её молочным братом,) попросил разрешения войти ко мне, но я не позволила ему. Когда пришёл Посланник Аллаха ﷺ, я рассказала ему об этом, и он велел мне позволить ему войти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5103</td></tr><tr><td>Arabic No</td><td>5103</td></tr><tr><td>Reference</td><td>Book 67 Hadith 41</td></tr></tbody></table></div>
 

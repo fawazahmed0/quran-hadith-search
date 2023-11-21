@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "While a man was riding a cow, it t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Saad bin Ibrahim] berkata; Aku mendengar [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "(Nanti pada hari qiyamat) orang yang menunggang sapi betina akan diremukkan oleh sapi tersebut seraya berkata; Aku diciptakan bukan untuk ini, tapi aku diciptakan untuk membawajak ". Beliau shallallahu 'alaihi wasallam bersabda; "Aku beriman tentang kejadian itu, begitu juga Abu Bakar dan 'Umar". Dan akan ada pula seekor serigala yang memakan kambing lalu pengembalanya mengikutinya. Maka serigala berkata kepada penggembala itu: "Siapa yang mengawasi kambing itu pada hari berburu ini yang tidak ada yang menjaganya kecuali aku?" Beliau bersabda: "Aku beriman tentang kejadian itu, begitu juga Abu Bakar dan 'Umar". Berkata, Abu Salamah: "Saat itu Abu Bakar dan 'Umar tidak berada ditengah-tengah orang saat Beliau menceritakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2324</td></tr><tr><td>Arabic No</td><td>2324</td></tr><tr><td>Reference</td><td>Book 41 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Как-то раз,) когда (один) человек ехал верхом на корове, она повернула к нему (свою голову) и сказала (человеческим голосом): “Я была создана не для этого, а для пахоты”». (Затем Пророк ﷺ) сказал: «Я, Абу Бакр и ‘Умар поверили этому».\n(Затем Пророк ﷺ) сказал: «(Однажды) волк схватил овцу, а когда за ним погнался пастух, волк сказал: “А кто станет охранять их в (тот) день(, когда появятся) дикие звери, и не будет для них иного пастуха, кроме меня?”» (Затем Пророк ﷺ) сказал: «Я, Абу Бакр и ‘Умар поверили этому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2324</td></tr><tr><td>Arabic No</td><td>2324</td></tr><tr><td>Reference</td><td>Book 41 Hadith 5</td></tr></tbody></table></div>
 

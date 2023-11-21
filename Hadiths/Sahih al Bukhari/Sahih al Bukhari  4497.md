@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said one statement and I said another. The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Syaqiq] dari [Abdullah], Nabi shallallahu 'alaihi wasallam bersabda beberapa kalimat yang aku tambahkan. Nabi shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mati, sedangkan dia menyeru selain Allah sebagai tandingannya maka dia masuk neraka." Sedangkan aku berkata; 'Barang siapa yang mati dan dia tidak menyekutukan Allah dengan sesuatu maka dia masuk surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4497</td></tr><tr><td>Arabic No</td><td>4497</td></tr><tr><td>Reference</td><td>Book 65 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (‘Абдуллах) ибн Мас‘уд сказал: «Пророк ﷺ сказал одни слова, я же сказал другие. Пророк ﷺ сказал: “Тот, кто умер, взывая к кому-либо наряду с Аллахом, попадёт в Огонь”, я же сказал: “Войдёт в рай тот, кто умер, ничему не взывая наряду с Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4497</td></tr><tr><td>Arabic No</td><td>4497</td></tr><tr><td>Reference</td><td>Book 65 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Aisha narrated that she made a will to 'Abdullah bin Zubair, "Do not bury me wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa ia berwasiat kepada 'Abdullah bin Az Zubair radliallahu 'anhuma: "Janganlah kamu mengubur aku bersama mereka, namun kuburkanlah aku bersama para isteri Nabi Shallallahu'alaihiwasallam di Baqi' agar aku tidak dikeramatkan seorangpun selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1391</td></tr><tr><td>Arabic No</td><td>1391</td></tr><tr><td>Reference</td><td>Book 23 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен Аллах ею и её отцом, завещала ‘Абдуллах ибн аз-Зубейру, да будет доволен Аллах им и его отцом, следующее: «Не хороните меня рядом с ними, а похороните меня рядом с моими сподвижницами (т.е. жёнами Пророка ﷺ) на кладбище Баки‘, чтобы меня никогда не хвалили по этой причине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1391</td></tr><tr><td>Arabic No</td><td>1391</td></tr><tr><td>Reference</td><td>Book 23 Hadith 145</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka'b bin Malik said that in the time of the Messenger of Allah (ﷺ) he made dem
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abdullah bin Ka'b bin Malik] bahwa [Ka'b bin Malik] mengabarkan kepadanya bahwa pada masa Rasulullah shallallahu 'alaihi wasallam ia pernah menuntut hutang kepada Ibnu Abu Hadrad di masjid, kemudian suara mereka meninggi hingga Rasulullah shallallahu 'alaihi wasallam mendengar mereka berdua dari dalam rumahnya. Rasulullah shallallahu 'alaihi wasallam lantas membuka tabir kamarnya dan keluar menemui mereka. Beliau memanggil Ka'b bin Malik dan berkata: "Wahai Ka'b!" Kemudian Ka'ab menjawab, "Aku penuhi panggilanmu wahai Rasulullah." Lalu beliau memberikan isyarat kepadanya menggunakan tangannya: "Gugurkanlah setengah hutangmu!" Ka'b berkata, "Aku telah melakukannya wahai Rasulullah." Nabi shallallahu 'alaihi wasallam kemudian bersabda: "Berdiri dan bayarlah hutangmu kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (471) Sahih Muslim (1558)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3595</td></tr><tr><td>Arabic No</td><td>3595</td></tr><tr><td>Reference</td><td>Book 25 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ка‘ба ибн Малика, да будет доволен им Аллах, что однажды при жизни Посланника Аллаха ﷺ он стал требовать в мечети, чтобы Ибн Абу Хадрад вернул ему долг, и они стали спорить так громко, что их голоса услышал Посланник Аллаха ﷺ находившийся у себя дома. Он вышел к ним из-за занавески своей комнаты и обратился к Ка‘бу ибн Малику: «О Ка‘б!» Ка‘б сказал: «Вот я перед тобой, о Посланник Аллаха». Тогда Посланник Аллаха ﷺ сделал Ка‘бу знак рукой, желая сказать: «Прости ему половину долга». Ка‘б сказал: «Я уже сделал это, о Посланник Аллаха», после чего Пророк ﷺ велел Ибн Абу Хадраду: «А ты встань и уплати ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (471) Sahih Muslim (1558)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3595</td></tr><tr><td>Arabic No</td><td>3595</td></tr><tr><td>Reference</td><td>Book 25 Hadith 25</td></tr></tbody></table></div>
 

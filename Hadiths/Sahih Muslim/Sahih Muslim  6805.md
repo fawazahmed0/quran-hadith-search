@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] - dan lafadh ini milik Qutaibah- mereka berkata; telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Allah 'azza wajalla berfirman; 'Aku sesuai prasangka hamba-Ku kepada-Ku, dan Aku akan bersamanya selama ia mengingat-Ku. Jika ia mengingat-Ku dalam dirinya maka Aku akan mengingatnya dalam diri-Ku, jika ia mengingat-Ku dalam sekumpulan orang maka Aku akan mengingatnya dalam sekumpulan yang lebih baik dan lebih bagus darinya. Jika ia mendekat kepada-Ku satu jengkal maka Aku akan mendekat kepada-Nya satu hasta, jika ia mendekat kepada-Ku satu hasta maka Aku akan mendekat kepadanya satu depa, dan jika ia mendatangi-Ku dengan berjalan maka Aku akan mendatanginya dengan berlari." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dengan sanad ini, namun dia tidak menyebutkan kalimat; 'Jika ia mendekat kepada-Ku satu hasta maka Aku akan mendekat kepadanya satu depa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6805</td></tr><tr><td>Arabic No</td><td>2675.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6805</td></tr><tr><td>Arabic No</td><td>2675.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 1</td></tr></tbody></table></div>
 

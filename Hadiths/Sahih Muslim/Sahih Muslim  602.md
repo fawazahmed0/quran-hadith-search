@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar said:The Messenger of Allah (may peace be opon him) said: Act against t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahal bin Utsman] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Umar bin Muhammad] telah menceritakan kepada kami [Nafi'] dari [Ibnu Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Selisihilah kaum musyrikin, cukurlah kumis dan peliharalah jenggot
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>602</td></tr><tr><td>Arabic No</td><td>259.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Отличайтесь от многобожников: подстригайте усы и отращивайте бороды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>602</td></tr><tr><td>Arabic No</td><td>259.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 69</td></tr></tbody></table></div>
 

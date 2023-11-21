@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : "Le vendredi, le Prophète (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] keduanya dari [Jarir] - [Utsman] berkata- telah menceritakan kepada kami [Jarir] dari [Hushain bin Abdurrahman] dari [Salim bin Abul Ja'd] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam menyampaikan khutbah dengan berdiri pada hari Jum'at, tiba-tiba datanglah suatu Kafilah dagang dari negeri Syam; maka jama'ah pun berlarian menjemput Kafilah itu, hingga yang tinggal di Masjid hanya dua belas orang lagi. Maka diturunkanlah ayat ini (yakni pada surat Al Jumu'ah): "Dan apabila mereka melihat perniagaan atau permainan, mereka bubar untuk menuju kepadanya dan mereka tinggalkan kamu sedang berdiri (berkhutbah)." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dari [Hushain] dengan isnad ini, ia berkata; Rasulullah shallallahu 'alaihi wasallam berkhutbah. -ia tidak mengatakan; berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1997</td></tr><tr><td>Arabic No</td><td>863.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах передал, что (однажды), когда Пророк ﷺ стоя произносил хутбу, из Шама прибыл караван верблюдов со съестными припасами, и люди стали незаметно покидать (место молитвы, направляясь к этому каравану). (Это продолжалось до тех пор), пока (в мечети) не осталось только двенадцать человек, и тогда был ниспослан аят, из (суры) «аль-Джуму‘а» (где сказано): «Когда же они увидели торговлю или забаву, они разошлись, бросившись к ней, и оставили тебя стоять». (Сура «аль-Джуму‘а», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1997</td></tr><tr><td>Arabic No</td><td>863.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 47</td></tr></tbody></table></div>
 

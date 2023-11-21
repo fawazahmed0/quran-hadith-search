@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après (que Dieu l'agrée), Ibn 'Abbâs a dit : ayant appris que Samura avait 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Abu Bakar, mereka berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Thawus] dari [Ibnu Abbas] dia berkata, "Ketika kabar bahwa Samurah telah khamr ke telinga Umar, maka dia pun berkata, "Allah akan mengutuk Samurah, tidak tahukah dia bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Allah melaknat orang-orang Yahudi, sebab telah diharamkan lemak bangkai atas mereka, namun mereka masih tetap mengolahnya dan menjualnya." Telah menceritakan kepada kami [Umayyah bin Bistham] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Rauh] -yaitu Ibnu Qasim- dari ['Amru bin Dinar] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4050</td></tr><tr><td>Arabic No</td><td>1582.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4050</td></tr><tr><td>Arabic No</td><td>1582.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 89</td></tr></tbody></table></div>
 

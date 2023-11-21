@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said; The Messenger of Allah (ﷺ) was asked shout the validity of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi'] dari [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al-Musayyib] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang shalat dengan memakai sehelai kain, maka Nabi shallallahu 'alaihi wasallam bersabda: "Apakah setiap kalian memiliki dua kain (pakain luar dan pakaian dalam)?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (358) Sahih Muslim (515)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>625</td></tr><tr><td>Arabic No</td><td>625</td></tr><tr><td>Reference</td><td>Book 2 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что (как-то) у Посланника Аллаха ﷺ спросили о совершении молитвы в одной одежде и Пророк ﷺ сказал: «А разве у каждого из вас есть по две одежды?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (358) Sahih Muslim (515)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>625</td></tr><tr><td>Arabic No</td><td>625</td></tr><tr><td>Reference</td><td>Book 2 Hadith 235</td></tr></tbody></table></div>
 

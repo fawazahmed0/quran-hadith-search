@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported that Allah's Messenger (ﷺ) said:There is no believing serva
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin 'Umar bin Hafsh Al Waki'i] telah menceritakan kepada kami [Muhammad bin Fudhail] telah menceritakan kepada kami [bapakku] dari [Thalhah bin 'Ubaidullah bin Kariz] dari [Ummu Ad Darda'] dari [Abu Ad Darda'] dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada seorang muslim pun yang mendoakan kebaikan bagi saudaranya (sesama muslim) yang berjauhan, melainkan malaikat akan mendoakannya pula: 'Dan bagimu kebaikan yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6927</td></tr><tr><td>Arabic No</td><td>2732.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6927</td></tr><tr><td>Arabic No</td><td>2732.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 119</td></tr></tbody></table></div>
 

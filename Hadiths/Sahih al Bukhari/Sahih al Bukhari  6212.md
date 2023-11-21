@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:There was a state of fear in Medina. Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] dia berkata; telah menceritakan kepadaku [Qatadah] dari [Anas bin Malik] dia berkata; "Suatu ketika di Madinah dikejutkan oleh suatu suara, maka Rasulullah shallallahu 'alaihi wasallam langsung naik kuda milik Abu Thalhah, lalu beliau bersabda: "Kami tidak melihat suatu yang mengejutkan, yang kami dapati hanya seekor kuda yang berlari kencang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6212</td></tr><tr><td>Arabic No</td><td>6212</td></tr><tr><td>Reference</td><td>Book 78 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды, когда люди) в Медине (стали ощущать) какой-то страх, Посланник Аллаха ﷺ сел на коня Абу Тальхи (и ускакал на нём). (Вернувшись,) он сказал: “Мы не увидели (ничего) страшного, но обнаружили, что этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6212</td></tr><tr><td>Arabic No</td><td>6212</td></tr><tr><td>Reference</td><td>Book 78 Hadith 236</td></tr></tbody></table></div>
 

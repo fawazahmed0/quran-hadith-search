@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib], teksnya hampir sama, keduanya berkata: Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Kematian didatangkan pada hari kiamat seperti kambing kelabu -Abu Kuraib menambahkan: Lalu didirikan diantara surga dan nerakah, sedangkan keseluruhan hadits berikutnya sama- kemudian dikatakan: Wahai penduduk surga, apa kalian mengetahui ini? Mereka melihat dengan mendongak, mereka menjawab: 'Ya, itu adalah kematian.' Kematian dibaringkan lalu disembelih kemudian dikatakan kepada penduduk neraka: 'Wahai penghuni neraka, apa kalian mengetahui ini? ' Mereka melihat dengan mendongak, mereka menjawab: 'Ya, ' itu adalah kematian'." Beliau bersabda: "Lalu kematian diperintahkan disembelih, setelah itu dikatakan: 'Wahai penduduk surga, kekal tidak ada ada kematian dan wahai penduduk neraka, kekal tidak ada kematian'." Setelah itu beliau membaca: "Dan berilah mereka peringatan tentang hari penyesalan, (yaitu) ketika segala perkara telah diputus dan mereka dalam kelalaian dan mereka tidak (pula) beriman." (Maryam: 39) beliau menunjuk tangan beliau ke dunia. Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila penduduk surga dimasukkan surga dan penduduk neraka dimasukkan neraka, dikatakan: 'Wahai penduduk surga, " lalu ia menyebut seperti makna hadits Abu Mu'aiwyah, hanya saja ia menyebutkan: Itulah firman Allah 'azza wajalla, tidak menyebut: Setelah itu Rasulullah Shallallahu 'alaihi wa Salam membaca, ia juga tidak menyebut: Beliau menunjuk tangan beliau ke dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7181</td></tr><tr><td>Arabic No</td><td>2849.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7181</td></tr><tr><td>Arabic No</td><td>2849.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 50</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: There is for every apost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Abd bin Humaid], [Zuhair] berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu Akhi Ibnu Syihab] dari [pamannya] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap Nabi memiliki doa, dan aku berkeinginan -insya Allah- untuk menyembunyikan doaku sebagai syafa'at bagi umatku pada hari kiamat." Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abd bin Humaid], [Zuhair] berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu Akhi Ibnu Syihab] dari [pamannya] telah menceritakan kepadaku [Amru bin Abu Sufyan bin Asid bin Jariyah ats-Tsaqafi] seperti itu, dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>198.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 394</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «У каждого пророка была мольба, я же пожелал если на то будет воля Аллаха отложить мольбу свою на потом, чтобы заступиться за мою общину в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>198.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 394</td></tr></tbody></table></div>
 

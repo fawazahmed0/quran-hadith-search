@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who performed ablution
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berwudlu, lalu ia menyempurnakan wudlunya, kemudian mendatangi Jum'at, mendengarkan (khutbah) tanpa berkata-kata, maka akan diampuni (dosa-dosa yang dilakukannya) antara hari itu dengan hari jum'at yang lain, ditambah tiga hari. Dan barangsiapa yang memegang-megang batu kerikil, maka ia telah berbuat kesia-siaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1988</td></tr><tr><td>Arabic No</td><td>857.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Тому, кто совершит омовение наилучшим образом, а потом явится на пятничную (молитву) и станет слушать (проповедь имама), храня молчание, простятся (его прегрешения), совершённые им между этой и (предыдущей) пятничной молитвой, а также в течение ещё трёх дней. Что же касается перебирающего камешки (во время проповеди), то он занимается пустым (делом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1988</td></tr><tr><td>Arabic No</td><td>857.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 38</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, ''Every betrayer will have a flag on the D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Sulaiman Al A'masy] dari [Abu Wa'il] dari ['Abdullah] dan dari [Tsabit] dari [Anas] dari Nabi shallallahu 'alaihi wasallam bersabda: "Bagi setiap pengkhiyanat akan diberikan bendera pada hari qiyamat". Salah seorang dari perawi tersebut berkata; "Bendera itu ditegakkan". Yang lainnya berkata; "Bendera itu terlihat pada hari qiyamat sehingga dapat dikenali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3187</td></tr><tr><td>Arabic No</td><td>3187</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха и Анаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «В День воскрешения рядом с каждым вероломным будет знамя».\n(Один из передатчиков этого хадиса) сказал: «Оно будет водружено», другой же сказал: «В День воскрешения его увидят (все), и по нему будут узнавать (вероломного)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3187</td></tr><tr><td>Arabic No</td><td>3187</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

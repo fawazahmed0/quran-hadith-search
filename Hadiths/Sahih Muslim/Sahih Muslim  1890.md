@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), le Prophète (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdurrahman bin Wahb] telah menceritakan kepada kami pamanku yaitu [Abdullah bin Wahb], telah menceritakan kepada kami [Amru bin Harits] dari [Sa'id bin Abu Hilal] bahwa [Abu Rijal] Muhammad bin Abdurrahman, telah menceritakan kepadanya dari ibunya [Amrah binti Abdurrahman], saat itu ia berada di rumah Aisyah, isteri Nabi shallallahu 'alaihi wasallam, dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam mengutus seorang lelaki dalam suatu sariyyah (pasukan khusus yang ditugaskan untuk operasi tertentu). Laki-laki tersebut ketika menjadi imam shalat bagi para sahabatnya selalu mengakhiri bacaan suratnya dengan "QUL HUWALLAHU AHAD." Ketika mereka pulang, disampaikan berita tersebut kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: "Tanyakanlah kepadanya kenapa ia melakukan hal itu?" Lalu merekapun menanyakan kepadanya. Ia menjawab, "Karena didalamnya terdapat sifat Ar Rahman, dan aku senang untuk selalu membacanya." Mendengar itu Rasulullah shallallahu 'alaihi wasallam bersabda: "Beritahukanlah kepadanya bahwa Allah Ta'ala juga mencintainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1890</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 6 Hadith 318</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что (однажды) Посланник Аллаха ﷺ отправил в военный поход отряд, поставив во главе его одного человека, и во время молитв тот читал своим товарищам (Коран, завершая чтение сурой, в которой сказано): «Скажи: “Он Аллах, Один”». Когда они вернулись, (люди) рассказали об этом Посланнику Аллаха ﷺ, и он велел: «Спросите его, почему он так поступает?» Тому задали этот вопрос, и он сказал: «В ней (упоминаются) атрибуты Милостивого, (поэтому) я люблю читать её». (Узнав, какой ответ дал этот человек), Посланник Аллаха ﷺ сказал: «Сообщите ему, что Аллах любит его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1890</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 6 Hadith 318</td></tr></tbody></table></div>
 

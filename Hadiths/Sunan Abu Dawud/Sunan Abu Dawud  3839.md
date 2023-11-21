@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Tha’labah al-khushani said that he asked the Messenger of Allah(ﷺ):We li
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ashim] telah menceritakan kepada kami [Muhammad bin Syu'aib] telah mengabarkan kepada kami [Abdullah bin Al 'Ala bin Zabr] dari [Abu 'Ubaidullah Muslim bin Misykam] dari [Abu Tsa'labah Al Khusyani] bahwa ia pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam, ia berkata, "Sesungguhnya kami bertetangga dengan orang ahli kitab sementara mereka merebus babi di dalam kuali mereka dan minum khamr dalam bejana mereka?" Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian mendapatkan selainnya maka makan dan minumlah padanya, dan apabila kalian tidak mendapatkan selainnya maka cucilah menggunakan air dan makan serta minumlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3839</td></tr><tr><td>Arabic No</td><td>3839</td></tr><tr><td>Reference</td><td>Book 28 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘лябы аль-Хушани, да будет доволен им Аллах, что он спросил Посланника Аллаха ﷺ: «Поистине, мы живём по соседству с людьми Писания, и они готовят в своей посуде свинину и пьют из своих сосудов вино». И Посланник Аллаха ﷺ сказал: «Если найдёте другую посуду, ешьте и пейте из неё, а если не найдёте ничего другого, то омывайте её водой и ешьте и пейте из неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3839</td></tr><tr><td>Arabic No</td><td>3839</td></tr><tr><td>Reference</td><td>Book 28 Hadith 104</td></tr></tbody></table></div>
 

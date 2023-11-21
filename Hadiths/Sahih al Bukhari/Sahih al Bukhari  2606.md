@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) owed a man some debt (and that man 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Utsman bin Jabalah] berkata, telah menceritakan kepadaku [bapakku] dari [Syu'bah] dari [Salamah] berkata, aku mendengar [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; Ada seorang laki-laki yang kepadanya Rasulullah shallallahu 'alaihi wasallam mempunyai hutang lalu para sahabat ingin (memberina pelajaran) namun Beliau berkata: "Biarkanlah dia, karena bagi pemegang kebenaran berhak menyatakan kebenarannya". Lalu Beliau berkata: "Belilah satu ekor anak unta lalu berikanlah kepadanya". Orang-orang berkata: "Kami tidak mendapatkan anak unta yang dimaksud melainkan ada seekor anak unta yang umurnya lebih". Beliau berkata: "Beli dan berikanlah kepadanya karena sesungguhnya yang terbaik diantara kalian adalah siapa yang paling baik menunaikan janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2606</td></tr><tr><td>Arabic No</td><td>2606</td></tr><tr><td>Reference</td><td>Book 51 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек пришёл к Посланнику Аллаха ﷺ и стал требовать с него (возврата) долга, (говоря с ним грубо) так, что сподвижники хотели набросится на него. Однако Посланник Аллаха ﷺ сказал: “Оставьте его, ибо тот, кому причитается (долг), имеет право высказаться”, после чего он сказал: “Купите верблюда и отдайте его ему!” (Люди) сказали: “У нас есть верблюд, только он лучше его верблюда”. Тогда (Пророк ﷺ) сказал: “Купите его и отдайте ему (этого верблюда), ибо, поистине, лучшими из вас являются те, кто лучше всех отдаёт (должное другим)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2606</td></tr><tr><td>Arabic No</td><td>2606</td></tr><tr><td>Reference</td><td>Book 51 Hadith 40</td></tr></tbody></table></div>
 

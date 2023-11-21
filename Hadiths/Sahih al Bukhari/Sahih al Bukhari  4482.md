@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Allah said, 'The son of Adam tells 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] dari ['Abdullah bin Abu Husain] Telah menceritakan kepada kami [Nafi' bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Allah Ta'ala berfirman: Sebagian keturunan Adam telah mengatakan kebohongan tentang Aku padahal mereka sama sekali tidak berhak melakukan demikian. Dan mereka mencelaku, padahal mereka tidak punya hak untuk mencelaku. Kebohongan yang mereka perbuat tentang-Ku adalah mereka menganggap Aku tidak mampu menciptakan kembali sebagaimana dulu telah ciptakan. Adapun celaannya kepada-Ku, yaitu mereka mengatakan bahwa Aku mempunyai anak. Maha Suci Aku, sama sekali Aku tidak mengambil istri dan tidak mempunyai anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4482</td></tr><tr><td>Arabic No</td><td>4482</td></tr><tr><td>Reference</td><td>Book 65 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Аллах сказал: “Сын Адама возводит на Меня ложь, не имея права на это, и он оскорбляет Меня, не имея права на это. Возведение им на Меня лжи выражается в том, что он утверждает, будто Я не в состоянии воссоздать его таким, каким он был, что же касается оскорбления им Меня, то (оскорблением) является его утверждение, будто у Меня есть сын. Преславен Я (и слишком далёк от того,) чтобы заводить Себе жену или сына!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4482</td></tr><tr><td>Arabic No</td><td>4482</td></tr><tr><td>Reference</td><td>Book 65 Hadith 9</td></tr></tbody></table></div>
 

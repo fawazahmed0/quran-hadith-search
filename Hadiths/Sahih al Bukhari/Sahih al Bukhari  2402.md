@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If a man finds his very thin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah menceritakan kepadaku [Abu Bakar bin Muhammad bin 'Amru bin Hazm] bahwa ['Umar bin 'Abdul 'Aziz] mengabarkan kepadanya bahwa [Abu Bakar bin 'Abdurrahman bin Al Harits bin Hisyam] mengabarkan kepadanya bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda atau katanya; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mendapatkan hartanya pada seseorang namun sudah rusak maka orang itu yang paling berhak tentang harta itu dari pada orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>2402</td></tr><tr><td>Reference</td><td>Book 43 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, кто застал своё имущество в том виде, в котором он отдал его человеку, ставшему банкротом, имеет больше прав на него [своё имущество], нежели ­кто-либо другой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>2402</td></tr><tr><td>Reference</td><td>Book 43 Hadith 18</td></tr></tbody></table></div>
 

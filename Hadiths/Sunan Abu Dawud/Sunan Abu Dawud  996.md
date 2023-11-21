@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) used to give the salutation to h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Za'idah] dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Al Ahwash], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Muhribi] dan [Ziyad bin Ayyub] keduanya berkata; telah menceritakan kepada kami ['Umar bin 'Ubaid Ath Thanafisi], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Tamim bin Al Muntashir] telah mengabarkan kepada kami [Ishaq yaitu Ibnu Yusuf] dari [Syarik], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Ahmad bin Mani'] telah menceritakan kepada kami [Husain bin Muhammad] telah menceritakan kepada kami [Isra'il] semuanya dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah], sedangkan [Isra'il] mengatakan, dari [Abu Al Ahwash] dan [Al Aswad] dari [Abdullah] bahwa Nabi shallallahu 'alaihi wasallam biasa memberi salam ke arah kanan dan ke arah kiri sehingga terlihat putih pipi beliau (beliau mengucapkan): " Assalaamu 'alaikum wa rahmatullah, Assalaamu 'alaikum wa rahmatullahi (semoga keselamatan dan rahmat Allah tetap atas kalian, semoga keselamatan dan rahmat Allah tetap atas kalian)." Abu Daud mengatakan; "Lafadz hadits ini berasal dari haditsnya Sufyan dan hadits Isra'il tanpa ada penafsiran." Abu Daud mengatakan; "Dan di riwayatkan pula oleh [Zuhair] dari [Abu Ishaq] dan [Yahya bin Adam] dari [Isra'il] dari [Abu Ishaq] dari [Abdurrahman bin Al Aswad] dari [ayahnya] dari ['Alqamah] dari [Abdullah]." Abu Daud berkata; "Syu'bah mengingkari hadits ini, yaitu hadits Abu Ishaq yang di marfu'kan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>996</td></tr><tr><td>Arabic No</td><td>996</td></tr><tr><td>Reference</td><td>Book 2 Hadith 607</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ говорил, поворачивая во время таслима голову направо и налево так, что (сидящие позади) видели белизну его щёк: «Мир вам и милость Аллаха, мир вам и милость Аллаха /Ассаляму аляйкум ва рахмату-Ллах. Ассаляму ‘аляйкум ва рахмату-Ллах/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>996</td></tr><tr><td>Arabic No</td><td>996</td></tr><tr><td>Reference</td><td>Book 2 Hadith 607</td></tr></tbody></table></div>
 

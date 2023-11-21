@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Malik ibn Buhaina al-Asadi reported:The Messenger of Allah (ﷺ) sto
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Abdurrahman al-A'raj] dari [Abdullah bin Malik bin Buhainah al-Azdi] "Pernah Rasulullah Shallallahu'alaihiwasallam langsung berdiri dalam rakaat genap yang seharusnya beliau duduk (tahiyat) dalam shalatnya, dan beliau terus saja meneruskan shalatnya. Tatkala beliau berada di akhir shalat, maka beliau sujud sebelum salam kemudian mengucapkan salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1271</td></tr><tr><td>Arabic No</td><td>570.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха ибн Малика ибн Бухайны аль-Азди, что (однажды) Посланник Аллаха ﷺ встал после второго рак‘ата, когда нужно было сесть и продолжил совершать молитву. В конце же молитвы он совершил (два) земных поклона до произнесения таслима, а потом произнёс таслим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1271</td></tr><tr><td>Arabic No</td><td>570.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 109</td></tr></tbody></table></div>
 

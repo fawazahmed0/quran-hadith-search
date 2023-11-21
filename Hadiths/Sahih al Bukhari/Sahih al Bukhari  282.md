@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um-Salama:(the mother of the believers) Um Sulaim, the wife of Abu Talh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] Ummul Mukminin, bahwa ia berkata, "Ummu Sulaim, isteri Abu Thalhah, datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya Allah tidak malu dengan kebenaran. Apakah seorang wanita wajib mandi bila bermimpi?" Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Ya. Jika dia melihat air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>282</td></tr><tr><td>Arabic No</td><td>282</td></tr><tr><td>Reference</td><td>Book 5 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зайнаб бинт Абу Саляма о том, что мать правоверных Умм Саляма, да будет доволен ею Всевышний Аллах, сказала: «(Однажды) к Посланнику Аллаха ﷺ пришла Умм Сулейм,жена Абу Тальхи, да будет Всевышний Аллах доволен ими обоими, и сказала: “О Посланник Аллаха, поистине, Аллах не стыдится истины (так скажи мне,) должна ли женщина искупаться, если во сне она увидит, что совокупилась с мужчиной, и у неё случится поллюция?” Посланник Аллах ﷺ ответил: “Да, если (после пробуждения) она увидит (свои) выделения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>282</td></tr><tr><td>Arabic No</td><td>282</td></tr><tr><td>Reference</td><td>Book 5 Hadith 34</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "If any Muslim plants any plant 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidaklah seorang muslim yang bercocok tanam, lalu tanaman tersebut dimakan orang lain atau binatang ternak, melainkan baginya adalah sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>6012</td></tr><tr><td>Reference</td><td>Book 78 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если кто-нибудь из мусульман посадит дерево, а потом (его плодов) поест человек или животное, это обязательно зачтётся (посадившему) как садака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>6012</td></tr><tr><td>Reference</td><td>Book 78 Hadith 43</td></tr></tbody></table></div>
 

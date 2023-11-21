@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The delegates of 'Abd-ul-Qais came to Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Hammad] dari [Abu Jamrah] berkata, aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata; 'Telah datang utusan suku 'Abdul Qais kepada Rasulullah Shallallahu'alaihiwasallam lalu berkata: "Wahai Rasulullah, kami ini dari suku Rabi'ah, dan antara tempat tinggal kami dan baginda dipisahkan suku Mudlor yang kafir dan kami tidak dapat mengunjungi baginda kecuali pada bulan haram. Oh, Bila saja baginda dapat memerintahkan kami dengan satu perintah yang kami ambil dari baginda dan kami dapat menyampaikannya kepada orang-orang lain di belakang kami. Maka beliau shallallahu 'alaihi wasallam bersabda: "Aku perintahkan kalian dengan empat perkara dan aku larang dari empat perkara. (Yaitu) Iman kepada Allah dan persaksian (syahadah) tidak ada ilah yang berhak disembah kecuali Allah, mendirikan shalat, menunaikan zakat dan kalian mengeluarkan seperlima dari harta rampasan perang". Dan aku larang kalian dari (meminum sesuatu) dari labu kering, guci hijau, pohon kurma (yang diukir) dan tembikar yang dilumuri ter
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3510</td></tr><tr><td>Arabic No</td><td>3510</td></tr><tr><td>Reference</td><td>Book 61 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) к Посланнику Аллаха ﷺ прибыла делегация из племени ‘абд аль-къайс, и они сказали: “О Посланник Аллаха, поистине, мы из района Раби‘а, нас отделяют от тебя эти неверные из племени мудар, и мы можем приезжать к тебе только в священный месяц, так дай же нам веление, которое мы возьмём от тебя и будем призывать к этому других”. Тогда Пророк ﷺ сказал: “Я повелеваю вам четыре вещи и запрещаю четыре вещи: вера в Аллаха, свидетельство, что нет божества, достойного поклонения, кроме Аллаха, совершение молитвы, выплата закята и выделение вами Аллаху пятой части военной добычи, которую вы захватите. И я запрещаю вам дуббy, хантам, накыр и музаффат (разные виды сосудов, которые используют для изготовления спиртного)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3510</td></tr><tr><td>Arabic No</td><td>3510</td></tr><tr><td>Reference</td><td>Book 61 Hadith 20</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:A woman came to the Prophet (ﷺ) who ordered her to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] dan [Muhammad bin 'Ubaidullah], keduanya berkata, telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [bapaknya] dari [Muhammad bin Jubair bin Muth'im] dari [bapaknya] berkata; "Ada seorang wanita datang menemui Nabi shallallahu 'alaihi wasallam lalu beliau memerintahkan wanita itu agar kembali di lain waktu. Lalu wanita itu bertanya; "Seandainya aku datang nanti tapi tidak menemukan baginda?". Wanita itu sepertinya berkata tentang kematian (khawatir bila menjemput beliau). Maka shallallahu 'alaihi wasallam berkata: "Jika kamu tidak menemukan aku lagi, maka temuilah Abu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3659</td></tr><tr><td>Arabic No</td><td>3659</td></tr><tr><td>Reference</td><td>Book 62 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Мут‘им, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ пришла какая-то женщина, и он велел ей (снова) вернуться к нему (потом). Она спросила: “Скажи мне, а что если я приду, но не найду тебя?” — как бы имея в виду смерть. Пророк ﷺ сказал: “Если не найдёшь меня, ступай к Абу Бакру”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3659</td></tr><tr><td>Arabic No</td><td>3659</td></tr><tr><td>Reference</td><td>Book 62 Hadith 11</td></tr></tbody></table></div>
 

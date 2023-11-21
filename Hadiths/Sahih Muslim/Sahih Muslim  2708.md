@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira and Abu Sa'id (Allah be pleased with both of them) reported Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Abu Sinan] dari [Abu Shalih] dari [Abu Hurairah] dan [Abu Sa'id] radliallahu 'anhuma, keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah 'azza wajalla telah berfirman; 'Puasa itu adalah bagi-Ku, dan Akulah yang akan memberinya pahala.' Bagi seorang yang berpuasa, maka baginya ada dua kebahagiaan, yaitu; kebahagiaan saat ia berbuka dan ketika ia berjumpa dengan Allah. Demi Dzat yang jiwa Muhmmad berada di tangan-Nya, bau mulut orang yang berpuasa adalah lebih wangi di sisi Allah daripada wanginya misk." Dan telah menceritakan kepadaku [Ishaq bin 'Umar bin Salith Al Hudzaili] Telah menceritakan kepada kami [Abdul Aziz bin Muslim] telah menceritakan kepada kami [Dlirar bin Murrah] -ia adalah Abu Sinan, dengan isnad ini ia berkata; dan ia mengatakan; "Ketika ia berjumpa dengan Allah, lalu Dia memberinya ganjaran hingga ia pun senang dan bahagia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2708</td></tr><tr><td>Arabic No</td><td>1151.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2708</td></tr><tr><td>Arabic No</td><td>1151.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 214</td></tr></tbody></table></div>
 

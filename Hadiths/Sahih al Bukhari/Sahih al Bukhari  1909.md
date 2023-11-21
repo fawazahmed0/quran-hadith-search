@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) or Abul-Qasim said, "Start fasting on see
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muhammad bin Ziyad] berkata, aku mendengar [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda, atau katanya Abu Al Qasim shallallahu 'alaihi wasallam telah bersabda: "Berpuasalah kalian dengan melihatnya (hilal) dan berbukalah dengan melihatnya pula. Apabila kalian terhalang oleh awan maka sempurnakanlah jumlah bilangan hari bulan Sya'ban menjadi tiga puluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1909</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 30 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Начинайте) поститься, увидев его (новый месяц рамадана), и прекращайте поститься, увидев его (месяц шавваль), если же он будет скрыт от вас, то завершите месяц ша‘бан тридцатью днями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1909</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 30 Hadith 19</td></tr></tbody></table></div>
 

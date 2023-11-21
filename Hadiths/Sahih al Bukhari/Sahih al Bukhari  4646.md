@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Verse: "Verily! The worst of beasts in the Sig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Warqa'] dari [Ibnu Abu Najih] dari [Mujahid] dari [Ibnu 'Abbas] mengenai firman Allah: Sesungguhnya binatang (makhluk) yang seburuk-buruknya pada sisi Allah ialah; orang-orang yang pekak dan tuli yang tidak mengerti apa-apapun. mereka adalah beberapa orang dari bani Abdu Daar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4646</td></tr><tr><td>Arabic No</td><td>4646</td></tr><tr><td>Reference</td><td>Book 65 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас сказал об аяте «Воистину, наихудшими из живых существ перед Аллахом являются глухие и немые, которые не способны понимать»: «Это некоторые люди из племени бану ‘абдуддар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4646</td></tr><tr><td>Arabic No</td><td>4646</td></tr><tr><td>Reference</td><td>Book 65 Hadith 168</td></tr></tbody></table></div>
 

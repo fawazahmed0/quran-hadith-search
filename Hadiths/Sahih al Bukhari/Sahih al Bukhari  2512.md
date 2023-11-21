@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The mortgaged animal can be 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Zakariya'] dari [Asy-Sya'biy] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "(Hewan) boleh dikendarai jika digadaikan dengan pembayaran tertentu, susu hewan juga boleh diminum bila digadaikan dengan pembayaran tertentu, dan terhadap orangyang mengendarai dan meminum susunya wajib membayar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>2512</td></tr><tr><td>Reference</td><td>Book 48 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если верховое животное оставлено в залог, на нём можно ездить, пока на его (содержание) расходуются какие-то средства, и если животное, дающее молоко, оставлено в залог, молоко можно пить, пока на его (содержание) расходуются какие-то средства, что же касается расходов, то их должен нести тот, кто ездит верхом и пьёт (молоко)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>2512</td></tr><tr><td>Reference</td><td>Book 48 Hadith 5</td></tr></tbody></table></div>
 

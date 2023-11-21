@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Samura b. Jundub said:I was a young boy during the time of the Prophet (ﷺ) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Uqbah bin Mukram Al Ammi] keduanya berkata, telah menceritakan kepada kami [Ibnu Abu Adi] dari [Husain] dari [Abdullah bin Buraidah] ia berkata, [Samurah bin Jundub] berkata; "Pada masa Rasulullah shallallahu 'alaihi wasallam aku masih kecil, dan saya telah menghafal (beberapa hadits) dari beliau, maka tidak ada yang menghalangiku untuk berbicara kecuali karena di sini terdapat orang-orang yang usia mereka lebih tua dariku. Dan sungguh, saya pernah shalat (jenazah) di belakang Rasulullah shallallahu 'alaihi wasallam untuk menshalatkan jenazah seorang wanita yang meninggal dunia ketika masa nifas (setelah melahirkan). Maka Rasulullah shallallahu 'alaihi wasallam berdiri (Shalat jenazah) di sebelah tengah-tengah badannya." Dalam riwayat Ibnul Mutsanna, ia berkata; telah menceritakan kepadaku Abdullah bin Buraidah, ia berkata; "Maka beliau pun berdiri tepat di tengahnya untuk menshalatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2237</td></tr><tr><td>Arabic No</td><td>964.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Самура ибн Джундуб сказал: «При жизни Посланника Аллаха ﷺ я был ещё юношей и запоминал его слова, а говорить мне мешает лишь то, что здесь находятся люди, которые старше меня. И во время заупокойной молитвы, которую Пророк ﷺ совершил по женщине, умершей во время родов, я молился позади него, а (перед началом) этой молитвы Посланник Аллаха ﷺ встал напротив середины её (тела)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2237</td></tr><tr><td>Arabic No</td><td>964.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 114</td></tr></tbody></table></div>
 

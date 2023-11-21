@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that he heard Allah's Messenger (ﷺ) deliver an address and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], [Zuhair bin Harb], [Ishaq bin Ibrahim] dan [Ibnu Abi Umar], berkata [Ishaq]: telah mengkhabarkan kepada kami, sementara yang lain berkata: Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia mendengar nabi Shallallahu 'alaihi wa Salam berkhutbah, beliau bersabda: "Sesungguhnya kalian akan menemui Allah dengan berjalan kaki, tidak beralas kaki, telanjang dan kulup." Zuhair tidak menyebutkan dalam haditsnya: Berkhutbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7200</td></tr><tr><td>Arabic No</td><td>2860.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7200</td></tr><tr><td>Arabic No</td><td>2860.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 69</td></tr></tbody></table></div>
 

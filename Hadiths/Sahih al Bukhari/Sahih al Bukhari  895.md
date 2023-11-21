@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "The taking of a bath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Shafwan bin Sulaim] dari ['Atha' bin Yaar] dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Mandi pada hari Jum'at adalah wajib bagi setiap orang yang sudah baligh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895</td></tr><tr><td>Arabic No</td><td>895</td></tr><tr><td>Reference</td><td>Book 11 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Каждый совершеннолетний обязан совершать большое омовение в пятницу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>895</td></tr><tr><td>Arabic No</td><td>895</td></tr><tr><td>Reference</td><td>Book 11 Hadith 20</td></tr></tbody></table></div>
 

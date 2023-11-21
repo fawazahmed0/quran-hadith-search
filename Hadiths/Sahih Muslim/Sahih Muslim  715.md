@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Oum Salama (raa), Je vins trouver l'Envoyé de Dieu (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa ar-Razi] dan [Sahl bin Utsman] serta [Abu Kuraib] dan lafaz tersebut milik Abu Kuraib, Sahl berkata, telah menceritakan kepada kami, sedangkan dua orang yang lainnya berkata, telah mengabarkan kepada kami [Ibnu Abi Zaidah] dari [bapaknya] dari [Mush'ab bin Syaibah] dari [Musafi' bin Abdullah] dari [Urwah bin az-Zubair] dari [Aisyah] bahwa seorang wanita berkata kepada Rasulullah Shallallahu'alaihiwasallam, "Apakah seorang wanita harus mandi apabila bermimpi dan melihat air mani?" Beliau menjawab, "Ya." Maka Aisyah berkata kepadanya, "Serius kamu akan bertanya?." Aisyah berkata, "Maka Rasulullah shallallahu 'alaihi wasallam bersabda, 'Biarkanlah dia (bertanya). Tidaklah kemiripan gen terjadi melainkan dari sisi tersebut. Apabila air mani wanita tersebut mengalahkan air mani suaminya maka anaknya mirip dengan garis keturunan ibunya. Dan apabila air mani suaminya mengalahkan air maninya maka anaknya mirip dengan garis keturunan bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>715</td></tr><tr><td>Arabic No</td><td>314.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что однажды одна из женщин задала Посланнику Аллаха ﷺ следующий вопрос: «Должна ли женщина совершить большое омовение /гусль/, если у неё произошла поллюция, и она увидела жидкость?» Посланник Аллаха ﷺ сказал: «Да». Тогда ‘Аиша сказала ей: «Да покроются твои руки пылью». Услышав это, Посланник Аллаха ﷺ сказал: «Оставь её. Разве сходство ребёнка с родителями не исходит как раз из этого? Если вода женщины одолеет воду мужчины, то ребёнок родится похожим на своих дядей со стороны матери, а если же одолеет вода мужчины, то ребёнок будет похож на дядей со стороны отца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>715</td></tr><tr><td>Arabic No</td><td>314.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 37</td></tr></tbody></table></div>
 

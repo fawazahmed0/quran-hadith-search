@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:When it was the day (of the battle) of Badr, prison
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Ibnu 'Uyainah] dari ['Amru] dia mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; Ketika terjadi perang Badar tawanan-tawanan perang didatangkan dan diantaranya Al 'Abbas yang tidak mengenakan pakaian. Kemudian Nabi shallallahu 'alaihi wasallam memandang perlu dicarikan baginya gamis (baju) lalu mereka mendapatkan gamis 'Abdullah bin Ubay yang cocok buat ukuran badannya. Kemudian Nabi shallallahu 'alaihi wasallam memberikan gamis itu kepada Al 'Abbas maka itu Nabi shallallahu 'alaihi wasallam melepas gamis yang dipakaikannya (kepada 'Abdullah bin Ubay saat pemakamannya di kemudian hari). Ibnu 'Uyainah berkata: 'Abdullah bin Ubay pernah punya jasa kepada Nabi shallallahu 'alaihi wasallam sehingga Beliau suka untuk membalasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 56 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Когда в день Бадра привели пленников, среди которых был ‘Аббас, на котором не было одежды, Пророк ﷺ стал искать для него рубашку, и было обнаружено, что рубашка ‘Абдуллаха ибн Убеййа подходит ему. Тогда Пророк ﷺ (взял рубашку у ‘Абдуллаха) и одел её на ‘Аббаса. Поэтому (когда умер ‘Абдуллах ибн Убей) Пророк ﷺ снял свою рубашку и одел её на него».Ибн ‘Уейна сказал: «Пророк ﷺ поступил так, потому что ‘Абдуллах оказал ему услугу, за которую он хотел отблагодарить его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 56 Hadith 217</td></tr></tbody></table></div>
 

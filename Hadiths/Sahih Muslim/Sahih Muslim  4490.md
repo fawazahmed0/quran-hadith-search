@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Bakra (que Dieu l'agrée), j'ai entendu le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Abdul Malik bin Umair] dari [Abdurrahman bin Abu Bakrah] dia berkata, "Suatu hari [ayahku] menulis surat -dan sebenarnya akulah yang menuliskannya- kepada Ubaidullah bin Abu Bakrah yang sedang menjabat sebagai hakim di negeri Sajastan, di antara isinya adalah, 'Wahai Ubaidullah, janganlah kamu menetapkan suatu hukum di antara dua orang sedangkan kamu dalam keadaan marah, sebab aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Janganlah seseorang menetapkan hukum di antara dua orang yang bersengketa, sedangkan dia dalam keadaan marah'." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Hammad bin Salamah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhamamd bin Ja'far]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] keduanya dari [Syu'bah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Husain bin 'Ali] dari [Zaidah] mereka semua dari [Abdul Malik bin Umair] dari [Abdurrahman bin Abu Bakrah] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam seperti hadits riwayat Abu 'Awanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>1717.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>1717.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il ibn Hujr: I came to the Prophet (ﷺ) and I had long hair. When t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Mu'awiyah bin Hisyam] dan [Sufyan bin Uqbah As Suwa'i] -ia adalah saudara Qabishah dan [Humaid bin Khuwar] - dari [Sufyan Ats Tsauri] dari [Ashim bin Kulaib] dari [Bapaknya] dari [Wail bin Hujr] ia berkata, "Aku mendatangi Nabi shallallahu 'alaihi wasallam, sementara aku mempunyai rambut yang panjang. Ketika Rasulullah shallallahu 'alaihi wasallam melihatku beliau bersabda: "Lalat, lalat." Wail bin Hujr berkata, "Maka aku kembali pulang dan memangkasnya, setelah itu aku mendatangi beliau pada keesokan harinya. Beliau bersabda: "Sesungguhnya aku tidak bermaksud untuk menjelekkanmu namun ini (sekarang) lebih baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4190</td></tr><tr><td>Arabic No</td><td>4190</td></tr><tr><td>Reference</td><td>Book 35 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ваиль ибн Худжр, да будет доволен им Аллах, передаёт: «Я пришёл к Пророку ﷺ, а у меня были длинные волосы. Увидев меня, Посланник Аллаха ﷺ сказал: “Зло, зло…” После этого я пошёл, укоротил волосы и на следующий день пришёл к нему снова. (Посланник Аллаха ﷺ) сказал: “Я не имел в виду тебя… Однако так лучше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4190</td></tr><tr><td>Arabic No</td><td>4190</td></tr><tr><td>Reference</td><td>Book 35 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: (The established way of folding hands is) to hold the hand
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] dari [Abdurrahman bin Ishaq Al Kuffi] dari [Sayyar Abu Al Hakam] dari [Abu Wa'il] dia berkata; [Abu Hurairah] berkata; "Letakkanlah telapak tangan di atas telapak tangan yang lain di bawah pusar ketika shalat." Abu Daud berkata; "Aku mendengar Ahmad bin Hambal melemahkan Abdurrahman bin Ishak Al Kufi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>758</td></tr><tr><td>Arabic No</td><td>758</td></tr><tr><td>Reference</td><td>Book 2 Hadith 368</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ваиль сказал: «Абу Хурайра сказал: “Во время молитвы следует держать одну кисть другой (и ставить их) под пупком”».Абу Дауд сказал: «Я слышал, как Ахмад ибн Ханбаль (говорил) что ‘Абду-р-Рахман ибн Исхакъ аль-Куфий является слабым передатчиком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>758</td></tr><tr><td>Arabic No</td><td>758</td></tr><tr><td>Reference</td><td>Book 2 Hadith 368</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Ayyoûb (que Dieu l'agrée), le Prophète (paix et bénédiction d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Zuhair bin Harb] dan ini adalah lafadz Abu Bakar dan Ishaq, Ishaq berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan; telah menceritakan kepada kami [Al Muqri' Abdullah bin Yazid] dari [Sa'id Abu Ayyub] telah menceritakan kepadaku [Syurahbil bin Syarik bin Syarik Al Ma'arifi] dari [Abu Abdurrahman Al Hubuli] dia berkata; saya mendengar [Abu Ayyub] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Keluar (jihad) di jalan Allah di pagi hari atau sore hari, lebih baik daripada terbitnya dan terbenamnya matahari." Dan telah menceritakan kepadaku [Muhammad bin Abdullah bin Qahzadz] telah menceritakan kepada kami [Ali bin Al Hasan] dari [Abdullah bin Mubarak] telah mengabarkan kepada kami [Sa'id bin Abu Ayyub] dan [Haiwah bin Syuraih] dia berkata; setiap dari keduanya mengatakan; telah menceritakan kepadaku [Syurahbil bin Syarik] dari [Abu Abdurrahman Al Hubuli] bahwa dia mendengar [Abu Ayyub Al Anshari] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda…. seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4877</td></tr><tr><td>Arabic No</td><td>1883.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4877</td></tr><tr><td>Arabic No</td><td>1883.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 173</td></tr></tbody></table></div>
 

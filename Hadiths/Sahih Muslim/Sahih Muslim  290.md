@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported from Hudhaifa that news reached him (the Holy Prophet) that a cer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Syaiban bin Farukh] dan [Abdullah bin Muhammad bin Asma' adl-Dluba'i] keduanya berkata, telah menceritakan kepada kami [Mahdi] -yaitu Ibnu Maimun- telah menceritakan kepada kami [Washil al-Ahdab] dari [Abu Wa'il] dari [Hudzaifah] bahwa telah sampai kepadanya, bahwa seorang laki-laki mengadu domba suatu pembicaraan, maka Hudzaifah berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan masuk surga orang yang suka mengadu domba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>290</td></tr><tr><td>Arabic No</td><td>105.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хузейфы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: Сплетник не войдёт в Рай
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>290</td></tr><tr><td>Arabic No</td><td>105.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
 

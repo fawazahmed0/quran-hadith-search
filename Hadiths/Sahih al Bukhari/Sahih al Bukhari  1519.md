@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) was asked, "Which is the best deed?" He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Az Zuhriy] dari [Sa'id bin Al Musayab] dari [Abu Hurairah radliallahu 'anhu] berkata; Ditanyakan kepada Nabi Shallallahu'alaihiwasallam: "'Amal apakah yang paling utama?". Beliau menjawab: "Iman kepada Allah dan rasulNya". Kemudian ditanya lagi: "Kemudian apa?" Beliau menjawab: "Al Jihad fii sabiilillah". Kemudian ditanya lagi: "Kemudian apa lagi?" Beliau menjawab: "Hajji mabrur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1519</td></tr><tr><td>Arabic No</td><td>1519</td></tr><tr><td>Reference</td><td>Book 25 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что однажды Пророка ﷺ спросили: «Какое дело является наилучшим?» Он ответил: «Вера в Аллаха и Его посланника». (Его) спросили: «А после этого?» Он ответил: «Джихад на пути Аллаха». (Его снова) спросили: «А после этого?» Он ответил: «Благочестивый /мабрур/ хадж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1519</td></tr><tr><td>Arabic No</td><td>1519</td></tr><tr><td>Reference</td><td>Book 25 Hadith 7</td></tr></tbody></table></div>
 

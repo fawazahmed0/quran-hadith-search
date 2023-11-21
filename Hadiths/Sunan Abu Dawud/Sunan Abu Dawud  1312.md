@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas: The Messenger of Allah (ﷺ) entered the mosque (and saw that) a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Ayyub] dan [Harun 'Abbad Al Azdi] bahwa [Isma'il bin Ibrahim] telah menceritakan kepada mereka, telah menceritakan kepada kami [Abdul Aziz] dari [Anas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah masuk ke dalam masjid, lalu beliau mendapati tali yang membentang antara dua tiang, lantas beliau bertanya; "Tali apakah ini?" maka di beritahukan; "Wahai Rasulullah shallallahu 'alaihi wasallam, ini adalah Hamnah binti Jahsyi, dia sedang mengerjakan shalat, apabila dia merasa kepayahan, maka dia akan bergantung dengan tali tersebut." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaknya ia shalat menurut kemampuannya, apabila telah terasa payah, hendaknya ia duduk." Kata Ziyad; beliau bertanya; "Apakah ini?" mereka menjawab; "Ini adalah (tali) milik Zainab, dia sedang mengerjakan shalat, apabila dia terasa capek atau terasa lelah, maka dia akan berpegangan dengannya." Maka beliau bersabda: "Lepaslah tali itu." sabdanya lagi; "Hendaknya salah seorang dari kalian mengerjakan shalat selagi masih segar(semangat), apabila telah lelah atau capek, sebaiknya ia duduk (tidur)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1150) Sahih Muslim (784)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1312</td></tr><tr><td>Arabic No</td><td>1312</td></tr><tr><td>Reference</td><td>Book 5 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Анас, да будет доволен им Аллах: «Однажды, войдя в мечеть, Посланник Аллаха ﷺ увидел натянутую между двух столбов верёвку и спросил: “Что это за верёвка?” Ему сказали: “О Посланник Аллаха! Это верёвка Хамны бинт Джахш, которая держится за неё, когда устаёт от молитв”. Посланник Аллаха ﷺ сказал: “Пусть молится, пока есть силы, а когда устанет, пусть сядет”». А Зияд передаёт, что он сказал: «Что это?» Ему ответили: «Это Зейнаб… Она молится, а когда устаёт или ослабевает, держится за эту верёвку». Он сказал: «Отвяжите эту верёвку». И он сказал: «Пусть каждый из вас молится, пока остаётся бодрым, и садится, когда устанет или почувствует слабость»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1150) Sahih Muslim (784)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1312</td></tr><tr><td>Arabic No</td><td>1312</td></tr><tr><td>Reference</td><td>Book 5 Hadith 63</td></tr></tbody></table></div>
 

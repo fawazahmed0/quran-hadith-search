@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-'Ali' b. al-Hadrami reported Allah's Messenger (may peace he upon as saying:F
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Abdurrahman bin Humaid] bahwa ia mendengar Umar bin Abdul Aziz bertanya kepada [As Sa'ib bin Yazid], "Apakah Anda mendengar sesuatu saat bermukim di Makkah." As Sa'ib menjawab; Aku mendengar [Al 'Ala Al Hadlrami] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda kepada orang-orang Muhajir: "Waktu bermukim adalah selama tiga hari." Yakni beliau mengatakannya setelah shalat Ashar di Makkah. Sepertinya beliau juga bersabda: "Janganlah seorang pun yang menambahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>1352.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 501</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>1352.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 501</td></tr></tbody></table></div>
 

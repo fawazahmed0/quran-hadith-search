@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A person was mentioned before the Prophet (p.b.u.h) and he wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Al Ahwash] berkata, telah menceritakan kepada kami [Manshur] dari [Abu Wa'il] dari ['Abdullah radliallahu 'anhu] berkata: Diceritakan kepada Nabi shallallahu 'alaihi wasallam tentang seseorang yang dia terus tertidur sampai pagi hari hingga tidak mengerjakan shalat. Maka Beliau shallallahu 'alaihi wasallam bersabda: "Syaitan telah mengencingi orang itu pada telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1144</td></tr><tr><td>Arabic No</td><td>1144</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) в присутствии Пророка ﷺ кто-то упомянул об одном человеке и сказал: “Он продолжал спать, пока не проснулся утром, так и не встав на молитву”. (В ответ на это Пророк ﷺ) сказал: “Шайтан помочился ему в ухо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1144</td></tr><tr><td>Arabic No</td><td>1144</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim Ad Dauraqi], telah menceritakan kepada kami [Yahya bin Abu Bukair], telah menceritakan kepada kami [Ibrahim bin Thahman] telah menceritakan kepadaku [Hisyam bin Hassan], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Abdullah bin Al Jarrah Al Quhistani], dari [Abdullah bin Bakr As Sahmi], dari [Hisyam], dan ini adalah lafazh Ibnu Al Jarrah, dari [Hafshah] dari [Ummu 'Athiyyah] bahwa Nabi shallallahu 'alaihi wasallam berkata; tidak boleh seorang wanita ber'iddah di atas tiga hari kecuali terhadap suami, maka ia ber'iddah terhadapnya selama empat bulan sepuluh hari, dan tidak memakai baju yang dicelup kecuali kain serban, dan ia tidak memakai celak, serta tidak mengusap minyak wangi, kecuali ketika mendekati kesuciannya apabila ia telah bersuci dari haidnya menggunakan sepotong kayu gaharu atau minyak wangi. Abu Ya'qub berkata; tempat serban, kecuali yang dicuci. Ya'qub menambahkan; dan tidak boleh memakai semir. Telah menceritakan kepada kami [Harun bin Abdullah], serta [Malik bin Abdul Wahid Al Misma'i], mereka berkata; telah menceritakan kepada kami [Yazid bin Harun] dari [Hisyam] dari [Hafshah] dari [Ummu 'Athiyyah] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini dan bukan pada kelanjutan hadits keduanya. Al Masma'i berkata; Yazid berkata; dan aku tidak mengetahuinya kecuali ia berkata dalam hadits tersebut; dan tidak boleh ia memakai semir. Dan Harun menambahkan padanya; dan tidak boleh memakai pakaian yang dicelup kecuali kain serban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5342، 5343) Sahih Muslim (938)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>2302</td></tr><tr><td>Reference</td><td>Book 13 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм ‘Атыйя, да будет доволен ею Аллах, рассказывала, что Пророк ﷺ сказал: «Женщина не должна соблюдать траур по умершему более трёх ночей. Только после смерти мужа она должна соблюдать траур в течение четырёх месяцев и десяти дней. В течение этого срока она не должна носить крашеных нарядов, если только они не были сотканы из уже покрашенной пряжи, подводить глаза сурьмой и умащаться благовониями. И только после очищения от менструации она может воспользоваться благовонием куст или азфар». Я‘куб добавил: «…и нельзя красить волосы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5342، 5343) Sahih Muslim (938)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>2302</td></tr><tr><td>Reference</td><td>Book 13 Hadith 128</td></tr></tbody></table></div>
 

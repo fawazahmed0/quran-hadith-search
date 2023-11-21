@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:A Bedouin urinated in the mosque. Some of the persons stood up (to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari [Tsabit] dari [Anas] bahwa seorang Badui kencing di masjid sehingga sebagian sahabat menghampirinya (untuk menghajarnya). Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Tinggalkan dia, dan janganlah kalian menghalanginya." Anas berkata, "Ketika dia telah selesai kencing, maka Rasulullah meminta setimba air, lalu menyiramkan di atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>659</td></tr><tr><td>Arabic No</td><td>284.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что (однажды) какой-то бедуин принялся мочиться (прямо) в мечети, некоторые люди поднялись (со своих мест, чтобы наброситься) на него, однако Посланник Аллаха ﷺ сказал: «Оставьте его и не прерывайте!» Когда же он закончил, Пророк ﷺ велел принести ведро воды и вылил на это место
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>659</td></tr><tr><td>Arabic No</td><td>284.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 125</td></tr></tbody></table></div>
 

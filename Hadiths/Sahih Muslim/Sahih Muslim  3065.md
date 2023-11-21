@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ NAfi' (Allah be pleased with him) reported:I saw'lbn 'Umar (Allah be pleased wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] semuanya dari [Abu Khalid] - [Abu Bakr] berkata- Telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Ubaidullah] dari [Nafi'] ia berkata; Saya melihat [Ibnu Umar] mengusap Hajar Aswad dengan tangannya, lalu mencium tangannya, kemudian ia berkata, "Saya tidak pernah meninggalkannya semenjak aku melihat Rasulullah shallallahu 'alaihi wasallam melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>1268.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убайдуллах передал, что Нафи‘ сказал: «Я видел, как Ибн ‘Умар прикоснулся к Чёрному камню рукой, поцеловал свою руку и сказал: “Я не перестаю делать это с тех пор, как увидел, что Посланник Аллаха ﷺ поступает так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>1268.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 271</td></tr></tbody></table></div>
 

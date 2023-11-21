@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Prophet (ﷺ) said: Judges are of three type
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hassan As Samti] telah menceritakan kepada kami [Khalaf bin Khalifah] dari [Abu Hasyim] dari [Ibnu Buraidah] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Hakim itu ada tiga; satu orang di Surga dan dua orang berada di Neraka. Yang berada di surga adalah seorang laki-laki yang mengetahui kebenaran lalu menghukumi dengannya, seorang laki-laki yang mengetahui kebenaran lalu berlaku lalim dalam berhukum maka ia berada di Neraka, dan orang yang memberikan keputusan untuk manusia di atas kebodohan maka ia berada di Neraka." Abu Daud berkata, "Hadits ini adalah yang paling shahih dalam hal tersebut, yaitu Hadits Ibnu Buraidah yang mengatakan; Hakim ada tiga…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3573</td></tr><tr><td>Arabic No</td><td>3573</td></tr><tr><td>Reference</td><td>Book 25 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Бурайда передаёт от своего отца, что Пророк ﷺ сказал: «Судьи бывают трёх категорий: одна в Раю и две в Огне. В Раю человек, который знал истину и судил по ней. А человек, который знал истину, но не судил по ней, и человек, который судил людей, будучи невеждой, в Огне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3573</td></tr><tr><td>Arabic No</td><td>3573</td></tr><tr><td>Reference</td><td>Book 25 Hadith 3</td></tr></tbody></table></div>
 

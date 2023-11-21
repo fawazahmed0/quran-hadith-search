@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When you hear the crowing of roost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Al Laits] dari [Ja'far bin Rabi'ah] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika kalian mendengar suara kokok ayam mohonlah kepada Allah karunia-Nya karena saat itu ayam itu sedang melihat malaikat dan bila kalian mendengar ringkik suara keledai mohonlah perlindungan kepada Allah karena saat itu keledai itu sedang melihat setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3303</td></tr><tr><td>Arabic No</td><td>3303</td></tr><tr><td>Reference</td><td>Book 59 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Услышав крик петуха, просите Аллаха о милости Его, ибо, поистине, (петух) увидел ангела, когда же услышите рёв осла, то обращайтесь к Аллаху за защитой от шайтана, ибо, поистине, (осёл) увидел шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3303</td></tr><tr><td>Arabic No</td><td>3303</td></tr><tr><td>Reference</td><td>Book 59 Hadith 111</td></tr></tbody></table></div>
 

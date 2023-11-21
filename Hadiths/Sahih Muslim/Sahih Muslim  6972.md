@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I heard Allah's Messenger (ﷺ) as saying: Allah created me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya At Tujibi] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwasanya [Sa'id bin Al Musayyab] telah mengabarkan kepadanya bahwasanya [Abu Hurairah] dia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Ta'ala menjadikan sifat rahmat seratus bagian. Maka dipeganglah disisi-Nya sembilan puluh sembilan bagian dan diturunkan-Nya satu bagian ke bumi. Dari yang satu bagian inilah seluruh makhluk berkasih sayang sesamanya, sehingga seekor hewan mengangkat kakinya karena takut anaknya akan terinjak olehnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6972</td></tr><tr><td>Arabic No</td><td>2752.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6972</td></tr><tr><td>Arabic No</td><td>2752.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 20</td></tr></tbody></table></div>
 

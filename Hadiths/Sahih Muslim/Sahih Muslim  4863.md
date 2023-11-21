@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Haraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; hadits ini seperti yang telah diceritakan kepada kami oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam -kemudian dia menyebutkan beberapa hadits darinya-, Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap luka yang menimpa seorang Muslim dalam jihad fi sabilillah, maka di hari Kiamat ia akan mengucurkan darah berwarna merah dan baunya bau kesturi." Dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi dzat yang jiwaku berada ditangan-Nya, sekiranya tidak memberatkan terhadap orang-orang mukmin, niscaya saya tidak akan membolehkan seseorang untuk tidak ikut berperang fi sabilillah, akan tetapi saya tidak mampu memberi kelapangan dan membawa mereka, begitu pula mereka tidak memiliki kelapangan untuk ikut bersamaku (berparang), dan jiwa mereka tidak nyaman untuk duduk-duduk (tidak ikut perang) sepeninggalku." Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinnad] dari [Al A'raj] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya tidak memberatkan terhadap orang-orang Mukmin, niscaya saya tidak akan tertinggal di belakang ekspedisi …sebagaimana hadits mereka dengan isnad ini, "Demi dzat yang jiwaku berada di tangan-Nya, sungguh saya ingin sekali terbunuh kemudian di hidupkan… seperti hadits Abu Zur'ah dari Abu Hurairah." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] -yaitu At Tsaqafi-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Marwan bin Mu'awiyah] semuanya dari [Yahya bin Sa'id] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya tidak memberatkan terhadap ummatku, sungguh saya lebih suka tidak tertinggal dari ekspedisi…..sebagaimana hadits mereka." Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah akan menjamin bagi siapa yang keluar berperang fi sabilillah… hingga sabdanya: "Saya tidak akan tertinggal di belakang ekspedisi di jalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4863</td></tr><tr><td>Arabic No</td><td>1876.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4863</td></tr><tr><td>Arabic No</td><td>1876.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 159</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yazid Dhu Misr : I came to Utbah ibn AbdusSulami and said: AbulWalid, I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], ia berkata; dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ali bin Bahr bin Bari], telah menceritakan kepada kami [Isa] secara makna, dari [Tsaur], telah menceritakan kepadaku [Abu Humaid Ar Ru'aini], telah mengabarkan kepadaku [Yazid Dzu Mishr], ia berkata; aku datang kepada ['Utbah bin Abdussulami], kemudian aku katakan; wahai Abu Al Walid, sesungguhnya aku keluar mencari kurban, dan aku tidak mendapatkan sesuatu yang menarik bagiku selain tsarma' (yang telah tanggal gigi seri dan gigi taring). Lalu aku tidak menyukainya, maka bagaimana pendapatmu? Ia berkata; tidakkah engkau membawanya kepadaku? Aku katakan; subhanallah, tidak cukup bagimu dan tidak cukup bagiku? Ia berkata; ya. Karena engkau ragu dan aku tidak ragu. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam hanya melarang dari mushfarrah, musta'shalah, bakhqa', musyayya'ah dan kasra'. Mushfarrah adalah yang terpotong telinganya hingga nampak lubangnya, sedangkan musta'shalah adalah yang patah tanduknya pangkalnya, bakhqa' adalah yang buta matanya, dan musyayya'ah adalah yang kurus dan lemah, dan kasra' adalah yang retak (tulangnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2803</td></tr><tr><td>Arabic No</td><td>2803</td></tr><tr><td>Reference</td><td>Book 16 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Язида Зу Мисра: «Я пришёл к ‘Утбе ибн ‘Абду ас-Сулями и сказал: “О Абу аль-Валид! Поистине, я пошёл, чтобы найти жертвенное животное. Но не нашёл ничего, что мне понравилось бы. Только такое, у которого не хватало зубов и мне не захотелось брать его. Что ты об этом скажешь?” Он сказал: “Почему же ты не пришёл с ним ко мне?” Я воскликнул: “Пречист Аллах! От меня оно будет недействительным, а от тебя действительным?” Он ответил: “Да. Поистине, ты сомневаешься, а я не сомневаюсь. Поистине, Посланник Аллаха ﷺ запрещал использовать для жертвоприношения (животное, именуемое) мусфарра, мустасаля, бахка, мушаййа‘а и касра. Мусфарра это животное с полностью оторванным или отрезанным ухом, мустасаля животное с полностью отсутствующим рогом, бахка животное с выколотым глазом, мушаййа‘а столь слабое и истощённое, что не поспевает за остальными овцами и плетётся в хвосте, а касра животное со сломанной ногой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2803</td></tr><tr><td>Arabic No</td><td>2803</td></tr><tr><td>Reference</td><td>Book 16 Hadith 16</td></tr></tbody></table></div>
 

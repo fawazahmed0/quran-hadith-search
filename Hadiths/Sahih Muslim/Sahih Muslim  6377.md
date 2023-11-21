@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik said:Allah's Messenger (ﷺ) passed (by our house) that my mother 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ja'far] yaitu Ibnu Sulaiman dari [Al Ja'ad Abu 'Utsman] dia berkata; Telah menceritakan kepada kami [Anas bin Malik] dia berkata; Suatu hari Rasulullah berjalan lewat rumah kami. Kebetulan ibu saya, Ummu Sulaim mendengar suara beliau. Ia pun memanggilnya, 'Ya Rasulullah, demi bapak dan ibuku inilah Unais! ' Kemudian Rasulullah shallallahu 'alaihi wasallam mendo'akan untuk saya tiga hal, yang dua telah saya capai di dunia dan yang ketiga saya mengharapkannya di akhirat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6377</td></tr><tr><td>Arabic No</td><td>2481.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6377</td></tr><tr><td>Arabic No</td><td>2481.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 207</td></tr></tbody></table></div>
 

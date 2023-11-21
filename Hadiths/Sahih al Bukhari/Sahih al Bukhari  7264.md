@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Allah's Messenger (ﷺ) sent a letter to Khosrau a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibn Syihab] bahwa ia berkata, telah mengabarkan kepadaku [Ubaidullah bin Utbah] bahwa [Abdullah bin Abbas] mengabarkan kepadanya, "Rasulullah shallallahu 'alaihi wasallam mengutus utusan membawa suratnya ke Kisra, beliau perintahkan ajudannya untuk menyerahkannya ke penguasa Bahrain, dan penguasa Bahran agar menyampaikan kepada Kisra. Ketika Kisra membacanya, ia langsung merobek-robeknya." Dan kutaksir Ibnul Musayyab menyebutkan, "Dan Rasulullah shallallahu 'alaihi wasallam mendoakan kecelakaan atas mereka, agar dihancurkan sehancur-hancurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7264</td></tr><tr><td>Arabic No</td><td>7264</td></tr><tr><td>Reference</td><td>Book 95 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что (в своё время) Посланник Аллаха ﷺ направил (‘Абдуллах ибн Хузафу) со своим посланием, повелев ему вручить это послание владыке Бахрейна, а владыка Бахрейна отправил послание Хосрову, разорвавшему его на мелкие куски после прочтения».\n(Ибн Шихаб аз-Зухрий) сказал: «Я полагаю, что Ибн аль-Мусаййиб сказал: «И Посланник Аллаха ﷺ проклял их, пожелав, чтобы их самих разорвали в клочья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7264</td></tr><tr><td>Arabic No</td><td>7264</td></tr><tr><td>Reference</td><td>Book 95 Hadith 18</td></tr></tbody></table></div>
 

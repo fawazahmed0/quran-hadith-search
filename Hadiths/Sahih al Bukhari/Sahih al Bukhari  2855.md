@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:In our garden there was a horse belonging to the Prophet (ﷺ) cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah bin Ja'far] telah bercerita kepada kami [Ma'an bin 'Isa] telah bercerita kepada kami [Ubay bin 'Abbas bin Sahal] dari [bapaknya] dari [kakeknya] berkata: "Dahulu Nabi shallallahu 'alaihi wasallam memiliki kuda yang berada di kebun kami yang diberi nama Al Luhaif". Berkata Abu 'Abdullah Al Bukhariy: Dan sebagian mereka menamakannya Al Lukhoif
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 56 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «За оградой нашего (сада мы держали) коня Пророка ﷺ по кличке Люхайф»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 56 Hadith 71</td></tr></tbody></table></div>
 

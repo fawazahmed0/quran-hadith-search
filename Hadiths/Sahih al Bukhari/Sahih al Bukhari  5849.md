@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) ordered us to observe seven things: To visit 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Asy'ats] dari [Mu'awiyah bin Suwaid bin Muqarrin] dari [Al Barra'] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam memerintahkan tujuh perkara diantaranya menjenguk orang sakit, mengiringi jenazah, mendo'akan orang yang bersin. Dan melarang tujuh perkara, yaitu memakai kain sutera, dibaj, Qasiy, istabraq, mayasir dan al humr (jenis kain sutera yang direnda)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5849</td></tr><tr><td>Arabic No</td><td>5849</td></tr><tr><td>Reference</td><td>Book 77 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Пророк ﷺ велел нам делать семь (вещей): навещать больного, провожать погребальные носилки и произносить благопожелание чихнувшему. И он запретил нам семь вещей: носить шёлк, дибадж (один из видов шёлка), кассию (льняная одежда, содержащая шёлк), парчу и красный маясир (подушки из шёлка)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5849</td></tr><tr><td>Arabic No</td><td>5849</td></tr><tr><td>Reference</td><td>Book 77 Hadith 66</td></tr></tbody></table></div>
 

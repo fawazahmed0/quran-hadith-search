@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:Az-Zubair told me that he quarreled with an Ansari 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku ['Urwah bin Az Zubair] bahwa [Az Zubair] pernah bercerita bahwa dia pernah bersengketa dengan seseorang dari kaum Anshor yang pernah ikut dalam perang Badar kepada Rasulullah shallallahu 'alaihi wasallam tentang masalah saluran air di Al Harrah dimana keduanya sama-sama saling menyiram (kebun mereka darinya) Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada Az Zubair: "Siramlah (kebunmu darinya) wahai Zubair lalu alirkanlah ke tetanggamu". Maka orang Anshor itu marah seraya berkata: "Wahai Rasulullah, Tuan bela dia karena dia anak dari bibi Tuan". Maka wajah Rasulullah shallallahu 'alaihi wasallam berubah kemudian Beliau berkata: "Siramlah (kebunmu) darinya kemudian tahanlah air itu hingga memenuhi kebun". Maka Rasulullah shallallahu 'alaihi wasallam saat itu memutuskan untuk mememnuhi hak Zubair padahal sebelumnya Rasulullah shallallahu 'alaihi wasallam memberi isyarat kepada Zubair agar memberi kelapangan bagi orang Anshor itu. Ketika orang Anshor itu tidak menerima maka Rasulullah shallallahu 'alaihi wasallam mengembalikan hak Zubair sepenuhnya sesuai hukum yang semestiya. 'Urwah berkata; Az Zubair berkata: "Demi Allah, tidaklah aku menduga ayat ini turun melainkan dalam perkara ini: ("Maka demi Tuhanmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim terhadap perkara yang mereka perselisihkan….) Ayat 65 dari surah an-Nisaa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2708</td></tr><tr><td>Arabic No</td><td>2708</td></tr><tr><td>Reference</td><td>Book 53 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Урвы ибн аз-Зубайра, что один человек из числа ансаров, который участвовал в битве при Бадре, начал тяжбу у Посланника Аллаха ﷺ с аз-Зубайром из-за источника воды, из которого они оба орошали пальмы. Посланник Аллаха ﷺ сказал аз-Зубайру: «О Зубайр! Набирай воду (немного), а затем дай воде течь к соседу». Тогда разгневался ансар и сказал: «О Посланник Аллаха! (Ты рассудил так, потому что) он сын твоей тётки со стороны отца!» Посланник Аллаха ﷺ изменился в лице, а затем он сказал (аз-Зубайру): «Ороси свой участок и задержи воду, чтобы она заполнила стены вокруг ям между пальм». Таким образом дав ему его полное право, хотя до этого он посоветовал аз-Зубайру решение выгодное для него и ансара, но когда он разгневал Посланника Аллаха ﷺ, он дал аз-Зубайру его право полностью. Аз-Зубайр сказал: «Клянусь Аллахом, я считаю, что этот аят ниспослан как раз об этом: “Но нет — клянусь твоим Господом! — они не уверуют, пока они не изберут тебя судьёй во всем том, что запутано между ними” (сура “ан-Ниса”, аят 65)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2708</td></tr><tr><td>Arabic No</td><td>2708</td></tr><tr><td>Reference</td><td>Book 53 Hadith 18</td></tr></tbody></table></div>
 

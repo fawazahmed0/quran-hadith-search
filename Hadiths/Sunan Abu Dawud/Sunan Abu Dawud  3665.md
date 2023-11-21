@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Awf ibn Malik al-Ashja'i: I heard the Messenger of Allah (ﷺ) say: Onl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Abu Mushir] telah menceritakan kepadaku ['Abbad bin 'Abbad Al Khawwash] dari [Yahya bin Abu 'Amru As Saibani] dari ['Amru bin Abdullah As Saibani] dari ['Auf bin Malik Al Asyja'i] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada yang memberi nasihat kecuali seorang pemimpin, atau orang yang diperintah (oleh Amir), atau orang yang ingin dipuji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3665</td></tr><tr><td>Arabic No</td><td>3665</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ауфа ибн Малика аль-Ашджа‘и, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Речи произносит правитель, человек, назначенный правителем (, кому правитель поручил это дело), или (стремящийся к власти и главенству) гордец”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3665</td></tr><tr><td>Arabic No</td><td>3665</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 

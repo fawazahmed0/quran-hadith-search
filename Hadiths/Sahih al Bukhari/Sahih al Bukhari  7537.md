@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Perhaps the Prophet (ﷺ) mentioned the following (as Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7537</td></tr><tr><td>Arabic No</td><td>7537</td></tr><tr><td>Reference</td><td>Book 97 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что он сказал: «Возможно, Пророк ﷺ упомянул (следующее, как слова Всевышнего), говоря: “Если раб приблизится ко Мне на пядь, Я приближусь к Нему на локоть. Если он приблизится ко Мне на локоть, Я приближусь к нему на сажень”».\nМу‘тамир (ибн Сулейман ат-Таймий) сказал: Я слышал моего отца, который сказал: Я слышал Анаса от Пророка ﷺ который передавал от своего Великого и Всемогущего Господа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7537</td></tr><tr><td>Arabic No</td><td>7537</td></tr><tr><td>Reference</td><td>Book 97 Hadith 162</td></tr></tbody></table></div>
 

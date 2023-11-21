@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:My mother came to me, hoping (for my favor) during 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Hisyam bin 'Urwah] telah mengabarkan kepadaku [Ayahku] telah mengabarkan kepadaku [Asma' binti Abu Bakr] radliallahu 'anhuma dia berkata; "Ibuku datang pada masa Nabi shallallahu 'alaihi wasallam menemuiku dalam keadaan mengharapkan baktiku, lalu saya bertanya kepada Nabi shallallahu 'alaihi wasallam; "Apakah saya boleh berhubungan dengannya?" beliau menjawab: "Ya." Ibnu 'Uyainah lalu berkata; "Kemudian Allah Ta'ala menurunkan ayat Allah tidak melarang kalian dari orang-orang yang tidak memerangi agama kalian (QS Al Mumtahanah;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5978</td></tr><tr><td>Arabic No</td><td>5978</td></tr><tr><td>Reference</td><td>Book 78 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Аби Бакр, да будет доволен Аллах ею и её отцом, сказала: «При жизни Пророка ﷺ ко мне пришла моя мать, которая (чего-то) желала. Я спросила Пророка ﷺ: “Могу ли я поддерживать с ней связь?” Он ответил: “Да”».\nИбн ‘Уеййна сказал: «Всевышний Аллах ниспослал в отношении неё: “Аллах не запрещает вам быть добрыми и справедливыми с теми, которые не сражались с вами из-за религии” (сура «аль-Мумтахана», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5978</td></tr><tr><td>Arabic No</td><td>5978</td></tr><tr><td>Reference</td><td>Book 78 Hadith 9</td></tr></tbody></table></div>
 

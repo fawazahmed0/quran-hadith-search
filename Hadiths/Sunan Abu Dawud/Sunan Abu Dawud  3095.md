@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas :A young Jew became ill. The Prophet (ﷺ) went to visit him. He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas] bahwa anak seorang yahudi mengalami sakit, kemudian Nabi shallallahu 'alaihi wasallam datang menjenguknya, kemudian beliau duduk di sebelah kepalanya dan berkata kepadanya: "Masuklah Islam!" kemudian anak tersebut melihat kepada ayahnya sementara ayahnya berada di sebelah kepalanya. Kemudian ayahnya berkata; taatilah Abu Al Qasim. Kemudian anak tersebut masuk Islam. Kemudian Nabi shallallahu 'alaihi wasallam mengucapkan: "Segala puji bagi Allah yang telah menyelamatkannya dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5657)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3095</td></tr><tr><td>Arabic No</td><td>3095</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, передаёт, что, когда один мальчик-иудей заболел, Пророк ﷺ пришёл навестить его. Он сел у его изголовья и сказал ему: «Прими ислам». Тот посмотрел на своего отца, находившегося у его головы, а отец сказал ему: «Повинуйся Абу аль-Касиму!» и он принял ислам. А после этого Пророк ﷺ поднялся, говоря: “Хвала Аллаху, Который спас его посредством меня от Огня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5657)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3095</td></tr><tr><td>Arabic No</td><td>3095</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
 

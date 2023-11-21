@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that the Messenger of Allah (ﷺ) found a date lying on t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [Za'idah] dari [Manshur] dari [Thalhah bin Musharrif] telah menceritakan kepada kami [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam menemukan satu biji kurma di jalan, maka beliau pun bersabda: "Sekiranya kurma ini bukan dari harta sedekah, niscaya aku akan memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>1071.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что однажды Посланник ﷺ прошёл лежавшего на дороге финика и сказал: “Если бы (я не опасался), что это может быть (частью) милостыни, я бы съел его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>1071.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 216</td></tr></tbody></table></div>
 

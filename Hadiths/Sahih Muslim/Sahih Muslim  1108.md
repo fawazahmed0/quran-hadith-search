@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Maimuna, the wife of the Messenger of Allah (ﷺ), reported:When the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim al-Hanzhali] telah mengabarkan kepada kami [Marwan bin Muawiyah al-Fazari] dia berkata, telah menceritakan kepada kami [Ubaidullah bin Abdullah bin al-Ashamm] dari [Yazid bin al-Ashamm] bahwasanya dia telah mengabarkan kepadanya dari [Maimunah binti alharits, istri Nabi Shallallahu'alaihiwasallam] dia berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam apabila bersujud, maka beliau menjauhkan kedua tangannya, maksudnya merenggangkan tangan hingga terlihatlah putihnya kedua ketiaknya dari belakang. Dan apabila beliau duduk maka beliau tenang dengan bertumpu pada pahanya yang sebelah kanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>497.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Маймуна сказала: «Совершая земной поклон, Посланник Аллаха ﷺ расставлял руки так широко, что сзади можно было увидеть белизну его подмышек. Когда же он садился, то опирался на левое бедро»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>497.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 270</td></tr></tbody></table></div>
 

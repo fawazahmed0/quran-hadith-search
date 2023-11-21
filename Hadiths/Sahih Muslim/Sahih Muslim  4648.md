@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated by Hammam b. Munabbih who said:This is what has been relate
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, "Ini seperti sesuatu yang pernah diceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, kemudian dia menyebutkan di antaranya, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah sangat marah terhadap suatu kaum yang melakukan perbuatan ini terhadap Rasulullah shallallahu 'alaihi wasallam." Dan ketika itu beliau sambil menunjuk taringnya yang patah. Dan beliau juga bersabda: "Allah sangat marah terhadap orang yang dibunuh Rasulullah shallallahu 'alaihi wasallam dalam perang fi sabilillah Azza Wa Jalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4648</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 32 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4648</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 32 Hadith 130</td></tr></tbody></table></div>
 

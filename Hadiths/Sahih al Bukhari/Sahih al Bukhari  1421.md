@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) (p.b.u.h) said, "A man said that he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu]; Rasulullah Shallallahu'alaihiwasallam berkata,: "Ada seorang laki-laki berkata,: Aku pasti akan bershadaqah. Lalu dia keluar dengan membawa shadaqahnya dan ternyata jatuh ke tangan seorang pencuri. Keesokan paginya orang-orang ramai membicarakan bahwa dia telah memberikan shadaqahnya kepada seorang pencuri. Mendengar hal itu orang itu berkata,: "Ya Allah segala puji bagiMu, aku pasti akan bershadaqah lagi". Kemudian dia keluar dengan membawa shadaqahnya lalu ternyata jatuh ke tangan seorang pezina. Keesokan paginya orang-orang ramai membicarakan bahwa dia tadi malam memberikan shadaqahnya kepada seorang pezina. Maka orang itu berkata, lagi: Ya Allah segala puji bagiMu, (ternyata shadaqahku jatuh) kepada seorang pezina, aku pasti akan bershadaqah lagi. Kemudian dia keluar lagi dengan membawa shadaqahnya lalu ternyata jatuh ke tangan seorang yang kaya. Keesokan paginya orang-orang kembali ramai membicarakan bahwa dia memberikan shadaqahnya kepada seorang yang kaya. Maka orang itu berkata,: Ya Allah segala puji bagiMu, (ternyata shadaqahku jatuh) kepada seorang pencuri, pezina, dan orang kaya. Setelah itu orang tadi bermimpi dan dikatakan padanya: "Adapun shadaqah kamu kepada pencuri, mudah-mudahan dapat mencegah si pencuri dari perbuatannya, sedangkan shadaqah kamu kepada pezina, mudah-mudahan dapat mencegahnya berbuat zina kembali dan shadaqah kamu kepada orang yang kaya mudah-mudahan dapat memberikan pelajaran baginya agar menginfaqkan harta yang diberikan Allah kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1421</td></tr><tr><td>Arabic No</td><td>1421</td></tr><tr><td>Reference</td><td>Book 24 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Один человек сказал: “Я обязательно должен подать милостыню!” — (после чего) вышел (из дома) со своей милостыней и (по незнанию) вложил её в руку вору. Наутро люди стали говорить: “Милостыню подали вору!” Тогда (этот человек) сказал: “О Аллах, хвала Тебе, я обязательно должен подать милостыню!” После этого он (опять) вышел (из дома) и вложил (милостыню) в руку блуднице, а наутро люди стали говорить: “Этой ночью милостыню подали блуднице!” Тогда (этот человек) сказал: “О Аллах, хвала Тебе! (Я подал милостыню) блуднице, но я обязательно должен подать её (снова)!” После этого он (опять) вышел из (дома) со своей милостыней и (на сей раз) подал её богатому человеку, а наутро люди стали говорить: “Милостыню подали богатому!” (Услышав это,) он сказал: “О Аллах, хвала Тебе, (я подал милостыню) вору, блуднице и богачу!” — а после этого некто пришёл к нему и сказал: “Что касается твоего подаяния вору, то, может быть, благодаря этому (впредь) он станет воздерживаться от воровства; что касается блудницы, то, может быть, она откажется от блуда, что же касается богатого, то, может быть, он извлечёт из этого урок и станет расходовать (на пути Аллаха) то, что даровал ему Аллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1421</td></tr><tr><td>Arabic No</td><td>1421</td></tr><tr><td>Reference</td><td>Book 24 Hadith 25</td></tr></tbody></table></div>
 

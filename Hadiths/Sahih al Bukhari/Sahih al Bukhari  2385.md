@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:While I was in the company of the Prophet (ﷺ) in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah mengabarkan kepada kami [Jarir] dari [Al Mughirah] dari [Asy-Sya'biy] dari [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Aku berperang bersama Nabi shallallahu 'alaihi wasallam, dan Beliau bertanya: "Bagaimana pendapat kamu tentang unta kamu, apakah kamu mau menjualnya kepadaku?" Aku jawab: "Ya". Maka aku menjualnya kepada Beliau. Ketika Beliau tiba di Madinah pagi-pagi aku temui Beliau dengan membawa unta itu lalu Beliau membayar uangnya kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2385</td></tr><tr><td>Arabic No</td><td>2385</td></tr><tr><td>Reference</td><td>Book 43 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Когда я был вместе с Пророком ﷺ в одном из военных походов, он спросил: “Ты продашь мне своего верблюда?” Я ответил: “Да”, — продал ему верблюда. Когда он добрался до Медины, утром я отвёл к нему верблюда, и он заплатил мне его стоимость»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2385</td></tr><tr><td>Arabic No</td><td>2385</td></tr><tr><td>Reference</td><td>Book 43 Hadith 1</td></tr></tbody></table></div>
 

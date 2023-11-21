@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) came out on 'Id (the f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (98) Sahih Muslim (884)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1142</td></tr><tr><td>Arabic No</td><td>1142</td></tr><tr><td>Reference</td><td>Book 2 Hadith 753</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ата сказал: «Я свидетельствую в отношении Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, а Ибн ‘Аббас засвидетельствовал в отношении Посланника Аллаха ﷺ что Посланник Аллаха ﷺ вышел в день праздника разговения, совершил молитву, произнёс проповедь, после чего подошёл к женщинам вместе с Билялем». Передатчик Ибн Касир сказал: «Насколько известно Шу‘бе». Далее говорится: «…и велел им подавать милостыню, а они стали бросать (свои пожертвования)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (98) Sahih Muslim (884)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1142</td></tr><tr><td>Arabic No</td><td>1142</td></tr><tr><td>Reference</td><td>Book 2 Hadith 753</td></tr></tbody></table></div>
 

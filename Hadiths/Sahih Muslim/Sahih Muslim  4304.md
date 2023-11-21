@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suwaid b. Muqarrin reported that he had a slave-girl and a person (one of the me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Warits bin Abdush Shamad] telah menceritakan kepadaku [Ayahku] telah menceritakan kepada kami [Syu'bah] berkata; [Muhammad bin Munkadir] bertanya kepadaku, "Siapakah namamu?" Aku menjawab, "Syu'bah." Selanjutnya [Muhammad] berkata; telah menceritakan kepadaku [Abu Syu'bah Al 'Iraqi] dari [Suwaid bin Muqarrin], bahwa seorang budak perempuan miliknya pernah ditampar oleh seseorang, lalu Suwaid berkata kepada orang itu, "Tahukah kamu bahwa wajah itu haram untuk ditampar?" Suwaid berkata lagi, "Sungguh, aku adalah anak yang ke tujuh di antara saudara-saudaraku, dan aku pernah mengalami peristiwa ini pada masa Rasulullah shallallahu 'alaihi wasallam, padahal saat itu pelayan kami hanya satu orang, lalu salah seorang dari kami ada yang sengaja menampar pelayan perempuan (budak) kami, maka Rasulullah shallallahu 'alaihi wasallam pun memerintahkan kepada kami supaya memerdekakan dia." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Al Mutsanna] dari [Wahb bin Jarir] telah mengabarkan kepada kami [Syu'bah] dia berkata; [Muhammad bin Al Munkadir] pernah bertanya kepadaku, "Siapakah namamu?" kemudian dia menyebutkan seperti hadits Abdush Shamad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4304</td></tr><tr><td>Arabic No</td><td>1658.04</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4304</td></tr><tr><td>Arabic No</td><td>1658.04</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
 

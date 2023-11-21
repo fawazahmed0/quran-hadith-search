@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:There was a disagreement between them (i.e. Ibn 'Abbas 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] dia berkata; Telah menceritakan kepadaku [Yahya bin Ma'in] Telah menceritakan kepada kami [Hajjaj] dia berkata; [Ibnu Juraij] berkata; [Ibnu Mulaikah] berkata ketika terjadi perselisihan antara Ibnu Abbas dan Ibnu Zubair; Maka aku pun pergi menemui Ibnu Abbas seraya aku katakan kepadanya; Apakah kamu ingin memerangi Ibnu Zubair yang berarti kamu telah menghalalkan apa yang Allah haramkan? [Ibnu Abbas] berkata; Aku berlindung kepada Allah, sesungguhnya Allah telah mencatat Ibnu Zubair dan Bani Umayyah sebagai orang yang termasuk menghalalkan perang. Dan demi Allah, sesungguhnya aku tidak pernah menghalalkannya sama sekali. Maka orang-orang pun berkata; 'Bai'atlah Ibnu Zubair. Ibnu Mulaikah berkata; siapa lagi kalau bukan dia? Sesungguhnya bapaknya adalah Hawari (penolong) Rasulullah shallallahu 'alaihi wasallam (yaitu Zubair). Kakeknya adalah teman Rasulullah shallallahu 'alaihi wasallam di gua Hira (yaitu Abu Bakr), Ibunya adalah pemilik dua ikat pinggang (yaitu Asma), bibinya adalah Ummul Mukminin (yaitu Aisyah), juga bibinya pula istri Rasulullah shallallahu 'alaihi wasallam (yaitu Khadijah), neneknya adalah Shafiyyah, Ibnu Zubair adalah orang yang mempunyai harga diri dalam Islam, penghafal Qur'an, demi Allah jika aku sambungkan kekerabatannya denganku tentu akan menyambung, dan jika mereka mendidikku, tentu merekalah sebaik-baik orang yang telah mendidikku dengan kemuliaan. Maka sungguh mereka adalah sebaik-baik teladan dari Tautiyat, Usamaat, Humaidaat. Yang dia maksudkan adalah keturunan dari Kabilah bani Asad, bani Tuwait, dan bani Usamah. Sesungguhnya putra Abu Al 'Ash dia nampak berjalan mencari kemuliaan, yaitu Al Malik bin Marwan. Dan dia telah memuji kesalahannya, (yaitu Ibnu Jubair)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4665</td></tr><tr><td>Arabic No</td><td>4665</td></tr><tr><td>Reference</td><td>Book 65 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Мулейка сказал: «Когда между ними (Ибн ‘Аббасом и Ибн аз-Зубайром) возникли разногласия, я пришёл к Ибн ‘Аббасу, и сказал (ему): “Ты хочешь сражаться против Ибн Зубайра, сделав разрешённым то, что запретил Аллах (сражаясь в Мекке)?” Ибн ‘Аббас сказал: “Упаси Аллах! Аллах предопределил, что Ибн аз-Зубайр и бану умайя будут считать дозволенным (сражаться в Мекке), но, клянусь Аллахом, я никогда не буду считать это дозволенным”. Ибн ‘Аббас добавил: “Люди сказали мне: “Присягни Ибн аз-Зубайру”. А я сказал: “Он (действительно) подходит для этого. Что касается его отца, аз-Зубайра, то он был близким помощником Пророка ﷺ, а его дедушка, Абу Бакр, был спутником (Пророка ﷺ) в пещере, его мать Асма была “обладательницей пояса /зату-н-нитакы/”, его тетя ‘Аиша была матерью правоверных, его тётя по отцовской линии Хадиджа была женой Пророка ﷺ, а тётей Пророка ﷺ по отцовской линии была его бабушкой. Сам он целомудрен в исламе и чтец Корана. Клянусь Аллахом! Если они (бану умайя) поддерживают со мной связь, то это потому что между нами есть родство, и если они станут правителями надо мной, то являются достойными этого. Однако он предпочёл мне бану туэйт, бану усама, бану асад (семейства бану асад)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4665</td></tr><tr><td>Arabic No</td><td>4665</td></tr><tr><td>Reference</td><td>Book 65 Hadith 187</td></tr></tbody></table></div>
 

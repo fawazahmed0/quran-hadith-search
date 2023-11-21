@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) died when he was sixty-three
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Ar Razi Muhammad bin 'Amru]; Telah menceritakan kepada kami [Hakkam bin Salm]; Telah menceritakan kepada kami ['Utsman bin Zaidah] dari [Az Zubair bin 'Adi] dari [Anas bin Malik] dia berkata; "Rasulullah shallallahu 'alaihi wasallam wafat pada usia enam puluh tiga tahun, Abu Bakar pada usia enam puluh tiga tahun, dan 'Umar pada usia enam puluh tiga tahun juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6091</td></tr><tr><td>Arabic No</td><td>2348</td></tr><tr><td>Reference</td><td>Book 43 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6091</td></tr><tr><td>Arabic No</td><td>2348</td></tr><tr><td>Reference</td><td>Book 43 Hadith 149</td></tr></tbody></table></div>
 

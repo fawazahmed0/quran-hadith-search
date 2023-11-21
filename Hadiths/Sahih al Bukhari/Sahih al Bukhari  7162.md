@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When the Prophet (ﷺ) intended to write to the Byzantin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] mengatakan, aku mendengar [Qatadah] dari [Anas bin Malik] mengatakan, Dikala Nabi shallallahu 'alaihi wasallam ingin berkirim surat kepada Romawi, mereka ternyata manusia yang tak mau membaca surat selain harus berstempel, maka Nabi shallallahu 'alaihi wasallam membuat stempel dari perak, seolah-olah aku melihat kilauannya dan ukirannya bertuliskan MUHAMMAD RASULULLAH
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7162</td></tr><tr><td>Arabic No</td><td>7162</td></tr><tr><td>Reference</td><td>Book 93 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что однажды Пророк ﷺ собрался отправить письмо (правителю) Византии, но ему сказали: «Поистине, они читают только письма, скреплённые печатью». Тогда Пророк ﷺ велел сделать ему перстень-печать из серебра, я и сейчас как будто вижу блеск перстня, на котором было выгравировано: «Мухаммад — Посланник Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7162</td></tr><tr><td>Arabic No</td><td>7162</td></tr><tr><td>Reference</td><td>Book 93 Hadith 26</td></tr></tbody></table></div>
 

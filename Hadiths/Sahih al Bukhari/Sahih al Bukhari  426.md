@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to start every thing from the right (for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al Asy'ats bin Sulaim] dari [ayahnya] dari [Masruq] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam suka mendahulukan yang kanan dalam setiap perbuatannya. Seperti dalam bersuci, menaiki kendaraan dan memakai sandal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророку ﷺ нравилось отдавать предпочтение правой стороне во всём, по мере возможности (, что бы он ни делал: при совершении) омовения, (когда) причёсывался или надевал обувь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 76</td></tr></tbody></table></div>
 

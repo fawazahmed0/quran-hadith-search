@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying:w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Bapaknya] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian ingin beranjak ke kasurnya hendaklah ia mengibas-ngibas kasurnya dengan bagian dalam sarungnya, sebab ia tidak mengetahui apa yang telah terjadi pada kasur tersebut sepeninggalnya. Kemudian hendaklah ia berbaring pada sisi sebelah kanan dan membaca: BISMIKA RABBII WADLA'TU JANBII WA BIKA ARFA'UHU IN AMSAKTA NAFSII FARHAMHAA WA IN ARSALTAHAA FAHFAZHHAA BIMAA TAHFAZHU BIHI 'IBAADAKASH SHAALIHIIN (Dengan nama-Mu ya Allah, aku letakkan tubuhku (tidur) dan dengan nama-Mu pula aku mengangkatnya. Jika Engkau genggam jiwaku maka sayangilah ia, dan jika Engkau lepaskan maka jagalah ia sebagaimana Engkau menjaga hamba-hamba-Mu yang shalih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6320) Sahih Muslim (2714)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5050</td></tr><tr><td>Arabic No</td><td>5050</td></tr><tr><td>Reference</td><td>Book 43 Hadith 278</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6320) Sahih Muslim (2714)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5050</td></tr><tr><td>Arabic No</td><td>5050</td></tr><tr><td>Reference</td><td>Book 43 Hadith 278</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdu'llah b. 'Amr b. 'As (Allah be pleased with them) reported:It was conveyed t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] ia berkata, saya mendengar ['Atha'] ia berdalih bahwa [Abul Abbas] telah mengabarkan kepadanya, bahwa ia mendengar [Abdullah bin Amru bin Al Ash] radliallahu 'anhuma, berkata; Telah sampai berita kepada Nabi shallallahu 'alaihi wasallam, bahwa saya berpuasa setiap hari dan shalat sepanjang malam. Kemungkinan beliau yang mengutus seseorang kepadaku, atau mungkin juga saya yang berjumpa dengan beliau. Kemudian beliau bertanya: "Benarkah kabar yang menyatakan bahwa kamu berpuasa dan tidak pernah berbuka, dan kamu juga shalat sepanjang malam (tidak tidur)? Janganlah kamu lakukan, karena kedua matamu juga mempunyai hak, dirimu mempunyai hak, dan keluargamu juga memiliki hak. Karena itu, hendaklah kamu berpuasa dan juga berbuka, kamu shalat dan juga tidur. Kemudian berpuasalah sehari dalam setiap sepuluh hari, maka kamu akan mendapatkan ganjaran pahala sembilan kali." Ia berkata, "Sungguh, saya masih kuat lebih dari itu wahai Nabiyullah." Beliau menjawab: "Kalau begitu lakukanlah puasa Dawud 'Alahis salam." Abdullah bertanya, "Bagaimanakah Nabi Dawud berpuasa wahai Nabiyullah?" beliau menjawab: "Nabi Dawud berpuasa sehari dan berbuka sehari. Dan Nabi Dawud juga tidak kabur melarikan diri dari medan peperangan, tepatnya ketika berhadapan dengan musuh." Abdullah bertanya lagi, "Lalu ganjaran apa yang saya dapatkan dari puasa ini wahai Nabiyullah?" Atha' berkata; Saya tidak tahu bagaimana ia menyebutkan puasa sepanjang masa. Kemudian Nabi shallallahu 'alaihi wasallam menajawab: "Tidak akan mendapatkan pahala puasa, bagi siapa saja yang berpuasa sepanjang masa. Tidak akan mendapatkan pahala puasa, bagi siapa saja yang berpuasa sepanjang masa." Dan telah meceritakannya kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] dengan isnad ini, dan berkata; Bahwa [Abul Abbas Asy Sya'ir] telah mengabarkan kepadanya, ia berkata; Muslim Abul Abbas As Sa'ib bin Farrukh adalah seorang penduduk Makkah dan ia adalah seorang yang Tsiqqah (terpercaya) dan Adil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2734</td></tr><tr><td>Arabic No</td><td>1159.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2734</td></tr><tr><td>Arabic No</td><td>1159.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 240</td></tr></tbody></table></div>
 

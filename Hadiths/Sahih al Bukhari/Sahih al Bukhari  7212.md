@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There will be three types of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu hamzah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga orang yang Allah tidak mengajak bicara pada hari kiamat, tidak menyucikan mereka dan bagi mereka siksa yang pedih, seseorang yang terus membiarkan kelebihan air di jalan untuk mencegah ibnus sabil, dan seseorang yang berbaiat kepada imam, yang ia tidak berbaiat kepadanya selain untuk duniawi, jika imam memberi yang diinginkannya maka ia memenuhinya, namun jika tidak, ia tidak menunaikannya, dan seseorang yang melakukan transaksi jual beli dengan seseorang setelah 'ashr, lantas si pembeli bersumpah dengan nama Allah, bahwa ia pernah membeli dengan harga sekian-sekian dan itu diberikan, lantas si penjual memberikannya (membenarkannya), sehingga si pembeli bisa mengambilnya padahal sebenarnya dengan harga tawarannya tak bisa mendapat barang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7212</td></tr><tr><td>Arabic No</td><td>7212</td></tr><tr><td>Reference</td><td>Book 93 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «С тремя не заговорит Аллах в День воскресения, не очистит их, и им (уготовано) мучительное наказание: человеку, имевшего излишки воды у дороги и отказавшего в ней путнику, человеку, который присягнёт (на верность) правителю(, руководствуясь) только мирскими (интересами), но сохраняет верность ему только в том случае, когда получает желаемое. Если же он не получает желаемого, то он не хранит верность ему. И человеку, который после послеполуденной молитвы договорился с (другим) человеком о продаже какого-либо товара, поклявшись Аллахом, что сам он взял его по такой-то цене, и (покупатель) верит ему и берёт у него товар, (хотя на самом деле) он не давал за него (такую цену)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7212</td></tr><tr><td>Arabic No</td><td>7212</td></tr><tr><td>Reference</td><td>Book 93 Hadith 72</td></tr></tbody></table></div>
 

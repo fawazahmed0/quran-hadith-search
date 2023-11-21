@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid from 'Abdullah bin 'Amr:The Prophet (ﷺ) said (to 'Abdullah), 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Mughirah] berkata, aku mendengar [Mujahid] dari ['Abdullah bin 'Umar radliallahu 'anhua] dari Nabi shallallahu 'alaihi wasallam berkata: "Puasalah dalam sebulan sebanyak tiga hari". Dia berkata: "Aku sanggup yang lebih banyak dari itu". Dia terus saja mengatakan kemampuanya itu hingga akhirnya Beliau berkata: "Kalau begitu berpuasalah sehari dan berbuka sehari". Beliau juga berkata, kepadanya: "Bacalah (khatam) Al Qur'an dalam sebulan". Dia berkata: "Aku sanggup yang lebih banyak dari itu". Dia terus saja mengatakan kemampuannya itu hingga akhirnya Beliau berkata: "Kalau begitu kamu khatamkan dalam tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1978</td></tr><tr><td>Arabic No</td><td>1978</td></tr><tr><td>Reference</td><td>Book 30 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Постись по три дня в месяц». Он (‘Абдуллах ибн ‘Амр) сказал: «Поистине, я способен на большее!» И так продолжалось до тех пор, пока он не сказал: «Постись через день!» Так же он сказал: «Прочитывай Коран полностью за месяц!» (‘Абдуллах ибн ‘Амр) сказал: «Поистине, я способен на большее!» (И так продалжалось), пока Пророк ﷺ не сказал: «Тогда за три дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1978</td></tr><tr><td>Arabic No</td><td>1978</td></tr><tr><td>Reference</td><td>Book 30 Hadith 85</td></tr></tbody></table></div>
 

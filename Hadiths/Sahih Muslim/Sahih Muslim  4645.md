@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas that the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas], bahwa gigi geraham Rasulullah shallallahu 'alaihi wasallam pecah ketika perang Uhud, dan kepala beliau juga terluka hingga mengalirkan darah, beliau lalu bersabda: "Bagaimana mungkin suatu kaum akan beruntung, sedangkan mereka melukai nabinya dan mematahkan gigi gerahamnya." Oleh karena itu beliau memohon kepada Allah untuk mengutuk mereka, lalu Allah Azza wa jalla menurunkan ayat: '(Kamu tidak memiliki wewenang apa-apa terhadap urusan mereka…) ' (Qs. Ali Imran:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4645</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 32 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4645</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 32 Hadith 127</td></tr></tbody></table></div>
 

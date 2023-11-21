@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mustaurid Qurashi reported:I heard Allah's Messenger (ﷺ) as saying: The Last H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi] telah menceritakan kepada kami [Abdullah bin Wahab] telah menceritakan kepadaku [Abu Syuraih] bahwa [Abdulkarim bin Al Harits] menceritakan padanya bahwa [Al Mustaurid Al Qurasy] berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Kiamat terjadi dan Romawi adalah manusia yang paling banyak." Kata-kata ini terdengar oleh Amru bin Al Ash, ia berkata: Ucapan-ucapan apa yang disebut darimu bahwa kau mengatakannya dari Rasulullah Shallallahu 'alaihi wa Salam? Al Mustaurid berkata padanya: Aku katakan yang aku dengar dari Rasulullah Shallallahu 'alaihi wa Salam. Amru berkata: Bila kau katakan demikian, mereka adalah orang-orang paling sabar saat terjadi fitnah, paling kuat saat terjadi musibah dan yang terbaik terhadap orang-orang miskin dan orang-orang lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7280</td></tr><tr><td>Arabic No</td><td>2898.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7280</td></tr><tr><td>Arabic No</td><td>2898.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 46</td></tr></tbody></table></div>
 

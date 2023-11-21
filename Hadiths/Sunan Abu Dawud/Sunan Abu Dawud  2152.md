@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said “I did not see anything more resembling to minor sins than w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Ibnu Tsaur] dari [Ma'mar], telah mengabarkan kepada kami [Ibnu Thawus] dari [ayahnya] dari [Ibnu Abbas], ia berkata; aku tidak melihat sesuatu yang lebih mirip dengan dosa-dosa kecil daripada apa yang dikatakan [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam: "Sesungguhnya Allah telah menetapkan bagian zina anak keturunan Adam yang pasti ia jumpai, zina kedua mata adalah melihat, zina lidah adalah mengucap, zina hati adalah berangan dan bernafsu, dan kemaluan akan membenarkan hal tersebut atau mendustakannya." Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Suhail bin Abu Shalih], dari [ayahnya], dari [Abu Hurairah], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Setiap anak keturunan Adam memiliki bagiannya dari zina…." Dengan kisah ini, beliau bersabda: "Kedua tangan berzina dan zinanya adalah menyentuh, kedua kaki berzina dan zinanya adalah berjalan, mulut berzina dan zinanya adalah mencium." Telah menceritakan kepada kami [Qutaibah bin Sa'id], Telah menceritakan kepada kami [Al Laits], dari [Ibnu 'Ajlan], dari [Al Qa'qa' bin Hakim] dari [Abu Shalih] dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam dengan kisah ini. Beliau mengatakan: "Dan zina telinganya adalah mendengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6243) Sahih Muslim (2657)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2152</td></tr><tr><td>Arabic No</td><td>2152</td></tr><tr><td>Reference</td><td>Book 12 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн ‘Аббас, да будет доволен Аллах им и его отцом: «Никогда не видел я ничего более похожего на небольшие прегрешения, нежели переданное Абу Хурайрой от Пророка ﷺ: “Поистине, Аллах предопределил сыну Адама его доля прелюбодеяния, и он непременно получит её. Прелюбодеяние глаз взгляд, а прелюбодеяние языка слова. Душа желает и стремится, а половые органы подтверждают или не подтверждают”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6243) Sahih Muslim (2657)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2152</td></tr><tr><td>Arabic No</td><td>2152</td></tr><tr><td>Reference</td><td>Book 12 Hadith 107</td></tr></tbody></table></div>
 

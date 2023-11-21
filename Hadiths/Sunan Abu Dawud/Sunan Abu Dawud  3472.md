@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yahya b. Sa'id said:Blight is not effective when less than one-third of goods ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Utsman bin Al Hakam] dari [Yahya bin Sa'id] bahwa ia berkata, "Tidak disebut jaihah jika musibah yang menimpa tanaman itu kurang dari dari sepertiga modal." Yahya berkata, "Ini adalah sesuatu yang biasa di antara orang-orang Muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3472</td></tr><tr><td>Arabic No</td><td>3472</td></tr><tr><td>Reference</td><td>Book 24 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Яхья ибн Са‘ид сказал: «Происшествие считается бедствием, только если в результате него пострадало не менее трети имущества, согласно обычаю мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3472</td></tr><tr><td>Arabic No</td><td>3472</td></tr><tr><td>Reference</td><td>Book 24 Hadith 57</td></tr></tbody></table></div>
 

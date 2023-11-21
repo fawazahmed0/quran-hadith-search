@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:The Prophet (ﷺ) came out to inform us about the N
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Humaid] telah menceritakan kepada kami [Anas] dari ['Ubadah bin Ash-Shamit] berkata; Nabi shallallahu 'alaihi wasallam keluar untuk memberitahukan kami tentang Lailatul Qadar. Tiba-tiba ada dua orang dari Kaum Muslimin yang membantah Beliau. Akhirnya Beliau berkata: "Aku datang untuk memberitahukan kalian tentang waktu terjadinya Lailatul Qadar namun fulan dan fulan menyanggah aku sehingga kepastian waktunya diangkat (menjadi tidak diketahui). Namun semoga kejadian ini menjadi kebaikan buat kalian, maka carilah pada malam yang kesembilan, ketujuh dan kelima (pada sepuluh malam akhir dari Ramadhan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2023</td></tr><tr><td>Arabic No</td><td>2023</td></tr><tr><td>Reference</td><td>Book 32 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ вышел (из дома), чтобы поведать нам о Ночи предопределения, но в это время двое мусульман вступили в спор друг с другом, и тогда он сказал: “Я вышел, чтобы поведать вам о (времени наступления) Ночи предопределения, но такой-то начал ссориться с таким-то, и (то, что я знал,) ушло (от меня). Возможно, это и лучше для вас, поэтому ищите её в девятую, седьмую и пятую (ночь)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2023</td></tr><tr><td>Arabic No</td><td>2023</td></tr><tr><td>Reference</td><td>Book 32 Hadith 10</td></tr></tbody></table></div>
 

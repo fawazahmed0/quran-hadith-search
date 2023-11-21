@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: When the Prophet (ﷺ) ordered a man and his wife t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid Asy Syu'airi], telah menceritakan kepada kami [Sufyan], dari ['Ashim bin Kulaib] dari [ayahnya] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam memerintahkan seorang laki-laki ketika beliau memerintahkan dua orang yang saling melaknat agar orang tersebut meletakkan tangannya pada mulutnya pada saat sumpah yang kelima. Beliau berkata: sesungguhnya sumpah tersebut mewajibkan laknat dan pemisahan antara mereka berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2255</td></tr><tr><td>Arabic No</td><td>2255</td></tr><tr><td>Reference</td><td>Book 13 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда супруги обменивались клятвами, Пророк ﷺ сказал одному мужчине, чтобы он прикрыл ладонью рот произносящего клятвы перед произнесением пятой клятвы, и добавил: «Она непременно сбудется!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2255</td></tr><tr><td>Arabic No</td><td>2255</td></tr><tr><td>Reference</td><td>Book 13 Hadith 81</td></tr></tbody></table></div>
 

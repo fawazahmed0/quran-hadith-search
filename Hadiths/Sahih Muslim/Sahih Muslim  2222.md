@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir ibn 'Abdullah:There passed a bier and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Suraij bin Yunus] dan [Ali bin Hujr] keduanya berkata, telah menceritakan kepada kami [Isma'il, yaitu anak Ulayyah] dari [Hisyam Ad Dastawa'i] dari [Yahya bin Abu Katsir] dari [Ubaidullah bin Miqsam] dari [Jabir bin Abdullah] ia berkata; Pernah ada jenazah lewat di hadapan kami, lalu Rasulullah shallallahu 'alaihi wasallam berdiri dan kami pun ikut berdiri. Kemudian kami berkata, "Wahai Rasulullah, sesungguhnya jenazah itu adalah seorang wanita Yahudi." Beliau bersabda: "Sesungguhnya kematian itu adalah Faza' (dahsyat), maka jika kalian melihat jenazah, maka berdirilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>960.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, сказал: «(Однажды, когда перед нами) проносили погребальные носилки, Посланник Аллаха ﷺ встал, и мы встали вместе с ним. (Потом мы стали) говорить (ему): “О Посланник Аллаха, это же (несли) иудейку!” (На это) он сказал: “Поистине, смерть ужасна, и поэтому вставайте, если увидите похоронную процессию”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>960.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 100</td></tr></tbody></table></div>
 

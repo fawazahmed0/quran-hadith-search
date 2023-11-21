@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Makhlad ibn Khufaf al-Ghifari: I and some people were partners in a sla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] dari [Sufyan] dari [Muhammad bin 'Abdurrahman] dari [Makhlad bin Khufaf Al Ghifari] ia berkata, "Aku pernah berserikat dengan seseorang dalam kepemilikan seorang budak, lalu aku memberi dia makan dan sebagian kami tidak ada di tempat, hingga budak tersebut memberiku manfaat. Kemudian orang tersebut mempermasalahkan bagianku kepada sebagian hakim, lalu hakim tersebut memerintahkan agar aku mengembalikan manfaat tersebut. Maka aku pun datang kepada 'Urwah bin Az Zubair dan menceritakan hal tersebut kepadanya. Kemudian ['Urwah] mendatangi hakim tersebut dan menceritakan kepadanya sebuah hadits dari [Aisyah] radliallahu 'anha dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Pemanfaatan barang itu berbalas penjaminan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3509</td></tr><tr><td>Arabic No</td><td>3509</td></tr><tr><td>Reference</td><td>Book 24 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Махляд ибн Хуфаф аль-Гифари, да будет доволен им Аллах, передаёт: «Мы с некоторыми людьми владели одним рабом, и я заработал на нём, отправив его работать, а в это время мой компаньон отсутствовал. Вернувшись, он стал требовать причитающуюся ему долю и обратился к одному судье. Тот велел мне отдать ему то, что ему причиталось. После этого я пришёл к ‘Урве ибн аз-Зубайру, и тот отправился к нему и пересказал ему со слов ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: “Выгода /харадж/ достаётся тому, кто возмещает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3509</td></tr><tr><td>Arabic No</td><td>3509</td></tr><tr><td>Reference</td><td>Book 24 Hadith 94</td></tr></tbody></table></div>
 

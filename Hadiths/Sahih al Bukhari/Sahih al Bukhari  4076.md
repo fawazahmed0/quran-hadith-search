@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Wrath gets severe on a person killed by a prophet, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Ali] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Ibnu Juraij] dari ['Amru bin Dinar] dari [Ikrimah] dari [Ibnu Abbas] dia berkata, "Allah sangat murka terhadap orang yang telah dibunuh Nabi, dan Allah sangat murka kepada seseorang yang membuat wajah Rasulullah Shallallahu 'alahi wasallam terluka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4076</td></tr><tr><td>Arabic No</td><td>4076</td></tr><tr><td>Reference</td><td>Book 64 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, сказал: «Силён гнев Аллаха на человека, которого убил пророк. И силён гнев Аллаха на людей, которые окровавили лицо Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4076</td></tr><tr><td>Arabic No</td><td>4076</td></tr><tr><td>Reference</td><td>Book 64 Hadith 121</td></tr></tbody></table></div>
 

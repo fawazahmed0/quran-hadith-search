@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported from Allah's Messenger (may peace be upom him) many ahadith
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami ['Abdul 'Aziz Ad Darawadri] dari [Al 'Ala] dari [bapaknya] dari [Abu Hurairah] bahwasanya Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Setiap anak itu dilahirkan dalam keadaan fitrah lalu kedua orang tuanyalah yang menjadikannya sebagai seorang yahudi, nasrani dan majusi (penyembah api). Apabila kedua orang tuanya muslim, maka anaknya pun akan menjadi muslim. Setiap bayi yang dilahirkan dipukul oleh syetan pada kedua pinggangnya, kecuali Maryam dan anaknya (Isa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6761</td></tr><tr><td>Arabic No</td><td>2658.07</td></tr><tr><td>Reference</td><td>Book 46 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6761</td></tr><tr><td>Arabic No</td><td>2658.07</td></tr><tr><td>Reference</td><td>Book 46 Hadith 39</td></tr></tbody></table></div>
 

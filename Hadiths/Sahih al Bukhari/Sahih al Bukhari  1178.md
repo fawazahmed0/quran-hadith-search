@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:My friend (the Prophet) advised me to do three things and I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah mengabarkan kepada kami [Syu'bah] telah menceritakan kepada kami ['Abbas Al Jurairiy] dia adalah anak dari Farrukh dari [Abu 'Utsman An-Nahdiy] dari [Abu Hurairah radliallahu 'anhu] berkata: "Kekasihku (Rasulullah shallallahu 'alaihi wasallam) telah berwasiat kepadaku dengan tiga perkara yang tidak akan pernah aku tinggalkan hingga aku meninggal dunia, yaitu shaum tiga hari pada setiap bulan, shalat Dhuha dan tidur dengan shalat witir terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1178</td></tr><tr><td>Arabic No</td><td>1178</td></tr><tr><td>Reference</td><td>Book 19 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Мой самый любимый друг посоветовал мне делать три вещи, от которых я не откажусь до самой своей смерти. (Он посоветовал мне) поститься по три дня ежемесячно, совершать дополнительную утреннюю /ад-духа/ молитву и ложиться спать (только) после совершения витра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1178</td></tr><tr><td>Arabic No</td><td>1178</td></tr><tr><td>Reference</td><td>Book 19 Hadith 56</td></tr></tbody></table></div>
 

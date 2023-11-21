@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: I did not offer behind anyone after the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Ibnu Rafi'] keduanya berkata; telah menceritakan kepada kami [Abdullah bin Ibrahim bin Umar bin Kaisan] telah menceritakan kepadaku [ayahku] dari [Wahb bin Manus] dia berkata; saya mendengar [Sa'id bin Jubair] berkata; saya mendengar [Anas bin Malik] berkata; saya tidak pernah shalat di belakang seorang pun setelah Rasulullah shallallahu 'alaihi wasallam yang shalatnya menyerupai shalat Rasulullah shallallahu 'alaihi wasallam selain pemuda ini -yaitu Umar bin Abdul Aziz- Anas mengatakan; 'Kami memperkirakan dalam ruku'nya beliau mengucapkan sepuluh kali tasbih." Abu Daud mengatakan; Ahmad bin Shalih mengatakan; kataku kepada Manus atau Mabus -perawi berkata; Abdurrazaq mengatakan "Mabus" sedangkan yang ku hafal adalah Manus, ini adalah lafadznya Ibnu Rafi'. Ahmad mengatakan; dari Sa'id bin Jubair dari Anas bin Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 2 Hadith 498</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Анас ибн Малик, да будет доволен им Аллах: «Молитва всех, под чьим руководством мне приходилось её совершать, не была похожа на молитву Посланника Аллаха ﷺ так, как похожа молитва этого юноши». Он имел в виду ‘Умара ибн ‘Абду-ль-‘Азиза. И, по нашим подсчётам, он говорил: «Пречист Аллах» по десять раз в поясном и земном поклоне
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 2 Hadith 498</td></tr></tbody></table></div>
 

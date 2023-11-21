@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rifa'ah ibn Rafi': I offered prayer behind the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Sa'id bin Abdul Jabbar] seperti sanad semisal. Qutaibah berkata; telah menceritakan kepada kami [Rifa'ah bin Yahya bin Abdullah bin Rifa'ah bin Rafi'] dari [paman ayahnya Mu'adz bin Rifa'ah bin Rafi'] dari [ayahnya] dia berkata; "Saya shalat di belakang Rasulullah shallallahu 'alaihi wasallam, lalu Rifa'ah bersin -namun Qutaibah tidak menyebutkan "Rifa'ah"- maka aku mengucapkan; "ALHAMDULILLAAHI HAMDAN KATSIRA THAYYIBAN MUBAARAKAN FIIHI MUBAARAKAN 'ALAIHI KAMAA YUHIBBU RABBUNA WAYARDLAA (Segala puji bagi Allah dengan pujian yang banyak, baik lagi penuh berkah, seperti yang di cintai dan di ridlai oleh Rabb kami)." Seusai shalat, Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa tadi yang mengucapkan (do'a) dalam shalat?" kemudian dia menyebutkan seperti hadits Malik dan yang lebih sempurna dari hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 2 Hadith 383</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Му‘аза ибн Рифа‘а ибн Рафи‘а, что его отец (да будет доволен им Аллах) сказал: «(Однажды) я совершал молитву позади Посланника Аллаха ﷺ и Рифа‘а чихнул».(В своей версии) Къутайба не сказал: «Рифа‘а».«И я сказал: “Хвала Аллаху, хвала многая, благая и благословенная, такая благословенная, какую любит наш Господь и которой Он доволен”». Когда Посланник Аллаха ﷺ завершил молитву, он спросил: “Кто разговаривал во время молитвы?”» Затем он привёл (хадис) похожий на хадис Малика, который является совершеннее этого
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 2 Hadith 383</td></tr></tbody></table></div>
 

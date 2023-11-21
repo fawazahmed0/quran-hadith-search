@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi' reported on the authority of Ibn Umar. He (ibn Umar) used to come (to Mina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi], telah menceritakan kepada Kami [Abdullah bin Umar] dari [Nafi'] dari [Ibnu Ibnu Umar] bahwa ia datang ke jumrah pada tiga hari setelah hari Nahr dengan berjalan kaki pulang pergi, dan ia mengabarkan bahwa Nabi shallallahu 'alaihi wasallam melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ передаёт, что Ибн ‘Умар приходил к месту бросания камешков после дня жертвоприношения в течение трёх дней. Он приходил и возвращался пешком и говорил, что Пророк ﷺ поступал так
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
 

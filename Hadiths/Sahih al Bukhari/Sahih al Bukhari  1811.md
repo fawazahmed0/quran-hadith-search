@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar:Allah's Messenger (ﷺ) slaughtered (the Hadi) before he had 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] telah menceritakan kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Urwah] dari [Al Miswar radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam menyembelih hewan qurban sebelum mencukur rambut lalu memerintahkan para sahabat Beliau melakukan hal yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Мисвара, да будет доволен им Аллах, что Посланник Аллаха ﷺ совершил жертвоприношение до того, как обрил (себе голову), повелев своим сподвижникам поступить так же
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
 

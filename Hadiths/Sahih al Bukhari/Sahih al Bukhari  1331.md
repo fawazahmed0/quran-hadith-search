@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Samura bin Jundab:I offered the funeral prayer behind the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Husain] telah menceritakan kepada kami ['Abdullah bin Buraidah] dari [Samurah bin Jundub radliallahu 'anhu] berkata; "Aku pernah di belakang Nabi Shallallahu'alaihiwasallam ikut menshalati jenazah wanita yang meninggal pada masa nifasnya. Beliau berdiri di tengah jenazah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Самура (ибн Джундуб,) да будет доволен им Аллах, сказал: «Однажды я совершал намаз позади Пророка ﷺ который совершал (заупокойный) намаз над женщиной, умершей во время родов, и он встал напротив середины её (тела)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1331</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
 

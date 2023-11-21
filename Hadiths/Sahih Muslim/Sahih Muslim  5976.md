@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Uqba Ibn 'Amir (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] dari [Yazid bin Abu Habib] dari [Abu Khair] dari [Uqbah bin 'Amir] bahwa Rasulullah shallallahu 'alaihi wasallam pernah keluar untuk mendo'akan para syuhada perang Uhud, sebagaimana do'a yang beliau baca untuk orang yang meninggal. Setelah itu beliau kembali menuju mimbar dan bersabda: "Sesungguhnya aku orang pertama yang akan tiba di telagaku untuk menyaksikan kalian. Demi Allah sekarang aku benar-benar telah melihat telagaku dan aku diberi kunci-kunci kekayaan bumi. Demi Allah, sungguh aku tidak khawatir kalau kalian akan menjadi musyrik sepeninggalku, tetapi yang aku khawatirkan adalah bahwa kalian akan berlomba-lomba dalam urusan duniawi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5976</td></tr><tr><td>Arabic No</td><td>2296.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5976</td></tr><tr><td>Arabic No</td><td>2296.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
 

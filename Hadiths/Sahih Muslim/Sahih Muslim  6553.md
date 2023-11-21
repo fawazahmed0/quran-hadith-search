@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thauban reported Allah's Apostle (ﷺ) as saying:Verily, when a Muslim visits hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi]; Telah menceritakan kepada kami [Yazid bin Zurai']; Telah menceritakan kepada kami [Khalid] dari [Abu Qilabah] dari [Abu Asma' Ar Rahabi] dari [Tsauban] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Seorang muslim bila dia menjeguk saudaranya, maka dia senantiasa berada dalam sebuah taman surga sampai dia pulang kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6553</td></tr><tr><td>Arabic No</td><td>2568.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Саубана, что Пророк ﷺ сказал: «Если мусульманин навестит своего (болеющего) брата (из числа) мусульман, то он будет пребывать среди райских плодов, пока не вернётся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6553</td></tr><tr><td>Arabic No</td><td>2568.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 51</td></tr></tbody></table></div>
 

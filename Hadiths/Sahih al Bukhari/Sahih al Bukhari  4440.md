@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I heard the Prophet (ﷺ) and listened to him before his death w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4440</td></tr><tr><td>Arabic No</td><td>4440</td></tr><tr><td>Reference</td><td>Book 64 Hadith 461</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Прислушиваясь к тому, что говорил перед смертью Пророк ﷺ, который прислонился ко мне спиной, я услышала, как он сказал: “О Аллах, прости меня, и помилуй меня, и присоедини меня к высшему обществу! /Аллахумма-гъфир ли ва-рхам-ни ва альхыкъ-ни би-р-рафики-ль-а‘ля!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4440</td></tr><tr><td>Arabic No</td><td>4440</td></tr><tr><td>Reference</td><td>Book 64 Hadith 461</td></tr></tbody></table></div>
 

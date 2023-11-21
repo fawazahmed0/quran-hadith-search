@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:When the people slept till so late that they did not offer t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibn Salam] Telah mengabarkan kepada kami [Husyaim] dari [Hushain] dari [Abdullah bin Abu Qatadah] dari [ayahnya], bahwa ketika para sahabat ketiduran dari waktu shalat, Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah menggenggam roh kalian sekehendak-Nya, dan Dia mengembalikannya sekehendak-Nya." Para sahabat kemudian menuntaskan kebutuhan mereka, dan berwudlu hingga matahari terbit dan putih, dan beliau kemudian berdiri dan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7471</td></tr><tr><td>Arabic No</td><td>7471</td></tr><tr><td>Reference</td><td>Book 97 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Катада передаёт от своего отца, что когда они проспали молитву, Пророк ﷺ сказал: «Поистине, Аллах забирает ваши души, когда пожелает, и возвращает их в тела, когда пожелает», — после чего они исправили свою нужду и совершили омовение, а когда солнце уже полностью поднялось над горизонтом и засияло ярко, он встал и совершил молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7471</td></tr><tr><td>Arabic No</td><td>7471</td></tr><tr><td>Reference</td><td>Book 97 Hadith 97</td></tr></tbody></table></div>
 

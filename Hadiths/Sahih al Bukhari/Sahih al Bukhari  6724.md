@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, 'Beware of suspicion, for it 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thawus] dari [ayahnya] dari [Abu Hurairah] mengatakan, Rasulullah Shallallahu'alaihiwasallam bersabda: "Jauhilah prasangka sebab prasangka adalah ucapan yang paling dusta, janganlah kalian mencari-cari kesalahan, janganlah kalian saling memata-matai, janganlah kalian saling marah, janganlah kalian saling membelakangi, dan jadilah hamba-hamba Allah yang bersaudara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6724</td></tr><tr><td>Arabic No</td><td>6724</td></tr><tr><td>Reference</td><td>Book 85 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Остерегайтесь предположений, ибо предположения — это самая лживая речь. Не разузнавайте и не выслеживайте (недостатки друг друга), не ненавидьте друг друга, не поворачивайтесь друг к другу спинами и будьте братьями, о рабы Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6724</td></tr><tr><td>Arabic No</td><td>6724</td></tr><tr><td>Reference</td><td>Book 85 Hadith 2</td></tr></tbody></table></div>
 

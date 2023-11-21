@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa on the authority of 'Aisha:On the days of Mina, (11th, 12th, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah], bahwa Abu Bakar? radliallahu 'anhu pernah masuk menemuinya pada hari-hari saat di Mina (Tasyriq). Saat itu ada dua budak yang sedang bermain rebana, sementara Nabi shallallahu 'alaihi wasallam menutupi wajahnya dengan kain. Kemudian Abu Bakar melarang dan menghardik kedua sahaya itu, maka Nabi shallallahu 'alaihi wasallam melepas kain yang menutupi wajahnya seraya bersabda: "Biarkanlah wahai Abu Bakar. Karena ini adalah Hari Raya 'Ied." Hari-hari itu adalah hari-hari Mina (Tasyriq)." 'Aisyah berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam menutupi aku dengan (badannya) sedangkan aku menyaksikan budak-budak Habasyah yang sedang bermain di dalam masjid. Tiba-tiba 'Umar menghentikan mereka, maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Biarkanlah mereka dengan jaminan Bani Arfidah, yaitu keamanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>988</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается также, что ‘Аиша сказала: «Пророк ﷺ прикрывал меня (от чужих глаз), когда я смотрела на эфиопов, игравших (копьями рядом с) мечетью, когда же ‘Умар принялся останавливать их, Пророк ﷺ сказал: “Оставь их, (ибо) сыны Арфида находятся под (моей) защитой!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>988</td></tr><tr><td>Reference</td><td>Book 13 Hadith 36</td></tr></tbody></table></div>
 

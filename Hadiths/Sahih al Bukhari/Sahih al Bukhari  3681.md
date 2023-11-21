@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hamza's father:Allah's Messenger (ﷺ) said, "While I was sleeping, I s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin ash-Shalti Abu Ja'far Al Kufiy] telah bercerita kepada kami [Ibnu Al Mubarak] dari [Yunus] dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Hamzah] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika tidur, aku bermimpi meminum (segelas) susu hingga aku dapat melihat aliran air dari kukuku (dengan bentul tunggal) atau kuku-kukuku (dengan bentuk jamak), kemudian aku berikan (sisanya kepada) 'Umar". Orang-orang bertanya; "Apa maknanya (susu tersebut)?. Beliau menjawab: "Ilmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3681</td></tr><tr><td>Arabic No</td><td>3681</td></tr><tr><td>Reference</td><td>Book 62 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хамза передал от своего отца, что Посланник Аллаха ﷺ сказал: “(Однажды) я увидел во сне, что мне поднесли кубок молока, которое я пил до тех пор, пока не заметил, что влага выходит у меня из-под ногтей, после чего отдал остаток ‘Умару“. Люди спросили: “Как же ты истолковал (этот сон), о Посланник Аллаха?“ — на что он ответил: “(Это —) знание“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3681</td></tr><tr><td>Arabic No</td><td>3681</td></tr><tr><td>Reference</td><td>Book 62 Hadith 31</td></tr></tbody></table></div>
 

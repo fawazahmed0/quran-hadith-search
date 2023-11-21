@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported:We used to buy foodgrains during 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Nafi'] dari [Ibnu Umar] dia berkata; Kami di zaman Rasulullah Shallallu 'alaihi wa sallam pernah membeli makanan, lantas beliau mengutus seseorang untuk memerintahkan kami agar pindah dari tempat jualan kami, menuju tempat lain sebelum kami memasarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3841</td></tr><tr><td>Arabic No</td><td>1527.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3841</td></tr><tr><td>Arabic No</td><td>1527.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:A girl was wearing silver ornaments. A Jew crushed her head with a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ibnu Idris] dari [Syu'bah] dari [Hisyam bin Zaid] dari kakeknya [Anas] ia berkata, "Seorang budak wanita memiliki perhiasan dari perak, lalu seorang Yahudi memukul kepalanya dengan batu hingga retak. Rasulullah shallallahu 'alaihi wasallam kemudian masuk menemui budak wanita itu di saat akhir dari hidupnya. Beliau bertanya: "Siapa yang membunuhmu, apakah si fulan yang melakukannya?" Dengan isyarat kepalanya ia menjawab, "Tidak." Beliau bertanya lagi: "Siapa yang membunuhmu, apakah si fulan yang melakukannya?" Dengan isyarat kepalanya ia menjawab, "Tidak." Beliau bertanya lagi: "Siapa yang membunuhmu, apakah si fulan yang melakukannya?" Dengan isyarat kepala ia menjawab, "Benar." Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan untuk menangkap pembunuh tersebut, maka pembunuh itu pun dibunuh dengan dihimpit (dibenturkan kepalanya) antara dua batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6877) Sahih Muslim (1672)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4529</td></tr><tr><td>Arabic No</td><td>4529</td></tr><tr><td>Reference</td><td>Book 41 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что какой-то иудей разбил камнем голову одной девочке, на которой были серебряные украшения. Посланник Аллаха ﷺ зашёл к ней, когда она ещё дышала, и спросил: «Кто убил тебя? Такой-то убил тебя?» Она сделала знак головой, что нет. Он спросил: «Кто же убил тебя? Такой-то убил тебя?» Она сделала знак головой, что нет. Он спросил: «Такой-то убил тебя?» Она сделала головой знак, что да. Тогда по велению Посланника Аллаха ﷺ (убийцу) казнили, (поместив его голову) между двух камней (и разбив её)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6877) Sahih Muslim (1672)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4529</td></tr><tr><td>Arabic No</td><td>4529</td></tr><tr><td>Reference</td><td>Book 41 Hadith 36</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported on the authority of his father ('Abdullah b. 'Umar) that the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim bin Abdullah bin Umar bin Al Khaththab] radliallahu 'anhu dari [bapaknya] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Muhallu (tempat memulai Ihram) bagi penduduk Madinah di Dzulhulaifah, Muhallu penduduk Syam dari Mahya'ah (Juhfah) dan Muhallu penduduk Najed adalah di Qarn." Abdullah bin Umar radliallahu 'anhuma berkata; Dan ada berita yang sampai kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam bersabda -namun saya sendiri tidak mendengarnya-: "Dan Muhillu penduduk Yaman adalah di Yalamlam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>1182.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>1182.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 16</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar: The Messenger of Allah (ﷺ) took a signet-ring of gold, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nushair bin Faraj] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam membuat cincin dari emas, beliau menghadapkan mata cincinnya ke arah telapak tangan, dan beliau memberi ukiran pada cincin itu dengan tulisan 'Muhammad Rasulullah'. Orang-orang lalu ikut membuat cincin dari emas, ketika beliau melihat mereka membuat cincin seperti itu, beliau membuang cincinnya seraya mengatakan: "Selamanya aku tidak akan memakainya lagi." Kemudian beliau membuat cincin dari perak dan memberi ukiran pada cincin tersebut 'Muhammad Rasulullah'. Cincin itu kemudian dipakai oleh Abu Bakar, kemudian Umar, kemudian Utsman hingga akhirnya cincin tersebut jatuh ke dalam sumur Aris." Abu Dawud berkata, "Orang-orang belum berselisih dengan Utsman hingga cincin itu jatuh dari tangannya (ke dalam sumur)." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ayyub bin Musa] dari [Nafi'] dari [Ibnu Umar] tentang hadits ini, dari Nabi shallallahu 'alaihi wasallam, "Beliau memberi ukiran 'Muhammad Rasulullah', dan beliau bersabda: "Janganlah seseorang membuat ukiran sebagaimana ukiran yang aku buat ini." kemudian ia menyebutkan hadits secara lengkap. Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Abu Ashim] dari [Al Mughirah bin Ziyad] dari [Nafi'] dari [Ibnu Umar] seperti hadits ini, dari Nabi shallallahu 'alaihi wasallam, ia menyebutkan, "Orang-orang lalu mencari cincin itu namun tidak ketemu. Maka Utsman pun membuat cincin lagi dan memberi ukiran 'Muhammad Rasulullah'." Ibnu Umar berkata, "Utsman lantas memberi setempel dengan cincin tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5866) Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4218</td></tr><tr><td>Arabic No</td><td>4218</td></tr><tr><td>Reference</td><td>Book 36 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланнику Аллаха ﷺ по его велению изготовили перстень-печать из золота, и он носил его широкой частью к ладони. На нём было выгравировано: «Мухаммад, Посланник Аллаха». После этого люди стали носить золотые перстни. Увидев это, (Посланник Аллаха ﷺ) выбросил свой перстень, сказав: «Я никогда больше его не надену!» После этого он стал носить серебряный перстень, на котором было выгравировано: «Мухаммад, Посланник Аллаха». После его кончины этот перстень носил Абу Бакр, после Абу Бакра его носил ‘Умар, а после него ‘Усман, пока однажды он не упал (с руки) ‘Усмана в колодец Арис. Абу Дауд сказал: «Смута в эпоху ‘Усмана началась только после того, как этот перстень упал с его руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5866) Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4218</td></tr><tr><td>Arabic No</td><td>4218</td></tr><tr><td>Reference</td><td>Book 36 Hadith 5</td></tr></tbody></table></div>
 

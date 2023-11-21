@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:A man praised another man in front of the Prophet. The Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] dari [Khalid] dari [Abdurrahman bin Abu Bakrah] dari [Ayahnya] dia berkata; "Ada seorang laki-laki yang menyanjung kebaikan laki-laki lain di depan Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Celaka kamu, kamu telah memenggal leher saudaramu." -Beliau mengatakannya hingga tiga kali- bila salah seorang dari kalian memuji temannya -tidak mustahil- hendaklah mengucapkan: 'Aku kira fulan seperti ini dan ini, dan Allah lah yang akan menilainya, dan aku tidak menyucikan seorang pun atas Allah walaupun Dia mengetahuinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6162</td></tr><tr><td>Arabic No</td><td>6162</td></tr><tr><td>Reference</td><td>Book 78 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра сказал: «(Как-то раз) один человек стал хвалить другого в присутствии Пророка ﷺ, и (Пророк ﷺ) воскликнул: “Горе тебе, ты перерезал горло своему брату!” (Он повторил эти слова) трижды, а потом сказал: “Пусть тот из вас, кому придётся хвалить, скажет: “Я считаю такого-то (таким-то, правду же о) нём знает (только Аллах), и я никого не восхваляю пред Аллахом, а (только) считаю его таким-то и таким-то”, если он (действительно) уверен (в том, что говорит о нём)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6162</td></tr><tr><td>Arabic No</td><td>6162</td></tr><tr><td>Reference</td><td>Book 78 Hadith 188</td></tr></tbody></table></div>
 

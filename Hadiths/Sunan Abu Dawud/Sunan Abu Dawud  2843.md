@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: When a boy was born to one of us in the pre-Isla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit], telah menceritakan kepada kami [Ali bin Al Husain], telah menceritakan kepadaku [ayahku] telah menceritakan kepada kami [Abdullah bin Buraidah], ia berkata; saya mendengar [ayahku yaitu Buraidah] berkata; dahulu kami pada masa jahiliyah apabila salah seorang diantara kami terlahirkan anak laki-lakinya maka ia menyembelih seekor kambing dan melumuri kepalanya dengan darahnya. Kemudian tatkala Allah datang membawa Islam maka kami menyembelih seekor kambing dan mencukur rambutnya serta melumurinya dengan za'faran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2843</td></tr><tr><td>Arabic No</td><td>2843</td></tr><tr><td>Reference</td><td>Book 16 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бурайды, да будет доволен им Аллах: «Во времена невежества, когда у одного из нас рождался сын, он резал овцу и окроплял голову мальчика её кровью. А когда Аллах даровал нам ислам, мы стали резать овцу, обривать младенцу голову и натирать её шафрановыми благовониями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2843</td></tr><tr><td>Arabic No</td><td>2843</td></tr><tr><td>Reference</td><td>Book 16 Hadith 56</td></tr></tbody></table></div>
 

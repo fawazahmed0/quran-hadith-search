@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:We were with the Prophet (on a journey) and the only shade one cou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Daud Abu ar-Robi'] dari [Isma'il bin Zakariya'] telah bercerita kepada kami ['Ashim] dari [Muwarriq Al 'Ijliy] dari [Anas radliallahu 'anhu] berkata: "Kami pernah bersama Nabi shallallahu 'alaihi wasallam, dimana kebanyakan dari kami berlindung dengan kainnya masing-masing (karena panas terik) ". Adapun orang yang tetap berpuasa mereka tidak melakukan apa-apa, dan yang berbuka mereka mengerahkan tunggangan mereka, bekerja keras dan mengurus (orang-orang yang berpuasa). Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Orang-orang yang berbuka pada hari ini telah bepergian dengan mendapatkan pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2890</td></tr><tr><td>Arabic No</td><td>2890</td></tr><tr><td>Reference</td><td>Book 56 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды, когда) мы с Пророком ﷺ были в пути, (люди) могли найти тень, только закрываясь от солнца собственной одеждой. Что касается постившихся, то они ничего не делали, что же касается тех, кто пост не соблюдал, то они присматривали за верблюдами, привозили (на них) воду и лечили (больных и раненых), и Пророк ﷺ сказал: “Сегодня непостившимся досталась (вся) награда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2890</td></tr><tr><td>Arabic No</td><td>2890</td></tr><tr><td>Reference</td><td>Book 56 Hadith 105</td></tr></tbody></table></div>
 

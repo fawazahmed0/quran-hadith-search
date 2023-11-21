@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) prostrated himself (while reci
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Abu Hubaib] dari [Shafwan bin Sulaim] dari [Abdurrahman Al A'raj] mantan budak Bani Makhzum dari [Abu Hurairah], dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah sujud pada surat IDZAS SAMAA'UN SYAQQAT dan IQRA' BISMI RABBIK (maksudnya pada ayat sajdah dalam kedua surat itu -pent). Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Ibn Wahb] telah mengabarkan kepadaku ['Amru bin Harits] dari ['Ubaidullah bin Abu Ja'far] dari [Abdurrahman Al A'raj] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1302</td></tr><tr><td>Arabic No</td><td>578.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ совершал земной поклон при чтении сур “Когда небеса расколются…” и “Читай! С именем Господа твоего…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1302</td></tr><tr><td>Arabic No</td><td>578.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 140</td></tr></tbody></table></div>
 

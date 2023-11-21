@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: When one of you asked a wom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdul Wahid bin Ziyad], telah menceritakan kepada kami [Muhammad bin Ishaq], dari [Daud bin Hushain], dari [Waqid bin Abdurrahman bin Sa'd bin Mu'adz] dari [Jabir bin Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian meminang seorang wanita, jika ia mampu untuk melihat sesuatu yang mendorongannya untuk menikahinya hendaknya ia melakukannya." Jabir berkata; kemudian aku meminang seorang gadis dan aku bersembunyi untuk melihatnya hingga aku melihat darinya apa yang mendorongku untuk menikahinya, lalu aku pun menikahinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2082</td></tr><tr><td>Arabic No</td><td>2082</td></tr><tr><td>Reference</td><td>Book 12 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Если один из вас сватается к женщине, то, если будет у него возможность посмотреть на то, что побудит его жениться на ней, пусть так и поступит». Он сказал: «И я посватался к одной девушке и смотрел на неё исподтишка и, увидев то, что побудило меня жениться на ней, женился на ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2082</td></tr><tr><td>Arabic No</td><td>2082</td></tr><tr><td>Reference</td><td>Book 12 Hadith 37</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid Al-Juhani:A bedouin went to the Prophet (ﷺ) and asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Abbas] telah menceritakan kepada kami ['Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Rabi'ah] telah menceritakan kepadaku [Yazid, maula Al Munba'its] dari [Zaid bin Khalid Al Juhaniy radliallahu 'anhu] berkata; "Datang seorang laki-laki Arab Baduy kepada Rasulullah shallallahu 'alaihi wasallam lalu bertanya kepada Beliau tentang barang yang ditemuinya. Maka Beliau bersabda: "Kamu umumkan selama satu tahun kemudian jagalah bungkus dan isinya. Jika datang seseorang yang mengabarkan kepadamu tentang barang itu maka berikanlah namun bila tidak maka belanjakanlah (manfaatkanlah) ". Orang itu bertanya lagi tentang hukum bila menemukan kambing. Maka Beliau menjawab: "Itu untuk kamu atau saudaramu atau serigala". Lalu orang itu bertanya lagi tentang menemukan unta. Maka wajah Nabi shallallahu 'alaihi wasallam berubah karena marah seraya berkata: "Bagaimana kamu ini, padahal unta itu selalu membawa sepatunya dan tempat airnya sehingga ia bisa hilir mudik mencari air dan makan rerumputan hingga pemiliknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2427</td></tr><tr><td>Arabic No</td><td>2427</td></tr><tr><td>Reference</td><td>Book 45 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Халид аль-Джухани, да будет доволен им Аллах, сказал: «Как-то раз один бедуин пришёл к Пророку ﷺ и спросил о (том, что следует делать с) найденным, и (Посланник Аллаха ﷺ) сказал: “Объявляй о находке (людям) в течение года, затем запомни, как выглядит то, в чём находилось найденное и то, чем было перевязано найденное. И если кто-нибудь придёт и правильно опишет эту находку, (то отдай ему её). Если же нет, то можешь пользоваться ею”. Он спросил: “О Посланник Аллаха, а (что делать с) заблудившимися овцами?” Пророк ﷺ ответил: “Либо они достанутся тебе, либо твоему брату, либо волку”. Этот человек спросил: “А что делать с заблудившимися верблюдами?” Тогда лицо Пророк ﷺ покраснело (от гнева), и он ответил: “Что тебе до них? Ведь у них есть копыта и вода. Они приходят к воде и объедают листья с деревьев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2427</td></tr><tr><td>Arabic No</td><td>2427</td></tr><tr><td>Reference</td><td>Book 45 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) and some of his companions got their heads 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad bin Asma'] telah menceritakan kepada kami [Juwairiyah bin Asma'] dari [Nafi'] bahwa ['Abdullah bin 'Umar radliallahu 'anhu] berkata; "Rasulullah shallallahu 'alaihi wasallam mencukur rambut (pada pelaksanaan haji Beliau) dan sebagian dari para sahabat Beliau dan diantara mereka ada juga yang hanya memendekkan rambutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1729</td></tr><tr><td>Arabic No</td><td>1729</td></tr><tr><td>Reference</td><td>Book 25 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, сказал: «Пророк ﷺ обрил себе голову, и так же поступили некоторые из его сподвижников, тогда как некоторые другие (только) укоротили себе волосы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1729</td></tr><tr><td>Arabic No</td><td>1729</td></tr><tr><td>Reference</td><td>Book 25 Hadith 207</td></tr></tbody></table></div>
 

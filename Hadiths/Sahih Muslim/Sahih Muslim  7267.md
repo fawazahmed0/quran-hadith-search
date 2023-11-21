@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zaid (viz. Amr b. Akhtab) reported:Allah's Messenger (ﷺ) led us in the daw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim Ad Dauraqi] dan [Hajjaj bin Asy Sya'ir] semuanya dari [Abu Ashim] berkata [Hajjaj]: telah menceritakan kepada kami [Abu Ashim] telah mengkhabarkan kepada kami [Azrah bin Tsabit] telah mengkhabarkan kepada kami [Ilba' bin Ahmar] telah menceritakan kepadaku [Abu Zaid Amru bin Akhthab] berkata: Rasulullah Shallallahu 'alaihi wa Salam shalat fajar bersama kami, beliau naik mimbar lalu berkhutbah hingga waktu zhuhur tiba, beliau turun lalu naik mimbar kemudian berkhutbah hingga tiba waktu ashar, beliau turun lalu shalat, setelah itu beliau naik mimbar kemudian berkhutbah hingga matahari terbenam, beliau memberitahukan apa yang telah terjadi dan apa yang akan terjadi. Yang paling tahu diantara kami adalah yang paling hafal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7267</td></tr><tr><td>Arabic No</td><td>2892</td></tr><tr><td>Reference</td><td>Book 54 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7267</td></tr><tr><td>Arabic No</td><td>2892</td></tr><tr><td>Reference</td><td>Book 54 Hadith 33</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: One night I became the guest of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad bin Sulaiman Al Anbari] secara makna, dia berkata; Telah menceritakan kepada kami [Waki'] dari [Mis'ar] dari [Abu Shakhrah Jami' bin Syaddad] dari [Al-Mughirah bin Abdullah] dari [Al-Mughirah bin Syu'bah] dia berkata; Pada suatu malam saya pernah bertamu kepada Nabi shallallahu 'alaihi wasallam, lalu beliau memerintahkan untuk diambilkan sepotong daging kambing besar, setelah disate, beliau mengambil sebilah pisau, lalu beliau memotong-motongnya untukku dengan pisau tersebut. Syu'bah berkata; Kemudian Bilal datang menyerukan adzan untuk shalat, lalu dilemparkanlah pisau tersebut, seraya bersabda: 'Alangkah beruntungnya dia, serius itu!" -Karena telah memanggil manusia untuk mengerjakan shalat-- Lalu beliau berdiri mengerjakan shalat. Al Anbari menambahkan; Ketika itu kumisku telah panjang, maka beliau memotongnya sampai seukuran siwak. Atau beliau bersabda: "Saya akan memotongnya untukmu hingga seukuran siwak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>188</td></tr><tr><td>Arabic No</td><td>188</td></tr><tr><td>Reference</td><td>Book 1 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира ибн Шу‘ба сказал: «Однажды ночью я гостил у Пророка ﷺ и он повелел зажарить половину барана. И когда его зажарили, он взял нож и начал отрезывать им для меня мясо».(аль-Мугъира ибн Шу‘ба) сказал: «А затем пришел Билял и позвал его на молитву».(Аль-Мугъира ибн Шу‘ба) сказал: «И он бросил нож и сказал: «Да что с ним, чтобы его руки покрылись пылью!», и он стал совершать молитву».В том риваяте этого хадиса переданного со слов аль-Анбари добавлено: «У меня были длинные усы и он подстриг их мне, по уровню сивака». Или он сказал: «Я подстригу их тебе по уровню сивака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>188</td></tr><tr><td>Arabic No</td><td>188</td></tr><tr><td>Reference</td><td>Book 1 Hadith 188</td></tr></tbody></table></div>
 

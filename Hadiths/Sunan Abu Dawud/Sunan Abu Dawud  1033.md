@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Ja'far: The Prophet (ﷺ) said: Anyone who is in doubt in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] telah mengabarkan kepadaku [Abdullah bin Musafi'] bahwa [Mush'ab bin Syaibah] telah mengabarkan kepadanya, dari ['Utbah bin Muhammad bin Al Harits] dari [Abdullah bin Ja'far] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa ragu-ragu dalam shalatnya, hendaknya ia sujud dua kali setelah salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1033</td></tr><tr><td>Arabic No</td><td>1033</td></tr><tr><td>Reference</td><td>Book 2 Hadith 644</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Джа‘фара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто сомневается в своей молитве, тому следует совершить два земных поклона после того, как он произнесёт слова таслима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1033</td></tr><tr><td>Arabic No</td><td>1033</td></tr><tr><td>Reference</td><td>Book 2 Hadith 644</td></tr></tbody></table></div>
 

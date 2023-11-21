@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Deux femmes de Hudhayl s'étant disp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku membacakan di hadapan [Malik]; dari [Ibnu Syihab] dari [Abu Salamah] dari [Abu Hurairah], bahwa ada dua wanita dari Hudzail berkelahi, yang satu melempar lawannya hingga menyebabkan janinnya gugur. Nabi shallallahu 'alaihi wasallam lalu memberi putusan dalam masalah tersebut dengan memerdekakan seorang budak yang mahal, baik budak laki-laki atau perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4389</td></tr><tr><td>Arabic No</td><td>1681.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4389</td></tr><tr><td>Arabic No</td><td>1681.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 48</td></tr></tbody></table></div>
 

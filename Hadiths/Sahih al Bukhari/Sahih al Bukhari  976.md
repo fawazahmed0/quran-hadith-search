@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':The Prophet (ﷺ) went towards Al-Baqi (the graveyard at Medin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Muhammad bin Thalhah] dari [Zubaid] dari [Asy Sya'bi] dari [Al Bara'] berkata, "Nabi shallallahu 'alaihi wasallam keluar pada hari Raya kurban menuju Baqi', beliau lalu melaksanakan shalat dua rakaat, setelahitu beliau menghadap ke arah kami dan bersabda: "Sesungguhnya yang pertama dari 'ibadah kita pada Hari Raya kita ini adalah memulai dengan melaksanakan shalat, kemudian kembali ke rumah dan menyembelih hewan kurban. Barangsiapa melaksanakan seperti itu berarti telah sesuai dengan sunnah kita. Dan barangsiapa menyembelih kurban sebelum shalat, maka itu hanyalah sesuatu yang dipersembahkan untuk keluarganya dan tidak ada sedikitpun termasuk dari ibadah kita ini." Lalu berdirilah seorang laki-laki dan berkata, "Wahai Rasulullah, aku telah menyembelih (sebelum shalat), namun aku masih memiliki anak kambing yang lebih baik dari kambing yang telah berumur dua tahun?" Beliau pun bersabda: "Sembelihlah. Namun ini tidak berlaku bagi seorang pun setelahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>976</td></tr><tr><td>Arabic No</td><td>976</td></tr><tr><td>Reference</td><td>Book 13 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара сказал: «Пророк ﷺ вышел в День жертвоприношения на “аль-Бакы‘”, совершил там молитву в два рака‘ата, затем повернулся к нам лицом и сказал: “Поистине, первое поклонение, с которым мы начинаем этот наш день — это совершение молитвы, а потом — возвращаемся и закалываем (жертвенных животных). Поступивший так, поступил в соответствии с нашей сунной. А если кто-то совершил жертвоприношение до молитвы, то это просто то, что он преподнес своей семье, и это совсем не жертвоприношение”. Тогда один человек встал и сказал: “О, Посланник Аллаха! Я зарезал животное, но у меня есть годовалая козочка, которая даже лучше, чем двухгодовалая коза”. (Посланник Аллаха ﷺ) сказал: “Зарежь её, однако это не будет действительным ни для кого после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>976</td></tr><tr><td>Arabic No</td><td>976</td></tr><tr><td>Reference</td><td>Book 13 Hadith 25</td></tr></tbody></table></div>
 

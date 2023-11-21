@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:Allah's Messenger (ﷺ) came to us and we were giving a bath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada saya ['Abdul Wahhab Ats-Tsaqafiy] dari [Ayyub] dari [Muhammad] dari [Ummu 'Athiyyah radliallahu 'anha] berkata: Rasulullah shallallahu 'alaihi wasallam menemui kami ketika kami akan memandikan puteri. Beliau lalu bersabda: "Mandikanlah dengan mengguyurkan air yang dicampur dengan daun bidara tiga kali, lima kali atau lebih dari itu jika kalian anggap perlu dan jadikanlah yang terakhirnya dengan kafur barus (wewangian). Dan bila kalian telah selesai beritahu aku". Ketika kami telah selesai kami memberi tahu Beliau. Maka kemudian Beliau memberikan kain Beliau kepada kami seraya berkata: "Pakaikanlah ini kepadanya". Berkata, [Ayyub] telah menceritakan kepada saya [Hafshah] seperti hadits Muhammad ini dimana pada hadits Hadshah berbunyi: "Mandikanlah dengan siraman air berjumlah ganjil". Pada hadits itu juga ada disebutkan: "Tiga, lima atau tujuh kali siraman". Dan juga didalamnya ada berbunyi: "Mulailah dengan anggota badan yang kanan dan badan anggota wudhu'". Pada hadits itu juga ada disebutkan bahwa Ummu 'Athiyyah berkata: "Kami menyisir rambut puteri Beliau dengan tiga kepang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 23 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа аль-Ансарийа, да будет доволен ею Аллах, сказала: «Когда умерла дочь Посланника Аллаха ﷺ он зашёл к нам и сказал: “Обмойте её трижды, или пять раз, или более того, если посчитаете нужным, отваром ююбы /сидр/, а (когда будете делать это) в последний раз, используйте камфару (или: немного камфары) и дайте мне знать, когда закончите”. Закончив (обмывать её тело), мы сообщили ему об этом, а он дал нам свой изар и сказал: “Заверните её в это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 23 Hadith 16</td></tr></tbody></table></div>
 

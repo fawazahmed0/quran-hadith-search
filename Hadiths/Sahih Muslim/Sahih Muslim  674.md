@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shihab al-Khaulani reported:I stayed in the house of 'A'isha and had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Jawwas al-Hanafi Abu Ashim] telah menceritakan kepada kami [Abu al-Ahwash] dari [Syabib bin Gharqadah] dari [Abdullah bin Syihab al-Khaulani] dia berkata, "Aku mengunjungi [Aisyah], lalu aku bermimpi dan mengeluarkan mani pada bajuku, lalu aku mencelupkannya pada air, saat budak Aisyah melihat tindakanku hingga ia pun mengabarkannya kepada Aisyah. Aisyah kemudian mengutusnya kembali untuk menemuiku seranya berkata, 'Apa yang mendorongmu untuk mencelupkan kedua bajumu? ' Abdullah berkata, "Aku lalu menjawab, 'Aku telah bermimpi basah sebagaimana orang yang tidur bermimpi.' Aisyah bertanya, 'Apakah kamu telah melihat sesuatu padanya? ' Aku menjawab, 'Tidak.' Aisyah berkata, 'Kalau kamu melihat sesuatu yang telah kamu cuci (mani), maka sungguh aku mengeriknya (mani) yangtelah kering dari baju Rasulullah shallallahu 'alaihi wasallam dengan kukuku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>674</td></tr><tr><td>Arabic No</td><td>290</td></tr><tr><td>Reference</td><td>Book 2 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Шихаб аль-Хауляни сказал: «(Однажды), когда я остановился у ‘Аиши, у меня случилась поллюция, и я опустил обе свои одежды в воду. Меня увидела рабыня ‘Аиши и рассказала ей об этом, а ‘Аиша послала за мной и спросила: “Что побудило тебя сделать это с твоими одеждами?” Я ответил: “Я увидел то, что (иногда) видит во сне спящий (мужчина)”. Она спросила: “Ты увидел что-то на (этих одеждах)?” Я ответил: “Нет”. Тогда она сказала: “А если бы ты увидел что-то, то стал бы стирать (одежду)? (Что же касается меня, то) мне случалось удалять ногтями засохшее семя с одежды Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>674</td></tr><tr><td>Arabic No</td><td>290</td></tr><tr><td>Reference</td><td>Book 2 Hadith 140</td></tr></tbody></table></div>
 

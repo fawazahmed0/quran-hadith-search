@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Sa'id al-Khudri: I shall always pay one sa'. We used to pay during 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hamid bin Yahya], telah mengabarkan kepada Kami [Sufyan]. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Yahya] dari [Ibnu 'Ajlan], ia mendengar ['Iyadh] berkata; saya mendengar [Abu Sa'id Al Khudri] berkata; aku tidak akan mengeluarkannya selamanya kecuali satu sha'. Sesungguhnya Kami dahulu mengeluarkan pada zaman Nabi shallallahu 'alaihi wasallam satu sha' kurma atau gandum atau keju atau kismis. Ini adalah hadits Yahya, Sufyan menambahkan; atau satu sha' dari gandum. Hamid berkata; kemudian mereka mengingkarinya, dan Sufyan meninggalakannya. Abu Daud berkata; tambahan ini adalah kesalahan dari Ibnu'Uyainah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1618</td></tr><tr><td>Arabic No</td><td>1618</td></tr><tr><td>Reference</td><td>Book 9 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аджляна о том, что он слышал, как Ияд сказал: «Я слышал, как Абу Са‘ид аль-Худри говорил: “Я никогда не буду выплачивать, кроме, как один са‘, так как при жизни Посланника Аллаха ﷺ мы выплачивали (закят аль-Фитр) одним са‘ фиников, или ячменя, или творога или изюма. Суфьян добавил: «…или са‘ муки».Абу Дауд сказал: «Это добавка является ошибкой Ибн ‘Уейны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1618</td></tr><tr><td>Arabic No</td><td>1618</td></tr><tr><td>Reference</td><td>Book 9 Hadith 63</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that Ibn Umar (Allah he pleased with them) walked swiftly from st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Kamil Al Jahdari] Telah menceritakan kepada kami [Sulaim bin Akhdlar] Telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Nafi'] bahwasanya; " [Ibnu Umar] berlari-lari kecil dari Hajar Aswad ke Hajar Aswad, dan ia menuturkan bahwa Rasulullah shallallahu 'alaihi wasallam telah berbuat demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3052</td></tr><tr><td>Arabic No</td><td>1262.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3052</td></tr><tr><td>Arabic No</td><td>1262.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 258</td></tr></tbody></table></div>
 

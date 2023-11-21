@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Muhammad bin Rafi'] kemduanya berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; hal ini sebagaimana yang pernah diceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, kemudian dia menyebutkan beberapa hadits yang di antaranya adalah, bahwa Abu Hurairah berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Negeri mana saja yang kalian taklukkan tanpa pertempuran, maka kalian mendapatkan bagian atas harta rampasannya, dan negeri mana saja yang kalian taklukan dengan peperangan, maka seperlima harta rampasanya untuk Allah dan Rasul-Nya, kemudian sisanya untuk kalian semua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4574</td></tr><tr><td>Arabic No</td><td>1756</td></tr><tr><td>Reference</td><td>Book 32 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4574</td></tr><tr><td>Arabic No</td><td>1756</td></tr><tr><td>Reference</td><td>Book 32 Hadith 55</td></tr></tbody></table></div>
 

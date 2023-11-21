@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When the Verse: 'It is those who believe and confuse not thei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Alqomah] dari [Abdullah] radliallahu 'anhu, mengatakan; 'Dikala diturunkan ayat; 'Sesungguhnya orang yang beriman dan tidak mencampur adukkan keimanan mereka dengan kezhaliman' (QS. Al an'am 82), para sahabat Nabi shallallahu 'alaihi wasallam merasa gusar, sehingga bertanya; 'Siapakah diantara kami yang tidak mencampur keimananya dengan kezjhaliman? ' Maka Rasulullah Shallallahu'alaihiwasallam menjawab; "Bukan itu yang dimaksudkan, tidakkah kalian mendengar ucapan Luqman; 'sesungguhnya kesyirikan adalah kezhaliman yang besar" (QS. Luqman)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6918</td></tr><tr><td>Arabic No</td><td>6918</td></tr><tr><td>Reference</td><td>Book 88 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда был ниспослан (аят, в котором сказано): “Те, которые уверовали и не облекли свою веру в несправедливость…” (Сура “аль-Ан’ам”, аят 82), сподвижникам Пророка ﷺ стало тяжело (по причине этих слов), и они сказали: “А кто же из нас не облекал свою веру в несправедливость?” Посланник Аллаха ﷺ ответил: “Это не то, о чём вы говорите. Разве вы не слышали слова Лукмана: “…ибо многобожие является великой несправедливостью” (Сура “Лукман”, аят 13)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6918</td></tr><tr><td>Arabic No</td><td>6918</td></tr><tr><td>Reference</td><td>Book 88 Hadith 1</td></tr></tbody></table></div>
 

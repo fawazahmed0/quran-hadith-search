@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Musa b. Anas reported on the authority of his father:It never happened that Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Ashim bin NAdhir At Taimi] Telah menceritakan kepada kami [Khalid] yaitu Ibnu Al Harits Telah menceritakan kepada kami [Humaid] dari [Musa bin Anas] dari [bapaknya] radliallahu 'anhu dia berkata; "Tidak pernah Rasulullah shallallahu 'alaihi wasallam dimintai sesuatu karena Islam, melainkan selalu dipenuhinya. Pada suatu hari datang kepada beliau seorang laki-laki, lalu diberinya seekor kambing di antara dua bukit. Kemudian orang itu pulang ke kampungnya dan berseru kepada kaumnya; "Hai, kaumku! Masuk Islamlah kalian semuanya! Sesungguhnya Muhammad telah memberiku suatu pemberian yang dia sendiri tidak takut miskin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6020</td></tr><tr><td>Arabic No</td><td>2312.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Кто бы и о чём бы ни просил Посланника Аллаха ﷺ ради ислама, он всегда давал ему это. Однажды к нему явился какой-то человек, и он велел дать ему так много овец, что казалось, будто они заполняют собой всё пространство между двумя горами. Затем этот человек вернулся к своим соплеменникам и сказал: “О люди, принимайте ислам, ибо, поистине, Мухаммад преподносит дары как тот, кто не боится бедности!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6020</td></tr><tr><td>Arabic No</td><td>2312.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 78</td></tr></tbody></table></div>
 

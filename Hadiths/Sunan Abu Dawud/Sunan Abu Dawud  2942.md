@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Alla b. Hisham, :who was a Companion, reported that his mother Zai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah], telah menceritakan kepada kami [Abdullah bin Yazid?], telah menceritakan kepada kami [Sa'id bin Abu Ayyub], telah menceritakan kepadaku [Abu 'Aqil Zahrah bin Ma'bad], dari [kakeknya yaitu Abdullah bin Hisyam], dan ia pernah bertemu dengan Nabi shallallahu 'alaihi wasallam, ibunya yaitu Zainab binti Humaid telah membawanya kepada Rasulullah shallallahu 'alaihi wasallam, kemudian berkata; wahai Rasulullah, bai'atlah dia! Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Ia masih kecil." Kemudian beliau mengusap kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7210)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2942</td></tr><tr><td>Arabic No</td><td>2942</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Хишам, да будет доволен им Аллах, который застал Пророка ﷺ передаёт, что он и его мать Зейнаб бинт Хумайд пришла вместе с ним к Посланнику Аллаха ﷺ и сказала: «О Посланник Аллаха, прими его присягу». Посланник Аллаха ﷺ сказал: «Он слишком мал», и погладил его по голове
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7210)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2942</td></tr><tr><td>Arabic No</td><td>2942</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
 

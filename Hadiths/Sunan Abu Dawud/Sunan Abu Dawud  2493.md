@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Haram reported the Prophet(ﷺ) as saying “He who becomes sick on a stormy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Bakkar Al 'Aisyi], telah menceritakan kepada kami [Marwan], telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Abdul Wahhab bin Abdurrahim Al Jaubari Ad Dimasyqi], secara makna, ia berkata; telah menceritakan kepada kami [Marwan], telah mengabarkan kepada kami [Hilal bin Maimun Ar Ramli], dari [Ya'la bin Syaddad], dari [Ummu Haram], dari Nabi shallallahu 'alaihi wasallam bahwa beliau berkata: "Orang yang mabuk di laut yang mengalami muntah, baginya pahala orang yang syahid, dan orang yang tenggelam baginya pahala dua orang syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2493</td></tr><tr><td>Arabic No</td><td>2493</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Харам, да будет доволен ею Аллах, о том, что Пророк ﷺ сказал: «Кого укачало на море и постигла рвота, тому награда шахида, а утонувшему награда двух шахидов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2493</td></tr><tr><td>Arabic No</td><td>2493</td></tr><tr><td>Reference</td><td>Book 15 Hadith 17</td></tr></tbody></table></div>
 

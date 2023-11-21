@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:'Umar said: I shall not appoint a successor, for the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Daud bin Sufyan] dan [Salamah], mereka berdua mengatakan; telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar], ia berkata; [Umar] berkata; sesungguhnya aku apabila tidak menunjuk seseorang menjadi khalifah, karena Rasulullah shallallahu 'alaihi wasallam tidak menunjuk khalifah. Dan apabila aku menunjuk seseorang sebagai khalifah maka sesunguhnya Abu Bakr telah menunjuk seseorang menjadi khalifah. Ia berkata; ia hanya menyebutkan Rasulullah shallallahu 'alaihi wasallam dan Abu Bakr, maka aku mengetahui bahwa tidak ada seorangpun yang sebanding dengan beliau sementara beliau tidak menunjuk seorang khalifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1823)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2939</td></tr><tr><td>Arabic No</td><td>2939</td></tr><tr><td>Reference</td><td>Book 20 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «‘Умар сказал: “Если я не назначу преемника, то ведь и Посланник Аллаха ﷺ не назначал преемника, а если я назначу преемника, то ведь Абу Бакр назначил своего преемника…”» Он сказал: «Клянусь Аллахом, когда он упомянул о посланнике Аллаха ﷺ и Абу Бакре, я понял, что он никого не приравняет к Посланнику Аллаха ﷺ и что он не станет назначать преемника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1823)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2939</td></tr><tr><td>Arabic No</td><td>2939</td></tr><tr><td>Reference</td><td>Book 20 Hadith 12</td></tr></tbody></table></div>
 

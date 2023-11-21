@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Belief is Yemenite while afflictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] dia berkata; Telah menceritakan kepadaku [Saudaraku] dari [Sulaiman] dari [Tsaur bin Zaid] dari [Abul Ghaits] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Keimanan ada di Yaman, sedangkan fitnah di sini dan di sini, tempat munculnya tanduk syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4389</td></tr><tr><td>Arabic No</td><td>4389</td></tr><tr><td>Reference</td><td>Book 64 Hadith 412</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Вера /иман/ — в Йемене, а смута /фитна/ там, откуда восходит рог шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4389</td></tr><tr><td>Arabic No</td><td>4389</td></tr><tr><td>Reference</td><td>Book 64 Hadith 412</td></tr></tbody></table></div>
 

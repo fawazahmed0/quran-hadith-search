@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jami' b. Shaddad reported:I heard Humran b. Aban narrate to Abu Burda in this ve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Muadz] telah menceritakan kepada kami [bapakku]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] semuanya berkata, telah menceritakan kepada kami [Syu'bah] dari [Jami' bin syaddad] dia berkata, "Saya mendengar [Humran bin Aban] menceritakan kepada Abu Burdah di masjid ini pada masa pemerintahan Bisyr, bahwa [Utsman bin Affan] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menyempurnakan wudlunya sebagaimana diperintahkan Allah kepadanya, lalu melakukan shalat fardlu, maka itu adalah penebus dosa antara keduanya'." Ini hadits Mu'adz, dan dalam hadits Ghundar tidak ada lafazh, "Pada masa pemerintahan Bisyr." Dan tidak pula menyebutkan, "Shalat fardlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>231.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Усмана, что Посланник Аллаха ﷺ сказал: «Если человек будет полностью совершать омовение, как велел ему Всевышний Аллах, то предписанные молитвы послужат искуплением (грехов, совершённых им) между этими молитвами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>231.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 14</td></tr></tbody></table></div>
 

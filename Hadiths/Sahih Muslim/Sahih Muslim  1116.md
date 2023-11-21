@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported:The Apostle of Allah (ﷺ) set up (sutra), and Abu Bakr said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Ibnu Numair] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] "Bahwa Nabi Shallallahu'alaihiwasallam dahulu menancapkan." Dan Abu Bakar berkata, "Beliau menancapkan tongkat lancip dan shalat menghadapnya." Dan Ibnu Abi Syaibah menambahkan, "Ubaidullah berkata, 'Tongkat tersebut adalah tombak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1116</td></tr><tr><td>Arabic No</td><td>501.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 278</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что (обычно) Пророк ﷺ втыкал в землю копьё, в сторону которого обращался во время молитвы.Глава: Молитва перед верблюдицей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1116</td></tr><tr><td>Arabic No</td><td>501.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 278</td></tr></tbody></table></div>
 

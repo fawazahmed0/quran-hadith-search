@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:When Allah's Messenger (ﷺ) fought the battle of K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Wahid] dari ['Ashim] dari [Abu 'Utsman] dari [Abu Musa Al Asy'ari radliallahu 'anhu] ia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam perang melawan (penduduk) Khaibar, -atau dia berkata- Ketika Rasulullah shallallahu 'alaihi wasallam melihat orang-orang menuruni lembah sambil meninggikan suara dengan bertakbir, Allahu Akbar, Allahu Akbar laa ilaaha illallah (Allah Maha Besar, Allah Maha Besar, tidak ada ilah yang berhak disembah selain Allah), maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Rendahkanlah, karena kalian tidak menyeru kepada Dzat yang tuli dan Dzat yang ghaib. Sesungguhnya kalian menyeru Dzat yang Maha Mendengar lagi Maha Dekat dan Dia selalu bersama kalian". Saat itu aku berada di belakang hewan tunggangan Rasulullah shallallahu 'alaihi wasallam dan beliau mendengar apa yang aku ucapkan. Saat itu aku membaca; "laa hawla wa laa quwwata illa billah (Tidak ada daya dan upaya melainkan dari Allah) ", maka beliau berkata kepadaku: "Wahai Abdullah bin Qais". Aku jawab; "Aku penuhi panggilanmu wahai Rasulullah." Beliau melanjutkan: "Maukah aku tunjukkan kepadamu satu kalimat yang termasuk perbendaharaan surga?". Aku jawab; "Tentu wahai Rasulullah, demi bapak ibuku sebagai tebusan tuan." Beliau bersabda: "laa hawla wa laa quwwata illa billah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4205</td></tr><tr><td>Arabic No</td><td>4205</td></tr><tr><td>Reference</td><td>Book 64 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: Когда Посланник Аллаха ﷺ двинулся (или: отправился) в поход на Хайбар, и люди приблизились к (какому-то) вади, они громко закричали: «Аллах велик, Аллах велик! Нет истинного бога, кроме Аллаха!» — а Посланник Аллаха ﷺ сказал: «Пожалейте себя, ведь, поистине, вы взываете не к глухому и не к отсутствующему, взываете вы к Слышащему, Близкому, и Он находится с вами!» Я же находился позади верблюдицы Посланника Аллаха ﷺ, который, услышав, как я повторяю: «Нет мощи и силы ни у кого, кроме Аллаха /Ля хауля ва ля куввата илля би-Ллях/», обратился ко мне: «О ‘Абдуллах ибн Кайс!» Я отозвался: «Вот я перед тобой, о Посланник Аллаха!» Он сказал: «Не указать ли тебе на такие слова, которые относятся к числу сокровищ Рая?» Я сказал: «Конечно, о Посланник Аллаха, да станут отец мой и мать выкупом за тебя!» — и он сказал: «(Говори): “Нет мощи и силы ни у кого, кроме Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4205</td></tr><tr><td>Arabic No</td><td>4205</td></tr><tr><td>Reference</td><td>Book 64 Hadith 245</td></tr></tbody></table></div>
 

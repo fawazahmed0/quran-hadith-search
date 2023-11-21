@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said: (I saw in a dream tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Ali], telah menceritakan kepada kami [Mu'tamir bin Sulaiman] telah menceritakan kepada kami ['Ubaidullah bin Umar] dari [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku masuk surga, tak tahunya aku berada di sebuah istana emas. Maka aku bertanya; 'Milik siapakah ini? ' Mereka menjawab; 'Milik seseorang dari Quraisy, ' dan tiada yang menghalangiku untuk memasukinya Hai Ibnul Khattab selain karena aku tahu kecemburuanmu." Maka Umar menjawab; 'apakah terhadapmu aku cemburu ya Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7024</td></tr><tr><td>Arabic No</td><td>7024</td></tr><tr><td>Reference</td><td>Book 91 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах передаёт, что Посланник Аллаха ﷺ сказал: «Я вошёл в Рай и вдруг оказался рядом с дворцом из золота. И сказал я: “Чей он?” Мне ответили: “Одного человека из курайшитов”. И мне, о Ибн аль-Хаттаб, помешало войти в него только то, что я знаю о твоей ревности», и (‘Умар) сказал: «К тебе ли я могу ревновать, о Посланник Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7024</td></tr><tr><td>Arabic No</td><td>7024</td></tr><tr><td>Reference</td><td>Book 91 Hadith 41</td></tr></tbody></table></div>
 

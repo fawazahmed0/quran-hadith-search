@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abu'l-Qais reported:I asked 'A'isha about the Witr (prayer) of the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin SA"id] telah menceritakan kepada kami [Laits] dari [Muawiyah bin Shalih] dari [Abdullah bin Abi Qais] dia berkata, "Saya bertanya kepada [Aisyah] tentang witir Rasulullah Shallallahu'alaihiwasallam. Lalu dia menyebutkan suatu hadits. Aku bertanya, 'Bagaimana (yang harus) dia perbuat ketika dalam keadaan junub, apakah dia harus mandi sebelum tidur atau tidur tanpa mandi? ' Aisyah menjawab, 'Sungguh semuanya telah dilakukan beliau, boleh jadi dia mandi lalu tidur, boleh jadi dia berwudhu lalu tidur.' Aku berkata, 'Segala puji bagi Allah yang menciptakan dalam perkara tersebut suatu keleluasaan'." Dan telah menceritakannya kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman bin Mahdi] --lewat jalur periwayatan lain-- dan telah menceritakannya kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] semuanya dari [Muawiyah bin Shalih] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>307.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби Кайс сказал: «Я задал ‘Аише вопрос о том, как Посланник Аллаха ﷺ совершал молитву витр, а потом спросил: “Что он делал, когда находился в состоянии большого осквернения? Совершал ли он полное омовение перед сном, или сначала спал, а потом совершал омовение?” Она ответила: “Он поступал и так, и так. Иногда он совершал большое омовение /гусль/, а потом засыпал, иногда же совершал малое омовение /вуду’/, а потом засыпал” (Услышав её слова), я воскликнул: “Хвала Аллаху, Который предоставил (нам) в этом (свободу выбора)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>307.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
 

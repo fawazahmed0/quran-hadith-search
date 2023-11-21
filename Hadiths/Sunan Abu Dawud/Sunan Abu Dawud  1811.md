@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) heard a man say: Labbayk (always 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ishaq bin Isma'il Ath Thalaqani] serta [Hannad bin As Sari] dengan satu makna, [Ishaq] berkata; telah menceritakan kepada Kami ['Abdah bin Sulaiman] dari [Ibnu Abu 'Arubah] dari [Qatadah] dari ['Azrah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa Nabi shalla Allahu 'alaihi wa sallam mendengar seseorang mengucapkan; LABBAIKA 'AN SYUBRUMAH (ya Allah, aku memenuhi seruanmu untuk Syubrumah), beliau bertanya: "Siapakah Syubrumah tersebut?" Dia menjawab; saudaraku! Atau kerabatku! Beliau bertanya: "Apakah engkau telah melaksanakan haji untuk dirimu sendiri?" Dia menjawab; belum! Beliau berkata: "Laksanakan haji untuk dirimu, kemudian berhajilah untuk Syubrumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 11 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ услышал, как какой-то человек говорил: «Вот я перед Тобой, совершаю хадж за Шубруму». Он спросил: «Кто такой Шубрума?» Человек ответил: «Мой брат [или: мой родственник]». Тогда Пророк ﷺ спросил: «А совершал ли ты хадж за самого себя?» Он ответил: «Нет». Тогда Пророк ﷺ сказал ему: «Сначала соверши хадж за себя, а потом уже за Шубруму»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 11 Hadith 91</td></tr></tbody></table></div>
 

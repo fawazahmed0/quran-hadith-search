@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once the Prophet (ﷺ) entered the mosque, a man came in, o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah mengabarkan kepadaku [Yahya bin Sa'id] dari ['Ubaidullah] berkata, telah menceritakan kepada kami [Sa'id Al Maqburi] dari [Bapaknya] dari [Abu Hurairah], bahwa Nabi shallallahu 'alaihi wasallam masuk ke dalam Masjid, lalu ada seorang laki-laki masuk ke dalam Masjid dan shalat, kemudian orang itu datang dan memberi salam kepada Nabi shallallahu 'alaihi wasallam. Lalu Nabi shallallahu 'alaihi wasallam menjawab salamnya kemudian bersabda: "Kembali dan ulangilah shalatmu, karena kamu belum shalat!" Orang itu kemudian mengulangi shalat dan kembali datang menghadap kepada Nabi shallallahu 'alaihi wasallam sambil memberi salam. Namun beliau kembali bersabda: "Kembali dan ulangilah shalatmu karena kamu belum shalat!" Beliau memerintahkan orang ini sampai tiga kali dan akhirnya, sehingga ia berkata, "Demi Dzat yang mengutus tuan dengan kebenaran, aku tidak bisa melakukan yang lebih baik dari itu. Maka ajarilah aku." Beliau pun bersabda: "Jika kamu mengerjakan shalat maka bertakbirlah, lalu bacalah ayat yang mudah dari Al Qur'an. Kemudian rukuklah hingga benar-benar rukuk dengan tenang, lalu bangkitlah (dari rukuk) hingga kamu berdiri tegak, setelah itu sujudlah sampai benar-benar sujud, lalu angkat (kepalamu) untuk duduk hingga benar-benar duduk, Setelah itu sujudlah sampai benar-benar sujud, Kemudian lakukanlah seperti cara tersebut di seluruh shalat (rakaat) mu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что однажды, когда Пророк ﷺ вошёл в мечеть, туда же вошёл один человек, который совершил молитву, а потом подошел и обратился с приветствием к Пророку ﷺ. Ответив на его приветствие, Пророк ﷺ сказал: «Вернись и соверши молитву (заново), ибо, поистине, ты не помолился!» Он совершил молитву так же, как и прежде, а потом опять подошёл к Пророку ﷺ и поприветствовал его, и Посланник Аллаха ﷺ сказал ему: «Вернись и соверши молитву (заново), ибо, поистине, ты не помолился!», — и это повторилось трижды. Тогда этот человек сказал: «Клянусь Тем, Кто послал тебя с истиной, я не умею совершать её иначе, научи же меня!» (Пророк ﷺ) сказал: «Когда встанешь на молитву, скажи: “Аллаху Акбар”, потом прочти, что сможешь, из Корана, потом соверши поясной поклон, пока не замрёшь в таком положении, потом поднимись, пока не выпрямишься полностью, потом соверши земной поклон, пока не замрёшь в таком положении, потом выпрямись сидя и поступай так же в течении всей молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 188</td></tr></tbody></table></div>
 

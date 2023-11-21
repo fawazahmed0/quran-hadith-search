@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengkhabarkan kepada kami [Ibnu Wahab] telah mengkhabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengkhabarkan kepadaku [Ibnu Al Musayyib] bahwa [Abu Hurairah] diberi khabar Rasulullah Shallallahu 'alaihi wa Salam, beliau bersabda. Telah menceritakan kepadaku [Abdulmalik bin Syu'aib bin Al Laits] telah menceritakan kepada kami [ayahku] dari [kakekku] telah menceritakan kepadaku [Uqail bin Khalid] dari [Ibnu Syihab] bekata: Berkata [Ibnu Al Musayyib]: telah mengkhabarkan kepadaku [Abu Hurairah] bahwa Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidak akan terjadi hari kiamat hingga keluar sebuah api dari bumi Hijaz yang menerangi leher seekor onta yang berada di Bushro." (kota di Syam, pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7289</td></tr><tr><td>Arabic No</td><td>2902</td></tr><tr><td>Reference</td><td>Book 54 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7289</td></tr><tr><td>Arabic No</td><td>2902</td></tr><tr><td>Reference</td><td>Book 54 Hadith 55</td></tr></tbody></table></div>
 

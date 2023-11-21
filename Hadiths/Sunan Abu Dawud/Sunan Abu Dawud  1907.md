@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said then the Prophet (ﷺ) said “I sacrificed here and the whole of Min
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Yahya bin Sa'id], telah menceritakan kepada Kami [ja'far], telah menceritakan kepada Kami [ayahku], dari [Jabir], ia berkata; kemudian Nabi bersabda: "Aku telah menyembelih di sini, dan Mina seluruhnya adalah tempat menyembelih." Kemudian beliau berwukuf di Arafah dan mengatakan: "Aku telah berwukuf di sini, dan Arafah seluruhnya adalah tempat untuk wukuf." Dan beliau berwukuf di Muzdalifah serta mengatakan: "Aku telah berwukuf di sini, dan Muzdalifah seluruhnya adalah empat berwukuf." Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Hafsh bin Ghiyats] dari [Ja'far] dengan sanadnya dan ia menambahkan kata: "Sembelihlah di tempat-tempat tinggal kalian!" Telah menceritakan kepada Kami [Ya'qub bin Ibrahim], telah menceritakan kepada Kami [Yahya bin Sa'id Al Qaththan], dari [Ja'far], telah menceritakan kepadaku [ayahku], dari [Jabir] …. kemudian ia menyebutkan hadits ini. Dan ia menyebutkan dalam hadits secara bertahap pada firmanNya: "Dan jadikanlah sebahagian maqam Ibrahim tempat shalat." Kemudian beliau membaca pada dua raka'at tersebut Surat Al Ikhlash dan Al Kaafiruun. Dalam hadits tersebut Ja'far mengatakan; Ali radliallahu 'anhu di Kufah berkata; …….. ayahku mengatakan; kata ini tidak disebutkan Jabir, kemudian aku pergi untuk memprovokasi ….. Dan ia menyebutkan kisah Fathimah radliallahu 'anha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1218)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>1907</td></tr><tr><td>Reference</td><td>Book 11 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Я зарезал жертвенный скот вот здесь, однако вся Мина является местом жертвоприношения». Когда он стоял на ‘Арафате, он сказал: «Я встал вот здесь, однако весь ‘Арафат является местом стояния». А стоя в Муздалифе он сказал: «Я встал вот здесь, однако вся Муздалифа является местом стояния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1218)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>1907</td></tr><tr><td>Reference</td><td>Book 11 Hadith 187</td></tr></tbody></table></div>
 

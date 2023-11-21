@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported that a woman from Juhaina came to Allah's Apostle (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadakuu [Abu Ghassan Malik bin Abdul Wahid Al Misma'i] telah menceritakan kepada kami [Mu'adz] -yaitu Ibnu Hisyam- telah menceritakan kepadaku [ayahku] dari [Yahya bin Abu Katsir] telah menceritakan kepadaku [Abu Qilabah] bahwa [Abu Al Muhallab] telah menceritakan kepadanya dari ['Imran bin Hushain], bahwa seorang wanita dari Juhainah datang menghadap kepada Nabi shallallahu 'alaihi wasallam, padahal dia sedang hamil akibat melakukan zina. Wanita itu berkata, "Wahai Rasulullah, aku telah melanggar hukum, oleh karena itu tegakkanlah hukuman itu atasku." Lalu Nabi Allah memanggil wali perempuan itu dan bersabda kepadanya: "Rawatlah wanita ini sebaik-baiknya, apabila dia telah melahirkan, bawalah dia ke hadapanku." Lalu walinya melakukan pesan tersebut. setelah itu Nabi shallallahu 'alaihi wasallam memerintahkan untuk merajam wanita tersebut, maka pakaian wanita tersebut dirapikan (agar auratnya tidak terbuka saat dirajam). Kemudian beliau perintahkan agar ia dirajam. Setelah dirajam, beliau menshalatkan jenazahnya, namun hal itu menjadkan Umar bertanya kepada beliau, "Wahai Nabi Allah, perlukah dia dishalatkan? Bukankah dia telah berzina?" beliau menjawab: "Sunnguh, dia telah bertaubat kalau sekiranya taubatnya dibagi-bagikan kepada tujuh puluh orang penduduk Madinah, pasti taubatnya akan mencukupi mereka semua. Adakah taubat yang lebih utama daripada menyerahkan nyawa kepada Allah Ta'ala secara ikhlas?" Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Aban Aal 'Athar] telah menceritakan kepada kami [Yahya bin Abu Katsir] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4433</td></tr><tr><td>Arabic No</td><td>1696.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4433</td></tr><tr><td>Arabic No</td><td>1696.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 36</td></tr></tbody></table></div>
 

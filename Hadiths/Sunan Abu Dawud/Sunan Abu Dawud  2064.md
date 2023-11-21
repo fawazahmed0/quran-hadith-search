@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hajjaj ibn Malik al-Aslami: I asked: Messenger of Allah, what will remo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Abu Mu'awiyah], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibnu Al 'Ala'], telah menceritakan kepada kami [Ibnu Idris] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Hajjaj] dari [ayahnya], ia berkata; aku katakan; wahai Rasulullah, apakah yang dapat menghilangkan hak persusuan? Beliau berkata: "Seorang budak laki-laki atau seorang budak wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2064</td></tr><tr><td>Arabic No</td><td>2064</td></tr><tr><td>Reference</td><td>Book 12 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хаджжаджа: «Я спросил: “О Посланник Аллаха, как мне отблагодарить кормилицу и соблюсти её права?” Он ответил: “Подари ей раба или рабыню”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2064</td></tr><tr><td>Arabic No</td><td>2064</td></tr><tr><td>Reference</td><td>Book 12 Hadith 19</td></tr></tbody></table></div>
 

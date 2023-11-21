@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Fadl b. 'Abbas: I spent a night with the Prophet (ﷺ) to see how he pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Zuhair bin Muhammad] dari [Syarik bin Abdullah bin Abu Namir] dari [Kuraib] dari [Al Fadl bin Abbas] dia berkata; "Aku pernah bermalam di sisi Nabi shallallahu 'alaihi wasallam untuk melihat bagaimana cara beliau shalat (malam). Maka (aku melihat) beliau bangun lalu berwudlu' dan shalat dua raka'at. (lama) beliau berdiri sama seperti ruku' dan sujudnya. Setelah itu beliau tidur, kemudian beliau bangun lagi, lalu berwudlu dan bersiwak, kemudian beliau mengucapkan lima ayat dari surat Ali Imran, yaitu; "Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang…" (QS Ali Imran; 190), beliau selalu mengerjakan perbuatan ini, sehingga beliau mengerjakan shalat sepuluh raka'at, kemudian beliau bangun dan mengerjakan shalat satu raka'at sebagai witirnya. Setelah seorang Muadzin menyerukan adzan, maka Rasulullah shallallahu 'alaihi wasallam akan mengerjakan shalat dua raka'at yang ringan, kemudian beliau duduk hingga tiba shalat subuh." Abu Daud berkata; "Aku tidak jelas sebagian (riwayat) dari Ibnu Basyar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1355</td></tr><tr><td>Arabic No</td><td>1355</td></tr><tr><td>Reference</td><td>Book 5 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал аль-Фадль ибн ‘Аббас, да будет доволен Аллах им и его отцом: «Однажды я остался на ночь в доме Пророка ﷺ и смотрел, как он совершает (ночную) молитву. Он встал, совершил малое омовение и совершил молитву в два рак‘ата, причём стоял он столько же времени, сколько проводил в поясном поклоне, а в поясном поклоне он проводил столько же времени, сколько и в земном поклоне. Потом он лёг спать, а через некоторое время проснулся, совершил омовение и почистил зубы сиваком, а потом прочитал пять аятов из суры “аль-‘Имран”: “Поистине, в сотворении небес и земли и смене ночи и дня…” И он делал это, пока не совершил десять рак‘атов, а затем он поднялся и совершил один рак‘ат, сделав общее число совершённых рак‘атов нечётным. Как раз в это время муаззин призвал (на утреннюю молитву), и Посланник Аллаха ﷺ поднялся после завершения призыва и совершил два лёгких рак‘ата, а потом сидел вплоть до совершения обязательной утренней молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1355</td></tr><tr><td>Arabic No</td><td>1355</td></tr><tr><td>Reference</td><td>Book 5 Hadith 106</td></tr></tbody></table></div>
 

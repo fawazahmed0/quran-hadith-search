@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "Anyone who dies worshipping ot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Syaqiq] dari ['Abdullah radliallahu 'anhu] berkata; Telah bersabda Rasulullah shallallahu 'alaihi wasallam: "Barangsiapa yang mati dengan menyekutukan Allah dengan sesuatu maka dia pasti masuk neraka". Dan aku ('Abdullah) berkata, dariku sendiri: "Dan barangsiapa yang mati tidak menyekutukan Allah dengan suatu apapun maka dia pasti masuk surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>1238</td></tr><tr><td>Reference</td><td>Book 23 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Войдёт в огонь тот, кто умер, поклонявшись чему бы то ни было наряду с Аллахом”, а я сказал: “Войдёт в рай тот, кто умер, ничему не поклонявшись наряду с Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>1238</td></tr><tr><td>Reference</td><td>Book 23 Hadith 2</td></tr></tbody></table></div>
 

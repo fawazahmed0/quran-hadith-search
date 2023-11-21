@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah], ia berkata; sungguh aku pernah berjalan bersama [Abdullah bin Mas'ud] di Mina, tiba-tiba ia bertemu dengan Utsman, kemudian ia mengajaknya menyendiri. Kemudian tatkala Abdullah melihat bahwa ia tidak memiliki keperluan dengannya ia berkata kepadaku; kemarilah wahai 'Alqamah! Kemudian aku datang. Kemudian Utsman berkata kepadanya; maukah kami menikahkanmu wahai Abu Abdurrahman dengan seorang gadis, agar kembali kepadamu semangat dan keperkasaanmu seperti dahulu? Kemudian Abdullah berkata; jika engkau mengatakan demikian sungguh aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa di antara kalian yang memiliki kemampuan maka hendaknya ia menikah, karena hal tersebut lebih dapat menundukkan pandangannya dan lebih menjaga kemaluannya, dan barangsiapa di antara kalian yang belum mampu maka hendaknya ia berpuasa, karena puasa adalah kendali baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1905) Sahih Muslim (1400)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Arabic No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 12 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Алькамы: «Однажды, когда я шёл по Мине вместе с ‘Абдуллахом ибн Мас‘удом, ему повстречался ‘Усман, который остановился, чтобы поговорить с ним наедине. Увидев, что нужды (жениться) у него нет, он сказал: “Иди сюда, о ‘Алькама”. (Оказалось, что) ‘Усман сказал ему: “О Абу ‘Абду-р-Рахман, не женить ли нам тебя на девушке-девственнице? Может, она напомнит тебе о прошлом”. ‘Абдуллах сказал: “Если уж ты говоришь это, то знай, что я слышал, как Посланник Аллаха ﷺ сказал: “Пусть женятся те из вас, кто способен содержать семью, ибо брак больше всего способствует потуплению взоров и сохранению целомудрия. Тому же, кто не сможет содержать семью, следует соблюдать пост, ибо для него это будет подобно оскоплению””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1905) Sahih Muslim (1400)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Arabic No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 12 Hadith 1</td></tr></tbody></table></div>
 

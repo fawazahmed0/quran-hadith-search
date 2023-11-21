@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Malik:In the year of Hajjat-ul-Wada' the Prophet (ﷺ) visited
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kami [Ibrahim] dari [Az Zuhri] dari ['Amir bin Sa'ad bin Malik] dari [bapaknya] berkata; "Nabi shallallahu 'alaihi wasallam menjengukku pada waktu hajji wada' ketika aku sakit yang tidak menyebabkan kematian. Aku berkata; "Wahai Rasulullah, aku rasakan sakitku semakin parah. Begaimana pendapat anda, aku memiliki banyak harta namun aku tidak memiliki orang yang akan mewarisinya kecuali satu anak perempuanku. Apakah aku boleh mensedekahkan dua pertiga hartaku?". Beliau menjawab: "Tidak". Dia berkata; "Apakah boleh aku bersedekah seperduanya?". Beliau menjawab: "Sepertiga, wahai Sa'ad. Dan sepertiga itu sudah banyak. Sesungguhnya bila kamu meninggalkan keturunanmu dalam keadaan berkecukupan itu lebih baik daripada kamu meninggalkan mereka dalam keadaan miskin, lalu mereka mengemis meminta-minta kepada manusia. Dan tidaklah kamu menafkahkan suatu nafaqah (harta) semata-mata mencari wajah (ridla) Allah melainkan Allah pasti akan memberimu balasannya, sekalipun satu suap makanan yang kamu berikan pada mulut istrimu." Aku bertanya; "Wahai Rasulullah, apakah aku diberi umur panjang setelah shahabat-shahabatku?. Beliau bersabda: "Tidaklah sekali-kali engkau diberi umur panjang lalu kamu beramal shalih melainkan akan bertambah derajat dan kemuliaanmu. Dan semoga kamu diberi umur panjang sehingga orang-orang dapat mengambil manfaat dari dirimu dan juga mungkin dapat mendatangkan madlorot bagi kaum yang lain. Ya Allah sempurnakanlah pahala hijrah shahabat-shahabatku dan janganlah Engkau kembalikan mereka ke belakang." Namun Sa'ad bin Khaulah membuat Rasulullah shallallahu 'alaihi wasallam bersedih karena dia meningal di Makkah. [Ahmad bin Yunus] dan [Musa] berkata dari [Ibrahim] dengan redaksi; "…Kamu meninggalkan warisanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3936</td></tr><tr><td>Arabic No</td><td>3936</td></tr><tr><td>Reference</td><td>Book 63 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас, да будет доволен им Аллах, сказал: «В год прощального паломничества я так тяжело заболел, что был уже близок к смерти, и Пророк ﷺ навестил меня. Я сказал: “О Посланник Аллаха! Ты видишь до чего меня довела болезнь! Я богат, а наследников, кроме дочери, у меня нет, так не раздать ли мне две трети своих денег (бедным)?” Он сказал: “Нет”. Я спросил: “А половину?” Он сказал: “Нет”, а потом добавил: “Треть, о Са‘д, но и трети будет много, ведь тебе лучше оставить своих наследников богатыми, чем лишёнными средств и (вынужденными) просить у людей! И, поистине, ты обязательно получишь награду за всё то, что потратишь ради лика Аллаха, и даже за кусок еды, который ты положишь в рот своей жене”. Тогда я спросил: “О Посланник Аллаха, оставят ли меня здесь после (того, как уедут) мои товарищи?” Он сказал: “Тебя ни в коем случае не оставят, и какое бы праведное дело ты ни совершил, оно непременно возвысит тебя. Кроме того, возможно, что ты проживёшь ещё долго, чтобы благодаря тебе одни люди получили пользу, а другим был нанесён вред. О Аллах, заверши переселение для моих сподвижников и не вынуждай их отступать! О бедный Са‘д ибн Хауля!” — и Посланник Аллаха ﷺ стал выражать сожаление в связи с тем, что этот человек умер в Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3936</td></tr><tr><td>Arabic No</td><td>3936</td></tr><tr><td>Reference</td><td>Book 63 Hadith 161</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:Allah's Messenger (ﷺ) narrated to us two narrations, one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] telah menceritakan kepada kami [Al A'masy] dari [Zaid bin Wahab] telah menceritakan kepada kami [Khudzaifah] mengatakan, telah menceritakan kepada kami Rasulullah shallallahu 'alaihi wasallam dua kejadian, satunya betul-betul telah kulihat, dan satunya masih kutunggu-kutunggu, beliau menceritakan kepada kami; "Diawal mula amanat diturunkan dalam relung hati para hamba, kemudian mereka tahu alquran dan tahu sunnah, " Dan beliau menceritakan kepada kami tentang diangkatnya amanah, beliau bersabda: "seseorang tidur nyenyak dan amanat dicerabut dari hatinya sehingga bekasnya bagaikan bekas perjalanan, lantas ia tidur nyenyak dan amanat dicerabut kembali dan bekasnya bagaikan kutu di tangan, seperti bara api yang digelindingkan di kakimu sehingga nampak memar (beram-beram) dan kau lihat nampak memar (beram-beram) padahal sebenarnya tidak mengapa, kontan manusia berbondong-bondong berbaiat, dan nyaris tak seorangpun menunaikan amanat. Selanjutnya ada berita; 'Di Bani Fulan bin Fulan ada laki-laki terpercaya'. Dan di katakan kepada Laki-laki tadi; 'Alangkah bijaknya dia, alangkah cerdasnya dia, alangkah pemberaninya dia, ' padahal sama sekali tak ada setitik iman pun dalam hatinya." Telah berlalu suatu masa bagiku yang aku tidak peduli siapa diantara kalian yang berbaiat, sebab jikalau ia muslim, kemuslimannya menuntunnya kepadaku, dan jikalau ia nashrani, pemungut pajaknya akan menuntunnya kepadaku, adapun hari ini, aku tidak membai'at selain si 'fulan' dan fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6497</td></tr><tr><td>Arabic No</td><td>6497</td></tr><tr><td>Reference</td><td>Book 81 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузейфа, да будет доволен им Аллах, сказал:\n— Посланник Аллаха ﷺ сообщил нам о двух вещах, одну из которых я видел потом (своими глазами), а теперь ожидаю и второй. Он сообщил нам о том, что доверенное /аманат/ был ниспослан в самую основу сердец людей, а потом они узнали об этом из Корана и узнали из Сунны. А потом он сообщил нам о том, как будет удалён это доверенное, сказав: «Заснёт человек ненадолго, и будет взят это доверенное из сердца его, после чего останется от него только лёгкий след. Потом снова заснёт он на короткое время, и будет взят это доверенное из сердца (его полностью), после чего останется от него только след вроде волдыря. Это подобно тому, как если бы ты уронил на ногу раскалённый уголёк и увидел, что то место, на которое он упал, вздулось, но внутри него ничего нет. А потом люди станут заключать друг с другом сделки, но никто из них не будет даже и собираться возвращать доверенное! (И дело дойдёт до того, что) будут даже говорить: “Есть среди людей такого-то племени надёжный человек!” И о человеке будут говорить: “Не найти более стойкого, более тонкого и более разумного, чем он!” — несмотря на то, что в сердце его не будет веры и на вес горчичного зерна!»\n(Хузейфа, да будет доволен им Аллах, сказал): «И я дожил до такого времени, когда мне не надо было задумываться о том, с кем вести торговые дела, ибо если человек был мусульманином, то (доверенное) обязательно возвращала мне его религия, если же он был христианином или иудеем, то обязательно возвращал мне это его правитель, а сегодня не могу я заключить сделку ни с кем, кроме такого-то и такого-то!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6497</td></tr><tr><td>Arabic No</td><td>6497</td></tr><tr><td>Reference</td><td>Book 81 Hadith 86</td></tr></tbody></table></div>
 

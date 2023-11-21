@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(as regards the Verse):--'You shall surely travel from stage
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Sa'id bin An Nadlr] Telah mengabarkan kepada kami [Husyaim] Telah mengabarkan kepada kami [Abu Bisyr Ja'far bin Iyas] dari [Mujahid] ia berkata; [Ibnu Abbas] berkata terkat dengan firman Allah: "LATARKABUNNA THABAQAN 'AN THABAQ." Maksudnya adalah proses demi proses. Katanya, dan itulah Nabi kalian shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 65 Hadith 461</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что об аяте, в котором сказано: «…обязательно будете переходить вы из одного состояния в другое», Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «О том, что здесь речь идёт о переходе из одного состояния в другое, сказал ваш Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 65 Hadith 461</td></tr></tbody></table></div>
 

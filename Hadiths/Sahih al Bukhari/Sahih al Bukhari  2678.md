@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Talha bin 'Ubaidullah:A man came to Allah's Messenger (ﷺ) asking him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepadaku [Malik] dari [pamannya, Abu Suhail bin Malik] dari [bapaknya] bahwa dia mendengar [Thalhah bin 'Ubaidullah] berkata; Ada seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam lalu dia bertanya tentang Islam, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Lima kali shalat dalam sehari semalam". Lalu orang itu berkata: "Apakah untukku ada lagi selain itu?" Beliau bersabda: "Tidak ada, kecuali jika kamu mau mengerjakan yang tathowwu' (sunnat) ". 'Ubaidullah berkata: "Kemudian Rasulullah shallallahu 'alaihi wasallam menyebutkan kepada orang itu tentang zakat, lalu orang itu bertanya lagi: "Apakah untukku ada lagi selain itu?" Beliau bersabda: "Tidak ada, kecuali jika kamu mau mengerjakan yang tathowwu' (sunnat) ". Kemudian orang itu pergi sambil berkata: "Demi Allah aku tidak akan menambah atau mengurangi dari ini semua". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Dia akan beruntung bila jujur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2678</td></tr><tr><td>Arabic No</td><td>2678</td></tr><tr><td>Reference</td><td>Book 52 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тальха ибн ‘Убайдуллах сказал: «Однажды к Посланнику Аллаха ﷺ явился какой-то человек и спросил его об исламе. Посланник Аллаха ﷺ сказал: “(Ты должен совершать) пять молитв в течение дня и ночи”. (Человек) спросил: “А должен ли я молиться сверх этого?” (Пророк ﷺ) сказал: “Нет, если только сам ты не пожелаешь (совершить дополнительные молитвы)”. (Затем) Посланник Аллаха ﷺ сказал: “(Ты должен соблюдать) пост в течение рамадана”. (Человек) спросил: “А должен ли я поститься сверх этого?” (Пророк ﷺ) сказал: “Нет, если только сам ты не пожелаешь (поститься дополнительно)”. Затем Посланник Аллаха ﷺ сказал ему (о необходимости) выплаты закята. (Этот человек) спросил: “А должен ли я (выплачивать что-нибудь) сверх этого?” (Пророк ﷺ) сказал: “Нет, если только сам ты не пожелаешь этого”. После этого тот человек повернулся (и стал уходить) со словами: “Клянусь Аллахом, я ничего не добавлю к этому и ничего не стану убавлять!” — а Посланник Аллаха ﷺ воскликнул: “Он преуспеет, если говорит искренне!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2678</td></tr><tr><td>Arabic No</td><td>2678</td></tr><tr><td>Reference</td><td>Book 52 Hadith 39</td></tr></tbody></table></div>
 

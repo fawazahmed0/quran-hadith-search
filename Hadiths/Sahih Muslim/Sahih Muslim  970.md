@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:When we said prayer with the Messenger of Allah (ﷺ), 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dia berkata, telah menceritakan kepada kami [Waki'] dari [Mis'ar] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Kuraib] dan lafazh tersebut miliknya. Dia berkata, telah mengabarkan kepada kami [Ibnu Abi Zaidah] dari [Mis'ar] telah menceritakan kepadaku [Ubaidullah bin al-Qibthiyyah] dari [Jabir bin Samurah] dia berkata, "Dahulu kami apabila shalat bersama Rasulullah Shallallahu'alaihiwasallam, maka kami mengucapkan, 'Assalamu'alaikum Warahmatullahi (Semoga keselamatan dan rahmat Allah terlimpahkan kepadamu) ' dan dia mengisyaratkan dengan tangannya ke arah dua sisi.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda, 'Berdasarkan apa kami beriman dengan tangan-tangan kalian, seakan-akan ia adalah ekor kuda yang tidak bisa berhenti. Cukuplah bagi kalian untuk meletakkan tangan kalian pada paha kalian, kemudian mengucapkan salam atas saudaranya yang di sebelah kanannya dan sebelah kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>970</td></tr><tr><td>Arabic No</td><td>431.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «Совершая молитвы вместе с Посланником Аллаха ﷺ, мы обычно говорили: “Мир вам и милость Аллаха /Ас-саляму ‘алейкум ва рахмату-Ллах/, мир вам и милость Аллаха”, и (каждый из нас поднимал) руку, (поворачиваясь в разные) стороны, (однако через некоторое время) Посланник Аллаха ﷺ спросил: “Зачем вы делаете эти знаки руками подобно хвостам, (что задирают) норовистые лошади? Каждому из вас будет достаточно только возложить руку себе на бедро и (сначала) поприветствовать своего брата, который находится справа от него, а (потом того, который находится) слева”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>970</td></tr><tr><td>Arabic No</td><td>431.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 132</td></tr></tbody></table></div>
 

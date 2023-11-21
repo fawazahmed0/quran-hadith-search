@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] dan [Ibnu Al Mutsanna] keduanya berkata; telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Syu'bah] dari [Al Hasan bin 'Imran] dia berkata; Ibnu Basyar As Syami berkata; Abu Daud Abu Abdullah Al 'Asqalani berkata dari [Ibnu Abdurrahman bin Abza] dari [ayahnya] bahwa dia shalat bersama Rasulullah shallallahu 'alaihi wasallam, dan beliau tidak menyempurnakan takbir. ' Abu Daud mengatakan; maknanya; 'Apabila mengangkat kepalanya dari ruku' (I'tidal) dan hendak sujud, maka beliau tidak bertakbir, begitu juga ketika bangkit dari sujud, beliau tidak bertakbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 2 Hadith 447</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абд-ар-Рахмана ибн Абза, да будет доволен им Аллах, что он совершал молитву вместе с Посланником Аллаха ﷺ и не доводил до конца такбиры.Абу Дауд сказал, что имеется в виду, что, поднявшись из поясного поклона и собираясь совершить земной поклон, Посланник Аллаха ﷺ не произносил такбир и, поднимаясь из земного поклона, он также не произносил такбир
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 2 Hadith 447</td></tr></tbody></table></div>
 

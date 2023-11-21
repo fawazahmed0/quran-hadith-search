@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Some people were sick and they said, "O Allah's Messenger (ﷺ)! G
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Sallam bin Miskin] telah menceritakan kepada kami [Tsabit] dari [Anas] bahwa beberapa orang sedang menderita sakit, lalu mereka berkata; "Wahai Rasulullah, berilah kami tempat untuk menginap dan jamulah kami, ketika keadaan mereka mulai membaik, mereka berkata; "Sesungguhnya kota Madinah tidak cocok untuk kami, " lantas beliau menyuruh mereka supaya pergi ke padang tempat gembalaan unta-unta milik beliau, lalu beliau bersabda: "Setelah itu minumlah susunya." Ketika mereka semuanya sehat, ternyata mereka membunuh penggembala Nabi shallallahu 'alaihi wasallam dan merampok sejumlah unta beliau, maka beliau memerintahkan untuk mengejar mereka. Kemudian beliau memotong tangan-tangan mereka dan kaki-kaki mereka serta mencongkel mata mereka, dan aku melihat salah seorang dari mereka menjulurkan lidahnya ke tanah sampai akhirnya mati terkapar." Sallam berkata; telah sampai kepadaku bahwa Al Hajjaj pernah berkata kepada Anas; "Ceritakanlah kepadaku tentang hukuman yang paling sadis yang pernah di lakukan oleh Nabi shallallahu 'alaihi wasallam, lalu Anas menceritakan hadits di atas, ternyata hal itu sampai kepada Al Hasan, maka dia berkata; "Aku menyangka bahwa Anas belum pernah menyampaikan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5685</td></tr><tr><td>Arabic No</td><td>5685</td></tr><tr><td>Reference</td><td>Book 76 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что некие люди заболели и сказали: «О Посланник Аллаха, приюти нас и накорми». Выздровев, они сказали: «Климат Медины не подходит нам». Тогда он поселил их в место где паслись его верблюды, и сказал: «Пейте их молоко». Но выздровев, они убили пастуха Пророка ﷺ и угнали его верблюдов, и Пророк ﷺ отправил за ними погоню. (Когда их привели к Пророку ﷺ по его велению) им отрубили руки и ноги и выжгли глаза. И я видел, как один из них лизал землю (от жажды), пока не умер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5685</td></tr><tr><td>Arabic No</td><td>5685</td></tr><tr><td>Reference</td><td>Book 76 Hadith 8</td></tr></tbody></table></div>
 

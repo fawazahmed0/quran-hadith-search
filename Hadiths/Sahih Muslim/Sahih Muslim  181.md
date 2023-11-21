@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Mas'ûd 'Uqba Ibn 'Amr (que Dieu l'agrée) a dit : Le Prophète (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Idris] semuanya dari [Ismail bin Abu Khalid]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Mu'tamir] dari [Ismail] dia berkata, saya mendengar [Qais] meriwayatkan dari [Abu Mas'ud] dia berkata, "Nabi shallallahu 'alaihi wasallam memberi isyarat dengan tangan ke arah Yaman, seraya bersabda: "Ingatlah, sesungguhnya iman ada di sini (Yaman), sedangkan kekerasan dan kekakuan hati ada pada penggembala yang bersuara keras di dekat pangkal ekor unta ketika muncul sepasang tanduk setan pada Bani Rabi'ah dan Bani Mudlar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>181</td></tr><tr><td>Arabic No</td><td>51</td></tr><tr><td>Reference</td><td>Book 1 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд сказал: «(Однажды) Пророк ﷺ указал рукой в сторону Йемена и сказал: “Вера находится там, что же касается чёрствости и жестокосердия, то (эти качества) присущи бедуинам, занятым своими верблюдами”, (которые находятся) там, откуда появляются два края головы шайтана(, а именно в племенах) раби‘а и мудар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>181</td></tr><tr><td>Arabic No</td><td>51</td></tr><tr><td>Reference</td><td>Book 1 Hadith 88</td></tr></tbody></table></div>
 

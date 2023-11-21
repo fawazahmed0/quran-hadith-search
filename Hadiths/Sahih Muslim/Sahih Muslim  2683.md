@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported the Messenger of Allah (ﷺ) as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Hafsh] dan [Abu Mu'awiyah] dari [Al A'masy] -dalam riwayat lain- Telah menceritakan kepada kami [Yahya bin Yahya] -lafazh juga miliknya- telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang dari kalian berpuasa pada hari Jum'at kecuali sehari sebelum atau sesudahnya ia berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>1144.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>1144.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 189</td></tr></tbody></table></div>
 

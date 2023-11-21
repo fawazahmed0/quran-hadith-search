@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar said this is your al-Baida’ about which you ascribe falsehood to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi], dari [Malik] dari [Musa bin 'Uqbah] dari [Salim bin Abdullah] dari [ayahnya], ia berkata; Baida' kalian ini adalah Baida' yang padanya kalian mendustakan Rasulullah shallAllahu wa'alaihi wa sallam. Tidaklah Rasulullah shallAllahu wa'alaihi wa sallam bertalbiyah kecuali dari Masjid, yaitu Masjid Dzul Hulaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1541) Sahih Muslim (1186)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1771</td></tr><tr><td>Arabic No</td><td>1771</td></tr><tr><td>Reference</td><td>Book 11 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим ибн ‘Абдуллах передаёт от своего отца, сказав: «Вы говорите неправду, утверждая, что Посланник Аллаха ﷺ [объявил о намерении приступить к паломничеству] в этой вашей Байде. Посланник Аллаха ﷺ объявил о намерении совершить паломничество не иначе как у мечети». Он имел в виду мечеть Зуль-Хулейфы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1541) Sahih Muslim (1186)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1771</td></tr><tr><td>Arabic No</td><td>1771</td></tr><tr><td>Reference</td><td>Book 11 Hadith 51</td></tr></tbody></table></div>
 

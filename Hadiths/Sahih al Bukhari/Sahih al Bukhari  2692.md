@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Kulthum bint 'Uqba:That she heard Allah's Messenger (ﷺ) saying, "H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'aziz bin 'Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] bahwa [Humaid bin 'Abdurrahman] mengabarkan kepadanya bahwa [ibunya, Ummu Kultsum binti 'Uqbah] mengabarkan kepadanya bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukanlah disebut pendusta orang yang menyelesaikan perselisihan diantara manusia lalu dia menyampaikan hal hal yang baik (dari satu pihak yang bertikai) atau dia berkata, hal hal yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2692</td></tr><tr><td>Arabic No</td><td>2692</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба о том, что Хумайд ибн ‘Абду-р-Рахман сообщил ему, что Умм Кульсум бинт ‘Укъба бинт (Абу Му‘айт), да будет доволен ею Аллах, рассказывала ему: «Я слышала, как Посланник Аллаха ﷺ сказал: “Не является лжецом тот, кто (старается) примирять людей (между собой), сообщая (или: говоря) им нечто благое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2692</td></tr><tr><td>Arabic No</td><td>2692</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama (Allah be pleased with her) reported that Allah's Messenger (ﷺ) mar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kuraib Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Hafsh yaitu Ibnu Ghiyats] dari [Abdul Wahid bin Aiman] dari [Abu Bakar bin Abdurrahman bin Al Harits bin Hisyam] dari [Ummu Salamah], Abu Bakar menyebutkan bahwa Rasulullah shallallahu 'alaihi wasallam menikahinya (Ummu Salamah) lalu dia (Abdurrahman) menyebutkan beberapa hal (dalam hadits tersebut), Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kamu menghendaki, saya akan tinggal bersamamu tujuh hari, maka saya juga akan tinggal tujuh hari di rumah para istriku, jika tujuh hari untukmu maka tujuh hari pula untuk para istriku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>1460.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>1460.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 58</td></tr></tbody></table></div>
 

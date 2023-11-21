@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "Do not sell gold for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Abu Sa'id Al Khudriy] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian berjual beli emas dengan emas kecuali sama jumlahnya dan jangan kalian lebihkan yang satu atas lainnya dan janganlah kalian berjual beli uang kertas dengan uang kertas kecuali sama jumlahnya dan jangan kalian lebihkan yang satu atas lainnya dan janganlah kalian berjual beli yang disegerakan (hadir) dengan yang diakhirkan (ghoib, ditangguhkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2177</td></tr><tr><td>Arabic No</td><td>2177</td></tr><tr><td>Reference</td><td>Book 34 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не продавайте золота за золото, если только подобное (количество не обменивается) на подобное, и не (продавайте) меньшего его количества за большее и наоборот, и не продавайте серебра за серебро, если только подобное (количество не обменивается) на подобное, и не (продавайте) меньшего его количества за большее и наоборот, и не продавайте (ни золота, ни серебра), не имеющегося в наличии, за то, что в наличии имеется»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2177</td></tr><tr><td>Arabic No</td><td>2177</td></tr><tr><td>Reference</td><td>Book 34 Hadith 127</td></tr></tbody></table></div>
 

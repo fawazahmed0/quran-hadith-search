@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I p man complained to the Prophet (ﷺ) about the destru
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Bisyr] berkata, telah menceritakan kepada kami [Mu'afa bin 'Imran] dari [Al Auza'i] dari [Ishaq bin 'Abdullah bin Abu Thalhah] dari [Anas bin Malik], bahwa ada seorang laki-laki mengadu kepada Nabi shallallahu 'alaihi wasallam, "Harta benda telah binasa dan sanak keluarga sudah kesusahan!" Kemudian beliau berdoa kepada Allah meminta hujan." Namun Anas tidak menyebutkan bahwa beliau membalik selendang dan menghadap kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 15 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, что один человек пожаловался Пророку ﷺ на то, что его скот гибнет, а дети голодают. Тогда он воззвал к Аллаху, испрашивая дождя. И он (Анас) не упомянул, что Пророк ﷺ надел свою накидку наизнанку или повернулся в сторону киблы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 15 Hadith 13</td></tr></tbody></table></div>
 

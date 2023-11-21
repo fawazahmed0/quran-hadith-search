@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah said:The Messenger of Allah (ﷺ) cursed the woman who adds some false
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] keduanya berkata; telah menceritakan kepada kami [Yahya] dari [Ubaidullah] ia berkata; telah menceritakan kepadaku [Nafi'] dari [Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melaknat wanita yang menyambung rambut dan wanita yang minta untuk disambung rambutnya, wanita yang mentato dan wanita yang minta untuk ditato
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5947) Sahih Muslim (2124)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4168</td></tr><tr><td>Arabic No</td><td>4168</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ проклял подвязывающую (к волосам другие) волосы, и ту, что просит подвязать их ей, и наносящую татуировку, и ту, что просит сделать ей это
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5947) Sahih Muslim (2124)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4168</td></tr><tr><td>Arabic No</td><td>4168</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
 

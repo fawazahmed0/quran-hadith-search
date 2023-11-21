@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ikrama:Ibn 'Abbas said ( regarding the verse), "And when the relatives 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Humaid] Telah mengabarkan kepada kami ['Ubaidullah Al Asyja'i] dari [Sufyan] dari [Asy Syaibani] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: Dan apabila sewaktu pembagian itu hadir para kerabat, anak yatim dan orang miskin, maka berilah mereka dari harta itu (sekedarnya) dan ucapkanlah kepada mereka perkataan yang baik. Ibnu Abbas berkata; 'Ayat ini ayat muhkamah (jelas hukumnya). Bukan ayat yang dimansukh (dihapus). Dan diriwayatkan pula oleh [Sa'id] dari [Ibnu Abbas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4576</td></tr><tr><td>Arabic No</td><td>4576</td></tr><tr><td>Reference</td><td>Book 65 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Икримы, что Ибн Аббас, да будет доволен Аллах им и его отцом, сказал относительно аята «Если при разделе наследства присутствуют родственники, сироты и бедняки...»: «Он не является отменённым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4576</td></tr><tr><td>Arabic No</td><td>4576</td></tr><tr><td>Reference</td><td>Book 65 Hadith 98</td></tr></tbody></table></div>
 

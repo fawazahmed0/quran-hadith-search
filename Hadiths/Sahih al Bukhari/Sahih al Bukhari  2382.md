@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) allowed the sale of the dates of the 'Ara
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah mengabarkan kepada kami [Malik] dari [Daud bin Hushain] dari [Abu Sufyan, maulanya Ibnu Abu Ahmad] dari [Abu Hurairah radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam memberi kelonggaran pada jual beli 'ariyyah pada buah-buahannya apabila kurang dari lima wasaq atau dalam jumlah lima wasaq". Daud ragu dalam masalah jumlah ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2382</td></tr><tr><td>Arabic No</td><td>2382</td></tr><tr><td>Reference</td><td>Book 42 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ разрешил продавать свежие плоды на пальме (за сушёные финики в объёме, соответствующем примерно определённому объёму, который обрели бы эти свежие финики, если бы их высушили) (‘арайа), если речь шла о количестве менее пяти васков (примерно 130 кг) или же о пяти васках. Передатчик Дауд сомневался, как именно было сказано»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2382</td></tr><tr><td>Arabic No</td><td>2382</td></tr><tr><td>Reference</td><td>Book 42 Hadith 30</td></tr></tbody></table></div>
 

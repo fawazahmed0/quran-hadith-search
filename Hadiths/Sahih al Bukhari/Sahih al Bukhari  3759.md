@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) neither talked in an insulti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'bah] dari [Sulaiman] berkata, aku mendengar [Abu Wa'il] berkata, aku mendengar [Masruq] berkata; " ['Abdullah bin 'Amr] berkata; "Rasulullah shallallahu 'alaihi wasallam bukanlah orang yang suka berbicara kotor (keji) juga tidak pernah berbuat keji dan beliau bersabda: "Sesungguhnya orang yang paling aku cintai di antara kalian adalah orang yang paling baik akhlaqnya'. Dan beliau juga bersabda: "Ambillah bacaan Al Qur'an dari empat orang. Yaitu dari 'Abdullah bin Mas'ud, kemudian Salim, maula Abu Hudzaifah, lalu Ubay bin Ka'ab dan Mu'adz bin Jabal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «Посланник Аллаха ﷺ не говорил ничего непристойного и не поносил людей, и он часто повторял: “Поистине, самый любимый для меня из вас тот, у кого самые лучшие нравы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

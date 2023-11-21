@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab:I was a blacksmith in Mecca Once I made a sword for Al-'Asi bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Adl Dluha] dari [Masruq] dari [Khabbab] dia berkata; "Aku adalah seorang pandai besi di Makkah, dan aku membuatkan sebilah pedang untuk Al Ash bin Wa'il As Sahmi. Tatkala aku mendatanginya untuk menagih bayarannya, dia berkata; "Aku tidak akan membayarkannya sampai kamu mendustakan Muhammad." Khabab berkata; "Demi Allah, aku tidak akan mendustakan Muhammad shallallahu 'alaihi wasallam sampai kamu dimatikan Allah kemudian kamu dibangkitkan kembali." Al Ash bin Wa'il berkata; "Kalau begitu tunggulah sampai aku mati dan dibangkitkan kembali hingga aku diberi harta dan anak, maka aku akan membayarmu. Maka turunlah ayat ini: 'Maka apakah kamu Telah melihat orang yang kafir kepada ayat-ayat kami dan ia mengatakan: "Pasti Aku akan diberi harta dan anak. Adakah ia melihat yang ghaib atau ia telah membuat perjanjian di sisi Tuhan Yang Maha Pemurah?. (QS. Maryam: 77-78). Khabab berkata; Yaitu ikatan janji. Namun [Al Asyja'i] tidak menyebutkan lafazh 'saif' (pedang) dan 'Mautsiq' (perjanjian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4733</td></tr><tr><td>Arabic No</td><td>4733</td></tr><tr><td>Reference</td><td>Book 65 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб, да будет доволен им Аллах, сказал: «Раньше я был кузнецом в Мекке, и как-то я изготовил меч для аль-‘Аса ибн Уаиля. И когда я пришёл к нему, чтобы потребовать возврата долга, он сказал: “Я (ничего) не отдам тебе, пока ты не перестанешь верить в Мухаммада!” Я воскликнул: “Не перестану я верить в Мухаммада, пока Аллах не лишит тебя жизни, а потом не воскресит!” Он сказал: “Значит, когда Аллах умертвит меня, а потом воскресит у меня будут имущество и дети!” После этого Всевышний Аллах ниспослал: “Видел ли ты того, кто не уверовал в Наши знамения и сказал: “Я непременно буду одарен богатством и детьми?” Разве он знал сокровенное или заключил завет с Милостивым?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4733</td></tr><tr><td>Arabic No</td><td>4733</td></tr><tr><td>Reference</td><td>Book 65 Hadith 255</td></tr></tbody></table></div>
 

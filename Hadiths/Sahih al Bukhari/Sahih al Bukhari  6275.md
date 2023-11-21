@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:Once the Prophet (ﷺ) offered the 'Asr prayer and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Umar bin Sa'id] dari [Ibnu Abu Mulaikah] bahwa [Uqbah bin Al Harits] telah menceritakan kepadanya, ia berkata; "Nabi shallallahu 'alaihi wasallam pernah mengerjakan shalat Ashar setelah itu beliau segera masuk ke rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6275</td></tr><tr><td>Arabic No</td><td>6275</td></tr><tr><td>Reference</td><td>Book 79 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба, да будет доволен им Аллах, сказал: «(Однажды) в Медине Пророка ﷺ совершил послеполуденный намаз, (после которого) поспешил домой и вошел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6275</td></tr><tr><td>Arabic No</td><td>6275</td></tr><tr><td>Reference</td><td>Book 79 Hadith 49</td></tr></tbody></table></div>
 

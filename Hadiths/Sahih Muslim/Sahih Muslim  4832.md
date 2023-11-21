@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), un bédouin interrogea l'En
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Khallad Al Bahili] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Abdurrahman bin 'Amr Al Auza'i] telah menceritakan kepadaku [Ibnu Syihab Az Zuhri] telah menceritakan kepadaku ['Atha bin Yazid Al Laitsi], bahwa dia telah menceritakan kepada mereka, dia berkata; telah menceritakan kepadaku [Abu Sa'id Al Khudri] dia berkata, "Seorang arab badui bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai hijrah." Beliau lalu menjawab: "Celaka kamu! Sesungguhnya perkara hijrah itu sangat berat. Apakah kamu mempunyai unta?" Badui itu menjawab: "Ada." Beliau bertanya: "Apakah kamu telah membayar zakatnya?" dia menjawab, "Ya!" beliau bersabda: "Kalau begitu beramallah di negerimu, sesungguhnya Allah Ta'ala tidak akan menyia-nyiakan pahala amalmu sedikitpun juga." Dan telah menceritakan kepada kami ['Abdullah bin 'Abdurrahman Ad Darami] telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Auza'i] dengan isnad seperti ini, namun dia menyebutkan, 'Sesungguhnya Allah tidak menyia-nyiakan dari amalanmu sedikitpun.' Dan dalam hadits tersebut juga ditambahkan, beliau bersabda: "Apakah kamu telah memerah susunya?" dia menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4832</td></tr><tr><td>Arabic No</td><td>1865.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4832</td></tr><tr><td>Arabic No</td><td>1865.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 128</td></tr></tbody></table></div>
 

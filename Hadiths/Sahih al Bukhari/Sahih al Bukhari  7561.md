@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Some people asked the Prophet (ﷺ) regarding the soothsayers. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Hisyam] Telah mengabarkan kepada kami [Ma'mar] dari [Azzuhri]. (dalam jalur lain disebutkan) telah menceritakan kepadaku [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah] telah menceritakan kepada kami [Yunus] dari [Ibn Syihab] telah mengabarkan kepadaku [Yahya bin Urwah bin Zubair] bahwa dia mendengar [Urwah bin Az Zubair], [Aisyah] radliyallahu'anhuma berkata, "Beberapa orang bertanya Nabi shallallahu 'alaihi wasallam tentang dukun, beliau menjawab: "Mereka tidak ada apa-apanya." Para sahabat berkata lagi, "Wahai Rasulullah, namun terkadang mereka berbicara sesuatu dan menjadi benar." Nabi shallallahu 'alaihi wasallam kemudian berkata: "Ucapan yang benar itu adalah hasil curian jin, lalu oleh jin diperdengarkan ke telinga wali-walinya sebagaimana ayam betina bersuara, lantas mereka tambahai dengan seratus kebohongan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>7561</td></tr><tr><td>Reference</td><td>Book 97 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что она сказала: «(Некоторые) люди спросили Пророка ﷺ о прорицателях, на что он ответил: “Они — ничто!”. Они сказали: “О Посланник Аллаха, но ведь (иногда) они рассказывают какую-то вещь, которая оказывается правдой!”. Пророк ﷺ сказал: “Эти слова истины джинн крадет (с небес), а затем кудахчет в ухо своего товарища, подобно тому, как кудахчет курица. А те, в свою очередь, примешивают к ним сто (слов) лжи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>7561</td></tr><tr><td>Reference</td><td>Book 97 Hadith 186</td></tr></tbody></table></div>
 

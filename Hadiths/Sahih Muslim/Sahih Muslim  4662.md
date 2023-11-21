@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr As Sa'di] telah mengabarkan kepada kami [Isma'il] -yaitu Ibnu 'Ulayah- telah menceritakan kepada kami [Sulaiman At Taimi] telah menceritakan kepada kami [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapakah yang sanggup mengabarkan kepadaku keadaan Abu Jahal?" Maka berangkatlah Ibnu Mas'ud, dan dipatinya Abu Jahal telah dipukul rubuh oleh dua orang anak Afra' sehingga tidak berdaya. Kemudian dia memegang jenggotnya seraya berkata, "Kamukah Abu Jahal?" Abu Jahal menjawab, "Apakah ada yang kebih mulia dari orang yang telah kalian bunuh selain aku, atau orang yang dibunuh oleh kaumnya." Abu Mijlas berkata, "Abu Jahal mengatakan, "Asal aku tidak di bunuh oleh anak seorang petani." Telah menceritakan kepada kami [Hamid bin 'Umar Al Bakrawi] telah menceritakan kepada kami [Mu'tamir] dia berkata; saya mendengar [ayahku] berkata; telah menceritakan kepada kami [Anas] dia berkata, "Rasulullah bersabda: "Siapakah yang sanggup memperlihatkanku apa yang diperbuat Abu Jahal?....seperti hadits Ibnu 'Ulayyah, perkatan Abu Mijlas itu seperti yang disebutkan oleh Isma'il
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4662</td></tr><tr><td>Arabic No</td><td>1800.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4662</td></tr><tr><td>Arabic No</td><td>1800.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 144</td></tr></tbody></table></div>
 

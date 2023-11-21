@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "A woman should not travel except wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru] dari [Abu Ma'bad], sahayanya Ibnu 'Abbas, dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah seorang wanita bepergian kecuali bersama mahramnya dan janganlah seorang laki-laki menemui seorang wanita kecuali wanita itu bersama mahramnya". Kemudian ada seorang laki-laki yang berkata: "Wahai Rasulullah, sebenarnya aku berkehendak untuk berangkat bersama pasukan perang ini dan ini namun isteriku hendak menunaikan haji". Maka Beliau shallallahu 'alaihi wasallam bersabda: "Berangkatlah haji bersama isterimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Не дозволено женщине, отправляться без сопровождения близкого родственника (махрам) в путь, и не разрешается мужчине заходить к (посторонней) женщине, если с ней не будет близкого мужчины — родственника (махрам)». (Услышав эти слова,) один человек сказал: «О Посланник Аллаха, я хочу учавствовать в таком-то (военном) походе, а моя жена хочет совершить хадж». Пророк ﷺ сказал: «Отправляйся вместе с ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
 

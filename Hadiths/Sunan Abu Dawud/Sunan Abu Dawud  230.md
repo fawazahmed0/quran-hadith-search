@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hudhaifah reported :The prophet (ﷺ) visited him and inclined towards him (for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Mis'ar] dari [Washil] dari [Abu Wa'il] dari [Hudzaidfah] bahwasanya Nabi shallallahu 'alaihi wasallam pernah bertemu dengannya, kemudian beliau mengulurkan tangan kepadanya (untuk berjabat tangan). Namun Hudzaifah berkata; Sesungguhnya saya sedang junub. Maka beliau bersabda: "Sesungguhnya orang muslim itu tidak najis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (372)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>230</td></tr><tr><td>Arabic No</td><td>230</td></tr><tr><td>Reference</td><td>Book 1 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хузайфы о том, что однажды Пророк ﷺ встретил его и протянул ему (руку) но (Хузайфа) сказал: «Я нахожусь в состоянии большого осквернения». И (Пророк ﷺ) сказал: «Поистине, мусульманин (никогда) не бывает нечистым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (372)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>230</td></tr><tr><td>Arabic No</td><td>230</td></tr><tr><td>Reference</td><td>Book 1 Hadith 230</td></tr></tbody></table></div>
 

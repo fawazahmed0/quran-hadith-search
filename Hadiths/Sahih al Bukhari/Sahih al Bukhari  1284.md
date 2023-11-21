@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:The daughter of the Prophet (p.b.u.h) sent (a messenger)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dan [Muhammad] keduanya berkata, telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami ['Ashim bin Sulaiman] dari [Abu 'Utsman] berkata, telah menceritakan kepada saya [Usamah bin Zaid radliallahu 'anhuma] berkata; Putri Nabi Shallallahu'alaihiwasallam datang untuk menemui Beliau dan mengabarkan bahwa; "Anakku telah meninggal, maka datanglah kepada kami". Maka Nabi Shallallahu'alaihiwasallam memerintahkannya untuk menyampaikan salam lalu bersabda: "Sesungguhnya milik Allah apa yang diambilNya dan apa yang diberiNya. Dan segala sesuatu disisiNya sesudah ditentukan ajalnya, maka bersabarlah engkau karenanya dan mohonkanlah pahala darinya." Kemudian dia datang lagi kepada Beliau dan meminta dengan sangat agar Beliau bisa datang. Maka Beliau berangkat, bersamanya ada Sa'ad bin 'Ubadah, Mu'adz bin Jabal, Ubay bin Ka'ab, Zaid bin Tsabit dan beberapa orang lain. Kemudian bayi tersebut diserahkan kepada Nabi Shallallahu'alaihiwasallam dan hati Beliau nampak berguncang (karena bersedih). Aku menduga dia berkata,: Seakan dia seperti geriba yang kosong. Maka mengalirlah air mata Beliau. Sa'ad berkata,: "Wahai Rasulullah, mengapakah engkau menangis? Beliau berkata,: "Inilah rahmat yang Allah berikan kepada hati hamba-hambaNya dan sesungguhnya Allah akan merahmati diantara hamba-hambaNya mereka yang saling berkasih sayang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1284</td></tr><tr><td>Arabic No</td><td>1284</td></tr><tr><td>Reference</td><td>Book 23 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама бин Зейд, да будет доволен Аллах ими обоими, сказал: «(В своё время) дочь Пророка ﷺ послала к нему (человека, чтобы пригласить его к себе, так как) её сын находился при смерти. Однако (Пророк ﷺ) отослал (этого человека обратно, велев ему) приветствовать их и сказать: “Поистине, Аллаху принадлежит то, что Он забрал, и то, что Он даровал, и для всего определил Он свой срок, так пусть же она проявляет терпение и надеется на награду Аллаха”. Однако (через некоторое время) она снова послала за ним, заклиная его прийти к ней, и тогда (Пророк ﷺ) пошёл (к ней), и вместе с ним пошли Са‘д бин ‘Убада, Му‘аз бин Джабаль, Убайй бин Ка‘б, Зейд бин Сабит и некоторые другие люди. (В доме дочери) Посланнику Аллаха ﷺ передали мальчика, который уже начал хрипеть, и тогда глаза (Пророка ﷺ) наполнились слезами. (Увидев это,) Са‘д спросил: “О Посланник Аллаха, что это?” Он ответил: “Это — милосердие, вложенное Аллахом в сердца Его рабов, и Аллах помилует только милосердных из числа рабов Своих”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1284</td></tr><tr><td>Arabic No</td><td>1284</td></tr><tr><td>Reference</td><td>Book 23 Hadith 44</td></tr></tbody></table></div>
 

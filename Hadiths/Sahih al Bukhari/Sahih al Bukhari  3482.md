@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "A lady was punished 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3482</td></tr><tr><td>Arabic No</td><td>3482</td></tr><tr><td>Reference</td><td>Book 60 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «(Одна) женщина была подвергнута мучениям из-за кошки, которую она держала взаперти, пока та не умерла (от голода), за что она оказалась в огне. Держа её взаперти, она не кормила её и не поила, и не оставила её (на свободе), чтобы та могла есть насекомых, (ползающих по) земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3482</td></tr><tr><td>Arabic No</td><td>3482</td></tr><tr><td>Reference</td><td>Book 60 Hadith 149</td></tr></tbody></table></div>
 

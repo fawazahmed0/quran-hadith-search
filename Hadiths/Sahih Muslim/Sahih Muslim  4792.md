@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Ibn 'Abdullah al-Bajali that the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Huraim bin Abdul A'la] telah menceritakan kepada kami [Al Mu'tamir] dia berkata; saya mendengar [ayahku] menyebutkan dari [Abu Mijlaz] dari [Jundab bin Abdullah Al Bajali] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa terbunuh karena membela bendera kefanatikan yang menyeru kepada kebangsaan atau mendukungnya, maka matinya seperti mati Jahiliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>1850</td></tr><tr><td>Reference</td><td>Book 33 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>1850</td></tr><tr><td>Reference</td><td>Book 33 Hadith 89</td></tr></tbody></table></div>
 

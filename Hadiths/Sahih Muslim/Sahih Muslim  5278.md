@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported this hadith through another chain of transmitters but 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] dan [Ibnu Basyar]; Dan lafazh ini milik [Zuhair] dan [Ibnu Al Mutsanna], mereka berkata; Telah menceritakan kepada kami [Yahya bin Sa'id]; Telah menceritakan kepada kami [Syu'bah]; Telah menceritakan kepada kami [Qatadah] dari [Abu 'Isa Al Uswari] dari [Abu Sa'id Al Khudri]; Bahwa Rasulullah shallallahu 'alaihi wasallam minum sambil berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5278</td></tr><tr><td>Arabic No</td><td>2025.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5278</td></tr><tr><td>Arabic No</td><td>2025.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 152</td></tr></tbody></table></div>
 

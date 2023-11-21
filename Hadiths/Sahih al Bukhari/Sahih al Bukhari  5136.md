@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A matron should not be given in ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] Telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] bahwa [Abu Hurairah] menceritakan kepada mereka bahwasanya; Nabi shallallahu 'alaihi wasallam bersabda: "Seorang janda tidak boleh dinikahi hingga ia dimintai pendapatnya, sedangkan gadis tidak boleh dinikahkan hingga dimintai izinnya." Para sahabat bertanya, "Wahai Rasulullah, seperti apakah izinnya?" beliau menjawab: "Bila ia diam tak berkata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5136</td></tr><tr><td>Arabic No</td><td>5136</td></tr><tr><td>Reference</td><td>Book 67 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Не следует выдавать замуж женщину, не посоветовавшись с ней, и не следует выдавать замуж девушку, не спросив её позволения (на это)». (Люди) спросили: «О Посланник Аллаха, а как же мы узнаем о её позволении?» (Пророк ﷺ) сказал: «По её молчанию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5136</td></tr><tr><td>Arabic No</td><td>5136</td></tr><tr><td>Reference</td><td>Book 67 Hadith 72</td></tr></tbody></table></div>
 

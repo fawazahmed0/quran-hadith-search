@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Did you not see when the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] dari [Al 'Ala' bin Ya'qub] ia berkata, telah mengabarkan kepadaku [bapakku] bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukankah kalian telah menyaksikan bahwa jika seseorang meninggal dunia matanya akan terbelalak?" Para sahabat menjawab, "Ya, kami telah menyaksikan." Beliau bersabda: "Itu terjadi sa'at pandangan matanya mengikuti ruhnya (yang keluar dari jasad-pent)." Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz Ad Darawardi] dari [Al Ala'] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2132</td></tr><tr><td>Arabic No</td><td>921.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ (однажды) сказал: «Разве вы не видели, что когда человек умирает, его взор устремлен вверх!?» Они (сподвижники) ответили: «Да, конечно». (Пророк ﷺ) сказал: «Это происходит в тот момент, когда его взгляд провожает его душу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2132</td></tr><tr><td>Arabic No</td><td>921.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 10</td></tr></tbody></table></div>
 

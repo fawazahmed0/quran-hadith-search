@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:The Prophet (ﷺ) used to sell the dates of the garden of Bani An
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Salam] Telah mengabarkan kepada kami [Waki'] dari [Ibnu 'Uyainah] ia berkata; Telah berkata kepadaku [Ma'mar] Telah berkata kepadaku Ats Tsauri; "Apakah kamu pernah mendengar tentang seorang laki-laki yang mengumpulkan makanan untuk persediaan selama satu tahun atau setelah tahun bagi keluarganya atau?" Ma'mar berkata; Ia tidak menjawabnya. Kemudian aku pun menyebutkan hadits; Telah menceritakan kepada kami [Ibnu Syihab Az Zuhri] dari [Malik bin Aus] dari [Umar] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam menjual pohon kurma Bani Nadlir dan menyimpan makanan untuk persediaan selama setahun bagi keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5357</td></tr><tr><td>Arabic No</td><td>5357</td></tr><tr><td>Reference</td><td>Book 69 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара (ибн аль-Хаттаба), да будет доволен им Аллах, что обычно Пророк ﷺ продавал (урожай с финиковых) пальм(, ранее принадлежавших племени) бану ан-надир, и делал для своей семьи запас, которого хватало на год
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5357</td></tr><tr><td>Arabic No</td><td>5357</td></tr><tr><td>Reference</td><td>Book 69 Hadith 7</td></tr></tbody></table></div>
 

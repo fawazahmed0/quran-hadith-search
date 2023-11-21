@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Sa’id Al Khudri :The Messenger of Allah (ﷺ) used to spend the m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Yazid bin Abdullah bin Al Had] dari [Muhammad bin Ibrahim bin Al Harits At Taimi] dari [Abu Salamah bin Abdurrahman] dari [Abu Sa'id Al Khudri] dia berkata; "Rasulullah shallallahu 'alaihi wasallam memulai beri'tikaf pada sepuluh kedua pada bulan Ramadan. Beliau beri'tikaf pada tahun itu, hingga ketika tiba malam kedua puluh satu, yaitu hari ketika beliau keluar dari I'tikafnya, beliau bersabda: 'Barangsiapa ingin melaksanakan I'tikaf bersamaku, hendaklah dia mengerjakannya pada sepuluh hari yang terakhir ini. Aku telah melihat dalam mimpiku, namun aku lupa. Aku mimpi pada waktu paginya aku bersujud pada air dan tanah. Carilah lailatul qadar pada malam yang ganjil. ' Abu Sa'id berkata; "Pada malam itu terjadi hujan, dan saat itu masjidnya laksana bangsal untuk berteduh dan bocor, " Abu Sa'id menambahkan; "Dengan kedua mataku, aku melihat Rasulullah shallallahu 'alaihi wasallam pergi, sementara pada dahi dan hidungnya ada bekas tanah dan air. Itu terjadi pada pagi hari malam ke dua puluh satu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2027) Sahih Muslim (1167)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>1382</td></tr><tr><td>Reference</td><td>Book 6 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах: «Посланник Аллаха ﷺ неотлучно пребывал в мечети всю вторую декаду рамадана, а когда настала двадцать первая ночь рамадана, то есть та ночь, когда он должен был завершить своё неотлучное пребывание /и‘тикаф/ в мечети, он сказал: “Кто неотлучно пребывал в мечети вместе со мной, пусть делает то же самое в последнюю декаду рамадана. Мне была показана эта ночь, но потом меня заставили забыть её, однако я знаю, что утром этой ночи я буду совершать земной поклон в воду и глину. Ищите её среди последних десяти ночей рамадана, и ищите её среди нечётных ночей”. И в эту ночь пошёл дождь. А поскольку мечеть представляла собой подобие шалаша, крыша протекла». Абу Са‘ид сказал: «И я своими глазами видел следы глины и воды на лбу и носу Посланника Аллаха ﷺ утро двадцать первой ночи рамадана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2027) Sahih Muslim (1167)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>1382</td></tr><tr><td>Reference</td><td>Book 6 Hadith 12</td></tr></tbody></table></div>
 

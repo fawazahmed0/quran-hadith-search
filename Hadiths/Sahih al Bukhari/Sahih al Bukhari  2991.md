@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) reached Khaibar in the morning, while the people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Sufyan] dari [Ayyub] dari [Muhammad] dari [Anas radliallahu 'anhu] berkata Nabi shallallahu 'alaihi wasallam mendatangi Khaibar pada waktu shubuh dimana penduduk Khaibar sedang keluar dengan membawa alat bertani (cangkul, sekop dhl) diatas leher (pundak-pundak) mereka. Tatkala mereka melihat Beliau shallallahu 'alaihi wasallam, mereka berkata: "Muhammad dan pasukannya, Muhammad dan pasukannya". Lalu mereka berlindung di balik benteng. Lalu Nabi shallallahu 'alaihi wasallam mengangkat kedua belah tangan Beliau dan berdo'a: "Allahu Akbar, hancurlah Khaibar. Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut". Kemudian kami mendapatkan keledai-keledai sebagai harta rampasan perang) lalu kami memasaknya. Kemudian seorang penyeru Nabi shallallahu 'alaihi wasallam berseru: "Sesungghnya Allah dan Rosul-Nya telah melarang kalian memakan daging-daging keledai". Hingga akhirnya seluruh kuali (bejana untuk memasak) beserta isinya ditumpahkan. Hadits ini juga ditelusuri oleh ['Ali] dari [Sufyan]: " Nabi shallallahu 'alaihi wasallam mengangkat kedua belah tangan Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2991</td></tr><tr><td>Arabic No</td><td>2991</td></tr><tr><td>Reference</td><td>Book 56 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ вошёл в Хайбар, его жители стали выходить со своими большими корзинами на плечах, и увидев его сказали: “Это Мухаммад со (своей) пятёркой! Мухаммад со (своей) пятёркой!” И укрылись в своей крепости. Тогда Пророк ﷺ поднял руки и сказал: “Велик Аллах /Аллаху акбар/, Хайбар разрушен! Поистине, когда мы появляемся у селений людей, (враждующих с нами), плохим становится утро для тех, кого предупреждали!” Затем мы закололи несколько ослов и начали их готовить, однако глашатай Пророка ﷺ провозгласил: “Поистине, Аллах и Его Посланник запрещают вам есть мясо ослов!” Тогда люди опрокинули котлы вместе с их содержимым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2991</td></tr><tr><td>Arabic No</td><td>2991</td></tr><tr><td>Reference</td><td>Book 56 Hadith 200</td></tr></tbody></table></div>
 

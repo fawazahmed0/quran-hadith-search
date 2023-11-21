@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aswad and Masruq reported:We bear testimony to the fact that 'A'isha said: Never
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] -Ibnul Mutsanna- berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dan [Masruq] keduanya berkata, kami menyaksikan [Aisyah] bahwa ia berkata, "Tidak ada satu hari pun dari hari-hari Rasulullah shallallahu 'alaihi wasallam yang beliau habiskan di tempatku, kecuali beliau menunaikan dua raka'at itu, yakni dua raka'at sesudah asar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1937</td></tr><tr><td>Arabic No</td><td>835.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 365</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «В дни, когда Посланник Аллаха ﷺ был у меня дома, он обязательно совершал два рак‘ата после послеполуденной молитвы /‘аср/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1937</td></tr><tr><td>Arabic No</td><td>835.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 365</td></tr></tbody></table></div>
 

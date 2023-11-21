@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:Allah revealed the verse in which Allah prohibited the us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu Bakar] -yaitu Al Hanafi- telah menceritakan kepada kami [Abdul Hamid bin Ja'far] telah menceritakan kepadaku [ayahku] bahwa dia pernah mendengar [Anas bin Malik] berkata, "Sesungguhnya Allah telah menurunkan ayat tentang pengharaman khamer, ketika itu di Madinah tidak ada khamer kecuali yang terbuat dari tamr (kurma)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5139</td></tr><tr><td>Arabic No</td><td>1982</td></tr><tr><td>Reference</td><td>Book 36 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5139</td></tr><tr><td>Arabic No</td><td>1982</td></tr><tr><td>Reference</td><td>Book 36 Hadith 13</td></tr></tbody></table></div>
 

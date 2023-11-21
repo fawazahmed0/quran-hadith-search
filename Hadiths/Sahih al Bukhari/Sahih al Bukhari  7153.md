@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:While the Prophet (ﷺ) and I were coming out of the mos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ustman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Salim bin Abul Ja'd] telah menceritakan kepada kami [Anas bin Malik] radliallahu 'anhu, ia mengatakan, ketika aku dan Nabi shallallahu 'alaihi wasallam keluar dari masjid, kami menemui seseorang di gerbang masjid dan ia bertanya; 'Ya Rasulullah, kapan hari kiamat tiba? ' Nabi shallallahu 'alaihi wasallam menjawab; "apa yang telah kau persiapkan?" Rupanya orang tadi berusaha menenangkan diri lantas mengatakan; 'Ya Rasulullah, saya tidak mempersiapkannya dengan banyak puasa, banyak shalat dan banyak sedekah, hanya aku cinta Allah dan rasul-NYA, ' maka Nabi bersabda; 'Engkau bersama orang yang kau cintai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7153</td></tr><tr><td>Arabic No</td><td>7153</td></tr><tr><td>Reference</td><td>Book 93 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Когда я и Пророк ﷺ выходили из мечети, мы повстречали человека у двери мечети, и он сказал: “О Посланник Аллаха! Когда (настанет) Час этот?” Пророк ﷺ спросил: “А что ты для него приготовил?” Этот человек как будто смирился, а затем ответил: “О Посланник Аллаха, не приготовил я ни много постов, ни много молитв, ни много милостыни, если не считать того, что я люблю Аллаха и Его посланника”. И (Пророк ﷺ) сказал: “Ты будешь с теми, кого ты любил”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7153</td></tr><tr><td>Arabic No</td><td>7153</td></tr><tr><td>Reference</td><td>Book 93 Hadith 17</td></tr></tbody></table></div>
 

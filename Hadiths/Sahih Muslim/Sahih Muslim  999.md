@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha, la femme du Prophète (raa) a dit : Si l'Envoyé de Dieu (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman, yaitu Ibnu Bilal] dari [Yahya, dan dia adalah Ibnu Sa'id] dari ['Amrah binti Abdurrahman] bahwasanya dia mendengar [Aisyah], istri Nabi shallallahu 'alaihi wasallam berkata, "Kalau Rasulullah shallallahu 'alaihi wasallam melihat sesuatu yang terjadi pada kaum wanita (sekarang) niscaya beliau menghalangi mereka menghadiri masjid sebagaimana kaum perempuan bani Israil dilarang." Perawi berkata, "Aku berkata kepada Amrah, 'Apakah kaum wanita bani Israil dihalangi pergi ke masjid? ' Dia menjawab, 'Ya.' Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdul Wahhab, yaitu ats-Tsaqafi] dia berkata, --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Amru an-Naqid] telah menceritakan kepada kami [Sufyan bin Uyainah] dia berkata, --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Khalid al-Ahmar] dia berkata, --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dia berkata, telah mengabarkan kepada kami [Isa bin Yunus] semuanya meriwayatkan dari [Yahya bin Sa'id] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>999</td></tr><tr><td>Arabic No</td><td>445.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амра бинт ‘Абдуррахман передала, что она слышала, как жена Пророка ﷺ ‘Аиша сказала: «Если бы Посланник Аллаха ﷺ увидел, что стали делать женщины, он обязательно запретил бы им посещать мечеть, как израильтянкам запрещали (посещать синагоги)».(Передатчик этого хадиса) сказал: «Я спросил ‘Амру: “А разве израильтянкам запрещали делать это?” и она сказала: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>999</td></tr><tr><td>Arabic No</td><td>445.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 161</td></tr></tbody></table></div>
 

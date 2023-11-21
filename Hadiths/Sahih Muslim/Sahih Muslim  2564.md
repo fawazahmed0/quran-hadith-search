@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakannya kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, bahwa Rasulullah shallallahu 'alaihi wasallam melakukan puasa Wishal di bulan Ramadlan, sehingga orang-orang pun ikut melakukannya. Mengetahui hal itu, maka beliau melarang mereka. Akhirnya mereka bertanya, "Bukankah Anda sendiri melakukan puasa wishal?" beliau bersabda: "Sesungguhnya saya, tidaklah sebagaimana kalian, karena saya diberi makan dan minum (oleh Rabb-ku)." Dan telah menceritakan kepada kami [Abdul Warits bin Abdush Shamad] telah menceritakan kepadaku [bapakku] dari [kakekku] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, dengan hadits semisalnya, namun ia tidak mengatakan; "Di bulan Ramadlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2564</td></tr><tr><td>Arabic No</td><td>1102.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2564</td></tr><tr><td>Arabic No</td><td>1102.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 70</td></tr></tbody></table></div>
 

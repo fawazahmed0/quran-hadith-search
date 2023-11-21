@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Are you not surprised at AbuHurayrah? He came an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa ['Urwah bin Az Zubair] menceritakan kepadanya bahwa [Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata, "Tidakkah engkau kagum kepada Abu Hurairah? Ia datang dan duduk di samping kamarku menceritakan dari Rasulullah shallallahu 'alaihi wasallam, ia memperdengarkannya kepadaku saat aku sedang melakukan shalat, lalu ia berdiri sebelum aku menyelesaikan shalatku, dan seandainya aku dapat mendapatinya niscaya aku akan menjawabnya, sesungguhnya Rasulullah shallallahu 'alaihi wasallam tidak tergesa-gesa seperti kalian tergesa-gesa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2493)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3655</td></tr><tr><td>Arabic No</td><td>3655</td></tr><tr><td>Reference</td><td>Book 26 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы ибн аз-Зубайра, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «Не удивляет ли тебя поведение Абу Хурайры? Он пришёл, сел рядом с моей комнатой и стал пересказывать хадисы Посланника Аллаха ﷺ так, чтобы я слышала. А я в это время совершала добровольную молитву. И не успела я закончить, как он встал и ушёл. Если бы я успела, я бы ответила ему. Поистине, Посланник Аллаха ﷺ никогда не говорил так быстро (, без пауз между словами и произнося их все друг за другом), как вы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2493)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3655</td></tr><tr><td>Arabic No</td><td>3655</td></tr><tr><td>Reference</td><td>Book 26 Hadith 15</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Anas (que Dieu l'agrée), le Prophète (paix et bénédiction de Dieu sur 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Khalid] -yaitu Ibnu al-Harits- telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abdullah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Mencintai orang Anshar adalah tanda keimanan, dan membenci mereka adalah tanda kemunafikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>236</td></tr><tr><td>Arabic No</td><td>74.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что Пророк ﷺ сказал: «Любовь к ансарам является признаком веры, а ненависть к ним признаком лицемерия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>236</td></tr><tr><td>Arabic No</td><td>74.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 142</td></tr></tbody></table></div>
 

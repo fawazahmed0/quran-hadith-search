@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported that the moon was split up in two parts during the l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] dari [Ibrahim] dari [Abu Ma'mar] dari [Abdullah bin Mas'ud] berkata: Bulan terbelah dimasa Rasulullah Shallallahu 'alaihi wa Salam menjadi dua bagian, salah satunya menutupi gunung atau yang lainnya di atas gunung, kemudian Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Ya Allah saksikanlah." Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] dari [Mujahid] dari [Ibnu Umar] dari nabi Shallallahu 'alaihi wa Salam seperti itu. Telah menceritakannya kepadaku [Bisyr bin Khalid] telah mengkhabarkan kepada kami [Muhammad bin Ja'far]. Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abi Adi], keduanya dari [Syu'bah] dengan sanad Ibnu Mu'adz dari Syu'bah seperti haditsnya, hanya saja dalam hadits Ibnu Abi Adi disebutkan: Lalu beliau bersabda: "Saksikanlah, saksikanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7073</td></tr><tr><td>Arabic No</td><td>2800.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд сказал: «При жизни Посланника Аллаха ﷺ луна раскололась на две части, и гора скрыла одну её часть, а другая была над горой, и тогда Посланник Аллаха ﷺ сказал: “О Аллах, засвидетельствуй (это)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7073</td></tr><tr><td>Arabic No</td><td>2800.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 29</td></tr></tbody></table></div>
 

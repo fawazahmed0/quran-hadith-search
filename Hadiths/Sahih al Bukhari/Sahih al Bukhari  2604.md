@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I sold a camel to the Prophet (ﷺ) on one of the j
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Muharib] aku medengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Aku menjual seekor unta kepada Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan. Ketika kami sudah sampai di Madinah, Beliau berkata; "Datanglah ke masjid dan shalatlah dua raka'at". Lalu Beliau menimbang". Syu'bah berkata: "Aku kira dia berkata; Lalu Beliau menimbang untukku". Maka Beliau memberi lebih untukku sehingga masih terus ada kelebihan itu hingga kmai menghadapi bangsa Romawi dalam perang sulit di musim panas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2604</td></tr><tr><td>Arabic No</td><td>2604</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Я продал Пророку ﷺ верблюда, когда мы были в путешествии. Когда мы прибыли в Медину, он сказал мне: “Иди в мечеть, и соверши молитву в два рак‘ата”. После этого он взвесил для меня (стоимость верблюда) и добавил ещё сверху. Часть этих денег оставалась у меня пока их не забрали люди из Шама в день аль-Харры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2604</td></tr><tr><td>Arabic No</td><td>2604</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Asad b. ‘Amr said:I asked Anas b. Malik about ablution. He replied: The Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Syarik] dari [Amru bin Amir Al-Bajali] berkata Muhammad, yaitu Abu Asad bin Amru dia berkata; Saya pernah bertanya kepada [Anas bin Malik] tentang cara berwudhu. Maka dia menjawab; Nabi shallallahu 'alaihi wasallam biasa berwudhu untuk setiap kali akan mengerjakan shalat. Dan kami pun pernah mengerjakan beberapa shalat dengan sekali wudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра ибн ‘Амира аль-Баджали о том, что Мухаммад – он же Абу Асад ибн ‘Амр - сказал: «Я спросил Анаса ибн Малика об омовении и он сказал: “Пророк ﷺ совершал омовение для каждой молитвы, а мы совершали несколько молитв с одним омовением”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
 

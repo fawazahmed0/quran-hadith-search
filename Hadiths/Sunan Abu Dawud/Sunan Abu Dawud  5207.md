@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:The Companions of the prophet (ﷺ) said to the prophet (ﷺ): The peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Marzuq] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] dari [Anas] berkata, "Para sahabat sahabat Nabi shallallahu 'alaihi wasallam bertanya kepada beliau, "Orang-orang ahli kitab memberi salam kepada kami, lalu bagaimana kami memberi jawaban?" beliau menjawab: "Ucapkanlah 'Wa Alaikum (dan atas kalian)." Abu Dawud berkata, "Seperti itu pula riwayat 'Aisyah, Abu 'Abdurrahman Al Juhanni dan Abu Bashrah -maksudnya Abu Bashrah Al Ghifari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6258، 6024) Sahih Muslim (2163، 2165)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5207</td></tr><tr><td>Arabic No</td><td>5207</td></tr><tr><td>Reference</td><td>Book 43 Hadith 435</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6258، 6024) Sahih Muslim (2163، 2165)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5207</td></tr><tr><td>Arabic No</td><td>5207</td></tr><tr><td>Reference</td><td>Book 43 Hadith 435</td></tr></tbody></table></div>
 

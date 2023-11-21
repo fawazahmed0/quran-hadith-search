@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported that the Messenger of Allah (ﷺ) said:When any one o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdullah] dan [Muhammad bin Rafi'] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ismail bin Abi Fudaik] dari [adh-Dhahhak bin Utsman] dari [Shadaqah bin Yasar] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu'alaihiwasallam bersabda, "Apabila salah seorang di antara kalian shalat, maka janganlah dia membiarkan seseorang lewat di hadapannya. Jika dia menolak, maka hendaklah dia memeranginya, karena qarin bersamanya." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abu Bakar al-Hanafi] telah menceritakan kepada kami [adh-Dhahhak bin Utsman] telah menceritakan kepada kami [Shadaqah bin Yasar] dia berkata, "Saya mendengar [Ibnu Umar] berkata, " Rasulullah shallallahu'alaihiwasallam bersabda dengan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>506.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара о том, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас будет совершать молитву, пусть никому не позволяет пройти перед собой, а если тот станет упря­миться, пусть сразится с ним, ибо, поистине, с ним (его) спутник/къарин/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>506.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 292</td></tr></tbody></table></div>
 

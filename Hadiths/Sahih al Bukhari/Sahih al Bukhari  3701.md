@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:Allah's Messenger (ﷺ) said, "Tomorrow I will give the f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami ['Abdul 'Aziz] dari [Abu Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Besok, sungguh aku akan menyerahkan bendera komando ini kepada seorang laki-laki yang lewat tangannya Allah memenangkan peperangan ini". (Sahal) berkata; "Maka orang-orang semalaman memperbin cangkan siapa diantara mereka yang akan diberikan kepercayaan itu". Pada pagi harinya, orang-orang telah berkumpul di hadapan Rasulullah shallallahu 'alaihi wasallam dan masing-masing berharap diberikan kepercayaan tersebut. Beliau berkata: "Mana 'Ali bin Abu Thalib?". Orang-orang menjawab; "Dia sedang sakit mata, wahai Rasulullah". Beliau berkata; "Datangilan dan bawa dia kemari". Tatkala 'Ali datang dengan matanya yang bengkak, beliau mendo'akannya maka seketika matanya sembuh seakan tidak ada bekas sakit sebelumnya. Akhirnya beliau menyerahkan bendera komando perang tersebut kepadanya. 'Ali berkata; "Wahai Rasulullah, "Akan kuperangi mereka hingga mereka menjadi seperti kita". Beliau berkata; "Laksanakanlah dengan tenang hingga kamu singgah pada tempat tinggal mereka, lalu ajaklah mereka menerima Islam dan kabarkan kepada mereka apa yang menjadi kewajiban mereka dari hak-hak Allah. Sungguh seandainya Allah memberi hidayah kepada seseorang lewat perantaraan kamu, hal itu lebih baik buatmu dari pada unta merah (harta yang paling baik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3701</td></tr><tr><td>Arabic No</td><td>3701</td></tr><tr><td>Reference</td><td>Book 62 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Завтра я непременно вручу это знамя тому человеку, через которого Аллах дарует (нам) победу». (Сахль, да будет доволен им Аллах, сказал): «Сподвижники всю ночь обсуждали это, и каждый из них надеялся на то, что (знамя вручат) ему. (Утром) Пророк ﷺ спросил: “Где ‘Али ибн Аби Талиб?” Люди ответили: “У него болят глаза, о Посланник Аллаха”. Пророк ﷺ сказал: “Приведите его ко мне”. Когда ‘Али явился, Пророк ﷺ поплевал ему на глаза, обратился за него (к Аллаху) с мольбой, и он сразу же выздоровел, будто с ним ничего и не было. Затем он дал ему знамя, а ‘Али спросил: “О Посланник Аллаха, следует ли нам сражаться с ними, пока они не станут такими же, как мы?” Тогда (Пророк ﷺ) сказал: “Иди не спеша, пока не встретишься с ними, а потом призови их к исламу и сообщи им о том, что является для них обязательным из прав Аллаха. И клянусь Аллахом, если Аллах через тебя выведет на прямой путь (хотя бы) одного человека, это будет для тебя лучше (обладания) красными верблюдами!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3701</td></tr><tr><td>Arabic No</td><td>3701</td></tr><tr><td>Reference</td><td>Book 62 Hadith 51</td></tr></tbody></table></div>
 

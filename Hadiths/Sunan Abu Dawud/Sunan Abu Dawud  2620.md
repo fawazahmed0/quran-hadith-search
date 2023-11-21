@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abbad ibn Shurahbil: I suffered from drought; so I entered a garden of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari ['Abbad bin Syurahbil], ia berkata; aku mengalami kelaparan, kemudian aku memasuki kebun Madinah, lalu aku memencet bulir lalu memakannya, dan aku membawa dalam bajuku. Kemudian pemilik kebun tersebut datang dan memukulku, serta mengambil bajuku. Kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau berkata kepadanya: "Engkau tidak mengajarinya tatkala ia tidak mengetahui, dan engkau tidak memberinya makan tatkala ia lapar." Atau beliau berkata; saghiban (kelaparan). Beliau memerintahkan agar ia memberiku kurma dan mengembalikan pakaianku. Ia memberiku satu wasaq atau setengah wasaq makanan. Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Muhammad bin Ja'far], dari [Syu'bah], dari [Abu Bisyr] ia berkata; aku mendengar ['Abbad bin Syurahbil] yaitu seorang laki-laki dari Bani Ghubar dengan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 15 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббад ибн Шурахбиль рассказывал: «Однажды меня постиг (сильный) голод и я вошёл в один из садов Медины, измельчил колос, (растущий) в нём, съел (часть зерен), а (другую часть) понёс в своей одежде. Но тут пришёл владелец сада, ударил меня и забрал мою одежду. Тогда я пришёл к Посланнику Аллаха ﷺ (и стал жаловаться, после чего он сказал) тому (человеку): “Он был невеждой, но ты не обучил его! Он испытывал голод, а ты не накормил его!” Затем (Пророк ﷺ) отдал повеление, и он вернул мне мою одежду и дал мне уаск (мера объёма) или половину уаска еды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 15 Hadith 144</td></tr></tbody></table></div>
 

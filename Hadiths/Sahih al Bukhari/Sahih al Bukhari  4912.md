@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to drink honey in the house of Zain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam bin Yusuf] dari [Ibnu Juraij] dari [Atha'] dari [Ubaid bin Umair] dari [Aisyah radliallahu 'anha] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah minum madu di kediaman Zainad binti Jahsyin dan bermalam di tempatnya. Lalu aku dan Hafshah pun bersepakat bahwa, siapa saja diantara kita yang ditemui oleh Rasulullah shallallahu 'alaihi wasallam, maka hendaklah ia berkata pada beliau, "Apakah Anda memakan buah Maghafir? Sungguh, aku mendapatkan bau Maghafir dari Anda." Maka beliau berkata, "Tidak. Akan tetapi aku hanya minum madu di tempat Zainab binti Jahsyin, namun aku tidak akan kembali lagi padanya. Dan aku telah bersumpah, dan kamu jangan menyampaikan hal itu kepada seorang pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4912</td></tr><tr><td>Arabic No</td><td>4912</td></tr><tr><td>Reference</td><td>Book 65 Hadith 432</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ часто ел мёд у Зайнаб бинт Джахш, (из-за чего) он задерживался у неё, и я сговорилась с Хафсой, что к кому бы из нас он ни пришёл, мы будем говорить ему: “Ты ел камедь, поистине, я ощущаю от тебя её запах!” (Мы так и сделали, а Пророк ﷺ) сказал (каждой из нас): “Нет, но я ел мёд у Зайнаб бинт Джахш, и я никогда больше не стану (есть его, в чём) я поклялся, а ты никому об этом не говори!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4912</td></tr><tr><td>Arabic No</td><td>4912</td></tr><tr><td>Reference</td><td>Book 65 Hadith 432</td></tr></tbody></table></div>
 

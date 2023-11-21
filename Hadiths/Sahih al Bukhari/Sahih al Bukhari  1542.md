@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:A man asked, "O Allah's Messenger (ﷺ)! What kind 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhua] bahwa ada seorang laki-laki berkata, kepada Rasulullah Shallallahu'alaihiwasallam: "Pakaian apa yang harus dikenakan oleh seorang muhrim (yang sedang berihram)?. Rasulullah shallallahu 'alaihi wasallam menjawab: "Dia tidak boleh mengenakan baju, topi (sorban), celana, mantel kecuali sesorang yang tidak memiliki sandal, dia boleh mengenakan sapatu tapi dipotongnya hingga berada dibawah mata kaki dan tidak boleh pula memakai pakaian yang diberi minyak wangi atau wewangian dari daun tumbuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1542</td></tr><tr><td>Arabic No</td><td>1542</td></tr><tr><td>Reference</td><td>Book 25 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что один человек сказал: «О Посланник Аллаха! Что должен надевать на себя (паломник, желающий) облачиться в ихрам?» И Посланник Аллаха ﷺ ответил: «Ему не следует надевать ни рубаху, ни чалму, ни брюки, ни бурнус, ни носки, если же он не найдёт сандалии, пусть оденет кожаные носки, обрезав их так, чтобы верхние края не доходили до лодыжек. И ему не следует надевать одежду, окрашенную шафраном или жёлтым деревом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1542</td></tr><tr><td>Arabic No</td><td>1542</td></tr><tr><td>Reference</td><td>Book 25 Hadith 29</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Quelqu'un dit : "Ô Envoyé de Dieu,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] serta [Ubaidullah bin Sa'id] mereka berkata; Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] Telah mengabarkan kepada kami [Sa'id bin Abu Sa'id] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam ditanya; "Siapakah menusia yang paling mulia?" beliau bersabda: "Orang yang paling bertaqwa dari mereka." para sahabat berkata; "Bukan itu yang kami tanyakan?" beliau bersabda: "Jika bukan, berarti Yusuf Nabi Allah putra Nabi Allah (Ya'qub) putra Nabi Allah (Ishaq) putra Ibrahim kekasih Allah, " para sahabat berkata; "Bukan itu yang kami tanyakan, " beliau bersabda: "Apakah tentang bangsa Arab yang kalian tanyakan?, orang yang paling baik dari mereka dimasa jahiliyyah adalah orang yang paling baik dimasa Islam, jika mereka paham Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6161</td></tr><tr><td>Arabic No</td><td>2378</td></tr><tr><td>Reference</td><td>Book 43 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6161</td></tr><tr><td>Arabic No</td><td>2378</td></tr><tr><td>Reference</td><td>Book 43 Hadith 219</td></tr></tbody></table></div>
 

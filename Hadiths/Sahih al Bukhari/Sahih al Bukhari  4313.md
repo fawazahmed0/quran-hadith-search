@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:Allah's Messenger (ﷺ) got up on the day of the Conquest of Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] katanya, Telah menceritakan kepadaku [Hasan bin Muslim] dari [Mujahid] bahwasanya Rasulullah shallallahu 'alaihi wasallam pada saat penaklukan Makkah berdiri dan berpidato: "Allah Ta'ala telah mensucikan Makkah pada hari ketika Dia mencipta langit dan bumi, maka Makkah adalah suci dengan rekomendasi kesucian Allah hingga kiamat tiba, tidak dihalalkan bagi seorangpun sebelumku maupun sesudahku, dan sama sekali tidak dihalalkan bagiku sama sekali selain hanya beberapa saat siang saja, binatangnya tak boleh diburu, durinya tak boleh dicongkel, rumputnya tak boleh dipotong, dan barang yang hilang tidak dihalalkan kecuali bagi yang mengumumkan. Lantas Abbas bin Abdul Muththalib berujar; "Selain rumput idkhir ya Rasulullah, sebab rumput itu harus dipergunakan untuk kuburan dan rumah?" Kemudian Rasulullah shallallahu 'alaihi wasallam diam dan berujar: "Bolehlah, kecuali idzkhir, sesungguhnya ia halal." Dan dari [Ibnu Juraij] telah mengabarkan kepadaku [Abdul karim] dari [Ikrimah] dari [Ibnu Abbas] dengan hadits semisal ini atau seperti ini, diriwayatkan oleh Abu Hurairah dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 64 Hadith 344</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Муджахида, что в день завоевания Мекки Посланник Аллаха ﷺ встал и сказал: «Аллах сделал Мекку запретной в тот день, когда Он создал небеса и землю, она является запретной по велению Аллаха до Судного дня, и она не была разрешённой никому до меня и не будет разрешённой никому после меня. И для меня она стала дозволенной лишь на определённое время в течение дня. В Мекке нельзя срезать кустарники, вырубать деревья, вспугивать дичь и поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям)». В это время аль-‘Аббас ибн ’Абдульмутталиб сказал: «О Посланник Аллаха! Кроме “изхира” (душистый тростник), который используют ювелиры, и мы используем его для наших домов?» Посланник Аллаха ﷺ помолчал, а затем сказал: «Кроме “изхира”, он дозволен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 64 Hadith 344</td></tr></tbody></table></div>
 

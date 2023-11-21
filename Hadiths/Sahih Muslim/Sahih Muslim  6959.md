@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported Allah's Messenger (ﷺ) as saying that Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Ja'far bin Humaid], berkata Ja'far; telah menceritakan kepada kami, dan berkata Yahya; telah mengabarkan kepada kami ['Ubaidullah bin Iyad bin Laqith] dari [Iyad] dari [Al Barra bin 'Azib] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Bagaimana pendapat kalian tentang kegembiraan seseorang yang kehilangan hewan tunggangannya ketika dia membawanya ke sebuah padang pasir yang tandus, tidak ada air minun dan tidak ada pula makanan, padahal di atas unta tersebut ada air minum dan makanan. Kemudian ia pun mencarinya hingga sangat kepayahan. Tatkala ia melewati sebatang pohon, dia menemukan hewan tersebut terikat di sana?" Maka kami mengatakan; 'Tentu orang itu sangat gembira sekali ya Rasulullah.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh Allah lebih gembira dengan taubat hambanya dari seseorang yang menemukan hewan tunggangannya kembali." Ja'far berkata; telah menceritakan kepada kami 'Ubaidullah bin Iyad dari bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6959</td></tr><tr><td>Arabic No</td><td>2746</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6959</td></tr><tr><td>Arabic No</td><td>2746</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
 

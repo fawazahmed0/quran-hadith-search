@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Anas that the Prophet (may peace blessings be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Husain al-Mu'allim] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, tidaklah seorang hamba beriman hingga dia mencintai untuk tetangganya, atau beliau mengatakan, 'untuk saudaranya sebagaimana yang ia sukai untuk dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>45.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что Пророк ﷺ сказал: «Клянусь Тем, в Чьей длани душа моя, не уверует раб (Аллаха полностью), пока не станет желать своему соседу (или он сказал: брату в исламе) того же, чего желает самому себе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>45.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
 

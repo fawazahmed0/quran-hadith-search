@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported that there was brought to Allah's Messenger (ﷺ) a sho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] sedangkan lafadznya dari Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dia berkata; aku pernah mendengar [Jabir bin Samurah] berkata, "Pada suatu hari, seorang laki-laki bertubuh pendek dihadapkan kepada Rasulullah shallallahu 'alaihi wasallam, dia terlihat kusut, dekil dan mengenakan kain sarung, Dia mengaku bahwa dirinya telah berzina, pada awalnya beliau menolak pengakuannya sampai dua kali. Setelah itu, barulah beliau memerintahkan para sahabatnya untuk merajamnya. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika kami akan berangkat perang untuk berjihad di jalan Allah, ternyata salah seorang dari kalian ada yang tidak ikut berangkat bersama kami, dia mempunyai desahan seperti desahan hewan dan memberikan sesuatu kepada salah seorang para wanita tersebut. Sekiranya Allah memberikan kesempatan kepadaku untuk berbuat sesuatu kepadanya, niscaya aku akan memberikan hukuman kepadanya sebagai pelajaran -atau akan aku kasih pelajaran-." Perawi berkata, "Kemudian hal ini aku ceritakan kepada [Sa'id bin Jubair] maka dia berkata, "Beliau menolaknya sampai empat kali." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Syababah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami [Abu 'Amir Al 'Aqdi] keduanya dari [Syu'bah] dari [Simak] dari [Jabir bin Samurah] dari Nabi shallallahu 'alaihi wasallam seperti hadits Ibnu Ja'far. [Syababah] juga sepakat mengenai perkataannya, "Maka beliau menolaknya sampai dua kali." Sedangkan dalam hadits Abu 'Amir disebutkan, "Maka beliau menolaknya dua kali atau tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4425</td></tr><tr><td>Arabic No</td><td>1692.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4425</td></tr><tr><td>Arabic No</td><td>1692.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 28</td></tr></tbody></table></div>
 

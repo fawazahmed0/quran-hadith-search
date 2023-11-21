@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama b. Zaid (Allah be pleased with him) reported:Allah's Messenger (ﷺ) on hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Yahya bin Sa'id] dari [Musa bin Uqbah] Maula Az Zubair, dari [Kuraib] Maula Ibnu Abbas, dari [Usamah bin Zaid] ia berkata; Rasulullah shallallahu 'alaihi wasallam beranjak dari Arafah. Dan setelah sampai di suatu bukit, beliau pergi untuk buang hajat. Sesudah itu, aku pun menuangkan air untuk beliau. Lalu aku bertanya, "Apakah Anda akan menunaikan shalat?" maka beliau menjawab: "Tempat shalat masih di depanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3100</td></tr><tr><td>Arabic No</td><td>1280.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3100</td></tr><tr><td>Arabic No</td><td>1280.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 305</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:A woman came to the Prophet (ﷺ) and said, "I have come to presen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdul Aziz bin Abdul Abu Hazim] dari [Ayahnya] bahwa dia mendengar [Sahl] berkata; seorang wanita datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; "Saya datang kepada anda untuk menyerahkan diriku kepada anda, " Beliau lalu berdiri lama dan menelitinya dengan seksama, ketika beliau berdiri lama seorang laki-laki berkata; 'Wahai Rasulullah, jika anda tidak berkenan dengannya, maka nikahkanlah aku dengannya.' Rasulullah shallallahu 'alaihi wasallam bertanya kepada laki-laki tersebut: 'Apakah kamu mempunyai sesuatu yang dapat dijadikan mahar untuknya? ' Laki-laki itu menjawab; 'Tidak.' Beliau bersabda: 'Carilah terlebih dahulu.' Lalu laki-laki itu pergi, sesaat kemudian dia kembali dan berkata; 'Demi Allah, aku tidak mendapatkan sesuatupun.' Beliau bersabda: 'Pergi dan carilah lagi walaupun hanya dengan cincin dari besi.' Kemudian laki-laki itu pergi, tidak berapa lama dia kembali sambil berkata; 'Aku tidak mendapatkan apa-apa walau cincin dari besi.' -Saat itu laki-laki tersebut tengah mengenakan kain sarung, lantas dia berkata; 'Aku akan menjadikan kain sarung ini sebagai mahar.' Maka Nabi shallallahu 'alaihi wasallam bersabda: 'Jika kamu memakaikan kain sarung itu padanya, maka kamu tidak memakai apa-apa, sementara jika kamu yang memakai sarung tersebut, dia tidak memakai apa-apa.' Laki-laki itu duduk termenung, ternyata Nabi shallallahu 'alaihi wasallam melihatnya berpaling, lalu beliau memerintahkan seseorang untuk memanggilnya, maka dipanggilah laki-laki tersebut, beliau bertanya: 'Apakah kamu mempunyai hafalan dari Al Qur'an? ' Laki-laki itu menjawab; 'Ya, saya telah hafal surat ini dan ini.' Lalu beliau bersabda: 'Maka aku nikahkan kamu dengan wanita itu, dengan mahar apa yang telah engkau hafal dari surat Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5871</td></tr><tr><td>Arabic No</td><td>5871</td></tr><tr><td>Reference</td><td>Book 77 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д рассказывал: «Однажды одна из женщин пришла к Пророку ﷺ и сказала: “Я пришла для того, чтобы подарить тебе саму себя”. После этого она ещё долго стояла, а Посланник Аллаха ﷺ взглянул на неё, поднял свой взор, затем опустил его, после чего опустил свою голову. После того, как простояла так довольно долго, один человек сказал: “Если у тебя нет в ней нужды, то выдай её замуж за меня”. Услышав это, Пророк ﷺ сказал: “Есть ли у тебя что-нибудь, что ты мог бы выдать ей в качестве брачного дара?” — на что мужчина ответил: “Нет”. Тогда Пророк ﷺ сказал: “(Отправляйся и) поищи (что-нибудь)”. Мужчина ушёл, а затем вернулся и сказал: “Клянусь Аллахом, я не нашёл ничего”. Посланник Аллаха ﷺ сказал: “Иди и попробуй найти хотя бы железный перстень”. Он ушёл, а когда вернулся, сказал: “Нет, клянусь Аллахом, у меня нет даже железного кольца”. На нём был изар (вид одежды, прикрывающая нижнюю часть тела) без рида (вид одежды, прикрывающая верхнюю часть тела). Он сказал: “Я подарю ей этот изар”. На что Пророк ﷺ сказал: “Если она наденет твой изар, то ничего из этого не останется тебе, а если его наденешь ты, то ничего из твоего изара не останется ей”. Услышав это, мужчина отошёл в сторону и сел. Когда же Пророк ﷺ увидел, что он уходит, (покидая собрание,) он велел позвать его и сказал: “Что ты выучил из Корана?” — на что мужчина ответил: “Я знаю такую-то суру, такую-то и такую-то”, после чего перечислил некоторые суры. Тогда Пророк ﷺ сказал: “Я выдаю её за тебя на основании того, что ты выучил их Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5871</td></tr><tr><td>Arabic No</td><td>5871</td></tr><tr><td>Reference</td><td>Book 77 Hadith 88</td></tr></tbody></table></div>
 

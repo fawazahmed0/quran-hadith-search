@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with him) reported that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Thawus] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah melakukan perjalan pada bulan Ramadlan, beliau berpuasa hingga sampai di Usfan, kemudian beliau meminta bejana berisi minuman, lalu beliau meminumnya di siang hari agar-agar orang-orang juga melihatnya. Beliau berbukan hingga memasuki kota Makkah. Ibnu Abbas radliallahu 'anhu berkata, "Rasulullah shallallahu 'alaihi wasallam biasa berpuasa (saat dalam perjalanan) dan juga terkadang berbuka. Maka barangsiapa ingin berpuasa silahkan berpuasa dan barangsiapa ingin berbuka silahkan berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>1113.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>1113.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
 

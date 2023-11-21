@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ilyas bin Salamah(bin Al Akwa’) said on the authority of his father “We went
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad] dari [Ibnu Al Mubarak] dari [Ikrimah bin 'Ammar], dari [Iyas bin Salamah], dari [ayahnya], ia berkata; kami telah berperang bersama Abu Bakr radliallahu 'anhu pada zaman Nabi shallallahu 'alaihi wasallam, dan slogan kami adalah kata: bunuh, bunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма рассказывал: «Во время Посланника Аллаха ﷺ мы отправились в военной поход под руководством Абу Бакра, и нашим кличем были (следующие слова): “(О Аллах!) Умертви (врага)! (О Аллах!) Умертви (врага)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
 

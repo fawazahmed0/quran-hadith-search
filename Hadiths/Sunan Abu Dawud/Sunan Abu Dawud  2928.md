@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abdullah bin 'Umar:The Messenger of Allah (ﷺ) as saying: Each of you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah], dari [Malik] dari [Abdullah bin Dinar], dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam berkata: Ketahuilah bahwa setiap dari kalian adalah pemimpin dan setiap dari kalian akan dimintai pertanggung jawaban atas kepemimpinannya, seorang pemimpin umat manusia adalah pemimpin bagi mereka dan ia bertanggung jawab dengan kepemimpinannya atas mereka, seorang laki-laki adalah pemimpin bagi keluarganya dan ia bertanggung jawab atas mereka, seorang wanita adalah pemimpin bagi rumah suaminya dan anaknya, dan ia bertanggung jawab atas mereka. Seorang budak adalah pemimpin bagi harta tuannya, dan ia bertanggung jawab atasnya. Maka setiap dari kalian adalah adalah pemimpin yang bertanggung jawab atas kepemimpinannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7138) Sahih Muslim (1829)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2928</td></tr><tr><td>Arabic No</td><td>2928</td></tr><tr><td>Reference</td><td>Book 20 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Каждый из вас пастырь, и каждый из вас несёт ответственность за свою паству. Правитель пастырь для подданных и несёт ответственность за свою паству, и мужчина пастырь для своих домочадцев и несёт ответственность за свою паству, и женщина пастырь для дома мужа своего и его детей и несёт ответственность за свою паству, и раб пастырь для имущества своего хозяина и несёт ответственность за свою паству… Так что каждый из вас пастырь и несёт ответственность за свою паству»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7138) Sahih Muslim (1829)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2928</td></tr><tr><td>Arabic No</td><td>2928</td></tr><tr><td>Reference</td><td>Book 20 Hadith 1</td></tr></tbody></table></div>
 

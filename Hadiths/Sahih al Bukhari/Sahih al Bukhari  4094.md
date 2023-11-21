@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said Al-Qunut after Bowing (i.e. Ar-Ruku') for o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Sulaiman At Taimi] dari [Abu Mijlaz] dari [Anas] radliallahu 'anhu, dia berkata, "Nabi shallallahu 'alaihi wasallam melaksanakan qunut setelah rukuk selama sebulan, beliau mendo'akan kebinasaan terhadap Ri'l, Dzakwan, beliau bersabda: "'Ushayyah adalah kaum yang durhaka kepada Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4094</td></tr><tr><td>Arabic No</td><td>4094</td></tr><tr><td>Reference</td><td>Book 64 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В течении месяца Пророк ﷺ призывал Аллаха после поясного поклона против ри‘ль, закван и ‘усаййа, которые ослушались Аллаха и Его Посланника ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4094</td></tr><tr><td>Arabic No</td><td>4094</td></tr><tr><td>Reference</td><td>Book 64 Hadith 138</td></tr></tbody></table></div>
 

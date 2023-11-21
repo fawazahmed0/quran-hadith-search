@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya (رضي الله عنها) a dit : "Il nous était interdit de suivr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu 'Ulayyah] telah mengabarkan kepada kami [Ayyub] dari [Muhammad bin Sirin] ia berkata; [Ummu 'Athiyyah] berkata, "Kami dilarang untuk turut mengiring jenazah, tetapi (larangn itu) tidak begitu ditekankan atas kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>938.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя сказала: «Нам запрещалось провожать погребальные носилки, но не строго-настрого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>938.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
 

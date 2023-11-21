@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:Jarir said to me, The Prophet (ﷺ) said to me, "Won't you relieve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Isma'il] Telah menceritakan kepada kami [Qais] dia berkata; [Jarir] berkata kepadaku; "Rasulullah shallallahu 'alaihi wasallam berkata kepada saya: "Wahai Jarir, pimpinlah pasukan kaum muslimin ke Dzil Khalashah suatu tempat ibadah orang-orang Khats'am yang disebut Ka'bah Yamaniah." Maka aku segera berangkat bersama seratus lima puluh pasukan penunggang kuda yang tangguh. Namun pada waktu itu aku tidak bisa diam di atas kudaku. Maka beliau memukul dadaku dengan tangannya hingga aku dapat melihat bekas jari-jari beliau di dadaku. Beliau berdo'a: "Ya Allah, kokohkanlah ia dan jadikanlah dia orang yang dapat memberi petunjuk dan ditunjuki." Lalu dia berangkat kemudian menghancurkan dan membakarnya dengan api. Setelah itu Jarir mengutus seseorang untuk mengabarkan kemenangan kepada Rasulullah shallallahu 'alaihi wasallam. Setelah sampai, utusan itu berkata kepada Rasulullah; 'Tidaklah aku menemuimu kecuali aku telah meninggalkan rumah itu dalam keadaan terbakar hingga seakan-akan seekor unta berkudisan (berwarna hitam).' Maka kemudian Rasulullah memberkahi kuda-kuda yang tangguh dan para penunggangnya sebanyak lima kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4356</td></tr><tr><td>Arabic No</td><td>4356</td></tr><tr><td>Reference</td><td>Book 64 Hadith 382</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал мне: “Не избавишь ли ты меня от Зуль-Халясы?” Так назывался дом(, где было капище идолов, находившееся на землях племени) хас‘ам и именовавшееся (также) Йеменской Каабой».\n(Джарир) сказал: «И я отправился (туда с отрядом из) ста пятидесяти отличных всадников из племени ахмас. Что же касается меня, то я не мог хорошо держаться на коне, и (Пророк ﷺ) ударил меня по груди (так сильно, что) я увидел следы его пальцев у себя на груди, и сказал: “О Аллах, укрепи его и сделай его ведущим и ведомым по правильному пути! /Аллахумма, саббитху ва-дж‘альху хадийан махдийан!/”».\nПосле этого (Джарир) отправился к (этому капищу), которое он разрушил и сжёг, а потом послал к Посланнику Аллаха ﷺ (гонца) с сообщением об этом. Гонец Джарира сказал: «Клянусь Тем, Кто направил тебя с истиной, я пришёл к тебе только после того, как (это капище) уподобилось изнурённому (или: чесоточному) верблюду!»\n(Джарир, да будет доволен им Аллах,) сказал: «И (после этого Пророк ﷺ) пять раз призвал благословение на конницу и пехоту ахмаситов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4356</td></tr><tr><td>Arabic No</td><td>4356</td></tr><tr><td>Reference</td><td>Book 64 Hadith 382</td></tr></tbody></table></div>
 

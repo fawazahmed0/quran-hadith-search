@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarir reported Allah's Messenger (ﷺ) as saying:He who is deprived of tenderly 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Sa'id Al Asyaj] dan [Muhammad bin 'Abdullah bin Numair] mereka berkata; Telah menceritakan kepada kami [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Sa'id Al Asyaj]; Telah menceritakan kepada kami [Hafsh] yaitu Ibnu Ghiyats seluruhnya dari [Al A'masy] Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] dan lafazh ini milik keduanya; [Zuhair] berkata; Telah menceritakan kepada kami dan berkata [Ishaq]; Telah mengabarkan kepada kami [Jarir] dari [Al A'masy] dari [Tamim bin Salamah] dari ['Abdur Rahman bin Hilal Al 'Absi] dia berkata; Aku mendengar [Jarir] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barang siapa dijauhkan dari sifat lemah lembut (kasih sayang), berarti ia dijauhkan dari kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6599</td></tr><tr><td>Arabic No</td><td>2592.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6599</td></tr><tr><td>Arabic No</td><td>2592.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 97</td></tr></tbody></table></div>
 

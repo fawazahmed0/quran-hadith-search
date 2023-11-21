@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Samura b. Jandub reported Muhammad (ﷺ) as saying. The call of Bilal may not mi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Warits] dari [Abdullah bin Sawadah Al Qusyari] telah menceritakan kepadaku [bapakku] bahwa ia mendengar [Samurah bin Jundub] berkata; Saya mendengar Muhammad shallallahu 'alaihi wasallam bersabda: "Janganlah kalian terpedaya (untuk tidak makan sahur) oleh adzan Bilal di waktu sahur, dan jangan pula oleh cahaya putih ini hingga telah tersebar (cahayanya di ufuk)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2544</td></tr><tr><td>Arabic No</td><td>1094.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2544</td></tr><tr><td>Arabic No</td><td>1094.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 50</td></tr></tbody></table></div>
 

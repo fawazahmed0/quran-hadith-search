@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya reported:We washed her an odd number of times, i. e. three, five or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu Ulayyah] dan telah mengabarkan kepada kami [Ayyub] ia berkata, dan telah berkata [Hafshah] dari [Ummu 'Athiyyah] ia berkata; "Mandikanlah ia (puteri Rasulullah shallallahu 'alaihi wasallam) dengan bilangan ganjil, yakni tiga, lima atau tujuh kali." Ummu 'Atyhiyyah juga berkata, "Dan kami memintal rambutnya menjadi tiga pintalan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2172</td></tr><tr><td>Arabic No</td><td>939.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса говорится: «Обмойте её нечётное количество раз: трижды, или пять раз, или семь раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2172</td></tr><tr><td>Arabic No</td><td>939.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 50</td></tr></tbody></table></div>
 

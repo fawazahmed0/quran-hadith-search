@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Zuhri, explaining the verse "For this you made no expedition with either cava
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Ibnu Tsaur] dari [Ma'mar] dari [Az Zuhri] mengenai firman Allah: "Maka untuk mendapatkan itu kamu tidak mengerahkan seekor kudapun dan (tidak pula) seekor untapun." Ia berkata; Rasulullah shallallahu 'alaihi wasallam telah membuat kesepatakan dengan orang-orang Fadak dan berbagari kota yang telah beliau sebutkan dan tidak aku hafal, dan beliau mengepung kaum yang lain. Kemudian mereka mengirimkan utusan kepada beliau dengan membawa perjanjian perdamaian. Allah berfirman: "Maka untuk mendapatkan itu kamu tidak mengerahkan seekor kudapun dan (tidak pula) seekor untapun." Ia berkata; yaitu tanpa berperang. Az Zuhri berkata; Harta Bani Nadhir adalah khusus untuk Nabi shallallahu 'alaihi wasallam. Mereka tidak menundukkannya dengan kekerasan, mereka menundukkannya dengan perjanjian damai. Kemudian Nabi shallallahu 'alaihi wasallam membaginya diantara orang-orang muhajirin dan tidak memberi orang-orang anshar kecuali dua orang yang membutuhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2971</td></tr><tr><td>Arabic No</td><td>2971</td></tr><tr><td>Reference</td><td>Book 20 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аз-Зухри сказал о словах Всевышнего «К добыче, которую Аллах даровал Своему посланнику, вы не скакали рысью ни на конях, ни на верблюдах» (сура 59 «аль-Хашр», аят 6): «Пророк ﷺ заключил мир с жителями Фадака и я не запомнил названия селений, которые он назвал а в это время он осаждал других, и они запросили мира. “К добыче, которую Аллах даровал Своему Посланнику, вы не скакали рысью ни на конях, ни на верблюдах” (сура 59 «аль-Хашр», аят 6), то есть она досталась вам без боя». Аз-Зухри сказал, что имущество бану ан-надыр принадлежало только Пророку ﷺ поскольку досталось мусульманам без боя, мирным путём, и Пророк ﷺ разделил его между мухаджирами и ничего не дал ансарам, за исключением двух нуждающихся из их числа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2971</td></tr><tr><td>Arabic No</td><td>2971</td></tr><tr><td>Reference</td><td>Book 20 Hadith 44</td></tr></tbody></table></div>
 

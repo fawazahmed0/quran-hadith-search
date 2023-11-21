@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with both of them) reported that Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] yakni Ibnu Abdul Majid, telah menceritakan kepada kami [Ja'far] dari [bapaknya] dari [Jabir bin Abdullah] radliallahu 'anhuma, bahwa pada tahun Fathu Makkah (pembebasan kota Mekkah) Rasulullah shallallahu 'alaihi wasallam keluar menuju Makkah, yakni tepatnya pada bulan Ramadhan. Saat itu, beliau berpuasa hingga sampai di Kura' Al Ghamim, dan para sahabat pun ikut berpuasa. Kemudian beliau meminta segayung air, lalu beliau mengangkatnya hingga terlihat oleh para sahabat kemudian beliau meminumnya. Setelah itu dikatakanlah kepada beliau, "Sesungguhnya sebahagian sahabat ada yang terus berpuasa." Maka beliau bersabda: "Mereka adalah orang-orang yang bermaksiat (kepadaku), mereka adalah orang-orang yang bermaksiat (kepadaku)." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] yakni Ad Darawardi, dari [Ja'far] dengan isnad ini, dan ia menambahkan; Lalu dikatakan kepada beliau; "Sebenarnya orang-orang merasa berat untuk melaksanakan puasa, tapi berhubung mereka melihat Tuan melaksanakannya maka merekapun berpuasa." Akhirnya beliau meminta segayung air setelah shalat 'Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2610</td></tr><tr><td>Arabic No</td><td>1114.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2610</td></tr><tr><td>Arabic No</td><td>1114.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 116</td></tr></tbody></table></div>
 

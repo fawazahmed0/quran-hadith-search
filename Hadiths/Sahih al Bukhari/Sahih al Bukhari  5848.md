@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) was of a modest height. I saw him wearing a r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia mendengar [Al Barra'] radliallahu 'anhu berkata; "Rasulullah shallallahu 'alaihi wasallam adalah seorang laki-laki yang berperawakan sedang (tidak tinggi dan tidak pendek), saya melihat beliau mengenakan pakaian merah, dan saya tidak pernah melihat orang yang lebih bagus dari beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5848</td></tr><tr><td>Arabic No</td><td>5848</td></tr><tr><td>Reference</td><td>Book 77 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Пророк ﷺ был среднего роста. (Однажды) я увидел его в одежде красного цвета, и не приходилось мне видеть никого приятнее (на вид), чем он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5848</td></tr><tr><td>Arabic No</td><td>5848</td></tr><tr><td>Reference</td><td>Book 77 Hadith 65</td></tr></tbody></table></div>
 

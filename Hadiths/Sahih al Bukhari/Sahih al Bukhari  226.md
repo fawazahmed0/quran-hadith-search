@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:Abu Musa Al-Ash'ari used to lay great stress on the question o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] berkata, telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Abu Wa'il] ia berkata, "Abu Musa Al Asy'ari sangat berlebihan dalam urusan kencing, ia berkata, "Jika Bani Israil kencing lalu mengenai pakaiannya, maka mereka memotong pakaiannya." Maka [Hudzaifah] pun berkata, "Aku tidak setuju! Sebab Nabi shallallahu 'alaihi wasallam pernah kencing sambil berdiri di tempat pembuangan sampah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>226</td></tr><tr><td>Arabic No</td><td>226</td></tr><tr><td>Reference</td><td>Book 4 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ваиль сказал: «Абу Муса аль-Аш‘ари очень строго относился (к вопросу) справления малой нужды и говорил: “Поистине, когда на одежду кого-то из сынов Исраиля попадала моча, он вырезал (это место)”. Тогда Хузайфа сказал: “О, если бы он удержался от этого! (Однажды) Посланник Аллаха ﷺ пришёл в место, куда люди сбрасывали мусор, и справил малую нужду стоя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>226</td></tr><tr><td>Arabic No</td><td>226</td></tr><tr><td>Reference</td><td>Book 4 Hadith 92</td></tr></tbody></table></div>
 

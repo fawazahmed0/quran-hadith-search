@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sawayd Ibn Ghafala (que Dieu l'agrée) a dit : J'ai entendu l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan [Abdullah bin Sa'id Al Asyaj] dari [Waki'] - [Al Asyajj] berkata- Telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Khaitsamah] dari [Suwaid bin Ghafalah] ia berkata, [Ali] berkata; Jika aku menceritakan suatu hadits dari Rasulullah shallallahu 'alaihi wasallam, maka lebih baik aku dilemparkan dari langit, daripada aku mengatakan sesuatau yang belum pernah diungkapkan oleh Rasululllah shallallahu 'alaihi wasallam. Dan jika aku menceritakan sesuatu antara aku dan kalian, hal itu karena memang peperangan adalah tipu daya. Aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Di akhir zaman nanti, akan mucul suatu kaum yang umur mereka masih muda belia dan akal mereka pun masih bodoh. Mereka mengatakan sesuatu yang baik (namun untuk tujuan keburukan). Mereka juga membaca Al Qur'an, namun tidak sampai melewati batas kerongkongan. Mereka keluar dari Din Islam sebagaimana meluncurnya anak panah dari busurnya. Maka jika kalian menjumpai mereka, perangilah. Karena bagi yang membunuh mereka akan mendapatkan pahala di sisi Allah pada hari kiamat nanti." Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] Telah mengabarkan kepada kami [Isa bin Yunus] -dalam jalur lain- Dan Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] dan [Abu Bakar bin Nafi'] keduanya berkata, Telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Sufyan] keduanya dari [Al A'masy] dengan isnad ini semisalnya. Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] -dalam jalur lain- Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Zuhari bin Nafi'] mereka berkata, Telah menceritakan kepada kami [Abu Mu'awiyah] keduanya dari [Al A'masy] dengan Isnad ini, dan di dalam hadits keduanya tidak terdapat ungkapan; "Mereka keluar dari Din Islam sebagaimana meluncurnya anak panah dari busurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2462</td></tr><tr><td>Arabic No</td><td>1066.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сувайд ибн Гафля сказал: (Однажды) ‘Али, да будет доволен им Аллах, сказал: «Когда я передаю вам что-нибудь о Посланнике Аллаха ﷺ (знайте, что) я предпочитаю падение с неба (на землю) чем говорить то, что он не говорил, когда же я говорю о том, что касается только меня и вас, (то знайте, что) война это обман. Я слышал, как Посланник Аллаха ﷺ говорил: “В последние времена появятся люди молодые в годах, бестолковые в умах, которые станут произносить слова лучших созданий. Они будут читать Коран, но он не будет проходить дальше их горла, и они отойдут от ислама подобно выпущенной из лука стреле. И если вы встретите (таких), убивайте их, ибо, поистине, в День воскрешения Аллах вознаградит того, кто их убьёт”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2462</td></tr><tr><td>Arabic No</td><td>1066.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 199</td></tr></tbody></table></div>
 

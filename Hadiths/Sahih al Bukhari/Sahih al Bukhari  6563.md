@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:The Prophet (ﷺ) mentioned the Fire and turned his face
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6563</td></tr><tr><td>Arabic No</td><td>6563</td></tr><tr><td>Reference</td><td>Book 81 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Ади ибн Хатима, что однажды Пророк ﷺ упомянул об Аде, после чего отвернул лицо в сторону и прибег к Аллаху за защитой от него. Затем снова упомянул об Аде, после чего отвернул лицо в сторону и прибег к Аллаху за защитой от него, а затем сказал: «Защитите себя от огня хотя бы с помощью половинки финика, а если не найдёт и этого, то — с помощью доброго слова!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6563</td></tr><tr><td>Arabic No</td><td>6563</td></tr><tr><td>Reference</td><td>Book 81 Hadith 152</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said that your Lord said, "Every (sinful)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muhammad bin Ziyad] berkata, aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, yang beliau riwayatkan dari Rabb kalian: "Setiap amalan adalah kaffarat dosa, sedang puasa adalah bagi-Ku dan Aku lah yang akan memberinya pahala. Sungguh, bau mulut orang yang berpuasa jauh lebih wangi di sisi Allah daripada minyak kesturi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7538</td></tr><tr><td>Arabic No</td><td>7538</td></tr><tr><td>Reference</td><td>Book 97 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ передал от Господа: «Для каждого (грешного) деяния есть искупление, а пост (соблюдается) для Меня и Я воздам за него. Запах, который исходит изо рта постящегося приятнее перед Аллахом, чем благоухание мускуса!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7538</td></tr><tr><td>Arabic No</td><td>7538</td></tr><tr><td>Reference</td><td>Book 97 Hadith 163</td></tr></tbody></table></div>
 

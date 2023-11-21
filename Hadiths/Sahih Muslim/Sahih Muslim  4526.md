@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), le Prophète (paix et bénédiction de Dieu s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Sa'id bin Abu Burdah] dari [ayahnya] dari [kakeknya], bahwa Nabi shallallahu 'alaihi wasallam pernah mengutus kakeknya dan Mu'adz ke negeri Yaman, maka beliau bersabda: "Hendaklah kalian mudahkan dan jangan persulit, beri kabar gembira dan jangan membuat orang lari, saling patuhlah kalian berdua dan jangan saling bersengketa." Dan telah menceritakan kepada kami [Muhammad bin 'Abbad] telah menceritakan kepada kami [Sufyan] dari ['Amru]. Dan di diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Khalaf] dari [Zakaria bin 'Adi] telah mengabarkan kepada kami ['Ubaidullah] dari [Zaid bin Abu Unaisah] keduanya dari [Sa'id bin Abu Burdah] dari [ayahnya] dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam, seperti hadits Syu'bah, namun dalam hadits Zaid bin Abu Unaisah tidak disebutkan, 'Saling patuhlah kalian berdua dan jangan berselisih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4526</td></tr><tr><td>Arabic No</td><td>1733.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4526</td></tr><tr><td>Arabic No</td><td>1733.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 7</td></tr></tbody></table></div>
 

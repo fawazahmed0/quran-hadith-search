@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yahya b. Umayya said:I told 'Umar b. al-Khattab that Allah had said:" You may sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim]. Ishaq mengatakan; telah mengabarkan kepada kami, sedangkan yang lainnya mengatakan; telah menceritakan kepada kami [Abdullah bin Idris] dari [Ibnu Juraij] dari [Ibnu Abu Ammar] dari [Abdullah bin Babaihi] dari [Ya'la bin 'Umayyah], katanya; "Aku berkata kepada [Umar bin Khattab] mengenai ayat yang berbunyi Tak ada dosa atasmu meng-qashar shalat, jika kamu khawatir terhadap orang-orang kafir yang hendak memberi cobaan kepadamu." QS. Annisa'; 101, sementara manusia saat ini dalam kondisi aman (maksudnya tidak dalam kondisi perang)." Umar menjawab; "Sungguh aku juga pernah penasaran tentang ayat itu sebagaimana kamu penasaran, lalu aku tanyakan kepada Rasulullah shallallahu 'alaihi wasallam tentang ayat tersebut, beliau lalu menjawab: "Itu (mengqashar shalat) adalah sedekah yang Allah berikan kepada kalian. Oleh karena itu, terimalah sedekah-Nya." Dan telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami], telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] katanya; telah menceritakan kepadaku [Abdurrahman bin Abdullah bin Abu 'Ammar] dari [Abdullah bin Babaihi], dari [Ya'la bin 'Umayyah] katanya; Aku pernah bertanya kepada [Umar bin Khatthab] semisal hadis Ibnu Idris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1573</td></tr><tr><td>Arabic No</td><td>686.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Я’ля ибн Умайя сказал: «(Однажды, разговаривая) с ‘Умаром ибн аль-Хаттабом, я (прочитал аят, в котором говорится): “Если же, странствуя по земле, вы убоитесь, что те, которые не веруют, подвергнут вас испытанию, и будете сокращать молитву, то не (понесёте бремя) греха”, (и сказал ему): “Но ведь сейчас люди находятся в безопасности”. (В ответ мне) он сказал: “(Когда-то и) я удивился тому же, что удивило тебя, и спросил об этом Посланника Аллаха ﷺ, на что он сказал: “(Это) милостыня /садака/, которую подал вам Аллах, так примите же Его милостыню!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1573</td></tr><tr><td>Arabic No</td><td>686.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 4</td></tr></tbody></table></div>
 

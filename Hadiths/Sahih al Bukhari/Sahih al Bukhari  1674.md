@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Aiyub Al-Ansari:Allah's Messenger (ﷺ) offered the Maghrib and 'Is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada kami [Sulaiman bin Bilal] telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah mengabarkan kepada saya ['Adiy bin Tsabit] berkata, telah menceritakan kepada saya ['Abdullah bin Yazid Al Khaththomiy] berkata, telah menceritakan kepada saya [Abu Ayyub Al Anshariy] bahwa Rasulullah Shallallahu'alaihiwasallam menjama' shalat Maghrib dan 'Isya' ketika hajji wada' di Muzdalifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>1674</td></tr><tr><td>Reference</td><td>Book 25 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Аюба аль-Ансари, что во время прощального хаджа, Посланник Аллаха ﷺ объединил молитву магъриб с ‘иша в Муздалифе
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>1674</td></tr><tr><td>Reference</td><td>Book 25 Hadith 154</td></tr></tbody></table></div>
 

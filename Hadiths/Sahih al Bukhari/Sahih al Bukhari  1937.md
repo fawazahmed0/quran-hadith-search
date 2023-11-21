@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet (ﷺ) and said, "I had sexual int
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Az Zuhriy] dari [Humaid bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] (berkata): "Datang seorang laki-laki kepada Nabi shallallahu 'alaihi wasallam lalu berkata: "Ada seseorang yang berhubungan dengan isterinya pada siang hari Ramadhan". Beliau bertanya: "Apakah kamu memiliki budak untuk kamu bebaskan?" Orang itu menjawab: "Tidak". Lalu Beliau bertanya lagi: "Apakah kamu sanggup bila harus berpuasa selama dua bulan berturut-turut?" Orang itu menjawab: "Tidak". Lalu Beliau bertanya lagi: "Apakah kamu memiliki makanan untuk diberikan kepada enam puluh orang miskin?" Orang itu menjawab: "Tidak". Kemudian Nabi shallallahu 'alaihi wasallam diberikan satu keranjang berisi kurma, keranjang besar yang biasa untuk menampung sampah, lalu Beliau berkata: "Berilah makan orang lain dengan kurma ini". Orang itu berkata: "Apakah ada orang yang lebih membutuhkan dari kami? Tidak ada keluarga yang tinggal diantara dua perbatasan yang lebih membutuhkan bantuan daripada kami". Maka Beliau berkata: "Kalau begitu berilah makan keluargamu dengan kurma ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1937</td></tr><tr><td>Arabic No</td><td>1937</td></tr><tr><td>Reference</td><td>Book 30 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что один мужчина пришёл к Пророку ﷺ и рассказал о том, что один человек вступил в половую близость с женой (днём) в рамадане. Пророк ﷺ спросил: “Можешь ли ты освободить раба?” Тот сказал: “Нет”. Он спросил: “А сможешь ли ты поститься два месяца подряд?” Тот сказал: “Нет”. Пророк ﷺ спросил: “А сможешь ли ты накормить шестьдесят бедняков?” Тот сказал: “Нет”. В это время Пророку ﷺ принесли корзину с финиками. Тогда он сказал: “Возьми это и раздай в качестве милостыни”. Этот человек сказал: “ (Должен ли я раздать это) тем, кто беднее меня? Нет в пределах Медины семьи беднее моей!” Тогда Посланник Аллаха ﷺ сказал: “Накорми ими свою семью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1937</td></tr><tr><td>Arabic No</td><td>1937</td></tr><tr><td>Reference</td><td>Book 30 Hadith 44</td></tr></tbody></table></div>
 

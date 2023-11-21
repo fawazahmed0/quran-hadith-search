@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:BY Allah, I remember the Messenger of Allah (ﷺ) standing on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Urwah bin Zubair] ia berkata, [Aisyah] berkata; "Saya melihat Rasulullah shallallahu 'alaihi wasallam berdiri di pintu kamarku, sementara orang-orang Habasyah sedang bermain tombak di masjid Rasulullah shallallahu 'alaihi wasallam, maka beliau menutupiku dengan kainnya agar aku dapat melihat permainan mereka. Kemudian beliau berdiri (agar aku lebih leluasa melihat), sampai saya sendiri yang berhenti (setelah bosan) melihatnya. Karena itu, berilah keleluasaan kepada anak-anak wanita untuk bermain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2064</td></tr><tr><td>Arabic No</td><td>892.04</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Клянусь Аллахом, я видела, как Посланник Аллаха ﷺ стоял у дверей моей комнаты, прикрывая меня своей накидкой /рида/, пока я смотрела на то, как эфиопы играли своими копьями в мечети Посланника Аллаха ﷺ. И он продолжал стоять из-за меня, пока мне не наскучило (смотреть). Поэтому считайтесь с молодыми девочками, которые любят играться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2064</td></tr><tr><td>Arabic No</td><td>892.04</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
 

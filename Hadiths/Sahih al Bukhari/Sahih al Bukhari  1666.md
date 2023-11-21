@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Usama was asked in my presence, "How was the speed of (the camel 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya], berkata; [Usamah] ditanya saat aku duduk disisinya: "Bagaimana dahulu Rasulullah Shallallahu'alaihiwasallam berjalan saat hajji wada' ketika bertolak dari 'Arafah?" Dia menjawab: "Beliau berjalan dengan 'anaq (makna 'anaq, sedang, tidak lambat tidak cepat) dan apabila sampai di daerah dataran yang luas Beliau berjalan dengan nashsh. Hisyam berkata: istilah nash adalah lebih cepat daripada 'anaq. Abu 'Abdullah Al Bukhariy berkata: makna fajwat adalah dataran yang luas, jama'nya fajawaat atau fijaa'. seperti kata rikwat jamaknya rika'. Dan manash tidak sampai makna berlari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1666</td></tr><tr><td>Arabic No</td><td>1666</td></tr><tr><td>Reference</td><td>Book 25 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Усаму бин Зейда, да будет доволен им Аллах, спросили: «Как двигался Посланник Аллаха ﷺ возвращаясь с ‘Арафата во время прощального паломничества?» (В ответ) он сказал: «Не быстро и не медленно, но если он находил свободное место, то начинал погонять верблюда сильнее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1666</td></tr><tr><td>Arabic No</td><td>1666</td></tr><tr><td>Reference</td><td>Book 25 Hadith 147</td></tr></tbody></table></div>
 

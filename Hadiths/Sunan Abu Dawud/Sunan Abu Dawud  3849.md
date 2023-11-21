@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Umamah said:When the food cloth was removed, the Messenger of Allah (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Tsaur] dari [Khalid bin Ma'dan] dari [Abu Umamah] ia berkata, "Jika selesai makan Rasulullah shallallahu 'alaihi wasallam membaca doa: 'ALHAMDULILLAAHI HAMDAN KATSIIRAN THAYYIBAN MUBAARAKAN FIIHI GHAIRA MAKFIYYIN WA LAA MUWADDA'IN WA LAA MUSTAGHNAN 'ANHU RABBUNAA (Segala puji bagi Allah, dengan pujian yang banyak, baik dan mendapatkan berkah padanya tidak cukup hanya itu, dan tidak terputus, serta senantiasa butuh kepadanya, wahai Tuhan kami)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5458)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>3849</td></tr><tr><td>Reference</td><td>Book 28 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умамы, да будет доволен им Аллах, что после того, как скатерть с едой убирали, Посланник Аллаха ﷺ обычно говорил: «Хвала Аллаху, хвала многая, благая и благословенная, хвала, которой никогда не будет достаточно, хвала, которую не следует прерывать, хвала, без которой нам не обойтись! Господь наш! /Аль-хамду ли-Лляхи кaсиран, таййибан, мубаракaн фи-хи, гайра макфийин, ва ля мувадда‘ин, ва ля мустагнан ‘ан-ху! Рабба-на!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5458)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3849</td></tr><tr><td>Arabic No</td><td>3849</td></tr><tr><td>Reference</td><td>Book 28 Hadith 114</td></tr></tbody></table></div>
 

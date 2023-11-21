@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Azhar: I saw the Messenger of Allah (ﷺ) on the mornin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al hasan bin Ali] berkata, telah menceritakan kepada kami [Utsman bin Umar] berkata, telah menceritakan kepada kami [Usamah bin Zaid] dari [Az Zuhri] dari ['Abdurrahman bin Azhar] ia berkata, "Saat aku masih kecil, dipagi hari penaklukan kota Makkah, aku melihat Rasulullah shallallahu 'alaihi wasallam bertanya kepada orang-orang di mana letak rumah Khalid bin Walid. Lalu didatangkanlah seorang peminum khamer kepada beliau, beliau lalu memerintahkan kepada orang-orang untuk menghukumnya. Maka mereka memukuli orang itu dengan apa saja yang ada di tangan mereka; di antara mereka ada yang memukul dengan pecut, tongkat dan sandal, sementara Rasulullah shallallahu 'alaihi wasallam melemparnya dengan pasir. Ketika dihadapkan seorang peminum khamer kepada Abu Bakar, maka ia bertanya kepada orang-orang bagaimana Nabi shallallahu 'alaihi wasallam memberi hukuman. Mereka lalu memeritahukan bahwa Rasulullah memukulnya sebanyak empat puluh kali, maka ia memukul (peminum itu) sebanyak empat puluh kali. Ketika Umar memerintah, Khalid Ibnul Walid menulis surat kepadanya bahwa orang-orang telah banyak minum khamer dan meremehkan hukuman hudud. Umar menjawab, "Kasus mereka terserah kamu, maka tanyakanlah kepada mereka (kaum muhajirin)." Karena di sisi Khalid banyak sahabat-sahabat Muhajirin, maka ia bertanya kepada mereka, dan mereka pun sepakat untuk mendera peminum khamer sebanyak delapan puluh kali." Ali radliallahu 'anhu berkata, "Seorang laki-laki jika minum khamer, maka ia akan mudah berdusta, maka aku berpandangan untuk menyamakan hukuman mereka dengan pelaku firyah (menuduh zina tanpa bukti)." Abu Dawud berkata, " [Uqail bin Khalid] menempatkan [Abdullah bin 'Abdurrahman Ibnul Azhar] dari [ayahnya] (sebagai sanad) dalam hadits ini berada di antara Az Zuhri dan Ibnul Azhar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн Азхара: «Утром в день покорения Мекки, будучи юношей, я видел, как Посланник Аллаха ﷺ спрашивал людей о доме Халида ибн аль-Валида. И тут к нему привели пившего вино, и он велел людям побить его тем, что у них в руках, и одни били его плетью, другие палкой, а третьи сандалиями, и Посланник Аллаха ﷺ бросил в него землёй. Позже, когда к Абу Бакру привели пившего вино, он спросил сподвижников о том, сколько ударов велел наносить таким людям Пророк ﷺ и ему ответили, что сорок, и он тоже велел наносить пившим вино сорок ударов. А когда к власти пришёл ‘Умар, Халид ибн аль-Валид написал ему, что всё больше людей пьют вино и такое наказание их не пугает. Он сказал: “Они у тебя, так спроси же их”. А при ‘Умаре находились первые мухаджиры, и он спросил их и они единогласно решили, что число ударов следует довести до восьмидесяти». Он сказал: «‘Али сказал: “Поистине, когда человек пьёт вино, он начинает клеветать, поэтому я считаю, что его наказание следует приравнять к наказанию за клевету”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
 

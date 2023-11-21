@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Kill the snake with two white lines on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ubaid bin Isma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bunuhlah ular-ular belang karena jenis ular ini dapat merabunkan penglihatan dan mengugurkan kandungan". Hadits ini diikuti pula oleh [Hammad bin Salamah] dari [Abu Usamah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 59 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: “Убивайте змей с двумя полосами на спине, ибо они могут лишить зрения и вызывают у беременных выкидыши”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 59 Hadith 116</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah said:When Allah's Messenger (may peace he upon him) delivered 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Abdul Wahhab bin Abdul Majid] dari [Ja'far bin Muhammad] dari [bapaknya] dari [Jabir bin Abdullah] ia berkata, bahwasanya; Apabila Rasulullah shallallahu 'alaihi wasallam menyampaikan khutbah, maka kedua matanya memerah, suaranya lantang, dan semangatnya berkobar-kobar bagaikan panglima perang yang sedang memberikan komando kepada bala tentaranya. Beliau bersabda: "Hendaklah kalian selalu waspada di waktu pagi dan petang. Aku diutus, sementara antara aku dan hari kiamat adalah seperti dua jari ini (yakni jari telunjuk dan jari tengah)." Kemudian beliau melanjutkan bersabda: "Amma ba'du. Sesungguhnya sebaik-baik perkataan adalah Kitabullah, sebaik-baik petunjuk adalah petunjuk Muhammad shallallahu 'alaihi wasallam. Seburuk-buruk perkara adalah perkara yang diada-adakan dan setiap bid'ah adalah sesat." Kemudian beliau bersabda: "Aku lebih utama bagi setiap muslim daripada dirinya sendiri. Karena itu, siapa yang meninggalkan harta, maka harta itu adalah miliki keluarganya. Sedangkan siapa yang mati dengan meninggalkan hutang atau keluarga yang terlantar, maka hal itu adalah tanggungjawabku." Dan telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepadaku [Sulaiman bin Bilal] telah menceritakan kepadaku [Ja'far bin Muhammad] dari [bapaknya] ia berkata; Saya mendengar [Jabir bin Abdullah] berkata; Isi khutbah Nabi shallallahu 'alaihi wasallam pada hari Jum'at adalah, beliau memuji Allah, dan membaca puji-pujian atas-Nya, kemudian berliau menyampaikan khutbah dengan suara yang lantang. Kemudian ia pun menyebutkan hadits. Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ja'far] dari [Bapaknya] dari [Jabir] berkata; Rasulullah shallallahu 'alaihi wasallam jika berkhotbah, beliau memuji Allah dan bersyukur kepadaNya kemudian beliau melanjutkan dengan kata; "Barangsiapa yang Allah memberinya petunjuk, niscaya tidak ada yang akan menyesatkannya, dan barangsiapa yang sesat, niscaya tidak ada yang menunjukinya, dan sebaik-baik perkataan adalah Kitab Allah, " kemudian hadits sebagaimana hadits Ats Tsaqafi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2005</td></tr><tr><td>Arabic No</td><td>867.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ обращался к людям с проповедями, глаза его краснели, голос становился громким, и он гневался, начиная походить на человека, который предупреждает других о приближении (вражеской) армии словами: “(Враг придёт) к вам утром!”, или: “(Враг придёт) к вам вечером!” И (Посланник Аллаха ﷺ) говорил: “Я был направлен (к людям) в то время, когда Час этот стал близок (к ним) как (близки) два этих!”, соединяя между собой указательный и средний пальцы. И он говорил: “А затем, поистине, наилучшие слова (заключает в себе) Книга Аллаха, лучшее руководство это руководство Мухаммада ﷺ худшими из дел являются дела новоизобретённые, а всякое нововведение есть заблуждение!” И он говорил также: “Я ближе к каждому верующему, чем его собственная душа, и если кто-нибудь оставит после себя какое-нибудь имущество, то (оно достанется) его семье, тот же, кто оставит после себя долг или неимущих близких, то это мне, и я должен буду (позаботиться об этом)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2005</td></tr><tr><td>Arabic No</td><td>867.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 55</td></tr></tbody></table></div>
 

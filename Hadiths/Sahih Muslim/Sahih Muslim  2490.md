@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya (رضي الله عنها) a dit : Le Prophète (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Khalid] dari [Hafshah] dari [Ummu 'Athiyyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengirimkan seekor kambing dari hasil sedekah kepadaku, lalu aku mengirim sebahagian darinya kepada 'Aisyah. Dan ketika Rasulullah shallallahu 'alaihi wasallam datang ke rumah 'Aisyah, beliau bertanya: "Apakah kalian mempunyai sesuatu untuk dimakan?" 'Aisyah menjawab, "Tidak ada, kecuali sedikit daging kambing yang telah engkau kirimkan kepadanya (Ummu 'Athiyyah)." Beliau berkata: "Ia telah menjadi halal untuk dimakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>1076</td></tr><tr><td>Reference</td><td>Book 12 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя сказала: «(Однажды) Посланник Аллаха ﷺ прислал мне овцу из (собранной) милостыни, а я отослала часть (мяса) ‘Аише. Придя к ‘Аише, Посланник Аллаха ﷺ спросил: “Найдётся ли у вас что-нибудь (поесть)?” (‘Аиша) сказала: “Нет, но Нусайба (Умм ‘Атыйя) прислала нам часть овцы, которую вы ей послали”. (Тогда Пророк ﷺ) сказал: “Поистине, (сейчас) оно на своём месте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>1076</td></tr><tr><td>Reference</td><td>Book 12 Hadith 227</td></tr></tbody></table></div>
 

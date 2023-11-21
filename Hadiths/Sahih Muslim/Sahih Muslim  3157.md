@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr b. al-'As (Allah be pleased with them) reported:Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Isa bin Thalhah At Taimi] bahwa ia mendengar [Abdullah bin Amru bin Ash] berkata; Rasulullah shallallahu 'alaihi wasallam berhenti di atas kendaraannya, lalu orang-orang pun mulai bertanya kepada beliau. Salah seorang dari mereka bertanya, "Sungguh, saya tidak mengerti, bahwa melempar jumrah itu sebelum menyembelih hewan kurban, sehingga saya menyembelih hewan kurban sebelum melontar jumrah." Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak mengapa, sekarang melontarlah." Abdullah bin Amru berkata; Orang lain mulai bertanya, "Sungguhnya saya tidak mengerti bahwa penyembelihan kurban itu sebelum mencukur rambut, sehingga saya mencukur rambut sebelum menyembelih kurban?" beliau menjawab: "Tidak mengapa, sekarang sembelihlah hewan kurbanmu." Abdullah bin Amru berkata; Pada hari itu, tidaklah aku mendengar beliau ditanya tentang sesuatu yang dilupakan atau tidak dimengerti oleh seseorang (seperti mendahulukan sebagian amalan sebelum amalan lain dan sebagainya) melainkan Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidaklah mengapa, lakukanlah itu sekarang." Telah menceritakan kepada kami [Hasan Al Hulwani] Telah menceritakan kepada kami [Ya'qub] Telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] sebagaimana hadits Yunus, dari Zuhri hingga akhir sanad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3157</td></tr><tr><td>Arabic No</td><td>1306.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 361</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3157</td></tr><tr><td>Arabic No</td><td>1306.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 361</td></tr></tbody></table></div>
 

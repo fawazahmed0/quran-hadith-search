@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shu'aib:I asked Az-Zuhri, "Did the Prophet (ﷺ) ever offer the Fear Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, Aku bertanya kepadanya, "Apakah Nabi shallallahu 'alaihi wasallam melaksanakan shalat khauf?" Ia berkata; [Salim] telah mengabarkan kepadaku bahwa ['Abdullah bin 'Umar] radliallahu 'anhuma berkata, "Aku pernah ikut suatu peperangan bersama Rasulullah shallallahu 'alaihi wasallam ke arah Najed, kami menghadap ke arah musuh dan membuat barisan untuk mereka. Rasulullah shallallahu 'alaihi wasallam lalu berdiri mengimami kami. Sekelompok orang yang bersama beliau melaksanakan shalat sementara sekelompok yang lain menghadap musuh. Nabi shallallahu 'alaihi wasallam lalu rukuk dan sujud dua kali bersama kelompok yang bersamanya, lalu mereka (kelompok yang telah shalat) bergeser menempati posisi kelompok yang belum shalat. Kemudian kelompok yang belum shalat tersebut datang dan masuk ke dalam shaf, Rasulullah shallallahu 'alaihi wasallam lalu rukuk bersama kelompok yang baru dan sujud dua kali, lalu beliau salam. Maka setiap kelompok dari kami menyelesaikan shalat mereka masing-masing dengan rukuk dan sujud dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>942</td></tr><tr><td>Arabic No</td><td>942</td></tr><tr><td>Reference</td><td>Book 12 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я был участником военного похода(, когда мы) вместе с посланником Аллаха ﷺ (направились) в сторону Неджда. Встретив врага, мы выстроились перед ним рядами, после чего Посланник Аллаха ﷺ встал, чтобы совершить молитву с нами, и вместе с ним на молитву встала часть людей, тогда как другая часть противостояла неприятелю. Вместе с теми, кто находился с ним, Посланник Аллаха ﷺ совершил один поясной и два земных поклона. Затем эти люди ушли (и заняли) места тех, кто не совершил молитву, а (не совершившие молитву) подошли к Посланнику Аллаха ﷺ, который и с ними совершил один поясной и два земных поклона, после чего произнёс слова таслима, а затем каждый из них встал и самостоятельно совершил один поясной и два земных поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>942</td></tr><tr><td>Arabic No</td><td>942</td></tr><tr><td>Reference</td><td>Book 12 Hadith 1</td></tr></tbody></table></div>
 

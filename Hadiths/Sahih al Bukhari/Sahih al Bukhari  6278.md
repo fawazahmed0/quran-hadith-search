@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim:'Alaqama went to Sham and came to the mosque and offered a two-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ja'far] telah menceritakan kepada kami [Yazid] dari [Syu'bah] dari [Mughirah] dari [Ibrahim] dari ['Alqamah] bahwa dia pernah datang ke negeri Syam. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Mughirah] dari [Ibrahim] dia berkata; [Alqamah] pernah pergi ke Syam, lalu dia masuk Masjid, shalat dua raka'at dan berdo'a; "Ya Allah, limpahkanlah kepadaku untuk mendapatkan teman yang shalih." Kemudian dia bermajelis bersama Abu Ad-Darda', Maka Abu Ad-Darda' bertanya; 'Dari manakah asalmu? ' Alqamah menjawab; 'Dari Kufah.' [Abu Ad-Darda'] berkata; 'Bukankah kalian diantara kalian terdapat orang yang mengetahui rahasia Nabi shallallahu 'alaihi wasallam yang tidak ada orang lain mengetahuinya kecuali dia, yaitu Hudzaifah? Bukankah diantara kalian terdapat juga orang yang telah Allah jauhkan dari setan melalui lisan Nabi-Nya shallallahu 'alaihi wasallam, yaitu 'Ammar? Bukankah diantara kalian terdapat juga orang yang dikenal sebagai pemilik siwak dan bantal yaitu Ibnu Mas'ud? Bagaimanakah Abdullah membaca firman Allah: ('Wal laili idzaa yaghsyaa')? Maka menjawab; 'Wadz dzkari wal untsaa.' Abu Ad-Darda' berkata; 'Masih saja orang-orang seperti itu hingga mereka membuatku ragu dengan sesuatu yang pernah aku dengar dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6278</td></tr><tr><td>Arabic No</td><td>6278</td></tr><tr><td>Reference</td><td>Book 79 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим сказал: «Прибыв в Шам, ‘Алькама вошёл в мечеть, совершил молитву в два рак‘ата и сказал: “О Аллах, помоги мне найти (праведного) собеседника!” Затем он сел с Абу-д-Дардой, и он спросил: “Откуда ты?” ‘Алькама ответил: “Я из жителей Куфы”. Он спросил: “Разве нет среди вас хранителя секретов (Пророка ﷺ), которому известно то, чего никто больше не знает?” — имея в виду Хузейфу. “Разве нет среди вас того, кого Аллах защитил (от шайтана) по просьбе Своего Пророка ﷺ?” — имея в виду ‘Аммара. “А разве нет среди вас того, кто носил (за Пророком ﷺ) зубочистку и подушку?” — имея ввиду Ибн Мас‘уда. (После этого Абу-д-Дарда) спросил: “Как ‘Абдуллах (ибн Мас‘уд) читает (суру, в которой сказано): “Клянусь ночью, когда она (всё) покрывает (мраком)…”? (Сура “аль-Лейль”, аят 1) Я прочитал: “Клянусь мужчиной и женщиной...” (Тогда Абу-д-Дарда) воскликнул: “Эти (люди) не оставляют попыток увести меня от того, что я слышал от Посланника Аллаха ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6278</td></tr><tr><td>Arabic No</td><td>6278</td></tr><tr><td>Reference</td><td>Book 79 Hadith 52</td></tr></tbody></table></div>
 

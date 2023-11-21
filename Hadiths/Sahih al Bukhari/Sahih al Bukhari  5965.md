@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) arrived at Mecca, the children of Ban
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Khalid] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Setibanya Nabi shallallahu 'alaihi wasallam di Makkah, beliau disambut anak-anak Bani Abdul Mutthalib, lalu beliau menggendong salah satu diantara mereka di depan dan yang lain di belakang beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5965</td></tr><tr><td>Arabic No</td><td>5965</td></tr><tr><td>Reference</td><td>Book 77 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Когда Пророк ﷺ прибыл в Мекку, (среди прочих) его встречали и мальчики из племени бану ‘абдульмутталиб, и он посадил одного из них в седло перед собой, а другого — позади себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5965</td></tr><tr><td>Arabic No</td><td>5965</td></tr><tr><td>Reference</td><td>Book 77 Hadith 181</td></tr></tbody></table></div>
 

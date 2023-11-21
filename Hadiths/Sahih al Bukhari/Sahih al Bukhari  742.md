@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Perform the bowing and the pros
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] berkata, Aku mendengar [Qatadah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam bersabda: "Luruskanlah dalam rukuk dan sujud. Demi Allah, aku dapat melihat kalian dari belakangku." Seakan beliau mengatakan: "Aku dapat melihat kalian dari belakangku ketika kalian rukuk dan sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>742</td></tr><tr><td>Arabic No</td><td>742</td></tr><tr><td>Reference</td><td>Book 10 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малик, да будет доволен им Аллах, что Пророк ﷺ сказал: «Совершайте поясные и земные поклоны полноценно, ибо, клянусь Аллахом, поистине, я вижу вас за собой — возможно, что он сказал: за своей спиной, когда вы совершаете поясные и земные поклоны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>742</td></tr><tr><td>Arabic No</td><td>742</td></tr><tr><td>Reference</td><td>Book 10 Hadith 136</td></tr></tbody></table></div>
 

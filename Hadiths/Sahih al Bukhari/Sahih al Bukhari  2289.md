@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa: Once, while we were sitting in the company of Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] telah menceritakan kepada kami [Yazid bin Abi 'Ubaid] dari [Salamah bin Al Akwa' radliallahu 'anhu] berkata: "Kami pernah duduk bermajelis dengan Nabi shallallahu 'alaihi wasallam ketika dihadirkan kepada Beliau satu jenazah kemudian orang-orang berkata: "Shalatilah jenazah ini". Maka Beliau bertanya: "Apakah orang ini punya hutang?" Mereka berkata: "Tidak". Kemudian Beliau bertanya kembali: "Apakah dia meninggalkan sesuatu?" Mereka menjawab: "Tidak". Akhirnya Beliau menyolatkan jenazah tersebut. Kemudian didatangkan lagi jenazah lain kepada Beliau, lalu orang-orang berkata: "Wahai Rasulullah shallallahu 'alaihi wasallam, holatilah jenazah ini". Maka Beliau bertanya: "Apakah orang ini punya hutang?" Dijawab: "Ya". Kemudian Beliau bertanya kembali: "Apakah dia meninggalkan sesuatu?" Mereka menjawab: "Ada, sebanyak tiga dinar". Maka Beliau bersabda: "Shalatilah saudaramu ini". Berkata, Abu Qatadah: "Shalatilah wahai Rasulullah, nanti hutangnya aku yang menanggungnya". Maka Beliau shallallahu 'alaihi wasallam menyolatkan jenazah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2289</td></tr><tr><td>Arabic No</td><td>2289</td></tr><tr><td>Reference</td><td>Book 38 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салама бин аль-Аква‘, да будет доволен им Аллах, сказал: «(Однажды, когда) мы сидели у Пророка ﷺ (люди) принесли к нему носилки с покойником и попросили: “Помолись за него”. (Пророк ﷺ) спросил: “Остались ли у него долги?” (Люди) ответили: “Нет”. Он спросил: “А оставил ли он что-нибудь?” Они ответили: “Нет”, и (Пророк ﷺ) совершил по нему молитву. Потом (люди) принесли другого покойника и сказали: “О Посланник Аллаха, помолись за него”. (Пророк ﷺ) спросил: “Остались ли у него долги?” (Люди) ответили: “Да”. Он спросил: “А оставил ли он что-нибудь?” (Люди) ответили: “Три динара”, и (Пророк ﷺ) совершил молитву по (покойному. Через некоторое время) принесли третьи (носилки и люди снова) обратились (к Пророку ﷺ с просьбой): “Помолись за него”. (Пророк ﷺ) спросил: “Оставил ли он что-нибудь?” Люди ответили: “Нет”. (Пророк ﷺ) спросил: “А есть ли у него долги?” Они ответили: “(Он остался должен) три динара”, (и тогда Пророк ﷺ) сказал: “Помолитесь вы за своего товарища”. (Услышав это,) Абу Катада сказал: “Помолись за него ты, о Посланник Аллаха, а я обязуюсь оплатить его долги”, и (Пророк ﷺ) совершил за него заупокойную молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2289</td></tr><tr><td>Arabic No</td><td>2289</td></tr><tr><td>Reference</td><td>Book 38 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: Alqamah and al-Aswad sought permission from Abdull
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Harun bin 'Antarah] dari [Abdurrahman bin Al-Aswad] dari [Ayahnya] dia berkata; Alqamah dan Al-Aswad pernah meminta izin untuk berkunjung ke rumah [Abdullah bin Mas'ud], kami telah lama duduk menunggu di depan pintunya. Tidak lama kemudian keluar seorang gadis, lalu memohonkan izin untuk kedua orang ini, maka beliau (Abdullah) mengizinkan keduanya. Kemudian Abdullah berdiri mengerjakan shalat antara saya dan Alqamah, setelah itu dia berkata; Demikianlah saya melihat Rasulullah shallallahu 'alaihi wasallam mengerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>613</td></tr><tr><td>Arabic No</td><td>613</td></tr><tr><td>Reference</td><td>Book 2 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абду-р-Рахмана ибн аль-Асуада, который со слов своего отца (аль-Асуада ибн Язид ибн Къайс) расссказывал: «(Однажды) ‘Алькъама (ибн Къайс ан-Наха‘и) и аль-Асуад ожидали разрешения войти к ‘Абдулле (ибн Мас‘уду), и мы долго ждали, сидя у его двери. Затем вышла его служанка и попросила для них разрешения войти и он разрешил им (войти). Затем (Ибн Мас‘уд) встал и совершил молитву, (встав) между мной и им, после чего сказал: “Я видел, как таким образом поступил Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>613</td></tr><tr><td>Arabic No</td><td>613</td></tr><tr><td>Reference</td><td>Book 2 Hadith 223</td></tr></tbody></table></div>
 

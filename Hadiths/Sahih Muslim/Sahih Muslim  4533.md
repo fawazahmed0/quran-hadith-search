@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullah Ibn Mas'oûd (que Dieu l'agrée), le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Ibnu Abu 'Adi]. (dalam riwayat lain disebutkan) Telah menceritakan kepadaku [Bisyr bin Khalid] telah mengabarkan kepada kami [Muhammad] -yaitu Ibnu Ja'far- keduanya dari [Syu'bah] dari [Sulaiman] dari [Abu Wa'il] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Di hari Kiamat kelak setiap pengkhianat akan senantiasa mengibarkan benderanya masing-masing, dikatakan, 'Ini adalah bendera pengkhianatan fulan'." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [An Nadlr bin Syumail]. (dalam riwayat lain disebutkan) Telah menceritakan kepadaku [Ubaidullah bin Sa'id] telah menceritakan kepada kami [Abdurrahman] semuanya dari [Syu'bah] dengan isnad ini, namun dalam hadits Abdurrahman tidak disebutkan, 'Ini adalah bendera pengkhianatan si fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4533</td></tr><tr><td>Arabic No</td><td>1736.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абдуллаха (ибн Мас‘уда, да будет доволен им Аллах,) что Пророк ﷺ сказал: «В День воскресения у каждого вероломного окажется знамя, и будет сказано: “Это вероломство такого-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4533</td></tr><tr><td>Arabic No</td><td>1736.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 14</td></tr></tbody></table></div>
 

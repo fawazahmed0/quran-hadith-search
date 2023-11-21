@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Rafi':The Prophet (ﷺ) said, "The neighbor has more right to be ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Maisarah] dari [Amru bin Syarid] dari [Abu Rafi'] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "tetangga lebih berhak terhadap dinding rumahnya." Sebagian orang berpendapat; jika seseorang membeli rumah seharga dua puluh ribu dirham, tidak mengapa baginya untuk mencari siasat dengan cara membeli rumah dengan harga dua puluh ribu dirham, dan membayarkannya sembilan ribu sembilan ratus sembilan puluh sembilan dirham, dan ia membayarnya dengan satu dinar sebagai pembayaran sisa dua puluh ribu dirham. Lantas jika ada orang yang membelinya lagi (penjual pertama), maka ia (pembeli pertama) mengharuskan pembayaran dua puluh ribu dirham penuh, jika tidak, ia tidak berhak menempati rumah tersebut. Jika rumah diminta secara paksa, maka si pembeli pertama mengembalikan uang yang pernah dibayarkan yaitu sebanyak sembilan ribu sembilan ratus sembilan puluh sembilan dirham dirham dan satu dinar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6980</td></tr><tr><td>Arabic No</td><td>6980</td></tr><tr><td>Reference</td><td>Book 90 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Рафи’а, что Пророк ﷺ сказал: «Сосед имеет больше прав на то, что прилегает к его участку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6980</td></tr><tr><td>Arabic No</td><td>6980</td></tr><tr><td>Reference</td><td>Book 90 Hadith 27</td></tr></tbody></table></div>
 

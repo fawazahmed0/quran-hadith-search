@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Ja'a'far reported that when Allah's Messenger (ﷺ) came back from a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdur Rahim bin Sulaiman] dari ['Ashim]; Telah menceritakan kepadaku [Muwarriq]; Telah menceritakan kepadaku ['Abdullah bin Ja'far] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam tiba dari suatu perjalanan, biasanya beliau menemui kami terlebih dahulu dia juga berkata; pernah beliau menemui saya, Hasan ataupun Husein. Kemudian beliau menaikan salah seorang dari kami di depan beliau dan yang lainnya di belakang beliau hingga kami memasuki Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6269</td></tr><tr><td>Arabic No</td><td>2428.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6269</td></tr><tr><td>Arabic No</td><td>2428.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 99</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A silken cloak was presented to the Prophet (ﷺ) and he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad Al Ju'fiy] telah bercerita kepada kami [Yunus bin Muhammad] telah bercerita kepada kami [Syaiban] dari [Qatadah] telah bercerita kepada kami [Anas radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam dihadiahi baju jubah terbuat dari sutera tipis padahal sebelumnya Beliau pernah melarang memakai sutera. Lalu orang-orang pun menjadi terkagum-kagum karenanya. Maka Beliau bersabda: "Demi Dzat yang jiwa Muhammad berada di tangan-Nya, sungguh sapu tangan Sa'ad bin Mu'adz di surga lebih baik daripada ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3248</td></tr><tr><td>Arabic No</td><td>3248</td></tr><tr><td>Reference</td><td>Book 59 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророку ﷺ запрещавшему (мужчинам носить одежду из) шёлка, подарили тончайшую шёлковую джуббу, (красотой которой) люди были удивлены, а (Пророк ﷺ) сказал: “Клянусь Тем, в Чьей длани душа Мухаммада, в Раю носовые платки Са‘да ибн Му‘аза будут красивее, чем это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3248</td></tr><tr><td>Arabic No</td><td>3248</td></tr><tr><td>Reference</td><td>Book 59 Hadith 59</td></tr></tbody></table></div>
 

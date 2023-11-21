@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) went to visit a sick bedouin. Whenever the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'allaa bin Asad] telah menceritakan kepada kami [Abdul Aziz bin Muhtar] telah menceritakan kepada kami [Khalid] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma bahwa Nabi shallallahu 'alaihi wasallam pernah menjenguk seorang Arab badui, Ibnu Abbas melanjutkan; "Setiap kali beliau menjenguk orang sakit, maka beliau akan mengatakan kepadanya: "Tidak apa-apa, Insya Allah baik-baik saja." Ibnu Abbas berkata; lalu aku bertanya; "Baik?!, tidak mungkin, sebab penyakit yang di deritanya adalah demam yang sangat kritis, yang apabila diderita oleh orang tua akan menyebabkannya meninggal dunia." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kalau begitu, memang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5656</td></tr><tr><td>Arabic No</td><td>5656</td></tr><tr><td>Reference</td><td>Book 75 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Как-то раз) Пророк ﷺ пришёл навестить (заболевшего) бедуина, навещая больного, Пророк ﷺ всегда говорил ему: “Не беда, очистишься, если будет угодно Аллаху /Ля баъса, тахурун ин шаъа-Ллах/”. Тот сказал: “Ты говоришь: очистишься? Вовсе нет, это же лихорадка, которая кипит (или: бушует) и может свести старого человека в могилу!” Тогда Пророк ﷺ сказал: “Что ж, пусть будет так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5656</td></tr><tr><td>Arabic No</td><td>5656</td></tr><tr><td>Reference</td><td>Book 75 Hadith 16</td></tr></tbody></table></div>
 

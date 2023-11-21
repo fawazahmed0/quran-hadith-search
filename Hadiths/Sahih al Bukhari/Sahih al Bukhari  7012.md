@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said to me, "You were shown to me twice 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abu Mu'awiyah] telah mengabarkan kepada kami [Hisyam] dari [ayahnya] dari [Aisyah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "aku melihatmu dalam mimpi sebelum aku menikahimu sebanyak dua kali, kulihat seorang malaikat menggendongmu dalam sebuah kain sutera, maka aku berujar; 'singkaplah kain ini! ' maka malaikat tersebut menyingkapnya, dan ternyata engkau. Maka aku katakan; 'Kalaulah ini benar-benar dari Allah, laksanakanlah! ' Kemudian engkau diperlihatkan dalam mimpiku, ada malaikat yang menggendongmu dalam sehelai kain sutera, maka aku berujar; 'singkaplah kainnya! ' malaikat pun menyingkapnya, dan ternyata engkau, maka kukatakan; 'Kalaulah ini dari Allah, laksanakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7012</td></tr><tr><td>Arabic No</td><td>7012</td></tr><tr><td>Reference</td><td>Book 91 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «До женитьбы на тебе, ты была показана мне во сне дважды. Я видел, как ангел приносил тебя (ко мне) в куске (хорошего) шёлка, и я сказал ему: “Открой”. Он открыл, и оказывалось, что это ты, а я говорил: “Если это — от Аллаха, Он приведёт это к завершению”. Затем ты (снова) была показана мне, (ангел) приносил тебя (ко мне) в куске (хорошего) шёлка, и я сказал ему: “Открой”. Он открыл, и оказывалось, что это ты, а я говорил: “Если это от Аллаха, Он приведёт это к завершению”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7012</td></tr><tr><td>Arabic No</td><td>7012</td></tr><tr><td>Reference</td><td>Book 91 Hadith 30</td></tr></tbody></table></div>
 

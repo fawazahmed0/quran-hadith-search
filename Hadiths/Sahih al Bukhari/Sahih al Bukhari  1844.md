@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) assumed Ihram for Umra in the month of Dhul-Q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah] dari [Isra'il] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu]: "Rasulullah shallallahu 'alaihi wasallam melaksanakan 'umrah pada bulan Dzul Qa'dah namun penduduk Makkah enggan membolehkan Beliau memasuki kota Makkah hingga akhirnya Beliau sepakat untuk tidak memasuki Makkah dengan membawa senjata terhunus kecuali dalam sarungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1844</td></tr><tr><td>Arabic No</td><td>1844</td></tr><tr><td>Reference</td><td>Book 28 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от аль-Бара, да будет доволен им Аллах, что Пророк ﷺ отправился совершать умру в месяц зуль-ка‘да, но жители Мекки отказались впустить его Мекку. Тогда он заключил с ними договор о том, что они не будут заносить в Мекку оружие, не убрав его в ножны
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1844</td></tr><tr><td>Arabic No</td><td>1844</td></tr><tr><td>Reference</td><td>Book 28 Hadith 24</td></tr></tbody></table></div>
 

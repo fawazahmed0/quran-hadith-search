@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah from his father:I heard Allah's Messenger (ﷺ) say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali] telah menceritakan kepada kami [Sufyan] kami menghafalnya dari [Az Zuhriy] dari [Salim] dari [bapaknya] bahwa Nabi shallallahu 'alaihi wasallam telah menetapkan miqat. Telah menceritakan kepada kami [Ahmad bin 'Isa] telah menceritakan kepada kami [Ibnu Wahab] berkata, telah mengabarkan kepada saya [Yunus] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] dari [bapaknya] radliallahu 'anhu; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: Tempat memulai hajji (bertalbiyah) bagi penduduk Madinah adalah di Dzul Hulaifah, bagi penduduk Syam bertalbiyah di Mahya'ah yaitu Al Juhfah, bagi penduduk Najed di Qarnul Manazil". Berkata, Ibnu 'Umar radliallahu 'anhuma; "Orang-orang menganggap bahwa Nabi shallallahu 'alaihi wasallam bersabda sedangkan aku tidak mendengarnya langsung: "Dan bagi penduduk Yaman di Yalamlam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 25 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим ибн ‘Абдуллах передал от своего отца, да будет доволен им Аллах, который сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Жители Медины заходят в состояние ихрама в Зуль-Хулейфе, жители Шама — в аль-Джухфе, а жители Неджда — у Карна”».\nИбн ‘Умар, да будет доволен Аллах им и его отцом, также сказал: «Люди утверждают, что Пророк ﷺ сказал, хотя я этого не слышал: “И жители Йемена заходят в состояние ихрама у Йалямляма”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 25 Hadith 16</td></tr></tbody></table></div>
 

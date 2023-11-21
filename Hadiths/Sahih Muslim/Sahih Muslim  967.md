@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:People should avoid lifting their eyes towards the sky whil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [ath-Thahir] dan [Amru bin Sawwad] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [al-Laits bin Sa'd] dari [Ja'far bin Rabi'ah] dari [Abdurrahman al-A'raj] dari [Abu Hurairah radhiyallahu'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Hendaklah suatu kaum menghentikan untuk mengangkat pandangan mereka ke langit ketika berdoa dalam shalat atau (kalau tidak), niscaya pandangan mereka akan dicabut (dibutakan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Люди, обращающиеся к Аллаху с мольбами во время молитв, должны прекратить поднимать глаза к небу, иначе они непременно лишатся зрения!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
 

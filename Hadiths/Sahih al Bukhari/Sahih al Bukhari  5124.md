@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn 'Abbas said: "Hint your intention of marrying' is made by saying (to the wid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 67 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аббас сказал об аяте «…если вы намекнёте о сватовстве к женщинам…»: «Это можно сделать, сказав (вдове, во время её ’идды): “Я хочу жениться, и хотел бы, чтобы Аллах облегчил мне найти праведную женщину“».\nКасим сказал: «Можно ей сказать: “Я отношусь к тебе с уважением”, или: “Ты мне интересна”, или: “Аллах приведёт к тебе благо”, или что-то подобное».\n‘Ата сказал: «Нужно намекать на своё намерение, а не заявлять об этом открыто. Можно сказать: “У меня есть нужда”, или: “Возрадуйся”, или: “Хвала Аллаху, ты достойна повторного брака”. Она (вдова) может сказать в ответ: “Я слышу (понимаю) то, что ты говоришь”, но она не должна давать обещания. Её опекун не должен давать обещание (кому-либо выдать её замуж за него) без её ведома. Если же в период её ’идды она даст обещание выйти замуж за кого-то, и в итоге он женится на ней, то не следует их разделять (то есть их брак действителен)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 67 Hadith 60</td></tr></tbody></table></div>
 

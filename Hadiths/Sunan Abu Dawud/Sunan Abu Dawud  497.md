@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Abdullah ibn Khubayb al-Juhani: Hisham ibn Sa'd reported: We
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud Al-Mahri] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Hisyam bin Sa'd] telah menceritakan kepada kami [Mu'adz bin Abdullah bin Khubaib Al-Juhani] dia (Hisyam bin Sa'd) berkata; Kami pernah masuk ke rumah Mu'adz bin Abdullah), kemudian dia bertanya kepada [istrinya]; Kapankah seorang anak diperintahkan untuk shalat? Istrinya menjawab; [Salah seorang dari kami] menyebutkan dari Rasulullah shallallahu 'alaihi wasallam bahwasanya beliau pernah ditanya tentang hal tersebut, maka beliau menjawab: "Apabila dia sudah mengetahui mana yang kanan dan mana yang kiri, maka perintahkanlah dia untuk shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>497</td></tr><tr><td>Arabic No</td><td>497</td></tr><tr><td>Reference</td><td>Book 2 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хишама ибн Са‘да о том, что ему сообщил Му‘аз ибн ‘Абдуллах ибн Хубайб аль-Джухани.(Хишам) сказал: «(Однажды), когда мы зашли к нему, он (Му‘аз) сказал (обратившись) к своей жене: “Когда должен молиться мальчик?” Она ответила: “Один мужчина из нашего числа рассказывал от Посланника Аллаха ﷺ о том, что его спросили об этом и он сказал: “Когда он начнет отличать правое от левого, то велите ему молиться”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>497</td></tr><tr><td>Arabic No</td><td>497</td></tr><tr><td>Reference</td><td>Book 2 Hadith 107</td></tr></tbody></table></div>
 

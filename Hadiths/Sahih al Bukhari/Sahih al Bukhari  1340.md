@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (p.b.u.h) offered the funeral prayer of a man on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Asy-Syaibaniy] dari [Asy-Sya'biy] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi Shallallahu'alaihiwasallam pernah mengerjakan shalat jenazah untuk seorang laki-laki yang telah dikebumikan pada malam hari. Beliau mengerjakannya bersama dengan para sahabatnya. Saat itu Beliau bertanya tentang jenazah tersebut: "Siapakah orang ini?". Mereka menjawab: "Si anu, yang telah dikebumikan kemarin". Maka mereka menyolatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1340</td></tr><tr><td>Arabic No</td><td>1340</td></tr><tr><td>Reference</td><td>Book 23 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды Пророк ﷺ совершил заупокойную молитву за человека, который был похоронен ночью. Он встал вместе со своими сподвижниками и спросил об умершем: “Кто это?” Люди сказали: “Такой-то, он был похоронен вчера ночью”. Затем они совершили за него заупокойную молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1340</td></tr><tr><td>Arabic No</td><td>1340</td></tr><tr><td>Reference</td><td>Book 23 Hadith 95</td></tr></tbody></table></div>
 

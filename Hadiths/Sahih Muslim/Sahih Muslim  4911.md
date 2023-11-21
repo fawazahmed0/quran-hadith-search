@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Barâ' (que Dieu l'agrée) a dit : Quand fut révélé ce verset : Ne sont pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Muhammad bin Basysyar] dan ini adalah lafadz Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] bahwa dia pernah mendengar [Al Barra] berkomentar sehubungan dengan ayat ini: '(Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) dengan orang-orang yang berjihad di jalan Allah …) ' (Qs. An Nisaa: 95), dan orang-orang yang berjihad di jalan Allah, kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan Zaid bin Tsabit untuk menulis ayat tersebut. Lalu Zaid datang dengan membawa tulang (pundak) kambing untuk menulis ayat tersebut. Tiba-tiba datanglah Ibnu Ummi Maktum mengadukan kesulitannya, tidak dapat turut berperang karena buta. Kemudian turunlah ayat: '(Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) yang tidak mempunyai 'uzur dengan orang-orang yang berjihad di jalan Allah…) ' [Syu'bah] berkata; dan telah mengabarkan kepadaku [Sa'd bin Ibrahim] dari [seorang laki-laki] dari [Zaid bin Tsabit] berhubungan dengan ayat ini: '(Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) …) ' seperti hadits Al Barra." Dan [Ibnu Basysyar] menyebutkan dalam riwayatnya; [Sa'd bin Ibrahim] dari [ayahnya] dari [seorang laki-laki] dari [Zaid bin Tsabit]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4911</td></tr><tr><td>Arabic No</td><td>1898.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4911</td></tr><tr><td>Arabic No</td><td>1898.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 206</td></tr></tbody></table></div>
 

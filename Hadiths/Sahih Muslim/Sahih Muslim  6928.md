@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Darda' reported:My husband reported that he heard Allah's Mes- senger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [An Nadhr bin Syumail] telah menceritakan kepada kami [Musa bin Sarwan Al Mu'allim] telah menceritakan kepadaku [Thalhah bin 'Ubaidullah bin Kariz] dia berkata; telah menceritakan kepadaku [Ummu Ad Darda'] dia berkata; [Sayyidi (suamiku)] telah menceritakan kepadaku bahwasanya ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mendoakan kebaikan bagi saudaranya (sesama muslim) yang berjauhan, melainkan malaikat akan berkata; 'Amiin dan bagimu kebaikan yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6928</td></tr><tr><td>Arabic No</td><td>2732.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6928</td></tr><tr><td>Arabic No</td><td>2732.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 120</td></tr></tbody></table></div>
 

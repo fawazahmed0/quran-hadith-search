@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A Jew crushed the head of a girl between two stones. It 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah mengabarkan kepada kami [Habban] telah menceritakan kepada kami [Hammam] telah mengabarkan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik], ada seorang yahudi meretakkan hamba sahaya dengan menjepit diantara dua batu. Si hamba sahaya ditanya; 'sebutkan siapa yang membunuhmu, apakah fulan dan fulan, ' hingga disebutlah nama seorang yahudi, dan si hamba sahaya mengiyakan dengan mengisyaratkan kepalanya. Si yahudi ditahan dan mengakui perbuatannya. Nabi shallallahu 'alaihi wasallam memerintahkan agar si yahudi diseret kepadanya dan beliau memecah kepalanya dengan batu. Sedang Hamam mengatakan dengan redaksi; 'dengan dua batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6884</td></tr><tr><td>Arabic No</td><td>6884</td></tr><tr><td>Reference</td><td>Book 87 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) какой-то иудей разбил голову одной девочке(, поместив) её между двумя камнями. (Потом эту девочку) стали спрашивать: “Кто сделал это с тобой: такой-то (или) такой-то?” — и когда было названо имя этого иудея, она кивнула головой. Тогда его схватили, и он (во всём) признался, после чего по приказу Пророка ﷺ его голову тоже разбили, поместив её между двумя камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6884</td></tr><tr><td>Arabic No</td><td>6884</td></tr><tr><td>Reference</td><td>Book 87 Hadith 23</td></tr></tbody></table></div>
 

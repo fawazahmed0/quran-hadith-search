@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas.:A person died and Allah's Messenger (ﷺ) used to visit him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Abu Ishaq Asy-Syaibaniy] dari [Asy-Sya'biy] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Bila ada orang yang meninggal dunia biasanya Rasulullah shallallahu 'alaihi wasallam melayatnya. Suatu hari ada seorang yang meninggal dunia di malam hari kemudian dikuburkan malam itu juga. Keesokan paginya orang-orang memberitahu Beliau. Maka Beliau bersabda: "Mengapa kalian tidak memberi tahu aku?" Mereka menjawab: "Kejadiannya malam hari, kami khawatir memberatkan anda". Maka kemudian Beliau mendatangi kuburan orang itu lalu mengerjakan shalat untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1247</td></tr><tr><td>Arabic No</td><td>1247</td></tr><tr><td>Reference</td><td>Book 23 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды умер один человек, которого Посланник Аллаха ﷺ часто посещал. Он умер ночью, и (люди) похоронили его ночью. Утром они сообщили Пророку ﷺ (о его смерти). Пророку ﷺ сказал: “Что помешало вам сообщить мне об этом?” Они ответили: “Ночь была темной, и поэтому мы не хотели беспокоить тебя”. Тогда Пророк ﷺ пошел к его могиле и совершил там молитву (джаназа)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1247</td></tr><tr><td>Arabic No</td><td>1247</td></tr><tr><td>Reference</td><td>Book 23 Hadith 10</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), L'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] dan [Ibnu Numair] dan [Abu Kuraib] dan [Zuhair bin Harb], semuanya dari [Waki']. [Abu Kuraib] mengatakan; telah menceritakan kepada kami [Waki'], telah menceritakan kepada kami [Al Auza'i] dari [Hasan bin 'Athiyyah] dari [Muhammad bin Abu 'Aisyah] dari [Abu Hurairah] dan dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: " Jika salah seorang diantara kalian tasyahud, hendaklah meminta perlindungan kepada Allah dari empat perkara dan berdoa "ALLAHUMMA INNI A'UUDZUBIKA MIN 'ADZAABI JAHANNAMA WAMIN 'ADZAABIL QABRI WAMIN FITNATIL MAHYAA WAL MAMAAT WAMIN SYARRI FITNATIL MASIIHID DAJJAL (Ya Allah, saya berlindung kepada-Mu dari siksa jahannam dan siksa kubur, dan fitnah kehidupan dan kematian, serta keburukan fitnah Masihid Dajjal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1324</td></tr><tr><td>Arabic No</td><td>588.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Произнеся (слова) ташаххуда, пусть любой из вас, обратится к Аллаху за защитой от четырёх (вещей) и скажет: “О Аллах, поистине, я прибегаю к Твоей защите от мучений ада, и от мучений могилы, и от испытаний жизни и смерти и от зла искушения Даджаля!/Аллахумма, инни а‘узу би-кя мин ‘азаби джаханнама, ва мин ‘азаби-ль-кабри, ва мин фитнати-ль-махйа ва-ль-мамати ва мин шарри фитнати-ль-масихи-д-даджжаль!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1324</td></tr><tr><td>Arabic No</td><td>588.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 162</td></tr></tbody></table></div>
 

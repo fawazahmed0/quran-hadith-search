@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miswar b. Makhramah:I lifted a heavy stone. While I was walking my g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Yahya bin Sa'id Al Umawi] dari [Utsman bin Hakim] dari [Abu Umamah bin Sahl] dari [Al Miswar bin Makhramah] ia berkata, "Saat berjalan membawa batu berat, pakaianku terjatuh. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Ambillah pakaianmu dan jangan berjalan dalam keadaan telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>4016</td></tr><tr><td>Reference</td><td>Book 33 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Мисвара ибн Махрама, да будет доволен Аллах им и его отцом: «Я нёс тяжёлый камень, и когда я шёл, моя одежда упала с меня. Тогда Посланник Аллаха ﷺ сказал мне: “Подбери свою одежду и не ходите голыми”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>4016</td></tr><tr><td>Reference</td><td>Book 33 Hadith 8</td></tr></tbody></table></div>
 

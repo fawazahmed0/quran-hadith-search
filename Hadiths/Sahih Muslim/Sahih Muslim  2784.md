@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : "Dès l'arrivée de la dernière déca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Uqail] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha, bahwa Nabi shallallahu 'alaihi wasallam melakukan I'tikaf pada sepuluh terakhir dari bulan Ramadlan, hingga Allah 'azza wajalla mewafatkannya. Setelah itu, isteri-isternya pun melakukan I'tikaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2784</td></tr><tr><td>Arabic No</td><td>1172.03</td></tr><tr><td>Reference</td><td>Book 14 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аиша, да будет доволен ею Аллах, сказала: «В последние десять (дней) рамадана Пророк ﷺ всегда неотлучно находился в мечети (, и это продолжалось) до тех пор, пока Великий и Всемогущий Аллах не упокоил его, а после него также стали поступать и его жёны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2784</td></tr><tr><td>Arabic No</td><td>1172.03</td></tr><tr><td>Reference</td><td>Book 14 Hadith 5</td></tr></tbody></table></div>
 

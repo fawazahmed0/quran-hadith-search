@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:I said, "O Allah's Messenger (ﷺ)! What is the meaning 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Mutharrif] dari [Asy Sya'bi] dari ['Adi bin Hatim radliallahu 'anhu] berkata; Aku bertanya ya Rasulullah apakah yang dimaksud benang putih dan benang hitam itu? Apakah benar-benar berbentuk benang tali? Beliau menjawab: 'Sesunguhnya lehermu terlalu panjang bila melihat kedua benang itu. tidak demikian, sesungguhnya yang dimaksud adalah hitamnya malam dan putihnya siang hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 65 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, рассказывал: «Однажды я сказал: “О Посланник Аллаха! Что такое чёрная и белая нить, это (обычные) нити?” Он сказал: “У тебя (очень) широкая подушка, раз ты видишь обе нити”. Затем он добавил: “Нет, это темнота ночи и белизна дня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 65 Hadith 37</td></tr></tbody></table></div>
 

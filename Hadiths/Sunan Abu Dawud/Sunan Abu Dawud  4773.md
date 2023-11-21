@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:the Messenger of Allah (ﷺ) was one of the best of men in character. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid Asy Syu'airi] berkata, telah menceritakan kepada kami [Umar bin Yunus] berkata, telah menceritakan kepada kami [Ikrimah] -maksudnya Ikrimah bin Ammar- ia berkata; telah menceritakan kepadaku [Ishaq] -maksudnya Ishaq bin Abdullah bin Abu Thalhah- ia berkata; [Anas] berkata, "Rasulullah shallallahu 'alaihi wasallam adalah orang yang paling baik akhlaknya. Suatu hari beliau mengutusku untuk suatu keperluan. Aku lalu berkata, "Demi Allah, aku tidak akan pergi." Padahal dalam hatiku aku ingin pergi melaksanakan perintah perintah Nabi Allah shallallahu 'alaihi wasallam. Kemudian aku pergi hingga aku melewati anak-anak yang sedang bermain di pasar, namun tiba-tiba Rasulullah shallallahu 'alaihi wasallam memagang kerah bajuku dari belakang sambil tertawa. Beliau bersabda: "Wahai Anas kecil, pergilah sebagaimana yang aku pesan tadi." Aku menjawab, "Baik, ya Rasulullah. Aku akan pergi." Anas berkata, "Demi Allah, aku telah membantu beliau selama tujuh atau sembilan tahun. Namun aku tidak pernah mendapati beliau mengomentari perbuatanku 'Kenapa kamu lakukan begini dan begini'. Atau sesuatu yang aku tinggalkan; 'Kenapa tidak kamu melakukan begini dan begini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2310)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>4773</td></tr><tr><td>Reference</td><td>Book 43 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас (ибн Малик, слуга Пророка ﷺ) сказал: «Посланник Аллаха ﷺ был самым добронравным из людей. Как-то он послал меня выполнить одно задание, а я сказал: “Клянусь Аллахом, я не пойду”, но в душе я уже собрался выполнить поручение Пророка Аллаха ﷺ».(Анас) сказал: «Я вышел и по пути проходил мимо детей, которые играли на рынке. Тут я заметил позади себя Посланника Аллаха ﷺ который схватил меня за затылок сзади. Я взглянул на него, а он улыбаясь сказал: “О Унейс (т.е. маленький Анас)! Иди туда, куда я велел тебе!” Я сказал: “Да, я иду, о Посланник Аллаха!”»Анас сказал: «Клянусь Аллахом, я прислуживал ему в течение семи (или: девяти) лет, и чтобы я ни совершил, он ни разу не сказал мне: “Зачем ты сделал то-то и то-то?” И что бы я не оставил, он ни разу не сказал мне: “Почему ты не сделал так-то и так-то?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2310)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>4773</td></tr><tr><td>Reference</td><td>Book 43 Hadith 1</td></tr></tbody></table></div>
 

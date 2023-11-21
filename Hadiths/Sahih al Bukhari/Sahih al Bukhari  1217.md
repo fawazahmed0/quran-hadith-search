@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) sent me for some job and wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Katsir bin Syinzhir] dari ['Atha' bin Abu Rabah] dari [Jabir bin 'Abdullah radliallahu 'anhua] berkata; Rasulullah shallallahu 'alaihi wasallam mengutusku untuk menyelesaikan keperluan Beliau. Maka aku berangkat kemudian kembali setelah menuntaskan tugasku itu, lalu aku menemui Nabi shallallahu 'alaihi wasallam. Aku memberi salam kepada Beliau namun Beliau tidak membalas salamku. Kejadian itu menimbulkan kegusaran dalam hatiku yang hanya Allah sajalah yang lebih mengetahuinya. Kemudian aku berkata dalam hatiku, barangkali Rasulullah shallallahu 'alaihi wasallam menganggap aku terlambat menunaikan tugas dari Beliau. Kemudian aku memberi salam kembali dan lagi-lagi Beliau tidak membalasnya. Timbul lagi kegusaran dalam hatiku yang lebih besar dari yang pertama. Kemudian aku memberi salam lagi, lalu Beliau membalasnya seraya berkata: "Sesungguhnya yang menghalangiku buat menjawab salammu adalah karena aku sedang melaksanakan shalat". Saat itu Beliau sedang berada diatas hewan tunggangannya yang tidak menghadap ke arah qiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1217</td></tr><tr><td>Arabic No</td><td>1217</td></tr><tr><td>Reference</td><td>Book 21 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Как-то раз) Посланник Аллаха ﷺ поручил мне одно дело, и я ушёл. Выполнив поручение и вернувшись, я подошёл к Пророку ﷺ и обратился к нему с приветствием, однако он не ответил мне. Тогда сердце моё ощутило то, о чём лучше известно Аллаху, и я сказал себе: “Может быть, Посланник Аллаха ﷺ рассердился на меня за то, что я задержался?” — после чего (снова) поприветствовал его, но опять не получил ответа. Сердце моё опечалилось ещё больше, и я (снова) обратился к нему с приветствием. (На этот раз) он ответил мне и сказал: “Мне помешало ответить тебе лишь то, что я совершал молитву”, и в это время он сидел на своей верблюдице, обратившись лицом не в сторону киблы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1217</td></tr><tr><td>Arabic No</td><td>1217</td></tr><tr><td>Reference</td><td>Book 21 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mulaika:'Aisha said that the Jews came to the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Abdul Wahhab] dari [Ayyub] dari [Abdullah bin Abu Mulaikah] dari [Aisyah] radliallahu 'anha bahwa sekelompok orang Yahudi datang kepada Nabi shallallahu 'alaihi wasallam sambil berkata; "Kebinasaan atasmu." Maka Aisyah berkata; "Semoga atas kalian juga, dan semoga laknat dan murka Allah juga menimpa kalian." Beliau bersabda: "Tenanglah wahai Aisyah, berlemah lembutlah dan janganlah kamu bersikeras dan janganlah kamu berkata keji." Aisyah berkata; "Apakah anda tidak mendengar apa yang mereka katakan?" beliau bersabda: "Tidakkah kamu mendengar apa yang saya ucapkan, saya telah membalasnya, adapun jawabanku akan dikabulkan sementara do'a mereka tidak akan diijabahi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6030</td></tr><tr><td>Arabic No</td><td>6030</td></tr><tr><td>Reference</td><td>Book 78 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Аиша, да будет доволен ею Аллах, рассказала о том, что однажды иудеи пришли к Пророку ﷺ и сказали: “Ас-саму ‘алейкум (Смерть вам!)”. А ‘Аиша сказала: “(Это) вам смерть, проклятие Аллаха и (Его) гнев”. Но Посланник Аллаха ﷺ сказал: “Постой, о ‘Аиша, тебе надлежит придерживаться мягкости и остерегаться жёсткости и мерзости”. ('Аиша) воскликнула: “Разве ты не слышал, что они сказали?!” (В ответ на это Пророк ﷺ) сказал: “А разве ты не слышала, что я сказал им в ответ, но мне отвечают на мольбу относительно них, а им не отвечают в мольбах относительно меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6030</td></tr><tr><td>Arabic No</td><td>6030</td></tr><tr><td>Reference</td><td>Book 78 Hadith 60</td></tr></tbody></table></div>
 

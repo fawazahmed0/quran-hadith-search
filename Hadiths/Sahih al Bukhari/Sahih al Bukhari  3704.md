@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin 'Ubaida:A man came to Ibn 'Umar and asked about 'Uthman and Ib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Rafi'] telah bercerita kepada kami [Husain] dari [Zaidah] dari [Abu Hushain] dari [Sa'ad bin 'Ubaidah] berkata; Telah datang seorang laki-laki kepada Ibnu 'Umar lalu bertanya kepadanya tentang 'Utsman Radhiyallhu'anhuma. Maka [Ibnu 'Umar] menceritakan kebaikan-kebaikan amal 'Utsman Radhiyallhu'anhuma. Ibu 'Umar bertanya kepada laki-laki itu; "Mungkin hal itu menyusahkanmu?". Laki-laki itu menjawab; "Ya". Ibnu 'Umar berkata; "Semoga Allah memperburuk keadaanmu". Laki-laki itu kemudian bertanya tentang 'Ali radliallahu 'anhuma, maka Ibnu 'Umar menceritakan kebaikan-kebaikan amalnya 'Ali radliallahu 'anhuma. Ibnu 'Umar melanjutkan; "Itulah dia (coba lihat posisi rumahnya) yang berada di tengah rumah-rumah Nabi shallallahu 'alaihi wasallam. Ibu 'Umar bertanya kepada laki-laki itu; "Mungkin hal itu menyusahkanmu?". Laki-laki itu menjawab; "Ya". Ibnu 'Umar berkata; "Semoga Allah memperburuk keadaanmu. Pergilah kamu dan sampaikan sesukamu atas keterangan yang aku sampaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3704</td></tr><tr><td>Arabic No</td><td>3704</td></tr><tr><td>Reference</td><td>Book 62 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн ‘Убайда сказал: «Однажды один человек пришёл к Ибн ‘Умару и спросил его об ‘Усмане. Ибн ‘Умар рассказал ему о его прекрасных деяниях и спросил его: “Похоже тебе не нравится (то, что я рассказал)?” Он ответил: “Да”. Тогда Ибн ‘Умар сказал: “Да покроет Аллах пылью твой нос (то есть, да унизит тебя Аллах)!” Затем этот человек спросил его об ‘Али. Ибн ‘Умар рассказал ему о его прекрасных деяниях и сказал: “Его дом находится между домами Пророка ﷺ”. Затем он спросил: “Похоже тебе не нравится (то, что я рассказал)?” Спрашивающий ответил: “Да”. Тогда Ибн ‘Умар сказал: “Да покроет Аллах пылью твой нос! Уходи и делай всё, что можешь против меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3704</td></tr><tr><td>Arabic No</td><td>3704</td></tr><tr><td>Reference</td><td>Book 62 Hadith 54</td></tr></tbody></table></div>
 

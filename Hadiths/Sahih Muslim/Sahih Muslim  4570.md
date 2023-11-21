@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Auf b. Malik has narrated that a man from the Himyar tribe killed an enemy and w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir Ahmad bin 'Amru bin Sarh] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Mu'awiyah bin Shalih] dari [Abdurrahman bin Jubair] dari [ayahnya] dari ['Auf bin Malik] dia berkata, "Seorang laki-laki dari suku Himyar telah membunuh seorang musuh, lalu dia hendak mengambil harta dari musuh yang dibunuhnya, namun Khalid bin Walid mencegahnya, sebab dia adalah panglima dari laki-laki itu. Lalu 'Auf bin Malik melaporkan kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: "Apa alasanmu untuk tidak memberikan harta rampasannya?" Khlaid menjawab, "Dia sudah banyak aku beri wahai Rasulullah!" Beliau bersabda: "Berikanlah dia bagiannya!" Suatu ketika Khalid lewat di hadapan 'Auf, lalu 'Auf menarik kainnya dengan keras sambil berkata, "Apakah kamu tidak mendengar apa yang aku sampaikan dari putusan Rasulullah shallallahu 'alaihi wasallam? Ternyata Rasulullah shallallahu 'alaihi wasallam mendengar perkataanya 'Auf, lantas beliau marah kepadanya seraya bersabda: "Wahai Khalid, janganlah kamu memberinya, jangan kamu memberinya!" Kemudian beliau bersabda kepada 'Auf: "Mengapa tidak kamu serahkan saja kepadaku urusan dengan panglima-panglima yang aku angkat? Hanyasanya perumpamaanmu dengan perumpamaan mereka seperti penggembala unta atau kambing dengan hewan gembalaannya, bila waktu minum telah tiba, hewan-hewan itu dibawanya ke telaga, hewan-hewan tersebut lalu masuk ke dalam telaga dan meminum air yang bersih, hingga tinggalah air yang kotor. Air bersih untuk kalian dan air kotor untuk mereka." Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Shafwan bin 'Amru] dari [Abdurrahman bin Jubair bin Nufair] dari [ayahnya] dari ['Auf bin Malik Al Asyja'i] dia berkata; aku keluar bersama Zaid bin Haritsah pada peperangan Mu'tah, tiba-tiba sekelompok tentara dari Yaman datang untuk membantuku…kemudian dia melanjutkan hadits tersebut sebagaimana hadits di atas, namun dalam hadits tersebut disebutkan, " [Auf] berkata, 'Maka aku berkata, 'Wahai [Khalid], apakah kamu tidak tahu bahwa Rasulullah shallallahu 'alaihi wasallam telah memutuskan bagi seorang yang membunuh akan mendapatkan barang rampasan musuh yang di bunuhnya? Khalid menjawab, "Ya, namun aku telah banyak memberi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4570</td></tr><tr><td>Arabic No</td><td>1753.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4570</td></tr><tr><td>Arabic No</td><td>1753.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 51</td></tr></tbody></table></div>
 

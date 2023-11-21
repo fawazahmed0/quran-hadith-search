@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:Anas bin Malik said, "Whenever the Prophet (ﷺ) went out with u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas bin Malik], bahwa Nabi shallallahu 'alaihi wasallam jika memerangi suaku kaum bersama kami, maka beliau tidak menyerang kaum tersebut hingga datangnya waktu shubuh (menunggu). Jika mendengar suara adzan, beliau mengurungkannya. Namun bila tidak terdengar suara adzan maka beliau menyerangnya." Anas bin Malik berkata, "Maka pada suatu hari kami keluar untuk menyerbu perkampungan Khaibar, kami lantas menunggu hingga malam hari. Ketika datang waktu pagi dan beliau tidak mendengar suara adzan, maka beliau menaiki tunggangannya sementara aku membonceng di belakang Abu Thalhah. Sungguh kakiku menyentuh kaki Nabi shallallahu 'alaihi wasallam." Anas bin Malik melanjutkan kisahnya, "Penduduk Khaibar keluar ke arah kami dengan membawa keranjang dan sekop-sekop mereka, ketika mereka melihat Nabi shallallahu 'alaihi wasallam, maka mereka berkata, "Muhammad! Demi Allah, Muhammad dan pasukannya (datang)!" Kata Anas, "Ketika Rasulullah shallallahu 'alaihi wasallam melihat mereka, beliau bersabda: "Allahu Akbar, Allahu Akbar, hancurlah Khaibar! Sesungguhnya kami, apabila mendatangi perkampungan suatu kaum, maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut) ' (Qs. Ash Shaffaat:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 10 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ отправлялся с нами в военный поход против людей (из какого-нибудь племени), он не нападал на них до утра, а ждал, и, если слышал азан, не трогал (этих людей), а если не слышал его, то атаковал их».\n(Анас) сказал: «И когда мы выступили в сторону Хайбара, мы добрались до (его жителей) ночью. Когда наступило утро, не услышав азан (Пророк ﷺ) сел верхом, а я сел в седло позади Абу Тальхи, и при этом моя нога касалась ноги Пророка ﷺ».\n(Анас) сказал: «И (иудеи) стали выходить со своими большими корзинами и лопатами, а когда они увидели Пророка ﷺ они сказали: “Мухаммад, клянёмся Аллахом, (это) Мухаммад со (своей) пятёркой!”»\n(Анас) сказал: «И когда Посланник Аллаха ﷺ увидел их, он сказал: “Аллаху акбар, Аллаху акбар, Хайбар разрушен! Поистине, когда мы появляемся у селений людей, (враждующих с нами), плохим становится утро для тех, кого предупреждали!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 10 Hadith 8</td></tr></tbody></table></div>
 

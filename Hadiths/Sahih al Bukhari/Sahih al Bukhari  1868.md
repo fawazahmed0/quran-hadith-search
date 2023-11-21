@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) came to Medina and ordered a mosque to be built 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] dari [Abu At-Tayyah] dari [Anas radliallahu 'anhu]; Nabi shallallahu 'alaihi wasallam datang ke Madinah kemudian Beliau memerintahkan untuk membangun masjid lalu berkata: "Wahai Banu Najar, juallah kepadaku berapa harga (kebun kalian) ". Mereka menjawab: "Kami tidak menjualnya kecuali kepada Allah". Maka Beliau memerintahkan quburan-quburan Kaum Musyrikin agar digali lalu bangunan-bangunannya dihancurkan kemudian diratakan dengan tanah dan memerintahkan pula agar pohon-pohon kurma ditebang lalu batang pepohonan itu dipasang bersusun untuk arah qiblat masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1868</td></tr><tr><td>Arabic No</td><td>1868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Прибыв в Медину, Пророк ﷺ приказал построить мечеть, и сказал: “О бану наджар! Назовите мне цену за эту землю!” Они ответили: “Мы потребуем плату за неё только от Аллаха”. Тогда Пророк ﷺ велел вырыть могилы многобожников и их раскопали, развалины сровняли с землёй, а пальмы вырубили, поставив их рядами как (стену) киблы (будущей) мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1868</td></tr><tr><td>Arabic No</td><td>1868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 2</td></tr></tbody></table></div>
 

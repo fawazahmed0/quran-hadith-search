@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim bin Bazi'] telah menceritakan kepada kami [Yahya bin Abi Bukair] dari [Isra'il] dari [Abu Haumal Al-'Amiri], Abu Dawud berkata; demikian dia mengatakan, sedangkan yang benar adalah Abu Harmal dari [Muhammad bin Abdurrahman bin Abu Bakar] dari [Ayahnya] dia berkata; [Jabir bin Abdullah] pernah mengimami kami dengan mengenakan baju yang tidak berselendang. Tatkala selesai, dia berkata; Saya pernah melihat Rasulullah shallallahu 'alaihi wasallam shalat dengan mengenakan baju
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>633</td></tr><tr><td>Arabic No</td><td>633</td></tr><tr><td>Reference</td><td>Book 2 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада ибн ‘Абду-р-Рахмана ибн Абу Бакра о том, что его отец сказал: «(Однажды) Джабир ибн ‘Абдуллах одетый в рубаху, возглавлял нас в молитве, и на нём не было накидки. Когда он закончил молитву, то сказал: “Я видел, как Посланник Аллаха ﷺ молился в рубахе”».Также этот хадис передалаль-Байхакъи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>633</td></tr><tr><td>Arabic No</td><td>633</td></tr><tr><td>Reference</td><td>Book 2 Hadith 243</td></tr></tbody></table></div>
 

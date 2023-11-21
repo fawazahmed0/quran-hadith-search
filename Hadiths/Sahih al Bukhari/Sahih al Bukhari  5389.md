@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:that his aunt, Um Hufaid bint Al-Harith bin Hazn, presented 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa Ummu Hufaid binti Al Harits bin Hazn bibi Ibnu Abbas, memberi hadiah kepada Nabi shallallahu 'alaihi wasallam berupa samin, keju dan biawak. Maka beliau pun mengundang orang-orang untuk memakannya, hingga makanan itu pun di makan di atas hidangan beliau. Sedangkan Nabi shallallahu 'alaihi wasallam meninggalkannya seperti seorang yang tak berselera. Dan sekiranya semua makanan itu haram, niscaya semua itu tidak dimakan di tempat hidangan Nabi shallallahu 'alaihi wasallam dan beliau tidak pula beliau menyuruh untuk memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5389</td></tr><tr><td>Arabic No</td><td>5389</td></tr><tr><td>Reference</td><td>Book 70 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что (однажды) Умм Хуфайд бинт аль-Харис ибн Хазн, тётка Ибн ‘Аббаса со стороны матери прислала в подарок Пророку ﷺ сушёный творог, топлёное масло и песчаных шипохвостых ящериц. И Пророк ﷺ потребовал принести ящериц, и они ели их за его столом, а сам Пророк ﷺ не притронулся к ящерицам, так как питал к ним отвращение. Ибн ‘Аббаса сказал: «И если бы (употреблять ящериц в пищу) было запретно, то их бы не ели за столом Пророка ﷺ, и он не приказывал бы их кушать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5389</td></tr><tr><td>Arabic No</td><td>5389</td></tr><tr><td>Reference</td><td>Book 70 Hadith 17</td></tr></tbody></table></div>
 

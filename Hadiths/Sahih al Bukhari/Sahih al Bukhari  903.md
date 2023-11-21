@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya bin Sa'id:I asked 'Amra about taking a bath on Fridays. She repli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Yahya bin Sa'id] bahwa dia bertanya kepada ['Amrah] tentang mandi pada hari Jum'at. Maka dia menjawab, "' [Aisyah? radliallahu 'anha] berkata, "Orang-orang bekerja untuk memenuhi kebutuhan diri mereka masing-masing, ketika menghadiri shalat Jum'at, mereka tetap dalam keadaan mereka masing-masing (dengan pakaian kerjanya), maka dikatakan kepada mereka, "Seandainya kalian mandi terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>903</td></tr><tr><td>Reference</td><td>Book 11 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В то время) люди зарабатывали на жизнь своим трудом и, отправляясь на пятничную молитву, шли (в мечеть) в том же виде (, в каком и работали, в связи с чем Пророк ﷺ и говорил) им: “Если бы вы только совершали (большое) омовение!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>903</td></tr><tr><td>Reference</td><td>Book 11 Hadith 27</td></tr></tbody></table></div>
 

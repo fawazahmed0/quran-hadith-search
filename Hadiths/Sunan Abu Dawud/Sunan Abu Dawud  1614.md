@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The people during the lifetime of the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Haitsam bin Khalid Al Juhani] telah menceritakan kepada Kami [Husain bin Ali Al Ju'fi] dari [Zaidah] telah menceritakan kepada Kami [Abdul 'Aziz bin Abu Rawwad] dari [Nafi'] dari [Abdullah bin Umar], ia berkata; dahulu orang-orang mengeluarkan zakat fitrah pada zaman Nabi shallallahu 'alaihi wasallam satu sha' gandum, atau kurma atau sult (jenis tanaman gandum), atau kismis. Nafi' berkata; Abdullah berkata; tatkala Umar menjabat sebagai khalifah dan gandum telah banyak maka Umar menjadikan setengah sha' gandum menggantikan satu sha' hal-hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>1614</td></tr><tr><td>Reference</td><td>Book 9 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Во времена Посланника Аллаха ﷺ люди, выплачивая закят аль-фитр, отдавали са‘ ячменя, фиников, сульта или изюма. А когда халифом стал ‘Умар (ибн аль-Хаттаб) и пшеницы стало много, ‘Умар приравнял половину са‘ пшеницы к са‘ упомянутых продуктов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>1614</td></tr><tr><td>Reference</td><td>Book 9 Hadith 59</td></tr></tbody></table></div>
 

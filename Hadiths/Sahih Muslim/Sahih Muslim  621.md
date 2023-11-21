@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) went to a far-off place in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kuraib] dan lafazh tersebut milik Zuhair, telah menceritakan kepada kami [Ismail] -yaitu Ibnu Ulayyah- telah menceritakan kepada kami [Rauh bin al-Qasim] dari [Atha' bin Abu Maimunah] dari [Anas bin Malik] dia berkata, "Pernah Rasulullah buang hajat, lalu aku membawakan air untuknya, sehingga beliau bersuci dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>621</td></tr><tr><td>Arabic No</td><td>271.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «Когда Посланник Аллаха ﷺ выходил (из дома) по нужде, я приносил ему воду, которую он использовал для подмывания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>621</td></tr><tr><td>Arabic No</td><td>271.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 88</td></tr></tbody></table></div>
 

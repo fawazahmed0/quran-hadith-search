@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Husain Al Mu'allim] dari [Abdullah bin Buraidah] dari [Imran bin Hushain] bahwa dia bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai shalatnya seseorang dengan duduk." beliau bersabda: "Shalatnya seseorang dengan berdiri itu lebih utama dari shalatnya seseorang dengan duduk, dan shalatnya seseorang dengan duduk itu mendapatkan separuh pahala dari shalat dengan berdiri, dan shalatnya seseorang dengan tidur itu mendapatkan pahala separuh dari shalat dengan duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1115)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>951</td></tr><tr><td>Reference</td><td>Book 2 Hadith 562</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что однажды он спросил Пророка ﷺ о человеке, который совершает молитву сидя, и тот сказал: «Молиться стоя лучше для него, чем молиться сидя, и его молитва сидя соответствует половине молитвы, совершённой стоя, а молитва, совершённая лёжа, соответствует половине молитвы, совершённой сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1115)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>951</td></tr><tr><td>Arabic No</td><td>951</td></tr><tr><td>Reference</td><td>Book 2 Hadith 562</td></tr></tbody></table></div>
 

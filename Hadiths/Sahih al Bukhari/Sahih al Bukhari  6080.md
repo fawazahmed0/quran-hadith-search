@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) visited a household among the An
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Abdul Wahhab] dari [Khalid Al Khaddza'] dari [Anas bin Sirin] dari [Anas bin Malik] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengunjungi rumah milik orang Anshar, lalu beliau makan bersama mereka, ketika beliau hendak keluar, beliau diminta supaya tetap tinggal di rumah tersebut, lalu beliau memercikkan air di atas tikar setelah itu beliau shalat dan mengajak mereka shalat (berjama'ah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6080</td></tr><tr><td>Arabic No</td><td>6080</td></tr><tr><td>Reference</td><td>Book 78 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ посетил один из домов ансаров и поел у них. Когда же он захотел уйти, в одном месте дома по его велению циновку обрызгали водой, а он совершил на ней молитву и обратился к Аллаху с мольбой за них
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6080</td></tr><tr><td>Arabic No</td><td>6080</td></tr><tr><td>Reference</td><td>Book 78 Hadith 108</td></tr></tbody></table></div>
 

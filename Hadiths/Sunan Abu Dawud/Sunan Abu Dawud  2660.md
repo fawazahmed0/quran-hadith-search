@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said “The Prophet (ﷺ) sent ten persons (on an expedition) and a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Ibrahim bin Sa'd], telah mengabarkan kepada kami [Ibnu Syihab] telah mengabarkan kepadaku ['Amr bin Jariyah Ats Tsaqafi], sekutu Bani Zuhrah, dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, ia berkata; Rasulullah shallallahu 'alaihi wasallam mengutus sepuluh orang mata-mata dan menganggkat 'Ashim bin Tsabit sebagai pemimpin. Kemudian orang-orang Hudzail keluar untuk memerangi mereka jumlah mereka sekitar seratus orang pemanah. Kemudian tatkala 'Ashim merasakan kedatangan orang-orang Hudzail tersebut maka mereka berlindung ke dataran tinggi. Kemudian orang-orang Hudzail tersebut berkata; turunlah, dan berikan tangan kalian. Untuk kalian perjanjian agar kami tidak membunuh seorangpun diantara kalian. Kemudian 'Ashim berkata; adapun aku, maka aku tidak akan turun dengan perlindungan orang kafir. Kemudian mereka memanah mereka dan membunuh 'Ashim diantara tujuh orang yang terbunuh. Dan tiga orang turun kepada mereka dengan perjanjian tersebut. Diantara ketiga orang tersebut adalah Khubaib, Zaid bin Ad Datsanah, seseorang yang lain. Kemudian tatkala orang-orang tersebut menguasai mereka maka mereka melepaskan tali busur mereka dan mengikat ketiga orang tersebut. Orang yang ketiga berkata; ini adalah awal pengingkaran janji. Demi Allah aku tidak akan menyertai kalian, sesungguhnya mereka adalah teladanku. Kemudian mereka menariknya namun ia menolak untuk mengikut mereka. Lalu mereka membunuhnya. Dan Khubaib tetap menjadi tawanan hingga mereka bersepakat untuk membunuhnya. Lalu ia meminjam pisau untuk mencukur rambut kemaluannya. Kemudian tatkala mereka keluar membawanya untuk mereka bunuh Khubaib berkata kepada mereka; biarkan aku untuk melakukan shalat dua raka'at! Kemudian ia berkata; demi Allah, seandainya kalian tidak menyangka bahwa aku takut niscaya aku akan menambahnya. Telah menceritakan kepada kami [Ibnu 'Auf], telah menceritakan kepada kami [Abu Al Yaman], telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri], telah mengabarkan kepadaku ['Amr bin Sufyan bin Asid bin Jariyah Ats Tsaqafi] ia adalah sekutu Bani Zuhrah, dan ia termasuk sahabat Abu Hurairah. Kemudian ia menyebutkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3045)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2660</td></tr><tr><td>Arabic No</td><td>2660</td></tr><tr><td>Reference</td><td>Book 15 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3045)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2660</td></tr><tr><td>Arabic No</td><td>2660</td></tr><tr><td>Reference</td><td>Book 15 Hadith 184</td></tr></tbody></table></div>
 

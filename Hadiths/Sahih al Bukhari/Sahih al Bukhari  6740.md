@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) gave the judgment that a male or fe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Ibnul Musayyab] dari [Abu Hurairah] bahwasanya ia mengatakan; Rasulullah Shallallahu'alaihiwasallam menetapkan tentang janin wanita dari Bani lahyan yang keguguran dengan ghurrah (pembayaran diyat dengan satu budak atau budak perempuan), kemudian wanita yang beliau putuskan membayar ghurrah meninggal, maka Rasulullah Shallallahu'alaihiwasallam memutuskan bahwa warisannya untuk anak laki-lakinya dan suaminya, sedang diyatnya bagi 'ashobahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6740</td></tr><tr><td>Arabic No</td><td>6740</td></tr><tr><td>Reference</td><td>Book 85 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что Абу Хурайра сказал: «Посланник Аллах ﷺ постановил выплатить женщине из племени бану лихьян компенсацию за погибший плод — раба или рабыню. Вскоре женщина, которой, должна была быть выплачена компенсация, умерла, и Посланник Аллаха ﷺ постановил, что её наследство должно достаться её детям и мужу, а компенсацию (за убийство) должны выплатить родственники убившей со стороны отца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6740</td></tr><tr><td>Arabic No</td><td>6740</td></tr><tr><td>Reference</td><td>Book 85 Hadith 17</td></tr></tbody></table></div>
 

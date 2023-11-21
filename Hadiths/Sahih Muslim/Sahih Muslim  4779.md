@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Usayd Ibn Hudayr (que Dieu l'agrée), un homme des 'Ansâr vint trouve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; saya pernah mendengar [Qatadah] menceritakan dari [Anas bin Malik] dari [Usaid bin Khudlair], bahwa seorang laki-laki Anshar menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Tidakkah anda mengangkatku menjadi pegawai sebagaimana anda mengangkat fulan (menjadi pegawai)?" beliau bersabda: "Sesungguhnya sepeninggalanku kelak, kamu akan menjumpai (penguasa) yang mementingkan diri sendiri. Maka sabarlah hingga kalian berjumpa denganku di telaga." Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid] -yaitu Ibnu Al Harits- telah menceritakan kepada kami [Syu'bah bin Al Hajaj] dari [Qatadah] dia berkata; saya mendengar [Anas] bercerita dari [Usaid bin Hudlair], bahwa seorang laki-laki Anshar menemui Rasulullah shallallahu 'alaihi wasallam sendirian…seperti hadits di atas." Dan telah menceritakan kepadaku ['Ubaidullah bin Mu'ad] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dengan isnad ini, namun dia tidak menyebutkan, "Ia menemui Rasulullah shallallahu 'alaihi wasallam sendirian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4779</td></tr><tr><td>Arabic No</td><td>1845.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Мухаммад ибн Аль-Мусанна и Мухаммад ибн Башшар, сказавшие: Нам рассказал: Мухаммад ибн Джа‘фар, сказавший: Нам рассказал: Шу‘ба, сказавший: я слышал, как Катада рассказывал от Анаса ибн Малика от Усейда ибн Худейра то, что один из ансаров уединившись с посланником Аллаха ﷺ сказал:«О Посланник Аллаха, не назначишь ли ты меня как назначил такого-то?» На что он сказал: «Воистину после меня вы повстречаете корысть (предпочтение будет отдаваться другим над ними в мирских вещах), терпите же, пока не встретитесь со мной у водоёма»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4779</td></tr><tr><td>Arabic No</td><td>1845.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 77</td></tr></tbody></table></div>
 

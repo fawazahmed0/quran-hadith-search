@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Abu Bakr and Al-'Abbas passed by one of the gatherings o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Yahya Abu 'Ali] telah bercerita kepada kami [Syadzan, saudara dari 'Abdan] telah bercerita kepada kami [bapakku] telah mengabarkan kepada kami [Syu'bah bin Al Hajjaj] dari [Hisyam bin Zaid] berkata, aku mendengar [Anas bin Malik] berkata; "Abu Bakr dan Al'Abbas radliallahu 'anhu lewat didepan salah satu majelis dari majelis kaum Anshar saat mereka sedang menangis. Abu Bakr bertanya; "Apa yang menyebabkan kalian menangis?". Mereka menjawab; "Kami teringat dengan majelis Nabi shallallahu 'alaihi wasallam yang pernah kami ikuti ". Maka Al 'Abbas menemui Nabi shallallahu 'alaihi wasallam lalu mengabarkan hal tadi". Perawi berkata; Maka Nabi shallallahu 'alaihi wasallam keluar dalam keadaan kepala beliau dibalut dengan kain selimut. Perawi berkata; Maka belliau menaiki mimbar dan setelah hari itu beliau tidak lagi menaiki mimbar beliau. Beliau memuji Allah dan mensucikan-Nya kemudian bersabda: "Aku wasiatkan kepada kalian (untuk bersikap baik) kepada kaum Anshar. Mereka adalah penjaga rahasiaku dan kepercayaanku. Mereka telah menunaikan apa yang wajib atas mereka dan mereka masih berhak apa yang menjadi hak mereka. Maka terimalah orang-orang yang baik dari kalangan mereka dan maafkanlah orang-orang yang keliru dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3799</td></tr><tr><td>Arabic No</td><td>3799</td></tr><tr><td>Reference</td><td>Book 63 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Как-то раз) Абу Бакр и аль-‘Аббас, да будет доволен Аллах ими обоими, проходившие мимо одного из мест собраний ансаров, да будет доволен ими Аллах, (увидели, что) те плачут, и (кто-то из них) спросил: “Что заставляет вас плакать?” Они ответили: “Мы вспомнили о том, как с нами встречался Пророк ﷺ”. После этого (Аль-‘Аббас, да будет доволен им Аллах,) пришёл к Пророку ﷺ и рассказал ему об этом, и Пророк ﷺ голова которого была повязана куском ткани, использовавшейся в качестве каймы для плаща, вышел (из своей комнаты) и поднялся на минбар, чего после этого дня больше уже никогда не делал. Он воздал хвалу Аллаху и восславил Его, а потом сказал: “Я наказываю вам (заботиться) об ансарах, ибо, поистине, они являются наиболее близкими ко мне людьми и хранителями моих тайн. Они выполнили свой долг, но ещё не получили того, что по праву причитается им, и (поэтому) принимайте (благие дела) от совершающих благое из них и прощайте тех из них, кто совершит дурное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3799</td></tr><tr><td>Arabic No</td><td>3799</td></tr><tr><td>Reference</td><td>Book 63 Hadith 24</td></tr></tbody></table></div>
 

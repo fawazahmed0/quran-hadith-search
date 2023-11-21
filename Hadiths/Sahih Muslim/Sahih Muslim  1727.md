@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of 'A'isha that the prayer of Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1727</td></tr><tr><td>Arabic No</td><td>738.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Ночная молитва Посланника Аллаха ﷺ состояла из десяти рак‘атов, затем он совершал один рак‘ат (делая этим количество рак‘атов) нечётным , после чего он совершал два рак‘ата (дополнительной) утренней молитвы, и таким образом общее количество составляло тринадцать рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1727</td></tr><tr><td>Arabic No</td><td>738.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 156</td></tr></tbody></table></div>
 

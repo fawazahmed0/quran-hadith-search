@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham reported on the authority of his father ('Urwa b. Zubair) that A'isha sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ibnu Numair] dan [Abdah] keduanya berkata; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dia berkata; ['Aisyah] pernah berkata kepadaku: Demi Allah, kedua orang tuamu itu termasuk dari "orang-orang yang mentaati perintah Allah dan rasul-Nya sesudah mereka mendapat luka (dalam peperangan Uhud) …". Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Hisyam] melalui jalur ini, dan ia menambahkan: yakni Abu Bakar dan Az Zubair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6249</td></tr><tr><td>Arabic No</td><td>2418.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6249</td></tr><tr><td>Arabic No</td><td>2418.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 79</td></tr></tbody></table></div>
 

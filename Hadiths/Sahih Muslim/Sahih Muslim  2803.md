@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Khalaf bin Hisyam] dan [Abu Rabi'] dan [Qutaibah] semuanya dari [Hammad] - [Yahya] berkata- telah mengabarkan kepada kami [Hammad bin Zaid] dari [Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; "Rasulullah shallallahu 'alaihi wasallam menetapkan miqat (tempat memulai Ihram) bagi penduduk Madinah di Dzulhulaifah, bagi penduduk Syam di Juhfah, bagi penduduk Nejed di Qarnalmanazil, dan bagi penduduk Yaman di Yalamlam. Tempat-tempat itu berlaku pula bagi orang-orang yang bukan penduduk negeri-negeri tersebut, tetapi ia bermaksud menunaikan haji dan umrah melalui tempat-tempat itu. Dan bagi orang yang lebih dekat ke Makkah dari tempat-tempat tersebut atau bagi penduduk Makkah sendiri adalah dari mana mereka berada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2803</td></tr><tr><td>Arabic No</td><td>1181.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2803</td></tr><tr><td>Arabic No</td><td>1181.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 13</td></tr></tbody></table></div>
 

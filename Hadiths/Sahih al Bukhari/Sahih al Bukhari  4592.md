@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:That the Prophet (ﷺ) dictated to him: "Not equal are 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] dia berkata; Telah menceritakan kepadaku [Ibrahim bin Sa'ad] dari [Shalih bin Kaisan] dari [Ibnu Syihab] dia berkata; Telah menceritakan kepadaku [Sahl bin Sa'ad As Sa'idi] bahwasanya dia melihat [Marwan bin Hakam] sedang berada dimasjid maka aku menemuinya dan duduk di sampingnya. Ia mengabarkan kepada kami, dari [Zaid bin Tsabit] bahwa Rasulullah shallallahu 'alaihi wasallam bahwa mendiktekan kepadanya ayat LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FII SABIILILLAAH' 'Tidaklah sama antara orang mukmin yang tidak ikut berperang dan mereka yang berjihad fii sabilillah.' (An Nisa: 95) Kemudian datang kepadanya Ibnu Ummi Maktum dan beliau mendiktekannya kepadaku. Lalu ia berkata; wahai Rasulullah shallallahu 'alaihi wasallam seandainya saya mampu untuk berjihad, niscaya saya akan berjihad. Dan ia adalah orang yang buta, kemudian Allah menurunkan kepada Rasul-Nya shallallahu 'alaihi wasallam dan pahanya berada di atas pahaku hingga terasa berat bagiku hampir aku merasa takut pahaku patah, kemudian terhilangkan kesusahannya, dan Allah 'azza wajalla menurunkan ayat GHAIRU ULIDHDLARAR' 'Kecuali orang-orang yang mempunyai halangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4592</td></tr><tr><td>Arabic No</td><td>4592</td></tr><tr><td>Reference</td><td>Book 65 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да ас-Са‘иди, да будет доволен им Аллах, что Зейд ибн Сабит, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ диктовал мне аят(, в котором сказано): “Не равны (друг другу) те из верующих, которые отсиживаются (дома), и те, что сражаются на пути Аллаха…”, к нему пришёл Ибн Умм Мактум и сказал: “О Посланник Аллаха, если бы я мог принять участие в джихаде, я бы (тоже) обязательно сражался!” — а он был слепым. И после этого Аллах ниспослал (новое откровение) Своему Посланнику ﷺ, бедро которого было поверх моего бедра, и оно стало таким тяжёлым, что я побоялся, что (моё бедро) будет раздроблено. А когда (ниспослание откровения) ему закончилось, (оказалось, что) Аллах ниспослал следующее: “…кроме тех, кто испытывает тяготы…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4592</td></tr><tr><td>Arabic No</td><td>4592</td></tr><tr><td>Reference</td><td>Book 65 Hadith 114</td></tr></tbody></table></div>
 

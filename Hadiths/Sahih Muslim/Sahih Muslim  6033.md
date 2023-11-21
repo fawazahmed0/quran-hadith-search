@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported:We went to Abdullah b. 'Amr when Mu'dwiya came to Kufa, and he m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan ['Utsman bin Abu Syaibah] keduanya berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Syaqiq] dari [Masruq] dia berkata; 'Kami menemui [Abdullah bin Amru] ketika Mu'awiyah datang ke Kufah, kemudian dia ingat Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Beliau tidak pernah berbuat kejelekan dan tidak menyuruh untuk berbuat kejelekan." Lalu Abdullah bin Amru berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang-orang pilihan di antara kamu ialah yang paling indah budi pekertinya." [Utsman] berkata; 'Ketika dia datang bersama Mu'awiyah ke Kufah.' Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Sa'id Al Asyaj]; Telah menceritakan kepada kami [Abu Khalid] yaitu Al Ahmar seluruhnya dari [Al A'masy] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6033</td></tr><tr><td>Arabic No</td><td>2321.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6033</td></tr><tr><td>Arabic No</td><td>2321.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 91</td></tr></tbody></table></div>
 

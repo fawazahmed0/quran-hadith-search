@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas bin Malik said Among the Jews when a woman menstruated, they did not eat wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami [Tsabit Al Bunani], dari [Anas bin Malik] bahwa orang-orang Yahudi apabila seorang isteri mengalami haid maka mereka mengeluarkannya dari rumah, dan tidak makan bersamanya, tidak mengajaknya bermusyawarah, dan tidak menggaulinya di rumah. Kemudian Rasulullah shallallahu 'alaihi wasallam ditanya mengenai hal tersebut; kemudian Allah subhanahu wa ta'ala menurunkan ayat: "Mereka bertanya kepadamu tentang haidh. Katakanlah: "Haidh itu adalah suatu kotoran." Oleh sebab itu hendaklah kamu menjauhkan diri dari wanita di waktu haidh." Hingga akhir ayat. Rasulullah shallallahu 'alaihi wasallam bersabda: "Bergaullah dengan mereka di rumah dan lakukan segala sesuatu selain bersenggama." Tidaklah orang ini ingin meninggalkan sesuatu yang berasal dari urusan kita melainkan untuk menyelisihi kita. Kemudian Usaid bin Hudhair serta 'Abbad bin Bisyr datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; Wahai Rasulullah, sesungguhnya orang-orang Yahudi mengatakan demikian dan demikian, tidakkah kita bercampur dengan mereka (para isteri) di saat sedang haid? Maka merah padam wajah Rasulullah shallallahu 'alaihi wasallam hingga kami menyangka beliau telah murka kepada mereka. Kemudian mereka berdua keluar, kemudian mereka berpapasan dengan hadiah susu yang diberikan kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian beliau mengirim seseorang agar mengejar mereka berdua, hingga kami menyangka bahwa beliau tidak murka kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2165</td></tr><tr><td>Arabic No</td><td>2165</td></tr><tr><td>Reference</td><td>Book 12 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах: «Иудеи не ели вместе с женщиной, у которой начинались месячные, и не оставались с такими женщинами в одном доме. Сподвижники Пророка ﷺ задали ему вопрос об этом, и тогда Всевышний Аллах ниспослал аят, в котором сказано: “Они спрашивают тебя о менструациях. Скажи: “Они причиняют страдания. Посему избегайте половой близости с женщинами во время менструаций и не приближайтесь к ним, пока они не очистятся. А когда они очистятся, приходите к ним так, как повелел вам Аллах. Воистину, Аллах любит кающихся и любит очищающихся”” (сура 2 «аль-Бакара», аят 222). После этого Посланник Аллаха ﷺ сказал: “Оставайтесь с ними в одном доме и делайте всё, за исключением совокупления”. Тогда иудеи стали говорить: “Что бы мы ни делали, этот человек не желает упускать ни одной возможности, лишь бы поступить наперекор нам!” Усайд ибн Худайр и ‘Аббад ибн Бишр пришли к Пророку ﷺ и сказали: “О Посланник Аллаха, поистине, иудеи говорят то-то и то-то, так не совершать ли нам половые сношения с женщинами в период менструации?” Посланник Аллаха ﷺ изменился в лице так, что мы решили, что он разгневался на них. Однако после того, как они вышли, им встретился человек, нёсший молоко в подарок Посланнику Аллаха ﷺ. Пророк ﷺ сразу послал за ними, и мы поняли, что он на них не разгневался»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2165</td></tr><tr><td>Arabic No</td><td>2165</td></tr><tr><td>Reference</td><td>Book 12 Hadith 120</td></tr></tbody></table></div>
 

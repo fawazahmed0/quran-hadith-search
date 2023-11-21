@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:During some of the Ghazawat of Allah's Messenger (ﷺ) a woma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Ibrahim] berkata; Aku berkata kepada [Abu Usamah] bahwa ['Ubaidullah] telah bercerita kepada kalian dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] yang berkata: Telah ditemukan seorang wanita dalam keadaan terbunuh di sebagian peperangan Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam melarang pembunuhan terhadap wanita dan anak-anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3015</td></tr><tr><td>Arabic No</td><td>3015</td></tr><tr><td>Reference</td><td>Book 56 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а о том, что Ибн ‘Умар, да будет доволен ими обоими Аллах, сказал: «Во время одного из военных походов Посланника Аллаха ﷺ была найдена убитая женщина, и тогда Посланник Аллаха ﷺ запретил убивать женщин и детей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3015</td></tr><tr><td>Arabic No</td><td>3015</td></tr><tr><td>Reference</td><td>Book 56 Hadith 224</td></tr></tbody></table></div>
 

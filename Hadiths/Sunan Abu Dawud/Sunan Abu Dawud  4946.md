@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the prophet (ﷺ) as saying:If anyone removes his brother�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar] dan [Utsman] -keduanya anak Abu Syaibah- secara makna, keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] -Utsman mengatakan- dan [Jarir Ar Razi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Washil bin Abdul A'la] berkata, telah menceritakan kepada kami [Asbath] dari [Al A'masy] dari [Abu Shalih] -Washil berkata; aku diceritakan dari Abu Shalih, kemudian keduanya sepakat- dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa meringankan satu kesusahan seorang muslim di dunia, maka Allah akan meringankan darinya satu kesusahan dari kesusahan-kesusahan pada hari kiamat. Barangsiapa memberi kemudahan kepada orang yang sedang kesulitan, maka Allah akan memberikan kemudahan kepadanya di dunia dan di akhirat. Barangsiapa menutupi aib seorang muslim, maka Allah akan menutupi aibnya di dunia dan di akhirat. Dan Allah akan selalu menolong seorang hamba selama hamba tersebut mau menolong saudaranya." Abu Dawud berkata, "Riwayat Utsman dari Abu Mu'awiyah tidak menyebutkan, "Barangsiapa memberi kemudahan kepada orang yang sedang kesulitan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2699)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4946</td></tr><tr><td>Arabic No</td><td>4946</td></tr><tr><td>Reference</td><td>Book 43 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Того, кто избавит верующего от одной из печалей мира этого, Аллах избавит от одной из печалей Дня воскресения, тому, кто облегчит положение несостоятельного должника, Аллах облегчит его собственное положение и в мире этом, и в мире ином, а того, кто покроет мусульманина, Аллах покроет и в мире этом, и в мире ином, и Аллах будет оказывать помощь (Своему) рабу, пока сам раб оказывает её брату своему. Вступившему на какой-нибудь путь в поисках знания Аллах за это облегчит путь в Рай, а когда люди собираются в одном из домов Аллаха, где они совместно читают и изучают Книгу Аллаха, обязательно нисходит на них спокойствие, и покрывает их милость, и окружают их ангелы и поминает их Аллах среди тех, кто находится пред Ним, тому же, кого станут задерживать дела его, происхождение его не поможет двигаться быстрее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2699)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4946</td></tr><tr><td>Arabic No</td><td>4946</td></tr><tr><td>Reference</td><td>Book 43 Hadith 174</td></tr></tbody></table></div>
 

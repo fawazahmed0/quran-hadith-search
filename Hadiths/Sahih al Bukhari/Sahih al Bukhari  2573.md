@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'b bin Jath-thama:An onager was presented to Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] dari ['Abdullah bin 'Abbas] dari [As Sha'bi bin Jatstsamah] radliallahu 'anhum bahwa dia menghadiahkan Rasulullah shallallahu 'alaihi wasallam seekor keledai liar di Abwa; atau di Waddan namun Beliau menolaknya. Ketika Beliau melihat raut mukanya, Beliau berkata: "Kami tidak bermaksud menolak keledai tersebut, tapi kami menolaknya karena kami sedang ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2573</td></tr><tr><td>Arabic No</td><td>2573</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Аббаса, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ находился в Абве (или: Ваддане), ас-Са‘б ибн Джассама, да будет доволен им Аллах, подарил ему дикого осла, однако он вернул ему (этот подарок); заметив же по его лицу, (что тот огорчён этим,) Пророк ﷺ сказал: «Поистине, мы вернули его тебе только потому, что находимся в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2573</td></tr><tr><td>Arabic No</td><td>2573</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
 

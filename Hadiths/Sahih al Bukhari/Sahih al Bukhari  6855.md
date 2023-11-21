@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim bin Muhammad:Ibn 'Abbas mentioned the couple who had taken the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Abu Az Zanad] dari [Al Qasim bin Muhammad] mengatakan; [Ibnu Abbas] menceritakan tentang dua orang yang saling meli'an. Lantas Abdullah bin Syaddad bertanya; 'Itukah wanita yang Rasulullah Shallallahu'alaihiwasallam mengomentarinya dengan sabdanya: "Jika aku merajam wanita tanpa bukti (niscaya aku merajam orang ini) "? ' Ibnu Abbas menjawab; "Tidak, itu adalah wanita yang terang-terangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6855</td></tr><tr><td>Arabic No</td><td>6855</td></tr><tr><td>Reference</td><td>Book 86 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Касима ибн Мухаммада, что однажды Ибн ‘Аббас упомянул о супружеской паре, которые призывали проклятие друг на друга, и ‘Абдуллах ибн Шаддад сказал: «А это та, о которой сказал Посланник Аллаха ﷺ: “Если бы я и наказал женщину побиванием камнями без доказательства(, то я побил бы её камнями)”». (Ибн ‘Аббас) сказал: «Нет, та женщина была известна (своим развратом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6855</td></tr><tr><td>Arabic No</td><td>6855</td></tr><tr><td>Reference</td><td>Book 86 Hadith 77</td></tr></tbody></table></div>
 

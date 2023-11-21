@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Abu Bakr As-Siddiq said to the Prophet (ﷺ) "O Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepadaku [Ibn Wahb] telah mengabarkan kepadaku [Amru] dari [Yazid] dari [Abul Khair] ia mendengar [Abdullah bin Amru] bahwa [Abu Bakar] Ashshiddiiq radliyallahu'anhu berkata kepada Nabi shallallahu 'alaihi wasallam, "Wahai Rasulullah, ajarilah aku doa yang aku panjatkan dalam shalatku!" Nabi pun berkata: "Ucapkanlah: ALLAAHUMMA INII ZHALAMTU NAFSII ZHULMAN KATSIIRAN WALAA YAGHFIRUDZDZUNUUBA ILLAA ANTA FAHGHFIRLII MIN INDIKA MAGHFIRATAN INNAKA ANTAL GHAFUURURRAHIIM '(Ya Allah, sesungguhnya aku telah menzhalimi diriku sendiri dengan kezhaliman yang banyak, dan tidak ada yang bisa mengampuni dosa selain Engkau, maka ampunilah bagiku dari sisi-Mu, sesungguhnya Engkau Maha pengampun lagi Maha Penyayang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7388</td></tr><tr><td>Arabic No</td><td>7388</td></tr><tr><td>Reference</td><td>Book 97 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакра ас-Сиддика, да будет доволен им Аллах, что однажды он сказал Пророку ﷺ: «О, Посланник Аллаха! Научи меня словам мольбы, с которой я обращался бы к Аллаху во время своей молитвы», и (Пророк ﷺ) сказал: «Говори: “О Аллах, я был сильно несправедлив по отношению к себе, и никто не прощает грехов, кроме Тебя. Даруй мне прощение от Тебя, ибо поистине, Ты — Прощающий, Милостивый” /Аллахумма, инни залямту нафси зульман кясиран, ва ля йагфиру-з-зунуба илля Анта, фа-гфир ли мин ‘инди-кя магфиратан, инна-кя Анта-ль-Гафуру-р-Рахиму/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7388</td></tr><tr><td>Arabic No</td><td>7388</td></tr><tr><td>Reference</td><td>Book 97 Hadith 17</td></tr></tbody></table></div>
 

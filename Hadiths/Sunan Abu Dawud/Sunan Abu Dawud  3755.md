@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Safinah AbuAbdurRahman said that a man prepared food 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah mengabarkan kepada kami [Hammad] dari [Sa'id bin Jumhan] dari [Safinah Abu Abdurrahman] bahwa seorang laki-laki datang kepada Ali bin Abu Thalib sebagai seorang tamu, kemudian Ali membuatkan makanan untuknya. Fatimah kemudian berkata, "Seandainya kita mengundang Rasulullah shallallahu 'alaihi wasallam dan makan bersama kita, maka akan lebih baik." Kemudian mereka mengundang beliau, setelah itu beliau datang dan meletakkan tangannya di atas kedua sisi pintu. Ketika melihat tabir dari katun yang terpasang di salah satu sisi pintu, beliau pun kembali pulang. Fatimah lalu berkata kepada Ali, "Kejarlah beliau dan lihat apa yang membuat beliau kembali pulang." Lalu aku mengikuti beliau dan aku katakan, "Wahai Rasulullah, apakah yang membuat anda kembali pulang?" Kemudian beliau menjawab: "Sesungguhnya tidak boleh bagiku dan bagi seorang nabi untuk memasuki sebuah rumah yang diperhias
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3755</td></tr><tr><td>Arabic No</td><td>3755</td></tr><tr><td>Reference</td><td>Book 28 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сафина Абу Абдуррахман передаёт, что однажды один человек оказал гостеприимство ‘Али ибн Абу Талибу и приготовил для него еду. Фатима сказала: «Ах, если бы мы пригласили Посланника Аллаха ﷺ и он поел вместе с нами!» И они позвали его. Посланник Аллаха ﷺ пришёл и уже положил руку на дверной косяк, но тут увидел разноцветную занавеску в доме, и, повернувшись, пошёл прочь. Фатима сказала ‘Али: «Догони его и узнай, что заставило его вернуться». ‘Али догнал его и спросил: «О Посланник Аллаха! Что заставило тебя вернуться?» Он сказал: «Не пристало мне (или: Пророку) входить в разукрашенный подобным образом дом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3755</td></tr><tr><td>Arabic No</td><td>3755</td></tr><tr><td>Reference</td><td>Book 28 Hadith 20</td></tr></tbody></table></div>
 

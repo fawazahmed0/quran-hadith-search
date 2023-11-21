@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'Abd al-Rahman b. Shamasa al- Mahri who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Abdurrahman bin Wahb] telah menceritakan kepada kami pamanku [Abdullah bin Wahb] telah menceritakan kepada kami ['Amru Al Harits] telah menceritakan kepadaku [Yazid bin Abu Habib] telah menceritakan kepadaku [Abdurrahman bin Syimamah Al Mahri] dia berkata, "Ketika saya berada di tempat Maslamah bin Mukhallad yang saat itu ada [Abdullah bin 'Amru bin Al 'Ash]. Abdullah berkata, "Hari Kiamat itu tidak akan menimpa kecuali atas makhluk yang paling jahat. Mereka lebih jahat daripada orang-orang yang hidup di masa jahiliyah. Tidaklah mereka memohon sesuatu kepada Allah kecuali Dia pasti akan menolaknya (tidak mengabulkannya)." Ketika mereka bercakap-cakap demikian, tiba-tiba datanglah [Uqbah bin 'Amir]. Maka Maslamah berkata kepadanya, "Wahai Uqbah, dengarkanlah apa yang dikatakan Abdullah." Lantas 'Uqbah berkata, "Dia lebih mengetahui. Adapun saya, sesungguhnya saya juga pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Akan senantiasa ada dari umatku satu kelompok yang berperang di atas perkara Allah, mereka mengalahkan musuh-musuh mereka, dan orang-orang yang menyelisihi mereka tidak akan dapat membahayakan mereka sedikitpun hingga datang hari kiamat sedangkan mereka masih dalam keadaan seperti itu." Abdullah pun menimpali, "Benar." Kemudian Allah mengirim sebuah angin yang baunya seperti bau misk dan lembutnya seperti lembut sutera, tidaklah ia melewati seseorang yang di dalam hatinya terdapat keimanan meskipun hanya seberat biji benih, kecuali ia pasti akan diwafatkannya. Maka tinggallah orang-orang jahat saja, lalu terjadilah hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4957</td></tr><tr><td>Arabic No</td><td>1924</td></tr><tr><td>Reference</td><td>Book 33 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4957</td></tr><tr><td>Arabic No</td><td>1924</td></tr><tr><td>Reference</td><td>Book 33 Hadith 252</td></tr></tbody></table></div>
 

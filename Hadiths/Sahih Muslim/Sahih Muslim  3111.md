@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaidullah b. 'Abdullah b. 'Umar reported on the authority of his father (Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Ubaidullah bin Abdullah bin Umar] telah mengabarkan kepadanya, bahwa [bapaknya] berkata; "Rasulullah shallallahu 'alaihi wasallam menjamak antara shalat Maghrib dan Isya' di Jam'. Di antara keduanya tidak ada shalat (sunnah). Beliau shalat Maghrib tiga raka'at dan shalat Isya' dua raka'at." Abdullah selalu shalat seperti itu di Jam' hingga ia berjumpa dengan Allah (wafat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3111</td></tr><tr><td>Arabic No</td><td>1288.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 315</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3111</td></tr><tr><td>Arabic No</td><td>1288.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 315</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:the Prophet (ﷺ) said, "A Muslim cannot be the heir of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Syihab] dari [Ali bin Husain] dari [Amru bin Utsman] dari [Usamah bin Zaid] radliallahu 'anhuma, Nabi shallallahu 'alaihi wasallam bersabda: "Orang muslim tidak mewarisi orang kafir, dan orang Kafir tidak mewarisi orang muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6764</td></tr><tr><td>Arabic No</td><td>6764</td></tr><tr><td>Reference</td><td>Book 85 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Усамы ибн Зейда, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Мусульманин не наследует неверующему, а неверующий не наследует мусульманину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6764</td></tr><tr><td>Arabic No</td><td>6764</td></tr><tr><td>Reference</td><td>Book 85 Hadith 41</td></tr></tbody></table></div>
 

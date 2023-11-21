@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr b. al-As reported:Allah's Messenger (ﷺ) saw me wearing two cl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Mu'adz bin Hisyam]; Telah menceritakan kepadaku [Bapakku] dari [Yahya]; Telah menceritakan kepadaku [Muhammad bin Ibrahim bin Al Harits]; Bahwa [Ibnu Ma'dan]; Telah mengabarkan kepada kaminya, [Jubair bin Nufair]; Telah mengabarkan kepadanya, dan ['Abdullah bin 'Amru bin Al 'Ash]; Telah mengabarkan kepadanya, dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah melihat aku memakai dua potong pakaian yang di celup warna kuning, lalu beliau bersabda: "Sesungguhnya ini adalah pakaian orang-orang kafir, maka janganlah kamu memakainya. Dan telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Yazid bin Harun]; Telah mengabarkan kepada kami [Hisyam]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki'] dari ['Ali bin Al Mubarak] keduanya dari [Yahya bin Abu Katsir] dengan sanad ini, dan keduanya berkata dari [Khalid bin Ma'dan]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5434</td></tr><tr><td>Arabic No</td><td>2077.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5434</td></tr><tr><td>Arabic No</td><td>2077.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 49</td></tr></tbody></table></div>
 

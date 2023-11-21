@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Ibrahim reported:I asked Qasim b. Muhammad about a person who had three 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] semuanya dari [Abu Amir]. [Abd] berkata; telah menceritakan kepada kami [Abdul Malik bin Amru] telah menceritakan kepada kami [Abdullah bin Ja'far Az Zuhri] dari [Sa'd bin Ibrahim] dia berkata; aku bertanya kepada [Al Qasim bin Muhammad] tentang seseorang yang memilki tiga tempat tinggal, lalu dia mewasiatkan sepertiga dari setiap satu tempat tinggal." Sa'd melanjutkan, "Kemudian dia mengumpulkannya menjadi satu." Al Qasim menjawab, " [Aisyah] telah mengabarkan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengamalkan suaru perkara yang tidak kami perintahkan, maka ia tertolak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4493</td></tr><tr><td>Arabic No</td><td>1718.02</td></tr><tr><td>Reference</td><td>Book 30 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4493</td></tr><tr><td>Arabic No</td><td>1718.02</td></tr><tr><td>Reference</td><td>Book 30 Hadith 24</td></tr></tbody></table></div>
 

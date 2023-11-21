@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:'Ashura' (i.e. the tenth of Muharram) was a day on which the tri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Hisyam] berkata, telah menceritakan kepadaku [bapakku] dari ['Aisyah] radliallahu 'anha berkata; Pada zaman Jahiliyyah, hari 'asyura (tanggal sepuluh Dzul Hijjah) adalah hari dimana kaum Quraisy biasa berpuasa, dan Nabi shallallahu 'alaihi wasallam juga melakukan puasa pada hari itu. Ketika beliau sudah tiba di Madinah, beliau tetap berpuasa pada hari itu dan memerintahkan kaum Muslimin melakukan puasa (sebagai kewajiban). Namun setelah turun perintah shaum bulan Ramadlan, bagi siapa yang mau dipersilahkan berpuasa hari 'asyura dan siapa yang mau juga boleh untuk tidak melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3831</td></tr><tr><td>Arabic No</td><td>3831</td></tr><tr><td>Reference</td><td>Book 63 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во времена джахилийи курайшиты постились в день ‘Ашуры, и Пророк ﷺ также постился в этот день. Когда он прибыл в Медину, то (не перестал) поститься в этот день и велел другим соблюдать этот пост. Когда же в обязанность был вменён пост в рамадане, он перестал (поститься) в день ‘Ашуры, и (с тех пор) кто хотел, соблюдал этот пост, а кто не хотел, не делал этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3831</td></tr><tr><td>Arabic No</td><td>3831</td></tr><tr><td>Reference</td><td>Book 63 Hadith 56</td></tr></tbody></table></div>
 

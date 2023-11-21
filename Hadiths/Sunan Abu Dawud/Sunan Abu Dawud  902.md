@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Companions of the Prophet (ﷺ) complained to the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu 'Ajlan] dari [Sumayy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; para sahabat Nabi shallallahu 'alaihi wasallam mengadu kepada beliau tentang sulitnya sujud mereka jika harus menjauhkan kedua tangan dari kedua rusuk dan menjauhkan perut dari kedua paha, maka beliau bersabda: "Gunakanklah lutut-lutut kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>902</td></tr><tr><td>Arabic No</td><td>902</td></tr><tr><td>Reference</td><td>Book 2 Hadith 512</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что сподвижники Пророка ﷺ пожаловались ему на то, что им трудно совершать земной поклон, отстраняя руки и ноги от туловища, и (Посланник Аллаха ﷺ) сказал: «Используйте колени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>902</td></tr><tr><td>Arabic No</td><td>902</td></tr><tr><td>Reference</td><td>Book 2 Hadith 512</td></tr></tbody></table></div>
 

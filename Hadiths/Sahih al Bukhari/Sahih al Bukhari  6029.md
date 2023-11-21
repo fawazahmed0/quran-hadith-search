@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq: Abdullah bin 'Amr mentioned Allah's Messenger (ﷺ) saying that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] saya mendengar [Abu Wa'il] saya mendengar [Masruq] dia berkata; [Abdullah bin 'Amru] berkata. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Syaqiq bin Salamah] dari [Masruq] dia berkata; "Kami pernah menemui [Abdullah bin 'Amru] ketika kami tiba di Kufah bersama Mu'awiyah, kemudian dia ingat Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Beliau tidak pernah berbuat kejelekan dan tidak menyuruh untuk berbuat kejelekan." Lalu (Abdullah bin Amru) berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang terbaik di antara kalian ialah yang paling bagus akhlaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6029</td></tr><tr><td>Arabic No</td><td>6029</td></tr><tr><td>Reference</td><td>Book 78 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал: «Мы зашли к ‘Абдулле ибн ‘Амру, когда он прибыл вместе с Му’авией в Куфу. И он (‘Абдуллах) упомянул Посланника Аллаха ﷺ, сказав: “Он не совершал мерзостей и не стремился к ним. И Посланник Аллаха ﷺ говорил: “К лучшим из вас (относятся) те, кто обладает наилучшими нравами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6029</td></tr><tr><td>Arabic No</td><td>6029</td></tr><tr><td>Reference</td><td>Book 78 Hadith 59</td></tr></tbody></table></div>
 

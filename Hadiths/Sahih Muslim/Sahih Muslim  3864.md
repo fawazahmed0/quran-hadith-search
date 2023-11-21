@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported that Allah's Messenger (ﷺ) for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr As Sa'di] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah Shallallu 'alaihi wa sallam melarang menjual kurma hingga tampak buahnya dan bijian sampai mengeras (tampak matangnya) dan terbebas dari kerusakan, beliau melarang kepada penjual dan pembeli
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3864</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 21 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3864</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 21 Hadith 63</td></tr></tbody></table></div>
 

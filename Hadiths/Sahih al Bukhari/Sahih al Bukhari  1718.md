@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) offered one hundred Budn as Hadi and ordered me 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sayf bin Abu Sulaiman] berkata; Aku mendengar [Mujahid] berkata; telah menceritakan kepada saya [Ibnu Abu Laila] bahwa ['Ali radliallahu 'anhu] menceritakan kepadanya, katanya: Nabi shallallahu 'alaihi wasallam berqurban dengan seratus unta lalu Beliau memerintahkanku tentang daging-dagingnya, maka aku membagi-bagikannya, kemudian memerintahkanku tentang pelana-pelananya maka aku membagi-bagikannya kemudian memerintahkan aku tentang kulit-kulitnya maka aku membagi-bagikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1718</td></tr><tr><td>Arabic No</td><td>1718</td></tr><tr><td>Reference</td><td>Book 25 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, рассказывал: «Пророк ﷺ пригнал сто верблюдов в качестве жертвенных животных и приказал мне раздать их мясо, и я раздал, затем он приказал раздать их попоны, и я раздал, затем он приказал мне раздать их шкуру, и я раздал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1718</td></tr><tr><td>Arabic No</td><td>1718</td></tr><tr><td>Reference</td><td>Book 25 Hadith 196</td></tr></tbody></table></div>
 

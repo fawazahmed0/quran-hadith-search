@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu Ash-Sha'tha said, "Who keeps away from some portion of the Ka'bah?" Mu'awiya
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1608</td></tr><tr><td>Arabic No</td><td>1608</td></tr><tr><td>Reference</td><td>Book 25 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аш-Ша‘са сказал: «Кто сторонится (не прикасается) какой-то части Каабы?! Му‘авия касался четырёх углов Каабы. Однажды Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал ему: “Не нужно касаться к этим двум углам”, а Му‘авия ответил: “В Каабе нет ничего неприкасаемого”. И Ибн аз-Зубайр, да будет доволен Аллах им и его отцом, касался всех углов Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1608</td></tr><tr><td>Arabic No</td><td>1608</td></tr><tr><td>Reference</td><td>Book 25 Hadith 94</td></tr></tbody></table></div>
 

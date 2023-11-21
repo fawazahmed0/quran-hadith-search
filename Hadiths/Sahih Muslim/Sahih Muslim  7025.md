@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir (que Dieu l'agrée) a dit : "Le Prophète (paix et bénédiction de Dieu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ahmad bin 'Abdah Adh Dhabbi] -dan lafadh ini milik Ibnu Abu Syaibah- Ibnu Abdah berkata; Telah mengabarkan kepada kami, dan berkata yang lain; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] bahwasanya ia mendengar [Jabir] berkata; Nabi shallallahu 'alaihi wasallam mendatangi kuburan Abdullah bin Ubbay, setelah ia dimasukkan ke dalam kuburannya, lalu beliau memerintahkan untuk dikeluarkan, dan beliau meletakkannya di atas lutut beliau, kemudian beliau meniup sedikit air liur padanya dan memakaikan baju beliau." Wallahu A'lam. Telah menceritakan kepadaku [Ahmad bin Yusuf Al Azdi] telah menceritakan kepada kami ['Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku ['Amru bin Dinar] dia berkata; Aku mendengar [Jabir bin 'Abdullah] berkata; "Nabi shallallahu 'alaihi wasallam mendatangi kuburan Abdullah bin Ubbay, setelah ia dimasukkan ke dalam kuburannya. -selanjutnya sebagaimana Hadits Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7025</td></tr><tr><td>Arabic No</td><td>2773.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7025</td></tr><tr><td>Arabic No</td><td>2773.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 2</td></tr></tbody></table></div>
 

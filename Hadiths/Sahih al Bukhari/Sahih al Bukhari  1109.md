@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:Salim told me, "'Abdullah bin 'Umar said, 'I saw Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Salim] dari ['Abdullah bin 'Umar radliallahu 'anhu] berkata: "Aku melihat Rasulullah shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib dan menggabungkannya bersama shalat 'Isya'". Berkata, Salim: "Dan 'Abdullah bin 'Umar radliallahu 'anhu mengerjakannya juga bila terdesak (tergesa-gesa) dalam perjalanan. Beliau hanya melaksanakan shalat Maghrib sebanyak tiga raka'at lalu salam. Kemudian berdiam sejenak lalu melaksanakan shalat 'Isya' sebanyak dua raka'at dan dia tidak menyelingi diantara keduanya dengan shalat sunnah satu raka'atpun dan juga tidak sesudahnya hingga Beliau bangun di penghujung malam (untuk shalat malam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1109</td></tr><tr><td>Arabic No</td><td>1109</td></tr><tr><td>Reference</td><td>Book 18 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел, что, когда Посланнику Аллаха ﷺ находящемуся в пути, надо было спешить, он откладывал закатную молитву, чтобы объединить её с вечерней молитвой».\nСалим сказал: «Обычно, ‘Абдуллах ибн ‘Умар, да будет доволен ими обоими Аллах, делал так же, когда спешил в путешествии: он произносил икаму для закатной молитвы и совершал её в три рак‘ата, затем произносил таслим; подождав немного, он произносил икаму для вечерней молитвы и совершал её в два рак‘ата, затем произносил таслим и не совершал между ними ни одного рак‘ата; а после вечерней молитвы ни одного земного поклона, пока не вставал посреди ночи (для ночной /тахаджжуд/ молитвы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1109</td></tr><tr><td>Arabic No</td><td>1109</td></tr><tr><td>Reference</td><td>Book 18 Hadith 29</td></tr></tbody></table></div>
 

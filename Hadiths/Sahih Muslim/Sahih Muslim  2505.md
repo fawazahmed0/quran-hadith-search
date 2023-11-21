@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with both of them) reported Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibnu Hujr] -Yahya bin Yahya berkata- telah mengabarkan kepada kami -sementara yang lain berkata- Telah menceritakan kepada kami [Isma'il] -ia adalah ibnu Ja'far- dari [Abdullah bin Dinar] bahwa ia mendengar [Ibnu Umar] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "(Bilangan) bulan itu adalah dua puluh sembilan malam. Janganlah kalian berpuasa hingga kalian melihatnya (Hilal), dan jangan pula kalian berbuka hingga kalian melihatnya (terbit) kembali. Dan jika hilal itu tertutup dari pandangan kalian, maka (hitunglah bilangannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2505</td></tr><tr><td>Arabic No</td><td>1080.08</td></tr><tr><td>Reference</td><td>Book 13 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2505</td></tr><tr><td>Arabic No</td><td>1080.08</td></tr><tr><td>Reference</td><td>Book 13 Hadith 11</td></tr></tbody></table></div>
 

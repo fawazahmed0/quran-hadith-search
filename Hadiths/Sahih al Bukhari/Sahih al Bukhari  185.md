@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya Al-Mazini:A person asked 'Abdullah bin Zaid who was the grandfath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari ['Amru bin Yahya Al Mazini] dari [Bapaknya] bahwa ada seorang laki-laki berkata kepada ['Abdullah bin Zaid] -dia adalah kakek 'Amru bin Yahya-, "Bisakah engkau perlihatkan kepadaku bagaimana Rasulullah shallallahu 'alaihi wasallam berwudlu?" 'Abdullah bin Zaid lalu menjawab, "Tentu." Abdullah lalu minta diambilkan air wudlu, lalu ia menuangkan air pada kedua tangannya dan membasuhnya dua kali, lalu berkumur dan mengeluarkan air dari dalam hidung sebanyak kali, kemudian membasuh mukanya tiga kali, kemudian membasuh kedua tangan dua kali dua kali sampai ke siku, kemudian mengusap kepalanya dengan tangan, dimulai dari bagian depan dan menariknya hingga sampai pada bagian tengkuk, lalu menariknya kembali ke tempat semula. Setelah itu membasuh kedua kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>185</td></tr><tr><td>Arabic No</td><td>185</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Амр ибн Яхйа аль-Мазиний сообщил со слов своего отца о том, что некий мужчина сказал ‘Абдулле ибн Зейду ибн ‘Асыму, который являлся дедом ‘Амра ибн Яхйи аль-Мазиний: «Можешь ли ты показать мне, как совершал омовение /вудуъ/ Посланник Аллаха ﷺ?» ‘Абдуллах бин Зейд сказал: «Да», и велел принести воды, (а когда её принесли,) он слил воду себе на руки и дважды вымыл их, потом трижды прополоскал рот и промыл нос, потом трижды омыл лицо, потом дважды омыл руки до локтей, потом протёр руками голову, проведя ими ото лба до затылка и вернув обратно к тому месту, откуда начал, а потом омыл ноги
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>185</td></tr><tr><td>Arabic No</td><td>185</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
 

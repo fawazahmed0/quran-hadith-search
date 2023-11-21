@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Yazid Al-Ansari:The Prophet (ﷺ) forbade robbery (taking
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Adiy bin Tsabit] aku mendengar ['Abdullah bin Yazid AL Anshariy] dan 'Abdullah ini adalah kakeknya 'Adiy dari pihak ibunya, berkata: "Nabi shallallahu 'alaihi wasallam telah melarang merampas harta orang dan membuat gambar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2474</td></tr><tr><td>Arabic No</td><td>2474</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Йазид аль-Ансари, да будет доволен им Аллах, сказал: «Пророк ﷺ запрещал грабить и обезображивать трупы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2474</td></tr><tr><td>Arabic No</td><td>2474</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
 

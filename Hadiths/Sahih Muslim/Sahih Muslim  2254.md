@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama b. 'Abd al-Rahman reported on the authority ot 'A'isha that when Sa'd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Abdullah] dan [Muhammad bin Rafi'] -lafazhnya juga milik Ibnu Rafi'- keduanya berkata, telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahak] yakni Ibnu Utsman, dari [Abu Nadlr] dari [Abu Salamah bin Abdurrahman] bahwa ketika Sa'd bin Abu Waqash meninggal, [Aisyah] berkata, "Masukkanlah ia ke dalam masjid hingga aku bisa menshalatkannya." Namun mereka tidak menyetujuinya, maka ia pun berkata, "Demi Allah, sungguh Rasulullah shallallahu 'alaihi wasallam telah menshalatkan jenazah dua orang putra Baidla' di dalam masjid, yaitu Suhail dan saudaranya." Muslim berkata; "Suhail bin Da'd adalah Ibnul Baidla', dan ibunya adalah Baidla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2254</td></tr><tr><td>Arabic No</td><td>973.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Салямы ибн ‘Абдуррахмана, что, когда умер Са‘д ибн Аби Ваккас, ‘Аиша сказала: «Занесите его в мечеть, чтобы я совершила по нему (заупокойную) молитву». Её стали порицать за это, а она сказала: «Клянусь Аллахом, Посланник Аллаха ﷺ совершал молитву в мечети по двум сыновьям Байды: Сухайлю и его брату»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2254</td></tr><tr><td>Arabic No</td><td>973.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 130</td></tr></tbody></table></div>
 

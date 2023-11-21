@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas reported :One day the Messenger of Allah (May peace be upon him) had sexual
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Humaid Ath-Thawil] dari [Anas] bahwasarnya Rasulullah shallallahu 'alaihi wasallam pada suatu hari pernah menggilir istri-istri beliau (untuk bersenggama) dengan sekali mandi. Abu Dawud berkata; Demikian yang diriwayatkan oleh [Hisyam bin Zaid] dari [Anas] dan [Ma'mar] dari [Qatadah] dari [Anas] dan [Shalih bin Abi Al Ahdlar] dari [Az-Zuhri] semuanya dari [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса: «Однажды Посланник Аллаха ﷺ обошел всех своих жен, при этом искупавшись лишь один раз».Абу Дауд сказал: «В таком виде этот хадис передал Хишам ибн Зейд от Анаса, Ма‘мар от Катады со слов Анаса, а Салих ибн Абу-ль-Ахдар от аз-Зухри. Все эти версии переданы со слов Анаса от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
 

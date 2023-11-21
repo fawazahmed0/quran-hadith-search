@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:Allah's Messenger (may peace he upon him) sent us (o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Jabbar bin Al 'Ala] telah mengabarkan kepada kami [Sufyan] dia berkata; ['Amru] pernah mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam mengirim kami beserta tiga ratus prajurit penunggang kuda yang dipimpin oleh Abu 'Ubaidah bin Jarrah untuk mengintai kafilah dagang orang-orang Quraisy, maka kami bermukim di pantai selama setengah bulan hingga kami kelaparan. Kami kemudian memakan al Khabath (dedaunan) yang terjatuh dari pohonnya, sehingga kami pun disebut dengan pasukan al Khabath. Kemudian laut mendamparkan seekor ikan besar yang disebut Al 'Anbar kepada kami, kami lalu memakannya dan mengambil minyaknya hingga stamina kami pulih dan kuat kembali." Jabir menurutkan, "Kemudian Abu Ubaidah mengambil tulang rusuknya dan mendirikannya, setelah itu dia menyuruh orang yang paling tinggi di antara kami dan yang paling tinggi untanya untuk berjalan lewat bawah rongga tersebut (tulang ikan tersebut)." Jabir melanjutkan, "Beberapa orang juga ada yang masuk ke rongga matanya." Jabir berkata, "kemudian kami mengambil daging dari rongga matanya tersebut begini dan begini, yaitu sedikit dari minyaknya." Jabir berkata, "Ketika itu kami juga membawa sekantong kurma, dan Abu 'Ubaidah memberi kurma segenggam-segenggam kepada setiap prajurit, hingga pernah hanya memberi kami satu biji kurma-satu biji kurma, ketika kurma tersebut habis kamipun mendapatkan gantinya (bangkai ikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>1935.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>1935.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 28</td></tr></tbody></table></div>
 

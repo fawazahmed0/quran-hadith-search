@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I will narrate to you a Habith I heard from Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar Al Haudli] Telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] radliallahu 'anhu, ia berkata; Aku benar-benar akan menceritakan suatu hadits yang telah aku dengar dari Rasulullah shallallahu 'alaihi wasallam, yang selain diriku tidak akan menceritakannya kepada kalian. Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Diantara tanda hari kiamat datang adalah ilmu diangkat, banyaknya kebodohan, merajalelanya perzinahan, banyaknya orang yang meminum khamer dan sedikitnya kaum laki-laki serta banyaknya kaum wanita hingga jika ada lima puluh orang wanita namun hanya ada satu orang laki-laki dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5231</td></tr><tr><td>Arabic No</td><td>5231</td></tr><tr><td>Reference</td><td>Book 67 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анас, да будет доволен им Аллах, сказал: «Я передам вам такой хадис, который после меня не передаст уже никто. Я слышал, как Посланник Аллаха ﷺ сказал: “Предзнаменованием близости Часа этого станет то, что (количество) знания уменьшится, а невежество, прелюбодеяния и опьяняющие напитки получат (широкое) распространение, и количество мужчин сократится, а количество женщин возрастёт (до такой степени), что на пятьдесят женщин будет приходиться (только) один мужчина, опекающий их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5231</td></tr><tr><td>Arabic No</td><td>5231</td></tr><tr><td>Reference</td><td>Book 67 Hadith 164</td></tr></tbody></table></div>
 

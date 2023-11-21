@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:After offering the Sunna of the Fajr prayer, the Prophet (ﷺ) u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Al Hakam] telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada saya [Salim Abu An-Nadhir] dari [Abu Salamah] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam jika selesai dari shalat malam dan aku sudah terbangun Beliau mengajak aku berbincang-bincang dan jika tidak, Beliau akan berbaring hingga datang seruan untuk shalat (Shubuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1161</td></tr><tr><td>Arabic No</td><td>1161</td></tr><tr><td>Reference</td><td>Book 19 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что «когда Пророк ﷺ завершал свою дополнительную молитву в конце ночи, он смотрел, (сплю ли я), и если я не спала, то мы разговаривали. Если же я спала, он ложился и лежал до призыва на утреннюю молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1161</td></tr><tr><td>Arabic No</td><td>1161</td></tr><tr><td>Reference</td><td>Book 19 Hadith 40</td></tr></tbody></table></div>
 

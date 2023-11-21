@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) did Ramal in (first) three rounds
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Muhammad bin Salam] telah menceritakan kepada kami [Suraij bin An-Nu'man] telah menceritakan kepada kami [Fulaih] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Rasulullah Shallallahu'alaihiwasallam melaksanakan sa'iy dengan berlari-lari kecil pada tiga putaran dan berjalan biasa pada empat putaran sisanya dalam pelaksanaan hajji maupun 'umrah". Hadits ini diikuti pula oleh [Al Laits], dia berkata; telah menceritakan kepada saya [Katsir bin Farqad] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] dari Nabi Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1604</td></tr><tr><td>Arabic No</td><td>1604</td></tr><tr><td>Reference</td><td>Book 25 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ передаёт, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ совершая таваф во время хаджа и ‘умры, преодолевал первые три круга быстрым шагом, а оставшиеся четыре — обычным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1604</td></tr><tr><td>Arabic No</td><td>1604</td></tr><tr><td>Reference</td><td>Book 25 Hadith 90</td></tr></tbody></table></div>
 

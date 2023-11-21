@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "There will be no town which Ad-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Al Walid] telah menceritakan kepada kami [Abu 'Amru] telah menceritakan kepada kami [Ishaq] telah menceritakan kepada saya [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada suatu negeripun yang tidak akan dimasuki Dajjal kecuali Makkah dan Madinah, karena tidak ada satu pintu masukpun dari pintu-pintu gerbangnya kecuali ada para malaikat yang berbaris menjaganya. Kemudian Madinah akan berguncang sebanyak tiga kali sehingga Allah mengeluarkan orang-orang kafir dan munafiq daripadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 29 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не останется ни одного города, куда не вступит Антихрист, кроме Мекки и Медины, ибо не будет ни одного входа (в эти города), где не окажется перед ним стоящих в ряд ангелов, которые станут охранять (этот город), а потом Медина со (всеми) её обитателями сотрясётся трижды, и Аллах удалит (оттуда) каждого неверного и лицемера»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 29 Hadith 15</td></tr></tbody></table></div>
 

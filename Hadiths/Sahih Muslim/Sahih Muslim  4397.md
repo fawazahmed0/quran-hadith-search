@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al-Mughîra Ibn Chu'ba et Muhammad Ibn Maslama (رضي الله عنه�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Abu Bakar. [Ishaq] berkata; telah mengabarkan kepada kami, dia berkata; perawi berkata; telah menceritakan kepada kami [Waki'] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Al Miswar bin Mahramah], sedangkan yang dua mengatakan, "Umar bin Khattab bermusyawarah dengan orang-orang mengenai hukuman wanita yang menggugurkan kandungan, maka [Mughirah bin Syu'bah] berkata, "Aku pernah menyaksikan Nabi shallallahu 'alaihi wasallam memberi putusan dalam masalah itu, bahwa dendanya adalah dengan membebaskan seorang budak mahal, baik budak tersebut laki-laki atau perempuan." Umar berkata, "Hadapkanlah kepadaku orang-orang yang pernah menyaksikan denganmu putusan Rasulullah shallallahu 'alaihi wasallam tersebut!" Mughirah berkata, " [Muhammad bin Maslamah] adalah salah seorang yang pernah ikut menyaksikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4397</td></tr><tr><td>Arabic No</td><td>1683</td></tr><tr><td>Reference</td><td>Book 28 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4397</td></tr><tr><td>Arabic No</td><td>1683</td></tr><tr><td>Reference</td><td>Book 28 Hadith 56</td></tr></tbody></table></div>
 

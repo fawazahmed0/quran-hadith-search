@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said at Mina, "Do you know what day is toda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami ['Ashim bin Muhammad bin Zaid] dari [Ayahnya] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; Nabi shallallahu 'alaihi wasallam bersabda ketika di Mina: "Apakah kalian tahu hari apakah ini?" orang-orang menjawab; "Allah dan Rasul-Nya yang lebih tahu." Beliau bersabda: "Sesungguhnya hari ini adalah hari haram (yang dimuliakan), apakah kalian tahu negeri apakah ini?" orang-orang menjawab; "Allah dan Rasul-Nya yang lebih tahu." Beliau menjawab: "Ini adalah negeri haram, apakah kalian tahu bulan apakah sekarang?"orang-orang menjawab; "Allah dan Rasul-Nya yang lebih tahu." Beliau bersabda: "Ini adalah bulan haram." Beliau melanjutkan: "Sesungguhnya Allah telah mengharamkan atas kalian darah kalian, harta benda kalian dan kehormatan kalian sebagaimana kehormatan pada hari kalian ini, bulan ini dan di negeri kalian ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6043</td></tr><tr><td>Arabic No</td><td>6043</td></tr><tr><td>Reference</td><td>Book 78 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, рассказал: «Пророк ﷺ сказал в Мине: “Знаете ли вы, какой это день?” Люди ответили: “Аллах и Его посланник знают об этом лучше”. Он сказал: “Это запретный день. А знаете ли вы, что это за город?” Люди ответили: “Аллах и Его посланник знают об этом лучше”. Тогда он сказал: “Это запретный город. Знаете ли вы, какой это месяц?” Люди ответили: “Аллах и Его посланник знают об этом лучше”. Тогда он сказал: “Это запретный месяц”. [А затем] сказал: “Поистине, Аллах сделал запретными для вас ваши жизни, ваше имущество и вашу честь так же, как запретными для вас является этот ваш день в этом вашем месяце в этом вашем городе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6043</td></tr><tr><td>Arabic No</td><td>6043</td></tr><tr><td>Reference</td><td>Book 78 Hadith 73</td></tr></tbody></table></div>
 

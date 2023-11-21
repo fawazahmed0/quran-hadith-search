@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin 'Aun Al Hilali] telah menceritakan kepada kami [Abu Ishaq Al Fazari Ibrahim bin Muhammad] dari [Suhail bin Abu Shalih] dari [ayahnya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan berkumpul dalam neraka, yang salah satunya dapat membahayakan yang lain." Beliau ditanya, "Siapa mereka wahai Rasulullah?" Beliau menjawab: "Seorang mukmin yang membunuh orang kafir, lalu dia konsisten dalam perlakuannya yang benar itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4896</td></tr><tr><td>Arabic No</td><td>1891.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4896</td></tr><tr><td>Arabic No</td><td>1891.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 192</td></tr></tbody></table></div>
 

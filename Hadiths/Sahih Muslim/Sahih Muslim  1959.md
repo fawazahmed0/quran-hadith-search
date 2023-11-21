@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aisha reported:The people (mostly) were workers and they had no servants. Ill-sm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Yahya bin Sa'id] dari [Amrah] dari [Aisyah] bahwa ia berkata; Dulu pada pekerja tidak memiliki pelayan hingga tubuh mereka mengeluarkan aroma yang tidak sedap, maka dikatakanlah kepada mereka, "Sekiranya, kalian semua mandi pada hari jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1959</td></tr><tr><td>Arabic No</td><td>847.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «(В то время) люди зарабатывали на жизнь своим трудом и у них не было слуг, (которые работали бы за них), (и по этой причине) от них исходил неприятный запах, поэтому им было сказано: “Было бы хорошо, если бы вы совершили большое омовение по пятницам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1959</td></tr><tr><td>Arabic No</td><td>847.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 9</td></tr></tbody></table></div>
 

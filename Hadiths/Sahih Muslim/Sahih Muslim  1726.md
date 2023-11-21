@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama is reported to have said. I came to 'A'isha. I said:O mother, inform 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abdullah bin Abu Labid] ia mendengar [Abu Salamah], katanya; Aku pernah menemui ['Aisyah] seraya berkata; "Wahai bunda, beritahukanlah kepadaku tentang shalat (malam) Rasulullah shallallahu 'alaihi wasallam!" Dia menjawab; "Beliau biasa mengerjakan shalat (malam) baik dibulan Ramadhan atau selainnya sebanyak tiga belas rakaat, termasuk dua rakaat fajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>738.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Саляма сказал: «Я пришёл к ‘Аиши и сказал: “О мать, расскажи мне о молитве Посланника Аллаха ﷺ”. И она сказала: “Его ночная молитва в (месяце) рамадан и другие (месяцы) состояла из тринадцати рак‘атов, два из которых были (дополнительной) утренней молитвой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>738.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 155</td></tr></tbody></table></div>
 

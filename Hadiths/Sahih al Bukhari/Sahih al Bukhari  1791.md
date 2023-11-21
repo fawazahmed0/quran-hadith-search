@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Isma'il:'Abdullah bin Abu 'Aufa said: "Allah's Messenger (ﷺ) performe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dari [Jarir] dari [Isma'il] dari ['Abdullah bin Abu Awfa] berkata: "Rasulullah shallallahu 'alaihi wasallam menunaikan 'umrah begitu juga kami bersama Beliau. Ketika Beliau memasuki Makkah Beliau melaksanakan thawaf, begitu juga kami melaksanakannya kemudian Beliau mendatangi bukit Ash-Shafaa dan Al Marwah begitu juga kami (untuk melaksanakan sa'iy). Saat itu kami melindungi Beliau dari penduduk Makkah bila ada seseorang yang akan melempari Beliau. Ada di antara sahabatku yang bertanya kepadanya ('Abdullah bin Abu Awfa): "Apakah pada saat itu Beliau masuk ke dalam Ka'bah?". Dia menjawab: "Tidak". Sahabatku itu berkata: "Ceritakanlah kepada kami apa yang dikatakan Beliau tentang Khadijah radliallahu 'anha". Beliau bersabda: "Berikanlah kabar genbira kepada Khadijah (bahwa ia akan memperoleh) rumah di surga yang terbuat dari mutiara yang didalamnya tidak ada hiruk pikuk dan kepayahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Исма‘иля, что ‘Абдуллах ибн Абу Ауфа сказал: «Посланник Аллаха ﷺ совершил ‘умру, и мы тоже совершили ‘умру вместе с ним. Когда он вошёл в Мекку, он совершил таваф, и мы тоже совершили его вместе с ним, а затем он пришёл к ас-Сафе и аль-Марве (то есть совершил бег между ними), и мы также пришли к ним вместе с ним. Мы защищали его от жителей Мекки, чтобы они не попали в него стрелой». Один из моих друзей спросил его (‘Абдуллаха ибн Ауфу): «Входил ли Пророк ﷺ внутрь Каабы (во время этой ‘умры)?» Он ответил: «Нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

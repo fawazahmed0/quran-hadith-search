@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:That he heard 'Umar's second speech he delivered when he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] dari [Az Zuhri] telah mengabarkan kepadaku [Anas bin Malik] radliallahu 'anhu, ia mendengar khutbah Umar yang terakhir ketika dia duduk diatas minbar, itu terjadi keesokan harinya setelah kewafatan Nabi shallallahu 'alaihi wasallam, [Umar] mengucapkan syahadat sedang Abu Bakar diam membisu tidak berbicara sama sekali. Kata Umar; 'aku sangat berharap seandainya Rasulullah Shallallahu'alaihiwasallam masih hidup hingga beliau hidup di belakang kita.' -Maksud Umar adalah seandainya Nabi shallallahu 'alaihi wasallam yang meninggal terakhir kali diantara para sahabat.- 'meskipun Muhammad Shallallahu'alaihiwasallam telah meninggal, tapi sesungguhnya Allah ta'ala telah menjadikan cahaya ditengah-tengah kalian yang bisa kalian jadikan untuk petunjuk. Allah telah menganugerahkan petunjuk kepada Muhammad Shallallahu'alaihiwasallam, dan sesungguhnya Abu Bakar adalah sahabat Rasulullah Shallallahu'alaihiwasallam, satu diantara dua orang (yang bersama beliau di gua tsur), dia adalah manusia yang paling utama untuk memegang amanat kepemimpinan urusan kalian, maka berdirilah kalian dan berbaiatlah kepadanya.' Sebagian diantara mereka ketika itu telah berbaiat kepadanya sebelum moment itu di Saqifah Bani Sa'idah, dan itulah bai'at umum diatas minbar. Az Zuhri mengatakan, dari Anas bin Malik, aku mendengar Umar mengatakan kepada Abu bakar ketika itu; "Naiklah engkau ke minbar!" Umar tiada henti-hentinya membujuknya hingga Abu bakar naik minbar, serta merta manusia secara umum berbaiat kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7219</td></tr><tr><td>Arabic No</td><td>7219</td></tr><tr><td>Reference</td><td>Book 93 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, рассказывал, как он слышал вторую проповедь ‘Умара, когда он сидел на минбаре, и это было на следующий день после смерти Пророка ﷺ. Прежде, чем начать говорить, ‘Умар восхвалил Аллаха, — а Абу Бакр молчал, ничего не говоря, — затем ‘Умар сказал: «Я надеялся, что Посланник Аллаха ﷺ переживёт всех нас», — имея в виду, что он умрёт последним: «И, несмотря на то, что Мухаммад ﷺ умер, воистину, Всевышний Аллах оставил среди вас свет (Коран), посредством которого вы последуете прямому пути, которым Он вёл Мухаммада ﷺ. И поистине, Абу Бакр — это сподвижник Посланника Аллаха ﷺ являвшийся одним из двух (находившихся в пещере). И воистину, он сильнее всех достоин того, чтобы решать дела мусульман, так встаньте же и присягните ему». И группа из числа людей уже присягнула Абу Бакру до этого под навесом племени бану са‘ида. Однако общая присяга всех была возле минбара (в этот день). \nИ Анас также сказал: «Я слышал, как ‘Умар говорил Абу Бакру в тот день: “Взойди на минбар”. И он взошёл на него, и все люди дали ему присягу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7219</td></tr><tr><td>Arabic No</td><td>7219</td></tr><tr><td>Reference</td><td>Book 93 Hadith 79</td></tr></tbody></table></div>
 

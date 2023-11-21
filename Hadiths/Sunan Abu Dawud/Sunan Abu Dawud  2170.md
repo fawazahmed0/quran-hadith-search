@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id reported “The people mentioned about withdrawing the penis before 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il Ath Thalaqani], telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Mujahid] dari [Qaza'ah] dari [Abu Sa'id], telah disebutkan 'azl (mengeluarkan mani di luar rahim) di hadapan Rasulullah shallallahu wa'alaihi wa sallam, kemudian beliau berkata: "Kenapa salah seorang diantara kalian melakukannya -bukan mengatakan: "Janganlah salah seorang diantara kalian melakukannya"-."Sesungguhnya tidak ada jiwa yang tercipta kecuali Allah yang menciptakannya." Abu Daud berkata; Qaza'ah adalah mantan budak Ziyad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1438)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2170</td></tr><tr><td>Arabic No</td><td>2170</td></tr><tr><td>Reference</td><td>Book 12 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида, да будет доволен им Аллах, что однажды Пророка ﷺ спросили об извержении семени вне лона и он сказал: «А зачем вы поступаете так?» Однако он не сказал: «Не делайте этого». Он также сказал: «Аллах непременно сотворит душу, которой предопределено быть сотворённой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1438)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2170</td></tr><tr><td>Arabic No</td><td>2170</td></tr><tr><td>Reference</td><td>Book 12 Hadith 125</td></tr></tbody></table></div>
 

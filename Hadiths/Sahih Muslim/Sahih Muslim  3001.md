@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad b. 'Abd al-Rahman reported:A person from Iraq said to him to inquire fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Al Harits] dari [Muhammad bin Abdurrahman] bahwa seorang laki-laki dari penduduk Irak berkata kepadanya, "Tanyakanlah untukku kepada [Urwah bin Zubair] mengenai seorang laki-laki yang ihram untuk haji. Setelah ia melakukan thawaf di Baitullah, bolehkah ia bertahallul atau tidak. Jika ia menjawab boleh, maka katakanlah padanya, bahwa ada seseorang yang menjawab seperti itu." Muhammad bin Abdurrahman berkata; Maka aku pun menanyakan hal itu pada Urwah, lalu ia menjawab, "Tidak boleh bagi tahallul bagi seorang yang ihram untuk haji kecuali dengan haji." Saya berkata, "Sesungguhnya telah ada seseorang yang membolehkannya." Urwah berkata, "Alangkah buruknya apa yang ia katakan." Kemudian laki-laki tadi merintangiku, maka aku pun menceritakan kepadanya (apa yang dikatakan Urwah). Lalu laki-laki itu berkata, "Katakan kepadanya bahwa seseorang yang membolehkan itu mengabarkan bahwa Rasulullah shallallahu 'alaihi wasallam telah berbuat demikian, dan bagaimana dengan Asma' dan Zubair yang juga pernah melakukannya?" Maka aku mendatangi Urwah dan menuturkan hal itu padanya, namun ia balik bertanya, "Siapakah orang ini, kenapa ia tidak datang sendiri untuk menanyakannya? Menurut dugaanku ia adalah seorang penduduk Irak." Saya menjawab, "Aku tidak tahu." Urwah berkata, "Sesungguhnya ia telah berdusta. Rasulullah shallallahu 'alaihi wasallam telah menunaikan haji. Kemudian [Aisyah] telah mengabarkan kepadaku bahwa yang pertama kali dilakukan sesampainya beliau di Makkah adalah berwudlu, lalu beliau thawaf di Baitullah. Kemudian Abu Bakar juga pernah menunaikan haji, dan hal yang pertama kali diperbuatnya adalah thawaf di Baitullah, bukan dengan yang lainnya. Lalu Umar juga berbuat demikian. Setelah itu, Utsman menunaikan haji, lalu saya melihat yang pertama kali dilakukannya juga thawaf di Baitullah, bukan dengan yang lainnya. Sesudah itu Mu'awiyah dan Abdullah bin Umar. Dan aku juga pernah menunaikan haji bersama Abu Zubair bin Al Awwam, dan yang pertama kali dikerjakannya adalah thawaf di Baitullah, bukan dengan yang lainnya. Aku juga melihat kaum Muhajirin dan Anshar berbuat demikian, bukan dengan yang lainnya. Dan yang terakhir kali aku lihat berbuat seperti itu adalah Ibnu Umar, dan ia belum pernah membatalkannya dengan Umrah. Sekarang Ibnu Umar ada di tengah-tengah mereka, lalu kenapa mereka tidak bertanya kepadanya? Tidak seorang pun dari mereka yang telah mendahului kita yang tidak memulainya dengan thawaf di Baitullah saat pertama kali mereka menginjakkan kaki (di Makkah). Setelah itu, mereka tidak bertahallul. Sungguh, saya juga telah melihat ibu dan bibiku saat mereka sampai di Makkah, mereka tidak memulainya dengan ritual apa pun di Baitullah kecuali thawaf di Baitullah, kemudian mereka tidak bertahallul. Dan ibuku telah mengabarkan kepadaku, bahwa ia beserta saudaranya dan Az Zubair serta si Fulan dan Fulan pernah menunaikan umrah, dan ketika mereka telah membasuh rukun, mereka pun bertahallul. Dan sungguhnya seorang Irak tadi telah berdusta terhadap apa yang dikatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3001</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 15 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3001</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 15 Hadith 209</td></tr></tbody></table></div>
 

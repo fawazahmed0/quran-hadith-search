@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once the Prophet (ﷺ) wrote a letter or had an idea of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqotil Abu Al Hasan Al Marwazi] telah mengabarkan kepada kami [Abdullah] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Qotadah] dari [Anas bin Malik] berkata: Nabi shallallahu 'alaihi wasallam menulis surat atau bermaksud menulis surat, lalu dikatakan kepada Beliau, bahwa mereka tidak akan membaca tulisan kecuali tertera stempel. Maka Nabi shallallahu 'alaihi wasallam membuat stempel yang terbuat dari perak yang bertanda; Muhammad Rasulullah. Seakan-akan aku melihat warna putih pada tangan Beliau shallallahu 'alaihi wasallam". Lalu aku bertanya kepada Qotadah: "Siapa yang membuat tanda Muhammad Rasulullah?" Jawabnya: "Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Arabic No</td><td>65</td></tr><tr><td>Reference</td><td>Book 3 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Однажды, когда Пророк ﷺ написал (или: хотел написать) одно из своих посланий, ему сказали: “Они читают только запечатанные послания”. Тогда (Пророк ﷺ) взял серебряный перстень, на котором была выгравирована надпись “Мухаммад, Посланник Аллаха”, а белизна этого перстня на его руке и сейчас стоит у меня перед глазами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Arabic No</td><td>65</td></tr><tr><td>Reference</td><td>Book 3 Hadith 7</td></tr></tbody></table></div>
 

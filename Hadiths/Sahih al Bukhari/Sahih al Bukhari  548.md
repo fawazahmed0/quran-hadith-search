@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We used to pray the 'Asr prayer and after that if someon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] dari [Anas bin Malik] berkata, "Kami pernah shalat 'Ashar kemudian orang-orang keluar menuju Bani 'Amru bin 'Auf, dan kami dapati mereka sedang melaksanakan shalat 'Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>548</td></tr><tr><td>Reference</td><td>Book 9 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «После того как мы заканчивали послеполуденную молитву, человек мог добраться до (домов людей из племени) бану ‘Амр ибн ‘Ауф и застать их за совершением этой молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>548</td></tr><tr><td>Reference</td><td>Book 9 Hadith 25</td></tr></tbody></table></div>
 

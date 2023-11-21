@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: The Messenger of Allah (ﷺ) said to me: O AbuDharr: I replie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Abu Imran] dari [Al Musya'ats bin Tharif] dari [Abdullah bin Ash Shamit] dari [Abu Dzar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abu Dzar!" Aku menjawab, "Wahai Rasulullah, aku penuhi panggilanmu. Dan semoga kebahagiaan selalu menyertaimu." Beliau bersabda: "Wahai Abu Dzar, bagaimana menurutmu jika manusia mendapati kematian kemudian rumahnya ada dalam kuburan?" Aku menjawab, "Allah dan Rasul-Nya lebih tahu, atau ia mengatakan, "Sebagaimana yang menjadi pilihan Allah dan Rasul-Nya." Beliau bersabda: "Hendaknya engkau bersabar, atau beliau mengatakan, "bersabarlah." Abu Dawud berkata, "Hammad bin Sulaiman berkata, "Tangan An Nabbasy (orang yang menggali kuburan untuk mengambil harta mayit) itu harus dipotong, sebab ia memasuki rumah mayit (kuburan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4409</td></tr><tr><td>Arabic No</td><td>4409</td></tr><tr><td>Reference</td><td>Book 40 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Зарра: «Однажды Посланник Аллаха ﷺ сказал мне: “О Абу Зарр!” Я ответил: “Вот я перед тобой, о Посланник Аллаха, и готов служить тебе”. (Посланник Аллаха ﷺ) сказал: “Что будешь делать ты, когда постигнет людей смерть и дома (могилы) будут стоить столько же, сколько стоит раб?” Я ответил: “Аллах и Его посланник знают об этом лучше (или: да будет то, что избрал для меня Аллах и Его посланник)”. (Посланник Аллаха ﷺ) сказал: “Ты должен будешь проявить терпение”». Хаммад ибн Абу Сулейман сказал: «Разорителю могил отрубают руку, потому что он входит в “дом” умершего и ворует оттуда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4409</td></tr><tr><td>Arabic No</td><td>4409</td></tr><tr><td>Reference</td><td>Book 40 Hadith 59</td></tr></tbody></table></div>
 

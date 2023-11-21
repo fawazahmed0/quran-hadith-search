@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Quraish people became very worried about the Makhzumiya lady
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Sulaiman] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] radliallahu 'anha; bahwa orang-orang Qurasy diresahkan seorang wanita bani Makhzum yang mencuri. kemudian mereka berujar; 'tidak ada yang bisa bicara dengan Rasulullah Shallallahu'alaihiwasallam dan tidak ada yang berani (mengutarakan masalah ini) kepadanya selain Usamah bin Zaid, kekasih Rasulullah shallallahu 'alaihi wasallam.' Akhirnya Usamah berbicara kepada Rasulullah shallallahu 'alaihi wasallam, tetapi Rasulullah bertanya; "apakah kamu hendak memberikan syafa'at (pembelaan) dalam salah satu perkara had (hukuman) Allah?" kemudian beliau berdiri dan berkhutbah: "Wahai manusia, hanyasanya orang-orang sebelum kalian tersesat karena, sesungguhnya mereka jika mencuri orang terhormat mereka membiarkannya, namun jika yang mencurinya orang lemah, mereka menegakkan hukuman terhadapnya. Demi Allah, kalaulah Fathimah binti Muhammad Shallallahu'alaihiwasallam mencuri, niscaya Muhammad yang memotong tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6788</td></tr><tr><td>Arabic No</td><td>6788</td></tr><tr><td>Reference</td><td>Book 86 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что в своё время курайшиты были озабочены делом одной женщины из бану махзум, которая совершила кражу. Они стали говорить: «Кто поговорит (о ней) с Посланником Аллаха ﷺ? И кто осмелится на это, кроме Усамы ибн Зейда, любимца Посланника Аллаха ﷺ?!» И Усама обратился к Посланнику Аллаха ﷺ (с ходатайством за неё), на что он ответил: «Неужели ты ходатайствуешь об отмене одного из наказаний, установленных Аллахом?!» А потом он встал и обратился к людям с проповедью, сказав: «О люди, поистине, живших до вас погубило то, что, когда крал знатный, они оставляли его (не применяя к нему установленное наказание), а когда крал слабый, они применяли к нему установленное наказание. Клянусь Аллахом, если бы украла Фатыма, дочь Мухаммада, то Мухаммад обязательно отрубил бы руку и ей!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6788</td></tr><tr><td>Arabic No</td><td>6788</td></tr><tr><td>Reference</td><td>Book 86 Hadith 17</td></tr></tbody></table></div>
 

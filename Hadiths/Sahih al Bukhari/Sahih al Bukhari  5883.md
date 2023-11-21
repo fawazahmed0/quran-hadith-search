@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:"The Prophet (ﷺ) offered a two-rak'at prayer on 'Id day an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku ['Adi] dia berkata; saya mendengar [Sa'id] dari [Ibnu Abbas] radliallahu 'anhuma bahwa Nabi shallallahu 'alaihi wasallam shalat Ied dua raka'at, beliau tidak mengerjakan shalat (sunnah) sebeum maupun sesudahnya, kemudian beliau menemui para wanita bersama Bilal, beliau memerintahkan mereka untuk bersedekah, hingga para wanita banyak yang melempar anting mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5883</td></tr><tr><td>Arabic No</td><td>5883</td></tr><tr><td>Reference</td><td>Book 77 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что Пророк ﷺ совершил праздничную молитву два рак‘ата, и он не совершил ни до неё, ни после неё никаких других молитв. Затем он подошёл к женщинам вместе с Билялом и приказал им подавать милостыню, и женщины стали бросать свои серьги
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5883</td></tr><tr><td>Arabic No</td><td>5883</td></tr><tr><td>Reference</td><td>Book 77 Hadith 100</td></tr></tbody></table></div>
 

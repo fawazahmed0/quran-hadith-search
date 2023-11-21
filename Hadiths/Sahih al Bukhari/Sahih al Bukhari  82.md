@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "While I was sleeping, I saw th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, Telah menceritakan kepadaku [Al Laits] berkata, Telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] dari [Hamzah bin Abdullah bin Umar] bahwa [Ibnu Umar] berkata: aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, aku bermimpi diberi segelas susu lalu aku meminumnya hingga aku melihat pemandangan yang bagus keluar dari kuku-kukuku, kemudian aku berikan sisanya kepada sahabat muliaku Umar bin Al Khaththab". Orang-orang bertanya: "Apa ta'wilnya wahai Rasulullah?" Beliau menjawab: "Ilmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “(Однажды) я увидел во сне, что мне поднесли кубок молока, которое я пил до тех пор, пока не заметил, что влага выходит у меня из-под ногтей, после чего отдал остаток ‘Умару ибн аль-Хаттабу“. Люди спросили: “Как же ты истолковал (этот сон), о Посланник Аллаха?“ — на что он ответил: “(Это —) знание“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 3 Hadith 24</td></tr></tbody></table></div>
 

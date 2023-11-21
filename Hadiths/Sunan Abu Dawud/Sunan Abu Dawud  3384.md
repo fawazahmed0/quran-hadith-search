@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Urwah ibn AbulJa'd al-Bariqi: The Prophet (ﷺ) gave him a dinar to buy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari [Syabib bin Qarqadah], telah menceritakan kepadaku [Al Hayyu] dari ['Urwah bin Abu Al Ja'dan Al Bariqi], ia berkata; Nabi shallallahu 'alaihi wasallam telah memberinya uang satu dinar agar ia belikan satu ekor hewan kurban atau satu ekor kambing. Kemudian ia membeli dua ekor kambing lalu ia menjual salah satunya dengan harga satu dinar. Kemudian ia datang kepada beliau dengan membawa satu ekor kambing dan uang satu dinar. Kemudian beliau mendoakannya agar mendapatkan berkah dalam jual belinya. Ia apabila membeli tanah niscaya mendapatkan keuntungan. Telah menceritakan kepada kami [Al Hasan bin Ash Shabbah], telah menceritakan kepada kami [Abu Al Mundzir], telah menceritakan kepada kami [Sa'id bin Zaid yaitu saudara Hammad bin Zaid], telah menceritakan kepada kami [Az Zubair bin Al Khirrit], dari [Abu Labid] telah menceritakan kepadaku [Urwah Al Bariqi] dengan hadits ini dan lafazhnya diperselisihkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari (3642)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3384</td></tr><tr><td>Arabic No</td><td>3384</td></tr><tr><td>Reference</td><td>Book 23 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Урвы ибн Абу аль-Джа‘да аль-Барикы, да будет доволен им Аллах, что Пророк ﷺ дал ему динар, чтобы он купил для него жертвенное животное или овцу. Он пошёл и купил две овцы на этот динар, а потом продал одну за динар и отдал (Посланнику Аллаха ﷺ) овцу и динар. Тогда (Посланник Аллаха ﷺ) обратился (к Аллаху) с мольбой, чтобы Он благословил его покупку, и после этого он всегда получал прибыль, даже если покупал почву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari (3642)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3384</td></tr><tr><td>Arabic No</td><td>3384</td></tr><tr><td>Reference</td><td>Book 23 Hadith 59</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Messenger of Allah (ﷺ) as saying: No retaliation is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id Ibnul Musayyab] dan [Abu Salamah] keduanya mendengar bahwa [Abu Hurairah] menceritakan dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesuatu yang dirusak oleh binatang tidak ada tebusannya, barang tambang tidak ada tebusannya, dan pada harta yang terpendam zakatnya adalah seperlima." Abu Dawud berkata, " Al 'Ajma' maksudnya adalah hewan yang tidak ada penunggangnya atau penuntunnya, dan yang sesuatu yang dirusak oleh hewan di waktu siang tidak sama dengan sesuatu yang dirusak di waktu malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1499) Sahih Muslim (1710)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4593</td></tr><tr><td>Arabic No</td><td>4593</td></tr><tr><td>Reference</td><td>Book 41 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «За (ущерб, нанесённый) огнём, не выплачивается компенсация»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1499) Sahih Muslim (1710)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4593</td></tr><tr><td>Arabic No</td><td>4593</td></tr><tr><td>Reference</td><td>Book 41 Hadith 100</td></tr></tbody></table></div>
 

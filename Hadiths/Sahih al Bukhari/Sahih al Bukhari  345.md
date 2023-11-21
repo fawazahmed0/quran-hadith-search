@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:Abu Musa said to 'Abdullah bin Mas'ud, "If one does not find w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Khalid] berkata; telah menceritakan kepada kami [Muhammad] -Yaitu Ghundar- telah mengabarkan kepada kami [Syu'bah] dari [Sulaiman] dari [Abu Wa'il] berkata, [Abu Musa] berkata kepada 'Abdullah bin Mas'ud, "Jika seseorang tidak menemukan air maka ia boleh tidak shalat." 'Abdullah menjawab, "Jika aku beri keringanan kepada mereka dalam masalah ini, maka ketika salah seorang mendapati musim dingin pasti ia akan berkata seperti ini 'yakni Tayamum dan shalat'. Abu Musa berkata, "Maka aku katakan, "Kalau begitu dimana kedudukan ucapan 'Ammar kepada 'Umar? ' 'Abdullah bin Mas'ud menjawab: "Aku menganggap bahwa 'Umar tidak sepakat dengan pendapat ' [Ammar]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>345</td></tr><tr><td>Arabic No</td><td>345</td></tr><tr><td>Reference</td><td>Book 7 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ваиль сказал: «Однажды Абу Муса спросил ‘Абдуллу ибн Мас‘уда: “Если (человек, который в состоянии полового осквернения /джунуб/) не находит воду, он не молится?” ‘Абдуллах (ибн Мас‘уд) ответил: “Если бы я позволил им это, то кто-нибудь из них почувствовав холод”, и он сказал: “Вот так”, имея в виду совершение таяммума — “и стал бы молиться”».\nАбу Муса сказал: «Я спросил: “А что ты будешь делать со словами ‘Аммара, с которыми он обратился к ‘Умару?” (‘Абдуллах ибн Мас‘уд) сказал: “Поистине, я не думаю, что ‘Умар удовлетворился словами ‘Аммара!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>345</td></tr><tr><td>Arabic No</td><td>345</td></tr><tr><td>Reference</td><td>Book 7 Hadith 12</td></tr></tbody></table></div>
 

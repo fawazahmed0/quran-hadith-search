@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki'] berkata, telah mengabarkan kepada kami [Al A'masy]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdullah bin Dawud] berkata, telah menceritakan kepada kami [Al A'masy] dari [Abu Wail] dari [Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jauhilah kebohongan, sebab kebohongan menggiring kepada keburukkan, dan keburukkan akan menggiring kepada neraka. Dan sungguh, jika seseorang berbohong dan terbiasa dalam kebohongan hingga di sisi Allah ia akan ditulis sebagai seorang pembohong. Dan hendaklah kalian jujur, sebab jujur menggiring kepada kebaikan, dan kebaikan akan menggiring kepada surga. Dan sungguh, jika seseorang berlaku jujur dan terbiasa dalam kejujuran hingga di sisi Allah ia akan ditulis sebagai orang yang jujur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6094) Sahih Muslim (2607)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4989</td></tr><tr><td>Arabic No</td><td>4989</td></tr><tr><td>Reference</td><td>Book 43 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6094) Sahih Muslim (2607)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4989</td></tr><tr><td>Arabic No</td><td>4989</td></tr><tr><td>Reference</td><td>Book 43 Hadith 217</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Nadra reported:While I was in the company of Jabir b. Abdullah, a person cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin Umar Al Bakrawi] telah menceritakan kepada kami [Abdul Wahid] yakni Ibnu Ziyad, dari [Ashim] dari [Abu Nadlrah] ia berkata; Aku pernah berada di dekat [Jabir bin Abdullah], lalu ia didatangi oleh seseorang dan berkata; Ibnu Abbas dan Ibnu Zubair berselisih pendapat mengenai Mut'atain (yaitu nikah mut'ah dan haji tamattu'), maka Jabir pun berkata, "Kami pernah melakukan keduanya bersama Rasulullah shallallahu 'alaihi wasallam, kemudian Umar melarang kami untuk melakukan keduanya dan kami tidak pernah lagi melakukannya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3417</td></tr><tr><td>Arabic No</td><td>1405.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3417</td></tr><tr><td>Arabic No</td><td>1405.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 20</td></tr></tbody></table></div>
 

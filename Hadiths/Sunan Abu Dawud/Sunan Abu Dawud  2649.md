@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Khabbab said “We came to the Apostle of Allaah(ﷺ) while he was reclining on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin 'Aun], telah mengabarkan kepada kami [Husyaim], dan [Khalid], dari [Isma'il], dari [Qais bin Abu Hazim], dari [Khabbab], ia berkata; kami datang kepada Rasulullah shallallahu 'alaihi wasallam sementara beliau berbantalkan burdah di bawah naungan Ka'bah, kami mengeluhkan kepada beliau, kami katakan; tidakkah anda memintakan kemenangan untuk kami? Tidakkah engkau berdoa kepada Allah untuk kami? Kemudian beliau duduk dalam keadaan memerah wajahnya, lalu berkata: "Sungguh orang-orang sebelum kalian diantara mereka ada yang dikubur di tanah kemudian didatangkan gergaji kemudian diletakkan di atas kepalanya dan ia dibelah menjadi dua bagian, hal tersebut tidaklah membuatnya berpaling dari agamanya, dan ada yang disisir daging dan sarafnya menggukan sisir besi mendekati tulangnya, tidaklah hal tersebut menjadikannya berpaling dari agamanya. Demi Allah, sungguh Allah akan menyempurnakan perkara ini hingga orang yang berkendaraan berjalan antara Shan'a' dan Hadhramut dalam keadaan tidak takut kecuali kepada Allah ta'ala serta serigala yang akan memangsa dombanya, akan tetapi kalian tergesa-gesa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6943)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2649</td></tr><tr><td>Arabic No</td><td>2649</td></tr><tr><td>Reference</td><td>Book 15 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6943)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2649</td></tr><tr><td>Arabic No</td><td>2649</td></tr><tr><td>Reference</td><td>Book 15 Hadith 173</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu al. 'Ala' b. al-Shikhkhir said:The Messenger of Allah (ﷺ) abrogated some o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz al-Anbari] telah menceritakan kepada kami [al-Mu'tamir] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Abu al-Ala' bin asy-Syikhkhir] dia berkata, "Sebagian hadits Rasulullah shallallahu 'alaihi wasallam menasakh (menghapus) sebahagian hadits beliau yang lain sebagaimana sebahagian al-Qur'an menasakh sebahagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>777</td></tr><tr><td>Arabic No</td><td>344</td></tr><tr><td>Reference</td><td>Book 3 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аль-‘Аля ибн аш-Шиххыр сказал:«Посланник Аллаха ﷺ отменял некоторые из своих хадисов другими, точно так же, как Коран отменяет одну часть другой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>777</td></tr><tr><td>Arabic No</td><td>344</td></tr><tr><td>Reference</td><td>Book 3 Hadith 99</td></tr></tbody></table></div>
 

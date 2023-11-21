@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Juraij] telah mengabarkan kepadaku [Musa bin Uqbah] dari [Nafi'] dia berkata; Saya mendengar [Abdullah bin Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Penuhilah undangan ini, jika kalian diundang untuknya." Dan Abdullah bin Umar selalu mendatangi undangan pernikahan dan sejenisnya, dan dia mendatangi undangan tersebut meskipun dia sedang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3516</td></tr><tr><td>Arabic No</td><td>1429.08</td></tr><tr><td>Reference</td><td>Book 16 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3516</td></tr><tr><td>Arabic No</td><td>1429.08</td></tr><tr><td>Reference</td><td>Book 16 Hadith 119</td></tr></tbody></table></div>
 

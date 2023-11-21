@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:The sister of 'Abdullah bin Ubai narrated (the above narration,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>5274</td></tr><tr><td>Reference</td><td>Book 68 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Икрима передал вышеупомянутый хадис от сестры ’Абдуллаха ибн Убайя, добавив, что Пророк ﷺ сказал жене Сабита: «Вернёшь ли ты ему его сад?» Она сказала: «Да», — и вернула его, и (тогда) Пророк ﷺ приказал Сабиту дать ей развод
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>5274</td></tr><tr><td>Reference</td><td>Book 68 Hadith 23</td></tr></tbody></table></div>
 

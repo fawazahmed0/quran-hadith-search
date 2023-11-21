@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: If anyone helps his people in an unrighteous cause
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Simak bin Harb] dari ['Abdurrahman bin Abdullah bin Mas'ud] dari [Bapaknya] ia berkata, "Barangsiapa menolong kaumnya bukan di atas kebenaran, maka ia seperti unta yang digiring dengan ditarik ekornya." Telah menceritakan kepada kami [Ibnu Basysyar] berkata, telah menceritakan kepada kami [Abu Amir] berkata, telah menceritakan kepada kami [Sufyan] dari [Simak bin Harb] dari ['Abdurrahman bin Abdullah] dari [Bapaknya] ia berkata, "Aku sampai kepada Nabi shallallahu 'alaihi wasallam saat beliau berada dalam tenda yang terbuat dari kulit…lalu ia menyebutkan sebagimana dalam hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5117</td></tr><tr><td>Arabic No</td><td>5117</td></tr><tr><td>Reference</td><td>Book 43 Hadith 345</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5117</td></tr><tr><td>Arabic No</td><td>5117</td></tr><tr><td>Reference</td><td>Book 43 Hadith 345</td></tr></tbody></table></div>
 

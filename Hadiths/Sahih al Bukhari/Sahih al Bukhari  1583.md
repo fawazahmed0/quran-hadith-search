@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) that Allah's Messenger (ﷺ) said to h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] bahwa ['Abdullah bin Muhammad bin Abu Bakar] mengabarkan kepada ['Abdullah bin 'Umar] dari ['Aisyah radliallahu 'anhum], isteri Nabi shallallahu 'alaihi wasallam bahwa Rasulullah shallallahu 'alaihi wasallam berkata kepadanya: "Tidakkah kamu tahu bahwa kaummu ketika membangun Ka'bah mereka menggesernya dari pondasi yang dibangun oleh Nabi Ibrahim Alaihissalam?". Aku berkata: "Wahai Rasulullah, mengapa anda tidak mengembalikannya ke posisi yang dibuat Nabi Ibrahim Aalaihissalam?". Beliau menjawab: "Seandainya tidak mempertimbangkan masa-masa kaummu yang masih lekat dengan kekufuran tentu aku sudah melakukannya". Maka 'Abdullah radliallahu 'anhu berkata: "Sekalipun 'Aisyah radliallahu 'anha mendengar hal ini langsung dari Rasulullah Shallallahu'alaihiwasallam, namun aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam meninggalkan 'istilam' terhadap dua rukun yang menghadap (Hajar Aswad) ini, selain memang Baitullah ini tidak disempurnakan pembangunannya di atas pondasi yang dibangun oleh Nabi Ibrahim alaihissalam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 25 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я спросила Пророка ﷺ: “Является ли стена частью Каабы?” Он сказал: “Да”. Я спросила: “Так почему же они не присоединили её к Каабе?” Он ответил: “Потому что твои соплеменники испытывали недостаток в средствах”. Я спросила: “А почему дверь её поднята (над землёй)?” Он ответил: “Твои соплеменники сделали так, чтобы пускать внутрь, кого пожелают, и не давать (входить в Каабу тому), кому не пожелают. Если бы твои соплеменники не были (столь) близки к джахилийи и я не опасался бы, что сердцам их не понравится (подобное), я бы присоединил эту стену к Каабе, а дверь опустил до (уровня) земли”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 25 Hadith 69</td></tr></tbody></table></div>
 

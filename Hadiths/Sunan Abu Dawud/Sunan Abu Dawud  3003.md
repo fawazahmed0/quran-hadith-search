@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said, While we were in the mosque, the Apostle of Allaah(ﷺ) came 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah mengabarkan kepada kami [Al Laits] dari [Sa'id bin Abu Sa'id], dari [ayahnya], dari [Abu Hurairah] bahwa ia berkata; ketika kami berada di Masjid, tiba-tiba Rasulullah shallallahu 'alaihi wasallam keluar menuju kepada kami kemudian berkata: "Pergilah kalian kepada orang-orang yahudi!" kemudian kami keluar bersama beliau hingga kami mendatangi mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam berdiri dan menyeru mereka. Beliau berkata: "Wahai orang-orang yahudi, masuk Islamlah kalian maka kalian akan selamat." Mereka berkata; sungguh engkau telah menyampaikan wahai Abu Al Qasim. Kemudian beliau berkata kepada mereka: "Masuklah Islam maka kalian akan selamat!" Mereka berkata; sungguh engkau telah menyampaikan wahai Abu Al Qasim. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "itulah yang aku inginkan." Kemudian beliau mengucapkannya ketiga kalinya, dan berkata: "Ketahuilah bahwa bumi adalah milik Allah dan RasulNya, dan aku ingin mengusir kalian dari negeri ini. Maka barang siapa diantara kalian mendapati sebagian dari hartanya maka hendaknya ia menjualnya, jika tidak maka ketahuilah bahwa bumi adalah milik Allah dan RasulNya shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3167) Sahih Muslim (1765)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3003</td></tr><tr><td>Arabic No</td><td>3003</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах: «Когда мы сидели в мечети, Посланник Аллаха ﷺ вышел к нам и сказал: “Отправляйтесь к иудеям”. И мы отправились к ним вместе с ним. Посланник Аллаха ﷺ сказал: “О иудеи! Примите ислам и вы спасётесь”. Они сказали: “Ты довёл до нашего сведения, о Абу аль-Касим”. Посланник Аллаха ﷺ сказал: “Примите ислам и вы спасётесь”. Они сказали: “Ты довёл до нашего сведения, о Абу аль-Касим”. Посланник Аллаха ﷺ сказал: “Этого я и желал”. И на третий раз он сказал: “Знайте, что земля принадлежит Аллаху и Его посланнику и, поистине, я желаю выселить вас с этой земли. У кого из вас есть здесь имущество, пусть продаст его, а если не желаете, а в противном случае (не вините никого, кроме себя) и знайте, что земля принадлежит Аллаху и Его посланнику”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3167) Sahih Muslim (1765)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3003</td></tr><tr><td>Arabic No</td><td>3003</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
 

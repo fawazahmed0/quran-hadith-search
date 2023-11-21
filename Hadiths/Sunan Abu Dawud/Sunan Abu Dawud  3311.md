@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Prophet (ﷺ) as saying: If anyone dies when some fast due 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku ['Amr bin Al Harits] dari ['Ubaidullah bin Abu Ja'far] dari [Muhammad bin Ja'far bin Az Zubair] dari ['Urwah] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang meninggal dalam keadaan memiliki tanggungan puasa, maka walinya berpuasa (sebagai pengganti) untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ка‘ба ибн Малика, да будет доволен им Аллах, что он сказал Пророку ﷺ: «Раскаиваясь перед Аллахом, я оставлю дом моего народа, в котором я совершил свой грех, и раздам всё своё имущество в качестве милостыни». (Посланник Аллаха ﷺ) сказал: «Тебе достаточно раздать треть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
 

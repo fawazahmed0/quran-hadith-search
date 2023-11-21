@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Messenger of Allah (ﷺ) gave license regarding the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari [Daud bin Al Hushain] dari [mantan budak Ibnu Abu Ahmad]. Abu Daud berkata; Al Qo'naby berkata kepada kami dari riwayat yang dia baca kepada Malik dari Abu Sufyan dan namanya adalah Quzman budak Ibnu Abi Ahmad dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam telah memberikan keringanan untuk menjual 'araya kurang dari lima wasaq atau seukuran lima wasaq. Daud bin Al Hushain merasa ragu. Abu Daud berkata; hadits Jabir mengatakan; hingga empat wasaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2382) Sahih Muslim (1541)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3364</td></tr><tr><td>Arabic No</td><td>3364</td></tr><tr><td>Reference</td><td>Book 23 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ разрешил продавать свежие плоды на пальме (за сушёные финики в объёме, соответствующем примерно определённому объёму, который обрели бы эти свежие финики, если бы их высушили) /‘арайа/, если речь шла о количестве менее пяти васков (примерно 130 кг) или же о пяти васках. Передатчик Дауд ибн аль-Хусайн сомневался, как именно было сказано. Абу Давуд сказал: «В хадисе Джабира упоминаются четыре васка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2382) Sahih Muslim (1541)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3364</td></tr><tr><td>Arabic No</td><td>3364</td></tr><tr><td>Reference</td><td>Book 23 Hadith 39</td></tr></tbody></table></div>
 

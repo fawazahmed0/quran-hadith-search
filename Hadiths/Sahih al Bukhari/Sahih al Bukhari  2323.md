@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:Abu Sufyan bin Abu Zuhair, a man from Azd Shanu'a an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Yazid bin Khushaifah] bahwa [As Sa'ib bin Yazid] menceritakan kepadanya bahwa dia mendengar [Sufyan bin Abi Zuhair], seorang yang berasal dari suku Azdi Syanu'ah yang juga merupakan shahabat Nabi shallallahu 'alaihi wasallam berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang memelihara anjing yang bukan digunakan untuk menjaga ladang atau mengembalakan ternak berarti sepanjang hari itu dia telah menghapus amalnya sebanyak satu qirath". Aku (as-Sa'ib) bertanya; "Apakah benar kamu mendengar ini dari Rasulullah shallallahu 'alaihi wasallam? Dia menjawab: "Ya demi Rabb masjid ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 41 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Суфьяна ибн Абу Зухейра, который был сподвижником Пророка ﷺ, что Посланник Аллаха ﷺ сказал: «Награда того, кто держит собаку, которая не предназначена для охраны пашни или скота, уменьшается ежедневно на кырат». Один из передатчиков спросил: «Ты слышал это от Посланника Аллаха ﷺ?» Он ответил: «Да, клянусь Господом этой мечети!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 41 Hadith 4</td></tr></tbody></table></div>
 

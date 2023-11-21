@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humran, the freed slave of 'Uthman reported:I brought for Uthman b. 'Affan the a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ahmad bin 'Abdahadl-Dlabbi] keduanya berkata, telah menceritakan kepada kami [Abdul Aziz] -yaitu ad-Darawardi- dari [Zaid bin Aslam] dari [Humran] budak Utsman, dia berkata, "Saya membawakan [Utsman bin Affan] air wudlu, lalu dia berwudlu, kemudian berkata, 'Sesungguhnya manusia menceritakan dari Rasulullah shallallahu 'alaihi wasallam beberapa hadits yang mana aku tidak mengetahui hakikatnya, hanya saja aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu seperti wudluku ini, kemudian beliau berkata, 'Barangsiapa berwudlu demikian niscaya dia diampuni dosa-dosanya yang telah lalu. Sedangkan shalat dan berjalannya dia ke masjid adalah sebagai sunnah." Dan dalam suatu riwayat Ibnu Abdah, "Aku mendatangi Utsman, lalu dia berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>544</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 2 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды ‘Усман ибн ‘Аффан совершил омовение, после чего сказал: «Я видел, как (однажды) Посланник Аллаха ﷺ совершил такое же омовение, после чего сказал: «Тому, кто совершит омовение таким же образом, будут прощены его прошлые грехи, а его (последующая) молитва и поход в мечеть станут для него дополнительной наградой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>544</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 2 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) I said, "Not to wish to be the like
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Ibrahim] Telah menceritakan kepada kami [Rauh] Telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] Aku mendengar [Dzakwan] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak diperbolehkan hasad kecuali pada dua perkara, yaitu; Seseorang yang telah diajari Al Qur'an oleh Allah, sehingga ia membacanya di pertengahan malam dan siang, sampai tetangga yang mendengarnya berkata, 'Duh.., sekiranya aku diberikan sebagaimana apa yang diberikan kepada si Fulan, niscaya aku akan melakukan apa yang dilakukannya.' Kemudian seseorang diberi karunia harta oleh Allah, sehingga ia dapat membelanjakannya pada kebenaran, lalu orang pun berkata, 'Seandainya aku diberi karunia sebagaimana si Fulan, maka niscaya aku akan melakukan sebagaimana yang dilakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5026</td></tr><tr><td>Arabic No</td><td>5026</td></tr><tr><td>Reference</td><td>Book 66 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не следует завидовать никому, кроме двоих: человеку, которого Аллах научил Корану и который читает его ночью и днём, а его сосед слышит его и говорит: “О, если бы и мне было даровано то же, что было даровано такому-то, и делал бы я то же, что делает он!” — и человеку, которому Аллах даровал богатство и который расходует его должным образом, а (какой-нибудь) человек говорит: “О, если бы и мне было даровано то же, что было даровано такому-то, и делал бы я то же, что делает он!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5026</td></tr><tr><td>Arabic No</td><td>5026</td></tr><tr><td>Reference</td><td>Book 66 Hadith 48</td></tr></tbody></table></div>
 

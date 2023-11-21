@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) died when he had attained the age o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Abdul Malik bin Syu'aib bin Al Laits]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku] dia berkata; Telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] bahwa Nabi shallallahu 'alaihi wasallam wafat pada usia enam puluh tiga tahun. Telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dengan Hadits yang serupa. Dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan ['Abbad bin Musa] keduanya berkata; Telah menceritakan kepada kami [Thalhah bin Yahya] dari [Yunus bin Yazid] dari [Ibnu Syihab] melalui dua jalur ini, secara keseluruhan seperti Hadits 'Uqail
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6092</td></tr><tr><td>Arabic No</td><td>2349.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6092</td></tr><tr><td>Arabic No</td><td>2349.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 150</td></tr></tbody></table></div>
 

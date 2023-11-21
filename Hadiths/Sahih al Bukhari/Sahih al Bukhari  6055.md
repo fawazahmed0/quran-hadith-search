@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once the Prophet (ﷺ) went through the grave-yards of Medin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Salam] telah mengabarkan kepada kami ['Abidah bin Humaid Abu Abdurrahman] dari [Manshur] dari [Mujahid] dari [Ibnu Abbas] dia berkata; Nabi shallallahu 'alaihi wasallam pernah keluar dari salah satu kebun yang ada di Madinah, lalu beliau mendengar suara dua orang yang sedang di siksa di kuburnya, setelah itu beliau bersabda: "Tidaklah keduanya di siksa karena dosa besar namun hal itu adalah perkara yang besar, salah satu darinya adalah tidak bersuci dari kencingnya sedangkan yang lain selalu mengadu domba." Kemudian beliau meminta sepotong pelepah kurma yang masih basah. Beliau membelahnya menjadi dua, sepotong beliau tancapkan di kuburan yang satu dan sepotong di kuburan yang lain. Beliau kemudian bersabda: 'Semoga ini bisa meringankan siksa keduanya selagi belum kering
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6055</td></tr><tr><td>Arabic No</td><td>6055</td></tr><tr><td>Reference</td><td>Book 78 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ проходивший мимо одной из стен Медины (или: Мекки), услышал голоса двух человек, которые подвергались мучениям в своих могилах. Пророк ﷺ сказал: “Их подвергают мучениям, но не за большой грех”,[ (помолчал некоторое время), а потом воскликнул: “Да (, конечно, мучают их за тяжкие грехи)! Один из них не прикрывался от собственной мочи, а другой распространял сплетни”. Потом он велел принести себе голую пальмовую ветвь, разломал её на две половинки и воткнул их на могилы (этих людей). Его спросили: “О Посланник Аллаха, зачем ты сделал это?” — на что он ответил: “Возможно, это будет облегчать их мучения, пока ветки не засохнут”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6055</td></tr><tr><td>Arabic No</td><td>6055</td></tr><tr><td>Reference</td><td>Book 78 Hadith 85</td></tr></tbody></table></div>
 

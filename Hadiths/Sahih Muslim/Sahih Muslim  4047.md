@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:When the concluding verses of Sura B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Abu Kuraib -Ishaq berkata; telah mengabarkan kepada kami, sedangkan yang dua berkata; telah menceritakan kepada kami- [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah] dia berkata, "Tatkala akhir ayat dari surat Al Baqarah yang mengenai riba turun, " dia melanjutkan, "Maka Rasulullah shallallahu 'alaihi wasallam keluar menuju masjid dan mengharamkan jual beli khamer
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4047</td></tr><tr><td>Arabic No</td><td>1580.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4047</td></tr><tr><td>Arabic No</td><td>1580.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 86</td></tr></tbody></table></div>
 

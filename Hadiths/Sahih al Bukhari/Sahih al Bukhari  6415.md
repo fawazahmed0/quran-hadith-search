@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:I heard the Prophet (ﷺ) saying, "A (small) place equal to an are
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [Ayahnya] dari [Sahl] dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tempat cemeti di surga itu lebih baik dari dunia dan seisinya, sungguh berpagi-pagi atau sore hari di jalan Allah itu lebih baik daripada dunia seisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6415</td></tr><tr><td>Arabic No</td><td>6415</td></tr><tr><td>Reference</td><td>Book 81 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают от Сахля, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Место на размер кнута в Раю лучше, чем эта мирская жизнь со всем что в ней есть. И выходить утром на пути Аллаха и отправляться вечером лучше, чем эта мирская жизнь со всем что в ней есть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6415</td></tr><tr><td>Arabic No</td><td>6415</td></tr><tr><td>Reference</td><td>Book 81 Hadith 4</td></tr></tbody></table></div>
 

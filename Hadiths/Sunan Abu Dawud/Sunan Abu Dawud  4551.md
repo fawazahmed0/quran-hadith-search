@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah (b. Mas'ud):The bloodwit for unintentional murder which rese
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad] berkata, telah menceritakan kepada kami [Abu Al Ahwash] dari [Abu Ishaq] dari [Ashim bin Dhamrah] dari [Ali radliallahu 'anhu] Bahwasanya ia pernah berkata; "tentang diyat pembunuhan semi sengaja (pembunuhan tidak sengaja menyerupai sengaja) adalah sepertiga, sepertiga yaitu, tiga puluh tiga unta yang berumur tiga tahun dan masuk tahun keempat, dan tiga puluh tiga unta betina yang berumur lima tahun, serta tiga puluh empat unta hamil yang berumur enam tahun hingga umur sembilan tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4551</td></tr><tr><td>Arabic No</td><td>4551</td></tr><tr><td>Reference</td><td>Book 41 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, сказал, что за неумышленное убийство, похожее на умышленное, полагается компенсация /дийа/, состоящая из трёх категорий (верблюдов): тридцать три трёхлетние верблюдицы, тридцать три четырёхлетние верблюдицы и тридцать четыре беременные верблюдицы в возрасте от пяти до восьми лет
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4551</td></tr><tr><td>Arabic No</td><td>4551</td></tr><tr><td>Reference</td><td>Book 41 Hadith 58</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Aqwa':In the evening of the day of the conquest of Khaiba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] ia berkata; telah menceritakan kepadaku [Yazid bin Abu Ubaid] dari [Salamah Ibnul Akwa'] ia berkata, "Di sore hari setelah para sahabat menaklukkan Khaibar, mereka menyalakan api (tungku), maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Kalian menyalakan tungku api itu untuk apa?" mereka menjawab, "Memasak daging keledai kampung." Beliau pun bersabda: "Buanglah apa yang ada di dalam tungku dan pecahkanlah periuknya!" seorang laki-laki dari mereka lalu berdiri dan berkata, "Wahai Rasulullah, apakah kami harus membuang dan mencucinya?" Beliau menjawab: "Seperti itulah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5497</td></tr><tr><td>Arabic No</td><td>5497</td></tr><tr><td>Reference</td><td>Book 72 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘, да будет доволен им Аллах, сказал: «Вечером в день завоевания Хайбара (люди) развели костры (для приготовления пищи). Пророк ﷺ спросил: “Для чего вы разожгли эти костры?” Они ответили: “Для приготовления мяса домашних ослов”. Он сказал: “Вылейте то, что находится в котлах, и разбейте котлы”. Один из людей встал и сказал: “Может быть, мы выльем содержимое котлов, а затем помоем их?” Пророк ﷺ сказал: “(Да,) или (сделайте) так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5497</td></tr><tr><td>Arabic No</td><td>5497</td></tr><tr><td>Reference</td><td>Book 72 Hadith 23</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We used to pray with the Prophet (ﷺ) in scorching heat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyir] telah menceritakan kepada saya [Gholib Al Qaththan] dari [Bakar bin 'Abdullah] dari [Anas bin Malik radliallahu 'anhu] berkata: "Kami pernah shalat bersama Nabi shallallahu 'alaihi wasallam saat udara sangat panas. Bila ada diantara kami yang tidak kuat meletakkan wajahnya di permukaan tanah, maka dia menghamparkan bajunya lalu sujud diatasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1208</td></tr><tr><td>Arabic No</td><td>1208</td></tr><tr><td>Reference</td><td>Book 21 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Обычно мы молились вместе с Пророком ﷺ в сильную жару, и если невозможно было прикоснуться лицом к земле, некоторые из нас расстилали свою одежду и совершали земной поклон на ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1208</td></tr><tr><td>Arabic No</td><td>1208</td></tr><tr><td>Reference</td><td>Book 21 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Al-Qasim:I heard my father who was the best man of hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Abdurrahman bin Al Qasim] bahwa dia mendengar [bapaknya] yang merupakan orang yang paling utama pada zamannya berkata; Aku mendengar ['Aisyah radliallahu 'anha] berkata: "Aku memakaikan wewangian kepada Rasulullah shallallahu 'alaihi wasallam dengan kedua tanganku ini ketika beliau ihram dan ketika bertahallul sebelum Beliau thawaf". Dan 'Aisyah radliallahu 'anha membuka kedua telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1754</td></tr><tr><td>Arabic No</td><td>1754</td></tr><tr><td>Reference</td><td>Book 25 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я умащала благовониями Посланника Аллаха ﷺ этими двумя руками перед его облачением в ихрам, а также когда он вышел из состояния ихрама, перед совершением обхода вокруг Каабы», — и распростёрла свои руки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1754</td></tr><tr><td>Arabic No</td><td>1754</td></tr><tr><td>Reference</td><td>Book 25 Hadith 232</td></tr></tbody></table></div>
 

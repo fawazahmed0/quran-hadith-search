@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "May Allah's mercy be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Ayyasy] telah menceritakan kepada kami [Abu Ghossan Muhammad bin Muthorrif] berkata, telah menceritakan kepada saya [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah merahmati orang yang memudahkan ketika menjual dan ketika membeli dan juga orang yang meminta haknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2076</td></tr><tr><td>Arabic No</td><td>2076</td></tr><tr><td>Reference</td><td>Book 34 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира бин ‘Абдуллаха, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Да помилует Аллах (того) человека, который проявляет великодушие, продавая, покупая и требуя возврата (своих денег)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2076</td></tr><tr><td>Arabic No</td><td>2076</td></tr><tr><td>Reference</td><td>Book 34 Hadith 29</td></tr></tbody></table></div>
 

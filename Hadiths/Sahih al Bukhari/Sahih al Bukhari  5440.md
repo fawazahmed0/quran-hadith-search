@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ja'far bin Abi Talib:I saw Allah's Messenger (ﷺ) eating
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] ia berkata; telah menceritakan kepadaku [Ibrahim bin Sa'd] dari [Bapaknya] dari [Abdullah bin Ja'far bin Abu Thalib] radliallahu 'anhuma, ia berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam makan buah kurma segar dengan qitsa' (semacam mentimun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5440</td></tr><tr><td>Arabic No</td><td>5440</td></tr><tr><td>Reference</td><td>Book 70 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Джа‘фар бин Абу Талиб, да будет доволен Аллах ими обоими, сказал: «Я видел, как Пророк ﷺ ел свежие финики с длинными огурцами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5440</td></tr><tr><td>Arabic No</td><td>5440</td></tr><tr><td>Reference</td><td>Book 70 Hadith 68</td></tr></tbody></table></div>
 

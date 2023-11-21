@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubaydullah ibn Adl ibn al-Khiyar: Two men informed me that they went to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Isa bin Yunus], telah menceritakan kepada Kami [Hisyam bin 'Urwah] dari [ayahnya] dari [Ubaidillah bin Adi bin Al Khiyar] berkata; telah telah mengabarkan kepadaku [dua orang yang telah menemui Rasulullah shallallahu 'alaihi wasallam pada waktu haji wada'] sementara beliau sedang membagikan zakat, mereka berdua meminta kepada beliau sebagian dari zakat tersebut, lalu beliau mengangkat pandangannya kepada Kami lalu menundukkannya dan beliau melihat Kami adalah orang yang kuat, lalu beliau berkata: "Kalau kalian berdua menginginkannya maka Kami akan memberikan kepada kalian berdua, dan tidak ada bagian dalam zakat tersebut bagi orang yang kaya dan orang yang mampu untuk bekerja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1633</td></tr><tr><td>Arabic No</td><td>1633</td></tr><tr><td>Reference</td><td>Book 9 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайдуллах ибн ‘Ади ибн аль-Хияр сказал: Два человека рассказали мне, что они пришли к Пророку ﷺ во время прощального хаджа, когда он делил садака(, чтобы раздать их людям), и попросили дать им что-нибудь: «Пророк ﷺ поднял на нас взор и затем опустил его. Он увидел, что мы были крепкими и здоровыми, и сказал: “Если вы хотите, я дам вам что-нибудь, однако нет в этом доли ни для состоятельного, ни для того, кто достаточно силен, чтобы заработать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1633</td></tr><tr><td>Arabic No</td><td>1633</td></tr><tr><td>Reference</td><td>Book 9 Hadith 78</td></tr></tbody></table></div>
 

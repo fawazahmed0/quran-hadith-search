@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abdoullâh Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Ibnu Wahab] dia berkata, telah mengabarkan kepada kami [Yunus bin Yazid] dari [Ibnu Syihab] dari [Salim bin Abdullah bin Umar bin al-Khaththab] dari [bapaknya] dia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tertidur, aku bermimpi thawaf di Ka'bah. Tiba-tiba muncul seorang laki-laki berkulit sawo matang, berambut terurai di antara dua orang laki-laki. Kepalanya meneteskan air atau kepalanya mengucurkan air. Aku bertanya, 'Siapakah orang ini? ' Mereka menjawab, 'Ini putra Maryam'. Kemudian aku pergi berpaling, tiba-tiba ada seorang laki-laki berkulit merah, berambut keriting, buta sebelah, seakan-akan matanya adalah anggur yang masak. Aku bertanya, 'Siapkah orang ini? ' Mereka menjawab, 'Ad-Dajjal, orang yang paling mirip dengannya adalah Ibnu Qathan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>429</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 334</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «(Однажды) я увидел во сне, что обхожу Каабу, как вдруг передо мной показался смуглый человек с прямыми волосами, шедший между двумя (другими) людьми, с волос же его капала вода”. Я спросил: “Кто это?” (Люди) сказали: “Сын Марйам”. А потом я повернулся и увидел румяного дородного человека с курчавыми волосами, который был крив на один глаз, и этот глаз был похож на выпуклую виноградину. Я спросил: “Кто это?” (Мне) сказали: “Это Антихрист /Даджаль/”, а больше всего из людей походил на него Ибн Катан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>429</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 334</td></tr></tbody></table></div>
 

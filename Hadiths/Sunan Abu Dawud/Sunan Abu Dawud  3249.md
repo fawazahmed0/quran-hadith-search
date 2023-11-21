@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:The Messenger of Allah (ﷺ) found 'Umar al-Khattab in a cara
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], Telah menceritakan kepada kami [Zuhair], dari ['Ubaidullah bin Umar], dari [Nafi'] dari [Ibnu Umar], dari [Umar bin Al Khathab], bahwa Rasulullah shallallahu 'alaihi wasallam telah mendapatinya sementara ia berada diantara orang-orang yang melakukan safar, dan ia bersumpah dengan nama bapaknya. Kemudian beliau berkata: "Sesungguhnya Allah melarang kalian dari bersumpah dengan nama bapak-bapak kalian. Barangsiapa yang bersumpah, maka hendaknya ia bersumpah dengan nama Allah atau hendaknya (lebih baik) ia diam." Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrazzaq], telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri], dari [Salim] dari [ayahnya] dari [Umar radliallahu 'anhu] ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam ……. Seperti makna hadits tersebut hingga lafazh; … dengan nama bapak-bapak kalian." Ia menambahkan, Umar berkata; demi Allah, aku tidak bersumpah dengan hal ini baik ingat atau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6108) Sahih Muslim (1646)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3249</td></tr><tr><td>Arabic No</td><td>3249</td></tr><tr><td>Reference</td><td>Book 22 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что Посланник Аллаха ﷺ нагнал его как раз в тот момент, когда он клялся своим отцом. (Посланник Аллаха ﷺ) сказал: «Поистине, Аллах запретил вам клясться отцами, и кто желает поклясться, пусть клянётся Аллахом или молчит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6108) Sahih Muslim (1646)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3249</td></tr><tr><td>Arabic No</td><td>3249</td></tr><tr><td>Reference</td><td>Book 22 Hadith 8</td></tr></tbody></table></div>
 

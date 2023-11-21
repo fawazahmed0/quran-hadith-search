@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:We were in the company of Allah's Messenger (ﷺ) that we h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Khalaf bin Khalifah] telah menceritakan kepada kami [Yazid bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah] berkata: Kami bersama nabi Shallallahu 'alaihi wa Salam tiba-tiba beliau mendengar suara sesuatu yang jatuh berdebuk, nabi Shallallahu 'alaihi wa Salam bertanya: "Tahukah kalian apa itu?" kami menjawab: Allah dan rasulNya lebih tahu. Beliau bersabda: "Itu adalah batu yang dilemparkan ke neraka sejak tujuhpuluh tahun, ia jatuh ke neraka sekarang hingga mencapai keraknya." Telah menceritakannya kepada kami [Muhammad bin Abbad] dan [Ibnu Abi Umar] keduanya berkata: Telah menceritakan kepada kami [Marwan] dari [Yazid bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah] dengan sanad ini, ia berkata: "Ia (batu) jatuh ke paling bawahnya lalu kalian mendengar debukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7167</td></tr><tr><td>Arabic No</td><td>2844.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7167</td></tr><tr><td>Arabic No</td><td>2844.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 36</td></tr></tbody></table></div>
 

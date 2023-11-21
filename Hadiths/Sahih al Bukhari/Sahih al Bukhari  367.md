@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) forbade Ishtimal-As-Samma' 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] dari [Abu Sa'id Al Khudri] bahwa ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang seseorang mengenakan pakaian shama' (berselimut sehingga seluruh bagian badannya tertutup) dan melarang seseorang duduk ihtiba' dengan selembar kain hingga tidak ada yang menutupi bagian kemaluannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>367</td></tr><tr><td>Arabic No</td><td>367</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запрещал (людям) закутываться в свою одежду наглухо. (Кроме того, он запрещал) мужчине, одетому только в одну одежду, сидеть на ягодицах, поднимая колени, которые он обхватывает руками, и оставляя неприкрытыми свои срамные части»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>367</td></tr><tr><td>Arabic No</td><td>367</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
 

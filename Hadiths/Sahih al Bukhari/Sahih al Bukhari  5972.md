@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:A man said to the Prophet, "Shall I participate in J
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] dan [Syu'bah] keduanya berkata; telah menceritakan kepada kami [Habib] dia berkata. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Habib] dari [Abu Al 'Abbas] dari [Abdullah bin 'Amru] dia berkata; seorang laki-laki berkata kepada Nabi shallallahu 'alaihi wasallam; "Saya hendak ikut berjihad." Beliau lalu bersabda: "Apakah kamu masih memiliki kedua orang tua?" dia menjawab; "Ya, masih." Beliau bersabda: "Kepada keduanya lah kamu berjihad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5972</td></tr><tr><td>Arabic No</td><td>5972</td></tr><tr><td>Reference</td><td>Book 78 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «(Однажды) какой-то человек спросил Пророка ﷺ: “Принять ли мне участие в сражении?” (Пророк ﷺ) спросил: “У тебя есть родители?” (Этот человек) ответил: “Да”. (Тогда Пророк ﷺ) сказал: “Вот в отношении них и усердствуй!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5972</td></tr><tr><td>Arabic No</td><td>5972</td></tr><tr><td>Reference</td><td>Book 78 Hadith 3</td></tr></tbody></table></div>
 

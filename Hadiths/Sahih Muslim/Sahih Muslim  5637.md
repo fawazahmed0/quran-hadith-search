@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] lafazh ini miliknya Abu Bakr. [Yahya] berkata; Telah mengabarkan kepada kami dan berkata [Abu Bakr]; Telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah] dia berkata; "Aku datang ke rumah Nabi shallallahu 'alaihi wasallam lalu kupanggil beliau. Rasulullah menyahut sambil bertanya, "Siapa ini?" jawabku; "Saya!" lalu beliau berkata: "Saya...! Saya...! Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah menceritakan kepada kami [An Nadhr bin Syumail] serta [Abu 'Amir Al 'Aqadi]; Demikian juga diriwayatkan dari jalur lainnya; Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepadaku [Wahb bin Jarir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku ['Abdurrahman bin Bisyr]; Telah menceritakan kepada kami [Bahz] seluruhnya dari [Syu'bah] melalui jalur ini, di dalam Hadits mereka di sebutkan; 'Sepertinya beliau membenci hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5637</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5637</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

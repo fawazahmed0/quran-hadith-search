@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The people used to fast on 'Ashura (the tenth day of the month o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Sihab] dari ['Urwah] dari ['Aisyah radliallahu 'anha]. Dan diriwayatkan pula, telah menceritakan kepada saya [Muhammad bin Muqatil] berkata, telah mengabarkan kepada saya ['Abdullah] dia adalah putra dari Al Mubarak berkata, telah mengabarkan kepada kami [Muhammad bin Abu Hafshah] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] berkata: "Orang-orang melaksanakan shaum hari kesepuluh bulan Muharam ('Asyura') sebelum diwajibkan shaum Ramadhan. Hari itu adalah ketika Ka'bah ditutup dengan kain (kiswah). Ketika Allah subhanahu wata'ala telah mewajibkan shaum Ramadhan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsipa yang mau shaum hari 'asyura' laksanakanlah dan siapa yang tidak mau tinggalkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 25 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «До того как пост в течение рамадана был вменён в обязанность, (люди) соблюдали пост в ашуру, и в этот день Каабу покрывали (новым) покрывалом. А когда Аллах вменил (людям) в обязанность (пост в течение всего) рамадана, Посланник Аллаха ﷺ сказал: “Кто захочет поститься (в этот день), пусть постится, а кто захочет прекратить (делать это), пусть оставит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 25 Hadith 78</td></tr></tbody></table></div>
 

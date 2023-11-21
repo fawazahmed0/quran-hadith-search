@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:When 'Umar was stabbed, he showed signs of agony
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3692</td></tr><tr><td>Arabic No</td><td>3692</td></tr><tr><td>Reference</td><td>Book 62 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар ибн Махрама сказал: «Когда ‘Умара ударили ножом, и он стал мучиться от боли, Ибн ‘Аббас, пытаясь подбодрить его, сказал: “О повелитель правоверных! Даже если ты умрёшь (от этого) ранения, то не беспокойся, ведь ты был сподвижником Посланника Аллаха ﷺ и делал это хорошо, а затем, когда вы расстались, он остался доволен тобой. После этого ты был соратником Абу Бакра и делал это хорошо, а затем, когда вы расстались, он остался доволен тобой. После этого ты был с теми, кто был их сподвижниками, и ты делал это хорошо, и, если ты покинешь их (то есть умрёшь), они останутся довольными тобой”. ‘Умар сказал: “Что касается того, что ты упомянул о том, что я был сподвижником Посланника Аллаха ﷺ и о том, что он был доволен мной, то это милость, которую Аллах оказал мне. И что касается того, что ты упомянул о том, что я был соратником Абу Бакра и о том, что он был доволен мной, то это милость, которую Аллах оказал мне. А что касается моего беспокойства, которое ты видишь, то это (из-за страха) за тебя и твоих товарищей. Клянусь Аллахом, если бы у меня было золото, размером с землю, я выкупил бы себя им от наказания Аллаха, прежде чем встретиться с Ним”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3692</td></tr><tr><td>Arabic No</td><td>3692</td></tr><tr><td>Reference</td><td>Book 62 Hadith 42</td></tr></tbody></table></div>
 

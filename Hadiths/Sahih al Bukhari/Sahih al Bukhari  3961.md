@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah That he came across Abu Jahl while he was on the point of dea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Isma'il] telah mengabarkan kepada kami [Qais] dari ['Abdullah] radliallahu 'anhu bahwa dia mendatangi Abu Jahal dalam keadaan kritis pada perang Badar. Maka Abu Jahal berkata; "Apakah aku lebih celaka dari seseorang yang kalian bunuh?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3961</td></tr><tr><td>Arabic No</td><td>3961</td></tr><tr><td>Reference</td><td>Book 64 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха, что он столкнулся с Абу Джахлем, когда тот был на пороге смерти в день Бадра. (И Абу Джахль) сказал: «Здесь только человек, которого вы убили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3961</td></tr><tr><td>Arabic No</td><td>3961</td></tr><tr><td>Reference</td><td>Book 64 Hadith 13</td></tr></tbody></table></div>
 

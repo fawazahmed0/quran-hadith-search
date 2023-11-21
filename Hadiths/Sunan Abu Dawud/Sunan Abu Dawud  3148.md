@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir b. 'Abd Allah :The Prophet (ﷺ) made a speech one day and mentio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], Telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij] dari [Abu Az Zubair] bahwa ia mendengar [Jabir bin Abdullah], menceritakan dari Nabi shallallahu 'alaihi wasallam bahwa beliau berkhutbah pada suatu hari. Kemudian beliau ingat kepada salah seorang sahabatnya yang meninggal dan dikafani pada kafan yang tidak sempurna dan dikuburkan pada malam hari. Dan Nabi shallallahu 'alaihi wasallam melarang seseorang dikubur pada malam hari hingga ia dishalatkan kecuali seseorang terpaksa melakukan hal tersebut. Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian mengkafani saudaranya, hendaknya ia mengkafani dengan baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (943)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3148</td></tr><tr><td>Arabic No</td><td>3148</td></tr><tr><td>Reference</td><td>Book 21 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ обращаясь к людям с речью, упомянул об одном из своих сподвижников, который умер и был похоронен ночью в неважном саване. И Пророк ﷺ велел не хоронить умерших ночью, чтобы погребальная молитва по ним совершалась (должным образом), за исключением тех случаев, когда люди вынуждены поступить так. И Пророк ﷺ сказал: «Когда любой из вас будет заворачивать тело брата своего в саван, пусть позаботится о том, чтобы саван был благим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (943)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3148</td></tr><tr><td>Arabic No</td><td>3148</td></tr><tr><td>Reference</td><td>Book 21 Hadith 60</td></tr></tbody></table></div>
 

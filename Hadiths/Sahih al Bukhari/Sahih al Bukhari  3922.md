@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr:I was with the Prophet (ﷺ) in the Cave. When I raised my hea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>3922</td></tr><tr><td>Reference</td><td>Book 63 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр, да будет доволен им Аллах, сказал: «Находясь в пещере вместе с Пророком ﷺ, я поднял голову, увидел ноги этих людей и сказал: “О Пророк Аллаха, если кто-нибудь из них посмотрит вниз, то увидит нас!” (В ответ мне Пророк ﷺ) сказал: “Молчи, о Абу Бакр, (ведь мы —) двое, третьим для которых является Аллах!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>3922</td></tr><tr><td>Reference</td><td>Book 63 Hadith 147</td></tr></tbody></table></div>
 

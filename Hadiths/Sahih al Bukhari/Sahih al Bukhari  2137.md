@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I saw the people buy foodstuff randomly (i.e. blindly without
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Salim bin 'Abdullah] bahwa [Ibnu 'Umar radliallahu 'anhuma] berkata; "Sungguh aku melihat orang-orang yang membeli makanan yang tanpa ditimbang di zaman Rasulullah shallallahu 'alaihi wasallam akan dipukul bila menjualnya kembali di tempat membelinya hingga mereka mengangkutnya kepada kendaraan angkut mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2137</td></tr><tr><td>Arabic No</td><td>2137</td></tr><tr><td>Reference</td><td>Book 34 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я видел, как во времена Посланника Аллаха ﷺ некоторые люди покупали продукты питания не взвешивая, и их били, если они продавали их на том же месте, не доставив их (для продажи) в свои дома (в другое место)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2137</td></tr><tr><td>Arabic No</td><td>2137</td></tr><tr><td>Reference</td><td>Book 34 Hadith 89</td></tr></tbody></table></div>
 

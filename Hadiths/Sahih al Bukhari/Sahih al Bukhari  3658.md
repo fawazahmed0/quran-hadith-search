@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Mulaika:The people of Kufa sent a letter to Ibn Az-Zu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah mengabarkan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abdullah bin Abu Mulaikah] berkata; "Penduduk Kufah menulis surat kepada [Ibnu Az Zubair] (bertanya) tentang kedudukan kakek (dalam fara'idl/warisan), maka Ibnu Az Zubair berkata; "Adapun yang ada adalah seperti yang disabdakan oleh Nabi shallallahu 'alaihi wasallam: "Seandainya aku diperbolehkan dari ummat ini mengambil seseorang sebagai puncak kekasih, pasti aku mengambilnya (Abu Bakr) ". Beliau menempatkannya sebagai bapak, maksudnya Abu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3658</td></tr><tr><td>Arabic No</td><td>3658</td></tr><tr><td>Reference</td><td>Book 62 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби Мулейка сказал: \n— Когда жители Куфы послали письмо Ибн аз-Зубайру, спрашивая о (наследовании) деда (по отцовской линии), он ответил: «Что касается того, о ком Посланник Аллаха ﷺ сказал: “Если бы мне пришлось выбирать “халиля” (любимца) из числа (членов) моей общины, я непременно выбрал бы его, (имея ввиду Абу Бакра)”, то он считал, что (право наследования деда по отцовской линии такое же), как и у отца (если отец мёртв)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3658</td></tr><tr><td>Arabic No</td><td>3658</td></tr><tr><td>Reference</td><td>Book 62 Hadith 10</td></tr></tbody></table></div>
 

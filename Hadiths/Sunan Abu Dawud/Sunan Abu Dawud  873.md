@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Awf ibn Malik al-Ashja'i: I stood up to pray along with the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Mu'awiyah bin Shalih] dari ['Amru bin Qais] dari ['Ashim bin Humaid] dari ['Auf bin Malik Al Asyja'i] dia berkata; "Di suatu malam, aku mengerjakan shalat bersama Rasulullah shallallahu 'alaihi wasallam, beliau kemudian berdiri dan membaca surat Al Baqarah, tidaklah beliau melewati ayat tentang rahmat, pasti beliau berhenti dan memohon kepada-Nya, dan tidaklah melewati ayat tentang adzab, melainkan beliau berhenti dan meminta perlindungan darinya." katanya melanjutkan; "Kemudian beliau ruku' yang lamanya seperti beliau berdiri, dalam ruku'nya beliau mengucapkan: "subahaana dzil jabaruuti wal malakuuti wal kibriyaa'i wal 'azhamati (Maha suci dzat yang memiliki sifat kekuasaan, kerajaan, kebesaran dan keagungan)." Kemudian beliau sujud yang lamanya seperti beliau berdiri, dalam sujudnya beliau mengucapkan seperti itu juga, sesudah itu beliau berdiri, lalu membaca surat Ali Imran, kemudian membaca surat demi surat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 2 Hadith 483</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ауфа ибн Малика аль-Ашджа‘и, да будет доволен им Аллах: «В одну из ночей я совершал молитву вместе с посланником Аллаха ﷺ. Он встал и прочитал суру “аль-Бакара”, причём, прочитав аят о милости, он останавливался и просил Аллаха о милости, а читая аят о наказании, он останавливался и просил у Аллаха защиты. Затем он совершил поясной поклон, который длился столько же, сколько и стояние. Во время поясного поклона он говорил: “Пречист Обладатель могущества и владычества, гордости и величия /Субхана Зи-ль-джабарути ва-ль-малякути ва-ль-кибрийаи ва-ль-‘азама/”. Затем он совершил земной поклон, который продолжался столько же, сколько и стояние. Во время земного поклона он говорил то же, что и во время поясного поклона. Затем он поднялся и стал читать суру “Али ‘Имран”. Затем он читал суру за сурой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 2 Hadith 483</td></tr></tbody></table></div>
 

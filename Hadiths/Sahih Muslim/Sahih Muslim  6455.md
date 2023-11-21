@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted through other chains of transmitters. The chain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6455</td></tr><tr><td>Arabic No</td><td>2526.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Вы увидите, что люди (подобны) рудникам”».(И они передали) такой же хадис, (который передал) аз-Зухри, не считая то, что в хадисе Абу Зур‘и и аль-А‘раджа (сказано): «И вы (увидите), что лучшим из людей в том, что касается этого дела, является тот, кто больше всех ненавидел его, пока не (занялся) им»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6455</td></tr><tr><td>Arabic No</td><td>2526.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 284</td></tr></tbody></table></div>
 

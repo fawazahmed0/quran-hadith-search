@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:When a person ente
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Al 'Anazi]; Telah menceritakan kepada kami [Adl Dlahak] yaitu Abu Ashim, dari [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Zubair] dari [Jabir bin 'Abdullah]; Sesungguhnya dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seseorang menyebut nama Allah ketika hendak masuk rumahnya dan ketika hendak makan, maka setan berkata; 'Kalian (bangsa setan) tidak bisa menginap dan tidak bisa makan! ' Jika seseorang tidak menyebut nama Allah ketika hendak masuk rumahnya, maka setan berkata; 'Kalian bisa masuk dan bisa menginap.' Jika seseorang tidak menyebut nama Allah sewaktu hendak makan, maka setan berkata; 'Kalian bisa menginap dan makan malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5262</td></tr><tr><td>Arabic No</td><td>2018.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5262</td></tr><tr><td>Arabic No</td><td>2018.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 136</td></tr></tbody></table></div>
 

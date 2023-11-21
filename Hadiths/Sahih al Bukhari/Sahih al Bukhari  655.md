@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:Anas said, "The Prophet (ﷺ) said, 'O Bani Salima! Don't you th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Hawsyab] berkata, telah menceritakan kepada kami ['Abdul Wahhab] berkata, telah menceritakan kepada kami [Humaid] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Bani Salamah, tidakkah kalian mengharap pahala dari langkah-langkah kalian?" Mujahid ketika menerangkan firman Allah: '(Dan Kami menuliskan apa yang mereka kerjakan dan bekas-bekas yang mereka tinggalkan) ' (Qs. Yasin: 12) mengatakan, "Yakni langkah-langkah mereka." [Ibnu Abu Maryam] berkata; telah mengabarkan kepada kami [Yahya bin Ayyub] telah menceritakan kepadaku [Humaid] telah menceritakan kepadaku [Anas] ia berkata, "Bani Salamah pernah berkeinginan untuk pindah dari tempat tinggal mereka dan mendekat dengan Nabi shallallahu 'alaihi wasallam. Namun Rasulullah shallallahu 'alaihi wasallam tidak memperkenankan mereka mengosongkan Madinah dengan bersabda: "Tidakkah kalian mengharap pahala dari langkah-langkah kalian?" Mujahid berkata, "Langkah-langkah mereka adalah bekas-bekas perjalanan mereka di muka bumi ketika berjalan dengan kaki mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>655</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал:«Пророк ﷺ сказал: “О бану салима, неужели вы не принимаете в расчёт, что ваши следы (подсчитываются)?”»\nОтносительно слов (Всевышнего Аллаха): «… и записываем то, что они совершили, и то, что они оставили после себя» (сура «Йа Син», аят 12), Муджахид сказал: «Их шаги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>655</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

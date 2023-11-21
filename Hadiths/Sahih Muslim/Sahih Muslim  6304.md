@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of Allah's Apostle (ﷺ), reported that Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah menceritakan kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam berkata; Rasulullah shallallahu 'alaihi wasallam berkata; "Hai Aisyah, Inilah Jibril mengucapkan salam kepadamu. Aisyah menjawab; 'Wa 'alaihis salam warahmatullah. Dia berkata; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam dapat melihat apa yang tidak aku lihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6304</td></tr><tr><td>Arabic No</td><td>2447.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6304</td></tr><tr><td>Arabic No</td><td>2447.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 134</td></tr></tbody></table></div>
 

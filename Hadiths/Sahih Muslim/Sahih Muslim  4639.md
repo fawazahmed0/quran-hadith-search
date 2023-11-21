@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Hudbaifa b. al-Yaman who said:Nothing p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Jumai'] telah menceritakan kepada kami [Abu At Thufail] telah menceritakan kepada kami [Hudzaifah bin Yaman] dia berkata, "Tidak ada yang menghalangiku untuk turut bertempur di Badar kecuali karena aku dan ayahku yaitu Husail tertangkap oleh orang-orang Quraisy ketika kami keluar dari Makkah. Mereka bertanya, "Apakah kalian hendak pergi menemui Muhammad? Kami menjawab, "Tidak, kami hanya akan berjalan-jalan ke Madinah." Lalu mereka membuat perjanjian dengan kami, bahwa kami boleh pergi ke Madinah akan tetapi tidak boleh berperang memihak beliau. Lalu kami mendatangi Rasulullah shallallahu 'alaihi wasallam dan memberitahukan kepada beliau akan peristiwa kami tersebut. Maka beliau bersabda: "Pergilah kalian, dan pegang teguhlah janji kalian dengan mereka, kita akan memohon pertolongan kepada Allah untuk mengalahkan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4639</td></tr><tr><td>Arabic No</td><td>1787</td></tr><tr><td>Reference</td><td>Book 32 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4639</td></tr><tr><td>Arabic No</td><td>1787</td></tr><tr><td>Reference</td><td>Book 32 Hadith 121</td></tr></tbody></table></div>
 

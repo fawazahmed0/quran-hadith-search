@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sab bin Jaththama:The Prophet (ﷺ) passed by me at a place called A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Az Zuhriy] dari ['Ubaidullah] dari [Ibnu 'Abbas] dari [Ash-Sho'bu bin Jatsamah radliallahu 'anhum] berkata; Nabi shallallahu 'alaihi wasallam berjalan melewatiku di Al Abwa' atau di Waddan, Beliau ditanya tentang kaum musyrikin penduduk suatu negeri yang diserbu lalu para wanita dan anak keturunan mereka terbunuh. Beliau menjawab: "Mereka termasuk dari golongan mereka" (musyrikin yang berhak diperangi). Dan aku mendengar Beliau bersabda: "Tidak ada perlindungan kecuali milik Allah dan Rosul-Nya shallallahu 'alaihi wasallam". Dan dari [Az Zuhriy] bahwa dia mendengar ['Ubaidullah] dari [Ibnu 'Abbas] telah bercerita kepada kami [Ash-Sho'bu] tentang anak keturunan dimana ['Amru] bercerita kepada kami dari [Ibnu Syihab] dari Nabi shallallahu 'alaihi wasallam dan kami mendengarnya dari [Az Zuhriy] berkata telah mengabarkan kepadaku ['Ubaidullah] dari [Ibnu 'Abbas] dari [Ash-Sho'bu] berkata: "Mereka dari golongan mereka" dan tidak berkata seperti yang dikatakan 'Amru: Mereka dari bapak-bapak mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3012</td></tr><tr><td>Arabic No</td><td>3012</td></tr><tr><td>Reference</td><td>Book 56 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Са‘б бин Джассама, да будет доволен им Аллах, сказал: «(Однажды) у Пророка ﷺ который проходил мимо меня в Абве (или: в Ваддане), спросили(, допустимо ли нападать на) спящих многобожников, в результате чего могут пострадать их женщины и дети(, на что) он ответил: “Они принадлежат к их числу”. (Кроме того,) я слышал, как он сказал: “Заповедным может являться лишь то, что принадлежит Аллаху и Его посланнику”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3012</td></tr><tr><td>Arabic No</td><td>3012</td></tr><tr><td>Reference</td><td>Book 56 Hadith 221</td></tr></tbody></table></div>
 

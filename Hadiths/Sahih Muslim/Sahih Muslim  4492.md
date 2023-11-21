@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:He who innovates things in our
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ja'far Muhammad bin Shabah] dan [Abdullah bin 'Aun Al Hilali] semuanya dari [Ibrahim bin Sa'd]. [Ibnu Shabah] berkata; telah menceritakan kepada kami [Ibrahim bin Sa'd bin Ibrahim bin Abdurrahman bin Auf] telah menceritakan kepada kami [ayahku] dari [Al Qasim bin Muhammad] dari ['Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengada-ngada sesuatu yang baru dalam urusan (agama) kami, padahal kami tidak perintahkan, maka hal itu tertolak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>1718.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ сказал: “Кто внесёт в это наше дело то, что не имеет к нему отношения, то оно будет отвергнуто!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>1718.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 23</td></tr></tbody></table></div>
 

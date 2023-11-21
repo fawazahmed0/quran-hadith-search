@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuRafi': Sa'id ibn AbuSa'id al-Maqburi reported on the authority of hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami [Abdur Razzaq] dari [Ibnu Juraij] telah menceritakan kepadaku ['Imran bin Musa] dari [Sa'id bin Abi Sa'id Al-Maqburi] dia menceritakan dari [Ayahnya] bahwasanya dia pernah melihat Abu Rafi', mantan sahaya Nabi shallallahu 'alaihi wasallam bertemu dengan Hasan bin Ali radliallahu 'anhuma yang sedang shalat dalam keadaan berdiri dengan menyanggulkan rambutnya pada tengkuknya. Abu Rafi' melepasnya, sehingga Hasan menoleh kepadanya dengan marah, lalu [Abu Rafi'] berkata; Perhatikan shalatmu dan jangan marah, karena sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Itu adalah tempat duduk syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 2 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Абу Са‘ид аль-Макъбури рассказывал со слов своего отца о том, что он видел, как (однажды) вольноотпущенник Пророка ﷺ Абу Рафи‘ проходил мимо Хасана ибн ‘Али, мир им обоим, который совершал молитву стоя, заплетав волосы в косички на затылке, и Абу Рафи‘ расплёл их. Тогда разгневанный Хасан повернулся к нему, но Абу Рафи‘ сказал: «Продолжай свою молитву и не гневайся, ибо, поистине, я слышал, как Посланник Аллаха ﷺ говорил: “Это место сидения шайтана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 2 Hadith 256</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (ﷺ) as saying:If anyone emancipates his shar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepada kami [Yazid bin Zurai']. Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Muhammad bin Bisyr] dan ini adalah lafadznya, dari [Sa'id bin Abu 'Arubah] dari [Qatadah] dari [An Nadlr bin Anas] dari [Basyir bin Nuhaik] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa memerdekakan bagiannya dalam diri seorang budak, maka ia berkewajiban membayar sisa harganya dengan harta miliknya jika ia memiliki. Namun jika tidak memiliki harta, maka budak tersebut dinilai dengan nilai pertengahan, kemudian ia diminta (untuk membebaskan diri dengan tebusan) dengan tidak memperberatnya." Abu Daud menyebutkan dalam kedua haditsnya, 'kemudian diminta untuk membebaskan dirinya dengan tidak memperberatnya. ' Dan ini adalah lafadz Ali." Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya], dan [Ibnu Abu Adi] dari [Sa'id] dengan sanad dan maknanya." Abu Daud berkata, " [Rauh bin 'Ubadah] juga meriwayatkannya dari [Sa'id bin Abu 'Arubah], namun ia tidak menyebutkan lafadz 'berusaha'. [Jarir bin Hazim] dan [Musa bin Khalaf] keduanya juga meriwayatkannya dari [Qatadah] dengan sanad Yazid bin Zurai', seperti makna hadits tersebut, namun dalam hadits tersebut mereka menyebutkan lafadz 'berusaha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2527) Sahih Muslim (1503)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3938</td></tr><tr><td>Arabic No</td><td>3938</td></tr><tr><td>Reference</td><td>Book 31 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто освободил принадлежавшую ему часть раба, тот должен освободить его целиком, если у него достаточно денег. Если же денег недостаточно, нужно оценить раба и дать ему работу, чтобы он сам отработал остаток своего освобождения, не возлагая при этом на него ничего непосильного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2527) Sahih Muslim (1503)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3938</td></tr><tr><td>Arabic No</td><td>3938</td></tr><tr><td>Reference</td><td>Book 31 Hadith 13</td></tr></tbody></table></div>
 

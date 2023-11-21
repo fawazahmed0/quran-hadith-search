@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Mas'ûd (que Dieu l'agrée) a dit : Lorsque l'aumône nous fut prescris, no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Ma'in] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] -dalam jalur lain- dan telah menceritakannya kepadaku [Bisyr bin Khalid] -lafazhnya juga miliknya- telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Abu Wa'il] dari [Abu Mas'ud], ia berkata; Kami pernah diperintahkan untuk bersedekah, ia berkata: lalu kami bekerja sebagai buruh yang mengangkat barang dengan sedikit upah. Ia berkata: maka bersedekahlah Abu 'Uqail dengan setengah sha', kemudian datang seorang lelaki dan bersedekah sedikit lebih banyak daripadanya. Maka orang-orang munafikpun berkata, "Sesungguhnya Allah tidak butuh dengan sedekah orang ini dan tidaklah ia melakukannya kecuali karena riya'." Maka turunlah ayat: "(orang-orang munafik itu) yaitu orang-orang yang mencela orang-orang mukmin yang memberi sedekah dengan sukarela dan (mencela) orang-orang yang tidak memperoleh (untuk disedekahkan) selain sekedar kesanggupannya…" Dan Bisyr tidak melafadzkan kalimat "AL MUTHTHOWWI'IN." Dan Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepadaku [Sa'id bin Rabi'] -dalam jalur lain- Dan telah menceritakannya kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu Dawud] keduanya dari [Syu'bah] dengan isnad ini. Dalam hadits Sa'id bin Rabi', ia mengatakan; Kami memanggul barang di atas punggung-punggung kami (dengan sedikit upah-pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>1018.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд сказал: «Нам было велено было велено давать милостыню, и мы стали работать носильщиками (чтобы раздавать милостыню из заработанного). Абу ‘Акиль пожертвовал половину са‘, а потом какой-то человек принёс больше, и лицемеры (стали) говорить: “Поистине, Аллах не нуждается в милостыне этого, другой же сделал это не иначе как напоказ”, и после этого был (ниспослан аят, в котором сказано): “Те, которые высмеивают делающих добровольные пожертвования из числа верующих за милостыни и тех, кто с трудом находит средства для пожертвования” (сура “ат-Тауба”, аят 79)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>1018.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 92</td></tr></tbody></table></div>
 

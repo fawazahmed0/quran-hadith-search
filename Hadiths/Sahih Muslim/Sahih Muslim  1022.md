@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Sa'id reported:The Apostle of Allah (ﷺ) led us in the morning pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Juraij] dia berkata, --lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan keduanya berdekatan dalam lafazh tersebut, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] dia berkata, saya mendengar [Muhammad bin 'Abbad bin Ja'far] berkata, telah mengabarkan kepadaku [Abu Salamah bin Sufyan] dan [Abdullah bin Amru bin al-'Ash] serta [Abdullah bin al-Musayyab al-'Abidi] dari [Abdullah bin as-Saib] dia berkata, "Nabi shallallahu 'alaihi wasallam shalat shubuh mengimami kami di Makkah, lalu beliau membukanya dengan membaca surat al-Mukminin (Qad aflaha al-mukminin) hingga sampai pada penyebutan Musa dan Harun atau penyebutan Isa, -Muhammad bin Abbd ragu-ragu atau mereka berselisih padanya- maka mulailah Nabi shallallahu 'alaihi wasallam suaranya serak, lalu beliau rukuk." Dan Abdullah bin as-Sa'ib hadir pada peristiwa tersebut. Dan dalam hadits Abdurrazzaq, "Lalu beliau menghentikan bacaannya, lalu rukuk." Sedangkan dalam haditsnya, "Dan Abdullah bin Amru, dan bukan Ibnu al-Ash
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1022</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 4 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ас-Саиб сказал: «(Однажды,) будучи в Мекке, Пророк ﷺ совершил с нами утреннюю молитву. Он начал (чтение) с суры “аль-Муъминун” и, когда дошёл до того места, где упоминается Муса и Харун или же ‘Иса, Мухаммад ибн ‘Аббад сомневался в этом или же они разошлись во мнениях, Пророк ﷺ вдруг, начал кашлять и совершил поясной поклон, а ‘Абдуллах ибн ас-Саиб был свидетелем этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1022</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 4 Hadith 184</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa: The Prophet (ﷺ) said: This people of mine is one to which me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Katsir bin Hisyam] berkata, telah menceritakan kepada kami [Al Mas'udi] dari [Sa'id bin Abu Burdah] dari [Bapaknya] dari [Abu Musa] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Umatku adalah umat yang terhormat, di akhirat tidak akan mendapatkan siksa, siksa mereka adalah di dunia; yakni dengan adanya fitnah, gempa bumi dan peperangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4278</td></tr><tr><td>Arabic No</td><td>4278</td></tr><tr><td>Reference</td><td>Book 37 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы (аль-Аш‘ари), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Эта моя община община помилованная, и она не будет подвергнута наказанию в мире вечном. Её наказание в этом мире. Это смуты, землетрясения и убийства»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4278</td></tr><tr><td>Arabic No</td><td>4278</td></tr><tr><td>Reference</td><td>Book 37 Hadith 39</td></tr></tbody></table></div>
 

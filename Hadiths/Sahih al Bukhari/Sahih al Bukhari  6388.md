@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "If anyone of you, when intending to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Salim] dari [Kuraib] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sekiranya salah seorang diantara kalian hendak mendatangi isterinya, maka ucapkanlah; 'BISMILLAHI ALLAHUMMA JANNIBNASY SYAITHAANA WAJANNIBIS SYAITHAANA MAA RAZAQTANAA' Dengan nama Allah, jauhkanlah kami dari setan dan jauhkanlah setan terhadap sesuatu yang Engkau anugerahkan kepada kami, jika ditakdirkan memperoleh anak dari keduanya, maka setan tidak akan mampu membahayakannya selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6388</td></tr><tr><td>Arabic No</td><td>6388</td></tr><tr><td>Reference</td><td>Book 80 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Если кто-нибудь из них захочет совершить половое сношение с женой и скажет: “С именем Аллаха, о Аллах, удали нас от шайтана и удали шайтана от того, кем Ты наделишь нас! / Бисми-Лляхи, Аллахумма, джанниб-на-ш-шайтана ва джанниби-ш-шайтана ма разакта-на”, — то если супругам будет суждено иметь ребёнка, шайтан никогда не сможет причинить ему вред»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6388</td></tr><tr><td>Arabic No</td><td>6388</td></tr><tr><td>Reference</td><td>Book 80 Hadith 83</td></tr></tbody></table></div>
 

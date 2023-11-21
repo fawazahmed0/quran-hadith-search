@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-nawwas b. Sim’an al-Kilabi said:The Messenger of Allah (ﷺ) mentioned the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shafwan bin Shalih Ad Dimasyqi Al Mu'adzdzin] berkata, telah menceritakan kepada kami [Al Walid] berkata, telah menceritakan kepada kami [Ibnu Jabir] berkata, telah menceritakan kepadaku [Yahya bin Jabir Ath Tha'i] dari ['Abdurrahman bin Jubair bin Nufair] dari [Bapaknya] dari [An Nawwas bin Sam'an Al Kilabi] ia berkata, "Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang Dajjal, beliau bersabda: "Jika saat Dajjal keluar aku masih bersama kalian maka akulah yang akan melindungi kalian darinya. Namun jika ia keluar dan aku tidak lagi bersama kalian, maka setiap orang harus melindungi dirinya sendiri. Allah adalah pelindung bagiku dan setiap muslim. Barangsiapa dari kalian berjumpa dengannya, hendaklah ia bacakan awal surat Al Kahfi, sebab itu akan melindungi kalian dari fitnahnya." Kami lalu bertanya, "Berapa lama ia akan tinggal di bumi?" beliau menjawab: "Empat puluh hari. Satu hari seakan setahun, dan sehari seakan sebulan, dan sehari seakan sepekan dan hari-harinya dia sama sebagaimana hari-hari kalian." Kami bertanya lagi, "Wahai Rasulullah, pada hari yang seakan satu tahun, apakah shalat kami akan mencukupi untuk waktu sehari semalam?" beliau menjawab: "Tidak, namun sesuaikanlah (setiap waktu shalat). Kemudian Isa putera Maryam akan turun di sisi menara putih, sebelah timur kota Damaskus. Lalu ia menemukan Dajjal di pintu Lud (sebuah tempat di dekat Baitul Maqdis), lantas ia pun membunuhnya." Telah menceritakan kepada kami [Isa bin Muhammad] berkata, telah menceritakan kepada kami [Dhamrah] dari [Asy Syaibani] dari [Amru bin Abdullah] dari [Abu Umamah] dari Nabi shallallahu 'alaihi wasallam, sebagaimana dalam hadits tersebut. Lalu beliau menyebutkan beberapa shalat seperti makna dalam hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2937)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 39 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ан-Наввас ибн Сам‘ан аль-Киляби, да будет доволен им Аллах, передаёт: Посланник Аллаха ﷺ упомянул о Даджжале и сказал: «Если он появится в то время, когда я буду с вами, то я и буду вести с ним спор вместо вас. Если же он появится в то время, когда меня среди вас не будет, тогда каждому человеку придётся вести спор за себя, а Аллах заменит меня в этом для каждого мусульманина. И кто из вас застанет его, пусть читает первые аяты суры “аль-Кяхф”, и они станут защитой для вас от его искушений». Мы спросили: «А сколько он пробудет на земле?» Он ответил: «Сорок дней, из которых один день будет подобен году, ещё один месяцу, ещё один неделе, остальные же будут подобны вашим дням». Мы спросили: «О Посланник Аллаха, а достаточно ли будет в день, подобный году, совершать молитвы, обычно совершаемые нами ежедневно?» Он сказал: «Нет, но определяйте в этот день время должным образом. А потом спустится ‘Иса ибн Марьям у белого минарета на востоке Дамаска, настигнет его у входа в Людд (город в Палестине) и убьёт его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2937)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4321</td></tr><tr><td>Arabic No</td><td>4321</td></tr><tr><td>Reference</td><td>Book 39 Hadith 31</td></tr></tbody></table></div>
 

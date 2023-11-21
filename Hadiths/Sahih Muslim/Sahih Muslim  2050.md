@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ata' reported that Ibn 'Abbas sent (him) to Ibn Zubair at the commencement of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Atha'] bahwasanya; [Ibnu Abbas] mengirim seseorang kepada Ibnu Zubiar ketika pertama kali keluar (untuk menunaikan shalat Ied), "Bahwa shalat Ied (ditunaikan) tanpa adzan. Karena itu, jangankan kamu mengumandangkan adzan." Maka Ibnu Zubair pun tidak menyuruh untuk mengumandangkan adzan. Kemudian para hari itu, ia juga mengutus kepadanya, bahwa penyampaian khutbah adalah sesudah shalat. Dan bahwa hal itu sebelumnya telah dilakukan oleh Rasulullah shallallahu 'alaihi wasallam. Akhirnya Ibnu Zubair pun shalat Ied sebelum khutbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2050</td></tr><tr><td>Arabic No</td><td>886.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Атаъ, что когда Ибн аз-Зубайру принесли присягу, Ибн ‘Аббас отправил к нему (человека со словами): «В День разговения призыв /азан/ к праздничной молитве не произносился, поэтому и ты не произноси его». И Ибн аз-Зубайр не произносил призыв (к этой молитве). Также Ибн ‘Аббас отправил к нему (человека со словами): «Хутба (в праздничный день) произносится только после молитвы, и так это делалось». И Ибн аз-Зубайр совершал (праздничную) молитву до хутбы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2050</td></tr><tr><td>Arabic No</td><td>886.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 6</td></tr></tbody></table></div>
 

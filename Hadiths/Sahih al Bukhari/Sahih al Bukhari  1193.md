@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Dinar:Ibn 'Umar said, "The Prophet (ﷺ) used to go to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul 'Aziz bin Muslim] dari ['Abdullah bin Dinar] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Rasulullah shallallahu 'alaihi wasallam pernah mengunjungi masjid Quba' pada setiap hari Sabtu, baik dengan berkendaraan ataupun berjalan kaki". Dan Ibnu'Umar radliallahu 'anhuma juga melakukannya seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 20 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Динар передал, что Ибн 'Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ ходил в мечеть “Куба” каждую субботу, (иногда) пешком и (иногда) верхом». И Абдулла ибн ‘Умар, да будет доволен Аллах им и его отцом, делал то же самое
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 20 Hadith 5</td></tr></tbody></table></div>
 

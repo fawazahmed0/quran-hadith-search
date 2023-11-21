@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that Allah's Messenger (ﷺ) happened to pass by Ibn Sayyad a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7358</td></tr><tr><td>Arabic No</td><td>2930.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передал со слов Ибн ‘Умара о том, что (однажды) По­сланник Аллаха ﷺ и ещё несколько человек из числа его сподвижников, среди которых был и ‘Умар ибн аль-Хаттаб, да будет доволен Аллах ими обоими, проходил мимо Ибн Сайяда, который будучи мальчиком играл с (другими) мальчиками возле укрепления (рода) бану магъаля …, и далее он передал смысл хадиса Юнуса и Салиха, исключая то, что ‘Абд бин Хумайд не упомянул хадис Ибн ‘Умара, (в котором сказано, что) Пророк, да благословит его Аллах и приветствует, отправился с Убайй ибн Ка‘бом в пальмовую рощу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7358</td></tr><tr><td>Arabic No</td><td>2930.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 120</td></tr></tbody></table></div>
 

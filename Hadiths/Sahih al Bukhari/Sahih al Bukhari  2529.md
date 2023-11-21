@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:The Prophet (ﷺ) said, "The (reward of) deeds dep
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Sufyan] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Muhammad bin Ibrahim At-Taymiy] dari ['Alqamah bin Waqash Al Laitsiy] berkata; aku mendengar dari ['Umar bin Al Khaththab radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Hanyasanya amal dihitung karena niat, dan setiap orang akan mendapatkan apa yang diniatkannya. Maka siapa yang berhijrah kepada Allah dan RasulNya maka hijrahnya itu kepada Allah dan RasulNya dan siapa yang hijrah untuk dunia yang ingin didapatkannya atau kepada wanita yang ingin dikawininya maka hijrahnya sekedar mendapat tujuan hijrahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2529</td></tr><tr><td>Arabic No</td><td>2529</td></tr><tr><td>Reference</td><td>Book 49 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар бин аль-Хаттаб, да будет доволен им Аллах передал, как Посланник Аллаха ﷺ сказал: “Поистине, дела (оцениваются) только по намерениям и, поистине, каждому человеку (достанется) только то, что он намеревался (обрести). Так, совершивший переселение к Аллаху и посланнику Его переселится к Аллаху и посланнику Его, а переселявшийся ради чего-нибудь мирского или ради женщины, на которой он хотел жениться, переселится (лишь) к тому, к чему он переселялся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2529</td></tr><tr><td>Arabic No</td><td>2529</td></tr><tr><td>Reference</td><td>Book 49 Hadith 13</td></tr></tbody></table></div>
 

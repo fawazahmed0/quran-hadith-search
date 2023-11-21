@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Verily the Imam is a shi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] dan lafazh tersebut miliknya, telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Ya'la, dan dia adalah Ibnu 'Atha'] dia mendengar [Abu 'Alqamah], dia mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, ' Imam adalah perisai, apabila dia shalat dalam keadaan duduk, maka kalian shalatlah dalam keadaan duduk. Dan apabila dia mengucapkan, 'Sami'allahu liman hamidahu', maka ucapkanlah, 'Allahumma laka al-Hamdu'. Maka apabila perkataan penduduk bumi bersesuaian dengan perkataaan penduduk langit, niscaya dosanya yang telah lalu diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>934</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 4 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Имам является щитом, и если он совершает молитву сидя, то и вы совершайте её сидя; когда он говорит: “Да услышит Аллах тех, кто воздал Ему хвалу” /Сами‘а-Ллаху лиман хамидах/, говорите: “О Аллах, Господь наш, хвала Тебе” /Аллахумма Рабба-на, ля-ка-ль-хамд/, и если произнесение этих слов обитателем земли совпадёт с их произнесением обитателей небес, то ему простятся его прежние грехи».Глава: Молитва Пророка ﷺ во время болезни, когда Абу Бакр был позади него
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>934</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 4 Hadith 96</td></tr></tbody></table></div>
 

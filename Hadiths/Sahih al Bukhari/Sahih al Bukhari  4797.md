@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Ujra:It was said, "O Allah's Messenger (ﷺ)! We know how to g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Sa'id bin Yahya bin Sa'id] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Mis'ar] dari [Al Hakam] dari [Ibnu Abu Laila] dari [Ka'ab bin 'Ujrah radliallahu 'anhu] ketika dikatakan; Wahai Rasulullah, kami telah mengetahui salam kepadamu, lalu bagaimanakah caranya bershalawat kepadamu? Beliau menjawab: "Ucapkanlah; ALLAHUMMA SHALLI 'ALAA MUHAMMAD WA 'ALAA AALI MUHAMMAD KAMAA SHALLAITA 'ALAA AALII IBRAAHIM INNAKA HAMIIDUM MAJIID. ALLAAHUMMA BAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAARAKTA 'ALAA 'AALI IBRAHIIMA INNAKA HAMIIDUM MAJIID
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 65 Hadith 319</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б бин ‘Уджра, да будет доволен им Аллах, сказал:\n— (Однажды люди) сказали (Пророку ﷺ): «О Посланник Аллаха, мы уже знаем, как приветствовать тебя, но как нам обращаться к Аллаху с мольбами за тебя?» (На это Пророк ﷺ) сказал: «Говорите: “О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты семейство Ибрахима, поистине, Ты — Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты (их) семейству Ибрахима, поистине, Ты — Достойный похвалы, Славный! /Аллахумма, салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма салляйта ‘аля али Ибрахима, инна-кя Хамидун, Маджид! Аллахумма, барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля али Ибрахима, инна-кя Хамидун, Маджид!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 65 Hadith 319</td></tr></tbody></table></div>
 

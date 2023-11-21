@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada kami [Manshur] dari [Hilal bin Yasaf] dari [Abu Yahya] dari [Abdullah bin Amru] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah melihat suatu kaum yang mata kaki mereka terlihat masih kering, maka beliau bersabda: "Celakalah bagi mata kaki dari siksa api neraka, sempurnakanlah wudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (241)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>97</td></tr><tr><td>Arabic No</td><td>97</td></tr><tr><td>Reference</td><td>Book 1 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов ‘Абдуллаха ибн ‘Амра о том, что однажды, увидев людей, у которых недомыты пятки, Посланник Аллаха ﷺ сказал: «Горе же пяткам от (адского) Огня! Совершайте омовение тщательно!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (241)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>97</td></tr><tr><td>Arabic No</td><td>97</td></tr><tr><td>Reference</td><td>Book 1 Hadith 97</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "A flag will be fixed on the Da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdullah bin Dinar] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya akan dikibarkan bendera untuk para penghianat pada hari Kiamat kelak, maka akan dikatakan; Ini adalah bendera penghiantan fulan bin fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6178</td></tr><tr><td>Arabic No</td><td>6178</td></tr><tr><td>Reference</td><td>Book 78 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «В День воскресения у (каждого) вероломного водрузят знамя, и будет сказано: “Это вероломство такого-то, сына такого-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6178</td></tr><tr><td>Arabic No</td><td>6178</td></tr><tr><td>Reference</td><td>Book 78 Hadith 202</td></tr></tbody></table></div>
 

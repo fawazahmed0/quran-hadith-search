@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam: I heard the Messenger of Allah (ﷺ) say: I am the heirs of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdussalam bin 'Atiq Ad Dimasyqi], telah menceritakan kepada kami [Muhammad bin Al Mubarak], telah menceritakan kepada kami [Isma'il bin 'Ayyasy] dari [Yazid? bin Hujr] dari [Shalih bin Yahya bin Al Miqdam] dari [ayahnya], dari [kakeknya], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah pewaris orang yang tidak memiliki pewaris, aku bebaskan tanggungannya dan mewarisi hartanya. Paman (dari pihak ibu) adalah pewaris orang yang tidak memiliki pewaris yang akan membebaskan tanggungannya dan mewarisi hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2901</td></tr><tr><td>Arabic No</td><td>2901</td></tr><tr><td>Reference</td><td>Book 19 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Микдама, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Я наследник того, у кого нет наследников: я плачу компенсацию вместо него и наследую ему. И дядя по матери наследник того, у кого нет наследников: он платит компенсацию вместо него и наследует ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2901</td></tr><tr><td>Arabic No</td><td>2901</td></tr><tr><td>Reference</td><td>Book 19 Hadith 17</td></tr></tbody></table></div>
 

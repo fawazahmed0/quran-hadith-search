@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:While Allah's Messenger (ﷺ) was sitting, a Jew ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami ['Amru bin Yahya] dari [bapaknya] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam sedang duduk bermajelis tiba-tiba datang seorang Yahudi seraya berkata; "Wahai Abu Al Qasim, seorang shahabatmu telah memukul wajahku". Lalu dia menebutkan seseorang dari kalangan Anshar. Maka Beliau berkata: "Panggillah". Kemudian Beliau bertanya: "Apakah benar kamu memukulnya?" Orang itu berkata; "Aku mendengar di pasar dia bersumpah; "Demi Dzat yang telah memilih Musa untuk seluruh manusia. Aku katakan; (Apakah kamu bermaksud untuk mengatakan) "Aku benci Muhammad shallallahu 'alaihi wasallam". Maka kemarahanku memuncak lalu aku pukul wajahnya". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian banding-bandingkan (lebihkan) sesama para Nabi karena nanti saat seluruh manusia dimatikan pada hari qiyamat, akulah orang yang pertama kali dibangkitkan dari bumi namun saat itu dihadapanku telah ada Musa Aalaihissalam yang sedang berpegangan pada salah satu tiang 'Arsy, dan aku tidak tahu apakah dia termasuk orang yang dibangkitkan (lebih dahulu) atau termasuk orang yang dihisab (sehingga diselamatkan) dengan hari kegoncangan yang pertama?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2412</td></tr><tr><td>Arabic No</td><td>2412</td></tr><tr><td>Reference</td><td>Book 44 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Однажды, когда Посланник Аллаха ﷺ сидел, пришёл иудей и сказал: «О Абу-ль-Касим, один человек из числа твоих сподвижников ударил меня по лицу». Пророк ﷺ спросил: «Кто это?» Он ответил: «Человек из числа ансаров». Пророк ﷺ сказал: «Позовите его!» Затем он спросил его: «Ты ударил его?» Он ответил: «Я услышал, как он клялся на рынке, говоря: “Я клянусь Тем, Кто дал превосходство Мусе над всеми людьми!” Я сказал: “О мерзкий, (дал превосходство даже) над Мухаммадом ﷺ!?” Меня охватил гнев, и я ударил его по лицу». Пророк ﷺ сказал: «Не превозносите одних пророков над другими! Поистине, в День воскресения люди будут поражены, и я буду первым над кем разверзнется земля и увижу Мусу, который будет держаться за один из столпов Трона Аллаха. И мне будет неизвестно, был ли он поражён вместе с другими или же ему было воздано первым поражением (в этой жизни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2412</td></tr><tr><td>Arabic No</td><td>2412</td></tr><tr><td>Reference</td><td>Book 44 Hadith 3</td></tr></tbody></table></div>
 

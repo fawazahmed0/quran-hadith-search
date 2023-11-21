@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Khufaf b. Ima' reported that the Messenger of Allah (may peace he upon him), bow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1558</td></tr><tr><td>Arabic No</td><td>679.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 391</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Хуфаф ибн Имаъ сказал: «(Однажды) Посланник Аллаха ﷺ совершил поясной поклон, затем поднял голову и сказал: “Да простит Аллах (людей из племени) гыфар, и да спасёт Аллах (людей из племени) аслям, а ‘усайя ослушались Аллаха и Его Посланника! О Аллах, прокляни (убийц из племени) лихьян! Прокляни (убийц из племён) ри‘ль и закван!”, затем он пал ниц, совершив земной поклон».Хуфаф сказал: «И поэтому было узаконено проклятие неверующих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1558</td></tr><tr><td>Arabic No</td><td>679.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 391</td></tr></tbody></table></div>
 

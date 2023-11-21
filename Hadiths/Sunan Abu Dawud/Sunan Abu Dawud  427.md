@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umarah ibn Ruwaybah: A man from Basrah said: Tell me what you heard fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Isma'il bin Abu Khalid] telah menceritakan kepada kami [Abu Bakar bin Umarah bin Ru'aibah] dari [Ayahnya] dia berkata; Ada seorang lelaki dari penduduk Bashrah yang bertanya kepadanya; dia berkata; Kabarkanlah kepadaku apa yang telah engkau dengar dari Rasulullah Shallallahu alaihi wasallam. Saya berkata; Saya pernah mendengar Rasulullah Shallallahu alaihi wasallam bersabda: "Tidak akan masuk neraka seseorang yang menunaikan shalat sebelum terbitnya matahari dan sebelum terbenamnya." Dia bertanya; Apakah engkau benar-benar telah mendengarnya dari beliau? (dia ditanya tiga kali) Dia menjawab; Ya, setiap kali menjawab dia mengatakan; Kedua telingaku telah mendengarnya dan hatiku memahaminya. Maka laki-laki tersebut berkata; Saya juga telah mendengar beliau Shallallahu alaihi wasallam bersabda demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (634)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>427</td></tr><tr><td>Arabic No</td><td>427</td></tr><tr><td>Reference</td><td>Book 2 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакра ибн ‘Умары ибн Руайба о том, что его отец рассказывал, что однажды какой-то человек из числа жителей Басры спросил его: «Расскажи мне о том, что ты слышал от Посланника Аллаха ﷺ». Он ответил: «Я слышал, как Посланник Аллаха ﷺ говорил: “Не войдет в Огонь тот человек, который совершал молитвы до восхода солнца и до его заката”».(Этот человек) сказал: «Ты слышал это от него?», повторив это трижды. Он ответил: «Да, все это он говорил, а я слышал это своими ушами и храню в своем сердце». Тот человек сказал: «Я тоже слышал как он ﷺ говорил это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (634)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>427</td></tr><tr><td>Arabic No</td><td>427</td></tr><tr><td>Reference</td><td>Book 2 Hadith 37</td></tr></tbody></table></div>
 

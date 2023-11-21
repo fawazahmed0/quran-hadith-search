@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: The Prophet (ﷺ) said: I do not ride on purple, or w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid] berkata, telah menceritakan kepada kami [Rauh] berkata, telah menceritakan kepada kami [Sa'id bin Abu Arubah] dari [Qatadah] dari [Al Hasan] dari [Imran bin Hushain] bahwa Nabi Allah shallallahu 'alaihi wasallam bersabda: "Aku tidak akan memakai alas pelana yang berwarna merah, dan tidak pula kain yang dicelup dengan warna kuning serta tidak akan memakai kain yang bersulam sutera (pada lengannya)." Imran berkata, "Lalu Hasan berisyarat pada saku bajunya." Imran berkata, "beliau lalu bersabda: "Ketahuilah, minyak wangi bagi laki-laki itu beraroma tetapi tidak berwarna, sedangkan minyak wangi bagi wanita itu berwarna tetapi tidak beraroma." Sa'id berkata, "Menurutku bahwa ucapan beliau tentang minyak wangi wanita itu dipahami dalam kondisi saat ia keluar rumah, adapaun jika wanita itu sedang bersama suaminya, maka ia boleh mengenakan wewangian sesuka hatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4048</td></tr><tr><td>Arabic No</td><td>4048</td></tr><tr><td>Reference</td><td>Book 34 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что пророк Аллаха ﷺ сказал: «Я не езжу на пурпурных подстилках, не ношу крашенную шафраном одежду и рубаху, отделанную шёлком». И аль-Хасан (аль-Басри, передатчик этого хадиса от ‘Имрана) показал на ворот своей рубахи. Он сказал: «Затем (Посланник Аллаха ﷺ) сказал: “Поистине, благовония мужчин (, которыми разрешается пользоваться мужчинам) те, которые дают запах, но не имеют цвета. А благовония женщин те, которые дают цвет, но не дают запаха”». Са‘ид (ибн Абу ‘Уруба) сказал: «Судя по всему, они (учёные) отнесли сказанное о благовониях женщин к тому случаю, когда женщина выходит из дома. А когда она дома с мужем, она может пользоваться такими благовониями, какими пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4048</td></tr><tr><td>Arabic No</td><td>4048</td></tr><tr><td>Reference</td><td>Book 34 Hadith 29</td></tr></tbody></table></div>
 

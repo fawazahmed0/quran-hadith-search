@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) burnt the date-palm trees of Bani An-Nadir.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah mengabarkan kepada kami [Habban] telah mengabarkan kepada kami [Juwairiyah bin Asma'] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam pernah membakar kebun kurma Bani Nadlir, ia mengatakan, "Untuk itulah Hassan bin Tsabit mengatakan, 'Dan telah hina pemimpin Bani Lu'ai, kebakaran di Buwairah telah menyala-nyala.' Lantas Abu Sufyan bin Al Harits menjawab, 'Allah melanggengkan hal itu, semua sisi terbakar oleh api, kamu akan mengetahui siapa di antara kita yang terdampar, dan kamu akan mengetahui mana dari kedua tanah kami yang membahayakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4032</td></tr><tr><td>Arabic No</td><td>4032</td></tr><tr><td>Reference</td><td>Book 64 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Когда Пророк ﷺ сжёг и вырубил пальмы бану надыр в (аль-Бувайре), Хассан ибн Сабит сказал:\nГоспода бану люай легко наблюдали за огнём,\nраспространяющимся в аль-Бувайре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4032</td></tr><tr><td>Arabic No</td><td>4032</td></tr><tr><td>Reference</td><td>Book 64 Hadith 81</td></tr></tbody></table></div>
 

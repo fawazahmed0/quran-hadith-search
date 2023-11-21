@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrates 'Abdullah bin Mughaffal:While we were besieging the castle of Khaibar, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Humaid bin Hilal] dari [Abdullah bin Mughaffal] radliallahu 'anhu, ia berkata, "Kami pernah mengepung istana Khaibar, tiba-tiba ada seseorang yang melempar geriba yang didalamnya terdapat lemak. Maka aku pun segera melompat untuk mengambilnya, ketika aku menoleh ternyata ada Nabi shallallahu 'alaihi wasallam sehingga aku pun malu dibuatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5508</td></tr><tr><td>Arabic No</td><td>5508</td></tr><tr><td>Reference</td><td>Book 72 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мугаффаль, да будет доволен им Аллах, сказал: «Пока мы осаждали крепость Хайбар, кто-то бросил шкуру, полную жира, и я пошел вперед, чтобы взять ее, но, оглянувшись, я увидел Пророка ﷺ, и я постеснялся его (и не взял ее)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5508</td></tr><tr><td>Arabic No</td><td>5508</td></tr><tr><td>Reference</td><td>Book 72 Hadith 34</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:I heard Allah's Messenger (ﷺ) saying, "The (rewa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Wahhab] menuturkan; aku mendengar [Yahya bin Sa'id] mengatakan; telah mengabarkan kepadaku [Muhammad bin Ibrahim] bahwasanya ia mendengar ['Alqomah bin Waqqash Al Laitsi] menuturkan; aku mendengar [Umar bin khattab] radliallahu 'anhu menuturkan; aku mendengar Rasulullah Shallallahu'alaihi wa sallam bersabda: "Sesungguhnya amalan itu hanyalah tergantung niatnya, dan setiap orang hanya mendapatkan apa yang diniatkannya. Barangsiapa yang (berniat) hijrah kepada Allah dan RasulNya, maka hijrahnya kepada Allah dan RasulNya. Dan barangsiapa (berniat) hijrah karena dunia yang bakal diraihnya atau wanita yang akan dinikahinya, maka hijrahnya kepada apa yang diniatkannya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6689</td></tr><tr><td>Arabic No</td><td>6689</td></tr><tr><td>Reference</td><td>Book 83 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькъама ибн Ваккъас аль-Лейси сказал:\n— Я слышал, как ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, говорил: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, дела (оцениваются) только по намерению и, поистине, каждому человеку (достанется) только то, что он намеревался (обрести), и поэтому (человек, совершавший) переселение к Аллаху и посланнику Его, переселится к Аллаху и посланнику Его, переселявшийся же ради чего-нибудь мирского, которое он хотел обрести или ради женщины, на которой он хотел жениться, переселится (лишь) к тому, к чему он переселялся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6689</td></tr><tr><td>Arabic No</td><td>6689</td></tr><tr><td>Reference</td><td>Book 83 Hadith 66</td></tr></tbody></table></div>
 

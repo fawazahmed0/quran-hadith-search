@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] ia berkata; aku membacakannya di hadapan [Malik bin Anas] bahwa [telah disampaikan seseorang] dari ['Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang dari jual beli 'Uryan." Malik berkata, "Jual beli Uryan menurut kami -wallahu a'lam- seseorang membeli seorang budak atau menyewa kendaraan kemudian berkata, 'Aku akan memberimu satu dinar, namun jika aku tidak jadi membeli barang tersebut atau tidak jadi menyewanya, maka apa yang telah aku beri menjadi hakku kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3502</td></tr><tr><td>Arabic No</td><td>3502</td></tr><tr><td>Reference</td><td>Book 24 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил продажу с задатком. Малик сказал: «Это как мы считаем, а Аллах знает обо всём лучше когда человек покупает раба или верховое животное и говорит продавцу: “Я даю тебе динар с условием, что, если я откажусь от сделки, то, что я дал тебе, остаётся у тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3502</td></tr><tr><td>Arabic No</td><td>3502</td></tr><tr><td>Reference</td><td>Book 24 Hadith 87</td></tr></tbody></table></div>
 

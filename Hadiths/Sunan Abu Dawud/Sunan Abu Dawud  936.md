@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying; 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyib] dan [Abu Salamah bin Abdurrahman] bahwa keduanya telah mengabarkan dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seorang imam mengucapkan "Amin" maka ucapkanlah "Amin" barangsiapa yang bacaan aminnya bersamaan dengan Malaikat, maka dosa-dosanya yang telah lalu akan terampuni." Ibnu Syihab mengatakan; "Rasulullah shallallahu 'alaihi wasallam juga mengucapkan amiin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (780) Sahih Muslim (410)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>936</td></tr><tr><td>Arabic No</td><td>936</td></tr><tr><td>Reference</td><td>Book 2 Hadith 547</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда имам (в молитве после чтения «аль-Фатихи») говорит: “Амин”, вы тоже говорите: “Амин”, ибо тому, кто скажет: “Амин” одновременно с ангелами, простятся его предыдущие прегрешения». Ибн Шихаб сказал: «И Посланник Аллаха ﷺ говорил: “Амин”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (780) Sahih Muslim (410)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>936</td></tr><tr><td>Arabic No</td><td>936</td></tr><tr><td>Reference</td><td>Book 2 Hadith 547</td></tr></tbody></table></div>
 

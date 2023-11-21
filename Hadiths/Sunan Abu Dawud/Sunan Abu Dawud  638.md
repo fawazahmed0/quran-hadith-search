@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said :while a man was praying letting his lower garment trail, the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Yahya] dari [Abi Ja'far] dari ['Atha' bin Yasar] dari [Abu Hurairah] dia berkata; Ketika ada seseorang melaksanakan shalat dengan memanjangkan pakaiannya (hingga melewati mata kaki), Rasulullah Shallallahu alaihi wasallam bersabda kepadanya: "Pergilah dan ulangi wudlumu!" Maka orang tersebut pergi dan berwudlu lagi, kemudian datang lagi, lalu beliau bersabda lagi kepadanya: "Pergilah dan ulangi wudlumu!" Maka dia pergi lagi dan mengulangi wudlunya lalu kembali, dan ada seseorang berkata; Ya Rasulullah, kenapa engkau memerintahkannya untuk berwudlu lagi kemudian engkau mendiamkannya? Beliau bersabda; "Sesungguhnya orang tersebut shalat dengan memanjangkan pakaiannya (melewati mata kaki), dan sesungguhnya Allah Ta'ala tidak menerima shalat seseorang yang memanjangkan pakaiannya (hingga melewati mata kaki)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>638</td></tr><tr><td>Arabic No</td><td>638</td></tr><tr><td>Reference</td><td>Book 2 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Как-то раз,) когда один человек, (слишком низко) опустивший (края) своего изара, совершал молитву, Посланник Аллаха ﷺ велел ему: “Ступай и соверши омовение!”. И он пошёл и совершил омовение, а потом вернулся (обратно, но Пророк ﷺ снова) сказал (ему): “Ступай и соверши омовение!”. И он пошёл и совершил омовение, после чего вернулся (обратно), а один мужчина спросил у него: “О Посланник Аллаха, почему ты велишь ему совершать омовение?”. И (Пророк ﷺ) сказал: “Поистине, он молился, опустив (края) своего изара, и поистине, Аллах Всевышний не принимает молитву человека опускающего свой изар!”».Также этот хадис передал аль-Байхакъи 2/241. См. также хадис № 4086 настоящего сборника (прим. пер)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>638</td></tr><tr><td>Arabic No</td><td>638</td></tr><tr><td>Reference</td><td>Book 2 Hadith 248</td></tr></tbody></table></div>
 

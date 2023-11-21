@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:Allah's Messenger (ﷺ) said to us, "Honesty descended from th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] ia berkata; aku bertanya kepada [Al A'masy], dan ia berkata dari [Zaid bin Wahb] aku mendengar [Hudzaifah] berkata, telah menceritakan kepada kami Rasulullah shallallahu 'alaihi wasallam, bahwa amanat turun dari langit di relung hati laki-laki, dan alquran turun lantas mereka baca alquran dan tahu assunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7276</td></tr><tr><td>Arabic No</td><td>7276</td></tr><tr><td>Reference</td><td>Book 96 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Зейд ибн Вахба слышал, как Хузейфа (ибн аль-Яман), да будет доволен им Аллах, сказал: «Нам рассказал Посланник Аллаха ﷺ: “Ответственность (амана) снизошла с небес в основание людских сердец, а потом был ниспослан Коран, и люди читали Коран и узнавали из Сунны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7276</td></tr><tr><td>Arabic No</td><td>7276</td></tr><tr><td>Reference</td><td>Book 96 Hadith 9</td></tr></tbody></table></div>
 

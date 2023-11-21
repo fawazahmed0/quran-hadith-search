@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ishaq reported:I heard al-Bara' saying: We prayed with the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Abu Bakar bin Khallad] semuanya meriwayatkan dari [Yahya] berkata [Ibnu al-Mutsanna], telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] telah menceritakan kepadaku [Abu Ishaq] dia berkata, Saya mendengar [al-Bara'] berkata, "Kami shalat bersama Rasulullah Shallallahu'alaihiwasallam menghadap Baitul Maqdis enam belas bulan atau tujuh belas bulan, kemudian kami dipalingkan menghadap Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1177</td></tr><tr><td>Arabic No</td><td>525.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Бара сказал: «В течение шестнадцати или семнадцати месяцев мы молились вместе с Посланником Аллаха ﷺ, обращаясь лицом в сторону Храма (в Иерусалиме( /байт аль-макдис/, а затем (Аллах) повернул нас в сторону Ка’бы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1177</td></tr><tr><td>Arabic No</td><td>525.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 17</td></tr></tbody></table></div>
 

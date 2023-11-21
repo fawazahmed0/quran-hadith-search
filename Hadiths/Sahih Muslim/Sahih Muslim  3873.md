@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakhtari reported:I asked Ibn 'Abbas (Allah be pleased with them) about the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Abu Al Bakhtari] dia berkata; Saya bertanya kepada [Ibnu Abbas] mengenai menjual kurma, dia menjawab; Rasulullah Shallallu 'alaihi wa sallam melarang menjual kurma sampai seseorang layak memakannya atau ia layak dimakan dan ditakar." Abu Al Bakhtari berkata; Saya bertanya; Apa maksudnya setelah layak ditakar? Maka seseorang yang bersama Ibnu Abbas menjawab; Ditaksir (diperkirakan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3873</td></tr><tr><td>Arabic No</td><td>1537</td></tr><tr><td>Reference</td><td>Book 21 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3873</td></tr><tr><td>Arabic No</td><td>1537</td></tr><tr><td>Reference</td><td>Book 21 Hadith 72</td></tr></tbody></table></div>
 

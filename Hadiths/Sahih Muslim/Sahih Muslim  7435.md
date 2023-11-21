@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umair al-'Adawi reported:'Utba b. Ghazwan delivered us a sermon and he praised A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Sulaiman bin Al Mughirah] telah menceritakan kepada kami [Humaid bin Hilal] dari [Khalid bin Umair Al Adawi] berkata: [Utbah bin Ghazwan] berkhutbah, ia memuja dan memuji Allah, setelah itu berkata: Amma ba'du, sesungguhnya dunia telah memberitahukan akan lenyap dan tidak ada yang tersisa selain sisa seperti sisa air minum di bejana yang diminum oleh pemiliknya. Sesungguhnya kalian akan berpindah meninggalkannya menuju negeri yang tidak akan lenyap, karena itu pindahlah dengan membawa sesuatu yang terbaik yang ada dihadapan kalian karena telah disebutkan pada kami bahwa sebuah batu dilemparkan dari tepi neraka jahanam lalu jatuh ke dalamnya selama tujuhpuluh tahun belum juga mengenai dasarnya. Demi Allah, neraka jahanam itu akan dipenuhi. Apa kalian heran? Dan telah disebutkan kepada kami bahwa dua daun pintu diantara sekian pintu surga (seluas) perjalanan empatpuluh tahun, suatu hari nanti pintu itu akan penuh sesak. Aku pernah melihat diriku sebagai orang ketujuh dari tujuh orang yang bersama Rasulullah Shallallahu 'alaihi wa Salam, kami tidak memiliki makanan apa pun selain daun pepohonan hingga sudut mulut kami terluka, aku mengambil selimut lalu aku belah dua; untukku dan Sa'ad bin Malik. Separuhnya aku kenakan sarung dan separuhnya lagi dikenakan Sa'ad. Kini, setiap orang dari kami telah menjadi pemimpin salah satu wilayah dan sesungguhnya aku berlindung kepada Allah menjadi orang besar sementara disisi Allah kecil. Sesungguhnya tidak ada satu kenabian pun melainkan berseling-seling hingga akhirnya menjadi kerajaan. Kalian akan mengalaminya dan merasakan menjadi para pemimpin setelah kami. telah menceritakan kepadaku [Ishaq bin Umar bin Salith] telah menceritakan kepada kami [Sulaiman bin Al Mughirah] telah menceritakan kepada kami [Humaid bin Hilal] dari [Khalid bin Umair], ia menemui masa Jahilyah, ia berkata: [Utbah bin Ghazwan] berkhutbah, ia adalah pemimpin Bashrah. Khalid menyebut seperti hadits Syaiban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7435</td></tr><tr><td>Arabic No</td><td>2967.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7435</td></tr><tr><td>Arabic No</td><td>2967.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 19</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakr b. Abdullah b. Qais reported on the authority of his father that Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dari [Abu Qudamah Al Harits bin Ubaid] dari [Abu Imran Al Juwaini] dari [Abu Bakr bin Abdullah bin Qais] dari [ayahnya] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya orang mu'min disurga memiliki tenda dari satu mutiara berlubang, panjangnya enampuluh mil. Orang mu'min memiliki keluarga didalamnya. Orang mu'min mengelilingi mereka tapi mereka tidak saling melihat satu sama lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7158</td></tr><tr><td>Arabic No</td><td>2838.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7158</td></tr><tr><td>Arabic No</td><td>2838.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 27</td></tr></tbody></table></div>
 

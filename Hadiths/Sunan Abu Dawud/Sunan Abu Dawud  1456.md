@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Uqbah b. 'Amir al-Juhani said:When we were in the Suffah, the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Sulaiman bin Daud Al Mahri], telah menceritakan kepada Kami [Ibnu Wahb], telah menceritakan kepada Kami [Musa bin Ali bin Rabah] dari [Ayahnya] dari ['Uqbah bin 'Amir Al Juhani], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam keluar menemui Kami sementara Kami berada di Shuffah, kemudian beliau bertanya: "Siapakah diantara kalian ingin pergi ke Bathhan atau 'Aqiq, kemudian mengambil dua ekor unta gemuk dan putih tanpa berbuat dosa kepada Allah 'azza wajalla, dan tidak memutuskan hubungan kekerabatan?" Mereka mengatakan; Kami semua wahai Rasul! Beliau bersabda: "Sungguh salah seorang diantara kalian setiap hari datang ke Masjid, mempelajari dua ayat dari Kitab Allah 'azza wajalla adalah lebih baik baginya daripada dua ekor unta, dua ayat lebih baik daripada tiga unta, seperti bilangan-bilangan unta tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (803)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1456</td></tr><tr><td>Arabic No</td><td>1456</td></tr><tr><td>Reference</td><td>Book 8 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Укбы ибн ‘Амира аль-Джухани, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ вышел к нам, когда мы сидели под навесом, и сказал: “Кто из вас желает пойти в Бутхан или Аль-‘Акык и взять там двух прекрасных верблюдиц с большими горбами, не совершая при этом ничего греховного пред Всемогущим и Великим Аллахом и не разрывая родственные связи?” Люди ответили: “Каждый из нас, о Посланник Аллаха!” Тогда он сказал: “Отправляться каждый день в мечеть и заучивать два аята из Книги Аллаха лучше для любого из вас, чем две верблюдицы, а три подобны трём верблюдицам, и любое число (аятов) подобно соответствующему числу верблюдиц”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (803)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1456</td></tr><tr><td>Arabic No</td><td>1456</td></tr><tr><td>Reference</td><td>Book 8 Hadith 41</td></tr></tbody></table></div>
 

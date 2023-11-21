@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:When the Prophet (ﷺ) migrated to Medina, Suraqa bin Malik bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3908</td></tr><tr><td>Arabic No</td><td>3908</td></tr><tr><td>Reference</td><td>Book 63 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ переселялся в Медину, Сурака ибн Малик ибн Джу’шум преследовал его. Пророк ﷺ обратился к Аллаху с мольбой против него, и ноги его коня погрузились в землю. Сурака сказал: “Обратись к Аллаху с мольбой за меня, а я не причиню тебе вреда”. Пророк ﷺ обратился к Аллаху с мольбой за него. Затем Посланник Аллаха ﷺ почувствовал жажду и прошёл мимо пастуха. Абу Бакр сказал: “Я взял сосуд, надоил в него немного молока и принёс Пророку ﷺ, и он пил до тех пор, пока я не был доволен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3908</td></tr><tr><td>Arabic No</td><td>3908</td></tr><tr><td>Reference</td><td>Book 63 Hadith 133</td></tr></tbody></table></div>
 

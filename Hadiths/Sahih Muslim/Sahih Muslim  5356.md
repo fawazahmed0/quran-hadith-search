@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd Ayydb Ansari reported that when food was brought to Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] lafazh ini milik Ibnu Al Mutsanna keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far], Telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dari [Jabir bin Samurah] dari [Abu Ayyub Al Anshari] dia berkata; Rasulullah shallallahu 'alaihi wasallam apabila diberi makanan oleh seseorang, beliau makan dan sebagian lagi diberikannya kepadaku. Pada suatu hari beliau memberikan kepadaku makanan yang tidak dimakannya karena di dalamnya ada bawang putih. Lalu kutanya; 'Apakah bawang putih itu haram? ' Jawab beliau: 'Tidak! Tetapi aku tidak suka karena baunya.' Kata Abu Ayyub; 'Kalau begitu, aku juga tidak suka apa yang Anda tidak sukai.' Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] mengenai sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5356</td></tr><tr><td>Arabic No</td><td>2053.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5356</td></tr><tr><td>Arabic No</td><td>2053.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 230</td></tr></tbody></table></div>
 

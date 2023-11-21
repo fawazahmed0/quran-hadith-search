@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:A man decided that a slave of his would be manumitt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Al Husain Al Muktib] dari ['Atho' bin Abu Ribah] dari [Jabir bin 'Abdullah radliallahu 'anhu] bahwa ada seorang laki-laki membebaskan seorang budak dengan syarat asalkan dirnya telah meninggal (mudabbar),. Maka budak tersebut diambil oleh Nabi shallallahu 'alaihi wasallam lalu Beliau berkata: "Siapa yang mau membeli dariku". Maka budak itu kemudian dibeli oleh Nu'aim bin 'Abdullah seharga segini segini lalu Beliau memberikan uang itu kepada orang laki-laki tadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2141</td></tr><tr><td>Arabic No</td><td>2141</td></tr><tr><td>Reference</td><td>Book 34 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира бин ‘Абдуллаха, да будет доволен Аллах ими обоими, что один человек решил, что после его смерти его невольник получит свободу, а потом впал в нужду, и тогда Пророк ﷺ взял (этого раба) и (стал) спрашивать: «Кто купит его у меня?» И Ну‘айм бин ‘Абдуллах купил его за (какую-то цену), а (Пророк ﷺ) отдал ему (раба)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2141</td></tr><tr><td>Arabic No</td><td>2141</td></tr><tr><td>Reference</td><td>Book 34 Hadith 93</td></tr></tbody></table></div>
 

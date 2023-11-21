@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:On the day of the Conquest of Mecca, when the Prophet (ﷺ) had gi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Abu at-Tayyah] berkata, aku mendengar [Anas radliallahu 'anhu] berkata; Orang-orang Anshar berkata pada hari penaklukan kota Makkah; "Beliau (shallallahu 'alaihi wasallam) memberikan harta rampasan perang (ghanimah) kepada kaum Quraisy. Demi Allah, ini adalah perkara yang mengherankan, karena pedang-pedang kitalah yang telah menumpahkan darah orang-orang Quraisy akan tetapi ghanimah dikembalikan kepada mereka". Kemudian perkataan ini sampai kepada Nabi shallallahu 'alaihi wasallam. Maka beliau memanggil kaum Anshar. Perawi (Anas) berkata; Maka beliau bersabda: "Apa benar berita yang telah sampai kepadaku tentang kalian?". Mereka adalah orang yang tidak berbohong. Mereka menjawab; "Benarlah berita yang telah sampai kepada tuan". Beliau berkata lagi: "Apakah kalian tidak ridla jika orang-orang kembali ke rumah-rumah mereka dengan membawa pulang ghanimah sedangkan kalian kembali ke rumah-rumah kalian dengan membawa pulang Rasulullah shallallahu 'alaihi wasallam?. Seandainya kaum Anshar melewati lembah atau celah di bebukitan pasti aku akan melewati lembah yang ditempuh kaum Anshar atau celah di bebekitan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3778</td></tr><tr><td>Arabic No</td><td>3778</td></tr><tr><td>Reference</td><td>Book 63 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В день покорения Мекки, Посланник Аллаха ﷺ разделил добычу среди курайшитов, и ансары сказали: “Клянёмся Аллахом, это удивительно! С наших мечей всё ещё капает кровь курайшитов, а наша добыча отдаётся им!” Когда Пророку ﷺ стало известно об их словах, он позвал ансаров и спросил их: “Что это за слова, которые дошли до меня от вас?” Они не лгали и ответили: “Всё так, как тебе передали”. Тогда Посланник Аллаха ﷺ сказал: “Разве не довольны вы тем, что люди вернутся в свои дома с трофеями, а вы вернётесь в свои дома с Посланником Аллаха? Если бы ансары пошли долиной или ущельем, (а люди пошли бы другой долиной или ущельем,) я пошёл бы долиной и ущельем ансаров”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3778</td></tr><tr><td>Arabic No</td><td>3778</td></tr><tr><td>Reference</td><td>Book 63 Hadith 3</td></tr></tbody></table></div>
 

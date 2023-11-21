@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: I have been comman
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], telah menceritakan kepada kami [Abdullah bin Yazid], telah menceritakan kepadaku [Sa'id bin Abu Ayyub], telah menceritakan kepadaku ['Ayyasy bin 'Abbas Al Qatbani], dari [Isa bin Hilal Ash Shudafi], dari [Abdullah bin 'Amr bin Al 'Ash], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Aku diperintahkan pada hari Kurban untuk menjadikannya sebagai hari raya, Allah 'azza wajalla telah menjadikannya untuk umat ini." Seseorang berkata; bagaimana pendapat anda jika aku hanya mendapatkan hewan kurban betina? Apakah aku boleh berkurban dengannya? Beliau berkata: "Tidak, akan tetapi engkau ambil sebagian rambutmu dan kukumu, serta engkau gunting kumismu dan engkau cukur bulu kemaluanmu. Maka itulah kurbanmu yang sempurna di sisi Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2789</td></tr><tr><td>Arabic No</td><td>2789</td></tr><tr><td>Reference</td><td>Book 16 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Всемогущий и Великий Аллах велел мне сделать день жертвоприношения праздником для этой общины». Один человек спросил: «А если я смогу найти для жертвоприношения только животное женского пола? Приносить ли мне его в жертву?» (Посланник Аллаха ﷺ) сказал: «Нет, но ты должен укоротить волосы и ногти, подстричь усы и сбрить волосы на лобке, и перед Всемогущим и Великим Аллахом это будет считаться совершенным жертвоприношением»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2789</td></tr><tr><td>Arabic No</td><td>2789</td></tr><tr><td>Reference</td><td>Book 16 Hadith 2</td></tr></tbody></table></div>
 

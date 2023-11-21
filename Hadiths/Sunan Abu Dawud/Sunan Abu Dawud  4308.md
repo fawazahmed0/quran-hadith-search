@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salih ibn Dirham said:We went on the pilgrimage and met a man who asked us: Is t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepadaku [Ibrahim bin Shalih bin Dirham] ia berkata; Aku mendengar [Bapakku] berkata, "Kami berangkat untuk menunaikan haji, lalu ada seorang laki-laki (Abu Hurairah) berkata, "Di sisi kalian ada sebuah kampung bernama Ubullah, " kami menjawab, "Benar." Laki-laki itu berkata lagi, "Siapakah di antara kalian bersedia memberi jaminan padaku, bahwa ia mau shalat untukku di masjid Al Asysyar sebanyak dua atau empat rakaat, setelah itu mengatakan '(pahala shalat ini untuk [Abu Hurairah]? Aku pernah mendengar kekasihku Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat Allah akan membangkitkan para syuhada dari masjid Al Asysyar, tidak ada yang bangkit (berdiri) bersama para syuhada perang badar selain mereka." Abu Dawud berkata, "Masjid ini ada di sisi sungai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4308</td></tr><tr><td>Arabic No</td><td>4308</td></tr><tr><td>Reference</td><td>Book 39 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибрахим ибн Салих ибн Дирхам передаёт: Я слышал, как мой отец рассказывал: «Мы отправились совершать хадж, и нам встретился человек, который спросил нас: “Там рядом с вами есть селение Убулля?” Мы ответили: “Да”. Он спросил: “Кто из вас пообещает мне, что совершит в мечети Аль-‘Ашшар два или четыре рак‘ата от моего имени от Абу Хурайры? Поистине, я слышал, как мой возлюбленный друг Абу аль-Касим ﷺ говорил: ‹Поистине, Аллах пошлёт из мечети Аль-‘Ашшар в Судный день таких мучеников, что только они смогут встать в один ряд с павшими в битве при Бадре›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4308</td></tr><tr><td>Arabic No</td><td>4308</td></tr><tr><td>Reference</td><td>Book 39 Hadith 18</td></tr></tbody></table></div>
 

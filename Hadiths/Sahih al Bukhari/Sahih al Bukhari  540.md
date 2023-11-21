@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) came out as the sun declined at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Anas bin Malik], ketika matahari panas terik Rasulullah shallallahu 'alaihi wasallam keluar rumah melaksanakan shalat Zhuhur, kemudian beliau naik ke atas mimbar dan menyebutkan tentang hari kiamat. Beliau sebutkan bahwa pada saat itu terdapat perkara yang besar, kemudian beliau katakan: "Siapa ingin bertanya maka bertanyalah. Dan tidaklah kalian bertanya kepadaku tentang sesuatu kecuali aku akan kabarkan kepada kalian selama aku masih berada di tempaku ini." Tiba-tiba para sahabat menangis, dan Nabi shallallahu 'alaihi wasallam terus mengulangi: "Bertanyalah kepadaku." Maka berdirilah 'Abdullah bin Khudzafah As Sahmi seraya berkata, "Siapakah ayahku?" Beliau menjawab: "Ayahmu Hudzafah." Kemudian Nabi shallallahu 'alaihi wasallam meminta lagi: "Bertanyalah kepadaku." Maka bangkitlah 'Umar dari posisi duduk berlututnya lantas berkata, "Kami ridla Allah sebagai Rabb, Islam sebagai agama dan Muhammad sebagai Nabi." Lalu Nabi shallallahu 'alaihi wasallam terdiam sejenak kemudian bersabda: "Barusan diperlihatkan kepadaku surga dan neraka dari balik dinding ini, aku tidak lihat kebaikan sebagaimana keburukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>540</td></tr><tr><td>Arabic No</td><td>540</td></tr><tr><td>Reference</td><td>Book 9 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал:\n— Сообщил мне Анас ибн Малик, да будет доволен им Аллах, о том, что (однажды, как только) солнце начало клониться к закату, Посланник Аллаха ﷺ вышел (из дома) и совершил полуденную молитву. Потом он поднялся на минбар и упомянул о Часе этом, упомянув также и о том, какие великие события будут происходить в это время, а потом сказал: «Кто хочет спросить меня о чём-нибудь, пусть спрашивает, и о чём бы вы ни спросили меня, я отвечу вам, пока я нахожусь на этом месте». После этого люди зарыдали, а (Пророк ﷺ) всё говорил: «Спрашивайте меня», и тогда (со своего места) поднялся ‘Абдуллах ибн Хузафа ас-Сахми, который спросил: «Кто мой отец?» (Пророк ﷺ) ответил: «Твой отец — Хузафа», а потом снова стал повторять: «Спрашивайте меня», (и это продолжалось до тех пор, пока) ‘Умар, опустившийся на колени, не сказал: «Мы довольны Аллахом как Господом, исламом — как религией, и Мухаммадом — как пророком!» Тогда (Пророк ﷺ) замолчал, а потом сказал: «Только сейчас на этой стене, что находится передо мной, мне были показаны Рай и Ад, и я никогда не видел ничего столь же прекрасного, как (Рай), и ничего столь же отвратительного, как (Ад)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>540</td></tr><tr><td>Arabic No</td><td>540</td></tr><tr><td>Reference</td><td>Book 9 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A group of Jews asked permission to visit the Prophet (and when 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] dari [Ibnu Uyainah] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha mengatakan; Sekelompok orang yahudi meminta izin kepada Nabi shallallahu 'alaihi wasallam dan mengucapkan; 'Assaam 'alaika (semoga kematian tertimpa kepada kalian), saya menjawab; 'bal 'alaikum Assam wal la'nah (Bahkan untuk kalian kematian dan juga laknat).' Maka Nabi berujar; 'hai Aisyah, bahwasanya Allah menyukai kelembutan dalam segala urusan.' Saya menjawab; 'Tidakkah engkau mendengar apa yang mereka ucapkan? ' Beliau menjawab: "Saya menjawab; wa'alaikum (bahkan untuk kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6927</td></tr><tr><td>Arabic No</td><td>6927</td></tr><tr><td>Reference</td><td>Book 88 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды несколько иудеев попросили разрешения войти к Пророку ﷺ и сказали: “Смерть тебе! /Ас-саму ‘алейкя/”. Я же сказала: “(Это) вам смерть и проклятие!” Но Посланник Аллаха ﷺ сказал (мне): “О ‘Аиша, поистине, Аллах добр, и Он любит (проявления) доброты во всём”. Я сказала: “Разве ты не слышал, что они сказали?!” Посланник Аллаха ﷺ сказал: “А я сказал (им в ответ): “И вам (того же)! /Уа ‘алейкум/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6927</td></tr><tr><td>Arabic No</td><td>6927</td></tr><tr><td>Reference</td><td>Book 88 Hadith 9</td></tr></tbody></table></div>
 

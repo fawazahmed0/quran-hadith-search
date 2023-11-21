@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rib'i b. Hirash:On the authority of a man from the Companions of the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], serta [Khalaf bin Hisyam Al Muqri'], mereka berkata; telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Rib'i bin Hirasy] dari [seorang sahabat Nabi shallallahu 'alaihi wasallam], ia berkata; orang-orang berselisih mengenai akhir hari Ramadhan. Kemudian terdapat dua orang badui yang datang dan memberikan persaksian di hadapan Nabi shallallahu 'alaihi wasallam dengan nama Allah, sungguh mereka telah menyaksikan Hilal kemarin sore. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan orang-orang agar berbuka. Khalaf menambahkan dalam haditsnya; dan agar mereka pergi ke lapangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2339</td></tr><tr><td>Arabic No</td><td>2339</td></tr><tr><td>Reference</td><td>Book 14 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Риб‘и ибн Хираш передаёт от одного человека из числа сподвижников Пророка ﷺ что люди разошлись во мнениях относительно последнего дня рамадана и вскоре пришли два бедуина, которые засвидетельствовали перед Пророком ﷺ поклявшись Аллахом, что видели накануне народившийся месяц (шавваля). И Посланник Аллаха ﷺ велел людям разговеться. А в версии Халяфа имеется добавление: «…и велел им направляться к месту совершения молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2339</td></tr><tr><td>Arabic No</td><td>2339</td></tr><tr><td>Reference</td><td>Book 14 Hadith 27</td></tr></tbody></table></div>
 

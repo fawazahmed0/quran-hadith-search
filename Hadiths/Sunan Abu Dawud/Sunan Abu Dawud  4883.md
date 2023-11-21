@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Anas: The Prophet (ﷺ) said: If anyone guards a believer fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Asma bin Ubaid] berkata, telah menceritakan kepada kami [Ibnul Mubarak] dari [Yahya bin Ayyub] dari [Abdullah bin Sulaiman] dari [Isma'il bin Yahya Al Mu'arifi] dari [Sahl bin Mu'adz bin Anas Al Juhani] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa melindungi seorang mukmin dari orang munafik, -menurutku beliau mengatakan-, "maka Allah akan mengutus seorang malaikat untuk menjaga dagingnya dari api neraka pada hari kiamat. Dan barangsiapa menuduh seorang muslim dengan sesuatu yang ia berharap keburukkannya, maka Allah akan menahannya di jembatan neraka Jahannam hingga ia keluar dari keburukan perkataannya (hingga ia bersih dari dosanya baik karena pemberian maaf saudaranya muslim tersebut atau karena syafaat atau setelah ia dibersihkan dengan adzab sesuai kadar dosa yang ia perbuat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4883</td></tr><tr><td>Arabic No</td><td>4883</td></tr><tr><td>Reference</td><td>Book 43 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4883</td></tr><tr><td>Arabic No</td><td>4883</td></tr><tr><td>Reference</td><td>Book 43 Hadith 111</td></tr></tbody></table></div>
 

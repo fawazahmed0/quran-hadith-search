@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), Asma bint 'Abî Bakr qui à l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'la]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari [Asma'], Ketika dia mengandung anaknya 'Abdullah bin Zubair, dia masih berada di Mekkah. Dia berkata; "Kemudian aku hijrah ke Madinah, padahal aku sudah hamil tua. Kemudian aku berhenti di Quba, dan aku melahirkan di sana. Lalu aku bawa anakku kepada Rasulullah dan meletakkannya di pangkuan beliau. Rasulullah meminta sebuah kurma lalu dikunyahnya. Sesudah itu disuapkannya ke mulut bayiku. Itulah makanan yang pertama kali masuk ke mulut bayi itu, kurma yang telah bercampur dengan air ludah beliau. Kemudian Nabi shallallahu 'alaihi wasallam mendoakan keberkahan baginya. Dialah bayi yang pertama-tama lahir dalam Islam." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Khalid bin Makhlad] dari ['Ali bin Mushir] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [A'sma binti Abu Bakr] bahwa dia berhijrah menemui Rasulullah shallallahu 'alaihi wasallam di Madinah sedangkan dia sedang hamil anaknya 'Abdullah bin Jubair'…kemudian dia menyebutkan Hadits seperti Hadits Abu Usamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5617</td></tr><tr><td>Arabic No</td><td>2146.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5617</td></tr><tr><td>Arabic No</td><td>2146.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 32</td></tr></tbody></table></div>
 

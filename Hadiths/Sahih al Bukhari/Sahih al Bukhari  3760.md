@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) neither talked in an insulti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'bah] dari [Sulaiman] berkata, aku mendengar [Abu Wa'il] berkata, aku mendengar [Masruq] berkata; " ['Abdullah bin 'Amr] berkata; "Rasulullah shallallahu 'alaihi wasallam bukanlah orang yang suka berbicara kotor (keji) juga tidak pernah berbuat keji dan beliau bersabda: "Sesungguhnya orang yang paling aku cintai di antara kalian adalah orang yang paling baik akhlaqnya'. Dan beliau juga bersabda: "Ambillah bacaan Al Qur'an dari empat orang. Yaitu dari 'Abdullah bin Mas'ud, kemudian Salim, maula Abu Hudzaifah, lalu Ubay bin Ka'ab dan Mu'adz bin Jabal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3760</td></tr><tr><td>Arabic No</td><td>3760</td></tr><tr><td>Reference</td><td>Book 62 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах ими обоими, что он слышал, как Посланник Аллаха ﷺ сказал: «Учитесь чтению Корана у четверых: у ‘Абдуллаха ибн Мас‘уда, у Салима, вольноотпущенника Абу Хузейфы, у Убаййа ибн Ка‘ба и у Му‘аза ибн Джабаля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3760</td></tr><tr><td>Arabic No</td><td>3760</td></tr><tr><td>Reference</td><td>Book 62 Hadith 105</td></tr></tbody></table></div>
 

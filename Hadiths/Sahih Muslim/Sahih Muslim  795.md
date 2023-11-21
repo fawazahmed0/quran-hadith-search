@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported it on the authority of Maimuana, the wife of the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Berkata [Amru] dan telah menceritakan kepada kami [Sa'id bin Abi Hilal] dari [Abdullah bin Ubaidillah bin Abi Rafi'] dari [Abu Ghathafan] dari [Abu Rafi'] dia berkata, "Saya bersaksi aku pernah membakar perut kambing untuk Rasulullah Shallallahu'alaihiwasallam, kemudian beliau shalat tanpa berwudhu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>795</td></tr><tr><td>Arabic No</td><td>356.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Маймуны, что (однажды) Пророк ﷺ съел у неё (в доме) баранью лопатку, а потом помолился, не совершив омовения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>795</td></tr><tr><td>Arabic No</td><td>356.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 116</td></tr></tbody></table></div>
 

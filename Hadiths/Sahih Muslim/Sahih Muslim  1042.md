@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:Mu'adh b. Jabal said the night prayer with the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Manshur] dari [Amru bin Dinar] dari [Jabir bin Abdullah] bahwa Muadz bin Jabal shalat Isya akhir bersama Rasulullah Shallallahu'alaihiwasallam kemudian kembali pulang kepada kaumnya, lalu shalat mengimami mereka dengan shalat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1042</td></tr><tr><td>Arabic No</td><td>465.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джабира ибн ‘Абдуллаха, что (обычно,) Му‘аз ибн Джабаль совершал вечернюю молитву /‘иша/ с Посланником Аллаха ﷺ, после чего он возвращался к своему племени и проводил с ними ту же молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1042</td></tr><tr><td>Arabic No</td><td>465.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 204</td></tr></tbody></table></div>
 

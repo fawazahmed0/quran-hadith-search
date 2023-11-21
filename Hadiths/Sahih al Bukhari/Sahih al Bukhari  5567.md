@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:During the lifetime of the Prophet (ﷺ) we used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], ['Amru] berkata; telah mengabarkan kepadaku ['Atha'] bahwa dia mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; Pada masa Nabi shallallahu 'alaihi wasallam kami biasa menyimpan daging kurban sebagai perbekalan kami menuju Madinah, Jabir juga mengatakan berkali-kali tentang daging binatang kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5567</td></tr><tr><td>Arabic No</td><td>5567</td></tr><tr><td>Reference</td><td>Book 73 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Во время Пророка ﷺ мы запасались мясом жертвенных животных и отправлялись с ним в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5567</td></tr><tr><td>Arabic No</td><td>5567</td></tr><tr><td>Reference</td><td>Book 73 Hadith 23</td></tr></tbody></table></div>
 

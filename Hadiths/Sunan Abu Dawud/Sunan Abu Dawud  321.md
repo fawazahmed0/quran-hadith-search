@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Shaqiq said:While I was sitting between 'Abd Allah and Abu Musa, the latter said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al-Anbari] telah menceritakan kepada kami [Abu Mu'awiyah Adl-Dlarir] dari [Al-A'masy] dari [Syaqiq] dia berkata; Saya pernah duduk di antara Abdulah dan Abu Musa. Lalu [Abu Musa] berkata; Wahai Abu Abdurrahman! Apakah kamu mengetahui, seandainya ada seseorang yang junub, kemudian dia tidak mendapatkan air selama satu bulan, bukankah dia harus bertayamum? Abdullah menjawab; Tidak, walaupun dia tidak mendapatkan air selama satu bulan. Lalu Abu Musa berkata; Bagaimanakah sikap anda terhadap ayat yang terdapat dalam surat Al- Maidah ini? Yaitu (yang artinya): "… lalu kamu tidak mendapatkan air, maka bertayammumlah dengan debu tanah yang baik (bersih) ". (QS. Almaidah 6), Maka Abdullah menjawab; Kalau mereka diberi hukum keringanan tentang ini, dikhawatirkan mereka akan bertayammum dengan debu, kalau mereka merasa kedinginan memakai air. Kata Abu Musa kepadanya; Ternyata kamu tidak menyukai tayamum ini karena untuk alasan ini? Kata Abdullah; Ya. Kata Abu Musa kepadanya; Apakah kamu tidak pernah mendengar ucapan [Ammar] kepada Umar, yaitu Rasulullah shallallahu 'alaihi wasallam pernah mengutusku dalam suatu keperluan, lalu saya junub dan tidak mendapatkan air, sehingga saya berguling-guling di atas tanah, sebagaimana binatang yang sedang berguling-guling. Kemudian saya pergi menghadap kepada Nabi shallallahu 'alaihi wasallam dan menyampaikan hal tersebut kepada beliau, lalu beliau bersabda: "Cukuplah kamu lakukan demikian ini." Lalu beliau menepukkan tangan ke tanah, lalu ditiupnya, kemudian beliau mengusap tangan kanannya dengan tangan kirinya dan tangan kirinya dengan tangan kanannya pada kedua telapak tangan, kemudian mengusap wajahnya. Maka Abdullah berkata kepada Abu Musa; Apakah kamu tidak tahu, bahwa Umar tidak puas terhadap ucapan Ammar?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шакъикъ сказал: «Однажды я сидел между ‘Абдуллой (ибн Мас‘удом) и Абу Мусой (аль-Аш‘ари) и Абу Муса сказал: “О Абу ‘Абду-р-Рахман , что скажешь о человеке, который осквернился и не нашел воды в течение месяца, может ли он совершать таяммум?” Он сказал: “Нет, даже если не найдет воды в течение месяца”. Абу Муса сказал: “А как быть с этим аятом из суры “аль-Маида”: “А если вы не найдете воды, то очищайтесь чистым песком”? ‘Абдуллах сказал: “Если бы им это разрешили, то возможно, что они стали бы совершать очищение песком даже из-за холодной воды”. Абу Муса сказал ему: “Значит, вы считаете это запретным для них?” Он сказал: “Да”. Абу Муса сказал ему: “Разве ты не слышал то, что сказал ‘Аммар (ибн Йасир) ‘Умару? (‘Аммар рассказывал): “Однажды Посланник Аллаха ﷺ отправил меня по одному поручению, во время которого я осквернился. Я не смог найти воды, и из-за этого начал валяться в песке подобно животному. Затем, когда я вернулся к Пророку ﷺ то рассказал ему об этом и он сказал: “Поистине, тебе было достаточно сделать вот так”, и он ударил рукой о землю и стряхнул ее со своих рук. Затем он ударил левой рукой о правую и правой о левую кисть, после чего обтер лицо”. ‘Абдуллах сказал ему: “А ты знаешь, что ‘Умар не удовлетворился тем, что сказал ‘Аммар?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
 

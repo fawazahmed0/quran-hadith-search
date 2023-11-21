@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim:Aisha said, "What is wrong with Fatima? Why doesn't she fear A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman bin Al Qasim] dari [bapaknya] dari [Aisyah] bahwa ia berkata, "Ada apa dengan Fathimah, tidakkah kamu takut kepada Allah." Yakni terkait dengan ungkapannya, "Tidak ada tempat tinggal dan tidak pula nafkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5323</td></tr><tr><td>Arabic No</td><td>5323</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Касима, что ‘Аиша сказала: «Что с Фатымой, она не боится Аллаха?» Имея ввиду, говоря, что разведённая женщина не имеет права на жильё и содержание
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5323</td></tr><tr><td>Arabic No</td><td>5323</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

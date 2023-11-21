@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Darda’ reported the Messenger of Allah (May peace be upon him) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Yahya bin Hassan] berkata, telah menceritakan kepada kami [Al Walid bin Rabah] ia berkata; Aku mendengar [Nimran] menyebutkan dari [Ummu Darda] ia berkata, "Aku mendengar [Abu Darda] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang hamba melaknat sesuatu, maka laknat itu akan naik ke langit, dan tertutuplah pintu-pintu langit. Kemudian laknat itu akan turun lagi ke bumi, namun pintu-pintu bumi telah tetutup. Laknat itu kemudian bergerak ke kanan dan ke kiri, jika tidak mendapatkan tempat berlabuh, ia akan menghampiri orang yang dilaknat, jika layak dilaknat. Namun jika tidak, maka laknat itu akan kembali kepada orang yang melaknat." Abu Dawud berkata, "Marwan bin Muhammad mengatakan; (Al Walid bin Rabah, sebenarnya adalah) -Rabah Ibnu Walid- ia mendengar dari Nimran. Marwan menyebutkan bahwa Yahya masih merasa ragu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4905</td></tr><tr><td>Arabic No</td><td>4905</td></tr><tr><td>Reference</td><td>Book 43 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу-д-Дарды, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, когда раб (Аллаха) проклинает что-либо, это проклятие поднимается к небу, но небесные врата закрываются перед ним. Затем оно опускается на землю, но и врата (земли) закрываются перед ним, после чего (это проклятие) направляется направо и налево, возвращаясь к проклинаемому в том случае, когда не находит (никакого иного пути), и (настигая его), если он заслуживает этого, в противном же случае оно возвращается к тому, кто его произнёс»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4905</td></tr><tr><td>Arabic No</td><td>4905</td></tr><tr><td>Reference</td><td>Book 43 Hadith 133</td></tr></tbody></table></div>
 

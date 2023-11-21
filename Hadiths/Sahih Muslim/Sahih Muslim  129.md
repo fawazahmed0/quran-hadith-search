@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abdoullâh Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>22</td></tr><tr><td>Reference</td><td>Book 1 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «Посланник Аллаха ﷺ сказал: “Мне было велено сражаться с людьми до тех пор, пока они не засвидетельствуют, что нет бога, достойного поклонения, кроме Аллаха, и что Мухаммад Посланник Аллаха, и не станут совершать молитву и выплачивать закят, если же они будут делать это, то защитят от меня свою кровь и своё имущество, если только (не совершат ничего такого, за что можно будет лишить их имущества или жизни) по праву, и тогда (лишь) Аллах (сможет потребовать) от них отчёта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>22</td></tr><tr><td>Reference</td><td>Book 1 Hadith 36</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Usaid:On the day (of the battle) of Badr when we stood in rows agai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami ['Abdur Rahman bin Al Ghosil] dari [Hamzah bin Abi Usaid] dari [bapaknya] berkata; Nabi shallallahu 'alaihi wasallam bersabda pada saat perang Badar ketika Beliau membariskan kami menghadapi Quraisy: "Jika mereka mendekati kalian maka seranglah dengan anak panah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 56 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Усайд, да будет доволен им Аллах, сказал: «В день (битвы при) Бадре, когда мы выстроились рядами перед курайшитами, а они выстроились рядами перед нами, Пророк ﷺ сказал: “Когда они приблизятся к вам, вы должны будете обстреливать их из луков”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 56 Hadith 114</td></tr></tbody></table></div>
 

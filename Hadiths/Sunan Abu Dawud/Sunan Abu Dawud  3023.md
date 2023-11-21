@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Wahb bin Munabbih said “I sked Jabir “Did they get any booty on the day of c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ash Shabbah], telah menceritakan kepada kami [Isma'il bin Abdul Karim], telah menceritakan kepadaku [Ibrahim bin 'Aqil bin Ma'qil], dari [ayahnya], dari [Wahb bin Munabbih], ia berkata; aku bertanya kepada [Jabir]; apakah mereka mendapatkan rampasan perang pada saat penaklukan Mekkah? Ia berkata; tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3023</td></tr><tr><td>Arabic No</td><td>3023</td></tr><tr><td>Reference</td><td>Book 20 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Вахба ибн Мунаббиха, что он спросил Джабира: «Захватили ли мусульмане какую-нибудь военную добычу в день покорения Мекки?» Он ответил: «Нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3023</td></tr><tr><td>Arabic No</td><td>3023</td></tr><tr><td>Reference</td><td>Book 20 Hadith 96</td></tr></tbody></table></div>
 

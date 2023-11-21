@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Umar reported:The Messenger of Allah (May peace be upon him) stood among the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam berdiri di hadapan orang-orang seraya memuji Allah dengan pujian yang layak bagi-Nya. Kemudian beliau menceritakan tentang Dajjal, beliau bersabda: "Sungguh, aku akan memberi peringatan kepada kalian tentang Dajjal, dan tidak ada seorang Nabi pun kecuali ia telah memberi peringatan kepada kaumnya darinya. Nuh telah memberi peringatan kepada kaumnya. Tetapi aku akan menyampaikan kepada kalian tentang dajjal dengan suatu ucapan yang belum pernah disampaikan oleh seorang Nabi kepada kaumnya. Ketahuilah sesungguhnya dajjal itu buta sebelah, sementara Allah tidak buta sebelah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3055) Sahih Muslim (2930)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4757</td></tr><tr><td>Arabic No</td><td>4757</td></tr><tr><td>Reference</td><td>Book 42 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца , что однажды Пророк ﷺ обратился к людям с речью. Он восхвалил Аллаха самым достойным образом, потом упомянул об ад-Даджжале и сказал: «Поистине, я предостерегаю вас от него, и каждый пророк предостерегал свой народ от него. И Нух предостерегал от него свой народ. Но я скажу вам о нём то, чего не говорил ни один пророк своему народу: знайте, что он кривой, тогда как Аллах кривым не является!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3055) Sahih Muslim (2930)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4757</td></tr><tr><td>Arabic No</td><td>4757</td></tr><tr><td>Reference</td><td>Book 42 Hadith 162</td></tr></tbody></table></div>
 

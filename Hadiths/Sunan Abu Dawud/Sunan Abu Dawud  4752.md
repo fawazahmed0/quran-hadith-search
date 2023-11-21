@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also transmitted by ‘Abd al-Wahhab through a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>4752</td></tr><tr><td>Reference</td><td>Book 42 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-ль-Ваххаб передаёт с таким же иснадом подобный хадис, и в его версии сказано, что Пророк ﷺ сказал: «После того как раба Аллаха положат в его могилу, а его товарищи повернутся и уйдут и он даже услышит стук их сандалий, к нему явятся два ангела и спросят…» В этой похожей на предыдущую версии сказано: «Что же касается неверующего и лицемера, то ему скажут…», то есть добавлено: «…и лицемера». И сказано: «…его услышат находящиеся рядом с ним, за исключением джиннов и людей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>4752</td></tr><tr><td>Reference</td><td>Book 42 Hadith 157</td></tr></tbody></table></div>
 

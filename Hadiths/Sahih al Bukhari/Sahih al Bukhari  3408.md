@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A Muslim and a Jew quarreled. The Muslim taking an oath, sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] dan [Sa'id bin Al Musayyab] bahwa [Abu Hurairah radliallahu 'anhu] berkata; "Ada dua orang laki-laki yang sedang saling mencaci, yang satunya seorang Muslim dan satunya lagi orang Yahudi. Berkata la-i-laki Muslim: "Demi Dzat yang telah memilih Muhammad untuk seluruh alam". Dia bersumpah dengan cara sumpah yang semestinya sebagai Muslim. Dan berkata laki-laki Yahudi: "Demi Dzat yang telah memilih Musa untuk seluruh alam". Seketika itu laki-laki muslim mengangkat tangannya dan menampar orang Yahudi itu. Maka orang Yahudi itu pergi menemui Nabi shallallahu 'alaihi wasallam dan mengabarkan peristiwa yang terjadi antara dirinya dan orang Muslim itu. Kemudian Nabi shallallahu 'alaihi wasallam memanggil orang Muslim itu dan bertanya perihal kejadian itu, lalu orang Muslim itu memberitahu Beliau. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kamu lebihkan aku terhadap Musa karena nanti saat seluruh manusia dimatikan dan akulah orang yang pertama kali dibangkitkan (dihidupkan) namun saat itu aku melihat Musa sedang berpegangan sangat kuat di sisi 'Arsy. Aku tidak tahu apakah dia termasuk orang yang dimatikan lalu bangkit lebih dahulu daripadaku, atau dia termasuk diantara orang-orang yang dikecualikan (tidak dimatikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3408</td></tr><tr><td>Arabic No</td><td>3408</td></tr><tr><td>Reference</td><td>Book 60 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек из числа мусульман, а другой — иудей, поругались друг с другом. Мусульманин сказал: “Клянусь Тем, Кто избрал Мухаммада среди всех миров!” — (Абу Хурайра сказал: «Он поклялся клятвой».) — А иудей сказал: “Клянусь Тем, Кто избрал Мусу среди всех миров!” Тогда мусульманин поднял руку и ударил иудея по лицу, а иудей пошёл к Посланнику Аллаха ﷺ и рассказал ему о том, что произошло между ним и мусульманином. После чего Пророк ﷺ сказал (ему): “Не отдавайте мне предпочтение перед Мусой, ибо, поистине, люди будут поражены, и я приду в себя первым и увижу Мусу, (который будет) держаться за край Трона. И мне неизвестно, будет ли он поражён подобно другим и придёт в себя раньше меня, или же он будет среди тех, для кого Аллах сделает исключение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3408</td></tr><tr><td>Arabic No</td><td>3408</td></tr><tr><td>Reference</td><td>Book 60 Hadith 81</td></tr></tbody></table></div>
 

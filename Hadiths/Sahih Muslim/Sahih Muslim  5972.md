@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Amr Ibn Al-'As (رضي الله عنهما), le Proph�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Daud bin Amru Adhubay] Telah menceritakan kepada kami [Nafi' bin Umar Al Jumahi] dari [Ibnu Abu Mulaikah] dia berkata; [Abdullah bin Amru bin Ash] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Luas telagaku sejauh sebulan perjalanan. Setiap sisinya sama panjangnya. Airnya lebih putih dari perak, Baunya lebih harum dari kesturi. Gemerlapan cahayanya bagaikan sinar bintang di langit. Siapa yang minum dari telaga itu tidak akan haus selama-lamanya sesudah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5972</td></tr><tr><td>Arabic No</td><td>2293</td></tr><tr><td>Reference</td><td>Book 43 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал: и сказала Асма бинт аби Бакр: «Посланник Аллаха ﷺ сказал: «Находясь у водоёма (Хауд), я буду смотреть кто прибудет ко мне из вас. Но некоторых людей будут отводить от меня. Тогда я скажу: “О Господь, они мои и из моей общины”, но будет сказано: “Разве ты не почувствовал, что они сделали после тебя. Клянусь Аллахом, они не переставали после тебя обращаться вспять”». Сказал: И поэтому Ибн абу Мулейка говорил: «О Аллах, мы просим у Тебя защиты от того, чтобы обратится вспять или от того, чтобы быть испытанными в нашей вере»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5972</td></tr><tr><td>Arabic No</td><td>2293</td></tr><tr><td>Reference</td><td>Book 43 Hadith 33</td></tr></tbody></table></div>
 

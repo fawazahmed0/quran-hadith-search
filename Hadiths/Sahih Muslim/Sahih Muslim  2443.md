@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rafi' b. Khadij reported that the Messenger of Allah; (ﷺ) gave to Abu Sufyan b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Umar Al Makki] telah menceritakan kepada kami [Sufyan] dari [Umar bin Sa'id bin Masruq] dari [bapaknya] dari [Abayah bin Rifa'ah] dari [Rafi' bin Khadij] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah membagi ghanimah kepada Abu Sufyan bin Harb, Sufyan bin Umayyah, 'Uyainah bin Hishn dan Al Aqra' bin Habis. Beliau memberi seratus ekor unta kepada masing-masing dari mereka, akan tetapi beliau memberi 'Abbas bin Mirdas unta kurang dari seratus ekor. Maka Abbas bin Mirdaspun melantunkan sebuah sya'ir: "Kenapakah engkau meletakkan kudaku dan kuda 'Ubaid berada di antara 'Uyainah dan Al Aqra'? Padahal Badr dan Habis tidaklah lebih tinggi daripada Mirdas dalam pengumpulan (ghanimah). Dan aku bukanlah orang yang berada di bawah salah satu dari keduanya. Maka barangsiapa yang Tuan rendahkan pada hari ini, maka niscaya ia tidak akan pernah terangkat." Maka Rasulullah shallallahu 'alaihi wasallam pun memberinya genap seratus ekor Unta. Dan telah menceritakan kepada kami [Ahmad bin Abdah Adl Dlabbi] telah mengabarkan kepada kami [Ibnu Uyainah] dari [Amru bin Sa'id bin Masruq] dengan isnad ini. Bahwa Nabi shallallahu 'alaihi wasallam membagikan ghanimah perang Hunain, lalu beliau memberikan seratus ekor unta kepada Abu Sufyan bin Harb. Lalu ia menyebutkan hadits ini, dan ia menambahkan; Beliau memberikan seratus ekor unta kepada Alqamah bin 'Ulatsah. Dan telah menceritakan kepada kami [Makhlad bin Khalid Asy Sya'iri] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Umar bin Sa'id] dengan isnad ini. Tetapi, ia tidak menyebutkan Alqamah bin Ulatsah dan tidak pula Sufyan bin Umayyah, demikian pula sya'ir itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>1060.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж сказал: «(Когда после битвы при Хунайне) Посланник Аллаха ﷺ дал Абу Суфьяну ибн Харбу, Сафвану Ибн Умайе, ‘Уяйне ибн Хисну и аль-Акра‘у ибн Хабису по сто верблюдов, а ‘Аббасу ибн Мирдасу менее (ста), ‘Аббас ибн Мирдас произнёс (такие стихи):“Неужели отдашь ты мою добычу и добычуаль-‘Убайда ‘Уяйне и аль-Акра’у?Ведь ни Бадр, ни Хабис не занимали, в собрании места выше Мирдаса, и не был он ниже ни одного из этих двоих, а тот, кого ты принизишь сегодня, возвышен уже не будет”.(Рафи’) сказал: «И Посланник Аллаха ﷺ (велел) добавить ему (верблюдов, доведя их количество) до ста»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>1060.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 180</td></tr></tbody></table></div>
 

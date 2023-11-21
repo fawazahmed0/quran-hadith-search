@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Barza Aslami reported:The Messenger of Allah (ﷺ) used to recite from sixty
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Khalid al-Hadzdza'] dari [Abu al-Minhal] dari [Abu Barzahal-Aslami] dia berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam membaca dalam shalat shubuh antara enam puluh hingga seratus ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>461.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Барза аль-Аслями сказал: «Во время утренней молитвы Посланник Аллаха ﷺ прочитывал от шестидесяти до ста аятов».Глава: О чтении (Корана) во время закатной молитвы /магриб
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>461.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 194</td></tr></tbody></table></div>
 

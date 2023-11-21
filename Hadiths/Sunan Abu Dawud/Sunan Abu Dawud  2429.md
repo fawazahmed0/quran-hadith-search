@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Messenger of Allah (ﷺ) as saying: The most excellent
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] serta [Qutaibah bin Sa'id], mereka berkata; telah menceritakan kepada kami [Abu 'Awanah], dari [Abu Bisyr], dari [Humaid bin Abdurrahman], dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam puasa yang paling baik setelah Bulan Ramadhan adalah bulan Allah Al Muharram, dan sesungguhnya shalat terbaik setelah shalat wajib adalah shalat pada malam hari. Qutaibah tidak mengatakan; bulan. Ia mengatakan; Ramadhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1163)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2429</td></tr><tr><td>Arabic No</td><td>2429</td></tr><tr><td>Reference</td><td>Book 14 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «После месяца рамадан лучшим для поста является месяц Аллаха мухаррам, а лучшей молитвой после обязательной является добровольная ночная молитва». А в версии Кутайбы отсутствует слово «месяц», а есть только «рамадан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1163)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2429</td></tr><tr><td>Arabic No</td><td>2429</td></tr><tr><td>Reference</td><td>Book 14 Hadith 117</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu Talha (ra) said:I was amongst those who were overtaken by slumber until my s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan [Khalifah] berkata kepadaku; telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] dari [Abu Thalhah] radliallahu 'anhuma, dia berkata, "Aku termasuk orang yang terserang rasa kantuk pada perang Uhud, hingga pedangku selalu terjatuh dari tanganku, lalu aku mengambilnya, setelah itu terjatuh lagi, akupun mengambilnya (hingga berulang kali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4068</td></tr><tr><td>Arabic No</td><td>4068</td></tr><tr><td>Reference</td><td>Book 64 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Тальха, да будет доволен им Аллах, сказал: «Я был среди тех, кого охватила дремота в день битвы при Ухуде. Так, что мой меч несколько раз выпал из моей руки. Меч упал, и я поднял его, и он снова упал, и я снова поднял его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4068</td></tr><tr><td>Arabic No</td><td>4068</td></tr><tr><td>Reference</td><td>Book 64 Hadith 113</td></tr></tbody></table></div>
 

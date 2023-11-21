@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith, the like of one narrated by Yunus has also been transmitted by Ma'm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>408</td></tr><tr><td>Arabic No</td><td>161.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 313</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Этот хадис с другим иснадом, и здесь он сказал: «Тогда Всевышний и Всеблагой Аллах ниспослал: “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай, и одежды свои очищай, и идолов /риджз/ сторонись” (сура “аль-Муддассир”, аят1-5) “Ар-риджз” это идолы. Это было до того, как молитва стала обязательной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>408</td></tr><tr><td>Arabic No</td><td>161.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 313</td></tr></tbody></table></div>
 

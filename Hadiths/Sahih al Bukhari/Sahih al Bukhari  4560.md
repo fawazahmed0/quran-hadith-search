@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Whenever Allah's Messenger (ﷺ) intended to invoke evil up
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Ibrahim bin Sa'ad] Telah menceritakan kepada kami [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdur Rahman] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam jika ingin mendoakan kecelakaan kepada seseorang atau berdoa keselamatan kepada seseorang beliau selalu qunut setelah rukuk." Kira-kira ia berkata; "Jika beliau mengucapkan: "SAMI'ALLAHU LIMAN HAMIDAH, " beliau berdoa: "Wahai Rabb kami bagi-Mu segala pujian, Ya Allah selamatkanlah Al Walid bin Al Walid, salamah bin Hisyam, dan 'Ayyasy bin Abu Rabi'ah. Ya Allah keraskanlah hukuman-Mu atas Mudlar, dan timpakanlah kepada mereka tahun-tahun paceklik sebagaimana tahun-tahun pada masa Yusuf." -beliau mengeraskan bacaan tersebut, - beliau juga membaca pada sebagian shalat yang lainnya, beliau membaca pada shalat subuh: "Ya Allah, laknatlah si fulan dan si fulan dari penduduk arab." Sampai akhirnya Allah Azza Wa Jalla mewahyukan kepada beliau: "Tak ada sedikitpun campur tanganmu dalam urusan mereka itu atau Allah menerima taubat mereka, atau mengazab mereka karena sesungguhnya mereka itu orang-orang yang zalim (Ali Imran:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4560</td></tr><tr><td>Arabic No</td><td>4560</td></tr><tr><td>Reference</td><td>Book 65 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха, хотел призвать на кого-либо или для кого-либо, он делал это в последнем рак‘ате, после произнесения слов “Да услышит Аллах тех, кто воздал Ему хвалу. Господь наш, хвала Тебе! /Cами‘а-Ллаху ли-ман хамида-ху. Аллахумма Рабба-на, ва ля-кя-ль-хамд!/”, говоря: “О Аллах, спаси аль-Валида ибн аль-Валида, Саляму ибн Хишама и ‘Аййаша Ибн Абу Раби‘у! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Юсуфа!” Также во время некоторых утренних молитв он говорил: “О Аллах! Прокляни такого и такого!” — называя некоторые арабские племена. Так продолжалось пока Аллах не ниспослал: “Ты не принимаешь никакого решения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4560</td></tr><tr><td>Arabic No</td><td>4560</td></tr><tr><td>Reference</td><td>Book 65 Hadith 82</td></tr></tbody></table></div>
 

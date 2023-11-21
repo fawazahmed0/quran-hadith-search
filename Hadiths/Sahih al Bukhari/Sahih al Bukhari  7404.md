@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When Allah created the Creation, H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu hamzah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dikala Allah mencipta manusia, Dia menulis dalam kitab-Nya yang Dia sendirilah yang menulis terhadap diri-Nya, dan itu diletakkan-Nya di sisiNya di atas 'arsy, 'Sesungguhnya rahmat-Ku lebih mendominasi kemurkaan-Ku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7404</td></tr><tr><td>Arabic No</td><td>7404</td></tr><tr><td>Reference</td><td>Book 97 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Когда Аллах создал всё сущее, Он сделал запись в Своей Книге, которая находится у Него на престоле, и предписал Себе (следующее): “Поистине, милосердие Моё будет преобладать над гневом Моим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7404</td></tr><tr><td>Arabic No</td><td>7404</td></tr><tr><td>Reference</td><td>Book 97 Hadith 33</td></tr></tbody></table></div>
 

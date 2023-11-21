@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:That Aisha, the mother of the Believers, intended to buy a sl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Nafi'] dari [Ibnu Umar] bahwasanya Aisyah ummul mukminin ingin membeli hamba sahaya untuk dimerdekakan, namun pemiliknya berkata; 'kami menjualnya kepadamu asalkan wala' tetap pada kami", Maka Aisyah melaporkan kasus ini kepada Rasulullah Shallallahu'alaihi wa sallam dan beliau bersabda: "Syarat seperti itu tidak menghalangimu, sebab wala' bagi orang yang memerdekakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6757</td></tr><tr><td>Arabic No</td><td>6757</td></tr><tr><td>Reference</td><td>Book 85 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, что однажды ‘Аиша, мать правоверных захотела выкупить рабыню, чтобы освободить её, однако её владельцы сказали: «Мы продадим её, но с условием, что право наследовать освобожденного /уаля/ останется за нами». Тогда она рассказала об этом Посланнику Аллаха ﷺ, и он сказал: «Пусть тебе это не мешает (выкупить её), ведь право наследования имущества освобождённого принадлежит только тому, кто освободил раба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6757</td></tr><tr><td>Arabic No</td><td>6757</td></tr><tr><td>Reference</td><td>Book 85 Hadith 34</td></tr></tbody></table></div>
 

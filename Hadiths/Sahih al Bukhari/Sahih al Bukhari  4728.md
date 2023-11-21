@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mus'ab:I asked my father, "Was the Verse:-- 'Say: (O Muhammad) Shall We
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Mush'ab bin Sa'ad] dia berkata; Aku bertanya kepada Bapakku mengenai firman Allah; Katakanlah: "Apakah akan Kami beritahukan kepadamu tentang orang-orang yang paling merugi perbuatannya?" apakah mereka orang Harury (nama sebuah desa kaum khawarij)? [Bapakku] menjawab; bukan, mereka adalah Yahudi dan Nashrani. Adapun orang-orang Yahudi, mereka telah mendustakan Nabi shallallahu 'alaihi wasallam. Sedangkan Nashrani mereka telah mengingkari surga. Mereka mengatakan; didalamnya tidak ada makanan dan minuman. Adapun Haruriy mereka adalah orang-orang yang melanggar perjanjian Allah sesudah perjanjian itu teguh... dan Sa'ad menamakan mereka sebagai orang-orang yang fasik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4728</td></tr><tr><td>Arabic No</td><td>4728</td></tr><tr><td>Reference</td><td>Book 65 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мус‘аб ибн Са‘д сказал: «Я спросил своего отца о словах Аллаха “Скажи: “Не сообщить ли вам о тех, чьи деяния принесут наибольший убыток?””: “Речь идёт о харуритах?” Он сказал: “Нет, это иудеи и христиане. Что касается иудеев, то они обвинили Мухаммада ﷺ во лжи. Что же касается христиан, то они не веровали в Рай, говоря: “В Раю нет еды и нет питья”. Харуриты же нарушили завет, данный Аллаху, после того, как он был заключён”. Са‘д называл их нечестивцами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4728</td></tr><tr><td>Arabic No</td><td>4728</td></tr><tr><td>Reference</td><td>Book 65 Hadith 250</td></tr></tbody></table></div>
 

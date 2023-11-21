@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Mughirah Al Hizami] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang miskin bukanlah mereka yang berkeliling meminta-minta kepada orang banyak, lalu peminta itu diberi sesuap dua suap, atau sebutir dua butir kurma." Para sahabat bertanya, "Kalau begitu, seperti apakah orang yang miskin itu?" Beliau menjawab: "Orang miskin sesungguhnya ialah mereka yang tidak memiliki apa-apa untuk menutupi kebutuhannya, namun keadaannya itu tidak diketahui orang supaya orang bersedekah padanya, dan tidak pula meminta-minta ke sana ke mari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2393</td></tr><tr><td>Arabic No</td><td>1039.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Не тот беден, кто обходит людей, довольствуясь куском-другим (еды) или одним-двумя финиками». (Люди стали) спрашивать: «Кто же является бедным, о Посланник Аллаха?» и (Пророк ﷺ) сказал: «(Истинно беден) тот, кто не обладает богатством, что избавило бы его (от необходимости просить людей), которые не догадываются (о его бедности и поэтому) не подают ему, сам же он ничего у людей не просит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2393</td></tr><tr><td>Arabic No</td><td>1039.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
 

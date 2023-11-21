@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) never raised his hands for any invocat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya] dan [Ibnu Abi 'Adi] dari [Sa'id] dari [Qatadah] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam tidak pernah mengangkat tangannya saat berdoa kecuali ketika berdoa dalam shalat istisqa'. Beliau mengangkat tangannya hingga terlihat putih kedua ketiaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>1031</td></tr><tr><td>Reference</td><td>Book 15 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Обращаясь к Аллаху с мольбами, Пророк ﷺ никогда не поднимал рук кверху, если не считать молений о ниспослании дождя, (в подобных же случаях) он поднимал руки так высоко, что становилась видна белизна его подмышек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>1031</td></tr><tr><td>Reference</td><td>Book 15 Hadith 26</td></tr></tbody></table></div>
 

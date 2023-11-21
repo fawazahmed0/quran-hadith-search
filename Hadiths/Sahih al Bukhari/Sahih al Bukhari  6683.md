@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said a sentence and I said another. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul wahid] telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Abdullah] radliyahu'anhu, menuturkan; Rasulullah Shallallahu'alaihi wa sallam mengucapkan sebuah kalimat -dan sebagian redaksinya aku menambahnya sendiri- "Barangsiapa meninggal dengan menjadikan tandingan bagi Allah, maka ia dimasukkan ke neraka, --dan redaksi yang kubuat sendiri, yaitu-; barangsiapa yang meninggal dengan tidak menjadikan tandingan bagi Allah, ia dimasukkan surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6683</td></tr><tr><td>Arabic No</td><td>6683</td></tr><tr><td>Reference</td><td>Book 83 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал одни слова, я же сказал другие: «“Тот, кто умер, взывая к кому-либо наряду с Аллахом, попадёт в Огонь”, я же сказал: “Войдёт в Рай тот, кто умер, ничему не взывая наряду с Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6683</td></tr><tr><td>Arabic No</td><td>6683</td></tr><tr><td>Reference</td><td>Book 83 Hadith 60</td></tr></tbody></table></div>
 

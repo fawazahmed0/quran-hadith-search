@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This version adds (to the previous hadith No 4194):My father said to him (the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Ubaidullah] - maksudnya Ubaidullah bin Had- ia berkata; telah menceritakan kepada kami [Iyad] dari [Abu Rimtsah] ia berkata, "Aku bersama bapakku pergi menemui Nabi shallallahu 'alaihi wasallam, dan ternyata rambut beliau panjangnya hingga daun telinga yang diberi warna dengan daun pacar, dan beliau mengenakan dua kain berwarna hijau." Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Ibnu Idris] ia berkata; Aku mendengar [Ibnu Abjar] dari [Iyad bin Laqith] dari [Abu Rimtsah] berkenaan dengan kabar ini. Ia (perawi) berkata; Lalu bapakku berkata kepadanya, "Perlihatkanlah kepadaku apa yang ada di punggungmu, karena aku adalah seorang tabib." Ia berkata, "Demi Allah, engkau hanyalah perantara. Tabib yang sebenarnya adalah Dzat Yang telah menciptakannya (sakit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4207</td></tr><tr><td>Arabic No</td><td>4207</td></tr><tr><td>Reference</td><td>Book 35 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Римса сказал (в предыдущей истории): «Мой отец сказал ему: “Покажи мне то, что у тебя на спине, ибо я лекарь”. (Пророк ﷺ) сказал: “Аллах лекарь, а ты мягкий человек. Её лекарь Тот, Кто сотворил её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4207</td></tr><tr><td>Arabic No</td><td>4207</td></tr><tr><td>Reference</td><td>Book 35 Hadith 49</td></tr></tbody></table></div>
 

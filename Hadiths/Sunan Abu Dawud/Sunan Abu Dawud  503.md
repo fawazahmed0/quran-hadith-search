@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mahdurah reported :The Messenger of Allah (May peace be upon him) himself ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Abdil Malik bin Abi Mahdzurah, yakni Abdul Aziz] dari [Ibnu Muhairiz] dari [Abu Mahdzurah] dia berkata; Rasulullah shallallahu 'alaihi wasallam telah mengajarkan cara adzan kepadaku, langsung dari beliau sendiri, beliau bersabda: "Ucapkanlah: Allaahu akbar Allaahu akbar, Allaahu akbar Allaahu akbar, Asyhadu an laa ilaaha illallaah, Asyhadu an laa ilaaha illallaah, Asyhadu anna Muhammadar Rasuulullah, Asyhadu anna Muhammadar Rasuulullah, Dua kali dua kali. beliau meneruskan: Kemudian ulangilah, lalu panjangkan suaramu, Asyhadu an laa ilaaha Illallaah, Asyhadu an laa ilaaha illallaah, Asyhadu anna Muhammadar Rasuulullah, asyhadu anna Muhammadar Rasulullah, Hayya 'alas shalaah hayya 'alas shalaah, hayya 'alal falaah, Hayya 'alal falaah, Allaahu akbar Allaahu akbar, Laa ilaa illallaah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>503</td></tr><tr><td>Arabic No</td><td>503</td></tr><tr><td>Reference</td><td>Book 2 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Махзура сказал: «Посланник Аллаха ﷺ лично сам продиктовал мне (слова) азана и сказал: “Говори: Аллаху акбар! Аллаху акбар! Аллаху акбар! Аллаху акбар! Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! – по два раза. Затем повтори (шахаду) растягивая свой голос: Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Хаййа ‘аля-с-салях! Хаййа ‘аля-с-салях! Хаййа ‘аляль-фалях! Хаййа ‘аляль-фалях! Аллаху акбар! Аллаху акбар! Ля иляха илля-Ллах!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>503</td></tr><tr><td>Arabic No</td><td>503</td></tr><tr><td>Reference</td><td>Book 2 Hadith 113</td></tr></tbody></table></div>
 

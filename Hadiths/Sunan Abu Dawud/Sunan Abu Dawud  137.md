@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Hisyam bin Sa'd] telah menceritakan kepada kami [Zaid] dari ['Atha' bin Yasar] dia berkata; [Ibnu Abbas] pernah berkata kepada kami; Maukah aku perlihatkan kepada kalian bagaimana Rasulullah shallallahu 'alaihi wasallam berwudhu? Dia minta untuk didatangkan bejana berisi air, lalu dia rnenciduknya sekali dengan tangan kanannya, lantas berkumur dan beristinsyaq, kemudian mengambil sekali lagi, lalu menggabungkan kedua tangannya dengan sekali ciduk itu, lantas mengusap wajahnya. Setelah itu dia mengambil lagi sekali cidukan, lalu membasuh tangan kanannya dengannya, kemudian mengambilnya lagi, lalu membasuh tangan kirinya. Setelah itu dia mengambil segenggam air, lalu mengibaskan tangannya, kemudian mengusapkannya pada kepala dan kedua telinganya. Setelah itu mengambil satu gegenggam lagi, lalu dipercikkannya ke atas kaki kanannya yang dalam keadaan bersandal, kemudian mengusapnya dengan kedua tangannya, satu tangan di atas kakinya dan tangan lainnya di bawah sandal. Kemudian dia melakukannya pula seperti itu pada kakinya yang kiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>137</td></tr><tr><td>Reference</td><td>Book 1 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Атаъ ибн Йасар сказал: «Ибн ‘Аббас сказал нам: “Не желаете ли вы, чтобы я показал вам, как совершал омовение Посланник Аллаха ﷺ?”, и он попросил принести сосуд с водой. (Когда принесли воду,) он зачерпнул пригоршню правой рукой и прополоснул рот и нос. Затем соединив руки, он набрал воды ещё раз и затем помыл лицо. После этого опять набрав воды, он помыл правую руку (с локтем включительно) и тоже самое сделал с левой. Затем набрав горсть воды и стряхнув ее (с рук) он обтер свою голову и уши, после чего заново набрал горсть воды и брызгнул ею на правую ногу, обутую в сандалию, затем обтер её обеими руками; одной рукой поверх ноги, а второй снизу сандалии. Затем он сделал тоже самое с левой ногой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>137</td></tr><tr><td>Reference</td><td>Book 1 Hadith 137</td></tr></tbody></table></div>
 

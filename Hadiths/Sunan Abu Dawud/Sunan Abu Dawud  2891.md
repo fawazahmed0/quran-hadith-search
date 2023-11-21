@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: We went out with the Messenger of Allah (ﷺ) and c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal], telah menceritakan kepada kami [Abdullah bin Muhammad bin 'Aqil], dari [Jabir bin Abdullah], ia berkata; kami keluar bersama Rasulullah shallallahu 'alaihi wasallam hingga kami sampai pada seorang wanita anshar di beberapa pasar kemudian wanita tersebut datang dengan membawa dua orang anak wanitanya dan berkata; wahai Rasulullah, ini adalah dua anak wanita Tsabit bin Qais, ia terbunuh bersama engkau pada saat perang Uhud. Dan pamannya telah mengambil seluruh harta dan warisan mereka berdua, dan tidaklah Tsabit meninggalkan harta untuk mereka berdua melainkan ia telah mengambilnya. Bagaimana pendapat engkau wahai Rasulullah? Demi Allah, mereka berdua tidaklah dinikahkan selamanya kecuali mereka memiliki harta. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah akan memutuskan dalam perkara tersebut." Jabir berkata; dan turunlah Surat An Nisa': "Allah mensyari'atkan bagimu tentang (pembagian pusaka untuk) anak-anakmu." Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Panggilkan wanita tersebut sahabatnya (paman kedua anak tersebut)!" kemudian beliau berkata kepada paman kedua anak tersebut: "Berikan kepada keduanya dua pertiga, dan berikan seperdelapan kepada ibu mereka, dan sisanya adalah untukmu." Abu Daud berkata; Bisyr telah salah dalam hal tersebut. Sesungguhnya mereka berdua adalah anak wanita Sa'd bin Ar Rabi', sedangkan Tsabit bin Qais terbunuh pada perang Yamamah. Telah menceritakan kepada kami [Ibnu As Sarh], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Daud bin Qais], dan yang lainnya dari kalangan ahli ilmu, dari [Abdullah bin Muhammad bin 'Aqil], dari [Jabir bin Abdullah], bahwa isteri Sa'd bin Ar Rabi' berkata; wahai Rasulullah, sesungguhnya Sa'd telah mati dan meninggalkan dua anak wanita, kemudian Ibnu As Sarh menyebutkan hadits seperti hadits tersebut. Abu Daud berkata; dan hadits ini lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 19 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «Мы отправились вместе с посланником Аллаха ﷺ к одной женщине из числа ансаров на рынок, и туда пришла женщина с двумя дочерями и сказала: “О Посланник Аллаха, это дочери Сабита ибн Кайса, который погиб в битве при Ухуде (участвуя в ней) вместе с тобой, и их дядя со стороны отца забрал себе всё их наследство, ничего не оставив им. Что ты об этом скажешь, о Посланник Аллаха? Ведь, клянусь Аллахом, им не выйти замуж, не имея имущества”. Посланник Аллаха ﷺ сказал: “Аллах вынесет решение по этому делу”. И тогда был ниспослан аят из суры “ан-Ниса”: “Аллах завещает вам относительно ваших детей…” (сура 4 «ан-Ниса», аят 11). Посланник Аллаха ﷺ сказал: “Позовите ко мне женщину и того человека”. И он сказал мужчине: “Отдай им две трети, а их матери одну восьмую, а остальное оставь себе”». Абу Дауд утверждает, что передатчик Бишр ошибся и речь идёт о дочерях Са‘да ибн ар-Раби‘, поскольку Сабит ибн Кайс погиб в битве при Ямаме (в эпоху Абу Бакра ас-Сыддика, , да будет доволен им Аллах)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 19 Hadith 7</td></tr></tbody></table></div>
 

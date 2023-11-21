@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported:My father conferred a gift upon me, and then brought m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Utsman An Naufali] telah menceritakan kepada kami [Azhar] telah menceritakan kepada kami [Ibnu 'Aun] dari [Asy Sya'bi] dari [An Nu'man bin Basyir] dia berkata, "Ayahku pernah memberikan kepadaku suatu pemberian, kemudian dia membawaku menemui Rasulullah shallallahu 'alaihi wasallam supaya beliau mau menjadi saksinya." Lalu beliau bersabda: "Apakah setiap anakmu kamu memberinya seperti dia?" Ayahku menjawab, "Tidak." Beliau bersabda: "Apakah kamu tidak menginginkan mereka berbakti kepadamu sebagaimana kamu menginginkan dia berbakti kepadamu?" Ayahku menjawab, "Tentu." Beliau bersabda: "Oleh karena itu saya tidak mau menjadi saksi atas ini." [Ibnu 'Aun] berkata, "Kemudian saya menceritakan hal ini kepada [Muhammad], lalu dia berkata, "Hanyasannya yang kami riwayatkan adalah, bahwa beliau bersabda: "Samakanlah (pembagian) antara anak-anak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4186</td></tr><tr><td>Arabic No</td><td>1623.10</td></tr><tr><td>Reference</td><td>Book 24 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4186</td></tr><tr><td>Arabic No</td><td>1623.10</td></tr><tr><td>Reference</td><td>Book 24 Hadith 24</td></tr></tbody></table></div>
 

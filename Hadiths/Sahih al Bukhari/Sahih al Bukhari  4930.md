@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We were with the Prophet (ﷺ) when Surat Wal-Mursalat was re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] Telah menceritakan kepada kami [Ubaidullah] dari [Isra'il] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dari [Abdullah radliallahu 'anhu] ia berkata; Suatu ketika kami berada bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba turunlah wahyu kepada beliau, yakni surat Al Mursalat. Maka saat itu, kami langsung mendengarkannya dari lisan beliau. Tiba-tiba keluarlah ular, lalu kami langsung menerkamnya, namun ular itu telah lebih dahulu masuk ke dalam lubangnya. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Ia telah terbebas dari keburukan kalian, sementara kalian pun telah diselamatkan dari keburukannya." Telah menceritakan kepada kami [Abdah bin Abdullah] Telah mengabarkan kepada kami [Yahya bin Adam] dari [Isra'il] dari [Manshur] dengan hadits ini, dan dari [Isra'il] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] dengan hadits semisalnya. Hadis ini diperkuat oleh [Aswad bin Amir] dari [Isra'il]. [Hafsh] berkata; dan [Abu Mu'awiyah] dan [Sulaiman bin Qarm] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] kemudian [Yahya bin Hammad] berkata; Telah mengabarkan kepada kami [Abu 'Awanah] dari [Al Mughirah] dari [Ibrahim] dari ['Alqamah] dari [Abdullah], dan [Ibnu Ishaq] berkata; Dari [Abdurrahman bin Al Aswad] dari [bapaknya] dari [Abdullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4930</td></tr><tr><td>Arabic No</td><td>4930</td></tr><tr><td>Reference</td><td>Book 65 Hadith 450</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда мы находились с Посланником Аллаха ﷺ, ему начали ниспосылаться (аяты, в которых говорилось): “Клянусь посылаемыми…”, и, поистине, он произносил (эти аяты), а я слышал их (непосредственно) из его уст. Внезапно из своей норы вылезла змея, мы бросились к ней, (чтобы убить её), но не успели, и она заползла в свою нору. Тогда Посланник Аллаха ﷺ сказал: “Её защитили от вашего зла, как и вас защитили от её зла”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4930</td></tr><tr><td>Arabic No</td><td>4930</td></tr><tr><td>Reference</td><td>Book 65 Hadith 450</td></tr></tbody></table></div>
 

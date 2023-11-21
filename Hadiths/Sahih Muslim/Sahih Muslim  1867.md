@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] semuanya dari [Hafsh] -[Abu Bakr]- berkata, telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Al A'masy] dari [Ibrahim] dari [Abidah] dari [Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Bacakanlah Al Qur'an kepadaku." Abdullah berkata; saya bertanya, "Wahai Rasulullah, apakah saya membacakannya kepada Anda, sementara Al Qur'an diturunkan kepada Anda?" beliau bersabda: "Saya suka untuk mendengarnya dari orang lain." Maka saya pun membaca surat An Nisa', hingga (bacaanku) sampai pada ayat: "Dan kami mendatangkan kamu (Muhammad) sebagai saksi atas mereka itu (sebagai umatmu)." Aku mengangkat kepalaku -atau- seorang laki-laki datang ke sampingku, dan aku pun mengangkat kepala, maka aku melihat air mata beliau menetes. Telah menceritakan kepada kami [Hannad bin As Sariy] dan [Mindab bin Harits At Tamimi] semuanya dari [Ali bin Mushir] dari [Al A'masy] dengan isnad ini. Hannad menambahkan dalam riwayatnya; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku sementara beliau berada di atas mimbar: "Bacakanlah (Al Qur'an) untukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1867</td></tr><tr><td>Arabic No</td><td>800.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Однажды) Посланник Аллаха ﷺ сказал мне: “Почитай мне Коран”. Я воскликнул: “О Посланник Аллаха, (как могу) я читать его тебе, когда тебе он был ниспослан?!” Он сказал: “Поистине, я хочу послушать его от кого-нибудь другого”. Тогда я (начал) читать ему (суру) ‹ан-Ниса›, дойдя же до (аята, где сказано): “А как же, когда приведём мы от каждой общины свидетеля и приведём тебя как свидетеля против них?!” (Сура «ан-Ниса», аят 41), я поднял голову (или: один человек тронул меня за бок, и я поднял голову) и увидел, что (по лицу Пророка ﷺ) текут слёзы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1867</td></tr><tr><td>Arabic No</td><td>800.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 295</td></tr></tbody></table></div>
 

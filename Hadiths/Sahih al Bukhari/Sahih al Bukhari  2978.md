@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Abu Sufyan said, "Heraclius sent for me when I was in 'llya'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku ['Ubaidullah bin 'Abdullah] bahwa [Ibnu 'Abbas radliallahu 'anhuma] mengabarkan kepadanya bahwa [Abu Sufyan] mengabarkan kepadanya tentang Raja Heraklius mengutus seorang utusan kepadanya saat mereka (rombongan Quraaisy) berada di Iyliya' lalu sang raja memanggilnya (untuk mendengarkan) surat dari Rasulullah shallallahu 'alaihi wasallam. Setelah dia selesai membaca surat tersebut seketika terjadi kegaduhan dan terdengar suara ribut dan akhirnya kami diusir keluar (dari majelis pertemuan tersebut). Maka kemudian aku katakan kepada teman-temanku ketika kami diusir: "Sungguh besar perkara anak Abu Kabsyah ini. Dia ditakuti oleh Raja Bani Ashfar (Bangsa berkulit kuning/Romawi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2978</td></tr><tr><td>Arabic No</td><td>2978</td></tr><tr><td>Reference</td><td>Book 56 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передал со слов Абу Суфьяна, что, когда Ираклий послал за ним, он (вместе со своими спутниками) находился в Илие. Затем он попросил принести ему письмо Посланника Аллаха ﷺ. Когда он закончил его чтение, вокруг него поднялся сильный шум и крик, и нас вывели оттуда. Тогда я сказал своим товарищам: “Ибн Абу Кабша стал столь важным человеком, что его боится даже владыка бану-ль-асфар!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2978</td></tr><tr><td>Arabic No</td><td>2978</td></tr><tr><td>Reference</td><td>Book 56 Hadith 187</td></tr></tbody></table></div>
 

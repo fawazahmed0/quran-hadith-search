@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported that Allah's Messenger (ﷺ) said:A woman was tormented becaus
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Muhammad bin Asma' bin 'Ubaid Adh Dhuba'i]; Telah menceritakan kepada kami [Juwairiyah] yaitu Ibnu Asma' dari [Nafi'] dari ['Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang wanita disiksa lantaran seekor kucing yang mati karena ia kurung, maka karenanya ia pun masuk neraka. Sebab ia tidak memberinya makan atau minum ketika ia mengurungnya. Juga tidak melepasnya sehingga mencari makan dari serangga bumi." Telah menceritakan kepadaku [Harun bin 'Abdullah] dan ['Abdullah bin Ja'far bin Yahya bin Khalid] seluruhnya dari [Ma'an bin 'Isa] dari [Malik bin Anas] dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam yang semakna dengan Hadits Juwariyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6675</td></tr><tr><td>Arabic No</td><td>2242.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6675</td></tr><tr><td>Arabic No</td><td>2242.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 172</td></tr></tbody></table></div>
 

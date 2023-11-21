@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rait' bin Khadij:I said to the Prophet, "We will be facing the enemy to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Al Ahwash] telah menceritakan kepada kami [Sa'id bin Masruq] dari ['Abayah bin Rifa'ah] dari [Ayahnya] dari kakeknya [Rafi' bin Khadij] dia berkata; aku bertanya kepada Nabi shallallahu 'alaihi wasallam; "Kami akan bertemu musuh esok hari, sementara kami tidak membawa pisau." Beliau bersabda: "Gunakanlah sesuatu yang dapat mengalirkan darah dan sebutlah nama Allah kemudian makanlah selama -yang digunakan untuk menyembelih- tidak dari gigi atau kuku, dan aku akan menceritakan hal itu kepada kalian, adapun gigi adalah tulang sedangkan kuku adalah pisaunya orang-orang Habsyah." Kemudian para sahabat berjalan cepat hingga mendapatkan ghanimah, sementara Nabi shallallahu 'alaihi wasallam berada di rombongan terakhir, lalu orang-orang membuat tungku untuk memasak, ketika beliau mengetahui hal itu, beliau memerintahkan untuk menumpahkan periuk tersebut. Setelah itu beliau membagi-bagi ghanimah dan menyetarakan satu ekor unta dengan sepuluh ekor kambing. Tiba-tiba seekor unta milik suatu kaum kabur, sementara mereka tidak ada yang mengendarai kuda (untuk mengejarnya), lantas salah seorang dari mereka membidik unta tersebut dengan tombak hingga dengan izin Allah unta tersebut berhasil ditangkap, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara binatang-binatang ternak ada yang memiliki sifat-sifat seperti yang di miliki oleh binatang liar, maka tindakan yang biasa kamu lakukan pada binatang liar tersebut hendaknya kamu lakukan pula kepadanya seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5543</td></tr><tr><td>Arabic No</td><td>5543</td></tr><tr><td>Reference</td><td>Book 72 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж, да будет доволен им Аллах, сказал: «Я сказал Пророку ﷺ: “Завтра мы столкнемся с врагом, и у нас нет ножей (для забоя)”. Он сказал: “(Пользуйтесь) всем, с помощью чего можно выпустить кровь, и ешьте всё то, над чем было произнесено имя Аллаха, но не (закалывайте животных) клыками и когтями, и я скажу вам (почему): что касается зубов, то это — кости, что же касается когтей, то они используются как ножи эфиопами”. Пророк ﷺ находился позади людей, которые поспешили, взяли военную добычу и поставили котлы (на огонь, а через некоторое время он подошёл к ним), велел опрокинуть котлы и стал делить (добычу), приравняв десять овец к одному верблюду. Затем верблюд, принадлежавший к первой группе людей, убежал, и у них не было с собой лошадей (чтобы догнать его), поэтому человек пустил (в этого верблюда) стрелу, и Аллах остановил его. Пророк ﷺ сказал: “Поистине, некоторые из этих животных одичали и стали подобны диким зверям, и если какое-нибудь из них совершит подобное, поступайте с ним так же (т.е. пустите в него стрелу)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5543</td></tr><tr><td>Arabic No</td><td>5543</td></tr><tr><td>Reference</td><td>Book 72 Hadith 68</td></tr></tbody></table></div>
 

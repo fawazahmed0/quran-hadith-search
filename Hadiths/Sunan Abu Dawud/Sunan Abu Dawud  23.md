@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hudhaifah : The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] dan [Muslim bin Ibrahim] mereka berdua berkata; Telah menceritakan kepada kami [Syu'bah]. Dan menurut jalur yang lain; Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dan ini adalah lafazh Hafsh dari [Sulaiman] dari [Abu Wa'il] dari [Hudzaifah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mendatangi tempat pembuangan sampah suatu kaum, lalu buang air kecil dengan berdiri, kemudian beliau meminta untuk didatangkan air, lalu beliau mengusap dua khufnya." Abu Dawud berkata; Musaddad berkata; Hudzaifah berkata; Lalu saya pergi menjauh dari beliau, namun beliau memanggil saya hingga saya berada di sisi tumitnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (224) Sahih Muslim (273)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>23</td></tr><tr><td>Arabic No</td><td>23</td></tr><tr><td>Reference</td><td>Book 1 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа сказал: «(Однажды) Посланник Аллаха ﷺ отошел на место, куда люди сбрасывали мусор, и помочился стоя. Затем он попросил воды (для омовения) и (совершая омовение) он обтёр свои кожаные носки/хуффайн/ (вместо обмывания ног)».Абу Дауд сказал: Мусаддад сказал: «(Хузайфа) сказал: “И я стал отходить от него, но он подозвал меня, и я (сразу же) оказался у его пяток”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (224) Sahih Muslim (273)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>23</td></tr><tr><td>Arabic No</td><td>23</td></tr><tr><td>Reference</td><td>Book 1 Hadith 23</td></tr></tbody></table></div>
 

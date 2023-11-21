@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "J'ai vu le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Abu Bukair] dari [Syu'bah] dari [Tsabit] dari [Anas] ia berkata; "Saya melihat Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya saat berdo'a hingga terlihat putih ketiaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2074</td></tr><tr><td>Arabic No</td><td>895.01</td></tr><tr><td>Reference</td><td>Book 9 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Я видел, как во время обращения (к Аллаху) с мольбой, Посланник Аллаха ﷺ поднимал руки (так высоко), что была видна белизна его подмышек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2074</td></tr><tr><td>Arabic No</td><td>895.01</td></tr><tr><td>Reference</td><td>Book 9 Hadith 5</td></tr></tbody></table></div>
 

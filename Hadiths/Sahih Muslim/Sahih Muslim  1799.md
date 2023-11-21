@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Abbas reported:He spent (one night) in the house of the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Washil bin Abdul A'la] Telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Hushain bin Abdurrahman] dari [Habib bin Abu Tsabit] dari [Muhammad bin Abu 'Ali bin Abdullah bin Abbas] dari [bapaknya] dari [Abdullah bin Abbas] bahwa ia pernah bermalam di sisi Rasulullah shallallahu 'alaihi wasallam. Kemudian beliau bangun dan langsung bersiwak kemudian berwudlu. Lalu beliau membaca: "Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal." Beliau membaca ayat itu hingga selesai satu surat (Ali Imran). Kemudian beliau shalat dua raka'at dengan memanjangkannya berdirinya, ruku', dan sujudnya. Sesudah itu beliau tidur hingga terdengar hembusan nafasnya. Beliau melakukan hal itu hingga tiga kali yakni enam raka'at, dan setiap kalinya beliau mesti bersiwak dan berwudlu dan membaca ayat tadi, kemudian beliau shalat witir dengan tiga raka'at. Hingga sang muadzin mengumandangkan adzan. Maka beliau pun keluar untuk menunaikan shalat Shubuh seraya berdo'a: "ALLAHUMMAJ 'AL FII QALBII NUURAN WA FII LISAANII NUURAN WAJ'AL FII SAM'I NUURAN WAJ'AL FII BASHARII NUURAN WAJ'AL MIN KHALFII NUURAN, WA MIN AMAAMII NUURAN, WAJ'AL MIN FAUQII NUURAN, WA MIN TAHTI NUURAAN, ALLAHUMMA'THINII NUURAN (Ya Allah berilah cahaya dalam hatiku, cahaya di lisanku, berilah cahaya dalam pendengaranku, berilah cahaya dalam penglihatanku, berilah aku cahaya dari belakangku, dari arah depanku, dan berikanlah cahaya dari atasku, dan arah bawahku. Ya Allah berilah aku cahaya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1799</td></tr><tr><td>Arabic No</td><td>763.12</td></tr><tr><td>Reference</td><td>Book 6 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха ибн ‘Аббаса, что однажды он заночевал у Посланника Аллаха ﷺ и увидел, как тот, проснувшись, почистил зубы сиваком и совершил малое омовение, читая при этом: «Воистину, в сотворении небес и земли, а также в смене ночи и дня заключены знамения для обладающих разумом» (сура “Али ‘Имран”, аят 190), пока не дочитал до конца суры. Потом он встал и совершил два рак‘ата, причём его стояние, поясные и земные поклоны были долгими. Завершив молитву, он уснул так, что его дыхание стало громким. И он проделал это трижды, совершив шесть рак‘атов. Каждый раз он чистил зубы сиваком, потом совершал малое омовение и читал эти аяты. Затем он завершил молитву тремя рак‘атами. Затем после того, как муаззин призвал к молитве Посланник Аллаха ﷺ вышел со словами: «О Аллах, помести в сердце моё свет, и в язык мой свет, и помести в слух мой свет, и помести в зрение моё свет, и помести позади меня свет и передо мной свет, и помести надо мной свет и подо мной свет. О Аллах, дай мне свет /Аллахумма-дж‘аль фи кальби нуран ва фи лисани нуран ва дж‘аль фи сам‘и нуран ва дж‘аль фи басари нуран ва-дж‘аль мин хальфи нуран ва мин амами нуран ва дж‘аль мин фаукы нуран ва мин тахти нуран Аллахумма ва а‘тыни нуран/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1799</td></tr><tr><td>Arabic No</td><td>763.12</td></tr><tr><td>Reference</td><td>Book 6 Hadith 227</td></tr></tbody></table></div>
 

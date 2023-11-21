@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik bin Huwairith:Prophet said (to two persons), "Whenever the prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] berkata, telah menceritakan kepada kami [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Malik bin Al Huwairits] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika telah datang waktu shalat maka adzan dan iqamatlah, kemudian hendaklah yang mengimami shalat adalah yang paling tua di antara kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 10 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Малика ибн аль-Хувайриса, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Когда настанет время намаза, возглашайте азан и икаму, и пусть затем старший из вас руководит вашим намазом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 10 Hadith 52</td></tr></tbody></table></div>
 

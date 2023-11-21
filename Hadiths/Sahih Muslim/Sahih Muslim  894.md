@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:One day the Messenger of Allah (ﷺ) was sitting amongst us that h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr as-Sa'di] telah menceritakan kepada kami [Ali bin Mushir] telah mengabarkan kepada kami [al-Mukhtar bin Fulful] dari [Anas bin Malik] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] sedangkan lafazh tersebut miliknya, telah menceritakan kepada kami [Ali bin Mushir] dari [al-Mukhtar] dari [Anas] dia berkata, "Pada suatu hari ketika Rasulullah di antara kami, tiba-tiba beliau tertidur, kemudian mengangkat kepalanya dalam keadaan tersenyum, maka kami bertanya, 'Apa yang membuatmu tertawa wahai Rasulullah? ' Beliau menjawab, 'Baru saja diturunkan kepadaku suatu surat, lalu beliau membaca, 'Bismillahirrahmanirrahim, Inna A'thainaka al-Kautsar Fashalli Lirabbika Wanhar, Inna Syani'aka Huwa al-Abtar, ' kemudian beliau berkata, 'Apakah kalian tahu, apakah al-Kautsar itu? ' Kami menjawab, 'Allah dan RasulNya lebih tahu.' Beliau bersabda, 'Ia adalah sungai yang dijanjikan oleh Rabbku kepadaku. Padanya terdapat kebaikan yang banyak. Ia adalah telaga yang umatku menemuiku pada hari kiamat, wadahnya sebanyak jumlah bintang, lalu seorang hamba dari umatku terhalang darinya, maka aku berkata, 'Wahai Rabbku, sesungguhnya dia termasuk umatku', maka Allah berkata, 'Kamu tidak tahu sesuatu yang terjadi setelah (meninggalmu) '." Ibnu Hujr menambahkan dalam haditsnya, "Di antara kami dalam masjid." Dan kalimat, "Allah berfirman, 'Sesuatu yang terjadi setelah meninggalmu'." Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala] telah mengabarkan kepada kami [Ibnu Fudhail] dari [Mukhtar bin Fulful] dia berkata, "Saya mendengar [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam tidur", sebagaimana hadits Ibnu Mushir, hanya saja dia berkata, 'Sungai yang dijanjikan oleh Rabbku di surga, padanya terdapat telaga, ' dan dia tidak menyebutkan, 'Wadahnya sebanyak jumlah bintang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>894</td></tr><tr><td>Arabic No</td><td>400.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Однажды Посланник Аллаха ﷺ, находившийся среди нас, ненадолго заснул, после чего, улыбаясь, поднял голову. Мы стали спрашивать: “Почему ты улыбаешься, о Посланник Аллаха?” (В ответ нам) он сказал: “Только что мне была ниспослана (ещё одна) сура, а затем прочитал (её): “Во имя Аллаха, Милостивого, Милосердного. Поистине, Мы даровали тебе аль-Каусар. Посему совершай молитву ради своего Господа и закалывай жертву. Воистину, твой ненавистник сам окажется безвестным” (Сура «аль-Каусар»). Затем он спросил: “Известно ли вам, что такое ‹аль-Каусар›?” Мы стали говорить: “Аллах и посланник Его знают об этом лучше”. Тогда он сказал: “Поистине, это река, обещанная мне моим Всемогущим и Великим Господом, (и в этой реке) много блага. И это водоём /хауд/, к которому в День воскресения придут (члены) моей общины, а (количество) сосудов (на его берегах равно) количеству звёзд. Рабу из числа их будет отказано, и я скажу: “Господь мой, поистине, он принадлежит к моей общине!” Тогда (Аллах) скажет: “Ты же не знаешь, какие новшества они ввели после тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>894</td></tr><tr><td>Arabic No</td><td>400.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 56</td></tr></tbody></table></div>
 

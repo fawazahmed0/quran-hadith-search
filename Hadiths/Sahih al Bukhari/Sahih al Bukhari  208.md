@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ja'far bin 'Amr bin Umaiya:My father said, "I saw Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku [Ja'far bin 'Amru bin Umayyah] bahwa [Bapaknya] mengabarkan kepadanya, bahwa ia pernah melihat Rasulullah shallallahu 'alaihi wasallam memotong daging paha kambing, saat panggilan shalat tiba beliau langsung meletakkan pisaunya dan shalat tanpa berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>208</td></tr><tr><td>Reference</td><td>Book 4 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джа‘фара ибн ‘Амра ибн Умаййи о том, что его отец, да будет доволен им Аллах, рассказывал ему, что однажды он видел, как Посланник Аллаха ﷺ отрезал себе кусок мяса от бараньей лопатки. В это время прозвучал призыв к молитве, и он бросил нож и стал молиться, не совершив омовения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>208</td></tr><tr><td>Arabic No</td><td>208</td></tr><tr><td>Reference</td><td>Book 4 Hadith 74</td></tr></tbody></table></div>
 

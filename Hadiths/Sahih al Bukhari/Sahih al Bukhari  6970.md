@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Haraira:Allah's Messenger (ﷺ) said, "A lady slave should not be g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Janda tidak boleh dinikahi hingga diajak musyawarah, dan gadis tidak boleh dinikahi hingga dimintai izin." Para sahabat bertanya; 'bagaimana tanda izinnya? ' Nabi menjawab; "jika dia diam." Sebagian orang mengatakan; bahwa jika seseorang bersiasat dengan menghadirkan dua orang saksi palsu atas perkawinan seorang janda dengan mengatakan atas persetujuannya, kemudian hakim menetapkan pernikahannya, padahal suami tahu bahwa sebenarnya ia belum menikahinya sama sekali, maka pernikahannya tidak masalah, dan tidak apa tinggal bersama dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6970</td></tr><tr><td>Arabic No</td><td>6970</td></tr><tr><td>Reference</td><td>Book 90 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Не следует выдавать замуж женщину, не посоветовавшись с ней, и не следует выдавать замуж девушку, не спросив её согласии (на это)”. (Люди) спросили: “А как узнать о её согласии?” (Пророк ﷺ) сказал: “(Согласие её заключается в том,) что она промолчит”».(Абу ‘Абдуллах аль-Бухари сказал:)— Некоторые люди сказали: «Если человек идёт на хитрость и предоставляет (на суде) двоих ложных свидетелей (для дачи показаний), что он женился на женщине с её согласия, и судья подтверждает его брак с ней, и этот муж знает, что он никогда не был женат на ней (ранее), то такой брак для него позволителен, и он может жить с ней как законный муж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6970</td></tr><tr><td>Arabic No</td><td>6970</td></tr><tr><td>Reference</td><td>Book 90 Hadith 17</td></tr></tbody></table></div>
 

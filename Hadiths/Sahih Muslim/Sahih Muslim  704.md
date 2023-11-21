@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported:Umar b. al-Khattab said to the Messenger of Allah (ﷺ), that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Abdullah bin Dinar] dari [Ibnu Umar] dia berkata, "Umar bin al-Khaththab menyebutkan kepada Rasulullah shallallahu 'alaihi wasallam bahwa dia mengalami junub sejak malam. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya, 'Berwudhulah, dan cucilah kemaluanmu, kemudian tidurlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>704</td></tr><tr><td>Arabic No</td><td>306.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Однажды ‘Умар ибн аль-Хаттаб рассказал Посланнику Аллаха ﷺ о том, что ночью его постигло осквернение/джанаба/, и Посланник Аллаха ﷺ сказал ему: “Соверши омовение, помой свой половой орган, и затем ложись спать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>704</td></tr><tr><td>Arabic No</td><td>306.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 26</td></tr></tbody></table></div>
 

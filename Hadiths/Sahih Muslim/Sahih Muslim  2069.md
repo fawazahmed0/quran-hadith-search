@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Alors que les Abyssins jouaient avec l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abdu bin Humaid] -Abdu berkata- telah mengabarkan kepada kami -Ibnu Rafi' berkata- telah menceritakan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnul Musayyab] dari [Abu Hurairah] ia berkata; Ketika orang-orang Habasyah bermain-main tombak di sisi Rasulullah shallallahu 'alaihi wasallam, tiba-tiba Umar bin Al Khathab masuk dan segera mengulurkan tangannya mengambil tombak kecil untuk melempar mereka. Namun Rasulullah shallallahu 'alaihi wasallam segera bersabda: "Biarkanlah mereka wahai Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «В то время, как некоторые эфиопы играли со своими копьями в присутствии Посланника Аллаха ﷺ, вошёл ‘Умар ибн аль-Хаттаб, поднял мелкие камешки, чтобы кинуть в них. На это Посланник Аллаха ﷺ сказал ему: “Оставь их, о Умар!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
 

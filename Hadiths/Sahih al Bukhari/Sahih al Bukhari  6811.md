@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:I said, "O Allah's Messenger (ﷺ)! Which is the b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin Ali] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Sufyan] mengatakan, telah mengabarkan kepadaku [Manshur] dan [Sulaiman] dari [Abu Wa'il] dari [Abu Maisarah] dari [Abdullah] radliallahu 'anhu mengatakan; Saya bertanya; 'ya Rasullah, Dosa apa yang paling besar? ' Beliau menjawab: "engkau menjadikan tandingan bagi Allah padahal Dia-lah yang menciptakanmu." 'kemudian apa? ' tanyaku. Beliau menjawab; "engkau membunuh anakmu karena khawatir akan makan bersamamu." Lanjutku; 'kemudian apa? ' beliau menjawab; "engkau berzina dengan istri tetanggamu." Yahya mengatakan; dan telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Washil] dari [Abu Wa'il] dari [Abdullah], saya bertanya; 'ya Rasulullah, ' dan selanjutnya semisal hadits diatas. [Amru] mengatakan; maka aku menyebutkannya kepada ['Abdurrahman] yang telah menceritakan kepada kami dari [Sufyan] dari [Al A'masy] dari [Manshur] dan [Washil] dari [Abi Wa'il] dari [Abu Maisarah] ia mengatakan; 'Biarkan dia, biarkan dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6811</td></tr><tr><td>Arabic No</td><td>6811</td></tr><tr><td>Reference</td><td>Book 86 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «(Однажды) я спросил (Пророка ﷺ): “О Посланник Аллаха, какой грех является тягчайшим?” Он ответил: “Приравнивание кого бы то ни было к Аллаху, Который сотворил тебя”. Я спросил: “А после этого какой?” Он ответил: “Убийство собственного ребёнка (из страха перед тем,) что он станет есть вместе с тобой”. Я спросил: “А после этого какой?” Он ответил: “Совершение прелюбодеяния с женой твоего соседа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6811</td></tr><tr><td>Arabic No</td><td>6811</td></tr><tr><td>Reference</td><td>Book 86 Hadith 40</td></tr></tbody></table></div>
 

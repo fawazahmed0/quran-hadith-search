@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The following Verse:-- "If a guardian is well-off, let him claim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ubaidullah bin Isma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] tentang firman Allah Subhanahu wa Ta'ala dalam QS an-Nisaa' ayat; 6, yang artinya ("Dan barang siapa (di antara pemelihara itu) mampu, maka hendaklah ia menahan diri (dari memakan harta anak yatim itu) dan barang siapa yang miskin, maka bolehlah ia makan harta itu menurut yang patut"), dia berkata: "Ayat ini turun berkenaan dengan seorang yang memelihara anak yatim lalu ingin mengambil harta anak yatim tersebut apabila membutuhkannya sesuai dengan jumlah hartanya secara ma'ruf (yang patut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2765</td></tr><tr><td>Arabic No</td><td>2765</td></tr><tr><td>Reference</td><td>Book 55 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «“Кто богат, пусть воздержится, а кто беден, пусть ест по справедливости” (сура “ан-Ниса”, аят 6) — (этот аят) был ниспослан в отношении опекунов сирот. Если он (опекун) нуждается, то он может потреблять (из этого имущества) по мере нужды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2765</td></tr><tr><td>Arabic No</td><td>2765</td></tr><tr><td>Reference</td><td>Book 55 Hadith 28</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Houdhayfa (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdillah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Manshur] dari [Rab'i bin Hirasy] bahwa [Hudzaifah] telah menceritakan kepada mereka, dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Beberapa Malaikat bertemu dengan ruh seseorang sebelum kalian, lalu mereka bertanya, 'Apakah kamu pernah berbuat baik? ' Dia menjawab, 'Tidak.' Mereka berkata, 'Cobalah kamu ingat-ingat! ' dia menjawab, 'Memang dulunya saya pernah memberikan piutang kepada orang-orang, lantas saya perintahkan kepada pelayan-pelayanku agar memberikan tangguh kepada orang yang kesusahan, serta memberikan kelonggaran kepada berkecukupan'. Beliau melanjutkan: "Lantas Allah Azza wa jalla berfirman: 'Berilah kelapangan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3993</td></tr><tr><td>Arabic No</td><td>1560.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3993</td></tr><tr><td>Arabic No</td><td>1560.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 32</td></tr></tbody></table></div>
 

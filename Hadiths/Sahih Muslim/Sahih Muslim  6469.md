@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:The best of my Umma would be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Hannad bin As Sari] keduanya berkata; Telah menceritakan kepada kami [Abu Al Ahwash] dari [Manshur] dari [Ibrahim bin Yazid] dari ['Abidah As Salmani] dari ['Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik umatku adalah pada masa setelahku, kemudian generasi setelahnya, kemudian generasi setelahnya lagi, lalu akan suatu kaum setelah mereka yang mana persaksian salah seorang dari mereka mendahului sumpahnya, atau sebaliknya.' Namun Hannad di dalam Haditsnya tidak menyebutkan lafazh Al qarn (masa). Sedangkan Qutaibah berkata dengan lafazh; 'Akan datang beberapa kaum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6469</td></tr><tr><td>Arabic No</td><td>2533.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6469</td></tr><tr><td>Arabic No</td><td>2533.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 298</td></tr></tbody></table></div>
 

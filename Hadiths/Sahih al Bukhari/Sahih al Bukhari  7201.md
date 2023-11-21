@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) went out on a cold morning while the Muhajirin (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Humaid] dari [Anas] radliallahu 'anhu; Nabi shallallahu 'alaihi wasallam berangkat di suatu pagi yang dingin sedang kaum muhajirin dan anshar sedang menggali Khandaq (parit), lantas Nabi melantunkan sebuah bait syair; "Ya Allah, sesungguhnya kebaikan sejati adalah kebaikan akhirat, maka ampunilah kaum anshar dan muhajir." Serta merta para shahabat menyahut dengan bait syair; "Kita adalah yang berbai'at kepada Muhammad untuk jihad sepanjang hayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7201</td></tr><tr><td>Arabic No</td><td>7201</td></tr><tr><td>Reference</td><td>Book 93 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, сказал: «Однажды ранним холодным утром Пророк ﷺ вышел (и увидел,) что мухаджиры и ансары сами копают ров, и сказал: “О Аллах, поистине, благо — это благо мира вечного, прости же ансаров и мухаджиров!” Они же ответили так: “Мы — те, кто присягнули Мухаммаду, что будем вести джихад, пока живы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7201</td></tr><tr><td>Arabic No</td><td>7201</td></tr><tr><td>Reference</td><td>Book 93 Hadith 61</td></tr></tbody></table></div>
 

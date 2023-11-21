@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:Allah's Messenger (ﷺ) came to our house and he asked fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan ['Ali bin Hujr] mereka berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far, dari ['Abdullah bin 'Abdurrahman bin Ma'mar bin Hazm Abu Thuwalah Al Anshari] bahwa dia mendengar [Anas bin Malik]. Demikian juga telah diriwayatkan dari jalur yang lain, Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Dan lafazh ini miliknya; Telah menceritakan kepada kami [Sulaiman] yaitu Ibnu Bilal, dari ['Abdullah bin 'Abdurrahman]; Bahwasanya dia telah mendengar [Anas bin Malik] bercerita, dia berkata; Rasulullah Shallallah 'Alaihi Wa Sallam datang ke rumah kami, lalu beliau meminta minum, maka aku peraskan untuknya air susu dari seekor kambing. Kemudian aku mencampurnya dengan air sumurku. Anas berkata; 'Aku berikan susu tersebut kepada Rasulullah Shallallah 'Alaihi Wa Sallam, lalu beliau meminumnya.' Abu Bakr pada waktu itu berada di sebelah kiri beliau, sedangkan 'Umar berada di depan beliau, dan di sebelah kanan beliau ada orang badui. Tatkala Rasulullah Shallallah 'Alaihi Wa Sallam selesai minum, Umar berkata; 'Wahai Rasulullah! Ini Abu Bakr, berikanlah minuman itu kepadanya.' Tetapi ternyata Rasulullah memberikan sisa minumnya kepada orang badui dahulu daripada Abu Bakr dan Umar. Beliau bersabda; "Dari sebelah kanan dahulu, dari sebelah kanan dahulu, dari sebelah kanan dahulu." Anas berkata; 'Itulah sunnah, itulah sunnah, itulah sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5291</td></tr><tr><td>Arabic No</td><td>2029.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5291</td></tr><tr><td>Arabic No</td><td>2029.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 165</td></tr></tbody></table></div>
 

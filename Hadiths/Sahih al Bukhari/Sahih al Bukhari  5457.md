@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Harith:that he asked Jabir bin 'Abdullah about performing 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim Ibnul Mundzir] berkata; telah menceritakan kepadaku [Muhammad bin Fulaih] berkata; telah menceritakan kepadaku [Bapakku] dari [Sa'id Ibnul Harits] dari [Jabir bin Abdullah] radliallahu 'anhuma, Bahwasanya ia bertanya kepadanya tentang wudlu karena memakan sesuatu yang terkena api (dibakar). Ia menjawab, "Tidak. Pada masa Nabi shallallahu 'alaihi wasallam kami tidak menemui makanan seperti itu kecuali sedikit. Jika kami mendapatkannya (makan) dan tidak memiliki sapu tangan untuk mengelap telapak tangan, betis dan telapak kaki, maka kami shalat dan tidak berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5457</td></tr><tr><td>Arabic No</td><td>5457</td></tr><tr><td>Reference</td><td>Book 70 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «При жизни Пророка ﷺ у нас не было платков(, а руки мы вытирали) о ладони, предплечья и ступни, после чего совершали намаз без омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5457</td></tr><tr><td>Arabic No</td><td>5457</td></tr><tr><td>Reference</td><td>Book 70 Hadith 86</td></tr></tbody></table></div>
 

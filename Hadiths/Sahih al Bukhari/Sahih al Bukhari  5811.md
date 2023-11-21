@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying "From among my follo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah menceritakan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] radliallahu 'anhu berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada satu rombongan dari umatku yang akan masuk surga, jumlah mereka tujuh puluh ribu, wajah mereka bersinar seperti rembulan di malam purnama, " lalu Ukasyah bin Mihshan Al Asadi mengangkat namirah (semacam kain wool) yang ia kenakan seraya berkata; "Wahai Rasulullah, do'akanlah aku agar termasuk dari mereka, " maka beliau bersabda: "Ya Allah, jadikanlah ia termasuk dari mereka, " kemudian seorang laki-laki dari Anshar bangun dan berkata; "Wahai Rasulullah, do'akanlah aku agar termasuk dari mereka, " maka beliau bersabda: "Engkau telah didahului Ukasyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5811</td></tr><tr><td>Arabic No</td><td>5811</td></tr><tr><td>Reference</td><td>Book 77 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Группа из семидесяти человек из моей общины войдёт в Рай (без расчёта), и их лица будут сиять подобно луне». Тогда ’Уккяша ибн Михсан аль-Асадий встал, подняв свою накидку с цветными полосками /намира/, и сказал: “О Посланник Аллаха, попроси Аллаха, чтобы Он сделал меня из их числа!” Пророк ﷺ сказал: “О Аллах, сделай его из их числа!” Тогда встал (другой) человек из числа ансаров, и сказал: “О Посланник Аллаха, попроси Аллаха, чтобы Он сделал меня из их числа!” Но Посланник Аллаха ﷺ ответил: “’Уккяша опередил тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5811</td></tr><tr><td>Arabic No</td><td>5811</td></tr><tr><td>Reference</td><td>Book 77 Hadith 29</td></tr></tbody></table></div>
 

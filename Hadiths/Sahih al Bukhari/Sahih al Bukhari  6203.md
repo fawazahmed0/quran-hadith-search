@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) was the best of all the people in character. I h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Abu At Tayyah] dari [Anas] dia berkata; "Nabi shallallahu 'alaihi wasallam adalah sosok yang paling mulia akhlaknya, aku memiliki saudara yang bernama Abu 'Umair -Perawi mengatakan; aku mengira Anas juga berkata; 'Kala itu ia habis disapih."- Dan apabila beliau datang, maka beliau akan bertanya: 'Hai Abu Umar, bagaimana kabar si nughair (burung pipitnya). Abu Umair memang senang bermain dengannya, dan ketika waktu shalat telah tiba, sedangkan beliau masih berada di rumah kami, maka beliau meminta dihamparkan tikar dengan menyapu bawahnya dan memercikinya, lalu kami berdiri di belakang beliau, dan beliau pun shalat mengimami kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6203</td></tr><tr><td>Arabic No</td><td>6203</td></tr><tr><td>Reference</td><td>Book 78 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «По своему характеру Пророк ﷺ был лучшим из людей. У меня был (младший) брат, которого звали Абу ‘Умейр, и когда он приходил, Пророк ﷺ говорил ему: “О Абу ‘Умейр, что делает птичка /нугайр/?” Это была птица, с которой он играл. Иногда время молитвы заставало его, когда он был у нас дома. Тогда он приказывал подмести и побрызгать водой ковёр, который был под ним, а затем вставал и мы вставали позади него, и он совершал с нами молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6203</td></tr><tr><td>Arabic No</td><td>6203</td></tr><tr><td>Reference</td><td>Book 78 Hadith 227</td></tr></tbody></table></div>
 

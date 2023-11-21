@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) delayed the 'Isha' prayer till midnight and then
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahim Al Muharibi] berkata, telah menceritakan kepada kami [Zaidah] dari [Humaid Ath Thawil] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam pernah mengakhirkan shalat 'Isya hingga pertengahan malam, setelah melaksanakan shalat beliau bersabda: "Manusia semuanya sudah selesai shalat lalu mereka tidur. Dan kalian akan senantiasa dalam hitungan shalat selama kalian menunggu pelaksanaannya." [Ibnu Abu Maryam] menambahkan; telah mengabarkan kepada kami [Yahya bin Ayyub] telah menceritakan kepadaku [Humaid] dia mendengar [Anas bin Malik] berkata, "Pada malam itu aku seolah melihat cahaya cincin Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>572</td></tr><tr><td>Arabic No</td><td>572</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ отложил вечернюю молитву до середины ночи. Затем он помолился и сказал: “Люди уже совершили молитву и заснули, а вы присутствуете на молитве и тогда, когда ожидаете её (начала)”».\nХумайд передал, что слышал, как Анас сказал: «И я будто и сейчас вижу, как блестел той ночью его перстень»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>572</td></tr><tr><td>Arabic No</td><td>572</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
 

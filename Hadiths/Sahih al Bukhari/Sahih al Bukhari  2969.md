@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once the people got frightened, so Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Fadhl bin Sahal] telah bercerita kepada kami [Husain bin Muhammad] telah bercerita kepada kami [Jarir bin Hazim] dari [Muhammad] dari [Anas bin Malik radliallahu 'anhu] berkata; Orang-orang mengalami kegoncangan (gempa bumi) lalu Rasulullah shallallahu 'alaihi wasallam mengendarai seekor kuda milik Abu Thalhah yang sangat lamban. Kemudian Beliau keluar memacu kuda sendirian dan diikuti oleh orang-orang memacu dari belakang lalu Beliau bersabda: "Jangan kalian takut, sungguh ini kuda yang sangat cepat larinya". Sejak hari itu kuda itu tidak dapat dikalahkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2969</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 56 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Однажды, когда люди в Медине (стали ощущать) какой-то страх, Посланник Аллаха ﷺ сел верхом на медленного коня Абу Тальхи и ускакал на нём в одиночку, люди же поехали за ним. (Вернувшись,) он сказал: “Не бойтесь! Этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”. С тех пор этого коня никто не мог обогнать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2969</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 56 Hadith 178</td></tr></tbody></table></div>
 

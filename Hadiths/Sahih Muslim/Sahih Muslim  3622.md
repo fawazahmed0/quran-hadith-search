@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abu Bakr b. Abd al-Rahman reported that when Allah's Messenger (ﷺ) married
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Abdullah bin Abu Bakar] dari [Abdul Malik bin Abu Bakar bin Abdurrahman] bahwa ketika Rasulullah shallallahu 'alaihi wasallam menikahi Ummu Salamah, di pagi harinya beliau bersabda kepadanya: "Bukannya saya menghinakan keluargamu, jika kamu menghendaki, maka saya akan tinggal tujuh hari bersamamu, dan jika kamu menghendaki saya akan tinggal bersamamu selama tiga hari, kemudian saya gulirkan." Dia (Ummu Salamah) menjawab; "(Tinggalah) tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3622</td></tr><tr><td>Arabic No</td><td>1460.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3622</td></tr><tr><td>Arabic No</td><td>1460.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 55</td></tr></tbody></table></div>
 

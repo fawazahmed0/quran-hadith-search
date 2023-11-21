@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The prayer offered in congregation
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Mu'awanah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Shalat berjama'ah lebih utama dari shalatnya sendirian di rumah atau di pasarnya sebanyak dua puluh lima derajat. Jika salah seorang dari kalian berwudlu lalu membaguskan wudlunya kemudian mendatangi masjid dengan tidak ada tujuan lain kecuali shalat, maka tidak ada langkah yang dilakukannya kecuali Allah akan mengangkatnya dengan langkah itu setinggi satu derajat, dan mengahapus darinya satu kesalahan hingga dia memasuki masjid. Dan jika dia telah memasuki masjid, maka dia akan dihitung dalam keadaan shalat selagi dia meniatkannya, dan para malaikat akan mendoakannya selama dia masih berada di tempat yang ia gunakan untuk shalat, 'Ya Allah ampunkanlah dia. Ya Allah rahmatilah dia'. Selama dia belum berhadats
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>477</td></tr><tr><td>Arabic No</td><td>477</td></tr><tr><td>Reference</td><td>Book 8 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Общая молитва превосходит молитву (человека, совершаемую) им у себя дома или на рынке, в двадцать пять раз, ибо, поистине, если кто-нибудь из вас совершит омовение должным образом, а затем явится в мечеть с единственной целью совершить молитву, то за каждый сделанный им шаг Аллах обязательно станет возвышать его на одну степень и снимать с него одно прегрешение до тех пор, пока он не войдёт в мечеть. А когда (человек) войдёт туда, (будет считаться, что) он занят молитвой всё то время, пока он станет ожидать её (начала), и ангелы будут продолжать молить Аллаха помиловать его всё то время, пока он будет оставаться на месте совершения своей молитвы, (говоря): “О Аллах, прости его, о Аллах, оказывай ему милость Свою, пока он не осквернится!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>477</td></tr><tr><td>Arabic No</td><td>477</td></tr><tr><td>Reference</td><td>Book 8 Hadith 125</td></tr></tbody></table></div>
 

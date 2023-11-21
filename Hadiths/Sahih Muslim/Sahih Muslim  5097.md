@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de 'Alî Ibn 'Abî Tâlib (que Dieu l'agrée), Abou 'Ubayd a dit : "J'ass
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul Jabar bin Al 'Ala'] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhri] dari [Abu 'Ubaid] dia berkata, "Saya pernah mengikuti shalat Iedul Adlha bersama [Ali bin Abu Thalib], dia memulai shalat terlebih dahulu sebelum khutbah seraya berkata, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam melarang kita memakan daging kurban setelah tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>1969.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>1969.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 34</td></tr></tbody></table></div>
 

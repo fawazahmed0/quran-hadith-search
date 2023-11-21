@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:While I was asleep I saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Sa'id bin Al Musayyab]; Telah mengabarkan kepadanya dia medengar [Abu Hurairah] berkata; 'Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku sedang tidur, tiba-tiba aku bermimpi aku berada di sebuah sumur yang ada timbanya. Kemudian aku menimba air dari sumur itu dengan izin Allah. Lalu Ibnu Abu Quhafah mengambil timba itu dan menimba air sekali atau dua kali dari sumur tersebut dengan susah payah. Hingga ia sudah tidak kuat lagi. Tak lama kemudian timba tersebut dipegang oleh Umar bin Khathtab maka aku tidak pernah melihat orang kuat yang mampu menimba air seperti Umar bin Khaththab, hingga orang-orang berkerumun di dekat sumur tersebut, memberi minum untuk mereka." Dan telah menceritakan kepadaku ['Abdul Malik bin Syu'aib bin Al Laits]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku]; Telah menceritakan kepadaku ['Uqail bin Khalid]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Amru An Naqid] dan [Al Hulwani] dan ['Abad bin Humaid] keduanya berkata; Telah menceritakan kepada kami [Ya'qub]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dia berkata; [Al A'raj] dan yang lainnya berkata; bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Aku melihat Ibnu Quhafah mengambil timba, …dan seterusnya seperti Hadits Az Zuhri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6192</td></tr><tr><td>Arabic No</td><td>2392.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6192</td></tr><tr><td>Arabic No</td><td>2392.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 23</td></tr></tbody></table></div>
 

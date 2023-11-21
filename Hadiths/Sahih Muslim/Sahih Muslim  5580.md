@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Musayyib reported:Mu'awiya came to Medina and he addressed us and he to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ghundar] dari [Syu'bah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] ia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Sa'id bin Al Musayyab] ia berkata; Suatu hari [Mu'awiyah] datang ke Madinah lalu dia berkhutbah di hadapan kami dan mengeluarkan seikat rambut, dia berkata: Sesungguhnya saya tidak pernah melihatnya seorangpun yang melakukannya kecuali orang Yahudi. Sesungguhnya hal ini pernah sampai kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau memberi nama dengan 'Az Zuur' (kebohongan dan kebatilan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5580</td></tr><tr><td>Arabic No</td><td>2127.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5580</td></tr><tr><td>Arabic No</td><td>2127.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 188</td></tr></tbody></table></div>
 

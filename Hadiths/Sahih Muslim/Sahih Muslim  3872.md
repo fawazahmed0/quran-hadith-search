@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Utsman An Naufali] telah menceritakan kepada kami [Abu 'Ashim]. Dan dari jalur lain, telah menceritakan kepadaku [Muhammad bin Hatim] sedangkan lafazhnya dari dia, telah menceritakan kepada kami [Rauh] dia berkata; Telah menceritakan kepada kami [Zakariyya' bin Ishaq] telah menceritakan kepada kami [Amru bin Dinar] bahwa dia mendengar [Jabir bin Abdullah] berkata; Rasulullah Shallallu 'alaihi wa sallam melarang menjual buah-buahan hingga nampak matangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3872</td></tr><tr><td>Arabic No</td><td>1536.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3872</td></tr><tr><td>Arabic No</td><td>1536.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 71</td></tr></tbody></table></div>
 

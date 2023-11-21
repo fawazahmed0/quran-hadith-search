@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported:The slave of Banu Bayada cupped
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abdullah bin Humaid] dan ini adalah lafadz Abd, keduanya berkata; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari ['Ashim] dari [Asy Sya'bi] dari [Ibnu Abbas] dia berkata, "Nabi shallallahu 'alaihi wasallam pernah dibekam oleh seorang budak kepunyaan Bani Bayadlah, kemudian Nabi shallallahu 'alaihi wasallam memberikan upah kepadanya dan menganjurkan kepada tuannya supaya meringankan tugas kewajibannya. Andaikata usaha bekam itu haram, tentu Nabi shallallahu 'alaihi wasallam tidak memberikan upah kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4042</td></tr><tr><td>Arabic No</td><td>1202.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4042</td></tr><tr><td>Arabic No</td><td>1202.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 81</td></tr></tbody></table></div>
 

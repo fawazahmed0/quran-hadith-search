@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:Allah's Messenger (ﷺ) said, "Whoever does not rec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Adullah] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami [Az Zuhri] dari [Mahmud bin Ar Rabi'] dari ['Ubadah bin Ash Shamit], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada shalat bagi yang tidak membaca Faatihatul Kitab (Al Fatihah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>756</td></tr><tr><td>Arabic No</td><td>756</td></tr><tr><td>Reference</td><td>Book 10 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убады ибн ас-Самита, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не совершил молитву тот, кто не прочитал (суру) открывающую Писание»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>756</td></tr><tr><td>Arabic No</td><td>756</td></tr><tr><td>Reference</td><td>Book 10 Hadith 150</td></tr></tbody></table></div>
 

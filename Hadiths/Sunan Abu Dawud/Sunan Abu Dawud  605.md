@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] dari [Malik] dari [Hisyam bin Urwah] dari [Ayahnya] dari [Aisyah] istri Nabi shallallahu 'alaihi wasallam, bahwasanya dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah shalat di rumahnya dengan duduk, kemudian orang-orang shalat di belakang beliau dengan berdiri, maka beliau mengisyaratkan kepada mereka untuk duduk. Tatkala selesai, beliau bersabda: "Imam itu dijadikan hanyalah untuk diikuti, apabila dia rukuk maka rukuklah kalian, apabila dia bangkit maka bangkitlah kalian, dan apabila dia shalat dengan duduk maka shalatlah kalian dengan duduk." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Yazid bin Khalid bin Mauhib] dengan makna. Bahwasanya [Al-Laits] telah menceritakan kepada mereka dari [Abu Az-Zubair] dari [Jabir] dia berkata; Nabi shallallahu 'alaihi wasallam sakit, maka kami shalat di belakang beliau sedangkan beliau dalam keadaan duduk dan Abu Bakar bertakbir untuk memperdengarkan takbir beliau kepada para makmu, kemudian dia menyebutkan hadits secara lengkap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (688) Sahih Muslim (412)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 2 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша жена Пророка ﷺ сказала: «(Однажды, когда) Посланник Аллаха ﷺ сидя совершал молитву у себя дома, люди стали молиться за ним стоя, и он сделал им знак рукой, чтобы они сели. Закончив молитву, он сказал: “Поистине, имам назначается для того, чтобы (во время молитвы) другие следовали за ним, и если он совершает поясной поклон, то кланяйтесь вместе с ним, если он поднимет (голову), поднимайте и вы, а если он молится сидя, то молитесь сидя и вы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (688) Sahih Muslim (412)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 2 Hadith 215</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. 'Abbas:That he spent a night with Maimunah, wife of the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (992) Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1367</td></tr><tr><td>Arabic No</td><td>1367</td></tr><tr><td>Reference</td><td>Book 5 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды он остался ночевать у жены Пророка ﷺ Маймуны, которая была тёткой Ибн ‘Аббаса со стороны матери: «Я улёгся поперёк постели, а Посланник Аллаха ﷺ со своей женой вдоль неё. И Посланник Аллаха ﷺ спал примерно до середины ночи, а потом проснулся, сел и начал протирать лицо, чтобы разогнать сон. Затем он прочитал десять последних аятов суры “аль-‘Имран”, подошёл к старому бурдюку, подвешенному к потолку, совершил омовение должным образом, а потом встал на молитву». ‘Абдуллах сказал: «И я тоже поднялся, сделал всё то, что сделал он, а потом встал рядом с ним. Он же положил свою правую руку мне на голову, взял меня за ухо и слегка потрепал его. Потом он совершил два рак‘ата молитвы, потом ещё два, потом ещё два, потом ещё два, потом ещё два, потом ещё два…» Аль-Ка‘наби сказал, что это было сказано шесть раз. Далее говорится: «…а потом ещё один. Затем он снова лёг и лежал, пока к нему не пришёл муаззин, и тогда он поднялся, совершил молитву в два лёгких рак‘ата, а потом вышел из дома и совершил утреннюю молитву (в мечети)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (992) Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1367</td></tr><tr><td>Arabic No</td><td>1367</td></tr><tr><td>Reference</td><td>Book 5 Hadith 118</td></tr></tbody></table></div>
 

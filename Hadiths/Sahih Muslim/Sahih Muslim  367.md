@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Houdhayfa (que Dieu l'agrée) a dit : l'Envoyé de Dieu (paix et bénédiction d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mua'wiyah] dan [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Zaid bin Wahab] dari [Hudzaifah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam telah menceritakan kepada kami dua hadits, aku telah mengetahui salah satu darinya, dan aku masih menunggu Hadits yang kedua. Beliau menceritakan kepada kami bahwa Amanah ditempatkan pada pangkal hati seorang lelaki. Setelah al-Qur'an diturunkan, mereka mulai mempelajari dari al-Qur'an dan mereka mulai mengetahui dari Sunnah. Lalu beliau menceritakan kepada kami tentang hilangnya amanah dengan bersabda: "Seorang lelaki sedang tidur lalu amanah diambil dari hatinya sehingga nampaklah bekasnya. Kemudian dia tidur lagi lalu diambil pula amanah dari hatinya sehingga bekasnya bengkak seperti melepuh karena terkena bara yang jatuh ke kaki. Bekas tersebut terus membengkak, sedangkan tidak ada apa-apa di dalamnya, " lalu beliau mengambil batu kecil lalu menjatuhkannya ke kaki beliau. Orang-orang kembali meneruskan perdagangan masing-masing. Hampir tidak ada seorang pun yang menunaikan amanah, lantas dikatakan, 'Di kalangan Bani Fulan ada seorang lelaki yang sangat amanah. Sehingga dikatakan untuk laki-laki tersebut, 'Alangkah tabahnya! Alangkah cerdasnya! Alangkah pintarnya! ' Sedangkan di hatinya tidak ada iman walaupun sebesar biji sawi. Benar-benar telah datang kepadaku suatu zaman, dan aku tidak peduli kepada siapa di antara kalian yang mana aku berjual beli dengannya. Jika dia orang Islam maka agamanya akan mencegahnya mengkhianatiku. Seandainya dia seorang Nashrani atau Yahudi maka pemimpinnya akan mencegahnya dari mengkhianatiku. Adapun hari ini, aku hanya berjual beli dengan si Fulan dan si Fulan." Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] dan [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami [Isa bin Yunus] semuanya dari [al-A'masy] dengan sanad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>367</td></tr><tr><td>Arabic No</td><td>143.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузейфа рассказывал: «Посланник Аллаха ﷺ сообщил нам о двух (вещах), и первое (из того, о чём он говорил), я уже видел, а теперь ожидаю и второго. Он сообщил нам, что ответственность /амана/ была ниспослана в самую основу сердец людей, а потом они узнали об этом из Корана и узнали из Сунны. А потом он сообщил нам об удалении этой ответственности, сказав: “Заснёт человек ненадолго, и будет взята это ответственность из сердца его, и останется от неё только еле заметный след. Потом снова заснёт он ненадолго, и будет взята это ответственность из сердца его (полностью), после чего останется от неё только след наподобие волдыря. Это как если бы ты уронил на ногу раскалённый уголь и увидел, что место, на которое он упал, вздулось, но внутри него ничего нет”. А потом люди станут заключать друг с другом сделки, но никто из них не будет и собираться возвращать доверенное ему! (И дело дойдёт до того, что) будут говорить: “Есть среди (людей такого-то племени) надёжный человек”. И о человеке скажут: “Не найти более разумного, более сообразительного и более стойкого, чем он”, хотя в сердце его не будет веры и на вес горчичного зерна!»(Хузейфа сказал): «И я дожил до такого времени, когда мне не приходилось задумываться о том, с кем из вас вести торговые дела, ибо если человек был мусульманином, то (доверенное) обязательно возвращала мне (его) религия, если же он был христианином, то это непременно возвращал мне его правитель. А сегодня я не могу заключить сделку ни с кем, кроме такого-то и такого-то!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>367</td></tr><tr><td>Arabic No</td><td>143.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 274</td></tr></tbody></table></div>
 

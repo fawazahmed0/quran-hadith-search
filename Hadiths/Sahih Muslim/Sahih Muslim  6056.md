@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Apostle (ﷺ) came to the house of Umm Sulai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami [Hujain bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Abu Salamah dari [Ishaq bin 'Abdillah bin Abu Thalhah] dari [Anas bin Malik] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah berkunjung ke rumah Ummu Sulaim. Lalu beliau tidur di atas tempat tidur Ummu Sulaim, ketika ia sedang tidak berada di rumah. Anas berkata; 'Pada suatu hari, Rasulullah shallallahu 'alaihi wasallam datang ke rumah kami dan tidur di atas tempat tidur Ummu Sulaim. Kemudian Ummu Sulaim disuruh pulang dan diberitahu bahwasannya Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam sedang tidur di atas tempat tidurnya. Anas berkata; 'Ketika Ummu Sulaim tiba di rumah, Nabi shallallahu 'alaihi wasallam telah berkeringat, dan keringat beliau tergenang di tikar kulit di atas tempat tidur.' Maka Ummu Sulaim segera membuka tasnya dan segera mengusap keringat Rasulullah dengan sapu tangan dan memerasnya ke dalam sebuah botol. Tiba-tiba Nabi shallallahu 'alaihi wasallam terbangun dan terkejut seraya berkata; 'Apa yang kamu lakukan hai Ummu Sulaim? Ummu Sulaim menjawab; 'Ya Rasulullah, kami mengharapkan keberkahan keringat engkau untuk anak-anak kami. Rasulullah shallallahu 'alaihi wasallam bersabda: "Kamu benar hai Ummu Sulaim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6056</td></tr><tr><td>Arabic No</td><td>2331.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6056</td></tr><tr><td>Arabic No</td><td>2331.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 114</td></tr></tbody></table></div>
 

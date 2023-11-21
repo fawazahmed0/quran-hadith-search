@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il ibn Hujr: I purposely looked at the prayer of the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr bin Al Mufadlal] dari ['Ashim bin Kulaib] dari [ayahnya] dari [wa'il bin Hujr] dia berkata; kataku; "Sungguh aku benar-benar akan melihat shalat Rasulullah shallallahu 'alaihi wasallam, dan melihat bagaimana beliau tata cara beliau shalat." Wa'il berkata; asulullah shallallahu 'alaihi wasallam berdiri menghadap kiblat, kemudian beliau bertakbir sambil mengangkat kedua tangannya hingga sejajar dengan kedua telinganya, kemudian tangan kanannya memegang tangan kirinya, ketika beliau hendak ruku', beliau mengangkat kedua tangannya seperti tadi, kemudian beliau meletakkan kedua tangannya di atas kedua lututnya, ketika beliau hendak mengangkat kepalanya dari ruku' (i'tidal) beliau mengangkat kedua tangannya lagi seperti tadi, dan ketika sujud, beliau meletakkan kepalanya di tempat tersebut yaitu di antara kedua tangannya kemudian beliau duduk dengan bertumpu di atas kaki yang kiri dan meletakkan tangan kiri di atas paha kiri dan merenggangkan siku yang kanan pada paha yang kanan, menggenggam kedua jarinya dengan membentuk seperti lingkaran, aku melihat beliau memberi tanda demikian -Bisyr memperragakan dengan membentuk seperti lingkaran dengan ibu jari dan jari tengah- telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Za'idah] dari ['Ashim bin Kulaib] dengan isnad dan maknanya, (dalam haditsnya) dia mengatakan; "Kemudian beliau meletakkan tangan kanannya di atas punggung telapak tangan kirinya dan pergelangan tangan kirinya." Dia juga mengatakan; "Setelah itu aku datang ketika musim dingin tiba, maka aku melihat orang-orang berselimutkan pakaian dan tangan-tangan mereka bergerak di bawah pakaian tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>726</td></tr><tr><td>Arabic No</td><td>726</td></tr><tr><td>Reference</td><td>Book 2 Hadith 336</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Уаиль ибн Худжр сказал: «Я сказал (себе): "Я обязательно посмотрю на молитву Посланника Аллаха ﷺ как он её совершает!"»Он сказал: «Посланник Аллаха ﷺ встал, повернулся в сторону киблы, произнес такбир и поднял руки на уровень ушей, после чего обхватил левую руку правой. Когда он захотел совершить поясной поклон, то поднял их таким же образом, затем поставил руки на свои колени, а когда поднимал голову с поясного поклона, он поднял их таким же образом. Совершая земной поклон, он поставил голову на место между руками, затем он сел и распростёр левую ногу (подогнув её под себя), положил левую руку на левое бедро, а правый локоть возложил на правое бедро, согнул два (пальца) и образовал кольцо (большим и средними пальцами). И я видел, как он говорил таким образом, (после чего) Бишр (ибн аль-Муфаддаль) образовал кольцо большим и средним пальцами и поднял указательный палец (правой руки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>726</td></tr><tr><td>Arabic No</td><td>726</td></tr><tr><td>Reference</td><td>Book 2 Hadith 336</td></tr></tbody></table></div>
 

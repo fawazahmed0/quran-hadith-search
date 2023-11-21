@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hudhaifah b. Asid al-Ansari said :We were sitting in the shade of the chamber of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Hannad] secara makna, [Musaddad] berkata; telah menceritakan kepada kami [Abu Al Ahwash] berkata, telah menceritakan kepada kami [Furat Al Qazzaz] dari [Amir bin Watsilah]. Dan [Hannad] berkata dari [Abu Thufail] dari [Hudzaifah bin Asid Al Ghifari] ia berkata, "Kami duduk bersama di sisi kamar Rasulullah shallallahu 'alaihi wasallam sambil membicarakan seputar hari kiamat, suara kami sangat keras hingga Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi, atau tidak akan datang hari kiamat hingga muncul sepuluh tanda; terbitnya matahari dari barat, munculnya binatang melata, keluarnya Ya'juj dan Ma'juj, Dajjal, Isa putera Maryam, asap dan tiga gempa bumi (longsor), longsor di barat, timur dan di Jazirah Arab. Dan tanda terakhir adalah keluarnya api dari Yaman, dari dasar tanah Adn yang akan menggiring manusia menuju mahsyar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4311</td></tr><tr><td>Arabic No</td><td>4311</td></tr><tr><td>Reference</td><td>Book 39 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа ибн Усайд аль-Гифари, да будет доволен им Аллах, передаёт: «Мы беседовали и начали говорить о Судном дне возле одной из комнат Посланника Аллаха ﷺ и, когда наши голоса сделались громкими, Посланник Аллаха ﷺ сказал: “Поистине, Судный день не наступит, пока не увидите вы десять знамений: (это) восход солнца на западе, появление животного, выход Яъджуджа и Маъджуджа, Даджжаль, ‘Иса ибн Марьям (второе пришествие), дым и три провала на востоке, на западе и на Аравийском полуострове. А последнее из этих знамений огонь, который появится из Адена (в Йемене) и погонит людей к месту сбора /махшар/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4311</td></tr><tr><td>Arabic No</td><td>4311</td></tr><tr><td>Reference</td><td>Book 39 Hadith 21</td></tr></tbody></table></div>
 

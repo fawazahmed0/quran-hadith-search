@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Fudlail], [Abu Bakar] berkata; dari [Abu Sinan], dan [Ibnu Al Mutsanna] berkata; dari [Dlirar bin Murrah] dari [Muharib] dari [Ibnu Buraidah] dari [ayahnya]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Muhammad bin Fudlail] telah menceritakan kepada kami [Dlirar bin Murrah Abu Sinan] dari [Muharib bin Ditsar] dari [Abdullah bin Buraidah] dari [ayahnya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku pernah melarang kalian berziarah kubur, sekarang berziarahlah. Saya juga pernah melarang kalian makan daging kurban setelah tiga hari, sekarang simpanlah untuk keperluan kalian. Dan saya juga pernah melarang kalian meminum anggur kecuali jika dalam bejana minum, sekarang minumlah dalam semua bejana kalian, tetapi jangan sekali-kali kamu minum yang memabukkan." Dan telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepada kami [Adl Dlahak bin Makhlad] dari [Sufyan] dari ['Alqamah bin Martsad] dari [Ibnu Buraidah] dari [ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku pernah melarang kalian…kemudian ia menyebutkan hadits Abu Sinan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5114</td></tr><tr><td>Arabic No</td><td>977.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5114</td></tr><tr><td>Arabic No</td><td>977.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 81</td></tr></tbody></table></div>
 

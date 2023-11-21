@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ ta' b. Yasar reported that he had asked Zaid b. Thabit about recital along with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibn Juhr]. Yahya bin Yahya mengatakan; telah mengabarkan kepada kami, sedangkan yang lain mengatakan; telah menceritakan kepada kami [Ismail yaitu Ibnu Ja'far] dari [Yazid bin Khushaifah] dari [Ibn Qusaith] dari ['Atha' bin Yasar], bahwa dia pernah memberitahukan kepadanya, ia bertanya kepada [Zaid bin Tsabit] tentang bacaan bersama imam, Zaid berujar; "Tak ada bacaan bersama imam." seingatnya, ia pernah menyetorkan hafalan kepada Rasulullah shallallahu 'alaihi wasallam ayat Wannajmi (surat annajm), namun beliau tidak bersujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1298</td></tr><tr><td>Arabic No</td><td>577</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата ибн Ясар рассказывал, что, когда он спросил Зейда ибн Сабита о чтении (Корана) вместе с имамом (во время совершения молитвы), он ответил: «Ничего не читается вместе с имамом». А также он (Зейд ибн Сабит) утверждал, что (однажды) в присутствии Посланника Аллаха ﷺ он прочитал (суру, начинающуюся словами) «Клянусь звездой, когда она падает», однако (Пророк ﷺ) не совершил земного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1298</td></tr><tr><td>Arabic No</td><td>577</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
 

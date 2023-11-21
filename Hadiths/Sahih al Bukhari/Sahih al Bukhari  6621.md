@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Abu Bakr As-Siddiq had never broken his oaths till Allah reveale
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abul Hasan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Hisyam bin Urwah] dari [ayahnya] dari [Aisyah], bahwasanya [Abu Bakr] radliallahu 'anhu belum pernah bersumpah hingga Allah menurunkan kaffarat sumpah, dan dia mengatakan; 'Tidaklah aku bersumpah, kemudian aku melihat yang lainnya lebih baik, melainkan aku melakukan yang lebih baik dan aku membayar kaffarat sumpahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6621</td></tr><tr><td>Arabic No</td><td>6621</td></tr><tr><td>Reference</td><td>Book 83 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что Абу Бакр, да будет доволен им Аллах, никогда не нарушал клятвы, пока не было ниспослано Аллахом предписание об искуплении нарушенных клятв. Тогда он сказал: «Какую бы клятву я ни дал, если я вижу, что лучше поступить по-другому, я делаю то, что мне представляется лучшим, и искупаю нарушенную клятву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6621</td></tr><tr><td>Arabic No</td><td>6621</td></tr><tr><td>Reference</td><td>Book 83 Hadith 1</td></tr></tbody></table></div>
 

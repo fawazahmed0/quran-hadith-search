@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Samura b. Jundab reported that when Allah's Messenger (ﷺ) had performed his da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Wahab bin Jarir] Telah menceritakan kepada kami [Bapakku] dari [Abu Raja' Al 'Utharidi] dari [Samurah bin Jundab] radliallahu 'anhu dia berkata; "Apabila Nabi shallallahu 'alaihi wasallam selesai shalat shubuh, beliau menghadap mukanya kepada para jama'ah dan pernah bertanya: "Adakah di antara kalian yang bermimpi indah semalam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5937</td></tr><tr><td>Arabic No</td><td>2275</td></tr><tr><td>Reference</td><td>Book 42 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5937</td></tr><tr><td>Arabic No</td><td>2275</td></tr><tr><td>Reference</td><td>Book 42 Hadith 41</td></tr></tbody></table></div>
 

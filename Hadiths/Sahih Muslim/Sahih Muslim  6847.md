@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The uttering of (these wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] mereka berdua berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Sesungguhnya membaca doa, Maha Suci Allah, segala puji bagi Allah, tiada Tuhan selain Allah, dan Allah Maha Besar adalah lebih aku cintai daripada segala sesuatu yang terkena oleh sinar matahari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6847</td></tr><tr><td>Arabic No</td><td>2695</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Произносить слова “Cубхана-Ллах /пречист Аллах/”, “Аль-хамду ли-Ллях /хвала Аллаху/”, “Ля иляха илля-Ллах /Нет божества, достойного поклонения, кроме Аллаха/” и “Аллаху акбар /Аллах превелик/” я люблю больше, чем всё, над чем восходит солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6847</td></tr><tr><td>Arabic No</td><td>2695</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
 

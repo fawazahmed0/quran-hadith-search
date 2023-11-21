@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Buhaina Al-Asdi:(the ally of Bani 'Abdul Muttalib) Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Al A'raj] dari ['Abdullah Ibnu Buhainah Al Asadiy] sekutunya suku 'Abdul Muthalib bahwa Rasulullah shallallahu 'alaihi wasallam mendirikan shalat Zhuhur namun tidak melakukan duduk (tasyahud awal). Setelah Beliau menyempurnakan shalatnya, Beliau sujud dua kali, dan Beliau bertakbir pada setiap akan sujud dalam posisi duduk sebelum memberi salam. Maka orang-orang mengikuti sujud bersama Beliau sebagai ganti yang terlupa dari duduk (tasyahud awal). Hadits ini diperkuat oleh [Ibnu Juraij] dari [Ibnu Syihab] dalam masalah "takbir (dalam sujud sahwi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1230</td></tr><tr><td>Arabic No</td><td>1230</td></tr><tr><td>Reference</td><td>Book 22 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Бухайна аль-Асди, который был союзником бану ‘абдульмутталиб, сказал, что однажды Посланник Аллаха ﷺ совершая молитву зухр, встал, (не посидев после двух рак‘атов). И когда он закончил молитву, он совершил сидя два земных поклона, произнося такбир при каждом поклоне, до произнесения таслима. Люди тоже совершили два земных поклона вместо сидения, которое он забыл
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1230</td></tr><tr><td>Arabic No</td><td>1230</td></tr><tr><td>Reference</td><td>Book 22 Hadith 8</td></tr></tbody></table></div>
 

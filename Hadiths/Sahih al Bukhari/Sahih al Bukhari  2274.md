@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:Ibn 'Abbas said, "The Prophet (ﷺ) forbade the meeting of carava
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Ma'mar] dari [Ibnu Thowus] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma]; Rasulullah shallallahu 'alaihi wasallam melarang menyongsong (mencegat) kafilah dagang (sebelum mereka tahu harga di pasar) dan melarang pula orang kota menjual kepada orang desa. Aku bertanya kepada Ibnu 'Abbas radliallahu 'anhuma: "Apa arti sabda Beliau " dan janganlah orang kota menjual kepada orang desa ". Dia menjawab: "Janganlah seseorang jadi perantara bagi orang kota
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2274</td></tr><tr><td>Arabic No</td><td>2274</td></tr><tr><td>Reference</td><td>Book 37 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ запретил встречать караваны и запретил оседлому продавать за бедуина». Ибн ‘Аббаса спросили: «Что (означают) его слова “Пусть оседлый не продаёт за бедуина”?». Он сказал: «(Оседлый) не (должен) быть посредником для него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2274</td></tr><tr><td>Arabic No</td><td>2274</td></tr><tr><td>Reference</td><td>Book 37 Hadith 14</td></tr></tbody></table></div>
 

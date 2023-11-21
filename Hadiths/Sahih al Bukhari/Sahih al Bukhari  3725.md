@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:On the day of the battle of Uhud the Prophet (ﷺ) mentioned for m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Al Mutsannaa] telah bercerita kepada kami ['Abdul Wahhab] berkata, aku mendengar [Yahya] berkata, aku mendengar [Sa'id bin Al Musayyab] berkata, aku mendengar [Sa'ad] berkata; "Nabi shallallahu 'alaihi wasallam menyertakan kedua orangtua beliau sebagai tebusanku pada perang Uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3725</td></tr><tr><td>Arabic No</td><td>3725</td></tr><tr><td>Reference</td><td>Book 62 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас, да будет доволен им Аллах, сказал: «В день (битвы при) Ухуде Пророк ﷺ (помянул) ради меня своих родителей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3725</td></tr><tr><td>Arabic No</td><td>3725</td></tr><tr><td>Reference</td><td>Book 62 Hadith 72</td></tr></tbody></table></div>
 

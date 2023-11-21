@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who kept a dog which i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa memelihara anjing selain anjing untuk berburu dan anjing untuk menjaga hewan ternak dan anjing untuk menjaga tanaman, maka pahalanya akan dikurangi dua qirath setiap harinya." Namun dalam riwayatnya Abu Thahir tidak disebutkan, "Anjing untuk menjaga tanaman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4030</td></tr><tr><td>Arabic No</td><td>1575.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4030</td></tr><tr><td>Arabic No</td><td>1575.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 69</td></tr></tbody></table></div>
 

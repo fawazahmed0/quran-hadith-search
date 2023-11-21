@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:I asked 'Aisha what did the Prophet (ﷺ) use to do at home. S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dia berkata; saya bertanya kepada [Aisyah] "Apakah Nabi shallallahu 'alaihi wasallam pernah ikut membantu pekerjaan rumah isterinya?" Aisyah menjawab; "Beliau suka membantu pekerjaan rumah isterinya, apabila tiba waktu shalat, maka beliau beranjak untuk melaksanakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6039</td></tr><tr><td>Arabic No</td><td>6039</td></tr><tr><td>Reference</td><td>Book 78 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Асвад сказал: «(Однажды) я спросил ‘Аишу: “Чем занимался Пророк ﷺ у себя дома?” Она ответила: “Он помогал (какой-нибудь из) своих жён в работе по дому, а с наступлением времени молитвы, он отправлялся (совершать её)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6039</td></tr><tr><td>Arabic No</td><td>6039</td></tr><tr><td>Reference</td><td>Book 78 Hadith 69</td></tr></tbody></table></div>
 

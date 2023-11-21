@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard Allah's Messenger (ﷺ) saying, "All of you are Guard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Muhammad Al Marwazi] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] berkata, telah mengabarkan kepada kami [Salim bin 'Abdullah] dari [Ibnu 'Umar] radliallahu 'anhuma, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap kalian adalah pemimpin." [Al Laits] menambahkan; [Yunus] berkata; Ruzaiq bin Hukaim menulis surat kepada [Ibnu Syihab], dan pada saat itu aku bersamanya di Wadi Qura (pinggiran kota), "Apa pendapatmu jika aku mengumpulkan orang untuk shalat Jum'at?" -Saat itu Ruzaiq bertugas di suatu tempat dimana banyak jama'ah dari negeri Sudan dan yang lainnya, yaitu di negeri Ailah-. Maka Ibnu Syihab membalasnya dan aku mendengar dia memerintahkan (Ruzaiq) untuk mendirikan shalat Jum'at. Lalu mengabarkan bahwa [Salim] telah menceritakan kepadanya, bahwa ['Abdullah bin 'Umar] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap kalian adalah pemimpin, dan setiap pemimpin akan dimintai pertanggung jawaban atas yang dipimpinnya. Imam adalah pemimpin yang akan diminta pertanggung jawaban atas rakyatnya. Seorang suami adalah pemimpin dan akan dimintai pertanggung jawaban atas keluarganya. Seorang isteri adalah pemimpin di dalam urusan rumah tangga suaminya, dan akan dimintai pertanggung jawaban atas urusan rumah tangga tersebut. Seorang pembantu adalah pemimpin dalam urusan harta tuannya, dan akan dimintai pertanggung jawaban atas urusan tanggung jawabnya tersebut." Aku menduga Ibnu 'Umar menyebutkan: "Dan seorang laki-laki adalah pemimpin atas harta bapaknya, dan akan dimintai pertanggung jawaban atasnya. Setiap kalian adalah pemimpin dan setiap pemimpin akan dimintai pertanggung jawaban atas yang dipimpinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Каждый из вас является пастырем, и каждый из вас несет ответственность за свою паству. Правитель является пастырем (для своих подданных) и несет ответственность за свою паству, мужчина является пастырем для своей семьи и несет ответственность за свою паству, женщина является пастырем в доме своего мужа и несет ответственность за свою паству, слуга является пастырем для имущества своего хозяина и несет ответственность за свою паству”». (Передатчик этого хадиса) сказал: «И я считаю, что (Ибн ‘Умар, да будет доволен Аллах ими обоими, также) сказал: “…и мужчина является пастырем для имущества своего отца и несет ответственность за свою паству, и так, каждый из вас является пастырем и (каждый из вас) несет ответственность за свою паству”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
 

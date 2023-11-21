@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata:We presented ourselves along with Ibn 'Abbas at the funeral proces
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] telah mengabarkan kepada mereka, ia berkata; Telah mengabarkan kepadaku [Atha'] ia berkata; Kami pernah menghadiri jenazah Maimunah bersama Ibnu Abbas di Saif, lalu [Ibnu Abbas] berkata, "Ini adalah salah seorang isteri Nabi shallallahu 'alaihi wasallam. Jika kalian mengangkat usungannya, maka janganlah kalian menggoncangkannya dengan keras, kokohkanlah dengan sempurna. Sesungguhnya di sisi Nabi shallallahu 'alaihi wasallam ada sembilan orang isteri, beliau membagi hari-hari kepada delapan orang, sementara kepada yang satu orang tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5067</td></tr><tr><td>Arabic No</td><td>5067</td></tr><tr><td>Reference</td><td>Book 67 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата рассказывал: «Мы присутствовали вместе с Ибн ’Аббасом на похоронах Маймуны в месте под названием Сариф. Ибн ‘Аббас сказал: “Это — жена Пророка ﷺ. Когда вы поднимете её носилки, то не трясите и не качайте их, однако проявите мягкость. Ведь у Пророка ﷺ было девять жён, с восьмью из них он делил ночь, а с одной — нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5067</td></tr><tr><td>Arabic No</td><td>5067</td></tr><tr><td>Reference</td><td>Book 67 Hadith 5</td></tr></tbody></table></div>
 

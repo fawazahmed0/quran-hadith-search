@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported that Abu Bakr, 'Umar and Ibn Umar used to halt at Abtah. 'Urwa na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari Salim bahwasanya; Abu Bakar, Umar dan Ibnu Umar semuanya singgah di Abthah. Zuhri berkata, telah mengabarkan kepadaku [Urwah], dari [Aisyah] bahwa ia tidak pernah melakukan hal itu. Aisyah berkata, "Rasulullah shallallahu 'alaihi wasallam singgah, hanya karena tempat itu lebih luas dan leluasa untuk keluarnya belau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3171</td></tr><tr><td>Arabic No</td><td>1311.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 375</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3171</td></tr><tr><td>Arabic No</td><td>1311.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 375</td></tr></tbody></table></div>
 

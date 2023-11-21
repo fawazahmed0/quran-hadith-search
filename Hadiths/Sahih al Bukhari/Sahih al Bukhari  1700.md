@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Bakr bin 'Amr bin Hazm:That 'Amra bint 'Abdur-Rahman 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Abu Bakar bin 'Amru bin Hazm] dari ['Amrah binti 'Abdurrahman] bahwasanya dia mengabarkan bahwa Ziyad bin Abu Sufyan menulis surat kepada ['Aisyah radliallahu 'anha] bahwa 'Abdullah bin 'Abbas radliallahu 'anhuma berkata: "Barangsiapa yang membawa hewan qurban maka haram baginya sebagaimana diharamkan terhadap orang yang berhajji hingga dia menyembelih hewan qurbannya". 'Amrah berkata; Maka dia ('Aisyah radliallahu 'anha) berkata: "Bukan begitu halnya sebagaimana yang dikatakan Ibnu 'Abbas radliallahu 'anhu. Sungguh aku telah mengikatkan kalung (sebagai tanda) pada hewan qurban Rasulullah Shallallahu'alaihiwasallam dengan tanganku sendiri lalu Rasulullah Shallallahu' alaihi wasallam mengikatnya dengan tangan Beliau lalu mengirimnya bersama bapakku. Dan tidak menjadi diharamkan bagi Rasulullah Shallallahu'alaihiwasallam sesuatu yang Allah halalkan hingga hewan qurbannya disembelih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1700</td></tr><tr><td>Arabic No</td><td>1700</td></tr><tr><td>Reference</td><td>Book 25 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что, когда ‘Аиша, да будет доволен ею Аллах, узнала, что ‘Абдуллах бин ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Для того, кто посылает свой жертвенный скот (к Каабе), вплоть до жертвоприношения становится запретным всё то, что запрещается совершающему хадж», она сказала: «Дело обстоит не так, как говорит Ибн ‘Аббас, ибо (сначала) я своими руками вила верёвки для жертвенного скота Посланника Аллаха ﷺ потом Посланник Аллаха ﷺ собственноручно повязывал ими шеи животных, а потом он отправил их (в Мекку) с моим отцом, однако ничто из дозволенного Аллахом не стало запретным для Посланника Аллаха ﷺ (в оставшиеся) до жертвоприношения (дни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1700</td></tr><tr><td>Arabic No</td><td>1700</td></tr><tr><td>Reference</td><td>Book 25 Hadith 178</td></tr></tbody></table></div>
 

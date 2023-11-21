@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr bin Shu'aib on his father's authority told that his grandfather said:The Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Muhammad bin Rasyid] telah menceritakan kepada kami [Sulaiman bin Musa] dari ['Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah menolak persaksian orang laki-laki dan perempuan yang berkhianat serta orang yang memiliki kedengkian terhadap saudaranya. Dan beliau menolak persaksian orang yang bekerja untuk penghuni rumah, dan beliau memperbolehkan persaksian tersebut untuk orang selain mereka." Abu Daud berkata, "Al Ghimru adalah permusuhan dan kebencian, sedangkan Al Qani' adalah buruh yang mengikuti seperti buruh special." Telah menceritakan kepada kami [Muhammad bin Khalaf bin Thariq Ar Razi] telah menceritakan kepada kami [Zaid bin Yahya bin 'Ubaid Al Khuza'i] telah menceritakan kepada kami [Sa'id bin Abdul 'Aziz] dari [Sulaiman bin Musa] dengan sanadnya, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh persaksian seorang laki-laki dan wanita yang berkhianat, dan tidak pula laki-laki serta wanita pezina dan orang yang memiliki kedengkian terhadap saudaranya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3600</td></tr><tr><td>Arabic No</td><td>3600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ своего деда о том, что Посланник Аллаха ﷺ отвергал свидетельство вероломного и вероломной, а также враждующего с тем, против кого свидетельствует, а также слуги обитателей дома, но принимал свидетельство (этого слуги) в пользу других
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3600</td></tr><tr><td>Arabic No</td><td>3600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 

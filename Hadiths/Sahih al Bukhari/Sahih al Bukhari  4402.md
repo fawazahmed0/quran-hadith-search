@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:We were talking about Hajjat-ul-Wada', while the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; Telah mengabarkan kepadaku [Ibnu Wahb] dia berkata; Telah menceritakan kepadaku ['Umar bin Muhammad] bahwa [Bapaknya] telah menceritakan kepadanya dari [Ibnu 'Umar radliallahu 'anhu] dia berkata; "Kami bincang-bincang tentang Haji Wada', pada waktu Nabi shallallahu 'alaihi wasallam berada bersama kami. Namun kami tidak mengetahui apa yang dimaksud dengan haji Wada'. Kemudian Rasulullah Shallallahu'alaihi wasallam berkhutbah dengan memuji Allah terlebih dahulu, lalu beliau menyebut-nyebut tentang Masih Ad Dajjal kemudian beliau terus menyebutnya berulang kali hingga beliau bersabda: "Tidaklah Allah mengutus seorang Nabi kecuali dia mengingatkan umatnya (dari bahaya Dajjal), Nuh telah mengingatkan umatnya dan juga para Nabi yang datang setelahnya. Ketahuilah bahwa Dajjal akan keluar kepada kalian, dan sekali-kali tidak tersembunyi dari kalian. Dan Rabb kalian pun tidak akan menyembunyikannya dari kalian. (beliau menyebutkan sebanyak tiga kali). Sesungguhnya Rabb kalian tidaklah buta sebelah. Sedangkan Dajjal buta mata sebelah kanannya. Matanya seperti buah anggur yang menjorok. Ketahuilah sesungguhnya Allah telah mengharamkan kepada kalian darah, dan harta kalian. Sebagaimana haramnya pada hari ini, di negeri ini dan bulan ini. Ketahuilah apakah aku sudah selesai menyampaikan? Mereka menjawab; 'Ya.' Beliau bersabda: 'Ya Allah, saksikanlah! (sebanyak tiga kali). Celakah kalian, janganlah kalian kembali menjadi kafir sepeninggalku, sehingga sebagian kalian memenggal leher sebagian yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4402</td></tr><tr><td>Arabic No</td><td>4402</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(Однажды, когда) Пророк ﷺ находился среди нас, мы стали говорить о Прощальном паломничестве, не зная о том, что это такое. И Посланник Аллаха ﷺ воздал хвалу Аллаху и восславил Его, после чего он долго говорил об Антихристе /аль-Масих ад-Даджаль/, сказав (среди прочего следующее): “Каждый Пророк, которого Аллах направлял к людям, обязательно предостерегал от него свою общину: предостерегал от него Нух и другие пророки, жившие после него. И, поистине, если он появится среди вас, то это от вас не останется скрытым, ибо известно вам, что Господь ваш не является кривым, а он (Даджаль) крив на правый глаз, и глаз его будет подобен выпуклой виноградине
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4402</td></tr><tr><td>Arabic No</td><td>4402</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

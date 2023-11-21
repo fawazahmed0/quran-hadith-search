@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hummaid As-Sa'idi:One night Allah's Messenger (ﷺ) (p.b.u.h) stood
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Urwah] dari [Abu Humaid As Sa'idi] bahwasanya dia mengabarkan kepadanya, bahwa setelah melaksanakan shalat di awal malam (Isya) Rasulullah shallallahu 'alaihi wasallam berdiri, lalu membaca syahadah dan puja pujnya kepada Allah dengan pujian yang layak (bagi Allah), beliau lalu mengucapkan: "Amma ba'du." Hadits ini dikuatkan oleh [Abu Mu'awiyyah] dan [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari [Abu Humaid As Sa'idi] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Amma ba'du." Dikuatkan juga oleh [Al 'Adani] dari [Sufyan] tentang ucapan 'Amma ba'du
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>925</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хумайда ас-Са‘иди, да будет доволен им Аллах, что однажды вечером Посланник Аллаха ﷺ поднялся после молитвы, произнес слова свидетельства, воздал хвалу Аллаху Всевышнему и возблагодарил Его подобающим образом, а потом сказал: «А затем…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>925</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 49</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When Allah's Messenger (ﷺ) married Zainab bint Jahsh, he made th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] Telah mengabarkan kepada kami [Abdullah bin Bakr As Sahmi] Telah menceritakan kepada kami [Humaid] dari [Anas radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam mengadakan walimah ketika menikah dengan Zainab binti Jahsy. Orang-orang pun merasa kenyang dengan roti dan daging. Kemudian beliau keluar ke kamar semua Ummul Mukminin, sebagaimana yang biasa beliau lakukan. Beliau mengucapkan salam kepada mereka dan mereka pun menjawab salam beliau. Beliau mendo'akan mereka, sebaliknya mereka pun mendo'akan beliau. Tatkala beliau kembali ke rumah, beliau melihat dua orang laki-laki sedang berbincang-bincang di rumah beliau. Melihat hal itu, beliau kembali dari rumahnya. Dan tatkala kedua orang itu melihat Nabi shallallahu 'alaihi wasallam kembali, mereka akhirnya cepat-cepat pulang. Aku tidak tahu, apakah aku telah mengabarkan kepada beliau atau belum, mengenai kepulangan kedua orang itu. Kemudian Nabi shallallahu 'alaihi wasallam kembali dan masuk ke rumah beliau seraya menutupkan tabir antara aku dan beliau. Pada waktu itu turun ayat hijab. [Ibnu Abu Maryam] berkata; Telah mengabarkan kepada kami [Yahya] Telah menceritakan kepadaku [Humaid] dia mendengar [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4794</td></tr><tr><td>Arabic No</td><td>4794</td></tr><tr><td>Reference</td><td>Book 65 Hadith 316</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, рассказывал: «Когда Посланник Аллаха ﷺ женился на Зейнаб бинт Джахш, он устроил свадебное угощение /валима/, накормил людей досыта хлебом и мясом. После этого, как он обычно и поступал наутро после первой брачной ночи, он отправился к комнатам остальных своих жён. Он приветствовал их миром /салям/ и возносил за них мольбы, а они, в свою очередь, приветствовали и возносили мольбы за него. Когда же он вернулся домой, он увидел в нём двух мужчин, которых увлекла их беседа. Увидев их, он стал уходить, а когда они заметили, что Пророк Аллаха ﷺ уходит из своего дома из-за их присутствия, они вскочили и поспешили выйти. Не помню, я сообщил ему об их уходе или ему было сообщено, но он вернулся в дом, а когда он вошёл в него, задвинул занавеску, отделившись ею от меня. И тогда был ниспослан аят о хиджабе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4794</td></tr><tr><td>Arabic No</td><td>4794</td></tr><tr><td>Reference</td><td>Book 65 Hadith 316</td></tr></tbody></table></div>
 

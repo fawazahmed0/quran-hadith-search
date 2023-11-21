@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:that the Prophet (ﷺ) sent him and sent Mu'adh after him (as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya alias Al Qaththan] dari [Qurrah bin Khalid] telah menceritakan kepadaku [Humaid bin Hilal] dari [Abu Burdah] dari [Abu Musa], bahwasanya Nabi shallallahu 'alaihi wasallam pernah mengutusnya kemudian mengutus Mu'adz sebagai penyusulnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7156</td></tr><tr><td>Arabic No</td><td>7156</td></tr><tr><td>Reference</td><td>Book 93 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда передаёт от Абу Мусы (аль-Аш‘ари), да будет доволен им Аллах, что Пророк ﷺ послал его (управлять Йеменом), а следом за ним отправил Му‘аза (ибн Джабаля)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7156</td></tr><tr><td>Arabic No</td><td>7156</td></tr><tr><td>Reference</td><td>Book 93 Hadith 20</td></tr></tbody></table></div>
 

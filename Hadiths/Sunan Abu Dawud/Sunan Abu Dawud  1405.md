@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has also been transmitted by Zaid b. Thabit through a different c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sarri] telah menceritakan kepada kami [Waki'] dari [Abu Ad Dzi'b] dari [Yazid bin Abdullah bin Qusaith] dari ['Atha' bin Yasar] dari [Zaid bin Tsabit] dia berkata; "Aku pernah membaca surat An Najm di hadapan Rasulullah shallallahu 'alaihi wasallam, namun beliau tidak sujud." Telah menceritakan kepada kami [Ibnu As Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Abu Shakhr] dari [Ibnu Qusaith] dari [Kharijah bin Zaid bin Tsabit] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam semakna dengan hadits di atas. Abu Daud berkata; "Zaid adalah seorang Imam, namun dia tidak sujud ketika membaca surat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>1405</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Ибн ас-Сарх: Сообщил нам Ибн Вахб: Рассказал нам Абу Сахр от Ибн Къусайта, передавшего от Хариджи ибн Зейд ибн Сабит, передавшего от своего отца, передавшего от Пророка ﷺ хадис со смыслом предыдущего.Абу Дауд сказал: «Будучи имамом, Зейд не совершал земной поклон при (чтении) этой (суры)». Этот хадис передал Абу Дауд
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>1405</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
 

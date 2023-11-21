@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'la]; Telah menceritakan kepada kami [Abu Usamah] keduanya dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah sekali-kali salah seorang kamu berkata: 'Khabusat nafsi' (diriku buruk), tetapi katakanlah: 'Laqisat nafsi' (diriku kurang)." 'Ini adalah Hadits Abu Kuraib. Abu Bakr berkata; dari Nabi shallallahu 'alaihi wasallam, namun dia tidak menyebutkan kata; 'Wa laakin.' (akan tetapi). Dan Telah menceritakannya kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Abu Mu'awiyah] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5878</td></tr><tr><td>Arabic No</td><td>2250.01</td></tr><tr><td>Reference</td><td>Book 40 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: Посланник Аллаха ﷺ сказал: «Пусть никто из вас ни в коем случае не говорит: “Я плох”/Хабусат нафси/, но пусть говорит: “Я заслуживаю порицания”/Лакъисат нафси/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5878</td></tr><tr><td>Arabic No</td><td>2250.01</td></tr><tr><td>Reference</td><td>Book 40 Hadith 17</td></tr></tbody></table></div>
 

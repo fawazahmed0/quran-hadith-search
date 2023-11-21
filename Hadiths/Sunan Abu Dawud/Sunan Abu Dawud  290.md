@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This has bee	n narrated though a different chain of narrators by 'Aishah. This v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi 'Aqil] dan [Muhammad bin Salamah Al-Muradi] mereka berdua berkata; Telah menceritakan kepada kami [Ibnu Wahb] dari [Amru bin Al-Harits] dari [Ibnu Syihab] dari [Urwah bin Az-Zubair] dan ['Amrah binti Abdirrahman] dari [Aisyah, istri Nabi shallallahu 'alaihi wasallam], bahwasanya Ummu Habibah binti Jahsy, ipar Rasulullah shallallahu 'alaihi wasallam dan istri Abdurrahman bin Auf, mengeluarkan darah penyakit selama tujuh tahun, maka dia meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam tentang hal tersebut. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Ini bukan darah haidl, akan tetapi darah penyakit, maka dari itu, mandilah dan shalatlah". Aisyah berkata; Maka Ummu Habibah mandi dalam wadah tempat cucian saudarinya, Zainab binti Jahsy, sehingga airnya berwarna kemerah-merahan karena darahnya. Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] telah mengabarkan kepada saya ['Amrah binti Abdirrahman] dari [Ummu Habibah] dengan hadits ini. [Aisyah radliallahu 'anha] berkata; Maka Ummu Habibah mandi pada setiap kali shalat. Telah menceritakan kepada kami [Yazid bin Khalid bin Abdullah bin Mauhib Al-Hamdani] telah menceritakan kepada saya [Al-Laits bin Sa'ad] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] dengan hadits ini, dia berkata padanya; Maka dia pun mandi pada setiap kali shalat. Abu Dawud berkata; Diriwayatkan oleh [Al-Qasim bin Mabrur] dari [Yunus] dari [Ibnu Syihab] dari ['Amrah] dari [Aisyah] dari [Ummu Habibah bin ti Jahsy]. Dan demikian pula diriwayatkan oleh [Ma'mar] dari [Az-Zuhri] dari ['Amrah] dari [Aisyah] dan kemungkinan [Ma'mar] berkata dari ['Amrah] dari [Ummu Habibah] dengan maknanya. Dan demikian pula diriwayatkan oleh [Ibrahim bin Sa'd] dan [Ibnu Uyainah] dari [Az-Zuhri] dari ['Amrah] dari [Aisyah], dan berkata Ibnu Uyainah di dalam haditsnya dan dia tidak mengatakan bahwasanya Nabi shallallahu 'alaihi wasallam memerintahkan Ummu Habibah untuk mandi. Dan demikian pula diriwayatkan oleh [Al-Auza'i], dia berkata padanya; [Aisyah] berkata; Dia (Ummu Habibah) mandi pada setiap kali shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>290</td></tr><tr><td>Arabic No</td><td>290</td></tr><tr><td>Reference</td><td>Book 1 Hadith 290</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От ‘Аиши передают этот же хадис, в котором она сказала: «И она купалась для каждой молитвы».Абу Дауд сказал: «… Ибн ‘Уйейна сказал в своем хадисе: “И он не говорил о том, что Пророк ﷺ велел ей искупаться”. Также этот хадис передал аль-Ауза‘и, и сказал в нем: «‘Аиша сказала: “И она купалась для каждой молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>290</td></tr><tr><td>Arabic No</td><td>290</td></tr><tr><td>Reference</td><td>Book 1 Hadith 290</td></tr></tbody></table></div>
 

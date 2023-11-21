@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "I have been made victorious by As-S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] dia berkata, telah menceritakan kepadaku [Al Hakam] dari [Mujahid] dari [Ibnu Abbas] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Aku ditolong dengan bantuan angin (yang bertiup dari timur) sedangkan kaum 'Aad dihancurkan dengan angin (yang bertiup dari barat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4105</td></tr><tr><td>Arabic No</td><td>4105</td></tr><tr><td>Reference</td><td>Book 64 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Победа была дарована мне посредством ас-Сабы (сильный восточный ветер), а (племя) ‘ад было погублено ад-Дабуром (западный ветер)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4105</td></tr><tr><td>Arabic No</td><td>4105</td></tr><tr><td>Reference</td><td>Book 64 Hadith 149</td></tr></tbody></table></div>
 

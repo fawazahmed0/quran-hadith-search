@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:I testify that Allah's Messenger (ﷺ) said, "The taking of a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah bin Ja'far] berkata, telah menceritakan kepada kami [Harami bin 'Umarah] berkata, telah menceritakan kepadaku [Syu'bah] dari [Abu Bakar bin Al Munkadir] berkata, telah menceritakan kepadaku ['Amru bin Sulaim Al Anshari] berkata, "Aku bersaksi atas [Abu Sa'id Al Khudri] ia berkata, "Aku bersaksi atas Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Mandi pada hari Jum'at merupakan kewajiban bagi orang yang sudah bermimpi (baligh), dan agar bersiwak (menggosok gigi) dan memakai wewangian bila memilikinya." 'Amru berkata, "Adapun mandi, aku bersaksi bahwa itu adalah wajib. Sedangkan bersiwak dan memakai wewangian -dan Allah yang lebih tahu- aku tidak tahu ia wajib atau tidak, tapi begitulah yang ada dalam hadits." Abu 'Abdullah -yaitu saudara Muhammad bin Al Munkadir, dan tidak disbeut dengan nama Abu Bakar- berkata, 'Hadits ini diriwayatkan darinya oleh [Bukair bin Al Asyaj] dan [Sa'id bin Abu Hilal] dan masih banyak lagi.' Dan Muhammad bin Al Munkadir punya nama panggilan Abu Bakar dan 'Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>880</td></tr><tr><td>Arabic No</td><td>880</td></tr><tr><td>Reference</td><td>Book 11 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал:«Свидетельствую, что Посланник Аллаха ﷺ сказал: “Полное омовение в пятницу обязательно для каждого достигшего половой зрелости, (и ему следует также) почистить зубы зубочисткой и умаститься благовониями, если он (сможет) найти (их)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>880</td></tr><tr><td>Arabic No</td><td>880</td></tr><tr><td>Reference</td><td>Book 11 Hadith 5</td></tr></tbody></table></div>
 

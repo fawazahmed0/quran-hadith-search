@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "The example of Muslims, Jews and Chri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Perumpaman Kaum Muslimin, Yahudi dan Nashara seperti seseorang yang memperkerjakan suatu Kaum, mereka harus bekerja untuknya hingga malam hari, sementara mereka hanya beramal hingga sianghari. Mereka berkata, 'Kami tidak patut menerima upah darimu. Akhirnya orang itu memperkerjakan Kaum yang lain dan berkata, 'Sempurnakanlah sisa hari yang ada, nanti kalian mendapatkan bagian upah sesuai persyaratanku.' Maka mereka mengerjakan pekerjaan hingga hanya sampai waktu 'Ashar, mereka lalu berkata, 'Kami kembalikan pekerjaan kepadamu.' Lalu orang itu memperkerjakan Kaum yang lain lagi. Maka Kaum tersebut bekerja menuntaskan sisa hari sampai matahari terbenam. Jadilah Kaum ini menyempurnakan pahala dua Kaum sebelumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>558</td></tr><tr><td>Arabic No</td><td>558</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Показать положение) мусульман, иудеев и христиан (можно) на примере человека, который нанял людей, чтобы они за определённую плату делали для него какую-то работу в течение (дня) до наступления ночи. И они работали на него до середины дня, а потом сказали: “Мы не нуждаемся в том вознаграждении!” После них он нанял двух других, сказав им: “(Работайте) до конца этого дня, и вы получите то вознаграждение, которое я договорился (выплатить им)”. И (эти люди начали) работать, а когда настало время послеполуденной молитвы, они сказали: “(Пусть остаётся) тебе и то, что мы сделали, (и та плата, которую ты нам назначил за это)”. И тогда он нанял (других) людей, (чтобы они поработали для него остаток этого дня), и они работали остаток (этого) дня, пока не зашло солнце, полностью получив (за это) плату и первых, и вторых”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>558</td></tr><tr><td>Arabic No</td><td>558</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sufyan reported it on the authority of Jabir that he had heard the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Utsman bin Abi Syaibah] serta [Ishaq bin Ibrahim] berkata Ishaq telah mengabarkan kepada kami, sedangkan dua orang lainnya berkata, telah menceritakan kepada kami [Jarir] dari [al-A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata, "Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda, ' setan apabila mendengar adzan untuk shalat, maka dia pergi hingga tempat ar-Rauha'.' Sulaiman berkata, maka aku bertanya kepada beliau tentang ar-Rauha', maka beliau bersabda, 'Ia adalah tempat yang berjarak tiga puluh enam mil dari Madinah.' Dan telah menceritakan kepada kami tentangnya [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>854</td></tr><tr><td>Arabic No</td><td>388.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Посланник Аллаха ﷺ сказал: «Поистине, когда шайтан слышит призыв к молитве, он убегает (так далеко, что) оказывается в местечке (с названием) ар-Раухаъ».Сулейман (один из передатчиков хадиса) сказал: «Я спросил его (Абу Суфьяна) о том, где находится ар-Раухаъ, и он ответил: “Она находится в тридцати шести милях от Медины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>854</td></tr><tr><td>Arabic No</td><td>388.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 17</td></tr></tbody></table></div>
 

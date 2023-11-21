@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Ziyad: Hashraj ibn Ziyad reported on the authority of his grandmoth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Sa'id], dan selainnya, mereka berkata; telah mengabarkan kepada kami [Zaid bin Al Hubab], ia berkata; telah menceritakan kepada kami [Rafi' bin Salamah bin Ziyad], telah menceritakan kepadaku [Hasyraj bin Ziyad], dari [neneknya yaitu ibu ayahnya], bahwa ia pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam pada waktu perang Khaibar, ia adalah wanita yang ketujuh. Kemudian hal tersebut sampai kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau mengirim utusan kepada kami. Kami melihat pada diri beliau terdapat kemarahan, beliau mengatakan; bersama siapakah kalian keluar? Dan dengan izin siapakah kalian keluar? Lalu kami katakan; wahai Rasulullah, kami keluar untuk melantunkan syair, dan dengannya kami membantu di jalan Allah, dan kami membawa obat untuk orang yang terluka, kami mengambilkan anak panah, serta memberi minum. Kemudian beliau berkata: "Bangkitlah kalian." Hingga setelah Allah menaklukkan Khaibar beliau memberi kami bagian sebagaimana memberi bagian kepada para lelaki. Ia berkata; aku katakan kepadanya; wahai nenek. Apakah bagian tersebut? Ia berkata; kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2729</td></tr><tr><td>Arabic No</td><td>2729</td></tr><tr><td>Reference</td><td>Book 15 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2729</td></tr><tr><td>Arabic No</td><td>2729</td></tr><tr><td>Reference</td><td>Book 15 Hadith 253</td></tr></tbody></table></div>
 

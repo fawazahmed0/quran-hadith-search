@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Rifa’ah b. Rafi has also narrated this tradition through a different chain fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>861</td></tr><tr><td>Arabic No</td><td>861</td></tr><tr><td>Reference</td><td>Book 2 Hadith 471</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Рифа‘а ибн Рафи‘а, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «И соверши малое омовение, как велел тебе Всемогущий и Великий Аллах, затем произнеси слова свидетельства, затем произнеси икамат и такбир, затем прочитай что-нибудь из того, что ты знаешь из Корана, а в противном случае восхваляй и возвеличивай Всемогущего и Великого Аллаха и свидетельствуй о Его единственности, и, если ты не сделаешь что-то из этого, ты не совершишь молитву должным образом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>861</td></tr><tr><td>Arabic No</td><td>861</td></tr><tr><td>Reference</td><td>Book 2 Hadith 471</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) saw an old man walking, supported by his two son
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Al Fazariy] dari [Humaid Ath-Thowil] berkata, telah menceritakan kepada saya [Tsabit] dari [Anas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam melihat seorang tua renta yang dipapah oleh kedua anaknya, maka Beliau bertanya: "Mengapa orang ini berbuat seperti ini?". Mereka menjawab: "Dia telah bernadzar untuk berjalan kaki (menuju Makkah) ". Maka Beliau berkata: "Allah tidak membutuhkan orang ini untuk menyiksa dirinya". Maka Beliau memerintahkan orang itu naik tunggangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>1865</td></tr><tr><td>Reference</td><td>Book 28 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что, когда Пророк ﷺ увидел какого-то старца, который шёл, поддерживаемый двумя своими сыновьями, он спросил: «Что с ним?» (Его сыновья) сказали: «Он дал обет идти пешком». (Пророк ﷺ) сказал: «Поистине, Аллах не нуждается в том, чтобы этот человек подвергал себя мучениям», и велел ему сесть верхом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>1865</td></tr><tr><td>Reference</td><td>Book 28 Hadith 45</td></tr></tbody></table></div>
 

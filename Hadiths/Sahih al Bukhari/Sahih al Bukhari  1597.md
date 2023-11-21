@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abis bin Rabi'a:'Umar came near the Black Stone and kissed it and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari ['Abis bin Rabi'ah] dari ['Umar radliallahu 'anhu] bahwa dia mendatangi Hajar Al Aswad lalu menciumnya kemudian berkata: "Sungguh aku mengetahui bahwa kamu hanyalah batu yang tidak bisa mendatangkan madharat maupun manfa'at. Namun kalau bukan karena aku telah melihat Nabi shallallahu 'alaihi wasallam menciummu tentu aku tidak akan menciummu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1597</td></tr><tr><td>Arabic No</td><td>1597</td></tr><tr><td>Reference</td><td>Book 25 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) ‘Умар, да будет доволен им Аллах, подошёл к Чёрному камню, поцеловал его и сказал: «Поистине, мне известно, что ты — (только) камень, (сам по себе) не приносящий ни вреда, ни пользы, и если бы я не видел, как целует тебя Пророк ﷺ то и я не стал бы целовать тебя!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1597</td></tr><tr><td>Arabic No</td><td>1597</td></tr><tr><td>Reference</td><td>Book 25 Hadith 83</td></tr></tbody></table></div>
 

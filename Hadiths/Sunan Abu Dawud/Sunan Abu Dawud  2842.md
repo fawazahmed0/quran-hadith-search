@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], telah menceritakan kepada kami [Daud bin Qais], dari ['Amr bin Syu'aib], bahwa Nabi shallallahu 'alaihi wasallam, dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari], telah menceritakan kepada kami [Abdul Malik bin 'Amr], dari [Daud] dari ['Amr bin Syu'aib] dari [ayahnya], aku diberitahu dari [kakeknya], ia berkata; Rasulullah shallallahu 'alaihi wasallam ditanya mengenai aqiqah, kemudian beliau berkata: "Allah tidak menyukai tindakkan durhaka." Sepertinya beliau tidak menyukai nama tersebut. Dan beliau berkata: "Barangsiapa yang anaknya telah dilahirkan dan ia ingin menyembelih untuknya maka hendaknya ia menyembelih untuk anak laki-laki dua ekor kambing yang sama dan untuk anak wanita satu ekor kambing." Dan beliau ditanya mengenai fara' (anak unta yang pertama kali lahir). Beliau berkata: "Dan fara' adalah hak, sedangkan kalian membiarkannya hingga menjadi dewasa kuat berumur satu tahun masuk dua tahun atau berumur dua tahun masuk tiga tahun kemudian engkau berikan kepada seorang janda atau engkau bebani di jalan Allah adalah lebih baik daripada engkau menyembelihnya sehingga dagingnya menempel dengan bulunya, dan engkau penuhi bejanamu dan engkau kagetkan untamu dengan kematian anaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2842</td></tr><tr><td>Arabic No</td><td>2842</td></tr><tr><td>Reference</td><td>Book 16 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ своего деда о том, что однажды Посланника Аллаха ﷺ спросили об ‘акыке и он сказал: «Аллах не любит ‘укук!» Как будто ему не понравилось это название. А потом Посланник Аллаха ﷺ сказал: «У кого родился ребёнок, пусть принесёт жертву: две одинаковые овцы за мальчика и одну за девочку». А когда его спросили о принесении в жертву первого приплода верблюдицы, он сказал: «Это можно делать, однако лучше оставить его, чтобы он вырос и достиг годовалого или двухлетнего возраста, а потом его можно отдать вдове или пожертвовать сражающимся на пути Аллаха в качестве верхового животного. Это лучше, чем если ты зарежешь его, мясо его пристанет к шерсти и из-за этого посуда твоя останется пустой и ты причинишь горе своей верблюдице (, поскольку она лишится своего верблюжонка)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2842</td></tr><tr><td>Arabic No</td><td>2842</td></tr><tr><td>Reference</td><td>Book 16 Hadith 55</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Waki'] dari [Mis'ar bin Habib Al-Jarmi] telah menceritakan kepada kami [Amru bin Salamah] dari [Ayahnya] bahwasanya mereka pergi menghadap kepada Nabi shallallahu 'alaihi wasallam sebagai utusan kaumnya. Tatkala mereka hendak pulang, mereka bertanya; Wahai Rasulullah, siapakah (yang lebih berhak) untuk menjadi imam bagi kami? Beliau bersabda: "Orang yang paling banyak menghafal Al Quran." Amru bin Salamah berkata; Ternyata tidak ada seorang pun dari kaum kami yang menghafal Al Quran sepertiku. Kata Amru; Karena itu mereka mengajukanku (untuk menjadi imam), padahal saya masih kanak kanak yang sedang memakai kain toga (sejenis jubah). Maka tidaklah saya menghadiri suatu perkumpulan di Jarm, melainkan saya pasti yang menjadi imam mereka, dan saya pula yang menyalati jenazah mereka (menjadi imam) sampai hari ini. Abu Dawud berkata; Dan diriwayatkan oleh [Yazid bin Harun] dari [Mis'ar bin Habib Al-Jarmi] dari [Amru bin Salamah] dia berkata; Tatkala kaumku mengirim utusan kepada Nabi shallallahu 'alaihi wasallam, tanpa menyebut dari ayahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>587</td></tr><tr><td>Arabic No</td><td>587</td></tr><tr><td>Reference</td><td>Book 2 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра ибн Салима о том, что его отец рассказывал, что они однажды приехали с делегацией к Пророку ﷺ и когда они хотели вернуться они сказали: «О Посланник Аллаха, а кто будет у нас имамом (в молитве)?». Он ответил: «Тот, кто больше всех из вас знает Коран», (или он сказал): «... выучил (наизусть) Коран».Он сказал: «И не было среди моего народа никого, кто бы выучил (Коран) больше меня».(‘Амр ибн Салима) сказал: «И они поставили меня перед (собой имамом), а я был ещё мальчиком, и был одет в свою накидку. Я не видел ни одного собрания моего племени, чтобы я не был у них имамом, и я всегда руководил их похоронными молитвами до сегодняшнего дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>587</td></tr><tr><td>Arabic No</td><td>587</td></tr><tr><td>Reference</td><td>Book 2 Hadith 197</td></tr></tbody></table></div>
 

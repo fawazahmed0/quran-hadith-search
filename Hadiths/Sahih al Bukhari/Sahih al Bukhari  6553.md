@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id: The Prophet (ﷺ) said: There is a tree in Paradise (so huge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Asad] telah mengabarkan kepada kami [Al Fadhl bin Musa] telah mengabarkan kepada kami [Al Fudhail] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu'alaihiwasallam, beliau bersabda: "(Di neraka), jarak antara kedua pundak orang kafir sejauh perjalanan tiga hari bagi pengendara yang memacu kendaraannya dengan cepat, " [sedang Ishaq bin Ibrahim] mengatakan; telah mengabarkan kepada kami [Al Mughirah bin Salamah] telah menceritakan kepada kami [Wuhaib] dari [Abu Hazim] dari [Sahal bin Sa'd] dari Rasulullah Shallallahu'alaihi wasalalm, beliau bersabda: "Dalam surga ada sebatang pohon yang sekiranya bayangannya dilewati oleh pengendara selama seratus tahun, dia tak akan mampu menyelesaikannya." Kata [Abu Hazim]; selanjutnya kuceritakan hadits ini kepada [Nu'man bin Abu 'Ayyasy], maka ia menuturkan telah mengabarkan kepadaku [Abu sa'id], dari Nabi Shallallahu'alaihi wa sallam, beliau bersabda: "Sungguh dalam surga ada sebatang pohon yang sekiranya ditempuh oleh seorang pengendara yang mengendarai kuda pacu pilihan yang cepat larinya selama seratus tahun, niscaya dia tak akan bisa menyelesaikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6553</td></tr><tr><td>Arabic No</td><td>6553</td></tr><tr><td>Reference</td><td>Book 81 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, что Пророк ﷺ сказал: «Поистине, есть в Раю дерево (таких размеров, что), если всадник на быстром породистом скакуне будет скакать (вдоль него) сто лет, то не пересечёт его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6553</td></tr><tr><td>Arabic No</td><td>6553</td></tr><tr><td>Reference</td><td>Book 81 Hadith 142</td></tr></tbody></table></div>
 

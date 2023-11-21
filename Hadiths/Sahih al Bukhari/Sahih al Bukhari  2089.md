@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I got an old she-camel as my share from the booty, and the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya ['Ali bin Husain] bahwa [Husain bin 'Ali] radliallahu 'anhuma mengabarkan kepadanya bahwa ['Ali Alaihissalam] berkata: "Aku memiliki unta yang bagus dari bagianku hasil ghonimah (rampasan perang) yang diberikan oleh Rasulullah shallallahu 'alaihi wasallam dari jatah seperlima. Ketika aku hendak menikahi Fathimah binti Rasulullah shallallahu 'alaihi wasallam aku menyuruh seorang laki-laki sebagai pembuat emas dari suku Bani Qainuqa agar berkeliling bersamaku. Maka kami datang dengan membawa wewangian dari daun idzkhir dan aku tukar dengan emas lalu aku gunakan sebagai mahar dalam pesta perkawinanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2089</td></tr><tr><td>Arabic No</td><td>2089</td></tr><tr><td>Reference</td><td>Book 34 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, мир ему, сказал: «В качестве военной добычи мне досталась старая верблюдица, а (кроме того,) Пророк ﷺ дал мне ещё одну старую верблюдицу из пятой части военной добычи (аль-хумус). И когда я намерился жениться на Фатиме дочери Посланника Аллаха ﷺ, я договорился с ювелиром из племени бану кайнука‘ отправиться вместе со мной, чтобы привезти “изхир” (душистый тростник), а затем продать его ювелирам и использовать (вырученные деньги) для моего свадебного угощения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2089</td></tr><tr><td>Arabic No</td><td>2089</td></tr><tr><td>Reference</td><td>Book 34 Hadith 42</td></tr></tbody></table></div>
 

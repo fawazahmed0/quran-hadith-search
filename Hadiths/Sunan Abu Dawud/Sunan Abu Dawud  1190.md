@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A'ishah (May Allah be pleased with her):There was an eclipse of the sun
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Utsman] telah menceritakan kepada kami [Al Walid] telah menceritakan kepada kami [Abdurrahman bin Namir] bahwa dia bertanya kepada [Az Zuhri], maka [Az Zuhri] menjawab; telah mengabarkan kepadaku ['Urwah] dari ['Asiyah] dia berkata; "Gerhana matahari telah terjadi, maka Rasulullah shallallahu 'alaihi wasallam memerintahkan seseorang untuk menyerukan shalat berjama'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1066) Sahih Muslim (901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1190</td></tr><tr><td>Arabic No</td><td>1190</td></tr><tr><td>Reference</td><td>Book 3 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что, когда во времена Посланника Аллаха ﷺ произошло солнечное затмение, он велел одному человеку объявить об общей молитве
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1066) Sahih Muslim (901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1190</td></tr><tr><td>Arabic No</td><td>1190</td></tr><tr><td>Reference</td><td>Book 3 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar saw a silken cloak being sold in the market and he brou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Sihab] dari [Salim bin 'Abdullah] bahwa [Ibnu 'Umar radliallahu 'anhuma] berkata; 'Umar menemukan pakaian bersutera dijual di pasar lalu dia menemui Rasulullah Shallallahu'alaiwasallam seraya berkata; "Wahai Rasulullah, belilah pakaian ini agar Baginda dapat berpenampilan bagus saat hari raya dan ketika menjamu para utusan". Maka Rasulullah Shallallahu'alaiwasallam berkata: "Pakaian ini hanya patut bagi orang yang tidak akan mendapat bagian (di akhirat) atau orang yang memakai pakaian sejenis ini adalah orang yang tidak akan mendapat bagian (di akhirat), maka dia memakainya sesuai apa yang Allah kehendaki" Kemudian Nabi Shallallahu'alaihiwasallam mengirim baju jubah yang bersutera kepada 'Umar, lalu 'Umar menghadap Rasulullah Shallallahu'alaiwasallam dengan membawa pakaian tersebut seraya berkata; "Wahai Rasulullah, Baginda mengatakan bahwa pakaian ini (sutera) hanya patut bagi orang yang tidak akan mendapat bagian (di akhirat) atau orang yang memakai pakaian sejenis ini adalah orang yang tidak akan mendapat bagian (di akhirat), lalu mengapa Baginda memberikannya kepadaku?". Maka Beliau berkata: Maksudku, agar Kamu menjualnya atau kamu dapat mengambil manfaat untuk sebagian keperluanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 56 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды ‘Умар взял джуббу из парчи, которая продавалась на рынке, принёс её Посланнику Аллаха ﷺ и сказал: “О, Посланник Аллаха, купи эту одежду, чтобы надевать её по праздникам, а также для встречи прибывающих к тебе делегаций”. Посланник Аллаха ﷺ сказал: “Такую одежду носит лишь тот, у кого нет удела в мире вечном!” Некоторое время спустя Пророк ﷺ отправил ему шёлковую джуббу, ‘Умар пришел с ней к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха! Поистине, ты сказал: “Такую одежду носит лишь тот, у кого нет удела в мире вечном!” А сам отправил мне эту (джуббу)!?” (На это) Посланник Аллаха ﷺ ответил: “Продай её или воспользуйся ей в своих нуждах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 56 Hadith 260</td></tr></tbody></table></div>
 

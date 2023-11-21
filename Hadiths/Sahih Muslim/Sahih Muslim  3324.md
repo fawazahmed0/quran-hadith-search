@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asim reported:I asked Anas (Allah be pleased with him) whether Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Ashim Al Ahwal] ia berkata; Aku bertanya kepada [Anas], "Apakah Rasulullah shallallahu 'alaihi wasallam juga menjadikan Madinah sebagai tanah haram?" Anas menjawab, "Ya, Madinah juga merupakan tanah haram. Tidak boleh ditebang pohonnya, maka siapa melakukan hal itu, dia akan mendapatkan laknat Allah, Malaikat dan laknat seluruh manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>1367</td></tr><tr><td>Reference</td><td>Book 15 Hadith 528</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>1367</td></tr><tr><td>Reference</td><td>Book 15 Hadith 528</td></tr></tbody></table></div>
 

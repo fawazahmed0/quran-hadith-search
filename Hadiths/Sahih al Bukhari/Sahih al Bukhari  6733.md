@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:I was stricken by an ailment that led me to the ver
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Az Zuhri] mengatakan; telah mengabarkan kepadaku [Amir bin Sa'd bin Abi Waqqash] dari [ayahnya] mengatakan; Aku pernah sakit parah di Makkah hingga rasanya berada di ujung kematian. Kemudian Rasulullah Shallallahu'alaihiwasallam menjengukku. Maka Saya bertanya; 'Wahai Rasulullah, saya mempunyai harta yang melimpah ruah, dan tak ada yang mewarisiku selain anak perempuanku bagimana kalau aku sedekahkan dua pertiganya? ' Nabi menjawab: "jangan". Saya bertanya lagi; 'Bagaimana kalau separoh? ' Nabi menjawab: "jangan". Saya tanyakan lagi; 'Bagaimana kalau sepertiganya? ' Nabi menjawab: "Sepertiga itu banyak, Sesunguhnya jika engkau tinggalkan anakmu dalam keadaan berkecukupan, itu lebih baik bagimu daripada kamu tinggalkan mereka dengan kondisi papa sehingga meminta-minta kepada orang lain, dan sekali-kali tidaklah engkau memberi nafkah, melainkan kamu diberi pahala sampai berupa suapan yang engkau angkat kedalam mulut isterimu." Maka saya berkata; 'Wahai Rasulullah, apakah aku tetap tinggal (di Makkah dan meninggalkan) hijrahku? ' Nabi menjawab: "Sekali-kali kamu tidak akan tertinggal setelahku kemudian kamu beramal shalih dengan mengharap wajah Allah kecuali akan menambah bagimu ketinggian dan derajat, Bisa jadi dengan kamu tetap tinggal (di Makkah) setelahku akan mendatangkan manfaat bagi suatu kaum dan mencelakakan yang lainnya." tetapi nasib tragis menimpa Sa'ad bin Khaulah yang menemui ajalnya di Makkah. Rasulullah Shalla Allahu 'alaihi wa sallam sempat memintakan rahmat dan ampunan untuknya. Sufyan mengatakan ' Sa'd bin Khaulah adalah laki-laki dari bani Amir bin Lu'ai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6733</td></tr><tr><td>Arabic No</td><td>6733</td></tr><tr><td>Reference</td><td>Book 85 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас сказал: «Когда в Мекке я сильно заболел и был близок к смерти, и Пророк ﷺ пришёл, чтобы навестить меня, я сказал: “О Посланник Аллаха, поистине, я богат, и нет у меня наследников, кроме единственной дочери, так не отдать ли мне две трети имущества в качестве милостыни?” Он ответил: “Нет”. Я спросил: “А половину?” Он ответил: “Нет”. Я спросил: “А треть?” Он ответил: “(Но и) трети будет много, ведь лучше тебе оставить своих наследников состоятельными, чем нуждающимися и вынужденными просить у людей! И, поистине, ты обязательно получишь награду за всё то, что потратишь ради лика Аллаха, и даже за кусок еды, который ты положишь в рот своей жены”. Тогда я спросил: “О Посланник Аллаха, неужели меня оставят здесь после моего переселения?” Он сказал: “Если ты останешься, то какое бы праведное дело ты ни совершил ради Аллаха, оно не добавит тебе ничего, кроме возвышения. Возможно, ты выживешь, чтобы через тебя одни люди получили пользу, а другим был нанесён вред! О бедный Са‘д ибн Хауля!” Посланник Аллаха ﷺ выразил сожаление в связи с тем, что этот человек умер в Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6733</td></tr><tr><td>Arabic No</td><td>6733</td></tr><tr><td>Reference</td><td>Book 85 Hadith 10</td></tr></tbody></table></div>
 

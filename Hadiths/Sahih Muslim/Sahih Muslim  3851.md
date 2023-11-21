@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) is reported to have said that All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin Amru bin Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Ibnu Juraij] bahwa [Abu Az Zubair] telah mengabarkan kepadanya, dia berkata; Saya mendengar [Jabir bin Abdillah] berkata; Rasulullah Shallallu 'alaihi wa sallam melarang menjual setangkai kurma yang tidak diketahui takarannya dengan takaran kurma yang telah maklum. Telah menceritakan kepada kami [Ishaq bin Ibrahim], telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin Abdillah] berkata; Rasulullah Shallallu 'alaihi wa sallam melarang seperti itu, tapi di akhir hadits, dia tidak menyebutkan lafazh dari kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3851</td></tr><tr><td>Arabic No</td><td>1530.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3851</td></tr><tr><td>Arabic No</td><td>1530.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 50</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd: I suffered from an illness. The Messenger of Allah (ﷺ) came to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il] telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Mujahid] dari [Sa'd] ia berkata, "Aku pernah mengalami sakit, Rasulullah shallallahu 'alaihi wasallam lalu datang menjengukku, beliau kemudian meletakkan tangannya di antara kedua dadaku hingga aku merasakan dinginnya tangan beliau pada dadaku. Kemudian beliau bersabda: "Sesungguhnya engkau adalah seorang laki-laki yang terkena penyakit pada hatinya, datanglah kepada Al Harits bin Kaladah saudara Tsaqif, ia orang yang bisa kedokteran. Hendaknya ia mengambil tujuh buah kurma 'ajwah Madinah, hendaknya ia tumbuk bersamaan dengan bijinya, kemudian meminumkannya kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3875</td></tr><tr><td>Arabic No</td><td>3875</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Са‘да, да будет доволен им Аллах: «Однажды я заболел, и Посланник Аллаха ﷺ пришёл навестить меня. Он положил руку на мою грудь, так что я ощутил прохладу его руки, и сказал: “Твоя болезнь связана с сердцем. Иди к аль-Харису ибн Кальде из племени Сакыф. Он лекарь. Пусть он возьмёт семь фиников сорта аджва (особый сорт мединских фиников), измельчит их вместе с косточками и использует их в качестве лекарства для тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3875</td></tr><tr><td>Arabic No</td><td>3875</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
 

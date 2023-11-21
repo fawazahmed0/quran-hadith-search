@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Murrah, the client of Umm Hani, entered along with 'Abd Allah b. 'Amr upon h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik] dari [Yazid bin Al Had], dari [Abu Murrah] mantan budak Ummu Hani' bahwa ia ia bersama Abdullah bin 'Amr menemui ayahnya yaitu ['Amr bin Al 'Ash], kemudian ia mendekatkan makanan kepada keduanya lalu berkata; makanlah. Lalu Abu Murrah berkata; sesungguhnya saya sedang berpuasa. Kemudian 'Amr berkata; makanlah, ini adalah hari yang kami diperintahkan Rasulullah shallallahu 'alaihi wasallam agar berbuka dan melarang kami untuk melakukan puasa padanya. Malik berkata; hari-hari tersebut adalah hari-hari Tasyriq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2418</td></tr><tr><td>Arabic No</td><td>2418</td></tr><tr><td>Reference</td><td>Book 14 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Мурра, вольноотпущенник Умм Хани, передаёт, что однажды он зашёл к ‘Амру ибн аль-‘Асу вместе с его сыном ‘Абдуллахом и он подал им еду и сказал: «Ешь». ‘Абдуллах сказал: «Я пощусь». ‘Амр сказал: «Ешь, ибо это дни, в которые Посланник Аллаха ﷺ велел нам разговляться и запрещал поститься». Малик пояснил, что имелись в виду дни ташрика
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2418</td></tr><tr><td>Arabic No</td><td>2418</td></tr><tr><td>Reference</td><td>Book 14 Hadith 106</td></tr></tbody></table></div>
 

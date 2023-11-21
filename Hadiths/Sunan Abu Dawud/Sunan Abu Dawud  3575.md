@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If anyone seeks the office of judg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas Al 'Anbari] telah menceritakan kepada kami [Umar bin Yunus] telah menceritakan kepada kami [Mulazim bin 'Amru] telah menceritakan kepadaku [Musa bin Najdah] dari kakeknya [Yazid bin Abdurrahman Abu Katsir] ia berkata; telah menceritakan kepadaku [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa menginginkan untuk menjadi hakim, kemudian keadilannya mengalahkan kelalimannya maka baginya Surga, dan Barangsiapa yang kelalimannya mengalahkan keadilannya maka baginya Neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3575</td></tr><tr><td>Arabic No</td><td>3575</td></tr><tr><td>Reference</td><td>Book 25 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто желал стать судьёй для мусульман и добился своего, а потом справедливость в его судопроизводстве победила несправедливость, тот попадёт в Рай, а если несправедливость в его судопроизводстве побеждает справедливость, то он войдёт в Огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3575</td></tr><tr><td>Arabic No</td><td>3575</td></tr><tr><td>Reference</td><td>Book 25 Hadith 5</td></tr></tbody></table></div>
 

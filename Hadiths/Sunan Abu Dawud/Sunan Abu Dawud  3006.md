@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Umar: The Prophet fought with the people of Khaybar, and c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zarqa'], telah menceritakan kepada kami [ayahku], telah menceritakan kepada kami [Hammad bin Salamah], dari ['Ubaidullah bin Umar], ia berkata; -saya kira berasal dari [Nafi'] - dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam memerangi Khaibar dan menguasai pohon kurma serta lahan mereka dan memaksa mereka berlindung di benteng mereka. Kemudian mereka mengadakan perjanjian damai dengan beliau dengan syarat bahwa untuk Rasulullah shallallahu 'alaihi wasallam emas dan perak serta senjata, dan bagi mereka apa yang dapat dimuat unta mereka dengan syarat mereka tidak menyembunyikan sesuatu. Apabila mereka melakukan hal tersebut maka tidak ada jaminan dan perjanjian bagi mereka. Kemudian mereka menyembunyikan sebuah kulit milik Huyai bin Akhthab yang telah terbunuh sebelum Khaibar. Ia membawanya pada saat perang Bani Nadhir ketika Bani Nadhir terusir. Di dalam kulit tersebut terdapat perhiasan mereka. Kemudian Nabi shallallahu 'alaihi wasallam berkata kepada Sa'yah: "Dimanakah kulit Huyai bin Akhthab?" Perang dan nafkah telah menghabiskannya. Kemudian mereka mendapatkan kulit tersebut. Kemudian beliau membunuh Ibnu Abu Abu Al Haqiq dan menawan para wanita serta anak-anak mereka, dan beliau berniat untuk mengusir mereka. Kemudian mereka berkata; wahai Muhammad! Biarkan kami bekerja di lahan ini, dan kami mendapatkan setengahnya terserah engkau, dan kalian mendapatkan setengah. Dan Rasulullah shallallahu 'alaihi wasallam memberikan setiap isterinya delapan puluh wasaq kurma dan dua puluh wasaq gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3006</td></tr><tr><td>Arabic No</td><td>3006</td></tr><tr><td>Reference</td><td>Book 20 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сражался с жителями Хайбара и завладел их землёй и пальмами, заставив их укрыться в крепостях. Они заключили с ним мирный договор с условием, что Посланнику Аллаха ﷺ достаётся золото, серебро и оружие, а они могут унести с собой всё, что смогут увезти их верховые животные, и что они не станут прятать ничего из того, что у них есть, а если они нарушат эти условия, то они лишатся всякой защиты и договор потеряет силу. И они сокрыли ларец с драгоценностями, принадлежавшими Хуяйю ибн Ахтабу, который был убит до взятия Хайбара. Он унёс их с собой в тот день, когда бану ан-надыр были изгнаны. Пророк ﷺ спросил Са‘ю: «Где ларец Хуяйя ибн Ахтаба?» Он ответил: «Уничтожили его войны и расходы». А потом ларец обнаружили, и Пророк ﷺ велел казнить Ибн Абу аль-Хукайка. Их женщины и дети были взяты в плен, а их самих Пророк ﷺ хотел изгнать, однако они сказали: «О Мухаммад! Оставь нас работать на этой земле, и нам будет принадлежать половина урожая, а вам вторая половина». И Посланник Аллаха ﷺ давал каждой из своих жён восемьдесят васков фиников и двадцать васков ячменя
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3006</td></tr><tr><td>Arabic No</td><td>3006</td></tr><tr><td>Reference</td><td>Book 20 Hadith 79</td></tr></tbody></table></div>
 

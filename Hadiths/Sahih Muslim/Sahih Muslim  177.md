@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée) : Târiq Ibn Chihâb transme
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] keduanya dari [Qais bin Muslim] dari [Thariq bin Syihab] dan ini adalah hadits Abu Bakar, "Orang pertama yang berkhutbah pada Hari Raya sebelum shalat Hari Raya didirikan ialah Marwan. Lalu seorang lelaki berdiri dan berkata kepadanya, "Shalat Hari Raya hendaklah dilakukan sebelum membaca khutbah." Marwan menjawab, "Sungguh, apa yang ada dalam khutbah sudah banyak ditinggalkan." Kemudian [Abu Said] berkata, "Sungguh, orang ini telah memutuskan (melakukan) sebagaimana yang pernah aku dengar dari Rasulullah shallallahu 'alaihi wasallam, bersabda: "Barangsiapa di antara kamu melihat kemungkaran hendaklah ia mencegah kemungkaran itu dengan tangannya. jika tidak mampu, hendaklah mencegahnya dengan lisan, jika tidak mampu juga, hendaklah ia mencegahnya dengan hatinya. Itulah selemah-lemah iman." Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-Ala'] telah menceritakan kepada kami [Abu Mua'wiyah] telah menceritakan kepada kami [al-A'masy] dari [Ismail bin Raja'] dari [bapaknya] dari [Abu Sa'id al-Khudri] dari [Qais bin Muslim] dari [Thariq bin Syihab] dari [Abu Sa'id al-Khudri] dalam kisah Marwan, dan hadits Abu Sa'id dari Nabi shallallahu 'alaihi wasallam, seperti hadits Syu'bah dan Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>177</td></tr><tr><td>Arabic No</td><td>49.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тарикъ ибн Шихаб сказал: «Марван (ибн аль-Хакам) был первым, кто стал читать хутбу перед молитвой в день праздника. (Когда он приступил к чтению), к нему подошёл какой-то человек и сказал: “(Праздничную) молитву следует совершать перед хутбой”. (Марван) сказал: “Теперь так уже не делают”. (Услышав это), Абу Са‘ид (аль-Худри да будет доволен им Аллах) сказал: “Что касается этого (человека), то он выполнил свой долг, ибо я слышал, как Посланник Аллаха ﷺ сказал: “Пусть тот из вас, кто увидит (нечто) порицаемое, изменит это собственноручно. Если он не сможет (сделать) этого, (пусть изменит порицаемое) своим языком, а если не сможет (и этого), то своим сердцем, что будет наиболее слабым (проявлением) веры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>177</td></tr><tr><td>Arabic No</td><td>49.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 84</td></tr></tbody></table></div>
 

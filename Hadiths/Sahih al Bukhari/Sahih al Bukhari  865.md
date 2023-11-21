@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "If your women ask permission to go t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Hanzhalah] dari [Salim bin 'Abdullah] dari [Ibnu 'Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika isteri-isteri kalian minta izin ke masjid di waktu malam, maka berilah mereka izin." Hadits ini dikuatkan oleh [Syu'bah] dari [Al A'masy] dari [Mujahid] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>865</td></tr><tr><td>Arabic No</td><td>865</td></tr><tr><td>Reference</td><td>Book 10 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Если ваши жёны станут просить вас отпускать их ночью в мечеть, позволяйте им (ходить туда)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>865</td></tr><tr><td>Arabic No</td><td>865</td></tr><tr><td>Reference</td><td>Book 10 Hadith 256</td></tr></tbody></table></div>
 

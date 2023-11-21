@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Messenger of Allah (ﷺ) said: The believers would gather on t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>193.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 382</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что Посланник Аллаха ﷺ сказал: «В День воскресенья верующие соберутся и придёт им в голову такая мысль…». Затем подобно предыдущему хадису, но в этой версии он сказал: «…затем я вернусь к Нему в четвёртый раз и скажу: “Господи, не осталось (в Огне) никого, кроме тех, кого задержал Коран”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>193.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 382</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When 'Abdur-Rahman came to us, the Prophet (ﷺ) established a bon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Humaid] dari [Anas] dia berkata; Abdurrahman datang kepada kami, lalu Nabi shallallahu 'alaihi wasallam mempersaudarakan antara dia dengan Sa'd bin Ar Rabi'. Lalu Nabi shallallahu 'alaihi wasallam bersabda: "Adakanlah walimah walau dengan seekor domba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6082</td></tr><tr><td>Arabic No</td><td>6082</td></tr><tr><td>Reference</td><td>Book 78 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Когда ‘Абдуррахман прибыл к нам в Медину, Пророк ﷺ побратал его с Са‘дом ибн ар-Раби‘. И Пророк ﷺ сказал (ему): “Тебе следует устроить свадебное угощение /валима/ хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6082</td></tr><tr><td>Arabic No</td><td>6082</td></tr><tr><td>Reference</td><td>Book 78 Hadith 110</td></tr></tbody></table></div>
 

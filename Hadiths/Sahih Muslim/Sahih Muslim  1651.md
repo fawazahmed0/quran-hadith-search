@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Sarjis reported:A person entered the mosque, while the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Kamil Al Jahdari] telah menceritakan kepada kami [Hammad yaitu Ibnu Zaid] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Hamid bin Umar Al Bakrawi] telah menceritakan kepada kami [Abdul Wahid yaitu Ibnu Ziyad], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abu Muawiyah], semuanya dari ['Ashim], (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Zuhair bin Harb] sedangkan lafadznya dari dia, telah menceritakan kepada kami [Marwan bin Muawiyah Al Fizari] dari ['Ashim Al Ahwal] dari [Abdullah bin Sarjisa] katanya; "Ketika Rasulullah shallallahu 'alaihi wasallam sedang shalat subuh, tiba-tiba seorang laki-laki masuk masjid dan melakukan shalat (sunnah) dua rakaat disamping masjid, setelah itu dia bergegas menyertai Rasulullah shallallahu 'alaihi wasallam. Ketika Rasulullah shallallahu 'alaihi wasallam mengucapkan salam, beliau bersabda: "Wahai Fulan, shalat manakah yang kamu persiapkan, apakah shalatmu dengan sendiri ataukah bersama kami?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>712</td></tr><tr><td>Reference</td><td>Book 6 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Сарджис, да будет доволен им Аллах, рассказал: «Однажды в мечеть вошёл человек и совершил два рак‘ата в конце мечети тогда, как Посланник Аллаха ﷺ совершал (обязательную) утреннюю молитву. Затем тот человек присоединился к молитве, которую проводил Посланник Аллаха ﷺ. Когда Посланник Аллах ﷺ завершил её, то сказал: “О такой-то! На какую из этих двух молитв ты рассчитываешь: молитву, которую ты совершил один, или ту, которую совершил с нами?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>712</td></tr><tr><td>Reference</td><td>Book 6 Hadith 81</td></tr></tbody></table></div>
 

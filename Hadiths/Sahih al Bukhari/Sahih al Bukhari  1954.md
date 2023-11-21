@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:Allah's Messenger (ﷺ) said, "When night falls fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Hisyam bin 'Urwah] berkata, aku mendengar [bapakku] berkata, aku mendengar ['Ashim bin 'Umar bin Al Khaththob] dari [bapaknya radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika malam telah datang dari sana dan siang telah berlalu dari sana serta matahari telah tenggelam, maka orang yang berpuasa sudah boleh berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 30 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Умара, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если ночь наступает с этой стороны, а день уходит с этой стороны, и скрывается солнце, постящийся становится разговевшимся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1954</td></tr><tr><td>Arabic No</td><td>1954</td></tr><tr><td>Reference</td><td>Book 30 Hadith 61</td></tr></tbody></table></div>
 

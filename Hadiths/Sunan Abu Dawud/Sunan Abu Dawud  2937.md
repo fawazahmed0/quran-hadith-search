@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: I heard the Messenger of Allah (ﷺ) as saying: One who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Muhammad bin Maslamah], dari [Muhammad bin Ishaq], dari [Yazid? bin Abu Habib] dari [Abdurrahman bin Syimasah] dari ['Uqbah bin 'Amir], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam berkata: Tidak akan masuk surga orang yang mengambil pajak secara zhalim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2937</td></tr><tr><td>Arabic No</td><td>2937</td></tr><tr><td>Reference</td><td>Book 20 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Укбы ибн ‘Амира, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Не войдёт в Рай мытарь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2937</td></tr><tr><td>Arabic No</td><td>2937</td></tr><tr><td>Reference</td><td>Book 20 Hadith 10</td></tr></tbody></table></div>
 

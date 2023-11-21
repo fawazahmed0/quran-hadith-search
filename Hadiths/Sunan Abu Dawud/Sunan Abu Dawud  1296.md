@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muttalib: The Prophet (ﷺ) said: Prayer is to be offered in two rak'ah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Mu'adz] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku ['Abd Rabbihi bin Sa'id] dari [Anas bin Abu Anas] dari [Abdullah bin Nafi'] dari [Abdullah bin Al Harits] dari [Al Mutthalib] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Shalat itu dua-dua (raka'at), hendaknya kamu (duduk) tasyahud setiap dua raka'at, hendaknya kamu khusyu', tenang dan berdo'a (dengan mengangkat kedua tanganmu), sambil mengucapkan; "Ya Allah, Ya Allah …, barangsiapa tidak melakukan hal itu, maka shalatnya kurang (sempurna)." Abu Daud di tanya mengenai shalat malam, apakah dua raka'at-dua raka'at?" jawabnya; "Jika mau dua raka'at-dua raka'at, dan jika mau boleh empat raka'at-empat raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1296</td></tr><tr><td>Arabic No</td><td>1296</td></tr><tr><td>Reference</td><td>Book 5 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Мутталиба, что Пророк ﷺ сказал: «Молитва совершается по два рак‘ата, и следует совершать ташаххуд после каждых двух рак‘атов, и ты должен проявлять смирение и неспособность обойтись без Господа, воздевать руки и говорить: “О Аллах, о Аллах!” А молитва того, кто не сделает этого, будет неполноценной». Абу Дауда спросили о совершении ночной молитвы по два рак‘ата, и он сказал: «Если желаешь, можно по два, а если желаешь, можно по четыре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1296</td></tr><tr><td>Arabic No</td><td>1296</td></tr><tr><td>Reference</td><td>Book 5 Hadith 47</td></tr></tbody></table></div>
 

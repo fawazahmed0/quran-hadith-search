@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:On the day (of the battle) of Hunain, Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Utsman bin Abi Syaibah] telah bercerita kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari ['Abdullah radliallahu 'anhu] berkata; "Ketika (selesai) perang Hunain, Nabi Shallallahu'alaihiwasallam lebih mengutamakan orang-orang tertentu dalam pembagian (harta rampasan perang) diantaranya Beliau memberikan kepada Al Aqra' bin Habis seratus ekor unta dan memberikan kepada 'Uyainah unta sebanyak itu pula, dan juga memberikan kepada beberapa orang pembesar Arab sehingga hari itu Beliau nampak lebih mengutamakan mereka dalam pembagian. Kemudian ada seseorang yang berkata; "Pembagian ini sungguh tidak adil dan tidak dimaksudkan mencari ridla Allah. Aku katakan; "Demi Allah, sungguh aku akan memberi tahu Nabi Shallallahu'alaihiwasallam". Lalu aku menemui Beliau dan mengabarkannya, maka Beliau bersabda: "Siapakah yang dapat berbuat adil kalau Allah dan Rasul-Nya saja tidak dapat berbuat adil?. Sungguh Allah telah merahmati Musa Alaihissalam ketika dia disakiti lebih besar dari ini namun dia tetap shabar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3150</td></tr><tr><td>Arabic No</td><td>3150</td></tr><tr><td>Reference</td><td>Book 57 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «В день (битвы при) Хунайне при разделе (военной добычи), Пророк ﷺ отдал предпочтение некоторым людям. Так, он дал аль-Акра‘у ибн Хабису сто верблюдов, и столько же дал ‘Уйейне (ибн Хисну, и щедро) оделил некоторых знатных арабов, отдав им в тот день предпочтение (перед другими. Увидев это,) один человек воскликнул: “Клянусь Аллахом, нет справедливости в таком разделе и не ради Аллаха это было сделано!” Тогда я сказал: “Клянусь Аллахом, я обязательно сообщу об этом Пророку ﷺ!” — после чего пришёл к нему и передал (ему слова этого человека. Выслушав меня, он) воскликнул: “А кто же тогда справедлив, если несправедливы Аллах и посланник Его?! Да помилует Аллах (пророка) Мусу, который подвергался ещё большим обидам, но терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3150</td></tr><tr><td>Arabic No</td><td>3150</td></tr><tr><td>Reference</td><td>Book 57 Hadith 58</td></tr></tbody></table></div>
 

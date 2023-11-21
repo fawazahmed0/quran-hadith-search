@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:A man among us begot a boy whom he named Al-Qasim. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dia berkata; saya mendengar [Ibnu Al Munkadir] berkata; saya mendengar [Jabir bin Abdullah] radliallahu 'anhuma bahwa seorang laki-laki dari kami memiliki seorang anak, lalu dia memberi nama Al Qasim, maka orang-orang berkata; "Kami tidak akan menjulukinya dengan "Abu Qasim" dan kami tidak akan memuliakanmu dengan itu sedikitpun, lalu orang itu datang kepada Nabi shallallahu 'alaihi wasallam dan memberitahukan tentang hal itu, maka beliau bersabda: "Namailah anakmu dengan Abdurrahman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6189</td></tr><tr><td>Arabic No</td><td>6189</td></tr><tr><td>Reference</td><td>Book 78 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Когда у одного человека из нас родился мальчик, и он назвал его аль-Касимом, люди сказали: “Мы не станем называть тебя “Абуль-Касим” и не будем доставлять тебе (этим) удовольствие и радость!” Тогда (этот человек) пришёл к Пророку ﷺ и рассказал ему об этом, а он сказал: “Назови своего сына ‘Абдуррахманом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6189</td></tr><tr><td>Arabic No</td><td>6189</td></tr><tr><td>Reference</td><td>Book 78 Hadith 213</td></tr></tbody></table></div>
 

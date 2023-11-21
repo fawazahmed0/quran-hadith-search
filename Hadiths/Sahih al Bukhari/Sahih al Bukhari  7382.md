@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "On the Day of Resurrection Allah w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibn Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibn Syihab] dari [Sa'id] -yaitu Ibnul Musayyab- dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat Allah menggenggam bumi dan melipat langit dengan tangan kanan-Nya serta berkata 'Akulah sang raja, mana raja-raja bumi?" Dan [Syu'aib] dan [Azzubaidi] dan [Ibn Musafir] dan [Ishaq bin Yahya] juga berkata dari [Az Zuhri] dan [Abu Salmah] semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7382</td></tr><tr><td>Arabic No</td><td>7382</td></tr><tr><td>Reference</td><td>Book 97 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Аллах схватит (всю) землю в день Воскрешения и свернёт небеса Своей правой рукой, а потом скажет: “Я — Царь, а где же цари земли?”».\nШу‘айб, аз-Зубайди, Ибн Мусафир и Исхак ибн Яхья передали похожий хадис от аз-Зухри от Абу Саляма
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7382</td></tr><tr><td>Arabic No</td><td>7382</td></tr><tr><td>Reference</td><td>Book 97 Hadith 12</td></tr></tbody></table></div>
 

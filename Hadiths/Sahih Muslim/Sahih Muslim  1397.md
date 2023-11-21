@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When it is a hot day, (d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Said Al Aili] dan ['Amru bin Sawad] dan [Ahmad bin Isa]. 'Amru mengatakan; telah mengabarkan kepada kami, sedangkan yang lainnya mengatakan; telah menceritakan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku ['Amru], bahwa [Bukair] menceritakan kepadanya dari [Busr bin Said] dan [Salman Al Agharr] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika hari sangat panas, maka tangguhkanlah shalat hingga suhu agak dingin, sebab panas yang menyengat berasal dari uap Jahannam." ['Amru] mengatakan; telah menceritakan kepadaku [Abu Yunus] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tangguhkanlah shalat hingga suhu agak dingin, sebab panas yang menyengat berasal dari uap Jahannam." ['Amru] mengatakan; telah menceritakan kepadaku [Ibnu Syihab] dari [Ibnu Al Musayyab] dan [Abu Salamah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam dengan hadits seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1397</td></tr><tr><td>Arabic No</td><td>615.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если день будет знойным, отложите молитву, пока не станет прохладнее, ибо, поистине, сильный зной от дуновения Ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1397</td></tr><tr><td>Arabic No</td><td>615.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 231</td></tr></tbody></table></div>
 

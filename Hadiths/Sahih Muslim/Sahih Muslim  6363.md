@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarîr Ibn 'Abdoullâh (que Dieu l'agrée) a dit : "L'Envoyé de Dieu (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Khalid bin 'Abdullah] dari [Bayan] dari [Qays bin Abu Hazim] dari [Jarir bin 'Abdullah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku ['Abdul Hamid bin Bayan]; Telah menceritakan kepada kami [Khalid] dari [Bayan] dia berkata; Aku mendengar [Qais bin Abu Hazim] berkata; [Jarir bin Abdullah] berkata; "Sejak saya masuk Islam, Rasulullah shallallahu 'alaihi wasallam tidak pernah menolak saya untuk bertamu dan berkunjung ke rumah beliau. Dan beliau selalu tersenyum setiap kali melihat saya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6363</td></tr><tr><td>Arabic No</td><td>2475.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6363</td></tr><tr><td>Arabic No</td><td>2475.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 193</td></tr></tbody></table></div>
 

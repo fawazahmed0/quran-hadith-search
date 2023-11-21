@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Nu'm:A person asked 'Abdullah bin 'Umar whether a Muslim could 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Muhammad bin Abu Ya'qub] aku mendengar [Ibnu Abu Nu'min] aku mendengar ['Abdullah bin 'Umar radliallahu 'anhuma] yang ketika itu ada orang yang bertanya kepadanya tentang muhrim (orang yang sedang ihram) ". Syu'bah berkata; "Seingatku orang itu telah membunuh lalat ketika sedang ihram". Maka 'Abdullah bin 'Umar radliallahu 'anhuma berkata; "Penduduk 'Iraq bertanya tentang lalat padahal mereka telah membunuh putra dari putri Rasulullah shallallahu 'alaihi wasallam sedangkan Nabi shallallahu 'alaihi wasallam telah berkata bahwa: "Keduanya (Al Hasan da Al Husain) adalah aroma wewangianku dari dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>3753</td></tr><tr><td>Reference</td><td>Book 62 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) какой-то человек спросил Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, может ли человек, надевший ихрам, убивать мух. (В ответ ему Ибн ‘Умар) сказал: «Жители Ирака спрашивают о мухах после того, как они убили сына дочери Посланника Аллаха ﷺ, а ведь Пророк ﷺ сказал: “В этом мире они для меня как два базилика!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>3753</td></tr><tr><td>Reference</td><td>Book 62 Hadith 98</td></tr></tbody></table></div>
 

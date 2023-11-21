@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: If any one of you has pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila salah seorang dari kalian mendapatkan sesuatu yang kurang beres dalam perutnya, lalu rancu baginya perkara tersebut, apakah keluar atau tidak, maka janganlah dia keluar dari masjid hingga dia mendengar suara (kentut) atau mendapatkan baunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>805</td></tr><tr><td>Arabic No</td><td>362</td></tr><tr><td>Reference</td><td>Book 3 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас почувствует что-то в животе и станет сомневаться, вышло ли из него что-то или нет, пусть не покидает мечеть, пока не услышит звук или не почувствует запах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>805</td></tr><tr><td>Arabic No</td><td>362</td></tr><tr><td>Reference</td><td>Book 3 Hadith 126</td></tr></tbody></table></div>
 

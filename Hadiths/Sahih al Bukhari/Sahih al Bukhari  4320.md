@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When we returned from (the battle of) Hunain, 'Umar asked the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] bahwa Umar berujar; "Wahai Rasulullah! -lewat jalur periwayatan lain-telah menceritakan kepadaku [Muhammad bin Muqatil] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, katanya; Sekembali kami dari Hunain, Umar bertanya kepada Nabi shallallahu 'alaihi wasallam tentang nadzarnya yang ia lakukan semasa jahiliyah, yaitu untuk beri'tikaf. Maka Nabi shallallahu 'alaihi wasallam memerintahkan untuk menunaikannya. Sedang [sebagian mereka] mengatakan dari [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dan hadits ini diriwayatkan oleh [Jarir bin Hazim] dan [Hamad bin Salamah] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4320</td></tr><tr><td>Arabic No</td><td>4320</td></tr><tr><td>Reference</td><td>Book 64 Hadith 350</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Когда мы вернулись из Хунайна, ’Умар спросил Пророка ﷺ об обете совершить и‘тикяф (в мечети аль-Харам), который он дал во время невежества (джахилиййи), и Пророк ﷺ приказал ему выполнить этот обет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4320</td></tr><tr><td>Arabic No</td><td>4320</td></tr><tr><td>Reference</td><td>Book 64 Hadith 350</td></tr></tbody></table></div>
 

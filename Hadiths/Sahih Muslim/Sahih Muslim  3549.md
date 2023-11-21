@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported that Allah's Apostle (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Az Zahrani] dan [Abu Kamil Al Jahdari] sedangkan lafalzhnya dari Abu Kamil, keduanya berkata; Telah menceritakan kepada kami [Hammad dia adalah Ibnu Zaid] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abdurrahman bin Bisyr bin Mas'ud] yang ia kembalikan (sampaikan) riwayatnya kepada [Abu Sa'id Al Khudri] dia berkata; Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai Azl (yaitu mengeluarkan mani diluar kemaluan istri waktu besenggama), beliau bersabda: "Tidak ada mudharat jika kalian tidak melakukan azl, karena sesungguhnya hal itu hanyalah berkenaan dengan takdir Allah." Muhammad berkata; Dan sabda beliau: "Tidak ada mudharat jika kalian tidak melakukannya", itu lebih mendekati kepada larangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3549</td></tr><tr><td>Arabic No</td><td>1438.06</td></tr><tr><td>Reference</td><td>Book 16 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3549</td></tr><tr><td>Arabic No</td><td>1438.06</td></tr><tr><td>Reference</td><td>Book 16 Hadith 151</td></tr></tbody></table></div>
 

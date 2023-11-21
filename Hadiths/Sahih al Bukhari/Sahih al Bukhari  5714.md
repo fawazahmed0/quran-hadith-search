@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) When the health of Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dan [Yunus], [Az Zuhri] mengatakan; telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin 'Utbah] bahwa [Aisyah] radliallahu 'anha yaitu isteri nabi shallallahu 'alaihi wasallam berkata; "Ketika sakit Rasulullah shallallahu 'alaihi wasallam semakin parah, beliau meminta izin kepada para isterinya supaya di rawat di rumahku, setelah para isterinya mengizinkan beliau (tinggal di rumahku), beliau keluar dengan dibopong dua orang yaitu beliau berada di antara Abbas dan laki-laki lain, sementara kaki beliau tertatih-tatih di tanah." Lalu kuberitahukan hal itu kepada [Ibnu Abbas], dia berkata; "Tahukah kamu siapakah yang dimaksud Aisyah dengan laki-laki lain itu?" aku menjawab; "Tidak." Ibnu Abbas berkata; "Dia adalah Ali." Aisyah berkata lagi; Setelah Nabi shallallahu 'alaihi wasallam masuk ke rumahnya sementara sakitnya semakin parah, beliau bersabda: "Tolong guyurlah aku dari tujuh geriba yang belum dibuka ikatannya, siapa tahu aku masih bisa menyampaikan pesan kepada orang-orang." Lantas kami dudukkan beliau di sebuah ember besar milik Hafsah isteri Nabi shallallahu 'alaihi wasallam. Kemudian kami mengguyur beliau dari geriba-geriba itu hingga nabi memberi isyarat "Cukup, telah kalian lakukan!" Nabi pun keluar menemui orang-orang dan mengimami mereka serta menyampaikan pidatonya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5714</td></tr><tr><td>Arabic No</td><td>5714</td></tr><tr><td>Reference</td><td>Book 76 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланнику Аллаха ﷺ стало (совсем) тяжко, и его страдания усилились, он попросил своих жён, чтобы за ним ухаживали в моём доме, и они дали на это своё согласие. И Пророк ﷺ, который едва отрывал ноги от земли, вышел (из того дома, где он находился), поддерживаемый (с двух сторон) ‘Аббасом и ещё одним человеком».\n‘Убайдуллах (передатчик хадиса) сказал: «Я сообщил Ибн ’Аббасу (об этих словах ‘Аиши,) и он спросил: “Знаешь ли ты, кто был этим другим человеком, которого не назвала ’Аиша?” Я ответил: “Нет”. Он сказал: “(Им был) ‘Али”».\nИ ‘Аиша рассказывала, что, когда Пророк ﷺ вошёл в свой дом, и его страдания усилились ещё больше, он сказал: «Вылейте на меня воду из семи бурдюков, ремни которых ещё не развязывались, и, может быть, я смогу дать наставление людям”».\n‘Аиша сказала: «И мы усадили его в медный таз, принадлежавший жене Пророка ﷺ Xафсе, а потом мы начали лить на него (воду из этих бурдюков и делали это до тех пор), пока он не стал подавать нам знаки, желая сказать, что пора остановиться, после чего он вышел к людям, совершил с ними молитву и обратился с проповедью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5714</td></tr><tr><td>Arabic No</td><td>5714</td></tr><tr><td>Reference</td><td>Book 76 Hadith 31</td></tr></tbody></table></div>
 

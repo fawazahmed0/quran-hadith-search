@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "Offer some of your prayers in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul A'laa bin Hammad] telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dan ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhumaa] berkata; Telah bersabda Rasulullah shallallahu 'alaihi wasallam: "Kerjakanlah di rumah-rumah kalian diantara shalat-shalat yang ada, dan jangan kalian jadikan (rumah-rumah kalian) sebagai kuburan". Hadits ini uga diperkuat oleh ['Abdul Wahhab] dari [Ayyub]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1187</td></tr><tr><td>Arabic No</td><td>1187</td></tr><tr><td>Reference</td><td>Book 19 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Совершайте некоторые молитвы в своих домах и не превращайте их в могилы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1187</td></tr><tr><td>Arabic No</td><td>1187</td></tr><tr><td>Reference</td><td>Book 19 Hadith 63</td></tr></tbody></table></div>
 

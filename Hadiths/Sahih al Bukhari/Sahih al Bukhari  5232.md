@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:Allah's Messenger (ﷺ) said, "Beware of entering upon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] dari [Yazid bin Abu Habib] dari [Abul Khair] dari [Uqbah bin Amir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian masuk ke dalam tempat kaum wanita." Lalu seorang laki-laki dari Anshar berkata, "Wahai Rasulullah, bagaimana pendapat Anda mengenai ipar?" beliau menjawab: "Ipar adalah maut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5232</td></tr><tr><td>Arabic No</td><td>5232</td></tr><tr><td>Reference</td><td>Book 67 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Укбы ибн ‘Амира, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал:«Ни в коем случае не входите к (посторонним) женщинам!» Один мужчина из числа ансаров спросил: «О Посланник Аллаха, а что ты скажешь о родственниках мужа /хамв/?» (На это Пророк ﷺ) сказал: «Такой родственник — это гибель!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5232</td></tr><tr><td>Arabic No</td><td>5232</td></tr><tr><td>Reference</td><td>Book 67 Hadith 165</td></tr></tbody></table></div>
 

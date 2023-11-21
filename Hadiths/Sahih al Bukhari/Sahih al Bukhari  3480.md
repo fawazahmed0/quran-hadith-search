@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "A man used to give loans to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3480</td></tr><tr><td>Arabic No</td><td>3480</td></tr><tr><td>Reference</td><td>Book 60 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Некогда жил человек, который давал взаймы людям и говорил своему слуге: “Если ты придёшь (за деньгами) к тому, кто находится в затруднительном положении, то прояви к нему снисходительность, быть может Аллах проявит снисходительность к нам”. После этого он встретил Аллаха, и Аллах действительно проявил к нему снисходительность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3480</td></tr><tr><td>Arabic No</td><td>3480</td></tr><tr><td>Reference</td><td>Book 60 Hadith 147</td></tr></tbody></table></div>
 

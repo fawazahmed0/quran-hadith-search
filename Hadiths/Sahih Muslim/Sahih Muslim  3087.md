@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ousâma Ibn Zayd (que Dieu l'agrée) a dit : Je montai en croupe derrière l'Env
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibnu Hujr] mereka berkata, Telah menceritakan kepada kami [Isma'il] -dalam riwyat lain Dan Telah menceritakan kepada kami [Yahya bin Yahya] -lafazh juga miliknya- ia berkata, telah mengabarkan kepada kami [Isma'il bin Ja'far] dari [Muhammad bin Abu Harmalah] dari [Kuraib] Maula Ibnu Abbas, dari [Usamah bin Zaid] ia berkata; Aku pernah membonceng di belakang Rasulullah shallallahu 'alaihi wasallam dari Arafah. Ketika Rasulullah shallallahu 'alaihi wasallam sampai di bukit sebelah kiri sebelum Muzdalifah, beliau mengistirahatkan hewan tunggangannya. Kemudian beliau kencing, setelah itu beliau datang, lalu aku menuangkan air wudlu untuknya, maka beliau pun berwudlu dengan wudlu ringan. Sesudah itu, aku berkata, "Apakah Anda hendak shalat wahai Rasulullah?" beliau bersabda: "Shalat (nanti) di depanmu (yakni Muzdalifah)." Lalu Rasulullah shallallahu 'alaihi wasallam menaiki kembali kendaraannya hingga sampai di Muzdalifah, kemudian beliau shalat. setelah itu, Al Fadllu membonceng di belakang Rasulullah shallallahu 'alaihi wasallam dari Muzdalifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

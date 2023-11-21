@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The first man to be called on the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Isma'il] telah menceritakan kepada kami [saudaraku] dari [Sulaiman] dari [Tsaur] dari [Abu Al Ghaits] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Yang pertama-tama dipanggil pada hari kiamat adalah Adam, lantas anak cucu keturunannya kelihatan dan diperkenalkan kepada mereka; 'Ini ayah pertama-tama kalian, Adam.' Adam menjawab; 'Baik dan aku memenuhi panggilan-Mu.' Allah bertitah; 'Datangkanlah utusan-utusan Jahannam dari anak cucumu! ' Adam bertanya; 'Wahai Rabb, berapa aku datangkan? ' Allah menjawab; 'datangkanlah dari setiap seratus orang, Sembilan puluh Sembilan orang!" Para sahabat berujar; 'Wahai Rasulullah, jika setiap seratus dari kami diambil Sembilan sepuluh orang, kami tinggal berapa? ' Nabi menjawab: "Umatku dibandingkan umat-umat lainnya hanyalah bagaikan sehelai rambut putih di seekor sapi hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6529</td></tr><tr><td>Arabic No</td><td>6529</td></tr><tr><td>Reference</td><td>Book 81 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Первым, кого вызовут в День воскрешения, будет Адам. Ему покажут его потомство, которому скажут: “Это — ваш отец Адам” (Адам) ответит: “Вот я перед Тобой и готов служить Тебе (о Господь)!” (Аллах) скажет (ему): “Выведи тех из числа твоего потомства, кому суждено оказаться в Геенне”. (Адам) спросит: “О Господь, скольких я должен вывести?” (Господь) ответит: “Выведи из каждой сотни девяносто девять”. (Люди) спросили (Пророка ﷺ): “О Посланник Аллаха, если из каждой сотни будет взято девяносто девять, то что же от нас останется?” Он ответил: “Поистине, моя община средь остальных народов подобна белому волосу на (шкуре) чёрного быка”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6529</td></tr><tr><td>Arabic No</td><td>6529</td></tr><tr><td>Reference</td><td>Book 81 Hadith 118</td></tr></tbody></table></div>
 

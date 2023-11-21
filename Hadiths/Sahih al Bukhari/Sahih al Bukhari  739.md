@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Whenever Ibn 'Umar started the prayer with Takbir, he used to rai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy] berkata, telah menceritakan kepada kami ['Abdul A'la] berkata, telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] bahwa [Ibnu 'Umar] ketika memulai shalat, dia bertakbir dengan mengangkat kedua tangannya, dan ketika rukuk mengangkat kedua tangannya, dan ketika mengucapkan: 'SAMI'ALLAHU LIMAN HAMIDAH mengangkat kedua tangannya, dan ketika berdiri dari dua rakaat mengangkat kedua tangannya. Lalu Ibnu 'Umar mengatakan bahwa Nabi shallallahu 'alaihi wasallam melakukan seperti itu." Dan diriwayatkan oleh [Hammad bin Salamah] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan pula oleh [Ibnu Thahman] dari [Ayyub] dan [Musa bin 'Uqbah] secara ringkas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>739</td></tr><tr><td>Arabic No</td><td>739</td></tr><tr><td>Reference</td><td>Book 10 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а о том, что обычно, когда (‘Абдуллах) ибн ‘Умар, да будет доволен Аллах ими обоими, начинал молитву, он произносил слова «Аллах велик /Аллаху акбар/» и поднимал руки. И он поднимал руки, когда совершал поясной поклон, и когда он говорил: «Да услышит Аллах того, кто воздал Ему хвалу /Cами‘а-Ллах ли-ман хамидаху/», он поднимал руки, и когда он вставал после (совершения) двух (первых) рак‘атов, он (также) поднимал руки. И Ибн ‘Умар возводил эти (действия) к (поступкам) Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>739</td></tr><tr><td>Arabic No</td><td>739</td></tr><tr><td>Reference</td><td>Book 10 Hadith 133</td></tr></tbody></table></div>
 

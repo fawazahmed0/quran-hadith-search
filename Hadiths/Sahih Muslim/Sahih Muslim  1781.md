@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Yahya bin Abu Katsir] ia berkata, telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] telah menceritakan kepada mereka, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berpuasa pada bulan Ramadlan dengan penuh keimanan dan mengharap (pahala dari Allah), maka dosa-dosanya yang telah lalu akan diampuni. Dan siapa yang menegakkan (shalat pada malam) Lailatul Qadr dengan keimanan dan mengharap (pahala dari Allah), maka dosa-dosanya yang telah lalu akan diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>760.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Тому, кто постился в месяц рамадан с верой и надеждой (на награду от Аллаха), простятся его прошлые прегрешения. И тому, кто выстаивал Ночь предопределения с верой и надеждой (на награду от Аллаха), простятся его прошлые прегрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>760.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 209</td></tr></tbody></table></div>
 

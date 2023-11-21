@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq:Abu Mas'ud Al-Ansari said, "Allah's Messenger (ﷺ), used to ord
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dia berkata; aku berkata kepada [Abu Usamah] Aku ceritakan kepadamu dari [Zaidah] dari [Sulaiman] dari [Syaqiq] dari [Abu Mas'ud Al Anshari] dia berkata; "Rasulullah Shalallahu 'Alaihi Wa Sallam pernah memerintahkan kami untuk bersedekah, maka salah seorang dari kami berusaha mencari sesuatu yang bisa disedekahkan, hingga ia datang dengan membawa satu mud -hasil kerja kerasnya- yang ia berikan kepada Rasulullah Shalallahu 'Alaihi Wa Sallam. Sungguh sekarang aku mengetahui seseorang yang memiliki seratus ribu, seakan-akan dia telah menawarkan dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4669</td></tr><tr><td>Arabic No</td><td>4669</td></tr><tr><td>Reference</td><td>Book 65 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Шакыка, что Абу Мас‘уд аль-Ансари сказал: «Когда Посланник Аллаха ﷺ велел нам подавать милостыню, мы стали работать, получая за это по мудду (зерна), а сегодня некоторые из (занимавшихся этим) имеют и по сто тысяч». Шакык сказал: «Как будто Абу Мас’уд намекал на себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4669</td></tr><tr><td>Arabic No</td><td>4669</td></tr><tr><td>Reference</td><td>Book 65 Hadith 191</td></tr></tbody></table></div>
 

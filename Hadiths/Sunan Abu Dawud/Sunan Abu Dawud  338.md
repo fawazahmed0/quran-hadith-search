@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id al-Khudri said:Two persons set out on a journey. Meanwhile the time of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ishaq Al-Masassayi] telah mengabarkan kepada kami [Abdullah bin Nafi'] dari [Al-Laits bin Sa'd] dari [Bakr bin Sawadah] dari ['Atha' bin Yasar] dari [Abu Sa'id Al-Khudri] dia berkata; Ada dua orang mengadakan perjalanan jauh, lalu waktu shalat tiba sementara mereka tidak mempunyai air, maka keduanya bertayammum dengan menggunakan tanah yang bersih dan keduanya shalat, kemudian keduanya mendapatkan air dalam masa waktu shalat tersebut, maka salah seorang dari keduanya mengulangi shalat dengan berwudhu dan yang lainnya tidak, kemudian keduanya mendatangi Rasulullah Shallallahu alaihi wasallam dan mengisahkan perjalanan mereka, maka Rasulullah Shallallahu alaihi wasallam bersabda kepada yang tidak mengulang shalat: "Kamu telah melaksanakan sunnah dan shalat kamu sempurna (tidak perlu diulang) ", dan beliau bersabda kepada yang berwudhu dan mengulangi shalat: "Kamu mendapatkan pahala dua kali." Abu Dawud berkata; Selain Ibnu Nafi' yang meriwayatkan juga [Al-Laits] dari [Umairah bin Abi Najiah] dari [Bakr bin Sawadah] dari ['Atha' bin Yasar] dari Nabi shallallahu 'alaihi wasallam. Abu Dawud berkata; Penyebutan [Abu Sa'id Al-Khudri] pada hadits ini tidak mahfuzh, akan tetapi mursal. Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Bakr bin Sawadah] dari [Abu Abdillah, mantan sahaya Isma'il bin Ubaid] dari ['Atha' bin Yasar] bahwasanya ada dua orang dari sahabat Rasulullah Shallallahu alaihi wasallam, seperti di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>338</td></tr><tr><td>Arabic No</td><td>338</td></tr><tr><td>Reference</td><td>Book 1 Hadith 338</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Двое мужчин отправились в путь, а когда наступило время молитвы, у них не оказалось с собой воды, и они совершили таяммум с чистым песком и помолились, а затем нашли воду до того, как вышло время молитвы. Один из них повторил молитву и омовение /вудуъ/, а другой не стал делать этого. Затем они пришли к Посланнику Аллаха ﷺ и рассказали ему об этом, и тому, кто не повторил (молитву), он сказал: “Ты поступил в соответствии с моей Сунной и твоей молитвы было для тебя достаточно ”. А тому, кто совершил омовение и повторил (молитву) он сказал: “Ты получишь двойное вознаграждение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>338</td></tr><tr><td>Arabic No</td><td>338</td></tr><tr><td>Reference</td><td>Book 1 Hadith 338</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa ia telah menceraikan isterinya yang dalam keadaan haid pada zaman Rasulullah shallallahu wa'alaihi wa sallam. Kemudian Umar bin Al Khathab bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai hal tersebut. Rasulullah shallallahu 'alaihi wasallam bersabda: "Perintahkan dia agar kembali kepada isterinya kemudian menahannya (tidak menceraikannya) hingga suci, kemudian haid, kemudian suci, kemudian apabila menghendaki maka ia bisa menahannya setelah itu, dan apabila ia menghendaki maka ia boleh menceraikannya sebelum ia menggaulinya. Itulah iddah yang Allah perintahkan jika ingin mencerakan wanita (hendaknya pada kondisi tersebut)." Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Al Laits] dari [Nafi'] bahwa [Ibnu Umar] menceraikan isterinya yang sedang haid dengan satu kali cerai, sama dengan makna hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5251) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2179</td></tr><tr><td>Arabic No</td><td>2179</td></tr><tr><td>Reference</td><td>Book 13 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что он дал своей жене развод, когда у неё была менструация, во времена Посланника Аллаха ﷺ. ‘Умар ибн аль-Хаттаб спросил об этом Посланника Аллаха ﷺ. Посланник Аллаха ﷺ сказал: «Вели ему вернуть её, удержать до тех пор, пока она не очистится от этой менструации, а потом и от следующей. А потом, если желает, пусть удержит её при себе или даст ей развод прежде, чем прикоснётся к ней. С таким сроком Всевышний Аллах велел давать развод женщинам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5251) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2179</td></tr><tr><td>Arabic No</td><td>2179</td></tr><tr><td>Reference</td><td>Book 13 Hadith 5</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Hasan that A'idh b. 'Amr who was one of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Al Hasan] bahwa ['Aidz bin 'Amru] salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam, menemui Ubaidullah bin Ziyad sambil berkata, "Wahai anakkku, sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya seburuk-buruk penguasa adalah penguasa yang zhalim, maka janganlah kamu termasuk dari mereka." Lalu 'Ubaidullah berkata kepadanya, "Duduklah, kamu ini hanyalah sahabat Muhammad shallallahu 'alaihi wasallam yang masih yunior (rendahan)." Maka 'Aidz pun ganti berkata, "Apakah di antara mereka ada yang disebut sebagai sahabat kelas yunior?" Sebenarnya yang pantas disebut sahabat kelas rendahan adalah orang-orang setelah mereka dan juga yang selain mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4733</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 33 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4733</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 33 Hadith 32</td></tr></tbody></table></div>
 

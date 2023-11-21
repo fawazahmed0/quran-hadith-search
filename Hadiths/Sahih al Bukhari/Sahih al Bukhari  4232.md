@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:Abu Musa said, "The Prophet (ﷺ) said, "I recognize the voic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 64 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Поистине, я узнаю голоса (людей из) сообщества аш‘аритов, которые, войдя (в свои дома, читают) Коран по ночам, и я узнаю их дома по их голосам (, когда они читают) Коран ночью, хотя я и не знаю, в каких (именно) домах они останавливаются днём. Среди них находится Хаким, который, встретив всадников (или: врага), всегда говорил: “Поистине, мои товарищи велят вам подождать их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 64 Hadith 270</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I took 'Abdullah bin Abu Talha to Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Al Walid] telah menceritakan kepada kami [Abu 'Amru Al Awza'iy] telah menceritakan kepada saya [Ishaq bin 'Abdullah bin Abu Tholhah] telah menceritakan kepada saya [Anas bin Malik radliallahu 'anhu] berkata: "Aku berangkat di pagi hari bersama 'Abdullah bin Abu Tholhah menemui Rasulullah shallallahu 'alaihi wasallam untuk mentahniknya dan aku dapati di tangan Beliau ada stempel besi yang biasanya untuk memberikan tanda pada unta (dari hasil zakat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1502</td></tr><tr><td>Arabic No</td><td>1502</td></tr><tr><td>Reference</td><td>Book 24 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Когда я принёс ‘Абдуллаха ибн Абу Тальху к Посланнику Аллаха ﷺ чтобы он сделал ему тахник, я застал его с тавром в руке, которым он клеймил верблюдов(, доставленных) в качестве садаки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1502</td></tr><tr><td>Arabic No</td><td>1502</td></tr><tr><td>Reference</td><td>Book 24 Hadith 102</td></tr></tbody></table></div>
 

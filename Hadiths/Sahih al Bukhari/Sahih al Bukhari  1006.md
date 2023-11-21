@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira;:Whenever the Prophet (p.b.u.h) lifted his head from the bo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Mughirah bin 'Abdurrahman] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa jika Nabi shallallahu 'alaihi wasallam mengangkat kepalanya dari rukuk yang akhir, beliau membaca: "ALLAHUMMA ANJI AYYASY IBNA ABII RABI'AH ALLAHUMMA ANJI SALAMAH IBNA HISYAM ALLAHUMMA ANJIL WALIDA IBNAL WALIID ALLAHUMMA ANJIL MUSTADL'AFIINA MINAL MU'MINIINA ALLAHUMMASDUD WATH'ATAKA 'ALAA MUDLAR ALLHUMMALHAA SINIINA YUSUF (Ya Allah selamatkanlah 'Ayyasy bin Abu Rabi'ah, Ya Allah selamatkanlah Salamah bin Hisyam, Ya Allah selamatkanlah Al Walib bin Al Walid, Ya Allah selamatkanlah orang-orang yang lemah dari orang-orang beriman. Ya Allah keraskanlah sikaan-Mu atas suKu Mudlar dan timpakanlah kepada mereka musim paceklik sebagaimana terjadi di zaman Yusuf)." Nabi shallallahu 'alaihi wasallam juga berdoa: "Suku Ghifar, semoga Allah mengampuni mereka. Suku Aslam, semoga Allah menyelamatkan mereka." [Ibnu Abu Az Zinad] menyebutkan dari [Bapaknya], "Semua ini dilakukan pada shalat Shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1006</td></tr><tr><td>Arabic No</td><td>1006</td></tr><tr><td>Reference</td><td>Book 15 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что, поднимая голову после совершения последнего рак‘ата, Пророк ﷺ говорил: «О Аллах, спаси ‘Аййаша бин Абу Раби‘у, о Аллах, спаси Саламу бин Хишама, о Аллах, спаси аль-Валида бин аль-Валида, о Аллах, спаси слабых из числа верующих! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Йусуфа!»\nВ конце данной версии этого хадиса приводятся слова Абу Хурайры, да будет доволен им Аллах, сообщившего, что Пророк ﷺ сказал: “Да простит /гафара/ Аллах племя гифар, да спасёт /салама/ Аллах племя аслам!”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1006</td></tr><tr><td>Arabic No</td><td>1006</td></tr><tr><td>Reference</td><td>Book 15 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported that the Messenger of Allah (ﷺ) used to recite on tw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Ishaq] semuanya dari [Jarir] - [Yahya] berkata- telah mengabarkan kepada kami [Jarir] dari [Ibrahim bin Muhammad bin Al Muntasyir] dari [bapaknya] dari [Habib bin Salim] Maula Nu'man bin Basyir, dari [Nu'man bin Basyir] ia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa membaca surat Al A'la dan surat Al Ghasyiah dalam shalat dua hari raya dan shalat Jum'at. Bila shalat Id bertepatan dengan hari Jum'at, beliau juga membaca kedua surat tersebut dalam kedua shalat itu." Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Ibrahim bin Muhammad bin Al Muntasyir] dengan sanad-sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2028</td></tr><tr><td>Arabic No</td><td>878.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир сказал: «Во время праздничных и пятничных молитв Посланник Аллаха ﷺ обычно читал “Славь имя твоего Высочайшего Господа” и “Дошёл ли до тебя рассказ о Покрывающем?”, а если день праздника приходился на пятницу, то он читал (эти суры) во время обеих молитв»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2028</td></tr><tr><td>Arabic No</td><td>878.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 78</td></tr></tbody></table></div>
 

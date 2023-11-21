@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:On the Day of the Conquest of Mecca, Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Jarir bin 'Abdul Hamid] dari [Manshur] dari [Mujahid] dari [Thowus] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda pada hari pembebasan kota Makkah: "Sesungguhnya tanah ini telah diharamkan oleh Allah, maka tidak boleh ditebang pohonnya dan tidak boleh diburu hewan buruannya dan tidak ditemukan satupun barang yang hilang kecuali harus dikembalikan kepada yang mengenalnya (pemiliknya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1587</td></tr><tr><td>Arabic No</td><td>1587</td></tr><tr><td>Reference</td><td>Book 25 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что в День покорения Мекки Пророк ﷺ сказал: «Аллах сделал этот город запретным, в нём нельзя срезать кустарники, вспугивать дичь и поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1587</td></tr><tr><td>Arabic No</td><td>1587</td></tr><tr><td>Reference</td><td>Book 25 Hadith 73</td></tr></tbody></table></div>
 

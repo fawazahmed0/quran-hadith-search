@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:To the best of my knowledge, the Prophet (ﷺ) did not take his me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Mu'adz bin Hisyam] ia berkata;; Telah menceritakan kepadaku [bapakku] dari [Yunus] -Ali berkata; Itu adalah Al Iksaf- dari [Qatadah] dari [Anas] radliallahu 'anhu, ia berkata; Aku tidak pernah mengetahui bahwa Nabi shallallahu 'alaihi wasallam makan di atas piring sekali pun. Dan tidak pernah pula beliau dibuatkan roti yang empuk sekali pun serta beliau juga tak pernah makan di atas meja makan sekali pun. Maka ditanyakan kepada Qatadah, "Kalau begitu, di atas apa mereka makan?" ia menjawab, "Di atas daun kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5386</td></tr><tr><td>Arabic No</td><td>5386</td></tr><tr><td>Reference</td><td>Book 70 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса сообщается, что Анас, да будет доволен им Аллах,) сказал: «Я никогда не слышал ни о том, чтобы Пророк ﷺ ел с маленького блюда, ни о том, чтобы он ел хлеб из тонкой муки, ни о том, чтобы он ел за обеденным столом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5386</td></tr><tr><td>Arabic No</td><td>5386</td></tr><tr><td>Reference</td><td>Book 70 Hadith 14</td></tr></tbody></table></div>
 

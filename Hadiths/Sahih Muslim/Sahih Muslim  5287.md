@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) breathed three times (outside the ves
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami ['Abdul Warits bin Sa'id]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami ['Abdul Warits] dari [Abu 'Isham] dari [Anas] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bernafas tiga kali ketika minum. Beliau berkata: 'Itu lebih melegakan, lebih bersih, dan lebih bermanfaat." Kata Anas; 'Karena itu aku bernafas tiga kali setiap minum.' Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] dan [Abu Bakr bin Abu Syaibah] mereka berkata; Telah menceritakan kepada kami [Waki'] dari [Hisyam Ad Dawastai] dari [Abu 'Isham] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa, dengan kalimat 'fil Inaa' (di dalam bejana)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5287</td></tr><tr><td>Arabic No</td><td>2028.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ пил воду, то делал три вдоха и выдоха, и говорил: “Так (пить) полезнее, приятнее и целебнее”».Анас сказал: «Во время питья я тоже делаю три вдоха и выдоха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5287</td></tr><tr><td>Arabic No</td><td>2028.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 161</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ya'la b. Umayyah:I remarked to 'Umar al-Khattab: Have you seen the shor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] keduanya berkata; telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Khusyaisy yaitu Ibnu Ashram] telah menceritakan kepada kami [Abdurrazaq] dari [Ibnu Juraij] dia berkata; telah menceritakan kepadaku [Abdurrahman bin Abdullah bin Abu 'Ammar] dari [Abdullah bin Babaih] dari [Ya'la bin Umayyah] dia berkata; aku bertanya kepada Umar bin Khattab; "Bagaimana pendapat anda mengenai orang-orang yang meng-qashar shalatnya karena firman Allah; "…Jika kamu takut di serang oleh orang-orang kafir…" QS An Nisaa'; 101, padahal rasa takut itu telah hilang saat sekarang ini." [Umar] berkata; "Sebenarnya aku juga heran seperti yang kamu herankan itu, oleh karena itu, aku sampaikan masalah tersebut kepada Rasulullah shallallahu 'alaihi wasallam, justru beliau menjawab: "Itu merupakan sedekah Allah terhadap kalian, oleh karena itu, terimalah sedekah-Nya." Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrazaq] dan [Muhammad bin Bakr] keduanya berkata; telah mengabarkan kepada kami [Ibnu Juraij] saya mendengar [Abdullah bin Abu 'Ammar] bercerita …" kemudian ia menyebutkan hadits yang semisalnya, Abu Daud mengatakan; "Di riwayatkan pula oleh [Abu 'Ashim] dan [Hammad bin Mas'adah] sebagaimana yang di riwayatkan oleh Ibnu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim (686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1199</td></tr><tr><td>Arabic No</td><td>1199</td></tr><tr><td>Reference</td><td>Book 4 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывается от Я‘ли ибн Умайи: «Я сказал ‘Умару ибн аль-Хаттабу, да будет доволен им Аллаха: “Сегодня люди сокращают молитву (в пути). Но ведь Всевышний Аллах сказал: “…если вы опасаетесь искушения со стороны неверующих” (сура “ан-Ниса”, аят 101). А те дни уже минули”. Он сказал: “Меня удивляло то же, что и тебя, и я сказал об этом Посланнику Аллаха ﷺ. Он же сказал: “Это милостыня, которую подал вам Аллах. Так примите же Его милостыню!””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim (686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1199</td></tr><tr><td>Arabic No</td><td>1199</td></tr><tr><td>Reference</td><td>Book 4 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: I heard the Messenger of Allah (ﷺ) say: The wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibnu Al Mutsanna], telah menceritakan kepada Kami [Abu Ishaq Ath Thaqani], telah menceritakan kepada Kami [Al Fadhl bin Musa] dari ['Ubaidullah bin Abdullah Al 'Ataki] dari [Abdullah bin Buraidah] dari [ayahnya], ia berkata; saya mendengar Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Shalat witir adalah sebuah hak, barang siapa yang tidak melakukan shalat witir maka ia bukan dari golongan Kami, shalat witir adalah sebuah hak, barang siapa yang tidak melakukan shalat witir maka bukan dari golongan Kami, shalat witir adalah sebuah hak, barang siapa yang tidak melakukan shalat witir, barang siapa yang tidak melakukan shalat witir maka bukan dari golongan Kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1419</td></tr><tr><td>Arabic No</td><td>1419</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Бурайда передаёт от своего отца: «Я слышал, как Посланник Аллаха ﷺ сказал: “Витр право (Аллаха), и кто не совершает его, тот не из нас. Витр право (Аллаха), и кто не совершает его, тот не из нас. Витр право (Аллаха), и кто не совершает его, тот не из нас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1419</td></tr><tr><td>Arabic No</td><td>1419</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
 

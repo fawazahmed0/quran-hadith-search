@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Some men had superfluous land and they said that they would give 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2632</td></tr><tr><td>Arabic No</td><td>2632</td></tr><tr><td>Reference</td><td>Book 51 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «У некоторых людей из нас были лишние участки земли, и они говорили: “Мы сдадим их в аренду (при условии, что мы будем получать за них) треть, четверть или половину их урожая”. Тогда Пророк ﷺ сказал: “Пусть тот, у кого есть земля, возделывает её сам или даёт обрабатывать её своему брату (бесплатно), или оставляет её (необработанной)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2632</td></tr><tr><td>Arabic No</td><td>2632</td></tr><tr><td>Reference</td><td>Book 51 Hadith 64</td></tr></tbody></table></div>
 

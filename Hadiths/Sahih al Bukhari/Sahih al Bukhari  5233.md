@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "No man should stay with a lady in s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Amru] dari [Abu Ma'bad] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah sekali-kali seorang laki-laki berduaan dengan perempuan kecuali dengan ditemani muhrimnya." Lalu seorang laki-laki bangkit seraya berkata, "Wahai Rasulullah, isteriku berangkat hendak menunaikan haji sementara aku diwajibkan untuk mengikuti perang ini dan ini." beliau bersabda: "Kalau begitu, kembali dan tunaikanlah haji bersama isterimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5233</td></tr><tr><td>Arabic No</td><td>5233</td></tr><tr><td>Reference</td><td>Book 67 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ сказал: «Ни в коем случае не следует мужчине оставаться наедине с (посторонней) женщиной, если не будет с ней близкого родственника /махрама/!» (Услышав эти слова,) один человек поднялся (со своего места) и сказал: «О Посланник Аллаха, моя жена отправилась (для совершения) хаджа, а я зачислен (в войско для участия) в таком-то походе». (На это Пророк ﷺ) сказал: «Отправляйся в хадж вместе со своей женой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5233</td></tr><tr><td>Arabic No</td><td>5233</td></tr><tr><td>Reference</td><td>Book 67 Hadith 166</td></tr></tbody></table></div>
 

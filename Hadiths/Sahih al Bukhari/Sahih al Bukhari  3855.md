@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:'AbdurRahman bin Abza said, "Ask Ibn 'Abbas about thes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] telah menceritakan kepadaku [Sa'id bin Jubair] -atau dia berkata, telah menceritakan kepadaku [Al Hakam] dari [Sa'id bin Jubair] berkata, - 'Abdurrahman bin Abza menyuruhku, katanya; "Tanyalah kepada Ibnu 'Abbas tentang dua ayat ini dan apa maksudnya, yaitu yang pertama firman Allah dalam QS al Isra' ayat 33; ("Dan janganlah kalian membunuh jiwa yang diharamkan Allah kecuali dengan haq (alasan yang benar) " dan yang kedua firman Allah dalam QS an Nisaa' ayat 93: ("Dan barangsiapa yang membunuh orang beriman dengan sengaja..."). Maka aku bertanya kepada [Ibnu 'Abbas], maka dia menjelaskan; Ketika turun firman Allah yang serupa ini pada surah al Furqan, orang-orang musyrik penduduk Makkah berkata; "Sungguh kita telah membunuh jiwa yang diharamkan Allah dan kita juga menyembah selain Allah dan kita telah banyak berbuat maksiat, maka Allah menurunkan firman-Nya yang artinya: "...kecuali siapa yang bertaubat dan beriman..." (QS al Furqan ayat 70). Nah, ayat-ayat ini turun untuk mereka. Adapun ayat yang ada dalam surah an Nisaa' adalah bila seseorang telah mengenal Islam dan syari'atnya, kemudian dia membunuh seseorang dengan sengaja maka balasan baginya adalah neraka jahannam". Kemudian keterangan ini aku sampaikan kepada Mujahidmaka dia berkata; "Kecuali siapa yang menyesali perbuartannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3855</td></tr><tr><td>Arabic No</td><td>3855</td></tr><tr><td>Reference</td><td>Book 63 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубайр сказал: «Однажды ‘Абдуррахман ибн Абза сказал мне: “Спроси Ибн ‘Аббаса об этих двух аятах: “Не убивайте душу, которую Аллах запретил убивать, если только у вас нет на это права” (сура “аль-Ан’ам”, аят 151) и “Если же кто-либо убьёт верующего преднамеренно” (сура “ан-Ниса”, аят 93)”. Я задал Ибн ‘Аббасу вопрос, и он сказал: “Когда был ниспослан аят, что в суре “аль-Фуркан”, многобожники Мекки сказали: “Мы убивали душу, которую запретил Аллах, и взывали к другим богам помимо Аллаха, и совершали мерзости!” Тогда Аллах ниспослал: “Это не относится к тем, которые уверовали и раскаялись” (сура “Марьям”, аят 60). Этот аят был ниспослан относительно них. Что же касается того, который в суре “ан-Ниса”, то речь идёт о человеке, который, зная законы ислама, убил верующего умышленно, его воздаянием будет Геенна”. Я рассказал об этом Муджахиду, и он сказал: “За исключением того, кто пожалел о содеянном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3855</td></tr><tr><td>Arabic No</td><td>3855</td></tr><tr><td>Reference</td><td>Book 63 Hadith 80</td></tr></tbody></table></div>
 

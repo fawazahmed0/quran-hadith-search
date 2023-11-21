@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama reported Abu Huraira as saying:Iqama was pronounced. ant the people h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Walid bin Muslim] telah menceritakan kepada kami [Abu 'Amru yaitu Auza'i] telah menceritakan kepada kami [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] dia berkata; "Ketika iqamat dikumandangkan, para sahabat pun bersegera membentuk barisan. Setelah itu Rasulullah shallallahu 'alaihi wasallam muncul dan berdiri di tempat yang biasa beliau gunakan untuk berdiri, lalu beliau memberi isyarat kepada para sahabat supaya mereka tetap berada di tempat. Sesaat kemudian beliau kembali sementara kepalanya meneteskan air karena mandi, beliau kemudian mengimami mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1368</td></tr><tr><td>Arabic No</td><td>605.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «(Однажды,) когда было объявлено о начале молитвы и люди (в мечети) выровняли свои ряды, Посланник Аллаха ﷺ вышел и занял своё место. Затем он подал им знак рукой, (означающий:) “Оставайтесь на своих местах!”, (и зашёл домой). После этого он вышел, совершив полное омовение, (что было видно) по каплям воды, которые стекали с его головы и совершил с ними молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1368</td></tr><tr><td>Arabic No</td><td>605.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 202</td></tr></tbody></table></div>
 

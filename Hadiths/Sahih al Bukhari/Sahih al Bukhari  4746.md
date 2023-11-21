@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A man came to Allah's Messenger (ﷺ) and said, "O Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Sulaiman bin Daud Abu Ar Rabi'] Telah menceritakan kepada kami [Fulaih] dari [Az Zuhri] dari [Sahl bin Sa'ad] bahwa seorang lelaki menemui Nabi shallallahu 'alaihi wasallam seraya berkata; 'Ya Rasulullah, bagaimana pendapatmu jika seseorang menemukan lelaki lain tengah bersama istrinya apakah ia harus membunuh lelaki itu atau bagaimana? Maka Allah menurunkan ayat berkenaan dengah hal itu yang disebutkan di dalam Al Qur'an yaitu hendaknya saling mulaa'anah (bersumpah). Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Urusanmu dan istrimu telah diputuskan di dalam Al Qur'an." Sahal berkata; maka keduanya saling bermulaa'anah dan aku sendiri menyaksikannya di samping Rasulullah shallallahu 'alaihi wasallam. kemudian ia menceraikan istrinya, dan begitulah perceraian kemudian menjadi tradisi bagi mereka yang bersangkut mulaa'anah. Setelah itu istrinya hamil, dan suaminya tidak mengakuinya sebagai anaknya. Akhirnya anaknya dinasabkan kepada ibunya. Maka kemudian menjadi ketetapan di dalam sunnah anak dan ibu itu bisa saling mewarisi sesuai yang telah Allah tetapkan kepada istrinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4746</td></tr><tr><td>Arabic No</td><td>4746</td></tr><tr><td>Reference</td><td>Book 65 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «(Однажды) один человек пришёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха! Что ты скажешь о человеке, который застал свою жену с другим мужчиной? Следует ли (мужу) убить его, после чего вы убьёте его самого? Или как (он должен) поступить?” Тогда Аллах ниспослал о них упомянутый в Коране аят о взаимном проклятии (ли‘ан). И Посланник Аллаха ﷺ сказал ему: “Пришло решение в отношении тебя и твоей жены”. Так они совершили взаимное проклятие в присутствии Посланника Аллаха ﷺ и расстались. Такое расставание стало обычаем для тех супругов, которые совершали взаимное проклятие. Женщина была беременна, а муж отрицал, что она беременна от него, поэтому происхождение её сына относили только к ней. Затем стало обычаем то, что такой сын наследует имущество матери, а мать наследует имущество сына из того, что предписал ей Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4746</td></tr><tr><td>Arabic No</td><td>4746</td></tr><tr><td>Reference</td><td>Book 65 Hadith 268</td></tr></tbody></table></div>
 

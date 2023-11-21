@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this is narrated on the authority of Abu Huraira
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abd bin Humaid]. Ibnu Rafi' mengatakan; Telah menceritakan kepada kami ['Abdur Razaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Musayyab] dan [Abu Salamah] dari [Abu Hurairah] bahwasannya Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang anak adalah untuk pemilik ranjang, sedangkan orang yang menzinahi (ibunya) tidak mempunyai hak atasnya (rugi)." Dan telah menceritakan kepada kami [Sa'id bin Manshur], [Zuhair bin Harb] dan ['Abdul A'la bin Hammad] serta ['Amru An Naqid] mereka berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri]. Ibnu Manshur mengatakan; Dari [Sa'id] dari [Abu Hurairah], sedangkan 'Abdul A'la bin Hammad, dia berkata; dari [Abu Salamah] atau dari [Sa'id] dari [Abu Hurairah], dan Zuhair mengatakan; Dari [Sa'id] atau dari [Abu Salamah] dari salah satunya atau keduanya dari [Abu Hurairah]. Dan Amru mengatakan; Telah menceritakan kepada kami [Sufyan] dan sesekali dari [Az Zuhri] dari [Sa'id] dan [Abu Salamah] dan sesekali dari [Sa'id] atau [Abu Salamah] dan sesekali dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti haditsnya Ma'mar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>1458.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3616</td></tr><tr><td>Arabic No</td><td>1458.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 49</td></tr></tbody></table></div>
 

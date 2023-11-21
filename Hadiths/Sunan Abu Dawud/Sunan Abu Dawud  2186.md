@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mutarrif ibn Abdullah: Imran ibn Husayn was asked about a person who di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Hilal], bahwa [Ja'far Sulaiman], ia telah menceritakan kepada mereka dari [Yazid Ar Risyk], dari [Mutharrif bin Abdullah], bahwa [Imran bin Hushain] ditanya mengenai seorang laki-laki yang mencerai isterinya kemudian menggaulinya dan tidak mempersaksikan perceraiannya dan tidak pula pencabutan perceraiannya. Ia berkata; engkau mencerai tidak secara sunah dan kembali tidak secara sunah. Persaksikan atas perceraiannya dan ruju' (kembali kapadanya), dan jangan engkau ulang hal itu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2186</td></tr><tr><td>Arabic No</td><td>2186</td></tr><tr><td>Reference</td><td>Book 13 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мутаррифа ибн Абдуллаха, что ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, однажды спросили о человеке, который дал развод своей жене, а потом вступил в половые отношения с ней и не брал свидетелей ни когда давал ей развод, ни когда возвращал её. Он сказал: «Ты дал развод не по Сунне и вернул жену не по Сунне. Бери свидетелей, когда даёшь развод и когда возвращаешь. И не поступай так больше!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2186</td></tr><tr><td>Arabic No</td><td>2186</td></tr><tr><td>Reference</td><td>Book 13 Hadith 12</td></tr></tbody></table></div>
 

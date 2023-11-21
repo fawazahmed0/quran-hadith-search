@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:As if I am looking at the Prophet (ﷺ) while he was speaking
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] mengatakan, telah menceritakan kepadaku [Syaqiq] mengatakan, [Abdullah] mengatakan, Seakan-akan aku melihat Nabi shallallahu 'alaihi wasallam mengisahkan seorang Nabi yang ditempeleng oleh kaumnya sambil ia menyeka darah dari wajahnya dan memanjatkan doa; 'ya Rabbi, ampunilah kaumku, sebab mereka adalah orang yang tidak tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6929</td></tr><tr><td>Arabic No</td><td>6929</td></tr><tr><td>Reference</td><td>Book 88 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «У меня и сейчас стоит перед глазами Пророк ﷺ, рассказывающий об одном из пророков, которого до крови избили его соплеменники и который вытирал кровь со своего лица со словами: “О Господь мой, прости моим соплеменникам, ибо, поистине, они не ведают(, что творят)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6929</td></tr><tr><td>Arabic No</td><td>6929</td></tr><tr><td>Reference</td><td>Book 88 Hadith 11</td></tr></tbody></table></div>
 

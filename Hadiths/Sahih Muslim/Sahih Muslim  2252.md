@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abbad b. 'Abdullah b. Zubair reported that 'A'isha ordered the bier of Sa'd b. A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ali bin Hujr As Sa'di] dan [Ishaq bin Ibrahim Al Hanzhali] -sedangkan lafazhnya milik Ishaq- Ali berkata, telah menceritakan kepada kami -sementara Ishaq berkata- telah mengabarkan kepada kami [Abdul Aziz bin Muhammad] dari [Abdul Wahid bin Hamzah] dari [Abbad bin Abdullah bin Zubair] bahwa [Aisyah] menyuruh orang-orang agar membawa jenazah Sa'd bin Abu Waqash ke Masjid untuk dishalatkan di situ. Tetapi mereka tidak mengindahkan perintah tersebut, maka Aisyah pun berkata, "Alangkah cepatnya orang lupa, bahwa Rasulullah shallallahu 'alaihi wasallam pernah menshalatkan Suhail bin Baidla' di Masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2252</td></tr><tr><td>Arabic No</td><td>973.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн аз-Зубайра, что ‘Аиша велела пронести погребальные носилки Са‘да ибн Аби Ваккаса через мечеть, чтобы там же совершить заупокойную молитву за него. Люди стали порицать это, а она сказала: «Как же быстро люди забыли! Где же, как не в мечети, Посланник Аллаха ﷺ совершил заупокойную молитву по Сухайлю ибн Байда?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2252</td></tr><tr><td>Arabic No</td><td>973.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 128</td></tr></tbody></table></div>
 

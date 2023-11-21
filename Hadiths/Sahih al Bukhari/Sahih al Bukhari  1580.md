@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham:'Urwa said, "The Prophet (ﷺ) entered Mecca in the year of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan kepada kami [Hatim] dari [Hisyam] dari ['Urwah]; Nabi shallallahu 'alaihi wasallam memasuki (kota Makkah) pada tahun pembebasan dari Kada' dataran tinggi kota Makkah. Dan 'Urwah kebanyakan memasukinya lewat Kada' karena tempat ini yang lebih dekat dengan rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 25 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «В год покорения Мекки Пророк ﷺ вошёл через Кяда в верхней части Мекки». А ‘Урва чаще входил со стороны Кяда, потому что она находилась ближе к его дому
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 25 Hadith 66</td></tr></tbody></table></div>
 

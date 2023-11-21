@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:We came to 'Umar in a delegation (during his rule). He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] Telah menceritakan kepada kami [Abu 'Awanah] Telah menceritakan kepada kami [Abdul Malik] dari [Amru bin Huraits] dari [Adi bin Hatim] dia berkata; Kami menemui Umar bersama beberapa utusan. Lalu dia memanggil satu persatu dengan menyebutkan namanya. Aku berkata kepadanya; 'Apakah kamu mengenaliku wahai Amirul mukminin? Dia menjawab; "Tentu, kamu adalah orang yang masuk Islam pada saat orang-orang menjadi kafir, kamu adalah orang yang maju ke garis depan pada saat orang-orang mundur kebelakang, kamu adalah orang yang menepati janji ketika semua orang berkhianat, dan kamu adalah orang yang mengakui kebenaran saat orang-orang mengingkarinya." Kemudian Adi berkata; 'Kalau begitu, aku tidak peduli siapa saja yang kamu panggil lebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4394</td></tr><tr><td>Arabic No</td><td>4394</td></tr><tr><td>Reference</td><td>Book 64 Hadith 417</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим сказал: «Мы пришли к ’Умару в составе делегации (во время его правления), и он начал вызывать людей одного за другим, называя каждого по имени, (чтобы одарить их). (Увидев, что он не обращает на меня внимания), я сказал ему: “Разве ты не знаешь меня, о повелитель правоверных?” Он сказал: “Да (знаю), ты принял ислам, когда они не уверовали, ты устремился (к истине), когда они отвернулись, ты выполнил (обещание), когда они нарушили, и ты признал (истину), когда они отрицали”. На это ’Ади сказал: “Тогда мне всё равно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4394</td></tr><tr><td>Arabic No</td><td>4394</td></tr><tr><td>Reference</td><td>Book 64 Hadith 417</td></tr></tbody></table></div>
 

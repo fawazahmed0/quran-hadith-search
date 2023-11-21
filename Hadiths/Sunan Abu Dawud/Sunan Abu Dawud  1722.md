@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Waqid al-Laythi: I heard the Messenger of Allah (ﷺ) saying to his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [An Nufaili] telah menceritakan kepada Kami [Abdul Aziz bin Muhammad] dari [Zaid bin Aslam] dari [anak Abu Waqid Al Laitsi] dari [ayahnya], ia berkata; saya mendengar Rasulullah shallAllahu wa'alaihi wa sallam berkata kepada para isterinya pada saat haji wada'; sesungguhnya haji tersebut adalah ini, kemudian kalian harus tinggal di rumah kalian dan tidak wajib berhaji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1722</td></tr><tr><td>Arabic No</td><td>1722</td></tr><tr><td>Reference</td><td>Book 11 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Вакыда аль-Лейси, да будет доволен им Аллах, что он сказал: «Я слышал, как Посланник Аллаха ﷺ сказал своим жёнам во время прощального хаджа: “Этот (хадж), а потом домашние циновки”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1722</td></tr><tr><td>Arabic No</td><td>1722</td></tr><tr><td>Reference</td><td>Book 11 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported that Allah's Apostle (ﷺ) said to hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Abu Zaidah] dari [Ibnu Juraij] dari ['Atha] dari [Jabir], bahwa Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Saya telah membeli untamu seharga empat dinar, dan kamu boleh menaikinya sampai tiba di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4107</td></tr><tr><td>Arabic No</td><td>715.22</td></tr><tr><td>Reference</td><td>Book 22 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4107</td></tr><tr><td>Arabic No</td><td>715.22</td></tr><tr><td>Reference</td><td>Book 22 Hadith 146</td></tr></tbody></table></div>
 

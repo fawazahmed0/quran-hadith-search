@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Some companions of Mu'adh ibn Jabal said:When the Messenger of Allah (ﷺ) inten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] dari [Syu'bah] dari [Abu 'Aun] dari [Al Harits bin 'Amru] anak saudara Al Mughirah bin Syu'bah, dari [beberapa orang penduduk Himsh] yang merupakan sebagian dari sahabat Mu'adz bin Jabal. Bahwa Rasulullah shallallahu 'alaihi wasallam ketika akan mengutus Mu'adz bin Jabal ke Yaman beliau bersabda: "Bagaimana engkau memberikan keputusan apabila ada sebuah peradilan yang dihadapkan kepadamu?" Mu'adz menjawab, "Saya akan memutuskan menggunakan Kitab Allah." Beliau bersabda: "Seandainya engkau tidak mendapatkan dalam Kitab Allah?" Mu'adz menjawab, "Saya akan kembali kepada sunnah Rasulullah shallallahu 'alaihi wasallam." Beliau bersabda lagi: "Seandainya engkau tidak mendapatkan dalam Sunnah Rasulullah shallallahu 'alaihi wasallam serta dalam Kitab Allah?" Mu'adz menjawab, "Saya akan berijtihad menggunakan pendapat saya, dan saya tidak akan mengurangi." Kemudian Rasulullah shallallahu 'alaihi wasallam menepuk dadanya dan berkata: "Segala puji bagi Allah yang telah memberikan petunjuk kepada utusan Rasulullah untuk melakukan apa yang membuat senang Rasulullah." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepadaku [Abu 'Aun] dari [Al Harits bin 'Amru] dari [beberapa orang sahabat Mu'adz] dari [Mu'adz bin Jabal] bahwa Rasulullah shallallahu 'alaihi wasallam tatkala mengutusnya ke Yaman… kemudian ia menyebutkan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3592</td></tr><tr><td>Arabic No</td><td>3592</td></tr><tr><td>Reference</td><td>Book 25 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Некоторые жители Хомса из числа товарищей Му‘аза ибн Джабаля передают, что, посылая Му‘аза в Йемен, Посланник Аллаха ﷺ сказал: «Если тебе придётся судить, как ты поступишь?» Он ответил: «Я вынесу решение в соответствии с Книгой Аллаха». (Посланник Аллаха ﷺ) спросил: «А если ты не найдёшь (решения) в Книге Аллаха?» Он ответил: «Тогда я вынесу решение в соответствии с Сунной Посланника Аллаха ﷺ». (Посланник Аллаха ﷺ) спросил: «А если ты не найдёшь решения ни в Сунне Посланника Аллаха ﷺ ни в Книге Аллаха?» Он ответил: «Тогда я, приложив (максимальные) усилия, вынесу решение в соответствии со своим мнением (основываясь на Коране и Сунне)». Тогда Посланник Аллаха ﷺ хлопнул его по груди и сказал: «Хвала Аллаху, Который помог посланцу Посланника Аллаха прийти к тому, чего желал Посланник Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3592</td></tr><tr><td>Arabic No</td><td>3592</td></tr><tr><td>Reference</td><td>Book 25 Hadith 22</td></tr></tbody></table></div>
 

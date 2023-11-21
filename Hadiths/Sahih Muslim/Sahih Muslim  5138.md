@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:I was serving drink to Abu 'Ubaida b. jarrah, Abu Talha a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Malik bin Anas] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] bahwa dia berkata, "Saya pernah menuangkan minuman dari Fadlikh (minuman yang terbuat dari campuran kurma muda) dan Tamr (minuman yang terbuat dari kurma) kepada Abu Ubaidah bin Jarrah, Abu Thalhah dan Ubay bin Ka'ab, tiba-tiba seseorang datang kepada mereka sambil berkata, "Sesungguhnya khamer telah diharamkan." Lantas Abu Thalhah berkata, "Wahai Anas, berdirilah! Ambil dan pecahlah bejana (khamer) ini." Kemudian saya mengambil gentong milik kami dan saya pukul bawahnya hingga pecah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5138</td></tr><tr><td>Arabic No</td><td>1980.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5138</td></tr><tr><td>Arabic No</td><td>1980.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 12</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported that Allah's Messenger (ﷺ) was asked as to which words were
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Habban bin Hilal] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Sa'id Al Jurairi] dari [Abu 'Abdullah Al Jisri] dari [Ibnu Ash Shamit] dari [Abu Dzar] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah ditanya orang: 'Apakah ucapan dzikir yang paling afdlal (utama), ya Rasulullah? ' Jawab beliau: 'Yaitu ucapan dzikir yang dipilihkan Allah bagi para malaikat-Nya dan hamba-hamba-Nya, ialah; Subhanalahi wa bihamdihi (Maha Suci Allah dan Maha Terpuji Dia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6925</td></tr><tr><td>Arabic No</td><td>2731.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6925</td></tr><tr><td>Arabic No</td><td>2731.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 117</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) stood on the day of the breaking 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrazaq] dan [Muhammad bin Bakr] keduanya berkata; telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku ['Atha'] dari [Jabir bin Abdullah] dia berkata; -saya mendengar dia (Jabir) berkata- sesungguhnya Nabi shallallahu 'alaihi wasallam berdiri pada hari raya fithri, lalu beliau mengerjakan shalat, beliau memulai shalat sebelum berkhutbah, setelah itu barulah beliau berkhutbah di hadapan manusia. Tatkala Nabi Allah shallallahu 'alaihi wasallam selesai khutbah, beliau turun lalu mendatangi kaum wanita, beliau memberi peringatan kepada mereka sambil bersandar kepada tangan Bilal, sedangkan Bilal sendiri membentangkan secarik kain sebagai tempat sedekah yang di sumbangkan oleh kaum perempuan." Kata Jabir; "Ada seorang wanita yang melepas cincinnya dan melemparnya ke (kain tersebut), kemudian mereka bergantian melepaskan perhiasannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (978) Sahih Muslim (884)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1141</td></tr><tr><td>Arabic No</td><td>1141</td></tr><tr><td>Reference</td><td>Book 2 Hadith 752</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «Однажды в день праздника разговения Пророк ﷺ совершил молитву, предварив ею праздничную проповедь. Завершив проповедь, пророк Аллаха ﷺ спустился с минбара, подошёл к женщинам и стал наставлять их, опираясь на руку Биляля. А Биляль расстелил свою одежду, и женщины стали бросать на неё свои пожертвования». Он пояснил: «Женщина бросала перстень, и другие бросали и бросали (свои украшения на одежду)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (978) Sahih Muslim (884)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1141</td></tr><tr><td>Arabic No</td><td>1141</td></tr><tr><td>Reference</td><td>Book 2 Hadith 752</td></tr></tbody></table></div>
 

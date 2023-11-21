@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Salman through a diff
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Faraj Al Baghdadi] telah menceritakan kepada kami [Ibnu Az Zibriqan] telah menceritakan kepada kami [Sulaiman At Tamimi] dari [Abu Utsman An Nahdi] dari [Salman] ia berkata, "Nabi shallallahu 'alaihi wasallam ditanya mengenai belalang, kemudian beliau bersabda: "Mereka adalah tentara Allah terbanyak. Aku tidak memakannya dan tidak mengharamkannya." Abu Daud berkata, "Hadits tersebut diriwayatkan oleh [Al Mu'tamir] dari [Ayahnya] dari [Abu Utsman] dari Nabi shallallahu 'alaihi wasallam, namun ia tidak menyebutkan Salman." Telah menceritakan kepada kami [Nashr bin Ali] serta [Ali bin Abdullah] mereka berkata; telah menceritakan kepada kami [Zakaria bin Yahya bin 'Umarah] dari [Abu Al 'Awwam Al Hazzar] dari [Abu Utsman An Nahdi] dari [Salman] bahwa Rasulullah shallallahu 'alaihi wasallam ditanya, kemudian beliau mengatakan seperti itu. Beliau bersabda: "Mereka adalah pasukan Allah yang terbanyak." Ali berkata, "Namanya adalah Faid Abu Al 'Awwam." Abu Daud berkata, "Hadits tersebut diriwayatkan oleh [Hammad bin Salamah] dari [Abu Al 'Awwam] dari [Abu Utsman] dari Nabi shallallahu 'alaihi wasallam, namuan Ia tidak menyebutkan Salman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3814</td></tr><tr><td>Arabic No</td><td>3814</td></tr><tr><td>Reference</td><td>Book 28 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Сальмана передаётся, что Посланника Аллаха ﷺ спросили, и он сказал нечто подобное, и сказал: «Это самое многочисленное воинство Аллаха». Этот хадис передаётся также от Пророка ﷺ, но без упоминания о Сальмане
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3814</td></tr><tr><td>Arabic No</td><td>3814</td></tr><tr><td>Reference</td><td>Book 28 Hadith 79</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a different chain of transmitters) on the authorit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Amru Al Asy'atsi] dan [Suwaid bin Sa'id] dan [Ishaq bin Ibrahim] serta [Ahmad bin 'Abdah], dan ini adalah lafadz Sa'id, Sa'id dan Ishaq berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan; telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Jabir] dia berkata, "Ketika peristiwa Hudaibiyyah kami berjumlah seribu empat ratus orang, lalu Nabi shallallahu 'alaihi wasallam bersabda kepada kami: "Kalian pada hari ini merupakan makhluk terbaik yang ada di permukaan bumi ini." Dan [Jabir] mengatakan, "Sekiranya saya melihatnya, sungguh saya akan memberitahu kepada kalian tempat pohon tersebut berada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>1856.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>1856.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 108</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : L'Envoyé de Dieu (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Yazid bin Ibrahim At Tusturi] dari ['Abdullah bin Abu Mulaikah] dari [Al Qasim bin Muhammad] dari ['Aisyah] dia berkata; bahwa Nabi shallaallahu 'alaihi wa sallam pernah membaca ayat berikut ini: "Dia-lah yang menurunkan Al Kitab (Al Quran) kepada kamu. di antara (isi) nya ada ayat-ayat yang muhkamaat, Itulah pokok-pokok isi Al-Qur'an dan yang lain (ayat-ayat) mutasyaabihaat. adapun orang-orang yang dalam hatinya condong kepada kesesatan, maka mereka mengikuti sebahagian ayat-ayat yang mutasyaabihaat darinya untuk menimbulkan fitnah untuk mencari-cari ta'wilnya, padahal tidak ada yang mengetahui ta'wilnya melainkan Allah." Aisyah berkata; kemudian Rasulullah shallaallahu 'alaihi wa sallam bersabda: "Apabila kalian melihat orang-orang yang mengikuti sebahagian ayat-ayat yang mutasyaabihaat, maka mereka itulah adalah yang disebutkan oleh Allah 'Waspadalah kalian terhadap mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6775</td></tr><tr><td>Arabic No</td><td>2665</td></tr><tr><td>Reference</td><td>Book 47 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6775</td></tr><tr><td>Arabic No</td><td>2665</td></tr><tr><td>Reference</td><td>Book 47 Hadith 1</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : "Jamais l'Envoyé de Dieu (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Zuhair bin Harb] dan [Ishaq bin Ibrahim], Zuhair berkata; Telah menceritakan kepada kami dan yang lainnya berkata; 'Telah mengabarkan kepada kami [Jarir] dari [Al A'masy] dari [Abu Hazim] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam sama sekali tidak pernah mencela makanan apapun. Apabila beliau menyukai suatu makanan, maka beliau memakannya, dan apabila beliau tidak menyukainya maka dibiarkannya saja." Telah menceritakan kepada kami [Ahmad bin Yunus], Telah menceritakan kepada kami [Zuhair], Telah menceritakan kepada kami [Sulaiman Al A'masy] dari jalur ini dengan Hadits yang serupa. Telah menceritakan kepada kami [Abad bin Humaid], telah mengabarkan kepada kami [Abdur Razak], [Abdul Malik bin Amru], dan [Umar bin Sa'd Abu Daud Al Hafari] seluruhnya dari [Sufyan] dari [Al A'masy] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5380</td></tr><tr><td>Arabic No</td><td>2064.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5380</td></tr><tr><td>Arabic No</td><td>2064.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 254</td></tr></tbody></table></div>
 

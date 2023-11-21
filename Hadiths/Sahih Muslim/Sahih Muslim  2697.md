@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Buraida (Allah be pleased with him) reported on the authority of his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Ali bin Mushir Abul Hasan] dari [Abdullah bin 'Atha'] dari [Abdullah bin Buraidah] dari [bapaknya] radliallahu 'anhu, ia berkata; Ketika saya sedang duduk di sisi Rasulullah shallallahu 'alaihi wasallam, tiba-tiba datanglah seorang wanita dan berkata, "Aku pernah memberikan seorang budak wanita kepada ibuku, dan kini ibuku telah meninggal. Bagaimana dengan hal itu?" beliau menjawab, "Kamu telah mendapatkan pahala atas pemberianmu itu, dan sekarang pemberianmu itu telah kembali kepadamu sebagai pusaka." Wanita itu bertanya lagi, "Wahai Rasulullah, Ibuku punya hutang puasa satu bulan, bolehkah saya membayar puasanya?" beliau menjawab: "Ya, bayarlah puasanya itu." wanita itu berkata lagi, "Ibuku juga belum menunaikan haji, bolehkah aku yang menghajikannya?" beliau menjawab: "Ya, hajikanlah ia." Dan Telah meceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dari [Abdullah bin 'Atha'] dari [Abdullah bin Buraidah] dari [bapaknya] radliallahu 'anhu, ia berkata; Saya pernah duduk di sisi Rasulullah shallallahu 'alaihi wasallam. yakni serupa dengan haditsnya Ibnu Mushir, hanyanya saja ia mengatakan; "Puasa selama dua bulan." Dan Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ats Tsauri] dari [Abdullah bin Atha'] dari [Ibnu Buraidah] dari [bapaknya] radliallahu 'anhu ia berkata; Seorang wanita mendatangi Nabi shallallahu 'alaihi wasallam. Maka ia pun menyebutkan hadits semisalnya. Dan ia juga mengatakan; "Puasa selama satu bulan." Dan telah meceritakannya kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Ubaidullah bin Musa] dari [Sufyan] dengan isnad ini, dan ia mengatakan; "(Hutang) Puasa selama dua bulan." Dan telah menceritakan kepadaku [Ibnu Abu Khalaf] Telah menceritakan kepada kami [Ishaq bin Yusuf] telah menceritakan kepada kami [Abdul Malik bin Abu Sulaiman] dari [Abdullah bin Atha' Al Makki] dari [Sulaiman bin Buraidah] dari [bapaknya] radliallahu 'anhu, ia berkata; Seorang wanita mendatangi Nabi shallallahu 'alaihi wasallam, yakni serupa dengan hadits mereka, dan ia juga mengatakan; "Puasa satu bulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>1149.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>1149.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 203</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-As:The Prophet (ﷺ) said to me, "I have been
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khallad bin Yahya] telah bercerita kepada kami [Mis'ar] telah bercerita kepada kami [Habib bin Abi Tsabit] dari [Abu Al 'Abbas] dari ['Abdullah bin 'Amru bin Al 'Ash] berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Benarkah kabar bahwa kamu menegakkan malam dan berpuasa sepanjang hari?". Aku jawab; "Benar". Lalu beliau berkata: "Sesungguhnya bila kamu laksanakan hal itu, akan menjadikan mata mengantuk dan melemahkan jiwa. Berpuasalah tiga hari dalam setiap bulan karena yang demikian itu bernilai puasa dahar (sepanjang masa) atau seperti puasa sepanjang masa". Aku katakan; "Sungguh aku merasa diriku.." Mis'ar berkata; "yakni… kuat". Maka beliau berkata: "(Kalau begitu), puasalah dengan puasa Nabi Daud 'alaihi salam, yaitu dia berpuasa sehari dan berbuka sehari sehingga dia tidak akan lari bila berjumpa (dengan musuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 60 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, сказал: «(Однажды) Посланник Аллаха ﷺ сказал мне: “О ‘Абдуллах, мне сообщили, что ты совершаешь молитву по ночам и постишься днём”. Я сказал: “Да (я так и делаю)”. Он сказал: “Если ты будешь делать это, твоё зрение ослабеет, и ты сам станешь слабым. Постись по три дня в месяц, и это будет подобно непрерывному посту”. Я сказал: “Поистине, я чувствую в себе силу!” Тогда Пророк ﷺ сказал: “Тогда постись, как постился Дауд, мир ему, который всегда постился через день и не обращался в бегство, когда встречал (врага)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 60 Hadith 91</td></tr></tbody></table></div>
 

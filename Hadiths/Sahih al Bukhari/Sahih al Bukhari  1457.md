@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Abu Bakr said, "By Allah! If they (pay me the Zakat and) wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy]. Dan telah diceritakan pula bahwa [Al Laits] berkata, telah menceritakan kepada saya ['Abdurrahman bin Khalid] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] bahwa [Abu Hurairah radliallahu 'anhu] berkata; [Abu Bakar Ash-Shidiq radliallahu 'anhu] berkata,: "Demi Allah, bila mereka tidak mau menyerahkan zakat berupa 'inaqa sedangkan dahulu mereka menyerahkannya kepada Rasulullah Shallallahu'alaihiwasallam, pasti aku akan perangi mereka disebabkan keengganan mengeluarkan zakat tersebut". Berkata, 'Umar bin Al Khaththab radliallahu 'anhu: "Ketegasan dia ini tidak lain kecuali aku melihat bahwa Allah telah membukakan hati Abu Bakar radliallahu 'anhu untuk melakukan perang dan aku menyadari bahwa dia memang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 24 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар, да будет доволен им Аллах, сказал: «Клянусь Аллахом, не иначе как Сам Аллах раскрыл сердце Абу Бакра, да будет доволен им Аллах (, принявшего решение) сражаться, и я понял, что это — правильное (решение)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 24 Hadith 59</td></tr></tbody></table></div>
 

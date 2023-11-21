@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The people used to pray with the Prophet (ﷺ) tying thei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Abu Hazim] dari [Sahal bin Sa'd] berkata, "Orang-orang shalat bersama Nabi shallallahu 'alaihi wasallam dengan mengikatkan kain mereka di leher-leher karena kainnya kecil. Lalu dikatakan kepada Kaum Wanita: "Janganlah kalian mengangkat kepala kalian hingga para laki-laki telah duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>814</td></tr><tr><td>Arabic No</td><td>814</td></tr><tr><td>Reference</td><td>Book 10 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «(Некоторые) мужчины совершали молитву вместе с Пророком ﷺ завязывая (края) своих изаров на шеях по причине их маленького размера. Поэтому (Пророк ﷺ) говорил женщинам: “Не поднимайте ваши головы до тех пор, пока мужчины не усядутся выпрямившись!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>814</td></tr><tr><td>Arabic No</td><td>814</td></tr><tr><td>Reference</td><td>Book 10 Hadith 209</td></tr></tbody></table></div>
 

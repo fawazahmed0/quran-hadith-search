@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who killed a gecko wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Khalid bin 'Abdullah] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang membunuh cecak satu kali pukul, maka dituliskan baginya pahala sebanyak begini dan begini kebaikan. Dan barang siapa yang membunuhnya dua kali pukul, maka dituliskan baginya pahala sebanyak begini dan begini kebaikan berkurang dari pukulan pertama. Dan siapa yang membunuhnya tiga kali pukul, maka pahalanya kurang lagi dari itu." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Abu 'Awanah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Ash Shabbah]; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Zakaria; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Waki'] dari [Sufyan] seluruhnya dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam yang semakna dengan Hadits Khalid dari Suhail. Kecuali Jarir dia mengatakan di dalam Haditsnya; 'Barang siapa yang membunuh cecak sekali pukul, maka dituliskan baginya pahala seratus kebaikan, dan barang siapa memukulnya lagi, maka baginya pahala yang kurang dari pahala pertama. Dan barang siapa memukulnya lagi, maka baginya pahala lebih kurang dari yang kedua. Dan telah menceritakan kepada kami [Muhammad bin Ash Shabbah]; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Zakaria dari [Suhail]; Telah menceritakan kepadaku [Saudara perempuanku] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda: 'Pada pukulan pertama terdapat tujuh puluh kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5846</td></tr><tr><td>Arabic No</td><td>2240.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тому, кто убьёт ящерицу с первого удара, (запишется) столько-то добрых дел, тому, кто убьёт ящерицу со второго удара, (запишется) на столько-то добрых дел меньше(, чем первому), а тому, кто убьёт ящерицу с третьего удара, (запишется) на столько-то добрых дел меньше(, чем второму)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5846</td></tr><tr><td>Arabic No</td><td>2240.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 197</td></tr></tbody></table></div>
 

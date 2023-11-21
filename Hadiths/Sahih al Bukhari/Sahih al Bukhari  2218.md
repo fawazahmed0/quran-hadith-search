@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Sa'd bin Abi Waqqas and 'Abu bin Zam'a quarreled over a boy. Sa'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa dia berkata: Sa'ad bin Abi Waqash berselisih dengan 'Abdu bin Zam'ah dalam perkara seorang anak. Sa'ad berkata: "Wahai Rasulullah, dia ini anak dari saudaraku 'Utbah bin Abi Waqash yang bersumpah kepadaku bahwa dia adalah anaknya. Perhatikanlah tanda kemiripannya?" Namun 'Abdu bin Zam'ah berkata: Wahai Rasulullah, ini saudaraku yang dilahirkan diatas tempat tidur Bapakku dari hamba sahayanya". Kemudian Rasulullah shallallahu 'alaihi wasallam memperhatikan tanda kemiripan yang ada, maka Beliau melihat jelas sekali tanda kemiripan ada pada 'Utbah. Namun Beliau bersabda: "Anak itu milikmu wahai 'Abdu bin Zam'ah. Anak itu milik si pemilik keranjang (suami) sedangkan untuk pezina baginya batu (rajam). Berhijablah engkau darinya, wahai Saudah binti Zam'ah". Sejak itu Saudah tidak pernah melihatnya lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2218</td></tr><tr><td>Arabic No</td><td>2218</td></tr><tr><td>Reference</td><td>Book 34 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Са‘д ибн Абу Уаккас и ‘Абд ибн Зам‘а вели спор из-за одного юноши, и Са‘д сказал: “О Посланник Аллаха, он — сын моего брата ‘Утбы ибн Абу Уаккаса, поручившего мне (объявить, что этот ребёнок является) его сыном. Посмотри, как он похож на (моего брата)”. (После этого) ‘Абд ибн Зам‘а сказал: “О Посланник Аллаха, он — мой брат, рождённый на постели моего отца от его невольницы”. Посланник Аллаха ﷺ посмотрел (на ребёнка) и увидел его явное сходство с ‘Утбой, и сказал: “Он твой, о ‘Абд ибн Зам‘а. Ребёнок принадлежит постели, а прелюбодею — позор и лишения (прав на ребёнка). Закрывайся от него, о Сауда бинт Зам‘а”. И Сауда больше никогда не увидела (этого юношу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2218</td></tr><tr><td>Arabic No</td><td>2218</td></tr><tr><td>Reference</td><td>Book 34 Hadith 165</td></tr></tbody></table></div>
 

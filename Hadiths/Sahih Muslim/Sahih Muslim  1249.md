@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:The Messenger of Allah (ﷺ) said: He who eats of this (offen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ibnu Numair] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan lafazh tersebut adalah miliknya, telah menceritakan kepada kami [Bapakku] dia berkata, telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah Shallallahu'alaihiwasallam telah bersabda, "Barangsiapa makan dari sayur mayur ini, maka janganlah dia mendekati masjid kami hingga baunya hilang. Maksudnya adalah sayuran bawang putih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1249</td></tr><tr><td>Arabic No</td><td>561.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто поест этот овощ не приближается к нашим мечетям, пока не уйдёт его запах!» Имея в виду чеснок
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1249</td></tr><tr><td>Arabic No</td><td>561.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 87</td></tr></tbody></table></div>
 

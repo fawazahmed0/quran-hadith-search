@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hisham b. 'Urwah:On the authority of his father that 'Aishah said: O my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Abdurrahman bin Abu Az Zinad] dari [Hisyam bin 'Urwah] dari [ayahnya], ia berkata; [Aisyah] berkata; wahai anak saudariku, Rasulullah shallallahu 'alaihi wasallam tidak melebihkan sebagian kami atas sebagian yang lain dalam membagi waktu tinggalnya bersama kami. Setiap hari beliau mengelilingi kami semua dan mendekat kepada seluruh isteri tanpa menyentuh hingga sampai kepada rumah isteri yang hari itu merupakan bagiannya, kemudian beliau bermalam padanya. Sungguh Saudah binti Zam'ah ketika telah berusia lanjut dan takut ditinggalkan Rasulullah shallallahu 'alaihi wasallam, ia berkata; wahai Rasulullah, hariku untuk Aisyah. Dan Rasulullah shallallahu 'alaihi wasallam menerima hal tersebut. Ia berkata; kami katakan; mengenai hal tersebut dan orang yang semisalnya, Allah Ta'ala menurunkan ayat: "Dan jika seorang wanita khawatir akan nusyuz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2135</td></tr><tr><td>Arabic No</td><td>2135</td></tr><tr><td>Reference</td><td>Book 12 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы, что ‘Аиша, да будет доволен ею Аллах, сказала: «О сын сестры моей, Посланник Аллаха ﷺ делил своё время между нами по справедливости. Обычно он обходил нас всех и приближался к каждой, не вступая в половую связь, пока не оказывался у той, у которой он должен был провести ночь. Когда Сауда бинт Зама состарилась и стала опасаться, что Посланник Аллаха ﷺ расстанется с ней, она сказала: “О Посланник Аллаха, пусть мой день будет для ‘Аиши”. И Посланник Аллаха ﷺ принял её предложение. И мы говорили, что это о ней и подобных ей Всемогущий и Великий Аллах ниспослал: “Если женщина опасается, что муж будет проявлять к ней неприязнь или отворачиваться от неё, то на них обоих не будет греха, если они заключат между собой мир, ибо мирное решение лучше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2135</td></tr><tr><td>Arabic No</td><td>2135</td></tr><tr><td>Reference</td><td>Book 12 Hadith 90</td></tr></tbody></table></div>
 

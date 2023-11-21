@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Your example and the example of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Perumpamaan kalian dibandingkan Ahul Kitab seperti seseorang yang menyewa para pekerja yang dia berkata; "Siapa yang mau bekerja untukku dari pagi hingga pertengahan siang dengan upah satu qirath, maka orang-orang Yahudi melaksanakannya. Kemudian dia berkata, "Siapa yang mau bekerja untukku dari pertengahan siang hingga shalat 'Ashar dengan upah satu qirath, maka orang-orang Nashrani mengerjakannya. Kemudain orang itu berkata, lagi: "Siapa yang mau bekerja untukku dari 'Ashar hinga terbenamnya matahari dengan upah dua qirath, maka kalianlah orang yang mengerjakannya. Maka orang-orang Yahudi dan Nashrani marah seraya berkata: "Bagaimana bisa, kami yang mengerjakan lebih banyak pekerjaan namun lebih sedikit upah yang kami terima!" Lalu orang itu berkata: "Apakah ada hak kalian yang aku kurangi?" Mereka menjawab: "Tidak ada". Orang itu berkata: "Itulah karunia dariku yang aku memberikannya kepada siapa yang aku kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2268</td></tr><tr><td>Arabic No</td><td>2268</td></tr><tr><td>Reference</td><td>Book 37 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Вас и людей двух Писаний можно сравнить с работниками, которых нанял человек. Вот он им сказал: “Кто поработает на меня с утра до полудня за один кырат?” И за работу взялись иудеи. Затем он сказал: “Кто поработает на меня с полудня до намаза ‘аср за один кырат?” И за работу взялись христиане. А потом он сказал: “Кто поработает на меня с намаза ‘аср до заката солнца за два кырата?” И они — это вы. И тогда разозлились иудеи и христиане и сказали: “А почему мы работали больше, но получили плату меньше?” И [Аллах] сказал: “А разве Я обделил вас как-то в вашем праве?” Они сказали: “Нет”. Он сказал: “Это милость Моя, даю ее тому, кому пожелаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2268</td></tr><tr><td>Arabic No</td><td>2268</td></tr><tr><td>Reference</td><td>Book 37 Hadith 8</td></tr></tbody></table></div>
 

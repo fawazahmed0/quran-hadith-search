@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:Verily, a person said: Messenger of Allah, where is my father? He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa seorang laki-laki bertanya, "Wahai Rasulullah, di manakah bapakku?" Beliau menjawab, "Dia di dalam neraka." Ketika laki-laki tersebut berlalu pergi, maka beliau memanggilnya seraya berkata: "Sesungguhnya bapakku dan bapakmu di dalam neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>203</td></tr><tr><td>Reference</td><td>Book 1 Hadith 406</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса (да будет доволен им Аллах) о том, что (однажды какой-то) мужчина сказал: «О Посланник Аллаха, где мой (умерший) отец?» Он ответил: «В Огне». Когда тот повернулся чтобы уйти, он подозвал его и сказал: «Поистине, мой отец и твой отец в Огне!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>203</td></tr><tr><td>Reference</td><td>Book 1 Hadith 406</td></tr></tbody></table></div>
 

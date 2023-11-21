@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : "Nous partîmes en expédition avec le P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Amir Abdullah bin Barrad Al Asy'ari] dan [Muhammad bin Al 'Ala Al Hamdani] sedangkan lafadznya dari 'Amir, keduanya berkata; telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa] dia berkata, "Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam untuk menghadapi beberapa orang yang hendak menyerbu, saat itu kami berjumlah sekitar enam orang, dengan mengendarai seekor unta yang kami naiki secara bergantian." Abu Musa berkata, "Lalu kaki kamipun terluka, demikian juga dengan kakiku, bahkan kuku kakiku ada yang terlepas satu-persatu. Kami bersama-sama membalut kaki-kaki kami dengan secarik kain. Karena kami membalut kaki kami yang terluka dengan secarik kain, maka peperangan tersebut dinamai dengan perang Dzatu Ar Riqa'." Abu Burdah mengatakan, "Abu Musa pernah menceritakan hadits ini kepadaku, tetapi kemudian dia membencinya. Sepertinya dia membenci kalau amal perbuatannya disebarluaskan." Abu Usamah mengatakan, "Dan selain Buraid ada juga seseorang yang menambahkan kepadaku, yaitu, 'Semoga Allah memberikan pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4699</td></tr><tr><td>Arabic No</td><td>1816</td></tr><tr><td>Reference</td><td>Book 32 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4699</td></tr><tr><td>Arabic No</td><td>1816</td></tr><tr><td>Reference</td><td>Book 32 Hadith 181</td></tr></tbody></table></div>
 

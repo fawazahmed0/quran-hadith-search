@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:There was a feeling of fright in Medina, so the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] aku mendengar [Anas bin Malik radliallahu 'anhu] berkata; Pernah terjadi gempa bumi di Madinah kemudian Nabi shallallahu 'alaihi wasallam meminjam kuda milik Abu Thalhah yang dinamakan Mandub lalu mengendarainya kemudian (setelah kembali), Beliau berkata: "Kami tidak mendapatkan gempa itu namun yang kami temui hanyalah lautan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2862</td></tr><tr><td>Arabic No</td><td>2862</td></tr><tr><td>Reference</td><td>Book 56 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды, когда люди) в Медине (стали ощущать) какой-то страх, Пророк ﷺ одолжил коня у Абу Тальхи по кличке Мандуб и ускакал на нём. (Вернувшись,) он сказал: “Мы не увидели (ничего) страшного, но обнаружили, что этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2862</td></tr><tr><td>Arabic No</td><td>2862</td></tr><tr><td>Reference</td><td>Book 56 Hadith 78</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn az-Zubayr: The Prophet (ﷺ) used to point with his finger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Hasan Al Mishhishi] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] dari [Ziyad] dari [Muhammad bin 'Ajlan] dari ['Amir bin Abdullah] dari [Abdullah bin Zubair] bahwa dia menyebutkan bahwa Nabi shallallahu 'alaihi wasallam memberi isyarat dengan jarinya ketika berdo'a, tanpa menggerakkannya." [Ibnu Juraij] berkata; ['Amru bin Dinar] menambahkan; katanya; telah mengabarkan kepadaku ['Amir] dari [ayahnya] bahwa dia pernah melihat Nabi shallallahu 'alaihi wasallam seperti itu juga (menunjuk, dan Nabi shallallahu 'alaihi wasallam juga meletakkan tangan kirinya di atas paha kirinya." Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Ibnu 'Ajlan] dari ['Amir bin Abdullah bin Az Zubair] dari [ayahnya] dengan hadits seperti ini, katanya; "…pandangan mata beliau tidak melampaui dari telunjuk beliau…" sedangkan hadits Hajjaj lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн аз-Зубайра, да будет доволен Аллах им и его отцом, что Пророк ﷺ вытягивал указательный палец, когда обращался к Аллаху с мольбами, но не двигал им.‘Амир передаёт от своего отца (да будет доволен Аллах им и его отцом), что он видел, как Пророк ﷺ обращался к Аллаху с мольбами в таком положении, опираясь левой рукой на левое бедро
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
 

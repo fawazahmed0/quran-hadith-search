@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "None of you should wish for dea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Tsabit Al Bunani] dari [Anas bin Malik] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang dari kalian mengharapkan kematian karena musibah yang menimpanya, kalau memang hal itu harus, hendaknya ia mengatakan; Ya Allah, hidupkanlah aku jika kehidupan itu baik untukku, dan matikanlah aku jika kematian itu baik bagiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5671</td></tr><tr><td>Arabic No</td><td>5671</td></tr><tr><td>Reference</td><td>Book 75 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть никто из вас ни в коем случае не желает себе смерти из-за постигшего его несчастья, а если уж это станет для (человека) неизбежным, пусть скажет: “О Аллах, сохраняй мне жизнь до тех пор, пока жизнь будет для меня лучше, и дай мне умереть, если смерть будет для меня лучше!”».\n/Аллахумма, ахййи-ни ма кянати-ль-хаййату хайран ли, ва таваффа-ни иза кянати-ль-вафату хайран ли
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5671</td></tr><tr><td>Arabic No</td><td>5671</td></tr><tr><td>Reference</td><td>Book 75 Hadith 31</td></tr></tbody></table></div>
 

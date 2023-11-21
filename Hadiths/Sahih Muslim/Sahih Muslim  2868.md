@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported on the authority of his father (Allah be pleased with them) that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Ibnu Abu Umar] semuanya dari [Ibnu Uyainah] - [Zuhair] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Salim] dari [bapaknya] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada lima jenis binatang yang tidak ada dosa bagi orang yang membunuhnya baik di tanah haram atau pun di luar tanah haram, yaitu; tikus, kalajengking, burung gagak, elang dan anjing gila." Dan Ibnu Abu Umar berkata di dalam riwayatnya; Di dalam tanah haram saat berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2868</td></tr><tr><td>Arabic No</td><td>1199.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2868</td></tr><tr><td>Arabic No</td><td>1199.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 78</td></tr></tbody></table></div>
 

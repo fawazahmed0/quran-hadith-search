@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I gave Zamzam water to Allah's Messenger (ﷺ) and he drank 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] dia adalah Ibnu Salam telah mengabarkan kepada kami [Al Fazariy] dari ['Ashim] dari [Asy-Sya'biy] bahwa [Ibnu 'Abbas radliallahu 'anhuma] menceritakan kepadanya, dia berkata: "Aku memberi minum Rasulullah Shallallahu'alaihiwasallam dengan air zamzam. Maka Beliau meminumnya sambil berdiri". Berkata, 'Ashim: 'Ikrimah bersumpah bahwa saat itu Beliau tidak lain kecuali berada diatas untanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>1637</td></tr><tr><td>Reference</td><td>Book 25 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Асым передал, что аш-Ша‘би сообщил ему о том, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал ему: «Я напоил Посланника Аллаха ﷺ (водой) Замзама и он выпил её стоя». ‘Асым сказал: «Что же касается ‘Икримы, то он клялся, что в это время (Пророк ﷺ) сидел на верблюде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>1637</td></tr><tr><td>Reference</td><td>Book 25 Hadith 120</td></tr></tbody></table></div>
 

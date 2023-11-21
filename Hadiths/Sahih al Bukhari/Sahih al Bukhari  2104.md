@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Once the Prophet (ﷺ) sent to 'Umar a silken two-p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abu Bakar bij Hafsh] dari [Salim bin 'Abdullah bin 'Umar] dari [bapaknya] berkata: "Nabi shallallahu 'alaihi wasallam memberikan kepada 'Umar radliallahu 'anhu baju atau pakaian bergaris terbuat dari sutera kemudian Beliau melihat 'Umar memakainya, maka Beliau berkata: "Aku memberikannya bukan untuk kamu pakai. Sesungguhnya orang yang memakai pakaian seperti ini tidak akan mendapat bagian di akhirat. Aku memberikannya untukmu agar kamu untuk memperoleh kesenangan yaitu menjualnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2104</td></tr><tr><td>Arabic No</td><td>2104</td></tr><tr><td>Reference</td><td>Book 34 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, что его отец сказал: «Пророк ﷺ отправил ‘Умару шёлковую одежду. Затем, когда он увидел ‘Умара в ней, он сказал: “Поистине, я отправил тебе (эту одежду) не для того, чтобы ты носил её, такую одежду носит лишь тот, у кого нет доли в мире вечном. Я отправил тебе её для того, чтобы ты воспользовался ей (то есть продал её)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2104</td></tr><tr><td>Arabic No</td><td>2104</td></tr><tr><td>Reference</td><td>Book 34 Hadith 57</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما) ce verset coranique : Ne remue
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abi Syaibah] serta [Ishaq bin Ibrahim] semuanya meriwayatkan dari [Jarir], berkata [Abu Bakar], telah menceritakan kepada kami [Jarir bin Abdul Hamid] dari [Musa bin Abi Aisyah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] mengenai firman Allah 'azza wajalla, "Janganlah kamu menggerakkan lisanmu." Dia berkata, "Dahulu Nabi shallallahu 'alaihi wasallam apabila Jibril turun kepadanya dengan membawa wahyu maka wahyu itulah yang dibaca oleh kedua bibirnya sehingga membuat beliau merasa sulit, dan hal tersebut diketahui dari beliau, maka Allah menurunkan, 'Janganlah kamu gerakkan lidahmu untuk (membaca) al-Qur'an karena hendak cepat-cepat (menguasai) nya. kewajiban Kamilah mengumpulkannya (di dadamu) dan (membuatmu pandai) membacanya.' kewajiban Kamilah untuk mengumpulkannya (di dadamu) dan (membuatmu pandai) membacanya, sehingga kamu bisa membacanya. 'Apabila Kami selesai membacakannya maka ikutilah bacaan itu.' Dia berkata, '(Maksudnya) apabila Kami telah menurunkannya maka dengarkanlah kepadanya.' kewajiban Kamilah penjelasannya. Maksudnya untuk menjelaskannya dengan lisanmu. Maka apabila Jibril mendatanginya, maka beliau diam untuk mendengarkan. Dan apabila dia pergi maka beliau (bisa) membacanya sebagaimana yang dijanjikan Allah kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1004</td></tr><tr><td>Arabic No</td><td>448.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘ида ибн Джубайра, что, толкуя слова Великого и Могучего Аллаха «Не шевели языком своим, (повторяя его,)…» (сура “аль-Кыяма”, аят 16), Ибн ‘Аббас сказал: «Когда Джибриль спускался с откровением, Пророк ﷺ всегда испытывал напряжение, что заставляло его шевелить языком и губами, и это было заметно по нему. Тогда Всевышний Аллах ниспослал (аяты, в которых говорилось): “Не шевели языком своим, (повторяя его,) чтобы ускорить это! Поистине, это Нам надлежит собрать и прочесть его” (сура “аль-Кыяма”, аят 16-17)».Ибн ‘Аббас сказал: «(Это значит:) собрать его для тебя в твоём сердце». (Что же касается слов Всевышнего Аллаха): «А когда Мы прочитаем его, следуй его чтению» (сура “аль-Кыяма”, аят 18), то Ибн ‘Аббас сказал: «(Это значит:) когда мы ниспосылаем его, слушай внимательно». (Аллах Всевышний сказал): «Далее, поистине, надлежит Нам разъяснить его» (сура “аль-Кыяма”, аят 19). (Ибн ‘Аббас сказал: «Это значит:) далее, Нам надлежит разъяснить его через тебя». Ибн ‘Аббас сказал: «И после этого, когда Джибриль приходил к Посланнику Аллаха ﷺ, он слушал (его), а когда Джибриль уходил, Пророк ﷺ читал (аяты Корана) так, как и обещал ему Аллах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1004</td></tr><tr><td>Arabic No</td><td>448.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 166</td></tr></tbody></table></div>
 

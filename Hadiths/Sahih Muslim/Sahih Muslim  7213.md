@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:I did not hear this hadith from Allah's Apostle (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Abu Bakr bin Abu Syaibah], semuanya dari [Ibnu Ulaiyah] berkata [Ibnu Ayyub]: Telah menceritakan kepada kami [Ibnu Ulaiyah] berkata. Telah mengkhabarkan kepada kami [Sa'id Al Jurairi] dari [Abu Nadhrah] dari [Abu Sa'id Al Khudri] dari [Zaid bin Tsabit] berkata Abu Sa'id: Aku tidak menyaksikannya dari nabi Shallallahu 'alaihi wa Salam, tapi Zaid bin Tsabit menceritakannya kepadaku, ia berkata: Saat nabi Shallallahu 'alaihi wa Salam berada di kebun milik bani An Najjar, beliau menunggangi bighal milik beliau dan kami bersama beliau, tiba-tiba bighal menyimpang hingga hampir melemparkan beliau, ternyata ada enam, lima atau empat kuburan -ia berkata: Seperti inilah yang dikatakan Al Jurairi- lalu beliau bertanya: "Siapa yang mengetahui penghuni-penghuni kubuan ini?" seseorang menjawab: Saya. Beliau bertanya: "Kapan mereka meninggal?" ia menjawab: Mereka meninggal dimasa kesyirikan. Beliau bersabda: "Sesungguhnya ummat ini diuji dikuburnya. Andai kalian tidak berlarian, niscaya aku berdoa kepada Allah agar memperdengarkan adzab kubur pada kalian seperti aku dengar." Setelah itu beliau menghadapkan wajah ke arah kami lalu bersabda: "Berlindunglah diri kepada Allah dari adzab neraka." mereka berkata: Kami berlindung diri kepada Allah dari adzab neraka." beliau bersabda: "Berlindunglah diri kepada Allah dari adzab kubur." mereka berkata: Kami berlindung diri kepada Allah dari adzab kubur." Beliau bersabda: "Berlindunglah diri kepada Allah dari fitnah-fitnah yang nampak dan yang teresmbunyi." Mereka berkata: Kami berlindung diri kepada Allah dari fitnah-fitnah yang nampak dan yang tersembunyi." Beliau bersabda: "Berlindunglah diri kepada Allah dari fitnahnya Dajjal." mereka berkata: Kami berlindung diri kepada Allah dari fitnahnya Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7213</td></tr><tr><td>Arabic No</td><td>2867</td></tr><tr><td>Reference</td><td>Book 53 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7213</td></tr><tr><td>Arabic No</td><td>2867</td></tr><tr><td>Reference</td><td>Book 53 Hadith 82</td></tr></tbody></table></div>
 

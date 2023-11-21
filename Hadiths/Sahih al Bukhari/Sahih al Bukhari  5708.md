@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Zaid:I heard the Prophet (ﷺ) saying, "Truffles are like Man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik] saya mendengar ['Amru bin Huraits] berkata; saya mendengar [Sa'id bin Zaid] berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Cendawan berasal dari al Manna, dan airnya merupakan obat untuk penyakit mata." [Syu'bah] berkata, dan telah mengabarkan kepadaku [Al Hakam bin 'Utbah] dari [Al Hasan Al 'Urani] dari ['Amru bin Huraits] dari [Sa'id bin Zaid] dari Nabi shallallahu 'alaihi wasallam. Syu'bah berkata, tatkala Al Hakam menceritakan hadits kepadaku aku tidak mengingkarinya dari hadits Abdul Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5708</td></tr><tr><td>Arabic No</td><td>5708</td></tr><tr><td>Reference</td><td>Book 76 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘ида ибн Зейда, что Пророк ﷺ сказал: «Трюфели из манны, а (выделяемая ими) жидкость является лекарством для глаз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5708</td></tr><tr><td>Arabic No</td><td>5708</td></tr><tr><td>Reference</td><td>Book 76 Hadith 28</td></tr></tbody></table></div>
 

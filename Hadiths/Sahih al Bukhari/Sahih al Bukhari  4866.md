@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The moon was cleft asunder during the lifetime of the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] dia berkata; Telah menceritakan kepadaku [Bakr] dari [Ja'far] dari ['Irak bin Malik] dari [Ubaidullah bin Abdullah bin 'Utbah bin Mas'ud] dari [Ibnu Abbas radliallahu 'anhuma] dia berkata; 'Bulan terbelah pada masa Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4866</td></tr><tr><td>Arabic No</td><td>4866</td></tr><tr><td>Reference</td><td>Book 65 Hadith 387</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, сказал: «При жизни Пророка ﷺ Луна раскололась на две части»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4866</td></tr><tr><td>Arabic No</td><td>4866</td></tr><tr><td>Reference</td><td>Book 65 Hadith 387</td></tr></tbody></table></div>
 

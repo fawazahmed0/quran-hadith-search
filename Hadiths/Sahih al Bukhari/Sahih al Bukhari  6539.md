@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:The Prophet (ﷺ) said, "There will be none among you bu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6539</td></tr><tr><td>Arabic No</td><td>6539</td></tr><tr><td>Reference</td><td>Book 81 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Ади ибн Хатима, что Пророк ﷺ сказал: «Нет ни одного из вас, с кем не заговорит Аллах в День воскресения, и между Аллахом и ним не будет толкователя (толмача). А (потом человек) посмотрит и не увидит ничего перед собой, затем он (снова) посмотрит и увидит перед лицом своим Огонь. И тот, кто может защитится от Огня посредством хотя бы половинки финика (пусть сделает это)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6539</td></tr><tr><td>Arabic No</td><td>6539</td></tr><tr><td>Reference</td><td>Book 81 Hadith 128</td></tr></tbody></table></div>
 

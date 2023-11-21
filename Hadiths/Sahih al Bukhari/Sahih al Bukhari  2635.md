@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Prophet (ﷺ) Abraham mi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Nabi Ibrahim Alaihissalam berhijrah bersama Sarah lalu diberi Ajara (Siti Hajar), lalu Sarah kembali dan berkata: "Apakah kamu mengerti bahwa Allah telah mengenyahkan orang kafir dan menghadiahi seorang hamba sahaya?" Dan berkata [Ibnu Sirin] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: "Menghadiahkan Hajar sebagai pelayan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2635</td></tr><tr><td>Arabic No</td><td>2635</td></tr><tr><td>Reference</td><td>Book 51 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Когда) Ибрахим переселялся вместе с Сарой, (царь) подарил ей Аджар, после чего (Сара) вернулась (к Ибрахиму) и сказала: “Знаешь ли ты, что Аллах унизил этого неверного и даровал нам служанку?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2635</td></tr><tr><td>Arabic No</td><td>2635</td></tr><tr><td>Reference</td><td>Book 51 Hadith 67</td></tr></tbody></table></div>
 

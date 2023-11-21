@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:We were in the company of Anas whose baker was with him. Anas sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] Telah menceritakan kepada kami [Hammam] dari [Qatadah] ia berkata; Suatu kami berada di sisi [Anas] dan saat itu ia mempunyai pembuat roti, maka ia pun berkata, "Nabi shallallahu 'alaihi wasallam tidak pernah makan roti yang empuk dan tidak pula kambing yang dipanggang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5385</td></tr><tr><td>Arabic No</td><td>5385</td></tr><tr><td>Reference</td><td>Book 70 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ не ел ни мягких тонких лепёшёк, ни зажаренного целиком ягнёнка, пока не встретил Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5385</td></tr><tr><td>Arabic No</td><td>5385</td></tr><tr><td>Reference</td><td>Book 70 Hadith 13</td></tr></tbody></table></div>
 

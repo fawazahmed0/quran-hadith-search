@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:'Umar came to the Mosque while Hassan was recitin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Az Zuhriy] dari [Sa'id bin Al Musayyab] berkata; "'Umar berjalan di dalam masjid sedangkan [Hassan] sedang bersya'ir lalu ('Umar mencelanya) maka Hassan berkata; "Aku pernah bersya'ir di masjid dan saat itu ada orang yang lebih baik darimu". Kemudian dia berpaling dan menemui [Abu Hurairah radliallahu 'anhu] seraya berkata; "Aku bersumpah kepadamu atas nama Allah, apakah anda mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Penuhilah permohonanku."Ya Allah kuatkanlah dia dengan Ruhul Qudus (Malaikat Jibril 'alaihissalam) ". Abu Hurairah radliallahu 'anhu berkata: "Iya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>3212</td></tr><tr><td>Reference</td><td>Book 59 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн аль-Мусаййиб сказал: «Однажды ‘Умар услышал, как Хассан читает стихи в мечети, (и ему не понравилось это), но Хассан сказал: “Я читал стихи в этой мечети, когда в ней находился тот, кто лучше тебя”. Затем он обратился к Абу Хурайре, сказав: “Заклинаю тебя Аллахом, (скажи мне,) слышал ли ты, как Посланник Аллаха ﷺ сказал: “О Хассан, ответь (неверным) за меня! О Аллах, поддержи его святым духом”?” — и Абу Хурайра ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>3212</td></tr><tr><td>Reference</td><td>Book 59 Hadith 23</td></tr></tbody></table></div>
 

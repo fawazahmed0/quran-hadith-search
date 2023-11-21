@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Abu Talha had the greatest wealth of date-palms amongst 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] bahwa dia mendengar [Anas bin malik radliallahu 'anhu] berkata: Abu Thalhah adalah orang yang paling banyak hartanya dari kalangan Anshor di kota Madinah berupa kebun pohon kurma dan harta benda yang paling dicintainya adalah Bairuha' (sumur yang ada di kebun itu) yang menghadap ke masjid dan Rasulullah shallallahu 'alaihi wasallam sering mamasuki kebun itu dan meminum airnya yang baik tersebut. Berkata Anas; Ketika turun firman Allah Ta'ala QS Alu 'Imran: 92 yang artinya: ("Kamu sekali-kali tidak akan sampai kepada kebajikan (yang sempurna), sebelum kamu menafkahkan sehahagian harta yang kamu cintai"), Abu Thalhah mendatangi Rasulullah shallallahu 'alaihi wasallam lalu berkata; "Wahai Rasulullah, sesungguhnya Allah Ta'ala telah berfirman: ("Kamu sekali-kali tidak akan sampai kepada kebajikan (yang sempurna), sebelum kamu menafkahkan sehahagian harta yang kamu cintai"), dan sesungguhnya harta yang paling aku cintai adalah Bairuha' itu dan sekarang dia menjadi shadaqah di jalan Allah dan aku berharap kebaikannya dan sebagai simpanan pahala di sisi-Nya, maka ambillah wahai Rasulullah sebagaimana petunjuk Allah kepada Tuan". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: Wah, inilah harta yang menguntungkan, atau harta yang pahalanya mengalir terus. Pada kalimat ini Abu Salamah ragu. Sungguh aku sudah mendengar apa yang kamu katakan dan aku berpendapat sebaiknya kamu shadaqahkan buat kerabatmu". Maka Abu Thalhah berkata: "Aku akan laksanakan wahai Rosululloloh". Lalu Abu Thalhah membagikannya untuk kerabatnya dan anak-anak pamannya". Dan berkata [Isma'il] dan ['Abdullah bin Yusuf] dan [Yahya bin Yahya] dari [Malik]: "(Inilah harta yang pahalanya) mengalir terus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 55 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Из всех ансаров Абу Тальха владел в Медине наибольшим количеством финиковых пальм, а больше всего из того, что ему принадлежало, он любил находившуюся напротив мечети (рощу) Байруха, куда часто приходил Пророк ﷺ, и где он пил хорошую воду». Анас сказал: «А после того как был ниспослан аят(, в котором говорится): “Вам никогда не обрести благочестия, если не будете вы расходовать из того, что любите…” (сура “аль-Имран”, аят 92), Абу Тальха подошёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха, поистине, Всеблагой и Всевышний Аллах говорит: “Вам никогда не обрести благочестия, если не будете вы расходовать из того, что любите…”, а больше всего из принадлежащего мне имущества я люблю Байруху, так пусть же она станет милостыней ради Аллаха, а я надеюсь, что благодаря ей обрету благочестие и сделаю себе запас у Аллаха. Используй её, о Посланник Аллаха, как укажет тебе Аллах”. Посланник Аллаха ﷺ воскликнул: “Прекрасно! Это имущество принесёт доход! Я слышал твои слова и, поистине, я считаю, что тебе следует отдать её своим родным и близким”. Абу Тальха сказал: “Я сделаю это, о Посланник Аллаха”, а потом он разделил её между своими родственниками и сыновьями своего дяди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 55 Hadith 32</td></tr></tbody></table></div>
 

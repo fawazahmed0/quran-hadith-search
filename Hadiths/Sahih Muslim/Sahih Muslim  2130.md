@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported:The Messenger of Allah (may peace be upon came to Abu Salama
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Mua'wiyah bin Amru] telah menceritakan kepada kami [Abu Ishaq Al Fazari] dari [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Qabishah bin Dzu'aib] dari [Ummu Salamah] ia berkata; Ketika Abu Salamah meninggal, Rasulullah shallallahu 'alaihi wasallam datang ke rumah kami untuk menjenguk jenazahnya. Saat itu, mata Abu Salamah tengah terbeliak, maka beliau pun menutupnya. Kemudian beliau bersabda: "Apabila ruh telah dicabut, maka penglihatan akan mengikutinya dan keluarganya pun meratap hiteris. Dan janganlah sekali-kali mendo'akan atas diri kalian kecuali kebaikan, sebab ketika itu malaikat akan mengaminkan apa yang kalian ucapkan." Setelah itu, beliau berdo'a: "ALLAHUMMAGHFIR LIABI SALAMAH WARFA' DARAJATAHU FIL MAHDIYYIIN WAKHLUFHU FI 'AQIBIHI FIL GHAABIRIIN, WAGHFIR LANAA WALAHU YAA RABBAL 'ALAMIIN, WAFSAH LAHU FII QABRIHI WA NAWWIR LAHU FIIHI (Ya Allah, ampunilah Abu Salamah, tinggikan derajatnya di kalangan orang-orang yang terpimpin dengan petunjuk-Mu dan gantilah ia bagi keluarganya yang ditinggalkannya. Ampunilah kami dan ampunilah dia. Wahai Rabb semesta alam. Lapangkanlah kuburnya dan terangilah dia di dalam kuburnya)." Dan telah menceritakan kepada kami [Muhammad bin Musa Al Qaththan Al Wasithi] telah menceritakan kepada kami [Al Mutsanna bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah bin Al Hasan] telah menceritakan kepada kami [Khalid Al Hadzdza'] dengan Isnad ini dan serupa dengannya. Hanya saja, ia mengatakan; "Dan gantikanlah ia bagi keluarganya." Ia juga mengatakan; "Ya Allah, lapangkanlah kuburannya." Dan ia tidak mengatakan; "IFSAH LAHU (lapangkanlah baginya)." Dan ia menambahkan lagi; Khalid Al Hadzdza' berkata; "Dan do'a lain yang ketujuh saya lupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2130</td></tr><tr><td>Arabic No</td><td>920.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «Посланник Аллаха ﷺ вошёл к Абу Саляме, когда взор того уже угас. Он закрыл ему глаза и сказал: “Поистине, когда дух забирают, взор следует за ним”. Близкие (покойного) стали громко причитать, и тогда (Пророк ﷺ) сказал: “Не призывайте на себя ничего, кроме блага, ибо, поистине, после любых ваших слов ангелы станут говорить ‹Амин›”. А потом он сказал: “О Аллах, прости Абу Саляме и возвысь степень его среди ведомых правильным путём, и стань его преемником для тех, кто останется после него, и прости нас и его, о Господь миров, и сделай просторной для него его могилу, и освети её для него!” /Аллахумма гфир ли-Аби Саляма, ва-рфаπ дараджата-ху фи-ль-махдиййина, ва-хлюф-ху фи ‘акыби-хи фи-ль-габирина, ва-гфир ля-на ва ля-ху, йа Рабба ль-‘алямина, ва-фсах ля-ху фи кабри-хи, ва наввир ля-ху фи-хи/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2130</td></tr><tr><td>Arabic No</td><td>920.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Mu'adh bin Jabal used to pray with the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdah] telah mengabarkan kepada kami [Yazid] telah mengabarkan kepada kami [Salim] telah menceritakan kepada kami ['Amru bin Dinar] telah menceritakan kepada kami [Jabir bin Abdullah] bahwa Mu'adz bin Jabal radliallahu 'anhu pernah shalat (dibelakang) Rasulullah shallallahu 'alaihi wasallam, kemudian dia kembali ke kaumnya untuk mengimami shalat bersama mereka dengan membaca surat Al Baqarah, Jabir melanjutkan; "Maka seorang laki-laki pun keluar (dari shaf) lalu ia shalat dengan shalat yang agak ringan, ternyata hal itu sampai kepada Mu'adz, ia pun berkata; "Sesungguhnya dia adalah seorang munafik." Ketika ucapan Mu'adz sampai ke laki-laki tersebut, laki-laki itu langsung mendatangi Nabi shallallahu 'alaihi wasallam sambil berkata; "Wahai Rasulullah, sesungguhnya kami adalah kaum yang memiliki pekerjaan untuk menyiram ladang, sementara semalam Mu'adz shalat mengimami kami dengan membaca surat Al Baqarah, hingga saya keluar dari shaf, lalu dia mengiraku seorang munafik." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Mu'adz, apakah kamu hendak membuat fitnah." -Beliau mengucapkannya hingga tiga kali- bacalah Was syamsi wadluhaaha dan wasabbih bismirabbikal a'la atau yang serupa dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6106</td></tr><tr><td>Arabic No</td><td>6106</td></tr><tr><td>Reference</td><td>Book 78 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, рассказывал: «Обычно Му’аз ибн Джабаль, да будет доволен им Аллах, молился вместе с Пророком ﷺ, а потом возвращался и проводил молитву с людьми своего племени. (Однажды, когда во время проведения ночной молитвы) он стал читать суру “аль-Бакара”, какой-то человек прервал молитву и совершил её в лёгкой форме. Когда это дошло до Му’аза, то он сказал: “Поистине, он лицемер!” А когда это дошло до того мужчины, он пришёл к Пророку ﷺ, и сказал: “О Посланник Аллаха, мы — люди, которые работают своими руками, и мы поливаем землю, используя верблюдов. Прошлой ночью Му’аз проводил с нами молитву, читая суру “аль-Бакара”, я же совершил её в лёгкой форме, из-за чего он стал утверждать, что я лицемер”. Тогда Пророк ﷺ сказал: “Ты что, Му’аз, искуситель!?”, — повторив это трижды. Читай такие суры как “Клянусь солнцем и его сиянием…”, и “Славь имя Господа твоего…”, и подобные им суры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6106</td></tr><tr><td>Arabic No</td><td>6106</td></tr><tr><td>Reference</td><td>Book 78 Hadith 133</td></tr></tbody></table></div>
 

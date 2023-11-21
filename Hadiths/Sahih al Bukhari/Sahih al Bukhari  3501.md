@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Authority of ruling will remain with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami ['Ashim bin Muhammad] berkata, aku mendengar [bapakku] dari [Ibnu 'Umar radliallahu 'anhu] dari Nabi Shallallhu 'alaihi wa salam bersabda: "Senantiasa urusan (khilafah/pemerintahan) ini di tangan suku Quraisy sekalipun tingga dua orang dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3501</td></tr><tr><td>Arabic No</td><td>3501</td></tr><tr><td>Reference</td><td>Book 61 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ сказал: “Не перестанет это дело (правление) быть среди курайшитов, даже если не останется из них никого, кроме двоих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3501</td></tr><tr><td>Arabic No</td><td>3501</td></tr><tr><td>Reference</td><td>Book 61 Hadith 11</td></tr></tbody></table></div>
 

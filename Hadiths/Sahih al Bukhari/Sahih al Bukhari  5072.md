@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:'Abdur-Rahman bin 'Auf came (from Mecca to Medina) and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] dari [Sufyan] dari [Humaid Ath Thawil] ia berkata; Aku mendengar [Anas bin Malik] berkata; Ketika Abdurrahman bin Auf datang, maka Nabi shallallahu 'alaihi wasallam mempersaudarakannya dengan Sa'd bin Rabi' Al Anshari. Seorang Anshari itu memiliki dua isteri, maka ia menawarkan satu isteri dan setengah dari hartanya kepada Abdurrahman bin Auf. Namun, Abdurrahman berkata, "Semoga Allah memberkahimu dalam harta dan juga keluargamu. Cukup engkau tunjukkan padaku dimanakah pasar." Setelah itu, ia pun langsung ke pasar dan langsung memperoleh keuntungan berupa keju dan samin. Setelah beberapa hari, Nabi shallallahu 'alaihi wasallam melihatnya dan padanya terdapat berkas-berkas kuning, maka beliau pun bersabda: "Selamat wahai Abdurrahman." Abdurrahman berkata, "Aku telah menikahi seorang wanita Anshariyyah." Beliau bertanya: "Lalu apa yang kamu berikan padanya?" ia berkata, "Yaitu emas yang beratnya kira-kira satu ons." beliau bersabda: "Rayakanlah dengan walimah meskipun hanya dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5072</td></tr><tr><td>Arabic No</td><td>5072</td></tr><tr><td>Reference</td><td>Book 67 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Когда ‘Абдуррахман ибн ‘Ауф прибыл (в Медину), Пророк ﷺ побратал его с Са‘дом ибн ар-Раби‘ аль-Ансари, который предложил ему поделить двух своих жён и имущество пополам. Однако ‘Абдуррахман ответил: “Да благословит Аллах твою семью и твоё имущество! Покажите мне рынок”. Он пошёл на рынок и заработал сушёный творог и масло. Через несколько дней Пророк ﷺ увидел на нём жёлтые следы (от благовоний на теле), и спросил: “Что это, о ‘Абдуррахман?” Он ответил: “Я женился на женщине из ансаров”. Он спросил: “Что же ты подарил ей?” Он ответил: “Золото, равное по весу (финиковой) косточке”. Тогда Пророк ﷺ сказал: “Тебе следует устроить свадебное угощение /валима/ хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5072</td></tr><tr><td>Arabic No</td><td>5072</td></tr><tr><td>Reference</td><td>Book 67 Hadith 10</td></tr></tbody></table></div>
 

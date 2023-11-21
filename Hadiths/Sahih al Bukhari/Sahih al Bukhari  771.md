@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Saiyar bin Salama:My father and I went to Abu Barza-al-Aslami to ask hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Sayyar bin Salamah] berkata, "Aku dan bapakku datang menemui [Abu Barzah Al Aslami], lalu kami bertanya kepadanya tangtang waktu-waktu shalat." Dia lalu berkata, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat Zhuhur ketika matahari sudah condong, shalat 'Ashar saat seseorang kembali ke ujung Kota Madinah sementara matahari masih panas, dan aku lupa apa yang dijelaskannya tentang shalat Maghrib. Dan tidak jarang Beliau mengakhirkan pelaksanaan shalat 'Isya hingga sepertiga malam yang akhir, beliau tidak menyukai tidur sebelum shalat Isya dan mengobrol sesudahnya. Dan Beliau melaksanakan shalat Shubuh pada waktu dimana bila sudah selesai, seseorang akan dapat mengenali siapa yang shalat di sampingnya. Beliau membaca surah dalam shalat Shubuh pada kedua rakaatnya, atau salah satunya kira-kira enam puluh hingga seratus ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>771</td></tr><tr><td>Arabic No</td><td>771</td></tr><tr><td>Reference</td><td>Book 10 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саййар ибн Саляма сказал:\n— (Однажды) я со своим отцом зашёл к Абу Барзе аль-Аслями и мы спросили его о временах намазов и он сказал: «Обычно Пророк ﷺ совершал полуденный намаз, как только солнце начинало клониться к закату, а послеполуденный — (по прошествии такого времени, которое требовалось) кому-нибудь из нас, чтобы успеть дойти до самой дальней (окраины) Медины и вернуться обратно, когда солнце ещё припекало».\n(Саййар ибн Саляма сказал): «И я забыл, что (Абу Барза) сказал относительно закатного намаза».\n(Абу Барза сказал): «И он (мог) откладывать вечерний намаз до истечения трети ночи. И (Пророк ﷺ) не одобрял сон до (этого намаза) и беседу после него. А когда он совершал утренний намаз, человек заканчивал (его) и мог узнать сидящего рядом, и во время двух рак‘атов (этого намаза) или одного из них, он обычно читал от шестидесяти до ста аятов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>771</td></tr><tr><td>Arabic No</td><td>771</td></tr><tr><td>Reference</td><td>Book 10 Hadith 165</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] serta [Muhammad Ibnu Basyar] mereka berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dia berkata; Aku mendengar [Humaid bin Abdurrahman] bercerita dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Allah Ta'ala berfirman: "Tidak sepantasnya bagi seorang hamba-Ku mengatakan bahwa aku lebih baik dari Yunus bin Matta Alaihis Salam." Dan [Ibnu Abu Syaibah] berkata; ' [Muhammad bin Ja'far] dari [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6159</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 43 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6159</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 43 Hadith 217</td></tr></tbody></table></div>
 

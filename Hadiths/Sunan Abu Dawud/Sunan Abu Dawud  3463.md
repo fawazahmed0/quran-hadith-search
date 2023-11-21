@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:When the Messenger of Allah (ﷺ) came to Medina, they were 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Sufyan] dari [Ibnu Najih] dari [Abdullah bin Katsir] dari [Abu Al Minhal] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam datang ke Madinah sementara penduduk Madinah menghutangkan kurma selama satu tahun, dua tahun serta tiga tahun. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menghutangkan kurma, maka hendaknya ia menghutangkan dalam takaran yang diketahui, dan timbangan yang diketahui serta tempo yang diketahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2240) Sahih Muslim (1604)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3463</td></tr><tr><td>Arabic No</td><td>3463</td></tr><tr><td>Reference</td><td>Book 24 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Посланник Аллаха ﷺ прибыл в Медину, а местные жители продавали финики за год, два и даже три будущих года. Посланник Аллаха ﷺ сказал: “Кто продаёт урожай заранее, пусть оговаривает объём или вес и сроки (получения товара покупателем)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2240) Sahih Muslim (1604)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3463</td></tr><tr><td>Arabic No</td><td>3463</td></tr><tr><td>Reference</td><td>Book 24 Hadith 48</td></tr></tbody></table></div>
 
